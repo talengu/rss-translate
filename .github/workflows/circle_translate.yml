@@ -21,6 +21,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
     
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -36,14 +38,6 @@ jobs:
           python main.py
           python .github/cron_random.py
           ls -al rss/
-      - name: PREPARE ssh
-        env:
-          DEPLOY_PRI: ${{secrets.DEPLOY_PRI}}
-        run: |
-          mkdir -p ~/.ssh/
-          echo "$DEPLOY_PRI" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan github.com >> ~/.ssh/known_hosts
           
       - name: PUSH
         env:
