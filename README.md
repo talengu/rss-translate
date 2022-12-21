@@ -1,5 +1,9 @@
 # rss-translate
 rss translate any to any
 
+you can edit [test.ini](test.ini) to add orginal rss url.
 
-[mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
+## rss translate links
+
+
+

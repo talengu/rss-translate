@@ -56,7 +56,7 @@ try:
     os.makedirs(BASE)
 except:
     pass
-
+links=[]
 def tran(sec):
     out_dir= BASE + get_cfg(sec,'name')
     url=get_cfg(sec,'url')
@@ -64,6 +64,9 @@ def tran(sec):
     old_md5=get_cfg(sec,'md5')
     source,target=get_cfg_tra(sec)
     
+    links+=[" - [org link](%s) -> [%s](%s)"%(url,get_cfg(sec,'name'),out_dir)]
+
+
     GT = Translate()
     headers={
         'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36 LBBROWSER'
@@ -116,3 +119,15 @@ for x in secs[1:]:
 
 with open('test.ini','w') as configfile:
     config.write(configfile)
+
+
+
+YML="README.md"
+
+f = open(YML, "r+", encoding="UTF-8")
+list1 = f.readlines()           
+list1= list1[:-8] + links
+
+f = open(YML, "w+", encoding="UTF-8")
+f.writelines(list1)
+f.close()
