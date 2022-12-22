@@ -82,6 +82,9 @@ def tran(sec):
         return
     else:
         set_cfg(sec,'md5',new_md5)
+    # move style
+    html_doc=html_doc.replace('<?', '</s')
+    html_doc=html_doc.replace('?>', '/>')
     
     soup = BeautifulSoup(html_doc)
     items=soup.find_all('item')
