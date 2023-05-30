@@ -68,7 +68,7 @@ def tran(sec):
     source,target=get_cfg_tra(sec)
     global links
 
-    links+=[" - %s [%s](%s) -> [%s](%s)\n"%(sec,url,parse.quote(url),get_cfg(sec,'name'),parse.quote(out_dir))]
+    links+=[" - %s [%s](%s) -> [%s](%s)\n"%(sec,url,(url),get_cfg(sec,'name'),parse.quote(out_dir))]
 
 
     GT = Translate()
