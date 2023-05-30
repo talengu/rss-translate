@@ -4,7 +4,7 @@ from pygtrans import Translate
 from bs4 import BeautifulSoup
 import sys
 import os
-from urllib import request
+from urllib import request, parse
 import urllib
 # pip install pygtrans -i https://pypi.org/simple
 # ref:https://zhuanlan.zhihu.com/p/390801784
@@ -18,9 +18,12 @@ def get_md5_value(src):
     _m = hashlib.md5()
     _m.update(src.encode('utf-8'))
     return _m.hexdigest()
-    
+
+
+with open('test.ini', mode = 'r') as f:
+    ini_data = parse.unquote(f.read())
 config = configparser.ConfigParser()
-config.read('test.ini',encoding='utf-8')
+config.read_string(ini_data)
 secs=config.sections()
 
 
