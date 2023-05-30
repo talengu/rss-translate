@@ -98,6 +98,7 @@ def tran(sec):
     
     content= str(soup)
     
+    content=content.replace('<title', '<stitle')
     content=content.replace('title>', 'stitle>')
     content=content.replace( '<pubdate>','<pubDate><span translate="no">')
     content=content.replace( '</pubdate>','</span></pubdate>')
@@ -110,6 +111,7 @@ def tran(sec):
     with open(out_dir,'w',encoding='utf-8') as f:
         c=_text.translatedText
         
+        c=c.replace('<stitle', '<title')
         c=c.replace('stitle>', 'title>')
         c=c.replace('<span translate="no">', '')
         c=c.replace('</span></pubdate>', '</pubDate>') # 对于ttrss需要为pubDate才会识别正确
