@@ -19,3 +19,4 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
  - source006 [https://www.profgalloway.com/feed/](https://www.profgalloway.com/feed/) -> [No Mercy No Malice_rss.xml](rss/No%20Mercy%20No%20Malice_rss.xml)
  - source007 [https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=ReutersBridge&feed=home/topnews&format=Atom) -> [economist latest_rss.xml](rss/economist%20latest_rss.xml)
  - source008 [https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Atom](https://rss-bridge.org/bridge01/?action=display&bridge=EconomistWorldInBriefBridge&limit=100&agenda=on&agendaPictures=on&format=Atom) -> [economist this week_rss.xml](rss/economist%20this%20week_rss.xml)
+ - source009 [https://www.kali.org/rss.xml](https://www.kali.org/rss.xml) -> [kali.xml](rss/kali.xml)
