@@ -45,6 +45,8 @@ class GoogleTran:
         self.GT = Translate()
     
     def tr(self,content):
+        if self.source=='proxy': #代理
+            return content
         tt = self.GT.translate(content,target=self.target,source=self.source)
         try:
             return tt.translatedText
