@@ -98,7 +98,9 @@ def get_cfg_tra(sec):
         source  = 'auto'
         target  = 'zh-CN'
         
-         
+    elif cc == "proxy":
+        source  = 'proxy'
+        target  = 'proxy'
     else:
         source  = cc.split('->')[0]
         target  = cc.split('->')[1]
