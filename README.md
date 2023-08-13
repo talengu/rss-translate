@@ -13,6 +13,11 @@ next find the translated link in [https://talengu.github.io/rss-translate/](http
 - support proxy mode. you can set `action = "proxy"` in test.ini like [source010](https://github.com/talengu/rss-translate/blob/f6648c5262f4fa0926310dbe43fff820bf727ac7/test.ini#L67)
 - fix readme.md
 
+## 20230702 update
+- atom is bad now base on an atom paraser to find. NOW SUPPORT
+        use [feedparser](https://pythonhosted.org/feedparser/)
+- fix google translate limit . NOW SUPPORT
+
 ## rss translate links
 
  - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
