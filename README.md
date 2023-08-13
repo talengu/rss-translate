@@ -9,6 +9,10 @@ you can edit [test.ini](https://github.com/talengu/rss-translate/edit/main/test.
 
 next find the translated link in [https://talengu.github.io/rss-translate/](https://talengu.github.io/rss-translate/)
 
+## 20230814 update
+- support proxy mode. you can set `action = "proxy"` in test.ini like [source010](https://github.com/talengu/rss-translate/blob/f6648c5262f4fa0926310dbe43fff820bf727ac7/test.ini#L67)
+- fix readme.md
+
 ## rss translate links
 
  - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
