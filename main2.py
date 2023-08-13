@@ -123,12 +123,12 @@ def tran(sec):
 
     links+=[" - %s [%s](%s) -> [%s](%s)\n"%(sec,url,(url),get_cfg(sec,'name'),parse.quote(out_dir))]
 
-    new_md5= get_md5_value(url) # no use now
+    # new_md5= get_md5_value(url) # no use now
 
-    if old_md5 == new_md5:
-        return
-    else:
-        set_cfg(sec,'md5',new_md5)
+    # if old_md5 == new_md5:
+    #     return
+    # else:
+    #     set_cfg(sec,'md5',new_md5)
     
     c = GoogleTran(url,target=target,source=source).get_newconent(max=max_item)
     
