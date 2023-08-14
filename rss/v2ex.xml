@@ -1,69 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 14 Aug 2023 17:57:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[游戏] 博德之门 3, 不可错过的佳作</title><link>https://www.v2ex.com/t/965310#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WHFs0rX.png" /&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 14 Aug 2023 23:00:32 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 如何选择设计系统</title><link>https://www.v2ex.com/t/965319#reply0</link><description>&lt;p&gt;选择设计系统不是一件容易的事.  设计系统如同地基, 造的楼越高, 地基越难调整. 更换设计系统的难度和工作量会随着业务的发展而增加. &lt;/p&gt;
+&lt;h2&gt;一: 设计系统要满足哪些条件&lt;/h2&gt;
+&lt;h4&gt;1. 通用性&lt;/h4&gt;
+&lt;p&gt;我相信产品开发者们都希望能将产品发布在多个操作系统上, 且希望用最少的工作量来达到这一目的.
+所以, 设计系统要能在各大操作系统上通用. 比如 MacOS, Windows, Linux, iPad, iOS, 安卓, 汽车端, (手表), (Apple Vision).&lt;/p&gt;
+&lt;p&gt;为了以下原因, 使用同一套设计系统是很有必要的.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;减轻设计和开发工作量.&lt;/li&gt;
+&lt;li&gt;降低后期维护的成本. 产品升级了, 不代表用户也跟着升级, 因此开发者需要同时维护多个大版本.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;2. 一致性&lt;/h4&gt;
+&lt;p&gt;各个操作系统拥有一致的 UI 和交互, 各个类型的产品拥有一致的 UI 和交互.
+保持 UI 和交互的一致性是推动设计系统运用的重要动力. 这有助于减少用户的学习成本.
+用户的学习成本越高, 用户使用产品的意愿度就越低. 也就是说越简单的产品越容易获得用户的试用.&lt;/p&gt;
+&lt;h4&gt;3. 扩展性&lt;/h4&gt;
+&lt;p&gt;产品从开发到完成并不会一层不变. 每一个优秀的产品都经历过长期的迭代. 所以如果设计系统不具备扩展性, 调整产品花费的工作量就会很大.
+比如最初我们设计了一个拥有 4 个一级导航的产品. 随着产品的发展, 产品的功能越来越多, 这时候我们就需要 5 个, 6 个一级导航, 再后来, 我们需要二级导航甚至三级导航. 这时候考验扩展性的时候就到了.&lt;/p&gt;
+&lt;h4&gt;4. 易用性&lt;/h4&gt;
+&lt;p&gt;设计系统也是一个产品, 越简单的产品越容易获得用户的试用.&lt;/p&gt;
+&lt;h2&gt;二: 满足以上条件的设计系统有哪些&lt;/h2&gt;
+&lt;p&gt;首先, 没有一个设计系统能在以上这些方面都做到完美, 但我们总能选出优秀的设计系统.&lt;/p&gt;
+&lt;h4&gt;Apple Design System&lt;/h4&gt;
+&lt;p&gt;苹果公司的设计系统
+在苹果生态中, 苹果的设计系统有着良好的通用性, 一致性, 扩展性和易用性. 但在桌面端苹果的设计系统会和 Windows 有一些差别, 同样在移动端苹果的设计系统也会和安卓有一些差别.&lt;/p&gt;
+&lt;h4&gt;Material Design&lt;/h4&gt;
+&lt;p&gt;谷歌公司的设计系统
+该设计系统多应用在安卓上. 桌面端的特征并不明显, 和其他设计系统接近.
+在移动端, Material Design 和 iOS 会有一些差别.&lt;/p&gt;
+&lt;h4&gt;Fluent Design System&lt;/h4&gt;
+&lt;p&gt;微软的设计系统
+该设计系统多应用在桌面端. 使用此设计系统的非微软产品比较少.&lt;/p&gt;
+&lt;h4&gt;SnowUI&lt;/h4&gt;
+&lt;p&gt;我做的设计系统
+设计初衷是打造一个满足通用性, 一致性, 扩展性, 易用性的设计系统, 能运用于不同操作系统, 不同终端和不同类型的产品上.&lt;/p&gt;
+&lt;p&gt;苹果, 谷歌和微软对产品设计都有自己不同的理解. 他们不太愿意为了符合不同操作系统的设计逻辑而更改自己的设计逻辑. SnowUI 则在这方面相对开放, 尊重并遵循他们的设计逻辑. &lt;/p&gt;
+&lt;h4&gt;其他设计系统&lt;/h4&gt;
+&lt;p&gt;除此之外还有其他公司的一些设计系统, 比如 Atlassian Design System, Lightning Design System, LINE Design System, Ant Design 等, 这些设计系统通常只支持同一类型的产品. 比如 Ant Design 只支持中后台产品.&lt;/p&gt;
+&lt;h2&gt;三: 如何选择设计系统&lt;/h2&gt;
+&lt;p&gt;首先, 自然是要选择能满足通用性, 一致性, 扩展性, 易用性的设计系统.
+其次, 新产品看起来新很重要, 尤其在 IT 行业. 因为人们总是青睐于更新的技术.
+所以设计系统的 UI 要让产品看起来是新产品, UI 要简洁能让用户有意愿去体验.&lt;/p&gt;
+&lt;h2&gt;四: 最后, 多问自己几个问题&lt;/h2&gt;
+&lt;h4&gt;1. 当你看到一个设计系统时&lt;/h4&gt;
+&lt;p&gt;这个设计系统完整吗, 有交互指导吗?
+这个设计系统还在维护吗?
+桌面端, 移动端, 不同的终端都能使用这个设计系统吗?
+不同类型的产品都能使用这个设计系统吗?&lt;/p&gt;
+&lt;h4&gt;2. 当你看到炫酷的设计时&lt;/h4&gt;
+&lt;p&gt;这些设计能在不同的操作系统, 不同类型的产品上使用吗?
+这些动效会影响用户理解此功能吗?
+这些交互和其他功能的交互是否一致?&lt;/p&gt;
+&lt;h4&gt;3. 当你看到一个拥有几十种颜色的设计系统时&lt;/h4&gt;
+&lt;p&gt;这些颜色该怎么用, 有使用规范吗?
+颜色的使用规范需要学习多久?
+如果我将设计稿交给其他设计师, 他们是否明白我使用颜色的逻辑和规则?&lt;/p&gt;
+&lt;h2&gt;关于我&lt;/h2&gt;
+&lt;p&gt;UI/UX 设计师, 16 年设计经验, 先后工作于腾讯\阿里, 现在创造 SnowUI.&lt;/p&gt;
+&lt;p&gt;SnowUI ✦ &lt;a href="http://snow.byewind.com/" rel="nofollow"&gt;http://snow.byewind.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Works ✦ &lt;a href="http://figma.com/@byewind" rel="nofollow"&gt;http://figma.com/@byewind&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;关注我: &lt;a href="http://twitter.com/FarewelltoWind" rel="nofollow"&gt;Twitter&lt;/a&gt; / &lt;a href="http://www.instagram.com/FarewelltoWind" rel="nofollow"&gt;Instagram&lt;/a&gt; / &lt;a href="https://dribbble.com/byewind" rel="nofollow"&gt;Dribbble&lt;/a&gt; / &lt;a href="http://www.figma.com/@byewind" rel="nofollow"&gt;Figma&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 22:43:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965319#reply0</guid></item><item><title>[程序员] 公共 Git 代码库如何管理敏感信息？</title><link>https://www.v2ex.com/t/965318#reply2</link><description>&lt;p&gt;请问各位在公共代码库里如何管理敏感信息
+比如用户名，密码，token 等等&lt;/p&gt;
+&lt;p&gt;不知道现在企业实际在用的方法是什么&lt;/p&gt;
+&lt;p&gt;我搜到的一些方式：&lt;/p&gt;
+&lt;p&gt;一个公共 repo （存代码），一个私有 repo(放敏感信息)，公共 repo 用 submodule 调用私有 repo&lt;/p&gt;
+&lt;p&gt;或者写一个示例的密码文件比如*.json
+repo clone 之后替换掉&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 22:02:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965318#reply2</guid></item><item><title>[奇思妙想] 使用 Socat 实验 SCTP 传输层协议</title><link>https://www.v2ex.com/t/965317#reply0</link><description>SCTP ，132 号 IP 协议，是 TCP 、UDP 之外的另一选择&lt;br /&gt;不幸的是，就跟 IPsec 这位难兄难弟一样，过不了 NAT&lt;br /&gt;但不幸中的万幸，我的宽带给了公网 IPv6&lt;br /&gt;&lt;br /&gt;于是乎：&lt;br /&gt;1 、香港云服务器，运行 wg ，分配地址 100.127.255.1&lt;br /&gt;2 、有 v6 公网接入的 Ubuntu 虚拟机一台，运行 wg ，分配地址 100.127.255.2&lt;br /&gt;3 、Ubuntu 虚拟机的隧道对端设置为 127.0.0.1:8132&lt;br /&gt;&lt;br /&gt;4 、在香港云服务器运行 socat：&lt;br /&gt;socat sctp6-listen:8080,fork udp4-sendto:127.0.0.1:51820&lt;br /&gt;&lt;br /&gt;5 、在 Ubuntu 虚拟机 yu 运行 socat&lt;br /&gt;socat udp4-listen:8132,fork sctp6-connect:[&amp;lt;云服务器的 v6&amp;gt;]:8080&lt;br /&gt;&lt;br /&gt;6 、ping 命令结果&lt;br /&gt;PING 100.127.255.1 (100.127.255.1) 56(84) bytes of data.&lt;br /&gt;64 bytes from 100.127.255.1: icmp_seq=1 ttl=64 time=141 ms&lt;br /&gt;64 bytes from 100.127.255.1: icmp_seq=2 ttl=64 time=34.8 ms&lt;br /&gt;64 bytes from 100.127.255.1: icmp_seq=3 ttl=64 time=34.8 ms&lt;br /&gt;&lt;br /&gt;emm ，看来封装对延迟几乎没有影响&lt;br /&gt;&lt;br /&gt;7 、iperf3 测速&lt;br /&gt;iperf3 -c 100.127.255.1 -P 10 -R -O 2&lt;br /&gt;[SUM]   0.00-10.04  sec  8.26 MBytes  6.90 Mbits/sec                  sender&lt;br /&gt;[SUM]   0.00-10.00  sec  8.34 MBytes  6.99 Mbits/sec                  receiver&lt;br /&gt;&lt;br /&gt;比较拉跨……</description><pubDate>Mon, 14 Aug 2023 21:59:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965317#reply0</guid></item><item><title>[问与答] 被联通标记为诈骗电话后号码无法开机</title><link>https://www.v2ex.com/t/965316#reply0</link><description>之前人一直在境外 出国前用了几年的上海联通号码开保号套餐收验证码 两三年了没用这个号码拨过一个电话&lt;br /&gt;有一阵子一直收到一些国内的来电 对方声称我的联通号码给他们拨了骚扰电话 我接着就打了 10010 反映这个问题 当时没给我解决 又过了一段时间消停了我就没在意&lt;br /&gt;后来回国了在机场发现没法用流量 连上机场 WiFi 跟人联络时得知我这个号码停机了且被标记成诈骗电话&lt;br /&gt;&lt;a href="https://imgur.com/Grjc3eU" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/Grjc3eU&lt;/a&gt;&lt;br /&gt;打了 10010 让我去营业厅办理开机 我去了营业厅办理完开机 改了个 39 的套餐想着在国内期间先用着 正常使用到当天晚上 收到条短信 又给我停机了&lt;br /&gt;&lt;a href="https://imgur.com/a9l2mE8" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a9l2mE8&lt;/a&gt;&lt;br /&gt;再打联通电话 说是系统限制停机过两次就没法开机了 等于号码报废 停机状态也没法改回保号套餐 现在用着 39 套餐收验证码&lt;br /&gt;出国前又去了一趟营业厅 告诉我这个是鹰眼系统识别的 我没打过诈骗电话的话不会莫名其妙被标记 说淘宝有路子可以解&lt;br /&gt;试过这个清除标记 只是移出黑名单 没解决问题&lt;br /&gt;&lt;a href="https://imgur.com/bBKY9qY" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/bBKY9qY&lt;/a&gt;&lt;br /&gt;投诉过工信部 显示转接到属地处理 让我发邮件给上海的相关单位 发了后面也没个结果&lt;br /&gt;&lt;a href="https://imgur.com/8nCTsgW" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/8nCTsgW&lt;/a&gt;&lt;br /&gt;有没有懂哥知道这情况该怎么办？</description><pubDate>Mon, 14 Aug 2023 21:41:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965316#reply0</guid></item><item><title>[问与答] 你的微信，真的是你的微信吗？</title><link>https://www.v2ex.com/t/965315#reply7</link><description>各位网友，我今晚真的很想问一句，张小龙什么时候死？&lt;br /&gt;&lt;br /&gt;让我给大家细细道来。首先，我对我的 iPhone 14Pro 进行了一次系统重置。重置后，我尝试登录微信，却被告知存在“网络错误，请稍后重试”。真的很奇怪，对吗？你们可以查看这张图来感受一下我当时的困惑：&lt;br /&gt;[点击这里查看图片 1]&lt;br /&gt;( &lt;a href="https://imgur.com/a/VInTq6R" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/VInTq6R&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;我决定换个手机试试。但当我用 Pixel 4 登录时，微信告诉我：“为保障你的帐号安全，请在常用设备上完成登录。” 我就在想，这不是我常用的设备吗？你们可以看看这张图，真的令人哭笑不得：&lt;br /&gt;[点击这里查看图片 2]&lt;br /&gt;( &lt;a href="https://imgur.com/a/5QM6BoL" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/5QM6BoL&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;最后，微信提议让我找好友进行辅助验证。既然如此，我便如实操作。但猜猜看，验证后居然显示“帐号存在违规行为，辅助登录失败”。这是怎么回事？我都做了微信要求的一切了，为什么还是这样？你们可以点击下面的链接，看看我当时的心情：&lt;br /&gt;&lt;br /&gt;[点击这里查看图片 3]&lt;br /&gt;( &lt;a href="https://imgur.com/a/qqXsFb5" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/qqXsFb5&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;我真的很想问微信，作为一个全球领先的通讯工具，你们的登录机制是怎么了？这是我长期使用的帐号，我提供了所有可能的信息和操作，但为什么我还是不能正常使用我的微信？&lt;br /&gt;&lt;br /&gt;希望有经历过类似问题或有解决建议的网友能分享给我。现在，每次看到微信的图标，我真的很想放弃使用。</description><pubDate>Mon, 14 Aug 2023 21:16:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965315#reply7</guid></item><item><title>[程序员] Cloudflare 中国使用新的域名 www.cloudflare-cn.com</title><link>https://www.v2ex.com/t/965314#reply5</link><description>&lt;p&gt;强制跳转 &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2023/08/15/49e5e33fa372dfe216419f04e75d134f.png" /&gt;&lt;/p&gt;
+&lt;p&gt;还做了备案 &amp;gt;_&amp;lt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://ipfs.io/ipfs/bafybeidvgy7dowqm6jhrbgpeoiab2my2hzmbdpejn5lfmz2pfhihu4mwzy/%E6%88%AA%E5%B1%8F2023-08-15%2003.44.18.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://ipfs.io/ipfs/bafybeiebqkir7f34asmxmoffvjfjkdojq26ejzzsjoe5g2w5tgtfo7xka4/%E6%88%AA%E5%B1%8F2023-08-15%2003.44.47.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 19:53:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965314#reply5</guid></item><item><title>[游戏] 博得 2 遗老依旧不能接受纯回合制</title><link>https://www.v2ex.com/t/965313#reply1</link><description>以前初中买的 bg2 soa 第三波正版盘，也算是博得老狗了&lt;br /&gt;永恒之柱，开拓者这些都玩的津津有味&lt;br /&gt;可是依旧不能接受纯回合制，比如神界原罪老是玩的很累想睡觉&lt;br /&gt;这次 bg3 要是做成正义之怒那种回合，半即时切换多好</description><pubDate>Mon, 14 Aug 2023 19:43:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965313#reply1</guid></item><item><title>[macOS] 优酷没帧享画质了？</title><link>https://www.v2ex.com/t/965312#reply0</link><description>老版本还是能看，新版本倒退了？还是特定系统才有</description><pubDate>Mon, 14 Aug 2023 18:59:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965312#reply0</guid></item><item><title>[问与答] 老板半夜给我发消息</title><link>https://www.v2ex.com/t/965311#reply2</link><description>因为老板是我表哥，和我穿一条裤子的交情，半夜给我发消息问我睡没，我回后他说焦虑，愁人。我就随便提了嘴是缺钱吗，没想到还真是，于是开始感叹生活的苦。。。&lt;br /&gt;  他是做电商的，我大学放暑假在他那边干活，不过也只是做个客服之类的等于没帮啥忙。只知道他最近又搞了个新项目，不知道是不是哪里出问题了，小公司大概二三十个人吧。而且他再过几个月要结婚，可以说用钱和杂事都挺多的吧。&lt;br /&gt;  现在互相聊了几句，他让我早点睡吧，问题是明天我肯定要和他提这事，不知道到时候怎么说。主要是我这身份太尴尬了，要他别在乎吧感觉有点站着说话不腰疼，让他努力吧感觉我这身份没资格说。&lt;br /&gt;  最蛋疼的是我现在在外地一两天回不去，因为本人也不太会交流，所以可以说只能和他发文字，老哥们给支支招吧。感觉我年纪小事多的当个乐子看就行</description><pubDate>Mon, 14 Aug 2023 18:06:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965311#reply2</guid></item><item><title>[游戏] 博德之门 3, 不可错过的佳作</title><link>https://www.v2ex.com/t/965310#reply4</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WHFs0rX.png" /&gt;&lt;/p&gt;
 &lt;p&gt;21 世纪游戏之光, 再也没有玩过比 bg3 爽的游戏; &lt;/p&gt;
 &lt;p&gt;拉瑞安工作室太顶了, 游戏性, 艺术表现, 细节与内容, 和故事讲述都无可匹敌; OTS 巨好听, 地狱大魔也有角色歌, 豪华版买了一点都不亏.&lt;/p&gt;
 &lt;p&gt;一周目靠 sl 全任务完成, he 后狂暴 sl 通了其他几个结局, 爽歪歪👍&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/r87Pwmv.png" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;del&gt; TRPG 苦手可以先把魅力加到 30. &lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;&lt;del&gt; 喀戎在谢幕表播完之后还锐评了一下三邪神, 笑死, 三邪神让喀戎天天加班都累的干秃了&lt;/del&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:31:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965310#reply3</guid></item><item><title>[分享发现] NASA 认证： 2023 年 7 月是历史上最热的月份</title><link>https://www.v2ex.com/t/965309#reply4</link><description>&lt;p&gt;据美国 NASA 纽约戈达德太空研究所（ GISS ）的科学家称，2023 年 7 月的高气温打破了全球气温记录，是 NASA 历史记录以来最热的月份。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt; 喀戎在谢幕表播完之后还锐评了一下三邪神, 笑死, 三邪神让喀戎天天加班都累的干秃了&lt;/del&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:31:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965310#reply4</guid></item><item><title>[分享发现] NASA 认证： 2023 年 7 月是历史上最热的月份</title><link>https://www.v2ex.com/t/965309#reply6</link><description>&lt;p&gt;据美国 NASA 纽约戈达德太空研究所（ GISS ）的科学家称，2023 年 7 月的高气温打破了全球气温记录，是 NASA 历史记录以来最热的月份。&lt;/p&gt;
 &lt;p&gt;2023 年 7 月的气温比其他记录的 7 月份都要高 0.43 华氏（ 0.24 摄氏），比 1951 年至 1980 年期间 7 月的平均气温高 2.1 华氏度（ 1.18 摄氏度）。&lt;/p&gt;
 &lt;p&gt;我们要怎么救地球啊~ &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.topicnews.cn/travel/nasa-says-2023july-the-hottest-since-1880" rel="nofollow"&gt;全文&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:16:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965309#reply4</guid></item><item><title>[NAS] QNAP 的 WireGuard 是怎么配置的？</title><link>https://www.v2ex.com/t/965308#reply0</link><description>&lt;p&gt;我想 Mac 上用 surge 连，但是看各种教程都是要 PC 装 WG 客户端生成密钥后，才能完成操作&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:06:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965308#reply0</guid></item><item><title>[OpenAI] 请教一下用美区 id 支付宝买礼品卡，早晨充值成功了 plus 会员晚上突然提示“the apple id is not active”是被锁定的意思吗，请教一下我这种情况应该怎么弄呢？</title><link>https://www.v2ex.com/t/965307#reply3</link><description>&lt;p&gt;找了半天好像有的说是找客服可以有的说找客服是自投罗网？&lt;/p&gt;
-&lt;p&gt;我这种算是支付宝买到黑卡了吗？有没有好心人来救救，刚充值成功还想好好写论文呢欲哭无泪&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:06:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965307#reply3</guid></item><item><title>[开源软件] 请教下高手，关于阅读开源代码的问题。</title><link>https://www.v2ex.com/t/965305#reply2</link><description>&lt;p&gt;我一直有这样一个需求：经常看 github 上面的开源项目，然后看懂源代码有一个技巧就是从他的 1.0 版本开始，因为最新的版本代码都太复杂了，不容易抓住代码的主干。可是每次我把 1.0 版本下载下来，我都要折腾半天的环境配置，就算按照 1.0 版本的依赖安装文件安装了各种对应库。运行调试代码也经常会出现错误， 原因可能是你虽然安装了相应的库，但是因为你的操作系统不兼容或者其他导致很多的错误。&lt;/p&gt;
-&lt;p&gt;我喜欢通过调试， 一步一步的弄懂开源代码。有没有一种更好的服务，就是说可以直接运行 github 上的开源项目最初版本。比如从最初的 1.0 版本开始调试，不需要我配置任何环境。有这样的服务吗？按理说这是一种刚需啊？至少我经常有这种需求。Docker 没玩过，不知道能否满足需求。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:01:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965305#reply2</guid></item><item><title>[酷工作] 新加坡公司招聘远程 web 架构、Go 架构、游戏产品经理、UI</title><link>https://www.v2ex.com/t/965304#reply0</link><description>首先感谢平台，因为遇见了这么好的平台，才能有跟大家一起学习交流成长的机会！&lt;br /&gt;&lt;br /&gt;[&lt;a href="http://Hyppies.com" rel="nofollow noopener" target="_blank"&gt;Hyppies.com&lt;/a&gt;] 新加坡混合办公&lt;br /&gt;At Hyppies, the right balance between a Human warm-hearted approach and meaningful HR technologies is at the core of what we do.&lt;br /&gt;-Recruitment &amp;amp; Engagement&lt;br /&gt;-HR Technologies and Software&lt;br /&gt;-Consulting and Contracting&lt;br /&gt;&lt;br /&gt;web 架构（ 40-55k ） 8 年以上经验，精通某类框架，有管理经验优先&lt;br /&gt;&lt;br /&gt;go 架构（ 40-60k ）精通 go 语言，多年开发经验，需要有管理经验&lt;br /&gt;&lt;br /&gt;游戏类产品（ 20-40k ）多年游戏策划经验，熟练使用各种产品工具&lt;br /&gt;&lt;br /&gt;UI （ 30-40k ）有多年游戏类设计经验，需要线上作品&lt;br /&gt;&lt;br /&gt;工作时间：9am-6pm （中途休息一个小时，与大陆时间一致）&lt;br /&gt;福利待遇：全年 13 薪  带薪年假  年度商业体检  节日福利  周末双休&lt;br /&gt;&lt;br /&gt;面试流程：HR 收到简历后会对简历进行筛选，综合考量人员学历背景、技术水平以及过往工作经历以后，会约候选人与技术团队人员面试，通过技术面的候选人视具体岗位情况与 CEO 进行二面，通过后 HR 终面讨论薪水及入职等事宜。&lt;br /&gt;&lt;br /&gt;邮件标题请标注：应聘岗位+姓名+来自 V2EX&lt;br /&gt;联系方式： aaronaailun@gmail.com&lt;br /&gt;&lt;br /&gt;注：申请者必须愿意接受背景调查，入职需提供真实的身份信息与学历证明。</description><pubDate>Mon, 14 Aug 2023 16:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965304#reply0</guid></item><item><title>[YouTube] YouTube 在 Windows 下打开视频速度极慢</title><link>https://www.v2ex.com/t/965303#reply2</link><description>&lt;p&gt;使用的是 x86 软路由，Passwall2 插件科学上网，软路由已经关闭了 IPV6 ，我的 Windows 也关闭了 IPV6 ，DNS 解析使用 DOH ，每次在 Windows 上打开一个 YouTube 视频可能需要半分钟甚至更久，但是打开后速度极快，4k 随便看，但是在 iOS 和 Mac 上都没有此问题，浏览器的安全 DNS 也关闭了，怀疑是 DOH 的问题，切换到 DOT ，问题依旧存在，请问各位大佬问题究竟在哪？应该如何排查&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:49:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965303#reply2</guid></item><item><title>[问与答] 有无适合腱鞘炎的键盘，预算 500</title><link>https://www.v2ex.com/t/965302#reply0</link><description>&lt;p&gt;rt
-机械键盘就算了&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:42:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965302#reply0</guid></item><item><title>[Android] 抬起唤醒功能耗电的怎么解决</title><link>https://www.v2ex.com/t/965301#reply0</link><description>&lt;p&gt;入手了一台 k40s 二手机，用来刷 PE 原生，刷入后，用了几天发现待机 8 小时耗电 30%，没有开任何后台程序。这续航简直了。
+&lt;p&gt;&lt;a href="https://www.topicnews.cn/travel/nasa-says-2023july-the-hottest-since-1880" rel="nofollow"&gt;全文&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:16:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965309#reply6</guid></item><item><title>[NAS] QNAP 的 WireGuard 是怎么配置的？</title><link>https://www.v2ex.com/t/965308#reply1</link><description>&lt;p&gt;我想 Mac 上用 surge 连，但是看各种教程都是要 PC 装 WG 客户端生成密钥后，才能完成操作&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:06:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965308#reply1</guid></item><item><title>[OpenAI] 请教一下用美区 id 支付宝买礼品卡，早晨充值成功了 plus 会员晚上突然提示“the apple id is not active”是被锁定的意思吗，请教一下我这种情况应该怎么弄呢？</title><link>https://www.v2ex.com/t/965307#reply5</link><description>&lt;p&gt;找了半天好像有的说是找客服可以有的说找客服是自投罗网？&lt;/p&gt;
+&lt;p&gt;我这种算是支付宝买到黑卡了吗？有没有好心人来救救，刚充值成功还想好好写论文呢欲哭无泪&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:06:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965307#reply5</guid></item><item><title>[开源软件] 请教下高手，关于阅读开源代码的问题。</title><link>https://www.v2ex.com/t/965305#reply2</link><description>&lt;p&gt;我一直有这样一个需求：经常看 github 上面的开源项目，然后看懂源代码有一个技巧就是从他的 1.0 版本开始，因为最新的版本代码都太复杂了，不容易抓住代码的主干。可是每次我把 1.0 版本下载下来，我都要折腾半天的环境配置，就算按照 1.0 版本的依赖安装文件安装了各种对应库。运行调试代码也经常会出现错误， 原因可能是你虽然安装了相应的库，但是因为你的操作系统不兼容或者其他导致很多的错误。&lt;/p&gt;
+&lt;p&gt;我喜欢通过调试， 一步一步的弄懂开源代码。有没有一种更好的服务，就是说可以直接运行 github 上的开源项目最初版本。比如从最初的 1.0 版本开始调试，不需要我配置任何环境。有这样的服务吗？按理说这是一种刚需啊？至少我经常有这种需求。Docker 没玩过，不知道能否满足需求。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 17:01:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965305#reply2</guid></item><item><title>[酷工作] 新加坡公司招聘远程 web 架构、Go 架构、游戏产品经理、UI</title><link>https://www.v2ex.com/t/965304#reply1</link><description>首先感谢平台，因为遇见了这么好的平台，才能有跟大家一起学习交流成长的机会！&lt;br /&gt;&lt;br /&gt;[&lt;a href="http://Hyppies.com" rel="nofollow noopener" target="_blank"&gt;Hyppies.com&lt;/a&gt;] 新加坡混合办公&lt;br /&gt;At Hyppies, the right balance between a Human warm-hearted approach and meaningful HR technologies is at the core of what we do.&lt;br /&gt;-Recruitment &amp;amp; Engagement&lt;br /&gt;-HR Technologies and Software&lt;br /&gt;-Consulting and Contracting&lt;br /&gt;&lt;br /&gt;web 架构（ 40-55k ） 8 年以上经验，精通某类框架，有管理经验优先&lt;br /&gt;&lt;br /&gt;go 架构（ 40-60k ）精通 go 语言，多年开发经验，需要有管理经验&lt;br /&gt;&lt;br /&gt;游戏类产品（ 20-40k ）多年游戏策划经验，熟练使用各种产品工具&lt;br /&gt;&lt;br /&gt;UI （ 30-40k ）有多年游戏类设计经验，需要线上作品&lt;br /&gt;&lt;br /&gt;工作时间：9am-6pm （中途休息一个小时，与大陆时间一致）&lt;br /&gt;福利待遇：全年 13 薪  带薪年假  年度商业体检  节日福利  周末双休&lt;br /&gt;&lt;br /&gt;面试流程：HR 收到简历后会对简历进行筛选，综合考量人员学历背景、技术水平以及过往工作经历以后，会约候选人与技术团队人员面试，通过技术面的候选人视具体岗位情况与 CEO 进行二面，通过后 HR 终面讨论薪水及入职等事宜。&lt;br /&gt;&lt;br /&gt;邮件标题请标注：应聘岗位+姓名+来自 V2EX&lt;br /&gt;联系方式： aaronaailun@gmail.com&lt;br /&gt;&lt;br /&gt;注：申请者必须愿意接受背景调查，入职需提供真实的身份信息与学历证明。</description><pubDate>Mon, 14 Aug 2023 16:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965304#reply1</guid></item><item><title>[YouTube] YouTube 在 Windows 下打开视频速度极慢</title><link>https://www.v2ex.com/t/965303#reply2</link><description>&lt;p&gt;使用的是 x86 软路由，Passwall2 插件科学上网，软路由已经关闭了 IPV6 ，我的 Windows 也关闭了 IPV6 ，DNS 解析使用 DOH ，每次在 Windows 上打开一个 YouTube 视频可能需要半分钟甚至更久，但是打开后速度极快，4k 随便看，但是在 iOS 和 Mac 上都没有此问题，浏览器的安全 DNS 也关闭了，怀疑是 DOH 的问题，切换到 DOT ，问题依旧存在，请问各位大佬问题究竟在哪？应该如何排查&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:49:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965303#reply2</guid></item><item><title>[问与答] 有无适合腱鞘炎的键盘，预算 500</title><link>https://www.v2ex.com/t/965302#reply0</link><description>&lt;p&gt;rt
+机械键盘就算了&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:42:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965302#reply0</guid></item><item><title>[Android] 抬起唤醒功能耗电的怎么解决</title><link>https://www.v2ex.com/t/965301#reply1</link><description>&lt;p&gt;入手了一台 k40s 二手机，用来刷 PE 原生，刷入后，用了几天发现待机 8 小时耗电 30%，没有开任何后台程序。这续航简直了。
 尝试了很多方式，发现刷会 miui14 后，只要开启了抬起手机自动唤醒后，miui 下待机也是续航尿崩，不开就正常。
 再一次刷回 PE ，pe 关闭了抬起唤醒，发现没有效果，依然 8 小时耗电 30%。&lt;/p&gt;
 &lt;p&gt;安装了 betterbatterystats,其他正常，唯独是传感器 sns_smd Wakeup,pickup Wakeup,在待机状态，长时间会 wakeup 。
 查了一下资料，这传感器应该就是抬起唤醒的传感器了。
 但是目前在 PE 下没有办法解决。
-各位有什么办法可以支招&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:34:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965301#reply0</guid></item><item><title>[问与答] 请问 现在什么远程控制好用?</title><link>https://www.v2ex.com/t/965300#reply0</link><description>&lt;p&gt;大家好，请问 现在什么远程控制好用?&lt;/p&gt;
+各位有什么办法可以支招&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:34:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965301#reply1</guid></item><item><title>[问与答] 请问 现在什么远程控制好用?</title><link>https://www.v2ex.com/t/965300#reply0</link><description>&lt;p&gt;大家好，请问 现在什么远程控制好用?&lt;/p&gt;
 &lt;p&gt;可以后台远程观看屏幕，不需要控制。&lt;/p&gt;
 &lt;p&gt;不需要填写 远程码，或者只首次填写。&lt;/p&gt;
-&lt;p&gt;类似于 当年的灰鸽子。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:22:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965300#reply0</guid></item><item><title>[程序员] 兄弟们，失业将近 7 个月，终于找到工作了</title><link>https://www.v2ex.com/t/965298#reply7</link><description>&lt;p&gt;运维岗，坐标上海，降薪 20%，太难了，现在也算是有了稳定收入，想跟大家分享一下&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:02:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965298#reply7</guid></item><item><title>[问与答] 救救！神坑 ubuntu</title><link>https://www.v2ex.com/t/965296#reply3</link><description>&lt;p&gt;这两天才装的 ubuntu ，有更新啥的我都点了，不知道为啥突然出来个&lt;code&gt;ESM&lt;/code&gt;，xshell 这些工具登录直接被拒绝
-网上找禁用的资料也不管用，用了那么多虚拟机，这次装的实体机，第一次被搞得这么无语&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Connecting to 192.168.0.213:22...
-Connection established.
-To escape to local shell, press 'Ctrl+Alt+]'.
-
-Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 6.2.0-26-generic x86_64)
-
- * Documentation:  https://help.ubuntu.com
- * Management:     https://landscape.canonical.com
- * Support:        https://ubuntu.com/advantage
-
-扩展安全维护（ ESM ） Applications 未启用。
-
-0 更新可以立即应用。
-
-15 个额外的安全更新可以通过 ESM Apps 来获取安装。
-可通过以下途径了解如何启用 ESM Apps：at https://ubuntu.com/esm
-
-Last login: Mon Aug 14 23:42:52 2023 from 192.168.0.178
-
-Connection closed by foreign host.
-
-Disconnected from remote host(192.168.0.213) at 23:43:51.
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 14 Aug 2023 15:55:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965296#reply3</guid></item><item><title>[分享创造] 开发了一个段落上下文的划词翻译 Chrome 插件</title><link>https://www.v2ex.com/t/965295#reply0</link><description>&lt;h1&gt;背景&lt;/h1&gt;
-&lt;p&gt;最近失业在家，想着学点什么。后来我在阅读英文文档时，经常碰到一些生词，因为单个单词在不同上下文中会有不同的意思，所以一般我会把整个句子复制到翻译软件中获取单词的意思。但是我想进一步优化这一过程，想着利用 GPT 来实现根据段落上下文获取单词的意思。
-&lt;img alt="界面截图" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/s0s64y3O.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;功能&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;基于段落上下文翻译单词，词组&lt;/li&gt;
-&lt;li&gt;自定义 Prompt&lt;/li&gt;
-&lt;li&gt;自定义 GPT 反向代理&lt;/li&gt;
-&lt;li&gt;自定义 CSS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;代码仓库&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://github.com/ICE1997/kiza-translator" rel="nofollow"&gt;https://github.com/ICE1997/kiza-translator&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;More&lt;/h1&gt;
-&lt;p&gt;项目还在初期开发中，基本定了一个原型，后续也会继续以“根据段落上下文翻译单词/词组/句子”为核心功能来开发，欢迎各位大佬来提交 issue 或者 pull request 。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:41:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965295#reply0</guid></item><item><title>[小米] 小米今天的发布会大家感兴趣吗？</title><link>https://www.v2ex.com/t/965293#reply9</link><description>&lt;p&gt;&lt;a href="https://i.imgur.com/KuZvWwB.jpg" rel="nofollow"&gt;https://i.imgur.com/KuZvWwB.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:23:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965293#reply9</guid></item><item><title>[程序员] 请问一下 idea git 合并分支时遇到的一点问题</title><link>https://www.v2ex.com/t/965292#reply0</link><description>&lt;p&gt;为什么最近一次合并分支，别人新增的代码块以及新增的几个代码文件，需要在我合并后再次提交？并且作者会变成我的。后面我实在没办法换了老乌龟来合并，才没有问题……&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965292#reply0</guid></item><item><title>[问与答] 求一款好用的文字 OCR 和翻译的 windows 软件</title><link>https://www.v2ex.com/t/965291#reply0</link><description>我需要的功能就三个，一个是截图 ORC 转文字，一个是截图 ORC 转文字并翻译，一个是划词翻译。&lt;br /&gt;天若 ocr 还没收费时就在用，但没用过收费的版本。天若其实很符合，就是没有划词翻译。&lt;br /&gt;还用过一个 pot ，主要问题在于延迟，按下快捷键要等 0.6 、7 秒才有反应。而且最伤的是，比如我将鼠标悬停在 idea 的一个类名上，等待一下会弹出弹窗进行提示，此时我按 pot 的快捷键，弹窗就消失了，无法截取弹窗里的内容。而天若就没有这个问题。&lt;br /&gt;大佬有什么好的推荐吗</description><pubDate>Mon, 14 Aug 2023 15:17:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965291#reply0</guid></item><item><title>[问与答] 各位大佬，请教问题，目前公司有需要建立一个收件的邮箱池，只收请问下有啥好方案呢。</title><link>https://www.v2ex.com/t/965290#reply0</link><description>&lt;p&gt;好像国内的邮箱服务器又开不了。。。
-很痛苦哇。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:14:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965290#reply0</guid></item><item><title>[MIUI] MIUI 搜索特定本地 APP，启动后直接打开推广页的问题有没有办法解决</title><link>https://www.v2ex.com/t/965288#reply1</link><description>&lt;p&gt;我在使用 MIUI 的过程中，唯一能影响到我的广告行为就是这个。&lt;/p&gt;
-&lt;p&gt;内置搜索功能搜索本地某些应用（目前发现淘宝京东等购物类 APP ）时，从搜索结果打开这个应用，有概率不会进入到正常的首页，而是一个推广页。&lt;/p&gt;
-&lt;p&gt;我使用低频应用时很依赖这个搜索入口，避免找应用图标，但是动不动他就给我弄到一个商品页，我看个订单物流信息还要先返回几次才能点到个人中心。
-我觉得最搞笑的就是小米商城这种自己的应用他也这么搞，令我非常无语。我对广告其实还挺宽容的，但是保留这种耍流氓的行为，让米冲高更搞笑了。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:13:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965288#reply1</guid></item><item><title>[深圳] [个人转租] 龙华民治悦湖大厦电梯高层 C9 户型</title><link>https://www.v2ex.com/t/965286#reply0</link><description>&lt;p&gt;龙华民治悦湖大厦电梯高层 C9 户型，南面超大单间 1650/月，带厨卫，家具齐全领包入住~
-位于民治地铁与白石龙地铁中间。
-房租 1650+管理费 100 ，水费 6/吨；电费 1.35/度；
-可短租三个月，到期后可与物业管理处续租；&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 15:01:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965286#reply0</guid></item><item><title>[问与答] 有没有人在用 https://www.focusai.live/，昨天遇到 bug，余额被消耗完了，联系不上任何客服
-大家有没有推荐的别的 gpt 服务</title><link>https://www.v2ex.com/t/965285#reply1</link><description>就是之前来 V 站推广，标题是和女网友做了个 GPT 什么什么的，现在网站的客服微信加不上，V 站的帖子回复也没消息。&lt;br /&gt;&lt;a href="https://www.v2ex.com/t/951614#reply113" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/951614#reply113&lt;/a&gt;&lt;br /&gt;@&lt;a href="https://www.v2ex.com/member/Eyon" rel="nofollow noopener" target="_blank"&gt;Eyon&lt;/a&gt;</description><pubDate>Mon, 14 Aug 2023 15:01:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965285#reply1</guid></item></channel></rss>
+&lt;p&gt;类似于 当年的灰鸽子。&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:22:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965300#reply0</guid></item><item><title>[程序员] 兄弟们，失业将近 7 个月，终于找到工作了</title><link>https://www.v2ex.com/t/965298#reply7</link><description>&lt;p&gt;运维岗，坐标上海，降薪 20%，太难了，现在也算是有了稳定收入，想跟大家分享一下&lt;/p&gt;</description><pubDate>Mon, 14 Aug 2023 16:02:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965298#reply7</guid></item></channel></rss>
