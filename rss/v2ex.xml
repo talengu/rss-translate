@@ -1,149 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 15 Aug 2023 19:43:03 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] Camerapedia - 你随身的相机参数大全 发几个码</title><link>https://www.v2ex.com/t/965637#reply4</link><description>&lt;p&gt;&lt;img alt="avatar" class="embedded_image" rel="noreferrer" src="https://pub-36ce6e1adb194cbe988b76b4b06072b3.r2.dev/IMG_0011.png" /&gt;&lt;/p&gt;
-&lt;p&gt;一个方便查看各大主流品牌相机参数的 App ，发几个码大家自取。&lt;/p&gt;
-&lt;p&gt;MX77J36JWY4L
-T7EPFKLEHR6L
-EKTFTX794T4T
-76M7FEHKA69L
-MKTFE3YTYYFM
-4YYJF6A363KK
-X4RAAHRYRTM3
-T6LEPPKM3KJK
-WYMPF66XNLMF
-4WTT4K4TJR3P&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 17:28:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965637#reply4</guid></item><item><title>[问与答] 1.5k 预算，大学上课码代码用，求二手轻薄 win 本选购建议， x86 or arm？</title><link>https://www.v2ex.com/t/965636#reply8</link><description>看了两天，目前相中的有以下几款：&lt;br /&gt;x86:&lt;br /&gt;HP Elite 1012 G2/1013 G3 前者为 7200u 居多，价格在 1000 出头就能拿下笔，键盘，本体&lt;br /&gt;后者为 8350U ，但定价普遍快到了 2000 并且大多数只有本体/无触摸&lt;br /&gt;arm：&lt;br /&gt;小米 Book 12.4 这个价格也基本都在 1500 左右，8cx Gen2&lt;br /&gt;小米平板 5 这个也是一开始第一考虑到的机型，骁龙 860 ，但是由于不是官方&lt;br /&gt;支持的 windows ，目前还有快充，有线耳机没有解决 也是 1500 左右&lt;br /&gt;要求是最好可拆卸键盘，性能上不做任何游戏要求，只要能码代码，日常 office&lt;br /&gt;QQ 没问题就好&lt;br /&gt;个人认为选 arm 阵营的优势：&lt;br /&gt;1.产品相对来说比同价位 x86 能选的都新上好几年，至少寿命上体感会强于同价位 x86 。&lt;br /&gt;2.功耗低，续航好，用一天下来基本不愁&lt;br /&gt;3.arm 原生应用体验基本上没问题&lt;br /&gt;劣势：&lt;br /&gt;1.万一万一碰到没有 arm 架构的程序需要转译，性能损失较大&lt;br /&gt;2.1.5k 只能买到本体+键盘，要笔还要另外加钱&lt;br /&gt;&lt;br /&gt;至于 x86 就恰恰相反，但是唯一担心的就是像 7200U 这种 cpu 太老，以至于同时 vsc+office+qq+浏览器会顶不住。。&lt;br /&gt;PS.已经有了一台主力台式电脑，所以不需要游戏性能&lt;br /&gt;PSS.至于 parsec 之类的远程控制方案，宿舍网差延迟不稳定 只能当备选&lt;br /&gt;PSSS.以上机型价格均为 8+256</description><pubDate>Tue, 15 Aug 2023 17:15:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965636#reply8</guid></item><item><title>[推广] 香港移动鸭聊佳上网卡，带号码免实可续期</title><link>https://www.v2ex.com/t/965635#reply1</link><description>香港鸭聊佳卡（无需实名）带号码用完可续费&lt;br /&gt;&lt;br /&gt;鸭聊佳🦆15G 流量一年 180 元&lt;br /&gt;&lt;br /&gt;鸭聊佳🦆18G 流量一年 200 元&lt;br /&gt;&lt;br /&gt;鸭聊佳🦆30G 流量半年 290 元&lt;br /&gt;&lt;br /&gt;鸭聊佳🦆60G 流量半年 400 元&lt;br /&gt;&lt;br /&gt;HK mobile （ csl)流量年卡内地 12GB+香港 12GB&lt;br /&gt;&lt;br /&gt;170 元&lt;br /&gt;&lt;br /&gt;无需实名带号码用完可续费&lt;br /&gt;&lt;br /&gt;咨询购买频道 &lt;a href="https://t.me/+f93Gp2dh-oM0ZTc0" rel="nofollow noopener" target="_blank"&gt;https://t.me/+f93Gp2dh-oM0ZTc0&lt;/a&gt;</description><pubDate>Tue, 15 Aug 2023 17:11:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965635#reply1</guid></item><item><title>[问与答] 投影仪适合移动吗（即无固定使用位置）</title><link>https://www.v2ex.com/t/965634#reply4</link><description>&lt;p&gt;因为租房空间有限，所以打算放床上，用的时候拿出来放床上，不用的时候收起来。所以不知道这样是否方便？&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 16:58:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965634#reply4</guid></item><item><title>[Redis] 用 redis 直接替换 app/物联网的 mq 服务器的可行性大吗？怎么对客户端进行限制</title><link>https://www.v2ex.com/t/965630#reply2</link><description>&lt;p&gt;现有方案是 mqtt 服务器。
-但是今天仔细看了了一下 redis7 的 acl 控制。感觉权限可以缩小到很小 。另外 Stream 结构可以直接用 redis 解决消息持久化的问题。
-所以在琢磨用 redis 直接做 mq 服务器。不再经过 mqtt 转发一次浪费性能。 直接给每一个用户的客户端分配一个 redis 账号，账号定时横换。&lt;/p&gt;
-&lt;p&gt;因为用户的客户端不可信，有几个问题不知道如何解决，独立的临时账号解决了客户端的安全问题，那么主要是客户端的资源占用的限制上。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 16 Aug 2023 12:36:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[生活] 新鲜大米购买渠道求推荐</title><link>https://www.v2ex.com/t/965891#reply1</link><description>&lt;p&gt;前几天超市买的大米今天吃下去肝都不好了 又白又亮 在超市里还闻不出什么味道 今天拿出来浸在水里 竟然有米虫爬出来 肯定打了很多蜡 我如果在超市能闻出味道肯定不会买的 又被欺骗了&lt;/p&gt;
+&lt;p&gt;虽然说一直以来都经常看见米里有虫 袋装的双猫米也一样 但没有这次买的这么坏 身体肝脏都感觉不好&lt;/p&gt;
+&lt;p&gt;杭州物美超市买的米也一样 拿回家放在一个封闭的地方 会变暗 还会有股气味&lt;/p&gt;
+&lt;p&gt;我在农村 我都想自己种水稻了 那样就有新鲜米吃了&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:26:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965891#reply1</guid></item><item><title>[问与答] 想为安卓手表开发一款应用，求推荐一款手表型号</title><link>https://www.v2ex.com/t/965890#reply0</link><description>我想完成一个类似「测量棒球投手投球速度」的需求，目前有几个需求和问题：&lt;br /&gt;&lt;br /&gt;1.需求要用到加速传感器（可能会用到陀螺仪？）&lt;br /&gt;2.应用不上架，本地安装即可&lt;br /&gt;3.手表尽量轻&lt;br /&gt;4.没有安卓手机是否会影响开发和安装？&lt;br /&gt;5.因为是开发用，所以满足需求的条件下尽量便宜即可，预算二手 500 以下&lt;br /&gt;&lt;br /&gt;求大佬推荐一款符合需求的安卓 watch</description><pubDate>Wed, 16 Aug 2023 12:18:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965890#reply0</guid></item><item><title>[宽带症候群] 宽带 vps ip 间歇阻断，流量正常</title><link>https://www.v2ex.com/t/965888#reply1</link><description>先说明下梯子情况：&lt;br /&gt;&lt;br /&gt;- &lt;a href="http://DMIT.LAX.Pro" rel="nofollow noopener" target="_blank"&gt;DMIT.LAX.Pro&lt;/a&gt; 自建节点 vless+grpc&lt;br /&gt;- 一年了挺稳定的，最近几个月才出现的情况&lt;br /&gt;&lt;br /&gt;同样的节点，手机小火箭用流量挂着很稳定&lt;br /&gt;但用家宽，PC 上用 v2rayN 就会出现问题。&lt;br /&gt;&lt;br /&gt;特点是只要开了代理，就会出现间歇的断连。一开始可能好个 10 分钟断个 3 分钟，如果继续翻就完全不通了。后来查到说有可能被分配了个污染 ip ，所以我重新拨号，果真挂了梯子又可以了，但好景不会超过半小时的样子。&lt;br /&gt;&lt;br /&gt;断连的时候 ping 和 tcping 服务器 ip 直接就 time out 。&lt;br /&gt;但是一关掉梯子，就立马可以访问了，服务器上的网站也能上。&lt;br /&gt;&lt;br /&gt;tcp.ping 上无论什么时候测显示都是通的。&lt;br /&gt;&lt;br /&gt;之前有查到说部分地区有白名单，但我看我这情况也不像，不知道有没有人遇到过。</description><pubDate>Wed, 16 Aug 2023 12:16:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965888#reply1</guid></item><item><title>[问与答] 移动变更套餐后这样扣费合理吗？</title><link>https://www.v2ex.com/t/965887#reply0</link><description>我有一张开通了校园宽带的移动卡，原价 59 元的套餐优惠后 39 元，原价 30 的校园宽带优惠后 10 元，还送了个每个月能领视频音乐会员的动感地带 VIP,这个原价标的是 20 元，一个月优惠后共扣费 49 元。&lt;br /&gt;&lt;br /&gt;本来不打算用这个号码了，快俩月没用了欠费 60 多，但有些东西绑定着，我充了 70 话费开机后还有 5 块多余额，找客服变更了 8 元套餐，取消了所有的东西。今天看了账单，变更前的套餐里的东西全部原价按天扣费了，原价 59 元的套餐扣费 27 元，校园宽带扣费 14.7 元，送的 vip 会员也按原价扣费 20 元，一夜间就扣了 40 ，给我直接干欠费了。&lt;br /&gt;&lt;br /&gt;原来有优惠的套餐，在变更套餐当月按没有优惠的原价进行扣费，这样扣费合理吗？</description><pubDate>Wed, 16 Aug 2023 12:16:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965887#reply0</guid></item><item><title>[汽车] 特斯拉引荐码</title><link>https://www.v2ex.com/t/965886#reply0</link><description>&lt;p&gt;最近有想买特斯拉的，可以填我的引荐码下单哦，引荐码：116624&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:16:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965886#reply0</guid></item><item><title>[OpenAI] chatgpt for google 插件有无推荐，能使用 poe 模式的？</title><link>https://www.v2ex.com/t/965885#reply0</link><description>&lt;p&gt;大家有无在能同时搜索 Google 和 chatgpt 的插件推荐，能使用 poe 模式的那种？在网上找了很多 gpt 的插件，都是要登录 openai 账户的，非常不稳定，一旦代理切换了节点，就无法使用了，很不方便。&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:11:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965885#reply0</guid></item><item><title>[问与答] 同事过几天去土耳其，有什么可以让帮忙买的？</title><link>https://www.v2ex.com/t/965884#reply3</link><description>&lt;p&gt;土区订阅便宜，各种礼品卡？&lt;/p&gt;
+&lt;p&gt;土耳其电话卡有推荐吗？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:44:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965884#reply3</guid></item><item><title>[云计算] 怎么做 CC 压测啊</title><link>https://www.v2ex.com/t/965883#reply0</link><description>&lt;p&gt;怎么压测能并发多少&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:36:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965883#reply0</guid></item><item><title>[酷工作] [Base 上海] [英语沟通] IT 技术支持 希望有支持过 SAP 的经验 1200~1500/天 长期</title><link>https://www.v2ex.com/t/965882#reply0</link><description>Technical Support &lt;br /&gt;Onsite Location：  长期 onsite 保时捷，在 2 号线东昌路&lt;br /&gt;Start：ASAP （ Support 岗位，long term ）&lt;br /&gt;&lt;br /&gt;其实这个岗位也不是严格意义的 SAP basis&lt;br /&gt;类似于 L2 technical support&lt;br /&gt;但对 SAP 系统产品要熟悉一些&lt;br /&gt;&lt;br /&gt;tech support 的这个岗位，懂 abap ，追过 log ，解决过问题，英语能协同各部门解决问题&lt;br /&gt;给 line 汇报清楚，就可以。&lt;br /&gt;&lt;br /&gt;有兴趣可以添加 WX：END78999</description><pubDate>Wed, 16 Aug 2023 11:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965882#reply0</guid></item><item><title>[iOS] ios 如何屏蔽装修公司的电话？</title><link>https://www.v2ex.com/t/965881#reply1</link><description></description><pubDate>Wed, 16 Aug 2023 11:35:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965881#reply1</guid></item><item><title>[VPS] 腾讯云已经彻底不能用了！</title><link>https://www.v2ex.com/t/965880#reply5</link><description>&lt;p&gt;香港方向，三网丢包率如下，不太清楚为什么腾讯要故意赶人下车！&lt;/p&gt;
+&lt;p&gt;🌐CU|CT|CM&lt;/p&gt;
+&lt;p&gt;20%💻28%💻24%&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:31:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965880#reply5</guid></item><item><title>[OpenAI] openai 开放接口改支付方式了？</title><link>https://www.v2ex.com/t/965879#reply2</link><description>&lt;p&gt;貌似没有预用的 120 额度了，这个对之前的号有影响吗？之前的额度号，下个月额度就清零了，需要先支付后使用了？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965879#reply2</guid></item><item><title>[酷工作] 阿里巴巴控股集团 2024 届应届生校园招聘 - 前端开发工程师</title><link>https://www.v2ex.com/t/965878#reply1</link><description>&lt;h2&gt;阿里巴巴控股集团 2024 届应届生校园招聘 - 前端开发工程师&lt;/h2&gt;
+&lt;h3&gt;职位描述&lt;/h3&gt;
+&lt;p&gt;在这里，&lt;/p&gt;
+&lt;p&gt;你将有机会与交互设计师一起，美化产品线 Web 功能的设计；&lt;/p&gt;
+&lt;p&gt;有机会与视觉设计师一起，完成产品线 Web 功能的开发与实现；&lt;/p&gt;
+&lt;p&gt;有机会做全栈式开发；&lt;/p&gt;
+&lt;p&gt;有机会做移动端开发；&lt;/p&gt;
+&lt;p&gt;有机会做性能、架构等方面的改进与优化；&lt;/p&gt;
+&lt;p&gt;有机会自己亲手打造一个产品的从设计到发布；&lt;/p&gt;
+&lt;p&gt;你还将加入到我们业内最前沿 Web 技术的研究与开发中。&lt;/p&gt;
+&lt;h3&gt;职位要求&lt;/h3&gt;
+&lt;p&gt;[必备项] &lt;/p&gt;
+&lt;p&gt;1 、熟练使用各种 Web 前端技术，包括 HTML(5)/CSS(3)/Javascript 等，并有相关的项目开发经验或成果；&lt;/p&gt;
+&lt;p&gt;2 、熟悉前端工程化，用过 git ，gulp 或 webpack 等工具，最好有自己的 github 仓库；&lt;/p&gt;
+&lt;p&gt;3 、有基于 Ajax 应用的开发经验，有 NodeJS/Java 开发经验，或者有移动端开发经验；&lt;/p&gt;
+&lt;p&gt;4 、深刻理解 Web 标准，对可用性、可访问性等相关知识有实际的了解；&lt;/p&gt;
+&lt;p&gt;5 、对算法、数据结构、建模有一定了解；&lt;/p&gt;
+&lt;p&gt;6 、学习能力强，对新事物保有好奇心，并能快速适应新环境；&lt;/p&gt;
+&lt;p&gt;7 、良好的沟通能力和团队协同能力，能与他人合作，共同完成目标；&lt;/p&gt;
+&lt;p&gt;8 、对所在领域有热情，善于独立思考并反思总结。&lt;/p&gt;
+&lt;p&gt;[加分项] &lt;/p&gt;
+&lt;p&gt;1 、有大型互联网公司相关岗位实习及项目开发经历；&lt;/p&gt;
+&lt;p&gt;2 、在相关领域国际顶级会议、期刊发表论文，或相关学术会议组织的权威比赛中获奖&lt;/p&gt;
+&lt;p&gt;一段全新、有意思的旅程正待开启！为了更全面的展现你自己，你还可以在简历中附上你认为自己最有意思的爱好、特长、经历，或是对未来有意思的畅想，没有限制，此项非必填。加入我们，一起打开有意思的未来！&lt;/p&gt;
+&lt;h3&gt;工作地点&lt;/h3&gt;
+&lt;p&gt;杭州&lt;/p&gt;
+&lt;h3&gt;补充&lt;/h3&gt;
+&lt;p&gt;校招的 JD 比较泛，其实只有一个比较硬性的要求是学校 211 及以上，组内直招，有全栈开发经验优先。&lt;/p&gt;
+&lt;p&gt;投递请联系 &lt;a href="mailto:lakerswgq@gmail.com"&gt;lakerswgq@gmail.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;另有其他校招岗位可扫码查看&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/ruanyf/weekly/assets/9381522/9e7eb06b-2fe0-4096-9f68-41c06f2c77d6" /&gt;&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:13:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965878#reply1</guid></item><item><title>[Nintendo Switch] 关于 openclash 用什么模式对 switch 联机游戏更稳定？</title><link>https://www.v2ex.com/t/965877#reply6</link><description>&lt;p&gt;目前我用的节点很稳定速度也快，昨晚用了 fake ip 还是会断，不知道哪个模式对 switch 联机更好&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:08:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965877#reply6</guid></item><item><title>[问与答] 用 idea，如何把 Java 项目同步到另一台电脑</title><link>https://www.v2ex.com/t/965876#reply2</link><description>现在用 git ，同步到另一台电脑，用 idea 开启项目后，一直报“错误: 找不到或无法加载主类”&lt;br /&gt;搜了一下，应该是 ieda 的配置问题，但是试了好几个方案，也没成。</description><pubDate>Wed, 16 Aug 2023 11:00:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965876#reply2</guid></item><item><title>[分享创造] chrome 插件有能支持 tabs 打标签进行区分的吗？</title><link>https://www.v2ex.com/t/965875#reply4</link><description>&lt;p&gt;前端开发，平时打开的网页数不胜数。但是 chrome 打开的 tabs 越多就越容易崩溃(内存顶不住)。所以我迫不得已会经常删除 tab 页面，然后保留常用的几个。
+但是偶尔看到喜欢的博客或者热点新闻，tabs 多了后完全看不清 title ，导致我也不得不删除或者新开 chrome 窗口。
+v 友们，有没有用过什么好用的且能满足我需求的插件：未激活不占用内存(类似 oneTab ？)、tab 栏打标记进行分类&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:54:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965875#reply4</guid></item><item><title>[NAS] 求一份大家 NAS 电影目录名文件信息</title><link>https://www.v2ex.com/t/965874#reply1</link><description>&lt;p&gt;有没有 NAS 存了很多电影电视剧的大佬,求份电影目录名文件，用于分析试着获取影视数据的准确性。
+需要真实下载的文件路径名排错分析，最好有几千部的那种，不看大小内容，仅看文件信息。&lt;/p&gt;
+&lt;p&gt;进入 nas 的存储空间放媒体文件的目录执行下命令即可：
+find . -type f ( -name '&lt;em&gt;.mkv' -o -name '&lt;/em&gt;.mp4' ) &amp;gt; a.txt&lt;/p&gt;
+&lt;p&gt;txt 里面存储的是各种文件路径信息,每条大致会是类似如下样式（路径+文件）：
+./film/2023/2022/2022-11/珀尔.2022.Pearl.2022.BluRay.1080p.AVC.DTS-HD.MA5.1-loongkee@MTeam.mkv&lt;/p&gt;
+&lt;p&gt;有 V 友可以抽空帮忙生成下的吗，谢谢啦。&lt;/p&gt;
+&lt;p&gt;生成好的可以发邮箱(lxlvce@gmail.com)或者存网盘共享链接之类都可以&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:50:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965874#reply1</guid></item><item><title>[问与答] 求一个关闭微信自动接收文件的脚本</title><link>https://www.v2ex.com/t/965873#reply0</link><description>&lt;p&gt;如题，想在域控推送该脚本，而非单个用户自行关闭。&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:49:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965873#reply0</guid></item><item><title>[数据库] 为什么 mongoDB 官方给 Ubuntu ARM 打包，不给 Debian ARM 打包</title><link>https://www.v2ex.com/t/965872#reply1</link><description>&lt;p&gt;不是顺手的事吗？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:23:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965872#reply1</guid></item><item><title>[NAS] 求教 nas 大容量网络备份解决方案</title><link>https://www.v2ex.com/t/965870#reply4</link><description>&lt;p&gt;exsi 主机，跑了群晖 nas ，数据总共 9T 左右，且持续增长&lt;/p&gt;
+&lt;p&gt;nas 现行备份方案如下：
+每月手动外插 2 块 6t 硬盘进行冷备份&lt;/p&gt;
+&lt;p&gt;希望能将数据再备份一份到网络上，且价格不要过高&lt;/p&gt;
+&lt;h2&gt;已尝试过的方案：&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;1 、怎么限制客户端的请求频率，用 iptable 来限制？   &lt;/li&gt;
-&lt;li&gt;
-2 、怎么限制单个用户的占用的内存。&lt;br /&gt;
-目前想到的   &lt;ul&gt;
-&lt;li&gt;2.1 、client-query-buffer-limit 限制输入缓冲区  &lt;/li&gt;
-&lt;li&gt;2.2 、后端不断执行 CLIENT LIST 踢掉占用太大的用户？   &lt;/li&gt;
-&lt;li&gt;2.3 、怎么限制同一个用户重复登陆 redis ？只能定时用 CLIENT LIST 去扫描吗  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;暂时只想到这些，恳求各位赐教！&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 16:27:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965630#reply2</guid></item><item><title>[分享发现] 记一次闲鱼遇见（可能是）到手刀惯犯的经历</title><link>https://www.v2ex.com/t/965629#reply5</link><description>&lt;h3&gt;首先声明「到手刀惯犯」是我对该买家的恶意揣测&lt;/h3&gt;
-&lt;p&gt;买家签收快递后，过了一会儿给我发了一个视频，视频里展示了他的手机放在无线充上可以正常充电，我卖给他的不可以，很多人卖家在这时候就认为是自己的手机出了问题，但是我不这么认为，因为我发货前我特意测了所有功能，所以无线充肯定是好用的（而且这是我的备用机，基本一直扔在无线充上）。这时候我就感觉可能遇到到手刀了。&lt;/p&gt;
-&lt;p&gt;但是这个手机故障视频效果是怎么实现的呢？我猜测视频里没有出现的无线充电器的电源开关是关键，买家把自己的手机放上去的时候打开无线充，把我卖给他的手机放上去的时候，关闭无线充。&lt;/p&gt;
-&lt;p&gt;为了避免他恼羞成怒恶意损坏手机（相机圈经常见，镜头到手刀，不同意就伤害镜头退回）我只好声称不清楚无线充的问题，然后我要求卖家申请退款，顺丰到付退回，结果他说这个维修要 150 （符合我对到手刀的预期），来回邮费很贵也浪费，言下之意就是刀 150 ，我没有同意，过了一会儿他又说 AA ，一人 75 块，我看了下它的评价，其中有一个好评一个差评吸引了我的注意力。&lt;/p&gt;
-&lt;p&gt;好评里他和对方说来回几十块邮费很浪费，和对我话术（稍后附图）一模一样：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/gl6yGhu.jpeg" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/AoS1ES4.jpeg" /&gt; &lt;/p&gt;
-&lt;p&gt;差评里直接就说这个人是到手刀的（这个差评是我卖给他手机后才有的，早看到的话我指定不卖了）：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Mi2TQJL.jpeg" /&gt; &lt;/p&gt;
-&lt;p&gt;在我坚决不同意 aa 维修费后，他也没有申请退款，等到七天后自动收货了，和第一个到手刀好评的图一样
-附上全部聊天记录&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/HuKKTLP.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 16:20:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965629#reply5</guid></item><item><title>[全球工单系统] 购房后陆续被各种装修公司电话骚扰应该怎么做或者维权</title><link>https://www.v2ex.com/t/965628#reply2</link><description>&lt;p&gt;自己没有泄露电话，但是就是被偷去了，然后电话来，先生您好，你在 xxx 小区的房子要装修、空调、家电、xxx 吗？然后又加过来微信。&lt;/p&gt;
-&lt;p&gt;那么，这种情况怎么去抓源头，用什么话术来试探购买的来源，并且对面不容易察觉到。然后这个信息泄露的话，应该涉及违法了吧，这块有什么办法在法律上解决么。&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 16:03:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965628#reply2</guid></item><item><title>[程序员] 有没有用 navidrome 的朋友，这软件怎么批量添加歌单啊</title><link>https://www.v2ex.com/t/965627#reply0</link><description>&lt;p&gt;。。。现在只能一首歌一首歌添加到歌单里，一千多首歌，UI 还卡到飞起，你还不如直接杀了我。。。&lt;/p&gt;
-&lt;p&gt;歌放在硬盘上是按不同类别不同文件夹分好的，但是放到 navidrome 里一读取就又混到一块了。。。&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:52:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965627#reply0</guid></item><item><title>[宽带症候群] 国内有没有 5G+公网 IP 的民用"无线宽带"服务？</title><link>https://www.v2ex.com/t/965626#reply5</link><description>&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;有的国家地区 3G 时代就已经有这项服务了~正在打仗的某个邻国还有日本也有，不想跟这些国家比较那跟非洲的肯尼亚和乍得比吧，他们都有，但是就算不是民用的，商用的国内好像也完全没见到过，希望网友在评论区贴点国内用无线宽带+公网 IP 的图，资费单之类的。国内有见过有直接插手机卡，IP 也是手机基站的，但是没有见过有静态公网或动态公网的😥</description><pubDate>Tue, 15 Aug 2023 15:50:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965626#reply5</guid></item><item><title>[VPS] 求问 aws lightsail 被墙频率</title><link>https://www.v2ex.com/t/965625#reply3</link><description>&lt;p&gt;aws lightsail SG 机子简直就是封莎的重灾区。&lt;/p&gt;
-&lt;p&gt;今天好不容易注册了账号试用，测了一遍各地区延迟，SG A 区延迟表现基本上是我这里最好的 60~70ms （四川联通），没想到一个机子 5 分就被办了，不论是 vmess 、vless 、还是 trojan 协议，甚至套 cf 都救不了，30 分钟内我连换了 6ip ，结果都是一样。。。最后换了台日本 A 区才稳定下来。&lt;/p&gt;
-&lt;p&gt;之前听说日韩办的也猛，反而有人说新加坡稳定。真是搞不懂。。&lt;/p&gt;
-&lt;p&gt;想问问各位 v 友，你们当地使用的情况如何，开什么机子，用什么协议和富强姿势？&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:46:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965625#reply3</guid></item><item><title>[酷工作] 天气太热了，不如来瑞典凉快一下！ Java 、C++职位新鲜出炉！还有远程哦</title><link>https://www.v2ex.com/t/965623#reply5</link><description>&lt;p&gt;再不发一发，大家以为我们销声匿迹了呢，这不，赶紧刷一下存在感。&lt;/p&gt;
-&lt;p&gt;再多说一句题外话——并不是不想多发需求，而是瑞典也无法避免受到全球经济形势低迷的影响，从去年下半年开始，裁员、减少 HC （ Head count ）甚至直接关闭职位需求的信息越来越多。&lt;/p&gt;
-&lt;p&gt;总之就是一句话，有机会就冲！&lt;/p&gt;
-&lt;p&gt;今晚刚刚跟瑞典的 partner 通过电话。终于等来新职位的消息！&lt;/p&gt;
-&lt;p&gt;1 、Java11+AWS&lt;/p&gt;
-&lt;p&gt;紧急职位！&lt;/p&gt;
-&lt;p&gt;必须同时具备二者经验，缺一不可。Java 必须是 11 ，Java8 不行。&lt;/p&gt;
-&lt;p&gt;由于职位刚出来，还没有具体 JD ，只要符合关键词即可。&lt;/p&gt;
-&lt;p&gt;2 、C++（ 1 个需要肉身去； 3 个远程，远程截止本周五）&lt;/p&gt;
-&lt;p&gt;Proficient in C/C++ programming languages
-Strong understanding of embedded systems development for automotive applications
-Familiarity with QNX Hypervisor architecture and features specific to automotive use cases
-Knowledge of automotive hardware peripherals and communication interfaces (CAN, Ethernet, LIN, etc.)
-Experience with automotive-specific protocols and standards (ISO 26262, AUTOSAR, etc.)
-Knowledge of automotive-specific communication stacks and protocols (FlexRay, Automotive Ethernet, etc.)
-Familiarity with automotive-specific software development tools (e.g., Vector CANoe, Diab Compiler, etc.)&lt;/p&gt;
-&lt;p&gt;目前已经有一个不错的人选，简历已经通过筛选。&lt;/p&gt;
-&lt;p&gt;C++有 1 个职位是需要肉身过去，其余 3 个可以在国内远程。&lt;/p&gt;
-&lt;p&gt;远程的：项目期限 2 年。可以在国内远程工作当做过度，如果表现优秀，2 年后可以优先安排去瑞典。&lt;/p&gt;
-&lt;p&gt;其他必备条件，还是跟之前和我们接触的同学所了解到的那样（就是这么始终如一）：&lt;/p&gt;
-&lt;p&gt;5 年工作经验；&lt;/p&gt;
-&lt;p&gt;英语可以通过外籍面试官面试。&lt;/p&gt;
-&lt;p&gt;想要我们再编出一些其他什么要求，好像...真编不出来了...&lt;/p&gt;
-&lt;p&gt;毕竟英语光这一项技能已经可以过滤掉 90%以上的竞争对手，真不夸张。&lt;/p&gt;
-&lt;p&gt;更多详细信息欢迎微信联系我：&lt;/p&gt;
-&lt;p&gt;809306696&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:22:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965623#reply5</guid></item><item><title>[问与答] 已婚人士有哪些建议给未婚人士？</title><link>https://www.v2ex.com/t/965621#reply11</link><description>&lt;p&gt;如题，欢迎发表看法&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:18:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965621#reply11</guid></item><item><title>[宽带症候群] 求推荐 115 蓝光原盘资源群</title><link>https://www.v2ex.com/t/965620#reply2</link><description>&lt;p&gt;冲动购买了 CloudDrive2 ，挂载硬盘可以看蓝光原盘了，在 tg 上找了几个资源群，都是对身体不太好的。
-有没有大佬可以带个路，进蓝光原盘资源群，感谢！&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:06:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965620#reply2</guid></item><item><title>[电动汽车] 有人能讲讲电动车动能回收的原理吗</title><link>https://www.v2ex.com/t/965619#reply9</link><description>&lt;p&gt;看到很多汽车媒体/媒体人在视频或者文章当中都会说车辆下坡，依靠“惯性力”行驶或者制动时，通过&lt;strong&gt;电机反转&lt;/strong&gt;实现&lt;strong&gt;“动能回收”&lt;/strong&gt;，这是通过转子切割磁感线产生电流给电池充电？&lt;/p&gt;
-&lt;p&gt;然而真实情况是，车辆一直在 D 挡（ Drive ），一直在前进，怎么可能电机在反转呢…… 是吗&lt;/p&gt;
-&lt;p&gt;高中物理学得不好，有人能简单解释一下这其中的原理吗？实际情况可能复杂得多，想看到一些科普性质的文章或者视频，中英文都行。&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 15:03:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965619#reply9</guid></item><item><title>[问与答] WeChat Out 不能用了？</title><link>https://www.v2ex.com/t/965618#reply1</link><description>不论是境内还是境外电话都是连接失败</description><pubDate>Tue, 15 Aug 2023 15:02:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965618#reply1</guid></item><item><title>[程序员] 关于 ahk 的问题</title><link>https://www.v2ex.com/t/965617#reply0</link><description>&lt;p&gt;我现在的代码&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-#Requires AutoHotkey v2.0-beta
-
-
-ensureCapsLock() {
-    cap := GetKeyState("CapsLock","T")
-    if cap {
-        ;SendPlay("{Shift}{CapsLock}")
-
-    } else {
-
-        ;Send("{CapsLock}")
-        SetCapsLockState("On")
-
-
-        Sleep(250)
-    }
-}
-
-; __info__: 调用 insert simple
-RShift UP:: {
-
-
-    ensureCapsLock()
-    Send("!m")
-    Sleep(30)
-    Send("!s")
-
- }
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;现在的问题,多按几次 &lt;code&gt;RShift&lt;/code&gt;, vscode 会揭示组合键为 &lt;code&gt;alt +m , Capslock&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这种问题怎么解决啊&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 14:57:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965617#reply0</guid></item><item><title>[酷工作] 网易内推（非猎头 hr）</title><link>https://www.v2ex.com/t/965616#reply0</link><description>&lt;p&gt;目前各种程序，策划，美术，项目管理等等岗位都有 hc 。本人已经内推超过 100+ 的简历，成功帮 n+个候选人拿到 offer ，感兴趣的大佬赶紧来。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;内推方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;到这里找到自己心仪都岗位，然后保存链接： &lt;a href="https://hr.163.com/" rel="nofollow"&gt;https://hr.163.com/&lt;/a&gt; &lt;strong&gt;&amp;lt;font color="red"&amp;gt;（不要投递，与内推冲突）&amp;lt;/font&amp;gt;&lt;/strong&gt; 发送信息到邮箱 &lt;a href="mailto:2723678359@qq.com"&gt;2723678359@qq.com&lt;/a&gt; 。邮件需要的信息为：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;邮件标题：姓名+邮箱+手机（ PS ，最好不要用 gmail ，内推系统不怎么支持 gmail ）&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;内容为 前面找到的 &amp;lt;font color="red"&amp;gt;&lt;strong&gt;[心仪岗位链接]&lt;/strong&gt;&amp;lt;/font&amp;gt;&lt;/li&gt;
-&lt;li&gt;内推条件： &lt;strong&gt;半年内没有投递过对应岗位，大部分岗位本科以上&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;内推好处： &lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;大部分岗位免笔试，随时查看进度等&lt;/li&gt;
-&lt;li&gt;本人可以免费提供简历指导 &amp;amp; 岗位指导（需加 vx ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;PS：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;补充规则 1&lt;/strong&gt;，如果面试不通过，走完流程可以立即内推其他部门的岗位（没有冷却期）。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;补充规则 2&lt;/strong&gt; ，岗位链接右上角有个日期，最好找个比较近期的日期。一般一周内没联系就无了，也可以随时发邮件咨询，楼主会尽快回复～&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果有需要，也可加微信咨询（可能不及时，可以邮件咨询）：c2hlemhhbmdxaXU=（字串 base64 解码，请注明 V2EX ）&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 14:56:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965616#reply0</guid></item><item><title>[OpenWrt] u-boot 无法刷入.itb 结尾的固件</title><link>https://www.v2ex.com/t/965614#reply2</link><description>&lt;p&gt;有一款设备如果用 lede 的源码编译可以编译出.bin 结尾的固件，然后用 U-boot 可以刷入，但是用 openwrt 官方源码编译出来的话是.itb 无法使用 u-boot 刷入会报错&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 14:49:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965614#reply2</guid></item><item><title>[DNS] 你们 DNSPod 强制将用户设置的 MX 记录优先级从 0 改到 5？（包括阿里</title><link>https://www.v2ex.com/t/965613#reply4</link><description>&lt;p&gt;Cloudflare 不会这样，设置为 0 就是 0&lt;/p&gt;
-&lt;p&gt;另外，阿里是给你改到 1 （不过人是输入框直接跳到 1 而不是 DNSPod 那样 web 上显示 0 查询为 5&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;~
-❯ dig love4taylor.com MX @119.29.29.29
-
-; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.18.17 &amp;lt;&amp;lt;&amp;gt;&amp;gt; love4taylor.com MX @119.29.29.29
-;; global options: +cmd
-;; Got answer:
-;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 8412
-;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
-
-;; OPT PSEUDOSECTION:
-; EDNS: version: 0, flags:; udp: 1232
-;; QUESTION SECTION:
-;love4taylor.com.		IN	MX
-
-;; ANSWER SECTION:
-love4taylor.com.	467	IN	MX	5 inbound-smtp.skiff.com.
-
-;; Query time: 26 msec
-;; SERVER: 119.29.29.29#53(119.29.29.29) (UDP)
-;; WHEN: Tue Aug 15 22:31:30 CST 2023
-;; MSG SIZE  rcvd: 79
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 15 Aug 2023 14:39:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965613#reply4</guid></item><item><title>[问与答] jetbrains 软件的一些购买疑问</title><link>https://www.v2ex.com/t/965611#reply8</link><description>&lt;p&gt;前两年一直在使用 IntelliJ IDEA Ultimate ，也买了两年，今年使用了 datagrip 之后发现用的挺舒服的，想着今年续费的时候一起买了。
-刚刚去订阅页面看了下，不能只选这两个一起买，要不就单独买 datagrip ，99 美元/年，要不就全部 171 美元/年。
-IntelliJ IDEA Ultimate 继续订阅的话大概是 101 美元/年
-v2 里面的大佬们一般都是怎么买的？&lt;/p&gt;</description><pubDate>Tue, 15 Aug 2023 14:29:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965611#reply8</guid></item></channel></rss>
+&lt;li&gt;群晖 hyper-backup 通过 alist-webdav 连接多个夸克网盘（上传大文件失败）&lt;/li&gt;
+&lt;li&gt;群晖 cloud sync 通过 alist-webdav 连接多个夸克网盘（上传大文件失败）&lt;/li&gt;
+&lt;li&gt;群晖 cloud sync 连接百度网盘（速度过慢）&lt;/li&gt;
+&lt;li&gt;之前用的 onedrive ，然后翻车了&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 16 Aug 2023 10:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965870#reply4</guid></item></channel></rss>
