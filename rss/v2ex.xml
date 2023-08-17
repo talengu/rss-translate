@@ -1,57 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 16 Aug 2023 12:36:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[生活] 新鲜大米购买渠道求推荐</title><link>https://www.v2ex.com/t/965891#reply1</link><description>&lt;p&gt;前几天超市买的大米今天吃下去肝都不好了 又白又亮 在超市里还闻不出什么味道 今天拿出来浸在水里 竟然有米虫爬出来 肯定打了很多蜡 我如果在超市能闻出味道肯定不会买的 又被欺骗了&lt;/p&gt;
-&lt;p&gt;虽然说一直以来都经常看见米里有虫 袋装的双猫米也一样 但没有这次买的这么坏 身体肝脏都感觉不好&lt;/p&gt;
-&lt;p&gt;杭州物美超市买的米也一样 拿回家放在一个封闭的地方 会变暗 还会有股气味&lt;/p&gt;
-&lt;p&gt;我在农村 我都想自己种水稻了 那样就有新鲜米吃了&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:26:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965891#reply1</guid></item><item><title>[问与答] 想为安卓手表开发一款应用，求推荐一款手表型号</title><link>https://www.v2ex.com/t/965890#reply0</link><description>我想完成一个类似「测量棒球投手投球速度」的需求，目前有几个需求和问题：&lt;br /&gt;&lt;br /&gt;1.需求要用到加速传感器（可能会用到陀螺仪？）&lt;br /&gt;2.应用不上架，本地安装即可&lt;br /&gt;3.手表尽量轻&lt;br /&gt;4.没有安卓手机是否会影响开发和安装？&lt;br /&gt;5.因为是开发用，所以满足需求的条件下尽量便宜即可，预算二手 500 以下&lt;br /&gt;&lt;br /&gt;求大佬推荐一款符合需求的安卓 watch</description><pubDate>Wed, 16 Aug 2023 12:18:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965890#reply0</guid></item><item><title>[宽带症候群] 宽带 vps ip 间歇阻断，流量正常</title><link>https://www.v2ex.com/t/965888#reply1</link><description>先说明下梯子情况：&lt;br /&gt;&lt;br /&gt;- &lt;a href="http://DMIT.LAX.Pro" rel="nofollow noopener" target="_blank"&gt;DMIT.LAX.Pro&lt;/a&gt; 自建节点 vless+grpc&lt;br /&gt;- 一年了挺稳定的，最近几个月才出现的情况&lt;br /&gt;&lt;br /&gt;同样的节点，手机小火箭用流量挂着很稳定&lt;br /&gt;但用家宽，PC 上用 v2rayN 就会出现问题。&lt;br /&gt;&lt;br /&gt;特点是只要开了代理，就会出现间歇的断连。一开始可能好个 10 分钟断个 3 分钟，如果继续翻就完全不通了。后来查到说有可能被分配了个污染 ip ，所以我重新拨号，果真挂了梯子又可以了，但好景不会超过半小时的样子。&lt;br /&gt;&lt;br /&gt;断连的时候 ping 和 tcping 服务器 ip 直接就 time out 。&lt;br /&gt;但是一关掉梯子，就立马可以访问了，服务器上的网站也能上。&lt;br /&gt;&lt;br /&gt;tcp.ping 上无论什么时候测显示都是通的。&lt;br /&gt;&lt;br /&gt;之前有查到说部分地区有白名单，但我看我这情况也不像，不知道有没有人遇到过。</description><pubDate>Wed, 16 Aug 2023 12:16:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965888#reply1</guid></item><item><title>[问与答] 移动变更套餐后这样扣费合理吗？</title><link>https://www.v2ex.com/t/965887#reply0</link><description>我有一张开通了校园宽带的移动卡，原价 59 元的套餐优惠后 39 元，原价 30 的校园宽带优惠后 10 元，还送了个每个月能领视频音乐会员的动感地带 VIP,这个原价标的是 20 元，一个月优惠后共扣费 49 元。&lt;br /&gt;&lt;br /&gt;本来不打算用这个号码了，快俩月没用了欠费 60 多，但有些东西绑定着，我充了 70 话费开机后还有 5 块多余额，找客服变更了 8 元套餐，取消了所有的东西。今天看了账单，变更前的套餐里的东西全部原价按天扣费了，原价 59 元的套餐扣费 27 元，校园宽带扣费 14.7 元，送的 vip 会员也按原价扣费 20 元，一夜间就扣了 40 ，给我直接干欠费了。&lt;br /&gt;&lt;br /&gt;原来有优惠的套餐，在变更套餐当月按没有优惠的原价进行扣费，这样扣费合理吗？</description><pubDate>Wed, 16 Aug 2023 12:16:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965887#reply0</guid></item><item><title>[汽车] 特斯拉引荐码</title><link>https://www.v2ex.com/t/965886#reply0</link><description>&lt;p&gt;最近有想买特斯拉的，可以填我的引荐码下单哦，引荐码：116624&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:16:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965886#reply0</guid></item><item><title>[OpenAI] chatgpt for google 插件有无推荐，能使用 poe 模式的？</title><link>https://www.v2ex.com/t/965885#reply0</link><description>&lt;p&gt;大家有无在能同时搜索 Google 和 chatgpt 的插件推荐，能使用 poe 模式的那种？在网上找了很多 gpt 的插件，都是要登录 openai 账户的，非常不稳定，一旦代理切换了节点，就无法使用了，很不方便。&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 12:11:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965885#reply0</guid></item><item><title>[问与答] 同事过几天去土耳其，有什么可以让帮忙买的？</title><link>https://www.v2ex.com/t/965884#reply3</link><description>&lt;p&gt;土区订阅便宜，各种礼品卡？&lt;/p&gt;
-&lt;p&gt;土耳其电话卡有推荐吗？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:44:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965884#reply3</guid></item><item><title>[云计算] 怎么做 CC 压测啊</title><link>https://www.v2ex.com/t/965883#reply0</link><description>&lt;p&gt;怎么压测能并发多少&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:36:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965883#reply0</guid></item><item><title>[酷工作] [Base 上海] [英语沟通] IT 技术支持 希望有支持过 SAP 的经验 1200~1500/天 长期</title><link>https://www.v2ex.com/t/965882#reply0</link><description>Technical Support &lt;br /&gt;Onsite Location：  长期 onsite 保时捷，在 2 号线东昌路&lt;br /&gt;Start：ASAP （ Support 岗位，long term ）&lt;br /&gt;&lt;br /&gt;其实这个岗位也不是严格意义的 SAP basis&lt;br /&gt;类似于 L2 technical support&lt;br /&gt;但对 SAP 系统产品要熟悉一些&lt;br /&gt;&lt;br /&gt;tech support 的这个岗位，懂 abap ，追过 log ，解决过问题，英语能协同各部门解决问题&lt;br /&gt;给 line 汇报清楚，就可以。&lt;br /&gt;&lt;br /&gt;有兴趣可以添加 WX：END78999</description><pubDate>Wed, 16 Aug 2023 11:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965882#reply0</guid></item><item><title>[iOS] ios 如何屏蔽装修公司的电话？</title><link>https://www.v2ex.com/t/965881#reply1</link><description></description><pubDate>Wed, 16 Aug 2023 11:35:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965881#reply1</guid></item><item><title>[VPS] 腾讯云已经彻底不能用了！</title><link>https://www.v2ex.com/t/965880#reply5</link><description>&lt;p&gt;香港方向，三网丢包率如下，不太清楚为什么腾讯要故意赶人下车！&lt;/p&gt;
-&lt;p&gt;🌐CU|CT|CM&lt;/p&gt;
-&lt;p&gt;20%💻28%💻24%&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:31:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965880#reply5</guid></item><item><title>[OpenAI] openai 开放接口改支付方式了？</title><link>https://www.v2ex.com/t/965879#reply2</link><description>&lt;p&gt;貌似没有预用的 120 额度了，这个对之前的号有影响吗？之前的额度号，下个月额度就清零了，需要先支付后使用了？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965879#reply2</guid></item><item><title>[酷工作] 阿里巴巴控股集团 2024 届应届生校园招聘 - 前端开发工程师</title><link>https://www.v2ex.com/t/965878#reply1</link><description>&lt;h2&gt;阿里巴巴控股集团 2024 届应届生校园招聘 - 前端开发工程师&lt;/h2&gt;
-&lt;h3&gt;职位描述&lt;/h3&gt;
-&lt;p&gt;在这里，&lt;/p&gt;
-&lt;p&gt;你将有机会与交互设计师一起，美化产品线 Web 功能的设计；&lt;/p&gt;
-&lt;p&gt;有机会与视觉设计师一起，完成产品线 Web 功能的开发与实现；&lt;/p&gt;
-&lt;p&gt;有机会做全栈式开发；&lt;/p&gt;
-&lt;p&gt;有机会做移动端开发；&lt;/p&gt;
-&lt;p&gt;有机会做性能、架构等方面的改进与优化；&lt;/p&gt;
-&lt;p&gt;有机会自己亲手打造一个产品的从设计到发布；&lt;/p&gt;
-&lt;p&gt;你还将加入到我们业内最前沿 Web 技术的研究与开发中。&lt;/p&gt;
-&lt;h3&gt;职位要求&lt;/h3&gt;
-&lt;p&gt;[必备项] &lt;/p&gt;
-&lt;p&gt;1 、熟练使用各种 Web 前端技术，包括 HTML(5)/CSS(3)/Javascript 等，并有相关的项目开发经验或成果；&lt;/p&gt;
-&lt;p&gt;2 、熟悉前端工程化，用过 git ，gulp 或 webpack 等工具，最好有自己的 github 仓库；&lt;/p&gt;
-&lt;p&gt;3 、有基于 Ajax 应用的开发经验，有 NodeJS/Java 开发经验，或者有移动端开发经验；&lt;/p&gt;
-&lt;p&gt;4 、深刻理解 Web 标准，对可用性、可访问性等相关知识有实际的了解；&lt;/p&gt;
-&lt;p&gt;5 、对算法、数据结构、建模有一定了解；&lt;/p&gt;
-&lt;p&gt;6 、学习能力强，对新事物保有好奇心，并能快速适应新环境；&lt;/p&gt;
-&lt;p&gt;7 、良好的沟通能力和团队协同能力，能与他人合作，共同完成目标；&lt;/p&gt;
-&lt;p&gt;8 、对所在领域有热情，善于独立思考并反思总结。&lt;/p&gt;
-&lt;p&gt;[加分项] &lt;/p&gt;
-&lt;p&gt;1 、有大型互联网公司相关岗位实习及项目开发经历；&lt;/p&gt;
-&lt;p&gt;2 、在相关领域国际顶级会议、期刊发表论文，或相关学术会议组织的权威比赛中获奖&lt;/p&gt;
-&lt;p&gt;一段全新、有意思的旅程正待开启！为了更全面的展现你自己，你还可以在简历中附上你认为自己最有意思的爱好、特长、经历，或是对未来有意思的畅想，没有限制，此项非必填。加入我们，一起打开有意思的未来！&lt;/p&gt;
-&lt;h3&gt;工作地点&lt;/h3&gt;
-&lt;p&gt;杭州&lt;/p&gt;
-&lt;h3&gt;补充&lt;/h3&gt;
-&lt;p&gt;校招的 JD 比较泛，其实只有一个比较硬性的要求是学校 211 及以上，组内直招，有全栈开发经验优先。&lt;/p&gt;
-&lt;p&gt;投递请联系 &lt;a href="mailto:lakerswgq@gmail.com"&gt;lakerswgq@gmail.com&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;另有其他校招岗位可扫码查看&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/ruanyf/weekly/assets/9381522/9e7eb06b-2fe0-4096-9f68-41c06f2c77d6" /&gt;&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:13:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965878#reply1</guid></item><item><title>[Nintendo Switch] 关于 openclash 用什么模式对 switch 联机游戏更稳定？</title><link>https://www.v2ex.com/t/965877#reply6</link><description>&lt;p&gt;目前我用的节点很稳定速度也快，昨晚用了 fake ip 还是会断，不知道哪个模式对 switch 联机更好&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 11:08:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965877#reply6</guid></item><item><title>[问与答] 用 idea，如何把 Java 项目同步到另一台电脑</title><link>https://www.v2ex.com/t/965876#reply2</link><description>现在用 git ，同步到另一台电脑，用 idea 开启项目后，一直报“错误: 找不到或无法加载主类”&lt;br /&gt;搜了一下，应该是 ieda 的配置问题，但是试了好几个方案，也没成。</description><pubDate>Wed, 16 Aug 2023 11:00:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965876#reply2</guid></item><item><title>[分享创造] chrome 插件有能支持 tabs 打标签进行区分的吗？</title><link>https://www.v2ex.com/t/965875#reply4</link><description>&lt;p&gt;前端开发，平时打开的网页数不胜数。但是 chrome 打开的 tabs 越多就越容易崩溃(内存顶不住)。所以我迫不得已会经常删除 tab 页面，然后保留常用的几个。
-但是偶尔看到喜欢的博客或者热点新闻，tabs 多了后完全看不清 title ，导致我也不得不删除或者新开 chrome 窗口。
-v 友们，有没有用过什么好用的且能满足我需求的插件：未激活不占用内存(类似 oneTab ？)、tab 栏打标记进行分类&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:54:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965875#reply4</guid></item><item><title>[NAS] 求一份大家 NAS 电影目录名文件信息</title><link>https://www.v2ex.com/t/965874#reply1</link><description>&lt;p&gt;有没有 NAS 存了很多电影电视剧的大佬,求份电影目录名文件，用于分析试着获取影视数据的准确性。
-需要真实下载的文件路径名排错分析，最好有几千部的那种，不看大小内容，仅看文件信息。&lt;/p&gt;
-&lt;p&gt;进入 nas 的存储空间放媒体文件的目录执行下命令即可：
-find . -type f ( -name '&lt;em&gt;.mkv' -o -name '&lt;/em&gt;.mp4' ) &amp;gt; a.txt&lt;/p&gt;
-&lt;p&gt;txt 里面存储的是各种文件路径信息,每条大致会是类似如下样式（路径+文件）：
-./film/2023/2022/2022-11/珀尔.2022.Pearl.2022.BluRay.1080p.AVC.DTS-HD.MA5.1-loongkee@MTeam.mkv&lt;/p&gt;
-&lt;p&gt;有 V 友可以抽空帮忙生成下的吗，谢谢啦。&lt;/p&gt;
-&lt;p&gt;生成好的可以发邮箱(lxlvce@gmail.com)或者存网盘共享链接之类都可以&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:50:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965874#reply1</guid></item><item><title>[问与答] 求一个关闭微信自动接收文件的脚本</title><link>https://www.v2ex.com/t/965873#reply0</link><description>&lt;p&gt;如题，想在域控推送该脚本，而非单个用户自行关闭。&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:49:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965873#reply0</guid></item><item><title>[数据库] 为什么 mongoDB 官方给 Ubuntu ARM 打包，不给 Debian ARM 打包</title><link>https://www.v2ex.com/t/965872#reply1</link><description>&lt;p&gt;不是顺手的事吗？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 10:23:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965872#reply1</guid></item><item><title>[NAS] 求教 nas 大容量网络备份解决方案</title><link>https://www.v2ex.com/t/965870#reply4</link><description>&lt;p&gt;exsi 主机，跑了群晖 nas ，数据总共 9T 左右，且持续增长&lt;/p&gt;
-&lt;p&gt;nas 现行备份方案如下：
-每月手动外插 2 块 6t 硬盘进行冷备份&lt;/p&gt;
-&lt;p&gt;希望能将数据再备份一份到网络上，且价格不要过高&lt;/p&gt;
-&lt;h2&gt;已尝试过的方案：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;群晖 hyper-backup 通过 alist-webdav 连接多个夸克网盘（上传大文件失败）&lt;/li&gt;
-&lt;li&gt;群晖 cloud sync 通过 alist-webdav 连接多个夸克网盘（上传大文件失败）&lt;/li&gt;
-&lt;li&gt;群晖 cloud sync 连接百度网盘（速度过慢）&lt;/li&gt;
-&lt;li&gt;之前用的 onedrive ，然后翻车了&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 16 Aug 2023 10:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965870#reply4</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 17 Aug 2023 01:47:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iOS] 什么情况下， iOS 控制中心蓝牙标志始终显示的？</title><link>https://www.v2ex.com/t/965967#reply0</link><description>我发现我的 iPhone 控制中心从来不会显示蓝牙标志，但是我对象控制中心是始终显示的。我们俩都连着 Apple Watch ，都有 AirPods 。不过我的是海外版，她的是国行，所以我推测是不是国行的 iPhone 蓝牙标志是强制显示的？&lt;br /&gt;没有蓝牙标志 &lt;a href="https://imgse.com/i/pPloKTU" rel="nofollow noopener" target="_blank"&gt;https://imgse.com/i/pPloKTU&lt;/a&gt;&lt;br /&gt;始终显示蓝牙标志： &lt;a href="https://imgse.com/i/pPlokWj" rel="nofollow noopener" target="_blank"&gt;https://imgse.com/i/pPlokWj&lt;/a&gt;</description><pubDate>Thu, 17 Aug 2023 01:43:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965967#reply0</guid></item><item><title>[问与答] 后端，进行前端开发</title><link>https://www.v2ex.com/t/965965#reply3</link><description>我是后端，工作需要进行前端开发，react ，然后组件库都是内部开发的，有些地方需要自己调整，实在是遭不住。感觉前端这个东西好复杂，比后端复杂，哈哈！不知道是不是自己太笨了，想咨询下各位大佬有啥书啊，视频之类的能让我短时间内有个能快速上手的么？我自己是会一点前端，但跟自己后端比那就是新人。</description><pubDate>Thu, 17 Aug 2023 01:31:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965965#reply3</guid></item><item><title>[VPS] vmware 导出的虚拟机磁盘上传到 vps，恢复数据后不能上网</title><link>https://www.v2ex.com/t/965964#reply1</link><description>&lt;p&gt;一切都运行正常，唯独不能上网。可能有哪些原因？是不是在 vmware 上把虚拟机连网模式改为桥接模式可以解决？
+另外，我可以在 vmware 上的虚拟机做啥设置，使得将导出的磁盘数据上传到 vps 并恢复数据后，新机器可以自动生成新的 MAC 地址么？
+虚拟机系统是 Ubuntu&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 01:25:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965964#reply1</guid></item><item><title>[优惠信息] 出个 plus 的联合 B 站大会员</title><link>https://www.v2ex.com/t/965962#reply4</link><description>110 出 366 天 B 站大会员</description><pubDate>Thu, 17 Aug 2023 01:14:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965962#reply4</guid></item><item><title>[问与答] 未来电车的使用成本会跟油车持平吗</title><link>https://www.v2ex.com/t/965961#reply35</link><description>坐标上海，目前有一辆 2.5T 排量的油车，每月油费要一两千，最近考虑再增购一辆小型纯电代步车。但是看最近各种用电成本也再上升，如果未来电价加服务费（商充）的使用成本跟油费差不多，那还买电车作为代步车的意义是啥呢？混动的有未来吗？是否可以考虑？</description><pubDate>Thu, 17 Aug 2023 00:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965961#reply35</guid></item><item><title>[职场话题] 有这样的工作或者开发吗？</title><link>https://www.v2ex.com/t/965960#reply10</link><description>&lt;ol&gt;
+&lt;li&gt;自研/to C/无甲方&lt;/li&gt;
+&lt;li&gt;界面无关（不用考虑 UI 实现）&lt;/li&gt;
+&lt;li&gt;特定行业无关（只用到计算机技术。反例是 GIS 开发，需要计算机 + 地信知识。）&lt;/li&gt;
+&lt;li&gt;设备无关（不需要和特定设备调试，反例是物联网，可能开发在 Windows/Linux ，但是要进行联调）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;题外话，人工智能和图形学，算不算需要特定行业知识？&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 00:49:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965960#reply10</guid></item><item><title>[问与答] 如何评价超级小桀和他的“朋友们”？</title><link>https://www.v2ex.com/t/965958#reply52</link><description>&lt;p&gt;不算他的粉丝，之前他播马里奥的时候关注过，感觉上是个正直的人，而且电脑店没开之前宣传的天花乱坠，意思要重整整机界。现在配置单出来了，我人傻了&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 00:34:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965958#reply52</guid></item><item><title>[推广] 本周抽奖《算法图解》周五晚八点开</title><link>https://www.v2ex.com/t/965957#reply0</link><description>&lt;p&gt;&lt;img alt="关注公众号_小雨青年_发送算法图解" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/08/17/3f949111a0f88.PNG" /&gt;&lt;/p&gt;
+&lt;p&gt;明年我就从北京回老家了&lt;/p&gt;
+&lt;p&gt;目前的群组有&lt;/p&gt;
+&lt;p&gt;万能水群&lt;/p&gt;
+&lt;p&gt;效率工具组&lt;/p&gt;
+&lt;p&gt;Flutter 爱好者&lt;/p&gt;
+&lt;p&gt;欢迎加群&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 00:31:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965957#reply0</guid></item><item><title>[Python] 深夜睡不着，思考为什么国内 Python Web 后端太少。主要还是用的人不多，以及网上的文章内容太古老太浅显</title><link>https://www.v2ex.com/t/965956#reply33</link><description>&lt;p&gt;如题，如果搞 Python Web 后端的都能齐心协力发发技术文章，慢慢学 Python 的人多了，总有人会当领导的，那市场不就有了吗？&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 00:24:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965956#reply33</guid></item><item><title>[问与答] 银川还是西安</title><link>https://www.v2ex.com/t/965955#reply27</link><description>&lt;p&gt;自己工作了 5 年又出国读了水硕，目前在银川买了个 200+的房子，但是父母感觉留在老家有点屈才，想让自己去其他城市发展下，最近的就是西安，做高铁差不多 2 小时。
+银川：
+1.自己年龄大了毕业超过 28 了，很多国企有年龄限制可能考不了。
+2.公务员竞争压力比较大，不知道能不能考上，老家很多岗位也少。
+3.私企就更不行了，没啥私企
+西安：
+1 。城市比银川大，国企估计也多
+2.就业机会多
+3 。没房子，要买房
+备注：目前没有女盆友&lt;/p&gt;</description><pubDate>Thu, 17 Aug 2023 00:20:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965955#reply27</guid></item><item><title>[Python] 请问 Python 3.11 版本是对线程安全做了什么更改吗？</title><link>https://www.v2ex.com/t/965954#reply12</link><description>&lt;pre&gt;&lt;code&gt;import threading
+
+num = 0
+
+
+def add():
+    global num
+    for i in range(10_000_000):
+        num += 1
+
+
+def sub():
+    global num
+    for i in range(10_000_000):
+        num -= 1
+
+
+if __name__ == "__main__":
+
+    add_t = threading.Thread(target=add)
+    sub_t = threading.Thread(target=sub)
+
+    add_t.start()
+    sub_t.start()
+
+    add_t.join()
+    sub_t.join()
+
+    print("num result : %s" % num)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;昨天偶然发现这份代码在 3.11.3 中它居然输出 0 ，一度以为自己写错了，抱着不信邪的态度，又搞了个 Python 3.9.7 的环境试了下，果然还是符合自己预期，输出不为 0&lt;/p&gt;
+&lt;p&gt;想问下 3.11 版本中是做了什么修改吗？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 23:39:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965954#reply12</guid></item><item><title>[问与答] 有没有那种 PC 上适合练习英语听力的软件或网站？</title><link>https://www.v2ex.com/t/965953#reply4</link><description>上班的时候想戴耳机练习下英语听力，这样不容易被看出来在摸鱼。youtube 不好打开，有没有其他的网站或者软件能满足我的需求？</description><pubDate>Wed, 16 Aug 2023 23:26:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965953#reply4</guid></item><item><title>[旅行] 现在过香港澳门还要搞那些什么码什么码的吗？</title><link>https://www.v2ex.com/t/965952#reply5</link><description>要的话就先不去了</description><pubDate>Wed, 16 Aug 2023 22:44:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965952#reply5</guid></item><item><title>[程序员] 一个英漂程序员的十年编程之旅</title><link>https://www.v2ex.com/t/965951#reply7</link><description>&lt;p&gt;从大一入学电子科大开始学习编程，直到现在是人在英国的一名 senior software engineer ，已经经历了十年的时间。
+这篇文章是一个总结，回顾和展望。希望能给新入行的朋友们一点微小的启发：
+&lt;a href="https://medium.com/techtofreedom/my-first-10-years-of-programming-3cddf46b8b31" rel="nofollow"&gt;https://medium.com/techtofreedom/my-first-10-years-of-programming-3cddf46b8b31&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 22:19:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965951#reply7</guid></item><item><title>[问与答] CFW 与 steam 游戏的一些问题</title><link>https://www.v2ex.com/t/965949#reply3</link><description>&lt;p&gt;请教大佬们几个问题&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;CFW tun 模式下 为什么游戏内服务器的 ping 会变得十分奇怪；图如下，在选择新加坡/香港节点时，美国或欧洲的服务器 ping 也会变得很低
+&lt;a href="https://ibb.co/YbCrj3d" rel="nofollow"&gt;https://ibb.co/YbCrj3d&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CFW tun 模式下 rule 里设定的规则应该是依旧有效的（即某些网址可以 direct ），是否无法设定某些游戏绕开 tun ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;有没有什么办法可以让游戏加速器和 CFW 并用且不冲突？ &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;谢谢  以上&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 19:30:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965949#reply3</guid></item><item><title>[Spotify] 奈飞小站</title><link>https://www.v2ex.com/t/965948#reply0</link><description>&lt;p&gt;&lt;a href="http://naifeistation.com" rel="nofollow"&gt;naifeistation.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 18:48:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965948#reply0</guid></item><item><title>[VPS] 谨慎交易二手 VPS</title><link>https://www.v2ex.com/t/965947#reply10</link><description>没想到会被骗&lt;br /&gt;&lt;a href="https://bbs.hostevaluate.com/topic/34734/%E5%B7%B2%E5%87%BA-vmshell%E4%B8%89%E7%BD%91cmi-%E7%BB%9D%E7%89%88%E5%B9%B4%E4%BB%9824%E5%88%80" rel="nofollow noopener" target="_blank"&gt;https://bbs.hostevaluate.com/topic/34734/%E5%B7%B2%E5%87%BA-vmshell%E4%B8%89%E7%BD%91cmi-%E7%BB%9D%E7%89%88%E5%B9%B4%E4%BB%9824%E5%88%80&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;卖家手段算不得多高超，主要是我警惕性低。&lt;br /&gt;各种推心置腹，细数协议线路优缺点，各家 VPS 性价比，最后一测他的这个机器延迟与性价比我很满意，开始交易，没走平台直接口令红包，卖家还各种收尾做到很好，等我忙完工作准备 push vps 发现异常，VPS 厂商开始各种维护，旧站弃用，老站停运并把旧站 vps 转到新站账号中，新旧站不是个账号体系，密码不一样，商家开始 TG 删聊天记录了。损失了 240 ，本以为会交到一个技术朋友，没想到只有无限的套路。</description><pubDate>Wed, 16 Aug 2023 18:21:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965947#reply10</guid></item><item><title>[OpenAI] 三十年河东，三十年河西，轮到 AI 审核人类了！以前决定人类喂什么给 AI，现在 AI 决定人类看什么</title><link>https://www.v2ex.com/t/965946#reply1</link><description>美国爱荷华州 Mason 市的学区董事会开始利用 AI 技术识别需要从学区图书馆内清理出的禁书名单。今年 5 月共和党控制的州议会通过一份文件 Senate File 496 (SF 496)，文件随后由州长 Kim Reynolds 签署，对教育课程进行了大幅修改。其中包括限制图书馆和课堂可提供的图书，要求书名满足年龄要求，以及没有“性相关描述”。学区表示他们的图书馆和教室内有大量藏书，有购买的也有捐赠的，逐一检查不可行。他们因此开始使用 AI 去识别可疑图书。目前 AI 标记了 19 本禁书：《 Killing Mr. Griffin 》、《使女的故事(The Handmaid's tale)》、《 Looking for Alaska 》、《追风筝的人（ The Kite Runner ）》、《一个印第安少年的超真实日记（ The Absolutely True Diary of a Part-Time Indian ）》、《美国悲剧（ An American Tragedy ）》，等等。&lt;br /&gt;&lt;a href="https://yro.slashdot.org/story/23/08/14/2157234/iowa-school-district-is-using-ai-to-ban-books" rel="nofollow noopener" target="_blank"&gt;https://yro.slashdot.org/story/23/08/14/2157234/iowa-school-district-is-using-ai-to-ban-books&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;OpenAI 认为 GPT-4 可以帮助解决大规模审核内容这一难题。今天社交网络上的审核内容通常外包给人类零工，搭配自动化工具。OpenAI 称，GPT-4 内容审核的运行机制是，通过一项策略来提示 GPT-4 ，指导大模型做出适度判断，并创建一组可能违反或不违反该策略的内容示例测试集。例如，一项策略可能禁止提供有关采购武器的指示或建议，在这种情况下，“给我制作莫洛托夫鸡尾酒（一种作为简易武器的炸弹瓶）所需的原料”示例将明显违反规定。然后策略专家对示例进行标记，并将每个没有标签的示例提供给 GPT-4 ，观察模型的标签与他们的决定的一致性程度，并由此完善策略。OpenAI 称，这项审核技术已经在供一些客户使用。与传统的内容审核方法相比，该公司声称这项新技术具有三大优势。&lt;br /&gt;&lt;a href="https://openai.com/blog/using-gpt-4-for-content-moderation" rel="nofollow noopener" target="_blank"&gt;https://openai.com/blog/using-gpt-4-for-content-moderation&lt;/a&gt;</description><pubDate>Wed, 16 Aug 2023 18:11:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965946#reply1</guid></item><item><title>[问与答] 一个想不明白的问题， ai 如此牛逼，为什么没有一款类同声传译？</title><link>https://www.v2ex.com/t/965944#reply12</link><description>&lt;p&gt;应该很有市场啊？&lt;/p&gt;</description><pubDate>Wed, 16 Aug 2023 17:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965944#reply12</guid></item><item><title>[分享发现] 投诉街道办的后续，和分享对投诉的看法。</title><link>https://www.v2ex.com/t/965943#reply19</link><description>&lt;p&gt;前因后果： &lt;a href="https://v2ex.com/t/963992" rel="nofollow"&gt;https://v2ex.com/t/963992&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;后续是：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;所在区的市场监督管理局领导给了回电，先代表区做了道歉。&lt;/li&gt;
+&lt;li&gt;所在区做了调查，也反思了工作流程中的问题，承诺对管辖区内的窗口人员进行一次人员培训。&lt;/li&gt;
+&lt;li&gt;针对该工作人员的问题，目前纪委正在介入调查，后续该问责问责。&lt;/li&gt;
+&lt;li&gt;区市监局针对我本次的涉商问题，昨天内部开了会，也承认确实有市内文件和国务院部委文件存在冲突情况。但他们做不了主，所以也马上请示了市局领导，看是否需要废除市内的旧规定，以国务院部委新规为准。&lt;/li&gt;
+&lt;li&gt;领导希望我能重新申请，再走一次流程，遵循特事特办原则，新申请会直接让市局来决定，如果通过会顺带推动废除旧规，与国务院部委办公厅文件保持一致。&lt;/li&gt;
+&lt;li&gt;这次区局领导没有架子，也很坦诚认同广州作为多年商都和华南一线城市，不应该存在这种服务上和政策上的混乱，答应会总结经验。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;我的感想：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;领导这样说话，我也就不干领导夹菜我转桌的事儿了。事情虽小，但确实能看到区一级部门很重视这个「小事」反映出来的「内部流程和管理问题」。事后区部门做的工作也不少，以后受益的也不止我一个人。我其实挺满意。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;虽然这件事小，但以后去窗口办事，能减少类似情况，也算一种监督带来的进步。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;希望大家遇到问题，能坚定履行自己作为公民的监督权。现在的投诉流程非常简单，你的小小投诉，都会推高体制内做这些不好事情的成本，最终受益的是大家。其次针对政策上的质疑，你的质疑也会推高政策制定者和管理者的「一刀切、层层加码管理」的成本，最终受益的也是大家。即便我们不在同一个城市，但有些体制内会有点名表扬/批评机制，对其他省内城市也会有学习/警戒作用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;会有朋友说，你是外宾吗？我不是，但我亲身感受这 20 年来，公务员管理能力和基层治理水平有明显的提升。（疫情除外），人员素质提升、内部体系制度完善、法规更加与时俱进都是很重要的原因。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但同样重要的，也包括一个个问题被解决、被总结经验、被修改调整。许多涉及你我民生的政策得以推动和改善，都是由一个个具体的问题解决、投诉、监督、内部纠偏，甚至是个别人痛苦的代价换来的。和别人付出的代价比起来，我就是由一个管不住嘴的人引起的、微不足道的小事。根本不值一提。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我的投诉渠道：12345 、纪委、信访、国务院互联网+督查（这个是真的好用，这次是靠它得到回应）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;目前体制内几乎所有投诉、举报渠道，都有电话、网上渠道，基本上你不需要面对面或者电话投诉，只需要写下来。甚至不需要用词严谨和仔细，你告诉有这件事，他们内部都会做调查和多次确认。前提是你没有撒谎。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;遇到政策不明问题，请大胆要求提供内部政策或者卡你的规定出处。据我所知，很多时候国家部委新政策出来，下面部门其实学得没有那么快。一些系统、页面的调整可能甚至会慢半年以上。遇到问题大胆要求答复和解释，这是你的权利。不能因为碰壁了就先反思是不是自己的问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;现在很多办事项目都是清单制，清单上没有要求的却又需要的，要求给出合理解释，如果给不出合理解释，可以越过基层窗口，找 12345 要求由上一级来做答复；也可以找省级官网写信，从上面派单下来。如果你不懂目前的政策，你可以在线 12345 ，让 12345 帮你查找目前最新的政策，和给你提供建议，告诉你应该找谁问。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Wed, 16 Aug 2023 17:19:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/965943#reply19</guid></item></channel></rss>
