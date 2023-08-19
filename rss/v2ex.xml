@@ -1,63 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 18 Aug 2023 21:54:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[VPS] 我这种选机场还是 VPS 好</title><link>https://www.v2ex.com/t/966585#reply0</link><description>现在用的🍟，年费 230 多，hk 节点速度实测有千兆（ idm 下载 ytb 视频试出来的），US 节点可以 chatgpt 可以流媒体但是挺卡。最近感觉有些不稳定就萌生了搞 VPS 的想法，本人家庭观影基本上都是 bt 和 pt 的不咋看流媒体。在家用的软路由。像我这种有必要搞 VPS 么？</description><pubDate>Fri, 18 Aug 2023 20:37:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966585#reply0</guid></item><item><title>[问与答] 发现响应式代码的一个比较麻烦的地方</title><link>https://www.v2ex.com/t/966584#reply2</link><description>&lt;p&gt;要增加一些流程，把已有的代码流 wrap 起来的时候，整个代码块会被 IDEA 重新 format ，增加一层缩进。在 git 那边可能就是动不动成千上百行的修改了。&lt;/p&gt;
-&lt;p&gt;比如&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  ...
-  foo.flatMap {
-    ...
-  }
-  .onFailure(...)
-  .ifNull()
-  ...
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;会变成 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  ...
-  someProcess(...) {
-    ...                // 从这里往下的都会缩进一层
-    foo.flatMap {
-      ...
-    }
-    .onFailure(...)
-    .ifNull()
-    ...                // 一直到这里为止
-  }
-  ...
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;不知道有没有什么办法可以更好地 diff 代码。毕竟实际上内层代码并没有任何改变。&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 18:14:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966584#reply2</guid></item><item><title>[问与答] 有人试过用 WSL 跑 Linux QQ 吗？</title><link>https://www.v2ex.com/t/966583#reply0</link><description>&lt;p&gt;最新版 Win11 ，下载 deb 包安装，解决了几个依赖问题后，成功跑了起来。也可以直接下载 AppImage 运行。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="qq" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TJnOU8H.png" /&gt;&lt;/p&gt;
-&lt;p&gt;没有缩放，显得偏小；输入法比较麻烦。最大的问题是，似乎没有硬件加速&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[4199:0818/134232.973031:ERROR:&lt;a href="http://gpu_memory_buffer_support_x11.cc" rel="nofollow"&gt;gpu_memory_buffer_support_x11.cc&lt;/a&gt;(44)] dri3 extension not supported.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;google-chrome 有硬件加速，GPU 占用率能观察到。
-当然 WSL 的 GPU 硬件加速本来就不成熟，官方都说不一定比软件渲染快。&lt;/p&gt;
-&lt;p&gt;参考资料:&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 19 Aug 2023 07:08:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] v 友们有没有买 Yubikey 硬件密钥的，用起来感觉怎么样？</title><link>https://www.v2ex.com/t/966665#reply1</link><description>&lt;p&gt;最近看到网上的 Yubikey 感觉很好玩，貌似确实很安全。不过对于普通人貌似又没有必要。V 友们有没有买的，感觉怎么样？&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 06:57:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966665#reply1</guid></item><item><title>[OpenAI] 收 4.0api 大额号</title><link>https://www.v2ex.com/t/966664#reply0</link><description>收 4.0api 大额号&lt;br /&gt;&lt;br /&gt;联系 tg=gpt9900&lt;br /&gt;&lt;br /&gt;联系 v=gpt9922</description><pubDate>Sat, 19 Aug 2023 06:53:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966664#reply0</guid></item><item><title>[程序员] 做独立开发是不是很无聊</title><link>https://www.v2ex.com/t/966663#reply8</link><description>&lt;p&gt;之前是创业的不太成功，后面就自己做些开发赚点钱现在好像是独立开发了（或者叫自由职业者？）。
+但是我觉得独立开发真的是无聊呀。一周 7 天，没人说活，周围的咖啡厅都被我转了个遍。
+自己带着电脑，一杯咖啡做一天。
+尤其是在苏州这种城市，本来 IT/互联网就不太强，感觉周围都没有什么人
+呜呼哀哉&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 06:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966663#reply8</guid></item><item><title>[问与答] 如何看待杭州警察叔叔 App 上线举报他人违章功能？</title><link>https://www.v2ex.com/t/966662#reply0</link><description>&lt;a href="https://mp.weixin.qq.com/s/9LS34BkrEgJIo-swjf-Ggg" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/9LS34BkrEgJIo-swjf-Ggg&lt;/a&gt;</description><pubDate>Sat, 19 Aug 2023 06:47:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966662#reply0</guid></item><item><title>[macOS] macOS 上的 photoshop 在开启 clash 的情况下如何避免盗版检测</title><link>https://www.v2ex.com/t/966660#reply2</link><description>&lt;p&gt;现在习惯性的常开 clash ，结果就遇到个头疼的问题，不管哪个版本的 ps 。用着用着就弹红色盗版提示，就无法啊使用了，还得去活动管理器里结束进程或者按住 option 强制退出。&lt;/p&gt;
+&lt;p&gt;大佬们如何解决呢，也试过用 lulu 拦截网络，基本上能想到的进程都拦击了，也不行，打开 ps 一会，一保存 psd 文件就弹红色提示，无法操作。&lt;/p&gt;
+&lt;img alt="yNZwoQuPEb" class="embedded_image" rel="noreferrer" src="https://picshack.net/ib/yNZwoQuPEb.png" /&gt;</description><pubDate>Sat, 19 Aug 2023 06:43:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966660#reply2</guid></item><item><title>[分享发现] 你们有躺床上看电脑屏幕的需求吗？</title><link>https://www.v2ex.com/t/966659#reply3</link><description>&lt;p&gt;笔记本放床边，设置成竖屏，侧着身子看比坐着看舒服。而且竖屏比横屏看漫画视野更大。已经的显示器是坐着用的，考虑再买台显示器躺着用&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 06:26:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966659#reply3</guid></item><item><title>[程序员] 请教： nginx 能否实现网站 B 目录下静态内容单独访问全 404，但是不影响 A 目录的主程序 PHP 对其使用？</title><link>https://www.v2ex.com/t/966658#reply2</link><description>&lt;p&gt;表达可能有点问题😂 ，
+大概就是正常对外使用 &lt;a href="http://yuming.com/A/index.php" rel="nofollow"&gt;yuming.com/A/index.php&lt;/a&gt; ，
+但是有部分 js/css/jpg 以及 html 文件实际都在 /B 目录下的，
+nginx 能否实现：
+只允许通过 &lt;a href="http://yuming.com/A/index.php" rel="nofollow"&gt;yuming.com/A/index.php&lt;/a&gt; 这样的方式访问，用户手工构建 &lt;a href="http://yuming.com/B/style.css" rel="nofollow"&gt;yuming.com/B/style.css&lt;/a&gt; 或者其他 B 目录下的内容，都直接 404 ？
+这个思路假如不行（ js/css 都得用户前端执行），那么能否将 &lt;a href="http://yuming.com/B/style.css" rel="nofollow"&gt;yuming.com/B/style.css&lt;/a&gt; 输出为 &lt;a href="http://fake.com/B/style.css" rel="nofollow"&gt;fake.com/B/style.css&lt;/a&gt; 即 这不是我 &lt;a href="http://yuming.com" rel="nofollow"&gt;yuming.com&lt;/a&gt; 加载给你的？
+总的大概意思就是你好好按照 &lt;a href="http://yuming.com/A/" rel="nofollow"&gt;yuming.com/A/&lt;/a&gt; 访问，没问题，你跑来猜测我 /B 的静态内容，要么给你 404 要么给你 按 &lt;a href="http://fake.com/B" rel="nofollow"&gt;fake.com/B&lt;/a&gt; 去给你执行，
+谢谢大家😂。&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 06:08:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966658#reply2</guid></item><item><title>[程序员] 现在前端还有人写单元测试吗？</title><link>https://www.v2ex.com/t/966657#reply4</link><description>当前阶段，对业务需求开发迭代都是很快的。写单元测试又很耗时。这种情况下，想问下大家，现在是不是都不流行写单元测试了？&lt;br /&gt;&lt;br /&gt;反正我这几年做过的项目都没搞过，不知道要不要学一下？😅 （基本上做的都是 toB 的业务）&lt;br /&gt;&lt;br /&gt;如果你们项目有在使用单元测试，是在什么情况下呢？</description><pubDate>Sat, 19 Aug 2023 05:57:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966657#reply4</guid></item><item><title>[全球工单系统] todesk 又出现奇怪的 BUG</title><link>https://www.v2ex.com/t/966656#reply0</link><description>&lt;p&gt;连别人的时候显示头像不是我的，但名字是我，然后一直在那跳来跳去，一会显示我的一会显示别人的，但其实都是我，因为名字都是我的，而且只有我一个人在连接，这个头像是谁也不知道&lt;/p&gt;
+&lt;p&gt;&lt;img alt="微信图片_20230818163945.png" class="embedded_image" rel="noreferrer" src="http://p0.meituan.net/csc/f9f0e667e8b142a3a61a5797e9ced36623412.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:55:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966656#reply0</guid></item><item><title>[程序员] [我还有救吗] 20 岁早早入行， 30 岁还没当过 leader，润出来发现自己是那只最弱的鸡</title><link>https://www.v2ex.com/t/966655#reply19</link><description>&lt;p&gt;小时候我属于“别人家的孩子”，父母揠苗助长，提前上了小学、中学，顺利进入 985 读 CS ，但也埋下了心理脆弱的祸根，进入大学后问题爆发，开始自暴自弃，多次挂科补考，勉强毕业；好在我对 CS 有一定兴趣，凭着自学的 C++、数据结构和操作系统，进入了一家创业公司 A 。这时是 2013 年。&lt;/p&gt;
+&lt;p&gt;在 A 司我找到了自我价值，算是任劳任怨，A 司对我也不错，年年加薪，两年升了 senior （相当于大厂 SDE2 ）；我在 A 司做了三年多，发现公司业务没有起色，就跳去了一家稍大的创业公司 B 。&lt;/p&gt;
+&lt;p&gt;在 B 司第一年，我的心理问题再次凸显，这次我没有硬扛，选择了药物治疗，效果显著，一年后就完全康复；但这一年我也拿到了最低的绩效，多亏上司保了我一手，我得以在 B 司也待满了三年，然而后两年我也只拿到普通绩效，无缘加薪。现在看来，在 B 司的后两年是我整个人生最快乐的时光，当时我有句名言：“我不曾有过青春，现在就是我的青春。”这两年时间大大改变了我的面貌，我从前常被领导提点“需要提升软技能”，但这两年过后，我已经成了跨团队沟通的主力。&lt;/p&gt;
+&lt;p&gt;摆脱心魔后，我认为我可以找个好点的平台“大干一场”了，于是我进入了 C 司，C 司算是一家二线大厂。为何不冲 BATTMD 呢，因为我仍然担忧高强度的工作会使我旧病复发。然而事与愿违，本来比较佛系的 C 司从那年开始全面学习字节卷起来，我才进去第二周，就需要写代码到后半夜，企业微信 7x24 待命……很快我的早睡早起、业余读书、锻炼等等好习惯都荒废了。不甘堕落的我拿起了托福小本本，准备申请海外 Master ，结果不但没申好，还又一次背了低绩效。&lt;/p&gt;
+&lt;p&gt;翌年（ 2021 ）上半，我拿了高绩效，但我知道这不长久。下半年我又开始边工作边申美硕，这次我申到了 CMU 的擦边专业——Software Management ，申请结果仍然算不上理想，而且我为此付出了惨痛代价：可能是因为请假太多的缘故，2022 年 C 司 layoff 的第一批就有我。&lt;/p&gt;
+&lt;p&gt;2022 年，魔都封城，家母无法接受我润的选择，在封城期间对我极尽羞辱，我在心灰意冷中没能及时赶往异地申请签证，最终签证被 check ，错过了开学日期，被迫 defer 一年。决定 defer 之后，我也尝试投了一些简历，结果与前些年大相径庭，以前我换工作都是投递六七家公司、参加三四场面试就尘埃落定，这次却屡屡碰壁。进入 2023 ，我随便找了家外包干了几个月，再度辞职，只身赴美了。&lt;/p&gt;
+&lt;p&gt;来到硅谷，我看到同专业的小伙伴 3 年国内经验总包和我这 9 年的差不多，没有国内全职经验的，也人均 BAT 实习；又看到同住的印度小哥 Google 一年被裁后七个月没找到工作。我拿什么跟他们竞争呢？虽然上文的 A 、B 、C 都是（或曾是）纳斯达克上市公司，但在美国少有人知；回国的话，走社招我简历基本已花，走校招的话有人接受 31 岁的硕士毕业生吗？&lt;/p&gt;
+&lt;p&gt;怎么可能让我那么容易摆脱 996 呢？？我的起点太低，走得也太慢了，无论什么路子，等我把它走通的时候，或许早就封死了吧…………&lt;/p&gt;
+&lt;p&gt;前几天刚落地湾区，我一直睡不着（有一部分时差因素），看到 X 乎 X 地的各种劝退贴更觉雪上加霜，一度想要退学“止损”了。但我觉得既然走到这里，尽量不要后退（退路大概也已经不存在了）。30 岁，人生刚过三分之一，将来有一天我会躺平，但不是现在。再说，我还没有尝试，凭什么就说不行呢？&lt;/p&gt;
+&lt;p&gt;求各种安慰/打醒/指路。。。&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:49:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966655#reply19</guid></item><item><title>[问与答] m2 pcie ssd 推荐 fanxiang</title><link>https://www.v2ex.com/t/966654#reply2</link><description>人在国外，打算从国内带十块 fanxiang s880 （对的 国产 长江的那个牌子 从没用过 但便宜） 4tb m2 pcie4 ssd 的盘。&lt;br /&gt;有人用过吗 这个牌子如何 这个 880 如何&lt;br /&gt;谢谢</description><pubDate>Sat, 19 Aug 2023 05:45:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966654#reply2</guid></item><item><title>[职场话题] 面试了一家 ruby 的远程公司 ，不知道靠谱吗，有没有内部，大家帮忙参考一下</title><link>https://www.v2ex.com/t/966653#reply4</link><description>&lt;p&gt;公司说面试流程会出两个项目，
+第一阶段比较简单，
+第二阶段会复杂一点，会基于第一阶段去实现，第二阶段是有偿的，
+是做实际项目，但是第二阶段的面试可能两到三周。&lt;/p&gt;
+&lt;p&gt;不过我看他们在 Ruby China 上发过招聘帖子，挂了三个月，还没有招到人
+招聘的人说：自己对每一个面试者，出的其实都是同一个项目&lt;/p&gt;
+&lt;p&gt;但是我去询问了，之前做他们的第二阶段，有人做了 70%，但是他们也没有打款，因为整个面试流程是先给代码，他们的人去判断你有没有做完，以及判断该不该给你打款，怕遇到空手套代码的了&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:39:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966653#reply4</guid></item><item><title>[OpenAI] 想批量调用 gpt3.5 或 claude2 api，怎么注册账号或有第三方提供服务吗？</title><link>https://www.v2ex.com/t/966652#reply0</link><description>&lt;p&gt;要批量处理文本，测试了一下文心一言，讯飞星火根本无法用，gpt3.5 或 claude2 是可以用的(gpt4 当然更好，太贵了用不起)。&lt;/p&gt;
+&lt;p&gt;查询了半天，各种账号出售好像都是普通用户手工问问题的账号，怎么才能稳定的批量调用 gpt3.5 或 claude2 api? 有好的第三方服务么？（费用不要超过原厂商太多）&lt;/p&gt;
+&lt;p&gt;我有一个几千上万字的 prompt ，肯定不能每次调用 api 都发送这么大的 prompt 吧？这个 prompt 可以存在我的账号里面吧？&lt;/p&gt;
+&lt;p&gt;计费怎么计算呢？每次调用都要加上几千字的 prompt ，费用也受不了啊？&lt;/p&gt;
+&lt;p&gt;请老手多指点，谢谢了。&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:32:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966652#reply0</guid></item><item><title>[生活] 有无可以安装手机版优爱腾 APK 的电视盒子？</title><link>https://www.v2ex.com/t/966651#reply4</link><description>tvbox,小苹果之类真玩不来，找到的数据源没一个能用的。不想浪费时间折腾此类软件了。只想在电视盒子上能用手机版会员</description><pubDate>Sat, 19 Aug 2023 05:29:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966651#reply4</guid></item><item><title>[问与答] 北京 gjj 有啥低成本的提取方法</title><link>https://www.v2ex.com/t/966650#reply8</link><description>好想拿出来贡献给大 A ，各位大大，有办法吗</description><pubDate>Sat, 19 Aug 2023 05:26:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966650#reply8</guid></item><item><title>[职场话题] 在某职场，为什么不能说领导的问题？</title><link>https://www.v2ex.com/t/966649#reply9</link><description>在某职场，为什么不能说领导的问题，平心而论，难道只许州官放火，不许百姓点灯么？明明领导也是有问题的。</description><pubDate>Sat, 19 Aug 2023 05:23:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966649#reply9</guid></item><item><title>[问与答] 五险一金有缺失的（比如没有公积金）的工作，是不是客观上筛掉了生存压力较小的求职者？这样的职位最终招来的人是不是都是有较大生存压力的人？</title><link>https://www.v2ex.com/t/966648#reply0</link><description>&lt;p&gt;2022 年，年末全国就业人员 7.3351 亿人；住房公积金实缴职工 1.697957 亿人。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.stats.gov.cn/sj/zxfb/202302/t20230228_1919011.html" rel="nofollow"&gt;中华人民共和国 2022 年国民经济和社会发展统计公报
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.stats.gov.cn/sj/zxfb/202302/t20230228_1919011.html" rel="nofollow"&gt;全国住房公积金 2022 年年度报告&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:18:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966648#reply0</guid></item><item><title>[问与答] 函数传参的类型</title><link>https://www.v2ex.com/t/966646#reply4</link><description>&lt;p&gt;一般分为值传递和引用传递，大部分语言都是这样吧。
+有没有特殊的语言，只有值传递的？&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 05:12:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966646#reply4</guid></item><item><title>[分享创造] [iOS] 嗯背单词 App 更新 1.2.0 版本，让你一小时背 2000 左右单词，可能是目前背单词速度最快的 App</title><link>https://www.v2ex.com/t/966645#reply7</link><description>&lt;p&gt;App 之前采用的是听写默写的学习方式，不少用户反馈这种学习方式比较困难，对新手很不友好，新版本中改为了识记学习机制，更加符合多数人的背单词习惯，同时相对于不背单词，墨墨等软件优化了交互方式，操作效率提高了数倍。&lt;/p&gt;
+&lt;p&gt;很多程序员学英语大多是为了能够看懂技术文档和 Stackoverflow ，对于听力和拼写的要求不高，所以新版本中拼写测试作为一个可选项可以自由开启或关闭。&lt;/p&gt;
+&lt;h2&gt;学习机制&lt;/h2&gt;
+&lt;p&gt;受到 &lt;a href="https://v2ex.com/t/894561" rel="nofollow"&gt;https://v2ex.com/t/894561&lt;/a&gt; 中一些 V 友评论启发，我认为乱序，高频和大量的重复记忆才是背单词的最好方式，
+嗯背单词没有采用传统的记忆曲线，而是将所有单词分为四组，进行漏斗式的转化记忆&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps" rel="nofollow"&gt;https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/microsoft/wslg/issues/469" rel="nofollow"&gt;https://github.com/microsoft/wslg/issues/469&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/microsoft/wslg#opengl-accelerated-rendering-in-wslg" rel="nofollow"&gt;https://github.com/microsoft/wslg#opengl-accelerated-rendering-in-wslg&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 18 Aug 2023 17:51:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966583#reply0</guid></item><item><title>[问与答] Archlinux 上有沒有什麼很好的 macOS 的替代品</title><link>https://www.v2ex.com/t/966582#reply2</link><description>&lt;p&gt;剛接觸 arch （以前有段時間是 Debian 上輕度用戶）&lt;/p&gt;
-&lt;p&gt;Linux 平台有什麼類似以下 macOS 的軟件替代品麼？&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;单词初记，所有单词一开始的状态，随机重复抽取&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;强化复习，初步认识或有点印象的单词， 随机重复抽取&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;轻松回顾，完全掌握的单词，能够迅速回想释义，不重复随机排序&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;排除单词，没有学习必要的单词，例如专有名词，音译名词等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每个单词可以通过点击认识，掌握，遗忘进入下一个分组，在轻松回顾中点击遗忘则可以让单词回到强化复习中重新复习。&lt;/p&gt;
+&lt;p&gt;大量背单词的好处就是可以建立学习英语的信心，而不是每天几十个单词感觉不会有结束的时候。&lt;/p&gt;
+&lt;h2&gt;UI 介绍&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Alfred (Workflow)&lt;/li&gt;
-&lt;li&gt;Fantastical&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 18 Aug 2023 17:36:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966582#reply2</guid></item><item><title>[Notion] notion 邮箱登陆要输入临时登陆码，怎么搞它</title><link>https://www.v2ex.com/t/966581#reply0</link><description>&lt;p&gt;notion 邮箱登陆跑出个“给你发了个临时登陆码”，怎么回事？
-不能密码登陆了吗
-对教育邮箱的处理了吗？&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 17:31:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966581#reply0</guid></item><item><title>[问与答] Windows 下有没有类似 manico 或者 Raycast 一样可以给应用设置快捷键呼出隐藏的，不想用 autohotkey</title><link>https://www.v2ex.com/t/966580#reply0</link><description>目前 Windows 下试了 utools ，但是似乎效果不太好，要么只能呼出，要么就打开了多个窗口。</description><pubDate>Fri, 18 Aug 2023 17:14:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966580#reply0</guid></item><item><title>[问与答] 请教关于 headscale 服务器的问题</title><link>https://www.v2ex.com/t/966579#reply0</link><description>前些日子搭建了用腾讯云 HK 的搭建了 headscale+derp 。使用场景是有一些用 4G 上网的设备需要组成一个内网，但是发现使用体验很不好，4G 上网的设备，sftp 虽然没有断但是反应很卡。其次用两个 windows 使用远程控制也是比 todesk 要卡的不能动弹。（确定没有打洞成功而是走的自建中转）&lt;br /&gt;&lt;br /&gt;但是我直接从设备 ping 服务器倒是只有 100 多 ms 的延迟，我现在想换一个国内的服务器不知道能否提升效果，但是有点担心说买了之后效果很差，有什么工具可以提前测试下吗？包括 ping 延迟不高但是速度很慢的问题</description><pubDate>Fri, 18 Aug 2023 17:09:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966579#reply0</guid></item><item><title>[分享发现] 据说恒大的海外负债是四大行担保的！外汇要耗光还债？</title><link>https://www.v2ex.com/t/966577#reply4</link><description>&lt;p&gt;这个可信度有多高？&lt;/p&gt;
-&lt;p&gt;这些大行为什么要给他担保？是怎么操作的？&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 16:50:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966577#reply4</guid></item><item><title>[程序员] 有没有免费的 chatgpt 的网址可以用啊？</title><link>https://www.v2ex.com/t/966576#reply1</link><description></description><pubDate>Fri, 18 Aug 2023 16:47:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966576#reply1</guid></item><item><title>[macOS] Macbook 常用快捷键（水贴）</title><link>https://www.v2ex.com/t/966575#reply2</link><description>作为程序员，最让旁人羡煞的就是能够在电脑前疯狂切换程序终端应用多线程操作，看起来非常炫酷且黑客（个人观点）。&lt;br /&gt;&lt;br /&gt;今天上午刚入了人生第一台 Macbook ，想到以前用 Win 的时候通过简单几个操作打开各种应用、搜索文件、运行命令、在不同的程序界面（页面）之间秒切，到了 Mac 上却如婴儿般不知所措一通乱按毫无作用，于是学了一下午的《 Macbook 快捷键从入门到精通》，也算小有所成，于此记录一下自己勉强用得来的操作。&lt;br /&gt;&lt;br /&gt;虽然此贴质量不高，但也算开发过程中可能会遇到的一些问题，提高开发（装逼）效率。&lt;br /&gt;&lt;br /&gt;希望各位大佬有好用的操作可以分享一下，说不定就能解决困惑某人已久的踏破铁鞋无觅处的问题呢😊 &lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;1. 在 Mac 中最大的变化莫过于从 Ctrl 键到 command 键（以下简称 cmd 键）的转变。最常用的 Ctrl+afcvxz ，相应的就变成 cmd+afcvxz 了，代表什么想必无需多言。&lt;br /&gt;&lt;br /&gt;2. 然后是 cmd+qw 代表程序退出和页面关闭，其中程序退出是我认为使用频率最高的快捷键&lt;br /&gt;&lt;br /&gt;3. cmd+backspace 删除选中文件（笔记本上没有 delete 键）&lt;br /&gt;&lt;br /&gt;4. 最小化窗口 cmd+m 。建议不要最大化窗口&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;我发现这样写逐渐变成无意义的流水记录了，所以还是要面向问题找解决方案，不知道下面这样写会不会更有吸引力一点&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1. 在两个打开的程序直接切换：最一般的情况下，我们会用 cmd+tab 来切换，但如果另一个程序被 cmd+m 键或者直接点击而最小化了，那么就会发现虽然左上角显示的选中程序确实切换过去了，但是窗口并不会显示/最大化，因此实际操作是：cmd+tab 选中程序，松开 tab ，按下 option 键，松开 cmd ，最后松开 option 。虽然看起来很复杂，但实际上手后熟悉一两下就简单了&lt;br /&gt;&lt;br /&gt;2. 呼出程序坞：我的建议是在偏好设置修改成自己顺手的快捷键，但是追求酷炫的人真的会用程序坞吗？因为程序坞必然要用到鼠标/触摸板，不就违背了使用快捷键的初衷了吗？所以我的建议是 cmd+h&lt;br /&gt;&lt;br /&gt;3. 打开某应用：我认为最快的是 cmd+h 然后输入名字（不用输完整），比如打开终端（ terminal ），资源管理器（ Finder ），任务管理器（ Mac 中叫活动监视器）&lt;br /&gt;&lt;br /&gt;4. 恢复上次关闭的窗口：cmd+shift+t （与 Win 相同，但也算常用）&lt;br /&gt;&lt;br /&gt;5. 查看下载页面，这个要看浏览器了，Chrome 从 win 的 Ctrl+J 变成了 cmd+shift+j&lt;br /&gt;&lt;br /&gt;6. 还有个很常用的前面忘记提了，那就是万能的 cmd+, 应用的设置/偏好页面（几乎所有应用都可以）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;应该还有其他可以补充的，评论区再说吧</description><pubDate>Fri, 18 Aug 2023 16:45:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966575#reply2</guid></item><item><title>[问与答] 现在 ChatGPT 发展怎么样了？凉了吗，讨论好像少了很多？</title><link>https://www.v2ex.com/t/966574#reply0</link><description></description><pubDate>Fri, 18 Aug 2023 16:36:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966574#reply0</guid></item><item><title>[程序员] 请教大佬个技术性问题~某网站上传 2 张同样的图片，怎么避免被识别出来</title><link>https://www.v2ex.com/t/966572#reply9</link><description>&lt;p&gt;前言：因为工作需要，经常需要拍摄图片，但实际都大同小异，像偷下懒。&lt;/p&gt;
-&lt;p&gt;我只拍个一张图片&lt;/p&gt;
-&lt;p&gt;某网站上传的要求是 7 张，我想着拍 1 张，然后上传 6 个同张图片。&lt;/p&gt;
-&lt;p&gt;我上传第二张的时候就会提示图片重复，但我可以猜测应该不是图像识别技术，因为我拍摄 2 张一模一样角度的上传也不会提示重复图片，试了给图片文件改名，但不行。&lt;/p&gt;
-&lt;p&gt;如果想偷懒拍一张图片的话，需要给图片文件修改什么信息（试过改名+PS 重新保存 没成功），可以绕过网站提示重复图片。&lt;/p&gt;
-&lt;p&gt;感谢大佬帮助！&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 16:30:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966572#reply9</guid></item><item><title>[阅读] 求推荐跨平台（IOS/Windows）EPUB 阅读器</title><link>https://www.v2ex.com/t/966571#reply4</link><description>&lt;p&gt;之前一直用 Apple 全家桶，Apple Books 用着很舒服，界面也很美观，后来把 Mac 换成 Windows 电脑后苦于一直没找到比较满意的能在 Windows 与 IOS 间同步的阅读器。要求不高，能阅读 EPUB ，可以在 Windows 与 IOS 间同步阅读进度 E 即可，要是还能阅读漫画那就更好了。&lt;/p&gt;
-&lt;p&gt;唯一找到的一个就是 NeatReader ，可惜这个软件目前处于半停止维护的状态，IOS 端连深色模式都没有，晚上直接亮瞎眼，体验过于糟糕。&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 16:27:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966571#reply4</guid></item><item><title>[问与答] 想上末班车土区 GoogleDomain</title><link>https://www.v2ex.com/t/966570#reply7</link><description>&lt;p&gt;问题 1. 买 10 年不让转出，是不是买 9 年就能转出了？&lt;/p&gt;
-&lt;p&gt;问题 2. 买哪个域名后缀便宜而且不容易被和谐？&lt;/p&gt;
-&lt;p&gt;问题 3. 求推荐又短又便宜又好的域名后缀&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 16:07:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966570#reply7</guid></item><item><title>[VPS] 明明是香港的 IP， Netflix 偏偏认为是美国的</title><link>https://www.v2ex.com/t/966569#reply5</link><description>&lt;p&gt;买了个香港的 VPS ，可以解锁 Netflix 自制剧，本来挺高兴的。
-结果 Netflix 偏偏认为是美国 IP ，其他各种网站查都显示是香港 IP 。
-导致我现在看 Netflix 大多没有中文字幕，只有英文和西班牙文字幕。😫😫😫
-&lt;strong&gt;有办法让 Netflix 修正过来吗？&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Netflix 的 IP 归属地查询方式：
-打开 &lt;a href="http://fast.com" rel="nofollow"&gt;fast.com&lt;/a&gt; ，测速完后“show more info”，会显示 IP 归属地。&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Fri, 18 Aug 2023 16:05:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966569#reply5</guid></item><item><title>[问与答] win10 迁移系统后进不去系统</title><link>https://www.v2ex.com/t/966568#reply1</link><description>&lt;p&gt;用 dg 在 pe 下迁移系统到新硬盘后进不进去系统怎么办，已经修复过引导，还是进不去系统，显示无法正常启动你的电脑，错误代码 0xc0000001 ，有什么解决办法吗，不想重装&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 16:03:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966568#reply1</guid></item><item><title>[Swift] Composable SwiftUI</title><link>https://www.v2ex.com/t/966566#reply2</link><description>&lt;a href="https://github.com/OpenLyl/Water" rel="nofollow noopener" target="_blank"&gt;https://github.com/OpenLyl/Water&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这个库能干什么？&lt;br /&gt;&lt;br /&gt;- 渐进式的帮助你开发 SwiftUI 界面&lt;br /&gt;- 状态管理原子化，可自由组合&lt;br /&gt;- 可单独使用，也可与 TCA 和 MVVM 架构结合使用&lt;br /&gt;&lt;br /&gt;总之，如果你觉得其他库复杂且不好掌握，或者你是一个 SwiftUI 新手，都可以尝试使用这个库</description><pubDate>Fri, 18 Aug 2023 15:28:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966566#reply2</guid></item><item><title>[推广] 有 GV 可来领钱,10 块一条帮忙收个 code (20230818)</title><link>https://www.v2ex.com/t/966565#reply2</link><description>1.正规网站,非灰产&lt;br /&gt;2.不用添加联系方式&lt;br /&gt;3.只是一个折扣 code 无需猜测&lt;br /&gt;&lt;br /&gt;把收款码和 GV 号码发到我邮箱 先给你钱再操作 诚信合作(PZ 勿扰&lt;br /&gt;然后我操作好会回复邮件&lt;br /&gt;&lt;br /&gt;10 块一条 一个号码一次 多个号码同一个邮件一起发来.&lt;br /&gt;&lt;br /&gt;(最近收过的老哥可以不用来了,一个号一次,有 GV 的滴滴滴)&lt;br /&gt;&lt;br /&gt;收够了会说明 或者 邮件回复&lt;br /&gt;&lt;br /&gt;(不一定秒回,看到邮件就会回复,感谢)&lt;br /&gt;&lt;br /&gt;Mail : tse979632@gmail.com&lt;br /&gt;&lt;br /&gt;Thx.</description><pubDate>Fri, 18 Aug 2023 15:25:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966565#reply2</guid></item><item><title>[宽带症候群] 请教一下，现在泉州白名单区以及河南，使用纯 ip 能否与境外服务器建立 tls 连接正常使用？</title><link>https://www.v2ex.com/t/966564#reply2</link><description>比如纯 ip 的 vmess ，纯 ip 的 anyconnect ，都不发送 sni 信息，能否在上述地区正常使用？</description><pubDate>Fri, 18 Aug 2023 15:20:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966564#reply2</guid></item><item><title>[分享发现] [分享]-总结下目前看过的所有类型的战争片</title><link>https://www.v2ex.com/t/966562#reply0</link><description>&lt;p&gt;&lt;img alt="a.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/18/nWJBGfXAkuQE1gc.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 18 Aug 2023 15:03:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966562#reply0</guid></item></channel></rss>
+&lt;li&gt;首页即可以快速切换词书，也包含了当天的数据统计和每月的进度统计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/3lIYIlt.png" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;滑动快速标记单词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DKE4Nww.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NU35f48.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JmafCTB.png" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;详细的成绩展示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TTTavNf.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;下载地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/cn/app/id6450109182" rel="nofollow"&gt;App Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;也可以直接在 App Store 搜索 嗯背单词&lt;/p&gt;
+&lt;h2&gt;收费方式&lt;/h2&gt;
+&lt;p&gt;App 为订阅制，订阅用户可以解锁全部词书和生词本功能，生词本可以像普通词书一样学习和测试，免费用户则可以使用牛津 3000 核心词汇词书和词典功能&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;订阅价格为 8 元每月，78 元每年&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;技术支持与交流&lt;/h2&gt;
+&lt;p&gt;欢迎加群交流了解，目前手上还有一些月度会员的兑换码，也可以在群里问我领取&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/BuhdYmb.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;希望这个 App 能解决大家背单词很累很难的问题，感谢支持&lt;/p&gt;</description><pubDate>Sat, 19 Aug 2023 04:53:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966645#reply7</guid></item><item><title>[问与答] 有什么智能音箱开放了接口可以二次开发</title><link>https://www.v2ex.com/t/966644#reply1</link><description>1. 可以自由对接接口，比如接个 ChatGPT  （刚需）&lt;br /&gt;2. 最好可以支持自定义音色模型</description><pubDate>Sat, 19 Aug 2023 04:52:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/966644#reply1</guid></item></channel></rss>
