@@ -1,96 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 21 Aug 2023 12:45:46 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iOS] ios 上有什么推荐的正则和 base64 工具 app？</title><link>https://www.v2ex.com/t/967186#reply0</link><description>&lt;p&gt;Anubis 无限闪退，想找个新的 app 使用。最好能选好文案共享内容进行操作的。🙏&lt;br /&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 12:44:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967186#reply0</guid></item><item><title>[问与答] 对于移动宽带，各位大佬都是如何驯服的？</title><link>https://www.v2ex.com/t/967185#reply0</link><description>0.前几年用过移动宽带，感觉没有目前这么差，高峰期刷视频，尤其是 B 站，几十 K 。&lt;br /&gt;&lt;br /&gt;1.10 开头的内网地址，问了装机的大哥还有在移动公司工作的前女友（高中开始啪啪，现在有机会仍然会约，技术太到位了；目前已经离婚，怕怕），咬定全中国移动都没有公网 IP ，作罢；&lt;br /&gt;&lt;br /&gt;2.我寻思设置有问题，检查了一遍，光猫桥接，路由拨号，路由器 AC86U,设置也没问题啊；&lt;br /&gt;&lt;br /&gt;3.平时测速正常，300 的宽带，上下行基本在 360 ／ 36 左右。</description><pubDate>Mon, 21 Aug 2023 12:42:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967185#reply0</guid></item><item><title>[VPS] 甲骨文虚拟云网络 VCN 是干嘛用的？我想创建一个小鸡玩玩</title><link>https://www.v2ex.com/t/967184#reply0</link><description></description><pubDate>Mon, 21 Aug 2023 12:39:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967184#reply0</guid></item><item><title>[Node.js] 三个 JavaScript 例子中的函数提升为何导致不同的输出？</title><link>https://www.v2ex.com/t/967183#reply0</link><description>&lt;h2&gt;问题描述&lt;/h2&gt;
-&lt;p&gt;我在学习 JavaScript 的函数提升（ hoisting ）时，遇到了三个看似相似但输出不同的例子。根据函数提升的原理，这三个例子的输出应该是相同的，越想越觉得奇怪啊&lt;/p&gt;
-&lt;h3&gt;例子 1&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;var a = 0;
-console.log("1 a:", a);
-if(true){
-    a = 1;
-    function a() {}
-    a = 5;
-    console.log("2 a:", a);
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 21 Aug 2023 22:39:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Surge] Surge5 for mac 发车， 145 一位</title><link>https://www.v2ex.com/t/967241#reply0</link><description>&lt;p&gt;5 人车，145RMB 一位。
+5 人齐即刻发车。
+后续大版本升级更新到时候再商定，个人原因跳车不退。
+如有需要，请联系 telegram： &lt;a href="https://t.me/+X9SQcPG9NFs4ODdl" rel="nofollow"&gt;https://t.me/+X9SQcPG9NFs4ODdl&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 22:34:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967241#reply0</guid></item><item><title>[问与答] Linux crontab 使用的环境变量如何与用户变量完全相同？</title><link>https://www.v2ex.com/t/967240#reply1</link><description></description><pubDate>Mon, 21 Aug 2023 22:08:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967240#reply1</guid></item><item><title>[怀旧游戏] Gamker 在广州开了一个 Retro Gaming 博物馆：万物破元电子游戏博物馆</title><link>https://www.v2ex.com/t/967239#reply0</link><description>&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 21 Aug 2023 22:00:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967239#reply0</guid></item><item><title>[问与答] 有哪些比较极客的邮箱能争取下，也能同时证明在 cs 领域的能力？比如 @ntp.org 的邮箱</title><link>https://www.v2ex.com/t/967238#reply0</link><description>&lt;p&gt;比如这个链接里 &lt;a href="https://www.v2ex.com/t/114427" rel="nofollow"&gt;https://www.v2ex.com/t/114427&lt;/a&gt;  AstroProfundis 留的 &lt;a href="http://ntp.org" rel="nofollow"&gt;ntp.org&lt;/a&gt; 邮箱
+比如要得到 @ubuntu.com 邮箱，需要成为 member &lt;a href="https://wiki.ubuntu.com/Membership" rel="nofollow"&gt;https://wiki.ubuntu.com/Membership&lt;/a&gt; ，至少要贡献 6 个月。
+再比如 @gnu.org 的邮箱&lt;/p&gt;
+&lt;p&gt;另外一个类别，比如 &lt;a href="http://fsf.org" rel="nofollow"&gt;fsf.org&lt;/a&gt; 和 &lt;a href="http://linux.com" rel="nofollow"&gt;linux.com&lt;/a&gt; 的，是花钱就能买到，也算一个类别吧，可以考虑但优先级不如上面。并且另一个缺点是经常要续费。&lt;/p&gt;
+&lt;p&gt;邮箱还是很重要，如果能很极客，又能终身拥有就更好了。&lt;/p&gt;
+&lt;p&gt;坛友有其他推荐吗？如果需要在开源社区贡献争取下也是可以的。&lt;/p&gt;
+&lt;p&gt;一个参考帖： &lt;a href="https://www.v2ex.com/t/839631" rel="nofollow"&gt;https://www.v2ex.com/t/839631&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 21:43:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967238#reply0</guid></item><item><title>[程序员] 真诚请教，美元在香港选哪个银行利息有在 5%左右的利息</title><link>https://www.v2ex.com/t/967237#reply9</link><description>&lt;p&gt;周一换了 2 万美金并且通过中银转到香港中银同名账户， 预计后天能可以收到。&lt;/p&gt;
+&lt;p&gt;请问选择哪个银行或者产品能够无风险的拿到 5%左右的利息呢？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 19:50:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967237#reply9</guid></item><item><title>[Linux] Oracle Site-Site VPN 三个机器配置相同只有一个内网通</title><link>https://www.v2ex.com/t/967236#reply0</link><description>&lt;p&gt;Oracle 有 Site-Site VPN 可以白嫖，所以想试试能不能把几个机器通过 VPN 组网。皆是使用 Static Routing 。但由于网络知识及相关工具知识匮乏，没法白嫖成功，遂有以下疑问。&lt;/p&gt;
+&lt;h2&gt;问题描述&lt;/h2&gt;
+&lt;p&gt;先后在 A （ AWS HK ，192.168.0.2/24 ），B （ Tencent HK ，192.168.10.2/24 ），C （国内托管，192.168.20.2/24 ）三个服务器上按照 Oracle 的&lt;a href="https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/StrongswanCPE.htm" rel="nofollow"&gt;教程&lt;/a&gt;创建了 vti 网卡，手动 C 机器（ Ubuntu22.04 不能安装 quagga 了）/A 、B 机器使用 zebra 添加了路由规则，详细路由如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;root@ip-172-31-21-142:/home/ubuntu# ip route
+default via 172.31.16.1 dev ens5 proto dhcp src 172.31.21.142 metric 100
+10.0.0.0/24 proto zebra scope link metric 20
+       nexthop dev vti0 weight 1
+       nexthop dev vti1 weight 1
+172.31.16.0/20 dev ens5 proto kernel scope link src 172.31.21.142
+172.31.16.1 dev ens5 proto dhcp scope link src 172.31.21.142 metric 100
+192.168.0.0/24 dev vti0 proto kernel scope link src 192.168.0.2
+192.168.0.0/24 dev vti1 proto kernel scope link src 192.168.0.4
+192.168.10.0/24 proto zebra scope link metric 20
+       nexthop dev vti0 weight 1
+       nexthop dev vti1 weight 1
+192.168.20.0/24 proto zebra scope link metric 20
+       nexthop dev vti0 weight 1
+       nexthop dev vti1 weight 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其中&lt;code&gt;10.0.0.0/24&lt;/code&gt;是用来访问 Oracle 的 VPS(10.0.0.79)的。其他的都是各机器子网的路由。三台机器的&lt;code&gt;ip route&lt;/code&gt;除过本机必须条目之外其他都相同。&lt;/p&gt;
+&lt;p&gt;网卡的信息如下(AWS 的默认网卡 mtu 为 9000 ，其他两个为 1500)：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;vti0: flags=209&amp;lt;UP,POINTOPOINT,RUNNING,NOARP&amp;gt;  mtu 8981
+       inet 192.168.0.2  netmask 255.255.255.0  destination 192.168.0.2
+       inet6 fe80::5efe:ac1f:158e  prefixlen 64  scopeid 0x20&amp;lt;link&amp;gt;
+       tunnel   txqueuelen 1000  (IPIP Tunnel)
+       RX packets 1575  bytes 115015 (115.0 KB)
+       RX errors 0  dropped 0  overruns 0  frame 0
+       TX packets 1902  bytes 107800 (107.8 KB)
+       TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+vti1: flags=209&amp;lt;UP,POINTOPOINT,RUNNING,NOARP&amp;gt;  mtu 8981
+       inet 192.168.0.4  netmask 255.255.255.0  destination 192.168.0.4
+       inet6 fe80::5efe:ac1f:158e  prefixlen 64  scopeid 0x20&amp;lt;link&amp;gt;
+       tunnel   txqueuelen 1000  (IPIP Tunnel)
+       RX packets 1269  bytes 94250 (94.2 KB)
+       RX errors 0  dropped 0  overruns 0  frame 0
+       TX packets 1306  bytes 69848 (69.8 KB)
+       TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;为了避免其他问题，A ，B 机器系统为新装 Ubuntu20.04 ，C 为 22.04 ，且防火墙出入方向全部放行，除过 C 机器有 Docker 以外且是公网 IP 直接分配给网卡，另外两个都是全新系统且内网 IP 。可以确认的是每个机器的 VPN 肯定都是通的，在 Oracle 的 Network Visualizer 功能中查看三者的拓扑情况，也是相同的。其余&lt;strong&gt;可能&lt;/strong&gt;没有区别。附图如下：
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/22/eIP5nyg697vNsdA.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;现有问题&lt;/h2&gt;
+&lt;p&gt;1.A 机器可以 ping 通 Oracle 的内网 VPS ，可以 ping 通 VPN 的 OCI 端 IP ，但是无法 ping 通另外两个网段的机器。&lt;/p&gt;
+&lt;p&gt;2.B 机器可以 ping 通 VPN 的 OCI 端 IP ，但是无法访问 Oracle 的内网 VPS ，另外两个网段也不通。&lt;code&gt;mtr 10.0.0.79&lt;/code&gt;的结果如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;                         Packets               Pings
+ Host                     Loss%   Snt   Last   Avg  Best  Wrst StDev
+ 1. 192.168.10.5          0.0%     3   49.2  49.2  49.2  49.2   0.0
+ 2. 140.91.206.60         0.0%     3   53.9  54.0  53.9  54.0   0.0
+ 3. (waiting for reply)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;3.C 机器仅可以 ping 通本机分配给 vti 网卡的 IP （必然嘛），其余皆是&lt;code&gt;no route to host&lt;/code&gt;。但是这台机器昨天第一次测试的时候是可以访问 Oracle VPS 的，只是分配给它的网段是&lt;code&gt;10.0.10.0/24&lt;/code&gt;，而 Oracle 的 VCN 网段是&lt;code&gt;10.0.0.0/16&lt;/code&gt;，建立时会有提示就改到了&lt;code&gt;192.168.20.0/24&lt;/code&gt;段。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那么还有什么原因会造成上述的奇怪问题呢？&lt;/strong&gt;由于担心篇幅太长没人看，所以把三台机器的信息只放了其中一个，如果需要补充的话我可以再补充一下。为了避免是自己粗心大意造成这种问题我已经检查了数遍，&lt;strong&gt;应该&lt;/strong&gt;不会有此原因包含在内。&lt;/p&gt;
+&lt;p&gt;按理来说，建立好 VPN 后，三台机器间，以及和 Oracle 内网 VPS 间都是可以互通的，但是现在如此奇怪。自己对计算机也只是闲余时间折腾而已，没有系统地学习过课程，还请各位大佬不吝赐教。&lt;/p&gt;
+&lt;h2&gt;其他疑问&lt;/h2&gt;
+&lt;p&gt;不知道放在 Linux 分区合适不，本来想放在 internet 区，但是想了一下可能更适合分享给懂 linux 工具的大佬们。&lt;/p&gt;
+&lt;p&gt;国内的托管机器用这种 VPN 连接，应该不会被查水表吧。&lt;/p&gt;
+&lt;p&gt;最后问一下，BGP Routing 是不是只有在网络提供商允许的情况下才可以使用？三台机器的 BGP Routing 都是没办法正常连接的，BGP 端口状态一直是&lt;code&gt;SYN_SENT&lt;/code&gt;，随放弃。&lt;strong&gt;如果要用的话难道只能是有自有 ASN 才行？&lt;/strong&gt;但是试了一下 Oracle 提供的连接 AWS 的 Site-Site VPN 的&lt;a href="https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/vpn_to_aws.htm" rel="nofollow"&gt;方法&lt;/a&gt;，确实可以建立 BGP Routing ，而且使用的是 65412 的保留 ASN 。&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 19:41:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967236#reply0</guid></item><item><title>[Go 编程语言] 1.21 标准库的 slog，大家体验过没有</title><link>https://www.v2ex.com/t/967235#reply2</link><description>现在标准库也有结构化日志和日志等级了：log/slog 。&lt;br /&gt;体验了一天，基本上功能和 logrus 差不多，也能支持自定义格式输出，感觉是能用到实际的项目和生产环境中了</description><pubDate>Mon, 21 Aug 2023 19:32:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967235#reply2</guid></item><item><title>[macOS] 想在 MacBook 上用 spotify 听歌，但是报(错误代码： accesspoint:17）</title><link>https://www.v2ex.com/t/967234#reply0</link><description>&lt;p&gt;之前一直用的好好的，这两天打开 spotify 后，就提示(错误代码：accesspoint:17 ），梯子用的是香港的，spotify 个人注册信息填写的地区也是香港，大佬们该怎么操作？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 19:17:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967234#reply0</guid></item><item><title>[问与答] 各位，甲方一定比乙方好吗？感觉好多乙方的朋友干几年就想往甲方跳了。</title><link>https://www.v2ex.com/t/967233#reply0</link><description>&lt;p&gt;乙方没什么归属感，经常要去客户那，得看客户脸色等等。。各位是怎么看的？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 18:41:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967233#reply0</guid></item><item><title>[问与答] 有没有在用华凌 n8he1/n8he1pro 空调的小伙伴，帮忙测一下内外机连接管的最粗部分有多少 mm？</title><link>https://www.v2ex.com/t/967232#reply0</link><description>&lt;p&gt;问官方客服说要 65mm 的孔，但我家都是统一的 60mm 孔，
+而一般 1.5 匹的空调应该没有那么粗吧？
+有没有在用这款网红空调华凌 n8he1/n8he1pro 的小伙伴，麻烦测一下它内外机连接管最粗那个角度有多少 mm 粗？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 18:15:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967232#reply0</guid></item><item><title>[智能家电] 试图拯救空调，但是没成功</title><link>https://www.v2ex.com/t/967230#reply3</link><description>家里有人发癫，进屋一看中央空调面板被干了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;接正负线的地方已经断裂：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/QmiZzWGI.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/QmiZzWGI.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;屏幕碎的稀烂：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/21/z6RsU04y.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/21/z6RsU04y.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/VgCZFknQ.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/VgCZFknQ.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这时候空调还是正常运作的（冷气啥的都在），我妈可能怕触电去先把中央空调的闸拉了，把被损毁的面板位置的正负线单独用电工胶布包好然后再把闸推上，这回空调出风但是不正常工作了，别的空调面板都开始故障。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;如下：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;空调机 0 故障代码 0401&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/BNuaJgos.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/BNuaJgos.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;查了下可能是因为有一个内机失联导致。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;因为在拉闸前空调都能正常运作但是断电在恢复以后不行了，所以我在想是不是因为重新接电以后他发癫的那个房间的内机没有面板导致中央空调认为他那个房间的内机断连然后进入了啥安全模式于是就所有屋子空调都不能正常工作（出风小，不制冷）。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;因为晚了肯定找不到电工，于是我想能不能不拉闸断电的情况下把我房间的面板拆下来然后放到他发癫的房间那里给接上来给那个内机发送指令然后让内机通讯上。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;结果就是接上了后面板跟没通电一样没反应，但是用电笔测他发癫的房间那两个正负线又有电的，这是咋回事？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;难道一定要把闸重拉一下才能接通么？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;接上不亮不显示：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/Tiyn0zF6.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/Tiyn0zF6.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;会想到这样奇葩的解决思路的原因：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;在我妈没有拉闸的时候家里所有空调面板都没有报错，但这个时候实际他发癫房间的面板已经干下来了，在干下来之前是正常工作 26 度制冷的，干下来后屋内温度没有感觉到变化出风也没变化，判断应该在正常工作。因此想着是不是只要让内机接收到一次面板的指令就能通讯成功。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;但是打字打到这里也想到一个问题，如果真是这样让他发癫房间的通讯上了，我这个房间内机会因为没有面板而报故障，本质上只是换了个机器报故障而已😭</description><pubDate>Mon, 21 Aug 2023 17:43:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967230#reply3</guid></item><item><title>[问与答] 2022 版拯救者 Y9000X 降级至 win10 专业版后显卡驱动出现重启黑屏情况</title><link>https://www.v2ex.com/t/967228#reply3</link><description>如题，使用的是雨林木风放出的镜像版本，重启之后，进入系统即黑屏；&lt;br /&gt;&lt;br /&gt;应该会在将显卡模式调整至“仅 nvidia GPU”后出现，在进入安全模式后卸载驱动会修复这个问题，但是在进入系统安装驱动后这个问题会复现。（因客观原因必须使用 win10 系统，目前不打算回到 win11 ）&lt;br /&gt;&lt;br /&gt;目前已经尝试了联想官方提供的旧版本显卡驱动和 nvidia 官方提供的显卡驱动，均会出现这种情况，现在在 bios 中将显示模式从混合修改的独显后情况有所改善。&lt;br /&gt;&lt;br /&gt;请问 v2 的各位，有没有什么比较好的办法能够根治这一问题？</description><pubDate>Mon, 21 Aug 2023 17:22:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967228#reply3</guid></item><item><title>[问与答] GnuPG 和 OpenSSL 支持得几种对称加密算法,对于明文 Size 有限制吗?</title><link>https://www.v2ex.com/t/967227#reply0</link><description>&lt;p&gt;具体来说,我想问,Git For Windows 中集成得 GnuPG 和 OpenSSL 程序,如果拿来加密(仅考虑对称加密算法)单个大文件(&amp;gt;100GB),有没有什么弊端/风险呢?&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 17:01:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967227#reply0</guid></item><item><title>[程序员] K8S API 网关用哪个比较好？ ALB ingress controller 还是 APISIX 还是 KONG</title><link>https://www.v2ex.com/t/967226#reply10</link><description>&lt;p&gt;楼主目前有一个 EKS ，想要提供 API 服务，目前走的默认的 aws ingress controller （ &lt;a href="https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.6/" rel="nofollow"&gt;https://kubernetes-sigs.github.io/aws-load-balancer-controller/v2.6/&lt;/a&gt;) &lt;/p&gt;
+&lt;p&gt;但看了看 APISIX ，KONG 等方案貌似有完善的监控和控制方案，而且速度看上去还可以&lt;/p&gt;
+&lt;p&gt;想问问各位目前大家线上走的是什么方案呢？&lt;/p&gt;
+&lt;p&gt;有没有其他什么推荐呢？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 16:50:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967226#reply10</guid></item><item><title>[Apple] Macbook Pro 如何在电池状态下合盖后依然能正常连接显示器</title><link>https://www.v2ex.com/t/967225#reply1</link><description>&lt;p&gt;Macbook Pro M1 14 寸，系统 macos 13 ，有个 Dell 的 2k 显示器。
+请教各位 v 友，如题，有没有什么设置或者第三方 app 能实现这个需求啊。&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 16:37:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967225#reply1</guid></item><item><title>[Go 编程语言] golang ast 生成函数时，函数的注释跟函数关联不起来（生成的位置有误），有大佬帮忙解答一下吗？</title><link>https://www.v2ex.com/t/967224#reply2</link><description>&lt;p&gt;stackoverflow 地址： &lt;a href="https://stackoverflow.com/questions/76947041/code-generation-in-golang-using-the-go-ast-package-to-add-doc-comments-but-comm" rel="nofollow"&gt;https://stackoverflow.com/questions/76947041/code-generation-in-golang-using-the-go-ast-package-to-add-doc-comments-but-comm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当我在 errrmsg 目录中执行 GO GENERATE 时，函数的注释不在正确的位置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// Code generated by gen_code. DO NOT EDIT.
+// 提示内容："成功"
+// 状态码：10000
+// 提示内容："失败"
+// 状态码：10001
+
+package errmsg
+
+const (
+    TypeCodeSuccess = 10000
+    TypeCodeFailed  = 10001
+)
+
+func GetSuccess() Resp {
+    return Resp{Code: TypeCodeSuccess, Msg: TypeMsgSuccess}
 }
-console.log("3 a:", a);
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;经过验证，输出结果为：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 a: 0
-2 a: 5
-3 a: 1
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;例子 2&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;var a = 0;
-console.log("1 a:", a);
-if(true){
-    a = 1;
-    a = 5;
-    console.log("2 a:", a);
-    function a() {}
+
+func GetFailed() Resp {
+    return Resp{Code: TypeCodeFailed, Msg: TypeMsgFailed}
 }
-console.log("3 a:", a);
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;经过验证，输出结果为：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 a: 0
-2 a: 5
-3 a: 5
+&lt;p&gt;这是我的代码地址： &lt;a href="https://github.com/KingPuiWong/generrcode/blob/master/gencode/main.go" rel="nofollow"&gt;https://github.com/KingPuiWong/generrcode/blob/master/gencode/main.go&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当我试着这样做，但还是不起作用时，你知道怎么解决它吗？谢谢。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    commentMap := ast.NewCommentMap(fset, file, file.Comments)
+    ast.Inspect(file, func(node ast.Node) bool {
+        switch x := node.(type) {
+        case *ast.FuncDecl:
+            if strings.HasPrefix(x.Name.Name, "Get") {
+                commentText := x.Doc.List[0].Text
+                fmt.Println()
+                fmt.Printf("comment:%s", commentText)
+                commentMap[x] = []*ast.CommentGroup{{List: []*ast.Comment{{Text: commentText, Slash: token.Pos(int(x.Pos() - 1))}}}}
+            }
+        }
+        return true
+    })
+
+    ast.Print(fset, file)
+    //os.Exit(1)
+    // 保存已分配的错误码
+    err = saveLastErrorCode(projectName, lastCode)
+    if err != nil {
+        return err
+        }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;例子 3&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;var a = 0;
-console.log("1 a:", a);
-if(true){
-    function a() {}
-    a = 1;
-    a = 5;
-    console.log("2 a:", a);
+&lt;p&gt;这是我想要生成的。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// Code generated by gen_code. DO NOT EDIT.
+package errmsg
+
+const (
+    TypeCodeSuccess = 10000
+    TypeCodeFailed  = 10001
+)
+
+// 提示内容："成功"
+// 状态码：10000
+func GetSuccess() Resp {
+    return Resp{Code: TypeCodeSuccess, Msg: TypeMsgSuccess}
 }
-console.log("3 a:", a);
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;经过验证，输出结果为：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 a: 0
-2 a: 5
-3 a: f a() {}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;这几个例子在函数提升方面有何不同？&lt;/li&gt;
-&lt;li&gt;为什么每个例子的输出都不相同？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Mon, 21 Aug 2023 12:27:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967183#reply0</guid></item><item><title>[生活] [记录]-2023-08-21 从入职到离职的 15 个工作日</title><link>https://www.v2ex.com/t/967182#reply0</link><description>&lt;p&gt;今天刚提的离职 从这个项目中终于脱离了出来 离职的主要原因有二	&lt;/p&gt;
-&lt;p&gt;1-项目分包协议 非公司正式员工 没有五险一金    &lt;/p&gt;
-&lt;p&gt;2-心脏感到不适 锁骨中心那一块时常很憋的慌 在客户那边办公的地方很挤加上没有窗户    &lt;/p&gt;
-&lt;p&gt;题外话: 今天有时间翻箱子时发现了这个 Wii 的手册	&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20230821202245.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/21/NtqMdFJUlOpsT5S.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20230821202258.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/21/alFPOJyuKmG9tEv.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20230821202252.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/21/yB6wbLfVRXxt9PE.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 12:25:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967182#reply0</guid></item><item><title>[程序员] 请教:DevOps/运维/测试开发岗位</title><link>https://www.v2ex.com/t/967180#reply2</link><description>&lt;p&gt;本人测试开发，感觉找工作要不被当测试要不面一堆开发问题，定位比较尴尬，下面几个问题想请教：
-1 、题目这三个岗位的相同技能树主要是什么？
-2 、DevOps 和运维的主要区别是什么？
-3 、测试开发感觉 开发、运维、测试都沾边，都不精，有哪个岗位更容易转吗？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 12:13:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967180#reply2</guid></item><item><title>[iCloud] 美区 icloud 开车还差一位</title><link>https://www.v2ex.com/t/967179#reply1</link><description>&lt;p&gt;有感兴趣的吗，季付 36&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 12:13:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967179#reply1</guid></item><item><title>[问与答] bitwarden 的安全笔记和登录里的备注有什么安全性能方面的差别吗？</title><link>https://www.v2ex.com/t/967178#reply0</link><description></description><pubDate>Mon, 21 Aug 2023 12:11:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967178#reply0</guid></item><item><title>[宽带症候群] 能否把 IPV6 的 IPTV 通过 IPV4 转发出来</title><link>https://www.v2ex.com/t/967177#reply3</link><description>&lt;p&gt;现在的 v6 源太给力了，能看的都是秒开，平时都是 wireguard 连回家中的内网，但是是通过 V4 DDNS ，没法看 v6 的源&lt;/p&gt;
-&lt;p&gt;家里的 openwrt 软路由是否有 IPTV 转发的功能，让 v4 从外网也能看？&lt;/p&gt;
-&lt;p&gt;原理上应该没问题，但是一直搜不到有类似的解决方案&lt;/p&gt;
-&lt;p&gt;当然现在手机通过 5G 能直接看，但是用 wifi 的场景还是很多&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 12:01:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967177#reply3</guid></item><item><title>[酷工作] 我也来揭露下日本的职场</title><link>https://www.v2ex.com/t/967175#reply1</link><description>&lt;p&gt;来日本两年了，除了派遣换了两家华人公司了，现在终于找到一家欧美的的小公司，也算是上岸了。
-最大的感受就是华人老板真的精明，各种理由让你拿着最低的工资，跟国内老板比真的格局太小。派遣华人公司就是等于卖人头，赚的就是你的人头差价。华人自研公司就更是奇葩了，之前都说日本公司不轻易开人，真是过于太天真了，就说说朋友经历 cxxxt 公司，在日本做换皮网游的。说开人直接当天就离职，有些刚从国内来的华人才入职几个月就被开除，我听着都难受，在日本没有工作来维持签证过两三个就只能被驱除出境，如果带了老婆孩子的话，那种压力可想而知，就只能去派遣过度下了。
-所以来日本一定要学好英语和日语，尽可能的远离华人圈&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967175#reply1</guid></item><item><title>[问与答] 如何购买港版手机</title><link>https://www.v2ex.com/t/967174#reply3</link><description>&lt;p&gt;最近想入一个港版三星，如何购买呢？&lt;/p&gt;
-&lt;p&gt;转运？代购？有没有转运公司或者代购渠道推荐？&lt;/p&gt;
-&lt;p&gt;人在内陆城市，去趟香港成本还挺高的。&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:52:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967174#reply3</guid></item><item><title>[酷工作] [Ruby]招一名 Senior Ruby on Rails Developer，负责开发与维护 Mastodon 节点（非猎头非 hr）</title><link>https://www.v2ex.com/t/967172#reply0</link><description>公司运营了多个 Mastodon 节点，有的版本较低，需要更新维护，并开发一些定制功能。也支持做为独立项目进行合作。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 2 年以上 Ruby on Rails 开发经验，熟悉 Ruby on Rails 常用的框架与技术。&lt;br /&gt;- 熟悉 MVC 、ORM 等架构与概念&lt;br /&gt;- 熟悉 PostgreSQL 、Redis 、ElasticSearch 、Sidekiq 等框架，有实际使用和调优经验；&lt;br /&gt;- 熟悉 AWS 或其他云服务&lt;br /&gt;&lt;br /&gt;加分项：&lt;br /&gt;- 熟悉 Mastodon 、ActivityPub 协议&lt;br /&gt;- 日本流利为佳&lt;br /&gt;- 英文流利为佳&lt;br /&gt;- 联系邮箱： brad.gao@mask.io</description><pubDate>Mon, 21 Aug 2023 11:40:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967172#reply0</guid></item><item><title>[程序员] 独立开发周记 #27：第一次投广告</title><link>https://www.v2ex.com/t/967171#reply0</link><description>&lt;p&gt;这篇文章 V2EX 提示无法发布，第一次遇到这种情况，不知道触发了什么，之前的文章都没问题。
-感兴趣的朋友通过链接阅读原文吧： &lt;a href="https://mp.weixin.qq.com/s/gXGl5W00MUzm98xVD_8ubQ" rel="nofollow"&gt;https://mp.weixin.qq.com/s/gXGl5W00MUzm98xVD_8ubQ&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:33:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967171#reply0</guid></item><item><title>[问与答] 有没有那种专门收集更新网络流行词的频道或者地方？</title><link>https://www.v2ex.com/t/967170#reply5</link><description>&lt;p&gt;比如最近的“尊嘟假嘟”，“蓝瘦，香菇”，“家人们谁懂啊”，这种网络流行词汇的专门收集发布的地方？&lt;/p&gt;
-&lt;p&gt;很多时候都不知道有这种新的网络流行语，完全不知道是为啥，，有 tg 频道啥的专门推送这种新的词汇的地儿吗？&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:32:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967170#reply5</guid></item><item><title>[问与答] 办公室内网电脑怎么在外面访问</title><link>https://www.v2ex.com/t/967168#reply0</link><description>办公室电脑，ip 地址 10 开头的内网，但能够正常访问因特网。现在需要在外面访问一个网页系统，目前是手机打开 todesk 访问，手机屏幕太小了不够方便，能不能有什么方案和软件，可以像科学软件一样，有服务端和客户端，把流量转发给手机，直接用手机浏览器打开内网的系统。</description><pubDate>Mon, 21 Aug 2023 11:12:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967168#reply0</guid></item><item><title>[程序员] 30 岁的银行社招，选择迷茫，陷入死胡同请求各位过来人的建议。</title><link>https://www.v2ex.com/t/967167#reply28</link><description>&lt;p&gt;我在成都，女朋友在贵阳，最近因为异地的问题闹得不可开交，我也找到了贵阳的 offer ，但是现在梳理现状又开始犹豫了。&lt;/p&gt;
-&lt;h3&gt;我的情况&lt;/h3&gt;
-&lt;p&gt;在成都，国有大行软开的开发岗，税前 50 左右，正式行员，但是后期有公司化的风险，在成都有套房，是我家出的首付，目前每个月 9k 左右的房贷，公积金有 7k 基本没什么压力，但是因为不满 5 现在出手很亏，预计最早 27 年可以出手。
-在贵阳，城商行的信息科技部，税前 30 左右，公积金 5k 多点，也是正式行员，工作内容应该都差不多，福利什么的也都大差不差，但是要先租房，再跟女朋友一起买房，买房的话我家就帮不上什么忙了，主要是女朋友家买和装修。&lt;/p&gt;
-&lt;h2&gt;女朋友的情况&lt;/h2&gt;
-&lt;p&gt;女朋友的工作十分的稳定，相当于体制内，税后有 17 左右，所以现在坚持让我接贵阳的 offer 回贵阳，理由是她家在这边，以后有什么事家里也能帮忙照顾，买房的话可以拿她家的房产置换，还款压力也不大，而且她的专业和工作经历，导致非常难跳槽，而且又是到了 30 左右未婚未育，时间很尴尬，一般的企业看到这种都是默认来了就是结婚生子的，进一步加大了找工作的难度。&lt;/p&gt;
-&lt;h2&gt;我的想法&lt;/h2&gt;
-&lt;p&gt;对我来说，去贵阳有利有弊&lt;/p&gt;
-&lt;p&gt;有利的点一是女朋友的工作稳定，城商行总行虽然比不上国有大行，但是也不至于很快垮掉，这个待遇在贵阳来说也算是中等偏上，熬过有大项支出的这几年，也能在贵阳过得相对还行；二是现在的软开有公司化的风险，万一强行让女朋友过来，相当于把所有的宝都压在这份工作上，将来有什么变数的话，可能压力会更大。&lt;/p&gt;
-&lt;p&gt;不利的点主要是，一是回贵阳买房、买车、装修、结婚这些大项的支出还是很多的，工资的降低、成都的房贷会很影响生活质量，二是在贵阳的买房、装修这些主要靠女朋友家里的话，有点上门女婿的感觉，三是总包的降低、成都房产的置换会亏损不少，以 2027 为卖房时间节点的话，算上工资、交易税、装修费、贷款利息之类的，损失大概在 200 万的样子，这几年经济形势不好，未来几年可能更差，作掉的这些钱，也是很可惜的，不说存款，拿来生活或者投资，都能极大的改善我们的生活质量。&lt;/p&gt;
-&lt;p&gt;各位 V 友，如果是你们的话，你们会怎么选择呢，我跟我女朋友从研一开始，到现在也 7 年了，大家也都很珍惜这份感情，所以十分的纠结
-求各位大佬指点~~&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:11:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967167#reply28</guid></item><item><title>[分享发现] toolai.io 的本地知识库问答，数据已经入库，准备往线上推送了。</title><link>https://www.v2ex.com/t/967166#reply2</link><description>&lt;a href="http://toolai.io" rel="nofollow noopener" target="_blank"&gt;toolai.io&lt;/a&gt; 的本地知识库问答，数据已经入库，准备往线上推送了。&lt;br /&gt;&lt;br /&gt;将数据已经入库到 LLM 模型，近期准备放上去。&lt;br /&gt;&lt;br /&gt;&lt;a href="http://toolai.io" rel="nofollow noopener" target="_blank"&gt;toolai.io&lt;/a&gt;</description><pubDate>Mon, 21 Aug 2023 11:11:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967166#reply2</guid></item><item><title>[问与答] 活动图 用 PPT 画，求个模板</title><link>https://www.v2ex.com/t/967165#reply0</link><description>&lt;p&gt;&lt;img alt="1692615613689.png" class="embedded_image" rel="noreferrer" src="https://x.imgs.ovh/x/2023/08/21/64e343c36e405.png" /&gt;&lt;/p&gt;
-&lt;p&gt;要用 PPT 画一个这个类似的图，求模板&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 11:01:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967165#reply0</guid></item><item><title>[iOS] apple-app-site-association 访问突然故障</title><link>https://www.v2ex.com/t/967164#reply1</link><description>&lt;p&gt;RT ，我们一直在生产测试环境中使用同一个配置。&lt;/p&gt;
-&lt;p&gt;通过
-&lt;a href="https://app-site-association.cdn-apple.com/a/v1/ourdomain.com" rel="nofollow"&gt;https://app-site-association.cdn-apple.com/a/v1/ourdomain.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;也是可以正常工作的，从 17 号开始，陆续出现上面的地址提示 Not Found ，然后在响应头里出现：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt; apple-failure-details: {"cause":"context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
-&amp;lt; apple-failure-reason: SWCERR00301 Timeout
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;而 &lt;a href="https://ourdomain.com/app-site-association" rel="nofollow"&gt;https://ourdomain.com/app-site-association&lt;/a&gt; 是一直可以正常响应的。&lt;/p&gt;
-&lt;p&gt;诡异的是，两位同事打开梯子，上面的 URL （ &lt;a href="https://app-site-association.cdn-apple.com/a/v1/ourdomain.com" rel="nofollow"&gt;https://app-site-association.cdn-apple.com/a/v1/ourdomain.com&lt;/a&gt; ）可以拿到正常的内容，而断开梯子则提示 Not Found 。而另外两位同事打开梯子也是提示 Not Found 。&lt;/p&gt;
-&lt;p&gt;有没有遇到过类似问题的大佬们啊，求指点。&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 10:58:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967164#reply1</guid></item><item><title>[问与答] 请教一下，上海马路旁边画的车位能月租吗，找谁租呢，一般怎么收费</title><link>https://www.v2ex.com/t/967163#reply6</link><description>&lt;p&gt;按小时太贵了，一天快一百了&lt;/p&gt;
-&lt;p&gt;&lt;img alt="https://taojin-his.cdn.bcebos.com/7acb0a46f21fbe09e5265c5666600c338744ad7c.jpg" class="embedded_image" rel="noreferrer" src="https://taojin-his.cdn.bcebos.com/7acb0a46f21fbe09e5265c5666600c338744ad7c.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 10:53:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967163#reply6</guid></item></channel></rss>
+
+
+// 提示内容："失败"
+// 状态码：10001
+func GetFailed() Resp {
+    return Resp{Code: TypeCodeFailed, Msg: TypeMsgFailed}
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 21 Aug 2023 16:30:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967224#reply2</guid></item><item><title>[智能家电] 纯新人，我这思路有问题吗</title><link>https://www.v2ex.com/t/967223#reply0</link><description>家里有人发癫，进屋一看中央空调面板被干了。&lt;br /&gt;&lt;br /&gt;接正负线的地方已经断裂：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/QmiZzWGI.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/QmiZzWGI.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;屏幕碎的稀烂：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/21/z6RsU04y.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/21/z6RsU04y.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/VgCZFknQ.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/VgCZFknQ.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这时候空调还是正常运作的（冷气啥的都在），我妈可能怕触电去先把中央空调的闸拉了，把被损毁的面板位置的正负线单独用电工胶布包好然后再把闸推上，这回空调出风但是不正常工作了，别的空调面板都开始故障。&lt;br /&gt;&lt;br /&gt;如下：&lt;br /&gt;&lt;br /&gt;空调机 0  故障代码 0401&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/BNuaJgos.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/BNuaJgos.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;查了下可能是因为有一个内机失联导致。&lt;br /&gt;&lt;br /&gt;因为在拉闸前空调都能正常运作但是断电在恢复以后不行了，所以我在想是不是因为重新接电以后他发癫的那个房间的内机没有面板导致中央空调认为他那个房间的内机断连然后进入了啥安全模式于是就所有屋子空调都不能正常工作（出风小，不制冷）。&lt;br /&gt;&lt;br /&gt;因为晚了肯定找不到电工，于是我想能不能不拉闸断电的情况下把我房间的面板拆下来然后放到他发癫的房间那里给接上来给那个内机发送指令然后让内机通讯上。&lt;br /&gt;&lt;br /&gt;结果就是接上了后面板跟没通电一样没反应，但是用电笔测他发癫的房间那两个正负线又有电的，这是咋回事？&lt;br /&gt;&lt;br /&gt;难道一定要把闸重拉一下才能接通么？&lt;br /&gt;&lt;br /&gt;接上不亮不显示：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://img1.imgtp.com/2023/08/21/Tiyn0zF6.jpg" rel="nofollow noopener" target="_blank"&gt;https://img1.imgtp.com/2023/08/21/Tiyn0zF6.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;会想到这样奇葩的解决思路的原因：&lt;br /&gt;&lt;br /&gt;在我妈没有拉闸的时候家里所有空调面板都没有报错，但这个时候实际他发癫房间的面板已经干下来了，在干下来之前是正常工作 26 度制冷的，干下来后屋内温度没有感觉到变化出风也没变化，判断应该在正常工作。因此想着是不是只要让内机接收到一次面板的指令就能通讯成功。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;但是打字打到这里也想到一个问题，如果真是这样让他发癫房间的通讯上了，我这个房间内机会因为没有面板而报故障，本质上只是换了个机器报故障而已😭</description><pubDate>Mon, 21 Aug 2023 16:21:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967223#reply0</guid></item><item><title>[IPv6] 求助—使用域名不可访问，但 ipv6 的 IP 地址可以访问</title><link>https://www.v2ex.com/t/967222#reply5</link><description>&lt;p&gt;求教，小伙伴，我在家主机搭建的服务，之前一直用 cf 的 ddns 服务更新的自己域名的 AAAA 地址，前阵子突然开始使用浏览器用域名访问不能打开网页了（ http 协议的），但是使用 ip 地址是可以直接用浏览器打开的，因为没改什么配置，突然不能用了，排查了很久也没思路，求教下各位大佬，是不是被运营商封了，如何排查确认呢？&lt;/p&gt;
+&lt;p&gt;ping 可以 ping 通，防火墙也都打开了&lt;/p&gt;
+&lt;p&gt;在国外 vps 上使用 curl 打开，是可以收到正常返回的，但是在国内就不行，connection reset by peer 。&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 16:02:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967222#reply5</guid></item><item><title>[iPad] iPad Pro 12.9 magic keyboard（方向键、回车键、空格键）经常性失灵</title><link>https://www.v2ex.com/t/967221#reply3</link><description>magic keyboard 难用真的不是一天两天了，不知道是系统问题，还是软件偷懒不适配，今天特地吐槽一下。&lt;br /&gt;&lt;br /&gt;1. 比如 nplayer 这种软件，方向键无法用来控制进度。这种理论上很简单的功能，为什么这老牌软件不愿意加这个功能？是系统调用很困难？&lt;br /&gt;&lt;br /&gt;2. 最近几个月开始用 ipad 比较多，发现就算是 safari ，也经常出现方向键，空格键和回车键无法使用的情况，全局无法使用。必须 power 键熄屏重启才可以恢复。 这导致上 youtube 看视频的体验非常差。&lt;br /&gt;&lt;br /&gt;3. 另外吐槽一下 iPadOS ，网页右键做不到和电脑端一样的逻辑。无法复制磁力链接；昨天在 github dev 里面看代码想要右击菜单找 definition 同时弹出两个菜单。  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道 v 友们是否有相同困扰？</description><pubDate>Mon, 21 Aug 2023 15:55:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967221#reply3</guid></item><item><title>[程序员] 盈透这个利息是怎么计算的？</title><link>https://www.v2ex.com/t/967220#reply4</link><description>&lt;p&gt;今天大亏，实际上是最近一个月都大亏， 没办法今天换了 2 万美金准备存定期， 不知道下面这个危险不？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.interactivebrokers.com/cn/accounts/fees/pricing-interest-rates.php?lp=T" rel="nofollow"&gt;https://www.interactivebrokers.com/cn/accounts/fees/pricing-interest-rates.php?lp=T&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 21 Aug 2023 15:41:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967220#reply4</guid></item></channel></rss>
