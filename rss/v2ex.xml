@@ -1,30 +1,432 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 22 Aug 2023 20:23:21 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 请问有没有配置了 chatgpt 功能的笔记软件？</title><link>https://www.v2ex.com/t/967509#reply3</link><description></description><pubDate>Tue, 22 Aug 2023 18:53:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967509#reply3</guid></item><item><title>[问与答] 如何远程使用另一部手机的流量上网？</title><link>https://www.v2ex.com/t/967508#reply0</link><description>我有一个某省的移动号，因为欠费被注销了，现在打过去是空号。我咨询过 10086 ，现在有两个办法让这个号码重装，一个是本人去某省的营业厅办理，二是在中国移动 app 中的“拆机重装”中刷脸办理。我当然会选择后者，问题是“拆机重装”这个入口只能在某省才能访问，并且还必须是移动流量才能访问。&lt;br /&gt;那么我的手机是否有办法通过我在某省的朋友的手机流量上网呢？</description><pubDate>Tue, 22 Aug 2023 18:51:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967508#reply0</guid></item><item><title>[ WATCH] 蜂窝板 apple watch 微信，离开手机就会退出登录</title><link>https://www.v2ex.com/t/967507#reply0</link><description>蜂窝板 apple watch se&lt;br /&gt;以前离开手机使用，微信可以正常使用&lt;br /&gt;现在离开手机后经常出现掉登录的情况&lt;br /&gt;比如在手机附件才能正常使用 watch 微信&lt;br /&gt;夜跑者表示这样很烦人&lt;br /&gt;是微信改了还是我自己的问题呢</description><pubDate>Tue, 22 Aug 2023 18:02:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967507#reply0</guid></item><item><title>[分享发现] 「小道消息」苹果🍎尽力为购买搭载 M3 处理器用户争取了 12GB 内存</title><link>https://www.v2ex.com/t/967506#reply3</link><description>&lt;p&gt;据彭博社记者、苹果报料人 Mark Gurman 在昨晚分享的一些关于苹果 M3 芯片的信息，目前参与测试的新款 MacBook Pro 机型配备了 36GB 、48GB 的统一内存，这表明可能会淘汰 8GB 内存，转而使用 12GB 内存，原因是：&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;8G （ 4+4 ）的小颗粒进货越来越难，12G （ 6+6 ）已经是苹果竭尽全力给果粉争取到的最小容量内存，甚至部分 12G 还是从 16G 硬件屏蔽降级而来&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;有无朋友知道消息真实性？看起来也太抽象了（笑）&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 17:37:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967506#reply3</guid></item><item><title>[macOS] obs 的按窗口录制会在以后的版本中移除么？</title><link>https://www.v2ex.com/t/967505#reply0</link><description>&lt;p&gt;本来打算录制一段游戏视频，但是发现 OBS 里面的按照窗口采集功能被移动到了已启用子菜单，难道按照窗口采集会在以后的版本中被移除？&lt;/p&gt;
-&lt;p&gt;（ M2 Ventura 13.5 ）&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 17:16:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967505#reply0</guid></item><item><title>[Vim] 大家都是怎么用 Vim 的?</title><link>https://www.v2ex.com/t/967504#reply6</link><description>&lt;p&gt;经常看到有人说用 Vim 写代码的, 但一直没见过具体是怎么写的.&lt;/p&gt;
-&lt;p&gt;因为需要折腾服务器需要用倒是会用, 但仅限于 SSH 终端中简单编辑文件.&lt;/p&gt;
-&lt;p&gt;很好奇大家用 Vim 写代码是怎么写的(是编辑器插件还是? 代码提示和高亮?), 以及想入门有什么教程可以参考吗?&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 17:15:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967504#reply6</guid></item><item><title>[iPhone] ios 谷歌表格 Sheets 无法打开加密的 excel</title><link>https://www.v2ex.com/t/967503#reply0</link><description>2023 了，都无法解决这个问题....excel 加密就打不开&lt;br /&gt;报错，这是什么情况呢</description><pubDate>Tue, 22 Aug 2023 16:44:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967503#reply0</guid></item><item><title>[优惠信息] 罗技官网 Logitech.com 25%折扣码</title><link>https://www.v2ex.com/t/967502#reply0</link><description>&lt;p&gt;25%折扣：mm7uzqz9u&lt;/p&gt;
-&lt;p&gt;20%折扣：EZ4X-4AEI-EY9L-SSFH 将于 7 天后结束
-超过$25 免运费&lt;/p&gt;
-&lt;p&gt;另有
-$20 OFF ORDERS OVER $120 ；
-$50 OFF ORDERS OVER $250
-USE CODE: LOGIBTS&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 16:39:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967502#reply0</guid></item><item><title>[Vim] 使用 vim 的时候中英文切换的问题</title><link>https://www.v2ex.com/t/967501#reply2</link><description>本人使用的是 idea 的 vim 插件，使用 IdeaVimExtension 这个插件是可以做到在中文输入法下直接按 esc 切换成英文输入法。&lt;br /&gt;但是在把 jk 映射成 esc 的情况下，输入 jk 会弹出输入法，这种方式也就失效了&lt;br /&gt;请问各位是怎么解决这种情况下中英文切换的问题？</description><pubDate>Tue, 22 Aug 2023 16:27:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967501#reply2</guid></item><item><title>[搜索引擎技术研究] 分享一个搜索引擎</title><link>https://www.v2ex.com/t/967500#reply0</link><description>&lt;p&gt;manticoresearch&lt;/p&gt;
-&lt;p&gt;源自 sphinx 支持 Realtime 索引、indexer from mysql 。兼容 es 的 json 搜索，兼容 mysql 协议和基本 sql 语法子查询等。&lt;/p&gt;
-&lt;p&gt;性能目前在用很好。中文友好。资源占用很小。中小项目觉得挺适合的。&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 16:12:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967500#reply0</guid></item><item><title>[分享发现] 大家帮忙测试一下</title><link>https://www.v2ex.com/t/967499#reply1</link><description>&lt;p&gt;申请了一个短网址，挂了一天也没有一个点击，是不是遇到骗子平台了
-&lt;a href="https://za.gl/cfw" rel="nofollow"&gt;https://za.gl/cfw&lt;/a&gt;
-随手测试一下！&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 16:09:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967499#reply1</guid></item><item><title>[问与答] 小白请教一个关于 windows 本外接显示器能力的问题</title><link>https://www.v2ex.com/t/967498#reply7</link><description>&lt;a href="https://imgur.com/a/Dcx1Ikj" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/Dcx1Ikj&lt;/a&gt;&lt;br /&gt;比如如图苹果官网会标注这台笔记本能支持：几个外接显示器，分别什么分辨率，什么刷新率。但是 windows 的本的官网或者测评这个本的显卡的网站，很少说这个本（或者这个本的显卡）能支持怎样的外接显示器。&lt;br /&gt;&lt;br /&gt;两个问题：&lt;br /&gt;1.那如果我以后要买一个 windows 的本了，怎么才能了解这个本的外接显示器的支持呢？&lt;br /&gt;2.是不是只要用同一种显卡，那无论其他配置或者笔记本品牌，支持的外接显示器能力都相同？我应该研究这个笔记本还是这个笔记本的显卡？&lt;br /&gt;&lt;br /&gt;举个例子，Legion Slim 7i Gen 8 Intel (16″) - RTX 4070 ，这个本，我看到它的显卡是 NVIDIA® GeForce RTX™ 4070 Laptop GPU 8GB GDDR6 ，然后呢，怎么知道它的外接显示器支持能力？</description><pubDate>Tue, 22 Aug 2023 15:47:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967498#reply7</guid></item><item><title>[职场话题] 大半夜被腾讯云添堵，各位避坑。</title><link>https://www.v2ex.com/t/967496#reply5</link><description>&lt;p&gt;就挺搞笑的，腾讯云上的一台机器晚上遭遇了 ddos 。
-没多大 11227Mbps ，迁移的时候有几个域名给搞落了，收到被攻击通知第一时间就赶紧改解析切到 CDN WAF 。
-本身没多大量改了几分钟后就直接就拦下来了，但是收到腾讯云封禁 3 小时的通知。
-其实这样没啥能理解，于是在平台发了攻击停止通知的半小时后，通过在线客服申请人工解封。
-描述了一下前因后果，证明自己目前已经用了第三方 CDN WAF ，也已经拦截成功了，经过对方核实奇葩的事情来了，腾讯云工程师告知，必须买腾讯云高防否则只能等满三小时才能解封。
-提前解封是腾讯云高防的附带服务。。。。&lt;/p&gt;
-&lt;p&gt;你细品，你细品，用别人的高防不行，必须买腾讯云的高防才能提前解封，还好不是重要业务，如果是一个企业那是不是就为了这提前 1 小时直接去买一个一年的高防服务？&lt;/p&gt;
-&lt;p&gt;是的你没看错，他们给的链接过去选择最小的也要买年服务，六千多/年。&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 15:30:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967496#reply5</guid></item><item><title>[问与答] 化工原料经销商应该怎么和互联网结合？</title><link>https://www.v2ex.com/t/967495#reply2</link><description>&lt;p&gt;家里是做化工原料的经销商，平时基本上都在化工网站或者企查查根据某些关键字寻找客源（一般都是查电话），找到电话之后一个个打电话过去，询问是否需要厂家的这些化工原料。我听家里人说，之前有在 1688 上挂过链接，不过效果好像不是很好，所以感觉可能需要一些新的方法。之前有想到一个，既然是根据关键字可以拿到所有客户的电话，那完全可以写一个爬虫，拿到这些信息。然后再看看怎么弄一个短信群发的脚本，每天给这些客户发送当天的化工原料的实时价格（不知道成本大概多少，后面可能要研究研究），感觉这样应该可以发掘到更多的潜在用户。请问大家还有什么好的建议嘛？不知道还可以学一些什么，过几年可能会回家去帮忙了。&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 15:28:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967495#reply2</guid></item><item><title>[全球工单系统] 有字节的同学吗？请问一下 iPhone 12 Pro Max 拍摄功能没有“存本地”的按钮是什么原因？</title><link>https://www.v2ex.com/t/967494#reply0</link><description>&lt;p&gt;iPhone 12 Pro Max 的拍摄页面
-&lt;img alt="iPhone 12 Pro Max" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/xJDt9eAR6K/ATCyZgJg@nYquGEse/2023%2F08%2F22%2F9c6feb0db17944d6a506792de964805d.png" /&gt;&lt;/p&gt;
-&lt;p&gt;iPhone 13 Pro Max 的拍摄页面
-&lt;img alt="iPhone 13 Pro Max" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/xJDt9eAR6K/ATCyZgJg@nYquGEse/2023%2F08%2F22%2F0067e60c6c86dc26c7cf70b99e8ea78e.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在网上搜了下没结果，抖音里面问客服也只是复制粘贴的回复&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 15:23:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967494#reply0</guid></item><item><title>[分享发现] 河南卫视 还是有一手的</title><link>https://www.v2ex.com/t/967493#reply0</link><description>河南卫视应景搞了个《七夕奇妙游》&lt;br /&gt;还挺用心&lt;br /&gt;节目形式是 几个短剧 中间衔接经典歌曲翻唱&lt;br /&gt;最喜欢的是一个老大爷唱的《追梦人》 好听&lt;br /&gt;还有最后一个故事 给失忆老伴圆梦&lt;br /&gt;也很感人&lt;br /&gt;而且节目还弘扬了一把主旋律  jun 婚和守边疆的战士&lt;br /&gt;总的来说 诚意之作&lt;br /&gt;&lt;br /&gt;相比而言&lt;br /&gt;某几个台 就一味的搞综艺 炒流量明星&lt;br /&gt;还有一些省台 经常挂个二维码 放微商广告&lt;br /&gt;就高下立判了</description><pubDate>Tue, 22 Aug 2023 15:11:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967493#reply0</guid></item><item><title>[问与答] 中国境内已备案的二级域名下的三级域名指向境外服务器并开启评论是否符合备案规定？</title><link>https://www.v2ex.com/t/967492#reply7</link><description>&lt;p&gt;如题，假设有一个已经取得 icp 备案的域名 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; （无交互式公安备案），只挂了一个简单的导航页面，底部有 icp 备案编号。其三级域名 &lt;a href="http://blog.a.com" rel="nofollow"&gt;blog.a.com&lt;/a&gt; 搭建了一个网站指向境外服务器并开启了评论，这样有没有问题？&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 15:01:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967492#reply7</guid></item><item><title>[问与答] 大伙们是如何面对屎山代码的？</title><link>https://www.v2ex.com/t/967491#reply1</link><description>如题，最近刚找到个外包的工作，空了半年打算边做边找，入职快一个月了，交给我三个巨型屎山项目，其中一个项目的需求几乎是回归所有代码，每天看着这一堆屎山代码就忍不住叹气，旁边小哥都怕了……&lt;br /&gt;&lt;br /&gt;本想着反正不会待太久接着在屎山上堆好了，但涉及到原来的逻辑又不自觉的去动这一块。&lt;br /&gt;&lt;br /&gt;就好奇大家伙怎么面对这种类似情况的？</description><pubDate>Tue, 22 Aug 2023 14:58:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967491#reply1</guid></item><item><title>[问与答] 长期领失业金有啥注意事项?</title><link>https://www.v2ex.com/t/967490#reply0</link><description>&lt;p&gt;打算领 6+个月(按我的缴费年限最长能领 18 个月).&lt;/p&gt;
-&lt;p&gt;是否需要表现出求职意向? 会不会强行给我介绍工作, 拒绝就给我失业金断掉?&lt;/p&gt;
-&lt;p&gt;可以偶尔送几单外卖么?&lt;/p&gt;</description><pubDate>Tue, 22 Aug 2023 14:52:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967490#reply0</guid></item><item><title>[程序员] 独立开发者最适合的办公地点--寺庙了解一下</title><link>https://www.v2ex.com/t/967489#reply8</link><description>逛知乎看到的，感觉有点意思。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://zhuanlan.zhihu.com/p/637279555" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/637279555&lt;/a&gt;</description><pubDate>Tue, 22 Aug 2023 14:37:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967489#reply8</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 23 Aug 2023 15:57:32 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 求助， openwrt 上 curl 认证校园网报错 ServerKeyExchange Failed。</title><link>https://www.v2ex.com/t/967799#reply1</link><description>&lt;p&gt;用 curl 做校园网认证，相同得命令在本地可以正常运行，在 openwrt 上出现以下报错：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;curl: (35) ssl_handshake returned - mbedTLS: (-0x7B00) SSL - Processing of the ServerKeyExchange handshake message failed
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;有大佬知道是怎么回事吗？&lt;/p&gt;
+&lt;p&gt;说明：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;路由器已克隆电脑 MAC 地址，改了最后一个 bit 。&lt;/li&gt;
+&lt;li&gt;curl 命令没有问题，在 windows 上执行可以顺利通过校园网认证。&lt;/li&gt;
+&lt;li&gt;已修改路由器时区为 Shanghai 。&lt;/li&gt;
+&lt;li&gt;通过 AP 模式路由器可以 curl &lt;a href="https://www.baidu.com" rel="nofollow"&gt;https://www.baidu.com&lt;/a&gt; 或 &lt;a href="https://www.163.com" rel="nofollow"&gt;https://www.163.com&lt;/a&gt; ，但 curl 校园网网关还是会报错。&lt;/li&gt;
+&lt;li&gt;使用 openssl 测试，错误信息如下：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;root@OpenWrt:~# openssl s_client -connect https://***.***.edu.cn
+78801CB67F000000:error:10080002:BIO routines:BIO_lookup_ex:system lib:crypto/bio/bio_addr.c:738:Unrecognized service
+connect:errno=22
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 23 Aug 2023 15:54:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967799#reply1</guid></item><item><title>[问与答] 有什么有意思的开源软件可以用上甲骨文云的免费自治数据库？</title><link>https://www.v2ex.com/t/967798#reply0</link><description>&lt;p&gt;看甲骨文这么猛吹，感觉不试用一下都说不过去。但是好像常见的开源项目都用的 MySQL 和 PostgreSQL 。
+有什么有意思的开源项目可以用上这个自治数据库吗？&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:53:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967798#reply0</guid></item><item><title>[北京] 北京有啥给 iPhone 换电池的商家么？抖音上相中的几个都不在北京</title><link>https://www.v2ex.com/t/967797#reply0</link><description>&lt;p&gt;换过的兄弟推荐一下&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:51:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967797#reply0</guid></item><item><title>[问与答] 为什么今天买的东西，上市时间却是明天？</title><link>https://www.v2ex.com/t/967796#reply0</link><description>&lt;p&gt;今天是 2023-08-23 ，上市时间却是 2023-08-24 。🤕&lt;/p&gt;
+&lt;p&gt;是在美团钱大妈买的蓝莓。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://gcdnb.pbrd.co/images/pcP7tFJliM1p.jpg?o=1" /&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:44:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967796#reply0</guid></item><item><title>[程序员] 即将 30 岁，突然开始焦虑，不知道以后该往哪个方向努力，似乎被命运扼住了喉咙</title><link>https://www.v2ex.com/t/967795#reply0</link><description>&lt;p&gt;背景：双非本，在一家互联网公司干了五年左右，工资被严重倒挂（总包不到四十，没校招白菜价高，我倒不觉得有什么，都是 92 研究生，卷出来的精英，他们值得；大学好友现在混到了一线大厂总包六七十，很羡慕，比不过 92 精英，比不过昔日好友，无论是履历还是薪资哈哈）&lt;/p&gt;
+&lt;p&gt;现状：晋升无望，而且随时可能倒在一波波的裁员大潮中。&lt;/p&gt;
+&lt;p&gt;反思：我是个非常安于现状而且佛系的人，在这之前，我从没有内耗过，也没想过跳槽，这些我都不后悔，自己做出的选择自己承担就好，现在焦虑的是快三十了有点找不到以后的目标，这感觉很神奇，三十岁前觉得自己属于 20 ～ 30 岁，还年轻，多钻研技术，一切都会好的，但一到三十，就觉得自己属于 30 ～ 40 岁，人生即将过半，有一种「做什么都有点晚」的感觉，而且越发觉得，你会的技术，你同事也会，你能排查的错误，你同事也能，你有分析源码的能力，你同事也有甚至做的更好，换句话说，拥有「技术壁垒」的人很少，一旦岗位不足大裁员，大家就会疯狂内卷少量的岗位，到时候 hr 就筛嗨了，极端一点的局面就是：双非学历不要，无一线大厂经验不要等，都满足才能进技术面。&lt;/p&gt;
+&lt;p&gt;之后的方向：短期肯定是整理工作这几年做过的东西和调研过的技术，然后卷八股文和算法，做好被裁后找新工作的准备。但大方向呢？打算学下英语考雅思托福之类的，以后有机会可以找国外的远程，或者接单做数字游民，不知道这个算不算一个值得努力的大方向，如果你同样是失意的同龄人，可以说下你未来的规划吗？&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:37:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967795#reply0</guid></item><item><title>[MySQL] 活动表，日期存储及查询怎么设计</title><link>https://www.v2ex.com/t/967794#reply0</link><description>&lt;p&gt;活动的时间有几种形式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;年月日  2023/8/1 - 2023/8/15&lt;/li&gt;
+&lt;li&gt;月日     8/1 - 8/15&lt;/li&gt;
+&lt;li&gt;月份     3,4,8,9&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;要通过日期来查询和排序，如果只是日期查询还好一些，可以用一个日期-&amp;gt;活动的索引表来解决，关键还有其他字段的查询。。。&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:36:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967794#reply0</guid></item><item><title>[程序员] Linux 的 Consistent DMA mappings 的底层实现原理到底是什么?</title><link>https://www.v2ex.com/t/967793#reply0</link><description>&lt;p&gt;&lt;a href="https://blog.csdn.net/rlk8888/article/details/120115477" rel="nofollow"&gt;https://blog.csdn.net/rlk8888/article/details/120115477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在这篇博客里提到：一个简单的想法就是，我们在做 DMA 传输的时候，这段 buffer 我把 cache 给关闭了，这个就是 kernel 实现的一致性的 DMA buffer mapping 的（英文叫做：Consistent DMA mappings ）。这里 consistent 的意思是 synchronize 或者 conherent 的意思，CPU 和 DMA 这两个哥们都能同时看到数据的改变，不需要软件做额外的一些 flush 动作。&lt;/p&gt;
+&lt;p&gt;当然了，对特定的 buffer 关闭了 cache 功能，就会导致 CPU 写时会直接写到 ddr 里而不是写到 cache 里，读时总是从 ddr 里面读而不是 cache 里读。&lt;/p&gt;
+&lt;p&gt;但我想知道使用&lt;code&gt;dma_alloc_coherent&lt;/code&gt;得到的地址，真的底层原理这么简单吗？是不是直接看&lt;code&gt;dma_alloc_coherent&lt;/code&gt;的源码实现就能找到答案，但现在看起来有点费劲。&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:19:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967793#reply0</guid></item><item><title>[Mac mini] 实际体验下来购买丐版 Mac mini 苹果京东教育优惠比官网划算</title><link>https://www.v2ex.com/t/967791#reply1</link><description>最优惠的前置条件：不缺 Airpods 耳机，能适应 Magic Mouse 鼠标&lt;br /&gt;京东优惠：送 Magic Mouse 鼠标（非库存，2023 年生产的新货）+ Parallel Desktop 19 两年的 License&lt;br /&gt;用不惯鼠标的话，性价比打一些折扣&lt;br /&gt;3699-200=3499 ，鼠标价格 499 ，直接出的 350 ～ 400 的话，机器的成本是 3099 ～ 3149 元&lt;br /&gt;Parallel Desktop 19 两年 License 算 500 块的话，相当于 2599 买电脑。&lt;br /&gt;&lt;br /&gt;官网教育折扣是 3699 元，送 Airpods 耳机（二代）应该只能卖 600 ，平均下来也得 3099 元，还没有虚拟机用。</description><pubDate>Wed, 23 Aug 2023 15:14:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967791#reply1</guid></item><item><title>[分享创造] PushMe v1.3.0 发布了</title><link>https://www.v2ex.com/t/967789#reply0</link><description>&lt;p&gt;1 个月前开发发布的这个安卓 app ，但是一直存在一个比较严重的问题，手机熄屏后，服务会频繁的断开再连接。连续搞了 3 天，今天终于解决了，有需要的朋友可以再下载试试。&lt;/p&gt;
+&lt;p&gt;另外提前说下，下个大版本准备增加一个“数据小屏”页。&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 15:08:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967789#reply0</guid></item><item><title>[问与答] 请教各位， iOS 上微信 app 删了之后还有办法恢复聊天记录吗？</title><link>https://www.v2ex.com/t/967788#reply3</link><description>注意是微信这个 app 都被删除了，还能有办法恢复之前的聊天记录吗？&lt;br /&gt;&lt;br /&gt;执行完删除后，就没有其他操作了，不知是否还有希望</description><pubDate>Wed, 23 Aug 2023 15:00:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967788#reply3</guid></item><item><title>[问与答] 舅舅孩子！ pvcreate 了错误的分区，如何恢复。</title><link>https://www.v2ex.com/t/967787#reply0</link><description>一个傻小子的误操作，几个小伙伴抓耳挠腮了好久。但技术不过关，特来 V2 求救！&lt;br /&gt;系统：CentOS7&lt;br /&gt;系统盘(/dev/vda)：100G[不涉及]&lt;br /&gt;数据盘 1(/dev/vdb):分区 vdb1：5T ，单盘 1 个分区，数据接近满了。&lt;br /&gt;打算再加两块数据盘 2(/dev/vdc)和数据盘 3(/dev/vdd)，然后先做成 LVM ，后续空间不足直接加新盘就可以。&lt;br /&gt;结果这小子鬼使神差 umount 数据盘 1&lt;br /&gt;接着执行了以下操作：&lt;br /&gt;pvcreate /dev/vdc1&lt;br /&gt;pvcreate /dev/vdb1&lt;br /&gt;vgcreate lvmdata /dev/vdc1&lt;br /&gt;vgextend lvmdata /dev/vdb1&lt;br /&gt;lvcreate -L 10T -n server lvmdata&lt;br /&gt;&lt;br /&gt;这时才反应过来搞错盘了。&lt;br /&gt;现在用快照创建了新盘，但是不知道怎么恢复。数据量大概 5T 。&lt;br /&gt;&lt;br /&gt;一定有人问为什么没提前备份，但是现在首要的是补救，反思的话留着他祭天后在说吧。</description><pubDate>Wed, 23 Aug 2023 14:55:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967787#reply0</guid></item><item><title>[问与答] 关于 双运营商双宽带双线同路由器双拨 的问题</title><link>https://www.v2ex.com/t/967786#reply3</link><description>&lt;p&gt;使用环境：家里两条宽带，一条联通 300M ，一条电信 300M 。光纤入户运营商分别的光猫桥接。两个网线插到同一个路由器上面。
+软件：路由器设置双拨，模式选择的 1：1 均衡负载。
+路由器主界面双拨成功，但是实际使用起来和之前只有电信 300M 的时候，没区别。。。
+是我哪儿设置有问题么，有大佬指点一下么&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:55:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967786#reply3</guid></item><item><title>[Apple] Pixelmator Pro 七折了</title><link>https://www.v2ex.com/t/967785#reply1</link><description>&lt;p&gt;Mac 平台不错的图像处理软件了，虽然不是史低，但感觉价格还行。&lt;/p&gt;
+&lt;p&gt;之前一直白嫖免费的 Demo 版，这次入正了。&lt;/p&gt;
+&lt;p&gt;¥328 -&amp;gt; ¥228&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/cn/app/pixelmator-pro/id1289583905" rel="nofollow"&gt;https://apps.apple.com/cn/app/pixelmator-pro/id1289583905&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/pixelmator/status/1693617435511775357" rel="nofollow"&gt;https://twitter.com/pixelmator/status/1693617435511775357&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:52:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967785#reply1</guid></item><item><title>[职场话题] BOSS 试试行情投递几家就搞定一家了</title><link>https://www.v2ex.com/t/967782#reply0</link><description>&lt;p&gt;不过年薪资比现在公司少 3-4w ，所以不打算去了。&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:49:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967782#reply0</guid></item><item><title>[程序员] 从一些文字（会包含一些无效字符）中保留下信息，怎么实现</title><link>https://www.v2ex.com/t/967781#reply0</link><description>&lt;p&gt;从一些文字（会包含一些无效字符）中保留下信息，怎么实现。
+就是要去除无效字符。保留真正有含义的文本。&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:48:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967781#reply0</guid></item><item><title>[酷工作] 两年工作经验的应届毕业生都找不到工作吗？（附简历）</title><link>https://www.v2ex.com/t/967780#reply0</link><description>&lt;p&gt;我从初中沉迷 MC 不务正业，中考五五分流到了当地的某中专，后来中专单招考上某全日制三本。
+校内的实习是学校跟某企业合作拉到的外包项目，实则就是给学校打白工，基本没有工资，我也是当积累项目经验来做的，不正经的算的我已经有两年工作经验了（因为做项目大部分专业课都免修了）。
+发了很多简历，但是基本上都是已读不回，劳驾各位 V 友看看我的简历有什么问题。
+&lt;a href="https://imgse.com/i/pPYd15q" rel="nofollow"&gt;&lt;img alt="pPYd15q.jpg" class="embedded_image" rel="noreferrer" src="https://s1.ax1x.com/2023/08/23/pPYd15q.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:47:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967780#reply0</guid></item><item><title>[Apple] 苹果自家的 keychain 安全性怎么样？</title><link>https://www.v2ex.com/t/967779#reply0</link><description>现在用 dashlane ，感觉速度上差点意思，解锁很慢，iPhone 原生的 keychain 怎么样呢</description><pubDate>Wed, 23 Aug 2023 14:33:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967779#reply0</guid></item><item><title>[分享创造] 实战！为你的网站接入 Passkey 通行密钥以实现无密码安全登录</title><link>https://www.v2ex.com/t/967778#reply0</link><description>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;说来也巧，最近在研究 Passkey ，本来思前想后是不写这篇文章的（因为懒），但是昨天刷知乎的时候发现廖雪峰廖老师也在研究 Passkey ，想了想还是写一篇蹭蹭热度吧。&lt;/p&gt;
+&lt;h2&gt;了解 Passkey&lt;/h2&gt;
+&lt;p&gt;要了解 Passkey ，我们首先需要了解 &lt;code&gt;Web Authentication credential （ Web 认证凭据）&lt;/code&gt;，简而言之，Web 认证凭据是一种使用非对称加密代替密码或 SMS 短信在网站上注册、登录、双因素验证的方式。通过操作系统-用户代理（浏览器）-服务器三方的交互，我们得以以无密码的方式完成对指定服务的身份鉴权。Web 认证凭据目前呗广泛使用在双因素认证（ 2FA ）中。&lt;/p&gt;
+&lt;p&gt;Passkey 则是一种特殊的 Web 认证凭据：与传统的 Web 认证凭据不同，Passkey 可用于同时识别和验证用户，而前者只能用于验证用户信息，不能用来识别用户，这得益于 Passkey 的&lt;code&gt;可发现性（ Discoverable ）&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;通过 Passkey ，我们可以通过使用操作系统的生物验证方式（例如 Windows Hello ，FaceID ）完成对指定站点的登录，而不必繁琐的输入账号和密码，解放用户的双手。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://my.minecraft.kim/wp-content/uploads/2023/08/Screenshot-2023-08-23-222235.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;认识 Web Authentication API&lt;/h2&gt;
+&lt;p&gt;为了创建和认证 Web 认证凭据，浏览器为我们提供了 &lt;code&gt;Web Authentication API&lt;/code&gt;（简称 &lt;code&gt;Webauthn&lt;/code&gt;），该 API 为我们提供了两个主要方法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/CredentialsContainer/create" rel="nofollow"&gt;navigator.credentials.create() (en-US)&lt;/a&gt; - 当使用 publicKey 选项时，创建一个新的凭据，无论是用于注册新账号还是将新的非对称密钥凭据与已有的账号关联。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/CredentialsContainer/get" rel="nofollow"&gt;navigator.credentials.get() (en-US)&lt;/a&gt; - 当使用 publicKey 选项时，使用一组现有的凭据进行身份验证服务，无论是用于用户登录还是双因素验证中的一步。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过这两个方法，我们可以将 Web 认证凭据的创建和认证过程大致拆分为以下几部分：&lt;/p&gt;
+&lt;h3&gt;凭据创建&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;浏览器向服务器发起请求，获取凭据创建所需的 options 信息（例如站点 ID ，用户信息，防重放 challenge 等）；&lt;/li&gt;
+&lt;li&gt;浏览器调用 &lt;code&gt;navigator.credentials.create()&lt;/code&gt; 方法，传入上一步获取的 options ，浏览器调用操作系统接口弹出对话框要求用户进行身份验证以创建密钥；&lt;/li&gt;
+&lt;li&gt;如果用户身份验证成功，那么浏览器则应该向服务器发起请求，返回上一步调用方法的返回值；服务器将对该值进行验证，如果验证通过，则将相关信息存储到数据库中，此时凭据创建成功；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;凭据认证&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;浏览器向服务器发起请求，获取凭据认证所需的 options 信息（例如站点 ID ，防重放 challenge 等）；&lt;/li&gt;
+&lt;li&gt;浏览器调用 &lt;code&gt;navigator.credentials.get()&lt;/code&gt; 方法，传入上一步获取的 options ，浏览器调用操作系统接口弹出对话框要求用户选择进行身份验证的密钥并进行身份验证；&lt;/li&gt;
+&lt;li&gt;如果用户身份验证成功，那么浏览器则应该向服务器发起请求，返回上一步调用方法的返回值；服务器将对该值进行验证，如果验证通过，则凭据认证成功，服务器可在更新密钥信息后将用户登录到站点（或者通过 2FA 验证）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;部署 Passkey 验证环境&lt;/h2&gt;
+&lt;p&gt;本例中使用 Java 17 + Spring Boot 3 进行后端服务器的开发，并使用 Spring Data JPA 作为 ORM 框架（使用 PostgreSQL 作为数据库），Spring Data Redis 提供 Redis 能力支持。&lt;/p&gt;
+&lt;p&gt;除此之外，我们额外引入了三个库来简化开发：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;java-webauthn-server&lt;/code&gt;，这是一个基于 Scala 和 Java 开发的 Webauthn 库，提供了较为完整的 Webauthn API 对接流程；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 Gradle 引入 &lt;code&gt;java-webauthn-server&lt;/code&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-groovy"&gt;implementation("com.yubico:webauthn-server-core:2.5.0")
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在 Maven 引入 &lt;code&gt;java-webauthn-server&lt;/code&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-xml"&gt;&amp;lt;dependency&amp;gt;
+&amp;lt;groupId&amp;gt;com.yubico&amp;lt;/groupId&amp;gt;
+&amp;lt;artifactId&amp;gt;webauthn-server-core&amp;lt;/artifactId&amp;gt;
+&amp;lt;version&amp;gt;2.5.0&amp;lt;/version&amp;gt;
+&amp;lt;scope&amp;gt;compile&amp;lt;/scope&amp;gt;
+&amp;lt;/dependency&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;@github/webauthn-json&lt;/code&gt;，由 GitHub 开发的 Webauthn 前端辅助库，通过包装了 Webauthn API 方法以实现在服务器和浏览器之间便捷的编码并传输 options 对象数据。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通过 npm 安装 &lt;code&gt;@github/webauthn-json&lt;/code&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;npm install --save @github/webauthn-json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过 yarn 安装 &lt;code&gt;@github/webauthn-json&lt;/code&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;yarn add --save @github/webauthn-json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过 pnpm 安装 &lt;code&gt;@github/webauthn-json&lt;/code&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;pnpm install --save @github/webauthn-json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;hypersistence-utils&lt;/code&gt;，可为 Hibernate 提供更多的类型支持，此处我们使用其提供的 JSON 类型来快速的序列化 &lt;code&gt;java-webauthn-server&lt;/code&gt; 提供的 POJO 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在 Gradle 引入 &lt;code&gt;hypersistence-utils&lt;/code&gt;（对于 Hibernate 6.2 及以上版本）：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-groovy"&gt;implementation("io.hypersistence:hypersistence-utils-hibernate-62:3.5.0")
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在 Maven 引入 &lt;code&gt;hypersistence-utils&lt;/code&gt;（对于 Hibernate 6.2 及以上版本）：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-xml"&gt;&amp;lt;dependency&amp;gt;
+   &amp;lt;groupId&amp;gt;io.hypersistence&amp;lt;/groupId&amp;gt;
+   &amp;lt;artifactId&amp;gt;hypersistence-utils-hibernate-62&amp;lt;/artifactId&amp;gt;
+   &amp;lt;version&amp;gt;3.5.0&amp;lt;/version&amp;gt;
+&amp;lt;/dependency&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;实现 Passkey 创建和验证&lt;/h2&gt;
+&lt;h3&gt;对接 &lt;code&gt;CredentialRepository&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;java-webauthn-server&lt;/code&gt; 需要访问我们存储的密钥信息才能为我们完成请求的校验工作，因此，这要求我们实现 &lt;code&gt;CredentialRepository&lt;/code&gt; 接口：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;// Copyright (c) 2018, Yubico AB
+// All rights reserved.
+//
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//
+// 1. Redistributions of source code must retain the above copyright notice, this
+//    list of conditions and the following disclaimer.
+//
+// 2. Redistributions in binary form must reproduce the above copyright notice,
+//    this list of conditions and the following disclaimer in the documentation
+//    and/or other materials provided with the distribution.
+//
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+// AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+// IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+// DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+// FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+// DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+// SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+// CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+// OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+// OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+package com.yubico.webauthn;
+
+import com.yubico.webauthn.data.ByteArray;
+import com.yubico.webauthn.data.PublicKeyCredentialDescriptor;
+import java.util.Optional;
+import java.util.Set;
+
+/**
+ * An abstraction of the database lookups needed by this library.
+ *
+ * &amp;lt;p&amp;gt;This is used by {@link RelyingParty} to look up credentials, usernames and user handles from
+ * usernames, user handles and credential IDs.
+ */
+public interface CredentialRepository {
+
+  /**
+   * Get the credential IDs of all credentials registered to the user with the given username.
+   *
+   * &amp;lt;p&amp;gt;After a successful registration ceremony, the {@link RegistrationResult#getKeyId()} method
+   * returns a value suitable for inclusion in this set.
+   */
+  Set&amp;lt;PublicKeyCredentialDescriptor&amp;gt; getCredentialIdsForUsername(String username);
+
+  /**
+   * Get the user handle corresponding to the given username - the inverse of {@link
+   * #getUsernameForUserHandle(ByteArray)}.
+   *
+   * &amp;lt;p&amp;gt;Used to look up the user handle based on the username, for authentication ceremonies where
+   * the username is already given.
+   */
+  Optional&amp;lt;ByteArray&amp;gt; getUserHandleForUsername(String username);
+
+  /**
+   * Get the username corresponding to the given user handle - the inverse of {@link
+   * #getUserHandleForUsername(String)}.
+   *
+   * &amp;lt;p&amp;gt;Used to look up the username based on the user handle, for username-less authentication
+   * ceremonies.
+   */
+  Optional&amp;lt;String&amp;gt; getUsernameForUserHandle(ByteArray userHandle);
+
+  /**
+   * Look up the public key and stored signature count for the given credential registered to the
+   * given user.
+   *
+   * &amp;lt;p&amp;gt;The returned {@link RegisteredCredential} is not expected to be long-lived. It may be read
+   * directly from a database or assembled from other components.
+   */
+  Optional&amp;lt;RegisteredCredential&amp;gt; lookup(ByteArray credentialId, ByteArray userHandle);
+
+  /**
+   * Look up all credentials with the given credential ID, regardless of what user they're
+   * registered to.
+   *
+   * &amp;lt;p&amp;gt;This is used to refuse registration of duplicate credential IDs. Therefore, under normal
+   * circumstances this method should only return zero or one credential (this is an expected
+   * consequence, not an interface requirement).
+   */
+  Set&amp;lt;RegisteredCredential&amp;gt; lookupAll(ByteArray credentialId);
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以看到，&lt;code&gt;CredentialRepository&lt;/code&gt; 要求我们实现对注册凭据和用户信息的查询，为此，我们创建 &lt;code&gt;WebauthnCredentialEntity&lt;/code&gt;，作为数据库实体类，完成数据表结构构造：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+public class WebauthnCredentialEntity {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(nullable = false)
+    @Getter
+    @Setter
+    private long id;
+
+    @Column(nullable = false)
+    @Getter
+    @Setter
+    private long userID;
+
+    @Column(nullable = false, columnDefinition = "jsonb")
+    @Type(JsonType.class)
+    private CredentialRegistration credentialRegistration;
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;此处我们设置 &lt;code&gt;credentialRegistration&lt;/code&gt; 字段的列类型为 &lt;code&gt;jsonb&lt;/code&gt;，代表 PostgreSQL 的二进制 JSON 类型，对于 MySQL ，则可以使用 &lt;code&gt;json&lt;/code&gt; 作为列类型。&lt;/p&gt;
+&lt;p&gt;该数据库实体类存储了用户 ID 和 &lt;code&gt;CredentialRegistration&lt;/code&gt; 注册凭据的对应关系，方便我们存储用户凭据信息。&lt;/p&gt;
+&lt;p&gt;而 &lt;code&gt;CredentialRegistration&lt;/code&gt; 数据类的构造如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Builder
+@Data
+@JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.NON_PRIVATE)
+public class CredentialRegistration implements Serializable {
+
+    @NotNull
+    UserIdentity userIdentity;
+
+    @Nullable
+    String credentialNickname;
+
+    @NotNull
+    SortedSet&amp;lt;@NotNull AuthenticatorTransport&amp;gt; transports;
+    @NotNull
+    RegisteredCredential credential;
+    @Nullable
+    Object attestationMetadata;
+    @NotNull
+    private Instant registration;
+
+    @JsonGetter("registration")
+    public String getRegistration() {
+        return registration.toString();
+    }
+
+    @JsonSetter("registration")
+    public void setRegistration(String registration) {
+        this.registration = Instant.parse(registration);
+    }
+
+    @JsonIgnore
+    public String getUsername() {
+        return userIdentity.getName();
+    }
+
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;其存储了以下关键信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;com.yubico.webauthn.data.UserIdentity userIdentity&lt;/code&gt;，存储用户标识，由 &lt;code&gt;String name&lt;/code&gt;, &lt;code&gt;String displayName&lt;/code&gt;, &lt;code&gt;ByteArray id&lt;/code&gt; 三部分组成，只有 &lt;code&gt;id&lt;/code&gt; 字段作为唯一标识符标识唯一用户，&lt;code&gt;name&lt;/code&gt; 和 &lt;code&gt;displayName&lt;/code&gt; 则只是为用户提供人类可读的文本信息用以标识该账户的名称；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;String credentialNickname&lt;/code&gt;，该凭据的昵称，方便用户识别，也可不填（&lt;code&gt;Nullable&lt;/code&gt;）；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SortedSet&amp;lt;com.yubico.webauthn.data.AuthenticatorTransport&amp;gt; transports&lt;/code&gt;，该凭据支持的传输方式，例如 &lt;code&gt;USB&lt;/code&gt;, &lt;code&gt;BLE&lt;/code&gt;, &lt;code&gt;NFC&lt;/code&gt; 等；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;com.yubico.webauthn.RegisteredCredential credential&lt;/code&gt;，凭证详细数据，包括凭证 ID ，凭证对应的用户 ID ，凭证公钥，签名计数，备份信息等。该信息由浏览器生成并发回到服务端；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Object attestationMetadata&lt;/code&gt;，自定义元数据， 可空（&lt;code&gt;Nullable&lt;/code&gt;）；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Instant registration&lt;/code&gt;，凭据的注册时间。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;根据实体类，我们创建对应的 Spring Data JPA Repository：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Repository
+public interface WebauthnCredentialRepository extends JpaRepository&amp;lt;WebauthnCredentialEntity, Long&amp;gt; {
+
+    // 根据用户 ID 获取该用户的所有凭据信息
+    List&amp;lt;WebauthnCredentialEntity&amp;gt; findAllByUserID(long userID);
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后，创建 &lt;code&gt;CredentialRepositoryImpl&lt;/code&gt; 类，实现 &lt;code&gt;CredentialRepository&lt;/code&gt; 接口：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@RequiredArgsConstructor
+@Component
+public class CredentialRepositoryImpl implements CredentialRepository {
+
+
+    private final WebauthnCredentialRepository webauthnCredentialRepository;
+
+    // 根据用户名获取凭证信息
+    @Override
+    public Set&amp;lt;PublicKeyCredentialDescriptor&amp;gt; getCredentialIdsForUsername(String username) {
+        return webauthnCredentialRepository.findAllByUserID(getUserIDByEmail(username)).stream()
+                .map(WebauthnCredentialEntity::getCredentialRegistration)
+                .map(it -&amp;gt; PublicKeyCredentialDescriptor.builder()
+                        .id(it.getCredential().getCredentialId())
+                        .transports(it.getTransports())
+                        .build())
+                .collect(Collectors.toUnmodifiableSet());
+    }
+
+    // 根据 UserHandle 获取用户名
+    @Override
+    public Optional&amp;lt;String&amp;gt; getUsernameForUserHandle(ByteArray userHandle) {
+        return getRegistrationsByUserHandle(userHandle).stream()
+                .findAny()
+                .map(CredentialRegistration::getUsername);
+    }
+
+    // 根据用户名获取 UserHandle
+    @Override
+    public Optional&amp;lt;ByteArray&amp;gt; getUserHandleForUsername(String username) {
+        return getRegistrationsByUsername(username).stream()
+                .findAny()
+                .map(reg -&amp;gt; reg.getUserIdentity().getId());
+    }
+
+    // 根据凭证 ID 和 UserHandle 获取单个凭证信息
+    @Override
+    public Optional&amp;lt;RegisteredCredential&amp;gt; lookup(ByteArray credentialId, ByteArray userHandle) {
+        Optional&amp;lt;CredentialRegistration&amp;gt; registrationMaybe = webauthnCredentialRepository.findAll().stream()
+                .map(WebauthnCredentialEntity::getCredentialRegistration)
+                .filter(it -&amp;gt; it.getCredential().getCredentialId().equals(credentialId))
+                .findAny();
+
+        return registrationMaybe.map(it -&amp;gt;
+                RegisteredCredential.builder()
+                        .credentialId(it.getCredential().getCredentialId())
+                        .userHandle(it.getCredential().getUserHandle())
+                        .publicKeyCose(it.getCredential().getPublicKeyCose())
+                        .signatureCount(it.getCredential().getSignatureCount())
+                        .build());
+    }
+
+    // 根据凭证 ID 获取多个凭证信息
+    @Override
+    public Set&amp;lt;RegisteredCredential&amp;gt; lookupAll(ByteArray credentialId) {
+        return webauthnCredentialRepository.findAll().stream()
+                .map(WebauthnCredentialEntity::getCredentialRegistration)
+                .filter(it -&amp;gt; it.getCredential().getCredentialId().equals(credentialId))
+                .map(it -&amp;gt;
+                        RegisteredCredential.builder()
+                                .credentialId(it.getCredential().getCredentialId())
+                                .userHandle(it.getCredential().getUserHandle())
+                                .publicKeyCose(it.getCredential().getPublicKeyCose())
+                                .signatureCount(it.getCredential().getSignatureCount())
+                                .build())
+                .collect(Collectors.toUnmodifiableSet());
+    }
+
+    private long getUserIDByEmail(String email) {
+        // your own implemention
+    }
+
+    private Collection&amp;lt;CredentialRegistration&amp;gt; getRegistrationsByUsername(String username) {
+        return webauthnCredentialRepository.findAllByUserID(getUserIDByEmail(username)).stream()
+                .map(WebauthnCredentialEntity::getCredentialRegistration)
+                .toList();
+    }
+
+    private Collection&amp;lt;CredentialRegistration&amp;gt; getRegistrationsByUserHandle(ByteArray userHandle) {
+        return webauthnCredentialRepository.findAll().stream()
+                .map(WebauthnCredentialEntity::getCredentialRegistration)
+                .filter(it -&amp;gt; it.getUserIdentity().getId().equals(userHandle))
+                .toList();
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;值得一提的是，&lt;code&gt;userHandle&lt;/code&gt; 是一个 &lt;code&gt;com.yubico.webauthn.data.ByteArray&lt;/code&gt; 类，封装了一个 &lt;code&gt;byte[]&lt;/code&gt; 数组，用于代表用户的唯一 ID ，而 &lt;code&gt;username&lt;/code&gt; 并不是代表用户的用户名，而是代表某个唯一的用户标识符。在本例中，我们使用用户 ID 作为 &lt;code&gt;userHandle&lt;/code&gt;，而使用用户的电子邮件地址作为 &lt;code&gt;username&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;最后，由于直接使用 JSON 对数据进行序列化，因此我们难以直接对某些字段进行 SQL 查询，只能全部拿出来再通过 &lt;code&gt;stream&lt;/code&gt; 筛选，这可能会引发一些性能问题。&lt;/p&gt;
+&lt;p&gt;如此一来，我们便成功实现了 &lt;code&gt;CredentialRepository&lt;/code&gt; 接口。&lt;/p&gt;
+&lt;h3&gt;构造 &lt;code&gt;RelyingParty&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;实现 &lt;code&gt;CredentialRepository&lt;/code&gt; 接口后，我们便可开始构造 &lt;code&gt;RelyingParty&lt;/code&gt; 类。在 &lt;code&gt;java-webauthn-server&lt;/code&gt; 库中，&lt;code&gt;RelyingParty&lt;/code&gt; 类是所有 API 操作的入口点，我们需要为其传入 &lt;code&gt;id&lt;/code&gt; 和 &lt;code&gt;name&lt;/code&gt; 进行构造，这对应了 Webauthn API 上 &lt;code&gt;options&lt;/code&gt; 中的 &lt;code&gt;rp&lt;/code&gt; 字段：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;id&lt;/code&gt; 代表供应商 ID ，应当是一段域名，该域名必须和实际服务域名完全符合（或者填入顶级域名来匹配根域名和所有二级域名）；&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;name&lt;/code&gt; 代表供应商名称，可随意填写。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;值得一提的是，为了安全起见，浏览器上的 &lt;code&gt;Webauthn API&lt;/code&gt; 仅会接受来自 HTTPS 连接的网站调用其 API （或者本地回环地址 &lt;code&gt;localhost&lt;/code&gt;，可以免于采用 HTTPS 连接）；对于其他情况，该 API 会返回 &lt;code&gt;undefined&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;接下来，创建 &lt;code&gt;WebauthnConfiguration&lt;/code&gt; 类，构造 &lt;code&gt;RelyingParty&lt;/code&gt; 类并将其注入 Spring Bean 容器中：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@RequiredArgsConstructor
+@Configuration
+public class WebauthnConfiguration {
+
+    private final CredentialRepository credentialRepository;
+    @Value("${webauthn.relying-party.id}")
+    private String relyingPartyId;
+    @Value("${webauthn.relying-party.name}")
+    private String relyingPartyName;
+
+    @Bean
+    public RelyingParty relyingParty() {
+        var rpIdentity = RelyingPartyIdentity.builder()
+                .id(relyingPartyId)
+                .name(relyingPartyName)
+                .build();
+
+        return RelyingParty.builder()
+                .identity(rpIdentity)
+                .credentialRepository(credentialRepository)
+                .build();
+    }
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如此一来，我们便成功构造了 &lt;code&gt;RelyingParty&lt;/code&gt; 类。&lt;/p&gt;
+&lt;h3&gt;实现 Passkey 逻辑（后端 Controller ，前端 hook ）&lt;/h3&gt;
+&lt;h3&gt;实现 Passkey 逻辑（后端 Service ）&lt;/h3&gt;
+&lt;p&gt;由于 V2EX 主题内容长度限制，烦请移步至 &lt;a href="https://my.minecraft.kim/tech/1249/%e5%ae%9e%e6%88%98%ef%bc%81%e4%b8%ba%e4%bd%a0%e7%9a%84%e7%bd%91%e7%ab%99%e6%8e%a5%e5%85%a5-passkey-%e9%80%9a%e8%a1%8c%e5%af%86%e9%92%a5%e4%bb%a5%e5%ae%9e%e7%8e%b0%e6%97%a0%e5%af%86%e7%a0%81%e5%ae%89/" rel="nofollow"&gt;我的博客&lt;/a&gt; 或者我的微信公众号 “HikariLan 的博客” 阅读完整文章，抱歉！&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;本文的主干代码是从我最近正在积极开发的简易轻论坛程序 NeraBBS 中剥离出来的，为了简化示例，对原项目代码做了许多现场修改（原项目是由多个 Spring Cloud 微服务组成的，并通过 gRPC 进行数据交换，此处为了简化直接省略了这部分代码），因此可能存在一些问题，如果读者发现，请积极指正，谢谢！&lt;/p&gt;
+&lt;h2&gt;参考资料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://web.dev/passkey-registration/" rel="nofollow"&gt;Create a passkey for passwordless logins (web.dev)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Authentication_API" rel="nofollow"&gt;Web Authentication API - Web API 接口参考 | MDN (mozilla.org)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Yubico/java-webauthn-server#passkeys" rel="nofollow"&gt;Yubico/java-webauthn-server: Server-side Web Authentication library for Java &lt;/a&gt;&lt;a href="https://www.w3.org/TR/webauthn/#rp-operations" rel="nofollow"&gt;https://www.w3.org/TR/webauthn/#rp-operations&lt;/a&gt; (&lt;a href="http://github.com" rel="nofollow"&gt;github.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/github/webauthn-json" rel="nofollow"&gt;github/webauthn-json: 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/vladmihalcea/hypersistence-utils" rel="nofollow"&gt;vladmihalcea/hypersistence-utils: The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer. (github.com)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 23 Aug 2023 14:32:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967778#reply0</guid></item><item><title>[问与答] 这张图的风格和细节很不错，不知道是用啥工具画的？或者用啥工具可以画出这种图</title><link>https://www.v2ex.com/t/967777#reply1</link><description>&lt;p&gt;请单独打开这张图片，全屏查看放大效果，才能发现很多细节，例如箭头和连线样式&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CleanShot 2023-08-23 at 22.28.56@2x.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/23/gCq6eJtSaUyj3sr.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:32:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967777#reply1</guid></item><item><title>[求职] [ Java ] [大数据] [外企] [内推]</title><link>https://www.v2ex.com/t/967776#reply0</link><description>&lt;p&gt;急要两个人，一个资深 Java ，5 到 10 年，Java 本身技术过硬就行，
+另一个是 system performance engineer ，做过 TRINO/PRESTO 的就好 3-5 年即可。&lt;/p&gt;
+&lt;p&gt;上班地点：外企银行 广州知识城，全额五险一金，年终奖(大概 2 个月)，13 薪，12 天年假。
+要求：英语要好，国际化团队，技术面试随缘吧，干就完了。
+薪资待遇：外企 base 会低一点 15k-20k 。
+需要加我微信 13840428980 。或发送简历到 &lt;a href="mailto:renchuan.xiao1@gmail.com"&gt;renchuan.xiao1@gmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Aug 2023 14:27:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/967776#reply0</guid></item></channel></rss>
