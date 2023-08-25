@@ -1,89 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 24 Aug 2023 09:50:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 关于核废水，大家可以维基百科一下喀拉海（Kara Sea），喀拉海曾是苏联倾倒核废料的地方</title><link>https://www.v2ex.com/t/968045#reply1</link><description>喀拉海曾是苏联倾倒核废料的地方，共计有六艘核动力潜艇反应堆和十个核反应堆在该海域中。[3]一份国际原子能机构的报告显示，此地的核辐射较低并处于较小的范围之内。[4]&lt;br /&gt;There is concern about radioactive contamination from nuclear waste the former Soviet Union dumped in the sea and the effect this will have on the marine environment. According to an official "White Paper" report compiled and released by the Russian government in March 1993, the Soviet Union dumped six nuclear submarine reactors and ten nuclear reactors into the Kara Sea between 1965 and 1988.[25] Solid high- and low-level wastes unloaded from Northern Fleet nuclear submarines during reactor refuelings were dumped in the Kara Sea, mainly in the shallow fjords of Novaya Zemlya, where the depths of the dumping sites range from 12 to 135 meters, and in the Novaya Zemlya Trough at depths of up to 380 meters. Liquid low-level wastes were released in the open Barents and Kara Seas. A subsequent appraisal by the International Atomic Energy Agency showed that releases are low and localized from the 16 naval reactors (reported by the IAEA as having come from seven submarines and the icebreaker Lenin) which were dumped at five sites in the Kara Sea. Most of the dumped reactors had suffered an accident.[26]&lt;br /&gt;&lt;br /&gt;The Soviet submarine K-27 was scuttled in Stepovogo Bay with its two reactors filled with spent nuclear fuel.[27] At a seminar in February 2012 it was revealed that the reactors on board the submarine could re-achieve criticality and explode (a buildup of heat leading to a steam explosion vs. nuclear). The catalogue of waste dumped at sea by the Soviets, according to documents seen by Bellona, includes some 17,000 containers of radioactive waste, 19 ships containing radioactive waste, 14 nuclear reactors, including five that still contain spent nuclear fuel; 735 other pieces of radioactively contaminated heavy machinery, and the K-27 nuclear submarine with its two reactors loaded with nuclear fuel.[28]</description><pubDate>Thu, 24 Aug 2023 09:39:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968045#reply1</guid></item><item><title>[程序员] 问一下 v 友们现在 electron 应用还能不能上架 Mac App Store</title><link>https://www.v2ex.com/t/968044#reply0</link><description>&lt;p&gt;近期弄了个 electron 不知道能不能上架&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:37:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968044#reply0</guid></item><item><title>[深圳] 深圳有没有比较推荐的餐厅</title><link>https://www.v2ex.com/t/968043#reply0</link><description>&lt;p&gt;各位 V 友，请问深圳有没有比较推荐的餐厅；大众小众都可
-欢迎讨论深圳美食（猪脚饭已被提出群聊 手动狗头）&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:36:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968043#reply0</guid></item><item><title>[分享创造] 公司有监控器监控屏幕使用微信，没办法摸鱼，写了一个在命令行的微信聊天工具</title><link>https://www.v2ex.com/t/968042#reply1</link><description>&lt;p&gt;使用 wechaty 写了个微信的命令行聊天工具，隐藏在 vscode 中，有需要的自取&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 25 Aug 2023 04:49:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 点到点对话消息加密，难道不是电子邮件客户端使用起来最简便和让人放心么？</title><link>https://www.v2ex.com/t/968249#reply0</link><description>很多人可能没有意识到，电子邮件客户端是支持加密的！例如 Thunderbird 邮件客户端，iOS 邮件客户端，以及 Outlook 邮件客户端！都可以很轻松支持邮件数字签名和加密！&lt;br /&gt;&lt;br /&gt;具体用法是这样的：&lt;br /&gt;&lt;br /&gt;首先用户本地生成私钥和包含自己邮箱地址信息的 CSR ，将 CSR 提交到 CA 申请一个电子邮件证书公钥，然后将私钥和证书公钥导入电子邮件客户端，搞定。&lt;br /&gt;&lt;br /&gt;接下来，可以将你的证书公钥，以包含电子邮件数字签名的方式发送给接收方邮箱。&lt;br /&gt;&lt;br /&gt;接收方拿到你的公钥后，就可以将他要发送的明文信息用你的证书公钥进行加密，然后在通过邮件服务器发送给你。&lt;br /&gt;&lt;br /&gt;这样就完成了电子邮件加密传输，实际操作起来并不复杂。&lt;br /&gt;&lt;br /&gt;有没有发现通过邮件客户端点到点加密传输有很多优点：&lt;br /&gt;&lt;br /&gt;1 、加解密操作在邮件客户端实现。（要做到电子邮件客户端软件可靠，比选一个放心的聊天软件要容易吧！）&lt;br /&gt;&lt;br /&gt;2 、网络上传输（邮件服务商看到）的只有密文和证书公钥。&lt;br /&gt;&lt;br /&gt;3 、随便一个支持邮件客户端的服务商就行，自建邮件服务器也可以。&lt;br /&gt;&lt;br /&gt;4 、通过邮件服务器中转，而不是客户间点到点传输，不会泄露邮件双方 IP 。（除非邮件服务器主动暴露）&lt;br /&gt;&lt;br /&gt;5 、配置好后，发送加密邮件和发送普通邮件操作几乎一致，使用极为简便。&lt;br /&gt;&lt;br /&gt;缺点就是：一开始准备数字证书是个麻烦事！&lt;br /&gt;&lt;br /&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;br /&gt;&lt;br /&gt;题外话：总有人说，哎呀公钥交换的时候被人替换，做手脚了怎么办，怎么怎么的！既然是公钥，那就是可以公开传输的，我可以通过不同渠道多份传输比对，总不能所有渠道你都截取替换了吧！</description><pubDate>Fri, 25 Aug 2023 04:45:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968249#reply0</guid></item><item><title>[分享发现] 谷歌浏览器的密码管理器好像给了我两个 openai 的账号？？</title><link>https://www.v2ex.com/t/968248#reply1</link><description>&lt;p&gt;是 3.5 的&lt;/p&gt;
+&lt;p&gt;现在注册好像还是不支持中国手机号的，确认了一下我之前确实没有注册成功
+一个能登录进去，一个已经封禁了
+登录进去看了一下，里边的聊天记录也不是我的，应该不是 poe 之类的工具存的&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:32:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968248#reply1</guid></item><item><title>[问与答] 使用微信的 Donut 把小程序打包成 APP 后，是否可以正常获取用户的 openid?</title><link>https://www.v2ex.com/t/968247#reply1</link><description>&lt;p&gt;我的小程序是基于微信云开发的，用户身份就是使用微信的 openid 识别，如果我使用微信官方的 Donut 把小程序打包成 APP ，在 APP 中是否可以正常使用 openid 呢？&lt;/p&gt;
+&lt;p&gt;例如，用户的数据是 { name, age, _openid } 这个格式，查询数据库时用到了  db.where({ _openid: '{openid}' }).get()，那么我打包成 APP 后，这段 js 代码是否可以用当前用户的 openid 去查询数据库呢？&lt;/p&gt;
+&lt;p&gt;有没有用过 Donut 的朋友介绍一下？&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:27:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968247#reply1</guid></item><item><title>[硬件] 这台显示器适合写代码吗？</title><link>https://www.v2ex.com/t/968246#reply1</link><description>&lt;p&gt;&lt;img alt="38F2DDEC-2452-4C93-8DBB-4DC3AF50EDE1 1.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/25/DGpuEMLK6absSdo.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:26:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968246#reply1</guid></item><item><title>[Android] 原创一个修复小新 Pad Pro 2021 运行 GSI 时的亮度问题的方法</title><link>https://www.v2ex.com/t/968245#reply0</link><description>&lt;p&gt;263 天前发布了这篇帖子 &lt;a href="https://v2ex.com/t/899947" rel="nofollow"&gt;搬运一个解锁小新 Pad Pro bootloader 的方法&lt;/a&gt;，现在终于能够原创了。&lt;/p&gt;
+&lt;p&gt;一般来说，给小新 Pad Pro 2021 刷入 GSI 后都会使用 Y700 的模块恢复自动亮度、自动旋转等问题，但是这个模块是为 Y700 开发的，在小新 Pad 上能用，但是体验不好，现在你可以使用我开发的&lt;a href="https://github.com/ZeekoZhu/lenovo-j716f-gsi-fix" rel="nofollow"&gt;这个模块&lt;/a&gt;，大幅提升自动亮度的使用体验。&lt;/p&gt;
+&lt;p&gt;卸载 Y700 的修复模块后，安装我的模块重启平板，你应该会发现：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;地址 &lt;a href="https://github.com/chenbb0128/moyu-chat.git" rel="nofollow"&gt;https://github.com/chenbb0128/moyu-chat.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;亮度调节的最低档不再是「伸手不见五指」之黑了&lt;/li&gt;
+&lt;li&gt;在系统设置中的 Phh Treble Settings / Lenovo features 中可以启用 DT2W （所谓的双击亮屏）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;😇 演示&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;群消息发送&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="1.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/24/ZzaRMIJN3A2xPSC.jpg" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;好友消息发送&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/08/24/pDWKRVGudYjTvrA.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:33:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968042#reply1</guid></item><item><title>[问与答] 有什么适合刚入职场新人的理财方案吗？</title><link>https://www.v2ex.com/t/968041#reply0</link><description>刚踏入职场，想攒点钱，但是又不知道有什么比较稳定的低风险理财方法，有什么推荐的吗？</description><pubDate>Thu, 24 Aug 2023 09:30:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968041#reply0</guid></item><item><title>[Apple] iPhone 查找 物品里面的 airtag 无故消失</title><link>https://www.v2ex.com/t/968040#reply1</link><description>&lt;p&gt;在本站看到商家推荐第三方 airtag ，买回来使用一切正常，后来和老婆加入家庭组，导致 airtag 在列表消失，本想着解除家庭组会出现，事实并未如此，现在身边一直提示被跟踪，但是绑定不上设备，但是在同一账户下面的 mac 查找却可以看到设备，iphone 重新登录过苹果账号，问题也没有解决，现请求大佬帮忙看下有没有遇到过这个问题，是否需要更新系统解决，本人不太想更新。。。&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:30:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968040#reply1</guid></item><item><title>[Java] 一个 Springboot 程序，可以快速启动吗？除了运行参数会有变化，其他都不变，希望把其他部分预先加载了，提高启动速度</title><link>https://www.v2ex.com/t/968039#reply7</link><description></description><pubDate>Thu, 24 Aug 2023 09:27:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968039#reply7</guid></item><item><title>[投资] 港股/美股/USDT 出金求攻略，谢谢</title><link>https://www.v2ex.com/t/968038#reply6</link><description>&lt;p&gt;年初在 Binance 入了一些 USDT 但没怎么交易，没想到 RMB 大跌汇率对人民币赚了 7 个点，现在想出金，部分取出来去买港股和美股，黄金和大宗商品（石油等）。有以下问题：&lt;br /&gt;&lt;br /&gt;1. 我想安全出金 USDT 转成 RMB 或能够直接转去美股/港股的交易所&lt;br /&gt;2. 港股/美股交易方便，出金需求不多，但想要可靠稳定，方便出金和入金的&lt;br /&gt;3. 港股/美股/大宗商品 ETF 等有交易所推荐吗？之前开了福汇，还没用过&lt;br /&gt;&lt;br /&gt;额外需求（非必需）&lt;br /&gt;1. 数据 API&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:27:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968038#reply6</guid></item><item><title>[OpenAI] 国产 AI 搜索引擎天工发布了</title><link>https://www.v2ex.com/t/968037#reply0</link><description>&lt;p&gt;昆仑万维出的&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://search.tiangong.cn/" rel="nofollow"&gt;https://search.tiangong.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;试用了一下，我的感受是，界面非常友好熟悉，让我很容易上手（我真的不知道什么是 Perplexity ）&lt;/p&gt;
-&lt;p&gt;搜了一下代码问题，感觉跟有 GPT4 的 Copilot 的竞品比还是有些差距的，不过其他问题效果还行&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:25:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968037#reply0</guid></item><item><title>[酷工作] Java 开发工程师&amp; Java 架构师-远程-全职</title><link>https://www.v2ex.com/t/968036#reply0</link><description>岗位职责；&lt;br /&gt;1 ）参与系统的架构设计，独⽴负责具体模块的功能实现，持续对系统进⾏改进和优化，保障系统的稳定和可维护性；&lt;br /&gt;2 ）参与产品需求分析，提出合理化建议；&lt;br /&gt;3 ）负责编写相关技术⽂档；&lt;br /&gt;4 ）定期总结和分享⼯作中沉淀的经验和成果；与团队成员的保持良好的沟通、交流；&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1 ）本科及以上学历，计算机相关专业；&lt;br /&gt;2 ） 3 年以上互联⽹公司 Java 开发⼯作经验，代码编写规范，编程基础扎实，逻辑思维能⼒强；&lt;br /&gt;3 ）精通 Java 语⾔，了解 JVM 原理，有 JVM 性能调优经验尤佳；&lt;br /&gt;4 ）精通主流开源框架，如 SpringBoot 、MyBatis 、SpringCloud 、Dubbo 等；&lt;br /&gt;5 ）精通数据库设计和开发，熟练使⽤Mysql ，良的 SQL 编写和优化能⼒，了解数据库原理，熟悉 mysql 锁机制、排它锁、间隙锁、死锁等问题；&lt;br /&gt;6 ）掌握缓存、消息队列的原理、限制以及使⽤场景，熟练使⽤Redis ，RabbitMq 、RocketMQ 、ZeroMQ 其中之⼀;&lt;br /&gt;&lt;br /&gt;这的技术描述只是一个大概，到了高级，资深水平其实更多是对于解决问题能力的一种体现，所以不要局限于上面技能的描述。&lt;br /&gt;&lt;br /&gt;工作时间：早 10 晚 7 ，大小周&lt;br /&gt;薪资范围：20-35K·16 薪 (java 开发) 面谈·16 薪 (java 架构)&lt;br /&gt;必须有大厂经验或者交易所经验&lt;br /&gt;必须有大厂经验或者交易所经验&lt;br /&gt;必须有大厂经验或者交易所经验&lt;br /&gt;&lt;br /&gt;***岗位需要全职远程，想要兼职勿扰***&lt;br /&gt;&lt;br /&gt;联系方式(base64): RHJlYW1lcjJ6</description><pubDate>Thu, 24 Aug 2023 09:25:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968036#reply0</guid></item><item><title>[问与答] 万能的 v 友们，杭州有啥好的脚崴以及骨折类治疗的医生</title><link>https://www.v2ex.com/t/968035#reply0</link><description>&lt;p&gt;自从骨折开始，中间又滑到一次，医生说比之前差，然后也养了 3 个月，但是现在走路发现很容易崴脚，走在路上稍有点不平，就崴脚，然后又去浙二看了，医生说不用担心，应该是韧带拉伤，养个一两周应该就好了，但是我现在又快 1 个月，感觉脚踝关节还是不灵活，做一些关节动作会痛 .&lt;/p&gt;
-&lt;p&gt;骨折真的不是小病。。。之前轻视了，这一路真是坎坷啊 , 哭 .....&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:19:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968035#reply0</guid></item><item><title>[问与答] 最近做前端有个需求，小弟很迷茫，需求是页面获取摄像头，实时显示人像画面，然后分割出人像区，并且需要使用 AR.JS 能力，识别特定图片显示三维模型..</title><link>https://www.v2ex.com/t/968034#reply0</link><description>最近做前端有个需求，小弟很迷茫，需求是页面获取摄像头，实时显示人像画面，然后分割出人像区，并且需要使用 AR.JS 能力，识别特定图片显示三维模型，，两者结合就是人像区能够遮挡住三维模型，我使用 TensorFlowJs 、AR.js 、aframe-ar-nft.js 实现了，但是在手机上的效果不好，例如点击按钮开始分割，在 PC 端能实现需求，但是在移动端就直接寄了，分割的人像图出不来，怎么办啊，另外有没有懂的大哥，虎牙的直播弹幕不挡脸是前端生成的人像分割图吗？还有哔哩哔哩的蒙版弹幕</description><pubDate>Thu, 24 Aug 2023 09:19:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968034#reply0</guid></item><item><title>[分享创造] 一个设计渣改版 UI 十多次，最终还是靠着 material design 3 的规则，做了一款自己还能接受的 UI</title><link>https://www.v2ex.com/t/968033#reply2</link><description>&lt;p&gt;所有艺术、审美相关的领域，我都算是个渣。虽然做前端很多年，但是一旦涉及到自己设计 UI ，那真是吃力不讨好。&lt;/p&gt;
-&lt;p&gt;这款产品从最初到现在，只是 UI 布局就大改版了六七次，这还不包括其中的局部调整、配色、风格、细节等，估计 8 成以上时间浪费在这上面了。满怀期待的开启改版，精疲力尽的努力，最终灰头土脸的勉强凑合。&lt;/p&gt;
-&lt;p&gt;这次改版尽量参照 material design 3 的设计原则与方法进行改动，反而出奇的顺利，虽然最终效果算不上出彩，但是自己感觉比之前要协调和舒服的多。&lt;/p&gt;
-&lt;p&gt;给 material design 3 赞一个，给自己也赞一个。&lt;/p&gt;
-&lt;p&gt;手机版&lt;/p&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.ppzhilian.com/tmp/home-mobile-680.jpg" title="手机版" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;PC 版&lt;/p&gt;
-&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.ppzhilian.com/tmp/home-pure-980.jpg" title="PC 版" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;地址: PP 直连( &lt;a href="https://www.ppzhilian.com/" rel="nofollow"&gt;https://www.ppzhilian.com/&lt;/a&gt;)&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:18:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968033#reply2</guid></item><item><title>[问与答] 电脑关机以后会自动重启是什么情况？</title><link>https://www.v2ex.com/t/968032#reply3</link><description>在正常的关机流程走完以后会马上重新开机，要在进系统前马上再按一次电源键才能关掉，已经检查了不是机箱电源键接线的问题</description><pubDate>Thu, 24 Aug 2023 09:17:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968032#reply3</guid></item><item><title>[问与答] 一个想要自寻短见的人该不该救,这个行为是善还是恶</title><link>https://www.v2ex.com/t/968030#reply10</link><description>&lt;h4&gt;以下是我个人理解:&lt;/h4&gt;
+&lt;p&gt;如果你有兴趣的话，可以在这里查看这个模块的制作方式：&lt;a href="https://zeeko.dev/2023/08/fix-auto-brightness-for-xiao-xin-pad-2021-pro/" rel="nofollow"&gt;修复小新 Pad Pro 2021 运行 GSI 时的亮度问题&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:20:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968245#reply0</guid></item><item><title>[程序员] Apple Developer Program 到底要怎么才能注册啊...</title><link>https://www.v2ex.com/t/968244#reply3</link><description>&lt;h2&gt;苹果开发者也太难注册了吧...&lt;/h2&gt;
+&lt;p&gt;RT, 开了 2FA, 也绑了银行卡, 但是每次验证身份之后就返回未知错误. 联系苹果客服两次, 一次说是未知错误无法定位, 一次说是因为有两个账号都用了我的名字. 这两个账号确实都是我的, 我也都尝试过注册但无果. 客服团队给出的建议是用家属的身份创建新账号再注册, 就没有更合理的解决方法吗...&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:17:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968244#reply3</guid></item><item><title>[求职] 📍成都求职 9 年 UI/UX 设计师 全职/外包/兼职</title><link>https://www.v2ex.com/t/968243#reply0</link><description>9 年 UI  设计工作经验，做过 PC  软件，股市、旅游、短视频、浏览器、电商、壁纸、社交、直播、远程竞速、TRX 、小说、竞彩、Web 3.0 、NFT 、区块链等领域的 APP 、网页、小程序和后台的设计。&lt;br /&gt;目前接触的最多的是 C 端，也希望能有机会接触新领域学习新的东西。&lt;br /&gt;&lt;br /&gt;查看作品： &lt;a href="https://uiuxd.lofter.com/" rel="nofollow noopener" target="_blank"&gt;https://uiuxd.lofter.com/&lt;/a&gt;&lt;br /&gt;联系邮箱： tong567@foxmail.com&lt;br /&gt;&lt;br /&gt;有意可以留下邮箱，简历稍后发送。</description><pubDate>Fri, 25 Aug 2023 04:13:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968243#reply0</guid></item><item><title>[Java] MybatisPlus 的 IService 和 Mapper 有什么区别</title><link>https://www.v2ex.com/t/968242#reply1</link><description>&lt;p&gt;最近看了 MybatisPlus 的官网,发现 Service CRUD 接口和 Mapper CRUD 接口都实现基本的增删改查，在 service 层进行增删改查要比 mapper 层更加方便，这是否违反了 mvc 三层架构。&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 04:04:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968242#reply1</guid></item><item><title>[程序员] 想学大数据，求推荐学习路线，学习资料，测试数据</title><link>https://www.v2ex.com/t/968241#reply1</link><description>&lt;p&gt;想学一下大数据，感觉比较好找工作&lt;/p&gt;
+&lt;p&gt;现在 hadoop 和 hive 刚入门。感觉大数据相关的学习资料好少，求推荐&lt;/p&gt;
+&lt;p&gt;另外也求实战项目、测试数据推荐&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:59:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968241#reply1</guid></item><item><title>[问与答] 拜托各家大厂行行好，千万不要告那些电话、短信拦截的产品不正当竞争</title><link>https://www.v2ex.com/t/968240#reply0</link><description>虽然我知道拦截是违法的，包括不让装 app 这种，但我“需要”啊，希望大厂手下留情&lt;br /&gt;&lt;br /&gt;洋钱罐这破货，一个月内给我打了十个以上电话，次次号码都不同&lt;br /&gt;让我去微信小程序“领贷款”，问题是我这号码都没注册微信，更别说关注过他们，一问他们从哪里找到我就道歉挂断……&lt;br /&gt;TX 估计认为这是正当行为，没有下架这个小程序，无语&lt;br /&gt;&lt;br /&gt;PS: 微信也千万不要去掉拉黑、公众号静默这些功能啊</description><pubDate>Fri, 25 Aug 2023 03:56:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968240#reply0</guid></item><item><title>[问与答] 为什么计算机行业没有越老越吃香</title><link>https://www.v2ex.com/t/968237#reply15</link><description>&lt;p&gt;楼主大学机械专业，转行做计算机多年，现在被裁员，找工作并不容易，反观大学机械同学，换个工作一周面好几家，很快就找到下家了，同学原话是更看重经验，学历学校反倒没那么重要，越老越吃香。&lt;/p&gt;
+&lt;p&gt;现在很疑惑一点，为什么机械专业的经验很重要，而计算机的工作经验到了 35 反而没有那么有意义了，机械并没有像计算机这样一直学习新东西，而一直学习的计算机到了 35 反倒被淘汰了。&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:49:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968237#reply15</guid></item><item><title>[问与答] 笔记本自己换内存难吗？</title><link>https://www.v2ex.com/t/968236#reply10</link><description>一直有个疑问就是关于断电放静电的问题，关机-拆后盖-断电源-，静电问题问了好多，问固态硬盘客服说断了电源之后等几分钟在装就不会有静电了，其他人说的是断电源后按几下电源键排静电，所以正确安装方式是什么？&lt;br /&gt;&lt;br /&gt;的确怕静电冲坏主板之类的毕竟昨天入的新笔记本😂😂&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;😂😂还没拆过，最后我想知道笔记本一般预留了 m.2 口螺丝会不会预留一个拆开没预留螺丝就寄，有的固体硬盘会赠送小螺丝刀和备用螺丝，刚刚买了梵想 1TB 的 298 还不错先试试用。</description><pubDate>Fri, 25 Aug 2023 03:48:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968236#reply10</guid></item><item><title>[优惠信息] 45 出个网易音乐会员</title><link>https://www.v2ex.com/t/968234#reply1</link><description>&lt;p&gt;上周刚续的
+wx: ZHQ1NTV4&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:45:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968234#reply1</guid></item><item><title>[职场话题] 欢迎私信，免费+测试 “职场性格竞争力”</title><link>https://www.v2ex.com/t/968233#reply0</link><description>&lt;p&gt;&lt;img alt="图片描述" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/g9rd2zX.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:44:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968233#reply0</guid></item><item><title>[Android] Jetpack Compose 到现在都没有提供一个 html 到 AnnotatedString 的转换？</title><link>https://www.v2ex.com/t/968232#reply0</link><description></description><pubDate>Fri, 25 Aug 2023 03:40:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968232#reply0</guid></item><item><title>[TestFlight] 测试 文档</title><link>https://www.v2ex.com/t/968231#reply0</link><description>&lt;h1&gt;登链社区：引领去中心化未来&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;简介：&lt;/strong&gt; 区块链技术正在以令人瞩目的速度改变着各个领域，而登链社区已成为区块链技术热爱者和专业人士的首选之地。&lt;/p&gt;
+&lt;p&gt;我们不仅提供深入浅出的区块链知识，还积极承担着培养和连接全球 Web3 行业精英的使命。&lt;/p&gt;
+&lt;h2&gt;登链社区的核心价值&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;生命意志
-我个人理解,人是有非常强的生命意志的,非到绝望至极一般是不会自寻短见的&lt;/li&gt;
-&lt;li&gt;你根本没有解决他的问题
-他的问题是现实中的问题,可能他这一跳就摆脱了所有的问题,而你一把他从幻想中拉出来,然后你拍拍衣袖想象着今天功德+1 的走了&lt;/li&gt;
-&lt;li&gt;个人选择
-jump or not jump,这是他个人的选择&lt;/li&gt;
-&lt;li&gt;有句古话救人一命胜造七级浮屠,如果这个人就是自己想寻短见还是这样吗&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;开放学习平台：&lt;/strong&gt; 登链社区一直致力于提供开放、多样化和高质量的区块链教育资源。无论您是初学者还是有经验的开发者，我们都提供适合您的内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;社区协作和支持：&lt;/strong&gt; 我们的社区由来自世界各地的区块链技术爱好者组成，他们分享知识、解答问题、协作开发项目，使社区成为学习和成长的理想场所。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;行业洞察和创新：&lt;/strong&gt; 登链社区不仅提供基础知识，还深入探讨区块链行业的最新动态和趋势。我们鼓励创新思维，并提供机会让会员们将其想法付诸实践。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;以下是我同事的看法总结:&lt;/h4&gt;
+&lt;h2&gt;&lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt;：登链社区的孵化产品&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 是登链社区的孵化产品，旨在培养 Web3 行业的未来领袖。它不仅是一个学习平台，还是一个技能认证的创新解决方案。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 的亮点&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;真正想死的人  1 秒钟就跳下去了,大部分挂在边上半天不跳的人都是不想死的&lt;/li&gt;
-&lt;li&gt;如果我看见了会救,即使我走了他转身去其他地方寻短见了,我虽然救不了他,但是我救了我自己,如果他当着我的面跳下去死了 而我没救她,我会一辈子都有阴影&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;区块链技术认证：&lt;/strong&gt; &lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 利用区块链技术确保技能认证记录的安全性和可信度。您可以轻松地验证您的技能，无需依赖传统认证机构。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;多样化的课程：&lt;/strong&gt; &lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 提供广泛的在线课程，覆盖了区块链技术、智能合约、加密货币等 Web3 领域的关键主题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;实际项目：&lt;/strong&gt; 学生们有机会参与实际项目，积累宝贵的实际经验，这在区块链行业尤为重要。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;社区支持：&lt;/strong&gt; &lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 与登链社区合作，学生们可以与来自世界各地的区块链专家建立联系，并获得导师指导。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;灵活的学习：&lt;/strong&gt; &lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 的在线学习平台允许学生根据自己的时间和进度安排学习。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;⚠️:这里不讨论寻短见的原因,就假设是最困难的&lt;/h4&gt;</description><pubDate>Thu, 24 Aug 2023 09:14:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968030#reply10</guid></item><item><title>[酷工作] [北京/上海/深圳][英伟达][深度学习， GPU 性能优化，算子开发]急招中～</title><link>https://www.v2ex.com/t/968029#reply0</link><description>&lt;p&gt;简历投递邮箱-xiaozhao@nvidia.com&lt;/p&gt;
-&lt;p&gt;微信-18867144803&lt;/p&gt;
-&lt;p&gt;详细方向如下：&lt;/p&gt;
-&lt;p&gt;1-Deep Learning Performance Architect-Compiler/LLM-TensorRT&lt;/p&gt;
-&lt;p&gt;主要做的是围绕深度学习端到端的 AI 软件全栈，包括但不限于训练框架、核心计算库、推理优化工具（比如 TensorRT ），AI 编译器，模型压缩等全栈软件栈。以及可以在 AI 软件全栈基础上影响到下一代甚至下两代硬件架构的特性设计。&lt;/p&gt;
-&lt;p&gt;Required skills: 良好 C++编程，熟悉 AI 软件栈底层或者计算机体系结构，熟悉上层算法与 Python 是加分项。&lt;/p&gt;
-&lt;p&gt;地点：北京与上海&lt;/p&gt;
-&lt;p&gt;2-Deep Learning Performance Architect-TensorRT&lt;/p&gt;
-&lt;p&gt;负责 NVIDIA 深度学习推理引擎 TensorRT 的设计、开发和维护工作(e.g. TensorRT 模型导入的流程和相关工具，图优化，算子的 CUDA 实现及代码生成，算子性能优化等)，以及对当前主流的深度学习模型使用 TensorRT 进行推理的性能进行分析和优化。同时，还将与 NVIDIA GPU 体系结构设计团队合作来推动 NVIDIA 深度学习解决方案的软硬件协同设计和研发。&lt;/p&gt;
-&lt;p&gt;岗位基本要求: 熟练掌握 C++编程&lt;/p&gt;
-&lt;p&gt;其它密切相关的技能/经验: 深度学习框架/深度学习编译器开发，性能分析/建模/优化相关的方法论/工具，计算机体系结构相关知识，CUDA kernel 开发/优化&lt;/p&gt;
-&lt;p&gt;地点：北京与上海&lt;/p&gt;
-&lt;p&gt;3-Deep Learning Performance Architect-Operator&lt;/p&gt;
-&lt;p&gt;主要做的是针对不同 GPU 架构为 TensorRT, cuDNN, cuBLAS, cuSPARSE 等深度学习算子库提供高性能基础算子以及算子融合实现，包含在线代码生成，代码融合等相关开发工作，以及根据当代 GPU 优化瓶颈影响后续硬件架构特征设计和验证工作。&lt;/p&gt;
-&lt;p&gt;Required skills: 良好 C++编程，熟悉计算机体系结构， 有 TVM, MLIR 相关开发经验是加分项。&lt;/p&gt;
-&lt;p&gt;地点：上海与北京&lt;/p&gt;
-&lt;p&gt;4-Deep Learning Performance Architect&lt;/p&gt;
-&lt;p&gt;主要做的是围绕运算架构的全栈优化，包括但不限于深度学习模型分析与预测，架构的性能分析，编译器性能分析以及对主流运算架构，软件生态的分析。使 NVIDIA 软件生态与计算架构更好的支持主流应用。&lt;/p&gt;
-&lt;p&gt;Required skills: 良好 C++/Python ，熟悉 AI 软件或者计算机体系结构。&lt;/p&gt;
-&lt;p&gt;地点：北京与上海&lt;/p&gt;
-&lt;p&gt;5-Developer Technology Engineer-AI&lt;/p&gt;
-&lt;p&gt;客户的深度学习和高能性计算应用在 NVIDIA 生态上的移植和优化。这些应用包括大语言模型，CV ，Speech,推荐系统和分子动力学，计算力学，计算量子化学等。通过算法和工程优化，提供系统级的优化方案。深度与内部架构和产品团队合作，构建和完善 NVIDIA 软硬件加速生态。&lt;/p&gt;
-&lt;p&gt;Required Skills: 良好 C/C++编程能力，分析能力和沟通能力，熟悉深度学习或 GPU 加速计算软件栈，扎实的深度学习理论基础或精通 GPU 架构和优化。&lt;/p&gt;
-&lt;p&gt;地点：北京，上海与深圳&lt;/p&gt;
-&lt;p&gt;6-自动驾驶算法部署岗位&lt;/p&gt;
-&lt;p&gt;[你将从事的工作]
-分析客户或内部团队提出的 cuDNN 和 TensorRT 稳定性和性能问题
-与分布在美国、亚太地区和印度的国际团队合作开发 cuDNN 和 TensorRT 。
-从分析和开发中提取功能需求或常见问题，并生成文档&lt;/p&gt;
-&lt;p&gt;[我们需要看到什么？]
-要求计算机科学或电子工程学士学位，硕士学位优先。
-3-5 年以上相关工作经验
-具有较强的 C 、C++ 和/或 python 编程技能
-了解流行的推理网络和层级
-具有使用 Caffe 、TensorFlow 或 Torch 等深度学习框架的工作经验
-英语和普通话书面和口头表达能力强
-能够在多元化的团队环境中与跨部门的同事良好合作
-具有很强的客户沟通能力，积极主动地提供所需的高响应支持&lt;/p&gt;
-&lt;p&gt;地点：上海&lt;/p&gt;
-&lt;p&gt;[英伟达更多福利] ：&lt;/p&gt;
-&lt;p&gt;1 、超长陪产假：男性员工 12 周全薪陪产假，女性员工 22 周全薪产假&lt;/p&gt;
-&lt;p&gt;2 、健康保障项目：补充商业保险、年度体检、员工关爱计划、斯坦福医学健康领航计划、商务旅行保险等&lt;/p&gt;
-&lt;p&gt;3 、内购商店 Gear Store:每年度享有 800 积分购买 NVIDIA 内部定制礼品&lt;/p&gt;
-&lt;p&gt;4 、海量学习平台：NV Learn 、Linkedin Learning 、ACE&amp;amp;IEEE 、Coursera 、EdX 、Udemy 等平台涵盖深度学习、专业技能培训、管理培训等课程资源&lt;/p&gt;
-&lt;p&gt;5 、ESPP 员工购股计划”&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:14:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968029#reply0</guid></item><item><title>[Apple] 去年 14pro 首发在香港澳门好买吗？</title><link>https://www.v2ex.com/t/968026#reply5</link><description>&lt;p&gt;去年 14pro 抢首发的时候，国内几乎买不到。&lt;/p&gt;
-&lt;p&gt;刚好 9 月底要去香港澳门玩，那边是不是好买一点，还更便宜？&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:09:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968026#reply5</guid></item><item><title>[程序员] 真诚无广告的 程序员副业交流群，你需要么</title><link>https://www.v2ex.com/t/968025#reply2</link><description>我在 7 月底创建了一个免费程序员副业交流群+知识星球 ，感兴趣的加我 v liukaka136&lt;br /&gt;&lt;br /&gt;整体定位是：帮助程序员提升 [认知] 和 [技能] ，配合 [点子] 和 [项目] ，以 [实战] 的方式找到副业，做好副业&lt;br /&gt;&lt;br /&gt;运营 3 周了，整体收获如下：&lt;br /&gt;&lt;br /&gt;程序员副业交流群 累计 295 新增 55 &lt;br /&gt;程序员副业之路 知识星球 累计 70 人 新增 11 （ 9 个付费用户）&lt;br /&gt;微信好友 1600 新增 60&lt;br /&gt;公众号 713 新增 41 &lt;br /&gt;&lt;br /&gt;欢迎感兴趣的和我一起交流，进步</description><pubDate>Thu, 24 Aug 2023 09:08:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968025#reply2</guid></item><item><title>[Apple] 分享一个近期发现的小工具</title><link>https://www.v2ex.com/t/968024#reply5</link><description>&lt;p&gt;根据我的个人理解应该是 iMessage 的 ChatGPT&lt;/p&gt;
-&lt;p&gt;网址： &lt;a href="https://www.gptxts.com" rel="nofollow"&gt;https://www.gptxts.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;看页面写着免费试用中，不知道什么时候会收费。还支持语音挺不错的。&lt;/p&gt;</description><pubDate>Thu, 24 Aug 2023 09:03:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968024#reply5</guid></item><item><title>[程序员] 诸君在业务开发中是如何保持分布式服务一致性的</title><link>https://www.v2ex.com/t/968023#reply4</link><description>面试经典八股。。但我没用过，看了一些方案下来，感觉事务消息比较靠谱，对业务侵入较小，性能上由于是异步，也不会有太多影响。&lt;br /&gt;求诸君分享下生产实践经验。</description><pubDate>Thu, 24 Aug 2023 08:56:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968023#reply4</guid></item></channel></rss>
+&lt;h2&gt;加入登链社区，开启您的区块链之旅&lt;/h2&gt;
+&lt;p&gt;无论您是想提升技能、进入区块链行业还是与全球区块链社区建立联系，登链社区和 &lt;a href="http://DeCert.me" rel="nofollow"&gt;DeCert.me&lt;/a&gt; 都将是您的理想伙伴。我们致力于塑造去中心化未来，而您可以成为这个变革的一部分。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://learnblockchain.cn/" rel="nofollow"&gt;点击这里，加入登链社区&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://decert.me/" rel="nofollow"&gt;点击这里，了解更多关于 DeCert.me&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不要错过这个机会，一起加入我们，共同创造区块链世界的未来！让我们一起塑造去中心化的明天。&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:39:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968231#reply0</guid></item><item><title>[OpenAI] chatgpt，弹 select a workspace 的窗口，并且无法关闭</title><link>https://www.v2ex.com/t/968230#reply0</link><description>chatgpt 弹选工作空间的窗口，并且无法关闭。&lt;br /&gt;两个选项都是 Personal account ，选择之后网页刷新，又弹出来了。就这样无限循环。&lt;br /&gt;搞的不能正常使用了，应该怎么办。&lt;br /&gt;有遇到同样问题的吗？&lt;br /&gt;清理缓存什么的都试过了，还是不行</description><pubDate>Fri, 25 Aug 2023 03:35:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968230#reply0</guid></item><item><title>[职场话题] 好纠结，是继续留在小公司当老员工，还是去华为政企外包呀</title><link>https://www.v2ex.com/t/968229#reply7</link><description>&lt;p&gt;大致情况是这样：
+我现在这家公司在职 6 年了，软件技术支持（干杂活，偏运维），11k ，但是不想再继续待下去了，因为产品各种问题，技术发展也有瓶颈，收入可能也到顶了。
+华为政企外包，做华为私有云之类的吧，主要现场服务客户，薪资没说多少（面试我有提到，希望至少 20%涨幅），要提交资料才定薪，但是我不想提交了，因为是外包。然后 HR 说现在华为每年都开放转原厂的通道，但是要绩效考核之类的，可是我新员工进去，哪可能卷的过别人，有机会都是先给老员工吧。&lt;/p&gt;
+&lt;p&gt;目前纠结的就是，我要不要去呢，如果去，以后有一定机会进大厂？如果不去，继续在小公司凋零吗（虽然是小公司，但怎么说我都是老员工了，老板还说以后业绩好考虑弄股权激励）。就怕去外包，变成边角料，混的更差了。&lt;/p&gt;
+&lt;p&gt;也有想过技能提升，就是转开发。但是本人说实话比较笨，代码啥都不会，最多就会些部署，数据库，让我写个 if else 都够呛。怎么办呀&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968229#reply7</guid></item><item><title>[分享发现] 如何看待套 vs 皮的 CEC-IDE</title><link>https://www.v2ex.com/t/968228#reply6</link><description>&lt;p&gt;&lt;a href="https://www.oschina.net/news/255257" rel="nofollow"&gt;https://www.oschina.net/news/255257&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968228#reply6</guid></item><item><title>[问与答] 小姨子 9 月上大学，来推荐个笔记本吧</title><link>https://www.v2ex.com/t/968227#reply18</link><description>&lt;p&gt;基本需求：&lt;br /&gt;
+预算 3-5k  &lt;/p&gt;
+&lt;p&gt;电子信息专业
+主要考虑到后续需要安装 CAD&lt;/p&gt;
+&lt;p&gt;学校给的建议
+计算机与信息工程学院(单独说明除外)
+基本配置：需要笔记本电脑 CPU 参数为 5 或 i7 ，内存 4G 以上最好 8G;显卡集成或独立均可硬盘在 500G 或以上，最好配置 128G 的固态硬盘。
+学习软件：AutoCAD/汽车营销软件/电子 CADI 办公软件/CADProtel/PLC 软件/组态监控/单片机软件&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 03:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968227#reply18</guid></item></channel></rss>
