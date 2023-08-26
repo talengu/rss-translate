@@ -1,113 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 25 Aug 2023 19:54:13 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 怎么快速找到值得努力的方向</title><link>https://www.v2ex.com/t/968398#reply1</link><description>&lt;p&gt;有个朋友现在二十多跟我说想学英语，希望我能提供一些教程或资料&lt;/p&gt;
-&lt;p&gt;但他没有基础，也对这个没有任何应用的场景，而只是觉得“我得学点什么”&lt;/p&gt;
-&lt;p&gt;问他喜欢什么，他说他不知道他喜欢什么，只是觉得自己什么都不会，从而觉得很慌&lt;/p&gt;
-&lt;p&gt;我几年前也是这样的，所以能去理解，也希望能对他提供一些帮助&lt;/p&gt;
-&lt;p&gt;但这种东西又好像“只可意会”，也可能只是我表达能力不够...&lt;/p&gt;
-&lt;p&gt;希望能获得 v 友的一些建议或对这件事的看法&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 19:30:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968398#reply1</guid></item><item><title>[区块链] 据说一份白皮书就能看出一个区块链项目的好坏</title><link>https://www.v2ex.com/t/968396#reply5</link><description>&lt;a href="https://developer.bfchain.com/doc/white-paper-zh.pdf" rel="nofollow noopener" target="_blank"&gt;https://developer.bfchain.com/doc/white-paper-zh.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;嘿嘿大家看看这个白皮书怎么样（白皮书所提到的技术在 2020 年均已完成）&lt;br /&gt;&lt;br /&gt;国内唯一在做区块链公链的团队——生物链林&lt;br /&gt;&lt;br /&gt;国内区块链，币圈，web3 交流群，有兴趣的可以加入一下&lt;br /&gt;&lt;br /&gt;我的 V：BFMeta_&lt;br /&gt;&lt;br /&gt;备注:V2</description><pubDate>Fri, 25 Aug 2023 16:13:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968396#reply5</guid></item><item><title>[Firefox] 为何 bitwarden 能耗这么高？</title><link>https://www.v2ex.com/t/968395#reply5</link><description>&lt;p&gt;m1 版 mbp ，一摸温度吓一跳，排查之后发现是 bitwarden 能耗过高，关掉之后马上好了，请教是什么原因？&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 16:11:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968395#reply5</guid></item><item><title>[Apple] macbook pro 上 edge 全屏后顶部留白。</title><link>https://www.v2ex.com/t/968393#reply1</link><description>&lt;p&gt;macbook pro edge 浏览器全屏后变成这个鬼样子，顶部标签页上面一片留白，打开网页后，这个留白便会挤压空间。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-20230825234519426" class="embedded_image" rel="noreferrer" src="https://md-1301600412.cos.ap-nanjing.myqcloud.com/pic/typora/image-20230825234519426.png" /&gt;&lt;/p&gt;
-&lt;p&gt;消失后，标签页又不见了，不知道这是否属于异常，有朋友遇到这个问题吗，&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-20230825234448620" class="embedded_image" rel="noreferrer" src="https://md-1301600412.cos.ap-nanjing.myqcloud.com/pic/typora/image-20230825234448620.png" /&gt;
-我 gg 了一会，找到一个方法说是关闭下面这个选项，但是发现关不了……&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-20230825235359181" class="embedded_image" rel="noreferrer" src="https://md-1301600412.cos.ap-nanjing.myqcloud.com/pic/typora/image-20230825235359181.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 15:51:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968393#reply1</guid></item><item><title>[酷工作] [全职远程工作 ] Lattics 前端开发（限 1 ～ 5 年工作经验）</title><link>https://www.v2ex.com/t/968392#reply1</link><description>&lt;h2&gt;写在招聘信息之前的话&lt;/h2&gt;
-&lt;p&gt;我们是一支国内为数不多的不依赖融资，完全靠自身独立发展的远程产品创新团队。我们立足于为人们提供优秀的软件产品，提升人们生活和工作的创造力，已经历史 11 年，旗下有三款享誉国内外的 App：Zine ，Varlens ，Lattics ，官网：&lt;a href="http://auramarker.com" rel="nofollow"&gt;auramarker.com&lt;/a&gt; ，可以深入了解&lt;/p&gt;
-&lt;p&gt;我们倡导 Enjoy Work ，Enjoy Life ，并在实践中践行之：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 26 Aug 2023 05:16:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] MacBook Pro 14 和 16 英寸该怎么选？要不要等 M3？</title><link>https://www.v2ex.com/t/968448#reply0</link><description>MacBook Pro 14 和 16 英寸该怎么选？要不要等 M3&lt;br /&gt;&lt;br /&gt;最近感觉手机的 Alienware17R4 逐渐开始卡顿，有种想换掉的冲动。因为它太重了，有一次去深圳出差飞机上背着他像个不良少年一样。后来去大连邮寄它运费一次就得 100 元，总之跟不方便携带，很笨重。&lt;br /&gt;很多年前就想用 Mac 那时候 m1 刚出来，不成熟现在正在纠结，所以来 V2 咨询一下大佬们&lt;br /&gt;1.要不要等 m3?&lt;br /&gt;2.同等配置 14 和 16 英寸有什么区别呢？性能，散热方面?&lt;br /&gt;3.16 英寸是否真的不方便携带？&lt;br /&gt;4.下面这个配置的话跑虚拟机 kali,windows 开两个的话 cpu 线程是否够用呢？内存都是 32G 。做网安用&lt;br /&gt;&lt;br /&gt;* 14 寸配置 ￥ 22999&lt;br /&gt;12 核中央处理器&lt;br /&gt;19 核图形处理器&lt;br /&gt;32GB 统一内存&lt;br /&gt;1TB 固态硬盘¹&lt;br /&gt;&lt;br /&gt;* 16 英寸 ￥ 24499&lt;br /&gt;12 核中央处理器&lt;br /&gt;19 核图形处理器&lt;br /&gt;32GB 统一内存&lt;br /&gt;1TB 固态硬盘¹</description><pubDate>Sat, 26 Aug 2023 05:16:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968448#reply0</guid></item><item><title>[分享创造] 写了一套推特 API 和过 TLS 指纹检测的请求服务</title><link>https://www.v2ex.com/t/968447#reply0</link><description>&lt;h4&gt;迫于发在推广区实在没人看有点心寒，相信我这俩 API 以后早晚用得到！！额度是永久的，抽奖今晚 8 点开。也欢迎在这方面有需求的一起交流&lt;/h4&gt;
+&lt;p&gt;以下是原贴地址和内容  &lt;a href="https://v2ex.com/t/967915#reply8" rel="nofollow"&gt;https://v2ex.com/t/967915#reply8&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;v 友们抽十份，产品可以任选一个。送的额度分别是推特 API 10000 次请求，TLS 指纹 5000 次请求
+
+开奖时间：北京时间 2023 年 8 月 26 日 20:00
+
+另外在推特上也开了个抽奖，关注 + 转发额外抽 10 份
+
+https://twitter.com/abcdsxg/status/1694557275921486228?s=20
+以下是产品的介绍
+
+推特接口
+自从马斯克上任推特后，API 价格涨到 $100/mon ，还要把老的 1.1 版本废弃，对开发者非常不友好
+
+我们自研了一套爬虫，可以稳定使用推特 1.1 的 API ，使用时可以完全参考官方文档，格式完全兼容。
+
+即使后续推特将 1.1 API 全部下线，我们依然支持目前最新的 graphql 格式的接口（ graphql 文档目前在更新中）
+
+还有一个亮点是，你可以传入任意账号的 auth_token ，即可解锁所有 API
+
+可以在 rapidapi 免费试用 https://rapidapi.com/abcdsxg/api/twitter-v1-1-v2-api/
+
+TLS 指纹验证
+这个对于爬虫来说算是一个痛点，比如浏览器 F12 能正常访问的接口，放到代码里执行就会遇到防火墙，懂的都懂。
+
+我们目前支持自动过 cf 的点击验证，其实就是爬虫里大家熟知的 cf_clearance cookie ，
+
+你可以用我们提供的 GET 和 POST 接口，正常传参就能拿到返回值，如果有高频需求或者不方便让我们反代请求，可以使用 Get Cloudflare cookie cf_clearance 接口，使用时必须传入你自己可用的代理，因为这个 cookie 值是跟 ip 和 user-agent 绑定的。
+
+可以在 rapidapi 免费试用 https://rapidapi.com/abcdsxg/api/cloudflare-bypass2
+
+网站
+https://apidance.pro/
+
+由于产品都是 api 的形式，也做了一个简单的网站，只演示了推特的功能，嫌 rapidapi 麻烦的也可以在网站上直接找我买 apikey
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 26 Aug 2023 05:15:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968447#reply0</guid></item><item><title>[问与答] 来杭啦，应届生第一次租房，大伙分享下有什么坑要避免</title><link>https://www.v2ex.com/t/968445#reply0</link><description>&lt;p&gt;闲鱼豆瓣小红书看了半天，咋感觉都是中介啊，我看有个豆友租房的小程序可能还行？&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;成员分布在多个城市，通过互联网紧密地协同工作，不打卡不坐班，以任务目标驱动；&lt;/li&gt;
-&lt;li&gt;倡导 Better ，Faster ，Smarter 的工作风格，不安排节假日加班，更倡导周末多陪伴家人和充电学习；&lt;/li&gt;
-&lt;li&gt;注重深思熟虑，提前计划，高效率高质量的一次性把工作做好，减少无谓的试错和可避免的弯路；&lt;/li&gt;
-&lt;li&gt;持续学习与持续创新，保持独立见解，了解行业与技术发展，但不盲从，持续改进自己的工作方法，不断提升工作效率与质量，追求零缺陷；&lt;/li&gt;
-&lt;li&gt;将良好的设计品味、先进的技术，以及具有乐趣的使用体验，三者融合在一起的产品理念，创作真正能够给人们的生活带来便利，激发人们的创造力和生活品质的产品，并由此获得可持续发展的收入。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我们对技术要求比较高，希望是真正热爱并乐于钻研技术的人。我们筛选简历的比例大概是 30 : 1 。所以不是投递简历就会被我们回复（很多人投递简历本身也非常不认真）。&lt;/p&gt;
-&lt;p&gt;另外，由于我们奉行远程工作，而每个人的工作经验和生活城市不同，因此没有列出薪酬水平，会以各自的实际期望评估，达成一致。我们期望寻找长期的合作伙伴，寻找外包和短期工作的也请勿扰，谢谢。&lt;/p&gt;
-&lt;p&gt;------  职位招聘 ------&lt;/p&gt;
-&lt;h2&gt;全职 前端开发工程师：1 位&lt;/h2&gt;
-&lt;p&gt;职位说明:&lt;/p&gt;
+&lt;li&gt;距离浙大紫金港不超过 20km&lt;/li&gt;
+&lt;li&gt;感觉得租个 1 室 0 厅，卧室大点不然放电脑的地方都没有&lt;/li&gt;
+&lt;li&gt;卫生间得干湿分离&lt;/li&gt;
+&lt;li&gt;卫生间不能太旧，不然那马桶有点倒胃口&lt;/li&gt;
+&lt;li&gt;冰箱洗衣机要有&lt;/li&gt;
+&lt;li&gt;厨房倒是无所谓了，我一个人住顶多买点预制菜加热一下&lt;/li&gt;
+&lt;li&gt;最好是民水民电，租不到就只能租公寓了&lt;/li&gt;
+&lt;li&gt;预算 2k&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 26 Aug 2023 05:06:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968445#reply0</guid></item><item><title>[宽带症候群] aws 日本到 akamai 日本延迟问题</title><link>https://www.v2ex.com/t/968443#reply0</link><description>&lt;p&gt;大概一周前开始，从 aws 日本到 akamai 日本（包括旗下的 linode 日本） cdn 的节点，有的 ping 延迟能有 50ms 以上，有的虽然 ping 延迟只有 1ms 左右，但 tcp 连接仍然需要 50ms 以上，速度非常慢，这还是日本国内连接日本国内，搜了下好像没人讨论这个问题，想给 aws 提工单发现账号等级不支持工单
+目前去给 linode 提了工单，但大概他们也没能力解决吧……akamai 的网络真是太怪了&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 05:01:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968443#reply0</guid></item><item><title>[Apple TV] 刚买 appletv 有什么软件推荐吗</title><link>https://www.v2ex.com/t/968441#reply6</link><description>&lt;p&gt;东西明天到.
+目前只想到 infuse pro
+还有什么软件推荐吗&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:36:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968441#reply6</guid></item><item><title>[macOS] 请问 macOS 13.4.1 版本有安装第三方电池优化软件的必要吗？</title><link>https://www.v2ex.com/t/968440#reply1</link><description>&lt;p&gt;新的 macbook pro 使用了一个月，发现使用外接电源的时候充电会固定在 80 ，
+请教大家在这种情况下是否使用系统自身的电池充电优化就足够了吗？是否还有需要安装其它的优化软件？&lt;/p&gt;
+&lt;p&gt;非常感谢！&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:32:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968440#reply1</guid></item><item><title>[问与答] 独立开发者如何盈利</title><link>https://www.v2ex.com/t/968439#reply3</link><description>做了几个产品收入都为零</description><pubDate>Sat, 26 Aug 2023 04:29:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968439#reply3</guid></item><item><title>[macOS] 时间机器备份失败，求助</title><link>https://www.v2ex.com/t/968438#reply0</link><description>20 款 M1 Air ，系统停在 big sur&lt;br /&gt;前几天双系统安装 ventura ，安装前时间机器全盘备份了一次，没有问题&lt;br /&gt;切换回 big sur 后再备份就开始报错：&lt;br /&gt;	时间机器未完成备份，因为部分文件不可用。备份将在 Mac 解锁后继续。&lt;br /&gt;尝试几次后，备份硬盘占用空间明显变大，但在硬盘上找不到对应的文件&lt;br /&gt;尝试过用磁盘工具修复 big sur 系统盘，参考官方文档 &lt;a href="https://support.apple.com/zh-cn/HT210898" rel="nofollow noopener" target="_blank"&gt;https://support.apple.com/zh-cn/HT210898&lt;/a&gt; ，之后在安全模式下备份还是相同报错&lt;br /&gt;参考过站内相关帖子 &lt;a href="https://www.v2ex.com/t/821609" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/821609&lt;/a&gt; ，通过备份日志定位无法备份的文件，但在日志中并没有找到和文件有关的报错&lt;br /&gt;应该是安装 ventura 导致的问题，但现在没备份不方便卸载和重装系统&lt;br /&gt;想问下各位应该如何解决？</description><pubDate>Sat, 26 Aug 2023 04:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968438#reply0</guid></item><item><title>[iPhone] 快 9 月了，强烈建议预算够上 pro/pro max</title><link>https://www.v2ex.com/t/968437#reply17</link><description>&lt;p&gt;同时使用了 iphone 12 和 13pro ，发现区别比纸面上大的多，以下都是 13 pro 强的地方 &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;续航明显好很多，且电池健康衰减更慢&lt;/li&gt;
+&lt;li&gt;高刷肉眼可见的爽&lt;/li&gt;
+&lt;li&gt;平时不发热，很少发烫，12 就不行了&lt;/li&gt;
+&lt;li&gt;质感好太多，12 外表材质好廉价&lt;/li&gt;
+&lt;li&gt;相机，这个就不多说了 &lt;/li&gt;
+&lt;li&gt;大内存好爽&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其他不明显的我就不提了&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968437#reply17</guid></item><item><title>[git] 关于 git 使用的一些疑问</title><link>https://www.v2ex.com/t/968436#reply5</link><description>&lt;p&gt;过程：
+比如说现在有 dev 分支和 master 分支，
+dev 分支的提交历史：1 ，2 ，3 三个记录
+master 分支的提交历史：1 ，2
+现在生成一个 pull request ，把 3 的记录 merge 合并到 master 上，
+所以现在 master 分支的记录是：1 ，2 ，3 ，Merge pull request ...
+现在分支 dev 上有一个新的提交历史，现在 dev 的记录是：1 ，2 ，3 ，4
+现在生成一个新的 pull request ，把 4 的记录合并到 master 上，
+所以现在 master 的记录是：1 ，2 ，3 ，Merge pull request 1...，4 ，Merge pull request 2...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;以上操作在 github 上没有问题的， 但是在 gitlab 上却有问题，第二次 merge request 的时候会有一个提醒，the source branch is 1 commit behind the target branch&lt;/strong&gt;, &lt;/p&gt;
+&lt;p&gt;请问一下这个提醒是需要提交记录 4 到 dev 分支的时候需要先把 master 的 Merge pull request 1... 这个记录 rebase 或者 merge 到 dev 分支上么，然后后面再次提交记录 4 么，但是这样的话为什么 github 可以不用呢。&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968436#reply5</guid></item><item><title>[程序员] 用过类似 whistle 的朋友 讨论看看有没有更好的配置语法</title><link>https://www.v2ex.com/t/968434#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;从个人使用经历来看, whistle 的配置语法经常 &lt;code&gt;不符合直觉&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;一方面是正则的匹配模式太难记, 每次过 2 天必忘, 虽然语法是简洁了, 但是实际使用效率极低.&lt;/p&gt;
+&lt;p&gt;另一方面, 有些规则仅在特定条件下可用, 比如&lt;code&gt;resReplace&lt;/code&gt;, 仅在 200 响应时会生效. 先不探讨这里面的具体设计出发点, 实际使用时这种 case 真的极难 debug 确认究竟为什么我的规则不生效.&lt;/p&gt;
+&lt;p&gt;思考了一下, 我想探索有没有可能设计一种更优的配置语法, 在简洁高效的同时, 易懂, 符合直觉, 且可以 debug.&lt;/p&gt;
+&lt;p&gt;简单给出了以下一个 demo 版本, 供大家讨论.&lt;/p&gt;
+&lt;h2&gt;配置语法规则&lt;/h2&gt;
+&lt;p&gt;整体设计上保留 whistle 的 &lt;code&gt;pattern: rule&lt;/code&gt; 规则, 使用&lt;code&gt;()&lt;/code&gt;来容纳匹配规则, &lt;code&gt;{}&lt;/code&gt;来容纳匹配之后的各种操作. &lt;/p&gt;
+&lt;p&gt;具体格式表现为&lt;code&gt;(filter) {...operations;}&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;filter&lt;/code&gt;可以放置多组规则, 表现为&lt;code&gt;method:params&lt;/code&gt;形式. 每个规则名对应到实现上可以是一个个独立的&lt;code&gt;function call&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;比如&lt;code&gt;(method:get, url:a.b.c)&lt;/code&gt;意为限定&lt;code&gt;method&lt;/code&gt;是 get 请求, 且 url 域名为&lt;code&gt;a.b. c&lt;/code&gt;的请求&lt;/p&gt;
+&lt;p&gt;同时保留了 whistle 可以声明 data 的特性, 允许直接创建 custom method, 并在匹配规则里使用. 可以参考下方的 demo. 使用的时候可以通过&lt;code&gt;|&lt;/code&gt;符号来要求注入一些关键信息, &lt;code&gt;header&lt;/code&gt; &lt;code&gt;responseBody&lt;/code&gt;等等.&lt;/p&gt;
+&lt;p&gt;匹配之后的操作类似, 在&lt;code&gt;{}&lt;/code&gt;内部声明你的 operation, 多个 operations 使用&lt;code&gt;;&lt;/code&gt;隔开.&lt;/p&gt;
+&lt;p&gt;比如&lt;code&gt;{url:localhost:8080}&lt;/code&gt;表明需要将命中的请求, 转发到&lt;code&gt;localhost:8080&lt;/code&gt;这个地址.&lt;/p&gt;
+&lt;h2&gt;Demo&lt;/h2&gt;
+&lt;p&gt;```js&lt;/p&gt;
+&lt;p&gt;function listenMsg() {&lt;/p&gt;
+&lt;p&gt;window.on('message', evt =&amp;gt; console.log(evt.data))&lt;/p&gt;
+&lt;p&gt;}
+```&lt;/p&gt;
+&lt;p&gt;```js&lt;/p&gt;
+&lt;p&gt;function withCodeOk(header, body) {&lt;/p&gt;
+&lt;p&gt;if (body?.code === 'ok') return true;&lt;/p&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;```&lt;/p&gt;
+&lt;p&gt;```mock.json&lt;/p&gt;
+&lt;p&gt;{&lt;/p&gt;
+&lt;p&gt;"code": -1,&lt;/p&gt;
+&lt;p&gt;"message": "test non-ok code"&lt;/p&gt;
+&lt;p&gt;}
+```&lt;/p&gt;
+&lt;p&gt;// (filter) { ...operations; }&lt;/p&gt;
+&lt;p&gt;(url:a.b.c) { url:127.0.0.1:8000 }
+(url:&lt;a href="http://code.github.com/:path1" rel="nofollow"&gt;code.github.com/:path1&lt;/a&gt;) { url:&lt;a href="http://trap.mock.com/$path1" rel="nofollow"&gt;trap.mock.com/$path1&lt;/a&gt; }
+(url:&lt;a href="http://code.github.com/" rel="nofollow"&gt;code.github.com/&lt;/a&gt;&lt;em&gt;?name=&lt;/em&gt;) { url:&lt;a href="http://trap.mock.com/$" rel="nofollow"&gt;trap.mock.com/$&lt;/a&gt;[1]?rename=$[2] }&lt;/p&gt;
+&lt;p&gt;(&lt;/p&gt;
+&lt;p&gt;method:post, &lt;/p&gt;
+&lt;p&gt;url:*://a.b.c/api, &lt;/p&gt;
+&lt;p&gt;header:content-type=application/json, &lt;/p&gt;
+&lt;p&gt;withCodeOk:header|body&lt;/p&gt;
+&lt;p&gt;) {&lt;/p&gt;
+&lt;p&gt;resBody:mock.json;&lt;/p&gt;
+&lt;p&gt;resStatus:400&lt;/p&gt;
+&lt;p&gt;}&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:20:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968434#reply0</guid></item><item><title>[宽带症候群] 光猫桥接后不能获取 v6 前缀，路由模式下正常</title><link>https://www.v2ex.com/t/968433#reply0</link><description>&lt;p&gt;有使用成都移动宽带的小伙伴吗？
+我的光猫是 H2-2,软件版本 1.3.4 ，现在的问题是如果把光猫改成桥接模式，就无法从移动获取到 v6 前缀，
+改成路由模式就一切正常。这是光猫的问题还是移动的问题？
+问了移动运维，至今没有回应。&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 04:14:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968433#reply0</guid></item><item><title>[问与答] 请问搜狗输入法是从哪个版本开始有截图识别文字的功能的？</title><link>https://www.v2ex.com/t/968432#reply0</link><description>RT 。谢谢！</description><pubDate>Sat, 26 Aug 2023 04:07:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968432#reply0</guid></item><item><title>[Spotify] Spotify 菲律宾新车，今天中午刚开</title><link>https://www.v2ex.com/t/968431#reply0</link><description>缺 3 人，季付 21  联系 wx：dcs1687 ，加好友请标明来意。</description><pubDate>Sat, 26 Aug 2023 04:03:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968431#reply0</guid></item><item><title>[分享创造] 🎁早鸟二期优惠： Mac 剪贴板工具 CleanClip📋 二期版本即将发布，这次离高效更近了一步 🎉</title><link>https://www.v2ex.com/t/968429#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/yx7ozx.png" /&gt;&lt;/p&gt;
+&lt;p&gt;📋 &lt;strong&gt;CleanClip&lt;/strong&gt;：专为 Mac 打造的沉浸式剪贴板管理工具🔧&lt;/p&gt;
+&lt;p&gt;CleanClip 的交互设计原则是高效、简洁、沉浸式。&lt;/p&gt;
+&lt;p&gt;CleanClip 二期新增了更多历史记录查询和搜索，离高效更近了一步！&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;参与团队的 Lattics 产品的桌面版本开发；&lt;/li&gt;
-&lt;li&gt;工作 1 - 5 年，本科以上学历，无需计算机专业背景，但需要对软件技术非常有热情，有较强的自学能力；&lt;/li&gt;
-&lt;li&gt;工作超过 5 年的，如果富有创造力，mindset flexible ，能够灵活且快速地改进工作方法的也可以考虑；&lt;/li&gt;
-&lt;li&gt;精通 JavaScript/TypeScript 、HTML 、CSS ，熟悉 Node.js ；&lt;/li&gt;
-&lt;li&gt;熟悉富文本编辑器 / React / Electron 三者之一的开发经验；&lt;/li&gt;
-&lt;li&gt;深度参与过三个以上前端项目，具备扎实的软件基础和系统思维，并且有良好的编码风格，追求代码执行效率，了解各种数据结构和算法；&lt;/li&gt;
-&lt;li&gt;熟悉 W3C 标准，熟悉主流浏览器特性，对 Web 技术趋势等有较为深刻的理解；&lt;/li&gt;
-&lt;li&gt;了解敏捷开发过程、了解 Scrum 和 DevOps 等软件工程方法和最佳实践；&lt;/li&gt;
-&lt;li&gt;良好的代码阅读能力和英文阅读能力，能阅读并理解英文资料；&lt;/li&gt;
-&lt;li&gt;能够长期的进行远程工作，良好的自我目标管理和自我情绪管理能力，有良好的抗压能力，有团队协作精神，和良好的审美；&lt;/li&gt;
-&lt;li&gt;非常熟悉开源社区，有自己的技术博客或者 github 开源项目，并有深度见解和价值贡献的加分；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;官网：&lt;/strong&gt;&lt;a href="https://clip.macaify.com/" rel="nofollow"&gt;CleanClip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;预览视频：&lt;/strong&gt; &lt;a href="https://clip.macaify.com/videos/search.mp4" rel="nofollow"&gt;https://clip.macaify.com/videos/search.mp4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;以上职位可以享受的福利:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;🚀 二期发布时间&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🕙2023.9.27 20:00&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🎁 早鸟二期福利&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;远程工作，与家人在一起，并且不将自己限定在某个城市和空间，可以自由旅行；&lt;/li&gt;
-&lt;li&gt;目标管理而非时间管理，可以自己更好的平衡工作和生活；&lt;/li&gt;
-&lt;li&gt;可以挑战一切认为不合理或者可以做的更好的地方，拥有很大发言权，团队会倾听你的高见；&lt;/li&gt;
-&lt;li&gt;工作出色会有激励股权，享受团队一起长期携手努力和成长的红利；&lt;/li&gt;
+&lt;li&gt;开放低价的买断价格（ 18 元买断，早鸟一期 12 元）&lt;/li&gt;
+&lt;li&gt;获取方法：官网右上角点击「早鸟二期优惠🎁」&lt;/li&gt;
+&lt;li&gt;时间：当前 - 2023.9.27 23:59&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;可能遇到的挑战:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;🔧 主要功能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;9.19 一期功能（已上线）：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;长期远程工作对自身的沟通能力、理解能力、以及学习能力都是巨大的挑战，因为很多事情需要主动的沟通和交流，以及主动的学习，并非很多人适合；&lt;/li&gt;
-&lt;li&gt;长期的远程工作会带来孤独感，因此更适合已经组建了家庭，并且有着自己广泛兴趣爱好和成熟的社交圈子的人士。&lt;/li&gt;
+&lt;li&gt;一键呼出历史记录&lt;/li&gt;
+&lt;li&gt;呼出位置跟随键盘⌨️输入光标（注意不是鼠标🖱️光标&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;如果对以上职位感兴趣的，欢迎联系我们，请将你的简历发至我们的招聘邮箱: hr#&lt;a href="http://auramarker.com" rel="nofollow"&gt;auramarker.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 15:41:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968392#reply1</guid></item><item><title>[问与答] typora 的主题能跟随系统自动切换吗?没找到配置</title><link>https://www.v2ex.com/t/968391#reply0</link><description></description><pubDate>Fri, 25 Aug 2023 15:29:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968391#reply0</guid></item><item><title>[酷工作] 在这个互联网和 it 业的寒冬，给大伙儿创造生存的路子， [内推/远程工作群] ，不定时发布内推、远程工作</title><link>https://www.v2ex.com/t/968390#reply0</link><description>创建了个内推/远程工作群，帮小伙伴们解决工作问题，不定时发布内推、远程工作&lt;br /&gt;入群请扫码：&lt;br /&gt;&lt;a href="https://myallheadimg.oss-cn-beijing.aliyuncs.com/WechatIMG1866.jpg" rel="nofollow noopener" target="_blank"&gt;https://myallheadimg.oss-cn-beijing.aliyuncs.com/WechatIMG1866.jpg&lt;/a&gt;&lt;br /&gt;加群主微信：&lt;br /&gt;&lt;a href="https://myallheadimg.oss-cn-beijing.aliyuncs.com/WechatIMG3.jpg" rel="nofollow noopener" target="_blank"&gt;https://myallheadimg.oss-cn-beijing.aliyuncs.com/WechatIMG3.jpg&lt;/a&gt;</description><pubDate>Fri, 25 Aug 2023 15:20:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968390#reply0</guid></item><item><title>[问与答] 各位大佬是如何解决 Azure OpenAI 的内容过滤器问题的？</title><link>https://www.v2ex.com/t/968389#reply2</link><description>&lt;p&gt;实在是太敏感了，提交了自定义的申请，也是石沉大海！&lt;/p&gt;
-&lt;p&gt;还有其他不如此敏感的可以用的吗？&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 15:05:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968389#reply2</guid></item><item><title>[iCloud] 开车，土区 ICloud5 人车， 400g 每人， 100 一年，跳车不退，翻车比例退差一人</title><link>https://www.v2ex.com/t/968388#reply0</link><description>&lt;p&gt;开车，土区 ICloud5 人车，400g 每人，100 一年，跳车不退，翻车比例退差一人
-张小龙需 base64 解密
-c2hpZmVpaHVhUw==&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 14:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968388#reply0</guid></item><item><title>[问与答] 大佬们新屋装修，单层 280 平，请问推荐 acap 还是 mesh 呢</title><link>https://www.v2ex.com/t/968387#reply6</link><description></description><pubDate>Fri, 25 Aug 2023 14:56:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968387#reply6</guid></item><item><title>[问与答] 有没有一些好用的 bbs 插件？</title><link>https://www.v2ex.com/t/968386#reply7</link><description>最近打算玩泥巴，补下种植知识，于是刷起 bbs 。&lt;br /&gt; &lt;a href="https://i.imgur.com/CQ2XozP.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CQ2XozP.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;比如这个“水果邦”，回复就一句话，但楼层之间间隔太大了，浏览起帖子要一直滚动，信息密度也太低了，不像 V2 那样编排简洁。&lt;br /&gt;&lt;br /&gt;猜想这里应该玩其他论坛的人也不少，应该有类似的插件？不过我好像在 chrome 商店没找到这个水果邦的插件。&lt;br /&gt; &lt;a href="https://i.imgur.com/ey82DnU.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ey82DnU.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 25 Aug 2023 14:51:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968386#reply7</guid></item><item><title>[问与答] 现在的 ChatGPT Plus 还好用吗？</title><link>https://www.v2ex.com/t/968385#reply5</link><description>&lt;p&gt;最近有点想开通 Plus ，但是之前看到过好几个文章说 gpt4 变笨了
-不知道好不好用，op 用的不多，但偶尔还是有用，20 美元不知道值不值&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 14:43:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968385#reply5</guid></item><item><title>[Apple] 这个弹窗是哪里来的，如何永久消掉？</title><link>https://www.v2ex.com/t/968384#reply4</link><description>&lt;p&gt;不知道从哪天开始就有如下图的弹窗，几乎每天都弹，如何彻底解决？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="IMG_4230.png" class="embedded_image" rel="noreferrer" src="https://x.imgs.ovh/x/2023/08/25/64e8b9b876eb0.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 14:26:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968384#reply4</guid></item><item><title>[.NET] .net 国内已经看不到希望了。</title><link>https://www.v2ex.com/t/968383#reply3</link><description>&lt;p&gt;连 vscode 换个皮改个名字都能被那群蛀虫忽悠走经费。.net 被忽悠进步了信创也是情理之中。 信创内容要求所有医疗等参与信创竞标的两年缓冲时间去改成 java, &lt;/p&gt;
-&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://static.oschina.net/uploads/space/2023/0825/142407_M863_2720166.png" title="图片" /&gt;&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 14:14:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968383#reply3</guid></item><item><title>[职场话题] 在杭州工作了 4 年，感觉每次盛传"不加班"的公司最后都"变质"了</title><link>https://www.v2ex.com/t/968382#reply9</link><description>最早的时候是秋招，当时招银网络科技风评很不错(但我是个菜逼没进)，工资不低加班不多(不太记得了其实，反正至少传说福利很好),但感觉过了半年网上就人人喊打了，上班早加班多工资全在年底发啥的，听说好像还有裁员不知道真假了...&lt;br /&gt;    疫情期间 ZOOM 异军突起，似乎成为了杭州唯一指定外企，但就在前段时间裁员后感觉脉脉上都是负面风评居多了。最近在脉脉上又看到之江实验室裁员的传闻，感觉又是一次企业的"人设崩塌"。&lt;br /&gt;    也许在经济下行的现在这些都是必然的结果，所谓稳定又待遇较高的软件开发企业终究是不存在的？</description><pubDate>Fri, 25 Aug 2023 14:03:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968382#reply9</guid></item><item><title>[问与答] 川普回来了，但是他的筹款网站有点奇怪</title><link>https://www.v2ex.com/t/968381#reply11</link><description>川普被捕，搞了个筹款网站&lt;br /&gt;&lt;br /&gt;网站是用 Rails 做的: &lt;a href="https://secure.winred.com/save-america-joint-fundraising-committee/bf1d23bd52c25ba6" rel="nofollow noopener" target="_blank"&gt;https://secure.winred.com/save-america-joint-fundraising-committee/bf1d23bd52c25ba6&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我奇怪的是筹款资金为什么是从$24, $47 开始，为什么不是整数？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/ReWkiCv.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ReWkiCv.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 25 Aug 2023 13:34:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968381#reply11</guid></item><item><title>[硬件] 24 寸 1080P 显示器这么拉， PPI 还不如 42 寸电视</title><link>https://www.v2ex.com/t/968380#reply5</link><description>&lt;p&gt;要买新的显示设备，就算了一下常见显示设备的 PPI ，才发现最大众的 24 寸 1080P 不如 42 寸电视，也不如被淘汰的 14 寸笔记本&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;尺寸&lt;/th&gt;
-&lt;th&gt;分辨率&lt;/th&gt;
-&lt;th&gt;PPI&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;1080P&lt;/td&gt;
-&lt;td&gt;91&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;42&lt;/td&gt;
-&lt;td&gt;2160P&lt;/td&gt;
-&lt;td&gt;105&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;1440P&lt;/td&gt;
-&lt;td&gt;108&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;14&lt;/td&gt;
-&lt;td&gt;768P&lt;/td&gt;
-&lt;td&gt;111&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;31.5&lt;/td&gt;
-&lt;td&gt;2160P&lt;/td&gt;
-&lt;td&gt;140&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;15.6&lt;/td&gt;
-&lt;td&gt;1080P&lt;/td&gt;
-&lt;td&gt;140&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;2160P&lt;/td&gt;
-&lt;td&gt;163&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;24&lt;/td&gt;
-&lt;td&gt;2160P&lt;/td&gt;
-&lt;td&gt;183&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Fri, 25 Aug 2023 13:21:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968380#reply5</guid></item><item><title>[Telegram] telegram，登陆美区 ID，用国内手机号注册的，前几天被封了，但是第二天就解封了，现在收不到验证码？</title><link>https://www.v2ex.com/t/968378#reply4</link><description>&lt;p&gt;如果去接码平台买手机号然后再绑定，肯定是不行，因为我这个国内的手机号已经解封了，应该是注册状态，我现在就是想解决用国内手机号能够收到验证码的问题，请问这种情况有什么解决方法？&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 13:11:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968378#reply4</guid></item><item><title>[问与答] NAS&amp;固态&amp;机械硬盘购买咨询</title><link>https://www.v2ex.com/t/968377#reply4</link><description>&lt;p&gt;电脑端：&lt;br /&gt;
-2T 固态 x1&lt;br /&gt;
-8T 机械硬盘 x1&lt;/p&gt;
-&lt;p&gt;NAS：&lt;br /&gt;
-目前有公网 IP ，没有玩软路由的打算。只打算用来做电影、音乐还有家庭相册的备份，12T 应该够用了  &lt;/p&gt;
-&lt;p&gt;好久没关注市场，求推荐&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 13:10:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968377#reply4</guid></item><item><title>[ WATCH] 今天我就要黑一波苹果了</title><link>https://www.v2ex.com/t/968375#reply0</link><description>&lt;p&gt;Apple watch s6 一块，前几天突然晚上充电出现温度过高报警，随后无法开机，静置半小时后一切正常并且再充电功能正常。以防万一拍视频留下中间所有现象视频与故障视频。过了几天后突然出现白苹果无法开机，联系直营店并现场告知工作人员，工作人员现场看完现象视频后答复可能是系统故障发回去刷机，今日收到工厂邮件答复：设备存在其他故障导致主板无法开机，此外并无任何说明。联系 400 均不能说明任何原因并全部责任推到直营店要求去现场联系厂家。是手表的政策导致过保设备都没有刷机的权利还是线上客服都没有查询的权利？感觉 10086 的客服权利都比苹果的大。虽然是偶然性事件但是体验极差，连基础的故障原因都不告知，感觉可能以后都不会买手表了。&lt;/p&gt;</description><pubDate>Fri, 25 Aug 2023 13:02:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968375#reply0</guid></item></channel></rss>
+&lt;p&gt;9.27 二期将更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持更多历史记录&lt;/li&gt;
+&lt;li&gt;支持搜索&lt;/li&gt;
+&lt;li&gt;支持暗黑模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🌁 功能截图：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初始状态：&lt;/strong&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/buwuw7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;tab 键展开：&lt;/strong&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/yhfn0v.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pinyin 搜索：&lt;/strong&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/vy87ll.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;预览视频：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9.19 一期功能（已上线）：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1594y1r7nF/?vd_source=49d41f6da6ceddbaeb919efc1f0d9f00" rel="nofollow"&gt;https://www.bilibili.com/video/BV1594y1r7nF/?vd_source=49d41f6da6ceddbaeb919efc1f0d9f00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9.27 本期将更新：&lt;/strong&gt;
+&lt;a href="https://clip.macaify.com/videos/search.mp4" rel="nofollow"&gt;https://clip.macaify.com/videos/search.mp4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;💻 作者 &lt;a href="https://twitter.com/s1ntone/status/1695265667757605098" rel="nofollow"&gt;sintone&lt;/a&gt; 的交互解释：&lt;/strong&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/berpqs.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 03:43:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968429#reply0</guid></item><item><title>[问与答] 经常能看到白胡椒粉和黑胡椒粉卖，但是却没有看到花椒粉？</title><link>https://www.v2ex.com/t/968428#reply10</link><description>胡椒和花椒外形都一样圆圆小小的，也都是功能相近的调味料，为什么花椒通常都是整粒卖的？</description><pubDate>Sat, 26 Aug 2023 03:40:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968428#reply10</guid></item><item><title>[Apple] 我有一个大胆的想法……</title><link>https://www.v2ex.com/t/968427#reply6</link><description>苹果有没有可能把 Touch ID 集成到 Magic Mouse 上呢？感觉比伸手去摁键盘上的 Touch ID 要方便不少。&lt;br /&gt;Just like this👇&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/wX9BU7R.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wX9BU7R.png" /&gt;&lt;/a&gt;</description><pubDate>Sat, 26 Aug 2023 03:36:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968427#reply6</guid></item><item><title>[职场话题] 請問零基礎如何快速學會粵語？</title><link>https://www.v2ex.com/t/968426#reply15</link><description>本人深圳工作，從事 android 開發，想先去香港，再想辦法去其他國家。求各位大佬給點意見和建議。</description><pubDate>Sat, 26 Aug 2023 03:35:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968426#reply15</guid></item><item><title>[Linux] 跨发行版升级</title><link>https://www.v2ex.com/t/968425#reply2</link><description>&lt;p&gt;纯控制台 server 版的 arch linux 有办法升级成 Fedora server 吗？不重装。&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 03:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968425#reply2</guid></item><item><title>[程序员] Obsidian Sync 拼车</title><link>https://www.v2ex.com/t/968424#reply11</link><description>&lt;p&gt;折腾 livesync 总有小问题，决定还是上官方同步服务。&lt;/p&gt;
+&lt;p&gt;搜了好多地方，咸鱼淘宝价格 150 以上，V 站之前有一个车，TG 上的合租完全没找到，所以在这里发个帖子招人，教育优惠单个 vault 85 每年，有需求的联系 &lt;code&gt;hi@&amp;lt;用户名&amp;gt;.net&lt;/code&gt;&lt;/p&gt;</description><pubDate>Sat, 26 Aug 2023 03:25:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968424#reply11</guid></item></channel></rss>
