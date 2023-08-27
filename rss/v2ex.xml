@@ -1,108 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 27 Aug 2023 10:09:22 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 前两天 NatTypeTester 测试是 Full Cone NAT，今天又不行了，这是为啥</title><link>https://www.v2ex.com/t/968668#reply0</link><description>&lt;p&gt;EndpointIndependent&lt;/p&gt;
-&lt;p&gt;AddressAndPortDependent&lt;/p&gt;
-&lt;p&gt;是说联通有些 IP 可以 有些不行？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 10:07:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968668#reply0</guid></item><item><title>[问与答] 出租房内，求一个安全上网的方案</title><link>https://www.v2ex.com/t/968667#reply1</link><description>&lt;p&gt;出租房内有十八般房客，里面有个猫，上面还有 2 个网线接口，我拉了一个超长的网线，接到我的电脑，可以上网，但现在有两个问题&lt;/p&gt;
-&lt;p&gt;一是猫的距离我的房间比较远，网线第二天就被电瓶车压坏了，房间结构无法从顶部接到我的房间，还好我当时为了凑网购免运费买了 2 根。第二个也是我最怕的事情，安全性，如下图，密码是 123456.。。。
-&lt;a href="https://imgse.com/i/pPUtyw9" rel="nofollow"&gt;&lt;img alt="pPUtyw9.png" class="embedded_image" rel="noreferrer" src="https://s1.ax1x.com/2023/08/27/pPUtyw9.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;去附近营业厅问过了，我这个房子已经拉满了，无法在拉用户（貌似这个小区的每个房子拉宽带的用户有上限）。我的需求是网速足够好，因为我比较喜欢打竞技游戏，一点卡顿都无法接受。另外一个是安全性，因为我有时候需要在住处办公。&lt;/p&gt;
-&lt;p&gt;初步的方案是买个无限 wifi ，免插卡的，一个月 33 块钱，但这种无限的东西我担心网速会有卡顿，因为我经常玩服务器在国外的游戏&lt;/p&gt;
-&lt;p&gt;各位有没有比较好的解决方案&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 10:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968667#reply1</guid></item><item><title>[问与答] 技创探 tg 群</title><link>https://www.v2ex.com/t/968666#reply1</link><description>目前作用&lt;br /&gt;&lt;br /&gt;	1 、技术学习交流，前后端，区块链，币圈，android ，自媒体，运营，ui 美工，chatgpt 等 ai ，法律	       专业&lt;br /&gt;&lt;br /&gt;	2 、创业交流，不同行业职业，碰撞交流，刺激产生好的想法&lt;br /&gt;&lt;br /&gt;	3 、接单发单，群里经常会有一些小老板找人接单&lt;br /&gt;&lt;br /&gt;正在推进&lt;br /&gt;&lt;br /&gt;	打造一个合作平台&lt;br /&gt;    &lt;br /&gt;    	1 、平台有众多人才&lt;br /&gt;    &lt;br /&gt;		2 、各方能够按照商定好的合作协议去开展行动&lt;br /&gt;        &lt;br /&gt;		3 、违约的话，有权威小组进行科学地仲裁&lt;br /&gt;        &lt;br /&gt;		4 、平台尽可能去人化的确保上述执行，能靠协议规则的，就不要人去做判断，依靠 web3 等技术&lt;br /&gt;        &lt;br /&gt;	平台应用&lt;br /&gt;	&lt;br /&gt;    	1 、有想法但是没有资源和伙伴的创业者，能快速找到需要的人才，通力合作，完成之后按照他们				商定的方式分发收益，由平台确保他们合作顺利进行以及有纠纷时的协调仲裁&lt;br /&gt;        &lt;br /&gt;        2 、资方可以在平台发布需求，平台连接人才，通力合作，分阶段支付费用给服务方，由平台确保他	  	  		  们合作顺利进行以及有纠纷时的协调仲裁&lt;br /&gt;&lt;br /&gt;最终愿景&lt;br /&gt;&lt;br /&gt;	1 、技术人才，资源，资金，各种要素，汇聚在平台，当有项目时平台统筹协调他们，确保完全的、严格的  		  按照他们商定的协议开展活动&lt;br /&gt;&lt;br /&gt;	2 、平台惠企所有成员，有想法，能够帮助他找人业合作；有技术的，能够帮他找到合适的项目赚钱；追求	   平稳的，平台也会分发一些官方的或者由平台成员发起的，简单小任务，让他们能有个低保&lt;br /&gt;&lt;br /&gt;&lt;a href="https://t.me/web3cq" rel="nofollow noopener" target="_blank"&gt;https://t.me/web3cq&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前成员超过 3000 ，欢迎大家加入革命，共赴时艰</description><pubDate>Sun, 27 Aug 2023 09:59:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968666#reply1</guid></item><item><title>[宽带症候群] 秒杀 fttr 的网络方案</title><link>https://www.v2ex.com/t/968665#reply0</link><description>秒杀 fttr 的网络方案&lt;br /&gt;tplink st5008f v2 8 口全光 10g 三层交换机 800 元&lt;br /&gt;10g 光模块 单模双芯 10km 40 元&lt;br /&gt;10g 光模块 单模单芯 10km 80 元&lt;br /&gt;10g sfp+光口 X1 + 2.5GE 电口 X2 交换机 150 元&lt;br /&gt;10g sfp+光口 X1 + 2.5GE 电口 X4 交换机 200 元&lt;br /&gt;10g sfp+光口 X1 + 2.5GE 电口 X8 交换机 350 元&lt;br /&gt;10g sfp+光口 X2 + 2.5GE 电口 X8 交换机 400 元</description><pubDate>Sun, 27 Aug 2023 09:58:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968665#reply0</guid></item><item><title>[问与答] 怎么“净化”手机号</title><link>https://www.v2ex.com/t/968664#reply2</link><description>手机号注册了太多 App,很多自己也忘记了，号码用了 10 多年，感觉很“臃肿” ，有什么办法能净化吗？</description><pubDate>Sun, 27 Aug 2023 09:51:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968664#reply2</guid></item><item><title>[程序员] 中国移动 NAT 是随机对称型 NAT? 两台移动设备之间是否有办法进行 UDP 打洞?</title><link>https://www.v2ex.com/t/968663#reply1</link><description>&lt;p&gt;同一个 local_addr, 对不同 remote_addr 进行访问, 某些对称型 NAT 是可以猜测出口地址的, 比如电信家宽:&lt;/p&gt;
-&lt;p&gt;访问 xxxx:1234:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2023-08-27 17:25:56 - server/src/main.rs:76 -&amp;gt; Server started on xxxx:1234
-2023-08-27 17:25:59 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2100
-2023-08-27 17:25:59 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2100
-2023-08-27 17:26:01 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2103
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 27 Aug 2023 18:36:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 这么刺激股市是最后的黄昏还是黎明前的霞光...</title><link>https://www.v2ex.com/t/968726#reply3</link><description>&lt;p&gt;1 、减半征收印花税
+2 、阶段性收紧 IPO 节奏
+3 、限制再融资
+4 、扩大融资杠杆比例
+5 、限制大股东们减持&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 18:16:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968726#reply3</guid></item><item><title>[Rust] 多年 C++, 继续深入 C++ 还是 学习 Rust？或是 全都要？</title><link>https://www.v2ex.com/t/968725#reply1</link><description>&lt;p&gt;我主要做 windows 桌面应用开发，有时也会做 web 项目或 electron ，还有些偏底层的项目用到汇编。 &lt;/p&gt;
+&lt;p&gt;目前我对 C++的使用还停留在 17, &lt;strong&gt;20 及以后的新内容尚未学习&lt;/strong&gt;。同时对 c++模板元编程那一套也只停留在简单使用，尚未深入。&lt;/p&gt;
+&lt;p&gt;我本打算开始学习 c++的新内容，但初步了解 rust 后感觉 rust 也挺香，未来新项目也许可以直接用 rust 来写。&lt;/p&gt;
+&lt;p&gt;不过毕竟打工人时间有限, 所以有点纠结。&lt;strong&gt;在 c++已经满足目前工作需要，但新内容尚未学习的情况下，是否有必要花时间先来学一下 rust ？&lt;/strong&gt; 尤其是想到万一要嵌入汇编写 unsafe ，似乎和写 cpp 没什么区别了。&lt;/p&gt;
+&lt;p&gt;（我知道这有点小马过河了，哈哈🐶。但还是想看看大佬们的意见）&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 17:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968725#reply1</guid></item><item><title>[分享发现] 这个北美程序员诈骗我 7000 多元，有人认识吗</title><link>https://www.v2ex.com/t/968724#reply1</link><description>&lt;p&gt;我让这个人在亚马逊上代购 iPhone 并邮寄给我，后来就联系不上了。东西也没拿到。有人认识这个人吗，我现在完全联系不上他&lt;/p&gt;
+&lt;p&gt;各大平台的昵称(微信号也是这个)：Kevgao&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 17:35:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968724#reply1</guid></item><item><title>[JavaScript] 请问老哥们，有哪个平台有持续更新前端技术的最新资讯？</title><link>https://www.v2ex.com/t/968723#reply1</link><description>&lt;p&gt;想了解当下关于前端想过的最新资讯，包括但不限于如下几个方面&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;最新的技术流行趋势。类似 [state of js] 的但是持续统计持续更新的平台。&lt;/li&gt;
+&lt;li&gt;最近比较火的或者说用户认可度比较高的开源库。&lt;/li&gt;
+&lt;li&gt;成熟库的最新版本发布。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sun, 27 Aug 2023 17:28:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968723#reply1</guid></item><item><title>[分享发现] 33 岁在东京进行生产资料创作---平凡与稀奇</title><link>https://www.v2ex.com/t/968722#reply5</link><description>&lt;p&gt;附上一个博客地址&lt;a href="https://fffroduct.com/" rel="nofollow"&gt;fffroducut&lt;/a&gt;,现在和未来的文章都会收录其中，其实还有一个已经录好但未剪辑的音频，也会在近期释出。（取决于我不再拖延）&lt;/p&gt;
+&lt;p&gt;这是本系列目前的最后一篇，&lt;strong&gt;我的平凡与稀奇&lt;/strong&gt;，前面两篇主要围绕着长大以后、成长后想做和已经做的事情，本篇会围绕着我是个什么样的人展开，我想交代这些背景信息，可以让大家知道：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如我这般平凡特殊的人，都能勇敢前进，你们有什么不可以呢？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;希望这个帖可以和隔壁&lt;a href="https://www.v2ex.com/t/959091#reply0" rel="nofollow"&gt;30 岁从大厂裸辞全家搬往英国的故事（下）&lt;/a&gt;作为一个对比，人和人之间的差异是非常巨大的，如果隔壁的 op 是从小优秀到大的天之骄子，那我就是&lt;strong&gt;六十分男孩&lt;/strong&gt;，我的样本作为一个下限，他作为一个上限。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="一张海报代表一个月" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/E5uwgSu.jpg" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/7/" rel="nofollow"&gt;伟大与失败&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/%E6%88%91%E7%9A%84%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B8%BA%E5%B0%8F/" rel="nofollow"&gt;成功与渺小&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/%E6%88%91%E7%9A%84%E5%B9%B3%E5%87%A1%E4%B8%8E%E7%A8%80%E5%A5%87/" rel="nofollow"&gt;平凡与稀奇&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;死にたくなった時には下を見ろ。俺がいる。ずっとずっと、ずっと下にいる！&lt;/p&gt;
+&lt;p&gt;想死的时候往下面看看，更底层还有我！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;上面的名言引用于知名 AV 导演&lt;strong&gt;西村透&lt;/strong&gt;，我自知可能只是 V 站下限而已，不至于到那个程度，仅仅引用。&lt;/p&gt;
+&lt;p&gt;如果想要了解之前起源的朋友不妨阅读一下起源：
+&lt;a href="https://v2ex.com/t/959369#reply59" rel="nofollow"&gt;伟大与失败&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1&gt;我的平凡与稀奇&lt;/h1&gt;
+&lt;p&gt;详细的介绍一下自己，在西南某省会城市老城区出生长大，在 26 岁之前几乎都没离开过家乡，这里舒适的天气，让我第一次去广东时就曾发誓：我一辈子都不要离开热爱的家乡（可惜最后食言）。我是一个同性恋、我有先天性疾病、我是一位残障人士、我还是属于&lt;strong&gt;计划生育中的二胎&lt;/strong&gt;。这些颇具冲击性的文字，会在下面展开。&lt;/p&gt;
+&lt;h2&gt;平凡的一生&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;忧伤家庭&lt;/p&gt;
+&lt;p&gt;言简意赅：城市里的穷人。因为家里父母感情不合，妈妈在我考上当地一所第二梯队的高中后便和父亲离婚。且因为父母小时候要讨生活，其实我和哥哥都是被爷爷奶奶带大的，记忆里所有的公园都是奶奶爷爷和我。我的家境一直是同龄人中最差的，其他人父母要么某某证劵公司总经理、要么某某银行支行行长、要么某某军长之类，更有人爷爷是某某市前市长。虽然家境不太行，可作为家中的二孙子，我的童年在我理解里是快乐的，欺负我的人除了亲哥哥之外无他，其他各方面虽说不是溺爱，但也是在宠爱中长大的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;快乐成长&lt;/p&gt;
+&lt;p&gt;我的学习生涯里，几乎没有补过课。唯一一次知识付费是在高考后的日语学习。小学放学非常早，会和同学乒乓球大战 300 回合再回家，以至于现在的业余局里往往还能获胜。到初中，都准时放学，除了偶尔需要守着别人背英语课文，会偶尔晚到 19 点。小学初中我都有一个坏习惯：数学课写语文作业，语文课写数学作业，写完后会给同学参照、他们第二天早上再还给我。也正因如此，回家后都是看各种当年流行的台湾偶像剧，导致现在讲话时偶尔被问：你怎么台湾腔？
+中考后，进入当地一所二梯队高中。高中课业蛮重的，没有办法把作业全都留在学校里，可我也会尽力完成一大半。18 点放学回家写完作业会打一下游戏，也有时候放飞自我去网吧通宵，那些年流行过的网路游戏没有一个是我没打过的。我记忆里的高中，只有到高三的时候周六需要补半天课，高三开了晚自习是自愿参加的，因为不太能负担补课费也就没参与。不过即使能负担，我想我本能上也是不愿意的。且在高考前两个月，每个周日会和友人去网吧打一整天的《精灵》。
+在这种弱强度的情况下，还是踩线的方式上了当地一所二本大学的计算机混杂管理学的专业，毕业时候拿的学士毕业证也是&lt;strong&gt;管理学学士&lt;/strong&gt;。由于大学是在本地念的，还申请成为了走读生。所以摸鱼程度可想而知，整个学习过程一直保持着轻松快乐。&lt;strong&gt;但也有一定的遗憾，因为我觉得我没有上大学&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;轻松工作&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;家乡&lt;/p&gt;
+&lt;p&gt;毕业时校招也拿到两个东北外包企业的 offer ，这可能是唯二来我们学校进行宣讲会的 IT 企业了，也是唯二我参与的校招。不过最后也没去，一个是家长也没放心上，一个是当时在恋爱也没想离开家乡。于是乎毕业后，进入了一家面向政府开发的企业。规定工作时间是：9:00 ～ 17:00 ，实际 10:30 到，11：30 出去吃政府食堂，14:30 开始下午的工作，16:30 准备离开单位。在这一期间补了非常多的日剧、番剧。我好像在上班，又感觉没在上班。可对应的是低薪水和没前途。&lt;/p&gt;
+&lt;p&gt;之后便是从 JAVA 转换成 C#，进入当地一家电商企业。这家电商企业是我们那里当时唯一能和互联网沾边的企业、甚至现在也是。薪水自然也翻番。后面激发我离职有两件事：其一，某日办公室只有我一个人加班到 9 点（其他人 17:50 准备打卡，18:01 整办公室人员就为 0 ），周围都黑灯瞎火、委屈到哭了。其二，不小心拿到生产数据库密码查询到全员薪水，就算努力做到部门经理，薪水也就 1W ，当时一线城市 IT 企业起薪就是 1W 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;深圳&lt;/p&gt;
+&lt;p&gt;之后便是小镇青年犹如陈焕生进城一般，去到了&lt;strong&gt;深圳&lt;/strong&gt;。去深圳原因有二，其一是我选择做 IT 了，我不得不离开家乡。其二，当时刚好又在恋爱，对象在深圳。深圳给我的初印象是高新园 18 点 30 犹如丧尸般的人流、每天出门回家必定湿透的衬衫，恨不得每天洗十次澡。每每面对这种恐怖人流，我都选择步行两个地铁站，走路回到出租屋。在深圳面试时，我也很谨慎：绝不进入需要加班的企业，于是选择了一家做 ToB 的企业，由于企业性质几乎也是不加班的，薪水也翻番了，虽然这算是国内技术移民带来的收益上涨，可总体生活质量是低于原家乡的。本打算好好待在这里，养精蓄锐攒钱出国。可计划不如变化快，该企业开始发力互联网了，工作节奏和时长也变得令我非常难受。不过奈何我非常之认可当时企业的产品、技术以及我的领导本人。也就一直待了三年，直到我觉得再继续下去我一定会抑郁，便离职。这个企业的魅力在于真实地运用了我在《 CLR via C#》中看到的非常多内容，无论是依靠 AppDomian 实现的动态编译，各种设计模式、自研 ORM 、SOA 等等。可以说这个企业给我技术方面非常多的成长。奈何自己实在体力不支，无奈离开。&lt;/p&gt;
+&lt;p&gt;再来讲讲我领导本人：他是一个强 push 的人。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;比如他一天给我派了双倍于别人的活，在我全部完成后他依然会继续派活给我。&lt;/li&gt;
+&lt;li&gt;比如曾经某一个七夕，在打车去约会的路上，和他汇报一个未完成的小工作，他让我吃完饭回公司继续做，等他飞机凌晨 1 点落地，他来公司继续搞定。（这个任务在另外一个领导的介入下推迟到次日）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;于是便辞职了，再之后便是 2020 年，已经考过 N2 准备为赴日做最后冲刺，结果人算不如天算，疫情来了。便选择进入了一家外包企业，这次的选择带来的是 30%涨薪和每天 9 点上班 18 点下班。就这样快快乐乐点躲避三年，最后还是来到了东京。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;小概率的稀奇&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;同性恋：人群中的 4%&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;人，生而无趣
+但，人生有趣。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;访问 xxxx:9999:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2023-08-27 17:25:52 - server/src/main.rs:76 -&amp;gt; Server started on xxxx:9999
-2023-08-27 17:25:59 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2101
-2023-08-27 17:26:01 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2104
-2023-08-27 17:26:02 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.113.51.76:2108
+&lt;p&gt;同性恋是与生俱来的，在 16 岁突然意识到之后。便把小时候的一切果找到根本的因，无论是喜欢混在女孩堆里，还是和男孩子在一起时偶发的羞怯。能做的，便是理解一切坦然接受。这件事让我理解我，是人群里 4 ％少数群体。并没有颠覆生活状态，反而是在除家人和工作环境外全出柜下的理解与支持。也令我接触到形形色色的同性恋人群，想必也给无聊人生带来一点躁动。在我看来，国内对同性恋的生存环境不好不坏，虽说近年来各种各样的政策都在缩紧，可是整体环境都在缩并不只针对特殊群体。我的结论是（只代表我）：国内是不压迫、不迫害、不协助、不承认、不管不顾状态。我起初想要出国的原因或许是因为同性恋这件事，想要获得法律认可之类。可在长大成年后，经历过太多事情，无论是父母离异、同学结婚离婚、以及渣男朋友的吃里扒外，还是自己惨淡收场的感情。也更加理解“从一而终”之难，渐渐也对婚姻和法律的保障感到没有意义。也正因如此十多年过后我出国的目的就是单纯的&lt;strong&gt;想要获得不同国家的居住体验，不让国籍和语言成为制约&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;人群中的 0.05% &amp;amp; 关于残障这件事&lt;/p&gt;
+&lt;p&gt;自我析构，解剖在网路上是一件危险的事情。这一部分也是全系列中最难写的，里面会触及到所有对象最终的 object 父类，你知道及理解其所在，却永远不会直接去触碰、深挖和重构它。&lt;/p&gt;
+&lt;p&gt;关于为何要使用“残障”而非“残疾”呢？这是因为它只是一个“障碍”而非一种“疾病”。说到疾病的话，算幸运的是我只是患有一种叫做“先天性尺桡骨骨性融合”的疾病，概率是万分之五。我并不是先天性残障，而是在小时候想要修复上述疾病时，导致成为可以申请残障手册的身体。幼儿时期许多记忆都模糊，可我一辈子都无法忘记从手腕处在没有麻醉下取出钢针时哭的撕心裂肺，也记得消毒水和医院食堂独有气味。&lt;/p&gt;
+&lt;p&gt;残障呢，在初中到大学时期是困扰我的一个问题。初次爆发是在初一，一个同学因我取笑我的残障而也因此和他大干一架，之后我便一直穿着长袖，从来都不把残障的本体展示在人们面前。好在家乡气候非常好，即便夏天也可以穿薄外套。现在想来真的可笑至极，这就是我自己的&lt;strong&gt;掩耳盗铃&lt;/strong&gt;，那件薄外套作为保护壳却只能掩盖脆弱的内心。到深圳之后，奈何天气过热，便抛弃外套，也进化成另外的自己，&lt;strong&gt;你所有的缺憾在克服后都会成为你的武器&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;一味的埋怨无法解决任何事情，你必须去接受原本的自己。并在当前条件下去选择最优解。比如随着经济的进步无论是中国还是日本都对残障人士有着非常多的优待（申请到　残疾证||障害者通帳），但这些优待是来自己阅读这篇文章各位的税金，所以听我说谢谢你，真情实感的感谢大家和政府。有社会责任感的 S 级别私企也在不断完善这方面的建设，比如耳熟能详的 Google 和 Microsoft 都有针对残章人士的项目，Google 是 Greach 项目。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;二胎视角&lt;/p&gt;
+&lt;p&gt;没错我是城市里出生长大的二胎，除了偶尔出现的双胞胎外，从小到大周围都是独生子女。而我是稀少的二胎。这一点让我变得很不一样。在前文中提到过我很少一个人做任何事情，因为成长经历中都有一个和你形影不离的亲人。我哥哥接触什么，我便能接触什么，在小时候我的实际物理年龄会被迫和哥哥同步，对于事物的认知一直便是超龄与同龄人。不过长大后，大家的生活便南辕北辙。我是属于有多远走多远，而他呢则留在家乡。这也正是无论是所谓的传宗接代、照顾父母、人情世故问题，都于我不是问题。但其实即使我是独身子女我还是会远赴他乡的，以上问题都有解决方案，无法就是时间和金钱的算数罢了。&lt;/p&gt;
+&lt;p&gt;哥哥的人生和我也截然不同，早早毕业、早早工作、早早结婚生子，早早看透&lt;strong&gt;打工是没有任何希望的&lt;/strong&gt;。早早便于家中进行独立文学写作（网路小说），他还算是有一定天赋吧，毕竟写的小说还是进入了起点文学的首页 Banner 栏，每年似乎只有&lt;strong&gt;365&lt;/strong&gt;本可以上到那个位置。我想我会像 Theodorus "Theo" 支持他哥哥一样，支持他。毕竟我在深圳全款买房的希望可在他身上啊！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;每一个人人都是世界上绝无仅有的玫瑰，相信我宝贵的人生经验和独特的人生视角，假如搞文化创作必定可以给大家带来全新不一样的视觉。与其整日成为别人的生产资料，不如自己去做创作生产资料的人，这个时代必定不会亏待内容创作者。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;写在最后：&lt;/p&gt;
+&lt;p&gt;我曾思考过，同性恋和残障到底哪一件事对我影响更大。可它们都只是人生的底色，在白纸上赋予这两种特质，而伴我前行。那么多年下来，也只是在平凡人生里，自我赋予的无意义标签罢了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="我与富士山" class="embedded_image" rel="noreferrer" src="https://imgur.com/OWQLHeQ.jpg" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[《 Silent Majority 》]( &lt;a href="https://www.youtube.com/watch?%E3%80%8B" rel="nofollow"&gt;https://www.youtube.com/watch?》&lt;/a&gt; v=3K-ahjxy2pE)&lt;/p&gt;
+&lt;p&gt;这是一首来自日本欅坂 46 的出道曲。少女们铿锵有力地向成年人们控诉着他们的沉默。她们出道便大爆，正是因为出道曲便有别于其他还在唱元气满满标准偶像歌曲的组合。这首歌也发人深省：到底是选择随波逐流、还是去选择做羊群里的黑羊。&lt;/p&gt;
+&lt;p&gt;君は君らしく生きて行く自由があるんだ&lt;/p&gt;
+&lt;p&gt;大人たちに支配されるな &lt;/p&gt;
+&lt;p&gt;初めから そうあきらめてしまったら &lt;/p&gt;
+&lt;p&gt;僕らは何のために生まれたのか？ &lt;/p&gt;
+&lt;p&gt;夢を見ることは時には孤独にもなるよ &lt;/p&gt;
+&lt;p&gt;誰もいない道を進むんだ &lt;/p&gt;
+&lt;p&gt;この世界は群れていても始まらない &lt;/p&gt;
+&lt;p&gt;Yesでいいのか？ &lt;/p&gt;
+&lt;p&gt;サイレントマジョリティー&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Sun, 27 Aug 2023 17:04:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968722#reply5</guid></item><item><title>[Go 编程语言] go 语言 for 循环多层嵌套怎么用递归函数实现？</title><link>https://www.v2ex.com/t/968720#reply1</link><description>&lt;p&gt;大佬们好，go 语言 for 循环多层嵌套怎么用递归函数实现，小弟谷歌很久都不知道怎么实现。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;func add(n int){
+		//n 嵌套次数，比如嵌套两次
+    	for i:=0;i&amp;lt;len(s);i++{
+    		for k:=0;k&amp;lt;len(s);k++{
+        		...
+    		}
+    	}    
+	}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;但是中国移动测试下来, 似乎是对 remote_addr 进行了哈希, 随机分区:&lt;/p&gt;
-&lt;p&gt;访问 xxxx:1234:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2023-08-27 17:29:01 - server/src/main.rs:76 -&amp;gt; Server started on xxxx:1234
-2023-08-27 17:29:37 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:6039
-2023-08-27 17:29:41 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:6039
-2023-08-27 17:29:42 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:6040
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;访问 xxxx:9999:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2023-08-27 17:28:18 - server/src/main.rs:76 -&amp;gt; Server started on xxxx:9999
-2023-08-27 17:29:39 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:51701
-2023-08-27 17:29:42 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:51702
-2023-08-27 17:29:44 - core/src/server.rs:77 -&amp;gt; [STUN] connection accepted: addr=x.136.53.79:51703
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这就导致 STUN 不起作用, 如何破敌?&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 09:35:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968663#reply1</guid></item><item><title>[NAS] H 群晖， 6.23，硬件用的 GEN8，原来用的 3T 做系统盘，现在数据盘都升级到 8T 以上了，系统盘怎么更换？</title><link>https://www.v2ex.com/t/968662#reply0</link><description>&lt;p&gt;尝试：
-1 ，用 1 个 8T 与原有系统盘做 RAID1 ，
-2 ，把原系统盘 3T 撤下来，在用另一块 8T 组 RAID1 。&lt;/p&gt;
-&lt;p&gt;当前做到第一步了，已经 72 小时+了，重建过程刚 50%。。。。。。。&lt;/p&gt;
-&lt;p&gt;请问：
-1 ，使用组 RAID1 的方式替换系统盘是否可行？
-2 ，RAID1 的重建这么慢么，是否有其他方法，谢谢。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 09:35:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968662#reply0</guid></item><item><title>[程序员] QT 授权费用大概多少钱，各位老板了解过么？</title><link>https://www.v2ex.com/t/968661#reply0</link><description>公司打算用 QT 做一款免费软件，不开源。。。这样如何购买授权呢？国内有代理么？</description><pubDate>Sun, 27 Aug 2023 09:35:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968661#reply0</guid></item><item><title>[程序员] nslookup 与 ping 解析出来的域名不一致的问题？为什么 ping 解析出来的 ip 为保留 ip 地址？</title><link>https://www.v2ex.com/t/968658#reply2</link><description>&lt;p&gt;我在 windows11 的命令行窗口下 分别执行  ping &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt;  和  nslookup &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt;&lt;br /&gt;
-对 &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt; 的解析不一样。
-在 ping 之前 我看了 hosts 中没有对 &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt; 的解析 也执行过 ipconfig /flushdns 。&lt;/p&gt;
-&lt;p&gt;ping 的结果如下：
-PS C:\Users\wswg2&amp;gt; nslookup &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt;
-Server:  dns.google
-Address:  8.8.8.8&lt;/p&gt;
-&lt;p&gt;Non-authoritative answer:
-Name:    &lt;a href="http://www.a.shifen.com" rel="nofollow"&gt;www.a.shifen.com&lt;/a&gt;
-Addresses:  14.119.104.254
-14.119.104.189
-Aliases:  &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PS C:\Users\wswg2&amp;gt; ipconfig /flushdns&lt;/p&gt;
-&lt;p&gt;Windows IP Configuration&lt;/p&gt;
-&lt;p&gt;Successfully flushed the DNS Resolver Cache.
-PS C:\Users\wswg2&amp;gt; ping &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Pinging &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt; [127.201.0.113] with 32 bytes of data:
-Reply from 127.201.0.113: bytes=32 time&amp;lt;1ms TTL=128
-Reply from 127.201.0.113: bytes=32 time&amp;lt;1ms TTL=128
-Reply from 127.201.0.113: bytes=32 time&amp;lt;1ms TTL=128
-Reply from 127.201.0.113: bytes=32 time&amp;lt;1ms TTL=128&lt;/p&gt;
-&lt;p&gt;Ping statistics for 127.201.0.113:
-Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-Minimum = 0ms, Maximum = 0ms, Average = 0ms&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 09:01:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968658#reply2</guid></item><item><title>[分享发现] 排水的实时数据</title><link>https://www.v2ex.com/t/968657#reply4</link><description>&lt;p&gt;&lt;a href="https://www.iaea.org/topics/response/fukushima-daiichi-nuclear-accident/fukushima-daiichi-alps-treated-water-discharge/tepco-data" rel="nofollow"&gt;https://www.iaea.org/topics/response/fukushima-daiichi-nuclear-accident/fukushima-daiichi-alps-treated-water-discharge/tepco-data&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 08:58:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968657#reply4</guid></item><item><title>[OpenAI] 现在国内的卡可以开 Plus 了？？</title><link>https://www.v2ex.com/t/968656#reply0</link><description>招行 MasterCard ，之前一直 deny ，今天随手点了一下，怎么就付款成功了？？？&lt;br /&gt;（上次在 link 上绑了这个卡和美国手机号，这次 optional 里把手机上填上了，会是这个原因吗？？）</description><pubDate>Sun, 27 Aug 2023 08:55:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968656#reply0</guid></item><item><title>[问与答] 用户首页需要查的内容比较多，每块都要单独查出来、都需要一次 rtt，有什么方式可以一次 rtt 就能查出全部内容呢</title><link>https://www.v2ex.com/t/968655#reply1</link><description></description><pubDate>Sun, 27 Aug 2023 08:55:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968655#reply1</guid></item><item><title>[问与答] Python 打包的程序，如何解决自动更新的问题</title><link>https://www.v2ex.com/t/968653#reply2</link><description>用 wxpython 做的 GUI ，cx_freezen 打包的程序，新版本程序压缩为 7z 放在服务器，本地程序检测到有新版本，下载 7z 后就没法正常解压（因为解压的功能也依赖于打包出来的这个环境，没法覆盖这个环境，并且 update.exe 也没法解压压缩包里面的 update.exe ）&lt;br /&gt;&lt;br /&gt;现在能想到的办法有两个&lt;br /&gt;1 ，复制一份环境到%temp%，然后由临时目录的程序来解压&lt;br /&gt;2 ，用别的语言（如 c#）做更新功能的程序。&lt;br /&gt;&lt;br /&gt;感觉两种方法都不美，有没有更完美的方案？？</description><pubDate>Sun, 27 Aug 2023 08:14:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968653#reply2</guid></item><item><title>[问与答] 骑电动自行车的时候，如果左手想进行语音输入（按一下语音输入的按键），如何拿手机</title><link>https://www.v2ex.com/t/968651#reply7</link><description>&lt;p&gt;我想问一下大家，骑电动车的时候，我是想左手拿着手机，然后当我有需要的时候，我左手需要按一下手机屏幕上的语音输入键，进行语音输入。&lt;/p&gt;
-&lt;p&gt;右手还是保持控制油门的状态。&lt;/p&gt;
-&lt;p&gt;因为左手还要管后轮刹车，所以不太想仅仅使用右手。&lt;/p&gt;
-&lt;p&gt;请问大家是怎么左手拿手机的？同时要兼顾左手抓着手机，某个手指要按一下屏幕上的按钮。我在考虑是否去买个贴在手机壳后面的指环装置，不知道是否有用？&lt;/p&gt;
-&lt;p&gt;谢谢！&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 08:10:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968651#reply7</guid></item><item><title>[Python] Python 依赖管理：如何避免忘记 pip freeze？</title><link>https://www.v2ex.com/t/968650#reply7</link><description>&lt;p&gt;嘿大家好，我是个 Python 新手，也搞过一点前端。在前端，我用 npm 装包，它会自动更新 package.json ，非常方便。&lt;/p&gt;
-&lt;p&gt;但在 Python 里，我用 venv 和 pip ，每次提交代码之前都得手动运行 pip freeze 。这步我经常给忘了，感觉我这个流程可能有问题。&lt;/p&gt;
-&lt;p&gt;你们是怎么管理依赖的？有没有什么办法能自动更新依赖列表，像 npm 那样？期待听到大家的建议和经验。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 07:58:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968650#reply7</guid></item><item><title>[问与答] [黑苹果]网上卖的白果三码，这种是报废机器上真机序列号吗？</title><link>https://www.v2ex.com/t/968649#reply4</link><description>手头有硬件想组台黑果，看到有店铺卖白果三码，好奇这种码的来源是哪里？还是用工具生成的？</description><pubDate>Sun, 27 Aug 2023 07:48:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968649#reply4</guid></item><item><title>[Apple] 2023 降噪耳机选型求助，请 AirPods 和非 apple 耳机双持的小伙伴帮忙看看</title><link>https://www.v2ex.com/t/968648#reply1</link><description>&lt;p&gt;目前有两幅 TWS 耳机，AirPods2 和 OPPO W51 ，最近 W51 通话坏了，想换个非 apple （包括 beats ）的降噪 TWS ，但是选购问题上很头痛，因为现在手上的 W51 还有个问题就是连接 iPhone 听歌时，最小的音量要比 AirPods 最小音量听起来声音大很多，安静的环境里非常炸耳，我在网上查找过相关问题，发现大多数的非 apple 耳机都有此现象，所以请大家伙帮忙看看，有没有连 iPhone 最低音量跟 AirPods 差不多的降噪 TWS 耳机推荐，预算 1000 以内，感谢！&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 07:34:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968648#reply1</guid></item><item><title>[问与答] 群晖查找局域网设备的原理？</title><link>https://www.v2ex.com/t/968647#reply2</link><description>&lt;a href="https://finds.synology.com/" rel="nofollow noopener" target="_blank"&gt;https://finds.synology.com/&lt;/a&gt; ， 通过该网站可以查询附近的 nas? 这个是什么原理？ &lt;br /&gt;&lt;br /&gt;目前我了解到的是，浏览器基本没有办法通过 mDns 相关协议支持，并且 wasm 也不支持 udp/tcp 。 大佬有对这方面了解的？</description><pubDate>Sun, 27 Aug 2023 07:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968647#reply2</guid></item><item><title>[职场话题] 31 了， 965offer 底薪比原公司高三分之一，另一家 996offer 开的比原公司高大概一倍，选哪个？</title><link>https://www.v2ex.com/t/968646#reply15</link><description>&lt;p&gt;离职在家的这段时间一直思考未来十年我要咋过，如何度过以后的中年危机，除了写代码我还能如何赚钱养家（虽然我还是单身）？&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.zhihu.com/question/283474944" rel="nofollow"&gt;https://www.zhihu.com/question/283474944&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;然病软，想不出所以然&lt;/p&gt;
-&lt;p&gt;或者说过往的人生体验太少导致不知道自己可以做啥事业来让我的人生变得更有意义？&lt;/p&gt;
-&lt;p&gt;这样的话每天早上催你起床的不再是闹铃，而是你想要实现的人生目标。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/7eq_ykaqQ6g?si=2hgG-cGhRvlRvNCH" rel="nofollow"&gt;https://youtu.be/7eq_ykaqQ6g?si=2hgG-cGhRvlRvNCH&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;润？没意思，去国外呆过一段时间，生活其实没国内丰富多彩，再加上不希望以后的孩子成为香蕉人，又灰溜溜回来了。&lt;/p&gt;
-&lt;p&gt;这样的话，只希望于老本行跳个高薪公司哪怕 996 也好，钱多了捂在手心起码心里踏实有底气。&lt;/p&gt;
-&lt;p&gt;965 的话，薪水低是一个方面，另一方面是不知道如何利用 965 多出来的时间来赚钱或者说为未来铺垫（虽然泡妞的时间多了）。&lt;/p&gt;
-&lt;p&gt;各位 v 友咋想的？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 07:29:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968646#reply15</guid></item><item><title>[分享发现] 畅享组网之美：蒲公英 X1 小路由器测评分享</title><link>https://www.v2ex.com/t/968644#reply0</link><description>&lt;p&gt;作为一个数码爱好者，我对网络设备一直很感兴趣，自己打造了一个家庭私有云，配好了 ipv6 外网访问，虽然 ipv6 平时满足我使用需求了，但是也难免不了有些地方无 ipv6 信号，或者家庭网络可能会出现 ipv6 断连的情况，而我家刚好移动带宽。很难申请公网 IP 。刚好最近，我在网上看到了一款有趣的产品：蒲公英 X1 。它原理上是一台小巧的路由器，但同时可以实现内网穿透、网络打印、文件共享等功能，能适应不同的场景需求，且小巧便利。这不正好具备了能实现远程访问家庭私有云的条件吗？于是就下单了一台，想看看究竟能不能花费百元就搭建起一个简易版的 NAS 。今天收到货后，就迫不及待地拆开了包装，来和大家分享一下我的开箱及使用体验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开箱&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;蒲公英 X1 是一个很小巧的路由器，如下图&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img1.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/23/64e60a970278a.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;下图是我的备用机小米 6 ，可以看到比小米 6 还短&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img2.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/23/64e60a971fcf8.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;全家福合影，一个 Typer-c 口的线，X1 的供电是 C 口供电，需要自己配备 5V2A 的电源适配器，我是直接连接上我的 NAS 主机的 USB 口了。还有一个使用说明书和一个小巧的路由器本体。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img3.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/23/64e60a9810cd9.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;X1 配备一个 RJ45 网线接口，一个 Typer-c 供电口，还有一个 USB2.0 口，USB 口可以插一个 U 盘或者转接硬盘盒，接上去秒变 NAS ，当然本人没有这个需求，就不掩饰这个功能，网线接口可以当 WAN 也可以当 LAN 口，取决于你需要的配置，我是当 WAN 口，利用他的 Wifi 刚好能覆盖我家里，这个小巧路由器 Wifi 速率最大支持 150Mbps ，对比现在千兆网络来说差了不少，但是这价格这体型，当个旁路有组个网还是够用的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="4444.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/23/64e60b7ea4882.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;使用体验&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;首先连接 X1 的 WIFI ，进入 &lt;a href="http://oraybox.com" rel="nofollow"&gt;oraybox.com&lt;/a&gt; 会进行初始化&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img5.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eae587a254b.png" /&gt;&lt;/p&gt;
-&lt;p&gt;可以选择上网方式，可以选择动态 IP 静态 IP 拨号 无线桥接等等，无线桥接可以当作 wifi 扩展，也是不错的&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img6.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eae57dd5a03.png" /&gt;&lt;/p&gt;
-&lt;p&gt;初始化完成就进入了蒲公英 X1 的管理界面，层次分明，X1 的功能也是蛮多的，比新版 Tp-link 的界面不知道好多少&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img7.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eae57dd2e9b.png" /&gt;&lt;/p&gt;
-&lt;p&gt;下面是手机连上 X1 的 WIFI 后的测速，X1 是最大速率 150Mbps ，实际我跑到了近 100Mbps ，可能网线或者没配置好的原因，本人实测是没有跑满 150Mbps ，但是也不错了，对于 X1 定位是旁路由，在家庭网络来说，让自己家里 WIFI 信号不好的地方拥有上了 X1 的信号也是很有意义的&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img8.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eae681a6a90.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;组网体验&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;组网功能需要看看教程，蒲公英官方是有通过教程的，我这里是看官方教程摸索的，下图是组网成功后，手机需要下载贝锐蒲公英 APP ，电脑也是需要下载贝锐蒲公英软件，下载之后登录账户就可以完成异地多端组网，随时随时访问家庭网等内网内容。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img9.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eaea80eb719.png" /&gt;&lt;/p&gt;
-&lt;p&gt;下面是我访问我家里的群晖 NAS 的图片，使用移动网络就为了方便演示组网&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img10.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eaeb1fed0b4.jpg" /&gt;
-&lt;img alt="img11.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eaf35f15823.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;组网下载速度，X1 盒子免费是 3 个成员，免费速率限制也比较低，对于传输大文件来说并不适合，但是小文件和远程桌面这些就很吃香了，我下载 NAS 里的一个电影，传输速率可以跑到 800 多 k/s 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img12.png" class="embedded_image" rel="noreferrer" src="https://img.xwyue.com/i/2023/08/27/64eaf35ff1ca1.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;总结&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;所以，如果想配置简单、新手、省心且对于速度要求不高，蒲公英 X1 我还是很推荐的，并且它做为一个备用的远程方案也是不错的，有时出差，想使用家里的服务，我就直接打开蒲公英客户端，就可以在外面无缝调用内网中的服务了，非常实用。还有快速搭建私有云的功能，一个小巧路由器+储存设备就可以快捷搭建私有云的形式，确实在很多时候能够解决很多事情，总之，蒲公英 X1 路由器是一款非常值得推荐的智能路由器，它可以满足我们多种场景下的网络需求和私有云需求，而且价格也很亲民。如果你也对它感兴趣，不妨试试看吧!&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 07:19:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968644#reply0</guid></item></channel></rss>
+&lt;p&gt;比如上面 n 是 2 就嵌套两次，万一嵌套 n 次呢？请问大佬们，怎么实现参数 n 次，循环就嵌套 n 次，怎么用递归函数实现呢？小弟是新手，搞不懂，特意上来请教，感谢大家&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 16:19:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968720#reply1</guid></item><item><title>[推广] The Benefits of LownRain Vacuum Seal Containers for Food</title><link>https://www.v2ex.com/t/968718#reply0</link><description>&lt;p&gt;When it comes to food storage, maintaining freshness and reducing waste are top priorities. LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; offer an innovative solution that keeps food fresh up to five times longer than non-vacuum storage methods. In this article, we will explore the reasons why I recommend LownRain Vacuum Seal Containers, highlighting their ability to preserve flavors and nutrients, reduce food and plastic waste, and provide convenient storage options.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Vacuum Sealed Containers" class="embedded_image" rel="noreferrer" src="https://www.lownrain.com/cdn/shop/files/002.jpg?v=1686910602&amp;amp;width=823" title="LownRain Vacuum Sealed Containers" /&gt;&lt;/p&gt;
+&lt;p&gt;Extended Shelf Life and Cost Savings
+One of the key advantages of LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; is their ability to extend the shelf life of food. By using exclusive Fresh &amp;amp; Save technology, these containers preserve flavors, nutrients, and textures while preventing freezer burn. Compared to traditional storage methods, such as plastic bags or ordinary containers, LownRain Vacuum Seal Containers keep food fresh for significantly longer periods, allowing you to save money by reducing food waste.&lt;/p&gt;
+&lt;p&gt;Reduction in Waste
+In today’s world, minimizing waste is crucial. LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; contribute to this effort by reducing both food and plastic waste. The airtight 1-way valves incorporated into the lids of these containers work in conjunction with the vacuum pump to extract oxygen, effectively creating a sealed environment that extends the freshness of food for up to five days longer in the refrigerator. By reducing spoilage, you can enjoy your favorite meals for longer and decrease the amount of food that ends up in the trash.&lt;/p&gt;
+&lt;p&gt;Convenient and Efficient
+LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; are designed with user convenience in mind. The cordless vacuum pump provided with the containers is fast, quiet, and easy to use. Marinating food becomes a breeze, as the vacuum seal locks in flavors in just 30 minutes, enabling you to prepare delicious meals more quickly. The intelligent lids feature valves where the USB rechargeable pump attaches and removes air from the containers, ensuring a complete and effective vacuum seal. Built-in dimple indicators provide visual confirmation of sealing, while dual snap-lock fasteners enhance the secure fit of the lids.&lt;/p&gt;
+&lt;p&gt;Versatile Container Sizes
+LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; come in a range of sizes, catering to different food storage needs. From storing main entrees like lasagna and pot roast to side dishes such as mashed potatoes and even single leftover servings of mac and cheese, these containers accommodate a variety of food items. The crystal-clear, glass-like construction of the containers allows for easy identification of contents without the need to open them, making meal planning and organization more efficient.&lt;/p&gt;
+&lt;p&gt;Conclusion
+LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; offer numerous benefits for food storage and preservation. With their ability to keep food fresh up to five times longer than non-vacuum storage methods, these containers not only save time and money but also reduce food and plastic waste. The exclusive Fresh &amp;amp; Save technology preserves flavors and nutrients while preventing freezer burn, and the cordless vacuum pump makes marinating faster and more convenient. The intelligent lids and versatile container sizes further enhance the user experience. By choosing LownRain Vacuum Seal Containers, you can savor the flavors of your favorite meals for longer while maximizing your grocery budget and contributing to a more sustainable future.&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 16:03:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968718#reply0</guid></item><item><title>[问与答] 找一个 SOCKS5 本地代理局域网服务端共享软件</title><link>https://www.v2ex.com/t/968717#reply11</link><description>&lt;p&gt;弄了个加速器 ，识别进程名的。浏览器改成游戏的名字可以上网&lt;/p&gt;
+&lt;p&gt;现要找一个 本地 SOCKS5.局域网共享等功能 不需要连接服务器的
+WINDOWS 平台&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968717#reply11</guid></item><item><title>[问与答] 印花税降了，都说是王炸级的利好，我的基金回本有望了吧</title><link>https://www.v2ex.com/t/968716#reply3</link><description>&lt;p&gt;亏着 20 多个点呢。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:34:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968716#reply3</guid></item><item><title>[iCloud] iclou2t 招人 国区可上</title><link>https://www.v2ex.com/t/968715#reply0</link><description>&lt;p&gt;一人 400g  季付 28 元 之前开过一个 给朋友又开了一个  电报 &lt;a href="https://t.me/As840493998" rel="nofollow"&gt;https://t.me/As840493998&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:30:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968715#reply0</guid></item><item><title>[酷工作] 远程岗位——量化工程师 25k/月-32k/月</title><link>https://www.v2ex.com/t/968714#reply0</link><description>公司简介：&lt;br /&gt;BYDFi 是一家致力于为海外互联技术提供解决方案的高科技公司，主要业务为海外移动应用软件的开发等。我们拥抱互联网精神，以人才、技术、产品为中心，深信科技与创新会给客户带来更具价值的服务体验，专注为国际客户提供卓越的服务。&lt;br /&gt;公司在新加坡、日本、台湾等多地设有分公司，团队汇集海内外不同领域的专业人才，涵盖互联网以及金融行业等；能够提供一定海外发展机会。&lt;br /&gt;&lt;br /&gt;职位亮点：远程办公, 入职五险一金，年终奖，节日福利等&lt;br /&gt;&lt;br /&gt;岗位职责：&lt;br /&gt;1 、开发、维护及优化现有做市策略；&lt;br /&gt;2 、趋势、套利策略和信号的开发及优化；&lt;br /&gt;3 、实时监控和分析数据，调整量化策略和模型；&lt;br /&gt;4 、风控系统的维护及优化；&lt;br /&gt;5 、与开发团队合作，持续优化交易基础设施和工具。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1 、数学、金融、计算机或相关理工科本科及以上学历&lt;br /&gt;高频做市相关经验；&lt;br /&gt;2 、熟练掌握 Python 、Java 、C++至少一门编程语言；&lt;br /&gt;3 、需要有交易所项目经验，对量化研究有兴趣 ，工作认真负责。&lt;br /&gt;&lt;br /&gt;候选人加分项：可追溯的量化策略业绩；数学建模竞赛经验。&lt;br /&gt;&lt;br /&gt;附加信息：&lt;br /&gt;工作时间：周末双休&lt;br /&gt;上下班时间：09:30-19:00&lt;br /&gt;&lt;br /&gt;面试方式：视频面试&lt;br /&gt;面试轮数：1-2 轮&lt;br /&gt;&lt;br /&gt;欢迎自荐推荐，简历至邮箱 sunne@dingtalk.com.（投递请注明来自 V2EX ，谢谢！）</description><pubDate>Sun, 27 Aug 2023 15:27:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968714#reply0</guid></item><item><title>[区块链] ethmeta 最新动态</title><link>https://www.v2ex.com/t/968713#reply0</link><description>2023-8-27&lt;br /&gt;&lt;br /&gt;星星之火可以燎原&lt;br /&gt;ETHMeta 拥有地址权益数已达 6282&lt;br /&gt;ethmeta 微信搜索指数已达 15503&lt;br /&gt;ethmeta 相关视频号已达 800&lt;br /&gt;&lt;br /&gt;真正在技术上领先其他所有公链的国产区块链&lt;br /&gt;拭目以待吧&lt;br /&gt;&lt;br /&gt;&lt;a href="https://tracker.eth-metaverse.com/#/" rel="nofollow noopener" target="_blank"&gt;https://tracker.eth-metaverse.com/#/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;对公链赛道感兴趣的可以加入一下&lt;br /&gt;&lt;br /&gt;我的 V：BFMeta_&lt;br /&gt;&lt;br /&gt;备注:V2</description><pubDate>Sun, 27 Aug 2023 15:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968713#reply0</guid></item><item><title>[酷工作] [高优_JAVA 研发] AIGC 团队招募长期远程合作</title><link>https://www.v2ex.com/t/968712#reply0</link><description>Hi 大家好，我们目前在做一款 AI+游戏方向的产品，目标打造 AI Native 的 killer APP ，目前产品已经通过 Alpha 版本完成了需求验证，希望招募对 AIGC 领域有极高的热情，对稳定且高效的工作模式有需求的服务端工程师，JD 如下：&lt;br /&gt;&lt;br /&gt;💻服务端工程师（ AI 产品）&lt;br /&gt;&lt;br /&gt; [主要职责] &lt;br /&gt;负责网页版本产品的服务端和基于 Discord 的原生应用的开发工作。&lt;br /&gt;负责基于图像&amp;amp;文本&amp;amp;声音等 AI 模型能力的工程化开发和实现。&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;熟练掌握 Java 语言，精通 Python 者加分，有良好的编程习惯及逻辑实现能力。&lt;br /&gt;有扎实的网络、存储、操作系统的运用基础，对于常见的工程组件有较为准确和全面的理解，对系统的性能、可用性、扩展性等方面有深刻的理解。&lt;br /&gt;有基于 Discord API 开发经验者，或者基于 LLM or Stable Diffusion 模型进行工程化经验者优先。&lt;br /&gt;优秀的责任心和问题解决能力，具有良好的沟通和团队合作能力。&lt;br /&gt;&lt;br /&gt;👾About Us👾&lt;br /&gt;UNFOLD 是一个基于 GPT-4 、Stable Diffusion 等多种 AI 技术，辅助 UGC 创作的新型互动内容平台。我们希望为每一个用户带来真正千人千面的游戏化体验，打造一个新世代的内容 IP 宇宙。产品优先面向北美和日韩市场出海。团队初创成员均来自于腾讯、字节、网易等互联网大厂，产品&amp;amp;运营经验丰富，曾成功打造出百万用户量级 Z 世代产品。&lt;br /&gt;&lt;br /&gt;我们为你提供：&lt;br /&gt;高效敏捷的合作方式：团队互联网行业经验丰富，让你无需进行低效的沟通工作，只需要专注于自己负责的部分。&lt;br /&gt;有竞争力的薪资：我们提供市场竞争力强的薪资以回馈你的贡献和自驱力。&lt;br /&gt;长期稳定的合作。&lt;br /&gt;&lt;br /&gt;工作方式：可远程合作，每周 4-5 个工作日&lt;br /&gt;&lt;br /&gt;感兴趣的朋友请发送简历到 recruit@solagame.club ，谢谢！</description><pubDate>Sun, 27 Aug 2023 15:24:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968712#reply0</guid></item><item><title>[前端开发] 尝试解决原子化 CSS 框架导致的类名单行过长的问题</title><link>https://www.v2ex.com/t/968711#reply0</link><description>&lt;p&gt;原子化 CSS 框架虽然好用，但是一直以来都有个麻烦的问题，写得太长了怎么办？越来越长这事儿是难以避免的，那应该怎么解决呢？&lt;/p&gt;
+&lt;p&gt;VS Code 可以设置单行强制换行，但如果使用了某个不能强制换行的方式查看代码就很尴尬了，另外也不能指望因为这种事儿让关联的所有人都设置这个属性吧，所以这种方式不是很 OK 。&lt;/p&gt;
+&lt;p&gt;既然不能从输出的代码解决问题，那就得换个思路了，在输入代码的时候就解决这个问题。&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates" rel="nofollow"&gt;Tagged templates&lt;/a&gt; 是个好东西，可以基于此来构造类名的模板字符串，说干就干，于是有了 &lt;a href="https://github.com/yunsii/tagged-classnames-free" rel="nofollow"&gt;&lt;strong&gt;tagged-classnames-free&lt;/strong&gt;&lt;/a&gt;，想叫 &lt;a href="https://github.com/goldenpathtechnologies/tagged-classnames" rel="nofollow"&gt;tagged-classnames&lt;/a&gt;，但是已经被使用了，看起来作者的思路跟我很像，不过我是不太懂为啥他&lt;a href="https://github.com/goldenpathtechnologies/tagged-classnames#known-limitations" rel="nofollow"&gt;不保证输出结果的顺序&lt;/a&gt;，可能是为了性能？&lt;/p&gt;
+&lt;p&gt;我是基于 &lt;code&gt;clsx&lt;/code&gt; 和 &lt;code&gt;tailwind-merge&lt;/code&gt; 分别实现了两个工具函数 &lt;code&gt;cls&lt;/code&gt; 和 &lt;code&gt;tw&lt;/code&gt;，支持了一下&lt;strong&gt;单行注释&lt;/strong&gt;就搞定了。&lt;/p&gt;
+&lt;p&gt;另外还有个&lt;strong&gt;模板字符串格式化&lt;/strong&gt;的问题，重构代码的时候难免会让模板字符串的缩进变化，默认模板字符串是不会自动改变缩进长度的，这使得开发体验不甚理想，搜索一番发现了一个 eslint 的 &lt;a href="https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/template-indent.md" rel="nofollow"&gt;template-indent&lt;/a&gt; 规则，用上问题不就搞定了 😎（虽然之前基于 eslint 还是写了一个格式化插件，但是效果不甚理想，还是现成的舒服）。&lt;/p&gt;
+&lt;p&gt;最后还有另一个值得考虑的问题，如果模板字符串里只有字符串，一点表达式都没有，那完全可以去掉啊，我只是想用模板字符串的格式化功能而已，特别是对于只做 React 开发的我，老是被重复计算完全没意义。于是又搞了一个 unplugin 插件 &lt;a href="https://github.com/yunsii/unplugin-polish-tagged-templates" rel="nofollow"&gt;unplugin-polish-tagged-templates&lt;/a&gt;，可以在编译代码的时候去掉纯字符串的 tagged templates 。&lt;/p&gt;
+&lt;p&gt;至此，应该算是彻底解决了类名过长的问题，从&lt;strong&gt;开发&lt;/strong&gt;和&lt;strong&gt;编译&lt;/strong&gt;两个环节通过三个工具库解决了问题。完整演示可以访问这个页面 &lt;a href="https://tagged-classnames-free.vercel.app/examples" rel="nofollow"&gt;https://tagged-classnames-free.vercel.app/examples&lt;/a&gt; 查看效果，查看按钮的对应的 CSS 字符串源码已经被转换成纯字符串了。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:08:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968711#reply0</guid></item><item><title>[问与答] mac 异响</title><link>https://www.v2ex.com/t/968710#reply2</link><description>&lt;p&gt;mbp2018 突然异响，声音来自键盘那一面右上区间里面，我试过手动拉风扇转速，声音没变化，好像不是风扇的问题，请问大家有遇到这种情况的嘛
+&lt;a href="https://drive.google.com/file/d/1da9kSqpJNiVaqDdr3GY3oTGSrWrWAYXw/view?usp=drive_link" rel="nofollow"&gt;https://drive.google.com/file/d/1da9kSqpJNiVaqDdr3GY3oTGSrWrWAYXw/view?usp=drive_link&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:57:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968710#reply2</guid></item><item><title>[Apple] iOS 怎麼一鍵還原所有 App 的通知設置？</title><link>https://www.v2ex.com/t/968709#reply0</link><description>手機兩百多個軟件，這些年 分別給給不同的 app 設置了，稀奇古怪的通知設置，什麼關閉標記、關閉聲音、分組、橫幅動畫、鎖屏動畫、自己已經分不清了，現在想要一鍵還原成默認的通知設置。&lt;br /&gt;&lt;br /&gt;求解 怎麼做到。</description><pubDate>Sun, 27 Aug 2023 14:51:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968709#reply0</guid></item><item><title>[Python] 求分布式任务队列库推荐</title><link>https://www.v2ex.com/t/968708#reply1</link><description>&lt;p&gt;Celery&lt;/p&gt;
+&lt;p&gt;Dramatiq&lt;/p&gt;
+&lt;p&gt;taskiq&lt;/p&gt;
+&lt;p&gt;samuelcolvin / arq&lt;/p&gt;
+&lt;p&gt;不知道 dalao 们还有其他无推荐的？或者说一下什么情况下，应该要自己写一个。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:42:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968708#reply1</guid></item><item><title>[NGINX] 为什么 nginx 反向代理，并发性能很差？</title><link>https://www.v2ex.com/t/968707#reply8</link><description>&lt;p&gt;前端服务器 和 源站服务器的硬件配置如下，系统是 centos7：&lt;/p&gt;
+&lt;p&gt;CPU：E5-2696V4*2(88 线程)
+内存：64G DDR4
+硬盘：500G SSD （读写 450M/s 左右）&lt;/p&gt;
+&lt;p&gt;前端和后端服务器都用的 nginx ，他俩单独测试并发都没问题。前端反向代理到后端后，正常连接总耗时 200ms ，但并发一旦超过 20 后，就至少有 1~2 个连接耗时超过 1.5 秒，如果加大并发，这种耗时较长的连接数量比例就越高，并发小于 20 后就一切正常。&lt;/p&gt;
+&lt;p&gt;前端服务器和源站服务器之间的网络质量是非常好的，而且基本可以确定不是源站的问题，因为接入 CDN 服务商，用单个 CDN 节点回源进行测试时，并发很高都不会出现耗时变长的情况。&lt;/p&gt;
+&lt;p&gt;我是从 nginx 配置 和 linux 内核参数 来进行优化，做了很多尝试，都没有效果，有遇到类似问题的朋友吗？可否指点一下？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:39:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968707#reply8</guid></item><item><title>[NAS] 影视下载求教。</title><link>https://www.v2ex.com/t/968706#reply12</link><description>&lt;p&gt;下载稍微老一点的电影。 比如：  摩天营救..google 搜索的种子 下载一点速度都没。
+请教下 BT 站里面的种子下载速度快吗？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:39:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968706#reply12</guid></item><item><title>[iPhone] 手机相机色彩还原就那么难吗? 怎么安卓就没哪个可以做到 iPhone 那种程度的色彩还原.</title><link>https://www.v2ex.com/t/968705#reply0</link><description>可能用接触的安卓机比较少, 但是用过的安卓机无非就是两个特点, 快门慢, 手抖照片就糊, 还有就是色彩严重失真, 不管是风景还是人物, 这里头有啥高端的学问吗, 难不成 iPhone 每个摄像头模组和屏幕自己都有出厂色彩校准数据?</description><pubDate>Sun, 27 Aug 2023 14:12:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968705#reply0</guid></item></channel></rss>
