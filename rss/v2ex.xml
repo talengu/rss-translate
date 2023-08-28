@@ -1,156 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 27 Aug 2023 19:58:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 这么刺激股市是最后的黄昏还是黎明前的霞光...</title><link>https://www.v2ex.com/t/968726#reply4</link><description>&lt;p&gt;1 、减半征收印花税
-2 、阶段性收紧 IPO 节奏
-3 、限制再融资
-4 、扩大融资杠杆比例
-5 、限制大股东们减持&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 18:16:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968726#reply4</guid></item><item><title>[Rust] 多年 C++, 继续深入 C++ 还是 学习 Rust？或是 全都要？</title><link>https://www.v2ex.com/t/968725#reply2</link><description>&lt;p&gt;我主要做 windows 桌面应用开发，有时也会做 web 项目或 electron ，还有些偏底层的项目用到汇编。 &lt;/p&gt;
-&lt;p&gt;目前我对 C++的使用还停留在 17, &lt;strong&gt;20 及以后的新内容尚未学习&lt;/strong&gt;。同时对 c++模板元编程那一套也只停留在简单使用，尚未深入。&lt;/p&gt;
-&lt;p&gt;我本打算开始学习 c++的新内容，但初步了解 rust 后感觉 rust 也挺香，未来新项目也许可以直接用 rust 来写。&lt;/p&gt;
-&lt;p&gt;不过毕竟打工人时间有限, 所以有点纠结。&lt;strong&gt;在 c++已经满足目前工作需要，但新内容尚未学习的情况下，是否有必要花时间先来学一下 rust ？&lt;/strong&gt; 尤其是想到万一要嵌入汇编写 unsafe ，似乎和写 cpp 没什么区别了。&lt;/p&gt;
-&lt;p&gt;（我知道这有点小马过河了，哈哈🐶。但还是想看看大佬们的意见）&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 17:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968725#reply2</guid></item><item><title>[分享发现] 这个北美程序员诈骗我 7000 多元，有人认识吗</title><link>https://www.v2ex.com/t/968724#reply1</link><description>&lt;p&gt;我让这个人在亚马逊上代购 iPhone 并邮寄给我，后来就联系不上了。东西也没拿到。有人认识这个人吗，我现在完全联系不上他&lt;/p&gt;
-&lt;p&gt;各大平台的昵称(微信号也是这个)：Kevgao&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 17:35:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968724#reply1</guid></item><item><title>[JavaScript] 请问老哥们，有哪个平台有持续更新前端技术的最新资讯？</title><link>https://www.v2ex.com/t/968723#reply1</link><description>&lt;p&gt;想了解当下关于前端想过的最新资讯，包括但不限于如下几个方面&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 28 Aug 2023 18:28:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Android] 索尼智能电视无法（再次）安装 Clash for Android</title><link>https://www.v2ex.com/t/969031#reply4</link><description>&lt;p&gt;如题。&lt;/p&gt;
+&lt;p&gt;电视型号为大法 X9000H ，目前已经升到了最新的系统版本。&lt;/p&gt;
+&lt;p&gt;21 年刚购入这台电视的时候在出厂系统上安装了 Clash for Android 的某个旧版本，连接一个一直用到今天的机场一直都还算能凑合用。可能是因为机场内部更新的原因，有很多在同一个网络环境下电脑能连上的节点用电视就连不上，所以打算更新一下电视端的 Clash 客户端到最新版本来解决问题。&lt;/p&gt;
+&lt;p&gt;我的操作：按照当时的方法下载了最新版 universal 版本的 Clash for Android 安装包，放到 U 盘中试图让电视自己安装，然后电视自带（也是最开始使用）的“应用助手”显示”应用未安装“。强制停止运行中的 Clash/重启电视/插拔 U 盘 重试多次均无果&lt;/p&gt;
+&lt;p&gt;然后就到了我手贱的时候：我把原有的虽然不咋好用但能凑合用的旧版本删掉了😂结果发现按原来的操作依然安装不上&lt;/p&gt;
+&lt;p&gt;于是我祭出了 adb 大法，发现安装不成功居然是一个存储空间不足的报错，但我查看电视自己显示还有 200 多 M 的剩余空间，安装一个 10MB 左右的 Clash 怎么都应该是绰绰有余的...&lt;/p&gt;
+&lt;p&gt;我还把安装包 push 到电视机本地，试图不使用 streaming 的方式安装，仍然不行（以下是截图）&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/a/QZc2xfa" rel="nofollow"&gt;https://imgur.com/a/QZc2xfa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我已经确定这台电视只支持 armv7 版本的安装包，同时确保 apk 是从开发者 GitHub Releases 页面下载的，包本身不会有问题&lt;/p&gt;
+&lt;p&gt;求问各位大佬有没有啥办法🙏 不然我就得把家里吃灰的 R6300 拿出来刷 OpenWrt 折腾半天了...&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 16:49:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969031#reply4</guid></item><item><title>[问与答] 公司法修订草案：规定有限责任公司认缴出资额应当自公司成立之日起五年内缴足</title><link>https://www.v2ex.com/t/969030#reply2</link><description>&lt;p&gt;本次审议的草案三次审议稿作如下主要修改：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;最新的技术流行趋势。类似 [state of js] 的但是持续统计持续更新的平台。&lt;/li&gt;
-&lt;li&gt;最近比较火的或者说用户认可度比较高的开源库。&lt;/li&gt;
-&lt;li&gt;成熟库的最新版本发布。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 27 Aug 2023 17:28:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968723#reply1</guid></item><item><title>[分享发现] 33 岁在东京进行生产资料创作---平凡与稀奇</title><link>https://www.v2ex.com/t/968722#reply5</link><description>&lt;p&gt;附上一个博客地址&lt;a href="https://fffroduct.com/" rel="nofollow"&gt;fffroducut&lt;/a&gt;,现在和未来的文章都会收录其中，其实还有一个已经录好但未剪辑的音频，也会在近期释出。（取决于我不再拖延）&lt;/p&gt;
-&lt;p&gt;这是本系列目前的最后一篇，&lt;strong&gt;我的平凡与稀奇&lt;/strong&gt;，前面两篇主要围绕着长大以后、成长后想做和已经做的事情，本篇会围绕着我是个什么样的人展开，我想交代这些背景信息，可以让大家知道：&lt;/p&gt;
+&lt;li&gt;完善注册资本认缴登记制度，&lt;strong&gt;规定有限责任公司股东认缴的出资额应当自公司成立之日起五年内缴足&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;完善公司民主管理的规定。&lt;/li&gt;
+&lt;li&gt;进一步加强股东权利保护。&lt;/li&gt;
+&lt;li&gt;进一步强化对控股股东和实际控制人的规范。&lt;/li&gt;
+&lt;li&gt;完善公司债券相关规定。六是，完善法律责任相关规定。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href="http://www.npc.gov.cn/npc/c30834/202308/c5fd30f6020d4a1c9c5741908bdcc541.shtml" rel="nofollow"&gt;网址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这可能会推行吗，小公司也太难了吧&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 16:27:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969030#reply2</guid></item><item><title>[Flutter] 关于 flutter build apk 失败</title><link>https://www.v2ex.com/t/969028#reply0</link><description>&lt;p&gt;今天执行&lt;code&gt;flutter build apk&lt;/code&gt;时，说检测不到 Facebook 的 android sdk ，如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;org.gradle.internal.resolve.ArtifactResolveException: Could not determine artifacts for com.facebook.android:facebook-android-sdk:12.2.0: Skipped due to earlier error
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;后面试了其它电脑，可以正常 build ，就这一台不行。&lt;/li&gt;
+&lt;li&gt;于是把 gradle 的 caches 目录改名，实现清缓存的效果。再执行 build ，提示 &lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; 的链接都连不上。&lt;/li&gt;
+&lt;li&gt;build.gradle 的配置中，试过&lt;code&gt;maven { url '&lt;a href="https://maven.aliyun.com/repository/google/'" rel="nofollow"&gt;https://maven.aliyun.com/repository/google/'&lt;/a&gt; }&lt;/code&gt;，不能代替&lt;code&gt;google()&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;搞了半天没弄好 gradle 配置代理，于是 Android 手机开 WiFi ，电脑连上去，实现全局代理。然后 gradle 就能连上 &lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; ，并下载相关 jar 。&lt;/li&gt;
+&lt;li&gt;gradle 重新下载所有 jar 还是太慢，于是把原来的 caches 目录换回来，在全局代理的情况下执行 build ，居然成功了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;疑问：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;那电脑一直都能 build 的，今天突然就不行了。大家有遇到过吗？&lt;/li&gt;
+&lt;li&gt;那错误提示，也没有提到网络链接相关，类似的问题，不是&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; ，以前一直能直连的，而且下载 Android SDK 的速度很快。今天才发现不能直连了，大家也是这样吗？&lt;/li&gt;
+&lt;li&gt;Android 项目的 gradle 如何配置代理？试了很多方法，都不行。例如：shell 的环境变量、设置项目的 gradle.properties 、设置用户文件夹的.gradle/gradle.properties 、设置 gradle 的 JVM 参数。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 28 Aug 2023 16:10:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969028#reply0</guid></item><item><title>[酷工作] [深圳] 创业项目，找技术合伙人</title><link>https://www.v2ex.com/t/969027#reply1</link><description>找技术合伙人，合适者可远程，具体详聊。&lt;br /&gt;如果有意向，可以发我简历，我们详细沟通下。&lt;br /&gt;&lt;br /&gt;微信 b64：Y2hpbGFtMDE4Cg== （ base64 ）&lt;br /&gt;&lt;br /&gt;技术合伙人要求：&lt;br /&gt;1.熟悉前后端开发，有 web 应用开发经验&lt;br /&gt;2.有足够的热情和精力投入到项目&lt;br /&gt;3.有创业精神和有良好的沟通协作能力&lt;br /&gt;4.对 AI 领域有一定的认识或者强烈的学习热情&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;详细介绍：&lt;br /&gt;1.产品是什么？&lt;br /&gt;AI 图像生成领域，具体再详聊。&lt;br /&gt;&lt;br /&gt;2.团队情况&lt;br /&gt;目前团队成员 5 人，&lt;br /&gt;其中后端开发实习 2 名，全职运营 1 名，一位合伙人负责产品&amp;amp;营销（全职），一位合伙人负责运营（全职）&lt;br /&gt;&lt;br /&gt;3.现阶段产品服务的人群是谁？&lt;br /&gt;当下对文生图有实际应用场景，能高效嵌入到当前工作流的用户群。具体详聊。&lt;br /&gt;&lt;br /&gt;4. [项目进度]&lt;br /&gt;a. 一期产品需求文档已确定 （有高保真 UI 稿）&lt;br /&gt;b. 前后端正在开发中，进度 60%，需要收尾</description><pubDate>Mon, 28 Aug 2023 15:45:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969027#reply1</guid></item><item><title>[JavaScript] 这是一个极其小众的开源库，从此我也是给开源界贡献了力量的人</title><link>https://www.v2ex.com/t/969026#reply1</link><description>&lt;p&gt;从事开发以来一直都以一个伸手党活跃于开源社区，这次也算是做了一会贡献党。但是第一次写开源库，如果有不规范的地方希望各位大佬不吝赐教。当然如果能得到大佬们的 star 就最好了。&lt;/p&gt;
+&lt;p&gt;这是一个比较小众的工具，用于获取紫微斗数命盘数据。有兴趣的大佬可以去看看。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;如我这般平凡特殊的人，都能勇敢前进，你们有什么不可以呢？&lt;/p&gt;
+&lt;p&gt;GitHub&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/SylarLong/astro" rel="nofollow"&gt;https://github.com/SylarLong/astro&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;希望这个帖可以和隔壁&lt;a href="https://www.v2ex.com/t/959091#reply0" rel="nofollow"&gt;30 岁从大厂裸辞全家搬往英国的故事（下）&lt;/a&gt;作为一个对比，人和人之间的差异是非常巨大的，如果隔壁的 op 是从小优秀到大的天之骄子，那我就是&lt;strong&gt;六十分男孩&lt;/strong&gt;，我的样本作为一个下限，他作为一个上限。&lt;/p&gt;
+&lt;p&gt;NPM&lt;/p&gt;
+&lt;p&gt;https://www.npmjs.com/package/@sylarlong/astro&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;文档&lt;/p&gt;
+&lt;p&gt;README 里面的文档比较旧了，这里是最新文档地址: &lt;a href="https://astro.14star.cn/" rel="nofollow"&gt;https://astro.14star.cn/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="一张海报代表一个月" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/E5uwgSu.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;文档还在完善中，各位大佬多多支持。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:44:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969026#reply1</guid></item><item><title>[问与答] 你们公司请长事假容易吗</title><link>https://www.v2ex.com/t/969025#reply1</link><description>&lt;p&gt;RT.&lt;br /&gt;
+你们公司允许连着请 10 个工作日的事假吗？我们公司五一、十一前后不允许请假，同时员工手册说一次可以最长请 10 个工作日事假，但是实际是不允许这样请，最多只能请 5 天。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:23:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969025#reply1</guid></item><item><title>[酷工作] 日本东京 秋葉原 招聘 Android / iOS 原生开发工程师</title><link>https://www.v2ex.com/t/969024#reply0</link><description>&lt;h2&gt;公司简介&lt;/h2&gt;
+&lt;p&gt;ELESTYLE 株式会社，成立于 2014 年，互联网创业公司。  &lt;/p&gt;
+&lt;p&gt;公司位于日本东京秋叶原，主营业务是聚合支付 SaaS 和应用平台 PaaS 。&lt;/p&gt;
+&lt;p&gt;敝司从创业初期就是一家有着互联网基因，强调工程师文化技术驱动的公司，
+现已为数百家日本企业提供服务，具体业务内容和成功案例可以参见公司的产品主页： &lt;a href="https://elepay.io" rel="nofollow"&gt;https://elepay.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;更多简介和公司福利等，请参见我以前发的帖子，就不再赘述。&lt;/p&gt;
+&lt;p&gt;→ &lt;a href="https://v2ex.com/t/936451" rel="nofollow"&gt;日本东京！千万年薪 招聘 [高级前端]、[高级后端]、[设计师] 和 [产品经理]&lt;/a&gt;
+&lt;img alt="办公室环境" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TYF0eDX.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;为了避免浪费您宝贵的时间，请仔细阅读职位需求后再投简历！  &lt;/p&gt;
+&lt;p&gt;薪酬福利条件先写在这里：&lt;/p&gt;
+&lt;p&gt;工作地点：日本东京（秋叶原）&lt;br /&gt;
+上述所有职位预期薪资范围：600 万〜 1,000 万日元（税前，年薪，奖金和期权不包括在这个数字里面）&lt;br /&gt;
+公司提供工作签证（分数达到要求的直接给高级人才签证）&lt;br /&gt;
+试用期：3 个月（试用期全薪）  &lt;/p&gt;
+&lt;p&gt;预期的薪资范围供参考，如果您的能力或者对薪资的期望和我们所预期的范围相差较大，请斟酌。&lt;/p&gt;
+&lt;p&gt;另外我们是高速成长期的创业公司，不搞 996 也不是经常加班，但是我们期待对工作有极高热情，有意愿和团队一起成长的人才加入。  &lt;/p&gt;
+&lt;p&gt;如果对以下职位感兴趣，并符合职位要求，请将简历发邮件到： &lt;a href="mailto:hr@elestyle.jp"&gt;hr@elestyle.jp&lt;/a&gt;&lt;br /&gt;
+（邮件标题格式：应聘_2023 夏秋_姓名_from_v2ex ）&lt;/p&gt;
+&lt;h2&gt;职位描述&lt;/h2&gt;
+&lt;p&gt;■ [高级 Android / iOS 原生开发工程师] x 2 名（ Tech Lead ，无日语要求）&lt;/p&gt;
+&lt;p&gt;职位需求&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/7/" rel="nofollow"&gt;伟大与失败&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/%E6%88%91%E7%9A%84%E6%88%90%E5%8A%9F%E4%B8%8E%E6%B8%BA%E5%B0%8F/" rel="nofollow"&gt;成功与渺小&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fffroduct.com/2023/08/22/%E6%88%91%E7%9A%84%E5%B9%B3%E5%87%A1%E4%B8%8E%E7%A8%80%E5%A5%87/" rel="nofollow"&gt;平凡与稀奇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;5 年以上 Android / iOS 工作经验（此职位偏重 Andoird 部分）&lt;/li&gt;
+&lt;li&gt;能够独自担当起 Android / iOS 程序开发&lt;/li&gt;
+&lt;li&gt;精通 Kotlin / Java&lt;/li&gt;
+&lt;li&gt;精通 Swift / Objective-C&lt;/li&gt;
+&lt;li&gt;熟悉至少一种 Native 开发框架（ Flutter / React Native 等）&lt;/li&gt;
+&lt;li&gt;熟悉至少一种自动化 CI/CD 解决方案&lt;/li&gt;
+&lt;li&gt;有学习新技术的热情和能力&lt;/li&gt;
+&lt;li&gt;有互联网行业从业经验&lt;/li&gt;
+&lt;li&gt;够独立发现问题，提出问题，解决问题的能力&lt;/li&gt;
+&lt;li&gt;阅读英语文档的能力&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;加分项目&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有原生 SDK 开发经验&lt;/li&gt;
+&lt;li&gt;有发布在 App Store 上可以把玩的 App&lt;/li&gt;
+&lt;li&gt;GitHub 项目活跃度高&lt;/li&gt;
+&lt;li&gt;Stack Overflow 高分回答者&lt;/li&gt;
+&lt;li&gt;有各种动画特效制作的奇思妙想&lt;/li&gt;
+&lt;li&gt;日语二级或以上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;补充信息&lt;/h2&gt;
+&lt;p&gt;接收简历和面试期间： 即日起 ～ 2023 年底&lt;br /&gt;
+面试轮数：2 ～ 3 轮&lt;br /&gt;
+在国内的同学，通常拿到 offer 之后 3 个月内可正式入职（已经在日本的同学拿到 offer 即可入职）&lt;br /&gt;
+至于日本生活相关的内容和讨论，我以前的招聘文中有多次涉及，就不再复述。感兴趣的同学可以翻翻我以前发的内容和下面的讨论。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:09:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969024#reply0</guid></item><item><title>[生活] 回小城市躺一段时间，有什么渠道可以加入本地一些团体组织或认识更多的人？</title><link>https://www.v2ex.com/t/969022#reply4</link><description>&lt;h2&gt;需求背景&lt;/h2&gt;
+&lt;p&gt;OP 被优化了，目前已经回家躺了一个多月了，一开始还是很爽的，就是偶尔需要一些社交，一直呆在家里太闷了&lt;/p&gt;
+&lt;h2&gt;一些想法&lt;/h2&gt;
+&lt;p&gt;原定计划是躺三个月后再找工作，按目前这行情来看根本不容乐观，所以我现在的计划是三个月后佛系找工作，能远程面试的就面,不能的直接 PASS ，因为在出租屋里要是一个月都找不到心态会崩&lt;/p&gt;
+&lt;h2&gt;一些尝试&lt;/h2&gt;
+&lt;p&gt;也下过一些组织打球或者交友之类的软件，结果发现在小城市根本没人用...&lt;/p&gt;
+&lt;p&gt;请问大家如何释放这些社交需求并结识一些人，男女都可。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:43:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969022#reply4</guid></item><item><title>[酷工作] [远程兼职] Fabrie 前端远程兼职，暂无正式职位（请见谅）</title><link>https://www.v2ex.com/t/969021#reply0</link><description>&lt;h1&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;提问环节，为什么总是看你在招聘？是不是骗骗简历？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;1 、在这里统一回复大家，因为事是兼职岗位，每当项目结束，会有一些小伙伴离开，也有一些小伙伴留下，而我们的产品项目比较多，尤其是近期 AI 板块，正职同学完全抽不开时间，就要求我们不断的招人来弥补空缺，赶上项目进度
+2 、至于骗简历，大家放心，我本身也是一名开发，对公司的情况也算清楚，公司确实缺人，虽然已经有很多兼职了，但还是多多益善&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;提问环节，为什么我的简历投了没有消息&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;因为每次开放职位，就会收到大量的简历，身为一名开发人员，在筛选简历的同时，还需要兼顾开发，所以，可能有些同学不太符合我们的岗位，注意，并不是说这些同学不够优秀，而是技术栈和我们不太匹配，有些我会回复为什么不匹配，而时间压缩的情况下，实在来不及，还请抱歉&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;看了大家的评论，没有及时回复，很抱歉，下面针对大家关心的问题做一个说明&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;1 、这是一个兼职岗位，需要远程工作，一般会在晚上九点左右沟通工作进度，请大家投简历之前评估一下自己的时间&lt;/p&gt;
+&lt;p&gt;2 、薪资范围：大概 80 ～ 150 时薪左右（如果比较优秀，可以往上谈）&lt;/p&gt;
+&lt;p&gt;3 、工作时间：平时一天工作时长最好维持在 2 ～ 3 小时周六周日 6 ～ 8 小时最佳，当然也可以视情况而定，一般根据需求合理安排时间即可&lt;/p&gt;
+&lt;p&gt;4 、、是否可以转正：一般来说，现阶段没有多余的正式岗位，是无法转成正式的，只有有坑的情况下，会优先考虑合作过的同学（已经有不少同学转成正式了）&lt;/p&gt;
+&lt;p&gt;5 、有时差怎么办：大家放心，和你对接的同学，会尽力支持你，文档和注释，都非常规范&lt;/p&gt;
+&lt;p&gt;6 、如果有更多问题，欢迎大家加我 v 交流&lt;/p&gt;
+&lt;p&gt;7 、大家如果给简历，尽量给 PDF 的（大家可以搜一下，简历模版，突出重点，这样简历会更好过）&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Fabrie 文档是一款服务于设计、工程与教育等场景的在线协作工具，为传统实体产品开发与设计行业提供了一套提升协作效率、全流程数字化管理的在线工作台，以文档式的工具形态更好的为设计行业长尾需求提供灵活支持。Fabrie 团队核心成员来自于钉钉、Teambition 、 百度，携程、Nike 等优秀企业，以及帝国理工、皇家艺术学院、港科大、上交、复旦等国内外高校。 目前产品在快速迭代中，希望招募热爱设计、关注前沿技术以及相信工具的伙伴加入，目前有包括视觉设计、前后端开发、测试、运营等岗位，欢迎投递简历 入职配备 Mac 电脑，显示器&lt;/p&gt;
+&lt;p&gt;官网 &lt;a href="http://www.fabrie.cn/" rel="nofollow"&gt;www.fabrie.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;前端岗位（兼职远程） 任职要求:&lt;/p&gt;
+&lt;p&gt;大学本科及以上学历，计算机或相关专业，英语四级及以上，能够阅读英文文档； 精通 JavaScript 、HTML5 、CSS3 等基础技术，熟悉 ES6 ，ES7,Typescript,有模块化编程思想；对前端组件化有一定的运用和理解；&lt;/p&gt;
+&lt;p&gt;熟练掌握 ajax 技术、http 等基础知识，了解跨域机制；&lt;/p&gt;
+&lt;p&gt;3 年以上前端实际开发经验，深入理解浏览器工作原理，熟悉主流浏览器特性，能够很好地解决兼容问题、性能优化问题，熟悉响应式布局和屏幕适配技术。&lt;/p&gt;
+&lt;p&gt;熟练使用 Vue 框架，熟练掌握 vuex 和 vueRouter ，熟练使用 Git 管理代码，熟悉 JQuery 、react 等； 熟悉 Canvas 、svg 等技术的优先考虑；&lt;/p&gt;
+&lt;p&gt;对设计有了解有追求的优先考虑；&lt;/p&gt;
+&lt;p&gt;热爱技术，有好奇心，热爱钻研前沿技术、新产品，具有快速学习能力；&lt;/p&gt;
+&lt;p&gt;对页面布局具有深刻理解，注重细节，善于分析并改善产品的视觉感觉和用户体验；&lt;/p&gt;
+&lt;p&gt;具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力；&lt;/p&gt;
+&lt;p&gt;有图像处理 /图形编辑 /地图类产品开发经验的优先考虑。&lt;/p&gt;
+&lt;p&gt;有 C++ / webGL / skia 开发经验者优先&lt;/p&gt;
+&lt;p&gt;投递方式 请发送您的简历至微信 15738856711(同电话号)&lt;/p&gt;
+&lt;p&gt;最后，祝大家都能找到合适自己的工作，加油⛽️⛽️⛽️&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:39:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969021#reply0</guid></item><item><title>[美国] 请教 twenty twenty-three 主题的 WordPress 电脑版变形的问题</title><link>https://www.v2ex.com/t/969020#reply0</link><description>&lt;p&gt;做了 WordPress 的英文站，twenty twenty-three 主题，移动版还好，但电脑版变形了，文章的标题竖起来了，而且这个主题的首页有一行文字，我想把它删掉，就是 blog about 那一行，但我在 index.php 与 index.html 里都没有找到那行文字，请大佬赐教一下，非为做外链:&lt;/p&gt;
+&lt;p&gt;goodxyz.xyz&lt;/p&gt;
+&lt;p&gt;另外，请问一下我是在 phpstudy 搭建的 WordPress ，www 文件里有个 index.php,主题文件夹也有个 index.php,她们有什么不同吗？期待前辈赐教。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:39:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969020#reply0</guid></item><item><title>[Google] 关于 google.com 自动重定向至 google.cn/m</title><link>https://www.v2ex.com/t/969019#reply7</link><description>&lt;p&gt;我测试的触发条件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HK 节点&lt;/li&gt;
+&lt;li&gt;UA 为手机端&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;v 友们也会出现这个问题吗？现在路由器上都得挂其他地区的节点了，不然用手机搜索贼不方便&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;死にたくなった時には下を見ろ。俺がいる。ずっとずっと、ずっと下にいる！&lt;/p&gt;
-&lt;p&gt;想死的时候往下面看看，更底层还有我！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20230828222927" class="embedded_image" rel="noreferrer" src="https://pic.jiefly.cn/20230828222927.png" /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Mon, 28 Aug 2023 14:37:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969019#reply7</guid></item><item><title>[程序员] 独立服务器 5 个 IP，打算装个 PVE 创立 VMs,如何把外部公网 IPV4 的 IP 同 NAT 指派给指定的 VM</title><link>https://www.v2ex.com/t/969018#reply11</link><description>&lt;p&gt;找了一下，一堆资料，已经搞混了，所以想一步到位请教做过的大神直接给出标准答案照抄就好了。&lt;/p&gt;
+&lt;p&gt;先提前谢谢了。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:36:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969018#reply11</guid></item><item><title>[宽带症候群] [工具推荐] 如何维护一份安全+高度定制化的代理软件配置托管 API</title><link>https://www.v2ex.com/t/969017#reply1</link><description>&lt;h3&gt;前言&lt;/h3&gt;
+&lt;p&gt;从我 2019 年底开始第一次发现并使用 Surgio 以来，除开第一次配置的时候花费了大量时间，给作者发邮件，在 tg 群里取经等，截止目前已经快稳定使用 4 个年头了&lt;/p&gt;
+&lt;p&gt;经常会在 v2 看到有各种提问，“&lt;strong&gt;怎么组合多个机场订阅？&lt;/strong&gt;”，往机场提供的托管配置里添加个人定制的配置等等，每次我看到基本都会在下面说“&lt;strong&gt;要不去试试 Surgio&lt;/strong&gt;”（开始有水军嫌疑了，但是个人是觉得真的好用&lt;/p&gt;
+&lt;p&gt;目前我这个新手包里，准备了常见的 Clash/QX/Surge 三个软件的配置文件，相信能够覆盖大部分人的使用需求了，按照之前帮助过的一个老哥的话来说，“之前一直看不太懂 Surgio 的文档，有你发我的这份能够直接运行的新手包之后，回过头再去看文档，发现很多就恍然大悟了”&lt;/p&gt;
+&lt;h3&gt;劝退？&lt;/h3&gt;
+&lt;p&gt;看到过不少人因为觉得 Surgio 配置繁琐，文档难以理解，加上大部分人没有这个时间去慢慢研究，就被劝退了，确实 Surgio 的文档比较的“&lt;strong&gt;程序员&lt;/strong&gt;”，对于一些才上手玩代理分流工具 App 的人来说确实比较晦涩；&lt;/p&gt;
+&lt;p&gt;几年来在 tg 上已经帮助了好几个不管是 v2 的还是 tg 群里的朋友实现了他们自己的 Surgio 托管，这也是我这次想来推行这个新手包的目的，让自己一劳永逸，也让别人更加方便&lt;/p&gt;
+&lt;h3&gt;类似工具对比？优势？&lt;/h3&gt;
+&lt;p&gt;你可能会说怎么不用各种订阅转换、Sub-store 等等工具，其实最主要的原因是我最开始就在用 Surgio 这个工具，并且后期维护相当简单，也能够充分保护订阅的隐私性和对配置模板的高度定制化，如果确实你更习惯和熟练其他的工具，那其实也没有必要强行用 Surgio&lt;/p&gt;
+&lt;h3&gt;使用步骤&lt;/h3&gt;
+&lt;p&gt;只需要点击下面的 Deploy 按钮即可生成一份“初始化”的，托管在 Netlify 平台的配置，同时也会在你的 Github 仓库里 clone 一份代码，请记得务必在更改/添加你的订阅敏感信息之前，将 surgio-starter-kit 这个 repo 设置为&lt;strong&gt;私有&lt;/strong&gt;，避免&lt;strong&gt;订阅泄露&lt;/strong&gt;！！！！&lt;/p&gt;
+&lt;h3&gt;Deploy to Netlify&lt;/h3&gt;
+&lt;p&gt;点击即可直接部署到 Netlify&lt;/p&gt;
+&lt;p&gt;Surgio 支持部署到 Vercel/Railway/自建等平台，这里只以 Netlify 为例子&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://app.netlify.com/start/deploy?repository=https://github.com/tediorelee/surgio-starter-kit" rel="nofollow"&gt;&lt;img alt="Deploy to Netlify" class="embedded_image" rel="noreferrer" src="https://www.netlify.com/img/deploy/button.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;等待 Netlify 自动 build 完成之后，通过生成的随机前缀 &lt;a href="https://XXXX.netlify.app" rel="nofollow"&gt;https://XXXX.netlify.app&lt;/a&gt; 即可访问订阅托管面板，默认密码是&lt;strong&gt;token&lt;/strong&gt;，请尽早修改代码根目录下&lt;strong&gt;surgio.conf.js&lt;/strong&gt;里的&lt;code&gt;accessToken&lt;/code&gt;和&lt;code&gt;viewerToken&lt;/code&gt;字段（强烈建议随机生成 16 位以上，包含字母数字符号的强密码&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gateway" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XvXB5e1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="dashboard" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/OEJY6Fu.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;简单示例&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我想把两个机场的订阅加入到同一份配置文件中，应该怎么做？”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;上面的名言引用于知名 AV 导演&lt;strong&gt;西村透&lt;/strong&gt;，我自知可能只是 V 站下限而已，不至于到那个程度，仅仅引用。&lt;/p&gt;
-&lt;p&gt;如果想要了解之前起源的朋友不妨阅读一下起源：
-&lt;a href="https://v2ex.com/t/959369#reply59" rel="nofollow"&gt;伟大与失败&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1&gt;我的平凡与稀奇&lt;/h1&gt;
-&lt;p&gt;详细的介绍一下自己，在西南某省会城市老城区出生长大，在 26 岁之前几乎都没离开过家乡，这里舒适的天气，让我第一次去广东时就曾发誓：我一辈子都不要离开热爱的家乡（可惜最后食言）。我是一个同性恋、我有先天性疾病、我是一位残障人士、我还是属于&lt;strong&gt;计划生育中的二胎&lt;/strong&gt;。这些颇具冲击性的文字，会在下面展开。&lt;/p&gt;
-&lt;h2&gt;平凡的一生&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;忧伤家庭&lt;/p&gt;
-&lt;p&gt;言简意赅：城市里的穷人。因为家里父母感情不合，妈妈在我考上当地一所第二梯队的高中后便和父亲离婚。且因为父母小时候要讨生活，其实我和哥哥都是被爷爷奶奶带大的，记忆里所有的公园都是奶奶爷爷和我。我的家境一直是同龄人中最差的，其他人父母要么某某证劵公司总经理、要么某某银行支行行长、要么某某军长之类，更有人爷爷是某某市前市长。虽然家境不太行，可作为家中的二孙子，我的童年在我理解里是快乐的，欺负我的人除了亲哥哥之外无他，其他各方面虽说不是溺爱，但也是在宠爱中长大的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;快乐成长&lt;/p&gt;
-&lt;p&gt;我的学习生涯里，几乎没有补过课。唯一一次知识付费是在高考后的日语学习。小学放学非常早，会和同学乒乓球大战 300 回合再回家，以至于现在的业余局里往往还能获胜。到初中，都准时放学，除了偶尔需要守着别人背英语课文，会偶尔晚到 19 点。小学初中我都有一个坏习惯：数学课写语文作业，语文课写数学作业，写完后会给同学参照、他们第二天早上再还给我。也正因如此，回家后都是看各种当年流行的台湾偶像剧，导致现在讲话时偶尔被问：你怎么台湾腔？
-中考后，进入当地一所二梯队高中。高中课业蛮重的，没有办法把作业全都留在学校里，可我也会尽力完成一大半。18 点放学回家写完作业会打一下游戏，也有时候放飞自我去网吧通宵，那些年流行过的网路游戏没有一个是我没打过的。我记忆里的高中，只有到高三的时候周六需要补半天课，高三开了晚自习是自愿参加的，因为不太能负担补课费也就没参与。不过即使能负担，我想我本能上也是不愿意的。且在高考前两个月，每个周日会和友人去网吧打一整天的《精灵》。
-在这种弱强度的情况下，还是踩线的方式上了当地一所二本大学的计算机混杂管理学的专业，毕业时候拿的学士毕业证也是&lt;strong&gt;管理学学士&lt;/strong&gt;。由于大学是在本地念的，还申请成为了走读生。所以摸鱼程度可想而知，整个学习过程一直保持着轻松快乐。&lt;strong&gt;但也有一定的遗憾，因为我觉得我没有上大学&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;轻松工作&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;家乡&lt;/p&gt;
-&lt;p&gt;毕业时校招也拿到两个东北外包企业的 offer ，这可能是唯二来我们学校进行宣讲会的 IT 企业了，也是唯二我参与的校招。不过最后也没去，一个是家长也没放心上，一个是当时在恋爱也没想离开家乡。于是乎毕业后，进入了一家面向政府开发的企业。规定工作时间是：9:00 ～ 17:00 ，实际 10:30 到，11：30 出去吃政府食堂，14:30 开始下午的工作，16:30 准备离开单位。在这一期间补了非常多的日剧、番剧。我好像在上班，又感觉没在上班。可对应的是低薪水和没前途。&lt;/p&gt;
-&lt;p&gt;之后便是从 JAVA 转换成 C#，进入当地一家电商企业。这家电商企业是我们那里当时唯一能和互联网沾边的企业、甚至现在也是。薪水自然也翻番。后面激发我离职有两件事：其一，某日办公室只有我一个人加班到 9 点（其他人 17:50 准备打卡，18:01 整办公室人员就为 0 ），周围都黑灯瞎火、委屈到哭了。其二，不小心拿到生产数据库密码查询到全员薪水，就算努力做到部门经理，薪水也就 1W ，当时一线城市 IT 企业起薪就是 1W 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;深圳&lt;/p&gt;
-&lt;p&gt;之后便是小镇青年犹如陈焕生进城一般，去到了&lt;strong&gt;深圳&lt;/strong&gt;。去深圳原因有二，其一是我选择做 IT 了，我不得不离开家乡。其二，当时刚好又在恋爱，对象在深圳。深圳给我的初印象是高新园 18 点 30 犹如丧尸般的人流、每天出门回家必定湿透的衬衫，恨不得每天洗十次澡。每每面对这种恐怖人流，我都选择步行两个地铁站，走路回到出租屋。在深圳面试时，我也很谨慎：绝不进入需要加班的企业，于是选择了一家做 ToB 的企业，由于企业性质几乎也是不加班的，薪水也翻番了，虽然这算是国内技术移民带来的收益上涨，可总体生活质量是低于原家乡的。本打算好好待在这里，养精蓄锐攒钱出国。可计划不如变化快，该企业开始发力互联网了，工作节奏和时长也变得令我非常难受。不过奈何我非常之认可当时企业的产品、技术以及我的领导本人。也就一直待了三年，直到我觉得再继续下去我一定会抑郁，便离职。这个企业的魅力在于真实地运用了我在《 CLR via C#》中看到的非常多内容，无论是依靠 AppDomian 实现的动态编译，各种设计模式、自研 ORM 、SOA 等等。可以说这个企业给我技术方面非常多的成长。奈何自己实在体力不支，无奈离开。&lt;/p&gt;
-&lt;p&gt;再来讲讲我领导本人：他是一个强 push 的人。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;比如他一天给我派了双倍于别人的活，在我全部完成后他依然会继续派活给我。&lt;/li&gt;
-&lt;li&gt;比如曾经某一个七夕，在打车去约会的路上，和他汇报一个未完成的小工作，他让我吃完饭回公司继续做，等他飞机凌晨 1 点落地，他来公司继续搞定。（这个任务在另外一个领导的介入下推迟到次日）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;于是便辞职了，再之后便是 2020 年，已经考过 N2 准备为赴日做最后冲刺，结果人算不如天算，疫情来了。便选择进入了一家外包企业，这次的选择带来的是 30%涨薪和每天 9 点上班 18 点下班。就这样快快乐乐点躲避三年，最后还是来到了东京。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h2&gt;小概率的稀奇&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;同性恋：人群中的 4%&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;人，生而无趣
-但，人生有趣。
+&lt;p&gt;非常简单，新增两个&lt;strong&gt;provider&lt;/strong&gt;文件，假设为&lt;strong&gt;sub1.js&lt;/strong&gt;和&lt;strong&gt;sub2.js&lt;/strong&gt;，（文件内容请参考现有的&lt;strong&gt;example.js&lt;/strong&gt;），然后在&lt;strong&gt;surgio.conf.js&lt;/strong&gt;中修改为，这里以 Clash 配置为例&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;{
+	name: 'Clash.yaml',
+	template: 'auto_clash',
+	provider: 'sub1',
+	combineProviders: ['sub2'],
+	categories: [categories.CLASH],
+  }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;同性恋是与生俱来的，在 16 岁突然意识到之后。便把小时候的一切果找到根本的因，无论是喜欢混在女孩堆里，还是和男孩子在一起时偶发的羞怯。能做的，便是理解一切坦然接受。这件事让我理解我，是人群里 4 ％少数群体。并没有颠覆生活状态，反而是在除家人和工作环境外全出柜下的理解与支持。也令我接触到形形色色的同性恋人群，想必也给无聊人生带来一点躁动。在我看来，国内对同性恋的生存环境不好不坏，虽说近年来各种各样的政策都在缩紧，可是整体环境都在缩并不只针对特殊群体。我的结论是（只代表我）：国内是不压迫、不迫害、不协助、不承认、不管不顾状态。我起初想要出国的原因或许是因为同性恋这件事，想要获得法律认可之类。可在长大成年后，经历过太多事情，无论是父母离异、同学结婚离婚、以及渣男朋友的吃里扒外，还是自己惨淡收场的感情。也更加理解“从一而终”之难，渐渐也对婚姻和法律的保障感到没有意义。也正因如此十多年过后我出国的目的就是单纯的&lt;strong&gt;想要获得不同国家的居住体验，不让国籍和语言成为制约&lt;/strong&gt;。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;人群中的 0.05% &amp;amp; 关于残障这件事&lt;/p&gt;
-&lt;p&gt;自我析构，解剖在网路上是一件危险的事情。这一部分也是全系列中最难写的，里面会触及到所有对象最终的 object 父类，你知道及理解其所在，却永远不会直接去触碰、深挖和重构它。&lt;/p&gt;
-&lt;p&gt;关于为何要使用“残障”而非“残疾”呢？这是因为它只是一个“障碍”而非一种“疾病”。说到疾病的话，算幸运的是我只是患有一种叫做“先天性尺桡骨骨性融合”的疾病，概率是万分之五。我并不是先天性残障，而是在小时候想要修复上述疾病时，导致成为可以申请残障手册的身体。幼儿时期许多记忆都模糊，可我一辈子都无法忘记从手腕处在没有麻醉下取出钢针时哭的撕心裂肺，也记得消毒水和医院食堂独有气味。&lt;/p&gt;
-&lt;p&gt;残障呢，在初中到大学时期是困扰我的一个问题。初次爆发是在初一，一个同学因我取笑我的残障而也因此和他大干一架，之后我便一直穿着长袖，从来都不把残障的本体展示在人们面前。好在家乡气候非常好，即便夏天也可以穿薄外套。现在想来真的可笑至极，这就是我自己的&lt;strong&gt;掩耳盗铃&lt;/strong&gt;，那件薄外套作为保护壳却只能掩盖脆弱的内心。到深圳之后，奈何天气过热，便抛弃外套，也进化成另外的自己，&lt;strong&gt;你所有的缺憾在克服后都会成为你的武器&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;一味的埋怨无法解决任何事情，你必须去接受原本的自己。并在当前条件下去选择最优解。比如随着经济的进步无论是中国还是日本都对残障人士有着非常多的优待（申请到　残疾证||障害者通帳），但这些优待是来自己阅读这篇文章各位的税金，所以听我说谢谢你，真情实感的感谢大家和政府。有社会责任感的 S 级别私企也在不断完善这方面的建设，比如耳熟能详的 Google 和 Microsoft 都有针对残章人士的项目，Google 是 Greach 项目。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;二胎视角&lt;/p&gt;
-&lt;p&gt;没错我是城市里出生长大的二胎，除了偶尔出现的双胞胎外，从小到大周围都是独生子女。而我是稀少的二胎。这一点让我变得很不一样。在前文中提到过我很少一个人做任何事情，因为成长经历中都有一个和你形影不离的亲人。我哥哥接触什么，我便能接触什么，在小时候我的实际物理年龄会被迫和哥哥同步，对于事物的认知一直便是超龄与同龄人。不过长大后，大家的生活便南辕北辙。我是属于有多远走多远，而他呢则留在家乡。这也正是无论是所谓的传宗接代、照顾父母、人情世故问题，都于我不是问题。但其实即使我是独身子女我还是会远赴他乡的，以上问题都有解决方案，无法就是时间和金钱的算数罢了。&lt;/p&gt;
-&lt;p&gt;哥哥的人生和我也截然不同，早早毕业、早早工作、早早结婚生子，早早看透&lt;strong&gt;打工是没有任何希望的&lt;/strong&gt;。早早便于家中进行独立文学写作（网路小说），他还算是有一定天赋吧，毕竟写的小说还是进入了起点文学的首页 Banner 栏，每年似乎只有&lt;strong&gt;365&lt;/strong&gt;本可以上到那个位置。我想我会像 Theodorus "Theo" 支持他哥哥一样，支持他。毕竟我在深圳全款买房的希望可在他身上啊！&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;每一个人人都是世界上绝无仅有的玫瑰，相信我宝贵的人生经验和独特的人生视角，假如搞文化创作必定可以给大家带来全新不一样的视觉。与其整日成为别人的生产资料，不如自己去做创作生产资料的人，这个时代必定不会亏待内容创作者。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;写在最后：&lt;/p&gt;
-&lt;p&gt;我曾思考过，同性恋和残障到底哪一件事对我影响更大。可它们都只是人生的底色，在白纸上赋予这两种特质，而伴我前行。那么多年下来，也只是在平凡人生里，自我赋予的无意义标签罢了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="我与富士山" class="embedded_image" rel="noreferrer" src="https://imgur.com/OWQLHeQ.jpg" /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[《 Silent Majority 》]( &lt;a href="https://www.youtube.com/watch?%E3%80%8B" rel="nofollow"&gt;https://www.youtube.com/watch?》&lt;/a&gt; v=3K-ahjxy2pE)&lt;/p&gt;
-&lt;p&gt;这是一首来自日本欅坂 46 的出道曲。少女们铿锵有力地向成年人们控诉着他们的沉默。她们出道便大爆，正是因为出道曲便有别于其他还在唱元气满满标准偶像歌曲的组合。这首歌也发人深省：到底是选择随波逐流、还是去选择做羊群里的黑羊。&lt;/p&gt;
-&lt;p&gt;君は君らしく生きて行く自由があるんだ&lt;/p&gt;
-&lt;p&gt;大人たちに支配されるな &lt;/p&gt;
-&lt;p&gt;初めから そうあきらめてしまったら &lt;/p&gt;
-&lt;p&gt;僕らは何のために生まれたのか？ &lt;/p&gt;
-&lt;p&gt;夢を見ることは時には孤独にもなるよ &lt;/p&gt;
-&lt;p&gt;誰もいない道を進むんだ &lt;/p&gt;
-&lt;p&gt;この世界は群れていても始まらない &lt;/p&gt;
-&lt;p&gt;Yesでいいのか？ &lt;/p&gt;
-&lt;p&gt;サイレントマジョリティー&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Sun, 27 Aug 2023 17:04:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968722#reply5</guid></item><item><title>[Go 编程语言] go 语言 for 循环多层嵌套怎么用递归函数实现？</title><link>https://www.v2ex.com/t/968720#reply1</link><description>&lt;p&gt;大佬们好，go 语言 for 循环多层嵌套怎么用递归函数实现，小弟谷歌很久都不知道怎么实现。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;func add(n int){
-		//n 嵌套次数，比如嵌套两次
-    	for i:=0;i&amp;lt;len(s);i++{
-    		for k:=0;k&amp;lt;len(s);k++{
-        		...
-    		}
-    	}    
-	}
+&lt;p&gt;这样最后生成的&lt;code&gt;Clash.yaml&lt;/code&gt;文件就包含了&lt;code&gt;sub1&lt;/code&gt;和&lt;code&gt;sub2&lt;/code&gt;两个机场的订阅&lt;/p&gt;
+&lt;h3&gt;其他&lt;/h3&gt;
+&lt;p&gt;Surgio 文档地址：&lt;a href="https://surgio.js.org/" rel="nofollow"&gt;一站式各类代理规则生成器 | Surgio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Surgio tg 群： &lt;a href="https://t.me/surgiogroup" rel="nofollow"&gt;https://t.me/surgiogroup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;想到再写，未完待续...&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:35:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969017#reply1</guid></item><item><title>[问与答] Golang 的 fmt.printf()在单元测试中的一次异常</title><link>https://www.v2ex.com/t/969016#reply0</link><description>&lt;p&gt;本人 golang 版本是 1.19.2 ，在公司中用的是 1.20 。
+我知道是因为 format 时少了一个参数，我好奇的是为什么在执行 test 时编译不通过，而执行 main 的时候是可运行的。
+不说废话，上代码，各位大哥看看是什么原因。&lt;/p&gt;
+&lt;p&gt;main.go&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	printLine()
+}
+
+func printLine() {
+	fmt.Printf("without arguments line", "arg
+ument")
+}
+//输出 without arguments line%!(EXTRA string=argument)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;比如上面 n 是 2 就嵌套两次，万一嵌套 n 次呢？请问大佬们，怎么实现参数 n 次，循环就嵌套 n 次，怎么用递归函数实现呢？小弟是新手，搞不懂，特意上来请教，感谢大家&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 16:19:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968720#reply1</guid></item><item><title>[推广] The Benefits of LownRain Vacuum Seal Containers for Food</title><link>https://www.v2ex.com/t/968718#reply0</link><description>&lt;p&gt;When it comes to food storage, maintaining freshness and reducing waste are top priorities. LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; offer an innovative solution that keeps food fresh up to five times longer than non-vacuum storage methods. In this article, we will explore the reasons why I recommend LownRain Vacuum Seal Containers, highlighting their ability to preserve flavors and nutrients, reduce food and plastic waste, and provide convenient storage options.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Vacuum Sealed Containers" class="embedded_image" rel="noreferrer" src="https://www.lownrain.com/cdn/shop/files/002.jpg?v=1686910602&amp;amp;width=823" title="LownRain Vacuum Sealed Containers" /&gt;&lt;/p&gt;
-&lt;p&gt;Extended Shelf Life and Cost Savings
-One of the key advantages of LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; is their ability to extend the shelf life of food. By using exclusive Fresh &amp;amp; Save technology, these containers preserve flavors, nutrients, and textures while preventing freezer burn. Compared to traditional storage methods, such as plastic bags or ordinary containers, LownRain Vacuum Seal Containers keep food fresh for significantly longer periods, allowing you to save money by reducing food waste.&lt;/p&gt;
-&lt;p&gt;Reduction in Waste
-In today’s world, minimizing waste is crucial. LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Seal Containers&lt;/a&gt; contribute to this effort by reducing both food and plastic waste. The airtight 1-way valves incorporated into the lids of these containers work in conjunction with the vacuum pump to extract oxygen, effectively creating a sealed environment that extends the freshness of food for up to five days longer in the refrigerator. By reducing spoilage, you can enjoy your favorite meals for longer and decrease the amount of food that ends up in the trash.&lt;/p&gt;
-&lt;p&gt;Convenient and Efficient
-LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; are designed with user convenience in mind. The cordless vacuum pump provided with the containers is fast, quiet, and easy to use. Marinating food becomes a breeze, as the vacuum seal locks in flavors in just 30 minutes, enabling you to prepare delicious meals more quickly. The intelligent lids feature valves where the USB rechargeable pump attaches and removes air from the containers, ensuring a complete and effective vacuum seal. Built-in dimple indicators provide visual confirmation of sealing, while dual snap-lock fasteners enhance the secure fit of the lids.&lt;/p&gt;
-&lt;p&gt;Versatile Container Sizes
-LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; come in a range of sizes, catering to different food storage needs. From storing main entrees like lasagna and pot roast to side dishes such as mashed potatoes and even single leftover servings of mac and cheese, these containers accommodate a variety of food items. The crystal-clear, glass-like construction of the containers allows for easy identification of contents without the need to open them, making meal planning and organization more efficient.&lt;/p&gt;
-&lt;p&gt;Conclusion
-LownRain &lt;a href="https://www.lownrain.com/products/lownrain-food-storage-vacuum-sealed-container-with-electric-vacuum-pump-bpa-free-various-sizes-to-keep-food-fresher-4-piece-set-with-electric-vacuum-pump" rel="nofollow"&gt;Vacuum Sealed Containers&lt;/a&gt; offer numerous benefits for food storage and preservation. With their ability to keep food fresh up to five times longer than non-vacuum storage methods, these containers not only save time and money but also reduce food and plastic waste. The exclusive Fresh &amp;amp; Save technology preserves flavors and nutrients while preventing freezer burn, and the cordless vacuum pump makes marinating faster and more convenient. The intelligent lids and versatile container sizes further enhance the user experience. By choosing LownRain Vacuum Seal Containers, you can savor the flavors of your favorite meals for longer while maximizing your grocery budget and contributing to a more sustainable future.&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 16:03:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968718#reply0</guid></item><item><title>[问与答] 找一个 SOCKS5 本地代理局域网服务端共享软件</title><link>https://www.v2ex.com/t/968717#reply11</link><description>&lt;p&gt;弄了个加速器 ，识别进程名的。浏览器改成游戏的名字可以上网&lt;/p&gt;
-&lt;p&gt;现要找一个 本地 SOCKS5.局域网共享等功能 不需要连接服务器的
-WINDOWS 平台&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968717#reply11</guid></item><item><title>[问与答] 印花税降了，都说是王炸级的利好，我的基金回本有望了吧</title><link>https://www.v2ex.com/t/968716#reply4</link><description>&lt;p&gt;亏着 20 多个点呢。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:34:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968716#reply4</guid></item><item><title>[iCloud] iclou2t 招人 国区可上</title><link>https://www.v2ex.com/t/968715#reply0</link><description>&lt;p&gt;一人 400g  季付 28 元 之前开过一个 给朋友又开了一个  电报 &lt;a href="https://t.me/As840493998" rel="nofollow"&gt;https://t.me/As840493998&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:30:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968715#reply0</guid></item><item><title>[酷工作] 远程岗位——量化工程师 25k/月-32k/月</title><link>https://www.v2ex.com/t/968714#reply0</link><description>公司简介：&lt;br /&gt;BYDFi 是一家致力于为海外互联技术提供解决方案的高科技公司，主要业务为海外移动应用软件的开发等。我们拥抱互联网精神，以人才、技术、产品为中心，深信科技与创新会给客户带来更具价值的服务体验，专注为国际客户提供卓越的服务。&lt;br /&gt;公司在新加坡、日本、台湾等多地设有分公司，团队汇集海内外不同领域的专业人才，涵盖互联网以及金融行业等；能够提供一定海外发展机会。&lt;br /&gt;&lt;br /&gt;职位亮点：远程办公, 入职五险一金，年终奖，节日福利等&lt;br /&gt;&lt;br /&gt;岗位职责：&lt;br /&gt;1 、开发、维护及优化现有做市策略；&lt;br /&gt;2 、趋势、套利策略和信号的开发及优化；&lt;br /&gt;3 、实时监控和分析数据，调整量化策略和模型；&lt;br /&gt;4 、风控系统的维护及优化；&lt;br /&gt;5 、与开发团队合作，持续优化交易基础设施和工具。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1 、数学、金融、计算机或相关理工科本科及以上学历&lt;br /&gt;高频做市相关经验；&lt;br /&gt;2 、熟练掌握 Python 、Java 、C++至少一门编程语言；&lt;br /&gt;3 、需要有交易所项目经验，对量化研究有兴趣 ，工作认真负责。&lt;br /&gt;&lt;br /&gt;候选人加分项：可追溯的量化策略业绩；数学建模竞赛经验。&lt;br /&gt;&lt;br /&gt;附加信息：&lt;br /&gt;工作时间：周末双休&lt;br /&gt;上下班时间：09:30-19:00&lt;br /&gt;&lt;br /&gt;面试方式：视频面试&lt;br /&gt;面试轮数：1-2 轮&lt;br /&gt;&lt;br /&gt;欢迎自荐推荐，简历至邮箱 sunne@dingtalk.com.（投递请注明来自 V2EX ，谢谢！）</description><pubDate>Sun, 27 Aug 2023 15:27:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968714#reply0</guid></item><item><title>[区块链] ethmeta 最新动态</title><link>https://www.v2ex.com/t/968713#reply0</link><description>2023-8-27&lt;br /&gt;&lt;br /&gt;星星之火可以燎原&lt;br /&gt;ETHMeta 拥有地址权益数已达 6282&lt;br /&gt;ethmeta 微信搜索指数已达 15503&lt;br /&gt;ethmeta 相关视频号已达 800&lt;br /&gt;&lt;br /&gt;真正在技术上领先其他所有公链的国产区块链&lt;br /&gt;拭目以待吧&lt;br /&gt;&lt;br /&gt;&lt;a href="https://tracker.eth-metaverse.com/#/" rel="nofollow noopener" target="_blank"&gt;https://tracker.eth-metaverse.com/#/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;对公链赛道感兴趣的可以加入一下&lt;br /&gt;&lt;br /&gt;我的 V：BFMeta_&lt;br /&gt;&lt;br /&gt;备注:V2</description><pubDate>Sun, 27 Aug 2023 15:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968713#reply0</guid></item><item><title>[酷工作] [高优_JAVA 研发] AIGC 团队招募长期远程合作</title><link>https://www.v2ex.com/t/968712#reply1</link><description>Hi 大家好，我们目前在做一款 AI+游戏方向的产品，目标打造 AI Native 的 killer APP ，目前产品已经通过 Alpha 版本完成了需求验证，希望招募对 AIGC 领域有极高的热情，对稳定且高效的工作模式有需求的服务端工程师，JD 如下：&lt;br /&gt;&lt;br /&gt;💻服务端工程师（ AI 产品）&lt;br /&gt;&lt;br /&gt; [主要职责] &lt;br /&gt;负责网页版本产品的服务端和基于 Discord 的原生应用的开发工作。&lt;br /&gt;负责基于图像&amp;amp;文本&amp;amp;声音等 AI 模型能力的工程化开发和实现。&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;熟练掌握 Java 语言，精通 Python 者加分，有良好的编程习惯及逻辑实现能力。&lt;br /&gt;有扎实的网络、存储、操作系统的运用基础，对于常见的工程组件有较为准确和全面的理解，对系统的性能、可用性、扩展性等方面有深刻的理解。&lt;br /&gt;有基于 Discord API 开发经验者，或者基于 LLM or Stable Diffusion 模型进行工程化经验者优先。&lt;br /&gt;优秀的责任心和问题解决能力，具有良好的沟通和团队合作能力。&lt;br /&gt;&lt;br /&gt;👾About Us👾&lt;br /&gt;UNFOLD 是一个基于 GPT-4 、Stable Diffusion 等多种 AI 技术，辅助 UGC 创作的新型互动内容平台。我们希望为每一个用户带来真正千人千面的游戏化体验，打造一个新世代的内容 IP 宇宙。产品优先面向北美和日韩市场出海。团队初创成员均来自于腾讯、字节、网易等互联网大厂，产品&amp;amp;运营经验丰富，曾成功打造出百万用户量级 Z 世代产品。&lt;br /&gt;&lt;br /&gt;我们为你提供：&lt;br /&gt;高效敏捷的合作方式：团队互联网行业经验丰富，让你无需进行低效的沟通工作，只需要专注于自己负责的部分。&lt;br /&gt;有竞争力的薪资：我们提供市场竞争力强的薪资以回馈你的贡献和自驱力。&lt;br /&gt;长期稳定的合作。&lt;br /&gt;&lt;br /&gt;工作方式：可远程合作，每周 4-5 个工作日&lt;br /&gt;&lt;br /&gt;感兴趣的朋友请发送简历到 recruit@solagame.club ，谢谢！</description><pubDate>Sun, 27 Aug 2023 15:24:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968712#reply1</guid></item><item><title>[前端开发] 尝试解决原子化 CSS 框架导致的类名单行过长的问题</title><link>https://www.v2ex.com/t/968711#reply0</link><description>&lt;p&gt;原子化 CSS 框架虽然好用，但是一直以来都有个麻烦的问题，写得太长了怎么办？越来越长这事儿是难以避免的，那应该怎么解决呢？&lt;/p&gt;
-&lt;p&gt;VS Code 可以设置单行强制换行，但如果使用了某个不能强制换行的方式查看代码就很尴尬了，另外也不能指望因为这种事儿让关联的所有人都设置这个属性吧，所以这种方式不是很 OK 。&lt;/p&gt;
-&lt;p&gt;既然不能从输出的代码解决问题，那就得换个思路了，在输入代码的时候就解决这个问题。&lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates" rel="nofollow"&gt;Tagged templates&lt;/a&gt; 是个好东西，可以基于此来构造类名的模板字符串，说干就干，于是有了 &lt;a href="https://github.com/yunsii/tagged-classnames-free" rel="nofollow"&gt;&lt;strong&gt;tagged-classnames-free&lt;/strong&gt;&lt;/a&gt;，想叫 &lt;a href="https://github.com/goldenpathtechnologies/tagged-classnames" rel="nofollow"&gt;tagged-classnames&lt;/a&gt;，但是已经被使用了，看起来作者的思路跟我很像，不过我是不太懂为啥他&lt;a href="https://github.com/goldenpathtechnologies/tagged-classnames#known-limitations" rel="nofollow"&gt;不保证输出结果的顺序&lt;/a&gt;，可能是为了性能？&lt;/p&gt;
-&lt;p&gt;我是基于 &lt;code&gt;clsx&lt;/code&gt; 和 &lt;code&gt;tailwind-merge&lt;/code&gt; 分别实现了两个工具函数 &lt;code&gt;cls&lt;/code&gt; 和 &lt;code&gt;tw&lt;/code&gt;，支持了一下&lt;strong&gt;单行注释&lt;/strong&gt;就搞定了。&lt;/p&gt;
-&lt;p&gt;另外还有个&lt;strong&gt;模板字符串格式化&lt;/strong&gt;的问题，重构代码的时候难免会让模板字符串的缩进变化，默认模板字符串是不会自动改变缩进长度的，这使得开发体验不甚理想，搜索一番发现了一个 eslint 的 &lt;a href="https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/template-indent.md" rel="nofollow"&gt;template-indent&lt;/a&gt; 规则，用上问题不就搞定了 😎（虽然之前基于 eslint 还是写了一个格式化插件，但是效果不甚理想，还是现成的舒服）。&lt;/p&gt;
-&lt;p&gt;最后还有另一个值得考虑的问题，如果模板字符串里只有字符串，一点表达式都没有，那完全可以去掉啊，我只是想用模板字符串的格式化功能而已，特别是对于只做 React 开发的我，老是被重复计算完全没意义。于是又搞了一个 unplugin 插件 &lt;a href="https://github.com/yunsii/unplugin-polish-tagged-templates" rel="nofollow"&gt;unplugin-polish-tagged-templates&lt;/a&gt;，可以在编译代码的时候去掉纯字符串的 tagged templates 。&lt;/p&gt;
-&lt;p&gt;至此，应该算是彻底解决了类名过长的问题，从&lt;strong&gt;开发&lt;/strong&gt;和&lt;strong&gt;编译&lt;/strong&gt;两个环节通过三个工具库解决了问题。完整演示可以访问这个页面 &lt;a href="https://tagged-classnames-free.vercel.app/examples" rel="nofollow"&gt;https://tagged-classnames-free.vercel.app/examples&lt;/a&gt; 查看效果，查看按钮的对应的 CSS 字符串源码已经被转换成纯字符串了。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 15:08:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968711#reply0</guid></item><item><title>[问与答] mac 异响</title><link>https://www.v2ex.com/t/968710#reply2</link><description>&lt;p&gt;mbp2018 突然异响，声音来自键盘那一面右上区间里面，我试过手动拉风扇转速，声音没变化，好像不是风扇的问题，请问大家有遇到这种情况的嘛
-&lt;a href="https://drive.google.com/file/d/1da9kSqpJNiVaqDdr3GY3oTGSrWrWAYXw/view?usp=drive_link" rel="nofollow"&gt;https://drive.google.com/file/d/1da9kSqpJNiVaqDdr3GY3oTGSrWrWAYXw/view?usp=drive_link&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:57:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968710#reply2</guid></item><item><title>[Apple] iOS 怎麼一鍵還原所有 App 的通知設置？</title><link>https://www.v2ex.com/t/968709#reply0</link><description>手機兩百多個軟件，這些年 分別給給不同的 app 設置了，稀奇古怪的通知設置，什麼關閉標記、關閉聲音、分組、橫幅動畫、鎖屏動畫、自己已經分不清了，現在想要一鍵還原成默認的通知設置。&lt;br /&gt;&lt;br /&gt;求解 怎麼做到。</description><pubDate>Sun, 27 Aug 2023 14:51:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968709#reply0</guid></item><item><title>[Python] 求分布式任务队列库推荐</title><link>https://www.v2ex.com/t/968708#reply1</link><description>&lt;p&gt;Celery&lt;/p&gt;
-&lt;p&gt;Dramatiq&lt;/p&gt;
-&lt;p&gt;taskiq&lt;/p&gt;
-&lt;p&gt;samuelcolvin / arq&lt;/p&gt;
-&lt;p&gt;不知道 dalao 们还有其他无推荐的？或者说一下什么情况下，应该要自己写一个。&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:42:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968708#reply1</guid></item><item><title>[NGINX] 为什么 nginx 反向代理，并发性能很差？</title><link>https://www.v2ex.com/t/968707#reply8</link><description>&lt;p&gt;前端服务器 和 源站服务器的硬件配置如下，系统是 centos7：&lt;/p&gt;
-&lt;p&gt;CPU：E5-2696V4*2(88 线程)
-内存：64G DDR4
-硬盘：500G SSD （读写 450M/s 左右）&lt;/p&gt;
-&lt;p&gt;前端和后端服务器都用的 nginx ，他俩单独测试并发都没问题。前端反向代理到后端后，正常连接总耗时 200ms ，但并发一旦超过 20 后，就至少有 1~2 个连接耗时超过 1.5 秒，如果加大并发，这种耗时较长的连接数量比例就越高，并发小于 20 后就一切正常。&lt;/p&gt;
-&lt;p&gt;前端服务器和源站服务器之间的网络质量是非常好的，而且基本可以确定不是源站的问题，因为接入 CDN 服务商，用单个 CDN 节点回源进行测试时，并发很高都不会出现耗时变长的情况。&lt;/p&gt;
-&lt;p&gt;我是从 nginx 配置 和 linux 内核参数 来进行优化，做了很多尝试，都没有效果，有遇到类似问题的朋友吗？可否指点一下？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:39:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968707#reply8</guid></item><item><title>[NAS] 影视下载求教。</title><link>https://www.v2ex.com/t/968706#reply12</link><description>&lt;p&gt;下载稍微老一点的电影。 比如：  摩天营救..google 搜索的种子 下载一点速度都没。
-请教下 BT 站里面的种子下载速度快吗？&lt;/p&gt;</description><pubDate>Sun, 27 Aug 2023 14:39:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968706#reply12</guid></item><item><title>[iPhone] 手机相机色彩还原就那么难吗? 怎么安卓就没哪个可以做到 iPhone 那种程度的色彩还原.</title><link>https://www.v2ex.com/t/968705#reply0</link><description>可能用接触的安卓机比较少, 但是用过的安卓机无非就是两个特点, 快门慢, 手抖照片就糊, 还有就是色彩严重失真, 不管是风景还是人物, 这里头有啥高端的学问吗, 难不成 iPhone 每个摄像头模组和屏幕自己都有出厂色彩校准数据?</description><pubDate>Sun, 27 Aug 2023 14:12:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/968705#reply0</guid></item></channel></rss>
+&lt;p&gt;main_test.go&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;package main
+
+import "teig"
+
+func Test_printLine(t *testing.T) {
+	printLine()
+}
+//报错.\main.go:12:12: fmt.Printf call has arguments but no formatting directives
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 28 Aug 2023 14:33:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969016#reply0</guid></item><item><title>[宽带症候群] 联通 39 携号转网真的不错，办了两路 1000m/200m。as9929 和公网 ip 都有了</title><link>https://www.v2ex.com/t/969015#reply3</link><description>&lt;p&gt;之前用的电信 199 加 50 精品网，三个副卡 30 。感觉好亏，联通两路加精品网也就 100 出头。
+而且副卡一毛钱一张🙃
+as9929 配合 BWG hk cmi 线路完美,另外一条公网可以转发手机流量，上传 200m 够用&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:33:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969015#reply3</guid></item><item><title>[Java] 有其他语言基础，如何转型 Java ？</title><link>https://www.v2ex.com/t/969014#reply4</link><description>&lt;p&gt;如题。
+题主有 python 、golang 语言基础，主要技术栈是:
+python：django 、celery 常用的 web 后端，有几个 web 后台项目基础；
+golang：云原生 client-go 那一套，熟悉 rancher 、gin 等&lt;/p&gt;
+&lt;p&gt;现在因为兴趣想自学 java 转型。
+目前简单看完了《廖雪峰 JAVA 教程》，熟悉 maven 配置等，但还是一知半解，觉得 JAVA 博大精深，生态太广了，毫无目的的学下去只会晕头转向。
+我计划花半年时间，每天花费 1-2 小时学习，我的学习的目标如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;熟练掌握 JAVA 基础，语法、常用包、模块等比如时间、http 、文件 IO 、MAP/LIST 等&lt;/li&gt;
+&lt;li&gt;熟练掌握 JAVA 面向对象、常用设计模式(虽然不限于 JAVA)、高级特性(注解、泛型、反射、多线程、函数编程等)、常用封装(比如 MYSQL 封装、Redis 封装)等&lt;/li&gt;
+&lt;li&gt;熟练掌握 Spring/Springboot 、mybatis 、Mysql 等 CRUD 开发&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我后续项目实战阶段想看 mall 那一套。&lt;/p&gt;
+&lt;p&gt;现在迷惑的就是:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;有没有一些简单易懂讲解 JAVA 基础的网站？我目前是打算先第一遍通读《 JAVA 核心技术 卷 I 》 &lt;/li&gt;
+&lt;li&gt;后续我的学习计划安排应该如何逐步展开？&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Mon, 28 Aug 2023 14:31:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969014#reply4</guid></item><item><title>[酷工作] 高级产品经理-远程-全职</title><link>https://www.v2ex.com/t/969013#reply0</link><description>岗位职责&lt;br /&gt;&lt;br /&gt;1. 负责项目相关功能设计、需求调研、竞品分析跟踪、产品定位、需求分解、功能规划、设计产品原型、撰写需求文档，对产品运营能提供建议；&lt;br /&gt;2.负责与研发、设计、测试等部门沟通、紧密合作，确保协作部门对产品文档有充分的理解并具体落地实施，以确保产品方案准时、高质量的交付；&lt;br /&gt;3.收集产品的用户反馈，分析用户的需求和行为，对产品进行持续的改进和优化。对产品的用户行为数据进行监控，并对数据进行统计分析；负责与协助产品上线以后的改进，BUG 跟踪、收集改进意见、提供改进方案;&lt;br /&gt;4.产品的迭代更新工作，对产品运营数据进行监控、统计和分析；&lt;br /&gt;5.对 dex 、cex 的设计、实现、区别有较深的理解，对 Saas 平台有一定经验优先，有区块链项目经验优先；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;岗位要求&lt;br /&gt;&lt;br /&gt;1. 大学本科及以上学历，计算机科学与工程、通信工程等相关专业；&lt;br /&gt;2. 3 年以上相关工作经验；&lt;br /&gt;3. 熟练使用产品设计工具，包括 Axure 、xmind 等，具备优秀的逻辑思维、良好的市场洞察、竞品分析与产品功能设计能力；&lt;br /&gt;4. 具有 To B/To C 的产品或解决方案经验，熟悉区块链领域产品类型及经营模式，深刻理解产业发展方向方向，有区块链相关解决方案、区块链产品设计工作经验者优先；&lt;br /&gt;5. 具有较强的沟通能力、语言表达能力、文档编写能力；&lt;br /&gt;6. 责任心强、抗压能力强；</description><pubDate>Mon, 28 Aug 2023 14:27:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969013#reply0</guid></item><item><title>[程序员] Spring Boot, Micrometer, Prometheus, Grafana - 计算 TPS 和平均执行时间，怎么写 PromQL？</title><link>https://www.v2ex.com/t/969012#reply0</link><description>&lt;p&gt;我的 Spring Boot 应用暴露了下面这些 metrics ，我想计算&lt;code&gt;MsgProcessor.process&lt;/code&gt;的 TPS 和平均执行时间，请问怎么写 PromQL ？&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# HELP MsgProcessor_process_seconds_max  
+# TYPE MsgProcessor_process_seconds_max gauge
+MsgProcessor_process_seconds_max{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 0.0
+# HELP MsgProcessor_process_seconds  
+# TYPE MsgProcessor_process_seconds summary
+MsgProcessor_process_seconds_count{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 13237.0
+MsgProcessor_process_seconds_sum{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 2.735527137
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;By the way ，我是参考&lt;a href="https://www.tutorialworks.com/spring-boot-prometheus-micrometer/" rel="nofollow"&gt;Spring Boot app metrics - with Prometheus and Micrometer - Tutorial Works&lt;/a&gt;实现的。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:24:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969012#reply0</guid></item><item><title>[Windows] 今天安装 Windows 11 的时候，发现了这个版本最好的一点</title><link>https://www.v2ex.com/t/969010#reply8</link><description>&lt;p&gt;就是安装过程中设置计算机名，以往都是安装完了，再自己进设置页面改，还要重启系统&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:12:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969010#reply8</guid></item><item><title>[宽带症候群] 北京联通沃宽提速的问题</title><link>https://www.v2ex.com/t/969009#reply4</link><description>今天买了个上行提速包，激活之后首页依然显示没有可用的提速包，但是看订单显示已激活。&lt;br /&gt;想问下 v2 上有没有用沃宽提速的，这是我的问题还是联通的问题欸</description><pubDate>Mon, 28 Aug 2023 14:10:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969009#reply4</guid></item></channel></rss>
