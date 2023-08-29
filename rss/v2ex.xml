@@ -1,237 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 28 Aug 2023 18:28:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Android] 索尼智能电视无法（再次）安装 Clash for Android</title><link>https://www.v2ex.com/t/969031#reply4</link><description>&lt;p&gt;如题。&lt;/p&gt;
-&lt;p&gt;电视型号为大法 X9000H ，目前已经升到了最新的系统版本。&lt;/p&gt;
-&lt;p&gt;21 年刚购入这台电视的时候在出厂系统上安装了 Clash for Android 的某个旧版本，连接一个一直用到今天的机场一直都还算能凑合用。可能是因为机场内部更新的原因，有很多在同一个网络环境下电脑能连上的节点用电视就连不上，所以打算更新一下电视端的 Clash 客户端到最新版本来解决问题。&lt;/p&gt;
-&lt;p&gt;我的操作：按照当时的方法下载了最新版 universal 版本的 Clash for Android 安装包，放到 U 盘中试图让电视自己安装，然后电视自带（也是最开始使用）的“应用助手”显示”应用未安装“。强制停止运行中的 Clash/重启电视/插拔 U 盘 重试多次均无果&lt;/p&gt;
-&lt;p&gt;然后就到了我手贱的时候：我把原有的虽然不咋好用但能凑合用的旧版本删掉了😂结果发现按原来的操作依然安装不上&lt;/p&gt;
-&lt;p&gt;于是我祭出了 adb 大法，发现安装不成功居然是一个存储空间不足的报错，但我查看电视自己显示还有 200 多 M 的剩余空间，安装一个 10MB 左右的 Clash 怎么都应该是绰绰有余的...&lt;/p&gt;
-&lt;p&gt;我还把安装包 push 到电视机本地，试图不使用 streaming 的方式安装，仍然不行（以下是截图）&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/a/QZc2xfa" rel="nofollow"&gt;https://imgur.com/a/QZc2xfa&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我已经确定这台电视只支持 armv7 版本的安装包，同时确保 apk 是从开发者 GitHub Releases 页面下载的，包本身不会有问题&lt;/p&gt;
-&lt;p&gt;求问各位大佬有没有啥办法🙏 不然我就得把家里吃灰的 R6300 拿出来刷 OpenWrt 折腾半天了...&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 16:49:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969031#reply4</guid></item><item><title>[问与答] 公司法修订草案：规定有限责任公司认缴出资额应当自公司成立之日起五年内缴足</title><link>https://www.v2ex.com/t/969030#reply2</link><description>&lt;p&gt;本次审议的草案三次审议稿作如下主要修改：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;完善注册资本认缴登记制度，&lt;strong&gt;规定有限责任公司股东认缴的出资额应当自公司成立之日起五年内缴足&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;完善公司民主管理的规定。&lt;/li&gt;
-&lt;li&gt;进一步加强股东权利保护。&lt;/li&gt;
-&lt;li&gt;进一步强化对控股股东和实际控制人的规范。&lt;/li&gt;
-&lt;li&gt;完善公司债券相关规定。六是，完善法律责任相关规定。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href="http://www.npc.gov.cn/npc/c30834/202308/c5fd30f6020d4a1c9c5741908bdcc541.shtml" rel="nofollow"&gt;网址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这可能会推行吗，小公司也太难了吧&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 16:27:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969030#reply2</guid></item><item><title>[Flutter] 关于 flutter build apk 失败</title><link>https://www.v2ex.com/t/969028#reply0</link><description>&lt;p&gt;今天执行&lt;code&gt;flutter build apk&lt;/code&gt;时，说检测不到 Facebook 的 android sdk ，如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;org.gradle.internal.resolve.ArtifactResolveException: Could not determine artifacts for com.facebook.android:facebook-android-sdk:12.2.0: Skipped due to earlier error
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;后面试了其它电脑，可以正常 build ，就这一台不行。&lt;/li&gt;
-&lt;li&gt;于是把 gradle 的 caches 目录改名，实现清缓存的效果。再执行 build ，提示 &lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; 的链接都连不上。&lt;/li&gt;
-&lt;li&gt;build.gradle 的配置中，试过&lt;code&gt;maven { url '&lt;a href="https://maven.aliyun.com/repository/google/'" rel="nofollow"&gt;https://maven.aliyun.com/repository/google/'&lt;/a&gt; }&lt;/code&gt;，不能代替&lt;code&gt;google()&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;搞了半天没弄好 gradle 配置代理，于是 Android 手机开 WiFi ，电脑连上去，实现全局代理。然后 gradle 就能连上 &lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; ，并下载相关 jar 。&lt;/li&gt;
-&lt;li&gt;gradle 重新下载所有 jar 还是太慢，于是把原来的 caches 目录换回来，在全局代理的情况下执行 build ，居然成功了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;疑问：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;那电脑一直都能 build 的，今天突然就不行了。大家有遇到过吗？&lt;/li&gt;
-&lt;li&gt;那错误提示，也没有提到网络链接相关，类似的问题，不是&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://dl.google.com" rel="nofollow"&gt;https://dl.google.com&lt;/a&gt; ，以前一直能直连的，而且下载 Android SDK 的速度很快。今天才发现不能直连了，大家也是这样吗？&lt;/li&gt;
-&lt;li&gt;Android 项目的 gradle 如何配置代理？试了很多方法，都不行。例如：shell 的环境变量、设置项目的 gradle.properties 、设置用户文件夹的.gradle/gradle.properties 、设置 gradle 的 JVM 参数。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 28 Aug 2023 16:10:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969028#reply0</guid></item><item><title>[酷工作] [深圳] 创业项目，找技术合伙人</title><link>https://www.v2ex.com/t/969027#reply1</link><description>找技术合伙人，合适者可远程，具体详聊。&lt;br /&gt;如果有意向，可以发我简历，我们详细沟通下。&lt;br /&gt;&lt;br /&gt;微信 b64：Y2hpbGFtMDE4Cg== （ base64 ）&lt;br /&gt;&lt;br /&gt;技术合伙人要求：&lt;br /&gt;1.熟悉前后端开发，有 web 应用开发经验&lt;br /&gt;2.有足够的热情和精力投入到项目&lt;br /&gt;3.有创业精神和有良好的沟通协作能力&lt;br /&gt;4.对 AI 领域有一定的认识或者强烈的学习热情&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;详细介绍：&lt;br /&gt;1.产品是什么？&lt;br /&gt;AI 图像生成领域，具体再详聊。&lt;br /&gt;&lt;br /&gt;2.团队情况&lt;br /&gt;目前团队成员 5 人，&lt;br /&gt;其中后端开发实习 2 名，全职运营 1 名，一位合伙人负责产品&amp;amp;营销（全职），一位合伙人负责运营（全职）&lt;br /&gt;&lt;br /&gt;3.现阶段产品服务的人群是谁？&lt;br /&gt;当下对文生图有实际应用场景，能高效嵌入到当前工作流的用户群。具体详聊。&lt;br /&gt;&lt;br /&gt;4. [项目进度]&lt;br /&gt;a. 一期产品需求文档已确定 （有高保真 UI 稿）&lt;br /&gt;b. 前后端正在开发中，进度 60%，需要收尾</description><pubDate>Mon, 28 Aug 2023 15:45:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969027#reply1</guid></item><item><title>[JavaScript] 这是一个极其小众的开源库，从此我也是给开源界贡献了力量的人</title><link>https://www.v2ex.com/t/969026#reply1</link><description>&lt;p&gt;从事开发以来一直都以一个伸手党活跃于开源社区，这次也算是做了一会贡献党。但是第一次写开源库，如果有不规范的地方希望各位大佬不吝赐教。当然如果能得到大佬们的 star 就最好了。&lt;/p&gt;
-&lt;p&gt;这是一个比较小众的工具，用于获取紫微斗数命盘数据。有兴趣的大佬可以去看看。&lt;/p&gt;
-&lt;ul&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 29 Aug 2023 08:38:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有在京东方中祥英的吗</title><link>https://www.v2ex.com/t/969241#reply0</link><description>&lt;p&gt;这是一家什么样的公司？&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:32:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969241#reply0</guid></item><item><title>[问与答] 求 google seo 好点的教程推荐</title><link>https://www.v2ex.com/t/969239#reply0</link><description>如题，免费教程也好，付费教程也好，求推荐讲的好点的</description><pubDate>Tue, 29 Aug 2023 08:29:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969239#reply0</guid></item><item><title>[NAS] 绿联 4600pro 待机 cpu 51 度正常嘛？</title><link>https://www.v2ex.com/t/969238#reply0</link><description>硬盘才 30 多度，我也没跑 docker 一类的服务，cpu 待机温度是不是高了点？</description><pubDate>Tue, 29 Aug 2023 08:28:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969238#reply0</guid></item><item><title>[macOS] 为什么感觉 Mac 上的 macOS 虚拟机,没有 Mac 上 Windows 虚拟机好用呢</title><link>https://www.v2ex.com/t/969237#reply2</link><description>&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;GitHub&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/SylarLong/astro" rel="nofollow"&gt;https://github.com/SylarLong/astro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;虚拟机软件使用的是 ParallelsDesktop,手动安装的,不能选择融合模式,好像也不能共享文件夹,只能通过 sftp 传输文件,很麻烦&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;NPM&lt;/p&gt;
-&lt;p&gt;https://www.npmjs.com/package/@sylarlong/astro&lt;/p&gt;
+&lt;p&gt;不过 macOS 的虚拟机内存占用比 Windows 虚拟机小了很多&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;文档&lt;/p&gt;
-&lt;p&gt;README 里面的文档比较旧了，这里是最新文档地址: &lt;a href="https://astro.14star.cn/" rel="nofollow"&gt;https://astro.14star.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;macOS 上有没有类似 ccproxy 的软件,可以把虚拟机里的网络共享到宿主机,或者有没有比 ssh + privoxy 更好的方法啊&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;文档还在完善中，各位大佬多多支持。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:44:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969026#reply1</guid></item><item><title>[问与答] 你们公司请长事假容易吗</title><link>https://www.v2ex.com/t/969025#reply1</link><description>&lt;p&gt;RT.&lt;br /&gt;
-你们公司允许连着请 10 个工作日的事假吗？我们公司五一、十一前后不允许请假，同时员工手册说一次可以最长请 10 个工作日事假，但是实际是不允许这样请，最多只能请 5 天。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:23:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969025#reply1</guid></item><item><title>[酷工作] 日本东京 秋葉原 招聘 Android / iOS 原生开发工程师</title><link>https://www.v2ex.com/t/969024#reply0</link><description>&lt;h2&gt;公司简介&lt;/h2&gt;
-&lt;p&gt;ELESTYLE 株式会社，成立于 2014 年，互联网创业公司。  &lt;/p&gt;
-&lt;p&gt;公司位于日本东京秋叶原，主营业务是聚合支付 SaaS 和应用平台 PaaS 。&lt;/p&gt;
-&lt;p&gt;敝司从创业初期就是一家有着互联网基因，强调工程师文化技术驱动的公司，
-现已为数百家日本企业提供服务，具体业务内容和成功案例可以参见公司的产品主页： &lt;a href="https://elepay.io" rel="nofollow"&gt;https://elepay.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;更多简介和公司福利等，请参见我以前发的帖子，就不再赘述。&lt;/p&gt;
-&lt;p&gt;→ &lt;a href="https://v2ex.com/t/936451" rel="nofollow"&gt;日本东京！千万年薪 招聘 [高级前端]、[高级后端]、[设计师] 和 [产品经理]&lt;/a&gt;
-&lt;img alt="办公室环境" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TYF0eDX.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;为了避免浪费您宝贵的时间，请仔细阅读职位需求后再投简历！  &lt;/p&gt;
-&lt;p&gt;薪酬福利条件先写在这里：&lt;/p&gt;
-&lt;p&gt;工作地点：日本东京（秋叶原）&lt;br /&gt;
-上述所有职位预期薪资范围：600 万〜 1,000 万日元（税前，年薪，奖金和期权不包括在这个数字里面）&lt;br /&gt;
-公司提供工作签证（分数达到要求的直接给高级人才签证）&lt;br /&gt;
-试用期：3 个月（试用期全薪）  &lt;/p&gt;
-&lt;p&gt;预期的薪资范围供参考，如果您的能力或者对薪资的期望和我们所预期的范围相差较大，请斟酌。&lt;/p&gt;
-&lt;p&gt;另外我们是高速成长期的创业公司，不搞 996 也不是经常加班，但是我们期待对工作有极高热情，有意愿和团队一起成长的人才加入。  &lt;/p&gt;
-&lt;p&gt;如果对以下职位感兴趣，并符合职位要求，请将简历发邮件到： &lt;a href="mailto:hr@elestyle.jp"&gt;hr@elestyle.jp&lt;/a&gt;&lt;br /&gt;
-（邮件标题格式：应聘_2023 夏秋_姓名_from_v2ex ）&lt;/p&gt;
-&lt;h2&gt;职位描述&lt;/h2&gt;
-&lt;p&gt;■ [高级 Android / iOS 原生开发工程师] x 2 名（ Tech Lead ，无日语要求）&lt;/p&gt;
-&lt;p&gt;职位需求&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;5 年以上 Android / iOS 工作经验（此职位偏重 Andoird 部分）&lt;/li&gt;
-&lt;li&gt;能够独自担当起 Android / iOS 程序开发&lt;/li&gt;
-&lt;li&gt;精通 Kotlin / Java&lt;/li&gt;
-&lt;li&gt;精通 Swift / Objective-C&lt;/li&gt;
-&lt;li&gt;熟悉至少一种 Native 开发框架（ Flutter / React Native 等）&lt;/li&gt;
-&lt;li&gt;熟悉至少一种自动化 CI/CD 解决方案&lt;/li&gt;
-&lt;li&gt;有学习新技术的热情和能力&lt;/li&gt;
-&lt;li&gt;有互联网行业从业经验&lt;/li&gt;
-&lt;li&gt;够独立发现问题，提出问题，解决问题的能力&lt;/li&gt;
-&lt;li&gt;阅读英语文档的能力&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;加分项目&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有原生 SDK 开发经验&lt;/li&gt;
-&lt;li&gt;有发布在 App Store 上可以把玩的 App&lt;/li&gt;
-&lt;li&gt;GitHub 项目活跃度高&lt;/li&gt;
-&lt;li&gt;Stack Overflow 高分回答者&lt;/li&gt;
-&lt;li&gt;有各种动画特效制作的奇思妙想&lt;/li&gt;
-&lt;li&gt;日语二级或以上&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;补充信息&lt;/h2&gt;
-&lt;p&gt;接收简历和面试期间： 即日起 ～ 2023 年底&lt;br /&gt;
-面试轮数：2 ～ 3 轮&lt;br /&gt;
-在国内的同学，通常拿到 offer 之后 3 个月内可正式入职（已经在日本的同学拿到 offer 即可入职）&lt;br /&gt;
-至于日本生活相关的内容和讨论，我以前的招聘文中有多次涉及，就不再复述。感兴趣的同学可以翻翻我以前发的内容和下面的讨论。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 15:09:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969024#reply0</guid></item><item><title>[生活] 回小城市躺一段时间，有什么渠道可以加入本地一些团体组织或认识更多的人？</title><link>https://www.v2ex.com/t/969022#reply4</link><description>&lt;h2&gt;需求背景&lt;/h2&gt;
-&lt;p&gt;OP 被优化了，目前已经回家躺了一个多月了，一开始还是很爽的，就是偶尔需要一些社交，一直呆在家里太闷了&lt;/p&gt;
-&lt;h2&gt;一些想法&lt;/h2&gt;
-&lt;p&gt;原定计划是躺三个月后再找工作，按目前这行情来看根本不容乐观，所以我现在的计划是三个月后佛系找工作，能远程面试的就面,不能的直接 PASS ，因为在出租屋里要是一个月都找不到心态会崩&lt;/p&gt;
-&lt;h2&gt;一些尝试&lt;/h2&gt;
-&lt;p&gt;也下过一些组织打球或者交友之类的软件，结果发现在小城市根本没人用...&lt;/p&gt;
-&lt;p&gt;请问大家如何释放这些社交需求并结识一些人，男女都可。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:43:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969022#reply4</guid></item><item><title>[酷工作] [远程兼职] Fabrie 前端远程兼职，暂无正式职位（请见谅）</title><link>https://www.v2ex.com/t/969021#reply0</link><description>&lt;h1&gt;&lt;/h1&gt;
-&lt;h2&gt;&lt;strong&gt;提问环节，为什么总是看你在招聘？是不是骗骗简历？&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;1 、在这里统一回复大家，因为事是兼职岗位，每当项目结束，会有一些小伙伴离开，也有一些小伙伴留下，而我们的产品项目比较多，尤其是近期 AI 板块，正职同学完全抽不开时间，就要求我们不断的招人来弥补空缺，赶上项目进度
-2 、至于骗简历，大家放心，我本身也是一名开发，对公司的情况也算清楚，公司确实缺人，虽然已经有很多兼职了，但还是多多益善&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;提问环节，为什么我的简历投了没有消息&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;因为每次开放职位，就会收到大量的简历，身为一名开发人员，在筛选简历的同时，还需要兼顾开发，所以，可能有些同学不太符合我们的岗位，注意，并不是说这些同学不够优秀，而是技术栈和我们不太匹配，有些我会回复为什么不匹配，而时间压缩的情况下，实在来不及，还请抱歉&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;看了大家的评论，没有及时回复，很抱歉，下面针对大家关心的问题做一个说明&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;1 、这是一个兼职岗位，需要远程工作，一般会在晚上九点左右沟通工作进度，请大家投简历之前评估一下自己的时间&lt;/p&gt;
-&lt;p&gt;2 、薪资范围：大概 80 ～ 150 时薪左右（如果比较优秀，可以往上谈）&lt;/p&gt;
-&lt;p&gt;3 、工作时间：平时一天工作时长最好维持在 2 ～ 3 小时周六周日 6 ～ 8 小时最佳，当然也可以视情况而定，一般根据需求合理安排时间即可&lt;/p&gt;
-&lt;p&gt;4 、、是否可以转正：一般来说，现阶段没有多余的正式岗位，是无法转成正式的，只有有坑的情况下，会优先考虑合作过的同学（已经有不少同学转成正式了）&lt;/p&gt;
-&lt;p&gt;5 、有时差怎么办：大家放心，和你对接的同学，会尽力支持你，文档和注释，都非常规范&lt;/p&gt;
-&lt;p&gt;6 、如果有更多问题，欢迎大家加我 v 交流&lt;/p&gt;
-&lt;p&gt;7 、大家如果给简历，尽量给 PDF 的（大家可以搜一下，简历模版，突出重点，这样简历会更好过）&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Fabrie 文档是一款服务于设计、工程与教育等场景的在线协作工具，为传统实体产品开发与设计行业提供了一套提升协作效率、全流程数字化管理的在线工作台，以文档式的工具形态更好的为设计行业长尾需求提供灵活支持。Fabrie 团队核心成员来自于钉钉、Teambition 、 百度，携程、Nike 等优秀企业，以及帝国理工、皇家艺术学院、港科大、上交、复旦等国内外高校。 目前产品在快速迭代中，希望招募热爱设计、关注前沿技术以及相信工具的伙伴加入，目前有包括视觉设计、前后端开发、测试、运营等岗位，欢迎投递简历 入职配备 Mac 电脑，显示器&lt;/p&gt;
-&lt;p&gt;官网 &lt;a href="http://www.fabrie.cn/" rel="nofollow"&gt;www.fabrie.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;前端岗位（兼职远程） 任职要求:&lt;/p&gt;
-&lt;p&gt;大学本科及以上学历，计算机或相关专业，英语四级及以上，能够阅读英文文档； 精通 JavaScript 、HTML5 、CSS3 等基础技术，熟悉 ES6 ，ES7,Typescript,有模块化编程思想；对前端组件化有一定的运用和理解；&lt;/p&gt;
-&lt;p&gt;熟练掌握 ajax 技术、http 等基础知识，了解跨域机制；&lt;/p&gt;
-&lt;p&gt;3 年以上前端实际开发经验，深入理解浏览器工作原理，熟悉主流浏览器特性，能够很好地解决兼容问题、性能优化问题，熟悉响应式布局和屏幕适配技术。&lt;/p&gt;
-&lt;p&gt;熟练使用 Vue 框架，熟练掌握 vuex 和 vueRouter ，熟练使用 Git 管理代码，熟悉 JQuery 、react 等； 熟悉 Canvas 、svg 等技术的优先考虑；&lt;/p&gt;
-&lt;p&gt;对设计有了解有追求的优先考虑；&lt;/p&gt;
-&lt;p&gt;热爱技术，有好奇心，热爱钻研前沿技术、新产品，具有快速学习能力；&lt;/p&gt;
-&lt;p&gt;对页面布局具有深刻理解，注重细节，善于分析并改善产品的视觉感觉和用户体验；&lt;/p&gt;
-&lt;p&gt;具有良好的沟通能力和团队合作精神、优秀的分析问题和解决问题的能力；&lt;/p&gt;
-&lt;p&gt;有图像处理 /图形编辑 /地图类产品开发经验的优先考虑。&lt;/p&gt;
-&lt;p&gt;有 C++ / webGL / skia 开发经验者优先&lt;/p&gt;
-&lt;p&gt;投递方式 请发送您的简历至微信 15738856711(同电话号)&lt;/p&gt;
-&lt;p&gt;最后，祝大家都能找到合适自己的工作，加油⛽️⛽️⛽️&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:39:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969021#reply0</guid></item><item><title>[美国] 请教 twenty twenty-three 主题的 WordPress 电脑版变形的问题</title><link>https://www.v2ex.com/t/969020#reply0</link><description>&lt;p&gt;做了 WordPress 的英文站，twenty twenty-three 主题，移动版还好，但电脑版变形了，文章的标题竖起来了，而且这个主题的首页有一行文字，我想把它删掉，就是 blog about 那一行，但我在 index.php 与 index.html 里都没有找到那行文字，请大佬赐教一下，非为做外链:&lt;/p&gt;
-&lt;p&gt;goodxyz.xyz&lt;/p&gt;
-&lt;p&gt;另外，请问一下我是在 phpstudy 搭建的 WordPress ，www 文件里有个 index.php,主题文件夹也有个 index.php,她们有什么不同吗？期待前辈赐教。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:39:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969020#reply0</guid></item><item><title>[Google] 关于 google.com 自动重定向至 google.cn/m</title><link>https://www.v2ex.com/t/969019#reply7</link><description>&lt;p&gt;我测试的触发条件：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;HK 节点&lt;/li&gt;
-&lt;li&gt;UA 为手机端&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;v 友们也会出现这个问题吗？现在路由器上都得挂其他地区的节点了，不然用手机搜索贼不方便&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="20230828222927" class="embedded_image" rel="noreferrer" src="https://pic.jiefly.cn/20230828222927.png" /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Mon, 28 Aug 2023 14:37:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969019#reply7</guid></item><item><title>[程序员] 独立服务器 5 个 IP，打算装个 PVE 创立 VMs,如何把外部公网 IPV4 的 IP 同 NAT 指派给指定的 VM</title><link>https://www.v2ex.com/t/969018#reply11</link><description>&lt;p&gt;找了一下，一堆资料，已经搞混了，所以想一步到位请教做过的大神直接给出标准答案照抄就好了。&lt;/p&gt;
-&lt;p&gt;先提前谢谢了。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:36:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969018#reply11</guid></item><item><title>[宽带症候群] [工具推荐] 如何维护一份安全+高度定制化的代理软件配置托管 API</title><link>https://www.v2ex.com/t/969017#reply1</link><description>&lt;h3&gt;前言&lt;/h3&gt;
-&lt;p&gt;从我 2019 年底开始第一次发现并使用 Surgio 以来，除开第一次配置的时候花费了大量时间，给作者发邮件，在 tg 群里取经等，截止目前已经快稳定使用 4 个年头了&lt;/p&gt;
-&lt;p&gt;经常会在 v2 看到有各种提问，“&lt;strong&gt;怎么组合多个机场订阅？&lt;/strong&gt;”，往机场提供的托管配置里添加个人定制的配置等等，每次我看到基本都会在下面说“&lt;strong&gt;要不去试试 Surgio&lt;/strong&gt;”（开始有水军嫌疑了，但是个人是觉得真的好用&lt;/p&gt;
-&lt;p&gt;目前我这个新手包里，准备了常见的 Clash/QX/Surge 三个软件的配置文件，相信能够覆盖大部分人的使用需求了，按照之前帮助过的一个老哥的话来说，“之前一直看不太懂 Surgio 的文档，有你发我的这份能够直接运行的新手包之后，回过头再去看文档，发现很多就恍然大悟了”&lt;/p&gt;
-&lt;h3&gt;劝退？&lt;/h3&gt;
-&lt;p&gt;看到过不少人因为觉得 Surgio 配置繁琐，文档难以理解，加上大部分人没有这个时间去慢慢研究，就被劝退了，确实 Surgio 的文档比较的“&lt;strong&gt;程序员&lt;/strong&gt;”，对于一些才上手玩代理分流工具 App 的人来说确实比较晦涩；&lt;/p&gt;
-&lt;p&gt;几年来在 tg 上已经帮助了好几个不管是 v2 的还是 tg 群里的朋友实现了他们自己的 Surgio 托管，这也是我这次想来推行这个新手包的目的，让自己一劳永逸，也让别人更加方便&lt;/p&gt;
-&lt;h3&gt;类似工具对比？优势？&lt;/h3&gt;
-&lt;p&gt;你可能会说怎么不用各种订阅转换、Sub-store 等等工具，其实最主要的原因是我最开始就在用 Surgio 这个工具，并且后期维护相当简单，也能够充分保护订阅的隐私性和对配置模板的高度定制化，如果确实你更习惯和熟练其他的工具，那其实也没有必要强行用 Surgio&lt;/p&gt;
-&lt;h3&gt;使用步骤&lt;/h3&gt;
-&lt;p&gt;只需要点击下面的 Deploy 按钮即可生成一份“初始化”的，托管在 Netlify 平台的配置，同时也会在你的 Github 仓库里 clone 一份代码，请记得务必在更改/添加你的订阅敏感信息之前，将 surgio-starter-kit 这个 repo 设置为&lt;strong&gt;私有&lt;/strong&gt;，避免&lt;strong&gt;订阅泄露&lt;/strong&gt;！！！！&lt;/p&gt;
-&lt;h3&gt;Deploy to Netlify&lt;/h3&gt;
-&lt;p&gt;点击即可直接部署到 Netlify&lt;/p&gt;
-&lt;p&gt;Surgio 支持部署到 Vercel/Railway/自建等平台，这里只以 Netlify 为例子&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://app.netlify.com/start/deploy?repository=https://github.com/tediorelee/surgio-starter-kit" rel="nofollow"&gt;&lt;img alt="Deploy to Netlify" class="embedded_image" rel="noreferrer" src="https://www.netlify.com/img/deploy/button.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;等待 Netlify 自动 build 完成之后，通过生成的随机前缀 &lt;a href="https://XXXX.netlify.app" rel="nofollow"&gt;https://XXXX.netlify.app&lt;/a&gt; 即可访问订阅托管面板，默认密码是&lt;strong&gt;token&lt;/strong&gt;，请尽早修改代码根目录下&lt;strong&gt;surgio.conf.js&lt;/strong&gt;里的&lt;code&gt;accessToken&lt;/code&gt;和&lt;code&gt;viewerToken&lt;/code&gt;字段（强烈建议随机生成 16 位以上，包含字母数字符号的强密码&lt;/p&gt;
-&lt;p&gt;&lt;img alt="gateway" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XvXB5e1.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dashboard" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/OEJY6Fu.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;简单示例&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“我想把两个机场的订阅加入到同一份配置文件中，应该怎么做？”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;非常简单，新增两个&lt;strong&gt;provider&lt;/strong&gt;文件，假设为&lt;strong&gt;sub1.js&lt;/strong&gt;和&lt;strong&gt;sub2.js&lt;/strong&gt;，（文件内容请参考现有的&lt;strong&gt;example.js&lt;/strong&gt;），然后在&lt;strong&gt;surgio.conf.js&lt;/strong&gt;中修改为，这里以 Clash 配置为例&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;{
-	name: 'Clash.yaml',
-	template: 'auto_clash',
-	provider: 'sub1',
-	combineProviders: ['sub2'],
-	categories: [categories.CLASH],
-  }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这样最后生成的&lt;code&gt;Clash.yaml&lt;/code&gt;文件就包含了&lt;code&gt;sub1&lt;/code&gt;和&lt;code&gt;sub2&lt;/code&gt;两个机场的订阅&lt;/p&gt;
-&lt;h3&gt;其他&lt;/h3&gt;
-&lt;p&gt;Surgio 文档地址：&lt;a href="https://surgio.js.org/" rel="nofollow"&gt;一站式各类代理规则生成器 | Surgio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Surgio tg 群： &lt;a href="https://t.me/surgiogroup" rel="nofollow"&gt;https://t.me/surgiogroup&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;想到再写，未完待续...&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:35:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969017#reply1</guid></item><item><title>[问与答] Golang 的 fmt.printf()在单元测试中的一次异常</title><link>https://www.v2ex.com/t/969016#reply0</link><description>&lt;p&gt;本人 golang 版本是 1.19.2 ，在公司中用的是 1.20 。
-我知道是因为 format 时少了一个参数，我好奇的是为什么在执行 test 时编译不通过，而执行 main 的时候是可运行的。
-不说废话，上代码，各位大哥看看是什么原因。&lt;/p&gt;
-&lt;p&gt;main.go&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;package main
-
-import (
-	"fmt"
-)
-
-func main() {
-	printLine()
-}
-
-func printLine() {
-	fmt.Printf("without arguments line", "arg
-ument")
-}
-//输出 without arguments line%!(EXTRA string=argument)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;main_test.go&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;package main
-
-import "teig"
-
-func Test_printLine(t *testing.T) {
-	printLine()
-}
-//报错.\main.go:12:12: fmt.Printf call has arguments but no formatting directives
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 28 Aug 2023 14:33:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969016#reply0</guid></item><item><title>[宽带症候群] 联通 39 携号转网真的不错，办了两路 1000m/200m。as9929 和公网 ip 都有了</title><link>https://www.v2ex.com/t/969015#reply3</link><description>&lt;p&gt;之前用的电信 199 加 50 精品网，三个副卡 30 。感觉好亏，联通两路加精品网也就 100 出头。
-而且副卡一毛钱一张🙃
-as9929 配合 BWG hk cmi 线路完美,另外一条公网可以转发手机流量，上传 200m 够用&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:33:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969015#reply3</guid></item><item><title>[Java] 有其他语言基础，如何转型 Java ？</title><link>https://www.v2ex.com/t/969014#reply4</link><description>&lt;p&gt;如题。
-题主有 python 、golang 语言基础，主要技术栈是:
-python：django 、celery 常用的 web 后端，有几个 web 后台项目基础；
-golang：云原生 client-go 那一套，熟悉 rancher 、gin 等&lt;/p&gt;
-&lt;p&gt;现在因为兴趣想自学 java 转型。
-目前简单看完了《廖雪峰 JAVA 教程》，熟悉 maven 配置等，但还是一知半解，觉得 JAVA 博大精深，生态太广了，毫无目的的学下去只会晕头转向。
-我计划花半年时间，每天花费 1-2 小时学习，我的学习的目标如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;熟练掌握 JAVA 基础，语法、常用包、模块等比如时间、http 、文件 IO 、MAP/LIST 等&lt;/li&gt;
-&lt;li&gt;熟练掌握 JAVA 面向对象、常用设计模式(虽然不限于 JAVA)、高级特性(注解、泛型、反射、多线程、函数编程等)、常用封装(比如 MYSQL 封装、Redis 封装)等&lt;/li&gt;
-&lt;li&gt;熟练掌握 Spring/Springboot 、mybatis 、Mysql 等 CRUD 开发&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我后续项目实战阶段想看 mall 那一套。&lt;/p&gt;
-&lt;p&gt;现在迷惑的就是:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;有没有一些简单易懂讲解 JAVA 基础的网站？我目前是打算先第一遍通读《 JAVA 核心技术 卷 I 》 &lt;/li&gt;
-&lt;li&gt;后续我的学习计划安排应该如何逐步展开？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Mon, 28 Aug 2023 14:31:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969014#reply4</guid></item><item><title>[酷工作] 高级产品经理-远程-全职</title><link>https://www.v2ex.com/t/969013#reply0</link><description>岗位职责&lt;br /&gt;&lt;br /&gt;1. 负责项目相关功能设计、需求调研、竞品分析跟踪、产品定位、需求分解、功能规划、设计产品原型、撰写需求文档，对产品运营能提供建议；&lt;br /&gt;2.负责与研发、设计、测试等部门沟通、紧密合作，确保协作部门对产品文档有充分的理解并具体落地实施，以确保产品方案准时、高质量的交付；&lt;br /&gt;3.收集产品的用户反馈，分析用户的需求和行为，对产品进行持续的改进和优化。对产品的用户行为数据进行监控，并对数据进行统计分析；负责与协助产品上线以后的改进，BUG 跟踪、收集改进意见、提供改进方案;&lt;br /&gt;4.产品的迭代更新工作，对产品运营数据进行监控、统计和分析；&lt;br /&gt;5.对 dex 、cex 的设计、实现、区别有较深的理解，对 Saas 平台有一定经验优先，有区块链项目经验优先；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;岗位要求&lt;br /&gt;&lt;br /&gt;1. 大学本科及以上学历，计算机科学与工程、通信工程等相关专业；&lt;br /&gt;2. 3 年以上相关工作经验；&lt;br /&gt;3. 熟练使用产品设计工具，包括 Axure 、xmind 等，具备优秀的逻辑思维、良好的市场洞察、竞品分析与产品功能设计能力；&lt;br /&gt;4. 具有 To B/To C 的产品或解决方案经验，熟悉区块链领域产品类型及经营模式，深刻理解产业发展方向方向，有区块链相关解决方案、区块链产品设计工作经验者优先；&lt;br /&gt;5. 具有较强的沟通能力、语言表达能力、文档编写能力；&lt;br /&gt;6. 责任心强、抗压能力强；</description><pubDate>Mon, 28 Aug 2023 14:27:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969013#reply0</guid></item><item><title>[程序员] Spring Boot, Micrometer, Prometheus, Grafana - 计算 TPS 和平均执行时间，怎么写 PromQL？</title><link>https://www.v2ex.com/t/969012#reply0</link><description>&lt;p&gt;我的 Spring Boot 应用暴露了下面这些 metrics ，我想计算&lt;code&gt;MsgProcessor.process&lt;/code&gt;的 TPS 和平均执行时间，请问怎么写 PromQL ？&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# HELP MsgProcessor_process_seconds_max  
-# TYPE MsgProcessor_process_seconds_max gauge
-MsgProcessor_process_seconds_max{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 0.0
-# HELP MsgProcessor_process_seconds  
-# TYPE MsgProcessor_process_seconds summary
-MsgProcessor_process_seconds_count{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 13237.0
-MsgProcessor_process_seconds_sum{application="out-adaptor",class="MsgProcessor",exception="none",method="process",} 2.735527137
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;By the way ，我是参考&lt;a href="https://www.tutorialworks.com/spring-boot-prometheus-micrometer/" rel="nofollow"&gt;Spring Boot app metrics - with Prometheus and Micrometer - Tutorial Works&lt;/a&gt;实现的。&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:24:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969012#reply0</guid></item><item><title>[Windows] 今天安装 Windows 11 的时候，发现了这个版本最好的一点</title><link>https://www.v2ex.com/t/969010#reply8</link><description>&lt;p&gt;就是安装过程中设置计算机名，以往都是安装完了，再自己进设置页面改，还要重启系统&lt;/p&gt;</description><pubDate>Mon, 28 Aug 2023 14:12:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969010#reply8</guid></item><item><title>[宽带症候群] 北京联通沃宽提速的问题</title><link>https://www.v2ex.com/t/969009#reply4</link><description>今天买了个上行提速包，激活之后首页依然显示没有可用的提速包，但是看订单显示已激活。&lt;br /&gt;想问下 v2 上有没有用沃宽提速的，这是我的问题还是联通的问题欸</description><pubDate>Mon, 28 Aug 2023 14:10:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969009#reply4</guid></item></channel></rss>
+&lt;/ol&gt;</description><pubDate>Tue, 29 Aug 2023 08:25:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969237#reply2</guid></item><item><title>[程序员] [不懂就问] ssh 能够安全地修改 port 到 443 吗？</title><link>https://www.v2ex.com/t/969236#reply7</link><description>&lt;p&gt;如题，因为学校的安全规定，外网访问只允许 80 和 443 端口的开放。如果想要 22 端口 ssh 的话，就需要登陆学校的 vpn 。&lt;/p&gt;
+&lt;p&gt;我想问一下，如果把 ssh 的 port 修改到 443 的话，会有什么风险吗？&lt;/p&gt;
+&lt;p&gt;以及，如果可以安全地修改到 443 ，我应该怎么做呢？&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:23:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969236#reply7</guid></item><item><title>[分享创造] [v2ex 定制] 拒绝无效图片，和不会发图片的萌新说 88</title><link>https://www.v2ex.com/t/969235#reply6</link><description>&lt;h1&gt;盘络上传扩展介绍&lt;/h1&gt;
+&lt;p&gt;众所周知的原因，v 站是不允许发除 imgur 图床以外图床链接的，令帅哥美女们的图床在手头上无处安放啊。
+今天就给大家解决这个问题，当然不是黑入 V2EX 修改（我没那个本事啊）。而是借助扩展，也就是浏览器扩展来实现&lt;strong&gt;链接转图片&lt;/strong&gt;。&lt;/p&gt;
+&lt;h1&gt;到底是怎么解决的？&lt;/h1&gt;
+&lt;p&gt;其实很简单两句话说完：&lt;strong&gt;获取元素，判断元素链接没有图片后缀如（ png,jpg ）然后根据链接生成 img 标签插入。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;反正就是这样，感兴趣的可以到项目地址看看一下：&lt;a href="https://github.com/ZenEcho/PLExtension" rel="nofollow"&gt;github 项目地址&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;效果&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="描述" class="embedded_image" rel="noreferrer" src="https://img.imgdd.com/f210f3.76c68238-1a56-4866-9ab4-4c2d90c470ee.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;看起来是不是挺不错的&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="描述" class="embedded_image" rel="noreferrer" src="https://cdn-us.imgs.moe/Sticker/Apocalypse/16.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前我测试下来和 V2EX plus 是没有冲突的&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;下载&lt;/h1&gt;
+&lt;p&gt;其实除了这个，盘络上传还有挺多好用的功能的，比如拖拽上传，右键菜单上传。&lt;strong&gt;编辑框自动插入(这个非常好用)&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;下载 1：&lt;a href="https://github.com/ZenEcho/PLExtension/releases" rel="nofollow"&gt;github 下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载 2：&lt;a href="https://fileup.dev/" rel="nofollow"&gt;扩展官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目前仅 V1.1.5.1 以上版本 可用该功能&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;chrome：V1.1.5.1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;火狐：V1.1.5.1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;edeg：V1.1.4.1(审核太慢了)&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;最后&lt;/h1&gt;
+&lt;p&gt;有疑问，或问题反馈可以在下方回复，我会一个个看的谢谢大家&lt;/p&gt;
+&lt;p&gt;&lt;img alt="描述" class="embedded_image" rel="noreferrer" src="https://cdn-us.imgs.moe/Sticker/Apocalypse/10.webp" /&gt;&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:23:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969235#reply6</guid></item><item><title>[问与答] 直播时游戏延迟高怎么破？</title><link>https://www.v2ex.com/t/969234#reply0</link><description>&lt;p&gt;本人目前用的 4G CPE ，环境 Windows11 ，实测带宽 150+Mbps 下行，30Mbps 上行，开直播 1080P 60 帧 8000Kbps 码率延迟就会高个十毫秒，并且偶尔会包的延迟一百多。有没有什么解决办法，因为以前用光纤宽带的时候没有碰到过这样的问题。&lt;/p&gt;
+&lt;p&gt;平时不开直播延迟比较稳定，比光纤宽带高不到十毫秒左右，还是挺满意的，稳定性也都还不错，整局英雄联盟下来也没有过明显的卡顿和延迟。&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:22:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969234#reply0</guid></item><item><title>[问与答] 求推荐个支持 Linux 可以输出 H.264 编码的 usb 摄像头</title><link>https://www.v2ex.com/t/969233#reply0</link><description>支持 1080p 自动变焦的</description><pubDate>Tue, 29 Aug 2023 08:19:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969233#reply0</guid></item><item><title>[Windows] 因为一个文件夹名字，电脑死机了</title><link>https://www.v2ex.com/t/969232#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/o5kwymV.png" /&gt;&lt;/p&gt;
+&lt;p&gt;死机重启以后给我弹这个，第一次遇到&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:15:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969232#reply0</guid></item><item><title>[问与答] 一个人如何开发一款游戏，或者说需要具备哪些技能和知识</title><link>https://www.v2ex.com/t/969231#reply1</link><description>&lt;p&gt;本人 5 年 go 后端经验&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:14:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969231#reply1</guid></item><item><title>[推广] 自荐一下我搭建的 ChatGPT 代理网站（付费使用）</title><link>https://www.v2ex.com/t/969230#reply0</link><description>前几天通过网上的开源系统搭建了一个代理网站，用的是通过自己的美国信用卡开通的几个付费账号生成的 API Key ，所有组件都是运行在美国的 VPS 上，可以不使用代理就能直接访问。&lt;br /&gt;&lt;br /&gt;采取买多少用多少的模式，也就是购买一定的额度，一直用到用完即止，扣费是根据官方 API 的计费规则用多少扣多少。&lt;br /&gt;&lt;br /&gt;购买地址： &lt;a href="https://shop.luee.net" rel="nofollow noopener" target="_blank"&gt;https://shop.luee.net&lt;/a&gt; 支持微信扫码付款和银行卡付款。&lt;br /&gt;&lt;br /&gt;有 Apple GiftCard 需求的也可以看看，用我自己的美卡购买，保证不黑。&lt;br /&gt;&lt;br /&gt;各位看完之后有什么好的建议可以提一下。&lt;br /&gt;&lt;br /&gt;放 10 个 1 美元的兑换码，有兴趣的可以体验一下：&lt;br /&gt;445e97ac7836415eb92663908acb0e83&lt;br /&gt;f9e9cfa9133842d18d80f30ecd45897b&lt;br /&gt;52073c56de414753b31323b1b7872d1f&lt;br /&gt;a7eaca8fcbcd4e76be52b134e0cdbcf4&lt;br /&gt;4bf7c0d20cb34a3586d920a34c46521e&lt;br /&gt;2aa72923836848dabbcf66767a4f17b3&lt;br /&gt;3f9a90576f7540d2afccd7aac07b04e5&lt;br /&gt;15566fd4c08041edb6a7ea97da020b48&lt;br /&gt;4f97e701557c42668836e792dde43ea4&lt;br /&gt;d6308b507f264eba982f0f451fc9cd45&lt;br /&gt;&lt;br /&gt;注册账号可以在商品详情里面找到注册网址</description><pubDate>Tue, 29 Aug 2023 08:12:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969230#reply0</guid></item><item><title>[Windows] 快捷键求助</title><link>https://www.v2ex.com/t/969229#reply4</link><description>&lt;p&gt;mac 的 ctrl + n 相当于方向键的向下键，对应的 Windows 的快捷键是哪个？
+（本人使用小键盘， 没有方向键）&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:09:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969229#reply4</guid></item><item><title>[问与答] 请教下各位在海外或者找海外工作的，国内做过外包会有影响</title><link>https://www.v2ex.com/t/969228#reply0</link><description>&lt;p&gt;实在顶不住了，快饿死了，打算接外包了，而且还是短期的。。。。
+先谢过各位了&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 08:08:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969228#reply0</guid></item><item><title>[问与答] 大家写 api 的时候管理后台跟前端的接口是分开两个项目写还是写在一起？</title><link>https://www.v2ex.com/t/969227#reply9</link><description>分开两个项目好，还是单独写一个项目？</description><pubDate>Tue, 29 Aug 2023 08:05:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969227#reply9</guid></item><item><title>[宽带症候群] 国际出口带宽由 20 年底的 11T，大幅增长至 22 年底 38T，增幅 245%，规划 25 年要到 48T</title><link>https://www.v2ex.com/t/969225#reply5</link><description>由于中国互联网络信息中心 2021 年起就不在《中国互联网络发展状况统计报告》公布国际出口带宽数据，以为该数据由于国际政治环境不再增长，今天一查，其实工信部年初对外公布过，且增幅之大，居然没有媒体报道过！&lt;br /&gt;&lt;br /&gt;&lt;a href="http://www.iccsz.com/site/cn/News/2023/01/29/20230129015555713126.htm" rel="nofollow noopener" target="_blank"&gt;http://www.iccsz.com/site/cn/News/2023/01/29/20230129015555713126.htm&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我国国际出口带宽已由 2020 年最后一次公布数据的 11T ，大幅增长到 2022 年底的 38T ，增幅 245%。&lt;br /&gt;&lt;br /&gt;同时还公布到 2025 年，互联网国际出口带宽要达到 48Tbps 。&lt;br /&gt;&lt;br /&gt;作为对比，下面列下最近几年国际出口带宽增幅&lt;br /&gt;18-19 增幅 19.8%&lt;br /&gt;19-20 增幅 30.4%&lt;br /&gt;由于 21 年起报告停止披露数据，按该发布会上披露数据 &lt;br /&gt;20-22 增幅 245%，也就是 20-21 ，21-22 ，年均增幅 123% ！！</description><pubDate>Tue, 29 Aug 2023 08:01:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969225#reply5</guid></item><item><title>[问与答] 关于修车被绑定必须在购车地所在的 4s 店处理问题的疑问</title><link>https://www.v2ex.com/t/969224#reply5</link><description>&lt;p&gt;这个事情发生有一段时间了，起因是车子跑高速途中弹了个提示，说胎压不够了，然后就到目的地任意一家修车的地方加了点气，但是在车子的显示屏上海市有那个黄色的提示，我百度之后说让我在控制台校准一下，结果点击校准按钮没有效果。&lt;/p&gt;
+&lt;p&gt;无奈只能去 4s 店问问，结果 4s 店的人说必须在他们那里才能进行校准，我想问一下大家的车都是这样吗，如果不是有什么办法可以绕过 4s 店，自己校准呢。&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 07:55:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969224#reply5</guid></item><item><title>[macOS] 后端开发 平常开几个 ide+docker mba16+512 够用吗？</title><link>https://www.v2ex.com/t/969223#reply4</link><description></description><pubDate>Tue, 29 Aug 2023 07:53:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969223#reply4</guid></item><item><title>[Apple] Macbook pro 14 更换键盘 or 电池还是整个 C 面一起换吗？</title><link>https://www.v2ex.com/t/969221#reply2</link><description>&lt;p&gt;RT
+键盘有个 3 键个按压失去回弹。有 ac+。
+更换键盘还是跟以前那样整个 C 面包括电池一起更换吗？&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 07:52:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969221#reply2</guid></item><item><title>[问与答] VSCode remote ssh 轻量应用服务器经常会崩怎么办</title><link>https://www.v2ex.com/t/969220#reply0</link><description>&lt;p&gt;每次连一会就突然断了，然后后台看读取拉满，node 这个进程 cpu 占用 99%。
+机器是 2C2G 的&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 07:51:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969220#reply0</guid></item><item><title>[产品经理茶话会] 哪位兄弟的公司招产品负责人？</title><link>https://www.v2ex.com/t/969219#reply0</link><description>&lt;p&gt;•懂技术的产品人，操盘过千万用户和超 10 亿营收的项目，擅长 0-1 搭建全生命周期产品（产品策略、用户增长、产品商业化），能够站在市场、产品、运营、技术视角规划产品；
+•擅长领域：Web3 ，元宇宙，社交，兴趣电商，K12 ，旅行，汽车后市场；
+•产品形态：ERP 、CRM 、SaaS 、3D 模型、APP 、小程序；
+•能力模型：较强学习能力、缜密逻辑思维能力、深度思考能力、持续拿到结果能力；
+•7 年+团队管理经验，创过业；&lt;/p&gt;
+&lt;p&gt;我是一个比较复合的人，最近属实迷茫，因为上家公司解散，导致也没有拿到赔偿，甚至工资都没有拿全，希望找一个稳定平台，能够和平台一直走下去，我是 91 年的，我敢肯定招到我的公司肯定不会失望。合作过的同事和老板对我的评价基本上是：“宝藏男孩，有激情，对产品和运营的理解有一定的深度，对业务的抽象能力很强，喜欢分享经验，主观能动性强”，希望通过 V 站找一个稳定的公司，base 最好是北京，但是其他城市也考虑。&lt;/p&gt;
+&lt;p&gt;如果有人愿意推荐的可以加我 V：zuoyuanzhe&lt;/p&gt;</description><pubDate>Tue, 29 Aug 2023 07:51:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969219#reply0</guid></item></channel></rss>
