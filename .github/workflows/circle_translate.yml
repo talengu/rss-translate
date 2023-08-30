@@ -5,7 +5,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the "master" branch
   # 每月26号4点4分 #
   schedule:
-   - cron: '18 17 * * *'
+   - cron: '14 13 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
