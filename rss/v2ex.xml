@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 31 Aug 2023 17:26:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] Ai 合作协议</title><link>https://www.v2ex.com/t/969924#reply0</link><description>有没有人知道小程序 ai 合作协议怎么搞</description><pubDate>Thu, 31 Aug 2023 17:16:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969924#reply0</guid></item><item><title>[广州] 从今日开始， 15 次 6 折优惠正式失效，可惜啊</title><link>https://www.v2ex.com/t/969923#reply0</link><description>&lt;p&gt;改成满 80 元 8 折，满 200 元 5 折：&lt;br /&gt;&lt;a href="https://news.dayoo.com/guangzhou/202308/25/139995_54545027.htm" rel="nofollow"&gt;https://news.dayoo.com/guangzhou/202308/25/139995_54545027.htm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;每月出行的交通费用要上涨了，比以前贵得多（每天长途地铁出行的除外）&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 17:12:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969923#reply0</guid></item><item><title>[程序员] godday 上没有免费的 ssl 证书了吗？</title><link>https://www.v2ex.com/t/969922#reply0</link><description>&lt;p&gt;官网上看到的都是要收费的，而且费用还比本身域名贵很多。&lt;/p&gt;
-&lt;p&gt;请问这个可以自己用第三方的免费使用吗？&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:48:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969922#reply0</guid></item><item><title>[广州] 广州 电信 ipv4 公网 10 月 1 日起 不在提供给个人家宽</title><link>https://www.v2ex.com/t/969920#reply3</link><description>广州 电信 ipv4 公网 10 月 1 日起 不在提供给个人家宽&lt;br /&gt;公众号的消息。&lt;br /&gt;你们那也开始这样了吗？</description><pubDate>Thu, 31 Aug 2023 16:23:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969920#reply3</guid></item><item><title>[Python] 动态类型的语言用第三方的库，到底如何确定返回值类型？</title><link>https://www.v2ex.com/t/969919#reply9</link><description>&lt;p&gt;没怎么用过动态类型语言写项目，最近的项目要用到 openai 相关的 api 接口，直接就动手撸 py 了，但是每次调没有 type Hints 第三方轮子返回的数据又不知道如何用，点进源码也是乱七八糟的各种调用，也没有 ide 提示，这就很麻烦了&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:17:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969919#reply9</guid></item><item><title>[生活] 生活（生命）本质是不是一个对抗虚无（无意义）的过程呢？</title><link>https://www.v2ex.com/t/969918#reply4</link><description>&lt;p&gt;换句话来说，生活是不是就是在对抗？&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:07:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969918#reply4</guid></item><item><title>[问与答] 微信公众号敏感词审核很麻烦，又好的非付费解决方案吗</title><link>https://www.v2ex.com/t/969916#reply0</link><description>提示很操蛋，然后多次修改也发不出去，有没有可以自己先跑一遍敏感词检测的程序？</description><pubDate>Thu, 31 Aug 2023 15:58:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969916#reply0</guid></item><item><title>[程序员] 有没有开源算法可以实现股票形态的自动识别</title><link>https://www.v2ex.com/t/969915#reply0</link><description>在股票中存在三角形态、箱体震荡、上升旗、下降旗、m 顶,w 底等多种形态，是否存在一种算法或者开源技术可以实现对股票形态的自动识别？</description><pubDate>Thu, 31 Aug 2023 15:51:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969915#reply0</guid></item><item><title>[程序员] 目前有什么开源的语音转文字准确率高的？</title><link>https://www.v2ex.com/t/969914#reply3</link><description>&lt;p&gt;目前用 whisper+ggerganov 模型，2.8G 的，显卡是 gtx970 ，转译出来的全部是这种效果：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 31 Aug 2023 22:39:01 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[硬件] Nvdia H100 A800 服务器现货</title><link>https://www.v2ex.com/t/969929#reply0</link><description>技嘉服务器整机 A100*8/H800*8 现货 供应 ，有需要的 wechat 联系我 aW9zZmFucw==</description><pubDate>Thu, 31 Aug 2023 21:51:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969929#reply0</guid></item><item><title>[问与答] 这些套壳 ChatGPT 网站，是怎么备案的？</title><link>https://www.v2ex.com/t/969928#reply0</link><description>&lt;p&gt;&lt;a href="https://ai.caomaoweilai.com/" rel="nofollow"&gt;https://ai.caomaoweilai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://shangke.chat/" rel="nofollow"&gt;https://shangke.chat/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;请问以上类似这些网站是怎么实现国内备案+提供 ChatGPT 服务的？&lt;/li&gt;
+&lt;li&gt;小白不太懂，可以讲下这些流程或分享关键词吗？&lt;/li&gt;
+&lt;li&gt;这种网站被墙的几率大吗？如果被墙，是否只能更换别的备案域名才能继续无墙访问？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我也想按 GitHub 上的模板，部署类似的套壳网站，给内部不会翻的人用。&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 20:33:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969928#reply0</guid></item><item><title>[程序员] ml 域名疑似由新东家重新开始运营，恢复正常注册</title><link>https://www.v2ex.com/t/969927#reply1</link><description>&lt;p&gt;&lt;a href="https://point.ml/" rel="nofollow"&gt;https://point.ml/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;由 AGETIC 接管
+普通域名大概 10 刀一年&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 19:35:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969927#reply1</guid></item><item><title>[RSS] Feeder.co - 一个很精致的 RSS 阅读器，有客户端，也有浏览器插件</title><link>https://www.v2ex.com/t/969926#reply3</link><description>&lt;a href="https://feeder.co" rel="nofollow noopener" target="_blank"&gt;https://feeder.co&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/76okQ0MO.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 76okQ0MO.png"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/76okQ0MO.png" /&gt;&lt;/a&gt;</description><pubDate>Thu, 31 Aug 2023 18:29:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969926#reply3</guid></item><item><title>[问与答] 有个公网服务器有大量空闲存储空间，怎么利用？</title><link>https://www.v2ex.com/t/969925#reply2</link><description>目前就是自己用来备份 nas ，然后给朋友们开了个网盘。但还是有几十 T 的 raidz2 空间。我也不追求能赚钱，能帮助回本就好。&lt;br /&gt;&lt;br /&gt;服务器在南加，网络质量一般。也就美国本土速度比较快。</description><pubDate>Thu, 31 Aug 2023 18:11:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969925#reply2</guid></item><item><title>[分享发现] Ai 合作协议</title><link>https://www.v2ex.com/t/969924#reply0</link><description>有没有人知道小程序 ai 合作协议怎么搞</description><pubDate>Thu, 31 Aug 2023 17:16:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969924#reply0</guid></item><item><title>[广州] 从今日开始， 15 次 6 折优惠正式失效，可惜啊</title><link>https://www.v2ex.com/t/969923#reply3</link><description>&lt;p&gt;改成满 80 元 8 折，满 200 元 5 折：&lt;br /&gt;&lt;a href="https://news.dayoo.com/guangzhou/202308/25/139995_54545027.htm" rel="nofollow"&gt;https://news.dayoo.com/guangzhou/202308/25/139995_54545027.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;每月出行的交通费用要上涨了，比以前贵得多（每天长途地铁出行的除外）&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 17:12:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969923#reply3</guid></item><item><title>[程序员] godday 上没有免费的 ssl 证书了吗？</title><link>https://www.v2ex.com/t/969922#reply1</link><description>&lt;p&gt;官网上看到的都是要收费的，而且费用还比本身域名贵很多。&lt;/p&gt;
+&lt;p&gt;请问这个可以自己用第三方的免费使用吗？&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:48:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969922#reply1</guid></item><item><title>[广州] 广州 电信 ipv4 公网 10 月 1 日起 不在提供给个人家宽</title><link>https://www.v2ex.com/t/969920#reply3</link><description>广州 电信 ipv4 公网 10 月 1 日起 不在提供给个人家宽&lt;br /&gt;公众号的消息。&lt;br /&gt;你们那也开始这样了吗？</description><pubDate>Thu, 31 Aug 2023 16:23:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969920#reply3</guid></item><item><title>[Python] 动态类型的语言用第三方的库，到底如何确定返回值类型？</title><link>https://www.v2ex.com/t/969919#reply12</link><description>&lt;p&gt;没怎么用过动态类型语言写项目，最近的项目要用到 openai 相关的 api 接口，直接就动手撸 py 了，但是每次调没有 type Hints 第三方轮子返回的数据又不知道如何用，点进源码也是乱七八糟的各种调用，也没有 ide 提示，这就很麻烦了&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:17:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969919#reply12</guid></item><item><title>[生活] 生活（生命）本质是不是一个对抗虚无（无意义）的过程呢？</title><link>https://www.v2ex.com/t/969918#reply4</link><description>&lt;p&gt;换句话来说，生活是不是就是在对抗？&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 16:07:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969918#reply4</guid></item><item><title>[问与答] 微信公众号敏感词审核很麻烦，又好的非付费解决方案吗</title><link>https://www.v2ex.com/t/969916#reply1</link><description>提示很操蛋，然后多次修改也发不出去，有没有可以自己先跑一遍敏感词检测的程序？</description><pubDate>Thu, 31 Aug 2023 15:58:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969916#reply1</guid></item><item><title>[程序员] 有没有开源算法可以实现股票形态的自动识别</title><link>https://www.v2ex.com/t/969915#reply0</link><description>在股票中存在三角形态、箱体震荡、上升旗、下降旗、m 顶,w 底等多种形态，是否存在一种算法或者开源技术可以实现对股票形态的自动识别？</description><pubDate>Thu, 31 Aug 2023 15:51:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969915#reply0</guid></item><item><title>[程序员] 目前有什么开源的语音转文字准确率高的？</title><link>https://www.v2ex.com/t/969914#reply3</link><description>&lt;p&gt;目前用 whisper+ggerganov 模型，2.8G 的，显卡是 gtx970 ，转译出来的全部是这种效果：&lt;/p&gt;
 &lt;p&gt;[00:29:20.000 --&amp;gt; 00:29:26.000]  ( 錄影時間 )
 [00:29:26.000 --&amp;gt; 00:29:32.000]  ( 錄影時間 )
 [00:29:32.000 --&amp;gt; 00:29:38.000]  ( 錄影時間 )
@@ -23,82 +32,12 @@
 [00:31:05.000 --&amp;gt; 00:31:11.000]  ( 錄影時間 )
 [00:31:11.000 --&amp;gt; 00:31:16.000]  ( 錄影時間 )
 [00:31:16.000 --&amp;gt; 00:31:22.000]  ( 錄影時間 )&lt;/p&gt;
-&lt;p&gt;之前还能有一半左右的可以译成有效文字，不知道是否这次的录音音源不行，我是用手机录音的&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 15:46:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969914#reply3</guid></item><item><title>[VPS] 除了 vultr 我想问下大佬有没有日本的 vps 的厂商</title><link>https://www.v2ex.com/t/969913#reply2</link><description></description><pubDate>Thu, 31 Aug 2023 15:33:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969913#reply2</guid></item><item><title>[分享发现] 社工库 社工库机器人 社工库查询</title><link>https://www.v2ex.com/t/969912#reply4</link><description>&lt;p&gt;分享几个好用且每天免费查询的社公机器人
-&lt;a href="http://t.me/aishegongkubot?start=AISGK_12687V1V" rel="nofollow"&gt;http://t.me/aishegongkubot?start=AISGK_12687V1V&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://t.me/CLAYSGKbot?start=FT22XU92" rel="nofollow"&gt;https://t.me/CLAYSGKbot?start=FT22XU92&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://t.me/XingDunBot?start=bvmFl0D" rel="nofollow"&gt;https://t.me/XingDunBot?start=bvmFl0D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;分享几个好用且每天免费查询的社公机器人
-&lt;a href="https://t.me/SGKmainNEWbot?start=IVT13C9FE6E2" rel="nofollow"&gt;https://t.me/SGKmainNEWbot?start=IVT13C9FE6E2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://t.me/zhihu_bot?start=5312079586q1c72h" rel="nofollow"&gt;https://t.me/zhihu_bot?start=5312079586q1c72h&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://t.me/NeiWangSGKbot?start=HO9T3R" rel="nofollow"&gt;http://t.me/NeiWangSGKbot?start=HO9T3R&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;分享几个好用且每天免费查询的社公机器人
-&lt;a href="https://t.me/Freeshegongku_bot?start=531207958610jkaq" rel="nofollow"&gt;https://t.me/Freeshegongku_bot?start=531207958610jkaq&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 15:17:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969912#reply4</guid></item><item><title>[程序员] [发包] 自动化采集需求</title><link>https://www.v2ex.com/t/969911#reply1</link><description>&lt;p&gt;一方外包需求：
+&lt;p&gt;之前还能有一半左右的可以译成有效文字，不知道是否这次的录音音源不行，我是用手机录音的&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 15:46:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969914#reply3</guid></item><item><title>[VPS] 除了 vultr 我想问下大佬有没有日本的 vps 的厂商</title><link>https://www.v2ex.com/t/969913#reply2</link><description></description><pubDate>Thu, 31 Aug 2023 15:33:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969913#reply2</guid></item><item><title>[程序员] [发包] 自动化采集需求</title><link>https://www.v2ex.com/t/969911#reply1</link><description>&lt;p&gt;一方外包需求：
 制作自动化采集脚本，用截长图（多图拼接也行，但分屏要计算好）的方式采集某音的商家店铺公开信息，并传出（ adb 走线、http 协议都行，看你什么方便）。实现方案不限，但要支持群控。&lt;/p&gt;
-&lt;p&gt;能搞的留下张小龙我加你。&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 15:14:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969911#reply1</guid></item><item><title>[问与答] 求分享一下 v2er 的最新安装包</title><link>https://www.v2ex.com/t/969909#reply1</link><description>大哥们，手机昨天升级了 android webview ，发现目前的版本打开帖子就闪退了 求分享一个最新的安装包，本人手机没有 google play ,apkpure 也找过了，不能下载，&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;求好心人分享，先谢了</description><pubDate>Thu, 31 Aug 2023 15:06:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969909#reply1</guid></item><item><title>[OpenAI] chatgpt 是挂了么？怎么今晚上一直打不开？</title><link>https://www.v2ex.com/t/969908#reply8</link><description></description><pubDate>Thu, 31 Aug 2023 15:02:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969908#reply8</guid></item><item><title>[问与答] 内容源头给爬虫网站发律师函，是怎么定位当事人的？</title><link>https://www.v2ex.com/t/969906#reply1</link><description>假设一个爬虫网站，爬了一些内容平台上的数据，再对外分发。比如爬直播网站各个主播的营收，再建一个这种信息的数据综合网站&lt;br /&gt;假设不备案，服务器在境外，开发者也不说这个网站是谁做的，源头的内容平台还能找到人吗？&lt;br /&gt;一般这种情况下，内容源头平台，会怎么处理爬虫网站？&lt;br /&gt;如果铁了心要对付爬虫网站，有可能联系 gfw 直接把爬虫网站墙掉吗？&lt;br /&gt;&lt;br /&gt;感谢各位大佬的解答</description><pubDate>Thu, 31 Aug 2023 14:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969906#reply1</guid></item><item><title>[服务器] 请问各位大佬这个服务器报价贵吗？</title><link>https://www.v2ex.com/t/969905#reply2</link><description>&lt;p&gt;双核
+&lt;p&gt;能搞的留下张小龙我加你。&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 15:14:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969911#reply1</guid></item><item><title>[问与答] 求分享一下 v2er 的最新安装包</title><link>https://www.v2ex.com/t/969909#reply1</link><description>大哥们，手机昨天升级了 android webview ，发现目前的版本打开帖子就闪退了 求分享一个最新的安装包，本人手机没有 google play ,apkpure 也找过了，不能下载，&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;求好心人分享，先谢了</description><pubDate>Thu, 31 Aug 2023 15:06:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969909#reply1</guid></item><item><title>[OpenAI] chatgpt 是挂了么？怎么今晚上一直打不开？</title><link>https://www.v2ex.com/t/969908#reply8</link><description></description><pubDate>Thu, 31 Aug 2023 15:02:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969908#reply8</guid></item><item><title>[问与答] 内容源头给爬虫网站发律师函，是怎么定位当事人的？</title><link>https://www.v2ex.com/t/969906#reply1</link><description>假设一个爬虫网站，爬了一些内容平台上的数据，再对外分发。比如爬直播网站各个主播的营收，再建一个这种信息的数据综合网站&lt;br /&gt;假设不备案，服务器在境外，开发者也不说这个网站是谁做的，源头的内容平台还能找到人吗？&lt;br /&gt;一般这种情况下，内容源头平台，会怎么处理爬虫网站？&lt;br /&gt;如果铁了心要对付爬虫网站，有可能联系 gfw 直接把爬虫网站墙掉吗？&lt;br /&gt;&lt;br /&gt;感谢各位大佬的解答</description><pubDate>Thu, 31 Aug 2023 14:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969906#reply1</guid></item><item><title>[服务器] 请问各位大佬这个服务器报价贵吗？</title><link>https://www.v2ex.com/t/969905#reply3</link><description>&lt;p&gt;双核
 4G
 40G SSD 硬盘
 15M 带宽
 500G 月流量
 价格：149 元/月&lt;/p&gt;
-&lt;p&gt;需正规用途&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969905#reply2</guid></item><item><title>[分享创造] 学习 dk、分享一篇 34w 阅读的小红书笔记的出炉全过程</title><link>https://www.v2ex.com/t/969903#reply4</link><description>&lt;p&gt;首先咱先表个态、写这篇文章是跟我粉了多年的偶像 dk 学习，我是看到了他的&lt;a href="https://www.v2ex.com/t/969669" rel="nofollow"&gt;这篇文章&lt;/a&gt;后整理思路分享。（粉了有多久、他 6 年前写押韵工具的时候我就开始关注这个非常有趣的家伙。他 10w 阅读带来 4k 个下载让人十分羡慕、同样作为独立开发者的我如果这 34w 阅读如果能带来我 1w+的 App 下载那我得高兴疯了）&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;先说数据&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://otherapp.oss-cn-beijing.aliyuncs.com/app/WechatIMG2028.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;这篇笔记总阅读 34.4w ，点赞 4k+，评论 1.6k 。而它可以说是我在&lt;strong&gt;10 分钟内决定要写、以及写完的。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;起因&lt;/h2&gt;
-&lt;p&gt;昨晚我在某鱼上购买了一台无人机。在买家要求线下自提对网络交易表达不信任时、我回复她“我收货后从不废话”&lt;/p&gt;
-&lt;p&gt;为了证明这一点，又说了一句“我上星期闲鱼买了个房车”，希望能表示&lt;strong&gt;这么大的东西我都会买、你就放心得了&lt;/strong&gt;最终购买成功。（当然、我上个星期确实在闲鱼购买了一辆拖挂房车）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图 2" class="embedded_image" rel="noreferrer" src="https://otherapp.oss-cn-beijing.aliyuncs.com/app/WechatIMG2026.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;我瞬间意识到、这件事是不是可以很酷的表述出来呢？于是我几乎在 10 秒内就想好了这篇文章的标题“&lt;strong&gt;关于我在随意逛着闲鱼时竟然意外买了一辆房车这件事&lt;/strong&gt;”。&lt;/p&gt;
-&lt;p&gt;坐在大沙河公园旁边的椅子上、&lt;strong&gt;我认为这个故事大概需要有以下几个元素&lt;/strong&gt; &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;首先应该有反差。啥也没打算买到买一个很小众几万块的大玩具&lt;/li&gt;
-&lt;li&gt;再次需要有话题性。买家上赶着买的故事常见，那么讲一个卖家上赶着卖的故事呢&lt;/li&gt;
-&lt;li&gt;最后务必要有能让用户主动留言的梗，推高热度靠的就是这个。可以是对 up 的 询问/分享，当然也可以是对 up 的 嘲笑/争论（地区甜咸梗最容易了）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;坐在椅子上我花了 10 分钟思考+截图+写文案、并发出了这条文章，后续并没有过多的细节思考。最终能有 34 万的阅读、我觉得这篇文章的成功很大程度上是作者跟评论一起完成的。
-我观察到有很多用户会圈自己的朋友来看、并表示“文章/评论太好笑了”。&lt;/p&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;我有意写的、并成功引发不错效果的钩子&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“车主生怕出不了手，你就是个大怨种哈哈哈/卖家 4w 买的 8w 卖给你哈哈哈哈”，毫无疑问、这就是我最核心的思路也是我认为一定会爆的钩子，我标题内容就是走这个方向&lt;/li&gt;
-&lt;li&gt;“天呐开拖挂竟然要 c6 驾照、哪里可以考 c6 在线等”，实际我早已经在备考了，这个钩子我写标题的时候已经想好了用他来作为置顶回复、也是最符合标题人设的一个设定&lt;/li&gt;
-&lt;li&gt;“给单身的卖家开了一间￥ 700+的圆床房”，实际情况是卖家带了几个朋友来深圳、我开了 2 间标间。我预留了这个钩子是给用户留下想象力空间，它出乎意料又自然地引发了下面的某些热评&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;用户自创的评论&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“对不起我以为卖家要千里送车你要和他圆房”，非常高赞的回复、女性为主的社区磕 cp 是永恒的主题&lt;/li&gt;
-&lt;li&gt;“别赞了，前女友除了小红书没拉黑，所以没有关小红书提示音，睡到一半总以为她回心转意”这个评论的点赞太有故事性了、直接导致评论的点赞比文章还高！简直是最大的意外收获、它甚至可以用在任意帖子后。&lt;strong&gt;（晚上 8 点这名用户删掉了自己几千点赞的回复、让这个评论背后的故事更有趣了）&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="图 3" class="embedded_image" rel="noreferrer" src="https://otherapp.oss-cn-beijing.aliyuncs.com/app/WechatIMG2031.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我与用户共同创作的&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“用户：房车一个月 1000 你租给大学生一个月 2000/我回复：车架顶不顶得住不知道，床肯定顶不住”，&lt;/li&gt;
-&lt;li&gt;“用户：等你三手把房车转卖给我/我回复：7w9 可以吗、毕竟我只砍价了 1000”&lt;/li&gt;
-&lt;li&gt;“用户：等我去 xx 你能带我一起吗/我回复：可以等我把窗户焊上再送你一副银手镯”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="图 4" class="embedded_image" rel="noreferrer" src="https://otherapp.oss-cn-beijing.aliyuncs.com/app/20321693492320_.pic.jpg" /&gt;
-至于评论有人说文案很有趣、这对我来说几乎太简单了。如果你曾经在贴吧最火的时候回复超过一万个帖子、你就大概能知道“网感”是怎么一回事&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后说写的不够好的地方&lt;/strong&gt; &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;小红书风格的味道不够。dk 文章有描述我就不多说了，毕竟这是一个女性用户为主的社区，势在这儿你得借。&lt;/li&gt;
-&lt;li&gt;原车主出现得早了点。我早上分享文章给他太早了、他看到满屏幕说卖家黑的评论、很快主动来回复解释。如果他再晚半天回复，等“diss 买家大怨种”的流量更多一些以后再续“卖家买家梗”可能会更好&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;后记&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其实还有一个钩子、就不细说了。
-以及请大家不要去原贴上回复我在这里所说的任何一点内容、我的初衷是分享共同进步，谢谢&lt;/p&gt;
-&lt;p&gt;———————————————&lt;/p&gt;
-&lt;p&gt;当然这篇笔记的内容略有细小夸张、但基本事实比如闲鱼购车是存在的。&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:37:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969903#reply4</guid></item><item><title>[问与答] 你们的腰还好吗</title><link>https://www.v2ex.com/t/969901#reply3</link><description>&lt;p&gt;不疼了很久，一入秋又疼了&lt;/p&gt;
-&lt;p&gt;不疼的期间也没有注意锻炼养护，总是忘记，等疼起来才追悔莫及&lt;/p&gt;
-&lt;p&gt;之前做的攻略全都没有派上用场，现在准备拉个群，作为提醒，作为病友们的沟通交流。&lt;/p&gt;
-&lt;p&gt;加我吧。base64：ZnFtY2hpbmE=&lt;/p&gt;
-&lt;p&gt;等群里有人了我再贴 二维码&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:30:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969901#reply3</guid></item><item><title>[问与答] [广州租房求助] 石牌桥-地铁 3 号线</title><link>https://www.v2ex.com/t/969898#reply1</link><description>&lt;p&gt;rt ，准备换工作到广州了，公司在 石牌桥-地铁 3 号线&lt;/p&gt;
-&lt;p&gt;需求：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通勤时间 30mins 内&lt;/li&gt;
-&lt;li&gt;通勤方式 能全程地铁最好了&lt;/li&gt;
-&lt;li&gt;预算有限 1k 上下&lt;/li&gt;
-&lt;li&gt;整租 城中村、公寓（安静）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;不知道各位 V2ER 有没有推荐的地点啥的，打算到时候直接奔去扫楼，或者有啥更好的意见在租房这块，&lt;strong&gt;非常感谢各位&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969898#reply1</guid></item><item><title>[问与答] 有没有配料表干净纯粹的香皂推荐？</title><link>https://www.v2ex.com/t/969897#reply0</link><description>&lt;p&gt;之前一直用这个大润发自营的香皂，现在用完了去大润发发现已经买不到了，&lt;/p&gt;
-&lt;p&gt;有没有类似配料表干净纯粹的香皂推荐，这个配料表只有：脂肪酸钠、香精、水、甘油、氯化钠、二氧化钛 这 6 种配料。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="rt-mall 香皂" class="embedded_image" rel="noreferrer" src="https://youjb.com/images/2023/08/31/Screenshot_2023-08-31-22-02-44-242-edit_com.android.browsercc9981bd423f73a5.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:10:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969897#reply0</guid></item></channel></rss>
+&lt;p&gt;需正规用途&lt;/p&gt;</description><pubDate>Thu, 31 Aug 2023 14:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/969905#reply3</guid></item></channel></rss>
