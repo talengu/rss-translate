@@ -1,72 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 03 Sep 2023 08:17:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 续费压力太大，出一些域名</title><link>https://www.v2ex.com/t/970535#reply0</link><description>&lt;p&gt;出一部分域名先，可以页面或者 wx 联系&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/03/leqaEAjnQi1yBoO.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/03/T5WGBDnKwplsI7R.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 08:15:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970535#reply0</guid></item><item><title>[分享发现] pikpak 开始有下载配额，不知道那些合租的够用不。</title><link>https://www.v2ex.com/t/970534#reply0</link><description>最近感觉 pikpak 离线下载挺不错，看有的合租挺便宜的，然后今天就看到群里开始有下载配额了，一个人用感觉是够了，多人合租还是挺悬的，搞的跟机场似的。有一说一，用 pikpak 都是冲着你懂得去的，这种下载配额有点不地道。&lt;br /&gt;[img]&lt;a href="https://i.imgur.com/uvkXEFY.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/uvkXEFY.png" /&gt;&lt;/a&gt;[/img]</description><pubDate>Sun, 03 Sep 2023 08:01:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970534#reply0</guid></item><item><title>[问与答] 请问 Mac fn (地球) 键如何仅在 2 个固定的输入法之间切换？</title><link>https://www.v2ex.com/t/970533#reply2</link><description>&lt;p&gt;比如我有 3 个输入法：中 英 日，我想用 fn 建仅在「中英」之间切换，而不是在「中英日」之间轮换，请问可以做到吗？（如果用 Caps Lock 能实现也行）谢谢。&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 07:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970533#reply2</guid></item><item><title>[问与答] 有什么软件或者方式 能够实现 在 PDF 中 添加图片 作为注释吗？</title><link>https://www.v2ex.com/t/970529#reply0</link><description>PDF 文件添加注释， 注释的内容是 图片+文字 两种形式。 或者仅仅是图片的形式。&lt;br /&gt;有什么办法实现？</description><pubDate>Sun, 03 Sep 2023 07:12:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970529#reply0</guid></item><item><title>[iPhone] ip12 有必要升级到 ios16 吗？</title><link>https://www.v2ex.com/t/970526#reply2</link><description>17 肯定是不会升上去了，在想要不要升级到 16.6 做最终版。</description><pubDate>Sun, 03 Sep 2023 06:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970526#reply2</guid></item><item><title>[问与答] 最近组装几台开发用的机器，大佬们看一看</title><link>https://www.v2ex.com/t/970524#reply6</link><description>&lt;p&gt;i7 13700F/2480
-双塔散热器/180
-影驰 32G DDR5/600
-影驰星耀 X4 1TB/300
-华硕 b760M-A/980
-影驰 1650super/950
-侧透大机箱/180
-长城 6500L/390
-合计：6030&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 06:45:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970524#reply6</guid></item><item><title>[Android] 尝试反编译 kobo books apk 投降了</title><link>https://www.v2ex.com/t/970523#reply4</link><description>&lt;p&gt;&lt;a href="https://www.jianshu.com/p/dbe579f6cc84" rel="nofollow"&gt;https://www.jianshu.com/p/dbe579f6cc84&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;按照上面操作 最终定位到 classes3.dex 反编译后的 classes3-dex2jar.jar&lt;/p&gt;
-&lt;p&gt;加密类包 com.kobo.readerlibrary.crypto 文件 可以在 jd-gui 里查看 java 代码&lt;/p&gt;
-&lt;p&gt;epub 类名 com.kobobooks.android.content.EPubInfo.class&lt;/p&gt;
-&lt;p&gt;解密包 com.kobobooks.android.content.crypto&lt;/p&gt;
-&lt;p&gt;看别人代码真的太痛苦了 投降了 &lt;/p&gt;
-&lt;p&gt;也不能完全反编译最终导入 eclipse 或 idea&lt;/p&gt;
-&lt;p&gt;有没有比 jd-gui 更先进的  把整个 jar 包一次性弄成 java 文件 搜索代码方便点&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 06:30:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970523#reply4</guid></item><item><title>[问与答] 笔记本电脑的 usb 接口坏了 2 个，上面那层掉下来了</title><link>https://www.v2ex.com/t/970521#reply1</link><description>如题…买扩展乌说会烧主板，买分线器也不会区分</description><pubDate>Sun, 03 Sep 2023 06:25:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970521#reply1</guid></item><item><title>[Apple] 闲鱼 oyunfor 代买土区礼品卡靠谱吗</title><link>https://www.v2ex.com/t/970520#reply6</link><description>小白，第一次是直接在闲鱼上买了那种自动发货的礼品，不过之后发现那上面貌似黑卡很多，但因为本人学生党没有信用卡所以不能直接在 oyunfor 上买，所以想问问闲鱼上那种靠不靠谱</description><pubDate>Sun, 03 Sep 2023 06:19:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970520#reply6</guid></item><item><title>[VPS] 为啥上海联通用谷歌云东京没速度</title><link>https://www.v2ex.com/t/970519#reply0</link><description>&lt;p&gt;为啥上海联通用谷歌云东京没速度 跑油管还没美西速度快&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 06:14:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970519#reply0</guid></item><item><title>[程序员] 如何在本地配置 git，顺畅拉取提交代码？有台海外服务器的情况下</title><link>https://www.v2ex.com/t/970518#reply5</link><description>&lt;p&gt;仅仅通过本地改 hosts, 或者切换 443 &lt;a href="http://ssh.github.com" rel="nofollow"&gt;ssh.github.com&lt;/a&gt;, 很多时候已经无能为力了。&lt;/p&gt;
-&lt;p&gt;有什么好的简便的方法 使用海外主机作为跳板机，端口转发之类的技术， 让本地提交 github 代码更加顺畅？&lt;/p&gt;
-&lt;p&gt;已经可以通过 ssh 端口转发，让浏览器走海外服务器出去。&lt;/p&gt;
-&lt;p&gt;比如：&lt;/p&gt;
-&lt;p&gt;ssh -N -f -L LOCAL_PORT:REMOTE_HOST:PORT -o TCPKeepAlive=yes&lt;/p&gt;
-&lt;p&gt;然后本地走 local 的 LOCAL_POST ，数据就可以从 REMOTE_HOST 出去？&lt;/p&gt;
-&lt;p&gt;不过不知道本地的 git 如何配置才行，shell 设置 proxy 不管用。&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 06:11:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970518#reply5</guid></item><item><title>[分享创造] 搞了个记录工具（网页，公众号），支持文本和图片类型，欢迎试用</title><link>https://www.v2ex.com/t/970517#reply0</link><description>&lt;p&gt;网页版：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://log.ohmylife.cn" rel="nofollow"&gt;https://log.ohmylife.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;公众号二维码：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img-oml-qr-prod.webp" class="embedded_image" rel="noreferrer" src="https://x.imgs.ovh/x/2023/09/03/64f4233fdebd3.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;演示视频：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV138411B7cN" rel="nofollow"&gt;https://www.bilibili.com/video/BV138411B7cN&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 04 Sep 2023 03:12:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[JavaScript] iztro 新版本来了，不仅完善了功能，还完善了文档</title><link>https://www.v2ex.com/t/970703#reply0</link><description>&lt;pre&gt;&lt;code&gt;npm install --save iztro
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.npmjs.com/package/iztro" rel="nofollow"&gt;npm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/SylarLong/iztro" rel="nofollow"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.iztro.com/quick-start.html" rel="nofollow"&gt;Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不得不说 &lt;code&gt;v2ex&lt;/code&gt; 的大佬们真的太给力了，非常感谢大家的支持，为了不辜负大家的喜欢，我废寝忘食了几天撸出了 &lt;code&gt;v1.2.0&lt;/code&gt; 版本。这次几乎是准完全体了。下面介绍一下功能：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;希望以最简单的方式（直接回复公众号，或者网页），记录图片和文本内容&lt;/p&gt;
+输入&lt;ul&gt;
+&lt;li&gt;生日（阳历或农历皆可）&lt;/li&gt;
+&lt;li&gt;出生时间&lt;/li&gt;
+&lt;li&gt;性别&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;使用邮箱注册，后续会定期将所记录的全部记录，打包发送给用户&lt;/p&gt;
+可以实现下列功能&lt;ul&gt;
+&lt;li&gt;紫微斗数 12 宫的星盘数据&lt;/li&gt;
+&lt;li&gt;获取生肖&lt;/li&gt;
+&lt;li&gt;获取星座&lt;/li&gt;
+&lt;li&gt;获取四柱（干支纪年法的生辰）&lt;/li&gt;
+&lt;li&gt;获取运限（大限，小限，流年，流月，流日，流时）的数据&lt;/li&gt;
+&lt;li&gt;获取流耀（大限和流年的动态星耀）&lt;/li&gt;
+&lt;li&gt;判断指定宫位是否存在某些星耀&lt;/li&gt;
+&lt;li&gt;判断指定宫位三方四正是否存在某些星耀&lt;/li&gt;
+&lt;li&gt;判断指定宫位三方四正是否存在四化&lt;/li&gt;
+&lt;li&gt;判断指定星耀是否存在四化&lt;/li&gt;
+&lt;li&gt;判断指定星耀三方四正是否存在四化&lt;/li&gt;
+&lt;li&gt;判断指定星耀是否是某个亮度&lt;/li&gt;
+&lt;li&gt;判断指定星耀是否存在四化&lt;/li&gt;
+&lt;li&gt;根据天干获取四化&lt;/li&gt;
+&lt;li&gt;获取指定星耀所在宫位&lt;/li&gt;
+&lt;li&gt;获取指定宫位三方四正宫位&lt;/li&gt;
+&lt;li&gt;获取指定星耀三方四正宫位&lt;/li&gt;
+&lt;li&gt;获取指定星耀对宫&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;基于 Web ，天生跨平台&lt;/p&gt;
+其他&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;多语言输入/输出&lt;/p&gt;
+&lt;p&gt;输入的时候支持多个国家和地区语言混合输入，可以输出指定语言。目前支持 &lt;code&gt;简体中文&lt;/code&gt;，&lt;code&gt;繁体中文&lt;/code&gt;，&lt;code&gt;英文&lt;/code&gt;，&lt;code&gt;日文&lt;/code&gt;，&lt;code&gt;韩文&lt;/code&gt;。英文的翻译目前还没有标准，所以我大多是意译的，但也正因为如此，可能英文版本的会更加易懂。如果有精通星象翻译的欢迎提 PR 。任何语言都可以。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;链式调用&lt;/p&gt;
+&lt;p&gt;假如你想判断 &lt;code&gt;紫微星&lt;/code&gt; 的 &lt;code&gt;三方四正&lt;/code&gt; 有没有 &lt;code&gt;化忌&lt;/code&gt;，你可以这样做&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-ts"&gt;import { astro } from 'iztro';
+
+const astrolabe = astro.astrolabeBySolarDate("2000-8-16", 2, "男", true, "zh-CN");
+
+astrolabe.star('紫微').surroundedPalaces().haveMutagen('忌');
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;欢迎试用。&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 06:10:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970517#reply0</guid></item><item><title>[全球工单系统] 购买 todesk 的安卓被控恶心到我了,全是套路</title><link>https://www.v2ex.com/t/970516#reply6</link><description>买之前得知:1 免 root 远程控制安卓.2 可以切换设备.25 月.&lt;br /&gt;买了之后 A 设备无法被控,切换 B 设备无法被控,切换已 root 的 C 设备,提示"当月次数已用完"!!!&lt;br /&gt;好的,我就当你绑定了 2 台设备,我切换为之前的 A 设备好了,也提示"当月次数已用完"!!!&lt;br /&gt;意思就是我现在可远控的设备是 0 台!!!&lt;br /&gt;&lt;br /&gt;后来我才知道,&amp;lt;1 免 root 远程控制安卓&amp;gt;是安卓 8 以上.这个是在帮助看到的.首页和购买的时候没有提示.&lt;br /&gt;后来我才知道,&amp;lt;2 可以切换设备&amp;gt;只能切换 2 次.这个限制没有在任何地方看到.干脆你就不让切换算了.&lt;br /&gt;而且没办法申请退款!</description><pubDate>Sun, 03 Sep 2023 06:08:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970516#reply6</guid></item><item><title>[问与答] [提问]V2EX 是不支持 RSS 吗？</title><link>https://www.v2ex.com/t/970513#reply2</link><description>&lt;p&gt;有什么方法可以订阅 V2EX 的指定频道呢？&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 05:50:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970513#reply2</guid></item><item><title>[Node.js] 这几天很困扰我的一个 nodejs 脚本中的性能(?)问题</title><link>https://www.v2ex.com/t/970512#reply5</link><description>&lt;h1&gt;问题描述&lt;/h1&gt;
-&lt;p&gt;假设：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;这里有一个接口，在浏览器控制台中看到他的请求时间是 50ms&lt;/li&gt;
-&lt;li&gt;复制到同网络环境下的 postman 中调用，请求时间是将近 200ms ，请求头完全复制&lt;/li&gt;
-&lt;li&gt;把调用写到 js 脚本中，在同网络环境下 node 运行 ，console.time 显示也是 200ms&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;怀疑过程&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;一开始以为是 nodejs 瓶颈，在中文互联网下搜索原因寥寥无几，改去 stackoverflow 用 [nodejs is slower than chrome] 查找，有几篇类似的&lt;a href="https://stackoverflow.com/questions/29761518/node-js-http-get-request-takes-substantially-longer-than-browser-rest-client-e?rq=4" rel="nofollow"&gt;像这一篇&lt;/a&gt;，看回答基本都是是归咎于网络；&lt;/li&gt;
-&lt;li&gt;通过 fiddler 查看，有如下区别
-&lt;img alt="在这里插入图片描述" class="embedded_image" rel="noreferrer" src="https://img-blog.csdnimg.cn/0c1dc62ae6d4408597feb8723252515e.png#pic_center" /&gt;&lt;/li&gt;
-&lt;li&gt;在 js 脚本中把原本一次运行只调用一次的请求重复调用了几次，发现后几次速度逐渐接近浏览器原生访问
-&lt;img alt="在这里插入图片描述" class="embedded_image" rel="noreferrer" src="https://img-blog.csdnimg.cn/11b027298cde43029d9cb95dd0c04798.png#pic_center" /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;我的问题&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;我怀疑是不是有什么缓存机制在生效，与 fiddler 中的 TCP/IP Connect 和 ServerConnected 的差异相耦合，可惜到这里中文互联网上的资料就明显出现了欠缺，感觉我已经快找到正确的原因了，所以来找大家确认下&lt;/li&gt;
-&lt;li&gt;如果 1 是正确的，那对于每次运行都从头开始的 js 脚本，有什么解决方法吗？ nginx 的缓存配置可以起到作用吗&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 03 Sep 2023 05:46:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970512#reply5</guid></item><item><title>[问与答] 拆开卖还是整机卖好</title><link>https://www.v2ex.com/t/970511#reply1</link><description>拆开卖还是整机卖好&lt;br /&gt;&lt;a href="https://i.imgur.com/7jgXekL.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/7jgXekL.png" /&gt;&lt;/a&gt;</description><pubDate>Sun, 03 Sep 2023 05:44:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970511#reply1</guid></item><item><title>[程序员] 笔记本键盘 Esc 坏了，外接键盘不能打字，有朋友遇到过吗？</title><link>https://www.v2ex.com/t/970508#reply5</link><description>&lt;ul&gt;
-&lt;li&gt;笔记本型号：神舟 Z7-KP7GC&lt;/li&gt;
-&lt;li&gt;系统：Windows 10 64x 22H2&lt;/li&gt;
-&lt;li&gt;使用时间：4 年多&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+后续会加入的功能&lt;ul&gt;
+&lt;li&gt;判断指定运限宫位内是否存在某些星耀&lt;/li&gt;
+&lt;li&gt;判断指定运限宫位三方四正是否存在某些星耀&lt;/li&gt;
+&lt;li&gt;判断指定运限宫位内是否存在四化&lt;/li&gt;
+&lt;li&gt;判断指定运限三方四正是否存在四化&lt;/li&gt;
+&lt;li&gt;获取指定运限宫位叠加的上层宫位&lt;/li&gt;
+&lt;li&gt;TBA&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;现象：&lt;/p&gt;
-&lt;p&gt;前天打游戏似乎过热，然后 Esc 和左上角的 1 、2 键没反应了&lt;/p&gt;
-&lt;p&gt;昨天买了一个普通键盘，插上去之后，按键无效，但通过电脑软件调整键盘的背光、蓝牙连接电脑，都可以。&lt;/p&gt;
-&lt;p&gt;今天又买了一个雷柏键盘，发现也是类似，Fn + 功能键打开“我的电脑”没问题，但打字无响应。&lt;/p&gt;
-&lt;p&gt;唯一能想到的解决办法：重装系统试试，不行就送修&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 05:33:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970508#reply5</guid></item><item><title>[问与答] 哔哩哔哩和 Tiktok 也会共享数据？</title><link>https://www.v2ex.com/t/970507#reply6</link><description>&lt;p&gt;早上刚在哔哩哔哩上刷到互打耳光大赛，感觉还挺爽挺过瘾的，多看了一会儿。&lt;/p&gt;
-&lt;p&gt;中午就在 Tiktok 上刷到同样的打耳光比赛了，关键是我 Tiktok 用了几年了，一直都是看日韩美女和萌宠，从来没推送过这种比赛的&lt;/p&gt;</description><pubDate>Sun, 03 Sep 2023 05:14:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970507#reply6</guid></item><item><title>[Linux] 关于微信 for Linux 的一些使用感受</title><link>https://www.v2ex.com/t/970506#reply16</link><description>哈哈 骗你们的哪有啊，不过 QQ for linux 都出来了那微信啥时候跟上呢，没法在 linux 用微信是真的恼火</description><pubDate>Sun, 03 Sep 2023 05:07:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970506#reply16</guid></item><item><title>[Android] 有没有可能世界上的 Android 比中国的更费电</title><link>https://www.v2ex.com/t/970505#reply46</link><description>在全球其他地方使用的带 Google Play 的 Android 系统，是比中国大陆使用的定制安卓更费电的。&lt;br /&gt;因为海外 app 系统默认都是允许自启动，这也是海外的谷歌推送机制需要的。&lt;br /&gt;安装的 app 越多，后台就有越多的 app 为缓存状态。来了消息，会唤醒 app 弹出通知。&lt;br /&gt;而中国定制系统都是默认禁止 app 自启动（除了几个白名单比如微信 QQ ），所以更省电。&lt;br /&gt;华为荣耀小米 OPPO vivo 魅族以及三星索尼定制的 jpush 等的推送服务也都不需要 app 自启动，而是一个叫推送服务的软件代推。&lt;br /&gt;所以华米 ov 等的推送机制相比谷歌的 fcm 推送会更省电。&lt;br /&gt;我用谷歌服务国外软件装了多支持 fcm 的都允许自启动（应用也确实走了 fcm 在日志里可以看到），家住香港谷歌也可以稳定连接，相比那些禁用谷歌服务的，续航差了很多。</description><pubDate>Sun, 03 Sep 2023 05:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970505#reply46</guid></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;为了方便大家玩儿起来，我耗费了比开发还多的时间来完善文档。可以算是这个赛道最用心的一个开源库了吧？当然，科普类的文档我还在准备中，最近都在爆肝完善开发文档。希望有兴趣的大佬可以多多支持。文档 &lt;a href="https://docs.iztro.com" rel="nofollow"&gt;传送门&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/SylarLong/iztro/assets/6510425/7d178afc-82d6-4633-a420-5cf2235d4bc4" /&gt;&lt;/p&gt;
+&lt;h3&gt;结束语&lt;/h3&gt;
+&lt;p&gt;最近真的快爆肝了，不过也体会到了开源的快乐。最后希望大家多多支持，就算你暂时不玩，也留颗 &lt;code&gt;star&lt;/code&gt; 再走吧，万一哪天流行了呢😉。还有个疑问，其他开源库别人使用的时候都会在 &lt;code&gt;issue&lt;/code&gt; 里提很多问题，我的 &lt;code&gt;issue&lt;/code&gt; 里面只出现了一个客人。是为什么呢？😕&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:12:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970703#reply0</guid></item><item><title>[问与答] 大佬们给个主机配置啊，预算 4000~5000，无需独显</title><link>https://www.v2ex.com/t/970702#reply0</link><description>&lt;p&gt;想新组装台电脑，平时生活工作看看电影，不玩大型游戏，ide 开发软件用用
+现预算 4000 的样子，cpu 的话初步是想 i513 代或 i712 代，不需要独显
+另再加 1000 配个显示器
+恳请大佬们指点指点，支支招，谢谢！&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:06:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970702#reply0</guid></item><item><title>[问与答] 邮箱里收到了奇怪的“诈骗”邮件？</title><link>https://www.v2ex.com/t/970701#reply1</link><description>清理邮件时发现的, 发件人是 service@paypal.com&lt;br /&gt;收件人是跟我邮箱账号无关的邮箱&lt;br /&gt;很好奇为啥这种邮件会被邮箱收到? 是新型诈骗邮件么?</description><pubDate>Mon, 04 Sep 2023 03:02:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970701#reply1</guid></item><item><title>[服务器] 有啥可以展示网页以监控服务器硬盘 smart 信息的程序？</title><link>https://www.v2ex.com/t/970700#reply0</link><description>&lt;p&gt;比如动态展示一个温度曲线。&lt;/p&gt;
+&lt;p&gt;另外需要可以设置一些告警，比如温度超出范围的话。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:02:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970700#reply0</guid></item><item><title>[分享发现] 最近发现，在 YOUTUBE 浏览过的频道，会在 B 站给推荐</title><link>https://www.v2ex.com/t/970699#reply5</link><description>&lt;p&gt;一直感觉 B 站现在的推荐机制有问题。经常推荐的都不是我感兴趣的 UP 主。&lt;/p&gt;
+&lt;p&gt;YOUTUBE 的还好，经常推荐的一些新频道，让我感兴趣。&lt;/p&gt;
+&lt;p&gt;但每次在 YOUTUBE 浏览过的，再回去 B 站，就会发现也给我推同样的 UP 主了。&lt;/p&gt;
+&lt;p&gt;甚至是两部设备，我在平板看完 YOUTUBE ，然后过半天后在手机上的 B 站就发现有同样的推荐了。&lt;/p&gt;
+&lt;p&gt;都不知道 B 站是怎么做到的。但假如那位 UP 主只在 YOUTUBE 更新，没有在 B 站更新，就不会出现推荐。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:59:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970699#reply5</guid></item><item><title>[宽带症候群] 现在还有没有好用的 阿里 DDNS 插件？</title><link>https://www.v2ex.com/t/970698#reply5</link><description>可以运行在 Docker 、mac 、windows 上的都可以。。</description><pubDate>Mon, 04 Sep 2023 02:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970698#reply5</guid></item><item><title>[程序员] 求推荐好看的响应式平台网站模版？</title><link>https://www.v2ex.com/t/970697#reply1</link><description>&lt;p&gt;有哪些好看的响应式模版？不需要授权的那种？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:52:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970697#reply1</guid></item><item><title>[程序员] 百度云 cdn 免费版的 https 没了？</title><link>https://www.v2ex.com/t/970696#reply6</link><description>我前几天还正常用着，今天突然不行了报错 ERR_SSL_PROTOCOL_ERROR ，&lt;br /&gt;但相关新闻只有看到 5 个月前说百度云 cdn 不再免费，存量用户正常用，&lt;br /&gt;我 ssl 证书用的是 lets 的三个月手动更新一次，今天报错还以为是到期了，但登录一看直接没有证书管理了，&lt;br /&gt;关键联系不上客服，不知道是不是 bug 了，还是故意逼走免费用户，&lt;br /&gt; &lt;a href="https://i.imgur.com/DSMUAAa.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DSMUAAa.png" /&gt;&lt;/a&gt;&lt;br /&gt;还有免费的 https cdn 吗， 除了 cloudflare, 我这个只有我一个人用所以其他限制都无所谓，只要免费就好，&lt;br /&gt;实在是 http 有功能限制太坑了，</description><pubDate>Mon, 04 Sep 2023 02:45:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970696#reply6</guid></item><item><title>[问与答] 如何在 GitHub 寻找 electron 框架搭建的 APP/软件</title><link>https://www.v2ex.com/t/970695#reply1</link><description>&lt;p&gt;学些 electron 框架，想看其他软件实现&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:42:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970695#reply1</guid></item><item><title>[程序员] 刚毕业学前端好还是后端好？</title><link>https://www.v2ex.com/t/970694#reply18</link><description>&lt;p&gt;我是普通一本毕业的，学的是通信工程。考研没考上，找了个程序员的工作。找工作时候会的就是学校教的那些东西。上班第一天就去出差了，到了部队写了两个月 C++代码。刚开始没有网，没人教很难，后来慢慢上手了点。现在出差回来了，领导问我想做前端还是后端。想问一下大佬们前端好还是后端好？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970694#reply18</guid></item><item><title>[问与答] Surge 的代理链是对线路有什么要求吗？为什么有的线路不能作为跳板代理</title><link>https://www.v2ex.com/t/970692#reply0</link><description>&lt;p&gt;买了个 Windows 系统的 vps ，安装了 v2ray 服务端并开启了 GoogleOneVPN ，准备用这个 vps 作为落地机的，结果测了好几个机场的不同线路，只有少数几个线路能作为跳板代理连接成功，其他大部分线路都无法连接，有人知道这是为什么吗？跳板代理是对线路或者协议有什么要求吗？
+按理来说跳板代理的原理应该就是在数据包里套娃吧，为啥会有的线路可以连接有的又不行呢&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970692#reply0</guid></item><item><title>[问与答] Clash 安卓应用控制列表里没有 google play？</title><link>https://www.v2ex.com/t/970691#reply6</link><description>google play 一直转圈，打开 Clash 才发现控制使用代理的 app 代表里没有可添加的 Google play 选项，难搞哦。。&lt;br /&gt;&lt;a href="https://i.imgur.com/E9K9kan.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/E9K9kan.jpg" /&gt;&lt;/a&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970691#reply6</guid></item><item><title>[问与答] 一个个人云 os 需要具备哪些功能？</title><link>https://www.v2ex.com/t/970690#reply1</link><description>&lt;p&gt;RT ，最近打算基于小主机，放一个网页版的文件管理器 + bt 下载器， &lt;/p&gt;
+&lt;p&gt;想了一下是不是搞到最后就成 nas 系统了？&lt;/p&gt;
+&lt;p&gt;如果（对存储侧重比例不同）搭建一个个人云 os 需要哪些功能？&lt;/p&gt;
+&lt;p&gt;比如我们往后考虑一下，终端不做运算存储，只做展示和输入，在小主机上跑程序和各种东西&lt;/p&gt;
+&lt;p&gt;GUI 目前运行在浏览器上，OS 运行在小主机上&lt;/p&gt;
+&lt;p&gt;有没有现成的解决方案？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970690#reply1</guid></item><item><title>[macOS] 卸载 SetApp 后，其所包含的 app 图标还会一直存在！</title><link>https://www.v2ex.com/t/970689#reply2</link><description>&lt;p&gt;请教一个问题，setapp 订阅到期后卸载了 setapp ，但是它包含的应用的图标还是会存在。如何删除这些图标呢？如下图：
+&lt;img alt="图一" class="embedded_image" rel="noreferrer" src="https://z4a.net/image/V3TqLh" /&gt;
+&lt;img alt="图二" class="embedded_image" rel="noreferrer" src="https://z4a.net/image/V3Tpm5" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970689#reply2</guid></item><item><title>[RSS] 求 微信公众号 RSS</title><link>https://www.v2ex.com/t/970688#reply1</link><description></description><pubDate>Mon, 04 Sep 2023 02:32:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970688#reply1</guid></item><item><title>[游戏] 如何看待 B 社新游 starfield/星空</title><link>https://www.v2ex.com/t/970687#reply5</link><description>&lt;p&gt;1.个人游玩时长
+&lt;img alt="图片注释" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2023/09/04/64f541a42aa1b.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;2.理性评价&lt;/p&gt;
+&lt;p&gt;玩法：个人来讲枪械，飞船，空战，探索，建造对我来说这个游戏已经可以满足我了，再加上太空废土捡垃圾的故事背景，完全符合我的胃口；飞船自定义就花了好久；&lt;/p&gt;
+&lt;p&gt;剧情：主线没推，全搞支线，对话文本很长，然后还有决定性的对话选择，需要认真阅读，对于非剧情党可能不友好；&lt;/p&gt;
+&lt;p&gt;优化：3900x+3060ti+2k144 ，50 帧左右，有的地方甚至 30 左右，整体下来算是流畅能玩
+吐槽：关于播片传送，黑屏加载，感觉是 b 社技术限制，还听说是微软要求赶工。跃迁传送可以理解，但是开门，进屋黑屏加载，懂了，少女卷轴 5 也是这样，照搬是吧，这个东西在 10 年前可以理解，但是在今天，让大家感觉不适；星球太荒，野生地牢没了，真就等 mod 社区开发了；没有 dlss;&lt;/p&gt;
+&lt;p&gt;整体评价：本来还以为能和王国之泪拼一拼，现在看来悬了。个人建议等打折再入手，那时候 mod 也发展起来了，该优化的也优化了；&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:30:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970687#reply5</guid></item><item><title>[程序员] 各位程序猿或者 PM，请教下有没有开源的类似于公众号管理后台那样的系统？功能如下</title><link>https://www.v2ex.com/t/970686#reply1</link><description>- 写文章功能&lt;br /&gt;	- 写文字&lt;br /&gt;	- 插图片&lt;br /&gt;	- 插视频&lt;br /&gt;    - 插连接&lt;br /&gt;    - 最好能增加上传文件功能&lt;br /&gt;    （）&lt;br /&gt;    &lt;br /&gt;- 记录管理&lt;br /&gt;	- 对记录 CURD&lt;br /&gt;    &lt;br /&gt;包含前台和后台全套的（后台最好是 go 写的😄）&lt;br /&gt;&lt;br /&gt;找了两天没找到合适的😂</description><pubDate>Mon, 04 Sep 2023 02:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970686#reply1</guid></item><item><title>[程序员] Go 语言 KV 存储引擎 LotusDB 2.0 重磅发布！</title><link>https://www.v2ex.com/t/970685#reply1</link><description>&lt;p&gt;经过差不多两个月的重构，在社区小伙伴的共同协作努力下，LotusDB V2.0.0 版本正式发布！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;LotusDB 项目地址： &lt;a href="https://github.com/lotusdblabs/lotusdb" rel="nofollow"&gt;https://github.com/lotusdblabs/lotusdb&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/JJjYArvYEk.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/JJjYArvYEk.png%21large" /&gt;&lt;/a&gt;
+LotusDB 是用 Go 语言编写的 KV 数据库，它采用 KV 分离的思想，融 LSM Tree 和 B+ Tree 存储模型为一体，适合大规模的 KV 数据存储，相较于 Go 语言领域知名的 KV 存储项目 badger 和 bbolt ，LotusDB 具有更先进的设计架构。&lt;/p&gt;
+&lt;p&gt;这次我们通过两个月的重构，将 LotusDB 原来 V1 版本的代码基本上重新实现了一遍，目的在于提高简洁度。&lt;/p&gt;
+&lt;p&gt;LotusDB 的整体架构实现了全新升级，目的在于提升读写和压缩性能，下面是之前 V1 版本的架构图：
+&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/682SRW0EAo.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/682SRW0EAo.png%21large" /&gt;&lt;/a&gt;
+这是重构后的 V2 版本的架构图：
+&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/Mk0A5J9FYl.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/Mk0A5J9FYl.png%21large" /&gt;&lt;/a&gt;
+相对于 V1 版本，V2 版本主要有以下更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新版本的所有磁盘存储（包括预写日志 WAL 和 Value Log ）均直接采用 wal 组件（ &lt;a href="https://github.com/rosedblabs/wal" rel="nofollow"&gt;https://github.com/rosedblabs/wal&lt;/a&gt; ）实现，代码屏蔽了底层管理文件读写的操作，更加简洁易懂&lt;/li&gt;
+&lt;li&gt;新版本通过对 key 哈希分片的方式构建多个 Index 和 Value Log 对象，实现了 Index 和 Value Log 的并发读写，读写和压缩性能相对于 V1 提升了 2~3 倍，这也是本次重构架构上最大的更新&lt;/li&gt;
+&lt;li&gt;TODO：另一大重要更新是将会引入新的基于磁盘的 Hash 索引，这样 LotusDB 将会支持磁盘 BTree 和 Hash 两种类型的索引，满足更多样化的场景（预计在下一次 Release 发布）&lt;/li&gt;
+&lt;li&gt;新版本舍弃了 Column Family （ CF ） 的设计，目的在于使架构更加简洁，原来跨 CF 的操作并不能保证原子性，如果后续有需求的话将会重新设计这个 feature&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;毫不夸张的说，这是目前 Go 语言领域架构最先进的 KV 存储引擎项目，其优势主要体现在： &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;结合了 LSM 和 B+ 树存储模型的优点&lt;/strong&gt;，B+ 树读性能稳定，而 LSM 写吞吐高，LotusDB 在这基础上做了一个巨大的改动，就是采用 KV 分离的思想，完全舍弃掉 LSM 中的 SST 文件，改由 B+ 树来存储索引，而 value 存放则参考了 Wisckey 和 bitcask 模型的设计，以追加写的方式存储到单独的 value log 文件中，充分利用顺序 IO 的优势&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更加均衡和快速的读/写性能&lt;/strong&gt;，写入 LotusDB 的数据不需要在磁盘上排序，追加写的 Value Log 设计在写入过程中减少了磁盘磁头的移动，因此即便是完全无序的数据，LotusDB 依然能够保持较高的吞吐量。同时 LotusDB 的读写性能更加均衡，而不会像 bbolt 那样读写性能差距极大，适合读写都非常频繁的业务场景&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;比典型的 LSM 低得多的读放大&lt;/strong&gt;，LotusDB 采用 KV 分离的思路，从 B+ 树中获取 Key 对应 Value 在磁盘中的存储地址后，即可直接一步读取 Value 数据，显著降低了传统 LSM 存储模型带来的读放大问题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更大规模的数据存储&lt;/strong&gt;，和 LotusDB 的姊妹项目 RoseDB 相比，LotusDB 是一个基于磁盘索引的 KV 存储引擎，而 RoseDB 是 Bitcask 存储模型全内存索引，因此数据存储规模基本不受到内存大小的影响，因此更加适合大规模的数据存储&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;支持崩溃恢复&lt;/strong&gt;，LotusDB 实现了 WAL 机制，在将 KV 数据刷盘前就将事务日志进行持久性存储，数据库崩溃后依然能够从 WAL 中读取事务日志，保证事务的原子性&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据并发式刷盘&lt;/strong&gt;  LotusDB 通过将 key 进行哈希分片的机制，建立多个 Index 和 Value Log 对象，每一组 Index &amp;amp; Value Log 对象对应一个数据片，当 memory table 中的数据需要刷盘时，多个对象可以通过并发的方式实现刷盘，大大提升了刷盘的吞吐量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以下是 LotusDB 的简单使用示例，大家可以上手体验！&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;package main
+
+import "github.com/lotusdblabs/lotusdb/v2"
+
+func main() {
+    // 指定设置
+    options := lotusdb.DefaultOptions
+    options.DirPath = "/tmp/lotusdb_basic"
+
+    // 打开数据库
+    db, err := lotusdb.Open(options)
+    if err != nil {
+        panic(err)
+    }
+    defer func() {
+        _ = db.Close()
+    }()
+
+    // 写入键值对
+    key := []byte("KV store engine")
+    value := []byte("LotusDB")
+    putOptions := &amp;amp;lotusdb.WriteOptions{
+        Sync:       true,
+        DisableWal: false,
+    }
+    err = db.Put(key, value, putOptions)
+    if err != nil {
+        panic(err)
+    }
+
+    // 读取键值对
+    value, err = db.Get(key)
+    if err != nil {
+        panic(err)
+    }
+    println(string(value))
+
+    // 删除键值对
+    err = db.Delete(key, putOptions)
+    if err != nil {
+        panic(err)
+    }
+
+    // 启动 Value Log 压缩
+    err = db.Compact()
+    if err != nil {
+        panic(err)
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;致谢&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在 LotusDB 的重构过程中，非常感谢社区的各位小伙伴的参与和积极贡献，特别是 @燕小七 和 @&lt;a href="https://www.v2ex.com/member/akiozihao"&gt;akiozihao&lt;/a&gt; 表现最为积极活跃，为 LotusDB 2.0 的重构做了很多工作，再次表示感谢，也希望能够继续参与。&lt;/p&gt;
+&lt;p&gt;同时 @燕小七 同学成为了 LotusDB 的第一位 Committer ，后续我们希望能够培养更多的 Committer 和 Maintainer ，充分发挥社区的作用，共同打造和完善 LotusDB 这个最先进的 KV 存储引擎！&lt;/p&gt;
+&lt;p&gt;同时也非常欢迎大家能够参与进来，目前我们只是发布了第一个版本，后续将会持续迭代，能够让大家发挥的空间巨大，感兴趣的可以加我微信私聊，我会将你拉到开发者群当中。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:27:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970685#reply1</guid></item><item><title>[NAS] [独立 app 推广] 同步照片到 NAS 的新选择</title><link>https://www.v2ex.com/t/970683#reply1</link><description>&lt;p&gt;这是一篇推广我个人带有付费功能 app 的主题.&lt;/p&gt;
+&lt;p&gt;几个月前我尝试了很多中不同的相册同步到 NAS 的方案,最终选择了一个仍然让我不是很满意的方案:&lt;br /&gt;
+Nextcloud 同步 + photoprism 浏览&lt;br /&gt;
+但是 Nextcloud 的移动端 app 实在是....处于一个仅仅是能用的程度吧&lt;br /&gt;
+还有一些强依赖服务端的方式,比如群晖的 photos,我不希望被这些服务端锁死,只能用他自己的方式来看我的照片,所以直接放弃这种方式&lt;/p&gt;
+&lt;p&gt;于是我自己用 flutter 写了一个相册同步的 app - &lt;strong&gt;pho&lt;/strong&gt;,是一个基于网络协议的相册同步工具,可以同步到&lt;strong&gt;smb,webdav,nfs&lt;/strong&gt;以及后续打算支持一些网盘.主打就是同步和浏览功能,自认为体验还是很不错的.可以直接使用这个 app 浏览已上传的照片,也可以配合其他服务端比如 photoprism 来使用.我现在已经把 pho 作为我默认的相册使用,平时手机上看照片同步照片都用这个 app.电脑上用 photoprism 查看和搜索照片.&lt;/p&gt;
+&lt;p&gt;现在考虑也许可以做一些高级功能拿来卖,于是现在在 ios 上架了一个带付费解锁高级功能的付费版:&lt;br /&gt;
+&lt;a href="https://apps.apple.com/cn/app/pho-%E5%90%8C%E6%AD%A5%E7%85%A7%E7%89%87%E5%88%B0nas-%E7%BD%91%E7%9B%98/id6451428709" rel="nofollow"&gt;app store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;付费功能包含:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;并发同步&lt;/li&gt;
+&lt;li&gt;加密同步&lt;/li&gt;
+&lt;li&gt;多种上传目录结构自选&lt;/li&gt;
+&lt;li&gt;同步过滤器&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;官网: pho.tools&lt;br /&gt;
+开源地址(付费功能部分未开源): &lt;a href="https://github.com/fregie/pho" rel="nofollow"&gt;https://github.com/fregie/pho&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:24:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970683#reply1</guid></item><item><title>[远程工作] 招聘远程全职 iGaming 平台前端开发工程师（5000 美金/月）</title><link>https://www.v2ex.com/t/970682#reply0</link><description>职位描述：&lt;br /&gt;&lt;br /&gt;1. 负责平台级在线游戏网站 iGaming 应用产品的架构设计和开发工作；&lt;br /&gt;2. 负责前端前沿技术、理念的跟进、预研和落地；&lt;br /&gt;3. 负责前端技术架构、规范、研发流程建设；&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;&lt;br /&gt;1. 熟练掌握 React, Next.js, TypeScript, Node.js, Rxjs 等方案和工具；&lt;br /&gt;2. 熟悉 SEO 优化策略，前端性能优化，前端安全策略等；&lt;br /&gt;3. 具备优秀的技术嗅觉、想象力、执行力和品格；&lt;br /&gt;4. 具备优秀的程序设计、架构和编码能力；&lt;br /&gt;5. 良好的产品意识，具备技术驱动能力。&lt;br /&gt;&lt;br /&gt;优先条件：&lt;br /&gt;&lt;br /&gt;1. 有在线小游戏，大型 iGaming 平台 Web 系统研发经验优先，例如：&lt;a href="http://stake.com" rel="nofollow noopener" target="_blank"&gt;stake.com&lt;/a&gt;, &lt;a href="http://rollbit.com" rel="nofollow noopener" target="_blank"&gt;rollbit.com&lt;/a&gt;;&lt;br /&gt;2. 拥有建站经验的优先，需要保证网站有极致的访问体验；&lt;br /&gt;3. 有 Canvas 、WebGL 图形可视化开发经验者优先;&lt;br /&gt;4. 人在海外，具备熟练的英文表达能力;(肉身在中国大陆地区的慎重考虑！)&lt;br /&gt;&lt;br /&gt;技术栈：&lt;br /&gt;&lt;br /&gt;UI/UX: MUI V5 开源组件库以及官方 Figma 设计稿，UI/UX 与前端集成了 design token system ，基本上组件和样式这块不用花费太多时间和精力.&lt;br /&gt;技术栈: Next.js + TypeScript + React-Query + WS + RxJS.(RxJS 有兴趣可以了解下，不强求)&lt;br /&gt;&lt;br /&gt;工作形式：&lt;br /&gt;&lt;br /&gt;全职，远程，薪资 5000 美金/月 以上；&lt;br /&gt;&lt;br /&gt;有意的可以加我 TG 联系，groot0xx ，请附带简历或作品;</description><pubDate>Mon, 04 Sep 2023 02:24:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970682#reply0</guid></item></channel></rss>
