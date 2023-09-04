@@ -1,193 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 04 Sep 2023 03:12:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[JavaScript] iztro 新版本来了，不仅完善了功能，还完善了文档</title><link>https://www.v2ex.com/t/970703#reply0</link><description>&lt;pre&gt;&lt;code&gt;npm install --save iztro
-&lt;/code&gt;&lt;/pre&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 04 Sep 2023 15:23:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[前端开发] 网站跳转到 Shopify 并携带特定信息</title><link>https://www.v2ex.com/t/970910#reply0</link><description>&lt;p&gt;目前正在给甲方的一套硬件产品开发一个网站 A ，一个关键需求就是要能够允许用户上传图片，到时候这个图片会印刷在产品和包装盒上，某种程度上类似于国内电商网站定制印刷手机壳这种需求。&lt;/p&gt;
+&lt;p&gt;在上传完图片之后，用户点击页面中的购买链接就会跳转到 Shopify 网站 B 的购物车页面。目前通过搜索相关资料，已经实现了从网站 A 跳转到 Shopify 网站 B 的购物车页面，并在网站 B 的购物车中放上在网站 A 用户所选择的各款商品及商品数量。&lt;/p&gt;
+&lt;p&gt;但是还有一个问题，就是用户在从网站 A 跳转到 Shopify 网站 B 之后，对于用户在网站 A 上传的自定义图片，如何将其信息携带至购物车页面乃至保存在商品订单中？因为只有保存了用户上传的图片的信息，甲方才能够在生产产品的时候，将用户上传的图片印刷在商品上。&lt;/p&gt;
+&lt;p&gt;谢谢先~&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 15:20:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970910#reply0</guid></item><item><title>[酷工作] [远程 - 全职] 欧美 sass 公司，非 web3，全栈偏前端</title><link>https://www.v2ex.com/t/970909#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;5 年以上工作经验，本科以上学历&lt;/li&gt;
+&lt;li&gt;英文沟通能力好加分&lt;/li&gt;
+&lt;li&gt;工作稳定负责加分&lt;/li&gt;
+&lt;li&gt;编程基础扎实，对前后端都有了解&lt;/li&gt;
+&lt;li&gt;React + Nextjs + node&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在线投递网址： &lt;a href="https://career.helloklarity.com/engineering/frontend-engineer-full-time-andor-part-time" rel="nofollow"&gt;https://career.helloklarity.com/engineering/frontend-engineer-full-time-andor-part-time&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 15:18:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970909#reply0</guid></item><item><title>[区块链] 比特币、以太坊和 ETHMeta 的交易处理速度（TPS）比较</title><link>https://www.v2ex.com/t/970908#reply0</link><description>TPS=（块中的 tx 数）/（块时间，以秒为单位）&lt;br /&gt;比特币：&lt;br /&gt;&lt;br /&gt;- 一个比特币区块包含大约 1700 笔交易。&lt;br /&gt;&lt;br /&gt;- 区块挖掘需要 10 分钟或 600 秒。&lt;br /&gt;&lt;br /&gt;- TPS 大约为 1700/600=2.83 ，但有些区块达到 2500 笔交易，因此 TPS 峰值将为 2500/600=4.17 。&lt;br /&gt;&lt;br /&gt;以太坊：&lt;br /&gt;&lt;br /&gt;- 以太坊每 13 秒生产一个区块。&lt;br /&gt;&lt;br /&gt;- 每个区块的气体限制为 3000 万气体，目标为 1500 万。&lt;br /&gt;&lt;br /&gt;- 单笔交易的最小气体为 21000 。&lt;br /&gt;&lt;br /&gt;- 最大气体限制为 30000000/21000=1428 ，但实际上更少，因为智能合约交互需要更多气体，平均 TPS 约为 11.8 。&lt;br /&gt;&lt;br /&gt;ETHMeta：&lt;br /&gt;&lt;br /&gt;- ETHMeta 每 64 秒生产一个区块。&lt;br /&gt;&lt;br /&gt;- 单个区块大小为 20MB 。&lt;br /&gt;&lt;br /&gt;- 处理单个交易事件的大小约为 600B 。&lt;br /&gt;&lt;br /&gt;- 理论上，ETHMeta 的 TPS 可以达到 20*1024*1000/600/64=533 。&lt;br /&gt;&lt;br /&gt;总结来说&lt;br /&gt;&lt;br /&gt;与比特币和以太坊相比，ETHMeta 具有显著的优势。它拥有更均衡的区块产生时间（每 64 秒一个区块，而比特币需要 10 分钟，以太坊需要 13 秒），更高的理论 TPS 上限（可达 533 ，而比特币约为 2.83 ，以太坊约为 11.8 ），以及更大的区块容量（ 20MB ）。这些特性使 ETHMeta 在处理大量交易和实现低延迟交易确认方面表现出色，为广泛的应用场景提供了更高的性能和效率。&lt;br /&gt;&lt;br /&gt;ETHMeta 下载网址：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.eth-metaverse.com" rel="nofollow noopener" target="_blank"&gt;https://www.eth-metaverse.com&lt;/a&gt; （体验码：twnUof ）&lt;br /&gt;&lt;br /&gt;全球第一条同时兼顾移动端，大区块，高 TPS ，低手续费的公链 BFMeta&lt;br /&gt;&lt;br /&gt;想深入了解并参与的请加微信：&lt;br /&gt;&lt;br /&gt;BFMeta_</description><pubDate>Mon, 04 Sep 2023 15:17:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970908#reply0</guid></item><item><title>[程序员] 这推荐的几本书看完啥水平，能起飞不？</title><link>https://www.v2ex.com/t/970907#reply6</link><description>&lt;p&gt;大家觉得这个自学指南靠谱么
+&lt;a href="https://bitgo.tech/2023/08/11/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97-2023/" rel="nofollow"&gt;https://bitgo.tech/2023/08/11/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97-2023/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 15:03:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970907#reply6</guid></item><item><title>[设计] 想做个 App，迫于没有审美功底想找一个会 UI 的朋友出设计图（有偿付费）</title><link>https://www.v2ex.com/t/970904#reply1</link><description>&lt;p&gt;RT ，算是个创业（有玩的成分）项目。没有 UI 自己写出来的很丑，考虑再三还是找专业的人做专业的事情了&lt;/p&gt;
+&lt;p&gt;既然真诚是唯一必杀技那我就就明说了，因为是自己的项目，预算都是从工资里出的，所以可能不会太高。不过楼主不是抠门的人，尽量让接活的朋友做的也开心。&lt;/p&gt;
+&lt;p&gt;以下是一些需求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;App 的业务逻辑非常简单，也会给比较宽裕的时间&lt;/li&gt;
+&lt;li&gt;可以放飞自我去设计，遇到好看的效果或者有新奇的想法都可以往里加&lt;/li&gt;
+&lt;li&gt;需要你确认一个主题色&lt;/li&gt;
+&lt;li&gt;我列好了要做的一些功能，但并没有以原型图的方式画出来。可能需要你做一些相关的工作&lt;/li&gt;
+&lt;li&gt;不想要在国内很普遍的那种设计。更多的想把 &lt;strong&gt;美观&lt;/strong&gt; 放在靠前的位置&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;感兴趣的朋友可以联系我的微信（ base64 ）: c291bmRfbm9pc2U=&lt;br /&gt;
+也可以在评论区留下你的联系方式，请带上作品集谢谢！&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 14:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970904#reply1</guid></item><item><title>[酷工作] [合肥]听说程序员的女朋友不少是会计，找个全职会计</title><link>https://www.v2ex.com/t/970901#reply1</link><description>市政工程公司，需要一个精明有经验的会计，全职工作。&lt;br /&gt;&lt;br /&gt;薪资 6k~10k 。&lt;br /&gt;&lt;br /&gt;地址：合肥市长丰县谯城路科创北城 （市政工程、独栋办公楼、地点有点偏, 如需要可提供食宿）&lt;br /&gt;&lt;br /&gt;联系：c2VydmVyQDE4OC5jb20=</description><pubDate>Mon, 04 Sep 2023 14:13:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970901#reply1</guid></item><item><title>[问与答] uu 加速盒为什么不能拨号</title><link>https://www.v2ex.com/t/970900#reply0</link><description>&lt;p&gt;能拨号的话不是可以实现 nat1 吗？一些对 nat 敏感的游戏不是更好吗&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 14:09:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970900#reply0</guid></item><item><title>[程序员] 前端工程师主题房车</title><link>https://www.v2ex.com/t/970899#reply1</link><description>&lt;p&gt;最近两年把工作完全远程化了，放荡不羁爱自由，准备房车出发, 环游中国&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/F5K2QIjaoAA8wvG?format=jpg&amp;amp;name=4096x4096" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/F5K2fTiagAAk6v4?format=jpg&amp;amp;name=large" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 14:02:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970899#reply1</guid></item><item><title>[程序员] iNet 一个基于图论的程序语言</title><link>https://www.v2ex.com/t/970898#reply0</link><description>&lt;p&gt;项目主页： &lt;a href="https://inet.run" rel="nofollow"&gt;https://inet.run&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;源代码： &lt;a href="https://github.com/cicada-lang/inet" rel="nofollow"&gt;https://github.com/cicada-lang/inet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中文文档： &lt;a href="https://readonly.link/articles/https://cdn.inet.cic.run/docs/articles/%E5%8F%8D%E5%BA%94%E7%BD%91%E7%BC%96%E7%A8%8B.md" rel="nofollow"&gt;https://readonly.link/articles/https://cdn.inet.cic.run/docs/articles/反应网编程.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;语言基于一个令人耳目一新的计算模型，叫做 Interaction Nets （反应网）。&lt;/p&gt;
+&lt;p&gt;欢迎大家分享给正在学计算机的朋友 :)&lt;/p&gt;
+&lt;p&gt;也许可以拓展对计算模型的理解。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 14:01:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970898#reply0</guid></item><item><title>[程序员] 想接触硬件开发，从哪入手比较合适？</title><link>https://www.v2ex.com/t/970897#reply8</link><description>楼主双非本科明年毕业，本来的规划是想学点做点前端，但是之前和学长聊了聊，都不推荐往这边走。而且因为个人种种原因没跟上学习进度，现在也有点后悔（后悔也来不及了，只能硬着头皮往前看了。&lt;br /&gt;&lt;br /&gt;我有个朋友之前就和我说过国内做 BIOS 这块的很少，很久以前就推荐我往这边试试，但是因为本科学的都是偏软件所以一直没有尝试过。现在打算找个测试实习干着，然后想办法在大学最后一年时间学学硬件这块。&lt;br /&gt;&lt;br /&gt;这边大佬多，还请多多指教。</description><pubDate>Mon, 04 Sep 2023 13:57:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970897#reply8</guid></item><item><title>[分享发现] 中文评论区也开始个性化分发了…</title><link>https://www.v2ex.com/t/970896#reply0</link><description>根据这个微博博主的录屏&lt;br /&gt;打开抖音上同一个热门视频&lt;br /&gt;两台手机上的头部评论画风完全不一样&lt;br /&gt;&lt;br /&gt;&lt;a href="https://weibo.com/5860352815/NhI2S2dXt" rel="nofollow noopener" target="_blank"&gt;https://weibo.com/5860352815/NhI2S2dXt&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;感觉好魔幻，像是赛伯空间的精神隔离</description><pubDate>Mon, 04 Sep 2023 13:56:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970896#reply0</guid></item><item><title>[Apple] 美区 ID, iPhone 提示 icloud 服务迁入云上贵州？！</title><link>https://www.v2ex.com/t/970895#reply6</link><description>&lt;p&gt;ip13pro ，最近安装了 ios 17 beta 8 ，然后在设置里面出现一个提示新的 icloud 条款与条件，若要继续使用 icloud ，必须接受新的条款。然后点击下一步，提示中国大陆的 iCloud 服务由云上贵州运营。此举有助于我们改进中国大陆的 iCloud 服务，并遵守中国法律。&lt;/p&gt;
+&lt;p&gt;这意味着美国 ID 的 icloud 数据也必须也在中国储存？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 13:55:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970895#reply6</guid></item><item><title>[问与答] 2038 年，我的小米路由器 3g 还可以用吗？</title><link>https://www.v2ex.com/t/970894#reply1</link><description>最近看到 debian 放弃 mips 32 位操作系统的支持，想到了 32 位 linux 操作系统都有 2038 年问题。&lt;br /&gt;&lt;br /&gt;突然想起家里面刷了 padavan 作为 ap 的小米路由器 3g 还在正常服役中，到时是不是就死机了？&lt;br /&gt;&lt;br /&gt;有些心疼，哈哈😃</description><pubDate>Mon, 04 Sep 2023 13:50:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970894#reply1</guid></item><item><title>[iOS] 豆瓣 APP 剧照页插广告</title><link>https://www.v2ex.com/t/970893#reply5</link><description>&lt;p&gt;有啥办法屏能蔽掉嘛，看着揪心，受惊吓的程度。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 13:46:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970893#reply5</guid></item><item><title>[分享创造] 又一个 zerotier 第三方控制器</title><link>https://www.v2ex.com/t/970892#reply0</link><description>&lt;p&gt;&lt;a href="https://github.com/ragnaroks/ztocp" rel="nofollow"&gt;仓库地址&lt;/a&gt;，当前是私有状态，等相对稳定后会基于 AGPL3 开源。用过的都太老或太多 BUG 了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="https://i.imgur.com/iFNAvBV.png" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/iFNAvBV.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="https://i.imgur.com/Dy5Wzit.png" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Dy5Wzit.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 13:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970892#reply0</guid></item><item><title>[问与答] 推荐一个软路由，类似于 gl-inet MT2500A</title><link>https://www.v2ex.com/t/970891#reply0</link><description>gl-inet 固件闭源了，原来还想入个 MT2500A 软路由玩玩的，现在看来没必要了，大佬们有没有类似的产品推荐？&lt;br /&gt;&lt;br /&gt;无所谓 arm 或者 x86 ，有官方 openwrt 这种固件，不想用第三方出来的固件。&lt;br /&gt;&lt;br /&gt;需要的功能很简单，clash, wireguard, ddns 。&lt;br /&gt;&lt;br /&gt;有两个千兆网口就够用了。</description><pubDate>Mon, 04 Sep 2023 13:38:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970891#reply0</guid></item><item><title>[程序员] 独立开发周记 #29： 8 月数据总结</title><link>https://www.v2ex.com/t/970890#reply4</link><description>&lt;h1&gt;2023 ，0828-0903&lt;/h1&gt;
+&lt;p&gt;一个星期过去了，嗅觉和味觉只恢复了一丢丢，虽然不再发烧了，但还是一直没有力气和精神。&lt;/p&gt;
+&lt;p&gt;之前还在想嗅觉和味觉恢复之后会不会报复性饮食，这种情况并没有出现，反倒是瘦了三斤。&lt;/p&gt;
+&lt;h1&gt;8 月数据&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.npmjs.com/package/iztro" rel="nofollow"&gt;npm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/SylarLong/iztro" rel="nofollow"&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.iztro.com/quick-start.html" rel="nofollow"&gt;Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;App Store ，下载量提高 30% 左右，收入提高 18%&lt;/li&gt;
+&lt;li&gt;Google Play ，下载量下降 5%，收入下降 16%&lt;/li&gt;
+&lt;li&gt;Admob ，收入提高了 10 美元&lt;/li&gt;
+&lt;li&gt;国内安卓市场，下载量下降 16%，收入下降 15%&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;不得不说 &lt;code&gt;v2ex&lt;/code&gt; 的大佬们真的太给力了，非常感谢大家的支持，为了不辜负大家的喜欢，我废寝忘食了几天撸出了 &lt;code&gt;v1.2.0&lt;/code&gt; 版本。这次几乎是准完全体了。下面介绍一下功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-输入&lt;ul&gt;
-&lt;li&gt;生日（阳历或农历皆可）&lt;/li&gt;
-&lt;li&gt;出生时间&lt;/li&gt;
-&lt;li&gt;性别&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-可以实现下列功能&lt;ul&gt;
-&lt;li&gt;紫微斗数 12 宫的星盘数据&lt;/li&gt;
-&lt;li&gt;获取生肖&lt;/li&gt;
-&lt;li&gt;获取星座&lt;/li&gt;
-&lt;li&gt;获取四柱（干支纪年法的生辰）&lt;/li&gt;
-&lt;li&gt;获取运限（大限，小限，流年，流月，流日，流时）的数据&lt;/li&gt;
-&lt;li&gt;获取流耀（大限和流年的动态星耀）&lt;/li&gt;
-&lt;li&gt;判断指定宫位是否存在某些星耀&lt;/li&gt;
-&lt;li&gt;判断指定宫位三方四正是否存在某些星耀&lt;/li&gt;
-&lt;li&gt;判断指定宫位三方四正是否存在四化&lt;/li&gt;
-&lt;li&gt;判断指定星耀是否存在四化&lt;/li&gt;
-&lt;li&gt;判断指定星耀三方四正是否存在四化&lt;/li&gt;
-&lt;li&gt;判断指定星耀是否是某个亮度&lt;/li&gt;
-&lt;li&gt;判断指定星耀是否存在四化&lt;/li&gt;
-&lt;li&gt;根据天干获取四化&lt;/li&gt;
-&lt;li&gt;获取指定星耀所在宫位&lt;/li&gt;
-&lt;li&gt;获取指定宫位三方四正宫位&lt;/li&gt;
-&lt;li&gt;获取指定星耀三方四正宫位&lt;/li&gt;
-&lt;li&gt;获取指定星耀对宫&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-其他&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;多语言输入/输出&lt;/p&gt;
-&lt;p&gt;输入的时候支持多个国家和地区语言混合输入，可以输出指定语言。目前支持 &lt;code&gt;简体中文&lt;/code&gt;，&lt;code&gt;繁体中文&lt;/code&gt;，&lt;code&gt;英文&lt;/code&gt;，&lt;code&gt;日文&lt;/code&gt;，&lt;code&gt;韩文&lt;/code&gt;。英文的翻译目前还没有标准，所以我大多是意译的，但也正因为如此，可能英文版本的会更加易懂。如果有精通星象翻译的欢迎提 PR 。任何语言都可以。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;链式调用&lt;/p&gt;
-&lt;p&gt;假如你想判断 &lt;code&gt;紫微星&lt;/code&gt; 的 &lt;code&gt;三方四正&lt;/code&gt; 有没有 &lt;code&gt;化忌&lt;/code&gt;，你可以这样做&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import { astro } from 'iztro';
-
-const astrolabe = astro.astrolabeBySolarDate("2000-8-16", 2, "男", true, "zh-CN");
-
-astrolabe.star('紫微').surroundedPalaces().haveMutagen('忌');
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-后续会加入的功能&lt;ul&gt;
-&lt;li&gt;判断指定运限宫位内是否存在某些星耀&lt;/li&gt;
-&lt;li&gt;判断指定运限宫位三方四正是否存在某些星耀&lt;/li&gt;
-&lt;li&gt;判断指定运限宫位内是否存在四化&lt;/li&gt;
-&lt;li&gt;判断指定运限三方四正是否存在四化&lt;/li&gt;
-&lt;li&gt;获取指定运限宫位叠加的上层宫位&lt;/li&gt;
-&lt;li&gt;TBA&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;为了方便大家玩儿起来，我耗费了比开发还多的时间来完善文档。可以算是这个赛道最用心的一个开源库了吧？当然，科普类的文档我还在准备中，最近都在爆肝完善开发文档。希望有兴趣的大佬可以多多支持。文档 &lt;a href="https://docs.iztro.com" rel="nofollow"&gt;传送门&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/SylarLong/iztro/assets/6510425/7d178afc-82d6-4633-a420-5cf2235d4bc4" /&gt;&lt;/p&gt;
-&lt;h3&gt;结束语&lt;/h3&gt;
-&lt;p&gt;最近真的快爆肝了，不过也体会到了开源的快乐。最后希望大家多多支持，就算你暂时不玩，也留颗 &lt;code&gt;star&lt;/code&gt; 再走吧，万一哪天流行了呢😉。还有个疑问，其他开源库别人使用的时候都会在 &lt;code&gt;issue&lt;/code&gt; 里提很多问题，我的 &lt;code&gt;issue&lt;/code&gt; 里面只出现了一个客人。是为什么呢？😕&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:12:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970703#reply0</guid></item><item><title>[问与答] 大佬们给个主机配置啊，预算 4000~5000，无需独显</title><link>https://www.v2ex.com/t/970702#reply0</link><description>&lt;p&gt;想新组装台电脑，平时生活工作看看电影，不玩大型游戏，ide 开发软件用用
-现预算 4000 的样子，cpu 的话初步是想 i513 代或 i712 代，不需要独显
-另再加 1000 配个显示器
-恳请大佬们指点指点，支支招，谢谢！&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:06:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970702#reply0</guid></item><item><title>[问与答] 邮箱里收到了奇怪的“诈骗”邮件？</title><link>https://www.v2ex.com/t/970701#reply1</link><description>清理邮件时发现的, 发件人是 service@paypal.com&lt;br /&gt;收件人是跟我邮箱账号无关的邮箱&lt;br /&gt;很好奇为啥这种邮件会被邮箱收到? 是新型诈骗邮件么?</description><pubDate>Mon, 04 Sep 2023 03:02:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970701#reply1</guid></item><item><title>[服务器] 有啥可以展示网页以监控服务器硬盘 smart 信息的程序？</title><link>https://www.v2ex.com/t/970700#reply0</link><description>&lt;p&gt;比如动态展示一个温度曲线。&lt;/p&gt;
-&lt;p&gt;另外需要可以设置一些告警，比如温度超出范围的话。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 03:02:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970700#reply0</guid></item><item><title>[分享发现] 最近发现，在 YOUTUBE 浏览过的频道，会在 B 站给推荐</title><link>https://www.v2ex.com/t/970699#reply5</link><description>&lt;p&gt;一直感觉 B 站现在的推荐机制有问题。经常推荐的都不是我感兴趣的 UP 主。&lt;/p&gt;
-&lt;p&gt;YOUTUBE 的还好，经常推荐的一些新频道，让我感兴趣。&lt;/p&gt;
-&lt;p&gt;但每次在 YOUTUBE 浏览过的，再回去 B 站，就会发现也给我推同样的 UP 主了。&lt;/p&gt;
-&lt;p&gt;甚至是两部设备，我在平板看完 YOUTUBE ，然后过半天后在手机上的 B 站就发现有同样的推荐了。&lt;/p&gt;
-&lt;p&gt;都不知道 B 站是怎么做到的。但假如那位 UP 主只在 YOUTUBE 更新，没有在 B 站更新，就不会出现推荐。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:59:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970699#reply5</guid></item><item><title>[宽带症候群] 现在还有没有好用的 阿里 DDNS 插件？</title><link>https://www.v2ex.com/t/970698#reply5</link><description>可以运行在 Docker 、mac 、windows 上的都可以。。</description><pubDate>Mon, 04 Sep 2023 02:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970698#reply5</guid></item><item><title>[程序员] 求推荐好看的响应式平台网站模版？</title><link>https://www.v2ex.com/t/970697#reply1</link><description>&lt;p&gt;有哪些好看的响应式模版？不需要授权的那种？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:52:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970697#reply1</guid></item><item><title>[程序员] 百度云 cdn 免费版的 https 没了？</title><link>https://www.v2ex.com/t/970696#reply6</link><description>我前几天还正常用着，今天突然不行了报错 ERR_SSL_PROTOCOL_ERROR ，&lt;br /&gt;但相关新闻只有看到 5 个月前说百度云 cdn 不再免费，存量用户正常用，&lt;br /&gt;我 ssl 证书用的是 lets 的三个月手动更新一次，今天报错还以为是到期了，但登录一看直接没有证书管理了，&lt;br /&gt;关键联系不上客服，不知道是不是 bug 了，还是故意逼走免费用户，&lt;br /&gt; &lt;a href="https://i.imgur.com/DSMUAAa.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DSMUAAa.png" /&gt;&lt;/a&gt;&lt;br /&gt;还有免费的 https cdn 吗， 除了 cloudflare, 我这个只有我一个人用所以其他限制都无所谓，只要免费就好，&lt;br /&gt;实在是 http 有功能限制太坑了，</description><pubDate>Mon, 04 Sep 2023 02:45:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970696#reply6</guid></item><item><title>[问与答] 如何在 GitHub 寻找 electron 框架搭建的 APP/软件</title><link>https://www.v2ex.com/t/970695#reply1</link><description>&lt;p&gt;学些 electron 框架，想看其他软件实现&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:42:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970695#reply1</guid></item><item><title>[程序员] 刚毕业学前端好还是后端好？</title><link>https://www.v2ex.com/t/970694#reply18</link><description>&lt;p&gt;我是普通一本毕业的，学的是通信工程。考研没考上，找了个程序员的工作。找工作时候会的就是学校教的那些东西。上班第一天就去出差了，到了部队写了两个月 C++代码。刚开始没有网，没人教很难，后来慢慢上手了点。现在出差回来了，领导问我想做前端还是后端。想问一下大佬们前端好还是后端好？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970694#reply18</guid></item><item><title>[问与答] Surge 的代理链是对线路有什么要求吗？为什么有的线路不能作为跳板代理</title><link>https://www.v2ex.com/t/970692#reply0</link><description>&lt;p&gt;买了个 Windows 系统的 vps ，安装了 v2ray 服务端并开启了 GoogleOneVPN ，准备用这个 vps 作为落地机的，结果测了好几个机场的不同线路，只有少数几个线路能作为跳板代理连接成功，其他大部分线路都无法连接，有人知道这是为什么吗？跳板代理是对线路或者协议有什么要求吗？
-按理来说跳板代理的原理应该就是在数据包里套娃吧，为啥会有的线路可以连接有的又不行呢&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970692#reply0</guid></item><item><title>[问与答] Clash 安卓应用控制列表里没有 google play？</title><link>https://www.v2ex.com/t/970691#reply6</link><description>google play 一直转圈，打开 Clash 才发现控制使用代理的 app 代表里没有可添加的 Google play 选项，难搞哦。。&lt;br /&gt;&lt;a href="https://i.imgur.com/E9K9kan.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/E9K9kan.jpg" /&gt;&lt;/a&gt;</description><pubDate>Mon, 04 Sep 2023 02:41:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970691#reply6</guid></item><item><title>[问与答] 一个个人云 os 需要具备哪些功能？</title><link>https://www.v2ex.com/t/970690#reply1</link><description>&lt;p&gt;RT ，最近打算基于小主机，放一个网页版的文件管理器 + bt 下载器， &lt;/p&gt;
-&lt;p&gt;想了一下是不是搞到最后就成 nas 系统了？&lt;/p&gt;
-&lt;p&gt;如果（对存储侧重比例不同）搭建一个个人云 os 需要哪些功能？&lt;/p&gt;
-&lt;p&gt;比如我们往后考虑一下，终端不做运算存储，只做展示和输入，在小主机上跑程序和各种东西&lt;/p&gt;
-&lt;p&gt;GUI 目前运行在浏览器上，OS 运行在小主机上&lt;/p&gt;
-&lt;p&gt;有没有现成的解决方案？&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970690#reply1</guid></item><item><title>[macOS] 卸载 SetApp 后，其所包含的 app 图标还会一直存在！</title><link>https://www.v2ex.com/t/970689#reply2</link><description>&lt;p&gt;请教一个问题，setapp 订阅到期后卸载了 setapp ，但是它包含的应用的图标还是会存在。如何删除这些图标呢？如下图：
-&lt;img alt="图一" class="embedded_image" rel="noreferrer" src="https://z4a.net/image/V3TqLh" /&gt;
-&lt;img alt="图二" class="embedded_image" rel="noreferrer" src="https://z4a.net/image/V3Tpm5" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970689#reply2</guid></item><item><title>[RSS] 求 微信公众号 RSS</title><link>https://www.v2ex.com/t/970688#reply1</link><description></description><pubDate>Mon, 04 Sep 2023 02:32:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970688#reply1</guid></item><item><title>[游戏] 如何看待 B 社新游 starfield/星空</title><link>https://www.v2ex.com/t/970687#reply5</link><description>&lt;p&gt;1.个人游玩时长
-&lt;img alt="图片注释" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2023/09/04/64f541a42aa1b.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;2.理性评价&lt;/p&gt;
-&lt;p&gt;玩法：个人来讲枪械，飞船，空战，探索，建造对我来说这个游戏已经可以满足我了，再加上太空废土捡垃圾的故事背景，完全符合我的胃口；飞船自定义就花了好久；&lt;/p&gt;
-&lt;p&gt;剧情：主线没推，全搞支线，对话文本很长，然后还有决定性的对话选择，需要认真阅读，对于非剧情党可能不友好；&lt;/p&gt;
-&lt;p&gt;优化：3900x+3060ti+2k144 ，50 帧左右，有的地方甚至 30 左右，整体下来算是流畅能玩
-吐槽：关于播片传送，黑屏加载，感觉是 b 社技术限制，还听说是微软要求赶工。跃迁传送可以理解，但是开门，进屋黑屏加载，懂了，少女卷轴 5 也是这样，照搬是吧，这个东西在 10 年前可以理解，但是在今天，让大家感觉不适；星球太荒，野生地牢没了，真就等 mod 社区开发了；没有 dlss;&lt;/p&gt;
-&lt;p&gt;整体评价：本来还以为能和王国之泪拼一拼，现在看来悬了。个人建议等打折再入手，那时候 mod 也发展起来了，该优化的也优化了；&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:30:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970687#reply5</guid></item><item><title>[程序员] 各位程序猿或者 PM，请教下有没有开源的类似于公众号管理后台那样的系统？功能如下</title><link>https://www.v2ex.com/t/970686#reply1</link><description>- 写文章功能&lt;br /&gt;	- 写文字&lt;br /&gt;	- 插图片&lt;br /&gt;	- 插视频&lt;br /&gt;    - 插连接&lt;br /&gt;    - 最好能增加上传文件功能&lt;br /&gt;    （）&lt;br /&gt;    &lt;br /&gt;- 记录管理&lt;br /&gt;	- 对记录 CURD&lt;br /&gt;    &lt;br /&gt;包含前台和后台全套的（后台最好是 go 写的😄）&lt;br /&gt;&lt;br /&gt;找了两天没找到合适的😂</description><pubDate>Mon, 04 Sep 2023 02:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970686#reply1</guid></item><item><title>[程序员] Go 语言 KV 存储引擎 LotusDB 2.0 重磅发布！</title><link>https://www.v2ex.com/t/970685#reply1</link><description>&lt;p&gt;经过差不多两个月的重构，在社区小伙伴的共同协作努力下，LotusDB V2.0.0 版本正式发布！&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;LotusDB 项目地址： &lt;a href="https://github.com/lotusdblabs/lotusdb" rel="nofollow"&gt;https://github.com/lotusdblabs/lotusdb&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/JJjYArvYEk.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/JJjYArvYEk.png%21large" /&gt;&lt;/a&gt;
-LotusDB 是用 Go 语言编写的 KV 数据库，它采用 KV 分离的思想，融 LSM Tree 和 B+ Tree 存储模型为一体，适合大规模的 KV 数据存储，相较于 Go 语言领域知名的 KV 存储项目 badger 和 bbolt ，LotusDB 具有更先进的设计架构。&lt;/p&gt;
-&lt;p&gt;这次我们通过两个月的重构，将 LotusDB 原来 V1 版本的代码基本上重新实现了一遍，目的在于提高简洁度。&lt;/p&gt;
-&lt;p&gt;LotusDB 的整体架构实现了全新升级，目的在于提升读写和压缩性能，下面是之前 V1 版本的架构图：
-&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/682SRW0EAo.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/682SRW0EAo.png%21large" /&gt;&lt;/a&gt;
-这是重构后的 V2 版本的架构图：
-&lt;a href="https://cdn.learnku.com/uploads/images/202309/04/84509/Mk0A5J9FYl.png%21large" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202309/04/84509/Mk0A5J9FYl.png%21large" /&gt;&lt;/a&gt;
-相对于 V1 版本，V2 版本主要有以下更新：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;新版本的所有磁盘存储（包括预写日志 WAL 和 Value Log ）均直接采用 wal 组件（ &lt;a href="https://github.com/rosedblabs/wal" rel="nofollow"&gt;https://github.com/rosedblabs/wal&lt;/a&gt; ）实现，代码屏蔽了底层管理文件读写的操作，更加简洁易懂&lt;/li&gt;
-&lt;li&gt;新版本通过对 key 哈希分片的方式构建多个 Index 和 Value Log 对象，实现了 Index 和 Value Log 的并发读写，读写和压缩性能相对于 V1 提升了 2~3 倍，这也是本次重构架构上最大的更新&lt;/li&gt;
-&lt;li&gt;TODO：另一大重要更新是将会引入新的基于磁盘的 Hash 索引，这样 LotusDB 将会支持磁盘 BTree 和 Hash 两种类型的索引，满足更多样化的场景（预计在下一次 Release 发布）&lt;/li&gt;
-&lt;li&gt;新版本舍弃了 Column Family （ CF ） 的设计，目的在于使架构更加简洁，原来跨 CF 的操作并不能保证原子性，如果后续有需求的话将会重新设计这个 feature&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;毫不夸张的说，这是目前 Go 语言领域架构最先进的 KV 存储引擎项目，其优势主要体现在： &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;结合了 LSM 和 B+ 树存储模型的优点&lt;/strong&gt;，B+ 树读性能稳定，而 LSM 写吞吐高，LotusDB 在这基础上做了一个巨大的改动，就是采用 KV 分离的思想，完全舍弃掉 LSM 中的 SST 文件，改由 B+ 树来存储索引，而 value 存放则参考了 Wisckey 和 bitcask 模型的设计，以追加写的方式存储到单独的 value log 文件中，充分利用顺序 IO 的优势&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;更加均衡和快速的读/写性能&lt;/strong&gt;，写入 LotusDB 的数据不需要在磁盘上排序，追加写的 Value Log 设计在写入过程中减少了磁盘磁头的移动，因此即便是完全无序的数据，LotusDB 依然能够保持较高的吞吐量。同时 LotusDB 的读写性能更加均衡，而不会像 bbolt 那样读写性能差距极大，适合读写都非常频繁的业务场景&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;比典型的 LSM 低得多的读放大&lt;/strong&gt;，LotusDB 采用 KV 分离的思路，从 B+ 树中获取 Key 对应 Value 在磁盘中的存储地址后，即可直接一步读取 Value 数据，显著降低了传统 LSM 存储模型带来的读放大问题&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;更大规模的数据存储&lt;/strong&gt;，和 LotusDB 的姊妹项目 RoseDB 相比，LotusDB 是一个基于磁盘索引的 KV 存储引擎，而 RoseDB 是 Bitcask 存储模型全内存索引，因此数据存储规模基本不受到内存大小的影响，因此更加适合大规模的数据存储&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;支持崩溃恢复&lt;/strong&gt;，LotusDB 实现了 WAL 机制，在将 KV 数据刷盘前就将事务日志进行持久性存储，数据库崩溃后依然能够从 WAL 中读取事务日志，保证事务的原子性&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;数据并发式刷盘&lt;/strong&gt;  LotusDB 通过将 key 进行哈希分片的机制，建立多个 Index 和 Value Log 对象，每一组 Index &amp;amp; Value Log 对象对应一个数据片，当 memory table 中的数据需要刷盘时，多个对象可以通过并发的方式实现刷盘，大大提升了刷盘的吞吐量&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;以下是 LotusDB 的简单使用示例，大家可以上手体验！&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package main
-
-import "github.com/lotusdblabs/lotusdb/v2"
-
-func main() {
-    // 指定设置
-    options := lotusdb.DefaultOptions
-    options.DirPath = "/tmp/lotusdb_basic"
-
-    // 打开数据库
-    db, err := lotusdb.Open(options)
-    if err != nil {
-        panic(err)
-    }
-    defer func() {
-        _ = db.Close()
-    }()
-
-    // 写入键值对
-    key := []byte("KV store engine")
-    value := []byte("LotusDB")
-    putOptions := &amp;amp;lotusdb.WriteOptions{
-        Sync:       true,
-        DisableWal: false,
-    }
-    err = db.Put(key, value, putOptions)
-    if err != nil {
-        panic(err)
-    }
-
-    // 读取键值对
-    value, err = db.Get(key)
-    if err != nil {
-        panic(err)
-    }
-    println(string(value))
-
-    // 删除键值对
-    err = db.Delete(key, putOptions)
-    if err != nil {
-        panic(err)
-    }
-
-    // 启动 Value Log 压缩
-    err = db.Compact()
-    if err != nil {
-        panic(err)
-    }
+&lt;h1&gt;极简时钟 iOS &lt;a href="https://apps.apple.com/cn/app/id1265404088" rel="nofollow"&gt;App Store&lt;/a&gt;&lt;/h1&gt;
+&lt;h2&gt;TipKit&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/fb2a8c6e-d31e-45e7-8bfc-562f97d56df8.png?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
+&lt;p&gt;一直以来，因为极简时钟不是那么明显的操作手势（很多用户压根不看 App 描述里的使用说明），导致很多用户都不知道如何使用，甚至因为这个得到过很多差评。这周通过 iOS 17 新加入的 TipKit 给极简时钟加入了操作提示，但也遇到了一些问题。&lt;/p&gt;
+&lt;p&gt;首先，我搜了几个关于 TipKit 的教程（非官方），按照这些教程，TipKit 的配置是这样的：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-swift"&gt;try? await Tips.configure {
+	DisplayFrequency(.immediate)
+	DatastoreLocation(.applicationDefault)
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;致谢&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在 LotusDB 的重构过程中，非常感谢社区的各位小伙伴的参与和积极贡献，特别是 @燕小七 和 @&lt;a href="https://www.v2ex.com/member/akiozihao"&gt;akiozihao&lt;/a&gt; 表现最为积极活跃，为 LotusDB 2.0 的重构做了很多工作，再次表示感谢，也希望能够继续参与。&lt;/p&gt;
-&lt;p&gt;同时 @燕小七 同学成为了 LotusDB 的第一位 Committer ，后续我们希望能够培养更多的 Committer 和 Maintainer ，充分发挥社区的作用，共同打造和完善 LotusDB 这个最先进的 KV 存储引擎！&lt;/p&gt;
-&lt;p&gt;同时也非常欢迎大家能够参与进来，目前我们只是发布了第一个版本，后续将会持续迭代，能够让大家发挥的空间巨大，感兴趣的可以加我微信私聊，我会将你拉到开发者群当中。&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:27:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970685#reply1</guid></item><item><title>[NAS] [独立 app 推广] 同步照片到 NAS 的新选择</title><link>https://www.v2ex.com/t/970683#reply1</link><description>&lt;p&gt;这是一篇推广我个人带有付费功能 app 的主题.&lt;/p&gt;
-&lt;p&gt;几个月前我尝试了很多中不同的相册同步到 NAS 的方案,最终选择了一个仍然让我不是很满意的方案:&lt;br /&gt;
-Nextcloud 同步 + photoprism 浏览&lt;br /&gt;
-但是 Nextcloud 的移动端 app 实在是....处于一个仅仅是能用的程度吧&lt;br /&gt;
-还有一些强依赖服务端的方式,比如群晖的 photos,我不希望被这些服务端锁死,只能用他自己的方式来看我的照片,所以直接放弃这种方式&lt;/p&gt;
-&lt;p&gt;于是我自己用 flutter 写了一个相册同步的 app - &lt;strong&gt;pho&lt;/strong&gt;,是一个基于网络协议的相册同步工具,可以同步到&lt;strong&gt;smb,webdav,nfs&lt;/strong&gt;以及后续打算支持一些网盘.主打就是同步和浏览功能,自认为体验还是很不错的.可以直接使用这个 app 浏览已上传的照片,也可以配合其他服务端比如 photoprism 来使用.我现在已经把 pho 作为我默认的相册使用,平时手机上看照片同步照片都用这个 app.电脑上用 photoprism 查看和搜索照片.&lt;/p&gt;
-&lt;p&gt;现在考虑也许可以做一些高级功能拿来卖,于是现在在 ios 上架了一个带付费解锁高级功能的付费版:&lt;br /&gt;
-&lt;a href="https://apps.apple.com/cn/app/pho-%E5%90%8C%E6%AD%A5%E7%85%A7%E7%89%87%E5%88%B0nas-%E7%BD%91%E7%9B%98/id6451428709" rel="nofollow"&gt;app store&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;付费功能包含:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;并发同步&lt;/li&gt;
-&lt;li&gt;加密同步&lt;/li&gt;
-&lt;li&gt;多种上传目录结构自选&lt;/li&gt;
-&lt;li&gt;同步过滤器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;官网: pho.tools&lt;br /&gt;
-开源地址(付费功能部分未开源): &lt;a href="https://github.com/fregie/pho" rel="nofollow"&gt;https://github.com/fregie/pho&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 02:24:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970683#reply1</guid></item><item><title>[远程工作] 招聘远程全职 iGaming 平台前端开发工程师（5000 美金/月）</title><link>https://www.v2ex.com/t/970682#reply0</link><description>职位描述：&lt;br /&gt;&lt;br /&gt;1. 负责平台级在线游戏网站 iGaming 应用产品的架构设计和开发工作；&lt;br /&gt;2. 负责前端前沿技术、理念的跟进、预研和落地；&lt;br /&gt;3. 负责前端技术架构、规范、研发流程建设；&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;&lt;br /&gt;1. 熟练掌握 React, Next.js, TypeScript, Node.js, Rxjs 等方案和工具；&lt;br /&gt;2. 熟悉 SEO 优化策略，前端性能优化，前端安全策略等；&lt;br /&gt;3. 具备优秀的技术嗅觉、想象力、执行力和品格；&lt;br /&gt;4. 具备优秀的程序设计、架构和编码能力；&lt;br /&gt;5. 良好的产品意识，具备技术驱动能力。&lt;br /&gt;&lt;br /&gt;优先条件：&lt;br /&gt;&lt;br /&gt;1. 有在线小游戏，大型 iGaming 平台 Web 系统研发经验优先，例如：&lt;a href="http://stake.com" rel="nofollow noopener" target="_blank"&gt;stake.com&lt;/a&gt;, &lt;a href="http://rollbit.com" rel="nofollow noopener" target="_blank"&gt;rollbit.com&lt;/a&gt;;&lt;br /&gt;2. 拥有建站经验的优先，需要保证网站有极致的访问体验；&lt;br /&gt;3. 有 Canvas 、WebGL 图形可视化开发经验者优先;&lt;br /&gt;4. 人在海外，具备熟练的英文表达能力;(肉身在中国大陆地区的慎重考虑！)&lt;br /&gt;&lt;br /&gt;技术栈：&lt;br /&gt;&lt;br /&gt;UI/UX: MUI V5 开源组件库以及官方 Figma 设计稿，UI/UX 与前端集成了 design token system ，基本上组件和样式这块不用花费太多时间和精力.&lt;br /&gt;技术栈: Next.js + TypeScript + React-Query + WS + RxJS.(RxJS 有兴趣可以了解下，不强求)&lt;br /&gt;&lt;br /&gt;工作形式：&lt;br /&gt;&lt;br /&gt;全职，远程，薪资 5000 美金/月 以上；&lt;br /&gt;&lt;br /&gt;有意的可以加我 TG 联系，groot0xx ，请附带简历或作品;</description><pubDate>Mon, 04 Sep 2023 02:24:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970682#reply0</guid></item></channel></rss>
+&lt;p&gt;我当时的 Xcode 15 的版本是 beta 6 ，这段代码可以成功编译，但是一运行起来就会崩溃，也没搜到崩溃的原因和解决办法。于是我就尝试升级到 Xcode 15 到 beta 8 ，这段代码就无法编译了，查看了一下苹果的官方文档，原来这段配置代码的 API 改了，改成了这个样子：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-swift"&gt;// Configure and load your tips at app launch.
+try? Tips.configure([
+	.displayFrequency(.immediate),
+	.datastoreLocation(.applicationDefault)
+])
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我发现了三点变化：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不再需要 &lt;code&gt;await&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;配置的参数形式&lt;/li&gt;
+&lt;li&gt;还有一个代码里看不出来，就是 &lt;code&gt;DatastoreLocation&lt;/code&gt; 原来还有一个参数 &lt;code&gt;shouldReset&lt;/code&gt;，这个参数适合测试用，但是新版 API 里去掉了这个参数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;其次，我加入了两个 Tip 。一个在右上角，可以正常显示出来。一个在底部，用&lt;code&gt;popoverTip&lt;/code&gt;死活无法显示，只能是通过一个 &lt;code&gt;TipView&lt;/code&gt; 来临时解决了。&lt;/p&gt;
+&lt;h2&gt;名称侵权&lt;/h2&gt;
+&lt;p&gt;最近在 App Store 中发现一个叫“极简时钟”的新上架的 app ，主打的功能居然是“AI 问答助手”。这个 app 的开发者是杭州的一家公司，旗下还有几个其他领域的 app ，从壁纸大全到化妆品管理，从 AI 画图到摄像头探测。其中化妆品管理这个 app 是评分数量最多的，然而令人震惊的是近一年的评论居然全是一星，无一例外！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/3ae15a00-ea03-4fea-b940-4b8d57d5baff.png?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
+&lt;p&gt;于是就在 App Store 提交了商标侵权的投诉，顺带也把另外两个常年不更新的“极简时钟”也给一起投诉了。&lt;/p&gt;
+&lt;p&gt;下周打算针对“极简日记”再来一波投诉。&lt;/p&gt;
+&lt;h1&gt;播客&lt;/h1&gt;
+&lt;p&gt;周二早上醒来才发现之前录的播客发布了，比预期的时间早了一星期。&lt;/p&gt;
+&lt;p&gt;佩服硬地骇客主播的剪辑能力，不仅剪辑速度惊人，而且居然能把我一些口误都修正了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/998b7eb5-616c-4d77-a776-fc0233053a63.png?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 13:37:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970890#reply4</guid></item><item><title>[职场话题] 留在深圳搬砖,还是去福州民办高校当老师？</title><link>https://www.v2ex.com/t/970889#reply4</link><description>深圳工资 13k, 快 30 了，福州民办高中，没有编制，7k&lt;br /&gt;该如何选择</description><pubDate>Mon, 04 Sep 2023 13:30:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970889#reply4</guid></item><item><title>[问与答] 保存的某网页文件, windows 对其删除时会自动关联删除?</title><link>https://www.v2ex.com/t/970886#reply2</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/13/42007e5595c2951b73f475914b96e4e5/Clip_20230904_211333.png" /&gt;&lt;/p&gt;
+&lt;p&gt;如图一个文件一个文件夹, 任意删除其一,另一个都会自动删除.&lt;/p&gt;
+&lt;p&gt;不记得这些文件当时是被 ctrl+s 来保存下来的还是用网页上的某个控件来下载的.&lt;/p&gt;
+&lt;p&gt;这是 windows 的什么特性?&lt;/p&gt;</description><pubDate>Mon, 04 Sep 2023 13:16:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970886#reply2</guid></item><item><title>[问与答] 使用 5G CPE 替代 电信宽带可行吗？</title><link>https://www.v2ex.com/t/970885#reply5</link><description>目前用的电信家宽 199/月，买一张 5G 流量卡，每个月 39 块有 200G 左右，再用 5G CPE 进行发射 WIFI 信号，有这样操作的 v 友吗？&lt;br /&gt;&lt;br /&gt;取消 199 的家宽，每年立省小两千块</description><pubDate>Mon, 04 Sep 2023 13:09:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/970885#reply5</guid></item></channel></rss>
