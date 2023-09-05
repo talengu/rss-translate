@@ -1,114 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Sep 2023 13:28:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 自举与学外语</title><link>https://www.v2ex.com/t/971206#reply0</link><description>&lt;p&gt;一直以来有很多人强调用纯英文字典的重要性，这些天也在用英英字典查生词，突然就联想到编译器的自举，感觉有点相似性。&lt;/p&gt;
-&lt;p&gt;简单搜索了一下，原来早就有人先行一步发现了：&lt;a href="http://jujuba.me/posts/inspiration-of-bootstraping.html" rel="nofollow"&gt;自举的启发&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;节选：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;比如学英语的过程其实应该是自举的过程，可是有多少人学了十几年还没开始自举呢？学英语的自举过程就应该是，一开始我们使用中文去学英语，当学完了英语的一个核心子集的时候，我们就应该使用英语去解释英语，一个简单的做法就是使用英英字典。再比如说，出国在外和人交谈，当对方说了一个你不懂的词的时候，你不应该掏出手机，再请对方一个个字母地拼出这个词，然后在手机上查出这个词的中文意思，正确的做法应该就是请他用英语中的其他词来解释这个词。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Sep 2023 23:18:29 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[音乐] 炫音音乐论坛 musicool 点 cn 挂了吗？</title><link>https://www.v2ex.com/t/971255#reply0</link><description>逝者如斯夫啊，默哀。。。</description><pubDate>Tue, 05 Sep 2023 23:01:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971255#reply0</guid></item><item><title>[分享发现] 才发现家里的 spectrum 宽带似乎居然是固定 ip，而且是 80 22 端口都是开的</title><link>https://www.v2ex.com/t/971254#reply0</link><description>&lt;p&gt;试了下用路由器的端口映射把家里一台台式机的 80 端口映射到外网，结果发现外网能直接访问 nginx 默认页面了。然后试了下 22 端口，也能 SSH 。&lt;/p&gt;
+&lt;p&gt;尝试重启光猫+路由器几次，发现 IP 并没有变。&lt;/p&gt;
+&lt;p&gt;(坐标洛杉矶&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 20:56:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971254#reply0</guid></item><item><title>[分享发现] Android 14 即使 root 设备也将无法修改系统证书。</title><link>https://www.v2ex.com/t/971253#reply2</link><description>&lt;p&gt;Android 操作系统正日益封闭，最新的 Android 14 将进一步限制对系统证书的修改。Google 是从 2016 年发布的 Android 7 （ Nougat ）起将设备上信任 CA 列表的权力从用户转移到设备供应商和第三方应用开发者。以前 Android 系统允许用户创建自己的 CA 并信任它，拦截设备上的 HTTPS 流量，查看设备上正在发送和接收的内容，可以进行修改或阻止。即将在未来几个月释出的 Android 14 将 CA 证书的管理转移到了一个独立更新的组件，由 Google Play 提供更新。一方面它对普通用户的安全是好事，但另一方面它进一步限制了开发者，即使 root 设备也将无法修改系统证书。
+&lt;a href="https://www.solidot.org/story?sid=75997" rel="nofollow"&gt;https://www.solidot.org/story?sid=75997&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 19:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971253#reply2</guid></item><item><title>[程序员] 关于 React 和 Next.js 的一些问题</title><link>https://www.v2ex.com/t/971252#reply1</link><description>&lt;p&gt;我想仿一下&lt;a href="https://www.vgtime.com/" rel="nofollow"&gt;VGtime&lt;/a&gt;这个新闻网站，练练手（不想做 xxx 管理系统）。&lt;/p&gt;
+&lt;p&gt;我本身是后端开发，稍微会点前端。&lt;/p&gt;
+&lt;p&gt;后端想使用 Java+Spring Boot+RESTful API ，前端想使用 React+TypeScript+Next.js&lt;/p&gt;
+&lt;p&gt;但是目前在学习 Next.js 的时候遇到了点问题：&lt;/p&gt;
+&lt;p&gt;一是最新的 Next.js 推荐使用 App Router ，比较新，缺乏文档和视频，不知道如何上手比较好。&lt;/p&gt;
+&lt;p&gt;二是我目前还没有找到优质的参考项目或最佳实践。&lt;/p&gt;
+&lt;p&gt;三是我在 Github 找到的的 Next.js 项目大多不涉及后端交互，缺少与后端集成的实例。&lt;/p&gt;
+&lt;p&gt;希望大家能推荐一些适合的参考项目给我。&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 19:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971252#reply1</guid></item><item><title>[分享创造] 分享一个基于 webAR 做的滤镜效果</title><link>https://www.v2ex.com/t/971249#reply0</link><description>&lt;h1&gt;项目地址&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/ns2250225/webar_filter" rel="nofollow"&gt;https://github.com/ns2250225/webar_filter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;效果&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://github.com/ns2250225/webar_filter/blob/main/demo.gif?raw=true" /&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 17:21:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971249#reply0</guid></item><item><title>[奇思妙想] 看了 HN 一个 FCC 的人发的帖子，感觉他们和社区互动的还不算少嘛</title><link>https://www.v2ex.com/t/971247#reply0</link><description>&lt;a href="https://news.ycombinator.com/item?id=37392676" rel="nofollow noopener" target="_blank"&gt;https://news.ycombinator.com/item?id=37392676&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;大家怎么想？</description><pubDate>Tue, 05 Sep 2023 17:15:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971247#reply0</guid></item><item><title>[宽带症候群] 湖南电信 IP 似乎固定了</title><link>https://www.v2ex.com/t/971246#reply0</link><description>&lt;p&gt;近一个月 ip 没有变化了，重新拨号也不会换 ip&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 17:03:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971246#reply0</guid></item><item><title>[分享创造] 分享几个儿童音频故事 APP</title><link>https://www.v2ex.com/t/971245#reply0</link><description>&lt;p&gt;有了孩子后，每天快速哄睡是个大难题，懂得都懂。
+刚开始给孩子讲故事、背古诗，后来发现自己比孩子睡得还快，讲着讲着故事还容易串台。
+原本想用喜马拉雅这种现成的 app ，后来发现里面东西太多，太杂，索性自己找一些音频文件开发一些 app 。&lt;/p&gt;
+&lt;p&gt;算是 android 初学者，简单写了写，样式很简单，就是列表，点击就播放，正在播放的文件名标红，再点击就关闭，播放完一个后自动播放下一个。
+没有其他任何功能，也没有做播放声音时和其他应用冲突的处理，没有暂停等等功能。&lt;/p&gt;
+&lt;p&gt;现在每晚孩子都指定要听哪个故事，听一会就睡着了。&lt;/p&gt;
+&lt;p&gt;孩子的记忆力太强，连西游记里故事序号和标题的对应关系都能记住，我都没记住，不得不说岁数大了，完全比不过了。&lt;/p&gt;
+&lt;p&gt;不知道怎么贴图，大概页面如下：&lt;/p&gt;
+&lt;p&gt;古诗词&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;001 咏雪&lt;/li&gt;
+&lt;li&gt;002 咏鹅&lt;/li&gt;
+&lt;li&gt;003 江南&lt;/li&gt;
+&lt;li&gt;....&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;后续有计划合并成一个 app ，增加暂停、定时关闭等功能，不过由于拖延症比较严重，可能得猴年马月。&lt;/p&gt;
+&lt;p&gt;如有侵权，请联系 lvlvbuaa#&lt;a href="http://163.com" rel="nofollow"&gt;163.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;地址 链接: &lt;a href="https://pan.baidu.com/s/1y0ab2Bdxw6-H-9uNvXZBFA?pwd=2t3y" rel="nofollow"&gt;https://pan.baidu.com/s/1y0ab2Bdxw6-H-9uNvXZBFA?pwd=2t3y&lt;/a&gt; 提取码: 2t3y 复制这段内容后打开百度网盘手机 App ，操作更方便哦&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:51:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971245#reply0</guid></item><item><title>[深圳] 深圳哪裡有純粹一點的清吧</title><link>https://www.v2ex.com/t/971244#reply0</link><description>類似日本的居酒屋，美劇的小鎮酒吧，不約炮，不要 gay 吧，不要 hi 吧，就是想一個人訴苦發洩一下，釋放一些成年人的苦悶負面情緒。這種酒吧哪裡有</description><pubDate>Tue, 05 Sep 2023 16:43:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971244#reply0</guid></item><item><title>[GitHub] Github 挂了？</title><link>https://www.v2ex.com/t/971243#reply5</link><description>&lt;p&gt;Ooops!!! 500&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971243#reply5</guid></item><item><title>[问与答] Windows 发出去的包 IP 层为什么都设置了禁止分片</title><link>https://www.v2ex.com/t/971242#reply2</link><description>&lt;a href="https://x.imgs.ovh/x/2023/09/06/64f7551c5315b.png" rel="nofollow noopener" target="_blank"&gt;https://x.imgs.ovh/x/2023/09/06/64f7551c5315b.png&lt;/a&gt;&lt;br /&gt;这是一次访问百度的请求，以太帧长是 3409 ，为什么 IP 层会设置禁止分片标志呢，网卡的 MTU 是 1500 ，超过 MTU 又设置了禁止分片，应该会被丢弃，但实际还是能访问百度&lt;br /&gt;&lt;br /&gt;&lt;a href="https://x.imgs.ovh/x/2023/09/06/64f75795325bb.png" rel="nofollow noopener" target="_blank"&gt;https://x.imgs.ovh/x/2023/09/06/64f75795325bb.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ping  -f -l 1500 却不能 ping 通百度</description><pubDate>Tue, 05 Sep 2023 16:31:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971242#reply2</guid></item><item><title>[问与答] 有什么好用的 AI 应用、AI 工具推荐吗？</title><link>https://www.v2ex.com/t/971241#reply4</link><description>&lt;p&gt;AI 已经火了有段时间了，现在应该也衍生出很多不错的应用或者工具了，大家有什么好用的产品推荐吗？&lt;/p&gt;
+&lt;p&gt;我平时就 Github Copilot + 网页版 chatGPT&lt;/p&gt;
+&lt;p&gt;发现个 chatGPT 的客户端，结合了很多 prompt 在里面按/就能唤出，但我好像也不需要那么多场景一直也没使。。&lt;/p&gt;
+&lt;p&gt;再就是 Chrome 插件的 AI 助手，在用 Sider ，还有个 Monica 好像也不错，大家还有什么好用的推荐的吗？&lt;/p&gt;
+&lt;p&gt;翻译插件的话，发现有个叫 Trancy 的不错，现在还是在用沉浸式翻译，填了 openAI 的 key ，但是没绑卡，由于频率限制导致总是失败，也不常用&lt;/p&gt;
+&lt;p&gt;IDE 的 AI 相关的插件我目前也只装了 Copilot ，还有没有别的推荐？&lt;/p&gt;
+&lt;p&gt;之前很火那个 Cursor 好像现在也没声音了？有人在用吗，能否分享一下使用体验&lt;/p&gt;
+&lt;p&gt;Poe 的使用场景是啥？就集成了几个模型的 API ，不如直接去模型官网用了啊&lt;/p&gt;
+&lt;p&gt;New Bing 貌似现在不太好用了？我不喜欢用 Edge 所以一直也没使&lt;/p&gt;
+&lt;p&gt;听说 Bard 效果非常不错，Claude 也还行，写代码用，和 3.5 比怎么样？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:08:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971241#reply4</guid></item><item><title>[程序员] 回老家做生意 还是在上海继续做程序员</title><link>https://www.v2ex.com/t/971240#reply0</link><description>&lt;p&gt;民办三本，刚毕业 2 年整，技术一般。在上海干 java 和对象在上海，她是测试，两人加起来薪资也才 23k 左右，两年一起攒了 20 多万下来，靠父母支持还买了辆车。我们是苏北的，双方家长都希望定居在上海，三年后买房的话能支持个 100-200w 首付。但感觉自己在上海没资源，技术能力也不上大厂那些，只能在中小厂混混，落户也没什么希望(虽然考了中级职称啥的)很难熬，也不想把几百万投到房地产里。家里在县里三个中型超市，房子也有，想跟着父母学着做生意，压力也小点。父母的意见是做生意很累，比上班要累的多，门槛低，干不来，不好干等等，说程序门槛高，创业竞争小，回去的话四年白上学了，想让我留在上海继续深耕。我心想父辈做生意积累那么多的资源不回去继承有点浪费和可惜，也希望有人带着能做生意。想想像我学历不行，能力也不是特别强的人在技术上更没什么门槛，java 饱和成这样，网上一搜一堆教程，有什么门槛？做生意还能向父母学习学习，有人带着，一些坑和门道都会告诉你，我感觉这种才是门槛，但父母貌似不是这样想。现在在上海压力也不是很大，毕竟没有房贷啥的，当然工资也不高，没什么生活质量。就是也快结婚了，想到后面买房和各种开销啥的就很烦了，故现在很纠结，大家觉得呢？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:07:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971240#reply0</guid></item><item><title>[程序员] Reqable 1.3 版本更新，可以看流量所属应用了</title><link>https://www.v2ex.com/t/971239#reply0</link><description>&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://github.com/reqable/reqable-app/assets/15059084/034b19ff-917d-454b-b33e-b11e77eb55c8" /&gt;&lt;/p&gt;
+&lt;p&gt;最新版官网下载： &lt;a href="https://reqable.com/" rel="nofollow"&gt;https://reqable.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外，今天（ 9 月 6 号）我在上海的 Google 开发者大会，如果有在的可以一起面基交流哈！&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:07:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971239#reply0</guid></item><item><title>[问与答] 有玩 hugo 的没..?有微信群么?</title><link>https://www.v2ex.com/t/971238#reply0</link><description></description><pubDate>Tue, 05 Sep 2023 16:05:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971238#reply0</guid></item><item><title>[问与答] 疑问：软件设计师中级教程和视频教程不一致的问题</title><link>https://www.v2ex.com/t/971237#reply0</link><description>&lt;p&gt;1 、买的书《软件设计师教程中级第五版》&lt;/p&gt;
+&lt;p&gt;2 、网上找的视频《软件设计师_2021 希赛王勇》&lt;/p&gt;
+&lt;p&gt;发现一个问题就是：书和视频的内容不是一一对应，有点不知道怎么看了&lt;/p&gt;
+&lt;p&gt;有考过的老哥吗，给点意见&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:49:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971237#reply0</guid></item><item><title>[NAS] [求教]单盘位 NAS 推荐？</title><link>https://www.v2ex.com/t/971236#reply1</link><description>&lt;p&gt;想入手个单盘位 NAS ，用作家庭照片视频冷备份。&lt;/p&gt;
+&lt;p&gt;需求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;计划是定时自动开机，通过内网同步自家小服务器的重要文件。任务完成后自动关机。&lt;/li&gt;
+&lt;li&gt;期望是小巧，能内置 1 个笔记本硬盘（ 2.5 寸硬盘）。&lt;/li&gt;
+&lt;li&gt;有线千兆。&lt;/li&gt;
+&lt;li&gt;CPU 架构、性能，都没要求。只是同步文件，这个应该要求不高。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;找了一些相关方案：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 我家云&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RK3328 （ 4 核 A53 ），内存 1G ，USB3.0 接口，单个千兆网口，采用 USB3.0 转 SATA 的方式内置 3.5 寸 4TB 硬盘。&lt;/li&gt;
+&lt;li&gt;又称“掉盘云”。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2 比特米盒&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;晶晨 S905X （ 4 核 A53 ），内存 1G ，WIFI ，USB3.0 ，百兆网卡，有两个 2.5 寸的硬盘位，支持 4K 输出。&lt;/li&gt;
+&lt;li&gt;可刷 Armbian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3 玩客云&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;晶晨 S805 ，内存 1G ，闪存 8G ，两个 USB2.0 ，1 个千兆网卡。没有硬盘位。&lt;/li&gt;
+&lt;li&gt;可刷 Armbian&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 05 Sep 2023 15:42:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971236#reply1</guid></item><item><title>[视频技术] 有什么软件能批量把视频横屏转竖屏吗？</title><link>https://www.v2ex.com/t/971235#reply3</link><description>&lt;p&gt;有什么软件能批量把视频横屏转竖屏吗？
+横屏 16:9 转成 9:16 的，转了后能接受上下黑框，主要是要批量转很多。&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:32:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971235#reply3</guid></item><item><title>[上海] 看了一下短信, 拿到了 2023 google 开发者大会 上海 9/7 号的票</title><link>https://www.v2ex.com/t/971234#reply2</link><description>&lt;p&gt;好奇,工作久了大家还会像刚毕业的时候兴致勃勃的去参加这种技术大会么? 我记得刚毕业在深圳, 参加了 freecodecamp 的技术论坛哈哈, 还认识了一些小伙伴.&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:30:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971234#reply2</guid></item><item><title>[程序员] 使用 AND 和 OR 运算符实现的加密程序该如何解密？</title><link>https://www.v2ex.com/t/971232#reply8</link><description>&lt;p&gt;AND 和 OR 运算是不是没有逆运算呀？那下面这种程序要如何写一个 decode 算法呢？是不是解密有另外的一个码表？有没有吊大的可以给一下解题思路？&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;const codeTable = 'a=9-vBc3C0iDWJE4gFumGYsHoyIe7KxVLkXM6ZNqbOtdPwfQzh12jR5lS8nT_pUAr'
 
-换个角度思考，C 语言代表了舒适区，而 X 语言代表着新的领域，自举的过程也许更痛苦一些，但是也会让人成长得更快。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;从这一点讲，国内的英语教学思维就是错的，典型的就是英语教材，比比皆是的英语单词中文释义看似很简洁，减少记忆量，但是很显然是用翻译的思维去学英语，由此带来的后果大家也都见到了&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 13:11:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971206#reply0</guid></item><item><title>[程序员] 为啥 github 不被墙了</title><link>https://www.v2ex.com/t/971205#reply4</link><description>&lt;p&gt;很神奇，有时网络很慢，很多时候秒上。&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 13:11:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971205#reply4</guid></item><item><title>[Apple] 有没有小伙伴遇到过通用控制可以但通用剪贴板用不了的情况？</title><link>https://www.v2ex.com/t/971204#reply1</link><description>我感觉是遇到了个大 bug 了，macbook pro + ipad pro 2018 ，通用控制，也就是鼠标光标可以无缝滑到 ipad 上再滑回 mac 等等操作都没有问题，甚至拖拽文字和照片也没问题，但唯独剪贴板，在一个设备上复制后，鼠标滑到另一个设备，就没能把剪贴板内容带过来。两台设备都开了 handoff ，然后也重启过，但是还是不行，很奇怪。想问大佬们有什么办法吗，以及这种问题去天才吧可以帮忙免费修吗？</description><pubDate>Tue, 05 Sep 2023 13:11:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971204#reply1</guid></item><item><title>[问与答] realpython.com 请问这个网站有人知道用的什么主题吗？</title><link>https://www.v2ex.com/t/971203#reply2</link><description>&lt;p&gt;如题，或者 wordpress/ghost 有没有类似的&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:57:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971203#reply2</guid></item><item><title>[程序员] 跟风闲置几个域名摆摊、看一眼不要钱、明码标价。</title><link>https://www.v2ex.com/t/971202#reply0</link><description>&lt;a href="http://losercloud.com" rel="nofollow noopener" target="_blank"&gt;losercloud.com&lt;/a&gt; 2025 过期 屌丝云盘 399 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://poorguy.org" rel="nofollow noopener" target="_blank"&gt;poorguy.org&lt;/a&gt; 2033 过期 穷鬼 388 元&lt;br /&gt;&lt;br /&gt;new.kim 2024 过期 388 元 &lt;br /&gt;&lt;br /&gt;&lt;a href="http://wocaonimabi.com" rel="nofollow noopener" target="_blank"&gt;wocaonimabi.com&lt;/a&gt; 2027 过期 388 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://saobiwang.com" rel="nofollow noopener" target="_blank"&gt;saobiwang.com&lt;/a&gt; 2024 过期 168 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://sex.td" rel="nofollow noopener" target="_blank"&gt;sex.td&lt;/a&gt; 2024 过期 588 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://lv.icu" rel="nofollow noopener" target="_blank"&gt;lv.icu&lt;/a&gt; 2024 过期 288 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://vo.icu" rel="nofollow noopener" target="_blank"&gt;vo.icu&lt;/a&gt; 2024 过期 288 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://s.gx.cn" rel="nofollow noopener" target="_blank"&gt;s.gx.cn&lt;/a&gt; 2025 过期 168 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://leng.fan" rel="nofollow noopener" target="_blank"&gt;leng.fan&lt;/a&gt; 2024 过期 冷饭 188 元&lt;br /&gt;&lt;br /&gt;&lt;a href="http://caidaq.icu" rel="nofollow noopener" target="_blank"&gt;caidaq.icu&lt;/a&gt; 2024 过期 财大气粗 288 元&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;续费几乎都是几十块&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;马化腾 1725624383</description><pubDate>Tue, 05 Sep 2023 12:50:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971202#reply0</guid></item><item><title>[程序员] 出顶级 hack 域名： ht.ml 程序猿看过来</title><link>https://www.v2ex.com/t/971201#reply0</link><description>html 的含义不多说了，&lt;a href="http://ht.ml" rel="nofollow noopener" target="_blank"&gt;ht.ml&lt;/a&gt; 是百分百契合的 hack 域名&lt;br /&gt;欢迎报价及咨询&lt;br /&gt;V: seefeifei</description><pubDate>Tue, 05 Sep 2023 12:46:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971201#reply0</guid></item><item><title>[游戏] 博德之门细节在哪，我玩的不是一个游戏吗</title><link>https://www.v2ex.com/t/971200#reply0</link><description>&lt;p&gt;有些啥细节是比较惊艳但是又不容易触发的？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:45:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971200#reply0</guid></item><item><title>[宽带症候群] 杭州联通端口全被屏蔽</title><link>https://www.v2ex.com/t/971199#reply0</link><description>&lt;blockquote&gt;
-&lt;p&gt;就剩&lt;code&gt;25&lt;/code&gt;跟&lt;code&gt;110&lt;/code&gt;端口 是开放的 ,其他从 1 到 65535 全都是封锁的&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我网上抄了个 golang 程序测试的&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package main
-
-import (
-	"flag"
-	"fmt"
-	"net"
-	"runtime"
-	"time"
-)
-
-// CheckIsOpen 检查端口是否打卡
-func CheckIsOpen(domain string, timeout time.Duration, portChan chan int, exitChan chan bool, openPort []int, rescan chan int) {
-	for {
-		port, ok := &amp;lt;-portChan
-		if !ok {
-			break
-		}
-		socket := fmt.Sprintf("%v:%v", domain, port)
-		_, err := net.DialTimeout("tcp", socket, timeout) //发起握手操作  有回应 说明打开了端口 并且做了延时 超过一定时间 直接说明未打开
-
-		defer func() {
-			recover()
-		}()
-
-		if err == nil {
-			rescan &amp;lt;- port
-			fmt.Println(socket, " 打开")
-			openPort = append(openPort, port)
-		} else {
-			//fmt.Println(socket, " 关闭")
-		}
-	}
-	exitChan &amp;lt;- true
+const encode = json =&amp;gt; {
+    let result = ''
+    for (let i = 0; i &amp;lt; json.length;) {
+        const a = json.charCodeAt(i++)
+        const b = json.charCodeAt(i++)
+        const c = json.charCodeAt(i++)
+        const d = a &amp;gt;&amp;gt; 2
+        const e = ((3 &amp;amp; a) &amp;lt;&amp;lt; 4) | (b &amp;gt;&amp;gt; 4)
+        let f = ((b &amp;amp; 15) &amp;lt;&amp;lt; 2) | (c &amp;gt;&amp;gt; 6)
+        let g = c &amp;amp; 63
+        isNaN(b) ? f = g = 64 : isNaN(c) &amp;amp;&amp;amp; (g = 64)
+        result = result + codeTable[d] + codeTable[e] + codeTable[f] + codeTable[g]
+    }
+    return result
 }
-func main() {
-	cores := runtime.NumCPU()
-	runtime.GOMAXPROCS(cores - 1)
-	domainP := flag.String("domain", "", "请输入指定的 IP 地址")
-	flag.Parse()
-	domain := *domainP
 
-	if domain == "" {
-		fmt.Println("请输入 IP 地址")
-		return
-	}
-	openPort := make([]int, 10)
-	exitChan := make(chan bool)
-	portChan := make(chan int)
-	resChan := make(chan int, 100)
-	go func() {
-		for i := 0; i &amp;lt; 65535; i++ {
-			portChan &amp;lt;- i
-		}
-		close(portChan) //及时关闭管道 使用 for 循环取出时才不会等待
-	}()
-	timeout := time.Millisecond * 200
-	for i := 0; i &amp;lt; 18; i++ {
-		go CheckIsOpen(domain, timeout, portChan, exitChan, openPort, resChan)
-	}
-	for i := 0; i &amp;lt; 18; i++ {
-		&amp;lt;-exitChan
-	}
-	close(exitChan)
-	close(resChan)
-	fmt.Println("开启的端口号:")
-	for {
-		port, res := &amp;lt;-resChan
-		if !res {
-			break
-		}
-		fmt.Println(port)
-	}
+const decode = cipher =&amp;gt; {
+
 }
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 05 Sep 2023 12:44:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971199#reply0</guid></item><item><title>[推广] 出两张新加坡 singtel hi card</title><link>https://www.v2ex.com/t/971198#reply0</link><description>&lt;p&gt;需在 app 使用护照实名&lt;/p&gt;
-&lt;p&gt;开卡带 10sgd 余额，在 hi app 输入邀请码 ZWVKWDIT 可多拿 3sgd 余额&lt;/p&gt;
-&lt;p&gt;此卡在漫游状态下接收短信免费，漫游通话 3 新币每分钟，发短信 1.5 新币每条，都很贵，真的要和新加坡客户沟通建议用这个号码注册无忧行和 whatsapp 搭配使用&lt;/p&gt;
-&lt;p&gt;开卡激活有效期是 90 日，扣费 1.4sgd 可将号码延期三个月，综上开卡拿 13sgd 余额能保号两年半，之后每年充值 5.6sgd 进行保号&lt;/p&gt;
-&lt;p&gt;价格：150&lt;/p&gt;
-&lt;p&gt;联系方式：联系方式：aHR0cHM6Ly90Lm1lL2h1emkyMjIx&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:39:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971198#reply0</guid></item><item><title>[Netflix] Netflix 招 4 个人</title><link>https://www.v2ex.com/t/971197#reply2</link><description>&lt;h1&gt;土耳其老车（ 2023 年 3 月 28 日订购至今）&lt;/h1&gt;
-&lt;p&gt;香港节点不可用，其余不限制，建议新加坡&lt;/p&gt;
-&lt;h2&gt;车位价格（ 3 个月起售）&lt;/h2&gt;
-&lt;p&gt;3 个月，共 45rmb&lt;/p&gt;
-&lt;h2&gt;联系方式&lt;/h2&gt;
-&lt;p&gt;Telegram：yuayua816&lt;/p&gt;
-&lt;h2&gt;支付方式&lt;/h2&gt;
-&lt;p&gt;ZFB 口令红包&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:35:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971197#reply2</guid></item><item><title>[问与答] 想办个信用卡，有什么好推荐那家银行的卡好用？</title><link>https://www.v2ex.com/t/971196#reply8</link><description>现在偶尔要用它来境外支付，想办个信用卡，有什么好推荐那家银行的卡好用？&lt;br /&gt;请大家推荐一张，谢谢！</description><pubDate>Tue, 05 Sep 2023 12:34:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971196#reply8</guid></item><item><title>[VPS] 出搬瓦工 The Plan V2</title><link>https://www.v2ex.com/t/971195#reply0</link><description>600 出搬瓦工 The Plan V2 110 刀/年冲动购入，2024 年 6 月 27 到期。修改邮箱。&lt;br /&gt;收就送 Racknerd New Year 2022 小鸡（邀请管理），2024 年 1 月到期，续费 19.78 刀/两年，线路 Los Angeles DC02 ，解锁美区奈飞非自制。&lt;br /&gt;小鸡可 push ，费用自理。联系 TG：QGt1d2luZXQ=&lt;br /&gt;主机详情&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/diBAymTj.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 diBAymTj.png"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/diBAymTj.png" /&gt;&lt;/a&gt;&lt;br /&gt;可用机房&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/8620INn5.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 8620INn5.png"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/8620INn5.png" /&gt;&lt;/a&gt;&lt;br /&gt;小鸡详情&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/Y7IWS9Xe.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 Y7IWS9Xe.png"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/Y7IWS9Xe.png" /&gt;&lt;/a&gt;</description><pubDate>Tue, 05 Sep 2023 12:30:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971195#reply0</guid></item><item><title>[程序员] 有没有多平台通用的日程记录软件？</title><link>https://www.v2ex.com/t/971194#reply6</link><description>&lt;p&gt;最近事情越来越多，多到感觉要找个秘书了。。。尤其是开会记录啥的，对方发一个邮件就完事了，我最近已经忘了一次会了。。&lt;/p&gt;
-&lt;p&gt;有没有软件能记录未来若干天，几点需要干什么事，然后还有待办事项啥的，最好能够多平台通用，安卓+windows&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:25:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971194#reply6</guid></item><item><title>[分享发现] 分享一个免费，点开即用的 chatgpt。</title><link>https://www.v2ex.com/t/971192#reply6</link><description>&lt;p&gt;用爱发电，给不想搭建的小伙伴使用。https://ai.aiyou.cloud&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 12:03:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971192#reply6</guid></item><item><title>[问与答] 有没有哪家网盘支持在线播放视频的时候显示进度条的缩略小图？或者有什么别的方法可以实现？前提是不下载视频到本地</title><link>https://www.v2ex.com/t/971190#reply0</link><description>&lt;p&gt;归根结底还是自己的网速不够极致的快吧，平时本地看视频喜欢跳习惯了，但在线看跳转某个进度总要卡一会，想着参考缩略图内容可以让我有的放矢的跳转到某个时间点，但是我看了下市面上主流的网盘都不支持。&lt;/p&gt;
-&lt;p&gt;是因为他们大多用的是 m3u8 吗？ m3u8 本身就不支持缩略图？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 11:54:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971190#reply0</guid></item><item><title>[程序员] 目前做这种 还有市场吗？</title><link>https://www.v2ex.com/t/971189#reply5</link><description>&lt;p&gt;中文 stackoverflow &lt;a href="https://go.coder-hub.com" rel="nofollow"&gt;开发者交流平台&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 11:52:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971189#reply5</guid></item><item><title>[Python] 实时直播+视频融合（马斯克猴子视频+游戏）怎么做这个例子</title><link>https://www.v2ex.com/t/971188#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.niupic.com/images/2023/09/05/bDz7.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;就是这种效果，有案例吗，想做一个这种直播工具，&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 11:45:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971188#reply3</guid></item><item><title>[问与答] 21： 9 显示器设置 16:9 分辨率被拉伸</title><link>https://www.v2ex.com/t/971187#reply0</link><description>我有一台 21：9 分辨率 3440*1440 显示器，淘宝杂牌。我设置为 1920*1080 分辨率的时候，画面被拉伸。怎么设置为不拉伸两别有黑边这种模式。电脑是 amd7840h 核显，win11 系统。&lt;br /&gt;&lt;br /&gt;公司的显示器是戴尔 16：10 2k 屏幕，公司笔记本上设置 16：9 分辨率就不会拉伸，俩边会有黑边，公司笔记本系统是 win10 显卡是 nvdia 卡。&lt;br /&gt;&lt;br /&gt;这个问题是与显卡有关？系统有关？显示器本身？</description><pubDate>Tue, 05 Sep 2023 11:44:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971187#reply0</guid></item><item><title>[Surge] Surge-Mac-五人车来四位</title><link>https://www.v2ex.com/t/971186#reply0</link><description>之前开过 ios 版本的车满了&lt;br /&gt;又入手了一个 Mac 版本来四位 &lt;br /&gt;150 一位 Tg：echommm</description><pubDate>Tue, 05 Sep 2023 11:21:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971186#reply0</guid></item><item><title>[程序员] 个人使用，文档管理系统选哪个？</title><link>https://www.v2ex.com/t/971185#reply7</link><description>&lt;p&gt;主要用来管理 API 文档和开发文档。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://docsify.js.org/#/" rel="nofollow"&gt;docsify&lt;/a&gt; + Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://v2.vuepress.vuejs.org/" rel="nofollow"&gt;vuepress&lt;/a&gt; + Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.readthedocs.io/en/stable/" rel="nofollow"&gt;readthedocs&lt;/a&gt; + reStructuredText/Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.sphinx-doc.org/en/master/" rel="nofollow"&gt;Sphinx&lt;/a&gt; + reStructuredText/Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.dokuwiki.org/dokuwiki" rel="nofollow"&gt;DokuWiki&lt;/a&gt; + Text Files&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://js.wiki/" rel="nofollow"&gt;wiki.js&lt;/a&gt; + Database &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.bookstackapp.com/" rel="nofollow"&gt;BookStack&lt;/a&gt; + Database &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.atlassian.com/software/confluence" rel="nofollow"&gt;Atlassian Confluence&lt;/a&gt; + Database, 购买 server licenses 自建&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 05 Sep 2023 11:19:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971185#reply7</guid></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 05 Sep 2023 15:26:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971232#reply8</guid></item></channel></rss>
