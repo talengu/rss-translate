@@ -1,102 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Sep 2023 23:18:29 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[音乐] 炫音音乐论坛 musicool 点 cn 挂了吗？</title><link>https://www.v2ex.com/t/971255#reply0</link><description>逝者如斯夫啊，默哀。。。</description><pubDate>Tue, 05 Sep 2023 23:01:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971255#reply0</guid></item><item><title>[分享发现] 才发现家里的 spectrum 宽带似乎居然是固定 ip，而且是 80 22 端口都是开的</title><link>https://www.v2ex.com/t/971254#reply0</link><description>&lt;p&gt;试了下用路由器的端口映射把家里一台台式机的 80 端口映射到外网，结果发现外网能直接访问 nginx 默认页面了。然后试了下 22 端口，也能 SSH 。&lt;/p&gt;
-&lt;p&gt;尝试重启光猫+路由器几次，发现 IP 并没有变。&lt;/p&gt;
-&lt;p&gt;(坐标洛杉矶&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 20:56:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971254#reply0</guid></item><item><title>[分享发现] Android 14 即使 root 设备也将无法修改系统证书。</title><link>https://www.v2ex.com/t/971253#reply2</link><description>&lt;p&gt;Android 操作系统正日益封闭，最新的 Android 14 将进一步限制对系统证书的修改。Google 是从 2016 年发布的 Android 7 （ Nougat ）起将设备上信任 CA 列表的权力从用户转移到设备供应商和第三方应用开发者。以前 Android 系统允许用户创建自己的 CA 并信任它，拦截设备上的 HTTPS 流量，查看设备上正在发送和接收的内容，可以进行修改或阻止。即将在未来几个月释出的 Android 14 将 CA 证书的管理转移到了一个独立更新的组件，由 Google Play 提供更新。一方面它对普通用户的安全是好事，但另一方面它进一步限制了开发者，即使 root 设备也将无法修改系统证书。
-&lt;a href="https://www.solidot.org/story?sid=75997" rel="nofollow"&gt;https://www.solidot.org/story?sid=75997&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 19:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971253#reply2</guid></item><item><title>[程序员] 关于 React 和 Next.js 的一些问题</title><link>https://www.v2ex.com/t/971252#reply1</link><description>&lt;p&gt;我想仿一下&lt;a href="https://www.vgtime.com/" rel="nofollow"&gt;VGtime&lt;/a&gt;这个新闻网站，练练手（不想做 xxx 管理系统）。&lt;/p&gt;
-&lt;p&gt;我本身是后端开发，稍微会点前端。&lt;/p&gt;
-&lt;p&gt;后端想使用 Java+Spring Boot+RESTful API ，前端想使用 React+TypeScript+Next.js&lt;/p&gt;
-&lt;p&gt;但是目前在学习 Next.js 的时候遇到了点问题：&lt;/p&gt;
-&lt;p&gt;一是最新的 Next.js 推荐使用 App Router ，比较新，缺乏文档和视频，不知道如何上手比较好。&lt;/p&gt;
-&lt;p&gt;二是我目前还没有找到优质的参考项目或最佳实践。&lt;/p&gt;
-&lt;p&gt;三是我在 Github 找到的的 Next.js 项目大多不涉及后端交互，缺少与后端集成的实例。&lt;/p&gt;
-&lt;p&gt;希望大家能推荐一些适合的参考项目给我。&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 19:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971252#reply1</guid></item><item><title>[分享创造] 分享一个基于 webAR 做的滤镜效果</title><link>https://www.v2ex.com/t/971249#reply0</link><description>&lt;h1&gt;项目地址&lt;/h1&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 06 Sep 2023 14:12:52 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 对华为开发有点想学，都需要学哪些技术栈？</title><link>https://www.v2ex.com/t/971545#reply0</link><description>&lt;p&gt;最近看了几场华为的发布会，突然对它的软件技术能力很钦佩。&lt;/p&gt;
+&lt;p&gt;不管是之前很吓人的游戏加速技术 GPU Turbo ，还有现在遥遥领先的系统研发能力，从底层到上层，完整的生态，堪称和苹果有的一比。
+据说马上要推 PC 系统了，这么一来，整个闭环即将达成，也算是自成一套的跨平台跨设备体系。&lt;/p&gt;
+&lt;p&gt;感觉很有必要去了解了解，学习学习。&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 14:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971545#reply0</guid></item><item><title>[服务器] ✅阿里云国际站腾讯云国际 aws 可供实名账户，代充值可付 USDT</title><link>https://www.v2ex.com/t/971544#reply0</link><description>&lt;p&gt;阿里云国际站，腾讯云国际站总代理商，另外美资云，aws ，谷歌云，微软云也是一级总代，国际站面向海外市场，国内资源也可购买，基本无风控，，全程无忧，代充值，续费，长期合作量大可优惠。无风控，24 小时工单加急服务，24 小时充值服务。充值请认准小帅牌加 U 机。支持转 usdt 到账比例 1u 等于 1 美金，另量大 cdn 还有特价 1p  cdn 包，风里雨里，老弟再飞机等你，做事只做最专业的，阿里云国际站，腾讯云国际站有需求的老哥可以联系老弟，解决您的一切后顾之忧，专业的售后团队，我们只精于一件，客户至上。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tg （飞机）阿里云国际 aws 小帅：buliangshuai1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;有需求得老哥可以加老弟 tg 私聊，感谢长期对小帅得支持&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 14:11:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971544#reply0</guid></item><item><title>[问与答] 大陆不可以使用 dingtalk 了？</title><link>https://www.v2ex.com/t/971542#reply1</link><description>一直用的苹果商店，美国去的帐号下载个 DingTalk 今天晚上提示无法使用了，是不是中国去与国外彻底分开？</description><pubDate>Wed, 06 Sep 2023 14:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971542#reply1</guid></item><item><title>[分享创造] 做了一个统计网站浏览时间的浏览器插件</title><link>https://www.v2ex.com/t/971541#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://timetower.randynamic.org/_astro/hero.09ecc901_ZT5SPs.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;最近又做了个浏览器插件 Time Tower ( &lt;a href="https://timetower.randynamic.org/" rel="nofollow"&gt;https://timetower.randynamic.org/&lt;/a&gt; ), 最开始是做给自己用的，因为自己每天使用时长最多的是浏览器，加上前段时间觉得自己过于沉迷某个网站，所以想记录一下自己到底每天花了多少时间在哪些网站上。&lt;/p&gt;
+&lt;p&gt;插件监听了 tabs 的事件，当前显示的 tabs 如果是白名单网站里的，就会开始计时，当 tabs 被切换、关闭时就会停止，而且当切换到其它应用程序的时候，也会自动计时。所以整体应该算是比较准确的。&lt;/p&gt;
+&lt;p&gt;另外这些记录不会上传到任何服务器上，全都保存在浏览器插件的数据层。而且当你不想用它的时候，你可以直接把所有记录导出成 csv 格式。&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 14:01:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971541#reply0</guid></item><item><title>[Android] pixelexperience 类原生系统的小问题。</title><link>https://www.v2ex.com/t/971540#reply0</link><description>&lt;p&gt;发现 pixelexperience 这种类原生 ROM 中很多包的都比较古老即使系统跟新到了 Android 13 也比 pixel Android 12 多不少，pixelexperience 中有不少 api 6 ，7 ，8 的包还在里面没有剔除或者更新，pixel Android 12 最老的包 api 都 27 了且只有一个。目前 pixelexperience 官网，pixel 系列机型 Pixel 4a 以前的机型都已经放弃维护了。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://i.imgur.com/mHh9LGG.pngApk" rel="nofollow"&gt;https://i.imgur.com/mHh9LGG.pngApk&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Analyzer &lt;a href="https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer&amp;amp;hl=en_US&amp;amp;gl=US" rel="nofollow"&gt;https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer&amp;amp;hl=en_US&amp;amp;gl=US&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:55:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971540#reply0</guid></item><item><title>[分享发现] 喜提防诈骗电话，感谢关怀</title><link>https://www.v2ex.com/t/971539#reply0</link><description>96110 说我访问赌博网站关键字是 k7ol 。之前接到过一次，是因为访问 ublock 。在外漂泊的人听到浓浓家乡味还是挺好的。不过自己信息被时刻监控还是挺让人心里不舒服的。</description><pubDate>Wed, 06 Sep 2023 13:52:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971539#reply0</guid></item><item><title>[问与答] 斐讯 n1 刷了 F 大的 84+O 版本的 openwrt，网没法上，重启后， wifi 都连不上了，是固件有问题吗？</title><link>https://www.v2ex.com/t/971536#reply0</link><description></description><pubDate>Wed, 06 Sep 2023 13:43:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971536#reply0</guid></item><item><title>[分享发现] 使用 frp 连办公机当服务器会被发现吗</title><link>https://www.v2ex.com/t/971535#reply0</link><description>国外域名未备案，然后解析到 frp nat vps ，内网穿透到办公机的后台服务，这样公司是否会被检测到，是否有风险，暂时个人用，之后打算部署盈利网站</description><pubDate>Wed, 06 Sep 2023 13:42:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971535#reply0</guid></item><item><title>[问与答] 请教万能的 v 友们，这种情况下的数据同步应该使用哪种分布式算法？或者如何实现？</title><link>https://www.v2ex.com/t/971534#reply0</link><description>&lt;p&gt;一个集群中有许多台设备，各个设备之间的连接是不固定的，可能突然连接上或者突然断开；&lt;/p&gt;
+&lt;p&gt;每台设备上都会产生一定的数据，例如：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/ns2250225/webar_filter" rel="nofollow"&gt;https://github.com/ns2250225/webar_filter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A：1 、2 、3&lt;/li&gt;
+&lt;li&gt;B：3 、4 、5&lt;/li&gt;
+&lt;li&gt;C：1 、3 、6&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;效果&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://github.com/ns2250225/webar_filter/blob/main/demo.gif?raw=true" /&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 17:21:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971249#reply0</guid></item><item><title>[奇思妙想] 看了 HN 一个 FCC 的人发的帖子，感觉他们和社区互动的还不算少嘛</title><link>https://www.v2ex.com/t/971247#reply0</link><description>&lt;a href="https://news.ycombinator.com/item?id=37392676" rel="nofollow noopener" target="_blank"&gt;https://news.ycombinator.com/item?id=37392676&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;大家怎么想？</description><pubDate>Tue, 05 Sep 2023 17:15:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971247#reply0</guid></item><item><title>[宽带症候群] 湖南电信 IP 似乎固定了</title><link>https://www.v2ex.com/t/971246#reply0</link><description>&lt;p&gt;近一个月 ip 没有变化了，重新拨号也不会换 ip&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 17:03:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971246#reply0</guid></item><item><title>[分享创造] 分享几个儿童音频故事 APP</title><link>https://www.v2ex.com/t/971245#reply0</link><description>&lt;p&gt;有了孩子后，每天快速哄睡是个大难题，懂得都懂。
-刚开始给孩子讲故事、背古诗，后来发现自己比孩子睡得还快，讲着讲着故事还容易串台。
-原本想用喜马拉雅这种现成的 app ，后来发现里面东西太多，太杂，索性自己找一些音频文件开发一些 app 。&lt;/p&gt;
-&lt;p&gt;算是 android 初学者，简单写了写，样式很简单，就是列表，点击就播放，正在播放的文件名标红，再点击就关闭，播放完一个后自动播放下一个。
-没有其他任何功能，也没有做播放声音时和其他应用冲突的处理，没有暂停等等功能。&lt;/p&gt;
-&lt;p&gt;现在每晚孩子都指定要听哪个故事，听一会就睡着了。&lt;/p&gt;
-&lt;p&gt;孩子的记忆力太强，连西游记里故事序号和标题的对应关系都能记住，我都没记住，不得不说岁数大了，完全比不过了。&lt;/p&gt;
-&lt;p&gt;不知道怎么贴图，大概页面如下：&lt;/p&gt;
-&lt;p&gt;古诗词&lt;/p&gt;
+&lt;p&gt;则，当 A 、C 两台设备连接后进行同步的结果为：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;001 咏雪&lt;/li&gt;
-&lt;li&gt;002 咏鹅&lt;/li&gt;
-&lt;li&gt;003 江南&lt;/li&gt;
-&lt;li&gt;....&lt;/li&gt;
+&lt;li&gt;A 、C：1 、2 、3 、6&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;后续有计划合并成一个 app ，增加暂停、定时关闭等功能，不过由于拖延症比较严重，可能得猴年马月。&lt;/p&gt;
-&lt;p&gt;如有侵权，请联系 lvlvbuaa#&lt;a href="http://163.com" rel="nofollow"&gt;163.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;地址 链接: &lt;a href="https://pan.baidu.com/s/1y0ab2Bdxw6-H-9uNvXZBFA?pwd=2t3y" rel="nofollow"&gt;https://pan.baidu.com/s/1y0ab2Bdxw6-H-9uNvXZBFA?pwd=2t3y&lt;/a&gt; 提取码: 2t3y 复制这段内容后打开百度网盘手机 App ，操作更方便哦&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:51:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971245#reply0</guid></item><item><title>[深圳] 深圳哪裡有純粹一點的清吧</title><link>https://www.v2ex.com/t/971244#reply0</link><description>類似日本的居酒屋，美劇的小鎮酒吧，不約炮，不要 gay 吧，不要 hi 吧，就是想一個人訴苦發洩一下，釋放一些成年人的苦悶負面情緒。這種酒吧哪裡有</description><pubDate>Tue, 05 Sep 2023 16:43:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971244#reply0</guid></item><item><title>[GitHub] Github 挂了？</title><link>https://www.v2ex.com/t/971243#reply5</link><description>&lt;p&gt;Ooops!!! 500&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971243#reply5</guid></item><item><title>[问与答] Windows 发出去的包 IP 层为什么都设置了禁止分片</title><link>https://www.v2ex.com/t/971242#reply2</link><description>&lt;a href="https://x.imgs.ovh/x/2023/09/06/64f7551c5315b.png" rel="nofollow noopener" target="_blank"&gt;https://x.imgs.ovh/x/2023/09/06/64f7551c5315b.png&lt;/a&gt;&lt;br /&gt;这是一次访问百度的请求，以太帧长是 3409 ，为什么 IP 层会设置禁止分片标志呢，网卡的 MTU 是 1500 ，超过 MTU 又设置了禁止分片，应该会被丢弃，但实际还是能访问百度&lt;br /&gt;&lt;br /&gt;&lt;a href="https://x.imgs.ovh/x/2023/09/06/64f75795325bb.png" rel="nofollow noopener" target="_blank"&gt;https://x.imgs.ovh/x/2023/09/06/64f75795325bb.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ping  -f -l 1500 却不能 ping 通百度</description><pubDate>Tue, 05 Sep 2023 16:31:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971242#reply2</guid></item><item><title>[问与答] 有什么好用的 AI 应用、AI 工具推荐吗？</title><link>https://www.v2ex.com/t/971241#reply4</link><description>&lt;p&gt;AI 已经火了有段时间了，现在应该也衍生出很多不错的应用或者工具了，大家有什么好用的产品推荐吗？&lt;/p&gt;
-&lt;p&gt;我平时就 Github Copilot + 网页版 chatGPT&lt;/p&gt;
-&lt;p&gt;发现个 chatGPT 的客户端，结合了很多 prompt 在里面按/就能唤出，但我好像也不需要那么多场景一直也没使。。&lt;/p&gt;
-&lt;p&gt;再就是 Chrome 插件的 AI 助手，在用 Sider ，还有个 Monica 好像也不错，大家还有什么好用的推荐的吗？&lt;/p&gt;
-&lt;p&gt;翻译插件的话，发现有个叫 Trancy 的不错，现在还是在用沉浸式翻译，填了 openAI 的 key ，但是没绑卡，由于频率限制导致总是失败，也不常用&lt;/p&gt;
-&lt;p&gt;IDE 的 AI 相关的插件我目前也只装了 Copilot ，还有没有别的推荐？&lt;/p&gt;
-&lt;p&gt;之前很火那个 Cursor 好像现在也没声音了？有人在用吗，能否分享一下使用体验&lt;/p&gt;
-&lt;p&gt;Poe 的使用场景是啥？就集成了几个模型的 API ，不如直接去模型官网用了啊&lt;/p&gt;
-&lt;p&gt;New Bing 貌似现在不太好用了？我不喜欢用 Edge 所以一直也没使&lt;/p&gt;
-&lt;p&gt;听说 Bard 效果非常不错，Claude 也还行，写代码用，和 3.5 比怎么样？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:08:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971241#reply4</guid></item><item><title>[程序员] 回老家做生意 还是在上海继续做程序员</title><link>https://www.v2ex.com/t/971240#reply0</link><description>&lt;p&gt;民办三本，刚毕业 2 年整，技术一般。在上海干 java 和对象在上海，她是测试，两人加起来薪资也才 23k 左右，两年一起攒了 20 多万下来，靠父母支持还买了辆车。我们是苏北的，双方家长都希望定居在上海，三年后买房的话能支持个 100-200w 首付。但感觉自己在上海没资源，技术能力也不上大厂那些，只能在中小厂混混，落户也没什么希望(虽然考了中级职称啥的)很难熬，也不想把几百万投到房地产里。家里在县里三个中型超市，房子也有，想跟着父母学着做生意，压力也小点。父母的意见是做生意很累，比上班要累的多，门槛低，干不来，不好干等等，说程序门槛高，创业竞争小，回去的话四年白上学了，想让我留在上海继续深耕。我心想父辈做生意积累那么多的资源不回去继承有点浪费和可惜，也希望有人带着能做生意。想想像我学历不行，能力也不是特别强的人在技术上更没什么门槛，java 饱和成这样，网上一搜一堆教程，有什么门槛？做生意还能向父母学习学习，有人带着，一些坑和门道都会告诉你，我感觉这种才是门槛，但父母貌似不是这样想。现在在上海压力也不是很大，毕竟没有房贷啥的，当然工资也不高，没什么生活质量。就是也快结婚了，想到后面买房和各种开销啥的就很烦了，故现在很纠结，大家觉得呢？&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:07:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971240#reply0</guid></item><item><title>[程序员] Reqable 1.3 版本更新，可以看流量所属应用了</title><link>https://www.v2ex.com/t/971239#reply0</link><description>&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://github.com/reqable/reqable-app/assets/15059084/034b19ff-917d-454b-b33e-b11e77eb55c8" /&gt;&lt;/p&gt;
-&lt;p&gt;最新版官网下载： &lt;a href="https://reqable.com/" rel="nofollow"&gt;https://reqable.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;另外，今天（ 9 月 6 号）我在上海的 Google 开发者大会，如果有在的可以一起面基交流哈！&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 16:07:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971239#reply0</guid></item><item><title>[问与答] 有玩 hugo 的没..?有微信群么?</title><link>https://www.v2ex.com/t/971238#reply0</link><description></description><pubDate>Tue, 05 Sep 2023 16:05:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971238#reply0</guid></item><item><title>[问与答] 疑问：软件设计师中级教程和视频教程不一致的问题</title><link>https://www.v2ex.com/t/971237#reply0</link><description>&lt;p&gt;1 、买的书《软件设计师教程中级第五版》&lt;/p&gt;
-&lt;p&gt;2 、网上找的视频《软件设计师_2021 希赛王勇》&lt;/p&gt;
-&lt;p&gt;发现一个问题就是：书和视频的内容不是一一对应，有点不知道怎么看了&lt;/p&gt;
-&lt;p&gt;有考过的老哥吗，给点意见&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:49:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971237#reply0</guid></item><item><title>[NAS] [求教]单盘位 NAS 推荐？</title><link>https://www.v2ex.com/t/971236#reply1</link><description>&lt;p&gt;想入手个单盘位 NAS ，用作家庭照片视频冷备份。&lt;/p&gt;
-&lt;p&gt;需求：&lt;/p&gt;
+&lt;p&gt;此时，A 、B 再连接同步的结果为：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;计划是定时自动开机，通过内网同步自家小服务器的重要文件。任务完成后自动关机。&lt;/li&gt;
-&lt;li&gt;期望是小巧，能内置 1 个笔记本硬盘（ 2.5 寸硬盘）。&lt;/li&gt;
-&lt;li&gt;有线千兆。&lt;/li&gt;
-&lt;li&gt;CPU 架构、性能，都没要求。只是同步文件，这个应该要求不高。&lt;/li&gt;
+&lt;li&gt;A 、B：1 、2 、3 、4 、5 、6&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;找了一些相关方案：&lt;/p&gt;
+&lt;p&gt;当三台设备之间同步后，结果也为：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;1 我家云&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;RK3328 （ 4 核 A53 ），内存 1G ，USB3.0 接口，单个千兆网口，采用 USB3.0 转 SATA 的方式内置 3.5 寸 4TB 硬盘。&lt;/li&gt;
-&lt;li&gt;又称“掉盘云”。&lt;/li&gt;
+&lt;li&gt;A 、B 、C：1 、2 、3 、4 、5 、6&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2 比特米盒&lt;/p&gt;
+&lt;p&gt;删除某一台上的数据之后，变为：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;晶晨 S905X （ 4 核 A53 ），内存 1G ，WIFI ，USB3.0 ，百兆网卡，有两个 2.5 寸的硬盘位，支持 4K 输出。&lt;/li&gt;
-&lt;li&gt;可刷 Armbian&lt;/li&gt;
+&lt;li&gt;A 、B 、C：2 、3 、4 、5 、6&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3 玩客云&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;晶晨 S805 ，内存 1G ，闪存 8G ，两个 USB2.0 ，1 个千兆网卡。没有硬盘位。&lt;/li&gt;
-&lt;li&gt;可刷 Armbian&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 05 Sep 2023 15:42:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971236#reply1</guid></item><item><title>[视频技术] 有什么软件能批量把视频横屏转竖屏吗？</title><link>https://www.v2ex.com/t/971235#reply3</link><description>&lt;p&gt;有什么软件能批量把视频横屏转竖屏吗？
-横屏 16:9 转成 9:16 的，转了后能接受上下黑框，主要是要批量转很多。&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:32:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971235#reply3</guid></item><item><title>[上海] 看了一下短信, 拿到了 2023 google 开发者大会 上海 9/7 号的票</title><link>https://www.v2ex.com/t/971234#reply2</link><description>&lt;p&gt;好奇,工作久了大家还会像刚毕业的时候兴致勃勃的去参加这种技术大会么? 我记得刚毕业在深圳, 参加了 freecodecamp 的技术论坛哈哈, 还认识了一些小伙伴.&lt;/p&gt;</description><pubDate>Tue, 05 Sep 2023 15:30:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971234#reply2</guid></item><item><title>[程序员] 使用 AND 和 OR 运算符实现的加密程序该如何解密？</title><link>https://www.v2ex.com/t/971232#reply8</link><description>&lt;p&gt;AND 和 OR 运算是不是没有逆运算呀？那下面这种程序要如何写一个 decode 算法呢？是不是解密有另外的一个码表？有没有吊大的可以给一下解题思路？&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;const codeTable = 'a=9-vBc3C0iDWJE4gFumGYsHoyIe7KxVLkXM6ZNqbOtdPwfQzh12jR5lS8nT_pUAr'
-
-const encode = json =&amp;gt; {
-    let result = ''
-    for (let i = 0; i &amp;lt; json.length;) {
-        const a = json.charCodeAt(i++)
-        const b = json.charCodeAt(i++)
-        const c = json.charCodeAt(i++)
-        const d = a &amp;gt;&amp;gt; 2
-        const e = ((3 &amp;amp; a) &amp;lt;&amp;lt; 4) | (b &amp;gt;&amp;gt; 4)
-        let f = ((b &amp;amp; 15) &amp;lt;&amp;lt; 2) | (c &amp;gt;&amp;gt; 6)
-        let g = c &amp;amp; 63
-        isNaN(b) ? f = g = 64 : isNaN(c) &amp;amp;&amp;amp; (g = 64)
-        result = result + codeTable[d] + codeTable[e] + codeTable[f] + codeTable[g]
-    }
-    return result
-}
-
-const decode = cipher =&amp;gt; {
-
-}
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 05 Sep 2023 15:26:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971232#reply8</guid></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;（注意：这里是由于各台都先进行了 insert 1 后，某一台又执行了 delete 1 的操作，所以同步结果没有 1 ）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果 A 、B 一直没有连接，则各台的数据不变；&lt;/p&gt;
+&lt;p&gt;（总结一下，就是类似于将各台设备上&lt;strong&gt;对数据的操作&lt;/strong&gt;按照时间顺序求并集的分布式算法）&lt;/p&gt;
+&lt;p&gt;上面的设备台数可能会很多，数据量可能也比较大，请问一下有没有什么比较好的方案呢？&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:39:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971534#reply0</guid></item><item><title>[硬件] 单文件复制 3g 每秒 文件夹复制只有 50m 每秒</title><link>https://www.v2ex.com/t/971533#reply1</link><description>&lt;p&gt;如题 今天把 maven repository 从老 ssd 复制到致态 ssd 只有这么点速度 &lt;/p&gt;
+&lt;p&gt;在同一块致太 ssd 同一个目录里复制粘贴 也只有 50m 左右每秒 除非压缩成一个 zip 文件 &lt;/p&gt;
+&lt;p&gt;还有什么办法能提高复制文件夹的速度&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:35:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971533#reply1</guid></item><item><title>[生活] 西藏国庆 有愿意组队的么</title><link>https://www.v2ex.com/t/971531#reply1</link><description>本人 93 孤寡老人，长期宅家生活，越来越失去对生活的热情，想去西藏那边看看，激起一点对生活的热情，其实一直以来也挺想去的，但是一个人去又太孤独了。至于去的话，还是在携程或者其他地方，组个团去吧，费用好像也不低，自己计划的话太累了，有没有和我一样状态的兄弟姐妹，有类似的想法，欢私聊小窗。&lt;br /&gt;留个 vx：Nzc0NDYzMjY2 （ base64 ）</description><pubDate>Wed, 06 Sep 2023 13:28:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971531#reply1</guid></item><item><title>[求职] 求职/远程 Ruby backend engineer</title><link>https://www.v2ex.com/t/971530#reply0</link><description>&lt;p&gt;六年 Ruby On Rails 经验&lt;br /&gt;
+二年 PHP/javascript/golang 经验  &lt;/p&gt;
+&lt;p&gt;去年在 GitLab 做的贡献
+&lt;a href="https://gitlab.com/dashboard/merge_requests?scope=all&amp;amp;state=merged&amp;amp;assignee_username=lyb124553153" rel="nofollow"&gt;https://gitlab.com/dashboard/merge_requests?scope=all&amp;amp;state=merged&amp;amp;assignee_username=lyb124553153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我的联系方式：&lt;/p&gt;
+&lt;p&gt;MTI0NTUzMTUzQHFxLmNvbQ==&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:27:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971530#reply0</guid></item><item><title>[问与答] 给录制的视频加字幕以及语音有什么好用的工具</title><link>https://www.v2ex.com/t/971529#reply1</link><description>能选择语言风格更好</description><pubDate>Wed, 06 Sep 2023 13:24:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971529#reply1</guid></item><item><title>[宽带症候群] 武汉电信 5 折套餐 大降速</title><link>https://www.v2ex.com/t/971528#reply0</link><description>武汉电信 5 折套餐 大降速&lt;br /&gt;&lt;br /&gt;只能 处女身份证号 办理主卡开新号&lt;br /&gt;副卡 只能联通移动携号转网带入，电信老号不能带入&lt;br /&gt;2 年合约协议&lt;br /&gt;5g 129 5 折 65 100M&lt;br /&gt;5g 169 5 折 75 200M&lt;br /&gt;5g 199 5 折 99 300M&lt;br /&gt;&lt;br /&gt;加 10 元升 500M&lt;br /&gt;加 20 元升 1000M&lt;br /&gt;&lt;br /&gt;无 itv 初装费 108 ，给有线光猫&lt;br /&gt;有 itv 初装费 258 ，给有线光猫+机顶盒</description><pubDate>Wed, 06 Sep 2023 13:23:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971528#reply0</guid></item><item><title>[求职] [23 届求职] Java 后端，三本， 2 个项目经验，城市不限。求简历修改建议。</title><link>https://www.v2ex.com/t/971527#reply1</link><description>&lt;p&gt;&lt;a href="https://me.imldy.cn/resume" rel="nofollow"&gt;简历链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/imldy/Resume/blob/main/Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91.pdf" rel="nofollow"&gt;备用链接(GitHub)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;毕业前想的是二战考研，但后续发生了一些事，导致开始犹豫是否改为工作。到目前，实在没有心气学习考研内容了，所以求个工作。接触一下职场可能让自己恢复一些元气。&lt;/p&gt;
+&lt;p&gt;麻烦路过的大佬点评一下简历，或者提一下后端学习方向、面试上的建议，感激不尽。&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:12:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971527#reply1</guid></item><item><title>[广州] 为方便小伙伴们租房的需要，专门组建 [广州真实租房转租信息共享群]</title><link>https://www.v2ex.com/t/971526#reply0</link><description>&lt;p&gt;&lt;a href="https://hellomychatgpt.com/images/gzzszf.jpg" rel="nofollow"&gt;https://hellomychatgpt.com/images/gzzszf.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 13:04:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971526#reply0</guid></item><item><title>[macOS] 有没有法方能让苹果笔记本的键盘背光在系统最暗的基础上更加暗的应用啊， M1 芯片。</title><link>https://www.v2ex.com/t/971525#reply2</link><description></description><pubDate>Wed, 06 Sep 2023 12:59:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971525#reply2</guid></item><item><title>[问与答] 便宜的 ph esim</title><link>https://www.v2ex.com/t/971523#reply2</link><description>&lt;p&gt;ph smart esim 预付卡，先说保号，充值任意金额，有效期延长 1 年&lt;/p&gt;
+&lt;p&gt;一、作用：
+可以绑 ph app store 消费购买 app 和内购&lt;/p&gt;
+&lt;p&gt;二、购买：
+1 、官网有售，599p ，esim 卡+500p 充值卡，官网购买后，官方会邮寄给你（ ph 的 esim 不是直接发你二维码，而是把印有 qr code 的卡板邮寄给你，所以，你需要 ph 代收
+2 、嫌上面麻烦的话，可以去小黄鱼看看，我是在小黄鱼买的，这里不推链接，自己去搜吧&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 12:51:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971523#reply2</guid></item><item><title>[问与答] 旅游签证不符合（日本）</title><link>https://www.v2ex.com/t/971521#reply3</link><description>&lt;p&gt;现在我有个朋友（日本永驻，但现在有几年不在日本在国内）他在日本有好友，我怎么通过他的好友邀请我，目前我们没聊过天，如何快速证明一下我们是好友关系
+1 、书信？怎么写
+2 、照片合照？没有，通过微信截屏是否有效
+3 、是否需要写个邀请函？
+着急。机票买了
+有没有懂的，说一下流程。
+青岛送签&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 12:41:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971521#reply3</guid></item><item><title>[Spotify] Spotify 美区家庭组拼车长期车</title><link>https://www.v2ex.com/t/971520#reply0</link><description>&lt;p&gt;美区 Spotify 合租 美区 Spotify 年费家庭车 美区 Spotify 拼车 Spotify 美区会员 需要上车的小伙伴可以加我微信 d030518_&lt;/p&gt;</description><pubDate>Wed, 06 Sep 2023 12:39:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971520#reply0</guid></item></channel></rss>
