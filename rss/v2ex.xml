@@ -1,111 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 07 Sep 2023 22:17:36 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] pve 用户麻烦帮我看下这个文件名是啥？</title><link>https://www.v2ex.com/t/971894#reply0</link><description>&lt;p&gt;帮我看下 etc 目录下，protocols 和 request-key.conf 之间那个文件名是啥？
-一不小心重命名了，不知道文件名了。&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 22:05:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971894#reply0</guid></item><item><title>[跑步] 除了跑步 你是怎么运动锻炼的</title><link>https://www.v2ex.com/t/971893#reply0</link><description>&lt;p&gt;如题…各种打球也算吧 一周几次 每次花多长时间&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 21:05:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971893#reply0</guid></item><item><title>[Python] 摸脚店(Mojo)本地开业了</title><link>https://www.v2ex.com/t/971892#reply0</link><description>&lt;p&gt;Mojo 本地版 release&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.modular.com" rel="nofollow"&gt;https://www.modular.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 19:19:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971892#reply0</guid></item><item><title>[分享创造] 做了一个梗图搜索网站，想请大佬指点指点</title><link>https://www.v2ex.com/t/971891#reply0</link><description>&lt;p&gt;因为我经常浏览各种梗图，于是我萌生想搓一个梗图收集网站并查找些图片的出处。但是国外只有一个使用英文进行搜索的，对中文搜索很差，于是我就和一个朋友一起开发了这个网站。希望各位大佬能提出宝贵的意见和建议。如果有对这个项目感兴趣的朋友，我希望加入一起来开发这个项目(我个人没有什么后端开发经验，项目现在缺爬虫)，可以发邮件联系我 Z3V0ZWFtQGdtb2UuY2M= (Base64)&lt;/p&gt;
-&lt;p&gt;网址 &lt;a href="https://memesearch.app" rel="nofollow"&gt;https://memesearch.app&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 19:07:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971891#reply0</guid></item><item><title>[程序员] 惠普光影精灵 5 笔记本电脑想接 4K 144HZ 显示器（双屏）</title><link>https://www.v2ex.com/t/971890#reply4</link><description>&lt;p&gt;想搞“双屏”显示器&lt;/p&gt;
-&lt;p&gt;19 年买的 Windows 笔记本，有 HDMI 2.0 和 USB 3.1 Gen2 Type-C 两个接口，显卡为 NVIDIA GeForce GTX 1660 Ti with Max-Q Design&lt;/p&gt;
-&lt;p&gt;20 年曾买了一台 24 英寸、2K 、75 HZ 的显示器&lt;/p&gt;
-&lt;p&gt;现在需要再买一台显示器，就想买个 4K 、144HZ 的（我看跟稍微低点配置的比就贵个不到 1 千，这在我的可接受范围内），但我目前的 Windows 笔记本的接口貌似支持不了这配置（此外还有台 MacBook Pro ，偶尔也要接一下这显示器）&lt;/p&gt;
-&lt;p&gt;场景：1. 打游戏（ LOL 、CSGO 、瓦）； 2. 看视频（ bilibili 、iqiyi 等）； 3. 写写代码&lt;/p&gt;
-&lt;p&gt;在打游戏的时候，也可以接受开稍微低点的配置（毕竟笔记本的能力就放在这儿）&lt;/p&gt;
-&lt;p&gt;个人可以算是这方面的“小白”吧，就想问问 v 友们的意见和看法，定将虚心接受、万分感谢！&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 18:21:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971890#reply4</guid></item><item><title>[问与答] 有老铁研究过宝马 i3 和新能源、宝马 3 系这些车吗？</title><link>https://www.v2ex.com/t/971889#reply0</link><description>&lt;p&gt;想上一辆 25-35 范围的车，最近看了宝马 i3 和特斯拉，感觉都不错，犹豫中&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 18:09:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971889#reply0</guid></item><item><title>[程序员] 从代码编译方面测试， intel 13 代 i9 快还是 m2pro 快</title><link>https://www.v2ex.com/t/971888#reply0</link><description>从代码编译方面测试，intel 13 代 i9 快还是 m2pro 快？有人测过没？</description><pubDate>Thu, 07 Sep 2023 17:05:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971888#reply0</guid></item><item><title>[问与答] 外接硬盘降温方案？</title><link>https://www.v2ex.com/t/971887#reply0</link><description>mac 的外接硬盘，基本 24h 在跑高吞吐的计算任务（读基本能跑满），今天摸了一下发现十分烫手，担心继续这么跑下去对寿命会影响比较大，在不换硬盘本身和硬盘盒的前体下，有什么比较好的散热降温方案？网上有搜到可以外接个风扇吹，但因为机器平时都放在卧室感觉噪音可能会比较大？或者买一根长一点的雷电 3 线，硬盘放到其他房间去？&lt;br /&gt;另外高温对硬盘寿命影响到底如何？</description><pubDate>Thu, 07 Sep 2023 17:01:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971887#reply0</guid></item><item><title>[求职] 数据工程 &amp; 服务端开发熟练工求捞</title><link>https://www.v2ex.com/t/971885#reply0</link><description>&lt;p&gt;10 年开发从业经验，懂得计算机基本原理，熟练使用 Linux Shell ，Vim 。&lt;/p&gt;
-&lt;p&gt;目前每天的工作是基于 Spring Boot 开发 Dubbo/Restful API ；通过 Gitlab CI 发布至 K8S 。业务会涉及到 Kafka ，Redis 常用中间件。&lt;/p&gt;
-&lt;p&gt;用 Golang 写过小工具，也基于 Gin ，gRPC 开发过高并发的 API 服务。
-系统学习过 K8S ，并通过了 LF 的 CKA ，CKAD 考试，可以应付 K8S/Linux &lt;strong&gt;DevOps 工作&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;机缘巧合之下做了三年左右&lt;strong&gt;数据开发&lt;/strong&gt;。使用 Spark ，Flink ，Scala 。对阿里云的全托管 Flink ，MaxCompute ，Dataworks 产品很熟。实践数据计算 Lambda 架构，对性能有一定认识。
-使用 Python ，Pandas ，Jupyter ，结合 PySpark 做 &lt;strong&gt;数据分析以及 ETL&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;目前时间比较充裕，每周可以保证 20+ 小时在线，寻求一份&lt;strong&gt;兼职&lt;/strong&gt;，老板们多多捧场~&lt;/p&gt;
-&lt;p&gt;wx: Y29kaW5neGwK (base64)&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 16:55:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971885#reply0</guid></item><item><title>[Kubernetes] ssh 端口转发和 K8S 网络问题</title><link>https://www.v2ex.com/t/971884#reply0</link><description>&lt;ol&gt;
-&lt;li&gt;数据中心内网有个 k8s 集群，apiserver 证书绑定的内网 ip 地址（不能动），比如 10.xx.yy.1, 172.xx.yy.zz, 172.xx.yy.zz, master 节点假设为 A ，apiserver 不对公网开放&lt;/li&gt;
-&lt;li&gt;公网有个边缘节点 B （在 NAT 后），想加到上述集群中，目前 A 能 ssh 到 B 上，B 也能 ssh 到 A   &lt;/li&gt;
-&lt;li&gt;未来只允许 A 能 ssh 到 B ，不允许 B ssh 到 A ，也就是不允许边缘访问数据中心服务器&lt;/li&gt;
-&lt;li&gt;这种条件下为了能把节点加到集群，我试了两种 ssh 隧道转发:&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;第一种：远程端口转发：&lt;/li&gt;
-&lt;/ul&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 08 Sep 2023 19:42:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[天黑以后] 20230908 午夜俱乐部</title><link>https://www.v2ex.com/t/972179#reply2</link><description>记录一下今天的糟心事&lt;br /&gt;&lt;br /&gt;买了苹果皮革手机壳, 期望挺高, 但是今天收货, 感觉手感一般&lt;br /&gt;昨天健身房没有开门, 教练说闭馆一天, 今天去也没开门, 教练说老板在打官司, 害怕它跑路了😱&lt;br /&gt;这周的工作任务没做完, 只好拖到下周了&lt;br /&gt;&lt;br /&gt;以上其实还算好&lt;br /&gt;&lt;br /&gt;凌晨 12 点多, 我在玩游戏呢, 发现鞋子怎么湿了, 租房的水管爆裂了, 水淹到卧室才发现, 于是喊舍友起床一起打扫了 1 个多小时, 明天还要喊师傅来维修(假如我没有在玩游戏, 应该会及时听到异常的水流声, 于是怒删游戏)</description><pubDate>Fri, 08 Sep 2023 18:43:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972179#reply2</guid></item><item><title>[macOS] CMFSyncAgent 一直有非常高的 cpu 占有率（90%以上）请问怎么破</title><link>https://www.v2ex.com/t/972178#reply1</link><description></description><pubDate>Fri, 08 Sep 2023 18:04:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972178#reply1</guid></item><item><title>[程序员] neo4j 导入别人处理好的 dump 文件，在数据库显示离线</title><link>https://www.v2ex.com/t/972177#reply0</link><description>&lt;a href="https://i.imgur.com/196DK6E.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/196DK6E.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图所示，我使用的是这里的教程[&lt;a href="https://towardsdatascience.com/exploring-the-nft-transaction-with-neo4j-cba80ead7e0b" rel="nofollow noopener" target="_blank"&gt;https://towardsdatascience.com/exploring-the-nft-transaction-with-neo4j-cba80ead7e0b&lt;/a&gt;]，想要可视化但是遇到了问题。从 dump 创建 DBMS 的时候，database 中的 neo4j 显示 offline 。This database is currently offline.&lt;br /&gt;&lt;br /&gt;意思应该是 dump 数据没有成功导入，求大佬帮助😭</description><pubDate>Fri, 08 Sep 2023 17:43:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972177#reply0</guid></item><item><title>[分享发现] Google Domains 正式被 Squarespace 收购了</title><link>https://www.v2ex.com/t/972176#reply3</link><description>&lt;blockquote&gt;
+&lt;p&gt;Squarespace 是您域名的记录注册商。但在过渡期内，Google 仍会管理您的域名，并且您仍需遵守 Google 的隐私权政策和服务条款。您的客户和结算信息（如适用）随后将转移到 Squarespace 。转移完成后，您的数据将受 Squarespace 的隐私权政策约束，而您需要遵守 Squarespace 的服务条款。如需了解详情，请点击此处。如需详细了解 Squarespace 域名和 Squarespace 方案，请访问 Squarespace 域名页面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在 Google Domains 管理界面看到了上面的公告，尝试在 Squarespace 注册新域名，发现比如香港、日本、美国都会使用当地货币计算费用，但是使用土耳其 IP 会默认使用美元结算。Google Domains 现在也不在支持新域名注册了，但是还能续费。赶紧赶上最后一班廉价续费吧😂&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 17:38:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972176#reply3</guid></item><item><title>[问与答] Chrome 基于浏览器历史记录的定向广告，是不是会发送你的浏览记录到谷歌？</title><link>https://www.v2ex.com/t/972175#reply1</link><description>&lt;a href="https://news.ycombinator.com/item?id=37401909" rel="nofollow noopener" target="_blank"&gt;https://news.ycombinator.com/item?id=37401909&lt;/a&gt;</description><pubDate>Fri, 08 Sep 2023 17:07:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972175#reply1</guid></item><item><title>[分享发现] [功能] GIS 接口， 2D/3D AI 自动生成</title><link>https://www.v2ex.com/t/972174#reply0</link><description>&lt;p&gt;&lt;a href="https://github.com/CloudOrc/SolidUI/issues/156" rel="nofollow"&gt;https://github.com/CloudOrc/SolidUI/issues/156&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 17:06:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972174#reply0</guid></item><item><title>[问与答] 天威视讯只要用 alidns 或者腾讯 dns 就无法访问京东</title><link>https://www.v2ex.com/t/972173#reply1</link><description>&lt;p&gt;我很好奇 京东就没有管过这个问题吗
+例如把这个 ip 下掉 117.72.226.3 443 都不通&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 17:05:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972173#reply1</guid></item><item><title>[NAS] [Unraid 相关]在用 unraid 的朋友最近有遇到不定期 nas 失联只能强制重启的问题吗？</title><link>https://www.v2ex.com/t/972172#reply3</link><description>离谱不知道什么关键字触发提示包含敏感话题，换成图片了&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/KZJmZ2K.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/KZJmZ2K.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/A4wRREZ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/A4wRREZ.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 08 Sep 2023 16:43:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972172#reply3</guid></item><item><title>[宽带症候群] PT-Time 今日免费开注，有需要的可以去玩玩</title><link>https://www.v2ex.com/t/972171#reply0</link><description>&lt;p&gt;首先，拿这个邀请码我会获得上传量分成，ptt 有部分人不喜欢的内容，特此说明。&lt;/p&gt;
+&lt;p&gt;邀请码：yxyyvs&lt;/p&gt;
+&lt;p&gt;网址：&lt;a href="http://pttime.org" rel="nofollow"&gt;pttime.org&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 16:36:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972171#reply0</guid></item><item><title>[分享创造] 我一度怀疑，我是不是把轮子造错了</title><link>https://www.v2ex.com/t/972169#reply10</link><description>&lt;p&gt;加入工作台以实现 ChatGPT function calling 可以自定义，但是自定义的前提是，要有定义，从开发者制造的这些插件来看，好像有，又好像没有，创意工坊使用率无限接近 0 ，反倒是免费使用的 3.5 等模型用户量与日俱增，还是说，用户多数是小白，不懂插件的意义？
+&lt;img alt="tu" class="embedded_image" rel="noreferrer" src="https://x.imgs.ovh/x/2023/09/09/64fb45f05148d.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tu" class="embedded_image" rel="noreferrer" src="https://maymay5.com/upload/20230907/20230907040548214ed3cf-8e35-4eed-8a95-54e45c74e716.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tu" class="embedded_image" rel="noreferrer" src="https://maymay5.com/upload/20230907/202309070417264e374c92-6c07-4dfc-b615-8c2a6090d336.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="tu" class="embedded_image" rel="noreferrer" src="https://maymay5.com/upload/20230907/2023090704183580b08670-e04d-49c1-bc06-844672d6c73e.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 16:05:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972169#reply10</guid></item><item><title>[Apple] 二手买了个 iPod classic 7 代 160G, 我瞬间回去了</title><link>https://www.v2ex.com/t/972166#reply1</link><description>&lt;p&gt;iPod classic 停产的那年, 我还在上学, 原价买一个收藏我当时实在下不了决心. 这么多年过去了, 心心念却也不了了之.&lt;/p&gt;
+&lt;p&gt;几天前不知道浏览了什么突然唤醒了我的初心, 然后我在亚马逊上买了个亚马逊官方翻新的白色, 然后还觉得不够过瘾, 又在 eBay 上买了个黑色版本纯二手的.&lt;/p&gt;
+&lt;p&gt;虽然很多年前也把玩过其他人的, 但到手的时候, 那温润如玉的设计感, 还是很难让我相信这是停产十多年的产品了. 一切都回去了. 回到了那些年对苹果产品的热爱, 讨论每一个 UI 细节, 甚至回到了更早的初中时代, 回到了那个各种 mp3 和盗版歌曲, 回到了那个挂着个 128MB 容量的 mp3 却感觉拥有整个世界的感觉.&lt;/p&gt;
+&lt;p&gt;现在节奏太快了, iPhone 里各种订阅, 通知, 各种流媒体视频, 非常非常方便. 但我还是想偶尔停留一下, 用一下这个没有网络, 只能用数据线同步歌曲, 只能用有线耳机的, 还有实体键的小玩意.&lt;/p&gt;
+&lt;p&gt;也许美好的不是 iPod, 而是 18 岁那年的你.&lt;/p&gt;
+&lt;p&gt;=== 分割线 ===&lt;/p&gt;
+&lt;p&gt;聊点理性方面无聊的东西, 如果现在有这样一个 iPod 产品, 你会认同么?&lt;/p&gt;
+&lt;p&gt;可以和电脑无线同步 library, 但依然不能上网, 没有流媒体功能.&lt;/p&gt;
+&lt;p&gt;增加蓝牙模块, 可以配对无线耳机.&lt;/p&gt;
+&lt;p&gt;屏蔽变成无边框的常量屏, 无触控, 但依然保留滚轮设计. 铝合金机身, 金融边框, 背面毛玻璃之类的.&lt;/p&gt;
+&lt;p&gt;无摄像头. 保留一个 3.5 耳机孔. 保留一个锁定键.&lt;/p&gt;
+&lt;p&gt;升级电池和 SSD 存储.&lt;/p&gt;
+&lt;p&gt;继续提升音乐品质, 达到一个专业级或者发烧级, 至少是保持一个非常高的水准.&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 15:37:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972166#reply1</guid></item><item><title>[Python] 孩子学编程是不是首选 C++</title><link>https://www.v2ex.com/t/972165#reply18</link><description>孩子从图形化学到 Python ，Python 也学了有一年了，现在网上很多说法 Python 学一年就应该上 C++了，孩子今年六年级，懂的给个建议，是应该继续学 Python 还是上 C++。</description><pubDate>Fri, 08 Sep 2023 15:34:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972165#reply18</guid></item><item><title>[酷工作] Web3 前端开发-自驱合作</title><link>https://www.v2ex.com/t/972163#reply0</link><description>&lt;p&gt;帮转发一下&lt;/p&gt;
+&lt;p&gt;公司介绍：
+2018 年成立的 Web3 团队，经历过牛熊周期，并在过往有成功项目，核心团队毕业于普渡大学、密歇根州立大学、香港科技大学等院校，平均拥有 10 年以上的 Expedia 、华为、平安等资深大厂工作经验。
+团队注重精英化经营，追求极简、负熵的小团队，当然，也乐意与团队成员分享丰收的果实，所以希望你能够独当一面。&lt;/p&gt;
+&lt;p&gt;岗位职责：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;在 A 上执行 &lt;code&gt;ssh -R 6443:apiserver 内网 ip:6443 -N B-user@B-ip -p B-port&lt;/code&gt; 发起远程端口转发；从 A 上把自己 &lt;code&gt;.kube/config&lt;/code&gt; 拷贝到 B 上，把 config 中的 server 地址改成: &lt;code&gt;https://127.0.0.1:6443&lt;/code&gt;，此时在 B 上执行 &lt;code&gt;kubectl get po&lt;/code&gt; 会报错： &lt;/li&gt;
+&lt;li&gt;负责公司平台产品的基础架构的设计与实现；&lt;/li&gt;
+&lt;li&gt;优化 Web 前端性能，研究前端新技术；&lt;/li&gt;
+&lt;li&gt;开发、扩展前端代码框架，创造出极致的用户体验；&lt;/li&gt;
+&lt;li&gt;探索新型高效前端开发模式。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;Unable to connect to the server: x509: certificate is valid for 10.xx.yy.1, 172.xx.yy.zz, not 127.0.0.1
+&lt;p&gt;岗位要求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;认同并热爱 Web3 startup 的工作理念，接受创业公司的工作节奏；&lt;/li&gt;
+&lt;li&gt;强大的自驱力；&lt;/li&gt;
+&lt;li&gt;熟练使用现代前端开发框架和工具：Node.js, Vue/React, Typescript, Webpack.&lt;/li&gt;
+&lt;li&gt;优秀的英语书面阅读能力。&lt;/li&gt;
+&lt;li&gt;在 Github 有自己的开源项目，或对开源社区有过 Contribution ；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Email:21950775#&lt;a href="http://qq.com" rel="nofollow"&gt;qq.com&lt;/a&gt;  WeChat:purejeff5&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 15:23:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972163#reply0</guid></item><item><title>[酷工作] [深圳宝安][深圳个元科技]软件、资深软件、视觉工程师等多个岗位内推</title><link>https://www.v2ex.com/t/972162#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;公司介绍：成立于 2018 年底，团队来自斯坦福、谷歌、苹果的深度学习、精密机械、机器人专家。方向为 AI 机器视觉，主要做各种零部件、锂电池等表面缺陷检测，目前已完成 B 轮融资。公司主要客户群体是汽车零部件和锂电池行业，帮他们做设备检测和服务，典型的客户，汽配：福特。锂电池：冠宇&lt;/li&gt;
+&lt;li&gt;工作时间：早 9 晚 6 ，每天 7.5h ，一周五天，周末双休&lt;/li&gt;
+&lt;li&gt;入职即缴纳五险一金/公积金比例 10%，不打卡，定期团建/零食下午茶等&lt;/li&gt;
+&lt;li&gt;简历投递渠道： &lt;a href="mailto:jun125963@outlook.com"&gt;jun125963@outlook.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一、资深软件工程师（ 40-55k ）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;系统开发，构建一个灵活且易于配置的 AOI 系统&lt;/li&gt;
+&lt;li&gt;硕士及以上学历，精通 Python ，视觉图像经验优先&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;二、软件工程师（ 20-35k ）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;完成系统开发，构建一个灵活且易于配置的 AOI 系统&lt;/li&gt;
+&lt;li&gt;硕士及以上学历，精通 Python ，视觉图像经验优先&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;三、视觉软件工程师（ 20-35k ）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;光学专业，完成尺寸测量、定位算法和缺陷提取&lt;/li&gt;
+&lt;li&gt;精通一门编程语言，熟悉 Halcon 或 OpenCV&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;四、海外产品经理（ 40-50k ）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;海外市场洞察、需求分析，提升产品竞争力&lt;/li&gt;
+&lt;li&gt;硕士及以上学历，具备英语听说读写能力&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;五、大客户经理（底薪+提成）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开发新客户、销售高端机器视觉产品&lt;/li&gt;
+&lt;li&gt;本科及以上学历，具备工业自动化行业销售经验&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;六、视觉工程师（ 20-30k ）
+职位要求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;视觉硬件方案选型和优化，现场视觉方案的验证&lt;/li&gt;
+&lt;li&gt;硕士及以上学历，光学经验优先&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 08 Sep 2023 15:23:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972162#reply0</guid></item><item><title>[问与答] 关于云服务中的数据安全问题</title><link>https://www.v2ex.com/t/972161#reply4</link><description>&lt;p&gt;在思考一个问题，就是假设我已经在 azure 虚拟机的虚拟磁盘里存储了数据，当我把这个磁盘释放后，如果它被分配给了其他人，是不是也可以像普通 PC 一样把删除过的数据恢复出来。&lt;/p&gt;
+&lt;p&gt;不是很懂这个问题，大佬轻喷
+谢谢！&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 15:13:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972161#reply4</guid></item><item><title>[VPS] nginx 配置问题求解？</title><link>https://www.v2ex.com/t/972160#reply4</link><description>&lt;p&gt;如下：&lt;/p&gt;
+&lt;p&gt;我在 &lt;a href="http://127.0.0.1:5678/%E6%90%AD%E5%BB%BA%E4%BA%86" rel="nofollow"&gt;http://127.0.0.1:5678/搭建了&lt;/a&gt; xiaoya 的 alist ，直接访问没问题，但是通过    &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;location /xiaoya {   
+        
+  proxy_pass http://127.0.0.1:5678; 
+        
+  proxy_set_header Host $host;
+        
+  proxy_set_header X-Real-IP $remote_addr;
+        
+  proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; 
+
+    }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;第二种：ssh 动态转发&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;这样设置，通过域名 &lt;a href="http://abc.com/xiaoya" rel="nofollow"&gt;http://abc.com/xiaoya&lt;/a&gt; ，访问就会出错：Request failed with status code 405 。
+但是如果设置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;location / {   
+
+        proxy_pass http://127.0.0.1:5678; 
+
+        proxy_set_header Host $host;
+
+        proxy_set_header X-Real-IP $remote_addr;
+
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; 
+
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过 &lt;a href="http://abc.com" rel="nofollow"&gt;http://abc.com&lt;/a&gt; ，访问就没有问题。
+查询貌似是 xiaoya 的 alist 不支持路径访问，请问，该怎么做才能做到 &lt;a href="http://abc.com/xiaoya" rel="nofollow"&gt;http://abc.com/xiaoya&lt;/a&gt; 能够打开呢？&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 15:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972160#reply4</guid></item><item><title>[分享创造] 1 记 - 一款不需要花费太多时间的日记 App</title><link>https://www.v2ex.com/t/972159#reply4</link><description>&lt;p&gt;现在居然还有人开发日记 App ？&lt;/p&gt;
+&lt;p&gt;独立开发者传说中的“加速死亡三件套” —— 日记、Todo 、记账&lt;/p&gt;
+&lt;h2&gt;自我介绍&lt;/h2&gt;
+&lt;p&gt;我目前是一名没有工作的躺平青年，大学毕业两年，去年辞职考研落榜。&lt;/p&gt;
+&lt;p&gt;以前有过 Android 开发经验，现在的目标是希望成为一名独立开发者。&lt;/p&gt;
+&lt;h2&gt;为什么要做日记 App&lt;/h2&gt;
+&lt;p&gt;主要有两个原因：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;在 B 上执行 &lt;code&gt; ssh -D 1080 -q -N A-user@A-ip&lt;/code&gt;，将 A 的 &lt;code&gt;.kube/config&lt;/code&gt; 拷贝到 B 上，但把 config 中的 server 地址下面多加一个 socks5 代理 &lt;code&gt;proxy-url: socks5://localhost:1080&lt;/code&gt;，此时执行 &lt;code&gt;kubectl get po&lt;/code&gt; 正常得到 A 集群的 pod&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我是 5 月中旬才开始决定要做 iOS 开发的，学了一个多月之后就着手做第一个 App 。想从简单入手，边学边做，于是日记 App 是非常不错的选择。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我一直在用的一款日记 App （素签）已经停更 4 年了，我很早就想找个平替，但是并没找到。我希望日记 App 尽可能直观简洁，并且只能记录文字，一天只能有一条记录。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;想知道为什么第二种方式可以，但第一种不行，第一种到 apiserver 为什么会是 127.0.0.1 ？因为未来不允许从 B ssh 到 A ，第二种方式用不了该怎么访问 apiserver ？&lt;/li&gt;
-&lt;li&gt;上述情况能访问 apiserver 后，kubeadm join 节点还加不进去，不确定 kubelet 配置文件是不是也要加 &lt;code&gt;proxy-url: socks5&lt;/code&gt; 才行，是否可行？&lt;/li&gt;
-&lt;li&gt;这种公网节点加入内网集群，带宽流量大不大？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 07 Sep 2023 16:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971884#reply0</guid></item><item><title>[问与答] 三个月，国内手机号卡回收的奇迹，应该再也不会第二个了</title><link>https://www.v2ex.com/t/971883#reply9</link><description>&lt;p&gt;可以写的是，事情的时间长度达到了 3 个月，从 6 月中旬到现在 9 月 8 号。&lt;/p&gt;
-&lt;p&gt;如标题所示，这是一起国内运营商(Mou 通)的手机号卡回收的事情，但为什么要说奇迹呢？&lt;/p&gt;
-&lt;p&gt;因为&lt;em&gt;在我的帮忙下，我帮对方把 ta 异地归属的卡，还未进入号池里之前我办到了！&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;6 月中旬我收到了他给我的消息，手机号因为欠费没有缴纳费用，被回收了。但回收这件事，我感觉是已经过去几个月了，所以我知道了这件事后，我帮他跑遍了我当地（坐标福建某百万人口大城市）的联通&lt;strong&gt;所有可以选号、可能可以处理手机号被回收的事情&lt;/strong&gt;但得到的很多都是一个答复：号码需要本人来办理。&lt;/p&gt;
-&lt;p&gt;但我有联系一家联通营业厅(不发具体地点)成功得到了不一样的答复：等三个月，再来问，目前号码是空号还没有人用。&lt;/p&gt;
-&lt;p&gt;等到了 9 月 7 号(昨天)福建这里的台风暴雨，其实昨天就可以做好了(但台风带来的暴雨全市内涝好惨，路被封了好多公交车也是)，所以就以学生卡的套餐办理好了，但就是需要几年的合约期，期间&lt;em&gt;不允许销号、不允许过户给非学生&lt;/em&gt;。&lt;/p&gt;
-&lt;p&gt;现在号码在我这里帮他保管着了(不干违法事是我和他红线)我享用里面几十 G 流量和 20G SA 5G 流量和通话分钟数，我和他来一起承担学生卡的每月费用（我有打算），算是一种双赢吧。&lt;/p&gt;
-&lt;p&gt;如果各位有遇到这样的事情，刚好&lt;em&gt;你的朋友 or 家人，在你这个回收号码的归属地当地&lt;/em&gt;，能&lt;em&gt;愿意帮你跑腿，可能存在的时间成本和奔波成本（我已经和他花了几百块了）&lt;/em&gt;，能接受&lt;em&gt;办卡后的学生卡性质、套餐费用&lt;/em&gt;，就试着去“赎回”这号吧。&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 16:30:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971883#reply9</guid></item><item><title>[问与答] 求助，打球手指戳到 关节直接反过来了</title><link>https://www.v2ex.com/t/971882#reply0</link><description>如题，朋友帮我掰回来了，能动，一动就疼，不动不疼，有必要拍个片子看一下么？</description><pubDate>Thu, 07 Sep 2023 16:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971882#reply0</guid></item><item><title>[程序员] 公司要技术迁移，怎么尽快熟悉新框架</title><link>https://www.v2ex.com/t/971881#reply1</link><description>&lt;p&gt;框架由于是比较专门的业务领域原因，涉及到金融方面，用的框架是洋玩意儿，官方文档内容也挺多的。领导让对比现有框架和新框架有什么不同，分析未来新框架里面不同实现方式的优缺点。然后在这个框架方面的话，用到的都是线程安全，消息队列，传输协议这些感觉在知识储备方面对我的挑战有点大，是从结合 demo 入手比较好吗？以前我都是写 CRUD 的&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 16:00:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971881#reply1</guid></item><item><title>[问与答] 求助反编译.class 文件遇到困难（红包感谢）</title><link>https://www.v2ex.com/t/971879#reply3</link><description>最近有点闲，捣腾起一个比较老的 jsp 项目，其中部分逻辑是编译成了 class 文件，供 jsp 导入引用，现在遇到的问题是：&lt;br /&gt;&lt;br /&gt;1.我试图反编译.class 为.java ，修改其中部分逻辑并重新编译成新的.class ，流程是顺畅的，但是&lt;br /&gt;&lt;br /&gt;2.我用 jd-gui 和 luyten 都尝试过，两者反编译的出来的结果不太一致，但大体的逻辑框架，比如类函数名等一样&lt;br /&gt;&lt;br /&gt;3.我拿重新编译后的.class 供 jsp 调用，但是会报错 500 ，.class 文件中有日志输出逻辑用的 log4j ，但是查看日志，没有输出信息&lt;br /&gt;&lt;br /&gt;所以我猜测肯定是反编译有问题，但不太清楚问题出在哪里，有没有大佬相助，帮忙一看，红包感谢&lt;br /&gt;&lt;br /&gt;classes 文件： &lt;a href="https://github.com/7x0/classes/blob/main/classes.zip" rel="nofollow noopener" target="_blank"&gt;https://github.com/7x0/classes/blob/main/classes.zip&lt;/a&gt;</description><pubDate>Thu, 07 Sep 2023 15:44:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971879#reply3</guid></item><item><title>[游戏] RDR2 性能问题</title><link>https://www.v2ex.com/t/971878#reply0</link><description>&lt;p&gt;本人很喜欢 RDR2 （荒野大镖客 2 ），这几年总是会时不时拿出来重新赏识一番。但是自从 2022 年某个时期开始，RDR2 在我的电脑上表现变得十分差劲。差劲到了 1080P 全低在基准测试中绝大部分时间&lt;strong&gt;都不能满 60 帧。&lt;/strong&gt;这让我百思不得其解，我在 2020 年刚玩的时候，2K 中高画质也是能稳定 60 帧的。于是我检查了以下方面：&lt;/p&gt;
+&lt;h2&gt;不担心加速死亡吗？&lt;/h2&gt;
+&lt;p&gt;这个概念我前阵子不久在推特上看到过，感觉有一定道理。&lt;/p&gt;
+&lt;p&gt;但是！我从一开始都没有指望 1 记能挣到钱。&lt;/p&gt;
+&lt;p&gt;我开发 1 记的目的是为自己用，以及学习 iOS 开发。&lt;/p&gt;
+&lt;p&gt;（但我其实还是挺希望能在一年内能赚到购买 Apple 开发者账号的钱）&lt;/p&gt;
+&lt;h2&gt;1 记&lt;/h2&gt;
+&lt;p&gt;说了那么多，进入主题！&lt;/p&gt;
+&lt;p&gt;1 记是一款不需要花费太多时间的日记 App&lt;/p&gt;
+&lt;p&gt;每天记录一句话，回个信息的功夫把一天记下来&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://cdn.ipfsscan.io/ipfs/QmXUdYPQiaD3TALCvRunHTyczLKPrHgV7r15Vod3Q68siH?filename=一日一小记.png" /&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://cdn.ipfsscan.io/ipfs/QmQJMwaW6qfKCypvEYPP5XjQw7X2eLLcwj2qZ8rFLufQux?filename=有趣可不要独享.png" /&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://cdn.ipfsscan.io/ipfs/QmSyMdrPcvXcLwGUC2mAp7WptoomAguc35TohvTGAsGAGM?filename=你想要的，随时找到.png" /&gt;
+&lt;p&gt;1 记的主要特色上文提到过：&lt;strong&gt;界面尽可能直观简洁，并且只能记录文字，一天只能有一条记录。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;日记数据尤为重要，我花了很大精力放在日记数据导出上。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;散热&lt;/li&gt;
-&lt;li&gt;供电&lt;/li&gt;
-&lt;li&gt;NVIDIA 面板设置&lt;/li&gt;
-&lt;li&gt;Geforce Experience 设置&lt;/li&gt;
-&lt;li&gt;系统电源设置&lt;/li&gt;
-&lt;li&gt;系统游戏模式&lt;/li&gt;
-&lt;li&gt;内存完整性设置&lt;/li&gt;
-&lt;li&gt;OMEN Gaming Hub 设置（暗影精灵的散热/性能设置）&lt;/li&gt;
+&lt;li&gt;文本文件导出&lt;/li&gt;
+&lt;li&gt;文本导出到邮箱&lt;/li&gt;
+&lt;li&gt;csv 文件导出&lt;/li&gt;
+&lt;li&gt;json 文件导出&lt;/li&gt;
+&lt;li&gt;二进制文件导出&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;都无济于事。当然我考虑过是不是系统问题，但第一是我的电脑东西太多了以至于我真的不想重装系统，第二是我也没有足够多余的空间去再装一个操作系统用于测试。所以来看看大家伙有没有什么想法是我遗漏掉的。&lt;/p&gt;
-&lt;p&gt;笔记本电脑配置：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;CPU: i7-10750H&lt;/li&gt;
-&lt;li&gt;GPU：RTX 2070 Laptop&lt;/li&gt;
-&lt;li&gt;RAM: 16G&lt;/li&gt;
-&lt;li&gt;系统: 暗影精灵 6 Plus&lt;/li&gt;
-&lt;li&gt;操作系统: Windows 11 22H2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在运行基准测试时，监测到的环境指标如下（印象值）：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;硬件&lt;/th&gt;
-&lt;th&gt;占用&lt;/th&gt;
-&lt;th&gt;温度&lt;/th&gt;
-&lt;th&gt;功耗&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;CPU&lt;/td&gt;
-&lt;td&gt;40% - 60%&lt;/td&gt;
-&lt;td&gt;70℃&lt;/td&gt;
-&lt;td&gt;40W&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;GPU&lt;/td&gt;
-&lt;td&gt;40%&lt;/td&gt;
-&lt;td&gt;60℃&lt;/td&gt;
-&lt;td&gt;80W&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;RAM&lt;/td&gt;
-&lt;td&gt;2G&lt;/td&gt;
-&lt;td&gt;N/A&lt;/td&gt;
-&lt;td&gt;N/A&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;VRAM&lt;/td&gt;
-&lt;td&gt;4G&lt;/td&gt;
-&lt;td&gt;N/A&lt;/td&gt;
-&lt;td&gt;N/A&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;比较奇怪的是，在某个范围内（ 1080P 全低 - 启用了 DLSS 性能模式的 4K 和不吃 GPU 性能选项的高以及吃 GPU 性能选项的中），帧率变化是不大的，这时 GPU 占用逐渐的才能吃满，只有全部开到全高的时候帧率才会下降到 10 帧左右。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;至于图形 API ，DX 12 的性能表现比 Vulkan 还差，所以按下不表&lt;/em&gt;&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 15:40:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971878#reply0</guid></item><item><title>[程序员] 最近在学习前端， js 到底有多少框架啊，当前流行的又到底有哪些？好疑惑</title><link>https://www.v2ex.com/t/971877#reply9</link><description></description><pubDate>Thu, 07 Sep 2023 15:33:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971877#reply9</guid></item><item><title>[站长] 个人博客被入侵，交比特币赎数据</title><link>https://www.v2ex.com/t/971876#reply6</link><description>&lt;p&gt;事情是这样的，我在大学期间学习编程时，为练手而搭建了一个网站，作为个人博客，后来临近毕业，工作太忙就没留意，前些时候想打开浏览，显示访问异常，上服务器看发现数据库内所有数据被删除殆尽，仅留下一张表，表里有一条记录，内容是英文，翻译过来大概就是 [数据已经被某个他删除干净，目前他手里有一份备份，想要赎回数据的话需要下载某个浏览器，按照他的要求交付比特币] 。&lt;/p&gt;
-&lt;p&gt;平时看惯了物联网上的黑客入侵事件，勒索对象一般不都是大公司大组织嘛，怎么会落到我头上，第一想法是震惊，因为数据库里就是一些博文和访问数据，不值几个钱，这都有贼惦记啊:joy:，万幸我平时写的博文，本地存了 markdown 作为备份，要不然要难过一阵子。&lt;/p&gt;
-&lt;p&gt;这件事给我敲响了警钟，保卫小博客安全，刻不容缓，我不知道黑客是如何入侵，想着他应该是以某种方法先进入了我的数据库，因为他在数据库创建了很多个超级用户，我查看日志，发现在多个深夜，有人在尝试连接数据库，但是日志上的内容我看不大懂，作为对策就只删除了非法创建的用户，修改密码，端口。&lt;/p&gt;
-&lt;p&gt;计算机方面的知识，我属于半路出家，对于网络安全，真是一窍不通，不知道我的对策有没有效，平时在 V 站，经常看见有 V 友互相分享自己的博客，有相同遭遇的 V 友吗，有懂这方面知识的 V 友能给一些建议，或者学习的书籍吗，你的任何回复，将感激不尽。&lt;/p&gt;
-&lt;p&gt;对了，附加信息，我的博客网站是：IIS + flask （ python ） + postgresql ，搭建在腾讯云服务器上，有 SSL 证书的。&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 15:32:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971876#reply6</guid></item><item><title>[问与答] 你们会一个一个看软件商店的用户评论或者反馈邮件吗？</title><link>https://www.v2ex.com/t/971875#reply0</link><description>&lt;p&gt;独立开发者的 App 可能会有很多的评论，里面有价值的评论很多，有的是很有价值的建议，有的是无意义的吐槽，有的是不同语言的评论，把所有的评论看完又费时费力？邮件一多的话，会花很多时间。&lt;/p&gt;
-&lt;p&gt;你们会有类似的问题吗？是咋解决的？&lt;/p&gt;</description><pubDate>Thu, 07 Sep 2023 15:29:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971875#reply0</guid></item><item><title>[程序员] 一夜赔掉一套房？使用对象存储托管静态网站如何防止被攻击被刷流量？</title><link>https://www.v2ex.com/t/971873#reply18</link><description>不想搞备案，也不想整 VPS 运维，但又想提高内地访问网站的速度，于是···&lt;br /&gt;计划在华为云 OBS 对象存储（香港）节点中托管个人网站，托管是没问题。&lt;br /&gt;采用这样的方案，有什么方法可以既能保证网站的正常访问，又能确保一定的安全性呢？&lt;br /&gt;比如怎样限制每日/每月的公网流量的上限？&lt;br /&gt;又或者限制单位时间内访问的次数？&lt;br /&gt;&lt;br /&gt;请求各位大佬赐教~</description><pubDate>Thu, 07 Sep 2023 15:05:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971873#reply18</guid></item><item><title>[Apple] 网站被入侵，勒索赎数据</title><link>https://www.v2ex.com/t/971872#reply3</link><description></description><pubDate>Thu, 07 Sep 2023 15:02:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/971872#reply3</guid></item></channel></rss>
+&lt;p&gt;并且以后还可能支持更多导出格式。&lt;/p&gt;
+&lt;p&gt;另外，1 记 iCloud 同步是默认开启并且不能关闭的。&lt;/p&gt;
+&lt;p&gt;App 是免费 + 内购模式。&lt;/p&gt;
+&lt;p&gt;有连续包季（ 3 元）、连续包年（ 9.8 元）和永久买断套餐（ 18.8 元）。&lt;/p&gt;
+&lt;p&gt;其实免费版基本够用了（反正我自己是够用了），包含了所有的核心功能。付费版的功能只是起到画龙点睛作用。&lt;/p&gt;
+&lt;p&gt;由于没有任何经验，折腾了半个月才上架成功，现在 App Store 还搜不到，点击下面链接直达：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/id6453160849" rel="nofollow"&gt;1 记 - 一天记录一句话&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有兴趣的朋友们欢迎下载来体验一下，希望大家能捧个场，非常感谢。&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 14:50:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972159#reply4</guid></item><item><title>[问与答] 2017 年房贷商贷 4.1%（当时打了 9 折.）</title><link>https://www.v2ex.com/t/972158#reply1</link><description>&lt;p&gt;是不是 9 月这么波调整利率自己无缘了？ 0757 农行。&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 14:48:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972158#reply1</guid></item><item><title>[问与答] 大佬们，抖音自动回复卡片怎么实现</title><link>https://www.v2ex.com/t/972157#reply0</link><description>&lt;p&gt;卡片跳转微信，这个好弄，自动回复卡片要怎么实现？有了解的吗&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 14:47:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972157#reply0</guid></item><item><title>[程序员] Bun 1.0 正式公布了，还记得那个比 node.js 快 5 倍的 javascript core 运行时吗。</title><link>https://www.v2ex.com/t/972156#reply5</link><description>&lt;p&gt;&lt;a href="https://bun.sh/blog/bun-v1.0" rel="nofollow"&gt;地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/S4SLDH6.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Sep 2023 14:39:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972156#reply5</guid></item></channel></rss>
