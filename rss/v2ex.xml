@@ -1,103 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 10 Sep 2023 03:32:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MacBook Air] MacBook Air M2 用了一年了，电池健康怎么还大于 100%?</title><link>https://www.v2ex.com/t/972425#reply0</link><description>&lt;p&gt;虽然我不在乎电池健康，但是看到 CoconutBattery 统计的数据，感觉不太正常呀。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;th&gt;Cycle&lt;/th&gt;
-&lt;th&gt;Percentage&lt;/th&gt;
-&lt;th&gt;Max Capacity&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2022-09-25 11:47:57&lt;/td&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;104.01&lt;/td&gt;
-&lt;td&gt;4746&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2022-10-31 12:18:41&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;103.46&lt;/td&gt;
-&lt;td&gt;4721&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2022-11-01 13:40:11&lt;/td&gt;
-&lt;td&gt;16&lt;/td&gt;
-&lt;td&gt;103.02&lt;/td&gt;
-&lt;td&gt;4701&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2022-11-22 11:32:44&lt;/td&gt;
-&lt;td&gt;19&lt;/td&gt;
-&lt;td&gt;103.2&lt;/td&gt;
-&lt;td&gt;4709&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2023-02-18 10:03:11&lt;/td&gt;
-&lt;td&gt;37&lt;/td&gt;
-&lt;td&gt;96.49&lt;/td&gt;
-&lt;td&gt;4403&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2023-09-09 20:23:49&lt;/td&gt;
-&lt;td&gt;73&lt;/td&gt;
-&lt;td&gt;100.66&lt;/td&gt;
-&lt;td&gt;4593&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Sun, 10 Sep 2023 03:27:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972425#reply0</guid></item><item><title>[问与答] NodeJS 中 ECMAScript module loader 为什么说他是异步的？</title><link>https://www.v2ex.com/t/972424#reply0</link><description>NodeJS 官网文档有这样一段&lt;br /&gt;&lt;br /&gt;There is the ECMAScript module loader:&lt;br /&gt;It is asynchronous.&lt;br /&gt;It is responsible for handling import statements and import() expressions.&lt;br /&gt;&lt;br /&gt;问：为什么说 ES Module 的加载是异步的？</description><pubDate>Sun, 10 Sep 2023 03:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972424#reply0</guid></item><item><title>[Surge] Surge-Mac-五人车差三位</title><link>https://www.v2ex.com/t/972423#reply0</link><description>之前开过 ios 版本的车满了&lt;br /&gt;又入手了一个 Mac 版本来三位&lt;br /&gt;734.51RMB 入手的  购买时间 20200905 可看账单&lt;br /&gt;上车后拉 tg 群组  后续根据续费方案协商平摊  自行反激活换设备这些啥的就不用特地介绍了 系统本身支持&lt;br /&gt;150 一位 Tg：echommm</description><pubDate>Sun, 10 Sep 2023 03:18:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972423#reply0</guid></item><item><title>[问与答] 大麦猫眼票星球抢演唱会门票有没有什么科技</title><link>https://www.v2ex.com/t/972422#reply1</link><description>想看周杰伦。</description><pubDate>Sun, 10 Sep 2023 03:10:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972422#reply1</guid></item><item><title>[程序员] 100 元求一个能保存飞书页面为图文版本的方案</title><link>https://www.v2ex.com/t/972421#reply0</link><description>&lt;p&gt;需求：寻找一个能将飞书文章页面保存为离线的图文版 HTML 的方案&lt;/p&gt;
-&lt;p&gt;详情：这个问题已经困扰我很久了，因为工作原因，很多资料都在飞书上，但是不是我写的，有些写的好的想备份一份放 obsidian ，但是飞书好像做了反爬或者其他的一些工作，无法保存完整页面，我不是做前端的，没有深入分析过&lt;/p&gt;
-&lt;p&gt;已测试 SingleFile 及 savePageWe 扩展，只能保存到首屏的内容，GoFullPage 扩展可以截图全屏，但我不想要图片和 PDF 版本的，想要 HTML 版本的&lt;/p&gt;
-&lt;p&gt;截止时间：2023 年 10 月 1 日前有效，采纳此贴中回复的第一个有效方案，需免费方案&lt;/p&gt;
-&lt;p&gt;测试链接： &lt;a href="https://uwdpzjnryu8.feishu.cn/docx/JGUpdkP0XoOwR0xvp9Xc2ME5ndh" rel="nofollow"&gt;https://uwdpzjnryu8.feishu.cn/docx/JGUpdkP0XoOwR0xvp9Xc2ME5ndh&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 03:10:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972421#reply0</guid></item><item><title>[Java] 请教一个面试问题：关于 Spring 底层问题</title><link>https://www.v2ex.com/t/972420#reply0</link><description>&lt;p&gt;我看到很多面试官在面试的时候，尤其是中大厂都会提问：Spring AOP 的底层原理，或者说 Spring IOC 的原理。&lt;/p&gt;
-&lt;p&gt;请问遇到这种问题该如何回答才能让面试官觉得满意？这种问题我也有问过 GPT 或者上 Spring 官方文档看，感觉如果按照上面的来说也不是很全面，例如 &lt;a href="https://docs.spring.io/spring-framework/reference/core/aop/proxying.html" rel="nofollow"&gt;Proxying Mechanisms&lt;/a&gt; 。如果看源码的话可能要考虑的东西太多了，求各位懂的哥哥帮助一下。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 03:03:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972420#reply0</guid></item><item><title>[问与答] 帮忙推荐一款路由器</title><link>https://www.v2ex.com/t/972419#reply2</link><description>目前的网络：&lt;br /&gt;光猫（改桥接）---rb750gr3 （拨号）---交换机（千兆）&lt;br /&gt;交换机下联了小米 cr8806 （ ap 模式）、N1 （旁路由，给 Apple TV 用）、Apple TV （网关指向 N1 ）&lt;br /&gt;&lt;br /&gt;现在想法是想换一个无线路由器，看了 redmi ax6000 ，看见有人说做 ap 性能过剩，一般建议再搞个 shellclash ，如果这样的话，是不是可以替换掉 n1 ？&lt;br /&gt;&lt;br /&gt;针对目前的网络有什么问题或者优化项吗？以及 ax6000 这款路由器做 ap 实际表现如何？</description><pubDate>Sun, 10 Sep 2023 03:00:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972419#reply2</guid></item><item><title>[程序员] 目前支持透明代理的代理软件有哪些？</title><link>https://www.v2ex.com/t/972418#reply2</link><description>&lt;p&gt;目前有哪些代理可以支持透明代理的？&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 03:00:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972418#reply2</guid></item><item><title>[分享创造] 用大模型练手开发了一个收藏链接的微信机器人，转发文章全文保存后可以直接对话问问题</title><link>https://www.v2ex.com/t/972417#reply2</link><description>&lt;p&gt;我是一名开发者，大模型很强大，我就想用大模型做点东西练下手，我一直懒得管理自己收藏的链接，因为觉得分类、打标签很累，但是还是经常会找一个有用的链接找半天，大模型具备理解文本的能力，我就想用大模型记住这些链接，然后我也不用去分类、打标签，当我要找资料的时候直接问大模型就可以了，我做了一个 demo ，发现效果还蛮好的。&lt;/p&gt;
-&lt;p&gt;这个 demo 是基于企业微信机器人开发的，我们大部分时间都是使用手机，并且我觉得大模型的工具应该把对话作为最重要的交互方式，感觉是请了一个助手帮我在做事情一样，功能很简单，加这个微信机器人后，把要收藏的链接转发给代体记忆助手就可以了，代体就会自动保存全文，并且用大模型处理文本内容。然后你就可以用语意化的方式问大模型问题了。
-&lt;img alt="代体图片" class="embedded_image" rel="noreferrer" src="https://tanwei-1302199549.cos.ap-shanghai.myqcloud.com/c66173ffbab668948a54e01ec999a8d.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;感兴趣的同学可以加我微信，我发你试试，因为大模型接口都是要付费的，就不直接放代体记忆助手的微信了。
-&lt;img alt="代体图片" class="embedded_image" rel="noreferrer" src="https://tanwei-1302199549.cos.ap-shanghai.myqcloud.com/356d489409336e128ec55cf249bb32d.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 02:56:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972417#reply2</guid></item><item><title>[推广] 微信搜索鹿街文化，定制你的手机壳图案哦</title><link>https://www.v2ex.com/t/972415#reply0</link><description>刚写完一款小程序，加入了 AI 生成的功能，欢迎前来体验，再提提意见</description><pubDate>Sun, 10 Sep 2023 02:46:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972415#reply0</guid></item><item><title>[问与答] pixel 5 Wi-Fi 不断自动断开重连</title><link>https://www.v2ex.com/t/972414#reply2</link><description>最近收了一个 pixel5 作为备机，刚到手设置的时候都很好用，一切都很正常。然后重启过后发现手机一直不能稳定连接 Wi-Fi ，连上几秒钟就自动断开，然后再重连再断开，无法正常使用。在网上搜了一些方法，包括重启手机、清空网络设置、重启路由、升级路由器版本等都没有效果，2.4G 5G 分别设置都不行。&lt;br /&gt;进一步的研究发现，连接华为和 linksys 的路由都这样，但联通光猫的 Wi-Fi 就很正常。连接 iPhone 热点也是正常的，而且连上热点后手动切到路由器 Wi-Fi 多数情况就能稳定连接了，但重启或开启关闭飞行模式后就又不断重连了。先连可以连接的光猫 Wi-Fi ，再连普通 Wi-Fi 也还是不行。&lt;br /&gt;请问大家有什么思路吗？谢谢！</description><pubDate>Sun, 10 Sep 2023 02:39:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972414#reply2</guid></item><item><title>[问与答] 有没有可以在国内漫游的外国手机卡推荐呢？</title><link>https://www.v2ex.com/t/972413#reply3</link><description>有没有可以国内漫游的美国或者其他国家比较适合接收短信的手机卡。想要做 tiktok 还有做注册各种平台的固定号码。有没有大佬知道性价比高的卡？</description><pubDate>Sun, 10 Sep 2023 02:31:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972413#reply3</guid></item><item><title>[生活] 突然感觉世界好吵闹 只想安静</title><link>https://www.v2ex.com/t/972411#reply3</link><description>&lt;p&gt;昨晚看了封神电影，听了抖音一个非正式情感直播…今早又刷了抖音 美国零元购刷新了认知…&lt;/p&gt;
-&lt;p&gt;抖音卸了很久又装回来了 感觉世界好吵啊！对抖音真是又爱又恨&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 02:22:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972411#reply3</guid></item><item><title>[Apple] Apple Pay 充值八达通，需要什么卡才可以？</title><link>https://www.v2ex.com/t/972410#reply10</link><description>我不是用的旅客版，就是常规版的八达通，我想要那个新客 150 元的奖励，但是使用 Apple Pay 付款时，无法使用我的银联卡。悲催的是 Apple Pay 也无法添加招行外币卡这种啊</description><pubDate>Sun, 10 Sep 2023 02:18:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972410#reply10</guid></item><item><title>[GitHub] 这是一种新的 Github 诈骗方式吗？</title><link>https://www.v2ex.com/t/972408#reply1</link><description>&lt;p&gt;早上突然收到了一封来自 Github 的邮件邀请我进入一个名叫 NGINX 的企业。
-看了下企业 Doc &lt;a href="https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-organizations-in-your-enterprise/adding-organizations-to-your-enterprise" rel="nofollow"&gt;https://docs.github.com/en/enterprise-cloud@latest/admin/managing-accounts-and-repositories/managing-organizations-in-your-enterprise/adding-organizations-to-your-enterprise&lt;/a&gt;
-是不是代表我一旦同意，这个组织账户就会被转移到这个企业下并且可以设置单点登录，IP 允许列表，控制人员组成。（这不是约等于被盗了吗？&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://i.imgur.com/rbPmVno" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rbPmVno.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/kUdpUqh" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/kUdpUqh.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 02:12:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972408#reply1</guid></item><item><title>[Go 编程语言] bufio.Buffered 返回 0 一个未解决 bug</title><link>https://www.v2ex.com/t/972407#reply3</link><description>&lt;p&gt;最近再练手精进 网上弄了段代码 运行发型 bufio.Buffered()永远返回 0 &lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package main
-
-import (
-        "bufio"
-        "fmt"
-        "strings"
-)
-
-func main() {
-        //原始字符串
-        str := "12345678901234567890123456789012345678901234567890"
-
-        //将字符串转换为流式 I/O 对象
-        strReader := strings.NewReader(str)
-
-        //设置读缓存区大小
-        bufReader := bufio.NewReaderSize(strReader, 16) //16byte
-
-        //缓存读
-        p := make([]byte, 4)
-        n, err := bufReader.Read(p)
-        if err != nil {
-                panic(err)
-        }
-
-        buffered := bufReader.Buffered()
-        fmt.Printf("buffered:%d, content:%s\n", buffered, p[:n])
-}
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 10 Sep 2023 13:17:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 截至目前 (9 月), 有无国内开通 openai api 的方法?</title><link>https://www.v2ex.com/t/972527#reply0</link><description>&lt;p&gt;截至目前, 有无国内开通 openai api 的方法? &lt;/p&gt;
+&lt;p&gt;想用 chatgpt 的 api 做个套壳网站, 给家人用.&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 13:16:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972527#reply0</guid></item><item><title>[生活] 脱单实验室这个相亲公众号大家有了解吗</title><link>https://www.v2ex.com/t/972526#reply0</link><description>&lt;p&gt;知乎有个叫&lt;strong&gt;路人甲&lt;/strong&gt;的大 V 创办的，去他的线下店了解了一下，线下 1V1 红娘服务，聊了几个小时，一大堆语言技巧，有些听着都想笑。最后询问价格报了 49999 ，29999 ，19999 3 档价格(4 个月服务时间)，表示太贵不在接受范围内，一顿拉扯最后报价 10100 ，3 个月服务期，还让别跟其它人说，就是给我的最低价，很好笑但忍住了。之前调研了一圈这个价是在正常范围内表示接受。&lt;/p&gt;
+&lt;p&gt;完全的看人下菜，你收入高，他套餐报价就高，你要是真不砍价那就是大怨种，就这还担心托&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 13:15:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972526#reply0</guid></item><item><title>[分享发现] Live Photo 转换器-实况照片转换视频或 GIF 动图</title><link>https://www.v2ex.com/t/972525#reply0</link><description>&lt;p&gt;轻松将 Live Photo(实况照片)快速转化为视频、GIF ！&lt;/p&gt;
+&lt;p&gt;你是否遇到过以下情况？
+拍了一段好看的 Live Photo ，但是第三方的应用却不支持，只能作为照片发出来分享。&lt;/p&gt;
+&lt;p&gt;Live Photo 转换器帮你解决这个问题！&lt;/p&gt;
+&lt;p&gt;[功能介绍]
+• 批量转换为视频、GIF
+• Live Photo 转高清视频
+• Live Photo 转高清 GIF 动画
+• Live Photo 转化格式后分享给好友或保存到相册
+• 支持自定义分享/保存选项
+• 支持添加滤镜&lt;/p&gt;
+&lt;p&gt;下载地址： &lt;a href="https://apps.apple.com/cn/app/id1476126537" rel="nofollow"&gt;https://apps.apple.com/cn/app/id1476126537&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 13:13:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972525#reply0</guid></item><item><title>[分享创造] Stable Diffusion XL 免费体验站</title><link>https://www.v2ex.com/t/972523#reply0</link><description>&lt;p&gt;SDXL 是 Stable Diffusion 系列最新发布的画图模型，出图质量很高，已经可以比肩 Midjourney V4 的水平，也在有很多新的 fine tune 模型跟进。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stablediffusionai.ai" rel="nofollow"&gt;https://stablediffusionai.ai&lt;/a&gt; ，免费提供 SDXL 的体验，不需要登陆也不需要付费，可以直接体验文生图，欢迎试试。&lt;/p&gt;
+&lt;p&gt;现在只是跑通了出图的流程，后续有量的话，会继续增加更多的参数设置和模型选择。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 13:03:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972523#reply0</guid></item><item><title>[问与答] iPad 下适合儿童的浏览器有推荐吗？</title><link>https://www.v2ex.com/t/972522#reply1</link><description>&lt;p&gt;想限定只允许访问几个教材配套的课件网站&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:50:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972522#reply1</guid></item><item><title>[酷工作] [海外] 海外工作正规合法工作，有兴趣可加 TG： itneitui2023</title><link>https://www.v2ex.com/t/972521#reply0</link><description>&lt;p&gt;招聘安卓，iOS ，Java, 测试，前端，测试，产品，UI ，运维，DBA 等，薪资 open 。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:40:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972521#reply0</guid></item><item><title>[问与答] 哪位可以指点一下，谷歌地图 商家维护中的，“最新动态”更新 具体怎么操作呢？</title><link>https://www.v2ex.com/t/972520#reply0</link><description>&lt;p&gt;大家好，有个问题一直没能得到解决。恳请各位有经验的朋友，指点一下。&lt;/p&gt;
+&lt;p&gt;1：在谷歌地图上搜索到某个商家，点击进去以后，有一些商家，下面会显示，由商家业主提供，每天会更新相关产品的图片和内容。
+这个内容 我猜测 是 Google my business 后台 可以设置时间，自动更新。但是我没找到。&lt;/p&gt;
+&lt;p&gt;2：网上查询了一些资料，有的说是 要在 Google ads 里面去更新。（我不确定是否是这样？）&lt;/p&gt;
+&lt;p&gt;3：这种自动 相关产品 内容和图片 是在 Google my business ，还是在 Google ads 呢？ 到底 是不是每天可以设置自动更新呢？&lt;/p&gt;
+&lt;p&gt;有了解这个的朋友，可以指点一下吗？谢谢。&lt;/p&gt;
+&lt;p&gt;我无法上传图片！&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:35:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972520#reply0</guid></item><item><title>[程序员] Strapi + MySQL 如何实现实时显示搜索结果的功能？</title><link>https://www.v2ex.com/t/972519#reply2</link><description>&lt;p&gt;最近用上了 Strapi ，感觉很方便，很多常规的 CRUD 需求都可以完成，给自己省下不少时间，感觉蛮好的。&lt;/p&gt;
+&lt;p&gt;现在想开发一个新功能，就是类似于在 12306 网站上买票时，在出发地和到达地的搜索框中输入内容时，实时显示匹配结果的这么一个功能。不知道基于 Strapi + MySQL 的架构实现这个需求的难度高不高？有没有相关的文献或者项目可以参考？&lt;/p&gt;
+&lt;p&gt;这个功能是给自己用的，并不是必需要实现，如果能做出来自然更好，也算是练手了。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:31:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972519#reply2</guid></item><item><title>[硬件] 幻 15 笔记本更换硅脂后 Dota2 帧率极低</title><link>https://www.v2ex.com/t/972517#reply8</link><description>&lt;p&gt;&lt;img alt="1694347496633.png" class="embedded_image" rel="noreferrer" src="https://x.imgs.ovh/x/2023/09/10/64fdb0f20f168.png" /&gt;&lt;/p&gt;
+&lt;p&gt;幻 15 2019 款 i7-9750H 1660Ti 显卡
+之前打 Dota2 能达到 120 帧，但是有时候会掉帧到 70-80 帧会感觉有点卡，以为是散热问题，所以买了利民的硅脂和导热垫进行更换。换完之后更加卡了，只有 20 多帧，上面的图片是现在运行 Dota2 时的温度和功率检测，换硅脂前是 Win10 ，现在是 Win11 ，驱动更新成了最新的，请帮忙分析一下可能是什么问题？功率墙或者温度墙？硅脂换的不好？导热垫厚度不好？&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:12:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972517#reply8</guid></item><item><title>[macOS] macOS 上有没有一款全局快捷键调出窗口的翻译软件</title><link>https://www.v2ex.com/t/972516#reply4</link><description>&lt;p&gt;每次翻译都要打开浏览器，再打开 Google 翻译页面，感觉有点麻烦。&lt;/p&gt;
+&lt;p&gt;macOS 上有没有一款全局快捷键调出窗口的翻译软件，类似打开 Spotlight 。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 12:10:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972516#reply4</guid></item><item><title>[Apple] 你的 mac 多久没关机或者重启了？</title><link>https://www.v2ex.com/t/972515#reply13</link><description>更新系统不算的话，我发现我的 mac 本买来几乎没有关机过，&lt;br /&gt;&lt;br /&gt;使用场景是办公，非码农，</description><pubDate>Sun, 10 Sep 2023 11:57:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972515#reply13</guid></item><item><title>[分享创造] 自动化脚本程序 Ursa 开发记录（1）</title><link>https://www.v2ex.com/t/972513#reply0</link><description>&lt;p&gt;增加了一个 demo：手动新建一个文件夹，名字叫“新建文件夹”，在工作台上点击运行，脚本会切换到文件夹窗口并创建一个文件夹。&lt;br /&gt;
+启动程序 Ursa.exe ，需要管理员权限，8000 端口访问。&lt;br /&gt;
+不知道为啥 tar 打包程序 release 之后，下载下来的 rar 解压完还有一层，加了--skip 未果，有懂的大佬指点下。&lt;/p&gt;
+&lt;p&gt;项目地址： &lt;a href="https://github.com/yx179971/ursa-frontend" rel="nofollow"&gt;https://github.com/yx179971/ursa-frontend&lt;/a&gt;&lt;br /&gt;
+欢迎大家使用提 issue 或者在评论区留言。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;ps：现在的开源库真是越来越 nb 了，小半天时间就可以组装一个 BI 程序，以前在公司写个交叉表都要老命。release 列表有 exe 可以直接下载使用，启动有点慢。项目地址： &lt;a href="https://github.com/yx179971/lit" rel="nofollow"&gt;https://github.com/yx179971/lit&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 11:48:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972513#reply0</guid></item><item><title>[问与答] 请教关于实现 Windows 桌面软件开发 实现导入图片素材到剪映专业版 功能。</title><link>https://www.v2ex.com/t/972512#reply0</link><description>&lt;p&gt;我想实现 Windows 桌面软件调用剪映（目前不太确定剪映是否提供类似的接口），把素材导入到剪映中 创建一个草稿。&lt;/p&gt;
+&lt;p&gt;搜索了一下浏览全网 关于自研桌面软件如何对接剪映的介绍非常少。&lt;/p&gt;
+&lt;p&gt;万能的 v 友们有实现过类似的需求 分享下实现的思路。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 11:43:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972512#reply0</guid></item><item><title>[程序员] 想问下各位万能的 V 友， MacBook Air 和 MacBook Pro 买那个更推荐？</title><link>https://www.v2ex.com/t/972511#reply12</link><description>&lt;p&gt;对性能和待机时长有要求，且对屏幕分辨率有要求。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 11:37:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972511#reply12</guid></item><item><title>[生活] 吐槽 A 股亏钱</title><link>https://www.v2ex.com/t/972509#reply7</link><description>一个玩的好的大学同学前几天告诉我他炒股亏了将近 90 个，然后其中有 40 多个是贷款的，有 30 多个是短期高利息的，类似借呗、度小满这种，真是让我吃惊，这几年聚餐时只是偶尔听说他炒股亏了，没想到亏了这么多还贷款加仓，感觉太上头了。现在他来问我和另外两个同学借钱填下短期贷款的坑，长期的他再慢慢还，然后保证了后面不在碰 A 股了，专心工作还钱，股票账户的钱也全提出来还了。&lt;br /&gt;     坐标深圳，同学是 18 年来的深圳，后面入了深户，炒股估计是想赚钱在深圳买房，没想到栽了跟头。同学目前年工资差不多 30 个，有个女朋友谈了一年多，不过估计也要分了，一切都要从零开始了。</description><pubDate>Sun, 10 Sep 2023 11:32:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972509#reply7</guid></item><item><title>[问与答] 关于 Atom 在 M1 Mac 上的一个 bug 体验</title><link>https://www.v2ex.com/t/972506#reply2</link><description>&lt;p&gt;简单来说&lt;/p&gt;
+&lt;p&gt;我的 mac 在把 atom 的窗口关闭以后，就打不开了&lt;/p&gt;
+&lt;p&gt;或者双击窗口边缘将窗口缩小放大（正常软件比如 safari 就是缩小放大）&lt;/p&gt;
+&lt;p&gt;图 1 ，这是查看所有目前显示的窗口，可以看到 atom 的窗口只有一个图标，这是很反常的
+&lt;img alt="1" class="embedded_image" rel="noreferrer" src="https://cdn.staticaly.com/gh/B3nDan/picx-images-hosting@master/20230910/Shot-2023-09-10-at-18.53.49@2x.1dgu4bctokw0.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;图 2 ，这是直接右键 dock 栏应用，查看已有窗口，可以看到目前实际窗口是有一个文件被打开的
+&lt;img alt="2" class="embedded_image" rel="noreferrer" src="https://cdn.staticaly.com/gh/B3nDan/picx-images-hosting@master/20230910/Shot-2023-09-10-at-18.54.18@2x.6m4ajl0um9hc.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;图 3 ，这是直接右键 dock 栏应用，然后点击显示所有窗口的效果，亦可以看到只有图标，无任何预览
+&lt;img alt="3" class="embedded_image" rel="noreferrer" src="https://cdn.staticaly.com/gh/B3nDan/picx-images-hosting@master/20230910/Shot-2023-09-10-at-18.54.49@2x.22azktfsy6dc.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;哎，第一次用就遇到这糟心事，也不知道有没有人遇到过，好累啊，技术力不够排查不出来，烦死了&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 11:09:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972506#reply2</guid></item><item><title>[macOS] macOS 中是如何将 utun 网卡接口接管所有网络请求的？</title><link>https://www.v2ex.com/t/972504#reply8</link><description>&lt;p&gt;比如使用 ClashX Pro 开启了 Enhanced Mode 后，通过 &lt;code&gt;ifconfig&lt;/code&gt; 可以看到有一个 &lt;strong&gt;utun10&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;utun10: [
+    {
+      address: '198.18.0.1',
+      netmask: '255.255.0.0',
+      family: 'IPv4',
+      mac: '00:00:00:00:00:00',
+      internal: false,
+      cidr: '198.18.0.1/16'
+    }
+]
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;网上搜来搜去只返回一个结果 &lt;/p&gt;
-&lt;p&gt;13 年前有人 report 过 4 年前也有人遇到过 到现在是不是还没解决？&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://groups.google.com/g/golang-nuts/c/1smBsPOdFT0" rel="nofollow"&gt;https://groups.google.com/g/golang-nuts/c/1smBsPOdFT0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I'm having a similar problem as the original poster. I expect Buffered() to return the number of bytes that can be read from the current buffer, like the documentation states. However a call to Buffered() returns 0 both before and after a call to any Read() that finds bytes in the buffer. In my case the Reader is a net.Conn. &lt;/p&gt;
-&lt;p&gt;How do we use Buffered() properly? This is the only google result I could find that even mentions using the function.&lt;/p&gt;
-&lt;p&gt;I ended up solving my problem without using bufio.
--Sam&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 02:10:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972407#reply3</guid></item><item><title>[Amazon Web Services] AWS 12 个月免费套餐快到期了，为了避免意外收费，关闭帐户是否是最好的选择？</title><link>https://www.v2ex.com/t/972406#reply1</link><description></description><pubDate>Sun, 10 Sep 2023 02:04:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972406#reply1</guid></item><item><title>[iCloud] 突然发现在网页端登陆 iCloud 不发邮件提醒了？</title><link>https://www.v2ex.com/t/972405#reply1</link><description>&lt;p&gt;记得之前在网页端或新设备上登陆，苹果都会发个提醒邮件。是现在都不发了还是我账号出问题了，有没有大手子帮忙验证一下&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 01:52:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972405#reply1</guid></item><item><title>[问与答] 微信小程序 AI (深度合成类) 应用要求上传资质，个人开发者越来越难了～</title><link>https://www.v2ex.com/t/972404#reply2</link><description>&lt;p&gt;昨天提交小程序更新版本审核的时候，突然来了一个审核不通过，原因如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="https://mtbird-cdn.staringos.com/015121152104-261510-4101712-1010213-1123101510171177142.png" class="embedded_image" rel="noreferrer" src="https://mtbird-cdn.staringos.com/015121152104-261510-4101712-1010213-1123101510171177142.png" /&gt;&lt;/p&gt;
-&lt;p&gt;然后点击修改类目之后，让上传资质或者是合作协议：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="https://mtbird-cdn.staringos.com/6171151751310-11317-45411-121043-12154131015151712133.png" class="embedded_image" rel="noreferrer" src="https://mtbird-cdn.staringos.com/6171151751310-11317-45411-121043-12154131015151712133.png" /&gt;&lt;/p&gt;
-&lt;p&gt;个人开发者真是越来越难了～&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 01:52:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972404#reply2</guid></item><item><title>[问与答] 换车求助</title><link>https://www.v2ex.com/t/972403#reply6</link><description>目前的油车有 2 个原因想换：1. 我这次特意估测了一下，油耗差不多是 1 块钱 1 公里，2. 以前在途虎养车，换了空滤和空清后，结果车内的 pm2.5 的车外还高了，闻到很大的灰尘味，气死了，后来在 4s 又换了，但还是没有没换之前好。&lt;br /&gt;&lt;br /&gt;目前看中了 001 的安全性，和 m5 的智驾，但都有些不如意的点（要是 2 者能结合起来就好了）：&lt;br /&gt;&lt;br /&gt;我老婆本来想今年去新彊自驾的，但没去，所以，明年估计会去。则担心 1 是电车的补能，2.是长时间开车，没有智驾很累。 再个就是想要车上有小桌板，及有笔记本电源，在开车中，也能移动办公，我和我老婆交替开车，这样不会耽误行程。另外，想在车上放个气垫床，在某些风景好的地方，可以将就一宿。&lt;br /&gt;&lt;br /&gt;001 的权益更新后，我看了下 26.9w 就是 560km 及 4 驱了，但 650km 的 4 驱就要 31.9w 了，我感觉是不是还会再出权益？因为这个区间有点宽了。m5 感觉有点小，m7 还没看，驾驶舒适好象比不上 001 。&lt;br /&gt;&lt;br /&gt;哪位有好的建议？感谢！</description><pubDate>Sun, 10 Sep 2023 01:52:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972403#reply6</guid></item></channel></rss>
+&lt;p&gt;但它是如何接管电脑上所有的网络请求的呢？ ClashX Pro 是闭源的，没有办法查看源码。&lt;/p&gt;
+&lt;p&gt;通过命令 &lt;code&gt;route -n get default&lt;/code&gt; 查看默认 route 是 &lt;strong&gt;en0&lt;/strong&gt; 接口:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   route to: default
+destination: default
+       mask: default
+    gateway: 192.168.11.1
+  interface: en0
+      flags: &amp;lt;UP,GATEWAY,DONE,STATIC,PRCLONING,GLOBAL&amp;gt;
+ recvpipe  sendpipe  ssthresh  rtt,msec    rttvar  hopcount      mtu     expire
+       0         0         0         0         0         0      1500         0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;难道使用 Network Extension 中的 &lt;a href="https://developer.apple.com/documentation/networkextension/packet_tunnel_provider" rel="nofollow"&gt;Packet Tunnel Provider&lt;/a&gt; 不需要手动设置网络的转发吗？&lt;/p&gt;
+&lt;p&gt;我所理解的过程是这样的:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;新建一个 TUN 网络接口&lt;/li&gt;
+&lt;li&gt;接管系统的请求&lt;/li&gt;
+&lt;li&gt;将请求处理&lt;/li&gt;
+&lt;li&gt;处理后的接口转发到其他网络接口&lt;/li&gt;
+&lt;li&gt;收到网络请求后其他网络接口转发到 TUN 网络接口中&lt;/li&gt;
+&lt;li&gt;处理收到的网络请求&lt;/li&gt;
+&lt;li&gt;传递给上层应用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;所以总结下我的问题，第二步是如何接管系统所有请求的？第四步是如何转发到其他接口的？在 Linux 中应该是需要手动写吧？在 macOS 中是用 NE 里哪一些 API ？&lt;/p&gt;
+&lt;p&gt;另外，在 iOS 端也是和 macOS 一样的吧？开启 QX 应用后，在设置中可以看到有 utun 接口。类似的应用都是用 TUN 模式的（ Loon 用 TUN 和 HTTP mode 两种模式）。&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 10:48:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972504#reply8</guid></item><item><title>[OpenWrt] 求助 vlan 中组播相互转发的设置</title><link>https://www.v2ex.com/t/972503#reply0</link><description>&lt;p&gt;2 个 vlan ,  vlan0 用 5g wifi , vlan1 用 2.4g wifi,  两个 vlan 的组播需要相互转发.  &lt;/p&gt;
+&lt;p&gt;达到在 vlan1 能把腾讯视频投到 vlan0 的电视.&lt;/p&gt;
+&lt;p&gt;请教该怎么设置, 路由器 cr8808 刷的 openwrt 最新版.&lt;/p&gt;</description><pubDate>Sun, 10 Sep 2023 10:43:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972503#reply0</guid></item><item><title>[Spotify] Spotify 台区一年长车</title><link>https://www.v2ex.com/t/972502#reply0</link><description>每季度 36 &lt;br /&gt;车的价格根据 spotify 价格和汇率变更&lt;br /&gt;不准跳车&lt;br /&gt;9 月 15 号开车 有意的联络 tg @&lt;a href="https://www.v2ex.com/member/orangejam_orange" rel="nofollow noopener" target="_blank"&gt;orangejam_orange&lt;/a&gt;</description><pubDate>Sun, 10 Sep 2023 10:40:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972502#reply0</guid></item><item><title>[深圳] 南山区白石洲祥祺花园三房两厅直租</title><link>https://www.v2ex.com/t/972500#reply0</link><description>1 、离白石洲地铁站 150 米，交通便利，离高新园仅一站路。小区环境优美，人称白石洲小花园，相当安静。多层小区，3 楼，坐北朝南。&lt;br /&gt;2 、房子一直是我们自己住的，因孩子上学搬到其它区；房子内部空间很大，装修淡雅有书卷气，适合家庭居住。&lt;br /&gt;3 、家电齐全，卧室客厅都有空调，厨房也有空调。西门子洗碗机、西门子洗衣机、博世冰箱各一台。热水器两台。有 3 个床（一大二小）。&lt;br /&gt;&lt;br /&gt;有意向者可加我 qq: 4758775</description><pubDate>Sun, 10 Sep 2023 10:38:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/972500#reply0</guid></item></channel></rss>
