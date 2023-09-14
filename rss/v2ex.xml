@@ -1,122 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Sep 2023 16:33:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Windows] Win11 搭配 Sandboxies 多开了程序，托盘图标重复都一个样，有啥好办法（或者说有适合的托盘图标管理工具？）</title><link>https://www.v2ex.com/t/973175#reply0</link><description>&lt;p&gt;比如说多开了工作钉钉，或者微信，阿里旺，然后，托盘图标一大串相同的，哪个是哪个，要点击调出前台，要试几
-个才能试出，                         &lt;/p&gt;
-&lt;p&gt;想问问，Windows 场景下，目前 WIN11 ，有无工具可以对托盘图标，“纳入”一个界面垂直容器，展开后有多栏，一栏有 icon+title 方式进行管理的？                 &lt;/p&gt;
-&lt;p&gt;有想过改.exe 的 icon ，但估计不现实也不是个好，现在大厂的 IM.exe ，多数都会在启动前检查一下自身 hash 吧？有问题还不知道会不会当外挂封号。。。。              &lt;/p&gt;
-&lt;p&gt;或者方便一些方法？&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 16:32:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973175#reply0</guid></item><item><title>[宽带症候群] wireguard 组网问题的咨询--NAT 后的两个节点如何设置才能够打洞成功</title><link>https://www.v2ex.com/t/973173#reply0</link><description>&lt;p&gt;首先说明当前的配置：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Sep 2023 15:53:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] apple 开发者账户不切换至云上贵州不让登录了</title><link>https://www.v2ex.com/t/973896#reply0</link><description>&lt;p&gt;国区 apple 账户一直没有同意迁移到云上贵州，刚才升级到了 sonoma ，需要下载新版本的 xcode ，尝试登录 developer 下载，结果不迁移到云上贵州不让用开发者账户了，搞不懂了，开发者账户哪需要用到 icloud?&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973896#reply0</guid></item><item><title>[Apple] 去年写的 iPhone 库存监控工具刚才试了下依旧还能使用</title><link>https://www.v2ex.com/t/973895#reply0</link><description>&lt;p&gt;支持中国大陆，香港，澳门，中国台湾，日本的 Apple 直营店。 &lt;/p&gt;
+&lt;p&gt;如果监控到货会给手机推送消息.&lt;/p&gt;
+&lt;p&gt;详情可以看这篇文章 &lt;a href="https://www.v2ex.com/t/895253" rel="nofollow"&gt;由于 iPhone14 Pro 官网难买，写了个小工具监控线下直营店库存&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973895#reply0</guid></item><item><title>[OpenAI] 有人用 gpt 写代码的吗</title><link>https://www.v2ex.com/t/973892#reply0</link><description>&lt;p&gt;这玩意想让他写一个复杂点的项目怎么搞？他每次只回复一个非常简单的代码段啊&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973892#reply0</guid></item><item><title>[分享创造] 推荐一个文生图的网站[云景 AI 绘图]</title><link>https://www.v2ex.com/t/973891#reply0</link><description>&lt;p&gt;集成了一些 C 站上著名的模型，支持中文提示词、ChatGPT 提示词扩写、图生图、ControlNet 等功能，大部分功能都可以免费体验，少部分功能收费，回点儿血维持网站运行。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://yunjing.gallery" rel="nofollow"&gt;https://yunjing.gallery&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/14/4pTijIVk.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/14/Vn4hjs2s.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:21:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973891#reply0</guid></item><item><title>[分享创造] 我开发了一个群聊成员无上限的聊天软件，取名：无限群，本周将发布 0.2 版本</title><link>https://www.v2ex.com/t/973890#reply10</link><description>&lt;p&gt;上文回顾： &lt;a href="https://v2ex.com/t/973126#reply25" rel="nofollow"&gt;https://v2ex.com/t/973126#reply25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本周将发布 0.2 版本，主要实现了创建群聊，和邀请入群的功能。&lt;/p&gt;
+&lt;p&gt;功能预览视频如下：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1CN411p7R1/?vd_source=eac57d23025c06a23af985f3ce0640d3" rel="nofollow"&gt;https://www.bilibili.com/video/BV1CN411p7R1/?vd_source=eac57d23025c06a23af985f3ce0640d3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果你想参与内测，欢迎加我微信好友：mi-ngzhi&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:10:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973890#reply10</guid></item><item><title>[Apple] 未证实消息传国行版本手机会要求锁区无法登录外区 ID 下载未备案 APP</title><link>https://www.v2ex.com/t/973889#reply0</link><description>&lt;p&gt;国区所有 app 需备案才能上架，此监管会执行吗，执行到何种程度，会要求各手机厂商配合吗&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973889#reply0</guid></item><item><title>[问与答] 求一个双向同步照片的方案</title><link>https://www.v2ex.com/t/973887#reply8</link><description>&lt;p&gt;最近在 V2EX 看了好几个关于照片备份的帖子，正好我最近刚从 iphone 换到安卓，也需要解决这个问题。&lt;/p&gt;
+&lt;p&gt;我试了几个方案，都发现了一个问题，例如阿里云盘，OneDrive ，或者 NAS 提供的照片 APP 来备份照片，它们都是单向上传备份，没法做到双向同步。例如我在手机端删了一张照片，云端或者 NAS 端并不会把这张照片也删掉。反过来也是，你在另外一端删掉一张照片，手机端不会同步该操作。而以前的 icloud 的照片是全部实时同步的，ipad 或者 Mac 上面删掉一个照片，iphone 上这个照片立马也会没了。所有地方的数据都是统一的&lt;/p&gt;
+&lt;p&gt;我这个人不喜欢在相册里面留一堆乱七八糟的照片，经常是拍五张删掉 3 张。所以单向备份会导致云端存了一大堆我不想要的照片。&lt;/p&gt;
+&lt;p&gt;目前试下来发现 syncthing 可以做到双向同步。我现在就是打算手机用 syncthing 和 NAS 双向同步，然后 NAS 和 Onedrive 双向同步。最终实现手机，NAS ，云盘三个地方全部保持数据一致。但是我有个担心的地方，万一手机或者 NAS 端不小心误删了大量照片，就可能导致其他同步端照片也被删掉。&lt;/p&gt;
+&lt;p&gt;不知道谷歌的 photos 能不能双向同步，或者说至少能单向增删同步。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:57:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973887#reply8</guid></item><item><title>[问与答] 安卓无滤镜相机推荐</title><link>https://www.v2ex.com/t/973883#reply0</link><description>&lt;p&gt;手持一加 6 ，感觉系统自带的相机偏红，对比度高了
+想拍出来的照片尽量真实一点&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:40:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973883#reply0</guid></item><item><title>[问与答] 明天想去钱塘江观潮</title><link>https://www.v2ex.com/t/973882#reply1</link><description>&lt;p&gt;有了解的 v 友，从杭州出发，去那个观察点最佳？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:37:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973882#reply1</guid></item><item><title>[路由器] 小米路由器 有限中继模式和路由模式下信号水平区别很大</title><link>https://www.v2ex.com/t/973881#reply5</link><description>&lt;p&gt;小米 AX6000
+换了一个前置的光猫，G7615 据说很强 想试试 nat 性能 路由器切换为有线中继模式 ，打游戏和刷视频明显卡顿，遂将光猫换回桥接，路由器正常模式 ，一切正常，&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:32:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973881#reply5</guid></item><item><title>[投资] [20230913]又是低开尾盘稍微拉升的一天</title><link>https://www.v2ex.com/t/973880#reply0</link><description>&lt;p&gt;主力不愿意给散户解套，继续搞啥金融什么的去了。。。&lt;/p&gt;
+&lt;p&gt;没啥好说的，微亏 0.4%没操作，这几天研究主力资金战法，写写代码回测看看，老是左侧交易不好。估计还是得研究主力资金和打板利润高。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973880#reply0</guid></item><item><title>[问与答] 毕业三年 老妈在深圳洗盘子 老爸在家休息 今日突然晕倒 求助</title><link>https://www.v2ex.com/t/973879#reply6</link><description>&lt;p&gt;本人和老妈在深圳，老爸在湖北十堰，今日老爸突然晕倒(好像是脑梗相关问题) 亲戚发现并送去县城医院帮忙照顾老爸 目前已经回家，自己刚刚毕业三年，说实话写代码就是为了逃避一些人情世故，但这次不得不去面对本科毕业打工三年，目前只有 10w 现金，炒币 基金啥亏了不少，求助以下事宜:
+1.如何感谢亲戚，该送些啥东西(亲戚家有三个小孩)?
+2.想带我老爹去武汉做检查，该去哪个医院?做什么检查?如何挂号?或者怎么找黄牛?
+3.打铁还靠自身硬，哪里学习脑梗相关改善方法?
+4.有无晚生子女有过相同经历?我属于晚生，现在 25 ，我爸却已经六十多&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973879#reply6</guid></item><item><title>[问与答] 电信的光猫炸了，能免费换吗？</title><link>https://www.v2ex.com/t/973878#reply4</link><description>广东地区&lt;br /&gt;电信光猫那个开关坏了&lt;br /&gt;维修师傅说要 300 元换新&lt;br /&gt;但是本来这光猫就是办宽带时候收了调试费几百块说光猫免费用，&lt;br /&gt;现在坏了要再收 300 合理吗？是维修人员乱收费还是？&lt;br /&gt;能否免费换？&lt;br /&gt;&lt;br /&gt;PS：光猫 2017 还是 18 年加钱几百换成千兆的光猫一直用到现在。平时都不会去按开关，开关居然坏了，质量不行啊。</description><pubDate>Thu, 14 Sep 2023 13:10:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973878#reply4</guid></item><item><title>[Apple] 有多少人,因为被 apple 生态捆绑,不得已才继续使用 apple</title><link>https://www.v2ex.com/t/973877#reply19</link><description>&lt;p&gt;2010 年第一部智能机是 HTC,可以划出实体键盘的一个 Z,依稀记得 2011 年去见十多年的老同学路上,手机丢了.
+就换了 iphone4S,从此逐渐被 apple 一步步捆绑,iphone6 三星 S8(用了几个月) iphone8 xr 12mini 13mini
+从 iphone6 开始就,逐步凑齐了全家桶.XR 开始开通了 apple 的各种付费服务, 中途从没想过,apple 正在一步步捆绑我的使用习惯,直到近两年才发觉.
+但是也别无选择,中途我入手过一部 nexus,做备用机,在国内使用,就算 FQ,还是有诸多不便.比如 fq 的耗电量,FCM 消息推送,国产常驻后台的流氓 app. 我想如果,google 服务在大陆能正常使用,监管,apple 在国内也不会有这么大的份额.&lt;/p&gt;
+&lt;p&gt;这两年,每次发布的 apple 新品,我总是在考虑如果去摆脱它的生态捆绑,尽量不去追新,但是转念又想,我能换什么用呢.哎....&lt;/p&gt;
+&lt;p&gt;我打算明天就下单首发的 15,
+列一下我现在已有的 apple 设备
+MACBOOK AIR
+IPAD 2020
+IPAD PRO
+HOMEPOD MINI
+13MINI
+APPLETV
+AIRPODS PRO
+还有十几件接入 homekit 的智能设备&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:03:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973877#reply19</guid></item><item><title>[程序员] 为什么大家宁愿自己付费或用 pojie 软件也不愿意找公司购买或者报销？</title><link>https://www.v2ex.com/t/973876#reply17</link><description>&lt;p&gt;从 Reqable 发布后，我观察到一个很奇怪的现象，就是我们可以提供正规的发票用于报销，但是付费用户几乎都不要求开发票。在这个项目立项的时候，我的想法是做开发工具可以让公司买单，大家应该很乐意才是。上线后才发现，掏钱还是用户自己，真的很奇怪。&lt;/p&gt;
+&lt;p&gt;我之前在其他公司带团队的时候，不管自己还是组员，在工作上几乎所有的东西都是公司付费的，包括数据线、书籍、软件许可证等等，自己有需求临时也都是自己先买了存好发票再报销。&lt;/p&gt;
+&lt;p&gt;关于我做的开发工具，是这个：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://camo.githubusercontent.com/08b969408928e84aee49ed75d533b2712eb55ce4d5efd8a5d2ff17ba6f8d158f/68747470733a2f2f72657161626c652e636f6d2f656e2d55532f696d672f72657161626c652d736f6369616c2d636172642e6a7067" /&gt;&lt;/p&gt;
+&lt;p&gt;官网： &lt;a href="https://reqable.com" rel="nofollow"&gt;https://reqable.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最后，送几个礼品卡，真的希望有人能帮我解答这个疑惑！&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;家里没有公网 IP ，因此使用了 1 台国内 VPS 作为 Wireguard 服务器&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;家里 1 台软路由搭建了 openwrt （ A ） 接入 wireguard 局域网&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;iOS （ B ） 使用也接入 wireguard 局域网&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;GT-QLFQZ-3VQUQ-VQDCT-B3RL2-M4QPR&lt;/li&gt;
+&lt;li&gt;GT-GQE5T-38JCJ-MF9KQ-QH3ET-ZBDNA&lt;/li&gt;
+&lt;li&gt;GT-965BW-W9FVV-NZN34-C27ZD-JFX89&lt;/li&gt;
+&lt;li&gt;GT-5KPX5-WKLR2-FZT9Y-PMVB4-52Y64&lt;/li&gt;
+&lt;li&gt;GT-ZDWKL-UNGJN-K8KG6-4VKC2-PE93E&lt;/li&gt;
+&lt;li&gt;GT-F4LN2-MULJK-6DBLB-HYCL4-82XSE&lt;/li&gt;
+&lt;li&gt;GT-94B6P-2PGU8-UPW4D-GFWTH-ZDNP5&lt;/li&gt;
+&lt;li&gt;GT-975UH-S9YV5-TD58Z-3T4CB-BGM3F&lt;/li&gt;
+&lt;li&gt;GT-TYC3H-QPXSW-M65BU-25KLV-UKCUA&lt;/li&gt;
+&lt;li&gt;GT-67TVU-76AQZ-UFAPP-CRNYQ-T44XJ&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;整体的网络结构和 peer 设置如下&lt;/p&gt;
-&lt;p&gt;&lt;img alt="网络结构图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MtAdems.png" /&gt;&lt;/p&gt;
-&lt;p&gt;目前 A 和 B 可以互相 ping 通，但是看了下 trace 发现是通过 server 做了中转，没有直接打洞成功，想请问各位大佬如何设置才能让 A 和 B 直接打洞成功呢。求大佬们指点迷津！&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 16:19:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973173#reply0</guid></item><item><title>[问与答] 白本护照，有效期不足 5 年了。想重新办一本，怎么申请合适？</title><link>https://www.v2ex.com/t/973172#reply5</link><description>很多年前办了护照，但一直没有出过国。现在护照有效期已经不足五年了。  想重新办一本新的，因为据说有些国家的签证有效期是跟着护照走的；同时，万一近期润成功了， 如果护照有效期到了，在海外更新护照是非常麻烦的一件事。&lt;br /&gt;&lt;br /&gt;所以想问下大家，白本护照直接更新怎么样才能被快速通过？ 例如污损？</description><pubDate>Tue, 12 Sep 2023 16:01:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973172#reply5</guid></item><item><title>[程序员] 代理节点的 ttl 一般都是 300ms 多，为啥 ping 代理节点的 time 差不多都是 0.98ms？为啥能差这么多？</title><link>https://www.v2ex.com/t/973171#reply2</link><description></description><pubDate>Tue, 12 Sep 2023 16:00:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973171#reply2</guid></item><item><title>[ WATCH] 有没有苹果员工可以付费在 Apple 香港官网下单</title><link>https://www.v2ex.com/t/973170#reply0</link><description>如题，手头有点苹果的 gift card 想买一个新款手表，有没有苹果员工可以付费在官网下单，地址、电话都有~~~谢谢</description><pubDate>Tue, 12 Sep 2023 15:55:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973170#reply0</guid></item><item><title>[配件] 秒空鼠标关闭后怎么还能继续用？</title><link>https://www.v2ex.com/t/973169#reply1</link><description>2 代鼠标，16 寸 2023mbp 最新系统。关闭鼠标底部物理按钮，然后鼠标还能继续用！&lt;br /&gt;&lt;br /&gt;换了台 2018mbp ，用了几次正常关闭&lt;br /&gt;&lt;br /&gt;bug 还是我鼠标坏了？如果是 bug ，但物理按钮不是高于一切软件设置吗？</description><pubDate>Tue, 12 Sep 2023 15:50:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973169#reply1</guid></item><item><title>[MacBook Pro] 老 Intel 用户新入 M2 Max，求 Apple Silicon 独特的用法，比如可以运行在 M2 上的移动端 APP，特殊用法之类的，谢谢大家。</title><link>https://www.v2ex.com/t/973168#reply3</link><description></description><pubDate>Tue, 12 Sep 2023 15:50:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973168#reply3</guid></item><item><title>[程序员] 公司想开发个录音笔产品，配套语音转文字，请教解决方案。</title><link>https://www.v2ex.com/t/973166#reply3</link><description>&lt;p&gt;录音转文字 APP ，应该怎么做，有什么现成方案吗？ 如果用阿里云这些，成本太高了，有没有什么开源好用的，请教大家。&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 15:45:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973166#reply3</guid></item><item><title>[酷工作] [小红书内推] 北上广均有 base， Android 提供免费改简历服务</title><link>https://www.v2ex.com/t/973164#reply0</link><description>base：北京/上海/广州&lt;br /&gt;&lt;br /&gt;作息：早十晚九，大小周（双倍工资）&lt;br /&gt;&lt;br /&gt;技术栈：客户端/前端/后端/算法/音视频&lt;br /&gt;&lt;br /&gt;我们组 Android / iOS / Server 均有 hc&lt;br /&gt;&lt;br /&gt;感兴趣微信私聊：Flywith24</description><pubDate>Tue, 12 Sep 2023 15:01:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973164#reply0</guid></item><item><title>[程序员] 在开源的道路上越走越远，来个人拉我一把</title><link>https://www.v2ex.com/t/973162#reply0</link><description>&lt;p&gt;两个月前，我开始了我的第一个开源库 &lt;a href="https://github.com/SylarLong/iztro" rel="nofollow"&gt;iztro&lt;/a&gt;，并耗费了比开发更多的时间完善了 &lt;a href="https://docs.iztro.com/" rel="nofollow"&gt;开发文档&lt;/a&gt;。虽然身体很疲惫但是看到大家支持的⭐️⭐️，还是很开心的。&lt;/p&gt;
-&lt;p&gt;由于我的第一库是获取紫微斗数星盘的，对于大多数人来说还是太过于陌生，不够直观，于是呼我连夜开始了我的第二个开源库 &lt;a href="https://github.com/SylarLong/react-iztro" rel="nofollow"&gt;react-iztro&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;这个库是基于 &lt;a href="https://github.com/SylarLong/iztro" rel="nofollow"&gt;iztro&lt;/a&gt; 做的一个 &lt;code&gt;react&lt;/code&gt; 组件。可以让大家引入一个组件就可以得到一张星盘，效果如下图：&lt;/p&gt;
-&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/SylarLong/react-iztro/assets/6510425/df940fcc-2cda-434f-b9a2-fbcf21c31c24" /&gt;
-&lt;p&gt;使用方法非常简单&lt;/p&gt;
-&lt;h3&gt;安装&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-sh"&gt;npm install react-iztro -S
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当然你也可以使用 &lt;code&gt;yarn&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-sh"&gt;yarn add react-iztro
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;使用&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import {Iztrolabe} from "react-iztro"
-
-function App() {
-  return (
-    &amp;lt;div className="App" style={{ width: 1024, margin: '50px auto', boxShadow: '0 0 25px rgba(0,0,0,0.25)'}}&amp;gt;
-      &amp;lt;Iztrolabe birthday="2003-10-12" birthTime={1} birthdayType="solar" gender="male" /&amp;gt;
-    &amp;lt;/div&amp;gt;
-  );
-}
-
-export default App;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如此你就得到了上图所示的一张星盘。怎么样，集成起来是不是很方便？当然这只是第一个版本，后面会陆续更新，并且完善文档。有兴趣的同学可以持续关注。大佬们记得给⭐️⭐️哦&lt;/p&gt;
+&lt;p&gt;兑换地址： &lt;a href="https://license.reqable.com/gift" rel="nofollow"&gt;https://license.reqable.com/gift&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973876#reply17</guid></item><item><title>[问与答] 请问大家是怎么克服工作中的不开心？</title><link>https://www.v2ex.com/t/973875#reply1</link><description>## 基本情况：&lt;br /&gt;&lt;br /&gt;1. 新入职，运维岗，公司之前有 500 人左右的规模，但是现在只有不到 20 人；&lt;br /&gt;&lt;br /&gt;​	**我想表达的的意思是留下了很多东西。**&lt;br /&gt;&lt;br /&gt;2. 技术岗就 3 人；&lt;br /&gt;&lt;br /&gt;    - A 纯管理（事逼）&lt;br /&gt;&lt;br /&gt;    - B 后端开发（口头禅：我不知道）&lt;br /&gt;&lt;br /&gt;​	**我想表达的的意思是同事也没办法相处。**&lt;br /&gt;&lt;br /&gt;3. 每周都有主要任务安排，但杂事太多，处理不过来；&lt;br /&gt;&lt;br /&gt;4. 工资不到位&lt;br /&gt;&lt;br /&gt;5. 我在积极看机会，但是目前还没有结果。&lt;br /&gt;&lt;br /&gt;## 我的需求：&lt;br /&gt;&lt;br /&gt;怎么样调整自己的心态，让自己熬过这段时间？</description><pubDate>Thu, 14 Sep 2023 12:57:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973875#reply1</guid></item><item><title>[GitHub] 大家有没有觉得 GitHub 的界面不断改版越来越有点用不懂了。。。</title><link>https://www.v2ex.com/t/973874#reply3</link><description>&lt;p&gt;大家有没有觉得 GitHub 的界面不断改版越来越有点用不懂了，尤其是最近的一次改版改完就总感觉很迷不适应。。。&lt;/p&gt;
+&lt;p&gt;还是就单纯是我上年纪了到了老一辈那种手机也玩不明白的年纪了。。。  o(╥﹏╥)o&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 12:52:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973874#reply3</guid></item><item><title>[macOS] 圈 x 出 mac 版了</title><link>https://www.v2ex.com/t/973873#reply11</link><description>菜单栏有图标了</description><pubDate>Thu, 14 Sep 2023 12:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973873#reply11</guid></item><item><title>[程序员] 纯 rust 实现的 charts 库</title><link>https://www.v2ex.com/t/973872#reply1</link><description>&lt;p&gt;&lt;code&gt;charts-rs&lt;/code&gt; 是纯 rust 实现的图表库，使用简单而且性能高效，生成 svg 低于 10ms ，而 png 也低于 50ms ，便于在各种无法直接渲染 svg 的场景下使用。&lt;/p&gt;
+&lt;h2&gt;概要&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;charts-rs&lt;/code&gt;提供简单的方式生成图表，它支持 svg 与 png 两种输出格式，以及支持 light ，dark ，grafana 与 ant 主题，默认的主题为 light 。现已支持以下类型的图表：Bar ，HorizontalBar ，Line ，Pie ，Radar ，Scatter ，Candlestick ，Table 以及 MultiChart ，其相关样式参考&lt;code&gt;Apache ECharts&lt;/code&gt;。&lt;/p&gt;
+&lt;h2&gt;特性&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub 仓库地址&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/SylarLong/react-iztro" rel="nofollow"&gt;https://github.com/SylarLong/react-iztro&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;NPM 地址&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.npmjs.com/package/react-iztro" rel="nofollow"&gt;https://www.npmjs.com/package/react-iztro&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 12 Sep 2023 14:54:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973162#reply0</guid></item><item><title>[分享创造] 准备把我的 npm 包 v0 捐赠给 Vercel。</title><link>https://www.v2ex.com/t/973161#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic3.zhimg.com/80/v2-5c99fdd8530193e969fa2fa2ae3bcb9a_r.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:51:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973161#reply3</guid></item><item><title>[C] 百变开源 C 语言库日志模块</title><link>https://www.v2ex.com/t/973160#reply0</link><description>&lt;p&gt;本文向大家介绍一个名为&lt;a href="https://github.com/Water-Melon/Melon" rel="nofollow"&gt;Melon&lt;/a&gt;的开源 C 语言库的日志模块。&lt;/p&gt;
-&lt;h3&gt;简述 Melon&lt;/h3&gt;
-&lt;p&gt;Melon 是一个包含了开发中常用的各类组件的开源 C 语言库，支持 Linux 、MacOS 、Windows 系统，可用于服务器开发亦可用于嵌入式开发，无第三方软件依赖，安装简单，开箱即用，中英文文档配套齐全。&lt;/p&gt;
-&lt;h3&gt;日志模块&lt;/h3&gt;
-&lt;p&gt;日志是 Melon 库提供的通用组建之一，在介绍其特性前，我们先来看一下它的简单使用示例。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-c"&gt;#include "mln_log.h"
-
-int main(int argc, char *argv[])
-{
-    mln_log(debug, "This will be outputted to stderr\n");
-    mln_log_init(NULL);
-    mln_log(debug, "This will be outputted to stderr and log file\n");
-    return 0;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;可以看到，使用与我们常用的&lt;code&gt;printf&lt;/code&gt;或&lt;code&gt;fprintf&lt;/code&gt;很相似。&lt;/p&gt;
-&lt;p&gt;同时，从这个例子中也可以看到这个日志模块允许在未初始化情况下使用。在未初始化时，这些日志都将被输出至&lt;code&gt;stderr&lt;/code&gt;中。&lt;/p&gt;
-&lt;p&gt;当然，我们也可以使用&lt;code&gt;mln_log_init&lt;/code&gt;对日志模块进行初始化。初始化后将获得两种能力：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;日志会跟据不同等级显示不同的颜色&lt;/li&gt;
-&lt;li&gt;日志内容既会被输出到 stderr ，也会被输出到 Melon 配置中指定的日志文件中（关于配置，请参见&lt;a href="http://doc.melonc.io/cn/conf.html" rel="nofollow"&gt;官方手册&lt;/a&gt;）。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;进阶&lt;/h3&gt;
-&lt;p&gt;显然，我们的日志不仅仅可以做这些事情。&lt;/p&gt;
-&lt;p&gt;下一步我们将讨论如何将日志内容做自定义处理，我们将介绍日志回调函数。&lt;/p&gt;
-&lt;p&gt;这里涉及到两个日志模块的函数：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;mln_log_logger_get&lt;/code&gt; 获取当前日志处理函数&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;mln_log_logger_set&lt;/code&gt; 设置日志处理函数为某个指定的函数&lt;/li&gt;
+&lt;li&gt;所有图表均支持多种主题&lt;/li&gt;
+&lt;li&gt;可通过 ttf 或 otf 中加载更多的字体库&lt;/li&gt;
+&lt;li&gt;支持平滑，填充，最低最高点以及线标示&lt;/li&gt;
+&lt;li&gt;图表使用多种文本标示，例如：圆角矩形、圆形以及矩形等&lt;/li&gt;
+&lt;li&gt;曲线图支持平滑曲线、拆线、区域填充等效果&lt;/li&gt;
+&lt;li&gt;支持两组 Y 轴线的展示&lt;/li&gt;
+&lt;li&gt;图表中的所有元素均支持颜色、字体、字体颜色等基本属性配置&lt;/li&gt;
+&lt;li&gt;支持以&lt;code&gt;json&lt;/code&gt;的形式初始化图表，更简单易用&lt;/li&gt;
+&lt;li&gt;svg 与 png 的格式便于更多的应用场景&lt;/li&gt;
+&lt;li&gt;网页版的 json 编辑器可用于一步式尝试各选项的效果&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我们看一下简单的例子，我们对上面的例子进行一顿改造：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-c"&gt;#include &amp;lt;stdio.h&amp;gt;
-#include "mln_log.h"
+&lt;h2&gt;示例&lt;/h2&gt;
+&lt;p&gt;可以使用网页版尝试使用&lt;code&gt;charts-rs&lt;/code&gt;的相关图表示例，可以直接改动配置后，重新生成效果图，非常简单而有用。&lt;/p&gt;
+&lt;p&gt;项目地址: &lt;a href="https://github.com/vicanso/charts-rs" rel="nofollow"&gt;https://github.com/vicanso/charts-rs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;示例地址: &lt;a href="https://charts.npmtrend.com/" rel="nofollow"&gt;https://charts.npmtrend.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;示例项目代码: &lt;a href="https://github.com/vicanso/charts-rs-web" rel="nofollow"&gt;https://github.com/vicanso/charts-rs-web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/charts-demo.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Mix line bar&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/mix-line-bar.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Horizontal bar&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/horizontal-bar.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Line&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/line.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Pie&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/pie.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Radar&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/radar.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Scatter&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/scatter.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Candlestick&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/candlestick.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Table&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/table.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Multi Chart&lt;/h2&gt;
+&lt;p&gt;
+&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/multi-chart.png" /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Rust 示例&lt;/h2&gt;
+&lt;h3&gt;使用 Option 的形式创建图表&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-rust"&gt;use charts_rs::{
+    BarChart, Box, SeriesCategory, THEME_GRAFANA
+};
+let mut bar_chart = BarChart::new_with_theme(
+    vec![
+        ("Evaporation", vec![2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6]).into(),
+        (
+            "Precipitation",
+            vec![2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6],
+        )
+            .into(),
+        ("Temperature", vec![2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 20.3]).into(),
+    ],
+    vec![
+        "Mon".to_string(),
+        "Tue".to_string(),
+        "Wed".to_string(),
+        "Thu".to_string(),
+        "Fri".to_string(),
+        "Sat".to_string(),
+        "Sun".to_string(),
+    ],
+    THEME_GRAFANA,
+);
+bar_chart.title_text = "Mixed Line and Bar".to_string();
+bar_chart.legend_margin = Some(Box {
+    top: bar_chart.title_height,
+    bottom: 5.0,
+    ..Default::default()
+});
+bar_chart.series_list[2].category = Some(SeriesCategory::Line);
+bar_chart.series_list[2].y_axis_index = 1;
+bar_chart.series_list[2].label_show = true;
 
-mln_logger_t old = NULL;
+bar_chart
+    .y_axis_configs
+    .push(bar_chart.y_axis_configs[0].clone());
+bar_chart.y_axis_configs[0].axis_formatter = Some("{c} ml".to_string());
+bar_chart.y_axis_configs[1].axis_formatter = Some("{c} °C".to_string());
 
-static void mylogger(mln_log_t *log, mln_log_level_t level, const char *file,
-                     const char *func, int line, char *fmt, va_list args)
-{
-    printf("%s:%s:%d: %s\n", file, func, line, fmt);
-    if (old != NULL)
-        old(log, level, file, func, line, fmt, args);
-}
-
-int main(int argc, char *argv[])
-{
-    mln_log(debug, "This will be outputted to stderr\n");
-    mln_log_init(NULL);
-  
-    old = mln_log_logger_get();
-    mln_log_logger_set(mylogger);
-  
-    mln_log(debug, "This will be outputted to stderr and log file\n");
-    return 0;
-}
+println!("{}", &amp;amp;bar_chart.svg().unwrap());
+svg_to_png(&amp;amp;bar_chart.svg().unwrap()).unwrap();
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我们增加了一个自己的日志处理函数名为&lt;code&gt;mylogger&lt;/code&gt;，它将截获日志的内容及其关联信息，使用&lt;code&gt;printf&lt;/code&gt;将这些信息输出到标准输出（&lt;code&gt;stdout&lt;/code&gt;）中。然后再使用原有的日志处理函数将日志输出到终端的&lt;code&gt;stderr&lt;/code&gt;和日志文件中。&lt;/p&gt;
-&lt;p&gt;这样，我们就可以随意地对日志内容进行处理了。&lt;/p&gt;
-&lt;h3&gt;结语&lt;/h3&gt;
-&lt;p&gt;Melon 的日志模块允许开发者对其进行任意扩展来满足自己的需求。&lt;/p&gt;
-&lt;p&gt;另外，要补充一点，这个&lt;code&gt;mln_log&lt;/code&gt;是允许&lt;strong&gt;多线程&lt;/strong&gt;使用的。并且对于&lt;strong&gt;x86 架构&lt;/strong&gt;，在不调用&lt;code&gt;mln_log_init&lt;/code&gt;对日志进行初始化的情况下，这个函数就是多线程可用的。&lt;/p&gt;
-&lt;p&gt;感谢阅读！&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:46:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973160#reply0</guid></item><item><title>[OpenAI] 想低价嫖 GPT4 只能找人拼车了吗</title><link>https://www.v2ex.com/t/973159#reply1</link><description>&lt;p&gt;隔壁微软 bing 的 gpt 虽说免费但是总感觉不好用啊&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:45:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973159#reply1</guid></item><item><title>[Apple] Intel 发布 Thunderbolt 5</title><link>https://www.v2ex.com/t/973158#reply11</link><description>&lt;p&gt;英特尔今天宣布了 Thunderbolt 5 ，这是连接所有 Mac 和 iPad Pro 型号的下一代连接标准，承诺在连接速度和带宽方面带来显著的改进。&lt;/p&gt;
-&lt;p&gt;Thunderbolt 5
-Thunderbolt 5 提供 80 Gbps 的双向带宽，并且通过带宽增强技术，可提供高达 120 Gbps 的视频密集型用途。这使得它能够更好地支持显示，允许使用更多和更高分辨率的显示器，具有更高的刷新率。Thunderbolt 4 的最大速度为 40 Gbps ，使 Thunderbolt 5 的带宽至少翻了一番，是一个显著的改进。&lt;/p&gt;
-&lt;p&gt;最新的规格还提供了两倍的 PCI Express 数据吞吐量和两倍的 Thunderbolt 网络带宽。它还采用了一种新的信号技术，PAM-3 ，以提高与印刷电路板、连接器和被动电缆的性能。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image info" class="embedded_image" rel="noreferrer" src="https://images.macrumors.com/t/ul-dUHxGDLol75H_VTeCvLDzpy0=/1600x0/article-new/2023/09/thunderbolt-5-specifications.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;看来支持高刷的 Studio Display 要来了&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:35:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973158#reply11</guid></item><item><title>[问与答] 新 iPhone 要来了，想出掉两台旧 iPhone ，有哪些靠谱二手回收平台？</title><link>https://www.v2ex.com/t/973157#reply2</link><description>&lt;p&gt;iPhone 12 &amp;amp; 13&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:30:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973157#reply2</guid></item><item><title>[微信] 微信可以去除验证码登录吗？只支持密码登录</title><link>https://www.v2ex.com/t/973155#reply0</link><description>&lt;p&gt;微信可以去除验证码登录吗？只支持密码登录&lt;/p&gt;
-&lt;p&gt;或者有没有双重认证，设置一个密码，输入了密码才算真正登录上了。&lt;/p&gt;
-&lt;p&gt;我找了挺久，没有找到相关的资料。&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:12:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973155#reply0</guid></item><item><title>[Apple] Anker 的东西不怎么在国内上架吗？</title><link>https://www.v2ex.com/t/973154#reply5</link><description>&lt;p&gt;想买个 MageSafe 立式无线充，发现 Anker 海外官网有几款，但是淘宝店都不上架啊&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 14:07:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973154#reply5</guid></item><item><title>[分享发现] 个人觉得，三星 S23 的颜值比 iPhone 系列高的</title><link>https://www.v2ex.com/t/973153#reply7</link><description>iPhone 15 马上就要发布了，又浏览了各大手机厂商的官网&lt;br /&gt;&lt;br /&gt;发现三星 S23 这款手机颜值还是不错的&lt;br /&gt;&lt;br /&gt;单从颜值来讲，三星还是很好看&lt;br /&gt;&lt;br /&gt;虽然我对安卓的体验停留在“用两年会卡”那个时代&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/yz3DIgY.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/yz3DIgY.png" /&gt;&lt;/a&gt;</description><pubDate>Tue, 12 Sep 2023 13:59:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973153#reply7</guid></item><item><title>[OpenAI] ChatGPT 崩了？</title><link>https://www.v2ex.com/t/973152#reply6</link><description>&lt;p&gt;今天晚上登陆发现提示服务器负载太高，注销账号之后刷新发现提示“ChatGPT is at capacity right now”，一般这种情况多长时间会恢复呢。&lt;/p&gt;</description><pubDate>Tue, 12 Sep 2023 13:51:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973152#reply6</guid></item><item><title>[Firefox] 纯小白，请问各位大佬 fx-autoconfig 怎么用</title><link>https://www.v2ex.com/t/973150#reply0</link><description>&lt;a href="https://github.com/MrOtherGuy/fx-autoconfig#setting-up-configjs-from-program-folder" rel="nofollow noopener" target="_blank"&gt;https://github.com/MrOtherGuy/fx-autoconfig#setting-up-configjs-from-program-folder&lt;/a&gt;&lt;br /&gt;里面说的用法，看不懂</description><pubDate>Tue, 12 Sep 2023 13:41:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973150#reply0</guid></item></channel></rss>
+&lt;h3&gt;通过 JSON 字符串配置的形式创建图表&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-rust,no_run"&gt;use charts_rs::{BarChart, svg_to_png};
+let bar_chart = BarChart::from_json(
+    r###"{
+        "width": 630,
+        "height": 410,
+        "margin": {
+            "left": 10,
+            "top": 5,
+            "right": 10
+        },
+        "title_text": "Bar Chart",
+        "title_font_color": "#345",
+        "title_align": "right",
+        "sub_title_text": "demo",
+        "legend_align": "left",
+        "series_list": [
+            {
+                "name": "Email",
+                "label_show": true,
+                "data": [120.0, 132.0, 101.0, 134.0, 90.0, 230.0, 210.0]
+            },
+            {
+                "name": "Union Ads",
+                "data": [220.0, 182.0, 191.0, 234.0, 290.0, 330.0, 310.0]
+            }
+        ],
+        "x_axis_data": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+        ]
+    }"###,
+).unwrap();
+println!("{}", bar_chart.svg().unwrap());
+svg_to_png(&amp;amp;bar_chart.svg().unwrap()).unwrap();
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Sep 2023 12:40:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973872#reply1</guid></item><item><title>[VPS] 大毛那里的 vps 咋样？</title><link>https://www.v2ex.com/t/973869#reply6</link><description>&lt;p&gt;访问美国的网站会不会被歧视 4 ？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 12:18:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973869#reply6</guid></item></channel></rss>
