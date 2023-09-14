@@ -1,202 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Sep 2023 15:53:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] apple 开发者账户不切换至云上贵州不让登录了</title><link>https://www.v2ex.com/t/973896#reply0</link><description>&lt;p&gt;国区 apple 账户一直没有同意迁移到云上贵州，刚才升级到了 sonoma ，需要下载新版本的 xcode ，尝试登录 developer 下载，结果不迁移到云上贵州不让用开发者账户了，搞不懂了，开发者账户哪需要用到 icloud?&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973896#reply0</guid></item><item><title>[Apple] 去年写的 iPhone 库存监控工具刚才试了下依旧还能使用</title><link>https://www.v2ex.com/t/973895#reply0</link><description>&lt;p&gt;支持中国大陆，香港，澳门，中国台湾，日本的 Apple 直营店。 &lt;/p&gt;
-&lt;p&gt;如果监控到货会给手机推送消息.&lt;/p&gt;
-&lt;p&gt;详情可以看这篇文章 &lt;a href="https://www.v2ex.com/t/895253" rel="nofollow"&gt;由于 iPhone14 Pro 官网难买，写了个小工具监控线下直营店库存&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973895#reply0</guid></item><item><title>[OpenAI] 有人用 gpt 写代码的吗</title><link>https://www.v2ex.com/t/973892#reply0</link><description>&lt;p&gt;这玩意想让他写一个复杂点的项目怎么搞？他每次只回复一个非常简单的代码段啊&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973892#reply0</guid></item><item><title>[分享创造] 推荐一个文生图的网站[云景 AI 绘图]</title><link>https://www.v2ex.com/t/973891#reply0</link><description>&lt;p&gt;集成了一些 C 站上著名的模型，支持中文提示词、ChatGPT 提示词扩写、图生图、ControlNet 等功能，大部分功能都可以免费体验，少部分功能收费，回点儿血维持网站运行。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://yunjing.gallery" rel="nofollow"&gt;https://yunjing.gallery&lt;/a&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Sep 2023 23:44:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] lunaproxy.com 这家 ip 代理太坑了，按 10 倍计算流量的</title><link>https://www.v2ex.com/t/973919#reply1</link><description>&lt;p&gt;广告打得飞起，结果这么坑人。操。
+求推荐靠谱、价格公道的 ip 代理。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 23:20:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973919#reply1</guid></item><item><title>[Apple] 今年风向不对啊</title><link>https://www.v2ex.com/t/973918#reply8</link><description>iPhone15 都没有啥热搜，手动搜索点进去还是一堆踩的。是大家都不用苹果了嘛</description><pubDate>Thu, 14 Sep 2023 23:10:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973918#reply8</guid></item><item><title>[macOS] Devonthink 对于理科学生/程序员到底有多大作用</title><link>https://www.v2ex.com/t/973916#reply1</link><description>&lt;p&gt;前两天看到一个帖子说 DEVONthink 学生优惠 40off ，但是我一直都没有觉得 DEVONthink 对我的工作/学习有啥特别大的作用。&lt;/p&gt;
+&lt;p&gt;如果用来收藏链接/文件，我有 Anybox ，基本上做到了百分之 80-90 的功能吧，除了不能很好的分离数据库和以及不能全文搜索。&lt;/p&gt;
+&lt;p&gt;如果用作文件管理和搜索，Alfred + 任意一个全文搜索的软件也挺好的, finder 也有 smart search 。&lt;/p&gt;
+&lt;p&gt;而且 DEVONthink 有一个很大的缺点就是&lt;a href="https://discourse.devontechnologies.com/t/accessing-dt-content-as-volume-in-finder/61084" rel="nofollow"&gt;不能在 Terminal 操作文件&lt;/a&gt;，比如我要用 pandoc 处理文件，还得把文件在 Finder/Terminal 处理完，再导入到 DEVONthink ，我觉得对于程序员应该非常不友好吧（我不是程序员所以只能猜测）。&lt;/p&gt;
+&lt;p&gt;如果用作文献管理，更专业的 Endnote ，zotero 是更好的选择。&lt;/p&gt;
+&lt;p&gt;如果是 RSS ，reeder 比他更美观，但是不可否认 DEVONthink 会有更完备的搜索功能。&lt;/p&gt;
+&lt;p&gt;最后还有一点我最不喜欢的，竟然默认不能包含文件扩展名搜索（在 Alfred Workflow 也不能搜扩展名），只能依靠搜索时添加条件。&lt;/p&gt;
+&lt;p&gt;当然我仅仅试用了几天，有没有大佬分享一下使用感受，解答一下我以上的疑惑啊，感激不尽！因为在 14 天试用期，40 off 也快结束了，回答必感谢！&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 21:31:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973916#reply1</guid></item><item><title>[Surge] surge ios 差两人 加 vx 拉群 一个位置 110</title><link>https://www.v2ex.com/t/973915#reply0</link><description>「 Surge for iOS 」差 2 个位置，一个位置 CNY110 ，订阅更新至 2024.9.15 日(有效)，有新功能协商，愿意就继续订阅，跳车不退，加 vx 拉群 联系 vx：Jj_Nove&lt;br /&gt;换设备可自行反激活</description><pubDate>Thu, 14 Sep 2023 20:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973915#reply0</guid></item><item><title>[程序员] [资源求助] 谁有好用的 AI 批量剪辑软件</title><link>https://www.v2ex.com/t/973914#reply0</link><description>目前用了免费的 MV 大师、AI 自动剪辑 10.1 、灵狐(还不支持 N 卡)，都不满意&lt;br /&gt;收费的好像可以制作探店、短视频带货、团购达人，就是贵&lt;br /&gt;就是可以批量混剪输出成品的~~~&lt;br /&gt;例：&lt;br /&gt;给一批音频 1-N 个，在一批视频中（先加速过，后截断成了 30s/段），按音频裂变，细微功能如有更好(特效，转场什么的，加标题，字幕，提示语)&lt;br /&gt;裂变成 N 个成品后，我自己挑选个满意的，再去剪映手工微调下，成最终成品。。。大致就这么个过程&lt;br /&gt;&lt;br /&gt;PS：做自媒体，时间宝贵。最好有破解的，前期不想破费&lt;br /&gt;或者是我免费的用的不够好，有最佳实践的指导下也行</description><pubDate>Thu, 14 Sep 2023 18:50:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973914#reply0</guid></item><item><title>[Apple] 开个贴讨论海外用国产安卓替换 Apple 的问题</title><link>https://www.v2ex.com/t/973913#reply9</link><description>&lt;p&gt;隔壁贴讨论安卓替换如火如荼，但是在海外（主要是美加），实在没什么可选的。安卓能买的基本只有三星，但是三星的系统优化曾经给我留下非常深的心理阴影，实在不想再次尝试。&lt;/p&gt;
+&lt;p&gt;介绍一个查型号频段支持的网站，&lt;a href="https://www.kimovil.com/en/frequency-checker" rel="nofollow"&gt;https://www.kimovil.com/en/frequency-checker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前看下来小米 13 pro 国际版比较理想，除了不支持 mmwave ，频段比较全。&lt;/p&gt;
+&lt;p&gt;不知道国内版刷国际版能不能解锁频段，或者有没有什么方便实惠入手国际版的渠道。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 18:32:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973913#reply9</guid></item><item><title>[汽车] 电车是不是开 7-8 年电池就报废了要换新的？</title><link>https://www.v2ex.com/t/973912#reply2</link><description>&lt;p&gt;想问下电车的寿命问题，电池损耗&lt;/p&gt;
+&lt;p&gt;换电池的价格大约是整车价格的一半？&lt;/p&gt;
+&lt;p&gt;（有些车的电池好像和底盘一起的，换电池等于也要换底盘？）&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 18:12:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973912#reply2</guid></item><item><title>[Chrome] Android Chrome（Play 最新版）莫名弹框提示使用搜狗搜索</title><link>https://www.v2ex.com/t/973909#reply5</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn5.telegram-cdn.org/file/hVxQiWMa3YRsmkD_qqDhyzHNIHgMR0mF7iWuUfUGChc8fqgjtibiNYRW3FdvHO6mAX3Lv4VGEKolJEpH7tR-A5F-rzaP_EydALL01C9atutMhS0yIMMaxJK-4ff4CFsAwH_X8ZXSxPFbKb8z8h4yNVrXSolv7d9grjxwHhUWbW587l4L4C1xHKBLF1K-tJaEhGeA1fU_n15ww7SnZOr5TFTfQSWMuOEInccnN04ioRZMTvBk67WKM8SjZEDuhm08C1MbAHWbqqz8ufNYz7Z-9RBlZX529UG1GijoLAURFJLHy7pmS01n-FdyFyADfxsgyQhbLaq5v1RIpjLYKPKZKw.jpg" /&gt;
+当时家中 wifi 且未访问危险网站，情况出现多次，但间隔时间较长&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 17:22:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973909#reply5</guid></item><item><title>[English] 为什么学习英语很重要？</title><link>https://www.v2ex.com/t/973907#reply0</link><description>&lt;p&gt;说一个最近的例子，有位邻居原来是在国内上班，前段时间突然不上班了。&lt;/p&gt;
+&lt;p&gt;家里有矿吗？&lt;/p&gt;
+&lt;p&gt;想多了&lt;/p&gt;
+&lt;p&gt;真实情况是这样的，他自己通过互联网，找到了一份海外的工作，而且是远程办公就可以了。&lt;/p&gt;
+&lt;p&gt;在国内大多数人英语都非常普通，因此他就找了一些翻译软件来辅助办公，开会时可以开启 IM 工具的实时转录，实时将英语转为中文。&lt;/p&gt;
+&lt;p&gt;就这样，他每天呆在家里办公，还可以减少通勤的时间，顺便带带家里的小孩。&lt;/p&gt;
+&lt;p&gt;这个例子想说明的是，打开一下思路，不要整天想着只能赚国内的钱。这都哪个年代了，我们的思维也要国际化。&lt;/p&gt;
+&lt;p&gt;多掌握一门国际外语，职业的道路自然会更广阔。&lt;/p&gt;
+&lt;p&gt;现在失业了，送快递的工作都要挤破头。还是学学英语，说不定哪天可以教英语、做翻译、和外国友人做生意。再不济，可以让自己更好的学习一些英文资料。&lt;/p&gt;
+&lt;p&gt;多一份技能，多一份优势。想找外企，或者有些公司在做海外的项目，这都可能成为你的竞争优势。&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/bHXK7M9OCtTooHjtxCbLwg" rel="nofollow"&gt;为什么学习英语很重要？&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 17:19:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973907#reply0</guid></item><item><title>[问与答] next.js 的 ssg 能不能自定义生成策略？</title><link>https://www.v2ex.com/t/973906#reply0</link><description>&lt;p&gt;&lt;strong&gt;首先道个歉，nextjs 节点实在是冷清，就发到这里了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;next.js 的 ssg 功能，在生成页面时，使用的策略是第一个请求过来以后，就使用&lt;code&gt;getStaticProps&lt;/code&gt;获取数据，然后缓存数据，往后第二次的请求就不再重新获取数据，而是使用缓存的静态数据。&lt;/p&gt;
+&lt;p&gt;我现在想自定义一个策略，比如定义一个 api 接口，这个接口返回一组路径，不管是定时或者手动触发，让 nextjs 根据这个接口返回值生成静态路由页面。&lt;/p&gt;
+&lt;p&gt;不知道我的想法是否可行？网上搜了很久，似乎 next.js 不支持其他的 ssg 方式，只能用它自己提供的那种策略。&lt;/p&gt;
+&lt;p&gt;或者有其他的前端框架能满足我的需求吗？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973906#reply0</guid></item><item><title>[程序员] 急！大佬们！公司不给私人开放网络权限？怎么办？</title><link>https://www.v2ex.com/t/973905#reply29</link><description>&lt;p&gt;公司给配的台式电脑，虽然能联国内网，但是内置了行为检测软件，我都看到进程了，我连微信都不登录。如果带自己电脑还要申请 wifi 联网，得走流程，申请 Wi-Fi 入网，基本不一定能通过。怎么办啊？作为程序员来说工作不能不翻墙啊，公司那边解释说，因为有其他公司因为盗版软件版权问题，发过律师函，来闹事过，所以严格控制网络。给了这样的冠冕堂皇的理由！怎么办？难道我真的就只能买个随身 Wi-Fi 来给自己电脑上网吗？有什么办法啊？&lt;/p&gt;
+&lt;p&gt;对了，公司台式机的那一根网线我倒是能拔下来，插在我自己笔记本上，但是插上之后，公司台式机就没网了。而且我还怕他们还对 ip 流量进行监测着，这个我不确定，因为台式机有行为检测软件，搞不好，网络也会有检测。怎么办？&lt;/p&gt;
+&lt;p&gt;各位有什么好办法啊？两全其美的办法啊，我真的不想买随身 wifi 那垃圾玩意啊？&lt;/p&gt;
+&lt;p&gt;题外话，问一嘴，如果网线我插自己电脑上，即便他们有对网络进行监控，像国内的网站软件就直连，他们想检测检测去吧，着无所谓。国外网站走代理用的 ss 协议，已经加密了，他们检测不到我访问了啥网站吧？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:44:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973905#reply29</guid></item><item><title>[职场话题] 试用期辞退，仲裁赢了也输了</title><link>https://www.v2ex.com/t/973904#reply8</link><description>&lt;p&gt;避雷，杭州市滨江区的聚才大厦，杭州耳畔科技/杭州修真科技，老板陈弘毅，法人兼技术总监庞立山。&lt;/p&gt;
+&lt;p&gt;其实也不需要避了，据说庞某的公司已经被强制执行了。跟我同一场仲裁的还有三个人，根据他们的说法，因为有一家做类似业务的公司已经被警察端了，老板怕警察上门停了部分业务，所以 23 年 3 月辞退了一批员工。他们仨就一起申请仲裁了。&lt;/p&gt;
+&lt;p&gt;这个 B 公司加班超级严重，996 起步，甚至曾经一个月休两天。每个月有 40 小时（ 5 天）额度把加班时长换工资，超出的只能调休（你可以申请调休，批不批看公司忙不忙。你说呢忙不忙）。&lt;strong&gt;每月按加班时长考核绩效，不加班就是不合格。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;更加抽象的是忙的要死的时候有个周五还组织团建（本来应该是周五上线周六值班修 bug ，变成了周五团建周六上线周日修 bug ），四十来度的天气去桐庐漂流（当天杭州高温预警），中午户外烧烤。神经病，我直接请假了。我猜是这时候让老板不爽了，工作日团建已经是皇恩浩荡了，还不给面子？&lt;/p&gt;
+&lt;p&gt;宫斗严重，二十来个人还搞办公室政治。产品、测试、前端、安卓、iOS 、php 每个部门三个人左右，都是独立的小团体（特别是 iOS 、php 和测试）。几个“组长”有个小群（我感觉这些人就是表面和气背地捅刀子，反正 php 郭某没少说其他人坏话），在群里吐槽庞某搞 996 ，被 iOS 组长李某截图发给庞某。最后李某拿到了项目负责人的位置，郭某耿耿于怀，因为之前的项目负责人是一位 php 大佬，因为不愿意加班被赶走了，按照“世袭”应当轮到郭某。刚入职的时候李某请我们 php 部门（ php 大佬和原先的开发走了，一下子招了三个新员工）吃饭，吃完我还跟郭某说李哥人还蛮好嘞，郭某说是成为了项目负责人在给他下马威宣誓主权。&lt;/p&gt;
+&lt;p&gt;所谓“组长”，就是早几个月半年来公司。96 年左右的带专，能力一般，有个组长头衔就真支棱起来了。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;老板是皇帝，庞某是大太监，李某是庞太监的第一走狗&lt;/em&gt;——php 组长郭某。&lt;/p&gt;
+&lt;p&gt;点名吐槽所谓后端负责人郭某。和人事勾结搞了几条聊天记录，说我写了 bug （你他妈一个 bug 都不写是吧，你一个开发能不能听听自己说的是不是人话啊？），一个月啥活也没干（我他妈提交的都是空行是吧）。提供了所谓的证据，就是某个废弃的代码仓库提交记录，最近一次提交在六个月之前（照你的意思是 php 五个人全都不干活是吧）。还挑了我日报写的一个 feat 说写了完成某功能实际没有，我在欺瞒。我欺你妈逼呢，隔壁仓库某个分支最后一次提交的 commit message 不就是？到底是眼瞎呢，还是菜呢？最可能就是单纯品德低下吧？&lt;/p&gt;
+&lt;p&gt;人事主管，姓名我忘了，钉钉忘记截图，通知我不给过试用期的时候忽悠我签辞职申请书。我他妈都工作四年多了，请你不要侮辱我的智商好吗？还威胁要卡我社保，下一家公司背调的时候说坏话。最后我问她要离职证明，说公章暂时不在，弄好了快递给我，给了吗？比资本家更可恨的就是你们这种汉奸。&lt;/p&gt;
+&lt;p&gt;这傻吊公司的试用期“录用条件”第一条：开发不允许出现 bug 。庭辩的时候我说没有书面证据可以证明这个 bug 是我写的，代理律师说“不管是不是你写的，只要出现了就算”，我都不知道该说什么。（大家不用担心，仲裁员根本不采纳这种说法）&lt;/p&gt;
+&lt;p&gt;不过这个公司也有很精明的一点，&lt;strong&gt;不发工资条，并且加班不留证据&lt;/strong&gt;。加班是由庞某通知给各位“组长”，各位组长再口头通知给组员。每天加完班写个审批条，写上时间交到人事，不走钉钉。提交前审批单上只有你自己填的内容，没有公章，你拍照了也不能作为证据；审批后……哪有审批后，人事统计一下时间月底结算。&lt;/p&gt;
+&lt;p&gt;这也就是我拿着钉钉打卡记录，拿着日报记录，拿着代码提交记录，仲裁员也不支持我申请五千多加班工资的原因。&lt;/p&gt;
+&lt;p&gt;不过倒是也有破解之法，就是月底人事拿着单子来核对加班时长的时候偷偷录个音，或者问人事要工资条（这个 B 公司不给），或者在钉钉上假装忘了当月加班时长需要和人事核对问一下，人事回复以后截图就可以当成证明。（希望这条不要被某些丧尽天良的人事看到拿来对付打工人）。&lt;/p&gt;
+&lt;p&gt;我 0203 提交的仲裁申请，0803 才立案，0912 开庭。不知道是案子太多在排队还是因为后面有四个人也申请了仲裁，仲裁庭在考虑并案还是啥的。中间仲裁庭来过一个电话问调解意愿，我愿意，庞立山拒绝。&lt;/p&gt;
+&lt;p&gt;开庭一共五个人，上半场仨，三月份集体辞退。他们从 2:50 开到 5:40 ，我旁听。两个 iOS 申请一个月工资 18k 和 16k ，一个运营申请两个月工资 2x7k ，庞某只愿意给 7k 、7k 、5k ，最后仲裁员调解，代理律师申请后给了 10k 、10k 、7k ，恭喜。&lt;/p&gt;
+&lt;p&gt;下半场我和另一位并案，但是对方在上海，不来了，缺席当撤诉处理。开庭前，仲裁员看完资料直接告诉代理律师，案子肯定判给我，让她问问庞某能不能调解。庞给的指示是试用期辞退坚决不和解。庭辩我说了些废话（上面提到的 bug 不是我写的、拿着 git 提交记录证明我有在工作），其实不需要，因为公司不能证明我能力不达标（没有考核），这一点完全足够。二十分钟完事儿。&lt;/p&gt;
+&lt;p&gt;判决书大概要等一个半月，公司还是不给钱拿着判决书去法院申请强制执行。不过听仲裁员和代理律师说，这个 B 公司已经被强制执行了，账上目前还有点钱但是两个月后大概率已经没钱了，所以我这个钱很可能拿不到。最后我只能混个精神胜利，赢了也输了。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/14/4pTijIVk.png" /&gt;&lt;/p&gt;
+&lt;p&gt;给大伙儿一点建议：&lt;/p&gt;
+&lt;p&gt;最最最重要的前提：&lt;em&gt;&lt;strong&gt;证据！证据！！证据！！！越多越好！越多越好！！越多越好！！！&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;试用期辞退极大概率能拿一个月（没有争议）的赔偿金，正式员工辞退的 n+1 或者 2n 就需要仲裁员去裁定最终金额。&lt;/p&gt;
+&lt;p&gt;如果你想要申请加班费，至少准备：加班申请和审批记录（或者老板/直属领导要求加班的聊天记录，记住不能是让其他人转述）（证明公司知晓并且同意你加班）、加班打卡记录（证明你到了工作地点）、加班日报（证明你干了活）。&lt;/p&gt;
+&lt;p&gt;如果人事不给工资条，不给离职证明，直接劳动监察大队投诉。我没管是因为后来去了华为 OD ，德科的 hr 说签个与上一家公司解除劳动关系的保证书就可以了不要离职证明。&lt;/p&gt;
+&lt;p&gt;然后再泼一点凉水：&lt;/p&gt;
+&lt;p&gt;杭州目前仲裁立案 3-6 个月。&lt;/p&gt;
+&lt;p&gt;加班费 10 个人有 9.5 个都得不到支持（因为&lt;strong&gt;证据不充分&lt;/strong&gt;），这是仲裁员的原话。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/14/Vn4hjs2s.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:21:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973891#reply0</guid></item><item><title>[分享创造] 我开发了一个群聊成员无上限的聊天软件，取名：无限群，本周将发布 0.2 版本</title><link>https://www.v2ex.com/t/973890#reply10</link><description>&lt;p&gt;上文回顾： &lt;a href="https://v2ex.com/t/973126#reply25" rel="nofollow"&gt;https://v2ex.com/t/973126#reply25&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本周将发布 0.2 版本，主要实现了创建群聊，和邀请入群的功能。&lt;/p&gt;
-&lt;p&gt;功能预览视频如下：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1CN411p7R1/?vd_source=eac57d23025c06a23af985f3ce0640d3" rel="nofollow"&gt;https://www.bilibili.com/video/BV1CN411p7R1/?vd_source=eac57d23025c06a23af985f3ce0640d3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果你想参与内测，欢迎加我微信好友：mi-ngzhi&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:10:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973890#reply10</guid></item><item><title>[Apple] 未证实消息传国行版本手机会要求锁区无法登录外区 ID 下载未备案 APP</title><link>https://www.v2ex.com/t/973889#reply0</link><description>&lt;p&gt;国区所有 app 需备案才能上架，此监管会执行吗，执行到何种程度，会要求各手机厂商配合吗&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973889#reply0</guid></item><item><title>[问与答] 求一个双向同步照片的方案</title><link>https://www.v2ex.com/t/973887#reply8</link><description>&lt;p&gt;最近在 V2EX 看了好几个关于照片备份的帖子，正好我最近刚从 iphone 换到安卓，也需要解决这个问题。&lt;/p&gt;
-&lt;p&gt;我试了几个方案，都发现了一个问题，例如阿里云盘，OneDrive ，或者 NAS 提供的照片 APP 来备份照片，它们都是单向上传备份，没法做到双向同步。例如我在手机端删了一张照片，云端或者 NAS 端并不会把这张照片也删掉。反过来也是，你在另外一端删掉一张照片，手机端不会同步该操作。而以前的 icloud 的照片是全部实时同步的，ipad 或者 Mac 上面删掉一个照片，iphone 上这个照片立马也会没了。所有地方的数据都是统一的&lt;/p&gt;
-&lt;p&gt;我这个人不喜欢在相册里面留一堆乱七八糟的照片，经常是拍五张删掉 3 张。所以单向备份会导致云端存了一大堆我不想要的照片。&lt;/p&gt;
-&lt;p&gt;目前试下来发现 syncthing 可以做到双向同步。我现在就是打算手机用 syncthing 和 NAS 双向同步，然后 NAS 和 Onedrive 双向同步。最终实现手机，NAS ，云盘三个地方全部保持数据一致。但是我有个担心的地方，万一手机或者 NAS 端不小心误删了大量照片，就可能导致其他同步端照片也被删掉。&lt;/p&gt;
-&lt;p&gt;不知道谷歌的 photos 能不能双向同步，或者说至少能单向增删同步。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:57:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973887#reply8</guid></item><item><title>[问与答] 安卓无滤镜相机推荐</title><link>https://www.v2ex.com/t/973883#reply0</link><description>&lt;p&gt;手持一加 6 ，感觉系统自带的相机偏红，对比度高了
-想拍出来的照片尽量真实一点&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:40:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973883#reply0</guid></item><item><title>[问与答] 明天想去钱塘江观潮</title><link>https://www.v2ex.com/t/973882#reply1</link><description>&lt;p&gt;有了解的 v 友，从杭州出发，去那个观察点最佳？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:37:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973882#reply1</guid></item><item><title>[路由器] 小米路由器 有限中继模式和路由模式下信号水平区别很大</title><link>https://www.v2ex.com/t/973881#reply5</link><description>&lt;p&gt;小米 AX6000
-换了一个前置的光猫，G7615 据说很强 想试试 nat 性能 路由器切换为有线中继模式 ，打游戏和刷视频明显卡顿，遂将光猫换回桥接，路由器正常模式 ，一切正常，&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:32:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973881#reply5</guid></item><item><title>[投资] [20230913]又是低开尾盘稍微拉升的一天</title><link>https://www.v2ex.com/t/973880#reply0</link><description>&lt;p&gt;主力不愿意给散户解套，继续搞啥金融什么的去了。。。&lt;/p&gt;
-&lt;p&gt;没啥好说的，微亏 0.4%没操作，这几天研究主力资金战法，写写代码回测看看，老是左侧交易不好。估计还是得研究主力资金和打板利润高。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973880#reply0</guid></item><item><title>[问与答] 毕业三年 老妈在深圳洗盘子 老爸在家休息 今日突然晕倒 求助</title><link>https://www.v2ex.com/t/973879#reply6</link><description>&lt;p&gt;本人和老妈在深圳，老爸在湖北十堰，今日老爸突然晕倒(好像是脑梗相关问题) 亲戚发现并送去县城医院帮忙照顾老爸 目前已经回家，自己刚刚毕业三年，说实话写代码就是为了逃避一些人情世故，但这次不得不去面对本科毕业打工三年，目前只有 10w 现金，炒币 基金啥亏了不少，求助以下事宜:
-1.如何感谢亲戚，该送些啥东西(亲戚家有三个小孩)?
-2.想带我老爹去武汉做检查，该去哪个医院?做什么检查?如何挂号?或者怎么找黄牛?
-3.打铁还靠自身硬，哪里学习脑梗相关改善方法?
-4.有无晚生子女有过相同经历?我属于晚生，现在 25 ，我爸却已经六十多&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973879#reply6</guid></item><item><title>[问与答] 电信的光猫炸了，能免费换吗？</title><link>https://www.v2ex.com/t/973878#reply4</link><description>广东地区&lt;br /&gt;电信光猫那个开关坏了&lt;br /&gt;维修师傅说要 300 元换新&lt;br /&gt;但是本来这光猫就是办宽带时候收了调试费几百块说光猫免费用，&lt;br /&gt;现在坏了要再收 300 合理吗？是维修人员乱收费还是？&lt;br /&gt;能否免费换？&lt;br /&gt;&lt;br /&gt;PS：光猫 2017 还是 18 年加钱几百换成千兆的光猫一直用到现在。平时都不会去按开关，开关居然坏了，质量不行啊。</description><pubDate>Thu, 14 Sep 2023 13:10:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973878#reply4</guid></item><item><title>[Apple] 有多少人,因为被 apple 生态捆绑,不得已才继续使用 apple</title><link>https://www.v2ex.com/t/973877#reply19</link><description>&lt;p&gt;2010 年第一部智能机是 HTC,可以划出实体键盘的一个 Z,依稀记得 2011 年去见十多年的老同学路上,手机丢了.
-就换了 iphone4S,从此逐渐被 apple 一步步捆绑,iphone6 三星 S8(用了几个月) iphone8 xr 12mini 13mini
-从 iphone6 开始就,逐步凑齐了全家桶.XR 开始开通了 apple 的各种付费服务, 中途从没想过,apple 正在一步步捆绑我的使用习惯,直到近两年才发觉.
-但是也别无选择,中途我入手过一部 nexus,做备用机,在国内使用,就算 FQ,还是有诸多不便.比如 fq 的耗电量,FCM 消息推送,国产常驻后台的流氓 app. 我想如果,google 服务在大陆能正常使用,监管,apple 在国内也不会有这么大的份额.&lt;/p&gt;
-&lt;p&gt;这两年,每次发布的 apple 新品,我总是在考虑如果去摆脱它的生态捆绑,尽量不去追新,但是转念又想,我能换什么用呢.哎....&lt;/p&gt;
-&lt;p&gt;我打算明天就下单首发的 15,
-列一下我现在已有的 apple 设备
-MACBOOK AIR
-IPAD 2020
-IPAD PRO
-HOMEPOD MINI
-13MINI
-APPLETV
-AIRPODS PRO
-还有十几件接入 homekit 的智能设备&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:03:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973877#reply19</guid></item><item><title>[程序员] 为什么大家宁愿自己付费或用 pojie 软件也不愿意找公司购买或者报销？</title><link>https://www.v2ex.com/t/973876#reply17</link><description>&lt;p&gt;从 Reqable 发布后，我观察到一个很奇怪的现象，就是我们可以提供正规的发票用于报销，但是付费用户几乎都不要求开发票。在这个项目立项的时候，我的想法是做开发工具可以让公司买单，大家应该很乐意才是。上线后才发现，掏钱还是用户自己，真的很奇怪。&lt;/p&gt;
-&lt;p&gt;我之前在其他公司带团队的时候，不管自己还是组员，在工作上几乎所有的东西都是公司付费的，包括数据线、书籍、软件许可证等等，自己有需求临时也都是自己先买了存好发票再报销。&lt;/p&gt;
-&lt;p&gt;关于我做的开发工具，是这个：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://camo.githubusercontent.com/08b969408928e84aee49ed75d533b2712eb55ce4d5efd8a5d2ff17ba6f8d158f/68747470733a2f2f72657161626c652e636f6d2f656e2d55532f696d672f72657161626c652d736f6369616c2d636172642e6a7067" /&gt;&lt;/p&gt;
-&lt;p&gt;官网： &lt;a href="https://reqable.com" rel="nofollow"&gt;https://reqable.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;最后，送几个礼品卡，真的希望有人能帮我解答这个疑惑！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;GT-QLFQZ-3VQUQ-VQDCT-B3RL2-M4QPR&lt;/li&gt;
-&lt;li&gt;GT-GQE5T-38JCJ-MF9KQ-QH3ET-ZBDNA&lt;/li&gt;
-&lt;li&gt;GT-965BW-W9FVV-NZN34-C27ZD-JFX89&lt;/li&gt;
-&lt;li&gt;GT-5KPX5-WKLR2-FZT9Y-PMVB4-52Y64&lt;/li&gt;
-&lt;li&gt;GT-ZDWKL-UNGJN-K8KG6-4VKC2-PE93E&lt;/li&gt;
-&lt;li&gt;GT-F4LN2-MULJK-6DBLB-HYCL4-82XSE&lt;/li&gt;
-&lt;li&gt;GT-94B6P-2PGU8-UPW4D-GFWTH-ZDNP5&lt;/li&gt;
-&lt;li&gt;GT-975UH-S9YV5-TD58Z-3T4CB-BGM3F&lt;/li&gt;
-&lt;li&gt;GT-TYC3H-QPXSW-M65BU-25KLV-UKCUA&lt;/li&gt;
-&lt;li&gt;GT-67TVU-76AQZ-UFAPP-CRNYQ-T44XJ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;兑换地址： &lt;a href="https://license.reqable.com/gift" rel="nofollow"&gt;https://license.reqable.com/gift&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 13:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973876#reply17</guid></item><item><title>[问与答] 请问大家是怎么克服工作中的不开心？</title><link>https://www.v2ex.com/t/973875#reply1</link><description>## 基本情况：&lt;br /&gt;&lt;br /&gt;1. 新入职，运维岗，公司之前有 500 人左右的规模，但是现在只有不到 20 人；&lt;br /&gt;&lt;br /&gt;​	**我想表达的的意思是留下了很多东西。**&lt;br /&gt;&lt;br /&gt;2. 技术岗就 3 人；&lt;br /&gt;&lt;br /&gt;    - A 纯管理（事逼）&lt;br /&gt;&lt;br /&gt;    - B 后端开发（口头禅：我不知道）&lt;br /&gt;&lt;br /&gt;​	**我想表达的的意思是同事也没办法相处。**&lt;br /&gt;&lt;br /&gt;3. 每周都有主要任务安排，但杂事太多，处理不过来；&lt;br /&gt;&lt;br /&gt;4. 工资不到位&lt;br /&gt;&lt;br /&gt;5. 我在积极看机会，但是目前还没有结果。&lt;br /&gt;&lt;br /&gt;## 我的需求：&lt;br /&gt;&lt;br /&gt;怎么样调整自己的心态，让自己熬过这段时间？</description><pubDate>Thu, 14 Sep 2023 12:57:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973875#reply1</guid></item><item><title>[GitHub] 大家有没有觉得 GitHub 的界面不断改版越来越有点用不懂了。。。</title><link>https://www.v2ex.com/t/973874#reply3</link><description>&lt;p&gt;大家有没有觉得 GitHub 的界面不断改版越来越有点用不懂了，尤其是最近的一次改版改完就总感觉很迷不适应。。。&lt;/p&gt;
-&lt;p&gt;还是就单纯是我上年纪了到了老一辈那种手机也玩不明白的年纪了。。。  o(╥﹏╥)o&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 12:52:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973874#reply3</guid></item><item><title>[macOS] 圈 x 出 mac 版了</title><link>https://www.v2ex.com/t/973873#reply11</link><description>菜单栏有图标了</description><pubDate>Thu, 14 Sep 2023 12:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973873#reply11</guid></item><item><title>[程序员] 纯 rust 实现的 charts 库</title><link>https://www.v2ex.com/t/973872#reply1</link><description>&lt;p&gt;&lt;code&gt;charts-rs&lt;/code&gt; 是纯 rust 实现的图表库，使用简单而且性能高效，生成 svg 低于 10ms ，而 png 也低于 50ms ，便于在各种无法直接渲染 svg 的场景下使用。&lt;/p&gt;
-&lt;h2&gt;概要&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;charts-rs&lt;/code&gt;提供简单的方式生成图表，它支持 svg 与 png 两种输出格式，以及支持 light ，dark ，grafana 与 ant 主题，默认的主题为 light 。现已支持以下类型的图表：Bar ，HorizontalBar ，Line ，Pie ，Radar ，Scatter ，Candlestick ，Table 以及 MultiChart ，其相关样式参考&lt;code&gt;Apache ECharts&lt;/code&gt;。&lt;/p&gt;
-&lt;h2&gt;特性&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;所有图表均支持多种主题&lt;/li&gt;
-&lt;li&gt;可通过 ttf 或 otf 中加载更多的字体库&lt;/li&gt;
-&lt;li&gt;支持平滑，填充，最低最高点以及线标示&lt;/li&gt;
-&lt;li&gt;图表使用多种文本标示，例如：圆角矩形、圆形以及矩形等&lt;/li&gt;
-&lt;li&gt;曲线图支持平滑曲线、拆线、区域填充等效果&lt;/li&gt;
-&lt;li&gt;支持两组 Y 轴线的展示&lt;/li&gt;
-&lt;li&gt;图表中的所有元素均支持颜色、字体、字体颜色等基本属性配置&lt;/li&gt;
-&lt;li&gt;支持以&lt;code&gt;json&lt;/code&gt;的形式初始化图表，更简单易用&lt;/li&gt;
-&lt;li&gt;svg 与 png 的格式便于更多的应用场景&lt;/li&gt;
-&lt;li&gt;网页版的 json 编辑器可用于一步式尝试各选项的效果&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;示例&lt;/h2&gt;
-&lt;p&gt;可以使用网页版尝试使用&lt;code&gt;charts-rs&lt;/code&gt;的相关图表示例，可以直接改动配置后，重新生成效果图，非常简单而有用。&lt;/p&gt;
-&lt;p&gt;项目地址: &lt;a href="https://github.com/vicanso/charts-rs" rel="nofollow"&gt;https://github.com/vicanso/charts-rs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;示例地址: &lt;a href="https://charts.npmtrend.com/" rel="nofollow"&gt;https://charts.npmtrend.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;示例项目代码: &lt;a href="https://github.com/vicanso/charts-rs-web" rel="nofollow"&gt;https://github.com/vicanso/charts-rs-web&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/charts-demo.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Mix line bar&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/mix-line-bar.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Horizontal bar&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/horizontal-bar.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Line&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/line.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Pie&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/pie.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Radar&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/radar.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Scatter&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/scatter.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Candlestick&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/candlestick.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Table&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/table.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Multi Chart&lt;/h2&gt;
-&lt;p&gt;
-&lt;img alt="charts-rs" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vicanso/charts-rs/main/asset/image/multi-chart.png" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;Rust 示例&lt;/h2&gt;
-&lt;h3&gt;使用 Option 的形式创建图表&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-rust"&gt;use charts_rs::{
-    BarChart, Box, SeriesCategory, THEME_GRAFANA
-};
-let mut bar_chart = BarChart::new_with_theme(
-    vec![
-        ("Evaporation", vec![2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6]).into(),
-        (
-            "Precipitation",
-            vec![2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6],
-        )
-            .into(),
-        ("Temperature", vec![2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 20.3]).into(),
-    ],
-    vec![
-        "Mon".to_string(),
-        "Tue".to_string(),
-        "Wed".to_string(),
-        "Thu".to_string(),
-        "Fri".to_string(),
-        "Sat".to_string(),
-        "Sun".to_string(),
-    ],
-    THEME_GRAFANA,
-);
-bar_chart.title_text = "Mixed Line and Bar".to_string();
-bar_chart.legend_margin = Some(Box {
-    top: bar_chart.title_height,
-    bottom: 5.0,
-    ..Default::default()
-});
-bar_chart.series_list[2].category = Some(SeriesCategory::Line);
-bar_chart.series_list[2].y_axis_index = 1;
-bar_chart.series_list[2].label_show = true;
-
-bar_chart
-    .y_axis_configs
-    .push(bar_chart.y_axis_configs[0].clone());
-bar_chart.y_axis_configs[0].axis_formatter = Some("{c} ml".to_string());
-bar_chart.y_axis_configs[1].axis_formatter = Some("{c} °C".to_string());
-
-println!("{}", &amp;amp;bar_chart.svg().unwrap());
-svg_to_png(&amp;amp;bar_chart.svg().unwrap()).unwrap();
+&lt;p&gt;一开始就是想骂一骂垃圾公司和垃圾同事，没打过草稿，写得很乱，见谅。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:19:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973904#reply8</guid></item><item><title>[问与答] 有点纠结选哪个工作</title><link>https://www.v2ex.com/t/973903#reply1</link><description>&lt;p&gt;我有两个 offer ，一个是做大模型，一个是做搜索，大模型这块我觉得是未来的风口，但是可能有一定的学习成本，而且是在北京，户口问题无法解决，搜索是之前做过的一些内容，应该还比较容易上手，但是可能就是技术深度不够，重复做之前做过的事情，但是在广州，能解决户口问题，所以我现在有点纠结到底应该选哪个工作&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:19:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973903#reply1</guid></item><item><title>[问与答] Adobe 土区正版稳吗？使用时可以使用非土耳其 ip（已知不能用国内 IP）吗？</title><link>https://www.v2ex.com/t/973902#reply1</link><description>&lt;p&gt;主要是我的梯子没有土耳其节点，借别人的有，但是毕竟是借的用起来不太方便&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:17:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973902#reply1</guid></item><item><title>[Rust] [rust] 用 napi-rs 这个库写 nodejs addon 获取 windows 进程命令行, 如何在函数中直接返回 JsString</title><link>https://www.v2ex.com/t/973900#reply0</link><description>&lt;p&gt;想写一个函数获取 windows 某个进程的命令行&lt;/p&gt;
+&lt;p&gt;得到了 cmdline 变量，是一个 Vec&amp;lt;u16&amp;gt;，想直接通过 Ok(env.create_string_utf16(&amp;amp;cmdline)?) 这样返回，但是 [napi] 宏展开报错了&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-text"&gt;error[E0277]: the trait bound `Env: NapiValue` is not satisfied
+  --&amp;gt; lib/addon/addon.rs:15:1
+   |
+15 | #[napi]
+   | ^^^^^^^ the trait `NapiValue` is not implemented for `Env`
+   |
+   = help: the following other types implement trait `NapiValue`:
+             JsArrayBuffer
+             JsTypedArray
+             JsDataView
+             JsBuffer
+             Date
+             JsFunction
+             JsGlobal
+             JsTimeout
+           and 10 others
+   = note: required for `Env` to implement `FromNapiValue`
+   = note: this error originates in the attribute macro `napi` (in Nightly builds, run with -Z macro-backtrace for more info)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;通过 JSON 字符串配置的形式创建图表&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-rust,no_run"&gt;use charts_rs::{BarChart, svg_to_png};
-let bar_chart = BarChart::from_json(
-    r###"{
-        "width": 630,
-        "height": 410,
-        "margin": {
-            "left": 10,
-            "top": 5,
-            "right": 10
-        },
-        "title_text": "Bar Chart",
-        "title_font_color": "#345",
-        "title_align": "right",
-        "sub_title_text": "demo",
-        "legend_align": "left",
-        "series_list": [
-            {
-                "name": "Email",
-                "label_show": true,
-                "data": [120.0, 132.0, 101.0, 134.0, 90.0, 230.0, 210.0]
+&lt;p&gt;我的理解是不支持返回 JsString 这个类型？那怎么办？&lt;/p&gt;
+&lt;p&gt;下面这样写是可以的，但是效率不高，这里会把 utf-16 decode 成 utf-8, 然后 node.js 里面又要把 utf-8 转为 utf-16, 是没有必要的开销&lt;/p&gt;
+&lt;p&gt;pub fn get_process_cmdline (env: napi::Env, pid: u32) -&amp;gt; anyhow::Result&amp;lt;String&amp;gt; {
+...&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Ok(String::from_utf16_lossy(&amp;amp;cmdline));
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;}&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-rust"&gt;use std::{ mem, ptr, mem::transmute, slice, ffi::c_void };
+
+use napi_derive::napi;
+use napi::{ bindgen_prelude::Utf16String, JsString };
+
+use anyhow::format_err;
+
+use windows::core::s;
+
+
+#[napi]
+pub fn get_process_cmdline (env: napi::Env, pid: u32) -&amp;gt; anyhow::Result&amp;lt;JsString&amp;gt; {
+    use windows::{
+        Win32::{ System::{ 
+            Threading::{
+                OpenProcess, PROCESS_QUERY_INFORMATION, PROCESS_BASIC_INFORMATION, PROCESS_VM_READ, RTL_USER_PROCESS_PARAMETERS
             },
-            {
-                "name": "Union Ads",
-                "data": [220.0, 182.0, 191.0, 234.0, 290.0, 330.0, 310.0]
-            }
-        ],
-        "x_axis_data": [
-            "Mon",
-            "Tue",
-            "Wed",
-            "Thu",
-            "Fri",
-            "Sat",
-            "Sun"
-        ]
-    }"###,
-).unwrap();
-println!("{}", bar_chart.svg().unwrap());
-svg_to_png(&amp;amp;bar_chart.svg().unwrap()).unwrap();
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Sep 2023 12:40:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973872#reply1</guid></item><item><title>[VPS] 大毛那里的 vps 咋样？</title><link>https://www.v2ex.com/t/973869#reply6</link><description>&lt;p&gt;访问美国的网站会不会被歧视 4 ？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 12:18:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973869#reply6</guid></item></channel></rss>
+            Diagnostics::Debug::ReadProcessMemory,
+        },},
+        Wdk::System::Threading::{ NtQueryInformationProcess, ProcessBasicInformation }
+    };
+    
+    let handle = unsafe { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, false, pid) }?;
+    
+    // https://learn.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess
+    let mut pbi: PROCESS_BASIC_INFORMATION = Default::default();
+    let status = unsafe { NtQueryInformationProcess(
+        handle,
+        ProcessBasicInformation,
+        &amp;amp;mut pbi as *mut _ as *mut c_void,
+        mem::size_of_val(&amp;amp;pbi) as u32, 
+        ptr::null_mut())}?;
+    
+    // ReadProcessMemory(进程 handle, 要读取的内存地址, 输出 buffer, 要读取的字节数, 已读取的字节数 (可选, 传入指针))
+    // https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-readprocessmemory
+    // 将 pbi.PebBaseAddress 读到 peb 中
+    let mut peb: RTL_USER_PROCESS_PARAMETERS = Default::default();
+    unsafe { ReadProcessMemory(
+        handle, 
+        pbi.PebBaseAddress as *mut c_void, 
+        &amp;amp;mut peb as *mut _ as *mut c_void,
+        mem::size_of_val(&amp;amp;peb),
+        None) }?;
+    
+    let mut cmdline = vec![0u16; (peb.CommandLine.Length / 2) as usize];
+    unsafe { ReadProcessMemory(
+        handle, 
+        peb.CommandLine.Buffer.as_ptr() as *mut c_void,
+        cmdline.as_mut_ptr() as *mut _, 
+        peb.CommandLine.Length as usize, 
+        None) }?;
+    
+    // 这里会把 utf-16 decode 成 utf-8, 然后 node.js 里面又要把 utf-8 转为 utf-16, 是没有必要的开销
+    // Ok(String::from_utf16_lossy(&amp;amp;cmdline));
+    
+    // 想这样直接 return utf16 string
+    Ok(env.create_string_utf16(&amp;amp;cmdline)?)
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Sep 2023 16:09:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973900#reply0</guid></item><item><title>[程序员] microsoft charity 似乎会漏录访问</title><link>https://www.v2ex.com/t/973898#reply0</link><description>&lt;p&gt;对吧？
+可能因为用户开了隐私模式？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973898#reply0</guid></item><item><title>[问与答] 求推荐一个支持 12 代 U 的主板</title><link>https://www.v2ex.com/t/973897#reply5</link><description>我计划把原来的主板升级到双 GPU 和 Nvlink ，保留原来的 U 和内存等。&lt;br /&gt;&lt;br /&gt;要求:&lt;br /&gt;&lt;br /&gt;高性价比，花哨的功能不要，但要支持 ddr4 内存和 2xPice-16...&lt;br /&gt;不知道有没有这种主板？</description><pubDate>Thu, 14 Sep 2023 15:57:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973897#reply5</guid></item><item><title>[macOS] apple 开发者账户不切换至云上贵州不让登录了</title><link>https://www.v2ex.com/t/973896#reply0</link><description>&lt;p&gt;国区 apple 账户一直没有同意迁移到云上贵州，刚才升级到了 sonoma ，需要下载新版本的 xcode ，尝试登录 developer 下载，结果不迁移到云上贵州不让用开发者账户了，搞不懂了，开发者账户哪需要用到 icloud?&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973896#reply0</guid></item><item><title>[Apple] 去年写的 iPhone 库存监控工具刚才试了下依旧还能使用</title><link>https://www.v2ex.com/t/973895#reply1</link><description>&lt;p&gt;支持中国大陆，香港，澳门，中国台湾，日本的 Apple 直营店。 &lt;/p&gt;
+&lt;p&gt;如果监控到货会给手机推送消息.&lt;/p&gt;
+&lt;p&gt;详情可以看这篇文章 &lt;a href="https://www.v2ex.com/t/895253" rel="nofollow"&gt;由于 iPhone14 Pro 官网难买，写了个小工具监控线下直营店库存&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973895#reply1</guid></item><item><title>[OpenAI] 有人用 gpt 写代码的吗</title><link>https://www.v2ex.com/t/973892#reply1</link><description>&lt;p&gt;这玩意想让他写一个复杂点的项目怎么搞？他每次只回复一个非常简单的代码段啊&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973892#reply1</guid></item></channel></rss>
