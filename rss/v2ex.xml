@@ -1,149 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Sep 2023 23:44:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] lunaproxy.com 这家 ip 代理太坑了，按 10 倍计算流量的</title><link>https://www.v2ex.com/t/973919#reply1</link><description>&lt;p&gt;广告打得飞起，结果这么坑人。操。
-求推荐靠谱、价格公道的 ip 代理。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 23:20:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973919#reply1</guid></item><item><title>[Apple] 今年风向不对啊</title><link>https://www.v2ex.com/t/973918#reply8</link><description>iPhone15 都没有啥热搜，手动搜索点进去还是一堆踩的。是大家都不用苹果了嘛</description><pubDate>Thu, 14 Sep 2023 23:10:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973918#reply8</guid></item><item><title>[macOS] Devonthink 对于理科学生/程序员到底有多大作用</title><link>https://www.v2ex.com/t/973916#reply1</link><description>&lt;p&gt;前两天看到一个帖子说 DEVONthink 学生优惠 40off ，但是我一直都没有觉得 DEVONthink 对我的工作/学习有啥特别大的作用。&lt;/p&gt;
-&lt;p&gt;如果用来收藏链接/文件，我有 Anybox ，基本上做到了百分之 80-90 的功能吧，除了不能很好的分离数据库和以及不能全文搜索。&lt;/p&gt;
-&lt;p&gt;如果用作文件管理和搜索，Alfred + 任意一个全文搜索的软件也挺好的, finder 也有 smart search 。&lt;/p&gt;
-&lt;p&gt;而且 DEVONthink 有一个很大的缺点就是&lt;a href="https://discourse.devontechnologies.com/t/accessing-dt-content-as-volume-in-finder/61084" rel="nofollow"&gt;不能在 Terminal 操作文件&lt;/a&gt;，比如我要用 pandoc 处理文件，还得把文件在 Finder/Terminal 处理完，再导入到 DEVONthink ，我觉得对于程序员应该非常不友好吧（我不是程序员所以只能猜测）。&lt;/p&gt;
-&lt;p&gt;如果用作文献管理，更专业的 Endnote ，zotero 是更好的选择。&lt;/p&gt;
-&lt;p&gt;如果是 RSS ，reeder 比他更美观，但是不可否认 DEVONthink 会有更完备的搜索功能。&lt;/p&gt;
-&lt;p&gt;最后还有一点我最不喜欢的，竟然默认不能包含文件扩展名搜索（在 Alfred Workflow 也不能搜扩展名），只能依靠搜索时添加条件。&lt;/p&gt;
-&lt;p&gt;当然我仅仅试用了几天，有没有大佬分享一下使用感受，解答一下我以上的疑惑啊，感激不尽！因为在 14 天试用期，40 off 也快结束了，回答必感谢！&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 21:31:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973916#reply1</guid></item><item><title>[Surge] surge ios 差两人 加 vx 拉群 一个位置 110</title><link>https://www.v2ex.com/t/973915#reply0</link><description>「 Surge for iOS 」差 2 个位置，一个位置 CNY110 ，订阅更新至 2024.9.15 日(有效)，有新功能协商，愿意就继续订阅，跳车不退，加 vx 拉群 联系 vx：Jj_Nove&lt;br /&gt;换设备可自行反激活</description><pubDate>Thu, 14 Sep 2023 20:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973915#reply0</guid></item><item><title>[程序员] [资源求助] 谁有好用的 AI 批量剪辑软件</title><link>https://www.v2ex.com/t/973914#reply0</link><description>目前用了免费的 MV 大师、AI 自动剪辑 10.1 、灵狐(还不支持 N 卡)，都不满意&lt;br /&gt;收费的好像可以制作探店、短视频带货、团购达人，就是贵&lt;br /&gt;就是可以批量混剪输出成品的~~~&lt;br /&gt;例：&lt;br /&gt;给一批音频 1-N 个，在一批视频中（先加速过，后截断成了 30s/段），按音频裂变，细微功能如有更好(特效，转场什么的，加标题，字幕，提示语)&lt;br /&gt;裂变成 N 个成品后，我自己挑选个满意的，再去剪映手工微调下，成最终成品。。。大致就这么个过程&lt;br /&gt;&lt;br /&gt;PS：做自媒体，时间宝贵。最好有破解的，前期不想破费&lt;br /&gt;或者是我免费的用的不够好，有最佳实践的指导下也行</description><pubDate>Thu, 14 Sep 2023 18:50:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973914#reply0</guid></item><item><title>[Apple] 开个贴讨论海外用国产安卓替换 Apple 的问题</title><link>https://www.v2ex.com/t/973913#reply9</link><description>&lt;p&gt;隔壁贴讨论安卓替换如火如荼，但是在海外（主要是美加），实在没什么可选的。安卓能买的基本只有三星，但是三星的系统优化曾经给我留下非常深的心理阴影，实在不想再次尝试。&lt;/p&gt;
-&lt;p&gt;介绍一个查型号频段支持的网站，&lt;a href="https://www.kimovil.com/en/frequency-checker" rel="nofollow"&gt;https://www.kimovil.com/en/frequency-checker&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前看下来小米 13 pro 国际版比较理想，除了不支持 mmwave ，频段比较全。&lt;/p&gt;
-&lt;p&gt;不知道国内版刷国际版能不能解锁频段，或者有没有什么方便实惠入手国际版的渠道。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 18:32:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973913#reply9</guid></item><item><title>[汽车] 电车是不是开 7-8 年电池就报废了要换新的？</title><link>https://www.v2ex.com/t/973912#reply2</link><description>&lt;p&gt;想问下电车的寿命问题，电池损耗&lt;/p&gt;
-&lt;p&gt;换电池的价格大约是整车价格的一半？&lt;/p&gt;
-&lt;p&gt;（有些车的电池好像和底盘一起的，换电池等于也要换底盘？）&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 18:12:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973912#reply2</guid></item><item><title>[Chrome] Android Chrome（Play 最新版）莫名弹框提示使用搜狗搜索</title><link>https://www.v2ex.com/t/973909#reply5</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn5.telegram-cdn.org/file/hVxQiWMa3YRsmkD_qqDhyzHNIHgMR0mF7iWuUfUGChc8fqgjtibiNYRW3FdvHO6mAX3Lv4VGEKolJEpH7tR-A5F-rzaP_EydALL01C9atutMhS0yIMMaxJK-4ff4CFsAwH_X8ZXSxPFbKb8z8h4yNVrXSolv7d9grjxwHhUWbW587l4L4C1xHKBLF1K-tJaEhGeA1fU_n15ww7SnZOr5TFTfQSWMuOEInccnN04ioRZMTvBk67WKM8SjZEDuhm08C1MbAHWbqqz8ufNYz7Z-9RBlZX529UG1GijoLAURFJLHy7pmS01n-FdyFyADfxsgyQhbLaq5v1RIpjLYKPKZKw.jpg" /&gt;
-当时家中 wifi 且未访问危险网站，情况出现多次，但间隔时间较长&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 17:22:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973909#reply5</guid></item><item><title>[English] 为什么学习英语很重要？</title><link>https://www.v2ex.com/t/973907#reply0</link><description>&lt;p&gt;说一个最近的例子，有位邻居原来是在国内上班，前段时间突然不上班了。&lt;/p&gt;
-&lt;p&gt;家里有矿吗？&lt;/p&gt;
-&lt;p&gt;想多了&lt;/p&gt;
-&lt;p&gt;真实情况是这样的，他自己通过互联网，找到了一份海外的工作，而且是远程办公就可以了。&lt;/p&gt;
-&lt;p&gt;在国内大多数人英语都非常普通，因此他就找了一些翻译软件来辅助办公，开会时可以开启 IM 工具的实时转录，实时将英语转为中文。&lt;/p&gt;
-&lt;p&gt;就这样，他每天呆在家里办公，还可以减少通勤的时间，顺便带带家里的小孩。&lt;/p&gt;
-&lt;p&gt;这个例子想说明的是，打开一下思路，不要整天想着只能赚国内的钱。这都哪个年代了，我们的思维也要国际化。&lt;/p&gt;
-&lt;p&gt;多掌握一门国际外语，职业的道路自然会更广阔。&lt;/p&gt;
-&lt;p&gt;现在失业了，送快递的工作都要挤破头。还是学学英语，说不定哪天可以教英语、做翻译、和外国友人做生意。再不济，可以让自己更好的学习一些英文资料。&lt;/p&gt;
-&lt;p&gt;多一份技能，多一份优势。想找外企，或者有些公司在做海外的项目，这都可能成为你的竞争优势。&lt;/p&gt;
-&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/bHXK7M9OCtTooHjtxCbLwg" rel="nofollow"&gt;为什么学习英语很重要？&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 17:19:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973907#reply0</guid></item><item><title>[问与答] next.js 的 ssg 能不能自定义生成策略？</title><link>https://www.v2ex.com/t/973906#reply0</link><description>&lt;p&gt;&lt;strong&gt;首先道个歉，nextjs 节点实在是冷清，就发到这里了&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;next.js 的 ssg 功能，在生成页面时，使用的策略是第一个请求过来以后，就使用&lt;code&gt;getStaticProps&lt;/code&gt;获取数据，然后缓存数据，往后第二次的请求就不再重新获取数据，而是使用缓存的静态数据。&lt;/p&gt;
-&lt;p&gt;我现在想自定义一个策略，比如定义一个 api 接口，这个接口返回一组路径，不管是定时或者手动触发，让 nextjs 根据这个接口返回值生成静态路由页面。&lt;/p&gt;
-&lt;p&gt;不知道我的想法是否可行？网上搜了很久，似乎 next.js 不支持其他的 ssg 方式，只能用它自己提供的那种策略。&lt;/p&gt;
-&lt;p&gt;或者有其他的前端框架能满足我的需求吗？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973906#reply0</guid></item><item><title>[程序员] 急！大佬们！公司不给私人开放网络权限？怎么办？</title><link>https://www.v2ex.com/t/973905#reply29</link><description>&lt;p&gt;公司给配的台式电脑，虽然能联国内网，但是内置了行为检测软件，我都看到进程了，我连微信都不登录。如果带自己电脑还要申请 wifi 联网，得走流程，申请 Wi-Fi 入网，基本不一定能通过。怎么办啊？作为程序员来说工作不能不翻墙啊，公司那边解释说，因为有其他公司因为盗版软件版权问题，发过律师函，来闹事过，所以严格控制网络。给了这样的冠冕堂皇的理由！怎么办？难道我真的就只能买个随身 Wi-Fi 来给自己电脑上网吗？有什么办法啊？&lt;/p&gt;
-&lt;p&gt;对了，公司台式机的那一根网线我倒是能拔下来，插在我自己笔记本上，但是插上之后，公司台式机就没网了。而且我还怕他们还对 ip 流量进行监测着，这个我不确定，因为台式机有行为检测软件，搞不好，网络也会有检测。怎么办？&lt;/p&gt;
-&lt;p&gt;各位有什么好办法啊？两全其美的办法啊，我真的不想买随身 wifi 那垃圾玩意啊？&lt;/p&gt;
-&lt;p&gt;题外话，问一嘴，如果网线我插自己电脑上，即便他们有对网络进行监控，像国内的网站软件就直连，他们想检测检测去吧，着无所谓。国外网站走代理用的 ss 协议，已经加密了，他们检测不到我访问了啥网站吧？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:44:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973905#reply29</guid></item><item><title>[职场话题] 试用期辞退，仲裁赢了也输了</title><link>https://www.v2ex.com/t/973904#reply8</link><description>&lt;p&gt;避雷，杭州市滨江区的聚才大厦，杭州耳畔科技/杭州修真科技，老板陈弘毅，法人兼技术总监庞立山。&lt;/p&gt;
-&lt;p&gt;其实也不需要避了，据说庞某的公司已经被强制执行了。跟我同一场仲裁的还有三个人，根据他们的说法，因为有一家做类似业务的公司已经被警察端了，老板怕警察上门停了部分业务，所以 23 年 3 月辞退了一批员工。他们仨就一起申请仲裁了。&lt;/p&gt;
-&lt;p&gt;这个 B 公司加班超级严重，996 起步，甚至曾经一个月休两天。每个月有 40 小时（ 5 天）额度把加班时长换工资，超出的只能调休（你可以申请调休，批不批看公司忙不忙。你说呢忙不忙）。&lt;strong&gt;每月按加班时长考核绩效，不加班就是不合格。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;更加抽象的是忙的要死的时候有个周五还组织团建（本来应该是周五上线周六值班修 bug ，变成了周五团建周六上线周日修 bug ），四十来度的天气去桐庐漂流（当天杭州高温预警），中午户外烧烤。神经病，我直接请假了。我猜是这时候让老板不爽了，工作日团建已经是皇恩浩荡了，还不给面子？&lt;/p&gt;
-&lt;p&gt;宫斗严重，二十来个人还搞办公室政治。产品、测试、前端、安卓、iOS 、php 每个部门三个人左右，都是独立的小团体（特别是 iOS 、php 和测试）。几个“组长”有个小群（我感觉这些人就是表面和气背地捅刀子，反正 php 郭某没少说其他人坏话），在群里吐槽庞某搞 996 ，被 iOS 组长李某截图发给庞某。最后李某拿到了项目负责人的位置，郭某耿耿于怀，因为之前的项目负责人是一位 php 大佬，因为不愿意加班被赶走了，按照“世袭”应当轮到郭某。刚入职的时候李某请我们 php 部门（ php 大佬和原先的开发走了，一下子招了三个新员工）吃饭，吃完我还跟郭某说李哥人还蛮好嘞，郭某说是成为了项目负责人在给他下马威宣誓主权。&lt;/p&gt;
-&lt;p&gt;所谓“组长”，就是早几个月半年来公司。96 年左右的带专，能力一般，有个组长头衔就真支棱起来了。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;老板是皇帝，庞某是大太监，李某是庞太监的第一走狗&lt;/em&gt;——php 组长郭某。&lt;/p&gt;
-&lt;p&gt;点名吐槽所谓后端负责人郭某。和人事勾结搞了几条聊天记录，说我写了 bug （你他妈一个 bug 都不写是吧，你一个开发能不能听听自己说的是不是人话啊？），一个月啥活也没干（我他妈提交的都是空行是吧）。提供了所谓的证据，就是某个废弃的代码仓库提交记录，最近一次提交在六个月之前（照你的意思是 php 五个人全都不干活是吧）。还挑了我日报写的一个 feat 说写了完成某功能实际没有，我在欺瞒。我欺你妈逼呢，隔壁仓库某个分支最后一次提交的 commit message 不就是？到底是眼瞎呢，还是菜呢？最可能就是单纯品德低下吧？&lt;/p&gt;
-&lt;p&gt;人事主管，姓名我忘了，钉钉忘记截图，通知我不给过试用期的时候忽悠我签辞职申请书。我他妈都工作四年多了，请你不要侮辱我的智商好吗？还威胁要卡我社保，下一家公司背调的时候说坏话。最后我问她要离职证明，说公章暂时不在，弄好了快递给我，给了吗？比资本家更可恨的就是你们这种汉奸。&lt;/p&gt;
-&lt;p&gt;这傻吊公司的试用期“录用条件”第一条：开发不允许出现 bug 。庭辩的时候我说没有书面证据可以证明这个 bug 是我写的，代理律师说“不管是不是你写的，只要出现了就算”，我都不知道该说什么。（大家不用担心，仲裁员根本不采纳这种说法）&lt;/p&gt;
-&lt;p&gt;不过这个公司也有很精明的一点，&lt;strong&gt;不发工资条，并且加班不留证据&lt;/strong&gt;。加班是由庞某通知给各位“组长”，各位组长再口头通知给组员。每天加完班写个审批条，写上时间交到人事，不走钉钉。提交前审批单上只有你自己填的内容，没有公章，你拍照了也不能作为证据；审批后……哪有审批后，人事统计一下时间月底结算。&lt;/p&gt;
-&lt;p&gt;这也就是我拿着钉钉打卡记录，拿着日报记录，拿着代码提交记录，仲裁员也不支持我申请五千多加班工资的原因。&lt;/p&gt;
-&lt;p&gt;不过倒是也有破解之法，就是月底人事拿着单子来核对加班时长的时候偷偷录个音，或者问人事要工资条（这个 B 公司不给），或者在钉钉上假装忘了当月加班时长需要和人事核对问一下，人事回复以后截图就可以当成证明。（希望这条不要被某些丧尽天良的人事看到拿来对付打工人）。&lt;/p&gt;
-&lt;p&gt;我 0203 提交的仲裁申请，0803 才立案，0912 开庭。不知道是案子太多在排队还是因为后面有四个人也申请了仲裁，仲裁庭在考虑并案还是啥的。中间仲裁庭来过一个电话问调解意愿，我愿意，庞立山拒绝。&lt;/p&gt;
-&lt;p&gt;开庭一共五个人，上半场仨，三月份集体辞退。他们从 2:50 开到 5:40 ，我旁听。两个 iOS 申请一个月工资 18k 和 16k ，一个运营申请两个月工资 2x7k ，庞某只愿意给 7k 、7k 、5k ，最后仲裁员调解，代理律师申请后给了 10k 、10k 、7k ，恭喜。&lt;/p&gt;
-&lt;p&gt;下半场我和另一位并案，但是对方在上海，不来了，缺席当撤诉处理。开庭前，仲裁员看完资料直接告诉代理律师，案子肯定判给我，让她问问庞某能不能调解。庞给的指示是试用期辞退坚决不和解。庭辩我说了些废话（上面提到的 bug 不是我写的、拿着 git 提交记录证明我有在工作），其实不需要，因为公司不能证明我能力不达标（没有考核），这一点完全足够。二十分钟完事儿。&lt;/p&gt;
-&lt;p&gt;判决书大概要等一个半月，公司还是不给钱拿着判决书去法院申请强制执行。不过听仲裁员和代理律师说，这个 B 公司已经被强制执行了，账上目前还有点钱但是两个月后大概率已经没钱了，所以我这个钱很可能拿不到。最后我只能混个精神胜利，赢了也输了。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;给大伙儿一点建议：&lt;/p&gt;
-&lt;p&gt;最最最重要的前提：&lt;em&gt;&lt;strong&gt;证据！证据！！证据！！！越多越好！越多越好！！越多越好！！！&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;试用期辞退极大概率能拿一个月（没有争议）的赔偿金，正式员工辞退的 n+1 或者 2n 就需要仲裁员去裁定最终金额。&lt;/p&gt;
-&lt;p&gt;如果你想要申请加班费，至少准备：加班申请和审批记录（或者老板/直属领导要求加班的聊天记录，记住不能是让其他人转述）（证明公司知晓并且同意你加班）、加班打卡记录（证明你到了工作地点）、加班日报（证明你干了活）。&lt;/p&gt;
-&lt;p&gt;如果人事不给工资条，不给离职证明，直接劳动监察大队投诉。我没管是因为后来去了华为 OD ，德科的 hr 说签个与上一家公司解除劳动关系的保证书就可以了不要离职证明。&lt;/p&gt;
-&lt;p&gt;然后再泼一点凉水：&lt;/p&gt;
-&lt;p&gt;杭州目前仲裁立案 3-6 个月。&lt;/p&gt;
-&lt;p&gt;加班费 10 个人有 9.5 个都得不到支持（因为&lt;strong&gt;证据不充分&lt;/strong&gt;），这是仲裁员的原话。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;一开始就是想骂一骂垃圾公司和垃圾同事，没打过草稿，写得很乱，见谅。&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:19:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973904#reply8</guid></item><item><title>[问与答] 有点纠结选哪个工作</title><link>https://www.v2ex.com/t/973903#reply1</link><description>&lt;p&gt;我有两个 offer ，一个是做大模型，一个是做搜索，大模型这块我觉得是未来的风口，但是可能有一定的学习成本，而且是在北京，户口问题无法解决，搜索是之前做过的一些内容，应该还比较容易上手，但是可能就是技术深度不够，重复做之前做过的事情，但是在广州，能解决户口问题，所以我现在有点纠结到底应该选哪个工作&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:19:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973903#reply1</guid></item><item><title>[问与答] Adobe 土区正版稳吗？使用时可以使用非土耳其 ip（已知不能用国内 IP）吗？</title><link>https://www.v2ex.com/t/973902#reply1</link><description>&lt;p&gt;主要是我的梯子没有土耳其节点，借别人的有，但是毕竟是借的用起来不太方便&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 16:17:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973902#reply1</guid></item><item><title>[Rust] [rust] 用 napi-rs 这个库写 nodejs addon 获取 windows 进程命令行, 如何在函数中直接返回 JsString</title><link>https://www.v2ex.com/t/973900#reply0</link><description>&lt;p&gt;想写一个函数获取 windows 某个进程的命令行&lt;/p&gt;
-&lt;p&gt;得到了 cmdline 变量，是一个 Vec&amp;lt;u16&amp;gt;，想直接通过 Ok(env.create_string_utf16(&amp;amp;cmdline)?) 这样返回，但是 [napi] 宏展开报错了&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-text"&gt;error[E0277]: the trait bound `Env: NapiValue` is not satisfied
-  --&amp;gt; lib/addon/addon.rs:15:1
-   |
-15 | #[napi]
-   | ^^^^^^^ the trait `NapiValue` is not implemented for `Env`
-   |
-   = help: the following other types implement trait `NapiValue`:
-             JsArrayBuffer
-             JsTypedArray
-             JsDataView
-             JsBuffer
-             Date
-             JsFunction
-             JsGlobal
-             JsTimeout
-           and 10 others
-   = note: required for `Env` to implement `FromNapiValue`
-   = note: this error originates in the attribute macro `napi` (in Nightly builds, run with -Z macro-backtrace for more info)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我的理解是不支持返回 JsString 这个类型？那怎么办？&lt;/p&gt;
-&lt;p&gt;下面这样写是可以的，但是效率不高，这里会把 utf-16 decode 成 utf-8, 然后 node.js 里面又要把 utf-8 转为 utf-16, 是没有必要的开销&lt;/p&gt;
-&lt;p&gt;pub fn get_process_cmdline (env: napi::Env, pid: u32) -&amp;gt; anyhow::Result&amp;lt;String&amp;gt; {
-...&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Ok(String::from_utf16_lossy(&amp;amp;cmdline));
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-rust"&gt;use std::{ mem, ptr, mem::transmute, slice, ffi::c_void };
-
-use napi_derive::napi;
-use napi::{ bindgen_prelude::Utf16String, JsString };
-
-use anyhow::format_err;
-
-use windows::core::s;
-
-
-#[napi]
-pub fn get_process_cmdline (env: napi::Env, pid: u32) -&amp;gt; anyhow::Result&amp;lt;JsString&amp;gt; {
-    use windows::{
-        Win32::{ System::{ 
-            Threading::{
-                OpenProcess, PROCESS_QUERY_INFORMATION, PROCESS_BASIC_INFORMATION, PROCESS_VM_READ, RTL_USER_PROCESS_PARAMETERS
-            },
-            Diagnostics::Debug::ReadProcessMemory,
-        },},
-        Wdk::System::Threading::{ NtQueryInformationProcess, ProcessBasicInformation }
-    };
-    
-    let handle = unsafe { OpenProcess(PROCESS_QUERY_INFORMATION | PROCESS_VM_READ, false, pid) }?;
-    
-    // https://learn.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess
-    let mut pbi: PROCESS_BASIC_INFORMATION = Default::default();
-    let status = unsafe { NtQueryInformationProcess(
-        handle,
-        ProcessBasicInformation,
-        &amp;amp;mut pbi as *mut _ as *mut c_void,
-        mem::size_of_val(&amp;amp;pbi) as u32, 
-        ptr::null_mut())}?;
-    
-    // ReadProcessMemory(进程 handle, 要读取的内存地址, 输出 buffer, 要读取的字节数, 已读取的字节数 (可选, 传入指针))
-    // https://learn.microsoft.com/en-us/windows/win32/api/memoryapi/nf-memoryapi-readprocessmemory
-    // 将 pbi.PebBaseAddress 读到 peb 中
-    let mut peb: RTL_USER_PROCESS_PARAMETERS = Default::default();
-    unsafe { ReadProcessMemory(
-        handle, 
-        pbi.PebBaseAddress as *mut c_void, 
-        &amp;amp;mut peb as *mut _ as *mut c_void,
-        mem::size_of_val(&amp;amp;peb),
-        None) }?;
-    
-    let mut cmdline = vec![0u16; (peb.CommandLine.Length / 2) as usize];
-    unsafe { ReadProcessMemory(
-        handle, 
-        peb.CommandLine.Buffer.as_ptr() as *mut c_void,
-        cmdline.as_mut_ptr() as *mut _, 
-        peb.CommandLine.Length as usize, 
-        None) }?;
-    
-    // 这里会把 utf-16 decode 成 utf-8, 然后 node.js 里面又要把 utf-8 转为 utf-16, 是没有必要的开销
-    // Ok(String::from_utf16_lossy(&amp;amp;cmdline));
-    
-    // 想这样直接 return utf16 string
-    Ok(env.create_string_utf16(&amp;amp;cmdline)?)
-}
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Sep 2023 16:09:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973900#reply0</guid></item><item><title>[程序员] microsoft charity 似乎会漏录访问</title><link>https://www.v2ex.com/t/973898#reply0</link><description>&lt;p&gt;对吧？
-可能因为用户开了隐私模式？&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973898#reply0</guid></item><item><title>[问与答] 求推荐一个支持 12 代 U 的主板</title><link>https://www.v2ex.com/t/973897#reply5</link><description>我计划把原来的主板升级到双 GPU 和 Nvlink ，保留原来的 U 和内存等。&lt;br /&gt;&lt;br /&gt;要求:&lt;br /&gt;&lt;br /&gt;高性价比，花哨的功能不要，但要支持 ddr4 内存和 2xPice-16...&lt;br /&gt;不知道有没有这种主板？</description><pubDate>Thu, 14 Sep 2023 15:57:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973897#reply5</guid></item><item><title>[macOS] apple 开发者账户不切换至云上贵州不让登录了</title><link>https://www.v2ex.com/t/973896#reply0</link><description>&lt;p&gt;国区 apple 账户一直没有同意迁移到云上贵州，刚才升级到了 sonoma ，需要下载新版本的 xcode ，尝试登录 developer 下载，结果不迁移到云上贵州不让用开发者账户了，搞不懂了，开发者账户哪需要用到 icloud?&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973896#reply0</guid></item><item><title>[Apple] 去年写的 iPhone 库存监控工具刚才试了下依旧还能使用</title><link>https://www.v2ex.com/t/973895#reply1</link><description>&lt;p&gt;支持中国大陆，香港，澳门，中国台湾，日本的 Apple 直营店。 &lt;/p&gt;
-&lt;p&gt;如果监控到货会给手机推送消息.&lt;/p&gt;
-&lt;p&gt;详情可以看这篇文章 &lt;a href="https://www.v2ex.com/t/895253" rel="nofollow"&gt;由于 iPhone14 Pro 官网难买，写了个小工具监控线下直营店库存&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 15:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973895#reply1</guid></item><item><title>[OpenAI] 有人用 gpt 写代码的吗</title><link>https://www.v2ex.com/t/973892#reply1</link><description>&lt;p&gt;这玩意想让他写一个复杂点的项目怎么搞？他每次只回复一个非常简单的代码段啊&lt;/p&gt;</description><pubDate>Thu, 14 Sep 2023 14:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/973892#reply1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 15 Sep 2023 04:57:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] WebStorm 和 vscode 的格式化结果不一样,是否有办法让他们保持结果一致?</title><link>https://www.v2ex.com/t/974057#reply0</link><description>WebStorm 中格式化快捷键 Ctrl+Alt+L 格式化.vue 文件后的结果和 vscodeCtrl+Alt+F 的结果不一样,导致可能本来没改什么东西,但是 git 显示全都是差异&lt;br /&gt;&lt;br /&gt;请问是否有办法让他们俩的格式化结果保持一致?&lt;br /&gt;&lt;br /&gt;PS&lt;br /&gt;请忽略现在为啥在同时使用 vscode 和 WebStorm</description><pubDate>Fri, 15 Sep 2023 04:51:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974057#reply0</guid></item><item><title>[酷工作] 感觉有个机会，公司搬家了，新地点附近没有便利店，买烟水极其不方便想开便利店，帖子细说。</title><link>https://www.v2ex.com/t/974056#reply1</link><description>&lt;p&gt;新地点是北京首钢园接近六环外，基础设施不是很完善，公司 200 人左右，附近没有卖早餐的。有懂行的朋友提点意见吗？旁边有个大商场，但是没有卖小商品烟水的，也有面馆之类。
+租金还没问，估计不会太高，因为空置率很高。
+op 本人背景，今年刚毕业，C++程序员，薪资 10k+，要是干的话得贷款梭哈。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:48:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974056#reply1</guid></item><item><title>[分享发现] Digitalvirt 主机购买测试、解锁、测试</title><link>https://www.v2ex.com/t/974055#reply0</link><description>&lt;h1&gt;入坑&lt;/h1&gt;
+&lt;p&gt;Digitalvirt 是我早期接触的一家 VPS 服务提供商、属于是小型规模的提供机构。&lt;/p&gt;
+&lt;p&gt;它们家最值得推敲的是美国的 9929 的机器，三网都是很直。下面是演示图&lt;/p&gt;
+&lt;p&gt;使用的测试脚本是：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; curl &lt;a href="https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh" rel="nofollow"&gt;https://raw.githubusercontent.com/zhanghanyun/backtrace/main/install.sh&lt;/a&gt; -sSf | sh&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20230915123435055" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/09/15/WdW.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:47:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974055#reply0</guid></item><item><title>[iPhone] 手持 iPhone 12 该如何处理</title><link>https://www.v2ex.com/t/974053#reply2</link><description>&lt;p&gt;法国佬说辐射超标，老铁们，如何处理。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974053#reply2</guid></item><item><title>[macOS] macOS 窗口小化 bug</title><link>https://www.v2ex.com/t/974051#reply5</link><description>&lt;p&gt;macOS 13 开始出现的这个窗口闪烁问题，14 还没解决，视频录制效果： &lt;a href="https://t.wss.ink/f/c6su6bba7ib" rel="nofollow"&gt;https://t.wss.ink/f/c6su6bba7ib&lt;/a&gt; 。
+不只是 QQ 、微信等第三方 app ，包括系统应用程序比如终端，都有很大概率出现。&lt;/p&gt;
+&lt;p&gt;复现步骤：
+1.点击程序小化按钮；
+2.鼠标点击一下其他位置，让鼠标的焦点从当前程序转移到任意地方；
+3.再点击程序 dock 的图标，就会闪烁&lt;/p&gt;
+&lt;p&gt;第二步可能也不需要操作。&lt;/p&gt;
+&lt;p&gt;暂时没有找到好的解决方法，但注意到，如果小化应用后，从小化的位置打开程序，不会出现这种闪烁，应该是点击 dock 的图标和小化程序恢复的动画冲突了。&lt;a href="https://share.cleanshot.com/P6zB3K0T" rel="nofollow"&gt;https://share.cleanshot.com/P6zB3K0T&lt;/a&gt; 。
+想着关掉这个动画，但是网上没有关闭的方式。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:25:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974051#reply5</guid></item><item><title>[Linux] 各位的 Linux 系统以及终端背景都用的啥壁纸，能否欣赏一下</title><link>https://www.v2ex.com/t/974049#reply2</link><description>&lt;p&gt;有没有 linux 风格的壁纸分享一下，充满 geek 风格最好，哈哈哈....&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974049#reply2</guid></item><item><title>[程序员] 我的罗技 G610 键盘进水了好伤心</title><link>https://www.v2ex.com/t/974048#reply0</link><description>它抢我豆腐花吃。。。&lt;br /&gt;现在表现就是某些键按不到、有些功能键一直按着&lt;br /&gt;&lt;br /&gt;不知道还值不值得修。。。陪了我好多年了</description><pubDate>Fri, 15 Sep 2023 04:20:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974048#reply0</guid></item><item><title>[问与答] 光通信研究生选择：北邮 or 成电？</title><link>https://www.v2ex.com/t/974047#reply2</link><description>&lt;p&gt;请各位提供一点意见，我现在的想法是读完硕士继续读博，不知道这两个组哪个更好。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.北邮徐坤组组内的一位老师，电子学硕，老师比较年轻，人很好，学术项目均做，研二之后会放实习。&lt;/p&gt;
+&lt;p&gt;2.成电邱昆组组内的一位老师，通信专硕，老师年纪偏大，人很好，主做项目，现在不怎么做学术了，貌似研二之后也会放实习。&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Fri, 15 Sep 2023 04:20:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974047#reply2</guid></item><item><title>[NAS] QYGD 12500T es 做 NAS 怎么样？</title><link>https://www.v2ex.com/t/974046#reply0</link><description>&lt;p&gt;网上看 i5 12500T 待机功耗很低，然后 QYGD 12500T ES 版又不能用独显，那么不是刚好做 NAS 么。
+这里请教一下大家
+1 ，QYGD 和 正式版的 12500T 功耗有区别么？
+2 ，开 ESXI ，或者 PVE ，7x24 小时开机有没有什么 bug ？&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974046#reply0</guid></item><item><title>[分享发现] 交易实例：闲鱼交易遇到卖假货的，退货运费将由卖方出。</title><link>https://www.v2ex.com/t/974045#reply1</link><description>&lt;p&gt;前不久在闲鱼遇到一个很恶心的买卖。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;闲鱼上商品图为九牧王，商品描述也为九牧王，结果收到却是杂牌，很气愤。 ￥ 23&lt;/li&gt;
+&lt;li&gt;保留证据，也没废话，退货，运费需要买家先行垫付。 ￥ 15&lt;/li&gt;
+&lt;li&gt;到货后一直没收货，直到系统自动收货，退￥ 23&lt;/li&gt;
+&lt;li&gt;退运费&lt;/li&gt;
+&lt;li&gt;卖家拒绝&lt;/li&gt;
+&lt;li&gt;申请客服介入，判定为卖家支付运费。&lt;/li&gt;
+&lt;li&gt;卖家对付运费，退￥ 15&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;第一次遇到这种事，简直了，这种商家真恶心。得亏我有时间跟他耗。
+整个过程中没跟他说一句话，无须多言。&lt;br /&gt;
+后来我举报了这件商品，假货，系统判定为证据不足。  &lt;/p&gt;
+&lt;p&gt;下面是处理过程。  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/KyleBing/v2ex-image/assets/12215982/d425f7f8-920b-478c-9477-9028b54cc1b5" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/KyleBing/v2ex-image/assets/12215982/96385a06-a7a8-4042-ac20-61a742e577fc" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/KyleBing/v2ex-image/assets/12215982/6e26c770-216d-4417-b2c1-b3bd6156ae49" /&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 04:09:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974045#reply1</guid></item><item><title>[问与答] APP 开屏广告怎么去掉？</title><link>https://www.v2ex.com/t/974042#reply2</link><description>&lt;p&gt;现在各种 APP 都是开屏广告，烦不胜烦，一不小心就点进去广告了，苹果手机也一样，网易，淘宝，京东这些 APP 都自带开屏广告，试过一些办法，效果一般，有没有一劳永逸的办法呢？&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:59:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974042#reply2</guid></item><item><title>[香港] 去香港玩几天，求建议</title><link>https://www.v2ex.com/t/974040#reply0</link><description>&lt;p&gt;抢到了免费机票，但比较仓促，想起来可以搞个 SIM 卡和虚拟银行账户，想问问大家有什么推荐吗？&lt;/p&gt;
+&lt;p&gt;没有考虑实体银行是因为似乎比较麻烦，也没有特别迫切的需求。&lt;/p&gt;
+&lt;p&gt;如果还有其它吃住行方面的建议就更好啦&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:49:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974040#reply0</guid></item><item><title>[程序员] 公司内部新接入电脑静默安装软件</title><link>https://www.v2ex.com/t/974039#reply13</link><description>&lt;p&gt;公司内办公场所，新接入网络的电脑(Windows 7/10/11)静默安装公司的管理软件，被安装电脑无需做其他操作。
+只是解决这个安装的方式，具体安装的软件有现成的。&lt;/p&gt;
+&lt;p&gt;能做的请联系 &lt;a href="mailto:940950943@qq.com"&gt;940950943@qq.com&lt;/a&gt; ，预算 1W 打底。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:48:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974039#reply13</guid></item><item><title>[Chrome] Chrome 新版本的控制台颜色，看得我好难受啊啊啊</title><link>https://www.v2ex.com/t/974038#reply0</link><description>&lt;p&gt;平台：&lt;code&gt;macOS 13.5.2&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Chrome 版本：&lt;code&gt;Version 117.0.5938.62 (Official Build) (x86_64)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;暗色主题下，右侧的属性变为蓝色，且和左侧 element 中的标签不同色，真是逼死强迫症啊😭&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/z90XfEg.png" /&gt; &lt;/p&gt;
+&lt;p&gt;亮色主题下颜色也不一样&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/pzKcFOX.png" /&gt; &lt;/p&gt;
+&lt;p&gt;对比下 Firefox &lt;code&gt;117.0.1 (64-bit)&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/T9JcvRN.png" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QmFaRhK.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:47:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974038#reply0</guid></item><item><title>[OpenAI] google play 版 chatgpt 客户端登录成功的秘诀是啥？</title><link>https://www.v2ex.com/t/974037#reply0</link><description>&lt;p&gt;google play 版 chatgpt 客户端登录成功的秘诀是啥？
+报错：Something went wrong. Please make sure your device's date and time are set properly. Check that your internet connection is stable, then restart the app and try again.
+我已经把时区调成跟落地 ip （全局美区）一致了，依然无解。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:47:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974037#reply0</guid></item><item><title>[酷工作] web 全栈开发工程师(远程岗位) 10k-18k</title><link>https://www.v2ex.com/t/974036#reply0</link><description>&lt;p&gt;我们正在寻找一位优秀的 Web 全栈开发工程师加入我们的团队。职责包括产品的开发、维护和优化，参与需求分析和设计。要求熟练掌握 Node.js 和 React 框架，熟悉常见的前后端开发技术，具备团队协作能力和抗压能力，熟悉远程办公工具，有计算机专业背景和远程办公经验者优先。对远程工作有兴趣，具备良好的沟通能力和团队合作精神，自我驱动，注重细节，具备解决问题和学习新技术的能力。&lt;/p&gt;
+&lt;p&gt;职位职责:&lt;/p&gt;
+&lt;p&gt;1.负责产品的开发、维护和优化;&lt;/p&gt;
+&lt;p&gt;2.参与项目需求分析、设计和评审，确保技术方案的可行性和稳定性:&lt;/p&gt;
+&lt;p&gt;3.使用 Nodeis 构建后端服务，实现高性能、高可用的 API 接口;&lt;/p&gt;
+&lt;p&gt;职位要求:&lt;/p&gt;
+&lt;p&gt;1.熟练掌握 Nodejs ，具备扎实的后端开发能力;&lt;/p&gt;
+&lt;p&gt;2.熟悉 React 框架，具备丰富的前端开发经验 (可适当降低要求) ;&lt;/p&gt;
+&lt;p&gt;3.熟悉常见的前后端开发技术，如 HTML 、CSS 、JavaScript 、RESTful API 等&lt;/p&gt;
+&lt;p&gt;4.熟悉远程办公工具，适应远程办公模式;&lt;/p&gt;
+&lt;p&gt;联系邮箱： &lt;a href="mailto:willson@jackyone.com"&gt;willson@jackyone.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:43:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974036#reply0</guid></item><item><title>[Python] 在下网工，求个脚本。</title><link>https://www.v2ex.com/t/974035#reply12</link><description>&lt;p&gt;在下网工，求个脚本。&lt;/p&gt;
+&lt;p&gt;表 1 是 arp 表总表，包含 IP+MAC 信息
+表 2 是分表，只有 MAC 信息，要根据 MAC 在表 1 中查表填入对应的 IP 信息。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:41:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974035#reply12</guid></item><item><title>[硬件] 有没有什么 27 寸 4k 显示器推荐</title><link>https://www.v2ex.com/t/974034#reply6</link><description>&lt;p&gt;高刷没有要求，主要用来码代码和玩 3a 游戏，预算 5000 以内吧&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 03:37:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974034#reply6</guid></item><item><title>[问与答] 打算配置一台 i9 4090 的主机，自己配还是直接买整机</title><link>https://www.v2ex.com/t/974033#reply0</link><description>现在整机市场还是很拉吗，如果可以的话不想自己麻烦弄配置单装了，有推荐的平台或者商家吗？</description><pubDate>Fri, 15 Sep 2023 03:35:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974033#reply0</guid></item><item><title>[职场话题] 科技的尽头是算命</title><link>https://www.v2ex.com/t/974032#reply9</link><description>&lt;a href="https://i.imgur.com/0n0HMwn.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/0n0HMwn.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/UojTpBV.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/UojTpBV.jpg" /&gt;&lt;/a&gt;</description><pubDate>Fri, 15 Sep 2023 03:35:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974032#reply9</guid></item></channel></rss>
