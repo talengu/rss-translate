@@ -1,60 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 15 Sep 2023 19:56:03 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 求推荐适合大学生注册海外公司的国家</title><link>https://www.v2ex.com/t/974308#reply0</link><description>&lt;p&gt;本科在读，离毕业还有好几年，全是课，出国一周估计要等寒假了，也很麻烦，所以最好不用出国。过去一年做了几个外包（海外电商网站爬虫，主要就是过某 CDN 厂破盾标志是 &lt;code&gt;~0~&lt;/code&gt; 的风控，知道是哪家的请不要说名字）赚了 30 多万(CNY)，目前在自己做一个面向海外的社区产品。程序我可以自己写但请人设计和广告投放之类的 30 多万肯定不够，所以公司注册维护方面需要尽量省一些钱。因为有向内容创作者打赏类功能（非必要，但是产品重要收入来源之一，不然只能靠广告了），个人主体不太合适，同时因为社区产品用国内主体估计还要请人审核 UGC ，还有考虑到部分海外用户可能对中国主体不信任，感觉注册一家海外公司还是有必要的，只计划用于上架 App Store 和收 IAP 款项（因为有收款目的，应该还要考虑到报税方便）想问下大家哪个国家比较合适？其它论坛有人提到主要是要考虑收款问题，想问下公司 App Store 能用个人银行卡收款吗，如果可以会对报税产生什么影响？&lt;/p&gt;
-&lt;p&gt;我知道是很难做成的（做别的东西已经把我在这之前攒的十几万亏完了）但我还是挺想把这个产品做出来的。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 18:45:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974308#reply0</guid></item><item><title>[宽带症候群] 河南联通到日本 NTT 好稳</title><link>https://www.v2ex.com/t/974306#reply0</link><description>&lt;p&gt;为了试一下上海 AS9929 的表现，搞了台 Vultr 的东京服务器，NTT 线路。&lt;/p&gt;
-&lt;p&gt;实际体验一般，但随手测了一下老家河南联通到 NTT ，有点惊喜。
-下载能跑满 200M 家宽，延迟抖动都在接受范围内。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="aaa.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/16/z2oQPgDBZCwd1sY.png" /&gt;&lt;/p&gt;
-&lt;p&gt;啊!这延迟!这波动!&lt;/p&gt;
-&lt;p&gt;似乎是最近线路做了升级？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/16/MSna1GNcUDmrYe5.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.bakamai.com/?displaymode=n%3Bstart=2023-07-18%2001:31%3Bend=now%3Btarget=ASIA.NTT%7Ehenan" rel="nofollow"&gt;河南联通-NTT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;尽管河南联通去日本会经过上海，但上海 ping 出来的抖动很不好看&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/16/L9INigRSCoPeWaG.png" /&gt;&lt;/p&gt;
-&lt;p&gt;奇了怪
-...河南 AS4837 最低~60 抖动~1
-...上海 AS4837 最低~40 抖动~25
-...上海 AS9929 最低~40 抖动~5&lt;/p&gt;
-&lt;p&gt;于是，在体验了几个小时的 AS9929 后，打电话给客服换回了公网和 IPV6 ，并白嫖了一个月的的 Vultr🙂&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 18:17:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974306#reply0</guid></item><item><title>[问与答] V2EX 四个字符在键盘上用什么手法怎么打出来才不别扭</title><link>https://www.v2ex.com/t/974305#reply3</link><description>感觉不管写代码还是什么场合，很少遇到和 V2EX 一样难打的一串字符，什么顺序落指都感觉难受，&lt;br /&gt;虽然经常访问本站，浏览器里输入 v 就直接给补全了，但还是想知道大家会不会觉得这四个字符很别扭，&lt;br /&gt;我的习惯是：食指 V 无名指 2 中指 E 大拇指 X&lt;br /&gt;自认为打字速度远超过平均，但并没有专门练过基本功，比如哪个手指负责那些键之类的，所以好奇大家的看法</description><pubDate>Fri, 15 Sep 2023 18:07:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974305#reply3</guid></item><item><title>[游戏] 论雀魂的匹配算法和发牌机制</title><link>https://www.v2ex.com/t/974304#reply1</link><description>我揣测雀魂的发牌机制并非是随机的，而是根据对局玩家的过往对局记录、充值记录等等动态调整的。这和玩家的打牌风格也有关系，譬如一个重进攻的玩家碰到三个防守型玩家就会十分糟心。&lt;br /&gt;&lt;br /&gt;之所以发这个贴是因为刚才的对局，我连续铳三家。关键是我的牌也不差，次次十番往上，但是别家胡得更快。当然，我承认我也没有积极地防守。</description><pubDate>Fri, 15 Sep 2023 17:59:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974304#reply1</guid></item><item><title>[Apple] iPhone 15 系列电池容量揭示</title><link>https://www.v2ex.com/t/974303#reply3</link><description>&lt;p&gt;iPhone 15 全系列的电池容量：&lt;/p&gt;
-&lt;p&gt;iPhone 15：3,349 毫安时
-iPhone 15 Plus：4,383 毫安时
-iPhone 15 Pro：3,274 毫安时
-iPhone 15 Pro Max：4,422 毫安时&lt;/p&gt;
-&lt;p&gt;2022 年 iPhone 14 系列的电池容量：&lt;/p&gt;
-&lt;p&gt;iPhone 14：3,279 毫安时
-iPhone 14 Plus：4,325 毫安时
-iPhone 14 Pro：3,200 毫安时
-iPhone 14 Pro Max：4,323 毫安时&lt;/p&gt;
-&lt;p&gt;转自 MacRumors 。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 17:02:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974303#reply3</guid></item><item><title>[Apple] 5G 毫米波这个技术有用嘛？ 15 的哪个版本有呢</title><link>https://www.v2ex.com/t/974301#reply9</link><description>小白求问</description><pubDate>Fri, 15 Sep 2023 16:45:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974301#reply9</guid></item><item><title>[问与答] 请问大家这个 AI 配音是用的哪个 AI 模型啊？是我目前听到过最牛的了</title><link>https://www.v2ex.com/t/974299#reply1</link><description>&lt;p&gt;链接在这里：
-&lt;a href="https://www.bilibili.com/video/BV1vp4y1772K/" rel="nofollow"&gt;https://www.bilibili.com/video/BV1vp4y1772K/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 16:32:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974299#reply1</guid></item><item><title>[推广] 推荐一款费率最低的 U 卡，吊打隔壁 Dupay 和 Onekey</title><link>https://www.v2ex.com/t/974297#reply8</link><description>最近使用了一款新的虚拟 U 卡 Vcard,整体使用下来费率无出其右！分为免 kyc 和 kyc 两种&lt;br /&gt;其中 kyc 的白金卡开卡费 20U,充值费率只有 1%，没有月费，&lt;br /&gt;并且 USDT 兑换 USD 的比率 1：1,消费汇率基本在 7.2 左右，整体损耗大概只有 1.5%&lt;br /&gt;&lt;br /&gt;这样的损耗可以说在整个币圈卡里傲视群雄，绝对吊打隔壁 dupay 和 onekey&lt;br /&gt;&lt;br /&gt;权益方面支持 Palpal linepay chatgpt midjourney appstore &lt;br /&gt;支持支付宝 美团 applepay googlepay&lt;br /&gt;&lt;br /&gt;aff:&lt;a href="https://webapp.51vcard.com/#InviteRegisterPage?inviteCode=110586" rel="nofollow noopener" target="_blank"&gt;https://webapp.51vcard.com/#InviteRegisterPage?inviteCode=110586&lt;/a&gt;&lt;br /&gt;也有免费普通标准卡选择，充值费率 1.5%，有 1U 的月费&lt;br /&gt;不过长期用选择 KYC 的万事达白金卡（ 20U 开卡费）是最划算的，没有月费，充值费率 1%，消费免手续费</description><pubDate>Fri, 15 Sep 2023 16:19:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974297#reply8</guid></item><item><title>[Spotify] spotify 巴区 半年 20（无播客功能）翻车按天退款</title><link>https://www.v2ex.com/t/974296#reply0</link><description>&lt;p&gt;v   xlr2012&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 16:16:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974296#reply0</guid></item><item><title>[程序员] 邮箱被别人伪造发信，这可怎么办？实在没办法了。</title><link>https://www.v2ex.com/t/974295#reply1</link><description>邮箱被别人伪造发信，这可怎么办？实在没办法了。&lt;br /&gt;大佬们有办法避免吗？&lt;br /&gt;对方伪造我的邮箱号发邮件，他只能发件，而不能收件，</description><pubDate>Fri, 15 Sep 2023 16:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974295#reply1</guid></item><item><title>[Apple] 你为什么买 iPhone ？</title><link>https://www.v2ex.com/t/974294#reply7</link><description>&lt;p&gt;近几年 iphone 提升都很小，外观也没大的变化，而且前几代性能还够用，在参数上 iPhone 比不过其他品牌手机，无论是续航价格还有信号，一半价格就能买到远超 iPhone 配置的手机。今年看到了很多从其他品牌换到苹果的人，我想问问为什么要换 iPhone ？换成 iPhone 之后有什么不同的体验吗？&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 16:10:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974294#reply7</guid></item><item><title>[问与答] WIN11 家庭版使用 Ditto 时不能粘贴？</title><link>https://www.v2ex.com/t/974292#reply0</link><description>在 WIN 11 家庭版上安装运行 Ditto 都正常，就是双击粘贴时不能粘贴，请各位大神指教一下，谢谢！！</description><pubDate>Fri, 15 Sep 2023 15:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974292#reply0</guid></item><item><title>[问与答] 酷安 EMBY | 开服啦！</title><link>https://www.v2ex.com/t/974291#reply1</link><description>开号方式：暂时人很少，没有开号，用公共号，后续看人多不多，多的话再开号&lt;br /&gt;频道： &lt;a href="https://t.me/CoolapkEmby" rel="nofollow noopener" target="_blank"&gt;https://t.me/CoolapkEmby&lt;/a&gt; 及时获取关于本服最新消息即可！</description><pubDate>Fri, 15 Sep 2023 15:23:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974291#reply1</guid></item><item><title>[iCloud] 如何从 iCloud 恢复健康数据</title><link>https://www.v2ex.com/t/974290#reply2</link><description>&lt;p&gt;今天退出了一下 apple id,结果健康数据只有今年 6 月到今天的了
-健身记录有,但那 3 个圆环全没了
-有 iCloud 的备份,请问怎么单独恢复这一个软件的数据&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 15:22:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974290#reply2</guid></item><item><title>[问与答] 前段时间在 v 站热榜上看到一个分享英语学习的大佬，同时得知了 Anki 这样的一款 APP 正好能解决我面临的学习问题 但是现在关于这个 APP 有些使用上的问题想问下大家</title><link>https://www.v2ex.com/t/974288#reply4</link><description>RT &lt;br /&gt;这类软件真的能帮助我解决一些学习上的问题：&lt;br /&gt;1.每天加班到很晚 没有整块的时间可以学习 很需要使用碎片化的时间学习 最好是可以通过手机&lt;br /&gt;2.艾宾浩斯遗忘曲线很科学 （上大学考四六级已经验证过）&lt;br /&gt;&lt;br /&gt;我遇到的一些问题：&lt;br /&gt;1.记忆卡片制作成本高（主要是时间成本）&lt;br /&gt;正如上文所说，我很难找出整块的时间来学习，每天最多一小时来读一些技术文档，边读我边会在有道上做一些笔记，但是这些笔记又不常复习，或是不知道究竟应该复习哪些，我想是否可以根据笔记生成 Anki 记忆卡（感觉现有工具都没有这么灵活），于是在知乎发现一款软件，可以直接根据 APP 或浏览器内选中的内容生成记忆卡，我就可以根据我的有道里的笔记有选择性的，更加灵活，更加节省时间的生成记忆卡。但是只看到了 Windows 端的，不知道 mac 端是否有类似的软件，或是 v 友们有其他更好的办法来生成自己的记忆卡？ 求教 感谢&lt;br /&gt;&lt;br /&gt;知乎链接 &lt;a href="https://zhuanlan.zhihu.com/p/122549229" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/122549229&lt;/a&gt;</description><pubDate>Fri, 15 Sep 2023 15:06:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974288#reply4</guid></item><item><title>[分享创造] 说说大家的双屏使用、开发经验和技巧</title><link>https://www.v2ex.com/t/974287#reply2</link><description>&lt;p&gt;今天组了双屏，双 27 4K&lt;/p&gt;
-&lt;p&gt;大家双屏的排列方式是怎样的，然后在使用和开发中有什么好的经验和技巧希望分享一下。&lt;/p&gt;
-&lt;p&gt;我目前居中双横屏，感觉没有主次。&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 15:04:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974287#reply2</guid></item><item><title>[问与答] 如何用 cloudflare 隐藏自己的服务器 ip</title><link>https://www.v2ex.com/t/974286#reply13</link><description>搞了个家用小破服务器，绑定了域名又不想暴露 ip 怕被攻击&lt;br /&gt;听说 cloudflare 可以用来隐藏 ip ，我域名已经给 cf 代理虽然 ping 时是 cf 的 ip 但是一些网站比如 &lt;a href="https://tool.lu/ip/" rel="nofollow noopener" target="_blank"&gt;https://tool.lu/ip/&lt;/a&gt;&lt;br /&gt;输入域名还是能查到原始 ip&lt;br /&gt;请问是怎么回事，需要什么特殊操作吗</description><pubDate>Fri, 15 Sep 2023 15:03:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974286#reply13</guid></item><item><title>[问与答] Reddit 有中文插件或中文安装包吗？</title><link>https://www.v2ex.com/t/974285#reply0</link><description>今天下了 Reddit ，想发发动态为自己的 App 推广，但不支持中文，看着难受，所以想问问大家，不胜感激😊</description><pubDate>Fri, 15 Sep 2023 14:53:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974285#reply0</guid></item><item><title>[分享创造] [免费·开源] 写了一个能用 ChatGPT 帮你 Review 代码的 Chrome 插件</title><link>https://www.v2ex.com/t/974284#reply0</link><description>&lt;p&gt;hi ，各位，写了一个能用 ChatGPT 帮你 Review 代码(github/gitlab)的 Chrome 插件，灵感主要来源于这个&lt;a href="https://github.com/sturdy-dev/codereview.gpt" rel="nofollow"&gt;项目&lt;/a&gt;，也是对这个项目的缺点的改进.&lt;/p&gt;
-&lt;p&gt;项目已开源，欢迎 star⭐️，地址是： &lt;a href="https://github.com/cctv1005s/code-reviewer.ai" rel="nofollow"&gt;https://github.com/cctv1005s/code-reviewer.ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/E5w5Fs9c.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;主要功能&lt;/h2&gt;
-&lt;p&gt;下面我来介绍一下主要的功能，当然也是我的一些改进&lt;/p&gt;
-&lt;h3&gt;代码 Review&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. UI 上&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 16 Sep 2023 03:36:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[互联网] 看到某宽带回访未好评竟被泄露个人信息，想知道美团外卖匿名评价会不会泄露给店家</title><link>https://www.v2ex.com/t/974356#reply1</link><description>&lt;p&gt;吃了一次疑似料理包的外卖，而且晚上还接到店家要评价的电话，想如实给个差评，但怕被店家报复&lt;/p&gt;
+&lt;p&gt;小城市的小店，月销几百，即使美团的匿名评价是真匿名，店家会不会通过下单时间和订单内容定位到我呢&lt;/p&gt;
+&lt;p&gt;另外我下单时选了号码保护，店家是怎么在订单完成后主动给我打的电话&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:29:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974356#reply1</guid></item><item><title>[问与答] iPhone 手机的 WhatsApp 解封后出现 You need the official WhatsApp to use this account 多番尝试无法解决该怎么办？</title><link>https://www.v2ex.com/t/974355#reply0</link><description>&lt;h3&gt;iPhone 手机的 WhatsApp 解封后出现 You need the official WhatsApp to use this account 多番尝试无法解决，网上的方法都是针对安卓的，有无办法解除这个问题？&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;一开始在 iPhone 爬梯正常使用，后在电脑 WSA 安装安卓 WhatsApp 被封，发 support 邮件后解封后，再次电话语音验证码验证出现这个提示 &lt;code&gt;You need the official WhatsApp to use this account&lt;/code&gt;。  &lt;/li&gt;
+&lt;li&gt;将 iPhone 手机语言换成英语，重启，卸载 WhatsApp 重装。一小时后再次电话验证码验证，还是出现这个错误。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;备注：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不爬梯无法收到短信验证码和电话验证码拨入，爬梯后无法收到短信验证码但能收到电话验证码拨入。&lt;/li&gt;
+&lt;li&gt;手机安装的都是 App Store 的原版 App ，不存在第三方 App 痕迹。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="You need the official WhatsApp to use this account" class="embedded_image" rel="noreferrer" src="https://www.geekinstructor.com/wp-content/uploads/2023/08/you-need-the-official-WhatsApp-to-use-this-account-error-screenshot-461x1024.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:24:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974355#reply0</guid></item><item><title>[Spotify] Spotify 菲律宾区家庭组</title><link>https://www.v2ex.com/t/974354#reply0</link><description>&lt;h1&gt;Spotify （菲律宾区）&lt;/h1&gt;
+&lt;p&gt;本号开通时间：2023 年 5 月 10 日，车主自用号&lt;/p&gt;
+&lt;p&gt;自备可用账号（ 12 个月内没有加入过家庭组的账号），仅帮助转区和加入家庭组，操作完成后切记要修改密码&lt;/p&gt;
+&lt;h2&gt;和谐车队🚗：&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;我用&lt;a href="https://ui.shadcn.com/" rel="nofollow"&gt;shadcn&lt;/a&gt;写了这个页面，让他的 Review Report 看着更加舒服一些。&lt;/li&gt;
-&lt;li&gt;支持夜览模式&lt;/li&gt;
-&lt;li&gt;支持中文/英文，如果你希望你的 Review Report 是中文的，就在用的时候切换成中文就行。&lt;/li&gt;
+&lt;li&gt;起购/续购均为 6 个月，每个月 7 元，仅支持支付宝口令红包，也请各位车友自行截图付款记录&lt;/li&gt;
+&lt;li&gt;请提前 2 天告知是否续费，如果没有告知，踢出家庭组&lt;/li&gt;
+&lt;li&gt;如果出现翻车或者车主不开了，当月及后续费用全退，就当补偿；如果出现跳车（包括车友的任何个人原因），一律不退&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Prompt 上&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我参考了其他的几个类似的项目，将 Prompt 做了一些优化，目前的这个 Prompt 我觉得效果来说，相对更好一些。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/169B4eFV.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;多种大模型提供商支持（ ChatGPT + Dify ）&lt;/h3&gt;
-&lt;p&gt;支持了 ChatGPT 和 &lt;a href="https://dify.ai/" rel="nofollow"&gt;Dify&lt;/a&gt; 切换，在 Dify 里面配置各种大模型也可以，Dify 总体来说还是挺方便的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/492GMOO5.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;自定义规则&lt;/h3&gt;
-&lt;p&gt;除了让 ChatGPT 用自己的标准默认给你审核（我设定了它是很严格的审核者），你还可以自定义规则，比如说你们公司有一些规则，就可以让它基于这个来给你 Review&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/5zITLwHR.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;安装方式&lt;/h2&gt;
-&lt;h3&gt;官方商店安装&lt;/h3&gt;
-&lt;p&gt;官方商店的链接点这： &lt;a href="https://chrome.google.com/webstore/detail/codereviewerai/miecffdapffnoalnjidkmdnoekkcenfn?hl=zh-CN&amp;amp;authuser=0" rel="nofollow"&gt;https://chrome.google.com/webstore/detail/codereviewerai/miecffdapffnoalnjidkmdnoekkcenfn?hl=zh-CN&amp;amp;authuser=0&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;本地安装&lt;/h3&gt;
-&lt;p&gt;不方便访问的同学，也可以到 &lt;a href="https://github.com/cctv1005s/code-reviewer.ai/releases/tag/v0.3.0" rel="nofollow"&gt;release&lt;/a&gt; 的页面，下载我已经构建好的 v0.3.0 的 CRX ，然后拖到你的 &lt;a&gt;Chrome 插件配置页面就行&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;当然，我在这之中最喜欢的部分之一是我设计的 logo ，我觉得挺好看的，哈哈&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/ML4NQ9B6.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 14:49:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974284#reply0</guid></item><item><title>[OpenAI] 为什么 openAI ChatGPT API 能绑定香草 visa 礼品卡，但是不能充值？</title><link>https://www.v2ex.com/t/974283#reply1</link><description>&lt;p&gt;API 下个月就要付费了，为了能正常使用，在论坛里学习了下，准备先信用卡绑定然后再转 GooglePay 的方法(刚好这个都有就差信用卡了),所以特地找朋友买香草 visa 礼品卡，操作下来好像是绑定成功了，但是充值余额的时候被拒绝了，不知道这个是啥情况？还是说直接等下个月自动扣款就行了？有知道的大佬指点下吗？&lt;/p&gt;</description><pubDate>Fri, 15 Sep 2023 14:36:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974283#reply1</guid></item></channel></rss>
+&lt;h2&gt;联系方式☎️：&lt;/h2&gt;
+&lt;p&gt;Telegram：yuayua816 （ Telegram 搜索框搜索即可）&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:23:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974354#reply0</guid></item><item><title>[分享发现] 阅微的网络日志 #23</title><link>https://www.v2ex.com/t/974353#reply0</link><description>&lt;p&gt;内容概览&lt;br /&gt;
+📱 手机信息转发器&lt;br /&gt;
+🎉 AIdea 生成图片、文案全能型 APP&lt;br /&gt;
+🎨 将 UI 设计稿转换成 web 页面的工具&lt;br /&gt;
+🏊 聊聊数据中心的耗能和冷却&lt;br /&gt;
+🏦 互联网产品经理线下开店心得&lt;br /&gt;
+🎃 逻辑学家提出的逻辑题目《三神谜题》&lt;br /&gt;
+🐳 聊一聊虹鳟鱼和三文鱼&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s/ADPKV8lXbwBBeBdcLgdz1g" rel="nofollow"&gt;https://mp.weixin.qq.com/s/ADPKV8lXbwBBeBdcLgdz1g&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:11:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974353#reply0</guid></item><item><title>[Python] Python 潮流周刊第 20 期（摘要）</title><link>https://www.v2ex.com/t/974352#reply0</link><description>你好，我是猫哥。本周刊分享优质的 Python 、AI 及通用技术内容，大部分为英文。这里是标题摘要版，查看全文请至☞： &lt;a href="https://pythoncat.top/posts/2023-09-16-weekly" rel="nofollow noopener" target="_blank"&gt;https://pythoncat.top/posts/2023-09-16-weekly&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;本周刊开通 Telegram 频道后，已有 650+ 小伙伴加入，欢迎你到来： &lt;a href="https://t.me/pythontrendingweekly" rel="nofollow noopener" target="_blank"&gt;https://t.me/pythontrendingweekly&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;🦄文章&amp;amp;教程&lt;br /&gt;&lt;br /&gt;1 、三种对 Python 作基准测试的方法&lt;br /&gt;&lt;br /&gt;2 、舍弃 Poetry 和 PDM ，切换成 Hatch&lt;br /&gt;&lt;br /&gt;3 、TOML 文件格式有什么问题？&lt;br /&gt;&lt;br /&gt;4 、用 Python 玩转遗传算法&lt;br /&gt;&lt;br /&gt;5 、现代 Python 的类型提示：Protocal 类&lt;br /&gt;&lt;br /&gt;6 、tornado 的协程调度原理&lt;br /&gt;&lt;br /&gt;7 、可视化 CPython 发布过程&lt;br /&gt;&lt;br /&gt;8 、如何用 PyObjC 与 Apple Vision 框架作文本识别&lt;br /&gt;&lt;br /&gt;9 、调试 Python 中正则表达式的灾难性回溯&lt;br /&gt;&lt;br /&gt;10 、使用 Django 和 HTMX 开发一个数据库搜索项目&lt;br /&gt;&lt;br /&gt;11 、异步 SqlAlchemy 和多数据库管理&lt;br /&gt;&lt;br /&gt;12 、Python Fire：自动生成命令行接口&lt;br /&gt;&lt;br /&gt;13 、我最爱的解 LeetCode 问题的 Python 技巧&lt;br /&gt;&lt;br /&gt;14 、为什么 Python 代码在函数中运行得更快？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;🐿️项目&amp;amp;资源&lt;br /&gt;&lt;br /&gt;1 、hatch：时髦的可扩展的 Python 项目管理库&lt;br /&gt;&lt;br /&gt;2 、keep：开源的告警管理和自动化执行平台&lt;br /&gt;&lt;br /&gt;3 、PyPI Data 网站：查看 PyPI 的各项数据&lt;br /&gt;&lt;br /&gt;4 、strictyaml：类型安全的 YAML 解析和校验库&lt;br /&gt;&lt;br /&gt;5 、facefusion：更先进的换脸工具&lt;br /&gt;&lt;br /&gt;6 、pyflyby：一套 Python 的生产力工具&lt;br /&gt;&lt;br /&gt;7 、instagraph：将文本内容或 URL 转换为可视化的知识图谱&lt;br /&gt;&lt;br /&gt;8 、textual-web：在浏览器中运行 TUI 和终端&lt;br /&gt;&lt;br /&gt;9 、ziggy-pydust：用 Zig 语言构建 Python 扩展&lt;br /&gt;&lt;br /&gt;10 、MFTCoder：多任务微调代码大模型&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;查看本期全文--&amp;gt;： &lt;a href="https://pythoncat.top/posts/2023-09-16-weekly" rel="nofollow noopener" target="_blank"&gt;https://pythoncat.top/posts/2023-09-16-weekly&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;查看全部周刊--&amp;gt;： &lt;a href="https://pythoncat.top/tags/weekly" rel="nofollow noopener" target="_blank"&gt;https://pythoncat.top/tags/weekly&lt;/a&gt;</description><pubDate>Sat, 16 Sep 2023 03:04:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974352#reply0</guid></item><item><title>[北京] 驾考还在北京没考完! 快要过期了 又是纠结</title><link>https://www.v2ex.com/t/974351#reply11</link><description>&lt;p&gt;去年专门回去过一次 考科三 结果还是没过!又回来了…花费不少…现在真纠结 正是找工作的时候 又跑北京去 交通住宿吃饭又要不少! 还有一年就过期了!&lt;/p&gt;
+&lt;p&gt;去年想过在北京找工作 考完了再回来 但是找了一下没找到 也不适应北京 就回来了…在东方时尚驾校报的 手动挡很难 第一次科三没过，补考改了自动挡 但是没开出去就挂了!&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:01:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974351#reply11</guid></item><item><title>[程序员] 198.18.0.2 是什么？</title><link>https://www.v2ex.com/t/974350#reply7</link><description>&lt;p&gt;某些软件可以建立虚拟网络接口，在 macOS 上执行 &lt;code&gt;ifconfig&lt;/code&gt; 可以看到 &lt;code&gt;utun10&lt;/code&gt;，其 ip 地址是 &lt;code&gt;198.18.0.1&lt;/code&gt;，Wi-Fi 的 dns 设置也被更改成 &lt;code&gt;198.18.0.2&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;但是 &lt;code&gt;198.18.0.2&lt;/code&gt; 是什么？它并不是本机某网口的地址。&lt;/p&gt;
+&lt;p&gt;越研究发现越神奇。&lt;/p&gt;
+&lt;p&gt;首先使用 &lt;code&gt;route -n get 198.18.0.2&lt;/code&gt; 结果如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   route to: 198.18.0.2
+destination: 198.18.0.2
+    gateway: 198.18.0.1
+  interface: utun10
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;但是只要不是 198.18.0.1 和 198.18.0.2 (有时候 0.3 也可能是）则结果如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   route to: 198.18.0.4
+destination: 128.0.0.0
+       mask: 128.0.0.0
+    gateway: 198.18.0.1
+  interface: utun10
+
+   route to: 198.18.1.2
+destination: 128.0.0.0
+       mask: 128.0.0.0
+    gateway: 198.18.0.1
+  interface: utun10
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看到这个 destination 应该是 CIDR &lt;code&gt;128.0.0.0/1&lt;/code&gt; 起作用了。&lt;/p&gt;
+&lt;p&gt;查看路由表:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~ netstat -rn
+Routing tables
+
+Internet:
+Destination        Gateway            Flags           Netif Expire
+default            192.168.31.1       UGScg             en1
+default            link#28            UCSIg           utun3
+1                  198.18.0.1         UGSc           utun10
+2/7                198.18.0.1         UGSc           utun10
+4/6                198.18.0.1         UGSc           utun10
+8/5                198.18.0.1         UGSc           utun10
+16/4               198.18.0.1         UGSc           utun10
+32/3               198.18.0.1         UGSc           utun10
+64/2               198.18.0.1         UGSc           utun10
+100.64/10          link#28            UCS             utun3
+100.100.100.100/32 link#28            UCS             utun3
+100.124.11.45      100.124.11.45      UH              utun3
+127                127.0.0.1          UCS               lo0
+127.0.0.1          127.0.0.1          UH                lo0
+128.0/1            198.18.0.1         UGSc           utun10
+169.254            link#13            UCS               en1      !
+169.254.12.71      50:ed:3c:3:2:c     UHLSW             en1      !
+169.254.35.85      60:dd:8e:69:5c:d0  UHLSW             en1      !
+192.168.31         link#13            UCS               en1      !
+192.168.31.1/32    link#13            UCS               en1      !
+192.168.31.1       88:c3:97:c8:2:b6   UHLWIir           en1   1169
+192.168.31.24      4:cf:8c:29:a4:97   UHLWI             en1   1157
+192.168.31.59      c:7a:15:c1:ad:cc   UHLWI             en1      !
+192.168.31.73      6:6e:f7:98:f3:4b   UHLWI             en1    349
+192.168.31.80      84:c5:a6:9e:4:3    UHLWI             en1    601
+192.168.31.129     86:11:14:df:18:ce  UHLWI             en1    555
+192.168.31.144     56:f9:cf:1e:97:7d  UHLWI             en1     95
+192.168.31.166/32  link#13            UCS               en1      !
+192.168.31.189     66:17:81:34:32:5c  UHLWI             en1   1112
+192.168.31.199     60:dd:8e:69:5c:d0  UHLWIi            en1   1160
+192.168.31.213     50:ed:3c:3:2:c     UHLWIi            en1   1189
+192.168.31.214     2:69:d6:3d:12:3d   UHLWI             en1   1179
+192.168.31.222     f8:d0:27:54:e4:84  UHLWI             en1   1200
+192.168.31.255     ff:ff:ff:ff:ff:ff  UHLWbI            en1      !
+198.18.0.1         198.18.0.1         UH             utun10
+224.0.0/4          link#13            UmCS              en1      !
+224.0.0/4          link#28            UmCSI           utun3
+224.0.0.251        1:0:5e:0:0:fb      UHmLWI            en1
+239.255.255.250    1:0:5e:7f:ff:fa    UHmLWI            en1
+255.255.255.255/32 link#13            UCS               en1      !
+255.255.255.255/32 link#28            UCSI            utun3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;里面关于 utun10 的几条解释:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;2/7 地址范围: 2.0.0.0 到 2.255.255.255
+4/6 地址范围: 4.0.0.0 到 7.255.255.255
+8/5 地址范围: 8.0.0.0 到 15.255.255.255
+16/4 地址范围: 16.0.0.0 到 31.255.255.255
+32/3 地址范围: 32.0.0.0 到 63.255.255.255
+64/2 地址范围: 64.0.0.0 到 127.255.255.255
+128.0/1 地址范围: 128.0.0.0 到 255.255.255.255
+198.18.0.1  就表示它自己
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;所以除了 198.18.0.1 之外其余的都应该解析成 128.0.0.1 才对啊。那 198.18.0.2 为啥也解析成自己了呢？&lt;/p&gt;
+&lt;p&gt;我的理解: 跑的服务程序可以监听本地网口, 每个网口有对应的 ip 地址，如果监听 0.0.0.0 则表示所有网口，如果监听 127.0.0.1 则表示监听 lo0 ，如果监听 192.168.31.166 （我电脑 en0 地址）则表示监听 en0 网口，任何发送到这个网口的数据（当然要指定好端口号）都会被转发到这个服务程序。&lt;/p&gt;
+&lt;p&gt;但查看 ifconfig 则看不到 198.18.0.2 是属于哪一个接口的，而它是 utun10(198.18.0.1)的一个子网 ip 。当开启虚拟网口后（软件的增强模式透明模式） dns 被改成 198.18.0.2 是为什么？使用 dig 程序测试也是没问题的:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~ dig @198.18.0.2 -p 53 baidu.com
+~ dig @198.18.0.2 -p 53 google.com
+~ dig @198.18.0.2 -p 53 fb.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;结果都是 fakeip 。&lt;/p&gt;
+&lt;p&gt;所以，我哪里理解错了吗？为什么会有 198.18.0.2 ？&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 03:01:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974350#reply7</guid></item><item><title>[PostgreSQL] macOS 上能够绿色安装 postgresql 吗？</title><link>https://www.v2ex.com/t/974349#reply4</link><description>Windows 可以绿色安装，实现了便携使用，那么 macOS 上是否也可以？没有找到有价值的参考资料</description><pubDate>Sat, 16 Sep 2023 02:52:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974349#reply4</guid></item><item><title>[Apple] JD 首发的 15pro 是多久发货的呀</title><link>https://www.v2ex.com/t/974348#reply1</link><description>JD 抢到了 15pro 蓝色 256,但想要白色    &lt;br /&gt;官网抢的是白色 但是 2-3 周发货</description><pubDate>Sat, 16 Sep 2023 02:44:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974348#reply1</guid></item><item><title>[OpenAI] 问题来了,你是选择 poe 还是 chatgpt 官网开通 plus?</title><link>https://www.v2ex.com/t/974347#reply1</link><description>&lt;p&gt;poe:续费方便;用户量少极少出现各种莫名其妙的网络错误;不能联网&lt;/p&gt;
+&lt;p&gt;chatgpt 官网:续费不方便;经常出现各种网络错误和并发错误;gpt4 发送消息上下文一多就发送卡卡卡;有联网但是我充值 1 个月只是测试的时候用到,其余时间均无用到&lt;/p&gt;
+&lt;p&gt;另外胡说八道真的烦,大家有什么办法让他不要这么胡说八道吗?&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:42:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974347#reply1</guid></item><item><title>[程序员] 我的第一个海外工具站</title><link>https://www.v2ex.com/t/974346#reply0</link><description>这是我自己独立开发的一个小工具，因为有朋友日常工作的原因，经常需要用到很多信用卡来做测试，所以就写了一个小工具来批量生成假卡，包括卡号、有效期、cvc 等信息，这个小工具也参考了网上其他类似的工具，但我觉得其他的要么不够简单，要么就是用起来不顺手、 所以我这个小工具几乎是傻瓜式操作，任何人打开网页都可以使用，马上就能得到他想要的数据，但需要注意的是，这是基于 luhn 算法生成的假卡，只能用来做测试，并不能用于真实交易，我可能还会考虑增加更多功能，比如增加对卡的类型的筛选，比如 visa 、master 等,或者是增加卡片上的名字，甚至是生成不同国家的信用卡&lt;br /&gt;&lt;br /&gt; &lt;a href="http://www.creditcardgen.com" rel="nofollow noopener" target="_blank"&gt;www.creditcardgen.com&lt;/a&gt;  这是我的工具站，欢迎大家给建议</description><pubDate>Sat, 16 Sep 2023 02:40:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974346#reply0</guid></item><item><title>[职场话题] 关于周六加班</title><link>https://www.v2ex.com/t/974345#reply10</link><description>&lt;p&gt;公司周六加班给一天的薪资，而且不强制加班，就是你想来加班的话就来。。。这是什么水平&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974345#reply10</guid></item><item><title>[VPS] 搬瓦工$49.99CN2 只有洛杉矶的？</title><link>https://www.v2ex.com/t/974344#reply0</link><description>&lt;p&gt;我还以为有亚洲的。那没有必要买吧？&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:39:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974344#reply0</guid></item><item><title>[C++] fsantinize 弱智</title><link>https://www.v2ex.com/t/974343#reply13</link><description>&lt;p&gt;fsantinize 还没智能到那种程度 简直给码农添加负担
+给一个静态字符数组前面添加几个空格都会报错&lt;/p&gt;
+&lt;p&gt;请看&lt;/p&gt;
+&lt;p&gt;图 1&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/YO3GiJP.png" /&gt;&lt;/p&gt;
+&lt;p&gt;图 2&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图 2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9kdUZ0F.png" /&gt;&lt;/p&gt;
+&lt;p&gt;图 3&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图 3" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/y9qhsYQ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;编译时报图 3 的错误 运行就报
+==1856626==ERROR: AddressSanitizer: stack-buffer-overflow on address 0x7fff15ef59e9 at pc 0x55d429175340 bp 0x7fff15ef5940 sp 0x7fff15ef5938&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:35:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974343#reply13</guid></item><item><title>[职场话题] 请问下大家是继续留在北京还是回杭州</title><link>https://www.v2ex.com/t/974342#reply9</link><description>&lt;p&gt;感谢大家能够帮忙提提意见呀&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:30:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974342#reply9</guid></item><item><title>[职场话题] 我感觉自己是个躺平的人，所以我佩服很多人</title><link>https://www.v2ex.com/t/974340#reply13</link><description>&lt;p&gt;日常上班就是，能推的工作，我会全力推掉，不能推的工作也会找各种理由来让别人去做，自己就安心划水。虽然过的不充实，钱也不会再多了，但是确实蛮舒服的。不知道我现在这种状态是什么时候开始的，记得当初刚刚毕业工作时，也是很努力上进的，会主动学习，也会努力去改进项目代码。现在就是啥都凑合用就行了，哈哈。&lt;/p&gt;
+&lt;p&gt;但最近华为 mate60 出来，虽然我用的小米，但是真的有被触动。这几年我以为华为在手机领域可能已经 G 了，毕竟在我的认知里这被制裁的太狠了，无路可走了已经。想不到背后还一直有人在迎难而上，真的蛮佩服的。&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:21:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974340#reply13</guid></item><item><title>[问与答] 求这个艺术字体或类似的</title><link>https://www.v2ex.com/t/974337#reply2</link><description>&lt;p&gt;&lt;a href="https://imgur.com/a/sCTmeGb" rel="nofollow"&gt;https://imgur.com/a/sCTmeGb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如图,有友友们知道用的是什么字体吗,或者有没有类似的字体&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:09:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974337#reply2</guid></item><item><title>[程序员] 35 岁再去学程序员靠谱吗?</title><link>https://www.v2ex.com/t/974336#reply1</link><description>今天在知乎看到这个问题，以下是我的回答，大家怎么看？&lt;br /&gt;&lt;br /&gt;如果你去学程序员，是为了当一名打工仔的程序员，那我觉得不合适。如果你去学程序员，是为了了解编程，解决实际问题，那 85 都可以！&lt;br /&gt;&lt;br /&gt;为什么 35 不适合当打工仔的程序员？&lt;br /&gt;&lt;br /&gt;很简单，供大于求，这个市场中，比你年轻，有能力的人太多了，如果你是老板，你会招一个 35 岁的初级程序员，还是一个 25 岁的初级程序员？我想不用过多解释了。&lt;br /&gt;&lt;br /&gt;为什么了解编程，85 都可以？&lt;br /&gt;&lt;br /&gt;因为编程只是解决问题的一种技能而已，比方说我现在觉得我每天需要手工敲字回答问题太慢，那就可以结合自动化技术+ai 技术去提高这个效率。&lt;br /&gt;&lt;br /&gt;其他，不一而足&lt;br /&gt;&lt;br /&gt;我是刘卡卡，94 年奶爸程序员，欢迎+我微信 liukaka136 ，和 600+程序员一起讨论副业（免费无套路）</description><pubDate>Sat, 16 Sep 2023 02:08:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974336#reply1</guid></item><item><title>[酷工作] [远程] 高级 C++，月薪 20K-50K</title><link>https://www.v2ex.com/t/974335#reply2</link><description>&lt;p&gt;岗位要求&lt;/p&gt;
+&lt;p&gt;1：熟悉数据结构、操作系统原理、计算机网络、计算机组成原理等。&lt;/p&gt;
+&lt;p&gt;2：熟悉 Linux 上 C/C++、STL 模板库、C++11 风格编程、Boost 库使用。&lt;/p&gt;
+&lt;p&gt;3：熟悉 Linux 多线程、多进程开发，熟悉 linux 服务器上高并发高负载 socket 网络编程、熟悉 TCP/IP 网络协议、路由原理等。&lt;/p&gt;
+&lt;p&gt;4：熟悉 linux 上 QT 开发，linux 上 MongoDB 、Redis 等数据库开发、熟悉 Zookeeper 开发。&lt;/p&gt;
+&lt;p&gt;[更多远程岗位]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;flutter 移动端/web 端&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;高级 UI 专家&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cocos&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;简历投递邮箱： &lt;a href="mailto:anischen0099@proton.me"&gt;anischen0099@proton.me&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:05:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974335#reply2</guid></item><item><title>[Chrome] 推荐一些的 Chrome flags</title><link>https://www.v2ex.com/t/974334#reply4</link><description>&lt;p&gt;昨天升级到了 Chrome 117 ，顺便找了一些实用的 flags&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chrome://flags/#smooth-scrolling：丝滑滚动效果&lt;/li&gt;
+&lt;li&gt;chrome://flags/#windows-scrolling-personality：同上，但是多了缓动效果，和 Edge 类似&lt;/li&gt;
+&lt;li&gt;chrome://flags/#fluent-scrollbars：✨Windows 11 的滚动条&lt;/li&gt;
+&lt;li&gt;chrome://flags/#windows11-mica-titlebar：Mica 特效的标题栏，需使用默认主题&lt;/li&gt;
+&lt;li&gt;chrome://flags/#chrome-refresh-2023：全新 UI&lt;/li&gt;
+&lt;li&gt;chrome://flags/#chrome-webui-refresh-2023：同上&lt;/li&gt;
+&lt;li&gt;chrome://flags/#enable-parallel-downloading：多线程下载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还有 material3 风格的搜索栏&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;chrome://flags/#omnibox-gm3-steady-state-height&lt;/li&gt;
+&lt;li&gt;chrome://flags/#omnibox-gm3-steady-state-text-color&lt;/li&gt;
+&lt;li&gt;chrome://flags/#omnibox-gm3-steady-state-text-style&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开启方法：地址栏输入，选择 enable ，重启浏览器&lt;/p&gt;</description><pubDate>Sat, 16 Sep 2023 02:03:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974334#reply4</guid></item></channel></rss>
