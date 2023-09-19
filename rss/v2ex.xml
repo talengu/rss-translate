@@ -1,52 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 18 Sep 2023 17:54:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 用 HTTP/HTTPS/Sock5 代理的时候，访问的域名是否仍然有可能被网络管理员看到并屏蔽？</title><link>https://www.v2ex.com/t/975020#reply1</link><description>单位的防火墙屏蔽了一些我需要用的正规网站，这些网站在家中可以直接访问并且都不涉及 GFW 列表。&lt;br /&gt;&lt;br /&gt;已知：&lt;br /&gt;我在单位的机器只有权限装 chrome 插件，用 Proxy Switchy Omega 切换代理&lt;br /&gt;在 chrome 上这个插件的 sock5 不支持用户名密码验证，如果不设密码太危险了，只能退一步用 http/https 代理。&lt;br /&gt;&lt;br /&gt;所以，&lt;br /&gt;1. 如果我在家里搭一个 squid 的 http 代理，在单位是否可以突破防火墙来访问这些网站？但是 http 是明文播报，感觉还是会被管理员知道并拦住。&lt;br /&gt;2. 如果 http 不行，https 是否可以？貌似搞 https 有点麻烦，我家里 nas 没有绑定域名，没签名。&lt;br /&gt;3. 如果 https 也不行，是不是只能换个支持 sock5 用户名密码验证的浏览器？&lt;br /&gt;&lt;br /&gt;我就只想这么多，如果有更优雅简洁的方法就更好了，感谢大家。</description><pubDate>Mon, 18 Sep 2023 17:33:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975020#reply1</guid></item><item><title>[程序员] win10 的强制更新实在是太可恶了</title><link>https://www.v2ex.com/t/975019#reply5</link><description>&lt;p&gt;我跑了七八个小时的程序，正等着出结果，结果它给我来个强制更新自动重启，一天的活白干了。尼玛。气得我睡不着。&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 17:26:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975019#reply5</guid></item><item><title>[Apple] iPhone 15 的 USB 2.0 速率的 type-c 接口，竟然支持 DisplayPort 视频输出，库克为了给到果粉们差异化的体验，真是用心良苦。</title><link>https://www.v2ex.com/t/975018#reply2</link><description>&lt;p&gt;&lt;a href="https://www.apple.com.cn/iphone-15/specs/" rel="nofollow"&gt;https://www.apple.com.cn/iphone-15/specs/&lt;/a&gt;
-参数页，下滑，可以看到：&lt;/p&gt;
-&lt;p&gt;充电和外设扩展&lt;/p&gt;
-&lt;p&gt;USB-C 接口，支持:&lt;/p&gt;
-&lt;p&gt;充电&lt;/p&gt;
-&lt;p&gt;DisplayPort&lt;/p&gt;
-&lt;p&gt;USB 2 (最高可达 480Mb/s)&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 17:19:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975018#reply2</guid></item><item><title>[iOS] iOS17 正式版已推送</title><link>https://www.v2ex.com/t/975017#reply3</link><description>&lt;p&gt;手动检查更新即可&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 17:11:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975017#reply3</guid></item><item><title>[NAS] 貌似无人提及的 Zerotier 私有 Planet 加入网络</title><link>https://www.v2ex.com/t/975016#reply0</link><description>&lt;p&gt;也就是某台服务器既可以用作私有 Planet ，也可以作为 Leaf 加入到指定网络。&lt;/p&gt;
-&lt;p&gt;今天研究了一下，ztncui 的相关镜像把事情弄的很复杂，都把 ztncui 和 zerotier 放到同一个镜像，专门去连接&lt;strong&gt;localhost:9993&lt;/strong&gt;。其实可以把两个镜像分开，UI 只做 UI ，使用 API 去连接 zerotier 官方的镜像，只需要在 zerotier 挂载目录下增加一个 local.conf 即可&lt;/p&gt;
-&lt;p&gt;基于上述原理，我参考&lt;code&gt;Jonnyan404/zerotier-planet&lt;/code&gt;和&lt;code&gt;xubiaolin/docker-zerotier-planet&lt;/code&gt;稍微改了一下 ztncui 的 docker 镜像，有兴趣的可以看看 &lt;a href="https://github.com/honmaple/ztncui-aio" rel="nofollow"&gt;honmaple/ztncui-aio&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;另外，吐槽一下 zerotier ，默认监听了 &lt;strong&gt;tcp 0.0.0.0:9993&lt;/strong&gt; ，但实际上只允许本地 IP 访问，也没找到怎么改成只监听 &lt;strong&gt;127&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 16:39:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975016#reply0</guid></item><item><title>[酷工作] 找工作求捞</title><link>https://www.v2ex.com/t/975015#reply2</link><description>&lt;p&gt;求一份工作推荐，专科刚毕业，但之前有创业做政府高校项目，自己也做了一些独立软件，写锤子检讨书，山盒 APP ，别动我手机等 APP ，能做前端和产品岗，有其他岗位都可以介绍&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 16:14:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975015#reply2</guid></item><item><title>[iPhone] 如何看待演员刘金在苹果店怒砸 iphone13ProMax</title><link>https://www.v2ex.com/t/975013#reply16</link><description>不知道的可以抖音搜。&lt;br /&gt;苹果承诺硬件问题免费维修，后续反馈说是改装机，要求支付 6960 维修费，但是他手机是在苹果授权店买的，他自称没有维修过。要求苹果给出检测报告也不给。大家怎么看待这件事。&lt;br /&gt;&lt;br /&gt;我个人认为苹果对华服务很一般，应该给消费者一个合理说明，如果是第三方维修机，必须自己掏钱，应该给出证明。另外在授权店买的手机，苹果应该也需要承担责任。因为苹果收取授权费了。</description><pubDate>Mon, 18 Sep 2023 15:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975013#reply16</guid></item><item><title>[Linux] 终端中一个乱码问题</title><link>https://www.v2ex.com/t/975012#reply0</link><description>&lt;p&gt;第[1]步:&lt;/p&gt;
-&lt;p&gt;find 枚举 Dir 下的所有目录,发现某一个目录的名称中包含一个[FullWidthComma]字符,码点是[U+FF0C]&lt;/p&gt;
-&lt;p&gt;find Dir -type d &amp;amp;&amp;gt;List&lt;/p&gt;
-&lt;p&gt;cat List&lt;/p&gt;
-&lt;p&gt;此时一切正常,FullWidthComma 正常显示,没有乱码&lt;/p&gt;
-&lt;p&gt;第[2]步:&lt;/p&gt;
-&lt;p&gt;echo $'\U0000FF0C'&lt;/p&gt;
-&lt;p&gt;此时 FullWidthComma 乱码了&lt;/p&gt;
-&lt;p&gt;注[1]:$'string'在 bash 中是一种特殊转义序列,此处使用它来根据码点打印出字符&lt;/p&gt;
-&lt;p&gt;注[2]:echo 有 2 个版本,一个是 bash 的 buildin 命令,一个独立二进制版本,均乱码&lt;/p&gt;
-&lt;p&gt;我的问题:&lt;/p&gt;
-&lt;p&gt;既然第[1]步中显示正常,那应该不是我&lt;code&gt;缺字体/字体中缺字符&lt;/code&gt;吧?而且 locales 环境也是从来没变过,请问为什么会一个正常一个乱码呢?&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:48:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975012#reply0</guid></item><item><title>[iPhone] 苹果官网买的 15 要是到手不想要了</title><link>https://www.v2ex.com/t/975011#reply1</link><description>&lt;p&gt;可以去本地的线下直营店退货退款吗？还是说必须线上邮寄？&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:36:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975011#reply1</guid></item><item><title>[硬件] 需要硬盘的，可以提前囤起了，据说三星要削减 NAND 产能</title><link>https://www.v2ex.com/t/975010#reply2</link><description>&lt;p&gt;从 蓝点 看到的消息：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.landiannews.com/archives/100285.html" rel="nofollow"&gt;三星从 9 月开始削减高达 50%的 NAND 产能以解决供过于求价格低迷问题&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果需要硬盘，可以先囤一些，万一明后年真的回归原价了呢。&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:15:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975010#reply2</guid></item><item><title>[职场话题] 大家来分享下各个方向的后端日常吧？(电商, 直播，账号， AI, 搜索，广告，推荐，游戏等）</title><link>https://www.v2ex.com/t/975009#reply0</link><description>&lt;p&gt;想了解下不同方向后端的区别。&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:10:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975009#reply0</guid></item><item><title>[问与答] 现在用独角数卡有哪些收款方式？</title><link>https://www.v2ex.com/t/975008#reply1</link><description>主要卖卖 GPT 账号，不知道现在用哪种方式好</description><pubDate>Mon, 18 Sep 2023 15:09:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975008#reply1</guid></item><item><title>[问与答] 开启 Chromium X25519Kyber768 支持后，有没有遇到过一些无法访问的网站？</title><link>https://www.v2ex.com/t/975007#reply1</link><description>&lt;p&gt;前情： &lt;a href="https://www.v2ex.com/t/974662" rel="nofollow"&gt;https://www.v2ex.com/t/974662&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在启用 X25519Kyber768 支持后，我无法访问 &lt;a href="https://www.paypal.cn/" rel="nofollow"&gt;https://www.paypal.cn/&lt;/a&gt; 了，但不知道是为什么。
-我看它服务器连 TLS 1.3 都不支持，怎么会受到基于 TLS 1.3 的 X25519Kyber768 特性所影响。
-而且如果不使用本地网络，使用香港网络的话，又是可以访问的。&lt;/p&gt;
-&lt;p&gt;难道这个问题出现在网络传输上面吗？&lt;/p&gt;
-&lt;p&gt;各位有遇到过其他无法访问的网站吗，比如百度贴吧。&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:08:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975007#reply1</guid></item><item><title>[分享创造] [开源]一个利用 chrome side panel 的摸鱼小工具</title><link>https://www.v2ex.com/t/975006#reply1</link><description>&lt;h1&gt;一个利用 chrome side panel 的摸鱼小工具&lt;/h1&gt;
-&lt;h2&gt;支持多种搜索引擎搜索，配合快捷键可以切换搜索引擎以及快速搜索&lt;/h2&gt;
-&lt;h2&gt;固定常用页面入口，可以拖拽排序调整，自适应布局&lt;/h2&gt;
-&lt;h2&gt;本地备忘录小工具&lt;/h2&gt;
-&lt;h2&gt;微博、v2ex 热榜，工作时还可以偷偷摸鱼&lt;/h2&gt;
-&lt;h2&gt;所有小组件都是自定义大小布局、可拖拽等...&lt;/h2&gt;
-&lt;h2&gt;更多功能 敬请期待...&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Alt text" class="embedded_image" rel="noreferrer" src="https://www.v2ex.com/image.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;如果有什么想做的，相加的欢迎提 issue 或者 pr&lt;/h2&gt;
-&lt;h2&gt;已经上架 chrome 商店&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://chrome.google.com/webstore/detail/webcopilot/lilhddbnfmbbogphanbgohoahpkjaako" rel="nofollow"&gt;https://chrome.google.com/webstore/detail/webcopilot/lilhddbnfmbbogphanbgohoahpkjaako&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 15:02:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975006#reply1</guid></item><item><title>[分享发现] 疑似微信 iOS 版出现擅自截图上传行为</title><link>https://www.v2ex.com/t/975005#reply0</link><description>来源： &lt;a href="https://mp.weixin.qq.com/s/wNUn0_9aitWcBn5DOiMmoQ" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/wNUn0_9aitWcBn5DOiMmoQ&lt;/a&gt;</description><pubDate>Mon, 18 Sep 2023 14:57:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975005#reply0</guid></item><item><title>[分享发现] Reuters 这个鼠标滚轮页面做得挺有创意的</title><link>https://www.v2ex.com/t/975004#reply1</link><description>&lt;p&gt;&lt;a href="https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/" rel="nofollow"&gt;https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 14:53:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975004#reply1</guid></item><item><title>[软件] 有没有什么录屏软件，可以让鼠标一直在屏幕中心的，不需要后期手动调整的</title><link>https://www.v2ex.com/t/975003#reply1</link><description>&lt;p&gt;类似抖音上小姐姐跳舞视频里面的锁头功能，就是画面中头是静止的，背景在动&lt;/p&gt;
-&lt;p&gt;换到录屏工具里面，就是说可以尽可能的锁定鼠标，让鼠标永远可见，然后背景动吗？&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 14:27:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975003#reply1</guid></item><item><title>[音乐] 大家是不是对《听妈妈的话》的几句歌词一直觉得很奇怪？</title><link>https://www.v2ex.com/t/975002#reply0</link><description>分享创造，指分享别人的创造 Orz&lt;br /&gt;&lt;br /&gt;这是因为这首歌的视角是周杰伦（功成名就 2006 年版本）回到过去对小屁孩时期的自己讲道理。&lt;br /&gt;&lt;br /&gt;所以你可以炫耀未来赌神（也就是周润发）是你爸爸的意思是，周杰伦出演《满城尽带黄金甲》电影的时候，周润发演的是他的父皇。&lt;br /&gt;&lt;br /&gt;而歌词『我知道你未来的路但妈比我更清楚』和『但我建议最好写妈妈 我会用功读书 用功读书 怎么会从我嘴巴说出』里的我，大家也应该一下子就明白是谁了对吧。&lt;br /&gt;&lt;br /&gt;有一说一我也周杰伦老粉很久了，直到今天偶然来了兴趣去看听妈妈的话 MV 才发现这件事。&lt;br /&gt;&lt;br /&gt; [ [ 4K30FPS 修复] 周杰伦 - 听妈妈的话 MV 修复版]  &lt;a href="https://www.bilibili.com/video/BV1wJ411e7oK/?share_source=copy_web&amp;amp;vd_source=9eac5eb2dceb135c434b1a5b94358d10" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/BV1wJ411e7oK/?share_source=copy_web&amp;amp;vd_source=9eac5eb2dceb135c434b1a5b94358d10&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;多久没有和妈妈打个招呼了呢？国庆节回家给妈妈一个拥抱吧！</description><pubDate>Mon, 18 Sep 2023 14:25:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975002#reply0</guid></item><item><title>[程序员] 如何评价 v0？想听听你们的看法</title><link>https://www.v2ex.com/t/974998#reply3</link><description>&lt;p&gt;我的感觉像我这种非专业前端是够用的，做做 demo 会方便很多，生成出来的 component 会比 chatgpt 漂亮一点,你们如何评价？&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 14:00:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974998#reply3</guid></item><item><title>[NGINX] 小白求教源站屏蔽其他 ip 后设置显示访问者真实 IP 冲突咋解决</title><link>https://www.v2ex.com/t/974997#reply2</link><description>&lt;p&gt;小白求教源站屏蔽其他 ip 后设置显示访问者真实 IP 冲突咋解决&lt;/p&gt;
-&lt;p&gt;比如
-设置了
-location / {
-try_files $uri $uri/ /index.php?$args;
-allow XXX;
-deny all;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 19 Sep 2023 07:34:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] iOS 17 中 Wallet 最大添加卡数</title><link>https://www.v2ex.com/t/975217#reply0</link><description>&lt;p&gt;如题，大家的不同 iPhone 机型在 iOS 17 中 Wallet 的最大添加卡片数是多少呢？谢谢。&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:32:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975217#reply0</guid></item><item><title>[Apple] iPhone XR 要不要升级 iOS17</title><link>https://www.v2ex.com/t/975216#reply0</link><description></description><pubDate>Tue, 19 Sep 2023 07:31:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975216#reply0</guid></item><item><title>[Spotify] Spotify 印区家庭组拼车</title><link>https://www.v2ex.com/t/975215#reply1</link><description>&lt;p&gt;印区 Spotify 合租 印区 Spotify 年费家庭车 印区 Spotify 拼车 Spotify 印区会员 需要上车的小伙伴可以加我微信 d030518_&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:31:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975215#reply1</guid></item><item><title>[问与答] 踩到 Go 的 json 解析坑了，如何才能严格解析 json？</title><link>https://www.v2ex.com/t/975214#reply1</link><description>&lt;p&gt;精准踩中了 json 解析包的两个坑导致了生产环境出错&lt;/p&gt;
+&lt;p&gt;假设有下面结构体定义&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;type Data struct {
+	A   string `json:"a"`
+	B   int   `json:"b`
+	Obj struct {
+		AA string `json:"aa"`
+		BB int    `json:"bb"`
+	} `json:"obj"`
 }
-然后 nginx 里又设置了
-set_real_ip_from 0.0.0.0/0;
-real_ip_header X-Forwarded-For;
-real_ip_recursive on;&lt;/p&gt;
-&lt;p&gt;就会导致网站 404 ，必须把前面的 allow XXX;deny all;删掉才行&lt;/p&gt;</description><pubDate>Mon, 18 Sep 2023 13:53:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/974997#reply2</guid></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;使用&lt;code&gt;json.Unmarshal()&lt;/code&gt; 解析下列几种 json&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{"a":null, "b": null, "obj":null}
+{"obj": null}
+{"a": "a"}
+{"a": "a","z":"z"}
+{}
+{"obj": {}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;问：解析哪个 json 会报错？&lt;/p&gt;
+&lt;p&gt;答：全都不报错都正确解析&lt;/p&gt;
+&lt;p&gt;都是不出事就注意不到的问题。尤其非指针类型字段，我下意识认为遇到 null 是会直接报错的，结果直接是当作不存在(undefined)来处理。。。&lt;/p&gt;
+&lt;p&gt;so ，go 下怎么才能简单地进行严格 json 解析？要求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不允许出现未知字段，出现则报错（这个似乎倒是可以用 json 包的 DisallowUnknownFields 简单做到）&lt;/li&gt;
+&lt;li&gt;非指针字段不允许传入 null ，否则报错（似乎 json 包没法简单做到）&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 19 Sep 2023 07:28:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975214#reply1</guid></item><item><title>[git] git pull 拉 coding 代码很慢</title><link>https://www.v2ex.com/t/975213#reply1</link><description>&lt;p&gt;要卡住 7-8 秒才能命令行才会继续,有可能是什么地方有问题，应该如何分析呢？&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:27:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975213#reply1</guid></item><item><title>[职场话题] 记录被解雇的整个过程</title><link>https://www.v2ex.com/t/975211#reply2</link><description>不知道 V 站上有多少朋友经历过被裁员被辞退，有没有抗争过。 &lt;br /&gt;但是今天我抗争了，所以想记录下来，给后面的遭遇不公正对待的工友一个参考。&lt;br /&gt;闲言少叙，直切主题。&lt;br /&gt;&lt;br /&gt;第一周（ 9 月 4 日 - 9 月 8 日）&lt;br /&gt;9 月 4 日，微信发了一句，月底让我自己离职。&lt;br /&gt;（心态微有起伏，但问题不大，当时觉得没啥问题，微笑面对吧）&lt;br /&gt;9 月 5 日，二把手（非实权）把我拉到会议室，说让我月底离职，期间让我该面试面试（意思是不扣工资）。&lt;br /&gt;（还行吧，挺有人情味的，那我投完简历，有面试就去，没面试就在公司里背背八股）&lt;br /&gt;9 月 6 日 - 9 月 8 日 工作交接完成。&lt;br /&gt;第二周（ 9 月 11 日 - 9 月 15 日）&lt;br /&gt;9 月 11 日 没有面试正常去上班&lt;br /&gt;（但在公司嘈杂的环境里，完全没效率）&lt;br /&gt;9 月 12 日 - 9 月 15 日 请假去面试 &lt;br /&gt;第三周（ 9 月 18 日 - 9 月 19 日）&lt;br /&gt;&lt;br /&gt;9 月 18 日&lt;br /&gt;下午&lt;br /&gt;告诉我，明天不用来了。工资发到月底，但扣除请假的工资。&lt;br /&gt;我说这个月工资全额发放按之前说的来，要么赔偿半个月的工资。（是的当时就是这么蠢）&lt;br /&gt;他出了一招，说要在离职证明上动手脚。我接招，不害怕，说随便他搞，不在乎。&lt;br /&gt;他又打出了 PUA 和辱骂的大招，我接招，立马当着所有同事回骂过去。&lt;br /&gt;然后他同意了第二个方案，当月出勤天数+赔偿半个月工资。&lt;br /&gt;但都是口头上的约定，没有签任何协议。&lt;br /&gt;因为我对他口头上的任何承诺，都没有信任度了。&lt;br /&gt;我让他出书面的协议，然后他打了两张没有公章的离职证明。&lt;br /&gt;他给出的赔偿半个月工资是写在备注里而且逻辑不通，语义不顺。&lt;br /&gt;于是我让他明确赔偿金额和时间，签一个带公章的协议。&lt;br /&gt;他当时不肯，放出大招，说无所谓，告去吧，劳动仲裁去吧。&lt;br /&gt;我接招，当面撕毁所谓的离职证明，说明天我还来。&lt;br /&gt;&lt;br /&gt;晚上&lt;br /&gt;去健身房跑了 10 钟，冲了一个澡。情绪下头，心态平复，智商开始上线。&lt;br /&gt;开始网上查资料，开始思考。&lt;br /&gt;1 、法定的裁员并不简单，大部分所谓的“裁员辞退”都是单方面解除劳动合同。&lt;br /&gt;2 、单方面解除劳动的法定赔偿是 2N(N 是工作年限，满半年不满一年算 N,不满半年算 0.5N)&lt;br /&gt;3 、假期是可以折算工资的。&lt;br /&gt;那我就算拿当月出勤天数+赔偿半个月工资，也是亏大了。&lt;br /&gt;（中秋国庆也算钱，并且节后就满半年了）&lt;br /&gt;于是给出新方案，当月出勤天数+一个月工资。&lt;br /&gt;于是立马线上和他对战，向他展示坚定捍卫自身权利的决心，然后安心睡觉。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;9 月 19 日&lt;br /&gt;早上按时上班，打卡，拍照，录像。&lt;br /&gt;发现工位电脑被收走，开始疯狂对线，他们态度强硬，让我去告吧。&lt;br /&gt;态度及其很恶劣，声明就是要单方面解除劳动合同。&lt;br /&gt;马上接招，让他们出单方面解除劳动合同通知。&lt;br /&gt;启动相机，骑脸输出，保留证据。&lt;br /&gt;立马拨打区劳动监察电话，让所有同事都能听见。&lt;br /&gt;他开始怂了，给我发了一个当月出勤天数+半个月工资的工资条。&lt;br /&gt;他赌我不敢“开枪”，我就一发一发的装填子弹&lt;br /&gt;1 、仲裁申请书&lt;br /&gt;2 、身份证复印件&lt;br /&gt;3 、企业工商信息&lt;br /&gt;4 、劳动关系复印件&lt;br /&gt;5 、证据 (视频、书面材料、可以搞到的一切证据，关键点在于证明他们单方面解除劳动关系，2N 的考量依据)&lt;br /&gt;仲裁申请书写完后，告诉他子弹已上膛。&lt;br /&gt;又发了一个当月出勤天数+一个月工资的工资条。&lt;br /&gt;离职证明说是这周内给我。&lt;br /&gt;&lt;br /&gt;至此，协议达成，签完走人。</description><pubDate>Tue, 19 Sep 2023 07:26:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975211#reply2</guid></item><item><title>[宽带症候群] 如何克隆原来笔记本的硬盘啊？</title><link>https://www.v2ex.com/t/975210#reply1</link><description>原来是 512 买了 2t 的盘，买个了 9210B 硬盘盒  如何把原来的盘克隆过去啊？&lt;br /&gt;只有一个 C 盘，克隆过去也只要一个分区。</description><pubDate>Tue, 19 Sep 2023 07:26:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975210#reply1</guid></item><item><title>[程序员] 为什么感觉 xmind 现在用的人变少了，还是我的错觉</title><link>https://www.v2ex.com/t/975209#reply0</link><description>记得几年前那时候身边全是思维导图的好处，什么什么诸如此类的，我也下载了一个破解版但是几乎没用过，这两年感觉自己身边也很少见到用的，可能也与自己身边的环境有关？</description><pubDate>Tue, 19 Sep 2023 07:26:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975209#reply0</guid></item><item><title>[程序员] C++反直觉的地方好多，好痛苦</title><link>https://www.v2ex.com/t/975208#reply0</link><description>「现代化」的语言写多了，golang/swift ，还有各种怎么写都行的 PHP/JS&lt;br /&gt;&lt;br /&gt;然后发下，c++反直觉的地方太多了，想哭&lt;br /&gt;&lt;br /&gt;- 要记得 include 头文件，包括语言级的 STL 的各种功能&lt;br /&gt;- class 的声明要加分号；&lt;br /&gt;- 记得写头文件保护宏&lt;br /&gt;- 奇怪的构造函数和析构函数定义&lt;br /&gt;- 区分「定义」和「声明」&lt;br /&gt;- 记得加 const ，并区分引用和指针&lt;br /&gt;&lt;br /&gt;编码十分钟，纠正习惯半小时...然后对着各种奇怪的报错改代码&lt;br /&gt;&lt;br /&gt;效率根本上不去啊</description><pubDate>Tue, 19 Sep 2023 07:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975208#reply0</guid></item><item><title>[Docker] docker hub 是不是正常了？</title><link>https://www.v2ex.com/t/975207#reply0</link><description>今天更新到最新版的 desktop ，发现能登录了。这是已经消除影响了吗？</description><pubDate>Tue, 19 Sep 2023 07:23:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975207#reply0</guid></item><item><title>[问与答] 公司对公众存在重大过错，我出于社会公众利益，向社会揭发公司的行为，是否算违法？</title><link>https://www.v2ex.com/t/975206#reply2</link><description>&lt;p&gt;比如公司存了 6 亿个人信息，运维 ES 没密码，联系公司所有人都不以为然不去改正，我觉得这个事情不行，去发微博告诉所有人这件事情。&lt;/p&gt;
+&lt;p&gt;这种行为是否算违法侵权？&lt;/p&gt;
+&lt;p&gt;PS：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在已离职或已经做好鱼死网破的情况下，别再废话什么离职不离职了，都是成年人说话动动脑子行不行&lt;/li&gt;
+&lt;li&gt;我只是纯好奇，上面是瞎编的，最近没有这样的事故&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 19 Sep 2023 07:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975206#reply2</guid></item><item><title>[NAS] 你们是怎么记住各种自建 docker web 服务的账号密码的</title><link>https://www.v2ex.com/t/975205#reply2</link><description>家里自建服务器，跑各种 docker ，加上之前的软路由，现在记各种账号密码头大，有的还有密码复杂度要求，请问有什么优雅的方法吗</description><pubDate>Tue, 19 Sep 2023 07:17:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975205#reply2</guid></item><item><title>[分享发现] 一切國内版本電子產品都是閹割版, 必須刷國際版系統</title><link>https://www.v2ex.com/t/975202#reply18</link><description>&lt;p&gt;手機閹割 Google, 自帶反詐(監控 app), 到手第一件事刷 English 國際版&lt;/p&gt;
+&lt;p&gt;電腦原裝系統為家庭中文單語言版, 無法切換語言(防止人礦用 English 接觸墻外信息)自帶國產監控後門(聯想電腦管家,360,魯大師等國產後門監控), 到手第一件事重裝 English 系統&lt;/p&gt;
+&lt;p&gt;路由器,閹割了 openwrt, 無法安裝 passwall, clash 等剛需軟件,到手第一件事刷 openwrt 系統&lt;/p&gt;
+&lt;p&gt;國產 vps, 自帶監控軟件,監控到安裝代理軟件直接封號, 錢不退, 必須買非國產 vps&lt;/p&gt;
+&lt;p&gt;+86 手機號接收不到墻外電話以及短信, 必須申請開通國際漫游(默認關閉)&lt;/p&gt;
+&lt;p&gt;簡中語言是個文字獄, 即使 Google 搜搜, 用簡體中文和繁體中文 English 會得到不同的結果, 所以我用繁體中文和 English&lt;/p&gt;
+&lt;p&gt;以上只是本人客觀的總結, 無立場, 經過客觀理性思考, 不喜勿噴, 歡迎補充&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975202#reply18</guid></item><item><title>[程序员] 推荐一个 vscode 项目管理插件 Project Manager Next</title><link>https://www.v2ex.com/t/975201#reply1</link><description>&lt;p&gt;推荐一个 vscode 项目管理插件，Project Manager Next&lt;/p&gt;
+&lt;p&gt;由于公司项目和相关依赖包数量较多，且经常交叉处于多个业务需求中，所以需要频繁的切换项目分支，安装依赖等繁琐操作。&lt;/p&gt;
+&lt;p&gt;之前手动复制了多个不同分支的项目在本地，但是又会出现打开项目后发现不是对应的分支的问题。无奈又在项目名称上加上分支名，整个过程不胜其烦。&lt;/p&gt;
+&lt;p&gt;所以需要一个 vscode 插件解决这个问题。&lt;/p&gt;
+&lt;p&gt;✨ 特性&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;支持展示“最近使用”与“收藏夹” 的项目&lt;/li&gt;
+&lt;li&gt;支持将“最近使用”的项目添加至收藏夹&lt;/li&gt;
+&lt;li&gt;支持在当前窗口打开项目、新窗口打开项目&lt;/li&gt;
+&lt;li&gt;侧边栏展示项目列表，并展示分支名称&lt;/li&gt;
+&lt;li&gt;支持复制项目，自增命名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;项目地址： &lt;a href="https://github.com/Dolov/vscode-project-manager" rel="nofollow"&gt;https://github.com/Dolov/vscode-project-manager&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:09:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975201#reply1</guid></item><item><title>[问与答] 兄弟们，远程工作香不香，还有薪资为外币怎么换 rmb 呀，是不是有什么限制</title><link>https://www.v2ex.com/t/975200#reply3</link><description>最近在看远程工作，突然想到外币怎么转 rmb 呀，不会要去地下钱庄换吧</description><pubDate>Tue, 19 Sep 2023 07:08:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975200#reply3</guid></item><item><title>[Apple] Apple TV Quantumult X 求一个设置为旁路由的教程，找了一圈没有找到文章</title><link>https://www.v2ex.com/t/975198#reply8</link><description></description><pubDate>Tue, 19 Sep 2023 07:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975198#reply8</guid></item><item><title>[程序员] 腾讯混元大模型有人注册成功吗?</title><link>https://www.v2ex.com/t/975196#reply0</link><description>&lt;p&gt;腾讯混元大模型有人申请成功了吗?
+怎么这么慢😄
+想体验下看看怎么样&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:54:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975196#reply0</guid></item><item><title>[问与答] 求 1k 以内人体工学办公椅推荐</title><link>https://www.v2ex.com/t/975195#reply0</link><description>&lt;p&gt;最近坐普通的办公椅坐久了有点儿腰疼，想在家里买一个人体工学办公椅坐。请问大家有推荐的吗？谢谢&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:54:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975195#reply0</guid></item><item><title>[Apple] iOS17 敏感内容警告和我需求的差别很大</title><link>https://www.v2ex.com/t/975193#reply2</link><description>我需求的：在查看网页、查看自带的相册、第三方 app 调用相册图片时，如果是敏感内容就自动模糊，点一下并点击确定才会显示出来。&lt;br /&gt;实际：别人通过隔空投送、短信发过来的信息如果是敏感内容就触发功能（具体是啥功能我不知道）。&lt;br /&gt;&lt;br /&gt;隔空投送除了我自己发给自己，好多年了被别人投送不超过 3 次，短信国内几乎不用于日常沟通。&lt;br /&gt;更让我不爽的是不知道哪个版本开始加入了快捷分享功能，比如你在相册长按一张图（或打开一张图后），点“共享”，第一排都是钉钉的人，我非常害怕我长按了一张敏感图然后误触了这里的钉钉联系人，找了好久才找到这个在哪里关闭。（在这个界面将第二排拉到最右，有“更多”选项，将所有的东西都关闭）</description><pubDate>Tue, 19 Sep 2023 06:47:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975193#reply2</guid></item><item><title>[分享创造] 跟兄弟一起搞了个雅思与 PET 写作批改的服务, 无码但注册送次数, 欢迎大家来使用</title><link>https://www.v2ex.com/t/975192#reply0</link><description>&lt;p&gt;先放个地址 &amp;gt;&amp;gt;&amp;gt; &lt;a href="https://consoles.bring-ai-2u.com" rel="nofollow"&gt;AI Assistant -英语作文帮&lt;/a&gt; &amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;h2&gt;一些背景&lt;/h2&gt;
+&lt;p&gt;这东西起初只是一兄弟想用 ai 帮自己教雅思的老婆减少工作压力而搞出来的东西。产品原来叫 AI Assistant - Bring AI To You, 就是单纯想用 ai 来辅助自己的生活与工作。后来由于各种不可抗的原因，我们现在叫 英语作文帮。&lt;/p&gt;
+&lt;p&gt;项目的功能不是太复杂，一开始主要还是聚焦在如何实现考证评分标准及题库等方面的能力上。&lt;/p&gt;
+&lt;p&gt;后续使用了一段时间后觉得效果还不错，于是又开发了用户体系，陆陆续续介绍给了关系比较好的机构及老师来试用并做了不少的改进。&lt;/p&gt;
+&lt;p&gt;现在开放了个人用户注册, 由于这个东西本身一开始是"为爱发电"(没错)，也么有啥资本支持，所以暂时注册用户只送了两次批改服务(毕竟都是自己建的服务真的有成本在那里 🙏)。&lt;/p&gt;
+&lt;h2&gt;主要功能&lt;/h2&gt;
+&lt;h3&gt;作文批改&lt;/h3&gt;
+&lt;p&gt;目前已支持 IELTS 及 PET ，在用户输入或上传写作照片后进入批改流程，在批改结束后会提供对本次写作的得分、评分依据及语法更正建议等内容。&lt;/p&gt;
+&lt;h4&gt;已支持的 IELTS 教材&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="IELTS" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/B8XObjAKooU1ctxF9hrcPv5tnye/?fallback_source=1&amp;amp;height=1280&amp;amp;mount_node_token=EbSOdAQNxogH90xV0p2cf7HRnkh&amp;amp;mount_point=docx_image&amp;amp;policy=equal&amp;amp;width=1280" /&gt;&lt;/p&gt;
+&lt;h4&gt;已支持的 IELTS 教材写作题目&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="IELTSQ" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/OEQfb0waPoD4zJxm5h5cCxqHnGr/?fallback_source=1&amp;amp;height=1280&amp;amp;mount_node_token=ZAJkdtWuWoxANVxjNU0c9ox7n3f&amp;amp;mount_point=docx_image&amp;amp;policy=equal&amp;amp;width=1280" /&gt;&lt;/p&gt;
+&lt;h4&gt;批改结果&lt;/h4&gt;
+&lt;p&gt;批改结果页面提供了针对本次提交的作文的得分、评分依据及语法更正建议等内容，可以就里面的内容与实际情况相映证，提升自身写作水平
+&lt;img alt="result" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/SB5VbsQPMoFUYkxWin7coAKznHe/?preview_type=16" /&gt;&lt;/p&gt;
+&lt;h3&gt;写作范文&lt;/h3&gt;
+&lt;p&gt;系统中也提供了一些写作范文，可以给大家在学习的时候提供一些写作思路
+&lt;img alt="sam" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/VjGxbgzzqo8BgnxBP3JcY8M4nJd/?preview_type=16" /&gt;&lt;/p&gt;
+&lt;p&gt;PC 端可以直接在列表查看详情&lt;/p&gt;
+&lt;p&gt;&lt;img alt="sam-detail" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/DudNbpeHnoAjZ6x1yF1cvjW1nEd/?preview_type=16" /&gt;&lt;/p&gt;
+&lt;h3&gt;移动端&lt;/h3&gt;
+&lt;p&gt;这项目有移动端的内容，可以在移动设备上查看批改结果和范文。批改结果的移动端入口可以在后台获得。但这个功能更多是机构老师用来发给学生的。对个人用户来说作用不是很大，大家有兴趣可以自行看看。&lt;/p&gt;
+&lt;p&gt;更详尽的内容请查看这个文档 &lt;a href="https://lajptopugi.feishu.cn/docx/BemzdxNnPojEVXxpsoUcZ0n6nHg" rel="nofollow"&gt;AI Assistant 英语作文帮&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大家反馈使用感受及各种 bug 或自己的想法，感谢🙏&lt;/p&gt;
+&lt;p&gt;再放一次地址 &amp;gt;&amp;gt;&amp;gt; &lt;a href="https://consoles.bring-ai-2u.com" rel="nofollow"&gt;AI Assistant -英语作文帮&lt;/a&gt; &amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:46:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975192#reply0</guid></item></channel></rss>
