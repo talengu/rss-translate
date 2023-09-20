@@ -1,79 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 19 Sep 2023 07:34:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] iOS 17 中 Wallet 最大添加卡数</title><link>https://www.v2ex.com/t/975217#reply0</link><description>&lt;p&gt;如题，大家的不同 iPhone 机型在 iOS 17 中 Wallet 的最大添加卡片数是多少呢？谢谢。&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:32:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975217#reply0</guid></item><item><title>[Apple] iPhone XR 要不要升级 iOS17</title><link>https://www.v2ex.com/t/975216#reply0</link><description></description><pubDate>Tue, 19 Sep 2023 07:31:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975216#reply0</guid></item><item><title>[Spotify] Spotify 印区家庭组拼车</title><link>https://www.v2ex.com/t/975215#reply1</link><description>&lt;p&gt;印区 Spotify 合租 印区 Spotify 年费家庭车 印区 Spotify 拼车 Spotify 印区会员 需要上车的小伙伴可以加我微信 d030518_&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:31:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975215#reply1</guid></item><item><title>[问与答] 踩到 Go 的 json 解析坑了，如何才能严格解析 json？</title><link>https://www.v2ex.com/t/975214#reply1</link><description>&lt;p&gt;精准踩中了 json 解析包的两个坑导致了生产环境出错&lt;/p&gt;
-&lt;p&gt;假设有下面结构体定义&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;type Data struct {
-	A   string `json:"a"`
-	B   int   `json:"b`
-	Obj struct {
-		AA string `json:"aa"`
-		BB int    `json:"bb"`
-	} `json:"obj"`
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 20 Sep 2023 03:59:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[前端开发] 家人们谁懂啊，现在电脑里装了微信开发者工具 支付宝开发者工具 字节开发者工具，现在还要装一个快应用开发者工具</title><link>https://www.v2ex.com/t/975488#reply0</link><description></description><pubDate>Wed, 20 Sep 2023 03:58:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975488#reply0</guid></item><item><title>[宽带症候群] 北京移动千兆网速达成</title><link>https://www.v2ex.com/t/975484#reply0</link><description>&lt;p&gt;换了一个 vsol 2.5g 光猫，软路由升级到万兆光口，某宝买了一个小牌可网管 2.5g 交换机，还挺好用的。
+NAT 前的话能跑到 1200Mb ，NAT 后的话能跑到 1100Mb 。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.speedtest.net/result/d/9db7b7b9-5cf7-4c0f-8950-0908363f5d9e" rel="nofollow"&gt;https://www.speedtest.net/result/d/9db7b7b9-5cf7-4c0f-8950-0908363f5d9e&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;北京移动光宽用 SN + password 认证，LOID 是不需要的，但家里小区刚割接为 XGPON ，师傅给换了一个创维的 XGPON 猫，没找到免拆的破解教程，破壳连 TTL 拿配置搞定。&lt;/p&gt;
+&lt;p&gt;VSOL 这个猫 web 页配置有坑，禁止配置 vlan = 10 、1010 ，恰好就是移动用的 vlan 。万幸的只是在 JS 层面做的拦截，用 chrome 开发者工具 hack 一下，还是能保存的，实测路由拨号和 IPTV （交 12 块钱那种，不是 OTT ）都可以正常使用。&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:55:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975484#reply0</guid></item><item><title>[OpenAI] 现在 AI 的一张单图放大技术，已经那么强了啊？</title><link>https://www.v2ex.com/t/975483#reply2</link><description>我还停留在 waifu2x 时代，试了一下最新的 swinir 项目，真的把我惊艳到了。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://github.com/jingyunliang/swinir" rel="nofollow noopener" target="_blank"&gt;https://github.com/jingyunliang/swinir&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;左边是原图，右边是放大后的图。图片出来的时候，那铅笔上的细节，我都不敢相信，满满都是黑科技。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/dYoL8J6.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/dYoL8J6.jpg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 20 Sep 2023 03:48:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975483#reply2</guid></item><item><title>[Go 编程语言] 雪花 ID 转 int64 位数字，长度是不固定的吗？</title><link>https://www.v2ex.com/t/975481#reply1</link><description>&lt;p&gt;&lt;a href="https://github.com/bwmarrin/snowflake" rel="nofollow"&gt;https://github.com/bwmarrin/snowflake&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/sony/sonyflake" rel="nofollow"&gt;https://github.com/sony/sonyflake&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用了两个库，生成的 ID 转 int64 纯数字长度都不一样，而且库的配置不同，长度也不一样。&lt;/p&gt;
+&lt;p&gt;长度是不固定吗？&lt;/p&gt;
+&lt;p&gt;生成是 18 个数字：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;import (
+	"time"
+
+	"github.com/sony/sonyflake"
+)
+
+var (
+	sf = sonyflake.NewSonyflake(sonyflake.Settings{
+		StartTime: time.Now().Add(-time.Hour),
+		MachineID: func() (uint16, error) {
+			return uint16(10), nil
+		},
+	})
+)
+
+func GetNextSonyflakeId() int64 {
+	flakeId, _ := sf.NextID()
+	return int64(flakeId)
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;使用&lt;code&gt;json.Unmarshal()&lt;/code&gt; 解析下列几种 json&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{"a":null, "b": null, "obj":null}
-{"obj": null}
-{"a": "a"}
-{"a": "a","z":"z"}
-{}
-{"obj": {}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;问：解析哪个 json 会报错？&lt;/p&gt;
-&lt;p&gt;答：全都不报错都正确解析&lt;/p&gt;
-&lt;p&gt;都是不出事就注意不到的问题。尤其非指针类型字段，我下意识认为遇到 null 是会直接报错的，结果直接是当作不存在(undefined)来处理。。。&lt;/p&gt;
-&lt;p&gt;so ，go 下怎么才能简单地进行严格 json 解析？要求&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;不允许出现未知字段，出现则报错（这个似乎倒是可以用 json 包的 DisallowUnknownFields 简单做到）&lt;/li&gt;
-&lt;li&gt;非指针字段不允许传入 null ，否则报错（似乎 json 包没法简单做到）&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 19 Sep 2023 07:28:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975214#reply1</guid></item><item><title>[git] git pull 拉 coding 代码很慢</title><link>https://www.v2ex.com/t/975213#reply1</link><description>&lt;p&gt;要卡住 7-8 秒才能命令行才会继续,有可能是什么地方有问题，应该如何分析呢？&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:27:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975213#reply1</guid></item><item><title>[职场话题] 记录被解雇的整个过程</title><link>https://www.v2ex.com/t/975211#reply2</link><description>不知道 V 站上有多少朋友经历过被裁员被辞退，有没有抗争过。 &lt;br /&gt;但是今天我抗争了，所以想记录下来，给后面的遭遇不公正对待的工友一个参考。&lt;br /&gt;闲言少叙，直切主题。&lt;br /&gt;&lt;br /&gt;第一周（ 9 月 4 日 - 9 月 8 日）&lt;br /&gt;9 月 4 日，微信发了一句，月底让我自己离职。&lt;br /&gt;（心态微有起伏，但问题不大，当时觉得没啥问题，微笑面对吧）&lt;br /&gt;9 月 5 日，二把手（非实权）把我拉到会议室，说让我月底离职，期间让我该面试面试（意思是不扣工资）。&lt;br /&gt;（还行吧，挺有人情味的，那我投完简历，有面试就去，没面试就在公司里背背八股）&lt;br /&gt;9 月 6 日 - 9 月 8 日 工作交接完成。&lt;br /&gt;第二周（ 9 月 11 日 - 9 月 15 日）&lt;br /&gt;9 月 11 日 没有面试正常去上班&lt;br /&gt;（但在公司嘈杂的环境里，完全没效率）&lt;br /&gt;9 月 12 日 - 9 月 15 日 请假去面试 &lt;br /&gt;第三周（ 9 月 18 日 - 9 月 19 日）&lt;br /&gt;&lt;br /&gt;9 月 18 日&lt;br /&gt;下午&lt;br /&gt;告诉我，明天不用来了。工资发到月底，但扣除请假的工资。&lt;br /&gt;我说这个月工资全额发放按之前说的来，要么赔偿半个月的工资。（是的当时就是这么蠢）&lt;br /&gt;他出了一招，说要在离职证明上动手脚。我接招，不害怕，说随便他搞，不在乎。&lt;br /&gt;他又打出了 PUA 和辱骂的大招，我接招，立马当着所有同事回骂过去。&lt;br /&gt;然后他同意了第二个方案，当月出勤天数+赔偿半个月工资。&lt;br /&gt;但都是口头上的约定，没有签任何协议。&lt;br /&gt;因为我对他口头上的任何承诺，都没有信任度了。&lt;br /&gt;我让他出书面的协议，然后他打了两张没有公章的离职证明。&lt;br /&gt;他给出的赔偿半个月工资是写在备注里而且逻辑不通，语义不顺。&lt;br /&gt;于是我让他明确赔偿金额和时间，签一个带公章的协议。&lt;br /&gt;他当时不肯，放出大招，说无所谓，告去吧，劳动仲裁去吧。&lt;br /&gt;我接招，当面撕毁所谓的离职证明，说明天我还来。&lt;br /&gt;&lt;br /&gt;晚上&lt;br /&gt;去健身房跑了 10 钟，冲了一个澡。情绪下头，心态平复，智商开始上线。&lt;br /&gt;开始网上查资料，开始思考。&lt;br /&gt;1 、法定的裁员并不简单，大部分所谓的“裁员辞退”都是单方面解除劳动合同。&lt;br /&gt;2 、单方面解除劳动的法定赔偿是 2N(N 是工作年限，满半年不满一年算 N,不满半年算 0.5N)&lt;br /&gt;3 、假期是可以折算工资的。&lt;br /&gt;那我就算拿当月出勤天数+赔偿半个月工资，也是亏大了。&lt;br /&gt;（中秋国庆也算钱，并且节后就满半年了）&lt;br /&gt;于是给出新方案，当月出勤天数+一个月工资。&lt;br /&gt;于是立马线上和他对战，向他展示坚定捍卫自身权利的决心，然后安心睡觉。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;9 月 19 日&lt;br /&gt;早上按时上班，打卡，拍照，录像。&lt;br /&gt;发现工位电脑被收走，开始疯狂对线，他们态度强硬，让我去告吧。&lt;br /&gt;态度及其很恶劣，声明就是要单方面解除劳动合同。&lt;br /&gt;马上接招，让他们出单方面解除劳动合同通知。&lt;br /&gt;启动相机，骑脸输出，保留证据。&lt;br /&gt;立马拨打区劳动监察电话，让所有同事都能听见。&lt;br /&gt;他开始怂了，给我发了一个当月出勤天数+半个月工资的工资条。&lt;br /&gt;他赌我不敢“开枪”，我就一发一发的装填子弹&lt;br /&gt;1 、仲裁申请书&lt;br /&gt;2 、身份证复印件&lt;br /&gt;3 、企业工商信息&lt;br /&gt;4 、劳动关系复印件&lt;br /&gt;5 、证据 (视频、书面材料、可以搞到的一切证据，关键点在于证明他们单方面解除劳动关系，2N 的考量依据)&lt;br /&gt;仲裁申请书写完后，告诉他子弹已上膛。&lt;br /&gt;又发了一个当月出勤天数+一个月工资的工资条。&lt;br /&gt;离职证明说是这周内给我。&lt;br /&gt;&lt;br /&gt;至此，协议达成，签完走人。</description><pubDate>Tue, 19 Sep 2023 07:26:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975211#reply2</guid></item><item><title>[宽带症候群] 如何克隆原来笔记本的硬盘啊？</title><link>https://www.v2ex.com/t/975210#reply1</link><description>原来是 512 买了 2t 的盘，买个了 9210B 硬盘盒  如何把原来的盘克隆过去啊？&lt;br /&gt;只有一个 C 盘，克隆过去也只要一个分区。</description><pubDate>Tue, 19 Sep 2023 07:26:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975210#reply1</guid></item><item><title>[程序员] 为什么感觉 xmind 现在用的人变少了，还是我的错觉</title><link>https://www.v2ex.com/t/975209#reply0</link><description>记得几年前那时候身边全是思维导图的好处，什么什么诸如此类的，我也下载了一个破解版但是几乎没用过，这两年感觉自己身边也很少见到用的，可能也与自己身边的环境有关？</description><pubDate>Tue, 19 Sep 2023 07:26:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975209#reply0</guid></item><item><title>[程序员] C++反直觉的地方好多，好痛苦</title><link>https://www.v2ex.com/t/975208#reply0</link><description>「现代化」的语言写多了，golang/swift ，还有各种怎么写都行的 PHP/JS&lt;br /&gt;&lt;br /&gt;然后发下，c++反直觉的地方太多了，想哭&lt;br /&gt;&lt;br /&gt;- 要记得 include 头文件，包括语言级的 STL 的各种功能&lt;br /&gt;- class 的声明要加分号；&lt;br /&gt;- 记得写头文件保护宏&lt;br /&gt;- 奇怪的构造函数和析构函数定义&lt;br /&gt;- 区分「定义」和「声明」&lt;br /&gt;- 记得加 const ，并区分引用和指针&lt;br /&gt;&lt;br /&gt;编码十分钟，纠正习惯半小时...然后对着各种奇怪的报错改代码&lt;br /&gt;&lt;br /&gt;效率根本上不去啊</description><pubDate>Tue, 19 Sep 2023 07:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975208#reply0</guid></item><item><title>[Docker] docker hub 是不是正常了？</title><link>https://www.v2ex.com/t/975207#reply0</link><description>今天更新到最新版的 desktop ，发现能登录了。这是已经消除影响了吗？</description><pubDate>Tue, 19 Sep 2023 07:23:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975207#reply0</guid></item><item><title>[问与答] 公司对公众存在重大过错，我出于社会公众利益，向社会揭发公司的行为，是否算违法？</title><link>https://www.v2ex.com/t/975206#reply2</link><description>&lt;p&gt;比如公司存了 6 亿个人信息，运维 ES 没密码，联系公司所有人都不以为然不去改正，我觉得这个事情不行，去发微博告诉所有人这件事情。&lt;/p&gt;
-&lt;p&gt;这种行为是否算违法侵权？&lt;/p&gt;
-&lt;p&gt;PS：&lt;/p&gt;
+&lt;p&gt;生成的是 13 个数字:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;import (
+	"github.com/sony/sonyflake"
+)
+
+var (
+	sf = sonyflake.NewSonyflake(sonyflake.Settings{})
+)
+
+
+func GetNextSonyflakeId() int64 {
+	flakeId, _ := sf.NextID()
+	return int64(flakeId)
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 20 Sep 2023 03:45:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975481#reply1</guid></item><item><title>[Apple] appletv 做代理性能够么</title><link>https://www.v2ex.com/t/975480#reply0</link><description></description><pubDate>Wed, 20 Sep 2023 03:40:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975480#reply0</guid></item><item><title>[问与答] 现在还有哪些轻量的内网穿透支持多平台的软件</title><link>https://www.v2ex.com/t/975479#reply0</link><description>&lt;p&gt;轻量型
+即用即走
+能建立 p2p&lt;/p&gt;
+&lt;p&gt;发现有 ksa （看雪安全接入）还不错，就是没有安卓端
+大家来推荐一下&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:36:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975479#reply0</guid></item><item><title>[硬件] 话说大家的主路由都是用什么机器，最近想换个新的主路由</title><link>https://www.v2ex.com/t/975478#reply3</link><description>&lt;h2&gt;这两天在想要不要买个友善的 R5S ，或者上个 x86 小主机&lt;/h2&gt;
+&lt;p&gt;目前我家里主路由是华硕 AX57 ，一台入门路由，没有什么折腾，官方原版系统拨号上网，我的 300m 宽带下行可以跑到快 400 ，唯一的问题就是因为在玩智能家居，所以家里的联网设备有点多，60 来个联网设备，路由器的内存占用 90 多已经快满了。&lt;/p&gt;
+&lt;p&gt;要说需求就真的是单纯路由的需求，不需要在主路由上开代理，也没有作储存设备和下载器的需求，也不会在路由器上开虚拟机，最多也就是开开 alist 之类的小插件&lt;/p&gt;
+&lt;p&gt;我的习惯大部分设备开代理都直接使用客户端了，切节点又方便，路由器切个节点还要登后台，而且本身客户端也 24 小时挂着，不用管那个网络是有代理的，不用出门回家老切换，省事方便，所以就用不着主路由开代理&lt;/p&gt;
+&lt;h3&gt;家里用过的其他几个路由设备：&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;在已离职或已经做好鱼死网破的情况下，别再废话什么离职不离职了，都是成年人说话动动脑子行不行&lt;/li&gt;
-&lt;li&gt;我只是纯好奇，上面是瞎编的，最近没有这样的事故&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 19 Sep 2023 07:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975206#reply2</guid></item><item><title>[NAS] 你们是怎么记住各种自建 docker web 服务的账号密码的</title><link>https://www.v2ex.com/t/975205#reply2</link><description>家里自建服务器，跑各种 docker ，加上之前的软路由，现在记各种账号密码头大，有的还有密码复杂度要求，请问有什么优雅的方法吗</description><pubDate>Tue, 19 Sep 2023 07:17:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975205#reply2</guid></item><item><title>[分享发现] 一切國内版本電子產品都是閹割版, 必須刷國際版系統</title><link>https://www.v2ex.com/t/975202#reply18</link><description>&lt;p&gt;手機閹割 Google, 自帶反詐(監控 app), 到手第一件事刷 English 國際版&lt;/p&gt;
-&lt;p&gt;電腦原裝系統為家庭中文單語言版, 無法切換語言(防止人礦用 English 接觸墻外信息)自帶國產監控後門(聯想電腦管家,360,魯大師等國產後門監控), 到手第一件事重裝 English 系統&lt;/p&gt;
-&lt;p&gt;路由器,閹割了 openwrt, 無法安裝 passwall, clash 等剛需軟件,到手第一件事刷 openwrt 系統&lt;/p&gt;
-&lt;p&gt;國產 vps, 自帶監控軟件,監控到安裝代理軟件直接封號, 錢不退, 必須買非國產 vps&lt;/p&gt;
-&lt;p&gt;+86 手機號接收不到墻外電話以及短信, 必須申請開通國際漫游(默認關閉)&lt;/p&gt;
-&lt;p&gt;簡中語言是個文字獄, 即使 Google 搜搜, 用簡體中文和繁體中文 English 會得到不同的結果, 所以我用繁體中文和 English&lt;/p&gt;
-&lt;p&gt;以上只是本人客觀的總結, 無立場, 經過客觀理性思考, 不喜勿噴, 歡迎補充&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975202#reply18</guid></item><item><title>[程序员] 推荐一个 vscode 项目管理插件 Project Manager Next</title><link>https://www.v2ex.com/t/975201#reply1</link><description>&lt;p&gt;推荐一个 vscode 项目管理插件，Project Manager Next&lt;/p&gt;
-&lt;p&gt;由于公司项目和相关依赖包数量较多，且经常交叉处于多个业务需求中，所以需要频繁的切换项目分支，安装依赖等繁琐操作。&lt;/p&gt;
-&lt;p&gt;之前手动复制了多个不同分支的项目在本地，但是又会出现打开项目后发现不是对应的分支的问题。无奈又在项目名称上加上分支名，整个过程不胜其烦。&lt;/p&gt;
-&lt;p&gt;所以需要一个 vscode 插件解决这个问题。&lt;/p&gt;
-&lt;p&gt;✨ 特性&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;支持展示“最近使用”与“收藏夹” 的项目&lt;/li&gt;
-&lt;li&gt;支持将“最近使用”的项目添加至收藏夹&lt;/li&gt;
-&lt;li&gt;支持在当前窗口打开项目、新窗口打开项目&lt;/li&gt;
-&lt;li&gt;侧边栏展示项目列表，并展示分支名称&lt;/li&gt;
-&lt;li&gt;支持复制项目，自增命名&lt;/li&gt;
+&lt;li&gt;新路由 3：固件老，wifi 弱，只有 wifi5 ，目前压箱底吃灰；&lt;/li&gt;
+&lt;li&gt;nanopi r1s h5：不是很稳定，时不时会断流，目前作为二级路由给家里像 nesthub 、NS 这些不能自己设置代理也不能装代理客户端的设备开代理；&lt;/li&gt;
+&lt;li&gt;红米 ax3000：一样是设备多就断流的问题，而且不能很方便的设置静态路由，目前用作 ap 补充主路由的 wifi 覆盖；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;项目地址： &lt;a href="https://github.com/Dolov/vscode-project-manager" rel="nofollow"&gt;https://github.com/Dolov/vscode-project-manager&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 07:09:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975201#reply1</guid></item><item><title>[问与答] 兄弟们，远程工作香不香，还有薪资为外币怎么换 rmb 呀，是不是有什么限制</title><link>https://www.v2ex.com/t/975200#reply3</link><description>最近在看远程工作，突然想到外币怎么转 rmb 呀，不会要去地下钱庄换吧</description><pubDate>Tue, 19 Sep 2023 07:08:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975200#reply3</guid></item><item><title>[Apple] Apple TV Quantumult X 求一个设置为旁路由的教程，找了一圈没有找到文章</title><link>https://www.v2ex.com/t/975198#reply8</link><description></description><pubDate>Tue, 19 Sep 2023 07:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975198#reply8</guid></item><item><title>[程序员] 腾讯混元大模型有人注册成功吗?</title><link>https://www.v2ex.com/t/975196#reply0</link><description>&lt;p&gt;腾讯混元大模型有人申请成功了吗?
-怎么这么慢😄
-想体验下看看怎么样&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:54:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975196#reply0</guid></item><item><title>[问与答] 求 1k 以内人体工学办公椅推荐</title><link>https://www.v2ex.com/t/975195#reply0</link><description>&lt;p&gt;最近坐普通的办公椅坐久了有点儿腰疼，想在家里买一个人体工学办公椅坐。请问大家有推荐的吗？谢谢&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:54:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975195#reply0</guid></item><item><title>[Apple] iOS17 敏感内容警告和我需求的差别很大</title><link>https://www.v2ex.com/t/975193#reply2</link><description>我需求的：在查看网页、查看自带的相册、第三方 app 调用相册图片时，如果是敏感内容就自动模糊，点一下并点击确定才会显示出来。&lt;br /&gt;实际：别人通过隔空投送、短信发过来的信息如果是敏感内容就触发功能（具体是啥功能我不知道）。&lt;br /&gt;&lt;br /&gt;隔空投送除了我自己发给自己，好多年了被别人投送不超过 3 次，短信国内几乎不用于日常沟通。&lt;br /&gt;更让我不爽的是不知道哪个版本开始加入了快捷分享功能，比如你在相册长按一张图（或打开一张图后），点“共享”，第一排都是钉钉的人，我非常害怕我长按了一张敏感图然后误触了这里的钉钉联系人，找了好久才找到这个在哪里关闭。（在这个界面将第二排拉到最右，有“更多”选项，将所有的东西都关闭）</description><pubDate>Tue, 19 Sep 2023 06:47:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975193#reply2</guid></item><item><title>[分享创造] 跟兄弟一起搞了个雅思与 PET 写作批改的服务, 无码但注册送次数, 欢迎大家来使用</title><link>https://www.v2ex.com/t/975192#reply0</link><description>&lt;p&gt;先放个地址 &amp;gt;&amp;gt;&amp;gt; &lt;a href="https://consoles.bring-ai-2u.com" rel="nofollow"&gt;AI Assistant -英语作文帮&lt;/a&gt; &amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
-&lt;h2&gt;一些背景&lt;/h2&gt;
-&lt;p&gt;这东西起初只是一兄弟想用 ai 帮自己教雅思的老婆减少工作压力而搞出来的东西。产品原来叫 AI Assistant - Bring AI To You, 就是单纯想用 ai 来辅助自己的生活与工作。后来由于各种不可抗的原因，我们现在叫 英语作文帮。&lt;/p&gt;
-&lt;p&gt;项目的功能不是太复杂，一开始主要还是聚焦在如何实现考证评分标准及题库等方面的能力上。&lt;/p&gt;
-&lt;p&gt;后续使用了一段时间后觉得效果还不错，于是又开发了用户体系，陆陆续续介绍给了关系比较好的机构及老师来试用并做了不少的改进。&lt;/p&gt;
-&lt;p&gt;现在开放了个人用户注册, 由于这个东西本身一开始是"为爱发电"(没错)，也么有啥资本支持，所以暂时注册用户只送了两次批改服务(毕竟都是自己建的服务真的有成本在那里 🙏)。&lt;/p&gt;
-&lt;h2&gt;主要功能&lt;/h2&gt;
-&lt;h3&gt;作文批改&lt;/h3&gt;
-&lt;p&gt;目前已支持 IELTS 及 PET ，在用户输入或上传写作照片后进入批改流程，在批改结束后会提供对本次写作的得分、评分依据及语法更正建议等内容。&lt;/p&gt;
-&lt;h4&gt;已支持的 IELTS 教材&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="IELTS" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/B8XObjAKooU1ctxF9hrcPv5tnye/?fallback_source=1&amp;amp;height=1280&amp;amp;mount_node_token=EbSOdAQNxogH90xV0p2cf7HRnkh&amp;amp;mount_point=docx_image&amp;amp;policy=equal&amp;amp;width=1280" /&gt;&lt;/p&gt;
-&lt;h4&gt;已支持的 IELTS 教材写作题目&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="IELTSQ" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/OEQfb0waPoD4zJxm5h5cCxqHnGr/?fallback_source=1&amp;amp;height=1280&amp;amp;mount_node_token=ZAJkdtWuWoxANVxjNU0c9ox7n3f&amp;amp;mount_point=docx_image&amp;amp;policy=equal&amp;amp;width=1280" /&gt;&lt;/p&gt;
-&lt;h4&gt;批改结果&lt;/h4&gt;
-&lt;p&gt;批改结果页面提供了针对本次提交的作文的得分、评分依据及语法更正建议等内容，可以就里面的内容与实际情况相映证，提升自身写作水平
-&lt;img alt="result" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/SB5VbsQPMoFUYkxWin7coAKznHe/?preview_type=16" /&gt;&lt;/p&gt;
-&lt;h3&gt;写作范文&lt;/h3&gt;
-&lt;p&gt;系统中也提供了一些写作范文，可以给大家在学习的时候提供一些写作思路
-&lt;img alt="sam" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/VjGxbgzzqo8BgnxBP3JcY8M4nJd/?preview_type=16" /&gt;&lt;/p&gt;
-&lt;p&gt;PC 端可以直接在列表查看详情&lt;/p&gt;
-&lt;p&gt;&lt;img alt="sam-detail" class="embedded_image" rel="noreferrer" src="https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/preview/DudNbpeHnoAjZ6x1yF1cvjW1nEd/?preview_type=16" /&gt;&lt;/p&gt;
-&lt;h3&gt;移动端&lt;/h3&gt;
-&lt;p&gt;这项目有移动端的内容，可以在移动设备上查看批改结果和范文。批改结果的移动端入口可以在后台获得。但这个功能更多是机构老师用来发给学生的。对个人用户来说作用不是很大，大家有兴趣可以自行看看。&lt;/p&gt;
-&lt;p&gt;更详尽的内容请查看这个文档 &lt;a href="https://lajptopugi.feishu.cn/docx/BemzdxNnPojEVXxpsoUcZ0n6nHg" rel="nofollow"&gt;AI Assistant 英语作文帮&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大家反馈使用感受及各种 bug 或自己的想法，感谢🙏&lt;/p&gt;
-&lt;p&gt;再放一次地址 &amp;gt;&amp;gt;&amp;gt; &lt;a href="https://consoles.bring-ai-2u.com" rel="nofollow"&gt;AI Assistant -英语作文帮&lt;/a&gt; &amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;</description><pubDate>Tue, 19 Sep 2023 06:46:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975192#reply0</guid></item></channel></rss>
+&lt;h3&gt;可能因为都是入门机型，用着都不是很尽如人意，想说换换性能好点的。&lt;/h3&gt;</description><pubDate>Wed, 20 Sep 2023 03:33:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975478#reply3</guid></item><item><title>[Apple] iOS 网络权限是不是有 bug</title><link>https://www.v2ex.com/t/975477#reply0</link><description>我给 app 关掉了，但他有时还是能请求下来数据，能看视频，能播广告....&lt;br /&gt;&lt;br /&gt;有些 app 真的不需要他联网，比如看片的本地播放器....&lt;br /&gt;&lt;br /&gt;真特么害怕他把我本地资源名字上传服务器，太社死了&lt;br /&gt;&lt;br /&gt;还有，app 打开另一个 app ，第一次系统会弹框确认，允许后就不弹了，怎么设置下让他继续弹呢？真的被那个摇一摇，还有假跳过恶心坏了</description><pubDate>Wed, 20 Sep 2023 03:29:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975477#reply0</guid></item><item><title>[宽带症候群] 求教各位大佬一个关于运营商定制监控摄像头的问题</title><link>https://www.v2ex.com/t/975476#reply0</link><description>&lt;p&gt;前段时间，靠活动撸了一个四川联通的监控摄像头，型号是星网锐捷 HC150 ，本想是添加到群晖监控插件里面用，结果到手发现，这货不仅无法添加到群晖，连本地的 SD 卡回放都不支持，必须订够回看套餐，基本上算是翻车了。网上基本没有这款终端的任何信息，故求教 V2 大神，主要需求就是：将该摄像头添加到群晖 SurveillanceStation 。
+通过 rtsp 串流或者其他可行的方式都行，目前难点，后台管理端口是多少不清楚（ 80 、8080 、8000 都试过了），串流地址，端口等都不清楚，这终端太小众了。&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:28:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975476#reply0</guid></item><item><title>[Rust] rust 实现的 tiny renderer 的代码,分享下仓库</title><link>https://www.v2ex.com/t/975475#reply0</link><description>&lt;p&gt;&lt;a href="https://github.com/toooddchen/trrs" rel="nofollow"&gt;https://github.com/toooddchen/trrs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;组织成了一个 axum 服务, 不同 url 对应不同课节的代码, 从前往后更连贯一点. &lt;/p&gt;
+&lt;p&gt;练习 rust 的代码,写的略糙,不过一些 case 处理和数值结果可能对一些也在练习的同学有帮助.另外 rust 现在做不了&lt;code&gt;const generics&lt;/code&gt;的常数运算,导致矩阵这块余子式的类型没法用泛型定义,写的比较拧.unstable 的&lt;code&gt;generic_const_exprs&lt;/code&gt;也不成熟,试了几次没搞定,有熟悉的朋友请指点下. &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/toooddchen/trrs/main/public/shaders-specularmapping.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:26:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975475#reply0</guid></item><item><title>[酷工作] 小红书客户端招聘 
+地点：广州 上海 北京 
+招聘岗位： Android IOS</title><link>https://www.v2ex.com/t/975474#reply0</link><description>工作职责&lt;br /&gt;1. 负责小红书 Android App 短视频生产模块设计和开发；&lt;br /&gt;2. 负责小红书 Android App 短视频生产相关功能迭代和优化。&lt;br /&gt;任职资格&lt;br /&gt;1. 大学本科或以上学历，计算机相关专业，2 年以上 Android 相关经验；&lt;br /&gt;2. 熟练掌握 Android App 开发，熟悉 JNI 编程，编程能力优秀，良好的面向对象化编程思想；&lt;br /&gt;3. 至少有 1 个大型项目的实践经验，并能设计出高效、合理、易读、易于扩展的程序结构；&lt;br /&gt;4. 具有较强的分析问题和解决问题的能力，能承受工作压力；&lt;br /&gt;5. 有视频处理、短视频等多媒体开发经验者优先。</description><pubDate>Wed, 20 Sep 2023 03:26:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975474#reply0</guid></item><item><title>[互联网] 内网穿透怎么选？</title><link>https://www.v2ex.com/t/975473#reply2</link><description>家里有公网 IP ，有时候需要新开端口但是人在大学，现在家里有个黑裙 nas ，还有一条 win10 电脑可以正常用。&lt;br /&gt;&lt;br /&gt;有必要买个花生壳盒子来用么</description><pubDate>Wed, 20 Sep 2023 03:23:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975473#reply2</guid></item><item><title>[ WATCH] Watch 睡眠监测到底准不准？</title><link>https://www.v2ex.com/t/975472#reply3</link><description>&lt;p&gt;说说我的疑惑：&lt;br /&gt;
+1.已经出现不少于 2 次了，在睡前我根本没有佩戴手表的时间段，被记录为深度睡眠…&lt;br /&gt;
+2.我妈妈经常说睡眠很差、很轻，第二天很累，但是记录的深度睡眠经常有 30 分钟以上，这个算是比较不错的睡眠质量了吧？&lt;br /&gt;
+3.我自己睡眠很深沉、很难被吵醒，但是经常记录的深度睡眠只有几分钟到十几分钟，很少有超过二十分钟的，虽然我知道睡得深沉和深度睡眠不是同一概念，但是至少我第二天是不累的。&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:23:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975472#reply3</guid></item><item><title>[程序员] tomcat 10.1 支持虚拟线程了么?</title><link>https://www.v2ex.com/t/975471#reply1</link><description>&lt;p&gt;昨天看有人发帖子,JDK21 正式支持虚拟线程,于是看了一下,大概是可以提高吞吐量,正好我们的程序是跑在 tomcat,一个请求来了,会发送多个请求到其他的服务器,这不正好可以提高吞吐量么&lt;/p&gt;
+&lt;p&gt;那么问题来了&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;tomcat 如果不支持虚拟线程的话,单单是程序支持,那同时能处理的请求数量是不是也不会变?记得 tomcat 里边有个设置,是关于同时能处理的最大请求数量&lt;/li&gt;
+&lt;li&gt;如果 tomcat 支持虚拟线程会更好的话,那么 10.1 是现在最新的正式版本,这个支持虚拟线程么? 我没查到 &lt;/li&gt;
+&lt;li&gt;tomcat 这里的支持的&lt;code&gt;Supported Java Versions&lt;/code&gt;是&lt;code&gt;11 and later&lt;/code&gt;,跟我想象中的不一样,能无限向后兼容?如果出到了 jdk30,它也能跑?没有限制条件么....&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/q7Bu5AC.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:21:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975471#reply1</guid></item><item><title>[云计算] 自建 GPU 机房，求推荐租用业务</title><link>https://www.v2ex.com/t/975470#reply0</link><description>&lt;p&gt;自建了一个 GPU 机房，配置了 4 台服务器，配置如下：
+华硕 ESC8000A-E11 平台，双路 7T83 ，内存 768G ，8 路 RTX4090 ，系统盘 960G ，数据盘 7.68T
+电信公网线路，双线，机房共享，速率 1000Mbps/300Mbps ，机房共享
+求推荐提供 GPU 租用业务的平台或者相关业务。&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:21:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975470#reply0</guid></item><item><title>[Apple] 美区 Apple One 超大杯车票 5 缺 1</title><link>https://www.v2ex.com/t/975469#reply0</link><description>&lt;p&gt;美区超大杯 Apple One Premier 包含 Music ，Arcade ，TV+，iCloud ，Fitness+，News+，2T iCloud 存储空间（平分每人 333G 共享空间)。
+可以在 9 月 20 号加入 plan ，原车友联系不上了.
+联系 WeChat(base64):Q2VyYmVydXNz ，一个季度付费 145 ，跳车不退. 等确认稳定了之后,下个季度开始按年收费.
+目前车队里 icloud 用的不多, 一个车位可以多分些 icloud （&amp;gt;333gb 一人). 另含 infuse 订阅按年续费.&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:19:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975469#reply0</guid></item><item><title>[问与答] 你是如何决定离开当前的城市回到老家</title><link>https://www.v2ex.com/t/975468#reply7</link><description>&lt;p&gt;最近， 因为工作的一些压力， 有点想离开当前的城市，回到老家。 &lt;/p&gt;
+&lt;p&gt;如今， 在这里的原因，一大部分是因为工作的原因。 &lt;/p&gt;
+&lt;p&gt;对于那些已经回到老家的， 想问问&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;你是在什么契机决定离开当前城市&lt;/li&gt;
+&lt;li&gt;你在老家是如何开始新的生活&lt;/li&gt;
+&lt;li&gt;你在老家的感受有更加的舒适吗&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Wed, 20 Sep 2023 03:19:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975468#reply7</guid></item><item><title>[iCloud] 发现在一个 iCloud 的 bug</title><link>https://www.v2ex.com/t/975467#reply4</link><description>&lt;p&gt;大概 1 年前，弄了一个土区小号，开的 iCloud,然后国区的大号给拉进家庭共享里。
+土区涨价之后就没有续费，现在国区我和我老婆的都继续保持 2T 容量，土区的小号变成 5G 了。&lt;/p&gt;</description><pubDate>Wed, 20 Sep 2023 03:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975467#reply4</guid></item><item><title>[酷工作] OneKey+前端工程师（React Native）+后端工程师（Node.js）+安全工程师+Onsite 深圳或远程岗位+ Global Pay+工程师文化</title><link>https://www.v2ex.com/t/975466#reply2</link><description>🚣 我们是谁&lt;br /&gt;&lt;br /&gt;&lt;a href="https://onekeyhq.atlassian.net/wiki/spaces/OC/pages/127238269/The+People" rel="nofollow noopener" target="_blank"&gt;https://onekeyhq.atlassian.net/wiki/spaces/OC/pages/127238269/The+People&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;✨前端工程师&lt;br /&gt;工作职责：&lt;br /&gt;1.开发 OneKey 多个跨平台软件应用。&lt;br /&gt;&lt;br /&gt;职位要求：&lt;br /&gt;1.熟练掌握 HTML5 、CSS3 、JavaScript ，包括但不限于 ES6 ，ESNext ，TypeScript 等前端内容。基础扎实，善于思考和学习，对技术有想法有热情。&lt;br /&gt;2.熟悉 React ，熟悉 React 特性及原理，熟悉 React 周边的工具库如 Redux ，熟悉基于 React 常见的前端范式。&lt;br /&gt;3.有跨浏览器、跨终端经验，有 react-native 跨原生平台实际项目经验和 Electron 跨桌面端平台经验等，熟悉浏览器插件开发和 Expo 工具套件更佳。&lt;br /&gt;4.希望有完整设计大型项目经验，有良好的系统设计能力和较强的思考和独立解决问题能力以及良好的编码和单元测试习惯，有丰富的性能优化经验优先。&lt;br /&gt;5.了解区块链钱包或 DApp 的业务流程（ Dapp 的业务流程仅限和 MetaMask 等钱包交互部分），了解如 ethers.js / web3.js 或 Web3-React 相关库的使用。&lt;br /&gt;&lt;br /&gt;加分项：&lt;br /&gt;1.熟悉 React-native 蓝牙通信部分&lt;br /&gt;2.熟悉区块链行业，有使用 RN 做区块链钱包或制作完整 DApp 经验背景。&lt;br /&gt;3.我们使用 React + Redux + React native (expo) + Electron 做一个跨平台的开源软件钱包，通过 90% 以上的代码复用通过一套代码同时满足 APP （ RN ）桌面端（ Electron ）和多平台浏览器插件，具体代码地址开源在 GitHubGitHub - OneKeyHQ/app-monorepo: Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.&lt;br /&gt;&lt;br /&gt;✨后端工程师&lt;br /&gt;工作职责：&lt;br /&gt;1.后端 API 的相关研发，主要根据需求面向钱包服务端、OneKey Card 服务端和 OneKey 后台服务端进行一些 API 研发&lt;br /&gt;2.对整体架构进行持续优化基本要求&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1.有完整大型且上线的基于 Node.js 开发和运维经验 3 年以上&lt;br /&gt;2.熟悉 Javascript 语言及周边常用工具链&lt;br /&gt;3.熟悉 Node.js 框架如 koa 、express 、egg.js 、midwayjs 等常见服务端框架整体架构及实现原理，能够基于 stackoverflow ，github issue 定位排查处理常见问题&lt;br /&gt;4.熟悉常见的 Node.js 运行环境及配套周边工具链，ORM 及常见类库等&lt;br /&gt;5.熟悉常见的服务器操作及后端代码部署模式，熟悉常见的如对象存储等云服务内容（ AWS 最佳）&lt;br /&gt;6.熟悉常见的后端套件，redis 、ELK 等。至少熟悉一个常见数据库操作使用及问题排查加分项&lt;br /&gt;7.熟悉 web3 相关第三方服务如 alchemy 及链上相关操作&lt;br /&gt;8.熟悉 python 或 lua openresty 等其他服务端语言或框架&lt;br /&gt;9.熟悉闪电网络、BTC 相关核心原理及拥有相关的编码经验&lt;br /&gt;&lt;br /&gt;✨安全工程师&lt;br /&gt;工作职责：&lt;br /&gt;1.审查和改进我们的区块链应用的安全性，包括智能合约和协议级别的安全性。&lt;br /&gt;2.开发和实施全面的 Web3 安全框架和策略。&lt;br /&gt;3.审查代码和架构，识别和纠正潜在的安全漏洞和错误。&lt;br /&gt;4.设计并实施安全审计和安全测试流程，包括渗透测试和漏洞扫描。&lt;br /&gt;5.对安全事件进行调查，管理安全事件响应流程，并提供恢复策略。&lt;br /&gt;6.保持对行业安全标准和最佳实践的最新了解，以应对新的威胁和漏洞。&lt;br /&gt;7.创建并维护公司的数据保护策略和隐私政策。&lt;br /&gt;8.与团队合作，提供关于安全问题的培训和意识提高活动。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1.至少 3 年以上的 Web3 或区块链安全相关经验。&lt;br /&gt;2.深入理解区块链技术，包括智能合约、分布式网络、去中心化应用等。&lt;br /&gt;3.熟悉 Ethereum 、Polkadot 、Cosmos 等主流的公链和相关的智能合约编程语言，如 Solidity 、Rust 等。&lt;br /&gt;4.对网络安全和加密技术有深入理解。&lt;br /&gt;5.熟练使用至少一种脚本语言，如 Python 、JavaScript 等。&lt;br /&gt;6.具有强烈的解决问题的能力，以及良好的组织和沟通技巧。&lt;br /&gt;7.熟悉符合 ISO 27001 、NIST 、CIS 或其他相关安全标准的最佳实践。&lt;br /&gt;8.优选具有认证信息系统安全专业人员（ CISSP ）、认证信息安全管理师（ CISM ）、认证信息安全审核员（ CISA ）等相关证书。&lt;br /&gt;&lt;br /&gt;加分项：&lt;br /&gt;1.对 DeFi 、NFT 和其他区块链技术和应用有深入理解。&lt;br /&gt;2.有成功发现并修复过重大安全漏洞的经验，包括在 Bug Bounty 程序中。&lt;br /&gt;3.熟悉至少一种形式化验证工具，例如 TLA+ 或 Coq 。&lt;br /&gt;4.拥有开发或审计 Rust 和 Solidity 代码的经验。&lt;br /&gt;5.具备社区影响力，如在网络安全或区块链领域的发表过研究、拥有知名的 6.技术博客或活跃在开源社区。&lt;br /&gt;7.对零知识证明、多方计算（ MPC ）、同态加密等加密技术有深入了解或实践经验。&lt;br /&gt;8.在加密货币项目或创业公司中的工作经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;🎽 更多开放职位信息 （官方 wiki 实时更新）&lt;br /&gt;&lt;br /&gt;&lt;a href="https://onekeyhq.atlassian.net/wiki/spaces/OC/overview?homepageId=127140150" rel="nofollow noopener" target="_blank"&gt;https://onekeyhq.atlassian.net/wiki/spaces/OC/overview?homepageId=127140150&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;💌 如何申请&lt;br /&gt;&lt;br /&gt;点击右侧链接 &lt;a href="https://gr4yl99ujhl.typeform.com/to/XhZ4wVcn?utm_source=v2ex" rel="nofollow noopener" target="_blank"&gt;https://gr4yl99ujhl.typeform.com/to/XhZ4wVcn?utm_source=v2ex&lt;/a&gt;&lt;br /&gt;也可直接投递简历到邮箱： hr@onekey.so&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;💬 面试流程&lt;br /&gt;&lt;br /&gt;通常情况下，简历通过后，会有笔试、视频面试，对于通过测试的候选人，我们会支付 1000-3000 元，请候选人处理一个简单的问题（通常在 1 周内），看看合作和能力是否符合团队成员的期望。&lt;br /&gt;&lt;br /&gt;如果一切顺利，就会发出正式聘用通知。</description><pubDate>Wed, 20 Sep 2023 03:12:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975466#reply2</guid></item><item><title>[酷工作] 国际团队招人啦~总部在美国硅谷，国内 base 深圳~国内是以研发团队为主</title><link>https://www.v2ex.com/t/975465#reply0</link><description>Liquido 专注拉丁美洲市场金融科技服务，它的诞生源于我们对改变拉美支付生态的热情，期望在当地创造一个流畅、聚合且经济的支付方式。&lt;br /&gt;Liquido 上线以来，我们与当地主流银行合作并成功取得金融牌照，为国内头部互联网公司出海业务及国际知名跨境电商业务提供可靠服务。目前产品链条已完整涵盖跨境收付款、在线开户发卡、交易风控等全流程。&lt;br /&gt;&lt;a href="http://liquido.com/" rel="nofollow noopener" target="_blank"&gt;http://liquido.com/&lt;/a&gt;&lt;br /&gt;目前有两个 HC ，Manager 1 个，Senior Engineer2-3 个&lt;br /&gt;Manager 要求必须能适应纯英文工作环境，因为需要和美国以及巴西墨西哥对接~&lt;br /&gt;有兴趣可以联系我~支持任何时间&lt;br /&gt;邮箱： zejiang.shi@liquido.cn&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;JD：&lt;br /&gt;写在前面：&lt;br /&gt;-开发语言不是最主要的，我们看重的是整体水平和代码能力，我们是以 JAVA 为主要开发语言，至少接触/使用过；&lt;br /&gt;-国际团队，需要英语水平较好，有留学经验加分，特别是美本美硕；&lt;br /&gt;-希望是大厂经验，有管理经验；&lt;br /&gt;-年龄在 28-35 间最佳&lt;br /&gt;-薪资 Open&lt;br /&gt;项目链接： &lt;a href="http://liquido.com/" rel="nofollow noopener" target="_blank"&gt;http://liquido.com/&lt;/a&gt;&lt;br /&gt;岗位职责：&lt;br /&gt;1 、参与需求评审；&lt;br /&gt;2 、参与模块级软件设计；&lt;br /&gt;3 、负责版本分配模块代码开发及单元测试；&lt;br /&gt;4 、负责所属开发模块集成测试及联调工作；&lt;br /&gt;5 、负责所属模块安装部署工作；&lt;br /&gt;6 、附带部分管理工作。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1. 211 及以上全日制计算机或相关专业，5 年以上 JAVA 开发经验，海外留学/工作经验优先；&lt;br /&gt;2. 熟练使用 Spring Boot 、Spring Cloud 等开发框架；&lt;br /&gt;3. 熟练使用常用的应用服务中间件（ Redis 、Kafka 、Elasticsearch 等）产品；&lt;br /&gt;4. 熟练使用 Mysql 、Oracle 等主流关系性数据库，熟练掌握 SQL 语言，了解 Mongodb ，HBase 等大数据产品；&lt;br /&gt;5. 熟悉 Linux 系统以及相关命令的使用；&lt;br /&gt;6. 能对常见的微服务框架进行架构；&lt;br /&gt;7. 熟悉 K8S 和 Docker 部署；&lt;br /&gt;8. 有电子钱包，移动支付开发经验优先；有 AWS 开发经验优先。</description><pubDate>Wed, 20 Sep 2023 03:12:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975465#reply0</guid></item></channel></rss>
