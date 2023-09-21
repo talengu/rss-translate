@@ -1,5 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 21 Sep 2023 16:35:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 授权店体验下 15Pro 展示机这手感真的爽，屏幕边框也窄了好多。1430 买个美版 AC 裸奔真的爽。</title><link>https://www.v2ex.com/t/976020#reply0</link><description></description><pubDate>Thu, 21 Sep 2023 16:06:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976020#reply0</guid></item><item><title>[Surge] Surge for iOS 剩二个位置（功能订阅至 2024.9.21）</title><link>https://www.v2ex.com/t/976019#reply0</link><description>Surge for iOS 最新版，2023.9.21 购买，支持更新新功能至 2024.9.21 ，剩余 2 个车位（每设备人民币 120 ），一年后若有升级新功能需求，3 人集体协商一致后升级&lt;br /&gt;&lt;br /&gt;使用闲鱼付款模式，有实名认证加可评价（ surge 为闲鱼敏感词，购买沟通请在 telegram 或站内消息沟通，闲鱼仅做为信用保证，闲鱼商品标题和图片为假的 charles proxy license ，以避免审核）&lt;br /&gt;&lt;br /&gt;闲鱼： &lt;a href="https://m.tb.cn/h.5UoRSag?tk=zIPLdAsAt9v" rel="nofollow noopener" target="_blank"&gt;https://m.tb.cn/h.5UoRSag?tk=zIPLdAsAt9v&lt;/a&gt;&lt;br /&gt;Telegram: &lt;a href="https://t.me/karelrooted" rel="nofollow noopener" target="_blank"&gt;https://t.me/karelrooted&lt;/a&gt;</description><pubDate>Thu, 21 Sep 2023 15:57:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976019#reply0</guid></item><item><title>[酷工作] [ Python 远程实习招募] 帮靠谱朋友的项目招人</title><link>https://www.v2ex.com/t/976018#reply1</link><description>&lt;h1&gt;Python 远程实习生 招募！&lt;/h1&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 21 Sep 2023 23:34:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 国外有不用考试 只要提交资料加面试就能上的研究生或者 MBA 吗</title><link>https://www.v2ex.com/t/976033#reply0</link><description>&lt;p&gt;如题，上课还是周末上的全日制研究生…学校国内认可的 也不用考雅思 啥也不用考的…不要野鸡大学&lt;/p&gt;
+&lt;p&gt;目标: 好一点的城市 如香港 新加坡呢&lt;/p&gt;
+&lt;p&gt;香港都会大学怎么样？&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 22:52:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976033#reply0</guid></item><item><title>[问与答] 打印机有什么便宜好用的推荐吗</title><link>https://www.v2ex.com/t/976032#reply1</link><description>&lt;p&gt;如题… 只能发帖 不能回复任何帖子了! 我去  回复每个帖子都要注册满 480 天&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 21:50:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976032#reply1</guid></item><item><title>[Apple] airpods pro 二代无 ac ，耳机盒摔松了有几率换新吗</title><link>https://www.v2ex.com/t/976031#reply1</link><description>&lt;div&gt;
+ 坐标香港耳机在官店买的
+ &lt;br /&gt;9.6 激活的耳机 
+ &lt;br /&gt;摔得耳机盒有点松动，能不能瞒天过海让他给我修理下 or 直接换新？
+ &lt;br /&gt;如果不能换是不是可以补个 ac 这边 249 港币刚觉还挺合适的
+&lt;/div&gt;</description><pubDate>Thu, 21 Sep 2023 19:33:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976031#reply1</guid></item><item><title>[问与答] 请问以下大家是否有合理的解决方案来判断题目与答案是否合理？</title><link>https://www.v2ex.com/t/976029#reply0</link><description>我最近收到了一个大型题库包，数量级是千万，题库里面存在部分脏数据，有以下几种比较典型：&lt;br /&gt;首先我的字段是 题目  选项 答案&lt;br /&gt;1 、只有题目，没有选项+答案&lt;br /&gt;2 、有题目+选项，没有答案&lt;br /&gt;3 、有题目+答案，没有选项，但是答案是 ABC 之类的&lt;br /&gt;下面难度就高了&lt;br /&gt;4 、题目选项答案，均有，但是答案是不合理的，类似于 [无，暂无，略，言之成理即可，或者一些标点符号] ，反正就是无意义的答案&lt;br /&gt;5 、第 4 点的衍生，存在答案，但是是错误答案，比如应该正确选 A ，库里面反而选的是 C(这种情况极少，但是还是存在)&lt;br /&gt;6 、。。。&lt;br /&gt; 目前最基本的要求就是把 1 、2 、3 给筛选出来，，但是想不到合理的方案~求救，QAQ</description><pubDate>Thu, 21 Sep 2023 18:20:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976029#reply0</guid></item><item><title>[Java] 给项目代码埋坑有哪些办法？</title><link>https://www.v2ex.com/t/976027#reply7</link><description>&lt;p&gt;如何在项目中埋当时不会发作，离开了一两个月之后会逐渐发作并且还很难排查的 bug 呢？&lt;/p&gt;
+&lt;p&gt;初步想到几个&lt;/p&gt;
+&lt;h2&gt;后端&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;把全局变量变成私有；&lt;/li&gt;
+&lt;li&gt;在注释中撒谎误导；&lt;/li&gt;
+&lt;li&gt;更改日志级别然后将其上传到生产环境；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;数据库&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;把日期类型改成字符串，然后照常 ORDER BY ；&lt;/li&gt;
+&lt;li&gt;多用模糊查询让索引失效；&lt;/li&gt;
+&lt;li&gt;更改某些定时任务插入数据的频率，快速塞满数据库；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎各位 V2EXer 补充，仅仅用作技术探讨，于此同时也可以避免 bug&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 17:37:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976027#reply7</guid></item><item><title>[推广] VeilHub.com 你的 KYC 助手</title><link>https://www.v2ex.com/t/976026#reply0</link><description>&lt;p&gt;大家好，我是 VeilHub,veil 是面纱的意思，Veilhub 希望能够在网络上帮助大家更好的隐藏自己，就像带上了一层面纱一样。&lt;/p&gt;
+&lt;p&gt;言归正传，我们可以提供代 kyc 服务，包括但不限于大家常用的 dupay 、onekey 、redotpay 这些虚拟卡，当然，okx 、binance 、gateio 这些交易所也不在话下。&lt;/p&gt;
+&lt;p&gt;我们会交付整个完整的账号，直到账号的邮箱、手机号都是你自己的，我们没有办法找回账号信息。另外，kyc 的真人是肯尼亚、多米尼加、孟加拉等相对落后地区的群众，他们通过这种方式为自己赚点钱补贴家用，他们没有动力，也没有能力做任何其他的事情。&lt;/p&gt;
+&lt;p&gt;我们的网站是： &lt;a href="https://veilhub.com" rel="nofollow"&gt;https://veilhub.com&lt;/a&gt; 上面有我们的服务介绍，包括价格信息。&lt;/p&gt;
+&lt;p&gt;你也可以通过推特： &lt;a href="https://x.com/veilhub" rel="nofollow"&gt;https://x.com/veilhub&lt;/a&gt; 和电报 &lt;a href="https://t.me/veilhub" rel="nofollow"&gt;https://t.me/veilhub&lt;/a&gt; 联系到我&lt;/p&gt;
+&lt;p&gt;针对 V 友，在网站的定价基础之上，第二个半价，如果有批量的需求，我们可以提供特别的代理价格。&lt;/p&gt;
+&lt;p&gt;希望能帮助到大家。&lt;/p&gt;
+&lt;p&gt;福利：如果本帖回帖过 50 ，则取#50 的用户名 MD5,结果的前两位数字为获奖楼层，送一次 KYC 服务。&lt;/p&gt;
+&lt;p&gt;如果回帖过 100 ，则取#100 的用户名 MD5,结果的前两位数字为获奖楼层，还是送一次 KYC 服务。&lt;/p&gt;
+&lt;p&gt;本帖不设截止时间，所以只要回帖数量达到，就兑现。&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 17:30:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976026#reply0</guid></item><item><title>[Go 编程语言] golang 结合 cobra 使用 chatgpt qdrant 实现 ai 知识库 cli</title><link>https://www.v2ex.com/t/976023#reply0</link><description>&lt;h1&gt;golang 结合 cobra 使用 chatgpt  qdrant 实现 ai 知识库 cli&lt;/h1&gt;
+&lt;h2&gt;流程&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img-blog.csdnimg.cn/img_convert/ef425236d64bca26fb73bf1d01614b50.png" /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;将数据集 通过 openai embedding 得到向量+组装 payload,存入 qdrant&lt;/li&gt;
+&lt;li&gt;用户进行问题搜索,通过 openai embedding 得到向量,从 qdrant 中搜索相似度大于 0.8 的数据&lt;/li&gt;
+&lt;li&gt;从 qdrant 中取出数据得到参考答案&lt;/li&gt;
+&lt;li&gt;将问题标题+参考答案,组装成 promot 向 gpt 进行提问,得到偏向于 已有知识库设定的扩展知识回答&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;kabi 知识库的导入和搜索&lt;/h2&gt;
+&lt;p&gt;仓库地址:&lt;a href="https://www.v2ex.com/%22https:/github.com/webws/embedding-knowledge-base%22" rel="nofollow"&gt;https://github.com/webws/embedding-knowledge-base&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;kabi 是使用 golang 基于 openai chatgpt embedding + qdrant 实现知识库的导入和问答&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;❯ kabi -h
+a local knowledge base, based on chatgpt and qdrant
+
+usage:
+  kbai [flags]
+  kbai [command]
+
+available commands:
+  completion  generate the autocompletion script for the specified shell
+  help        help about any command
+  import      import data to vector database
+  search      ask the knowledge base example: kbai ask --msg 'first, the chicken or the egg'
+
+flags:
+      --apikey string       openai apikey:default from env apikey
+      --collection string   qdrant collection name default: kubernetes (default "kubernetes")
+  -h, --help                help for kbai
+      --proxy string        http client proxy default:socks5://127.0.0.1:1080  (default "socks5://127.0.0.1:1080")
+      --qdrant string       qdrant address default: 127.0.0.1:6334 (default "127.0.0.1:6334")
+      --vectorsize uint     qdrant vector size default: 1536 (default 1536)
+
+use "kbai [command] --help" for more information about a command.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;启动向量数据库&lt;/h3&gt;
+&lt;p&gt;qdrant 是一个开源的向量搜索引擎,支持多种向量距离计算方式 &lt;/p&gt;
+&lt;p&gt;docker 运行 qdrant&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker run --rm -p 6334:6334 qdrant/qdrant
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;kbai 库导入数据到知识库&lt;/h3&gt;
+&lt;p&gt;clone 源码运行(后续提供二进制文件)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/webws/embedding-knowledge-base.git
+
+cd ./embedding-knowledge-base
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里使用的测试数据是 k8s 相关的知识库,真实数据需自己准备&lt;/p&gt;
+&lt;p&gt;1.设置 openai apikey&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;export apikey=xxx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;2.导入知识库(源码运行)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;go run ./ import --datafile ./example/data.json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;data.json 数据格式如下,为 真实数据需自己准备&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[
+    {
+        "questions": "这是问题",
+        "answers": "这是答案"
+    },
+]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;说明:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-text"&gt;默认的 代理 是 "socks5://127.0.0.1:1080" 自定义 可使用 --proxy 指定
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;kbai 搜索数据&lt;/h3&gt;
+&lt;p&gt;搜索问题(源码执行)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; go run ./ search --msg "网关是什么"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;回答&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-text"&gt;the answer to the knowledge base:
+在 kubernetes 中，网关通常指的是 ingress （入 口）资源对象。ingress 是一种 kubernetes api 对象，用于配置和管理集群中的 http 和 https 流量入口。它充当了从集群外部访问集群内部服务的入口点
+
+results of chatgpt answers  with reference answers:
+，同时提供负载均衡、ssl/tls 终止和基于域名的路由等功能。ingress 资源对象定义了一组规则，这些规则指定了通过特定 http 路径或主机名将请求路由到后端服务的方式。可以使用不同的 ingress 控制器实现这些规则，如 nginx 、traefik 等。这样就可以在集群中创建多个 ingress 资源对象来管理不同的流量入口。
+
+only chatgpt answers:
+网关是一种网络设备，用于连接两个或多个不同类型的网络，以便实现数据以不同协议进行传递和转换。网关起到了连接不同网络之间的桥梁作用，将两个或多个网络互相连接起来，并负责数据的路由和转发。网关可以是硬件设备，如路由器，也可以是软件程序，如互联网网关。网关通常用于连接本地网络与互联网，使得局域网中的计算机能够访问互联网上的资源。除了连接不同网络的功能，网关还可以实现安全性、负载均衡、数据过滤等功能。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;第一个是知识库的回答(the answer to the knowledge base):&lt;/li&gt;
+&lt;li&gt;第二个 是结合知识库 chatgpt 的回答(results of chatgpt answers  with reference answers)&lt;/li&gt;
+&lt;li&gt;第三个 仅 chatgpt 回答&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;可以看出 直接问 chatgpt,得到的答案可能跟 k8s 无关,结合 k8s 本地知识库,可以让回答偏向 数据集设定的主题&lt;/p&gt;
+&lt;p&gt;如果直接搜索 与知识库无关或违规问题,将搜索不到任务数据&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;go run ./ search --msg "苹果不洗能吃吗"
+rearch term violation or exceeding category
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;kabi golang 实现 ai 知识库导入原理&lt;/h2&gt;
+&lt;h3&gt;导入&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;接入 qdrant 和 openai cleint&lt;/li&gt;
+&lt;li&gt;解释原始知识库数据 为 q(问) a(答)&lt;/li&gt;
+&lt;li&gt;将 问题 经过 openai embedding 得到向量+答案存入 qdrant&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;以下是 &lt;a href="https://www.v2ex.com/%22https:/github.com/webws/embedding-knowledge-base%22" rel="nofollow"&gt;kbai&lt;/a&gt; go 导入逻辑代码&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-golang"&gt;            qdrantclient := qdrant.newqdrantclient(configflags.qdrant, configflags.collection, configflags.vectorsize)
+			defer qdrantclient.close()
+			aiclient, err := ai.newaiclient(configflags.proxy, configflags.apikey)
+			if err != nil {
+				return err
+			}
+			if err = qdrantclient.createcollection(configflags.collection, configflags.vectorsize); err != nil {
+				return err
+			}
+			qas, err := converttoqas(datafile)
+			if err != nil {
+				return err
+			}
+			points := []*pb.pointstruct{}
+			logger.infow("import", "data", qas)
+			qpslenth := len(qas)
+			for i, qa := range qas {
+				embedding, err := aiclient.simplegetvec(qa.questions)
+				if err != nil {
+					logger.errorw("simplegetvec", "err", err, "question", qa.questions, "index", i, "total", qpslenth)
+					return err
+				}
+				point := buildpoint(qa.questions, qa.answers, embedding)
+				points = append(points, point)
+			}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;搜索&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;问题搜索,通过 openai embedding 得到向量&lt;/li&gt;
+&lt;li&gt;根据向量 从 qdrant 中搜索相似度大于 0.8 的数据&lt;/li&gt;
+&lt;li&gt;根据 qdrant 里的知识库答案(参考答案) +  从 chatgpt 提问 得到扩展知识&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Thu, 21 Sep 2023 16:59:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976023#reply0</guid></item><item><title>[问与答] 请教打羽毛球的朋友</title><link>https://www.v2ex.com/t/976022#reply2</link><description>&lt;p&gt;&lt;img alt="123" class="embedded_image" rel="noreferrer" src="https://i2.100024.xyz/2023/09/22/tuvdv.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;打了七八年的野路子了，高手拍面挥正的时候手腕感觉都有点外展的意思，怎么做到的呢，为啥我尝试会感觉疼&lt;/p&gt;
+&lt;p&gt;有没有握拍发力一直不对的朋友改正过来了的，历程是怎样的呢，看谁的教程改的呢&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 16:58:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976022#reply2</guid></item><item><title>[生活] 年轻人的北京医保如何利益最大化？</title><link>https://www.v2ex.com/t/976021#reply0</link><description>北京医保个人账户，一年除了洗牙也基本不会花医保的钱。&lt;br /&gt;&lt;br /&gt;给爸妈买药？但是药都比京东大药房贵，觉得吃亏。&lt;br /&gt;&lt;br /&gt;搞共济账户？爸妈在河北，看了半天没明白怎么玩。</description><pubDate>Thu, 21 Sep 2023 16:53:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976021#reply0</guid></item><item><title>[Apple] 授权店体验下 15Pro 展示机这手感真的爽，屏幕边框也窄了好多。1430 买个美版 AC 裸奔真的爽。</title><link>https://www.v2ex.com/t/976020#reply0</link><description></description><pubDate>Thu, 21 Sep 2023 16:06:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976020#reply0</guid></item><item><title>[酷工作] [ Python 远程实习招募] 帮靠谱朋友的项目招人</title><link>https://www.v2ex.com/t/976018#reply1</link><description>&lt;h1&gt;Python 远程实习生 招募！&lt;/h1&gt;
 &lt;h2&gt;薪酬: 开发期间无薪，项目盈利后分红&lt;/h2&gt;
 &lt;h2&gt;关于项目：&lt;/h2&gt;
 &lt;ul&gt;
@@ -27,8 +186,8 @@
 &lt;p&gt;但是因为奇奇怪怪的原因，我们的客户端节点有些只有 IPV4 ，有些只有 IPV6 。&lt;/p&gt;
 &lt;p&gt;本来以为 consul 可以同时监听在多个地址，但是实测了下发现不可，bind_addr 只能填一个明确的地址。&lt;/p&gt;
 &lt;p&gt;试了下，如果监听在 V4 地址的 consul 无法连接到监听在 V6 地址的服务端节点，会提示 write udp a.b.c.d:8301- [xxxx:xxx:xxx:aaa::2]:8301: address xxxx:xxx:xxx:aaa::2: non-IPv4 addres 。&lt;/p&gt;
-&lt;p&gt;现在不知道咋搞了，搜集不到啥资料，难不成得上 NAT64? 烦请大佬们指导一下&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 15:13:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976012#reply0</guid></item><item><title>[投资] ［ 20230921］继续跑输市场，巨亏 1 万元</title><link>https://www.v2ex.com/t/976011#reply2</link><description>成交量继续下滑&lt;br /&gt;&lt;br /&gt;今天转入 2 万元进入股票账户&lt;br /&gt;誓与 A 股共存亡，与祖国共进退</description><pubDate>Thu, 21 Sep 2023 15:10:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976011#reply2</guid></item><item><title>[iCloud] iCloud for Windows 照片同步居然是单线程的</title><link>https://www.v2ex.com/t/976009#reply3</link><description>&lt;p&gt;众所周知，iCloud for Windows 及其难用，我的 iCloud 书签无法在 edge 与 ios safari 间同步，完全不起作用，iCloud 文件同步只要稍微同步的东西变多/windows 上修改的文件一多后同步就会一直卡住，唯一能用的就是 iCloud Photo ，本来一直用着都没问题，但由于每次打开照片都要等待从 iCloud 下载，于是将 iCloud Photo 文件夹设置 Always keep on this device.&lt;/p&gt;
-&lt;p&gt;然而十来个 G 的相册文件同步了一个多小时才同步了不到一个 G ，检查了才发现这玩意儿居然在单线程同步，占用大量 CPU 资源不说，每张照片下载完成后都要等相当久的时间才会开始下载下一张照片，简直离谱，真不知道负责 iCloud for Windows 这帮贵物代码写的都是些什么玩意&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 14:42:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976009#reply3</guid></item><item><title>[问与答] 主流浏览器, 具体在什么情况下, 访问 http 网站时, 会弹出安全告警?</title><link>https://www.v2ex.com/t/976008#reply3</link><description>&lt;p&gt;一直没搞懂为什么有时候访问 http 会告警, 而有时候不会. (这里的告警不是指 url 旁边简单的 insecure 标识)  &lt;/p&gt;
+&lt;p&gt;现在不知道咋搞了，搜集不到啥资料，难不成得上 NAT64? 烦请大佬们指导一下&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 15:13:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976012#reply0</guid></item><item><title>[投资] ［ 20230921］继续跑输市场，巨亏 1 万元</title><link>https://www.v2ex.com/t/976011#reply4</link><description>成交量继续下滑&lt;br /&gt;&lt;br /&gt;今天转入 2 万元进入股票账户&lt;br /&gt;誓与 A 股共存亡，与祖国共进退</description><pubDate>Thu, 21 Sep 2023 15:10:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976011#reply4</guid></item><item><title>[iCloud] iCloud for Windows 照片同步居然是单线程的</title><link>https://www.v2ex.com/t/976009#reply9</link><description>&lt;p&gt;众所周知，iCloud for Windows 及其难用，我的 iCloud 书签无法在 edge 与 ios safari 间同步，完全不起作用，iCloud 文件同步只要稍微同步的东西变多/windows 上修改的文件一多后同步就会一直卡住，唯一能用的就是 iCloud Photo ，本来一直用着都没问题，但由于每次打开照片都要等待从 iCloud 下载，于是将 iCloud Photo 文件夹设置 Always keep on this device.&lt;/p&gt;
+&lt;p&gt;然而十来个 G 的相册文件同步了一个多小时才同步了不到一个 G ，检查了才发现这玩意儿居然在单线程同步，占用大量 CPU 资源不说，每张照片下载完成后都要等相当久的时间才会开始下载下一张照片，简直离谱，真不知道负责 iCloud for Windows 这帮贵物代码写的都是些什么玩意&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 14:42:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976009#reply9</guid></item><item><title>[问与答] 主流浏览器, 具体在什么情况下, 访问 http 网站时, 会弹出安全告警?</title><link>https://www.v2ex.com/t/976008#reply3</link><description>&lt;p&gt;一直没搞懂为什么有时候访问 http 会告警, 而有时候不会. (这里的告警不是指 url 旁边简单的 insecure 标识)  &lt;/p&gt;
 &lt;p&gt;目前发现似乎只是在网站证书失效或者不合法的时候出现这样的告警?&lt;br /&gt;
 还有其他情况吗?&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 14:37:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976008#reply3</guid></item><item><title>[程序员] 基于 tauri 打造的 HTTP API 客户端工具-CyberAPI</title><link>https://www.v2ex.com/t/976007#reply0</link><description>&lt;p&gt;CyberAPI 项目基本也一年多的时间了，该项目差不多 300 次的 commit ，主要集中在最开始的 6 个月，以及中间对其重构的阶段。在上一年国庆长假和朋友聚会的时候，和朋友谈起最近这段时间捣鼓&lt;a href="https://github.com/tauri-apps/tauri" rel="nofollow"&gt;tauri&lt;/a&gt;，写了一个 HTTP API 客户端工具。『你写了这么多东西，其实有想过是为了啥不？』为了啥这是一个很大的命题，当初每个项目的时候都想过它应该解决些啥，最终每个项目好像完成了它的使命，也好像还在征途之上。不是每个人的追求都是诗和远方、星辰大海，而我只是闲着也是闲着，所以做了点啥，不是为了啥。&lt;/p&gt;
 &lt;p&gt;选择使用&lt;code&gt;tauri&lt;/code&gt;并不是因为它的优缺点(如果想了解的大家可以直接去官网上查看)，只是因为我自己想学习一下 rust(由于非工作需要，业余学习使用 rust ，因此代码可能写得不太好)，在了解过一些 rust 比较热门的项目之后，刚好也想学习一下桌面应用开发，因此&lt;a href="https://github.com/vicanso/cyberapi" rel="nofollow"&gt;CyberAPI&lt;/a&gt;也在此巧合之下开始创建。&lt;/p&gt;
@@ -73,43 +232,4 @@
 &lt;li&gt;MySql,PostgreSql,GreenPlus,StarRocks 等数据库&lt;/li&gt;
 &lt;li&gt;Flink 流计算平台&lt;/li&gt;
 &lt;li&gt;ES,RedisSearch 等全文搜索框架&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 21 Sep 2023 14:23:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976003#reply0</guid></item><item><title>[程序员] 重装系统时，硬盘里这些分区，是不是可以不要了？</title><link>https://www.v2ex.com/t/976001#reply12</link><description>&lt;p&gt;目前笔记本里，有一个固态硬盘，一个机械硬盘。然后我想把系统安装到固态里。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/09/21/956a24eed0732974.png" /&gt;
-通过进 PE 里面看，发现固态硬盘里有 4 个分区（一直用的是笔记本自带的系统，可能是因为这个）。&lt;/p&gt;
-&lt;p&gt;除了 Windows-SSD 这个分区，我不确定其他分区是不是有用。如果没有用的话，那我就把其他的 3 个分区都删除掉，再合并成一个 NTFS 分区得了。&lt;/p&gt;
-&lt;p&gt;PS：之前装系统都是懵懵懂懂的，想搞清楚点。&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 13:59:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976001#reply12</guid></item><item><title>[Apple] 15 pro 预计 9 月 28 送达</title><link>https://www.v2ex.com/t/975999#reply0</link><description>&lt;p&gt;按苹果尿性，有可能会提前吗？&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 13:54:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975999#reply0</guid></item><item><title>[问与答] 请问 PC 的高刷新率是否要软件适配？</title><link>https://www.v2ex.com/t/975997#reply5</link><description>第一次用高刷新率 240hz ，浏览器非常的顺滑，为啥微信上下滑动还是感觉跟 60hz 差不多，不知道是不是不支持？</description><pubDate>Thu, 21 Sep 2023 13:46:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975997#reply5</guid></item><item><title>[Apple] 请问苹果直营店首发多久补货？想关注下库存预约自提</title><link>https://www.v2ex.com/t/975996#reply0</link><description></description><pubDate>Thu, 21 Sep 2023 13:37:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975996#reply0</guid></item><item><title>[酷工作] 123</title><link>https://www.v2ex.com/t/975994#reply0</link><description></description><pubDate>Thu, 21 Sep 2023 13:30:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975994#reply0</guid></item><item><title>[酷工作] 📣 Web3 创业团队招募-研发岗位</title><link>https://www.v2ex.com/t/975993#reply0</link><description>🤡 我们是谁&lt;br /&gt;BuidlerLabs 团队成员来自阿里、腾讯等大厂，连续创业者，人均 95 后，致力于建设华语最有影响力的人才和项目网络。目前业务包括四层：In-house 产品，以创作者/Social 相关为主；项目孵化/加速；品牌和内容；社区&lt;br /&gt;BuidlerLabs 于 2022 年 6 月发起 BuidlerDAO ，聚集投研、技术、运营等领域的 Web3 实干家，以 DAO 的方式组织内容输出和产品实践，打造 SocialDAO 治理范式和 DAO Tools 解决方案。股+币已获得红杉、SevenX 等十多家机构数百万美金投资&lt;br /&gt;Web3 人才和项目网络 BuidlerDAO 完成 200 万美元天使轮融资，红杉中国种子基金和 SevenX Ventures 领投&lt;br /&gt;Twitter： &lt;a href="https://twitter.com/BuidlerDAO" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/BuidlerDAO&lt;/a&gt;&lt;br /&gt;Notion： &lt;a href="https://buidlerdao.notion.site/" rel="nofollow noopener" target="_blank"&gt;https://buidlerdao.notion.site/&lt;/a&gt;&lt;br /&gt;简介： &lt;a href="https://www.notion.so/buidlerdao/Buidler-DAO-69df9f5e79e847a294bab42a4907516d?pvs=4" rel="nofollow noopener" target="_blank"&gt;https://www.notion.so/buidlerdao/Buidler-DAO-69df9f5e79e847a294bab42a4907516d?pvs=4&lt;/a&gt;&lt;br /&gt;加入 DAO： &lt;a href="https://tally.so/r/wA7LlN" rel="nofollow noopener" target="_blank"&gt;https://tally.so/r/wA7LlN&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;BuidlerLabs 现招募全职成员，投入 DAO  系列产品开发：&lt;br /&gt;⛷ 开放职位（即时更新）&lt;br /&gt;核心开发 Lead -前端 /全栈方向（全职，远程） （薪水面议）&lt;br /&gt;职位要求&lt;br /&gt;1. 具备丰富的前端开发经验，有团队管理经验者优先；&lt;br /&gt;2. 追求极致和完美，善于总结和挖掘事物本质；&lt;br /&gt;3. 前端基础扎实，熟练掌握 React 框架或者对 JS 语言掌握较深，对 web3.js/ether.js 有过实战经验，有线上项目者优先；&lt;br /&gt;4. 掌握至少一门非前端开发语言（如 Go/Java/Python/Solidity 等），并有一定的实战经验；关的实践经验，对 React.js ，Vue.js ，Angular.js 等 MVVM 框架能熟练运用至少一种，且了解其基本原理；&lt;br /&gt;5. 关注 Web3 发展，对新技术充满激情，期待或者已经开发出优秀的产品；&lt;br /&gt;6. 对实现高性能、高可用、优秀用户体验的 Web 应用有实际的了解和实践经验；&lt;br /&gt;7. 积极乐观，责任心强，工作认真细致，具备良好的服务意识，具有良好的跨团队沟通与协作能力；&lt;br /&gt;8.英语口语流利，能阅读最新海外技术文档&lt;br /&gt;9.拥有项目管理能力，能把控整体项目风险，团队管理能力强。&lt;br /&gt;工作职责&lt;br /&gt;1. 负责 Web3 产品的研发，以及研发团队的搭建和管理；&lt;br /&gt;2. 制定团队技术规划，保持研发团队整体技术先进性，并提供相关技术指导；&lt;br /&gt;3. 负责探索前端新的技术框架和边界（ Vue.js ，ElasticSearch ，ReactNative 等）；&lt;br /&gt;4. 负责发现和产出对团队效率提升有价值的产品和工具；&lt;br /&gt;5. 深度参与 DAO 开源项目和孵化项目；&lt;br /&gt;6. 更多的工作内容，欢迎你过来自己定义。&lt;br /&gt;&lt;br /&gt;邮箱： xuxianbang1993@gmail.com&lt;br /&gt;wechat: accountingph&lt;br /&gt;&lt;br /&gt;请将投递简历文件名改为 [岗位+候选人姓名]</description><pubDate>Thu, 21 Sep 2023 13:28:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975993#reply0</guid></item><item><title>[Windows] 这是笔记本电池问题，还是 Windows 对于数据读取的问题？</title><link>https://www.v2ex.com/t/975992#reply4</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;主力机是『麦本本』品牌的『大麦』系列笔记本，购入时间大概是 2017 年中下旬，从未更换过电池&lt;/p&gt;
-&lt;p&gt;从一周多之前发现，笔记本电源灯闪灯，Windows 下无法读取电池信息&lt;strong&gt;（设置页面闪退）&lt;/strong&gt;且电池电量固定在高位不会降低，只能随缘用到电池过放保护突然掉电&lt;/p&gt;
-&lt;h2&gt;查询&lt;/h2&gt;
-&lt;p&gt;今天晚自修就经历了这个情况，屏幕一黑过放保护，幸好保存了目前正在编辑的文档。&lt;/p&gt;
-&lt;p&gt;回到宿舍接上电源之后，不闪灯了（保持灯亮表示正在充电），充电什么的也似乎暂时正常（一边充一边用比较慢，但是至少能充进去）&lt;/p&gt;
-&lt;p&gt;打开 PowerShell 执行 &lt;code&gt;powercfg /batteryreport&lt;/code&gt; 命令检查电池情况，在输出内容中发现了端倪&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Battery capacity history
- Charge capacity history of the system's batteries
-
-........
-2023-08-21 - 2023-08-28	32,031 mWh	39,000 mWh
-2023-08-28 - 2023-09-04	32,063 mWh	39,000 mWh
-2023-09-04 - 2023-09-11	33,360 mWh	99,385 mWh
-2023-09-11			138,964 mWh	4,321,402 mWh
-2023-09-12			139,062 mWh	4,325,310 mWh
-2023-09-13			139,062 mWh	4,325,310 mWh
-2023-09-14			139,062 mWh	4,325,310 mWh
-2023-09-15			139,062 mWh	4,325,310 mWh
-........
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;系统读取的电池容量异常变大，初次发生这个情况，大约距离今天也就是一周半的时间&lt;/p&gt;
-&lt;p&gt;检查电池使用情况的表格，也是类似情况，连续异常几天，直到今晚完全断电一次后才恢复正常&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;START TIME	STATE	SOURCE	CAPACITY REMAINING
-10:25:26	Active	AC	94 %	131,208 mWh
-12:01:52	Suspended	94 %	131,208 mWh
-18:30:53	Active	Battery	94 %	131,208 mWh
-18:31:28	Suspended	94 %	131,208 mWh
-18:36:10	Active	Battery	94 %	131,208 mWh
-19:37:00	Suspended	94 %	131,208 mWh	#晚自习中电池过放保护
-21:15:59	Active	AC	1 %	165 mWh
-21:17:53	generated	AC	2 %	480 mWh	#回到宿舍接上电
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;求教在这种情况下一般是电池问题还是 windows 问题，最近 Windows 有更新什么补丁之类的吗？&lt;/p&gt;
-&lt;p&gt;谢谢！&lt;/p&gt;</description><pubDate>Thu, 21 Sep 2023 13:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975992#reply4</guid></item><item><title>[酷工作] [远程兼职] C#开发工程师（1 名）</title><link>https://www.v2ex.com/t/975991#reply0</link><description>1 、&lt;a href="http://熟悉.NET" rel="nofollow noopener" target="_blank"&gt;熟悉.NET&lt;/a&gt; Core / .NET 6 相关技术特性者优先；&lt;br /&gt;2 、熟悉基于 &lt;a href="http://ASP.NET" rel="nofollow noopener" target="_blank"&gt;ASP.NET&lt;/a&gt; 的 Web API 网络编程；掌握 Linq 和任务并行库（ TPL ），熟悉多线程同步相关机制；&lt;br /&gt;3 、熟悉数据库开发，熟悉 SQL ，有 Entity Framework 或 &lt;a href="http://ADO.NET" rel="nofollow noopener" target="_blank"&gt;ADO.NET&lt;/a&gt; 相关开发经验者优先；&lt;br /&gt;4 、远程兼职，时间灵活，本科毕业五年经验及以上，优秀者可放宽；&lt;br /&gt;5 、面试环节分为：简历筛选，笔试和面试，每一轮三天内没有收到下一轮通知，可视为不通过&lt;br /&gt;6 、费用按照工时计算，月度汇总结算，且公司需要签订保密协议和项目协议，需要提供个人身份信息，介意勿扰&lt;br /&gt;7 、为了保证项目持续交付和人员稳定性，我们对于合作要求必须最低满足三个月，如果只是尝试看看同学，请不要耽搁大家时间，勿扰&lt;br /&gt;8 、身心健康，性格稳定，沟通能力满足项目要求，玻璃心，敏感者等勿扰&lt;br /&gt;9 、联系方式：18829095029 ，通过之后大家可以直接先发自己简历</description><pubDate>Thu, 21 Sep 2023 13:21:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/975991#reply0</guid></item></channel></rss>
+&lt;/ul&gt;</description><pubDate>Thu, 21 Sep 2023 14:23:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976003#reply0</guid></item></channel></rss>
