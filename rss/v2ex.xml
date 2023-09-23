@@ -1,47 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 23 Sep 2023 08:26:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 求一个 mini 的订单管理方案或开源软件?</title><link>https://www.v2ex.com/t/976483#reply0</link><description>&lt;p&gt;需求: &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;后端能上传商品, 管理商品的价格等基本信息&lt;/li&gt;
-&lt;li&gt;用户能先择商品下单, 生成 excel 导出&lt;/li&gt;
-&lt;li&gt;能后台查询每一单的利润.&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 23 Sep 2023 15:33:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 有没有靠谱的日代？</title><link>https://www.v2ex.com/t/976556#reply0</link><description>&lt;p&gt;有没有靠谱日代？代 15PM 零售机。转运时间太长了，官网下单要两个月。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 15:28:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976556#reply0</guid></item><item><title>[iPhone] iPhone 13 Pro 升级到 iPhone 15 Pro Max 感受</title><link>https://www.v2ex.com/t/976555#reply0</link><description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;握持感：第一主观感觉居然是 15 PM 拿起来比 13 Pro 要舒服很多，甚至感觉很轻盈，这是我上手之前没想到的。虽然 15 PM 比 13 Pro 重了大概 20g ，但是 13 Pro 头部很重有种坠手的感觉，而 15 PM 重量分布比较均匀，而且边缘割手感要好很多。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电池续航：15 PM 电池明显感觉比 13 Pro 好太多。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;使用人数: 个位数.&lt;/p&gt;
-&lt;p&gt;对样式什么没要求,能用就行.&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 08:25:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976483#reply0</guid></item><item><title>[问与答] 最近在犹豫 ix3、特斯拉、蔚来和 3 系，听说电车以后换电池成本很高，是真的吗？</title><link>https://www.v2ex.com/t/976482#reply1</link><description>&lt;p&gt;预算 30-35 左右，有没有这个价位买车的老铁，真诚求问下大家购车的历程。&lt;/p&gt;
-&lt;p&gt;另外问一下有了解过极氪 001 的么？ 看颜值很能打，就是听说车机太拉&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 08:20:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976482#reply1</guid></item><item><title>[macOS] 在 MacOS 上，都用过哪些网络代理（翻墙）软件？目前在用哪个？ ClashX, Clash For Windows, Surge, QuanX, Shodowrocket, 软路由......</title><link>https://www.v2ex.com/t/976481#reply0</link><description>&lt;p&gt;昨天开了个&lt;a href="https://www.v2ex.com/t/976075" rel="nofollow"&gt;贴&lt;/a&gt;吐槽 MacOS 上的 CFW 内存占用高，很多朋友参与了讨论。便索性再开一个帖子，调查一下有哪些好用的 Mac 上的代理软件。&lt;/p&gt;
-&lt;p&gt;我尝试过的有 ClashX 、CFW 、Surge 、硬路由。下面讲讲用个这几个软件的一些感受。&lt;/p&gt;
-&lt;p&gt;CFW 内存占用比较高，再加上 Arc 这个高占用浏览器，让我的 8G RAM 十分吃力。&lt;/p&gt;
-&lt;p&gt;ClashX 似乎对 ipv6 支持不太好，要修改配置文件开启 ipv6 ，我这边最后 ipv6 节点还是 pin 不通，便放弃了。&lt;/p&gt;
-&lt;p&gt;Surge 有点贵，不过确实 6 。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 08:20:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976481#reply0</guid></item><item><title>[分享创造] 开发了一个小工具 | Uscreenshot 让网页生成截图、PDF 更简单</title><link>https://www.v2ex.com/t/976480#reply0</link><description>&lt;h2&gt;Uscreenshot 让网页生成截图、PDF 更简单&lt;/h2&gt;
-&lt;h2&gt;访问地址&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.uscreenshot.com/" rel="nofollow"&gt;https://www.uscreenshot.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/Enda/e2746be5-a6ff-4f24-80d7-d4877497b15b.png?imageView2/2/w/1920/q/100" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/Enda/d229e4a7-2874-4c0a-a819-7090b7947875.png?imageView2/2/w/1920/q/100" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/Enda/c77d94e4-92e3-454f-9760-dc2b844f9954.png?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
-&lt;h2&gt;使用到的技术栈&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;react&lt;/li&gt;
-&lt;li&gt;vue&lt;/li&gt;
-&lt;li&gt;golang&lt;/li&gt;
-&lt;li&gt;k8s&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;重构了好几版，怎么改都不满意，也一直不敢去宣传，今天鼓起勇气在 v2 发帖试试，如果有使用场景的欢迎大家体验&lt;/p&gt;
-&lt;p&gt;如果遇到 bug ，非常希望您能够在评论区回复，我这边第一时间修改&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 08:03:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976480#reply0</guid></item><item><title>[MongoDB] mongodb 生产环境创建索引</title><link>https://www.v2ex.com/t/976479#reply1</link><description>&lt;p&gt;mongodb v4.0&lt;/p&gt;
-&lt;p&gt;生产环境，需要添加一个索引，有没有不影响线上业务的方案，或者有什么方案和经验可以分享下，把影响降到最低。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 08:02:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976479#reply1</guid></item><item><title>[问与答] 求推荐 windows 上的笔记软件</title><link>https://www.v2ex.com/t/976478#reply0</link><description>需求是每天要记录做了什么，没做什么，学习了什么，然后每周末将当周的汇总记录为新的文档。自动化或者一键化的（这一周完成了什么，学习了什么，未完成什么）&lt;br /&gt;有推荐吗？尝试过 obsidian notion ，前者能实现但是库今天莫名被清了，心态炸裂；后者还不清楚能否实现&lt;br /&gt;求各位的建议</description><pubDate>Sat, 23 Sep 2023 08:00:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976478#reply0</guid></item><item><title>[问与答] 一年级孩子玩具</title><link>https://www.v2ex.com/t/976477#reply2</link><description>&lt;p&gt;送侄子的，求推荐。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 07:58:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976477#reply2</guid></item><item><title>[问与答] 如何排查游戏闪退的问题</title><link>https://www.v2ex.com/t/976475#reply1</link><description>骁龙 860 安装了 win11 arm64 ，把真三 7 （ WINPC 版）放进去。&lt;br /&gt;无法运行，因为缺少运行库，随后安装了 vc 各种运行库。&lt;br /&gt;打开闪退，然后又安装了旧版的 dx 。&lt;br /&gt;可以打开了。可以选人物，运行没问题，可以开战。&lt;br /&gt;然后人物走出城门就闪退...&lt;br /&gt;这...怎么排查...试过把特效全调低，没用，同样的地方闪退...</description><pubDate>Sat, 23 Sep 2023 07:44:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976475#reply1</guid></item><item><title>[宽带症候群] 请教关于「旁路由」的使用</title><link>https://www.v2ex.com/t/976474#reply1</link><description>我理解的现在旁路由的设置方式应该是有两种：&lt;br /&gt;1 、主路由、旁路由互相将网关指向对方，这样整个局域网内设备都会经过旁路由&lt;br /&gt;2 、只有旁路由网关指向主路由，局域网内设备需要手动配置网关才可以使用旁路由&lt;br /&gt;&lt;br /&gt;想问的是，如果使用 1 的方案，有没有可能在旁路由 挂了 或 瞎配置网络不通 的情况下，主路由自动的不再使用旁路由。有什么比较成熟的方案达到这种效果吗？</description><pubDate>Sat, 23 Sep 2023 07:39:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976474#reply1</guid></item><item><title>[Linux] 急！ rm -rf /*会删除挂载的其他驱动器内容吗？</title><link>https://www.v2ex.com/t/976473#reply12</link><description>Debian 系统，通过：mount /dev/sdb1 /mnt/backup 方式挂载，&lt;br /&gt;&lt;br /&gt;然后机器运行了：&lt;br /&gt;# rm -rf /*&lt;br /&gt;&lt;br /&gt;目前已无法 SSH 登录，&lt;br /&gt;请问这个命令是否会删除/dev/sdb1 ，也就是/mnt/backup 里的内容？&lt;br /&gt;&lt;br /&gt;兄弟们，挺急的，谢谢了</description><pubDate>Sat, 23 Sep 2023 07:38:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976473#reply12</guid></item><item><title>[Netflix] NF 有人下车了，找一个车友</title><link>https://www.v2ex.com/t/976471#reply1</link><description>vx:S2FpX05vMw== (base64)&lt;br /&gt;&lt;br /&gt;埃及奈飞&lt;br /&gt;香港能看&lt;br /&gt;季付 35 元，翻车按照比列退&lt;br /&gt;一个车位</description><pubDate>Sat, 23 Sep 2023 07:28:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976471#reply1</guid></item><item><title>[OpenAI] chatgpt 公益站点程序员专用</title><link>https://www.v2ex.com/t/976470#reply1</link><description>随便注册个账号无限制(主要是避免被恶意刷接口)&lt;br /&gt;&lt;br /&gt;无数量限制使用！！！无数量限制使用！！！无数量限制使用！！！&lt;br /&gt;&lt;br /&gt;基本够用了，每天工作也问不了几百次&lt;br /&gt;&lt;br /&gt;已经免费了大半年了&lt;br /&gt;&lt;br /&gt;一直免费使用 chatgpt3.5&lt;br /&gt;&lt;br /&gt;需要魔法访问&lt;br /&gt;&lt;br /&gt;&lt;a href="https://gpt.aigcfast.com" rel="nofollow noopener" target="_blank"&gt;https://gpt.aigcfast.com&lt;/a&gt;</description><pubDate>Sat, 23 Sep 2023 07:27:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976470#reply1</guid></item><item><title>[Apple] iOS / iPadOS 17 统计存储空间占用的时候会把自带音乐 App 里的文件统计两遍？</title><link>https://www.v2ex.com/t/976469#reply1</link><description>&lt;p&gt;个人习惯把一些音乐导入 iTunes 再传到设备里。更新系统之后发现 iPhone / iPad 的储存空间里都多了一项“已同步的内容”，大小和音乐 App 差不多。上网查了一下发现不是个例，只要把音乐 App 里的音乐都清理掉，“已同步的内容”就会消失。但是只要把音乐再导回来，“已同步的内容”就又会多占一倍的空间……&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 07:26:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976469#reply1</guid></item><item><title>[Apple] 旧手机迁移 15pro 一直在匹配中</title><link>https://www.v2ex.com/t/976468#reply8</link><description>&lt;p&gt;大家遇到了吗？扫那个旧手机都做了，然后旧手机提示可以折旧买了，让我尽情享受新手机，结果新手机一直在匹配中了。。。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 07:24:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976468#reply8</guid></item><item><title>[问与答] 请问有没有什么不审查速度快的跨客户端同步软件？最好是小容量免费的</title><link>https://www.v2ex.com/t/976467#reply1</link><description>需求是：在 Mac 和 Android 同步 Logseq 的内容&lt;br /&gt;&lt;br /&gt;目前照片是使用百度云（因为历史上一直在百度云，习惯了），同时会同步一份到 NAS&lt;br /&gt;低频的隐私文件备份到 NAS ，珍贵的使用 Google Drive 再备份一份。&lt;br /&gt;高频办公使用坚果云。&lt;br /&gt;&lt;br /&gt;目前是 Logseq 没有同步，不太想（敢）用坚果云，担心会被审查，iCloud 又没法同步到 Android 。</description><pubDate>Sat, 23 Sep 2023 07:20:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976467#reply1</guid></item><item><title>[问与答] 美团 APP 现在这么不要脸了吗？</title><link>https://www.v2ex.com/t/976463#reply3</link><description>&lt;a href="https://i.imgur.com/jXjjqsZ.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jXjjqsZ.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;通知点进去的，没想到这么不要脸，连小说功能都做进去了，太离谱了。</description><pubDate>Sat, 23 Sep 2023 07:12:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976463#reply3</guid></item><item><title>[程序员] [数据开发] Doris 实际生产经验以及问题请教</title><link>https://www.v2ex.com/t/976462#reply2</link><description>&lt;p&gt;&lt;code&gt;本人为数据开发新手。工作内容需要给分析师提供线上实时的计算和统计工作，但是目前业务数据使用的是 mysql ，虽然大部分情况我这里是使用从库，但过于复杂和大量数据的统计使用 mysql 依然不合适。目前有一部分任务可以放在离线大数据平台如 hive 等做，但是还是有一部分需要线上实时的计算（需要和业务主库延迟在毫秒级）的任务需要。实时计算 mysql 的单表数量大多是 10 亿内，会在各表之间关联做逻辑，大概 100 张表&lt;/code&gt;
-&lt;code&gt;最近调研了一下 doris ，也看了很多文档，但是不知道 doris 在这方面是不是合适，是不是既可以满足在线其它系统实时调用的快速计算，又可以定制批量计算任务？。希望有经验的大佬分享一下。&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;另外还有一些问题&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;数据同步方面，binlog 同步至 doris 是不是保证低数据延迟的解？有没有别的更合适的方案&lt;/li&gt;
-&lt;li&gt;大家有没有类似的需求又是如何解决的？
-谢谢~&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sat, 23 Sep 2023 07:07:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976462#reply2</guid></item><item><title>[宽带症候群] 帮忙看看为啥桥接降速</title><link>https://www.v2ex.com/t/976461#reply11</link><description>&lt;p&gt;路由器： &lt;a href="https://m.tp-link.com.cn/product_2869.html?source=list" rel="nofollow"&gt;https://m.tp-link.com.cn/product_2869.html?source=list&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;光猫
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/A061CpTx.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;桥接前下行 500 上行 100 。&lt;/p&gt;
-&lt;p&gt;桥接后下行 50 上行 100 伴有丢包。&lt;/p&gt;
-&lt;p&gt;限速也不会这么夸张吧。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 07:00:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976461#reply11</guid></item><item><title>[Apple] iPhone15pro 好像给严重晕 3d 的人一条玩 3a 的活路</title><link>https://www.v2ex.com/t/976460#reply9</link><description>&lt;p&gt;不懂有没有比我晕 3d 还夸张的人，初中玩穿越火线的时候就开始晕了，但是不是很严重。
-后来毕业工作自己买了台 ps4 ，只玩了一个小时不到的地平线就浑身发冷想吐，战神 4 靠吃晕车药才玩了 1/4 进度，后面基本告别主机游戏了。
-再后来买了 switch ，发现我竟然连在 switch 上玩奥德赛都能晕，更不要说用电视玩……
-而用 iPad 玩原神超过 2 小时也晕……只有在手机上玩才不晕&lt;/p&gt;
-&lt;p&gt;但是非常奇怪的是，我在电视上看各种游戏主播的视频就完全不晕，按道理它的画面和实际游戏一模一样啊&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 06:59:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976460#reply9</guid></item><item><title>[推广] Github Copilot</title><link>https://www.v2ex.com/t/976459#reply2</link><description>&lt;p&gt;Github Copilot 月抛号，欢迎前来选购，价格实惠，比官网价格低。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cutt.ly/YwvjdsNi" rel="nofollow"&gt;https://cutt.ly/YwvjdsNi&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 06:54:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976459#reply2</guid></item></channel></rss>
+&lt;p&gt;另外 15 Pro Max 最明显的一个问题，就是点击不跟手（没有贴膜），表现为快速滑动、点击手机时，经常可以感觉某一个点击被丢掉了，无效操作，例如一个按钮需要我点两次才有效果，体验起来就是不跟手，而同样为 iOS 17 的 13 Pro 没有此问题，不知道是我这台手机问题还是 iOS 17 的 bug 。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 15:11:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976555#reply0</guid></item><item><title>[Linux] rm -rf * 前一定一定要看清当前目录</title><link>https://www.v2ex.com/t/976554#reply3</link><description>&lt;p&gt;惨！数据差点归零。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;起因是这样的：&lt;/p&gt;
+&lt;p&gt;想要写一个 Dockerfile ，先建个容器敲一下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;docker run --rm -v /mnt/sda1:/mnt/sda1 -it alpine
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;为了方便，把数据盘也挂上去了。&lt;/p&gt;
+&lt;p&gt;然后做了一些复制解压：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;cp /mnt/sda1/somefile.tar.gz .
+tar xzvf somefile.tar.gz
+cd somefile-v1.0
+ls
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看了看内容觉得不是自己想要的，回上一级目录准备删掉：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;cd ..
+rm -rf *
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我想当然地认为自己在 &lt;code&gt;/root&lt;/code&gt; 下面，这里原本应该什么都没有。然而一回车：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;rm: can't remove 'dev/console': Resource busy
+rm: can't remove 'dev/urandom': Resource busy
+rm: can't remove 'dev/random': Resource busy
+rm: can't remove 'dev/tty': Resource busy
+rm: can't remove 'dev/full': Resource busy
+...^C^C^C^C^C^C^C^C^C^C^C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;。。。是在 &lt;code&gt;/&lt;/code&gt; 啊！！！然后 &lt;code&gt;/mnt/sda1&lt;/code&gt; 的东西自然也是被删了一堆，吓坏我了。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;好在是 ZFS ，心惊胆战地回滚到了一天前的快照，暂时没有发现特别大的损失。这才松了一口气。&lt;/p&gt;
+&lt;p&gt;吓死了，下次删文件前一定要注意当前目录啊。。。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 15:10:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976554#reply3</guid></item><item><title>[问与答] 软件业务线索那里有？</title><link>https://www.v2ex.com/t/976553#reply0</link><description>&lt;h2&gt;不容易的 2023 年，我们一起努力 [ &lt;a href="http://www.ithunter.club" rel="nofollow"&gt;www.ithunter.club&lt;/a&gt; ]&lt;/h2&gt;
+&lt;p&gt;(2023-09-22 08:00:00.887206~2023-09-22 16:00:00.887206)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;人事招聘专员 数名 (可选远程或入职)&lt;/li&gt;
+&lt;li&gt;[招聘向] [坐标东京] Yahoo 、Shift 、Line 多个大厂 安卓 ios 岗位 日语必须&lt;/li&gt;
+&lt;li&gt;[招聘向]坐标东京港区 关键词：纯前端 leader 800-1300 万日元 日语必须的~&lt;/li&gt;
+&lt;li&gt;[base 武汉] AIGC 出海项目-招聘 Flutter 开发工程师&lt;/li&gt;
+&lt;li&gt;辅导诚招 CS/IT 专业的辅导老师&lt;/li&gt;
+&lt;li&gt;[北京 / Java / 招聘] 快手电商交易部门 招聘 Java 后端工程师&lt;/li&gt;
+&lt;li&gt;[移民] 坐标东京，赴日招聘第 13 波~高度人才+20 分一年永驻&lt;/li&gt;
+&lt;li&gt;[外包] iOS &amp;amp; Android 原生 APP 开发&lt;/li&gt;
+&lt;li&gt;[招聘向] [软银控股的中国公司] [SRE]&amp;amp;[DBA]岗位 中文商务水平 日语要求低 600-1500 万日元&lt;/li&gt;
+&lt;li&gt;[求职][远程]一年多了，还是没挪坑&lt;/li&gt;
+&lt;li&gt;golang 工程师远程全职&lt;/li&gt;
+&lt;li&gt;固定長期配合平面设计固定長期配合平面设计&lt;/li&gt;
+&lt;li&gt;解决短链生成后的标题和头像&lt;/li&gt;
+&lt;li&gt;d2d 渲染图片处理&lt;/li&gt;
+&lt;li&gt;源代码为 python+雷电模拟运行的，现在想改为 python+易语言传参 预算 200-300&lt;/li&gt;
+&lt;li&gt;服务器接口及脚本开发要求&lt;/li&gt;
+&lt;li&gt;做一个通用型的处理图片、视频的卷积网络库&lt;/li&gt;
+&lt;li&gt;圆形二维码生成&lt;/li&gt;
+&lt;li&gt;sip 对接，实现 api 接口拨号 [不懂 sip 是什么的不要接] &lt;/li&gt;
+&lt;li&gt;我需要支付宝小程序&lt;/li&gt;
+&lt;li&gt;实现图片多页文字识别模块加图片元素识别&lt;/li&gt;
+&lt;li&gt;用易语言取指定的进程的托盘图标的标题&lt;/li&gt;
+&lt;li&gt;找人设置一个简单的动态小图标&lt;/li&gt;
+&lt;li&gt;开发一个 ios 应用&lt;/li&gt;
+&lt;li&gt;ios 插件编译打包&lt;/li&gt;
+&lt;li&gt;仿制一款软件 apk 加密用的。&lt;/li&gt;
+&lt;li&gt;找人写网页授权 QQ 扫码登录下载软件&lt;/li&gt;
+&lt;li&gt;需求：易语言人脸对比源码&lt;/li&gt;
+&lt;li&gt;企业网站静态 html 设计&lt;/li&gt;
+&lt;li&gt;网页支付宝支付后对接 e 写个软件&lt;/li&gt;
+&lt;li&gt;界面定制，界面布局随机&lt;/li&gt;
+&lt;li&gt;自动给源码添加注释，HTMLJAVAC&lt;/li&gt;
+&lt;li&gt;根据提供的文字生成新的数据&lt;/li&gt;
+&lt;li&gt;充值页面 UI 界面设计简洁引导用户&lt;/li&gt;
+&lt;li&gt;java 程序二开修改个小功能&lt;/li&gt;
+&lt;li&gt;写一个黑苹果系统脚本&lt;/li&gt;
+&lt;li&gt;APP 双端开发，诚信合作非诚勿扰！！！&lt;/li&gt;
+&lt;li&gt;长期招聘渗透大牛，欢迎领钱&lt;/li&gt;
+&lt;li&gt;php+uniap 加公众号 H5 微信授权登录&lt;/li&gt;
+&lt;li&gt;写一份 vue 与易语言进行 JS 交互例子，指定 CEF3 内核&lt;/li&gt;
+&lt;li&gt;unity 弹幕小玩法开发&lt;/li&gt;
+&lt;li&gt;用快手协议开发快手 app 自动注册软件界面填写 N 个手机号后按顺序提交注册，手动填写短信验证码，手动验证滑块（有的号没有滑块验证，直接跳过），注册成功后自动提取 token 源码要求用 c#或 java 开发，C#就开发周期可商议&lt;/li&gt;
+&lt;li&gt;本地 T*T 文件，添加到数据库，然后查询指定内容到列表框&lt;/li&gt;
+&lt;li&gt;智谱 AI 开放平台 API 接口调用例子&lt;/li&gt;
+&lt;li&gt;链接生成转换程序&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;线索来源于网络，这是当今社会获取信息的主要渠道之一。我们很高兴地告诉您，昨日收到的线索信息是真实可靠的。&lt;/p&gt;
+&lt;p&gt;如果您希望及时获取这些信息，请访问我们的网站，我们会在第一时间更新相关内容。&lt;/p&gt;
+&lt;p&gt;在这个信息爆炸的时代，我们始终致力于提供最准确、最及时的信息，让您了解最新的情况，做出明智的决策。&lt;/p&gt;
+&lt;p&gt;来自 ithunter.club&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 15:10:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976553#reply0</guid></item><item><title>[分享创造] 用 iredmail 搭了一个邮件服务器 记录一下 如有临时 mail 需求 可以找我 哈哈</title><link>https://www.v2ex.com/t/976550#reply0</link><description>&lt;p&gt;&lt;a href="http://mail.veilhub.com" rel="nofollow"&gt;mail.veilhub.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;期间由于删除了默认的第一个域名，导致管理员账号直接丢失，进不去了，重装解决&lt;/p&gt;
+&lt;p&gt;这个主要是用来收邮件，对发邮件没有任何需求，所以把灰名单插件关掉了&lt;/p&gt;
+&lt;p&gt;修改了 LOGO 和 默认的邮件刷新时间 60s 改成了 20s&lt;/p&gt;
+&lt;p&gt;目前够用，大家有需要临时收个验证码啥的 可以找我 可以长期保留账号也可以随用随删&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:52:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976550#reply0</guid></item><item><title>[宽带症候群] 贵阳的宽带怎么又贵又垃圾</title><link>https://www.v2ex.com/t/976549#reply0</link><description>&lt;p&gt;有没有贵阳的宽带套餐推荐&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:50:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976549#reply0</guid></item><item><title>[程序员] 除了套 cf，还有别的加速网站速度的办法吗？</title><link>https://www.v2ex.com/t/976548#reply3</link><description>&lt;p&gt;小破站放在国外小鸡上，貌似电信访问比较慢。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:34:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976548#reply3</guid></item><item><title>[汽车] 海豚纪念版配色好丑啊</title><link>https://www.v2ex.com/t/976547#reply0</link><description>本来看海豹 dmi 的内饰还以为比亚迪现在审美有提升了，没想到海豚纪念版整了个红黑配色，还是饱和度这么高的红。&lt;br /&gt;海豹 dmi 也是，除了丐版以外只能选那个红色内饰。真的吐了，感觉比亚迪对内饰配色总是有独特的理解。</description><pubDate>Sat, 23 Sep 2023 14:34:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976547#reply0</guid></item><item><title>[Apple] 大家 Apple TV 上的 FaceTime 能用吗？</title><link>https://www.v2ex.com/t/976546#reply0</link><description>&lt;p&gt;tvOS 17 支持了 FaceTime ，但是我每次都提示“呼叫失败”，无法拨通任何通话。iPhone/iPad/mac 的 FaceTime 都没问题。&lt;/p&gt;
+&lt;p&gt;我的 Apple ID 是美区，各个设备都是这个 ID ，唯独 tvOS 不行。在其他设备上 FaceTime 时，TV 上可以显示接管通话，但是点击后一样无法接通。&lt;/p&gt;
+&lt;p&gt;大家都是这样的吗？&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:25:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976546#reply0</guid></item><item><title>[分享发现] [分享]-一部关于生死的动漫短片《夏日幽灵》</title><link>https://www.v2ex.com/t/976545#reply0</link><description>大概是一个月前发现的这部短篇电影 剧情上来看还算不错 主要讲述的是三个少年因流行的都市传说结伴去寻找"夏日幽灵"而互相认识并和幽灵产生羁绊的故事&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Sat, 23 Sep 2023 14:25:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976545#reply0</guid></item><item><title>[Apple] 请问 iPad pro 21 款的充电器/充电线可以直接给 iPhone 15 pro 充电吗？</title><link>https://www.v2ex.com/t/976544#reply2</link><description>&lt;p&gt;看了官网的描述似乎没有问题，还是想和各位大佬确认下，谢谢！
+&lt;a href="https://support.apple.com/zh-hk/HT213839" rel="nofollow"&gt;https://support.apple.com/zh-hk/HT213839&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:20:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976544#reply2</guid></item><item><title>[分享发现] 替换 github copilot 的免费方案</title><link>https://www.v2ex.com/t/976543#reply6</link><description>&lt;p&gt;今天，我发现了一个与 GitHub Copilot 功能相当的 AI 编程助手，名为 Codeium 。与 GitHub Copilot 不同的是，Codeium 是个人永久免费的，而且支持的 IDE 和编程语言更多。你可以在&lt;a href="https://mp.weixin.qq.com/s/QikZqEVVe6CRSkSp67yGYQ" rel="nofollow"&gt;这里&lt;/a&gt;找到更多详情，或者访问&lt;a href="https://codeium.com/" rel="nofollow"&gt;官网链接&lt;/a&gt;了解更多信息。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 14:19:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976543#reply6</guid></item><item><title>[问与答] 有什么软件可以把一个文件夹里边的程序打包成一个单文件可执行文件</title><link>https://www.v2ex.com/t/976540#reply1</link><description>&lt;p&gt;程序里边引用了插件 DLL 等等.想让他打包成一个文件执行&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 13:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976540#reply1</guid></item><item><title>[Apple] 今天去苹果直营店摸了一下 iPhone 15 系列，苹果的质感今年拉爆了</title><link>https://www.v2ex.com/t/976539#reply15</link><description>数字系列换磨砂背板，机身也更圆润了。&lt;br /&gt;Pro 机身更苗条了，重量更轻更匀称。&lt;br /&gt;再加上屏幕清晰度、亮度，系统 ui ，动画。&lt;br /&gt;肉眼可见的遥遥领先其他手机。&lt;br /&gt;只要智力正常、视力正常的地球人，我觉得很难说苹果不好。&lt;br /&gt;当然，喜欢不同的风格是正常的，但是苹果从客观上很难说是差的。</description><pubDate>Sat, 23 Sep 2023 13:57:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976539#reply15</guid></item><item><title>[宽带症候群] 上海联通光猫</title><link>https://www.v2ex.com/t/976537#reply4</link><description>&lt;p&gt;今天安装了上海联通宽带，想要超级管理员密码，安装的小哥说他也不知道密码。网上找了好多都不行。型号是中兴的 F4610N ，大家有什么办法吗？&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 13:40:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976537#reply4</guid></item><item><title>[酷工作] Marketing 远程工作岗位</title><link>https://www.v2ex.com/t/976536#reply2</link><description>Marketing 远程工作岗位&lt;br /&gt;&lt;br /&gt;----------岗位 1&lt;br /&gt;Marketing 远程工作岗位，长期合作&lt;br /&gt;&lt;br /&gt;需要有一定工作经验，可以指导/带领实习生&lt;br /&gt;有英语读写能力，有一定的英语听说能力&lt;br /&gt;请发简历到 info@path2web3.com&lt;br /&gt;(本项目不是 web3 项目)&lt;br /&gt;请发简历到 aW5mb0BwYXRoMndlYjMuY29t&lt;br /&gt;(本项目不是 web3 项目)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;contact  info@path2web3.com and make sure you apply with your most recent resume&lt;br /&gt;(this is not a web3 project)&lt;br /&gt;contact aW5mb0BwYXRoMndlYjMuY29t and make sure you apply with your most recent resume(this is not a web3 project)&lt;br /&gt;This innovative project is led by big names in the industry.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;公司介绍(Company Intro)：&lt;br /&gt;皮式亚太咨询研发中心是亚太区领先的咨询研发中心。&lt;br /&gt;服务于多家世界五百强企业, 通过技术与用户建立联系，将客户利益放在首位，将时间和热情投入到每一件有需求的产品上。&lt;br /&gt;Serving many Fortune 500 companies, establishing connections with users through technology, putting our customer benefits first, and devoting time and enthusiasm to every product in demand.&lt;br /&gt;&lt;br /&gt;The Artificial Intelligence (AI) and innovation sector is a rapidly growing and highly disruptive market. We are a leading player in this space, and we are committed to revolutionizing various industries and providing developers with the necessary tools to create exceptional applications that cater to the daily needs of users. We extend to you a most sincere invitation to join our esteemed team, where you will have the opportunity to lead innovation and cultivate unrivaled creativity.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;About us&lt;br /&gt;We are a pioneering IT company at the forefront of innovation. We leverage new technologies, such as Artificial Intelligence (AI) and Web3.0, to conceive groundbreaking solutions that revolutionize various industries. Our objective is to develop generative models that can generate creative content, solve complex problems, and drive transformative results.&lt;br /&gt;The team members are primarily graduates of renowned domestic and international universities, and they are currently located in various cities, including Sydney, Singapore,  Shanghai and others.&lt;br /&gt;&lt;br /&gt;About you&lt;br /&gt;1 Demonstrated ability to work flexibly and adapt to change in an agile environment.&lt;br /&gt;2 Strong problem-solving skills and the ability to think creatively and come up with innovative solutions.&lt;br /&gt;3 A willingness to revisit existing projects and make revisions as business requirements change.&lt;br /&gt;4 A strong work ethic and the ability to lead and work according to project plans, deadlines, and milestones.&lt;br /&gt;5 Excellent communication skills, both written and verbal, with the ability to clearly and confidently communicate with team members and stakeholders.&lt;br /&gt;&lt;br /&gt;What you will get&lt;br /&gt;1 Opportunity to participate in cutting-edge research and development of global business systems across different time zones.&lt;br /&gt;2 Opportunity to work on challenging and diverse projects that will push your skills to the limit.&lt;br /&gt;3 Opportunity to work in a casual and relaxed environment with flexible work-from-home arrangements.&lt;br /&gt;4 Opportunity to work in a non-hierarchical culture where everyone's voice is heard.&lt;br /&gt;&lt;br /&gt;Why join us?&lt;br /&gt;1 You will be part of a culture that values creativity, innovation, and individual contributions.&lt;br /&gt;2 We offer competitive compensation, benefits, and the opportunity to work in a fast-paced, startup environment where your work will directly contribute to our growth and success.&lt;br /&gt;3 We are an equal opportunity employer and welcome applicants of all backgrounds, experiences, and perspectives.&lt;br /&gt;&lt;br /&gt;If you are a passionate and eager individual who is looking to make a significant impact on a product from its early stages, we would love to hear from you.</description><pubDate>Sat, 23 Sep 2023 13:29:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976536#reply2</guid></item><item><title>[程序员] SwiftUI + Xcode 15 实战教程：第一课（2023 最新）已经发布了</title><link>https://www.v2ex.com/t/976535#reply0</link><description>&lt;p&gt;围观学习地址：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1u8411i76p/?spm_id_from=333.999.0.0&amp;amp;vd_source=eac57d23025c06a23af985f3ce0640d3" rel="nofollow"&gt;https://www.bilibili.com/video/BV1u8411i76p/?spm_id_from=333.999.0.0&amp;amp;vd_source=eac57d23025c06a23af985f3ce0640d3&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;也可以关注 B 站合集，到时候会包含全部系列教程，合集地址：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://space.bilibili.com/410555632/channel/seriesdetail?sid=3641872" rel="nofollow"&gt;https://space.bilibili.com/410555632/channel/seriesdetail?sid=3641872&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 13:29:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976535#reply0</guid></item><item><title>[VPS] 我的 vps 的国内外 ICMP 可用和 TCP 都可用，但为什么突然无法 ssh，用户名和密码也没有错输。</title><link>https://www.v2ex.com/t/976532#reply8</link><description>&lt;p&gt;我的 vps 的国内外 ICMP 可用和 TCP 都可用，但为什么突然无法 ssh ，用户名和密码也没有错输。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 13:10:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976532#reply8</guid></item><item><title>[问与答] 有没有什么软件能监控软件安装时所有文件的去向？</title><link>https://www.v2ex.com/t/976531#reply14</link><description>比如我安装一个文件，我希望能在安装完成后看到所有释放出的文件的详细清单包括它们具体释放到了什么路径，有这样功能的软件么？&lt;br /&gt;最好是简单小巧一点的，那种重型大块头杀毒防护软件就算了。</description><pubDate>Sat, 23 Sep 2023 13:06:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976531#reply14</guid></item><item><title>[程序员] todesk 这么垃圾的吗？</title><link>https://www.v2ex.com/t/976530#reply1</link><description>&lt;p&gt;他奶奶的安装了它的远程打印及程序后， 我内网的无线打印机连不上了， 删除 todesk 后，重装打印机程序还是无法解决。&lt;/p&gt;
+&lt;p&gt;控制面板中 printer server properties 中有个 todesk pdf printer 的 port 无论如何都删除不了。&lt;/p&gt;</description><pubDate>Sat, 23 Sep 2023 12:58:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976530#reply1</guid></item></channel></rss>
