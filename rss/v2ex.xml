@@ -1,91 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Sep 2023 11:08:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[汽车] 大家新手期会在节假日高速免费期间去高速练车吗？</title><link>https://www.v2ex.com/t/976723#reply0</link><description>节假日高速免费，我是新手，觉得趁免费去高速练车应该能提高车技，而且开车那么爽，大家都是这么过来的吗？有没有自己开车技巧？</description><pubDate>Sun, 24 Sep 2023 11:08:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976723#reply0</guid></item><item><title>[程序员] 看新闻了么？以后在国内访问 github 也是违法。。。所产生的收益是违法所得</title><link>https://www.v2ex.com/t/976722#reply9</link><description>有个程序员被没收所有收入了。。。。</description><pubDate>Sun, 24 Sep 2023 11:02:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976722#reply9</guid></item><item><title>[Apple] Apple one 印区家庭组 4 缺 2 长期车发车，季付 26</title><link>https://www.v2ex.com/t/976721#reply0</link><description>&lt;p&gt;apple one 印度区合租，apple tv, apple music, apple arcade （游戏）+iCloud200G （人均 50G ）。4 人车补 2 人，季付¥26 ！有意请留联系方式&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 10:41:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976721#reply0</guid></item><item><title>[程序员] 部署方案搞得花里胡哨并不会有什么好处，只会陷入失控</title><link>https://www.v2ex.com/t/976720#reply3</link><description>&lt;p&gt;故事的背景是来自于 HomeLab 上的一套 K8S ，部署了 Grafana 等应用，后端存储需要一个 MySQL……怎么部署这个 MySQL 呢？&lt;br /&gt;
-先看了一眼 &lt;a href="http://dev.mysql.com" rel="nofollow"&gt;dev.mysql.com&lt;/a&gt; 里边，有个 MySQL Operator for Kubernetes 。很好，就他了！默认直接一个三副本集群，走的是 Group Replication 的方案……&lt;br /&gt;
-然后 MySQL 存储 PVC 咋么搞呢？ local pv ？不如直接 Ceph ？然后看了一眼 Rook Ceph ，直接一把梭……默认又是一个三副本的集群起来了……&lt;br /&gt;
-很好，到这里一份数据存三遍在一块盘里，三块盘一共存了九份……倒也不是不能接受……反正就是浪费一丢丢丢空间而已嘛……&lt;br /&gt;
-重启了一趟，运维灾难就来了。重启以后得等 Rook Ceph 的所有 Pod 拉起来，然后所有 Pod 的 PV 才能用……进一步的，MySQL Group Replication 要开始选举，选举出 Master 以后还不能用……所有的 Slave 要重新做主从同步，这个时候由于 Ceph 本身 I/O 性能不如裸盘导致这个同步奇慢无比……再加上 MySQL Group Replication 插件时不时还会有一些报错：Fatal error during execution on the Applier module of Group Replication.自始至终集群状态都是不可用，MySQL Router 一直处于 CrashLoopBackOff 的状态……进一步所有应用因为连不上 MySQL ，一直 CrashLoopBackOff……&lt;br /&gt;
-每次重启就得为这个错误的选择浪费一下午时间……&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 10:33:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976720#reply3</guid></item><item><title>[求职] 求一份远程的前端工作机会</title><link>https://www.v2ex.com/t/976719#reply0</link><description>求一份前端远程工作机会，技术栈：react / ts / tailwind.css ，后端会 Node.js, 熟悉 Koa.js / Egg.js, nest.js 目前正在看。最近也有在写一些 Rust 、Go 开源项目，github: &lt;a href="https://github.com/eryue0220" rel="nofollow noopener" target="_blank"&gt;https://github.com/eryue0220&lt;/a&gt; 上面有在贡献的一些开源项目。&lt;br /&gt;&lt;br /&gt;如果你对开源项目有兴趣，或者有好的建议及工作机会，可以私聊我。</description><pubDate>Sun, 24 Sep 2023 10:32:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976719#reply0</guid></item><item><title>[路由器] 小米万兆路由器能装 kmod 包什么的吗？</title><link>https://www.v2ex.com/t/976718#reply0</link><description>&lt;p&gt;小米官方固件拉的一比，只支持 PPPoE 拨号&lt;br /&gt;
-不知道能不能安装 kmod-ip6-tunnel 和 ds-lite 架 4in6 隧道&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 10:28:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976718#reply0</guid></item><item><title>[Surge] Surge v5 for mac 5 人车组队 2=3</title><link>https://www.v2ex.com/t/976717#reply0</link><description>&lt;p&gt;一个车位 150 t: &lt;a href="https://t.me/Chris_Lluw" rel="nofollow"&gt;https://t.me/Chris_Lluw&lt;/a&gt;
-2=3&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 10:26:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976717#reply0</guid></item><item><title>[iPhone] iOS 微信后台截图(谣言?)</title><link>https://www.v2ex.com/t/976716#reply0</link><description>&lt;h3&gt;后台截图这个事情不止是微信有的,telegram 也有&lt;/h3&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Sep 2023 20:44:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] torch 调用的 cpp 如何调试</title><link>https://www.v2ex.com/t/976782#reply0</link><description>&lt;p&gt;比如这个文件：&lt;br /&gt;
+&lt;a href="https://github.com/activatedgeek/simplex-gp/blob/master/gpytorch_lattice_kernel/cpp/lattice.cpp" rel="nofollow"&gt;https://github.com/activatedgeek/simplex-gp/blob/master/gpytorch_lattice_kernel/cpp/lattice.cpp&lt;/a&gt;&lt;br /&gt;
+似乎用 torch.utils.cpp_extension.load   他就会自动生成 so 然后载入成 python 的一个函数了 但是好像没法调试 c++内部的 code    &lt;/p&gt;
+&lt;p&gt;不太懂 c++，所以这个是怎么编译的 我试着写了个 makefile 感觉没法不使用 torch 编译出 so 文件&lt;br /&gt;
+更不用说调试这个 so 文件了&lt;br /&gt;
+我的理解是调用了 torch 和 pybind11 的头文件只要把 PATH 加到 cmake 的 flag 里就行了?&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 20:28:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976782#reply0</guid></item><item><title>[OpenAI] 收购逾期账单号</title><link>https://www.v2ex.com/t/976781#reply0</link><description>大量求购 ChatGPT 3.5/4.0api 逾期好&lt;br /&gt;要求:&lt;br /&gt;1:大于＞ 2 个月的账单&lt;br /&gt;2:额度大于＞ 3000 刀&lt;br /&gt;&lt;br /&gt;有货联系我发截图&lt;br /&gt;tg:gpt9900&lt;br /&gt;&lt;br /&gt;v:gpt9922</description><pubDate>Sun, 24 Sep 2023 19:44:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976781#reply0</guid></item><item><title>[iPhone] iPhone 15 Pro 自动断开重连 160 MHz Wi-Fi 后断网</title><link>https://www.v2ex.com/t/976780#reply0</link><description>&lt;p&gt;本来想着 iPhone 总算支持了 160 MHz 频宽是件好事，但随即发现有一个严重 bug：拿着手机远离路由器直至断连，然后返回路由器处，当手机自动重连上 Wi-Fi 后，虽然右上角图标显示 Wi-Fi 已连接，但实际处于网络断开的状态，无论是局域网还是互联网都无法访问，从路由器上看手机的连接速率也只有几十 Mbps ，但是 App 通知倒仍然可以推送 ；手动关闭 Wi-Fi 然后重新打开，网络恢复。&lt;/p&gt;
+&lt;p&gt;使用的手机：国行 iPhone 15 Pro 256G
+使用的路由器：国行 ASUS AX86U&lt;/p&gt;
+&lt;p&gt;已经尝试还原手机的网络设置，路由器无线设置也各种参数调整过一遍，问题依旧；而唯独将路由器 160 MHz 关闭后，问题解决。由于手头没有其他的便携 160 MHz 客户端，所以不确定是手机还是路由器的问题，想在这问问有没有遇到同样现象的朋友。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 19:38:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976780#reply0</guid></item><item><title>[Markdown] 如何优雅地标识每个章节的结尾？</title><link>https://www.v2ex.com/t/976779#reply5</link><description>&lt;p&gt;有点钻牛角尖，钻设计缺陷。章节折叠确实不好用。&lt;/p&gt;
+&lt;p&gt;Markdown 和 html 和 xml 不同。html 之类的通常每个“节点”都是有开始和结束标记。&lt;/p&gt;
+&lt;p&gt;Markdown 章节好像没有结束标记，折叠某个章节依靠编辑器自行的简单粗暴理解。其次，（在本人的认知范围内）没有结束标记导致章节从属关系需要手工判断再调节、强制用户思考该段文字应所属的层级等等问题，比如这种：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;### 三级标题
+
+#### 四级标题
+
+!!!想单纯放一段内容，不想从属于某级的标题。但是多数 app 会将其归属于上级标题。折叠进上级标题。
+
+#### 四级标题
+
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Sep 2023 17:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976779#reply5</guid></item><item><title>[分享创造] 国庆头像制作，给头像加上各种国庆节元素挂件，让朋友圈更秀！</title><link>https://www.v2ex.com/t/976778#reply1</link><description>&lt;p&gt;&lt;img alt="973shots_so.png" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/25/aTSrsCCw.png" /&gt;&lt;/p&gt;
+&lt;p&gt;集美美图 APP 发布了全新的 5.0 版本，新版本最重磅的功能就是国庆头像制作功能，提供丰富的国庆节元素。&lt;/p&gt;
+&lt;p&gt;官网：&lt;a href="https://jmmt.mmkj.tech/" rel="nofollow"&gt;https://jmmt.mmkj.tech/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 17:03:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976778#reply1</guid></item><item><title>[问与答] 怎么理解 scrapy 的 xpath? xpath 字符串未像预期工作.</title><link>https://www.v2ex.com/t/976777#reply0</link><description>&lt;p&gt;我将 response 写入本地 html 文件, 然后浏览器打开, 用 xpath helper 来验证自己的 xpath 字符串能否工作.  &lt;/p&gt;
+&lt;p&gt;测试结果是正常工作(匹配)的.  &lt;/p&gt;
+&lt;p&gt;但是将该字符串传递给 response.xpath 就无法正常匹配.&lt;/p&gt;
+&lt;p&gt;明明是同一个 response. 为什么会这样呢?&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 16:40:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976777#reply0</guid></item><item><title>[摄影] 明天去日本旅行，带什么镜头？</title><link>https://www.v2ex.com/t/976776#reply9</link><description>目前相机是尼康 Z5 ，镜头有 24-50 套机、24-200/f4-6.3 、50/1.8S 。主要是拍风景吧，OP 是业余拍照选手，希望大家给点建议，太重只想带一个镜头。</description><pubDate>Sun, 24 Sep 2023 16:22:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976776#reply9</guid></item><item><title>[程序员] Top 50 生成式 AI 发展趋势报告（知名风投 a16z 发布）</title><link>https://www.v2ex.com/t/976775#reply0</link><description>&lt;p&gt;近日，知名风投公司 a16z （ Andreessen Horowitz ）发表了一篇文章，按每月访问量对前 50 名 GenAI （生成式 AI ） Web 产品进行了排名。  &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;不过受限于 telegram 的保护,imazing 提取出来的相关备份不带有任何数据,但是微信可以使用 imazing 的备份应用程序数据,获取到截图相关的文件&lt;/li&gt;
-&lt;li&gt;需要将提取出来的 &lt;code&gt;.imazingapp&lt;/code&gt; 后缀更改为 &lt;code&gt;.ipa&lt;/code&gt; ,然后使用 压缩软件进行解压即可&lt;/li&gt;
-&lt;li&gt;imazing 微信截图路径: /WeChat/Container/Documents/----/MinimizeRec_v1.4/SnapShot/webview_id:/local/  可以直接搜索 SnapShot 获取相关路径&lt;/li&gt;
-&lt;li&gt;由于 telegram 的保护机制,所以只能&lt;strong&gt;越狱&lt;/strong&gt;的 iPhone 设备才能验, 搜索 Snapshots 即可&lt;/li&gt;
+&lt;li&gt;大多数领先的产品都是围绕生成式 AI 从头开始构建的  &lt;/li&gt;
+&lt;li&gt;目前，ChatGPT 遥遥领先  &lt;/li&gt;
+&lt;li&gt;LLM 助理（如 ChatGPT ）占主导地位，但陪伴和创意工具也在增长  &lt;/li&gt;
+&lt;li&gt;早期的“赢家”已经出现，但大多数产品类别仍待争夺  &lt;/li&gt;
+&lt;li&gt;对于顶级产品的使用完全是依靠自然流量，消费者也愿意付费  &lt;/li&gt;
+&lt;li&gt;移动应用仍然是新兴的 GenAI 平台  &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;疑惑: 为什么软件要截图保存到本地呢?有没有从事 iOS 开发的大佬回答一下&lt;/h3&gt;
+&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/49UNWuv51d-Z4QU3SBJCHA" rel="nofollow"&gt;Top 50 生成式 AI 发展趋势报告（知名风投 a16z 发布）&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:54:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976775#reply0</guid></item><item><title>[问与答] 旧 iPhone 数据传输到新 iPhone 后，还有必要再单独迁移微信聊天记录吗？</title><link>https://www.v2ex.com/t/976772#reply2</link><description>&lt;p&gt;感觉传输完成后，微信聊天记录也有了。搜了下几年前都都在，但是占用空间却小了很多。单独在微信中再迁移后，占用空间又回去了。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:24:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976772#reply2</guid></item><item><title>[问与答] 360 杀毒以及腾讯管家能否上传白名单？</title><link>https://www.v2ex.com/t/976770#reply2</link><description>&lt;p&gt;自己写了个小软件总报毒，用的人多了总被杀，手动添加信任太麻烦。有没有提交白名单的机制啊&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:17:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976770#reply2</guid></item><item><title>[macOS] mac os 窗口不定时失焦的问题</title><link>https://www.v2ex.com/t/976769#reply0</link><description>这段时间不知道什么软件有冲突，总是出现窗口莫名之妙失去焦点的问题，尤其是打字的时候，搜索了一下，发现以下代码，但不知道怎么运行，有朋友能教我一下吗？&lt;br /&gt;#!/usr/bin/python&lt;br /&gt;try:&lt;br /&gt;    from AppKit import NSWorkspace&lt;br /&gt;except ImportError:&lt;br /&gt;    print("Can't import AppKit -- maybe you're running python from brew?")&lt;br /&gt;    print("Try running with Apple's /usr/bin/python instead.")&lt;br /&gt;    exit(1)&lt;br /&gt;&lt;br /&gt;from datetime import datetime&lt;br /&gt;from time import sleep&lt;br /&gt;&lt;br /&gt;last_active_name = None&lt;br /&gt;while True:&lt;br /&gt;    active_app = NSWorkspace.sharedWorkspace().activeApplication()&lt;br /&gt;    if active_app['NSApplicationName'] != last_active_name:&lt;br /&gt;        last_active_name = active_app['NSApplicationName']&lt;br /&gt;        print('%s: %s [%s]' % (&lt;br /&gt;            datetime.now().strftime('%Y-%m-%d %H:%M:%S'),&lt;br /&gt;            active_app['NSApplicationName'],&lt;br /&gt;            active_app['NSApplicationPath']&lt;br /&gt;        ))&lt;br /&gt;    sleep(1)</description><pubDate>Sun, 24 Sep 2023 15:17:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976769#reply0</guid></item><item><title>[程序员] 我刚上线一个免费 AI 绘图平台就听说 DALL·E3 要来了，看效果很惊艳</title><link>https://www.v2ex.com/t/976768#reply1</link><description>&lt;p&gt;不要 GPU ，不要 CPU ，我的免费 AI 绘图平台： &lt;a href="https://craionai.com" rel="nofollow"&gt;https://craionai.com&lt;/a&gt; ，最近刚上线。然后听说 ChatGPT + AI 绘图的 DALL·E3 要来了，看介绍很惊艳，后续考虑接入&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:06:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976768#reply1</guid></item><item><title>[iOS] iOS 搜狗输入法开始在键盘上方显示广告</title><link>https://www.v2ex.com/t/976765#reply4</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-cc482ce588a0e82761cad867dc54c2a5_1440w.png" /&gt;
+点按那行文字后，会跳转到 App Store 。是腾讯公司的一款手机游戏。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:03:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976765#reply4</guid></item><item><title>[宽带症候群] 能合法上外网的专线是什么样的？</title><link>https://www.v2ex.com/t/976763#reply55</link><description>最近看到很多人宣称，企业可以合法合规地申请到能够访问油管、脸书等外网的服务，但未见到有人能够给出具体业务的名称。考虑到可能只有三大运营商有相关资质，我针对运营商找到一份《浙江联通和客户跨境电路服务协议》，其并没有表明专线是否经过数据跨境安全网关，更是载明“不得将跨境云专线与互联网相连接”。这可能表明类似的专线业务主要用于连接企业境内外的办公场地，本身并不提供合法访问外网（即不属于穿透、绕过网关）的支持。考虑到在 V 站看到过网友提及自己公司有合规的外网访问，所以想好奇一下：&lt;br /&gt;&lt;br /&gt;1. 能合法上外网的专线，其具体的业务名称叫什么?&lt;br /&gt;2. 专线提供的是能直接上外网的服务，或仅仅是连接境内外服务器的服务？&lt;br /&gt;3. 服务的合同里是否含有类似于“不得与互联网相连接”的条款，又或是能证明访问外网合法合规的条款?&lt;br /&gt;4. 该业务小微企业就能申请，还是只有大企业才可能有资质？&lt;br /&gt;5. 是否有宣传材料、格式合同供参考？&lt;br /&gt;&lt;br /&gt;另外，最近不少地区在搞国际互联网专用通道。如果仅仅只是降低延迟，感觉并不需要工信部一个个去批准。那么这些通道的意思是否是可以直接访问外网？谢谢</description><pubDate>Sun, 24 Sep 2023 14:50:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976763#reply55</guid></item><item><title>[Go 编程语言] Go's Assembler 01: 阅读和理解</title><link>https://www.v2ex.com/t/976761#reply0</link><description>&lt;p&gt;Go 在 Plan9 的基础上定义了自己的汇编语言.
+代码经过编译后会生成对应的汇编语言, 随后根据目标平台生成精确的, 机器相关的指令.
+具体可以参见 &lt;a href="https://go.dev/doc/asm" rel="nofollow"&gt;A Quick Guide to Go's Assembler&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;作为一个编译的门外汉来了解 Go 的编译逻辑的一个问题就是 Plan9 的资料稀缺,
+导致理解 Go 的汇编结果时很容易卡在某个点.
+所以我开了下脑洞, 既然 x64 的汇编资源非常全, 不如我们先看最终生成的 x64 汇编, 再来看 Go 汇编.
+&lt;a href="https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf" rel="nofollow"&gt;X64 Cheat Sheet&lt;/a&gt; 是一份非常好的 X64 汇编入门文档, 可以按需阅读.&lt;/p&gt;
+&lt;p&gt;全文使用 go1.21.1, 编译针对 linux/amd64.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;编译的命令为 &lt;code&gt;GOOS=linux GOARCH=amd64 go21 build main.go&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;通过 objdump 获取 x64 汇编结果 &lt;code&gt;objdump -j .text -S main &amp;gt; objdump&lt;/code&gt;,&lt;/li&gt;
+&lt;li&gt;通过 go tool objdump 获取 Go 汇编结果 &lt;code&gt;go21 tool objdump main &amp;gt; goobjdump&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;add&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func add(a, b int) (int, bool) {
+	return a + b, true
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;注解 &lt;code&gt;//go:noinline&lt;/code&gt; 用于告诉编译器不要进行 inline 优化,
+即避免编译器自动将调用这些函数的地方替换成函数代码.&lt;/p&gt;
+&lt;p&gt;Go 在 1.17 从 stack-based calling convention 切换到了 register-based calling convention,
+即之前通过 stack 在调用函数时传递参数和返回值, 这是 Plan9 的惯例,
+之后通过寄存器传递参数和返回值, 带来了性能的提升.&lt;/p&gt;
+&lt;p&gt;但在寄存器的使用上, Go 没有遵循 x64 的默认习俗.
+调用者(caller) 将 add 的两个参数存放在寄存器 rax 和 rbx.
+被调用者(callee) 将两个返回值存放在寄存器 rax 和 rbx.&lt;/p&gt;
+&lt;p&gt;生成的 x64 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.add&amp;gt;:" -A 10
+129310  0000000000457680 &amp;lt;main.add&amp;gt;:
+129311  ;       return a + b, true
+129312    457680: 48 01 d8                      addq    %rbx, %rax      ; 调用参数被保存在寄存器 rax 和 rbx
+129313    457683: bb 01 00 00 00                movl    $1, %ebx        ; ebx 和 rbx 是同一个寄存器, ebx 对应前 4 字节, rbx 对应全部的 8 字节
+129314    457688: c3                            retq                    ; 返回值已经保存在寄存器 rax 和 rbx 内
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.add" -A 10
+ 82843  TEXT main.add(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
+ 82844    main.go:5             0x457680                4801d8                  ADDQ BX, AX
+ 82845    main.go:5             0x457683                bb01000000              MOVL $0x1, BX
+ 82846    main.go:5             0x457688                c3                      RET
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;if&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func max(a, b int) int {
+	if a &amp;gt; b {
+		return a
+	}
+	return b
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.max&amp;gt;:" -A 30
+129339  00000000004576a0 &amp;lt;main.max&amp;gt;:
+129340  ;       if a &amp;gt; b {
+129341    4576a0: 48 39 c3                      cmpq    %rax, %rbx              ; cmp 将 rbx-rax 的结果保存到条件寄存器
+129342    4576a3: 7d 01                         jge     0x4576a6 &amp;lt;main.max+0x6&amp;gt; ; 如果 cmp 的结果大于等于 0, 则跳转到对应地址的指令
+129343  ;               return a
+129344    4576a5: c3                            retq
+129345  ;       return b
+129346    4576a6: 48 89 d8                      movq    %rbx, %rax              ; 返回结果需要保存到 rax, 所以需要将 rbx 的值转移到 rax
+129347    4576a9: c3                            retq
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.max" -A 10
+ 82848  TEXT main.max(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
+ 82849    main.go:10            0x4576a0                4839c3                  CMPQ BX, AX
+ 82850    main.go:10            0x4576a3                7d01                    JGE 0x4576a6
+ 82851    main.go:11            0x4576a5                c3                      RET
+ 82852    main.go:13            0x4576a6                4889d8                  MOVQ BX, AX
+ 82853    main.go:13            0x4576a9                c3                      RET
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;for&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func sum(numbers []int) int {
+	sum := 0
+	for i := 0; i &amp;lt; len(numbers); i++ {
+		sum += numbers[i]
+	}
+	return sum
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.sum&amp;gt;:" -A 30
+129371  00000000004576c0 &amp;lt;main.sum&amp;gt;:
+129372  ; func sum(numbers []int) int {
+129373    4576c0: 48 89 44 24 08                movq    %rax, 8(%rsp)       ; 将 rax 的值存放到 stack, TODO: 为什么需要这么做, 为什么是 8.
+129374    4576c5: 31 c9                         xorl    %ecx, %ecx          ; 清空寄存器 rcx 的前 4 字节
+129375    4576c7: 31 d2                         xorl    %edx, %edx
+129376  ;       for i := 0; i &amp;lt; len(numbers); i++ {
+129377    4576c9: eb 0a                         jmp     0x4576d5 &amp;lt;main.sum+0x15&amp;gt;
+129378  ;               sum += numbers[i]
+129379    4576cb: 48 8b 34 c8                   movq    (%rax,%rcx,8), %rsi ; 将 numbers[i] 存在到 rsi, rax 是数组地址, rcx 是 i, 8 代表元素占 8 字节
+129380  ;       for i := 0; i &amp;lt; len(numbers); i++ {
+129381    4576cf: 48 ff c1                      incq    %rcx
+129382  ;               sum += numbers[i]
+129383    4576d2: 48 01 f2                      addq    %rsi, %rdx
+129384  ;       for i := 0; i &amp;lt; len(numbers); i++ {
+129385    4576d5: 48 39 cb                      cmpq    %rcx, %rbx          ; 判断 i &amp;lt; len(numbers), rbx 保存了数组大小, 由调用者赋值
+129386    4576d8: 7f f1                         jg      0x4576cb &amp;lt;main.sum+0xb&amp;gt;
+129387  ;       return sum
+129388    4576da: 48 89 d0                      movq    %rdx, %rax          ; 返回结果需要存储在 rax
+129389    4576dd: c3                            retq
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对应的 Go 汇编&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.sum" -A 10
+ 82855  TEXT main.sum(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
+ 82856    main.go:17            0x4576c0                4889442408              MOVQ AX, 0x8(SP)
+ 82857    main.go:17            0x4576c5                31c9                    XORL CX, CX
+ 82858    main.go:17            0x4576c7                31d2                    XORL DX, DX
+ 82859    main.go:19            0x4576c9                eb0a                    JMP 0x4576d5
+ 82860    main.go:20            0x4576cb                488b34c8                MOVQ 0(AX)(CX*8), SI
+ 82861    main.go:19            0x4576cf                48ffc1                  INCQ CX
+ 82862    main.go:20            0x4576d2                4801f2                  ADDQ SI, DX
+ 82863    main.go:19            0x4576d5                4839cb                  CMPQ BX, CX
+ 82864    main.go:19            0x4576d8                7ff1                    JG 0x4576cb
+ 82865    main.go:22            0x4576da                4889d0                  MOVQ DX, AX
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;main&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;func main() {
+	add(10, 20)
+	max(10, 20)
+	sum([]int{10, 20})
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.main&amp;gt;:" -A 60
+129393  00000000004576e0 &amp;lt;main.main&amp;gt;:
+129394  ; func main() {
+129395    4576e0: 49 3b 66 10                   cmpq    16(%r14), %rsp  ; Go 用于判断 stack 是否需要扩容的方法
+129396    4576e4: 76 56                         jbe     0x45773c &amp;lt;main.main+0x5c&amp;gt;
+129397    4576e6: 55                            pushq   %rbp            ; 在函数执行之前, 需要将 base pointer 暂存在 stack
+129398    4576e7: 48 89 e5                      movq    %rsp, %rbp      ; 并将 stack pointer 的值赋给 bp
+129399    4576ea: 48 83 ec 28                   subq    $40, %rsp       ; 在 stack 中预先分配 40 字节
+129400  ;       add(10, 20)
+129401    4576ee: b8 0a 00 00 00                movl    $10, %eax
+129402    4576f3: bb 14 00 00 00                movl    $20, %ebx
+129403    4576f8: e8 83 ff ff ff                callq   0x457680 &amp;lt;main.add&amp;gt;
+129404  ;       max(10, 20)
+129405    4576fd: b8 0a 00 00 00                movl    $10, %eax
+129406    457702: bb 14 00 00 00                movl    $20, %ebx
+129407    457707: e8 94 ff ff ff                callq   0x4576a0 &amp;lt;main.max&amp;gt;
+129408  ;       sum([]int{10, 20})
+129409    45770c: 44 0f 11 7c 24 18             movups  %xmm15, 24(%rsp)    ; xmm15 是 16 字节的寄存器, 配合 movups 用于清空栈中 24~40 字节
+129410    457712: 48 c7 44 24 18 0a 00 00 00    movq    $10, 24(%rsp)
+129411    45771b: 48 c7 44 24 20 14 00 00 00    movq    $20, 32(%rsp)
+129412    457724: 48 8d 44 24 18                leaq    24(%rsp), %rax      ; 将数组的地址存放到寄存器 rax
+129413    457729: bb 02 00 00 00                movl    $2, %ebx            ; 将数据的元素个数存放到 rbx
+129414    45772e: 48 89 d9                      movq    %rbx, %rcx
+129415    457731: e8 8a ff ff ff                callq   0x4576c0 &amp;lt;main.sum&amp;gt;
+129416  ; }
+129417    457736: 48 83 c4 28                   addq    $40, %rsp       ; 释放在函数最初分配给栈的 40 字节
+129418    45773a: 5d                            popq    %rbp            ; 恢复 base pointer
+129419    45773b: c3                            retq
+129420  ; func main() {
+129421    45773c: 0f 1f 40 00                   nopl    (%rax)
+129422    457740: e8 9b ce ff ff                callq   0x4545e0 &amp;lt;runtime.morestack_noctxt.abi0&amp;gt;
+129423    457745: eb 99                         jmp     0x4576e0 &amp;lt;main.main&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;细心的同学可能会思考为什么调用 main.sum 之前初始化数组是用 24(%rsp). 这是因为虽然 go's calling convention 已经从
+stack-base 切换到了 regisger-base. 但是可能出于兼容或者上面目的, 依然在 stack 为通过 register 传递的参数和返回值保留空间.&lt;/p&gt;
+&lt;p&gt;Ref &lt;a href="https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md#function-call-argument-and-result-passing" rel="nofollow"&gt;Function call argument and result passing&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;来源: 最开始是在 tg 看到的,后来这个频道删除了相关消息,然后陆陆续续推特也开始讨论&lt;/p&gt;
+&lt;p&gt;Beyond the arguments and results passed on the stack, the caller also reserves spill space on the stack for all register-based arguments (but does not populate this space).&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="tg 消息" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GrMTynT.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 10:23:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976716#reply0</guid></item><item><title>[Apple] ios 屏蔽运营商一键登录</title><link>https://www.v2ex.com/t/976715#reply0</link><description>ios 有办法屏蔽运营商的一键登录功能吗？国产 App 调用运营商的一键登录都不是我用的号码，每次都要手动切换才行。</description><pubDate>Sun, 24 Sep 2023 10:22:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976715#reply0</guid></item><item><title>[Java] 求助大佬们， springBoot 项目部署在外部 Tomcat 中， Tomcat 在 server.xml 中配置的共享线程池和在 springboot 中配置的共享线程池有什么区别和联系吗？需要全部配置吗？# Java #</title><link>https://www.v2ex.com/t/976714#reply0</link><description></description><pubDate>Sun, 24 Sep 2023 10:17:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976714#reply0</guid></item><item><title>[站长] cloudflare warp team 账号可以访问 youtube, 但是 ip 检测又识别为江苏南通的 cloudflare 机房, chatgpt 识别的 ip 也是江苏南通, 有前辈知道这是什么原因吗</title><link>https://www.v2ex.com/t/976710#reply1</link><description></description><pubDate>Sun, 24 Sep 2023 09:52:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976710#reply1</guid></item><item><title>[Apple] 问一下，苹果官方支持仅回收而不买东西吗</title><link>https://www.v2ex.com/t/976709#reply2</link><description>&lt;p&gt;我 mac 换新了，想把旧的出掉，本来在京东上估价还算满意，本着不想麻烦的态度，就出给京东了。没想到京东拿到货之后（他们二手供应商是爱回收），到手刀 2000 多，就离谱，说检测我外壳磕碰/变形/断裂。但是我的电脑除了有个地方掉点漆之外，成色算完美的。&lt;/p&gt;
-&lt;p&gt;完全被恶心到了，我他妈送人，也不给爱回收。&lt;/p&gt;
-&lt;p&gt;我想问下，苹果官方有个回收，但是得买东西才回收。我想在苹果官方随便买个产品回收后再退货退款，这样是不是达到了仅回收的目的，有人这么试过吗？&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 09:40:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976709#reply2</guid></item><item><title>[计算机] 国庆，双 11 打算圆个梦，配台电脑，帮忙看看配置怎么样</title><link>https://www.v2ex.com/t/976708#reply9</link><description>国庆，双 11 打算圆个梦&lt;br /&gt;第一次配电脑，大伙儿帮忙看看配置有没有什么&lt;br /&gt;1. 搭配不合理的地方&lt;br /&gt;2. 明显的短板&lt;br /&gt;3. 哪个品牌不行的&lt;br /&gt;4. 等等等等。。。&lt;br /&gt;&lt;br /&gt;CPU	i9 13900K 散片&lt;br /&gt;主板	微星 Z790 A PRO WIFI D5&lt;br /&gt;内存	金百达 黑刃 32*2 6400 灯条&lt;br /&gt;显卡	微星 RTX 4090 GAMING X 魔龙 24G （考虑上超龙）&lt;br /&gt;散热	先马 XW360 PLUS 黑色水冷 带屏幕 无风扇版&lt;br /&gt;硬盘	三星 990PRO 2T PCIE 4.0&lt;br /&gt;电源	振华 VG 1000W 金牌全模组&lt;br /&gt;机箱	联立包豪斯 EVO 黑色&lt;br /&gt;风扇	棱镜 4 代 ARGB 黑色*10 个 6 反</description><pubDate>Sun, 24 Sep 2023 09:38:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976708#reply9</guid></item><item><title>[程序员] 请问如何将某域名下所有 url 重定向为本地文件夹？</title><link>https://www.v2ex.com/t/976703#reply3</link><description>&lt;p&gt;我 markdownd 中有一些链接
-&lt;a href="http://www.michael.cn/test1.jpg" rel="nofollow"&gt;http://www.michael.cn/test1.jpg&lt;/a&gt;
-&lt;a href="http://www.michael.cn/download/test2.mp4" rel="nofollow"&gt;http://www.michael.cn/download/test2.mp4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我想把 &lt;a href="http://www.michael.cn/%E5%8F%8A%E5%AD%90%E6%96%87%E4%BB%B6%E5%A4%B9%E5%92%8C%E6%96%87%E4%BB%B6%EF%BC%8C%E9%83%BD%E6%98%A0%E5%B0%84%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%9B%AE%E5%BD%95/users/michael/%E4%B8%8B%E9%9D%A2" rel="nofollow"&gt;http://www.michael.cn/及子文件夹和文件，都映射到本地目录/users/michael/下面&lt;/a&gt;
-以上两个文件的实际地址为：
-/users/michael/test1.jpg
-/users/michael/download/test2.mp4&lt;/p&gt;
-&lt;p&gt;Mac 上如何实现？ Surge 可以吗？谢谢&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 09:06:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976703#reply3</guid></item><item><title>[Apple] HomePod 连接 AppleTV 后无法隔空播放音乐？</title><link>https://www.v2ex.com/t/976701#reply3</link><description>&lt;p&gt;Apple TV 、HomePod 、iPhone 、iCloud 、Music 一切都是连接的国区 apple id
-目前是 Apple TV 配对 HomePod 后无法通过隔空播放功能播放音乐了，除了 Apple TV 能输出声音外，用 iPhone 什么软件都连接不上，提示“隔空播放，无法连接家庭影院”，应该不是 appleid 和网络的原因，有知道怎么解决吗？
-目前就是想在 AppleTV 关闭后或不输出声音时，iPhone 隔空播放音乐用&lt;/p&gt;
-&lt;p&gt;其他信息：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;siri 也无法播放音乐&lt;/li&gt;
-&lt;li&gt;iPhone 能看到显示“家庭影院”的 icon ，显示一个 HomePod 和 AppleTV 的图标&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 24 Sep 2023 09:02:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976701#reply3</guid></item><item><title>[MacBook Pro] 请教一下各位 ， macbook pro 不能连接触摸便携屏吗？</title><link>https://www.v2ex.com/t/976700#reply1</link><description>&lt;p&gt;macbook 型号是 m2pro ，屏幕是自己用 9.7 寸 iPad4 改装的触摸便携屏，然后用雷电 3 的线连接的。之前在 windows 上面可以一线连，可以用触摸，但是现在在 mac 上面只能显示，不能触摸，该怎么办？&lt;/p&gt;
-&lt;p&gt;另外，请教一下 iPad Pro 可以通过触摸控制 mac 吗？我问了客服说是可以，但是我实操下来不行。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 08:58:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976700#reply1</guid></item><item><title>[程序员] 设备局域网内访问问题，熬夜五天依旧无解，求解惑</title><link>https://www.v2ex.com/t/976697#reply9</link><description>&lt;h1&gt;1. 第一天 发现群晖访问速度特别慢，几乎不能用，做了以下操作&lt;/h1&gt;
-&lt;p&gt;1.1 重启 无效
-1.2 去掉所有硬盘再次开机 无效
-1.3 怀疑是引导盘问题，被告知运行时引导盘不会有影响
-1.4 更换 BIOS 电池 无效
-1.5 走了一个 trainsmission 下载（有时候莫名其妙的某个服务突然能访问，非常不稳定），发现速度能达到 60M ，也就是下行没有任何问题
-1.6 怀疑是路由冲突，更改了 IP 地址绑定 无效&lt;/p&gt;
-&lt;p&gt;一路问客服+胡思乱想各种尝试，搞到了 2 点，睡觉了&lt;/p&gt;
-&lt;h1&gt;2. 第二天 放弃一波，换一个系统&lt;/h1&gt;
-&lt;p&gt;2.1 重启路由器 无效
-2.2 从软路由换成华为路由器 无效
-2.3 擦拭内存条 无效
-2.4 准备用 ssh 备份好关键文件，发现 ssh 命令执行一半就会失去连接。还好有做定期备份，准备从阿里云上重新下载，放弃了硬盘内容
-2.5 把系统换成了 openwrt ，主要为了 WEB 图形界面
-2.6 因为对 OPENWRT 当 NAS 这块不是很熟，只能以旁路由配置为参考配置
-2.7 对 openwrt 不是很熟悉，有一块配置搞错了，又重新刷，还好系统盘里没放多少东西，不用重新搞&lt;/p&gt;
-&lt;p&gt;看到 OPENWRT 图形界面和网络可以正常访问了，我就睡觉了，这晚我搞到了 4 点半&lt;/p&gt;
-&lt;h1&gt;3. 第三天 OPENWRT 有类似问题，但只以为是配置问题&lt;/h1&gt;
-&lt;p&gt;3.1 上班摸了一天的鱼、搞 DOCKER 恢复之前群晖里的主要服务和文件（这时候都是好的）
-3.2 回家路上开始用 navidrome 听歌，发现几乎播放不了
-3.3 到家了发现，所有的服务都和之前一样无法访问了
-3.4 发现手机可以正常访问，原来是 2.2 时，用了两个华为路由器，原本负责 wifi 的路由器网段变成了 192.168.3 ，不再是.2 网段，感觉像是 OPENWRT 配置问题，继续死磕配置，看了很多恩山上的帖子和配置&lt;/p&gt;
-&lt;p&gt;2 点了，睡了（直到这时候还是觉得是因为配置问题）&lt;/p&gt;
-&lt;h1&gt;4. 第四天 放弃 OPENWRT ，搞 TRUENAS 、CENTOS&lt;/h1&gt;
-&lt;p&gt;4.1 又搞了一堆有的没的，到 12 点多开始坐不住了，准备换系统
-4.2 思路很简单，OPENWRT 网络配置比较多我搞不来，TRUENAS 、CENTOS 我只用默认的配置还不行？
-4.3 搞 TRUENAS 。。。。一堆配置，头疼，还要看教程（当时半夜了也很烦躁），放弃
-4.4 搞 CENTOS
-4.5 搞 docker （有个 browserless/chrome 镜像一直拉不下来，registry-mirrors 我看是一个数组，就在数组里面添加了阿里云、网易云等镜像，后来发现没有用）
-4.6 搞硬盘（有个盘被 trueNas 格式化了，我在 Centos 里怎么格式化都是 zfs_member 格式，没办法挂载）
-4.7 搞 Docker&lt;/p&gt;
-&lt;p&gt;思维比较迟钝了，只会死磕了，中间歇歇弄弄，搞了早上 6 点，webdav 挂载感觉没啥问题了就睡觉了&lt;/p&gt;
-&lt;h1&gt;5. 第五天 发现端倪，无法解决，求助 V2 各路英雄&lt;/h1&gt;
-&lt;p&gt;5.1 恢复 Docker 之前的服务（重新配置了 DOCKER 镜像）
-5.2 用 PE 系统把昨晚一直格式化不了的分区重新格式化，成功了（不知道 centos 里用 mkfs 为什么没用，它还跑得贼慢，我是等着他跑了半个小时一个个把整个分区重写一遍的，然而啥用没有）
-5.3 恢复了 tinytinyrss 等 web 服务，发现还是访问不了
-5.4 尝试了一次，手机端（ 192.168.3 网段）依旧是可以正常访问
-5.5 把 NAS 放在了子路由下，通过子路由映射到 192.168.2 网段，发现没问题&lt;/p&gt;
-&lt;h1&gt;求助&lt;/h1&gt;
-&lt;p&gt;今天是第五天，因为上班原因，几乎天天熬夜，昨天用不用上班当借口，搞到了 6 点半。身子骨实在吃不消了。&lt;/p&gt;
-&lt;p&gt;老婆怀孕了，搞到 4 点那个晚上，她被我弄醒了，说你时不时敲键盘我实在睡不着，我等你一起睡吧。&lt;/p&gt;
-&lt;p&gt;唉，NAS 这件事已经影响到我的工作和生活了，今天还是解决不了，就准备重新买个 NAS 破钱消灾了&lt;/p&gt;
-&lt;p&gt;可能我就是又菜又爱玩，很多原理都不理解，而且在很多时候，特别是熬夜的时候思维迟钝下的死磕还是无用功。&lt;/p&gt;
-&lt;p&gt;花了五天时间，排除了很多问题和可能了，最后焦点就只剩下一个了：&lt;/p&gt;
-&lt;p&gt;** 1. 为什么 NAS 设备放在 192.168.2 网段，同为 192.168.2 网段的设备无法访问，即使其他同网段设备之间是没有任何问题的？ **
-** 2. 若是网络问题为什么 NAS 设备放在 192.168.3 网段，通过子路由端口转发到 192.168.2 网段就没有问题了呢 **&lt;/p&gt;
-&lt;p&gt;不知道各位 V 友有没有对这块比较了解或者碰到过类似情况的，求解！&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 08:46:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976697#reply9</guid></item><item><title>[iCloud] icloud 2t 5 人车 年付 90</title><link>https://www.v2ex.com/t/976695#reply1</link><description>&lt;p&gt;跳车不退,翻车的话按比例退&lt;/p&gt;
-&lt;p&gt;5 人 每人 400G&lt;/p&gt;
-&lt;p&gt;绿色软件：aGVsbG9fd29ybA==&lt;/p&gt;
-&lt;p&gt;还差一人&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 08:39:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976695#reply1</guid></item><item><title>[Apple] ios17wifi BUG 速度异常</title><link>https://www.v2ex.com/t/976693#reply0</link><description>&lt;p&gt;我的 wifi 配置是手动设置的网关 DNS ，&lt;/p&gt;
-&lt;p&gt;过一会儿 wifi 速度会非常慢，测速几 M 延迟 200 多&lt;/p&gt;
-&lt;p&gt;ios16 设备没问题，需要重新开关 wifi 才可以解锁。。&lt;/p&gt;
-&lt;p&gt;微博上也有很多相同的问题。。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 08:37:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976693#reply0</guid></item><item><title>[程序员] godaddy 注册域名提示此域名不可售，大家有遇到么？</title><link>https://www.v2ex.com/t/976692#reply0</link><description>&lt;p&gt;godaddy 注册域名提示此域名不可售，切换英文和国家都是如此，不登录清空浏览器记录也是一样&lt;/p&gt;
-&lt;p&gt;大家有遇到么？&lt;/p&gt;
-&lt;p&gt;其它域名也一样，比如 .com .vip .pro .tech&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 08:32:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976692#reply0</guid></item></channel></rss>
+&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.main" -A 1000
+ 82868  TEXT main.main(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/goasm/main.go
+ 82869    main.go:25            0x4576e0                493b6610                CMPQ SP, 0x10(R14)
+ 82870    main.go:25            0x4576e4                7656                    JBE 0x45773c
+ 82871    main.go:25            0x4576e6                55                      PUSHQ BP
+ 82872    main.go:25            0x4576e7                4889e5                  MOVQ SP, BP
+ 82873    main.go:25            0x4576ea                4883ec28                SUBQ $0x28, SP
+ 82874    main.go:26            0x4576ee                b80a000000              MOVL $0xa, AX
+ 82875    main.go:26            0x4576f3                bb14000000              MOVL $0x14, BX
+ 82876    main.go:26            0x4576f8                e883ffffff              CALL main.add(SB)
+ 82877    main.go:27            0x4576fd                b80a000000              MOVL $0xa, AX
+ 82878    main.go:27            0x457702                bb14000000              MOVL $0x14, BX
+ 82879    main.go:27            0x457707                e894ffffff              CALL main.max(SB)
+ 82880    main.go:28            0x45770c                440f117c2418            MOVUPS X15, 0x18(SP)
+ 82881    main.go:28            0x457712                48c74424180a000000      MOVQ $0xa, 0x18(SP)
+ 82882    main.go:28            0x45771b                48c744242014000000      MOVQ $0x14, 0x20(SP)
+ 82883    main.go:28            0x457724                488d442418              LEAQ 0x18(SP), AX
+ 82884    main.go:28            0x457729                bb02000000              MOVL $0x2, BX
+ 82885    main.go:28            0x45772e                4889d9                  MOVQ BX, CX
+ 82886    main.go:28            0x457731                e88affffff              CALL main.sum(SB)
+ 82887    main.go:29            0x457736                4883c428                ADDQ $0x28, SP
+ 82888    main.go:29            0x45773a                5d                      POPQ BP
+ 82889    main.go:29            0x45773b                c3                      RET
+ 82890    main.go:25            0x45773c                0f1f4000                NOPL 0(AX)
+ 82891    main.go:25            0x457740                e89bceffff              CALL runtime.morestack_noctxt.abi0(SB)
+ 82892    main.go:25            0x457745                eb99                    JMP main.main(SB)
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Sep 2023 14:46:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976761#reply0</guid></item><item><title>[Apple] 国行 iPhone 15 Pro Max 购买美区 AppleCare+失败</title><link>https://www.v2ex.com/t/976760#reply16</link><description>如题&lt;br /&gt;直接打了美区的客服电话，但是好几个客服都说中国买的手机只能在中国买 AppleCare+&lt;br /&gt;请问这个途径是被锁死了吗？</description><pubDate>Sun, 24 Sep 2023 14:44:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976760#reply16</guid></item><item><title>[Telegram] 最近 Telegram 电报怎么网络经常转圈圈连不上，出什么问题了吗？</title><link>https://www.v2ex.com/t/976759#reply3</link><description>看 YouTube 秒开，代理没问题，TG 无论 MAC 还是 IOS 端都是断断续续连不上，墙中墙了吗？</description><pubDate>Sun, 24 Sep 2023 14:34:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976759#reply3</guid></item><item><title>[问与答] 觅个廉价的支持 U2F 协议的硬件(类似 yubikey,但是不需要其他功能), 公司要用来做 web 端认证~但是目前找到的都是比较贵的，我们要采购的数量貌似有点多</title><link>https://www.v2ex.com/t/976758#reply10</link><description></description><pubDate>Sun, 24 Sep 2023 14:34:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976758#reply10</guid></item><item><title>[程序员] [转发微博]翻墙访问国际互联网打工被处罚百万</title><link>https://www.v2ex.com/t/976757#reply5</link><description>原文链接 &lt;a href="https://weibo.com/ttarticle/p/show?id=2309404949447133233199" rel="nofollow noopener" target="_blank"&gt;https://weibo.com/ttarticle/p/show?id=2309404949447133233199&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;```&lt;br /&gt;​​本人为境外公司提供工作, 访问国际互联网被河北承德双桥公安处罚 1058000 元.&lt;br /&gt;&lt;br /&gt;国庆之后会在当地提起行政诉讼, 欢迎大家观看庭审直播. &lt;br /&gt;&lt;br /&gt;如果有律师愿意代理, 请联系我, 谢谢🙏&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;------更新------&lt;br /&gt;&lt;br /&gt;关于“疑似涉嫌恐怖活动”这个只是为了打印银行卡收入流水的一个流程, 和此事无关.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;------更新------&lt;br /&gt;&lt;br /&gt;感谢广大网友的支持和关心, 下面是此事的大致过程:&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;2022 年 9 月, 当地安全部门找到我,  他们认为一个发布了大量 xxxx 言论的推特号属于我. 我表示目前正在为境外某公司工作, 个人的推特只是偶尔为公司的推文点赞转发,  发表 xxxx 的推特不属于我, 同时向他们介绍了工作的情况, 并展示了个人推特账号的信息.  他们当天扣押了我的手机, 笔记本和几块电脑硬盘. 大概一个月左右归还了这些设备.&lt;br /&gt;&lt;br /&gt;今年 4 月和 7 月又做了几次笔录, 详细介绍了工作情况,并提供了收款的银行卡, 公司在所在国的注册信息, 我和公司签署的顾问合同等等证明文件, 期间公安部门表示推特的事情已经查明和我无关, 但是翻墙的事情要进行处罚, 同时我的收入将被认定为违法所得.&lt;br /&gt;&lt;br /&gt;今年 8 月正式下达了处罚决定: 翻墙违法, 翻墙之后的收入即是违法所得.&lt;br /&gt;&lt;br /&gt;今年 9 月 5 号, 我申请了行政复议, 经过和复议部门的沟通, 他们基本认同公安机关的意见, 后续我需到法院进行行政诉讼.&lt;br /&gt;&lt;br /&gt;期间我多次表示 &lt;a href="http://github.com" rel="nofollow noopener" target="_blank"&gt;github.com&lt;/a&gt; 和公司的售后支持网站不需要翻墙就可以访问, 编写代码在本地电脑上完成也不需要翻墙,  但这些解释没有被采纳. &lt;br /&gt;&lt;br /&gt;接下来我会委托律师积极准备行政诉讼.&lt;br /&gt;```&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;tk 转发才看到的，不知道咋说好了，&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/FakzMSI.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/FakzMSI.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/zhGom6N.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/zhGom6N.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/GXgJoJa.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GXgJoJa.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/Wxp8tSF.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Wxp8tSF.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/x4OdLwx.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/x4OdLwx.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/wYISvWy.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wYISvWy.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;第一次贴图，失败的话就看原文吧。</description><pubDate>Sun, 24 Sep 2023 14:30:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976757#reply5</guid></item><item><title>[Apple] 首发 iphone15 标准版，自带 typec 线无法使用</title><link>https://www.v2ex.com/t/976756#reply2</link><description>昨天 23 号晚上在直营业店取货，回家发现自带 typec 线不能充电，分别用安卓 typec 线和第三方支持 pd 快充 mbp 自带电源适配器和线 都测试过可以正常充电。只要用手机自带的线和任意充电器搭配充电就不行。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;有趣的事来了，用这根线连接我的 mbp ，手机会显示设备功率太大。应该是把我的 mbp 当成移动硬盘这种外部设备了吧。即使这样也没法激活充电。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;手机使用了一天，中国产，没啥问题。苹果什么垃圾品控。预约了周 2 天才吧，去换一根线。第一次遇到离谱的事</description><pubDate>Sun, 24 Sep 2023 14:20:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976756#reply2</guid></item></channel></rss>
