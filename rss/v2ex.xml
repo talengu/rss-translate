@@ -1,228 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Sep 2023 20:44:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] torch 调用的 cpp 如何调试</title><link>https://www.v2ex.com/t/976782#reply0</link><description>&lt;p&gt;比如这个文件：&lt;br /&gt;
-&lt;a href="https://github.com/activatedgeek/simplex-gp/blob/master/gpytorch_lattice_kernel/cpp/lattice.cpp" rel="nofollow"&gt;https://github.com/activatedgeek/simplex-gp/blob/master/gpytorch_lattice_kernel/cpp/lattice.cpp&lt;/a&gt;&lt;br /&gt;
-似乎用 torch.utils.cpp_extension.load   他就会自动生成 so 然后载入成 python 的一个函数了 但是好像没法调试 c++内部的 code    &lt;/p&gt;
-&lt;p&gt;不太懂 c++，所以这个是怎么编译的 我试着写了个 makefile 感觉没法不使用 torch 编译出 so 文件&lt;br /&gt;
-更不用说调试这个 so 文件了&lt;br /&gt;
-我的理解是调用了 torch 和 pybind11 的头文件只要把 PATH 加到 cmake 的 flag 里就行了?&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 20:28:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976782#reply0</guid></item><item><title>[OpenAI] 收购逾期账单号</title><link>https://www.v2ex.com/t/976781#reply0</link><description>大量求购 ChatGPT 3.5/4.0api 逾期好&lt;br /&gt;要求:&lt;br /&gt;1:大于＞ 2 个月的账单&lt;br /&gt;2:额度大于＞ 3000 刀&lt;br /&gt;&lt;br /&gt;有货联系我发截图&lt;br /&gt;tg:gpt9900&lt;br /&gt;&lt;br /&gt;v:gpt9922</description><pubDate>Sun, 24 Sep 2023 19:44:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976781#reply0</guid></item><item><title>[iPhone] iPhone 15 Pro 自动断开重连 160 MHz Wi-Fi 后断网</title><link>https://www.v2ex.com/t/976780#reply0</link><description>&lt;p&gt;本来想着 iPhone 总算支持了 160 MHz 频宽是件好事，但随即发现有一个严重 bug：拿着手机远离路由器直至断连，然后返回路由器处，当手机自动重连上 Wi-Fi 后，虽然右上角图标显示 Wi-Fi 已连接，但实际处于网络断开的状态，无论是局域网还是互联网都无法访问，从路由器上看手机的连接速率也只有几十 Mbps ，但是 App 通知倒仍然可以推送 ；手动关闭 Wi-Fi 然后重新打开，网络恢复。&lt;/p&gt;
-&lt;p&gt;使用的手机：国行 iPhone 15 Pro 256G
-使用的路由器：国行 ASUS AX86U&lt;/p&gt;
-&lt;p&gt;已经尝试还原手机的网络设置，路由器无线设置也各种参数调整过一遍，问题依旧；而唯独将路由器 160 MHz 关闭后，问题解决。由于手头没有其他的便携 160 MHz 客户端，所以不确定是手机还是路由器的问题，想在这问问有没有遇到同样现象的朋友。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 19:38:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976780#reply0</guid></item><item><title>[Markdown] 如何优雅地标识每个章节的结尾？</title><link>https://www.v2ex.com/t/976779#reply5</link><description>&lt;p&gt;有点钻牛角尖，钻设计缺陷。章节折叠确实不好用。&lt;/p&gt;
-&lt;p&gt;Markdown 和 html 和 xml 不同。html 之类的通常每个“节点”都是有开始和结束标记。&lt;/p&gt;
-&lt;p&gt;Markdown 章节好像没有结束标记，折叠某个章节依靠编辑器自行的简单粗暴理解。其次，（在本人的认知范围内）没有结束标记导致章节从属关系需要手工判断再调节、强制用户思考该段文字应所属的层级等等问题，比如这种：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;### 三级标题
-
-#### 四级标题
-
-!!!想单纯放一段内容，不想从属于某级的标题。但是多数 app 会将其归属于上级标题。折叠进上级标题。
-
-#### 四级标题
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Sep 2023 17:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976779#reply5</guid></item><item><title>[分享创造] 国庆头像制作，给头像加上各种国庆节元素挂件，让朋友圈更秀！</title><link>https://www.v2ex.com/t/976778#reply1</link><description>&lt;p&gt;&lt;img alt="973shots_so.png" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2023/09/25/aTSrsCCw.png" /&gt;&lt;/p&gt;
-&lt;p&gt;集美美图 APP 发布了全新的 5.0 版本，新版本最重磅的功能就是国庆头像制作功能，提供丰富的国庆节元素。&lt;/p&gt;
-&lt;p&gt;官网：&lt;a href="https://jmmt.mmkj.tech/" rel="nofollow"&gt;https://jmmt.mmkj.tech/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 17:03:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976778#reply1</guid></item><item><title>[问与答] 怎么理解 scrapy 的 xpath? xpath 字符串未像预期工作.</title><link>https://www.v2ex.com/t/976777#reply0</link><description>&lt;p&gt;我将 response 写入本地 html 文件, 然后浏览器打开, 用 xpath helper 来验证自己的 xpath 字符串能否工作.  &lt;/p&gt;
-&lt;p&gt;测试结果是正常工作(匹配)的.  &lt;/p&gt;
-&lt;p&gt;但是将该字符串传递给 response.xpath 就无法正常匹配.&lt;/p&gt;
-&lt;p&gt;明明是同一个 response. 为什么会这样呢?&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 16:40:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976777#reply0</guid></item><item><title>[摄影] 明天去日本旅行，带什么镜头？</title><link>https://www.v2ex.com/t/976776#reply9</link><description>目前相机是尼康 Z5 ，镜头有 24-50 套机、24-200/f4-6.3 、50/1.8S 。主要是拍风景吧，OP 是业余拍照选手，希望大家给点建议，太重只想带一个镜头。</description><pubDate>Sun, 24 Sep 2023 16:22:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976776#reply9</guid></item><item><title>[程序员] Top 50 生成式 AI 发展趋势报告（知名风投 a16z 发布）</title><link>https://www.v2ex.com/t/976775#reply0</link><description>&lt;p&gt;近日，知名风投公司 a16z （ Andreessen Horowitz ）发表了一篇文章，按每月访问量对前 50 名 GenAI （生成式 AI ） Web 产品进行了排名。  &lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 25 Sep 2023 15:58:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[深圳] 就。。。。天天吃软饭</title><link>https://www.v2ex.com/t/977115#reply1</link><description>&lt;p&gt;两年前经济形势还没那么差的时候，觉得上家公司在白白烧钱，不看好未来，不续约滚蛋了。。
+当时找了找工作没找到满意的，看不惯那些公司天天 996 ，就不找了。。。。家里蹲，当起全职奶爸。主要居住用房无贷一身轻，另外有第二套房子在还贷，没多少，让老婆担着了。
+(其中有一点兄弟们要注意，就是超过 40 岁 HR 连简历都不会看你一眼直接否决，不管你是啥总监还是技术主管还是首席架构师。)&lt;/p&gt;
+&lt;p&gt;好彩老婆在一个人人唾弃的公司就职（不说了你反正猜的出来），职级挺高，股票就有 100 多 w 股。每年分红就 100 多 W 税后，就，干脆吃软饭吧&lt;/p&gt;
+&lt;p&gt;反正到 60 岁退休前都可以指望这个分红，这种资产性收入真正做到了每天睡醒就有钱进口袋，天天接送娃上学后，每天好生无趣，打游戏度日。&lt;/p&gt;
+&lt;p&gt;发这个帖子目的是想告诉各位老哥：
+1 、资产性收入才是最重要的，工资不可靠，不要觉得现在 1 狗 2 狗很不错，说不定哪天就没。
+2 、不在体制内做好 40 岁下课的准备，私企 45 岁一定滚蛋，无论你做到多高的职位，尤其是程序员
+3 、能转型早转型，不要写程序，搞销售等需要人际关系的职业是铁饭碗
+4 、任何工作，如果不能为以后自己创业带来帮助，趁早转。
+5 、想一线买房不是靠工资，而是靠股票（分红或者上市后卖）, 这里的股票不是 A 股那种公开市场上能买到的，那种，A 股说它是垃圾堆都抬举它了。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:51:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977115#reply1</guid></item><item><title>[程序员] Hi, 伙伴们，目前我人在北美，想代理一些软件。有没有同学想把自己开发的软件推广到北美市场？我们一起赚美刀</title><link>https://www.v2ex.com/t/977114#reply1</link><description>&lt;p&gt;Hi, 伙伴们，目前我人在北美，想代理一些软件。有没有同学想把自己开发的软件推广到北美市场？我们一起赚美刀？感兴趣请私聊。&lt;/p&gt;
+&lt;p&gt;加小飞机：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="enter image description here" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4ghLler.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:35:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977114#reply1</guid></item><item><title>[程序员] 数据库多条件查询索引如何设计比较好？</title><link>https://www.v2ex.com/t/977113#reply0</link><description>&lt;p&gt;SQLite 中有一张表 Table ，大约 30 个字段，该表不超过 50 万条数据。&lt;/p&gt;
+&lt;p&gt;现要做一个查询，其中条件涉及到 6 个字段信息：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Select * from Table 
+Where (f1==true || f2&amp;gt;0 || f3&amp;gt;0) &amp;amp;&amp;amp; f4==true &amp;amp;&amp;amp; f5!=null &amp;amp;&amp;amp; f6==false
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这种情况如何设计索引比较好？&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:28:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977113#reply0</guid></item><item><title>[职场话题] 上海中科软，要去吗， 23 届 7K</title><link>https://www.v2ex.com/t/977112#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;当时的求职帖子： &lt;a href="https://www.v2ex.com/t/971527" rel="nofollow"&gt;https://www.v2ex.com/t/971527&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本人是 23 应届，专升本三本，Java 后端。&lt;/p&gt;
+&lt;h2&gt;现状&lt;/h2&gt;
+&lt;p&gt;只进行了线上面试，晚上就谈了薪资，问要不要接 offer 。&lt;/p&gt;
+&lt;p&gt;给 7k ，以 5k 的基数交五险一金。项目负责人（大概是）说工作经验限制薪资。&lt;/p&gt;
+&lt;p&gt;工作描述为:“项目实施、自己产品、到客户现场定制化开发”，这应该是外包吧。&lt;/p&gt;
+&lt;p&gt;调薪在 1 、7 月份，但半年内不能调薪，意味着可能错过下次 1 月份调薪。问了对方，未回复。&lt;/p&gt;
+&lt;p&gt;目前每天 10 点左右下班（甚至可能更久），15 元晚餐饭补。未来周六周天可能要加班，在无业务时安排调休。&lt;/p&gt;
+&lt;h2&gt;个人求职情况&lt;/h2&gt;
+&lt;p&gt;到上海求职 10 天了，Boss 直聘打招呼 1000+，只有昨天今天连续面了两个，一个小公司和中科软。&lt;/p&gt;
+&lt;p&gt;小公司：联系面试前甚至没要简历文件，面试时就领导问了个人情况，另外个人对领导印象不好。&lt;/p&gt;
+&lt;p&gt;犹豫，如果放弃掉这个 offer ，后续还能不能找到更好的工作。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:27:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977112#reply0</guid></item><item><title>[程序员] 求一套数字产品销售平台</title><link>https://www.v2ex.com/t/977111#reply2</link><description>&lt;p&gt;暂时能想到的功能：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;大多数领先的产品都是围绕生成式 AI 从头开始构建的  &lt;/li&gt;
-&lt;li&gt;目前，ChatGPT 遥遥领先  &lt;/li&gt;
-&lt;li&gt;LLM 助理（如 ChatGPT ）占主导地位，但陪伴和创意工具也在增长  &lt;/li&gt;
-&lt;li&gt;早期的“赢家”已经出现，但大多数产品类别仍待争夺  &lt;/li&gt;
-&lt;li&gt;对于顶级产品的使用完全是依靠自然流量，消费者也愿意付费  &lt;/li&gt;
-&lt;li&gt;移动应用仍然是新兴的 GenAI 平台  &lt;/li&gt;
+&lt;li&gt;多类目 多属性管理&lt;/li&gt;
+&lt;li&gt;支持 elastic search 搜索&lt;/li&gt;
+&lt;li&gt;可前后端分离部署&lt;/li&gt;
+&lt;li&gt;支持多方账户注册登录&lt;/li&gt;
+&lt;li&gt;laravel 后端即可，便于维护&lt;/li&gt;
+&lt;li&gt;支付接口友好&lt;/li&gt;
+&lt;li&gt;商品富文本编辑&lt;/li&gt;
+&lt;li&gt;二开友好&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/49UNWuv51d-Z4QU3SBJCHA" rel="nofollow"&gt;Top 50 生成式 AI 发展趋势报告（知名风投 a16z 发布）&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:54:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976775#reply0</guid></item><item><title>[问与答] 旧 iPhone 数据传输到新 iPhone 后，还有必要再单独迁移微信聊天记录吗？</title><link>https://www.v2ex.com/t/976772#reply2</link><description>&lt;p&gt;感觉传输完成后，微信聊天记录也有了。搜了下几年前都都在，但是占用空间却小了很多。单独在微信中再迁移后，占用空间又回去了。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:24:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976772#reply2</guid></item><item><title>[问与答] 360 杀毒以及腾讯管家能否上传白名单？</title><link>https://www.v2ex.com/t/976770#reply2</link><description>&lt;p&gt;自己写了个小软件总报毒，用的人多了总被杀，手动添加信任太麻烦。有没有提交白名单的机制啊&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:17:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976770#reply2</guid></item><item><title>[macOS] mac os 窗口不定时失焦的问题</title><link>https://www.v2ex.com/t/976769#reply0</link><description>这段时间不知道什么软件有冲突，总是出现窗口莫名之妙失去焦点的问题，尤其是打字的时候，搜索了一下，发现以下代码，但不知道怎么运行，有朋友能教我一下吗？&lt;br /&gt;#!/usr/bin/python&lt;br /&gt;try:&lt;br /&gt;    from AppKit import NSWorkspace&lt;br /&gt;except ImportError:&lt;br /&gt;    print("Can't import AppKit -- maybe you're running python from brew?")&lt;br /&gt;    print("Try running with Apple's /usr/bin/python instead.")&lt;br /&gt;    exit(1)&lt;br /&gt;&lt;br /&gt;from datetime import datetime&lt;br /&gt;from time import sleep&lt;br /&gt;&lt;br /&gt;last_active_name = None&lt;br /&gt;while True:&lt;br /&gt;    active_app = NSWorkspace.sharedWorkspace().activeApplication()&lt;br /&gt;    if active_app['NSApplicationName'] != last_active_name:&lt;br /&gt;        last_active_name = active_app['NSApplicationName']&lt;br /&gt;        print('%s: %s [%s]' % (&lt;br /&gt;            datetime.now().strftime('%Y-%m-%d %H:%M:%S'),&lt;br /&gt;            active_app['NSApplicationName'],&lt;br /&gt;            active_app['NSApplicationPath']&lt;br /&gt;        ))&lt;br /&gt;    sleep(1)</description><pubDate>Sun, 24 Sep 2023 15:17:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976769#reply0</guid></item><item><title>[程序员] 我刚上线一个免费 AI 绘图平台就听说 DALL·E3 要来了，看效果很惊艳</title><link>https://www.v2ex.com/t/976768#reply1</link><description>&lt;p&gt;不要 GPU ，不要 CPU ，我的免费 AI 绘图平台： &lt;a href="https://craionai.com" rel="nofollow"&gt;https://craionai.com&lt;/a&gt; ，最近刚上线。然后听说 ChatGPT + AI 绘图的 DALL·E3 要来了，看介绍很惊艳，后续考虑接入&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:06:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976768#reply1</guid></item><item><title>[iOS] iOS 搜狗输入法开始在键盘上方显示广告</title><link>https://www.v2ex.com/t/976765#reply4</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-cc482ce588a0e82761cad867dc54c2a5_1440w.png" /&gt;
-点按那行文字后，会跳转到 App Store 。是腾讯公司的一款手机游戏。&lt;/p&gt;</description><pubDate>Sun, 24 Sep 2023 15:03:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976765#reply4</guid></item><item><title>[宽带症候群] 能合法上外网的专线是什么样的？</title><link>https://www.v2ex.com/t/976763#reply55</link><description>最近看到很多人宣称，企业可以合法合规地申请到能够访问油管、脸书等外网的服务，但未见到有人能够给出具体业务的名称。考虑到可能只有三大运营商有相关资质，我针对运营商找到一份《浙江联通和客户跨境电路服务协议》，其并没有表明专线是否经过数据跨境安全网关，更是载明“不得将跨境云专线与互联网相连接”。这可能表明类似的专线业务主要用于连接企业境内外的办公场地，本身并不提供合法访问外网（即不属于穿透、绕过网关）的支持。考虑到在 V 站看到过网友提及自己公司有合规的外网访问，所以想好奇一下：&lt;br /&gt;&lt;br /&gt;1. 能合法上外网的专线，其具体的业务名称叫什么?&lt;br /&gt;2. 专线提供的是能直接上外网的服务，或仅仅是连接境内外服务器的服务？&lt;br /&gt;3. 服务的合同里是否含有类似于“不得与互联网相连接”的条款，又或是能证明访问外网合法合规的条款?&lt;br /&gt;4. 该业务小微企业就能申请，还是只有大企业才可能有资质？&lt;br /&gt;5. 是否有宣传材料、格式合同供参考？&lt;br /&gt;&lt;br /&gt;另外，最近不少地区在搞国际互联网专用通道。如果仅仅只是降低延迟，感觉并不需要工信部一个个去批准。那么这些通道的意思是否是可以直接访问外网？谢谢</description><pubDate>Sun, 24 Sep 2023 14:50:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976763#reply55</guid></item><item><title>[Go 编程语言] Go's Assembler 01: 阅读和理解</title><link>https://www.v2ex.com/t/976761#reply0</link><description>&lt;p&gt;Go 在 Plan9 的基础上定义了自己的汇编语言.
-代码经过编译后会生成对应的汇编语言, 随后根据目标平台生成精确的, 机器相关的指令.
-具体可以参见 &lt;a href="https://go.dev/doc/asm" rel="nofollow"&gt;A Quick Guide to Go's Assembler&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;作为一个编译的门外汉来了解 Go 的编译逻辑的一个问题就是 Plan9 的资料稀缺,
-导致理解 Go 的汇编结果时很容易卡在某个点.
-所以我开了下脑洞, 既然 x64 的汇编资源非常全, 不如我们先看最终生成的 x64 汇编, 再来看 Go 汇编.
-&lt;a href="https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf" rel="nofollow"&gt;X64 Cheat Sheet&lt;/a&gt; 是一份非常好的 X64 汇编入门文档, 可以按需阅读.&lt;/p&gt;
-&lt;p&gt;全文使用 go1.21.1, 编译针对 linux/amd64.&lt;/p&gt;
+&lt;p&gt;看看是否有比较适合的 git 仓库？或者对外销售的产品也行&lt;/p&gt;
+&lt;p&gt;多谢&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:17:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977111#reply2</guid></item><item><title>[程序员] wechat 无法打开，国内版本的微信存在监控</title><link>https://www.v2ex.com/t/977110#reply5</link><description>从谷歌商店下载的微信显示（ wechat ）版本 8.0.33 的安装包导入手机中为啥不能打开？然后从手机自带的软件商店显（微信）更新后却可以正常使用&lt;br /&gt;从手机自带的软件商店下载低版本的微信去谷歌商店更新后可以正常打开的，导出的安装包显示的是 wechat ，然后卸载微信安装导出的微信还是不能打开的想问一下是什么原因导致的？&lt;br /&gt;国内的微信似乎存在监控聊天记录我向朋友发送微信密码二字及数字没有很长时间就找不到这个信息，如果不存在监控聊天记录是由于什么原因导致的？</description><pubDate>Mon, 25 Sep 2023 15:13:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977110#reply5</guid></item><item><title>[问与答] 请问这张海报上的电影标题是用什么艺术字做的？</title><link>https://www.v2ex.com/t/977108#reply7</link><description>就是标题 "TALK TO ME" 这个艺术字，不知道是用什么做出来的？请问各位老师有没有相关技术的关键词可以提示一下。&lt;br /&gt;&lt;a href="https://i.imgur.com/mcAJlhr.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/mcAJlhr.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 25 Sep 2023 15:07:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977108#reply7</guid></item><item><title>[问与答] Android 12 弹窗谷歌拼音请求访问谷歌账户的信息，第一次见</title><link>https://www.v2ex.com/t/977107#reply0</link><description>手机登录了新的谷歌账户之后，突然弹出一个很古老的界面，像多年前 Nexus 手机的风格，非常突兀&lt;br /&gt;------------------------------------------------&lt;br /&gt;谷歌拼音请求访问以下谷歌账户的信息：&lt;br /&gt;example@gmail.com&lt;br /&gt;&lt;br /&gt;以便日后......&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;拒绝     允许&lt;br /&gt;------------------------------------------------&lt;br /&gt;误操作点了允许，回过神来想想自己用的是 Gboard ，谷歌拼音已经下架 playstore 了，系统自带一个谷歌拼音 App 但从来没打开过，谷歌隐私设置里没有痕迹，请问这正常吗？&lt;br /&gt;用的上网软件是 Openclash ，前段时间刚出过问题，有点虚...</description><pubDate>Mon, 25 Sep 2023 15:02:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977107#reply0</guid></item><item><title>[投资] [20230925]小幅跑赢指数，小赚 3 万</title><link>https://www.v2ex.com/t/977106#reply0</link><description>&lt;p&gt;没什么好说的
+市场大部分时间都很无聊&lt;/p&gt;
+&lt;p&gt;继续转入证券账户 2 万元&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:59:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977106#reply0</guid></item><item><title>[Android] 现在 Clash for Android 已拥有和 Surfboard 一样的快捷方式</title><link>https://www.v2ex.com/t/977105#reply2</link><description>给 Clash for Android 加入了快捷方式。&lt;br /&gt;如果是三星手机，配合自带的“日常程序”可以自定义满足指定条件后执行开启/关闭操作。&lt;br /&gt;&lt;a href="https://imgur.com/a/z91qZpp" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/z91qZpp&lt;/a&gt;&lt;br /&gt;&lt;a href="https://imgur.com/a/5EQkspu" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/5EQkspu&lt;/a&gt;&lt;br /&gt;以下是 github 链接&lt;br /&gt;&lt;a href="https://github.com/HappyMax0/ClashForAndroid-1/releases/tag/v2.6.5" rel="nofollow noopener" target="_blank"&gt;https://github.com/HappyMax0/ClashForAndroid-1/releases/tag/v2.6.5&lt;/a&gt;</description><pubDate>Mon, 25 Sep 2023 14:58:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977105#reply2</guid></item><item><title>[iPhone] 给老婆买了 iphone15，感觉也不是很适合小白？</title><link>https://www.v2ex.com/t/977104#reply5</link><description>&lt;p&gt;反正我老婆摆烂了，让我一个个给她设置。&lt;/p&gt;
+&lt;p&gt;一上手一堆设置&lt;/p&gt;
+&lt;p&gt;刚刚甚至在“按两下安装的时候”，疯狂戳屏幕，很生气的和我说，“我按了两下了呀，怎么又给我退出去了”&lt;/p&gt;
+&lt;p&gt;哈哈，笑了我半天，和大家分享一下，还是让他习惯一下吧，看着还是挺喜欢的&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977104#reply5</guid></item><item><title>[互联网] 想调查一下人均每个月在确保网络畅通无阻上的花费</title><link>https://www.v2ex.com/t/977103#reply15</link><description>&lt;p&gt;发现朋友们在这件事上的花费参差不齐,甚至有白薅的,所以比较好奇各位同好们的开销如何. 我个人平均每月在这个上面的开销大约在 50USD.&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:23:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977103#reply15</guid></item><item><title>[问与答] wise 入金求助</title><link>https://www.v2ex.com/t/977102#reply4</link><description>&lt;p&gt;注册的国内账户，现在卡在入金激活环节。&lt;br /&gt;&lt;br /&gt;手头有的：&lt;br /&gt;1.汇丰运筹港卡 里面有少量美元 可以够激活&lt;br /&gt;问题： 入金的时候，选择借记卡，无法识别我的这张港卡。&lt;br /&gt;&lt;br /&gt;2.浦发 visa&lt;br /&gt;问题：无法通过信用卡渠道入金，显示这张信用卡用不了。&lt;br /&gt;&lt;br /&gt;3.美国发行的的 visa&lt;br /&gt;问题：借用亲戚的 visa 卡尝试绑定入金，竟然提示无法使用美国发行的 visa 卡（这点我是完全理解不了）&lt;br /&gt;&lt;br /&gt;现在似乎只能使用电汇或者 SWIFT 了，但是通过汇丰 HK 转过去需要 100 港元…… 有点不太舍得&lt;br /&gt;&lt;br /&gt;有没有正经点的不需要虚拟货币的手段入金激活啊&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:04:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977102#reply4</guid></item><item><title>[NAS] open nas lab：汇聚用户，开发者和厂商，致力打造最好 NAS 软件生态。</title><link>https://www.v2ex.com/t/977101#reply0</link><description>&lt;p&gt;我们是一群爱折腾的人，平时用 nas 比较多，但是深切的感受到软件生态的缺失，希望能成立一个组织，汇聚用户，开发者和厂商，共同构建 nas 的软件生态。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://article.biliimg.com/bfs/article/1d64b09e9a6930da7576a0c4793b0d9143394290.png" /&gt;&lt;/p&gt;
+&lt;p&gt;组织地址： &lt;a href="https://github.com/opennaslab" rel="nofollow"&gt;https://github.com/opennaslab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;已有捐赠项目： &lt;a href="https://github.com/opennaslab/kubespider" rel="nofollow"&gt;https://github.com/opennaslab/kubespider&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;期待你的项目捐赠，一起吸引更多的用户，开发者和 NAS 厂商。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:59:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977101#reply0</guid></item><item><title>[分享发现] [插件推荐] cssPicker：一键复制任何网页元素和样式代码</title><link>https://www.v2ex.com/t/977100#reply3</link><description>&lt;p&gt;闲着没事，开发了一个可以复制任何网站元素样式的 chrome 插件&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://chrome.google.com/webstore/detail/csspicker/laooinkgdapbcbjchpmihliljfnakkdh" rel="nofollow"&gt;插件地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官网地址：&lt;a href="https://www.csspicker.dev/" rel="nofollow"&gt;https://www.csspicker.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;支持：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;编译的命令为 &lt;code&gt;GOOS=linux GOARCH=amd64 go21 build main.go&lt;/code&gt;,&lt;/li&gt;
-&lt;li&gt;通过 objdump 获取 x64 汇编结果 &lt;code&gt;objdump -j .text -S main &amp;gt; objdump&lt;/code&gt;,&lt;/li&gt;
-&lt;li&gt;通过 go tool objdump 获取 Go 汇编结果 &lt;code&gt;go21 tool objdump main &amp;gt; goobjdump&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;1 、一键复制元素 html 代码及其 css&lt;/li&gt;
+&lt;li&gt;2 、元素可以转成 JSX 形式&lt;/li&gt;
+&lt;li&gt;3 、样式可以转成 tailwind&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;add&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
-func add(a, b int) (int, bool) {
-	return a + b, true
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;注解 &lt;code&gt;//go:noinline&lt;/code&gt; 用于告诉编译器不要进行 inline 优化,
-即避免编译器自动将调用这些函数的地方替换成函数代码.&lt;/p&gt;
-&lt;p&gt;Go 在 1.17 从 stack-based calling convention 切换到了 register-based calling convention,
-即之前通过 stack 在调用函数时传递参数和返回值, 这是 Plan9 的惯例,
-之后通过寄存器传递参数和返回值, 带来了性能的提升.&lt;/p&gt;
-&lt;p&gt;但在寄存器的使用上, Go 没有遵循 x64 的默认习俗.
-调用者(caller) 将 add 的两个参数存放在寄存器 rax 和 rbx.
-被调用者(callee) 将两个返回值存放在寄存器 rax 和 rbx.&lt;/p&gt;
-&lt;p&gt;生成的 x64 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.add&amp;gt;:" -A 10
-129310  0000000000457680 &amp;lt;main.add&amp;gt;:
-129311  ;       return a + b, true
-129312    457680: 48 01 d8                      addq    %rbx, %rax      ; 调用参数被保存在寄存器 rax 和 rbx
-129313    457683: bb 01 00 00 00                movl    $1, %ebx        ; ebx 和 rbx 是同一个寄存器, ebx 对应前 4 字节, rbx 对应全部的 8 字节
-129314    457688: c3                            retq                    ; 返回值已经保存在寄存器 rax 和 rbx 内
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.add" -A 10
- 82843  TEXT main.add(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
- 82844    main.go:5             0x457680                4801d8                  ADDQ BX, AX
- 82845    main.go:5             0x457683                bb01000000              MOVL $0x1, BX
- 82846    main.go:5             0x457688                c3                      RET
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;if&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
-func max(a, b int) int {
-	if a &amp;gt; b {
-		return a
-	}
-	return b
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.max&amp;gt;:" -A 30
-129339  00000000004576a0 &amp;lt;main.max&amp;gt;:
-129340  ;       if a &amp;gt; b {
-129341    4576a0: 48 39 c3                      cmpq    %rax, %rbx              ; cmp 将 rbx-rax 的结果保存到条件寄存器
-129342    4576a3: 7d 01                         jge     0x4576a6 &amp;lt;main.max+0x6&amp;gt; ; 如果 cmp 的结果大于等于 0, 则跳转到对应地址的指令
-129343  ;               return a
-129344    4576a5: c3                            retq
-129345  ;       return b
-129346    4576a6: 48 89 d8                      movq    %rbx, %rax              ; 返回结果需要保存到 rax, 所以需要将 rbx 的值转移到 rax
-129347    4576a9: c3                            retq
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.max" -A 10
- 82848  TEXT main.max(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
- 82849    main.go:10            0x4576a0                4839c3                  CMPQ BX, AX
- 82850    main.go:10            0x4576a3                7d01                    JGE 0x4576a6
- 82851    main.go:11            0x4576a5                c3                      RET
- 82852    main.go:13            0x4576a6                4889d8                  MOVQ BX, AX
- 82853    main.go:13            0x4576a9                c3                      RET
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;for&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
-func sum(numbers []int) int {
-	sum := 0
-	for i := 0; i &amp;lt; len(numbers); i++ {
-		sum += numbers[i]
-	}
-	return sum
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.sum&amp;gt;:" -A 30
-129371  00000000004576c0 &amp;lt;main.sum&amp;gt;:
-129372  ; func sum(numbers []int) int {
-129373    4576c0: 48 89 44 24 08                movq    %rax, 8(%rsp)       ; 将 rax 的值存放到 stack, TODO: 为什么需要这么做, 为什么是 8.
-129374    4576c5: 31 c9                         xorl    %ecx, %ecx          ; 清空寄存器 rcx 的前 4 字节
-129375    4576c7: 31 d2                         xorl    %edx, %edx
-129376  ;       for i := 0; i &amp;lt; len(numbers); i++ {
-129377    4576c9: eb 0a                         jmp     0x4576d5 &amp;lt;main.sum+0x15&amp;gt;
-129378  ;               sum += numbers[i]
-129379    4576cb: 48 8b 34 c8                   movq    (%rax,%rcx,8), %rsi ; 将 numbers[i] 存在到 rsi, rax 是数组地址, rcx 是 i, 8 代表元素占 8 字节
-129380  ;       for i := 0; i &amp;lt; len(numbers); i++ {
-129381    4576cf: 48 ff c1                      incq    %rcx
-129382  ;               sum += numbers[i]
-129383    4576d2: 48 01 f2                      addq    %rsi, %rdx
-129384  ;       for i := 0; i &amp;lt; len(numbers); i++ {
-129385    4576d5: 48 39 cb                      cmpq    %rcx, %rbx          ; 判断 i &amp;lt; len(numbers), rbx 保存了数组大小, 由调用者赋值
-129386    4576d8: 7f f1                         jg      0x4576cb &amp;lt;main.sum+0xb&amp;gt;
-129387  ;       return sum
-129388    4576da: 48 89 d0                      movq    %rdx, %rax          ; 返回结果需要存储在 rax
-129389    4576dd: c3                            retq
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;对应的 Go 汇编&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.sum" -A 10
- 82855  TEXT main.sum(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/ssa/main.go
- 82856    main.go:17            0x4576c0                4889442408              MOVQ AX, 0x8(SP)
- 82857    main.go:17            0x4576c5                31c9                    XORL CX, CX
- 82858    main.go:17            0x4576c7                31d2                    XORL DX, DX
- 82859    main.go:19            0x4576c9                eb0a                    JMP 0x4576d5
- 82860    main.go:20            0x4576cb                488b34c8                MOVQ 0(AX)(CX*8), SI
- 82861    main.go:19            0x4576cf                48ffc1                  INCQ CX
- 82862    main.go:20            0x4576d2                4801f2                  ADDQ SI, DX
- 82863    main.go:19            0x4576d5                4839cb                  CMPQ BX, CX
- 82864    main.go:19            0x4576d8                7ff1                    JG 0x4576cb
- 82865    main.go:22            0x4576da                4889d0                  MOVQ DX, AX
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;main&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;func main() {
-	add(10, 20)
-	max(10, 20)
-	sum([]int{10, 20})
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;生成的 x86 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n objdump | grep "&amp;lt;main.main&amp;gt;:" -A 60
-129393  00000000004576e0 &amp;lt;main.main&amp;gt;:
-129394  ; func main() {
-129395    4576e0: 49 3b 66 10                   cmpq    16(%r14), %rsp  ; Go 用于判断 stack 是否需要扩容的方法
-129396    4576e4: 76 56                         jbe     0x45773c &amp;lt;main.main+0x5c&amp;gt;
-129397    4576e6: 55                            pushq   %rbp            ; 在函数执行之前, 需要将 base pointer 暂存在 stack
-129398    4576e7: 48 89 e5                      movq    %rsp, %rbp      ; 并将 stack pointer 的值赋给 bp
-129399    4576ea: 48 83 ec 28                   subq    $40, %rsp       ; 在 stack 中预先分配 40 字节
-129400  ;       add(10, 20)
-129401    4576ee: b8 0a 00 00 00                movl    $10, %eax
-129402    4576f3: bb 14 00 00 00                movl    $20, %ebx
-129403    4576f8: e8 83 ff ff ff                callq   0x457680 &amp;lt;main.add&amp;gt;
-129404  ;       max(10, 20)
-129405    4576fd: b8 0a 00 00 00                movl    $10, %eax
-129406    457702: bb 14 00 00 00                movl    $20, %ebx
-129407    457707: e8 94 ff ff ff                callq   0x4576a0 &amp;lt;main.max&amp;gt;
-129408  ;       sum([]int{10, 20})
-129409    45770c: 44 0f 11 7c 24 18             movups  %xmm15, 24(%rsp)    ; xmm15 是 16 字节的寄存器, 配合 movups 用于清空栈中 24~40 字节
-129410    457712: 48 c7 44 24 18 0a 00 00 00    movq    $10, 24(%rsp)
-129411    45771b: 48 c7 44 24 20 14 00 00 00    movq    $20, 32(%rsp)
-129412    457724: 48 8d 44 24 18                leaq    24(%rsp), %rax      ; 将数组的地址存放到寄存器 rax
-129413    457729: bb 02 00 00 00                movl    $2, %ebx            ; 将数据的元素个数存放到 rbx
-129414    45772e: 48 89 d9                      movq    %rbx, %rcx
-129415    457731: e8 8a ff ff ff                callq   0x4576c0 &amp;lt;main.sum&amp;gt;
-129416  ; }
-129417    457736: 48 83 c4 28                   addq    $40, %rsp       ; 释放在函数最初分配给栈的 40 字节
-129418    45773a: 5d                            popq    %rbp            ; 恢复 base pointer
-129419    45773b: c3                            retq
-129420  ; func main() {
-129421    45773c: 0f 1f 40 00                   nopl    (%rax)
-129422    457740: e8 9b ce ff ff                callq   0x4545e0 &amp;lt;runtime.morestack_noctxt.abi0&amp;gt;
-129423    457745: eb 99                         jmp     0x4576e0 &amp;lt;main.main&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;细心的同学可能会思考为什么调用 main.sum 之前初始化数组是用 24(%rsp). 这是因为虽然 go's calling convention 已经从
-stack-base 切换到了 regisger-base. 但是可能出于兼容或者上面目的, 依然在 stack 为通过 register 传递的参数和返回值保留空间.&lt;/p&gt;
-&lt;p&gt;Ref &lt;a href="https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md#function-call-argument-and-result-passing" rel="nofollow"&gt;Function call argument and result passing&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Beyond the arguments and results passed on the stack, the caller also reserves spill space on the stack for all register-based arguments (but does not populate this space).&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;对应的 Go 汇编:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;cat -n goobjdump | grep "TEXT main.main" -A 1000
- 82868  TEXT main.main(SB) /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/goasm/main.go
- 82869    main.go:25            0x4576e0                493b6610                CMPQ SP, 0x10(R14)
- 82870    main.go:25            0x4576e4                7656                    JBE 0x45773c
- 82871    main.go:25            0x4576e6                55                      PUSHQ BP
- 82872    main.go:25            0x4576e7                4889e5                  MOVQ SP, BP
- 82873    main.go:25            0x4576ea                4883ec28                SUBQ $0x28, SP
- 82874    main.go:26            0x4576ee                b80a000000              MOVL $0xa, AX
- 82875    main.go:26            0x4576f3                bb14000000              MOVL $0x14, BX
- 82876    main.go:26            0x4576f8                e883ffffff              CALL main.add(SB)
- 82877    main.go:27            0x4576fd                b80a000000              MOVL $0xa, AX
- 82878    main.go:27            0x457702                bb14000000              MOVL $0x14, BX
- 82879    main.go:27            0x457707                e894ffffff              CALL main.max(SB)
- 82880    main.go:28            0x45770c                440f117c2418            MOVUPS X15, 0x18(SP)
- 82881    main.go:28            0x457712                48c74424180a000000      MOVQ $0xa, 0x18(SP)
- 82882    main.go:28            0x45771b                48c744242014000000      MOVQ $0x14, 0x20(SP)
- 82883    main.go:28            0x457724                488d442418              LEAQ 0x18(SP), AX
- 82884    main.go:28            0x457729                bb02000000              MOVL $0x2, BX
- 82885    main.go:28            0x45772e                4889d9                  MOVQ BX, CX
- 82886    main.go:28            0x457731                e88affffff              CALL main.sum(SB)
- 82887    main.go:29            0x457736                4883c428                ADDQ $0x28, SP
- 82888    main.go:29            0x45773a                5d                      POPQ BP
- 82889    main.go:29            0x45773b                c3                      RET
- 82890    main.go:25            0x45773c                0f1f4000                NOPL 0(AX)
- 82891    main.go:25            0x457740                e89bceffff              CALL runtime.morestack_noctxt.abi0(SB)
- 82892    main.go:25            0x457745                eb99                    JMP main.main(SB)
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Sep 2023 14:46:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976761#reply0</guid></item><item><title>[Apple] 国行 iPhone 15 Pro Max 购买美区 AppleCare+失败</title><link>https://www.v2ex.com/t/976760#reply16</link><description>如题&lt;br /&gt;直接打了美区的客服电话，但是好几个客服都说中国买的手机只能在中国买 AppleCare+&lt;br /&gt;请问这个途径是被锁死了吗？</description><pubDate>Sun, 24 Sep 2023 14:44:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976760#reply16</guid></item><item><title>[Telegram] 最近 Telegram 电报怎么网络经常转圈圈连不上，出什么问题了吗？</title><link>https://www.v2ex.com/t/976759#reply3</link><description>看 YouTube 秒开，代理没问题，TG 无论 MAC 还是 IOS 端都是断断续续连不上，墙中墙了吗？</description><pubDate>Sun, 24 Sep 2023 14:34:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976759#reply3</guid></item><item><title>[问与答] 觅个廉价的支持 U2F 协议的硬件(类似 yubikey,但是不需要其他功能), 公司要用来做 web 端认证~但是目前找到的都是比较贵的，我们要采购的数量貌似有点多</title><link>https://www.v2ex.com/t/976758#reply10</link><description></description><pubDate>Sun, 24 Sep 2023 14:34:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976758#reply10</guid></item><item><title>[程序员] [转发微博]翻墙访问国际互联网打工被处罚百万</title><link>https://www.v2ex.com/t/976757#reply5</link><description>原文链接 &lt;a href="https://weibo.com/ttarticle/p/show?id=2309404949447133233199" rel="nofollow noopener" target="_blank"&gt;https://weibo.com/ttarticle/p/show?id=2309404949447133233199&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;```&lt;br /&gt;​​本人为境外公司提供工作, 访问国际互联网被河北承德双桥公安处罚 1058000 元.&lt;br /&gt;&lt;br /&gt;国庆之后会在当地提起行政诉讼, 欢迎大家观看庭审直播. &lt;br /&gt;&lt;br /&gt;如果有律师愿意代理, 请联系我, 谢谢🙏&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;------更新------&lt;br /&gt;&lt;br /&gt;关于“疑似涉嫌恐怖活动”这个只是为了打印银行卡收入流水的一个流程, 和此事无关.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;------更新------&lt;br /&gt;&lt;br /&gt;感谢广大网友的支持和关心, 下面是此事的大致过程:&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;2022 年 9 月, 当地安全部门找到我,  他们认为一个发布了大量 xxxx 言论的推特号属于我. 我表示目前正在为境外某公司工作, 个人的推特只是偶尔为公司的推文点赞转发,  发表 xxxx 的推特不属于我, 同时向他们介绍了工作的情况, 并展示了个人推特账号的信息.  他们当天扣押了我的手机, 笔记本和几块电脑硬盘. 大概一个月左右归还了这些设备.&lt;br /&gt;&lt;br /&gt;今年 4 月和 7 月又做了几次笔录, 详细介绍了工作情况,并提供了收款的银行卡, 公司在所在国的注册信息, 我和公司签署的顾问合同等等证明文件, 期间公安部门表示推特的事情已经查明和我无关, 但是翻墙的事情要进行处罚, 同时我的收入将被认定为违法所得.&lt;br /&gt;&lt;br /&gt;今年 8 月正式下达了处罚决定: 翻墙违法, 翻墙之后的收入即是违法所得.&lt;br /&gt;&lt;br /&gt;今年 9 月 5 号, 我申请了行政复议, 经过和复议部门的沟通, 他们基本认同公安机关的意见, 后续我需到法院进行行政诉讼.&lt;br /&gt;&lt;br /&gt;期间我多次表示 &lt;a href="http://github.com" rel="nofollow noopener" target="_blank"&gt;github.com&lt;/a&gt; 和公司的售后支持网站不需要翻墙就可以访问, 编写代码在本地电脑上完成也不需要翻墙,  但这些解释没有被采纳. &lt;br /&gt;&lt;br /&gt;接下来我会委托律师积极准备行政诉讼.&lt;br /&gt;```&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;tk 转发才看到的，不知道咋说好了，&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/FakzMSI.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/FakzMSI.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/zhGom6N.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/zhGom6N.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/GXgJoJa.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GXgJoJa.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/Wxp8tSF.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Wxp8tSF.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/x4OdLwx.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/x4OdLwx.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/wYISvWy.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wYISvWy.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;第一次贴图，失败的话就看原文吧。</description><pubDate>Sun, 24 Sep 2023 14:30:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976757#reply5</guid></item><item><title>[Apple] 首发 iphone15 标准版，自带 typec 线无法使用</title><link>https://www.v2ex.com/t/976756#reply2</link><description>昨天 23 号晚上在直营业店取货，回家发现自带 typec 线不能充电，分别用安卓 typec 线和第三方支持 pd 快充 mbp 自带电源适配器和线 都测试过可以正常充电。只要用手机自带的线和任意充电器搭配充电就不行。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;有趣的事来了，用这根线连接我的 mbp ，手机会显示设备功率太大。应该是把我的 mbp 当成移动硬盘这种外部设备了吧。即使这样也没法激活充电。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;手机使用了一天，中国产，没啥问题。苹果什么垃圾品控。预约了周 2 天才吧，去换一根线。第一次遇到离谱的事</description><pubDate>Sun, 24 Sep 2023 14:20:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/976756#reply2</guid></item></channel></rss>
+&lt;p&gt;有需要的可以体验下，欢迎反馈问题。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="插件图片" class="embedded_image" rel="noreferrer" src="https://lh3.googleusercontent.com/nRNM1lDqW-d5D0iBVqUzELayGlcTVBtg3od_H1Rid37q4_QFuNrPufNSpoF-pzEzo-YomIU1LiqFdkKAyjH8ZcgudNE=w640-h400-e365-rj-sc0x00ffffff" /&gt;&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:48:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977100#reply3</guid></item><item><title>[分享发现] ChatGPT 现在可以看、听和说话了</title><link>https://www.v2ex.com/t/977099#reply0</link><description>&lt;p&gt;ChatGPT 现在推出了新的语音和图像功能，为用户提供了全新的、更直观的交互方式。这些功能使您可以通过语音对话或展示图像来与 ChatGPT 进行交流，从而更加丰富和多样化地与系统进行互动。&lt;/p&gt;
+&lt;p&gt;如果您想了解更多关于这些功能的信息，您可以点击以下链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/VBerZIHVEkpsizZ9xoh82w" rel="nofollow"&gt;中文详情&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" rel="nofollow"&gt;英文详情&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 25 Sep 2023 13:47:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977099#reply0</guid></item><item><title>[酷工作] [日本] [大阪] [招人] [没有语言能力要求] [unity 游戏方向 3 人] [游戏策划 1 人]</title><link>https://www.v2ex.com/t/977098#reply0</link><description>日本是财团制的裙带资本主义，我们公司也是属于财团中的一个而已，区块链的业务会成立新的公司，所以不要再问我公司规模有多大了~拜托~&lt;br /&gt;&lt;br /&gt;关于集团：&lt;br /&gt;公司财团内部有医院，有饭店，有民俗酒店，还有软件外包业务（不是人力外派，是项目的外包，比如政府的标），上述业务涉及到东南亚（主要是菲律宾，马来西亚，真不去缅甸），日本，韩国，以及欧洲一些小国（葡萄牙，瑞士之类），集团流水现在每个月保守估计大概 20 亿日元。&lt;br /&gt;&lt;br /&gt;关于身份：&lt;br /&gt;来了会尽量帮你搞高度人才，80 分 1 年拿绿卡 70 分 3 年拿绿卡，是积分制的（虽然会帮你想办法搞分，但是你分不够~我是真没办法）&lt;br /&gt;不满足高度人才的看你自身资历，普通工作签证是 3-5 年。&lt;br /&gt;&lt;br /&gt;关于工作方式：&lt;br /&gt;直飞大阪，不会缅甸转机。。。不要求任何语言能力！不要求任何语言能力！不要求任何语言能力！&lt;br /&gt;（ HP 后勤之类的 30%是日本人，基本的开发 70%是中国人，这个 70%里面又有 30%是台湾人）&lt;br /&gt;&lt;br /&gt;投递方式：&lt;br /&gt;Y2FiYmFnZWRldmlsMTYzQGdtYWlsLmNvbQ==&lt;br /&gt;&lt;br /&gt;职位-----------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt; [ unity （棋牌娱乐类）] &lt;br /&gt;岗位职责:&lt;br /&gt;1 、根据产品部门需求，快速准确理解产品策划案并负责评估策划方案的技术可行性，完成项目前端程序架构的设计和技术方案规划，构建开发环境及周边工具开发;&lt;br /&gt;2 、负责客户端的特效实现效果的研发、负责核心系统的开发与指导，负责逻辑的开发和维护;&lt;br /&gt;3 、负责对项目存在的性能问题进行分析与解决，解决项目中的技术难题;&lt;br /&gt;4 、建立研发周期，严格把控开发进度，建立完善的测试体系，减少 bug 复现率;&lt;br /&gt;5 、优化 unity3d 引擎以及内部使用工具的开发，工作质量把控、技术提升工作;&lt;br /&gt;6 、持续学习相关技术知识、优化内部使用工具，与团队共同成长。&lt;br /&gt;任职要求:&lt;br /&gt;1 、精通 C++/C#，熟悉 Unity3d 游戏引擎架构设计，熟悉游戏的图形显示技术及 3D 算法，游戏后期效果优化;&lt;br /&gt;2 、了解 unity3D 渲染，并可以自行查找或优化客户端效率问题，有多款 U3D 游戏开发经验，熟悉 Direct3D 或 OpenGL;&lt;br /&gt;3 、熟悉游戏项目开发流程、规范，有良好的编程习惯和数字基础;&lt;br /&gt;4 、善于沟通、乐于分享、积极向上、有良好的团队意识和合作精神。&lt;br /&gt;5 、有长期的棋牌娱乐类游戏相关经验者优先录取&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; [游戏策划（棋牌娱乐类）] &lt;br /&gt;职位描述:&lt;br /&gt;1 、负责端内休闲游戏/游戏化产品的设计与制作;&lt;br /&gt;2 、能完成项目从立项到上线全周期的游戏策划工作;&lt;br /&gt;3 、能够独立完成选型选品，调研与逆向工程，构架玩法原型，推进项目立项，管理进度，调优产品，把控质量，与内外部协调沟通等工作;&lt;br /&gt;4 、有责任心，能为自己的工作成果负责;&lt;br /&gt;5 、可定期整理和输出行业内各类产品的优秀设计，能归纳总结为方法论。&lt;br /&gt;职位要求:&lt;br /&gt;1 、3 年以上游戏策划经验;&lt;br /&gt;2 、熟练掌握游戏开发工作流程，对程序和美术的工作有一定了解，能够制作简单游戏 demo;&lt;br /&gt;3 、优秀的口头及书面表达能力，能够条理清晰的表达自身想法;&lt;br /&gt;4 、加分项:在轻度休闲游戏的关卡策划和数值设计有经验的优先;&lt;br /&gt;5 、加分项:强烈的责任心和主动性，能够积极主动的推进项目的进展，有过制作人经验加分。</description><pubDate>Mon, 25 Sep 2023 13:36:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977098#reply0</guid></item><item><title>[问与答] Apple tv 软件推荐</title><link>https://www.v2ex.com/t/977097#reply3</link><description>&lt;p&gt;800 买的 6 代 64g 带网口版，其实如果钱到位的话 7 代 128g 是最推荐的，芯片 a15 很强，体积小，未来方向可能会有游戏。但是想到自己只有看影视剧直播听歌的需求，6 代也够用了。&lt;br /&gt;&lt;br /&gt;装了 infuse 加阿里云盘，体验确实不错，就是阿里云盘空间太小，才 1t 。存个老友记就占了一半多了😂。&lt;br /&gt;aptv 看直播，没买 pro ，就用了一个直播源（ &lt;a href="https://github.com/fanmingming/live" rel="nofollow"&gt;https://github.com/fanmingming/live&lt;/a&gt; ）感觉还挺稳定的&lt;br /&gt;其他还装了 Netflix ，youtube ，cheers ，surge ，Spotify 。体验确实不错，surge 和 infuse 都能 iCloud 同步，但是 Netflix 没法倍速播放就不太满意，而且界面没有网页版合理，海报太大了。&lt;br /&gt;&lt;br /&gt;请问还有啥其他软件推荐吗？在 tv 上能实现网页浏览吗？还有啥其他 Apple tv 的黑科技大家也可以分享一下&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:31:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977097#reply3</guid></item><item><title>[程序员] 开源一个基于 vscode 代码库的框架 vscf , 目前已在 3 个项目里使用</title><link>https://www.v2ex.com/t/977096#reply0</link><description>感兴趣可以看 &lt;a href="https://github.com/hamsterbase/vscf" rel="nofollow noopener" target="_blank"&gt;https://github.com/hamsterbase/vscf&lt;/a&gt;</description><pubDate>Mon, 25 Sep 2023 13:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977096#reply0</guid></item><item><title>[问与答] 有个公司伪造 ad 证书的问题的问题一直没想明白</title><link>https://www.v2ex.com/t/977095#reply2</link><description>&lt;p&gt;公司上网需要是经过深信服的 http 代理，电脑被安装了一些安全软件，最近发现 chrome 上网的证书被换成了 digital guidance 这么一家公司的证书。但我又下了一个 brave portable 的浏览器上网，在看证书，发现证书是正确的
+问题。
+如果公司是用中间人攻击，那么应该是代理服务器那边伪造了一个证书和电脑沟通。电脑上他安装了伪造的证书就可以被 chrome 浏览器当成证书合法。这个能解释的到
+但是 brave 浏览器为何又能使用正确的证书呢？如果代理伪造证书，浏览器不承认应该会显示证书错误吧&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:25:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977095#reply2</guid></item></channel></rss>
