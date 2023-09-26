@@ -1,80 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 25 Sep 2023 17:29:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[浏览器] Chrome 怎么更便捷的打开书签？</title><link>https://www.v2ex.com/t/977119#reply3</link><description>&lt;p&gt;各位有没有觉得，Chrome 浏览器在设置不显示书签栏的情况下，打开书签挺不方便的，侧边栏感觉不太好用，这点 edge 浏览器做的挺好的直接点一下收藏夹图标就能打开，网页打开后自动就关闭了，非常便捷。
-我目前使用方法是新建标签页显示书签栏，用过书签侧边栏扩展一段时间，插件装太多了后边就没用了。&lt;/p&gt;
-&lt;p&gt;插件地址:
-&lt;a href="https://chromewebstore.google.com/detail/%E4%B9%A6%E7%AD%BE%E4%BE%A7%E8%BE%B9%E6%A0%8F/jdbnofccmhefkmjbkkdkfiicjkgofkdh" rel="nofollow"&gt;https://chromewebstore.google.com/detail/%E4%B9%A6%E7%AD%BE%E4%BE%A7%E8%BE%B9%E6%A0%8F/jdbnofccmhefkmjbkkdkfiicjkgofkdh&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;各位都是怎么使用 Chrome 的书签的？有什么便捷的方法可以分享吗？&lt;/p&gt;
-&lt;p&gt;万分感谢&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 17:12:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977119#reply3</guid></item><item><title>[长沙] [工作咨询] 腾讯云智（长沙）工作强度</title><link>https://www.v2ex.com/t/977118#reply0</link><description>&lt;p&gt;加班加怕了，想换个 WLB 的工作
-最近离职准备回长工作，请问各位 V 友，腾讯云智（长沙）工作强度和前景怎么样？
-有其他城市 CSIG 或者 TEG 子公司的朋友可以现身说法一下吗&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 17:03:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977118#reply0</guid></item><item><title>[程序员] 分享一行代码隐藏 B 站暂停时的按钮，解决截屏时按钮遮挡问题</title><link>https://www.v2ex.com/t/977117#reply0</link><description>&lt;p&gt;看到一部好片子时，像暂停截图，但是无论怎样暂停按钮都存在，影响观感，研究了下，以下是研究成果：
-&lt;img alt="暂停按钮遮挡" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/aND562K.png" /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;javascript: (function() {     pauseButton = document.querySelectorAll('.bpx-player-video-area .bpx-player-state-wrap')[0], pauseButton.hidden = !pauseButton.hidden })()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;用法：
-直接复制这段代码，鼠标放到浏览器栏，右键粘贴，这行代码就可以以书签的形式保存下来，点击这个书签就可以切换暂停按钮的显示状态。&lt;/p&gt;
-&lt;p&gt;或者直接复制这行代码，按 f12 打开浏览器 console 面板，粘贴这行代码回车执行&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 17:00:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977117#reply0</guid></item><item><title>[问与答] 求 Starry Night Pro Plus for Mac(天文模拟软件) v8.1 汉化版</title><link>https://www.v2ex.com/t/977116#reply0</link><description></description><pubDate>Mon, 25 Sep 2023 16:35:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977116#reply0</guid></item><item><title>[深圳] 就。。。。天天吃软饭</title><link>https://www.v2ex.com/t/977115#reply12</link><description>&lt;p&gt;两年前经济形势还没那么差的时候，觉得上家公司在白白烧钱，不看好未来，不续约滚蛋了。。
-当时找了找工作没找到满意的，看不惯那些公司天天 996 ，就不找了。。。。家里蹲，当起全职奶爸。主要居住用房无贷一身轻，另外有第二套房子在还贷，没多少，让老婆担着了。
-(其中有一点兄弟们要注意，就是超过 40 岁 HR 连简历都不会看你一眼直接否决，不管你是啥总监还是技术主管还是首席架构师。)&lt;/p&gt;
-&lt;p&gt;好彩老婆在一个人人唾弃的公司就职（不说了你反正猜的出来），职级挺高，股票就有 100 多 w 股。每年分红就 100 多 W 税后，就，干脆吃软饭吧&lt;/p&gt;
-&lt;p&gt;反正到 60 岁退休前都可以指望这个分红，这种资产性收入真正做到了每天睡醒就有钱进口袋，天天接送娃上学后，每天好生无趣，打游戏度日。&lt;/p&gt;
-&lt;p&gt;发这个帖子目的是想告诉各位老哥：
-1 、资产性收入才是最重要的，工资不可靠，不要觉得现在 1 狗 2 狗很不错，说不定哪天就没。
-2 、不在体制内做好 40 岁下课的准备，私企 45 岁一定滚蛋，无论你做到多高的职位，尤其是程序员
-3 、能转型早转型，不要写程序，搞销售等需要人际关系的职业是铁饭碗
-4 、任何工作，如果不能为以后自己创业带来帮助，趁早转。
-5 、想一线买房不是靠工资，而是靠股票（分红或者上市后卖）, 这里的股票不是 A 股那种公开市场上能买到的，那种，A 股说它是垃圾堆都抬举它了。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:51:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977115#reply12</guid></item><item><title>[程序员] Hi, 伙伴们，目前我人在北美，想代理一些软件。有没有同学想把自己开发的软件推广到北美市场？我们一起赚美刀</title><link>https://www.v2ex.com/t/977114#reply3</link><description>&lt;p&gt;Hi, 伙伴们，目前我人在北美，想代理一些软件。有没有同学想把自己开发的软件推广到北美市场？我们一起赚美刀？感兴趣请私聊。&lt;/p&gt;
-&lt;p&gt;加小飞机：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="enter image description here" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4ghLler.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:35:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977114#reply3</guid></item><item><title>[程序员] 数据库多条件查询索引如何设计比较好？</title><link>https://www.v2ex.com/t/977113#reply1</link><description>&lt;p&gt;SQLite 中有一张表 Table ，大约 30 个字段，该表不超过 50 万条数据。&lt;/p&gt;
-&lt;p&gt;现要做一个查询，其中条件涉及到 6 个字段信息：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Select * from Table 
-Where (f1==true || f2&amp;gt;0 || f3&amp;gt;0) &amp;amp;&amp;amp; f4==true &amp;amp;&amp;amp; f5!=null &amp;amp;&amp;amp; f6==false
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这种情况如何设计索引比较好？&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:28:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977113#reply1</guid></item><item><title>[职场话题] 上海中科软，要去吗， 23 届 7K</title><link>https://www.v2ex.com/t/977112#reply1</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;当时的求职帖子： &lt;a href="https://www.v2ex.com/t/971527" rel="nofollow"&gt;https://www.v2ex.com/t/971527&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;本人是 23 应届，专升本三本，Java 后端。&lt;/p&gt;
-&lt;h2&gt;现状&lt;/h2&gt;
-&lt;p&gt;只进行了线上面试，晚上就谈了薪资，问要不要接 offer 。&lt;/p&gt;
-&lt;p&gt;给 7k ，以 5k 的基数交五险一金。项目负责人（大概是）说工作经验限制薪资。&lt;/p&gt;
-&lt;p&gt;工作描述为:“项目实施、自己产品、到客户现场定制化开发”，这应该是外包吧。&lt;/p&gt;
-&lt;p&gt;调薪在 1 、7 月份，但半年内不能调薪，意味着可能错过下次 1 月份调薪。问了对方，未回复。&lt;/p&gt;
-&lt;p&gt;目前每天 10 点左右下班（甚至可能更久），15 元晚餐饭补。未来周六周天可能要加班，在无业务时安排调休。&lt;/p&gt;
-&lt;h2&gt;个人求职情况&lt;/h2&gt;
-&lt;p&gt;到上海求职 10 天了，Boss 直聘打招呼 1000+，只有昨天今天连续面了两个，一个小公司和中科软。&lt;/p&gt;
-&lt;p&gt;小公司：联系面试前甚至没要简历文件，面试时就领导问了个人情况，另外个人对领导印象不好。&lt;/p&gt;
-&lt;p&gt;犹豫，如果放弃掉这个 offer ，后续还能不能找到更好的工作。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:27:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977112#reply1</guid></item><item><title>[程序员] 求一套数字产品销售平台</title><link>https://www.v2ex.com/t/977111#reply2</link><description>&lt;p&gt;暂时能想到的功能：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;多类目 多属性管理&lt;/li&gt;
-&lt;li&gt;支持 elastic search 搜索&lt;/li&gt;
-&lt;li&gt;可前后端分离部署&lt;/li&gt;
-&lt;li&gt;支持多方账户注册登录&lt;/li&gt;
-&lt;li&gt;laravel 后端即可，便于维护&lt;/li&gt;
-&lt;li&gt;支付接口友好&lt;/li&gt;
-&lt;li&gt;商品富文本编辑&lt;/li&gt;
-&lt;li&gt;二开友好&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;看看是否有比较适合的 git 仓库？或者对外销售的产品也行&lt;/p&gt;
-&lt;p&gt;多谢&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 15:17:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977111#reply2</guid></item><item><title>[程序员] wechat 无法打开，国内版本的微信存在监控</title><link>https://www.v2ex.com/t/977110#reply7</link><description>从谷歌商店下载的微信显示（ wechat ）版本 8.0.33 的安装包导入手机中为啥不能打开？然后从手机自带的软件商店显（微信）更新后却可以正常使用&lt;br /&gt;从手机自带的软件商店下载低版本的微信去谷歌商店更新后可以正常打开的，导出的安装包显示的是 wechat ，然后卸载微信安装导出的微信还是不能打开的想问一下是什么原因导致的？&lt;br /&gt;国内的微信似乎存在监控聊天记录我向朋友发送微信密码二字及数字没有很长时间就找不到这个信息，如果不存在监控聊天记录是由于什么原因导致的？</description><pubDate>Mon, 25 Sep 2023 15:13:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977110#reply7</guid></item><item><title>[问与答] 请问这张海报上的电影标题是用什么艺术字做的？</title><link>https://www.v2ex.com/t/977108#reply9</link><description>就是标题 "TALK TO ME" 这个艺术字，不知道是用什么做出来的？请问各位老师有没有相关技术的关键词可以提示一下。&lt;br /&gt;&lt;a href="https://i.imgur.com/mcAJlhr.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/mcAJlhr.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 25 Sep 2023 15:07:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977108#reply9</guid></item><item><title>[问与答] Android 12 弹窗谷歌拼音请求访问谷歌账户的信息，第一次见</title><link>https://www.v2ex.com/t/977107#reply0</link><description>手机登录了新的谷歌账户之后，突然弹出一个很古老的界面，像多年前 Nexus 手机的风格，非常突兀&lt;br /&gt;------------------------------------------------&lt;br /&gt;谷歌拼音请求访问以下谷歌账户的信息：&lt;br /&gt;example@gmail.com&lt;br /&gt;&lt;br /&gt;以便日后......&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;拒绝     允许&lt;br /&gt;------------------------------------------------&lt;br /&gt;误操作点了允许，回过神来想想自己用的是 Gboard ，谷歌拼音已经下架 playstore 了，系统自带一个谷歌拼音 App 但从来没打开过，谷歌隐私设置里没有痕迹，请问这正常吗？&lt;br /&gt;用的上网软件是 Openclash ，前段时间刚出过问题，有点虚...</description><pubDate>Mon, 25 Sep 2023 15:02:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977107#reply0</guid></item><item><title>[投资] [20230925]小幅跑赢指数，小赚 3 万</title><link>https://www.v2ex.com/t/977106#reply0</link><description>&lt;p&gt;没什么好说的
-市场大部分时间都很无聊&lt;/p&gt;
-&lt;p&gt;继续转入证券账户 2 万元&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:59:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977106#reply0</guid></item><item><title>[Android] 现在 Clash for Android 已拥有和 Surfboard 一样的快捷方式</title><link>https://www.v2ex.com/t/977105#reply5</link><description>给 Clash for Android 加入了快捷方式。&lt;br /&gt;如果是三星手机，配合自带的“日常程序”可以自定义满足指定条件后执行开启/关闭操作。&lt;br /&gt;&lt;a href="https://imgur.com/a/z91qZpp" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/z91qZpp&lt;/a&gt;&lt;br /&gt;&lt;a href="https://imgur.com/a/5EQkspu" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/5EQkspu&lt;/a&gt;&lt;br /&gt;以下是 github 链接&lt;br /&gt;&lt;a href="https://github.com/HappyMax0/ClashForAndroid-1/releases/tag/v2.6.5" rel="nofollow noopener" target="_blank"&gt;https://github.com/HappyMax0/ClashForAndroid-1/releases/tag/v2.6.5&lt;/a&gt;</description><pubDate>Mon, 25 Sep 2023 14:58:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977105#reply5</guid></item><item><title>[iPhone] 给老婆买了 iphone15，感觉也不是很适合小白？</title><link>https://www.v2ex.com/t/977104#reply5</link><description>&lt;p&gt;反正我老婆摆烂了，让我一个个给她设置。&lt;/p&gt;
-&lt;p&gt;一上手一堆设置&lt;/p&gt;
-&lt;p&gt;刚刚甚至在“按两下安装的时候”，疯狂戳屏幕，很生气的和我说，“我按了两下了呀，怎么又给我退出去了”&lt;/p&gt;
-&lt;p&gt;哈哈，笑了我半天，和大家分享一下，还是让他习惯一下吧，看着还是挺喜欢的&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977104#reply5</guid></item><item><title>[互联网] 想调查一下人均每个月在确保网络畅通无阻上的花费</title><link>https://www.v2ex.com/t/977103#reply16</link><description>&lt;p&gt;发现朋友们在这件事上的花费参差不齐,甚至有白薅的,所以比较好奇各位同好们的开销如何. 我个人平均每月在这个上面的开销大约在 50USD.&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:23:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977103#reply16</guid></item><item><title>[互联网] wise 入金求助</title><link>https://www.v2ex.com/t/977102#reply7</link><description>&lt;p&gt;注册的国内账户，现在卡在入金激活环节。&lt;br /&gt;&lt;br /&gt;手头有的：&lt;br /&gt;1.汇丰运筹港卡 里面有少量美元 可以够激活&lt;br /&gt;问题： 入金的时候，选择借记卡，无法识别我的这张港卡。&lt;br /&gt;&lt;br /&gt;2.浦发 visa&lt;br /&gt;问题：无法通过信用卡渠道入金，显示这张信用卡用不了。&lt;br /&gt;&lt;br /&gt;3.美国发行的的 visa&lt;br /&gt;问题：借用亲戚的 visa 卡尝试绑定入金，竟然提示无法使用美国发行的 visa 卡（这点我是完全理解不了）&lt;br /&gt;&lt;br /&gt;现在似乎只能使用电汇或者 SWIFT 了，但是通过汇丰 HK 转过去需要 100 港元…… 有点不太舍得&lt;br /&gt;&lt;br /&gt;有没有正经点的不需要虚拟货币的手段入金激活啊&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 14:04:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977102#reply7</guid></item><item><title>[NAS] open nas lab：汇聚用户，开发者和厂商，致力打造最好 NAS 软件生态。</title><link>https://www.v2ex.com/t/977101#reply0</link><description>&lt;p&gt;我们是一群爱折腾的人，平时用 nas 比较多，但是深切的感受到软件生态的缺失，希望能成立一个组织，汇聚用户，开发者和厂商，共同构建 nas 的软件生态。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://article.biliimg.com/bfs/article/1d64b09e9a6930da7576a0c4793b0d9143394290.png" /&gt;&lt;/p&gt;
-&lt;p&gt;组织地址： &lt;a href="https://github.com/opennaslab" rel="nofollow"&gt;https://github.com/opennaslab&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;已有捐赠项目： &lt;a href="https://github.com/opennaslab/kubespider" rel="nofollow"&gt;https://github.com/opennaslab/kubespider&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;期待你的项目捐赠，一起吸引更多的用户，开发者和 NAS 厂商。&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:59:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977101#reply0</guid></item><item><title>[分享发现] [插件推荐] cssPicker：一键复制任何网页元素和样式代码</title><link>https://www.v2ex.com/t/977100#reply4</link><description>&lt;p&gt;闲着没事，开发了一个可以复制任何网站元素样式的 chrome 插件&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://chrome.google.com/webstore/detail/csspicker/laooinkgdapbcbjchpmihliljfnakkdh" rel="nofollow"&gt;插件地址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;官网地址：&lt;a href="https://www.csspicker.dev/" rel="nofollow"&gt;https://www.csspicker.dev/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;支持：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Sep 2023 14:56:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] NAT 虚拟机里面，想要 ssh 到宿主机，应该是 ssh 这个 ip 吗</title><link>https://www.v2ex.com/t/977399#reply0</link><description>&lt;p&gt;虚拟机软件：VMware Workstation Pro 12
+虚拟机：Ubuntu16 LTC
+宿主机：win10&lt;/p&gt;
+&lt;p&gt;目前宿主机能够 ssh 到虚拟机里面去。（没有设置什么端口映射，因为是我自己笔记本创建的虚拟机）&lt;/p&gt;
+&lt;p&gt;在 VMware 那边查看 NAT 子网信息：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;1 、一键复制元素 html 代码及其 css&lt;/li&gt;
-&lt;li&gt;2 、元素可以转成 JSX 形式&lt;/li&gt;
-&lt;li&gt;3 、样式可以转成 tailwind&lt;/li&gt;
+&lt;li&gt;网段为 &lt;a href="http://192.168.135.XXX" rel="nofollow"&gt;192.168.135.XXX&lt;/a&gt; （掩码 255.255.255.0 ）&lt;/li&gt;
+&lt;li&gt;网关为 192.168.135.2&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;有需要的可以体验下，欢迎反馈问题。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="插件图片" class="embedded_image" rel="noreferrer" src="https://lh3.googleusercontent.com/nRNM1lDqW-d5D0iBVqUzELayGlcTVBtg3od_H1Rid37q4_QFuNrPufNSpoF-pzEzo-YomIU1LiqFdkKAyjH8ZcgudNE=w640-h400-e365-rj-sc0x00ffffff" /&gt;&lt;/p&gt;</description><pubDate>Mon, 25 Sep 2023 13:48:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977100#reply4</guid></item><item><title>[分享发现] ChatGPT 现在可以看、听和说话了</title><link>https://www.v2ex.com/t/977099#reply0</link><description>&lt;p&gt;ChatGPT 现在推出了新的语音和图像功能，为用户提供了全新的、更直观的交互方式。这些功能使您可以通过语音对话或展示图像来与 ChatGPT 进行交流，从而更加丰富和多样化地与系统进行互动。&lt;/p&gt;
-&lt;p&gt;如果您想了解更多关于这些功能的信息，您可以点击以下链接：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/VBerZIHVEkpsizZ9xoh82w" rel="nofollow"&gt;中文详情&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" rel="nofollow"&gt;英文详情&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 25 Sep 2023 13:47:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977099#reply0</guid></item></channel></rss>
+&lt;p&gt;在 Ubuntu 里面查看 ip 为：192.168.135.128&lt;/p&gt;
+&lt;p&gt;现在我合计试一下 虚拟机 ssh 到宿主机试一下。以下我的宿主机的信息：
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/09/26/6e8dcb55bc923f64.png" /&gt;&lt;/p&gt;
+&lt;p&gt;然后，我发现 192.168.135.1 这个 ip 我根本 ping 不通，然后 ping 192.168.0.103 是可以的（以太网适配器的地址）。&lt;/p&gt;
+&lt;p&gt;后面又遇到一些问题，也这样解决了：通过给 Windows 添加 入站规则（允许 22 端口进入），安装可选功能——openSSH 服务器，并开始服务器。&lt;/p&gt;
+&lt;p&gt;现在有两个问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我在虚拟机里想 ssh 宿主机，就应该 ssh 到 192.168.0.103 （以太网适配器的地址）吗？为什么？&lt;/li&gt;
+&lt;li&gt;我在虚拟机里 ssh 宿主机的 192.168.0.103 ，目前总是提示 Permission denied, please try again ，但我的用户名和密码应该没有问题。然后我直接在 win10 里，ssh localhost 发现也是提示 Permission denied, please try again 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;a. 这说明提示权限不足和虚拟机没有关系，只有当我在 win10 里 ssh localhost 都可以成功的情况下，虚拟机 ssh 宿主机才可能成功。主要想问 这个思路应该是对的吧？&lt;/p&gt;
+&lt;p&gt;b. PS：不过也不想折腾了，Windows 的坑感觉比较多。不过有大佬知道的，也可以指导一下。&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:46:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977399#reply0</guid></item><item><title>[宽带症候群] 公网宽带不跑 pcdn 还有什么好玩的用法</title><link>https://www.v2ex.com/t/977398#reply0</link><description>RT ，家里装了 6 条 1000/300 的电信宽带，双栈公网，不能跑 pcdn ，一条带了群晖跑基本服务，其他的有什么玩法？&lt;br /&gt;ps：手头设备很多，gen10plus 三台，双路 x99 服务器一套，主机及小主机若干。&lt;br /&gt;nas 、虚拟化玩腻了，求问有啥好玩的东东。</description><pubDate>Tue, 26 Sep 2023 14:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977398#reply0</guid></item><item><title>[NAS] 自助补档服务(附带演示模型)</title><link>https://www.v2ex.com/t/977397#reply2</link><description>前段时间随手写的一个小程序，功能是给多个 transmission 添加删除任务&lt;br /&gt;现在常用的客户端 webui 功能都比较成熟了，都能用各种 API 实现增删启停任务&lt;br /&gt;&lt;br /&gt;后面想了一下，如果功能再拓展一下的话，可以做成一个自助补档服务：&lt;br /&gt;种子 A 、服务器 B 、用户 C&lt;br /&gt;正常情况是，A 做种，C 从 A 处下载&lt;br /&gt;但是 A 停止做种后，C 只能借助离线网盘下载，如果离线网盘失效了，那就只能虚空下载或者等待补档&lt;br /&gt;&lt;br /&gt;但是有了 B 后，B 不保存数据，但是有 A 的权限，能搜索并启动 A 的任务，在 A 停止做种后，C 可以通过 B 重启 A 的做种任务&lt;br /&gt;&lt;br /&gt;虽然不能完全解决断档问题，但是只要还保存在任务列表中的，还是可以保证文件能完成下载&lt;br /&gt;&lt;br /&gt;甚至其实可以作为 tracker 的插件，设置专用的补档 tracker ，tracker 提供索引的同时启动做种任务</description><pubDate>Tue, 26 Sep 2023 14:42:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977397#reply2</guid></item><item><title>[Cloudflare] Cloudflared tunnel 应用登录问题</title><link>https://www.v2ex.com/t/977396#reply1</link><description>&lt;p&gt;docker 跑了 jellyfin ， 登录用户名:abcd ，密码: 123456
+我 localhost:8096 可以正常的登录，服务器 ip 是 192.168.2.138&lt;/p&gt;
+&lt;p&gt;cloudflared 也是 docker 安装的.&lt;/p&gt;
+&lt;p&gt;然后 cloudflare tunnel 面板，创建了
+&lt;a href="http://jellyfin.hostname.com" rel="nofollow"&gt;jellyfin.hostname.com&lt;/a&gt; 这个和 192.168.2.138:8096 绑定&lt;/p&gt;
+&lt;p&gt;但是我浏览器访问 &lt;a href="http://jellyfin.hostname.com" rel="nofollow"&gt;jellyfin.hostname.com&lt;/a&gt;, 可以打开登录页面，但是输入正确的用户名密码无法登陆.
+其他的有应用比如青龙面板也有这样的问题&lt;/p&gt;
+&lt;p&gt;搜索了下好像别人没碰到过，请问啥原因？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:38:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977396#reply1</guid></item><item><title>[iPhone] iPhone 15 和 15 Pro 都能输出显示内容到显示器了，接口支持的 DP 协议是哪一代？</title><link>https://www.v2ex.com/t/977395#reply0</link><description>&lt;p&gt;现在都说是能输出 4K60 ，支持的 DP 协议是 DP1.2 还是 1.4 。
+1.4 的话是不是就有机会输出 4K120 ？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:34:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977395#reply0</guid></item><item><title>[Android] 询问 bilibili 存储位置问题</title><link>https://www.v2ex.com/t/977393#reply8</link><description>&lt;p&gt;我从 play store 上下载了 bilibili, 但是没有登录, 看了一段时间, 此时是有个性化推送和浏览记录的.&lt;/p&gt;
+&lt;p&gt;之后, 我删除了 APP 的数据, 再次打开发现浏览记录和个性化推送还在 ???&lt;/p&gt;
+&lt;p&gt;手动排查了 data/data, data/app, Android/data, 卸载重装均删除干净, 但问题依旧未解决&lt;/p&gt;
+&lt;p&gt;之后我 hook 了手机的参数, ssid 等, 防止被标识为同一用户, 均为解决问题&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;谁能告诉我它是如何做到的?&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:26:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977393#reply8</guid></item><item><title>[Apple] 我和期待苹果在更多设备上用 U2 超宽频芯片</title><link>https://www.v2ex.com/t/977392#reply1</link><description>&lt;p&gt;前几天在油管看了 AK 的深度解析，讲到 U2 超宽频时我想到了如果 Mac 加入了 U2 超宽频那还要个什么 USB3.0 啊。直接隔空投送呗。大家觉得现实吗？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:11:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977392#reply1</guid></item><item><title>[问与答] 关于智能家居的问题</title><link>https://www.v2ex.com/t/977390#reply0</link><description>一个奇怪的问题，米家的设备怎么接入 Google home ，或许可以像先接入 homeassistant 再接入 Apple 生态一样？&lt;br /&gt;其实 Google home 和米家是可以原生互联的，但是绑定了米家账号后（竟然支持国区的账号），只有两个设备，兼容性太差了，连智能开关都没适配。&lt;br /&gt;&lt;a href="https://i.imgur.com/okDwBe9.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/okDwBe9.png" /&gt;&lt;/a&gt;&lt;br /&gt;自己 Google 了一下，很多资料没看明白，都是指向 Google assistant 的。</description><pubDate>Tue, 26 Sep 2023 13:59:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977390#reply0</guid></item><item><title>[分享创造] tiktok 运营、paypal 养号、google voice 注册总是失败，是 ip 问题，手把手教你配置住宅 ip 环境</title><link>https://www.v2ex.com/t/977389#reply5</link><description>&lt;p&gt;视频教程地址： &lt;a href="https://youtu.be/vmX_dXiWffA?si=XWVT2SPgQovdXf38" rel="nofollow"&gt;https://youtu.be/vmX_dXiWffA?si=XWVT2SPgQovdXf38&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:55:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977389#reply5</guid></item><item><title>[问与答] 独立开发者如何寻找稳定的办公地点？</title><link>https://www.v2ex.com/t/977388#reply2</link><description>最近家里要填一位新成员，我的办公房间被征用了，没处工作了😂&lt;br /&gt;&lt;br /&gt;有自己在外面工作的 v 友吗，你们的工位在哪里找的？&lt;br /&gt;&lt;br /&gt;坐标成都</description><pubDate>Tue, 26 Sep 2023 13:50:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977388#reply2</guid></item><item><title>[MacBook Pro] m1 pro 16 寸定制机感觉不好收 半天没收到</title><link>https://www.v2ex.com/t/977387#reply0</link><description>m1 pro 16 寸定制机感觉不好收  半天没收到</description><pubDate>Tue, 26 Sep 2023 13:48:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977387#reply0</guid></item><item><title>[问与答] 曲面屏手机怎么解决贴膜问题？</title><link>https://www.v2ex.com/t/977385#reply1</link><description>以前用的 oneplus 也好 Moto 也罢，都是直屏的。自从换了小米 ultra 系列之后，钢化膜基本没可能了，就算有，也是有增强强度的黑边，只能用软膜。可是软膜在曲边磕磕碰碰（比如横着无线充电），一两个月就有零星脱落了。心累~各位使用曲面屏的是怎么解决这个问题的？我以后还是乖乖换直屏吧。</description><pubDate>Tue, 26 Sep 2023 13:43:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977385#reply1</guid></item><item><title>[酷工作] [上海] 拼多多急招 Java 后端</title><link>https://www.v2ex.com/t/977384#reply0</link><description>岗位职责&lt;br /&gt;1 、负责社区团购核心模块的研发和架构，深入发掘和分析业务需求，撰写技术方案和系统设计；&lt;br /&gt;2 、参与技术方案和系统设计评审；把握复杂系统的设计，确保系统的架构质量；&lt;br /&gt;3 、系统核心部分代码编写，疑难问题的解决；&lt;br /&gt;4 、对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件；&lt;br /&gt;5 、持续改进系统架构，保证系统高性能、高可用性和高可扩展性。&lt;br /&gt;&lt;br /&gt;任职要求&lt;br /&gt;1 、JAVA 基础扎实，理解 io 、多线程、集合等基础框架，对 JVM 原理有一定的了解；&lt;br /&gt;2 、2 年以上使用 JAVA 开发的经验，熟悉常用的中间件及存储，深入了解原理&lt;br /&gt;3 、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息；能对分布式常用技术进行合理应用，解决问题；&lt;br /&gt;4 、良好的沟通技能，团队合作能力，能够推动跨团队项目顺利落地&lt;br /&gt;5 、自驱力强，能够主动学习新技术新架构，从技术趋势和思路上能影响技术团队；&lt;br /&gt;6 、有互联网行业高并发、高稳定、高性能、大数据处理或电商平台业务背景相关的开发、设计经验者优先。&lt;br /&gt;&lt;br /&gt;联系方案（ base64 ）&lt;br /&gt;邮箱：c2RscmZAcXEuY29t&lt;br /&gt;也可以加微信聊：cmVuZm1l&lt;br /&gt;&lt;br /&gt;技术挑战多，薪资丰厚，欢迎来撩</description><pubDate>Tue, 26 Sep 2023 13:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977384#reply0</guid></item><item><title>[OpenAI] chatgpt 支持图像和语音了，买 poe 的人是不是血亏</title><link>https://www.v2ex.com/t/977383#reply0</link><description>&lt;p&gt;rt
+看了官方的演示，也太强了： &lt;a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" rel="nofollow"&gt;https://openai.com/blog/chatgpt-can-now-see-hear-and-speak&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:33:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977383#reply0</guid></item><item><title>[生活] 谈谈这些年舌尖上的经历</title><link>https://www.v2ex.com/t/977381#reply1</link><description>&lt;p&gt;最近关于食堂和预制菜的话题很多，我想到这些年关于吃的事，有些想说的话，不知道大家对这些年的食材质量变化有没有类似的感觉。&lt;/p&gt;
+&lt;p&gt;鸡肉&lt;/p&gt;
+&lt;p&gt;小时候吃的鸡肉（炸鸡翅），不管是外卖炸的，还是家里做的，做完之后里面的肉都是全白的，没有腥味。现在吃的鸡肉，下餐馆还好一点，点外卖十有八九是那种半透明的鸡肉，腥味去不干净，由于没做熟，吃起来有粗纤维感，一条一条的（以前的鸡肉吃起来是细纤维感，不会有嚼不烂的感觉，鸡肉嚼不烂真无法下咽）。&lt;/p&gt;
+&lt;p&gt;以至于我现在吃鸡只敢去肯德基、麦当劳，因为华莱士、德克士的鸡吃了几次全是这种八分熟夹腥肉，而肯德基、麦当劳则是五成概率，甚至偶尔能吃到以前的那种有麦香味的熟鸡（十几年前，别说肯德基了，我去山寨肯德基里点的鸡排堡，里面的鸡肉都是全熟无腥的，不知道现在怎么退步到这个样子，把肉做熟有那么难吗）&lt;/p&gt;
+&lt;p&gt;鸭肉&lt;/p&gt;
+&lt;p&gt;小时候最喜欢吃的鸭肉是烤鸭，那个时候门口路边摊卖的片皮烤鸭，十几块半只，皮脆肉嫩，腥味少，最重要的是分布合理，皮是覆盖在肉上面的。现在外卖点的片皮烤鸭，很多都是皮在肉的侧面，酱抹少了都无法下咽。&lt;/p&gt;
+&lt;p&gt;另一种常见的鸭肉是烧烤的鸭肉串，我怀疑我小时候吃的很多羊肉串都是鸭肉串。至于现在的鸭肉串，还是和鸡肉一样的夹生问题，做不熟就送出去了，即使是正新鸡排这种连锁的也是这样。&lt;/p&gt;
+&lt;p&gt;猪肉&lt;/p&gt;
+&lt;p&gt;小时候吃的猪肉最喜欢的是所谓的巴西烤肉（主要是裹料）和土耳其烤肉（旋转切片的那种），一半肉一半菜能就三碗饭，现在就很少看到了，外卖上点了次巴西烤肉，一眼料理包不说，吃起来味如嚼蜡，不如闻闻调料香味就扔了算了。另一种常见的就是红烧肉和东坡肉了，东坡肉就在饭店里吃过几次，味道不错，但日常吃的更多的还是红烧肉，外卖的红烧肉只能说一如既往地平庸，酱油的香味越来越少，肉本身的肉质也是每况愈下。&lt;/p&gt;
+&lt;p&gt;牛肉&lt;/p&gt;
+&lt;p&gt;牛肉反而是这十几年来口味变化最小的，因为本来就没腥味，即使半熟也只有一点铁腥味，而不是鸡鸭猪那种有生物气息的腥臭味。我更喜欢吃牛腩而不是牛柳，鸡公煲里的牛腩煲味道不错。&lt;/p&gt;
+&lt;p&gt;羊肉&lt;/p&gt;
+&lt;p&gt;这个真的是重灾区，现在点外卖想吃羊肉串，如果不是新疆人开的，100%踩雷。不管是夸父喜姐还是其他不知名的小店，那羊肉串基本上是同一个模子里刻出来的，刻意的膻味、掩盖不住的肉腥，以及根本无法确定的肉来源。新疆人卖的羊肉串，踩雷最多的还是没烤熟，至少不会出现那种腥出薄荷味的糟糕口感。&lt;/p&gt;
+&lt;p&gt;肯德基/麦当劳&lt;/p&gt;
+&lt;p&gt;小时候肯德基还是同龄人中比较奢侈的存在，只有考好了爸妈才会带我去吃，那个时候除了胡萝卜餐包和墨西哥鸡肉卷接受不能之外，其他的对我来说都是不可多得的美味，新品也有惊喜，比如骨肉相连和豪情壮翅。后来等经济发展起来了，吃肯德基的机会也越来越多了，但是好景没过几年，不知道从什么时候开始，我发现肯德基/麦当劳的味道也变了，鸡翅的麦香越来越少，鸡腿堡里的鸡排腥味越来越重，只有特殊工艺做的吮指原味鸡口味一直在线，之后去肯德基/麦当劳只会点牛肉堡了，牛肉堡的碎牛饼口感寡淡，但是不会踩雷。&lt;/p&gt;
+&lt;p&gt;鸡排&lt;/p&gt;
+&lt;p&gt;第一次吃到好吃的鸡排是中学时候的豪大大鸡排（可能是山寨的店），完全熟透的大鸡排，加上酸甜交织的甘梅粉，直到现在还时常怀念。最近这几年火起来的正新鸡排，我直到现在还莫名其妙，正新鸡排刚火的那一年我就买了，皮肉分离，皮无味，肉不熟，很难称得上是合格的炸鸡排，鸡肉串、鸭肉串更是模板化的难吃。这种劣币驱逐良币的现象给了我沉重的打击，可惜我只是一个食客，什么都做不了。最近点了一份外卖的豪大大鸡排，发现了和正新鸡排类似的皮肉分离和粗纤维感，麻完了，不只是劣币驱逐良币，良币在这种环境下自己已经生锈了。&lt;/p&gt;
+&lt;p&gt;总结&lt;/p&gt;
+&lt;p&gt;感觉食材口味的断崖式下跌的最重要节点就是外卖的普及。外卖刚兴起的时候，饿了吗和美团还在撒钱抢市场，对商家的剥削程度不高，所以这个时候开外卖的店基本上都是堂食的副业，在店里吃和点外卖的口味差别不大，而且价格甚至比堂食还便宜许多，那个时候十块钱点的烤鸭饭是真的烤鸭腿，皮酥肉嫩。等到外卖市场饱和了，饿了么/美团也就不装了，开始直接剥削商家，间接剥削顾客。从那个时候开始，商家也开始摆烂了，口味明显变差，应该是料理包火起来了，青椒肉丝/鱼香肉丝/梅菜扣肉/酸菜鱼，逐渐失去了鲜味，变得千篇一律，说难吃道不至于，但很难有那种上菜前口舌生津的反应了，如果有药丸能解决饥饿和营养问题，即使价格比外卖贵，我也选择药丸。而外卖兴起后，越来越多没有经验的人也来涉足餐饮市场，最常见的就是遍地的东北烧烤、X 哥烧烤、XX 家常菜，全是冷冻半成品和料理包不说，烧烤的熟度也完全没有把握，这些东西我不知道店家自己能不能吃得下去。&lt;/p&gt;
+&lt;p&gt;最近预制菜的声音越来越大，感觉我今后的舌尖会越来越不好受。不过又能怎样呢，也许吃现炒的菜本来就是一件奢侈的事，只是那个年代经济不够发达，我们才能用这么低的成本请厨师花这么多时间现场做菜吧。经济越发展，涉及人工的服务越贵，这点在发达国家的身上已经验证过了，发展中国家如果继续发展，也许也避免不了这一点吧，唯一可惜的是，我们还没有发达到富裕的程度，就已经走到了这一步。&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:29:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977381#reply1</guid></item><item><title>[分享发现] Spotify 的播客 podcast 语音翻译功能超赞，真正跨越语言障碍</title><link>https://www.v2ex.com/t/977380#reply0</link><description>Spotify 新出了一个播客翻译功能，能够使用作者的声音用另外一种语言重述。目前测试的都是将英语转化为其他拉丁语言，根据评论来看效果挺好。不知道将英语转化为汉语日语还能有这样的效果吗。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://twitter.com/eldsjal/status/1706325294481576006?s=20" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/eldsjal/status/1706325294481576006?s=20&lt;/a&gt;</description><pubDate>Tue, 26 Sep 2023 13:09:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977380#reply0</guid></item><item><title>[程序员] 量化投资的人为什么并不多？仅仅是因为学历的问题？</title><link>https://www.v2ex.com/t/977379#reply0</link><description>今天发现很多金融毕业的大部分也都没有从事量化投资行业，真的仅仅学历问题吗？还是说其他的？</description><pubDate>Tue, 26 Sep 2023 13:08:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977379#reply0</guid></item><item><title>[OpenAI] 1:1 出 gpt4 直连独享额度</title><link>https://www.v2ex.com/t/977378#reply0</link><description>600 刀=600 元出租&lt;br /&gt;拉阅读权限&lt;br /&gt;使用时间到月底&lt;br /&gt;独享 &lt;br /&gt;&lt;br /&gt;联系 tg=gpt9900&lt;br /&gt;联系 v=gpt9922</description><pubDate>Tue, 26 Sep 2023 13:03:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977378#reply0</guid></item><item><title>[摄影] 玩灯交流，神牛、保富图</title><link>https://www.v2ex.com/t/977375#reply1</link><description>&lt;p&gt;人像摄影为主，玩灯算到头了，没有摄影棚，都是外拍灯为主（神牛从 ad600pro 下基本都有）。有没有玩灯的交流群？常亮、闪都可以。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/C8PKf7I.jpg" rel="nofollow"&gt;https://imgur.com/C8PKf7I.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/bJPZlN4.jpg" rel="nofollow"&gt;https://imgur.com/bJPZlN4.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 12:49:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977375#reply1</guid></item><item><title>[Vue.js] vue3 ref 的值问题</title><link>https://www.v2ex.com/t/977374#reply4</link><description>&lt;p&gt;我定义了一个
+const tempArr = ref([]);
+然后
+tempArr.value = newArrayList;
+console.log(tempArr.value);
+当前组建能打印出 tempArr.value 的具体值  也就是 newArrayList 的值&lt;/p&gt;
+&lt;p&gt;但是我传递到另一个 js 文件中，接收后 发现接收的值是空的 即 Proxy(Array) {}
+chatGPT 说是  这样直接赋值会损失响应性  正确赋值方式 tempArr.value.push(...newArrayList);&lt;br /&gt;
+试了下 确实可以&lt;/p&gt;
+&lt;p&gt;但之前 const object = ref({});
+object.value = newObject;  我好像也没出错（可能只在当前同一个组件中，没有跨 js ）
+我没太明白 请大佬解释下&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 12:45:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977374#reply4</guid></item></channel></rss>
