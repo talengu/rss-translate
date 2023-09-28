@@ -1,68 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Sep 2023 14:56:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] NAT 虚拟机里面，想要 ssh 到宿主机，应该是 ssh 这个 ip 吗</title><link>https://www.v2ex.com/t/977399#reply0</link><description>&lt;p&gt;虚拟机软件：VMware Workstation Pro 12
-虚拟机：Ubuntu16 LTC
-宿主机：win10&lt;/p&gt;
-&lt;p&gt;目前宿主机能够 ssh 到虚拟机里面去。（没有设置什么端口映射，因为是我自己笔记本创建的虚拟机）&lt;/p&gt;
-&lt;p&gt;在 VMware 那边查看 NAT 子网信息：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 28 Sep 2023 02:13:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 跪求大家帮忙推荐一款免费，开源的客户关系管理系统。</title><link>https://www.v2ex.com/t/977817#reply0</link><description>&lt;p&gt;打扰了各位，我需要这样一款免费的软件：&lt;/p&gt;
+&lt;p&gt;维护客户信息：输入客户名称，多久拜访一次（ 2 周，1 个月，regular schedule ），地址信息之类的。&lt;/p&gt;
+&lt;p&gt;然后每次打开软件，就提示当周需要拜访的客户。如果拜访过了，修改状态，自动进入下个拜访周期。&lt;/p&gt;
+&lt;p&gt;越简单越好~&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 02:09:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977817#reply0</guid></item><item><title>[问与答] 求 Java 开源项目推荐(前后端分离项目），在校学生</title><link>https://www.v2ex.com/t/977816#reply0</link><description>&lt;p&gt;技术栈：spring ，sprngmvc,springboot,rocketmq,mysql,mybatis 等，
+前端； vue3,axios,element ui 等，目前在做 vhr(项目），目前在学 redis,大四不是很忙，求推荐
+&lt;a href="https://github.com/Breeze1203" rel="nofollow"&gt;https://github.com/Breeze1203&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 02:09:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977816#reply0</guid></item><item><title>[Go 编程语言] Go's Assembler 01: defer</title><link>https://www.v2ex.com/t/977815#reply0</link><description>&lt;p&gt;Link: &lt;a href="http://blog.j2gg0s.com/" rel="nofollow"&gt;http://blog.j2gg0s.com/&lt;/a&gt;
+全文依然基于 go1.21.1, GOOS=linux, GOARCH=amd64, 编译和反汇编都运行在 macOS.&lt;/p&gt;
+&lt;p&gt;当前 Go 实现 defer 机制的方式有三种: open coded, stack allocated 和 heap allocated.&lt;/p&gt;
+&lt;p&gt;Open coded 指在编译时, 将 defer 直接插入函数返回的位置, 和直接调用相比也基本没有额外的开销.&lt;/p&gt;
+&lt;p&gt;Stack allocated 和 heap allocated 类似.
+首先都是在遇到 defer 时将其保存到当前 goroutine.
+随后在函数返回的位置插入对 runtime.deferreturn 的调用, 该函数按照先进后出的顺序执行当前 goroutine 的 defer 函数.
+二者的区别在于前者在插入 defer 时使用栈上空间, 性能损失小;
+后者使用推上空间, 有巨大的性能成本.&lt;/p&gt;
+&lt;h2&gt;open coded&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://go.googlesource.com/proposal/+/refs/heads/master/design/34481-opencoded-defers.md" rel="nofollow"&gt;相关设计文档&lt;/a&gt;
+中有个非常形象的例子.&lt;/p&gt;
+&lt;p&gt;假设代码如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;defer f1(a)
+if cond {
+ defer f2(b)
+}
+body...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;经过编译后的代码如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;deferBits |= 1&amp;lt;&amp;lt;0
+tmpF1 = f1
+tmpA = a
+if cond {
+ deferBits |= 1&amp;lt;&amp;lt;1
+ tmpF2 = f2
+ tmpB = b
+}
+body...
+exit:
+if deferBits &amp;amp; 1&amp;lt;&amp;lt;1 != 0 {
+ deferBits &amp;amp;^= 1&amp;lt;&amp;lt;1
+ tmpF2(tmpB)
+}
+if deferBits &amp;amp; 1&amp;lt;&amp;lt;0 != 0 {
+ deferBits &amp;amp;^= 1&amp;lt;&amp;lt;0
+ tmpF1(tmpA)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;即:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;网段为 &lt;a href="http://192.168.135.XXX" rel="nofollow"&gt;192.168.135.XXX&lt;/a&gt; （掩码 255.255.255.0 ）&lt;/li&gt;
-&lt;li&gt;网关为 192.168.135.2&lt;/li&gt;
+&lt;li&gt;将 defer 涉及的函数和变量都保存到栈上&lt;/li&gt;
+&lt;li&gt;用 deferBits 来保存对应的 defer 是否应该执行&lt;/li&gt;
+&lt;li&gt;编译过程中, 在函数退出时插入调用代码&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在 Ubuntu 里面查看 ip 为：192.168.135.128&lt;/p&gt;
-&lt;p&gt;现在我合计试一下 虚拟机 ssh 到宿主机试一下。以下我的宿主机的信息：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/09/26/6e8dcb55bc923f64.png" /&gt;&lt;/p&gt;
-&lt;p&gt;然后，我发现 192.168.135.1 这个 ip 我根本 ping 不通，然后 ping 192.168.0.103 是可以的（以太网适配器的地址）。&lt;/p&gt;
-&lt;p&gt;后面又遇到一些问题，也这样解决了：通过给 Windows 添加 入站规则（允许 22 端口进入），安装可选功能——openSSH 服务器，并开始服务器。&lt;/p&gt;
-&lt;p&gt;现在有两个问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;我在虚拟机里想 ssh 宿主机，就应该 ssh 到 192.168.0.103 （以太网适配器的地址）吗？为什么？&lt;/li&gt;
-&lt;li&gt;我在虚拟机里 ssh 宿主机的 192.168.0.103 ，目前总是提示 Permission denied, please try again ，但我的用户名和密码应该没有问题。然后我直接在 win10 里，ssh localhost 发现也是提示 Permission denied, please try again 。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;a. 这说明提示权限不足和虚拟机没有关系，只有当我在 win10 里 ssh localhost 都可以成功的情况下，虚拟机 ssh 宿主机才可能成功。主要想问 这个思路应该是对的吧？&lt;/p&gt;
-&lt;p&gt;b. PS：不过也不想折腾了，Windows 的坑感觉比较多。不过有大佬知道的，也可以指导一下。&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:46:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977399#reply0</guid></item><item><title>[宽带症候群] 公网宽带不跑 pcdn 还有什么好玩的用法</title><link>https://www.v2ex.com/t/977398#reply0</link><description>RT ，家里装了 6 条 1000/300 的电信宽带，双栈公网，不能跑 pcdn ，一条带了群晖跑基本服务，其他的有什么玩法？&lt;br /&gt;ps：手头设备很多，gen10plus 三台，双路 x99 服务器一套，主机及小主机若干。&lt;br /&gt;nas 、虚拟化玩腻了，求问有啥好玩的东东。</description><pubDate>Tue, 26 Sep 2023 14:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977398#reply0</guid></item><item><title>[NAS] 自助补档服务(附带演示模型)</title><link>https://www.v2ex.com/t/977397#reply2</link><description>前段时间随手写的一个小程序，功能是给多个 transmission 添加删除任务&lt;br /&gt;现在常用的客户端 webui 功能都比较成熟了，都能用各种 API 实现增删启停任务&lt;br /&gt;&lt;br /&gt;后面想了一下，如果功能再拓展一下的话，可以做成一个自助补档服务：&lt;br /&gt;种子 A 、服务器 B 、用户 C&lt;br /&gt;正常情况是，A 做种，C 从 A 处下载&lt;br /&gt;但是 A 停止做种后，C 只能借助离线网盘下载，如果离线网盘失效了，那就只能虚空下载或者等待补档&lt;br /&gt;&lt;br /&gt;但是有了 B 后，B 不保存数据，但是有 A 的权限，能搜索并启动 A 的任务，在 A 停止做种后，C 可以通过 B 重启 A 的做种任务&lt;br /&gt;&lt;br /&gt;虽然不能完全解决断档问题，但是只要还保存在任务列表中的，还是可以保证文件能完成下载&lt;br /&gt;&lt;br /&gt;甚至其实可以作为 tracker 的插件，设置专用的补档 tracker ，tracker 提供索引的同时启动做种任务</description><pubDate>Tue, 26 Sep 2023 14:42:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977397#reply2</guid></item><item><title>[Cloudflare] Cloudflared tunnel 应用登录问题</title><link>https://www.v2ex.com/t/977396#reply1</link><description>&lt;p&gt;docker 跑了 jellyfin ， 登录用户名:abcd ，密码: 123456
-我 localhost:8096 可以正常的登录，服务器 ip 是 192.168.2.138&lt;/p&gt;
-&lt;p&gt;cloudflared 也是 docker 安装的.&lt;/p&gt;
-&lt;p&gt;然后 cloudflare tunnel 面板，创建了
-&lt;a href="http://jellyfin.hostname.com" rel="nofollow"&gt;jellyfin.hostname.com&lt;/a&gt; 这个和 192.168.2.138:8096 绑定&lt;/p&gt;
-&lt;p&gt;但是我浏览器访问 &lt;a href="http://jellyfin.hostname.com" rel="nofollow"&gt;jellyfin.hostname.com&lt;/a&gt;, 可以打开登录页面，但是输入正确的用户名密码无法登陆.
-其他的有应用比如青龙面板也有这样的问题&lt;/p&gt;
-&lt;p&gt;搜索了下好像别人没碰到过，请问啥原因？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:38:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977396#reply1</guid></item><item><title>[iPhone] iPhone 15 和 15 Pro 都能输出显示内容到显示器了，接口支持的 DP 协议是哪一代？</title><link>https://www.v2ex.com/t/977395#reply0</link><description>&lt;p&gt;现在都说是能输出 4K60 ，支持的 DP 协议是 DP1.2 还是 1.4 。
-1.4 的话是不是就有机会输出 4K120 ？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:34:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977395#reply0</guid></item><item><title>[Android] 询问 bilibili 存储位置问题</title><link>https://www.v2ex.com/t/977393#reply8</link><description>&lt;p&gt;我从 play store 上下载了 bilibili, 但是没有登录, 看了一段时间, 此时是有个性化推送和浏览记录的.&lt;/p&gt;
-&lt;p&gt;之后, 我删除了 APP 的数据, 再次打开发现浏览记录和个性化推送还在 ???&lt;/p&gt;
-&lt;p&gt;手动排查了 data/data, data/app, Android/data, 卸载重装均删除干净, 但问题依旧未解决&lt;/p&gt;
-&lt;p&gt;之后我 hook 了手机的参数, ssid 等, 防止被标识为同一用户, 均为解决问题&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func max(a, b int) int {
+        if a &amp;gt; b {
+                defer func() {
+                        fmt.Println("max is a")
+                }()
+                return a
+        }
+        defer func() {
+                fmt.Println("max is b")
+        }()
+        return b
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对应的汇编代码:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;栈上的 0~6th 字节未使用, 7th 字节被用来存储 deferbits&lt;/li&gt;
+&lt;li&gt;8~15th 字节用于在调用 defer 前暂存 main.max 的返回值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;000000000047ae00 &amp;lt;main.max&amp;gt;:
+; func max(a, b int) int {
+  47ae00: 49 3b 66 10                  	cmpq	16(%r14), %rsp
+  47ae04: 0f 86 87 00 00 00            	jbe	0x47ae91 &amp;lt;main.max+0x91&amp;gt;
+  47ae0a: 55                           	pushq	%rbp
+  47ae0b: 48 89 e5                     	movq	%rsp, %rbp
+  47ae0e: 48 83 ec 20                  	subq	$32, %rsp
+  47ae12: 44 0f 11 7c 24 10            	movups	%xmm15, 16(%rsp)
+  47ae18: c6 44 24 07 00               	movb	$0, 7(%rsp)
+  47ae1d: 48 c7 44 24 08 00 00 00 00   	movq	$0, 8(%rsp)
+; 	if a &amp;gt; b {
+  47ae26: 48 39 d8                     	cmpq	%rbx, %rax              ; rax - rbx
+  47ae29: 7e 2b                        	jle	0x47ae56 &amp;lt;main.max+0x56&amp;gt;    ; jle -&amp;gt; jump if less or equal
+; 		defer func() {
+  47ae2b: 48 8d 0d c6 06 02 00         	leaq	132806(%rip), %rcx      # 0x49b4f8 &amp;lt;go:func.*+0x220&amp;gt;    ; 见后续
+  47ae32: 48 89 4c 24 18               	movq	%rcx, 24(%rsp)                                          ; 见后续
+  47ae37: c6 44 24 07 01               	movb	$1, 7(%rsp)             ; deferbits 的第一个 bit 被置为 1, movb 仅移动一个字节
+; 		return a
+  47ae3c: 48 89 44 24 08               	movq	%rax, 8(%rsp)           ; 调用 defer 将 rax 中的返回结果暂存到栈中
+  47ae41: c6 44 24 07 00               	movb	$0, 7(%rsp)             ; 清空 deferbits 的第一个 bit
+  47ae46: e8 b5 00 00 00               	callq	0x47af00 &amp;lt;main.max.func1&amp;gt;
+  47ae4b: 48 8b 44 24 08               	movq	8(%rsp), %rax
+  47ae50: 48 83 c4 20                  	addq	$32, %rsp
+  47ae54: 5d                           	popq	%rbp
+  47ae55: c3                           	retq
+; 	defer func() {
+  47ae56: 48 8d 05 a3 06 02 00         	leaq	132771(%rip), %rax      # 0x49b500 &amp;lt;go:func.*+0x228&amp;gt;
+  47ae5d: 48 89 44 24 10               	movq	%rax, 16(%rsp)
+  47ae62: c6 44 24 07 02               	movb	$2, 7(%rsp)             ; 第二个 defer 对应 deferbits 的第二个 bit
+; 	return b
+  47ae67: 48 89 5c 24 08               	movq	%rbx, 8(%rsp)
+  47ae6c: c6 44 24 07 00               	movb	$0, 7(%rsp)
+  47ae71: e8 ea 00 00 00               	callq	0x47af60 &amp;lt;main.max.func2&amp;gt;
+  47ae76: 48 8b 44 24 08               	movq	8(%rsp), %rax
+  47ae7b: 48 83 c4 20                  	addq	$32, %rsp
+  47ae7f: 5d                           	popq	%rbp
+  47ae80: c3                           	retq
+  47ae81: e8 5a 47 fb ff               	callq	0x42f5e0 &amp;lt;runtime.deferreturn&amp;gt;  
+  47ae86: 48 8b 44 24 08               	movq	8(%rsp), %rax
+  47ae8b: 48 83 c4 20                  	addq	$32, %rsp
+  47ae8f: 5d                           	popq	%rbp
+  47ae90: c3                           	retq
+; func max(a, b int) int {
+  47ae91: 48 89 44 24 08               	movq	%rax, 8(%rsp)
+  47ae96: 48 89 5c 24 10               	movq	%rbx, 16(%rsp)
+  47ae9b: 0f 1f 44 00 00               	nopl	(%rax,%rax)
+  47aea0: e8 fb fb fd ff               	callq	0x45aaa0 &amp;lt;runtime.morestack_noctxt.abi0&amp;gt;
+  47aea5: 48 8b 44 24 08               	movq	8(%rsp), %rax
+  47aeaa: 48 8b 5c 24 10               	movq	16(%rsp), %rbx
+  47aeaf: e9 4c ff ff ff               	jmp	0x47ae00 &amp;lt;main.max&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;stack allocated&lt;/h2&gt;
+&lt;p&gt;Open coded 的弊端是可能造成汇编代码的体积膨胀, 所以 Go 会自主判断是否要降级到 stack allocated.
+比如说当 defer 的数量超过 8 个时, 就会降级到 stack allocated. 此时:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;defer 被保存在当前 goroutine 的变量 _defer 内, 一个链表&lt;/li&gt;
+&lt;li&gt;编译时遇到 defer, 则插入对 runtime.deferprocStack 的调用, 将 defer 插入到 g._defer 的队首&lt;/li&gt;
+&lt;li&gt;编译时在函数的返回处都插入对 runtime.deferreturn 的调用, 该函数会执行当前 goroutine 的 defer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go 示例代码:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func add(a, b int) int {
+	defer func() { fmt.Println(1) }()
+	defer func() { fmt.Println(2) }()
+	defer func() { fmt.Println(3) }()
+	defer func() { fmt.Println(4) }()
+	defer func() { fmt.Println(5) }()
+	defer func() { fmt.Println(6) }()
+	defer func() { fmt.Println(7) }()
+	defer func() { fmt.Println(8) }()
+	defer func() { fmt.Println(9) }()
+	return a + b
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过 deferprocStack 将 defer 保存到 goroutine 的汇编如下.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;; 	defer func() { fmt.Println(1) }()
+  47ae56: 48 8d 0d 8b 16 02 00         	leaq	136843(%rip), %rcx      # 0x49c4e8 &amp;lt;go:func.*+0x220&amp;gt;
+  47ae5d: 48 89 8c 24 d8 01 00 00      	movq	%rcx, 472(%rsp)
+  47ae65: 48 8d 84 24 c0 01 00 00      	leaq	448(%rsp), %rax
+  47ae6d: e8 8e 41 fb ff               	callq	0x42f000 &amp;lt;runtime.deferprocStack&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;理解上述汇编代码, 需要结合 runtime 中的 deferprocStack 函数.
+其签名为 &lt;code&gt;func deferprocStack(d *_defer) {}&lt;/code&gt;, 参数 _defer 的主要结构为:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;type _defer struct {
+	started bool
+	heap    bool
+	// openDefer indicates that this _defer is for a frame with open-coded
+	// defers. We have only one defer record for the entire frame (which may
+	// currently have 0, 1, or more defers active).
+	openDefer bool
+	sp        uintptr // sp at time of defer
+	pc        uintptr // pc at time of defer
+	fn        func()  // can be nil for open-coded defers
+    ...
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;此时倒着看这部分汇编会更容易理解:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;callq	0x42f000 &amp;lt;runtime.deferprocStack&amp;gt;&lt;/code&gt; 调用 deferprocStack&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;leaq	448(%rsp), %rax&lt;/code&gt; 在调用前将参数保存到 rax&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;movq	%rcx, 472(%rsp)&lt;/code&gt; _defer 的开头在 448, 472 是偏移了 24 字节, 对应字段为 fn, 所以此处的含义是将 rcx 赋值给 _defer.fn&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;leaq	136843(%rip), %rcx      # 0x49c4e8 &amp;lt;go:func.*+0x220&amp;gt;&lt;/code&gt; 将 defer 函数的地址加载到 rcx&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;此时回头去看 open coded 下的 leaq 也可以理解, 保留的原因是因为 GC?&lt;/p&gt;
+&lt;p&gt;返回前调用 deferreturn 的汇编代码:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;; 	return a + b
+  47af8d: 48 8b 84 24 b0 02 00 00      	movq	688(%rsp), %rax     ; 将暂存在栈上的函数入参 a 和 b 存储到寄存器 rax 和 rcx
+  47af95: 48 8b 8c 24 a8 02 00 00      	movq	680(%rsp), %rcx
+  47af9d: 48 01 c8                     	addq	%rcx, %rax
+  47afa0: 48 89 44 24 08               	movq	%rax, 8(%rsp)       ; 将结果暂存到栈上
+  47afa5: e8 36 46 fb ff               	callq	0x42f5e0 &amp;lt;runtime.deferreturn&amp;gt;          ; 调用 deferreturn, 以 FILO 的顺序执行 defer
+  47afaa: 48 8b 44 24 08               	movq	8(%rsp), %rax                           ; 将暂存的返回值存储到 rax
+  47afaf: 48 81 c4 98 02 00 00         	addq	$664, %rsp              # imm = 0x298   ; 释放申请的栈空间
+  47afb6: 5d                           	popq	%rbp                                    ; 恢复 base pointer
+  47afb7: c3                           	retq
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;heap allocated&lt;/h2&gt;
+&lt;p&gt;Heap allocated 和 stack allocated 的逻辑基本相似, 区别在于使用堆时, 需要用 deferproc 代替 deferprocStack.
+&lt;a href="https://go-review.googlesource.com/c/go/+/171758" rel="nofollow"&gt;PR&lt;/a&gt; 指出当 defer 被多次调用时即会触发 heap allocated.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;//go:noinline
+func sum(numbers []int) int {
+        sum := 0
+        for i := 0; i &amp;lt; len(numbers); i++ {
+                defer func() {
+                        fmt.Println(1)
+                }()
+                sum += numbers[i]
+        }
+        return sum
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;从汇编中我们可以看到, 相对于 stack allocated 是调用 deferprocStack, 现在调用的是 deferproc.
+deferproc 会在堆上, 而不是栈上, 构造 _defer.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;; 		defer func() {
+  47af79: 48 8d 05 e0 15 02 00         	leaq	136672(%rip), %rax      # 0x49c560 &amp;lt;go:func.*+0x270&amp;gt;
+  47af80: e8 7b 40 fb ff               	callq	0x42f000 &amp;lt;runtime.deferproc&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Reference:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://go.googlesource.com/proposal/+/refs/heads/master/design/34481-opencoded-defers.md" rel="nofollow"&gt;Proposal: Low-cost defers through inline code, and extra funcdata to manage the panic case&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 28 Sep 2023 02:08:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977815#reply0</guid></item><item><title>[问与答] 电脑外接摄像头一个奇怪的问题，看看大家有没有什么解决办法</title><link>https://www.v2ex.com/t/977814#reply0</link><description>系统环境：黑苹果，外接摄像头&lt;br /&gt;&lt;br /&gt;在飞书视频会议的时候第一次画面总是偏黑，然后只要再打开一次 Mac 自带的 Facetime 或者 Photo booth ，就是两个软件视频画面都开着，画面马上就正常了，就像是 Mac 自带的软件打通了什么故障之类的，很奇怪。这个问题我纠结很久了，但是因为有临时解决方法所以一直没去深究，看看大家有没有什么解决办法？</description><pubDate>Thu, 28 Sep 2023 02:07:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977814#reply0</guid></item><item><title>[问与答] 国庆假期都计划去哪</title><link>https://www.v2ex.com/t/977813#reply0</link><description>&lt;p&gt;结婚有娃后放假比上班累，计划回趟老丈人家，再回老家，折腾几天没有出去玩的时间了&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 02:06:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977813#reply0</guid></item><item><title>[问与答] 鼠标卡顿问题求助</title><link>https://www.v2ex.com/t/977812#reply0</link><description>&lt;p&gt;家里台式机的鼠标是罗技 G604 ，鼠标指针经常卡顿，影响正常使用。具体表现在，接收器插在机箱前置的 USB 口，卡顿最严重；插在主板的 USB 口，稍好一些，但还有偶尔卡顿；用一个 USB 一拖三连接，可以缓解卡顿，但还是不能彻底解决。&lt;/p&gt;
+&lt;p&gt;怀疑是无线设备多，信号互相干扰造成的，电视、台式机、PS5 、XBOX 都在同一个房间。&lt;/p&gt;
+&lt;p&gt;请教各位大佬有什么好的解决方法，谢谢！&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 02:05:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977812#reply0</guid></item><item><title>[问与答] 刚刚 V2 网站崩了？</title><link>https://www.v2ex.com/t/977808#reply2</link><description></description><pubDate>Thu, 28 Sep 2023 02:00:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977808#reply2</guid></item><item><title>[OpenAI] OpenAI 的 api 接口有请求速率限制有什么解决方案吗？</title><link>https://www.v2ex.com/t/977807#reply1</link><description>&lt;p&gt;目前搞了两个号，gmail 注册的，绑的同一张卡
+看了一下有些批发账号的，感觉容易被封
+有没有稳定的方法啊？
+批量注册的那种都是企业邮箱+接码注册的吧，多个号绑定同一种卡会不会被封啊
+目前的卡月费还要 28 。。。。&lt;/p&gt;
+&lt;h2&gt;API 请求限制&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;MODEL&lt;/th&gt;
+&lt;th&gt;TPM&lt;/th&gt;
+&lt;th&gt;RPM&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;gpt-3.5-turbo&lt;/td&gt;
+&lt;td&gt;90,000&lt;/td&gt;
+&lt;td&gt;3,500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gpt-4&lt;/td&gt;
+&lt;td&gt;40,000&lt;/td&gt;
+&lt;td&gt;200&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Thu, 28 Sep 2023 02:00:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977807#reply1</guid></item><item><title>[Apple] 请问有没有大佬知道比较好的 apple ID 迁移数据的方法？</title><link>https://www.v2ex.com/t/977806#reply1</link><description>&lt;p&gt;需求：国区 id 的 icloud 、通讯录、照片等所有数据要迁到美区 id ，原国区 id 因大陆特有的 app 内购、付费比较多，不直接转地区了&lt;/p&gt;
+&lt;p&gt;目前在知乎看到了一个方法是所有数据保存到本地（手机），然后换 id 登陆 icloud 再合并，但这样的话需要比较大的空间，有没有比较好的办法呢？&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:52:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977806#reply1</guid></item><item><title>[问与答] 请问下土耳其 Turkcell 如何激活 imessage 显示号码</title><link>https://www.v2ex.com/t/977804#reply0</link><description>上车了张土耳其 Turkcell esim ，保号每月 10 里拉，接短信一切正常，但是一直无法开启 imessage ，后边查到开启 imessage 需要发短信，又开了个 5$套餐里边有流量、短信包，短信可以正常发送，但是 imessage 死活激活不了，果子也显示不出来号码，有前辈答疑解惑吗，谢谢</description><pubDate>Thu, 28 Sep 2023 01:50:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977804#reply0</guid></item><item><title>[问与答] 我的 mbp14 太小 想多个屏幕，能用类似随航投到 imac5k 吗， iPad 可以投上去</title><link>https://www.v2ex.com/t/977803#reply1</link><description></description><pubDate>Thu, 28 Sep 2023 01:46:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977803#reply1</guid></item><item><title>[分享发现] 《HelloGitHub》第 90 期</title><link>https://www.v2ex.com/t/977802#reply1</link><description>&lt;blockquote&gt;
+&lt;p&gt;兴趣是最好的老师，&lt;strong&gt;HelloGitHub&lt;/strong&gt; 让你对编程感兴趣！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927174738110-167925219.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;HelloGitHub&lt;/strong&gt; 分享 GitHub 上有趣、入门级的开源项目。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://github.com/521xueweihan/HelloGitHub" rel="nofollow"&gt;https://github.com/521xueweihan/HelloGitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python 、Java 、Go 、C/C++、Swift...让你在短时间内感受到开源的魅力，对编程产生兴趣！&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;谁能告诉我它是如何做到的?&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:26:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977393#reply8</guid></item><item><title>[Apple] 我和期待苹果在更多设备上用 U2 超宽频芯片</title><link>https://www.v2ex.com/t/977392#reply1</link><description>&lt;p&gt;前几天在油管看了 AK 的深度解析，讲到 U2 超宽频时我想到了如果 Mac 加入了 U2 超宽频那还要个什么 USB3.0 啊。直接隔空投送呗。大家觉得现实吗？&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 14:11:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977392#reply1</guid></item><item><title>[问与答] 关于智能家居的问题</title><link>https://www.v2ex.com/t/977390#reply0</link><description>一个奇怪的问题，米家的设备怎么接入 Google home ，或许可以像先接入 homeassistant 再接入 Apple 生态一样？&lt;br /&gt;其实 Google home 和米家是可以原生互联的，但是绑定了米家账号后（竟然支持国区的账号），只有两个设备，兼容性太差了，连智能开关都没适配。&lt;br /&gt;&lt;a href="https://i.imgur.com/okDwBe9.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/okDwBe9.png" /&gt;&lt;/a&gt;&lt;br /&gt;自己 Google 了一下，很多资料没看明白，都是指向 Google assistant 的。</description><pubDate>Tue, 26 Sep 2023 13:59:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977390#reply0</guid></item><item><title>[分享创造] tiktok 运营、paypal 养号、google voice 注册总是失败，是 ip 问题，手把手教你配置住宅 ip 环境</title><link>https://www.v2ex.com/t/977389#reply5</link><description>&lt;p&gt;视频教程地址： &lt;a href="https://youtu.be/vmX_dXiWffA?si=XWVT2SPgQovdXf38" rel="nofollow"&gt;https://youtu.be/vmX_dXiWffA?si=XWVT2SPgQovdXf38&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:55:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977389#reply5</guid></item><item><title>[问与答] 独立开发者如何寻找稳定的办公地点？</title><link>https://www.v2ex.com/t/977388#reply2</link><description>最近家里要填一位新成员，我的办公房间被征用了，没处工作了😂&lt;br /&gt;&lt;br /&gt;有自己在外面工作的 v 友吗，你们的工位在哪里找的？&lt;br /&gt;&lt;br /&gt;坐标成都</description><pubDate>Tue, 26 Sep 2023 13:50:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977388#reply2</guid></item><item><title>[MacBook Pro] m1 pro 16 寸定制机感觉不好收 半天没收到</title><link>https://www.v2ex.com/t/977387#reply0</link><description>m1 pro 16 寸定制机感觉不好收  半天没收到</description><pubDate>Tue, 26 Sep 2023 13:48:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977387#reply0</guid></item><item><title>[问与答] 曲面屏手机怎么解决贴膜问题？</title><link>https://www.v2ex.com/t/977385#reply1</link><description>以前用的 oneplus 也好 Moto 也罢，都是直屏的。自从换了小米 ultra 系列之后，钢化膜基本没可能了，就算有，也是有增强强度的黑边，只能用软膜。可是软膜在曲边磕磕碰碰（比如横着无线充电），一两个月就有零星脱落了。心累~各位使用曲面屏的是怎么解决这个问题的？我以后还是乖乖换直屏吧。</description><pubDate>Tue, 26 Sep 2023 13:43:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977385#reply1</guid></item><item><title>[酷工作] [上海] 拼多多急招 Java 后端</title><link>https://www.v2ex.com/t/977384#reply0</link><description>岗位职责&lt;br /&gt;1 、负责社区团购核心模块的研发和架构，深入发掘和分析业务需求，撰写技术方案和系统设计；&lt;br /&gt;2 、参与技术方案和系统设计评审；把握复杂系统的设计，确保系统的架构质量；&lt;br /&gt;3 、系统核心部分代码编写，疑难问题的解决；&lt;br /&gt;4 、对现存或未来系统进行宏观的思考，规划形成统一的框架、平台或组件；&lt;br /&gt;5 、持续改进系统架构，保证系统高性能、高可用性和高可扩展性。&lt;br /&gt;&lt;br /&gt;任职要求&lt;br /&gt;1 、JAVA 基础扎实，理解 io 、多线程、集合等基础框架，对 JVM 原理有一定的了解；&lt;br /&gt;2 、2 年以上使用 JAVA 开发的经验，熟悉常用的中间件及存储，深入了解原理&lt;br /&gt;3 、熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息；能对分布式常用技术进行合理应用，解决问题；&lt;br /&gt;4 、良好的沟通技能，团队合作能力，能够推动跨团队项目顺利落地&lt;br /&gt;5 、自驱力强，能够主动学习新技术新架构，从技术趋势和思路上能影响技术团队；&lt;br /&gt;6 、有互联网行业高并发、高稳定、高性能、大数据处理或电商平台业务背景相关的开发、设计经验者优先。&lt;br /&gt;&lt;br /&gt;联系方案（ base64 ）&lt;br /&gt;邮箱：c2RscmZAcXEuY29t&lt;br /&gt;也可以加微信聊：cmVuZm1l&lt;br /&gt;&lt;br /&gt;技术挑战多，薪资丰厚，欢迎来撩</description><pubDate>Tue, 26 Sep 2023 13:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977384#reply0</guid></item><item><title>[OpenAI] chatgpt 支持图像和语音了，买 poe 的人是不是血亏</title><link>https://www.v2ex.com/t/977383#reply0</link><description>&lt;p&gt;rt
-看了官方的演示，也太强了： &lt;a href="https://openai.com/blog/chatgpt-can-now-see-hear-and-speak" rel="nofollow"&gt;https://openai.com/blog/chatgpt-can-now-see-hear-and-speak&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:33:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977383#reply0</guid></item><item><title>[生活] 谈谈这些年舌尖上的经历</title><link>https://www.v2ex.com/t/977381#reply1</link><description>&lt;p&gt;最近关于食堂和预制菜的话题很多，我想到这些年关于吃的事，有些想说的话，不知道大家对这些年的食材质量变化有没有类似的感觉。&lt;/p&gt;
-&lt;p&gt;鸡肉&lt;/p&gt;
-&lt;p&gt;小时候吃的鸡肉（炸鸡翅），不管是外卖炸的，还是家里做的，做完之后里面的肉都是全白的，没有腥味。现在吃的鸡肉，下餐馆还好一点，点外卖十有八九是那种半透明的鸡肉，腥味去不干净，由于没做熟，吃起来有粗纤维感，一条一条的（以前的鸡肉吃起来是细纤维感，不会有嚼不烂的感觉，鸡肉嚼不烂真无法下咽）。&lt;/p&gt;
-&lt;p&gt;以至于我现在吃鸡只敢去肯德基、麦当劳，因为华莱士、德克士的鸡吃了几次全是这种八分熟夹腥肉，而肯德基、麦当劳则是五成概率，甚至偶尔能吃到以前的那种有麦香味的熟鸡（十几年前，别说肯德基了，我去山寨肯德基里点的鸡排堡，里面的鸡肉都是全熟无腥的，不知道现在怎么退步到这个样子，把肉做熟有那么难吗）&lt;/p&gt;
-&lt;p&gt;鸭肉&lt;/p&gt;
-&lt;p&gt;小时候最喜欢吃的鸭肉是烤鸭，那个时候门口路边摊卖的片皮烤鸭，十几块半只，皮脆肉嫩，腥味少，最重要的是分布合理，皮是覆盖在肉上面的。现在外卖点的片皮烤鸭，很多都是皮在肉的侧面，酱抹少了都无法下咽。&lt;/p&gt;
-&lt;p&gt;另一种常见的鸭肉是烧烤的鸭肉串，我怀疑我小时候吃的很多羊肉串都是鸭肉串。至于现在的鸭肉串，还是和鸡肉一样的夹生问题，做不熟就送出去了，即使是正新鸡排这种连锁的也是这样。&lt;/p&gt;
-&lt;p&gt;猪肉&lt;/p&gt;
-&lt;p&gt;小时候吃的猪肉最喜欢的是所谓的巴西烤肉（主要是裹料）和土耳其烤肉（旋转切片的那种），一半肉一半菜能就三碗饭，现在就很少看到了，外卖上点了次巴西烤肉，一眼料理包不说，吃起来味如嚼蜡，不如闻闻调料香味就扔了算了。另一种常见的就是红烧肉和东坡肉了，东坡肉就在饭店里吃过几次，味道不错，但日常吃的更多的还是红烧肉，外卖的红烧肉只能说一如既往地平庸，酱油的香味越来越少，肉本身的肉质也是每况愈下。&lt;/p&gt;
-&lt;p&gt;牛肉&lt;/p&gt;
-&lt;p&gt;牛肉反而是这十几年来口味变化最小的，因为本来就没腥味，即使半熟也只有一点铁腥味，而不是鸡鸭猪那种有生物气息的腥臭味。我更喜欢吃牛腩而不是牛柳，鸡公煲里的牛腩煲味道不错。&lt;/p&gt;
-&lt;p&gt;羊肉&lt;/p&gt;
-&lt;p&gt;这个真的是重灾区，现在点外卖想吃羊肉串，如果不是新疆人开的，100%踩雷。不管是夸父喜姐还是其他不知名的小店，那羊肉串基本上是同一个模子里刻出来的，刻意的膻味、掩盖不住的肉腥，以及根本无法确定的肉来源。新疆人卖的羊肉串，踩雷最多的还是没烤熟，至少不会出现那种腥出薄荷味的糟糕口感。&lt;/p&gt;
-&lt;p&gt;肯德基/麦当劳&lt;/p&gt;
-&lt;p&gt;小时候肯德基还是同龄人中比较奢侈的存在，只有考好了爸妈才会带我去吃，那个时候除了胡萝卜餐包和墨西哥鸡肉卷接受不能之外，其他的对我来说都是不可多得的美味，新品也有惊喜，比如骨肉相连和豪情壮翅。后来等经济发展起来了，吃肯德基的机会也越来越多了，但是好景没过几年，不知道从什么时候开始，我发现肯德基/麦当劳的味道也变了，鸡翅的麦香越来越少，鸡腿堡里的鸡排腥味越来越重，只有特殊工艺做的吮指原味鸡口味一直在线，之后去肯德基/麦当劳只会点牛肉堡了，牛肉堡的碎牛饼口感寡淡，但是不会踩雷。&lt;/p&gt;
-&lt;p&gt;鸡排&lt;/p&gt;
-&lt;p&gt;第一次吃到好吃的鸡排是中学时候的豪大大鸡排（可能是山寨的店），完全熟透的大鸡排，加上酸甜交织的甘梅粉，直到现在还时常怀念。最近这几年火起来的正新鸡排，我直到现在还莫名其妙，正新鸡排刚火的那一年我就买了，皮肉分离，皮无味，肉不熟，很难称得上是合格的炸鸡排，鸡肉串、鸭肉串更是模板化的难吃。这种劣币驱逐良币的现象给了我沉重的打击，可惜我只是一个食客，什么都做不了。最近点了一份外卖的豪大大鸡排，发现了和正新鸡排类似的皮肉分离和粗纤维感，麻完了，不只是劣币驱逐良币，良币在这种环境下自己已经生锈了。&lt;/p&gt;
-&lt;p&gt;总结&lt;/p&gt;
-&lt;p&gt;感觉食材口味的断崖式下跌的最重要节点就是外卖的普及。外卖刚兴起的时候，饿了吗和美团还在撒钱抢市场，对商家的剥削程度不高，所以这个时候开外卖的店基本上都是堂食的副业，在店里吃和点外卖的口味差别不大，而且价格甚至比堂食还便宜许多，那个时候十块钱点的烤鸭饭是真的烤鸭腿，皮酥肉嫩。等到外卖市场饱和了，饿了么/美团也就不装了，开始直接剥削商家，间接剥削顾客。从那个时候开始，商家也开始摆烂了，口味明显变差，应该是料理包火起来了，青椒肉丝/鱼香肉丝/梅菜扣肉/酸菜鱼，逐渐失去了鲜味，变得千篇一律，说难吃道不至于，但很难有那种上菜前口舌生津的反应了，如果有药丸能解决饥饿和营养问题，即使价格比外卖贵，我也选择药丸。而外卖兴起后，越来越多没有经验的人也来涉足餐饮市场，最常见的就是遍地的东北烧烤、X 哥烧烤、XX 家常菜，全是冷冻半成品和料理包不说，烧烤的熟度也完全没有把握，这些东西我不知道店家自己能不能吃得下去。&lt;/p&gt;
-&lt;p&gt;最近预制菜的声音越来越大，感觉我今后的舌尖会越来越不好受。不过又能怎样呢，也许吃现炒的菜本来就是一件奢侈的事，只是那个年代经济不够发达，我们才能用这么低的成本请厨师花这么多时间现场做菜吧。经济越发展，涉及人工的服务越贵，这点在发达国家的身上已经验证过了，发展中国家如果继续发展，也许也避免不了这一点吧，唯一可惜的是，我们还没有发达到富裕的程度，就已经走到了这一步。&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 13:29:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977381#reply1</guid></item><item><title>[分享发现] Spotify 的播客 podcast 语音翻译功能超赞，真正跨越语言障碍</title><link>https://www.v2ex.com/t/977380#reply0</link><description>Spotify 新出了一个播客翻译功能，能够使用作者的声音用另外一种语言重述。目前测试的都是将英语转化为其他拉丁语言，根据评论来看效果挺好。不知道将英语转化为汉语日语还能有这样的效果吗。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://twitter.com/eldsjal/status/1706325294481576006?s=20" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/eldsjal/status/1706325294481576006?s=20&lt;/a&gt;</description><pubDate>Tue, 26 Sep 2023 13:09:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977380#reply0</guid></item><item><title>[程序员] 量化投资的人为什么并不多？仅仅是因为学历的问题？</title><link>https://www.v2ex.com/t/977379#reply0</link><description>今天发现很多金融毕业的大部分也都没有从事量化投资行业，真的仅仅学历问题吗？还是说其他的？</description><pubDate>Tue, 26 Sep 2023 13:08:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977379#reply0</guid></item><item><title>[OpenAI] 1:1 出 gpt4 直连独享额度</title><link>https://www.v2ex.com/t/977378#reply0</link><description>600 刀=600 元出租&lt;br /&gt;拉阅读权限&lt;br /&gt;使用时间到月底&lt;br /&gt;独享 &lt;br /&gt;&lt;br /&gt;联系 tg=gpt9900&lt;br /&gt;联系 v=gpt9922</description><pubDate>Tue, 26 Sep 2023 13:03:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977378#reply0</guid></item><item><title>[摄影] 玩灯交流，神牛、保富图</title><link>https://www.v2ex.com/t/977375#reply1</link><description>&lt;p&gt;人像摄影为主，玩灯算到头了，没有摄影棚，都是外拍灯为主（神牛从 ad600pro 下基本都有）。有没有玩灯的交流群？常亮、闪都可以。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/C8PKf7I.jpg" rel="nofollow"&gt;https://imgur.com/C8PKf7I.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/bJPZlN4.jpg" rel="nofollow"&gt;https://imgur.com/bJPZlN4.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 12:49:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977375#reply1</guid></item><item><title>[Vue.js] vue3 ref 的值问题</title><link>https://www.v2ex.com/t/977374#reply4</link><description>&lt;p&gt;我定义了一个
-const tempArr = ref([]);
-然后
-tempArr.value = newArrayList;
-console.log(tempArr.value);
-当前组建能打印出 tempArr.value 的具体值  也就是 newArrayList 的值&lt;/p&gt;
-&lt;p&gt;但是我传递到另一个 js 文件中，接收后 发现接收的值是空的 即 Proxy(Array) {}
-chatGPT 说是  这样直接赋值会损失响应性  正确赋值方式 tempArr.value.push(...newArrayList);&lt;br /&gt;
-试了下 确实可以&lt;/p&gt;
-&lt;p&gt;但之前 const object = ref({});
-object.value = newObject;  我好像也没出错（可能只在当前同一个组件中，没有跨 js ）
-我没太明白 请大佬解释下&lt;/p&gt;</description><pubDate>Tue, 26 Sep 2023 12:45:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977374#reply4</guid></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;以下为本期内容｜每个月 &lt;strong&gt;28&lt;/strong&gt; 号更新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;C 项目&lt;/h3&gt;
+&lt;p&gt;1 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ExistentialAudio/BlackHole" rel="nofollow"&gt;BlackHole&lt;/a&gt;：适用于 macOS 的虚拟音频驱动。在 macOS 上录制过视频的同学，应该都遇到过收录电脑声音的问题，采用公放的方式对环境要求极高。该项目是一款 macOS 上的虚拟音频驱动，它可以零延迟地将输出的音频传递给其他应用，从而不受周围环境的影响，轻松录制电脑的声音，支持 Intel 和 Apple 芯片。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165303064-1618016526.png" /&gt;&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rswier/c4" rel="nofollow"&gt;c4&lt;/a&gt;：用 4 个函数实现的 C 语言编译器。该项目仅用了 500+ 行代码、4 个函数，就实现了一个小型 C 语言编译器。但因为它的代码过于精简，所以源码阅读起来并不轻松。&lt;/p&gt;
+&lt;h3&gt;C# 项目&lt;/h3&gt;
+&lt;p&gt;3 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hellzerg/optimizer" rel="nofollow"&gt;optimizer&lt;/a&gt;：超好用的 Windows 优化器。这是一款强大的 Windows 系统优化工具，它体积小、功能丰富，支持包括中文在内的 22 种语言，能够禁用不必要的 Windows 服务、删除多余的启动程序、关闭用不到的功能，提升 Windows 系统的使用体验和性能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245019-2083021999.png" /&gt;&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Danily07/Translumo" rel="nofollow"&gt;Translumo&lt;/a&gt;：免费开源的屏幕实时翻译工具。该项目可以对屏幕上选定区域内显示的文本进行实时翻译，可识别英语、俄语、中文等语言。用户可自行选择 Tesseract 、WindowsOCR 、EasyOCR 多种 OCR 引擎，以及包括谷歌翻译在内的多种翻译源。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227332-1769171215.gif" /&gt;&lt;/p&gt;
+&lt;h3&gt;C++ 项目&lt;/h3&gt;
+&lt;p&gt;5 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/duckdb/duckdb" rel="nofollow"&gt;duckdb&lt;/a&gt;：一款类似 SQLite 的分析型数据库。该项目是用 C++ 写的 OLAP （联机分析处理）数据库，没有外部依赖项、不作为独立进程运行，可以看作是 OLAP 版本的 SQLite 。它方便、快速、易于使用，提供了丰富的 SQL 方言，支持 JOIN 、聚合、窗口函数、直接查询 CSV 和 JSON 文件等功能。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;SELECT * FROM 'HelloGitHub.csv';
+SELECT * FROM 'HelloGitHub.parquet';
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226416-1419973955.png" /&gt;&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mawww/kakoune" rel="nofollow"&gt;kakoune&lt;/a&gt;：一款神似 Vim 的代码编辑器。拥有极简的界面和便捷的编辑模型的代码编辑器，虽然它的设计灵感源自 Vim ，但在功能和交互性上“青出于蓝而胜于蓝”。操作上更加的快捷方便，默认支持语法高亮、自动补全等功能，适用于 Linux 和 macOS 操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245085-573554301.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chaitin/SafeLine" rel="nofollow"&gt;SafeLine&lt;/a&gt;：一款简单好用的 Web 应用防火墙。该项目底层基于 Nginx 的 Web 网关，作为反向代理接入网络。采用智能语意分析算法，清洗来自黑客的恶意流量，保护你的网站不受黑客攻击。它安装简单、免费版功能够用，但项目仅开源了核心算法和底层引擎。来自 &lt;a href="https://hellogithub.com/user/i1wAIyo6P3NXkxm" rel="nofollow"&gt;@孤胆枪手&lt;/a&gt; 的分享&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245155-1412208607.png" /&gt;&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/scottbez1/smartknob" rel="nofollow"&gt;smartknob&lt;/a&gt;：自己动手制作一款触感智能旋钮。这是一款开源的智能旋钮设备，可自定义端点位置、虚拟制动、触觉反馈，并带有一个圆形 LCD ，十分炫酷好玩。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165303440-1332347624.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/typesense/typesense" rel="nofollow"&gt;typesense&lt;/a&gt;：一款快如闪电的开源搜索引擎。该项目是用 C++ 编写的即时搜索引擎，具有开箱即用、搜索速度快、自动更正拼写错误、地理搜索、默认分词器支持中文等特点。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245005-304052051.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;CSS 项目&lt;/h3&gt;
+&lt;p&gt;10 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/simeydotme/pokemon-cards-css" rel="nofollow"&gt;pokemon-cards-css&lt;/a&gt;：炫酷的神奇宝贝卡牌 CSS 效果。该项目是口袋怪兽卡高级 CSS 样式集合，使用了 3D 变换、滤镜、渐变等技术，实现了眩光、纹理、银河全息、垂直光束等效果。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165246055-507866019.gif" /&gt;&lt;/p&gt;
+&lt;h3&gt;Go 项目&lt;/h3&gt;
+&lt;p&gt;11 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hibiken/asynq" rel="nofollow"&gt;asynq&lt;/a&gt;：纯 Go 写的简单、可靠的分布式任务队列。这是一个基于 Redis 的轻量级异步任务队列，它会为每个任务启动一个 goroutine ，支持任务失败重试、优先级队列、定时任务、唯一任务等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226542-803181481.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/golang-module/carbon" rel="nofollow"&gt;carbon&lt;/a&gt;：一个对开发者友好的 Go 时间处理库。这是一个功能丰富、容易上手的 Go 时间库，支持时间转换、时间差、时间旅行、星座、季节、农历、多语言等功能。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;lang := carbon.NewLanguage()
+lang.SetLocale("zh-CN")
+
+c := carbon.SetLanguage(lang)
+if c.Error != nil {
+	// 错误处理
+	log.Fatal(err)
+}
+
+c.Now().AddHours(1).DiffForHumans() // 1 小时后
+c.Now().AddHours(1).ToMonthString() // 八月
+c.Now().AddHours(1).ToShortMonthString() // 8 月
+c.Now().AddHours(1).ToWeekString() // 星期二
+c.Now().AddHours(1).ToShortWeekString() // 周二
+c.Now().AddHours(1).Constellation() // 狮子座
+c.Now().AddHours(1).Season() // 夏季
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;13 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/naiba/nezha" rel="nofollow"&gt;nezha&lt;/a&gt;：国产的轻量级服务器监控工具。这是一款名为“哪吒”的服务器监控面板，它安装简单、开箱即用，支持监控多个服务器的系统状态、SSL 证书状态、报警通知、流量监控、设置定时任务等功能，适用于 Linux 、Windows 、macOS 、OpenWRT 等主流系统。来自 &lt;a href="https://hellogithub.com/user/5dGtvaZ6H3L4QMY" rel="nofollow"&gt;@两双筷子 sqldc&lt;/a&gt; 的分享&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245034-1271681721.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;14 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sony/sonyflake" rel="nofollow"&gt;sonyflake&lt;/a&gt;：Go 语言的分布式 ID 生成库。该项目是索尼开源的分布式唯一 ID 生成器，灵感来自知名的 Twitter 雪花算法（ Snowflake ）。它比 Snowflake 慢，但拥有更长的寿命，可以在更多的机器上工作，适用于更大的分布式集群。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245160-1938280943.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Java 项目&lt;/h3&gt;
+&lt;p&gt;15 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/williamfiset/Algorithms" rel="nofollow"&gt;Algorithms&lt;/a&gt;：一个用 Java 实现的算法和数据结构的集合。算法和数据结构的重要性无需多言，该项目提供了常见的数据结构和算法最简单、优雅的 Java 代码实现，不管是用于学习还是开发都是不错的选择。来自 &lt;a href="https://hellogithub.com/user/i1wAIyo6P3NXkxm" rel="nofollow"&gt;@孤胆枪手&lt;/a&gt; 的分享&lt;/p&gt;
+&lt;p&gt;16 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Frooodle/Stirling-PDF" rel="nofollow"&gt;Stirling-PDF&lt;/a&gt;：允许对 PDF 文件做各种操作的 Web 应用。这是一款功能强大、开箱即用的 PDF 工具，支持拆分/合并文件、添加/提取图片、压缩、加水印、添加/删除密码等功能，满足你对 PDF 文件的所有需求。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245241-1936208713.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;JavaScript 项目&lt;/h3&gt;
+&lt;p&gt;17 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/czy0729/Bangumi" rel="nofollow"&gt;Bangumi&lt;/a&gt;：类似豆瓣的二次元爱好者社区客户端。这是一个基于 React Native 构建的二次元社区 Bangumi 第三方客户端。它免费、无广告、因爱好而生、专为移动端设计，支持番组进度管理、用户动态、贴吧、搜索、排行榜、标签等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226677-684414527.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;18 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/codemix/deprank" rel="nofollow"&gt;deprank&lt;/a&gt;：通过 PageRank 找到代码库中最重要的文件。该项目基于 PageRank 算法和源文件依赖关系，找到 JavaScript/TypeScript 代码仓库中被依赖最多的文件。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226735-1893568520.png" /&gt;&lt;/p&gt;
+&lt;p&gt;19 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/typicode/json-server" rel="nofollow"&gt;json-server&lt;/a&gt;：仅需 30 秒、不用写代码就能模拟接口数据。这是一款小巧的接口模拟工具，它使用起来十分简单，只需创建 JSON 文件，然后一条命令就能快速启动接口服务。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 安装
+npm install -g json-server
+# 启动
+json-server --watch db.json
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245379-1188576827.png" /&gt;&lt;/p&gt;
+&lt;p&gt;20 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wanglin2/mind-map" rel="nofollow"&gt;mind-map&lt;/a&gt;：一个好用的 Web 思维导图。该项目包含一个不依赖任何框架的思维导图 JavaScript 库，以及一个采用 Vue.js+ElementUI 开发的支持本地部署、功能丰富的在线思维导图应用。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;import MindMap from "simple-mind-map";
+
+const mindMap = new MindMap({
+  el: document.getElementById('mindMapContainer'),
+  data: {
+    "data": {
+        "text": "根节点"
+    },
+    "children": []
+  }
+});
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245290-108045662.png" /&gt;&lt;/p&gt;
+&lt;p&gt;21 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/danbaixi/yunxiaozhi" rel="nofollow"&gt;yunxiaozhi&lt;/a&gt;：一款开源的校园教务查询微信小程序。该项目是由学生开发的智慧校园小程序，支持课程表查询、成绩查询、考试安排、空教室查询、水电查询等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226800-1130368705.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Kotlin 项目&lt;/h3&gt;
+&lt;p&gt;22 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gkd-kit/gkd" rel="nofollow"&gt;gkd&lt;/a&gt;：自定义屏幕点击的 Android 应用。该项目是基于无障碍功能的手机自动点击工具，支持自定义或订阅点击规则，可用来自动完成点击跳过广告、同意按钮、领红包等操作。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226799-465982895.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Python 项目&lt;/h3&gt;
+&lt;p&gt;23 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/argosopentech/argos-translate" rel="nofollow"&gt;argos-translate&lt;/a&gt;：用 Python 写的开源离线翻译库。该项目是基于 OpenNMT （神经网络机器翻译框架）的离线翻译 Python 库，它不依赖任何第三方翻译接口，支持翻译包括中文在内的 30 多种语言。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;import argostranslate.package
+import argostranslate.translate
+
+from_code = "en"
+to_code = "es"
+
+# Download and install Argos Translate package
+argostranslate.package.update_package_index()
+available_packages = argostranslate.package.get_available_packages()
+package_to_install = next(
+    filter(
+        lambda x: x.from_code == from_code and x.to_code == to_code, available_packages
+    )
+)
+argostranslate.package.install_from_path(package_to_install.download())
+
+# Translate
+translatedText = argostranslate.translate.translate("Hello World", from_code, to_code)
+print(translatedText)
+# '¡Hola Mundo!'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;24 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mwmbl/mwmbl" rel="nofollow"&gt;mwmbl&lt;/a&gt;：一个用 Python 写的开源、非营利搜索引擎。这是一款采用 pandas 、FastAPI 、scikit-learn 、jusText 构建的非营利、无广告、无跟踪的小型搜索引擎，它界面简约、速度快，搜索结果无“外界因素”干扰。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165245595-816518340.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;25 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/marceloprates/prettymaps" rel="nofollow"&gt;prettymaps&lt;/a&gt;：绘制好看的地图海报的 Python 库。该项目可以将 OpenStreetMap 的地图数据绘制成漂亮的地图海报，上手简单可自定义填充颜色。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226857-1723984765.png" /&gt;&lt;/p&gt;
+&lt;p&gt;26 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/SergeyPirogov/webdriver_manager" rel="nofollow"&gt;webdriver_manager&lt;/a&gt;：轻松管理 WebDriver 的 Python 库。经常写爬虫的小伙伴应该都遇到过找 WebDriver 路径的情况吧！用了这个项目，将无需一次又一次地重复寻找 WebDriver 在哪里啦。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;# 之前
+from selenium import webdriver
+driver = webdriver.Chrome('/home/user/drivers/chromedriver')
+
+# 现在
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+driver = webdriver.Chrome(ChromeDriverManager().install())
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;27 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/plbrault/youre-the-os" rel="nofollow"&gt;youre-the-os&lt;/a&gt;：模拟计算机操作系统的游戏。这是一个 Python 写的 Web 游戏，在游戏中玩家扮演的是一台计算机的操作系统。玩家必须通过管理进程、内存和 I/O 事件，不让进程闲置太久，因为进程等待太久就会退出，如果退出的进程达到一定数量后，计算机就会重启则游戏失败。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165226879-1884344986.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Ruby 项目&lt;/h3&gt;
+&lt;p&gt;28 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/docusealco/docuseal" rel="nofollow"&gt;docuseal&lt;/a&gt;：开源的文件在线签署平台。这是一款用 Ruby 写的在线签署文件平台，它开箱即用、容易上手、移动端友好，支持拖拽的方式创建 PDF 表单、在线填写和签名、自动发送邮件、用户管理等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227030-830548969.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;Rust 项目&lt;/h3&gt;
+&lt;p&gt;29 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zhanglun/lettura" rel="nofollow"&gt;lettura&lt;/a&gt;：极简的开源 RSS 阅读器。这是一款基于 Tauri 开发的桌面 RSS 阅读器，它免费、无广告、界面清爽，适用于 macOS 和 Windows 操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227019-1632747099.png" /&gt;&lt;/p&gt;
+&lt;p&gt;30 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Barre/privaxy" rel="nofollow"&gt;privaxy&lt;/a&gt;：Rust 写的跟踪和广告拦截工具。该项目基于 MITM 中间人攻击原理，在两端之间建立双向隧道，通过过滤 URL 地址阻止广告的请求，实现拦截广告的效果。它占用内存少、速度快，支持自动更新过滤列表、统计信息显示、自定义过滤列表等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227187-586285696.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Swift 项目&lt;/h3&gt;
+&lt;p&gt;31 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ivoronin/TomatoBar" rel="nofollow"&gt;TomatoBar&lt;/a&gt;：精致的 macOS 菜单栏番茄时钟。这是一款 macOS 上的番茄时钟应用，它小巧精致、界面简洁，支持设置工作和休息间隔、提示音、全局热键等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227255-1639820649.png" /&gt;&lt;/p&gt;
+&lt;p&gt;32 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XcodesOrg/XcodesApp" rel="nofollow"&gt;XcodesApp&lt;/a&gt;：Xcode 安装和切换的实用工具。Xcode 是 macOS 系统向开发人员提供的集成开发环境，该项目可以轻松安装和切换各个版本的 Xcode ，采用 aria2 下载速度更快，Xcode 发行版数据来自苹果官网。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227122-1966418264.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;其它&lt;/h3&gt;
+&lt;p&gt;33 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/catppuccin/catppuccin" rel="nofollow"&gt;catppuccin&lt;/a&gt;：超看好的主题配色方案。该项目是由社区驱动的配色方案，内含以暖色调为主、色彩丰富的主题，可用于 VSCode 、JetBrains 、Vim 等编辑器和 IDE ，同样适用于各种编程语言的开发库、终端、操作系统、浏览器等应用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227279-297398298.png" /&gt;&lt;/p&gt;
+&lt;p&gt;34 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mulaRahul/keyviz" rel="nofollow"&gt;keyviz&lt;/a&gt;：一款免费的实时键鼠输入可视化软件。该项目可以将鼠标和键盘的操作展示到屏幕上，让观众可以看到你的键鼠操作。适用于截图、录制视频、演示和协作等场景，支持 Windows 、Linux 和 macOS 操作系统。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227313-2059790725.png" /&gt;&lt;/p&gt;
+&lt;p&gt;35 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LearnPrompt/LearnPrompt" rel="nofollow"&gt;LearnPrompt&lt;/a&gt;：免费开源的 AIGC 课程。该项目对新手友好、无需 AI 知识也可轻松学习，它不仅会传授如何用好 AIGC ，还会深入讨论 AI 相关的知识，内容包括 ChatGPT 、Runway 、Midjourney 、Stable Diffusion 、AI 数字人等方面。&lt;/p&gt;
+&lt;p&gt;36 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;python-weekly&lt;/a&gt;：Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等。&lt;/p&gt;
+&lt;p&gt;37 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Get-Tech-Stack/TechStack" rel="nofollow"&gt;TechStack&lt;/a&gt;：显示 GitHub 项目所用技术栈的浏览器插件。该项目可以展示用户正在访问的 GitHub 仓库的技术栈，帮助用户快速了解项目的更多信息。来自 &lt;a href="https://hellogithub.com/user/LlcmQNh12ZgD6sW" rel="nofollow"&gt;@CorrectRoadH&lt;/a&gt; 的分享&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227297-531594059.png" /&gt;&lt;/p&gt;
+&lt;p&gt;38 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gfxfundamentals/webgl-fundamentals" rel="nofollow"&gt;webgl-fundamentals&lt;/a&gt;：从基础理论讲起的 WebGL 教程。这是一份从基础的数学知识讲起的 WebGL 系列教程，内含中文翻译版本。&lt;/p&gt;
+&lt;h3&gt;开源书籍&lt;/h3&gt;
+&lt;p&gt;39 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/cssanimation/css-animation-101" rel="nofollow"&gt;css-animation-101&lt;/a&gt;：《 CSS 动画入门秘籍》。这本书主要是介绍 CSS 中的动画（ CSS animation ），内容包含什么是 CSS animation 、transition 属性、如何制作复杂的动效以及丰富的示例，教会你如何将 CSS 动画应用到你的项目中。&lt;/p&gt;
+&lt;p&gt;40 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/seisman/how-to-write-makefile" rel="nofollow"&gt;how-to-write-makefile&lt;/a&gt;：《跟我一起写 Makefile 》。该项目是陈皓整理自《 GUN Make Manual 》的系列文章 PDF 重制版，作者对其进行了排版优化、代码高亮等操作，阅读起来更加舒服，可作为初学者上手 Makefile 的教程。&lt;/p&gt;
+&lt;h3&gt;机器学习&lt;/h3&gt;
+&lt;p&gt;41 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/QIN2DIM/hcaptcha-challenger" rel="nofollow"&gt;hcaptcha-challenger&lt;/a&gt;：优雅地处理 hCaptcha 验证码的库。该项目不依赖浏览器插件和第三方反验证码服务，通过机器学习的方式处理 hCaptcha 验证码。它采用 ResNet 和 YOLOv8 处理分类和检测问题，通过 ONNX 打包模型降低使用门槛，让用户可在没有 GPU 的设备上运行代码，且无需安装 PyTorch 等依赖，优雅地面对 hCaptcha 验证码。来自 &lt;a href="https://hellogithub.com/user/Gm0AckPjzrhTHae" rel="nofollow"&gt;@QIN2DIM&lt;/a&gt; 的分享&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;import os
+from pathlib import Path
+
+import hcaptcha_challenger as solver
+
+# Init local-side of the ModelHub
+solver.install()
+
+# Challenge prompt of binary challenge 
+prompt = "diamond bracelet"
+
+# Load challenge images, assuming you've already downloaded them.
+label_dir = Path(__file__).parent.joinpath("diamond_bracelet")
+images = [label_dir.joinpath(fn).read_bytes() for fn in os.listdir(label_dir)]
+
+def bytedance():
+    classifier = solver.BinaryClassifier()
+    # type: List[bool | None]
+    # IF True --&amp;gt; click image
+    # ELIF False --&amp;gt; bypass image
+    # ELSE --&amp;gt; Something err  
+    if result := classifier.execute(prompt, images):
+        for i, name in enumerate(os.listdir(label_dir)):
+            print(f"{name} - {result[i]}")
+
+if __name__ == "__main__":
+    bytedance()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227435-2131069658.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;42 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/jax" rel="nofollow"&gt;jax&lt;/a&gt;：谷歌开源的高性能科学计算库。这是一个结合了即时编译(JIT)、自动求导(Autograd)、线性代数编译器(XLA) 的数值计算 Python 库，用法和 NumPy 差不多。但 JAX 更快、更省内存，支持自动微分、自动向量化、并行计算等功能。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;from jax import grad
+import jax.numpy as jnp
+
+def tanh(x):  # Define a function
+  y = jnp.exp(-2.0 * x)
+  return (1.0 - y) / (1.0 + y)
+
+grad_tanh = grad(tanh)  # Obtain its gradient function
+print(grad_tanh(1.0))   # Evaluate it at x = 1.0
+# prints 0.4199743
+# 自动求导
+print(grad(grad(grad(tanh)))(1.0))
+# prints 0.62162673
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;43 、&lt;a href="https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aigc-apps/sd-webui-EasyPhoto" rel="nofollow"&gt;sd-webui-EasyPhoto&lt;/a&gt;：你的智能 AI 照片生成工具。这是一款用于生成 AI 肖像画的 WebUI 插件，可用于生成专业质感的照片，相当于免费、可本地部署的妙鸭相机。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2023.cnblogs.com/blog/759200/202309/759200-20230927165227423-1123792318.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;感谢无私分​享开源项目的小伙伴们，欢迎更多的开源爱好者来 HelloGitHub 自荐/推荐开源项目。如果你发现了 GitHub 上有趣的项目，就&lt;a href="https://hellogithub.com/periodical" rel="nofollow"&gt;点击这里&lt;/a&gt;分享给大家伙吧！&lt;/p&gt;
+&lt;p&gt;以上就是本期的所有内容了，往期内容&lt;a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&amp;amp;action=getalbum&amp;amp;album_id=1331197538447310849&amp;amp;scene=173&amp;amp;from_msgid=2247511076&amp;amp;from_itemidx=1&amp;amp;count=3&amp;amp;nolastread=1#wechat_redirect" rel="nofollow"&gt;点击阅读&lt;/a&gt;，如果你觉得本期内容还不错的话 &lt;strong&gt;求赞、求分享&lt;/strong&gt; ❤️&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:45:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977802#reply1</guid></item><item><title>[问与答] 求解答！用 uniapp 开发的应用，没有引入“小红书”的任何 sdk，在自家应用却弹框提示想要打开小红书。</title><link>https://www.v2ex.com/t/977801#reply3</link><description>&lt;p&gt;用 uniapp 开发的应用，没有引入“小红书”的任何 sdk ，在自家应用却弹框提示想要打开小红书。请问大家有没有遇到类似的问题，求解答🫰🫰🫰 &lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/qSJL2Af.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:45:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977801#reply3</guid></item><item><title>[成都] 明天去成都玩两三天，在成都老哥帮看看可有坑或不建议去得地方</title><link>https://www.v2ex.com/t/977800#reply11</link><description>&lt;h4&gt;day0:&lt;/h4&gt;
+&lt;p&gt;明天下午 6 点到成都南站，酒店在文化馆附近，晚上暂定&lt;/p&gt;
+&lt;h4&gt;day1:&lt;/h4&gt;
+&lt;p&gt;城区内，吃吃吃的一天：春熙步行街、宽窄巷子、锦江夜景等&lt;/p&gt;
+&lt;h4&gt;day2&lt;/h4&gt;
+&lt;p&gt;城区内，长见识的一天：清羊宫、科技馆、博物馆等&lt;/p&gt;
+&lt;h4&gt;day3：&lt;/h4&gt;
+&lt;p&gt;都江堰，看看看的一天：都江堰景区、青城山、熊猫谷 or 熊猫乐园 （ PS：繁育基地 网上说 网红熊猫排队两三个小时，熊猫少，感觉不值得，故不去）&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:44:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977800#reply11</guid></item><item><title>[问与答] 移动端有没有什么 UI 库推荐？不针对特定前端 MVVM 框架的</title><link>https://www.v2ex.com/t/977799#reply1</link><description>&lt;p&gt;是不是 weui 算一个？还有别的推荐吗？&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:44:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977799#reply1</guid></item><item><title>[程序员] 请问: 合并 C 盘和 D 盘后, 今后使用有啥麻烦吗?</title><link>https://www.v2ex.com/t/977798#reply9</link><description>Win10 笔记本 SSD 太小, 总是 C 盘满报警, 想取消 D 盘, 合并 C 盘和 D 盘, 今后只有一个 C 分区. &lt;br /&gt;&lt;br /&gt;网上看了这样做有下列风险, 请问如何规避?&lt;br /&gt;1. C 盘写权限保护&lt;br /&gt;&lt;br /&gt;2. 系统文件和个人文件混在一起, 难以管理/搜索&lt;br /&gt;&lt;br /&gt;3. 系统重装麻烦.&lt;br /&gt;&lt;br /&gt;请赐教, 谢谢</description><pubDate>Thu, 28 Sep 2023 01:43:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977798#reply9</guid></item><item><title>[问与答] 除了 alt+tab，有其他更快的应用切换方式吗？</title><link>https://www.v2ex.com/t/977797#reply5</link><description>&lt;p&gt;alt+tab ，只能两个应用切来切去，多了就容易乱。&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:41:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977797#reply5</guid></item><item><title>[程序员] ChatGPT 网页版现在的验证码丧心病狂</title><link>https://www.v2ex.com/t/977796#reply8</link><description>搬瓦工的两个节点，一个日本的一个美国的，虽然可以登录，但每发一条就会弹出图形验证码，整整连续十个！&lt;br /&gt;&lt;a href="https://imgur.com/a/bAVNRK0" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/bAVNRK0&lt;/a&gt;&lt;br /&gt;我自建的梯子，也不是机场，怎么就被识别为有问题的 IP 了，难道是搬瓦工这个机房用的人太多了？&lt;br /&gt;换用了一个机场，试了几次才找到一个不用验证码的 IP ，太难了</description><pubDate>Thu, 28 Sep 2023 01:41:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977796#reply8</guid></item><item><title>[问与答] V 站现在要开启全局代理才能打开了么？</title><link>https://www.v2ex.com/t/977795#reply3</link><description>&lt;p&gt;今早发现用规则代理打不开了，需要开启全局代理才能打开。&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:38:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977795#reply3</guid></item><item><title>[YouTube] 今日一乐</title><link>https://www.v2ex.com/t/977793#reply1</link><description>&lt;p&gt;顶级画质你还真得看 B 站
+youtube 连杜比和 120Hz 都没有，那一堆杜比视频和 120hz 都是挂出来搞笑的。
+最后再说一遍，youtube 没有 120hz ，不支持杜比视界，不支持杜比全景声一样。
+油管只支持 HDR10 和 HLG ，以及 Opus 5.1 声道&lt;/p&gt;
+&lt;p&gt;不服的可以自己去问 youtube 客服
+Uploading and watching videos at 120 FPS is not supported at this time.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://bbs.nga.cn/read.php?&amp;amp;tid=37847505&amp;amp;pid=717944348&amp;amp;to=1" rel="nofollow"&gt;https://bbs.nga.cn/read.php?&amp;amp;tid=37847505&amp;amp;pid=717944348&amp;amp;to=1&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 01:28:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/977793#reply1</guid></item></channel></rss>
