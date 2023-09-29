@@ -1,115 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 28 Sep 2023 17:26:46 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[硬件] [避坑]珍惜生命，远离雷神 Thunderobot!</title><link>https://www.v2ex.com/t/978083#reply0</link><description>&lt;p&gt;&lt;strong&gt;前方负能量，慎入！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;雷神身为一个上市公司兼天猫入驻商场竟然撒谎发公告抹黑顾客！我 7 月 28 号下单雷神显示器，但 b 站兄弟比我迟下单却收到货了。我连动静都没，觉得不对劲，便于 3 号追问，客服说七天内发货机械回复，我也没追问下去了。直到四号才主动告诉我，发不了集运仓并让我发起退款，这耍猴烂藉口让我直接裂开。&lt;/p&gt;
-&lt;p&gt;2023 年了，都没封城了，还以为多大点事。怒发冲冠，便找淘宝伸冤。幸亏交易快照成了救命稻草，让雷神没法耍赖。终于在 5 号不情愿地发货了。这下小气了，终于在 8 月 12 号退出海外包邮活动了。 （特此声明，之前全部雷神自营的商品都有参加海外满 299 元包邮活动，不存在所谓我刻意刁难钻漏洞的说法哦，不言而喻，快照也有阐明海外 299 包邮。）更过分的是竟然抢先一步发公告营造假说法！搁这搞精神胜利法，选择性失忆？&lt;/p&gt;
-&lt;p&gt;别人比我迟下单都收到货了，你甚至连货都没开始发我都没进一步追究了轮到你来委屈？那请问是我加入海外包邮活动还是雷神您加入的呢？你要不要脸？失误的是您还是我？觉得和我做生意亏本就直说啊。搁着扯皮藉口，还让我取消订单？要取消你取消，要反悔也是由你你反悔，真丢脸。你这样发公告让海外顾客预先通知是给自己台阶下？那么不情愿，自欺欺人有意思么？你态度都明确了直接承认不要做海外生意呗。&lt;/p&gt;
-&lt;p&gt;本来我也不想评价了，既然收到货了就海阔天空了。居然发公告阴阳怪气？忍无可忍，开喷！对，我就是 “海外雷粉“，我就对号入座。我也许是不是第一个海外顾客，但肯定是最后一个！
-产品评价：
-产品自身还行，做工贴合都 ok ，屏幕没坏点，安全下车，但是漏光难逃一劫。。说白了雷神也是找的联合创新代工，那 osd 和工程模式一模一样。。
-&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cd7wLrB.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;Inb4 楼主太年轻了，老子经历了 n 遍 bestbuy Walmart 被砍单都没抱怨，楼主滚一边去吧！
-Inb4 让你贪便宜买二线贴牌厂？你遇上这么多逼事，活该！
-Inb4 谁让你住在海外，你在海外就是原罪！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TLDR&lt;/strong&gt;
-雷神反悔，拒绝按交易履行海外包邮&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后谢谢各位阅读，对于输出负面情绪，抱歉！中秋节快乐！&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:45:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978083#reply0</guid></item><item><title>[问与答] 阿里云三年服务器快到期了 有合适的推荐嘛</title><link>https://www.v2ex.com/t/978082#reply1</link><description>&lt;p&gt;三年前用新用户在双十一买的阿里云 1000 块钱买了 2 核 4G 的服务器，现在快到期了。续费一年需要 1800.
-有点买不起了。v 友们有合适的服务器推荐嘛&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:40:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978082#reply1</guid></item><item><title>[OpenAI] 提升 GPT Prompt 效果最佳实践 - 使用外部工具</title><link>https://www.v2ex.com/t/978081#reply0</link><description>&lt;p&gt;OpenAI 官方发布的"GPT 最佳实践"指南的六个策略，其中第五个策略是“使用外部工具”。&lt;br /&gt;
-通过使用其他工具的输出来弥补 GPT 的不足。例如，使用文本检索系统来告诉 GPT 相关文档的信息，或者使用代码执行引擎来帮助 GPT 进行数学计算和代码运行。如果有其他工具可以更可靠或更有效地完成某个任务，就应该使用这些工具，以获得最佳效果。&lt;br /&gt;
-具体方法：  &lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 29 Sep 2023 12:57:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 国庆期间有开注的 pt 大站吗</title><link>https://www.v2ex.com/t/978189#reply0</link><description>想求个馒头药，发在 &lt;a href="https://www.v2ex.com/go/in" rel="nofollow noopener" target="_blank"&gt;/go/in&lt;/a&gt; 都没人看。&lt;br /&gt;&lt;br /&gt;遂请问一下国庆期间有没有 pt 大站开注。&lt;br /&gt;&lt;br /&gt;哪位大佬方便的话也可以直接发一个😀&lt;br /&gt;附&lt;br /&gt;&lt;br /&gt;( &lt;a href="https://www.v2ex.com/i/AD3uZjkB.jpeg" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 AD3uZjkB.jpeg"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/AD3uZjkB.jpeg" /&gt;&lt;/a&gt;)</description><pubDate>Fri, 29 Sep 2023 12:39:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978189#reply0</guid></item><item><title>[App Store] App Store 下架没备案的游戏，下一步是什么？</title><link>https://www.v2ex.com/t/978187#reply0</link><description>&lt;p&gt;App 要求备案后，目前苹果最新动作是下架没备案的国外游戏。看样子要求 APP 备案包括 iOS 。大胆猜测苹果的下一步动作。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 下架没备案娱乐类 APP 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;2. 下架没备案工具类 APP.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;App Store 作为一个自带应用要备案吗？如果要备案，那么肯定是备案连国内服务器，你登海外 ID 连国外服务器符合备案要求吗？如果不符合要求，很有可能用海外 ID 不允许连接网络。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;3. App Store 海外 ID 没网。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;4. 非国区 iCloud 不允许联网。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;还有什么可能欢迎补充。&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 12:32:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978187#reply0</guid></item><item><title>[macOS] Sonoma 的顶部任务栏变白了？</title><link>https://www.v2ex.com/t/978186#reply1</link><description>顶部任务栏固定白色了吗？开暗黑模式都没用，感觉好刺眼啊</description><pubDate>Fri, 29 Sep 2023 12:14:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978186#reply1</guid></item><item><title>[路由器] 两个路由器有不同的宽带怎么组网？</title><link>https://www.v2ex.com/t/978185#reply2</link><description>&lt;p&gt;朋友们，请问有两个路由器，他们已经接入了不同的宽带，怎么把两个组在一起，使公网各自的宽带，同时又是在一个局域网里可以互相联机游戏？谢谢
+（一个路由器是小米 4A ，另一个是 Mikrotik RB750GR3 ）&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 12:13:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978185#reply2</guid></item><item><title>[全球工单系统] 哔哩哔哩现在视频默认 720P 吗？</title><link>https://www.v2ex.com/t/978184#reply4</link><description>以前都是默认 1080P 的，现在看个视频每次都要手动调清晰度。这难道单纯地是为了降低成本。。。</description><pubDate>Fri, 29 Sep 2023 12:12:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978184#reply4</guid></item><item><title>[问与答] 请问万事达卡可以做什么？</title><link>https://www.v2ex.com/t/978183#reply0</link><description>&lt;p&gt;我没有任何实体物品需求，一切互联网服务比如 chatgpt 靠合租号，所以我拿这个卡可以做什么？&lt;/p&gt;
+&lt;p&gt;或者介绍点可以买断的服务或者还不错的海淘品？&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 12:07:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978183#reply0</guid></item><item><title>[生活] 今天中秋节起亲戚家串门被数落了...</title><link>https://www.v2ex.com/t/978181#reply15</link><description>&lt;p&gt;原因是 iPhone 后壳 magsafe 圈中间是透明的，正好露出了苹果标，被亲戚拿起来数落了一下午，说现在华为已经称霸全球了，最后上升到连美国总统都在偷偷用华为，神乎其神的，我只在那点头嗯嗯嗯嗯，没错...
+但我回来后
+&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Xi5KtYE.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 11:20:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978181#reply15</guid></item><item><title>[macOS] Sonoma 似乎修复了中文输入法卡死的问题？</title><link>https://www.v2ex.com/t/978179#reply4</link><description>&lt;p&gt;之前一直都设置了一个定时任务，用于定时将中文输入法杀死才能保证不卡死&lt;/p&gt;
+&lt;p&gt;卡死的情况是：某个应用卡死，点别的应用点啥卡啥，但是多等一会儿又会不卡&lt;/p&gt;
+&lt;p&gt;间歇性出现&lt;/p&gt;
+&lt;p&gt;升级了 Sonoma 似乎没有遇到了&lt;/p&gt;
+&lt;p&gt;由于之前丢失了部分权限，也可能是因为我格式化了整个磁盘重装的原因...&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 10:49:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978179#reply4</guid></item><item><title>[问与答] 亲戚要买笔记本电脑，要求：不玩游戏，不写代码，就是看看电视，使用下 Word 之类的软件，该怎么选？</title><link>https://www.v2ex.com/t/978178#reply33</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://xhsci-10008268.cos.accelerate.myqcloud.com/1040g00830pjo0atl6gdg5p2n2ivaajck03bqcd8" /&gt;&lt;/p&gt;
+&lt;p&gt;说来惭愧，虽然做了几年程序员，但是我对电脑硬件、型号没有任何的了解，和小白没有区别。&lt;/p&gt;
+&lt;p&gt;请问各位朋友，上面几款型号，选哪个比较合适？&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 10:43:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978178#reply33</guid></item><item><title>[路由器] 误打误撞，把 PVE 搞成了网管交换机。这竟然也可以？？</title><link>https://www.v2ex.com/t/978176#reply2</link><description>&lt;p&gt;看网上教程，基本都是教大家如何在 pve 里把一个 trunk 口分离出 vlan 。作为一个小白，总觉得 pve 也能把两条线合并成一个 trunk 口实现单线复用，省下一台交换机。跟家折腾，没想到误打误撞成功了。  &lt;/p&gt;
+&lt;p&gt;原环境：&lt;br /&gt;
+vmbr1 作为公共 LAN 口（ 192.168.1.x ），分配给 ROS 和 op 作为内网，桥接到一个物理口连接远端交换机；&lt;br /&gt;
+vmbr2 桥接到一个物理口连接光猫，分配给 ROS 拨号，同时也分配给 op ，得到一个光猫 IP （ 192.168.0.x ），进行 IPTV 的转发。运行下来相安无事。&lt;/p&gt;
+&lt;p&gt;现环境：&lt;br /&gt;
+vmbr1 保持不变；&lt;br /&gt;
+新建一个 vlan：vmbr1.99 ；&lt;br /&gt;
+将 vmbr1.99 和光猫口物理口同时桥接进 vmbr2 ；
+&lt;a href="https://imgse.com/i/pPq9NAP" rel="nofollow"&gt;&lt;img alt="pPq9NAP.png" class="embedded_image" rel="noreferrer" src="https://z1.ax1x.com/2023/09/29/pPq9NAP.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这样做以后，原先（ 192.168.1.x ）的网络没有任何影响，而且在远端的交换机上也能分理出光猫的网络（ 192.168.0.x ）。但问题也来了，Linux Bridge 把物理口和 VLAN 桥接算是正常操作吗？桥接后的 vmbr2 仍然能正常拨号，不会有杂七杂八的流量进到 vmbr1.99 吗？&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 10:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978176#reply2</guid></item><item><title>[iPhone] 刚刚升级 iOS 17.0.2 后无法上网，分享出来避坑</title><link>https://www.v2ex.com/t/978173#reply3</link><description>设备：&lt;br /&gt;14Pro ，17.0.1&lt;br /&gt;&lt;br /&gt;场景：&lt;br /&gt;刚看到提示可以升级到 17.0.2 ，就很顺手的点击升级了&lt;br /&gt;&lt;br /&gt;升级完的几个异常：&lt;br /&gt;1 、右上角的 WiFi 图标消失了，变成了 4G ，尽管在 WiFi 设置里是连上的看起来一切正常&lt;br /&gt;2 、不管 WiFi 打开还是关闭(只用 4G)，几乎所有 app 都是连不上网的（比如微信里是断网的状态），Safari 里一般的网站比如百度都上不了，唯独上 Apple 官网没问题（而且系统设置里竟然可以顺利下载 17.1Beta ，？？？）&lt;br /&gt;&lt;br /&gt;失败的尝试：&lt;br /&gt;重启手机、还原网络设置、升级到 17.1Beta&lt;br /&gt;&lt;br /&gt;成功的尝试：&lt;br /&gt;无意间看到 [设置-VPN ] 的状态在不断尝试连接，就试着去 Quan X 的 app 里，把开关打开，然后网络就一切恢复正常了，WiFi 图标也回来了&lt;br /&gt;&lt;br /&gt;这是啥原理啊？有懂的老哥说下不</description><pubDate>Fri, 29 Sep 2023 10:08:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978173#reply3</guid></item><item><title>[问与答] 选择重传协议疑问</title><link>https://www.v2ex.com/t/978172#reply1</link><description>&lt;p&gt;在选择重传协议中，如果发送接收窗口的尺寸都是 4 ，发送方发送的 0-3 号数据都被接收方正确接受，接收方也发送了 0-3 号确认分组，但是 2 号确认分组在传输过程中丢失了，只有 0 ，1 ，3 号确认分组正确被发送方收到，那后续的过程是怎样的？（不要 chatgpt 的答案，因为我试过，引申的疑问来自于 &lt;a href="https://b23.tv/fRUMaRO" rel="nofollow"&gt;https://b23.tv/fRUMaRO&lt;/a&gt; 的 6 分钟左右，视频里说的是 2 号数据分组丢失，我的引申问题背景是 2 号确认分组丢失）&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 09:59:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978172#reply1</guid></item><item><title>[iPhone] iPhone 15 Pro 录影测试 ProRes Log</title><link>https://www.v2ex.com/t/978170#reply1</link><description>YouTube: &lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&lt;br /&gt;iPhone 15 Pro 拍摄，4K 60fps, 外接 SSD 录制 ProRes Log, 后期套用了 LUT.</description><pubDate>Fri, 29 Sep 2023 09:50:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978170#reply1</guid></item><item><title>[问与答] 目前 WIN 系统的电脑管理安卓手机，用什么软件好？</title><link>https://www.v2ex.com/t/978169#reply3</link><description>&lt;p&gt;1 、在 WIN11 电脑上管理安卓手机上的资源,文件，图片，短信删除什么的，（能不能在 PC 上编辑好短信，在 PC 上群发出去？）&lt;br /&gt;
+2 、用 WIN PC 上的管理遥控操作手机屏幕，操作 APP ？？&lt;br /&gt;
+3 、管理软件没有暗桩、坑的。。。。。&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 09:38:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978169#reply3</guid></item><item><title>[酷工作] 远程工作，招聘 iOS 资深开发工程师</title><link>https://www.v2ex.com/t/978168#reply0</link><description>&lt;p&gt;Web3 公司，招 iOS 资深开发工程师，分布式居家办公，具体如下：&lt;/p&gt;
+&lt;p&gt;岗位职责：
+1 、负责移动 iOS 相关软件的开发工作；
+2 、具备独立模块的设计和开发工作；
+3 、负责项目中技术难点( 性能、稳定性）攻坚工作；
+4 、参与跨平台方案制定&lt;/p&gt;
+&lt;p&gt;任职要求：
+1 、全日制计算机或相关专业本科以上学历，熟悉各种主流手机特性，深刻理解手机客户端软件开发特点；
+2 、深入理解 iOS 系统，丰富的 Swift 及 C/C++ 开发经验；精通各种 UI 控件，能够实现复杂的界面交互；
+3 、熟悉 Javascript HTML CSS ；
+4 、iOS 性能调优，熟悉 Framework 源码经验加分；
+5 、具有性能（如启动、功耗、卡顿、内存等）优化相关的实践经验；
+6 、有 web3 行业经验
+7 、有马甲包开发经验及 App Store 上架经验
+8 、熟悉区块链技术及相关加密技术，具有钱包相关开发经验者优先。&lt;/p&gt;
+&lt;p&gt;薪资具备行业竞争力，全年 15 薪，有意者请将简历发送至 &lt;a href="mailto:hr@openblock.com"&gt;hr@openblock.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为提高工作效率，我们仅会联系简历经过初筛进入面试邀约阶段的候选人，请大家见谅。&lt;/p&gt;
+&lt;p&gt;祝各位求职顺利！&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 09:28:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978168#reply0</guid></item><item><title>[问与答] 铁路 12306 的乘车码能否用于进站口</title><link>https://www.v2ex.com/t/978167#reply10</link><description>&lt;p&gt;高铁进站需要走进站口安检，走检票口去站台。12306 软件中的乘车码中小字提示可以用于铁路扫码检票，我的理解就是可以用于检票口。那么这个乘车码能不能用于进站口呢？&lt;br /&gt;&lt;br /&gt;一会下高铁先试试检票口出站，过几天再试试进站口能不能用。&lt;br /&gt;&lt;br /&gt;今天拉着行李箱到地铁口看见警察了，突然反应过来没带身份证，又哼哧哼哧回去拿身份证。倒不是说想以后出行不带身份证，主要是身份证我习惯放包里而不是衣兜里，懒得每次进站和检票的时候拿出来又放回去。&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 09:18:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978167#reply10</guid></item><item><title>[程序员] 已经被利用，但没修复的，不算 bug 的 bug</title><link>https://www.v2ex.com/t/978166#reply3</link><description>&lt;p&gt;在开发者论坛发过贴，被删了
+几个月了，也没改，那就说道说道&lt;/p&gt;
+&lt;p&gt;在 wordpress 搜索，如果对应关键词搜不到任何文章或者页面，还是会有一个 http 状态码 200 的页面，以及链接&lt;/p&gt;
+&lt;p&gt;比如&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;example.com/?q=减肥瘦身 WX@abc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;200 也就意味着这个网页存在，可以提交到搜索引擎索引，这样搜索某些关键词的时候，大概率会看到好多类似的页面&lt;/p&gt;
+&lt;p&gt;谷歌已经删除了大部分这种的页面，不过还是有其他，比如用户注册登录，新建 tag ，新建分类
+&lt;a href="https://mjj.today/i/sNiT0p" rel="nofollow"&gt;https://mjj.today/i/sNiT0p&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;临时解决办法是，没有搜索结果的页面返回 404&lt;/p&gt;
+&lt;p&gt;在文件中搜索 is_search() || 然后删除&lt;/p&gt;
+&lt;p&gt;/wp-includes/class-wp.php&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 09:06:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978166#reply3</guid></item><item><title>[问与答] 有没有能了解相机价格(包括二手)的网站或者公众号(每日都会发布最新价格那种)</title><link>https://www.v2ex.com/t/978165#reply1</link><description>最近贼喜欢 gr3/3x ，捏码，二手居然要 6k+！！</description><pubDate>Fri, 29 Sep 2023 09:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978165#reply1</guid></item><item><title>[分享创造] FilmBudd 一个电影观影记录效率 App</title><link>https://www.v2ex.com/t/978164#reply10</link><description>&lt;p&gt;不是有张三李四王五 app 可以记么？跟许多独立开发者不一样，设计这个应用的初衷并不仅仅是做一个待办番茄或记账打卡练手。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;不喜欢看小故事的直接拖到最后几段。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;三年前辞去了月薪五万的工作，选了一个自己喜欢的小方向创业，尝试从效率工具入手逐步扩展到更大的领域，
+可惜事与愿违，能力、执行和时运跟不上想法，三年过去，一直亏损。&lt;/p&gt;
+&lt;p&gt;2023 年在进行的项目里有非常多可试错付费功能，想法池里也有不少想法可以落地为具体项目，虽然营收在持续增长——但是太慢了，月收入连最低额社保都无法覆盖。除了负债累累，而账面里已经没有多少资金可以支撑到收支平衡。
+在仅剩几个月缴纳最低额公积金存款时，决定听从亲友建议转变方向，把已有多数项目关停，从想法池众多想法里面选一个 FilmBudd 移动端相关应用项目作为工作室注销前最后一次挣扎。&lt;/p&gt;
+&lt;p&gt;此前一直不愿意实施这个移动端项目，是因为反感时下人人一律言必称 app ，人人言必现在是移动端就是一切的时代，而我认为具体情况具体分析具体讨论。
+我创业选的效率工具用户群更多是工作时使用，工作就应该用桌面电脑，大屏幕鼠标键盘操作怎么都比一个五六寸的触摸屏效率高。而时下大多数人，它们提到的场景未必是工作时使用，或者不是以工作为主。
+移动端应用更多时候应该作为桌面端、网页应用的补充延伸，而不是替代，而不是颠倒主次，比如二手交易，视频剪辑，社交和社区；除非你的场景完全不需要桌面端，比如打车。&lt;/p&gt;
+&lt;p&gt;八月某天，在把这个四年前的想法变成设计搞，正要学习移动端开发准备编码时，收到一张法院传票和此前准备关停的项目有关，这样一来 FilmBudd 新项目对于工作室和个人承载了更多意义。&lt;/p&gt;
+&lt;p&gt;FilmBudd 可能是工作室最后一个项目，如果开庭后败诉后大概率连同服务端开源。
+对于个人来讲，是第一个也是最后一个，大概率对待前女友一样对待 ta 吧。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;为啥开发 FilmBudd ？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已有产品或多或少有以下缺陷：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;使用基于嵌入的搜索实现高效的知识检索  &lt;/li&gt;
-&lt;li&gt;通过代码执行来进行更准确的计算或调用外部 API  &lt;/li&gt;
-&lt;li&gt;让模型访问特定的函数  &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;没法在监管合规、用户体验之间平衡。
+开放社区是法宝也是束缚。社区对于运营来讲，提升了用户粘性和最大化产品价值，
+但不止一个朋友反馈不喜欢社区功能，社区内容低幼化，默认开放内容也要求监管和审查第一，其次才是用户体验。
+（题外话：工具类应用最容易被平替，没有社区黏住用户，如何留住用户？）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;电影数据不全。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;强依赖第三方电影数据，无法在全球任意地区任意网络稳定快速、安全和合规访问。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;多次反馈了也没有下文。
+已有产品网页版和 app 标记相关功能近 10 年不变，包括但不限于，不支持标记多次观看、记录心情等等细节记录，不支持搜索标记。多倾听高净值用户想要啥，而不是产品经理自以为是，我觉得你们要啥就喂你啥；
+最起码，把反馈入口放在最显眼各处，方便用户反馈。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/UNJL3BugIw4tHWk6VUx0xw" rel="nofollow"&gt;提升 GPT Prompt 效果最佳实践 - 使用外部工具&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:36:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978081#reply0</guid></item><item><title>[分享创造] 开发了一个非常小众的工具-涮火锅计时器</title><link>https://www.v2ex.com/t/978080#reply7</link><description>&lt;p&gt;开发这个小工具，初衷其实是解决自己的痛点：爱吃火锅，却记不住哪个菜、肉应该涮多久，还不好意思总问服务员，结果就是要么半生不熟的吃了、要么煮老了（还有一种是让朋友试验一下 🤐）&lt;/p&gt;
-&lt;p&gt;核心功能就是倒计时，下锅哪个菜就点哪个菜，倒计时结束就大概率是最佳食用时间（已尽可能同步几个知名品牌数据，会继续补全）💪🏻&lt;/p&gt;
-&lt;p&gt;目前已经发布了网页版（旧 UI ）、微信小程序、苹果 APP 和 Android APK （国内市场都需要备案，时效比较久）🎉&lt;/p&gt;
-&lt;p&gt;下一步，会继续在保持克制的前提下，加一些有趣的功能进去，毕竟吃火锅是为了放松，不能本末倒置 😆&lt;/p&gt;
-&lt;p&gt;最后，还是那句话，世间唯美食与爱不可辜负 🥳&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;平台&lt;/th&gt;
-&lt;th&gt;地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;iOS&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://apps.apple.com/cn/app/%E6%B6%AE%E7%81%AB%E9%94%85%E8%AE%A1%E6%97%B6%E5%99%A8/id6467384945" rel="nofollow"&gt;AppStore&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Android&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/cloudstorage/__UNI__45E0050_20230929003031.apk" rel="nofollow"&gt;APK 下载&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;微信小程序&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/2023/09/27/87097652-62955848-gh_953baaedd164_430.jpg?x-oss-process=image/resize,w_100" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;H5(旧 UI)&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://play.neverbug.cn/hotpot/" rel="nofollow"&gt;play.neverbug.cn&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;预览图&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/2023/09/25/52219428-73929213-800_1.png?x-oss-process=image/resize,w_350" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/2023/09/25/52219428-73929213-800_1.png?x-oss-process=image/resize,w_350" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/2023/09/25/52219428-73929213-800_1.png?x-oss-process=image/resize,w_350" /&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://mp-cd2bd1a6-90ab-4b11-a266-5639604330e4.cdn.bspapp.com/2023/09/25/52219428-73929213-800_1.png?x-oss-process=image/resize,w_350" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Thu, 28 Sep 2023 16:26:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978080#reply7</guid></item><item><title>[问与答] 求各位高手推荐一个 postman 的 mac 下的替代。。</title><link>https://www.v2ex.com/t/978079#reply2</link><description>&lt;p&gt;不知不觉 postman 里面已经积累了 2000 多个 requests 了。。。现在在 m1 下面巨卡。。。感觉 electron 的锅。。。&lt;/p&gt;
-&lt;p&gt;因为做企业开发，不知道有没有用原生写的。。。要求：&lt;/p&gt;
-&lt;p&gt;1 ，最好是开源的。
-2 ，不要国人开发的。。。（公司规定）&lt;/p&gt;
-&lt;p&gt;不知道各位小伙伴都在用啥。。。&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:25:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978079#reply2</guid></item><item><title>[酷工作] 坐标长沙,寻一位长沙 golanger 合作,薪资面谈</title><link>https://www.v2ex.com/t/978078#reply0</link><description>&lt;p&gt;熟悉 signal/axolotl 者优先,产品为端对端加密即时聊天;
-联系 vx:seigfried-&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978078#reply0</guid></item><item><title>[路由器] 树莓派 5 要出了</title><link>https://www.v2ex.com/t/978075#reply2</link><description>&lt;p&gt;&lt;a href="https://www.raspberrypi.com/products/raspberry-pi-5/" rel="nofollow"&gt;https://www.raspberrypi.com/products/raspberry-pi-5/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.phoronix.com/review/raspberry-pi-5-benchmarks" rel="nofollow"&gt;https://www.phoronix.com/review/raspberry-pi-5-benchmarks&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;建议售价 60 刀&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:12:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978075#reply2</guid></item><item><title>[数学] 请教一个生活中的数学问题</title><link>https://www.v2ex.com/t/978074#reply23</link><description>我们宿舍是 6 人寝，30 天电费是 100 元，其中一个人只用了 20 天就离开了，那么他的电费怎么算？&lt;br /&gt;我是这样算的 100/6×2/3=11.11111111 。&lt;br /&gt;&lt;br /&gt;室友都认为是这样算的 20x+30×5x ＝ 100 ，&lt;br /&gt;x ＝ 10/17 ，&lt;br /&gt;20x ＝ 200/17=11.76 。&lt;br /&gt;&lt;br /&gt;我自认为我的数学不行，所以请教大家我算的为什么错，他算的为什么对，脑子转不过来了</description><pubDate>Thu, 28 Sep 2023 16:05:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978074#reply23</guid></item><item><title>[程序员] 兄弟姐妹们，有没有高质量的 vue3 前端项目实战课程，免费的付费的都可以推荐。</title><link>https://www.v2ex.com/t/978073#reply1</link><description>&lt;p&gt;如题！&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 16:05:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978073#reply1</guid></item><item><title>[问与答] V 站各位老哥，中秋国庆假期都有啥安排？分享分享</title><link>https://www.v2ex.com/t/978072#reply1</link><description></description><pubDate>Thu, 28 Sep 2023 15:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978072#reply1</guid></item><item><title>[Spotify] spotify 土区🚗 收一位 16 一季</title><link>https://www.v2ex.com/t/978071#reply0</link><description>&lt;p&gt;联系 tg 同名&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 15:48:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978071#reply0</guid></item><item><title>[微软] Azure OpenAI 资费好贵</title><link>https://www.v2ex.com/t/978070#reply4</link><description>&lt;p&gt;前几天申请到了 Azure OpenAI ，调用了一下 gpt-3.5 的模型。
-这个资费好贵，是正常的吗？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xQCgxo1.jpg" /&gt;
-&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ApbldPZ.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 15:39:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978070#reply4</guid></item><item><title>[iCloud] 自用 国区 iCloud 6 人缺 1</title><link>https://www.v2ex.com/t/978069#reply0</link><description>60 元/半年. 支持随时跳车, 钱按比例退, 车上的人不影响, 没找到我会自己承担费用.&lt;br /&gt;&lt;br /&gt;绿色 : 5oiR55qE5b6u5L+h5Y+3CFdlc2xleS16aG91</description><pubDate>Thu, 28 Sep 2023 15:34:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978069#reply0</guid></item><item><title>[VPS] 如何打开 wordpress 后台进行伪装？</title><link>https://www.v2ex.com/t/978067#reply0</link><description>&lt;p&gt;本人通过 trojan 在 vps 上建了一个节点，然后通过一键脚本部署了 wordpress 。但是当我通过他给出的 wordpress 网址的时候，但是显示如下。&lt;a href="https://pic.sl.al/gdrive/pic/2023-09-28/651566a379751.jpeg" rel="nofollow"&gt;https://pic.sl.al/gdrive/pic/2023-09-28/651566a379751.jpeg&lt;/a&gt; 不管是 mac 还是 windows 还是 iPhone 都是这样。 请问应该如何访问 wordpress 后台呢？
-现在 trojan 已经可以使用了，还有必要去把网站弄起来吗？&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 15:19:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978067#reply0</guid></item><item><title>[程序员] ubuntu 端口转发，总显示 Connection refused</title><link>https://www.v2ex.com/t/978065#reply1</link><description>&lt;p&gt;各位大佬，请教个端口转发的问题。
-我这边有服务运行在本地的 127.0.0.1: 8545 ，机子内网 ip 是 192.168.0.5 。我需要将所有到 192.168.0.5: 8549 的请求转发到 127.0.0.1:8545. 于是我使用 iptables 添加了如下规则并 save 。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;iptables -t nat -A PREROUTING -d 192.168.0.5 -p tcp --dport 8549 -j DNAT --to-destination 127.0.0.1:8545
-iptables-save
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;同时我确保 ufw 8549 打开了。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ufw allow 8549
-~# ufw status
-Status: active
+&lt;p&gt;FilmBudd 是一个电影观影记录效率工具：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基于高净值用户共建共造，用户即开发者、产品经理；&lt;/li&gt;
+&lt;li&gt;将来不会有目前已知形态的社区功能；&lt;/li&gt;
+&lt;li&gt;尊重用户隐私，默认数据全部自己可见，不会要求多一个无关权限；&lt;/li&gt;
+&lt;li&gt;所有功能基于实际场景出发，而不是无脑抄袭；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;首个版本 23.8.1 功能&lt;/strong&gt; ：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;查询大众和专业评分&lt;/li&gt;
+&lt;li&gt;记录已看、想看、重温的电影&lt;/li&gt;
+&lt;li&gt;记录观影心情&lt;/li&gt;
+&lt;li&gt;记录重温细节&lt;/li&gt;
+&lt;li&gt;搜索观影记录
+希望它能帮助您记录观影生活点滴，陪您度过美好观影时光。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="screenshot 1" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1e/03/4d/1e034dc7-e80b-00eb-69c9-3873825ee78e/34d41587-c331-48ef-814b-010daec767d8_Group_1.png/230x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot 2" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d2/0a/34/d20a34d9-533b-30a1-4328-dba3fde22abf/89d7728a-34aa-4ade-8e03-07d4e3df8819_Group_2.png/230x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot 3" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/99/f3/79/99f37967-ae80-2906-3093-359267fe684c/3d22359e-b774-498b-a9da-0f5e6195afb1_Group_3.png/230x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot 4" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/70/de/3070de2c-f930-458f-ca86-efe8eb6fa32a/3eb0d501-5be9-4991-80d5-686fec12f759_Group_4.png/230x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot 5" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/7e/3c/187e3cf6-feb5-bb80-af33-a789d33c7c4f/606091a9-beee-447f-a75d-7afa692589c7_Group_5.png/230x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;a href="https://play.google.com/store/apps/details?id=com.filmbudd.app" rel="nofollow"&gt;Google Play&lt;/a&gt; 或 &lt;a href="https://apps.apple.com/app/filmbudd/id6464677099" rel="nofollow"&gt;Apple App Store&lt;/a&gt; 里搜索 &lt;strong&gt;FilmBudd&lt;/strong&gt;，安装即可体验。其他应用商店在申请软著流程中，预计一个月后会上。&lt;/p&gt;
+&lt;p&gt;iOS 设置了付费，是为了冲榜。心痛就用以下兑换码&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;KENK3NM74X4Y
+HRRKXLPFJ9KJ
+YFPK3MJWW9P4
+NJHEKM44P7JR
+H4464PEYE3TX
 
-To                         Action      From
---                         ------      ----
-8549                       ALLOW       Anywhere                  
-8549 (v6)                  ALLOW       Anywhere (v6)             
+M7FXM6JXL6HP
+WL3XNEM64FFX
+WL3RHA7FTKFH
+6HW3RWY6NR9P
+WWWPKKMF69M3
 
+M6MHRKYPRXLT
+JJELWMRPA7EF
+MLWH4MHP7JYP
+F9JWRLW6K66K
+FLERYKYHWAFF
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;但是我 curl 依旧显示 connection refused&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;curl http://192.168.0.5:8549/ 
-curl: (7) Failed to connect to 192.168.0.5 port 8549: Connection refused
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;求大佬们指点一下！&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 15:13:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978065#reply1</guid></item><item><title>[问与答] 公众号文章的阅读 点赞 数据抓取过程中有一个 key 会半小时过期，请问有没有大佬知道怎么自动更新？</title><link>https://www.v2ex.com/t/978064#reply0</link><description>就像这一篇文章里写的&lt;br /&gt;&lt;br /&gt;&lt;a href="https://wnma3mz.github.io/hexo_blog/2017/11/18/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%88%AC%E8%99%AB%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%88%E5%BE%AE%E4%BF%A1%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E7%82%B9%E8%B5%9E%E7%9A%84%E8%8E%B7%E5%8F%96%EF%BC%89/" rel="nofollow noopener" target="_blank"&gt;https://wnma3mz.github.io/hexo_blog/2017/11/18/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%88%AC%E8%99%AB%E7%9A%84%E7%BB%8F%E5%8E%86%EF%BC%88%E5%BE%AE%E4%BF%A1%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E7%82%B9%E8%B5%9E%E7%9A%84%E8%8E%B7%E5%8F%96%EF%BC%89/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;params = {&lt;br /&gt;    "__biz": your__biz,&lt;br /&gt;    "mid": article_mid,&lt;br /&gt;    "sn": article_sn,&lt;br /&gt;    "idx": article_idx,&lt;br /&gt;    "key": yourkey,&lt;br /&gt;    "pass_ticket": pass_ticket,&lt;br /&gt;    "appmsg_token": yourappmsg_token,&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;    "key" 这个参数对应的值，我计时了一下大概半小时过期。我想知道怎么实现自动生成，避免每次都要去访问一个新的文章，然后再从 url 中找。&lt;br /&gt;&lt;br /&gt;感谢指点</description><pubDate>Thu, 28 Sep 2023 15:02:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978064#reply0</guid></item><item><title>[分享创造] 有没有做英文网站自媒体的朋友，一起来聊聊，带一脚呗大佬</title><link>https://www.v2ex.com/t/978062#reply1</link><description>希望能不吝分享些日常运营技巧、SEO 心得、建站技术也可以。&lt;br /&gt;&lt;br /&gt;我的新站： &lt;a href="https://www.duelpeak.com/" rel="nofollow noopener" target="_blank"&gt;https://www.duelpeak.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;帮忙提提意见也是很感激的。</description><pubDate>Thu, 28 Sep 2023 14:51:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978062#reply1</guid></item><item><title>[分享发现] [随想]-2023-09-28 再次入职</title><link>https://www.v2ex.com/t/978058#reply5</link><description>&lt;p&gt;最近因为口袋比脸还干净 不得不以 5k 的薪资入职了家公司 &lt;a href="http://还是做.net" rel="nofollow"&gt;还是做.net&lt;/a&gt; 的  &lt;/p&gt;
-&lt;p&gt;技术倒是很新 技术总监恰好也用 Rider 开发 &lt;a href="http://用的是.Net" rel="nofollow"&gt;用的是.Net&lt;/a&gt; 7 加上 dapr sidecar 微服务 还用到了 Grpc protobuf&lt;/p&gt;
-&lt;p&gt;之前因为距离太远还放弃了这个岗位 但想想毕竟没钱了 还是将就下 自己骑自行车 27 公里到公司来报到&lt;/p&gt;
-&lt;p&gt;公司因为在小区里 而且是个 300 多平的大平层 大家都在一起做饭吃 去的那天中午大家还做了玉米面条吃 正好把上午的能量补充回来了 hhh (&lt;strong&gt;27 公里并不近&lt;/strong&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20230928223236.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/09/28/6vD7ourC2PctXxy.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;喝点 记得这还是我在上海给室友做意面的时候当配料买的红酒&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 14:37:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978058#reply5</guid></item><item><title>[分享发现] 上线了个多用户的网址导航系统</title><link>https://www.v2ex.com/t/978057#reply0</link><description>&lt;p&gt;刚上线了一个多用户的网址导航系统，内置 20 多个模板，可以直接导入收藏夹的网址，使用二级域名直接访问自己的网站，不知道有感兴趣的没？担心风控问题现在暂时只开放邀请码注册，也只开放了私有访问。感兴趣的可以此处留言，给您发邀请码体验~&lt;/p&gt;
-&lt;p&gt;主站打算做 AI 类的网址导航，演示网站，爱集： &lt;a href="https://aiji.vip/" rel="nofollow"&gt;https://aiji.vip/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 14:34:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978057#reply0</guid></item><item><title>[分享创造] 介绍一个新上线的网站 https://youtubetomp3.vip -一个好用的 youtube 到 mp3 转换器</title><link>https://www.v2ex.com/t/978056#reply1</link><description>&lt;p&gt;体验将您喜爱的 YouTube 视频转换为高质量 MP3 文件的便利，随时随地都可以享受。我们的用户友好的界面和闪电般的快速转换过程，您可以毫不费力地将您珍爱的视频转换成音频杰作。&lt;/p&gt;
-&lt;p&gt;主要特点:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;无缝转换:毫不费力地将 YouTube 视频转换为 MP3 格式，只需点击几下。&lt;/li&gt;
-&lt;li&gt;闪电般的速度:体验闪电般的转换时间，节省您宝贵的时间。
-3.轻松下载:立即下载转换后的 MP3 文件并将其存储在您喜欢的设备上。&lt;/li&gt;
-&lt;li&gt;无限使用:转换尽可能多的 YouTube 视频，你想要的，没有任何限制。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;立即访问 &lt;a href="https://youtubetomp3.vip" rel="nofollow"&gt;https://youtubetomp3.vip&lt;/a&gt; ，开启一个充满无限音乐可能性的世界吧!&lt;/p&gt;</description><pubDate>Thu, 28 Sep 2023 14:22:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978056#reply1</guid></item></channel></rss>
+&lt;hr /&gt;
+&lt;p&gt;第一次开发移动端应用，第一个版本匆忙上线，有诸多不足，欢迎大家吐槽，理性讨论。&lt;/p&gt;
+&lt;p&gt;已知问题 1：界面丑。
+具体丑在哪里，丑如何影响到核心功能和用户体验，大家觉得哪一类风格 app 好看值得借鉴？&lt;/p&gt;
+&lt;p&gt;已知问题 2：iOS 版首启会弹出要求 WiFi 网络和移动数据权限，点击授权后，首屏一直加载中不会刷新。
+解决：注册或登录后会自动刷新，或重启一次应用。&lt;/p&gt;</description><pubDate>Fri, 29 Sep 2023 08:54:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978164#reply10</guid></item><item><title>[程序员] 如果把评论提交的‘&lt;’，‘"’，‘&gt;’，‘&amp;’都转码为&amp;lt;&amp;gt;%22&amp;;&amp;amp;之类的，是不是就可以防止 xxs。</title><link>https://www.v2ex.com/t/978163#reply6</link><description>博客的评论，如果过滤关键词 script,onerror 等等可能会误判。&lt;br /&gt;‘&amp;lt;’，‘"’，‘&amp;gt;’，‘&amp;amp;’转码为&lt;br /&gt;&amp;amp;lt;&amp;amp;gt;%22;&amp;amp;amp;&lt;br /&gt;&lt;br /&gt;感觉转码这四个，应该就稳了。</description><pubDate>Fri, 29 Sep 2023 08:17:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978163#reply6</guid></item></channel></rss>
