@@ -1,95 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 30 Sep 2023 16:23:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 威联通 docker(Container Station)+ipv6+反向代理，哪个云笔记是可以用？试了两个都不能用</title><link>https://www.v2ex.com/t/978373#reply0</link><description>&lt;p&gt;需求是，有网页版+手机版 APP 版+Windows 客户端的。威联通的 ipv6 已经绑了域名。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 01 Oct 2023 01:41:53 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Ubuntu] ssh 到 Ubuntu 显示的温度到底是什么</title><link>https://www.v2ex.com/t/978402#reply0</link><description>&lt;p&gt;刚配了一台 Ubuntu server ，刚开机然后 SSH 发现温度是 51 ，感觉有点不正常：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  System load:  0.00244140625    Processes:                385
+  Usage of /:   1.1% of 1.83TB   Users logged in:          0
+  Memory usage: 0%               IPv4 address for docker0: 172.17.0.1
+  Swap usage:   0%               IPv4 address for enp4s0:  xxx.xxx.xxx.xxx
+  Temperature:  51.0 C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个温度数据是怎么来的？我通过&lt;code&gt;lm-sensors&lt;/code&gt;程序发现 CPU 温度和室温差不多（毕竟我没有跑大程序）。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 01:32:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978402#reply0</guid></item><item><title>[Apple] V 友们救我啊，关于手机忘记锁屏密码的事情</title><link>https://www.v2ex.com/t/978401#reply7</link><description>&lt;p&gt;事情是这样的，女朋友是个保守的人，不太喜欢新事物，我是一个半瓶子晃荡不靠谱的人。&lt;/p&gt;
+&lt;p&gt;昨晚上，我想这给她的手机（ iPhone XS ）添加个交通卡。进入钱包添加页面，有一个要求，设置密码，我当时就没当回事，以为单纯是一个支付密码。输入原有的手机锁屏密码后，两次验证，就设定了。&lt;/p&gt;
+&lt;p&gt;设定之后，看了下，还需要绑定银行卡。我就没管，放在那里没进行后续操作。&lt;/p&gt;
+&lt;p&gt;半夜时候，女朋友突然惊讶：手机打不开了，用密码也打不开。我知道出问题了，当时我就反应过来是 apple pay 密码出了问题，同步到了锁屏密码。后来，女朋友睡着，我就偷偷试了下当时设定的密码，试了几次，都是错的。&lt;/p&gt;
+&lt;p&gt;我就慌了，一直弄到半夜两点，还是没试出来真实密码，现在应该就剩一次尝试机会了（锁定一个小时后，我没敢再试）。&lt;/p&gt;
+&lt;p&gt;半夜时候搜了好多解决办法，看到最为有效的大概就是刷机了，不过这样手机里的照片就没了。她的手机没升级到 iOS17 ，用不了新出的那个 72 小时内旧密码有效的方法。&lt;/p&gt;
+&lt;p&gt;现在女朋友还不知道是我的原因导致的，V 友们有啥办法吗。我联系了客服，十一点多时候给我打电话。天才吧预约要到周二了，今下午可能去授权店看看有啥办法没。&lt;/p&gt;
+&lt;p&gt;另外，我看刷机的话，需要确定 Apple id ，可是现在我们都不确定手机登陆的哪个（国区、美区各注册了一个）。&lt;/p&gt;
+&lt;p&gt;最后吐槽一句，苹果这个设定改密码方式真是有点坑啊，虽然我知道是自己没看清的缘故，但是，看知乎上，这么被坑的有好多个。不过，我是最倒霉的，忘了自己设定的密码。&lt;/p&gt;
+&lt;p&gt;大家救我啊。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 01:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978401#reply7</guid></item><item><title>[OpenAI] 有没有把 chatgpt 的网页转换成 api 的程序？想用 chatgpt 来翻译英文书籍， api 的费用太贵了</title><link>https://www.v2ex.com/t/978400#reply1</link><description>&lt;p&gt;如果能将免费的网页转成 api 就好了&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 01:20:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978400#reply1</guid></item><item><title>[程序员] 程序员提高英语水平依然是值得长期投入的，离谱开了一个儿童乐园并在一周回本了</title><link>https://www.v2ex.com/t/978399#reply5</link><description>&lt;h2&gt;开头&lt;/h2&gt;
+&lt;p&gt;v 站的朋友们，你们好，我是离谱。今天跟大家聊一个老生常谈且是我隔三差五就要提出来跟大家讨论的话题：#长期学习英语。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="repo 截图.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/01/S9ithKAQmUHCqrn.jpg" /&gt;
+&lt;img alt="google 排名.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/01/FkoZlehMmEPbYNB.jpg" /&gt;&lt;/p&gt;
+&lt;h2&gt;为什么你应该长期学习&lt;/h2&gt;
+&lt;p&gt;本人主张坚持做长期有价值的事情，学习英语无疑是让我收获最大的一件事情之一，这件事情让我无障碍浏览文档、欣赏音乐、观赏视频。他让我可以怀着愉悦的心情去探索更大的世界。&lt;/p&gt;
+&lt;h2&gt;教程链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/byoungd/English-level-up-tips" rel="nofollow"&gt;An advanced guide to learn English which might benefit you a lot 🎉 离谱的英语学习指南&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;离谱利用英语优势做了哪些探索&lt;/h2&gt;
+&lt;p&gt;探索副业已经几年的时间，可以说目前我已经不再推荐大家去做副业。因为目前流行的副业只有两种：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;低价值低回报（如送外卖跑滴滴摆地摊）&lt;/li&gt;
+&lt;li&gt;纯纯的韭菜项目（如教你自媒体、网络写手等，花钱买课学不到东西可能还要再）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我认为好的副业一定是要结合自身优势或者是整合其他资源来实现价值创收的。那么我是如何发现了一个想小小的商机的呢？&lt;/p&gt;
+&lt;p&gt;起因是我带娃在商场玩的时候，我无意识地跟娃秀了几个英语单词，这个事情让一起陪玩的其他家长心理上产生了非常微妙的反映，她们主动问我我们小孩的英语是在哪个机构教的，我说是我自己平时没事跟他闹着玩的，娃没有任何心理负担，所以学习英语的过程开心愉快，效果也很赞。&lt;/p&gt;
+&lt;p&gt;于是我想到了一个点子：商场的儿童乐园其实在节假日生意都不差，现在的家长真的是非常的卷，如果能在小孩玩玩具的时候开展一些有趣的学习活动，说不定能把这个生意做起来。&lt;/p&gt;
+&lt;p&gt;既然有想法了，那咱肯定是调研并开始整活，于是我在两周的时间内把儿童乐园开起来了，赶在双节的前一天。&lt;/p&gt;
+&lt;p&gt;我做了哪些事情呢，其实很简单，我在小孩们玩的间隙偶尔搞几个小活动，比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;回答上来某个玩具的英文单词送卡&lt;/li&gt;
+&lt;li&gt;时不时教他们一些跟场景强关联但是非常简单的单词，啥子、火车、地铁、房子等&lt;/li&gt;
+&lt;li&gt;让家长加群加群加群并帮忙拉其他宝妈进群，在群内偶尔分享一些小朋友在玩乐中学习的视频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;离谱取得了哪些成绩&lt;/h2&gt;
+&lt;p&gt;开业的第一天我没有让店员推销任何办卡的产品，第二天第三天跟回头客试着聊天，如果这些家长自己有意愿了解办卡的活动才开始介绍。&lt;/p&gt;
+&lt;p&gt;目前开业三天，前三天的营业额分别是：7760 ，9850 ，14570 。 总投资成本已经收回了约 30%。&lt;/p&gt;
+&lt;p&gt;b 站客流量视频：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1jH4y1f7NX/" rel="nofollow"&gt;https://www.bilibili.com/video/BV1jH4y1f7NX/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;为什么我会认为这是一个值得尝试的副业&lt;/h2&gt;
+&lt;p&gt;因为他&lt;strong&gt;充分利用自身的优势实现了更大的价值&lt;/strong&gt;，且可行性挺高&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;本篇文章首发于 V2EX ，转载请注明出处。&lt;/p&gt;
+&lt;p&gt;后期如果有空，可以展开跟大家聊聊我是如何在极短的时间内开出一家小店的&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 01:13:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978399#reply5</guid></item><item><title>[前端开发] 有人知道 Midjourney 这个前端效果怎么做的嘛</title><link>https://www.v2ex.com/t/978397#reply1</link><description>&lt;p&gt;&lt;a href="https://www.midjourney.com/home/" rel="nofollow"&gt;https://www.midjourney.com/home/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 00:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978397#reply1</guid></item><item><title>[iPhone] 港版首发 iPhone 15 pro 翻车了</title><link>https://www.v2ex.com/t/978396#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CkqkXfj.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;昨天来香港才打开看到背面右侧有缝隙，里面已经开始进灰了，去直营店说要预约天才吧维修，还有店员告诉我打客服电话申请换机器，这几天香港公休，电话不上班，但是我只在香港呆四天来不及，请问哪位有处理过这种情况吗？&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 00:49:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978396#reply3</guid></item><item><title>[程序员] 为何还没人做中文的 hackernews，我可以贡献代码～</title><link>https://www.v2ex.com/t/978395#reply6</link><description></description><pubDate>Sun, 01 Oct 2023 00:46:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978395#reply6</guid></item><item><title>[macOS] Sonoma 下桌面视频壁纸停不下来？</title><link>https://www.v2ex.com/t/978392#reply0</link><description>&lt;p&gt;今天发现当登录系统之后，视频背景地址还是在继续播放，而不是停下来。请问这个是正常的么？还是说有什么设置。谢谢&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 00:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978392#reply0</guid></item><item><title>[广州] 各位广州 V2er,请问今天电信宽带还给公网 ipv4 么？</title><link>https://www.v2ex.com/t/978389#reply1</link><description>请问今天电信还给公网 ipv4 么？还是只有公网 ipv6 ，公网 ipv4 已经收回了？感谢感谢。</description><pubDate>Sat, 30 Sep 2023 23:31:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978389#reply1</guid></item><item><title>[Apple] iPhone 15 系列过热，软件修复即将到来，难道是降频？把 10%的 CPU 提升再按回去？</title><link>https://www.v2ex.com/t/978388#reply7</link><description>Apple will issue a software update to address iPhone 15 overheating complaints&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.cnbc.com/2023/09/30/apple-will-issue-a-software-update-to-address-iphone-15-overheating-complaints.html" rel="nofollow noopener" target="_blank"&gt;https://www.cnbc.com/2023/09/30/apple-will-issue-a-software-update-to-address-iphone-15-overheating-complaints.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;An Apple spokesperson told CNBC:&lt;br /&gt;&lt;br /&gt;“We have identified a few conditions which can cause iPhone to run warmer than expected. The device may feel warmer during the first few days after setting up or restoring the device because of increased background activity. We have also found a bug in iOS 17 that is impacting some users and will be addressed in a software update. Another issue involves some recent updates to third-party apps that are causing them to overload the system. We’re working with these app developers on fixes that are in the process of rolling out.”&lt;br /&gt;&lt;br /&gt;一位苹果公司的发言人告诉 CNBC：&lt;br /&gt;&lt;br /&gt;“我们已经发现了一些情况，它们会导致 iPhone 运行时的温度比预期要高。在设置或恢复设备的最初几天里，由于后台活动增加，设备可能会感觉更热。我们还发现 iOS 17 中存在一个错误，这影响了一些用户，将会在一个软件更新中得到解决。另一个问题涉及到一些第三方应用的最近更新，这导致它们过载了系统。我们正在与这些应用的开发者合作，正在推出一些修复措施。”</description><pubDate>Sat, 30 Sep 2023 23:30:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978388#reply7</guid></item><item><title>[浏览器] 有没有和 cssused 实现类似功能的工具？</title><link>https://www.v2ex.com/t/978385#reply0</link><description>在网页上选中一部分，我只想导出这部分元素的 css 代码。&lt;br /&gt;&lt;br /&gt;原来用浏览器扩展 cssused 可以实现，最近发现 cssused 会提示 parsing 卡住，请问有没有其他同类工具可以推荐的？</description><pubDate>Sat, 30 Sep 2023 23:06:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978385#reply0</guid></item><item><title>[Apple] watchOS 10 移除了左右滑动切换表盘的手势</title><link>https://www.v2ex.com/t/978383#reply3</link><description>&lt;p&gt;如题，watchOS 10.0.1 现在只能按住表盘中间，然后再左右滑动切换表盘。非常令人不爽。&lt;/p&gt;
+&lt;p&gt;不知道这个改变是什么目的。没有因为和新功能冲突被替换，这个功能就是单纯地消失了。&lt;/p&gt;
+&lt;p&gt;但是按住表盘左右边缘并不会触发这个界面，所以有理由怀疑是个 bug ？&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 21:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978383#reply3</guid></item><item><title>[Rust] RUST 所有权移动问题</title><link>https://www.v2ex.com/t/978382#reply3</link><description>&lt;p&gt;刚随手写了一个示例，尝试探测编译器检测机制。以下代码在 JAVA/C/C++等众多语言中没有任何问题，即使按照 RUST 的所有权原则，也应该正常。但实际上编译失败了。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;struct Dog {
+    name: String,
+}
+
+impl Dog {
+    fn release(self) {
+        println!("{}", self.name)
+    }
+}
+
+struct Person {
+    dog: Dog,
+    name: String,
+}
+
+fn main() {
+    let mut person = Person {
+        dog: Dog {
+            name: String::from("Hamel"),
+        },
+        name: String::from("Zoe"),
+    };
+
+    person.dog.release();
+
+    for _ in 0..1 {
+        person.dog = Dog {
+            name: String::from("Hogge"),
+        };
+    }
+
+    println!("{} got a new dog: {}", person.name, person.dog.name);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以上代码我先通过 Person 关联了 Dog ，随后释放 Person 中的 Dog ，到此 Dog 不再有效，若后续直接调用会编译失败。&lt;/p&gt;
+&lt;p&gt;我跟着创建一个百分比会执行的 for 循环重新赋值，按理说指针已发生了变更，后续在循环外使用的 Dog 是新建的对象不会有问题。&lt;/p&gt;
+&lt;p&gt;但事上上编译失败。Rust 的检测器似乎没有认真评估 for 中的条件，认为 loop 至少执行一次，而 for 却不确定。当我把 for 改成 loop ，它确实正常了。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;loop {
+    person.dog = Dog {
+        name: String::from("Hogge"),
+    };
+    break
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我接着在 loop 中加一个百分比会执行的条件判断，最终仍然失败了。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;loop {
+    if true {
+        person.dog = Dog {
+            name: String::from("Hogge"),
+        };
+    }
+    break
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果说写 C/C++满脑袋都是寄存器、堆、栈、指针...，那么 RUST 必然是所有权检查器。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 19:46:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978382#reply3</guid></item><item><title>[浏览器] Chrome 首次安装自动下载 Worspace 套件 什么原因</title><link>https://www.v2ex.com/t/978381#reply1</link><description>干净的系统第一次装 Chrome 不登账户跳过，过一段时间就会自动安装一堆 google docs sheets gmail youtube 等的 web 插件，Windows 11 和 MacOS 都遇到这种问题，很烦，怎么解决</description><pubDate>Sat, 30 Sep 2023 19:31:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978381#reply1</guid></item><item><title>[旅行] 美东出行记录贴（更新中）</title><link>https://www.v2ex.com/t/978380#reply5</link><description>之前做出行攻略得到了大家的帮助，记录一些这次美东之行（主要是纽约）的一手经验给大家分享参考。&lt;br /&gt;&lt;br /&gt;中美航班还没有完全恢复，去程机票买的是在首尔转机，错峰了几天 30 号从北京大兴机场出发：&lt;br /&gt;1. 北京大兴机场从下轻轨，经值机排队，在问询处打印行程单，过海关和安检，走到登机口大概一个小时，整体顺利丝滑，人不多；&lt;br /&gt;2. 北京大兴机场问询处可以免费打印，A4 纸张质感还挺好，支持彩打。听说首都机场也可以，出境需要的材料可以急救打印；&lt;br /&gt;3. 首尔转机入境需要飞往美国机票的行程单、美签签注、护照、登记卡；&lt;br /&gt;4. 首尔仁川机场位置参考上海浦东机场，离市区远，出关十点多已经没有直达首尔站的车了，买 All Stop Train to Seoul Station 路上差不多五十分钟，票价也近 50 ；&lt;br /&gt;5. 首尔用不了 Google Maps ，得用 KakaoMap ；&lt;br /&gt;6. 从 Seoul Station 出来没有地铁了，等 Taxi 排大长队，Uber 能叫车但是车不多等巨久（但是比排 Taxi 要好），当地打车软件 Kakao T ，中区 App Store 没有需要切区；&lt;br /&gt;&lt;br /&gt;后续更新在评论区……</description><pubDate>Sat, 30 Sep 2023 18:27:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978380#reply5</guid></item><item><title>[宽带症候群] VisualStudioCode 官网和 Mojang API 跳反诈提醒？</title><link>https://www.v2ex.com/t/978379#reply5</link><description>&lt;p&gt;如图所示，似乎移动和联通都受到了影响（而且似乎是同一时间开始被影响）。&lt;/p&gt;
+&lt;p&gt;HTTPS 链接被 reset ，HTTP 被 301 永久重定向到 106.74.25.198 。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/a/CK8Lzfk" rel="nofollow"&gt;https://imgur.com/a/CK8Lzfk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前发现的受影响的域名：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://api.mojang.com" rel="nofollow"&gt;api.mojang.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://code.visualstudio.com" rel="nofollow"&gt;code.visualstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;curl:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;******@****** MINGW64 ~
+$ curl https://api.mojang.com -v
+*   Trying [2620:1ec:bdf::74]:443...
+* Connected to api.mojang.com (2620:1ec:bdf::74) port 443 (#0)
+* schannel: disabled automatic use of client certificate
+* Recv failure: Connection was reset
+* schannel: failed to receive handshake, SSL/TLS connection failed
+* Closing connection 0
+* schannel: shutting down SSL/TLS connection with api.mojang.com port 443
+* Send failure: Connection was reset
+* schannel: failed to send close msg: Failed sending data to the peer (bytes written: -1)
+curl: (35) Recv failure: Connection was reset
+
+******@****** MINGW64 ~
+$ curl http://api.mojang.com -v
+*   Trying [2620:1ec:46::74]:80...
+* Connected to api.mojang.com (2620:1ec:46::74) port 80 (#0)
+&amp;gt; GET / HTTP/1.1
+&amp;gt; Host: api.mojang.com
+&amp;gt; User-Agent: curl/8.1.2
+&amp;gt; Accept: */*
+&amp;gt;
+&amp;lt; HTTP/1.1 301 Moved Permanently
+&amp;lt; Location: http://106.74.25.198
+&amp;lt; Cache-Control: no-cache
+&amp;lt; Content-Type: text/html
+&amp;lt; Content-Length: 0
+&amp;lt;
+* Connection #0 to host api.mojang.com left intact
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;nslookup：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;C:\Users\******&amp;gt;nslookup api.mojang.com
+服务器:  public1.alidns.com
+Address:  223.5.5.5
+
+非权威应答:
+名称:    part-0046.t-0009.t-msedge.net
+Addresses:  2620:1ec:bdf::74
+          2620:1ec:46::74
+          13.107.246.74
+          13.107.213.74
+Aliases:  api.mojang.com
+          api-mojang-com-bxfdd0a4f8c6frfz.z01.azurefd.net
+          star-azurefd-prod.trafficmanager.net
+          dual.part-0046.t-0009.t-msedge.net
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;C:\Users\*****&amp;gt;nslookup code.visualstudio.com
+服务器:  public1.alidns.com
+Address:  223.5.5.5
+
+非权威应答:
+名称:    part-0046.t-0009.t-msedge.net
+Addresses:  2620:1ec:46::74
+          2620:1ec:bdf::74
+          13.107.213.74
+          13.107.246.74
+Aliases:  code.visualstudio.com
+          afd-vscode-site-fd-prod-dvgdfjcmaka5a3fq.z01.azurefd.net
+          star-azurefd-prod.trafficmanager.net
+          dual.part-0046.t-0009.t-msedge.net
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;换过 DNS ，从运营商换到 alidns 也是一样的结果，似乎是从 SNI 下手的？&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 17:22:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978379#reply5</guid></item><item><title>[程序员] vultr 开通 25 端口最大可以申请日发送多少邮件？</title><link>https://www.v2ex.com/t/978378#reply2</link><description>咋我申请每日 1000 封都被拒了？我看有 V 人日发过万啊。咋人和人区别这么大呢？</description><pubDate>Sat, 30 Sep 2023 17:12:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978378#reply2</guid></item><item><title>[宽带症候群] 宽带汇聚突破不了 1500mbps 怎么办？</title><link>https://www.v2ex.com/t/978377#reply7</link><description>先介绍一下设备与宽带&lt;br /&gt;2 条 1G （上传 50mbps ）郑州联通宽带（动态公）&lt;br /&gt;1 根入户光纤（光衰-20db ）光猫是 SK D849 （ XGPON ）千兆口&lt;br /&gt;现在是 1 口 2 口各负责一个账户&lt;br /&gt;ikuai 拨号 是 J4125 的 2.5g*4&lt;br /&gt;&lt;br /&gt;为了防止交换机问题 电脑直连软路由了（ z690-a 吹雪 带 2.5g 口 线是 6 类 内网能跑 2.3gbps 那样）&lt;br /&gt;然后跑微软商店下的 speedtest&lt;br /&gt;有时候可以 1.3-1.5gbps&lt;br /&gt;有的时候只能 940mbps （但上传是 110mbps ）&lt;br /&gt;最好的一次是 重启光猫 ikuai 后 steam 自己更新 跑了 1.5gbps&lt;br /&gt;小区没多少人用网（都老人） 测速都是凌晨试的 理论上不存在 olt 不够用吧...（我猜的 理由是就算 gpon 不也是上 1.25/下 2.5 么 单纯猜测）&lt;br /&gt;&lt;br /&gt;然后是动态公网的解释&lt;br /&gt;有的时候播 61 开头 ip 有的时候 124 开头的 ip&lt;br /&gt;但 ikuai 有那个 定时重播 大多是时候都是一个网关下的（有影响吗？第一次用动态公网 不了解）&lt;br /&gt;&lt;br /&gt;有没有必要换 fttr 啊（感觉 2.5g 口挺吸引我的）</description><pubDate>Sat, 30 Sep 2023 16:59:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978377#reply7</guid></item><item><title>[Vercel] Vercel 凉了？</title><link>https://www.v2ex.com/t/978376#reply4</link><description>如题，从今晚 0 点 23 分开始 cname 解析出来的全部 IP(76.76.x.x)跳反诈了，是我这边省份运营商有问题嘛</description><pubDate>Sat, 30 Sep 2023 16:56:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978376#reply4</guid></item><item><title>[NAS] 威联通 docker(Container Station)+ipv6+反向代理，哪个云笔记是可以用？试了两个都不能用</title><link>https://www.v2ex.com/t/978373#reply0</link><description>&lt;p&gt;需求是，有网页版+手机版 APP 版+Windows 客户端的。威联通的 ipv6 已经绑了域名。
 在电脑客户端敲笔记，在手机客户端查看，在别人的设备上用网页版登陆。
 威联通自带的 Notes Station3 没有桌面客户端，排除。
 试了：
 1.为知笔记。网页版没问题，桌面客户端只能登录，不能同步，一直报错。每次都提示找不到 http 的 wiznote-desktop/renderer.dev.js 。
 2.Leanote 。网页版没问题，客户端提示账号或密码错误，登不上。
 威联通的[反向代理]页面，这么配的。来源： https 的 xxx.xx：外部访问的端口；目标： http 的 localhost 的内网的端口。
-不知何处不对。记得刚安装为知笔记时，还是可以登录使用的，后来就废了，重新创建容器也还是同样的症状。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 16:01:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978373#reply0</guid></item><item><title>[职场话题] 山东双非计算机 acm 败犬现大三，未来应该怎么规划？</title><link>https://www.v2ex.com/t/978372#reply3</link><description>&lt;p&gt;&lt;del&gt;算是每年一次的日经贴了，但我把前几年的扫了一眼，感觉我好像是要学历没学历要能力没能力的&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;大一大二光想着打 xcpc 捞牌子，结果大三网络预选赛没够到排名 180 所以没拿到名额，绩点也不高，现在退役了有点找不到方向，应该是试试考研还是准备就业？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;奖项方面，有山东 ICPC 银首，蓝桥杯 C++ B 组省一国二，团体程序设计大赛个人国三，传智杯 C++ A 组省二国三，感觉都有点拿不出手，但是再打一年我觉得成本有点太高了，我也不敢说再来一年就能拿区域赛的牌子&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;平时在训练之余自己折腾过不少小玩具，玩过东西，平时也比较喜欢折腾 Linux ，但也仅仅局限在折腾，没什么拿出手的项目经历 。最近一段时间没事在一边学学 Spring 一边做 MIT6.824 的 Lab 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;0 实习&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/mslxl" rel="nofollow"&gt;GitHub: mslxl&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;按照现在的形式应该是考虑考研还是尽早做准备就业？如果考研失利应该怎么办？&lt;/p&gt;
-&lt;p&gt;考研的话我比较害怕没上岸怎么办，考本校又有点不甘心（学校对计算机非常不重视）。就业方面济南这边外包扎堆，普遍的应届生开 5k ，看起来形式十分严峻，网上也有很多应届生 0offer 。&lt;/p&gt;
-&lt;p&gt;作为 25 届毕业的学生现在很迷茫，希望大家能指点一下。&lt;/p&gt;
-&lt;p&gt;（知道很混，第一次在 V 站发帖，恳请各位轻点骂&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 15:56:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978372#reply3</guid></item><item><title>[程序员] [连载] 用文件系统做数据库 之一 设计文档</title><link>https://www.v2ex.com/t/978371#reply0</link><description>我想用文件系统做数据库。&lt;br /&gt;&lt;br /&gt;专门为个人开发者和小型团队而设计。&lt;br /&gt;&lt;br /&gt;设计文档：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://readonly.link/manuals/https://code-of-fidb.fidb.app/docs/manual/zh.json" rel="nofollow noopener" target="_blank"&gt;https://readonly.link/manuals/https://code-of-fidb.fidb.app/docs/manual/zh.json&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前我的实现并不完整。&lt;br /&gt;&lt;br /&gt;欢迎指教。</description><pubDate>Sat, 30 Sep 2023 15:33:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978371#reply0</guid></item><item><title>[HomePod] mac mini m2 连接 HomePod mini AirPlay 无声音</title><link>https://www.v2ex.com/t/978369#reply0</link><description>&lt;p&gt;电脑是 mac mini m2 pro ，连接 HomePod mini 后没有声音，但是视频或者歌曲的进度一直在走，这两天刚升级的 macOS sonoma 14.0 ，不确定是否跟此有关
-尝试过的方法：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;活动监视器中强制 kill 掉 AirPlayXPCHelper ，无效&lt;/li&gt;
-&lt;li&gt;重启 HomePod mini 无效，重置 HomePod mini 无效，重启电脑无效&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;有遇到类似的问题的吗，求解决办法&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 15:24:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978369#reply0</guid></item><item><title>[宽带症候群] 问个 DDNS 的问题，屏蔽外网扫描会不会好点？</title><link>https://www.v2ex.com/t/978368#reply0</link><description>rt ，因为用的是家人的身份 id 搞的第二条宽带。&lt;br /&gt;因为有 nas, 我在自己的 RouterOS 上设置了防火墙，只要有端口扫描行为，就直接屏蔽拉黑 IP 。&lt;br /&gt;&lt;br /&gt;这样会不会安全点？因为不知道这个到底是如何定位的 有没有大佬有经验</description><pubDate>Sat, 30 Sep 2023 15:10:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978368#reply0</guid></item><item><title>[创业组队] 去年的公开创业计划失败了，但我又卷土重来了，目标还是 5000 万！</title><link>https://www.v2ex.com/t/978365#reply2</link><description>&lt;p&gt;去年的帖子：&lt;a href="https://www.v2ex.com/t/864079" rel="nofollow"&gt;大家好，我开始了一项公开创业计划，目标是九个月获得五千万元投资。&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;新的帖子：&lt;a href="https://mp.weixin.qq.com/s/ODf2UdyaZTy-ZNHFJELpDg" rel="nofollow"&gt;公开创业计划重启，并邀请你一起&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我在 Twitter 也发了：&lt;a href="https://twitter.com/kxycigaret/status/1708130764968366576" rel="nofollow"&gt;卷土重来&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;😶‍🌫️ 这一期目标是四个季度融到五千万元人民币，这一次起点更高，有方向、有团队、有客户、风口上、已经拿到一笔投资，是否能够成功呢！&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;🤗 这一期我们在邀请大家共事哦，有兴趣的都可以来聊！文章提供了联系方式。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 14:57:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978365#reply2</guid></item><item><title>[Kindle] kindle cn 邮箱怎么继续使用呢？</title><link>https://www.v2ex.com/t/978363#reply4</link><description>&lt;p&gt;我一直用邮箱搭配其他插件去搭配 kindle,去推送书进我的 kindle.但是之后大家怎么办呢？看起来 cn 邮箱之后没用了，大家有什么其他无线推送(书，网页，甚至微信公众号)到 kindle 的方法？&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;望知悉，我们将于 2023 年 11 月 1 日开始停止支持通过 Send to Kindle 发送 MOBI （.mobi 、.azw 、.prc ）文件。此项变更将影响通过 电子邮件版 Send to Kindle 、iOS 和 安卓系统上的 Kindle 阅读软件以及 Windows 和 Mac 版的 Send to Kindle 应用发送 MOBI 文件。此项变更不会影响您的 Kindle 图书馆中已存在的 MOBI 文档和其他文档格式。&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Sat, 30 Sep 2023 14:47:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978363#reply4</guid></item><item><title>[程序员] 写代码或读文档的时候听什么歌？</title><link>https://www.v2ex.com/t/978361#reply4</link><description>我最近是邓紫棋/林俊杰/周杰伦比较多</description><pubDate>Sat, 30 Sep 2023 14:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978361#reply4</guid></item><item><title>[站长] 适合在欧美建站的机房推荐一下</title><link>https://www.v2ex.com/t/978360#reply1</link><description>&lt;p&gt;适合在欧美建站的机房推荐一下&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;linode/vultr 这些不太想用。&lt;/li&gt;
-&lt;li&gt;性价比高点的。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sat, 30 Sep 2023 14:30:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978360#reply1</guid></item><item><title>[求职] 广州 9 年 Java 求职</title><link>https://www.v2ex.com/t/978359#reply0</link><description>&lt;p&gt;主要是后端开发，对 spring cloud 技术栈和云原生 k8s ci/cd 也有涉及
-微信号 base64 cGV0ZXIxMjE2&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 14:23:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978359#reply0</guid></item><item><title>[设计] 求一些国内外 app 和网站设计图网站，要高质量的</title><link>https://www.v2ex.com/t/978358#reply2</link><description>&lt;p&gt;我收集一下，大家有吗？就是一些设计的 APP 高清图和网站的，想获得一些灵感，付费的也可。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 14:22:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978358#reply2</guid></item><item><title>[奇思妙想] 想法：让 AI 帮我们过滤信息</title><link>https://www.v2ex.com/t/978357#reply9</link><description>众所周知，互联网信息呈爆炸式增长，多数信息对我们没有什么用。而各个平台的内容都通过算法的方式推送给我们，但每天浪费在这些 APP 上太多时间。&lt;br /&gt;所以我个人有个想法，就是通过人工智能帮助我们过滤出真正重要的事情，让人工智能做我们的秘书。不光是平台，还有微信群聊（你懂得，根本看不过来）。</description><pubDate>Sat, 30 Sep 2023 14:18:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978357#reply9</guid></item><item><title>[OpenAI] 请问如果用苹果礼品卡买 gpt 会员，必须有余额自动付款，或者每个月都要用手机操作才能付款吗</title><link>https://www.v2ex.com/t/978355#reply3</link><description>&lt;p&gt;我没有高版本的苹果手机，之前找人借了苹果手机充值了 gpt 会员，后来又用自己超老款苹果通过余额自动付款的方式给 gpt 续了一个月会员&lt;/p&gt;
-&lt;p&gt;因为也不是经常用所以这个月不想续了，但找人借手机又很麻烦，因此又担心如果不一直续着余额真正需要 gpt 的时候没有就糟了&lt;/p&gt;
-&lt;p&gt;想问一下如果隔了一个月再给苹果手机充礼品卡的话，还能够让 gpt 被自动续费吗？是不是一旦中间断了就必须用苹果手机重复购买操作啊？&lt;/p&gt;
-&lt;p&gt;另外再问一下现在用安卓给 gpt 氪金容易吗？手机嫌麻烦没装谷歌三件套，能不能用手游模拟器应付一下？&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 14:10:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978355#reply3</guid></item><item><title>[Apple] 大家在 Sonoma 上能看到这个字吗？𫙠</title><link>https://www.v2ex.com/t/978354#reply16</link><description>&lt;p&gt;𫙠&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.zdic.net/hans/%F0%AB%99%A0" rel="nofollow"&gt;https://www.zdic.net/hans/𫙠&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;升级 sonoma 后发现一些不常见字展示不了了。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 14:09:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978354#reply16</guid></item><item><title>[Android] moto x40 解锁 bl 后还能支持微信指纹支付吗，刷国际版系统能支持微信指纹支付吗</title><link>https://www.v2ex.com/t/978353#reply0</link><description>&lt;p&gt;查了好多都是说 moto x30 pro 解锁 bl 后不支持微信指纹支付。
-但是没查到 x40 的。
-模块那种第三方指纹支付的不算。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 13:43:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978353#reply0</guid></item><item><title>[计算机] 咨询一个电脑硬盘的问题，电脑硬盘不够用</title><link>https://www.v2ex.com/t/978351#reply1</link><description>&lt;p&gt;公司发了一台笔记本，而且只能用这个，但是容量太小。只有 500G 。工作文件太多，根本不够用。自己也买了一个大的移动硬盘装文件，虽然可以装得下，但是无奈还是不方便，来回插电脑不方便。 有什么好的本地办法，不用网盘的？ （自己买了一个 SD 卡插在电脑上，但是百度上说是不是容易烧？ 所以很多文件也没放在 SD 卡）&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 13:35:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978351#reply1</guid></item><item><title>[Surge] surge5 for Mac 五车位出一个 120</title><link>https://www.v2ex.com/t/978349#reply0</link><description>&lt;p&gt;telegram 联系：clouddirty&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 13:00:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978349#reply0</guid></item><item><title>[Java] 用 Java 自己写了个多线程上传程序 Linux 报错 windows 完好</title><link>https://www.v2ex.com/t/978348#reply4</link><description>&lt;p&gt;TcpServer.java 启动监听 &lt;/p&gt;
-&lt;p&gt;再 TcpClient.java 启动 10 个线程发送文件 &lt;/p&gt;
-&lt;p&gt;一个几百 M 的 exe 文件   window 测试了 成功了&lt;/p&gt;
-&lt;p&gt;linux 报错如下 可能是什么原因？
-linux 机器上已经写了大概 120616 字节&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;java.net.SocketException: Connection reset by peer
-        at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
-        at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
-        at java.base/sun.nio.ch.NioSocketImpl.tryWrite(NioSocketImpl.java:394)
-        at java.base/sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:410)
-        at java.base/sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440)
-        at java.base/sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:819)
-        at java.base/java.net.Socket$SocketOutputStream.write(Socket.java:1195)
-        at Thread1.run(TcpClient.java:133)
-        at java.base/java.lang.Thread.run(Thread.java:1583
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 30 Sep 2023 12:56:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978348#reply4</guid></item><item><title>[Linux] 关于 Linux 分区的疑问</title><link>https://www.v2ex.com/t/978346#reply5</link><description>&lt;p&gt;我最近买了一台整机，配的是 2T 的 SSD 。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;df -h&lt;/code&gt;的结果如下，显然磁盘的空间不正确。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Filesystem                         Size  Used Avail Use% Mounted on
-tmpfs                               13G  2.0M   13G   1% /run
-efivarfs                           256K  123K  129K  49% /sys/firmware/efi/efivars
-/dev/mapper/ubuntu--vg-ubuntu--lv   98G   22G   72G  23% /
-tmpfs                               63G     0   63G   0% /dev/shm
-tmpfs                              5.0M     0  5.0M   0% /run/lock
-/dev/nvme0n1p2                     2.0G  346M  1.5G  19% /boot
-/dev/nvme0n1p1                     1.1G  6.1M  1.1G   1% /boot/efi
-tmpfs                               13G  8.0K   13G   1% /run/user/1000
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;通过&lt;code&gt;lsblk&lt;/code&gt;查看：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;NAME                      MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
-loop0                       7:0    0  63.3M  1 loop /snap/core20/1822
-loop1                       7:1    0 111.9M  1 loop /snap/lxd/24322
-loop2                       7:2    0  49.8M  1 loop /snap/snapd/18357
-loop3                       7:3    0  40.8M  1 loop /snap/snapd/20092
-loop4                       7:4    0  63.5M  1 loop /snap/core20/2015
-loop5                       7:5    0  73.9M  1 loop /snap/core22/864
-loop6                       7:6    0  22.2M  1 loop /snap/nvim/2809
-nvme0n1                   259:0    0   1.9T  0 disk
-├─nvme0n1p1               259:1    0     1G  0 part /boot/efi
-├─nvme0n1p2               259:2    0     2G  0 part /boot
-└─nvme0n1p3               259:3    0   1.9T  0 part
-  └─ubuntu--vg-ubuntu--lv 253:0    0   100G  0 lvm  /
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;看结果就是 1.9T 的空间只有 100G 分配了文件系统并进行挂载。那么这样设置是否有问题呢？如果有使得&lt;code&gt;/&lt;/code&gt;这个挂载点全部使用 1.9T ，应该如何操作？&lt;/p&gt;
-&lt;p&gt;请大佬帮忙解答疑惑。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 12:47:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978346#reply5</guid></item><item><title>[Apple TV] tvOS 17 beta 升级到 17.1 正式版后，旁路由 APP 集体失灵</title><link>https://www.v2ex.com/t/978343#reply8</link><description>之前在 tvOS 17 beta 时候用 Quantumlt X 和其他 APP ，旁路由轻松可用&lt;br /&gt;（只需将客户端网关和 DNS 指向 appletv IP 就行了，easy ）&lt;br /&gt;&lt;br /&gt;最近升级到 17.1 正式版后，就集体失效了&lt;br /&gt;&lt;br /&gt;看了看大家的帖子，有的说在 appletv 的“设置 homtkie”中将 appletv 设置为家庭中枢（之前是不需要的）。&lt;br /&gt;&lt;br /&gt;但这个“设置家庭中枢”还很玄学，账号反复登录了，我就没有这个选项。&lt;br /&gt;&lt;br /&gt;无语了，处处是坑，就不能让人踏踏实实过个节吗</description><pubDate>Sat, 30 Sep 2023 12:33:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978343#reply8</guid></item></channel></rss>
+不知何处不对。记得刚安装为知笔记时，还是可以登录使用的，后来就废了，重新创建容器也还是同样的症状。&lt;/p&gt;</description><pubDate>Sat, 30 Sep 2023 16:01:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978373#reply0</guid></item></channel></rss>
