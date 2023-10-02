@@ -1,120 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 01 Oct 2023 16:28:20 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 关于 b2 免费图床</title><link>https://www.v2ex.com/t/978522#reply0</link><description>&lt;p&gt;之前白嫖 github + Staticaly 作为图床, 最近 cdn 挂了&lt;/p&gt;
-&lt;p&gt;刚好又看到有人发白嫖 腾讯存储桶.我个人是不赞成的, 前车之鉴太多.&lt;/p&gt;
-&lt;p&gt;搜了下 b2 存储有免费 10G, 个人是够用的.&lt;/p&gt;
-&lt;p&gt;知乎有篇教程写得很详细, 顺便把 dns 解析从 DNSPod 换成 Cloudflare, 还有长周期的 ssl&lt;/p&gt;
-&lt;p&gt;Backblaze 云存储+Cloudflare 搭建高速安全的免费图床 - 晚阳 Crown 的文章 - 知乎
-&lt;a href="https://zhuanlan.zhihu.com/p/651418903" rel="nofollow"&gt;https://zhuanlan.zhihu.com/p/651418903&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 16:10:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978522#reply0</guid></item><item><title>[问与答] 开发商无赖维权，阿 Sir 暴力执法没有渠道管的了么？</title><link>https://www.v2ex.com/t/978519#reply6</link><description>&lt;p&gt;楼盘维权大半年了。绿化，入户，进度，大门，精装质量全是问题，区住建局协商沟通 N 次无果，开发商摆烂。今天几十百来号业主去拉横幅，街道派出所直接上人收横幅，暴力压迫业主散去，抓了几名业主，业主始终没动手，玛德把业主按在地上抓的，还吼女业主，指着鼻子威胁业主你再吵一句试试。没人敢动手，估计怕算袭警。最终结果街道又整了个会议，不知道效果几何，唉。没去现场，看到传回来的一个个视频真的心酸。&lt;/p&gt;
-&lt;p&gt;以前小打小闹，买个东西被骗，吃个外卖不好，维权感觉可容易，对法治社会充满了信心。自从买房维权以来，感觉一山更有一山黑，就没有渠道了么？老百姓根本够不着上层？国家信访什么的都试过了，全都是下落到基层实施，根本没有多少压迫力&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 15:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978519#reply6</guid></item><item><title>[硬件] 家里的老电视用 HDMI 连当贝 B3Pro，检测不到信号，可能是什么原因？</title><link>https://www.v2ex.com/t/978518#reply0</link><description>&lt;p&gt;老电视不是智能电视，想先用机顶盒扩展一下功能，再等双十一换新。遂购入当贝 B3Pro ，但连接该电视显示无信号(而非信号不支持)。排除是 HDMI 线材和盒子本身的问题(连接显示器能工作)，想问问大家可能是什么方面的原因，是否有可能解决(在不更换电视的前提下)。&lt;/p&gt;
-&lt;p&gt;补充：
-该电视之前一直连的是办 IPTV 给的机顶盒，连 HDMI 也能正常工作。从设置里观察并调整了一下刷新率与分辨率，能够在 1080p/720p*50Hz/60Hz 的组合下工作，其他不支持的分辨率(或刷新率)会显示 信号不支持。&lt;/p&gt;
-&lt;p&gt;用电脑连接电视，在显示方式为 扩展 的情况下显示 信号不支持。调整分辨率为 1080p/720p*50Hz/60Hz 等组合后能够工作，其他不支持的分辨率(或刷新率)会显示 信号不支持。&lt;/p&gt;
-&lt;p&gt;因此奇怪之处在于，连接当贝盒子时显示的是 无信号，而非 信号不支持，也就是说电视可能无法识别到其连接。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 15:38:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978518#reply0</guid></item><item><title>[问与答] 求大家推荐一根雷电 3 100W，长度 0.3 左右的线，谢谢</title><link>https://www.v2ex.com/t/978517#reply0</link><description>&lt;p&gt;朋友那边拿了一个阿卡西斯的硬盘+扩展我，就是下面这个，但是没有线。&lt;/p&gt;
-&lt;p&gt;能不能推荐一根线满足要求，可以一线通。&lt;/p&gt;
-&lt;p&gt;差不多使用方式就是显示器的 C 线连硬盘盒，硬盘盒连 mbp ，直接给 mbp 供电。&lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;
-&lt;p&gt;[淘宝]  &lt;a href="https://m.tb.cn/h.5TRcVdT?tk=CLQIWZLI2YI" rel="nofollow"&gt;https://m.tb.cn/h.5TRcVdT?tk=CLQIWZLI2YI&lt;/a&gt; CZ0001 「阿卡西斯 Type-C 硬盘扩展坞 M.2/NVME/SATA 双协议雷电 3/4 移动硬盘盒笔记本电脑分线器拓展坞 USB-C 转 HDMI 转换器」
-点击链接直接打开 或者 淘宝搜索直接打开&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 15:38:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978517#reply0</guid></item><item><title>[iPhone] 刚入了一台二手 iPhone14 PM，发现微信群点开图片或朋友圈点开图片，要转圈几秒才能打开，抖音有时候也卡一下，同样网络同一种情形下， 13PM 就没这个问题。</title><link>https://www.v2ex.com/t/978516#reply0</link><description>&lt;p&gt;用 Speedtest 测速，同样宽带，网速也不如 13PM&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 15:29:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978516#reply0</guid></item><item><title>[Apple] bilibili ios 客户端 cdn 问题</title><link>https://www.v2ex.com/t/978515#reply1</link><description>&lt;p&gt;手持 iphone15pro 十分折磨，具体表现为：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;部分播放量少的 4k 视频出现 0kb/s&lt;/li&gt;
-&lt;li&gt;部分直播间无法播放
-猜测是 cdn 问题，但启用 https ，抓包分析都没有找到问题，其他 ipad 设备也没有这个问题，不知道有没有人和我有一样的情况。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 01 Oct 2023 15:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978515#reply1</guid></item><item><title>[Apple] 如何在 iPhone 上显示屏幕最大显示区域且用红框表示边界？</title><link>https://www.v2ex.com/t/978514#reply0</link><description>&lt;p&gt;如题，现在有个需求，想在 iphone 上显示出来屏幕最大的可显示区域，并且用红色边框作为边界（边框宽度最好可调），不知道有没有现成的 app 可以实现？&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 15:07:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978514#reply0</guid></item><item><title>[全球工单系统] 网商银行账户被限制交易</title><link>https://www.v2ex.com/t/978510#reply3</link><description>&lt;p&gt;账户莫名其妙被限制，无法支付，无法提现。&lt;/p&gt;
-&lt;p&gt;联系客服，无法告知具体原因，反正就是存在交易风险的套话。&lt;/p&gt;
-&lt;p&gt;『感谢您的配合，目前帮您查询系统核实到当前账户交易存在风险，您的账户限制了部分功能，预估限制将于 2023-10-31 日 24 点前自动解除，辛苦您耐心等待系统自动解除限制之后再尝试正常使用您网商银行账户哦亲亲』&lt;/p&gt;
-&lt;p&gt;『出现这个问题的原因一般是，系统结合您账户近期的交易和使用行为综合判断可能存在风险隐患，例如账户有进行风险交易或涉及风险资金流通等情况，已停止您的部分账户功能』&lt;/p&gt;
-&lt;p&gt;『针对当下情况，请您放心，限制只是暂时的，辛苦您等待系统自动解除限制』&lt;/p&gt;
-&lt;p&gt;“限制只是暂时的”？直接限制一个月。。。
-人工申诉要等 10 月 7 日以后才能申请，限制账户的时候却不分是不是工作日。。。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:59:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978510#reply3</guid></item><item><title>[iOS] ios17 iPhone15PM 取步数 bug?还是我指令有问题?谢谢大家</title><link>https://www.v2ex.com/t/978509#reply0</link><description>&lt;h3&gt;想做个一键读取自己今天步数的快捷指令,但我发现取出来结果跟实际健康 app 里不一样,尝试网上找了几个成品指令发现取出来也都是有问题的,请问这是 ios17 的 bug 还是指令本身有问题?谢谢&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.helloimg.com/image/onuFH1" rel="nofollow"&gt;&lt;img alt="onuFH1.jpg" class="embedded_image" rel="noreferrer" src="https://www.helloimg.com/images/2023/10/01/onuFH1.md.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.helloimg.com/image/onuP7K" rel="nofollow"&gt;&lt;img alt="onuP7K.jpg" class="embedded_image" rel="noreferrer" src="https://www.helloimg.com/images/2023/10/01/onuP7K.md.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.helloimg.com/image/onu34o" rel="nofollow"&gt;&lt;img alt="onu34o.jpg" class="embedded_image" rel="noreferrer" src="https://www.helloimg.com/images/2023/10/01/onu34o.md.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:59:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978509#reply0</guid></item><item><title>[Apple] iOS 有快捷设置手动 ip 与 dns 的方式吗？</title><link>https://www.v2ex.com/t/978508#reply3</link><description>&lt;p&gt;家里有 mac mini 做旁路由，但是没开启自动 dhcp ，想请教下快捷命令能做到设置 ip 与 dns 或者有什么办法可让 iOS 设备在家里为手动配置的网关，出去又恢复自动？&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978508#reply3</guid></item><item><title>[旅行] 去了一趟青岛</title><link>https://www.v2ex.com/t/978507#reply4</link><description>&lt;p&gt;我一直戏称青岛是我的第二故乡，上学在青岛，对这里怀有特殊的感情。但是从毕业之后，一直没有机会回一趟青岛，到现在为止已经是 7 年了吧。人生如白马过隙，那些在青岛发生的点点滴滴如同昨日发生一样，回忆在脑海里，如梦如幻。&lt;/p&gt;
-&lt;h1&gt;不变的&lt;/h1&gt;
-&lt;h2&gt;卧铺车&lt;/h2&gt;
-&lt;p&gt;以前从上海坐车去青岛时，只有高铁，一张高铁票要 500 多，那时候觉得很贵很贵，舍不得坐，就找到了另外一种平替的方案，有一种卧铺车，从上海总站出发，下午 5 点出发，早上 7 点到达青岛。票价只有 200 ，性价比非常高。&lt;/p&gt;
-&lt;p&gt;那时候坐这种卧铺车，非常的不舒服，我背着一个很大的书包，没有地方放，只能放在很小很窄的床上，这让原本就很小的空间变得更加雪上加霜。车上坐的一般都是农民工，印象深刻的是有个来上海打工的小哥，在电子厂工作了一段时间，这时候正好回家，在车里吹嘘他在电子厂的见闻。说是在一个苹果代工厂里上班，好家伙，生产线上都是一台台的 iphone,看起来非常的精致，说等自己有钱了一定也要整一台用用。&lt;/p&gt;
-&lt;p&gt;那时间手机没那么普遍，我虽然用的智能机，但是空间不足，流量也不够用，在车上的漫长时光里，不舍得看视频，就在那听音频的节目，外面是漆黑的一片，我也不知道到了什么地方，凌晨一两点的车里，此起彼伏的传来了一阵阵的呼噜声，我感觉仿佛身处在一片汪洋的大海之中，而这辆大巴车就像是一叶扁舟，在随着波浪随处飘摇。我也不知道它要飘到哪里去，漫无目的。&lt;/p&gt;
-&lt;p&gt;这次我再坐上这趟车，惊喜的发现它依然在运行，前不久还听说这种车已经停止了生产，说是考虑安全的因素。不过我还是不能适应床的狭小，空间的狭小，还有车里的各种异味。但是这个车依旧是守时的，早上 6 点不到就到了青岛市中心那块，用睡觉的时间就到了目的地，就省了很多时间。&lt;/p&gt;
-&lt;h2&gt;啤酒博物馆&lt;/h2&gt;
-&lt;p&gt;我们去的第一站就是啤酒博物馆，这里是青岛啤酒 4 厂，以前来过好几次，这次再来依然是熟悉的感觉。这里分为 A 馆、B 馆。A 馆介绍了青岛啤酒的历史、崛起以及青岛啤酒的辉煌过往，B 馆类似一个生产车间，站在高高的观光走廊看到了青岛啤酒的全自动包装过程。当然，游览到最后，还有会附赠一杯纯生、一杯原浆和一袋啤酒豆。味道很浓郁，这个是在外面喝不到的。不过大早上炫啤酒，喝完有种晕晕的感觉。&lt;/p&gt;
-&lt;h2&gt;崂山&lt;/h2&gt;
-&lt;p&gt;上学的时候去过好几次的崂山，第一次去的时候被那种一边是大山，一边是大海的浪漫场景震惊到了，仿佛身处在香港电影里，从此这条海边马路一直深深的印在脑海里。&lt;/p&gt;
-&lt;p&gt;这次去的天气不太好，海面虽然很宽广，但是少了好天气的滤镜，一下子减分了不少。崂山是道教名山，也是海上名山第一。还是之前的几条路线，我们去的是仰口路线。崂山的服务很好，一路上的所有的景点都是大巴车接送，到了一个站点，你可以选择继续往前走，还是选择下山。到了站点，还有索道可以上山，可以说是非常轻松的一次爬山了。当然了，如果你想体验爬山，还有专门的徒步路线可以选择。&lt;/p&gt;
-&lt;p&gt;崂山背靠大海，气候变化比较明显，我们恰逢阴天，上山上到半山腰，一下子起了很大的雾，整个山体全都笼罩在迷雾之中，颇有点不识崂山真面目，只缘身在此山中的感觉。崂山的巨石也是一大特色，有很多大的石头横躺在半山腰。以前整个山体都是浸在海里，海平面下降后，整个山体也就显露出来。&lt;/p&gt;
-&lt;p&gt;下一站是明霞洞，我们坐了班车来到站点，又排了一个小时坐上了索道。到达索道终点站后，有一段石阶路要走。这段时间经常锻炼，所以在爬这些台阶丝毫没有吃力的地方。到了明霞洞，有一处院子，是道教的场所，明霞洞处于石壁之中，钻进去看了一下，洞不大，里面摆放着案台，案台上摆放着香火，有些人在那里叩拜祈福。&lt;/p&gt;
-&lt;h2&gt;学校后面的烧烤&lt;/h2&gt;
-&lt;p&gt;最让我心心念的美食当然是学校后面的烧烤了，前段时间淄博的烧烤火出圈了，其实我想说青岛的烧烤也很好吃。我们来到了学校后面的那条街，我有点泪目，还是以前熟悉的那些街道，山东路、南宁路、辽阳东路，只不过现在那个加油站已经废弃了，以前多少次走过这些个马路啊，和多少人走过这些个马路啊，发生了太多太多的事情，这些马路上有太多太多的回忆了。&lt;/p&gt;
-&lt;p&gt;南宁路上有一些变化，一些店倒闭了，另外有一些店依然还开着，开了很多很多年，比如说那个不知名的便利店还在，巧巧蒸饺还在，四季烧烤还在，沙县小吃还在，网吧也还在。我们去四季烧烤点了一大桌吃的，很便宜，100 多两个人已经吃撑了，味道是非常好的。特别好吃，就是烧烤常见的菜，比如牛肉、羊肉，不知道是什么加成原因，都很好吃。记得有一年，我湖北的同学过来，我带他们来这里吃烧烤，刚开始坐在外面他们有些嫌弃，说马路上有些灰，飘过来，吃起来不太干净。但是当烧烤上桌时，再也没有说了，被美味深深折服。&lt;/p&gt;
-&lt;p&gt;我去饺子园买了一些水饺。跟那个老板攀了一下关系，说 13 年在这里上学的时候就在你们家吃水饺了，现在你们家还在的，还是熟悉的味道，开了这么多年了。&lt;/p&gt;
-&lt;p&gt;这段时间街上没什么人，天气很好，凉爽，我的心有些沉重、美好。如果能一直生活在这里该多好啊。&lt;/p&gt;
-&lt;h1&gt;变化的&lt;/h1&gt;
-&lt;h2&gt;小麦岛&lt;/h2&gt;
-&lt;p&gt;小麦岛是崂山的一处小岛，我以前还没有去过，没想到现在成网红景点了。入口人非常的多，少男少女们，俊男美女们，纷涌而至。岛不大，但是四面环水，又是大片大片的草原，有些位置是绝佳的拍照地点，还有些驻场歌手在那里唱歌，赵雷，李健的歌居多，露天，吉他，音响，歌声传遍了一小片地方，每一个驻场歌手好像约定好了似的，谁也不影响谁，拍照很出片，但是没什么可玩性。&lt;/p&gt;
-&lt;h2&gt;台东&lt;/h2&gt;
-&lt;p&gt;晚上 7 点多，我们去了台东，青岛的路真是崎岖，就没有一条很直很直的马路，总是七弯八扭的。台东还是一如既往地的热闹，人山人海的真的是一点都不夸张。原来的地摊摆的更有规模了，形成了一条特色的美食街，侧着的招牌，是一道道闪亮的霓虹灯。比以前规模更大了，也多了很多不一样的美食。走了一圈又一圈，人贴着人，吃了几种不同的美食。&lt;/p&gt;
-&lt;h2&gt;机场&lt;/h2&gt;
-&lt;p&gt;现在流亭机场已经废弃了，机场改到了胶东。很远，但是我们在南宁路坐的的 2 号线，然后在辽阳东路又换了 4 号线，最后在青岛北站换的 8 号线。青岛的地铁真方便，去哪个景区都能坐地铁，连以前很远的青岛北站，胶州机场都能很快到，建设的真好。地铁上人不多，车厢数量比上海的地铁车厢数少，但是不过去哪个方向的都能找到位子。想想当年，不管去哪个地方，都是公交车出行，现在真的方便很多很多。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:47:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978507#reply4</guid></item><item><title>[C] 刚刚突然感受到了 C 语言指针的神奇之处</title><link>https://www.v2ex.com/t/978506#reply1</link><description>&lt;p&gt;以前大学学 C 的时候，只是说指针就是地址。&lt;/p&gt;
-&lt;p&gt;这么多年没再碰 C 语言，刚刚发现，其实指针除了是一个地址，应该还包含“如何去读取这个地址的值”这个东西？&lt;/p&gt;
-&lt;p&gt;同样的地址，赋值给 int 指针和 char 指针，读取来的东西肯定是不一样的，感觉很有意思。&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978506#reply1</guid></item><item><title>[问与答] 求问：自家网络 dns 解析不到的问题</title><link>https://www.v2ex.com/t/978505#reply4</link><description>&lt;p&gt;如题，狗爹申请的域名，
-家里旁路由是 istoreos 系统（ openwrt ），
-通过 ddns-go 已经设置好 ddns ，
-看 godaddy 的 dns 记录就是当前路由 wan 口 ip ，&lt;/p&gt;
-&lt;p&gt;可公网无法访问。。求解决方法&lt;/p&gt;
-&lt;p&gt;ps：之前可以访问，在今天换了主路由（ tp ）后无法访问了&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:40:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978505#reply4</guid></item><item><title>[问与答] 有入手了小米平板 6max 的同好吗？查一下 CPU 是台积电 or 三星出品的</title><link>https://www.v2ex.com/t/978503#reply5</link><description>过节入手小米平板 6max 。一切都好。安装完用的软件，犯了装机佬的毛病，查硬件。&lt;br /&gt;&lt;br /&gt;结果，小米应用市场上的 “设备信息-by 流舟”指示这款平板 CPU 的制造工艺：4nm 4LPE(Samsung)。这就是说 CPU 是三星产的。而不是在京东商城、小米商城所说的 "采用台积电先进 4nm 工艺... " ( &lt;a href="https://www.mi.com/xiaomi-pad-6-max" rel="nofollow noopener" target="_blank"&gt;https://www.mi.com/xiaomi-pad-6-max&lt;/a&gt;  &lt;a href="https://item.jd.com/100061423324.html" rel="nofollow noopener" target="_blank"&gt;https://item.jd.com/100061423324.html&lt;/a&gt; )&lt;br /&gt;&lt;br /&gt;买之前看过一篇文章说高通骁龙 8+ 只有三星出品。没有台积电的。后来看 6max 网页，写的是台积电。就不纠结了。&lt;br /&gt;&lt;br /&gt;用了一天，以上也就一小发现。也没有找客服的想法。&lt;br /&gt;&lt;br /&gt;小米官网（宣传是台积电）&lt;br /&gt;&lt;a href="https://i.imgur.com/YmmQiLV.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/YmmQiLV.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;检测信息（显示是三星 4nm 工艺）&lt;br /&gt;&lt;a href="https://i.imgur.com/NVn3kko.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NVn3kko.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;硬件检测 app 信息&lt;br /&gt;&lt;a href="https://i.imgur.com/eIVnlI9.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/eIVnlI9.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;最后，还有一种可能：这硬件检测 app 数据是错的。</description><pubDate>Sun, 01 Oct 2023 14:29:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978503#reply5</guid></item><item><title>[问与答] 铭凡 um790 pro 有内存和固态兼容性推荐吗</title><link>https://www.v2ex.com/t/978501#reply5</link><description>&lt;p&gt;打算搞一个，不知道大家都配了什么型号的内存和固态&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:15:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978501#reply5</guid></item><item><title>[OpenAI] 分享自制的一个 AI 聚合机器人平台，函 ChatGPT</title><link>https://www.v2ex.com/t/978500#reply0</link><description>&lt;h1&gt;前言：&lt;/h1&gt;
-&lt;h1&gt;入口（首页→工具箱→AI 机器人）： &lt;a href="https://maymay5.com" rel="nofollow"&gt;https://maymay5.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1&gt;直连： &lt;a href="https://maymay5.com/newchatgpt.html" rel="nofollow"&gt;https://maymay5.com/newchatgpt.html&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;站内有一些限制，请用户自适应后自行选择是否使用&lt;/p&gt;
-&lt;p&gt;1 、本站免费模型包括：GPT3.5 ，GPT3.5-16K ，DELL2 ，文心一言，通义千问，讯飞星火，FromSton 绘画，克劳德 100K&lt;/p&gt;
-&lt;p&gt;2 、本站付费模型包括：GPT4 ，GPT4-32K ，定价 0.3RMB/1k token ，单次最低充值 30RMB(几乎没人买，因为免费模型太够用了)，GPT4 使用我自己的 OpenAI 企业号直连，32K 使用转发&lt;/p&gt;
-&lt;p&gt;3 、支持插件：联网，思维导图，代码解释器(有点 low ，但是兼容语种多，不支持图像)&lt;/p&gt;
-&lt;p&gt;4 、支持自定义插件，（理论上，只要能用 javascript 或者第三方 api 实现的功能，都可以在本站自制插件）&lt;/p&gt;
-&lt;p&gt;5 、需要邮箱注册，且需要接收邮箱激活码，所以必须是真实邮箱（其他无）&lt;/p&gt;
-&lt;p&gt;6 、语音对话正在开发中（双端 APP ），本来要上线了，可惜 Safari 的录音 API 给了我一记背刺，现在正在重构录音库&lt;/p&gt;
-&lt;p&gt;o(╥﹏╥)o&lt;/p&gt;
-&lt;p&gt;下面是一些本站的截图：
-1：&lt;/p&gt;
-&lt;h1&gt;入口（首页→工具箱→AI 机器人）： &lt;a href="https://maymay5.com" rel="nofollow"&gt;https://maymay5.com&lt;/a&gt;&lt;/h1&gt;
-&lt;h1&gt;直连： &lt;a href="https://maymay5.com/newchatgpt.html" rel="nofollow"&gt;https://maymay5.com/newchatgpt.html&lt;/a&gt;&lt;/h1&gt;
-&lt;h1&gt;2:全貌&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="2a1fe479b71cfbc60d144c78155e5d7b.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/2a1fe479b71cfbc60d144c78155e5d7b.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;3：模型库&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="fb1287da688ad868d56b659076a1a7e6.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/fb1287da688ad868d56b659076a1a7e6.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;4：功能菜单&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="f7908ca926c0348e839ce602167ebec8.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/f7908ca926c0348e839ce602167ebec8.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;5：创意工坊（自定义插件）&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="e191b94a6c665840b06e5830d01dfa1d.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/e191b94a6c665840b06e5830d01dfa1d.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="275a879f96fb61a0b2adc4740263188d.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/275a879f96fb61a0b2adc4740263188d.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;6：绘画&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="3ea38cacd1da69d4b0275f55cd84b927.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/3ea38cacd1da69d4b0275f55cd84b927.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;7：绘画记录持久化存储（私有图库，不公开）&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="675df5aefdd657f02e5485208a6e0862.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/675df5aefdd657f02e5485208a6e0862.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;8：插件使用案例（使用视频采集 api ，实现全网电影电视剧搜索，并在线观看）&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="ec7c8dcbac60857603a1038af2df2ad8.png" class="embedded_image" rel="noreferrer" src="https://i.mji.rip/2023/10/01/ec7c8dcbac60857603a1038af2df2ad8.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;总结：&lt;/h1&gt;
-&lt;p&gt;本站除 GPT4 外，所有模型全免无次数限制，对接了大部分主流 AI Bot ，拥有专业绘画能力，支持自定义插件，虽然目前的自定义工作台还比较简陋，不过对于基础插件的开发还是完全够用了&lt;/p&gt;
-&lt;h1&gt;关于是否准备开源的问题：&lt;/h1&gt;
-&lt;p&gt;因为整个系统的雏形，只是我年初写的一个博客 demo ，后面慢慢加入的功能，代码臃肿，可读性也较差，我认为真的不适合成为一个开源项目，因为可学习和参考的地方确实很少，私有化部署起来也比较麻烦，当然，我正在慢慢优化代码，所以，一定会开源，但是好用或者说比较不难用的开源可能还要等几个月&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 14:14:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978500#reply0</guid></item><item><title>[旅行] 广州还真是一个神奇的地方</title><link>https://www.v2ex.com/t/978498#reply7</link><description>在越秀区逛了逛&lt;br /&gt;好不好玩不好说&lt;br /&gt;体验很神奇&lt;br /&gt;&lt;br /&gt;有钱人多&lt;br /&gt;没钱人也多&lt;br /&gt;看着不起眼其实有钱的也多&lt;br /&gt;&lt;br /&gt;高楼缝隙里 随处可见破旧房子&lt;br /&gt;步行街 灯火通明 一群群打扮时髦的妹子 白花花的大腿 应接不暇&lt;br /&gt;一墙之隔 就是昏暗狭窄的巷道&lt;br /&gt;老旧的居民楼 阳台还晒着衣服 梦回九十年代</description><pubDate>Sun, 01 Oct 2023 13:54:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978498#reply7</guid></item><item><title>[Apple] 关于 15 PM 拍照预览切换的问题</title><link>https://www.v2ex.com/t/978497#reply4</link><description>&lt;p&gt;前几天入手了 15 Pro Max 后尚未升级系统，新机状态就有“拍照-&amp;gt;预览-&amp;gt;拍照”过程偶发的相机界面直接黑屏情况。  &lt;/p&gt;
-&lt;p&gt;最近更新完系统，导完数据后发现在相机界面拍完照后立即点击左下角进入相册预览，然后再返回相机界面会有较长时间(感知明显)的模糊状态，才能显示镜头画面，&lt;strong&gt;尤其用 5X 模式拍摄后&lt;/strong&gt;。甚至有时切换回来后有概率界面一直保持模糊状态，切换镜头也是如此，重启相机才能解决。总结就是完成&lt;strong&gt;相机界面-&amp;gt;相册预览界面-&amp;gt;相机界面&lt;/strong&gt;切换后相机界面模糊问题。  &lt;/p&gt;
-&lt;p&gt;想问问大家有遇到这种情况吗，难道是因为计算摄影的缘故？&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 13:50:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978497#reply4</guid></item><item><title>[程序员] 程序员开房车旅居工作体验</title><link>https://www.v2ex.com/t/978496#reply5</link><description>&lt;p&gt;最近房车环游山东，主要目的就是测试下能否适应房车的生活，能适应就开始程序员环游中国行，最近感觉良好，比网上说的体验好多了
-0. 房车情况，五十铃 700P 轻卡底盘，长度 5.99 ，高度 3.3 米，C1 蓝本，小客车，节假日也是高速免费，自动挡，测拓打开后空间还不错&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;娃，娃安全座椅，我觉得房车最大的优势就是可以带五个月大的娃出行，他如果拉了可以随时给他洗屁股，闹了随时驻车喂他+睡觉，完全不怕堵车&lt;/li&gt;
-&lt;li&gt;驻车，可能是山东比较好客，我感觉哪里都可以驻车过夜，旅游景点，博物馆，烧烤城停车场，都可以过夜，还安全&lt;/li&gt;
-&lt;li&gt;用水，水管直接厕所补水+水袋够用，饮用水超市买大桶水，灰水箱不定期排驻车地草坪即可，黑水箱用降解剂倒公厕，也没啥异味&lt;/li&gt;
-&lt;li&gt;用电，车上 10 度电基本够用 2~3 天，行车发电+太阳能还不错，很多停车场都有充电桩，一个转接头解决，非常方便&lt;/li&gt;
-&lt;li&gt;睡觉，都是家里用的四件套，和睡家里区别不大，隔音也不错，很舒服&lt;/li&gt;
-&lt;li&gt;吃饭，小米电磁炉+电饭锅+卡式炉（便携气罐）+当地美食完全够用，吃的很舒服&lt;/li&gt;
-&lt;li&gt;办公，卡座写代码，华为移动 wifi+物联网卡完全够用，直播都不卡
-淄博，潍坊，烟台，威海，青岛，玩一圈回北京补充物资，继续出发
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/F7W3hfcbEAEwBhi?format=jpg&amp;amp;name=large" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/F7WRNS_bcAAVLL2?format=jpg&amp;amp;name=large" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/F7HhxHbbsAA0QMO?format=jpg&amp;amp;name=large" /&gt;&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 01 Oct 2023 13:37:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978496#reply5</guid></item><item><title>[生活] 高速上蹭了个奇葩的车！</title><link>https://www.v2ex.com/t/978495#reply13</link><description>&lt;p&gt;前几天在高速上变道的时候，蹭了辆车，然后打双闪到应急车道，我一下车就和后面的车主道歉，“实在不好意思，我的问题，我全责。”看了一下，问题不大，大概 2-3cm 的一个凹痕，连漆都没有掉，钣个金就行了。&lt;br /&gt;
-我说“反正不影响开，要不去前面服务区看看怎么解决吧，高速上车多，太危险”，对方同意，然后到了前方服务区。&lt;br /&gt;
-&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/01/lEDgq6x98PNefMu.png" /&gt; &lt;/p&gt;
-&lt;p&gt;到了服务区，我着急赶路，也不想耽误对方的时间，就说让对方评估一下费用，不是太多的话我就直接微信转给他。对方车主打了几个电话，然后各种检查，包括打开引擎盖检查里面、趴地上检查，然后和我说“我也不懂这个，给一个修车的叔打电话问了一下，说要四五千。”我笑了一下，没答话，对方说再打个电话问问，然后又打了个电话，说让我转两千给他，我说我报保险吧。&lt;br /&gt;
-第一次报，不熟悉流程，先找 4S 店问了保险电话，然后打保险电话，保险安排了一个理赔专员，再和这个理赔专员沟通，说高速事故要责任认定书，然后下高速去开认定书。到了高速交警服务站，交警出来看了一下，也找我们了解了一下情况，听到我说对方报 2,000 时，直接叫起来说“这哪里要两千？！找个熟人 20 块就搞定了！”交警现场也建议对方车主私了，说让我给点钱，并且提醒了对方车主，如果要走保险修，估计他车至少要放在 4S 店里 3 天，对方车主走开的时候，交警悄悄告诉我，给 2 3 百就行，最多 500 。对方车主离开几分钟（应该是的了个电话）后回来，还是坚持走保险，于是开了认定书，互加了微信，各回各家。我以为这事就这么过去了（那也不会有这篇帖子了）！  &lt;/p&gt;
-&lt;p&gt;结果，第二天对方车主给我发微信，说保险只负责修车的，问我能不能把额外费用给报一下，什么交通费啦误工费啦乱七八糟的，给我说了八九百，让我转 1,000 给他，我给他普了半天法，说法律上的责任我一点也不逃避，法律之外的我也没有义务承担；然后这哥们儿又让我“换位思考”，总之开始卖惨，价格也降到了 8 9 百，我告诉他“你有 2 次机会选择私了，第一次在服务区你恨不得让我给你换新车，第二次交警也各种提醒你了，但你仍然选择走保险”，总之告诉他我个人不可能给他什么“赔偿”的，并且告诉他非营运车辆不存在误工费的说法。&lt;br /&gt;
-然后，这哥们儿开始在微信上各种阴阳怪气，没完没了，我干脆微信拉黑了。这家伙仍然不死心，从微信变成短信了，除了阴阳怪气，甚至还在威胁我了，说什么“反正那么多钱花了，也不在乎多一箱油，我在原来的地方等你，这次开的车是全险的”……  &lt;/p&gt;
-&lt;p&gt;其实，到现在我也不知道他报的 2000 块私了，是想赚一笔，还是真的不知道，看那满身伤痕的车，也不像是没有维修经验的；他执意走保险，我也不知道他是真的不知道保险是没有额外赔偿的，还是早就想两边都吃了。在开认定书的时候，他指着新伤旧痕都说是我撞的，交警都看不过去了，说“你这都生锈了，人家怎么给你撞的？！”&lt;br /&gt;
-总之，交通事故里没有受益者，希望大家出行平安！&lt;/p&gt;</description><pubDate>Sun, 01 Oct 2023 13:22:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978495#reply13</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 02 Oct 2023 15:22:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iOS] 请教一个苹果快捷指令获取图片位置文本信息的问题</title><link>https://www.v2ex.com/t/978639#reply0</link><description>&lt;p&gt;由于最近出来旅游，用手机拍了一些照片，为了发朋友圈，我想在图片上加上位置和时间的水印&lt;/p&gt;
+&lt;p&gt;时间的水印读取 EXIF 的值就可以了，但是位置信息在 Exif 里面是坐标，只能通过从图片中获取的方法获取位置变量&lt;/p&gt;
+&lt;p&gt;目前的问题是，这个位置变量可以获取到，也能显示，但是我不知道如何将这个位置变量转换成文本，转的时候总会报错&lt;/p&gt;
+&lt;p&gt;不知道有什么方法或者有什么现成的快捷指令用没？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://i.postimg.cc/x86bkRdc/IMG-9991.png" rel="nofollow"&gt;https://i.postimg.cc/x86bkRdc/IMG-9991.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://i.postimg.cc/sD2hktnS/IMG-9992.png" rel="nofollow"&gt;https://i.postimg.cc/sD2hktnS/IMG-9992.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 15:10:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978639#reply0</guid></item><item><title>[macOS] MacOS 开 IPv6 全局代理， iMessage 发送失败， Surge Dashboard 也没有检测到这次信息的发送</title><link>https://www.v2ex.com/t/978637#reply0</link><description>同时，通过 Surge Dashboard 我还发现，telegram 每秒中都会发送一次请求</description><pubDate>Mon, 02 Oct 2023 14:59:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978637#reply0</guid></item><item><title>[全球工单系统] 吐槽一下 TP Link</title><link>https://www.v2ex.com/t/978636#reply2</link><description>&lt;p&gt;刚把国内带过来的 TP Link 路由器挂在新加坡的二手平台是卖出了
+买家问我是否有英文版的后台语言，我也没多想就说应该有&lt;/p&gt;
+&lt;p&gt;刚跟客服确认了一下，竟然只有中文&lt;/p&gt;
+&lt;p&gt;你们 TP Link 在国外也有销售，出个语言切换的功能有那么难吗？
+中国境内销售难道就只卖给懂中文的人？外国人不懂中文不配在中国生活吗？&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 14:51:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978636#reply2</guid></item><item><title>[Surge] surge ios 差两人 加 tg 一个位置 120</title><link>https://www.v2ex.com/t/978635#reply0</link><description>&lt;p&gt;「 Surge for iOS 」差 2 个位置，一个位置 CNY120 ，订阅更新至 2024.9.29 日(有效)，有新功能协商，愿意就继续订阅，跳车不退，tg: @&lt;a href="https://www.v2ex.com/member/agx5chen"&gt;agx5chen&lt;/a&gt;
+换设备可自行反激活&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 14:44:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978635#reply0</guid></item><item><title>[程序员] 请教一个 WebDAV 的文件显示不全的问题</title><link>https://www.v2ex.com/t/978634#reply1</link><description>自己家里的 ubuntu22.04 主机，使用 apache2 开的 webDAV 功能（参考的 &lt;a href="https://www.jianshu.com/p/17da6608dc74" rel="nofollow noopener" target="_blank"&gt;https://www.jianshu.com/p/17da6608dc74&lt;/a&gt; 篇文章）&lt;br /&gt;apache 配置如下&lt;br /&gt;&lt;a href="https://i.imgur.com/DY0482C.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DY0482C.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;用户根目录如下&lt;br /&gt;&lt;a href="https://i.imgur.com/dWB85f1.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/dWB85f1.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前通过 Raidrive 挂载 webdav 磁盘在 windows 电脑上&lt;br /&gt;&lt;a href="https://i.imgur.com/GwLfkOa.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GwLfkOa.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但是，RAID5 这个文件夹内部的文件夹和文件都看不到，其他文件夹没有异常，如下图：&lt;br /&gt;&lt;a href="https://i.imgur.com/TwztSxP.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TwztSxP.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;RAID5 这个文件夹挂载的是最近才增加的磁盘阵列 8T*3 raid5 ，考虑过是用户权限的问题，已经将整个文件夹权限修改为 777 ，不知道有没有清楚这个问题的老哥指点一二。</description><pubDate>Mon, 02 Oct 2023 14:27:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978634#reply1</guid></item><item><title>[杭州] 杭州怎么租到毛坯房啊</title><link>https://www.v2ex.com/t/978632#reply0</link><description></description><pubDate>Mon, 02 Oct 2023 14:15:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978632#reply0</guid></item><item><title>[职场话题] XX 省高速集团下属子公司的岗位有兄弟了解吗</title><link>https://www.v2ex.com/t/978631#reply2</link><description>&lt;p&gt;在网上看到一处招聘，有点兴趣，想试试，但是不清楚如果进去之后&lt;/p&gt;
+&lt;p&gt;里面是啥情况，就是普通的国企情况吗？加班、办公室政治严重吗？&lt;/p&gt;
+&lt;p&gt;想回山东老家了，年龄大了孩子也小，不想加班。有懂行的朋友麻烦说说，谢谢了。&lt;/p&gt;
+&lt;p&gt;附 jd： &lt;a href="http://zhaopin.sdhsg.com/#/jobInfo?jobid=22151" rel="nofollow"&gt;http://zhaopin.sdhsg.com/#/jobInfo?jobid=22151&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 13:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978631#reply2</guid></item><item><title>[问与答] 阿里云盘看着不错，但是怎么校验文件的完整性呢</title><link>https://www.v2ex.com/t/978630#reply2</link><description>&lt;p&gt;网上有一些软件（如 alist ）可以把阿里云盘挂载到本地，不管是放资料还是备份数据看起来都不错。&lt;/p&gt;
+&lt;p&gt;但是问题来了，数据通过 alist 的 webdav 上传到阿里云盘，我应该怎么校验文件的完整性？
+似乎没有 md5sum 或 sha1sum 的功能，alist 似乎也没有校验服务器返回的 sha1 （ &lt;a href="https://github.com/alist-org/alist/blob/9ff83a795008d4a3aaaaf0b904087a868b462a84/drivers/aliyundrive_open/upload.go" rel="nofollow"&gt;https://github.com/alist-org/alist/blob/9ff83a795008d4a3aaaaf0b904087a868b462a84/drivers/aliyundrive_open/upload.go&lt;/a&gt; ）&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 13:28:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978630#reply2</guid></item><item><title>[宽带症候群] [分享]-amtm asuswrt-merlin 下的交互式第三方脚本管理器</title><link>https://www.v2ex.com/t/978629#reply0</link><description>&lt;p&gt;之前打算给家里的刷了梅林固件的 LinkSys EA6700 装上一个包管理器 机子的型号是 &lt;em&gt;&lt;strong&gt;RT-AC66U B1&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/02/sP3rUD5cfB9HdlX.png" /&gt;&lt;/p&gt;
+&lt;p&gt;但是并不清楚 asuswrt-merlin 的包管理器基于什么系统 直到从 &lt;a href="http://asuswrt-merlin.ng" rel="nofollow"&gt;asuswrt-merlin.ng&lt;/a&gt; 的一篇&lt;a href="https://github.com/RMerl/asuswrt-merlin.ng/wiki/Entware" rel="nofollow"&gt;Wiki&lt;/a&gt;上发现端倪	&lt;/p&gt;
+&lt;p&gt;系统内核中其实有集成 amtm&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/02/HGwJqPuCMOzNeYg.png" /&gt; &lt;/p&gt;
+&lt;p&gt;这样就可以直接借助&lt;a href="https://github.com/decoderman/amtm" rel="nofollow"&gt;amtm&lt;/a&gt;来直接下载对应的 entware&lt;/p&gt;
+&lt;p&gt;实际上 AMTM 主要是用 shell 脚本去做自动化安装的 而且 entware 可以用&lt;a href="https://mirrors.bfsu.edu.cn/" rel="nofollow"&gt;BFSU&lt;/a&gt;的源&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/02/7MOtUr6NF4LqyxW.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 13:18:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978629#reply0</guid></item><item><title>[问与答] 寻找本地视频管理软件（成人向）</title><link>https://www.v2ex.com/t/978627#reply1</link><description>&lt;p&gt;plex 跟 emby 之类的更为影片向，存放大姐姐略显无力，之前也刷到过 git 上 emby 成人向插件，但主要针对的是正规军。
+个人更偏向于素人这一挂，所以往往找不到什么对应的视频封面介绍之类的。遂放弃。
+目前主要是在 win 电脑上浏览，有几个诉求
+1.文件夹功能，可以文件夹为一部片子（多集数情况）
+2.给每个本地视频打分，通过分数筛选片子
+3.给视频打标签，可以通过筛选对应标签搜索对应片子
+4.有视频预览功能（类似于 pot 那种视频片段截图？）
+5.本地视频上锁或权限功能（可以是防君子不防小人那种，主要正大光明放盘里总有点担心）&lt;/p&gt;
+&lt;p&gt;目前有刷到有老哥推荐过 &lt;a href="http://videohubapp.com" rel="nofollow"&gt;videohubapp.com&lt;/a&gt; ，收费项目 5 刀
+这个软件是能满足我上诉的大部分诉求，但这个软件有些操作略反人类（ 115 那种标签筛选其实更舒服）&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 13:15:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978627#reply1</guid></item><item><title>[程序员] 请教下搞硬件的大佬，想魔改下 MP4 播放器</title><link>https://www.v2ex.com/t/978625#reply5</link><description>&lt;p&gt;前段时间买的 mp4 播放器，有个换壁纸的功能，按一下换一张内置的。&lt;br /&gt;
+有没有办法自定义下壁纸（不懂这方面内容）&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/crMhrmZ.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 12:58:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978625#reply5</guid></item><item><title>[问与答] iPhone 与安卓手机双持有什么打通的方案吗</title><link>https://www.v2ex.com/t/978624#reply13</link><description>&lt;p&gt;最近打算入手一台安卓手机进行双持，但是两台手机不免会有数据洒落在两边得问题，比如在 A 机上得聊天软件想发一张照片，结果是 B 手机拍的，或者在 A 手机上淘宝帮别人买东西，地址在拎一个手机上发过来。&lt;/p&gt;
+&lt;p&gt;不知道安卓和 iOS 有没有一种能共享剪贴板，或者快速发送文件的方案。&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 12:41:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978624#reply13</guid></item><item><title>[智能家电] 空调伴侣功率超了要怎么办啊？</title><link>https://www.v2ex.com/t/978622#reply8</link><description>&lt;p&gt;家人们，有一个棘手的问题，我家用 Aqara 空调伴侣 P3 ，空调经常没有电，问了客服，P3 最大支持功率 4000W ，而我的空调的功率是&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;制冷量&lt;/td&gt;
+&lt;td&gt;3500(200-5300)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;额定制冷&lt;/td&gt;
+&lt;td&gt;810(90-1650)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;制热量&lt;/td&gt;
+&lt;td&gt;5100(200-6800)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;额定制热&lt;/td&gt;
+&lt;td&gt;1250(80-2000)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;不太看得懂空调的参数，但是感觉就是超了，现在有什么好的办法可以解决这个问题吗？&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 12:33:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978622#reply8</guid></item><item><title>[Android] Android 有自定义 ViewGroup 的新书或老书推荐吗？</title><link>https://www.v2ex.com/t/978621#reply7</link><description></description><pubDate>Mon, 02 Oct 2023 12:31:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978621#reply7</guid></item><item><title>[问与答] 请问国服无畏契约一直加载中是怎么回事呀？</title><link>https://www.v2ex.com/t/978620#reply0</link><description>显卡驱动：最新版，检查多次。&lt;br /&gt;依赖：从无畏契约国服官网下载过，检查多次。&lt;br /&gt;文件夹权限：wegame 和无畏契约都给了 user 完全控制权。&lt;br /&gt;防火墙和安全软件：安装和启动游戏时均未启动。&lt;br /&gt;游戏是否修复过：我使用 wegame 的修复程序修复过很多次，并为起效。&lt;br /&gt;是否有询问客服：已经询问过客服，客服让我关闭安全软件和防火墙，以及设置文件夹权限，都尝试操作过了，没有起作用，客服回复完一次消息就直接中断服务了，目前第二次联系仍未回复。&lt;br /&gt;问题截图：&lt;br /&gt;&lt;a href="http://tg.owo233.eu.org:8080/200/photo-2023-10-02_20-29-38.jpg?hash=920b4b" rel="nofollow noopener" target="_blank"&gt;http://tg.owo233.eu.org:8080/200/photo-2023-10-02_20-29-38.jpg?hash=920b4b&lt;/a&gt;&lt;br /&gt;&lt;a href="http://tg.owo233.eu.org:8080/201/photo-2023-10-02_20-30-13.jpg?hash=129f80" rel="nofollow noopener" target="_blank"&gt;http://tg.owo233.eu.org:8080/201/photo-2023-10-02_20-30-13.jpg?hash=129f80&lt;/a&gt;&lt;br /&gt;访问启动器的咨询等栏的时候显示网络错误：&lt;br /&gt;&lt;a href="http://tg.owo233.eu.org:8080/202/photo-2023-10-02_20-30-27.jpg?hash=e899af" rel="nofollow noopener" target="_blank"&gt;http://tg.owo233.eu.org:8080/202/photo-2023-10-02_20-30-27.jpg?hash=e899af&lt;/a&gt;</description><pubDate>Mon, 02 Oct 2023 12:30:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978620#reply0</guid></item><item><title>[问与答] 请教几个 df 命令、文件系统问题（安卓/ Linux ）？</title><link>https://www.v2ex.com/t/978618#reply5</link><description>这是我安卓手机上的 adb shell 输出的一部分&lt;br /&gt;:/ $ df -h&lt;br /&gt;Filesystem       Size  Used Avail Use% Mounted on&lt;br /&gt;/dev/root        4.7G  3.7G  916M  81% /（为什么子目录挂载到父目录上）&lt;br /&gt;tmpfs            3.7G  1.1M  3.7G   1% /dev&lt;br /&gt;/dev/block/sda13 108G  104G  3.6G  97% /data&lt;br /&gt;/data/media      107G  104G  3.4G  97% /storage/emulated （上边有个/data 了，这里为什么又有一个/data/meida 。108G+107G&amp;gt;我手机就 128G?）</description><pubDate>Mon, 02 Oct 2023 12:07:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978618#reply5</guid></item><item><title>[旅行] 说说我环游中国的经历</title><link>https://www.v2ex.com/t/978617#reply4</link><description>&lt;p&gt;9 月 11 号出发，出来 22 天，途径长沙 武汉 黄山 杭州 上海 南京 青岛 乳山，一个人出行并没有想象中的那么放松和开心，风景确实不错，和不同的人也有交流，骑摩环游的、大学教授、退役老兵等等，旅途有各式各样的人，但转眼就离开重回一个人的孤独，总体旅途开销不大，除了高铁票外，酒店和吃的每天在两百以内，22 天开销 7100 块。&lt;/p&gt;
+&lt;p&gt;最大烦恼反倒是我爸要我赶快回去上班，见不得人闲下来，骂我跟不上人，这话说的我心累。&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 11:59:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978617#reply4</guid></item><item><title>[问与答] 机械专业毕业的专科生现在找什么工作？</title><link>https://www.v2ex.com/t/978614#reply3</link><description>&lt;p&gt;有机械专业转过来的大哥么？老弟机械专业专科毕业能做啥？咨询了研究生同学，同学去了研究所，说现在纯做机械不行，一般要和自动化搭点关系，常去的企业就如车企这种。&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 11:46:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978614#reply3</guid></item><item><title>[Apple] 骑摩托车摔坏手机 AC 拒保要消费者北京和上海法院起诉苹果北京苹果上海和上海亚美才给维修</title><link>https://www.v2ex.com/t/978613#reply7</link><description>&lt;p&gt;&lt;a href="https://www.icloud.com/sharedalbum/zh-cn/#B15GdPblXHBGWWR%3B1EFBC392-15DF-4421-916F-DA70B205064E" rel="nofollow"&gt;https://www.icloud.com/sharedalbum/zh-cn/#B15GdPblXHBGWWR;1EFBC392-15DF-4421-916F-DA70B205064E&lt;/a&gt;
+法院文书判决&lt;/p&gt;</description><pubDate>Mon, 02 Oct 2023 11:24:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978613#reply7</guid></item><item><title>[问与答] Google Translate 照片翻译提示需要更新</title><link>https://www.v2ex.com/t/978611#reply2</link><description>Google Translate 照片翻译提示:&lt;br /&gt;需要更新&lt;br /&gt;请安装最新的 Google 应用，以便使用相机翻译功能&lt;br /&gt;但点完安装，就转到了 Oppo 应用商店，一片空白。&lt;br /&gt;不知到底缺的是哪个软件？系统 ColorOs 13.1</description><pubDate>Mon, 02 Oct 2023 11:07:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978611#reply2</guid></item></channel></rss>
