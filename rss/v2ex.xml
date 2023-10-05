@@ -1,47 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 04 Oct 2023 11:43:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 预算 5k~6k，有什么游戏本推荐吗？</title><link>https://www.v2ex.com/t/978922#reply0</link><description>妹妹刚上大学，视觉传达专业，让问了下学长学姐，之后需要剪视频，做 3D 建模。&lt;br /&gt;感觉如果经常渲染东西，游戏本应该会好一些。&lt;br /&gt;想请教下大大们，5k~6k 价位段内，有什么比较好的游戏本推荐吗？</description><pubDate>Wed, 04 Oct 2023 11:33:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978922#reply0</guid></item><item><title>[问与答] 求 v 友推荐部 5-6k 左右的笔记本</title><link>https://www.v2ex.com/t/978921#reply0</link><description>&lt;p&gt;大学学的设计专业，据说会用到一些设计软件，老师推荐带独显和 i7 及以上处理器带 H 的。由于不太懂电脑和预算有限，看了几圈下来没看到合适的。希望能用个四五年，内存稍大点，起码用起来不会明显的卡顿，性价比稍高点，重量能轻点更好。。。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 11:30:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978921#reply0</guid></item><item><title>[macOS] 升级 Sonoma 之后，重启电脑显示器无法唤醒（需要重新拔插）</title><link>https://www.v2ex.com/t/978919#reply0</link><description></description><pubDate>Wed, 04 Oct 2023 11:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978919#reply0</guid></item><item><title>[问与答] langchain 是一头被过度设计的野兽——留守老人在家看了一天源码的心得</title><link>https://www.v2ex.com/t/978918#reply0</link><description>&lt;p&gt;那层层叠叠的抽象真的有价值么？我很疑惑。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 11:00:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978918#reply0</guid></item><item><title>[Android] QQ 自带的图片浏览器发送原图之后接收保存下来的图片会有 EXIF 信息</title><link>https://www.v2ex.com/t/978917#reply5</link><description>在用 QQ 自带的图片浏览器发送原图之后接收保存下来的图片会有 EXIF 信息，有人可以试试是都这样吗~</description><pubDate>Wed, 04 Oct 2023 10:35:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978917#reply5</guid></item><item><title>[程序员] 之前的那个 ai agent 小镇，有支持开源模型跑的版本了吗</title><link>https://www.v2ex.com/t/978914#reply0</link><description>&lt;p&gt;就是之前那个 25 个 agent 的 llm 小镇
-现在有支持开源模型，比如支持底层用 llamma.cpp 而非 gpt-4 的实现了吗？&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 10:16:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978914#reply0</guid></item><item><title>[程序员] 生产中， rabbitmq 一般用哪种模式</title><link>https://www.v2ex.com/t/978913#reply1</link><description></description><pubDate>Wed, 04 Oct 2023 10:04:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978913#reply1</guid></item><item><title>[Android] 国内的手机加装谷歌框架后似乎会被杀后台？还是框架功能就不完整？</title><link>https://www.v2ex.com/t/978912#reply3</link><description>&lt;p&gt;给老婆买的 realme 国内版， 自带谷歌服务但需要在选项里打开，并且各个 app 也需要自己安装，后来发现个问题，咱俩互相给对方开了谷歌地图的查看对方实时位置，但是这台手机只有在打开地图 app 的情况下才会更新位置。我试了锁定后台，不限制后台等系统上的设定，没有太大的作用
-有人知道是怎么回事吗&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978912#reply3</guid></item><item><title>[Apple] 土区 iCloud 存储空间 2T 5 人车 还差一个人发车</title><link>https://www.v2ex.com/t/978911#reply0</link><description>&lt;p&gt;Apple 土区 iCloud 2TB 5 人车， 目前还差 1 人， 每人 400g 可用空间， 季付 25 最好长期，联系我 V:c3Vkb3Jvb3Rsb2dpbg==&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:41:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978911#reply0</guid></item><item><title>[问与答] 为了 chatgpt 的语音功能，切到 ios 美区，结果还是没能收到推送。。。</title><link>https://www.v2ex.com/t/978909#reply2</link><description>&lt;p&gt;为了 chatgpt 的语音功能，本来在加区，看网上基本上全是美区的号才能开启。果断办了一张外币卡，切到 ios 美区，结果还是没能收到推送。。。真崩溃。。。他这个灰度测试真的离谱。按道理我 plus 会员也开了 4 个月了。而且我使用频率非常高。除去 plus 的 20 刀月费，api 每个月也有几十刀的消费。但是偏偏就收不到 beta 功能。真的很烦。&lt;/p&gt;
-&lt;p&gt;现在基本上是无解。只能等 2 周。从 25 号开始算就是。这个月的 10 日左右才可能开启。。。还不知道这个时间会不会延迟。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:21:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978909#reply2</guid></item><item><title>[程序员] 上亿数据，如何完成快速检索</title><link>https://www.v2ex.com/t/978908#reply5</link><description>&lt;p&gt;针对上亿数据，根据其中一个字段或两字字段进行搜索模糊查询，一般使用什么中间件或者搜索方法？
-不拘泥于言，不拘泥于框架，请大神各抒己见。当然 php 、java 这种常见的语言，参考意义比较大，谢谢&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:16:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978908#reply5</guid></item><item><title>[Chrome] chrome 关闭侧边栏搜索功能？</title><link>https://www.v2ex.com/t/978906#reply1</link><description>&lt;p&gt;1.chrome 复制内容鼠标右键有个使用 google 搜索（新）功能挺烦人的，因为它是在侧边栏搜索的，个人感觉不好用。&lt;/p&gt;
-&lt;p&gt;2.V2EX 搜了下怎么关闭侧边栏都是“chrome://flags/”关闭“Side Panel”项，搜了下我的 chrome 没有，但有很多相关项，感觉不太靠谱，看到有位兄弟评论说搜“CSC”项然后关闭重启就可以了，试了确实好用，侧边栏里没 Google 搜索了，鼠标右键 google 搜索（新）也没有了。&lt;/p&gt;
-&lt;p&gt;3.但好奇心随之而来这个“CSC”到底是做什么的？看介绍实在不多，还望知道的兄弟告知一二，十分感谢。&lt;/p&gt;
-&lt;p&gt;CSC&lt;/p&gt;
-&lt;p&gt;– Mac, Windows, Linux, ChromeOS, Fuchsia, Lacros&lt;/p&gt;
-&lt;p&gt;#csc&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:09:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978906#reply1</guid></item><item><title>[程序员] 有个朋友想帮问一下， 36 岁差不多要被优化的人，是 PHP 自己写项目企业，还是学习 Python 找上班呢？</title><link>https://www.v2ex.com/t/978905#reply13</link><description>&lt;p&gt;标题党，实际那个朋友就是我自己了，36 岁了。跟开发语言无关，就是选择创业还是继续上班的问题。&lt;/p&gt;
-&lt;p&gt;详细情况是这样的，我们是分公司，现在整个软件部门剩下 1 个人（就是我），整个分公司加上经理总只剩下 5 人。前段时间短视频部门全部人员解散，预计我这个所谓软件部门也差不多了。&lt;/p&gt;
-&lt;p&gt;在这个年龄和今年这个行情，再加上本地招聘程序员的企业很少（潮汕某个地区），很难。&lt;/p&gt;
-&lt;p&gt;之前有自己写项目来运营的想法和经验，14 年的时候，为小工厂定制写 ERP 软件（小型的），搞了两年，五个 ERP 项目，剩下都是其它类型的外包（比如微信小程序）。收入不稳定，后来就去上班了。&lt;/p&gt;
-&lt;p&gt;如果继续上班的话，原本 PHP 也好，学习 Python 也好，或者 Goland 也好，都行。虽然我不抗拒学习新语言，只是这个年龄在这个小城市找工作有点难，自身又没有任何亮点。&lt;/p&gt;
-&lt;p&gt;放假这段时间，想得有点多，反而越想越迷茫。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 09:07:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978905#reply13</guid></item><item><title>[iPhone] iPhone 15 防摔壳推荐</title><link>https://www.v2ex.com/t/978903#reply7</link><description>AC+和万年裸奔的老哥就不必特意评论了，只想讨论防摔壳&lt;br /&gt;有老哥推荐防摔壳吗？&lt;br /&gt;纠结犀牛盾和 UAG ，有没有老哥说说体验？或者推荐下别的防护力好的壳？&lt;br /&gt;曾经买的官方的液态硅胶，从 0.5 米摔了一次，屏幕直接给我干裂了。。。&lt;br /&gt;看了下这个老哥的防摔测试： &lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;测试结果如下：&lt;br /&gt;-----------------------------&lt;br /&gt;Pitaka, MagEZ Case Pro, FAILED&lt;br /&gt;Phone Rebel, REBEL Series Gen-3, PASSED&lt;br /&gt;MOUS, Limitless 4.0, FAILED&lt;br /&gt;Casetify, Bounce, PASSED BUT UNRESPONSIVE&lt;br /&gt;dbrand, Grip Case, PASSED BUT BENT&lt;br /&gt;RhinoShield, SolidSuit, PASSED BUT BENT&lt;br /&gt;Phone Rebel, FLEX Series, PASSED&lt;br /&gt;Apple, Clear Case, FAILED&lt;br /&gt;Otterbox, Commuter, FAILED&lt;br /&gt;Speck, Presidio2 Grip, PASSED&lt;br /&gt;LifeProof, NEXT, PASSED&lt;br /&gt;Pelican, Shield Kevlar, PASSED&lt;br /&gt;UAG, Monarch Series, FAILED&lt;br /&gt;Phone Rebel, Frosted Series Gen-3, PASSED&lt;br /&gt;Phone Rebel, FLEX Series, PASSED BUT UNRESPONSIVE&lt;br /&gt;-----------------------------&lt;br /&gt;犀牛盾测试结果还是，但是犀牛盾在台湾 ptt 论坛风评很差&lt;br /&gt;想知道老哥们都用什么防摔壳？</description><pubDate>Wed, 04 Oct 2023 08:56:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978903#reply7</guid></item><item><title>[西安] 西安的老哥们，有没有推荐的口腔医院或者诊所</title><link>https://www.v2ex.com/t/978900#reply5</link><description>&lt;p&gt;听说第四军医大学口腔医院看牙不错，但是在新城区，有点远，估计大医院人也多。
-想找一个人相对没那么多，能刷医保的医院或者口腔诊所，求推荐&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 08:16:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978900#reply5</guid></item><item><title>[酷工作] [拼多多] 海外 temu 招后端</title><link>https://www.v2ex.com/t/978899#reply12</link><description>&lt;p&gt;[拼多多] 海外 temu 招人
-缺 JAVA 后端！！！ 不是 HR ，团队内部直接内推。业务上升期，发展空间大。&lt;/p&gt;
-&lt;p&gt;岗位职责：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 05 Oct 2023 10:30:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 写了个在线时间计时器</title><link>https://www.v2ex.com/t/979067#reply0</link><description>&lt;p&gt;欢迎访问我们的 &lt;a href="https://minutetimer.online/" rel="nofollow"&gt;minutetimer.online&lt;/a&gt; 网站！无论您是在倒计时参加特别活动、管理工作会议，还是只是跟踪时间，我们的用户友好平台都能为您提供服务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要功能：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;可自定义计时器：&lt;/strong&gt;创建适合您需求的计时器。您可以将计时器设置为分钟、秒甚至小时，并根据需要对其进行自定义。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;启动、暂停和重置：&lt;/strong&gt;只需点击一个按钮，即可轻松启动、暂停并重置计时器。毫不费力地追踪时间。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;倒计时提醒：&lt;/strong&gt;当您的计时器为零时，我们的网站会提醒您。通过视觉效果获得通知，如果需要，还可以通过愉快的音频信号获得通知。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;编辑并保存：&lt;/strong&gt;出现错误或需要调整计时器？没问题！编辑计时器并立即保存更改。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;使用案例：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;工作效率：&lt;/strong&gt;通过我们的计时器将您的任务分解为可管理的时间块，提高您的工作效率。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;健身：&lt;/strong&gt;安排你的锻炼和休息时间，以优化你的健身计划。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;烹饪：&lt;/strong&gt;通过为食谱设置计时器来完善你的烹饪技能。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;学习：&lt;/strong&gt;通过设置学习和休息时间的计时器，在学习期间保持专注。&lt;/p&gt;
+&lt;p&gt;-&lt;strong&gt;活动：&lt;/strong&gt;生日、婚礼和节假日等特殊场合倒计时。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现在开始：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;入门很容易！无论您需要&lt;a href="https://minutetimer.online/7minutetimer.html" rel="nofollow"&gt;7 minute timer&lt;/a&gt;休息、&lt;a href="https://minutetimer.online/11minutetimer.html" rel="nofollow"&gt;11 minute timer&lt;/a&gt;会话，还是&lt;a href="https://minutetimer.online/13minutetimer.html" rel="nofollow"&gt;13 minute timer&lt;/a&gt;的精确定时器，我们都能为您提供服务。&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 10:28:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979067#reply0</guid></item><item><title>[C] int 型返回值所能表达的内容极限</title><link>https://www.v2ex.com/t/979065#reply0</link><description>&lt;p&gt;以前开发的时候经常遇到对外暴露的函数需要提供一些返回值，来表达函数是否出错。&lt;/p&gt;
+&lt;p&gt;但有时候一个函数可能出现多种错误，所以单纯返回-1 也无法满足需要。有些人的处理方式是增加一个 errno 来标记错误。&lt;/p&gt;
+&lt;p&gt;但个人感觉还是有些麻烦，而且需要考虑多线程问题。&lt;/p&gt;
+&lt;p&gt;所以实现了这样一个返回值管理的组件放到了 Melon 库中。&lt;/p&gt;
+&lt;p&gt;先给出一个例子，大家看看效果吧。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-c"&gt;#include "mln_error.h"
+
+#define OK    0
+#define NMEM  1
+
+int main(void)
+{
+    char msg[1024];
+    mln_string_t files[] = {
+        mln_string("a.c"),
+    };
+    mln_string_t errs[] = {
+        mln_string("Success"),
+        mln_string("No memory"),
+    };
+    mln_error_init(files, errs, sizeof(files)/sizeof(mln_string_t), sizeof(errs)/sizeof(mln_string_t));
+    printf("%x %d [%s]\n", RET(OK), CODE(RET(OK)), mln_error_string(RET(OK), msg, sizeof(msg)));
+    printf("%x %d [%s]\n", RET(NMEM), CODE(RET(NMEM)), mln_error_string(RET(NMEM), msg, sizeof(msg)));
+    printf("%x %d [%s]\n", RET(2), CODE(RET(2)), mln_error_string(RET(2), msg, sizeof(msg)));
+    printf("%x %d [%s]\n", RET(0xff), CODE(RET(0xff)), mln_error_string(RET(0xff), msg, sizeof(msg)));
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个程序的执行结果如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;0 0 [Success]
+ffffedff 1 [a.c:18:No memory]
+ffffec01 255 [a.c:19:Unknown Code]
+ffffeb01 255 [a.c:20:Unknown Code]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以看到，通过一个 int 值，我可以获取到错误码、文件、行号甚至是错误码对应的描述。&lt;/p&gt;
+&lt;p&gt;当然这些内容需要在返回值管理组件初始化的时候给出。&lt;/p&gt;
+&lt;p&gt;这样，每一份代码的每一个使用&lt;code&gt;RET&lt;/code&gt;生成的错误码将是全项目中独一无二的一个负整数。只要有了这个负整数，同时知道了代码的版本，就可以轻松获取到错误的位置和错误内容。&lt;/p&gt;
+&lt;p&gt;感兴趣的可以看一下&lt;a href="http://doc.melonc.io/en/error.html" rel="nofollow"&gt;Melon 的官方文档&lt;/a&gt;了解详情。&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 10:20:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979065#reply0</guid></item><item><title>[分享发现] .xyz 和.io 哪个后缀比较好？</title><link>https://www.v2ex.com/t/979064#reply1</link><description>.com 买不起，.cn 在国外不受欢迎。&lt;a href="http://新兴域名好像就.io" rel="nofollow noopener" target="_blank"&gt;新兴域名好像就.io&lt;/a&gt; &lt;a href="http://和.xyz" rel="nofollow noopener" target="_blank"&gt;和.xyz&lt;/a&gt; 两个还可以，建的网站都挺多的。&lt;br /&gt;&lt;br /&gt;没有高低对错，如果公司或个人建站，你们个人喜欢哪个后缀？&lt;br /&gt;&lt;br /&gt;A .xyz&lt;br /&gt;B .io</description><pubDate>Thu, 05 Oct 2023 10:07:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979064#reply1</guid></item><item><title>[宽带症候群] 安徽 ipv6 是不是开始封 80 443 端口了</title><link>https://www.v2ex.com/t/979063#reply0</link><description>&lt;p&gt;坐标合肥，不知道有没有相同情况的，突然访问不了路由器后台了，重启也不行，端口扫描显示已禁用&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 10:06:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979063#reply0</guid></item><item><title>[Spotify] Spotify 美区家庭车</title><link>https://www.v2ex.com/t/979062#reply0</link><description>&lt;p&gt;RT 家庭车，季付 60 。需要自备账号或者邮箱代注册。TG 联系： &lt;a href="https://t.me/SpotifyRentV2" rel="nofollow"&gt;https://t.me/SpotifyRentV2&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 10:03:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979062#reply0</guid></item><item><title>[成都] 成都移动封禁 Vercel</title><link>https://www.v2ex.com/t/979061#reply0</link><description>成都移动封禁 vercel 了？&lt;br /&gt;HTTP 访问 vercel paas 的站点 或者直接输入 vercel 的服务器 IP 会直接 tcp reset 然后到工信部反诈页面</description><pubDate>Thu, 05 Oct 2023 09:54:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979061#reply0</guid></item><item><title>[iOS] Stash 和 QX 谁耗电，有没有朋友比较过啊?</title><link>https://www.v2ex.com/t/979060#reply0</link><description></description><pubDate>Thu, 05 Oct 2023 09:51:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979060#reply0</guid></item><item><title>[Apple] 家庭共享漏洞？</title><link>https://www.v2ex.com/t/979056#reply6</link><description>&lt;p&gt;网上很多开车家庭组的，即使位置共享关掉，同组其它人似乎也能播放声音，标记丢失，抹除设备？&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 09:40:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979056#reply6</guid></item><item><title>[iCloud] 自用国区 iCloud 2T， 6 人车，还差一人</title><link>https://www.v2ex.com/t/979055#reply0</link><description>&lt;p&gt;自用国区 iCloud 2T ，6 人车，每人容量均摊，车上共有五人，目前还差一个位置，长期稳定开车两年了，可看之前的帖子，21 年开始拼车。&lt;/p&gt;
+&lt;p&gt;绿色软件：5b6u5L+h5Y+377yaMTA0OTY1OTM2Mgo=&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 09:37:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979055#reply0</guid></item><item><title>[宽带症候群] 付费请教网络大师如何配置中兴 G7615 光猫</title><link>https://www.v2ex.com/t/979054#reply3</link><description>最近折腾家里网络突破千兆，买了个中兴 G7615 做路由模式，家里内网有台威联通 NAS ，部署了 wireguard 服务。&lt;br /&gt;&lt;br /&gt;问题来了，我在光猫上做了 NAS 的 web 端口转发服务，外面可以正常访问，也给 WG 服务的 51820 端口也做了转发，单外部设备死活连不上。&lt;br /&gt;&lt;br /&gt;求指教如何搞定 G7615 的配置，发 50 元红包请大佬喝咖啡，会的请联系 TG： &lt;a href="https://t.me/skywo0" rel="nofollow noopener" target="_blank"&gt;https://t.me/skywo0&lt;/a&gt;</description><pubDate>Thu, 05 Oct 2023 09:36:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979054#reply3</guid></item><item><title>[分享创造] 释放你的阅读潜能：用思阅（SRead）开启全新的智能阅读体验</title><link>https://www.v2ex.com/t/979053#reply0</link><description>&lt;blockquote&gt;
+&lt;p&gt;“阅读是心灵的冒险，知识是灵魂的燃料。” &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在信息爆炸的今天，阅读成了我们每个人不可或缺的一部分。然而，传统的阅读方式常常让我们陷入信息的海洋，难以分辨哪些是真正有用的知识。在这样的背景下，思阅（ SRead ）应运而生。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="思阅" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-064056.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;什么是思阅（ SRead ）？&lt;/h2&gt;
+&lt;p&gt;思阅是一款基于人工智能（ AI ）的阅读助手，专门为提升你的阅读体验而设计。它不仅仅是一个电子书阅读器，更是你的个人阅读顾问和助手。&lt;/p&gt;
+&lt;h3&gt;智能问答：随时解疑&lt;/h3&gt;
+&lt;p&gt;不再需要在阅读中断的情况下去网上搜索或查阅其他资料，思阅的智能问答功能能够即时为你解答与文章内容或主题相关的任何问题。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="智能问答" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-064008.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;知识图谱：构建知识网络&lt;/h3&gt;
+&lt;p&gt;通过知识图谱，思阅将各种信息和概念有机地联系在一起。这不仅能帮助你快速理解复杂的内容，还能让你更容易记住它们。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="知识图谱" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-063938.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;思维导图：一图胜千言&lt;/h3&gt;
+&lt;p&gt;对于需要整理复杂信息或需要做项目计划的用户来说，思维导图工具是极佳的选择。一张精心设计的思维导图，能让你一目了然地看出信息之间的逻辑关系。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="思维导图" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-063753.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;问题提示：激发深度思考&lt;/h3&gt;
+&lt;p&gt;当你沉浸在文章或书籍中时，思阅会自动生成与内容相关的问题，引导你进行更深层次的思考和理解。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="问题提示" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-064125.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;阅读总结：关键信息一览无余&lt;/h3&gt;
+&lt;p&gt;完成阅读后，思阅会自动为你生成一份详细的阅读总结。这里包含了文章的关键信息、主要观点以及你可能需要进一步关注的内容。一份好的阅读总结，可以让你更有效地复习和应用所学知识。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="阅读总结" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-064324.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;思阅，不仅仅是一个阅读工具&lt;/h2&gt;
+&lt;p&gt;思阅通过其多元化的功能，旨在提供一个全方位的阅读体验。它不仅能帮助你更有效地获取和处理信息，还能激发你对知识和阅读的热情。&lt;/p&gt;
+&lt;h2&gt;结语&lt;/h2&gt;
+&lt;p&gt;在这个信息高度碎片化的时代，思阅（ SRead ）提供了一个全面而高效的解决方案，让阅读不再是一个孤立和枯燥的过程，而是一个富有智慧和启发的旅程。&lt;/p&gt;
+&lt;p&gt;不妨现在就试试思阅，开启你的智能阅读之旅吧！&lt;/p&gt;
+&lt;h2&gt;参考&lt;/h2&gt;
+&lt;p&gt;思阅体验地址: &lt;a href="https://sread.ai" rel="nofollow"&gt;https://sread.ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果您对思阅感兴趣，欢迎微信扫码加入思阅交流群。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://codao.crawlab.cn/images/2023-10-05-064551.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 09:13:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979053#reply0</guid></item><item><title>[程序员] 用 VS Code 管理服务器，我有独特的服务器管理方式</title><link>https://www.v2ex.com/t/979052#reply0</link><description>&lt;p&gt;自从 Typora 开始收费之后，我彻底转向使用 VS Code （ Visual Studio Code ） 进行文章撰写。作为一款 Markdown 编辑器，它已经完全满足了我的需求。&lt;/p&gt;
+&lt;p&gt;然而，我开始思考是否可以将 Visual Studio Code 用作服务器管理器。在此之前，我一直使用 FinalShell 进行服务器管理，这款工具具备以下特点，也是我所喜欢的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;简单的服务器资源监控&lt;/li&gt;
+&lt;li&gt;服务器文件浏览&lt;/li&gt;
+&lt;li&gt;终端功能&lt;/li&gt;
+&lt;li&gt;多服务器管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当 VS Code 发布 Remote SSH 功能时，我并没有太过关注。该功能的初衷是用于远程开发，而我并没有远程开发的需求。然而，当我开始进行远程开发时，我决定尝试使用 Remote SSH 。结果令我惊喜地发现，Remote SSH 非常适合用于服务器管理工作。&lt;/p&gt;
+&lt;p&gt;那么，VS Code 有哪些特点，并且满足了我哪些需求呢？&lt;/p&gt;
+&lt;h2&gt;VS Code 的特点&lt;/h2&gt;
+&lt;h3&gt;多服务器管理&lt;/h3&gt;
+&lt;p&gt;通过在你需要访问的远程服务器中配置好 SSH Key ，便可以轻松地设置 Remote SSH ，并指定服务器的 IP 地址，从而直接通过 Remote SSH 访问服务器。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host server1
+    HostName 服务器 1 的 IP 地址
+    User 用户名
+
+Host server2
+    HostName 服务器 2 的 IP 地址
+    User 用户名
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;通过这样的配置，然后就可以方便地在 VS Code 中访问和管理多个服务器。只需单击服务器列表中的相应服务器，即可快速连接到目标服务器，并在远程环境中执行所需的操作。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/4aa3d3b0b76a3beb2ca85c82454b8c49.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;文件浏览器&lt;/h3&gt;
+&lt;p&gt;和正常一个项目的使用一样，VS Code 可以打开服务器的一个文件夹。然后我们就可以进行各种各样的文件浏览器的常规操作。还可以使用搜索功能快速查找和定位特定的文件。&lt;/p&gt;
+&lt;p&gt;我通常就会直接把账号目录直接打开。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/b4d0fa1ab402d7dbe1e6b7bd447d109e.png" /&gt;&lt;/p&gt;
+&lt;p&gt;同时还可以直接集成 VS Code 本身拥有的强大的文件编辑能力。&lt;/p&gt;
+&lt;p&gt;从此告别 &lt;code&gt;ls&lt;/code&gt;、&lt;code&gt;mkdir&lt;/code&gt;、&lt;code&gt;touch&lt;/code&gt;、&lt;code&gt;vi&lt;/code&gt; 等操作。&lt;/p&gt;
+&lt;h3&gt;方便快捷的终端体验&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/531f417e101e290bd87decad3879c606.png" /&gt;&lt;/p&gt;
+&lt;p&gt;可以同时打开多个终端实例，并在它们之间切换。每个终端实例都可以独立运行命令，并保留其输出历史记录。&lt;/p&gt;
+&lt;p&gt;还可以在编辑器的多个标签页或分割视图中同时打开不同的终端实例，以便同时执行不同的命令。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/77be0f069c48211c04cd6bf7083f260f.png" /&gt;&lt;/p&gt;
+&lt;p&gt;除此之外，在 VS Code 中，可以通过右键单击文件或文件夹，选择"在终端中打开"，快速打开终端并自动切换到对应的路径。再也不用痛苦的到处 &lt;code&gt;cd&lt;/code&gt; 了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/46402274e2d0cb48d95bab74a9820db9.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Docker GUI 管理&lt;/h3&gt;
+&lt;p&gt;由于我大部分服务都是放在 Docker 上，所以对于 Docker 的使用是非常高频的。&lt;/p&gt;
+&lt;p&gt;如果你在服务器上使用 Docker 进行容器化管理，VS Code 通常就会推荐你安装 Docker 扩展，然后就可以并以图形化界面的形式管理和操作 Docker 容器。可以方便地查看和管理容器、镜像、网络和卷等 Docker 资源，执行常见的 Docker 命令，以及监控容器的状态和日志。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/00f336449edc63e0dba5ffa2f5c1ccd9.png" /&gt;&lt;/p&gt;
+&lt;p&gt;这基本覆盖了大部分 Docker 常用的操作，也让我大部分时间不再需要使用 Portainer 或是命令行了。&lt;/p&gt;
+&lt;h3&gt;Git GUI 集成&lt;/h3&gt;
+&lt;p&gt;VS Code 提供了强大的 Git GUI 集成功能，可以在代码仓库上进行版本控制和协作。可以直接通过 GUI 进行查看提交历史、比较文件差异、切换分支、合并代码，以及推送和拉取代码等操作。&lt;/p&gt;
+&lt;h3&gt;丰富的个性化主题、插件生态&lt;/h3&gt;
+&lt;p&gt;如果本身就使用 VS Code ，便可以直接继承自己的审美。同时 VS Code 比其他终端管理软件拥有更为丰富丰富的个性化主题选项，可以根据自己的喜好和习惯选择适合的主题。也具有丰富的插件社区。&lt;/p&gt;
+&lt;h3&gt;其它&lt;/h3&gt;
+&lt;p&gt;除此之外，VS Code 本身就具有跨平台支持、多语言支持等特性，而且它完全免费。&lt;/p&gt;
+&lt;h2&gt;如何使用 VS Code 进行服务器管理&lt;/h2&gt;
+&lt;p&gt;你需要满足如下条件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;能够运行 VS Code 的电脑&lt;/li&gt;
+&lt;li&gt;正版的 VS Code&lt;/li&gt;
+&lt;li&gt;生成 SSH Key 并完成配置&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh" rel="nofollow"&gt;Remote SSH 插件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;其实你需要的并不多，核心是 VS Code 中的 Remote SSH 插件。&lt;/p&gt;
+&lt;h3&gt;配置 SSH Key&lt;/h3&gt;
+&lt;p&gt;你需要在你的电脑上生成 SSH Key ，并将公钥配置到服务器上以实现免密登录。你可以在网上查找相关教程了解如何生成和配置 SSH Key 。&lt;/p&gt;
+&lt;h3&gt;配置 Remote SSH&lt;/h3&gt;
+&lt;p&gt;通过 &lt;a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh" rel="nofollow"&gt;这个链接&lt;/a&gt; 安装 Remote SSH 后。&lt;/p&gt;
+&lt;p&gt;你可以按照以下步骤来打开和配置 SSH 主机：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;负责高可用实时和离线风控系统的架构设计，研究行业方案和技术选型；&lt;/li&gt;
-&lt;li&gt;负责整体系统的存储、压测、容灾设计，优化系统性能；&lt;/li&gt;
-&lt;li&gt;带领团队完成项目需求分析、架构优化和设计实现，保证项目进度。
-工作要求：&lt;/li&gt;
-&lt;li&gt;具有 3 年以上互联网研发和架构经验，熟悉 Java 技术栈，了解大数据相关技术，有独立系统架构能力；&lt;/li&gt;
-&lt;li&gt;具有高并发、微服务架构、多线程开发、大数据应用等相关互联网平台研发经验；&lt;/li&gt;
-&lt;li&gt;在电商领域拥有风控经验者加分；&lt;/li&gt;
-&lt;li&gt;具有团队精神、责任感强、具备服务意识。&lt;/li&gt;
+&lt;li&gt;在 VS Code 左下方找到 Remote SSH 的图标按钮。&lt;/li&gt;
+&lt;li&gt;点击该按钮，然后选择 "Connect to Host" 选项。&lt;/li&gt;
+&lt;li&gt;再次点击 "Configure SSH Hosts"。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;团队内年龄差不大，氛围友好，没有 ppt 文化，大家都踏实做事。欢迎来聊～&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 08:07:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978899#reply12</guid></item><item><title>[硬件] [求推荐下配置] 双十一想升级一下硬件。</title><link>https://www.v2ex.com/t/978898#reply0</link><description>&lt;p&gt;主要是更换 itx 主板和 CPU(9700)，目前有一张 3060ti 在服役，内存是 ddr4 的，可以接受升级 ddr5 。&lt;/p&gt;
-&lt;p&gt;显卡不准备升级，对 amd 和 intel 没有偏好，求推荐一块主板和 cpu 。&lt;/p&gt;
-&lt;p&gt;ps.不要推荐 itx 的主板了，太不好装机了，维护也麻烦，我这次准备装 m-atx 的主板。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 08:03:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978898#reply0</guid></item><item><title>[OpenAI] 买了几天 GPT plus 还没好好研究 有推荐的插件么</title><link>https://www.v2ex.com/t/978895#reply2</link><description>&lt;p&gt;我做网络推广的，干活太杂，有时候用 wordpress 做网站，需要一些代码支持；有时候处理文字图片视频，编辑工作；偶尔搞下简单运维。我看 GPT4 选项只能选联网或者 3 个插件，这些不同场景我应该选什么插件呢，一下一百多页，蒙圈了。&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 07:49:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978895#reply2</guid></item><item><title>[程序员] 请教各位 Linux 下 OpenZFS 的奇怪的 I/O 表现</title><link>https://www.v2ex.com/t/978894#reply4</link><description>&lt;p&gt;帖接上回
-&lt;a href="https://www.v2ex.com/t/977732" rel="nofollow"&gt;https://www.v2ex.com/t/977732&lt;/a&gt;
-&lt;a href="https://www.v2ex.com/t/977930" rel="nofollow"&gt;https://www.v2ex.com/t/977930&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我在 Debian12 (6.1 kernel) 上装了 OpenZFS (zfs-kmod-2.1.12-2~bpo12+1)，功能看起来没有什么问题。&lt;/p&gt;
-&lt;p&gt;系统正常启动，池的创建和销毁，SLOG 和 cache 的添加、删除，ZFS 属性变更，都没啥问题。&lt;/p&gt;
-&lt;p&gt;建好 zpool (4x8T raidz1)，加入 slog 和 cache ，创建对应 dataset ，接上我的冷备盘，用 ro 参数挂载冷备盘的 ext4 分区开始往 zpool 搬数据 (rsync)。冷备盘和 zpool 的磁盘型号相同，硬盘盒是世特力 2 盘位的硬盘底座。&lt;/p&gt;
-&lt;p&gt;第一个奇怪的问题出现了，我从冷备盘往系统盘 (Intel S3710 200G) 拷数据，可以正常跑满冷备盘的读带宽 280M/s ，但是我往 dataset 同步数据时候 rsync 显示的速度只有 20M/s 以下 (17-19M/s)。倒是，命令启动的瞬间可以跑满冷备盘的读带宽。而且在 zpool dataset 之间转移数据性能表现看起来是正常的。&lt;/p&gt;
-&lt;p&gt;我以为是 async I/O 没开，&lt;code&gt;zfs set sync=disabled &amp;lt;zpool&amp;gt;&lt;/code&gt;，I/O 速度没变。从这里开始感觉有点奇怪了，然后我使用 &lt;code&gt;zfs set sync=always &amp;lt;zpool&amp;gt;&lt;/code&gt; 让所有 I/O 先打在 SLOG 上，I/O 速度也没变。这里测完我怀疑 OpenZFS 对这个版本的内核有兼容问题。&lt;/p&gt;
-&lt;p&gt;但这套硬件在 FreeBSD 13.2 上正常的速度是，async I/0 可以长时间维持在至少 100M/s (1G 网口) 的速度，上限我没测。sync I/O 在两条傲腾 16G 的加持下，可以长时间维持在 55M/s 。&lt;/p&gt;
-&lt;p&gt;rsync 跑了 8h 之后数据只同步了 750G 。这个写入性能显然不对。&lt;/p&gt;
-&lt;p&gt;也肯定不是我 rsync 参数写的有问题，因为 rsync 的官方文档也是我翻译的 &lt;a href="https://note.lishouzhong.com/article/translation/sitemap-index.html" rel="nofollow"&gt;https://note.lishouzhong.com/article/translation/sitemap-index.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;第二个奇怪的问题是，我用 &lt;code&gt;zpool iostat -v 1&lt;/code&gt; 看到 I/O 表现可以和 rsync 显示的值对应上。但是我从 &lt;code&gt;watch iostat&lt;/code&gt; 看到的 I/O 表现是，我打断 rsync 的传输之后，iostat 依旧显示硬盘有 I/O 而且和刚才 rsync 的传输速度接近，并且 I/O 一直不会回归正常 (这个正常是指相对于系统盘显示的只有几 K/s 的速度)。&lt;/p&gt;
-&lt;p&gt;而且哪怕 SLOG 在 &lt;code&gt;zpool iostat -v 1&lt;/code&gt; 显示没有 I/O ，它在 iostat 也显示有 I/O 操作，I/O 速度和 SLOG 正常的工作速度相同。并且只要有一次 I/O ，iostat 就显示 SLOG 一直有 I/O 。cache 也一样，一直显示有写入操作。而且速度看起来像是真的，因为那个数字一直在小范围上下波动。&lt;/p&gt;
-&lt;p&gt;总结起来就是，iostat 显示的 I/O 指标有问题，并且看起来像是真的； zpool iostat 显示的 I/O 指标和期望相同，没有问题。&lt;/p&gt;
-&lt;p&gt;至于读性能的话，已经拷进 zpool 的数据可以以跑满 1G 网口的速度被传输到群晖上。但我可以确定我用于测试的，传往群晖数据都在内存的 ARC 里，各位如果要冷数据传输到群晖的速度的话我再去测，这个操作有点费时间。&lt;/p&gt;
-&lt;p&gt;各位有没有思路？&lt;/p&gt;</description><pubDate>Wed, 04 Oct 2023 07:29:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978894#reply4</guid></item><item><title>[问与答] iPhone 11（ios 16.7 128GB）刷微信视频号最近卡到爆表</title><link>https://www.v2ex.com/t/978892#reply2</link><description>以前只有当电量低于 2%才会开始卡，最近几天划视频的时候，有时候完全刷动不了，以前可以快速进入下一个还不会卡。&lt;br /&gt;&lt;br /&gt;拼命向上划也不会动，但把微信退到后台然后杀掉可以很容易，这说明不是系统卡。&lt;br /&gt;&lt;br /&gt;是不是微信有啥问题？</description><pubDate>Wed, 04 Oct 2023 07:25:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/978892#reply2</guid></item></channel></rss>
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/6e5373285cf66b5e27a5e0226910fc14.png" /&gt;&lt;/p&gt;
+&lt;p&gt;就可以在 VS Code 中进行配置，指定服务器的 IP 地址和用户名。示例配置如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Host server1
+    HostName 服务器 1 的 IP 地址
+    User 用户名
+
+Host server2
+    HostName 服务器 2 的 IP 地址
+    User 用户名
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;完成配置后便可以在左下角直接连接服务器了。&lt;/p&gt;
+&lt;h2&gt;插件以及其他推荐&lt;/h2&gt;
+&lt;h3&gt;Monitor Pro 插件&lt;/h3&gt;
+&lt;p&gt;资源监控，由我开发。&lt;/p&gt;
+&lt;p&gt;Monitor Pro 是一款资源监控工具，实时跟踪系统指标。监测 CPU 、内存、网络、文件系统使用率，电池百分比和充电状态。可自定义顺序和刷新间隔，提供高占用警报。适用于开发人员、系统管理员和普通用户。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.dawnlab.me/3a8f65f6452743ca13dbbfca425f0078.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=nexmoe.monitor-pro" rel="nofollow"&gt;https://marketplace.visualstudio.com/items?itemName=nexmoe.monitor-pro&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Docker 插件&lt;/h3&gt;
+&lt;p&gt;如果你在使用 Docker 容器来部署应用程序，这个插件可以帮助你在 VS Code 中管理和调试 Docker 容器。&lt;/p&gt;
+&lt;h3&gt;Wakatime 插件&lt;/h3&gt;
+&lt;p&gt;统计你在服务器上的摸鱼时间。&lt;/p&gt;
+&lt;h3&gt;zsh 与 &lt;a href="https://ohmyz.sh/" rel="nofollow"&gt;ohmyzsh&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;使用 &lt;a href="https://ohmyz.sh/" rel="nofollow"&gt;ohmyzsh&lt;/a&gt; 以及它的生态，为你的命令行集成自动补全和纠错功能。&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 09:02:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979052#reply0</guid></item><item><title>[职场话题] 从什么时候开始朝 9 晚 5 变成了朝 9 晚 6 了？</title><link>https://www.v2ex.com/t/979051#reply2</link><description>是谁偷走了我们一小时？</description><pubDate>Thu, 05 Oct 2023 09:00:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979051#reply2</guid></item><item><title>[分享发现] 吐槽一下现在的国产 app 对中老年人的毒害</title><link>https://www.v2ex.com/t/979050#reply16</link><description>国庆节帮老人弄手机&lt;br /&gt;老人嫌手机套餐里没流量，然后被“营业厅”的人忽悠开通了一个每月强制低消 50 元的套餐，就为了每月多那 10G 的流量，我一查账单，每个月基本都被白白花了 10 多元的话费，于是带去总行营业厅准备扯皮，幸好是可以退订的，便退了。之后在询问这是谁给办的，老人给我看微信上的一个联系人，发了几句语音，打了几分钟语音，就被忽悠着办了。。。&lt;br /&gt;然后是早上，帮父亲弄手机，偶然在短信里看到有一个“抖音月付”的提醒还款短信。我一看这不小额借贷么，然后我就问他：你还开这东西？&lt;br /&gt;父亲回复：有一次抖音上买东西用的，我就用了一次 blabla&lt;br /&gt;我怕他忘记还款，就点进抖音帮他看，点进去一看，消费了 1 分钱，评了 2w 多的额度。我问他：你知道这是上征信的不。他说不懂这个。下单自动叫弄的。&lt;br /&gt;真的就很无语。。。现在好多国产 app 搞这些东西搞得是毫无下限，平时没人跟他们教这些，到时候遇到问题了也不好解决唉。。。</description><pubDate>Thu, 05 Oct 2023 08:59:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979050#reply16</guid></item><item><title>[Android] 我发现大多数第三方 Android ROM 默认没有启用 ZRAM</title><link>https://www.v2ex.com/t/979049#reply7</link><description>&lt;p&gt;半个月前看到这篇帖子：
+&lt;a href="https://www.v2ex.com/t/974608" rel="nofollow"&gt;https://www.v2ex.com/t/974608&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果这个对比有什么不准确的地方，欢迎提出来&lt;/p&gt;
+&lt;p&gt;iPhone 13 Pro 256G 6G 内存: iOS 16.6.1
+小米 6 64G 6G 内存: LineageOS Android 13&lt;/p&gt;
+&lt;p&gt;这两部手机，我安装了完全一样的 app ，包括微信、支付宝、京东、淘宝、银行等我必须要用的。唯一的区别就是自带 app ，在小米那就是谷歌的相册、通话、短信；在 iPhone 上则是 apple 的对应。&lt;/p&gt;
+&lt;p&gt;实际体验：小米上的国产 app 几乎完全不能常驻后台，即便我选了允许后台活动。微信地球一天看 5 次以上，淘宝京东银行这种完全不可能不杀进程；然而 13Pro 的微信我一周也就见 3 、4 次地球的样子，国产 app 基本能做到当天不杀进程。&lt;/p&gt;
+&lt;p&gt;所以我的感觉是。。。确实不一样？
+欢迎安卓开发、ios 开发指点哈 thanks!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我手头正好有小米 6 ，但没有 iPhone 13 Pro 。不过本帖的重点是 Android 。&lt;/p&gt;
+&lt;p&gt;趁着国庆假期有空，想到了这篇帖子，我把我的小米 6 刷了一圈第三方 ROM 。&lt;/p&gt;
+&lt;p&gt;然后发现了一点：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;大多数第三方 ROM 都没有配置 ZRAM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;而大多数原厂 ROM 都会默认启用 ZRAM 。虽然 iOS 没有 ZRAM ，但也有内存压缩，而且比 Android 厂商配置的参数要更加激进。&lt;/p&gt;
+&lt;p&gt;可以用 DevCheck 这款工具来查看内存信息，如果没有 ZRAM ，就像这样：
+&lt;img alt="image1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2AKnOqv.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;这是另一部手机在大陆版 MIUI 下的情况：
+&lt;img alt="image2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/x03OQRF.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;这是在小米 6 上启用了 ZRAM 的情况：
+&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/zVcfTWY.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;在仅开启 ZRAM ，没有进一步折腾的情况下，我的小米 6 可以运行 40 多个后台 APP ，其中包括 4 个国产 APP ，6 个国外 APP ，剩下的都是自带 APP （相机、相册、通讯录等）和各种第三方小工具。随便切换至任意一个都没有重载，而且仍然有剩余内存可用。&lt;/p&gt;
+&lt;p&gt;当然，小米 6 的内核版本太低，Swappiness 最高只能调整到 100 ，而目前一般建议调整到超过 100 。&lt;/p&gt;
+&lt;p&gt;结论是，刷了第三方 ROM 而没有进一步折腾的 Android 手机，并不代表大多数 Android 设备的 APP 后台驻留体验。大多数情况下，它们都不如原厂 ROM 。&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 08:54:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979049#reply7</guid></item><item><title>[分享发现] oneinstack 和 lnmp.org 一键脚本同时被一家运营盗版 Mac 软件网站的公司收购了</title><link>https://www.v2ex.com/t/979048#reply3</link><description>&lt;p&gt;消息来源： &lt;a href="https://twitter.com/landiantech/status/1709226985334214932" rel="nofollow"&gt;https://twitter.com/landiantech/status/1709226985334214932&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://oneinstack.com" rel="nofollow"&gt;oneinstack.com&lt;/a&gt; 的备案号 9 月 27 号变更为：浙 ICP 备 2023007596 号-4&lt;/p&gt;
+&lt;p&gt;与该公司运营的盗版 MAC 软件网站的备案号：浙 ICP 备 2023007596 号-1 一致&lt;/p&gt;
+&lt;p&gt;该公司还同时收购了军哥的 &lt;a href="http://lnmp.org" rel="nofollow"&gt;lnmp.org&lt;/a&gt; 一键脚本，&lt;a href="http://lnmp.org" rel="nofollow"&gt;lnmp.org&lt;/a&gt; 网站下的版权信息已经变更&lt;/p&gt;
+&lt;p&gt;求推荐好用的一键脚本&lt;/p&gt;
+&lt;p&gt;oneinstack 用了很多年，是时候说再见了&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 08:46:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979048#reply3</guid></item><item><title>[问与答] 有无好用的 RSS 全平台服务/客户端</title><link>https://www.v2ex.com/t/979047#reply8</link><description>&lt;p&gt;目前用 TTRSS+RSSHUB ，但手机端支持不是很好，想问问看有没有对应的客户端，能同步已读、未读的。&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;目前需求场景是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以 PC 端为主的 RSS 阅读&lt;/li&gt;
+&lt;li&gt;偶尔（比如这次国庆长假回老家了不想开电脑）手机端也能够阅读&lt;/li&gt;
+&lt;li&gt;PC 端和手机端的订阅、已读、未读、收藏等信息是同步的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;解决思路有两个，求大家推荐&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;找一个好用的 TTRSS 阅读器，之前好像用过类似的应用，但现在找不到了&lt;/li&gt;
+&lt;li&gt;有无其他好用的全平台服务/客户端，自建最佳&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Thu, 05 Oct 2023 08:40:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979047#reply8</guid></item><item><title>[科技] Linux 下的 clash 如何使用 proxy-provider 实现自动更新配置文件</title><link>https://www.v2ex.com/t/979045#reply0</link><description>&lt;p&gt;我的 Clash 配置文件使用了 Proxy-Provider：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;proxy-providers:
+  foo:
+    type: http
+    path: ./foo.yaml
+    url: xxx
+    interval: 3600
+    health-check:
+      enable: true
+      url: http://www.gstatic.com/generate_204
+      interval: 1800
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;按我的理解，这里的间隔 3600 就是每隔一个小时更新一次，但是这个更新操作并不会自动完成。那么正确的更新操作是怎么样的？&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 08:37:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979045#reply0</guid></item><item><title>[Windows] Windows 11 世纪级更新，可以直接打开 RAR 7z TAR.GZIP XZ 等压缩文件</title><link>https://www.v2ex.com/t/979042#reply18</link><description>&lt;p&gt;9 月更新后，最近几天我打开了一个 RAR 压缩文件，没想到 Windows 跳了个列表出来，提示我可以选择其他应用程序打开该文件，我仔细一看，发现列表内有 Windows 资源管理器。换句话说，“原生打开各种压缩文件”的特性终于来到正式版。&lt;/p&gt;
+&lt;p&gt;个人简单测试后发现，tar.gz 可以直接打开、解压，targ.xz 也可以直接打开、解压，就连 RAR 分卷压缩都能双击打开看到正确的文件，也能正常解压，这下几乎可以不需要再安装解压软件了。&lt;/p&gt;
+&lt;p&gt;唯一的缺点是，无法解压加密压缩文件。无论是 RAR 还是 7z ，只要带了密码就无法解压&lt;/p&gt;</description><pubDate>Thu, 05 Oct 2023 08:05:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979042#reply18</guid></item><item><title>[macOS] mac 无法使用 apple watch 解锁了</title><link>https://www.v2ex.com/t/979039#reply0</link><description>应该是从上个 mac 版本开始就无法解锁了。不知道你们的使用情况如何。我的 mac 是 2019 pro ，手表是 se 版本</description><pubDate>Thu, 05 Oct 2023 07:52:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/979039#reply0</guid></item></channel></rss>
