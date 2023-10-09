@@ -1,111 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 09 Oct 2023 07:00:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 公司领导叫你提点意见，怎么回复领导才不得罪领导呢。</title><link>https://www.v2ex.com/t/980256#reply0</link><description>&lt;p&gt;领导：你在公司现在也算是元老人员了，给我提一提 公司管理或者其他层面的 一些建议，哪些方面 需要优化改进，提高下我们的战斗力。&lt;/p&gt;
-&lt;p&gt;想的是随便回回，但是觉得可能有点敷衍，也不想得罪领导。问下巨巨们，这种怎么回复呢。gpt4 已经问过了。&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 07:00:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980256#reply0</guid></item><item><title>[地理信息系统] 求助！ openlayers 和 leaflet 代码转换</title><link>https://www.v2ex.com/t/980255#reply0</link><description>&lt;p&gt;因为项目要在内网部署，现在用 leaflet 根据部署环境同时加载天地图（互联网）和内网的瓦片图。但是甲方的 demo 是用 openlayers 的，里面有代码&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;new ol.tilegrid.TileGrid({
-	tileSize: 256,
-	origin: [-180, 90],
-	resolutions: [1.4078260157100582, 0.70312500000000022, 0.35156250000000011]
-});
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 09 Oct 2023 20:39:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 帮忙看下这是哪个插件在 Chrome 里植入的广告</title><link>https://www.v2ex.com/t/980455#reply2</link><description>在百度和 Google 搜索结果的右侧被植入了广告&lt;br /&gt;&lt;br /&gt;Google 搜索植入截图： &lt;a href="https://prnt.sc/KChE_Uuh5G8b" rel="nofollow noopener" target="_blank"&gt;https://prnt.sc/KChE_Uuh5G8b&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;百度搜索植入截图： &lt;a href="https://prnt.sc/m8EtmCnHtaT5" rel="nofollow noopener" target="_blank"&gt;https://prnt.sc/m8EtmCnHtaT5&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;一开始只在百度上出现以为是百度的官方广告。最近 google 上也出现了一下子就警觉起来了</description><pubDate>Mon, 09 Oct 2023 19:48:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980455#reply2</guid></item><item><title>[NGINX] 关于 sql server 反代</title><link>https://www.v2ex.com/t/980454#reply0</link><description>因为安全问题 客户端强制使用 tls 1.2 但是服务端 只能使用 1.0 请问可以通过 nginx 实现上下游不同加密版本 通信吗？如果可以的话 麻烦可以写一下简单的例子参考一下</description><pubDate>Mon, 09 Oct 2023 19:14:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980454#reply0</guid></item><item><title>[NAS] 想在 NAS 上弄个云桌面，用来远程挂微信、WPS、访问网页，有没有合适的轻量级系统？</title><link>https://www.v2ex.com/t/980452#reply2</link><description>&lt;p&gt;有时候不在家想有个远程桌面用，这样在公共电脑上不用装软件登录啥的。
+用途就是看看微信，WPS 编辑文档，访问访问网页，用什么样的系统可以最小化资源？毕竟虚拟机要 24 小时开启
+如果虚拟机里的系统可以自动休眠唤醒就更好了&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 18:12:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980452#reply2</guid></item><item><title>[Apple] 大爱百度网页版日历, 苹果生态有哪些能提供相似功能的软件么?</title><link>https://www.v2ex.com/t/980451#reply2</link><description>&lt;p&gt;RT&lt;br /&gt;
+百度日历网页版: &lt;a href="https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86" rel="nofollow"&gt;https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86&lt;/a&gt;&lt;br /&gt;
+手机 ipad 电脑都可以, 大家能推荐下么&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 17:57:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980451#reply2</guid></item><item><title>[Linux] 执行指令 CHMOD 777 /ETC/SSH -R 不能 SSH 登录</title><link>https://www.v2ex.com/t/980449#reply0</link><description>&lt;p&gt;执行指令 CHMOD 777  /ETC/SSH -R  不能 SSH 登录&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 17:23:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980449#reply0</guid></item><item><title>[程序员] 禁用 devtools 的奇技淫巧</title><link>https://www.v2ex.com/t/980448#reply3</link><description>发现一个神奇的库，可以禁用网站 devtools 达到保护源码的目的&lt;br /&gt;&lt;br /&gt;&lt;a href="https://github.com/theajack/disable-devtool" rel="nofollow noopener" target="_blank"&gt;https://github.com/theajack/disable-devtool&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;有厉害的老哥有破解思路吗，我记得之前有人发过类似帖子，他那个提前打开 devtools 再输网址可破，但这个法子在这个库也没用了&lt;br /&gt;&lt;br /&gt;装了个禁用 js 的插件，但是 react 貌似就必须跑在 js 环境下，禁用的话整个页面都出不来了&lt;br /&gt;&lt;br /&gt;有点没思路了哈哈</description><pubDate>Mon, 09 Oct 2023 17:15:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980448#reply3</guid></item><item><title>[OpenAI] chatgpt plus 通过 link 捆绑国内信用卡，还能正常扣款吗？</title><link>https://www.v2ex.com/t/980447#reply0</link><description>&lt;p&gt;chatgpt plus 通过 link 捆绑国内信用卡，还能自动扣款成功吗？这个月是不是不行了？&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 16:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980447#reply0</guid></item><item><title>[问与答] macbook 进水 修复概率有多少</title><link>https://www.v2ex.com/t/980446#reply2</link><description>刚刚喝茶 杯子被鼠标线挂倒 撒了半杯水在键盘上 立刻电脑发出吱吱的声音 我立刻关机拔电源然后擦干外面的水 现在在倒置 明天去天才吧报修 想请问下有类似经历的老哥 修复概率有多少？大约多少钱？是找第三方还是官方好一点？</description><pubDate>Mon, 09 Oct 2023 16:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980446#reply2</guid></item><item><title>[OpenAI] 免费！炸裂！终于可以使用 GPT 3.5 进行网页搜索啦， Google 颤抖吧～</title><link>https://www.v2ex.com/t/980445#reply0</link><description>&lt;p&gt;Poe 这个平台现在实在是太强大了，集成了当下最当红的 AI 模型。在推出 Web-Search 的同时，也支持了 StableDiffusionXL ，文生图当下的免费选项可是太多太多了。&lt;/p&gt;
+&lt;p&gt;Web-Search 是一个通用的机器人助手，可以根据需要进行网络搜索以获取相关信息。在获取最新信息或具体事实方面表现出色。由 gpt-3.5-turbo 提供支持。（目前处于测试版）&lt;/p&gt;
+&lt;p&gt;大家赶紧抢先体验吧&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/sDfp5vkDIAtMjMiZtYaafA" rel="nofollow"&gt;免费！炸裂！终于可以使用 GPT 3.5 进行网页搜索啦，Google 颤抖吧～&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 16:09:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980445#reply0</guid></item><item><title>[问与答] 小米自研 Mios 能否和华为鸿蒙 OS 一战？</title><link>https://www.v2ex.com/t/980444#reply4</link><description>MIUI14 会是 MIUI 的最后一个正式的大版本。作为 MIUI 的封箱作品，MIUI14 算是一个优秀的“毕业设计”了，基础体验妥妥行业第一梯队，只有动效还在拖后腿。&lt;br /&gt;国内安卓改变都准备改名字叫 OS 了吗？放弃 Android 生态？</description><pubDate>Mon, 09 Oct 2023 16:07:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980444#reply4</guid></item><item><title>[问与答] 有没好用的轻量的支持多平台的共享剪切板工具</title><link>https://www.v2ex.com/t/980443#reply1</link><description>问下各位老大哥，有没支持安卓，ios ，windows 的共享剪贴板工具，多个设备每次复制来回很不方便。&lt;br /&gt;&lt;br /&gt;本来 搜狗输入法 可以实现，但无奈它太恶心，窃取然后给你各种广告。&lt;br /&gt;&lt;br /&gt;各位老哥建言献策，多多益善。</description><pubDate>Mon, 09 Oct 2023 16:05:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980443#reply1</guid></item><item><title>[问与答] 香格里拉酒店 WiFi 居然可以直连 v2ex,什么原理？用的 China Telecom Next Generation Carrier Network</title><link>https://www.v2ex.com/t/980442#reply6</link><description>Organization Xianggelila Dajiudian Co., Ltd</description><pubDate>Mon, 09 Oct 2023 15:50:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980442#reply6</guid></item><item><title>[问与答] 求问火车路线的 GPS 坐标</title><link>https://www.v2ex.com/t/980441#reply0</link><description>&lt;p&gt;有没有类似 flightradar 中根据航班号下载对应飞行轨迹的服务，可以根据火车车次号获得运行路线的 GPS 轨迹，例如获得一个 GPX 文件？&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:48:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980441#reply0</guid></item><item><title>[问与答] 安卓 tasker 有中文社区么</title><link>https://www.v2ex.com/t/980440#reply0</link><description>&lt;p&gt;刚接触这个软件，在各大搜索引擎上搜了一下，没有找到，看起来都是外网的，但外网和国内适配比较差，常见的 app 都不多
+内网上基本都是自己的博客，或者简书之类的。贴吧看起来也不咋活跃
+有没有类似 ios 的捷径社区之类的&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:45:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980440#reply0</guid></item><item><title>[求职] 寻求 量化交易 实盘自动化交易程序编写 兼职</title><link>https://www.v2ex.com/t/980438#reply0</link><description>&lt;p&gt;最近时间宽裕，可以接些 量化的单子。
+提供策略或者想法，用程序帮你实现自动化交易。 远离盯盘，远离情绪，机械化交易,解放双手。
+标的：A 股股票，ETF ，基金，债券等。
+有意的小蝌蚪：eWFnYW1pbA==&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:40:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980438#reply0</guid></item><item><title>[程序员] 程序员，年底了，危机感很强烈</title><link>https://www.v2ex.com/t/980437#reply3</link><description>&lt;p&gt;这段时间属实有点危机感&lt;/p&gt;
+&lt;p&gt;我是做后端的，大头兵，在一家公司的一个项目做了一年多，当初这个项目在公司也算重点项目&lt;/p&gt;
+&lt;p&gt;然而风云变幻，一些市场原因以及项目自身也没做好，导致这个项目几乎永远不会达到立项时的预期，甚至于个人感觉已经离失败不远了。&lt;/p&gt;
+&lt;p&gt;这个项目组有几十号人，如果项目关闭，以及行业的不景气，个人感觉裁员的概率应该会大于把项目成员安排去做其他项目。&lt;/p&gt;
+&lt;p&gt;如果裁员，自己会不会被裁也不确定，但是带的那些小朋友估计会走一些，挺难受的，这之中还有我招进来的。
+十一回来后，做事情也不太得劲，再努力估计也难以达到效果，反正就是拿工资，奖金什么的都别想，不过工资也算差强人意，目前还满意。&lt;/p&gt;
+&lt;p&gt;我们公司说实话总经办那帮人做事情没什么人情味，比如员工范点小错，也不给什么警告，直接会开除。而且有时候裁人，看有的员工好欺负，找各种理由不给 N+1 ， 和当事人耗，直到把人耗退。&lt;/p&gt;
+&lt;p&gt;到时候如果真的被裁，可能还要花点心思面对这种事情，也挺烦。&lt;/p&gt;
+&lt;p&gt;目前来看，事情会发生在年底或者年初，年底的概率会大于年初，感觉这个公司不太在意员工死活，从加班程度就能看的出来。所以，简历更新、看新机会，现在应该要提前准备起来了，以及万一走到最坏一步，如何拿到合理赔偿等事情，真挺烦。&lt;/p&gt;
+&lt;p&gt;公司规模还可以，但是在里边做也有朝不保夕的感觉。国企、事业单位、公务员，真香！&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:36:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980437#reply3</guid></item><item><title>[分享创造] 第一个发布的个人网站，纯属好玩</title><link>https://www.v2ex.com/t/980435#reply2</link><description>&lt;p&gt;一个小工具，转换十进制数字到二进制  &lt;a href="https://decimaltobinary.online/" rel="nofollow"&gt;https://decimaltobinary.online/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:31:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980435#reply2</guid></item><item><title>[投资] [20231009]今天 A 股表现不错，继续加仓 2 万元</title><link>https://www.v2ex.com/t/980434#reply0</link><description>&lt;h2&gt;市场&lt;/h2&gt;
+&lt;p&gt;虽然我仓位是绿的&lt;br /&gt;
+但是考虑到假期全球股市的跌幅、中东的冲突&lt;br /&gt;
+今天 A 股表现坚挺  &lt;/p&gt;
+&lt;p&gt;上午港交所未开市，A 股下跌后反弹&lt;br /&gt;
+下午港交所正常交易后，北上资金一小时跑掉 70 亿&lt;br /&gt;
+但 A 股表现没有像 9 月份那么拉胯  &lt;/p&gt;
+&lt;p&gt;各指数均是低开高走&lt;br /&gt;
+最终除了上证指数由于权重较高的银行版块下跌而跌了 0.5% 不到&lt;br /&gt;
+其他各指数跌幅很小  &lt;/p&gt;
+&lt;p&gt;我有两只银行股
+一只在 A 股，一只在港股
+今天 A 股的跌了，港股的涨了一丢丢
+这得益于港股银行股的估值更低，更抗跌&lt;/p&gt;
+&lt;p&gt;我的 A 股仓位今天是红的&lt;br /&gt;
+港股仓位在假期间下跌了 5%，今天下午开盘后涨回来 3%&lt;br /&gt;
+最终整体微跌  &lt;/p&gt;
+&lt;p&gt;总的来说，A 股算是硬气了一回  &lt;/p&gt;
+&lt;h2&gt;交易&lt;/h2&gt;
+&lt;p&gt;转入证券账户 2 万元，买入一只宽基指数  &lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EQtMdSc.jpg" /&gt;</description><pubDate>Mon, 09 Oct 2023 15:21:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980434#reply0</guid></item><item><title>[程序员] 图解 LeetCode 算法汇总—链表</title><link>https://www.v2ex.com/t/980433#reply0</link><description>&lt;blockquote&gt;
+&lt;p&gt;本文首发公众号：小码 A 梦&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一般数据主要存储的形式主要有两种，一种是数组，一种是链表。数组是用来存储固定大小的同类型元素，存储在内存中是&lt;strong&gt;一片连续&lt;/strong&gt;的空间。而链表就不同于数组。链表中的元素不是存储在内存中&lt;strong&gt;可以是不连续的空间&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/f4e60ff7-51e8-4c38-b9d7-98761f2de2d9.png" /&gt;&lt;/p&gt;
+&lt;p&gt;链表主要有两个元素：&lt;strong&gt;结点和指针&lt;/strong&gt;。结点是存储数据，指针是指向下一个结点数据。&lt;/p&gt;
+&lt;p&gt;链表的有几个特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不必按顺序存储数据，使用指针关联各个结点的数据。&lt;/li&gt;
+&lt;li&gt;插入数据时间复杂度 O(1)。&lt;/li&gt;
+&lt;li&gt;单链表查询时间复杂度为 O(n)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;JDK 链表源码&lt;/h1&gt;
+&lt;p&gt;JDK 很多地方用到了链表，这里举例两个：HashMap 和 LinkedList 。&lt;/p&gt;
+&lt;h2&gt;HashMap&lt;/h2&gt;
+&lt;p&gt;HashMap 基于&lt;strong&gt;数组 + 链表/红黑树&lt;/strong&gt;的数据结构，其中链表用 Node 表示。主要存储数据和指向下一个结点的指针，源码如下所示。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//HashMap Node 部分源码
+static class Node&amp;lt;K,V&amp;gt; implements Map.Entry&amp;lt;K,V&amp;gt; {
+    final int hash;
+    final K key;
+    V value;
+    Node&amp;lt;K,V&amp;gt; next;
+
+    Node(int hash, K key, V value, Node&amp;lt;K,V&amp;gt; next) {
+        this.hash = hash;
+        this.key = key;
+        this.value = value;
+        this.next = next;
+    }
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这些代码不知道怎么配置到 leaflet 里面。现在 leaflet 可以正常加载天地图，但是加载内网的瓦片图好像是定位错误了。求助一下大佬们。&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:58:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980255#reply0</guid></item><item><title>[iCloud] 求一个土区 icloud 车位，季付，最好长期稳定的</title><link>https://www.v2ex.com/t/980253#reply1</link><description></description><pubDate>Mon, 09 Oct 2023 06:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980253#reply1</guid></item><item><title>[Apple] macOS 14 锁屏界面时间显示有 Bug？</title><link>https://www.v2ex.com/t/980251#reply0</link><description>&lt;p&gt;系统设置是使用 24 小时格式的时间
-电脑关机后重新开机，在锁屏界面显示 12 小时格式的时间。
-开机之后如果再锁屏 这时候显示的就是正确的 24 小时的格式。有其他人遇到这个 Bug 吗？
-&lt;a href="https://imgur.com/a/K6PgLEe" rel="nofollow"&gt;https://imgur.com/a/K6PgLEe&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:45:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980251#reply0</guid></item><item><title>[GitHub Copilot] 正版 Copilot 感觉有点小贵，不续了</title><link>https://www.v2ex.com/t/980250#reply2</link><description>&lt;p&gt;&lt;img alt="微信图片_20231009143720" class="embedded_image" rel="noreferrer" src="https://blog.xikcloud.com/upload/2023/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231009143720-93b5081427a1476486fdb1c7e274552f.jpg" /&gt;
-&lt;img alt="微信图片_20231009143713" class="embedded_image" rel="noreferrer" src="https://blog.xikcloud.com/upload/2023/10/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231009143713-4e34a11b00bd47e1b096fcbc28b42ea3.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980250#reply2</guid></item><item><title>[OpenWrt] 千兆宽带路由推荐</title><link>https://www.v2ex.com/t/980249#reply2</link><description>&lt;p&gt;办好了家用千兆宽带，路由选哪个合适，大佬们推荐一下靠谱稳定设备方案。软路由+AP 、成品路由均可考虑，稳定最重要。（有公网 IP ，日常主要用 Wi-Fi ，有线只接了 NAS 。）&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:44:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980249#reply2</guid></item><item><title>[分享创造] 也写了一个 OpenAI ChatBot —— Bot 酱，基于微信测试号+客服消息</title><link>https://www.v2ex.com/t/980246#reply1</link><description>&lt;p&gt;特色：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;基于微信测试号，不容易被封，可以邀请 100 人使用，适合小团队使用（当然理论上你也可以用来对接公众号）&lt;/li&gt;
-&lt;li&gt;基于客服消息，不受 5 秒超时限制&lt;/li&gt;
-&lt;li&gt;支持用户通过命令设置 API KEY 、URL&lt;/li&gt;
-&lt;li&gt;支持设置触发词&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;详细说明和代码请移步 GitHub：&lt;a href="https://github.com/easychen/botchan" rel="nofollow"&gt;https://github.com/easychen/botchan&lt;/a&gt; 欢迎 Star ⭐️&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/B6n6Vd03.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:40:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980246#reply1</guid></item><item><title>[宽带症候群] 上海电信 IPTV 单线复用问题</title><link>https://www.v2ex.com/t/980245#reply0</link><description>&lt;p&gt;通过 2 台水星 SG105 Pro 配置 vlan85&lt;/p&gt;
-&lt;p&gt;现在问题就是每隔 1,2 周,IPTV 就会出现播放 10 几秒后，出现网络繁忙 0018 这样的错误。&lt;/p&gt;
-&lt;p&gt;这时候就需要把 IGMP 侦听打开，重启设备。等 IPTV 可以正常收看后再关闭 IGMP 侦听。
-(如果不关闭 IGMP 侦听，大概率第二天就会重现问题)&lt;/p&gt;
-&lt;p&gt;有人知道怎么解决吗。&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:37:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980245#reply0</guid></item><item><title>[问与答] 股票亏损太多压力大怎么办？</title><link>https://www.v2ex.com/t/980243#reply14</link><description>&lt;p&gt;前年被我爸忽悠上车，后来陆续补仓，目前为止亏损 10w+。我爸套的更牢，而且两个人都是全仓梭哈的一只票。但是每次和他聊起这件事来，我爸他都是说一定会涨回来的，而我的心态就比较悲观，很难想象亏损这么多还能有这么好的心态。&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:35:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980243#reply14</guid></item><item><title>[程序员] 复盘一个独立开发 2 年的项目</title><link>https://www.v2ex.com/t/980242#reply5</link><description>&lt;p&gt;这是对于自己的一次 2 年的副业项目的一次复盘，希望对于那些没有经验的小伙伴，能够避免自己曾走过的坑&lt;/p&gt;
-&lt;p&gt;今天复盘的项目是给用户快速搭建落地页、营销页的平台。大致长这样
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.imoka.cn/47ryY8HnTj9A/a/img/BT8EWNhK67BlqWA6G1K1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;缘起&lt;/h3&gt;
-&lt;p&gt;先介绍为什么开发这个项目。大概从 2020 年，从大厂离职之后， 就一直想开发一个自己的产品。由于之前开发过类似的产品，也看到这件产品对于运营的价值，而且移动互联网是所有流量的入口，那么，快速搭建落地页，必然有其需求。&lt;/p&gt;
-&lt;h3&gt;项目过程&lt;/h3&gt;
-&lt;p&gt;为了区分与其他平台的区别，增加这个项目的核心竞争力，开发了一个功能， 能够让用户可以自定义开发模板以及组件的功能， 让他们开发自己的业务组件， 发布到平台去搭建，也是自认为这个平台最具价值的点之一。但是， 也是因为这个功能，给后续一些迭代埋下了很多坑， 走了很多弯路&lt;/p&gt;
-&lt;p&gt;项目过程大致是这样的&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/8f140f78-17bc-4ed0-afae-6799ddc391fc.png" /&gt;&lt;/p&gt;
+&lt;p&gt;以上蓝色的 Node 结点表示一个链表结点。&lt;/p&gt;
+&lt;h2&gt;LinkedList&lt;/h2&gt;
+&lt;p&gt;LinkedList 本身就是一个双链表，有前置指针和后置指针。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//LinkedList 部分源码
+private static class Node&amp;lt;E&amp;gt; {
+    E item;
+    Node&amp;lt;E&amp;gt; next;
+    Node&amp;lt;E&amp;gt; prev;
+
+    Node(Node&amp;lt;E&amp;gt; prev, E element, Node&amp;lt;E&amp;gt; next) {
+        this.item = element;
+        this.next = next;
+        this.prev = prev;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/b91d3255-29ee-45ab-9fe7-5188322db1e3.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;LeetCode 题解&lt;/h1&gt;
+&lt;p&gt;LeetCode 有很多链表的题目，选取了几种比较典型的链表，面试的时候也经常会问到。&lt;/p&gt;
+&lt;h2&gt;206.反转链表(简单)&lt;/h2&gt;
+&lt;h3&gt;题目描述&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://user-images.githubusercontent.com/11553237/131843538-53b60e9a-a189-4f20-a238-0f02c26aa312.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;解法&lt;/h3&gt;
+&lt;p&gt;链表结点不变，将指针方向反转。如果只是在一个链表的上操作，每次都需要遍历结点，比较繁琐。所以添加一个空链表 pre 。pre 表示将指针向后，改成向前。比如 1 -&amp;gt; 2 变成 2 -&amp;gt; 1 ，先将 1 放在新的链表上，然后再将 2 放入新的链表，并指向 1 。如下图所示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/ec85d8ba-ea0c-4345-81d6-1ba7075934bd.png" /&gt;&lt;/p&gt;
+&lt;p&gt;总结一下解决步骤：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;2020 开始着手搭建整个平台的雏形， 因为要加上自定义组件开发能力，所以，大部分时间是花在如何能让用户开发组件，制定组件的规范，以及组件在平台上如何渲染可编辑等等这些技术方案的预研和制定上。这个大概花了一年的时间，才大致有了一个轮廓。在年底注册了一个公司， 买了一些服务器设备，初步将环境搭建起来&lt;/li&gt;
-&lt;li&gt;2021 年，基于上一年的技术方案，开始做整个平台设计开发， 包括交互、视觉稿的设计，还有服务端以及前端的开发，以及整体的一个运行时开发包，还有本地研发调试的工具等等一系列配置。由于东西也很多，本人在业余时间进行开发， 所以，大致花了一年，也只是勉强开发到 80%左右，还是只是很粗糙的勉强可运行&lt;/li&gt;
-&lt;li&gt;2022 年， 在基于上一年的基础上， 继续将其余的一些功能开发完毕。但是， 这个时候，程序员的洁癖就出来了。由于，不满意其中的一些技术设计，以及整个视觉方案，将很多的东西，在原有的基础上进行重新抽象，而且，在重构的过程中，想的东西越来越多， 就不断的去叠加一些功能，觉得要做到自己满意为止。就这样，整个一年都在推到重构当作去做。所以，为什么说自定义开发的功能是坑， 因为，大部分的技术改造，全部集中在这个部分。认为既然是面向自定义组件开发，那么，在技术方案上，一定要做到满意为止才行，所以，花费太多时间在做这些自我构想的功能上&lt;/li&gt;
-&lt;li&gt;2023 年，做最后的技术优化以及调整，大概在 6 月发布。可想而知的是什么，用户很少，零星会来用。因为，你的核心卖点是开发能力，但是，这部分能力，用户没法直观的去感受到， 觉得，只是做了还行的落地页搭建，相比其他产品也没有优势，就逐渐放弃了。&lt;/li&gt;
+&lt;li&gt;设置一个空链表 pre&lt;/li&gt;
+&lt;li&gt;遍历链表，每次先将链表的 next ，赋值给一个新的链表。&lt;/li&gt;
+&lt;li&gt;链表的 next 指向 pre 。&lt;/li&gt;
+&lt;li&gt;当前链表赋值给 pre 。&lt;/li&gt;
+&lt;li&gt;继续遍历 next 链表&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;项目复盘&lt;/h3&gt;
-&lt;p&gt;下面进入整个项目的复盘&lt;/p&gt;
-&lt;p&gt;问：为什么这个项目最终结果不怎么样？&lt;/p&gt;
-&lt;p&gt;答：因为这个项目在外人看来没有核心的特点，甚至相比于其他产品，更有点粗糙。也忽略 build in public 这个原则，导致很少人知道&lt;/p&gt;
-&lt;p&gt;问：这个项目是否本身就没有价值？&lt;/p&gt;
-&lt;p&gt;答：这个感觉看场景，因为在自己呆过的 2 个公司，都对这个项目有很大依赖程序，对业务的帮助很大。这个项目只适合有研发能力的 2B 公司，面向 C 端的这种开发能力，没有应用场景，反而将项目本身做的过于笨重&lt;/p&gt;
-&lt;p&gt;问： 这个项目为什么没有继续下去了？&lt;/p&gt;
-&lt;p&gt;答：因为这件事情已耗费了自己太多的精力和时间，而且也看不到这种自定义研发组件的功能的卖点对用户的吸引力，大部分用户也不需要。相比于其他的产品， 这件产品， 有点鸡肋， 做不了太复杂酷炫的效果。如果核心功能没有需求，感觉还是尽早放弃&lt;/p&gt;
-&lt;p&gt;问：这个项目持续了很长时间，为什么不先进行 MVP 原则开发，尽早失败？&lt;/p&gt;
-&lt;p&gt;答：MVP 原则其实自己一直都明白的， 但是，在这个项目实行起来却很难。因为这里的核心功能是自定义组件开发， 而这本身就是需要一套比较完善的技术方案来支撑，而不是简单 CRUD 的业务逻辑。所以，在构想以及优化这套技术方案，再去整合到整个平台中的时候，就耗费了很长的时间。因为不想用不成熟的技术推出去，为以后埋下一些坑。这也是因为自己的核心功能的定位，导致自己无法快速的推出以及验证&lt;/p&gt;
-&lt;p&gt;问：如果重新回到 2020 年开始的节点，会做出哪些不一样的抉择？&lt;/p&gt;
-&lt;p&gt;答：如果再回到那个时候，一定会先做最简单的版本，去实验一下，让别人体验这种自定义开发功能是否能符合市场。先做 PMF 。然后再决定是否进行投入。如果市场可行，重新设计方案都可以，而不是在市场未验证，却花费很多时间去做。&lt;/p&gt;
-&lt;h3&gt;一些总结&lt;/h3&gt;
-&lt;p&gt;从上面的分析看来， 其实，自己走进了一个闭门造车的怪圈。 加上自己因为的工作环境， 这件产品的确在公司当中有很高的价值，就盲目的意味，开发完成后就一定会有市场， 也忽略了前期的潜在用户的建设。&lt;/p&gt;
-&lt;p&gt;所以，本质上，还是自我认知的问题， 一件东西只有在合适的场景才会发生价值，在不一样的地方，就是一件很鸡肋的东西&lt;/p&gt;
-&lt;p&gt;通过这个项目，我学到了什么？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;首先第一点，就是不要自己认为有价值的东西，就一定有价值。先去市场上验证一下&lt;/li&gt;
-&lt;li&gt;别盲目去投入太多时间，超过半年的，就很不值得。&lt;/li&gt;
-&lt;li&gt;尽早做营销，build in public.  即使是半成品，主功能没问题，也要去看看有没有用户和市场&lt;/li&gt;
-&lt;li&gt;别将时间都押注在一个项目，同时做做其他的方向，因为，失败是大概率的事情&lt;/li&gt;
-&lt;li&gt;将这些项目当作随时可丢弃的副业， 别看太重，不然，一旦没有效果，会给自己造成很大压力&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;以上即是对自己经受 2 年的项目复盘，没有多么高深的东西，反正， 一些很常识的坑，我用亲身经历去趟过了。 都是自己的切身体悟，大家可以从中借鉴或学习或吐槽~&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:31:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980242#reply5</guid></item><item><title>[Windows] 求助： Windows 11 开始菜单打不开，更新卡在 22h2 09 无法更新。</title><link>https://www.v2ex.com/t/980241#reply0</link><description>&lt;p&gt;参考了一些方案，例如手动下载更新包安装，重启 explorer.exe 等等，仍没有解决。&lt;/p&gt;
-&lt;p&gt;基本都是从这两个搜索去尝试：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.google.com/search?q=windows+11+version+22h2+09+%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0&amp;amp;newwindow=1&amp;amp;sca_esv=571814303&amp;amp;sxsrf=AM9HkKmHoq3qGJxm9QYVjwlWu_BQTPpv0g%3A1696832847702&amp;amp;ei=T50jZeimKsbh2roP5YS8mAc&amp;amp;ved=0ahUKEwioioX5quiBAxXGsFYBHWUCD3MQ4dUDCBA&amp;amp;uact=5&amp;amp;oq=windows+11+version+22h2+09+%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0&amp;amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3dpbmRvd3MgMTEgdmVyc2lvbiAyMmgyIDA5IOaXoOazleabtOaWsDIIEAAYiQUYogQyBRAAGKIESJr8CFDV-QhY1fkIcAR4AZABAJgBVaABVaoBATG4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&amp;amp;sclient=gws-wiz-serp&amp;amp;bshm=rimc/1" rel="nofollow"&gt;https://www.google.com/search?q=windows+11+version+22h2+09+%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0&amp;amp;newwindow=1&amp;amp;sca_esv=571814303&amp;amp;sxsrf=AM9HkKmHoq3qGJxm9QYVjwlWu_BQTPpv0g%3A1696832847702&amp;amp;ei=T50jZeimKsbh2roP5YS8mAc&amp;amp;ved=0ahUKEwioioX5quiBAxXGsFYBHWUCD3MQ4dUDCBA&amp;amp;uact=5&amp;amp;oq=windows+11+version+22h2+09+%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0&amp;amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3dpbmRvd3MgMTEgdmVyc2lvbiAyMmgyIDA5IOaXoOazleabtOaWsDIIEAAYiQUYogQyBRAAGKIESJr8CFDV-QhY1fkIcAR4AZABAJgBVaABVaoBATG4AQPIAQD4AQHCAgoQABhHGNYEGLAD4gMEGAAgQYgGAZAGCg&amp;amp;sclient=gws-wiz-serp&amp;amp;bshm=rimc/1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.google.com/search?q=windows+11+%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95%E6%89%93%E4%B8%8D%E5%BC%80&amp;amp;newwindow=1&amp;amp;sca_esv=571814303&amp;amp;sxsrf=AM9HkKkhttM6OYtvwEF9C2KSBSIveCCKZA%3A1696833001569&amp;amp;source=hp&amp;amp;ei=6Z0jZfGrIPDm2roP6PSF4AM&amp;amp;iflsig=AO6bgOgAAAAAZSOr-eWm6ZnaSpF0wrz8GyuHsSIRe06m&amp;amp;oq=window&amp;amp;gs_lp=Egdnd3Mtd2l6IgZ3aW5kb3cqAggCMgQQIxgnMgQQIxgnMgcQIxiKBRgnMg0QABiKBRixAxiDARhDMgcQABiKBRhDMg0QABiKBRixAxiDARhDMg0QABiKBRixAxiDARhDMgcQABiKBRhDMgcQABiKBRhDMgcQABiKBRhDSOYmUABY-htwBngAkAEAmAF0oAGKBqoBAzguMbgBA8gBAPgBAagCCsICCxAAGIAEGLEDGIMBwgIHEAAYgAQYCsICBRAAGIAEwgIJEAAYigUYChhDwgIIEAAYywEYgATCAggQLhjLARiABMICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYigUYsQMYgwHCAgcQLhiKBRhDwgILEC4YgAQYxwEY0QPCAgcQIxjqAhgn&amp;amp;sclient=gws-wiz&amp;amp;bshm=rimc/1,rimc/1" rel="nofollow"&gt;https://www.google.com/search?q=windows+11+%E5%BC%80%E5%A7%8B%E8%8F%9C%E5%8D%95%E6%89%93%E4%B8%8D%E5%BC%80&amp;amp;newwindow=1&amp;amp;sca_esv=571814303&amp;amp;sxsrf=AM9HkKkhttM6OYtvwEF9C2KSBSIveCCKZA%3A1696833001569&amp;amp;source=hp&amp;amp;ei=6Z0jZfGrIPDm2roP6PSF4AM&amp;amp;iflsig=AO6bgOgAAAAAZSOr-eWm6ZnaSpF0wrz8GyuHsSIRe06m&amp;amp;oq=window&amp;amp;gs_lp=Egdnd3Mtd2l6IgZ3aW5kb3cqAggCMgQQIxgnMgQQIxgnMgcQIxiKBRgnMg0QABiKBRixAxiDARhDMgcQABiKBRhDMg0QABiKBRixAxiDARhDMg0QABiKBRixAxiDARhDMgcQABiKBRhDMgcQABiKBRhDMgcQABiKBRhDSOYmUABY-htwBngAkAEAmAF0oAGKBqoBAzguMbgBA8gBAPgBAagCCsICCxAAGIAEGLEDGIMBwgIHEAAYgAQYCsICBRAAGIAEwgIJEAAYigUYChhDwgIIEAAYywEYgATCAggQLhjLARiABMICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYigUYsQMYgwHCAgcQLhiKBRhDwgILEC4YgAQYxwEY0QPCAgcQIxjqAhgn&amp;amp;sclient=gws-wiz&amp;amp;bshm=rimc/1,rimc/1&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:30:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980241#reply0</guid></item><item><title>[问与答] 如何认为损坏显卡，然后不被检测出是人为损坏的</title><link>https://www.v2ex.com/t/980240#reply8</link><description>&lt;p&gt;2021 年末，朋友叫帮他抢京东显卡，微星的超龙 x3070 ，价格为 5969 （究极溢价），帮他抢到后，朋友又被他女朋友威胁，说了不退就分手，我朋友是龟男，就突然不要了，只好叫我退，当时听说这种电子产品退了之后就黑号了，想了一下就直接自己用了，用了发现，平时也不怎么玩游戏，想出了，就去闲鱼出了，直接究极大砍刀，砍得我不想出了，然后，逛贴吧看到有兄弟的显卡坏了，送去京东维修，然后修不好，并且该商品下架了，客服就打了 8 折叫你选其他的产品，当时矿潮都是溢价很多买的，所以就算打了 8 折也远超 40 系同等卡，然后加了点钱换了个 4070ti ，直接起飞，我就在想我能不能这样搞一手，然后出了，v 站人才多，能否给我出一下主意&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:29:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980240#reply8</guid></item><item><title>[酷工作] [杭州] 钉钉急招前端，部门直招，急需大佬</title><link>https://www.v2ex.com/t/980238#reply0</link><description>&lt;p&gt;官方的 JD 在这里：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://talent-holding.alibaba.com/off-campus/position-detail?lang=zh&amp;amp;positionId=1030714" rel="nofollow"&gt;https://talent-holding.alibaba.com/off-campus/position-detail?lang=zh&amp;amp;positionId=1030714&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;上面链接的职位要求和描述都比较简单，因为是整个大部门的 JD 链接。至于前端岗位的要求的话，详细内容如下：&lt;/p&gt;
-&lt;p&gt;职位描述：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;负责钉钉终端业务模块的开发，既快又好保障业务成功。&lt;/li&gt;
-&lt;li&gt;参与客户调研，需求讨论，方案设计，高质量和高效率的实现满足客户需求的产品。&lt;/li&gt;
-&lt;li&gt;保障所负责的产品在安全性、稳定性、性能体验（如秒开、流畅度、内存等）等方面具有一流的水准。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;职位要求：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;2 年以上前端开发经验，熟练掌握主流前端框架，对性能调优有经验者优先&lt;/li&gt;
-&lt;li&gt;擅长 Javascript 、CSS 、HTML 、Typescript 等前端技术栈，有跨平台研发经验者优先&lt;/li&gt;
-&lt;li&gt;具备优秀的逻辑思维能力、沟通能力、抗压能力、情绪控制能力等&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;base 地是杭州，岗位职级是 P6 。乌鸫岗位也有在招，也可以投简历过来看看。具体薪酬福利大家网上搜一下就大概知道什么范围。&lt;/p&gt;
-&lt;p&gt;感兴趣的请直接简历发到我的邮箱：atob('eHlzbGl2ZUBnbWFpbC5jb20=')&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:25:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980238#reply0</guid></item><item><title>[电动汽车] 小鹏 p5 vs 零跑 c11</title><link>https://www.v2ex.com/t/980237#reply1</link><description>&lt;p&gt;这俩车对比咋样啊？有没有什么坑？零跑还有一个 c10 ，还没发布价格，据说是年底发，是这俩还是在等等？ or 下个月华为长安合作的轿车？&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:22:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980237#reply1</guid></item><item><title>[程序员] 使用 AIGC 查询报表数据？</title><link>https://www.v2ex.com/t/980235#reply0</link><description>之前就很早有一个想法就是能不能通过 chatGTP 帮我翻译成对应数据库查询语句，这样对运营相关人员查询报表数据使用门槛会更低一些，也可以减轻很多开发工作，没想到已经有人在搞这个了 &lt;a href="https://github.com/chat2db/Chat2DB" rel="nofollow noopener" target="_blank"&gt;https://github.com/chat2db/Chat2DB&lt;/a&gt;</description><pubDate>Mon, 09 Oct 2023 06:17:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980235#reply0</guid></item><item><title>[Netflix] 土区长期车，目前有一位长租，余两个空位</title><link>https://www.v2ex.com/t/980234#reply0</link><description>加上车主最后一共 4 人用，之前在爱合租发车的，这平台貌似倒闭了，坑我钱呢。&lt;br /&gt;    合租费用每月 11 块，月付季付咋都行，微信加我 lujiang1018 ，希望长期使用。</description><pubDate>Mon, 09 Oct 2023 06:15:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980234#reply0</guid></item><item><title>[分享创造] [限免] DateTracker - 简约实用的日期追踪和管理应用</title><link>https://www.v2ex.com/t/980233#reply1</link><description>&lt;p&gt;大家好！&lt;/p&gt;
-&lt;p&gt;我想向大家介绍一个非常实用的 Mac 应用  - DateTracker ，原价为 ¥3 ，但现在您可以免费获取它！&lt;/p&gt;
-&lt;p&gt;当您需要追踪和管理重要日期时，DateTracker 是您的理想选择。我们为您提供了一个朴实无华的应用，专注于最基本的需求：日期追踪。无论是重要的倒数日还是值得庆祝的纪念日，DateTracker 都能满足您的需求。&lt;/p&gt;
-&lt;p&gt;主要功能包括：&lt;/p&gt;
+&lt;p&gt;整理好解题思路后，根据解题写出以下代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode cur = head;
+        ListNode pre = null;
+        while(cur != null) {
+            ListNode next = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = next; 
+        }
+        return pre;
+
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;19.删除链表的倒数第 N 个结点（中等）&lt;/h2&gt;
+&lt;h3&gt;题目描述&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://user-images.githubusercontent.com/11553237/131985085-7b08d786-e2c0-4267-b9f1-9859132a9365.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;解法&lt;/h3&gt;
+&lt;p&gt;类似链表删除结点，都是修改指针指向的结点，比如删除 4 结点，就需要将 4 节点之前的结点的指针，指向 4 的下一个结点。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/34b861aa-8af5-4779-9b19-e4f40e6b17ab.png" /&gt;&lt;/p&gt;
+&lt;p&gt;解题的关键点就是找到结点的位置，并修改指针的指向，使用 &lt;code&gt;node.next = node.next.next&lt;/code&gt; 即可修改指针的指向。找到结点的位置需要找到链表的长度，然后遍历链表，找到对应结点并修改指针。如果移除的是首结点，就找不到上一个结点，所以需要设置一个伪结点。总结一下解题思路：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;正数和倒数目标日期：无论您是在期待一个特殊的事件还是在倒数一个重要的截止日期，DateTracker 都能帮助您精确计算剩余时间。&lt;/li&gt;
-&lt;li&gt;每年、每月、每周、每天的循环提醒：确保您不会错过周期性的事件或任务，我们提供了多种提醒选项，以适应各种需求。&lt;/li&gt;
-&lt;li&gt;桌面小组件：轻松地将您最重要的日期信息显示在您的桌面上，以便随时查看，无需打开应用程序。&lt;/li&gt;
-&lt;li&gt;完美适配 macOS 14：我们为最新的 macOS 14 版本进行了优化，以确保您在使用 DateTracker 时享受到最佳的性能和用户体验。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;不会联网传输数据，完全本地应用&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;创建伪结点，next 指向链表。首结点就是一个为伪结点。&lt;/li&gt;
+&lt;li&gt;遍历链表获取链表长度。&lt;/li&gt;
+&lt;li&gt;获取结点位置就是 L-n+1 。&lt;/li&gt;
+&lt;li&gt;遍历链表，找到前一个结点的位置，也就是 L-n 的结点的 next 指向 next.next.返回伪结点的 next 结点。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;DateTracker 的简洁界面和易用性使您能够迅速添加、管理和追踪日期，而无需繁琐的步骤。无论是生日、假期、工作截止日期还是任何其他重要日期，DateTracker 都将成为您的可靠伙伴。&lt;/p&gt;
-&lt;p&gt;下载链接：
-&lt;a href="https://apps.apple.com/cn/app/datetracker/id6467618381?mt=12" rel="nofollow"&gt;https://apps.apple.com/cn/app/datetracker/id6467618381?mt=12&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:15:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980233#reply1</guid></item><item><title>[问与答] 大家看英文资料遇到不认识但不影响整体语义理解的单词都是怎么处理的？</title><link>https://www.v2ex.com/t/980231#reply8</link><description>&lt;p&gt;是立即停下来查一下意思，记到单词本上。还是先标注一下，等看完一起查，一起记录。&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:14:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980231#reply8</guid></item><item><title>[iPhone] 求推荐， iPhone 13 系列 还是 iPhone 14 系列 还是 iPhone 15 系列</title><link>https://www.v2ex.com/t/980230#reply2</link><description>&lt;p&gt;本人手持 XR ，实在是有些落伍了&lt;/p&gt;
-&lt;p&gt;可以考虑二手，并且 iPhone 这几年挤牙膏，所以 13 也加入选择&lt;/p&gt;
-&lt;p&gt;需求如下：&lt;/p&gt;
-&lt;p&gt;1 、追求性价比&lt;/p&gt;
-&lt;p&gt;2 、王者最高画质稳定 120HZ&lt;/p&gt;
-&lt;p&gt;3 、拍照有画面就行&lt;/p&gt;
-&lt;p&gt;4 、不喜欢看地球&lt;/p&gt;
-&lt;p&gt;5 、双卡、5G&lt;/p&gt;
-&lt;p&gt;6 、屏幕大小无所谓&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:12:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980230#reply2</guid></item><item><title>[Google] 为什么谷歌快照中，没有搜索结果中高亮的内容？</title><link>https://www.v2ex.com/t/980229#reply0</link><description>&lt;p&gt;举例来说：&lt;/p&gt;
-&lt;p&gt;我尝试搜索关键词"愚蠢的自私之恶"，看到若干个搜索结果。&lt;/p&gt;
-&lt;p&gt;我直接点进去查看，毫无疑问，答案已经被删除了（不然不会去找快照）。&lt;/p&gt;
-&lt;p&gt;当我尝试去查看快照，我发现快照中的内容与搜索结果中的摘要内容也不一样。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/K80wU37L.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/4vm6pl2u.png" /&gt;&lt;/p&gt;
-&lt;p&gt;我有如下猜想：&lt;/p&gt;
-&lt;p&gt;同一个 url ，谷歌快照有多份。搜索时，会在摘要中展示与关键字相关的快照内容。但是当查看该结果快照时，只能查看最后的快照。&lt;/p&gt;
-&lt;p&gt;那么如何查看搜索结果摘要中对应的那个快照呢？&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 06:06:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980229#reply0</guid></item></channel></rss>
+&lt;p&gt;有了思路，写代码就快了：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode cur = head;
+		int length = 0;
+		while(cur != null) {
+			cur = cur.next;
+			length++;
+		}
+		int index = 1;
+		int sub = length - n + 1;
+		ListNode dummy = new ListNode(1,head);
+		cur = dummy;
+		while(cur != null) {
+			if(index == sub) {
+				cur.next = cur.next.next;
+				break;
+			}
+			cur = cur.next;
+			index++;
+		}
+		return dummy.next;
+    }
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;141.环形链表（简单）&lt;/h2&gt;
+&lt;h3&gt;题目描述&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://user-images.githubusercontent.com/11553237/132037638-b1576681-241e-44ad-b0d8-aeaa0e63c277.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;解法&lt;/h3&gt;
+&lt;p&gt;环形链表表示链表的某个结点可以通过连续 next 指针再次被遍历到。所以需要做个查重的功能，如果存在重复的结点，就说明链表是一个环形链表。而查重使用 hash 表即可，汇总一下解题思路：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;遍历结点，将结点添加到 hash 表中。&lt;/li&gt;
+&lt;li&gt;如果在添加数据时发现结点已存在，说明链表是环形链表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;public class Solution {
+    public boolean hasCycle(ListNode head) {
+        Set&amp;lt;ListNode&amp;gt; set = new HashSet&amp;lt;&amp;gt;();
+		while (head != null) {
+			if (!set.add(head)) {
+				return true;
+			}
+			head = head.next;
+		}
+        return false;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;set 的 add 的方法判断是否存在相同的元素，其实是使用 HashMap 的 put 方法，返回之前的数据，如果之前数据不存在就返回 null 。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;21.合并两个有序链表（简单）&lt;/h2&gt;
+&lt;h3&gt;题目描述&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/8228700d-590c-4956-bcf2-24d5c21577d4.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;解法&lt;/h3&gt;
+&lt;p&gt;单链表查找结点是需要一个一个往后指针找结点，合并链表的，如果在原来的基础上添加结点就需要不断的遍历结点，合并的链表使用一个新的链表存储。首先找到最小的数据，然后结点存储到新链表，同时断开结点的 next 。如下图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/3dcdb02e-0025-42d7-b457-5c223d086d21.png" /&gt;&lt;/p&gt;
+&lt;p&gt;先找到最小的结点，然后新链表（蓝色部分）指向小的结点，然后断开 next 指针。之后的重复类似的步骤。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/f869a0ad-c511-464a-8085-460c4733efd4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;需要考虑到如果某个链表遍历结束了，但是其他链表还有值，就需要遍历非空链表的数据了，最终总结题解的步骤：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定义一个新的链表 node ，存储合并的链表。&lt;/li&gt;
+&lt;li&gt;找到最小的结点，新的链表的 next 指向新的结点，并将找到的链表的 next 断开。&lt;/li&gt;
+&lt;li&gt;重复遍历链表，找到最小的节点，直到某个链表为空。&lt;/li&gt;
+&lt;li&gt;一个链表为空，另外不为空，就将链表直接赋值个新链表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;代码如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode node = new ListNode(0);
+		ListNode last = node;
+		while (l1 != null &amp;amp;&amp;amp; l2 != null) {
+			if (l1.val &amp;lt; l2.val) {
+				last.next = l1;
+				l1 = l1.next;
+			} else {
+				last.next = l2;
+				l2 = l2.next;
+			}
+			last = last.next;
+		}
+		if (l1 != null) {
+			last.next = l1;
+		}
+		if (l2 != null) {
+			last.next = l2;
+		}
+		return node.next;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;p&gt;链表相对数组来说，在定义的时候不需要确定好内存大小，因为链表的通过指针可以存储非连续空间的数据。链表的查询需要通过指针一个个找到对应的结点，而不能像数组一样通过索引直接找到对应的数据。在 JDK 中也会使用双链表，双链表更占内存，因为多了一个指针，带来的好处是查询数据可以从前往后查，也可以从后往前查，&lt;strong&gt;用空间换时间&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;主要介绍了几种常见的链表算法：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+反转链表&lt;ul&gt;
+&lt;li&gt;反转指针方向，结点数据不会改变。 拆分一下数据，1—&amp;gt;2,先将 1 取出来，将 1 作为新链表的头结点，然后再将 2 取出，作为头结点，并指向新的 1 ，此时就完成 2 -&amp;gt; 1 的过程，后续结点以此类推。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+删除链表的倒数第 N 个结点&lt;ul&gt;
+&lt;li&gt;关键点事要找到要删除的位置，倒数第 N 的节点，也就是链表长度 L-n+1,再修改指针，&lt;strong&gt;将自己上一个结点的指针指向自己节点的下一个结点&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+环形链表&lt;ul&gt;
+&lt;li&gt;环形链表表示存在相同的链表结点，遍历链表，存储在 hash 表，如果存在相同的结点就是环形链表。 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+合并两个有序链表&lt;ul&gt;
+&lt;li&gt;先找到两个链表最小的结点，新的链表指向最小结点，对应的链表去掉指向的结点，以此类推，直到遍历完某个链表。此时如果别的链表不为空，直接指向该链表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;如果感觉不错的话，可以关注一下我的公众号！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/29864/095c0ff7-33bb-4ced-88bf-2e01f0782ed0.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980433#reply0</guid></item><item><title>[旅行] 国庆之乌孙古道重装徒步 day3</title><link>https://www.v2ex.com/t/980432#reply0</link><description>&lt;h3&gt;今日目标&lt;/h3&gt;
+&lt;p&gt;今天主要体验就是过河&lt;/p&gt;
+&lt;h3&gt;行程&lt;/h3&gt;
+&lt;p&gt;早上依旧是 7 点起床，老天对我们还算是可以，早上起来雨已经停了，算是方便我们收帐篷，早起抬头就能看到雪山，月亮也还是很亮，等我们收拾完东西，刚好又看到了日照进山
+&lt;img alt="早起 2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/y8pXFW3oL9OhUe2.jpg" /&gt;
+&lt;img alt="早起 3.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/NhARpdFSMLKg6Y1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;今天先是沿着河谷一路向下走，因为现在不是雨季了，水流小了很多，所以，上午在过河时，基本都可以踩石头或者木头过河。
+&lt;img alt="微信图片_20231009230149.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/k9GEblrFvRDqtsV.jpg" /&gt;
+&lt;img alt="科科 1.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/IO3UypuRNWtXjwC.jpg" /&gt;
+&lt;img alt="科科 2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/QR64KEeIiMYSLkH.jpg" /&gt;
+&lt;img alt="科科 7.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/AUyzYtOiNa3eHD6.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;大概走了五公里，就来到科克苏河旁边，在这里我们捡到了新队友---荒野求生哥，为什么叫他这个名字呢，他单人 solo 的，本来以为国庆会碰到很多队友，没想到进来后两天都没有遇到一个人，我算是他遇到的第一个队友，因为我是红色衣服，比较显眼，他说看到我就想看到一束光。
+&lt;img alt="科科 1.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/IO3UypuRNWtXjwC.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;他只带了一个充电宝，第二天手机没电，导致走错了两个小时的路，等回到正轨已经天黑，而且还下雨，他就直接在山洞里扎营了。而且他还直接拿帐篷地钉当作筷子，真的是荒野求生了。&lt;/p&gt;
+&lt;p&gt;接着沿着科克苏河走了几公里，我们来到一处河滩稍作停留，大家一起捡石头，打水漂，有的石头真的很好看，自己也挑选了几块带了回来。
+&lt;img alt="科科 5.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/5k1FpcHYPsnNL3a.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;然后继续出发。
+&lt;img alt="科科 3.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/yEVJWte1bOinKr6.jpg" /&gt;
+&lt;img alt="科科 4.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/RylkOvSazXTKJMe.jpg" /&gt;
+&lt;img alt="科科 6.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/RwqxyLiorHvNQ2D.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;因为昨晚下雨，我们帐篷也都是潮湿的，所以到了科克苏河溜索处，我们停留了一个多小时，来晒帐篷。(科克苏河因为水流比较急，河面宽，所以不太好过，只能借助这个河边有一户牧民的溜索过河，200 一个人，虽然贵，但是没办法,还听说这户牧民靠溜索还有卖东西，一年就能赚 200w ，这里还有一些补给可以卖，可乐 15 ，抓饭 30 等)。
+&lt;img alt="晒帐篷.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/reixuJNtaoz4HZK.jpg" /&gt;
+我们把帐篷拿出来晒了晒，然后大家一起到河边泡了泡脚，这个水是真的冰，第一次也不过是坚持了 10 来秒，就被冻得不行
+&lt;img alt="泡脚.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/SExlvZQcqiUsBP1.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;过完溜索后，就又是各种过河了，下午得河流比较急，也比较深，所以只能涉水过河。
+&lt;img alt="过河 2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/tM23mrsONGZnbp8.jpg" /&gt;
+&lt;img alt="过河 3.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/jJXz8cLiZ32yglQ.jpg" /&gt;
+&lt;img alt="树林 1.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/iQZVUcLmDjR7bue.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;在经过了数不清得河流，还有烂泥路，终于在下午 6 点多抵达了营地，今天得营地又是面向雪山得五星营地。今天还拿出了我从第一天背到现在的大乌苏。
+&lt;img alt="营地 1.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/KCiS9Et6s5yrhOU.jpg" /&gt;
+&lt;img alt="营地 2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/Gary2UMLhqW7XoC.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;今天还有幸尝到了队友带来的新鲜青椒炒鸡蛋，不用吃自热米饭的一天。
+&lt;img alt="青椒炒蛋.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/09/Taty4UhelEZDq6W.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 09 Oct 2023 15:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980432#reply0</guid></item></channel></rss>
