@@ -1,80 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 11 Oct 2023 01:28:47 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Google 支付也要地区身份认证了？</title><link>https://www.v2ex.com/t/980854#reply0</link><description>&lt;p&gt;早上收到邮件，要求验证账号付费信息，其中就是关于身份认证的。&lt;/p&gt;
-&lt;p&gt;几年前用香港的付费信息购买了 GCloud 中的云服务器。&lt;/p&gt;
-&lt;p&gt;偶然在安卓模拟器上玩游戏时，会使用香港的付费信息给游戏冲钱。&lt;/p&gt;
-&lt;p&gt;今年我在土区增加了付费信息，并开了 Youtube Premium ，不是家庭版，只是个人。&lt;/p&gt;
-&lt;p&gt;看这架势说，不处理这个,“&lt;strong&gt;您将无法通过此帐号与您可能使用的任何产品（例如 Play 、Google Ads 、AdSense 、G Suite 等等）互动。&lt;/strong&gt;”&lt;/p&gt;
-&lt;p&gt;不过上面说的这些东西，好像对我影响都不大。这就很奇怪。大家有没有收到该邮件，收到了的又是怎么处理的呢？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="邮件" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/10/11/baac00f739433.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;需要填写的资料&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="需要填写的资料" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/10/11/66eecb4e1b594.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我已经有的付费信息&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="我的付费信息" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/10/11/f191e7379020b.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:26:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980854#reply0</guid></item><item><title>[问与答] 支付宝默认大陆用户去除切换国际版的按钮，有办法去除理财按钮，或者让账户拥有切换国际版的权限吗</title><link>https://www.v2ex.com/t/980853#reply0</link><description>&lt;p&gt;如题，顺便出白色 Google TV ，160 包邮&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:25:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980853#reply0</guid></item><item><title>[问与答] 除了官网，哪里有卖 magsafe3 充电线？</title><link>https://www.v2ex.com/t/980852#reply0</link><description>&lt;p&gt;哪里有卖 magsafe3 充电线？淘宝看了一圈没有什么第三方可买的&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:23:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980852#reply0</guid></item><item><title>[iOS] iOS 怎么使用 AirPods 的麦克风进行录制</title><link>https://www.v2ex.com/t/980851#reply0</link><description>&lt;p&gt;在搞一个录音功能，其他蓝牙麦克风是正常的，用 AirPods 录制的话就没有声音。需要什么额外的配置吗？如果无法实现，怎么检测是 AirPods 呢。&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:23:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980851#reply0</guid></item><item><title>[iCloud] Icloud 土区 2=3</title><link>https://www.v2ex.com/t/980850#reply0</link><description>&lt;p&gt;有想法开 icloud 2t 的&lt;br /&gt;
-各个区都可以加入&lt;br /&gt;
-大概季付 27
-先看看有没有人  有人的话  这 2 天大概就会开车&lt;br /&gt;
-现在是 200g 套餐  13 号变更成 2t 的&lt;br /&gt;
-有人要上车吗&lt;br /&gt;
-绿色软件:  MTc2MjUzMzQxMjA=&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:22:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980850#reply0</guid></item><item><title>[分享创造] 我把 chatgpt 弄到微信公众号里去了</title><link>https://www.v2ex.com/t/980849#reply2</link><description>&lt;p&gt;如题，之前用过的一些套皮 chatgpt ，都需要打开第三方网站或者小程序，其实这样并不是很方便，所以花了点时间，申请了一个微信公众号，把 chatgpt 弄到了公众号的后台里，使用户可以使用原生的微信进行 chatgpt 作业，大大方便了用户。&lt;/p&gt;
-&lt;p&gt;如图：
-&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Iaj2kaR.jpg" /&gt; &lt;/p&gt;
-&lt;p&gt;目前还处于测试阶段，不过基本的功能已经能够使用，是完全免费的。各位对这个感兴趣可以关注使用一下，下面是公众号的二维码，如果遇到了 bug 可以加入 QQ 群(869255656)反馈一下。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/pYKGnLq.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:18:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980849#reply2</guid></item><item><title>[前端开发] Reactjs 官网在推荐使用 vite 构建老式前后端分离应用，有无大佬来分享 vite 使用经验和感受呢？</title><link>https://www.v2ex.com/t/980848#reply0</link><description>&lt;p&gt;由于我的应用主要服务于传统行业，金融行业客户，有大量的 IE 用户。如果再有新项目，适合切换到 vite 吗?&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:16:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980848#reply0</guid></item><item><title>[硬件] 不想继续在罗技的鼠标坑里面了，求推荐 M590 替代品</title><link>https://www.v2ex.com/t/980847#reply4</link><description>&lt;p&gt;大家好，帮忙推荐下无线鼠标吧，关注点如下：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 11 Oct 2023 14:28:13 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iPhone] 经过一番研究，有没有靠谱的二手机渠道推荐。</title><link>https://www.v2ex.com/t/981130#reply2</link><description>觉得 14Pro Max 性价比更高，老哥们有没有靠谱的二手渠道推荐。</description><pubDate>Wed, 11 Oct 2023 14:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981130#reply2</guid></item><item><title>[问与答] 使用两台服务器同时获取一个服务的多种内容是否可行？</title><link>https://www.v2ex.com/t/981129#reply1</link><description>小弟的网络受限，无法访问境内的视频网站，例如 &lt;a href="http://www.iqiyi.com" rel="nofollow noopener" target="_blank"&gt;www.iqiyi.com&lt;/a&gt;, &lt;a href="http://www.bilibili.com" rel="nofollow noopener" target="_blank"&gt;www.bilibili.com&lt;/a&gt;, &lt;a href="http://v.qq.com" rel="nofollow noopener" target="_blank"&gt;v.qq.com&lt;/a&gt; 。&lt;br /&gt;&lt;br /&gt;恰好，手上有两台服务器，一台国内服务器，一台国外 CN2 线路的服务器，于是想代理上网。&lt;br /&gt;&lt;br /&gt;很不巧，国内服务器的月流量很少，不够用。很幸运，国外服务器的月流量很足，而且访问这些视频网站都很快。&lt;br /&gt;&lt;br /&gt;但是，因为种种因素，我没办法通过国外服务器全局代理访问这些视频网站。&lt;br /&gt;&lt;br /&gt;经过观察，我发现，观看哔哩哔哩上的视频，*.bilivideo.* 和 *.*.bilivideo.* 这两个主机会消耗大量流量，我猜想这是因为机器会从这两个主机获取流媒体数据。&lt;br /&gt;&lt;br /&gt;由此看来，如果我要观看哔哩哔哩上的视频，似乎可以使用国外服务器代理这两个主机，使用国内服务器代理其他主机，从而兼得流量与访问。&lt;br /&gt;&lt;br /&gt;不知道这个方案是否可行，会不会有异地登录、账号封禁等风险，求大神解答。</description><pubDate>Wed, 11 Oct 2023 14:12:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981129#reply1</guid></item><item><title>[宽带症候群] 如何评价 ikuai 官方设备被锁外网</title><link>https://www.v2ex.com/t/981128#reply0</link><description>&lt;p&gt;如图所示，该机主在 PDD 购买的 ikuai 官方设备，因为是非授权地区而被锁外网
+不理解为什么经销问题需要用户来承担成本
+黑历史也不是一次两次了
+&lt;img alt="20231011220416.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/11/K3HeYCGAPcQmtUf.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 14:08:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981128#reply0</guid></item><item><title>[酷工作] [日本] [招人] [没有语言能力要求] [ Java 后端 (3 高 7 中) 10 个人][前端开发（1 高 2 中）3 人] [unity 游戏方向 3 人]</title><link>https://www.v2ex.com/t/981127#reply2</link><description>&lt;p&gt;日本是财团制的裙带资本主义，我们公司也是属于财团中的一个而已，区块链的业务会成立新的公司，所以不要再问我公司规模有多大了~拜托~&lt;/p&gt;
+&lt;p&gt;关于集团：
+公司财团内部有医院，有饭店，有民俗酒店，还有软件外包业务（不是人力外派，是项目的外包，比如政府的标），上述业务涉及到东南亚（主要是菲律宾，马来西亚，真不去缅甸），日本，韩国，以及欧洲一些小国（葡萄牙，瑞士之类），集团流水现在每个月保守估计大概 20 亿日元。&lt;/p&gt;
+&lt;p&gt;关于身份：
+来了会尽量帮你搞高度人才，80 分 1 年拿绿卡 70 分 3 年拿绿卡，是积分制的（虽然会帮你想办法搞分，但是你分不够~我是真没办法）
+不满足高度人才的看你自身资历，普通工作签证是 3-5 年。&lt;/p&gt;
+&lt;p&gt;关于工作方式：
+直飞大阪，不会缅甸转机。。。不要求任何语言能力！不要求任何语言能力！不要求任何语言能力！
+（ HP 后勤之类的 30%是日本人，基本的开发 70%是中国人，这个 70%里面又有 30%是台湾人）&lt;/p&gt;
+&lt;h2&gt;投递方式：
+Y2FiYmFnZWRldmlsMTYzQGdtYWlsLmNvbQ==&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://www.v2ex.com/t/977098#reply20" rel="nofollow"&gt;https://www.v2ex.com/t/977098#reply20&lt;/a&gt;
+&lt;a href="https://www.v2ex.com/t/967756#reply36" rel="nofollow"&gt;https://www.v2ex.com/t/967756#reply36&lt;/a&gt;
+这是之前的招聘链接，已经完结，现在开启新的招聘流程，这次有了前后端的岗位了，欢迎大家投递&lt;/h2&gt;
+&lt;p&gt;[ java 后端 ]
+[薪资待遇] ：3 个高级开发 HC 1000W-700W ，7 个中级开发 HC 800W-500W
+[岗位职责] ：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;俩侧键功能键（我 AHK 用来 ctrl+ins shift+ins ），其它同等替代方案也行&lt;/li&gt;
-&lt;li&gt;罗技的滚轮体验（较主观，可以无视）&lt;/li&gt;
-&lt;li&gt;前几天看站友讨论，搜了下 lift 垂直鼠标也看到 M575 轨迹球鼠标，本来准备试下的&lt;/li&gt;
-&lt;li&gt;接受一定颜值溢价&lt;/li&gt;
+&lt;li&gt;负责需求对接、需求分析、技术选型、技术实现方案，以及开发计划；&lt;/li&gt;
+&lt;li&gt;负责核心模块设计，主导项目开发，合理进行任务分工和进度把控；&lt;/li&gt;
+&lt;li&gt;审核测试总体方案，不断优化提升项目质量和用户体验，撰写相关技术文档；&lt;/li&gt;
+&lt;li&gt;对上线产品做好全程技术支撑，及时分析解决客户问题或隐患问题，能对技术风险进行提前预判；&lt;/li&gt;
+&lt;li&gt;做好源码版本管理，可能需要指导初级开发人员开发。
+职位要求：&lt;/li&gt;
+&lt;li&gt;计算机相关专业全日制本科及以上学历&lt;/li&gt;
+&lt;li&gt;具有 Java 开发 5 年以上编码经验，熟悉 Java 设计模式，扎实的 Java 基础，良好的编码习惯；&lt;/li&gt;
+&lt;li&gt;熟悉 mysql 数据库，Elasticsearch ，熟练使用 sql 语句； &lt;/li&gt;
+&lt;li&gt;熟悉 spring boot 、netty 、spingcloud 、redis 、nginx 、json 等技术；&lt;/li&gt;
+&lt;li&gt;熟练使用 IDEA 、Git 、maven 、Jenkins 等常见工具和技术；&lt;/li&gt;
+&lt;li&gt;熟练使用 Shiro 、apache Security 安全架构、MyBatis 、MQ 等技术；&lt;/li&gt;
+&lt;li&gt;熟悉 redis 、kafka 、nginx 、docker 等，熟悉常用的 linux 命令，能进行系统部署和基本运维操作&lt;/li&gt;
+&lt;li&gt;熟练使用 VUE 前端框架，理解 VUE 框架原理，对 flutter 等有一定了解&lt;/li&gt;
+&lt;li&gt;熟悉 Jmeter 等测试工具，良好的软件品质意识，能够积极协同测试工作，需要具有一定的抗压能力；&lt;/li&gt;
+&lt;li&gt;有互联网大厂背景优先，985 、211 、研究所优先；&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr /&gt;
+&lt;p&gt;[ 前端开发 ]
+[薪资待遇] ：1 个高级开发 HC 1000W-700W ，2 个中级开发 HC 800W-500W
+[岗位职责] &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;搜了下京东订单，9 个单，我自己就 3 个 M325+3 个 M590 ，印象中 51buy 和亚马逊也买过 M325 ，大概都是两年坏微动，本来当成消耗品也还行，但是看到网上批评罗技"故意"使用劣质部件的信息，印象坏了。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;logi option&lt;/code&gt; 也是太差，最后自己学了 AHK 设置改键，软件依赖无了。&lt;/li&gt;
-&lt;li&gt;1 年 7 个月的 M590 有连接故障，京东反馈，过保，没地修，不到 2 年就这样太超出我的忍耐范围了，准备脱离罗技的坑了。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Wed, 11 Oct 2023 01:16:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980847#reply4</guid></item><item><title>[问与答] 特斯拉的單踏板模式真這麼絲滑嗎</title><link>https://www.v2ex.com/t/980846#reply2</link><description>&lt;p&gt;今天上班，遇到了一輛特斯拉，他的尾燈就沒亮過&lt;/p&gt;
-&lt;p&gt;跟了有 15 分鐘左右，中間經歷了下坡，下匝道。&lt;/p&gt;
-&lt;p&gt;是他的燈壞了，還是真就這麼絲滑；
-從一條高架上換到另一條高架上的弧形彎道也沒有亮煞車燈，但是有感覺到他的車速降低了&lt;/p&gt;
-&lt;p&gt;我國慶在高速上開 haval h6 ，使用全速自適應巡航的時候，有點類似單踏板：當跟車距離太近了，我鬆掉油門，他會自動減速，但是我感覺這個減速肯定是要亮尾燈的，再踩點油門才不會那麼迫切的減速。說實話體驗不是太好，他煞車太急了。&lt;/p&gt;
-&lt;p&gt;跟我今天看到的特斯拉這種完全不一樣😂&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:15:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980846#reply2</guid></item><item><title>[问与答] 算法工程师如何应对 35 岁职场危机，出路是什么？</title><link>https://www.v2ex.com/t/980845#reply0</link><description></description><pubDate>Wed, 11 Oct 2023 01:15:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980845#reply0</guid></item><item><title>[站长] 做了一个乘法表的网站</title><link>https://www.v2ex.com/t/980844#reply3</link><description>&lt;p&gt;地址如下： &lt;a href="https://multiplication-chart.info/" rel="nofollow"&gt;https://multiplication-chart.info/&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;发现海外居然默认不是九九乘法表，而是 12x12 的格式，另外 10x10 的也比较普遍。
-加个一个生成练习题的功能，可以下载成 pdf ，纯简单静态页面！&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:13:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980844#reply3</guid></item><item><title>[问与答] 有什么每天可以额外挣几十块钱的事情做</title><link>https://www.v2ex.com/t/980843#reply15</link><description>&lt;p&gt;积少成多&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:13:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980843#reply15</guid></item><item><title>[问与答] API Gateway 和 Casbin 哪个管理接口好一点？</title><link>https://www.v2ex.com/t/980842#reply0</link><description>&lt;p&gt;之前用的 cabin ，只能控制接口，不能控制接口传参&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:12:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980842#reply0</guid></item><item><title>[问与答] 现在像 7B/13B 这类大模型，推理加速用的什么框架？</title><link>https://www.v2ex.com/t/980840#reply0</link><description>&lt;p&gt;有专门做这块落地的大佬吗？&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:10:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980840#reply0</guid></item><item><title>[Windows] 一觉醒来 Copilot(PRE) 已经来到了 Win11</title><link>https://www.v2ex.com/t/980839#reply2</link><description>&lt;p&gt;本来还以为有什么山寨软件新出现在状态栏，像是独立出的 bing chat
-&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/10/11/b8iFLn.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img2" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/10/11/4uXPFZ.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 01:10:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980839#reply2</guid></item><item><title>[问与答] 有能修改苹果手机定位的软件吗？系统升级到 IOS17 后，原来用的一个不支持了</title><link>https://www.v2ex.com/t/980838#reply1</link><description></description><pubDate>Wed, 11 Oct 2023 01:02:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980838#reply1</guid></item><item><title>[宽带症候群] 关于上网一件奇怪的事情……</title><link>https://www.v2ex.com/t/980837#reply2</link><description>&lt;p&gt;我在路由器部署了 ADGuard Home 和 OpenClash 。顺序是 53 端口跳转 ADG ，ADG 上游 DNS 为 OC 。&lt;/p&gt;
-&lt;p&gt;然而，我有一个小度智能屏接入网络后，上网一切正常，但是 ADG 中看不到任何踪迹（完全找不到有相关查询记录，哪怕小度在使用也看不到有记录新增），在 OC 中可以看到有很多连接，其中有指向 ip 也有指向域名的。&lt;/p&gt;
-&lt;p&gt;这是怎么回事呢？百思不得其解。&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 00:58:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980837#reply2</guid></item><item><title>[Web Dev] 权限管理这块怎么限制传参？</title><link>https://www.v2ex.com/t/980835#reply13</link><description>&lt;p&gt;比如两个角色，一个管理员，一个用户。
-他们都有/userinfo?id=xxx 这个接口的权限，
-管理员可以查询任何人，所以对 xxx 没有限制，用户只能查询他的同级，xxx 的范围是他的同级，如何防止用户知道管理员 id 后查管理员的信息？&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 00:41:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980835#reply13</guid></item><item><title>[Java] 大佬们，请教一下关于 JDK-8075484 这个 bug 的问题</title><link>https://www.v2ex.com/t/980834#reply2</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;近期用户的生产环境下遇到一个很神奇的问题，并发数起来（ 7 个 pod ，1000 并发）访问就会很慢，同一个接口有时候 300 多 ms ，有时候七八秒，数据库（华为 GaussDB ，基于 PG ）。
-用 arthas 跟了一下，发现慢在 &lt;code&gt;org.postgresql.core.PGStream.receiveChar()&lt;/code&gt;，即使是一条简单的&lt;code&gt;select 'x'&lt;/code&gt;有时候都能执行一两秒。
-数据库那边反馈是 SQL 执行都很快，网络也排查过没问题（华为驻场工程师排查）。&lt;/p&gt;
-&lt;h2&gt;疑问&lt;/h2&gt;
-&lt;p&gt;然后从&lt;code&gt;psjdbc&lt;/code&gt;项目找到下面这个 issue
-&lt;a href="https://github.com/pgjdbc/pgjdbc/issues/1508#issuecomment-608169835" rel="nofollow"&gt;&lt;/a&gt;
-里面有人提到 JDK-8075484
-&lt;a href="https://bugs.openjdk.org/browse/JDK-8075484" rel="nofollow"&gt;&lt;/a&gt;
-和我们遇到的问题比较能对上，jstack 看到了最终都是卡在&lt;code&gt;at java.net.SocketInputStream.socketRead0&lt;/code&gt;
-但是网上查到的关于 jdk 这个 bug 说的都是直接卡，我们遇到的情况是偶尔慢，但不会卡住不返回&lt;/p&gt;
-&lt;h2&gt;求助&lt;/h2&gt;
-&lt;p&gt;找了一天多了没有其他思路来排查这个问题了，想请教以下两个问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;JDK-8075484 这个 bug 是否有老哥遇到过是慢而不是卡住？&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;各位老哥有什么思路可以继续排查吗？&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;带领团队完成公司 web 、H5 及小程序等项目的开发及迭代优化；&lt;/li&gt;
+&lt;li&gt;搭建或持续改进前端开发技术框架，提高团队的开发效率；&lt;/li&gt;
+&lt;li&gt;优化及创新现有团队开发流程、开发框架及项目管理模式。
+[任职要求] &lt;/li&gt;
+&lt;li&gt;5 年以上工作经验，全日制本科及以上学历，计算机相关专业；&lt;/li&gt;
+&lt;li&gt;深入理解 W3C 标准和 ES6 规范，熟悉 Web 语义化，浏览器兼容性及移动端适配；&lt;/li&gt;
+&lt;li&gt;熟练使用 Vue 、React 等 前端框架，熟悉源码，理解底层实现原理；&lt;/li&gt;
+&lt;li&gt;理解 webpack 、vite 等打包原理，有多端开发、兼容性、性能优化和网络安全开发经验；&lt;/li&gt;
+&lt;li&gt;熟练微信小程序开发，并参与过完整的微信小程序开发部署审核上线流程；&lt;/li&gt;
+&lt;li&gt;有参与大中型高并发项目经验，能独立搭建前端开发框架，并持续优化；&lt;/li&gt;
+&lt;li&gt;掌握 Nginx 基本配置使用，有实际解决生产跨域代理经验；&lt;/li&gt;
+&lt;li&gt;熟练使用 git 、linux 常用基本命令，掌握常用计算机程序算法和数据结构；&lt;/li&gt;
+&lt;li&gt;有互联网大厂背景优先，985 、211 、研究所优先；&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;环境信息&lt;/h2&gt;
-&lt;p&gt;系统：华为欧拉
-CPU：32 核 aarch64 ，生产环境 CPU 压力很小
-内存：64G
-网络：万兆&lt;/p&gt;
-&lt;p&gt;压测时 vmstat 可以看到 in 和 cs 都在 4w~6w ，pidstat 可以看到都是我们的服务线程产生的&lt;/p&gt;
-&lt;h2&gt;为什么不直接换 JDK 验证&lt;/h2&gt;
-&lt;p&gt;因为客户的生产环境用的华为平台，我们是上传 jar 吧，平台自动成容器镜像运行，华为的驻场工程师明确说了改不到 jdk 的版本。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://i.imgur.com/Z4l37Go.jpg" rel="nofollow"&gt;https://i.imgur.com/Z4l37Go.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://i.imgur.com/tYdUjym.jpg" rel="nofollow"&gt;https://i.imgur.com/tYdUjym.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 00:33:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980834#reply2</guid></item><item><title>[优惠信息] [仅限美国] 免费获得 Pixel 8 Pro 128G (不含税)</title><link>https://www.v2ex.com/t/980832#reply5</link><description>&lt;p&gt;获得前提:&lt;/p&gt;
+&lt;p&gt;[ unity （棋牌娱乐类）]
+[薪资待遇] ：1000W-600W
+[岗位职责] :
+1 、根据产品部门需求，快速准确理解产品策划案并负责评估策划方案的技术可行性，完成项目前端程序架构的设计和技术方案规划，构建开发环境及周边工具开发;
+2 、负责客户端的特效实现效果的研发、负责核心系统的开发与指导，负责逻辑的开发和维护;
+3 、负责对项目存在的性能问题进行分析与解决，解决项目中的技术难题;
+4 、建立研发周期，严格把控开发进度，建立完善的测试体系，减少 bug 复现率;
+5 、优化 unity3d 引擎以及内部使用工具的开发，工作质量把控、技术提升工作;
+6 、持续学习相关技术知识、优化内部使用工具，与团队共同成长。
+任职要求:
+1 、精通 C++/C#，熟悉 Unity3d 游戏引擎架构设计，熟悉游戏的图形显示技术及 3D 算法，游戏后期效果优化;
+2 、了解 unity3D 渲染，并可以自行查找或优化客户端效率问题，有多款 U3D 游戏开发经验，熟悉 Direct3D 或 OpenGL;
+3 、熟悉游戏项目开发流程、规范，有良好的编程习惯和数字基础;
+4 、善于沟通、乐于分享、积极向上、有良好的团队意识和合作精神。
+5 、有长期的棋牌娱乐类游戏相关经验者优先录取&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:55:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981127#reply2</guid></item><item><title>[macOS] 如何让 ctrl-m 可以成为真正的回车呢</title><link>https://www.v2ex.com/t/981125#reply1</link><description>&lt;p&gt;enter 键好远啊,发现终端下 ctrl-m 可以是回车,就问问全局映射为回车有什么好的解决方案吗&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:50:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981125#reply1</guid></item><item><title>[分享创造] 电信 iTV 换装了天翼云盒，抓包无法找到直播源了，有偿求助</title><link>https://www.v2ex.com/t/981124#reply0</link><description>&lt;p&gt;原来使用电信的 iTV ，采用 PPPoE 认证，在 ikuai 软路由上做了认证，然后抓包直播源，利用公网 IP 做了一个私人直播源，外网可以随意看电视。
+现在换了套餐，套餐里没有 iTV ，给安装了天翼云盒，这个盒子无需接入光猫，直接接入局域网就能看电视直播。经抓包查看，全部是 TCP 连接，已无法抓包直播源，有偿求助。&lt;/p&gt;
+&lt;p&gt;部分 tcp 内容如下：
+GET /gitv_live/G_CCTV-2-HD-265-8M/c001_1697026607_1697026617.ts HTTP/1.1
+MediaPlayerID: 2
+User-Agent: AppleCoreMedia/1.0.0.9A405 (iPad; U; CPU OS 5_0_1 like Mac OS X; zh_cn)
+Accept: &lt;em&gt;/&lt;/em&gt;
+Range: bytes=0-
+Connection: close
+Host: &lt;a href="http://live-gitv-nx-yh.189smarthome.com" rel="nofollow"&gt;live-gitv-nx-yh.189smarthome.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HTTP/1.1 206 Partial Content
+Server: openresty
+Date: Wed, 11 Oct 2023 12:18:40 GMT
+Content-Type: video/mp2t
+Content-Length: 11496764
+Connection: close
+Last-Modified: Wed, 11 Oct 2023 12:17:02 GMT
+ETag: "6526923e-af6d3c"
+Cache-Control: s-maxage=300
+Age: 97
+Ctl-Cache-Status: MISS from zj-wenzhou8-lc07, HIT from nx-yinchuan5-lc04
+Request-Id: 82e5e6685c3c8b59c96bed05334a3f63
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET,HEAD,OPTIONS
+Content-Range: bytes 0-11496763/11496764&lt;/p&gt;
+&lt;p&gt;peers:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;你有一台 Pixel 手机&lt;/li&gt;
-&lt;li&gt;肉身在美国&lt;/li&gt;
-&lt;li&gt;有 AT&amp;amp;T Unlimited Plan&lt;/li&gt;
+&lt;li&gt;peer: 0
+host: 113.113.130.183
+port: 20818&lt;/li&gt;
+&lt;li&gt;peer: 1
+host: 212.75.36.100
+port: 80
+packets:&lt;/li&gt;
+&lt;li&gt;packet: 4219
+peer: 0
+index: 0
+timestamp: 1697026719.828188000
+data: !!binary |
+R0VUIC9naXR2X2xpdmUvR19DQ1RWLTItSEQtMjY1LThNL2MwMDFfMTY5NzAyNjYwN18xNjk3MDI2
+NjE3LnRzIEhUVFAvMS4xDQpNZWRpYVBsYXllcklEOiAyDQpVc2VyLUFnZW50OiBBcHBsZUNvcmVN
+ZWRpYS8xLjAuMC45QTQwNSAoaVBhZDsgVTsgQ1BVIE9TIDVfMF8xIGxpa2UgTWFjIE9TIFg7IHpo
+X2NuKQ0KQWNjZXB0OiAqLyoNClJhbmdlOiBieXRlcz0wLQ0KQ29ubmVjdGlvbjogY2xvc2UNCkhv
+c3Q6IGxpdmUtZ2l0di1ueC15aC4xODlzbWFydGhvbWUuY29tDQoNCg==&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 11 Oct 2023 13:46:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981124#reply0</guid></item><item><title>[程序员] 互联网论坛上还有一些聊天群里经常说的 troll（钓鱼）行为究竟是什么意思？</title><link>https://www.v2ex.com/t/981123#reply14</link><description>&lt;p&gt;在一些聊天群里，看到有的群友会说另一些群友的行为是 troll ，也就是钓鱼的意思。&lt;/p&gt;
+&lt;p&gt;我有一些疑问：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;troll 有什么标准的或者非标准的定义吗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如何判读一个人是否是 troll ？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;troll 是很不好的行为吗？&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在 AT&amp;amp;T 购买 Pixel 8 Pro 128G ，选择 trade-in ，只需要支付 $125 的税费即可换取 Pixel 8 Pro 128G （需要 trade-in 你的旧手机，我是用我现在用的 Pixel 6a 换的）。&lt;/p&gt;
-&lt;p&gt;即使你没有 Pixel 6a ，你也可以选择买一台去 trade-in ，目前二手市价为 $282 (含税)，相当于 $407 (税后) 购买一台 Pixel 8 Pro ，相比原价 $999 基本上是打了对折。&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 00:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/980832#reply5</guid></item></channel></rss>
+&lt;p&gt;为什么王老菊在视频里故意读错一些词，弹幕会说他钓鱼，这是 troll 的意思吗？&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:42:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981123#reply14</guid></item><item><title>[问与答] 有大佬知道有什么全日制的硕士项目可以边工作边读吗？</title><link>https://www.v2ex.com/t/981121#reply4</link><description>&lt;p&gt;除了国内非全，mba 这些，还有什么路子吗？&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:38:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981121#reply4</guid></item><item><title>[分享发现] Memex 推出 Obsidian/Logseq Livesync</title><link>https://www.v2ex.com/t/981120#reply0</link><description>&lt;p&gt;昨天收到了 Memex Update 的郵件, 宣佈已推出 &lt;a href="https://memex.featurebase.app/changelog/650f4facea03ffc65267adcd" rel="nofollow"&gt;Obsidian/Logseq Livesync&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前還沒嘗試, 但看 gif 演示感覺效果不錯, 可以將 annotation/note 實時同步進 Obsidian/Logseq, 很方便&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/8jURTV3" rel="nofollow"&gt;https://imgur.com/8jURTV3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;剛剛又收到了 Memex 的推銷郵件, &lt;a href="https://memex.garden/#pricing" rel="nofollow"&gt;"Transferrable Lifetime Subscription"&lt;/a&gt; 的 "early bird subscription price" 為 400 刀, 各位怎麽看? 有其他可以比較方便地將標注導出, 保存到本地 markdown 文件的類似競品推薦嗎?&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:30:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981120#reply0</guid></item><item><title>[问与答] 请问安卓/windows 有没有像 infuse 那样的软件？</title><link>https://www.v2ex.com/t/981119#reply2</link><description>平常用 ipad 用 infuse 挂载阿里云观看影视，对于 infuse 的海报还有同步很是满意，想问下安卓/windows 有没有同类似的软件？不用挂载 alist 的，还能有海报/同步等功能。&lt;br /&gt;求推荐！</description><pubDate>Wed, 11 Oct 2023 13:29:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981119#reply2</guid></item><item><title>[投资] [投资备忘 20231011] 国家队下场买入四大行</title><link>https://www.v2ex.com/t/981118#reply0</link><description>&lt;p&gt;上证指数 3000 点估计是政治任务&lt;br /&gt;
+每次跌破 3100 ，国家队就会买入  &lt;/p&gt;
+&lt;p&gt;最近美联储态度转向鸽派，加息可能会暂缓&lt;br /&gt;
+所以全球股市都比较轻松  &lt;/p&gt;
+&lt;p&gt;今天国家队增持了四大行的 A 股&lt;br /&gt;
+我有四大行之一的港股&lt;br /&gt;
+估值已经很低了&lt;br /&gt;
+最近股价表现也是比较抗跌&lt;br /&gt;
+非常安全&lt;br /&gt;
+重数据重逻辑轻主观的好处，不会很慌  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;今天忙了一天，没有交易&lt;br /&gt;
+后续只要不大涨，会继续加&lt;br /&gt;
+加仓节奏应该会加快&lt;br /&gt;
+毕竟股价不会一直这么便宜&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:26:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981118#reply0</guid></item><item><title>[Apple] 旅行用的充电宝有推荐吗？</title><link>https://www.v2ex.com/t/981117#reply9</link><description>在考虑贝尔金 2w 毫安那款，c 口有 30w 的 pd 快充.&lt;br /&gt;但是稍微有点重，大概快 500g 。&lt;br /&gt;大家有什么好用的充电宝推荐吗？</description><pubDate>Wed, 11 Oct 2023 13:24:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981117#reply9</guid></item><item><title>[投资] [2023.10.11]浮盈 0.6%，持仓医药大涨，部分止盈医药和芯片，补仓银行，踩中芯片某国微的坑（幸好自动止损了部分）和银行的坑。加仓银行（可能是一笔错误的加仓，加仓时间也早了点），小幅建仓旅游酒店。</title><link>https://www.v2ex.com/t/981115#reply0</link><description>这个时间点，其实不太想加仓银行和旅游，毕竟消息面和基本面不太好（银行受提前还贷收经济影响贷款需求降低，旅游今年最后一个长假也没了），就为了试试新出炉的超跌反弹指标吧。&lt;br /&gt;&lt;br /&gt;持仓时间不超过 3 天，如果有盈利再考虑是否延长持仓。</description><pubDate>Wed, 11 Oct 2023 13:22:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981115#reply0</guid></item><item><title>[程序员] 写了个调节亮度条的油猴脚本</title><link>https://www.v2ex.com/t/981114#reply0</link><description>&lt;p&gt;都 2023 年了 也不知道为啥有的网站就是不做黑色模式&lt;/p&gt;
+&lt;p&gt;搞得我半夜看网站很难受&lt;/p&gt;
+&lt;p&gt;这个 pc 的显示器调节亮度也很麻烦。&lt;/p&gt;
+&lt;p&gt;于是我写了个油猴脚本&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://openuserjs.org/scripts/kasusa/night_bar" rel="nofollow"&gt;https://openuserjs.org/scripts/kasusa/night_bar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;适合半夜看白色的网站。&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:15:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981114#reply0</guid></item><item><title>[Dell] 以换代修才返过来的屏幕一场电影没看完又尼玛出现竖线</title><link>https://www.v2ex.com/t/981113#reply0</link><description>&lt;p&gt;前情提要：/t/979133&lt;/p&gt;
+&lt;p&gt;京东买的，一年多点，中间不咋用，国庆前出了小半年差，国庆回来用了一会出现紫色竖线，于是申请京东维修，京东工程师和我说 dell 以换代修给我换了就检测下寄给我。&lt;/p&gt;
+&lt;p&gt;今天晚上送到家了，开机检测没问题，但是我看电影看着看着就有出现一条蓝色竖线（啥时候出现也不知道，看到一半上厕所回来正好放到亮背景时发现了）。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://i.imgur.com/3NNT2Yx.jpeg" rel="nofollow"&gt;https://i.imgur.com/3NNT2Yx.jpeg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;真是离谱的品控啊，直接一语成谶。&lt;a href="https://www.v2ex.com/t/979957#r_13743346" rel="nofollow"&gt;https://www.v2ex.com/t/979957#r_13743346&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:09:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981113#reply0</guid></item><item><title>[酷工作] web 全栈开发工程师(远程岗位) 10k-18k</title><link>https://www.v2ex.com/t/981112#reply1</link><description>&lt;p&gt;我们正在寻找一位优秀的 Web 全栈开发工程师加入我们的团队。职责包括产品的开发、维护和优化，参与需求分析和设计。要求熟练掌握 Node.js 和 React 框架，熟悉常见的前后端开发技术，具备团队协作能力和抗压能力，熟悉远程办公工具，有计算机专业背景和远程办公经验者优先。对远程工作有兴趣，具备良好的沟通能力和团队合作精神，自我驱动，注重细节，具备解决问题和学习新技术的能力。&lt;/p&gt;
+&lt;p&gt;职位职责:&lt;/p&gt;
+&lt;p&gt;1.负责产品的开发、维护和优化;&lt;/p&gt;
+&lt;p&gt;2.参与项目需求分析、设计和评审，确保技术方案的可行性和稳定性:&lt;/p&gt;
+&lt;p&gt;3.使用 Nodeis 构建后端服务，实现高性能、高可用的 API 接口;&lt;/p&gt;
+&lt;p&gt;职位要求:&lt;/p&gt;
+&lt;p&gt;1.熟练掌握 Nodejs ，具备扎实的后端开发能力;&lt;/p&gt;
+&lt;p&gt;2.熟悉 React 框架，具备丰富的前端开发经验 (可适当降低要求) ;&lt;/p&gt;
+&lt;p&gt;3.熟悉常见的前后端开发技术，如 HTML 、CSS 、JavaScript 、RESTful API 等&lt;/p&gt;
+&lt;p&gt;4.熟悉远程办公工具，适应远程办公模式;&lt;/p&gt;
+&lt;p&gt;联系邮箱： &lt;a href="mailto:willson@jackyone.com"&gt;willson@jackyone.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:08:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981112#reply1</guid></item><item><title>[分享发现] 终于实现了文档翻译自由</title><link>https://www.v2ex.com/t/981110#reply4</link><description>&lt;p&gt;这篇文章可能会涉及分享发现、提问、推广，但重点在于分享发现，所以发到该节点，恳请见谅。&lt;/p&gt;
+&lt;p&gt;文档（ PDF 、DOCX ）翻译虽然市面上有很多，但大多数都需要上传到云，且翻译后排版效果不理想，费用也不低。&lt;/p&gt;
+&lt;p&gt;多年来我一直在寻找能在本地运行、用自己的翻译 API 、较完美的保留原格式、译后能编辑的翻译软件，终于让我找到了解决方案。&lt;/p&gt;
+&lt;p&gt;对于 PDF 文件，ABBYY FineReader 可以近乎完美的将 PDF 转换成 DOCX 格式。然后 DOCX 格式可以在 CAT （计算机辅助翻译，比如我用的是 MemoQ ）软件中近乎完美的保留原格式翻译。&lt;/p&gt;
+&lt;p&gt;但大多数常用的 CAT （ Trados 、MemoQ 、Wordfast 、DejaVu 等）软件都是国外的，他们通常只对接了国外的翻译服务，国内用户要用国外翻译服务门槛较高。&lt;/p&gt;
+&lt;p&gt;所以我为 MemoQ 开发了翻译插件，对接了国内各大厂的翻译服务，加起来每个月有一千多万的免费字符量，也对接了多数翻译软件都在用的谷歌、微软的免费逆向 API （不知道什么时候会被和谐），之后也会对接 ChatGPT 。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.aliyundrive.com/s/NpX1XUg6dpD" rel="nofollow"&gt;这是（ &lt;/a&gt;&lt;a href="https://www.aliyundrive.com/s/NpX1XUg6dpD" rel="nofollow"&gt;https://www.aliyundrive.com/s/NpX1XUg6dpD&lt;/a&gt; ）没有经过手工检验的完全由谷歌翻译 API 翻译后的得到的双语可编辑文档的演示。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/10/11/65105b1957e74.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;如果翻译仅仅是为了略读和少量编辑，到这里就完事了，但我想要的是高质量的译后编辑，也就是翻译后一边看一边修改，且要确保术语翻译的一致性等质量保证问题。&lt;/p&gt;
+&lt;p&gt;所以不能直接在 Word 中编辑翻译后的译文，因为在外部编辑，CAT 软件无法追踪，失去了 CAT 软件的术语一致性检查等质量保证功能。&lt;/p&gt;
+&lt;p&gt;也不能仅在 CAT 软件中编辑，因为它们提供的预览功能实在太简陋了，丢失了大部分 DOCX 格式排版，不利于对上下文的理解，看着也很不舒服。&lt;/p&gt;
+&lt;p&gt;所以我又为 MemoQ 开发了外部预览插件，将原文和译文在 Word 中打开，之后在 Word 中双击某译文段落时，对应的原文段落会被高亮，同时也会自动定位到对应的 MemoQ 段落中，这时可以直接在 MemoQ 中修改，修改后的文本会同步更新到 Word ，效果如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/10/11/bb44ea0a138b2.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;预览插件的原理是，从 MemoQ 得到所有段落的原文、译文、ID ，然后在 Word 中进行匹配，当在 Word 中点击某段落时将高亮的段落 ID 发送回 MemoQ ，以达到同步高亮的目的。&lt;/p&gt;
+&lt;p&gt;Word 预览插件的功能需求已经实现，使用的是 C# VSTO 开发，但遇到了一个性能问题，也就是我需要获取 Word 纯文本中每个字符在 Word Range 中的索引，这样才能匹配和高亮对应的文本，目前我使用的方法是：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-C#"&gt;private RangeTextAndIndexes GetRangeTextAndIndexes(Word.Range range)
+{
+    var text = new StringBuilder();
+
+    var indexs = new List&amp;lt;int&amp;gt; { };
+
+    foreach (Word.Range c in range.Characters)
+    {
+        if (c.Text != null)
+        {
+            for (int i = 0; i &amp;lt; c.Text.Length; i++)
+            {
+                indexs.Add(c.Start);
+            }
+            text.Append(c.Text);
+        }
+    }
+    return new RangeTextAndIndexes(text.ToString(), indexs);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这种方法每获取一个字符的 Range 索引（代码中的 c.Start ）就是一次 COM 调用，每次 COM 调用接近 20ms ，一百页的文档需要几十秒，虽然只是启动时获取一次，但这样的速度我还是不能容忍。&lt;/p&gt;
+&lt;p&gt;直接使用 Word API 中的 Find 方法来匹配也不行，一是我需要更高级的自定义匹配算法来匹配，二是 Find 方法限制最多只能匹配 255 字符。&lt;/p&gt;
+&lt;p&gt;我想问的是，有没有其他的 API 能高效获取到纯文本中每个字符在 Word Range 中的索引？或者，其他语言（比如 Javascript ）的 SDK 能做到这一点，也可以切换成其他语言开发。亦或者 LiberOffice 、OnlyOffice 等其他软件能更方便做到这一点，换成为其他软件开发插件也行，恳请各位有 Word 插件开发经验的大神给点意见。&lt;/p&gt;
+&lt;p&gt;机器翻译插件已开源，外部预览插件将等待解决性能问题后开源。&lt;/p&gt;
+&lt;p&gt;地址： &lt;a href="https://github.com/JuchiaLu/Multi-Supplier-MT-Plugin" rel="nofollow"&gt;https://github.com/JuchiaLu/Multi-Supplier-MT-Plugin&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 11 Oct 2023 13:06:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981110#reply4</guid></item><item><title>[Telegram] 刚刚自己的 Telegram 账号差点被诈骗盗号了</title><link>https://www.v2ex.com/t/981109#reply3</link><description>一个人账号➕一机器人账号，先是个人账号（冒充“异常账号通告”）发来账号被举报限制，要求到另一个机器人账号（冒充“安全中心”）解除限制，否则被注销。然后就点开机器人账号，傻傻的按要求发自己的 Telegram 绑定手机号过去以接收“回执码”，接着软件本身收到登陆码，这时才意识到有点不对劲，要是发过去登录码就被盗号了。回头看 Telegram 登陆码信息也告诫不要把登陆码告诉任何人，即使自称来自 Telegram 官方。平时挺谨慎的，人一急刚刚就懵了。</description><pubDate>Wed, 11 Oct 2023 13:05:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981109#reply3</guid></item><item><title>[分享创造] 30 天时间，小白从 0 到 1 做出人生第一个英文工具站</title><link>https://www.v2ex.com/t/981108#reply1</link><description>30 天的时间，零零散散的时间做了人生第一个英文站，一个在线计算器的网站。&lt;br /&gt;&lt;br /&gt;第一次从 0 到 1 完成一个网站:  &lt;a href="https://mycalculatorhub.com/" rel="nofollow noopener" target="_blank"&gt;https://mycalculatorhub.com/&lt;/a&gt; 。从需求挖掘到产品落地，一切从零开始，磕磕碰碰总算在 2023 年 10 月完成了上线。踏出来了独立开发的第一步。&lt;br /&gt;&lt;br /&gt;从零开始学 html 、css 、JavaScript ，学习需求挖掘，开发产品，参照领英的 logo ，设计自己的 logo ，在 godaddy 上买了人生的第一个域名，部署上线，SEO 优化。&lt;br /&gt;在本地环境下开发的网站，使用 cloudflare page 部署，免去服务器购买成本。花费成本 100 多元，就买域名花了一些钱，其它能省则省。&lt;br /&gt;&lt;br /&gt;&lt;a href="http://mycalculatorhub.com" rel="nofollow noopener" target="_blank"&gt;mycalculatorhub.com&lt;/a&gt; 是一个英文工具站，目前上线了 4 个金融方面的计算器。计算器的逻辑是参照专业机构的计算逻辑。&lt;br /&gt;&lt;br /&gt;待优化的地方，页面布局不太整齐、加载速度还可以提升。&lt;br /&gt;&lt;br /&gt;希望大伙帮我看看还有没有可以改进的地方，给点反馈，万分感谢。</description><pubDate>Wed, 11 Oct 2023 12:57:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981108#reply1</guid></item><item><title>[问与答] 请教一个 Mac 系统的自动操作问题</title><link>https://www.v2ex.com/t/981107#reply0</link><description>因为升级了 M 系列处理器，原来 macOS12 系统可用的自动操作快捷键不知道为何不能用了，还请懂的大佬指点一下。&lt;br /&gt;在自动操作 app 里面点运行时没问题的，用设置的快捷键就失效。&lt;br /&gt;&lt;br /&gt;1.自动操作的需求代码&lt;br /&gt;&lt;a href="https://i.imgur.com/vWwwShQ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/vWwwShQ.png" /&gt;&lt;/a&gt;&lt;br /&gt;2.设置的系统快捷键&lt;br /&gt;&lt;a href="https://i.imgur.com/S2hQv0L.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/S2hQv0L.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;切 bash 返回的是这个提示&lt;br /&gt;&lt;a href="https://i.imgur.com/lwngEgl.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lwngEgl.png" /&gt;&lt;/a&gt;</description><pubDate>Wed, 11 Oct 2023 12:54:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981107#reply0</guid></item></channel></rss>
