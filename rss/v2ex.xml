@@ -1,452 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 12 Oct 2023 08:43:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 发现个奇怪 imessage 的问题</title><link>https://www.v2ex.com/t/981384#reply0</link><description>&lt;p&gt;开飞行模式仅有 wifi 之后就会一直发不出去，&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:38:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981384#reply0</guid></item><item><title>[问与答] 充电器(Charger)能代替电源适配器(Adapter)吗？</title><link>https://www.v2ex.com/t/981383#reply1</link><description>&lt;p&gt;如题，相同接口，电压电流的适配器，能否用充电器代替。
-比如我有个路由器，使用 12v1a 电源适配器欸，如果换成 12v1a 的充电器，会怎样？&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:37:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981383#reply1</guid></item><item><title>[VPS] 小白问一下，在买 vps 的时候，怎么确定有没有屏蔽 udp 啊</title><link>https://www.v2ex.com/t/981382#reply0</link><description>&lt;p&gt;已经很多年没有玩 vps ，以前也就买来搭 blog ，代理&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:36:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981382#reply0</guid></item><item><title>[问与答] 为什么 clash 代理 http 流量这么慢</title><link>https://www.v2ex.com/t/981381#reply0</link><description>&lt;p&gt;小白不是很懂 clash 的细节，今天下载一个文件 &lt;a href="http://repository.spotify.com/pool/non-free/s/spotify-client/spotify-client_1.2.22.982.g794acc0a_amd64.deb" rel="nofollow"&gt;http://repository.spotify.com/pool/non-free/s/spotify-client/spotify-client_1.2.22.982.g794acc0a_amd64.deb&lt;/a&gt;
-打开浏览器看过，&lt;a href="http://repository.spotify.com" rel="nofollow"&gt;repository.spotify.com&lt;/a&gt; 没有 SSL 证书，https 连不上。
-这是我在自己电脑上下载，用 clash 的 tun 模式实现了透明代理，命令行也有 http_proxy 和 https_proxy 环境变量
-&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/z2z63/image/main/imgimage_2023-10-12_16-13-34.png" /&gt;
-中途尝试切换成全局模式，速度还是很慢&lt;/p&gt;
-&lt;p&gt;然后我突发奇想，会不会是防火墙 QoS 了我的流量？
-登录我的新加坡服务器，执行同一个命令
-&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/z2z63/image/main/img20231012164029.png" /&gt;
-速度突然变快了&lt;/p&gt;
-&lt;p&gt;我对 clash 不太了解，难道是 clash 转发后，过墙流量没加密？&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:33:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981381#reply0</guid></item><item><title>[Apple] 使用 win11+vm 虚拟机，安装 mac 系统</title><link>https://www.v2ex.com/t/981380#reply0</link><description>&lt;p&gt;请教各位：如果使用 win11+vm 虚拟机，安装 mac ，再登入 Apple ID ，以同步照片。这样操作有人用过吗？可能有什么风险或者坑吗？谢谢各位&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:32:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981380#reply0</guid></item><item><title>[问与答] 园区有几百个大专实习生，能接什么项目？</title><link>https://www.v2ex.com/t/981379#reply2</link><description>&lt;p&gt;朋友搞了个几十亩地的园区，里面有办公室，食堂，宿舍，宿舍有 2000 个床位
-现在和湖南的一些大专院校谈，接纳学生实习的事情，已经有几个大专院校的领导来园区考察过了，接下来就是去学校宣讲招生，双向选择，学校不会强制学生出来实习，这些大专院校算了下，加起来大概有 8000 来个学生等着去聊，即使 10 个里面来 1 个，也有 800 人来园区上班。&lt;/p&gt;
-&lt;p&gt;对学生来讲，除了 300 块的宿舍费，不收其他任何费用，工作内容说是说 AI 相关，其实就是电脑上面打螺丝，只要人不蠢，有个一两天，都能上手。没底薪，按件计工价，估计做下来也就两三千块钱一个月。&lt;/p&gt;
-&lt;p&gt;由于他现在这个打螺丝项目也是上游合作伙伴给他的，他赚头也不大，想问一问大家，还有啥项目适合这帮实习生在园区里面操作。一方面增加学生的收入让学生留得下来，另一方面他也能多赚点。&lt;/p&gt;
-&lt;p&gt;如果各位大佬手上有合适的项目，咱们也可以聊合作。&lt;/p&gt;
-&lt;p&gt;ps：打电话的不搞（什么信用卡，贷款，手机卡套餐，催收），灰色产业不搞，必须是合法项目&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:27:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981379#reply2</guid></item><item><title>[北京] 北京事件一周年</title><link>https://www.v2ex.com/t/981378#reply1</link><description>勿忘历史</description><pubDate>Thu, 12 Oct 2023 08:27:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981378#reply1</guid></item><item><title>[云计算] 双 11 活动提前来了，冲</title><link>https://www.v2ex.com/t/981377#reply4</link><description>轻量 1 核 2G1T 流量  99/年&lt;br /&gt;轻量 2 核 4G3T 流量  190/年&lt;br /&gt;云服务器 1 核 2G1M 带宽 50/年，150/3 年&lt;br /&gt;云服务器 4 核 8G5M 带宽 373/年&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ucloud.cn/site/active/kuaijiesale.html" rel="nofollow noopener" target="_blank"&gt;https://www.ucloud.cn/site/active/kuaijiesale.html&lt;/a&gt;</description><pubDate>Thu, 12 Oct 2023 08:27:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981377#reply4</guid></item><item><title>[问与答] 汽车雨刮器大家有推荐的吗？</title><link>https://www.v2ex.com/t/981376#reply1</link><description>&lt;p&gt;小弟看了几款不知道那个好，法雷奥，米其林，水弹镀膜，固特异，大家还有其他推荐，或者有用过的朋友分享一下吧&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:25:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981376#reply1</guid></item><item><title>[问与答] 我的 chrome 浏览器怎么显示在中国</title><link>https://www.v2ex.com/t/981375#reply0</link><description>已经挂了代理，在谷歌账户安全性您的装置里，我的 chrome 浏览器怎么显示在中国？</description><pubDate>Thu, 12 Oct 2023 08:23:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981375#reply0</guid></item><item><title>[问与答] 观看'	请教脑梗的问题' 有感， 伯父脑出血导致中风，现在偏瘫，如何治疗</title><link>https://www.v2ex.com/t/981374#reply0</link><description>生病到现在已经有 2 年左右，去过不少医院，各大医院康复科是否有帮助？&lt;br /&gt;上海华山医院康复科住进去能治好吗？</description><pubDate>Thu, 12 Oct 2023 08:22:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981374#reply0</guid></item><item><title>[前端开发] 请教一下 nextUI 样式出不来的问题？</title><link>https://www.v2ex.com/t/981373#reply0</link><description>&lt;h2&gt;环境&lt;/h2&gt;
-&lt;p&gt;就是一个空的 react 项目，感觉 nextUI 的样式很好看，然后搭建完后，样式出不来..&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;# package.json
-{
-"name": "my-app",
-"version": "0.1.0",
-"private": true,
-"dependencies": {
-  "@nextui-org/react": "^2.1.13",
-  "@testing-library/jest-dom": "^5.17.0",
-  "@testing-library/react": "^13.4.0",
-  "@testing-library/user-event": "^13.5.0",
-  "@types/jest": "^27.5.2",
-  "@types/node": "^16.18.53",
-  "@types/react": "^18.2.22",
-  "@types/react-dom": "^18.2.7",
-  "@types/react-router-dom": "^5.3.3",
-  "react": "^18.2.0",
-  "react-dom": "^18.2.0",
-  "react-router-dom": "^6.16.0",
-  "react-scripts": "5.0.1",
-  "typescript": "^4.9.5",
-  "web-vitals": "^2.1.4"
-},
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
-"eslintConfig": {
-  "extends": [
-    "react-app",
-    "react-app/jest"
-  ]
-},
-"browserslist": {
-  "production": [
-    "&amp;gt;0.2%",
-    "not dead",
-    "not op_mini all"
-  ],
-  "development": [
-    "last 1 chrome version",
-    "last 1 firefox version",
-    "last 1 safari version"
-  ]
-},
-"devDependencies": {
-  "tailwindcss": "^3.3.3"
-}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;#tailwind.config.js
-
-/** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    // ...
-    "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  darkMode: "class",
-  plugins: [nextui()],
-};
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;#App.tsx
-
-import * as React from "react";
-import {Button} from "@nextui-org/react";
-
-// 1. import `NextUIProvider` component
-import {NextUIProvider} from "@nextui-org/react";
-
-function App() {
-  // 2. Wrap NextUIProvider at the root of your app
-  return (
-    &amp;lt;NextUIProvider&amp;gt;
-    &amp;lt;Button color="primary"&amp;gt;
-          Button
-    &amp;lt;/Button&amp;gt;
-    &amp;lt;/NextUIProvider&amp;gt;
-  );
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后结果是 这个 Button 没有任何效果....&lt;/p&gt;
-&lt;h2&gt;PS&lt;/h2&gt;
-&lt;p&gt;有大佬用 nextUI 上过现网吗&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:21:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981373#reply0</guid></item><item><title>[Ruby] [翻译] Async Ruby（异步 Ruby）</title><link>https://www.v2ex.com/t/981372#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;原文作者：&lt;a href="https://brunosutic.com/" rel="nofollow"&gt;Bruno Sutic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;原文链接: &lt;a href="https://brunosutic.com/blog/async-ruby" rel="nofollow"&gt;《 Async Ruby 》&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;原文时间：2021 年 10 月 30 日&lt;/li&gt;
-&lt;li&gt;原文讨论：&lt;a href="https://news.ycombinator.com/item?id=29049881" rel="nofollow"&gt;Hacker News 讨论&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;译者：&lt;a href="https://github.com/Mark24Code" rel="nofollow"&gt;Mark24&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;译者 Email： &lt;a href="mailto:mark.zhangyoung@gmail.com"&gt;mark.zhangyoung@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;译文链接： &lt;a href="https://mark24code.github.io/ruby/2023/10/12/Async-Ruby.html" rel="nofollow"&gt;https://mark24code.github.io/ruby/2023/10/12/Async-Ruby.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Ruby 已经有了异步实现！&lt;/p&gt;
-&lt;p&gt;它现在就可使用，已经做好了投入生产的准备，而且它可能是过去十年甚至更久时间里 Ruby 发生的最令人振奋的事情。&lt;/p&gt;
-&lt;p&gt;Async Ruby 给这门语言添加了新的并发特性；你可以将其视为“没有任何缺点的线程”。它已经在酝酿了几年，也终
-于在 Ruby 3.0 中准备好进入主流。&lt;/p&gt;
-&lt;p&gt;在这篇文章中，我希望向你展示异步 Ruby 的所有力量、可扩展性和魔力。&lt;strong&gt;如果你热爱 Ruby ，那这应该会让你非常激动！&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;Async gem&lt;/h3&gt;
-&lt;p&gt;什么是 Async Ruby ？&lt;/p&gt;
-&lt;p&gt;首先，&lt;a href="https://github.com/socketry/async" rel="nofollow"&gt;Async 只是一个 gem&lt;/a&gt;，可以通过 &lt;code&gt;gem install async&lt;/code&gt; 进行安装。这是一个相当特殊的 gem ，因为 &lt;strong&gt;Matz( Ruby 的创始人) 请它加入 Ruby 的标准库&lt;/strong&gt;，但邀请还未被接受。&lt;/p&gt;
-&lt;p&gt;Async Ruby 是由 &lt;a href="https://github.com/ioquatix" rel="nofollow"&gt;Samuel Williams&lt;/a&gt; 创建的，他也是一个 Ruby 核心贡献者。Samuel 还实现了 Fiber Scheduler （纤程调度器），这是 Ruby 3.0 的一个重要特性。它是"库无关的"，未来可能有其他用途，但目前，&lt;strong&gt;纤程调度器的主要目的是使 async gem 与 Ruby 无缝集成&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;并不是很多 gem 能得到他们自定义的 Ruby 集成，但这个是值得的！&lt;/p&gt;
-&lt;p&gt;所有这些都告诉你，&lt;code&gt;async&lt;/code&gt; 不是"只是外面的另一个 gem"。&lt;strong&gt;Ruby 核心团队，包括 Matz 本人，都在支持这个 gem ，希望它能成功。&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;Async 生态&lt;/h3&gt;
-&lt;p&gt;Async 还是一个 gem 生态系统，这些 gem 能很好地一起工作。以下是一些最有用的例子：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;async-http&lt;/code&gt; 是一个功能丰富的 HTTP 客户端&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;falcon&lt;/code&gt; 是围绕 Async 核心构建的 HTTP 服务器&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;async-await&lt;/code&gt; 是 Async 的语法糖&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;async-redis&lt;/code&gt; 是 Redis 客户端&lt;/li&gt;
-&lt;li&gt;...以及许多其他的&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;虽然上面列出的每一个 gem 都提供了一些有用的东西，但事实是你只需要核心 async gem 就可以获取它的大部分好处。&lt;/p&gt;
-&lt;h3&gt;异步模型（ Asynchronous paradigm ）&lt;/h3&gt;
-&lt;p&gt;Asynchronous programming （异步编程），（在任何语言中，包括 Ruby ）允许同时运行许多事情。这最常见的是多个网络 I/O 操作（如 HTTP 请求），因为在这方面 &lt;code&gt;async&lt;/code&gt; 是最有效的。&lt;/p&gt;
-&lt;p&gt;多任务操作经常带来混乱：“回调地狱（ callback hell ）”，“Promise hell （ Promise 地狱）”，乃至 "async-await hell （ async-await 地狱）" 是其他语言中 &lt;code&gt;async&lt;/code&gt; 接口的众所周知的缺点。&lt;/p&gt;
-&lt;p&gt;但 Ruby 是不同的。&lt;strong&gt;由于其超群的设计，Async Ruby 不受任何这些 *-地狱的困扰。它允许编写出令人惊喜的干净、简单且有序的代码。&lt;/strong&gt;它是一个像 Ruby 一样优雅的 async 实现。&lt;/p&gt;
-&lt;p&gt;注意：Async 不能绕过 Ruby 的全局解释器锁（ GIL ）。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;译者注：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Async gem 以及 Fiber Scheduler 都是工作在当前主线程。他们受到 GIL 约束。&lt;/li&gt;
-&lt;li&gt;不受 GIL 约束参考 &lt;a href="https://docs.ruby-lang.org/en/master/ractor_md.html" rel="nofollow"&gt;Ractor&lt;/a&gt;，Ractor 被设计用来提供 Ruby 的并行执行功能，而不需要考虑线程安全问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h3&gt;同步示例（ Synchronous example ）&lt;/h3&gt;
-&lt;p&gt;让我们从一个简单的例子开始：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "open-uri"
-
-start = Time.now
-
-URI.open("https://httpbin.org/delay/1.6")
-URI.open("https://httpbin.org/delay/1.6")
-
-puts "Duration: #{Time.now - start}"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;上述代码正在发起两个 HTTP 请求。单个 HTTP 请求的总持续时间为 2 秒，包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;大约 0.2 秒的网络延迟在进行请求时&lt;/li&gt;
-&lt;li&gt;1.6 秒的服务器处理时间&lt;/li&gt;
-&lt;li&gt;大约 0.2 秒的网络延迟在接收响应时&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;让我们运行这个示例：&lt;/p&gt;
-&lt;p&gt;持续时间：4.010390391&lt;/p&gt;
-&lt;p&gt;如预期，程序需要 2 x 2 秒 = 4 秒才能完成。&lt;/p&gt;
-&lt;p&gt;这段代码还不错，但它运行速度慢。对于这两个请求，执行过程大概像这样：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;触发一个 HTTP （超文本传输协议）请求&lt;/li&gt;
-&lt;li&gt;等待 2 秒以获取响应&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;问题在于程序在大部分时间里都处于等待状态； 2 秒钟（对于计算机）就像永恒。&lt;/p&gt;
-&lt;h3&gt;Threads （线程）&lt;/h3&gt;
-&lt;p&gt;提高多个网络请求速度的常用方法是使用线程。以下是一个示例：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "open-uri"
-
-@counter = 0
-
-start = Time.now
-
-1.upto(2).map {
-  Thread.new do
-    URI.open("https://httpbin.org/delay/1.6")
-
-    @counter += 1
-  end
-}.each(&amp;amp;:join)
-
-puts "Duration: #{Time.now - start}"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;代码的输出是：&lt;/p&gt;
-&lt;p&gt;持续时间: 2.055751087&lt;/p&gt;
-&lt;p&gt;我们将执行时间缩短到 2 秒钟，这表明请求在同时运行。那么，问题解决了吗？&lt;/p&gt;
-&lt;p&gt;好吧，别过于着急：&lt;strong&gt;如果你做过任何真实世界的线程编程，你会知道线程很难。真的，非常难。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果你打算做任何严肃的线程工作，你最好习惯使用互斥（ mutexes ），条件变量（ condition variables ），处理语言级的竞态条件（ race conditions ）...甚至我们的简单示例在 @&lt;a href="https://www.v2ex.com/member/counter"&gt;counter&lt;/a&gt; += 1 这一行就有一个竞态条件错误！&lt;/p&gt;
-&lt;p&gt;线程是困难的，并且毫无疑问下面的声明在 Ruby 社区一直被不断提及：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  I regret adding threads.
-
-                    — Matz
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;Async 例子&lt;/h2&gt;
-&lt;p&gt;鉴于所有的线程复杂性，Ruby 社区早就应该有一个更好的并发模式。有了 Async Ruby ，我们终于有了一种。&lt;/p&gt;
-&lt;h3&gt;async-http&lt;/h3&gt;
-&lt;p&gt;让我们看看使用 Async Ruby 来进行两次 HTTP 请求的同样的例子：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "async"
-require "async/http/internet"
-
-start = Time.now
-
-Async do |task|
-  http_client = Async::HTTP::Internet.new
-
-  task.async do
-    http_client.get("https://httpbin.org/delay/1.6")
-  end
-
-  task.async do
-    http_client.get("https://httpbin.org/delay/1.6")
-  end
-end
-
-puts "Duration: #{Time.now - start}"
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;示例的输出是：&lt;/p&gt;
-&lt;p&gt;持续时间：1.996420725&lt;/p&gt;
-&lt;p&gt;看看总运行时间，我们可以看出请求是同时运行的。&lt;/p&gt;
-&lt;p&gt;这个例子显示了 Async Ruby 程序的一般结构：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;你总是从一个传递任务的 &lt;code&gt;Async&lt;/code&gt; 块开始。&lt;/li&gt;
-&lt;li&gt;这个主任务通常用于用 &lt;code&gt;task.async&lt;/code&gt; 生成更多的 &lt;code&gt;Async&lt;/code&gt; 任务。&lt;/li&gt;
-&lt;li&gt;这些任务相互并发运行，也与主任务并发运行。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一旦你习惯了，你会发现这个结构实际上非常整洁。&lt;/p&gt;
-&lt;h3&gt;URI.open&lt;/h3&gt;
-&lt;p&gt;前一个例子中可以被认为是一个缺点的事情是，它使用了 &lt;code&gt;async-http&lt;/code&gt;，一个具有异步特性的 HTTP 客户端。我们大多数人有自己喜欢的 Ruby HTTP 客户端，我们不想再花时间去学习另一个 HTTP 库的详细情况。
-让我们看收同样的例子，只是这次使用 URI.open：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "async"
-require "open-uri"
-
-start = Time.now
-
-Async do |task|
-  task.async do
-    URI.open("https://httpbin.org/delay/1.6")
-  end
-
-  task.async do
-    URI.open("https://httpbin.org/delay/1.6")
-  end
-end
-
-puts "Duration: #{Time.now - start}"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;与前一个例子的唯一区别是，我们用 Ruby 的标准库中的方法 &lt;code&gt;URI.open&lt;/code&gt; 替换了 &lt;code&gt;async-http&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;示例的输出是：&lt;/p&gt;
-&lt;p&gt;持续时间：2.030451785&lt;/p&gt;
-&lt;p&gt;这个持续时间显示了两个请求是并行运行的，所以我们认为 &lt;code&gt;URI.open&lt;/code&gt; 是异步运行的！&lt;/p&gt;
-&lt;p&gt;这一切真的很好。我们不仅不需要忍受线程及其复杂性，而且我们可以使用 Ruby 的标准 &lt;code&gt;URI.open&lt;/code&gt; 来运行请求，&lt;/p&gt;
-&lt;p&gt;无论是在 &lt;code&gt;Async&lt;/code&gt; 块的外部还是内部。这无疑可以为我们提供一些方便的代码重用。&lt;/p&gt;
-&lt;h3&gt;其他 HTTP clients&lt;/h3&gt;
-&lt;p&gt;虽然 &lt;code&gt;URI.open&lt;/code&gt; 是普通的 Ruby ，但可能并不是你喜欢的进行 HTTP 请求的方式。而且，你也不经常看到它被用于"serious work(正式的工作)"。&lt;/p&gt;
-&lt;p&gt;你可能有你自己喜欢的 HTTP  gem ，你可能会问 "它能在 Async 中工作吗"？为了找出答案，这里有一个使用 &lt;code&gt;HTTParty&lt;/code&gt;（一种知名的 HTTP 客户端）的例子。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "async"
-require "open-uri"
-require "httparty"
-
-start = Time.now
-
-Async do |task|
-  task.async do
-    URI.open("https://httpbin.org/delay/1.6")
-  end
-
-  task.async do
-    HTTParty.get("https://httpbin.org/delay/1.6")
-  end
-end
-
-puts "Duration: #{Time.now - start}"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在这个例子中，我们在一起运行了 &lt;code&gt;URI.open&lt;/code&gt; 和 &lt;code&gt;HTTParty&lt;/code&gt;，这完全没问题。&lt;/p&gt;
-&lt;p&gt;输出是：&lt;/p&gt;
-&lt;p&gt;持续时间：2.010069566&lt;/p&gt;
-&lt;p&gt;它运行的时间稍微超过了 2 秒，这表明两个请求是并发运行的（同时进行）。
-这里的要点是：&lt;strong&gt;你可以在一个 Async 上下文中运行任何 HTTP 客户端，它将会异步运行。Async Ruby 完全支持任何现有的 HTTP gem ！&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;高级例子&lt;/h2&gt;
-&lt;p&gt;到目前为止，我们只看到 Async Ruby 用各种 HTTP 客户端进行请求。让我们揭示 Async 在 Ruby 3 中的全部能力。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "async"
-require "open-uri"
-require "httparty"
-require "redis"
-require "net/ssh"
-require "sequel"
-
-DB = Sequel.postgres
-Sequel.extension(:fiber_concurrency)
-start = Time.now
-
-Async do |task|
-  task.async do
-    URI.open("https://httpbin.org/delay/1.6")
-  end
-
-  task.async do
-    HTTParty.get("https://httpbin.org/delay/1.6")
-  end
-
-  task.async do
-    Redis.new.blpop("abc123", 2)
-  end
-
-  task.async do
-    Net::SSH.start("164.90.237.21").exec!("sleep 1")
-  end
-
-  task.async do
-    DB.run("SELECT pg_sleep(2)")
-  end
-
-  task.async do
-    sleep 2
-  end
-
-  task.async do
-    `sleep 2`
-  end
-end
-
-puts "Duration: #{Time.now - start}"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我们扩展了包含 URI.open 和 HTTParty 的前一个例子，增加了五个附加操作：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Redis 请求&lt;/li&gt;
-&lt;li&gt;使用 net-ssh gem 进行的 SSH 连接&lt;/li&gt;
-&lt;li&gt;使用 sequel gem 进行的数据库查询&lt;/li&gt;
-&lt;li&gt;Ruby 的 sleep 方法&lt;/li&gt;
-&lt;li&gt;运行 sleep 可执行文件的系统命令。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这个例子中的所有操作也需要恰好 2 秒才能运行。&lt;/p&gt;
-&lt;p&gt;以下是示例输出：&lt;/p&gt;
-&lt;p&gt;持续时间：2.083171146&lt;/p&gt;
-&lt;p&gt;我们得到的输出结果和之前一样，这表明所有的操作都是并发运行的。哇，这有很多不同的 gem 可以异步运行！&lt;/p&gt;
-&lt;p&gt;重点：&lt;strong&gt;任何阻塞操作（ Ruby 解释器等待的方法）都与 Async 兼容，并将在 Ruby 3.0 和更高版本的 Async 代码块中异步工作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;性能看起来很好：7 x 2 = 14 秒，但示例在 2 秒内完成 – 很容易得到 7 倍的提升。&lt;/p&gt;
-&lt;h3&gt;Fiber Scheduler （纤程调度器）&lt;/h3&gt;
-&lt;p&gt;让我们花一点时间来反思一些重要的事情。这个例子中的所有操作（例如，URI.open ，Redis ，sleep ）都会根据上下文的不同而表现不同：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;同步执行:
-操作默认同步执行。整个 Ruby 程序（或者更具体的说，当前的线程）会等待一个操作完成后才会进行下一个操作。&lt;/li&gt;
-&lt;li&gt;异步执行:
-当操作包裹在一个 Async 块中时，操作会异步地执行。由此，多个 HTTP 或网络请求可以同时运行。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但是，例如，&lt;code&gt;HTTParty&lt;/code&gt; 或 &lt;code&gt;sleep&lt;/code&gt; 方法如何能同步和异步同时存在呢？ Async 库是否对所有这些 gems 和内部 Ruby 方法进行了猴子补丁？
-这种魔术是由于 &lt;code&gt;Fiber Scheduler&lt;/code&gt;。这是 Ruby 3.0 的一个特性，使得 &lt;code&gt;async&lt;/code&gt; 能够很好地与现有的 Ruby gems 和方法集成 - 不需要任何 hack 或 猴子补丁(Monkey patch) ！&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://brunosutic.com/blog/ruby-fiber-scheduler" rel="nofollow"&gt;Fiber Scheduler 也可以单独使用&lt;/a&gt; (&lt;a href="https://mark24code.github.io/ruby/2023/10/12/Ruby-Fiber-Scheduler.html" rel="nofollow"&gt;链接译文&lt;/a&gt;)！用这种方式，只需要几个内置的 Ruby 方法就能启用异步编程。&lt;/p&gt;
-&lt;p&gt;如你所想，Fiber Scheduler 触及的代码范围非常广：它是 Ruby 当前所有的阻塞 API ！这绝不仅仅是一个小功能。&lt;/p&gt;
-&lt;h2&gt;扩展例子&lt;/h2&gt;
-&lt;p&gt;让我们提高效率，并展示一个 Async Ruby 擅长的另一方面：扩展(scaling)。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ruby"&gt;require "async"
-require "async/http/internet"
-require "redis"
-require "sequel"
-
-DB = Sequel.postgres(max_connections: 1000)
-Sequel.extension(:fiber_concurrency)
-# Warming up redis clients
-redis_clients = 1.upto(1000).map { Redis.new.tap(&amp;amp;:ping) }
-
-start = Time.now
-
-Async do |task|
-  http_client = Async::HTTP::Internet.new
-
-  1000.times do |i|
-    task.async do
-      http_client.get("https://httpbin.org/delay/1.6")
-    end
-
-    task.async do
-      redis_clients[i].blpop("abc123", 2)
-    end
-
-    task.async do
-      DB.run("SELECT pg_sleep(2)")
-    end
-
-    task.async do
-      sleep 2
-    end
-
-    task.async do
-      `sleep 2`
-    end
-  end
-end
-
-puts "Duration: #{Time.now - start}s"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;此例子基于之前的那个例子，只是做了一些改动：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在 &lt;code&gt;Async&lt;/code&gt; 区块中的所有内容都会被重复 &lt;code&gt;1000.times&lt;/code&gt; (运行 1000 次)，这将并发操作的数量增加到了 5000 。&lt;/li&gt;
-&lt;li&gt;出于性能考虑，我们将 &lt;code&gt;URI.open&lt;/code&gt; 和 &lt;code&gt;HTTParty&lt;/code&gt; 替换为了 &lt;code&gt;async-http&lt;/code&gt; HTTP &lt;code&gt;客户端。async-http&lt;/code&gt; 可以与 HTTP2 一起工作，当进行大量请求时，它的速度要快得多。&lt;/li&gt;
-&lt;li&gt;SSH 操作被移除了，因为我找不到一种正确的配置方法可以使其高效地工作。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;就像之前一样，每个独立操作都需要 2 秒才能执行。其输出为：&lt;/p&gt;
-&lt;p&gt;持续时间: 13.672289712&lt;/p&gt;
-&lt;p&gt;这表明累积运行时间为 10,000 秒的 5,000 个操作仅在 13.6 秒内就完成了！&lt;/p&gt;
-&lt;p&gt;这个持续时间比前面的例子（ 2 秒）要长，这是因为创建这么多网络连接的开销。&lt;/p&gt;
-&lt;p&gt;我们几乎没有进行性能调优（例如，调整垃圾收集，内存分配等），&lt;strong&gt;但我们仍然实现了 730 倍的“加速”，在我看来，这是一个相当令人印象深刻的结果！&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;扩容限制(Scaling limits)&lt;/h3&gt;
-&lt;p&gt;最好的部分是：我们只是初步探索了使用 Async Ruby 所能做到的事情。&lt;/p&gt;
-&lt;p&gt;虽然线程（ Threads ）的最大数量是 2048 （至少在我的机器上是这样），&lt;strong&gt;但是 Async tasks 的上限数量是百万级别的！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;你真的可以同时运行百万个异步操作吗？是的，你可以 - 已经有些用户做到了。&lt;/p&gt;
-&lt;p&gt;Async 真的为 Ruby 打开了新局面：想象一下一个 HTTP 服务器处理成千上万的客户，或者同一时间处理成百上千的 websocket 连接 ... 这都是可能的！&lt;/p&gt;
-&lt;h2&gt;结论&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Async Ruby 经过了漫长而神秘的开发期，但现在它稳定且已经准备好投入生产。&lt;/strong&gt;已经有一些公司在生产环境下运行它并从中受益。要开始使用它，你可以去 &lt;a href="https://github.com/socketry/async" rel="nofollow"&gt;Async 的仓库&lt;/a&gt;看看。&lt;/p&gt;
-&lt;p&gt;唯一的注意点是，它不能和 Ruby on Rails 一起工作，因为 &lt;code&gt;ActiveRecord&lt;/code&gt; 不支持 &lt;code&gt;Async&lt;/code&gt; gem 。但如果不涉及到 &lt;code&gt;ActiveRecord&lt;/code&gt;，你仍然可以在 Rails 中使用它。&lt;/p&gt;
-&lt;p&gt;Async 的最大优势在于扩展网络 I/O 操作，比如进行或接收 HTTP 请求。对于 CPU 密集型的工作负载，线程是更好的选择，但至少我们不再需要把他们用于所有事情。&lt;/p&gt;
-&lt;p&gt;Async Ruby 非常强大，可扩展性极高。它是一个游戏规则改变者，我希望这篇文章能证明这一点。Async 改变了 Ruby 的可能性，并且当我们所有人开始更多地“异步”思考时，它将对 Ruby 社区产生重大影响。&lt;/p&gt;
-&lt;p&gt;最好的一点是，它不会使任何现有的代码变得过时。&lt;strong&gt;就像 Ruby 本身一样，Async 设计得很美，使用起来也很愉快。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;希望你在使用 Async Ruby 时编程愉快！&lt;/p&gt;
-&lt;p&gt;Happy hacking with Async Ruby!&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:21:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981372#reply0</guid></item><item><title>[这个世界不完美] 以色列大使馆官微承认自己是纳粹？</title><link>https://www.v2ex.com/t/981371#reply20</link><description>&lt;p&gt;活久见了属于是&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/16Rkyu3.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:19:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981371#reply20</guid></item><item><title>[西安] 各位老哥，西安有无推荐的中医就诊</title><link>https://www.v2ex.com/t/981370#reply0</link><description></description><pubDate>Thu, 12 Oct 2023 08:18:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981370#reply0</guid></item><item><title>[推广] v2ers，有没有人买冬枣啊 😋</title><link>https://www.v2ex.com/t/981368#reply3</link><description>&lt;h4&gt;🌟 新鲜冬枣来啦！ 🌟&lt;/h4&gt;
-&lt;p&gt;亲爱的朋友们，我姐姐家有十亩冬枣，今年果实丰硕，口感鲜美，甜而不腻，绝对是您健康零食的最佳选择！ 🍇&lt;/p&gt;
-&lt;h4&gt;🌈 产品介绍：&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;5 斤 - 60 元&lt;/li&gt;
-&lt;li&gt;10 斤 - 120 元&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;自家种植，100%绿色健康！ 🌿&lt;/p&gt;
-&lt;p&gt;🏃‍♂ 机会有限，赶紧抢购吧！冬枣季节有限，错过就要等一年了。快来享受纯正的冬枣风味，满足您的味蕾！ 😋&lt;/p&gt;
-&lt;h4&gt;📦 配送方式：&lt;/h4&gt;
-&lt;p&gt;快递发货，包邮，注：偏远地区可能不行&lt;/p&gt;
-&lt;h4&gt;😋联系方式：&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/C3JJNgK.jpg" /&gt;&lt;/p&gt;
-&lt;h4&gt;🌿枣&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://imgur.com/AXHPlwM.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://imgur.com/iHceIc5.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://imgur.com/xv9cv5l.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://imgur.com/8DUqSPt.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;本文案由 chatGPT3.5 倾情赞助&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:11:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981368#reply3</guid></item><item><title>[问与答] 万能的 V 友，有没有什么简单好用的网络拓扑模拟器</title><link>https://www.v2ex.com/t/981366#reply2</link><description>&lt;p&gt;需要大致是这样的：希望能构建一个比较复杂的网络（由好几个小局域网组成，不同链路存在不同的丢包、延迟、带宽），用来做实验。手动开一堆虚拟机或者 Docker ，手动搭局域网设置这些参数肯定是可以的，但如果有几十上百个节点就很头疼了。&lt;/p&gt;
-&lt;p&gt;有没有这样的一种工具，我通过配置文件来描述拓扑，工具自动地为我搭建一张网？类似这样的大规模拓扑模拟有什么好办法吗？&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:03:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981366#reply2</guid></item><item><title>[程序员] 请求为啥 Stalled 这么久（前端大佬路过别走</title><link>https://www.v2ex.com/t/981365#reply1</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/atT5o8V.png" /&gt;&lt;/p&gt;
-&lt;p&gt;如果说浏览器有 6 个 TCP 链接的限制，那我看我这也没有那么多啊，前边的都完成了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/kRUiNv3.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:00:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981365#reply1</guid></item><item><title>[GitHub Copilot] Vscode GitHub copilot 代码提示没反应</title><link>https://www.v2ex.com/t/981364#reply0</link><description>macOS 上 vs code 成功安装和登陆了 copilot ，copilot 聊天功能什么的可以使用。右下角也有正常的 copilot 图标。&lt;br /&gt;但是输代码时，没有任何反应。已重新安装 copilot 插件，无果。&lt;br /&gt;&lt;br /&gt;相同的 copilot 账号，在 jetbrains clion 上可以使用代码提示。</description><pubDate>Thu, 12 Oct 2023 08:00:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981364#reply0</guid></item><item><title>[macOS] macOS 有什么第三方 app 可以设置快捷键的？</title><link>https://www.v2ex.com/t/981363#reply0</link><description>&lt;p&gt;其实 macOS 自带的快捷键已经很好用了，但是我遇到一个问题是，我在 setting- keyboard- Services 上给我的 shortcuts 快捷指令设置好快捷键之后，每次重启电脑，我的设置就没了，又得重新设置。&lt;/p&gt;
-&lt;p&gt;还有另一个问题就是使用系统自动的快捷键设置，有很多快捷键不能设置，因为会跟系统其他快捷键设置有冲突。我用第三方 app 例如 Raycast ，或者 BetterTouchTool 就可以我想要设置什么快捷键就使用什么快捷键，不受系统限制。&lt;/p&gt;
-&lt;p&gt;最后一个问题就是 macOS 自带快捷键设置之后，处理优先级感觉较低，例如 macOS 开始经典的转圈圈系统卡死，我是用 shortcuts 写了一个 KILL SCIM ，每次都要等很久才能执行命令，但是如果我是使用 BetterTouchTool ，我只要按下 shift+commnad+k ，立马就执行了。&lt;/p&gt;
-&lt;p&gt;或许你会说，那么 Raycast 和 BetterTouchTool 不是挺好的吗，为什么不用？
-因为我只想要可以设置快捷键的 app 就行，我不需要其他的功能，尤其是 BetterTouchTool 我看到密密麻麻的设置就觉得太专业了。&lt;/p&gt;
-&lt;p&gt;最后，求推荐一款简单的，只有可以设置快捷键的第三方 app ，我就想用 command+L 来休眠电脑，我想用 shift+commnad+k 来启用指定快捷指令。&lt;/p&gt;
-&lt;p&gt;感谢！&lt;/p&gt;</description><pubDate>Thu, 12 Oct 2023 08:00:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981363#reply0</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 13 Oct 2023 04:48:08 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 陕西联通和移动的企业 PON 商宽还算比较便宜，就是不知道怎么办理？</title><link>https://www.v2ex.com/t/981662#reply0</link><description>&lt;p&gt;在我们陕西移动和联通的官网政企频道看到的资费，好像还不错，就是不知道怎么办理，留了电话也没人联系，大家看看哪家的好？
+电信那是贵的一 B,现在用的电信 PON 商宽 130 元 300M 下 100M 上动态公网 ip 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="陕西移动商宽" class="embedded_image" rel="noreferrer" src="https://static.chiphell.com/forum/202310/13/121937jfxk8j3fk1jsl1kq.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="陕西联通商宽" class="embedded_image" rel="noreferrer" src="https://static.chiphell.com/forum/202310/13/122144iz2ekfjs3gees3go.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:37:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981662#reply0</guid></item><item><title>[macOS] macOS 14 中的其他用户与共享占用 90 多 G</title><link>https://www.v2ex.com/t/981661#reply0</link><description>&lt;p&gt;如题，在通用的存储空间中发现其他用户与共享这一项占用 90 多 GB ，这个为啥会占用这么多，本来 mac 的硬盘就精贵，这个还一下占用这么多，怎么删呢&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:37:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981661#reply0</guid></item><item><title>[NAS] 黑群晖（笔记本电脑）上面插的启动 U 盘可以拔掉嘛？</title><link>https://www.v2ex.com/t/981660#reply1</link><description>请教各位 nas 大佬，我一台老笔记本电脑装了黑群晖，现在又买了一个 4T 的硬盘，但是笔记本电脑上的 USB 接口不够了，那么问题来了，我可以把启动 U 盘拔掉然后插硬盘吗？</description><pubDate>Fri, 13 Oct 2023 04:35:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981660#reply1</guid></item><item><title>[程序员] v 友们推荐一款 Gspace 替代品，谷歌框架 GMS</title><link>https://www.v2ex.com/t/981659#reply0</link><description>&lt;p&gt;由于新款华为手机已不支持 GMS 框架安装，gspace 是目前用了一年多谷歌全家体验不错的产品，最近一段时间强制弹广告有点恶心，不充值简直不让用，降低了几个老版本广告插件一样弹，用户量起来了开始割韭菜了。v 友有没有比较轻量级内置 GMS 服务的 app 推荐呢？&lt;/p&gt;
+&lt;p&gt;官方下载链接地址
+&lt;a href="https://gspaceteam.com/" rel="nofollow"&gt;https://gspaceteam.com/&lt;/a&gt;
+第三方下载地址可以下载历史版本
+&lt;a href="https://gspace.en.uptodown.com/android" rel="nofollow"&gt;https://gspace.en.uptodown.com/android&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981659#reply0</guid></item><item><title>[宽带症候群] 咨询大佬们，最近宽带遇到几个问题，有没有好的思路</title><link>https://www.v2ex.com/t/981658#reply0</link><description>&lt;h4&gt;几个问题看大佬们有没有好的思路&lt;/h4&gt;
+&lt;p&gt;硬件：华硕 RT-AC66U-B1 梅林，Hyper-V 虚拟的爱快&lt;/p&gt;
+&lt;p&gt;宽带：单电信宽带 500/50 ，从电信代理过户的套餐&lt;/p&gt;
+&lt;p&gt;几个问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;梅林单线多拨插件基本每次都能够 2 拨成功和拿到 2 个公网 IP ，&lt;a href="http://10000.gd.cn" rel="nofollow"&gt;10000.gd.cn&lt;/a&gt; 测速能够正常叠加，但 speedtest 不能正常叠加&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 iKuai 拨号，2 拨成功过几次，而且是凌晨，iKuai 配好了负载均衡后能够正常叠加，但是成功率非常低，远低于梅林，原因莫名&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;最郁闷的事情来了，虽然给的是 50 上，但实际一直都能跑 100 上（常年 PT 非常明确能够到 100 上），最近一直折腾这个多拨，然后前天心血来潮换了个小米 7000 ，一测速，发现只能跑 50 上了，不管是光猫拨号，还是小米拨号、爱快、电脑拨号，都是 50 上，换回去华硕路由，也是 50 上了，不知道是否之前折腾多拨有关系&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后，这个单宽带是已经用了几年了，最早确实是 50 上，后来是什么时候突然能跑 100 没有印象了，难道是多拨被电信风控了，太郁闷了&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:33:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981658#reply0</guid></item><item><title>[问与答] 摄影入门，买哪款相机比较好？</title><link>https://www.v2ex.com/t/981657#reply0</link><description>周末太无聊了，学摄影吧，打算买个相机到处拍。&lt;br /&gt;全新预算在 5k 以内，二手预算在 2.5k 以内</description><pubDate>Fri, 13 Oct 2023 04:32:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981657#reply0</guid></item><item><title>[程序员] 把自己新的个人博客前端写完了</title><link>https://www.v2ex.com/t/981655#reply5</link><description>&lt;p&gt;之前用的是 WordPress ，一直想自己实现一套博客系统。
+现在前端差不多写完了，第一次用 Nuxt.js ，也用了很多新的特性，前前后后忙了挺久，不过现在后端依旧是 WordPress ，前端部署在 Vercel ，自己感觉还行。就想着发出来给大家看看。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://im.daidr.me" rel="nofollow"&gt;https://im.daidr.me&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981655#reply5</guid></item><item><title>[OpenAI] ChatGPT 识图 API 已经全球首发搞出来了，兼容 Chat 接口</title><link>https://www.v2ex.com/t/981654#reply0</link><description>可能是除了 ChatGPT 之外第一个搞出来的，使用方式很简单，调用时在 Prompt 中加入特定名称的 markdown 就行，类似这样:&lt;br /&gt;&lt;br /&gt;```&lt;br /&gt;这是谁画的 &lt;br /&gt;[GPT-4 Vision]( &lt;a href="https://cdn.pixabay.com/photo/2023/10/07/23/39/girl-8301168_1280.png" rel="nofollow noopener" target="_blank"&gt;https://cdn.pixabay.com/photo/2023/10/07/23/39/girl-8301168_1280.png&lt;/a&gt;) &lt;br /&gt;```&lt;br /&gt;&lt;br /&gt;效果图:&lt;br /&gt;&lt;a href="https://i.imgur.com/sDnLSlf.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/sDnLSlf.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;甚至比直接用 ChatGPT 更灵活，在微软的 GPT-4v 测试报告中有 few-shot 场景，使用 ChatGPT 聊天框是复现不了的:&lt;br /&gt;&lt;a href="https://i.imgur.com/WDqZ02r.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WDqZ02r.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但是用 API 就可以做到文字和图片交错的能力，灵活度提高了。在官方识图 API 出来之前，可能是最好的替代品。复现下这个案例:&lt;br /&gt;&lt;a href="https://i.imgur.com/vnXSQDE.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/vnXSQDE.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我们一直在做 GPT 相关各种功能，也有 Plus GPT-4 转 API 的工作，这次对接上识图功能，每天可以支持调用上百万次，有需求的大佬可以联系我: emhpZ3VvNjMwMA==</description><pubDate>Fri, 13 Oct 2023 04:11:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981654#reply0</guid></item><item><title>[macOS] 突然不能用 Tab 在界面上切换焦点了</title><link>https://www.v2ex.com/t/981652#reply1</link><description>就比如退出一个未保存的文档时，会弹出「删除」「取消」「保存」的对话框&lt;br /&gt;&lt;br /&gt;之前可以用 Tab 在这几个选项之间轮流切换，然后按空格键就可以确认选项&lt;br /&gt;&lt;br /&gt;但是从之前某个时间点就突然不行了，诡异的是用 Shift+Tab 仍然可以反向切换&lt;br /&gt;&lt;br /&gt;不是 Sonoma 的问题，在升级之前就有了</description><pubDate>Fri, 13 Oct 2023 04:07:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981652#reply1</guid></item><item><title>[酷工作] [坐标东京] [需要日语！] 有人问我要 C++的 hc 有 10 个 unity hc 有 5 个</title><link>https://www.v2ex.com/t/981651#reply0</link><description>&lt;p&gt;这 15 个 hc 来自于不同的公司，因此匹配需要提供简历。
+我们是猎头公司，不是中介，不是 HR ，
+如果想了解日本行情，请留言技术年限和技术方向介绍，我可以提供相近方向的求人票
+联络方式：wechat：weoffer99 或者 549258011
+line：healchalu&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:01:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981651#reply0</guid></item><item><title>[Apple] 外区的 AppleID 在国内使用容易被封号吗</title><link>https://www.v2ex.com/t/981649#reply7</link><description>我之前注册的美区 appleid 登不上了，提示这个 Apple ID 没有被激活，在百度搜了一下，这是苹果账号被封了，解决办法是打苹果客服电话，由于这个美区 ID 并没有购买过软件，我的处理方法是重新注册一个美区账号。&lt;br /&gt;但是看网上说登录 iCloud 会导致账号被封，但是我的这个账号并没有登录 iCloud ，甚至平时都不怎么使用，就莫名其妙的被封了。&lt;br /&gt;我新创建的苹果账号购买了美区充值卡，怎样才能避免账号被封禁呢，还是说封禁是概率问题，现在的美区 id 不能登 iCloud 吗，请问大家被封的概率大吗？</description><pubDate>Fri, 13 Oct 2023 03:59:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981649#reply7</guid></item><item><title>[酷工作] [社招] [多职位] NewsBreak 北京招聘</title><link>https://www.v2ex.com/t/981648#reply0</link><description>NewsBreak 简介&lt;br /&gt;NewsBreak 创立于美国硅谷。我们的愿景是成为全球智能本地信息和服务综合平台，高效地连接本地用户、内容创作者和广告商家，使其融会贯通，共生共荣。NewsBreak 是北美市场 Top1 新闻信息流 APP ，2019 年开始持续盈利，北京团队负责产品研发，目前 DAU 千万级别，产品规模处于快速增长期，3 年业务实现五倍增长。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;企业福利&lt;br /&gt;餐补、住房补贴、交通补助、通讯补助，子女补充医疗，小外企，六险一金全额缴纳，但不要求英语。接地气的互联网外企，技术风格，远离内卷和无序扩张，我们提供业内具有竞争力的薪酬。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级 Android 开发工程师&lt;br /&gt;任职要求： &lt;br /&gt;1.统招本科及以上学位，3 年以上 Android 开发经验； &lt;br /&gt;2.精通 Android 操作系统特性和内部运行机制，精通 UI 开发，熟练各种 UI 组件并了解其原理； &lt;br /&gt;3.精通 Android 客户端开发，有丰富的客户端应用架构经验，可以独立承担 App 级别的架构设计； &lt;br /&gt;4.精通 Android 调试工具和方法，可以应付各种 Android 复杂问题，具备良好的分析解决问题能力，有技术难题攻关经验；&lt;br /&gt;5.有高度的工作热情和自我能动性，项目和技术推动和执行能力强，有团队合作精神；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Android/Ios Tech Lead&lt;br /&gt;任职要求：&lt;br /&gt;1. 精通 Android/iOS 并达到资深架构师水平, 对 Android/iOS 系统的底层架构和原理有较深理解，有较强的的跨平台开发经验；&lt;br /&gt;2. 具备大型 App （日活千万级）或复杂业务（ 3 年以上的成熟业务） App 迭代的全流程实践经验积累，具备对复杂业务进行分析、拆解、抽象、建模能力；&lt;br /&gt;3. 有移动研发团队的管理经验，团队规模 10 人及以上，在团队组建、人才培养等方面有较好的经验和心得；&lt;br /&gt;4. 具备优秀的规划能力和敏锐的产品意识，能够依据业务发展阶段及趋势，合理为团队梳理清晰的团队目标，系统性地规划、拆解、落地；&lt;br /&gt;5. 具备优秀的跨团队沟通协作能力，有良好的协作意识、沟通方法及组织协调能力；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;SRE 高级技术专家-Tech Lead&lt;br /&gt;岗位要求&lt;br /&gt;1. 统招本科及以上学历，六年及以上复杂业务系统运维经验，有推荐/搜索/广告系统运维经验优先；&lt;br /&gt;2. 基础扎实，熟练掌握 Linux 系统、K8S 、Docker ；&lt;br /&gt;3. 至少熟练掌握 Python/Shell 其中一种脚本语言；&lt;br /&gt;4. 有丰富 MongoDB 、Redis 、MySQL 、Kafka 运维经验；&lt;br /&gt;5. 有 AWS 使用经验优先；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级推荐系统架构工程师﻿&lt;br /&gt;职位要求：&lt;br /&gt;1. 本科及以上学历，3-5 年以上 Linux 服务端开发工作经验，学习能力强；有高并发，高可用系统设计研发经验者优先；&lt;br /&gt;2. 对 Java / C++ / Golang 中至少一门语言有良好的语言基础，扎实的编码能力，良好的编码风格，有大型系统代码编写经历；&lt;br /&gt;3. 良好的架构设计能力，能独立承担任务，有把控项目进度的能力，工作有逻辑条理；&lt;br /&gt;4. 满足以下任一点优先：&lt;br /&gt; a. 熟悉分布式机器学习框架相关技术，如 tensorflow ，pytorch 等，理解该类系统架构设计&lt;br /&gt; b. 熟悉常见的向量 ANN 检索算法，理解 faiss ，hnswlib ，annoy 等相关开源算法或框架原理&lt;br /&gt; c. 熟悉分布式存储系统相关技术，如 redis ，mongodb ，scylladb ，理解其设计原理&lt;br /&gt; d. 有大型分布式系统调优经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;内推邮箱： haotian.liang@newsbreak.com&lt;br /&gt;邮件主题格式如下： [内推] 姓名+电话+应聘岗位，例如  [内推] 张三+18811444112+高级推荐系统架构工程师</description><pubDate>Fri, 13 Oct 2023 03:53:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981648#reply0</guid></item><item><title>[iPhone] 欧版 iPhone14PM 512G 现在价格才 7500，深圳口岸入关，靠谱吗？</title><link>https://www.v2ex.com/t/981647#reply2</link><description>同型号日版当地要 10000 左右，跟 15PM 没差了。&lt;br /&gt;1 、欧版这个什么情况，为什么这么便宜？&lt;br /&gt;2 、日版 14/15 差价怎么这么少？&lt;br /&gt;&lt;br /&gt;欧版已确认是二手，不用看了。。。金，单卡无锁，充电 42 次，电池 100%</description><pubDate>Fri, 13 Oct 2023 03:51:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981647#reply2</guid></item><item><title>[摄影] 摄影小白微单问题终极汇总贴，跪求大法师们给点建议</title><link>https://www.v2ex.com/t/981646#reply0</link><description>个人给自己的定位是摄影爱好者&lt;br /&gt;&lt;br /&gt;摄影题材主要是：生活记录、日常扫街、艺术展、博物馆、旅行旅拍、家里人物拍照，有视频、照片双持的要求，对于天文摄影、微距摄影没有需求。非必要不想进行繁重后期，但如果后期提升明显也可以接受。&lt;br /&gt;&lt;br /&gt;需求是：优先保证拍照、视频呈现效果，拍照视频握持操作体验，在此基础上尽可能减轻重量，如无必要不携带云台。预算全画幅变焦官方单镜头+机身 20000 左右&lt;br /&gt;&lt;br /&gt;==============================================================================&lt;br /&gt;&lt;br /&gt;主要还是在索尼、佳能、富士、尼康之间选择，其他品牌暂时不考虑，有几个疑问点想咨询&lt;br /&gt;&lt;br /&gt;1.网上都说索尼的对焦速度快，在同价位产品下到底差距多大呢？比如索尼的 a7m4 和佳能的 r62 比，这个差距有多大呢？在不同环境下（比如暗光或其他情景下）差距会更明显还是差不多？这个差距对于用户使用过程中感知度强吗？&lt;br /&gt;&lt;br /&gt;2.佳能的防抖一直是被津津乐道作为主要竞争力，机身防抖效果具体怎么样？需要搭配高端镜头才能达到最佳效果吗？防抖和其他同价位的机器相比如何呢？这个差距只是数值差距还是使用过程中感觉明显？和加持云台的其他机器差距大吗？差距具体有多大？能举个例子吗？&lt;br /&gt;&lt;br /&gt;3.都是说富士主要就是一个滤镜，网上也是一群人出各种教程来模拟富士滤镜来宣传无需买富士，实际情况真的如此吗？模拟的程度有多高？差距又有多大？这个差距对于摄影人感知度强吗？&lt;br /&gt;&lt;br /&gt;4.在佳能 r62 推出来以后，因为是前照式 CMOS 被各种喷，因为电子产品买新不买旧的概念，佳能的行为有点像是在不停打磨老的技术，不像索尼追新，这个前照式 背照式差距具体有多大呢？对于后续的影响感知度强吗？具体体现能否给点例子？&lt;br /&gt;&lt;br /&gt;5.佳能的人像一直是被认为是非常不错的效果，但是也有很多索尼用户说可以通过后期达到同样的效果，这个是能够真的实现吗？既然都能够后期，是否说佳能的人像这一块的优势是可以抹除掉的？这个后期的难度对于平常人来说意义大吗？我知道有 PS 大佬无所不能，但是对于普通用户来说无法达到那个水平和时间精力一点点调。所以想知道这部分是否是真的具有意义，还是只是一个噱头&lt;br /&gt;&lt;br /&gt;6.买索尼很多人的理由是副厂镜头多，价格便宜。但是对于我这个普通用户来说，我可能只是需要一个变焦在加几个定焦完事，出于成像优先的考虑，我大概率还是咬牙分期买官方 G 大师的镜头，所以副厂对于我的意义是不是就没有了？如果每个相机品牌我都是买他们的官方镜头，那么价格上差距还大吗？一些追求拍摄、摄影成像质量的摄影师来说，便宜的副厂镜头意义是什么呢？&lt;br /&gt;&lt;br /&gt;7.很多人都说索尼拍出的照片不进行后期没法看，是否属实？如果要进行后期需要的学习成本有多大？比如需要花多久才能够学会？是不是每次拍了几百 G 的照片视频都要先处理一遍才能够差不多看？这个过程大佬们是怎么处理的？&lt;br /&gt;&lt;br /&gt;8.是不是大多数买佳能的是因为想复用以前的镜头的原因？对于小白什么都没有的人考虑哪个比较好呢？&lt;br /&gt;&lt;br /&gt;9.相机有很多参数，网上视频和文章众说纷纭，有哪些参数是重要的，哪些是加分项（有最好没有也不影响），相机的技术换代时间大概时多久呢？当下是等下一代还是直接入手？&lt;br /&gt;&lt;br /&gt;10.各个相机厂商应该都是保证自己品牌优势的前提下逐步的侵蚀其他厂商的，那么索尼、佳能、富士、尼康这几个品牌是否在自己相机的薄弱点部分有所突破和改进呢？&lt;br /&gt;&lt;br /&gt;===================================================================&lt;br /&gt;&lt;br /&gt;辛苦各个大法师和热心朋友帮忙解答了！上面这些问题其实我自己也搜索过，但是网上的信息众说纷纭，很多时候要么不说要么就是一句好、不错带过，具体好多少？对于普通人来说实操效果有多大？更具体的部分描述的人寥寥，而这些问题又是实实在在使用相机中会遇到的。买一个相机分期 24 期很不容易，所以也是慎之又慎，所以希望有经验的大佬们能够不吝赐教，在此拜谢了！</description><pubDate>Fri, 13 Oct 2023 03:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981646#reply0</guid></item><item><title>[前端开发] chrome://flags/#third-party-storage-partitioning 默认启用导致问题</title><link>https://www.v2ex.com/t/981645#reply0</link><description>&lt;p&gt;公司的网站，&lt;a href="http://A.com" rel="nofollow"&gt;A.com&lt;/a&gt; 是通行证用来登录，&lt;a href="http://B.com" rel="nofollow"&gt;B.com&lt;/a&gt; 和 A 不在一个主域名下，用 iframe 嵌套 A 网站的页面，通过读取 A 的 localstorage 并 postMessage 给 B 网站，进行单点登录。
+chrome://flags/#third-party-storage-partitioning 默认启用后，导致 B 嵌入的 A 页面读取不到自身的 localstorage 了，找了 2 天还是没找到解决办法，除了禁用这个特性，还有没有其他办法。。。
+有没有大佬给个思路&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981645#reply0</guid></item><item><title>[Linux] 小白求问，关于内网转发问题</title><link>https://www.v2ex.com/t/981644#reply3</link><description>&lt;p&gt;需求：将 A 机器网口 a 收到的所有包转发的 B 机器网口 b 上，
+我看了一些教程都需要指定端口，请问一定需要指定端口吗，能不指定端口不做任何处理直接转发吗？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:43:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981644#reply3</guid></item><item><title>[Android] 14 好像真的省电了一些</title><link>https://www.v2ex.com/t/981642#reply4</link><description>从 AccuBattery 的统计看，原先大概亮屏三个多小时，现在能有四个多了，不过因为平常都是随手充电，实际感觉没啥差别。Pixel 6 。&lt;br /&gt;&lt;br /&gt;另外升级完用起来也没啥问题，原生党赶紧上啊，哈哈</description><pubDate>Fri, 13 Oct 2023 03:38:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981642#reply4</guid></item><item><title>[问与答] 杭州那个云栖大会怎么样啊，值得去吗</title><link>https://www.v2ex.com/t/981641#reply0</link><description>&lt;p&gt;在工作日，看内容主要是云相关呢
+搞 NLP 的值得去看看吗&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:37:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981641#reply0</guid></item><item><title>[问与答] 请教下大家关于电视、回音壁、atv 在音频支持方面的一些问题</title><link>https://www.v2ex.com/t/981640#reply0</link><description>&lt;p&gt;背景：&lt;/p&gt;
+&lt;p&gt;家里买了 Sony 电视，计划双十一时候再购买一套 Sony 5.1 声道回音壁，二者都支持 eARC ，回音壁也支持 DTS 和杜比。&lt;/p&gt;
+&lt;p&gt;目前的内容来源：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sony 电视上面可以安装爱优腾 B 站这些 app ，播放网络视频内容&lt;/li&gt;
+&lt;li&gt;我在电视上装了 Kodi ，可以播放通过阿里云盘这些网盘中下载的高清视频内容（这些内容一般都带高质量音频）&lt;/li&gt;
+&lt;li&gt;还有一个电信送的 iTV ，可以观看里面的卫视频道直播和一些点播内容&lt;/li&gt;
+&lt;li&gt;计划未来会购买 AppleTV ，通过它来播放像 Netflix 、Youtube 这些 app 的内容，或者安装 Infuse 之类的 app&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;现在我的问题是不太清楚各种内容在音频标准这一块的支持程度：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;目前像爱优腾 B 站这些，内容的音频标准是啥样的&lt;/li&gt;
+&lt;li&gt;像直接安装 Kodi 这种，应该是要 App 支持各种音频标准和编解码的吧&lt;/li&gt;
+&lt;li&gt;iTV 里面的内容我不大清楚是啥样的，貌似少量内容比如春晚之类的节目有高音质吧&lt;/li&gt;
+&lt;li&gt;AppleTV 上国外的流媒体应该支持还好，不过通过 Infuse 之类播放的内容好像有存在编解码支持的问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;请教下有经验的朋友解惑一下，或者有别的建议也欢迎，感谢。&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981640#reply0</guid></item><item><title>[问与答] 模拟公司门禁卡</title><link>https://www.v2ex.com/t/981639#reply2</link><description>有什么方法能够模拟公司门禁卡到手机里（ ios 或者安卓）&lt;br /&gt;ps：老是忘记带卡</description><pubDate>Fri, 13 Oct 2023 03:35:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981639#reply2</guid></item></channel></rss>
