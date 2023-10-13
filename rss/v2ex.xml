@@ -1,50 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 13 Oct 2023 04:48:08 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 陕西联通和移动的企业 PON 商宽还算比较便宜，就是不知道怎么办理？</title><link>https://www.v2ex.com/t/981662#reply0</link><description>&lt;p&gt;在我们陕西移动和联通的官网政企频道看到的资费，好像还不错，就是不知道怎么办理，留了电话也没人联系，大家看看哪家的好？
-电信那是贵的一 B,现在用的电信 PON 商宽 130 元 300M 下 100M 上动态公网 ip 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="陕西移动商宽" class="embedded_image" rel="noreferrer" src="https://static.chiphell.com/forum/202310/13/121937jfxk8j3fk1jsl1kq.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="陕西联通商宽" class="embedded_image" rel="noreferrer" src="https://static.chiphell.com/forum/202310/13/122144iz2ekfjs3gees3go.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:37:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981662#reply0</guid></item><item><title>[macOS] macOS 14 中的其他用户与共享占用 90 多 G</title><link>https://www.v2ex.com/t/981661#reply0</link><description>&lt;p&gt;如题，在通用的存储空间中发现其他用户与共享这一项占用 90 多 GB ，这个为啥会占用这么多，本来 mac 的硬盘就精贵，这个还一下占用这么多，怎么删呢&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:37:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981661#reply0</guid></item><item><title>[NAS] 黑群晖（笔记本电脑）上面插的启动 U 盘可以拔掉嘛？</title><link>https://www.v2ex.com/t/981660#reply1</link><description>请教各位 nas 大佬，我一台老笔记本电脑装了黑群晖，现在又买了一个 4T 的硬盘，但是笔记本电脑上的 USB 接口不够了，那么问题来了，我可以把启动 U 盘拔掉然后插硬盘吗？</description><pubDate>Fri, 13 Oct 2023 04:35:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981660#reply1</guid></item><item><title>[程序员] v 友们推荐一款 Gspace 替代品，谷歌框架 GMS</title><link>https://www.v2ex.com/t/981659#reply0</link><description>&lt;p&gt;由于新款华为手机已不支持 GMS 框架安装，gspace 是目前用了一年多谷歌全家体验不错的产品，最近一段时间强制弹广告有点恶心，不充值简直不让用，降低了几个老版本广告插件一样弹，用户量起来了开始割韭菜了。v 友有没有比较轻量级内置 GMS 服务的 app 推荐呢？&lt;/p&gt;
-&lt;p&gt;官方下载链接地址
-&lt;a href="https://gspaceteam.com/" rel="nofollow"&gt;https://gspaceteam.com/&lt;/a&gt;
-第三方下载地址可以下载历史版本
-&lt;a href="https://gspace.en.uptodown.com/android" rel="nofollow"&gt;https://gspace.en.uptodown.com/android&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981659#reply0</guid></item><item><title>[宽带症候群] 咨询大佬们，最近宽带遇到几个问题，有没有好的思路</title><link>https://www.v2ex.com/t/981658#reply0</link><description>&lt;h4&gt;几个问题看大佬们有没有好的思路&lt;/h4&gt;
-&lt;p&gt;硬件：华硕 RT-AC66U-B1 梅林，Hyper-V 虚拟的爱快&lt;/p&gt;
-&lt;p&gt;宽带：单电信宽带 500/50 ，从电信代理过户的套餐&lt;/p&gt;
-&lt;p&gt;几个问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;梅林单线多拨插件基本每次都能够 2 拨成功和拿到 2 个公网 IP ，&lt;a href="http://10000.gd.cn" rel="nofollow"&gt;10000.gd.cn&lt;/a&gt; 测速能够正常叠加，但 speedtest 不能正常叠加&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;用 iKuai 拨号，2 拨成功过几次，而且是凌晨，iKuai 配好了负载均衡后能够正常叠加，但是成功率非常低，远低于梅林，原因莫名&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;最郁闷的事情来了，虽然给的是 50 上，但实际一直都能跑 100 上（常年 PT 非常明确能够到 100 上），最近一直折腾这个多拨，然后前天心血来潮换了个小米 7000 ，一测速，发现只能跑 50 上了，不管是光猫拨号，还是小米拨号、爱快、电脑拨号，都是 50 上，换回去华硕路由，也是 50 上了，不知道是否之前折腾多拨有关系&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;最后，这个单宽带是已经用了几年了，最早确实是 50 上，后来是什么时候突然能跑 100 没有印象了，难道是多拨被电信风控了，太郁闷了&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:33:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981658#reply0</guid></item><item><title>[问与答] 摄影入门，买哪款相机比较好？</title><link>https://www.v2ex.com/t/981657#reply0</link><description>周末太无聊了，学摄影吧，打算买个相机到处拍。&lt;br /&gt;全新预算在 5k 以内，二手预算在 2.5k 以内</description><pubDate>Fri, 13 Oct 2023 04:32:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981657#reply0</guid></item><item><title>[程序员] 把自己新的个人博客前端写完了</title><link>https://www.v2ex.com/t/981655#reply5</link><description>&lt;p&gt;之前用的是 WordPress ，一直想自己实现一套博客系统。
-现在前端差不多写完了，第一次用 Nuxt.js ，也用了很多新的特性，前前后后忙了挺久，不过现在后端依旧是 WordPress ，前端部署在 Vercel ，自己感觉还行。就想着发出来给大家看看。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://im.daidr.me" rel="nofollow"&gt;https://im.daidr.me&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981655#reply5</guid></item><item><title>[OpenAI] ChatGPT 识图 API 已经全球首发搞出来了，兼容 Chat 接口</title><link>https://www.v2ex.com/t/981654#reply0</link><description>可能是除了 ChatGPT 之外第一个搞出来的，使用方式很简单，调用时在 Prompt 中加入特定名称的 markdown 就行，类似这样:&lt;br /&gt;&lt;br /&gt;```&lt;br /&gt;这是谁画的 &lt;br /&gt;[GPT-4 Vision]( &lt;a href="https://cdn.pixabay.com/photo/2023/10/07/23/39/girl-8301168_1280.png" rel="nofollow noopener" target="_blank"&gt;https://cdn.pixabay.com/photo/2023/10/07/23/39/girl-8301168_1280.png&lt;/a&gt;) &lt;br /&gt;```&lt;br /&gt;&lt;br /&gt;效果图:&lt;br /&gt;&lt;a href="https://i.imgur.com/sDnLSlf.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/sDnLSlf.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;甚至比直接用 ChatGPT 更灵活，在微软的 GPT-4v 测试报告中有 few-shot 场景，使用 ChatGPT 聊天框是复现不了的:&lt;br /&gt;&lt;a href="https://i.imgur.com/WDqZ02r.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WDqZ02r.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但是用 API 就可以做到文字和图片交错的能力，灵活度提高了。在官方识图 API 出来之前，可能是最好的替代品。复现下这个案例:&lt;br /&gt;&lt;a href="https://i.imgur.com/vnXSQDE.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/vnXSQDE.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我们一直在做 GPT 相关各种功能，也有 Plus GPT-4 转 API 的工作，这次对接上识图功能，每天可以支持调用上百万次，有需求的大佬可以联系我: emhpZ3VvNjMwMA==</description><pubDate>Fri, 13 Oct 2023 04:11:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981654#reply0</guid></item><item><title>[macOS] 突然不能用 Tab 在界面上切换焦点了</title><link>https://www.v2ex.com/t/981652#reply1</link><description>就比如退出一个未保存的文档时，会弹出「删除」「取消」「保存」的对话框&lt;br /&gt;&lt;br /&gt;之前可以用 Tab 在这几个选项之间轮流切换，然后按空格键就可以确认选项&lt;br /&gt;&lt;br /&gt;但是从之前某个时间点就突然不行了，诡异的是用 Shift+Tab 仍然可以反向切换&lt;br /&gt;&lt;br /&gt;不是 Sonoma 的问题，在升级之前就有了</description><pubDate>Fri, 13 Oct 2023 04:07:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981652#reply1</guid></item><item><title>[酷工作] [坐标东京] [需要日语！] 有人问我要 C++的 hc 有 10 个 unity hc 有 5 个</title><link>https://www.v2ex.com/t/981651#reply0</link><description>&lt;p&gt;这 15 个 hc 来自于不同的公司，因此匹配需要提供简历。
-我们是猎头公司，不是中介，不是 HR ，
-如果想了解日本行情，请留言技术年限和技术方向介绍，我可以提供相近方向的求人票
-联络方式：wechat：weoffer99 或者 549258011
-line：healchalu&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 04:01:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981651#reply0</guid></item><item><title>[Apple] 外区的 AppleID 在国内使用容易被封号吗</title><link>https://www.v2ex.com/t/981649#reply7</link><description>我之前注册的美区 appleid 登不上了，提示这个 Apple ID 没有被激活，在百度搜了一下，这是苹果账号被封了，解决办法是打苹果客服电话，由于这个美区 ID 并没有购买过软件，我的处理方法是重新注册一个美区账号。&lt;br /&gt;但是看网上说登录 iCloud 会导致账号被封，但是我的这个账号并没有登录 iCloud ，甚至平时都不怎么使用，就莫名其妙的被封了。&lt;br /&gt;我新创建的苹果账号购买了美区充值卡，怎样才能避免账号被封禁呢，还是说封禁是概率问题，现在的美区 id 不能登 iCloud 吗，请问大家被封的概率大吗？</description><pubDate>Fri, 13 Oct 2023 03:59:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981649#reply7</guid></item><item><title>[酷工作] [社招] [多职位] NewsBreak 北京招聘</title><link>https://www.v2ex.com/t/981648#reply0</link><description>NewsBreak 简介&lt;br /&gt;NewsBreak 创立于美国硅谷。我们的愿景是成为全球智能本地信息和服务综合平台，高效地连接本地用户、内容创作者和广告商家，使其融会贯通，共生共荣。NewsBreak 是北美市场 Top1 新闻信息流 APP ，2019 年开始持续盈利，北京团队负责产品研发，目前 DAU 千万级别，产品规模处于快速增长期，3 年业务实现五倍增长。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;企业福利&lt;br /&gt;餐补、住房补贴、交通补助、通讯补助，子女补充医疗，小外企，六险一金全额缴纳，但不要求英语。接地气的互联网外企，技术风格，远离内卷和无序扩张，我们提供业内具有竞争力的薪酬。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级 Android 开发工程师&lt;br /&gt;任职要求： &lt;br /&gt;1.统招本科及以上学位，3 年以上 Android 开发经验； &lt;br /&gt;2.精通 Android 操作系统特性和内部运行机制，精通 UI 开发，熟练各种 UI 组件并了解其原理； &lt;br /&gt;3.精通 Android 客户端开发，有丰富的客户端应用架构经验，可以独立承担 App 级别的架构设计； &lt;br /&gt;4.精通 Android 调试工具和方法，可以应付各种 Android 复杂问题，具备良好的分析解决问题能力，有技术难题攻关经验；&lt;br /&gt;5.有高度的工作热情和自我能动性，项目和技术推动和执行能力强，有团队合作精神；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Android/Ios Tech Lead&lt;br /&gt;任职要求：&lt;br /&gt;1. 精通 Android/iOS 并达到资深架构师水平, 对 Android/iOS 系统的底层架构和原理有较深理解，有较强的的跨平台开发经验；&lt;br /&gt;2. 具备大型 App （日活千万级）或复杂业务（ 3 年以上的成熟业务） App 迭代的全流程实践经验积累，具备对复杂业务进行分析、拆解、抽象、建模能力；&lt;br /&gt;3. 有移动研发团队的管理经验，团队规模 10 人及以上，在团队组建、人才培养等方面有较好的经验和心得；&lt;br /&gt;4. 具备优秀的规划能力和敏锐的产品意识，能够依据业务发展阶段及趋势，合理为团队梳理清晰的团队目标，系统性地规划、拆解、落地；&lt;br /&gt;5. 具备优秀的跨团队沟通协作能力，有良好的协作意识、沟通方法及组织协调能力；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;SRE 高级技术专家-Tech Lead&lt;br /&gt;岗位要求&lt;br /&gt;1. 统招本科及以上学历，六年及以上复杂业务系统运维经验，有推荐/搜索/广告系统运维经验优先；&lt;br /&gt;2. 基础扎实，熟练掌握 Linux 系统、K8S 、Docker ；&lt;br /&gt;3. 至少熟练掌握 Python/Shell 其中一种脚本语言；&lt;br /&gt;4. 有丰富 MongoDB 、Redis 、MySQL 、Kafka 运维经验；&lt;br /&gt;5. 有 AWS 使用经验优先；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级推荐系统架构工程师﻿&lt;br /&gt;职位要求：&lt;br /&gt;1. 本科及以上学历，3-5 年以上 Linux 服务端开发工作经验，学习能力强；有高并发，高可用系统设计研发经验者优先；&lt;br /&gt;2. 对 Java / C++ / Golang 中至少一门语言有良好的语言基础，扎实的编码能力，良好的编码风格，有大型系统代码编写经历；&lt;br /&gt;3. 良好的架构设计能力，能独立承担任务，有把控项目进度的能力，工作有逻辑条理；&lt;br /&gt;4. 满足以下任一点优先：&lt;br /&gt; a. 熟悉分布式机器学习框架相关技术，如 tensorflow ，pytorch 等，理解该类系统架构设计&lt;br /&gt; b. 熟悉常见的向量 ANN 检索算法，理解 faiss ，hnswlib ，annoy 等相关开源算法或框架原理&lt;br /&gt; c. 熟悉分布式存储系统相关技术，如 redis ，mongodb ，scylladb ，理解其设计原理&lt;br /&gt; d. 有大型分布式系统调优经验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;内推邮箱： haotian.liang@newsbreak.com&lt;br /&gt;邮件主题格式如下： [内推] 姓名+电话+应聘岗位，例如  [内推] 张三+18811444112+高级推荐系统架构工程师</description><pubDate>Fri, 13 Oct 2023 03:53:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981648#reply0</guid></item><item><title>[iPhone] 欧版 iPhone14PM 512G 现在价格才 7500，深圳口岸入关，靠谱吗？</title><link>https://www.v2ex.com/t/981647#reply2</link><description>同型号日版当地要 10000 左右，跟 15PM 没差了。&lt;br /&gt;1 、欧版这个什么情况，为什么这么便宜？&lt;br /&gt;2 、日版 14/15 差价怎么这么少？&lt;br /&gt;&lt;br /&gt;欧版已确认是二手，不用看了。。。金，单卡无锁，充电 42 次，电池 100%</description><pubDate>Fri, 13 Oct 2023 03:51:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981647#reply2</guid></item><item><title>[摄影] 摄影小白微单问题终极汇总贴，跪求大法师们给点建议</title><link>https://www.v2ex.com/t/981646#reply0</link><description>个人给自己的定位是摄影爱好者&lt;br /&gt;&lt;br /&gt;摄影题材主要是：生活记录、日常扫街、艺术展、博物馆、旅行旅拍、家里人物拍照，有视频、照片双持的要求，对于天文摄影、微距摄影没有需求。非必要不想进行繁重后期，但如果后期提升明显也可以接受。&lt;br /&gt;&lt;br /&gt;需求是：优先保证拍照、视频呈现效果，拍照视频握持操作体验，在此基础上尽可能减轻重量，如无必要不携带云台。预算全画幅变焦官方单镜头+机身 20000 左右&lt;br /&gt;&lt;br /&gt;==============================================================================&lt;br /&gt;&lt;br /&gt;主要还是在索尼、佳能、富士、尼康之间选择，其他品牌暂时不考虑，有几个疑问点想咨询&lt;br /&gt;&lt;br /&gt;1.网上都说索尼的对焦速度快，在同价位产品下到底差距多大呢？比如索尼的 a7m4 和佳能的 r62 比，这个差距有多大呢？在不同环境下（比如暗光或其他情景下）差距会更明显还是差不多？这个差距对于用户使用过程中感知度强吗？&lt;br /&gt;&lt;br /&gt;2.佳能的防抖一直是被津津乐道作为主要竞争力，机身防抖效果具体怎么样？需要搭配高端镜头才能达到最佳效果吗？防抖和其他同价位的机器相比如何呢？这个差距只是数值差距还是使用过程中感觉明显？和加持云台的其他机器差距大吗？差距具体有多大？能举个例子吗？&lt;br /&gt;&lt;br /&gt;3.都是说富士主要就是一个滤镜，网上也是一群人出各种教程来模拟富士滤镜来宣传无需买富士，实际情况真的如此吗？模拟的程度有多高？差距又有多大？这个差距对于摄影人感知度强吗？&lt;br /&gt;&lt;br /&gt;4.在佳能 r62 推出来以后，因为是前照式 CMOS 被各种喷，因为电子产品买新不买旧的概念，佳能的行为有点像是在不停打磨老的技术，不像索尼追新，这个前照式 背照式差距具体有多大呢？对于后续的影响感知度强吗？具体体现能否给点例子？&lt;br /&gt;&lt;br /&gt;5.佳能的人像一直是被认为是非常不错的效果，但是也有很多索尼用户说可以通过后期达到同样的效果，这个是能够真的实现吗？既然都能够后期，是否说佳能的人像这一块的优势是可以抹除掉的？这个后期的难度对于平常人来说意义大吗？我知道有 PS 大佬无所不能，但是对于普通用户来说无法达到那个水平和时间精力一点点调。所以想知道这部分是否是真的具有意义，还是只是一个噱头&lt;br /&gt;&lt;br /&gt;6.买索尼很多人的理由是副厂镜头多，价格便宜。但是对于我这个普通用户来说，我可能只是需要一个变焦在加几个定焦完事，出于成像优先的考虑，我大概率还是咬牙分期买官方 G 大师的镜头，所以副厂对于我的意义是不是就没有了？如果每个相机品牌我都是买他们的官方镜头，那么价格上差距还大吗？一些追求拍摄、摄影成像质量的摄影师来说，便宜的副厂镜头意义是什么呢？&lt;br /&gt;&lt;br /&gt;7.很多人都说索尼拍出的照片不进行后期没法看，是否属实？如果要进行后期需要的学习成本有多大？比如需要花多久才能够学会？是不是每次拍了几百 G 的照片视频都要先处理一遍才能够差不多看？这个过程大佬们是怎么处理的？&lt;br /&gt;&lt;br /&gt;8.是不是大多数买佳能的是因为想复用以前的镜头的原因？对于小白什么都没有的人考虑哪个比较好呢？&lt;br /&gt;&lt;br /&gt;9.相机有很多参数，网上视频和文章众说纷纭，有哪些参数是重要的，哪些是加分项（有最好没有也不影响），相机的技术换代时间大概时多久呢？当下是等下一代还是直接入手？&lt;br /&gt;&lt;br /&gt;10.各个相机厂商应该都是保证自己品牌优势的前提下逐步的侵蚀其他厂商的，那么索尼、佳能、富士、尼康这几个品牌是否在自己相机的薄弱点部分有所突破和改进呢？&lt;br /&gt;&lt;br /&gt;===================================================================&lt;br /&gt;&lt;br /&gt;辛苦各个大法师和热心朋友帮忙解答了！上面这些问题其实我自己也搜索过，但是网上的信息众说纷纭，很多时候要么不说要么就是一句好、不错带过，具体好多少？对于普通人来说实操效果有多大？更具体的部分描述的人寥寥，而这些问题又是实实在在使用相机中会遇到的。买一个相机分期 24 期很不容易，所以也是慎之又慎，所以希望有经验的大佬们能够不吝赐教，在此拜谢了！</description><pubDate>Fri, 13 Oct 2023 03:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981646#reply0</guid></item><item><title>[前端开发] chrome://flags/#third-party-storage-partitioning 默认启用导致问题</title><link>https://www.v2ex.com/t/981645#reply0</link><description>&lt;p&gt;公司的网站，&lt;a href="http://A.com" rel="nofollow"&gt;A.com&lt;/a&gt; 是通行证用来登录，&lt;a href="http://B.com" rel="nofollow"&gt;B.com&lt;/a&gt; 和 A 不在一个主域名下，用 iframe 嵌套 A 网站的页面，通过读取 A 的 localstorage 并 postMessage 给 B 网站，进行单点登录。
-chrome://flags/#third-party-storage-partitioning 默认启用后，导致 B 嵌入的 A 页面读取不到自身的 localstorage 了，找了 2 天还是没找到解决办法，除了禁用这个特性，还有没有其他办法。。。
-有没有大佬给个思路&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981645#reply0</guid></item><item><title>[Linux] 小白求问，关于内网转发问题</title><link>https://www.v2ex.com/t/981644#reply3</link><description>&lt;p&gt;需求：将 A 机器网口 a 收到的所有包转发的 B 机器网口 b 上，
-我看了一些教程都需要指定端口，请问一定需要指定端口吗，能不指定端口不做任何处理直接转发吗？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:43:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981644#reply3</guid></item><item><title>[Android] 14 好像真的省电了一些</title><link>https://www.v2ex.com/t/981642#reply4</link><description>从 AccuBattery 的统计看，原先大概亮屏三个多小时，现在能有四个多了，不过因为平常都是随手充电，实际感觉没啥差别。Pixel 6 。&lt;br /&gt;&lt;br /&gt;另外升级完用起来也没啥问题，原生党赶紧上啊，哈哈</description><pubDate>Fri, 13 Oct 2023 03:38:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981642#reply4</guid></item><item><title>[问与答] 杭州那个云栖大会怎么样啊，值得去吗</title><link>https://www.v2ex.com/t/981641#reply0</link><description>&lt;p&gt;在工作日，看内容主要是云相关呢
-搞 NLP 的值得去看看吗&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:37:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981641#reply0</guid></item><item><title>[问与答] 请教下大家关于电视、回音壁、atv 在音频支持方面的一些问题</title><link>https://www.v2ex.com/t/981640#reply0</link><description>&lt;p&gt;背景：&lt;/p&gt;
-&lt;p&gt;家里买了 Sony 电视，计划双十一时候再购买一套 Sony 5.1 声道回音壁，二者都支持 eARC ，回音壁也支持 DTS 和杜比。&lt;/p&gt;
-&lt;p&gt;目前的内容来源：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Sony 电视上面可以安装爱优腾 B 站这些 app ，播放网络视频内容&lt;/li&gt;
-&lt;li&gt;我在电视上装了 Kodi ，可以播放通过阿里云盘这些网盘中下载的高清视频内容（这些内容一般都带高质量音频）&lt;/li&gt;
-&lt;li&gt;还有一个电信送的 iTV ，可以观看里面的卫视频道直播和一些点播内容&lt;/li&gt;
-&lt;li&gt;计划未来会购买 AppleTV ，通过它来播放像 Netflix 、Youtube 这些 app 的内容，或者安装 Infuse 之类的 app&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;现在我的问题是不太清楚各种内容在音频标准这一块的支持程度：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;目前像爱优腾 B 站这些，内容的音频标准是啥样的&lt;/li&gt;
-&lt;li&gt;像直接安装 Kodi 这种，应该是要 App 支持各种音频标准和编解码的吧&lt;/li&gt;
-&lt;li&gt;iTV 里面的内容我不大清楚是啥样的，貌似少量内容比如春晚之类的节目有高音质吧&lt;/li&gt;
-&lt;li&gt;AppleTV 上国外的流媒体应该支持还好，不过通过 Infuse 之类播放的内容好像有存在编解码支持的问题&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;请教下有经验的朋友解惑一下，或者有别的建议也欢迎，感谢。&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 03:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981640#reply0</guid></item><item><title>[问与答] 模拟公司门禁卡</title><link>https://www.v2ex.com/t/981639#reply2</link><description>有什么方法能够模拟公司门禁卡到手机里（ ios 或者安卓）&lt;br /&gt;ps：老是忘记带卡</description><pubDate>Fri, 13 Oct 2023 03:35:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981639#reply2</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 13 Oct 2023 16:18:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Google Play] 现在注册印度区 play 账号很难吗？</title><link>https://www.v2ex.com/t/981870#reply0</link><description>&lt;p&gt;是不是风控很严？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 16:02:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981870#reply0</guid></item><item><title>[宽带症候群] 电信换了套餐， iTV 换成了天翼云盒，抓包无法找到直播源了，有偿求助</title><link>https://www.v2ex.com/t/981869#reply1</link><description>&lt;p&gt;原来使用电信的 iTV ，采用 PPPoE 认证，在 ikuai 软路由上做了认证，然后抓包直播源，利用公网 IP 做了一个私人直播源，外网可以随意看电视。
+现在换了套餐，套餐里没有 iTV ，给安装了天翼云盒，这个盒子无需接入光猫，直接接入局域网就能看电视直播。经抓包查看，平台是 gitv,连接全部是 TCP 连接，已无法抓包直播源，有偿求助。&lt;/p&gt;
+&lt;p&gt;部分 tcp 内容如下：
+GET /gitv_live/G_CCTV-1-HD-265-8M/live.jpg?p=GITV&amp;amp;area=NX_CTCC&amp;amp;type=2&amp;amp;t=1697026711614&amp;amp;mac=c0:88:96:7b:0b:a8 HTTP/1.1
+Cache-Control: no-store
+Host: &lt;a href="http://ctcc-jpg.ctyun-cdn.gitv.tv" rel="nofollow"&gt;ctcc-jpg.ctyun-cdn.gitv.tv&lt;/a&gt;
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/3.8.1&lt;/p&gt;
+&lt;p&gt;HTTP/1.1 200 OK
+Server: openresty
+Date: Wed, 11 Oct 2023 12:18:33 GMT
+Content-Type: image/jpeg
+Content-Length: 30609
+Connection: keep-alive
+Last-Modified: Wed, 11 Oct 2023 12:18:26 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=9
+Ctl-Cache-Status: HIT from ha-zhengzhou4-ca28, HIT from nx-yinchuan5-ca27
+Request-Id: 652692990d9d1424cc9a9a6d840d8082
+Etag: "65269292-7791"
+Age: 0&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:55:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981869#reply1</guid></item><item><title>[宽带症候群] 北京移动单个光猫可以播多个账号吗</title><link>https://www.v2ex.com/t/981867#reply0</link><description>&lt;p&gt;背景：家里有多条移动宽带（手机套餐免费送），最新的光猫为华为 HN8546x6-10 ，xgpon
+不想开多个光猫，求问大佬是否可以做到只使用一个光猫进行多个账号的拨号，如何实现？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981867#reply0</guid></item><item><title>[分享发现] 甲骨文云开启两步验证之后，删除 app 是不是就无法登录了</title><link>https://www.v2ex.com/t/981865#reply3</link><description>&lt;p&gt;发现甲骨文云强制开启了二步登录验证，而且登录时必须使用 app 验证，但是 app 当时是扫码添加的，这要是不小心删了 app 是不是账号就废了？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981865#reply3</guid></item><item><title>[问与答] 求助各位 V 友，请问有没有合并 youtube 视频和字幕的工具</title><link>https://www.v2ex.com/t/981864#reply1</link><description>听说用 downsub 可以下载字幕&lt;br /&gt;想存点视频到本地，最近用公益节点不知道什么时候会被取消</description><pubDate>Fri, 13 Oct 2023 15:11:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981864#reply1</guid></item><item><title>[硬件] 怎么用 fio 去测到 SSD 厂家声称的读带宽？</title><link>https://www.v2ex.com/t/981863#reply0</link><description>&lt;p&gt;这里有一个我看到的 fio 测评 Samsung 980 PRO 1T.
+他测评顺序读大概是不到 3G/s. 但是厂家说可能是 7G/s: &lt;a href="https://www.phoronix.com/review/samsung-980-pro/3" rel="nofollow"&gt;https://www.phoronix.com/review/samsung-980-pro/3&lt;/a&gt;
+因为我自己也有这个 ssd, 我用 fio 测了一下和这个测评类似速度:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo fio --name=seq_read --filename=/dev/nvme0n1 --rw=read --ioengine=libaio --bs=1m --numjobs=16 --iodepth=16 --runtime=2m --time_based --direct=1 --group_reporting
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 13 Oct 2023 15:09:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981863#reply0</guid></item><item><title>[问与答] 每次打开网站都会检查站点连接是否安全，怎么解决?</title><link>https://www.v2ex.com/t/981862#reply0</link><description>自从把 cloudflare 的 SSL/TLS 加密模式设置为“完全”后，每次打开网站都会检查站点连接是否安全，如果设置为“灵活”，又会一直转圈，打不开网站</description><pubDate>Fri, 13 Oct 2023 14:57:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981862#reply0</guid></item><item><title>[问与答] 企业微信的工作台配置跟注册时选择的行业有关吗？</title><link>https://www.v2ex.com/t/981861#reply2</link><description>&lt;p&gt;如题，默认的工作台配置跟行业相关吗？
+选错了行业类型了，是否有必要删了重新开？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:48:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981861#reply2</guid></item><item><title>[ WATCH] 如何知道 apple（watch）的维修收费？</title><link>https://www.v2ex.com/t/981860#reply2</link><description>前后文： &lt;a href="https://www.v2ex.com/t/978649#reply8" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/978649#reply8&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;去 specialist 看的时候，他不认为是电池鼓包，而是屏幕脱落，发来的邮件是收 1800 。但他也说，小概率返厂发现确实是电池鼓包的话，只会收 800.&lt;br /&gt;&lt;br /&gt;今天收到了返厂后，换了个官换新表的邮件，让我去直营店拿，到不知道也没写收多少钱，800 我还想去一趟，1800 就当我送 apple 了。当然我朋友说如果真收 1800 直接转头说不要了就行，但感觉到时候双方都很尴尬。&lt;br /&gt;&lt;br /&gt;所以我来问一下有相关维修经验的老哥是怎么样的？</description><pubDate>Fri, 13 Oct 2023 14:44:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981860#reply2</guid></item><item><title>[iPhone] 各位有遇到过扫码失败的情况吗？</title><link>https://www.v2ex.com/t/981859#reply0</link><description>目前手持 iPhone XS ，17.0.3 ，近两周内已经遇到两次扫码打开摄像头失败，提醒重启手机。重启之后又恢复正常，这是什么情况？</description><pubDate>Fri, 13 Oct 2023 14:44:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981859#reply0</guid></item><item><title>[iOS] [求助] iOS 历史短信凌晨变成新短信提醒</title><link>https://www.v2ex.com/t/981858#reply2</link><description>[问题] &lt;br /&gt;我有个朋友 iPhone 12 上的旧短信，每天都会在凌晨三点或者下午三点，刷新成当前的时间然后提醒。比如 2021 年的某条短信，在今天凌晨三点时间变成当前时间，顶到了列表最前面。（图床还不会用，搞懂了再附图）&lt;br /&gt;&lt;br /&gt; [手机设置] &lt;br /&gt;时区自动，iMessage 关了，Handoff 关了，保留 30 天短信&lt;br /&gt;&lt;br /&gt; [尝试的措施] &lt;br /&gt;1 ，联系客服，反馈升级系统，升级到最新没用&lt;br /&gt;2 ，删除所有短信，没有用&lt;br /&gt;3 ，今天重新登录了 iCloud ，待观察&lt;br /&gt;&lt;br /&gt;要是实在不行就刷机或换新手机了，就是不知道能不能根治😂</description><pubDate>Fri, 13 Oct 2023 14:42:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981858#reply2</guid></item><item><title>[程序员] 有人知道这种 悬浮盒子阴影 跟随鼠标旋转 动效生成网站吗</title><link>https://www.v2ex.com/t/981857#reply0</link><description>网站地址： &lt;a href="https://www.leohuynh.dev/" rel="nofollow noopener" target="_blank"&gt;https://www.leohuynh.dev/&lt;/a&gt;&lt;br /&gt;大家可以看到这个博主右侧的这种效果，卡片跟随鼠标旋转&lt;br /&gt;我之前看到过一个类似的开源库网站，也是可以直接调节阴影，颜色等各种参数，然后直接生成代码，非常方便&lt;br /&gt;但是我忘记那个网站地址了，请问大家知道吗</description><pubDate>Fri, 13 Oct 2023 14:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981857#reply0</guid></item><item><title>[Firefox] [分享] firefox 仿 chrome 主题</title><link>https://www.v2ex.com/t/981856#reply0</link><description>&lt;p&gt;因为 &lt;code&gt;Manifest V3&lt;/code&gt;的缘故, 一直想迁移到 &lt;code&gt;firefox&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;加上之前发现了 firefox 定制版 &lt;code&gt;floorp&lt;/code&gt; 体验不错&lt;/p&gt;
+&lt;p&gt;下定决心后, 把 firefox 上的拓展&lt;code&gt;newt&lt;/code&gt;修了下, 解决了重复加载图标导致卡顿的问题.&lt;/p&gt;
+&lt;p&gt;然后搜了下主题, 有个仿 chrome 主题, 稍微修了下, &lt;code&gt;jqtmviyu/MaterialFox&lt;/code&gt;, 外观也顺眼了.&lt;/p&gt;
+&lt;p&gt;就是在&lt;code&gt;&lt;a href="http://mozilla.org" rel="nofollow"&gt;mozilla.org&lt;/a&gt;&lt;/code&gt; 这类页面下拓展不生效(特别是翻译), 实在不爽.&lt;/p&gt;
+&lt;p&gt;目前就差一个&lt;code&gt;Keptab&lt;/code&gt;了&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:40:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981856#reply0</guid></item><item><title>[问与答] 深夜谈谈人生理想吧</title><link>https://www.v2ex.com/t/981855#reply8</link><description>如果在家靠一台电脑能够实现每天 200-300 收入你们还会去给人打工吗？我现在就想在家做做什么赚点生活费，有推荐的路子吗？</description><pubDate>Fri, 13 Oct 2023 14:36:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981855#reply8</guid></item><item><title>[生活] 哈罗顺风车放鸽子的车主是什么心态</title><link>https://www.v2ex.com/t/981854#reply11</link><description>&lt;p&gt;是在无法理解车主是出于什么心态。&lt;/p&gt;
+&lt;p&gt;大概出发前 5 天，在哈罗顺风车上打了个去机场的顺风车，用车时间是早上 7 点半，车主当晚就接单了，然后也在平台发消息确认了一下没有问题。&lt;/p&gt;
+&lt;p&gt;然后出发前一天晚上 7 点多，在平台上发消息想跟车主确认一下行程是否正常，过了十分钟车主没回复，然后打了电话问了一下，电话中就是简单确认行程是否正常，车主回答没问题，我说那明天见。&lt;/p&gt;
+&lt;p&gt;厉害的来了，当晚 0:21 分，车主没有打电话，没有留言，直接取消了我的顺风车订单，然后给我拉黑了。&lt;/p&gt;
+&lt;p&gt;早上起来我整个一个大懵逼。&lt;/p&gt;
+&lt;p&gt;倒不是非要做顺风车，如果前一天晚上告知我行程有变或者不想带我，我完全可以自己打一个接机，不知道当天早上那么狼狈。完全不清楚车主是出于什么心态和用意做这个事情。&lt;/p&gt;
+&lt;p&gt;而且哈罗平台对于追责问题是订单被取消后 4 小时内，这大半夜谁会一直盯着自己订单会不会被取消。联系客服反应之后，客服说最好的补偿办法就是给 10 元优惠券。。这样的平台给我优惠券我也不会再用了。我要求上级客服电话联系我，结果也一直没有，等来的就只有套路话的短信。不知道这算不算平台纵容这种车主。反正不会再用哈罗打顺风车了。&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981854#reply11</guid></item><item><title>[iCloud] 关于 iCloud keychain 同步机制的一些疑问，希望有高手来解惑。</title><link>https://www.v2ex.com/t/981853#reply0</link><description>&lt;p&gt;很多 V 站网友应该都知道，有些 iOS APP 会通过在 iOS 的 keychain 里留下隐藏记录的方式来锁定和追踪用户身份。
+典型的比如 uber ，如果只是删除 APP 再安装，即使换一个 ID 登录，uber 还是可以通过 keychain 记录的方式把用户的不同 ID 关联起来。
+我一直不清楚这种情况下，app 的隐藏记录会不会通过 keychain 同步的方式跑到同一个 apple id 的其它登录设备上。&lt;/p&gt;
+&lt;p&gt;然后前一阵打算把一个长期怎么用的 apple ID 登入到一台闲置的 mac 的某个账户上，结果在登录 icloud 时，要求我输入这个 apple id 之前登录并开启过 keychain 同步的 ipad 的锁屏 code 。这是 icloud 登录过程中验证 keychain 同步的一个步骤。ok 这没有问题，结果我输入 ok 以后，它又继续要我输入这个 apple id 之前登录过的一台更旧的 MAC 上的账户密码，这个我就完全想不起来了。结果输入不正确，它就不让我整个 icloud 登录过程完成。我完全没办法绕过，而且即使 icloud 登录完成，我也没打算开启 keychain 同步，它竟然也没办法让我在登录前就选择不同步 keychain 。
+结果就因为多个旧设备其中一个设备的 passcode 想不起来导致 apple id 的登录无法完成。&lt;/p&gt;
+&lt;h2&gt;这之后我就想了解下 apple 的 iCloud keychain 同步机制到底是如何工作的。到 apple 官方找了一下文档说明。看完以后还是有一些不确定的地方，就贴出来，看有没有高手帮我解解惑。&lt;/h2&gt;
+&lt;p&gt;假设有已经登入同一 apple id 并开启 icloud keychain sync 的旧设备 B 和 C ，以及准备新登入此 apple id 并开启 icloud keychain sync 的新设备 A&lt;/p&gt;
+&lt;p&gt;以下情形里，背后实际发生的流程是否如我理解？&lt;/p&gt;
+&lt;p&gt;官方原始文档（中文）
+&lt;a href="https://support.apple.com/zh-cn/guide/security/sec0a319b35f/web" rel="nofollow"&gt;https://support.apple.com/zh-cn/guide/security/sec0a319b35f/web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(一)
+按文档：
+“钥匙串安全同步
+当用户首次启用 iCloud 钥匙串时，设备将建立信任圈并为自己创建同步身份。同步身份包括私钥和公钥，且储存在设备的钥匙串中。同步身份的公钥放置在信任圈中，该信任圈已签名两次：第一次由同步身份的私钥签署，第⼆次由来自用户 iCloud 帐户密码的非对称椭圆密钥（使用 P-256 ）签署。随信任圈一起储存的还有参数（随机盐和迭代次数），用于创建基于用户 iCloud 密码的密钥。
+对于双重认证的帐户，还会额外创建一个相似的同步信任圈并存储在 CloudKit 中。此系统中的设备身份由两对非对称椭圆密钥（使用 P-384 ）组成，且储存在钥匙串中。每台设备均维护本机信任的身份列表，且使用其中一个身份密钥为此列表签名。”&lt;/p&gt;
+&lt;p&gt;我理解是：
+1.也就是说在 icloud 里同步的信任圈(syncing circle)包括多台设备的同步身份(syncing identity)的公钥，是一个全体设备的同步身份(syncing identity)公钥的集合。当某个设备（假如是 C ）关闭 keychain sync 后，这设备（这里是 C ）的同步身份（ syncing identity ）是不是就是会退出信任圈了。
+2.双重认证的账户，额外存一个同步信任圈在 CloudKit ，而代表设备身份的两对密钥存在钥匙串中,每个设备都有存在本机的信任设备身份列表，这个列表应该是选择钥匙串中有列的全部或部分设备身份密钥，组成一个 lists 。也就是每台设备都选择在钥匙串中登记过的设备身份清单，组成本机信任的 lists,并用本设备的一个身份密钥为此 Lists 列表签名，确保是认证不可篡改的本机信任 lists 。&lt;/p&gt;
+&lt;p&gt;(二)
+“iCloud 储存同步信任圈
+已签名的同步信任圈储存在用户的 iCloud 键值存储区域。如果不知道用户的 iCloud 密码，就无法对其进行读取；如果没有信任圈成员同步身份的私钥，就无法对其进行有效地修改。
+对于双重认证的帐户，每台设备的同步列表会存储在 CloudKit 中。如果不知道用户的 iCloud 密码，就无法读取列表；如果没有已拥有设备的私钥，就无法修改私钥。”
+"For two-factor authentication accounts, each device’s syncing list is stored in CloudKit. The lists can’t be read without knowing the user’s iCloud password, and they can’t be modified without having the private keys of the owning device."&lt;/p&gt;
+&lt;p&gt;我理解是：
+中文翻译有误，应该是说：对于双重认证的帐户，没有对应已拥有的设备(如旧设备 B,C)的私钥，就无法修改对应的 lists(大概是通过签名验证有效性的验证方式来限制生效)。我理解大概的过程是读取每个旧设备对应的 syncing lists,比如 B 设备的 lists ，然后想把新设备 A 加入这个 lists ，以后就能和 B 点对点 sync 了。这样就需要调用 B 设备对应的私钥给加了 A 的新 lists 签名，才会真正有效并被 B 设备接纳。&lt;/p&gt;
+&lt;p&gt;(三)
+按文档：
+“用户的其他设备如何添加到同步信任圈
+新设备登录 iCloud 时，可通过这两种方式之一加入 iCloud 钥匙串同步信任圈：与现有的 iCloud 钥匙串设备配对并获得其担保，或者使用 iCloud 钥匙串恢复。&lt;/p&gt;
+&lt;p&gt;在配对流程中，申请设备为同步信任圈和同步列表（针对双重认证帐户）新建同步身份，并将其出示给担保设备。担保设备将新成员的公钥添加至同步信任圈，并且使用其同步身份和派生自用户 iCloud 密码的密钥再次签名。新的同步信任圈放置在 iCloud 中，该信任圈的新成员也是在此处对其进行签名。在双重认证帐户中，担保设备还为加入设备提供使用其身份密钥签名的凭证，表明申请设备应被信任。然后，它会更新其受信任同步身份的单独列表，以包括申请设备。&lt;/p&gt;
+&lt;p&gt;现在，签名信任圈有两个成员，并且每个成员拥有另一个成员的公钥。它们现在开始通过 iCloud 键值存储交换各个钥匙串项或将其储存在 CloudKit 中，视情境而定。如果两个信任圈成员都更新了相同的项目，其中一个会被选中，最终获得一致的结果。每个同步的项目都会加密，使只有用户信任圈内的设备才能解密，任何其他设备或 Apple 都无法解密。&lt;/p&gt;
+&lt;p&gt;新设备加入同步信任圈时会重复此“加入流程”。例如，第三台设备加入时，可与其中任一台现有设备进行配对。随着新的同级设备加入，每台同级设备均与新设备进行同步。此设计旨在确保所有成员拥有相同的钥匙串项。”&lt;/p&gt;
+&lt;p&gt;我理解是：
+意思就是新加入的设备 A 想要把自己的同步身份的公钥加入 icloud 里同步的信任圈(syncing circle)中，那么：
+1.A 设备把自己的同步身份加入 icloud keychain 里的信任圈(syncing circle)，然后让所有的旧设备用自己的同步身份（ syncing identity ）的私钥签名以使之生效。比如针对 B 设备的，新设备 A 需要 B 调用 B 自己的同步身份的私钥对修改后的包含 A 的新信任圈(syncing circle)去签名，以使之生效。同理对于 C 设备也是这么个过程，因此过程中可能会调动每个旧设备的登入密码以启用私钥签名的动作。
+也即是说，新设备要加入 icloud 里同步的信任圈(syncing circle)。新设备 A 需要一个旧成员，比如设备 B ，调用 B 自己的同步身份的私钥，对添加了 A 设备同步身份(syncing identity)公钥后的新信任圈(syncing circle)去签名，以使之生效。是否仅需要一个旧成员签名即可，还是需要全体旧成员都签名。签名的过程，是否需要输入旧设备的 passcode ，比如 B 设备的密码，才能调用相应设备的私钥做签名动作。&lt;/p&gt;
+&lt;p&gt;2.双重认证帐户时除了把把自己 A 设备身份的密钥存到 icloud 钥匙串的同步信任圈，还要让其它设备 B,C 都把 A 的设备身份加入到 B,C 设备的本机信任 list 里，并让 B,C 设备各自用自己的设备身份密钥给这个新加入了 A 设备的 list 签名认证。这样的话就必须要调用每一个加入过 keychain 的设备（ B 和 C ）的密钥来让它们各自给加入 A 设备的新 list 签名，也就需要输入 B 和 C 设备的登入密码来解锁和启用签名流程。&lt;/p&gt;
+&lt;p&gt;3.这里讨论的流程没有包括“iCloud 钥匙串恢复”的流程，仅是讨论新旧设备配对的问题，核心就是是否需要每一台旧设备的配对（授权），还是仅需要其中一台的。&lt;/p&gt;
+&lt;p&gt;这里有一个疑问，实际情况好像是第三台设备 A 加入时,必须与每一台旧设备(B 和 C)都配对（输入设备登入密码），而不是只与其中任一台（ B 或者 C ）配对就可。如果没有配对完成，新设备上的 apple id 登录流程都无法正常走完。&lt;/p&gt;
+&lt;p&gt;(四)
+按文档：
+“仅同步部分项目
+部分钥匙串项特定于设备，如 iMessage 信息密钥，因而必须保留在设备上。因此，每个将要同步的项目都必须使用 kSecAttrSynchronizable 属性明确标记。&lt;/p&gt;
+&lt;p&gt;Apple 为 Safari 浏览器用户数据（包括用户名、密码和信用卡号）、无线局域网密码、HomeKit 加密密钥以及其他支持端对端 iCloud 加密的钥匙串项设置了该属性。&lt;/p&gt;
+&lt;p&gt;另外，在默认情况下，第三方 App 添加的钥匙串项不会进行同步。将项目添加至钥匙串时，开发者必须设置 kSecAttrSynchronizable 属性。”&lt;/p&gt;
+&lt;p&gt;我理解是：
+不知道 reset keychain 能不能清除这些第三方存在钥匙串里的内容。设置 kSecAttrSynchronizable 属性并能被 keychain 同步的第三方 APP 的数据项，是否能在 keychain 里被观察到。
+又或者它们除了能在设备本地 keychain 不可见的情况下，在网络同步的 keychain 里也不可见。但即使在网络同步的 keychain 里也不可见，应该也能被 reset keychain 的操作给清除？&lt;/p&gt;
+&lt;p&gt;哦，对了，还有一种特殊情况：如果 icloud 存储空间已满,新增的 keychain 项目是不是就不会同步到 icloud 上了？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981853#reply0</guid></item><item><title>[问与答] 练习英语听力，有什么 APP 可以听的吗</title><link>https://www.v2ex.com/t/981852#reply1</link><description>平时戴个耳机打开 APP 就可以听，比如新闻这些，而不是打开视频，打开视频听有时候不太方便。</description><pubDate>Fri, 13 Oct 2023 13:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981852#reply1</guid></item><item><title>[宽带症候群] 目前不上台且兼顾打电话和上网长期持有香港号码低成本方案</title><link>https://www.v2ex.com/t/981851#reply2</link><description>背景&lt;br /&gt;香港运营商的预付费套餐，在内地使用时，不是很完美，要么流量便宜但是通话费贵，要么通话便宜但是流量贵。&lt;br /&gt;后付费的大湾区套餐，一般都包含中港澳的通用语音和流量，用起来很爽，但是价格太高。&lt;br /&gt;&lt;br /&gt;对于需要打电话，同时也需要上网的人来说，有没有更好的方案呢？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;香港上台套餐大湾区资费列举：&lt;br /&gt;1 ） CMHK 中国移动香港：&lt;br /&gt;资费：168HKD 每月 （需携号转台，如果直接上台还需要增加 18HKD 的行政费）&lt;br /&gt;流量：10GB 大湾区（中港澳）流量，超过之后限速 384kbps&lt;br /&gt;接听电话：中港澳免费&lt;br /&gt;拨出电话：中港澳内 0.65HKD/分钟&lt;br /&gt;接受短信：免费&lt;br /&gt;发短信：網內：每月首 500 個免費，其後每個$0.3 網外：每個$0.6&lt;br /&gt;支持一卡多号，增加一个内地号码。&lt;br /&gt;&lt;br /&gt;CMHK 大湾区 50GB 流量的上台套餐，月费 468HKD.&lt;br /&gt;&lt;br /&gt;2 ） Cuniq HK 中国联通香港：&lt;br /&gt;资费：165HKD 每月（绑定信用卡自动扣款可以免除 18HKD 每月的行政费）&lt;br /&gt;流量：10GB 大湾区流量，赠送单独 10GB HK 流量。超量之后 HK 限速到 384kbps 、内地限速到 128kbps&lt;br /&gt;內地接聽/致電內地號碼$0.5/分鐘&lt;br /&gt;短信接收：免费&lt;br /&gt;支持一卡多号，增加一个内地号码。&lt;br /&gt;&lt;br /&gt;CUniq HK 大湾区 40GB 流量的上台套餐，月费 395HKD.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;预付费卡——3HK DIY&lt;br /&gt;流量：268HKD 45G 大湾区（中港澳）流量， 一年有效期，用完可以续订。充值 200HKD 从充值那天起计算，增加 1 年有效期&lt;br /&gt;&lt;br /&gt;通话、短信资费：&lt;br /&gt;内地接电话：8HKD 每分钟&lt;br /&gt;内地打给 HK：8HKD 每分钟&lt;br /&gt;内地打给内地：6HKD 每分钟&lt;br /&gt;内地短信发送：3.5 HKD 每条&lt;br /&gt;内地接收短信：免费&lt;br /&gt;完整可以查看： &lt;a href="https://www.three.com.hk/prepaid/DIY/tc/faq/pp02/" rel="nofollow noopener" target="_blank"&gt;https://www.three.com.hk/prepaid/DIY/tc/faq/pp02/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;预付费卡——CUniq HK 月神卡&lt;br /&gt;取消月费组合之后是 9HKD/月 （取消之前最低 98HKD/月，包含 5G 内地和香港共用流量）&lt;br /&gt;通话、短信资费：&lt;br /&gt;内地拨给内地和香港：0.3HKD/分钟&lt;br /&gt;内地接听：0.3HKD/分钟&lt;br /&gt;接收短信：免费&lt;br /&gt;内地发送短信给内地和香港：0.5HKD/条&lt;br /&gt;免费赠送一个内地号码，可以自己选择是否需要。在内地拨打内地电话是显示内地号码。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;综合以上套餐资费，对于同时需要电话、上网，但是又不想办理高昂的上台套餐资费的朋友，一个相对来说低成本的方案，就是同时办理 CUniq GO 月神卡套餐 + 3HK DIY 套餐。&lt;br /&gt;&lt;br /&gt;CMHK 大湾区 50GB 流量的上台套餐，月费 468HKD.&lt;br /&gt;CUniq HK 大湾区 40GB 流量的上台套餐，月费 395HKD.&lt;br /&gt;3HK DIY 大湾区 45G 流量为 268HKD 一年有效期.&lt;br /&gt;&lt;br /&gt;办理门槛：&lt;br /&gt;CMHK 上台：亲临 HK 门市，需要地址证明 + 内地人需要 1000HKD 押金；&lt;br /&gt;CUniq HK 上台：亲临 HK 门市，内地人需要 1000HKD 押金，&lt;br /&gt;CUniq GO 月神卡：在线办理即可。可以使用 esim 手机，或者 5ber sim 卡，将 esim 转化为实体 sim 。&lt;br /&gt;3HK DIY：同月神卡，在线办理即可。&lt;br /&gt;&lt;br /&gt;到这里，相信大家已经有了自己的选择了。&lt;br /&gt;具体哪个套餐适合自己，需要您根据自己的需求自己做出选择，如果您对于上面的观点持有不一样的意见，那以您为准，您是对的。&lt;br /&gt;&lt;br /&gt;更多内容，可以来这里探讨哈：&lt;br /&gt;&lt;br /&gt;境外卡测速数据分享/订阅/讨论群组&lt;br /&gt;📣官方频道: &lt;a href="https://t.me/speedtests" rel="nofollow noopener" target="_blank"&gt;https://t.me/speedtests&lt;/a&gt;&lt;br /&gt;👥官方群组: &lt;a href="https://t.me/speedtests_chat" rel="nofollow noopener" target="_blank"&gt;https://t.me/speedtests_chat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附录：&lt;br /&gt;3HK DIY 介绍以及使用体验（非常全面和详细,20230917 更新）&lt;br /&gt;&lt;a href="https://www.txrjy.com/thread-1297221-1-1.html" rel="nofollow noopener" target="_blank"&gt;https://www.txrjy.com/thread-1297221-1-1.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;CUniq GO 月神卡介绍和办理：&lt;br /&gt;&lt;a href="https://www.cuniq.com/global/Service-plan/detail/PlanCardDetail?goodsId=900777" rel="nofollow noopener" target="_blank"&gt;https://www.cuniq.com/global/Service-plan/detail/PlanCardDetail?goodsId=900777&lt;/a&gt;</description><pubDate>Fri, 13 Oct 2023 13:57:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981851#reply2</guid></item><item><title>[程序员] clang 使用 mingw 头文件编译时不出现部分警告</title><link>https://www.v2ex.com/t/981850#reply5</link><description>&lt;p&gt;最近在 vscode 中配置了 clangd 插件，发现不会提示 printf/scanf 相关的警告，于是测试了一下&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-C"&gt;#include &amp;lt;stdio.h&amp;gt;
+
+int main() {
+    int i;
+    scanf("%f", &amp;amp;i);
+    printf("%d", i, i ,2);
+
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;clang -Wall .\warn.c
+.\warn.c:5:5: warning: 'scanf' is deprecated: This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use      _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
+    scanf("%f", &amp;amp;i);
+    ^
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h:1275:20: note: 'scanf' has been explicitly marked deprecated here
+    _Check_return_ _CRT_INSECURE_DEPRECATE(scanf_s)
+                   ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcruntime.h:355:55: note: expanded from macro
+      '_CRT_INSECURE_DEPRECATE'
+        #define _CRT_INSECURE_DEPRECATE(_Replacement) _CRT_DEPRECATE_TEXT(    \
+                                                      ^
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcruntime.h:345:47: note: expanded from macro
+      '_CRT_DEPRECATE_TEXT'
+#define _CRT_DEPRECATE_TEXT(_Text) __declspec(deprecated(_Text))
+                                              ^
+.\warn.c:5:17: warning: format specifies type 'float *' but the argument has type 'int *' [-Wformat]
+    scanf("%f", &amp;amp;i);
+           ~~   ^~
+           %d
+.\warn.c:6:21: warning: data argument not used by format string [-Wformat-extra-args]
+    printf("%d", i, i ,2);
+           ~~~~     ^
+3 warnings generated.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;clang -Wall --target=x86_64-w64-mingw32 .\warn.c
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;gcc 使用相同头文件会显示警告&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; gcc -Wall .\warn.c
+.\warn.c: In function 'main':
+.\warn.c:5:13: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat=]
+    5 |     scanf("%f", &amp;amp;i);
+      |            ~^   ~~
+      |             |   |
+      |             |   int *
+      |             float *
+      |            %d
+.\warn.c:6:12: warning: too many arguments for format [-Wformat-extra-args]
+    6 |     printf("%d", i, i ,2);
+      |        
+      
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;想知道有没有办法配置 clang 显示相同警告&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 13:56:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981850#reply5</guid></item><item><title>[问与答] 有没有想过如果有一天失业找不到工作了</title><link>https://www.v2ex.com/t/981843#reply2</link><description>&lt;p&gt;你还能做什么？想找点后路，却不知道找什么？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 13:27:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981843#reply2</guid></item></channel></rss>
