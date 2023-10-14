@@ -1,141 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 13 Oct 2023 16:18:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Google Play] 现在注册印度区 play 账号很难吗？</title><link>https://www.v2ex.com/t/981870#reply0</link><description>&lt;p&gt;是不是风控很严？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 16:02:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981870#reply0</guid></item><item><title>[宽带症候群] 电信换了套餐， iTV 换成了天翼云盒，抓包无法找到直播源了，有偿求助</title><link>https://www.v2ex.com/t/981869#reply1</link><description>&lt;p&gt;原来使用电信的 iTV ，采用 PPPoE 认证，在 ikuai 软路由上做了认证，然后抓包直播源，利用公网 IP 做了一个私人直播源，外网可以随意看电视。
-现在换了套餐，套餐里没有 iTV ，给安装了天翼云盒，这个盒子无需接入光猫，直接接入局域网就能看电视直播。经抓包查看，平台是 gitv,连接全部是 TCP 连接，已无法抓包直播源，有偿求助。&lt;/p&gt;
-&lt;p&gt;部分 tcp 内容如下：
-GET /gitv_live/G_CCTV-1-HD-265-8M/live.jpg?p=GITV&amp;amp;area=NX_CTCC&amp;amp;type=2&amp;amp;t=1697026711614&amp;amp;mac=c0:88:96:7b:0b:a8 HTTP/1.1
-Cache-Control: no-store
-Host: &lt;a href="http://ctcc-jpg.ctyun-cdn.gitv.tv" rel="nofollow"&gt;ctcc-jpg.ctyun-cdn.gitv.tv&lt;/a&gt;
-Connection: Keep-Alive
-Accept-Encoding: gzip
-User-Agent: okhttp/3.8.1&lt;/p&gt;
-&lt;p&gt;HTTP/1.1 200 OK
-Server: openresty
-Date: Wed, 11 Oct 2023 12:18:33 GMT
-Content-Type: image/jpeg
-Content-Length: 30609
-Connection: keep-alive
-Last-Modified: Wed, 11 Oct 2023 12:18:26 GMT
-Accept-Ranges: bytes
-Cache-Control: max-age=9
-Ctl-Cache-Status: HIT from ha-zhengzhou4-ca28, HIT from nx-yinchuan5-ca27
-Request-Id: 652692990d9d1424cc9a9a6d840d8082
-Etag: "65269292-7791"
-Age: 0&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:55:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981869#reply1</guid></item><item><title>[宽带症候群] 北京移动单个光猫可以播多个账号吗</title><link>https://www.v2ex.com/t/981867#reply0</link><description>&lt;p&gt;背景：家里有多条移动宽带（手机套餐免费送），最新的光猫为华为 HN8546x6-10 ，xgpon
-不想开多个光猫，求问大佬是否可以做到只使用一个光猫进行多个账号的拨号，如何实现？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981867#reply0</guid></item><item><title>[分享发现] 甲骨文云开启两步验证之后，删除 app 是不是就无法登录了</title><link>https://www.v2ex.com/t/981865#reply3</link><description>&lt;p&gt;发现甲骨文云强制开启了二步登录验证，而且登录时必须使用 app 验证，但是 app 当时是扫码添加的，这要是不小心删了 app 是不是账号就废了？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 15:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981865#reply3</guid></item><item><title>[问与答] 求助各位 V 友，请问有没有合并 youtube 视频和字幕的工具</title><link>https://www.v2ex.com/t/981864#reply1</link><description>听说用 downsub 可以下载字幕&lt;br /&gt;想存点视频到本地，最近用公益节点不知道什么时候会被取消</description><pubDate>Fri, 13 Oct 2023 15:11:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981864#reply1</guid></item><item><title>[硬件] 怎么用 fio 去测到 SSD 厂家声称的读带宽？</title><link>https://www.v2ex.com/t/981863#reply0</link><description>&lt;p&gt;这里有一个我看到的 fio 测评 Samsung 980 PRO 1T.
-他测评顺序读大概是不到 3G/s. 但是厂家说可能是 7G/s: &lt;a href="https://www.phoronix.com/review/samsung-980-pro/3" rel="nofollow"&gt;https://www.phoronix.com/review/samsung-980-pro/3&lt;/a&gt;
-因为我自己也有这个 ssd, 我用 fio 测了一下和这个测评类似速度:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;sudo fio --name=seq_read --filename=/dev/nvme0n1 --rw=read --ioengine=libaio --bs=1m --numjobs=16 --iodepth=16 --runtime=2m --time_based --direct=1 --group_reporting
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 13 Oct 2023 15:09:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981863#reply0</guid></item><item><title>[问与答] 每次打开网站都会检查站点连接是否安全，怎么解决?</title><link>https://www.v2ex.com/t/981862#reply0</link><description>自从把 cloudflare 的 SSL/TLS 加密模式设置为“完全”后，每次打开网站都会检查站点连接是否安全，如果设置为“灵活”，又会一直转圈，打不开网站</description><pubDate>Fri, 13 Oct 2023 14:57:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981862#reply0</guid></item><item><title>[问与答] 企业微信的工作台配置跟注册时选择的行业有关吗？</title><link>https://www.v2ex.com/t/981861#reply2</link><description>&lt;p&gt;如题，默认的工作台配置跟行业相关吗？
-选错了行业类型了，是否有必要删了重新开？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:48:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981861#reply2</guid></item><item><title>[ WATCH] 如何知道 apple（watch）的维修收费？</title><link>https://www.v2ex.com/t/981860#reply2</link><description>前后文： &lt;a href="https://www.v2ex.com/t/978649#reply8" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/978649#reply8&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;去 specialist 看的时候，他不认为是电池鼓包，而是屏幕脱落，发来的邮件是收 1800 。但他也说，小概率返厂发现确实是电池鼓包的话，只会收 800.&lt;br /&gt;&lt;br /&gt;今天收到了返厂后，换了个官换新表的邮件，让我去直营店拿，到不知道也没写收多少钱，800 我还想去一趟，1800 就当我送 apple 了。当然我朋友说如果真收 1800 直接转头说不要了就行，但感觉到时候双方都很尴尬。&lt;br /&gt;&lt;br /&gt;所以我来问一下有相关维修经验的老哥是怎么样的？</description><pubDate>Fri, 13 Oct 2023 14:44:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981860#reply2</guid></item><item><title>[iPhone] 各位有遇到过扫码失败的情况吗？</title><link>https://www.v2ex.com/t/981859#reply0</link><description>目前手持 iPhone XS ，17.0.3 ，近两周内已经遇到两次扫码打开摄像头失败，提醒重启手机。重启之后又恢复正常，这是什么情况？</description><pubDate>Fri, 13 Oct 2023 14:44:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981859#reply0</guid></item><item><title>[iOS] [求助] iOS 历史短信凌晨变成新短信提醒</title><link>https://www.v2ex.com/t/981858#reply2</link><description>[问题] &lt;br /&gt;我有个朋友 iPhone 12 上的旧短信，每天都会在凌晨三点或者下午三点，刷新成当前的时间然后提醒。比如 2021 年的某条短信，在今天凌晨三点时间变成当前时间，顶到了列表最前面。（图床还不会用，搞懂了再附图）&lt;br /&gt;&lt;br /&gt; [手机设置] &lt;br /&gt;时区自动，iMessage 关了，Handoff 关了，保留 30 天短信&lt;br /&gt;&lt;br /&gt; [尝试的措施] &lt;br /&gt;1 ，联系客服，反馈升级系统，升级到最新没用&lt;br /&gt;2 ，删除所有短信，没有用&lt;br /&gt;3 ，今天重新登录了 iCloud ，待观察&lt;br /&gt;&lt;br /&gt;要是实在不行就刷机或换新手机了，就是不知道能不能根治😂</description><pubDate>Fri, 13 Oct 2023 14:42:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981858#reply2</guid></item><item><title>[程序员] 有人知道这种 悬浮盒子阴影 跟随鼠标旋转 动效生成网站吗</title><link>https://www.v2ex.com/t/981857#reply0</link><description>网站地址： &lt;a href="https://www.leohuynh.dev/" rel="nofollow noopener" target="_blank"&gt;https://www.leohuynh.dev/&lt;/a&gt;&lt;br /&gt;大家可以看到这个博主右侧的这种效果，卡片跟随鼠标旋转&lt;br /&gt;我之前看到过一个类似的开源库网站，也是可以直接调节阴影，颜色等各种参数，然后直接生成代码，非常方便&lt;br /&gt;但是我忘记那个网站地址了，请问大家知道吗</description><pubDate>Fri, 13 Oct 2023 14:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981857#reply0</guid></item><item><title>[Firefox] [分享] firefox 仿 chrome 主题</title><link>https://www.v2ex.com/t/981856#reply0</link><description>&lt;p&gt;因为 &lt;code&gt;Manifest V3&lt;/code&gt;的缘故, 一直想迁移到 &lt;code&gt;firefox&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;加上之前发现了 firefox 定制版 &lt;code&gt;floorp&lt;/code&gt; 体验不错&lt;/p&gt;
-&lt;p&gt;下定决心后, 把 firefox 上的拓展&lt;code&gt;newt&lt;/code&gt;修了下, 解决了重复加载图标导致卡顿的问题.&lt;/p&gt;
-&lt;p&gt;然后搜了下主题, 有个仿 chrome 主题, 稍微修了下, &lt;code&gt;jqtmviyu/MaterialFox&lt;/code&gt;, 外观也顺眼了.&lt;/p&gt;
-&lt;p&gt;就是在&lt;code&gt;&lt;a href="http://mozilla.org" rel="nofollow"&gt;mozilla.org&lt;/a&gt;&lt;/code&gt; 这类页面下拓展不生效(特别是翻译), 实在不爽.&lt;/p&gt;
-&lt;p&gt;目前就差一个&lt;code&gt;Keptab&lt;/code&gt;了&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:40:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981856#reply0</guid></item><item><title>[问与答] 深夜谈谈人生理想吧</title><link>https://www.v2ex.com/t/981855#reply8</link><description>如果在家靠一台电脑能够实现每天 200-300 收入你们还会去给人打工吗？我现在就想在家做做什么赚点生活费，有推荐的路子吗？</description><pubDate>Fri, 13 Oct 2023 14:36:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981855#reply8</guid></item><item><title>[生活] 哈罗顺风车放鸽子的车主是什么心态</title><link>https://www.v2ex.com/t/981854#reply11</link><description>&lt;p&gt;是在无法理解车主是出于什么心态。&lt;/p&gt;
-&lt;p&gt;大概出发前 5 天，在哈罗顺风车上打了个去机场的顺风车，用车时间是早上 7 点半，车主当晚就接单了，然后也在平台发消息确认了一下没有问题。&lt;/p&gt;
-&lt;p&gt;然后出发前一天晚上 7 点多，在平台上发消息想跟车主确认一下行程是否正常，过了十分钟车主没回复，然后打了电话问了一下，电话中就是简单确认行程是否正常，车主回答没问题，我说那明天见。&lt;/p&gt;
-&lt;p&gt;厉害的来了，当晚 0:21 分，车主没有打电话，没有留言，直接取消了我的顺风车订单，然后给我拉黑了。&lt;/p&gt;
-&lt;p&gt;早上起来我整个一个大懵逼。&lt;/p&gt;
-&lt;p&gt;倒不是非要做顺风车，如果前一天晚上告知我行程有变或者不想带我，我完全可以自己打一个接机，不知道当天早上那么狼狈。完全不清楚车主是出于什么心态和用意做这个事情。&lt;/p&gt;
-&lt;p&gt;而且哈罗平台对于追责问题是订单被取消后 4 小时内，这大半夜谁会一直盯着自己订单会不会被取消。联系客服反应之后，客服说最好的补偿办法就是给 10 元优惠券。。这样的平台给我优惠券我也不会再用了。我要求上级客服电话联系我，结果也一直没有，等来的就只有套路话的短信。不知道这算不算平台纵容这种车主。反正不会再用哈罗打顺风车了。&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981854#reply11</guid></item><item><title>[iCloud] 关于 iCloud keychain 同步机制的一些疑问，希望有高手来解惑。</title><link>https://www.v2ex.com/t/981853#reply0</link><description>&lt;p&gt;很多 V 站网友应该都知道，有些 iOS APP 会通过在 iOS 的 keychain 里留下隐藏记录的方式来锁定和追踪用户身份。
-典型的比如 uber ，如果只是删除 APP 再安装，即使换一个 ID 登录，uber 还是可以通过 keychain 记录的方式把用户的不同 ID 关联起来。
-我一直不清楚这种情况下，app 的隐藏记录会不会通过 keychain 同步的方式跑到同一个 apple id 的其它登录设备上。&lt;/p&gt;
-&lt;p&gt;然后前一阵打算把一个长期怎么用的 apple ID 登入到一台闲置的 mac 的某个账户上，结果在登录 icloud 时，要求我输入这个 apple id 之前登录并开启过 keychain 同步的 ipad 的锁屏 code 。这是 icloud 登录过程中验证 keychain 同步的一个步骤。ok 这没有问题，结果我输入 ok 以后，它又继续要我输入这个 apple id 之前登录过的一台更旧的 MAC 上的账户密码，这个我就完全想不起来了。结果输入不正确，它就不让我整个 icloud 登录过程完成。我完全没办法绕过，而且即使 icloud 登录完成，我也没打算开启 keychain 同步，它竟然也没办法让我在登录前就选择不同步 keychain 。
-结果就因为多个旧设备其中一个设备的 passcode 想不起来导致 apple id 的登录无法完成。&lt;/p&gt;
-&lt;h2&gt;这之后我就想了解下 apple 的 iCloud keychain 同步机制到底是如何工作的。到 apple 官方找了一下文档说明。看完以后还是有一些不确定的地方，就贴出来，看有没有高手帮我解解惑。&lt;/h2&gt;
-&lt;p&gt;假设有已经登入同一 apple id 并开启 icloud keychain sync 的旧设备 B 和 C ，以及准备新登入此 apple id 并开启 icloud keychain sync 的新设备 A&lt;/p&gt;
-&lt;p&gt;以下情形里，背后实际发生的流程是否如我理解？&lt;/p&gt;
-&lt;p&gt;官方原始文档（中文）
-&lt;a href="https://support.apple.com/zh-cn/guide/security/sec0a319b35f/web" rel="nofollow"&gt;https://support.apple.com/zh-cn/guide/security/sec0a319b35f/web&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;(一)
-按文档：
-“钥匙串安全同步
-当用户首次启用 iCloud 钥匙串时，设备将建立信任圈并为自己创建同步身份。同步身份包括私钥和公钥，且储存在设备的钥匙串中。同步身份的公钥放置在信任圈中，该信任圈已签名两次：第一次由同步身份的私钥签署，第⼆次由来自用户 iCloud 帐户密码的非对称椭圆密钥（使用 P-256 ）签署。随信任圈一起储存的还有参数（随机盐和迭代次数），用于创建基于用户 iCloud 密码的密钥。
-对于双重认证的帐户，还会额外创建一个相似的同步信任圈并存储在 CloudKit 中。此系统中的设备身份由两对非对称椭圆密钥（使用 P-384 ）组成，且储存在钥匙串中。每台设备均维护本机信任的身份列表，且使用其中一个身份密钥为此列表签名。”&lt;/p&gt;
-&lt;p&gt;我理解是：
-1.也就是说在 icloud 里同步的信任圈(syncing circle)包括多台设备的同步身份(syncing identity)的公钥，是一个全体设备的同步身份(syncing identity)公钥的集合。当某个设备（假如是 C ）关闭 keychain sync 后，这设备（这里是 C ）的同步身份（ syncing identity ）是不是就是会退出信任圈了。
-2.双重认证的账户，额外存一个同步信任圈在 CloudKit ，而代表设备身份的两对密钥存在钥匙串中,每个设备都有存在本机的信任设备身份列表，这个列表应该是选择钥匙串中有列的全部或部分设备身份密钥，组成一个 lists 。也就是每台设备都选择在钥匙串中登记过的设备身份清单，组成本机信任的 lists,并用本设备的一个身份密钥为此 Lists 列表签名，确保是认证不可篡改的本机信任 lists 。&lt;/p&gt;
-&lt;p&gt;(二)
-“iCloud 储存同步信任圈
-已签名的同步信任圈储存在用户的 iCloud 键值存储区域。如果不知道用户的 iCloud 密码，就无法对其进行读取；如果没有信任圈成员同步身份的私钥，就无法对其进行有效地修改。
-对于双重认证的帐户，每台设备的同步列表会存储在 CloudKit 中。如果不知道用户的 iCloud 密码，就无法读取列表；如果没有已拥有设备的私钥，就无法修改私钥。”
-"For two-factor authentication accounts, each device’s syncing list is stored in CloudKit. The lists can’t be read without knowing the user’s iCloud password, and they can’t be modified without having the private keys of the owning device."&lt;/p&gt;
-&lt;p&gt;我理解是：
-中文翻译有误，应该是说：对于双重认证的帐户，没有对应已拥有的设备(如旧设备 B,C)的私钥，就无法修改对应的 lists(大概是通过签名验证有效性的验证方式来限制生效)。我理解大概的过程是读取每个旧设备对应的 syncing lists,比如 B 设备的 lists ，然后想把新设备 A 加入这个 lists ，以后就能和 B 点对点 sync 了。这样就需要调用 B 设备对应的私钥给加了 A 的新 lists 签名，才会真正有效并被 B 设备接纳。&lt;/p&gt;
-&lt;p&gt;(三)
-按文档：
-“用户的其他设备如何添加到同步信任圈
-新设备登录 iCloud 时，可通过这两种方式之一加入 iCloud 钥匙串同步信任圈：与现有的 iCloud 钥匙串设备配对并获得其担保，或者使用 iCloud 钥匙串恢复。&lt;/p&gt;
-&lt;p&gt;在配对流程中，申请设备为同步信任圈和同步列表（针对双重认证帐户）新建同步身份，并将其出示给担保设备。担保设备将新成员的公钥添加至同步信任圈，并且使用其同步身份和派生自用户 iCloud 密码的密钥再次签名。新的同步信任圈放置在 iCloud 中，该信任圈的新成员也是在此处对其进行签名。在双重认证帐户中，担保设备还为加入设备提供使用其身份密钥签名的凭证，表明申请设备应被信任。然后，它会更新其受信任同步身份的单独列表，以包括申请设备。&lt;/p&gt;
-&lt;p&gt;现在，签名信任圈有两个成员，并且每个成员拥有另一个成员的公钥。它们现在开始通过 iCloud 键值存储交换各个钥匙串项或将其储存在 CloudKit 中，视情境而定。如果两个信任圈成员都更新了相同的项目，其中一个会被选中，最终获得一致的结果。每个同步的项目都会加密，使只有用户信任圈内的设备才能解密，任何其他设备或 Apple 都无法解密。&lt;/p&gt;
-&lt;p&gt;新设备加入同步信任圈时会重复此“加入流程”。例如，第三台设备加入时，可与其中任一台现有设备进行配对。随着新的同级设备加入，每台同级设备均与新设备进行同步。此设计旨在确保所有成员拥有相同的钥匙串项。”&lt;/p&gt;
-&lt;p&gt;我理解是：
-意思就是新加入的设备 A 想要把自己的同步身份的公钥加入 icloud 里同步的信任圈(syncing circle)中，那么：
-1.A 设备把自己的同步身份加入 icloud keychain 里的信任圈(syncing circle)，然后让所有的旧设备用自己的同步身份（ syncing identity ）的私钥签名以使之生效。比如针对 B 设备的，新设备 A 需要 B 调用 B 自己的同步身份的私钥对修改后的包含 A 的新信任圈(syncing circle)去签名，以使之生效。同理对于 C 设备也是这么个过程，因此过程中可能会调动每个旧设备的登入密码以启用私钥签名的动作。
-也即是说，新设备要加入 icloud 里同步的信任圈(syncing circle)。新设备 A 需要一个旧成员，比如设备 B ，调用 B 自己的同步身份的私钥，对添加了 A 设备同步身份(syncing identity)公钥后的新信任圈(syncing circle)去签名，以使之生效。是否仅需要一个旧成员签名即可，还是需要全体旧成员都签名。签名的过程，是否需要输入旧设备的 passcode ，比如 B 设备的密码，才能调用相应设备的私钥做签名动作。&lt;/p&gt;
-&lt;p&gt;2.双重认证帐户时除了把把自己 A 设备身份的密钥存到 icloud 钥匙串的同步信任圈，还要让其它设备 B,C 都把 A 的设备身份加入到 B,C 设备的本机信任 list 里，并让 B,C 设备各自用自己的设备身份密钥给这个新加入了 A 设备的 list 签名认证。这样的话就必须要调用每一个加入过 keychain 的设备（ B 和 C ）的密钥来让它们各自给加入 A 设备的新 list 签名，也就需要输入 B 和 C 设备的登入密码来解锁和启用签名流程。&lt;/p&gt;
-&lt;p&gt;3.这里讨论的流程没有包括“iCloud 钥匙串恢复”的流程，仅是讨论新旧设备配对的问题，核心就是是否需要每一台旧设备的配对（授权），还是仅需要其中一台的。&lt;/p&gt;
-&lt;p&gt;这里有一个疑问，实际情况好像是第三台设备 A 加入时,必须与每一台旧设备(B 和 C)都配对（输入设备登入密码），而不是只与其中任一台（ B 或者 C ）配对就可。如果没有配对完成，新设备上的 apple id 登录流程都无法正常走完。&lt;/p&gt;
-&lt;p&gt;(四)
-按文档：
-“仅同步部分项目
-部分钥匙串项特定于设备，如 iMessage 信息密钥，因而必须保留在设备上。因此，每个将要同步的项目都必须使用 kSecAttrSynchronizable 属性明确标记。&lt;/p&gt;
-&lt;p&gt;Apple 为 Safari 浏览器用户数据（包括用户名、密码和信用卡号）、无线局域网密码、HomeKit 加密密钥以及其他支持端对端 iCloud 加密的钥匙串项设置了该属性。&lt;/p&gt;
-&lt;p&gt;另外，在默认情况下，第三方 App 添加的钥匙串项不会进行同步。将项目添加至钥匙串时，开发者必须设置 kSecAttrSynchronizable 属性。”&lt;/p&gt;
-&lt;p&gt;我理解是：
-不知道 reset keychain 能不能清除这些第三方存在钥匙串里的内容。设置 kSecAttrSynchronizable 属性并能被 keychain 同步的第三方 APP 的数据项，是否能在 keychain 里被观察到。
-又或者它们除了能在设备本地 keychain 不可见的情况下，在网络同步的 keychain 里也不可见。但即使在网络同步的 keychain 里也不可见，应该也能被 reset keychain 的操作给清除？&lt;/p&gt;
-&lt;p&gt;哦，对了，还有一种特殊情况：如果 icloud 存储空间已满,新增的 keychain 项目是不是就不会同步到 icloud 上了？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 14:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981853#reply0</guid></item><item><title>[问与答] 练习英语听力，有什么 APP 可以听的吗</title><link>https://www.v2ex.com/t/981852#reply1</link><description>平时戴个耳机打开 APP 就可以听，比如新闻这些，而不是打开视频，打开视频听有时候不太方便。</description><pubDate>Fri, 13 Oct 2023 13:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981852#reply1</guid></item><item><title>[宽带症候群] 目前不上台且兼顾打电话和上网长期持有香港号码低成本方案</title><link>https://www.v2ex.com/t/981851#reply2</link><description>背景&lt;br /&gt;香港运营商的预付费套餐，在内地使用时，不是很完美，要么流量便宜但是通话费贵，要么通话便宜但是流量贵。&lt;br /&gt;后付费的大湾区套餐，一般都包含中港澳的通用语音和流量，用起来很爽，但是价格太高。&lt;br /&gt;&lt;br /&gt;对于需要打电话，同时也需要上网的人来说，有没有更好的方案呢？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;香港上台套餐大湾区资费列举：&lt;br /&gt;1 ） CMHK 中国移动香港：&lt;br /&gt;资费：168HKD 每月 （需携号转台，如果直接上台还需要增加 18HKD 的行政费）&lt;br /&gt;流量：10GB 大湾区（中港澳）流量，超过之后限速 384kbps&lt;br /&gt;接听电话：中港澳免费&lt;br /&gt;拨出电话：中港澳内 0.65HKD/分钟&lt;br /&gt;接受短信：免费&lt;br /&gt;发短信：網內：每月首 500 個免費，其後每個$0.3 網外：每個$0.6&lt;br /&gt;支持一卡多号，增加一个内地号码。&lt;br /&gt;&lt;br /&gt;CMHK 大湾区 50GB 流量的上台套餐，月费 468HKD.&lt;br /&gt;&lt;br /&gt;2 ） Cuniq HK 中国联通香港：&lt;br /&gt;资费：165HKD 每月（绑定信用卡自动扣款可以免除 18HKD 每月的行政费）&lt;br /&gt;流量：10GB 大湾区流量，赠送单独 10GB HK 流量。超量之后 HK 限速到 384kbps 、内地限速到 128kbps&lt;br /&gt;內地接聽/致電內地號碼$0.5/分鐘&lt;br /&gt;短信接收：免费&lt;br /&gt;支持一卡多号，增加一个内地号码。&lt;br /&gt;&lt;br /&gt;CUniq HK 大湾区 40GB 流量的上台套餐，月费 395HKD.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;预付费卡——3HK DIY&lt;br /&gt;流量：268HKD 45G 大湾区（中港澳）流量， 一年有效期，用完可以续订。充值 200HKD 从充值那天起计算，增加 1 年有效期&lt;br /&gt;&lt;br /&gt;通话、短信资费：&lt;br /&gt;内地接电话：8HKD 每分钟&lt;br /&gt;内地打给 HK：8HKD 每分钟&lt;br /&gt;内地打给内地：6HKD 每分钟&lt;br /&gt;内地短信发送：3.5 HKD 每条&lt;br /&gt;内地接收短信：免费&lt;br /&gt;完整可以查看： &lt;a href="https://www.three.com.hk/prepaid/DIY/tc/faq/pp02/" rel="nofollow noopener" target="_blank"&gt;https://www.three.com.hk/prepaid/DIY/tc/faq/pp02/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;预付费卡——CUniq HK 月神卡&lt;br /&gt;取消月费组合之后是 9HKD/月 （取消之前最低 98HKD/月，包含 5G 内地和香港共用流量）&lt;br /&gt;通话、短信资费：&lt;br /&gt;内地拨给内地和香港：0.3HKD/分钟&lt;br /&gt;内地接听：0.3HKD/分钟&lt;br /&gt;接收短信：免费&lt;br /&gt;内地发送短信给内地和香港：0.5HKD/条&lt;br /&gt;免费赠送一个内地号码，可以自己选择是否需要。在内地拨打内地电话是显示内地号码。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;综合以上套餐资费，对于同时需要电话、上网，但是又不想办理高昂的上台套餐资费的朋友，一个相对来说低成本的方案，就是同时办理 CUniq GO 月神卡套餐 + 3HK DIY 套餐。&lt;br /&gt;&lt;br /&gt;CMHK 大湾区 50GB 流量的上台套餐，月费 468HKD.&lt;br /&gt;CUniq HK 大湾区 40GB 流量的上台套餐，月费 395HKD.&lt;br /&gt;3HK DIY 大湾区 45G 流量为 268HKD 一年有效期.&lt;br /&gt;&lt;br /&gt;办理门槛：&lt;br /&gt;CMHK 上台：亲临 HK 门市，需要地址证明 + 内地人需要 1000HKD 押金；&lt;br /&gt;CUniq HK 上台：亲临 HK 门市，内地人需要 1000HKD 押金，&lt;br /&gt;CUniq GO 月神卡：在线办理即可。可以使用 esim 手机，或者 5ber sim 卡，将 esim 转化为实体 sim 。&lt;br /&gt;3HK DIY：同月神卡，在线办理即可。&lt;br /&gt;&lt;br /&gt;到这里，相信大家已经有了自己的选择了。&lt;br /&gt;具体哪个套餐适合自己，需要您根据自己的需求自己做出选择，如果您对于上面的观点持有不一样的意见，那以您为准，您是对的。&lt;br /&gt;&lt;br /&gt;更多内容，可以来这里探讨哈：&lt;br /&gt;&lt;br /&gt;境外卡测速数据分享/订阅/讨论群组&lt;br /&gt;📣官方频道: &lt;a href="https://t.me/speedtests" rel="nofollow noopener" target="_blank"&gt;https://t.me/speedtests&lt;/a&gt;&lt;br /&gt;👥官方群组: &lt;a href="https://t.me/speedtests_chat" rel="nofollow noopener" target="_blank"&gt;https://t.me/speedtests_chat&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;附录：&lt;br /&gt;3HK DIY 介绍以及使用体验（非常全面和详细,20230917 更新）&lt;br /&gt;&lt;a href="https://www.txrjy.com/thread-1297221-1-1.html" rel="nofollow noopener" target="_blank"&gt;https://www.txrjy.com/thread-1297221-1-1.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;CUniq GO 月神卡介绍和办理：&lt;br /&gt;&lt;a href="https://www.cuniq.com/global/Service-plan/detail/PlanCardDetail?goodsId=900777" rel="nofollow noopener" target="_blank"&gt;https://www.cuniq.com/global/Service-plan/detail/PlanCardDetail?goodsId=900777&lt;/a&gt;</description><pubDate>Fri, 13 Oct 2023 13:57:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981851#reply2</guid></item><item><title>[程序员] clang 使用 mingw 头文件编译时不出现部分警告</title><link>https://www.v2ex.com/t/981850#reply5</link><description>&lt;p&gt;最近在 vscode 中配置了 clangd 插件，发现不会提示 printf/scanf 相关的警告，于是测试了一下&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-C"&gt;#include &amp;lt;stdio.h&amp;gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 14 Oct 2023 07:16:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] vscode 的 windows 版本以前可以把 tab 拖拽出去变成一个单独的窗口,但是连接远程服务器就缺少了这个功能,有什么解决方法么</title><link>https://www.v2ex.com/t/981956#reply0</link><description>&lt;p&gt;希望在多屏幕下调试远程服务器的代码&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 07:10:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981956#reply0</guid></item><item><title>[分享发现] 外网通过 ipv6 消耗我的手机流量进行攻击是可行的吗？</title><link>https://www.v2ex.com/t/981955#reply1</link><description>突然想到一个问题，&lt;br /&gt;现在手机都可以 ipv6 公网访问吗？如果我去访问某些网站，被有心人记录下了我的 ipv6 地址；然后他不断通过我的 ipv6 发送数据，尽管我的手机没有相应的服务去接受，甚至手机有防火墙，但是数据包真真实实地抵达了我的手机，产生了数据流量消耗。那么那个人可以不断消耗我的数据流量，最终让我的手机停机。</description><pubDate>Sat, 14 Oct 2023 06:53:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981955#reply1</guid></item><item><title>[职场话题] Java 转 c++，感觉很吃力，有什么好的办法吗？</title><link>https://www.v2ex.com/t/981954#reply1</link><description></description><pubDate>Sat, 14 Oct 2023 06:49:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981954#reply1</guid></item><item><title>[问与答] 请教各位一个 nginx 的配置</title><link>https://www.v2ex.com/t/981953#reply3</link><description>&lt;p&gt;当前,我希望使用 nginx 反向代理几个域名以便可以让内网访问
+比如 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; &lt;a href="http://b.com" rel="nofollow"&gt;b.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前我发现这样配置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;location / {
+            
+            default_type text/html;
 
-int main() {
-    int i;
-    scanf("%f", &amp;amp;i);
-    printf("%d", i, i ,2);
+            if ($host ~* a.com$) {
+                proxy_pass $scheme://$host;
+            }
 
-    return 0;
-}
+            return 404;
+        }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;clang -Wall .\warn.c
-.\warn.c:5:5: warning: 'scanf' is deprecated: This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use      _CRT_SECURE_NO_WARNINGS. See online help for details. [-Wdeprecated-declarations]
-    scanf("%f", &amp;amp;i);
-    ^
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h:1275:20: note: 'scanf' has been explicitly marked deprecated here
-    _Check_return_ _CRT_INSECURE_DEPRECATE(scanf_s)
-                   ^
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcruntime.h:355:55: note: expanded from macro
-      '_CRT_INSECURE_DEPRECATE'
-        #define _CRT_INSECURE_DEPRECATE(_Replacement) _CRT_DEPRECATE_TEXT(    \
-                                                      ^
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vcruntime.h:345:47: note: expanded from macro
-      '_CRT_DEPRECATE_TEXT'
-#define _CRT_DEPRECATE_TEXT(_Text) __declspec(deprecated(_Text))
-                                              ^
-.\warn.c:5:17: warning: format specifies type 'float *' but the argument has type 'int *' [-Wformat]
-    scanf("%f", &amp;amp;i);
-           ~~   ^~
-           %d
-.\warn.c:6:21: warning: data argument not used by format string [-Wformat-extra-args]
-    printf("%d", i, i ,2);
-           ~~~~     ^
-3 warnings generated.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;clang -Wall --target=x86_64-w64-mingw32 .\warn.c
+&lt;p&gt;即使请求的是 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; 也会返回 404,如果注释掉&lt;code&gt;return 404&lt;/code&gt;时,则访问 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; 时正常,访问其他域名会返回 nginx 默认页面.&lt;/p&gt;
+&lt;p&gt;请问如何配置才能让这个 if 短路提前 return,而不是继续走到后边的 return 404?&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:48:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981953#reply3</guid></item><item><title>[问与答] 房子&amp;女友&amp;人&amp;利益</title><link>https://www.v2ex.com/t/981950#reply6</link><description>有点标题党了，问个问题：&lt;br /&gt;&lt;br /&gt;今天谈论房价的事，女朋友说现在看未来房价都是跌的，不如把我老家（北京远郊）的房卖了，未来再买回来，差价挣个 1 ，2 百万&lt;br /&gt;&lt;br /&gt;我愣了，不知道为啥有这个想法&lt;br /&gt;&lt;br /&gt;我说第一这个是我小时候长起来的地方，第二卖了我爸我妈上哪？她说可以租房，利息肯定也比房租多。&lt;br /&gt;&lt;br /&gt;我又愣了，我说你为什么这么想。&lt;br /&gt;&lt;br /&gt;她说长远看房价肯定跌，上次去我家那里都没见到链家，所以没人买，大概这个意思。&lt;br /&gt;&lt;br /&gt;我说你这么想是只想着利益，为什么不考虑人呢，我爸妈年纪大了去新地方适应新环境吗？&lt;br /&gt;&lt;br /&gt;她说我就是考虑感情，如果你现在有 1000w 。是选择在一个升值的地方买还是回老家选择一个注定会贬值的地方买？父母租在原来的地方就不用适应环境了。&lt;br /&gt;&lt;br /&gt;我说从利益的角度，你说的都对，但是你有没有考虑过，你这个决定如果只影响你，那没问题，但是影响了别人。&lt;br /&gt;&lt;br /&gt;她说拿我举例，她母亲原来本可以多买个房，但是觉得还是留点钱怎么怎么着，后来没买，如果买了，那么现在生活肯定不一样了。&lt;br /&gt;&lt;br /&gt;我说你看到了你母亲这么决策的的一个不好的点，但是他其他决策看起来都挺好，你又怎么保正你的决策从后面看是对的呢？&lt;br /&gt;&lt;br /&gt;她说目前看我的认知应该是比他们高的，&lt;br /&gt;&lt;br /&gt;我说那好，即使是这样，那么如果你和你母亲，你会不会卖房子，你问问你母亲她愿意吗？&lt;br /&gt;&lt;br /&gt;她说没必要说服所有人，就看你能不能有这个狠心，比如她母亲让她医院挂号，但她没有那么多时间去挂号，而她母亲不想学挂号，后来她教她母亲挂号，她母亲后来也学会自己挂了，就是说她可能不愿意做某件事，但是迫使自己做了后来发现也是收益的，我太放大对于他人的情绪观察了。&lt;br /&gt;&lt;br /&gt;她又说之前他们买房的决定影响了我，我现在的决定为什么不能影响他们？&lt;br /&gt;&lt;br /&gt;我彻底不知道说啥了。&lt;br /&gt;&lt;br /&gt;我说咱们不应该以人为本吗？挣再多钱不也是给人的？&lt;br /&gt;&lt;br /&gt;她说比如别人跟我借钱，你是直接给他钱重要，还是拿不出钱，就说一些安慰的话有用。&lt;br /&gt;&lt;br /&gt;她说我就是没求过别人办事，如果现在父母生病要拿出 100 万，我没有，那么我会怎么办。&lt;br /&gt;&lt;br /&gt;我沉默了。&lt;br /&gt;&lt;br /&gt;我女朋友父亲之前是生病去世的，应该跟这段经历有关，又有点心疼她。&lt;br /&gt;&lt;br /&gt;有点不知所言了，我也不知道把这段发出来我想获得什么，各位大哥聊聊想法。</description><pubDate>Sat, 14 Oct 2023 06:35:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981950#reply6</guid></item><item><title>[问与答] 为什么 V2EX 没有 相亲/交友 的节点</title><link>https://www.v2ex.com/t/981949#reply3</link><description></description><pubDate>Sat, 14 Oct 2023 06:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981949#reply3</guid></item><item><title>[Apple] LCD 会烧屏吗？这是不是烧屏？ ROG Swift PG27AQ</title><link>https://www.v2ex.com/t/981948#reply8</link><description>&lt;p&gt;只知道 OLED 会烧屏，但这个 LCD 是不是烧屏呢？上一个贴子里提起，想到拍个照看一下。
+只要在某一个画面停留一段时间，然后回到深色背景下，就会明显看到印记。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ROG SWIFT PG27AQ
 
+螢幕
+面板尺寸 :
+27	
+長寬比 :
+16:9
+面板類型 :
+Fast IPS	
+真實解析度 :
+3840x2160	
+顯示表面 :
+Non-Glare
+畫素點距 :
+0.155mm
+亮度 (Typ.):
+300cd/㎡
+對比率 :
+1000:1	
+可視角度 (CR≧10) :
+178° / 178°	
+反應時間 :
+4ms(GTG)
+顯示色彩 :
+1073.7M (10 bit)
+不閃屏 :
+支援
+畫面更新率（最大值） :
+60Hz
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;gcc 使用相同头文件会显示警告&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; gcc -Wall .\warn.c
-.\warn.c: In function 'main':
-.\warn.c:5:13: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat=]
-    5 |     scanf("%f", &amp;amp;i);
-      |            ~^   ~~
-      |             |   |
-      |             |   int *
-      |             float *
-      |            %d
-.\warn.c:6:12: warning: too many arguments for format [-Wformat-extra-args]
-    6 |     printf("%d", i, i ,2);
-      |        
-      
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;想知道有没有办法配置 clang 显示相同警告&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 13:56:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981850#reply5</guid></item><item><title>[问与答] 有没有想过如果有一天失业找不到工作了</title><link>https://www.v2ex.com/t/981843#reply2</link><description>&lt;p&gt;你还能做什么？想找点后路，却不知道找什么？&lt;/p&gt;</description><pubDate>Fri, 13 Oct 2023 13:27:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981843#reply2</guid></item></channel></rss>
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jLjf45b.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:24:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981948#reply8</guid></item><item><title>[NBA] 欧文或面临被禁赛了</title><link>https://www.v2ex.com/t/981947#reply0</link><description>&lt;p&gt;顺带想起之前侃爷的新闻，才发现原来在海外还有这么一个底线&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:11:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981947#reply0</guid></item><item><title>[OpenAI] 有没有便宜的 AI 视频语音翻译平台？ ElevenLabs 有点太贵了</title><link>https://www.v2ex.com/t/981946#reply3</link><description>&lt;p&gt;主要想用来看油管知识博主的视频，英文啃有点费力。&lt;/p&gt;
+&lt;p&gt;ElevenLabs 直接用油管视频 url 翻译，2000 个豆每分钟，99 刀/月才给 500k 豆，满共也就 4 小时。&lt;/p&gt;
+&lt;p&gt;有没有便宜点的方式？&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 05:51:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981946#reply3</guid></item><item><title>[iOS] shadowrocket 的规则老是代理 App Store 商店应用更新</title><link>https://www.v2ex.com/t/981945#reply5</link><description>原作者 h2y 停止维护 Shadowrocket-ADBlock-Rules 后用的是 V2EX 上大家推荐的这个项目&lt;br /&gt;&lt;a href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" rel="nofollow noopener" target="_blank"&gt;https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;选是配置模块是《黑名单过滤 + 广告》&lt;br /&gt;&lt;a href="https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf" rel="nofollow noopener" target="_blank"&gt;https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;按理说国区的应用商店不可能在黑名单里面不应该走代理，事实是只要小火箭 shadowrocket 开关打开，AppStore 必然加载很慢，应用更新也很慢，如果连到失效的机场节点，那 App Store 根本加载不出来。&lt;br /&gt;&lt;br /&gt;所以很显然 App Store 是被 shadowrocket 的规则强制代理了。&lt;br /&gt;&lt;br /&gt;有相同情况的朋友吗？或者哪位帮抓包分析下国区 App Store 应用商店的请求 url ，我测一下规则是不是真的把它代理了。</description><pubDate>Sat, 14 Oct 2023 05:22:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981945#reply5</guid></item><item><title>[问与答] imtoken 虚拟币钱包被盗</title><link>https://www.v2ex.com/t/981944#reply3</link><description>&lt;p&gt;盗窃者首先用另一个陌生地址往我钱包地址转 0.001usdt,成功转入之后就把我钱包里的 7400usdt 全部转出到他的指定账户了。请问这用的是什么方法？有大神知道吗？我不指望找回来，就是想知道在不需要获取助记词的情况下对方怎么轻松 7 分钟就能把我的钱盗走？（我很肯定自己的助记词没泄露）本人一向小心谨慎不点链接不扫码不截屏，不授权，凡事亲力亲为，不共享 appleId,不开云盘不用 iCloud.我只想知道这种情况是怎么引起的？想明白一下原理，发邮件给 imtoken 没人理，客服也找不到。我看网上有人说可能是内部人员干的。所以想看看大家的说法&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 05:07:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981944#reply3</guid></item><item><title>[ WATCH] 升级到 10.0，续航明显下降</title><link>https://www.v2ex.com/t/981943#reply6</link><description>目前版本是 10.0.1 ，健康度 91%，series 7 ，之前每天晚上睡觉前还有 40%-50%的电，最近每天都只剩 10-30%，搞得很焦虑。&lt;br /&gt;&lt;br /&gt;不知道有没有人跟我一样？</description><pubDate>Sat, 14 Oct 2023 05:04:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981943#reply6</guid></item><item><title>[问与答] 各位有被楼上噪音困扰么？</title><link>https://www.v2ex.com/t/981942#reply19</link><description>&lt;p&gt;经常看到楼上噪音的帖子，小红书上更多，甚至已经有阿拉丁共振音响和专用的伸缩固定杆这些周边产业了。&lt;/p&gt;
+&lt;p&gt;看起来是很多人花光家里积蓄背上几十年贷款，最终获得了一个居住质量很差的房子？&lt;/p&gt;
+&lt;p&gt;那么，有哪些开发商的楼板比较厚，隔音好的？目前看到很多人说万科的楼盘隔音是极差无比的。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:45:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981942#reply19</guid></item><item><title>[数据库] 想要更深入学习 MySql 使用，有什么好的资料推荐</title><link>https://www.v2ex.com/t/981941#reply7</link><description>&lt;p&gt;学会了基本使用之后，想更深入学习&lt;/p&gt;
+&lt;p&gt;求资料推荐，书或者视频都可以&lt;/p&gt;
+&lt;p&gt;如果 Oracle 或者 PostgreSQL 有好的资料也可以推荐&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:38:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981941#reply7</guid></item><item><title>[信息安全] 慎用 imtoken 钱包</title><link>https://www.v2ex.com/t/981940#reply1</link><description>&lt;p&gt;不要说助记词泄露，也不要说扫了码或点击不明链接，这些我全部没有做，而且权限管理只有我自己权限，助记词是我刚创建账户时对着手机用纸记的，连截屏都没有，家里除了我和猫没有客人来过，APP 是我在苹果 AppStore 商店下载的，AppleiD 是我自己创建注册的，手机云端共享包括 iCloud 从来没开过，昨天晚上收到 7000 多 u 短短七分钟之内就被转到陌生地址，这种平台还能用吗？盗窃者开始给我转 0.001usdt,转成功后就立马用我的 imtoken 钱包尝试转出，第一次尝试失败，再次给我钱包转入 0.001usdt,这次钱包的 u 全部被转走，我是发不了图请懂得大佬分析一下原因，我个人怀疑是内部人员或有漏洞被攻击，如果是我自己蠢被骗点了什么链接授了什么权我也就认了，发生这种问题这个钱包真的不能用了。太可怕了。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:37:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981940#reply1</guid></item><item><title>[Apple] 突然发现新版的 macos 和 ios 的 ibooks 目录问题解决了</title><link>https://www.v2ex.com/t/981938#reply0</link><description>以前的系统用 ibooks 看 epub 书目录不会自动定位，总是定位在第一章，今天突然发现新系统把这个 bug 修复了，看着舒服多了</description><pubDate>Sat, 14 Oct 2023 04:29:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981938#reply0</guid></item><item><title>[问与答] 企查查的公司行政处罚应该也是从公开渠道获取的吗？是否可以自己找到？</title><link>https://www.v2ex.com/t/981937#reply2</link><description>&lt;p&gt;想看一下结果要付费 700 元开通。。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:28:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981937#reply2</guid></item><item><title>[macOS] 使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?</title><link>https://www.v2ex.com/t/981936#reply20</link><description>&lt;p&gt;现在进入 1TR ，reinstall macos 选项显示只能安装 sonoma&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:24:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981936#reply20</guid></item><item><title>[NAS] nas 主板 cpu 风扇转，开机没有输出</title><link>https://www.v2ex.com/t/981933#reply5</link><description>&lt;p&gt;前段时间升级了 nas ，把一个很老的 nas 主板（ 悦升 NAS N70E-DR v3 ）换下来了。放了一段时间，今天插上电源。发现 cpu 风扇转，开机没有输出。用功率计测量了一下，功耗是 26w ，符合网上某个网友测出来的一个硬盘都不插的功耗，估计是进入了 bios 。拔掉内存，可以听到报警。插上之后，报警消失。这应该能间接证明部分电路是工作正常的。&lt;/p&gt;
+&lt;p&gt;cpu 是 1037u, 自带集成显卡。有没有可能集成显卡坏掉了？感觉不太可能。有一点要说明的是，我好几年没有用过显示器了，现在是一个网友要这块板子，所以测试一下发现的。另外发现插 VGA 和 hdmi 接口的时候，主板的 VGA 和 hdmi 接口边缘碰到显示器接过来的 VGA 或者 hdmi 线的时候，会有很小的电流火花，感觉哪个地方有问题。不知道是不是显示部分的电路烧掉了。也不知道是不是我拆的时候或者拆下之后碰掉了零件没有。&lt;/p&gt;
+&lt;p&gt;补充信息：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;能通过 wol 开机，但是发现用群晖的 u 盘引导找不到。路由器上也显示没有拿到 ip 。可能根本就没进入群晖引导，bios 要重新调整为 usb 引导。&lt;/li&gt;
+&lt;li&gt;接 1 ， 用 wol 开机，发现主板接在千兆交换机上，没有灯亮，但是 wol 是正常的。接在我的万兆 pc 有灯亮，wol 也正常。以前接千兆交换机是有灯亮的，太诡异了。&lt;/li&gt;
+&lt;li&gt;拔掉 bios 电池，直接开机，显示器仍然没有输出。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sat, 14 Oct 2023 04:05:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981933#reply5</guid></item><item><title>[iCloud] 国区 iCloud 2T 和 music 家庭车补一人</title><link>https://www.v2ex.com/t/981932#reply0</link><description>&lt;p&gt;已稳定开车 3 年多 可提供账单 年付 170 联系绿色：d2hpemN6Yw==&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:03:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981932#reply0</guid></item></channel></rss>
