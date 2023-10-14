@@ -1,62 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 14 Oct 2023 07:16:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] vscode 的 windows 版本以前可以把 tab 拖拽出去变成一个单独的窗口,但是连接远程服务器就缺少了这个功能,有什么解决方法么</title><link>https://www.v2ex.com/t/981956#reply0</link><description>&lt;p&gt;希望在多屏幕下调试远程服务器的代码&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 07:10:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981956#reply0</guid></item><item><title>[分享发现] 外网通过 ipv6 消耗我的手机流量进行攻击是可行的吗？</title><link>https://www.v2ex.com/t/981955#reply1</link><description>突然想到一个问题，&lt;br /&gt;现在手机都可以 ipv6 公网访问吗？如果我去访问某些网站，被有心人记录下了我的 ipv6 地址；然后他不断通过我的 ipv6 发送数据，尽管我的手机没有相应的服务去接受，甚至手机有防火墙，但是数据包真真实实地抵达了我的手机，产生了数据流量消耗。那么那个人可以不断消耗我的数据流量，最终让我的手机停机。</description><pubDate>Sat, 14 Oct 2023 06:53:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981955#reply1</guid></item><item><title>[职场话题] Java 转 c++，感觉很吃力，有什么好的办法吗？</title><link>https://www.v2ex.com/t/981954#reply1</link><description></description><pubDate>Sat, 14 Oct 2023 06:49:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981954#reply1</guid></item><item><title>[问与答] 请教各位一个 nginx 的配置</title><link>https://www.v2ex.com/t/981953#reply3</link><description>&lt;p&gt;当前,我希望使用 nginx 反向代理几个域名以便可以让内网访问
-比如 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; &lt;a href="http://b.com" rel="nofollow"&gt;b.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前我发现这样配置&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;location / {
-            
-            default_type text/html;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 14 Oct 2023 16:54:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[DNS] 谨慎使用 DoQ</title><link>https://www.v2ex.com/t/982050#reply0</link><description>&lt;p&gt;最近观察了数日，发现一直存在未知来源的 DoQ 查询记录，每隔数小时有一次，时间不固定，需要达到一定流量才会出现，各位如果发现了类似的情况可以研究一下。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:37:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982050#reply0</guid></item><item><title>[问与答] 回国流量节点云服务器选哪家呢</title><link>https://www.v2ex.com/t/982049#reply2</link><description>请教大家有哪个国内云服务器提供商最划算，可以用作回国代理节点，刚才看腾讯云的小机只有 5M 每个月 500G 要 200 多一年。如果听歌还可以，看一些视频基本是不行了，所以请问大家有哪些推荐，谢谢！</description><pubDate>Sat, 14 Oct 2023 16:37:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982049#reply2</guid></item><item><title>[Vue.js] VueUse 最佳实践 - Anthony Fu</title><link>https://www.v2ex.com/t/982048#reply0</link><description>&lt;p&gt;视频： &lt;a href="https://www.bilibili.com/video/BV1bM411U7wq" rel="nofollow"&gt;https://www.bilibili.com/video/BV1bM411U7wq&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:34:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982048#reply0</guid></item><item><title>[问与答] CentOS7 eol 以后大家对 rh 系的 Linux 有什么推荐吗</title><link>https://www.v2ex.com/t/982047#reply2</link><description>&lt;p&gt;在下给自己的家庭个人服务器装 Linux ，希望稳定三年吧，绝大多数时间不会时常更新系统&lt;/p&gt;
+&lt;p&gt;日常软件对 rh 的兼容性强所以首选 rh 系的 Linux&lt;/p&gt;
+&lt;p&gt;CentOS 的故事大家都知道了，接下来怎么选择呢，大家有什么建议&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:29:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982047#reply2</guid></item><item><title>[Google] google one vpn 的极致简明教程</title><link>https://www.v2ex.com/t/982046#reply0</link><description>&lt;p&gt;Google one vpn 耳闻已久，但这几天才下决心付款。先上个最基础的套餐试试水
+结果发现还需要软路由，虽然成功用上，但是场景就过于局限。顿时觉得这两刀白花了。&lt;/p&gt;
+&lt;p&gt;结果发现一个非常简单就能用上的方法，分享给大家。&lt;/p&gt;
+&lt;p&gt;准备工作：一台安卓手机（无需 root 、一个前置代理（必须是 gov 能通过国家的代理，over 。是的就这样&lt;/p&gt;
+&lt;p&gt;1.打开你的代理软件，选择一个节点，推荐韩国日本台湾。v2ray 实测没问题，其他自行测试。
+2.打开 Google one vpn ，点击使用 vpn
+3.此时我们的代理软件已经被顶掉，回去再打开
+4.回到 google one ，等待。
+5.成功食用。&lt;/p&gt;
+&lt;p&gt;用了好几天，这个方法就没失败过（如失败请检查你的 ip 所在国家是否受支持
+优点：无需辅助工具、户外可用、随时能用
+缺点：实测 mac 、ipad 没法用这个方法&lt;/p&gt;
+&lt;p&gt;成功食用后，代理软件仍会被顶掉，但这也意味着不会消耗你代理的流量。
+我们只需找到一个非常野鸡的机场，买最基础的套餐，再花 2 刀就能得到干净的 ip 代理。
+血赚。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:25:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982046#reply0</guid></item><item><title>[硬件] 请问下，有没有可以检测 type-c 线的仪器。</title><link>https://www.v2ex.com/t/982045#reply0</link><description>&lt;p&gt;事情的起因是，我的 iphone12 近期电池只剩 78%了，所以想买个磁吸充电宝作为日常补充。&lt;/p&gt;
+&lt;p&gt;买了 &lt;code&gt;anker&lt;/code&gt; 的一款磁吸充电宝，到手后发现，我小米 12 的原装充电线无法给磁吸充电宝充电。&lt;/p&gt;
+&lt;p&gt;如果是无法快充，那我是能理解的，小米是 QC ，&lt;code&gt;anker&lt;/code&gt; 是 PD 协议。但是完全无法充电我就理解不能了。&lt;/p&gt;
+&lt;p&gt;然后我就试了家里其他的线，发现是可以充电的。&lt;/p&gt;
+&lt;p&gt;我就去查了下小米商城、京东上一些双 type-c 口线，发现介绍里一堆花里胡哨的东西，偏偏就没有说协议方面的事。&lt;/p&gt;
+&lt;p&gt;最后，我的问题是，有没有什么仪器可以检测出 type-c 线 和充电头 使用的协议啊、功率？&lt;/p&gt;
+&lt;p&gt;另外，为啥完全不能充电，有朋友明白是为什么吗？&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:20:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982045#reply0</guid></item><item><title>[Apple] Apple One 美区超大杯，拼车寻长期车友</title><link>https://www.v2ex.com/t/982044#reply0</link><description>&lt;p&gt;Apple One Premier 美区超大杯&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;包括 Apple Music, Arcade, TV+, News+, Fitness+, iCloud 2TB 每人独立 333GB ，用超自觉清理&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;一车 6 人，自己有美区 ID ，希望是长期的车友。&lt;/p&gt;
+&lt;p&gt;先介绍一下基本情况：
+本人一直上的别人的车，几次遇到续费不及时的情况，才萌生了自己找一些朋友一起组一个长期车的念头。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最重要的一点是我上的车目前还没有用完（买到了明年年底==！），我需要先看看能不能退一年费用，有差不多境况和想法的可以加μ信 Z28tY2hhbmdl &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前的想法是自己买官网的 gift card 进行充值，
+大家凑钱的方式就是一月一付，付费就按 apple one 的价格和当时汇率均摊，想下车需要提前一个月告知（当然希望大家能一直不换车，不然重新找车友也比较繁琐）。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 16:15:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982044#reply0</guid></item><item><title>[iPhone] iPhone 直营店回收，比官网估价高了 300</title><link>https://www.v2ex.com/t/982042#reply2</link><description>我是 iPhone 13 128g ，直营店 23 个月前购买，并买了 2 年的 AC+，其中年年焕新已过期，但 AC+还有 1 个月左右。&lt;br /&gt;之前在官网估价 2700 ，到直营店评估后回收 3000 。&lt;br /&gt;&lt;br /&gt;回来一看收据，有个这个：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;购新优惠 300 元&lt;br /&gt;报价中包含购买新设备所能享受的优惠。如果你决定退回今天购买的 产品，该优惠将不予退还，而且相关折抵金额 ¥2,700.00 将通过银 行转账退还。&lt;br /&gt;&lt;br /&gt;这啥意思？</description><pubDate>Sat, 14 Oct 2023 15:52:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982042#reply2</guid></item><item><title>[Bing] Bing 真是令人失望，搜索 chrome cn 头两个结果居然都是钓鱼网站</title><link>https://www.v2ex.com/t/982041#reply5</link><description>&lt;p&gt;图省事想免翻装个 chrome ，一不小心就装了个假的，真是要命&lt;/p&gt;
+&lt;p&gt;对 bing 的信任直接归零了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fake" class="embedded_image" rel="noreferrer" src="https://img.urlnode.com/file/a54afae42a97e09293eac.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 15:40:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982041#reply5</guid></item><item><title>[Java] “继承” 怎么就变成了“根据一个对象的实现定义了另一个对象的实现”？</title><link>https://www.v2ex.com/t/982040#reply3</link><description>&lt;p&gt;理解类继承和接口继承（或子类型化）之间的差别也十分重要。类继承根据一个对象的实现定义了另一个对象的实现。简而言之，它是代码和表示的共享机制。然而，接口继承（或子类型化)描述了一个对象什么时候能被用来替代另一个对象------《设计模式》&lt;/p&gt;
+&lt;p&gt;接口不就是特殊的抽象类么（相对于抽象类而言，接口只声明方法，不声明属性或字段）。一个具体类实现接口，不就是一个类继承“接口”后实现了接口中声明过的方法么，这件事怎么就变成了“一个对象什么时候能被用来替代另一个对象”？&lt;/p&gt;
+&lt;p&gt;其次类类的继承怎么就变成了“根据一个对象的实现定义了另一个对象的实现”。继承这件事不就是子类“继承”了父类中的属性和方法和方法么，怎么就变成了“根据一个对象的实现定义了另一个对象的实现”？&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 15:39:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982040#reply3</guid></item><item><title>[macOS] 为什么 mac 跨网段访问群晖 SMB 失败后，同网段访问下就进行跨网段访问成功了</title><link>https://www.v2ex.com/t/982039#reply0</link><description>&lt;h2&gt;网络环境&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;主路由器是电信光猫，IP：192.168.1.1&lt;/li&gt;
+&lt;li&gt;
+电脑：192.168.1.5&lt;ul&gt;
+&lt;li&gt;tailscale：100.95.223.87&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PVE 主机：192.168.1.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;PVE 内&lt;/h3&gt;
+&lt;p&gt;PVE 内除了 OpenWrt wan 口桥接&lt;code&gt;vmbr0&lt;/code&gt;获取 1 段 IP ，	其他的 lxc 和 vm 都是桥接 OpenWrt lan 口的 &lt;code&gt;vmbr1&lt;/code&gt; 获取到 3 段 IP 。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+OpenWrt&lt;ul&gt;
+&lt;li&gt;wan: 192.168.1.10&lt;/li&gt;
+&lt;li&gt;lan: 192.168.3.1&lt;/li&gt;
+&lt;li&gt;
+tailscale&lt;ul&gt;
+&lt;li&gt;Subnet routes：192.168.3.0/24&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+DSM &lt;ul&gt;
+&lt;li&gt;IP：192.168.3.204&lt;/li&gt;
+&lt;li&gt;通过 OpenWrt lan 上网&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;问题经过&lt;/h2&gt;
+&lt;p&gt;之前是给黑群晖分了两个网络设备（ vmbr0(1 段),vmbr1(3 段)），所以电脑和 PVE 的虚拟机都可以访问 smb 。 重新安装升级 DSM 7.2 后只保留了 vmbr1(3 段)接入。使用电脑访问 &lt;code&gt;smb://192.168.3.204&lt;/code&gt; 输入用户名密码后一直无法打开，抓包显示：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;163	25.022285	192.168.3.204	SMB2	269	100.95.223.87	Session Setup Response, Error: STATUS_MORE_PROCESSING_REQUIRED, NTLMSSP_CHALLENGE
 
-            if ($host ~* a.com$) {
-                proxy_pass $scheme://$host;
-            }
-
-            return 404;
-        }
+172	29.276905	192.168.3.204	SMB2	129	100.95.223.87	Session Setup Response, Error: STATUS_LOGON_FAILURE
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;即使请求的是 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; 也会返回 404,如果注释掉&lt;code&gt;return 404&lt;/code&gt;时,则访问 &lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt; 时正常,访问其他域名会返回 nginx 默认页面.&lt;/p&gt;
-&lt;p&gt;请问如何配置才能让这个 if 短路提前 return,而不是继续走到后边的 return 404?&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:48:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981953#reply3</guid></item><item><title>[问与答] 房子&amp;女友&amp;人&amp;利益</title><link>https://www.v2ex.com/t/981950#reply6</link><description>有点标题党了，问个问题：&lt;br /&gt;&lt;br /&gt;今天谈论房价的事，女朋友说现在看未来房价都是跌的，不如把我老家（北京远郊）的房卖了，未来再买回来，差价挣个 1 ，2 百万&lt;br /&gt;&lt;br /&gt;我愣了，不知道为啥有这个想法&lt;br /&gt;&lt;br /&gt;我说第一这个是我小时候长起来的地方，第二卖了我爸我妈上哪？她说可以租房，利息肯定也比房租多。&lt;br /&gt;&lt;br /&gt;我又愣了，我说你为什么这么想。&lt;br /&gt;&lt;br /&gt;她说长远看房价肯定跌，上次去我家那里都没见到链家，所以没人买，大概这个意思。&lt;br /&gt;&lt;br /&gt;我说你这么想是只想着利益，为什么不考虑人呢，我爸妈年纪大了去新地方适应新环境吗？&lt;br /&gt;&lt;br /&gt;她说我就是考虑感情，如果你现在有 1000w 。是选择在一个升值的地方买还是回老家选择一个注定会贬值的地方买？父母租在原来的地方就不用适应环境了。&lt;br /&gt;&lt;br /&gt;我说从利益的角度，你说的都对，但是你有没有考虑过，你这个决定如果只影响你，那没问题，但是影响了别人。&lt;br /&gt;&lt;br /&gt;她说拿我举例，她母亲原来本可以多买个房，但是觉得还是留点钱怎么怎么着，后来没买，如果买了，那么现在生活肯定不一样了。&lt;br /&gt;&lt;br /&gt;我说你看到了你母亲这么决策的的一个不好的点，但是他其他决策看起来都挺好，你又怎么保正你的决策从后面看是对的呢？&lt;br /&gt;&lt;br /&gt;她说目前看我的认知应该是比他们高的，&lt;br /&gt;&lt;br /&gt;我说那好，即使是这样，那么如果你和你母亲，你会不会卖房子，你问问你母亲她愿意吗？&lt;br /&gt;&lt;br /&gt;她说没必要说服所有人，就看你能不能有这个狠心，比如她母亲让她医院挂号，但她没有那么多时间去挂号，而她母亲不想学挂号，后来她教她母亲挂号，她母亲后来也学会自己挂了，就是说她可能不愿意做某件事，但是迫使自己做了后来发现也是收益的，我太放大对于他人的情绪观察了。&lt;br /&gt;&lt;br /&gt;她又说之前他们买房的决定影响了我，我现在的决定为什么不能影响他们？&lt;br /&gt;&lt;br /&gt;我彻底不知道说啥了。&lt;br /&gt;&lt;br /&gt;我说咱们不应该以人为本吗？挣再多钱不也是给人的？&lt;br /&gt;&lt;br /&gt;她说比如别人跟我借钱，你是直接给他钱重要，还是拿不出钱，就说一些安慰的话有用。&lt;br /&gt;&lt;br /&gt;她说我就是没求过别人办事，如果现在父母生病要拿出 100 万，我没有，那么我会怎么办。&lt;br /&gt;&lt;br /&gt;我沉默了。&lt;br /&gt;&lt;br /&gt;我女朋友父亲之前是生病去世的，应该跟这段经历有关，又有点心疼她。&lt;br /&gt;&lt;br /&gt;有点不知所言了，我也不知道把这段发出来我想获得什么，各位大哥聊聊想法。</description><pubDate>Sat, 14 Oct 2023 06:35:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981950#reply6</guid></item><item><title>[问与答] 为什么 V2EX 没有 相亲/交友 的节点</title><link>https://www.v2ex.com/t/981949#reply3</link><description></description><pubDate>Sat, 14 Oct 2023 06:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981949#reply3</guid></item><item><title>[Apple] LCD 会烧屏吗？这是不是烧屏？ ROG Swift PG27AQ</title><link>https://www.v2ex.com/t/981948#reply8</link><description>&lt;p&gt;只知道 OLED 会烧屏，但这个 LCD 是不是烧屏呢？上一个贴子里提起，想到拍个照看一下。
-只要在某一个画面停留一段时间，然后回到深色背景下，就会明显看到印记。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ROG SWIFT PG27AQ
-
-螢幕
-面板尺寸 :
-27	
-長寬比 :
-16:9
-面板類型 :
-Fast IPS	
-真實解析度 :
-3840x2160	
-顯示表面 :
-Non-Glare
-畫素點距 :
-0.155mm
-亮度 (Typ.):
-300cd/㎡
-對比率 :
-1000:1	
-可視角度 (CR≧10) :
-178° / 178°	
-反應時間 :
-4ms(GTG)
-顯示色彩 :
-1073.7M (10 bit)
-不閃屏 :
-支援
-畫面更新率（最大值） :
-60Hz
+&lt;p&gt;搜索只查到好像是协议校验错误，不知道如何解决。&lt;/p&gt;
+&lt;p&gt;想着恢复原来双网口的方案，给黑群晖增加了 vmbr0(1 段)的网络设备，然后在电脑端连黑群晖 1 段的 IP 可以正常访问，重新连黑群晖 3 段的 IP 也可以正常访问。 感觉有点怪，断掉黑群晖 1 段的网络后，电脑仍然可以通过 3 段访问黑裙的 smb 。 &lt;/p&gt;
+&lt;h3&gt;utnn 抓包&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://i.postimg.cc/ydFkT7zd/image.png" rel="nofollow"&gt;https://i.postimg.cc/ydFkT7zd/image.png&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;实在是能力有限知道太少，隐隐猜测是&lt;code&gt;NTLMSSP_CHALLENGE&lt;/code&gt;认证的问题，但是是什么原理不清楚，各位大佬请指点指点，万分感谢🙏&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 15:06:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982039#reply0</guid></item><item><title>[程序员] 同事大概是 Java 写多了，写的 C#叹为观止</title><link>https://www.v2ex.com/t/982038#reply6</link><description>&lt;p&gt;项目内遇到个同事，以前听说是写 Java 的
+这是现在他写的 C#，大概是这个样子的
+Foo.cs&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;namespace xxx.xxx.util.CFoo {
+	public class Foo {
+    	
+    }
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jLjf45b.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:24:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981948#reply8</guid></item><item><title>[NBA] 欧文或面临被禁赛了</title><link>https://www.v2ex.com/t/981947#reply0</link><description>&lt;p&gt;顺带想起之前侃爷的新闻，才发现原来在海外还有这么一个底线&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 06:11:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981947#reply0</guid></item><item><title>[OpenAI] 有没有便宜的 AI 视频语音翻译平台？ ElevenLabs 有点太贵了</title><link>https://www.v2ex.com/t/981946#reply3</link><description>&lt;p&gt;主要想用来看油管知识博主的视频，英文啃有点费力。&lt;/p&gt;
-&lt;p&gt;ElevenLabs 直接用油管视频 url 翻译，2000 个豆每分钟，99 刀/月才给 500k 豆，满共也就 4 小时。&lt;/p&gt;
-&lt;p&gt;有没有便宜点的方式？&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 05:51:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981946#reply3</guid></item><item><title>[iOS] shadowrocket 的规则老是代理 App Store 商店应用更新</title><link>https://www.v2ex.com/t/981945#reply5</link><description>原作者 h2y 停止维护 Shadowrocket-ADBlock-Rules 后用的是 V2EX 上大家推荐的这个项目&lt;br /&gt;&lt;a href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" rel="nofollow noopener" target="_blank"&gt;https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;选是配置模块是《黑名单过滤 + 广告》&lt;br /&gt;&lt;a href="https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf" rel="nofollow noopener" target="_blank"&gt;https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/sr_top500_banlist_ad.conf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;按理说国区的应用商店不可能在黑名单里面不应该走代理，事实是只要小火箭 shadowrocket 开关打开，AppStore 必然加载很慢，应用更新也很慢，如果连到失效的机场节点，那 App Store 根本加载不出来。&lt;br /&gt;&lt;br /&gt;所以很显然 App Store 是被 shadowrocket 的规则强制代理了。&lt;br /&gt;&lt;br /&gt;有相同情况的朋友吗？或者哪位帮抓包分析下国区 App Store 应用商店的请求 url ，我测一下规则是不是真的把它代理了。</description><pubDate>Sat, 14 Oct 2023 05:22:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981945#reply5</guid></item><item><title>[问与答] imtoken 虚拟币钱包被盗</title><link>https://www.v2ex.com/t/981944#reply3</link><description>&lt;p&gt;盗窃者首先用另一个陌生地址往我钱包地址转 0.001usdt,成功转入之后就把我钱包里的 7400usdt 全部转出到他的指定账户了。请问这用的是什么方法？有大神知道吗？我不指望找回来，就是想知道在不需要获取助记词的情况下对方怎么轻松 7 分钟就能把我的钱盗走？（我很肯定自己的助记词没泄露）本人一向小心谨慎不点链接不扫码不截屏，不授权，凡事亲力亲为，不共享 appleId,不开云盘不用 iCloud.我只想知道这种情况是怎么引起的？想明白一下原理，发邮件给 imtoken 没人理，客服也找不到。我看网上有人说可能是内部人员干的。所以想看看大家的说法&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 05:07:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981944#reply3</guid></item><item><title>[ WATCH] 升级到 10.0，续航明显下降</title><link>https://www.v2ex.com/t/981943#reply6</link><description>目前版本是 10.0.1 ，健康度 91%，series 7 ，之前每天晚上睡觉前还有 40%-50%的电，最近每天都只剩 10-30%，搞得很焦虑。&lt;br /&gt;&lt;br /&gt;不知道有没有人跟我一样？</description><pubDate>Sat, 14 Oct 2023 05:04:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981943#reply6</guid></item><item><title>[问与答] 各位有被楼上噪音困扰么？</title><link>https://www.v2ex.com/t/981942#reply19</link><description>&lt;p&gt;经常看到楼上噪音的帖子，小红书上更多，甚至已经有阿拉丁共振音响和专用的伸缩固定杆这些周边产业了。&lt;/p&gt;
-&lt;p&gt;看起来是很多人花光家里积蓄背上几十年贷款，最终获得了一个居住质量很差的房子？&lt;/p&gt;
-&lt;p&gt;那么，有哪些开发商的楼板比较厚，隔音好的？目前看到很多人说万科的楼盘隔音是极差无比的。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:45:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981942#reply19</guid></item><item><title>[数据库] 想要更深入学习 MySql 使用，有什么好的资料推荐</title><link>https://www.v2ex.com/t/981941#reply7</link><description>&lt;p&gt;学会了基本使用之后，想更深入学习&lt;/p&gt;
-&lt;p&gt;求资料推荐，书或者视频都可以&lt;/p&gt;
-&lt;p&gt;如果 Oracle 或者 PostgreSQL 有好的资料也可以推荐&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:38:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981941#reply7</guid></item><item><title>[信息安全] 慎用 imtoken 钱包</title><link>https://www.v2ex.com/t/981940#reply1</link><description>&lt;p&gt;不要说助记词泄露，也不要说扫了码或点击不明链接，这些我全部没有做，而且权限管理只有我自己权限，助记词是我刚创建账户时对着手机用纸记的，连截屏都没有，家里除了我和猫没有客人来过，APP 是我在苹果 AppStore 商店下载的，AppleiD 是我自己创建注册的，手机云端共享包括 iCloud 从来没开过，昨天晚上收到 7000 多 u 短短七分钟之内就被转到陌生地址，这种平台还能用吗？盗窃者开始给我转 0.001usdt,转成功后就立马用我的 imtoken 钱包尝试转出，第一次尝试失败，再次给我钱包转入 0.001usdt,这次钱包的 u 全部被转走，我是发不了图请懂得大佬分析一下原因，我个人怀疑是内部人员或有漏洞被攻击，如果是我自己蠢被骗点了什么链接授了什么权我也就认了，发生这种问题这个钱包真的不能用了。太可怕了。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:37:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981940#reply1</guid></item><item><title>[Apple] 突然发现新版的 macos 和 ios 的 ibooks 目录问题解决了</title><link>https://www.v2ex.com/t/981938#reply0</link><description>以前的系统用 ibooks 看 epub 书目录不会自动定位，总是定位在第一章，今天突然发现新系统把这个 bug 修复了，看着舒服多了</description><pubDate>Sat, 14 Oct 2023 04:29:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981938#reply0</guid></item><item><title>[问与答] 企查查的公司行政处罚应该也是从公开渠道获取的吗？是否可以自己找到？</title><link>https://www.v2ex.com/t/981937#reply2</link><description>&lt;p&gt;想看一下结果要付费 700 元开通。。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:28:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981937#reply2</guid></item><item><title>[macOS] 使用 dfu 给 mac mini m1 升级到 Sonoma 后，还能降级到 Venturam 吗?</title><link>https://www.v2ex.com/t/981936#reply20</link><description>&lt;p&gt;现在进入 1TR ，reinstall macos 选项显示只能安装 sonoma&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:24:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981936#reply20</guid></item><item><title>[NAS] nas 主板 cpu 风扇转，开机没有输出</title><link>https://www.v2ex.com/t/981933#reply5</link><description>&lt;p&gt;前段时间升级了 nas ，把一个很老的 nas 主板（ 悦升 NAS N70E-DR v3 ）换下来了。放了一段时间，今天插上电源。发现 cpu 风扇转，开机没有输出。用功率计测量了一下，功耗是 26w ，符合网上某个网友测出来的一个硬盘都不插的功耗，估计是进入了 bios 。拔掉内存，可以听到报警。插上之后，报警消失。这应该能间接证明部分电路是工作正常的。&lt;/p&gt;
-&lt;p&gt;cpu 是 1037u, 自带集成显卡。有没有可能集成显卡坏掉了？感觉不太可能。有一点要说明的是，我好几年没有用过显示器了，现在是一个网友要这块板子，所以测试一下发现的。另外发现插 VGA 和 hdmi 接口的时候，主板的 VGA 和 hdmi 接口边缘碰到显示器接过来的 VGA 或者 hdmi 线的时候，会有很小的电流火花，感觉哪个地方有问题。不知道是不是显示部分的电路烧掉了。也不知道是不是我拆的时候或者拆下之后碰掉了零件没有。&lt;/p&gt;
-&lt;p&gt;补充信息：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;能通过 wol 开机，但是发现用群晖的 u 盘引导找不到。路由器上也显示没有拿到 ip 。可能根本就没进入群晖引导，bios 要重新调整为 usb 引导。&lt;/li&gt;
-&lt;li&gt;接 1 ， 用 wol 开机，发现主板接在千兆交换机上，没有灯亮，但是 wol 是正常的。接在我的万兆 pc 有灯亮，wol 也正常。以前接千兆交换机是有灯亮的，太诡异了。&lt;/li&gt;
-&lt;li&gt;拔掉 bios 电池，直接开机，显示器仍然没有输出。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sat, 14 Oct 2023 04:05:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981933#reply5</guid></item><item><title>[iCloud] 国区 iCloud 2T 和 music 家庭车补一人</title><link>https://www.v2ex.com/t/981932#reply0</link><description>&lt;p&gt;已稳定开车 3 年多 可提供账单 年付 170 联系绿色：d2hpemN6Yw==&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 04:03:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/981932#reply0</guid></item></channel></rss>
+&lt;p&gt;Bar.cs&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;using xxx.xxx.util.CFoo
+namespace xxx.xxx.tuil.CBar {
+	public class Bar {
+    	Foo foo = new Foo ();
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看他在那边写，配合编辑器自动填 using 无缝衔接 Java 了属于是（乐）&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 15:02:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982038#reply6</guid></item><item><title>[Android] android 录屏时添加遮罩层，同时录屏后的内容没有遮罩层</title><link>https://www.v2ex.com/t/982037#reply3</link><description>&lt;p&gt;举例子：android 手机投屏到电脑端，但是手机显示黑屏，然后电脑可以操作手机，类似于电脑关闭显示器&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 15:01:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982037#reply3</guid></item><item><title>[问与答] 努力真的可以改变命运吗</title><link>https://www.v2ex.com/t/982033#reply26</link><description>&lt;p&gt;看到一句话, "小明花 20 分钟走到的少年宫，我花 18 年都走不到", 泪目了&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 14:31:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982033#reply26</guid></item><item><title>[求职] 刚毕业工作半年，有什么外企可以去吗？做内核的</title><link>https://www.v2ex.com/t/982032#reply0</link><description>&lt;p&gt;如题，求内推！！！&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 14:29:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982032#reply0</guid></item><item><title>[生活] 已经买房的朋友，一起聊下房贷在家庭收入里的占比，顺便带上坐标</title><link>https://www.v2ex.com/t/982030#reply12</link><description>&lt;p&gt;想换房子，但是看到心仪的房子房贷那么高，不太敢上杠杆，所以想看看大家的情况。&lt;/p&gt;
+&lt;p&gt;我先说我目前在深圳，20%。&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 14:12:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982030#reply12</guid></item><item><title>[问与答] 使用 JSON 格式传输的 WebSocket 收到非 JSON 数据时，使用 1003 关闭码合理吗？</title><link>https://www.v2ex.com/t/982029#reply1</link><description>&lt;p&gt;在很久以前，我为我们小组实验室内部使用的一些 API 设计了一套 RESTful + WebSocket 架构的 API ，由于这套 API 基本上都是程序调用，所以全部使用了 JSON 来序列化和传输数据。在 WebSocket 上当时写程序的时候没有考虑太多，因为 JWT 验证失败的时候按惯例是返回的 &lt;code&gt;1008 Policy Violation&lt;/code&gt;，所以收到非 JSON 数据的时候就用了一个类似的 &lt;code&gt;1003 Unsupported Data&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;我的理解是凡是不支持的或者无效的数据都可以用 1003 ，但是今天和同事讨论的时候他认为 1xxx 只能用于底层实现，基本上只能由库代码返回，如果使用 JSON 格式传输的 WebSocket 收到非 JSON 数据时，应该使用一个自定义的 4xxx 代码。但是根据 RFC 的例子，文本协议的 WebSocket 收到 binary 数据又可以使用 1003 ，这很明显是库代码以外的应用。我俩一顿讨论，google 了半天也没有找到一个公认的说法。&lt;/p&gt;
+&lt;p&gt;道理上讲这个问题应该大家都遇见过，特来问问 v2 ，大家在生产代码里怎么规范这件事？&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 14:11:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982029#reply1</guid></item><item><title>[分享创造] 小爱音箱播放自定义音乐</title><link>https://www.v2ex.com/t/982027#reply4</link><description>&lt;a href="https://github.com/hanxi/xiaomusic" rel="nofollow noopener" target="_blank"&gt;https://github.com/hanxi/xiaomusic&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;刚提交初版，勉强能用，很多接口是用的 xiaogpt 项目。&lt;br /&gt;&lt;br /&gt;根据提示语执行接口，播放音乐支持本地音乐，本地没找到就会搜索下载到本地再播放。</description><pubDate>Sat, 14 Oct 2023 14:03:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982027#reply4</guid></item><item><title>[问与答] iOS 如何在开启系统铃声通知的前提下关闭微信的三泉音声音提醒？</title><link>https://www.v2ex.com/t/982025#reply2</link><description>今天尝试开启了系统铃声通知，微信络绎不绝的三全音吵得实在有点受不了，还没法关闭微信未打开时的信息提示音，不知道各位 V 友有没有好办法可以在开启系统铃声提醒的同时关闭微信的新消息声音通知？</description><pubDate>Sat, 14 Oct 2023 13:57:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982025#reply2</guid></item><item><title>[问与答] 求助: 三岁半儿童裸眼视力 0.8, 0.5 有问题吗? (主贴有截图, 看起来有一点点点点恐怖,打开前请做好心理准备)</title><link>https://www.v2ex.com/t/982024#reply15</link><description>&lt;ol&gt;
+&lt;li&gt;验光没有散瞳.&lt;/li&gt;
+&lt;li&gt;我又查了一下说,3-4 周岁的视力大约是 0.7-0.8 &lt;img alt="ffrymy.png" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/ffrymy.png" /&gt;&lt;/li&gt;
+&lt;li&gt;那个验光单... 我看着有点不靠谱 每次检测的差异太大了 从 700 度到 300 度.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我的问题是: 我家孩子视力到底问题有多大.严重不严重.
+是不是就算不严重,视力储备也没有了. 有没有有经验的家长给科普一下.或者有类似经历的家长交流一下心得.&lt;/p&gt;
+&lt;p&gt;谢谢了&lt;/p&gt;
+&lt;p&gt;附上图片&lt;/p&gt;
+&lt;p&gt;图一突然看到会有一点点恐怖, 其实是眼底照片. 我文字描述一下,是不是看起来能相对好一点...&lt;/p&gt;
+&lt;p&gt;占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+占位 &lt;br /&gt;
+&lt;img alt="16972912259081697291225715.png" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/chaleaoch/CDN@main/images/16972912259081697291225715.png" /&gt;
+&lt;img alt="16972913499041697291349273.png" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/chaleaoch/CDN@main/images/16972913499041697291349273.png" /&gt;
+&lt;img alt="16972913649041697291364814.png" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/chaleaoch/CDN@main/images/16972913649041697291364814.png" /&gt;
+&lt;img alt="16972913779041697291377419.png" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/chaleaoch/CDN@main/images/16972913779041697291377419.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 14 Oct 2023 13:55:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982024#reply15</guid></item></channel></rss>
