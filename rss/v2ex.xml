@@ -1,56 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 16 Oct 2023 08:49:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 关于手机版 bing AI 存在内容审查的问题</title><link>https://www.v2ex.com/t/982494#reply0</link><description>&lt;p&gt;bing app 是 Googleplay 下的，网络是 gcp 的台湾香港节点，outlook 账号是中国的。&lt;/p&gt;
-&lt;p&gt;目前图片生成暂无法支持 我没细纠原因&lt;/p&gt;
-&lt;p&gt;但是今天看朋友圈有人发 mxtx 洗地啥的  我就随手查一下 mxtx 是啥(好像是啥耽美)，结果 bing 正在回答的过程中自主中断，然后显示暂时不能回答这个问题。然后我就有点 ptsd 了。这种情况肯定是审查的问题导致 bing 拒绝回答，所以问题出在哪?帐号的问题吗?&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:48:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982494#reply0</guid></item><item><title>[程序员] x86 的 C++程序怎么没地方指定 stack 和 heap 的大小？</title><link>https://www.v2ex.com/t/982492#reply1</link><description>如题，请教一下~~</description><pubDate>Mon, 16 Oct 2023 08:35:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982492#reply1</guid></item><item><title>[云计算] [求教]阿里云 VPC 网络和公共网络是如何打通的？</title><link>https://www.v2ex.com/t/982491#reply2</link><description>&lt;p&gt;再阿里云购买 VPC 网络的 ECS ，未分配外网 IP ，SSH 登陆主机后，发现能够正常访问阿里云公共服务内网域名（非当前 VPC 的域名,是案例一公共服务的域名），查看控制台 VPC 的路由表，发现系统自动添加一条 100.64.0.0/10 的路由表，求教再云平台网络架构下面，这个是通过什么技术原理实现的？&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:35:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982491#reply2</guid></item><item><title>[前端开发] 找人做一个 h5 项目</title><link>https://www.v2ex.com/t/982490#reply0</link><description>10 个页面左右, 每个页面有一个卡通老人 gif 图片.一个下一步的按钮.点击下一步的时候有一个金币天女散花的效果.&lt;br /&gt;有原型图,不提供图片素材.&lt;br /&gt;v: TVRBeE56STE=</description><pubDate>Mon, 16 Oct 2023 08:31:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982490#reply0</guid></item><item><title>[iCloud] icloud 土区车长期的来</title><link>https://www.v2ex.com/t/982489#reply0</link><description>&lt;p&gt;土区，iCloud +  2T 共享&amp;amp;Apple Music(需要土区 Appstore 账号），5 人车差 3 人，每人 400G ，30/季付，跳车不退，翻车按比例退，欢迎留 v 我 cue 你&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:31:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982489#reply0</guid></item><item><title>[问与答] 求电竞显示器推荐</title><link>https://www.v2ex.com/t/982488#reply1</link><description>大家好，想买一个显示器，问一下有没有推荐的呢？&lt;br /&gt;&lt;br /&gt;主要连接设备：Xbox ，Switch 和 MacBook&lt;br /&gt;&lt;br /&gt;主要用途：玩游戏，看电影&lt;br /&gt;&lt;br /&gt;需求：分辨率至少 2K ，由于不做设计所以不用这么高色准的，但是肯定要高刷，接口 HDMI 肯定的，如果能 type c 直连就更好了，尺寸 24 寸或者 27 寸均可&lt;br /&gt;&lt;br /&gt;价格：1000-2000 元</description><pubDate>Mon, 16 Oct 2023 08:21:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982488#reply1</guid></item><item><title>[VPS] 剩余价值出绿云的 BudgetKVMJP-3（E5）和 74 活动款 4th of July Special (AZ)</title><link>https://www.v2ex.com/t/982487#reply0</link><description>&lt;h4&gt;JP 配置：&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;CPU:Intel(R) Xeon(R) CPU E5-2698 v4 @ 2.20GHz 4 Virtual Core&lt;/li&gt;
-&lt;li&gt;硬盘:55.1GB&lt;/li&gt;
-&lt;li&gt;内存:7.76GB&lt;/li&gt;
-&lt;li&gt;流量:1.5 TB &lt;/li&gt;
-&lt;li&gt;到期日:6th April 2024&lt;/li&gt;
-&lt;li&gt;当时购买价格：45 刀&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 16 Oct 2023 23:28:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[GitHub] 看到 GitHub 新主题的 repo 页的页头之前，我没觉得新页头有多难看</title><link>https://www.v2ex.com/t/982615#reply0</link><description>&lt;p&gt;这都什么年代了，难道还在 mobile first&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/community/community/assets/13391795/f3de09be-10ba-4180-9b7e-d48431ce6823" /&gt;
+把页头的链接大部分收到菜单，issue 和 pr 在右边加了小按钮&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/community/community/assets/13391795/c44f9f88-3342-4f4c-b89a-3358b61f71c9" /&gt;
+repo 页的页头留了大片白&lt;/p&gt;
+&lt;p&gt;感觉应该这样才对：
+&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/community/community/assets/13391795/c9cacbaa-0e20-4c29-9d8e-ee7101f8c755" /&gt;
+（图是我 P 的）&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 22:56:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982615#reply0</guid></item><item><title>[macOS] 开了三指拖动以后,返回桌面和 launchpad 的三加一指手势经常被识别成三指拖动 怎么破</title><link>https://www.v2ex.com/t/982614#reply0</link><description></description><pubDate>Mon, 16 Oct 2023 20:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982614#reply0</guid></item><item><title>[Java] springBoot Cache + aop self-invocation 问题</title><link>https://www.v2ex.com/t/982613#reply5</link><description>&lt;ul&gt;
+&lt;li&gt;
+SpringBoot:3.0.1 + Java17 + starter-cache + starter-data-redis&lt;ul&gt;
+&lt;li&gt;简单的 jpa 查询数据，缓存到 redis 中&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;AZ 配置：&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@EnableAspectJAutoProxy(exposeProxy = true, proxyTargetClass = true)
+@EnableCaching
+public class StartupApplication { }
+
+@Service
+public class AccountService {
+
+    @Cacheable(cacheNames = "accountsActivated", sync = true)
+    public List&amp;lt;AccountDto&amp;gt; retrieveActivatedCacheable() { }
+    
+    public AccountDto retrieveActivatedByName(String name) { 
+    // 这里 call retrieveActivatedCacheable() 不会从缓存中查询
+    }
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
-&lt;li&gt;CPU:AMD EPYC 7502 32-Core Processor 4 Virtual Core&lt;/li&gt;
-&lt;li&gt;硬盘:46.01GB&lt;/li&gt;
-&lt;li&gt;内存:7.19G&lt;/li&gt;
-&lt;li&gt;流量 7.59 TB &lt;/li&gt;
-&lt;li&gt;到期日:4th July 2026&lt;/li&gt;
-&lt;li&gt;当时购买价格：74 刀&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 16 Oct 2023 08:21:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982487#reply0</guid></item><item><title>[汽车] 各位，我也进决赛圈了，凯美瑞、雅阁、沃尔沃怎么选？</title><link>https://www.v2ex.com/t/982486#reply16</link><description>&lt;p&gt;刚毕业拿了一个大礼包，换了新工作，地方好远，准备买车，家有蓝牌不考虑电车，预算 25 以内。本人完全不懂车，被销售忽悠的一愣一愣，所以很迷茫，试车=没感觉。&lt;/p&gt;
+&lt;li&gt;原因是 spring aop 实现原理是动态代理，同一个类中调用切点方法，advise 失效&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
 &lt;ol&gt;
-&lt;li&gt;凯美瑞 销量真好，质量应该挺不错吧。&lt;/li&gt;
-&lt;li&gt;雅阁 看 v2 上好多车友推荐，也挺好的。&lt;/li&gt;
-&lt;li&gt;沃尔沃 s60 安全，内饰环保，好香啊。&lt;/li&gt;
+&lt;li&gt;
+aopContext.getCurrentProxy	&lt;ul&gt;
+&lt;li&gt;
+((AccountService) AopContext.currentProxy()).retrieveActivatedCacheable()&lt;ul&gt;
+&lt;li&gt;java.lang.IllegalStateException: Cannot find current proxy: Set 'exposeProxy' property on Advised to 'true' to make it available, and ensure that AopContext.currentProxy() is invoked in the same thread as the AOP invocation context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/spring-projects/spring-boot/issues/16516" rel="nofollow"&gt;exposeProxy = true not in effect · Issue #16516 · spring-projects/spring-boot&lt;/a&gt; 跟这个 issue 基本一样，没有解决方案&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;相同价位的配置下，这三款我都试过了，求各位大哥给点建议，感激不尽。&lt;/p&gt;
-&lt;p&gt;顺便问下，第一次买车，最需要注意的一个问题（最容易被坑）你觉得是什么？&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:18:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982486#reply16</guid></item><item><title>[分享发现] 分享一个上班摸鱼的网站</title><link>https://www.v2ex.com/t/982484#reply1</link><description>&lt;p&gt;以前用的热榜网站多少都带有摸鱼之类的字眼，上班影响不太好。&lt;/p&gt;
-&lt;p&gt;最近发现一个纯净的网站分享给大家，用了几天还不错。网站地址：&lt;a href="https://yoogle.top?s=vv" rel="nofollow"&gt;yoogle.top&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:13:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982484#reply1</guid></item><item><title>[问与答] 不折腾，愿花钱，想临时 ChatGPT4 用 3 个月左右，有什么方法？（用户使用 Win 桌面客户端）</title><link>https://www.v2ex.com/t/982483#reply3</link><description>用户不懂技术，搞不了建设、维护注册、账号，信用卡，飞机方式等其它题外杂事，                                                &lt;br /&gt;结果导向就是最后这样一个场景：桌面安装一个客户端，打开就能用了                          &lt;br /&gt;要用 4.0 以上服务，有这样的省事方式吗？</description><pubDate>Mon, 16 Oct 2023 08:11:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982483#reply3</guid></item><item><title>[问与答] 安卓电视机顶盒与安卓手机之间有没有不需连 WIFI 的蓝牙同屏 APP</title><link>https://www.v2ex.com/t/982482#reply2</link><description>&lt;p&gt;安卓电视机顶盒与安卓手机之间有没有不需连 WIFI 的蓝牙同屏 APP
-好像多数都是连 WIFI 的
-但有时播放手机本地视屏，不想连互联网，有没有直连的？&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:09:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982482#reply2</guid></item><item><title>[Docker] 使用 Macvlan 的容器间歇性失联</title><link>https://www.v2ex.com/t/982481#reply0</link><description>&lt;p&gt;一台 PC 作为家用服务器使用，上面使用 Docker 跑了若干容器。&lt;/p&gt;
-&lt;p&gt;由于防火墙和透明代理配置的需要，需要部分容器使用独立 IP 来跑，并在相关规则中添加这些 IP 的规则。
-于是我开始使用 Docker 提供的 macvlan 功能，创建了一个 macvlan 类型的 network ，相关容器配置使用这个 network ，并指定独立 IP 。&lt;/p&gt;
-&lt;p&gt;容器创建出来后是可以按照预期运行的，在其他设备访问这些 IP 也都可以正确访问到这些容器。&lt;/p&gt;
-&lt;p&gt;问题是在这些容器开始建立一些网络连接后，这些容器就会变得不可访问，直到连接断开才重新恢复访问。容器本身的运行状态正常（无闪退、死机）。其他非 macvlan 容器访问正常。&lt;/p&gt;
-&lt;p&gt;举个例子，用容器跑 aria2 或 transmission ，没有任务的时候可以正常访问，添加任务后，当任务与一定数量节点建立联系后，aria2 或 transmission 的 RPC API 就无法访问，直到任务完成后又恢复访问。&lt;/p&gt;
-&lt;p&gt;不光从容器外部访问会失联，使用 docker exec 进入到正在运行的容器内部，执行 curl 127.0.0.1 也会失联或延迟数十秒返回结果。&lt;/p&gt;
-&lt;p&gt;如何排查问题可能出在哪？&lt;/p&gt;
-&lt;p&gt;系统情况：&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li&gt;
+两个方法放不同类&lt;ul&gt;
+&lt;li&gt;最终方案，业务关联性强，放不同类没意义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li&gt;self-inject 和 Compile-time weaver &lt;a href="https://www.baeldung.com/spring-invoke-cacheable-other-method-same-bean" rel="nofollow"&gt;Invoke Spring @Cacheable from Another Method of Same Bean | Baeldung&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Scope(proxyMode = ScopedProxyMode.TARGET_CLASS) 
+public class AccountService
+    @Autowired
+    private AccountService self;
+
+    @Cacheable(cacheNames = "accountsActivated", sync = true)
+    public List&amp;lt;AccountDto&amp;gt; retrieveActivatedCacheable() { }
+    
+    public AccountDto retrieveActivatedByName(String name) {
+       self.retrieveActivatedCacheable().....
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
-&lt;li&gt;平台：AMD64&lt;/li&gt;
-&lt;li&gt;宿主系统：Debian 11&lt;/li&gt;
-&lt;li&gt;内核版本：5.10.0-25-amd64&lt;/li&gt;
-&lt;li&gt;Docker 版本：24.0.6&lt;/li&gt;
-&lt;li&gt;containerd 版本：1.6.24&lt;/li&gt;
-&lt;li&gt;runc 版本：1.1.9&lt;/li&gt;
-&lt;li&gt;docker-init 版本：0.19.0&lt;/li&gt;
-&lt;li&gt;网卡接口 MTU：1500&lt;/li&gt;
-&lt;li&gt;Docker 内 macvlan 网络 MTU：1400 （ com.docker.network.driver.mtu ）&lt;/li&gt;
-&lt;li&gt;ulimit：1048576&lt;/li&gt;
-&lt;li&gt;sysctl net.core.somaxconn：4096&lt;/li&gt;
-&lt;li&gt;/proc/sys/net/ipv4/tcp_max_syn_backlog：4096&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 16 Oct 2023 08:08:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982481#reply0</guid></item><item><title>[问与答] 段永平的博客，为什么经常打不开？</title><link>https://www.v2ex.com/t/982480#reply2</link><description>段永平的网易博客地址如下（也可以谷歌搜索一下）： &lt;a href="http://nteswjq.blog.163.com/blog/#m=0&amp;amp;t=1&amp;amp;c=fks_087066084087081067086081074066086080088074092087" rel="nofollow noopener" target="_blank"&gt;http://nteswjq.blog.163.com/blog/#m=0&amp;amp;t=1&amp;amp;c=fks_087066084087081067086081074066086080088074092087&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;有时候能打开，看一会博文，过一段时间，刷新一下网页，就打不开了，不是出现一次了。windows 和 mac 都是这样，chrome 和 edge 都一样，要么都能打开，要么都不能打开。开着 clash 和关闭 clash 都一样。隐私模式也是一样。&lt;br /&gt;&lt;br /&gt;提示内容为：&lt;br /&gt;该网页无法正常运作 &lt;a href="http://nteswjq.blog.163.com" rel="nofollow noopener" target="_blank"&gt;nteswjq.blog.163.com&lt;/a&gt; 目前无法处理此请求。&lt;br /&gt;HTTP ERROR 502&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;啥原因，如何才能确保每次都能顺利打开呢？</description><pubDate>Mon, 16 Oct 2023 08:06:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982480#reply2</guid></item><item><title>[生活] 地图 app 上有没有找适合几个人会面的公共地点的功能？</title><link>https://www.v2ex.com/t/982479#reply0</link><description>&lt;p&gt;求解：地图软件可不可以找出几个地点的公共地点？即搜索公共地点的功能，让你可以输入几个地点，然后使用公共地点或兴趣点（如饭店，影院，酒店）搜索来找到它们之间的公共地点那种，能方便地找到适合大家会面的地点？我想找一个离大家的距离都差不多的饭店列表，或者游玩地点？目前百度地图，高德地图都没发现这个功能，是没有还是非常不直观？希望有会用的伙伴交流下？&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:04:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982479#reply0</guid></item><item><title>[音乐] 日本歌手谷村新司 10 月 8 日去世, 享年 74 岁.</title><link>https://www.v2ex.com/t/982478#reply8</link><description>&lt;p&gt;看到了谷村新司去世的消息, 令人感慨万分.
-我所熟悉的人终会一个个地逝去呐.
-终于, 我也会如此.&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:04:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982478#reply8</guid></item><item><title>[酷工作] 杭州贝壳找房招聘 [P6 大数据内容产品经理] 一名</title><link>https://www.v2ex.com/t/982477#reply0</link><description>招聘岗位：大数据产品经理（偏内容）&lt;br /&gt;岗位职级：P6&lt;br /&gt;工作地点：杭州市拱墅区石祥路 589 号 3 层圣都装饰&lt;br /&gt;&lt;br /&gt;工作职责&lt;br /&gt;1 、承接家装业务的数据需求和项目，推动业务数据体系的设计与建设；&lt;br /&gt;2 、配合业务建设、沉淀和管理指标体系，保障业务指标使用的质量；&lt;br /&gt;3 、维护及治理业务数据资产，保障业务数据资产的有效性；&lt;br /&gt;4 、通过数据模型支持业务应用和可视化体系建设；&lt;br /&gt;任职要求&lt;br /&gt;1 、本科及以上学历，数据、统计学和计算机相关专业优先；&lt;br /&gt;2 、3 年以上数据产品经理相关工作经验，能熟练使用行业主流的数据产品工具；&lt;br /&gt;3 、熟悉 SQL 、Python 、Hadoop 、Hive 等大数据技术，熟悉数仓体系，熟悉指标体系搭建；&lt;br /&gt;4 、有很强的团队协作意识，具备良好的推动力和沟通能力；&lt;br /&gt;5 、加分项：了解装修、零售、供应链等业务业务运作流程；&lt;br /&gt;&lt;br /&gt;吸引力：&lt;br /&gt;1 、美股上市企业，16 薪&lt;br /&gt;2 、贝壳家装赛道，投入坚决、发展迅猛&lt;br /&gt;3 、业务多元丰富，数据驱动产业发展的空间大&lt;br /&gt;&lt;br /&gt;联系邮箱：smartchaos#&lt;a href="http://live.com" rel="nofollow noopener" target="_blank"&gt;live.com&lt;/a&gt; (替换#为 @)</description><pubDate>Mon, 16 Oct 2023 08:02:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982477#reply0</guid></item><item><title>[问与答] 每个月给女朋友 2 千买菜做饭吃，出去玩买东西我不付钱就生气。</title><link>https://www.v2ex.com/t/982476#reply58</link><description>&lt;p&gt;每个月给女朋友 2 千买菜做饭吃，出去玩买东西我不付钱就生气，跟我说这说那，说别人都是给女朋友买单，说我不和她交往和其他女生交往也要对别人这样，怎么办。&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 08:00:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982476#reply58</guid></item><item><title>[Bing] 20231016 开始， new bing 的聊天功能又被阉割了，有没有使用未阉割版的方法？</title><link>https://www.v2ex.com/t/982473#reply0</link><description>我经常使用 new bing （后文简称 nb ）来帮我辅助写文章，比如我写一个大纲，让 nb 来丰富内容&lt;br /&gt;&lt;br /&gt;2023 年的上半年阉割过一次，但是影响不大，第一次 nb 生成的内容非常简单，但是可以通过加强 prompt 来详细解释一些问题，但是从今天，20231016 开始，我测试了 1-2 小时，过多的 prompt 不在会被 nb 识别，像个傻子一样重复简单的答案，无视复杂的 prompt ，有没有办法解决呢？&lt;br /&gt;&lt;br /&gt;通过我使用发现，nb 的手机 app 客户端还没有被阉割，只能暂时先用 app 代替了&lt;br /&gt;&lt;br /&gt;有没有电脑端使用或者跳过阉割版的办法？谢谢回复</description><pubDate>Mon, 16 Oct 2023 07:57:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982473#reply0</guid></item><item><title>[iCloud] 国区 iCloud(2T)+Apple Music 拼车，年付 166，季付 83，新车</title><link>https://www.v2ex.com/t/982472#reply2</link><description>&lt;p&gt;微信管理，base64:Y2hlbnhpYTc5Ng==
-希望长期使用&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 07:52:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982472#reply2</guid></item><item><title>[生活] 一直没搞懂，为啥 GDP 每年都涨，但是这两年，日子却一年不如一年了。</title><link>https://www.v2ex.com/t/982471#reply27</link><description></description><pubDate>Mon, 16 Oct 2023 07:51:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982471#reply27</guid></item></channel></rss>
+&lt;li&gt;报错完全搞不懂发生了什么，貌似和 java9 的 modules 有关，&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class demo.usul.dto.AccountDto (java.util.LinkedHashMap is in module java.base of loader 'bootstrap'; demo.usul.dto.AccountDto is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @&lt;a href="https://www.v2ex.com/member/5d339696"&gt;5d339696&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;但是我已经设置了 vm options, 或者 spring.devtools.restart.enabled=false 都没用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;--add-opens=java.base/java.time=ALL-UNNAMED
+--add-opens=java.base/java.lang=ALL-UNNAMED
+--add-opens=java.base/java.util=ALL-UNNAMED
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;关键 self-inject ，或者想办法在自己内部拿到自己 bean 的方法都有点奇怪&lt;/li&gt;
+&lt;li&gt;compile-time weaver 更不推荐，要引入 aspectj 的 weaver 来编译，好像在编译过程多了一个 weaver compiler 的过程，尝试用 aspectj-maven-plugin ，但是搞不定，貌似跟 jdk17 不兼容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;
+load-time weaver 使用 spring 提供的 LTW, 不需要引入 aspectj 的 weaver ，貌似是最推荐的方案, spring 原生 LTW&lt;ul&gt;
+&lt;li&gt;还是失败, startupApplication 上添加注解 @EnableCaching(mode = AdviceMode.ASPECTJ)和 @EnableLoadTimeWeaving &lt;/li&gt;
+&lt;li&gt;
+其余不变，vm 参数加上 -javaagent:/path/to/spring-instrument-6.0.13.jar&lt;ul&gt;
+&lt;li&gt;没用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+如果换成 -javaagent:/path/to/aspectjweaver-1.9.19.jar&lt;ul&gt;
+&lt;li&gt;起不来，看不懂的报错&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 16 Oct 2023 20:31:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982613#reply5</guid></item><item><title>[问与答] 962110 反诈中心打给我美国号码？</title><link>https://www.v2ex.com/t/982612#reply6</link><description>&lt;p&gt;国内凌晨给我美国号码打电话，非要给我宣导反诈知识，我说不需要，他还要晚点打回来。他一口就能叫上来姓，有可能是当初给大使馆填的表，不过这个 Google Voice 号码泄露的地方很多，也不一定。&lt;/p&gt;
+&lt;p&gt;感觉很匪夷所思，冒充呼出号码应该不是很难，感觉可能是诈骗电话冒充反诈。还是大意了，应该直接挂断，提醒下大家。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202304/t20230407_11055885.html" rel="nofollow"&gt;https://www.mfa.gov.cn/wjbzwfwpt/kzx/tzgg/202304/t20230407_11055885.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 18:56:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982612#reply6</guid></item><item><title>[机械键盘] 矮轴键盘怎么选？ Nuphy / 洛斐小顺</title><link>https://www.v2ex.com/t/982611#reply1</link><description>&lt;p&gt;Nuphy 对我来说有一个痛点，就是没有 Insert 键（用 IDEA 的时候还是需要 Alt + Insert 快捷键），但是 Nuphy 有 96 键的选项（而洛斐小顺好像只有 84 键？）&lt;/p&gt;
+&lt;p&gt;或者还有什么别的品牌/型号的矮轴键盘推荐吗&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 18:10:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982611#reply1</guid></item><item><title>[macOS] CodeEdit 是不是凉了。。。</title><link>https://www.v2ex.com/t/982610#reply4</link><description>&lt;p&gt;如题，进入 2023 以后这个 app 的开发巨慢无比，上一个 release 已经是两三个月前了。。。果然开源➕小众（纯 Swift ）注定要凉凉吗😭2022 涨 star 还贼猛呢&lt;/p&gt;
+&lt;p&gt;VSCode 是我 macOS 中唯一一个 electron app ，就指望着 CodeEdit 帮我拔掉这个毒瘤😇&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 17:35:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982610#reply4</guid></item><item><title>[San Francisco] 来湾区生活工作群</title><link>https://www.v2ex.com/t/982609#reply0</link><description>&lt;p&gt;有湾区这边的吗
+搞了个湾区生活工作群
+大家加起一起交流
+V:huomenwang&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 17:32:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982609#reply0</guid></item><item><title>[NGINX] 关于 NGINX 防止主动探测 / 爬虫扫描 HTTPS 的配置方法</title><link>https://www.v2ex.com/t/982608#reply6</link><description>&lt;p&gt;公网上暴露 https 端口，难免会被扫到，有些爬虫还会顺藤摸瓜根据证书找到域名，然后接着扫，在日志里留下 &lt;code&gt;/wp-admin&lt;/code&gt; 等等记录。&lt;/p&gt;
+&lt;p&gt;虽然这些扫描对我服务影响不大，但是看到还是有点烦，因此想利用 NGINX 配置彻底隐藏我的 https 服务。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;我的环境：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内网正常提供 80 / 443 端口服务，&lt;/li&gt;
+&lt;li&gt;公网仅开放高位端口，转发至 443 （ https ）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我的配置 (篇幅原因，放到 pastebin 里了)：&lt;/p&gt;
+&lt;p&gt;[ &lt;em&gt;&lt;a href="https://pastebin.com/embed_iframe/bSBarvY8" rel="nofollow"&gt;https://pastebin.com/embed_iframe/bSBarvY8&lt;/a&gt;&lt;/em&gt; ]&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;也就是说，这样的配置，在  [ https://域名:端口/路径 ]  里：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;https 、指定域名、端口，三者完全匹配才能完成 TLS 握手；&lt;/li&gt;
+&lt;li&gt;正确路径才有 HTTP 响应；&lt;/li&gt;
+&lt;li&gt;其他情况都是直接关闭 TCP 连接。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;即使网络链路中存在中间人，截获了 SNI 域名，由于没有正确路径，依然不能获得响应。中间人只能判定其中有 TLS 流量，但不能扫描到 HTTPS 。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;我想，这样应该能很好的隐蔽起我的 https 服务，只有知晓全路径的人才能访问得到。不知道这样的配置是不是还存在漏洞，欢迎大家指点讨论~&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 17:22:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982608#reply6</guid></item><item><title>[全球工单系统] 最近是不是有大库被盗库了?</title><link>https://www.v2ex.com/t/982607#reply0</link><description>bitwarden 提醒我异常登录了, ipad 上甚至直接询问异地登录是否确认, 这两个可都是最高级密码, 以前从来没发生过这种情况,估计是有大库被盗了</description><pubDate>Mon, 16 Oct 2023 17:14:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982607#reply0</guid></item><item><title>[生活] 有哪些优质的国外新闻网站推荐的吗？</title><link>https://www.v2ex.com/t/982606#reply3</link><description>大家有哪些优质的新闻网站推荐的吗？希望能把你觉得好的网站分享一下</description><pubDate>Mon, 16 Oct 2023 17:13:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982606#reply3</guid></item><item><title>[ WATCH] Apple Watch S9 首发购入 今年的新品问题不吐不快</title><link>https://www.v2ex.com/t/982605#reply2</link><description>&lt;p&gt;我是 9/22 首发日去门店自提的手表，本来用着好好的，新表盘史努比看着也乐呵，10/9 突然发现屏幕触摸没有反应了，除了这问题之外，屏幕可以正常显示，包括表冠、侧边按钮在内的功能都正常。
+10/10 去送修，天才吧意思是说得返厂检测，如果判定是硬件问题，会走保修给我换块新的，但如果判定有人为因素损坏，得走 AppleCare 花钱换新的。而且不管怎么换，现场都没有售后用的机器，要让我等，两周内等通知来取。
+我说这表我都没戴几天我就来维修，然后还得等，我何必呢，退了买块新的不就完了，结果一看是买了第 18 天坏的，没办法，认倒霉吧。
+好在没真等两周，4 天后 10/14 取换新的机器，走了保修换的。&lt;/p&gt;
+&lt;p&gt;取回来之后新问题又出现了：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;watchOS 10.0.2 手表的天气 app 显示不了当地天气，表盘天气小组件无法加载，最近好多人都遇到了。我是点进去城市列表，带定位箭头的「 xx 市」那一行消失了，而且手机上添加过的城市也没同步过来，就只有默认的北京和上海。手表的设置-隐私-定位服务中各个 app 点进去权限都是灰的（永不/下次询问/始终允许 那里），不能调整。重启、重新配对、还原后设置为新表，均无效。
+看了官方前几天发的支持文档，手机上操作了「还原位置与隐私」，短暂解决了手表天气 app 的问题，但今早问题又重现……而且点了还原后，我所有的 app 都在重新要权限（图库/麦克风/摄像头/Face ID…），今天白天已经点麻了。&lt;/li&gt;
+&lt;li&gt;圆环记录，与朋友共享这个功能，只能显示对方邮件地址，没有名字了（手表通讯录 app 中是正常同步了 iCloud 通讯录的），最后通过多次还原手表解决。但今天白天我发现名字虽然有了，但对方的圆环进度不再同步了，和天气一样显示--，取消共享后重新发送邀请，对方收不到。。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;天才吧/400 电话只会叫人重启、还原、重新配对，没啥解决方案，我就差抹掉手机重新恢复了。&lt;/p&gt;
+&lt;p&gt;这 S9 买来小一个月了，维修是小概率事件，摊上也没办法，但是软件 bug 真的很糟心，用着正式版的系统，却是 beta 版的体验。天气和圆环记录想必也是常用 app 了，都做成这样。。
+诸如此类的还有什么手机上 App Store 右上角显示不了头像啊啥的，这都不用提了，已经习惯了，不知道下次能不能调好再发布。&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 17:05:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982605#reply2</guid></item><item><title>[上海] [热] 上海本地 WX 二手交易群，欢迎有好货要出手和想捡便宜的朋友们加入！</title><link>https://www.v2ex.com/t/982603#reply0</link><description>&lt;p&gt;欢迎有好货要出手和想捡便宜的朋友们加入本群，可以发图片及商品详情信息和价格。 （禁止发布广告、与交易无关的内容、讲奇怪的故事敏感话题、发布奇怪的链接、带风向、违法信息，发现后立马 T 出不做解释） 在交易前请自行核实交易商品真实性和卖家沟通好后再进行交易，交易方式自行商榷 （推荐线下当面验货后交易） 如遇交易产生纠纷本群概不负责哦！感谢！&lt;/p&gt;
+&lt;p&gt;加我 wx 拉你进群，微信号：Yonghao0830 [请备注二手交易]！！！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="沪上闲物" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Rx5LmSk_d.jpg?maxwidth=520&amp;amp;shape=thumb&amp;amp;fidelity=high" /&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 16:37:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982603#reply0</guid></item><item><title>[分享发现] 看到 V 友说书店少了有感，实体书店成本太高，卖的书价格劣势太大了</title><link>https://www.v2ex.com/t/982601#reply1</link><description>&lt;p&gt;国庆节去家附近一家很多年的新华书店逛了逛，本着支持一下实体书店的原则，买了四本书，两本技术类两本非技术的，一共花了 290. 然后去京东对应出版社的自营店把四本书加到购物车，没有额外券的前提下只要 200. 这也难怪实体书店很难经营下去，个个都开始卖咖啡&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 16:26:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982601#reply1</guid></item><item><title>[程序员] 如何自己编译 telegram ios 客户端，改个名字，实现 Telegram 多开？求个教程</title><link>https://www.v2ex.com/t/982600#reply1</link><description>&lt;p&gt;ios 直接砸壳 会黑屏&lt;/p&gt;
+&lt;p&gt;所以想自己编译，然后改个名字应该就能解决这个问题了吧&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/nicegram/Nicegram-iOS" rel="nofollow"&gt;https://github.com/nicegram/Nicegram-iOS&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 16:12:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982600#reply1</guid></item><item><title>[Kubernetes] windows 是否可以搭建多机 k8s 集群</title><link>https://www.v2ex.com/t/982599#reply3</link><description>上一次向 v 友们询问了关于云服务的选择，我们小组还是没有确定买什么，我们决定先利用本地机器搭建一个 k8s 集群进行测试，但是本地机器都是 windows 机器，我们通过 tailscale 能够让几台电脑互相通信，但是网上并没有找到 windows 搭建集群的教程，有知道的 v 友可以帮忙解答一下吗，不胜感激！</description><pubDate>Mon, 16 Oct 2023 16:12:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982599#reply3</guid></item><item><title>[Apple] Apple 自带邮件客户端收信速度</title><link>https://www.v2ex.com/t/982597#reply5</link><description>我在里面绑定了我的 outlook 邮箱，收验证码或其他邮件总感觉速度慢，我使用 Gmail 客户端收验证码就很快，不知道是 Apple 邮件的原因，还是因为 outlook 服务器的原因？</description><pubDate>Mon, 16 Oct 2023 15:46:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982597#reply5</guid></item><item><title>[问与答] Safari 浏览器 B 站渲染错误会是什么原因？</title><link>https://www.v2ex.com/t/982596#reply0</link><description>&lt;p&gt;Safari 浏览器 B 站页面总出现错误（如图）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这台 mac 上其他浏览器没有问题。&lt;/li&gt;
+&lt;li&gt;另一台 macbook pro 13 (2020 M1)的 safari 也没问题。&lt;/li&gt;
+&lt;li&gt;这台 mac 的 safari 只有 b 站页面有这个问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;macOS Monterey V12.6.9, MacBook Pro 15 (mid 2015)
+Safari 17.0&lt;/p&gt;
+&lt;p&gt;&lt;img alt="screenshot" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/a/wcxV8R4" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/a/wcxV8R4" rel="nofollow"&gt;https://imgur.com/a/wcxV8R4&lt;/a&gt; &lt;/p&gt;
+&lt;img alt="screenshot" class="embedded_image" rel="noreferrer" src="https://imgur.com/a/wcxV8R4" /&gt;
+&lt;p&gt;&lt;strong&gt;想问问各位大佬，这种可能是什么问题，有什么解决方案吗？&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 15:36:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982596#reply0</guid></item><item><title>[macOS] 关于 macOS14 的一些问题</title><link>https://www.v2ex.com/t/982594#reply0</link><description>&lt;p&gt;机型：MacBook Pro M1 Pro 16 + 512
+1.App 最小化后点 dock 栏图标（不是缩略图），App 界面有很大概率会闪一下，然后再显示神奇动画；
+2.Dock 栏缩略图会出现莫名其妙马赛克。&lt;/p&gt;
+&lt;p&gt;BTW ，台前调度真的好难用啊，尤其是桌面图标需要和软件交互时，是我用的方式不对吗？&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 15:26:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982594#reply0</guid></item><item><title>[优惠信息] 薅羊毛 养老金怎么退税</title><link>https://www.v2ex.com/t/982592#reply7</link><description>&lt;p&gt;#薅羊毛 养老金退税&lt;/p&gt;
+&lt;p&gt;12 月前存入养老金
+明年就能退税&lt;/p&gt;
+&lt;p&gt;今天学习了一下税优型养老金怎么买的&lt;/p&gt;
+&lt;p&gt;配置了一点养老金，不仅每年可以节税几千块
+未来还能有源源不断的养老金&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/16/UdawoQgS25mRZGq.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 15:15:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982592#reply7</guid></item><item><title>[Apple] 15pm 手电筒暖光正常吗</title><link>https://www.v2ex.com/t/982591#reply1</link><description>&lt;p&gt;同时打开 13pm 和 15pm ，13pm 是冷光 15pm 是暖光 偏黄 是正常的吗&lt;/p&gt;</description><pubDate>Mon, 16 Oct 2023 15:10:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/982591#reply1</guid></item></channel></rss>
