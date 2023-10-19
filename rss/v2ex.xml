@@ -1,124 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 19 Oct 2023 11:08:05 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] iPhone Apple Care+不要购买 不要购买 不要购买</title><link>https://www.v2ex.com/t/983570#reply6</link><description>和大家分享一下我的 iPhone Apple Care+维修权益过程：&lt;br /&gt;一、9 月 8 日。&lt;br /&gt;我的手机（型号：iPhone 13 Pro max 远峰蓝 256G ）因为意外摔坏导致屏幕、后盖玻璃损坏，由于我在 Apple Store 香港广场购买手机的时候花费 1498 元一同购买了苹果的延长保修服务 Apple Care+，服务涵盖了意外损坏可付费维修。&lt;br /&gt;我便前往 Apple Store 五角场店进行售后检测，店内人员说需要返厂维修。我同意了进行返厂维修。&lt;br /&gt;二、9 月 20 日&lt;br /&gt;通知我往前往苹果直营店领取手机。维修从 9 月 8 号到 21 号共持续 14 天。当时苹果邮件通知我根据 Apple Care+服务条款，对我手机进行换新，需要支付了服务费 628 元。可我支付完服务费后，拿到手机后发现，手机在夜间使用是存在明显的显示质量缺陷。主要表现为屏幕右侧在暗光环境下明确偏红，为一整条红色色差，即网上所说的“阴阳屏”。也就是说，他们所说的换新是给我换了一个质量有明显缺陷的产品。&lt;br /&gt;三、9 月 23 号&lt;br /&gt;因为手机质量问题，我再次乘车 1 小时前往 Apple Store 五角场店，店内经理态度一般，比较敷衍，说还是要返厂维修。因为维修时间极长，但她说店里是维修不了的。只能返厂。于是我不得不接受返厂的要求。这次返厂又花费了 7 天。&lt;br /&gt;四、9 月 30 日&lt;br /&gt;我拿到了维修好的手机，可是厂内维修只更换了手机的主板和电池（两个都是新的部件），屏幕状况依旧还是屏幕右侧依旧存在红色色差条带。同时边框右侧多了一道细微的划痕，考虑手机维修时操作导致的。我当天下午就联系了苹果官方的客服，她让我去 Apple Store 直营店里去看看能否维修。于是我又花了一小时到店里，店内说还是只能再次返厂。这时候高级技术顾问联系我说暂时先不返厂，她帮我沟通看能否继续寻求别的解决方案。&lt;br /&gt;五、10 月 4 日&lt;br /&gt;苹果高级技术顾问和我说，让我前往 Apple Store 再次返厂。当时我无法接受，2023 年 10 月 7 日就去苹果五角场店进行沟通，经理给予我更换屏幕处理，可更换屏幕后暗红色改善，但问题仍然存在。当天晚上我就再次去了苹果浦东店进行返厂维修。&lt;br /&gt;六、10 月 18 日&lt;br /&gt;维修持续了 11 天后，维修厂给我邮件说手机没有问题，原封退回。&lt;br /&gt;回顾整个过程，我去苹果店去了六次，来回通勤达 12 小时，维修过程长达 40 余天，我还没收到我的手机。&lt;br /&gt;&lt;br /&gt;结论：&lt;br /&gt;1.Apple 的售后越来越差，而当时我花费的 1498 购买的 Apple Care+因为糟糕的服务质量带来了很多不开心的事。&lt;br /&gt;2.请不要相信高级技术顾问&lt;br /&gt;3.除了接受，似乎无解。&lt;br /&gt;4.与其购买 Apple Care+无套使用，不如戴套安全。戴套使用 2 年后折旧换新是最优解。</description><pubDate>Thu, 19 Oct 2023 10:50:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983570#reply6</guid></item><item><title>[分享发现] 我也整了个在线版的仙剑 1，打开网页即玩，针对移动端做了适配，还有云存档😃</title><link>https://www.v2ex.com/t/983568#reply1</link><description>&lt;p&gt;游玩地址： &lt;a href="https://www.debuggerx.com/sdlpal/sdlpal.html" rel="nofollow"&gt;https://www.debuggerx.com/sdlpal/sdlpal.html&lt;/a&gt;
-效果演示： &lt;a href="https://imgur.com/a/dcxX3qV" rel="nofollow"&gt;https://imgur.com/a/dcxX3qV&lt;/a&gt;
-联动 &lt;a href="https://www.v2ex.com/t/983557" rel="nofollow"&gt;https://www.v2ex.com/t/983557&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;巧了，前些日子我也做了个在线玩仙剑 1 的网页，也是基于 sdlpal 的 wasm demo 二次开发，特色功能如下：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 19 Oct 2023 21:21:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Google] 谷歌浏览器最新版，最最最左上角的箭头怎么关？快折磨死我了</title><link>https://www.v2ex.com/t/983641#reply2</link><description>主要我还不知道这功能到底叫什么！！！！</description><pubDate>Thu, 19 Oct 2023 20:37:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983641#reply2</guid></item><item><title>[硬件] 爱格升 + Studio Display 逼死强迫症</title><link>https://www.v2ex.com/t/983640#reply0</link><description>显示器支架是爱格升 LX 。感觉并没有达到预期。&lt;br /&gt;&lt;br /&gt;首先调节并没有想象中的丝滑，前后倾角已经调到最松但还是太紧。这就导致任何调整都需要两只手，搞得显示器上全是手印。&lt;br /&gt;&lt;br /&gt;但最坑的点是无法使屏幕始终保持在水平位置。如果不需要旋转屏幕，安装的时候可以选择上一个螺丝来锁定。但由于各种公差考量，其实还是可以轻微调整水平旋转。重点来了。当你辛辛苦苦调整好水平位置后，一旦把屏幕调整到一个其他的位置，那水平旋转就基本白调了。一是因为水平位置无法完全锁定。在调整位置的时候很容易就把水平位置碰歪了。但最根本的原因是因为机械臂的转轴有公差。一旦屏幕位置变了，力矩会被放大。比如屏幕在右边的时候调整好水平旋转，再把屏幕放到左边，屏幕就会往左边歪而失去水平位置。这是一个设计缺陷，因为转轴处的公差正是为了调整转轴的阻尼而设置的。如果上紧转轴的螺丝来减小转轴的间隙，那转轴就转不动，屏幕也就无法调整了。&lt;br /&gt;&lt;br /&gt;最后还是把 VESA 版退了换标准版了。</description><pubDate>Thu, 19 Oct 2023 20:00:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983640#reply0</guid></item><item><title>[Linux] Wireguard 端口转发问题</title><link>https://www.v2ex.com/t/983638#reply8</link><description>我的网络拓扑图如下：&lt;br /&gt;客户端 &amp;gt;gost 服务器 A:8443 &amp;gt;Wireguard 服务器 B:443&lt;br /&gt;&lt;br /&gt;客户端 直连 Wireguard 服务器 B 没问题的。&lt;br /&gt;客户端 连 gost 服务器 A:8443 就不行。&lt;br /&gt;&lt;br /&gt;以为是 gost 转发的问题，测试了 gost 转发 ssh 到 Wireguard 服务器 B:22 正常。&lt;br /&gt;&lt;br /&gt;以为 gost 转发 UDP 不行，测试了 gost 转发 dns 到 Wireguard 服务器 B:53 也正常。&lt;br /&gt;&lt;br /&gt;说明问题不在 gost 转发上。是不是 Wireguard 不兼容这种端口转发场景？是不是客户端上的 Wireguard 在改路由表时只会自动排除 Wireguard 服务器 B ？这样导致把去往 gost 服务器 A:8443 的流量也倒到隧道上去了？</description><pubDate>Thu, 19 Oct 2023 18:27:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983638#reply8</guid></item><item><title>[问与答] 有没有类似腾讯会议那样不依赖浏览器实现简单会议功能的软件呀？</title><link>https://www.v2ex.com/t/983637#reply4</link><description>&lt;p&gt;周末要弄两个网络会议室，虽然能用腾讯会议，但是受限于 3 人以上会议就要 60 分钟断一次，而且这地方的网线年久失修，时不时就弹一个网络状态不佳，但是用腾讯会议的检测工具又没问题。&lt;/p&gt;
+&lt;p&gt;所以就想着有没有一个类似腾讯会议的开源的会议软件，可以部署在纯内网的环境就可以跑起来，功能不需要复杂，就两个，什么权限控制啊，登录注册啊全都不要：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;主持人需要像腾讯会议一样可以同时推流满分辨率的屏幕和摄像头&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以由其他的多位参会者选择看主持人的屏幕或者摄像头，在选择看一项时，其他项需要像腾讯会议的演讲者模式一样在右排或上排以便参会者随时切换&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;学艺不精的我今天试了不少其它的软件，但都不尽我意。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;利用 cloudflare 的 kv 数据库做的云存档功能&lt;/li&gt;
-&lt;li&gt;从&lt;a href="https://emulatorjs.org/" rel="nofollow"&gt;emulatorjs&lt;/a&gt;项目抄来的屏幕虚拟按键&lt;/li&gt;
-&lt;li&gt;支持切换全屏&lt;/li&gt;
-&lt;li&gt;支持横竖屏自动适配&lt;/li&gt;
-&lt;li&gt;支持屏幕按键震动反馈&lt;/li&gt;
+&lt;li&gt;obs&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;游玩说明：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是我一直就用的软件，不过我是一直拿来录屏，用起来很舒服，但是没办法像会议软件一样可以以满分辨率屏幕和摄像头同时推两路，也或许是我不会调&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;从 &lt;a href="http://update1.baiyou100.com/resource/Pal98rqp.zip" rel="nofollow"&gt;http://update1.baiyou100.com/resource/Pal98rqp.zip&lt;/a&gt; 这个地址下载游戏数据包（或者手机端长按「加载」按钮弹出下载提示），然后点击「加载」按钮即可游玩&lt;/li&gt;
-&lt;li&gt;使用「上传存档」「上传存档」功能时需要输入自己独有的密钥，请务必确保自己的密钥很难和别人的重复，否则云端存档会有被覆盖的可能&lt;/li&gt;
-&lt;li&gt;⭕键是回车、❌键是 Esc 、🟥键是重复战斗、🔺键是打开人物状态&lt;/li&gt;
+&lt;li&gt;SRS 实时视频服务器&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;欢迎尝试游玩，提提意见～&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:45:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983568#reply1</guid></item><item><title>[分享创造] 造了一个玩具，通过插件远程控制你的浏览器</title><link>https://www.v2ex.com/t/983567#reply2</link><description>&lt;p&gt;原理很简单，通过 websocket 通信
-&lt;a href="https://github.com/inu1255/debugirl" rel="nofollow"&gt;https://github.com/inu1255/debugirl&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简单写了个服务端，可以获取 V2EX 的用户名。
-可以看到跟写 chrome 插件的体验基本一致。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;async function start() {
-	let tabs = await chrome.tabs.query({
-		url: "https://www.v2ex.com/",
-	});
-	let tab = tabs[0];
-	if (!tab) {
-		tab = await chrome.tabs.create({
-			url: "https://www.v2ex.com/",
-			index: 0,
-			active: false,
-		});
-	}
-	if (tab.status != "complete") await waitComplete(tab);
-	let name = await chrome.scripting.executeScript({
-		target: {tabId: tab.id},
-		func: function () {
-			return document.querySelector(".bigger").innerText;
-		},
-	});
-	console.log("your V2EX username is:", name);
-}
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 19 Oct 2023 10:42:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983567#reply2</guid></item><item><title>[问与答] 你有什么奇怪的需求，想解决又没找到对应的产品</title><link>https://www.v2ex.com/t/983565#reply4</link><description>&lt;p&gt;想找大家来开开脑洞
-先说一下我的吧
-经常下载到一些双人运动类的压缩包，却不知道密码,很气人。
-如果用暴力破解的话，比较困难，很多坑货用的是中文密码
-如果开发一个解压工具，让知道密码的人进行共享，也得需要大量的用户基数才能实现。
-大家知道有什么工具解决了这个需求吗?&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:32:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983565#reply4</guid></item><item><title>[NAS] 极空间新出的 z4pro 值得买吗？</title><link>https://www.v2ex.com/t/983564#reply1</link><description>有三种配置，大家怎么看？</description><pubDate>Thu, 19 Oct 2023 10:24:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983564#reply1</guid></item><item><title>[Vue.js] vue3 的页面更新机制，总是不刷新，除了循环之外，最近给 插槽，组件和 if 控制的代码块都添加了 key 才能正常更新</title><link>https://www.v2ex.com/t/983562#reply0</link><description></description><pubDate>Thu, 19 Oct 2023 10:20:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983562#reply0</guid></item><item><title>[问与答] 华硕的 Google Meet 套件能够换 android 或 win 系统吗？</title><link>https://www.v2ex.com/t/983560#reply0</link><description>内置的系统像是定制的 chrome os 系统，想了解一下有没有人接触过这套硬件的，想换成其他系统有办法实现吗&lt;br /&gt;&lt;br /&gt;设备介绍： &lt;a href="https://baijiahao.baidu.com/s?id=1667087920356982678&amp;amp;wfr=spider&amp;amp;for=pc" rel="nofollow noopener" target="_blank"&gt;https://baijiahao.baidu.com/s?id=1667087920356982678&amp;amp;wfr=spider&amp;amp;for=pc&lt;/a&gt;</description><pubDate>Thu, 19 Oct 2023 10:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983560#reply0</guid></item><item><title>[OpenAI] 只要支持 OpenAI 应用的客户端和框架，就能使用 Claude 或其他模型的 AI 平台</title><link>https://www.v2ex.com/t/983559#reply0</link><description>&lt;p&gt;&lt;a href="https://aiproxy.io/" rel="nofollow"&gt;https://aiproxy.io/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;已经上架 Claude 模型，不仅在复杂对话和创意内容创作上表现卓越，还能精准跟随详细指令。&lt;/p&gt;
-&lt;p&gt;AIProxy 平台同时支持 Claude API 协议和 OpenAI API 两种协议，意味着所有支持 OpenAI 的框架和应用都可以直接开箱即用。ChatNextweb 项目增加 claude-2 和 claude-instant-1 自定义模型后就能直接聊起来，但是你要注意有些客户端会有系统 prompt 设定角色，问你是谁这种问题会受干扰。&lt;/p&gt;
-&lt;p&gt;价格和 GPT3.5 差不多，&lt;a href="https://aiproxy.io/pricing" rel="nofollow"&gt;查看详细的定价或测试成本&lt;/a&gt;推荐大家来尝鲜。100K 的 tokens ，文档分析和总结摘要都非常爽。&lt;/p&gt;
-&lt;p&gt;借用 AIProxy 平台本来的能力，还能联网搜索，一键部署到飞书。&lt;/p&gt;
-&lt;p&gt;下面是一个奖励链接哈，从这个入口点进去首充，可以额外获得 3%积分，感谢大家支持。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://aiproxy.io/?i=nobodycankiillme" rel="nofollow"&gt;https://aiproxy.io/?i=nobodycankiillme&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:15:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983559#reply0</guid></item><item><title>[分享发现] 互联网从业人员境外工作以及境外服务应该注意的法律风险</title><link>https://www.v2ex.com/t/983558#reply1</link><description>&lt;p&gt;最近一直在关注这个，搜了一篇文章，感觉还不错&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.east-concord.com/zygd/Article/20225/ArticleContent_2857.html" rel="nofollow"&gt;为境外公司线上敏感业务提供服务的合规风险分析——以为线上博彩游戏和虚拟货币交易提供远程运维为例&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;挑了一些重点跟大家分享一下&lt;/p&gt;
-&lt;h2&gt;开设赌场罪的帮助犯&lt;/h2&gt;
-&lt;p&gt;开设赌场罪规定在《刑法》第六章“妨害社会管理秩序罪”第一节“扰乱公共秩序罪”中，犯罪客体是社会公共秩序，“不仅侵害了以劳动或其他合法行为取得财产这一国民健全的经济生活方式与秩序，而且导致不特定或者多数人的财产陷入危险”[5]。虽然该境外公司的博彩游戏未在境内进行营销推广，但由于互联网的高度开放性，仍可能会有中国公民使用相关线上游戏，从客观上来看对我国的社会公共秩序造成了侵害。《办理跨境赌博犯罪案件若干问题的意见》的“关于跨境赌博犯罪的认定”部分也体现了这一思路：不同于第（一）项中的“组织、招揽中华人民共和国公民赴境外赌博”“组织中国公民跨境赌博活动的”，以营利为目的，利用信息网络等建立赌博网站、应用程序并接受投注等行为，即属于刑法第 303 条第二款规定的“开设赌场”。&lt;/p&gt;
-&lt;p&gt;《关于办理网络赌博犯罪案件适用法律若干问题的意见》《办理跨境赌博犯罪案件若干问题的意见》规定，明知是赌博网站、应用程序，为其提供技术支持等服务的，以开设赌场罪的共犯论处。因此，境内公司向境外公司博彩游戏提供远程运维的行为可能被认定为开设赌场罪的帮助犯，刑事风险较高。&lt;/p&gt;
-&lt;p&gt;此外，存在观点认为我国现行司法解释中的帮助行为正犯化包括三种模式，为网络赌博提供帮助的行为属于其中的一种，名为共犯，但具有客观独立性，实际上不需要正犯达到其本身罪量，司法解释只要求分则规定的开设赌场行为的存在（“是赌博网站”）。依照此种观点，为境外博彩游戏提供服务的行为认定为开设赌场罪的帮助犯，不以正犯行为确定构成犯罪为前提，境内公司所面临的刑事风险将进一步扩大。&lt;/p&gt;
-&lt;p&gt;2022 年 4 月 8 日，最高人民检察院官方微信公众号发布的题为《 30 多亿独自频繁流转触发银行监控之后……》的文章，详细介绍了一起跨境赌博案：赌博网站的服务器在境外，且只招揽韩国籍赌客，而赌博网站工作室威海地区负责人张某、裴某等被告人为涉案赌博网站提供客服管理、收取赌注、提现、赌博网站资金转移等服务，&lt;strong&gt;“在明知他人开设网络赌场的前提下，仍为其提供上述帮助，其行为均构成开设赌场罪共同犯罪”&lt;/strong&gt;[6]。虽然开设赌场在韩国并非合法活动，但这仅同刑法的空间效力存在关联（具体问题前已述及），还是要根据我国刑法规定判断行为是否构成犯罪。因此通过该案例可以看出，为不招揽境内公民的赌博网站提供服务的行为也会对我国社会公共秩序造成侵害，可能构成开设赌场罪的帮助犯。&lt;/p&gt;
-&lt;p&gt;实践中也存在为境外赌博网站、应用程序提供服务而被认定为开设赌场罪共犯的案件，其中部分判决书并未涉及赌博网站是否以吸引中国公民为主要客源、在境内进行营销推广等问题，例如案号为（ 2020 ）吉 0702 刑初 387 号的何志强等开设赌场罪一审刑事判决书，没有指出相关赌博软件是否曾在境内针对中国公民宣传，也没有将境内与境外的参赌人数、投注金额区分开来，仅提及赌博软件投放到境外赌博网站平台后接受境内外参赌人员的总数量和全部投注金额。可见即使博彩游戏在没有在境内进行营销推广，为其提供服务仍存在较高的刑事风险。&lt;/p&gt;
-&lt;h2&gt;帮助信息网络犯罪活动罪&lt;/h2&gt;
-&lt;p&gt;根据《刑法》第 287 条之二，帮助信息网络犯罪活动罪（以下简称“帮信罪”）是指自然人或者单位明知他人利用信息网络实施犯罪，为其犯罪提供互联网接入、服务器托管、网络存储、通讯传输等技术支持，或者提供广告推广、支付结算等帮助，情节严重的行为。&lt;/p&gt;
-&lt;p&gt;全国人大法工委及最高人民法院相关人员均持帮信罪属于帮助犯正犯化的观点。关于“明知他人利用信息网络实施犯罪”中“犯罪”的认定，最高人民法院相关人员指出，帮助对象是否到案、其犯罪事实是否完全查清，对帮信罪的适用并无绝对的影响，但适用帮信罪，应以被帮助对象已利用帮助行为实施网络犯罪、且已达到相应犯罪入罪条件为前提，《最高人民法院、最高人民检察院关于办理非法利用信息网络、帮助信息网络犯罪活动等刑事案件适用法律若干问题的解释》（以下简称《新型网络犯罪解释》）第 12 条第二款实质上将帮信罪中的“犯罪”作了扩大解释，把刑法分则规定的行为类型但尚未构成犯罪的行为涵括在内。[7]可以看出，境内公司为境外公司线上博彩游戏提供服务的行为存在构成帮信罪的法律风险，且可能不以境外公司确定构成犯罪为前提。&lt;/p&gt;
-&lt;p&gt;除准确理解“犯罪”外，判断境内公司提供服务的行为是否构成帮信罪，还要明确其是否具备“明知”“情节严重”等要件：（ 1 ）明知包括确切明知和概括明知，&lt;strong&gt;“应当结合一般人的认知水平和行为人的认知能力、相关行为是否违反法律的禁止性规定、行为人是否履行管理职责、是否逃避监管或者规避调查、是否因同类行为受过处罚，以及行为人的供述和辩解等情况进行综合判断”&lt;/strong&gt;[8]，《新型网络犯罪解释》第 11 条总结了主观明知的推定情形[9]；（ 2 ）关于“情节严重”，《新型网络犯罪解释》第 12 条列出包括为三个以上对象提供帮助、违法所得一万元以上等具体认定标准[10]。&lt;/p&gt;
-&lt;p&gt;帮信罪中上游客观行为的确定性程度、意识联络的确定性程度、上下游行为之间关联性的紧密程度同上游犯罪共犯相比均较低；理论上来说，符合上游犯罪的共同犯罪原则上都符合帮信罪，对同时符合帮信罪和上游犯罪共同犯罪的，属于想象竞合，择一重罪处罚。[12]此外，《办理跨境赌博犯罪案件若干问题的意见》也明确，&lt;strong&gt;“为网络赌博犯罪提供互联网接入、服务器托管、网络存储、通讯传输等技术支持，或者提供广告推广、支付结算等帮助，构成赌博犯罪共犯，同时构成非法利用信息网络罪、帮助信息网络犯罪活动罪等罪的，依照处罚较重的规定定罪处罚。”&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;为虚拟货币交易提供服务&lt;/h2&gt;
-&lt;p&gt;中国人民银行等十部门于 2021 年 9 月 15 日发布的《关于进一步防范和处置虚拟货币交易炒作风险的通知》指出，&lt;strong&gt;“虚拟货币相关业务活动属于非法金融活动。开展法定货币与虚拟货币兑换业务、虚拟货币之间的兑换业务、作为中央对手方买卖虚拟货币、为虚拟货币交易提供信息中介和定价服务、代币发行融资以及虚拟货币衍生品交易等虚拟货币相关业务活动涉嫌非法发售代币票券、擅自公开发行证券、非法经营期货业务、非法集资等非法金融活动，一律严格禁止，坚决依法取缔。对于开展相关非法金融活动构成犯罪的，依法追究刑事责任。”&lt;/strong&gt; 可见，非法金融活动包括法币交易、币币交易等虚拟货币相关业务活动，为虚拟货币交易提供服务的行为可能构成非法经营犯罪等的帮助犯。&lt;/p&gt;
-&lt;p&gt;根据该通知，&lt;strong&gt;“境外虚拟货币交易所通过互联网向我国境内居民提供服务同样属于非法金融活动。对于相关境外虚拟货币交易所的境内工作人员，以及明知或应知其从事虚拟货币相关业务，仍为其提供营销宣传、支付结算、技术支持等服务的法人、非法人组织和自然人，依法追究有关责任。”&lt;/strong&gt;
-同网络赌博相类似，境外平台的虚拟货币相关业务活动即使在境外合法，仍可能在我国构成犯罪，境内公司为其提供服务存在较大刑事风险。以非法经营罪、洗钱罪、帮助信息网络犯罪活动罪为例，对境内公司为虚拟货币交易提供服务的刑事风险分析如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;成功在内网搭起来了，不过我只会拿来和 obs 搭配单推屏幕或单推摄像头然后到参会者电脑用 VLC 播放，还是不符合要求&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Jitsi meet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;成功在内网环境起来了，也确实能做到跟腾讯会议类似的效果，可是它依赖浏览器，我用 chrome 单推屏幕的时候 fps 会限制在 5 ～ 10 ，太难受了，一步一卡。
+这么低的 fps 太难受了，跟用 obs 单推流是天壤之别&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;后面我查了下 jitsi meet 的 issue ，发现这是浏览器的限制，虽然会议软件用浏览器做平台会少写很多代码，但这个个位数的 fps 让我着实难受所以不得不放弃了以浏览器为平台的软件。&lt;/p&gt;
+&lt;p&gt;这样以来能选择的软件就很少了，像是 BigBlueButton 也是纯浏览器平台的。&lt;/p&gt;
+&lt;p&gt;所以想问一下平常接触多这种开源视频直播或者网络会议室的大佬知道有没有一款可以满足我那两点需求的可以不浪费内网带宽可以在纯内网环境的软件呀？&lt;/p&gt;
+&lt;p&gt;就算不是开源的也行啊，只要能在内网用，会议直播的内容不需要过公网！&lt;/p&gt;
+&lt;p&gt;不然的话还是得叫领导买两个腾讯会议会员凑合用了&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 18:02:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983637#reply4</guid></item><item><title>[Apple] APPLE TV 7 代 128 京东海外自营特惠</title><link>https://www.v2ex.com/t/983636#reply0</link><description>&lt;p&gt;已入，1209 到手，各种券领一波先。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:50:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983636#reply0</guid></item><item><title>[奇思妙想] 站长能开个直播/录播相关的节点嘛？</title><link>https://www.v2ex.com/t/983635#reply0</link><description>&lt;p&gt;有时候买硬件，或者使用软件及设置都需要一些经验丰富的人来指点，或者大家互通有无， 如果能设置一个这样的节点，那么善莫大焉。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:44:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983635#reply0</guid></item><item><title>[程序员] 请教一下如何低成本实现一个场地计费管理系统？</title><link>https://www.v2ex.com/t/983633#reply7</link><description>&lt;p&gt;客户预算 2w 以内，需要实现以下功能：
+1 、会员卡功能，会员卡可以充值并抵扣场地费，办理会员卡的场地收费打折扣。
+2 、场地计费与灯控功能：进行场地计费，离场时扣费（只需支持现金/会员卡扣费即可）。需要联动灯光控制，开始计费时开灯，结束计费关灯。结束计费后自动打印消费小票。
+3 、报表功能，各项财务报表等。
+4 、要有源码。&lt;/p&gt;
+&lt;p&gt;市面上看了很多，都是 SAAS 性质的，没有那种提供源码的，去哪儿找好一点呢。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:07:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983633#reply7</guid></item><item><title>[程序员] 突来灵感, 设计两个 PHP 常用的快捷键.</title><link>https://www.v2ex.com/t/983631#reply2</link><description>&lt;p&gt;突来灵感, 设计两个 PHP 常用的快捷键.&lt;/p&gt;
+&lt;p&gt;PHP 的箭头符号访问方法或属性, 这个设计非常不好, 这个符号需要按两个组合键,并且距离都很远.
+受够了这样的设计, 于是我把它通过 Karabiner 设计为快速敲两下减号 - 实现 -&amp;gt;, 完成后觉得非常 OK.
+但是用了两天之后发现不够完美, 因为经常使用命令行, 很多参数是 --p 这样的形式, 敲快了就会误触发为 -&amp;gt;,
+而刻意敲慢也终究不够随意.&lt;/p&gt;
+&lt;p&gt;于是我的天才想法诞生了。&lt;/p&gt;
+&lt;p&gt;换一个思路，敲 - =  为 -&amp;gt; ，这样多快多慢都无影响了，原本的 - - 也不受影响了。
+另外顺带的，设置 = -  为 =&amp;gt; ，对应 PHP 的数组箭头，PHP 这两个最常用的符号设计成最难敲的符号，真不知道怎么想的。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;= 和 = -  都不是常用的符号，后者根本没有。可以放心了，完美。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 19 Oct 2023 16:51:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983631#reply2</guid></item><item><title>[Android] 谈谈 星闪 的未来</title><link>https://www.v2ex.com/t/983630#reply21</link><description>参考 WAPI ，比如 国行 iPhone 3GS 当年不支持 WiFi ，因为国家要推 WAPI ，后来放宽限制 iPhone4 以后的 iPhone 支持 WiFi 和 WAPI 。现在设置里国行 iPhone 是 WLAN ，因为是 WAPI + WiFi ，国际版仅支持 WiFi 。 有用过 WAPI 可以谈谈体验。&lt;br /&gt;&lt;br /&gt;同样星闪只是因为华为推的，其他国家（其他友商）不跟你玩。 个人非常不看好，因为短距离（窄带宽）通信有蓝牙远距离（大带宽）有 Wi-Fi ， 除非 华为 能找到一个非 星闪 不可的场景，而且还要能推广到海外。</description><pubDate>Thu, 19 Oct 2023 16:45:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983630#reply21</guid></item><item><title>[问与答] 求救： Netflix 倍速播放后字幕和声音不同步</title><link>https://www.v2ex.com/t/983628#reply0</link><description>开启 1.25 倍或 1.5 倍速度播放后，会出现字幕和声音不同的的情况，iPhone12 、iPhone 15 Pro 、iPad Pro 2021 都存在这个问题，已经好长一段时间了，更新系统和软件版本都解决不了。</description><pubDate>Thu, 19 Oct 2023 16:32:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983628#reply0</guid></item><item><title>[求职] 23 届末流 985 本，无工作经验，求各位给给建议</title><link>https://www.v2ex.com/t/983627#reply4</link><description>&lt;p&gt;软工专业，大学划水过去，无实习经验。
+对 C++的各种面试常见内容熟悉、面向对象 stl 等
+计网操作系统多线程数据结构等有个基本了解&lt;/p&gt;
+&lt;p&gt;目前应该往哪个方向走
+1 、继续找
+2 、转语言
+3 、考公&lt;/p&gt;
+&lt;p&gt;另外求看得上的公司，只要求双休别的无所谓&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 16:32:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983627#reply4</guid></item><item><title>[分享发现] 記一次 YouTube 因「擋廣告」被封鎖的經歷</title><link>https://www.v2ex.com/t/983626#reply2</link><description>&lt;p&gt;自己一直以來都在使用 AdGuard （收費版） 擋廣告，YouTube 自然不例外。
+前幾日都見到 YouTube 給我推「廣告攔截器的使用違反 YouTube 的 ToS 」之類的彈窗，但因為只是一般的警告，我就沒太在意。直到今日開始收到倒數 3 條片的彈窗，我慌了。
+一開始立即就關閉了 AdGuard ，重新整理網頁，彈窗依舊，真是怪事。我一臉疑惑的關閉系統所有的擋廣告軟體，窗口還在。直到最後 3 個倒計都用完，我徹底被 YouTube 封鎖了。
+但是結局還是有點哭笑不得，發現是一個從來都沒想過的插件 YouTube Enhancer （可能是沒有更新的版本？）攔截了不知道什麼東西導致 YouTube 檢測到其他的「廣告攔截工具」，關了之後完全沒問題，AdGuard 在 Handle 住廣告的時候亦都可以 Handle 檢測，差點就錯怪他了。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 16:20:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983626#reply2</guid></item><item><title>[分享发现] 007idc 这家是真把客户当傻子啊哈哈（乐子+避雷）</title><link>https://www.v2ex.com/t/983625#reply10</link><description>&lt;p&gt;从这件事体会到真就是 最终解释权归老子所有呗&lt;/p&gt;
+&lt;p&gt;前提：这家 13 号被人干了，所有服务器数据基本删光，处理完就是该给用户赔偿了。&lt;/p&gt;
+&lt;p&gt;赔偿规则：赔偿机器从 13 号开始算的剩余时间的 2 倍 或者 等额退款。&lt;/p&gt;
+&lt;p&gt;故事开始：
+我当时正好有个机器从 13 号开始算还有 25 天结束，以为能赔 50 天，即 25+50=75 天后过期。
+今天赔完了，一看，怎么就 50 天就过期
+一问客服，好嘛，人家赔偿是指 从 13 号开始+2 倍时长
+也就是算下来 只赔了一倍的时长
+我想这个数学计算，我应该没理解错吧&lt;/p&gt;
+&lt;p&gt;哈哈哈，太厉害了&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:54:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983625#reply10</guid></item><item><title>[奇思妙想] 有没有真人 NPC 的网络 RPG 游戏？</title><link>https://www.v2ex.com/t/983623#reply4</link><description></description><pubDate>Thu, 19 Oct 2023 15:40:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983623#reply4</guid></item><item><title>[分享创造] 分析 vue 代码并提供优化建议的工具更新啦！</title><link>https://www.v2ex.com/t/983622#reply0</link><description>&lt;p&gt;三二一上链接！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://hook.huali.cafe/" rel="nofollow"&gt;vue-hook-optimizer playground&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="demo" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2023-10-19_23-28-22.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;新功能&lt;/h2&gt;
+&lt;p&gt;距离上一个帖子发布已经过去 70 天了，这次带来了更多新功能。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;支持了 &lt;code&gt;composition api&lt;/code&gt; 和 &lt;code&gt;options api&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持根据关系图 &lt;strong&gt;提供优化建议&lt;/strong&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供了 vscode 扩展，方便直接查看图和优化建议，并且能直接点击节点跳转至对应的代码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持展示节点的注释信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;动机&lt;/h2&gt;
+&lt;p&gt;给新来的小伙伴说一下项目的动机。&lt;/p&gt;
+&lt;p&gt;当你接手了一个复杂的 vue 项目时，经常会有单个 vue 组件里超级多的代码，逻辑都揉在一起，存在大量的中间变量和方法暴露在模板中，而且注释也不是很完整。&lt;/p&gt;
+&lt;p&gt;所以想要有一个工具能够帮我分析一下，哪些部分是耦合比较高的，哪些部分是完全不相关的或者关联比较少的，然后可以把代码抽成独立的模块，这样也更容易测试。&lt;/p&gt;
+&lt;p&gt;最后，欢迎大家点击上面的链接尝试，或者到 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;项目主页&lt;/a&gt; 点个 🌟 。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:40:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983622#reply0</guid></item><item><title>[程序员] 基于 localstorage 存储的 TOTP 管理工具更新</title><link>https://www.v2ex.com/t/983621#reply2</link><description>&lt;p&gt;原 &lt;a href="https://totp.xn--9tr.com/" rel="nofollow"&gt;https://totp.xn--9tr.com/&lt;/a&gt; 做的比较粗糙，包括展示以及兼容性方面都没有后续的考虑。&lt;br /&gt;
+最近一直在(ChatGPT 的帮助下)努力让其变得(相对)更易用，V2 版本来了。  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BUG：有些提示的逻辑可能有问题，一般会在刷新后解决，不影响正常使用。   &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前的界面如下：&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/b447d07fbaedb69b82418.png" /&gt;&lt;/p&gt;
+&lt;p&gt;主要功能：  &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;非法经营罪的帮助犯&lt;/li&gt;
+&lt;li&gt;增&lt;br /&gt;
+可以手动表单添加、可以自动解析(支持 otpauth schema url 、网站提供的二维码、google authenticator 导出的二维码)&lt;/li&gt;
+&lt;li&gt;删、改(issuer|account)、查(secret)、单个导出
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/aef51e33481c0b27aa79b.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/4c1f109efb77d52ebc2ef.png" /&gt;&lt;/li&gt;
+&lt;li&gt;同步&lt;br /&gt;
+先在 &lt;a href="https://gist.github.com/" rel="nofollow"&gt;https://gist.github.com/&lt;/a&gt; 创建一个 Gist ，其中的 Filename 为&lt;code&gt;totp_secret_v2_backup.json&lt;/code&gt;（重要数据，不要选公开权限），然后点击 Github 图标按钮登录后点击 上传|下载 即可将相关数据同步。（当然，此处依赖客户端能够访问到 Github 网络，相信在 V2 不会是问题。因&lt;code&gt;&lt;a href="https://github.com/login/oauth/access_token" rel="nofollow"&gt;https://github.com/login/oauth/access_token&lt;/a&gt;&lt;/code&gt;有跨域问题，Github 本意此接口不允许在纯前端调用，所以此处使用自己的域名进行反代，以保证能够在前端正常获取到相关操作权限。）&lt;/li&gt;
+&lt;li&gt;批量导出&lt;br /&gt;
+JSON 文件的 导入|导出 ，点击相关按钮即可体验。目前未兼容导出到其他通用的格式，后续可能会兼容 google authenticator 。&lt;/li&gt;
+&lt;li&gt;其他&lt;br /&gt;
+一切数据都在 localstorage, 清理浏览器数据前请备份！善用 导出 以及 同步 功能。&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/2c388daeedf13cb56b3a3.png" /&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;同之前的《关于防范虚拟货币交易炒作风险的公告》《关于防范代币发行融资风险的公告》相比，《关于进一步防范和处置虚拟货币交易炒作风险的通知》在列举相关行为涉嫌的违法犯罪活动中，增加了“非法经营期货业务”。根据《刑法》第 225 条，违反国家规定，未经国家有关主管部门批准非法经营期货业务，扰乱市场秩序，情节严重的，构成非法经营罪。&lt;/p&gt;
-&lt;p&gt;《刑法》第 96 条规定，“本法所称违反国家规定，是指违反全国人民代表大会及其常务委员会制定的法律和决定，国务院制定的行政法规、规定的行政措施、发布的决定和命令。”在期货相关的现行有效的文件中，仅《期货交易管理条例》属于非法经营罪中的“国家规定”。[12]根据《期货交易管理条例》，“国家有关主管部门”是指国务院期货监督管理机构，“非法经营期货业务”是指在期货交易所、国务院批准的或者国务院期货监督管理机构批准的其他期货交易场所进行期货交易等违反《期货交易管理条例》的非法经营行为。&lt;/p&gt;
-&lt;p&gt;判断行为是否属于期货交易行为，应当从期货交易的本质特征上加以把握，包括标准化交易、多空双向交易、交易组织者为交易双方提供履约担保、保证金交易、当日无负债结算。[13]境外虚拟货币交易平台的业务如果具有上述特征，那么很可能被认定为期货业务。如交易平台未经批准面向境内公民开展期货业务，依照《最高人民检察院、公安部关于公安机关管辖的刑事案件立案追诉标准的规定（二）》，数额在一百万元以上，或者违法所得数额在十万元以上，便涉嫌非法经营罪。此时，为其提供服务的境内公司也可能被认定为非法经营罪的帮助犯。如前所述，境外虚拟货币交易所通过互联网向境内居民提供服务属于非法金融活动，即使其不以境内公民为目标群体，但境内公民仍有可能使用交易平台，便存在被认定为有非法经营行为、扰乱市场秩序的风险。&lt;/p&gt;
-&lt;p&gt;除非法经营期货业务外，如果虚拟货币交易平台存在非法买卖外汇等其他违反“国家规定”的行为，境内公司为其提供服务的行为也将面临构成非法经营罪共同犯罪的法律风险。虽然《最高人民法院关于准确理解和适用刑法中“国家规定”的有关问题的通知》指出，“对被告人的行为是否属于《刑法》 225 条第（四）项规定的‘其他严重扰乱市场秩序的非法经营行为’，有关司法解释未作明确规定的，应当作为法律适用问题，逐级向最高人民法院请示”，但在国家对虚拟货币的监管日益严格的背景下，此类业务活动的刑事风险仍不容忽视。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;洗钱罪的帮助犯&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;2021 年 3 月 19 日，最高人民检察院、中国人民银行联合发布了涉及虚拟货币的惩治洗钱犯罪典型案例，指出虚拟货币被利用成为跨境清洗资金的新手段。虚拟货币因其匿名性、去中心化、交易便利、无国界化等特征而可能被利用作为洗钱犯罪的工具，虚拟货币交易平台也可能因相关交易行为构成洗钱罪。&lt;/p&gt;
-&lt;p&gt;根据《刑法》第 191 条，洗钱罪是指单位或个人为掩饰、隐瞒毒品犯罪、黑社会性质的组织犯罪、恐怖活动犯罪、走私犯罪、贪污贿赂犯罪、破坏金融管理秩序犯罪、金融诈骗犯罪的所得及其产生的收益的来源和性质，提供资金帐户，将财产转换为现金、金融票据、有价证券，通过转帐或者其他支付结算方式转移资金，跨境转移资产，或以其他方法掩饰、隐瞒犯罪所得及其收益的来源和性质的行为。&lt;strong&gt;在利用虚拟货币进行的洗钱犯罪中，不法分子通常会通过法币交易将上游犯罪的收益转换成为虚拟货币，再用虚拟货币购买美元等法定货币或资产。在这一过程中，境外虚拟货币交易平台在明知相关钱款属于特定的七类犯罪所得及其收益的情况下，同对方进行的法币交易行为存在较大可能构成洗钱罪，境内公司提供服务的行为就有构成洗钱罪帮助犯的刑事风险。&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;帮助信息网络犯罪活动罪&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;当前涉及虚拟货币的帮信罪案件不在少数，正如前文“为线上博彩游戏提供服务”中的“帮助信息网络犯罪活动罪”部分所述，境内公司明知境外公司实施网络犯罪，仍为其提供运维服务，且存在违法所得在一万元以上等“情节严重”要件，可能构成帮信罪。如果出现经监管部门告知后仍提供服务、交易价格或方法明显异常等“足以认定行为人明知的情形”，境内公司即可能被认定为“明知他人利用信息网络实施犯罪”。与开设赌场罪相同，境内公司提供服务的行为如果构成帮信罪的同时还构成非法经营等罪的共犯的，属于想象竞合。&lt;/p&gt;
-&lt;p&gt;三、行政处罚合规风险&lt;/p&gt;
-&lt;p&gt;（一）为博彩游戏提供服务&lt;/p&gt;
-&lt;p&gt;《中华人民共和国治安管理处罚法》第七十条规定，“以营利为目的，为赌博提供条件的，或者参与赌博赌资较大的，处五日以下拘留或者五百元以下罚款；情节严重的，处十日以上十五日以下拘留，并处五百元以上三千元以下罚款。”关于跨境赌博，《公安部关于办理赌博违法案件适用法律若干问题的通知》指出，“在中华人民共和国境内通过计算机网络、电话、手机短信等方式参与境外赌场赌博活动，或者中华人民共和国公民赴境外赌场赌博，赌博输赢结算地在境内的，应当依照《中华人民共和国治安管理处罚条例》的有关规定予以处罚。”由此可见，在境内使用博彩游戏属于《中华人民共和国治安管理处罚条例》中的“赌博”，故境内公司为博彩游戏提供服务存在较大可能被认定为“营利为目的，为赌博提供条件的”，受到行政处罚。&lt;/p&gt;
-&lt;p&gt;（二）为虚拟货币交易提供服务&lt;/p&gt;
-&lt;p&gt;2021 年 7 月 6 日，北京市地方金融监督管理局、中国人民银行营业管理部发布《关于防范虚拟货币交易活动的风险提示》，提出对涉嫌为虚拟货币交易提供软件服务的北京取道文化发展有限公司已予以清理整顿，责令该公司注销，并“郑重警告辖内相关机构，不得为虚拟货币相关业务活动提供经营场所、商业展示、营销宣传、付费导流等服务。”可以看出，为虚拟货币交易提供服务还可能受到行政处罚。&lt;/p&gt;
-&lt;p&gt;四、合规建议&lt;/p&gt;
-&lt;p&gt;基于前文关于执法动态和法律问题的论述，境内公司为境外公司线上敏感业务提供服务面临的合规风险较高，建议境内公司进行合规尽职调查及合规风险评估，考察境外公司的商业模式，高度注意境外公司是否采取有效措施切断同中国法域的联系、确保相关行为在境内不涉及违法、犯罪，包括但不限于：&lt;/p&gt;
-&lt;p&gt;（ 1 ）屏蔽境内 IP 地址；                        &lt;/p&gt;
-&lt;p&gt;（ 2 ）不使用人民币进行支付结算；&lt;/p&gt;
-&lt;p&gt;（ 3 ）不使用简体中文进行实质性描述；&lt;/p&gt;
-&lt;p&gt;（ 4 ）不在境内开展宣传推广活动；&lt;/p&gt;
-&lt;p&gt;（ 5 ）提供服务前应明确告知不针对境内公民提供相关业务。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:15:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983558#reply1</guid></item><item><title>[分享发现] 整了个在线版的仙剑 1，打开网页即玩，随时怀旧~</title><link>https://www.v2ex.com/t/983557#reply5</link><description>&lt;p&gt;项目地址：&lt;br /&gt;
-&lt;a href="https://sdlpal.axxx.one/" rel="nofollow"&gt;https://sdlpal.axxx.one/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;基于 sdlpal 的 wasm demo 二次开发，增加了以下功能    &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;自动下载游戏文件  &lt;/li&gt;
-&lt;li&gt;存档导入/导出  &lt;/li&gt;
-&lt;li&gt;屏幕尺寸自动适配  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;计划中功能： &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;移动端适配（控制、样式、ios add to home)  &lt;/li&gt;
-&lt;li&gt;基于 vercel 的云存档  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;大家可以把玩一下，顺便招募下愿意折腾的人，一起完善下项目&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:13:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983557#reply5</guid></item><item><title>[生活] 活着太难了，一身病，没工作，不知道怎么办了</title><link>https://www.v2ex.com/t/983556#reply1</link><description>&lt;p&gt;38 了，父亲三年前走了，我就慢慢越来越焦虑了，现在确诊了焦虑症+强迫思维，整体控制不住的胡思乱想，现在吃心理方面的药好了一些，吃了舍曲林和阿普挫仑。&lt;/p&gt;
-&lt;p&gt;现在除了心理问题，还有胃食管返流、糖尿病、药物性鼻炎、高血脂、颈动脉斑块、高尿酸，最近尿尿总尿频尿不干净，去医院又发现了个 6mm 直径的肾结石。&lt;/p&gt;
-&lt;p&gt;自从父亲走了以后，做事唯唯诺诺，干什么都纠结，干什么都害怕，整体吃一堆药，找工作年龄大也找不到合适的，体力心理都力不从心了。&lt;/p&gt;
-&lt;p&gt;该怎么办呢？&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 10:04:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983556#reply1</guid></item><item><title>[MySQL] mysql 分页查询怎么保证数据不重复？</title><link>https://www.v2ex.com/t/983555#reply2</link><description>现有 joiner 表要分页展示，要按更新时间倒序排，更新时间会变化，怎么保证分页不重复？&lt;br /&gt;想过用下一页用 updated_at &amp;lt; "上一页的最后一条更新时间", 如果存在相同的更新时间可能导致丢数据&lt;br /&gt;&lt;br /&gt;大家有什么好的办法吗</description><pubDate>Thu, 19 Oct 2023 10:02:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983555#reply2</guid></item><item><title>[生活] 2023 年，重疾险有推荐的吗？</title><link>https://www.v2ex.com/t/983554#reply2</link><description>&lt;p&gt;怕半死不活&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 09:58:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983554#reply2</guid></item><item><title>[问与答] 有没有好用的外国手机号推荐，主要是用来外区 app 注册。</title><link>https://www.v2ex.com/t/983553#reply7</link><description>&lt;p&gt;突然意识到外区 app 最好还是用外国手机号来注册或者绑定吧，现在越来越来严了，怕被请去喝茶，求推荐好用的外国手机号。&lt;/p&gt;
-&lt;p&gt;1.现在是在用 x 、tg 、gmail 。
-&lt;a href="http://2.tg" rel="nofollow"&gt;2.tg&lt;/a&gt; 现在用的是国内手机号，感觉比较危险，想换个外国手机号绑定一下。
-3.外国手机号也就是用来接收个验证码，最好是便宜一些的。
-4.能自己注册的邮到家的最好了，怕批量注册封一批的，不自注册也无所谓，只要安全就好。&lt;/p&gt;
-&lt;p&gt;搜前边的贴子有看到 Skinny ，没有月租，不知道现在能不能用了，还有没有更好的。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 09:57:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983553#reply7</guid></item><item><title>[酷工作] 发个我司 Kong 明星产品 Mesh 的招聘广告： Software Engineer, Sustaining - Shanghai/Beijing</title><link>https://www.v2ex.com/t/983552#reply0</link><description>&lt;p&gt;有 Go 和 K8s 开发经验的童鞋看过来，我司明星产品 Service Mesh 招聘 Software Engineer, Sustaining - Shanghai/Beijing&lt;/p&gt;
-&lt;p&gt;优先上海，其次北京，属于工程团队，面向客户侧开发多些，团队成员多数在欧洲，需英语口语流利。 &lt;/p&gt;
-&lt;p&gt;欢迎对这个岗位感兴趣且满足要求的同学发送简历给我： &lt;a href="mailto:chitty.li@konghq.com"&gt;chitty.li@konghq.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 09:54:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983552#reply0</guid></item><item><title>[投资] 我是觉得什么时候大家都认为中国房地产会崩盘 
-A 股才会见底</title><link>https://www.v2ex.com/t/983551#reply1</link><description>&lt;p&gt;你们觉得呢，我是挺怕的，但现在看着大家都觉得兜底兜得住（结果不重要），但基本上要有 80% 人认为房地产会崩盘才行&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 09:52:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983551#reply1</guid></item><item><title>[问与答] 如何申请香港身份？</title><link>https://www.v2ex.com/t/983548#reply0</link><description>有人申请过香港身份么？本人上海科技外企工作，管理岗，有上海户口，为了娃读书，想问转香港身份难度大么？</description><pubDate>Thu, 19 Oct 2023 09:45:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983548#reply0</guid></item><item><title>[分享创造] 有没有人玩 Facebook 推广的</title><link>https://www.v2ex.com/t/983546#reply0</link><description>我这边交流一下广告推送经验  &lt;br /&gt;&lt;br /&gt;	v:lii_y-_-</description><pubDate>Thu, 19 Oct 2023 09:42:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983546#reply0</guid></item><item><title>[iPhone] 官网 Apple trade in 回收 12PM 256</title><link>https://www.v2ex.com/t/983544#reply1</link><description>&lt;p&gt;前几天线上检测价值 3350 元，于是下单现金置换，今天机器已经被顺丰拿走了，后续各位可以关注下，有问题我会在此贴记录&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 09:35:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983544#reply1</guid></item><item><title>[iCloud] 买台新设备注册个新 ID 就送 6 个月 2TB 和 AppleMusic 可以开家庭共享给老账户。立省 498 元。设备退掉了 iCloud Applemusic 都还在</title><link>https://www.v2ex.com/t/983543#reply0</link><description></description><pubDate>Thu, 19 Oct 2023 09:18:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983543#reply0</guid></item></channel></rss>
+&lt;p&gt;围观地址 &lt;a href="https://xn--yp9h.eu.org/" rel="nofollow"&gt;https://xn--yp9h.eu.org/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:39:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983621#reply2</guid></item><item><title>[问与答] 还款和转帐的区别是什么？</title><link>https://www.v2ex.com/t/983620#reply9</link><description>&lt;p&gt;今天才发现支付宝-&amp;gt;我的-&amp;gt;银行卡-&amp;gt;具体某张卡，信用卡显示的是还款，储蓄卡显示的是转入。这俩有啥区别么？难道还款会有限偿还信用卡提前消费的金额？&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:39:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983620#reply9</guid></item><item><title>[AirPods] 我弟 airpods pro 2 连 Apple tv 听，耗电很快。</title><link>https://www.v2ex.com/t/983618#reply0</link><description>&lt;p&gt;大概 5 分钟掉了 5%，掉电太快了，根本撑不到 5 小时，连 iphone 听就很正常，大家有遇到吗？&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:21:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983618#reply0</guid></item><item><title>[生活] 请教下懂宽带网络的 V 友,关于家宽 tcp 并发连接限制问题</title><link>https://www.v2ex.com/t/983617#reply8</link><description>&lt;p&gt;先说下设备
+光猫:中兴 g7615
+路由:GT-AX6000&lt;/p&gt;
+&lt;p&gt;场景:
+我在同路由器下搭了一台 debian 做 web 服务,然后通过路由器端口转发提供外网访问&lt;/p&gt;
+&lt;p&gt;我在都单独测了光猫下的内网,和路由器下的内网
+100 个并发 http 请求,都是在毫秒内完成的&lt;/p&gt;
+&lt;p&gt;但是当请求出了光猫之后,再绕回来,在多并发的情况下就出现了严重的延迟,
+而且所有机器 ping 光猫(192.168.1.1)的延迟也从 1ms 提高到 50-600ms
+但是 ping 路由器(192.168.50.1) 却还是 1ms&lt;/p&gt;
+&lt;p&gt;求教这是哪里出了问题?
+是光猫的上游的限制,导致了延迟吗?&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:13:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983617#reply8</guid></item><item><title>[生活] 对生活缺乏激情，没有目标怎么办？</title><link>https://www.v2ex.com/t/983615#reply15</link><description>男 30 多岁，已婚，未育，二线有房。和老婆算比较恩爱，然后空余时间就是玩 dota2 。对传宗接代生孩子没啥激情，属于可有可无，目前还没确定要不要生。欧洲，拉美旅游过，加勒比小国家工作过 3 年。&lt;br /&gt;就觉得自己的欲望从 20 多岁开始逐年降低，既不悲观也不乐观，遇到好事也不太高兴，坏事也不太难过。突发状况也不太吃惊，和父母的感情也很淡薄。&lt;br /&gt;今年回国休了个假又出国，觉得国内也没意思，国外也没意思，旅游也就那样。&lt;br /&gt;生孩要么学中山靖王生 200 个，要么还是遇到点天灾战乱还是随随便便就绝种了，所谓传宗接代的也没啥意义。&lt;br /&gt;现在能提起点兴趣的除非 [星际旅行 or 永生 or 当皇帝] 汗..&lt;br /&gt;我不会抑郁自杀，就是不知道人生的意义是什么</description><pubDate>Thu, 19 Oct 2023 15:01:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983615#reply15</guid></item></channel></rss>
