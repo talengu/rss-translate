@@ -1,127 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 19 Oct 2023 21:21:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Google] 谷歌浏览器最新版，最最最左上角的箭头怎么关？快折磨死我了</title><link>https://www.v2ex.com/t/983641#reply2</link><description>主要我还不知道这功能到底叫什么！！！！</description><pubDate>Thu, 19 Oct 2023 20:37:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983641#reply2</guid></item><item><title>[硬件] 爱格升 + Studio Display 逼死强迫症</title><link>https://www.v2ex.com/t/983640#reply0</link><description>显示器支架是爱格升 LX 。感觉并没有达到预期。&lt;br /&gt;&lt;br /&gt;首先调节并没有想象中的丝滑，前后倾角已经调到最松但还是太紧。这就导致任何调整都需要两只手，搞得显示器上全是手印。&lt;br /&gt;&lt;br /&gt;但最坑的点是无法使屏幕始终保持在水平位置。如果不需要旋转屏幕，安装的时候可以选择上一个螺丝来锁定。但由于各种公差考量，其实还是可以轻微调整水平旋转。重点来了。当你辛辛苦苦调整好水平位置后，一旦把屏幕调整到一个其他的位置，那水平旋转就基本白调了。一是因为水平位置无法完全锁定。在调整位置的时候很容易就把水平位置碰歪了。但最根本的原因是因为机械臂的转轴有公差。一旦屏幕位置变了，力矩会被放大。比如屏幕在右边的时候调整好水平旋转，再把屏幕放到左边，屏幕就会往左边歪而失去水平位置。这是一个设计缺陷，因为转轴处的公差正是为了调整转轴的阻尼而设置的。如果上紧转轴的螺丝来减小转轴的间隙，那转轴就转不动，屏幕也就无法调整了。&lt;br /&gt;&lt;br /&gt;最后还是把 VESA 版退了换标准版了。</description><pubDate>Thu, 19 Oct 2023 20:00:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983640#reply0</guid></item><item><title>[Linux] Wireguard 端口转发问题</title><link>https://www.v2ex.com/t/983638#reply8</link><description>我的网络拓扑图如下：&lt;br /&gt;客户端 &amp;gt;gost 服务器 A:8443 &amp;gt;Wireguard 服务器 B:443&lt;br /&gt;&lt;br /&gt;客户端 直连 Wireguard 服务器 B 没问题的。&lt;br /&gt;客户端 连 gost 服务器 A:8443 就不行。&lt;br /&gt;&lt;br /&gt;以为是 gost 转发的问题，测试了 gost 转发 ssh 到 Wireguard 服务器 B:22 正常。&lt;br /&gt;&lt;br /&gt;以为 gost 转发 UDP 不行，测试了 gost 转发 dns 到 Wireguard 服务器 B:53 也正常。&lt;br /&gt;&lt;br /&gt;说明问题不在 gost 转发上。是不是 Wireguard 不兼容这种端口转发场景？是不是客户端上的 Wireguard 在改路由表时只会自动排除 Wireguard 服务器 B ？这样导致把去往 gost 服务器 A:8443 的流量也倒到隧道上去了？</description><pubDate>Thu, 19 Oct 2023 18:27:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983638#reply8</guid></item><item><title>[问与答] 有没有类似腾讯会议那样不依赖浏览器实现简单会议功能的软件呀？</title><link>https://www.v2ex.com/t/983637#reply4</link><description>&lt;p&gt;周末要弄两个网络会议室，虽然能用腾讯会议，但是受限于 3 人以上会议就要 60 分钟断一次，而且这地方的网线年久失修，时不时就弹一个网络状态不佳，但是用腾讯会议的检测工具又没问题。&lt;/p&gt;
-&lt;p&gt;所以就想着有没有一个类似腾讯会议的开源的会议软件，可以部署在纯内网的环境就可以跑起来，功能不需要复杂，就两个，什么权限控制啊，登录注册啊全都不要：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 20 Oct 2023 05:01:16 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 求助，请教下各位大佬这是个什么病毒。。。</title><link>https://www.v2ex.com/t/983775#reply0</link><description>&lt;p&gt;背景: 跟着 FRP 教程 &lt;a href="https://sspai.com/post/52523" rel="nofollow"&gt;https://sspai.com/post/52523&lt;/a&gt; 试图搭一个网站玩玩&lt;/p&gt;
+&lt;p&gt;使用搬瓦工服务器搭建 FRP 内网穿透，主机是局域网的 WIN11 电脑的 NGINX 8080 端口（纯静态 HTML 网站），外网开放了 3 个端口: SSH(搬瓦工面板自动生成的强密码，我自己都记不住的那种)，FRP 接入端口以及 WEB 80 端口(非 HTTPS 但开启了 FRP 自带的加密)。搬瓦工服务器没有开防火墙，内网主机没有远程登录密码（我以为最多黑我外网主机，不至于顺着网线打我内网。。。）&lt;/p&gt;
+&lt;p&gt;结果疑似内网的自用电脑被入侵，卡巴斯基报端口扫描以及奇怪时间段的程序操作(半夜 2 点多我都是关机的，细思极恐)，AVAST 报 HTM 格式木马(文件夹在卡巴斯基下面且没有权限打开，还连续报了好几次)，explorer.exe 还有次堆栈溢出电脑白屏。。。但 CMD 查询 NETSTAT -ANO 之后，并没有发现可疑程序（也可能是藏起来了我没发现)&lt;/p&gt;
+&lt;p&gt;目前重装了一下系统，卡巴斯基文件夹里也就没有被报毒了，但还是很好奇之前是不是中毒了，以及 FRP 以后如何保证安全。。。&lt;/p&gt;
+&lt;p&gt;以下是一些截图
+&lt;a href="https://photos.app.goo.gl/kvVxPuK5xfWxRu7h7" rel="nofollow"&gt;https://photos.app.goo.gl/kvVxPuK5xfWxRu7h7&lt;/a&gt;
+&lt;a href="https://photos.app.goo.gl/BxZnSFmVF6SxKk3U6" rel="nofollow"&gt;https://photos.app.goo.gl/BxZnSFmVF6SxKk3U6&lt;/a&gt;
+&lt;a href="https://photos.app.goo.gl/Z3wXAhP55HU9sdBV8" rel="nofollow"&gt;https://photos.app.goo.gl/Z3wXAhP55HU9sdBV8&lt;/a&gt;
+&lt;a href="https://photos.app.goo.gl/fbyVc1RYHrK7DqHa8" rel="nofollow"&gt;https://photos.app.goo.gl/fbyVc1RYHrK7DqHa8&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983775#reply0</guid></item><item><title>[Telegram] 做了一个分享好用资源的 telegram 频道</title><link>https://www.v2ex.com/t/983774#reply0</link><description>&lt;h1&gt;做了一个分享好用 app 的 telegram 频道，不仅有好用的 app 还有趣站，资源分享&lt;/h1&gt;
+&lt;p&gt;希望大家能关注一下，出于自己的爱好，正好把频道当成自己的收藏夹，分享给大家，也希望有能帮助到大家的资源。
+&lt;a href="https://t.me/app_snitch" rel="nofollow"&gt;https://t.me/app_snitch&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:50:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983774#reply0</guid></item><item><title>[问与答] 腾讯文档如何批量导出</title><link>https://www.v2ex.com/t/983773#reply0</link><description>&lt;p&gt;用了挺久的腾讯文档，在上面积累了不少文档，为了避免某天因为奇怪的原因被删除，想导出来备份下，没找到批量导出的地方，应该是腾讯故意不想让用户迁移的。请问有现成的工具支持批量导出吗？&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:45:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983773#reply0</guid></item><item><title>[Apple] App Store 未来区域策略猜测</title><link>https://www.v2ex.com/t/983772#reply1</link><description>&lt;p&gt;新推出的国行 iPad 支持了 esim ，但存在限制，具体限制如下：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;主持人需要像腾讯会议一样可以同时推流满分辨率的屏幕和摄像头&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可以由其他的多位参会者选择看主持人的屏幕或者摄像头，在选择看一项时，其他项需要像腾讯会议的演讲者模式一样在右排或上排以便参会者随时切换&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;国行设备根据定位，仅在境外支持境外 esim 。&lt;/li&gt;
+&lt;li&gt;非国行设备禁止安装国内 esim 。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;学艺不精的我今天试了不少其它的软件，但都不尽我意。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;obs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这是我一直就用的软件，不过我是一直拿来录屏，用起来很舒服，但是没办法像会议软件一样可以以满分辨率屏幕和摄像头同时推两路，也或许是我不会调&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;SRS 实时视频服务器&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;成功在内网搭起来了，不过我只会拿来和 obs 搭配单推屏幕或单推摄像头然后到参会者电脑用 VLC 播放，还是不符合要求&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Jitsi meet&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;成功在内网环境起来了，也确实能做到跟腾讯会议类似的效果，可是它依赖浏览器，我用 chrome 单推屏幕的时候 fps 会限制在 5 ～ 10 ，太难受了，一步一卡。
-这么低的 fps 太难受了，跟用 obs 单推流是天壤之别&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;后面我查了下 jitsi meet 的 issue ，发现这是浏览器的限制，虽然会议软件用浏览器做平台会少写很多代码，但这个个位数的 fps 让我着实难受所以不得不放弃了以浏览器为平台的软件。&lt;/p&gt;
-&lt;p&gt;这样以来能选择的软件就很少了，像是 BigBlueButton 也是纯浏览器平台的。&lt;/p&gt;
-&lt;p&gt;所以想问一下平常接触多这种开源视频直播或者网络会议室的大佬知道有没有一款可以满足我那两点需求的可以不浪费内网带宽可以在纯内网环境的软件呀？&lt;/p&gt;
-&lt;p&gt;就算不是开源的也行啊，只要能在内网用，会议直播的内容不需要过公网！&lt;/p&gt;
-&lt;p&gt;不然的话还是得叫领导买两个腾讯会议会员凑合用了&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 18:02:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983637#reply4</guid></item><item><title>[Apple] APPLE TV 7 代 128 京东海外自营特惠</title><link>https://www.v2ex.com/t/983636#reply0</link><description>&lt;p&gt;已入，1209 到手，各种券领一波先。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:50:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983636#reply0</guid></item><item><title>[奇思妙想] 站长能开个直播/录播相关的节点嘛？</title><link>https://www.v2ex.com/t/983635#reply0</link><description>&lt;p&gt;有时候买硬件，或者使用软件及设置都需要一些经验丰富的人来指点，或者大家互通有无， 如果能设置一个这样的节点，那么善莫大焉。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:44:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983635#reply0</guid></item><item><title>[程序员] 请教一下如何低成本实现一个场地计费管理系统？</title><link>https://www.v2ex.com/t/983633#reply7</link><description>&lt;p&gt;客户预算 2w 以内，需要实现以下功能：
-1 、会员卡功能，会员卡可以充值并抵扣场地费，办理会员卡的场地收费打折扣。
-2 、场地计费与灯控功能：进行场地计费，离场时扣费（只需支持现金/会员卡扣费即可）。需要联动灯光控制，开始计费时开灯，结束计费关灯。结束计费后自动打印消费小票。
-3 、报表功能，各项财务报表等。
-4 、要有源码。&lt;/p&gt;
-&lt;p&gt;市面上看了很多，都是 SAAS 性质的，没有那种提供源码的，去哪儿找好一点呢。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 17:07:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983633#reply7</guid></item><item><title>[程序员] 突来灵感, 设计两个 PHP 常用的快捷键.</title><link>https://www.v2ex.com/t/983631#reply2</link><description>&lt;p&gt;突来灵感, 设计两个 PHP 常用的快捷键.&lt;/p&gt;
-&lt;p&gt;PHP 的箭头符号访问方法或属性, 这个设计非常不好, 这个符号需要按两个组合键,并且距离都很远.
-受够了这样的设计, 于是我把它通过 Karabiner 设计为快速敲两下减号 - 实现 -&amp;gt;, 完成后觉得非常 OK.
-但是用了两天之后发现不够完美, 因为经常使用命令行, 很多参数是 --p 这样的形式, 敲快了就会误触发为 -&amp;gt;,
-而刻意敲慢也终究不够随意.&lt;/p&gt;
-&lt;p&gt;于是我的天才想法诞生了。&lt;/p&gt;
-&lt;p&gt;换一个思路，敲 - =  为 -&amp;gt; ，这样多快多慢都无影响了，原本的 - - 也不受影响了。
-另外顺带的，设置 = -  为 =&amp;gt; ，对应 PHP 的数组箭头，PHP 这两个最常用的符号设计成最难敲的符号，真不知道怎么想的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;= 和 = -  都不是常用的符号，后者根本没有。可以放心了，完美。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 19 Oct 2023 16:51:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983631#reply2</guid></item><item><title>[Android] 谈谈 星闪 的未来</title><link>https://www.v2ex.com/t/983630#reply21</link><description>参考 WAPI ，比如 国行 iPhone 3GS 当年不支持 WiFi ，因为国家要推 WAPI ，后来放宽限制 iPhone4 以后的 iPhone 支持 WiFi 和 WAPI 。现在设置里国行 iPhone 是 WLAN ，因为是 WAPI + WiFi ，国际版仅支持 WiFi 。 有用过 WAPI 可以谈谈体验。&lt;br /&gt;&lt;br /&gt;同样星闪只是因为华为推的，其他国家（其他友商）不跟你玩。 个人非常不看好，因为短距离（窄带宽）通信有蓝牙远距离（大带宽）有 Wi-Fi ， 除非 华为 能找到一个非 星闪 不可的场景，而且还要能推广到海外。</description><pubDate>Thu, 19 Oct 2023 16:45:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983630#reply21</guid></item><item><title>[问与答] 求救： Netflix 倍速播放后字幕和声音不同步</title><link>https://www.v2ex.com/t/983628#reply0</link><description>开启 1.25 倍或 1.5 倍速度播放后，会出现字幕和声音不同的的情况，iPhone12 、iPhone 15 Pro 、iPad Pro 2021 都存在这个问题，已经好长一段时间了，更新系统和软件版本都解决不了。</description><pubDate>Thu, 19 Oct 2023 16:32:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983628#reply0</guid></item><item><title>[求职] 23 届末流 985 本，无工作经验，求各位给给建议</title><link>https://www.v2ex.com/t/983627#reply4</link><description>&lt;p&gt;软工专业，大学划水过去，无实习经验。
-对 C++的各种面试常见内容熟悉、面向对象 stl 等
-计网操作系统多线程数据结构等有个基本了解&lt;/p&gt;
-&lt;p&gt;目前应该往哪个方向走
-1 、继续找
-2 、转语言
-3 、考公&lt;/p&gt;
-&lt;p&gt;另外求看得上的公司，只要求双休别的无所谓&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 16:32:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983627#reply4</guid></item><item><title>[分享发现] 記一次 YouTube 因「擋廣告」被封鎖的經歷</title><link>https://www.v2ex.com/t/983626#reply2</link><description>&lt;p&gt;自己一直以來都在使用 AdGuard （收費版） 擋廣告，YouTube 自然不例外。
-前幾日都見到 YouTube 給我推「廣告攔截器的使用違反 YouTube 的 ToS 」之類的彈窗，但因為只是一般的警告，我就沒太在意。直到今日開始收到倒數 3 條片的彈窗，我慌了。
-一開始立即就關閉了 AdGuard ，重新整理網頁，彈窗依舊，真是怪事。我一臉疑惑的關閉系統所有的擋廣告軟體，窗口還在。直到最後 3 個倒計都用完，我徹底被 YouTube 封鎖了。
-但是結局還是有點哭笑不得，發現是一個從來都沒想過的插件 YouTube Enhancer （可能是沒有更新的版本？）攔截了不知道什麼東西導致 YouTube 檢測到其他的「廣告攔截工具」，關了之後完全沒問題，AdGuard 在 Handle 住廣告的時候亦都可以 Handle 檢測，差點就錯怪他了。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 16:20:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983626#reply2</guid></item><item><title>[分享发现] 007idc 这家是真把客户当傻子啊哈哈（乐子+避雷）</title><link>https://www.v2ex.com/t/983625#reply10</link><description>&lt;p&gt;从这件事体会到真就是 最终解释权归老子所有呗&lt;/p&gt;
-&lt;p&gt;前提：这家 13 号被人干了，所有服务器数据基本删光，处理完就是该给用户赔偿了。&lt;/p&gt;
-&lt;p&gt;赔偿规则：赔偿机器从 13 号开始算的剩余时间的 2 倍 或者 等额退款。&lt;/p&gt;
-&lt;p&gt;故事开始：
-我当时正好有个机器从 13 号开始算还有 25 天结束，以为能赔 50 天，即 25+50=75 天后过期。
-今天赔完了，一看，怎么就 50 天就过期
-一问客服，好嘛，人家赔偿是指 从 13 号开始+2 倍时长
-也就是算下来 只赔了一倍的时长
-我想这个数学计算，我应该没理解错吧&lt;/p&gt;
-&lt;p&gt;哈哈哈，太厉害了&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:54:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983625#reply10</guid></item><item><title>[奇思妙想] 有没有真人 NPC 的网络 RPG 游戏？</title><link>https://www.v2ex.com/t/983623#reply4</link><description></description><pubDate>Thu, 19 Oct 2023 15:40:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983623#reply4</guid></item><item><title>[分享创造] 分析 vue 代码并提供优化建议的工具更新啦！</title><link>https://www.v2ex.com/t/983622#reply0</link><description>&lt;p&gt;三二一上链接！&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://hook.huali.cafe/" rel="nofollow"&gt;vue-hook-optimizer playground&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="demo" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2023-10-19_23-28-22.png" /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;新功能&lt;/h2&gt;
-&lt;p&gt;距离上一个帖子发布已经过去 70 天了，这次带来了更多新功能。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;支持了 &lt;code&gt;composition api&lt;/code&gt; 和 &lt;code&gt;options api&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;支持根据关系图 &lt;strong&gt;提供优化建议&lt;/strong&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;提供了 vscode 扩展，方便直接查看图和优化建议，并且能直接点击节点跳转至对应的代码&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;支持展示节点的注释信息&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h2&gt;动机&lt;/h2&gt;
-&lt;p&gt;给新来的小伙伴说一下项目的动机。&lt;/p&gt;
-&lt;p&gt;当你接手了一个复杂的 vue 项目时，经常会有单个 vue 组件里超级多的代码，逻辑都揉在一起，存在大量的中间变量和方法暴露在模板中，而且注释也不是很完整。&lt;/p&gt;
-&lt;p&gt;所以想要有一个工具能够帮我分析一下，哪些部分是耦合比较高的，哪些部分是完全不相关的或者关联比较少的，然后可以把代码抽成独立的模块，这样也更容易测试。&lt;/p&gt;
-&lt;p&gt;最后，欢迎大家点击上面的链接尝试，或者到 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;项目主页&lt;/a&gt; 点个 🌟 。&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:40:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983622#reply0</guid></item><item><title>[程序员] 基于 localstorage 存储的 TOTP 管理工具更新</title><link>https://www.v2ex.com/t/983621#reply2</link><description>&lt;p&gt;原 &lt;a href="https://totp.xn--9tr.com/" rel="nofollow"&gt;https://totp.xn--9tr.com/&lt;/a&gt; 做的比较粗糙，包括展示以及兼容性方面都没有后续的考虑。&lt;br /&gt;
-最近一直在(ChatGPT 的帮助下)努力让其变得(相对)更易用，V2 版本来了。  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;BUG：有些提示的逻辑可能有问题，一般会在刷新后解决，不影响正常使用。   &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;目前的界面如下：&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/b447d07fbaedb69b82418.png" /&gt;&lt;/p&gt;
-&lt;p&gt;主要功能：  &lt;/p&gt;
+&lt;p&gt;根据这个策略，有没有可能国内 App Store 账号也会如此限制，即：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;增&lt;br /&gt;
-可以手动表单添加、可以自动解析(支持 otpauth schema url 、网站提供的二维码、google authenticator 导出的二维码)&lt;/li&gt;
-&lt;li&gt;删、改(issuer|account)、查(secret)、单个导出
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/aef51e33481c0b27aa79b.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/4c1f109efb77d52ebc2ef.png" /&gt;&lt;/li&gt;
-&lt;li&gt;同步&lt;br /&gt;
-先在 &lt;a href="https://gist.github.com/" rel="nofollow"&gt;https://gist.github.com/&lt;/a&gt; 创建一个 Gist ，其中的 Filename 为&lt;code&gt;totp_secret_v2_backup.json&lt;/code&gt;（重要数据，不要选公开权限），然后点击 Github 图标按钮登录后点击 上传|下载 即可将相关数据同步。（当然，此处依赖客户端能够访问到 Github 网络，相信在 V2 不会是问题。因&lt;code&gt;&lt;a href="https://github.com/login/oauth/access_token" rel="nofollow"&gt;https://github.com/login/oauth/access_token&lt;/a&gt;&lt;/code&gt;有跨域问题，Github 本意此接口不允许在纯前端调用，所以此处使用自己的域名进行反代，以保证能够在前端正常获取到相关操作权限。）&lt;/li&gt;
-&lt;li&gt;批量导出&lt;br /&gt;
-JSON 文件的 导入|导出 ，点击相关按钮即可体验。目前未兼容导出到其他通用的格式，后续可能会兼容 google authenticator 。&lt;/li&gt;
-&lt;li&gt;其他&lt;br /&gt;
-一切数据都在 localstorage, 清理浏览器数据前请备份！善用 导出 以及 同步 功能。&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.lu/upload/2c388daeedf13cb56b3a3.png" /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;围观地址 &lt;a href="https://xn--yp9h.eu.org/" rel="nofollow"&gt;https://xn--yp9h.eu.org/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:39:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983621#reply2</guid></item><item><title>[问与答] 还款和转帐的区别是什么？</title><link>https://www.v2ex.com/t/983620#reply9</link><description>&lt;p&gt;今天才发现支付宝-&amp;gt;我的-&amp;gt;银行卡-&amp;gt;具体某张卡，信用卡显示的是还款，储蓄卡显示的是转入。这俩有啥区别么？难道还款会有限偿还信用卡提前消费的金额？&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:39:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983620#reply9</guid></item><item><title>[AirPods] 我弟 airpods pro 2 连 Apple tv 听，耗电很快。</title><link>https://www.v2ex.com/t/983618#reply0</link><description>&lt;p&gt;大概 5 分钟掉了 5%，掉电太快了，根本撑不到 5 小时，连 iphone 听就很正常，大家有遇到吗？&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:21:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983618#reply0</guid></item><item><title>[生活] 请教下懂宽带网络的 V 友,关于家宽 tcp 并发连接限制问题</title><link>https://www.v2ex.com/t/983617#reply8</link><description>&lt;p&gt;先说下设备
-光猫:中兴 g7615
-路由:GT-AX6000&lt;/p&gt;
-&lt;p&gt;场景:
-我在同路由器下搭了一台 debian 做 web 服务,然后通过路由器端口转发提供外网访问&lt;/p&gt;
-&lt;p&gt;我在都单独测了光猫下的内网,和路由器下的内网
-100 个并发 http 请求,都是在毫秒内完成的&lt;/p&gt;
-&lt;p&gt;但是当请求出了光猫之后,再绕回来,在多并发的情况下就出现了严重的延迟,
-而且所有机器 ping 光猫(192.168.1.1)的延迟也从 1ms 提高到 50-600ms
-但是 ping 路由器(192.168.50.1) 却还是 1ms&lt;/p&gt;
-&lt;p&gt;求教这是哪里出了问题?
-是光猫的上游的限制,导致了延迟吗?&lt;/p&gt;</description><pubDate>Thu, 19 Oct 2023 15:13:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983617#reply8</guid></item><item><title>[生活] 对生活缺乏激情，没有目标怎么办？</title><link>https://www.v2ex.com/t/983615#reply15</link><description>男 30 多岁，已婚，未育，二线有房。和老婆算比较恩爱，然后空余时间就是玩 dota2 。对传宗接代生孩子没啥激情，属于可有可无，目前还没确定要不要生。欧洲，拉美旅游过，加勒比小国家工作过 3 年。&lt;br /&gt;就觉得自己的欲望从 20 多岁开始逐年降低，既不悲观也不乐观，遇到好事也不太高兴，坏事也不太难过。突发状况也不太吃惊，和父母的感情也很淡薄。&lt;br /&gt;今年回国休了个假又出国，觉得国内也没意思，国外也没意思，旅游也就那样。&lt;br /&gt;生孩要么学中山靖王生 200 个，要么还是遇到点天灾战乱还是随随便便就绝种了，所谓传宗接代的也没啥意义。&lt;br /&gt;现在能提起点兴趣的除非 [星际旅行 or 永生 or 当皇帝] 汗..&lt;br /&gt;我不会抑郁自杀，就是不知道人生的意义是什么</description><pubDate>Thu, 19 Oct 2023 15:01:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983615#reply15</guid></item></channel></rss>
+&lt;li&gt;国行设备根据设备定位，仅在出境后允许登陆外区账号&lt;/li&gt;
+&lt;li&gt;仅有国行设备支持大陆区账号。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 20 Oct 2023 04:43:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983772#reply1</guid></item><item><title>[macOS] 你们的 Sonama 的桌面组件耗电吗？</title><link>https://www.v2ex.com/t/983770#reply0</link><description>&lt;p&gt;我开启之后，不知道是不是心理作用，感觉耗电很快，就开了天气和 iphone 的一个组件&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:36:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983770#reply0</guid></item><item><title>[问与答] 索尼电视需要预留哪些线</title><link>https://www.v2ex.com/t/983769#reply4</link><description>&lt;p&gt;准备挂墙装索尼 85X90L ，后面的接口有这些，已经留了管子放线，请问需要预留哪些线呢？感谢&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://markdown-pic-blackboxo.oss-cn-shanghai.aliyuncs.com/20231020123403.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:34:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983769#reply4</guid></item><item><title>[北京] 中关村地区男女比怎么样</title><link>https://www.v2ex.com/t/983768#reply1</link><description>&lt;p&gt;想了解一下中关村地区上班的朋友们，路上感觉男女比如何&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:29:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983768#reply1</guid></item><item><title>[问与答] 如何警惕双十一保价陷阱</title><link>https://www.v2ex.com/t/983767#reply5</link><description>&lt;p&gt;虽然各大平台仍旧喊着双十一保价，但是真心感觉都快被玩坏了。
+比方说：
+猫的一些店铺会告诉你，保价是不能叠加优惠券红包还有 88vip 专属优惠之后的价格。
+狗会每个阶段额外再搞多个自营店铺不同价格出售相同产品（型号相同 id 不同），导致实际降价了但是你去问他们会说不是一家店。
+那么问题来了，怎么提防最后一算你高价买的还比低价标的便宜呢？&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:27:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983767#reply5</guid></item><item><title>[PostgreSQL] 哪位大神给一个 golang 访问 postgres 的 stored procedure 的例子代码啊？</title><link>https://www.v2ex.com/t/983766#reply0</link><description>&lt;p&gt;用的是 postgres 11 ，现在想简单试一下（当然这个例子本身没有太多实际用途）。比如根据 id 找到名字。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sql"&gt;CREATE TABLE tabnames(
+    id SERIAL PRIMARY KEY,
+    name TEXT
+);
+
+CREATE OR REPLACE PROCEDURE get_id_by_name(in_id BIGINT, INOUT out_name TEXT)
+LANGUAGE plpgsql
+AS $$
+BEGIN
+    SELECT name INTO out_name FROM tabnames WHERE id = in_id;
+END;
+$$;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我想在 golang 中通过&lt;code&gt;call get_id_by_name()&lt;/code&gt;获取返回的&lt;code&gt;out_name&lt;/code&gt;。怎么都不成功，&lt;code&gt;out_name&lt;/code&gt;总是空的。
+另外，我如果在 psql 命令中，如何调用上面这个 sp ，然后获取名字啊？&lt;/p&gt;
+&lt;p&gt;先感谢各位，再啰嗦一句，这个例子只是为了看看语法上怎么调用。并不讨论实际的目的，当然不想用一个&lt;code&gt;select name from tabnames where id=$1&lt;/code&gt;来 exec 然后 scan 。&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:25:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983766#reply0</guid></item><item><title>[分享创造] 开源一个自己 Python 写的 ChatGPT Telegram Bot</title><link>https://www.v2ex.com/t/983764#reply0</link><description>&lt;p&gt;&lt;img alt="python-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/python-3.9+-blue.svg" /&gt;
+&lt;a href="https://github.com/python-telegram-bot/python-telegram-bot/releases/tag/v20.3" rel="nofollow"&gt;&lt;img alt="python-telegram-bot-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/PythonTelegramBot-20.3+-critical.svg" /&gt;&lt;/a&gt;
+&lt;img alt="db" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/db-MySQL8-ff69b4.svg" /&gt;
+&lt;a href="https://openai.com/" rel="nofollow"&gt;&lt;img alt="openai-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/openai-0.27.6-orange.svg" /&gt;&lt;/a&gt;
+&lt;a href="https://www.v2ex.com/LICENSE" rel="nofollow"&gt;&lt;img alt="license" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /&gt;&lt;/a&gt;
+&lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;&lt;img alt="bot" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/TelegramBot-@RoboAceBot-blueviolet.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bot 地址： &lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;https://t.me/RoboAceBot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub: &lt;a href="https://github.com/V-know/ChatGPT-Telegram-Bot" rel="nofollow"&gt;https://github.com/V-know/ChatGPT-Telegram-Bot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个拥有丝滑 AI 体验的 Telegram Bot&lt;/p&gt;
+&lt;h2&gt;⚡Feature&lt;/h2&gt;
+&lt;p&gt;[✓] 同时支持 Azure OpenAI 和原生 OpenAI 接口&lt;/p&gt;
+&lt;p&gt;[✓] 实时（流式）返回 AI 响应的答案，体验更快捷、更丝滑&lt;/p&gt;
+&lt;p&gt;[✓] 预设 15 种 Bot 身份，可快速切换&lt;/p&gt;
+&lt;p&gt;[✓] 支持自定义 Bot 身份，满足个性化需求&lt;/p&gt;
+&lt;p&gt;[✓] 支持上下文件内容一键清空，随时重开会话&lt;/p&gt;
+&lt;p&gt;[✓] Telegram Bot 原生按钮支持，直观快捷实现需要功能&lt;/p&gt;
+&lt;p&gt;[✓] 用户等级划分，不同等级享有不同单次会话 Token 数量、上下文数量和会话频率&lt;/p&gt;
+&lt;p&gt;[✓] 支持中/英双语切换&lt;/p&gt;
+&lt;p&gt;[✓] More ...&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983764#reply0</guid></item><item><title>[问与答] mac 有没有便宜点好用的外置键盘</title><link>https://www.v2ex.com/t/983763#reply2</link><description>&lt;p&gt;RT ，按键按穿了，不能再战了&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:12:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983763#reply2</guid></item><item><title>[职场话题] 感觉 boss 上的薪资和职能好多都不匹配，还是我水平和认知太低了</title><link>https://www.v2ex.com/t/983762#reply4</link><description>&lt;p&gt;工资下限好多 都是 13k ，15k title 是高级 java ，独立部署上线，熟悉前端 vue ？&lt;/p&gt;
+&lt;p&gt;地点：上海&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:09:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983762#reply4</guid></item><item><title>[职场话题] 运维事故，公司虚拟化服务器 ALL IN BOOM 了</title><link>https://www.v2ex.com/t/983760#reply4</link><description>&lt;p&gt;单机跑的 Proxmox VE ，硬盘超发了，同事为了升级一台虚拟机内 300 多 G 的内部项目，在下班前打包备份全部项目文件到虚拟机本地目录（虚拟机内磁盘剩余 400G ，以为没问题，就先下班了），此时没人知道该虚拟机所在的宿主机物理磁盘实际仅剩余 200 多 G ，结果就是大家都下班后，有其他部门在加班的同事反馈内部系统登录不了，开发数据库也连不上，在家准备远程到公司电脑查看，结果发现 VPN 也登不上了，远程处理不了只能前往公司处理，然后就发现 Proxmox VE 宿主机物理磁盘被干爆了，导致上面跑的好几个内部系统、数据库和 VPN 全部 GG 了，迁移了几个虚拟磁盘到其他物理磁盘后所有服务恢复，总共导致服务中断两小时，还好全部服务都是对内的而且是下班时间，没造成什么大影响，群里通报一下差不多就过去了，自己引以为戒&lt;/p&gt;
+&lt;p&gt;我是刚接手不久，还没来得及优化，已经采购了硬盘，正在路上呢，没想到就挂了。。。&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:05:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983760#reply4</guid></item><item><title>[微信] 微信零钱提现除了支付有礼能兑换免费额度，还有其他途径免费提现吗？</title><link>https://www.v2ex.com/t/983759#reply0</link><description>&lt;p&gt;支付有礼 CD 期太长了&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:02:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983759#reply0</guid></item><item><title>[投资] 棱镜——个人股票投资者的决策辅助工具</title><link>https://www.v2ex.com/t/983758#reply0</link><description>&lt;p&gt;大家好，我们正在面向个人股票投资者研发一款决策辅助工具：棱镜。它能够你的分析和决策逻辑转化为算法代码，利用计算机辅助你共同决策。&lt;/p&gt;
+&lt;p&gt;它的核心思想强调过程而非结果，认为许多眼前情景都是类似情景的再现。&lt;/p&gt;
+&lt;p&gt;核心运转逻辑是：辅助你利用自定义框架工具构建自己对某行业或某企业的分析框架和决策框架，填充对应内容和思考判断，形成自己的分析决策逻辑，将分析决策逻辑转化为计算机语言中的算法代码，引入历史数据到算法中，检验分析决策逻辑的运转情况。同时棱镜会随机挑选某时段某企业的极端数据来让你检测修正你的分析决策逻辑，并会提供众多景经典的决策理论知识、决策案例和跨学科知识内容。以上一切功能的目的是为了辅助个人投资者提升正确决策概率，降低误判概率。&lt;/p&gt;
+&lt;p&gt;目前我们团队很小，产品和 demo 还没做出来，UI 图也还没做因为可能会改，如果大家对棱镜产品有兴趣的话欢迎访问棱镜网站：&lt;a href="http://prismray.cn" rel="nofollow"&gt;prismray.cn&lt;/a&gt; ，若您想第一时间试用棱镜，请点击 [ demo 上线提醒] 输入自己的邮箱，上线后将第一时间发送给你体验链接。&lt;/p&gt;
+&lt;p&gt;若认为棱镜对您非常有用，未来希望使用棱镜内测版，并希望以历史最低价格购买棱镜，欢迎在网站中自选，我们感谢付费者的信任，并可开发票以确保您的权益得到履行。（首批付费者不超过 500 人，以确保能够支撑）&lt;/p&gt;
+&lt;p&gt;若要了解棱镜更多详情，欢迎访问棱镜网站：&lt;a href="http://prismray.cn" rel="nofollow"&gt;prismray.cn&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 04:02:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983758#reply0</guid></item><item><title>[问与答] 自己名下挂了五张电信卡，想注销怎么解决</title><link>https://www.v2ex.com/t/983757#reply2</link><description>&lt;p&gt;本来公司人事部给我们部门办理几张卡，自己部门使用，实名认证的时候一下给我挂了五张卡，没几天就被本公司抖音电商运营部门给换走了，至于拿去干什么用我也不清楚最近想辞职跑路了。有没有办法把这一个问题给解决一下&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 03:59:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983757#reply2</guid></item><item><title>[iPhone] iPhone 15P 和 PM 的 action 按键的玩法</title><link>https://www.v2ex.com/t/983755#reply15</link><description>&lt;p&gt;偶然间看到这个快捷方式，简直无敌&lt;/p&gt;
+&lt;p&gt;1 、先安装 名字叫 actions 的 app
+2 、把 action 按键设置成这个快捷指令
+3 、快捷指令可以自己根据习惯修改一下相应功能，既不影响静音又能在合适的时候使用其它功能&lt;/p&gt;
+&lt;p&gt;原理就是通过 actions 判断手机方向，不同方向可以实现不同功能&lt;/p&gt;
+&lt;p&gt;快捷指令地址：
+&lt;a href="https://sharecuts.cn/shortcut/13110" rel="nofollow"&gt;https://sharecuts.cn/shortcut/13110&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;也欢迎大家分享自己的使用经验&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 03:57:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983755#reply15</guid></item><item><title>[分享创造] 让你的图片讲故事</title><link>https://www.v2ex.com/t/983754#reply0</link><description>&lt;p&gt;📷 想让你的图片讲故事吗？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://magickimg.com/image-story/" rel="nofollow"&gt;https://magickimg.com/image-story/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我们刚刚推出了全新的「 Image Story Generator 」！只要上传一张图片，就能读懂图片，并创作出精彩的故事、梗图，甚至诗歌。&lt;/p&gt;
+&lt;p&gt;你还等什么呢？快来试试吧！😎&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://magickimg.com/image-story/" rel="nofollow"&gt;&lt;img alt="963shots-so" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/zRrJfFc/963shots-so.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://magickimg.com/image-story/" rel="nofollow"&gt;&lt;img alt="396shots-so" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/98pn4Z0/396shots-so.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://magickimg.com/image-story/" rel="nofollow"&gt;&lt;img alt="395shots-so" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/yWqkRDW/395shots-so.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 03:57:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983754#reply0</guid></item><item><title>[随想] 猛然回顾下：没想到都在 V 站写了这么多废铁（帖）</title><link>https://www.v2ex.com/t/983753#reply2</link><description>&lt;p&gt;&lt;strong&gt;统计下：今年干啥啥不行，刷铁 &lt;del&gt;第一名&lt;/del&gt;。初略统计下，帖子有 78 篇，相当于一个月 7.8 次打铁（贴）啊&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;2023 年（截止到 10 月 20 ）&lt;/h1&gt;
+&lt;hr /&gt;
+&lt;h2&gt;10 月：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/983478#reply11" rel="nofollow"&gt;telegram 搜索引擎-据说是真正意义上的搜索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/983104#reply11" rel="nofollow"&gt;关于手机权限的思考&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/981632#reply55" rel="nofollow"&gt;上了 7 天班终于周五了，各位爱卿为何一言不发？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;9 月：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/975895#reply0" rel="nofollow"&gt;关于调用 google drive API ，用 bard 分析里面文件夹，能否得出满意结论的问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/972079#reply49" rel="nofollow"&gt;突发奇想：你们平时都“逛”哪些网站？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/969143#reply2" rel="nofollow"&gt;介绍下 GitHub issues 的备份方案&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;8 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/968489#reply54" rel="nofollow"&gt;关于农村老人养老金问题（希望能帮到某些人）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/968022#reply97" rel="nofollow"&gt;听说很多大神都直接用纯文本 TXT 记录一切？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/966455#reply15" rel="nofollow"&gt;各位工作中无纸化率办公都达到了多少？ 100%无纸化办公能否实现？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/964652#reply24" rel="nofollow"&gt;帮朋友咨询：喜欢偷拍偷窥怎么办？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/963399#reply8" rel="nofollow"&gt;当年足球天下的解读（远去的列车），依旧经典的一批啊。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/963106#reply24" rel="nofollow"&gt;突然对上个世纪的互联网风格有种深深的喜爱&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/962017#reply148" rel="nofollow"&gt;想问下：现在的国漫创作都在什么水平？你们都喜欢什么国漫呢&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;7 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/960162#reply14" rel="nofollow"&gt;关于房地产政策的论述，众爱卿怎么看？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/959954#reply8" rel="nofollow"&gt;匆匆那些年&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/959486#reply33" rel="nofollow"&gt;很多东西都能从进化里面找到答案，比如你为什么不想看书！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/957916#reply9" rel="nofollow"&gt;你们现在搜索问题还在用 AI 产品吗？（感觉最近 ai 降火了）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/957456#reply23" rel="nofollow"&gt;进城打工 30 多年，最后好像和一直在村里的人也没什么差别。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/952434#reply122" rel="nofollow"&gt;帮自己问：你们平时记笔记都用什么软件呢？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/956056#reply17" rel="nofollow"&gt;这才是读书的要领&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/955983#reply0" rel="nofollow"&gt;这便是宰相肚里能撑船&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/954930#reply25" rel="nofollow"&gt;关于搜索的奇淫技巧：你们是怎么快速在网上获取答案的？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;6 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/952135#reply15" rel="nofollow"&gt;台球有约：姿势要帅，出杆要狠。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/949988#reply213" rel="nofollow"&gt;小声问下：现在买房是时机吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/949240#reply122" rel="nofollow"&gt;帮朋友问：何处安放早“xie”的人生？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/949039#reply5" rel="nofollow"&gt;加缪获诺奖时的演讲,真挚的语言还是那么令人动容。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/947199#reply4" rel="nofollow"&gt;tg 机器人创建的网站，用的什么原理？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;5 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/942642#reply144" rel="nofollow"&gt;没想到我居然被电信诈骗了，花钱买教训。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/939267#reply14" rel="nofollow"&gt;该来的来了，裁判文书网的网贷逾期居然还执行，我慌了。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/937899#reply19" rel="nofollow"&gt;Google bard 有多少人在用？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/937273#reply29" rel="nofollow"&gt;小谈薪酬管理，你们的薪酬都由那些组成呢&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;4 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/935717#reply31" rel="nofollow"&gt;今年的五一是报复性出游吗？怎么一票难求！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/935170#reply45" rel="nofollow"&gt;关于死亡的思考&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/934350#reply25" rel="nofollow"&gt;Markdown ▶ 折叠功能的思考&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/933953#reply14" rel="nofollow"&gt;女子入职 58 天迟到 21 次被辞退，不满公司补偿申请仲裁被驳回，公司：开庭当天她又迟到了 16 分钟&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/934069#reply1" rel="nofollow"&gt;GitHub beta 版 整的有点东西了，有多少人在用测试版呢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/931257#reply2" rel="nofollow"&gt;帮朋友问：社保封存了能提取吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/929789#reply5" rel="nofollow"&gt;如何看待哲学上的：无用之用才是大用？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3 月:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/927563#reply12" rel="nofollow"&gt;关于电子书、纸质书、数字化的一些随想&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/926815#reply11" rel="nofollow"&gt;未来已来，奇点临近。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/917124#reply68" rel="nofollow"&gt;打算建立一个博客写点文章，有推荐的么&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/926357#reply12" rel="nofollow"&gt;帮忙推荐下录音笔呗（最好带语音转文字）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/925061#reply120" rel="nofollow"&gt;30 多岁，网贷信用卡负债累累，还能继续生活吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/924593#reply12" rel="nofollow"&gt;马斯克关于 Openai 的悖论&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/924221#reply33" rel="nofollow"&gt;关于 New bing 使用的一些问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/923593#reply24" rel="nofollow"&gt;3.5 元的 GPT 账号，连续封了两次？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/922789#reply7" rel="nofollow"&gt;还有人考建造师证吗？考证的赛道你们都是怎么卷的？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/922231#reply39" rel="nofollow"&gt;女神节到了，好奇 V 站有女生吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/921549#reply2" rel="nofollow"&gt;作为办公司文字工作者，你们用什么校对软件呢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/920908#reply13" rel="nofollow"&gt;大数据已死，元芳，你怎么看？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/919917#reply13" rel="nofollow"&gt;收藏功能真有必要？有多少人收藏后不看的？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2 月：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/920273#reply0" rel="nofollow"&gt;偷窥（微小说）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/919613#reply6" rel="nofollow"&gt;新手村前来求装备: github readme 下面图标问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/919219#reply43" rel="nofollow"&gt;帮朋友问下:你们手机上都装什么常用 app 呢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/918928#reply25" rel="nofollow"&gt;一人说一个行业内幕（有你踩过的雷吗）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/918614#reply44" rel="nofollow"&gt;好像是老大难问题：你们传输文件都用什么软件呢？（微信除外）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/918223#reply3" rel="nofollow"&gt;文叔叔又整出文小站 blog 了，你们用过吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/917640#reply2" rel="nofollow"&gt;突发奇想：有多少人用 V 站 记事本、时间轴 记录自己的所思所想呢&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/916651#reply72" rel="nofollow"&gt;医保年限又延长咯，缴到 20-25 年方可享受？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/916898#reply17" rel="nofollow"&gt;语雀资本：开启全员暗黑模式 这次不用充会员 你会继续用吗？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/916590#reply0" rel="nofollow"&gt;B 站专栏动不动就锁，what`s the fuck ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/916409#reply2" rel="nofollow"&gt;梵高的孤独，孤独的梵高（为什么会有墙裂的共鸣呢）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/915205#reply3" rel="nofollow"&gt;关于 chatgpt 的一些疑惑&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/914566#reply142" rel="nofollow"&gt;通勤 4 小时，坐 10 趟地铁，地狱级打工模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/913819#reply9" rel="nofollow"&gt;碳中和赛道（有在赛道上的道友吗）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/913524#reply2" rel="nofollow"&gt;对程序员的图示&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;1 月&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/909722#reply28" rel="nofollow"&gt;年假喜提半个月大礼包&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/909245#reply13" rel="nofollow"&gt;有用邮箱作为自己信息管理工具的人吗（小众吧）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/908768#reply8" rel="nofollow"&gt;求教 红米 K40 pro 账号无法登陆问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/907534#reply5" rel="nofollow"&gt;谈谈最近用过的翻译软件（你们都用过哪些？）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/906795#reply5" rel="nofollow"&gt;统计下那些一眼能打动你的句子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/906239#reply1" rel="nofollow"&gt;关于信息获取和沉淀方式的思考（抛转也不一定能引玉吗？）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/905585#reply15" rel="nofollow"&gt;后知识管理时代（请允许我这么说），你们都用什么笔记软件？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/905098#reply49" rel="nofollow"&gt;有看过《天道》电视剧的道友吗？（说说你们的感悟）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/905853#reply4" rel="nofollow"&gt;看看古人跨年都在想什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/905788#reply2" rel="nofollow"&gt;那些推动历史进程的重要人物、事件（这一届全明星应该是史上最强大阵容了吧？）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/905360#reply68" rel="nofollow"&gt;大流感经济下行之下，你们有多少人还在缴五险一金？（说说自己的理解）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/904909#reply25" rel="nofollow"&gt;20 年 30 年以后的工作市场会是什么样？（抛砖引玉）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 20 Oct 2023 03:55:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983753#reply2</guid></item><item><title>[Cloudflare] 如何快速准确的获取自己的外网出访 IP？特别是使用了 warp 的情况下?</title><link>https://www.v2ex.com/t/983751#reply1</link><description>&lt;p&gt;寻找最佳的 IP 地址检测工具？我们提供自动获取外网 IP 的解决方案，包括代理前真实 IP 验证和 Warp IP 检测。无论您需要获取代理前的真实 IP ，访问被墙服务时的 IP ，或者访问未被墙服务时的 IP ，我们都有您 covered 。查看我们的 IP 地址检测工具，轻松识别您的网络代理节点和真实出访 IP 。 自动获取外网 IP 出访 IP 获取方法 IP 地址检测工具 代理节点 IP 识别 Warp IP 检测 真实 IP 查找 访问国外服务 IP 检测 代理前真实 IP 验证 ChatGPT 访问 IP 网络运营商 IP 查询 &lt;a href="https://watermelonwater.tech/%e5%a4%96%e7%bd%91ip%e5%9c%b0%e5%9d%80%e6%a3%80%e6%b5%8b%e5%b7%a5%e5%85%b7%e5%a4%a7%e5%85%a8/" rel="nofollow"&gt;https://watermelonwater.tech/%e5%a4%96%e7%bd%91ip%e5%9c%b0%e5%9d%80%e6%a3%80%e6%b5%8b%e5%b7%a5%e5%85%b7%e5%a4%a7%e5%85%a8/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 20 Oct 2023 03:53:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983751#reply1</guid></item></channel></rss>
