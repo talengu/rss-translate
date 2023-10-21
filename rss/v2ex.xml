@@ -1,124 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 21 Oct 2023 04:04:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [杭州/宁波/济南] [内推] 恒生云融招聘 Java 开发工程师、测试、项目经理、架构师等。HC 有 10 多个</title><link>https://www.v2ex.com/t/984014#reply0</link><description>&lt;h3&gt;岗位&lt;/h3&gt;
-&lt;p&gt;一、Java 开发工程师-杭州/济南&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 、从事过 java 应用系统开发工作 2 年以上；
-2 、具备良好的沟通交流能力，以及较强的文字组织和汇报能力；
-3 、具备很强的合作精神，学习能力强，良好的沟通协调能力，富有团队精神；
-4 、工作积极主动，敬业负责，能按时完成任务，能在压力下工作；
-5 、较强的业务分析、总结能力；
-6 、熟悉掌握 Java 编程技术；
-7 、熟悉 Oracle 、MySQL 等关系型数据库技术中的至少一种，包括 SQL 编写；
-8 、至少具有一种以上应用服务器（ WebLogic/WebSphere/Tomcat/JBoss ）的实际使用经验；
-9 、了解 Linux 平台的管理、使用操作；
-10 、有银行项目实施经验优先。
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;二、测试工程师-杭州&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 、计算机相关专业，全日制本科及以上学历
-2 、3-5 年测试经验，有信贷系统及相关测试经验
-3 、熟悉软件测试理论、方法和过程，熟悉 linux 操作命令，熟悉 oracle/mqsql 数据库，熟悉接口测试，了解互联网分布式框架
-4 、能够适应阶段性出差，有风控相关系统测试经验优先考虑
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;三、项目经理-宁波&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 、计算机及相关专业毕业，本科以上学历；
-2 、2 年及以上的银行金融软件相关工作经验，有过至少 2 年及以上的项目团队管理经验（ 5-7 人）；
-3 、熟练掌握主流 J2EE 开发框架，熟悉 mysql ，oracle 、db2 数据库的使用和操作，掌握 spring 、hibernate ，jquery 等技术；
-4 、积极的工作态度和强烈的职业责任感，有良好的团队合作精神，抗压性强，沟通能力良好；
-5 、对信贷业务或银行金融业务熟悉者优先；
-6 、能接受长期出差 base 在宁波
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;四、架构师-杭州&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;稍后补充
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;内推说明&lt;/h3&gt;
-&lt;p&gt;前 3 个岗中级、高级、资深都有位置；均要求有金融相关工作经历；&lt;/p&gt;
-&lt;p&gt;济南、宁波的岗不用出差，杭州的会有阶段性出差；&lt;/p&gt;
-&lt;h3&gt;联系方式&lt;/h3&gt;
-&lt;p&gt;wx:TFVUSDEwMDg2&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 03:58:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984014#reply0</guid></item><item><title>[Apple] 家里有款 09 年 iMac ，请问能自己手动 diy 升级下配置么</title><link>https://www.v2ex.com/t/984013#reply1</link><description>很老了，卖了也不值钱，看着屏幕还很不错，这种能 diy 升级下硬件么</description><pubDate>Sat, 21 Oct 2023 03:58:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984013#reply1</guid></item><item><title>[Go 编程语言] go mod tidy 总是安装最新依赖，如何查找哪个模块导致某个包安装最新依赖，提供一个小工具</title><link>https://www.v2ex.com/t/984012#reply0</link><description>&lt;p&gt;安装: &lt;code&gt;go install &lt;a href="http://github.com/jan-bar/interesting/findModVer@latest" rel="nofollow"&gt;github.com/jan-bar/interesting/findModVer@latest&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;执行：&lt;code&gt;findModVer d:\myproject&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;结果如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Iw9SBo7.png" /&gt; &lt;/p&gt;
-&lt;p&gt;根据结果可以找到哪个依赖导致&lt;code&gt;&lt;a href="http://google.golang.org/grpc" rel="nofollow"&gt;google.golang.org/grpc&lt;/a&gt; v1.45.0&lt;/code&gt;使用了这个版本，这样每次执行&lt;code&gt;go mod tidy&lt;/code&gt;会自动修改该模块到&lt;code&gt;v1.45.0&lt;/code&gt;版本。我看了下&lt;code&gt;&lt;a href="http://github.com/spf13/viper" rel="nofollow"&gt;github.com/spf13/viper&lt;/a&gt; v1.11.0&lt;/code&gt;就是用的&lt;code&gt;&lt;a href="http://google.golang.org/grpc" rel="nofollow"&gt;google.golang.org/grpc&lt;/a&gt; v1.45.0&lt;/code&gt;版本，因此我可以通过限制&lt;code&gt;viper v1.11.0&lt;/code&gt;来限制&lt;code&gt;grpc v1.45.0&lt;/code&gt;，这时候执行&lt;code&gt;go mod tidy&lt;/code&gt;就会限制&lt;code&gt;grpc v1.45.0&lt;/code&gt;。通过我这个小工具可以方便的找到哪些库是因为哪个库导致&lt;code&gt;go mod tidy&lt;/code&gt;后修改自己模块的该库到最新版本。&lt;/p&gt;
-&lt;p&gt;当前也可以在自己库里用如下方法限制版本，但如果该库是公共库，其他人使用时也需要加上这个限制。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;replace (
-	google.golang.org/grpc =&amp;gt; google.golang.org/grpc v1.45.0
-)
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 21 Oct 2023 03:41:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984012#reply0</guid></item><item><title>[问与答] Redis 服务挂了，一段时间后又恢复，不会造成缓存与数据库不一致吗?</title><link>https://www.v2ex.com/t/984010#reply2</link><description>Redis 服务挂了，一段时间后又恢复，如果这段时间能内，有修改数据库的操作，不会造成缓存与数据库不一致吗?&lt;br /&gt;&lt;br /&gt;如果是 Redis 主从集群，能避免这种情况吗？集群全挂了呢?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;注：目前解决缓存与数据库一致所使用的方案，是双写方案，写操作-先写数据库再删缓存，读操作-有缓存就读缓存，无缓存就读数据库后重建缓存&lt;br /&gt;&lt;br /&gt;但这种方案的问题是，缓存服务挂了后，在写操作时无法删掉过期缓存，最后等缓存服务恢复，读操作读到的就是过期数据&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;请老哥们指点一下，&lt;br /&gt;难道因为缓存服务挂掉，就拒绝一切写操作吗？</description><pubDate>Sat, 21 Oct 2023 03:27:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984010#reply2</guid></item><item><title>[macOS] 2023 年在 MAC M 系列运行安卓模拟器有什么好的方法吗？</title><link>https://www.v2ex.com/t/984009#reply1</link><description>&lt;p&gt;看了 mumu ，blue stack 之类的都不支持 m 芯片，目前知道的就是使用 android studio ，但装这个太大了，自己也不常用，有没有其他简单点的方式？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 03:22:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984009#reply1</guid></item><item><title>[MacBook Pro] 刚买的 MacBook Pro 14' 翻新版到了，但是有点小瑕疵，不知是不是通病？</title><link>https://www.v2ex.com/t/984007#reply0</link><description>&lt;p&gt;刚买的 MacBook Pro 14' 翻新版到了，但是有点小瑕疵，不知是不是通病？还望大佬们帮忙看一下&lt;/p&gt;
-&lt;p&gt;首先是电池循环 6 次？是否正常？
-&lt;img alt="IMG_0463" class="embedded_image" rel="noreferrer" src="https://picdm.sunbangyan.cn/2023/10/21/2ac9fd81aa96ef53ac3acf32f442a2f7.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;以下是瑕疵图：
-&lt;img alt="IMG_0459" class="embedded_image" rel="noreferrer" src="https://picdm.sunbangyan.cn/2023/10/21/536c91cad1495c0f5c1199a4be20b44e.jpeg" /&gt;
-&lt;img alt="IMG_0460" class="embedded_image" rel="noreferrer" src="https://picss.sunbangyan.cn/2023/10/21/f5eb9f1855761b95a3ba513d7801aeaa.jpeg" /&gt;
-&lt;img alt="IMG_0461" class="embedded_image" rel="noreferrer" src="https://picst.sunbangyan.cn/2023/10/21/4d9c9d99f86f87cc0e193b919c98c64b.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 03:13:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984007#reply0</guid></item><item><title>[分享创造] 新写的一个方便大家发邀请码的网站 https://invitecode.cc/</title><link>https://www.v2ex.com/t/984006#reply9</link><description>&lt;p&gt;最近看到很多大佬在论坛里发自己作品的邀请码，有人领取了在帖子里回复，有的已经被领了也不留痕迹，导致后来的同学不知道哪个被用了，哪个没被用，非常不方便，于是做了一个方便分享邀请码的工具。&lt;/p&gt;
-&lt;h2&gt;分享者配置&lt;/h2&gt;
-&lt;p&gt;分享邀请码时，可以配置是否显示在首页;&lt;/p&gt;
-&lt;p&gt;同时可以设置领取者可以匿名领取、一个 IP 能领取一次，还是必须登录账号才能领取，根据实际情况避免被恶意用户&lt;/p&gt;
-&lt;h3&gt;预览图&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="邀请码分享" class="embedded_image" rel="noreferrer" src="https://jiantuku.oss-cn-beijing.aliyuncs.com/share/invitecode02.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;领取者预览&lt;/h2&gt;
-&lt;p&gt;领取后可以直接复制使用，邀请码在领取半小时后会公开显示&lt;/p&gt;
-&lt;h3&gt;预览图&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="邀请码分享" class="embedded_image" rel="noreferrer" src="https://jiantuku.oss-cn-beijing.aliyuncs.com/share/invitecode01.png" /&gt;&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href="https://invitecode.cc/" rel="nofollow"&gt;https://invitecode.cc/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;领取邀请码预览： &lt;a href="https://invitecode.cc/post/mVxmj3RZ" rel="nofollow"&gt;https://invitecode.cc/post/mVxmj3RZ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎反馈建议～&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 03:00:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984006#reply9</guid></item><item><title>[问与答] 开源项目推广有什么好的渠道吗？</title><link>https://www.v2ex.com/t/984005#reply5</link><description>&lt;p&gt;最近开发了一个基于 Konva.js 的绘图编辑器框架-Pictode ，并基于 Pictode+vue3 实现了一个白板工具。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/JessYan0913/pictode" rel="nofollow"&gt;https://github.com/JessYan0913/pictode&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前正在寻求推广，大伙有什么好的渠道吗？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:58:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984005#reply5</guid></item><item><title>[分享发现] iPhone SE giffgaff eSIM 历经坎坷激活成功</title><link>https://www.v2ex.com/t/984004#reply2</link><description>昨天快递到了好几张卡，v2 上听说支持 eSIM 了就想尝试一下&lt;br /&gt;&lt;br /&gt;实体卡官网输入激活码正常激活充值后能收短信，后面下载 giffgaff APP 按照流程添加 eSIM 。&lt;br /&gt;&lt;br /&gt;下午 2 点多添加的，eSIM 激活过程中把卡拿出来了，等了 20 分钟左右 IOS 提示激活失败，eSIM 卡已经在手机里了，打了 Apple 客服说 eSIM 硬件没问题，联系 giffgaff 支持说要等 1 小时，最长 24 小时。&lt;br /&gt;&lt;br /&gt;等了很久还是无服务。期间 giffgaff APP 里面也不能重新添加 eSIM 。&lt;br /&gt;&lt;br /&gt;昨天晚上 11 点多看到还是无服务，看到 giffgaff APP 里面可以重新添加 eSIM 了，遂删掉 eSIM 重新添加~&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;凌晨 1 点多收到一条短信：Welcome to CHINA.···   激活成功！&lt;br /&gt;&lt;br /&gt;其实也不知道拿来干什么用，留着吧反正也不贵。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/vkAQtxy" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/vkAQtxy&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/mWnIRDv" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/mWnIRDv&lt;/a&gt;</description><pubDate>Sat, 21 Oct 2023 02:53:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984004#reply2</guid></item><item><title>[问与答] 如何控制 Windows 窗口程序 和 获取对应数据? (没有接口, 也没有继续开发的情况下)</title><link>https://www.v2ex.com/t/984002#reply3</link><description>&lt;h2&gt;场景&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 21 Oct 2023 14:18:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] Mojo 开发者交流会第三期结束</title><link>https://www.v2ex.com/t/984130#reply0</link><description>&lt;p&gt;今天晚上结束了 mojo 开发这交流会第三期，本期主要内容是 mojo 中的构造函数。&lt;/p&gt;
+&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;上半年的时候上线了 Mojo 中文网，当时只是简单翻译了官方的文档，并没有在意。&lt;br /&gt;
+随着 Mojo 语言热度的升温，在 8 、9 月份连续满了四五个群，看得出来大家对新鲜事物的好奇度还是挺高的。  &lt;/p&gt;
+&lt;h2&gt;Mojo 交流会&lt;/h2&gt;
+&lt;p&gt;Mojo 可以本地安装后 大家一直对安装过程很纠结，由于网络问题很多小伙伴在群里说不会安装，于是有热心群友提出可以组织直播教学。&lt;br /&gt;
+于是第一期的线上交流会就这么来了。&lt;br /&gt;
+&lt;a href="https://mojocn.org/docs/meeting.html" rel="nofollow"&gt;往期回放和下期预告&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;布道师&lt;/h2&gt;
+&lt;p&gt;如果每次只有一个人来讲的话，那就不是交流会了，所以需要大家作为领头人发起交流。&lt;br /&gt;
+于是乎布道师计划出来了，只要领导一次交流会 则可以成为 mojo 布道师，有证书。&lt;br /&gt;
+&lt;a href="https://mojocn.org/docs/guide.html" rel="nofollow"&gt;具体可以看这里&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;共创&lt;/h2&gt;
+&lt;p&gt;欢迎给 mojo 中文网提任何建议，或者直接参与到运营中来。&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 14:14:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984130#reply0</guid></item><item><title>[问与答] 求各位 v 友们推荐个能当文件传输助手的 im 软件</title><link>https://www.v2ex.com/t/984128#reply0</link><description>主要是想当临时存东西的地方，存点文本图片和视频啥的，需要云同步或备份，目前在用 whatsapp ，优点是可以备份到 Google drive 且有端到端加密；缺点是视频图片会压缩，而且 web 版好像同步聊天记录很费劲。&lt;br /&gt;telegram 现在真是不想用了，一方面是据传和腾讯合作了什么项目，另外一方面是黑灰产太多，怕什么时候被扬了。&lt;br /&gt;不过目前这个需求好像只有 telegram 能满足。。。</description><pubDate>Sat, 21 Oct 2023 14:08:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984128#reply0</guid></item><item><title>[宽带症候群] 将 Tailscale 安装在云服务器，是否存在安全问题？</title><link>https://www.v2ex.com/t/984127#reply2</link><description>&lt;p&gt;将 Tailscale 安装在云服务器，打通本地内网，通过云服务器 Nginx 暴露出本地的服务，是否存在安全问题？内网会不会被入侵？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 14:07:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984127#reply2</guid></item><item><title>[问与答] appstore 日区 jcb 信用卡开通 gpt plus 有问题吗</title><link>https://www.v2ex.com/t/984126#reply0</link><description>&lt;p&gt;之前用的虚拟信用卡  正常使用了半年  一直没问题&lt;/p&gt;
+&lt;p&gt;这次直接续费没续成功，我有日区的账号，也用国内的 jcb 信用卡买过一些内购&lt;/p&gt;
+&lt;p&gt;请问用来续费 gpt plus 有问题吗&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 14:02:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984126#reply0</guid></item><item><title>[路由器] MBP &amp; TP-Link AP 的协商速率怎么调整</title><link>https://www.v2ex.com/t/984125#reply0</link><description>&lt;p&gt;家里是 AC + AP 结构，AC：TL-R479GP-AC ，AP：TP-Link XAP3002GI WIFI6&lt;/p&gt;
+&lt;p&gt;电脑是新款 Macbook Pro 14-inch, 2023 ，连 WIFI 协商速率只有 573 ，我的 iPhone 12 应该也是，测速只能跑个 300-400 。&lt;/p&gt;
+&lt;p&gt;请教下这是为啥，怎么调整哇。&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 13:57:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984125#reply0</guid></item><item><title>[路由器] 路由器回家，有办法实现流量分流吗？</title><link>https://www.v2ex.com/t/984124#reply2</link><description>&lt;p&gt;现在用 OpenVpn 回家，有公网地址
+有办法可以实现家里内网走 VPN ，正常国内上网就走本机的网络。
+同时分流外面的网络（现在可以用路由器里面的 OpenClash ，连上 OpenVpn 就可以）&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 13:49:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984124#reply2</guid></item><item><title>[路由器] 發現一個小米路由器自帶的 QOS 問題...</title><link>https://www.v2ex.com/t/984123#reply0</link><description>設備是小米萬兆路由器, 在網頁管理面板開啓 QOS, 手動設定好 WAN 口帶寬如下&lt;br /&gt;&lt;a href="https://i.imgur.com/oYM7EVZ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/oYM7EVZ.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我一直以爲這個 QOS 工作在對 LAN 到 WAN 的流量上, 結果在路由器上跑了個測速直接給我看傻了&lt;br /&gt;&lt;a href="https://i.imgur.com/NRip8kO.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NRip8kO.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;它是直接對所有發往路由器本身的流量做 QOS...&lt;br /&gt;如果我外網帶寬設定 50Mbps, 訪問接在路由器上的硬碟速度都跑不滿, 不知道是哪個天才工程師想出來的這麽簡單粗暴的操作&lt;br /&gt;&lt;br /&gt;設定外網帶寬 50Mbps 測速如下&lt;br /&gt;&lt;a href="https://i.imgur.com/x8kLAVS.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/x8kLAVS.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;天才</description><pubDate>Sat, 21 Oct 2023 13:49:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984123#reply0</guid></item><item><title>[问与答] 大 A 加速下跌了，是否买点到了？</title><link>https://www.v2ex.com/t/984122#reply9</link><description>&lt;p&gt;巴韭特说过，别人恐惧的时候就该贪婪&lt;/p&gt;
+&lt;p&gt;现在的恐惧气氛很浓，似有见底的状况，可以抄底了吗？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 13:47:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984122#reply9</guid></item><item><title>[问与答] 全屋定制本地工厂店 做样板房需要注意什么？</title><link>https://www.v2ex.com/t/984121#reply0</link><description>&lt;p&gt;联系了一家刚进场的本地工厂店，可以确认我是比较早接洽的，听说做样板房可以提前收楼 早点装修好，也会根据自己的要求做设计，并配合一下他们的展示需求，我了解的可能的花钱地方是一些五金件增项 玻璃柜门增项这些，不过总价可以去到 6 折还有的继续谈，有点心动，不知道有没有老哥懂这个&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 13:45:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984121#reply0</guid></item><item><title>[问与答] 大家有什么大屏播放软件推荐的？类似 vMix 这种</title><link>https://www.v2ex.com/t/984119#reply0</link><description>&lt;h1&gt;vMix 的使用问题和寻求其他软件的需求&lt;/h1&gt;
+&lt;h2&gt;使用问题&lt;/h2&gt;
+&lt;p&gt;我目前在使用的是某宝买的盗版&lt;a href="https://www.vmix.com/" rel="nofollow"&gt;vMix&lt;/a&gt;。但是我在使用的过程中遇到了一些问题，主要有以下几点：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;一个 Windows 窗口程序,  可能是 C# WinForm 开发的 (类似下图这样的窗口)&lt;/li&gt;
-&lt;li&gt;没有接口, 也没有后续开发了, 但是一定要用这个自带的软件去控制一些特定的硬件&lt;/li&gt;
-&lt;li&gt;为了无人值守的测试和控制, 记录测试数据, 想到用程序去控制这个窗口程序这种方式.&lt;/li&gt;
+&lt;li&gt;当我按&lt;code&gt;Win&lt;/code&gt; + &lt;code&gt;D&lt;/code&gt;返回桌面时，副屏也会最小化，这样就无法在副屏上持续播放视频了。&lt;/li&gt;
+&lt;li&gt;我好像无法将单独的视频文件和音频文件组合播放，比如我想在播放一个视频的同时，用另一个音频文件作为背景音乐。&lt;/li&gt;
+&lt;li&gt;我貌似无法进行复杂的预编程，比如我想提前编程好一系列的操作，然后在需要的时候只要点击一下就可以自动执行，比如顺序播放多个视频和音频等。&lt;/li&gt;
+&lt;li&gt;当我将 PPT 导入到 vMix 中时，会出现排版问题，比如字体大小、颜色、位置等都会发生变化，除非我先将 PPT 转成图片后再导入，但这样很麻烦。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;需求&lt;/h2&gt;
+&lt;h2&gt;功能需求&lt;/h2&gt;
+&lt;p&gt;根据我的使用情况，我希望能再找一个类似功能的软件，它应该具备以下功能：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-按下图举例, 需要实现操作窗口和读取一些结果数据&lt;ul&gt;
-&lt;li&gt;在 1 位置: 选择&lt;/li&gt;
-&lt;li&gt;在 2 位置: 点击&lt;/li&gt;
-&lt;li&gt;在 3 位置: 下拉后, 获取菜单信息并选择&lt;/li&gt;
-&lt;li&gt;在 4 位置:  获取数据 (一些字符串, 一些数值等)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;优选 Golang/Python, 次选其他 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;谢谢大家的回复&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/rj1DkgVU.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:49:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984002#reply3</guid></item><item><title>[Apple TV] 空闲时间写了一个 Apple TV 的聚合直播，欢迎下载</title><link>https://www.v2ex.com/t/984001#reply12</link><description>&lt;p&gt;github 有更详细的介绍，求点 star!&lt;/p&gt;
-&lt;h2&gt;github 地址：&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/pcccccc/SimpleLiveTVOS" rel="nofollow"&gt;https://github.com/pcccccc/SimpleLiveTVOS&lt;/a&gt; &lt;/p&gt;
-&lt;h2&gt;下载地址&lt;/h2&gt;
-&lt;p&gt;目前已经上了 Testflight：
-&lt;a href="https://testflight.apple.com/join/2oZuwSHJ" rel="nofollow"&gt;https://testflight.apple.com/join/2oZuwSHJ&lt;/a&gt; &lt;/p&gt;
-&lt;h2&gt;支持系统&lt;/h2&gt;
-&lt;p&gt;tvOS 16+&lt;/p&gt;
-&lt;h1&gt;截图&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/UpWzml9.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/lWqyZSH.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:47:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984001#reply12</guid></item><item><title>[宽带症候群] 有没有这种一种套餐</title><link>https://www.v2ex.com/t/984000#reply12</link><description>&lt;p&gt;我在上海，爸妈在安徽。有没有什么套餐可以让我办个流量卡，爸妈可以作为副卡共享流量来使用的？
-性价比高点的，大佬们求推荐&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:47:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984000#reply12</guid></item><item><title>[问与答] 有没有老哥锐评一下今年的皮鞋吧和皮鞋巴普洛</title><link>https://www.v2ex.com/t/983999#reply0</link><description>&lt;p&gt;看美亚价格还行，就是预估税款巨高，不知道值得推荐购买不。和皮鞋漆比起来&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:45:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983999#reply0</guid></item><item><title>[Chrome] 怎么关闭 chrome 的密码自动填充，已经在设置里面关闭了自动填充还是会弹出来</title><link>https://www.v2ex.com/t/983998#reply2</link><description>&lt;p&gt;怎么关闭 chrome 的密码自动填充，已经在设置里面关闭了自动填充还是会弹出来，就很烦
-&lt;a href="https://img1.imgtp.com/2023/10/21/7AbRF7Fc.png" rel="nofollow"&gt;https://img1.imgtp.com/2023/10/21/7AbRF7Fc.png&lt;/a&gt;
-&lt;a href="https://img1.imgtp.com/2023/10/21/HqqKIhLc.png" rel="nofollow"&gt;https://img1.imgtp.com/2023/10/21/HqqKIhLc.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:43:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983998#reply2</guid></item><item><title>[Android] android pixel 系统复制 nfc 门卡，哪个 app 比较好？</title><link>https://www.v2ex.com/t/983997#reply5</link><description>&lt;p&gt;pixel 和 ios 自带的 app 都不支持 nfc 模拟，
-话说国内 miui 除了广告多外，人性化这块做的是真的好&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:40:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983997#reply5</guid></item><item><title>[耳机] 有没有用过睡眠耳机的</title><link>https://www.v2ex.com/t/983996#reply11</link><description>&lt;p&gt;住的地方在路边，声音很吵，&lt;/p&gt;
-&lt;p&gt;噪音来源主要是路边的大卡车，大型施工车辆驶过时的低频噪音，那种嗡嗡声，测试过开窗情况下能达到 60db, 哪怕关了窗户也有 40db ，会明显影响到睡眠，下面睡眠变浅或者清醒过来的时间和噪音变大几乎是同步的。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/13/b97a106e9dff41af686fe9acdad740b4/IMG_1103.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;我几乎了解了各种方法，安耳悠的耳塞，3M 的耳罩，降噪耳机。&lt;/p&gt;
-&lt;p&gt;还有从窗户出发的，加装一层隔音窗户(这应该是最好的解决方案的了，但不是我能改的)，还有一些隔音的贴条，窗帘啥的看评测都没用。&lt;/p&gt;
-&lt;p&gt;试过的方法里面：&lt;/p&gt;
-&lt;p&gt;耳塞: 会觉得胀耳朵，对声音会变得更加敏感，而且卡车的声音还是比较明显的。&lt;/p&gt;
-&lt;p&gt;3M 耳罩：这是之前住的地方附近施工的时候白天用的，可以做到几乎隔绝声音，但对耳朵的压力非常大，带一两个小时明显耳心痛，戴着睡觉几乎不可能。&lt;/p&gt;
-&lt;p&gt;降噪耳机: 试过两款，也是自己原先一直在用的耳机，一款是头戴式的 bose qc45 （没错，我甚至能接受戴着头戴式耳机睡觉），但是戴久了会引起不适，压耳朵，耳心疼等等。另一款是 airpods pro 2 ，这是我现在还在用的方案，主动降噪加背景白噪声，能做到满意的效果，但是续航顶不住，5h 多附近已经是极限了，经常睡一半醒来，没电的时候耳机还会滴一声，而且容易掉。&lt;/p&gt;
-&lt;p&gt;理想的睡眠耳机应该是下面这样的&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;提供和 airpods pro 2 同样强的降噪，&lt;/li&gt;
-&lt;li&gt;能提供舒缓的睡眠音乐，续航比起 airpods pro 翻倍，8 ，9 个小时往上，&lt;/li&gt;
-&lt;li&gt;耳机专为睡眠设计的那种，不会脱落，侧躺没有异物感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但市面没找到符合的产品，逛了好久，看到了两款可能合适的产品，&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一款是 bose sleepbuds 2 ，不提供降噪，耳机就是耳塞加了可播放的白噪音，这不知道能不能屏蔽住路边的声音。&lt;/li&gt;
-&lt;li&gt;另一款是是 soundcore sleep a10, 这款国内没卖，走代购要好久，看到的相关体验分享也特别少，在犹豫。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sat, 21 Oct 2023 02:37:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983996#reply11</guid></item><item><title>[问与答] 请问大佬们这套值几个钱</title><link>https://www.v2ex.com/t/983993#reply8</link><description>老家有台电脑，基本用不上，所以想咨询一下&lt;br /&gt;机箱：包豪斯 O11D XL&lt;br /&gt;处理器：英特尔 Core i9-10980XE @ 3.00GHz&lt;br /&gt;内存：128GB(芝奇 DDR4 3600MHz 32GB x4)&lt;br /&gt;显卡：NVIDIA GeForce RTX 3090(24GB/华硕)&lt;br /&gt;主板：华硕 ROG RAMPAGE VI EXTREME ENCORE(X299 芯片组)&lt;br /&gt;主硬盘：三星 SSD 970 EVO Plus 2TB(固态硬盘)&lt;br /&gt;网卡：英特尔 Ethernet Connection 1219-V/华硕</description><pubDate>Sat, 21 Oct 2023 02:15:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983993#reply8</guid></item><item><title>[Apple] 有没有什么软件能用 Mac 的键盘操作 Windows？</title><link>https://www.v2ex.com/t/983991#reply1</link><description>&lt;p&gt;两台电脑切换键盘很麻烦，有没有什么办法用 Mac 内置的键盘在 Windows 上输入？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:10:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983991#reply1</guid></item><item><title>[问与答] Thinkbook 2023 14+ 能升级 64G 内存么？</title><link>https://www.v2ex.com/t/983989#reply5</link><description>&lt;p&gt;入手了个 32G 的
-内存不够用啊
-WSL ，Docker ，Chrome ，VSCode ，IDEA 都是吃内存大户
-这种板载内存能升级么？&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:04:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983989#reply5</guid></item><item><title>[问与答] 想要对接一个简单的支付接口，支持微信支付宝的</title><link>https://www.v2ex.com/t/983988#reply4</link><description>&lt;p&gt;有没有推荐&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 02:03:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/983988#reply4</guid></item></channel></rss>
+&lt;li&gt;适用于 Windows 操作系统，因为我习惯用 Windows 系统来工作。&lt;/li&gt;
+&lt;li&gt;可以在副屏播放视频，而主屏为后台操控，这样我可以在主屏上进行各种设置和调整，而不影响副屏上的视频播放效果。&lt;/li&gt;
+&lt;li&gt;可以将单独的视频文件和音频文件组合播放，或者可以对视频文件进行音频替换，这样我可以根据不同的场合和氛围来选择合适的音乐。&lt;/li&gt;
+&lt;li&gt;可以进行复杂的预编程，或者有类似于播放列表的功能，让我可以提前安排好一系列的视频和音频的播放顺序和时间，然后在需要的时候只要点击一下就可以自动执行。&lt;/li&gt;
+&lt;li&gt;可以直接导入 PPT 文件，并保持原来的排版效果，或者有简单的方式可以将 PPT 转成图片后导入，这样我就不用每次都手动转换了。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 21 Oct 2023 13:26:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984119#reply0</guid></item><item><title>[iPhone] 终于发货了</title><link>https://www.v2ex.com/t/984118#reply0</link><description>&lt;p&gt;但是 ems 很慢啊
+&lt;img alt="iphone15pm" class="embedded_image" rel="noreferrer" src="https://imgur.com/x8BHN8V.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 13:25:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984118#reply0</guid></item><item><title>[问与答] 是不是现在越来越多的人活的更自我了？</title><link>https://www.v2ex.com/t/984117#reply4</link><description>不在乎结婚，工作，房子，只要过的舒服就好。</description><pubDate>Sat, 21 Oct 2023 13:14:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984117#reply4</guid></item><item><title>[Microsoft Office] office 365 发车，拼车的来</title><link>https://www.v2ex.com/t/984114#reply2</link><description>&lt;p&gt;365 拼车 40 一年，后续看购买价格，6 均分，非卡 bug ，正规购买，稳定。欢迎大佬来拼车，走海鲜市场。
+到期日期已发车日期为准，会适当延长&lt;/p&gt;
+&lt;p&gt;链接
+aHR0cHM6Ly9tLnRiLmNuL2guNWhXZkJkdT90az0wc0hrVzFmeGp2MQ==&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 12:55:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984114#reply2</guid></item><item><title>[程序员] Shopify 的自动化中工作流的这种 Canvas 的实现技术</title><link>https://www.v2ex.com/t/984113#reply1</link><description>老大让参照 Shopify 的自动化中工作流的这种 Canvas 实现一个类似的工作流功能，无奈，没有想法，有没有开源的 web 工具可以使用，还有这种数据一般在数据库是如何存储的！&lt;br /&gt;&lt;a href="https://i.imgur.com/mSPlrwS.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/mSPlrwS.png" /&gt;&lt;/a&gt;</description><pubDate>Sat, 21 Oct 2023 12:44:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984113#reply1</guid></item><item><title>[macOS] 出 2 个 Surge5 for Mac 车位</title><link>https://www.v2ex.com/t/984112#reply1</link><description>&lt;p&gt;刚刚下单购买，170 一位, 还剩 2 位&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 12:43:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984112#reply1</guid></item><item><title>[Apple] apple one 马区超大杯 1 等 5</title><link>https://www.v2ex.com/t/984110#reply0</link><description>&lt;p&gt;apple one 马区，只比美区少了 apple news ，icloud 每个人最多 400g 多了自觉删除。一个月 25 ，半年起付，半年 150 人民币。跳车不退，翻车比例退。拉小而美群组，自备马区 apple id&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 12:40:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984110#reply0</guid></item><item><title>[分享创造] 刚手搓的论坛，欢迎大家来玩~</title><link>https://www.v2ex.com/t/984105#reply17</link><description>刚自己手搓了个论坛 &lt;a href="http://guang.su" rel="nofollow noopener" target="_blank"&gt;http://guang.su&lt;/a&gt; ，主要是借鉴了 V2EX 和 discuz 的设计。&lt;br /&gt;&lt;br /&gt;自己独特的可以拿出来说一说的主要有以下一些设计：&lt;br /&gt;&lt;br /&gt;1. 前后端都极简，没有使用任何框架，特别是前端 css, js 都是纯手搓，这样能保证代码的极简，部署在国外网络不太好的机器上时，能以还不错的速度跑起来&lt;br /&gt;2. 界面设计采用了优雅的毛玻璃风格&lt;br /&gt;3. 密码在前端加密，不明文传输，这样即便不幸被脱裤，用户密码也不会出现在各种社工库里&lt;br /&gt;4. discuz 的 ubb 代码和现在流行的 markdown 同时支持。我自己是喜欢用 ubb 的，因为和 html 比较像&lt;br /&gt;5. 实践了 PWA, 我自己试了下效果还不错，也还有一些问题，后续再慢慢解决&lt;br /&gt;&lt;br /&gt;论坛主要方向是游戏，二次元，服务器和域名等，欢迎新老朋友们来玩哦~</description><pubDate>Sat, 21 Oct 2023 12:17:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984105#reply17</guid></item><item><title>[问与答] 求 mac &amp; win 双屏幕鼠标 键盘 剪贴板共享免费方案</title><link>https://www.v2ex.com/t/984104#reply1</link><description>&lt;p&gt;不是很想换目前的键鼠，主力机是 mac ，win 通过远程桌面访问但还是感觉不太爽，想问问 v 友们有没有免费的跨屏方案。目前用罗技 g604 和 k380 ，无线路由器是自己独享的。&lt;/p&gt;</description><pubDate>Sat, 21 Oct 2023 12:12:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984104#reply1</guid></item><item><title>[问与答] HP 笔记本电脑，维修换了一块 5 年前产的原厂电池，半年后 25 次充放电，损耗 4%，正常吗？</title><link>https://www.v2ex.com/t/984103#reply0</link><description></description><pubDate>Sat, 21 Oct 2023 12:11:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984103#reply0</guid></item><item><title>[宽带症候群] 链路聚合为什么带宽没有叠加</title><link>https://www.v2ex.com/t/984100#reply5</link><description>NAS 带两张 G 口的网卡，系统里设置了 Mode 2 (balance-xor)&lt;br /&gt;&lt;br /&gt;交换机是 SG108Pro ，不带 802.3ad ，但是有端口汇聚功能，在里面把 NAS 的两个接口汇聚了，也测试了任意拔掉一根网线，依旧能打开 NAS 的页面&lt;br /&gt;&lt;br /&gt;家里的网络是这样的：&lt;br /&gt;&lt;br /&gt;光猫 -&amp;gt; 路由器 A(无线连接手机) -&amp;gt; 交换机 -&amp;gt; 路由器 B （和 A 是有线 mesh ） -&amp;gt; 电脑（有线连接） &lt;br /&gt;&lt;br /&gt;NAS 直接连在交换机上&lt;br /&gt;&lt;br /&gt;在 NAS 上开两个 iperf3 server ，在手机和电脑上各开一个 client 下载，发现两个客户端加起来只有 1G 左右，会是什么原因呢？</description><pubDate>Sat, 21 Oct 2023 12:01:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/984100#reply5</guid></item></channel></rss>
