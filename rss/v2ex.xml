@@ -1,142 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 27 Oct 2023 20:32:47 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 群晖 NAS 用 CIFS 挂载在局域网 Linux 上， qbittorrent 显示下载状态错误</title><link>https://www.v2ex.com/t/986174#reply1</link><description>&lt;h2&gt;现状&lt;/h2&gt;
-&lt;p&gt;由于我的是群晖 216j ，没法直接用 Docker 。所以用自己配的固态只有 128GB 的 Ubuntu 来用 Docker 起 qbittorrent ，下载到 NAS 的共享文件夹内。&lt;/p&gt;
-&lt;p&gt;使用 CIFS 挂载时，使用的账户是我的 NAS 的管理员用户。&lt;/p&gt;
-&lt;p&gt;现在的情况是设置好了 Trackers 、能获取元数据、能有下载速度，但是稍微有一点下载速度后直接显示错误，紧接着就逐渐减速到 0 。有考虑是权限问题，但是如果有一段时间稳定保持住下载速度的话（ 15s 左右），应该说明写入权限是没有问题的吧？&lt;/p&gt;
-&lt;p&gt;我现在没有对 NAS 的共享根目录设置额外的读写权限，因为按理来说我的管理员用户已经是最高权限了。就只将共享根目录下的 Downloads 文件夹设置了 777 。&lt;/p&gt;
-&lt;p&gt;当时参考了这篇文章的挂载方法，&lt;a href="https://blog.csdn.net/ShareProgress/article/details/121033909" rel="nofollow"&gt;https://blog.csdn.net/ShareProgress/article/details/121033909&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Docker 镜像是这个： &lt;a href="https://hub.docker.com/r/superng6/qbittorrentee" rel="nofollow"&gt;https://hub.docker.com/r/superng6/qbittorrentee&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我的网络结构是：光猫拨号，主路由接光猫千兆口，Ubuntu 服务器和 NAS 都直连主路由。在主路由和光猫都端口映射了 Ubuntu 服务器的 6881 的传输端口。有公网 ip 。在 Ubuntu 上同时有启用的 V2RAy 代理（基于规则、非全局）。&lt;/p&gt;
-&lt;p&gt;[所用的测试资源是 Ubuntu 的镜像]
-&lt;img alt="屏幕截图 2023-10-28 032653.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/10/28/wGWJQLq8etFkcSl.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;求各位大哥解答&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;针对我现在的下载方法，有没有什么解决思路？或者可能是在哪一部分出现的问题？&lt;/li&gt;
-&lt;li&gt;如果没有的话，各位大佬们有没有推荐的&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Fri, 27 Oct 2023 19:33:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986174#reply1</guid></item><item><title>[电影] 谁有 Letterboxd patron 会员 有偿换个网站上电影的海报</title><link>https://www.v2ex.com/t/986173#reply0</link><description></description><pubDate>Fri, 27 Oct 2023 19:15:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986173#reply0</guid></item><item><title>[健康] 72 小时勘破肉体:清阳的断食自我实验日志</title><link>https://www.v2ex.com/t/986172#reply0</link><description>&lt;p&gt;原文发于自己的博客： &lt;a href="https://conge.livingwithfcs.org/2023/10/27/fasting/" rel="nofollow"&gt;https://conge.livingwithfcs.org/2023/10/27/fasting/&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;此文可以看作是 《&lt;a href="https://www.v2ex.com/t/833554" rel="nofollow"&gt;过去的 100 天，我尝试了每日 16/8 断食，Ask me Anything&lt;/a&gt;》的续篇。&lt;/p&gt;
-&lt;h2&gt;起因&lt;/h2&gt;
-&lt;p&gt;我通常都是一遍跑步一遍听书。这个周六，听的是《 Fast Like a Girl 》。&lt;/p&gt;
-&lt;p&gt;听得并不像平时那样专心，因为我正在为我的左脚苦恼：我的跖骨又开始疼了。除了少跑，按摩，理疗，我还能做些什么呢？&lt;/p&gt;
-&lt;p&gt;这时候，耳机里传来一段话：72 小时的断食，能让身体激活干细胞生产……干细胞不仅会修复免疫系统，他们能修复任何身体损伤……肌肉骨骼损伤……关节炎……近些年兴起了干细胞注射疗法，价格不菲……但三天的断食就可能让自己的身体自行产生干细胞……我自己曾经有顽固的跟腱损伤，休息，按摩，正骨，草药，针灸，都没管用。最后实在没别的办法了，我试了一次 5 天的只喝水的长时间断食。不开玩笑的，之后疼痛消失，再也没有复发……&lt;/p&gt;
-&lt;p&gt;我心说，哇，这也太巧合了吧？一打哈欠就有人递枕头啊。学术一点，此乃荣格所说的共时性：正找答案呢，答案就自动出现了。我要是不试试，那就说不过去了。&lt;/p&gt;
-&lt;p&gt;回家之后，打开我用的记录软件，发现这将是我的第 720 次断食：哇，第 720 断食，时长 72 小时，又一个巧合！&lt;/p&gt;
-&lt;p&gt;于是当晚 8 点晚饭后，我开始了我的 72 小时轻断食。下文是我的，断食笔记，按断食后的累积时长记录。&lt;/p&gt;
-&lt;h2&gt;第 0 天&lt;/h2&gt;
-&lt;h3&gt;0 小时&lt;/h3&gt;
-&lt;p&gt;发了个朋友圈，宣布自己要尝试 72 小时轻断食。有几个朋友点赞。这叫做外部激励。&lt;/p&gt;
-&lt;h2&gt;第一天&lt;/h2&gt;
-&lt;h3&gt;12 小时 （早 8:00 ）&lt;/h3&gt;
-&lt;p&gt;我平时都睡的很沉，但是这第一晚却睡得非常轻，妻子和孩子一动我就醒。可能是我做下这个决定之后有些过于兴奋？&lt;/p&gt;
-&lt;p&gt;半夜醒来时，胃不舒服，难受，好像有个硬块在那里。早上和妻子一交流，她也如此。又想起来入睡前，儿子也抱怨胃难受。女儿则没事。和妻子两个人一对证，破案了，应该是从 Costco 的买的杏干的问题。昨天下午买完东西，儿子妻子和我都吃了不少杏干。杏干里面太多膳食纤维，造成消化负担。贪口福，胃遭殃。&lt;/p&gt;
-&lt;p&gt;话说，这可真不是个好开端。但既然开端了，就进行下去吧。&lt;/p&gt;
-&lt;p&gt;妻子提醒我，长时间断食，要注意随时补充电解质。如果缺乏电解质，身体可能会发麻。今天我把水换成了茶，喝了 turmeric 茶和橘味茶，都是没有咖啡因的。&lt;/p&gt;
-&lt;p&gt;补了一次电解质水。电解质水就是水里加一点儿盐，钾和镁，因为不能加糖或者甜味剂，所以一点儿也不好喝。而且，直接喝镁盐溶液，一定注意不能一次性喝很多下肚，和几口，等上半个小时一个小时的再喝。一次性都喝下去，有可能会犯恶心。&lt;/p&gt;
-&lt;h3&gt;19 小时 （下午 3:00 ）&lt;/h3&gt;
-&lt;p&gt;下午三点，跑了一次五公里。配速是 4:50/公里，还行。&lt;/p&gt;
-&lt;p&gt;断食第一天，我没有更多笔记了，因为，对我来说，除了补充电解质，那就没有什么特殊的。每天断食 16 小时以上的生活，我已经过了 720 多天了.最近一年，经常每天只吃一顿饭。所以，24 小时不吃饭，身体一点儿抱怨都没有：对它来说，这是常规操作。断食 24 小时后，天晚了。直接睡觉就完了。&lt;/p&gt;
-&lt;h2&gt;第二天&lt;/h2&gt;
-&lt;h3&gt;35 小时 （早 7:00 ）&lt;/h3&gt;
-&lt;p&gt;今早 6 点半醒来，已经断食 30 几个小时了。躺在那里感觉有些乏力，肚子咕咕叫，饥饿感。呼吸似乎比平时感觉沉重。双肾似乎发热。手发凉。头脑警觉，但自觉反应有点慢。&lt;/p&gt;
-&lt;p&gt;昨晚 10 点多躺下，早上 6 点多醒来的话，那我睡了大概 8 个小时。此夜，睡得依旧很轻，时时醒来，这对我来说很不寻常，我平时睡眠质量比这好许多。妻子也睡得不好，不知道是不是受我老翻身的影响。她很早起来了，我则接着睡。我相信断食的时候更需要睡眠。&lt;/p&gt;
-&lt;p&gt;我做了很多梦，都跟吃的有关。&lt;/p&gt;
-&lt;p&gt;梦到的主题，都是我在断食，然后就忽然发现自己在吃东西，然后就有别人跳出来提醒说，诶，你在断食才对，怎么吃起来了呀！哈哈。&lt;/p&gt;
-&lt;p&gt;梦境都是头脑造的，但不知它为啥非得造个别人来提醒我不要吃东西呀，你还在禁食呢。自己提醒自己不就好了？&lt;/p&gt;
-&lt;p&gt;不知你是不是曾经好奇，梦是不是有色彩，有味道。让我告诉你吧，有的呀。今夜的梦里，我吃到了爽脆到不能更爽脆的，酸甜适口的苹果。还有一道菜，我不知道怎么做的，但我尝到了浓郁的蛋黄香。&lt;/p&gt;
-&lt;p&gt;起床后我泡了蒲公英茶喝，是烤制过的蒲公英的根做的，不苦。早上去送孩子上学，回来的路上看到自家草坪的蒲公英长出来了。我的第一个想法不是“该除草了”，而是“看上去很好吃呀”。&lt;/p&gt;
-&lt;h3&gt;37 小时 （早 9:00 ）&lt;/h3&gt;
-&lt;p&gt;哇！已经超过我之前主动断食的最长纪录了。轻轻松松呀。&lt;/p&gt;
-&lt;p&gt;我断食的时长，是有超过 36 小时的，不过那是被动而非主动。我患胰腺炎住院的时候，通常受到的“疗法”，就是禁食，打点滴维持身体所需能量，疼了给止痛药。每次我因胰腺炎住院，我最想要得到的是止疼。现在想想，但真正让我康复的，应该并不是药物，而是长时间的断食。&lt;/p&gt;
-&lt;p&gt;断食，让身体自我修复，是大多数疾病疗愈的方式。生病的人会失去食欲，什么也不迟。&lt;/p&gt;
-&lt;p&gt;身体知道怎么做，相信它。&lt;/p&gt;
-&lt;h3&gt;第 39 小时  （早 11:00 ）&lt;/h3&gt;
-&lt;p&gt;《道德经》 第十二章 有言：圣人为腹不为目，古取彼取此。当人有真正的饥饿感的时候，才能领会此言深意。我现在就感同深受。人生在世，有吃的就得了，别瞎折腾。&lt;/p&gt;
-&lt;p&gt;对了，这一句前面的几句似乎更有知名度：“五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎，令人心发狂，难得之货，令人行妨。” 都是教人要懂得节制。&lt;/p&gt;
-&lt;p&gt;《心经》说“五蕴皆空”。你可曾空过？可曾想过《西游记》里玄奘大弟子，那个闹翻天的猴子，法名释悟空？&lt;/p&gt;
-&lt;h2&gt;第 41 小时 （中午 1:00 ）&lt;/h2&gt;
-&lt;p&gt;工作了一阵，开会，然后找数据。跟我的 Data Engineer 要数据。其实要放在早几年，这些事儿我恐怕不会等，自己就干了。但现在，等等又何妨。别人份内的事儿，我做了，即耽误我的时间，也显得对方没有价值。别人干得了的事儿，就交给别人，只有我才能干的，我再干。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;腿有些乏，发酸&lt;/strong&gt;。觉得自己可能动一动会更好?&lt;/p&gt;
-&lt;h3&gt;第 42 小时 (下午 2:00)&lt;/h3&gt;
-&lt;p&gt;于是出去跑了五公里。气温和昨天差不多，11 度左右。我没怎么出汗。跑的时候脚跖骨没怎么疼，于是速度还快了一点儿，4:40 每公里。跑完了，下肢还是发酸，而且更酸了。这发酸不知道是跑出来的，还是身体启动排毒过程，造成身体里废物多起来了。看样子得多喝点儿水，排一排？&lt;/p&gt;
-&lt;p&gt;去洗了个热水澡，洗完了感觉好多了，还是酸。也许应该去整整桑拿，帮助身体排毒。&lt;/p&gt;
-&lt;p&gt;对了，今天早上妻子问我喝不喝鸡汤。我想了想，不知道喝鸡汤会不会让断食过程停止。第一次做这么长的断食，可别前功尽弃了。还是喝茶吧。蒲公英茶有一种大麦茶的味道，应该是来自烘培。&lt;/p&gt;
-&lt;h3&gt;第 44 个小时 （下午 4:00 ）&lt;/h3&gt;
-&lt;p&gt;冥想时意外发现，盘起腿坐着，下肢的酸痛会消失！之前打坐，是坐久了腿会酸。今天，越坐越舒服！&lt;/p&gt;
-&lt;h3&gt;第 48 小时 （晚 8:00 ）&lt;/h3&gt;
-&lt;p&gt;手冷了一天，但是在晚上的时候，忽然不冷了。是身体开始释放存储的能量了吗？&lt;/p&gt;
-&lt;p&gt;今天的头脑一直很专注，做的工作比平时还多。能明显的感到自己的专注力，感知觉，理解力都比平时高一个水平。而且，是一直持续的，没有精神疲劳。&lt;/p&gt;
-&lt;p&gt;身体上呢，下肢的酸痛感也降低了，&lt;/p&gt;
-&lt;p&gt;但渴望休息。头脑精神，身体疲劳，正适合躺在床上看会儿书。没有饥饿感。&lt;/p&gt;
-&lt;p&gt;然后，睡觉吧。&lt;/p&gt;
-&lt;h2&gt;第三天&lt;/h2&gt;
-&lt;h3&gt;第 59 小时 （早 7:00 ）&lt;/h3&gt;
-&lt;p&gt;我一个小时前醒来，在床上感受身体，我精神饱满，体力充沛。浑身暖洋洋，非常舒服。昨天的腿酸手冷都不见了。&lt;/p&gt;
-&lt;p&gt;晚上睡的很好，没有做有关食物的梦。睡前我还很妻子开玩笑说，如果晚上还做食物的梦，我一定不停地吃，把我这辈子想吃却不能吃的，都吃个遍。哈，没能如愿。&lt;/p&gt;
-&lt;p&gt;早上没有饥饿感。嘴唇有些干，需要喝水。起床了，得去送孩子们上学，然后，开始工作。&lt;/p&gt;
-&lt;h3&gt;第 61 小时 （早 9:00 ）&lt;/h3&gt;
-&lt;p&gt;体力充沛只是躺着时候的感受。起床行动时，还是能感到气力不足。&lt;/p&gt;
-&lt;p&gt;因为孩子迟到却不紧不慢，我发了脾气。一开始挺平静的，但当发现这一天又得迟到时，我的情绪就开始变坏。催促几次的情况下，女儿还是不紧不慢，不知干啥。这样的情况下，我就生气了，喊了。最终让妻子去送她上学。妻子回来说，我们自上孩子学来，每天都是催着他们出门，他们自然不紧不慢，也不会主动。我们还没有教会他们自己主动承担，就不必对次失望。的确我平静下来后，发现自己的脾气完全没必要。我复盘了一下，可能有以下几个可能：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;饥饿感产生的负面影响。起床时并没有饥饿感。但是，我得给孩子们准备早餐，煎蛋，蜂蜜橘子茶，红豆粥……能看不能吃，还是很有挑战性的。&lt;/li&gt;
-&lt;li&gt;生气会振奋精神和体力。饥饿时，会感觉乏力。要想做事，真的就得靠提振情绪。大脑可能下意识的通过生气来给自己来一份肾上腺素。 &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;孩子走后，我去后院扫了扫落叶，然后散步了一小会儿。明显意识到乏力感因为生气的原因，被一扫而尽。&lt;/p&gt;
-&lt;p&gt;对不起女儿，当我的出气筒了。&lt;/p&gt;
-&lt;h3&gt;62 小时 （早 10:00 ）&lt;/h3&gt;
-&lt;p&gt;跑了五公里，4:50 的配速，再也快不起来了，也不想慢。匀速的跑完全程。两天前用这个配速跑步都不会气喘，今天差点儿跑不下来。&lt;/p&gt;
-&lt;h3&gt;68 小时 （下午 4:00 ）&lt;/h3&gt;
-&lt;p&gt;今天做的事：送儿子上学校，工作开会，coding 。发现自己听为 ADHD 患者准备的那种专注音乐，对我很有效果。听着这样的音乐办公，我的专注力也大大提升。&lt;/p&gt;
-&lt;h3&gt;71 小时  (晚 7:00)&lt;/h3&gt;
-&lt;p&gt;还有一个小时就可以吃饭了。现在感觉，怎么说，竟然是这三天里最好的。身体没有任何不舒服。连乏力感也完全消失了。觉得可以接着再来一天。不过，约定时间到了，就这样吧。给自己准备点儿鸡汤，到时候好 break fast 。&lt;/p&gt;
-&lt;h3&gt;72 小时 （晚 8:00 ）&lt;/h3&gt;
-&lt;p&gt;72 小时断食目标达成。&lt;/p&gt;
-&lt;p&gt;我以为我会很饿。并没有。我以为我会对食物异常兴奋。也没有。&lt;/p&gt;
-&lt;p&gt;我给自己准备了一小碗鸡汤，几颗泡菜，是胡萝卜和圆白菜。&lt;/p&gt;
-&lt;p&gt;后先喝小半碗鸡汤，等半小时，让消化系统启动。之后吃了几颗泡菜，里面有益生菌，可以帮助重建肠道菌群。&lt;/p&gt;
-&lt;p&gt;又吃了几颗干枣，因为喜欢。随手冲泡了，一小碗味增汤，是用妻子做味增烤鱼剩下的一碗底儿味噌，也有益生菌。&lt;/p&gt;
-&lt;p&gt;最后，吃了一小碗希腊酸奶，还是为了益生菌。&lt;/p&gt;
-&lt;p&gt;天晚了，去睡了。&lt;/p&gt;
-&lt;h2&gt;后记&lt;/h2&gt;
-&lt;h3&gt;恢复进食之后的一天&lt;/h3&gt;
-&lt;p&gt;昨天夜里吃过饭，9 点半睡觉，睡了 6 个小时，就醒了。&lt;/p&gt;
-&lt;p&gt;我一看表，才 3 点半，得接着睡呀。可是精神头太大了，睡不着。&lt;/p&gt;
-&lt;p&gt;我明白，这是身体让我早点儿起来，接着去找吃的去：昨晚吃的那些，还不够。我想了想，既然不困，正好看书。看到 6 点半，身体说，你这也不给我找吃的，那要不还接着睡觉吧。把书一放，头一歪，睡着了，睡到 7 点，起床。&lt;/p&gt;
-&lt;p&gt;再次吃饭，是下午一点。做了鸡汤面，放了虾仁，菠菜和豆角，还算是营养均衡吧。热热乎乎的一大碗下肚，打着饱嗝回来工作。刚坐下，就觉得身体一下松垮下来了，感觉累，想睡觉。还真是懒啊，这副身体。&lt;/p&gt;
-&lt;p&gt;我中午没有休息。心想不休息应该没啥。可是，工作完了，就感觉脊柱僵直，好像有什么堵住了似的。头脑里一直有个声音，说睡一下就会好的。我没有听，一直到吃完饭。&lt;/p&gt;
-&lt;p&gt;吃完晚饭后，再次有困意袭来。&lt;/p&gt;
-&lt;p&gt;这次困意是如此猛烈，我根本没阻挡之力，连多走几步到卧室床上再躺下的意志力都没有了，走到客厅，看到沙发，就直接倒在上面了。失去意识之前，感到一趴下时，脊柱的堵塞瞬间打开，好像有能量流动之感，蛮奇怪的。之后头脑产生了个直觉：也许应该让脊柱应该顺地球磁力线躺，风水也许不是迷信……&lt;/p&gt;
-&lt;p&gt;根本没时间想想这意味着什么，也毅力气采取行动，秒入睡。&lt;/p&gt;
-&lt;h2&gt;真后记&lt;/h2&gt;
-&lt;p&gt;目前，我已经恢复之前的饮食作息习惯。&lt;/p&gt;
-&lt;p&gt;我为自己无故发脾气向女儿到了歉，告诉她我在还没有教会她为自己的作息负责的时候，就责备她做不到，是愚蠢的。用发火的方式责备，更是不对的。&lt;/p&gt;
-&lt;p&gt;我很高兴自己尝试了 72 小时断食，有了自身的体验。不能光读书，得亲自尝试。百闻不如一试&lt;/p&gt;
-&lt;p&gt;我的脚的问题还存在，我想身体的修复非一日之功。上次用了 17 周，所以，至少 17 周之后，比较一下，才知道这次会不会有用。而且，书里作者写的是她断食 5 天：我这三天，还有可能产生不了足够的修复功效呢。&lt;/p&gt;
-&lt;p&gt;感谢妻子的指导和帮助。我家里最先尝试断食的生活方式的，是她。没有她的带动，我是没有这样的行动力去开始这样的挑战的。我这次的 72 小时的断食是在她的指导下进行的。而且，我能说开始断食就开始，而不用做额外的准备（电解质呀这些事儿），也是因为她早就尝试过长时间断食，并为此做好了知识和物质的准备了。我发脾气时，她还帮我做心理建设，且能及时制止我发脾气对孩子的情感伤害。&lt;/p&gt;
-&lt;p&gt;最后，此篇文章仅仅是个人记录，不构成任何推荐。如果你对断食感兴趣，我看过的这方面的书有 Dave Asprey 《 Fast This Way 》和 Mindy Pelz 的《 Fast like a Girl 》这两本，一个男性作者一个女性作者，互为补充。&lt;/p&gt;
-&lt;p&gt;放弃期待，保持好奇。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2023-10-27 初稿
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 27 Oct 2023 19:12:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986172#reply0</guid></item><item><title>[Android] 安卓 14 克隆应用选项消失</title><link>https://www.v2ex.com/t/986171#reply0</link><description>有没有玩安卓 14 的遇到克隆应用选项消失的，我查了外网，也有人有同样的问题，但是都没有人给他们解决方案。应该是什么选项把他隐藏了，不知道哪里打开。有没有人知道怎么解决？</description><pubDate>Fri, 27 Oct 2023 19:09:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986171#reply0</guid></item><item><title>[NAS] 四块 QLC NVMe 组 NAS 还会遇到降速问题么？</title><link>https://www.v2ex.com/t/986170#reply3</link><description>&lt;p&gt;Intel 670P 价格便宜的要命，虽然是 QLC ，但是我手里有一台 4 盘位的畅网软路由。我在想如果组 RAID10 或者 RAID5 的话，会不会大大减轻缓存跑满降速的问题。&lt;/p&gt;
-&lt;p&gt;请各位指导&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 18:10:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986170#reply3</guid></item><item><title>[macOS] macOS 14.1 貌似不支持给移动硬盘上的文件夹设置图标了</title><link>https://www.v2ex.com/t/986168#reply0</link><description>&lt;p&gt;有人遇到这样的情况吗？&lt;/p&gt;
-&lt;p&gt;我的移动硬盘文件格式是 EXFAT ，不会不和格式有关系？&lt;/p&gt;
-&lt;p&gt;以前只要拖动图片上去就可以了，从 13 升级到 14.1 ，就不行了&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/D592boO.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 17:52:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986168#reply0</guid></item><item><title>[宽带症候群] 由于马上要开始业务了，各位大佬可以帮忙参考一下这个网站防御设置有没有还可以改进的</title><link>https://www.v2ex.com/t/986167#reply2</link><description>先说一些场景：基本上来说只是大陆这边用户，所以直接一刀切&lt;br /&gt;然后下方是设置，这个是解析界面设置，DNS 解析这里直接卡一部分&lt;br /&gt;&lt;a href="https://i.imgur.com/VqMn246.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/VqMn246.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;然后是使用的自定义规则，又卡一下&lt;br /&gt;&lt;a href="https://i.imgur.com/RBJwENq.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/RBJwENq.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;然后 cc 防御设置的是，卡住跑网站的密码的工具&lt;br /&gt;&lt;a href="https://i.imgur.com/AeSyLET.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/AeSyLET.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;然后我的 cdn 流量包设置的策略是，听说是达到这个策略不是回源，而是直接停止解析，防止被刷 cdn 卖房还钱&lt;br /&gt;&lt;a href="https://i.imgur.com/bfcEHjC.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/bfcEHjC.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;emmm.....&lt;br /&gt;&lt;br /&gt;cdn 的套餐包是&lt;br /&gt;cdn 的流量包是 50G&lt;br /&gt;&lt;br /&gt;请求次数是：300 万次&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;然后服务器自带一点点防止扫描的功能，反正防火墙开满，然后限制只有 80 端口与 443 端口开放，其他端口直接不开放（需要操作后台的话，在服务器那里单独解开端口与限制 ip 访问）&lt;br /&gt;&lt;br /&gt;暂时网站防御想到的就是这么多了，不能影响客户体验，又不能不防御，这样设置的话，是否基本上来说无后顾之忧了？(⊙o⊙)…</description><pubDate>Fri, 27 Oct 2023 17:36:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986167#reply2</guid></item><item><title>[Android] 安卓手机怎么样通过 adb 更新系统？</title><link>https://www.v2ex.com/t/986165#reply1</link><description>我现在手机使用的 rom 没有内置更新系统，想问一下各位大佬，这种情况下要更新系统是要通过在 recovery 里面，用 adb sideload 来实现更新系统吗？如果通过 adb sideload 来更新系统的话，数据也可以保留下来是吗？</description><pubDate>Fri, 27 Oct 2023 16:07:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986165#reply1</guid></item><item><title>[iPhone] 2023 年，大陆地区苹果官方的 Trade in 体验如何？</title><link>https://www.v2ex.com/t/986164#reply7</link><description>&lt;p&gt;近期刚从 12 换到 15pro ，闲置下来的 12 也没什么用了，我也不喜欢这代机子，想着不如卖掉回回血&lt;br /&gt;&lt;br /&gt;上闲鱼看了一圈，我这个 128g 的白色的 12 二手估计能卖到 2k1-2k2 的价格，但闲鱼这个平台水又深，我又尤其怕麻烦，也实在没有精力去处理交易可能会遇到的问题，暂不考虑出给平台上不认识的陌生人&lt;br /&gt;&lt;br /&gt;而苹果官方的 trade in ，在我手机各项功能都正常的前提下可以给到 2k 的回收报价，并且今年可以直接抵押换钱而不用换购新设备，我有点心动了&lt;br /&gt;&lt;br /&gt;想请问一下过来人，这项服务是否真能如其承诺的一样兑现？有无压价的情况发生呢？&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 15:53:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986164#reply7</guid></item><item><title>[微信] 微信小程序上班打卡考勤，需要获取定位，如何实现自动化？</title><link>https://www.v2ex.com/t/986163#reply2</link><description>公司用的是魔点办公微信小程序考勤，离家很近，虽然不会迟到。但有时会忘记打卡，所以想实现自动化，有没有解决方案？</description><pubDate>Fri, 27 Oct 2023 15:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986163#reply2</guid></item><item><title>[问与答] 为什么 Google 搜索结果会去除空格？</title><link>https://www.v2ex.com/t/986161#reply0</link><description>刚用 Google 发现了一个令我费解的情况：&lt;br /&gt;&lt;br /&gt;**汉字+单词+汉字**这种文本，单词前原本是有空格的，然而搜索结果均移除了空格，不过单词后的空格还在。&lt;br /&gt;&lt;br /&gt;图片这样：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/xiayDof.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xiayDof.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;是我浏览器的问题，还是说 Google 故意这样处理的？感觉并没有提高可读性。</description><pubDate>Fri, 27 Oct 2023 15:16:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986161#reply0</guid></item><item><title>[硬件] 有没有人觉得 DisplayPort “关显示器就相当于拔线”的设计很脑瘫？</title><link>https://www.v2ex.com/t/986160#reply14</link><description>&lt;p&gt;电脑通过 DisplayPort 接显示器，一旦按显示器关闭按钮，就等效于强制拔线，这个不是 Bug ，是 DP 标准就是这么设计的。对于其他任何接口（ VGA DVI HDMI ）都没有这个脑瘫的设计，通过操作按钮关闭显示器，仅关闭显示输出，但显示器的信号仍然被电脑识别，电脑仍然可以输出信号，除非直接关闭显示器电源插座（有些显示器也自带切断电源的开关，等效于拔插头）。只有 DP 协议如此“标新立异”。&lt;/p&gt;
-&lt;p&gt;DP 的脑残设计有可能给用户导致包括但不限于如下问题：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 28 Oct 2023 02:51:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] joplin_server 这个镜像如何更新版本呢</title><link>https://www.v2ex.com/t/986203#reply0</link><description>&lt;p&gt;我删除了容器、镜像，然后无论是拉去最新版本还是按照最新版本的版本号拉取，他都是老版本。只有我删除了数据包，他才会是个新的。但是我数据就都没了。请问大佬们是怎么更新的呢？&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 02:49:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986203#reply0</guid></item><item><title>[问与答] 结婚几年，已经没有感情了，有没有年龄大一点的过来人聊聊怎么熬下去的。</title><link>https://www.v2ex.com/t/986200#reply7</link><description>结婚 5 年，当初年少不懂事，没怎么谈过恋爱，一年后结婚的。其实在那一年前面几个月很甜蜜，但是后面经常吵架，一个星期都能吵一次，一吵架半夜不能睡觉。&lt;br /&gt;&lt;br /&gt;后面怀了孩子，还是吵架，一言不合就要自杀跳楼，我怕真的出事，内心也是喜欢的，就结婚了。&lt;br /&gt;&lt;br /&gt;现在第五个年头，两个人的爱好，饮食习惯，生活方式其实一直都差距很大。&lt;br /&gt;&lt;br /&gt;平常下完班，近 8 点到家，我吃饭洗碗，她在边上玩三国杀，娃有时自己在玩，有时在看宝宝巴士。&lt;br /&gt;吃完饭洗完碗有时扫一下地，然后给娃洗澡，9 点多。&lt;br /&gt;&lt;br /&gt;等娃睡了 2 个人也没太多的交流了，她玩三国杀刷抖音，我有时玩会游戏，有事看会视频，她玩游戏会一直喊我做事，隔几分钟倒水，隔几分钟拿个纸巾，隔几分钟洗点水果之类的，我有时在和朋友开黑，有时很烦，有时说你自己拿一下，她就发飙了。&lt;br /&gt;&lt;br /&gt;平常家里有什么事情，她提出来，我稍微一提不同的意见，她就炸了，说我什么都不懂，还来反对，巴拉巴拉能说很久。&lt;br /&gt;&lt;br /&gt;还有现在差不多是无性婚姻了，好好跟她聊这个事情，她就开始一哭二闹，说她这么累了，还要满足我的兽欲。&lt;br /&gt;&lt;br /&gt;现在娃白天上幼儿园，下午阿姨 5 点多来做饭搞卫生，她也没上班，中午她点外卖，也没做什么家务。&lt;br /&gt;&lt;br /&gt;事业遥遥无期，家庭不顺，离婚又担心小孩的成长。&lt;br /&gt;每天情绪低落，啥都不想做，回到家话也不想说，说话又怕吵架。现在感觉对所有的事情都失去了兴趣，游戏也不想玩了，看剧也没什么意思，旅游也不想去。&lt;br /&gt;&lt;br /&gt;以后 70 岁才退休，但是最近的新闻，这么有权，这&lt;br /&gt;么厉害的医生没到 70 就没了。也不知道生活有什么意义，阶级已经定好，靠上班基本不能改变。&lt;br /&gt;&lt;br /&gt;有没有过来人，我这是不是抑郁症前期？&lt;br /&gt;&lt;br /&gt;有没有过来人，这种婚姻该怎么继续下去？&lt;br /&gt;&lt;br /&gt;如果可以重开，我再也不会结婚买房生小孩了。</description><pubDate>Sat, 28 Oct 2023 02:39:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986200#reply7</guid></item><item><title>[Android] 双十一买手机求购推荐&amp;大家分享自己使用体验</title><link>https://www.v2ex.com/t/986198#reply1</link><description>&lt;p&gt;双十一想买个手机，按优先级需求是这样的&lt;/p&gt;
+&lt;p&gt;1.系统流畅稳定,不杀后台&lt;/p&gt;
+&lt;p&gt;2.续航
+之前用的苹果 XS 和 12 ，让我觉得续航还是很重要&lt;/p&gt;
+&lt;p&gt;3.拍照&lt;/p&gt;
+&lt;p&gt;另外自己不打游戏，预算没要求&lt;/p&gt;
+&lt;p&gt;目前看的有&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;高分辨率显示器关闭再开启后，窗口全跑左上角去了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;睡眠后再开机必须先开显示器再开电脑，不然有可能窗口错乱&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;多显示器场景是重灾区，必须保持所有显示器一直开启，有时偶然关闭了一台显示器，或者有时候只想关注一台显示器，关闭其他显示器，而后再开启后，窗口全是错乱的&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;关显示器后，远程桌面、串流应用等无法正常工作&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;一加 ace2pro  处理器好&lt;/li&gt;
+&lt;li&gt;荣耀 X50      续航长&lt;/li&gt;
+&lt;li&gt;红米 12turbo  看 V 站大家评价都不错&lt;/li&gt;
+&lt;li&gt;等等华为发布 nova12&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;网上随便一搜，大量用户深受其害，苦不堪言。制定标准的人到底是如何考虑的，非要标新立异？&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 15:08:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986160#reply14</guid></item><item><title>[程序员] 今天的 Next.js 发布会有什么亮点？</title><link>https://www.v2ex.com/t/986157#reply9</link><description>&lt;p&gt;&lt;a href="https://nextjs.org/conf" rel="nofollow"&gt;https://nextjs.org/conf&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 14:46:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986157#reply9</guid></item><item><title>[问与答] 看病半天就够你们会请一天假还是半天假</title><link>https://www.v2ex.com/t/986154#reply5</link><description></description><pubDate>Fri, 27 Oct 2023 14:26:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986154#reply5</guid></item><item><title>[MacBook Pro] 彭博社爆料 31 号可能有 M3 的 macbook pro， 14,16 寸</title><link>https://www.v2ex.com/t/986153#reply11</link><description>&lt;blockquote&gt;
-&lt;p&gt;The Bloomberg report says that we’ll see two new MacBook Pro models, code-named J514 and J516, and it doesn’t take a genius to decode these into 14-inch and 16-inch models.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="https://9to5mac.com/2023/10/27/apples-scary-fast-event/" rel="nofollow"&gt;https://9to5mac.com/2023/10/27/apples-scary-fast-event/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 14:25:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986153#reply11</guid></item><item><title>[问与答] Slack 怎么备注联系人?</title><link>https://www.v2ex.com/t/986152#reply0</link><description>&lt;p&gt;找了好久, 没找到做备注的地方啊?&lt;br /&gt;
-我想备注真实姓名, 或者备注一些个人信息都行呀.&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 14:24:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986152#reply0</guid></item><item><title>[问与答] 为什么 RAP 的节奏都是一个样的呢？</title><link>https://www.v2ex.com/t/986151#reply0</link><description></description><pubDate>Fri, 27 Oct 2023 14:17:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986151#reply0</guid></item><item><title>[小米] 小米 AX6000， 379 拼单</title><link>https://www.v2ex.com/t/986149#reply0</link><description>&lt;p&gt;9:/⇥NKGwT9EDuC6Yg⇤ 复制并打开拼多多 APP ，379 元拼团购买 [旗舰 WiFi6 ] 小米路由器 AX6000WiFi6 增强版家用千兆端口 5G 双频，仅剩 2 个名额&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 14:08:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986149#reply0</guid></item><item><title>[问与答] 新开发了个小工具，用于低成本批量制作 anki 卡片， 有需求的小伙伴可以关注一下哦 https://ankiimage.top/</title><link>https://www.v2ex.com/t/986148#reply0</link><description></description><pubDate>Fri, 27 Oct 2023 14:05:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986148#reply0</guid></item><item><title>[酷工作] 世界 500 强外企运维开发职位， 广州</title><link>https://www.v2ex.com/t/986147#reply0</link><description>岗位职责&lt;br /&gt;- 负责云平台日常环境维护&lt;br /&gt;- 负责 pipeline 的构建和自动化部署&lt;br /&gt;- 对云平台有相关项目经验加分（公有云，私有云均可）&lt;br /&gt;&lt;br /&gt;岗位要求&lt;br /&gt;- 具备 1-4 年运维开发经验，熟悉运维开发流程&lt;br /&gt;- 熟悉掌握 shell 脚本，python 加分&lt;br /&gt;- 有 linux 运维经验&lt;br /&gt;- 熟悉掌握 docker ，k8s 相关维护经验，熟悉 jenkins&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;hsbc 外包职位，介意勿扰&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;简历可以发到这个 Email：cm9jazUxMkAxNjMuY29tCg== （注明 V2EX ）&lt;br /&gt;&lt;br /&gt;会有招聘小姐姐跟进沟通，一对一根据个人情况推荐合适职位&lt;br /&gt;&lt;br /&gt;猎头公司：Teksystems</description><pubDate>Fri, 27 Oct 2023 14:04:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986147#reply0</guid></item></channel></rss>
+&lt;p&gt;各位老哥有其他推荐的不，或者分享下自己最新买的手机使用体验&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 02:34:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986198#reply1</guid></item><item><title>[问与答] 如何通过代理游戏赚钱</title><link>https://www.v2ex.com/t/986196#reply1</link><description>比如代理哪些浮夸的游戏</description><pubDate>Sat, 28 Oct 2023 02:18:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986196#reply1</guid></item><item><title>[程序员] 从最近发的一个工单来吐槽一下群晖的技术支持和 DSM Raid</title><link>https://www.v2ex.com/t/986195#reply7</link><description>&lt;p&gt;以下内容纯主观吐槽，各位看个乐即可，也给双 11 准备买群晖的朋友提供一点 FS 方面的参考。&lt;/p&gt;
+&lt;p&gt;事情起因是，我把自用的存储从 zfs/ext4 迁移到了 btrfs: Gen10 从 zfs 迁到了 btrfs raid10 ，白群晖从 ext4 切到了 btrfs 。&lt;/p&gt;
+&lt;p&gt;然后我就开始读 btrfs 的文档。(btrfs 和 zfs 的区别还挺大，这点等我下次摸鱼的时候再开帖子唠&lt;/p&gt;
+&lt;p&gt;我要吐槽的是:&lt;/p&gt;
+&lt;p&gt;a. 群晖在销售页面关于 btrfs 如何保护用户数据吹得有点过。zfs/btrfs 实现 self-healing 功能的前提是，数据有热冗余，单凭 checksum 只能检测出 data corruption 但无法修复。而群晖的销售给用户的印象是，他们有黑科技能恢复损坏的数据，但实际上他们只是尽量让 mdadm 和 btrfs 不出问题，至于用户的数据，坏了就坏了，修不了&lt;/p&gt;
+&lt;p&gt;b. 群晖的技术支持的客服，不知道是水平不行，还是警惕心太强，回复不但笼统，而且敷衍，甚至有时是错的。这个工单中，可能认为我是他们竞争对手的人，来套他们的方案...... 但我只是想知道他们如何保护我的数据。以上情况也不是第一次出现在我提的工单里了&lt;/p&gt;
+&lt;p&gt;下面贴一下工单对话，主题是 "关于存储池'数据清理'功能可以修复 checksum 异常的数据的疑惑":&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;看了一下我的设备所使用的存储空间的结构，先用 mdadm 创建 raid1 ，再将映射为 md2 的设备作为 pv 交由 lvm 管理，lvm 在 pv 上创建 vg ，进而创建 lv ，最后把 btrfs 放在 lv 上。
+
+据我所知，btrfs 会记录每个 extent 的 checksum 值用于验证这个 extent 中的数据是否完整。而修复 checksum 有异常的数据需要额外的，具有正常的 checksum 的另一份数据。
+
+比如在 Linux 上 btrfs 默认存储两份 metadata 用于在 metadata 损坏时修复这些损坏的 metadata ，而 data 则只存了一份，所以在这种情况下，如果 data 的 checksum 出现异常则无法修复。
+
+而群晖 btrfs 文件系统中也使用了一样的配置，即，2 份 metadata 和 1 份 data 。所以我的理解是数据清理这个功能只能修复 btrfs 中的 metadata ，而不能修复 data 。是这样的吗？
+
+如果不是的话，数据清理的行为和结果是什么样的？
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;您对于数据清理中 FS scrubbing 这个部分理解没有问题，但是执行数据清理这个操作会包含两个操作，FS scrubbing 和 RAID scrubbing 。
+
+理论上如果 Btrfs 不开 COW 的话其实并不会知道某个 data 有损坏，只有读到这个文件才会知道文件损坏了。
+
+而当文件系统在进行 FS scrubbing 的时候如果查到某个文档 data 真的坏了，那就会去做 RAID scrubbing 然后用 RAID parity 来修修看（不管有没有开 COW ）。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;数据清理如果包含 btrfs scrub &amp;amp; mdadm scrub 两个操作的话，它们的执行逻辑是怎样的？
+先 btrfs scrub ，再 mdadm scrub ，这两个步骤一定会按这样的顺序发生？
+或者像你说的那样，btrfs scrub 遇到 data checksum 不一致时才发生 mdadm scrub ？
+
+我注意到，对于 mdadm scrub 来说:
+1. mdadm raid5/6 在遇到数据不一致时会假定 checksum 错误，然后根据(尽管可能已经损坏的)已有数据重新计算 checksum
+2. mdadm raid1 遇到数据不一致时会假定第一个硬盘的数据是正确的，然后覆写到其他的硬盘中
+如果发生 data checksum 不一致的情况，那么 mdadm scrub 为什么可以修复 btrfs 中的数据？
+
+按照我的理解来看，mdadm scrub 所更新的数据只是用于构成 mdadm 的数据。mdadm 暴露给 btrfs 的，btrfs 可以看到的数据并没有变化，所以我认为 mdadm scrub 无法修复 btrfs 中 data checksum 不一致的问题。这个推断的过程哪里有问题？
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;抱歉让您久等了，目前这边有与相关工程师讨论，回复如下：
+
+目前 DSM 在执行数据清理的时候是会先执行 FS scrubbing 再执行 RAID scrubbing ，但由于您当前的许多问题涉及到 Btrfs 的底层原理及行为，由于 Btrfs 是 Oracle 所研发，因此对于此文件系统的具体原理与技术规范的准确解释，我们建议您可以直接查阅或咨询 oracle 官方。
+
+参考： https://docs.oracle.com/en/operating-systems/oracle-linux/8/fsadmin/fsadmin-ManagingtheBtrfsFileSystem.html#btrfs-setup
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;我不关心 btrfs 的技术细节，我想问的是 DSM 如何保证数据被修复，或者向用户报告数据无法被修复。
+
+btrfs 存储 2 份 metadata 和 1 份 data ，那么 data 损坏时，DSM 所用的 raid(mdadm)又不能保证 data 可以被修复。那么，在这种情况下，一旦数据无法被修复，DSM 会向用户报告拥有这部分 data 的文件损坏，需要用户手动介入？
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;首先，DSM 本身、Btrfs 文件系统又或是带有冗余功能的 RAID ，都不能完全保证在原始数据错误的情况下数据的完整性。
+
+一般情况下如果数据在文件系统中出现错误，则大概率就已经发生文件系统错误，而文件系统检查都是以修好文件系统本身的结构为主，损坏的文件本身很有可能还是坏的。
+
+因此若您的数据十分重要，Synology 始终建议您备份多个数据副本到不同的地方，以保证数据安全。
+
+参考：如何备份 Synology NAS
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;关于这句 "首先，DSM 本身、Btrfs 文件系统又或是带有冗余功能的 RAID ，都不能完全保证在原始数据错误的情况下数据的完整性。" 本身就不对。&lt;/p&gt;
+&lt;p&gt;对于 Btrfs raid1/10 以及不稳定的 btrfs raid5/6 ，又或者是 zfs mirror/raidz 这种有 self-healing 的 fs 来说，在一份 data 损坏的情况下都可以根据 fs 内部的热冗余或 raid 中的奇偶校验码来修复损坏的那份数据。只有当 data 损坏且没有热冗余的情况下 fs 才会报告 data corruption 需要用户介入。&lt;/p&gt;
+&lt;p&gt;(注意，目前只有 btrfs/zfs 有 self-healing 。mdadm 没有，硬件 raid 也没有。&lt;/p&gt;
+&lt;p&gt;威联通用的是纯 zfs ，使用 mirror/raidz 的情况下可以触发 self-healing 修复 corrupted data ；或者像我一样自建存储，使用 btrfs raid10 也能让 self-healing 生效。&lt;/p&gt;
+&lt;p&gt;总之，准备购买群晖的朋友要注意，就我目前阅读的结论来看，群晖，不论采用什么方案都无法保证数据完整性，他们只能尽量保证 DSM 的运行不出问题；就我发了六七个工单的体验来看，对于知识不够丰富的个人用户来说，群晖的技术支持约等于 0 ，对于有服务器运维经验的用户来说，客服的回复多数时候有误导性。&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 02:12:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986195#reply7</guid></item><item><title>[青岛] 青岛的互联网寒冬也太冷了</title><link>https://www.v2ex.com/t/986194#reply3</link><description>&lt;p&gt;工作马上 10 年了，公司在裁员，好慌。大龄程序猿们都有好的副业吗？&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 01:58:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986194#reply3</guid></item><item><title>[生活] 求推荐舒服的被套</title><link>https://www.v2ex.com/t/986192#reply7</link><description>&lt;p&gt;有没有舒服的被套推荐，之前我妈实体店(已倒闭)买的，已经破了只能扔，现在网上买的都不舒服，导致睡眠质量下降，偶尔还失眠。我个人夏天喜欢抱着被子睡，被套不够柔软就整个身子都不舒服&lt;br /&gt;
+各位有睡得舒服的被套推荐一下吗？&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 01:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986192#reply7</guid></item><item><title>[iOS] 创建提醒事项自动归类，如何关闭归类！</title><link>https://www.v2ex.com/t/986191#reply4</link><description>更新 iOS17 后误操作给开启了提醒事项的自动分类，日常使用 Siri 创建了提醒事项后，不是归到“蛋类”就是“面包麦片”等之类的，并且跟创建的提醒内容八杆子打不着！&lt;br /&gt;这个提醒事项自动归类在哪里能关闭呀🙏</description><pubDate>Sat, 28 Oct 2023 01:49:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986191#reply4</guid></item><item><title>[宽带症候群] 怎么设置 ipv6 mtu</title><link>https://www.v2ex.com/t/986190#reply0</link><description>&lt;p&gt;tplink 、h3c 和（我用的） openwrt 都没有 ipv6 MTU 的选项，只有一个 WAN 口的 MTU ，那是 v4 和 v6 公用一个 MTU 值吗？&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 01:45:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986190#reply0</guid></item><item><title>[问与答] 站在 2023 年末的节点来看，开发游戏使用游戏引擎，在国内，用 godot 还是用 Cocos？</title><link>https://www.v2ex.com/t/986188#reply4</link><description>&lt;p&gt;主要考虑生态。另外不能被游戏引擎提供商打工。&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 01:38:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986188#reply4</guid></item><item><title>[问与答] 要请一个月假怎么请家人们</title><link>https://www.v2ex.com/t/986187#reply9</link><description>&lt;p&gt;有事情要请一个月假，但真实的原因不好说，有什么理由好请一个月假&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 01:36:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986187#reply9</guid></item><item><title>[分享发现] 翻译笔实在太好用</title><link>https://www.v2ex.com/t/986186#reply3</link><description>&lt;p&gt;给小孩买了个翻译笔（最便宜、最高性价比的那款“蛋”，价格 300 以下），个人觉得超级好用。&lt;/p&gt;
+&lt;p&gt;读书时很羡慕别人有“文曲星”、“快易通”之类的电子词典。但是用过翻译笔，被爽到了，感觉秒杀这些电子词典。&lt;/p&gt;
+&lt;p&gt;总结一下其特点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;扫描输入。翻译笔基本都带这个功能，看纸质书超级方便。但试过扫屏幕，基本不行。所以非常适合学生党。相比电子词典需要手输入，超级快捷。&lt;/li&gt;
+&lt;li&gt;内置字典。轻便，起码书包不用背着厚重的字典了。我买的这款只有英语和汉语字典，感觉应付小学、初中、高中都没问题。贵一倍的那些，支持其它语种。值得一提的是，汉语字典提供了笔画顺序的动画。&lt;/li&gt;
+&lt;li&gt;语音输入查字典。这个降低了电子词典的打字输入的麻烦。语音输入还提供很多功能。但是可能需要联网。&lt;/li&gt;
+&lt;li&gt;朗读练习。可以评价朗读发音是否准确。对比以前只能自己对比录音，实在好太多。&lt;/li&gt;
+&lt;li&gt;省电。我买的这款，能够自动待机，即扫即显示，无需关机。&lt;/li&gt;
+&lt;li&gt;内置古诗。背古诗可以不用带课本，还有完整解析。&lt;/li&gt;
+&lt;li&gt;适合不能带手机的场合。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 28 Oct 2023 01:28:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986186#reply3</guid></item><item><title>[问与答] 请问有了解 mercari 煤炉的站友吗？给这个网站搞得头大</title><link>https://www.v2ex.com/t/986185#reply4</link><description>听说 mercari 流量大，玩法也花，于是就抱着试试看的想法，环境方面是 ok 了，机场，代理 ip ，指纹浏览器，全都按部就班，结果配置了五个环境，每次都是刚注册成功，一刷新页面，就显示账号被限制，各种办法都试过，所有信息手动输入，用 google 邮箱，将 gv 手机号替换成 mg 真实手机号，全都不行，实在头疼，请问有没有懂得大佬解惑（环境方面我确信真的没问题）</description><pubDate>Sat, 28 Oct 2023 01:27:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986185#reply4</guid></item><item><title>[OpenWrt] Openwrt/ Linux 定长 日志文件</title><link>https://www.v2ex.com/t/986183#reply1</link><description>&lt;p&gt;有这么一个需求：一个进程会源源不断输出日志（不支持修改日志级别），现在把这个进程写进了 Openwrt 的 Service 的 procd 进行管理，有什么方案可以做到：可以查看进程输出的日志，但是日志长度不会无限制增长。（最好是不使用 cron 任务定时去截断日志文件这个方案）。&lt;/p&gt;
+&lt;p&gt;倒是想到了一个方式，创建一个 unix socket 文件，然后让进程把日志输出到 socket 文件中，想要查看的时候，直接怼在 socket 文件上读。而且 socket 文件好像可以设置长度。但是不知为何，Openwrt x86 上无法创建成功 socket 。（如果有大神有相关经验，望可指点一下。）&lt;/p&gt;
+&lt;p&gt;希望各位大神不吝赐教。&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 00:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986183#reply1</guid></item><item><title>[机械键盘] HHKB 用了 10 年，手感变差怎么办？</title><link>https://www.v2ex.com/t/986182#reply16</link><description></description><pubDate>Sat, 28 Oct 2023 00:53:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986182#reply16</guid></item><item><title>[API] 各位大佬们，有谁知道哪个网站可以查航班和火车的 API？</title><link>https://www.v2ex.com/t/986181#reply1</link><description>&lt;p&gt;找了一圈没找到适合个人开发者的。。   &lt;/p&gt;
+&lt;p&gt;各位大佬们，要是有知道提供 API 网站的麻烦告知一下小弟，付费和免费的都行，谢谢大佬们了。。。&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 00:29:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986181#reply1</guid></item><item><title>[Next.js] 使用 server components 的前提下完全使用 url params 作为状态管理是否可行</title><link>https://www.v2ex.com/t/986180#reply0</link><description>&lt;p&gt;由于 server components 的渲染早于 client components ，而且无法访问 context ，所以需要在两者之间共享 state 尤其是将客户端的变更反映到服务器端组件的时候，我现在想到的方法就是修改 url query params 然后跳转到这个新 url 。
+网上也有一些提倡这样做的文章和视频，比如：
+&lt;a href="https://youtu.be/ukpgxEemXsk?si=Dd9vJVfA4HBU0do3" rel="nofollow"&gt;https://youtu.be/ukpgxEemXsk?si=Dd9vJVfA4HBU0do3&lt;/a&gt;
+&lt;a href="https://dev.to/jeffsalive/solving-the-challenge-of-state-persistence-in-nextjs-effortless-state-management-with-query-parameters-4a6p" rel="nofollow"&gt;https://dev.to/jeffsalive/solving-the-challenge-of-state-persistence-in-nextjs-effortless-state-management-with-query-parameters-4a6p&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;感觉大体上这种做法是可行的，但我如果客户端的状态比较复杂的话会不会带来问题？&lt;/p&gt;</description><pubDate>Sat, 28 Oct 2023 00:27:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986180#reply0</guid></item><item><title>[小米] 小米 14pro 相比 13u 的拍照有提升吗？</title><link>https://www.v2ex.com/t/986179#reply2</link><description>纠结这两个哪个拍照好看，看中拍照的话应该选哪个？后面会不会出 14u</description><pubDate>Sat, 28 Oct 2023 00:01:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986179#reply2</guid></item><item><title>[NAS] 黑群晖的哪个版本支持 heic 格式以及视频预览？</title><link>https://www.v2ex.com/t/986178#reply5</link><description>&lt;p&gt;今天 PVE all in boom 屁了，打算搞个黑群晖或者 trunas scale, 黑群晖为主，想请教下黑群晖的哪个版本支持 heic 格式以及视频预览？&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 23:28:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986178#reply5</guid></item><item><title>[Linux] Linux UEFI 启动模式做软 raid1 问题</title><link>https://www.v2ex.com/t/986177#reply7</link><description>&lt;p&gt;正常的 EFI 分区无法放到 raid 上，与是打算使用手动把 sda 上的 boot 分区克隆到 sdb 上(安装系统时在 2 个盘上都建了一个 1G 的 EFI 分区)。&lt;/p&gt;
+&lt;h2&gt;show efiboot order&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;efibootmgr -v&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Update grub and install grub&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;/usr/sbin/update-grub /usr/sbin/grub-install --recheck&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;boothdd=`df -h |  grep efi |  awk  '{print $1}'  |  sed  's/://g'  |  sed  's/\/dev\///g'&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/usr/sbin/grub-install --recheck --bootloader-id debian-${boothdd%?}&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;copy EFI Partition to all disk from boot disk&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;dd  if=`df -h |  grep efi |  awk  '{print $1}'`  of=/dev/sdb1 bs=1M&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;efibootmgr --create --disk /dev/sdb --part 1 -w --label debian-sdb --loader "\EFI\debian\grubx64.efi"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;测试 2 个盘启动都没问题，打算写个自动克隆脚本，在更新内核时触执行克隆，有人这样搞过吗？有没有啥坑。
+查看 2 个盘的 /boot/efi 分区 UUID 是一样的，这样启动时似乎是随机读一个其中一个盘。&lt;/p&gt;</description><pubDate>Fri, 27 Oct 2023 23:27:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986177#reply7</guid></item></channel></rss>
