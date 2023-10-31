@@ -1,232 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 31 Oct 2023 02:31:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MacBook Pro] M3 系列芯片较前代产品的几个变化</title><link>https://www.v2ex.com/t/986985#reply0</link><description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;取消 macbook pro 13 带 Touchbar 系列，合并至 macbook pro 14 系列，采用 M3 芯片&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;M3 Pro 与 M3 Max 的 CPU 部分规格不再相同。
-M3 Pro 顶配 6 性能核心+6 能效核心，M3 Max 顶配 12 性能核心+4 能效核心。前代 M1 ，M2 的 Pro 和 Max 系列的顶配 CPU 部分核心数相同。需要更强 CPU 性能须上 Max 芯片&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;M3 Pro 和 Max 的标称内存带宽较前代产品缩水。
-M1 ，M2 的 Pro 芯片是 200GB/s ，M3 Pro 是 150GB/s 。M1 ，M2 的 Max 芯片 400GB/s ，M3 Max 是 300GB/s&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;14 寸 M3 Pro 型号起步配置 18+512&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 31 Oct 2023 02:30:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986985#reply0</guid></item><item><title>[问与答] 假使一个人被(很多)人盼望着早点死，他活着还有意思吗？</title><link>https://www.v2ex.com/t/986984#reply2</link><description>&lt;p&gt;如不肖子孙让骂他老娘/爹咋不早点死。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:29:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986984#reply2</guid></item><item><title>[求职] 工作难找，我应该躺 or 卷？</title><link>https://www.v2ex.com/t/986983#reply0</link><description>&lt;p&gt;8 月底被裁员，休息了 1 个月，找工作 1 个月。招聘很少，工作难找。有一些困惑，大佬们帮忙分析下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;期望工作：&lt;/strong&gt; &lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 31 Oct 2023 09:30:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[全球工单系统] 百度地图设置静音了还天天用语音提示“目的地车位紧张，推荐 。。。。”</title><link>https://www.v2ex.com/t/987189#reply0</link><description>&lt;p&gt;每次导航我都是点“回家”这个按钮，起码这个场景压根不需要重新推荐停车场吧&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:30:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987189#reply0</guid></item><item><title>[职场话题] 有没有 HR 现身说法，你们是不是对主动的求职者抱有恶意或者说偏见？</title><link>https://www.v2ex.com/t/987188#reply1</link><description>最近在找工作，有几个是我特别想争取的岗位，所以就非常主动，向 HR 介绍自己，表明真的很喜欢这个岗位，希望能有面试的机会，结果 TMD 清一色，都连一个面试机会都没有，更令人窒息的是，他们的关注点都在我既然在职，为啥要换工作？&lt;br /&gt;相反，对于其他我投完简历就没搭理的岗位，HR 都还正常的回复，邀请面试……&lt;br /&gt;所以，你们 HR 是对主动的求职者有什么恶意或者偏见吗？</description><pubDate>Tue, 31 Oct 2023 09:26:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987188#reply1</guid></item><item><title>[NAS] all in boom 板 U 推荐?</title><link>https://www.v2ex.com/t/987187#reply0</link><description>本来想组个黑群晖的，想在想想我似乎并不是非常需要。但还是需要日常观影（硬解 jellyfin/emby ）和 docker ，openwrt 。&lt;br /&gt;打算刷个 PVE 后开虚拟机，会运行两三个 debian ，openwrt ，windows ；&lt;br /&gt;openwrt 当旁路由处理我房间里的所有流量，家里人的手机之类的就不走这里，避免 boom 了之后影响他们上网；&lt;br /&gt;debian 会运行一些 docker 还有一些脚本之类的，最多开三个（理论上只需要一个长期运行）；&lt;br /&gt;windows 是用来上班时间远程回去开开 chrome 之类的还有一些 vscode 啥的，不是用来玩游戏的，用时开机，不用时则关；&lt;br /&gt;基于以上需求，有啥板 U 推荐吗？低功耗(因为 PVE 会 24 小时运行)条件下性能越高越好，现在打算的是 i3-12100t （不知道配什么板子），会不会性能溢出了？&lt;br /&gt;还是 i3-8100t 就够了？&lt;br /&gt;对这个 8/12100t 没啥概念，现在手里的笔记本是 R5-5600H GTX1650 ，和我的笔记本比，这两 cpu 实际体验差多少呢</description><pubDate>Tue, 31 Oct 2023 09:25:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987187#reply0</guid></item><item><title>[广州] 广州电信，唉，一言难尽……</title><link>https://www.v2ex.com/t/987186#reply0</link><description>前置:犄角旮旯，没有联通和移动宽带&lt;br /&gt;&lt;br /&gt;4G 时代的融合套餐优惠到期&lt;br /&gt;300+，每月返 90 代金券作为优惠&lt;br /&gt;&lt;br /&gt;现在同速率套餐（手机流量和通话时间减了近半）才 200+，虽然实际的钱差不多，但省去每月操作代金券的麻烦事&lt;br /&gt;问如何转过去，答：新套餐含一个什么破监控（户内或户外自选），合计要给 199 安装费和 200 预存，要求在网三年，违约金竟然会比这 399 还多，最最重要的是，公网 ip 没了&lt;br /&gt;&lt;br /&gt;韭菜的命，只好续期原套餐&lt;br /&gt;&lt;br /&gt;电信啥都好，线路稳定，看盘最重要是稳定，印象中十年没出现过断网（大范围事故除外，说的只是一亩三分地），也没遇到什么写保证书之类的破事，pt 新种挂两三天就有 3.0 分享率，适合我这种经常关机撤种的人&lt;br /&gt;&lt;br /&gt;就是 tmd 贵，算是花钱买点省心</description><pubDate>Tue, 31 Oct 2023 09:21:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987186#reply0</guid></item><item><title>[Duolingo] 土区多邻国</title><link>https://www.v2ex.com/t/987184#reply0</link><description>&lt;p&gt;多邻国，年付预定，11 月 7 号正式付款，6 缺 4 ，年付 40 ，账号自备（注册时记得将手机语言和时区切换到非大陆，否则无排行榜），跳车不退。
+另有巴区奈飞，季付 30 ，新号第一个月用台湾或新加坡，之后不限。
+联系 VX：am9leXN1cw==或 TG：QGt1d2luZXQ=&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:17:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987184#reply0</guid></item><item><title>[Apple] 看起来 M3 性能 CPU GPU 看起来似乎和 M1 pro 差不多了啊 能耗是 m1 的一半</title><link>https://www.v2ex.com/t/987183#reply0</link><description>&lt;p&gt;看起来 M3 性能 CPU GPU 看起来似乎和 M1 pro 差不多了啊 能耗是 m1 的一半... &lt;/p&gt;
+&lt;p&gt;USD 价格维持不变&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:16:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987183#reply0</guid></item><item><title>[程序员] 有没有轻量的开源的 BI 平台</title><link>https://www.v2ex.com/t/987182#reply2</link><description>&lt;p&gt;适合个人使用的，能通过 sql 配置报表和统计图就行，主要用来查看自己业务的数据情况&lt;/p&gt;
+&lt;p&gt;试了下 metabase ，发现部署后占用资源有点多，有没有更轻量的推荐？&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:12:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987182#reply2</guid></item><item><title>[生活] 能否拒绝特定归属地的电话</title><link>https://www.v2ex.com/t/987181#reply3</link><description>两年前到某地办事，替当地朋友打了一个电话。然后这两年来骚扰电话不断，有许多都是从这个地方出来的。 考虑到这个地方基本没有我的人脉，可以把整个地域给屏蔽了。 不知该如何操作 ？</description><pubDate>Tue, 31 Oct 2023 09:12:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987181#reply3</guid></item><item><title>[问与答] V 友们想了解一下招行的体检权益</title><link>https://www.v2ex.com/t/987180#reply0</link><description>&lt;ol&gt;
+&lt;li&gt;是否适用于 50 岁上下的中年人&lt;/li&gt;
+&lt;li&gt;有哪些比较合适的体检项优于直接购买体检套餐&lt;/li&gt;
+&lt;li&gt;最适合哪个年龄段的使用&lt;/li&gt;
+&lt;li&gt;是否有心理健康检查&lt;/li&gt;
+&lt;li&gt;其它有老哥可以补充&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 31 Oct 2023 09:12:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987180#reply0</guid></item><item><title>[MacBook Pro] 手持 m1 max 64g，看了一下 m3 max，还能再战至少 3 年</title><link>https://www.v2ex.com/t/987179#reply1</link><description>&lt;p&gt;性能核心加了 4 个，能效核心加了 2 个。8+2 变成了 12+4 ，其他基本无升级。就多了一个视频解码和硬件加速光追，还多了 100 尼特的显示，甚至 max 还重了那么一点点。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:08:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987179#reply1</guid></item><item><title>[问与答] 想写一个 web3 的工具类浏览器插件练手</title><link>https://www.v2ex.com/t/987178#reply3</link><description>最近学了 solidity 和 ethersjs ，在学完之后想写个浏览器插件用来踩坑入门。但想了很久也想不到需求，各位大佬可以建议下该写哪个方向么，或者你们有什么痛点，可以提需求我来实现😂</description><pubDate>Tue, 31 Oct 2023 09:07:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987178#reply3</guid></item><item><title>[问与答] apple 的配件 触控板和键盘如何能合二为一多好</title><link>https://www.v2ex.com/t/987177#reply3</link><description></description><pubDate>Tue, 31 Oct 2023 09:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987177#reply3</guid></item><item><title>[职场话题] 关于 IT 运维职业寿命</title><link>https://www.v2ex.com/t/987176#reply3</link><description>IT 运维的职业寿命多久？根据大家的身边统计学。</description><pubDate>Tue, 31 Oct 2023 09:06:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987176#reply3</guid></item><item><title>[问与答] 如何找到较高利率的美元定期存款？</title><link>https://www.v2ex.com/t/987174#reply3</link><description>发现 HSBC 的定存利率太低了，美元年化 1 点几。请问哪里定存利率高点呢？如何买美债呢？&lt;br /&gt;感谢！</description><pubDate>Tue, 31 Oct 2023 09:02:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987174#reply3</guid></item><item><title>[推广] 海外数字营销推广+跨境独立站开发</title><link>https://www.v2ex.com/t/987173#reply0</link><description>&lt;p&gt;"您正在寻找一种强大的数字营销推广策略，同时想要扩展您的业务到海外市场吗？那么，&lt;a href="http://cybmarsh.com" rel="nofollow"&gt;cybmarsh.com&lt;/a&gt; 是您的理想选择！&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://cybmarsh.com" rel="nofollow"&gt;cybmarsh.com&lt;/a&gt; 是一家专注于海外数字营销推广和跨境独立站开发的领先公司。我们拥有经验丰富的团队，致力于为您提供卓越的服务，帮助您在全球范围内推广和销售您的产品和服务。&lt;/p&gt;
+&lt;p&gt;通过我们的海外数字营销推广服务，您将获得定制化的战略计划，结合市场研究和目标受众分析，确保您的品牌在全球范围内获得最大曝光度。我们将利用各种数字渠道，包括社交媒体、搜索引擎优化和线上广告等，为您的业务带来持续的增长和可观的 ROI 。&lt;/p&gt;
+&lt;p&gt;另外，我们的跨境独立站开发服务将帮助您打造一个专属于您品牌的在线平台。我们的团队将根据您的需求和目标，设计和开发一个功能齐全、用户友好的电子商务网站，确保您能够轻松展示和销售您的产品，同时提供安全可靠的支付和物流解决方案。&lt;/p&gt;
+&lt;p&gt;不论您是想拓展到新的海外市场，还是加强您在现有市场的竞争力，&lt;a href="http://cybmarsh.com" rel="nofollow"&gt;cybmarsh.com&lt;/a&gt; 都能够为您提供量身定制的数字营销推广和跨境独立站开发解决方案。让我们的专业团队助您一臂之力，实现您的全球业务增长目标！&lt;/p&gt;
+&lt;p&gt;立即访问 &lt;a href="http://cybmarsh.com" rel="nofollow"&gt;cybmarsh.com&lt;/a&gt; ，了解更多关于我们的服务和成功案例，或者联系我们的团队，开始您的海外数字营销推广和独立站开发之旅！"&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 09:01:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987173#reply0</guid></item><item><title>[问与答] 双十一电视求推荐</title><link>https://www.v2ex.com/t/987172#reply3</link><description>&lt;p&gt;rt ，需求 65+的 4k 电视，预算 3000 以内，当然越低越好&lt;/p&gt;
+&lt;p&gt;最重要的：&lt;strong&gt;没广告！！！&lt;/strong&gt; 或者有关闭广告的方法&lt;/p&gt;
+&lt;p&gt;放老家用的，可能使用率不高，目前打算接一个闲置的 atv ，所以不追求很高的配置&lt;/p&gt;
+&lt;p&gt;另外还会接一个有线电视盒，偶尔接个 switch ，因此需要多个 HDMI 口&lt;/p&gt;
+&lt;p&gt;因为不太清楚现在国内电视的广告花样，想请教各位在接 atv 的情况下，除了开机广告还会有其他类型的广告影响吗&lt;/p&gt;
+&lt;p&gt;感谢推荐！&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 08:59:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987172#reply3</guid></item><item><title>[问与答] [小程序源码]交易平台</title><link>https://www.v2ex.com/t/987170#reply0</link><description>&lt;p&gt;老哥们 我想问下 哪里可以有交易小程序源码的平台呢。我想卖点源码赚点外快（被优化掉了/(ㄒoㄒ)/~~）。。。比如微信小程序的游戏源码，修仙养成类的&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 08:56:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987170#reply0</guid></item><item><title>[Apple] 送福利： apple tv+ music(第二波)</title><link>https://www.v2ex.com/t/987169#reply0</link><description>&lt;p&gt;原本第一个贴上周发到免费赠送节点，似乎还没有人领取。&lt;/p&gt;
+&lt;p&gt;有需要请移步领取： &lt;a href="https://www.v2ex.com/t/985855" rel="nofollow"&gt;https://www.v2ex.com/t/985855&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第二波兑换入口在 append 补充。&lt;/p&gt;
+&lt;p&gt;请自觉取一份，把快乐分享给更多人。&lt;/p&gt;
+&lt;p&gt;过程中可能需要美区账号才能领取，账号问题需要自行解决。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 08:56:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987169#reply0</guid></item><item><title>[问与答] 我这种情况该不该买房+1</title><link>https://www.v2ex.com/t/987168#reply10</link><description>&lt;h3&gt;基本情况&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;平薪（行内中等水平），不加班（跟上份工作一样、965 双休），非外包（没干过外包），中小公司（没干过大厂）&lt;/li&gt;
+&lt;li&gt;坐标：山东济南&lt;/li&gt;
+&lt;li&gt;本人情况：21 岁，山东济南某经十路上的 IT 国企校招 Java ，刚工作不到四个月，税前 1w ，公积金 2000&lt;/li&gt;
+&lt;li&gt;家庭情况：父母公务员+教师编，每个人月公积金 2000 ，没有后顾之忧&lt;/li&gt;
+&lt;li&gt;配偶：未婚，但是有女朋友，明年毕业，预计教师编/教培行业&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;求职现状：&lt;/strong&gt; &lt;/p&gt;
+&lt;h3&gt;为啥想买房？&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;平薪或小幅涨薪、加班内卷的外包，996 或接近 996&lt;/li&gt;
-&lt;li&gt;大幅降薪（ 30%以上）、不加班的小公司&lt;/li&gt;
-&lt;li&gt;招聘太少，选择空间也很小。目前面过 1 家，这周约了两家（外包、小公司）&lt;/li&gt;
+&lt;li&gt;租房现在每月 2k 也不便宜（两个人住）&lt;/li&gt;
+&lt;li&gt;早点下手，争取 35 岁前还完贷款然后躺平&lt;/li&gt;
+&lt;li&gt;家里人的传统观念&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;自身情况：&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;为啥不想房？&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;双非全日制本科，35 岁，后端，南京&lt;/li&gt;
-&lt;li&gt;房贷较少，稍有余粮，有失业金，经济压力不算大&lt;/li&gt;
+&lt;li&gt;房地产形势不太乐观&lt;/li&gt;
+&lt;li&gt;工作性质不够铁饭碗&lt;/li&gt;
+&lt;li&gt;不想成为房奴&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;困惑&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;目前招聘很少，没看到期望的工作机会。从业十年，没看过就业市场这么惨过。&lt;/li&gt;
-&lt;li&gt;外包不想干，担心对身体损害大。小公司大幅降薪又不甘心，本来工资不算高。&lt;/li&gt;
-&lt;li&gt;想躺一段时间，慢慢找合适的工作，又担心就业会越来越差，后面会连外包都没了。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;请教大佬们，如何选择对自身更有利？&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:27:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986983#reply0</guid></item><item><title>[问与答] 大佬们，如何应聘 MCN 或跨境电商的助理岗？</title><link>https://www.v2ex.com/t/986982#reply0</link><description>&lt;p&gt;现在程序的活，薪资不算低，但干的提不起劲，想去感受一下真实的 MCN 或者跨境电商的情况。&lt;/p&gt;
-&lt;p&gt;想接触运营或者营销——在我狭隘的视野里，这玩意就是流水线 + 营销，真正去认真选品、提交到化验室、分析化验报告的，自我感觉不多？（如果我的想法错了，请大佬指点指点）&lt;/p&gt;
-&lt;p&gt;就是因为有种种疑问，外加对这俩也感兴趣，才有了本帖。&lt;/p&gt;
-&lt;p&gt;是求职助理岗嘛？薪资标 4k 行嘛？还是干脆不要钱。&lt;/p&gt;
-&lt;p&gt;英语凑凑合合，但没 4 级水准。可能优点就是对英语没怯场，因为玩的一些游戏和日常搜索，都是英文，习惯了。&lt;/p&gt;
-&lt;p&gt;平时也就是搜索引擎、StackOverflow 、StepByStepTutorial 用用。可能需要练习一下商务/日常英语，再攒一下词汇量。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:26:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986982#reply0</guid></item><item><title>[Apple] 这个 18GB、36GB 给我看笑了，苹果真的是太良心了</title><link>https://www.v2ex.com/t/986981#reply1</link><description>他明明可以和群晖一样只给板载 2G 内存，然后空一个槽，单独卖一条 8G 的专用内存收 5000 块的&lt;br /&gt;但是他还是大方的直接给了你 18G ，加到 36G 也只需要 3000 块&lt;br /&gt;为了怕你浪费，CPU+6000 之后改成 M3Max 才能选 48G 以上的内存</description><pubDate>Tue, 31 Oct 2023 02:22:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986981#reply1</guid></item><item><title>[程序员] golang 后端开发， m1 air 16 + 512 够用吗</title><link>https://www.v2ex.com/t/986980#reply5</link><description>&lt;p&gt;鼠鼠现在正值毕业，做 golang 后端开发，求各位 v 友指点。目前鼠鼠用的是 5600g+32+1t 的台式机，平时主要用 Arch （ WSL2)、goland 、docker 、redis 、mysql 、chrome 等工具，平时开个 wsl2+goland+docker 没干什么内存就快 16g 了(主要的顾虑就是内存，硬盘 512 够我用了），不知道 16g 的 m1 air 顶不顶得住（还是说攒着换 m3?)&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:22:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986980#reply5</guid></item><item><title>[程序员] 考勤记录缺卡怎么统计？</title><link>https://www.v2ex.com/t/986978#reply0</link><description>&lt;p&gt;用户每次打卡根据时间插入打卡状态，如果没有打卡则状态为缺卡，该怎么去统计这个状态记录？会有一个工作日表和打卡点表。 我写定时任务，月度考核表时发现表设计可能有缺陷。 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;/**
- * 根据当日考勤状态 设置月考核表： 正常、异常、缺卡、早退、考勤率等字段
- *
- * @param record                {@link AttendanceRecord}
- * @param attendanceMonthAssess {@link AttendanceMonthAssess}
- */
-public void setRecordStatus(AttendanceRecord record, AttendanceMonthAssess attendanceMonthAssess) {
-
-    // 根据今天打卡状态 更新天数
-    Integer signStatus = record.getSignStatus();
-    Integer outStatus = record.getOutStatus();
-    if (outStatus.equals(RecordStatusEnum.IGNORE.getKey()) || signStatus.equals(outStatus)) {
-        switch (signStatus) {
-            case 0:
-                // 异常天
-                attendanceMonthAssess.setAbnormal(attendanceMonthAssess.getAbnormal() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                break;
-            case 1:
-                // 正常天
-                attendanceMonthAssess.setNormal(attendanceMonthAssess.getNormal() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                break;
-            case 2:
-                // 缺卡天
-                attendanceMonthAssess.setAbnormal(attendanceMonthAssess.getAbnormal() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                attendanceMonthAssess.setAbsent(attendanceMonthAssess.getAbsent() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                break;
-            case 3:
-                // 早退天
-                attendanceMonthAssess.setAbnormal(attendanceMonthAssess.getAbnormal() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                attendanceMonthAssess.setEarlyLeave(attendanceMonthAssess.getEarlyLeave() == null ? 1 : attendanceMonthAssess.getNormal() + 1);
-                break;
-            default:
-        }
-    } else {
-        // todo:签到签退状态不同，且签退计入考勤
-
-    }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这是考勤表设计：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;字段&lt;/th&gt;
-&lt;th&gt;类型&lt;/th&gt;
-&lt;th&gt;备注&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;id&lt;/td&gt;
-&lt;td&gt;long&lt;/td&gt;
-&lt;td&gt;id&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;agent_code&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;代理人编码&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;agent_name&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;代理人姓名&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;lng&lt;/td&gt;
-&lt;td&gt;double&lt;/td&gt;
-&lt;td&gt;经度&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;lat&lt;/td&gt;
-&lt;td&gt;double&lt;/td&gt;
-&lt;td&gt;纬度&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sign_address&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sign_id&lt;/td&gt;
-&lt;td&gt;long&lt;/td&gt;
-&lt;td&gt;考勤点 id&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sign_time&lt;/td&gt;
-&lt;td&gt;datetime&lt;/td&gt;
-&lt;td&gt;实际签到时间&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;out_time&lt;/td&gt;
-&lt;td&gt;datetime&lt;/td&gt;
-&lt;td&gt;实际签退时间&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sign_status&lt;/td&gt;
-&lt;td&gt;int&lt;/td&gt;
-&lt;td&gt;状态：有效、无效、缺卡&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;out_status&lt;/td&gt;
-&lt;td&gt;int&lt;/td&gt;
-&lt;td&gt;状态：有效、无效、缺卡、不计考勤&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;face_url&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;打卡底片 url&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;attendance_group&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;考勤组&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;modify_by&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;修改人&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;modify_time&lt;/td&gt;
-&lt;td&gt;date&lt;/td&gt;
-&lt;td&gt;修改时间&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;is_delete&lt;/td&gt;
-&lt;td&gt;int&lt;/td&gt;
-&lt;td&gt;是否删除&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;sign_date&lt;/td&gt;
-&lt;td&gt;date&lt;/td&gt;
-&lt;td&gt;考勤日期 yyyyMMdd&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;extra1&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;备用字段 1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;extra2&lt;/td&gt;
-&lt;td&gt;String&lt;/td&gt;
-&lt;td&gt;备用字段 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Tue, 31 Oct 2023 02:18:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986978#reply0</guid></item><item><title>[程序员] [求问] Mac 怎么快速同一应用下切换不同窗口</title><link>https://www.v2ex.com/t/986977#reply0</link><description>command+`&lt;br /&gt;可以实现非全屏下的单应用切换窗口，但是全屏状态下好像就不管用了</description><pubDate>Tue, 31 Oct 2023 02:16:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986977#reply0</guid></item><item><title>[macOS] Mac 更新系统版本后，部分设置丢失</title><link>https://www.v2ex.com/t/986976#reply0</link><description>之前从 13 升到 14 、从 14 升到 14.1 ，都会出现部分设置丢失的情况，我发现的有以下：&lt;br /&gt;1. 键盘设置丢失，如 FN 键、修饰键变成默认&lt;br /&gt;2. 蓝牙鼠标的指针移动速度变成默认&lt;br /&gt;3. keyboardholder 设置变成默认&lt;br /&gt;4. 触控板三指移动选中文本功能失效，变成默认&lt;br /&gt;&lt;br /&gt;使用 Mac 不久，不知道这些现象是不是正常的</description><pubDate>Tue, 31 Oct 2023 02:15:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986976#reply0</guid></item><item><title>[MacBook Pro] 看苹果的跑分， M3 较 M1 提升 50%， M3 Pro 较 M1 Pro 提升 70%，买 Mac 可以隔三代更新看来是没问题。</title><link>https://www.v2ex.com/t/986975#reply10</link><description>&lt;p&gt;和 A17 Pro 一样，CPU 提升比较细微，但是有了风扇加持，性能释放好了不怕积热，性能释放比较充分。&lt;/p&gt;
-&lt;p&gt;同样也是 A17 Pro 的思路，GPU 提升确实明显。M3 的 GPU 性能已经小超越 M1 Pro 了。用 M3 Pro + GPTK 玩游戏的体验应该会有比较显著的提升。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:12:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986975#reply10</guid></item><item><title>[程序员] 如果实现定时关闭 PC 端微信，移动端微信上方 windows 微信已登录也一同退出</title><link>https://www.v2ex.com/t/986974#reply1</link><description>&lt;p&gt;在公司会登录个人微信，就配置了 windows 任务计划，到下班的时候自动杀掉微信进程，但是这个方法存在一个问题，就是移动端还是会显示 windows 微信已登录，不会有消息提醒。&lt;br /&gt;
-想看看大家有没有相同的需求及更好的解决方法  &lt;/p&gt;
-&lt;p&gt;当前使用的 bat 脚本&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;@ echo off
-taskkill /f /t /im "WeChat.exe"
-echo exit
-exit
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 31 Oct 2023 02:10:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986974#reply1</guid></item><item><title>[V2EX] 10 年签到成就达成</title><link>https://www.v2ex.com/t/986973#reply13</link><description>&lt;p&gt;虽然开了自动签到，但是每天上班第一件事还是打开 V2EX 摸一会儿再开始工作&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic3.58cdn.com.cn/nowater/webim/big/n_v23f01f3da8449403896dddb4c4b2001c0.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:10:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986973#reply13</guid></item><item><title>[分享发现] 万豪五星酒店大堂免费沙发 CN2 宽带 50 兆上下对等 WiFi 用 Macbook 真香，相比星巴克那 WiFi 和椅子音乐好太多了。累了回家再睡觉。大堂也没要求必须入住酒店。</title><link>https://www.v2ex.com/t/986972#reply2</link><description></description><pubDate>Tue, 31 Oct 2023 02:08:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986972#reply2</guid></item><item><title>[问与答] 堂妹刚上大一，求推荐笔记本预算 8k</title><link>https://www.v2ex.com/t/986971#reply5</link><description>&lt;p&gt;求大佬们推荐，大致需求如下
-1 、预算 8k ，外观好看点稍微轻点的
-2 、专业主要是 CAD 画图，性能得足够支撑大学读完
-3 、显示效果稍微好点的，护眼&lt;/p&gt;
-&lt;p&gt;麻烦大佬们了，不胜感激~&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:07:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986971#reply5</guid></item><item><title>[程序员] 类似于好友推荐有没有比较好的实现方案推荐？</title><link>https://www.v2ex.com/t/986970#reply3</link><description>&lt;p&gt;案例：  根据用户的地理位置、性别、年龄、星座等多属性给用户推荐最适合他的其它用户，过程中涉及到每个属性不同加权，并最终排序&lt;/p&gt;
-&lt;p&gt;有没有大佬做过类似的案例，有没有好的实现方案推荐的？&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:06:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986970#reply3</guid></item><item><title>[问与答] 😮 向大数据大佬请教个队列分析的实现</title><link>https://www.v2ex.com/t/986969#reply0</link><description>&lt;p&gt;事情是这样的，我想分析电商平台，用户注册后，在 24h 内完成了下第一单的操作，都有哪些用户？占注册用户的百分比是怎样的？&lt;/p&gt;
-&lt;p&gt;想通过日志去分析（日志有 uid, timestamp, path ），同一个用户 访问了 /register 后 24h 内访问了 /order 接口，这样来做统计。&lt;/p&gt;
-&lt;p&gt;对于这种情况，日志一般用什么存储比较方便这类的分析？ MySQL ？ PostgreSQL ？ ElasticSearch ？ MongoDB ？
-或者其他的存储方式？&lt;/p&gt;
-&lt;p&gt;有没有好用的集成 UI 的，可以直接拖拽生成分析统计、百分比图表这样的工具？&lt;/p&gt;
-&lt;p&gt;感谢 🙏🏻&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 02:06:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986969#reply0</guid></item><item><title>[程序员] 针对手写的纸质文件，目前有没有 OCR 厂家能做到准确识别的呢？</title><link>https://www.v2ex.com/t/986968#reply5</link><description></description><pubDate>Tue, 31 Oct 2023 02:00:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986968#reply5</guid></item><item><title>[Apple] M1/M2 觉得被背刺的，看了这个也许能让你释怀</title><link>https://www.v2ex.com/t/986967#reply11</link><description>&lt;p&gt;我看发布会的时候：我操 M3 提升这么大，我操 14 寸起售价-500 刀，我操这么牛逼！才刚买的 M1/M2 啊，背刺好痛😭&lt;/p&gt;
-&lt;p&gt;具体配置和价格出来之后：就这？&lt;/p&gt;
-&lt;p&gt;槽点 1 起售价-500 刀，原来是把处理器阉割成了普通版 M3 ，不是厨子搞慈善
-槽点 2 万年 8G 内存起步，仍然是金子做的，第二档从 16G 升级到 18G ，“史诗级升级”
-槽点 3 除了处理器其他几乎没变化，内存带宽反向升级降了，续航也没变。&lt;/p&gt;
-&lt;p&gt;总结：
-1.M3 Max 型号这回 CPU 部分终于比 Pro 型号强了不少，总算是对的起 Max 的名字了，提升很大，但发布会上各种 X 倍提升也都是基于此最强型号，如果你是 M1/M2Pro 用户，其实 CPU 部分和神经引擎没多大提升。&lt;/p&gt;
-&lt;p&gt;2.本次升级最大的应该是 GPU 部分，不仅加入了光追还有 av1 解码。&lt;/p&gt;
-&lt;p&gt;最终还是要看等发售之后的具体跑分吧。&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 01:59:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986967#reply11</guid></item><item><title>[分享创造] [送会员] 时隔半个月， Inke AI 笔记功能更新，支持多人协作+Chat with note 小组件</title><link>https://www.v2ex.com/t/986966#reply0</link><description>&lt;p&gt;继半个多月前 MVP 版本发布 (回顾 &lt;a href="https://www.v2ex.com/t/980321" rel="nofollow"&gt;https://www.v2ex.com/t/980321&lt;/a&gt;)，Inke 笔记更新了一大波功能，以及体验优化，主要新增功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;AI 功能增强：文本优化/润色/翻译、Chat with note 小组件&lt;/li&gt;
-&lt;li&gt;跨设备同步笔记&lt;/li&gt;
-&lt;li&gt;多人实时在线协作（需登录）&lt;/li&gt;
-&lt;li&gt;导出多种格式：Markdown/PDF/png/Json&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;APP 地址： &lt;a href="https://inke.app" rel="nofollow"&gt;https://inke.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;并且，所有功能依然免费使用。为了方便 V 友体验多人协作功能，我创建了一个 V2EX 协作空间，欢迎来体验： &lt;a href="https://inke.app/invite/6540596fb99ad95064d2371e" rel="nofollow"&gt;https://inke.app/invite/6540596fb99ad95064d2371e&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[送会员]  Inke 目前是 Beta 阶段，只需在 Product Hunt 给一个 UPVOTE ，然后发送一封名为“申请升级”的电子邮件至 &lt;a href="mailto:team@inke.app"&gt;team@inke.app&lt;/a&gt; ，发送内容包含注册 inke.app 邮箱、Product Hunt 昵称以及备注 V2EX ，即可将你的账号升级到 [ Pro ] ，永久有效！在评论区回复我将尽快处理。
-Product Hunt： &lt;a href="https://www.producthunt.com/products/inke" rel="nofollow"&gt;https://www.producthunt.com/products/inke&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;部分截图
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://gcloud-1303456836.cos.ap-chengdu.myqcloud.com/inke/e2.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://gcloud-1303456836.cos.ap-chengdu.myqcloud.com/inke/e1.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://gcloud-1303456836.cos.ap-chengdu.myqcloud.com/inke/TinySnap-2023-10-31-09.56.17.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 01:58:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986966#reply0</guid></item><item><title>[MacBook Pro] M3 Max 是选 14 核+96G 内存还是 16 核+64G 内存？</title><link>https://www.v2ex.com/t/986965#reply6</link><description>&lt;p&gt;全栈开发，平时经常跑 Goland,Xcode,Android Studio,VSCode ，再加跑模拟器，Chrome ，Node ，Docker 这些，36 怕不够&lt;/p&gt;
-&lt;p&gt;64G 完全够用，14 核竟然不给选 64G&lt;/p&gt;
-&lt;p&gt;14 核+96G 和 16 核+64G 价格差不多，两个应该比较大的差别在 GPU ，做开发应该用不了那么好的 GPU&lt;/p&gt;
-&lt;p&gt;再吐槽一句，硬盘竟然只能 1T 起，512 完全够用&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 01:58:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/986965#reply6</guid></item></channel></rss>
+&lt;p&gt;现在楼盘也看的差不多了，买房预算大概就是在 200 万以内，打算买张马屯/东客站/雪山的房子，预计 15~20 年内还清，每个月能承担 7k~1w 的月供（有公积金撑着&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 08:56:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987168#reply10</guid></item><item><title>[问与答] 有没有好用的流量卡推荐</title><link>https://www.v2ex.com/t/987167#reply4</link><description>&lt;p&gt;有没有好用的流量卡推荐，可以打电话的&lt;/p&gt;
+&lt;p&gt;我看小红书很多 29 元 39 元 150 多 G 的，不知道是不是真的&lt;/p&gt;
+&lt;p&gt;对这方面不是很熟，来个老哥推荐一下&lt;/p&gt;</description><pubDate>Tue, 31 Oct 2023 08:51:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987167#reply4</guid></item></channel></rss>
