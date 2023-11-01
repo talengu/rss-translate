@@ -1,190 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 01 Nov 2023 09:21:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 如何写一个自己用的外挂</title><link>https://www.v2ex.com/t/987575#reply0</link><description>&lt;p&gt;以某团众包为例
-作为一个众包一员 外挂横行 不用挂真的难以跑出单量了&lt;/p&gt;
-&lt;p&gt;想自己写一个 又不是专业写代码的
-请问大家有什么思路吗？
-我自己的想法是第一步 tcpdump 的信息分析 dump 了一个上午的 完全不会看，😂
-感谢回复的 请提供一个大概思路和所用的技术方法 谢谢&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 09:20:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987575#reply0</guid></item><item><title>[问与答] 被淘宝耍猴了</title><link>https://www.v2ex.com/t/987573#reply0</link><description>昨天在淘宝的电器直营喵速达买了个 mbp ，今天看了下订单被喵速达单方面关闭且退款，再进入商品页面被下架且没有优惠&lt;br /&gt;问客服就是账号异常，昨天买几千块钱东西唯独你家异常是吧&lt;br /&gt;有什么办法能投诉不，太恶心了</description><pubDate>Wed, 01 Nov 2023 09:13:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987573#reply0</guid></item><item><title>[分享发现] 有一说一，从教学和正经的角度来说，最近流行的清水健教学视频确实不错。</title><link>https://www.v2ex.com/t/987570#reply4</link><description>&lt;p&gt;全套五个视频，看了下来，感觉确实不错。。。&lt;/p&gt;
-&lt;p&gt;就差实践了。。。。。。&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 09:03:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987570#reply4</guid></item><item><title>[问与答] 该网页是如何判断用户是否使用移动设备的？仅在开发者工具中使用 iPhone 用户代理，打开网页的结果不符合预期，必须在 devtools 中模拟移动设备才符合预期</title><link>https://www.v2ex.com/t/987569#reply0</link><description>&lt;p&gt;&lt;a href="https://www.1point3acres.com/bbs/tag-9620-1.html" rel="nofollow"&gt;https://www.1point3acres.com/bbs/tag-9620-1.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在开发者工具中，启用模拟移动设备，进入该网页会跳转至该网页的移动版。&lt;/p&gt;
-&lt;p&gt;然而，仅在 devtools 的「网络状况」中使用 iPhone 用户代理的话，进入该网页会跳转至另一个不符合预期的网页：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.1point3acres.com/bbs/forum.php?mobile=1" rel="nofollow"&gt;https://www.1point3acres.com/bbs/forum.php?mobile=1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;备注：我使用的 iPhone 用户代理：&lt;/p&gt;
-&lt;p&gt;Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 09:02:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987569#reply0</guid></item><item><title>[问与答] 有人在用阿里的通义灵码进行代码自动补全么，和微软的 Copilot 相比怎么样</title><link>https://www.v2ex.com/t/987568#reply0</link><description>官网地址：&lt;br /&gt;&lt;a href="https://tongyi.aliyun.com/lingma" rel="nofollow noopener" target="_blank"&gt;https://tongyi.aliyun.com/lingma&lt;/a&gt;</description><pubDate>Wed, 01 Nov 2023 08:59:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987568#reply0</guid></item><item><title>[问与答] 买洗衣机和烘干机挑花眼了，各位能给点建议吗</title><link>https://www.v2ex.com/t/987566#reply11</link><description>&lt;p&gt;洗烘套装，要颜值高，耐用，预算 1w&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987566#reply11</guid></item><item><title>[随想] 有一个大胆的想法</title><link>https://www.v2ex.com/t/987564#reply11</link><description>&lt;p&gt;最近在设计系统，在数据库方面，结合 CQRS ，我有一个大胆的想法：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 01 Nov 2023 14:42:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 京东自营 15 256G 蓝色已经到了 5798 的价位。</title><link>https://www.v2ex.com/t/987656#reply0</link><description>&lt;p&gt;前段时间还有人说双 11 能到 6000 左右就不错了。
+请问上 14Pro 好还是直接上 15 ？&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 14:25:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987656#reply0</guid></item><item><title>[程序员] 请教一个关于 Clash Mixin 的配置某些情况不生效的问题</title><link>https://www.v2ex.com/t/987655#reply0</link><description>&lt;p&gt;我在 Clash Mixin 中增加了如下配置，目的是让所有.test 结尾的域名指向本机，从而我所有项目都用 xxx.test 来访问，不用一条一条去/etc/hosts 里增加了。&lt;/p&gt;
+&lt;h3&gt;问题来了&lt;/h3&gt;
+&lt;p&gt;增加了下面拿的配置以后，我在浏览器访问 xxx.test 可以正确导航到 nginx 的站点，但是，但是，但是，我发现 npm run dev 启动的前端项目访问不到，我得 api 调试工具 Insomnia （类似 Postman ），也访问不到，Couldn't resolve host name 。。。经测试在/etc/hosts 增加相应 127.0.0.1 xxx.test ，即可解决。&lt;/p&gt;
+&lt;p&gt;请问原因是什么，如果我想继续使用 Mixin 来达到我得需求，我应该如何让前端项目和 API 调试工具也可以正确访问到 xxx.test 呢？&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hosts:
+    "*.test": 127.0.0.1
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 01 Nov 2023 14:10:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987655#reply0</guid></item><item><title>[求职] 杭州 8 年开发经验，想找一个 golang 开发岗，求捞</title><link>https://www.v2ex.com/t/987654#reply0</link><description></description><pubDate>Wed, 01 Nov 2023 14:09:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987654#reply0</guid></item><item><title>[问与答] 米家的警戒模式，只有传统网关和空调伴侣可以吗？小爱音箱自带的网关可不可以使用警戒模式？</title><link>https://www.v2ex.com/t/987653#reply0</link><description>如果音箱就可以，那感觉就不需要重复购买配置了</description><pubDate>Wed, 01 Nov 2023 13:59:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987653#reply0</guid></item><item><title>[问与答] 耳疾，求推荐 500 以内的骨传导耳机，或有没有病友指导下外耳道湿疹治疗方法或医院</title><link>https://www.v2ex.com/t/987652#reply0</link><description>外耳道湿疹一年多了，带耳机或者掏耳朵都会复发，去医院好几次也没解决，估计是与入耳式耳机无缘了。通勤的时候有听歌的需求，搜索了下可以使用骨传导耳机，求万能的 V 友推荐下 500 以内的骨传导耳机，或者有没有 V 友有治疗的经验或者北京有哪所医院治疗这个比较好，万分感谢。</description><pubDate>Wed, 01 Nov 2023 13:59:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987652#reply0</guid></item><item><title>[问与答] java8 以后常用的新特性有哪些？</title><link>https://www.v2ex.com/t/987651#reply0</link><description>&lt;p&gt;现在就用到 lambda 函数，还有其它语法吗&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:58:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987651#reply0</guid></item><item><title>[问与答] 今年存储这么贵吗？</title><link>https://www.v2ex.com/t/987650#reply1</link><description>&lt;p&gt;前面在东芝买 2T 的移动硬盘 380 块
+今天双十一看一下 1T 的都要 330 块&lt;/p&gt;
+&lt;p&gt;兄弟们今年硬盘有推荐没？&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:57:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987650#reply1</guid></item><item><title>[macOS] 数码荔枝双十一拼车！ Qbserve|AlDente</title><link>https://www.v2ex.com/t/987649#reply1</link><description>&lt;p&gt;双十一特价拼车！&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Qbserve[Mac]具备专注模式的时间追踪器 ¥99.00 5 设备 终身&lt;/li&gt;
+&lt;li&gt;AlDente Pro[Mac]电脑过充保护电池健康管理优化续航 ¥104.25 3 设备 终身&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Wed, 01 Nov 2023 13:53:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987649#reply1</guid></item><item><title>[分享创造] 我做了一个新网站，来看看吧</title><link>https://www.v2ex.com/t/987648#reply8</link><description>&lt;p&gt;我做了一个工具类网站，大家来看看吧，&lt;a href="http://meetool.net/" rel="nofollow"&gt;天工开物 Meetool&lt;/a&gt;，现在已经有几个工具比如字数统计、图片质量压缩、bmi 计算、密码生成器等&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:49:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987648#reply8</guid></item><item><title>[问与答] 请专业人士帮忙看下，选一个什么路由器呢？</title><link>https://www.v2ex.com/t/987647#reply3</link><description>&lt;p&gt;。。。不敢说原因。。&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:47:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987647#reply3</guid></item><item><title>[问与答] 隔壁男的天天开着门怎么治?</title><link>https://www.v2ex.com/t/987646#reply7</link><description>&lt;p&gt;气死了，隔壁男天天开着门 我都不敢从他门口过了!我就在他隔壁，最后一个房间。搬来一个月，有半个多月遮住我的右头那边从他门口过了! &lt;/p&gt;
+&lt;p&gt;开始想和房东说，和那个男的说下，又想算了小事…就这么挡住右边头过来了…一开始我没觉得有问题 就是过我的，后来我不想老是看到别人家 虽然我没有朝他房间看 但是右眼的余光总能瞥到什么吧 过了几天我就不想看到任何东西了 就用拿的快递 提的菜什么的遮住右边头部 才感觉好多了!真的眼不见为净! &lt;/p&gt;
+&lt;p&gt;今晚终于忍不住了，爆发了!去和房东说，房东不理我，说别人开着门不干我的事，说那个男的又不是不穿衣服 我去…我说不敢从他门前过了…叫我从天上过，我去!隔壁的男的住了很久了吧…&lt;/p&gt;
+&lt;p&gt;又去和那个男的说 那个男的光着上身在看电视 态度很差!蛮横不讲理!卧槽…还凶巴巴的 我都是好声好气的说话的 对一个女的这么凶!卧槽 看来不是什么好人!更谈不上素质!男的长的很胖又矮 开着门就是故意的!我们这边很通风的 没有遮挡建筑物 4 楼，对面的人都没开门呢，对面的房间他们那边才有遮挡的楼! 而且光线比我们这边差…我不明白隔壁男这么喜欢开着门…哎 房子便宜的地方就是居住的人素质也差!&lt;/p&gt;
+&lt;p&gt;还要住满半年 早知道当初租那个只要租 3 个月的就好了 那个光线更亮，只是那个没飘窗…谁知道这个房间有飘窗 可是一点都不隔音 外面好吵 各种说话吵架的声音炒菜的声音 还有谁家放电视的声音都能听到 简直烦透了 关上窗户一点都没用!到晚上 10 点多才没了那个放电视的声音 不是隔壁放电视的声音，是外面的 不知道哪一家&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:46:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987646#reply7</guid></item><item><title>[酷工作] [上海] 米哈游 miHoYo 2023.11.1 最新招聘信息（业务平台、企业效能组内推专场）</title><link>https://www.v2ex.com/t/987645#reply0</link><description>米哈游 2023 年 11 月 1 日最新招聘信息来啦！更新于 2023 年 11 月 1 日，持续更新中~~~&lt;br /&gt;&lt;br /&gt;业务平台、企业效能组内推专场&lt;br /&gt;业务平台、企业效能组内推专场&lt;br /&gt;业务平台、企业效能组内推专场&lt;br /&gt;&lt;br /&gt;社招持续进行中～通过内推链接可查看各个岗位具体要求，各位优秀的小伙伴们，简历赶紧投起来吧。&lt;br /&gt;&lt;br /&gt;社招内推码：NTAEVIP&lt;br /&gt;社招内推链接：&lt;br /&gt;&lt;a href="https://app.mokahr.com/recommendation-apply/mihoyo/26460?recommenderId=936494#/jobs?zhineng=22500" rel="nofollow noopener" target="_blank"&gt;https://app.mokahr.com/recommendation-apply/mihoyo/26460?recommenderId=936494#/jobs?zhineng=22500&lt;/a&gt;&lt;br /&gt;PS：移动端显示请在微信客户端打开链接，复制链接发送到微信文件传输助手，然后点击链接即可打开&lt;br /&gt;PS：内推简历优先筛选，认真对待简历投递哦。 如需查进度， 米哈游招聘或者官网，直接私聊都可以哈。欢迎大家文章转发给需要的小伙伴。&lt;br /&gt;&lt;br /&gt;薪资福利参考我司 boss 直聘主页： &lt;a href="https://www.zhipin.com/gongsir/9f8c95b92321a8e11nJz2Nu7.html?ka=position-1" rel="nofollow noopener" target="_blank"&gt;https://www.zhipin.com/gongsir/9f8c95b92321a8e11nJz2Nu7.html?ka=position-1&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;2 、加入米哈游你将享受以下福利：&lt;br /&gt;&lt;br /&gt;- - 每年 10 天年假，3 天带薪病假&lt;br /&gt;&lt;br /&gt;16+薪 六险二金 （全额五险一金+补充住房公积金+商业医疗保险）&lt;br /&gt;&lt;br /&gt;每年两次薪资回顾机会（根据绩效评估是否调薪），分别在 4 月、10 月&lt;br /&gt;&lt;br /&gt;免费定期体检（本人+一位家属），免费午餐晚餐，内部专属咖啡吧&lt;br /&gt;&lt;br /&gt;早十晚七，内部各种福利群，猫群，鱼群，ps 群。。。。&lt;br /&gt;&lt;br /&gt;不限量零食饮料，丰富多彩的节日礼品，年会百分百中奖，丰厚年终奖。&lt;br /&gt;&lt;br /&gt;福利多多停不下来，我在 miHoYo ，等你一起拯救世界，米哈游期待你的到来。&lt;br /&gt;&lt;br /&gt;3 、关于米哈游&lt;br /&gt;&lt;br /&gt;米哈游成立于 2011 年，致力于为用户提供美好的、超出预期的产品与内容。米哈游陆续推出了多款高品质人气产品，包括《崩坏学园 2 》、《崩坏 3 》、《未定事件簿》、《原神》、《崩坏:星穹铁道》，动态桌面软件《人工桌面》以及社区产品《米游社》，并围绕原创 IP 打造了动画、音乐及周边等多元产品。即将上线的《绝区零》等同样受到全球玩家广泛关注。&lt;br /&gt;&lt;br /&gt;秉承着“技术宅拯救世界”的使命，米哈游始终致力于技术研发、探索前沿科技，在卡通渲染、人工智能、云游戏技术等领域积累了先进的技术能力。&lt;br /&gt;&lt;br /&gt;米哈游总部位于中国上海，并在新加坡、美国、加拿大、日本、韩国等国家和地区进行全球化布局。目前，公司员工 5,000 人，来自世界知名游戏/互联网/科技公司。&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/134p1kOf.png" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 134p1kOf.png"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/134p1kOf.png" /&gt;&lt;/a&gt;</description><pubDate>Wed, 01 Nov 2023 13:32:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987645#reply0</guid></item><item><title>[问与答] iOS 平台没有很强大的自建音乐库客户端吗？类似 Symfonium。</title><link>https://www.v2ex.com/t/987644#reply3</link><description>&lt;p&gt;在 Android 上体验了 Symfonium ，真心觉得好用，除此外也有不少其他的选项，可见 &lt;a href="https://sspai.com/post/77789" rel="nofollow"&gt;2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;但是 iOS 上类似功能强大，界面美观的本地音乐播放器，特别是支持自建音乐库的却非常少见（有不少缺乏维护更新界面落后的选择）。是有什么原因吗？&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;所有模块有自己私有的数据表&lt;/li&gt;
-&lt;li&gt;模块主要负责：CUD&lt;/li&gt;
-&lt;li&gt;模块提供有限 R：根据 Id 返回详情+Id 遍历&lt;/li&gt;
-&lt;li&gt;所有查询全部通过查询 DB 提供&lt;/li&gt;
-&lt;li&gt;查询 DB 通过订阅模块的事件去同步更新，或根据 Id 重建&lt;/li&gt;
-&lt;li&gt;查询 DB 仅包括在列表中的数据（详情则去模块）&lt;/li&gt;
-&lt;li&gt;查询如果多一列后，则需要去原模块根据 Id 重新抓取更新&lt;/li&gt;
-&lt;li&gt;新的查询也一样需要有构建数据的过程：这个时间可能会更长&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;好处&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;模块可完全独立&lt;/li&gt;
-&lt;li&gt;查询性能会更好&lt;/li&gt;
-&lt;li&gt;模块修改基本上不会影响其他&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;弊端&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;数据延迟&lt;/li&gt;
-&lt;li&gt;数据同步的可靠性&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 01 Nov 2023 08:47:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987564#reply11</guid></item><item><title>[Apple] 诺基亚历年市场占有率</title><link>https://www.v2ex.com/t/987563#reply3</link><description>&lt;p&gt;Q: 2000 年到 2015 年的具体数值呢？
-A:
-以下是诺基亚在 2000 年至 2015 年期间的市场份额数据&lt;/p&gt;
-&lt;p&gt;2000 年：诺基亚市场份额约为 31.8%。&lt;/p&gt;
-&lt;p&gt;2001 年：诺基亚市场份额约为 31.9%。&lt;/p&gt;
-&lt;p&gt;2002 年：诺基亚市场份额约为 31.6%。&lt;/p&gt;
-&lt;p&gt;2003 年：诺基亚市场份额约为 33.3%。&lt;/p&gt;
-&lt;p&gt;2004 年：诺基亚市场份额约为 33.1%。&lt;/p&gt;
-&lt;p&gt;2005 年：诺基亚市场份额约为 31.1%。&lt;/p&gt;
-&lt;p&gt;2006 年：诺基亚市场份额约为 36.2%。&lt;/p&gt;
-&lt;p&gt;2007 年：诺基亚市场份额约为 38.6%。&lt;/p&gt;
-&lt;p&gt;2008 年：诺基亚市场份额约为 38.6%。&lt;/p&gt;
-&lt;p&gt;2009 年：诺基亚市场份额约为 36.4%。&lt;/p&gt;
-&lt;p&gt;2010 年：诺基亚市场份额约为 28.9%。&lt;/p&gt;
-&lt;p&gt;2011 年：诺基亚市场份额约为 23.8%。&lt;/p&gt;
-&lt;p&gt;2012 年：诺基亚市场份额约为 19.9%。&lt;/p&gt;
-&lt;p&gt;2013 年：诺基亚市场份额约为 15.9%。&lt;/p&gt;
-&lt;p&gt;2014 年：诺基亚市场份额约为 3.1%。&lt;/p&gt;
-&lt;p&gt;Q:智能手机在 2010 到 2015 的具体市场份额
-A:
-在 2010 年至 2015 年期间，智能手机市场份额发生了显著变化。以下是一些主要品牌在这段时间内的市场份额数据：&lt;/p&gt;
-&lt;p&gt;2010 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：28.9%
-苹果：15.9%
-三星：10.5%
-宏达电（ HTC ）：6.1%
-摩托罗拉：4.8%
-2011 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：23.8%
-苹果：18.8%
-三星：19.5%
-宏达电（ HTC ）：6.5%
-摩托罗拉：4.5%
-2012 年：&lt;/p&gt;
-&lt;p&gt;苹果：19.1%
-三星：29.5%
-诺基亚：19.9%
-宏达电（ HTC ）：4.7%
-联想：4.7%
-2013 年：&lt;/p&gt;
-&lt;p&gt;三星：31.3%
-苹果：15.3%
-联想：5.5%
-LG：4.8%
-华为：4.3%
-2014 年：&lt;/p&gt;
-&lt;p&gt;三星：28.0%
-苹果：16.4%
-联想：7.9%
-LG：5.4%
-华为：4.9%
-2015 年：&lt;/p&gt;
-&lt;p&gt;三星：22.7%
-苹果：16.2%
-华为：7.4%
-联想：5.3%
-LG：5.2%
-请注意，这些数据可能存在一定误差，但它们可以为您提供智能手机在 2010 年至 2015 年期间市场份额的大致趋势。&lt;/p&gt;
-&lt;p&gt;2015 年：诺基亚市场份额约为 0.5%。&lt;/p&gt;
-&lt;p&gt;请注意，这些数据可能存在一定误差，但它们可以为您提供诺基亚在 2000 年至 2015 年期间市场份额的大致趋势。&lt;/p&gt;
-&lt;p&gt;Q: 2005 到 2010 呢？
-A:
-在 2005 年至 2010 年期间，智能手机市场份额也发生了显著变化。以下是一些主要品牌在这段时间内的市场份额数据：&lt;/p&gt;
-&lt;p&gt;2005 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：46.5%
-摩托罗拉：21.0%
-三星：10.4%
-LG：4.5%
-索尼爱立信：4.1%
-2006 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：40.5%
-摩托罗拉：19.2%
-三星：11.8%
-LG：4.8%
-索尼爱立信：4.7%
-2007 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：40.5%
-三星：15.0%
-摩托罗拉：12.0%
-LG：4.5%
-索尼爱立信：4.2%
-2008 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：40.0%
-三星：15.0%
-摩托罗拉：10.0%
-LG：4.5%
-索尼爱立信：4.0%
-2009 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：38.6%
-三星：16.1%
-摩托罗拉：8.5%
-LG：4.8%
-索尼爱立信：4.3%
-2010 年：&lt;/p&gt;
-&lt;p&gt;诺基亚：28.9%
-苹果：15.9%
-三星：10.5%
-宏达电（ HTC ）：6.1%
-摩托罗拉：4.8%
-请注意，这些数据可能存在一定误差，但它们可以为您提供智能手机在 2005 年至 2010 年期间市场份额的大致趋势。&lt;/p&gt;
-&lt;p&gt;来源: &lt;a href="https://kimi.moonshot.cn" rel="nofollow"&gt;https://kimi.moonshot.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;LLM 用来收集并回答这类问题效果蛮好的，虽然不知道具体对不对&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:47:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987563#reply3</guid></item><item><title>[问与答] mac 下图片浏览对比软件</title><link>https://www.v2ex.com/t/987561#reply0</link><description>&lt;p&gt;就知道 LightRoom ，以前用过，还有啥免费的吗，就是可以把系统“照片”里的图片放到左右两栏展示&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:43:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987561#reply0</guid></item><item><title>[问与答] 求一个 lobste.rs 的注册邀请，不知道有没有哪位大神有 lobste.rs 的帐号</title><link>https://www.v2ex.com/t/987557#reply0</link><description></description><pubDate>Wed, 01 Nov 2023 08:37:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987557#reply0</guid></item><item><title>[Apple] 印度苹果礼品卡去哪购买</title><link>https://www.v2ex.com/t/987556#reply2</link><description>&lt;p&gt;请问印度苹果礼品卡去哪购买比较简单靠谱 目前知道亚马逊可以  但是要虚拟信用卡 感觉好麻烦还有没有比较简单的方式&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:36:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987556#reply2</guid></item><item><title>[酷工作] [米哈游招人啦] 前后端、客户端、pc 端、算法、安全、运维测试等等均有岗位~~</title><link>https://www.v2ex.com/t/987555#reply0</link><description>&lt;a href="https://i.imgur.com/ApKUGnU.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ApKUGnU.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;详细信息请加 vx：YmFubWFfbWF0dA==</description><pubDate>Wed, 01 Nov 2023 08:34:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987555#reply0</guid></item><item><title>[奇思妙想] 请问科技行业发展和科幻作品有相辅相成的作用吗？</title><link>https://www.v2ex.com/t/987554#reply0</link><description>&lt;p&gt;近几年科幻作品或者动画频繁出现虚拟游戏世界穿越，现实中脑机也是正在研发的技术，且未来大有可为。那是谁启蒙的谁？&lt;br /&gt;
-如果是科幻启蒙科学，那科幻的依据哪里来？有些异想天开的逻辑粗看还挺严谨的。&lt;br /&gt;
-如果是科学决定科幻，那些作者天天盯着顶刊发文吗？&lt;br /&gt;
-问这个问题是想 yy2077 是不是真的会到来&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:31:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987554#reply0</guid></item><item><title>[互联网] 如何设计高可用的 api 服务</title><link>https://www.v2ex.com/t/987553#reply0</link><description>&lt;p&gt;想搭建一个高可用的 chatgpt 服务，目前有三台服务器，如何设计分流和复杂均衡呢？求大神点醒&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:27:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987553#reply0</guid></item><item><title>[酷工作] 招聘 [坐标日本] 日语要求低汇总。完全不问日语： AWS ， webapi 全栈 ， unity， Java ，前端，产品经理； 日语需要社内沟通： DBA ， SRE（软银子公司）， 等共计 15 个 hc</title><link>https://www.v2ex.com/t/987551#reply0</link><description>&lt;p&gt;AWS 和 全栈 要求英语商务水平 日语不问。
-DBA 和 SRE 需要日语 中文要商务水平（软银子公司）
-unity java 前端 只看技术 中文能沟通就可以&lt;/p&gt;
-&lt;p&gt;tips： 猎头 岗位有点多 可以直接带简历问岗位
-联络方式 v:weoffer999 or line：healchalu&lt;/p&gt;
-&lt;p&gt;全栈↓（ 6 million to 10 million yen/year ）
-Native level of English (Japanese is not required)
-Experience in WebAPI development using frameworks
-Experience in WebAPI development using frameworks
-Experience in front-end development using React
-Experience in backend development using Node.js (experience with Go, Python, and Typescript is a plus)
-Experience with AWS deployment (and experience using multiple AWS services)&lt;/p&gt;
-&lt;p&gt;aws↓（ Annual report: 6~8 million yen ）
-・Business level ~ higher English proficiency&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;More than 2 years of development experience using Python&lt;/li&gt;
-&lt;li&gt;AWS development experience
-※Japanese language proficiency is not required.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;SRE↓（月给 40-100 万）
-・日本語：社内コミュニケーションレベル
-・中国語ビジネスレベル (海外パートナーとの連係可能なレベル)
-・パブリッククラウド（ AWS 、Azure 、GCP ）での設計・開発・運用経験 3 年以上
-・Linux 設計・構築・運用経験
-・SRE の業務・基本的な概念、考え方を理解できる方
-・オーナーシップとチャレンジ精神をもって業務に取り込むことができる方
-歓迎要件
-・SRE としての三年以上の業務経験
-・Docker ／ Kubernetes の構築・運用経験
-・Jenkins 、Github Action 、Spinnaker 、CircleCI を用いた CI/CD の設計・構築・開発・運用経験
-・Terrafrom 、Ansible 、Packer などを用いた構成管理経験
-・Zabbix 、Prometheus 、Datadog 、Grafana 、PageDuty などを用いた監視システムの設計・構築・運用経験
-・ELK(Elastic, Logstash,Beats,Kibana)などを用いたログ収集・分析システムの設計・構築・運用経験
-・Nacos 、Zookeeper 、Kafka 、Nginx などミドルウェアの設計・構築・運用の実践経験
-・DB （ RDB 、NoSQL 、キャッシュ）データベースの設計・構築・運用経験
-・Python ，PHP ，Ruby ，Golang ，Shell のいずれかでの開発経験
-・アプリケーションアーキテクチャに関する理解（分散システム、同期非同期処理など）
-・金融・保険・FinTech 業関連システムの構築、運用経験&lt;/p&gt;
-&lt;p&gt;DBA↓（ 600-1000 万）
-■中国語：ビジネス以上レベル（チーム内でのコミュニケーションが中国語メイン）
-■日本語：日常会話レベル
-■以下 2 つ以上を満たす方
-・MySQL データベースの運用管理経験、MySQL 、Redis 、Mongodb などの知見を持った方。
-・データベースの基本原理に習熟し、MySQL データベースインスタンスおよび SQL レベルでのパフォーマンス最適化に精通
-し、障害箇所の特定と解決能力を持った方。
-・大規模なウェブサイト・データベースのメンテナンス経験を持ち、独自でアーキテクチャーの構想、設計、展開管理能力・経
-験を持った方。
-・Redis や Memcached などのキャッシュの知識を持ち、運用・設計の経験を持った方。
-・Shell 、Python などのスクリプト言語を使用した日常業務の効率化経験を持った方。&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:24:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987551#reply0</guid></item><item><title>[问与答] 京东买个 T7S 硬盘，有必要加个只换不修或全保换新吗？</title><link>https://www.v2ex.com/t/987550#reply0</link><description>&lt;p&gt;服务靠谱吗？容易坏吗？&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987550#reply0</guid></item><item><title>[Telegram] Telegram 给不同用户设置不同颜色的算法是什么样的？</title><link>https://www.v2ex.com/t/987548#reply6</link><description>TG 的用户名和头像以及被引用的聊天记录都会是同一套颜色，也不知道这个是和用户绑定的，还是临时生成的，有了解这个的吗？</description><pubDate>Wed, 01 Nov 2023 08:18:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987548#reply6</guid></item><item><title>[分享发现] 阿里云的通义灵码公测了</title><link>https://www.v2ex.com/t/987547#reply3</link><description>&lt;p&gt;测试了一下，感觉虽然达不到 github copilot 的水平，但是和 codeium 和 codegeex 差不多了&lt;/p&gt;
-&lt;p&gt;最重要的是速度太快了，github copilot 和 codeium 很难受的就是网络延迟高的时候老得等&lt;/p&gt;
-&lt;p&gt;感觉之前用 codeium 和 codegeex 的可以试试&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:13:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987547#reply3</guid></item><item><title>[硬件] 我构思了一种有“商业”前景的硬件</title><link>https://www.v2ex.com/t/987546#reply7</link><description>可以录屏的显示器。主要针对各种防录屏软件。&lt;br /&gt;显示器接收到的是 HDMI 信号，未加密未编码。给显示器接上一个高速存储设备，比如 ssd ，在显示器芯片中，直接复制一份 HDMI 信号写入 ssd 。这功能是否开启可以在显示器上加个按钮。。完事。&lt;br /&gt;&lt;br /&gt;为什么不虚拟机、不采集卡、不 xxx ？因为这些都可以被检测到，而我的这种方案无法检测，除非加密公司要求每个观众买他们的显示器（显然不现实）。&lt;br /&gt;&lt;br /&gt;现在的问题是这个显示器如果做出来，肯定会被加密公司列入黑名单，所以要想一种办法，让存储 HDMI 的功能在稍加改装的普通显示器上可以用：比如 HDMI 复制器（前提是复制器不需要驱动）。复制一份 HDMI 给 ssd ，甚至不用改显示器。这样就只需要考虑怎么把 HDMI 存入 ssd 并转成视频，这应该不困难吧？</description><pubDate>Wed, 01 Nov 2023 08:12:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987546#reply7</guid></item><item><title>[问与答] 一直没理，移动卡的费用太多了</title><link>https://www.v2ex.com/t/987545#reply1</link><description>&lt;p&gt;移动卡目前绑定了家里的电视和宽带，40 元固定，套餐 39 ，流量好像只有几 G
-现在办了一个星王卡作为上网用的，30 一个月。
-有没有办法将移动的降低一下，宽带和电视有没有好的方案，大家伙推荐推荐&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 08:12:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987545#reply1</guid></item></channel></rss>
+&lt;li&gt;此类应用不赚钱，没有开发者开发？但是 Android 端还是有很多，而且 iOS 的付费率不是说比较高吗？&lt;/li&gt;
+&lt;li&gt;Apple 对这类应用的上架有限制？&lt;/li&gt;
+&lt;li&gt;iOS 没有提供强大的 API?&lt;/li&gt;
+&lt;li&gt;或者已经有了，楼主没有找到，也请大家分享下，特别是支持 Subsonic API 的。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 01 Nov 2023 13:29:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987644#reply3</guid></item><item><title>[宽带症候群] 上海联通奇怪问题</title><link>https://www.v2ex.com/t/987642#reply0</link><description>&lt;p&gt;V2 前不久组团开通了 49+10 每月 200m 上传的联通家宽，提速完工的第一周，上传速度正常，等到第二周，NAS 外网访问的速度莫名的就下降到 3mb/s ，但是局域网内上传各大网盘的速度正常 200mbps ，这个是什么魔法啊？？？有遇到的 v2er 吗？&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:24:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987642#reply0</guid></item><item><title>[问与答] 刚买的阿里云 99 元机器反应很慢</title><link>https://www.v2ex.com/t/987641#reply5</link><description>一台运行了多年的 ecs.t1.small 机器，1u1g 20g 100m ，ssh 秒进，输入即时反馈，跟本地没区别。&lt;br /&gt;&lt;br /&gt;这个新买的，ecs.e-c1m1.large ，2u2g 40gssd 3M ，ssh 三秒多才进，输入、响应卡顿。&lt;br /&gt;&lt;br /&gt;请教怎么回事啊，ping 都是 20ms 以下，反应慢的这台新的 CPU 占用率还低不少，怎么这么卡顿？</description><pubDate>Wed, 01 Nov 2023 13:15:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987641#reply5</guid></item><item><title>[问与答] 求推荐一款电子阅读器，市面上产品太多眼镜都花了。</title><link>https://www.v2ex.com/t/987640#reply1</link><description>需求：&lt;br /&gt;1. 护眼，久看相对不累。&lt;br /&gt;2. 阅读 pdf 体验好。我要看的书大部分格式是 pdf 而且有不少是那种扫描版。&lt;br /&gt;3. 自带字典词典功能。&lt;br /&gt;4. 不需要阅读以外的功能，也不记笔记，对手写笔没要求。&lt;br /&gt;5. 书一般我都是自己网上下，当然如果能够有更方便的官方书源更好。&lt;br /&gt;6. 现在手里有 ipad mini6 和 kindle ，ipad mini6 屏幕看久了不舒服而且并不适合阅读； kindle 看 pdf 体验太差。</description><pubDate>Wed, 01 Nov 2023 13:13:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987640#reply1</guid></item><item><title>[计算机] 笔记本升级硬盘后如何迁移系统</title><link>https://www.v2ex.com/t/987639#reply0</link><description>&lt;p&gt;ThinkPad xcarbon 2016 ， 只有 256G 硬盘，装了 win10 和 Manjaro 双系统，趁着双 11 购入 1T 硬盘。硬盘已经到手，问题是：如何简单的进行系统迁移，包括 win10 和 Manjaro 。
+个人感觉难点：
+1.双系统。网上很多系统都是针对单一 win 系统迁移。
+2.很多网上教程是添加一块硬盘，我的笔记本只有一个硬盘接口，且目前手头没有硬盘盒，无法将新硬盘作为第二硬盘。&lt;/p&gt;
+&lt;p&gt;请问有没有什么方法、工具能够：1 。将目前两个系统先备份（譬如到移动硬盘） 2.更换新硬盘； 3.将系统备份恢复到新硬盘。
+或者其他更好的解决思路。谢谢！&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:09:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987639#reply0</guid></item><item><title>[Chrome] chrome 应用商店无法安装插件</title><link>https://www.v2ex.com/t/987638#reply0</link><description>&lt;p&gt;不知道大家最近发现没有 第三方 Chromium 内核的浏览器已经无法从新版的 chrome 应用商店直接安装扩展了
+&lt;a href="https://chromewebstore.google.com/" rel="nofollow"&gt;https://chromewebstore.google.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:06:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987638#reply0</guid></item><item><title>[跑步] 也许是最好用的佳明二维码软件 MultiQRCode</title><link>https://www.v2ex.com/t/987637#reply1</link><description>&lt;p&gt;佳明上安装软件： &lt;a href="https://apps.garmin.com/en-US/apps/16118906-94a6-4f62-8540-d39af0a8ff10" rel="nofollow"&gt;https://apps.garmin.com/en-US/apps/16118906-94a6-4f62-8540-d39af0a8ff10&lt;/a&gt;
+设备绑定&amp;amp;二维码创建网页地址： &lt;a href="https://q.li2niu.com" rel="nofollow"&gt;https://q.li2niu.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本应用主要面向非中国大陆用户，欢迎试用&lt;/p&gt;
+&lt;p&gt;中国大陆用户请使用二维静码小程序&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 13:01:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987637#reply1</guid></item><item><title>[酷工作] 国内有哪些靠谱的接单平台？</title><link>https://www.v2ex.com/t/987636#reply0</link><description>&lt;p&gt;注册了一下程序员客栈，发现还需要买会员，做技能认证
+还没接单可能就要先花大几百块&lt;/p&gt;
+&lt;p&gt;有经验的老哥们评论下呗，这个平台单子多么
+国内还有啥靠谱的接单平台么？&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;10+年老码农失业在家，承接 Web 全栈开发/建站/小程序，全程一对一服务
+后端语言 PHP/GO/Python ，前端语言 Vue/React/uni-app
+欢迎交流 Wx:RXhNYXJnaW4=&lt;/p&gt;</description><pubDate>Wed, 01 Nov 2023 12:53:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/987636#reply0</guid></item></channel></rss>
