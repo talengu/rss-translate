@@ -1,79 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 02 Nov 2023 13:34:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 新加坡 salesforce 开发薪资大概怎么样的？要报期望薪资了</title><link>https://www.v2ex.com/t/988029#reply0</link><description>&lt;p&gt;帮朋友问问的，听他说领英上认识了个猎头，能帮忙推新加坡的 salesforce 开发的远程工作，他现在是 4 年经验，大概是中高级这个级别，现在那边要求报期望薪资，他自己虽然也有网上查了一下，但还是想问问有没有老哥来个真实一点的数字参考参考？&lt;/p&gt;
-&lt;p&gt;另外，这个猎头还要求提供 ID 来证明自己的身份（国内的话应该是要提供身份证？），说是新加坡一个劳动力的政府机构要求的，这个是正常的？
-给的链接是 &lt;a href="https://www.mom.gov.sg/employment-agencies/submit-quarterly-referral-info" rel="nofollow"&gt;https://www.mom.gov.sg/employment-agencies/submit-quarterly-referral-info&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:34:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988029#reply0</guid></item><item><title>[分享发现] Apple silicon 版 VMware 13.5 更新，终于支持剪贴板了</title><link>https://www.v2ex.com/t/988028#reply0</link><description>&lt;p&gt;另外还增加了一键下载 Win11 arm 的功能。除了共享文件夹还不行（可以 SMB 解决），其它完美。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:32:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988028#reply0</guid></item><item><title>[酷工作] 招银网络科技咨询（杭州）</title><link>https://www.v2ex.com/t/988027#reply0</link><description>&lt;p&gt;今年的情况确实招人的企业不多，意外的发现招银网络（杭州）招人还挺多的， 有没有人来科普下，招银科技如何，据说加班比较严重，杭州一般晚上几点下班。 另外好像早上 8:30 上班吐槽的比较多，还有其他的点吗。&lt;/p&gt;
-&lt;p&gt;本人非应届生。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:27:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988027#reply0</guid></item><item><title>[分享创造] 我开发了一个数据可视化编辑器+蓝图编辑器，请指点~</title><link>https://www.v2ex.com/t/988026#reply0</link><description>&lt;p&gt;我开发了一个专门用于数据可视化的编辑器&lt;a href="https://xiaopujun.github.io/light-chaser-app/#/" rel="nofollow"&gt;light chaser&lt;/a&gt;，可以制作数据大屏和看板。整了一个类 UE4 的蓝图。通过拖拽的方式完成数据可视化的制作&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:26:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988026#reply0</guid></item><item><title>[问与答] android 手机接 U 盘的格式为 EXT4 格式无法读取，求解</title><link>https://www.v2ex.com/t/988024#reply0</link><description>通过转接头把 U 盘(格式为 EXT4)插到 android 手机上，但是提示要格式化。我插在一台刷了 LineageOS 的手机上面可以正常读取文件。求解</description><pubDate>Thu, 02 Nov 2023 13:18:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988024#reply0</guid></item><item><title>[分享发现] downg 这个站无了？</title><link>https://www.v2ex.com/t/988022#reply0</link><description>&lt;p&gt;&lt;a href="http://web.archive.org/web/20191227172020/https://www.downg.com/" rel="nofollow"&gt;http://web.archive.org/web/20191227172020/https://www.downg.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:16:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988022#reply0</guid></item><item><title>[程序员] macOS 中允许不同进程占用同一个端口？</title><link>https://www.v2ex.com/t/988021#reply5</link><description>&lt;p&gt;最近经常遇到一个问题，就是在本地做开发的时候，经常遇到两个项目占用同一个端口，但两个项目还是可以同时启动。&lt;/p&gt;
-&lt;p&gt;然后访问同一个端口，有时候会访问到第一个项目，有时候访问到第二个项目。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:11:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988021#reply5</guid></item><item><title>[程序员] 1password 可耻卑鄙，寻求 1Password 公司结束对经典浏览器扩展支持后的解决办法</title><link>https://www.v2ex.com/t/988020#reply6</link><description>&lt;p&gt;1Password 公司非常的可耻，结束对经典浏览器扩展的支持，导致我的 1password 7 买断版  在 chrome 上用不了，相当相当不方便，请教各位前辈老兄，如何办呢，难道只能升级到 1password 8 吗？
-1Password 公司为了营收，真的是非常的可耻卑鄙！&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:11:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988020#reply6</guid></item><item><title>[小米] 米 14 可以刷旧系统吗，并且导入旧手机数据</title><link>https://www.v2ex.com/t/988019#reply1</link><description>&lt;p&gt;怕反诈&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 13:04:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988019#reply1</guid></item><item><title>[问与答] 华为 GT4 搭配 iPhone 的问题</title><link>https://www.v2ex.com/t/988016#reply0</link><description>&lt;p&gt;用了好几年的 iwatch （应该是 4 代），基本都是一天一冲，上周去千岛湖玩耍忘记带整包充电线后，就想换个电量耐用的遥遥领先
-几个需求&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 03 Nov 2023 01:11:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] Java 转 GO 还是 Rust</title><link>https://www.v2ex.com/t/988098#reply9</link><description>&lt;p&gt;目前是一名 Java 程序员，觉得学的再深入知识也掌握不完，东西太多了，各种框架。我在想把这些精力放到新兴的语言上，比如 Rust 或者 Go ，是不是效果会更好点，相比来说没那么卷。
+最近在学 Rust ，觉得 Rust 这门语言还是有未来的，大家怎么看？&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 00:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988098#reply9</guid></item><item><title>[生活] 身边有 直 的朋友吗。怎么相处的</title><link>https://www.v2ex.com/t/988097#reply0</link><description>&lt;p&gt;她曾经尝试过压抑和控制自己的情感，但是这样做只会让她感到更加痛苦和焦虑。&lt;/p&gt;
+&lt;p&gt;她曾经向我倾诉过他的内心感受，她说她感觉自己与周围的人格格不入，无法融入他们的生活和圈子。&lt;/p&gt;
+&lt;p&gt;在交往中，我始终保持尊重和理解的态度，我尽量避免使用任何歧视或者攻击性的语言。我鼓励勇敢地面对自己的情感和生活，同时也尽可能地提供帮助和支持。&lt;/p&gt;
+&lt;p&gt;你们身边有这样的朋友吗，对于生活对于情绪的分发，都是怎么处理的。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 00:56:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988097#reply0</guid></item><item><title>[分享发现] 独立开发变现周刊（第 110 期）：一个副业产品 24 小时内获得 12 万美元投资</title><link>https://www.v2ex.com/t/988095#reply0</link><description>&lt;p&gt;分享独立开发、产品变现相关内容，每周五发布。&lt;/p&gt;
+&lt;p&gt;目录&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 、Newslater: 个人 newsletter 生成器&lt;/li&gt;
+&lt;li&gt;2 、Pagy: 简单的方法来建立一个网站&lt;/li&gt;
+&lt;li&gt;3 、wereadx: 开源的微信读书辅助工具&lt;/li&gt;
+&lt;li&gt;4 、OpenSign: DocuSign 的免费和开源替代&lt;/li&gt;
+&lt;li&gt;5 、一个副业产品在 24 小时内获得 12 万美金的投资&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本期详细内容： &lt;a href="https://www.ezindie.com/weekly/issue-110" rel="nofollow"&gt;https://www.ezindie.com/weekly/issue-110&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 00:55:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988095#reply0</guid></item><item><title>[问与答] 大家用什么记账软件？</title><link>https://www.v2ex.com/t/988094#reply7</link><description>主要诉求&lt;br /&gt;&lt;br /&gt;- 支持家庭多人记账 &lt;br /&gt;&lt;br /&gt;- Android 和 iOS 平台都要支持，有网页版本更好</description><pubDate>Fri, 03 Nov 2023 00:45:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988094#reply7</guid></item><item><title>[问与答] 进入决赛小米 s pro85 和鹤 7max 选哪个？</title><link>https://www.v2ex.com/t/988089#reply14</link><description>价格都差不多 7999 左右，鹤 7max 听说 618 才 6500 左右，现在没这个价了，现在纠结这俩选哪个呢？或者有没有更好的选项？顺带问下大佬们有没有优惠的路子？</description><pubDate>Fri, 03 Nov 2023 00:16:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988089#reply14</guid></item><item><title>[问与答] 朋友的孩子厌学，我该怎样帮她</title><link>https://www.v2ex.com/t/988088#reply35</link><description>&lt;p&gt;昨天一个朋友给我打电话，问我还会不会初中数学几何，让辅导一下她初二的儿子，我数学早就不知道丢到哪去了，就说让孩子他爸辅导啊，因为我知道她的数理化很弱，现在是一名高中英语老师。结果她告诉我孩子父亲在今年三月送孩子上学的路上出了车祸，我当时就懵了，然后聊了她儿子的一些事情，主要就是厌学，经常晚上完成不了数学作业，第二天就不想去学校，她和孩子说作业没完成没关系，学校必须要去，孩子还是非常抗拒，问他为什么这样，孩子却拒绝交流，把自己关在房间里。希望我能帮她开导一下孩子。我到现在都是单身，完全不知道怎样和孩子沟通。听着她说孩子的事情，我只能说着一些毫无意义的话安慰她。
+想帮她却无能为力，各位可以给我一些建议吗，怎样去和一个厌学又比较内向的孩子沟通。如果尊重他人命运这些话就别说了，她是我通讯录好友里为数不多的几个人，今天知道她老公去世的事情才明白最近几个月联系的次数会比往年多一点。
+另外我也问过孩子现在的问题是不是和他爸爸车祸的事有关，她说应该不是，作业完不成才是导火索。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 00:07:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988088#reply35</guid></item><item><title>[Apple] 从 Intel Mac 转到 M2， MS Office 还是跳得欢</title><link>https://www.v2ex.com/t/988087#reply14</link><description>&lt;p&gt;从 Intel 刚转过来的感受就是，几乎所有的 ARM 应用，开启速度都强于 Intel 芯，即使 Intel 芯性能超过 M2 很多很多。&lt;/p&gt;
+&lt;p&gt;唯独 MS Office 是个例，基本维持原性能，开启跳三下，比 PS 开启速度都慢得多，我一度怀疑是不是装了 x64 被转译，重新从 App Store 安装也是一样，不愧是“最佳开发者”。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 00:06:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988087#reply14</guid></item><item><title>[问与答] 兄弟们，急需 20 万信用贷款，尝试了几个银行的 app 额度都很低。</title><link>https://www.v2ex.com/t/988086#reply36</link><description>急需 20 万信用贷款，&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;目前情况如下：&lt;br /&gt;&lt;br /&gt;公积金个人+单位 合缴 1330 ，&lt;br /&gt;&lt;br /&gt;月薪 13500 ，&lt;br /&gt;&lt;br /&gt;名下无房无车，&lt;br /&gt;&lt;br /&gt;没有网贷或者各种逾期记录，&lt;br /&gt;&lt;br /&gt;成人大专学历，成人本科未毕业。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;尝试了两家银行的 app 线上申请通道，下来的额度只有几千到一万。。。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;另外，我的花呗、借呗额度也是一直低的可怜，花呗用了近 10 年，目前只有 4 千额度。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;着急用钱，昨天又拨打了民生银行的业务员电话，她让我周末去银行找她试试查查额度能拿多少，感觉也是那种线上自动审批的吧，好像查询次数多了也不好。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我在这方面是小白，请问我去哪个银行会拿更高的额度，大家给点建议，谢谢。</description><pubDate>Thu, 02 Nov 2023 23:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988086#reply36</guid></item><item><title>[优惠信息] AdGuard 九设备终身订阅 17 刀</title><link>https://www.v2ex.com/t/988085#reply7</link><description>&lt;p&gt;还是 Stacksocial 网站的促销，终身 9 设备 16.97 刀。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;优惠持续 3 天，商品链接：&lt;br /&gt;&lt;a href="https://www.stacksocial.com/sales/adguard-family-plan-lifetime-subscription" rel="nofollow"&gt;https://www.stacksocial.com/sales/adguard-family-plan-lifetime-subscription&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;实测新用户 15%优惠码不可用于此商品（ Coupons cannot be used with this sale.）。&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;我的个人邀请链接： &lt;a href="https://www.stacksocial.com?rid=12364750" rel="nofollow"&gt;https://www.stacksocial.com?rid=12364750&lt;/a&gt;&lt;br /&gt;通过这个邀请链接注册购买的话“Once your friend signs up and makes a purchase* you both get $10 of credit.”（官方原话）&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 23:41:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988085#reply7</guid></item><item><title>[MacBook] Mac 和 iPad 局域网神奇问题，请教各位</title><link>https://www.v2ex.com/t/988084#reply0</link><description>&lt;p&gt;Mac 和 iPad 同时连接在同一个 Wi-Fi2.4G 的情况下，通用控制以及随航功能正常。&lt;/p&gt;
+&lt;p&gt;Mac 和 iPad 同时连接在同一个 Wi-Fi5G 的情况下，通用控制以及随航功能无法使用。Mac 无法发现 iPad ，iPad 也无法使用屏幕镜像等发现 Mac 。&lt;/p&gt;
+&lt;p&gt;以上两种情况，隔空投送均正常。其他功能正常。系统都是最新。只要切回 2.4g Wi-Fi 立马正常。换路由器后，仍然表现为上述两种情况。&lt;/p&gt;
+&lt;p&gt;硬件为：M1 macbook Air 和 iPad Air4&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 23:35:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988084#reply0</guid></item><item><title>[Android] 荣耀手机怎么弄谷歌 gms 呢</title><link>https://www.v2ex.com/t/988082#reply3</link><description>&lt;p&gt;刚买了个 magic5 ，买的时候查的早就内测谷歌框架了，以为现在公测呢，没有大不了装一个。手机到手了才发现内测结束没开其他测，而且荣耀好像比鸿门还麻烦。我要用的 APP 好多都要谷歌框架，特别是 GPT 。我看了下大多方法都是用虚拟机来解决这个 GMS 的，想问下这种方法能不能正常使用 GPT ？然后有没有其他的稳定方法呢？&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 22:58:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988082#reply3</guid></item><item><title>[Android] 有大佬帮忙看看这个 App 做安卓端, 用 Flutter or Kotlin or 其他？</title><link>https://www.v2ex.com/t/988081#reply4</link><description>1. 打算把 App 从 ios （ swift ui ）兼容到安卓。Flutter or Kotlin or 其他？&lt;br /&gt;Why Kotlin：App 主要是面向移动端的用户，希望把移动端的体验拉满&lt;br /&gt;Why Flutter：后续也需要有网页端，flutter 可以一劳永逸？&lt;br /&gt;&lt;br /&gt;2. 费用多少合适呢？&lt;br /&gt;&lt;br /&gt;App 视频链接： &lt;a href="https://www.xiaohongshu.com/explore/654072af000000001f03d326?app_platform=ios&amp;amp;app_version=8.10.2&amp;amp;author_share=1&amp;amp;share_from_user_hidden=true&amp;amp;type=video&amp;amp;xhsshare=WeixinSession&amp;amp;appuid=64ab6cf6000000002a0346e5&amp;amp;apptime=1698926394&amp;amp;wechatWid=fa1aab373c716667a110c6bb08aa34f8&amp;amp;wechatOrigin=menu" rel="nofollow noopener" target="_blank"&gt;https://www.xiaohongshu.com/explore/654072af000000001f03d326?app_platform=ios&amp;amp;app_version=8.10.2&amp;amp;author_share=1&amp;amp;share_from_user_hidden=true&amp;amp;type=video&amp;amp;xhsshare=WeixinSession&amp;amp;appuid=64ab6cf6000000002a0346e5&amp;amp;apptime=1698926394&amp;amp;wechatWid=fa1aab373c716667a110c6bb08aa34f8&amp;amp;wechatOrigin=menu&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果有大佬感兴趣的话，也可以联系我～！项目承包制 or 加入我们小团队参与分红</description><pubDate>Thu, 02 Nov 2023 22:22:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988081#reply4</guid></item><item><title>[酷工作] [远程/全职] 招聘 Golang、MySQL、Cocos、测试开发</title><link>https://www.v2ex.com/t/988080#reply0</link><description>Golang （ 25-40K ）夜班&lt;br /&gt;任职要求：&lt;br /&gt;1 、2 年以上 Golang 业务开发经验&lt;br /&gt;2 、熟练掌握 Golang 常用框架，深入了解框架提供的特性及其实现原理细节&lt;br /&gt;3 、有大规模分布式系统的设计和开发经验，能独立完成系统的设计及开发&lt;br /&gt;4 、熟练掌握 MySQL 数据库，具备 MySQL 索引优化、查询优化的能力&lt;br /&gt;5 、熟练掌握 Kafka 和 Redis,了解其原理，并有多种应用场景&lt;br /&gt;6 、熟悉分布式系统，熟练掌握一种以上服务框架和消息中间件，了解其实现原理&lt;br /&gt;7 、熟悉 Golang 微服务、Docker 和 Jendins 部署&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Golang （ 25-50K ）&lt;br /&gt;任职要求：&lt;br /&gt;1 、1 年以上 SAAS/社交/IM/开发经验&lt;br /&gt;2 、熟练掌握 Golang 常用框架，深入了解框架提供的特性及其实现原理细节&lt;br /&gt;3 、有大规模分布式系统的设计和开发经验，能独立完成系统的设计及开发&lt;br /&gt;4 、熟练掌握 MySQL 数据库，具备 MySQL 索引优化、查询优化的能力&lt;br /&gt;5 、熟练掌握 Kafka 和 Redis,了解其原理，并有多种应用场景&lt;br /&gt;6 、熟悉分布式系统，熟练掌握一种以上服务框架和消息中间件，了解其实现原理&lt;br /&gt;7 、熟悉 Golang 微服务、Docker 和 Jendins 部署&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Cocos （ 25-40K ）&lt;br /&gt;任职要求：&lt;br /&gt;1 、3 年以上，至少 1 年 QP 开发经验&lt;br /&gt;2 、使用 CocosCreator 、Cocos2dx 等引擎开发过 QP&lt;br /&gt;3 、精通 QP 前端框架的设计、开发和实现&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;性能测试开发（ 30-40K ）&lt;br /&gt;任职要求：&lt;br /&gt;1 、开发过性能测试平台&lt;br /&gt;2 、具备 Python/Java/Go 的开发能力&lt;br /&gt;3 、熟悉性能测试框架及各种系统/网络性能指标，具备一定性能分析能力，能根据业务独立编写性能脚本；&lt;br /&gt;4 、熟悉软件的开发，测试，发布流程，熟悉 CI/CD 流程，具备设计和开发测试工具和自动化测试框架能力&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;MySQL DBA （熟悉 K8S ） 30-45K&lt;br /&gt;任职要求：&lt;br /&gt;1 、5 年以上 Linux 系统 Mysql 数据库管理经验&lt;br /&gt;2 、有 NoSQL 的管理、优化经验, 熟悉 Redis 、MongoDB, Elasticsearch 管理，数据备份，优化；&lt;br /&gt;3 、精通 MySQL 数据库引擎原理，深入理解数据库引擎的实现机制，能根据相关机制优化数据库；&lt;br /&gt;4 、接触过千万级数据库的处理经验、有灾难性故障处理经验&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;联络方式：&lt;br /&gt;微信：vvzozv&lt;br /&gt;TG：@Wiz66</description><pubDate>Thu, 02 Nov 2023 22:12:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988080#reply0</guid></item><item><title>[PayPal] PayPal 国区目前似乎无法绑定 192 开头的广电号码</title><link>https://www.v2ex.com/t/988076#reply0</link><description>&lt;p&gt;最近办了张广电的卡想要当主卡来着，在换绑的过程中国内软件都还挺顺利的，但是到了 PayPal 的时候发现提示号码无效。想要用广电卡当主卡的要注意一下了。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9wrgvKd.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 19:01:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988076#reply0</guid></item><item><title>[iPhone] [求助]澳门版 iPhone 在大陆官网 Trade in 会被砍价吗？</title><link>https://www.v2ex.com/t/988075#reply1</link><description>&lt;p&gt;iPhone13Pro 256GB 在中国大陆官网 Trade In 显示可以折抵 4200 元人民币，但是如果我是澳门版的话会被砍价嘛？如果会的话一般砍多少啊？&lt;/p&gt;
+&lt;p&gt;我手机是蓝色，成色挺新的，自己定义 95 吧。无拆无修无磕碰，边框正常使用痕迹，箱说齐全也有澳门 Apple 路氹金光大道店的收据，但是电池寿命只有 79 了，这样如果出二手不回收大概什么价格合适啊？&lt;/p&gt;
+&lt;p&gt;关键还是想问一下，官网 Trade In 和自己出二手哪个更合适一些，主要是我想出个比较好的价钱。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 18:01:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988075#reply1</guid></item><item><title>[阅读] 2023 十月读建筑，觉醒，断食，经济，小说……13 本</title><link>https://www.v2ex.com/t/988070#reply1</link><description>&lt;h2&gt;书目&lt;/h2&gt;
+&lt;p&gt;建筑  &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;电量耐用，3 ～ 5 天冲一次&lt;/li&gt;
-&lt;li&gt;可以在手表上接打电话（独不独立无所谓）&lt;/li&gt;
-&lt;li&gt;可以接收手机上的通知提醒（显不显示具体内容无所谓）&lt;/li&gt;
-&lt;li&gt;可以用语音助手处理几个简单的任务（闹钟/倒计时/打电话）&lt;/li&gt;
+&lt;li&gt;走向新建筑&lt;/li&gt;
+&lt;li&gt;走向新建筑&lt;/li&gt;
+&lt;li&gt;梁思成中国建筑史&lt;/li&gt;
+&lt;li&gt;认识建筑&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;测试了下 24 小时电量用了 15%左右，连接手机后可以在手表上接打电话，可以触发通知，唯一一个小问题是没办法语音唤醒（连接华为可以使用，但是只能按键触发），求教大家有什么别的办法使用小艺小艺吗？可以的话我就转投遥遥领先的怀抱了&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 12:43:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988016#reply0</guid></item><item><title>[iPhone] iPhone15 附的编织充电线手感真好，有没有 1.5 或 1.8m 的类似手感平替线？</title><link>https://www.v2ex.com/t/988015#reply2</link><description>1.不需要 USB3.0 ， 只用来充电。&lt;br /&gt;2.最好是编织线，亲肤线也可以。&lt;br /&gt;3.线长 1.5-1.8 米。&lt;br /&gt;&lt;br /&gt;前几天买了两根一米八的 Anker 线，太硬了，放床头不太听话，一直戳我。</description><pubDate>Thu, 02 Nov 2023 12:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988015#reply2</guid></item><item><title>[程序员] 如何让 npm run dev 的 vue vite 项目走 clash mixin 代理呢？</title><link>https://www.v2ex.com/t/988014#reply8</link><description>&lt;p&gt;我在 Clash Mixin 中增加了如下配置，目的是让所有.test 结尾的域名指向本机&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;hosts:
-    "*.test": 127.0.0.1
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;问题来了&lt;/h3&gt;
-&lt;p&gt;浏览器可以正常访问 xxx.test ，但是终端工具中 npm run dev 的 vue3 vite 项目始终无法访问到 xxx.test ，export http_proxy=http://127.0.0.1:7890 ，代理终端也不行？&lt;/p&gt;
-&lt;p&gt;请问怎么解决呢？&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 12:27:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988014#reply8</guid></item><item><title>[程序员] cloudflare 挂了</title><link>https://www.v2ex.com/t/988012#reply1</link><description></description><pubDate>Thu, 02 Nov 2023 12:21:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988012#reply1</guid></item><item><title>[DNS] 千万别用国内的域名管理商了了，真的头秃了</title><link>https://www.v2ex.com/t/988011#reply4</link><description>08 年就开始玩建站，最早用了西部数码，&lt;br /&gt;这几天不知道什么鬼，突然强制 我一个域名 实名认证，关键还把我解析停了，&lt;br /&gt;搞的我自己的 nas vpn 日常用的服务 全部都解析失败&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;国内的东西还是尽量少用吧，哪怕是狗爹贵点，也要转出去续费</description><pubDate>Thu, 02 Nov 2023 12:20:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988011#reply4</guid></item><item><title>[Visual Studio Code] VS Code 终于在稳定版中支持调整 Activity Bar 的位置了</title><link>https://www.v2ex.com/t/988010#reply0</link><description>&lt;p&gt;在 Activity Bar 上点击右键，弹出菜单中就可以设置。&lt;/p&gt;
-&lt;p&gt;可以设置放在侧面、上面或者隐藏。&lt;/p&gt;
-&lt;p&gt;之前的魔改版本可以把 Activity Bar 放在下面，个人感觉还是放在下面舒服一点。&lt;/p&gt;
-&lt;p&gt;期待后续版本中会有更多设置选择。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/BqC4dhI.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 12:18:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988010#reply0</guid></item><item><title>[职场话题] 还有多少人愿意自购笔记本带去公司工作呢</title><link>https://www.v2ex.com/t/988009#reply3</link><description>自购笔记本带去公司用的经历，我其实还是很多的&lt;br /&gt;大学刚毕业的时候听闻自购笔记本公司给报销一半，我当机立断买了个联想高性能游戏本&lt;br /&gt;一直到 2 年后在第二家公司工作时又全款自费买了台当年的 MacBookpro 中配机型，用这台 MacBookpro 上班码代码一用就是 6 年，直到我从倒数第二家公司离职，这台老 mac 算是正式退役了，那一年是 2019 年&lt;br /&gt;在倒数第二家公司工作的过程中，公司就开始强制往员工办公电脑上安装深信服客户端了，一直到现在就职的公司，工作电脑里都强制安装深信服客户端&lt;br /&gt;深信服客户端有多牛逼，这里不再叙述了，大家有空可以自己去了解下，反正就是很牛逼&lt;br /&gt;也就是从 2019 年至今的 4 年多时间里，我一直都是公司给我什么电脑我就用什么电脑，再也不会把自己的电脑当工作电脑用了。一方面是担心自己电脑上的私人文件被扫到，导致隐私泄漏，一方面就是一些信息安全问题。甚至在去年了解到深信服客户端可以监控到微信聊天记录之后，我就再也没有在工作电脑上登录过微信客户端。&lt;br /&gt;在上家公司里，见证过一个前同事因为信息安全问题被开除的，真的是一点办法都没有。最无解的是，平日中不管是有心还是无意造成的一些敏感操作，上家公司并不是立刻就找上来，而是会默默记录下来，等到公司想把你优化掉的时候就把这些证据拿出来搞你。&lt;br /&gt;基于以上的情况，所以基本上我不会在带自己电脑去公司了&lt;br /&gt;现在还有多少人愿意自购电脑带去公司工作呢？&lt;br /&gt;又有多少人被公司强制安装深信服客户端到自己买的电脑中呢？</description><pubDate>Thu, 02 Nov 2023 12:17:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988009#reply3</guid></item><item><title>[海外留学] 申欧陆的研，动机信作用到底大不大？</title><link>https://www.v2ex.com/t/988007#reply1</link><description>&lt;p&gt;op 英文写作水平实在是 8 行，这两天真的是写吐了。看好多学校的官网上都是可选的，感觉可能这个动机信在录取评估中占比好像不太高？&lt;/p&gt;
-&lt;p&gt;GPT 给我的很多时候也是一坨，还要自己一句话一句话精修，到头来还是相当于自己写。&lt;/p&gt;
-&lt;p&gt;如果这个占录取比例比较小的话，我就稍微放宽点标准，实在是写不动了&lt;/p&gt;
-&lt;p&gt;大佬们给点建议&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 12:09:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988007#reply1</guid></item><item><title>[职场话题] 数据库方向两个 offer 如何选择？</title><link>https://www.v2ex.com/t/988006#reply0</link><description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;公司&lt;/th&gt;
-&lt;th&gt;薪资&lt;/th&gt;
-&lt;th&gt;岗位&lt;/th&gt;
-&lt;th&gt;城市&lt;/th&gt;
-&lt;th&gt;福利&lt;/th&gt;
-&lt;th&gt;工作强度&lt;/th&gt;
-&lt;th&gt;社保&lt;/th&gt;
-&lt;th&gt;备注 1&lt;/th&gt;
-&lt;th&gt;备注 2&lt;/th&gt;
-&lt;th&gt;备注 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;神舟通用&lt;/td&gt;
-&lt;td&gt;(n+1) * 14&lt;/td&gt;
-&lt;td&gt;数据库内核&lt;/td&gt;
-&lt;td&gt;天津&lt;/td&gt;
-&lt;td&gt;500 餐补/月，过节费，高温补贴，取暖费，劳保等乱七八糟&lt;/td&gt;
-&lt;td&gt;965 弹性很少加班&lt;/td&gt;
-&lt;td&gt;六险两金，拉满&lt;/td&gt;
-&lt;td&gt;技术可能不如 B ，成长性可能差一点&lt;/td&gt;
-&lt;td&gt;客户少而稳定，扩张慢&lt;/td&gt;
-&lt;td&gt;氛围偏国企&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;人大金仓&lt;/td&gt;
-&lt;td&gt;n*14&lt;/td&gt;
-&lt;td&gt;数据库内核&lt;/td&gt;
-&lt;td&gt;青岛&lt;/td&gt;
-&lt;td&gt;30 餐补/天，加班额外 30 餐补/天，加班免费打车&lt;/td&gt;
-&lt;td&gt;993 ＋ 972&lt;/td&gt;
-&lt;td&gt;六险一金，拉满&lt;/td&gt;
-&lt;td&gt;离家近，离对象近，离同学朋友近&lt;/td&gt;
-&lt;td&gt;近两年发展快，扩张快&lt;/td&gt;
-&lt;td&gt;氛围偏私企&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;bg：山东人，本硕双非&lt;/p&gt;
-&lt;p&gt;规划：想找个地方安稳做两年（避免应届被裁）再找机会跳槽，毕竟这两个 offer 薪资都不算高（到手 1w 左右）&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 12:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988006#reply0</guid></item><item><title>[求职] 何同学两日体验卡！</title><link>https://www.v2ex.com/t/988004#reply15</link><description>&lt;p&gt;上上周去何同学体验了两天，说是体验实际上今天我才知道是考核，是有考核目标的。小公司搞得没点规范的。大无语。岗位是产品工程师，做些技术产品这些。&lt;/p&gt;
-&lt;p&gt;大学专业是软件工程，现在大四了，加的实验室学的嵌入式、基础机械的比较多。然后还挺对口的就去了，投简历到约面试等了一个月，零零散散又是半个月不止。&lt;/p&gt;
-&lt;p&gt;那周二三面结束之后，周三晚上问我有没有空第二天去体验一天，我也不懂，我开心得很，立马屁颠屁颠就去了。&lt;/p&gt;
-&lt;p&gt;早上准时到公司，然后等了一会给我安排了一些工作，发给我几个项目的源码，让我理解一下，一看，好家伙，shi 山啊，包括但不限于.c 和.h 放在一起，有.h 没有.c,.h 里面放了一堆函数和变量，变量不会用 extern 的，并且还没注释！！！实在看不下去也没布置什么任务我就理解了一下顺带把它重构了一下，不过确实花了不少时间。然后还没弄完中午吃完饭就叫我去当了两小时群演，也没什么明确的任务，我就屁颠屁颠去了，坐那两小时摸鱼，我还挺开心呢，第一天上班就能摸鱼。然后晚上重构好把代码跑起来测试了一下，功能都正常，然后第一天就结束了。&lt;/p&gt;
-&lt;p&gt;第二天上班之后说今天先测试一下传感器，传感器用得另外一个项目昨天还没重构稍微重构了一下，规范了一下，然后下午叫我写一下通信协议，写了个通信协议测双板通信测试了一下，回传也测试了，没啥问题。然后第二天就结束了。然后就叫我回去等消息了。至始至终我都不知道还有明确的任务需要完成。&lt;/p&gt;
-&lt;p&gt;然后第二周告诉我消息，我的能力不符合要求，问具体原因也没说，今天电话沟通了一下说我没有完成目标的任务，我：？还有任务？都没和我说有明确的考核任务现在说因为你的考核任务没完成所以没通过。666
-只能说小公司吹的无论什么噱头还是避雷，搞得太 ex 了。&lt;/p&gt;
-&lt;p&gt;目前找了一个实习工资 3-4k 的还算大厂但是有点不太感兴趣，工资太拉了，得等到毕业转正。大家有什么在杭的嵌入式的方向的工作推荐推荐。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 11:59:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988004#reply15</guid></item><item><title>[宽带症候群] 独享 OLT 端口？光衰达到+4dbm</title><link>https://www.v2ex.com/t/988002#reply7</link><description>&lt;p&gt;新装完毕，还是头一次看见正的光衰！&lt;/p&gt;
-&lt;p&gt;一般从 OLT 出来差不多就是这个值吧？ 这是否意味着我这条线路没有经过任何分光设备，并且可以推定为，此线路为独享 OLT 端口呢？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="1.png" class="embedded_image" rel="noreferrer" src="https://app.hnust.edu.cn/img01/2023/11/02/128463869a91e.png" /&gt;&lt;/p&gt;
-&lt;p&gt;声明：上图在安装调试时截屏，本人从未私自入侵国有资产。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 11:54:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988002#reply7</guid></item></channel></rss>
+&lt;p&gt;觉醒&lt;br /&gt;
+5. 觉醒之后&lt;br /&gt;
+6. 觉醒时刻&lt;/p&gt;
+&lt;p&gt;断食&lt;br /&gt;
+7. Fast like a girl&lt;/p&gt;
+&lt;p&gt;经济&lt;br /&gt;
+8. 置身事内&lt;/p&gt;
+&lt;p&gt;小说&lt;br /&gt;
+9. 没有个性的人&lt;br /&gt;
+10. 小径分岔的花园&lt;br /&gt;
+11. 只爱陌生人&lt;br /&gt;
+12. 床，沙发，我的人生&lt;br /&gt;
+13. 玛雅&lt;/p&gt;
+&lt;h2&gt;简评&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;建筑学三本，其中柯布西耶的《走向新建筑》我读了两个译本。可能没有遇到对的书，反正整体读完，发觉自己对建筑没有兴趣。另一个发现是，有水的或临水的建筑我就喜欢，临江河湖海都行。甘心继续做个建筑学门外汉。&lt;/li&gt;
+&lt;li&gt;《觉醒之后》是我本月受益最大的书。书正对应着我的觉醒阶段，指出问题和方向。更重要的是，我通过这本书，开始认识觉醒的人，并且开始交流。从书本扩大的真实世界。&lt;/li&gt;
+&lt;li&gt;《 Fast Like a Girl 》直接促使我和妻子各自开始了一次 72 小时断食。并且记录了自己的断食感受： &lt;a href="https://conge.livingwithfcs.org/2023/10/27/fasting/" rel="nofollow"&gt;https://conge.livingwithfcs.org/2023/10/27/fasting/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;读了五本小说，每本都精彩。《没有个性的人》最难啃，哲学伟大浓于小说味道，啃完了它精疲力尽，以至于这个月又多读了几本小说，用来放松。《玛雅》一定程度上可以看作《没有个性的人》的 21 世纪版，但难度没那么大，且更有小说的味道。《只爱陌生人》的作者“恐怖伊恩”，名不虚传。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;13 本书各自写了简短书评，见博客 &lt;a href="https://conge.livingwithfcs.org/2023/11/02/reading_summary/" rel="nofollow"&gt;https://conge.livingwithfcs.org/2023/11/02/reading_summary/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 17:34:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988070#reply1</guid></item><item><title>[Cloudflare] cloudflare API down 机，大家都没感觉是吗？</title><link>https://www.v2ex.com/t/988069#reply6</link><description>&lt;p&gt;相比于之前的语雀，似乎大家完全没感觉到 CF issue 哈&lt;/p&gt;
+&lt;p&gt;我是因为 push blog 后，收到 action 处理失败的提醒，才发现 CF 挂了。&lt;/p&gt;
+&lt;p&gt;截至目前 API 、API shield 、Dashboard 还是 offline 状态&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 17:25:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988069#reply6</guid></item><item><title>[分享创造] 使用 Rust 和 WebAssembly 写了一个 NeuralRad Segment AnyTumor 模块，可以自动三维分割任意肿瘤</title><link>https://www.v2ex.com/t/988068#reply1</link><description>NeuralRad 的 Segment AnyTumor module 通过在 FacebookAI 的 SegmentAnything model 针对放疗应用 Fine-tune. 这个模块完全采用 Rust 和 WebAssembly 编程，让这个模型直接在用户的浏览器中高速运行，保障最佳的用户体验。&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Thu, 02 Nov 2023 17:09:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988068#reply1</guid></item><item><title>[优惠信息] 阿里云学生送 300 元</title><link>https://www.v2ex.com/t/988067#reply1</link><description>&lt;p&gt;RT 上流 985 还能领 3 折优惠，我用 300 白嫖了 9 个月香港服务器🥹，搜云工开物就有了&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 17:04:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988067#reply1</guid></item><item><title>[OpenWrt] 新版的 OP 如何禁用制定设备的 ipv6?</title><link>https://www.v2ex.com/t/988066#reply7</link><description>&lt;p&gt;家里的设备有些需要 v6 ，有些用 v6 就不正常，所以想禁用制定设备的 v6 分发或者访问。&lt;/p&gt;
+&lt;p&gt;op 现在的新版本，防火墙已经替换成了 fw4 和 nftables ，之前网上的一些教程已经不适用了。有没有大佬能帮忙看看应该怎么配置？&lt;/p&gt;
+&lt;p&gt;想根据 mac 地址去禁用 v6 。&lt;/p&gt;</description><pubDate>Thu, 02 Nov 2023 16:47:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988066#reply7</guid></item></channel></rss>
