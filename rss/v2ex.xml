@@ -1,343 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 03 Nov 2023 21:18:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] macOS 开启代理后无法使用 Hostname 连接局域网设备</title><link>https://www.v2ex.com/t/988489#reply0</link><description>&lt;p&gt;测试过 wireguard 和 shadowrocket （ iOS 版），都无法正常连接。关闭代理后恢复正常。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 20:56:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988489#reply0</guid></item><item><title>[分享创造] 我写了一个小工具，定期归档感兴趣的 Git 仓库，预防 404</title><link>https://www.v2ex.com/t/988488#reply0</link><description>&lt;p&gt;REpository ArchivER （ REAPER ）是一个用于从任何 Git 服务器归档 Git 仓库的工具。&lt;/p&gt;
-&lt;p&gt;近期有较多重要的 Git 仓库因为不可抗力原因不能访问了，事后再去找备份太麻烦，希望找个空闲的 vps 定期给关注的仓库备份，把整个仓库 clone 下来，及早防范。于是花了一晚肝了这个工具，期间还遇到了 GitHub &lt;a href="https://www.githubstatus.com/incidents/xb30mby9fs5x" rel="nofollow"&gt;事故&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;项目地址：&lt;a href="https://github.com/LeslieLeung/reaper" rel="nofollow"&gt;LeslieLeung/reaper&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;哎，希望事件早日平息，这些作者也安然无恙尽快回归。&lt;/p&gt;
-&lt;h2&gt;安装&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;go install github.com/leslieleung/reaper@latest
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;或从 &lt;a href="https://github.com/LeslieLeung/reaper/releases" rel="nofollow"&gt;Release&lt;/a&gt; 获取。 &lt;/p&gt;
-&lt;h2&gt;使用方法&lt;/h2&gt;
-&lt;p&gt;你需要创建一个配置文件来使用 REAPER 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-yaml"&gt;repository:
-  - name: reaper
-    url: github.com/leslieleung/reaper
-    storage:
-      - localFile
-
-storage:
-  - name: localFile
-    type: file
-    path: /tmp/reaper
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后，你可以使用配置文件运行 REAPER 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;reaper -c config.yaml
-# 或者如果你的配置文件名为 config.yaml ，只需调用 reaper
-reaper
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;rip&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;rip&lt;/code&gt;命令会归档在配置中定义的单个 Git 仓库。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;reaper rip reaper
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;run&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;run&lt;/code&gt;命令会归档在配置中定义的所有 Git 仓库。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;reaper run
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;结合 cron ，你可以定期归档 Git 仓库。&lt;/p&gt;
-&lt;h2&gt;配置&lt;/h2&gt;
-&lt;p&gt;有关配置，你可以查看此&lt;a href="https://github.com/LeslieLeung/reaper/blob/main/config/example.config.yaml" rel="nofollow"&gt;示例&lt;/a&gt;。&lt;/p&gt;
-&lt;h3&gt;存储&lt;/h3&gt;
-&lt;p&gt;REAPER 支持多种存储类型。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 04 Nov 2023 12:39:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 求问这种视频是用什么工具做出来的，好丝滑</title><link>https://www.v2ex.com/t/988652#reply0</link><description>&lt;a href="https://www.bilibili.com/video/BV1As4y127HW" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/BV1As4y127HW&lt;/a&gt;</description><pubDate>Sat, 04 Nov 2023 12:35:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988652#reply0</guid></item><item><title>[Python] Python 潮流周刊#25：性能最快的代码格式化工具 Ruff！</title><link>https://www.v2ex.com/t/988651#reply0</link><description>&lt;p&gt;你好，我是猫哥。这里每周分享优质的 Python 、AI 及通用技术内容，大部分为英文。标题取自其中一则分享，不代表全部内容都是该主题，特此声明。&lt;/p&gt;
+&lt;p&gt;本周刊由 &lt;strong&gt;Python 猫&lt;/strong&gt; 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;微信&lt;/a&gt; | &lt;a href="https://pythoncat.top" rel="nofollow"&gt;博客&lt;/a&gt; | &lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;邮件&lt;/a&gt; | &lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;Github&lt;/a&gt; | &lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;Telegram&lt;/a&gt; | &lt;a href="https://twitter.com/chinesehuazhou" rel="nofollow"&gt;Twitter&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;本周刊归档在 Github 上，已收获 800+ star 好评，如果对你有帮助，请给颗 star 支持一下吧：&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;https://github.com/chinesehuazhou/python-weekly&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🦄文章&amp;amp;教程&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://astral.sh/blog/the-ruff-formatter" rel="nofollow"&gt;Ruff：一款极其快、兼容 Black 的 Python 格式化工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我在今年 4 月份介绍过 &lt;a href="https://pythoncat.top/posts/2023-04-09-ruff" rel="nofollow"&gt;性能最快的代码分析工具&lt;/a&gt; Ruff ，当时发现它不局限于 Linter 的定位，还提供了部分 Formatter 的功能。现在，它发布了重大更新，正式成为性能最快的 Python 代码格式化工具，比 &lt;strong&gt;Black&lt;/strong&gt; 快 30 倍以上，比 &lt;strong&gt;YAPF&lt;/strong&gt; 快 100 倍！&lt;/p&gt;
+&lt;p&gt;&lt;img alt="不用缓存，格式化约 25 万行代码的表现" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-04_ruff.png" /&gt;&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://pythonspeed.com/articles/upgrade-python-3.12/" rel="nofollow"&gt;你应该什么时候升级到 Python 3.12 ？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 3.12 已经发布了，你是否迫切想要升级了呢？现在是最佳的升级到 3.12 的时候么？文章建议你等到 12 月，等发布 3.12.1 错误修复版本后，因为新版本存在这些问题：不兼容的软件包、缺少二进制包、每次大版本总有大量的问题要修复。&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://www.manjusaka.blog/posts/2023/10/29/the-most-important-thing-in-python-3-12/" rel="nofollow"&gt;Python 3.12：一个被人忽略的史诗级版本&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者认为 3.12 对于 Python 的意义，大于 3.5 的“async/await” 和 3.6 的 “Type Hint” 对于 Python 的意义！主要分析了三个方面提升：PEP-669 带来的可观测性、PEP-684 为 non-GIL 带来的性能提升、PEP-697 全新 C API 保证跨版本兼容性。&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html" rel="nofollow"&gt;不要再用 requirements.txt 了&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者给了两个建议：不要使用 pip 和 &lt;code&gt;requirements.txt&lt;/code&gt; 来管理 Python 依赖项，推荐使用 Poetry 。pip 的主要问题是没有 lockfile 和手工管理虚拟环境麻烦。除了 Poetry ，作者也提及了 Hatch 和 PDM 。&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://www.coderedcorp.com/blog/why-is-the-django-admin-ugly/" rel="nofollow"&gt;为什么 Django 后台管理系统那么“丑陋”？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Django 提供了一个默认的后台管理系统，即 Django Admin ，它的 UI 很多年没有变化，显得设计过时了。为什么 Django 维护者们不改善它呢？作者通过询问多位维护者，得出了它的历史及如此设计的原因，主要观点是 Django Admin 面向内部管理员，不应该暴露给终端用户。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Django Admin 管理页面" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-04_django_admin.png" /&gt;&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/" rel="nofollow"&gt;我迁移弃用 setup.py 的糟糕体验&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PyOxidizer 作者的一篇长文，他在将 Python 3.12 用于另一个库时，CI 运行&lt;code&gt;python &lt;a href="http://setup.py" rel="nofollow"&gt;setup.py&lt;/a&gt;&lt;/code&gt; 提示 setuptools 无法导入。作者在寻求解决方案时，发现 Python 的打包生态非常让人困惑，他经历了一系列复杂而耗时的过程。&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://realpython.com/ptpython-shell/" rel="nofollow"&gt;使用 Ptpython 提高你的编码效率&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ptpython 是一个功能丰富且对用户友好的 Python REPL ，这是一篇非常详细的使用教程。重点介绍的功能包括历史记录、输入验证、自动补全、自动处理缩进、自定义交互式 shell 、在脚本中嵌入 ptpython 等。&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://blog.robertroskam.com/p/100-test-coverage-is-not-enough" rel="nofollow"&gt;100%的测试覆盖率是不够的：Python 中基于属性的测试&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;测试覆盖率固然重要，但这项指标并不足以解决所有问题。文章通过示例揭示测试覆盖率的不足，简单介绍了如何用 Hypothesis  作基于属性的测试。&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://www.cnblogs.com/hanabi-cnblogs/p/17792740.html" rel="nofollow"&gt;从零开始编写一个 Python 异步 ASGI Web 框架&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;从零开始编写一个异步 ASGI Web 框架难么？需要了解哪些知识、实现哪些功能、思考哪些问题？这篇循序渐进的教程是很好的学习材料，让你了解 Web 框架设计、异步编程、功能封装与项目管理。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="一个请求的生命周期" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/20231026181957.png" /&gt;&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://www.cnblogs.com/frankming/p/17762591.html" rel="nofollow"&gt;Python 如何在日志中隐藏明文密码？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不在日志中打印明文密码是安全需求，但是有太多可能出现打印密码的情况，如何能高效地隐藏明文密码呢？文章介绍了基于 &lt;strong&gt;logging&lt;/strong&gt; 模块的两种实现方案：自定义 filter 和自定义 formatter ，使用特定规则过滤明文密码。&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://monadical.com/posts/from-chaos-to-cohesion.html" rel="nofollow"&gt;从混沌到凝聚：构建你自己的 Monorepo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;monorepo 是将所有项目都放到一个代码仓管理，可能包含不同语言和框架。这意味着对它的依赖管理和 CI/CD 等都与普通代码仓不同。文章介绍如何使用 GitHub Actions 作为 CI/CD 工具构建简单的 Python monorepo 。&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/" rel="nofollow"&gt;Python 是一种编译型语言&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我们通常习惯将 Python 称为一种解释型语言，因为它在运行时逐行解释和执行代码。很多人还知道 Python 其实也有编译的过程，解释器会先编译再执行。然而作者不止步于此，他通过苏格拉底式对话和几轮实验，引导读者重新思考“解释”与“编译”：它们是错误的二分法、限制了编程语言的可能性。Python 既是解释型语言，也是编译型语言！&lt;/p&gt;
+&lt;p&gt;🎁&lt;strong&gt;Python 潮流周刊&lt;/strong&gt;🎁已免费发布了 25 期，访问下方链接，即可查看全部内容：&lt;a href="https://pythoncat.top/tags/weekly" rel="nofollow"&gt;https://pythoncat.top/tags/weekly&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;周末不休息，又更新了一期周刊，我想明天喝杯奶茶了~~&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/wechat_code.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🐿️项目&amp;amp;资源&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://github.com/ccxt/ccxt" rel="nofollow"&gt;ccxt：加密货币交易 API ，支持 100 多个交易所&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用于加密货币交易的 JavaScript/Python/PHP/C# 库，支持许多比特币/以太币/山寨币交易市场和商家 API 。（ star 29.5K ）&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://github.com/pauloxnet/uDjango" rel="nofollow"&gt;uDjango：单文件的 Django 微型项目&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个项目是 DjangoCon US 2023 的演示项目，使用单文件不到 10 行代码，演示一个最小的 Django 应用。&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://github.com/dymmond/esmerald" rel="nofollow"&gt;esmerald：高度可扩展、高性能的 Web 框架&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;基于 Starlette 和 Pydantic 之上构建的开箱即用的 Web 框架，用于构建现代可扩展的 API 应用，支持同步和异步，提供 DAO 、ORM 、ODM 、依赖注入、权限管理等功能。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-04_esmerald.png" /&gt;&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://github.com/laike9m/Python-Type-Challenges" rel="nofollow"&gt;Python-Type-Challenges：通过在线挑战来学习 Python 类型提示&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个很有意思的项目，它包含从初级到高级的一系列挑战题目，让你在线练习 type hint 的使用。&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://github.com/mify-io/mify" rel="nofollow"&gt;mify：微服务基础架构，代码生成工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可生成 OpenAPI http 服务端，内置 Prometheus 指标，提供结构化日志记录，支持多种语言代码生成。&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://github.com/Fadi002/de4py" rel="nofollow"&gt;de4py：Python 逆向工程工具包&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一款高级的 Python 反混淆器，面向恶意软件分析师和逆向工程师，它拥有精美的 UI 和一些高级功能。&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://github.com/public-apis-dev/public-apis" rel="nofollow"&gt;public-apis：面向开发者的公共 API 列表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;非常非常丰富的公共 API 清单，内容应有尽有。（ star 2K ）&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://github.com/alibaba-damo-academy/FunASR" rel="nofollow"&gt;FunASR：端到端语音识别工具包&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;阿里达摩院开源的语音识别工具包，功能包括语音识别（ ASR ）、语音端点检测（ VAD ）、标点恢复、语言模型、说话人验证、说话人分离和多人对话语音识别等。（ star 1.2K ）&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://github.com/JoeanAmier/XHS_Downloader" rel="nofollow"&gt;XHS_Downloader: 小红书图文/视频作品采集工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;支持采集和下载小红书图文/视频作品，支持批量下载，有作品文件完整性处理机制。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-04-xhs.png" /&gt;&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://github.com/yinan-c/RSS-GPT" rel="nofollow"&gt;RSS-GPT：使用 ChatGPT 为你的 RSS 订阅源生成摘要&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 GitHub workflow 自动运行一个简单的 Python 脚本，调用 OpenAI API 为 RSS 订阅源生成摘要，然后将新生成的 RSS 订阅源推送到 GitHub Pages 。配置简单快速，无需服务器。&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://github.com/codespell-project/codespell" rel="nofollow"&gt;codespell：检查代码是否存在常见拼写错误&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用于检查源代码中拼写错误的单词，支持多种运行方式，可指定忽略单词和文件，可用于 pre-commit 。（ star 1.5K ）&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://github.com/WisdomShell/codeshell" rel="nofollow"&gt;codeshell：多语言代码大模型基座&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;具有 70 亿参数，在五千亿 Tokens 进行了训练，上下文窗口长度为 8192 。在权威的代码评估 Benchmark 上，CodeShell 取得同等规模最好的性能。（ star 1.2K ）&lt;/p&gt;
+&lt;h2&gt;🐱赞助&amp;amp;支持&lt;/h2&gt;
+&lt;p&gt;如果你喜欢周刊，请分享给其他需要的同学，让更多人可以从中受益～&lt;/p&gt;
+&lt;p&gt;如果你觉得周刊有价值，请随意&lt;a href="https://img.pythoncat.top/wechat_code.png" rel="nofollow"&gt;赞赏&lt;/a&gt; 或 &lt;a href="https://www.buymeacoffee.com/pythoncat" rel="nofollow"&gt;买杯咖啡&lt;/a&gt; 进行支持！&lt;/p&gt;
+&lt;p&gt;如果你想帮助周刊办得更好，欢迎向我们投稿或提出建议：&lt;a href="https://github.com/chinesehuazhou/python-weekly/issues/new" rel="nofollow"&gt;投稿/建议通道&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果你是品牌方或广告主，欢迎私信我，洽谈赞助与合作事项。&lt;/p&gt;
+&lt;h2&gt;🐼欢迎订阅&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;文件&lt;/li&gt;
-&lt;li&gt;AWS S3&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 03 Nov 2023 20:17:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988488#reply0</guid></item><item><title>[问与答] 新员工拒绝交社保怎么办？</title><link>https://www.v2ex.com/t/988487#reply0</link><description>&lt;p&gt;公司新招的员工自称：他之前的公司因业务原因不再在本市经营，为了防止断缴（小孩上学需要），他自行找公司代缴了五险，一次交了两年的钱，目前还有一年多点。现在入职我司，无法移出社保关系。&lt;/p&gt;
-&lt;p&gt;我们现在如果想用这个员工，该怎么规避风险呢？&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 20:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988487#reply0</guid></item><item><title>[问与答] 想问一下 RDMA 和 CXL 的区别</title><link>https://www.v2ex.com/t/988486#reply0</link><description>我不是很理解。因为 RDMA CXL 都能扩展单节点的内存 就是有本地内存和远端内存之分。&lt;br /&gt;他们也各自能连接加速器和 NVMe SSD.&lt;br /&gt;&lt;br /&gt;我理解这俩是某种对抗的形态，RDMA 背后是 NVIDIA, CXL 之后主要是 intel. 我主要是问技术上的区别</description><pubDate>Fri, 03 Nov 2023 20:09:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988486#reply0</guid></item><item><title>[macOS] 现在有没有能自动接管 Safari 下载行为的下载器</title><link>https://www.v2ex.com/t/988485#reply0</link><description>&lt;p&gt;似乎从 macOS11 之后的新 Safari 就没见过有哪个下载器能自动结果下载，最多只能右键下载，是新 Safari 的限制吗？还是单纯的下载工具没有适配？&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 20:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988485#reply0</guid></item><item><title>[OpenWrt] 請好友編譯了 Op 固件 已測試 IPv6 代理不存在問題 分享出來供大家選用</title><link>https://www.v2ex.com/t/988484#reply0</link><description>事情是這樣子的，由於我是臺灣來的嘛，所以在大陸代理上網是剛需，但一直以來，在路由代理方面，IPv6 代理的問題一直未解決，直到最近請大陸這邊的好友幫忙編譯了一版沒有問題的固件才得以解決，因爲我個人已經測試過相應功能已經沒有任何問題了，且沒有在互聯網上尋找到其他沒有問題的固件，由此就發上來和大家分享吧。&lt;br /&gt;&lt;br /&gt;適用平臺：X86-64&lt;br /&gt;上游：Lede&lt;br /&gt;相應功能的組件爲：passwall+dns over https&lt;br /&gt;備註：若需要讓 passwall 全局代理 IPv6 流量，除了節點具備相應能力、在網頁介面中正確設定外，還需要將路由自身代理設定爲「無」才正常&lt;br /&gt;&lt;br /&gt;固件下載地址： &lt;a href="https://github.com/mdaylight/actions-openwrt-x86" rel="nofollow noopener" target="_blank"&gt;https://github.com/mdaylight/actions-openwrt-x86&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/9u82nqn.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9u82nqn.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 03 Nov 2023 19:42:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988484#reply0</guid></item><item><title>[Apple] Applecare+时长 8 年?!</title><link>https://www.v2ex.com/t/988483#reply3</link><description>前两天买了一个 16 inch M1 Pro ，带 applecare+，长达 8 年，有没有懂的朋友知道是怎么回事吗？&lt;br /&gt;&lt;a href="https://imgur.com/7xcBerF" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/7xcBerF&lt;/a&gt;</description><pubDate>Fri, 03 Nov 2023 19:40:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988483#reply3</guid></item><item><title>[程序员] Github 炸了</title><link>https://www.v2ex.com/t/988482#reply6</link><description>&lt;p&gt;所有界面随机 404 。&lt;/p&gt;
-&lt;p&gt;似乎不久前 cloudflare 刚炸，再往前有印象的是语雀。&lt;/p&gt;
-&lt;p&gt;大家的服务都不稳定的样子。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 19:14:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988482#reply6</guid></item><item><title>[分享发现] blackmatrix7 大佬的 ios_rule_script 仓库似乎也 404 了</title><link>https://www.v2ex.com/t/988481#reply3</link><description>&lt;p&gt;刷了几次都 404 ，是我姿势不对么。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 19:02:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988481#reply3</guid></item><item><title>[问与答] Android 有输入法或者什么设置让中文状态下输入字幕然后输入.或者 @标点不直接上屏吗？</title><link>https://www.v2ex.com/t/988479#reply0</link><description>iOS 现在用的微信输入法，在中文状态下，输入英文，比如 &lt;a href="http://wx.com" rel="nofollow noopener" target="_blank"&gt;wx.com&lt;/a&gt; ，直接输入 &lt;a href="http://wx.com" rel="nofollow noopener" target="_blank"&gt;wx.com&lt;/a&gt; ，最后回车一下上屏，比如邮箱 wx@v2ex.com ，最后回车一下上屏，中间不用注意 @和.&lt;br /&gt;&lt;br /&gt;Android 不是这个逻辑，同样的也是微信输入法，比如 &lt;a href="http://wx.com" rel="nofollow noopener" target="_blank"&gt;wx.com&lt;/a&gt; ，wx 是维修，&lt;a href="http://wx.com" rel="nofollow noopener" target="_blank"&gt;wx.com&lt;/a&gt; 在输入.以前必须回车下，不回车直接输入.上屏的就不是 wx.而是维修.，wx@v2ex.com 比 iOS 得多点两次回车。&lt;br /&gt;&lt;br /&gt;不仅仅是微信输入法，iOS 原生输入法也是这个逻辑，Android 上用过谷歌输入法也是 Android 的逻辑。&lt;br /&gt;&lt;br /&gt;iOS Android 双持，且两个平台都大量打字，网址邮箱经常输，来回切换经常要想，体验太割裂了。&lt;br /&gt;&lt;br /&gt;Android 上有没有什么设置能改变这个逻辑，或者有没有什么输入法能让两个平台输入逻辑一致，并且这个输入法的风格与 iOS 比较一致？&lt;br /&gt;&lt;br /&gt;我用微信输入法的原因就是他的风格与 iOS 比较一致，没想到的是在 iOS 和 Android 上输入逻辑不一致。</description><pubDate>Fri, 03 Nov 2023 18:00:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988479#reply0</guid></item><item><title>[Android] 如何屏蔽安卓软件的(类)原生系统检测</title><link>https://www.v2ex.com/t/988478#reply0</link><description>如果一个软件检测系统是不是(类)原生系统，他使用的是什么方法？如何去屏蔽这个检测？</description><pubDate>Fri, 03 Nov 2023 17:57:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988478#reply0</guid></item><item><title>[Android] 小米 14 系列现在不能解 bl 锁的问题</title><link>https://www.v2ex.com/t/988477#reply1</link><description>新出的小米 14 系列不能解 bl 锁 目前解锁显示系统升级维护中，不知道以后小米会不会限制解 bl 锁&lt;br /&gt;截止到 2023.11.04 小米其他的系列可以解 bl 锁</description><pubDate>Fri, 03 Nov 2023 17:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988477#reply1</guid></item><item><title>[程序员] 我们应当对自由软件作者说，你们的事业是正义的，正因如此，请更加注意保护自己。</title><link>https://www.v2ex.com/t/988474#reply4</link><description>&lt;p&gt;历史总是充满了意外，正义的事业践行者不一定会见到正义事业大行于世。&lt;/p&gt;
-&lt;p&gt;我们坚信自由软件的事业是正义的、我们坚信交流是自由的、我们坚信这是未来的方向。人类历史上从未出现过如此无私的、庞大的奉献&lt;/p&gt;
-&lt;p&gt;每次见到 linux 数不胜数的发行版时，都不由赞叹这个奇迹————一个真正由全人类无私努力集合而成的奇迹。无分性别、种族的人们建造了她，她也向无分性别、种族的人们播撒她的光辉，包括从未为她作出贡献乃至诋毁她的人。&lt;/p&gt;
-&lt;p&gt;所以，请更加注意保护自己，保存正义事业的力量。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 16:50:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988474#reply4</guid></item><item><title>[VPS] 为方便大家寻找选性价比高的 VPS，本人撸了一个网站。。</title><link>https://www.v2ex.com/t/988473#reply7</link><description>&lt;p&gt;里面汇集常论坛里常看到各大厂商的 VPS 信息，并为每个产品给出性价比评分，以表格的形式呈现&lt;/p&gt;
-&lt;p&gt;可以点按列标题排序，这样可以很方便地找到自己想要的 VPS 🌚 🌚&lt;/p&gt;
-&lt;p&gt;如果没有想看的商家，可以与我联系，我会尽快添加上去。&lt;/p&gt;
-&lt;p&gt;网站在这： &lt;a href="https://vpshub.org/zh/" rel="nofollow"&gt;https://vpshub.org/zh/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 16:48:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988473#reply7</guid></item><item><title>[MacBook Pro] M2 Pro 跟 M3 Pro 怎么选?</title><link>https://www.v2ex.com/t/988472#reply13</link><description>&lt;p&gt;打算换电脑了
-14 寸 32G+1TB&lt;/p&gt;
-&lt;p&gt;M2Pro 版本
-23 款 HE3 定制-M2Pro 10 核+16 显/32G/1TB 17299&lt;/p&gt;
-&lt;p&gt;M3Pro 版本
-24 款-------M3Pro 12 核+18 显/36G/1T 黑 19439&lt;/p&gt;
-&lt;p&gt;差了两千多，不太清楚到底值不值呢&lt;/p&gt;
-&lt;p&gt;另外打算在树睿科技购买，有 V 友在这家店买过吗？买过的 V 友来说说。。。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 16:20:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988472#reply13</guid></item><item><title>[职场话题] 今天去面试，被老板狠狠教育了一番</title><link>https://www.v2ex.com/t/988471#reply0</link><description>&lt;p&gt;另外，我很纳闷儿，为啥他一直怀疑我的学历，我真想打开学信网给他看。也可能自己确实太菜了吧，哈哈&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 16:07:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988471#reply0</guid></item><item><title>[NAS] 请教个两个群晖的数据共享问题</title><link>https://www.v2ex.com/t/988468#reply3</link><description>&lt;p&gt;家里有个白裙，但是是 ds215j 太老了, 基本是满足平常笔记，备份，同步需求.&lt;/p&gt;
-&lt;p&gt;现在想搞个小主机，装黑群晖，请问下这个黑裙能不能方便的访问这个白裙的文件系统。&lt;/p&gt;
-&lt;p&gt;比如黑裙的 ds photo 的 photo 目录设为白裙里面的目录，
-Emby 的库目录设在白裙的目录.
-这样做方便吗？&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 15:40:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988468#reply3</guid></item><item><title>[问与答] 求推荐一个安卓盒子，目前是芝杜盒子 Z9X，但存在问题</title><link>https://www.v2ex.com/t/988467#reply0</link><description>&lt;p&gt;先说说芝杜盒子自带播放器的特点，支持所有的 HDR 格式和杜比视界（目前用不上），几乎支持所有音频格式的直通输出（比如 dts-hd 和 truehd ）。
-主要装 emby 看电影，芝杜盒子 Z9X 播放 emby 的电影调用自带播放器不能识别电影名，导致字幕搜索不可用。然后调用 MX PLAYER 不能硬解播放，导致不能音频直通给回音壁。使用 emby 自带播放器感觉流畅度不如第三方。
-虽然芝杜有一个 emby for 芝杜版，只能调用自带播放器，能识别电影名称，但字幕服务器经常抽风，也没有原版 emby 的字幕下载选项。
-目前市面上有这么一个安卓盒子能解决这些痛点吗？求推荐，谢谢了。&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 15:33:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988467#reply0</guid></item><item><title>[分享发现] Bitwarden 实测支持保存 Passkeys 了</title><link>https://www.v2ex.com/t/988466#reply1</link><description>&lt;a href="https://www.v2ex.com/t/942474" rel="nofollow noopener" target="_blank"&gt;/t/942474&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;- Release Notes: &lt;a href="https://bitwarden.com/help/releasenotes/#2023-10-0" rel="nofollow noopener" target="_blank"&gt;https://bitwarden.com/help/releasenotes/#2023-10-0&lt;/a&gt;&lt;br /&gt;- The Verge: &lt;a href="https://www.theverge.com/2023/11/2/23943173/bitwarden-passkey-support-released-browser-extension" rel="nofollow noopener" target="_blank"&gt;https://www.theverge.com/2023/11/2/23943173/bitwarden-passkey-support-released-browser-extension&lt;/a&gt;</description><pubDate>Fri, 03 Nov 2023 15:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988466#reply1</guid></item><item><title>[Linux] 从现有 Linux 系统上安装 Gentoo [云环境无 VNC]</title><link>https://www.v2ex.com/t/988465#reply1</link><description>&lt;p&gt;基本思路和以前发过的&lt;a href="https://www.v2ex.com/t/687992" rel="nofollow"&gt;从现有 Linux 系统上安装 Archlinux[云环境无 VNC]&lt;/a&gt; 差不多，主要就是在现有系统上先挂载 stage3,然后将磁盘挂在载第一层 chroot 下的/mnt/gentoo ，然后通过删除原系统、安装新 stage3 的方式实现。&lt;/p&gt;
-&lt;p&gt;Install Gentoo ON Exsit Linux without VNC&lt;/p&gt;
-&lt;h2&gt;NO WARRANTY!!! BACKUP ALL YOUR DATA BEFORE OPERATING!&lt;/h2&gt;
-&lt;h3&gt;Operating the following In the Exsiting Linux Distribution&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;# Download and move the Gentoo stage3 tar package to /tmp (Exsiting Linux Distribution).
-root@ali:/tmp/stage3# cp /root/stage3-amd64-systemd-20231029T164701Z.tar.xz .
-
-# Unzip the Gentoo stage3 tar package.
-root@ali:/tmp/stage3# tar -xf stage3-amd64-systemd-20231029T164701Z.tar.xz 
-root@ali:/tmp/stage3# ls
-bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  stage3-amd64-systemd-20231029T164701Z.tar.xz  sys  tmp  usr  var
-root@ali:/tmp/stage3# rm stage3-amd64-systemd-20231029T164701Z.tar.xz 
-root@ali:/tmp/stage3# ls
-bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  sys  tmp  usr  var
-root@ali:/tmp/stage3# cd ..
-root@ali:/tmp# ls
-# Editing the make file (Actually it can be done later)
-root@ali:/tmp/stage3# vim etc/portage/make.conf 
-# Editing the repos file (Actually it can be done later)
-root@ali:/tmp/stage3# vim etc/portage/repos.conf/gentoo.conf
-root@ali:/tmp/stage3# cp /etc/resolv.conf etc/.
-
-# Mount Dynamic links for the system
-root@ali:/tmp/stage3# mount --types proc /proc /tmp/stage3/proc
-root@ali:/tmp/stage3# mount --rbind /sys /tmp/stage3/sys
-root@ali:/tmp/stage3# mount --make-rslave /tmp/stage3/sys
-root@ali:/tmp/stage3# mount --rbind /dev /tmp/stage3/dev
-root@ali:/tmp/stage3# mount --make-rslave /tmp/stage3/dev
-root@ali:/tmp/stage3# mount --bind /run /tmp/stage3/run
-root@ali:/tmp/stage3# mount --make-slave /tmp/stage3/run
-root@ali:/tmp/stage3# test -L /dev/shm &amp;amp;&amp;amp; rm /dev/shm &amp;amp;&amp;amp; mkdir /dev/shm
-root@ali:/tmp/stage3# mount --types tmpfs --options nosuid,nodev,noexec shm /dev/shm
-root@ali:/tmp/stage3# chmod 1777 /dev/shm /run/shm
-root@ali:/tmp/stage3# 
-
-
-# Now mount to the /tmp Gentoo system
-root@ali:/tmp# mount --bind /tmp/stage3/ /tmp/stage3/
-root@ali:/tmp# 
-root@ali:/tmp# vim /tmp/stage3/^C
-root@ali:/tmp# chroot /tmp/stage3/
-ali / # 
-# export for easily oberve
-ali / # export PS1='root@gentoo-chroot-1 #'
-root@gentoo-chroot-1 #
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;Operating the following In 1st chroot environment&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;ali / # export PS1='root@gentoo-chroot-1 # '
-root@gentoo-chroot-1 #env-update 
-!!! Section 'gentoo' in repos.conf has location attribute set to nonexistent directory: '/var/db/repos/gentoo'
-!!! Invalid Repository Location (not a dir): '/var/db/repos/gentoo'
-&amp;gt;&amp;gt;&amp;gt; Regenerating /etc/ld.so.cache...
-root@gentoo-chroot-1 # mkdir /var/db/repos/gento
-root@gentoo-chroot-1 #env-update 
-
-root@gentoo-chroot-1 # lsblk
-NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
-loop0    7:0    0  61.9M  1 loop 
-loop1    7:1    0  63.5M  1 loop 
-loop2    7:2    0 111.9M  1 loop 
-loop3    7:3    0  79.9M  1 loop 
-loop4    7:4    0  40.9M  1 loop 
-vda    252:0    0    40G  0 disk 
-├─vda1 252:1    0     1M  0 part 
-├─vda2 252:2    0   200M  0 part 
-└─vda3 252:3    0  39.8G  0 part 
-
-# Mount the hard disk according to your actual environment
-root@gentoo-chroot-1 # mount /dev/vda3 /mnt/gentoo
-mount: /mnt/gentoo: mount point does not exist.
-       dmesg(1) may have more information after failed mount system call.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;! Mount the disk to /mnt/gentoo&lt;/h3&gt;
-&lt;p&gt;Actually, From the step, you can follow the &lt;a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Base" rel="nofollow"&gt;Gentoo's Handbook&lt;/a&gt; to install the System !&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;root@gentoo-chroot-1 # mkdir /mnt/gentoo
-root@gentoo-chroot-1 # mount /dev/vda3 /mnt/gentoo
-
-root@gentoo-chroot-1 # mount /dev/vda2 /mnt/gentoo/boot/efi
-root@gentoo-chroot-1 # lsblk
-NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
-loop0    7:0    0  61.9M  1 loop 
-loop1    7:1    0  63.5M  1 loop 
-loop2    7:2    0 111.9M  1 loop 
-loop3    7:3    0  79.9M  1 loop 
-loop4    7:4    0  40.9M  1 loop 
-vda    252:0    0    40G  0 disk 
-├─vda1 252:1    0     1M  0 part 
-├─vda2 252:2    0   200M  0 part /mnt/gentoo/boot/efi
-└─vda3 252:3    0  39.8G  0 part /mnt/gentoo
-root@gentoo-chroot-1 #
-root@gentoo-chroot-1 # ls /mnt/gentoo/
-bin  boot  dev  etc  home  lib  lib32  lib64  libx32  lost+found  media  mnt  opt  proc  root  run  sbin  snap  srv  sys  tmp  usr  var
-root@gentoo-chroot-1 # 
-root@gentoo-chroot-1 # 
-bin  boot  dev  etc  home  lib  lib64  media  mnt  opt  proc  root  run  sbin  stage3-amd64-systemd-20231029T164701Z.tar.xz  sys  tmp  usr  var
-
-root@gentoo-chroot-1 # cd /mnt/gentoo/
-
-# Copy the stage file to /mnt/gentoo (will be the new system's root)
-
-root@gentoo-chroot-1 # cp root/stage3-amd64-systemd-20231029T164701Z.tar.xz  .
-root@gentoo-chroot-1 # pwd
-/mnt/gentoo
-root@gentoo-chroot-1 # ls
-bin   dev  home  lib32  libx32      media  opt   root  sbin  srv                                           sys  usr
-boot  etc  lib   lib64  lost+found  mnt    proc  run   snap  stage3-amd64-systemd-20231029T164701Z.tar.xz  tmp  var
-root@gentoo-chroot-1 # 
-
-root@gentoo-chroot-1 # pwd
-/mnt/gentoo
-root@gentoo-chroot-1 # 
-
-# Delete the existing linux distribution, NOT ALL DIRs.
-root@gentoo-chroot-1 # rm -rf bin home etc lib  lib64 opt root sbin srv usr var
-root@gentoo-chroot-1 # ls
-boot  dev  lib32  libx32  lost+found  media  mnt  proc  run  snap  stage3-amd64-systemd-20231029T164701Z.tar.xz  sys  tmp
-root@gentoo-chroot-1 # rm lib32 libx32
-root@gentoo-chroot-1 # ls
-boot  dev  lost+found  media  mnt  proc  run  snap  stage3-amd64-systemd-20231029T164701Z.tar.xz  sys  tmp
-
-# Unzip the stage3 as the new system NOW!
-root@gentoo-chroot-1 # tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
-
-root@gentoo-chroot-1 # ls
-bin  boot  dev  etc  home  lib  lib64  lost+found  media  mnt  opt  proc  root  run  sbin  snap  stage3-amd64-systemd-20231029T164701Z.tar.xz  sys  tmp  usr  var
-root@gentoo-chroot-1 # 
-
-# Copy the Configurations or Editing it as you like Now.
-root@gentoo-chroot-1 # cp /etc/portage/make.conf /mnt/gentoo/etc/portage/make.conf
-root@gentoo-chroot-1 # mkdir --parents /mnt/gentoo/etc/portage/repos.conf
-root@gentoo-chroot-1 # cp /etc/portage/repos.conf/gentoo.conf /mnt/gentoo/etc/portage/repos.conf/gentoo.conf
-root@gentoo-chroot-1 # cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
-
-root@gentoo-chroot-1 # cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
-root@gentoo-chroot-1 # mount --types proc /proc /mnt/gentoo/proc
-root@gentoo-chroot-1 # mount --rbind /sys /mnt/gentoo/sys
-root@gentoo-chroot-1 # mount --make-rslave /mnt/gentoo/sys
-root@gentoo-chroot-1 # mount --rbind /dev /mnt/gentoo/dev
-root@gentoo-chroot-1 # mount --make-rslave /mnt/gentoo/dev
-root@gentoo-chroot-1 # mount --bind /run /mnt/gentoo/run
-root@gentoo-chroot-1 # mount --make-slave /mnt/gentoo/run
-root@gentoo-chroot-1 # test -L /dev/shm &amp;amp;&amp;amp; rm /dev/shm &amp;amp;&amp;amp; mkdir /dev/shm
-root@gentoo-chroot-1 # mount --types tmpfs --options nosuid,nodev,noexec shm /dev/shm
-root@gentoo-chroot-1 # chmod 1777 /dev/shm /run/shm
-root@gentoo-chroot-1 # 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Now CAN chroot to the New Gentoo System  !&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;chroot /mnt/gentoo/ /bin/bash  
-source /etc/profile  
-ali / # eselect profile list
-
-ali / # emerge -auvDN --with-bdeps=y @world
-
- * IMPORTANT: 10 news items need reading for repository 'gentoo'.
- * Use eselect news read to view new items.
-
-Total: 16 packages (3 upgrades, 3 new, 10 reinstalls), Size of downloads: 31022 KiB
-
-Would you like to merge these packages? [Yes/No] Yes
-
-ali / # echo "Hongkong" &amp;gt;/etc/timezone
-ali / # emerge --config sys-libs/timezone-data
-
-
-Configuring pkg...
-
- * Found a regular file at /etc/localtime.
- * Some software may expect a symlink instead.
- * You may convert it to a symlink by removing the file and running:
- *   emerge --config sys-libs/timezone-data
- * Copying /usr/share/zoneinfo/Hongkong to /etc/localtime.
-
-ali / # echo "en_US.UTF-8 UTF-8 zh_CN.UTF-8 UTF-8" &amp;gt;&amp;gt; /etc/locale.gen
-ali / # locale-gen
- * Generating 3 locales (this might take a while) with 2 jobs
- *  (1/3) Generating en_US.UTF-8 ...                                                                                                                        [ ok ]
- *  (2/3) Generating zh_CN.UTF-8 ...                                                                                                                        [ ok ]
- *  (3/3) Generating UTF-8 ...                                                                                                                              [ ok ]
- * Generation complete
- * Adding locales to archive ...                                                                                                                            [ ok ]
-ali / # 
-ali / # eselect locale list
-Available targets for the LANG variable:
-  [1]   C
-  [2]   C.utf8
-  [3]   POSIX
-  [4]   en_US.utf8
-  [5]   zh_CN.utf8
-  [6]   C.UTF8 *
-  [ ]   (free form)
-ali / # es
-esac     eselect  
-ali / # eselect locale set 4
-Setting LANG to en_US.utf8 ...
-Run ". /etc/profile" to update the variable in your shell.
-ali / # 
-
-ali / # env-update &amp;amp;&amp;amp; source /etc/profile
-&amp;gt;&amp;gt;&amp;gt; Regenerating /etc/ld.so.cache...
-ali / # emerge --ask sys-kernel/gentoo-kernel-bin  
-ali / # emerge --depclean
-ali / # emerge --ask vim genfstab
-ali ~ # genfstab -U /  &amp;gt; /etc/fstab
-
-# Remember to edit the network setting!
-ali ~ # vim /etc/systemd/network/20-wired.network
-
-# Install the Grub for booting systems !
-ali ~ # emerge --ask --verbose sys-boot/grub
-ali ~ # grub-install --target=x86_64-efi --efi-directory=/boot/efi
-
-ali ~ # grub-install --target=x86_64-efi --efi-directory=/boot/efi
-Installing for x86_64-efi platform.
-Installation finished. No error reported.
-ali ~ # grub-mkconfig -o /boot/grub/grub.cf^C
-ali ~ # ls /boot/efi/
-EFI  NvVars
-ali ~ # grub-mkconfig -o /boot/grub/grub.cfg
-
-
-# Enable DHCP and sshd
-ali ~ # systemd-machine-id-setup
-ali ~ # systemctl enable systemd-networkd
-ali ~ # systemctl enable sshd
-
-
-ali ~/.ssh # reboot
-ali ~/.ssh # Connection closing...Socket close.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;After rebooting the system, expectedly can boot the the New Gentoo System!&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;Connection established.
-To escape to local shell, press 'Ctrl+Alt+]'.
-
-WARNING! The remote SSH server rejected X11 forwarding request.
-gentoo ~ # ip addr
-1: lo: &amp;lt;LOOPBACK,UP,LOWER_UP&amp;gt; mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
-    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
-    inet 127.0.0.1/8 scope host lo
-       valid_lft forever preferred_lft forever
-    inet6 ::1/128 scope host noprefixroute 
-       valid_lft forever preferred_lft forever
-2: ens5: &amp;lt;BROADCAST,MULTICAST,UP,LOWER_UP&amp;gt; mtu 1500 qdisc fq_codel state UP group default qlen 1000
-    link/ether 00:16:3e:01:b8:12 brd ff:ff:ff:ff:ff:ff
-    altname enp0s5
-
-gentoo ~ # emerge neofetch
-
-gentoo ~ # neofetch
-         -/oyddmdhs+:.                root@gentoo 
-     -odNMMMMMMMMNNmhy+-`             ----------- 
-   -yNMMMMMMMMMMMNNNmmdhy+-           OS: Gentoo Linux x86_64 
- `omMMMMMMMMMMMMNmdmmmmddhhy/`        Host: Alibaba Cloud ECS pc-i440fx-2.1 
- omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Kernel: 6.1.57-gentoo-dist 
-.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Uptime: 7 mins 
- oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   Packages: 324 (emerge) 
-  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell: bash 5.1.16 
-    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   Resolution: 1024x768 
-       /mMMMMMMNNNmmmdddhhhhhmMNhs:   Terminal: /dev/pts/1 
-    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    CPU: Intel Xeon Platinum (2) @ 2.500GHz 
-  `sNMMMMMMMMNNNmmmdddddmNMmhs/.      GPU: 00:02.0 Cirrus Logic GD 5446 
- /NMMMMMMMMNNNNmmmdddmNMNdso:`        Memory: 89MiB / 1865MiB 
-+MMMMMMMNNNNNmmmmdmNMNdso/-
-yMMNNNNNNNmmmmmNNMmhs+/-`                                     
-/hMMNNNNNNNNMNdhs++/-`                                        
-`/ohdmmddhys+++/:.`
-  `-//////:--.
-
-gentoo ~ # 
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Enjoying Gentoo!&lt;/h4&gt;
-&lt;p&gt;refer:&lt;/p&gt;
-&lt;p&gt;1.&lt;a href="https://vnf.cc/2023/11/install-gentoo-on-exsit-linux/" rel="nofollow"&gt;Install Gentoo ON Exsit Linux without VNC&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2.&lt;a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Base" rel="nofollow"&gt;Gentoo's Handbook&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;3.&lt;a href="https://vnf.cc/2020/07/install-archlinux-from-linux/" rel="nofollow"&gt; 从现有 Linux 系统上安装 Archlinux&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;4.&lt;a href="https://gtrush.com/2022/06/12/%E6%96%B0%E6%89%8BGentoo%E6%8A%98%E8%85%BE%E8%AE%B0%E5%BD%951-%E5%AE%89%E8%A3%85%E7%AF%87-%E4%BA%8C%E8%BF%9B%E5%88%B6kernel%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95/" rel="nofollow"&gt;Quick Gentoo Setup&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 03 Nov 2023 15:28:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988465#reply1</guid></item></channel></rss>
+&lt;li&gt;&lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;微信公众号&lt;/a&gt;：除更新周刊外，还发布其它原创作品，并转载一些优质文章。（可加好友，可加读者交流群）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.top" rel="nofollow"&gt;博客&lt;/a&gt; 及 &lt;a href="https://pythoncat.top/rss.xml" rel="nofollow"&gt;RSS&lt;/a&gt;：我的独立博客，上面有历年原创/翻译的技术文章，以及从 2009 年以来的一些随笔。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;Github&lt;/a&gt;：你可以获取本周刊的 Markdown 源文件，做任何想做的事！&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;邮件&lt;/a&gt;：在 Substack 上开通的频道，满足你通过邮件阅读时事通讯的诉求。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;Telegram&lt;/a&gt;：除了发布周刊的通知外，我将它视为一个“副刊”，补充发布更加丰富的资讯。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/chinesehuazhou" rel="nofollow"&gt;Twitter&lt;/a&gt;：我的关注列表里有大量 Python 相关的开发者与组织的账号。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 04 Nov 2023 12:35:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988651#reply0</guid></item><item><title>[Microsoft Office] 微软明知道我用的是盗版 Office 365，还给我推送 OfficePLUS</title><link>https://www.v2ex.com/t/988649#reply0</link><description>&lt;p&gt;启动 Office 时出现这个弹窗。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-f7a0cf51dca4e398599f2c3c57ee0ef4_1440w.png" /&gt;&lt;/p&gt;
+&lt;p&gt;进入 offce 后&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-cf54121ac0a3a93fb605463ac1b10841_1440w.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 12:31:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988649#reply0</guid></item><item><title>[程序员] CSDN 的图床泄露了？</title><link>https://www.v2ex.com/t/988648#reply0</link><description>&lt;p&gt;&lt;a href="https://www.ikunpan.com/upload" rel="nofollow"&gt;https://www.ikunpan.com/upload&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 12:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988648#reply0</guid></item><item><title>[YouTube] youtube premium 求上车，美区账号</title><link>https://www.v2ex.com/t/988646#reply0</link><description></description><pubDate>Sat, 04 Nov 2023 12:12:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988646#reply0</guid></item><item><title>[分享发现] Clash Mac 端也删库跑路了...</title><link>https://www.v2ex.com/t/988645#reply1</link><description></description><pubDate>Sat, 04 Nov 2023 12:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988645#reply1</guid></item><item><title>[问与答] 新手求推荐跑鞋？</title><link>https://www.v2ex.com/t/988644#reply2</link><description>&lt;p&gt;出于身体健康的考虑，最近开始跑步了。先前略微研究过，我是正常足型、轻微足内翻，体重 130 ，想买一双适合新手养生跑步的鞋子，价格 500 以内吧。&lt;/p&gt;
+&lt;p&gt;题外话：其实我不是一个对跑步十分热爱的人，所以我必须在跑步期间做一些别的事情，分散我的注意力。前阵子在一边听歌一边思考父母房子的装修方案，不知不觉就跑完了。&lt;/p&gt;
+&lt;p&gt;好奇有没有跟我一样的 V 友，能不能推荐一些跑步时候能做的事情，比如有趣的播客平台、有趣的歌单（有内容的音频）。&lt;/p&gt;
+&lt;p&gt;谢谢各位。&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 12:06:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988644#reply2</guid></item><item><title>[求职] [iOS/Android/Flutter]求一份全职远程工作</title><link>https://www.v2ex.com/t/988643#reply0</link><description>技术栈如标题，做过 NodeJS ，Qt 等</description><pubDate>Sat, 04 Nov 2023 12:04:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988643#reply0</guid></item><item><title>[问与答] WebCatalog 好用吗，安全吗</title><link>https://www.v2ex.com/t/988642#reply0</link><description></description><pubDate>Sat, 04 Nov 2023 12:03:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988642#reply0</guid></item><item><title>[路由器] 小米路由器无法重用范围内的端口转发吗？</title><link>https://www.v2ex.com/t/988641#reply0</link><description>&lt;p&gt;从 R6400 换成 ax3000t&lt;/p&gt;
+&lt;p&gt;NAS 设置端口转发范围是：30000~31003 ，树莓派也需要开放相同端口。
+但是设置成 29999~31004 提示：端口号有冲突,请检查后重新设置。  &lt;/p&gt;
+&lt;p&gt;梅林固件是可以这样设置的，求解&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:54:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988641#reply0</guid></item><item><title>[Surge] Surge iOS 5 新车 3 缺 1</title><link>https://www.v2ex.com/t/988637#reply0</link><description>&lt;ol&gt;
+&lt;li&gt;新车 2023/11/03 昨天刚买的，现已有 2 位，还有一个位&lt;/li&gt;
+&lt;li&gt;￥ 130/位，中途跳车不退&lt;/li&gt;
+&lt;li&gt;TG: &lt;a href="https://t.me/+TaO6CoMACe43NDI1" rel="nofollow"&gt;https://t.me/+TaO6CoMACe43NDI1&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;进 TG 群，可以建长期各种拼车的稳定小伙伴&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:43:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988637#reply0</guid></item><item><title>[问与答] 请教: typora 插入图片后，怎么让光标自动移动到下一行</title><link>https://www.v2ex.com/t/988636#reply1</link><description>&lt;p&gt;&lt;img alt="image-20231104193657969" class="embedded_image" rel="noreferrer" src="https://pingfan.s3.amazonaws.com/pic4/b3c3f.png" /&gt;&lt;/p&gt;
+&lt;p&gt;如上图，每次都需要移动光标才能进行下一行的编辑&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:37:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988636#reply1</guid></item><item><title>[Google] Google voice 买断推荐～</title><link>https://www.v2ex.com/t/988634#reply1</link><description>&lt;p&gt;求推荐，找了好多地方感觉都不靠谱，某宝的感觉也不太靠谱。然后搜索一堆网站 不知道真假。。。&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:31:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988634#reply1</guid></item><item><title>[OpenAI] Alpha 权限， opneai 这波是什么营销策略？为什么不优先给 plus 用户派发？</title><link>https://www.v2ex.com/t/988633#reply2</link><description>&lt;p&gt;虽然有几个号中了，但我 plus 号没有~~~&lt;/p&gt;
+&lt;p&gt;有无懂行的解释解释，全号随机派发是为了吸引普通用户消费吗？&lt;/p&gt;
+&lt;p&gt;PS：出货率根据非酋程度从 20:1 到 100:1 ，这波贩子们又赚翻了&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:28:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988633#reply2</guid></item><item><title>[程序员] 要开始养生了</title><link>https://www.v2ex.com/t/988632#reply0</link><description>&lt;p&gt;最近体检血压 150+，要开始养生了&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:13:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988632#reply0</guid></item><item><title>[Twitter] 有什么办法可以屏蔽 x 上面的黄推么？</title><link>https://www.v2ex.com/t/988631#reply6</link><description>&lt;p&gt;实在受不了了，一直以来关注的都是正经的商业，财经和科技类 ID ，&lt;/p&gt;
+&lt;p&gt;最近一段时间在评论区老是出现一些黄推，各种擦边球，有的视频甚至直接就是 av ，&lt;/p&gt;
+&lt;p&gt;严重影响阅读体验，&lt;/p&gt;
+&lt;p&gt;而且现在在公共场合都不敢打开 x 了，哎，&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 11:03:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988631#reply6</guid></item><item><title>[分享发现] 出差来深圳，体验了一把南北方的饭量差异</title><link>https://www.v2ex.com/t/988629#reply0</link><description>刚落地到酒店，累了，打算定个外卖。&lt;br /&gt;打开订餐软件，在 小、中、大分量之间毫不犹豫的选择了大份。&lt;br /&gt;现在送到了，拿到手的下一秒，脑海里闪现一个正确的想法，赶紧再加订一份，不够吃啊。。。</description><pubDate>Sat, 04 Nov 2023 10:57:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988629#reply0</guid></item><item><title>[问与答] 实时同步海量小文件（游戏存档）有什么好用的网盘推荐吗？</title><link>https://www.v2ex.com/t/988628#reply6</link><description>&lt;p&gt;存的是游戏存档，存档内海量小文件，全都是几 kb 的&lt;/p&gt;
+&lt;p&gt;发现 onedrive 同步的时候一秒最多同步 10 多个，虽然同步大文件很快，但是 7-8 千个小文件要等好久&lt;/p&gt;</description><pubDate>Sat, 04 Nov 2023 10:47:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988628#reply6</guid></item><item><title>[问与答] win10 无法自动关闭屏幕怎么解</title><link>https://www.v2ex.com/t/988627#reply0</link><description>按照网上的方法&lt;br /&gt;1. 电源选项里面锁屏时间、锁屏后自动关闭屏幕都已经打开了&lt;br /&gt;2. power shell 通过` powercfg -requests`查询，都是无，也没有影响关闭屏幕的程序&lt;br /&gt;&lt;br /&gt;还有什么可能？</description><pubDate>Sat, 04 Nov 2023 10:43:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988627#reply0</guid></item><item><title>[广州] 广州租房求推荐</title><link>https://www.v2ex.com/t/988626#reply2</link><description>北京待了 10 年结束北漂了，即将到达广州开始新的打工生活。工作还没有确定想先玩几个月，所以住的偏点无所谓，更偏向居住体验，距离主流程序员集散地 1 个半小时地铁或 1 个小时开车路程的距离都能接受。2000 以内小区小户型整租的预算，有大佬推荐个地方么？(或者大概推荐个区就行)</description><pubDate>Sat, 04 Nov 2023 10:35:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/988626#reply2</guid></item></channel></rss>
