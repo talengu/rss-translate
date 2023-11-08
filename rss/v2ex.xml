@@ -1,137 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 07 Nov 2023 23:32:20 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 不懂就问，圈 X 使用 MitM 安装证书是不是也是和裸连一样</title><link>https://www.v2ex.com/t/989713#reply0</link><description>昨天看到机场免登使用奈飞的帖子说安装证书等于裸连，今天想到圈 X 也要安装证书，那是不是也不安全呢</description><pubDate>Tue, 07 Nov 2023 23:24:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989713#reply0</guid></item><item><title>[Android] ios 换安卓有点需求，求解决</title><link>https://www.v2ex.com/t/989712#reply0</link><description>一个是 bitwarden ，苹果上出现的时机基本正确，荣耀上该出不出；这个是和浏览器，输入法有关系么？&lt;br /&gt;&lt;br /&gt;论坛助手，苹果上用的很舒服，用户也多，不担心隐私问题，安卓上没找到，有替代品么？</description><pubDate>Tue, 07 Nov 2023 23:11:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989712#reply0</guid></item><item><title>[macOS] safari 浏览器自动填充来自邮件验证码一直用不了</title><link>https://www.v2ex.com/t/989711#reply0</link><description>&lt;p&gt;自动填充短信验证码用了好久了，自动填充来自邮件的验证码一直不生效，是我什么地方弄错了吗？&lt;/p&gt;
-&lt;p&gt;补充： &lt;a href="https://www.apple.com.cn/ios/ios-17/pdf/iOS_All_New_Features.pdf" rel="nofollow"&gt;https://www.apple.com.cn/ios/ios-17/pdf/iOS_All_New_Features.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;难道是只支持 iOS 不支持 macOS ？ 太可惜了&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 22:54:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989711#reply0</guid></item><item><title>[信息安全] 有没有什么安全软件可以管控文件的读取的</title><link>https://www.v2ex.com/t/989710#reply2</link><description>服务器的私钥、软件的证书平时一直放在桌面上的文件夹里，担心被扫盘的软件扫走&lt;br /&gt;已知的有卡巴斯基，可以在有软件读取特定文件的时候询问用户是否放行&lt;br /&gt;火绒似乎也可以&lt;br /&gt;&lt;br /&gt;除以上两个还有没有其他安全软件有类似功能呢</description><pubDate>Tue, 07 Nov 2023 22:14:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989710#reply2</guid></item><item><title>[iPad] iPad Pro 啥时候发新款</title><link>https://www.v2ex.com/t/989709#reply5</link><description>现在用的 iPad Pro 2020 ，A12z 确实不行了，开了台前调度之后感觉卡卡的。更别提苹果阉割了 A12x/z 的台前调度了，侧边最多只能放 4 个窗口，还不支持外接显示屏大屏模式，体验确实差劲。&lt;br /&gt;原本是想拿这台 iPad 配合妙控键盘壳替代我 Intel 芯片的 MacBook Pro 的，（毕竟 16 寸的 mbp 太贵了现在大环境不好没钱换了），结果这个表现真的是替代不了。考虑 iPad Pro 残值高，想把这台卖掉再加点钱买个新的。纠结是买黑五打折的 M2 iPad Pro 还是等新款。&lt;br /&gt;求大佬指点。</description><pubDate>Tue, 07 Nov 2023 20:16:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989709#reply5</guid></item><item><title>[Bitcoin] BTC 现货 ETF 获得批准上市意味着什么？</title><link>https://www.v2ex.com/t/989707#reply1</link><description></description><pubDate>Tue, 07 Nov 2023 18:54:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989707#reply1</guid></item><item><title>[宽带症候群] speedtest 的测速排名哪里去了？</title><link>https://www.v2ex.com/t/989706#reply0</link><description>记得以前都有一张图片，说明你的网速在所在国的百分比，现在怎么只有测速了？？？</description><pubDate>Tue, 07 Nov 2023 18:34:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989706#reply0</guid></item><item><title>[优惠信息] Proton Mail 黑五折扣来了，六七折（33% off）</title><link>https://www.v2ex.com/t/989705#reply3</link><description>&lt;p&gt;&lt;a href="https://proton.me/mail/black-friday" rel="nofollow"&gt;https://proton.me/mail/black-friday&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mail Plus $39.96/y, Proton Unlimited $104.28/y 。&lt;/p&gt;
-&lt;p&gt;好像贵了，看去年的的帖子是六折？有 v 友在用吗，分享下该买哪个套餐？&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 18:05:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989705#reply3</guid></item><item><title>[随想] 一个人在海底捞过生日是怎么样的体验？</title><link>https://www.v2ex.com/t/989704#reply6</link><description>&lt;p&gt;11 月的南京，梧桐落叶是浪漫的，此时的微风并没秋意萧瑟，显得温柔惬意，漫无目的、随意走在梧桐大道，十分安逸。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/40fa6a46c36f4c9b82d03f2797daf3d4%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1280&amp;amp;h=2279&amp;amp;s=340652&amp;amp;e=jpg&amp;amp;b=31170a" /&gt;&lt;/p&gt;
-&lt;p&gt;时间线拨到一人流浪到南京的第二天，上午还在中山陵景区的梧桐大道散步，谁知道下午就被突袭的冷雨淋得满身湿透，遂即回酒店休整洗澡换衣服。&lt;/p&gt;
-&lt;p&gt;所以为什么要一个人去海底捞过生日呢？&lt;/p&gt;
-&lt;p&gt;回酒店后感觉寒意入体，就想着去吃火锅，那就决定吃海底捞吧。至于过生日，完全是因为生日期间在海底捞可以满 200 减 30 ！然后故事就发生了&lt;/p&gt;
-&lt;p&gt;在此我完全没计划要给自己做一个怎么样的生日，加之从小极少过生日，所以对庆祝生日这件事情一直都不感冒，以至于在这次体验中，留下深刻影响。&lt;/p&gt;
-&lt;p&gt;我选择了离酒店最近的新街口海底捞，并出门前提前拍号。可能是生日的原因，今天有点运气在身上（除了被雨淋湿全身以外），刚到海底捞门店，也刚好排到我的号，直接可以直奔餐桌！因为排号，我在路上还在想，如果还没到我，我就提前暴露出今天生日，让工作人员提前安排，享受一把生日的待遇哈哈，结果还是直接进去了。&lt;/p&gt;
-&lt;p&gt;由于我是一个人来，我坐下后，服务员马上给我安排了一个小朋友陪我一起吃饭，除了脑袋大一点，不会吃以外，这位小朋友是很不错的，这也是我第一次一个人去海底捞吃火锅。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/682593de266345a0a5e30565ebd255a1%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1706&amp;amp;h=1278&amp;amp;s=282816&amp;amp;e=jpg&amp;amp;b=c0b8a9" /&gt;
-本着省钱的目的，并且利用我的生日权益，我就跟服务员询问：“今天过生日的话，会有什么优惠吗？”，小哥哥一脸惊喜地说：“当然，可以送你小礼品，还会为你准备长寿面”。所以我的目的达到了，这下主食和零食都有了，我满意地点了点头。&lt;/p&gt;
-&lt;p&gt;谁知服务员又接着说，“我们给你唱一首生日歌庆祝一下吧，一个人也需要有仪式感”。我当然连忙回绝，就算朋友来吃饭，我估计也不敢想在海底捞过生日被祝福，更何况现在就我自己一个人，无法想象一个人被一群海底捞社牛服务员围着唱歌，加上别人在围观的场面，那我就直接社死了吧哈哈哈。&lt;/p&gt;
-&lt;p&gt;正当我吃到一半时候，我相邻两桌轮着过生日，对的，合着大家都奔着来海底捞过生日的。我听了一遍遍邻座的生日歌“给所有的烦恼说嗨嗨！”，甚至还拉起横幅！邻座都是年轻的小姐姐们，这种氛围好欢快，形成反差的是我对面的不会说话的朋友，让我不得不羡慕。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f6e1d08c648458a850f50e6f83eddf1%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1706&amp;amp;h=1278&amp;amp;s=307068&amp;amp;e=jpg&amp;amp;b=886c48" /&gt;&lt;/p&gt;
-&lt;p&gt;服务员也观察到我一直看她们唱生日歌了，可能看我可怜，然后又来怂恿我，说要给无论如何给我唱歌庆祝，经不住服务员的热情，我动摇了。为什么不呢？我一个人也可以开心过生日，我也可以把这天当作一个特殊的日子，我也可以想她们一样，找一个借口让自己欢快一下，为什么不体验别人过的生活呢？然后我欣然同意了。&lt;/p&gt;
-&lt;p&gt;服务员征得我同意然后离开准备，这期间我竟然有点激动，有点期待，连在涮肉时拿筷子的时候都有点发抖，有点不敢想象，一会我可能被围着唱歌成为焦点？那我需要做什么？表现淡定还是开心？说实话，长这么大，在我记忆中我正式过的生日只有三次，一次是前女友、一次前前女友，还有一次就是大学期间，为什么记记得这么清楚？因为这三块蛋糕的形状我还记得。虽然早已对过生日不报期待了，但不知道为何紧张起来了？我只需想体验一下而已。&lt;/p&gt;
-&lt;p&gt;正当我吃的差不多结束后，服务员悄咪咪从后面走来，端着了一碗长寿面，一个熊猫蛋糕。小蛋糕是我事先不知道的，还给我点上了蜡烛，那可是今年的第一个生日蛋糕！这样突如其来的小惊喜，导致多巴胺一下子被促进分泌，差点让我成熟稳重的我不知所措，脸瞬间感到发烫，鼻子又点酸酸，但还是被我一寒口气把情绪都给咽回去了。就在生日歌刚开始的时候，相邻的两桌小姐姐也注意到一个人的我，因此此一起加入庆祝行列，大家一起对我唱着歌，一起跟着拍子鼓掌，这个着实又让我感动到了。由于过于激动，我现在忘了在吹蜡烛的环节，我许了什么愿望。那就一律按照早日暴富的愿望处理吧！！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f4463ca03f92467eb7586e66aae0b595%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1170&amp;amp;h=655&amp;amp;s=428419&amp;amp;e=jpg&amp;amp;b=835d44" /&gt;
-生日歌唱完后，又有一个邻座的小姐姐赠送了一块她们的蛋糕。是呀，一群人过生日原来是这样的，感谢当时在场的所有人，让我体验到了，那种紧张激动，让在场的我忘却社恐、忽略了尴尬，更多的是不知所措的感动，强忍落下的热泪，正当自己处于祝福中心，我也可以值得去享受来自大家的歌声祝福、接受陌生人的善意 并享受其中。勇敢享受生活，热爱自己，大概就是这样吧！这就是我一个人在海底捞过生日的最大体验。
-&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bcacdc555f54491eae6dfc440228643c%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1706&amp;amp;h=1278&amp;amp;s=322707&amp;amp;e=jpg&amp;amp;b=cbc3b6" /&gt;
-PS：左边是小姐姐送的蛋糕，右边是海底捞准备的蛋糕&lt;/p&gt;
-&lt;p&gt;直到喧闹过后，走出海底捞，回归安静自在的我。我没有做什么，没有给家里人打电话，微信里面也没有关于收到生日快乐的祝福，也并没有感觉到失望或者不开心。但与往年不同的是，我跟自己说了一句：祝自己生日快乐。&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 17:43:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989704#reply6</guid></item><item><title>[问与答] 想问问，电商必须捆绑直播带货吗？</title><link>https://www.v2ex.com/t/989702#reply4</link><description>小老弟电商开了接近 3 月，现在双十一颇有成色，一周流水差不多 4w ，一人经营，利润差不多接近 2W ，但是最近流量远没有刚开始的第一周强，逐渐弱势，同行都是找了好几个主播帮忙带，流量吃饱，同行给的佣金是 15-30%，而我最多给到主播 10%（心理舒适区是 2-7%），客服接待和发货都是我一人，最忙的时候也不会忙不过来&lt;br /&gt;&lt;br /&gt;各大平台都是卯足劲，打着大喇叭让人跟带货主播合作，各种直播返消券、推广券，之前都是熟视无睹，现在觉得平台在倾销流量给这些，有点可惜没有上车（ FOMO ）&lt;br /&gt;&lt;br /&gt;本店还算可以，品类排行老二，好多主播来问合作，但因涨不了佣金，没有跟我合作的意向，本店热销的品，利润大概是十块钱赚差不多 4-5 块钱，也就是 40-50%的利润&lt;br /&gt;&lt;br /&gt;该向平台妥协吗？</description><pubDate>Tue, 07 Nov 2023 17:23:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989702#reply4</guid></item><item><title>[Linux] 赛博洁癖怎么治?</title><link>https://www.v2ex.com/t/989701#reply4</link><description>&lt;p&gt;从桌面发行版切到了无桌面的, 软件包从原来的一千多变成了两百不到, 但是装点软件之后又多了起来...&lt;/p&gt;
-&lt;p&gt;也许我需要一个清晰的软件关系管理器?&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 17:02:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989701#reply4</guid></item><item><title>[问与答] 怎样摆脱/排解/优化/改善这种揪心的感觉？</title><link>https://www.v2ex.com/t/989699#reply0</link><description>我的宝宝刚刚满月了，一直不敢说，不敢在网上发帖&lt;br /&gt;因为老人说满月之前不要乱张扬，怕招风什么的&lt;br /&gt;我不是迷信的人，但在这个事情上面选择了相信老人&lt;br /&gt;&lt;br /&gt;夜深梦醒的时候，想到我也有一个最重要的人了&lt;br /&gt;却是会潸然泪下&lt;br /&gt;&lt;br /&gt;感觉宝宝变成了我心房的一部分&lt;br /&gt;她哭泣，伤心我就难受，手足无措&lt;br /&gt;但是这只是最轻微的&lt;br /&gt;&lt;br /&gt;让我最难受的是，这个世界风险太大了&lt;br /&gt;人孤零零像汪洋中的扁舟一样&lt;br /&gt;随时可能被巨浪吞没&lt;br /&gt;如果哪一天，我的宝宝也不幸被巨浪吞没了&lt;br /&gt;我感觉自己的心也会被夺走，被撕碎，没有活着的意义了&lt;br /&gt;&lt;br /&gt;结婚前孤身一人，天涯海北乱闯从来没怕过什么&lt;br /&gt;现在却是如履薄冰&lt;br /&gt;&lt;br /&gt;有前辈指点一下，应该怎么排解这种情绪吗？</description><pubDate>Tue, 07 Nov 2023 16:30:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989699#reply0</guid></item><item><title>[Windows] 很好奇，为何一部分人非要使用 CPU 是基于 ARM 架构的 Windows 10 或 11？</title><link>https://www.v2ex.com/t/989698#reply15</link><description>很好奇，为何一部分人非要使用 CPU 是基于 ARM 架构的 Windows 10 或 11 ？&lt;br /&gt;&lt;br /&gt;这些使用的人，难道不知道，你使用基于 ARM 架构的 Windows 10 或 11 ，但是现在基于 ARM 架构的第三方设备的 Windows 驱动的支持性不好，或根本就没有支持马？使用基于 x86 或 x64 架构的 Windows 10 或 11 不香？</description><pubDate>Tue, 07 Nov 2023 16:27:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989698#reply15</guid></item><item><title>[Apple] MacBook Pro 14-inch M3 Max (14C) 简单体验</title><link>https://www.v2ex.com/t/989696#reply4</link><description>&lt;p&gt;无图（因为懒&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;配置：官网默认，即 M3 Max 14C+30G / 36GB RAM / 1TB SSD ，开发用途。之前使用 M1 Max / 64GB / 2TB 的配置，感觉 CPU 多核性能略不足而内存、存储过剩，这次看到 M3 Max 提升尚可，故入&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;外观：深空黑并不是真正的 Black ，叫 Dark metal gray 可能更合适，比目前的所有配色都更有金属光泽，且非常不沾指纹（手头另一台开会用的午夜色 MBA M2 已经放弃治疗）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;屏幕：600nit 亮度目前还没有真实感受到区别，唯一愿望就是赶紧把刘海给干掉（&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CPU 、功耗表现：CineBench R23 连跑 5 次，多核分数在 20000 上下波动，大约是满血 M1 Max 的 160%+，非常满意。高负载期间&lt;code&gt;powermetrics&lt;/code&gt;录得 CPU 峰值功耗 46W 。TG Pro 录得风扇转速约 4000RPM ，比 M1 Max 略吵。温度方面，目前 TG Pro 也读不到正确的传感器数据，等更新&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;低配 M3 Max 内存带宽是 300 GB/s 而不是满血的 400 GB/s ，讲道理只有 GPU-intensive 的工作能用处差别来吧&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GPU：暂时没有动用，只要能带 Ultrafine 5K 轻轻松松就可以了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SSD：Blackmagic 测出写速 6.3 GB/s ，读速 4.9 GB/s ，都比之前的 2TB 慢一点，反正感受不到区别&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;嘛，就这样&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 16:18:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989696#reply4</guid></item><item><title>[前端开发] 一个关于 Ant Design 复杂表单设计的问题</title><link>https://www.v2ex.com/t/989695#reply1</link><description>&lt;p&gt;简单来说，现在的困惑是，我是通过 onValuesChange 方式获取表单数据的，其一是不知道表单校验该怎么做，其二是因为存在通过 setFieldValue 自动填入的联动数据，所以会存在不触发 onValuesChange 导致漏掉数据的情况。&lt;/p&gt;
-&lt;p&gt;具体的情况是这样。&lt;/p&gt;
-&lt;p&gt;项目里有这么一个页面，存在两级的 Tab 页，其中第一级的 Tab 数量在进入页面时固定，第二级由用户控制添加，然后每个 Tab 页下是一个独立的表单页。最后用户输入完成过后，提交一整个 JSON 到接口。最后的 JSON 大概长这样：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "name": "xxx",
-  "tab1": [
-    {
-      "foo": 111,
-      "bar": 222
-    },
-    {
-      "foo": 111,
-      "bar": 222
-    }
-  ],
-  "tab2": [
-    {
-      "fff": 333,
-      "vvv": 444
-    },
-    {
-      "fff": 555,
-      "vvv": 666
-    }
-  ]
-}
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 08 Nov 2023 02:14:04 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iCloud] iCloud mail 泄漏了，怎么注销 icloudMail 而不注销 appleId</title><link>https://www.v2ex.com/t/989768#reply0</link><description>&lt;p&gt;如题，&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 02:11:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989768#reply0</guid></item><item><title>[职场话题] 采访：从上海到东京，历时半年的海外求职记</title><link>https://www.v2ex.com/t/989766#reply0</link><description>&lt;p&gt;这次我们采访了一位五年工作经验的软件工程师，他分享了自己过去半年时间海外求职的经历，包括如何投递简历，准备面试以及求职过程的经验分享。&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“你是什么时候开始准备海外求职的？当初如何选择合适自己工作的国家或地区？”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在今年春季的时候，我开始搜集相关资料以及准备简历。同时我也在考托福，计划如果找不到合适的海外工作就出国留学，算是留一条后路。我记得第一封简历投出去的时候是在四月底，那时候我就完全进入状态了。选择前往工作的国家的话，我比较看重工作压力。众所周知，国内的工作压力是相当大的。虽然我上一家公司没有加班，但开会、写报告和周报等事务性工作都很耗精力。写代码本身并不痛苦，痛苦的是写代码之外的那些东西。因此我在寻找新的工作机会时，我的首要条件是找到一个工作压力较小的环境。我考虑过的地区包括西班牙和北欧国家，比如芬兰和瑞典，因为它们以 Work–life Balance 闻名。在亚洲方面，尽管我一开始有考虑新加坡，但从朋友那里了解到工作压力同样很大，所以我只向几家公司投递了简历。最终，我决定将目光转向了日本，希望那里能找到一个更适合我的工作环境。&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://osjobs.net/interview/posts/%E4%BB%8E%E4%B8%8A%E6%B5%B7%E5%88%B0%E4%B8%9C%E4%BA%AC%E5%8E%86%E6%97%B6%E5%8D%8A%E5%B9%B4%E7%9A%84%E6%B5%B7%E5%A4%96%E6%B1%82%E8%81%8C%E4%B9%8B%E6%97%85/" rel="nofollow"&gt;全文：从上海到东京，历时半年的海外求职记&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 02:06:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989766#reply0</guid></item><item><title>[分享发现] 来搞一波友链？</title><link>https://www.v2ex.com/t/989765#reply0</link><description>&lt;h3&gt;征友要求：&lt;/h3&gt;
+&lt;p&gt;1 、网站界面清爽美观
+2 、英文主题
+3 、最好是技术或者科技相关内容&lt;/p&gt;
+&lt;h3&gt;留言格式：&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;[站点名字](站点链接)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我的做法是在最外层定义了一个 Context ，同时每一种 Tab 各自准备了一个 From 组件。然后绑定 From 的 onValuesChange 事件，一旦触发就用 values 的值更新 Context 。如果用户切换 Tab 的话还是原来的组件，但是从 Context 取值然后再用 setFieldsValue 给 From 赋值，这样用户看上去就是切换页面了。本身页面还涉及到多处跨 Tab 的联动（比如在 tab2 下面修改了第一个子 tab 的 fff 字段的值，tab1 下面的 foo 字段会相应变动），差不多用这种方式也能解决数据联动的问题。&lt;/p&gt;
-&lt;p&gt;大部分逻辑算是走通了，但是还是遇到了两个问题。使用 onValuesChange 相当于脱离了 From 的控制，导致正常表单的数据校验没法触发。因为页面上不存在一个单页面提交按钮，所以也不知道什么时机来用代码触发校验；二是同页面联动数据的值是通过 setFieldValue 来做的，但是没想到的是 setFieldValue 不会触发 onValuesChange 事件，导致我不能把更新的值更新到 Context 上，除非用户再正常触发一次 onValuesChange ，但这样做显然不可能。&lt;/p&gt;
-&lt;p&gt;很头痛，是不是最初的设计就哪里有点问题？感觉有些不知所措了&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 16:05:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989695#reply1</guid></item><item><title>[程序员] 各位 Arch Linux 大佬进来下，这个 git clone aur 仓库怎么加速，好慢啊，而且国内机器好容易报错</title><link>https://www.v2ex.com/t/989694#reply8</link><description>&lt;p&gt;&lt;a href="https://file.uhsea.com/2311/0e80ffd0e9d80a7c006f9b6165fe1b8f5V.png" rel="nofollow"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://file.uhsea.com/2311/0e80ffd0e9d80a7c006f9b6165fe1b8f5V.png" rel="nofollow"&gt;https://file.uhsea.com/2311/0e80ffd0e9d80a7c006f9b6165fe1b8f5V.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 15:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989694#reply8</guid></item><item><title>[宽带症候群] 很好奇，如果分配的上行带宽比下行带宽大，对网络中的实际应用有什么影响？</title><link>https://www.v2ex.com/t/989693#reply3</link><description>很好奇，如果分配的上行带宽比下行带宽大，对网络中的实际应用有什么影响？&lt;br /&gt;&lt;br /&gt;就比如：下行带宽 500Mbps ，上行带宽分配 1Gps 这种分配方式，跪谢。</description><pubDate>Tue, 07 Nov 2023 15:52:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989693#reply3</guid></item><item><title>[问与答] 求教个简单的 C++ 语法问题</title><link>https://www.v2ex.com/t/989690#reply7</link><description>&lt;p&gt;代码如下&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-c++"&gt;#include&amp;lt;iostream&amp;gt;
+&lt;h3&gt;我的站点：&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.duelpeak.com" rel="nofollow"&gt;DuelPeak&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;DuelPeak: https://www.duelpeak.com
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 08 Nov 2023 02:05:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989765#reply0</guid></item><item><title>[程序员] 阿里云 com net 域名续费 有便宜的么？</title><link>https://www.v2ex.com/t/989764#reply1</link><description>来个渠道~~</description><pubDate>Wed, 08 Nov 2023 02:04:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989764#reply1</guid></item><item><title>[Apple] 为什么 google photos 备份大小和 ios 相册不一致？</title><link>https://www.v2ex.com/t/989762#reply2</link><description>&lt;a href="https://i.imgur.com/UTYkeot.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/UTYkeot.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/Hnq6NPP.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Hnq6NPP.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;无论选压缩画质还是原始画质，大小都远超原生 heic&lt;br /&gt;&lt;br /&gt;推测 google 是 heic 转回 jpeg 储存的？</description><pubDate>Wed, 08 Nov 2023 01:59:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989762#reply2</guid></item><item><title>[分享发现] 分享个小发现，原来小黄鱼上有好多 ji</title><link>https://www.v2ex.com/t/989761#reply5</link><description>&lt;p&gt;为领咸鱼币，在上面浏览，经常看到有人卖第三套第四套 1 元人民币，2 元人民币，标架几百块上千块。&lt;br /&gt;
+哇，这么值钱了，我想起自己之前收集过不少，二元，五元，十元的，我也来发下卖下，翻了上千倍呀。&lt;br /&gt;
+然后，发布了。&lt;br /&gt;
+果然很多人来问，看来很有市场呀。  &lt;/p&gt;
+&lt;p&gt;不过。
+怎么感觉聊天不对劲。&lt;br /&gt;
+他们怎么都在问在哪里，多钱一次。。包含什么服务。。。&lt;br /&gt;
+去哪里搞？&lt;br /&gt;
+？？？&lt;/p&gt;
+&lt;p&gt;我隐隐觉得不对，查了一下，我靠，原来是我无知了。&lt;br /&gt;
+人民 bi ，硬 bi 。。原来是卖那些的。&lt;br /&gt;
+然后也看到很多被骗的，就是有人下单了，这些人真寄了一个 1 元纸币过去的。  &lt;/p&gt;
+&lt;p&gt;纯分享一下小发现，提升一下认知。。。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:59:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989761#reply5</guid></item><item><title>[推广] Niche Finder - 你的全能 SEO 伙伴，为您提供一站式解决方案</title><link>https://www.v2ex.com/t/989760#reply0</link><description>&lt;p&gt;今天跟大家分享一款最近新发现的好玩的一个工具，希望对做 seo 内容的朋友有一定的帮助。在数字时代，成功的在线业务运营需要坚实的 SEO 基础。Niche Finder 一款多功能的 SEO 工具。为您提供了一站式解决方案，包括关键词研究和扩展、全面的网站洞察、出口多功能性、竞争对手分析、收藏、客户支持和联盟计划，助您在竞争激烈的市场中脱颖而出。&lt;/p&gt;
+&lt;p&gt;Niche Finder 功能介绍
+关键词研究和扩展&lt;/p&gt;
+&lt;p&gt;成功的 SEO 策略始于强大的关键词研究。Niche Finder 提供了先进的关键词研究工具，帮助您找到潜在的高价值关键词，并提供相关关键词的推荐，以扩展您的目标受众。不论您是 SEO 新手还是专家，我们的工具都满足您的需求。&lt;/p&gt;
+&lt;p&gt;全面的网站洞察&lt;/p&gt;
+&lt;p&gt;了解您的网站在搜索引擎中的表现至关重要。Niche Finder 提供全面的网站洞察，包括网站流量、排名、转化率和用户行为分析。这些数据将帮助您做出明智的决策，优化您的网站，提升用户体验。&lt;/p&gt;
+&lt;p&gt;出口多功能性&lt;/p&gt;
+&lt;p&gt;如果您的业务面向国际市场，出口多功能性是不可或缺的。Niche Finder 提供了全球市场研究，帮助您了解不同国家和地区的市场需求，竞争格局和文化背景。这将有助于您制定成功的国际扩展策略。&lt;/p&gt;
+&lt;p&gt;竞争对手分析&lt;/p&gt;
+&lt;p&gt;了解竞争对手是成功的关键。Niche Finder 允许您深入分析竞争对手的关键词策略、广告活动和网站性能。通过比较自身与竞争对手的数据，您可以制定更有效的营销战略。&lt;/p&gt;
+&lt;p&gt;收藏&lt;/p&gt;
+&lt;p&gt;将您的关键信息集中管理。Niche Finder 允许您创建和管理收藏夹，保存有用的链接、关键词和数据，以便随时查看。这样，您可以随时快速访问和分享重要信息。&lt;/p&gt;
+&lt;p&gt;客户支持和联盟计划&lt;/p&gt;
+&lt;p&gt;获得专门的客户支持以协助解决查询和问题。加入我们的联属计划，通过向他人推荐 Niche Finder 来获得奖励。&lt;/p&gt;
+&lt;p&gt;如果你觉得这款工具不错不妨花点时间去了解下，也许会给你带来不一样的收获。&lt;/p&gt;
+&lt;p&gt;Niche Finder 免费吗？&lt;/p&gt;
+&lt;p&gt;本产品有付费和免费套餐。朋友们可以结合自身需求选择性使用。&lt;/p&gt;
+&lt;p&gt;Niche Finder 使用教程&lt;/p&gt;
+&lt;p&gt;帐户创建和登录&lt;/p&gt;
+&lt;p&gt;首先，访问 Niche Finder 官方网站。 单击“注册”按钮创建新帐户或使用您现有的凭据登录。&lt;/p&gt;
+&lt;p&gt;关键词研究&lt;/p&gt;
+&lt;p&gt;这是关键字利基 页面，您可以在其中输入关键字来执行搜索。您还可以选择不同的国家或语言以获得更有针对性的结果。&lt;/p&gt;
+&lt;p&gt;输入搜索关键字后，结果将显示众多竞争对手的网站。列表中的每个网站的最右侧都有三个图标，提供指向该网站在 SEMrush 、Similarweb 和 Archive 平台上的搜索结果的直接链接。&lt;/p&gt;
+&lt;p&gt;当您点击竞争对手的网站时，它会打开一个全面的数据详细信息页面。该页面提供网站的排名、流量及其竞争对手等信息。此外，您还可以通过点击竞争对手各自的图标来直接访问竞争对手的网站。单击网站的域名将立即将您带到我们平台的网站审核页面。我们在这个界面上下了很大的功夫，让它变得人性化，还有很多小细节等待你去探索。&lt;/p&gt;
+&lt;p&gt;除了搜索竞争对手之外，我们还提供强大的 关键字生成 功能。只需输入任何关键字，它就会生成相关关键字、问题、介词、比较和字母顺序的列表。我们为您提供丰富的关键词变体，为您的研究和策略提供宝贵的见解。&lt;/p&gt;
+&lt;p&gt;您可以查看 您之前搜索过的关键词的历史记录。&lt;/p&gt;
+&lt;p&gt;网站分析&lt;/p&gt;
+&lt;p&gt;网站 审核功能允许您输入域名并进行全面搜索，为您提供有关网站的详细信息。这包括 Whois 记录、Similarweb 排名、DNS 详细信息等数据。它使您能够对竞争对手进行深入分析。 &lt;/p&gt;
+&lt;p&gt;网站列表功能会跟踪您之前访问过的网站。 &lt;/p&gt;
+&lt;p&gt;创建收藏&lt;/p&gt;
+&lt;p&gt;我们的网站收集功能 允许您对对您的研究至关重要的竞争对手进行分类和组织。当您将鼠标悬停在该网站上时，您将看到一个白色的覆盖框。点击复选框并选择“网站收藏”按钮即可无缝完成收藏过程。您还可以将有趣的关键字添加到您的关键字集合中。 &lt;/p&gt;
+&lt;p&gt;导出报告&lt;/p&gt;
+&lt;p&gt;Niche Finder 在导出您的研究成果时提供了灵活性。您可以选择三种不同的格式：&lt;/p&gt;
+&lt;p&gt;PNG （便携式网络图形）：这种图像格式允许您导出可视数据和图表，从而可以轻松地将图形合并到报告中。&lt;/p&gt;
+&lt;p&gt;PDF （便携式文档格式）：将您的研究导出为专业且易于共享的 PDF 文档。PDF 非常适合创建可无缝分发的综合报告。&lt;/p&gt;
+&lt;p&gt;CSV （逗号分隔值）： 如果您更喜欢原始数据进行进一步分析或集成到其他工具中，则可以以 CSV 格式导出您的发现。&lt;/p&gt;
+&lt;p&gt;定制您的品牌： 升级以在 Niche Finder 中定制您的品牌。单击设置按钮后，您可以修改您的品牌名称、口号和徽标，以便在您的研究和报告中留下独特的印象。&lt;/p&gt;
+&lt;p&gt;以上教程应该可以帮助您入门并充分利用 Niche Finder 的功能。 &lt;/p&gt;
+&lt;p&gt;外贸关键词挖掘会用到哪些工具&lt;/p&gt;
+&lt;p&gt;在进行外贸关键词挖掘时，您可以使用各种工具来帮助您发现潜在的关键词和市场趋势。以下是一些常用的工具和方法：&lt;/p&gt;
+&lt;p&gt;关键词研究工具：&lt;/p&gt;
+&lt;p&gt;Google 关键词规划工具：Google Ads 的关键词规划工具可以提供有关关键词的搜索量、竞争度和建议的关键词。
+SEMrush：SEMrush 是一种综合性的 SEO 工具，可以用于关键词研究、竞争分析和市场趋势。
+Ahrefs：Ahrefs 提供了关键词研究、竞争分析和反向链接分析等功能，对外贸关键词挖掘很有帮助。
+Niche Finder 一款多功能的 SEO 工具，为您提供一站式解决方案。提供 8 中在线功能。免费付费多种套餐。&lt;/p&gt;
+&lt;p&gt;竞争对手分析工具：&lt;/p&gt;
+&lt;p&gt;SpyFu：SpyFu 可以帮助您分析竞争对手的关键词策略，了解他们在搜索引擎上的表现。
+SimilarWeb：SimilarWeb 提供了有关网站流量来源、关键词排名和竞争对手数据的信息。&lt;/p&gt;
+&lt;p&gt;社交媒体和网络趋势：&lt;/p&gt;
+&lt;p&gt;社交媒体平台：观察社交媒体平台上的趋势和热门话题，可以帮助您了解外贸产品的受欢迎程度。
+Quora 和 Reddit：这些社交问答平台可以提供有关外贸产品和市场的见解和趋势。&lt;/p&gt;
+&lt;p&gt;行业论坛和博客：&lt;/p&gt;
+&lt;p&gt;参与行业论坛和博客，了解行业内的最新动态和关键词。&lt;/p&gt;
+&lt;p&gt;Google Trends：Google Trends 可以显示关键词的搜索趋势，帮助您了解关键词的受欢迎程度和季节性变化。&lt;/p&gt;
+&lt;p&gt;分析工具：&lt;/p&gt;
+&lt;p&gt;Google Analytics：如果您已经有一个网站，Google Analytics 可以提供有关流量来源和关键词排名的数据。
+数据分析工具：使用数据分析工具，如 Excel 或 Google Sheets ，来整理和分析关键词数据。&lt;/p&gt;
+&lt;p&gt;这些工具和方法可以帮助您确定最相关和高潜力的外贸关键词，以优化您的外贸营销策略并吸引更多潜在客户。根据您的具体需求，您可以选择使用其中的一个或多个工具。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:58:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989760#reply0</guid></item><item><title>[推广] 阿里云 ECS 2 核 2G 3M 固定带宽不限流量</title><link>https://www.v2ex.com/t/989758#reply1</link><description>&lt;p&gt;先贴购买链接： &lt;a href="https://t.aliyun.com/U/KGCun9" rel="nofollow"&gt;https://t.aliyun.com/U/KGCun9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;前段时间想着域名备案来着，不想自己填单子资料打印什么的，下单了一台 ECS ，配置比上边这个还低，要 540 多一年，坦率讲目前也没项目要放在这上边，但是为了备案忍了。昨天首页看到这配置，99 一年。。。关键是也支持 ICP 备案，不耗感觉亏了。买了一台 1 年，然后又直接续了一年，但是再续就恢复原价 1000 多了。&lt;/p&gt;
+&lt;p&gt;有需要的吴彦祖们看看。当然我的链接里也包含推荐码，介意的直接去官网找一下。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:53:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989758#reply1</guid></item><item><title>[macOS] mac 如何搜索.idea 的隐藏文件夹？</title><link>https://www.v2ex.com/t/989757#reply1</link><description>&lt;p&gt;idea 的配置文件，我想批量删除
+有没有像 windows everything 那样，
+直接搜到这些隐藏文件的软件或方法呀？。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:53:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989757#reply1</guid></item><item><title>[服务器] ✅国际阿里云，提供代实名账号，代充值收 u、续费，长期合作，充值支持 USDT🤝</title><link>https://www.v2ex.com/t/989756#reply0</link><description>&lt;p&gt;国际阿里云、腾讯云、亚马逊、华为云、微软云、谷歌云代理商，国际市场包括国内市场资源均可进行购买，无风控，放心无忧，代充值收 u 、续费，代实名认证，可长期合作，全天 24 小时为您服务！充值请认准 @&lt;a href="https://www.v2ex.com/member/albb_sty"&gt;albb_sty&lt;/a&gt; ，支持转 usdt 。&lt;/p&gt;
+&lt;p&gt;从不怕等待，只害怕您不来，每天我都在，只为您一句:在?客户至上，客户就是上帝，专业的售后团队，这里就是您的避风港，我在 tg(飞机）@albb_sty 等您，期待您的到来！❤️&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:52:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989756#reply0</guid></item><item><title>[问与答] 请问怎么判断服务器的并发能力啊</title><link>https://www.v2ex.com/t/989755#reply2</link><description>目前公司有一台服务器，8 核 16GB 20M 带宽，后台代码为 Java 。平常稳定时 cpu 使用率 5%，内存使用率 40%。&lt;br /&gt;&lt;br /&gt;现在老板希望策划一个活动，大概会有 2000 人同时使用，&lt;br /&gt;&lt;br /&gt;几乎都会使用到一个我方后台请求第三方接口的一个方法，每个耗时大概 10 秒钟（ 2000 人使用的功能基本都是只调用这个方法）&lt;br /&gt;&lt;br /&gt;方法具体实现就是调用第三方接口，所以本身不会占用什么资源，就是接口返回数据要 10 秒钟左右。&lt;br /&gt;&lt;br /&gt;我觉得这台服务器应该是承受不了 2000 人同时使用的。但是也不确定到底能承受多少人使用&lt;br /&gt;&lt;br /&gt;有没有大佬能帮我分析一下，这个大概能承受多少人同时使用</description><pubDate>Wed, 08 Nov 2023 01:49:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989755#reply2</guid></item><item><title>[问与答] 非线性动态系统</title><link>https://www.v2ex.com/t/989754#reply0</link><description>&lt;p&gt;各位大佬，请麻烦大家看一下这个问题应该如何解决？（第七步是题目要求的内容）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第一步我已经完成了&lt;/li&gt;
+&lt;li&gt;我想问各位的问题是，第三步应该如何使用 Maple 解决这个问题呢？ 希望各位能够给一些思路，谢谢大家！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img alt="题目" class="embedded_image" rel="noreferrer" src="https://vip2.loli.io/2023/11/08/D6j9d5aqbGBrTW2.png" /&gt;</description><pubDate>Wed, 08 Nov 2023 01:48:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989754#reply0</guid></item><item><title>[酷工作] 如果自己注册个公司，还能去别的公司上班么？</title><link>https://www.v2ex.com/t/989753#reply8</link><description>&lt;p&gt;大佬们，我如果自己注册个公司，但是不交社保，只是用来接单开发票，还有申请备案啥的，我还能去别的公司上班么&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:45:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989753#reply8</guid></item><item><title>[Go 编程语言] go-carbon v2.2.13 发布，轻量级、语义化、对开发者友好的 Golang 时间处理库</title><link>https://www.v2ex.com/t/989751#reply1</link><description>&lt;p&gt;carbon 是一个轻量级、语义化、对开发者友好的 golang 时间处理库，支持链式调用。&lt;/p&gt;
+&lt;p&gt;目前已被 &lt;a href="https://github.com/avelino/awesome-go#date-and-time" rel="nofollow" title="awesome-go"&gt;awesome-go&lt;/a&gt; 收录，如果您觉得不错，请给个 star 吧&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/golang-module/carbon" rel="nofollow" title="github.com/golang-module/carbon"&gt;github.com/golang-module/carbon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gitee.com/golang-module/carbon" rel="nofollow" title="gitee.com/golang-module/carbon"&gt;gitee.com/golang-module/carbon&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;安装使用&lt;/h4&gt;
+&lt;h5&gt;Golang 版本大于等于 1.16&lt;/h5&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;// 使用 github 库
+go get -u github.com/golang-module/carbon/v2
 
-enum ExprValueType : uint8_t {
-  MinInf = 1
-};
+import "github.com/golang-module/carbon/v2"
 
-int main(int argc, char* argv[]) {
-  ExprValueType type = MinInf;
-  std::cout &amp;lt;&amp;lt;"Hello world" &amp;lt;&amp;lt; std::endl;
-  std::cout &amp;lt;&amp;lt; type &amp;lt;&amp;lt; std::endl;
-  return 0;
-}
+// 使用 gitee 库
+go get -u gitee.com/golang-module/carbon/v2
+
+import "gitee.com/golang-module/carbon/v2"
 &lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;使用 &lt;code&gt;g++ &lt;a href="http://abc.cc" rel="nofollow"&gt;abc.cc&lt;/a&gt; -o a.out -std=c++20&lt;/code&gt; 报错，报错信息如下所示&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-text"&gt;abc.cc:3:20: error: found ‘:’ in nested-name-specifier, expected ‘::’
-    3 | enum ExprValueType : uint8_t {
-      |                    ^
-      |                    ::
-abc.cc:3:6: error: ‘ExprValueType’ has not been declared
-    3 | enum ExprValueType : uint8_t {
-      |      ^~~~~~~~~~~~~
-abc.cc:3:30: error: expected unqualified-id before ‘{’ token
-    3 | enum ExprValueType : uint8_t {
-      |                              ^
-abc.cc: In function ‘int main(int, char**)’:
-abc.cc:8:3: error: ‘ExprValueType’ was not declared in this scope
-    8 |   ExprValueType type = MinInf;
-      |   ^~~~~~~~~~~~~
-abc.cc:10:16: error: ‘type’ was not declared in this scope; did you mean ‘std::__cmp_cat::type’?
-   10 |   std::cout &amp;lt;&amp;lt; type &amp;lt;&amp;lt; std::endl;
-      |                ^~~~
-      |                std::__cmp_cat::type
-In file included from /usr/include/c++/13/bits/char_traits.h:56,
-                 from /usr/include/c++/13/ios:42,
-                 from /usr/include/c++/13/ostream:40,
-                 from /usr/include/c++/13/iostream:41,
-                 from abc.cc:1:
-/usr/include/c++/13/compare:49:11: note: ‘std::__cmp_cat::type’ declared here
-   49 |     using type = signed char;
-      |           ^~~~
+&lt;h5&gt;Golang 版本小于 1.16&lt;/h5&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;// 使用 github 库
+go get -u github.com/golang-module/carbon
+
+import "github.com/golang-module/carbon"
+
+// 使用 gitee 库
+go get -u gitee.com/golang-module/carbon
+
+import  "gitee.com/golang-module/carbon"
 &lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;个人猜测是 gcc 版本的问题，于是在 &lt;a href="https://gcc.godbolt.org/" rel="nofollow"&gt;https://gcc.godbolt.org/&lt;/a&gt; 切换不同的编译器查看。&lt;/p&gt;
+&lt;h5&gt;更新日志&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;发现自 &lt;strong&gt;x86-64 gcc 13.1&lt;/strong&gt; 开始会报错，之前版本（比如 &lt;strong&gt;x86-64 gcc 12.3&lt;/strong&gt;）就不会报错。&lt;/li&gt;
-&lt;li&gt;同样 &lt;strong&gt;x86-64 clang 17.0.1&lt;/strong&gt; 开始会报错，之前版本（比如 &lt;strong&gt;x86-64 clang 16.0.0&lt;/strong&gt; ）就不会报错。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;于是产生了两个困惑&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;编译器最近是出了什么新的标准导致不支持 &lt;strong&gt;enum&lt;/strong&gt; 的这种写法了吗？&lt;/li&gt;
-&lt;li&gt;如果想要在 &lt;strong&gt;x86-64 gcc 13.1&lt;/strong&gt; 上跑起来，应该怎么改？&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 07 Nov 2023 15:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989690#reply7</guid></item><item><title>[MacBook Pro] 原价 16999 的 m3pro 14 寸跌到多少可以入了？</title><link>https://www.v2ex.com/t/989688#reply0</link><description>&lt;p&gt;目前看到最低价格 14599 了&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 15:33:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989688#reply0</guid></item><item><title>[iCloud] 土区 iCloud 准备翻车，请教解决办法</title><link>https://www.v2ex.com/t/989687#reply10</link><description>&lt;p&gt;之前一直都是在 oyunfor 买 gift card ，在 V 站这里找了两位乘客。刚看了一下，刚好是 300 天之前开的车。&lt;/p&gt;
-&lt;p&gt;前两天收到邮件叫我补充付款信息。请问一下有办法解决吗？直接用 国内的 visa 或者 master 卡？有没有什么虚拟卡可行？&lt;/p&gt;
-&lt;p&gt;感谢！！&lt;/p&gt;</description><pubDate>Tue, 07 Nov 2023 15:28:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989687#reply10</guid></item></channel></rss>
+&lt;li&gt;修复 &lt;code&gt;lang/fr.json&lt;/code&gt; 和 &lt;code&gt;lang/jp.json&lt;/code&gt; 文件翻译错误&lt;/li&gt;
+&lt;li&gt;修复 &lt;code&gt;IsZero&lt;/code&gt; 方法的 bug &lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;IsDST&lt;/code&gt; 方法，判断是否是夏令时&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;Closest&lt;/code&gt; 方法，获取距离指定 Carbon 对象最近的 Carbon 对象&lt;/li&gt;
+&lt;li&gt;新增 &lt;code&gt;Farthest&lt;/code&gt; 方法，获取距离指定 Carbon 对象最远的 Carbon 对象&lt;/li&gt;
+&lt;li&gt;将 &lt;code&gt;modifier.go&lt;/code&gt; 更名为 &lt;code&gt;boundary.go&lt;/code&gt;, &lt;code&gt;modifier_test.go&lt;/code&gt; 更名为 &lt;code&gt;boundary_test.go&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 08 Nov 2023 01:43:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989751#reply1</guid></item><item><title>[全球工单系统] 阿里云 oss 已成为“银狐”传播的工具</title><link>https://www.v2ex.com/t/989750#reply0</link><description>&lt;p&gt;&lt;a href="https://x.threatbook.com/v5/article?threatInfoID=96053" rel="nofollow"&gt;https://x.threatbook.com/v5/article?threatInfoID=96053&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:39:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989750#reply0</guid></item><item><title>[问与答] 马上 2024 年，是准备背负上车贷呢，提前把房贷（商代）还了呢</title><link>https://www.v2ex.com/t/989749#reply3</link><description>广州艾安 Y ，510 续航落地价，只需要 11 万 5 左右，厂家还能无息贷款补贴，觉得挺合适的。&lt;br /&gt;&lt;br /&gt;就是背负上车贷呢，还是不背负，按照目前的攒钱速度，每年估计就能把商代提前还了</description><pubDate>Wed, 08 Nov 2023 01:38:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989749#reply3</guid></item><item><title>[程序员] UWP 正式宣告死亡</title><link>https://www.v2ex.com/t/989748#reply3</link><description>&lt;p&gt;近日，海外有开发者发现，微软最新的 Windows 11 Canary Build 25987 已经开始提供两个版本的 XAML shell 服务，新的版本直接基于 Win32+XAML ，曾经被寄予厚望的 UWP 在新版本里已经不见踪影。&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Q8fHf7R.jpeg" /&gt;
+&lt;p&gt;再次提醒：千万不要绑定到微软的技术栈上面，已经挖坑弃坑太多。&lt;/p&gt;
+&lt;p&gt;桌面开发能用 PySide 或者 Qt 的尽量用 Qt ，即使用 Electron 凑合也比跟微软绑定强，跨平台起码给自己留一条后路。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:37:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989748#reply3</guid></item><item><title>[问与答] 请问有做 FB 广告投放 的吗？咨询一下 选择 类型的问题，谢谢大家。</title><link>https://www.v2ex.com/t/989747#reply4</link><description>大家好，我是想在 fb 上 给美甲店做推广，不是销售商品，只是单纯的推广引流，让客户打电话给我。&lt;br /&gt;&lt;br /&gt;请问我投放广告的 时候 类型应该 选择 ，竞拍 还是 预定呢？&lt;br /&gt;&lt;br /&gt;知名度、流量、互动、潜在客户、哪一个更适合引流推广呢？谢谢大家。</description><pubDate>Wed, 08 Nov 2023 01:34:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989747#reply4</guid></item><item><title>[分享创造] 最近房产交易活跃，推荐一个房价相关的 Chrome 插件</title><link>https://www.v2ex.com/t/989746#reply0</link><description>历史上有数据的话，可以看看自己关注小区的波段。&lt;br /&gt;&lt;br /&gt;插件地址： &lt;a href="https://chrome.google.com/webstore/detail/%E6%89%BE%E6%88%BF%E8%81%94%E7%9B%9F/pebkhooddblfngkkokfidkobojjllkdp?hl=zh-CN" rel="nofollow noopener" target="_blank"&gt;https://chrome.google.com/webstore/detail/%E6%89%BE%E6%88%BF%E8%81%94%E7%9B%9F/pebkhooddblfngkkokfidkobojjllkdp?hl=zh-CN&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;查数据的站点： &lt;a href="https://huzibaba.com/index" rel="nofollow noopener" target="_blank"&gt;https://huzibaba.com/index&lt;/a&gt;</description><pubDate>Wed, 08 Nov 2023 01:32:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989746#reply0</guid></item><item><title>[问与答] 想问问你们二手显示器都怎么处理的</title><link>https://www.v2ex.com/t/989745#reply17</link><description>&lt;p&gt;买了十几年了，甚至还是 dvi 接口的 dell 显示器，看了下咸鱼估计送人都没人要，丢了又有点不舍得
+你们都是咋处理的显示器&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 01:28:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/989745#reply17</guid></item></channel></rss>
