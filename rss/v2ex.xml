@@ -1,57 +1,256 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 08 Nov 2023 21:59:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] 为什么 Mac 运行一段时间之后 Handoff 总会失效？</title><link>https://www.v2ex.com/t/990073#reply1</link><description>&lt;p&gt;我的 M1Pro MBP 在开机之后过一段时间 Handoff 就会失效，包括无法使用通用剪切板，无法使用随航和无法打开其他设备运行的网页。&lt;/p&gt;
-&lt;p&gt;常规解决方案包括：
-1.重启设备，体感成功率一般
-2.不直接退出 iCloud ，而从 iCloud 里删除设备，再到设备上验证 iCloud ，成功率较高
-3.方法 1 和 2 换着来，基本能解决问题&lt;/p&gt;
-&lt;p&gt;但只能临时解决，运行久了 Handoff 基本必失灵&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 21:42:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990073#reply1</guid></item><item><title>[问与答] 微软 PowerAutomate 问题</title><link>https://www.v2ex.com/t/990072#reply0</link><description>大佬们能帮忙看看这个 Flow 中到底咋把华氏度转换成摄氏度吗&lt;br /&gt;我用 Compose 转换一直失败😵‍💫&lt;br /&gt;&lt;br /&gt;&lt;a href="https://powerautomate.microsoft.com/zh-cn/templates/details/dc19fda0d36411e69a99cdf03e6c73d2/%E9%80%9A%E8%BF%87%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%8E%B7%E5%8F%96%E6%AF%8F%E6%97%A5%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%9B%B4%E6%96%B0%E6%91%84%E6%B0%8F%E5%BA%A6/" rel="nofollow noopener" target="_blank"&gt;https://powerautomate.microsoft.com/zh-cn/templates/details/dc19fda0d36411e69a99cdf03e6c73d2/%E9%80%9A%E8%BF%87%E6%8E%A8%E9%80%81%E9%80%9A%E7%9F%A5%E8%8E%B7%E5%8F%96%E6%AF%8F%E6%97%A5%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5%E6%9B%B4%E6%96%B0%E6%91%84%E6%B0%8F%E5%BA%A6/&lt;/a&gt;</description><pubDate>Wed, 08 Nov 2023 21:24:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990072#reply0</guid></item><item><title>[程序员] 配置 CF tunnel 连接到内网 PVE，域名访问总是提示 too many redirects,如何解决？</title><link>https://www.v2ex.com/t/990071#reply0</link><description>&lt;p&gt;PVE 默认是 https 自签证书，通过 ACME 拿认证也无法解决，请问如何解决？连接到内网其它非 https 的应用就没问题。&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 21:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990071#reply0</guid></item><item><title>[WebRTC] 有在生产环境用过的 livekit 的吗？体验怎么样？</title><link>https://www.v2ex.com/t/990070#reply0</link><description>&lt;a href="https://github.com/livekit/livekit" rel="nofollow noopener" target="_blank"&gt;https://github.com/livekit/livekit&lt;/a&gt;</description><pubDate>Wed, 08 Nov 2023 19:50:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990070#reply0</guid></item><item><title>[问与答] 请问手机访问 github.dev 为啥一直卡在“setting up your web editor ”啊？</title><link>https://www.v2ex.com/t/990069#reply0</link><description>如题，苹果手机，用的 chorme 浏览器，求助各位大佬。😭</description><pubDate>Wed, 08 Nov 2023 18:23:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990069#reply0</guid></item><item><title>[分享发现] edge 打字光标 "l" 消失,有人一样吗?</title><link>https://www.v2ex.com/t/990068#reply7</link><description>&lt;p&gt;网页加载完,立马点击输入框输入东西. 一闪一闪的打字的光标"l"有概率消失,有人一样吗?
-关闭了所有扩展,充值了 edge,也没用.
-版本 119.0.2151.44
-气死了&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 17:04:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990068#reply7</guid></item><item><title>[问与答] 深夜问一个关于安装 arch+i3 的系统 日常怎么做备份，可以防止系统在更新出问题或软件安装出问题时可以回滚回去呀？是用是不是也可以安装 time shift 这个工具呀</title><link>https://www.v2ex.com/t/990067#reply0</link><description></description><pubDate>Wed, 08 Nov 2023 17:02:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990067#reply0</guid></item><item><title>[Flutter] 准备开发个自用的记账本， flutter 够用吗，开发效率会比用 kotlin 快一点吗？</title><link>https://www.v2ex.com/t/990065#reply1</link><description></description><pubDate>Wed, 08 Nov 2023 16:20:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990065#reply1</guid></item><item><title>[分享创造] 一个试验性站点，关于 GPTs app Store</title><link>https://www.v2ex.com/t/990064#reply1</link><description>&lt;p&gt;快速弄好，简单的站 GPTs
-&lt;a href="https://gptsapp.store" rel="nofollow"&gt;https://gptsapp.store&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 16:19:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990064#reply1</guid></item><item><title>[宽带症候群] 分享：刚写的 luci-app-ipv6clientfilter，一键允许或阻止客户端获取 IPV6 地址</title><link>https://www.v2ex.com/t/990063#reply1</link><description>这里下载：&lt;br /&gt;&lt;a href="https://github.com/a904055262/luci-app-ipv6clientfilter" rel="nofollow noopener" target="_blank"&gt;https://github.com/a904055262/luci-app-ipv6clientfilter&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;两个 luci 直接下载下来直接装就行&lt;br /&gt;就是这个功能打个包&lt;br /&gt;&lt;a href="https://www.v2ex.com/t/989561" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/989561&lt;/a&gt;</description><pubDate>Wed, 08 Nov 2023 15:59:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990063#reply1</guid></item><item><title>[程序员] 抠搜的垃圾佬应该怎么选软路由---要不要 all-in-one</title><link>https://www.v2ex.com/t/990062#reply5</link><description>之前 500 块收了个二手笔记本，单网口+Vlan 用做软路由。后来感觉风扇噪声大就出掉了&lt;br /&gt;&lt;br /&gt;家里有个 1260p 的 homelab ，双网口，就算买设备也不想花超过 500 ，最好 300 搞定。&lt;br /&gt;现在有两个方案：&lt;br /&gt;1. 买个省电的 x86 小主机，最好双网口，单网口也行，用作软路由   &lt;br /&gt;优点：&lt;br /&gt;  - 路由和 homelab 分离，不会 all in boom 。&lt;br /&gt;  - 独立设备，硬件资源稳定，不怕吃不消&lt;br /&gt;缺点：&lt;br /&gt;  - 还得花钱，基本上还得淘海鲜，感觉 300 来块都买不到什么 x86 的机器，看着看着就跑到 7/800 了&lt;br /&gt;  - 家里带屏幕环境难搞，如果 ssh 断了只能重启，网络配错更是折腾&lt;br /&gt;2. Homelab 里用 hyper V 装个软路由，all in one&lt;br /&gt;优点：&lt;br /&gt;  - 省钱省电省事&lt;br /&gt;  - 可以有 console&lt;br /&gt;缺点：&lt;br /&gt;  - 主机挂了全都不能上网&lt;br /&gt;  - HyperV 毕竟不如物理机稳定&lt;br /&gt;  - 不能用 VLAN: 英特尔的驱动 bug ，I226 的网卡在 hyper v 里不支持 VLAN ，只能单开一个网口作为 op 的 wan ，然后 host 和 vm 共享另一个网口&lt;br /&gt;  &lt;br /&gt;V2er 如果闲置的软路由也可以留个言，没暗病风扇声不大有 DC 口就行，价格合适考虑收了</description><pubDate>Wed, 08 Nov 2023 15:39:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990062#reply5</guid></item><item><title>[iOS] app library 分类好多消失了 17.1.1 正式版</title><link>https://www.v2ex.com/t/990061#reply2</link><description>晚上刚更新到最新系统，刚划到最右屏时感觉有点不对，仔细一看好多分类都不见了，一百多个 app 一股脑给我刚到了 others 里面。&lt;br /&gt;有一样的情况吗，是 bug 还是我的问题…</description><pubDate>Wed, 08 Nov 2023 15:34:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990061#reply2</guid></item><item><title>[分享发现] (自建) Pixiv 图床反代加速链接 - i.pximg.org</title><link>https://www.v2ex.com/t/990060#reply1</link><description>&lt;h1&gt;一个基于 Cloudflare Worker 的 Pixiv 图床反代链接&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;p&gt;Url: &lt;a href="http://i.pximg.org" rel="nofollow"&gt;i.pximg.org&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;起因：&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;自用的 &lt;a href="http://pximg.eu.org" rel="nofollow"&gt;pximg.eu.org&lt;/a&gt; 被 DNS 污染，&lt;a href="http://pixiv.re" rel="nofollow"&gt;pixiv.re&lt;/a&gt; 的加速效果也不如自建的 cf 反代链接.&lt;/li&gt;
-&lt;li&gt;之前弄了一个 Pixiv 日榜展示平台，走 PHP 代理既占带宽又慢.&lt;/li&gt;
-&lt;li&gt;据说某些地区 pixiv[.]re 也遭 DNS 污染，无法正常访问&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;部署(Cloudflare Worker)：&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-javascript"&gt;addEventListener("fetch", event =&amp;gt; {
-  let url = new URL(event.request.url);
-  url.hostname = "i.pximg.net";
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 09 Nov 2023 06:24:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MySQL] mysql 8.0 执行 sql 语句 中 where 条件中 in 的子查询是错误的，但是完整的 sql 语句执行是成功</title><link>https://www.v2ex.com/t/990249#reply0</link><description>&lt;p&gt;大佬们，我遇到一个很奇怪的 sql 问题，首先我先展示两个建表语句&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sql"&gt;CREATE TABLE `monitor_message` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `monitor_id` int(11) NOT NULL DEFAULT '0',
+  `monitor_type` varchar(255) NOT NULL DEFAULT '',
+  `run_time` datetime NOT NULL,
+  `type` varchar(255) NOT NULL 
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=5238 DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC;
 
-  let request = new Request(url, event.request);
-  event.respondWith(
-    fetch(request, {
-      headers: {
-        'Referer': 'https://www.pixiv.net/',
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 4.3; tr-tr; SAMSUNG SM-G710 Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Chrome/28.0.1500.94 Mobile Safari/537.36 iKunOS'
-      }
-    })
-  );
-});
+CREATE TABLE `monitor_config` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `project_id` varchar(128) NOT NULL DEFAULT '',
+  `monitor_type` varchar(255) NOT NULL DEFAULT '',
+  `name` varchar(512) NOT NULL DEFAULT '',
+  `state` varchar(64) NOT NULL DEFAULT '启用',
+  `json_config` text NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=257 DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC;
+
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;使用：&lt;/h2&gt;
-&lt;p&gt;将 pixiv 图像直链中的“.net”直接替换为“.org”即可.&lt;/p&gt;
+&lt;p&gt;然后下面那个语句能执行成功&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sql"&gt;		select
+			id,
+			monitor_id,
+			monitor_type
+		from
+			monitor_message
+		where
+			run_time &amp;gt;= '2023-11-07'
+			AND run_time &amp;lt; '2023-11-08'
+			AND monitor_id IN (
+				SELECT
+					monitor_id
+				FROM
+					monitor_config
+				WHERE
+					project_id = '123'
+			)
+		order by run_time desc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;但是其中的子查询是有问题的，单独执行是失败的，为啥会执行成功呢&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:23:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990249#reply0</guid></item><item><title>[分享创造] 我的网站被攻击了， CDN 被刷 2000GB 导致停机</title><link>https://www.v2ex.com/t/990247#reply0</link><description>&lt;p&gt;感谢 V2EX 上的大佬，硬生生被上了一课。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;HTTPS 海外下载流量 2309GB
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;一个网站，每天访问不足 100 独立 IP ，怎么就被盯上了呢&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.duelpeak.com/" rel="nofollow"&gt;https://www.duelpeak.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:20:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990247#reply0</guid></item><item><title>[输入法] 搜狗输入法又开始作恶了？</title><link>https://www.v2ex.com/t/990244#reply1</link><description>&lt;p&gt;官网不是说 取消广告了吗？今天咋又突然弹出来个游戏的通知&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:16:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990244#reply1</guid></item><item><title>[Apple] 苹果美区 ID 购买 app 困难</title><link>https://www.v2ex.com/t/990242#reply3</link><description>&lt;p&gt;古早的时候绑定了一张国内的 visa 卡，今天上去购买 app 发现过期了需要更新信用卡信息，然而就绑定不上了，PayPal 国区的也不行。
+伙计们有什么方便又安全的办法吗？ tb 某鱼的礼品卡怕黑卡封号。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:10:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990242#reply3</guid></item><item><title>[宽带症候群] [求助] windows11 开启代理后切换中文输入法会卡住</title><link>https://www.v2ex.com/t/990241#reply0</link><description>&lt;p&gt;系统为 windows 11 22h2 （ 23h2 没推送给我），代理配置为 sing-box 文档中样例的 tun 配置&lt;/p&gt;
+&lt;p&gt;表现的问题有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;输入法布局切换到英语（使用 alt+shift 切换）再切回到中文，整个输入事件被锁定，无法输入任何文本，过十几秒后恢复正常&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;系统设置中：时间和语言选项-语言和区域 进入卡顿，需要卡 5 秒左右才进入&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;输入法设置中已经关闭“尝试必应的文本建议”选项&lt;/p&gt;
+&lt;p&gt;排查 sing-box 的日志未发现明显问题，不过有几个地址会被频繁请求&lt;/p&gt;
+&lt;p&gt;alljie.space&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://windowsupdate.com" rel="nofollow"&gt;windowsupdate.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://msftconnecttest.com" rel="nofollow"&gt;msftconnecttest.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://microsoft.com" rel="nofollow"&gt;microsoft.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://edgesuite.net" rel="nofollow"&gt;edgesuite.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;还有几行看不懂的日志&lt;/p&gt;
+&lt;p&gt;DEBUG dns: exchange ENCNDADDDCDCDADDDBDDDHDACACACAAA. IN NIMLOC&lt;/p&gt;
+&lt;p&gt;DEBUG dns: exchange ENCNDADDDCDCDADDDBDDDHDACACACACA. IN NIMLOC&lt;/p&gt;
+&lt;p&gt;DEBUG dns: exchange FHEPFCELEHFCEPFFFACACACACACACAAA. IN NIMLOC&lt;/p&gt;
+&lt;p&gt;太诡异了，所以来社区求助一下&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:07:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990241#reply0</guid></item><item><title>[广州] 大家在广州都是怎么过周末的</title><link>https://www.v2ex.com/t/990239#reply6</link><description>&lt;p&gt;最害怕的就是周末的到来，不知道干嘛，一躺就是两天。。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 06:00:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990239#reply6</guid></item><item><title>[问与答] 双 11 有没有电脑椅推荐</title><link>https://www.v2ex.com/t/990238#reply2</link><description>&lt;p&gt;第一款买的是西昊的，还可以，用了几年。后来换了第二款西昊的，质量就变的奇差，今年想换了&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:59:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990238#reply2</guid></item><item><title>[程序员] ****AWS 大佬请进, 请教网站部署问题****</title><link>https://www.v2ex.com/t/990237#reply1</link><description>一个中小型招聘类网站, 请问以下 AWS 哪种部署合适(考虑性能, 经济, 方便性):&lt;br /&gt;&lt;br /&gt;选项 1. 前端: Amplify, 后端: Beanstalk, 数据库: RDS MYSQL(目前网站按该方案部署)&lt;br /&gt;选项 2. 上述前后端数据库同一打包到 EC2&lt;br /&gt;选项 3. API GATEway+lambda&lt;br /&gt;&lt;br /&gt;谢谢</description><pubDate>Thu, 09 Nov 2023 05:57:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990237#reply1</guid></item><item><title>[问与答] 一直很好奇， ddos 真的无解嘛？</title><link>https://www.v2ex.com/t/990236#reply5</link><description>&lt;p&gt;这两天 OpenAI 说被 DDOS 导致服务不行。
+这么大的公司，还是全球提供服务的，都能被 DDOS 成这样。
+攻击者的成本很低吗？（打成这样一天能要几万吗？）
+如果全球各地的肉鸡都 D OpenAI ，它能怎么解决呢？
+还有 Azure 的 ChatGPT 很稳，是因为世界上没有人可以把微软服务器 DDOS 废吗？
+如果 70 亿人同时访问呢？假如 70 亿人同时访问，都不会挂，是不是地球上没有生物可以 DDOS 掉微软了？&lt;/p&gt;
+&lt;p&gt;小白不是很懂网络，一直感觉 DDOS 仿佛是个无敌的技能（除非抓住始作俑者）
+求赐教。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:55:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990236#reply5</guid></item><item><title>[分享创造] KCL 开源社区最新动态速递 | 超多 IDE 体验提升和开箱即用的模型等你来探！</title><link>https://www.v2ex.com/t/990234#reply0</link><description>&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/kcl-lang" rel="nofollow"&gt;KCL&lt;/a&gt; 是一个 CNCF 基金会托管的基于约束的记录及函数语言并通过成熟的编程语言技术和实践来改进对大量繁杂配置比如云原生 Kubernetes 配置场景的编写，致力于构建围绕配置的更好的模块化、扩展性和稳定性，更简单的逻辑编写，以及更简单的自动化和生态工具集成。&lt;/p&gt;
+&lt;p&gt;本栏目将会双周更新 KCL 语言社区最新动态，包括功能、官网更新和最新的社区动态等，帮助大家更好地了解 KCL 社区！&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;KCL 官网： &lt;a href="https://kcl-lang.io" rel="nofollow"&gt;https://kcl-lang.io&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;内容概述&lt;/h2&gt;
+&lt;p&gt;感谢所有贡献者过去近一月 (2023 10.26 - 11.8) 的杰出工作，以下是重点合并内容概述&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🔧 语言及工具链更新&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;e.g.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KCL IDE 更新&lt;/strong&gt; - 更智能的配置值补全、属性列表补全、函数参数补全、内置包引用补全和 docstring 补全等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KCL 包管理工具 KPM 更新&lt;/strong&gt; -  更流畅的创建、发布 KCL 包的工作流：支持基于版本系统的包更新和发布的自动化流程；此外，现已允许对 KCL 包的元信息自定义配置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KCL 模型更新&lt;/strong&gt; - 开箱即用的 KCL 模型新增至 120+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KCL 语言更新&lt;/strong&gt; - 优化了 schema 字段类型不匹配的报错信息，支持 lambda 类型注解，以及个别编译问题修复；系统库支持对 JSON/YAML 字符串的验证、序列化和反序列化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;KCL 导入工具发布&lt;/strong&gt; - 支持从 YAML/JSON/CRD/Terraform Schema 一键生成 KCL 配置/模型，实现自动化迁移&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href="https://i.pximg.net/img-original/img/2018/04/24/01/51/35/68377968_p0.png" rel="nofollow"&gt;https://i.pximg.net/img-original/img/2018/04/24/01/51/35/68377968_p0.png&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;替换为： &lt;a href="https://i.pximg.org/img-original/img/2018/04/24/01/51/35/68377968_p0.png" rel="nofollow"&gt;https://i.pximg.org/img-original/img/2018/04/24/01/51/35/68377968_p0.png&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2&gt;特别鸣谢&lt;/h2&gt;
+&lt;p&gt;以下排名不分先后&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;感谢 @jakezhu9 对 KCL benchmark 由单线程 Rc 到 Arc 的改进，对 KCL 导入工具中关于引用路径的 bug 修复 🙌 &lt;a href="https://github.com/kcl-lang/kcl-go/pull/170" rel="nofollow"&gt;https://github.com/kcl-lang/kcl-go/pull/170&lt;/a&gt; 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;感谢 @liangyuanpeng 为 KCL 模型贡献 karmada 模型包，欢迎！ 🙌&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/kcl-lang/artifacthub/pull/48/files" rel="nofollow"&gt;https://github.com/kcl-lang/artifacthub/pull/48/files&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;此外，感谢 @Matt Gowie, @&lt;a href="https://www.v2ex.com/member/ddh"&gt;ddh&lt;/a&gt; 对 KCL 的关注和宝贵反馈 🙌&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;精选更新&lt;/h2&gt;
+&lt;h3&gt;KCL IDE 插件更新&lt;/h3&gt;
+&lt;p&gt;KCL IDE 插件&lt;strong&gt;高频增强&lt;/strong&gt;中，欢迎小伙伴们抢先试用，也欢迎加入到社区中来，一起做好产品，期待反响和声音！近期，基于新增了大量补全提示，重点针对&lt;strong&gt;配置定义&lt;/strong&gt;这一核心环节，简化用户基于模型编写配置的心智、提升配置编辑的效率。此外，增强了调用内置函数时参数补全。talk is cheap ，我们直接来看效果：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/44b597e72b7d4aef8405c516409e6120%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=640&amp;amp;h=302&amp;amp;s=121637&amp;amp;e=gif&amp;amp;f=53&amp;amp;b=f5f5f5" /&gt;&lt;/p&gt;
+&lt;p&gt;轻松引用内置库，函数列表一应补全：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0e0be53a1d7a4a1cbda582bae3d3ea0c%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=850&amp;amp;h=401&amp;amp;s=404158&amp;amp;e=gif&amp;amp;f=66&amp;amp;b=f9f9f9" /&gt;&lt;/p&gt;
+&lt;p&gt;而对于&lt;strong&gt;模型设计&lt;/strong&gt;环节，也新增了对 docstring 的快速生成，减少手敲 boilerplate：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fd05067787dc487db5057026a780ce70%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1023&amp;amp;h=728&amp;amp;s=722155&amp;amp;e=gif&amp;amp;f=76&amp;amp;b=1e1e1e" /&gt;&lt;/p&gt;
+&lt;h3&gt;KCL 语言更新&lt;/h3&gt;
+&lt;p&gt;KCL 的编译命令对错误信息的输出优化继续推进，致力于提供清晰易懂的指引，帮助开发者快速定位和修复问题，编写出正确的代码。近期，KCL 优化了 schema 字段类型不匹配的报错信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;before 👈🏻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/957bc958d8bf4749986f4b4de1c492f4%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1080&amp;amp;h=185&amp;amp;s=82668&amp;amp;e=png&amp;amp;b=fefefe" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;after 👉🏻  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4d51dc920d51448d9992bec4a9f256ae%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1080&amp;amp;h=320&amp;amp;s=163444&amp;amp;e=png&amp;amp;b=fefefe" /&gt;&lt;/p&gt;
+&lt;p&gt;此外，还支持了 --recursive 选项允许 kcl 递归编译子目录，支持在 lambda 表达式中添加类型注解，系统库支持了对 JSON/YAML 字符串的验证、序列化和反序列化；修复了带有三方库的 KCL 程序缓存失效的问题；修复了编译入库文件跨 kcl.mod 情况下的路径冲突错误；修复 KCL 函数默认值语义检查错误等。  &lt;/p&gt;
+&lt;h3&gt;KCL 导入工具&lt;/h3&gt;
+&lt;p&gt;KCL 的编译命令正在持续地&lt;strong&gt;优化错误信息的输出&lt;/strong&gt;，致力于提供清晰易懂的指引，帮助开发者快速定位和修复问题，编写出正确的代码。&lt;/p&gt;
+&lt;p&gt;支持从 YAML/JSON/CRD/Terraform Schema 一键生成 KCL 配置/模型，实现自动化迁移，相关指南请参照「一键从 Kubernetes 生态迁移到 KCL 」&lt;em&gt;&lt;a href="https://kcl-lang.io/docs/user_docs/guides/working-with-k8s/adopt-from-kubernetes" rel="nofollow"&gt;https://kcl-lang.io/docs/user_docs/guides/working-with-k8s/adopt-from-kubernetes&lt;/a&gt;&lt;/em&gt;**&lt;/p&gt;
+&lt;h2&gt;其他资源&lt;/h2&gt;
+&lt;p&gt;❤️ 感谢所有 KCL 用户和社区小伙伴在社区中提出的宝贵反馈与建议。预计 11 月底我们会正式发布 KCL v0.7 新版本，敬请期待!&lt;/p&gt;
+&lt;p&gt;更多其他资源请参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;KCL 网站 &lt;em&gt;:&lt;/em&gt; &lt;em&gt;&lt;a href="https://kcl-lang.io/" rel="nofollow"&gt;https://kcl-lang.io/&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 09 Nov 2023 05:53:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990234#reply0</guid></item><item><title>[问与答] UCloud 现在怎么样，腾讯云和阿里云现在香港、新加坡轻量云都没有大陆优化线路了吗</title><link>https://www.v2ex.com/t/990233#reply0</link><description>&lt;p&gt;正值双十一，主要屯台主机用于救急或者部署些小服务。&lt;/p&gt;
+&lt;p&gt;推上有看到 ucloud ，去看了下，真是便宜，香港有优化的线路，&lt;em&gt;1C1G1m 的一年 120 ，还能买三年&lt;/em&gt;，不知道有没有坑？看它给的测试 IP ，延迟有点儿爽。&lt;/p&gt;
+&lt;p&gt;另外，顺便也一起问了，发现新开的腾讯和香港的新加坡机器，国内直连延迟极高，已经没法用了，只能换回 aws ，这是什么情况，现在都收紧了吗，还是我使用的姿势不对？&lt;/p&gt;
+&lt;p&gt;话说，之前买的腾讯香港轻量丐版，蛮稳的，奈何折腾内网穿透被 tx 给封掉了，然后香港云就涨价了，现在也很难买到了，哎。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990233#reply0</guid></item><item><title>[酷工作] 美国湾区 startup - Spover - 成都招募前端/全栈工程师！与前 zoom/google 大神一起工作的机会</title><link>https://www.v2ex.com/t/990232#reply0</link><description>&lt;h4&gt;职位：&lt;/h4&gt;
+&lt;p&gt;前端软件工程师/全栈软件工程师&lt;/p&gt;
+&lt;h4&gt;工作内容：&lt;/h4&gt;
+&lt;p&gt;负责 Go-To-Market 数据产品前端开发工作&lt;/p&gt;
+&lt;h4&gt;岗位要求：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;2 年以上实际前端开发工作经验&lt;/li&gt;
+&lt;li&gt;熟练掌握 javascript/typescript&lt;/li&gt;
+&lt;li&gt;熟练掌握 react&lt;/li&gt;
+&lt;li&gt;要掌握至少一门后端语言，Node.js 是大加分项，其他后端语言例如 Python 也可以&lt;/li&gt;
+&lt;li&gt;本科学历，985 或 211 是加分项&lt;/li&gt;
+&lt;li&gt;知名公司工作经历是加分项&lt;/li&gt;
+&lt;li&gt;较强英语读写能力，基本英语沟通能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;机会：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;在 RevOps(销售运营)数据行业创业公司中担任真正的软件领导角色，将软件开发与产品思维相结合。&lt;/li&gt;
+&lt;li&gt;您将设计日常活动，支持产品开发，以帮助实现可扩展到更大团队的宏伟目标。&lt;/li&gt;
+&lt;li&gt;您将直接与所有创始人合作，帮助塑造和执行产品路线图。&lt;/li&gt;
+&lt;li&gt;提供与我们 VC 组合中其他公司的指导、培训和发展研讨会/网络机会。您投入于我们，我们将投入于您。&lt;/li&gt;
+&lt;li&gt;对接美国一流的工作环境与企业文化。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;我们是谁：&lt;/h4&gt;
+&lt;p&gt;我们是 Spover &lt;a href="https://www.spover.us/" rel="nofollow"&gt;https://www.spover.us/&lt;/a&gt; 一个由 3 名技术创始团队组成的美国湾区 start-up ，拥有以下经验: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将 Zoom 从 4000 万美元扩大到 40 亿美元。&lt;/li&gt;
+&lt;li&gt;来自 Google 、Snapchat 和 Credit Karma 的软件工程经验。&lt;/li&gt;
+&lt;li&gt;支持 Go To Market 组织的数据科学。&lt;/li&gt;
+&lt;li&gt;早期创业公司员工经验。&lt;/li&gt;
+&lt;li&gt;我们位于旧金山湾区和洛杉矶。&lt;/li&gt;
+&lt;li&gt;我们致力于卓越和长期可持续的创造性产出。&lt;/li&gt;
+&lt;li&gt;我们期望您努力工作，但也会支持您过上充实的生活。&lt;/li&gt;
+&lt;li&gt;我们致力于扁平化组织，密切合作，并相互提供坦率反馈，以支持个人和职业增长。&lt;/li&gt;
+&lt;li&gt;我们目前拥有基于 Snowflake 、AWS 、DynamoDB 、AWS Serverless 、Python 、Node.js 、React.js 和 Next.js 构建的全栈 Web 应用程序。&lt;/li&gt;
+&lt;li&gt;中国团队办公地点 base 成都高新区，具备极佳的生活环境和工作氛围。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;您是谁：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;您拥有 Ownership 思维。&lt;/li&gt;
+&lt;li&gt;您自豪地解决未知问题并找到解决方案。&lt;/li&gt;
+&lt;li&gt;您可以轻松吸收信息，并能够向他人传达复杂的想法。&lt;/li&gt;
+&lt;li&gt;您不怕挑战现状，并为团队带来新的想法。&lt;/li&gt;
+&lt;li&gt;您能够描述您是如何颠覆不再具有目的的常见实践，或者如何在有机会改善公司或团队的情况下“打破规则”的。&lt;/li&gt;
+&lt;li&gt;您是一个积极的学习者。您在个人和职业发展中投入时间。您可以清晰地传达您的专业领域以及您的增长领域。&lt;/li&gt;
+&lt;li&gt;您具有 4 年以上的软件工程师经验。&lt;/li&gt;
+&lt;li&gt;您具有端到端工作的所有权记录，强大的组织能力和自律性。&lt;/li&gt;
+&lt;li&gt;您熟悉前端/后端编程语言。您渴望使用实际语言（如 JavaScript 、Python 和 SQL ）来发布产品，而不是固守特定技术。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;额外加分：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;您具有在 RevOps 和数据行业中的创业环境或创新团队工作经验。&lt;/li&gt;
+&lt;li&gt;您对客户与您的工作成果互动关系有很强的产品直觉和关心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;联系方式：&lt;/h4&gt;
+&lt;p&gt;Email: &lt;a href="mailto:ghostagram@gmail.com"&gt;ghostagram@gmail.com&lt;/a&gt; OR &lt;a href="mailto:bree@hopperclouds.com"&gt;bree@hopperclouds.com&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;注意事项：&lt;/h2&gt;
-&lt;p&gt;此程序部署于 Cloudflare Worker ，对于某些地区此加速链接加载速度略快于 pixiv[.]re&lt;/p&gt;
-&lt;p&gt;cf 每日免费额度为 10w 次请求，请不要滥用 QwQ&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 15:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990060#reply1</guid></item><item><title>[问与答] obsidian 日记如何生成目录简介及时间线？</title><link>https://www.v2ex.com/t/990059#reply3</link><description>目前记录了不少日记，但是看日记有点麻烦，只能一天天的点开查看，是否有某种方法可以生成一个目录文件？&lt;br /&gt;&lt;br /&gt;目录里可以显示某天干了啥，或者单纯生成日记的目录并建立反向链接（这个是重点，一个个手打然后建立链接太慢了），如果能有时间线功能就更好了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;大概类似以下：&lt;br /&gt;&lt;br /&gt;&lt;a href="http://日记目录.md" rel="nofollow noopener" target="_blank"&gt;日记目录.md&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;2023.10.1&lt;br /&gt;钓鱼&lt;br /&gt;2023.10.6&lt;br /&gt;爬山&lt;br /&gt;2023.10.12&lt;br /&gt;跳绳&lt;br /&gt;2023.10.22&lt;br /&gt;睡觉&lt;br /&gt;&lt;br /&gt;不晓得能否实现</description><pubDate>Wed, 08 Nov 2023 15:28:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990059#reply3</guid></item><item><title>[问与答] Linux 用户上限能达到理论值么？</title><link>https://www.v2ex.com/t/990058#reply3</link><description>&lt;p&gt;我有一个超大的 NFS 存储，里边有几百万用户的文件，每个用户文件在他自己 ID 命名的文件夹下，我需要创建一批容器给用户使用，可能有 100 个用户用到同一个容器，每个用户要访问他自己的文件夹，但不能访问别人的文件夹，我该怎么做，如果为每个文件夹设置权限，那我需要几百万个 linux 用户么，查了下这在理论用户数的范围内，但实操应该会有问题吧&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 15:27:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990058#reply3</guid></item><item><title>[Python] Python 有一个备份脚本 24 小时需要运行，怎么才能够在不终止脚本情况下动态新增脚本 是在 windows 端的</title><link>https://www.v2ex.com/t/990057#reply6</link><description>&lt;p&gt;需求：搞多个脚本运行在一台电脑，就是有些脚本可能得同时运行 24 小时不能停，怎么才能做的新增脚本并运行捏
-各位大佬帮帮忙&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 15:17:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990057#reply6</guid></item><item><title>[程序员] Javaagent 为什么我在 IDEA 里 debug 不到 ClassFileTransformer 的 transform 方法?</title><link>https://www.v2ex.com/t/990056#reply0</link><description>&lt;p&gt;我在 transform 方法中打印当前线程信息，输出是这样的：
-Thread[JDWP Transport Listener: dt_socket,10,system]
-也就是说这个 transform 是 JDWP 线程执行的，JDWP 不是打断点用的线程吗？&lt;/p&gt;
-&lt;p&gt;很疑惑啊，有两个疑问点，1.为什么 transform 方法是由这个线程执行的，2.为什么我断点不到 transform 方法。&lt;/p&gt;
-&lt;p&gt;有没有大佬指点一下！ orz&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 15:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990056#reply0</guid></item><item><title>[程序员] 笑死了， chatgpt 每次更新后都炸</title><link>https://www.v2ex.com/t/990055#reply3</link><description>&lt;p&gt;前一阵更新了一波后 api 服务炸了一波，昨天才刚刚开完发布会今天就又炸。这是后台服务写的这么垃吗还是纯粹 GPU 不够？&lt;/p&gt;
-&lt;p&gt;引流（感兴趣的话可以关注我的 X ）： &lt;a href="https://twitter.com/efnawm" rel="nofollow"&gt;https://twitter.com/efnawm&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 08 Nov 2023 15:12:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990055#reply3</guid></item><item><title>[酷工作] [大数据] [外企] [内推] [银行项目] [ Java ] [留学生]</title><link>https://www.v2ex.com/t/990054#reply0</link><description>[背景介绍]&lt;br /&gt;公司是恩士迅 NCS ，新加坡电信局全资子公司, 在中国成立时间悠久，可追溯到 2004 年，目前有：成都，深圳，杭州，苏州，上海，五个 center.&lt;br /&gt;&lt;br /&gt;[广州 招聘需求]&lt;br /&gt;JAVA 开发&lt;br /&gt;Kubernetes 开发&lt;br /&gt;Data Senior Principal Architect&lt;br /&gt;Machine Learning&lt;br /&gt;Automation Tester&lt;br /&gt;System Engineer&lt;br /&gt;Data Engineer&lt;br /&gt;Jave(全栈开发) Lead&lt;br /&gt;Data Engineer Python&lt;br /&gt;同时，也欢迎大家推荐给在中国的国际友人应聘我们的职位，对中文无要求，英语能沟通即可。&lt;br /&gt;也有一些国际友人(秘鲁,美国，巴基斯坦)入职我们公司，很有可能工位就在你旁边哈。&lt;br /&gt;&lt;br /&gt;[项目介绍]&lt;br /&gt;客户为 [星展银行 DBS ] ，星展银行 2022 年开始入局中国市场，目前仍然处于刚开始发展阶段。&lt;br /&gt;公司为星展银行提供技术支持。&lt;br /&gt;有机会转甲方&lt;br /&gt;&lt;br /&gt;[工作要求]&lt;br /&gt;具体的技能要求，我没有罗列，感兴趣就投，简历通过筛选，HR 会主动联系你的。&lt;br /&gt;公司不招实习生，也不存在年龄危机，目前公司也有年龄 40+，50+的开发人员，欢迎投递&lt;br /&gt;技术更新很快，紧跟开源社区&lt;br /&gt;英语要有技术上的沟通能力(听说读写)&lt;br /&gt;因为是国际化团队，项目上和你一起开发/共事的都是国外的同事(SG/India 居多)&lt;br /&gt;也有一些国际友人(秘鲁,美国，巴基斯坦)入职我们公司，很有可能工位就在你旁边哈。&lt;br /&gt;[福利待遇]&lt;br /&gt;基本薪资: 15k-20k(可以更高，因人而异)&lt;br /&gt;五险一金: 全额缴纳(年度总收入/12 个月)，公积金单边: 8%&lt;br /&gt;十三薪 : 12 月底发放额外一个月的基本 base 薪资&lt;br /&gt;年终奖 : 根据绩效考核, 1-3 个月，大部分人能拿 2 个月&lt;br /&gt;年假 : 12 天&lt;br /&gt;病假 : 15 天，好像是 12 天，我记不得了。。。&lt;br /&gt;[上班地点]&lt;br /&gt;广州黄浦区中新知识城龙腾大道 A2 栋(5F-6F)&lt;br /&gt;&lt;br /&gt;[个人介绍]&lt;br /&gt;我是公司的一名小小的职员，公司招聘需求量大，缺口大，目前团队规模 300 人，预估 500+&lt;br /&gt;码字不易，内容真实，挣个内推钱。&lt;br /&gt;微信：13840428980</description><pubDate>Wed, 08 Nov 2023 15:11:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990054#reply0</guid></item><item><title>[Grand Theft Auto] R 星官宣将在 12 月初公布 GTA 系列新作首个预告片</title><link>https://www.v2ex.com/t/990053#reply0</link><description>&lt;a href="https://twitter.com/RockstarGames/status/1722237703553798312" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/RockstarGames/status/1722237703553798312&lt;/a&gt;&lt;br /&gt;十年了十年了&lt;br /&gt;刚买的 4090 安排起来</description><pubDate>Wed, 08 Nov 2023 15:03:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990053#reply0</guid></item></channel></rss>
+&lt;p&gt;Spover is looking to hire software engineers to build best-in-class Go-To-Market data products.&lt;/p&gt;
+&lt;p&gt;Role: Front-end / Full Stack Software Engineer&lt;/p&gt;
+&lt;p&gt;Opportunity: A true software leadership role within a RevOps Data startup that will combine software development with product thinking. You will design daily activities that support product development to help achieve big-picture goals that will scale to a larger team. You will work directly with all the founders to help shape and execute the product roadmap. Access to coaching, training, and development workshops/networking opportunities with other companies in our VC portfolio. You invest in us, we’ll invest in you.&lt;/p&gt;
+&lt;p&gt;Who We Are: We are a technical founding team of 3 with the following experience: oScaling Zoom 100x from $40M to $4B. oSoftware engineering experience from Google, Snapchat, and Credit Karma. oData science supporting the Go-To-Market organization. oEarly startup experience. We’re based in the Bay Area and Los Angeles. We’re committed to excellence and long-term sustainable creative output. We expect you to work hard and support your efforts to live a full life. We’re committed to a flat organization, working closely together, and giving each other candid feedback to support each other’s personal and professional growth. We currently have a full-stack web application built on Snowflake, AWS, DynamoDB, AWS Serverless, Python, Node.js, React.js, Next.js&lt;/p&gt;
+&lt;p&gt;Who You Are: You have an ownership mindset. You take pride in tackling unknown problems and finding solutions. You assimilate information quickly and can communicate complicated ideas to others. You are fearless in challenging the status quo and bringing new ideas to a team. You can either describe how you have disrupted standard practices that were no longer serving a purpose, or how you would have “broken the rules” given the opportunity for the betterment of the company or team. You are an avid learner. You take time in your life for personal and professional development. You can communicate what you’re an expert in and your growth areas.&lt;/p&gt;
+&lt;p&gt;Your experience: You have 4+ years of experience as a software engineer. You have a track record of ownership over end-to-end efforts, strong organizational skills, and self-discipline. You’re comfortable with backend and front-end languages. You’re excited to ship products in practical languages such as JavaScript, Python, and SQL instead of being dogmatic about a specific technology.&lt;/p&gt;
+&lt;p&gt;Bonus points: You have experience working in a startup environment or innovation team in RevOps and/or Data. You have strong product intuition and care for how the customer interacts with your work deliverables.&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:52:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990232#reply0</guid></item><item><title>[问与答] GPT-4 (All Tools)没了，求解</title><link>https://www.v2ex.com/t/990231#reply1</link><description>&lt;p&gt;RT ，只是体验装么，才几天就消失了。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:51:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990231#reply1</guid></item><item><title>[Apple] 15PM 马上到了，准备直接登录美区 ID，搞好超大杯后，然后退出 ID 登录国区 ID 就行了吧</title><link>https://www.v2ex.com/t/990230#reply3</link><description>软件以后都是自动更新了吧，不存在要来回切换 ID 了吧&lt;br /&gt;&lt;br /&gt;另外，现在我 14PM 的国区账号绑定了绿米的全屋智能，就是 HOMEKIT&lt;br /&gt;&lt;br /&gt;这个我用美区登陆后，先登录绿米 APP ，再绑到美区 HOMEKIT 就行了吧&lt;br /&gt;&lt;br /&gt;还有啥要注意的地方</description><pubDate>Thu, 09 Nov 2023 05:46:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990230#reply3</guid></item><item><title>[问与答] 很早之前运行过一个程序，它可以加速指定程序的时钟，忘记叫什么了</title><link>https://www.v2ex.com/t/990228#reply8</link><description>&lt;p&gt;比如有闹钟程序，设定 10 分钟后响闹钟，然后加速后，1 分钟就响闹钟了&lt;/p&gt;
+&lt;p&gt;有知道这个程序叫什么名的吗&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:41:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990228#reply8</guid></item><item><title>[OpenAI] chatgpt 又挂了</title><link>https://www.v2ex.com/t/990224#reply26</link><description>&lt;a href="https://status.openai.com/" rel="nofollow noopener" target="_blank"&gt;https://status.openai.com/&lt;/a&gt;</description><pubDate>Thu, 09 Nov 2023 05:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990224#reply26</guid></item><item><title>[旅行] 下下周去 Perth 玩 7 天，完全没攻略，就提前租了个车，有没有指导意见，多多益善</title><link>https://www.v2ex.com/t/990223#reply1</link><description>&lt;p&gt;第一次去南半球，不知道会不会丢了方向 :doge:&lt;/p&gt;
+&lt;p&gt;听说野生动物有点多，尤其是突然出来的辣条。除此之外，衣食住行，有没有老哥给指点几句。&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:28:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990223#reply1</guid></item><item><title>[酷工作] 日本 IT 招聘|更新最新一些现场案件信息，大家考虑转职的可以看下，另外我们本社也有自社项目，企业直招，不是中介</title><link>https://www.v2ex.com/t/990222#reply0</link><description>&lt;p&gt;更新最近的一些案件信息：&lt;/p&gt;
+&lt;p&gt;1.12 月フルリモート案件
+Flutterを用いた開発経験
+・スクラム開発の経験
+・モバイルの開発経験
+・Webの開発経験
+3 名募集，※日语流畅必须&lt;/p&gt;
+&lt;p&gt;2.12 月 Vue.js 案件
+・Vue.jsの開発経験 2,3 年
+・クラウド環境での開発経験
+・Goの知見
+・PM/PL 経験（尚可）
+基本フルリモート&lt;/p&gt;
+&lt;p&gt;3.時期：12 月から
+場所：飯田橋
+スキル：①AccessVBA 開発経験がある方
+②設計経験がある方
+日本語：N1 、コミュニケーション重視
+面談：1 回&lt;/p&gt;
+&lt;p&gt;4.ショッピングセンター向けアプリ開発 12 月～　
+工程：製造～テスト　　　
+スキル：
+必須）
+・Androidの開発経験年数 1 年以上
+・kotlinを利用した開発経験 1 年以上&lt;/p&gt;
+&lt;p&gt;5.12 月豊洲/リモート半々
+shell 、SQL 開発経験
+設計～開発、テストまで対応可能
+DB 移行経験
+・SQLのチューニングが行える方
+日本語一級以上&lt;/p&gt;
+&lt;p&gt;关于我们会社 ID：株式会社 GSD
+关于会社网址：&lt;a href="http://www.g-s-d.co.jp" rel="nofollow"&gt;www.g-s-d.co.jp&lt;/a&gt;
+关于会社地址：東京都文京区大塚新大塚プラザ
+大家可以自行查看我们公司介绍哈&lt;/p&gt;
+&lt;p&gt;本社企业直招，有自社项目，案件稳定，与大手公司签直接口座，在很多项目有大量团队，各位技术小伙伴不用担心哈，我们营业给力！而且可申请高度人才最高加 20 分，三年拿永驻 坚决不内卷，可以实现生活和工作平衡！！！&lt;/p&gt;
+&lt;p&gt;福利待遇：全额交通费报销+加班费+每年至少涨薪一次+保险+社员旅行+高度人才加分（最高可加 20 分）+中国传统节假日礼品 周末双休，日本法定节假日放假，其他按公司要求休假 保险：健康保险、厚生年金、雇佣保险各种保险社会福利完备，公司额外还有灾害保险！
+薪资：300w-1000w 日元不等~如若您非常优秀，我们愿意给出更高的薪水报酬！&lt;/p&gt;
+&lt;p&gt;我们社也在招募技术者，不论您是哪一种技术方向大咖，我们都需要哈，但前提需要日语口语能力哈~欢迎各位大佬的加入！
+大家可以投递简历至 base64 码进行面试：YmVpYmVpNjc4MjAyM0AxNjMuY29t&lt;/p&gt;</description><pubDate>Thu, 09 Nov 2023 05:28:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990222#reply0</guid></item><item><title>[问与答] Mate30 Pro 内屏坏了，网上看一个屏幕总成要一千五六，大家有啥便宜点的渠道推荐么？</title><link>https://www.v2ex.com/t/990221#reply1</link><description>如题。</description><pubDate>Thu, 09 Nov 2023 05:27:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990221#reply1</guid></item><item><title>[Android] 未来的刷机小王子是啥？</title><link>https://www.v2ex.com/t/990220#reply25</link><description>&lt;h3&gt;当前现状&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;小米锁 BL 恶政，放弃&lt;/li&gt;
+&lt;li&gt;1+ 可以解锁但是无法刷海外系统/原生系统&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;未来还有哪个手机能成为刷机小王子？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;价格不贵，性能过得去，类比当前红米 K 系列&lt;/li&gt;
+&lt;li&gt;开源内核，三方 ROM 丰富&lt;/li&gt;
+&lt;li&gt;解锁方便&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 09 Nov 2023 05:12:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990220#reply25</guid></item></channel></rss>
