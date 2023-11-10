@@ -1,93 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 10 Nov 2023 05:26:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 键盘识别</title><link>https://www.v2ex.com/t/990652#reply0</link><description>&lt;p&gt;有大佬知道这是什么键盘吗？
-&lt;a href="https://i.imgur.com/ZQb6tX6.jpg" rel="nofollow"&gt;https://i.imgur.com/ZQb6tX6.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:23:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990652#reply0</guid></item><item><title>[问与答] 什么是 BRC20？</title><link>https://www.v2ex.com/t/990651#reply0</link><description>&lt;p&gt;是在 btc 网络上的发的代币吗？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:23:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990651#reply0</guid></item><item><title>[问与答] 验证码防刷如何不使用滑块，这个是怎么实现的</title><link>https://www.v2ex.com/t/990650#reply0</link><description>&lt;p&gt;网站：  &lt;a href="https://www.infoq.cn/form/?id=1898" rel="nofollow"&gt;https://www.infoq.cn/form/?id=1898&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;首次发送验证码不需要滑块，重新获取也不需要， 但是 f12, Replay XHR 会提示 &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{code: -2400, msg: "需要使用滑块"}
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;想问问这种是咋实现的，点击 ”发送“ 按钮做了什么操作吗？ 找了下这页面的前端代码，找不到实现代码&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:22:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990650#reply0</guid></item><item><title>[问与答] mhtml 保存语雀网页却不显示代码</title><link>https://www.v2ex.com/t/990649#reply0</link><description>&lt;p&gt;日常使用插件将网页保存为 mhtml 格式，以便收藏，使用颇为方便和满意。&lt;/p&gt;
-&lt;p&gt;今天用来保存语雀文档的网页，却只有文字和图片，而代码只有个空白框。&lt;/p&gt;
-&lt;p&gt;请我有什么好的解决方法？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:20:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990649#reply0</guid></item><item><title>[宽带症候群] 新房即将入住，小白准备踏上家庭影音、网络折腾之路，为少走弯路求前辈们建议</title><link>https://www.v2ex.com/t/990647#reply0</link><description>&lt;p&gt;年近而立终于拥有了属于自己的房子了，以前只是在网上看看大家怎么折腾，从没有亲身实践过，这下终于可以从头开始折腾了，所以来寻求以下老哥们的经验&amp;amp;建议&lt;/p&gt;
-&lt;h3&gt;首先说明情况&lt;/h3&gt;
-&lt;p&gt;房子是二手房微改，所以网络硬件基建很简陋。联通千兆宽带, 入户光纤 ---&amp;gt; (弱电箱: 联通光猫) ----&amp;gt;(客厅电视墙网口 1: 主路由 H3C NX54) ----&amp;gt;(客厅电视墙网口 2) ----&amp;gt;(次卧网口)&lt;/p&gt;
-&lt;p&gt;电视无脑入了大法 85X90L ，因为平时喜欢看影视剧，想要更高层次的影音体验，所以就打算围绕它开始折腾之路&lt;/p&gt;
-&lt;h3&gt;需求&lt;/h3&gt;
-&lt;p&gt;体验国外流媒体（大法的电视听过跟 Netflix 很配，有针对的调教）、自己下一些高质量的影视剧资源在电视上看
-以后有时间慢慢给次卧打造成电竞房&lt;/p&gt;
-&lt;h3&gt;之后想要折腾的&lt;/h3&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 10 Nov 2023 15:21:47 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 大陆访问 OpenAI 官网的 GPT 有哪些方式</title><link>https://www.v2ex.com/t/990820#reply0</link><description>&lt;p&gt;除了使用境外手机卡和租服务器，有哪些相对廉价的方式访问 GPT&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 15:16:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990820#reply0</guid></item><item><title>[Apple] iPhone 的 wificalling 突然没了怎么弄出来？</title><link>https://www.v2ex.com/t/990819#reply1</link><description>&lt;p&gt;今天晚上 iphone 的 wificalling 突然没了，不知道咋回事，重启，重置都出不来，请问朋友们有什么好的办法吗？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 15:02:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990819#reply1</guid></item><item><title>[生活] 分享一下买过的三个电加热手套,主要用于骑电动改善体验</title><link>https://www.v2ex.com/t/990818#reply0</link><description>&lt;p&gt;冬天骑电动车虽然有厚车把套,还有电加热车把,手指还是会因为处于前沿感觉一点点冷,所以想尝试一下电加热手套让手指舒服点.就买了 3 款手套,从上到下记为 ABC,价格分别是 256 92 161.&lt;/p&gt;
+&lt;p&gt;AB 是薄款的可以插进车把套里,C 是摩托车款的,不能插进车把套里,太宽了.&lt;/p&gt;
+&lt;p&gt;A 是比较满意的,电热丝是沿着手指侧布局的,这样整个手都是有加热的,不足之处是不够防风,冷风竟然能透进来.&lt;/p&gt;
+&lt;p&gt;B 是最差劲的,也是最热的,有三挡调节,第一档就热的我受不了,纯手心加热,如果骑电动车的话肯定会用力握车把就更热了,怕低温烫伤戴五分钟就退货了.&lt;/p&gt;
+&lt;p&gt;C 也比较一般,设计的时候想的很好,实际根本没法好好戴,手套下部的太长太宽了,外套袖子要么套不进去要么被电池仓卡主,体验很差,感觉是给滑雪准备的.&lt;/p&gt;
+&lt;p&gt;放图,用 G502 做大小示范&lt;/p&gt;
+&lt;p&gt;&lt;img alt="2.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/10/87XtwPVYmkQAcih.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:59:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990818#reply0</guid></item><item><title>[程序员] iPhone 的相册导入功能失效了吗？</title><link>https://www.v2ex.com/t/990817#reply0</link><description>&lt;p&gt;外置了 U 盘插入，相册的导入无法看到 U 盘中的相片/视频，请问这个功能是阉割了嘛？&lt;/p&gt;
+&lt;p&gt;我是了 3 台手里的 Iphone 都不行，分别是 Iphone15Pro/iphone13Pro/iphone13, 是不是我的操作姿势不对？&lt;/p&gt;
+&lt;p&gt;当然 U 盘中文件还是可以复制到 iPhone 中没问题的，说明 U 盘没问题，iPhone 也没问题。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:52:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990817#reply0</guid></item><item><title>[问与答] 为啥现在雨伞都是伞面涂黑胶的？</title><link>https://www.v2ex.com/t/990816#reply2</link><description>&lt;p&gt;防晒估计是好了，用个几年就变粘，一摸一手黑糊糊的涂料。跟以前鼠标、手柄上流行的类肤材质似的。&lt;/p&gt;
+&lt;p&gt;电商平台看了七八家，全是涂胶的。求面积大、不涂胶的折叠伞推荐。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:50:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990816#reply2</guid></item><item><title>[酷工作] 跳出现有业务部门去做独立研究小组，可行么？</title><link>https://www.v2ex.com/t/990810#reply3</link><description>背景：&lt;br /&gt;1.前部门老大刚调走，原先副的提正了，现在我上面就只剩现老大了，我自己近两年也一直有实无名在做副这个岗位相关的部分工作&lt;br /&gt;2.近期现老大找我商量，公司有意专门拉一个小团队专门做 AI 方向研究和边界探索，以及推动 AI 与产品和业务的结合转化&lt;br /&gt;3.该小组目前规划长期维持至少五人左右，去的话跳出现有业务开发工作，不再做原先的工作内容，自己定方向，定产出，直接向老板汇报。我可以自己指定从原先部门要人，或者自己从外面重新招人，问我有没有兴趣和意向&lt;br /&gt;&lt;br /&gt;我的想法和顾虑：&lt;br /&gt;好处：&lt;br /&gt;1.原部门想熬成正短期是希望不大了，小组能证明确实有价值也许能曲线救国&lt;br /&gt;2.确实是个新方向，为了实现目的倒逼学习新东西，只从技术上看不是坏事&lt;br /&gt;3.脱离粪坑业务也许能做点我喜欢的事，更何况还是自己定产出&lt;br /&gt;坏处：&lt;br /&gt;1.公司没有自己做模型的能力，这个所谓小组愿景是很好，但是说白了还是换个方式调包，而且看起来是个虚职部门，眼前看很难有什么产出。&lt;br /&gt;2.压力大。要自己找方向，还得向老板汇报，向上要满意，没什么底气&lt;br /&gt;3.怕把自己搞废了，且担心公司一天一个态度，到时候又不重视这部分东西了，到时候又扫地回原部门。&lt;br /&gt;4.总觉得哪里不靠谱，但是又说不上来。&lt;br /&gt;&lt;br /&gt;v 友们的意见呢，该不该去？</description><pubDate>Fri, 10 Nov 2023 14:18:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990810#reply3</guid></item><item><title>[Windows] 有木有人知道 win11 在多显示器启用虚拟桌面的情况下如果给不同虚拟桌面的不同显示器设置不同壁纸？</title><link>https://www.v2ex.com/t/990808#reply0</link><description>&lt;p&gt;在没有启用虚拟桌面的情况下，win11 原生就支持给不同显示器设置不同壁纸&lt;br /&gt;
+但是启用虚拟桌面以后，win11 只能给不同的虚拟桌面设置统一的壁纸，无法再给不同显示器设置不同的壁纸&lt;br /&gt;
+有木有人知道有什么轻量小软件能解决这个痛点的？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:13:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990808#reply0</guid></item><item><title>[MacBook Pro] MacBook Pro 选择 M1max 64 还是 M2 Max 32</title><link>https://www.v2ex.com/t/990807#reply0</link><description>&lt;p&gt;RT 好纠结&lt;/p&gt;
+&lt;p&gt;都是 14 寸 该怎么选择，价格差的不多&lt;/p&gt;
+&lt;p&gt;后者的价格可以上美版 16 寸 1max 64g 2t 了&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:08:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990807#reply0</guid></item><item><title>[程序员] 京东 plus 和 qq 音乐联名卡,还能购买吗?哪位大佬给个链接,谢谢.</title><link>https://www.v2ex.com/t/990806#reply1</link><description>&lt;p&gt;如题,找不到了,哪位大佬给个链接,谢谢.&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 14:00:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990806#reply1</guid></item><item><title>[Android] 想买一台三星 Galaxy Fold 5～</title><link>https://www.v2ex.com/t/990805#reply1</link><description>&lt;p&gt;其实是想买一台折叠机，最终决定三星，最新的 Fold5 合起来没有缝隙折痕也轻了不少。
+我也是第一次用三星手机，有几个问题想请教下大家：&lt;/p&gt;
+&lt;p&gt;1.是买国行还是港版？港版的 samsung pay 在大陆能否使用？我有浏览有个帖子说台版系统甚至能用公交卡？&lt;/p&gt;
+&lt;p&gt;2.解锁&amp;amp;root ，现在是否还会熔断 KNOX ？现在有没有什么解决或者绕过的方法？如果退而求其次只解锁的话会不会熔断 KNOX ？&lt;/p&gt;
+&lt;p&gt;3.三星的应用商店，三星的账号和应用商店是否和 Google play 一样是分区的？美区日区港区台区会提供特色内容并且不能简单换区？&lt;/p&gt;
+&lt;p&gt;4.如果有香港的朋友，请教下怎么买 Fold5 比较优惠？香港三星的教育账号有方法获得吗？内地有咸鱼还是比较容易获得教育账号，单纯想省点钱不喜勿喷。&lt;/p&gt;
+&lt;p&gt;第一次用三星&amp;amp;第一次用折叠机，还请大佬们，机油们，星粉们不吝赐教。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 13:58:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990805#reply1</guid></item><item><title>[分享发现] 我做了一个雅思作文评分的 GPTs</title><link>https://www.v2ex.com/t/990803#reply2</link><description>&lt;p&gt;上传了官方的评分标准，测试下来非常准确。
+正在准备考试的朋友不要错过。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://chat.openai.com/g/g-rLGM4XSaZ-ielts-writing-rater-and-advisor" rel="nofollow"&gt;https://chat.openai.com/g/g-rLGM4XSaZ-ielts-writing-rater-and-advisor&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 13:48:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990803#reply2</guid></item><item><title>[问与答] 大家来说一下今年双十一买了什么软件永久会员或者订阅</title><link>https://www.v2ex.com/t/990799#reply2</link><description>本人由于最近看这种帖子比较多，双十一没打折的也入手了好几个，在这里分享一下战况：&lt;br /&gt;1 ，Pandora 27 订阅管理软件&lt;br /&gt;2 ，tweetx  38  推特第三方客户端&lt;br /&gt;3 ，不背单词&amp;amp;轻听英语组合永久会员   249  英语学习&lt;br /&gt;4 ，stay safari 油猴+m3u8 下载  28&lt;br /&gt;5 ，es 文件浏览器  7 刀  百度网盘无会员也能解压，速度还很快，主要支持一下，会员没什么特殊功能&lt;br /&gt;6 ，已阅  影视记录软件  60&lt;br /&gt;7 ，b 站大会员一年  88&lt;br /&gt;&lt;br /&gt;买过的永久会员里面理财最成功的应该是搜图神器，当初 25 元，现在双十一都要 150 了，功能不少&lt;br /&gt;大佬们还有什么推荐入手的会员吗，p 站助手、笔记软件、代理工具、adguard 等都已经买了&lt;br /&gt;求安利！！</description><pubDate>Fri, 10 Nov 2023 13:21:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990799#reply2</guid></item><item><title>[问与答] 手机屏幕碎了去售后修坏了，应该给钱吗？</title><link>https://www.v2ex.com/t/990798#reply4</link><description>&lt;p&gt;小米手机屏幕摔坏了，内屏坏了一个点，能看到彩色，但基本不影响使用，去小米售后咨询，内存一千多不值当换，说是还可以换外屏，和售后沟通说换外屏如果导致内屏损坏扩大或者损坏算师傅的责任。
+结果第二天告诉我修坏了，拆的时候漏液了，说给找个瑕疵屏，之前说的三百多，这种情况怕有暗病，给多少合适？或者不给？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 13:16:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990798#reply4</guid></item><item><title>[微软] Microsoft Remote Desktop 又 Error code: 0x204</title><link>https://www.v2ex.com/t/990797#reply0</link><description>&lt;p&gt;这次清理 下面两个缓存文件也无效了 ...&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;海克斯科技信号塔/海克斯科技核心（外网环境）&lt;/p&gt;
-&lt;p&gt;网络的必要性自然不必多说，之前因为需求不大偶尔翻一翻，只是用的白嫖的机场（ TLY ，最近似乎跑路了）
-然后是选用什么样的硬件：路由器刷固件？旁路由？新的 Apple TV ？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;软路由/Mini 主机&lt;/p&gt;
-&lt;p&gt;其实和上面的可能有点重复&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Apple TV&lt;/p&gt;
-&lt;p&gt;国行的索尼电视阉割严重，换主板的话可能比较折腾，是不是买个苹果牌电视盒子会比较方便？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;NAS&lt;/p&gt;
-&lt;p&gt;自己下载高清的影视资源，还有给小姐姐们一个家，但是之后公网 ip/内网穿透可能是个问题，如果想要远程访问的话&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mac Mini&lt;/p&gt;
-&lt;p&gt;主要是一直以来只有个 iPhone ，想要体验一下 MacOS 和苹果生态，这个应该是最便宜的能买到的 MacOS 设备了吧&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;游戏主机
-目前手上有个 Switch ，考虑之后买个电视的绝佳搭档 PS5&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;com.microsoft.rdc.macos&lt;/li&gt;
+&lt;li&gt;com.plausiblelabs.crashreporter.data&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;目前能想到的暂时这么多，所以关于折腾的方面，有没有老哥能给点建议，哪些必要哪些不必要，哪些设备好哪些设备不好。还有主要就是有没有什么好的文字教程/视频博主推荐，先感谢大家了！&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:17:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990647#reply0</guid></item><item><title>[macOS] mac 如何控制第二台显示器的开和关</title><link>https://www.v2ex.com/t/990644#reply2</link><description>&lt;p&gt;有软件吗?每次用按钮 感觉按钮快坏了&lt;/p&gt;
-&lt;p&gt;主显示器 要用
-扩展显示器偶尔用
-所以想着用软件控制下&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:10:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990644#reply2</guid></item><item><title>[Visual Studio Code] vscode 插件集成本地模块</title><link>https://www.v2ex.com/t/990643#reply0</link><description>&lt;p&gt;如何在 vscode 插件中集成一个本地模块，例如 nodegit 。使用这个模块是因为 child_process + git 速度太慢，有大佬了解过吗&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:09:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990643#reply0</guid></item><item><title>[分享创造] 发现有点提笔忘字了</title><link>https://www.v2ex.com/t/990642#reply0</link><description>快奔三了, 刚才午休的时候在脑海里想了一些事情: `也许会憧憬 xx 后的生活吧`.&lt;br /&gt;突然, 脑海里想不起来 `憧憬` 这俩字咋写的了.&lt;br /&gt;上学的时候经常听长辈说自己提笔忘字, 没想到轮到我了 :(</description><pubDate>Fri, 10 Nov 2023 05:05:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990642#reply0</guid></item><item><title>[AirPods] 关于 airpods 的自动人耳检测的功能</title><link>https://www.v2ex.com/t/990641#reply0</link><description>&lt;p&gt;这个功能关掉以后发现耳机可以在充电仓里面一边充电一般播放？
-记得以前是要拿出来才行 现在关掉自动人耳检测打开盖子后手机上的音乐就自动切换到耳机在充电仓里响起来
-是我的记忆出现问题了吗&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 05:01:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990641#reply0</guid></item><item><title>[Java] Java 如何优雅地在 main 方法执行前后执行代码</title><link>https://www.v2ex.com/t/990640#reply5</link><description>&lt;p&gt;白猫今天被难翻了, 研究了一上午也没有找到「如何在 main 方法执行前后执行代码」, 提这个问题的目的是, 我今天准备做个统计代码运行时间的工具, 这个非常简单, 就不多说了, 但是每次运行 main 方法的时候都要使用统计工具进行统计就很不雅观&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public static void main(String[] args) {
-    ZYTime time = new ZYTime();
-    System.out.println("hello world!");
-    time.stop();
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;所以我想的是在&lt;code&gt;main&lt;/code&gt;方法上加一个注解可以&lt;code&gt;hook&lt;/code&gt;到方法执行前后的时刻, 比如&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public class Solution1 {
-    @StatisticalTime
-    public static void main(String[] args) {
-        System.out.println("hello world!");
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我只想在这个解题的文件中优雅的统计执行时间, 请大神支招, 所谓优雅就是做完前置工作之后, 在真正需要用到功能的地方可以无痛使用, 除了注解还有没有其他解法呢, 白猫拜谢&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:57:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990640#reply5</guid></item><item><title>[VPS] 私有日本家宽车</title><link>https://www.v2ex.com/t/990639#reply0</link><description>自有私人家宽小鸡。&lt;br /&gt;2c 4g 100g 1000mpbs 带核显 日本家宽&lt;br /&gt;ipv4 nat （无 v4 公网） + ipv6 公网&lt;br /&gt;&lt;br /&gt;cpu,gpu,网络，不能长时间高负载&lt;br /&gt;&lt;br /&gt;10 刀（ 70 元）一个月&lt;br /&gt;可 win vps ，带核显，能远程。（ win 给 parsec 远程）&lt;br /&gt;可换 linux ，可自己 dd 。（换 linux 后没有核显）（ linux 给 ipv6 ssh ）&lt;br /&gt;&lt;br /&gt;低调私人小鸡，人少，保稳。&lt;br /&gt;干坏事的就别来了，遇到直接拔网线不退。&lt;br /&gt;位置少。&lt;br /&gt;&lt;br /&gt;仅限个人使用，&lt;br /&gt;商业使用请私-&amp;gt;可拉单独线。&lt;br /&gt;&lt;br /&gt;***无 v4 公网，小鸡只有 v4 内网。有 v6 公网。&lt;br /&gt;&lt;br /&gt;tg: eGlvbmd3dXlh (base64)</description><pubDate>Fri, 10 Nov 2023 04:50:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990639#reply0</guid></item><item><title>[宽带症候群] 是不是最近韩国线路有问题</title><link>https://www.v2ex.com/t/990636#reply0</link><description>&lt;p&gt;坐标北京联通，大概两个星期前开始，打游戏开加速器，韩服节点都延迟多了 10ms 以上，然后就开始折腾，以为是自己的网络问题，昨天问了个朋友，他也是这情况，是不是韩国线路有问题了。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:35:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990636#reply0</guid></item><item><title>[OpenAI] GPTs 能做什么？爱好者集合</title><link>https://www.v2ex.com/t/990635#reply0</link><description>&lt;h2&gt;GPTs 一发布，朋友们炸了,朋友圈也炸了！&lt;/h2&gt;
-&lt;p&gt;欢迎 GPTs 爱好者们入群一起讨论，交流。
-目前群里已经有了多位 gpt 领域创业小老板~&lt;/p&gt;
-&lt;h3&gt;计划动手做一个 GPTs 信息分发项目，1 天后见&lt;/h3&gt;
-&lt;h3&gt;感兴趣的看最后加群讨论&lt;/h3&gt;
-&lt;h3&gt;群里会分享我们看到好玩的 GPTs 应用&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="alt 评论" class="embedded_image" rel="noreferrer" src="https://link2cn.oss-cn-hangzhou.aliyuncs.com/yingxiao/WechatIMG129.jpg" /&gt;
-&lt;img alt="alt 评论" class="embedded_image" rel="noreferrer" src="https://link2cn.oss-cn-hangzhou.aliyuncs.com/yingxiao/WechatIMG130.jpg" /&gt;
-&lt;img alt="alt 评论" class="embedded_image" rel="noreferrer" src="https://link2cn.oss-cn-hangzhou.aliyuncs.com/yingxiao/WechatIMG131.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:31:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990635#reply0</guid></item><item><title>[Redis] redis 集群中 执行事务 或者 lua 脚本 涉及到多个 key 时，这些 key 要求在同一个节点还是同一个 slot？</title><link>https://www.v2ex.com/t/990634#reply3</link><description>事务中有多个 key ，lua 脚本也会操作多个 key 。&lt;br /&gt;&lt;br /&gt;如果这些 key 能够散列在同一个 slot ，那没什么问题。&lt;br /&gt;&lt;br /&gt;如果这些 key 之确保散列在同一个节点，可以吗？ 大部分博客都只说要求散列在同一个 slot 。 &lt;br /&gt;&lt;br /&gt;散列在同一个节点会有问题吗？ 有没有相关参考文档？</description><pubDate>Fri, 10 Nov 2023 04:20:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990634#reply3</guid></item><item><title>[程序员] 白嫖：前端访问历史如何设计？</title><link>https://www.v2ex.com/t/990633#reply3</link><description>&lt;p&gt;WEB 前端主要功能是各种查询，现在要实现基于每个用户的访问历史，每一条基本上就是之前的一堆查询结果，要求状态持久化。请问应该如何设计？需不需要一个轻量级数据库？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:14:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990633#reply3</guid></item><item><title>[MIUI] MIUI 极致模式 开启全局高刷新率（红米 K60）</title><link>https://www.v2ex.com/t/990632#reply0</link><description>&lt;p&gt;MIUI 的开发者选项里有个极致模式&lt;/p&gt;
-&lt;p&gt;开启后，K60 可以全局高刷新率 120Hz ，包裹一些锁帧的 APP ，像爱奇艺、腾讯、咸鱼这个都能开 120Hz ，&lt;/p&gt;
-&lt;p&gt;如果找不到极致模式可以用 ADB 命令
-adb shell settings put Secure speed_mode_enable 1
-可打开极致模式&lt;/p&gt;
-&lt;p&gt;问题来了：
-MIUI 总是自动关掉这个选项，有没有办法能防治它自动关掉极致模式？？？&lt;/p&gt;
-&lt;p&gt;希望有好心人分享一下，谢谢❤&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:14:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990632#reply0</guid></item><item><title>[问与答] 电脑机箱外壳带电 100V，但触摸无感，这是怎么回事？</title><link>https://www.v2ex.com/t/990631#reply6</link><description>这种好像是由于电磁效应产生的感应电，不知道这种感应电有危险吗？耗能吗？怎样判断是漏电还是感应电呢？</description><pubDate>Fri, 10 Nov 2023 04:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990631#reply6</guid></item><item><title>[OpenAI] 有没有人少一点的 gpt plus 车？</title><link>https://www.v2ex.com/t/990630#reply3</link><description>&lt;p&gt;长久一点稳一点 我用量不是很大&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:12:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990630#reply3</guid></item><item><title>[生活] 近一年，我开车的频率越来越低</title><link>https://www.v2ex.com/t/990629#reply6</link><description>&lt;p&gt;自从去年双十一买了辆雅迪电动自行车，截止到今天，我看了下公里数发现比汽车还多&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;电动自行车 3650km&lt;/li&gt;
-&lt;li&gt;汽车才 3200km&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;城市郊区基本上电瓶车代步，汽车使用频率越来越低。分析下导致我这样做有两点，①电瓶车方便，在城市通行比汽车节约时间，特别是停车；②省钱，320Li 每次加一箱油觉得很心疼。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:09:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990629#reply6</guid></item><item><title>[求职] 练习时长“近两年”的个人前端练习生</title><link>https://www.v2ex.com/t/990628#reply3</link><description>&lt;p&gt;求职：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;熟练掌握 HTML 、CSS 、JS 、ES6 、Axios 等，能够快速构建高效、稳定的 Web  页面。&lt;/li&gt;
-&lt;li&gt;熟练使用 Vue ，能够运用 Vue  全家桶和 Element  独立完成 Web  页面的开发和维护，提高开发效率。&lt;/li&gt;
-&lt;li&gt;熟练使用 Echarts 和 Antv 图表，能够开发数据可视化大屏项目，提升数据呈现效果。&lt;/li&gt;
-&lt;li&gt;熟悉前端工程化，掌握项目的配置、优化、打包等技巧，提高项目开发效率和质量。&lt;/li&gt;
-&lt;li&gt;了解 React  技术，有过相关项目经验，能够快速掌握并用于生产环境。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;邮箱：MTU1MTU5MTkxMjJAMTYzLmNvbQ==&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 04:07:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990628#reply3</guid></item></channel></rss>
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/PlUJfNJ.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 13:15:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990797#reply0</guid></item><item><title>[Netflix] 求 Netflix 电视盒子推荐</title><link>https://www.v2ex.com/t/990796#reply1</link><description>迫于穷，追求性价比，想在咸鱼淘一个电视盒子：&lt;br /&gt;&lt;br /&gt;---------1  支持 Netflix  1080p 即可&lt;br /&gt;&lt;br /&gt;---------2  流畅不卡顿。预算 150 以内&lt;br /&gt;&lt;br /&gt;---------3 。运存和存储空间大一点好 2+16? 不懂行情 这个价格一般多少前&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;       求各位不吝赐教普及一下，推荐一下。  另外有再看小米 4 的 mdz-21AA ， 但是又分国际版和国内版 ，国内版不支持 网飞，搞蒙了，希望有懂的人普及一下</description><pubDate>Fri, 10 Nov 2023 13:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990796#reply1</guid></item><item><title>[Cloudflare] 今天 cloudflare 又抽风了吗?</title><link>https://www.v2ex.com/t/990793#reply1</link><description></description><pubDate>Fri, 10 Nov 2023 12:56:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990793#reply1</guid></item><item><title>[小米] 美版小米回来可以直接用吗？</title><link>https://www.v2ex.com/t/990792#reply0</link><description>&lt;p&gt;美亚上的小米有 Global Version Unlocked(ONLY Tmobile Mint Tello USA Market) ；
+还有 Global Unlocked Worldwide (Tmobile Mint Tello Global) 。
+这些拿回来能直接用吗，我看有人说必须在美国激活，也不知道什么意思？&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 12:52:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990792#reply0</guid></item><item><title>[MacBook Pro] 这个配置的 16 寸 M1 Max 64G 2T 18500 元有坑吗？</title><link>https://www.v2ex.com/t/990791#reply0</link><description>&lt;p&gt;美版全新拆封未激活，某鱼口碑很好
+16 寸顶配 18500 ，这个不知道有没有坑&lt;/p&gt;
+&lt;p&gt;选这个还是选 M3 pro 18G+1T&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 12:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990791#reply0</guid></item><item><title>[分享创造] 作为创业者，你可以做任何你想做的事，但不能做你想做的一切</title><link>https://www.v2ex.com/t/990790#reply0</link><description>&lt;p&gt;创业感想：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzg4Mjk4MTAyMA==&amp;amp;mid=2247483995&amp;amp;idx=1&amp;amp;sn=865221a86283f84ad1a5092690376f60&amp;amp;chksm=cf4f23a8f838aabe06cafc9324a3fc94e8ee445fa120afabfeeeae6c3cf15d7feed690ccb296#rd" rel="nofollow"&gt;你可以做任何你想做的事，但不能做你想做的一切&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 12:40:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990790#reply0</guid></item><item><title>[WordPress] wordpress 从 2010 年的 3.0 用到现在的 6.4，第一次出现巨大 bug</title><link>https://www.v2ex.com/t/990789#reply0</link><description>&lt;p&gt;&lt;a href="https://wptavern.com/wordpress-6-4-1-fixes-a-critical-curl-requests-bug" rel="nofollow"&gt;https://wptavern.com/wordpress-6-4-1-fixes-a-critical-curl-requests-bug&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cURL bug 太致命了，导致很多插件无法工作，包括我的缓存爬虫。&lt;/p&gt;
+&lt;p&gt;必须马上升级 6.4.1 才正常。&lt;/p&gt;</description><pubDate>Fri, 10 Nov 2023 12:38:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/990789#reply0</guid></item></channel></rss>
