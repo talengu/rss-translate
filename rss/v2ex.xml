@@ -1,125 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 13 Nov 2023 09:32:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] apple 授权店以旧换新能拿到官方价吗</title><link>https://www.v2ex.com/t/991545#reply0</link><description>&lt;p&gt;因为有消费券，授权店可以便宜 500&lt;/p&gt;
-&lt;p&gt;现在 13pm 官网以旧换新可以抵扣 4k9&lt;/p&gt;
-&lt;p&gt;闲鱼 4k8 好像都没人问津 81 电池度，边框磕碰&lt;/p&gt;
-&lt;p&gt;13pm 换电池成本又很高，过一年二手折损估计 4k 下了，感觉直接上 15pm ，每年使用成本也不会高太多&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:27:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991545#reply0</guid></item><item><title>[问与答] Bartender 5 升级问题</title><link>https://www.v2ex.com/t/991544#reply0</link><description>&lt;p&gt;之前使用 Bartender 4 的版本，这次打算升级 5.&lt;/p&gt;
-&lt;p&gt;之前是在闲鱼买的激活码，可能是多人车位。车主不打算升级 5.如果自己升级，是补差价还是可以退车上别人的车位？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:26:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991544#reply0</guid></item><item><title>[macOS] Sonoma 的菜单栏里，麦克风常亮的问题，你遇到过吗？</title><link>https://www.v2ex.com/t/991543#reply0</link><description>可稳定复现场景：使用 QuickTime ，把 iPhone 用数据线投屏到 Mac 看 NBA （百视只有手机端），看完拔线后，Mac 的麦克风图标就这么一直亮着了，没找到直接关闭的地方&lt;br /&gt;&lt;br /&gt;试过无效的方法：QuickTime 强制退出、活动监视器把 Audio 相关的活动进程 kill 掉&lt;br /&gt;&lt;br /&gt;唯一试了有效的是重启 Mac ，但不想老重启，想问问大伙儿有没有其他办法？&lt;br /&gt;&lt;br /&gt;系统 14.1 正式版&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/y4mNbPH.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/y4mNbPH.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 13 Nov 2023 09:25:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991543#reply0</guid></item><item><title>[问与答] 回音壁 Q600B 建议用蓝牙连接还是线连接呢？</title><link>https://www.v2ex.com/t/991542#reply1</link><description>刚买了一个 Q600B 回音壁，带后环 9200s ，感觉线太多了，能不能用蓝牙连接啊。&lt;br /&gt;&lt;br /&gt;补充：电视设备是 sony 的 75x90L</description><pubDate>Mon, 13 Nov 2023 09:18:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991542#reply1</guid></item><item><title>[分享创造] 备忘录+翻译+文件搜索+ChatGPT=Airy，给 V 站老哥前 1000 个用户都送终身会员</title><link>https://www.v2ex.com/t/991541#reply24</link><description>&lt;p&gt;这几个月做了一个 win 和 mac 双端的效率软件 all in one 软件&lt;/p&gt;
-&lt;p&gt;官网：&lt;a href="https://colink.in/" rel="nofollow"&gt;https://colink.in/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前已经有的功能是&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 13 Nov 2023 18:10:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Surge] Surge iOS 新车 1 等 2</title><link>https://www.v2ex.com/t/991654#reply0</link><description>&lt;p&gt;Surge for iOS 2 位置，130/位，订阅更新至 2024/11/12 。&lt;br /&gt;
+如要换设备可自行反激活，跳车不退。&lt;br /&gt;
+有新功能协商愿意继续订阅。&lt;/p&gt;
+&lt;p&gt;tg：&lt;a href="https://t.me/UnixVer" rel="nofollow"&gt;点我&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 18:09:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991654#reply0</guid></item><item><title>[程序员] macos mtr cpu 占用过高怎么解决</title><link>https://www.v2ex.com/t/991652#reply0</link><description>&lt;p&gt;m 系列的 cpu ，一般除了 inter 转译的 app 外都不会出现发热，今天摸了下很烫&lt;/p&gt;
+&lt;p&gt;看进程 mtr 的 cpu 占用是 100%，用过但是已经关闭 terminal 很久了，按理来说是不会有后台的&lt;/p&gt;
+&lt;p&gt;但是后台一直存在并且占满 cpu&lt;/p&gt;
+&lt;p&gt;目前是先直接卸载了 mtr&lt;/p&gt;
+&lt;p&gt;有遇到过的大佬都是怎么解决的呢&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 17:38:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991652#reply0</guid></item><item><title>[求职] 一年经验无人机, 安全, rust 方向研发求捞</title><link>https://www.v2ex.com/t/991651#reply0</link><description>&lt;p&gt;全干骡子做得很杂, 写 web, 做逆向, 折腾 linux, 裁内核, 网卡驱动移植, 连 badusb 都做过, 😿求捞啊.&lt;/p&gt;
+&lt;h1&gt;简历&lt;/h1&gt;
+&lt;p&gt;22 届大数据专科, 电邮: 9i36iqh38@mozmail.com; 微信 (base64): ZnJhY3RhbGRpbGRv;
+&lt;a href="https://www.v2ex.com/rainbowflesh.github.io" rel="nofollow"&gt;博客&lt;/a&gt; &lt;a href="http://rainbowflesh.github.io" rel="nofollow"&gt;rainbowflesh.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;我会什么&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;AI 备忘录&lt;/li&gt;
-&lt;li&gt;AI 翻译&lt;/li&gt;
-&lt;li&gt;ChatGPT 对话（ V 站老哥应该用不到）&lt;/li&gt;
-&lt;li&gt;文件搜索&amp;amp;应用快开（ win 版基于 everything ，mac 基于 spotlight ）&lt;/li&gt;
-&lt;li&gt;截图和窗口管理功能正在开发&lt;/li&gt;
+&lt;li&gt;全英文工作环境.&lt;/li&gt;
+&lt;li&gt;熟悉 Linux 开发环境.&lt;/li&gt;
+&lt;li&gt;熟悉 &lt;code&gt;Rust&lt;/code&gt; 开发; 掌握 &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;Typescript&lt;/code&gt; 编程和 &lt;code&gt;Powershell&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;了解网络编程, 了解异步与多线程编程, 嵌入式软件和上位机软件开发.&lt;/li&gt;
+&lt;li&gt;熟悉 Web 程序开发, 了解 Web 技术创建桌面应用架构开发.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;项目出发点：把常用的效率软件赋予 ai 的能力和统一的交互。&lt;/p&gt;
-&lt;p&gt;项目本身是受 raycast 启发，我不是一个键盘流用户，基本只用 raycast 的文件搜索、应用快开和剪切板历史纪录功能。&lt;/p&gt;
-&lt;p&gt;而我的电脑上同样安装了很多效率软件，翻译、todo 、截图、窗口管理，每个效率软件都有他的快捷键。其实用习惯了还是挺好用的，但是我总觉得一个普通人要配置这么一套门槛还是太高了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;产品亮点&lt;/strong&gt;： 目前有个魔法复制的交互还挺方便，选择文本，复制的时候多按一次 c （即 cmd+c+c ），就可以召唤 Airy 的 ai 插件了，包括翻译、备忘录等&lt;/p&gt;
-&lt;p&gt;产品刚上线，完全免费，从 v 站来的老哥，在产品会员体系上线后，&lt;strong&gt;可以凭本帖子的评论截图领终身会员。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我的微信是 630443747 欢迎交流拍砖&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:17:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991541#reply24</guid></item><item><title>[Android] 安卓如何切换支付的账户</title><link>https://www.v2ex.com/t/991538#reply0</link><description>我登录了两个谷歌账号，在 paly 商店下载了个应用需要应用内购买，找了半天没发现在哪，能切换账户支付。</description><pubDate>Mon, 13 Nov 2023 09:14:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991538#reply0</guid></item><item><title>[问与答] iPhone 上登录其他 Apple ID 会发生什么？</title><link>https://www.v2ex.com/t/991537#reply0</link><description>之前买了个新 iPhone 手机，专门注册了一个 Apple id 就是为了白嫖半年的 icloud 空间，&lt;br /&gt;现在用那个账户设置好了家庭空间，&lt;br /&gt;我问下，后期想在手机上登录那个账户解绑支付信息，会出现什么意外吗？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/srIOIBY.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/srIOIBY.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;补充一点就是，这个账户是在 A 手机（新）登录的，可以在 B 手机（旧）上登录解绑支付吗？</description><pubDate>Mon, 13 Nov 2023 09:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991537#reply0</guid></item><item><title>[OpenAI] [寻]Openai 代充</title><link>https://www.v2ex.com/t/991535#reply0</link><description>&lt;p&gt;寻找 Openai 代充，提供账号密码代操作&lt;/p&gt;
-&lt;p&gt;之前找过的，绑卡之后第 4 个月无法扣费，找个靠谱的来&lt;/p&gt;
-&lt;p&gt;wx:bG92YW5femhhbmc=&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991535#reply0</guid></item><item><title>[酷工作] [社招][AIGC][上海][创业型公司]高薪招人</title><link>https://www.v2ex.com/t/991532#reply3</link><description>&lt;p&gt;UPro AI 是一家人工智能驱动的科技公司，总部位于上海。 我们的产品 &lt;a href="http://rochat.ai" rel="nofollow"&gt;rochat.ai&lt;/a&gt; 是一个基于大语言模型的 AI Agents 社区平台.我们希望通过 Agents 能让 AI 以自然、简单、直观的方式方便每个人的生活。 不管是效率提升、情感陪护、搞笑八卦还是专业知识，我们相信都可以“用 Rochat 来辅助完成”。您可以通过以下链接了解更多：&lt;/p&gt;
-&lt;p&gt;-官网: https：//&lt;a href="http://upro.ai" rel="nofollow"&gt;upro.ai&lt;/a&gt;
--产品: &lt;a href="https://rochat.ai" rel="nofollow"&gt;https://rochat.ai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前公司在招前/后端/移动端（ iOS/Android ）/算法/PE/DA/PM ，主要是业务开发和技术迭代探索工作。如果对业务感兴趣想去了解我们要做的方向及在招岗位,欢迎使用微信公众号搜索 [ Meta 纯]  &lt;/p&gt;
-&lt;p&gt;我们希望和志同道合朋友，一起做有挑战的事。&lt;/p&gt;
-&lt;p&gt;如果感兴趣，可以邮件形式发送给 &lt;a href="mailto:ellerie@upro.ai"&gt;ellerie@upro.ai&lt;/a&gt; or wx 备注名字+岗位 (id:15656339999 ) 欢迎提问、沟通及了解岗位。&lt;/p&gt;
-&lt;p&gt;说一下招聘画像吧，欢迎大家自己匹配:&lt;/p&gt;
+&lt;h2&gt;工作经验&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;开源社区&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;基于 axum 框架开发的 RESTful 系统状态监控 API 软件 &lt;a href="https://github.com/rainbowflesh/sysinfo-http" rel="nofollow"&gt;sysinfo-http&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;参与流媒体音乐播放器 &lt;a href="https://github.com/qier222/YesPlayMusic" rel="nofollow"&gt;YesPlayMusic&lt;/a&gt; 开发, 维护修复过重要 &lt;a href="https://github.com/qier222/YesPlayMusic/issues/1019" rel="nofollow"&gt;bug&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;参与两阶段卷积神经网络, 人工智能图像上色软件 &lt;a href="https://github.com/lllyasviel/style2paints" rel="nofollow"&gt;style2paints&lt;/a&gt; 测试.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;参与建模软件 &lt;a href="https://github.com/xiaoye97/VRoidChinese" rel="nofollow"&gt;VRoid Studio&lt;/a&gt; 翻译, FreeBSD 文档攥写和翻译.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2022 北京 XX, 安全 &amp;amp; 无人机方向, Rust 工程师.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;对 AI 有热情，了解或者自己上手使用过 LLM 产品&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;工作年限 &amp;gt;= 3 年 （部分岗位工作 &amp;gt; 6 年大加分）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;熟悉 Objective-C/Swift/Java/Kotlin Coroutine/Jetpack Compose/Python/Go/k8s/Redis/云原生/OpenAPI/React/NextJS/Vue/Vite/Node/tailwindcss ，并且有生产级项目流量经验&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;有 Hackathon 、开源项目经验者加分！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;对 Mobile 性能优化或者工程架构有自己的理解，有过组件化、CICD （持续集成 持续部署）、卡顿发热优化、跨端等相关经验的加分！&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;熟悉 SQL 和 Postgres 数据库设计，具备 Postgresql 数据库设计和性能优化经验&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;能够跟上技术发展潮流，积极主动的学习，对技术有自己的理解和选择&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;对云原生/事件驱动架构有一定了解，加分！&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Mon, 13 Nov 2023 08:48:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991532#reply3</guid></item><item><title>[酷工作] [杭州] 寻 2D 休闲类卡牌的游戏美术</title><link>https://www.v2ex.com/t/991528#reply0</link><description>&lt;p&gt;优先寻找合伙人，也可以开工资。要求全职、线下。&lt;/p&gt;
-&lt;p&gt;我们公司目前在做一款类卡片的悠闲游戏，主体玩法都完成了，单机模式已经编码完成，正在做的成就系统和排行榜。
-总的来说作为单机游戏，实际上可玩了。&lt;/p&gt;
-&lt;p&gt;但鉴于对游戏世界观、视觉元素的包装，会对游戏体验也会带来极大的提升。需要有自己想法，并且能够用美术来传达给玩家的美术人员。&lt;/p&gt;
-&lt;p&gt;开发阶段界面是这样的：
-&lt;img alt="视觉稿" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/11/13/aaf2a98ae0a48.png" /&gt;&lt;/p&gt;
-&lt;p&gt;接下来的工作是完善世界观故事、玩法引导、卡片故事、文案美术素材完善等。&lt;/p&gt;
-&lt;p&gt;如果是有自己 storytelling 能力的美术那是最好了。首选合伙人，按收入分成，调动各方能动力。如果双方觉得都 OK 的情况下，按合同工开工资也是可以的。&lt;/p&gt;
-&lt;p&gt;产品规划：&lt;/p&gt;
+&lt;li&gt;参与无人机反制 (Counter-Unmanned Aircraft System) 设备研发.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;短期上微信创意小游戏，赚广告费&lt;/li&gt;
-&lt;li&gt;长期，等版号，上单独 app&lt;/li&gt;
 &lt;li&gt;
-海外&lt;ul&gt;
-&lt;li&gt;海外市场，需要针对性的对世界观做本地化，付费&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;技术栈: Tauri, Typescript, Python Flask , 无线网络和蓝牙栈&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;项目内容: 负责某 dji 某型号无人机数据链协议逆向, 基于 Flask 和 aircrack-ng 开发无线网络渗透模块; 独立开发 Tauri 框架的 C/S 架构, 无人机蓝牙遥控软件.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;有意者：  xiangheka 网易 163 邮箱&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991528#reply0</guid></item><item><title>[程序员] 请问 net::ERR_CONNECTION_RESET 200 (OK)是怎么回事</title><link>https://www.v2ex.com/t/991526#reply1</link><description>今天我的网站后台访问一片空白，打开浏览器控制台，看到挺多资源出现&lt;br /&gt;GET xxxxxxx/plugins/jQuery/jQuery-2.1.4.min.js net::ERR_CONNECTION_RESET 200 (OK)&lt;br /&gt;GET xxxxxxx net::ERR_CONNECTION_RESET 200 (OK)&lt;br /&gt;&lt;br /&gt;而且不固定，多刷新几次，有时候会换其他资源报这个，有时候页面又正常了。我看了服务端日志，没排查到有什么报错日志，很诡异</description><pubDate>Mon, 13 Nov 2023 08:30:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991526#reply1</guid></item><item><title>[生活] 轻断食是不是伪科学？</title><link>https://www.v2ex.com/t/991525#reply12</link><description>&lt;p&gt;感觉连体重都减不了&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991525#reply12</guid></item><item><title>[音乐] 分享音乐：每周分享 3 首歌</title><link>https://www.v2ex.com/t/991524#reply0</link><description>&lt;p&gt;最近突发奇想：其实一些方面我还是有很多东西可以分享的（比如音乐），只是我不太爱表达，不太爱发朋友圈，只有很熟悉我的人才能了解我&lt;/p&gt;
-&lt;p&gt;并且自媒体的本质不就是分析有价值内容么，我现在喜欢听的很多歌有点小众，但又很好听，应该很多人没听过，并且听了之后会喜欢&lt;/p&gt;
-&lt;p&gt;所以就搞了一个分享音乐的公众号（ xiaoduanaiyinyue ），每周分享 3 首歌，欢迎大家关注！&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991524#reply0</guid></item><item><title>[宽带症候群] 广东电信带公网的宽带如果换套餐会不会影响公网</title><link>https://www.v2ex.com/t/991523#reply9</link><description>&lt;p&gt;之前在其他站看到有人套餐变更之后变成内网了，已经申请了公网的账号实际上变更套餐会不会受影响&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991523#reply9</guid></item><item><title>[SSH] 请教个的 ssh 连接不上的问题， SSH2_MSG_KEXINIT sent 后马上关闭了</title><link>https://www.v2ex.com/t/991522#reply2</link><description>&lt;p&gt;服务器环境：Debian 12
-ssh：OpenSSH_9.2p1 Debian-2+deb12u1, OpenSSL 3.0.11 19 Sep 2023&lt;/p&gt;
-&lt;p&gt;1.本地终端如 Microsoft terminal 可以正常 ssh 连接&lt;br /&gt;
-2.同步对比软件 beyond compare 无法连接此服务器，但是可以正常连接其他老的 centos 服务器&lt;br /&gt;
-3.还是怀疑是我 beyond compare 版本太老了，下了最新的 beyond compare4 ，可以正常连接&lt;br /&gt;
-4.sshd 我开启了密码和密钥都可以认证，为啥 beyond compare3 还是不能连接，我就开启了日志 debug 模式，看看发生什么问题，发现在 SSH2_MSG_KEXINIT sent 后就直接关闭了，下面是日志，而本地客户端是看不到日志的，我查了下有说让我重新生成一下 ssh_host*,有的说 mtu 设置不对。试了都不行。&lt;br /&gt;
-2023-11-13T15:50:26.806667+08:00 xxxxx sshd[222683]: debug1: Forked child 222693.&lt;br /&gt;
-2023-11-13T15:50:26.807145+08:00 xxxxx sshd[222693]: debug1: Set /proc/self/oom_score_adj to 0&lt;br /&gt;
-2023-11-13T15:50:26.807247+08:00 xxxxx sshd[222693]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7&lt;br /&gt;
-2023-11-13T15:50:26.816725+08:00 xxxxx sshd[222693]: debug1: inetd sockets after dupping: 4, 4&lt;br /&gt;
-2023-11-13T15:50:26.816825+08:00 xxxxx sshd[222693]: Connection from 1.1.1.1 port 62336 on 2.1.1.1 port 10011 rdomain ""&lt;br /&gt;
-2023-11-13T15:50:26.816891+08:00 xxxxx sshd[222693]: debug1: Local version string SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u1&lt;br /&gt;
-2023-11-13T15:50:26.824087+08:00 xxxxx sshd[222693]: debug1: Remote protocol version 2.0, remote software version Beyond&lt;br /&gt;
-2023-11-13T15:50:26.824194+08:00 xxxxx sshd[222693]: debug1: compat_banner: no match: Beyond&lt;br /&gt;
-2023-11-13T15:50:26.825178+08:00 xxxxx sshd[222693]: debug1: permanently_set_uid: 101/65534 [preauth]&lt;br /&gt;
-2023-11-13T15:50:26.825337+08:00 xxxxx sshd[222693]: debug1: list_hostkey_types: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519 [preauth]&lt;br /&gt;
-2023-11-13T15:50:26.825398+08:00 xxxxx sshd[222693]: debug1: SSH2_MSG_KEXINIT sent [preauth]&lt;br /&gt;
-2023-11-13T15:50:26.833071+08:00 xxxxx sshd[222693]: Connection closed by 1.1.1.1 port 62336 [preauth]&lt;br /&gt;
-2023-11-13T15:50:26.833245+08:00 xxxxx sshd[222693]: debug1: do_cleanup [preauth]&lt;br /&gt;
-2023-11-13T15:50:26.833372+08:00 xxxxx sshd[222693]: debug1: monitor_read_log: child log fd closed&lt;br /&gt;
-2023-11-13T15:50:26.833414+08:00 xxxxx sshd[222693]: debug1: do_cleanup&lt;br /&gt;
-2023-11-13T15:50:26.833454+08:00 xxxxx sshd[222693]: debug1: Killing privsep child 222694&lt;br /&gt;
-2023-11-13T15:50:26.833487+08:00 xxxxx sshd[222693]: debug1: audit_event: unhandled event 12&lt;br /&gt;&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:26:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991522#reply2</guid></item><item><title>[程序员] 由于没找到支持纳秒时间戳转换的工具，所以我就写了一个时间戳转换工具。。一个 chrome 插件</title><link>https://www.v2ex.com/t/991521#reply1</link><description>我目前的项目，数据库中存的时间戳，有些是纳秒级别的，每次都要删掉后面的数字，然后用秒来转换。。太难受了，倒是有一些网页工具可以支持纳秒，但。。那也太难用了，忍不了！！！&lt;br /&gt;&lt;br /&gt;有一些接口入参也需要传纳秒，我又得在秒时间戳后加 0 。。更难受，有时候不小心还多加 1 个[崩溃]！！！&lt;br /&gt;&lt;br /&gt;“你说什么？写个脚本自动生成不就行了？” NO ，我拒绝这种方式！&lt;br /&gt;&lt;br /&gt;然后，开始着手开发。。。就有了下面这个玩意[微笑]&lt;br /&gt;传送门： &lt;a href="https://chrome.google.com/webstore/detail/finely-timestamp%EF%BC%88%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7%EF%BC%89/billegbchebejgdppcpkkhmamjpkhbdd" rel="nofollow noopener" target="_blank"&gt;https://chrome.google.com/webstore/detail/finely-timestamp%EF%BC%88%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7%EF%BC%89/billegbchebejgdppcpkkhmamjpkhbdd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;支持秒(s)，毫秒(ms)，微秒(μs)，纳秒(ns)，皮秒(ps)级别的时间戳与日期之间的转换，支持时区切换。&lt;br /&gt;&lt;br /&gt;那就这样，各位大佬，我脸皮薄，轻点喷~[拜托]</description><pubDate>Mon, 13 Nov 2023 08:19:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991521#reply1</guid></item><item><title>[Android] android app 360 加固后容易被破解，导致接口被盗用，有没有合适的第三方服务可以解决这个问题？</title><link>https://www.v2ex.com/t/991520#reply6</link><description>&lt;p&gt;app 接口出现被盗用的情况，太贵的加固服务就不考虑&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:19:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991520#reply6</guid></item><item><title>[求职] [大数据/ Java ]求职一份远程工作</title><link>https://www.v2ex.com/t/991519#reply0</link><description>&lt;h3&gt;专业能力&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;参与无人机自组网 (Flying ad-hoc networks) 网络设备研发.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;逻辑思维能力强，扎实的计算机基础，熟练使用 Java/Python 语言；&lt;/li&gt;
-&lt;li&gt;熟悉 Hadoop 、Flink 、Kafka 等的工作原理；&lt;/li&gt;
-&lt;li&gt;丰富的大数据日志采集系统、实时处理、后台架构设计经验；&lt;/li&gt;
-&lt;li&gt;具备独立沟通需求，设计，架构，开发的能力。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 13 Nov 2023 08:15:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991519#reply0</guid></item><item><title>[4G] 自己长辈父母一代， 4G 流量蹭蹭的涨，还说没怎么用？</title><link>https://www.v2ex.com/t/991517#reply26</link><description>很好奇，自己长辈父母一代，4G 流量蹭蹭的涨，还说没怎么用？&lt;br /&gt;&lt;br /&gt;什么叫没怎么用，天天的早、中、晚看微信各种小程序直播、企业微信直播等，天天的微信中的各种直播就是买买买，流量能不蹭蹭的涨嘛？&lt;br /&gt;&lt;br /&gt;流量不说，就单纯连接家里的 WIFI 网络，从 2023.11.01~2023.11.13 这 13 天的时间内，我查看了一下单纯的手机使用 WIFI 网络数据下行流量就使用了：32.72GB ，上行才用了 3.83GB 。&lt;br /&gt;&lt;br /&gt;我是真服了他们，天天看看看直播，买买买，说她们也不听。他们还老说自己：“没怎么用”、“没怎么用”、“没怎么用”！！！</description><pubDate>Mon, 13 Nov 2023 08:13:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991517#reply26</guid></item><item><title>[Java] rtsp 视频流转换为 http 视频流问题</title><link>https://www.v2ex.com/t/991516#reply6</link><description>&lt;p&gt;现在有一个 rtsp 视频流 rtsp://172.16.200.32:8554/stream 。我先用 ffmpeg 转码成 rtmp 视频流，格式是 flv ，链接是 rtmp://172.16.200.32/live/stream 。现在视频还是可以正常播放的。然后我用 Nginx 搭配上 nginx-rtmp-module 插件转换成 http 视频流。具体配置如下
-rtmp {
-server {
-listen 1935;
-chunk_size 4096;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    application live {
-        live on;
-        record off;
-    }
-}
+&lt;li&gt;
+&lt;p&gt;技术栈: Rust, libp2p, ractor 异步调度框架.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;项目内容: 主要负责完成基于 &lt;code&gt;QUIC&lt;/code&gt; 协议栈的低功耗平台无线 mesh 自组网数传软件, 及集群组网通信的软件系统研发工作.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2021 实习, 中国电建集团昆明科研勘探设计院, GIS / BIM 方向 R&amp;amp;D.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;参与昆明市智慧务系统, 云南省滇中引程建设管理信息系统 web 全栈开发.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;技术栈: Spring Cloud, Vue, MySQL, MongoDB, Redis, Nacos, Docker.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;项目内容: 负责系统的开发任务, 测试库与预发布库的设计, 低代码平台 / 代码生成器的开发和测试, 负责实现客户后期跟进需求, 数据大屏开发, BUG 修复, 相关数据的预处理工作.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 13 Nov 2023 17:22:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991651#reply0</guid></item><item><title>[分享创造] 归档 Git 仓库的小工具更新了，现在可以归档自己/指定用户/组织的仓库啦！</title><link>https://www.v2ex.com/t/991650#reply0</link><description>&lt;p&gt;书接上一回： &lt;a href="https://v2ex.com/t/988488" rel="nofollow"&gt;https://v2ex.com/t/988488&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REpository ArchivER （ REAPER ）是一个用于从任何 Git 服务器归档 Git 仓库的工具。&lt;/p&gt;
+&lt;p&gt;近期有较多重要的 Git 仓库因为不可抗力原因不能访问了，事后再去找备份太麻烦，希望找个空闲的 vps 定期给关注的仓库备份，把整个仓库 clone 下来，及早防范。&lt;/p&gt;
+&lt;p&gt;项目地址：&lt;a href="https://github.com/LeslieLeung/reaper" rel="nofollow"&gt;LeslieLeung/reaper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;快速安装：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;curl -sSfL https://raw.githubusercontent.com/LeslieLeung/reaper/main/install.sh | sh -s -- -b /usr/local/bin
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;}&lt;/p&gt;
-&lt;p&gt;http {
-server {
-listen 8080;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    location /live {
-        flv_live on;
-        chunked_transfer_encoding off;
-    }
-}
+&lt;h2&gt;本周更新内容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;支持填 token 归档个人/指定用户/组织仓库（仅 GitHub ）&lt;/li&gt;
+&lt;li&gt;使用 S3 作为存储&lt;/li&gt;
+&lt;li&gt;Docker 运行&lt;/li&gt;
+&lt;li&gt;快速安装脚本&lt;/li&gt;
+&lt;li&gt;以 daemon 模式运行，并支持定时任务&lt;/li&gt;
+&lt;li&gt;对已经 clone 过的仓库使用 pull ，提升归档速度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;优点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;对比 Gitea 等：轻量，不需要为了一个简单的功能部署一个完整的 Git 系统&lt;/li&gt;
+&lt;li&gt;对比在线的服务：仓鼠症，就是喜欢把数据囤在自己的硬盘里；&lt;/li&gt;
+&lt;li&gt;跨平台！零依赖！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎各位指正。&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 17:14:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991650#reply0</guid></item><item><title>[Surge] 蹲一个 Mac 拼车（求带</title><link>https://www.v2ex.com/t/991649#reply1</link><description>有人 mac 拼车的话可以捎上我，感觉 Mac 上还是 Surge 舒服。！我不开车，等上车，主要是没精力折腾。有车欢迎 dd 我。</description><pubDate>Mon, 13 Nov 2023 17:07:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991649#reply1</guid></item><item><title>[OpenAI] 为了可以让影印版 PDF 图书供 GPTs 使用作为知识库，特地写了个 PDF 转换为文本格式的工具</title><link>https://www.v2ex.com/t/991648#reply0</link><description>为了可以让影印版 PDF 图书供 GPTs 使用作为知识库，特地写了个 PDF 转换为文本格式的工具&lt;br /&gt;&lt;br /&gt;colab: &lt;a href="https://colab.research.google.com/drive/1ejSaK_-Y-_bI1IkVZbHDNGKJ79p30Xzm?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://colab.research.google.com/drive/1ejSaK_-Y-_bI1IkVZbHDNGKJ79p30Xzm?usp=sharing&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;github: &lt;br /&gt;&lt;a href="https://github.com/flyyuan/pdf2txt-chinese" rel="nofollow noopener" target="_blank"&gt;https://github.com/flyyuan/pdf2txt-chinese&lt;/a&gt;</description><pubDate>Mon, 13 Nov 2023 16:49:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991648#reply0</guid></item><item><title>[Apple] 使用美区超大杯要注意什么，国内网络环境需要怎么设置科学上网，要不要关闭 tv+的定位之类</title><link>https://www.v2ex.com/t/991647#reply2</link><description>clash 里是不是除了奈飞和迪士尼和 YouTube 翻出去&lt;br /&gt;&lt;br /&gt;APPLE 的节点选择直通还是翻出去呢</description><pubDate>Mon, 13 Nov 2023 16:18:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991647#reply2</guid></item><item><title>[问与答] 请问现在买 7840H 的笔记本，还是等一个月（可能不止）买下一代 Intel 平台</title><link>https://www.v2ex.com/t/991646#reply3</link><description>需要买一个轻薄本，需求是 32G 内存起，能自己更换内存最好&lt;br /&gt;不玩游戏，写代码应该现在 7840H 就足够了&lt;br /&gt;唯一不爽的是，下一个月就要发移动平台的 Intel Ultra 处理器，而且不知道什么时候才能有 零售、不加价、性价比 的机器&lt;br /&gt;请问各位应该如何选择</description><pubDate>Mon, 13 Nov 2023 16:12:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991646#reply3</guid></item><item><title>[NAS] emby 无法正确识别电影资源</title><link>https://www.v2ex.com/t/991644#reply3</link><description>&lt;p&gt;使用群晖的套件下载了&lt;code&gt;emby server&lt;/code&gt;，但是它无法刮削电影信息。看了网上的说法，应该是 &lt;a href="http://api.themoivedb.org" rel="nofollow"&gt;api.themoivedb.org&lt;/a&gt; 被墙了，于是 SSH 到群晖修改了 HOST(根据 &lt;a href="https://sites.ipaddress.com/api.themoviedb.org/%EF%BC%89" rel="nofollow"&gt;https://sites.ipaddress.com/api.themoviedb.org/）&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;13.226.34.26 api.themoivedb.org
+13.226.34.62 api.themoivedb.org
+13.226.34.78 api.themoivedb.org
+13.226.34.79 api.themoivedb.org
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;}
-最后使用的 http 视频流链接是 &lt;a href="http://172.16.200.32:8080/live/stream.flv" rel="nofollow"&gt;http://172.16.200.32:8080/live/stream.flv&lt;/a&gt; 。但是就是没办法正常播放，提示无法连接。服务器的端口也正常能访问，这是为什么呢？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:04:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991516#reply6</guid></item></channel></rss>
+&lt;p&gt;但是 emby 还是无法刮削成功。难道是文件命名不对？我是直接从 PT 站和阿里云盘下载的，按道理命名比较规范。比如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Dark Knight 2008 1080p BluRay DTS x264-ORiGEN.mkv&lt;/li&gt;
+&lt;li&gt;Top004.霸王别姬.Farewell.My.Concubine.1993.Bluray.1080p.x265.AAC2.0.GREENOTEA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个应该如何解决？&lt;/p&gt;
+&lt;p&gt;此外，我把 NAS 的代理设置为同一个局域网内的一台有代理的机器，为什么不起作用？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 15:55:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991644#reply3</guid></item><item><title>[职场话题] 采访了一年前顺利拿到大厂 offer 润到爱尔兰的朋友，做成了一期播客</title><link>https://www.v2ex.com/t/991641#reply1</link><description>&lt;p&gt;欧洲的同行不是很多，所以决定分享点内容。&lt;/p&gt;
+&lt;p&gt;找了在某大厂工作时的同事三木桑，聊了聊从刷题准备面试到，签证，登陆，入职，生活中的开心与不开心，适应与不适应等话题。&lt;/p&gt;
+&lt;p&gt;希望能帮到一些朋友。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/W_AltNnX4fw?si=XUXyepej-58uRfiZ" rel="nofollow"&gt;https://youtu.be/W_AltNnX4fw?si=XUXyepej-58uRfiZ&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 15:30:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991641#reply1</guid></item><item><title>[成都] 有成都使用坚果 R2 的 V 友么</title><link>https://www.v2ex.com/t/991640#reply3</link><description>&lt;p&gt;双十一因为优惠淘了一个无线 TNT GO
+但是自己手上没有 R2 ，同时也不知道这个屏幕有没有问题。
+想求助一下成都有没有使用 R2 的 V 友。
+测试一下这块屏幕。要是确认屏幕功能正常我就好计划购买 R2 ，要是功能有问题我就放弃这个计划。
+倾向于 18 号线附近的地方，或者东门大桥附近。
+拜谢。&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 15:29:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991640#reply3</guid></item><item><title>[买买买] 2023 年你购入的最值的的物品 TOP 3 是什么？</title><link>https://www.v2ex.com/t/991639#reply2</link><description>&lt;p&gt;这不是马上过了双 11 了嘛！所以想看看各位 V 友在这一年中买入的最最最最最值得的东西是什么？&lt;/p&gt;
+&lt;p&gt;物品不限种类只要是能买到的商品软件也都算！知道大家都超级爱果子家的产品，就不要写到这个里面了不然我都能想到看到一铲子的 M1 了呢（其实自己已经有了所以就想看看其他的东西）&lt;/p&gt;
+&lt;p&gt;我自己今年最值得就只有 GPT Plus 啦没有之一啦！&lt;/p&gt;
+&lt;p&gt;去年发了一个“2022 年你购入的最值的的物品 TOP 3 是什么？” &lt;a href="https://www.v2ex.com/t/884360" rel="nofollow"&gt;https://www.v2ex.com/t/884360&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;总结去年的前三名就是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;淡化家充电头&lt;/li&gt;
+&lt;li&gt;果子家各种产品&lt;/li&gt;
+&lt;li&gt;扫地机器人、蒸箱、洗碗机&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 13 Nov 2023 15:18:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991639#reply2</guid></item><item><title>[问与答] 关于谷歌搜索语法，如何限定结果都来自 https://v2ex.com/，而不包括*.v2ex.com 的？</title><link>https://www.v2ex.com/t/991638#reply4</link><description>因为有很多重复的搜索结果，来自 &lt;a href="http://fast.v2ex.com" rel="nofollow noopener" target="_blank"&gt;fast.v2ex.com&lt;/a&gt;, &lt;a href="http://cn.v2ex.com" rel="nofollow noopener" target="_blank"&gt;cn.v2ex.com&lt;/a&gt;……。</description><pubDate>Mon, 13 Nov 2023 15:15:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991638#reply4</guid></item><item><title>[问与答] 索尼电视遥控器手感超差，求替代</title><link>https://www.v2ex.com/t/991637#reply2</link><description>电视是 75x90L ，其他都满意，就是遥控器手感很差，又小又硬又割手，很不舒服。（没有用电视盒子，所以没有办法用电视盒子的遥控器替代）&lt;br /&gt;&lt;br /&gt;大家有什么好的解决方案吗，不吝赐教</description><pubDate>Mon, 13 Nov 2023 15:15:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991637#reply2</guid></item><item><title>[PHP] docker nginx 访问报错“Primary script unknown”</title><link>https://www.v2ex.com/t/991636#reply7</link><description>&lt;p&gt;配置文件没问题
+昨天还好好的，今早切换了下分支就挂了……
+google 和百度了一天了没解决……&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 15:10:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991636#reply7</guid></item><item><title>[酷工作] 海外（阿联酋）机会： Java / Python /数据工程师/全栈开发（需要金融背景，非区块链相关）</title><link>https://www.v2ex.com/t/991635#reply0</link><description>🌟Java/Python 开发&lt;br /&gt;🌟Data Engineer&lt;br /&gt;需要有金融相关背景&lt;br /&gt;学历：必须 985 计算机&lt;br /&gt;语言：英语暂无要求，能说会道更赞&lt;br /&gt;🌟全栈开发（前端+Python/Java ）&lt;br /&gt;学历 ：必须 985 计算机&lt;br /&gt;互联网背景即可&lt;br /&gt;&lt;br /&gt;地点：阿联酋&lt;br /&gt;（消费跟上海差不多，房租便宜很多，无税，转欧美工作签很容易）&lt;br /&gt;微信：18621580540</description><pubDate>Mon, 13 Nov 2023 15:09:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991635#reply0</guid></item><item><title>[程序员] 请问有用 macos todesk 的吗</title><link>https://www.v2ex.com/t/991634#reply2</link><description>&lt;p&gt;昨天远程找人远程协助设置路由器, 用了 todesk, 结果对方反应控制不了(可能是我权限没给够, 对方是 win)
+我直接重启电脑切到 windows 用 win 版 todesk&lt;/p&gt;
+&lt;p&gt;结果今天总感觉电脑卡卡的, 鼠标也是. 我还以为是鼠标 2.4G 被干扰了. 还把刷新率调高了.&lt;/p&gt;
+&lt;p&gt;晚上偶然点进系统设置, 才发现分辨率被改了. &lt;/p&gt;
+&lt;p&gt;原来的选项是默认分辨率, 60hz.
+被改成缩放模式, 同样 1080p, 但是 30hz.&lt;/p&gt;
+&lt;p&gt;我印象中没有这种操作的吧, 关键是分辨率没变, 我还没发现, 只是觉得卡. 刷新率只有一半, 我吐了.
+anyde 向日葵 也连过, 没发现(或者电脑重启后恢复了)&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 15:05:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991634#reply2</guid></item><item><title>[Apple] 美区账号自己用美国信用卡开了超大杯后，如果要给别人共享，是不是要把《购买项目共享》给关掉</title><link>https://www.v2ex.com/t/991633#reply4</link><description>这个购买项目共享是啥意思，就是我买的游戏其他人也能玩对么？那相当于花 1 块钱可以 6 个人分，买电影也能 6 个人一起看对么&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;另外，超大杯的新闻为啥不在我地区使用，是检测地理位置还是上网环境</description><pubDate>Mon, 13 Nov 2023 14:58:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991633#reply4</guid></item><item><title>[问与答] chrome 上面的 ctrl - 缩放， 用 js 可以实现吗</title><link>https://www.v2ex.com/t/991632#reply2</link><description>&lt;p&gt;浏览器的缩放功能， 用 js 如何实现呢&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 14:57:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991632#reply2</guid></item><item><title>[macOS] 如何禁止 MacOS AirPlay 到电视机上？</title><link>https://www.v2ex.com/t/991630#reply2</link><description>&lt;p&gt;今天发现家里的电视在待机状态下，如果 iPhone 在放音乐，选择 Airplay 到电视机上，电视机会自动点亮并开始播放。这倒没什么问题。&lt;/p&gt;
+&lt;p&gt;但家里电脑上，在切换音频设备的时候也会出现电视机的选项，怕有时候误选择了，把不该播的内容播放到电视机上了。如下图，实在是很容易误点到：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/a/3TqwJU9" rel="nofollow"&gt;https://imgur.com/a/3TqwJU9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="https://imgur.com/a/3TqwJU9" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lWBpw80.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;有什么办法在电脑上直接不显示电视机这个设备吗？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 14:52:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991630#reply2</guid></item></channel></rss>
