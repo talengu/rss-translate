@@ -1,116 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 12 Nov 2023 09:35:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[职场话题] 工作中应该怎样主动找活？</title><link>https://www.v2ex.com/t/991202#reply0</link><description>应届毕业后在小厂的基架组干了 2 年了，工作氛围相对来说是比较轻松愉悦的（因为直系领导已经佛了），之前被分配的项目差不多结了，今年以来被分配到的项目，都是探索 xx ，研究 xx ，实际上并没有任何业务需要，也没有任何产出。&lt;br /&gt;跟直系领导谈过，但他佛了很久了，很久都没怎么好好工作过了，所以联系不到啥业务方找需求，帮我想不到什么合适的项目，自己也不知道该怎么为自己找新的项目。&lt;br /&gt;被领导的领导暗示过因为产出的原因，今年要拿最低绩效，但是不会裁员。&lt;br /&gt;最近有些苦恼。</description><pubDate>Sun, 12 Nov 2023 09:32:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991202#reply0</guid></item><item><title>[站长] 有一个日 pv 6 万的站点，有没有人需要投放广告的？支持个人联系</title><link>https://www.v2ex.com/t/991201#reply2</link><description>&lt;p&gt;日 pv 不算多，但是如果个人做的 app 或者站点有这个需求，可以联系我，价格肯定是与你去一些联盟投广告的价格相比是腰斩再腰斩的价格啦&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 09:13:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991201#reply2</guid></item><item><title>[Planet] Planet Feature Update 10</title><link>https://www.v2ex.com/t/991199#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;Full Release Notes: &lt;a href="https://olivida.eth.limo/feature-update-10/" rel="nofollow"&gt;https://olivida.eth.limo/feature-update-10/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Download &lt;a href="https://github.com/Planetable/Planet/releases/download/release-0.16.0/Planet.zip" rel="nofollow"&gt;Planet 0.16.0&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;这次的更新里包括了一些重要的性能方面的改进，及一个全新的主题：Sepia ！&lt;/p&gt;
-&lt;h2&gt;与 eth.limo 的直连（ IPFS Peering ）&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://eth.limo" rel="nofollow"&gt;eth.limo&lt;/a&gt; 是目前最好的 ENS 网站网关。IPFS 直连（ Peering ）功能的加入，意味着你接下来更新的任何新内容，都可以更顺畅地出现在 eth.limo 上。因为现在 eth.limo 在 IPFS 网络上可以直接找到你的节点。&lt;/p&gt;
-&lt;p&gt;关于这项技术的更多细节，如果你好奇，可以阅读 IPFS 官方关于 Peering 的文档：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://docs.ipfs.tech/how-to/peering-with-content-providers/" rel="nofollow"&gt;https://docs.ipfs.tech/how-to/peering-with-content-providers/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;新主题 Sepia&lt;/h2&gt;
-&lt;p&gt;Sepia 是一个全新设计的主题，非常适合更新频繁的 microblog 类型内容。&lt;/p&gt;
-&lt;p&gt;点击 &lt;a href="https://gateway.v2ex.pro/ipns/k51qzi5uqu5dgpbgbc7c3w2wjpsyqb28l5205znvbegmn5p7koctjuvgxb56r1/" rel="nofollow"&gt;这里&lt;/a&gt; 可以看到使用这个主题的一个演示网站。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://olivida.eth.limo/feature-update-10/sepia.png" /&gt;&lt;/p&gt;
-&lt;p&gt;功能列表：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 13 Nov 2023 09:32:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] apple 授权店以旧换新能拿到官方价吗</title><link>https://www.v2ex.com/t/991545#reply0</link><description>&lt;p&gt;因为有消费券，授权店可以便宜 500&lt;/p&gt;
+&lt;p&gt;现在 13pm 官网以旧换新可以抵扣 4k9&lt;/p&gt;
+&lt;p&gt;闲鱼 4k8 好像都没人问津 81 电池度，边框磕碰&lt;/p&gt;
+&lt;p&gt;13pm 换电池成本又很高，过一年二手折损估计 4k 下了，感觉直接上 15pm ，每年使用成本也不会高太多&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:27:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991545#reply0</guid></item><item><title>[问与答] Bartender 5 升级问题</title><link>https://www.v2ex.com/t/991544#reply0</link><description>&lt;p&gt;之前使用 Bartender 4 的版本，这次打算升级 5.&lt;/p&gt;
+&lt;p&gt;之前是在闲鱼买的激活码，可能是多人车位。车主不打算升级 5.如果自己升级，是补差价还是可以退车上别人的车位？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:26:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991544#reply0</guid></item><item><title>[macOS] Sonoma 的菜单栏里，麦克风常亮的问题，你遇到过吗？</title><link>https://www.v2ex.com/t/991543#reply0</link><description>可稳定复现场景：使用 QuickTime ，把 iPhone 用数据线投屏到 Mac 看 NBA （百视只有手机端），看完拔线后，Mac 的麦克风图标就这么一直亮着了，没找到直接关闭的地方&lt;br /&gt;&lt;br /&gt;试过无效的方法：QuickTime 强制退出、活动监视器把 Audio 相关的活动进程 kill 掉&lt;br /&gt;&lt;br /&gt;唯一试了有效的是重启 Mac ，但不想老重启，想问问大伙儿有没有其他办法？&lt;br /&gt;&lt;br /&gt;系统 14.1 正式版&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/y4mNbPH.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/y4mNbPH.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 13 Nov 2023 09:25:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991543#reply0</guid></item><item><title>[问与答] 回音壁 Q600B 建议用蓝牙连接还是线连接呢？</title><link>https://www.v2ex.com/t/991542#reply1</link><description>刚买了一个 Q600B 回音壁，带后环 9200s ，感觉线太多了，能不能用蓝牙连接啊。&lt;br /&gt;&lt;br /&gt;补充：电视设备是 sony 的 75x90L</description><pubDate>Mon, 13 Nov 2023 09:18:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991542#reply1</guid></item><item><title>[分享创造] 备忘录+翻译+文件搜索+ChatGPT=Airy，给 V 站老哥前 1000 个用户都送终身会员</title><link>https://www.v2ex.com/t/991541#reply24</link><description>&lt;p&gt;这几个月做了一个 win 和 mac 双端的效率软件 all in one 软件&lt;/p&gt;
+&lt;p&gt;官网：&lt;a href="https://colink.in/" rel="nofollow"&gt;https://colink.in/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前已经有的功能是&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;按时间顺序在首页展示每一个发帖的完整内容（类似 Twitter/X 的展示逻辑）&lt;/li&gt;
-&lt;li&gt;当使用桌面浏览器访问时，呈现的是两栏结构，同时针对移动设备做了响应式设计适配&lt;/li&gt;
-&lt;li&gt;支持视频、音频、及多图内容&lt;/li&gt;
-&lt;li&gt;支持 Planet 最新的标签和归档功能&lt;/li&gt;
+&lt;li&gt;AI 备忘录&lt;/li&gt;
+&lt;li&gt;AI 翻译&lt;/li&gt;
+&lt;li&gt;ChatGPT 对话（ V 站老哥应该用不到）&lt;/li&gt;
+&lt;li&gt;文件搜索&amp;amp;应用快开（ win 版基于 everything ，mac 基于 spotlight ）&lt;/li&gt;
+&lt;li&gt;截图和窗口管理功能正在开发&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我们会继续改进围绕这个新主题的发帖功能。期待能够收到来自大家的反馈。在下一次的更新中，我们会加入一个全新的发帖界面，让更频繁的内容更新过程变得更加舒服。😌&lt;/p&gt;
-&lt;h2&gt;改进了的 IPNS 发布流程&lt;/h2&gt;
-&lt;p&gt;当你尝试在应用程序正在执行 IPNS 发布（侧边栏中有动画沙漏图标时）时退出应用程序，现在会显示一个确认对话框。以前，在此过程中退出应用程序可能导致 IPNS 发布未完成，并导致网站无法解析。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://olivida.eth.limo/feature-update-10/confirm-dialog.png" /&gt;&lt;/p&gt;
-&lt;p&gt;我们相信这个改进会大幅改善 IPNS 网站因为发布中断而导致的无法解析问题。&lt;/p&gt;
-&lt;h2&gt;改进了的 Rebuild&lt;/h2&gt;
-&lt;p&gt;现在有两种类型的 Rebuild：Quick Rebuild 和 Full Rebuild 。Quick Rebuild 只会重新生成站点的首页文件，即 &lt;code&gt;index.html&lt;/code&gt;。Full Rebuild 还会使用您当前为站点选择的模板重新生成每篇帖子。当你正在调试如 &lt;a href="https://croptop.eth.limo" rel="nofollow"&gt;Croptop&lt;/a&gt; 这样的 SPA （单页应用程序）模板时，Quick Rebuild 会非常有用。&lt;/p&gt;
-&lt;h2&gt;其他修复和改进&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修复了在 macOS 14 上添加附件功能无法使用的问题&lt;/li&gt;
-&lt;li&gt;修复了导致侧栏站点头像模糊的图像插值设置&lt;/li&gt;
-&lt;li&gt;修复了当头像取消设置时，网站 favicon 未被移除的问题&lt;/li&gt;
-&lt;li&gt;增加了在快速分享对话框中粘贴图片的支持&lt;/li&gt;
-&lt;li&gt;为 Planet API 服务增加了 Bonjour 宣告&lt;/li&gt;
-&lt;li&gt;在头像选择器中增加了随机选择功能&lt;/li&gt;
-&lt;li&gt;增加了一个新的 API 端点：&lt;code&gt;/v0/id&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sun, 12 Nov 2023 09:05:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991199#reply0</guid></item><item><title>[微信] 微信 pc 端输入框自动聚焦</title><link>https://www.v2ex.com/t/991198#reply0</link><description>&lt;p&gt;不知道为什么最近 win11 上装了微信 pc 端之后, 在使用其他软件的时候会经常自动聚焦到微信的输入框上. 甚至微信的界面的没弹出来, 保持最小化的情况下聚焦上去了. 这是 bug 吗?&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 09:05:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991198#reply0</guid></item><item><title>[VPS] 江苏 BGP 物理机 超低价！高主频游戏机！</title><link>https://www.v2ex.com/t/991196#reply0</link><description>&lt;p&gt;江苏 BGP 配置价格表
-E5 2660V2*2 64G 30M 298/月&lt;/p&gt;
-&lt;p&gt;E5 2660V2*2 64G 60M 480/月&lt;/p&gt;
-&lt;p&gt;E5 2673V2 64G 30M 3.3G 高主频 308/月&lt;/p&gt;
-&lt;p&gt;E5 2673V2 64G 60M 3.3G 高主频 498/月&lt;/p&gt;
-&lt;p&gt;E5 2670V2*2 64G 30M 308/月&lt;/p&gt;
-&lt;p&gt;E5 2670V2*2 64G 60M 488/月&lt;/p&gt;
-&lt;p&gt;E5 2690V2*2 64G 30M 328/月&lt;/p&gt;
-&lt;p&gt;E5 2690V2*2 64G 60M 508/月&lt;/p&gt;
-&lt;p&gt;湖北电信&lt;/p&gt;
-&lt;p&gt;E5 2660V2 *2 64G 1TSSD 20M  100G 防御 248 元！    优惠码 MJJ&lt;/p&gt;
-&lt;p&gt;凡是 MJJ 购买镇江 均可每个月便宜 20 元&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.muyidc.com/cart?fid=1&amp;amp;gid=3" rel="nofollow"&gt;https://www.muyidc.com/cart?fid=1&amp;amp;gid=3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;QQ 2142995832 群 676497037
-售后电话 4008882163&lt;/p&gt;
-&lt;p&gt;增值电信许可证:B1-20224058
-贵公网安备 52062402000217 号
-网站北岸号：黔 ICP 备 2023009265 号&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 09:00:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991196#reply0</guid></item><item><title>[杭州] 杭州余杭梦想小镇附近租房的问题</title><link>https://www.v2ex.com/t/991195#reply0</link><description>可能过段时间会去杭州工作，在梦想小镇附近，打算在那边租房，要求整租（最好是一室一厅）。目前主要在网上看了仓溢东苑、仓梦合寓、万通时尚公馆，不知道大家有没有什么推荐，以及大概是什么价位？另外，不知道这些地方的门口有没有租房信息，还是说需要在网上各个平台找中介？</description><pubDate>Sun, 12 Nov 2023 08:55:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991195#reply0</guid></item><item><title>[问与答] [vscode 原生微信小程序] 20231111 应该用哪些插件辅助开发呢</title><link>https://www.v2ex.com/t/991194#reply0</link><description>如题，使用 vscode 辅助开发原生微信小程序</description><pubDate>Sun, 12 Nov 2023 08:53:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991194#reply0</guid></item><item><title>[全球工单系统] “虎扑”网站是不是小站？</title><link>https://www.v2ex.com/t/991193#reply5</link><description>&lt;p&gt;打开节点后，有近 5 分钟的缓存时长，无论怎么刷新都是之前的帖子。&lt;/p&gt;
-&lt;p&gt;这个缓存也忒长了吧，还是主体育的网站，比赛开始后一秒钟都有无限可能，可是刷不出新贴，太难受了！&lt;/p&gt;
-&lt;p&gt;是这个网站实力不够吗？&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:51:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991193#reply5</guid></item><item><title>[宽带症候群] 广东电信拿不到公网 ip 了吗</title><link>https://www.v2ex.com/t/991192#reply3</link><description>坐标 0760</description><pubDate>Sun, 12 Nov 2023 08:49:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991192#reply3</guid></item><item><title>[问与答] Linux 否能实现 Windows 那种机械硬盘休眠策略？</title><link>https://www.v2ex.com/t/991190#reply1</link><description>&lt;p&gt;尝试了 &lt;code&gt;hdparm -S 25 /dev/sda1&lt;/code&gt;，但是这似乎只会让电机减速，而 Windows 下则可以做到硬盘在闲置一段时间后断开电源。&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:41:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991190#reply1</guid></item><item><title>[Steam] steam 账户到底怎么换回国区？</title><link>https://www.v2ex.com/t/991189#reply2</link><description>不知道什么时候开始我的账户变成新加坡区（可能是长期用梯子？）&lt;br /&gt;虽然网上一些帖子说只要用国区的支付方式（微信）购买一次就行，且不要开梯子。&lt;br /&gt;但是这是悖论，不开梯子如何上 steam?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我只能挂上梯子，启动微信购买流程，里面的”账单地址选择“，只有新加坡和日本 2 个选项。&lt;br /&gt;结算货币也只有新加坡元。&lt;br /&gt;&lt;br /&gt;到流程的最后一步微信支付，微信显示还是新加坡元支付。&lt;br /&gt;&lt;br /&gt;到底咋回事呢？</description><pubDate>Sun, 12 Nov 2023 08:37:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991189#reply2</guid></item><item><title>[问与答] 求一个安装包管理软件</title><link>https://www.v2ex.com/t/991188#reply0</link><description>工作所需，移动硬盘上有不少软件的安装包，需要在不同的地方安装。我希望安装的时候安装的都是最新版，目前的话是隔一段时间下载一次，但是次数多了也非常麻烦，有没有什么软件可以实现类似软件仓库的功能呢？只要我把移动硬盘插在电脑上，把这个软件打开，这个软件就可以无脑把指定文件夹下的安装包更新到最新版？</description><pubDate>Sun, 12 Nov 2023 08:33:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991188#reply0</guid></item><item><title>[问与答] 国内能用的直播平台</title><link>https://www.v2ex.com/t/991187#reply2</link><description>&lt;p&gt;直播国内平台禁止的内容（比如彩虹六号）给国内的朋友看。私人用途，有 HLS 流就行，不需要前端。&lt;/p&gt;
+&lt;p&gt;项目出发点：把常用的效率软件赋予 ai 的能力和统一的交互。&lt;/p&gt;
+&lt;p&gt;项目本身是受 raycast 启发，我不是一个键盘流用户，基本只用 raycast 的文件搜索、应用快开和剪切板历史纪录功能。&lt;/p&gt;
+&lt;p&gt;而我的电脑上同样安装了很多效率软件，翻译、todo 、截图、窗口管理，每个效率软件都有他的快捷键。其实用习惯了还是挺好用的，但是我总觉得一个普通人要配置这么一套门槛还是太高了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;产品亮点&lt;/strong&gt;： 目前有个魔法复制的交互还挺方便，选择文本，复制的时候多按一次 c （即 cmd+c+c ），就可以召唤 Airy 的 ai 插件了，包括翻译、备忘录等&lt;/p&gt;
+&lt;p&gt;产品刚上线，完全免费，从 v 站来的老哥，在产品会员体系上线后，&lt;strong&gt;可以凭本帖子的评论截图领终身会员。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我的微信是 630443747 欢迎交流拍砖&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:17:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991541#reply24</guid></item><item><title>[Android] 安卓如何切换支付的账户</title><link>https://www.v2ex.com/t/991538#reply0</link><description>我登录了两个谷歌账号，在 paly 商店下载了个应用需要应用内购买，找了半天没发现在哪，能切换账户支付。</description><pubDate>Mon, 13 Nov 2023 09:14:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991538#reply0</guid></item><item><title>[问与答] iPhone 上登录其他 Apple ID 会发生什么？</title><link>https://www.v2ex.com/t/991537#reply0</link><description>之前买了个新 iPhone 手机，专门注册了一个 Apple id 就是为了白嫖半年的 icloud 空间，&lt;br /&gt;现在用那个账户设置好了家庭空间，&lt;br /&gt;我问下，后期想在手机上登录那个账户解绑支付信息，会出现什么意外吗？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/srIOIBY.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/srIOIBY.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;补充一点就是，这个账户是在 A 手机（新）登录的，可以在 B 手机（旧）上登录解绑支付吗？</description><pubDate>Mon, 13 Nov 2023 09:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991537#reply0</guid></item><item><title>[OpenAI] [寻]Openai 代充</title><link>https://www.v2ex.com/t/991535#reply0</link><description>&lt;p&gt;寻找 Openai 代充，提供账号密码代操作&lt;/p&gt;
+&lt;p&gt;之前找过的，绑卡之后第 4 个月无法扣费，找个靠谱的来&lt;/p&gt;
+&lt;p&gt;wx:bG92YW5femhhbmc=&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 09:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991535#reply0</guid></item><item><title>[酷工作] [社招][AIGC][上海][创业型公司]高薪招人</title><link>https://www.v2ex.com/t/991532#reply3</link><description>&lt;p&gt;UPro AI 是一家人工智能驱动的科技公司，总部位于上海。 我们的产品 &lt;a href="http://rochat.ai" rel="nofollow"&gt;rochat.ai&lt;/a&gt; 是一个基于大语言模型的 AI Agents 社区平台.我们希望通过 Agents 能让 AI 以自然、简单、直观的方式方便每个人的生活。 不管是效率提升、情感陪护、搞笑八卦还是专业知识，我们相信都可以“用 Rochat 来辅助完成”。您可以通过以下链接了解更多：&lt;/p&gt;
+&lt;p&gt;-官网: https：//&lt;a href="http://upro.ai" rel="nofollow"&gt;upro.ai&lt;/a&gt;
+-产品: &lt;a href="https://rochat.ai" rel="nofollow"&gt;https://rochat.ai&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前公司在招前/后端/移动端（ iOS/Android ）/算法/PE/DA/PM ，主要是业务开发和技术迭代探索工作。如果对业务感兴趣想去了解我们要做的方向及在招岗位,欢迎使用微信公众号搜索 [ Meta 纯]  &lt;/p&gt;
+&lt;p&gt;我们希望和志同道合朋友，一起做有挑战的事。&lt;/p&gt;
+&lt;p&gt;如果感兴趣，可以邮件形式发送给 &lt;a href="mailto:ellerie@upro.ai"&gt;ellerie@upro.ai&lt;/a&gt; or wx 备注名字+岗位 (id:15656339999 ) 欢迎提问、沟通及了解岗位。&lt;/p&gt;
+&lt;p&gt;说一下招聘画像吧，欢迎大家自己匹配:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;选择 OBS 内置的服务提供商，这是最简单的方法，但是我估计绝大部分国内都用不了，剩下来的速度估计也很慢。如果有人尝试过可以分享一下。&lt;/p&gt;
+&lt;p&gt;对 AI 有热情，了解或者自己上手使用过 LLM 产品&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;一些云服务厂商的流媒体服务。我现在在用 &lt;a href="https://learn.microsoft.com/zh-cn/azure/media-services/latest/media-services-overview" rel="nofollow"&gt;Azure 媒体服务&lt;/a&gt;，&lt;a href="https://azure.microsoft.com/zh-cn/pricing/details/media-services/" rel="nofollow"&gt;价格&lt;/a&gt;低并且支持 HEVC 编码。但是明年似乎就停止服务了。我准备尝试一下 Cloudflare Stream 。&lt;/p&gt;
+&lt;p&gt;工作年限 &amp;gt;= 3 年 （部分岗位工作 &amp;gt; 6 年大加分）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;自建，需要一个线路不错的 VPS 。&lt;/p&gt;
+&lt;p&gt;熟悉 Objective-C/Swift/Java/Kotlin Coroutine/Jetpack Compose/Python/Go/k8s/Redis/云原生/OpenAPI/React/NextJS/Vue/Vite/Node/tailwindcss ，并且有生产级项目流量经验&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 12 Nov 2023 08:29:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991187#reply2</guid></item><item><title>[生活] 国内双币信用卡办哪家好？</title><link>https://www.v2ex.com/t/991186#reply5</link><description>&lt;p&gt;用途：不支持 PayPal 的（或 PayPal 服务费太高时）一些服务付款，例如 vultr/甲骨文的 VPS ，CloudFlare ，GitHub Copilot ，OpenAI ，JetBrains 等。
-要求：省心。额度无所谓。个人消费习惯大体理性，还款习惯良好。&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:28:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991186#reply5</guid></item><item><title>[问与答] 宏碁掠夺者擎 neo 2023 怎么样？</title><link>https://www.v2ex.com/t/991185#reply0</link><description>观察了很久，最终定下来在双十一第一次买下了宏碁掠夺者擎 neo 2023 这款游戏本，有使用这款游戏本的吗？使用体验怎么样呢？</description><pubDate>Sun, 12 Nov 2023 08:16:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991185#reply0</guid></item><item><title>[Java] Linux 服务器上无法正确调用 Selenium 框架制作的爬虫接口问题怎么解决？</title><link>https://www.v2ex.com/t/991184#reply1</link><description>&lt;p&gt;本地使用就可以解决，但是服务器上不行&lt;/p&gt;
-&lt;p&gt;服务器的谷歌版本是 119.0.6045.123 ，chromedriver 的版本是 119.0.6045.105 ，我本地在 Windows 上都是可以正常运行的，但是 Linux 上就会报下面的异常&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: Chrome failed to start: exited normally.
-  (session not created: DevToolsActivePort file doesn't exist)
-  (The process started from chrome location /opt/google/chrome/chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
-Build info: version: '4.1.4', revision: '535d840ee2'
-System info: host: 'VM-0-17-ubuntu', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.15.0-206-generic', java.version: '1.8.0_362'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我去搜索引擎查了下这个异常，基本都是说谷歌浏览器的版本和 chromedriver 版本对不上的问题，但是我这个版本已经是最能对得上的了，完全切合的 chromedriver 版本我真找不到&lt;/p&gt;
-&lt;p&gt;这个问题卡了我挺久了，我不知道咋整所以来问问，看看有没有大佬能救下&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:15:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991184#reply1</guid></item><item><title>[分享创造] 分享一下 Quantumult X 启用链式代理</title><link>https://www.v2ex.com/t/991183#reply2</link><description>&lt;p&gt;最近因为 Clash 的风波，我把 macOS 端的代理工具也切换成 Quantumult X 了，发现网上对 Quantumult X 启用链式代理的讨论比较少，抛砖引玉一下。&lt;/p&gt;
-&lt;h2&gt;准备工作&lt;/h2&gt;
-&lt;p&gt;一台 VPS 用作 Shadowsocks 服务端，因为 VPS 是和机场连接，并不直接和本地连接，不需要做混淆之类的。这是我的配置文件：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-    "server": "xx.xx.xxx.xxx",
-    "server_port": 10000,
-    "password": "xxxxxxxxx",
-    "method": "aes-256-gcm",
-    "mode": "tcp_and_udp",
-    "fast_open": true
+&lt;li&gt;
+&lt;p&gt;有 Hackathon 、开源项目经验者加分！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对 Mobile 性能优化或者工程架构有自己的理解，有过组件化、CICD （持续集成 持续部署）、卡顿发热优化、跨端等相关经验的加分！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;熟悉 SQL 和 Postgres 数据库设计，具备 Postgresql 数据库设计和性能优化经验&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;能够跟上技术发展潮流，积极主动的学习，对技术有自己的理解和选择&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对云原生/事件驱动架构有一定了解，加分！&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Mon, 13 Nov 2023 08:48:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991532#reply3</guid></item><item><title>[酷工作] [杭州] 寻 2D 休闲类卡牌的游戏美术</title><link>https://www.v2ex.com/t/991528#reply0</link><description>&lt;p&gt;优先寻找合伙人，也可以开工资。要求全职、线下。&lt;/p&gt;
+&lt;p&gt;我们公司目前在做一款类卡片的悠闲游戏，主体玩法都完成了，单机模式已经编码完成，正在做的成就系统和排行榜。
+总的来说作为单机游戏，实际上可玩了。&lt;/p&gt;
+&lt;p&gt;但鉴于对游戏世界观、视觉元素的包装，会对游戏体验也会带来极大的提升。需要有自己想法，并且能够用美术来传达给玩家的美术人员。&lt;/p&gt;
+&lt;p&gt;开发阶段界面是这样的：
+&lt;img alt="视觉稿" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/11/13/aaf2a98ae0a48.png" /&gt;&lt;/p&gt;
+&lt;p&gt;接下来的工作是完善世界观故事、玩法引导、卡片故事、文案美术素材完善等。&lt;/p&gt;
+&lt;p&gt;如果是有自己 storytelling 能力的美术那是最好了。首选合伙人，按收入分成，调动各方能动力。如果双方觉得都 OK 的情况下，按合同工开工资也是可以的。&lt;/p&gt;
+&lt;p&gt;产品规划：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;短期上微信创意小游戏，赚广告费&lt;/li&gt;
+&lt;li&gt;长期，等版号，上单独 app&lt;/li&gt;
+&lt;li&gt;
+海外&lt;ul&gt;
+&lt;li&gt;海外市场，需要针对性的对世界观做本地化，付费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有意者：  xiangheka 网易 163 邮箱&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991528#reply0</guid></item><item><title>[程序员] 请问 net::ERR_CONNECTION_RESET 200 (OK)是怎么回事</title><link>https://www.v2ex.com/t/991526#reply1</link><description>今天我的网站后台访问一片空白，打开浏览器控制台，看到挺多资源出现&lt;br /&gt;GET xxxxxxx/plugins/jQuery/jQuery-2.1.4.min.js net::ERR_CONNECTION_RESET 200 (OK)&lt;br /&gt;GET xxxxxxx net::ERR_CONNECTION_RESET 200 (OK)&lt;br /&gt;&lt;br /&gt;而且不固定，多刷新几次，有时候会换其他资源报这个，有时候页面又正常了。我看了服务端日志，没排查到有什么报错日志，很诡异</description><pubDate>Mon, 13 Nov 2023 08:30:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991526#reply1</guid></item><item><title>[生活] 轻断食是不是伪科学？</title><link>https://www.v2ex.com/t/991525#reply12</link><description>&lt;p&gt;感觉连体重都减不了&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991525#reply12</guid></item><item><title>[音乐] 分享音乐：每周分享 3 首歌</title><link>https://www.v2ex.com/t/991524#reply0</link><description>&lt;p&gt;最近突发奇想：其实一些方面我还是有很多东西可以分享的（比如音乐），只是我不太爱表达，不太爱发朋友圈，只有很熟悉我的人才能了解我&lt;/p&gt;
+&lt;p&gt;并且自媒体的本质不就是分析有价值内容么，我现在喜欢听的很多歌有点小众，但又很好听，应该很多人没听过，并且听了之后会喜欢&lt;/p&gt;
+&lt;p&gt;所以就搞了一个分享音乐的公众号（ xiaoduanaiyinyue ），每周分享 3 首歌，欢迎大家关注！&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991524#reply0</guid></item><item><title>[宽带症候群] 广东电信带公网的宽带如果换套餐会不会影响公网</title><link>https://www.v2ex.com/t/991523#reply9</link><description>&lt;p&gt;之前在其他站看到有人套餐变更之后变成内网了，已经申请了公网的账号实际上变更套餐会不会受影响&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:29:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991523#reply9</guid></item><item><title>[SSH] 请教个的 ssh 连接不上的问题， SSH2_MSG_KEXINIT sent 后马上关闭了</title><link>https://www.v2ex.com/t/991522#reply2</link><description>&lt;p&gt;服务器环境：Debian 12
+ssh：OpenSSH_9.2p1 Debian-2+deb12u1, OpenSSL 3.0.11 19 Sep 2023&lt;/p&gt;
+&lt;p&gt;1.本地终端如 Microsoft terminal 可以正常 ssh 连接&lt;br /&gt;
+2.同步对比软件 beyond compare 无法连接此服务器，但是可以正常连接其他老的 centos 服务器&lt;br /&gt;
+3.还是怀疑是我 beyond compare 版本太老了，下了最新的 beyond compare4 ，可以正常连接&lt;br /&gt;
+4.sshd 我开启了密码和密钥都可以认证，为啥 beyond compare3 还是不能连接，我就开启了日志 debug 模式，看看发生什么问题，发现在 SSH2_MSG_KEXINIT sent 后就直接关闭了，下面是日志，而本地客户端是看不到日志的，我查了下有说让我重新生成一下 ssh_host*,有的说 mtu 设置不对。试了都不行。&lt;br /&gt;
+2023-11-13T15:50:26.806667+08:00 xxxxx sshd[222683]: debug1: Forked child 222693.&lt;br /&gt;
+2023-11-13T15:50:26.807145+08:00 xxxxx sshd[222693]: debug1: Set /proc/self/oom_score_adj to 0&lt;br /&gt;
+2023-11-13T15:50:26.807247+08:00 xxxxx sshd[222693]: debug1: rexec start in 4 out 4 newsock 4 pipe 6 sock 7&lt;br /&gt;
+2023-11-13T15:50:26.816725+08:00 xxxxx sshd[222693]: debug1: inetd sockets after dupping: 4, 4&lt;br /&gt;
+2023-11-13T15:50:26.816825+08:00 xxxxx sshd[222693]: Connection from 1.1.1.1 port 62336 on 2.1.1.1 port 10011 rdomain ""&lt;br /&gt;
+2023-11-13T15:50:26.816891+08:00 xxxxx sshd[222693]: debug1: Local version string SSH-2.0-OpenSSH_9.2p1 Debian-2+deb12u1&lt;br /&gt;
+2023-11-13T15:50:26.824087+08:00 xxxxx sshd[222693]: debug1: Remote protocol version 2.0, remote software version Beyond&lt;br /&gt;
+2023-11-13T15:50:26.824194+08:00 xxxxx sshd[222693]: debug1: compat_banner: no match: Beyond&lt;br /&gt;
+2023-11-13T15:50:26.825178+08:00 xxxxx sshd[222693]: debug1: permanently_set_uid: 101/65534 [preauth]&lt;br /&gt;
+2023-11-13T15:50:26.825337+08:00 xxxxx sshd[222693]: debug1: list_hostkey_types: rsa-sha2-512,rsa-sha2-256,ecdsa-sha2-nistp256,ssh-ed25519 [preauth]&lt;br /&gt;
+2023-11-13T15:50:26.825398+08:00 xxxxx sshd[222693]: debug1: SSH2_MSG_KEXINIT sent [preauth]&lt;br /&gt;
+2023-11-13T15:50:26.833071+08:00 xxxxx sshd[222693]: Connection closed by 1.1.1.1 port 62336 [preauth]&lt;br /&gt;
+2023-11-13T15:50:26.833245+08:00 xxxxx sshd[222693]: debug1: do_cleanup [preauth]&lt;br /&gt;
+2023-11-13T15:50:26.833372+08:00 xxxxx sshd[222693]: debug1: monitor_read_log: child log fd closed&lt;br /&gt;
+2023-11-13T15:50:26.833414+08:00 xxxxx sshd[222693]: debug1: do_cleanup&lt;br /&gt;
+2023-11-13T15:50:26.833454+08:00 xxxxx sshd[222693]: debug1: Killing privsep child 222694&lt;br /&gt;
+2023-11-13T15:50:26.833487+08:00 xxxxx sshd[222693]: debug1: audit_event: unhandled event 12&lt;br /&gt;&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:26:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991522#reply2</guid></item><item><title>[程序员] 由于没找到支持纳秒时间戳转换的工具，所以我就写了一个时间戳转换工具。。一个 chrome 插件</title><link>https://www.v2ex.com/t/991521#reply1</link><description>我目前的项目，数据库中存的时间戳，有些是纳秒级别的，每次都要删掉后面的数字，然后用秒来转换。。太难受了，倒是有一些网页工具可以支持纳秒，但。。那也太难用了，忍不了！！！&lt;br /&gt;&lt;br /&gt;有一些接口入参也需要传纳秒，我又得在秒时间戳后加 0 。。更难受，有时候不小心还多加 1 个[崩溃]！！！&lt;br /&gt;&lt;br /&gt;“你说什么？写个脚本自动生成不就行了？” NO ，我拒绝这种方式！&lt;br /&gt;&lt;br /&gt;然后，开始着手开发。。。就有了下面这个玩意[微笑]&lt;br /&gt;传送门： &lt;a href="https://chrome.google.com/webstore/detail/finely-timestamp%EF%BC%88%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7%EF%BC%89/billegbchebejgdppcpkkhmamjpkhbdd" rel="nofollow noopener" target="_blank"&gt;https://chrome.google.com/webstore/detail/finely-timestamp%EF%BC%88%E6%97%B6%E9%97%B4%E6%88%B3%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7%EF%BC%89/billegbchebejgdppcpkkhmamjpkhbdd&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;支持秒(s)，毫秒(ms)，微秒(μs)，纳秒(ns)，皮秒(ps)级别的时间戳与日期之间的转换，支持时区切换。&lt;br /&gt;&lt;br /&gt;那就这样，各位大佬，我脸皮薄，轻点喷~[拜托]</description><pubDate>Mon, 13 Nov 2023 08:19:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991521#reply1</guid></item><item><title>[Android] android app 360 加固后容易被破解，导致接口被盗用，有没有合适的第三方服务可以解决这个问题？</title><link>https://www.v2ex.com/t/991520#reply6</link><description>&lt;p&gt;app 接口出现被盗用的情况，太贵的加固服务就不考虑&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:19:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991520#reply6</guid></item><item><title>[求职] [大数据/ Java ]求职一份远程工作</title><link>https://www.v2ex.com/t/991519#reply0</link><description>&lt;h3&gt;专业能力&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;逻辑思维能力强，扎实的计算机基础，熟练使用 Java/Python 语言；&lt;/li&gt;
+&lt;li&gt;熟悉 Hadoop 、Flink 、Kafka 等的工作原理；&lt;/li&gt;
+&lt;li&gt;丰富的大数据日志采集系统、实时处理、后台架构设计经验；&lt;/li&gt;
+&lt;li&gt;具备独立沟通需求，设计，架构，开发的能力。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 13 Nov 2023 08:15:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991519#reply0</guid></item><item><title>[4G] 自己长辈父母一代， 4G 流量蹭蹭的涨，还说没怎么用？</title><link>https://www.v2ex.com/t/991517#reply26</link><description>很好奇，自己长辈父母一代，4G 流量蹭蹭的涨，还说没怎么用？&lt;br /&gt;&lt;br /&gt;什么叫没怎么用，天天的早、中、晚看微信各种小程序直播、企业微信直播等，天天的微信中的各种直播就是买买买，流量能不蹭蹭的涨嘛？&lt;br /&gt;&lt;br /&gt;流量不说，就单纯连接家里的 WIFI 网络，从 2023.11.01~2023.11.13 这 13 天的时间内，我查看了一下单纯的手机使用 WIFI 网络数据下行流量就使用了：32.72GB ，上行才用了 3.83GB 。&lt;br /&gt;&lt;br /&gt;我是真服了他们，天天看看看直播，买买买，说她们也不听。他们还老说自己：“没怎么用”、“没怎么用”、“没怎么用”！！！</description><pubDate>Mon, 13 Nov 2023 08:13:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991517#reply26</guid></item><item><title>[Java] rtsp 视频流转换为 http 视频流问题</title><link>https://www.v2ex.com/t/991516#reply6</link><description>&lt;p&gt;现在有一个 rtsp 视频流 rtsp://172.16.200.32:8554/stream 。我先用 ffmpeg 转码成 rtmp 视频流，格式是 flv ，链接是 rtmp://172.16.200.32/live/stream 。现在视频还是可以正常播放的。然后我用 Nginx 搭配上 nginx-rtmp-module 插件转换成 http 视频流。具体配置如下
+rtmp {
+server {
+listen 1935;
+chunk_size 4096;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    application live {
+        live on;
+        record off;
+    }
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在 Quantumult X 的 设置 -&amp;gt; 节点 -&amp;gt; 节点资源，新建配置如下（和服务端配置对应）：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-conf"&gt;shadowsocks=xx.xx.xxx.xxx:xxxxx, method=aes-256-gcm, password=xxxxxxxxx, fast-open=true, udp-relay=true, tag=hh-jp
+&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;http {
+server {
+listen 8080;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    location /live {
+        flv_live on;
+        chunked_transfer_encoding off;
+    }
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;配置中转分流规则&lt;/h2&gt;
-&lt;p&gt;在 Quantumult X 设置 -&amp;gt; 配置文件 -&amp;gt; 编辑，会弹出一个编辑框，在分流规则部分 [filter_local] 的尾部加入以下规则：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-conf"&gt;ip-cidr, xx.xx.xxx.xxx/32, ♾️ Relay
-# 有两种选择，直接给 final 加上中转
-final, hh-jp, via-interface=%TUN%
-# 或者针对特定域名加上中转，我比较推荐这种
-host-suffix, xxx.xxx, hh-jp, via-interface=%TUN%
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;其中第一行 ip-cidr 的规则，是为了让所有流经 VPS 的流量，都通过机场的节点进行中转，&lt;code&gt;♾️ Relay&lt;/code&gt; 这个策略组是我新建的，你可以把它重命名为你目前现有的规则策略或者新增一个策略组来专门做转发。&lt;/p&gt;
-&lt;p&gt;如果你觉得一个域名一个域名加比较麻烦，也可以直接针对 final 添加中转，需要注意如果已经存在 final 的规则，把原有的删掉。&lt;/p&gt;
-&lt;h2&gt;如何确认配置成功&lt;/h2&gt;
-&lt;p&gt;有两种方式可以确认流量是走的链式代理：&lt;/p&gt;
-&lt;h3&gt;在 Quantumult X 查看流量日志&lt;/h3&gt;
-&lt;p&gt;在 Quantumult X 的网络活动菜单栏，请求配置后的中转域名，应该会有两条流量记录产生：一条记录的目标服务器是 HH-JP ，也就是我配置的 VPS 节点名称；另一条记录的目标服务器就是 JAPAN 17 ，也就是机场的节点。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="示例" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/t02Jvbk.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;在 VPS 节点查看&lt;/h3&gt;
-&lt;p&gt;在 VPS 运行命令：lsof -i:[listen_port]，查看目前这个端口的活动链接的另一端的 IP 是否为机场节点的 IP 。&lt;/p&gt;
-&lt;p&gt;以上部分转载自我的&lt;a href="https://blog.itswincer.com/posts/quantumult-x-chain-proxy-setup/#%E9%93%BE%E5%BC%8F%E4%BB%A3%E7%90%86%E7%9A%84%E9%85%8D%E7%BD%AE" rel="nofollow"&gt;博客文章&lt;/a&gt;。&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:04:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991183#reply2</guid></item><item><title>[分享创造] 基于 Redis 作者 Salvatore Sanfilippo 的聊天室项目： smallchat 开发了 rust 版本</title><link>https://www.v2ex.com/t/991182#reply3</link><description>&lt;p&gt;灵感来自 Redis 作者 Salvatore Sanfilippo 最近创建一个新的演示项目：smallchat&lt;/p&gt;
-&lt;p&gt;基于 rust 异步编程和 tokio 异步框架实现。&lt;/p&gt;
-&lt;p&gt;之前看了 rust 的基础，最近这两天又学习了一下 rust 异步编程和 tokio 框架。&lt;/p&gt;
-&lt;p&gt;整体感觉：rust 写 code 还是挺舒服。&lt;/p&gt;
-&lt;p&gt;rust 初学者，欢迎大家多多指正，共同学习。&lt;/p&gt;
-&lt;p&gt;项目地址  &lt;a href="https://github.com/jw-jackson/smallchat-rs" rel="nofollow"&gt;https://github.com/jw-jackson/smallchat-rs&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 12 Nov 2023 08:03:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991182#reply3</guid></item><item><title>[Windows] iPhone 怎么方便的解锁 Windows 电脑呢</title><link>https://www.v2ex.com/t/991181#reply11</link><description>双十一买了一台零刻主机做,现在 mac+win 双机党,主力 mac 通过 Synergy 这类软件控制 win ，我的 win 用户密码是 50 位的，手动输入会怀疑人生,买 USB 指纹器又显得很麻烦， 请问有什么更优雅的方式，以苹果设备解锁 win 电脑吗？</description><pubDate>Sun, 12 Nov 2023 07:59:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991181#reply11</guid></item><item><title>[YouTube] 加入 YouTube 家庭组后很多按钮点不了</title><link>https://www.v2ex.com/t/991179#reply1</link><description>网页版，右上角头像点不了，已订阅也无法取消订阅。&lt;br /&gt;&lt;a href="https://imgur.com/4qBVBzt" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/4qBVBzt&lt;/a&gt;</description><pubDate>Sun, 12 Nov 2023 07:43:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991179#reply1</guid></item></channel></rss>
+&lt;p&gt;}
+最后使用的 http 视频流链接是 &lt;a href="http://172.16.200.32:8080/live/stream.flv" rel="nofollow"&gt;http://172.16.200.32:8080/live/stream.flv&lt;/a&gt; 。但是就是没办法正常播放，提示无法连接。服务器的端口也正常能访问，这是为什么呢？&lt;/p&gt;</description><pubDate>Mon, 13 Nov 2023 08:04:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/991516#reply6</guid></item></channel></rss>
