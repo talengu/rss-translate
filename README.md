@@ -10,7 +10,7 @@ you can edit [test.ini](https://github.com/talengu/rss-translate/edit/main/test.
 next find the translated link in [https://talengu.github.io/rss-translate/](https://talengu.github.io/rss-translate/)
 
 ## 20230814 update
-- support proxy mode. you can set `action = "proxy"` in test.ini like [source010](https://github.com/talengu/rss-translate/blob/f6648c5262f4fa0926310dbe43fff820bf727ac7/test.ini#L67)
+- support proxy mode. you can set `action = "proxy"` in test.ini like [source010](https://github.com/talengu/rss-translate/blob/f6648c5262f4fa0926310dbe43fff820bf727ac7/test.ini#L67).
  Proxy mode does not translate the rss, and directly show the original rss.
 
 ## 20230702 update 
