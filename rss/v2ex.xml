@@ -1,97 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 16 Nov 2023 19:31:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 寻找技术小伙伴，主要协助我搭建各种环境还有拉 github 上的项目</title><link>https://www.v2ex.com/t/992634#reply1</link><description>&lt;p&gt;我是一个对技术充满热情的个人，但是我的基础为 0.这是一个基于爱好的项目，复杂难度对于会编程的人来说几乎为 0 ，因此提供的报酬可能不会很高，如果你感兴趣，并且想在一个轻松友好的环境中提升你的技术能力，请联系我 tg：QHhyZXR1cm4= vx：aGV5empz&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 18:33:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992634#reply1</guid></item><item><title>[程序员] 请问你用什么 AI 工具来创作视频？</title><link>https://www.v2ex.com/t/992633#reply0</link><description>&lt;p&gt;主要是用在日常生活和工作（比如电商图片以及短视频）。&lt;/p&gt;
-&lt;p&gt;目前用 Chatgpt 来生成初步文案，然后进行精细的修改。&lt;/p&gt;
-&lt;p&gt;生活方面短视频则是用 &lt;a href="http://canva.com" rel="nofollow"&gt;canva.com&lt;/a&gt; 或者是剪映。&lt;/p&gt;
-&lt;p&gt;工作方面（电商）主要用 Pebblely - Pebblely -电商设计，产品图片转成电商图片图片和详情页制作。
-Runway-视频剪辑-绿幕抠像，视频合成&lt;/p&gt;
-&lt;p&gt;抛砖引玉想了解下各位用什么 AI 工具来完成做图，做视频，做文案的工具？ 特别是刚出来声纹识别后生成实时演讲/对话不同语言， 先提前感谢分享。&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 17:43:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992633#reply0</guid></item><item><title>[程序员] 一个基于 Python 的 ChatGPT Telegram Bot [无限 Token] （代码已开源）</title><link>https://www.v2ex.com/t/992631#reply0</link><description>&lt;p&gt;&lt;img alt="python-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/python-3.9+-blue.svg" /&gt;
-&lt;a href="https://github.com/python-telegram-bot/python-telegram-bot/releases/tag/v20.3" rel="nofollow"&gt;&lt;img alt="python-telegram-bot-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/PythonTelegramBot-20.3+-critical.svg" /&gt;&lt;/a&gt;
-&lt;img alt="db" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/db-MySQL8-ff69b4.svg" /&gt;
-&lt;a href="https://openai.com/" rel="nofollow"&gt;&lt;img alt="openai-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/openai-0.27.6-orange.svg" /&gt;&lt;/a&gt;
-&lt;a href="https://www.v2ex.com/LICENSE" rel="nofollow"&gt;&lt;img alt="license" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /&gt;&lt;/a&gt;
-&lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;&lt;img alt="bot" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/TelegramBot-@RoboAceBot-blueviolet.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bot 地址(&lt;strong&gt;无限 Token&lt;/strong&gt;)： &lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;https://t.me/RoboAceBot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub: &lt;a href="https://github.com/V-know/ChatGPT-Telegram-Bot" rel="nofollow"&gt;https://github.com/V-know/ChatGPT-Telegram-Bot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;一个拥有丝滑 AI 体验的 Telegram Bot&lt;/p&gt;
-&lt;h2&gt;⚡Feature&lt;/h2&gt;
-&lt;p&gt;[✓] 同时支持 Azure OpenAI 和原生 OpenAI 接口&lt;/p&gt;
-&lt;p&gt;[✓] 实时（流式）返回 AI 响应的答案，体验更快捷、更丝滑&lt;/p&gt;
-&lt;p&gt;[✓] 预设 15 种 Bot 身份，可快速切换&lt;/p&gt;
-&lt;p&gt;[✓] 支持自定义 Bot 身份，满足个性化需求&lt;/p&gt;
-&lt;p&gt;[✓] 支持上下文件内容一键清空，随时重开会话&lt;/p&gt;
-&lt;p&gt;[✓] Telegram Bot 原生按钮支持，直观快捷实现需要功能&lt;/p&gt;
-&lt;p&gt;[✓] 用户等级划分，不同等级享有不同单次会话 Token 数量、上下文数量和会话频率&lt;/p&gt;
-&lt;p&gt;[✓] 支持中/英双语切换&lt;/p&gt;
-&lt;p&gt;[✓] More ...&lt;/p&gt;
-&lt;p&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://media.giphy.com/media/gqKOf9LOL6xYK1Bmbv/giphy.gif" /&gt;
-&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 17:28:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992631#reply0</guid></item><item><title>[宽带症候群] 求问，换了个机场，结果 MerlinClash 的面板没有国内媒体，国内网站和国外媒体，国外网站分类了，怎么把他搞出来</title><link>https://www.v2ex.com/t/992630#reply1</link><description>现在多了 2 个莫名其妙的选项&lt;br /&gt;&lt;br /&gt;一个是 Final&lt;br /&gt;&lt;br /&gt;一个是 GLOBAL&lt;br /&gt;&lt;br /&gt;这两个要选择直连还是手动切换&lt;br /&gt;&lt;br /&gt;另外 chatGPT 我节点已经选择了 TW ，怎么还是报错&lt;br /&gt;&lt;br /&gt;还有微软的 GPT ，我也已经选择了 TW ，怎么还是用不了&lt;br /&gt;&lt;br /&gt;都说在当前地区未开放</description><pubDate>Thu, 16 Nov 2023 17:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992630#reply1</guid></item><item><title>[Apple] iPad Mini 6 坐飞机起飞降落时会被空姐要求关掉吗？</title><link>https://www.v2ex.com/t/992629#reply11</link><description>由于我日常几乎每周都要飞 1-2 次，现在起飞降落时除了看书真没什么事好干，iPad Pro 总是被视为“大型电子设备”要求收起来。&lt;br /&gt;&lt;br /&gt;iPad Mini 这么小的尺寸，不知道 Mini6 的机主们在实操中遇到过被要求收起来的时候吗？&lt;br /&gt;&lt;br /&gt;如果不会，那就马上入手一台 iPad Mini 6 蜂窝版。</description><pubDate>Thu, 16 Nov 2023 17:05:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992629#reply11</guid></item><item><title>[编程] 不算项目核心功能的 IM 组件能采用 HTTP 长轮询、而非 WebSocket 吗</title><link>https://www.v2ex.com/t/992628#reply1</link><description>&lt;p&gt;感觉使用 WebSocket 会给程序带来更多的复杂性，WebSocket 这种有状态的协议是不是也比较难做负载均衡，而且用户量也不算大，就想要不用 HTTP 长轮询得了&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 17:04:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992628#reply1</guid></item><item><title>[分享创造] 一款专为低代码平台打造的轻量级 GUI 库，欢迎围观！</title><link>https://www.v2ex.com/t/992627#reply1</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/feI7RAJ.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Github: &lt;a href="https://github.com/acrodata/gui" rel="nofollow"&gt;https://github.com/acrodata/gui&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Website: &lt;a href="https://acrodata.github.io/gui/" rel="nofollow"&gt;https://acrodata.github.io/gui/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;肝了差不多半个月，终于把官网做好了，其中最难的是如何设计一个能体现 GUI 特性的 DEMO 案例。苦思冥想了四五天，最终做了一个渐变背景的生成器（上图所示），这个小工具可以实现非常复杂的渐变图案，欢迎把玩！&lt;/p&gt;
-&lt;p&gt;该 GUI 库主要用于低代码平台的组件配置栏，纯 JSON 配置，可以实现&lt;strong&gt;任意数据结构&lt;/strong&gt;的嵌套组合。&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 16:29:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992627#reply1</guid></item><item><title>[问与答] 谁能告诉我 QQ 邮箱该用哪个密码？</title><link>https://www.v2ex.com/t/992625#reply4</link><description>如题，我又又又被垃圾 QQ 邮箱搞了心态！&lt;br /&gt;&lt;br /&gt;Mac 的 &lt;a href="http://mail.app" rel="nofollow noopener" target="_blank"&gt;mail.app&lt;/a&gt; 上添加的 QQ 邮箱到底是哪个密码？一共试过了三个密码，分别是：&lt;br /&gt;1. QQ 密码&lt;br /&gt;2. QQ 邮箱独立密码&lt;br /&gt;3. 通过发短信，生成的 POP3/IMAP/SMTP/Exchange/CardDAV 授权码&lt;br /&gt;&lt;br /&gt;结果，不出意外的全部错误🙅。&lt;br /&gt;&lt;br /&gt;谁能救救孩子😭😭😭</description><pubDate>Thu, 16 Nov 2023 16:25:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992625#reply4</guid></item><item><title>[Apple] Apple One 新加坡区求车友</title><link>https://www.v2ex.com/t/992623#reply1</link><description>&lt;p&gt;6 人车队共享
-Apple Music ，Apple TV+ ，Apple Arcade 和 iCloud 400GB （ Apple one 默认 200 ，自行追加了 200 ）
-需自备新加坡区 Apple ID
-季付 90
-我承担一切银行汇率，手续费等，
-email： &lt;a href="mailto:loveyousean@supermorgan.uk"&gt;loveyousean@supermorgan.uk&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 16:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992623#reply1</guid></item><item><title>[Surge] Surge 5 for iOS 2 人位</title><link>https://www.v2ex.com/t/992622#reply0</link><description>&lt;p&gt;目前还有 2 个位置，130 买断，订阅更新至 2024/11/12 。&lt;br /&gt;
-如需换设备的可自行反激活，跳车不退。&lt;br /&gt;
-订阅到期后续有新功能可协商续订。&lt;br /&gt;
-建了个 TG 群，方便联系。 &lt;/p&gt;
-&lt;p&gt;TG：&lt;a href="https://t.me/+mLWdJgjH1RFjNTM1" rel="nofollow"&gt;点我&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 16:08:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992622#reply0</guid></item><item><title>[问与答] 机器学习小白，有个项目打工 QAQ 预测效果很差，求指点。</title><link>https://www.v2ex.com/t/992621#reply1</link><description>&lt;p&gt;如题&lt;/p&gt;
-&lt;p&gt;目标根据某公司往年财务数据，预测下年财务风险。&lt;/p&gt;
-&lt;p&gt;数据集：
-1000+公司 2008-2022 年的每年财务数据；按照已有论文从财务数据中已提取出 A,B,C,D 四个能力并量化，每个能力又由 4 方面指标如 a1,a2,a3,a4 构成。	
-(ps:存在新上市公司、存在被 ST 即被退市警告，以及退市公司)&lt;/p&gt;
-&lt;p&gt;问题：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 17 Nov 2023 03:22:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有了解西数为什么会注册这样一个奇怪的 api 网址吗？</title><link>https://www.v2ex.com/t/992722#reply0</link><description>RT.&lt;br /&gt;今天偶然翻阅 clash 的日志，发现电脑在半夜有几个失败的访问记录，链接是 api.fczbl.vip ，端口 443 。通过百度云和阿里云交叉查询确认 fczbl.vip 是注册在成都西数名下。&lt;br /&gt;但是如果单独搜索“api.fczbl.vip”，又发现会在个别博文中声明指向各种意义不明的 API 。&lt;br /&gt;需要额外排查什么进程或程序吗？</description><pubDate>Fri, 17 Nov 2023 03:22:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992722#reply0</guid></item><item><title>[OpenAI] 想购买 OpenAI 官方的 GPT4 api 账号</title><link>https://www.v2ex.com/t/992721#reply0</link><description>求卖这个东西的店铺。</description><pubDate>Fri, 17 Nov 2023 03:21:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992721#reply0</guid></item><item><title>[分享创造] [选果助手] 微信小程序</title><link>https://www.v2ex.com/t/992720#reply0</link><description>&lt;p&gt;又一个 MacRumors buyer's guide 小程序客户端：&lt;br /&gt;
+不同的是后端开源： &lt;a href="https://github.com/group900-3/buyers-guide-thief-worker" rel="nofollow"&gt;https://github.com/group900-3/buyers-guide-thief-worker&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;做着玩的，可以说是一个 cloudflare workers 的应用小试验。&lt;br /&gt;
+完全使用 workers 提供的免费额度，每个小时会从 macrumors 抓取数据（通过 scheduled worker ）。  &lt;/p&gt;
+&lt;p&gt;关于名字，本来想叫苹果导购来的，但是现在包含品牌的名字不让注册了。&lt;br /&gt;
+后来改成了“买果子”，结果审核说不能包含买卖字眼，无奈现在叫选果助手。&lt;br /&gt;
+总之名字不重要，这算是个试验吧，一种体验。  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;顺便想问一下大家平时除了看 macRumors 还会看类似的其他网页吗。想再收集一些信息丰富一下内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="gh_aaa6a38456fd_258.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/15/V6fXDpntY8B15ul.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:20:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992720#reply0</guid></item><item><title>[微信] 关于公众号 h5 网页拍照人脸核身被绕过的问题？</title><link>https://www.v2ex.com/t/992719#reply0</link><description>&lt;p&gt;想请教各位大佬们，我们的业务场景是这样的：学员通过公众号点进去网页登录，然后拍照再进行学习；现在的碰到的问题是有些培训机构通过技术手段直接绕过了拍照这一步，通过直接调用接口来实现刷脸，代学员学习。请问这种问题该怎么处理呢？&lt;/p&gt;
+&lt;p&gt;大致请求流程：手机端拍照完以后把照片数据 base64 以后调用后台人脸验证接口，然后后台再调用腾讯的 DetectLiveFace 接口。我猜想就是对方应该是所有操作通过接口来调用的，或者通过工具拦截篡改数据提交，具体也不清楚他们怎么做到的！&lt;/p&gt;
+&lt;p&gt;我们尝试过混淆前端代码或者密钥验证之类的，都防堵不住！不知如何处理是好，谢谢！&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992719#reply0</guid></item><item><title>[问与答] 12 岁男孩生日礼物求推荐</title><link>https://www.v2ex.com/t/992717#reply0</link><description>&lt;p&gt;楼主侄子过生日
+1 、预算 1000 元以内；
+2 、喜好游戏，蛋仔派对之类的；
+3 、已有 iPad 、iPhone 、儿童手表；
+4 、不爱读书；
+5 、对吃的兴趣也不大，一年四季爱喝西瓜冰沙。。
+6 、明年要换城市读中学，所以不想送太大的，搬家拿着不方便&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:15:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992717#reply0</guid></item><item><title>[奇思妙想] 想做个文字配图的移动端游戏，用什么引擎/框架比较容易</title><link>https://www.v2ex.com/t/992716#reply0</link><description>&lt;p&gt;我是后端，无聊想做个 RPG 的文字游戏，一来是有创作欲，二来是从没做过 app ，想玩玩。主要是图片 + 文字选选选之类的。想问一下用什么引擎会比较好，或者不用引擎，毕竟只是 UI 。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;通过 LSTM 等模型来进行时间序列预测，发现其实时间点太少，就十几个点(因为只有十几年时间点，训练效果感觉不好)&lt;/li&gt;
-&lt;li&gt;想要训练出一个适合整个行业(或者每个行业一个模型)的模型，就是不用针对每个公司单独训练模型可行么&lt;/li&gt;
-&lt;li&gt;调参数如何避免过拟合，怎么找到一个合适的调参方法？&lt;/li&gt;
+&lt;li&gt;以前已经试过做独立游戏，学过一点 Unity 。&lt;/li&gt;
+&lt;li&gt;Flutter ，这个要重新学。&lt;/li&gt;
+&lt;li&gt;React 这个 web 有比较多的经验。&lt;/li&gt;
+&lt;li&gt;我的主力语言是 Python/Golang ，js/ts/react 凑合。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;因为没有成体系学习过，只学习过数据分析与数据挖掘相关内容，有大佬指个路，那种实用的教程也行 QAQ&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 16:07:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992621#reply1</guid></item><item><title>[iOS] 如何实时传输 iPhone 摄像头的 1080p@240fps 到电脑上</title><link>https://www.v2ex.com/t/992620#reply0</link><description></description><pubDate>Thu, 16 Nov 2023 16:07:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992620#reply0</guid></item><item><title>[宽带症候群] 二台路由器设置 tailscale 组网不成功，路由器之间不能互相访问，应如何解决？</title><link>https://www.v2ex.com/t/992618#reply1</link><description>&lt;p&gt;最近在配置异地组网，具体情况如下：
-1 、家中 A ，华硕路由，已配置 tailscale ，路由管理页面 192.168.50.1 ，已开通 subnet 功能（域设置为了 192.168.50.0 ）
-2 、办公点 B ，istoreos,已配置 taiscale,路由管理页面 192.168.100.1 ，已开通 subnet 功能（域设置为了 192.168.100.0 ）
-3 、VPS  C ，windows 系统，已安装 tailscale 。&lt;/p&gt;
-&lt;p&gt;当前情况：A 访问 C ，√，通畅
-B 访问 C ，√，通畅
-C 访问 A 路由器 192.168.50.1 ，不通，C RDP 访问 A 局域网下电脑 192.168.50.135 ，不通&lt;/p&gt;
-&lt;p&gt;问题：1 、是否组网形式错了，看官方教程，应在 B 路由的 tailscale 公告子路由，应同时加入 192.168.50.0/24 和 192.168.100.0/24?这个配置过，但是也不成功
-2 、是否因为 IP 冲突了导致不能成功？&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:54:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992618#reply1</guid></item><item><title>[macOS] 有用 clean Shot X 这个截图软件的朋友吗？求教几个操作</title><link>https://www.v2ex.com/t/992617#reply1</link><description>&lt;p&gt;最近买了这个软件，看官网介绍截图功能的时候有个高级捕获模式，有下面三个功能
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="http://images.mfcguin.com/%E6%88%91%E7%9A%84%E5%9B%BE%E5%BA%8A/2023-11-16-CleanShot%202023-11-16%20at%2023.47.12%402x.png" /&gt;&lt;/p&gt;
-&lt;p&gt;放大镜和冷冻截图这个对我来说挺重要的，但我就是找不到怎么用这几个功能，现在的截图就只是框选截图，也没发冻结屏幕，也没有放大镜的效果，求问怎么才能有这几个功能？&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:52:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992617#reply1</guid></item><item><title>[NAS] 国外的群晖可以做节点使用吗？</title><link>https://www.v2ex.com/t/992616#reply13</link><description>&lt;p&gt;朋友在加拿大，有一台白群晖。我跟他说想使用它搞个 vpn 节点，使用 openai 会比较方便一些。&lt;/p&gt;
-&lt;p&gt;请问这个有没有比较成熟的方案。最好不动家里的路由器。&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:51:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992616#reply13</guid></item><item><title>[宽带症候群] 馒头求药啊，在一个小 pt 站练手感觉没事资源可以下了</title><link>https://www.v2ex.com/t/992615#reply1</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QqbMx8Q.png" /&gt; &lt;/p&gt;
-&lt;p&gt;邮箱：MjQ1NjcxNTg1QHFxLmNvbQ==&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992615#reply1</guid></item><item><title>[程序员] Win10 打不开 Windows store 是什么个情况</title><link>https://www.v2ex.com/t/992613#reply11</link><description>&lt;p&gt;这玩意我印象一直都有各种问题，但似乎只要解决了一直都是正常的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我刚刚重装了系统，并更新了最新补丁。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;应用商店死活打不开：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;报错：代码: 0x80131500&lt;/strong&gt;
-&lt;strong&gt;点击[刷新页面]: 清单中指定了未知的布局&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;版本&lt;/strong&gt;：22H2 专业教育版&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;区域&lt;/strong&gt;：新加坡 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;语言&lt;/strong&gt;：简体中文&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ISO&lt;/strong&gt;: zh-cn_windows_10_business_editions_version_22h2_updated_oct_2023_x64_dvd_eb713365&lt;/p&gt;
-&lt;p&gt;尝试过：&lt;/p&gt;
+&lt;p&gt;需求：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开发简单容易短平快。&lt;/li&gt;
+&lt;li&gt;接入广告。&lt;/li&gt;
+&lt;li&gt;能够有支付功能。&lt;/li&gt;
+&lt;li&gt;Android + iOS 。&lt;/li&gt;
+&lt;li&gt;基本是单机游戏，网络功能最多稍加辅助。&lt;/li&gt;
+&lt;li&gt;能够稍加修改上架 steam 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:14:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992716#reply0</guid></item><item><title>[问与答] 求助：怎么让必应恢复收录</title><link>https://www.v2ex.com/t/992715#reply1</link><description>&lt;p&gt;年轻的时候做了一个博客，当时年少无知，发现必应蜘蛛抓取太频繁了，就在 robots.txt 把它给阻止了。
+现在把必应蜘蛛的禁用去掉了，但已经过去有一个多月了还没有任何收录，还需要什么操作吗？
+求大佬支招。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:13:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992715#reply1</guid></item><item><title>[郑州] 郑州这个城市有前途吗，大家说说看</title><link>https://www.v2ex.com/t/992713#reply5</link><description>&lt;p&gt;已在郑州买房，也在郑州工作 4 年。现在上海工作。或许是个人见识短浅觉得郑州真没有什么前途。现在想着卖掉郑州的房子去杭州买。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:07:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992713#reply5</guid></item><item><title>[分享创造] 如何使用 Niche Finder 关键词工具做好营销关键词筛选提升流量？</title><link>https://www.v2ex.com/t/992712#reply0</link><description>&lt;p&gt;在数字营销的时代，关键词是通向成功的大门。什么是营销关键词，如何确定营销关键词？&lt;/p&gt;
+&lt;p&gt;对你的营销推广至关重要。今天就具体来聊聊关于营销关键词的哪些事儿。&lt;/p&gt;
+&lt;p&gt;什么是营关键词
+营销关键词是在营销活动中具有战略重要性的词汇或短语，用于吸引目标受众、提高网站在搜索引擎中的排名，从而增加流量、转化率和销售。这些关键词通常与产品、服务或目标受众的搜索行为密切相关。&lt;/p&gt;
+&lt;p&gt;如何确定营销关键词
+确定营销关键词是一项关键任务，需要深入了解目标市场和受众的搜索习惯。关键步骤包括：&lt;/p&gt;
+&lt;p&gt;目标受众分析： 确定你的目标受众是谁，了解他们的需求、兴趣和常用的搜索词。&lt;/p&gt;
+&lt;p&gt;竞争对手分析： 研究竞争对手使用的关键词，找到独特的、具有竞争优势的词汇。&lt;/p&gt;
+&lt;p&gt;行业趋势研究： 关注行业内的新趋势和热点话题，将其纳入关键词列表中。&lt;/p&gt;
+&lt;p&gt;工具辅助： 使用关键词研究工具，如 Niche Finder ，来发现潜在的利基关键字和热门搜索词。、&lt;/p&gt;
+&lt;p&gt;Niche Finder 关键词工具介绍&lt;/p&gt;
+&lt;p&gt;Niche Finder 关键词工具（ &lt;a href="https://nichefinder.xyz" rel="nofollow"&gt;https://nichefinder.xyz&lt;/a&gt; ），作为您事业成功的得力助手，旨在为您揭示数字世界中的黄金机会。通过先进的算法，我们不仅提供智能的关键词研究，更能深度挖掘潜在的利基关键字。&lt;/p&gt;
+&lt;p&gt;Niche Finder 关键词工具不仅仅是工具，更是您的市场洞察专家。我们的深层次网站剖析提供全面的市场了解，包括 SimilarWeb 排名、流量数据，甚至深入的 DNS 记录和媒体报告，为您呈现市场的全景画面。这是您制定营销策略、把握市场脉搏的不可或缺之一。&lt;/p&gt;
+&lt;p&gt;创新是我们的理念，导出功能的多样性正是体现。从图像到 PDF 再到 CSV 文件，不同格式的结果让您能够更灵活地呈现数据，定制化的报告更加突显您的专业水平。&lt;/p&gt;
+&lt;p&gt;Niche Finder 关键词工具还以直观的可视化方式展现竞争对手分析，通过图表和图形，轻松理解市场动态，助您作出更明智的竞争策略。而我们提供的专业级客户支持，确保您的每一个疑问都能得到及时解答。&lt;/p&gt;
+&lt;p&gt;与众不同的是，我们不仅提供工具，更有创新的联盟计划。通过推荐他人使用，您不仅为其带来利基发现的力量，还能分享成功的喜悦。与 Niche Finder 关键词工具携手，共创未来数字营销的辉煌。&lt;/p&gt;
+&lt;p&gt;如何使用 Niche Finder 关键词工具做好营销关键词筛选提升流量
+Niche Finder 关键词工具通过先进的算法和深度挖掘技术，为您提供了优越的关键词研究能力。以下是使用&lt;/p&gt;
+&lt;p&gt;Niche Finder 优化营销关键词的步骤&lt;/p&gt;
+&lt;p&gt;输入关键词： 在工具中输入与你的业务相关的主要关键词，让 Niche Finder 开始分析。&lt;/p&gt;
+&lt;p&gt;分析结果： 查看工具提供的关键词分析结果，注意其中的潜在利基关键字和与目标受众相关的词汇。&lt;/p&gt;
+&lt;p&gt;竞争对手分析： 利用工具的竞争对手分析功能，了解竞争对手的表现和使用的关键词，找到差异化的优势。&lt;/p&gt;
+&lt;p&gt;导出结果： 利用工具的创新导出功能，将关键词结果导出为图像、PDF 或 CSV 文件，以便更灵活地呈现数据和制作定制化的报告。&lt;/p&gt;
+&lt;p&gt;可视化分析： 使用工具提供的可视化分析，理解市场动态，帮助制定更明智的营销策略。&lt;/p&gt;
+&lt;p&gt;客户支持与社区联动： 如有疑问，利用 Niche Finder 提供的专业级客户支持，并加入用户社区，分享经验，共同成长。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:05:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992712#reply0</guid></item><item><title>[酷工作] 杭州余杭区有招聘 iOS 的吗？</title><link>https://www.v2ex.com/t/992711#reply0</link><description>&lt;p&gt;目前还在职，听说最近行情很差，尤其是移动端的。现在公司之前感觉还行，最近没啥业绩，开始抓考勤，指定一些苛刻的规定，开始变相想办法扣工资。不太想待了，因为公司需求一直很模糊，想考核量化基本上就是个扯皮的事情，想看看附近有没有其他机会。目前在公司负责 iOS 和安卓 App 开发。&lt;/p&gt;
+&lt;p&gt;技术栈：
+iOS 开发接近 10 年，混迹中小公司，做过以及上架多款软件。OC/Swift 都熟悉。
+熟悉 flutter 开发，用 flutter 做过两款软件，flutter 配合 GetX 框架感觉还可以。
+同时熟悉 android 开发，不算精通，但是维护公司现有软件开发新功能和修改 bug 还是没问题的。
+熟悉 IM 相关开发，熟悉蓝牙 Ble 开发，当前项目主要涉及到蓝牙通讯。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:04:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992711#reply0</guid></item><item><title>[问与答] WINTER IS COMING... 请问二十平方的小房间有什么节能又安全的制暧设备推荐吗？</title><link>https://www.v2ex.com/t/992710#reply5</link><description></description><pubDate>Fri, 17 Nov 2023 02:59:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992710#reply5</guid></item><item><title>[Apple] xr apple music 听无损音乐 每首歌会莫名其妙有一段加速</title><link>https://www.v2ex.com/t/992708#reply1</link><description>&lt;p&gt;rt
+是设备问题还是系统问题，目前已经是最新的 ios17.1.1
+大家有没有遇到类似的问题，怎么解决的&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:58:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992708#reply1</guid></item><item><title>[Apple] Drafts 黑五活动，赠送三个月免费 Pro</title><link>https://www.v2ex.com/t/992706#reply0</link><description>&lt;a href="https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1236254471&amp;amp;code=BF2023" rel="nofollow noopener" target="_blank"&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1236254471&amp;amp;code=BF2023&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;来源 &lt;a href="https://twitter.com/draftsapp/status/1725190526935220328" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/draftsapp/status/1725190526935220328&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎大家在这个帖子里分享 ios ，macos 的黑五软件/订阅服务优惠</description><pubDate>Fri, 17 Nov 2023 02:57:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992706#reply0</guid></item><item><title>[问与答] 关于睡午觉问题，请教下各位</title><link>https://www.v2ex.com/t/992704#reply5</link><description>工作日每天中午吃午饭了就睡觉，已经习惯了，但是周六周日出去快乐的时候，中午吃完饭也会困，不睡就很困，如果就是不睡，人就会有点不舒服吧，感觉不得劲，你们也会有这种感觉吗？有什么办法可以避免或者减轻这种周末不睡午觉带来的不适感。</description><pubDate>Fri, 17 Nov 2023 02:53:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992704#reply5</guid></item><item><title>[宽带症候群] 99 元的阿里云 使用 Let's encrypt 出现 Recv failure: Connection reset by peer</title><link>https://www.v2ex.com/t/992703#reply8</link><description>&lt;p&gt;前几天用大家伙发的 99 元链接买了一个阿里云，现在想部署一个静态网站，在申请证书的时候出现这个错误：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;get-appxpackage &lt;em&gt;store&lt;/em&gt; | remove-Appxpackage
-add-appxpackage -register "C:\Program Files\WindowsApps*Store*\AppxManifest.xml" -disabledevelopmentmode&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;wsreset&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Internet 高级设置：允许  [ tls 1.0 tls 1.1 tls 1.2 tls1.3 ] &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;netsh  的一坨命令&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Trying 47.116.0.64:80...&lt;/li&gt;
+&lt;li&gt;Connected to &lt;a href="http://xxx.xxx.com" rel="nofollow"&gt;xxx.xxx.com&lt;/a&gt; (47.116.0.64) port 80 (#0)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我挂了全局代理监测发现网络都是通的，也能看到 win store 应用在保持链接。&lt;/p&gt;
-&lt;p&gt;这要怎么解决啊，要重装吗？系统版本的问题么，要的话就得趁早！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://pic4.58cdn.com.cn/nowater/webim/big/n_v2b0c68f14a4e64dcfbf0ccc33a6fbe421.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image2" class="embedded_image" rel="noreferrer" src="https://pic2.58cdn.com.cn/nowater/webim/big/n_v26302dc743f2e4626bfdbe349862179f9.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:11:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992613#reply11</guid></item><item><title>[酷工作] 有没有接 scratch 二开的团队或者个人（💰💰💰💰💰）</title><link>https://www.v2ex.com/t/992612#reply0</link><description>&lt;p&gt;目前有个 scratch 二开的项目，希望找能做二开的团队或者个人。
-西安的项目，开发人员不限地点，当然要是在西安方便沟通。&lt;/p&gt;
-&lt;p&gt;具体需求，请联系+v：BlueCloudHerd
-好友请求，请注明：scratch 二开&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:08:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992612#reply0</guid></item><item><title>[分享创造] （完蛋！我被 LLM 包围了）在线版</title><link>https://www.v2ex.com/t/992611#reply24</link><description>&lt;p&gt;受《完蛋！我被 LLM 包围了》的作者 Haoqiang Fan 启发，我制作了一个在线版的，欢迎大家试玩 &lt;a href="https://modelleai.com/" rel="nofollow"&gt;https://modelleai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://modelleai.com/" rel="nofollow"&gt;ModelLe AI Game&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前还有很多功能都在开发中，欢迎大家试玩！&lt;/p&gt;</description><pubDate>Thu, 16 Nov 2023 15:06:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992611#reply24</guid></item><item><title>[问与答] 老妈今年 50 退休了，但是社保还差 4 年咋办</title><link>https://www.v2ex.com/t/992610#reply2</link><description>查了一圈好像不能补缴，我看她 08 年开始交的，断断续续交了 131 个月。&lt;br /&gt;然后和单位签的返聘合同，单位让她自己交社保&lt;br /&gt;一个月体力活辛辛苦苦只有 3000 多块钱&lt;br /&gt;还要交 1200 的社保再连续交 4 年&lt;br /&gt;有没有大佬知道有什么办法能一次性补缴的吗</description><pubDate>Thu, 16 Nov 2023 15:03:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992610#reply2</guid></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;GET /.well-known/acme-challenge/4z7pGgGgeMk6Jv_2emLgxuIfjeXzeSlYlPs1JwIiPt8 HTTP/1.1
+Host: &lt;a href="http://xxx.xxxx.com" rel="nofollow"&gt;xxx.xxxx.com&lt;/a&gt;
+User-Agent: curl/7.81.0
+Accept: &lt;em&gt;/&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Recv failure: Connection reset by peer&lt;/li&gt;
+&lt;li&gt;Closing connection 0
+curl: (56) Recv failure: Connection reset by peer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是国内访问确实正常，提交了阿里工单，原话如下：
+“我们在大陆服务器访问您提供的提示是 404,但在海外测试服务器上访问提示连接重置（ reset ）,let's encrypt 是海外证书机构,需要从海外访问这个站点,看现象是跨境链路问题导致。”&lt;/p&gt;
+&lt;p&gt;建议我使用阿里的免费证书或者换时间段试试。我之前用过阿里的服务器和腾讯云的服务器，还有公司的服务器，都没有出现这个错误。 这个是短期的问题，还是长期的？&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:52:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992703#reply8</guid></item><item><title>[程序员] 程序员自由创业周记#17：说不完的感谢</title><link>https://www.v2ex.com/t/992702#reply6</link><description>&lt;p&gt;&lt;img alt="封面" class="embedded_image" rel="noreferrer" src="https://images.pexels.com/photos/8250916/pexels-photo-8250916.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1600" /&gt;&lt;/p&gt;
+&lt;h3&gt;感谢&lt;/h3&gt;
+&lt;p&gt;认识我的人应该知道，现实生活中的我是一个比较有礼貌的人，即便是在今年 6 月从前公司 HR 手里接过《单方违法解除合同通知书》的时候我也是跟她说的是谢谢，并且进行了一番颇为友好的对话，感谢近三年来公司的培养。更不用说最近两天收到的很多陌生人各种对 &lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt; 的赞美和认可了，我也只有说不完的感谢。&lt;/p&gt;
+&lt;h3&gt;推广&lt;/h3&gt;
+&lt;p&gt;经过两个月的开发和完善，创业以来做的第 2 个软件：&lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt; 已经基本达到了进行推广的要求，程序员创业的大忌就是做的软件不进行推广，孤芳自赏，幻想着只通过自然流量爆火，也不是没有可能，但是很难。开发只是产品生命周期的第 1 步，后面还有 9 步要走。所以，在这周三，我开始了对&lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt;的“叫卖”，取得了
+一定的效果：
+&lt;img alt="11 月 15 趋势" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491891.iShot_2023-11-17_09.53.11.png" /&gt;&lt;/p&gt;
+&lt;p&gt;尝试了以下这些方案：&lt;/p&gt;
+&lt;h4&gt;1. 在 &lt;a href="https://www.v2ex.com/t/992091" rel="nofollow"&gt;V2EX&lt;/a&gt; 网站上抽奖送终生会员&lt;/h4&gt;
+&lt;p&gt;不得不说，V 站的用户是素质最高也是最热情的，截止目前有 4447 次访问，231 次回复，其中绝大部分回复都对软件表示了浓厚的兴趣和赞美。截取部分用户的回复：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;198plus： 支持一下，感觉不错&lt;/li&gt;
+&lt;li&gt;zheermao: 看上去不错，支持&lt;/li&gt;
+&lt;li&gt;pinkayo: 造福了非灵动岛设备的使用者，真是太棒了。可以好好体验一下&lt;/li&gt;
+&lt;li&gt;gabkfivyfbst: 不错啊看着，比很多软件的灵动岛设计都实用&lt;/li&gt;
+&lt;li&gt;ychen997: 一直在看你的博客，来支持一下&lt;/li&gt;
+&lt;li&gt;lefer: 非灵动岛用户刚刚付费了终身&lt;/li&gt;
+&lt;li&gt;lma8：挺有意思&lt;/li&gt;
+&lt;li&gt;wuhan027：已下载安装体验，感谢作者开发这么实用的 app ！&lt;/li&gt;
+&lt;li&gt;laragh：v2 的开发老哥们都这么顶么？支持一下~&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;231 回复，无一 diss 。感谢是说不完的，我能做的只有坚持创业，完善软件，对得起支持的朋友。 终生会员抽奖截止到今晚上 8 点，还有点时间，感兴趣的可以直接来这个链接： &lt;a href="https://www.v2ex.com/t/992091" rel="nofollow"&gt;https://www.v2ex.com/t/992091&lt;/a&gt;  （打开这个链接需要一点点科技）&lt;/p&gt;
+&lt;h4&gt;2. 在 &lt;a href="https://meta.appinn.net/t/topic/49268" rel="nofollow"&gt;小众软件&lt;/a&gt; 上发布产品介绍&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491908.17001883894040.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;3. 给&lt;a href="https://xinquji.com/posts/806536" rel="nofollow"&gt;新趣集&lt;/a&gt; 投稿&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491917.17001884899855.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;4. 在 &lt;a href="https://github.com/1c7/chinese-independent-developer" rel="nofollow"&gt;chinese-independent-developer&lt;/a&gt; 新增产品&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491924.17001885718786.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;5. 其他一些投稿目前还在审核：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;阮一峰周报&lt;/li&gt;
+&lt;li&gt;创造者日报&lt;/li&gt;
+&lt;li&gt;神器集&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;6. 朋友圈和微信公众号发布产品介绍&lt;/h4&gt;
+&lt;h3&gt;回归开发&lt;/h3&gt;
+&lt;p&gt;推广固然重要，一些用户反馈的希望有的新功能比如 实时网速、自定义背景、抢票定时器浮窗等 的开发需要沉下心来慢慢做，有时候慢就是快。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;往期文章：&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4NDE1MzIwNg==&amp;amp;action=getalbum&amp;amp;album_id=3044710252514050050#wechat_redirect" rel="nofollow"&gt;创业周记合集&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:50:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992702#reply6</guid></item><item><title>[问与答] 大部分人在社会上生活是为了赚钱，为什么小时候社会包括亲人却让我们好好学习而不是教我们怎么赚钱</title><link>https://www.v2ex.com/t/992700#reply6</link><description>&lt;p&gt;我感觉我被社会和家人都骗了。&lt;/p&gt;
+&lt;p&gt;小时候家里人让你好好学习，以后有个好工作。
+那好工作不就是为了有好的经济收入？为什么不直接教我们怎么赚钱呢？&lt;/p&gt;
+&lt;p&gt;好好学习的目的就是为社会更好的打工&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:49:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992700#reply6</guid></item><item><title>[问与答] 如何保证控制消息可靠？</title><link>https://www.v2ex.com/t/992699#reply5</link><description>&lt;p&gt;一个控制系统，发送端发送指令，接收端（不是自研，可能是 x86 ，可能是 plc ，pxi 设备等）接收指令。想问一下，在接收端做不到有能力处理重复消息或保证消息幂等的情况下，是不是无法同时保证这个消息的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;可靠性，消息不丢&lt;/li&gt;
+&lt;li&gt;及时送达， 消息第一时间被送达响应。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 17 Nov 2023 02:49:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992699#reply5</guid></item><item><title>[问与答] 求助 CloudFront 绑定备用域名的问题</title><link>https://www.v2ex.com/t/992698#reply0</link><description>&lt;p&gt;我在 CloudFront 已经创建好了一个实例，并且等它生效部署好了，备用域名用的*.xxx.com 这种通配符格式，ACM 证书也是注册的*.xxx.com 这个，并且已经解析好了，证书状态显示，已颁发，可以正常用了，但是我现在访问备用域名还是无法访问， 而实例分配的域名是可以正常访问的。&lt;/p&gt;
+&lt;p&gt;如图所示： &lt;a href="https://imgur.com/a/CVKMxf0" rel="nofollow"&gt;https://imgur.com/a/CVKMxf0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BTW ，这个 V 站发帖设计，哪个人才设计的，找了半天都找不到位置。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992698#reply0</guid></item><item><title>[问与答] 阿里云的美国硅谷云服务器，在印度、巴基斯坦、越南、日本、韩国的访问速度怎么样？</title><link>https://www.v2ex.com/t/992697#reply3</link><description>&lt;p&gt;只想买一个海外服务器在印度、巴基斯坦、越南、日本、韩国等地区访问，但不知道访问速度怎么样。有知道的大佬吗？&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:45:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992697#reply3</guid></item></channel></rss>
