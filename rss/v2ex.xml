@@ -1,137 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 17 Nov 2023 03:22:49 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有了解西数为什么会注册这样一个奇怪的 api 网址吗？</title><link>https://www.v2ex.com/t/992722#reply0</link><description>RT.&lt;br /&gt;今天偶然翻阅 clash 的日志，发现电脑在半夜有几个失败的访问记录，链接是 api.fczbl.vip ，端口 443 。通过百度云和阿里云交叉查询确认 fczbl.vip 是注册在成都西数名下。&lt;br /&gt;但是如果单独搜索“api.fczbl.vip”，又发现会在个别博文中声明指向各种意义不明的 API 。&lt;br /&gt;需要额外排查什么进程或程序吗？</description><pubDate>Fri, 17 Nov 2023 03:22:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992722#reply0</guid></item><item><title>[OpenAI] 想购买 OpenAI 官方的 GPT4 api 账号</title><link>https://www.v2ex.com/t/992721#reply0</link><description>求卖这个东西的店铺。</description><pubDate>Fri, 17 Nov 2023 03:21:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992721#reply0</guid></item><item><title>[分享创造] [选果助手] 微信小程序</title><link>https://www.v2ex.com/t/992720#reply0</link><description>&lt;p&gt;又一个 MacRumors buyer's guide 小程序客户端：&lt;br /&gt;
-不同的是后端开源： &lt;a href="https://github.com/group900-3/buyers-guide-thief-worker" rel="nofollow"&gt;https://github.com/group900-3/buyers-guide-thief-worker&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;做着玩的，可以说是一个 cloudflare workers 的应用小试验。&lt;br /&gt;
-完全使用 workers 提供的免费额度，每个小时会从 macrumors 抓取数据（通过 scheduled worker ）。  &lt;/p&gt;
-&lt;p&gt;关于名字，本来想叫苹果导购来的，但是现在包含品牌的名字不让注册了。&lt;br /&gt;
-后来改成了“买果子”，结果审核说不能包含买卖字眼，无奈现在叫选果助手。&lt;br /&gt;
-总之名字不重要，这算是个试验吧，一种体验。  &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;顺便想问一下大家平时除了看 macRumors 还会看类似的其他网页吗。想再收集一些信息丰富一下内容。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="gh_aaa6a38456fd_258.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/15/V6fXDpntY8B15ul.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:20:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992720#reply0</guid></item><item><title>[微信] 关于公众号 h5 网页拍照人脸核身被绕过的问题？</title><link>https://www.v2ex.com/t/992719#reply0</link><description>&lt;p&gt;想请教各位大佬们，我们的业务场景是这样的：学员通过公众号点进去网页登录，然后拍照再进行学习；现在的碰到的问题是有些培训机构通过技术手段直接绕过了拍照这一步，通过直接调用接口来实现刷脸，代学员学习。请问这种问题该怎么处理呢？&lt;/p&gt;
-&lt;p&gt;大致请求流程：手机端拍照完以后把照片数据 base64 以后调用后台人脸验证接口，然后后台再调用腾讯的 DetectLiveFace 接口。我猜想就是对方应该是所有操作通过接口来调用的，或者通过工具拦截篡改数据提交，具体也不清楚他们怎么做到的！&lt;/p&gt;
-&lt;p&gt;我们尝试过混淆前端代码或者密钥验证之类的，都防堵不住！不知如何处理是好，谢谢！&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992719#reply0</guid></item><item><title>[问与答] 12 岁男孩生日礼物求推荐</title><link>https://www.v2ex.com/t/992717#reply0</link><description>&lt;p&gt;楼主侄子过生日
-1 、预算 1000 元以内；
-2 、喜好游戏，蛋仔派对之类的；
-3 、已有 iPad 、iPhone 、儿童手表；
-4 、不爱读书；
-5 、对吃的兴趣也不大，一年四季爱喝西瓜冰沙。。
-6 、明年要换城市读中学，所以不想送太大的，搬家拿着不方便&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:15:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992717#reply0</guid></item><item><title>[奇思妙想] 想做个文字配图的移动端游戏，用什么引擎/框架比较容易</title><link>https://www.v2ex.com/t/992716#reply0</link><description>&lt;p&gt;我是后端，无聊想做个 RPG 的文字游戏，一来是有创作欲，二来是从没做过 app ，想玩玩。主要是图片 + 文字选选选之类的。想问一下用什么引擎会比较好，或者不用引擎，毕竟只是 UI 。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;以前已经试过做独立游戏，学过一点 Unity 。&lt;/li&gt;
-&lt;li&gt;Flutter ，这个要重新学。&lt;/li&gt;
-&lt;li&gt;React 这个 web 有比较多的经验。&lt;/li&gt;
-&lt;li&gt;我的主力语言是 Python/Golang ，js/ts/react 凑合。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;需求：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;开发简单容易短平快。&lt;/li&gt;
-&lt;li&gt;接入广告。&lt;/li&gt;
-&lt;li&gt;能够有支付功能。&lt;/li&gt;
-&lt;li&gt;Android + iOS 。&lt;/li&gt;
-&lt;li&gt;基本是单机游戏，网络功能最多稍加辅助。&lt;/li&gt;
-&lt;li&gt;能够稍加修改上架 steam 。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:14:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992716#reply0</guid></item><item><title>[问与答] 求助：怎么让必应恢复收录</title><link>https://www.v2ex.com/t/992715#reply1</link><description>&lt;p&gt;年轻的时候做了一个博客，当时年少无知，发现必应蜘蛛抓取太频繁了，就在 robots.txt 把它给阻止了。
-现在把必应蜘蛛的禁用去掉了，但已经过去有一个多月了还没有任何收录，还需要什么操作吗？
-求大佬支招。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:13:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992715#reply1</guid></item><item><title>[郑州] 郑州这个城市有前途吗，大家说说看</title><link>https://www.v2ex.com/t/992713#reply5</link><description>&lt;p&gt;已在郑州买房，也在郑州工作 4 年。现在上海工作。或许是个人见识短浅觉得郑州真没有什么前途。现在想着卖掉郑州的房子去杭州买。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:07:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992713#reply5</guid></item><item><title>[分享创造] 如何使用 Niche Finder 关键词工具做好营销关键词筛选提升流量？</title><link>https://www.v2ex.com/t/992712#reply0</link><description>&lt;p&gt;在数字营销的时代，关键词是通向成功的大门。什么是营销关键词，如何确定营销关键词？&lt;/p&gt;
-&lt;p&gt;对你的营销推广至关重要。今天就具体来聊聊关于营销关键词的哪些事儿。&lt;/p&gt;
-&lt;p&gt;什么是营关键词
-营销关键词是在营销活动中具有战略重要性的词汇或短语，用于吸引目标受众、提高网站在搜索引擎中的排名，从而增加流量、转化率和销售。这些关键词通常与产品、服务或目标受众的搜索行为密切相关。&lt;/p&gt;
-&lt;p&gt;如何确定营销关键词
-确定营销关键词是一项关键任务，需要深入了解目标市场和受众的搜索习惯。关键步骤包括：&lt;/p&gt;
-&lt;p&gt;目标受众分析： 确定你的目标受众是谁，了解他们的需求、兴趣和常用的搜索词。&lt;/p&gt;
-&lt;p&gt;竞争对手分析： 研究竞争对手使用的关键词，找到独特的、具有竞争优势的词汇。&lt;/p&gt;
-&lt;p&gt;行业趋势研究： 关注行业内的新趋势和热点话题，将其纳入关键词列表中。&lt;/p&gt;
-&lt;p&gt;工具辅助： 使用关键词研究工具，如 Niche Finder ，来发现潜在的利基关键字和热门搜索词。、&lt;/p&gt;
-&lt;p&gt;Niche Finder 关键词工具介绍&lt;/p&gt;
-&lt;p&gt;Niche Finder 关键词工具（ &lt;a href="https://nichefinder.xyz" rel="nofollow"&gt;https://nichefinder.xyz&lt;/a&gt; ），作为您事业成功的得力助手，旨在为您揭示数字世界中的黄金机会。通过先进的算法，我们不仅提供智能的关键词研究，更能深度挖掘潜在的利基关键字。&lt;/p&gt;
-&lt;p&gt;Niche Finder 关键词工具不仅仅是工具，更是您的市场洞察专家。我们的深层次网站剖析提供全面的市场了解，包括 SimilarWeb 排名、流量数据，甚至深入的 DNS 记录和媒体报告，为您呈现市场的全景画面。这是您制定营销策略、把握市场脉搏的不可或缺之一。&lt;/p&gt;
-&lt;p&gt;创新是我们的理念，导出功能的多样性正是体现。从图像到 PDF 再到 CSV 文件，不同格式的结果让您能够更灵活地呈现数据，定制化的报告更加突显您的专业水平。&lt;/p&gt;
-&lt;p&gt;Niche Finder 关键词工具还以直观的可视化方式展现竞争对手分析，通过图表和图形，轻松理解市场动态，助您作出更明智的竞争策略。而我们提供的专业级客户支持，确保您的每一个疑问都能得到及时解答。&lt;/p&gt;
-&lt;p&gt;与众不同的是，我们不仅提供工具，更有创新的联盟计划。通过推荐他人使用，您不仅为其带来利基发现的力量，还能分享成功的喜悦。与 Niche Finder 关键词工具携手，共创未来数字营销的辉煌。&lt;/p&gt;
-&lt;p&gt;如何使用 Niche Finder 关键词工具做好营销关键词筛选提升流量
-Niche Finder 关键词工具通过先进的算法和深度挖掘技术，为您提供了优越的关键词研究能力。以下是使用&lt;/p&gt;
-&lt;p&gt;Niche Finder 优化营销关键词的步骤&lt;/p&gt;
-&lt;p&gt;输入关键词： 在工具中输入与你的业务相关的主要关键词，让 Niche Finder 开始分析。&lt;/p&gt;
-&lt;p&gt;分析结果： 查看工具提供的关键词分析结果，注意其中的潜在利基关键字和与目标受众相关的词汇。&lt;/p&gt;
-&lt;p&gt;竞争对手分析： 利用工具的竞争对手分析功能，了解竞争对手的表现和使用的关键词，找到差异化的优势。&lt;/p&gt;
-&lt;p&gt;导出结果： 利用工具的创新导出功能，将关键词结果导出为图像、PDF 或 CSV 文件，以便更灵活地呈现数据和制作定制化的报告。&lt;/p&gt;
-&lt;p&gt;可视化分析： 使用工具提供的可视化分析，理解市场动态，帮助制定更明智的营销策略。&lt;/p&gt;
-&lt;p&gt;客户支持与社区联动： 如有疑问，利用 Niche Finder 提供的专业级客户支持，并加入用户社区，分享经验，共同成长。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:05:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992712#reply0</guid></item><item><title>[酷工作] 杭州余杭区有招聘 iOS 的吗？</title><link>https://www.v2ex.com/t/992711#reply0</link><description>&lt;p&gt;目前还在职，听说最近行情很差，尤其是移动端的。现在公司之前感觉还行，最近没啥业绩，开始抓考勤，指定一些苛刻的规定，开始变相想办法扣工资。不太想待了，因为公司需求一直很模糊，想考核量化基本上就是个扯皮的事情，想看看附近有没有其他机会。目前在公司负责 iOS 和安卓 App 开发。&lt;/p&gt;
-&lt;p&gt;技术栈：
-iOS 开发接近 10 年，混迹中小公司，做过以及上架多款软件。OC/Swift 都熟悉。
-熟悉 flutter 开发，用 flutter 做过两款软件，flutter 配合 GetX 框架感觉还可以。
-同时熟悉 android 开发，不算精通，但是维护公司现有软件开发新功能和修改 bug 还是没问题的。
-熟悉 IM 相关开发，熟悉蓝牙 Ble 开发，当前项目主要涉及到蓝牙通讯。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 03:04:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992711#reply0</guid></item><item><title>[问与答] WINTER IS COMING... 请问二十平方的小房间有什么节能又安全的制暧设备推荐吗？</title><link>https://www.v2ex.com/t/992710#reply5</link><description></description><pubDate>Fri, 17 Nov 2023 02:59:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992710#reply5</guid></item><item><title>[Apple] xr apple music 听无损音乐 每首歌会莫名其妙有一段加速</title><link>https://www.v2ex.com/t/992708#reply1</link><description>&lt;p&gt;rt
-是设备问题还是系统问题，目前已经是最新的 ios17.1.1
-大家有没有遇到类似的问题，怎么解决的&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:58:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992708#reply1</guid></item><item><title>[Apple] Drafts 黑五活动，赠送三个月免费 Pro</title><link>https://www.v2ex.com/t/992706#reply0</link><description>&lt;a href="https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1236254471&amp;amp;code=BF2023" rel="nofollow noopener" target="_blank"&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1236254471&amp;amp;code=BF2023&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;来源 &lt;a href="https://twitter.com/draftsapp/status/1725190526935220328" rel="nofollow noopener" target="_blank"&gt;https://twitter.com/draftsapp/status/1725190526935220328&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎大家在这个帖子里分享 ios ，macos 的黑五软件/订阅服务优惠</description><pubDate>Fri, 17 Nov 2023 02:57:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992706#reply0</guid></item><item><title>[问与答] 关于睡午觉问题，请教下各位</title><link>https://www.v2ex.com/t/992704#reply5</link><description>工作日每天中午吃午饭了就睡觉，已经习惯了，但是周六周日出去快乐的时候，中午吃完饭也会困，不睡就很困，如果就是不睡，人就会有点不舒服吧，感觉不得劲，你们也会有这种感觉吗？有什么办法可以避免或者减轻这种周末不睡午觉带来的不适感。</description><pubDate>Fri, 17 Nov 2023 02:53:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992704#reply5</guid></item><item><title>[宽带症候群] 99 元的阿里云 使用 Let's encrypt 出现 Recv failure: Connection reset by peer</title><link>https://www.v2ex.com/t/992703#reply8</link><description>&lt;p&gt;前几天用大家伙发的 99 元链接买了一个阿里云，现在想部署一个静态网站，在申请证书的时候出现这个错误：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 17 Nov 2023 14:09:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 中国移动云电脑</title><link>https://www.v2ex.com/t/992932#reply0</link><description>&lt;p&gt;中国移动云-8h16g50m
+120r/年，有现货（量多可优惠） 1300g 数据盘&lt;/p&gt;
+&lt;p&gt;12r/月，80r/八个月，排队发货&lt;/p&gt;
+&lt;p&gt;8 核 16G 80G+500G
+50M 带宽&lt;/p&gt;
+&lt;p&gt;Linux 自行找教程&lt;/p&gt;
+&lt;p&gt;云桌面/云电脑/挂机宝
+支持手机登录，电脑登录
+支持多开，支持安卓挂机&lt;/p&gt;
+&lt;p&gt;适用办公 蓝叠 5  逍遥 雷电
+梦幻西游 传奇 咸鱼之王&lt;/p&gt;
+&lt;p&gt;v abcd24657&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 13:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992932#reply0</guid></item><item><title>[酷工作] [海外] [高薪] 数据、风控岗位热招</title><link>https://www.v2ex.com/t/992931#reply0</link><description>3 个名额，分别是：&lt;br /&gt;1. ETL 背景的数据&lt;br /&gt;2. 有大模型训练做数据构建背景的数据&lt;br /&gt;3. 大模型风控的数据科学家&lt;br /&gt;要求 985 学历&lt;br /&gt;工作地点：UAE&lt;br /&gt;有兴趣绿色软件联系：zhangyijun1001</description><pubDate>Fri, 17 Nov 2023 13:48:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992931#reply0</guid></item><item><title>[Java] Make Java Great Again !</title><link>https://www.v2ex.com/t/992930#reply0</link><description>&lt;h3&gt;Make Java Great Again&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.mjga.cc" rel="nofollow"&gt;https://www.mjga.cc&lt;/a&gt; 是一款基于以下理念打造的现代 java web 脚手架&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Trying 47.116.0.64:80...&lt;/li&gt;
-&lt;li&gt;Connected to &lt;a href="http://xxx.xxx.com" rel="nofollow"&gt;xxx.xxx.com&lt;/a&gt; (47.116.0.64) port 80 (#0)&lt;/li&gt;
+&lt;li&gt;现代化的技术选型：脚手架从设计之初就是国际化的，并且会紧跟开源社区技术风向&lt;/li&gt;
+&lt;li&gt;轻量的体积：在网页上选配你中意的组件与模块&lt;/li&gt;
+&lt;li&gt;完善的测试：完善的、从设计出发的、隔离了运行环境的单元测试&lt;/li&gt;
+&lt;li&gt;考究的编码：每个变量和函数、每个模块和组件都考虑最佳实践&lt;/li&gt;
+&lt;li&gt;Not-all-in-one：现在和未来，MJGA 都将守好自己的边界&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;GET /.well-known/acme-challenge/4z7pGgGgeMk6Jv_2emLgxuIfjeXzeSlYlPs1JwIiPt8 HTTP/1.1
-Host: &lt;a href="http://xxx.xxxx.com" rel="nofollow"&gt;xxx.xxxx.com&lt;/a&gt;
-User-Agent: curl/7.81.0
-Accept: &lt;em&gt;/&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Recv failure: Connection reset by peer&lt;/li&gt;
-&lt;li&gt;Closing connection 0
-curl: (56) Recv failure: Connection reset by peer&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但是国内访问确实正常，提交了阿里工单，原话如下：
-“我们在大陆服务器访问您提供的提示是 404,但在海外测试服务器上访问提示连接重置（ reset ）,let's encrypt 是海外证书机构,需要从海外访问这个站点,看现象是跨境链路问题导致。”&lt;/p&gt;
-&lt;p&gt;建议我使用阿里的免费证书或者换时间段试试。我之前用过阿里的服务器和腾讯云的服务器，还有公司的服务器，都没有出现这个错误。 这个是短期的问题，还是长期的？&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:52:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992703#reply8</guid></item><item><title>[程序员] 程序员自由创业周记#17：说不完的感谢</title><link>https://www.v2ex.com/t/992702#reply6</link><description>&lt;p&gt;&lt;img alt="封面" class="embedded_image" rel="noreferrer" src="https://images.pexels.com/photos/8250916/pexels-photo-8250916.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1600" /&gt;&lt;/p&gt;
-&lt;h3&gt;感谢&lt;/h3&gt;
-&lt;p&gt;认识我的人应该知道，现实生活中的我是一个比较有礼貌的人，即便是在今年 6 月从前公司 HR 手里接过《单方违法解除合同通知书》的时候我也是跟她说的是谢谢，并且进行了一番颇为友好的对话，感谢近三年来公司的培养。更不用说最近两天收到的很多陌生人各种对 &lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt; 的赞美和认可了，我也只有说不完的感谢。&lt;/p&gt;
-&lt;h3&gt;推广&lt;/h3&gt;
-&lt;p&gt;经过两个月的开发和完善，创业以来做的第 2 个软件：&lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt; 已经基本达到了进行推广的要求，程序员创业的大忌就是做的软件不进行推广，孤芳自赏，幻想着只通过自然流量爆火，也不是没有可能，但是很难。开发只是产品生命周期的第 1 步，后面还有 9 步要走。所以，在这周三，我开始了对&lt;a href="https://apps.apple.com/cn/app/id6464542768" rel="nofollow"&gt;Island Widgets - 灵动岛&amp;amp;锁屏小组件&lt;/a&gt;的“叫卖”，取得了
-一定的效果：
-&lt;img alt="11 月 15 趋势" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491891.iShot_2023-11-17_09.53.11.png" /&gt;&lt;/p&gt;
-&lt;p&gt;尝试了以下这些方案：&lt;/p&gt;
-&lt;h4&gt;1. 在 &lt;a href="https://www.v2ex.com/t/992091" rel="nofollow"&gt;V2EX&lt;/a&gt; 网站上抽奖送终生会员&lt;/h4&gt;
-&lt;p&gt;不得不说，V 站的用户是素质最高也是最热情的，截止目前有 4447 次访问，231 次回复，其中绝大部分回复都对软件表示了浓厚的兴趣和赞美。截取部分用户的回复：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;198plus： 支持一下，感觉不错&lt;/li&gt;
-&lt;li&gt;zheermao: 看上去不错，支持&lt;/li&gt;
-&lt;li&gt;pinkayo: 造福了非灵动岛设备的使用者，真是太棒了。可以好好体验一下&lt;/li&gt;
-&lt;li&gt;gabkfivyfbst: 不错啊看着，比很多软件的灵动岛设计都实用&lt;/li&gt;
-&lt;li&gt;ychen997: 一直在看你的博客，来支持一下&lt;/li&gt;
-&lt;li&gt;lefer: 非灵动岛用户刚刚付费了终身&lt;/li&gt;
-&lt;li&gt;lma8：挺有意思&lt;/li&gt;
-&lt;li&gt;wuhan027：已下载安装体验，感谢作者开发这么实用的 app ！&lt;/li&gt;
-&lt;li&gt;laragh：v2 的开发老哥们都这么顶么？支持一下~&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;231 回复，无一 diss 。感谢是说不完的，我能做的只有坚持创业，完善软件，对得起支持的朋友。 终生会员抽奖截止到今晚上 8 点，还有点时间，感兴趣的可以直接来这个链接： &lt;a href="https://www.v2ex.com/t/992091" rel="nofollow"&gt;https://www.v2ex.com/t/992091&lt;/a&gt;  （打开这个链接需要一点点科技）&lt;/p&gt;
-&lt;h4&gt;2. 在 &lt;a href="https://meta.appinn.net/t/topic/49268" rel="nofollow"&gt;小众软件&lt;/a&gt; 上发布产品介绍&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491908.17001883894040.jpg" /&gt;&lt;/p&gt;
-&lt;h4&gt;3. 给&lt;a href="https://xinquji.com/posts/806536" rel="nofollow"&gt;新趣集&lt;/a&gt; 投稿&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491917.17001884899855.jpg" /&gt;&lt;/p&gt;
-&lt;h4&gt;4. 在 &lt;a href="https://github.com/1c7/chinese-independent-developer" rel="nofollow"&gt;chinese-independent-developer&lt;/a&gt; 新增产品&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wescanner-docx.jkxuewei.com/images/mweb/2023.11.17.17001891491924.17001885718786.jpg" /&gt;&lt;/p&gt;
-&lt;h4&gt;5. 其他一些投稿目前还在审核：&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;阮一峰周报&lt;/li&gt;
-&lt;li&gt;创造者日报&lt;/li&gt;
-&lt;li&gt;神器集&lt;/li&gt;
-&lt;li&gt;...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;6. 朋友圈和微信公众号发布产品介绍&lt;/h4&gt;
-&lt;h3&gt;回归开发&lt;/h3&gt;
-&lt;p&gt;推广固然重要，一些用户反馈的希望有的新功能比如 实时网速、自定义背景、抢票定时器浮窗等 的开发需要沉下心来慢慢做，有时候慢就是快。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;往期文章：&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4NDE1MzIwNg==&amp;amp;action=getalbum&amp;amp;album_id=3044710252514050050#wechat_redirect" rel="nofollow"&gt;创业周记合集&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:50:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992702#reply6</guid></item><item><title>[问与答] 大部分人在社会上生活是为了赚钱，为什么小时候社会包括亲人却让我们好好学习而不是教我们怎么赚钱</title><link>https://www.v2ex.com/t/992700#reply6</link><description>&lt;p&gt;我感觉我被社会和家人都骗了。&lt;/p&gt;
-&lt;p&gt;小时候家里人让你好好学习，以后有个好工作。
-那好工作不就是为了有好的经济收入？为什么不直接教我们怎么赚钱呢？&lt;/p&gt;
-&lt;p&gt;好好学习的目的就是为社会更好的打工&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:49:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992700#reply6</guid></item><item><title>[问与答] 如何保证控制消息可靠？</title><link>https://www.v2ex.com/t/992699#reply5</link><description>&lt;p&gt;一个控制系统，发送端发送指令，接收端（不是自研，可能是 x86 ，可能是 plc ，pxi 设备等）接收指令。想问一下，在接收端做不到有能力处理重复消息或保证消息幂等的情况下，是不是无法同时保证这个消息的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;可靠性，消息不丢&lt;/li&gt;
-&lt;li&gt;及时送达， 消息第一时间被送达响应。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Fri, 17 Nov 2023 02:49:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992699#reply5</guid></item><item><title>[问与答] 求助 CloudFront 绑定备用域名的问题</title><link>https://www.v2ex.com/t/992698#reply0</link><description>&lt;p&gt;我在 CloudFront 已经创建好了一个实例，并且等它生效部署好了，备用域名用的*.xxx.com 这种通配符格式，ACM 证书也是注册的*.xxx.com 这个，并且已经解析好了，证书状态显示，已颁发，可以正常用了，但是我现在访问备用域名还是无法访问， 而实例分配的域名是可以正常访问的。&lt;/p&gt;
-&lt;p&gt;如图所示： &lt;a href="https://imgur.com/a/CVKMxf0" rel="nofollow"&gt;https://imgur.com/a/CVKMxf0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;BTW ，这个 V 站发帖设计，哪个人才设计的，找了半天都找不到位置。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992698#reply0</guid></item><item><title>[问与答] 阿里云的美国硅谷云服务器，在印度、巴基斯坦、越南、日本、韩国的访问速度怎么样？</title><link>https://www.v2ex.com/t/992697#reply3</link><description>&lt;p&gt;只想买一个海外服务器在印度、巴基斯坦、越南、日本、韩国等地区访问，但不知道访问速度怎么样。有知道的大佬吗？&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 02:45:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992697#reply3</guid></item></channel></rss>
+&lt;h3&gt;可选模板预览&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;DataBase First&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;技术栈&lt;/th&gt;
+&lt;th&gt;版本号&lt;/th&gt;
+&lt;th&gt;备注&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;OpenJdk&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SpringBoot&lt;/td&gt;
+&lt;td&gt;3.1.2&lt;/td&gt;
+&lt;td&gt;核心框架&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jooq&lt;/td&gt;
+&lt;td&gt;3.18.6&lt;/td&gt;
+&lt;td&gt;生成类型安全的 SQL 查询&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gradle&lt;/td&gt;
+&lt;td&gt;8.4&lt;/td&gt;
+&lt;td&gt;自动化构建工具&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pmd&lt;/td&gt;
+&lt;td&gt;6.55.0&lt;/td&gt;
+&lt;td&gt;静态代码分析工具&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Spotless&lt;/td&gt;
+&lt;td&gt;6.18.0&lt;/td&gt;
+&lt;td&gt;代码格式化&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;...&lt;/td&gt;
+&lt;td&gt;...&lt;/td&gt;
+&lt;td&gt;...&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;Api First (Comming soon...)&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;邀请与致谢&lt;/h3&gt;
+&lt;p&gt;倘若上述技术栈和设计理念契合您的需求，我们诚挚的要求您成为第一批公测用户，同时享受最优惠的买断价格。&lt;/p&gt;
+&lt;p&gt;若您在使用过程中遇到任何问题，请联系 &lt;a href="mailto:support@mjga.cc"&gt;support@mjga.cc&lt;/a&gt; 支持团队获得帮助。您的意见对我们非常重要，任何反馈都将得到认真对待。&lt;/p&gt;
+&lt;p&gt;感谢您的理解与支持。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 13:40:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992930#reply0</guid></item><item><title>[求职] 6 年前端在线寻找一个远程工作机会，主攻移动端</title><link>https://www.v2ex.com/t/992929#reply2</link><description>PC 端:&lt;br /&gt;React:react react-router hooks umi redux fetch antd&lt;br /&gt;Vue:vue vuex router axios element/iview&lt;br /&gt;Angular:demo  水平&lt;br /&gt;移动端:&lt;br /&gt;微信小程序:原生 or uniapp&lt;br /&gt;APP:ReactNative UNIAPP &lt;br /&gt;three.js  使用&lt;br /&gt;服务端:&lt;br /&gt;node :中间件&lt;br /&gt;apollo grahgl :前端直接写 sql  查询数据库&lt;br /&gt;JS:Typescript Es6&lt;br /&gt;CSS: less sass &lt;br /&gt;打包:webpack</description><pubDate>Fri, 17 Nov 2023 13:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992929#reply2</guid></item><item><title>[NAS] 我堡开药了，新兵蛋子求个我堡的药</title><link>https://www.v2ex.com/t/992927#reply1</link><description>新人入坑一个月，规则都懂，求个我堡的药，一定好好玩：&lt;br /&gt;&lt;br /&gt;MTQ3NjcwNzI0NUBxcS5jb20=&lt;br /&gt;&lt;br /&gt;PS：V2 怎么发图片呀，我可以发下 PTPP 的数据，刚玩数据应该还算可以，认真玩的~</description><pubDate>Fri, 17 Nov 2023 13:23:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992927#reply1</guid></item><item><title>[云计算] 阿里云的 OSS Browser 无法上传名为 index.97465e7b.css 的文件</title><link>https://www.v2ex.com/t/992926#reply2</link><description>&lt;p&gt;奇了怪了，改个名字能上传，然后传上去重命名为 &lt;code&gt;index.97465e7b.css&lt;/code&gt; 就报网络错误，无论如何也无法传上去。&lt;/p&gt;
+&lt;p&gt;在 OSS 的网页端可以传，大家试一试，难道这个文件名里藏了什么不可告人的秘密？&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 13:15:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992926#reply2</guid></item><item><title>[Linux] archlinux 如何实现 excel+vba（求助）</title><link>https://www.v2ex.com/t/992925#reply7</link><description>archlinux 家用，工作用的 win11 ，vba 重度用户，excel 里有一堆用以计算的 vba 模块，希望在家用 archlinux 上实现 vba ，目前已经尝试的操作有以下几个：&lt;br /&gt;1 、wine 安装 office2019 ，完全将 win11 的 system32 文件夹里的一系列 dll 都拷过去再安装，并且参照了 wine 的 wiki ，里面有 2013 的安装步骤，失败；&lt;br /&gt;2 、playonlinux ，下载 gekco 老是卡住，没网速，失败（没有继续尝试也有一方面原因是我对 office2016 有点嫌弃，版本太老）；&lt;br /&gt;3 、libreoffice ，可以直接安装，但是使用 vba 时出现一堆报错，单单是 excel 的 application.caller ，我就折腾好久，没实现；&lt;br /&gt;4 、wps ，直接 pacman 安装的版本是不带 vba 的，据说 vba 是 windows 专属，所以又尝试用 wine 安装 wps ，安装以后打开时跳出启动的框框，就消失了，完全打不开，试过了盗版带 vba 的 wps ，也试过原装 wps ，都没能实现。</description><pubDate>Fri, 17 Nov 2023 13:14:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992925#reply7</guid></item><item><title>[Clojure] Akka Clojure 封装</title><link>https://www.v2ex.com/t/992924#reply0</link><description>&lt;p&gt;最近尝试在 Clojure 中使用 Akka ，找了一圈发现并没有持续更新的针对它的 wrapper. 于是准备封装边使用边封装一个。试着重写来自官网的&lt;a href="https://doc.akka.io/docs/akka/current/project/examples.html" rel="nofollow"&gt;示例&lt;/a&gt;时，似乎找到了没有较新的现成封装的原因：Akka 本身提供的接口比较简洁，且 Clojure 与 Java 的互操作极为流畅，直接使用即可。&lt;/p&gt;
+&lt;p&gt;目前这些示例的代码放在仓库 &lt;a href="https://github.com/lotuc/akka-clojure" rel="nofollow"&gt;https://github.com/lotuc/akka-clojure&lt;/a&gt;. 对于 Akka 原始接口的浅封装放在 &lt;code&gt;lotuc.akka&lt;/code&gt; 名字空间下，个人使用的一些封装放在 &lt;code&gt;lotuc.akka-clojure&lt;/code&gt; 名字空间下。感兴趣的可以去尝试一下，即便不作为工作语言，Clojure REPL 用于尝试 JVM 的库也是一流的工具。&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 13:10:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992924#reply0</guid></item><item><title>[Android] 小米 14 录像怎么样，和 iPhone 有得一拼吗</title><link>https://www.v2ex.com/t/992923#reply3</link><description></description><pubDate>Fri, 17 Nov 2023 13:04:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992923#reply3</guid></item><item><title>[问与答] edge 左侧栏打开不显示聊天对话模式，只是显示对网站评分。如何切换成回聊天对话模式呢？</title><link>https://www.v2ex.com/t/992922#reply0</link><description>&lt;a href="https://i.imgur.com/NyOabGs.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NyOabGs.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 17 Nov 2023 13:03:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992922#reply0</guid></item><item><title>[分享发现] 写代码的时候发现时间戳又进了一位, 已经 17 了~</title><link>https://www.v2ex.com/t/992920#reply0</link><description>&lt;p&gt;感叹一下~  😔&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Date.now() === 1700226114980
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 17 Nov 2023 13:02:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992920#reply0</guid></item><item><title>[问与答] 电脑 cpu100%占用，任务管理器又找不到高占进程</title><link>https://www.v2ex.com/t/992919#reply0</link><description>&lt;p&gt;Cpu 有时候会瞬间飚到 100%，又跳回 20%这种，查进程又找不到是哪个进程高占了，有解决办法吗？
+时不时的卡，电脑没法用了&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 13:01:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992919#reply0</guid></item><item><title>[职场话题] 提议不要用“优化”“毕业”这些词</title><link>https://www.v2ex.com/t/992917#reply8</link><description>&lt;p&gt;优化那是老板那边的想法
+他自己没把业务搞好，让员工来背失业就已经够缺德了，难道还要让员工背“不优”的骂名么？&lt;/p&gt;
+&lt;p&gt;抵制污名化，从我做起！&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 12:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992917#reply8</guid></item><item><title>[问与答] 最强开源的中文对话模型来了</title><link>https://www.v2ex.com/t/992915#reply4</link><description>&lt;p&gt;OrionStar-Yi-34B-Chat 是猎户星空基于零一万物开源的 Yi-34B 模型，使用 15W+ 的高质量语料训练而来微调大模型，旨在为大模型社区用户提供卓越的交互体验。&lt;/p&gt;
+&lt;p&gt;Yi 系列模型是由零一万物团队开源的大模型，在多个权威的中文、英文及通用领域 benchmark 上取得不错的效果。今天我们推出的 Orionstar-Yi-34B-Chat 更进一步挖掘了 Yi-34B 的潜力。通过对大量高质量微调语料库的深度训练，Orionstar-Yi-34B-Chat 在评估数据上表现出色，我们致力于将其打造成为 ChatGPT 领域中的杰出开源替代品！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/OrionStarAI/OrionStar-Yi-34B-Chat" rel="nofollow"&gt;https://github.com/OrionStarAI/OrionStar-Yi-34B-Chat&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 12:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992915#reply4</guid></item><item><title>[远程工作] [远程]招聘 Ruby on Rails 后端或全栈高级开发 2 名 20K</title><link>https://www.v2ex.com/t/992913#reply1</link><description>国外电商平台 AXEL Market 开发：高级 Ruby 后端工程师/全栈工程师&lt;br /&gt;一、岗位职责&lt;br /&gt;• 理解业务需求，设计和开发基于 Spree 的电商交易平台；&lt;br /&gt;• 负责现有产品的性能优化；&lt;br /&gt;• 与运维合作部署并维护自己的项目;&lt;br /&gt;• 参与 Ruby 团队管理。&lt;br /&gt;二、职位要求&lt;br /&gt;•5 年以上 Ruby on Rails 实际工作经验；&lt;br /&gt;• 熟悉 Rails 项目 docker 环境的开发与部暑，熟悉 gems 及其扩展；&lt;br /&gt;• 熟悉 Jquery 和 bootstrap ，有数据库日常设计开发以及优化经验（ MySQL 、PostgreSQL ）；&lt;br /&gt;• 熟悉底层中间件、分布式技术（包括 redis 缓存、消息系统等）。&lt;br /&gt;• 良好的代码风格和编程习惯，工作认真严谨；&lt;br /&gt;• 良好的英文听说读写能力，能进行口语和书面沟通；&lt;br /&gt;加分项：&lt;br /&gt;• Spree 相关经验及电商平台开发经验&lt;br /&gt;• 有团队或技术管理经验优先&lt;br /&gt;三、附加信息&lt;br /&gt;• 工作时间：全职，周末双休；弹性工作时间：8 小时/天&lt;br /&gt;• 面试方式：同城线下/视频面试 面试轮数：1-2 轮&lt;br /&gt;四、联系方式 投递邮箱： rachel.zhou@axel.org Skype: live:.cid.ee49744be2aff9d1</description><pubDate>Fri, 17 Nov 2023 12:30:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992913#reply1</guid></item><item><title>[酷工作] 独立开发者，日入 1k 是不是有点少？</title><link>https://www.v2ex.com/t/992912#reply0</link><description>目前运营一个小项目，收入不多不少。相信很多独立开发者日入 10k 的都大有人在，只是很多人比较低调。&lt;br /&gt;当然，独立开发者这个领域，可能冰火两重天。只有看好一个方向，再坚持下去，一定可以云开见日出。&lt;br /&gt;我本人呢，技术比较菜，最近希望做一个浏览器 app ，希望找一名技术方面的朋友。&lt;br /&gt;&lt;br /&gt;其实，只要对独立开发这个话题感兴趣的，都可以和我聊聊。&lt;br /&gt;&lt;br /&gt;之前发过一篇&lt;br /&gt;ps：&lt;br /&gt;&lt;br /&gt;是不是现在的程序员都很佛系？感觉好难找。&lt;br /&gt;我以前也是做技术的，所以我觉得能在本地认识几个技术爱好者，对自己也是有好处的。&lt;br /&gt;如果有幸认识，我可以经常请你喝咖啡（当然，如果能一起赚钱，经常请你吃喝玩乐也可以的）&lt;br /&gt;我期待的：&lt;br /&gt;1 。可以是大学生，也可以刚毕业不久，也可以没上班的，或者独立开发者也可以；&lt;br /&gt;2 。在上班的，担心你平时会比较忙，除非你不想上班，可以来聊；&lt;br /&gt;3 。热爱技术，有想法，讲究效率，会用成本最低的方式快速实现产品；&lt;br /&gt;4 。也热爱产品，在功能实现后愿意不断精心完善产品，有处女座情结，完美主义；&lt;br /&gt;5 。最好是和我一样不喜欢上班的人;&lt;br /&gt;6 。移动端开发，可以用 flutter ，因为我希望产品能同时支持 android 和 ios&lt;br /&gt;&lt;br /&gt;有意联系 wx：unbase64(d2F5c2Nu)</description><pubDate>Fri, 17 Nov 2023 12:25:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992912#reply0</guid></item><item><title>[职场话题] 无语， leader 和同事讲我不会做人</title><link>https://www.v2ex.com/t/992911#reply8</link><description>&lt;p&gt;因为 leader 提出了一个需求，我和组长说有难度，然后他就不了了之了。第二天，我不在公司的时候，他和同事闲聊的时候，说我和组长不会做人。&lt;/p&gt;
+&lt;p&gt;我无语了。同事说这个 leader 提的需求不要去拒绝他，即使有难度。。。。leader 还觉得我和组长有小心思，不懂得吃亏。&lt;/p&gt;
+&lt;p&gt;这种背后说人坏话的行为就很会做人吗，还和我同事说，这么信任我同事？&lt;/p&gt;
+&lt;p&gt;准备提桶跑路了，伺候不起这个新 leader&lt;/p&gt;</description><pubDate>Fri, 17 Nov 2023 12:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992911#reply8</guid></item><item><title>[站长] 我服了， Bing 这车轱辘话跟谁学的。。。</title><link>https://www.v2ex.com/t/992910#reply2</link><description>&lt;p&gt;好像什么都说了，又好像什么都没说。。。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hi,
+
+
+Thank you for your patience during our investigation. After further review, it appears that your site had issues with meeting the standards set by Bing to remain indexed the last time it was crawled. To ensure that this was not a false flag, I also escalated the issue to the next level, and they manually reviewed your site and confirmed that it is in violation of our webmaster guidelines detailed here: Bing Webmaster Guidelines.
+
+
+
+We are not able to provide specifics for these types of issues because the relevant teams do not share reports with us. We recommend that you review our Webmaster Guidelines, especially the section Things to Avoid, and thoroughly check your site for any deliberately or accidentally employed SEO techniques that may have adversely affected your standing in Bing and Bing-powered search results. We will not be able to add your site to the index while Bingbot is finding it in violation of Webmaster Guidelines. We have no control over this process, and you will need to make quality changes to your site and wait for the Bingbot's automated crawling process to agree that the site passes the webmaster standards before it can be served.
+
+Also, I spent some more time reviewing your site and found a few links and docs which will help you in this scenario.
+
+Why is My Site Not in the Index?
+10 SEO Myths Reviewed
+Is SEO The Future? No, And Here’s Why
+Building Authority &amp;amp; Setting Expectations
+The Role of Content Quality in Bing Ranking
+
+I hope the resolution provided has been fully address your issue. I will be closing this ticket. However, if you do have any follow up questions or concerns, please feel free to contact me or open a new support ticket.
+
+Thank you,
+
+Mounika Aduri | Technical Support Engineer
+
+Check out the most common queries and resources to resolve them!
+Check out our Help page for more information!
+
+Check out our guidelines for better indexing and ranking!
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 17 Nov 2023 12:20:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992910#reply2</guid></item><item><title>[游戏] 破解游戏和应用推荐</title><link>https://www.v2ex.com/t/992909#reply0</link><description>给大家推荐几个可以下载破解游戏和破解 APK 的下载网站，亲测好使，特别是 Netflix 啥的都可以，大家有需要可以看一下&lt;br /&gt;&lt;br /&gt;1.APKPure&lt;br /&gt;APKPure 是一个非常知名的安卓游戏下载网站，它提供了大量的原版和 MOD 版游戏供你免费下载。它的界面简单易用，游戏资源非常丰富。你可以在 APKPure 上找到各种类型的游戏 MOD ，比如无限金币、解锁全部关卡、去广告等。而且，它还有游戏评分和用户评论，帮助你选择最适合自己的游戏。&lt;br /&gt;网址： &lt;a href="https://apkpure.com/" rel="nofollow noopener" target="_blank"&gt;https://apkpure.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;2.APKMirror&lt;br /&gt;APKMirror 是另一个非常受欢迎的安卓游戏下载网站。它以提供高质量、安全可靠的游戏资源而闻名。APKMirror 的团队会对上传的游戏进行严格审核，确保游戏的安全性和完整性。你可以在这里找到最新版本的游戏 MOD ，而且这些 MOD 都是由官方发布的，所以你可以放心使用。&lt;br /&gt;网址： &lt;a href="https://www.apkmirror.com/" rel="nofollow noopener" target="_blank"&gt;https://www.apkmirror.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;3.HappyMod&lt;br /&gt;HappyMod 是一个专注于提供游戏 MOD 的网站。它拥有庞大的游戏 MOD 库，涵盖了各种热门游戏。HappyMod 的特色在于用户社区的互动性，你可以在网站上与其他玩家交流、分享心得。另外，HappyMod 还提供了游戏 MOD 的更新通知功能，让你第一时间获得最新的游戏 MOD 。&lt;br /&gt;网址： &lt;a href="https://happymod.com/" rel="nofollow noopener" target="_blank"&gt;https://happymod.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;4.Androidhub&lt;br /&gt;Androidhub 是一个同时提供原版和 MOD 版游戏的下载站，它的 MOD 资源非常丰富，包括：Subway Surfers ，Plants vs Zombies 2 ，&lt;a href="http://Survivor.io" rel="nofollow noopener" target="_blank"&gt;Survivor.io&lt;/a&gt; ，Minecraft 等热门游戏，随时更新最新版本。&lt;br /&gt;网址： &lt;a href="https://www.androidshub.com/" rel="nofollow noopener" target="_blank"&gt;https://www.androidshub.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;快去下载试试吧！</description><pubDate>Fri, 17 Nov 2023 12:18:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992909#reply0</guid></item><item><title>[问与答] 国内有 道德审查之类的行政机构吗？</title><link>https://www.v2ex.com/t/992905#reply4</link><description>比如某些网红在作品创作中：&lt;br /&gt;&lt;br /&gt;向观众表达自己拍摄视频只是维持最低限度的生存，并不是以此进行大额盈利。&lt;br /&gt;跟观众说 自己没有任何不良嗜好等等&lt;br /&gt;&lt;br /&gt;如果 后期 创作者被证实，此前的承诺都是与事实相悖的，甚至创作者为了进行创作实行了 犯法行为。 当观众知道了事实，一些进行了捐款行为的观众要求退款，创作者的盈利如果建立在欺骗 不道德的基础之上，为了维护基本的公序良俗，是否有 对其欺骗所得进行处理的行政机构？</description><pubDate>Fri, 17 Nov 2023 12:07:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/992905#reply4</guid></item></channel></rss>
