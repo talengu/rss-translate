@@ -1,32 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 18 Nov 2023 04:32:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 直播带货，长期对语音克隆和数字人感兴趣的大佬，来</title><link>https://www.v2ex.com/t/993025#reply0</link><description>&lt;p&gt;自己简单测了下，半自动直播带货，3 天内两天有转化，现在两个问题，迭代工作流程&amp;amp;需要一个合伙人。&lt;/p&gt;
-&lt;p&gt;流水不争先争的是滔滔不绝&lt;/p&gt;
-&lt;p&gt;坐标郑州，感兴趣来聊&lt;/p&gt;
-&lt;p&gt;ALL1688688&lt;/p&gt;
-&lt;p&gt;[url=&lt;a href="https://imgse.com/i/piNu2tI" rel="nofollow"&gt;https://imgse.com/i/piNu2tI&lt;/a&gt;][img]&lt;a href="https://z1.ax1x.com/2023/11/18/piNu2tI.md.jpg" rel="nofollow"&gt;https://z1.ax1x.com/2023/11/18/piNu2tI.md.jpg&lt;/a&gt;[/img][/url]&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:31:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993025#reply0</guid></item><item><title>[OpenAI] ChatGPT web 访问正常，但使用 ios 的 app 就会提示无法访问，使用了 VPN</title><link>https://www.v2ex.com/t/993024#reply0</link><description>&lt;p&gt;app 显示如下：&lt;/p&gt;
-&lt;p&gt;Something went wrong. You may be connected to a disallowed ISP. If you are using VPN, try disabling it. Otherwise try a different Wi-Fi network or data connection. (1)&lt;/p&gt;
-&lt;p&gt;求助为什么 web 正常，ios 不行，如何解决，谢谢。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:22:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993024#reply0</guid></item><item><title>[问与答] 我想请教一个关于家庭网络的问题</title><link>https://www.v2ex.com/t/993023#reply1</link><description>&lt;p&gt;我租的房子中有一个路由器，因为是合租，所以这个局域网有很多人用，且我无法访问路由器后台，无法给我每台设备分配固定 IP ，每次访问都要查看 IP ，很麻烦。所以我想能不能我自己买一个路由器，通过网线连接到出租房的路由器上，这样我自己的路由器可以给我每台设备分配固定 IP ，而且如果每台设备都通过千兆网连接到我的路由器可以实现千兆内网访问吗？&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993023#reply1</guid></item><item><title>[问与答] 求推荐好用的剃光头神器</title><link>https://www.v2ex.com/t/993022#reply2</link><description>&lt;p&gt;淘宝 pdd 上一堆，各个吹得天花乱坠，求推荐好用的剃光头神器。谢谢！&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:21:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993022#reply2</guid></item><item><title>[VPS] 咨询阿里云 99 元的 VPS</title><link>https://www.v2ex.com/t/993021#reply0</link><description>1.能否续费 99 元呢，能续费多少年？&lt;br /&gt;2.域名备案后，子域名指向境外 VPS ，提供大文件下载，是否合规？&lt;br /&gt;3.备案是否收费？阿里云能协助么？</description><pubDate>Sat, 18 Nov 2023 04:18:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993021#reply0</guid></item><item><title>[iOS] Firebase 的 app 数据统计在国内可以上报数据吗？</title><link>https://www.v2ex.com/t/993020#reply0</link><description>&lt;p&gt;最近用 SwiftUI 开发了一个 APP ，看了 Firebase 的统计对 SwiftUI 比较友好。想用 Firebase 做数据统计。&lt;/p&gt;
-&lt;p&gt;V 友，Firebase 的 app 统计在国内可以用吗？&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:15:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993020#reply0</guid></item><item><title>[问与答] 关于陪练和租车，大家可以分享经验、给些建议吗？</title><link>https://www.v2ex.com/t/993019#reply2</link><description>&lt;p&gt;V 友们，请教几个问题。&lt;/p&gt;
-&lt;p&gt;OP 拿了驾照后基本没有开过车。最近想周末找陪练跑一跑，熟悉以后就租车逛一逛、积累一些驾驶经验。坐标北京。&lt;/p&gt;
-&lt;p&gt;关于陪练&lt;/p&gt;
-&lt;p&gt;找陪练有啥注意事项吗？
-搜了下，貌似美团、淘宝可以有这类服务，坑大吗？北京这块，有推荐的吗？&lt;/p&gt;
-&lt;p&gt;关于租车&lt;/p&gt;
-&lt;p&gt;一般到什么程度可以自己租车了？
-租车有什么推荐的商家/网站/App 吗？有什么实际经验可以分享吗？&lt;/p&gt;
-&lt;p&gt;提前谢谢大家！&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:07:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993019#reply2</guid></item><item><title>[问与答] 电信流量访问 bing 很慢（梯子可以加速访问），但是家里的电信宽带访问 bing 就正常，这是为什么呢</title><link>https://www.v2ex.com/t/993018#reply0</link><description>&lt;p&gt;不管开没开私人 DNS ，在流量下访问 bing 都很慢，而且只有对 bing 的访问异常。&lt;/p&gt;
-&lt;p&gt;我的 DNS 设置： &lt;a href="https://imgbox.com/r3BV7faF" rel="nofollow"&gt;https://imgbox.com/r3BV7faF&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 04:06:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993018#reply0</guid></item><item><title>[macOS] macos13.6， 14.x 启动 bug，可能导致持续的启动黑屏（以及可能的解决方案）。</title><link>https://www.v2ex.com/t/993017#reply1</link><description>参考：&lt;br /&gt;&lt;a href="https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures" rel="nofollow noopener" target="_blank"&gt;https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我是 14 寸 mbp ，最新 macos （ 14.1.1 ），因为一个不相关的软件配置失败一团糟，不想探究原因，从设置中还原，并从我的 timemachine 恢复前一天的备份，非常常规的操作。预期一个小时搞定。&lt;br /&gt;&lt;br /&gt;还原，自动重启。重启至 applelogo ，黑屏。等待 30 分钟左右，唤醒无反应，尝试强制关机，再次正常启动，问题依旧。因为能 boot 到 apple logo ，根据 apple 官方文档判断应该不是硬件问题&lt;br /&gt;&lt;br /&gt;尝试进 recovery os ，只有开机声，booting up startup options,然后黑屏。此时我知道，可能出大问题了，但是当时我还不太了解 apple silicon mac 的恢复机制，以为可以进 internet recovery ，尝试一番，最终，显示圆圈叹号，需要 restore 。&lt;br /&gt;&lt;br /&gt;一番搜索，了解到除了 recovery os ，还有 fallback recovery os ，尝试，进不去。实际上此时除了用另外一台 mac dfu ，已经没有其他办法。翻出来给家人装了 win 的陈年 mba ，dfu 刷机，成功救活。&lt;br /&gt;&lt;br /&gt;结合 asahilinux 的说明和我的调查，问题大致为：&lt;br /&gt;fallback recovery os 并不跟随 macos 系统版本更新，实际上这个保险性质的 os ，大概率是出厂版本，或者上一个主要 macos 版本（这本身是合理的，因为这是最后的保险），出现了向后兼容的问题。&lt;br /&gt;&lt;br /&gt;复现方法：如果此前把屏幕刷新率设置到了 promotion 以外的刷新率，且已经升级到了 macos 13.6 、14.x ，进不去 fallback recovery os 。表现为持续的黑屏。如果像我一样通过系统设置重置了 mac ，唯一的解决办法就是通过另一台 mac 进行 dfu （甚至，黑果也行），单独把 recovery os revive 到最新版即可解决问题，可以保留所有资料。&lt;br /&gt;&lt;br /&gt;最后花了一整天的时间解决，差点必须售后了（售后比自己解决肯定更花时间），纯软件问题，对现在 apple 软件的质量叹为观止。实际上我完全遵守了正常的使用方法，甚至所有操作只用了系统提供的 gui ，这也无法避免踩到这个严重的 bug 。而且 bug 的时间跨度还挺久。起因仅仅是我有一个 60hz 的外置屏幕，更改了内置屏幕的刷新率。&lt;br /&gt;&lt;br /&gt;预防方法：提前用另一台 mac ，使用 configurator 把固件 revive （修复！）（不是 restore ！，会重置 ssd ）到最新的固件，苹果“fix”了这个问题（ promotion 的设置不会更改启动期间的设置），其实并没有完全解决，如果升级前就更改过刷新率，那就永远进不去 recovery os 了（除非使用另一台 mac restore ）：&lt;br /&gt;“Unfortunately, they forgot to actually reset the boot-time screen mode to the safe (ProMotion) setting, which means that affected users who upgrade with ProMotion disabled are now forever stuck in a broken state. To make things worse, we have no idea how to detect this condition preemptively in macOS.”&lt;br /&gt;&lt;br /&gt;quote:&lt;br /&gt;“There are two bugs:&lt;br /&gt;&lt;br /&gt;macOS Sonoma upgrades use the previously installed version as System Recovery. This makes some sense, but does not consider backwards compatibility problems between older RecoveryOS and newer firmware. If this mismatch causes recoveryOS to fail to boot, this will leave System Recovery unusable.&lt;br /&gt;&lt;br /&gt;For 14" and 16" models: Once System Firmware is updated to the macOS Sonoma version, if the display is configured to a refresh rate other than ProMotion, that system will no longer be able to boot into older macOS installs nor Asahi Linux correctly. This includes recovery mode when those systems are set as the default boot OS, and also System Recovery at least until the next subsequent OS upgrade.”</description><pubDate>Sat, 18 Nov 2023 04:05:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993017#reply1</guid></item><item><title>[Apple] 想上个黑苹果，麻烦看下目前配置理论上是否可行</title><link>https://www.v2ex.com/t/993015#reply3</link><description>最近特别想上个黑苹果，已有配置如下&lt;br /&gt;&lt;a href="https://picst.sunbangyan.cn/2023/11/18/66d86b984256cee845a354d7fc7ac425.png" rel="nofollow noopener" target="_blank"&gt;https://picst.sunbangyan.cn/2023/11/18/66d86b984256cee845a354d7fc7ac425.png&lt;/a&gt;&lt;br /&gt;内存条是威刚 xpg32g 和酷兽的 32g,同时插在 windows 上只能表现出来 2666MHZ&lt;br /&gt;电源是海韵的 550W 。&lt;br /&gt;目前是考虑入一个 rx570 或者 580,不知道这样配置是否可行，装系统是直接淘宝找个客服吗，有无推荐店铺</description><pubDate>Sat, 18 Nov 2023 03:58:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993015#reply3</guid></item><item><title>[问与答] windows 系统如何对整个硬盘进行克隆</title><link>https://www.v2ex.com/t/993014#reply3</link><description>&lt;p&gt;在 linux 下面直接用 dd 命令就可以对整个硬盘（不是分区）进行克隆。windows 上有内置的工具吗？还是说要下载第三方的软件。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:51:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993014#reply3</guid></item><item><title>[MacBook Pro] steam 本身不支持 m1 mac，但是却能够安装原生支持 m1 的游戏是吗？</title><link>https://www.v2ex.com/t/993013#reply1</link><description></description><pubDate>Sat, 18 Nov 2023 03:49:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993013#reply1</guid></item><item><title>[Apple] watchOS 10.2 续航很可以啊，比 10.1 感觉还要好一些</title><link>https://www.v2ex.com/t/993012#reply2</link><description>&lt;p&gt;S7 ，电池 82%，开 AOD ，开噪音监测，早上 7 点半出门，晚上到家 50%的电。&lt;/p&gt;
-&lt;p&gt;当初在 10.0beta 的时候，到家可能就红了。&lt;/p&gt;
-&lt;p&gt;其实在 10.1 感觉都可以了，一天没问题，发现 10.2 好像续航更强了。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:39:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993012#reply2</guid></item><item><title>[问与答] 请教：有没有可能通过 zerotierKX 上网？</title><link>https://www.v2ex.com/t/993010#reply0</link><description>&lt;p&gt;请教各位大佬：家里旁路由安装了 KX 插件和 zerotier 插件，在外面手机可以通过加入 zerotier 网通过旁路由的访问外网，达到 KX 上网的效果吗？多谢！&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993010#reply0</guid></item><item><title>[音乐] 我的 Spotify 没有歌词</title><link>https://www.v2ex.com/t/993009#reply0</link><description>&lt;p&gt;为什么我的 Spotify 的大部分的歌没有歌词。有时候这次打开这首歌显示歌词，下次在打开就没有了。
-&lt;img alt="HLOEV.png" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/11/18/HLOEV.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:29:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993009#reply0</guid></item><item><title>[广州] 广深多年漂，曲折安家路|广漂程序员刚需买房故事</title><link>https://www.v2ex.com/t/993008#reply1</link><description>&lt;p&gt;一、我的买房初衷&lt;/p&gt;
-&lt;p&gt;很多人买房，一般都是有个初衷的，或出于结婚需要，或需要在城市中安家，回想起我萌发买房想法的时候，要追溯到 2020 年……&lt;/p&gt;
-&lt;p&gt;那个时候想要买房，我的初衷主要取决于以下几点：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 18 Nov 2023 11:34:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] apk 反编译后重新签名似乎总是有问题</title><link>https://www.v2ex.com/t/993101#reply0</link><description>&lt;p&gt;apk 反编译后移除了 META-INF 下的所有文件，然后用 apktool 重新打包，再重新签名，签名时也显示签名成功，但安装时始终提示签名不一至，改了 app_name 后还是如此。原安装卸载后还是如此。咋回事呢？用的 github 上的 uber-apk-signer-1.3.0.jar 进行的签名。
+另：重新签名后的 apk 再反编译后，没了 META-INF 这个目录，但我看好像说 v2 签名不会生成 META-INF 。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 11:30:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993101#reply0</guid></item><item><title>[程序员] 一次 github 跟开源大佬的抬杠经历</title><link>https://www.v2ex.com/t/993100#reply2</link><description>&lt;p&gt;先叠个盾： 感谢所有开源作者的贡献&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;不是前端，写个小工具，需要有个简单的界面，于是找了一个比较知名的开源前端 UI 库，非常好上手&lt;/p&gt;
+&lt;p&gt;几十分钟就写完了，非常不错 完全就按照 sample 拷的代码就行了 因为也只是需要一些基础的功能，显示个 alert ，做个 input 采集用户数据之类&lt;/p&gt;
+&lt;p&gt;调试时，发现了一个问题，UI 组件之间的排列逻辑有点小问题，于是!important 一把梭 完成任务收工&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;闲下来了，觉得这问题肯定不是我一个人遇到的，就去了 github 提了个 issue 标签 bug&lt;/p&gt;
+&lt;p&gt;就像我前面说的，我也不是前端，基本停留在知道 dom 是啥会 getElementById 和理解简单 js 语法的程度&lt;/p&gt;
+&lt;p&gt;问题所在呢，就是这个 UI 库提供了一个组件，就是&lt;em&gt;&lt;strong&gt;整个屏幕都变成半透明灰色没法点，然后中间弹一个类似桌面程序 modal 窗口的的框弹出的是白色的框，产生反差，里面可以自由发挥 html 代码的组件&lt;/strong&gt;&lt;/em&gt; 不知道这玩意你们一般叫啥&lt;/p&gt;
+&lt;p&gt;这个组件显示是正常的，我完全 copy 的手册的代码，只是把中间的文字替换成了我要显示的文字&lt;/p&gt;
+&lt;p&gt;然后无意发现，这个组件下面的基本布局组件里有个色块，不会被变灰遮挡，也不会被弹出的 modal 窗口遮挡，modal 窗口正中间有个超级鲜艳的色块&lt;/p&gt;
+&lt;p&gt;我对 html 还是有点概念的，这应该是下面那个组件里有一部分颜色功能用了 relative/absolute 定位（这玩意不存在用 fixed 定位吧）给了个 z-index 1 导致的问题 相当于类似 floating 的状态&lt;/p&gt;
+&lt;p&gt;他 z-index 给 1 是因为他想让这个东西显示在他那个组件内部的基准层上面 1 层&lt;/p&gt;
+&lt;p&gt;而这个白色的框是 display:block 的 普通定位 就到下面去了&lt;/p&gt;
+&lt;p&gt;这里我最开始犯了个错误 因为这个 modal 状态 F12 不好定位 而 html 是通过前端框架渲染的 代码里写的是模板 所以我漏掉了 直接看那个白色框的 block 的状态 position 是默认值 刚开始以为这个组件整体不是 floating 的状态&lt;/p&gt;
+&lt;p&gt;提完了 issue 很快维护的大佬就来解答了&lt;/p&gt;
+&lt;p&gt;他纠正了我的错误分析 告诉我这个组件都是非默认 position 的&lt;/p&gt;
+&lt;p&gt;然后我又回去仔细找了下，确实，那个背景整体变灰是个 fixed 的 width height 都是 100%的 div 且 z-index 是 1&lt;/p&gt;
+&lt;p&gt;两个 z-index 都是 1 结果就是按定义顺序了 问题发现&lt;/p&gt;
+&lt;p&gt;维护的大佬纠正的我的想法时，另外说到： “这是个 z-index 合不合理的问题”&lt;/p&gt;
+&lt;p&gt;我认为这不合理，我就反问了一句，那你认为这种 modal 功能而论，给 1 的 z-index 到底合不合理？说这话时候，我认为这不合理。我认为这种组件默认应该有一个较高的 z-index 。没必要最高给个 2000 但是高于一般组件 让这个东西确实能遮住大部分组件，应该是正常人类应该有的思维吧？&lt;/p&gt;
+&lt;p&gt;到这里，我这个职业杠精八代高低杠转世都没想杠什么，您说了，我就一提，委婉的表示了一下我认为这个不太合理，咱是不是要在远期版本改进一下这个默认值 改个 3 或者 5 之类 这就完事了&lt;/p&gt;
+&lt;p&gt;然后就得到了一个公式化的答复&lt;/p&gt;
+&lt;p&gt;“它们的层级是一样的，所以最终它们展示上的层级和在文档流的顺序也有关系。修改默认的 z-index 值属于 breaking change 。不过提供了 z-index 的 prop 和 css 变量，你可以根据项目的实际情况进行配置。”&lt;/p&gt;
+&lt;p&gt;说实话，这玩意我已经改完了，也没用他的方法，因为文档里压根就没写过这玩意要怎么改，变量在哪也没看到，也没有说明。我不觉得一个公开的知名的广泛传播的开源组件，我不过分的基础用法使用它还得去看他源码怎么写的才能正常用&lt;/p&gt;
+&lt;p&gt;然后我就吐槽了一句，贵司果然大厂风范。然后我就主动 close 了这个 issue 。 毕竟大周末的，不是带薪抬杠，跟大佬在 github 杠不划算……&lt;/p&gt;
+&lt;p&gt;为啥大厂风范呢？因为这个开源代码在某个大厂的组织下，而不是在个人作者名下。项目简介明确写道是该厂开源产品，且用了该厂商标。&lt;/p&gt;
+&lt;p&gt;都 closed 了的，该大佬又跑来跟我一顿解释。&lt;/p&gt;
+&lt;p&gt;可是我就想知道，大佬认为这个到底合不合理，我就杠了一下 我只是想知道你认为到底合不合理&lt;/p&gt;
+&lt;p&gt;然后又换来了长篇大论的解释……&lt;/p&gt;
+&lt;p&gt;可是我只是想知道，到底大佬们怎么想的，这种设计到底合不合理。你要觉得合理，你就告诉我合理，以后我也多学习学习怎么设计这种合理。&lt;/p&gt;
+&lt;p&gt;我就又补充了一句，我只是想知道到底合不合理，能不能用一个字或者两个字告诉我到底合理不合理。我说大厂风范，就是指的这种从不正面面对问题，顾左右耳言他的行为&lt;/p&gt;
+&lt;p&gt;然后，我就又收获了更长的一篇长篇大论……&lt;/p&gt;
+&lt;p&gt;这次还用 markdown 给我列了 1 2 3 4&lt;/p&gt;
+&lt;p&gt;其中第四条是&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“默认的值无论是什么都有可能在某个场景下是不合理的。”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我就想知道，现在程序员的群体里，都已经这样了么？话不能直接说，沟通不能简洁有效 什么都得长篇大论，生怕触动了原始写这段代码的巨佬的权威&lt;/p&gt;
+&lt;p&gt;你觉得合理，你就明确的告诉我合理，我也接受就完事了&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 11:30:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993100#reply2</guid></item><item><title>[酷工作] MVP 项目开发，类似 ProductHunt，游戏领域</title><link>https://www.v2ex.com/t/993099#reply0</link><description>&lt;p&gt;MVP 项目开发，类似 ProductHunt ，游戏领域&lt;/p&gt;
+&lt;p&gt;付费开发。感兴趣的发出自己的 GitHub&lt;/p&gt;
+&lt;p&gt;info#gameforce.fun&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 11:28:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993099#reply0</guid></item><item><title>[macOS] 已经被 Mac 上 Chrome ERR_NETWORK_CHANGED 搞疯了</title><link>https://www.v2ex.com/t/993098#reply2</link><description>&lt;p&gt;是因为昨天手欠升级了 14.1.1 的与原因吗，14.1.0 的时候也有但是没有这么频繁，还是我家网络确实出了啥问题。&lt;/p&gt;
+&lt;p&gt;大家有类似情况吗？有啥解决办法吗？&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 11:18:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993098#reply2</guid></item><item><title>[互联网] 腾讯云 api 网关乱扣费</title><link>https://www.v2ex.com/t/993097#reply0</link><description>&lt;p&gt;前些日子工作需要在腾讯云开了 api 网关服务，我们的虽然用但是平常都不怎么调用的，但是突然在今天被告知欠费快 7w ，还好只是 7w ，虽然已经不能忍了，这要是 700w 。。。当时立马咨询了人工客户，经过他们检查发现的确是系统异常扣费。还好我没钱充值，但是他们是不是应该给点补偿，差点都想溜了，如果非要让我付费，这腾讯可是号称南山必胜客。说句难听点的他这个属于系统重大问题啊，都说阿里最近蹦了问题不小，我看腾讯云这水平也没见得好到哪里去。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/11/18/cc738fb1c3cb0.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/11/18/bcef02fad91fb.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/11/18/c4e6c46096d68.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 11:18:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993097#reply0</guid></item><item><title>[Apple] 请问土区 apple music 学生认证，选择国别的时候，点不动是什么回事</title><link>https://www.v2ex.com/t/993096#reply0</link><description></description><pubDate>Sat, 18 Nov 2023 11:16:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993096#reply0</guid></item><item><title>[问与答] 安卓下类似 ios 的 bark 推送 app 是啥</title><link>https://www.v2ex.com/t/993095#reply1</link><description>接收我自己服务器推送的消息，弹窗，iphone 我一直用的 Bark,貌似也是 v 友分享的，求推荐安卓下的自定义推送 不要微信的。暂时也不想要 telegram 应该有把，求推荐</description><pubDate>Sat, 18 Nov 2023 11:01:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993095#reply1</guid></item><item><title>[问与答] 这周看到有个 V 友发帖宣传他的日程啥的管理软件，当时想下载发现得升级 ios ，今天升级好了，结果找不到那个帖子了。如有看到的 V 友，麻烦贴个连接。</title><link>https://www.v2ex.com/t/993094#reply3</link><description></description><pubDate>Sat, 18 Nov 2023 10:46:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993094#reply3</guid></item><item><title>[分享创造] [油猴]自动加载标题内容到当前页，效率提高；有希望添加的功能留言</title><link>https://www.v2ex.com/t/993093#reply0</link><description>鼠标移动到感兴趣的 [标题] 上，页面内容自动加载&lt;br /&gt;&lt;br /&gt;为了提高浏览效率，适用于一些非讨论形话题&lt;br /&gt;&lt;br /&gt;[油猴脚本 v2ex+]( &lt;a href="https://greasyfork.org/zh-CN/scripts/480176" rel="nofollow noopener" target="_blank"&gt;https://greasyfork.org/zh-CN/scripts/480176&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;&lt;a href="https://greasyfork.org/zh-CN/scripts/480176" rel="nofollow noopener" target="_blank"&gt;https://greasyfork.org/zh-CN/scripts/480176&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;演示视频&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Sat, 18 Nov 2023 10:44:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993093#reply0</guid></item><item><title>[Linux] manjaro plasma 23 上的 fcitx5-rime 打字时字母乱跳</title><link>https://www.v2ex.com/t/993092#reply0</link><description>切换到 RIME 也就是中州韵输入中文的时候打拼音，比如想打“你好”，但实际上可能打出来“in 好”，而且有个规律，就是打字快的时候特别容易出现，放慢了速度倒是会降低发生频率。google 了一番关键词“fcitx5 字母 乱跳”，搜出来几篇文章比如 “[fcitx5 中文输入在 chrome/vscode 等应用中的问题及解决_chrome fctix5 中文输入-CSDN 博客]( &lt;a href="https://blog.csdn.net/yuzx2008/article/details/126288531)”，" rel="nofollow noopener" target="_blank"&gt;https://blog.csdn.net/yuzx2008/article/details/126288531)”，&lt;/a&gt; 但看起来好像都是一个人写的，按照他文章里说的方法，还得按照 fcitx gtk 的库，我用的 KDE plasma ，应该跟 gtk 没啥关系才对。不知道大家有没有遇到过这种问题？</description><pubDate>Sat, 18 Nov 2023 10:27:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993092#reply0</guid></item><item><title>[分享创造] 做了一个给独立创造者使用的导航网站</title><link>https://www.v2ex.com/t/993091#reply1</link><description>&lt;p&gt;&lt;a href="https://imgloc.com/image/HHTBo" rel="nofollow"&gt;&lt;img alt="HHTBo.png" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/11/18/HHTBo.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://www.duli.one" rel="nofollow"&gt;独立导航 duli.one&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;我发现许多优秀的网站、工具散落在互联网各处，有的时候只能通过一些文章或者论坛下的评论才能找到它们，所以就有了把它们汇聚起来，放到一个网站内的想法。最后，就有了这个网站 &lt;a href="https://www.duli.one" rel="nofollow"&gt;独立导航 duli.one&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;独立导航是一个为创造者服务的导航网站。我希望上面的每个网址都有价值、好用，许多都是我收藏了很久而且也经常使用的网站。但是，每个人对好用和有价值的评判标准是不一样的，所以我在做这个网站的时候也感觉十分犹豫，对于某个网站放还是不放百般纠结。我希望未来能够形成一套更加清晰的标准，让这个网站能够长期的运行下去，帮助到更多的人。&lt;/p&gt;
+&lt;p&gt;现在上面的网站还不多，正在不断丰富中，如果你有好的建议或者发现，可以在下面留言，也可以发邮件到 &lt;a href="mailto:brkchen@icloud.com"&gt;brkchen@icloud.com&lt;/a&gt; ，谢谢大家。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 10:15:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993091#reply1</guid></item><item><title>[Android] 如何解决原生 Android 续航问题？</title><link>https://www.v2ex.com/t/993090#reply2</link><description>&lt;p&gt;近期打算买部原生 Android 手机，但搜了一下都说在中国使用续航是个大问题。请教一下各位机油：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;在外面漂泊了近十年，想在广州有个家，结束租房的生活；&lt;/li&gt;
-&lt;li&gt;那个时候还没女朋友，找对象也一直不是很顺利，因此想如果在广州有房，会不会在相亲市场上稍微能具备一些竞争力？&lt;/li&gt;
-&lt;li&gt;近几年事业比较稳定，手头上比较充裕了些，所以心里多少有了些理财的念头。众所周知，买房就是终极的理财方法。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;因此，我就有了买房的想法。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:19:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993008#reply1</guid></item><item><title>[宽带症候群] 广东地区有什么便宜的商宽/专线吗~</title><link>https://www.v2ex.com/t/993007#reply1</link><description>想稳定有个公网 ip 的保障&lt;br /&gt;电信 联通 移动 都可以，哪家便宜上哪家，目前已知移动有移动到企，99 块钱起步，&lt;a href="https://mp.weixin.qq.com/s/FHBEQvUiRVzxJ6BPC9w4iA" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/FHBEQvUiRVzxJ6BPC9w4iA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;电信联通不了解，移动目前也只潦潦看到这个&lt;br /&gt;&lt;br /&gt;不想再折腾家宽了，看趋势甚至要集体 nat4</description><pubDate>Sat, 18 Nov 2023 03:17:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993007#reply1</guid></item><item><title>[问与答] 我会不会死</title><link>https://www.v2ex.com/t/993006#reply8</link><description>&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzUzMDk3MjY0MA==&amp;amp;mid=2247484242&amp;amp;idx=1&amp;amp;sn=f8dafc8f75deb16d6152649f2f805d4e&amp;amp;chksm=fa48e9ddcd3f60cb96b1ed0fa42de0d816eb1073e452104ac8b0b531ab07dc4ae413d1d7d2b3&amp;amp;token=465269404&amp;amp;lang=en_US#rd" rel="nofollow"&gt;我会不会死&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在你小学中学的时候有你认为的朋友吗，那时候根本不懂朋友，只需要你在玩什么，我也要玩，那你来，就是交到朋友了。&lt;/p&gt;
-&lt;p&gt;那你的朋友怎么样，你现在又怎么样呢，好不好呢。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:16:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993006#reply8</guid></item><item><title>[职场话题] 24 届双非嵌入式 Linux ， Offer？</title><link>https://www.v2ex.com/t/993003#reply8</link><description>&lt;p&gt;在杭州浙大西溪校区这边，一个还算比较大的电子厂，感觉 HR 挺热情的，已经发了正式的 offer 了，实习现在是 3k ，大概 1 月这样子签三方，签三方之后 8-10k 还没具体确定这样，工作时间是早 8 晚 5 加班还不确定，因为我和他说我还有两天早 8 的课，他说每周最起码要去三天，早上太早了，学校挺远的得打车去，要贷款上班了，下周就过去，有什么要注意的吗。
-话说我一个还算是实习就给我买了新的笔记本，HR 说的，有点震惊。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:13:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993003#reply8</guid></item><item><title>[生活] 千元以内半入耳的耳机求推荐</title><link>https://www.v2ex.com/t/993002#reply0</link><description>&lt;p&gt;如题，对降噪没什么需求，不喜欢全入耳式耳机，预算也不高，几百块钱就行，手机是 iPhone 。&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 03:13:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993002#reply0</guid></item></channel></rss>
+&lt;li&gt;24h 科学使用能否解决？&lt;/li&gt;
+&lt;li&gt;听说用黑阈/冰箱之类可以禁用 google play 服务，但也有人说这类 app 会有副作用？&lt;/li&gt;
+&lt;li&gt;在不解锁 root 的情况下有什么解决方法？&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sat, 18 Nov 2023 10:05:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993090#reply2</guid></item><item><title>[HTML] 求问前端如何实现一个业务表格，要求能够固定首列，其余列滚动，点击一行在该行下展开一行且固定住，左右滑动其他列的时候固定的行不动？</title><link>https://www.v2ex.com/t/993089#reply0</link><description>&lt;p&gt;需求如标题所示，目前已经写了代码结构如下，现在遇到的问题有两个。
+其一：固定住展开的行，使其不随着其他列滚动。
+其二：展开的行由于合并了剩余的列，导致宽度为所有列宽的总和，比如有五个列，每个列的宽度为 100 ，则最后展开的行的宽度为 100x5=500,如何让整个展开的行宽度为屏幕的宽度。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;template&amp;gt;
+  &amp;lt;div class="bg-07 w-full overflow-hidden"&amp;gt;
+    &amp;lt;div class="overflow-auto"&amp;gt;
+      &amp;lt;table class="w-full"&amp;gt;
+        &amp;lt;thead class="w-full relative"&amp;gt;
+          &amp;lt;tr class="w-full"&amp;gt;
+            &amp;lt;td class="w-150px fixedTd"&amp;gt;姓名&amp;lt;/td&amp;gt;
+            &amp;lt;td class="w-150px"&amp;gt;性别&amp;lt;/td&amp;gt;
+            &amp;lt;td class="w-90px"&amp;gt;年龄&amp;lt;/td&amp;gt;
+            &amp;lt;td class="w-90px"&amp;gt;收入&amp;lt;/td&amp;gt;
+            &amp;lt;td class="w-90px"&amp;gt;工作&amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/thead&amp;gt;
+        &amp;lt;tbody class="w-full relative"&amp;gt;
+          &amp;lt;template v-for="(item, index) in tableData" :key="index"&amp;gt;
+            &amp;lt;!-- &amp;lt;TrItem v-model:currentExpIndex="currentExpIndex" :line-data="item" :self-index="index"&amp;gt;&amp;lt;/TrItem&amp;gt; --&amp;gt;
+            &amp;lt;tr class="w-full"&amp;gt;
+              &amp;lt;td class="fixedTd"&amp;gt;
+                &amp;lt;div class="w-150px"&amp;gt;{{ item.name }}&amp;lt;/div&amp;gt;
+              &amp;lt;/td&amp;gt;
+              &amp;lt;td&amp;gt;
+                &amp;lt;div class="w-150px"&amp;gt;{{ item.age }}&amp;lt;/div&amp;gt;
+              &amp;lt;/td&amp;gt;
+              &amp;lt;td&amp;gt;
+                &amp;lt;div class="w-90px"&amp;gt;{{ item.sex }}&amp;lt;/div&amp;gt;
+              &amp;lt;/td&amp;gt;
+
+              &amp;lt;td&amp;gt;
+                &amp;lt;div class="w-90px"&amp;gt;{{ item.income }}&amp;lt;/div&amp;gt;
+              &amp;lt;/td&amp;gt;
+
+              &amp;lt;td&amp;gt;
+                &amp;lt;div class="w-90px"&amp;gt;{{ item.job }}&amp;lt;/div&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+            // 需要展开的行
+            &amp;lt;tr v-if="currentExpIndex === index" class="w-375px sticky bg-02"&amp;gt;
+              &amp;lt;td colspan="5" class="w-375px expandTr top-0"&amp;gt;合并单元格&amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/template&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/template&amp;gt;
+
+&amp;lt;script setup&amp;gt;
+import { ref } from 'vue';
+import TrItem from './TrItem.vue';
+const tableData = [
+  {
+    name: '1',
+    age: '2',
+    sex: '3',
+    income: '4',
+    job: '5'
+  },
+  {
+    name: '3',
+    age: '5',
+    sex: '6',
+    income: '7',
+    job: '8'
+  },
+  {
+    name: '23',
+    age: '43',
+    sex: '43',
+    income: '43',
+    job: '54'
+  },
+  {
+    name: '5',
+    age: '4',
+    sex: '3',
+    income: '2',
+    job: '1'
+  }
+];
+let exp = ref(false);
+let currentExpIndex = ref(-1);
+function expand() {
+  exp.value = !exp.value;
+}
+&amp;lt;/script&amp;gt;
+
+&amp;lt;style scoped&amp;gt;
+.fixedTd {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background: #fff;
+}
+.expandTr {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  width: 375px;
+}
+&amp;lt;/style&amp;gt;
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;求来个大佬解答&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 09:54:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993089#reply0</guid></item><item><title>[问与答] 申请了电信的动态公网 ip，怎样部署自己的服务到外网</title><link>https://www.v2ex.com/t/993087#reply4</link><description>向电信申请了公网 ip ，是动态 ip ，光猫上可以设置花生壳的域名之类的。想把自己在家里用来吃灰的电脑用来当服务器，有什么办法可以让我能够通过申请的动态 ip 访问到我的电脑，还有就是除了花生壳还有其他的方式么</description><pubDate>Sat, 18 Nov 2023 09:28:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993087#reply4</guid></item><item><title>[生活] 有没有在苏州工作的浙江人？</title><link>https://www.v2ex.com/t/993086#reply0</link><description>&lt;p&gt;感觉大部分人都到杭州去了，但是杭州真的顶不住，有没有在苏州的浙江人，尤其是衢州的老哥？&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 09:28:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993086#reply0</guid></item><item><title>[Apple] 拼车， icloud 2TB + Apple Music 家庭版 半年付 83 元</title><link>https://www.v2ex.com/t/993084#reply1</link><description>之前的车到期车主不续了，所以想自己开一个&lt;br /&gt;&lt;br /&gt;icloud 大约每个人 333GB 。6 个人拼的话，费用是每人每个月：（ 68+15 ）/6 =13.83 。&lt;br /&gt;&lt;br /&gt;都是国区的。&lt;br /&gt;半年付一次，这样比较方便，就是 83r 。&lt;br /&gt;需要的话把你的微信号发送到邮箱 &lt;a href="http://liyuhan654gmail.com" rel="nofollow noopener" target="_blank"&gt;liyuhan654gmail.com&lt;/a&gt; ，我来加你</description><pubDate>Sat, 18 Nov 2023 09:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993084#reply1</guid></item><item><title>[分享发现] 刚测试 ChatGPT 无需手机号码验证了</title><link>https://www.v2ex.com/t/993081#reply1</link><description>很简单了&lt;br /&gt;1.打开代理，尽量干净的 ip 成功机率更高，首选美国 ip ！&lt;br /&gt;&lt;br /&gt;2.准备一个国外的邮箱，推荐 gmail ，proton 等，我用了 proton&lt;br /&gt;&lt;br /&gt;原文地址： &lt;a href="https://bluesrt.com/7353.html" rel="nofollow noopener" target="_blank"&gt;https://bluesrt.com/7353.html&lt;/a&gt;</description><pubDate>Sat, 18 Nov 2023 09:08:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993081#reply1</guid></item><item><title>[程序员] rocketmq 适合做消费耗时长的任务吗?</title><link>https://www.v2ex.com/t/993079#reply13</link><description>&lt;p&gt;客户点击导出 excel,这时发送一条消息到 rocketmq&lt;/p&gt;
+&lt;p&gt;rocketmq 在消费时,会有超时重试机制,默认 15S,重试(不管有没有错误,到时间就认为超时,虽然可以修改)&lt;/p&gt;
+&lt;p&gt;生成个 excel 的时间可能在 3~5 分钟,可能生成时发生错误(如读取数据超时,有一定容错,但无法避免完全不出问题).&lt;/p&gt;
+&lt;p&gt;这种情况是不是太适合用 rocketmq 来做触发和重试?&lt;/p&gt;
+&lt;p&gt;用数据库做轮询是不是比较好?&lt;/p&gt;
+&lt;p&gt;或是更好的实现方式?&lt;/p&gt;</description><pubDate>Sat, 18 Nov 2023 08:53:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993079#reply13</guid></item><item><title>[Python] Python 潮流周刊#27：应该如何处理程序的错误？</title><link>https://www.v2ex.com/t/993078#reply0</link><description>&lt;p&gt;你好，我是猫哥。这里每周分享优质的 Python 、AI 及通用技术内容，大部分为英文。本周刊开源，欢迎&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;投稿&lt;/a&gt;。另有&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;电报频道&lt;/a&gt;作为副刊，补充发布更加丰富的资讯。&lt;/p&gt;
+&lt;h2&gt;🐱产品推荐&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://Walles.AI" rel="nofollow"&gt;Walles.AI&lt;/a&gt;&lt;/strong&gt; 是一款适用于所有网站的浏览器插件，支持 GPT4 问答、ChatPDF 、网页内容解释及翻译、生成高质量文章、与 Notion 等工具协同、在线摘要 Youtube 视频等。前往官网体验：&lt;a href="https://walles.ai?invite_code=CGZP5W" rel="nofollow"&gt;安装地址&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🦄文章&amp;amp;教程&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://www.inngest.com/blog/python-errors-as-values" rel="nofollow"&gt;将 Python 错误作为值：比较 Go 和 Rust 的使用模式&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;文章比较了两种处理错误的方法：抛出错误和将错误作为返回值，并参照 Go 和 Rust 的处理模式，介绍如何在 Python 中实现将错误作为值返回。（附 1：&lt;a href="https://frostming.com/error-handling/" rel="nofollow"&gt;两种风格的错误处理&lt;/a&gt; 分析了两种风格的优缺点及其适用场景；附 2：周刊第一期的 &lt;a href="https://pythoncat.top/posts/2023-05-08-error" rel="nofollow"&gt;编程语言的四种错误处理方法&lt;/a&gt; 从语法、代码可读性、演变过程、运行效率角度对比了不同方案）&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://www.better-simple.com/django/2023/11/04/debugging-csrf-error-in-production/" rel="nofollow"&gt;调试 Django 中的 CSRF 失败/403 禁止错误&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;部署 Django 程序时的一个常见错误是 &lt;code&gt;403 Forbidden&lt;/code&gt; ，通常由 CSRF 错误导致，文章介绍了导致这种错误的 7 种原因，并解读 Django 源码，详细梳理了它们的校验逻辑。&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://alpopkes.com/posts/python/packaging_tools/" rel="nofollow"&gt;对 Python 环境和包管理工具的公正分析&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 中的虚拟环境和包管理工具实在是太多了！但是应该如何选择最适合自己需求的工具呢？作者全面分析了 5 个类别的 10 多款工具，希望减少用户在抉择上的困惑。（附：作者针对此主题的两场演讲 &lt;a href="https://www.youtube.com/watch?v=MsJjzVIVs6M" rel="nofollow"&gt;PyCon DE 2023&lt;/a&gt; 和 &lt;a href="https://www.youtube.com/watch?v=3-drZY3u5vo" rel="nofollow"&gt;EuroPython 2023&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Python 环境和包管理工具的分类" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/venn_diagram.png" /&gt;&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://mostlynerdless.de/blog/2023/09/20/lets-create-a-python-debugger-together-part-1/" rel="nofollow"&gt;让我们一起创建一个 Python 调试器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;你是否好奇一个代码调试器是如何工作的？当设置断点后，程序触发它时会发生什么？调试器是程序员日常必备工具之一，但极少有人知道它是如何实现的。这是一个系列教程，已更新 5 篇文章。值得一提的是，作者使用了最新的 Python 3.12  PEP-669 功能。&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://blog.jetbrains.com/pycharm/2023/11/python-3-12/" rel="nofollow"&gt;揭开 Python 3.12 的面纱：Python 世界有哪些新东西？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 3.12 已发布一个半月，你开始尝鲜了么？这篇内容全面的文章重点解读了新的几个 PEP ，让你对这个版本有更清晰的认识。&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://stackabuse.com/hash-tables-in-python/" rel="nofollow"&gt;Python 的哈希表指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 的字典是一种“哈希表”，提供了高效灵活的数据存储和检索方法。文章介绍了这种数据结构及其工作原理，探讨了如何用 Python 实现哈希表并解决哈希冲突。这是一个系列文章，作者还写了堆、队列、栈、数组等数据结构的指南。&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://healeycodes.com/running-untrusted-python-code" rel="nofollow"&gt;运行不可信的 Python 代码&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者想自己实现一个简化版的不太安全的沙盒，文章介绍了它的运作方式，以及一些关键性问题的解决方案，即独立的进程 + &lt;code&gt;seccomp&lt;/code&gt; + &lt;code&gt;setrlimit&lt;/code&gt; 。（附：&lt;a href="https://www.kingname.info/2023/11/11/python-run-other-code/" rel="nofollow"&gt;如何安全运行别人上传的 Python 代码？&lt;/a&gt; 这篇文章的方案是使用 Docker 的 Python SDK 来构建镜像，在 Docker 中执行代码）&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://muhammadraza.me/2023/linux-cp/" rel="nofollow"&gt;了解 Linux cp 命令并用 Python 编程实现&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;深入探讨了 Linux 中 &lt;code&gt;cp&lt;/code&gt; 命令的工作原理，然后用 Python 实现了一个基础版本。从中可以看到高级编程语言提供的强大功能和简单性。&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://www.bitecode.dev/p/beginners-should-use-django-not-flask" rel="nofollow"&gt;初学者应该用 Django ，而不是 Flask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者认为 Flask 虽然简单易用，但它可能会让初学者忽视 Web 开发的复杂性。Django 功能全面、生态系统成熟，更适合新手学习与提升生产力。&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://peps.python.org/pep-0733/" rel="nofollow"&gt;PEP-733：对 Python 公共 C API 的评估&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一则信息型的 PEP ，用于分享 C API 的信息，包括定义 C API 的用途、利益相关者及其使用场景和要求、C API 的优势、C API 的 9 项薄弱的问题。&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://arunmani.in/articles/silly-json-parser/" rel="nofollow"&gt;让我们做一个类 JSON 语法的解析器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者出于编程乐趣的目的，定义了一组类似 JSON 的语法规则，然后使用 Python 逐一实现不同内容的提取与解析，开发了一个解析器。&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html" rel="nofollow"&gt;一门编程语言应该有多大？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在作者眼中，Python 1.5 是他能完全理解的最后一个版本，而之后的版本则使得语言越来越大。语言设计时添加新功能，如何权衡取舍？作者建议学习 C 语言的例子，让语言处于“最小进化”模式。&lt;/p&gt;
+&lt;p&gt;🎁&lt;strong&gt;PyCon China 2023&lt;/strong&gt;🎁今年国内 PyCon 将于 12 月在北京、上海、成都、杭州、重庆、深圳、广州联动举办。现在购票可享 7 折优惠：&lt;a href="https://mp.weixin.qq.com/s/lfrFoIiNuUYzgXPklQPLmg" rel="nofollow"&gt;详情介绍&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🐿️项目&amp;amp;资源&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://github.com/THUDM/CogVLM" rel="nofollow"&gt;CogVLM：多模态预训练模型&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个强大的开源可视化语言模型 （ VLM ），CogVLM-17B 有 100 亿个视觉参数和 70 亿个语言参数，具有高性能，在多项跨模态基准测试中排名领先。（ star 2.1K ）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CogVLM 在基准测试中的得分" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/metrics-min.png" /&gt;&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://github.com/rezoo/movis" rel="nofollow"&gt;movis：用于生成与编辑视频的库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;让你通过 Python 代码生成各类视频，包括但不限于演示视频、动态图形、着色器艺术编码和游戏解说视频。支持视频编辑、音频剪辑、图层转换及添加特效等。&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://github.com/cocktailpeanut/mirror" rel="nofollow"&gt;mirror：基于摄像头内容，实时回答问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这是一个 Web APP ，可将摄像头视频流传给 AI ，让它分析内容并实时回答你提出的问题。100% 本地和私有，Web UI 是用 &lt;a href="https://www.gradio.app/" rel="nofollow"&gt;gradio&lt;/a&gt; 构建，多模态 AI 模型是 &lt;a href="https://huggingface.co/SkunkworksAI/BakLLaVA-1" rel="nofollow"&gt;Bakllava&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://github.com/ishan0102/vimGPT" rel="nofollow"&gt;vimGPT：使用 GPT-4V 和 Vimium 浏览网页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vimium&lt;/strong&gt; 是一个 Chrome 插件，可让你仅用键盘浏览网页，借助它，可以不将浏览器 DOM 传给大模型，仅用 GPT-4V 的视觉功能来浏览网页。（ star 1.8K ）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="使用 GPT-4V 和 Vimium 浏览网页" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-18_vimGPT.png" /&gt;&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://github.com/kaixinol/twitter_user_tweet_crawler" rel="nofollow"&gt;twitter_user_tweet_crawler：无需调用 Twitter API ，爬取用户推文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 selenium 模拟浏览器操作，可抓取用户推文并保存静态资源到本地，无需调用 Twitter API 。（投稿自 @&lt;a href="https://www.v2ex.com/member/kaixinol"&gt;kaixinol&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://github.com/AboutRSS/RSS-OPML-to-Markdown" rel="nofollow"&gt;RSS-OPML-to-Markdown：将 OPML 文件转化为易读的 Markdown 格式&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;经常有人分享自己 RSS 列表导出的 OPML 文件，但这难以阅读也不宜直接拿去导入自己的阅读器。这个项目将 RSS 源的概要和一些统计信息输出成 markdown 表格，方便你按需订阅。（投稿自 @&lt;a href="https://www.v2ex.com/member/AboutRSS"&gt;AboutRSS&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://github.com/AIFSH/MyHeyGen" rel="nofollow"&gt;MyHeyGen：视频翻译工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个平民版视频翻译工具，音频翻译、翻译校正、视频唇纹合成全流程解决方案。&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://github.com/emanuelef/awesome-python-repo-stats" rel="nofollow"&gt;awesome-python-repo-stats：统计“awesome-python”列表中项目的信息&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/vinta/awesome-python" rel="nofollow"&gt;awesome-python&lt;/a&gt; 是一个拥有 187K star 超火爆的项目，收录了大量框架、库、软件和资源。这个项目是对它收录内容的统计分析，每日更新，可在线查看统计表。&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://github.com/outlines-dev/outlines" rel="nofollow"&gt;outlines：引导式文本生成&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个用于生成神经文本的库，可视为 transformers 库中 &lt;code&gt;generate&lt;/code&gt; 方法的替代品。（ star 3.3K ）&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://github.com/marimo-team/marimo" rel="nofollow"&gt;marimo：下一代 Python notebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;全新的 notebook 项目，其每个 notebook 都可作为交互式 Web 程序共享，可浏览数据、运行实验、构建工具和部署应用。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="marimo 使用演示" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-18_marimo.png" /&gt;&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://github.com/shashankvemuri/Finance" rel="nofollow"&gt;Finance：150+ 量化金融 Python 程序&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个资源集合项目，帮助你收集、操纵和分析股市数据。（ star 1.2K ）&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://github.com/amidaware/tacticalrmm" rel="nofollow"&gt;tacticalrmm：一个远程监控和管理工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个远程监控和管理工具，使用 Django 、Vue 和 Go 构建。类似 Teamviewer 的远程桌面控制、远程文件传输、远程执行命令和脚本、查看日志、告警管理、支持自动化。（ star 2.3K ）&lt;/p&gt;
+&lt;h2&gt;🐢播客&amp;amp;视频&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://www.youtube.com/watch?v=HxSHIpEQRjs" rel="nofollow"&gt;CPython 的 JIT 编译器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Guido 本周在 X 上分享了这则视频，视频作者介绍了他们规划给 Python 3.13 开发一个 JIT 编译器！（附：&lt;a href="https://github.com/brandtbucher/brandtbucher/blob/master/2023/10/10/a_jit_compiler_for_cpython.pdf" rel="nofollow"&gt;演讲视频的文稿&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://www.blog.pythonlibrary.org/2023/11/10/episode-21-sanic-the-async-python-web-framework/" rel="nofollow"&gt;The Python Show 第 21 期：Sanic - 异步 Web 框架&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sanic 是支持异步编程的 Python Web 框架，能够快速构建和运行。这期播客的嘉宾是 Sanic 的维护者之一，话题包括 Web 框架对比、消息规范、&lt;a href="https://github.com/ahopkins/mayim" rel="nofollow"&gt;Mayim&lt;/a&gt;（单向 ORM ）。&lt;/p&gt;
+&lt;p&gt;本文首发于：&lt;a href="https://pythoncat.top/posts/2023-11-18-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2023-11-18-weekly&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🐼欢迎订阅&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;微信公众号&lt;/a&gt;：除更新周刊外，还发布其它原创作品，并转载一些优质文章。（可加好友，可加读者交流群）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.top" rel="nofollow"&gt;博客&lt;/a&gt; 及 &lt;a href="https://pythoncat.top/rss.xml" rel="nofollow"&gt;RSS&lt;/a&gt;：我的独立博客，上面有历年原创/翻译的技术文章，以及从 2009 年以来的一些随笔。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;Github&lt;/a&gt;：你可以获取本周刊的 Markdown 源文件，做任何想做的事！&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;邮件&lt;/a&gt;：在 Substack 上开通的频道，满足你通过邮件阅读时事通讯的诉求。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;Telegram&lt;/a&gt;：除了发布周刊的通知外，我将它视为一个“副刊”，补充发布更加丰富的资讯。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/chinesehuazhou" rel="nofollow"&gt;Twitter&lt;/a&gt;：我的关注列表里有大量 Python 相关的开发者与组织的账号。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 18 Nov 2023 08:48:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993078#reply0</guid></item><item><title>[macOS] macbook 储存空间不足，有什么好办法嘛？</title><link>https://www.v2ex.com/t/993077#reply5</link><description>&lt;h1&gt;mac 从移动硬盘导入了 90G 的相册同步到 iCloud ，现在存储空间不足&lt;/h1&gt;
+&lt;p&gt;系统显示 61.54GB 可用（共 245.11GB ）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;照片 90.74GB | App 39.47GB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但是在 ‘系统报告'-&amp;gt; '硬件'-&amp;gt; '储存'显示 &lt;strong&gt;未使用 17.59GB&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20231118163038416" class="embedded_image" rel="noreferrer" src="https://lhp96.oss-cn-hangzhou.aliyuncs.com/lhp/image-20231118163038416.png" /&gt;&lt;/p&gt;
+&lt;p&gt;现在的问题是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果退出 appleID 再删除图片，&lt;strong&gt;删除之后再登录&lt;/strong&gt; 是否可行？&lt;/li&gt;
+&lt;li&gt;iCloud 已经上传的图片还有办法自动删除掉吗？&lt;/li&gt;
+&lt;li&gt;是否还有其他方式再深度清理数据，留下更多空间&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;备注:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;只是想要增加存储空间，并不想重置、重装系统、是主力机生产力工具&lt;/li&gt;
+&lt;li&gt;微信、node_modules 没用的都删除了&lt;/li&gt;
+&lt;li&gt;iCloud 有 2T 空间，系统偏好设置-AppleID-iCloud  选择勾上了&lt;strong&gt;优化 mac 储存空间&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 18 Nov 2023 08:41:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993077#reply5</guid></item></channel></rss>
