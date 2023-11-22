@@ -1,119 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 21 Nov 2023 19:47:36 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 一个小工具，在线生成条形码和二维码</title><link>https://www.v2ex.com/t/993998#reply0</link><description>&lt;p&gt;做了个小工具，生成条形码二维码，欢迎大家提改进意见：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.barcodepng.com/" rel="nofollow"&gt;https://www.barcodepng.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 19:29:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993998#reply0</guid></item><item><title>[Go 编程语言] go 如何实现反序列提供默认值</title><link>https://www.v2ex.com/t/993997#reply1</link><description>&lt;pre&gt;&lt;code&gt;type ServerConfig struct {
-	URL string
-	Timeout time.Duration
-    Size int
-    A  int
-    B int
-    C int
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 22 Nov 2023 16:29:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 分享一个优雅处理 Spring Boot 接口响应的 Java 库，提供一站式统一返回值封装、全局异常处理、自定义异常错误码等功能，求 star</title><link>https://www.v2ex.com/t/994341#reply0</link><description>&lt;h1&gt;简介&lt;/h1&gt;
+&lt;p&gt;Graceful Response 是一个 Spring Boot 体系下的优雅响应处理器，提供一站式统一返回值封装、全局异常处理、自定义异常错误码等功能，使用 Graceful Response 进行 web 接口开发不仅可以节省大量的时间，还可以提高代码质量，使代码逻辑更清晰。&lt;/p&gt;
+&lt;p&gt;零学习门槛，十秒钟上手！&lt;/p&gt;
+&lt;p&gt;GitHub 仓库地址： &lt;a href="https://github.com/feiniaojin/graceful-response" rel="nofollow"&gt;https://github.com/feiniaojin/graceful-response&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎试用和 star!&lt;/p&gt;
+&lt;h1&gt;Spring Boot 接口开发现状&lt;/h1&gt;
+&lt;p&gt;目前，业界使用 Spring Boot 进行接口开发时，往往存在效率底下、重复劳动、可读性差等问题。以下伪代码相信大家非常熟悉，我们大部分项目的 Controller 接口都是这样的。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Controller
+public class Controller {
+    
+    @GetMapping("/query")
+    @ResponseBody
+    public Response query(Map&amp;lt;String,Object&amp;gt; paramMap) {
+        Response res = new Response();
+        try {
+            //1.校验 params 参数合法性，包括非空校验、长度校验等
+            if (illegal(paramMap)) {
+                res.setCode(1);
+                res.setMsg("error");
+                return res;
+            }
+            //2.调用 Service 的一系列操作，得到查询结果
+            Object data = service.query(params);
+            //3.将操作结果设置到 res 对象中
+            res.setData(data);
+            res.setCode(0);
+            res.setMsg("ok");
+            return res;
+        }catch (Exception e) {
+            //4.异常处理：一堆丑陋的 try...catch ，如果有错误码的，还需要手工填充错误码
+            res.setCode(1);
+            res.setMsg("error");
+            return res;
+        }
+    }
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;ServerConfig 是从配置文件反序列化出来的，里面的变量如果配置文件没有提供的话，很多变量都是零值， 但是我期望里面的很多变量都是我自己定义的一个默认值。&lt;/p&gt;
-&lt;p&gt;我现在的做法是反序列化后再一个一个的判断，如果是零值，就改成我期望的值，这样感觉比较麻烦，有什么其他更好的方法吗？&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 19:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993997#reply1</guid></item><item><title>[程序员] 有人做过 Apple Pay 支付接入没？</title><link>https://www.v2ex.com/t/993996#reply2</link><description>&lt;p&gt;一个跨境独立站卖各种手机壳之类的，需要接入苹果支付，不知道非虚拟商品是否也要收苹果税？&lt;/p&gt;
-&lt;p&gt;此外大家能推荐几个支持 Apple Pay 的第三方支付接入公司吗？&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 18:48:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993996#reply2</guid></item><item><title>[macOS] 关于 macmini 外接显示器的问题</title><link>https://www.v2ex.com/t/993995#reply3</link><description>用的是 4K165HZ 的三星 G7 搭配绿联的 C 转 DP1.4 的线 mini m2 丐版的&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;现在的问题是开启 2K 的 hidpi 在系统信息里就会把显示器识别成 5K 的 从而无法开启 HDR&lt;br /&gt;&lt;br /&gt;Odyssey G7：&lt;br /&gt;  分辨率：	5120 x 2880 （ 5K/UHD+ - 超高清增强版）&lt;br /&gt;  UI 看起来类似：	2560 x 1440 @ 120.00Hz&lt;br /&gt;  主显示器：	是&lt;br /&gt;  镜像：	关&lt;br /&gt;  联机：	是&lt;br /&gt;  旋转：	支持&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;开 1080p 的 HIDPI 就会正常识别为 4K 分辨率&lt;br /&gt;&lt;br /&gt;Odyssey G7：&lt;br /&gt;  分辨率：	3840 x 2160 （ 2160p/4K UHD 1 - 超高清）&lt;br /&gt;  UI 看起来类似：	1920 x 1080 @ 120.00Hz&lt;br /&gt;  主显示器：	是&lt;br /&gt;  镜像：	关&lt;br /&gt;  联机：	是&lt;br /&gt;  旋转：	支持&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;但是 1080 的显示太大了 看着着实不习惯&lt;br /&gt;&lt;br /&gt;是 DP1.4 最高只支持 4K120HZ 吗&lt;br /&gt;我还以为能开启 4K165 加 HDR 呢&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道 M3 mini 的 HDMI 会出 2.1 接口不</description><pubDate>Tue, 21 Nov 2023 17:31:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993995#reply3</guid></item><item><title>[macOS] aria2c mac 下怎么老出现 6800 被占用？</title><link>https://www.v2ex.com/t/993994#reply1</link><description>&lt;p&gt;sudo killall aria2c
-brew uninstall aria2&lt;/p&gt;
-&lt;p&gt;用 sudo lsof -i tcp:6800 显示没进程了，于是 brew install aria2 ，马上又出现在 6800 被占用了&lt;/p&gt;
-&lt;p&gt;activity monitor 里，也删不掉，删了又出来，有时候还会有 2 个 aria2c 进程&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 17:09:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993994#reply1</guid></item><item><title>[硬件] LG 42C3 游戏电视到了，简单说下感受吧。</title><link>https://www.v2ex.com/t/993993#reply1</link><description>&lt;h2&gt;起因是周一的时候脑子抽风突然想要尝试下 HDR 的美妙感受。故在 V 站上发贴寻求 V 友们的建议，具体帖子看这个&lt;a href="https://www.v2ex.com/t/993314#reply47" rel="nofollow"&gt;2023 年 11 月，有什么 4k 、有高刷且 HDR 优秀的显示器推荐呢？&lt;/a&gt;。在经过考虑之后决定下单买一台 &lt;strong&gt;电视&lt;/strong&gt; 而不是&lt;strong&gt;显示器&lt;/strong&gt;，因为现在好像只有电视才能在价格较低情况下体验到质量比较好的 HDR 效果。&lt;/h2&gt;
-&lt;p&gt;先说下&lt;strong&gt;优点&lt;/strong&gt;吧：&lt;/p&gt;
+&lt;p&gt;这段伪代码存在什么样的问题呢？&lt;/p&gt;
+&lt;p&gt;第一个问题，效率低下。Controller 层的代码应该尽量简洁，上面的伪代码其实只是为了将数据查询的结果进行封装，使其以统一的格式进行返回。例如以下格式的响应体：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "id": 1,
+    "name": "username"
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;查询过程中如果发生异常，需要在 Controller 进行手工捕获，根据捕获的异常人工地设置错误码，当然，也用同样的格式封装错误码进行返回。&lt;/p&gt;
+&lt;p&gt;可以看到，除了调用 service 层的 query 方法这一行，其他大部分的代码都执行进行结果的封装，大量的冗余、低价值的代码导致我们的开发活动效率很低。&lt;/p&gt;
+&lt;p&gt;第二个问题，重复劳动。以上捕获异常、封装执行结果的操作，每个接口都会进行一次，因此造成大量重复劳动。&lt;/p&gt;
+&lt;p&gt;第三个问题，可读性低。上面的核心代码被淹没在许多冗余代码中，很难阅读，如同大海捞针。&lt;/p&gt;
+&lt;p&gt;我们可以通过 Graceful Response 这个组件解决这样的问题。&lt;/p&gt;
+&lt;h1&gt;快速入门&lt;/h1&gt;
+&lt;h2&gt;引入 Graceful Response 组件&lt;/h2&gt;
+&lt;p&gt;Graceful Response 已发布至 maven 中央仓库，我们可以直接引入到项目中。&lt;/p&gt;
+&lt;p&gt;maven 依赖如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-xml"&gt;&amp;lt;dependency&amp;gt;
+    &amp;lt;groupId&amp;gt;com.feiniaojin&amp;lt;/groupId&amp;gt;
+    &amp;lt;artifactId&amp;gt;graceful-response&amp;lt;/artifactId&amp;gt;
+    &amp;lt;version&amp;gt;{latest.version}&amp;lt;/version&amp;gt;
+&amp;lt;/dependency&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Spring Boot 版本&lt;/th&gt;
+&lt;th&gt;Graceful Response 版本&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2.x&lt;/td&gt;
+&lt;td&gt;3.2.0-boot2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.x&lt;/td&gt;
+&lt;td&gt;3.2.0-boot3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;启用 Graceful Response&lt;/h2&gt;
+&lt;p&gt;在启动类中引入 @&lt;a href="https://www.v2ex.com/member/EnableGracefulResponse"&gt;EnableGracefulResponse&lt;/a&gt; 注解，即可启用 Graceful Response 组件。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@EnableGracefulResponse
+@SpringBootApplication
+public class ExampleApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(ExampleApplication.class, args);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Controller 层&lt;/h2&gt;
+&lt;p&gt;引入 Graceful Response 后，我们不需要再手工进行查询结果的封装，直接返回实际结果即可，Graceful Response 会自动完成封装的操作。&lt;/p&gt;
+&lt;p&gt;Controller 层示例如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Controller
+public class Controller {
+    @RequestMapping("/get")
+    @ResponseBody
+    public UserInfoView get(Long id) {
+        log.info("id={}", id);
+        return UserInfoView.builder().id(id).name("name" + id).build();
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在示例代码中，Controller 层的方法直接返回了 UserInfoView 对象，没有进行封装的操作，但经过 Graceful Response 处理后，我们还是得到了以下的响应结果。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": "0",
+    "msg": "ok"
+  },
+  "payload": {
+    "id": 1,
+    "name": "name1"
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;而对于命令操作（ Command ）尽量不返回数据，因此 command 操作的方法的返回值应该是 void ，Graceful Response 对于对于返回值类型 void 的方法，也会自动进行封装。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;public class Controller {
+    @RequestMapping("/command")
+    @ResponseBody
+    public void command() {
+        //业务操作
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;成功调用该接口，将得到：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": "200",
+    "msg": "success"
+  },
+  "payload": {}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;Service 层&lt;/h2&gt;
+&lt;p&gt;在引入 Graceful Response 前，有的开发者在定义 Service 层的方法时，为了在接口中返回异常码，干脆直接将 Service 层方法定义为 Response ，淹没了方法的正常返回值。&lt;/p&gt;
+&lt;p&gt;Response 的代码如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;//lombok 注解
+@Data
+public class Response {
+    private String code;
+    private String msg;
+    private Object data;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;直接返回 Response 的 Service 层方法：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;/**
+ * 直接返回 Reponse 的 Service
+ * 不规范
+ */
+public interface Service{
+    public Reponse commandMethod(Command command);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Graceful Response 引入 @&lt;a href="https://www.v2ex.com/member/ExceptionMapper"&gt;ExceptionMapper&lt;/a&gt; 注解，通过该注解将异常和错误码关联起来，这样 Service 方法就不需要再维护 Response 的响应码了，直接抛出业务异常，由 Graceful Response 进行异常和响应码的关联。
+@&lt;a href="https://www.v2ex.com/member/ExceptionMapper"&gt;ExceptionMapper&lt;/a&gt; 的用法如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;/**
+ * NotFoundException 的定义，使用 @ExceptionMapper 注解修饰
+ * code:代表接口的异常码
+ * msg:代表接口的异常提示
+ */
+@ExceptionMapper(code = "1404", msg = "找不到对象")
+public class NotFoundException extends RuntimeException {
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Service 接口定义：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;public interface QueryService {
+    UserInfoView queryOne(Query query);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Service 接口实现：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;public class QueryServiceImpl implements QueryService {
+    @Resource
+    private UserInfoMapper mapper;
+    public UserInfoView queryOne(Query query) {
+        UserInfo userInfo = mapper.findOne(query.getId());
+        if (Objects.isNull(userInfo)) {
+            //这里直接抛自定义异常
+            throw new NotFoundException();
+        }
+        //……后续业务操作
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当 Service 层的 queryOne 方法抛出 NotFoundException 时，Graceful Response 会进行异常捕获，并将 NotFoundException 对应的异常码和异常信息封装到统一的响应对象中，最终接口返回以下 JSON 。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": "1404",
+    "msg": "找不到对象"
+  },
+  "payload": {}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;参数校验&lt;/h2&gt;
+&lt;p&gt;Graceful Response 对 JSR-303 数据校验规范和 Hibernate Validator 进行了增强，Graceful Response 自身不提供参数校验的功能，但是用户使用了 Hibernate Validator 后，Graceful Response 可以通过 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解为参数校验结果提供响应码，并将其统一封装返回。&lt;/p&gt;
+&lt;p&gt;例如以下的 UserInfoQuery 。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;@Data
+public class UserInfoQuery {
+    @NotNull(message = "userName is null !")
+    @Length(min = 6, max = 12)
+    @ValidationStatusCode(code = "520")
+    private String userName;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;UserInfoQuery 对象中定义了 @&lt;a href="https://www.v2ex.com/member/NotNull"&gt;NotNull&lt;/a&gt; 和 @&lt;a href="https://www.v2ex.com/member/Length"&gt;Length&lt;/a&gt; 两个校验规则，在未引入 Graceful Response 的情况下，会直接抛出异常；&lt;/p&gt;
+&lt;p&gt;在引入 Graceful Response 但是没有加入 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解的情况下，会以默认的错误码进行返回；&lt;/p&gt;
+&lt;p&gt;在上面的 UserInfoQuery 中由于使用了 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解，并指定异常码为 520 ，则当 userName 字段任意校验不通过时，都会使用异常码 520 进行返回，如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": "520",
+    "msg": "userName is null !"
+  },
+  "payload": {}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;而对于 Controller 层直接校验方法入参的场景，Graceful Response 也进行了增强，如以下 Cntroller 。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;public class Controller {
+
+  @RequestMapping("/validateMethodParam")
+  @ResponseBody
+  @ValidationStatusCode(code = "1314")
+  public void validateMethodParam(
+          @NotNull(message = "userId 不能为空") Long userId,
+          @NotNull(message = "userName 不能为空") Long userName){
+      //省略业务逻辑
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果该方法入参校验触发了 userId 和 userName 的校验异常，将以错误码 1314 进行返回，如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": "1314",
+    "msg": "userId 不能为空"
+  },
+  "payload": {}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;自定义 Response 格式&lt;/h2&gt;
+&lt;p&gt;Graceful Response 内置了两种风格的响应格式，并通过 graceful-response.response-style 进行配置。&lt;/p&gt;
+&lt;p&gt;graceful-response.response-style=0 ，或者不配置（默认情况），将以以下的格式进行返回：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "status": {
+    "code": 1007,
+    "msg": "有内鬼，终止交易"
+  },
+  "payload": {
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;graceful-response.response-style=1 ，将以以下的格式进行返回：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-json"&gt;{
+  "code": "1404",
+  "msg": "not found",
+  "data": {
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果这两种格式均不满足业务需要，Graceful Response 也支持用户自定义响应体，关于自定义响应体的技术实现，请到 &lt;a href="https://github.com/feiniaojin/graceful-response" rel="nofollow"&gt;https://github.com/feiniaojin/graceful-response&lt;/a&gt; 进行了解。&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 16:15:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994341#reply0</guid></item><item><title>[Steam] steam 秋季特卖开始了</title><link>https://www.v2ex.com/t/994340#reply1</link><description>看到好多心仪的游戏都是史低价，虽然比较新的最多只有 20%折扣。大家有什么闭眼买的可以发出来安利一下，电子 ED 虽说不一定玩但必须得拥有！</description><pubDate>Wed, 22 Nov 2023 15:45:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994340#reply1</guid></item><item><title>[Apple] 突发奇想，如果用 Mac mini+ Linux +外挂硬盘，这样的组合是否能用来当 nas？</title><link>https://www.v2ex.com/t/994339#reply1</link><description>如题，现在 Asahi Linux 对 M1 系列的适配已经很不错了，所以突发奇想如果用这个组合来当 nas 是否有可行性而且能满足日用+随意折腾的需求（不计成本什么的，就图一乐）</description><pubDate>Wed, 22 Nov 2023 15:41:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994339#reply1</guid></item><item><title>[问与答] 有没有人分享下 Ubuntu touch 的体验？</title><link>https://www.v2ex.com/t/994338#reply1</link><description>最近关注到 Ubuntu touch ，感觉很有意思。有没有老哥分享一下体验，作为主力手机使用的话有戏吗？流畅度、续航、生态等怎么样？&lt;br /&gt;&lt;br /&gt;最好也推荐下哪些手机刷 Ubuntu touch 比较好。</description><pubDate>Wed, 22 Nov 2023 15:36:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994338#reply1</guid></item><item><title>[问与答] 大家是怎么看待死亡的呢？</title><link>https://www.v2ex.com/t/994337#reply6</link><description>我小时候一直想着自己可以长生不老。后来长大了一点觉得自己的目标变成了赚好多钱，然后拿这些钱成立个机构专门研究怎么实现长生不老。现在这些看起来都几乎不可能实现了，大家是怎么看待死亡的呢？</description><pubDate>Wed, 22 Nov 2023 15:29:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994337#reply6</guid></item><item><title>[Flask] celery 启动报错</title><link>https://www.v2ex.com/t/994336#reply0</link><description>&lt;p&gt;celery 链接阿里云集群版 redis 报错
+redis.exceptions.ResponseError: 'BRPOP' command keys must in same slot
+求大佬们康康&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 15:27:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994336#reply0</guid></item><item><title>[酷工作] [上海/北京][美团]招高级前端开发工程师</title><link>https://www.v2ex.com/t/994335#reply0</link><description>&lt;h2&gt;关键信息&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;画面通透，颜色艳丽，确实对得起 OLED 屏的特征。&lt;/li&gt;
-&lt;li&gt;HDR 效果不错，我在 Windows 10 和 Windows 11 的系统下面都试过，对于支持 HDR 的游戏，体验简直比我之前的显示器提升了不止一个档次；对于 HDR 视频，可以使用 madVR 来输出，效果差强人意，还是不错的。&lt;/li&gt;
-&lt;li&gt;作为一个电视，有专门的游戏模式，在连接 PC 时不玩竞技类的 FPS 游戏根本察觉不到明显的延迟。&lt;/li&gt;
-&lt;li&gt;通过百度贴吧 &lt;code&gt;LG 电视吧&lt;/code&gt; 的置顶贴，在使用一些软件后可以达到和显示器一样的随着电脑一起开关机。&lt;/li&gt;
+&lt;li&gt;公司：美团&lt;/li&gt;
+&lt;li&gt;base 地：优先上海，北京也可以&lt;/li&gt;
+&lt;li&gt;JD 要求：&lt;a href="https://zhaopin.meituan.com/web/position/detail?jobUnionId=2079293705&amp;amp;highlightType=social" rel="nofollow"&gt;高级前端开发工程师-商家端&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2&gt;补充&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;工作内容：平台型团队，既有业务支撑也有技术项目，业务理解及技术提升两不误&lt;/li&gt;
+&lt;li&gt;欢迎有意向的同学投递简历，会及时回复的，邮件： &lt;a href="mailto:jiangpeng25@meituan.com"&gt;jiangpeng25@meituan.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;有疑问随时留言&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 22 Nov 2023 15:22:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994335#reply0</guid></item><item><title>[OpenAI] 大家的 chatgpt 网页版可以使用吗？</title><link>https://www.v2ex.com/t/994334#reply2</link><description>我今天一直刷新不出来历史记录，提问也不回答。就和前几天挂了一样。请问你们的正常使用吗？</description><pubDate>Wed, 22 Nov 2023 15:17:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994334#reply2</guid></item><item><title>[宽带症候群] OpenWrt 配置 IPv6 wan 接口的正确做法是？</title><link>https://www.v2ex.com/t/994329#reply0</link><description>OpenWrt 新建一个名称为“wanX”的接口，PPPoE 协议，“高级设置 - 获取 IPv6 地址”选自动，这样配置下 wan 拨号成功后会自动生成一个接口名称为“wanX_6”的接口，协议为“虚拟动态接口 (DHCPv6 客户端)”，这种自动生成的 IPv6 wan 接口无法进行编辑设置。&lt;br /&gt;另一种配置方式，新建 PPPoE wanX 接口时“高级设置 - 获取 IPv6 地址”选手动或禁用，然后再手动新建一个 IPv6 wan 接口，协议：DHCPv6 客户端，设备选“接口别名：@wanX”，这种 IPv6 wan 接口可以进行编辑设置。&lt;br /&gt;（上面所说 IPv6 wan 接口的编辑设置，其中一个设置项是网关跃点，但 IPv6 wan 的网关跃点貌似在 OpenWrt 里不起作用？）&lt;br /&gt;两种配置 IPv6 均可正常使用，请问哪种才是正确的配置做法？</description><pubDate>Wed, 22 Nov 2023 14:29:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994329#reply0</guid></item><item><title>[Docker] container 内部如何 ping 通宿主机 ip？</title><link>https://www.v2ex.com/t/994325#reply3</link><description>&lt;p&gt;之前用 docker 弄了一堆服务，端口分别映射到了宿主机的端口上，这样在内网可以用 http 直接访问。&lt;/p&gt;
+&lt;p&gt;然后用 nginx proxy manager ，把这些宿主机的 http 端口转成了 https 再暴露到公网上访问，跑了一年都没问题。&lt;/p&gt;
+&lt;p&gt;昨天也不知道为什么突然 https-http 不通了，查了一下发现是因为在 nginx proxy manger 这个 container 内部无法 ping 通宿主机 IP ，所以每个 upstream 都超时了。&lt;/p&gt;
+&lt;p&gt;我有点茫然了，容器是跑的默认网络模式，前面一年明明可以访问宿主机 ip 的，怎么突然不行了。要怎么才能在宿主机内部 ping 通宿主机 ip ？&lt;/p&gt;
+&lt;p&gt;试过 network_mode: host 居然也不行，不知道啥情况了。我贴一下原来的 docker compose file:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;version: "3.8"
+services:
+  nginx-proxy-manager:
+    image: jc21/nginx-proxy-manager:2.10.4
+    restart: unless-stopped
+    ports:
+      - 9000:80
+      - 443:443 # Public HTTPS Port
+      - 8007:81 # Admin Web Port
+    environment:
+      DISABLE_IPV6: 'true'
+    volumes:
+      - ./data:/data
+      - ./letsencrypt:/etc/letsencrypt&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 22 Nov 2023 14:18:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994325#reply3</guid></item><item><title>[问与答] 有关于 invizible 的设置教程吗？</title><link>https://www.v2ex.com/t/994324#reply0</link><description></description><pubDate>Wed, 22 Nov 2023 14:09:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994324#reply0</guid></item><item><title>[程序员] 《如何搭建自己的 STUN 服务器》</title><link>https://www.v2ex.com/t/994322#reply0</link><description>&lt;a href="https://mp.weixin.qq.com/s/cQgli4y-sLNg918MKW8D0g" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/cQgli4y-sLNg918MKW8D0g&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;STUN 服务器的作用是让 内网的机器能获取到自己在公网上对应的 UDP 通道信息。</description><pubDate>Wed, 22 Nov 2023 14:03:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994322#reply0</guid></item><item><title>[物联网] 求一款支持 Google Home 的温湿度传感器</title><link>https://www.v2ex.com/t/994321#reply7</link><description>求一款支持 Google Home 的温湿度传感器，可以 WiFi ，也可以蓝牙连接（不要网关直连 Google Nest ）。设备是 Google Nest Mini 。</description><pubDate>Wed, 22 Nov 2023 13:48:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994321#reply7</guid></item><item><title>[酷工作] [深圳] 字节跳动飞书在线表格 &amp; 幻灯片招聘，海量前端 HC</title><link>https://www.v2ex.com/t/994320#reply0</link><description>&lt;h2&gt;介绍&lt;/h2&gt;
+&lt;p&gt;作为一名前端开发者，你是否对新技术充满热情，并且乐于使用最新的工具和框架来打造出色的用户体验？如果是，那么飞书在线表格&amp;amp;幻灯片团队正在寻找你！&lt;/p&gt;
+&lt;p&gt;我们是一个充满活力的团队，致力于打造一个功能强大、用户友好的在线表格和幻灯片平台。我们的产品已经在市场上得到了广泛的认可，并且正在不断发展壮大。&lt;/p&gt;
+&lt;h2&gt;职位要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;工作经验一年起，学历本科起&lt;/li&gt;
+&lt;li&gt;熟悉 HTML 、CSS 和 JavaScript 等前端开发技术&lt;/li&gt;
+&lt;li&gt;具备良好的前端架构能力，能独立完成前端模块的设计和开发&lt;/li&gt;
+&lt;li&gt;熟悉至少一种前端框架（如 React 、Vue 等）&lt;/li&gt;
+&lt;li&gt;具备良好的沟通能力和团队合作精神&lt;/li&gt;
+&lt;li&gt;有开发过工具产品的经验优先，大厂背景优先&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;福利待遇&lt;/h2&gt;
+&lt;p&gt;优厚薪资，六险一金，弹性工作，免费三餐，租房补贴，打车补贴，带薪休假，休闲下午茶+不间断咖啡零食供应，扁平管理，免费健身房，专业大牛多，晋升空间大，团队氛围好。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;然后就是&lt;strong&gt;缺点&lt;/strong&gt;，或者说对于我来说不完美的地方吧：&lt;/p&gt;
+&lt;p&gt;如果你对这个机会感兴趣，以下是内推链接，打开直接发送简历：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;作为桌面显示器设备还是太大了，尽管我买的是 42 寸大小的，放在 120 cm * 60 cm 大小的桌子上还是太大了，而且是我使用了显示器悬浮臂的情况下，如果是使用自带的底座的话，这么小的桌子根本放不下。&lt;/li&gt;
-&lt;li&gt;质感或者说用料不行。可能整机的重点就只在这块屏上了，所以无论是机身还是底座都是塑料的，这点不太行。毕竟也是 7K 价位的东西了。&lt;/li&gt;
-&lt;li&gt;现在的 OLED 会有明显的 &lt;code&gt;ABL(Auto Brightness Limiter)&lt;/code&gt; 效应，如果屏幕内容中有大量的浅色内容，比如说 V 站，此时整个屏幕的亮度就会自动降下去。这会导致如果你在切换内容浅色占比不同的画面时会感知到明显的亮度变化。我自己感觉看久了眼睛有点累。&lt;/li&gt;
-&lt;li&gt;屏幕在全白时，两侧的白平衡会比中间的更冷，我查了下好像是 OLED 通病，本来还准备去换货的。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://jobs.bytedance.com/referral/mobile/position/detail/?token=MjsxNjk4NzQ3MTIwNTQzOzY3MzA3NzcxNjAyOTYzMDIwOTQ7NzE2NDcwNzc4MDA3NDI0NDM2MDsx" rel="nofollow"&gt;前端开发工程师-飞书文档-演示文档方向 - ByteDance&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://jobs.bytedance.com/referral/position/detail/?token=MjsxNjk4NzQ3MTQ2NTkxOzY3MzA3NzcxNjAyOTYzMDIwOTQ7NzI5NjA2MjQ2MTY4NTQzNDY3NDsx" rel="nofollow"&gt;前端开发工程师-飞书文档-云表格 - ByteDance&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;最后补充点给想买同款的人的建议吧：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;尽量使用壁挂模式，或者和我一样使用显示器的悬浮臂（前提是要买一个 300 * 200 转 10 * 10 的转换架，某宝和拼 xx 有卖，大约 80 RMB ，还有悬浮臂的支持重量得大于 10 KG ）。&lt;/li&gt;
-&lt;li&gt;记得买 HDMI 2.1 的线，还没见过电视不附带线的，真是头一次。&lt;/li&gt;
-&lt;li&gt;不建议当成唯一 PC 显示器使用，还是得搭一个常规的显示器。作为一个不喜欢用暗色主题的人，全屏降亮度这点太难受了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;差不多这就是我使用了三小时左右的体验，总之我觉得对于玩游戏、看视频来说，还是值得；要是文字处理、网页浏览比较多的还是不太建议这款，毕竟这是电视而不是显示器。&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 17:04:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993993#reply1</guid></item><item><title>[问与答] 想了解教员</title><link>https://www.v2ex.com/t/993989#reply11</link><description>从小到大对历史对政治没什么兴趣，最近看让子弹飞影评，非常想了解教员，但是无从下手，该从哪开始看起，有什么书，什么电影可以了解到这位传奇人物的故事？</description><pubDate>Tue, 21 Nov 2023 16:08:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993989#reply11</guid></item><item><title>[Python] 有没有好用的抖音爬虫推荐一下</title><link>https://www.v2ex.com/t/993988#reply0</link><description>&lt;p&gt;能按用户 id 爬视频就行了。
-不会 python ，就会改改参数。
-github 上高赞的很多好几年前的了，用不了&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 15:45:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993988#reply0</guid></item><item><title>[问与答] GitHub Copilot 黑五会有优惠吗？</title><link>https://www.v2ex.com/t/993987#reply3</link><description>&lt;p&gt;一个月 10 美元，公司没办法用，平时偶尔用一下（一个月最多用十几个小时），感觉还是有一点点贵。&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 15:41:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993987#reply3</guid></item><item><title>[问与答] 有 v 友在这个日本药局买过帝人的非布司他吗？</title><link>https://www.v2ex.com/t/993986#reply2</link><description>&lt;a href="https://i.imgur.com/N5yjW1h.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/N5yjW1h.png" /&gt;&lt;/a&gt;&lt;br /&gt;意外搜到这个网站，但是搜不到对这个网站的评价，貌似处方药在日本管制比较严格？有在霓虹的 v 友或者在这个网站买过药的 v 友可以反馈下吗？感谢</description><pubDate>Tue, 21 Nov 2023 15:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993986#reply2</guid></item><item><title>[问与答] 如何在这么多的机场里挑选一个适合自己的？</title><link>https://www.v2ex.com/t/993985#reply19</link><description>&lt;p&gt;每次看网上的测评博客或者看站内机场推荐的帖子都能看到很多机场，看描述都差不多，感觉选择困难症要犯了，不知道怎么选择一个更适合自己的，各位在选择机场的时候有什么经验建议吗？（除了选贵的）&lt;/p&gt;
-&lt;p&gt;比如我是南方电信，我应该选择什么样的机场可以网页秒开，什么样的机场可以更高速的下载或者播放视频？
-（我发现 Clash/小火箭之类的工具的测速好像不是很有参考性）&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 15:13:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993985#reply19</guid></item><item><title>[iOS] 求 iOS 支持书源的软件</title><link>https://www.v2ex.com/t/993984#reply7</link><description>目前在用的是书香之家，有个很蛋疼的地方是在没有网络的情况下完全无法打开，飞机上想看个书都不行。（顺带吐槽下现在绝大部分国产手机 app 都需要联网才能打开，单次买断的单机游戏你还需要我联网验证个毛啊？）&lt;br /&gt;&lt;br /&gt;这类软件好像都属于是游击队性质…很难在 app store 上长久存在。 导致我每年换手机的时候最头疼的就是这个问题。 如果有在外区 app store 比较长寿的，请推荐一下。&lt;br /&gt;&lt;br /&gt;提前上个 buff：我支持正版小说，起点上有的我都直接起点上看了。 但现在资源太分散了，我需要书源的整合能力。</description><pubDate>Tue, 21 Nov 2023 15:12:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993984#reply7</guid></item><item><title>[程序员] 业务系统日志存储选型讨论</title><link>https://www.v2ex.com/t/993983#reply9</link><description>&lt;p&gt;本人学生，最近项目在讨论日志存储的选型，后端是 springboot ，日志格式为 JSON ，组内有人提议使用 MYSQL 存储日志（因为系统体量不是特别大），我选的是 graylog （存储用的是 elasticsearch ，比 ELK 更轻量）。我觉得无论日志量大小，elasticsearch 的检索和日志处理都要比单纯用 MYSQL 强很多，用 MYSQL varchar 存 JSON ，查询出来还要解析，效率也太低了。并且处理日志本来就是 elasticsearch 的强项。&lt;/p&gt;
-&lt;p&gt;想请教各位前辈，公司开发在日志这块一般是怎么处理的，感谢各位前辈指点。&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 15:07:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993983#reply9</guid></item><item><title>[奇思妙想] 一种基于社交网络的电商新模式——欢迎拍砖</title><link>https://www.v2ex.com/t/993982#reply5</link><description>&lt;h3&gt;背景&lt;/h3&gt;
-&lt;p&gt;国内电商从 B2C 、C2C 、团购、拼单发展到直播,并没有完全解决人货匹配的问题,普通消费者和物美价廉的商品之间还是不能高效地完成双向筛选, 具体表现在：&lt;/p&gt;
-&lt;p&gt;1 、&lt;strong&gt;高性价比商品未能充分触达消费者，挑选成本较高&lt;/strong&gt;。一方面流量入口被资本垄断，高性价比的商品未必能够通过自然搜索、自然推荐被访问到。另一方面部分厂商或者商家的商业化运营能力不足，在海量商品的局面下产生“酒香也怕巷子深”的现象。&lt;/p&gt;
-&lt;p&gt;2 、&lt;strong&gt;消费者的评价不能有效对商品进优胜劣汰，假货、仿伪货、劣质货无法杜绝&lt;/strong&gt;。一方面评价的真实度难以有效判断,无法有效解决水军和恶意差评，从而稀释了真实评价的价值。另一方面评价都是重点针对到货后或者上手后的体验，缺少商品购买后全生命周期的使用体验数据（如使用半年后、一年后），从而无法全面衡量商品的品质。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;未来的电商应该是建立在社交网络之上&lt;/strong&gt;，让你所买到的产品有温度、有性格、有你信任并喜欢的人背书。电商的本质在于完成人货匹配，社交天然就是这种纽带: 我信任你，所以我信任你推荐的货；你选的货物美价廉，那我就跟着你买减少挑选成本。&lt;/p&gt;
-&lt;p&gt;直播带货已经反应出社交与电商的融合的趋势，但显然并不是一个很好的形态，个人觉得我们应该去探索更好的模式，于是经过一段时间的思考，便有了下面的思路&lt;/p&gt;
-&lt;h3&gt;思路&lt;/h3&gt;
-&lt;p&gt;面向高性价比商品，围绕消费者&lt;strong&gt;社交网络&lt;/strong&gt;和&lt;strong&gt;真实口碑&lt;/strong&gt;构建一个全新的电商平台，实现“选的省心，用着放心，评得用心”的良性购物生态:&lt;/p&gt;
-&lt;p&gt;1 、&lt;strong&gt;通过社交网络增加用户真实度&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;平台用户以邀请制方式加入，进入后可以互相关注，并且加入不同的社群；&lt;/li&gt;
-&lt;li&gt;用户搜索到的商品中会综合推荐其关注用户、所在社群的购买习惯；&lt;/li&gt;
-&lt;li&gt;用户的购买记录可以选择性地公开，被其他用户看到；&lt;/li&gt;
-&lt;li&gt;用户的真实度会决定其对商品评价的可信度，用户真实度越高，其评价可信度越高。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;2 、&lt;strong&gt;通过购物的全生命周期评价来展现口碑&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;用户有义务在商品购买后的不同生命周期对商品进行评价；&lt;/li&gt;
-&lt;li&gt;用户评价后可以获得一定的回报作为激励；&lt;/li&gt;
-&lt;li&gt;商品的的口碑由用户评价和社交网络权重综合量化。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;3 、&lt;strong&gt;商品上下架和推荐由用户口碑驱动&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通过用户自己推荐为主、平台挑选为辅的方式进行商品的上架，平台会对商家公司资质、品牌授权资质、商品合格情况、商品认证证书等内容进行把关审核；&lt;/li&gt;
-&lt;li&gt;商品的口碑决定了推荐的顺序，对于口碑较差的商品，将会降低推荐权重，如果口碑差到一定程度时，会触发商品下架。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;这个思路是否有探索空间?欢迎 V 站的朋友们拍砖&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 15:05:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993982#reply5</guid></item><item><title>[V2EX] 从来没想过在 V2EX 发帖的内容还能被抄袭后再发一贴</title><link>https://www.v2ex.com/t/993981#reply4</link><description>这是我发的   &lt;a href="https://www.v2ex.com/t/947851" rel="nofollow noopener" target="_blank"&gt;/t/947851&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这是刚才刷到的 &lt;a href="https://www.v2ex.com/t/991505" rel="nofollow noopener" target="_blank"&gt;/t/991505&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;🤣🤣🤣🤣</description><pubDate>Tue, 21 Nov 2023 14:57:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993981#reply4</guid></item><item><title>[问与答] 各位看官评价一下</title><link>https://www.v2ex.com/t/993980#reply2</link><description>&lt;p&gt;首先这是前文卖橙子	&lt;a href="https://www.v2ex.com/t/990913" rel="nofollow"&gt;https://www.v2ex.com/t/990913&lt;/a&gt;
-简单说明就是，有个客官，在收到橙子剩下两个的时候，突然说，橙子糖分不够，水分不够为理由，想要协商退款一半。&lt;/p&gt;
-&lt;h3&gt;我肯定是语言过激了的，对不起，对买家进行道德攻击&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;一开始，站在卖家的角度来说，觉得很无语，可能我看到最后剩下 1-2 个（ 1.5 个？），觉得很无语，很生气，吃完后觉得不好吃就退一半的钱，刚开始聊天的时候，我就说不是非常甜的季节，可以等小雪。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;分享出来也只是自己第一次开店的经历。最后因为我自己嘴贱，反倒是亏了更多了，做生意顾客要多多为顾客着想才能不亏那么多。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="1.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/886ce8d4fc539d6bfc7d267ce99d4112/1.png" /&gt;
-&lt;img alt="2.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/85e44bae409078887bb7fea4f066f974/2.png" /&gt;
-&lt;img alt="3.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/e21bedc5f35ed912ee60e2f5133697a4/3.png" /&gt;
-&lt;img alt="4.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/4141358391c8e966dd1480ce0a9dfbac/4.png" /&gt;
-&lt;img alt="5.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/d6e721a6e10a27e0cc7a0c7ddaec197d/5.png" /&gt;
-&lt;img alt="6.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/a7db5a8f83d0fae58849e096d376307a/6.png" /&gt;
-&lt;img alt="7.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/df9a2db76aa9dafd4b61f98a6c81008f/7.png" /&gt;
-&lt;img alt="8.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/4867f619c20f8a46f10b681d7a25624a/8.png" /&gt;
-&lt;img alt="9.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/f31f83bbee9621b2e63f36227f30fea1/9.png" /&gt;
-&lt;img alt="10.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/13c2b5d6ac75b6da0975b252a667ebde/10.png" /&gt;
-&lt;img alt="11.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/6d57d424752fecbda8e7f4b4c0c83165/11.png" /&gt;
-&lt;img alt="12.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/6d884878165b751aed716d317f13a98d/12.png" /&gt;
-&lt;img alt="13.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/ef92c22a4a8ac2462ad743b41541e357/13.png" /&gt;
-&lt;img alt="14.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/26b2fcf335312ab9597db5bf2e4ccee8/14.png" /&gt;
-&lt;img alt="15.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/6a0e292a44921e87aa925326f1223fb7/15.png" /&gt;
-&lt;img alt="16.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/7c691fe099edca73bdbfaf5e19c8dc87/16.png" /&gt;
-&lt;img alt="17.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/de950a40b590711a0a4450d0fdd98a0d/17.png" /&gt;
-&lt;img alt="18.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/ebb179eceef3b7a02762976b95449fbe/18.png" /&gt;
-&lt;img alt="19.png" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/dc6fe705fd9d30b16e59c68bfa3b4c0e/19.png" /&gt;
-&lt;img alt="20.jpg" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/14/48a418d42415a6038825986692d298a5/20.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 14:43:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993980#reply2</guid></item><item><title>[问与答] 为什么淘宝和闲鱼的分享链接中会包含 CZ3457 这样的疑似航班号呢？</title><link>https://www.v2ex.com/t/993979#reply11</link><description>&lt;p&gt;今天刚注意到闲鱼的分享链接中有“CZ3457”的后缀，然后又发现淘宝的也有（同是阿里旗下的嘛）。是什么原因让它们这么做呢？目前搜遍全网只找到的三个地方提到这个：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://tieba.baidu.com/p/8452042110" rel="nofollow"&gt;https://tieba.baidu.com/p/8452042110&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.v2ex.com/t/935425#r_13001740" rel="nofollow"&gt;https://www.v2ex.com/t/935425#r_13001740&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.zhihu.com/question/566666749" rel="nofollow"&gt;https://www.zhihu.com/question/566666749&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;然而依然没有任何有用的信息。BTW 谷歌竟搜不到贴吧内容，看来是禁爬了。而且那个知乎我还是在谷歌搜到的，原模原样复制它的标题再在知乎上搜索，竟搜不到那个问题。奇怪。&lt;/p&gt;
-&lt;p&gt;谷歌&lt;code&gt;site:&lt;a href="http://v2ex.com/t" rel="nofollow"&gt;v2ex.com/t&lt;/a&gt; cz3457&lt;/code&gt;，出来的就全是收各种东西出各种东西的😂&lt;/p&gt;
-&lt;p&gt;我目前觉得目的只是为了把分享链接伪装成“像是一个正常的”消息。还是说这些都是随机的，只是和航班号巧合了？那加这些多余后缀也没意义啊。某些特殊标记？&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 14:36:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993979#reply11</guid></item><item><title>[Apple] 如何平衡换机成本和使用体验</title><link>https://www.v2ex.com/t/993978#reply7</link><description>&lt;p&gt;一直以来都报着手机还能用就继续用的想法，最近手头的 iphone x 已经用到出现 app 闪退的程度了，电池也一天两三充，很烦，准备换手机，去查了一下价格只能卖 500 。&lt;/p&gt;
-&lt;p&gt;然后就想五年前买来将近 6000 ，岂不是一年贬值一千多。&lt;/p&gt;
-&lt;p&gt;如果我换个策略，每个手机只用一年就换，可能贬值也只有一千多，但是这样每年都有很好的用机体验，成本也和用不换手机差不多。&lt;/p&gt;
-&lt;p&gt;这样问题就来了，是什么时候换手机（新手机发布多久后）和用多少时间换手机 能最好的平衡成本和使用体验呢？
-假设需求是：&lt;/p&gt;
-&lt;p&gt;1 电池至少是正常能用一天
-2 偶尔需要打游戏，性能够用&lt;/p&gt;
-&lt;p&gt;极端情况：&lt;/p&gt;
-&lt;p&gt;1 抢首发，用了一年就换，肯定亏很多，换机成本高&lt;/p&gt;
-&lt;p&gt;2 一直用二手旧手机，换机成本低，但是使用体验不好，性能（比如电池）不是最好状态，可能外观也用着不舒服&lt;/p&gt;
-&lt;p&gt;3 买 ac+ 用了两年换新机 （心里有点过不去）&lt;/p&gt;</description><pubDate>Tue, 21 Nov 2023 14:33:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993978#reply7</guid></item><item><title>[Android] 关于安卓 1Password 无法显示内容的后续</title><link>https://www.v2ex.com/t/993977#reply0</link><description>&lt;p&gt;关于安卓的 1Password 有些时候无法显示内容，我联系了官方客服，得到的回复的安卓客户端存在 bug ，正常情况下我们打开记录时都是取的本地缓存数据，但是如果 1Password 客户端探测到网络不可达，会忽略本地缓存数据，而强制从服务端拉取最新加密数据，估计要等他们的技术团队解决这个问题了。官方完成回复如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You are correct that your 1Password data would be stored encrypted locally and should be available offline. This issue that our development team are currently investigating seems to be when the 1Password for Android has limited connectivity or when connecting from networks in China without using a VPN, rather than displaying the item details from local storage the app persists in trying to receive the latest item details from the cloud/online, leading to a blank screen being displayed instead of the item details from the locally stored data.&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Tue, 21 Nov 2023 14:32:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993977#reply0</guid></item><item><title>[问与答] GoogleAuthenticator 里面保存的 2FA 项目如何导入到 Bitwarden 里面</title><link>https://www.v2ex.com/t/993974#reply3</link><description>GoogleAuthenticator 里面的转移数据好像只能转移到 Google Authenticator 里面。最近觉得 bitwarden 的自动填充挺好用的，想整合一下，有没有办法整合到一起？</description><pubDate>Tue, 21 Nov 2023 14:15:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/993974#reply3</guid></item></channel></rss>
+&lt;p&gt;详细介绍： &lt;a href="https://bytedance.larkoffice.com/docx/Ddx6dJIbRoo9lyxTm3fctwrAnKb" rel="nofollow"&gt;https://bytedance.larkoffice.com/docx/Ddx6dJIbRoo9lyxTm3fctwrAnKb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;也可以邮箱联系 ruiming.zhuang#&lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://us1.myximage.com/2023/11/07/5d2f717ae5a140289ce9c942b4dcc03e.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://us1.myximage.com/2023/11/07/0ee54bc10a15edbd0b3d718557fdde65.png" /&gt;&lt;/p&gt;
+&lt;p&gt;内推成功入职发大红包，大家如果有合适的人选可以帮忙推荐下。&lt;/p&gt;
+&lt;p&gt;业务是重前端场景，涉及编辑器、渲染引擎、架构、性能、AI 等领域，非常有挑战性。&lt;/p&gt;
+&lt;p&gt;部门有 10+ HC ，欢迎大家投递。&lt;/p&gt;
+&lt;p&gt;我所在的业务是飞书演示文档，有想了解的也可以直接问或邮箱联系我～&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:44:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994320#reply0</guid></item><item><title>[Python] 自己一个写的使用 selenium 循环下拉爬去推特用户所有静态资源工具</title><link>https://www.v2ex.com/t/994318#reply1</link><description>&lt;p&gt;&lt;a href="https://github.com/kaixinol/twitter_user_tweet_crawler" rel="nofollow"&gt;https://github.com/kaixinol/twitter_user_tweet_crawler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主要的亮点就是注入了改造的 javascript 代码，使其可以解析视频的原始链接&lt;/p&gt;
+&lt;p&gt;求点 star&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:35:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994318#reply1</guid></item><item><title>[OpenAI] ChatGPT 的 prompt 好难写。</title><link>https://www.v2ex.com/t/994317#reply6</link><description>&lt;p&gt;RT.&lt;/p&gt;
+&lt;p&gt;最近在玩 assistant api, 让 ai 按照指定 json 格式返回结果，但 ai 不能总按照预期返回。&lt;br /&gt;
+经常会在返回的 json 数据前后加上一些描述性的文字。&lt;br /&gt;
+给它的指令也不总是按照预期执行。&lt;/p&gt;
+&lt;p&gt;如果是把 ai 的结果直接给用户看还好，如果没有按照预期执行用户可以再次指定任务，&lt;br /&gt;
+但是如果是把返回的结果和现有系统集成，会因为 ai 返回的不确定性导致集成难度上升。&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:32:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994317#reply6</guid></item><item><title>[程序员] 悠长 求解决 iPhone Safari 浏览器问题</title><link>https://www.v2ex.com/t/994315#reply0</link><description>&lt;p&gt;折腾一个星期了不知道为什么别的网站都没事儿就这个百度会这样。缓存什么的都清理了还是不行，强迫症很难受。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/FH45w3mA.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/U47znb7U.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:17:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994315#reply0</guid></item><item><title>[云计算] 有没有大佬会把这个脚本改成 python3.9 + ansible2.9.27 的，求 i 求了</title><link>https://www.v2ex.com/t/994314#reply3</link><description>#!/usr/bin/env python&lt;br /&gt;# coding=utf-8&lt;br /&gt;import os&lt;br /&gt;import sys&lt;br /&gt;libpath = os.path.join(os.path.dirname(__file__),'lib')&lt;br /&gt;sys.path.insert(0,libpath)&lt;br /&gt;from ansible import playbook, callbacks&lt;br /&gt;import logging&lt;br /&gt;import pprint&lt;br /&gt;import time&lt;br /&gt;DT=time.strftime('%Y%m%d')&lt;br /&gt;TM=time.strftime('%H')&lt;br /&gt;#import xlsxwriter&lt;br /&gt;#workbook = xlsxwriter.Workbook('array_formula.xlsx')&lt;br /&gt;def myprint(color,mes):&lt;br /&gt;    """&lt;br /&gt;    用于打印颜色&lt;br /&gt;    :param color: 颜色&lt;br /&gt;    :param mes: 打印内容&lt;br /&gt;    :return: 没有返回&lt;br /&gt;    """&lt;br /&gt;    """&lt;br /&gt;    30:    黑色&lt;br /&gt;    31:    红色&lt;br /&gt;    32:    绿色&lt;br /&gt;    33:    黄色&lt;br /&gt;    34:    蓝色&lt;br /&gt;    35:    紫色&lt;br /&gt;    36:    深绿色&lt;br /&gt;    37:    白色&lt;br /&gt;&lt;br /&gt;    """&lt;br /&gt;&lt;br /&gt;    info = {'red':31, 'green': 32, 'yellow':33, 'blue':34,'dark_green':36,'default':37}&lt;br /&gt;    if color in info:&lt;br /&gt;        fore = info[color]&lt;br /&gt;    else:&lt;br /&gt;        fore = 37&lt;br /&gt;    color = "\x1B[%d;%dm" % (1,fore)&lt;br /&gt;    print("%s%s\x1B[0m" % (color,mes))&lt;br /&gt;&lt;br /&gt;class LoggingCallbacks(callbacks.PlaybookCallbacks):&lt;br /&gt;    def log(self, level, msg, *args, **kwargs):&lt;br /&gt;        logging.log(level, msg, *args, **kwargs)&lt;br /&gt;        print msg&lt;br /&gt;    def on_task_start(self, name, is_conditional):&lt;br /&gt;        #self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, 'task: {0}'.format(name))&lt;br /&gt;        #super(LoggingCallbacks, self).on_task_start(name, is_conditional)&lt;br /&gt;        #la.append('name')&lt;br /&gt;        resall=u'TASK:'+name+'*'*40+'\n'&lt;br /&gt;        myprint("default",resall) &lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'a') as f:&lt;br /&gt;          f.write(resall) &lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(resall) &lt;br /&gt;class LoggingRunnerCallbacks(callbacks.PlaybookRunnerCallbacks):&lt;br /&gt;    def log(self, level, msg, *args, **kwargs):&lt;br /&gt;        logging.log(level, msg, *args, **kwargs)&lt;br /&gt;&lt;br /&gt;    def _on_any(self, level, label, host, orig_result):&lt;br /&gt;        result = orig_result.copy()&lt;br /&gt;        result.pop('invocation', None)&lt;br /&gt;        result.pop('verbose_always', True)&lt;br /&gt;        item = result.pop('item', None)&lt;br /&gt;        if not result:&lt;br /&gt;            msg = ''&lt;br /&gt;        elif len(result) == 1:&lt;br /&gt;            msg = ' | {0}'.format(result.values().pop())&lt;br /&gt;        else:&lt;br /&gt;            msg = '\n' + pprint.pformat(result)&lt;br /&gt;        if item:&lt;br /&gt;            self.log(level, '{0} (item={1}): {2}{3}'.format(host, item, label, msg))&lt;br /&gt;        else:&lt;br /&gt;            self.log(level, '{0}: {1}{2}'.format(host, label, msg))&lt;br /&gt;&lt;br /&gt;    def on_failed(self, host, res, ignore_errors=False):&lt;br /&gt;        if ignore_errors:&lt;br /&gt;            level = &lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;&lt;br /&gt;            label = 'FAILED (ignored)'&lt;br /&gt;        else:&lt;br /&gt;            level = logging.ERROR&lt;br /&gt;            label = 'FAILED'&lt;br /&gt;        self._on_any(level, label, host, res)&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_failed(host, res, ignore_errors)&lt;br /&gt;        resall=host+ u'\nFAILED:\n{0}'+format(res['stderr'])&lt;br /&gt;        myprint("red",resall)&lt;br /&gt;        myprint("red",res['stdout']+'\n'+'\n')&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;           f.write(resall)  &lt;br /&gt;           f.write(res['stdout']+'\n'+'\n') &lt;br /&gt;    def on_ok(self, host, res):&lt;br /&gt;        #self._on_any(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, 'SUCCESS', host, res)&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_ok(host, res)&lt;br /&gt;        #print host,res&lt;br /&gt;        resall=host+ u'\n'+format(res['stdout']) &lt;br /&gt;        myprint("green",resall)&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'a') as f:&lt;br /&gt;          f.write(resall+'\n')  &lt;br /&gt;    def on_error(self, host, msg):&lt;br /&gt;        self.log(logging.ERROR, '{0}: ERROR | {1}'.format(host, msg))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_error(host, msg)&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(str(host)+'\n')  &lt;br /&gt;          f.write(str(msg)+'\n') &lt;br /&gt;    def on_skipped(self, host, item=None):&lt;br /&gt;        if item:&lt;br /&gt;            self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, '{0} (item={1}): SKIPPED'.format(host, item))&lt;br /&gt;        else:&lt;br /&gt;            self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, '{0}: SKIPPED'.format(host))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_skipped(host, item)&lt;br /&gt;    def on_unreachable(self, host, res):&lt;br /&gt;        #self._on_any(logging.ERROR, 'UNREACHABLE', host, dict(unreachable=res))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_unreachable(host, res)&lt;br /&gt;        resall=host+ u'\nERROR:CONNECT FAILD:\n{0}\n'+format(res) &lt;br /&gt;        myprint("red",resall+'\n')&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(resall+'\n')  &lt;br /&gt;    def on_no_hosts(self):&lt;br /&gt;        self.log(logging.ERROR, 'No hosts matched')&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_no_hosts()&lt;br /&gt;def run_playbook(name):&lt;br /&gt;    if not os.path.exists('/root/ans/log/'+DT):&lt;br /&gt;        os.mkdir('/root/ans/log/'+DT)&lt;br /&gt;    with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'w') as f:&lt;br /&gt;    	  f.write('Today is '+DT+'  Let the check begin'+'\n\n')&lt;br /&gt;    with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'w') as f:&lt;br /&gt;        f.write('Today is '+DT+'  Let the check begin'+'\n\n')  &lt;br /&gt;    stats = callbacks.AggregateStats()&lt;br /&gt;    playbook_cb = LoggingCallbacks(verbose=3)&lt;br /&gt;    runner_cb = LoggingRunnerCallbacks(stats, verbose=3)&lt;br /&gt;&lt;br /&gt;    pb = playbook.PlayBook(&lt;br /&gt;        playbook=name,&lt;br /&gt;        stats=stats,&lt;br /&gt;        callbacks=playbook_cb,&lt;br /&gt;        runner_callbacks=runner_cb,&lt;br /&gt;        )&lt;br /&gt;    &lt;a href="http://pb.run" rel="nofollow noopener" target="_blank"&gt;pb.run&lt;/a&gt;()&lt;br /&gt;&lt;br /&gt;if __name__ == "__main__":&lt;br /&gt;  run_playbook(sys.argv[1])</description><pubDate>Wed, 22 Nov 2023 13:12:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994314#reply3</guid></item><item><title>[健康] 种个牙要 17k,肉疼, 想拖延几年再种,不知道为此损失的牙槽骨会增加多少骨粉钱?</title><link>https://www.v2ex.com/t/994313#reply6</link><description>&lt;p&gt;已经矫正了,带着金属牙套来保持临近牙齿不会再歪.&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994313#reply6</guid></item><item><title>[程序员] 为啥别人都是年薪几十万</title><link>https://www.v2ex.com/t/994312#reply7</link><description>java 程序员在一个软件公司工作三年了工资极低年薪十多万，在北京。&lt;br /&gt;&lt;br /&gt;感觉在同龄中工资不算低，但是也不高。但是看网络上都是几十上百万的，求教导。如何赚钱。</description><pubDate>Wed, 22 Nov 2023 13:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994312#reply7</guid></item></channel></rss>
