@@ -1,47 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 23 Nov 2023 12:59:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 有没有声明 typescript 类型的好办法以及前端样式的健壮性问题</title><link>https://www.v2ex.com/t/994647#reply0</link><description>&lt;p&gt;我在学习 react ，看到给一个 div 添加 onMouseDown 事件时，&lt;br /&gt;
-这个事件本身的声明是：&lt;code&gt;onMouseDown?: MouseEventHandler&amp;lt;T&amp;gt; | undefined;&lt;/code&gt;
-写它的实现类时为&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-typescript"&gt;  const handleMouseDown = (event:React.MouseEvent&amp;lt;HTMLDivElement,MouseEvent&amp;gt;) =&amp;gt; {
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 23 Nov 2023 16:30:53 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenWrt] OpenWrt 的透明网关应该怎么配置？</title><link>https://www.v2ex.com/t/994678#reply0</link><description>&lt;p&gt;最近更新网络设备，从 RouterOS 换到了 OpenWrt ，之前使用透明网关的方式扶墙，使用 Ospf 通告了 fake-ip 和一些 tg 的 ip ，为了方便想复用之前的方式，所以在 OpenWrt 上复用这个方式。
+在 OpenWrt 上安装 bird2 ，配置如下:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;log syslog all;
 
-  }
+router id 172.16.1.1;
+
+protocol device {
+    scan time 60;
+}
+
+protocol kernel {
+    ipv4 {
+        export all;
+    };
+}
+
+protocol ospf v2 {
+    ipv4 {
+        import where net !~ 172.16.1.0/24;
+    };
+
+    area 0 {
+        interface "br-lan" {};
+    };
+}
+
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;event 的类型为 MouseEvent ，这个是可以看代码看出来的，但是里面的泛型&lt;code&gt;HTMLDivElement&lt;/code&gt;，我这上哪猜去，，，  &lt;/p&gt;
+&lt;p&gt;OpenWrt 路由如下&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;default via xxx.xxx.xxx.xxx dev pppoe-wan proto static
+91.105.192.0/23 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.4.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.8.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.12.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.16.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.20.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+91.108.56.0/22 via 172.16.1.5 dev br-lan proto bird metric 32
+xxx.xxx.xxx.xxx dev pppoe-wan proto kernel scope link src xxx.xxx.xxx.xxx
+149.154.160.0/20 via 172.16.1.5 dev br-lan proto bird metric 32
+172.16.1.0/24 dev br-lan proto kernel scope link src 172.16.1.1
+185.76.151.0/24 via 172.16.1.5 dev br-lan proto bird metric 32
+192.168.0.0/24 dev VLAN_666 proto static scope link metric 100
+192.168.10.0/24 dev VLAN_666 proto static scope link metric 99
+198.18.0.0/16 via 172.16.1.5 dev br-lan proto bird metric 32
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;但为什么 LAN 上设备还是无法访问外网呢？各位大佬帮忙看下？或者有什么更简单的配置透明网关的方式。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 16:30:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994678#reply0</guid></item><item><title>[问与答] 为什么 Bing AI 画图，一直要画方形的？</title><link>https://www.v2ex.com/t/994677#reply0</link><description>&lt;p&gt;说好几次画横幅，不行&lt;/p&gt;
+&lt;p&gt;再指定说分辨率 1400*300 的，还是不行&lt;/p&gt;
+&lt;p&gt;非要画方形图 1024*1024 的&lt;/p&gt;
+&lt;p&gt;是有什么毛病？&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 16:21:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994677#reply0</guid></item><item><title>[问与答] 2023 年你买到过哪些物美价廉值得分享的产品?</title><link>https://www.v2ex.com/t/994676#reply0</link><description>欢迎上链接</description><pubDate>Thu, 23 Nov 2023 16:14:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994676#reply0</guid></item><item><title>[iPhone] 有必要再单独注册一个 appleid 隔离么，为什么</title><link>https://www.v2ex.com/t/994675#reply0</link><description>处于安全和隐私考虑，打算再整部苹果装海外 APP ，是否有必要再注册一个 appleid ，与此前的 appleid 隔离 ，之前的 appleid 购买了很多海外 app ，不想再买一份。&lt;br /&gt;&lt;br /&gt;appleid 隔离与不隔离，在安全与隐私上有什么差别？</description><pubDate>Thu, 23 Nov 2023 16:00:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994675#reply0</guid></item><item><title>[酷工作] 深圳 B 轮出海产品：技术总监（ Java ）， 5 年以上工作经验，海外云服务架构背景，带过小团队， 60-80W</title><link>https://www.v2ex.com/t/994673#reply0</link><description>深圳 B 轮出海产品：技术总监，7 年左右工作经验，带过小团队，60-80W&lt;br /&gt;&lt;br /&gt;学历：211/985 计算机&lt;br /&gt;做过出海产品，&lt;br /&gt;带工程团队（前端+后端）&lt;br /&gt;做过出海项目（软件部署 AWS 上，2000qps ）&lt;br /&gt;创业公司背景&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1 、5 年及以上工作经验，本科及以上学历，计算机、通信等相关专业；&lt;br /&gt;2 、有从 0 到 1 搭建过超 10 万用户的后端整体架构的经验&lt;br /&gt;3 、拥有海外云服务架构经验，JAVA 基础扎实，熟悉 JVM,网络,多线程等基础技能，熟悉分布式缓存、消息等各类常用中间件；&lt;br /&gt;4 、熟悉常见的数据结构，熟悉常用的设计模式，熟悉 SOA 、RESTful 等概念； &lt;br /&gt;5 、熟悉缓存技术，网站优化，服务器优化，集群技术处理、系统性能调优等软件编程高级技术；&lt;br /&gt;6 、较为丰富的前端对接沟通经验，了解 h5 、js 、react native 等前端开发； &lt;br /&gt;7 、扎实的技术基础，熟悉性能、可用性、伸缩性、扩展性、安全性等开发和设计方案，熟悉行业常见的架构方案；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;微信：18621580540</description><pubDate>Thu, 23 Nov 2023 15:38:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994673#reply0</guid></item><item><title>[程序员] 分享一个用了 3 年的小脚本用于自动申请和分发 ssl 证书到多客户端,虽然简单但是很有用</title><link>https://www.v2ex.com/t/994672#reply0</link><description>&lt;p&gt;3 年前因为域名有点多不方便管理临时写的,用着一直很方便因此分享一下,因为貌似有些朋友也有这个需求 &lt;/p&gt;
+&lt;p&gt;基于 acme 实现自动更新泛域名证书并分发(有点标题党,其实是自己拉)到各个客户端&lt;/p&gt;
+&lt;p&gt;特点: &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;虽然不写这么严格也没问题，但是我的问题是基于想要最完整严格的使用 type 的前提。&lt;/li&gt;
-&lt;li&gt;这只是举个例子说明我的问题，我核心问题是，typescript 中，编辑器依然不能自动推测出所有的字段类型，对于编辑器无法推测的情况下，我该如何去更好的面对和解决这个问题呢。&lt;/li&gt;
-&lt;li&gt;前端样式有什么好的规范文档吗，我是自学的，虽然能写出样式来，但是代码的健壮性、优雅等各方面差太多了，有什么更系统的学习材料吗&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 23 Nov 2023 12:55:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994647#reply0</guid></item><item><title>[AdSense] 2 个月的新站，不到 2K 流量 AdSense 申请成功，我是如何做的？</title><link>https://www.v2ex.com/t/994646#reply0</link><description>今年 9 月份，买了一个域名，用于做英文工具站。网站在 10 月份上线，上线一周后就申请了 AdSense 。&lt;br /&gt;&lt;br /&gt;结果等了两周，发来了需要修改的通知邮件。同时在 AdSense 上看到提示添加收款信息。我一脸蒙，原来，是自己没有填写税务报表，其它的能填的都填了。AdSense 显示，我的内容太少了。&lt;br /&gt;&lt;br /&gt;就在昨日，我更新的网站的内容，把内容弄多了一些。关闭了之前 AdSense 的替代联盟 Monetag 的广告。结果今天就收到了通过的邮件。看来，新站流量不多，内容一定要过关，内容要多，并且质量过关，也能申请通过。&lt;br /&gt;&lt;br /&gt;其它做 AdSense 的朋友说我的网站流量不够，他认为流量够了，AdSense 就很容易通过，第一次申请 AdSense 的时候，我的网站流量只有几百。没有通过。而这一次，从上线到通过，流量也不到 2K 。&lt;br /&gt;&lt;br /&gt;同时，我也遇到了一个小问题，自己明明把 ads.txt 文件放在根域名下面了，头几天显示有，但是过几天显示未找到。各种方法我都尝试了，依然是。后来，发现只需要点击网址，点击再次检验 ads.txt ，就可以了。</description><pubDate>Thu, 23 Nov 2023 12:36:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994646#reply0</guid></item><item><title>[Apple] 关于 Sonoma 桌面小组件的相关讨论</title><link>https://www.v2ex.com/t/994644#reply3</link><description>&lt;h3&gt;先说疑问&lt;/h3&gt;
-&lt;p&gt;真的有人在用这个东西吗？都怎么用？利用率很高吗？&lt;/p&gt;
-&lt;h3&gt;我的场景(还没升，凭想象)&lt;/h3&gt;
-&lt;p&gt;就我目前 MacOS 的使用场景来看，只有极少极少的时候偶尔触发角显示一下桌面去操作一下桌面上临时放置的几个文件夹以外，桌面对我来说基本都是隐藏在最后面，被浏览器、微信、开发工具各种 APP 遮挡，所以我就纳闷桌面上放置这组件有啥用？&lt;/p&gt;
-&lt;p&gt;难道真有人盯着桌面发呆，为了看上面好看的小组件？&lt;/p&gt;
-&lt;p&gt;如果真能提高效率，请不吝赐教！&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 12:08:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994644#reply3</guid></item><item><title>[天黑以后] 20231123 午夜俱乐部</title><link>https://www.v2ex.com/t/994642#reply7</link><description>&lt;p&gt;最近偶尔因为感情情绪低落，细看自己貌似也不全是因为感情的事情情绪低落。&lt;/p&gt;
-&lt;p&gt;职场上有些人是见到微笑都觉得多余的人
-天气阴晴不定温度变化都会影响心情
-身体原因无法坚持跑步也会让我情绪低落&lt;/p&gt;
-&lt;p&gt;该死的生理期，让我无法完全连续的跑步。。。。&lt;/p&gt;
-&lt;p&gt;看完《奥本海默》的电影后开始看原著了，真的非常有意思。&lt;/p&gt;
-&lt;p&gt;一整天都觉得内心慌慌的，这种情况已经持续两三天了，一到晚上就很容易流泪，出现所谓的破碎感。&lt;/p&gt;
-&lt;p&gt;继续跳舞/跑步吧，动起来真的不会让自己饱受情绪的折磨。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 11:57:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994642#reply7</guid></item><item><title>[分享创造] 造个轮子，抽空写了一个总结书籍的站点，欢迎评荐。</title><link>https://www.v2ex.com/t/994641#reply0</link><description>&lt;p&gt;&lt;a href="https://summariesbooks.com/" rel="nofollow"&gt;https://summariesbooks.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;用 NextJs + Supabase ，真香啊。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rF9CGPl.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 11:53:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994641#reply0</guid></item><item><title>[问与答] 有人熟悉《中国溯源》网没？</title><link>https://www.v2ex.com/t/994640#reply1</link><description>有人熟悉《中国溯源》网没，想了解下这个行业的当前状况和前景。&lt;br /&gt;&lt;br /&gt;PS: 一个朋友在广西，想做这块的项目</description><pubDate>Thu, 23 Nov 2023 11:36:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994640#reply1</guid></item><item><title>[VPS] 出 wiki 洛杉矶 9929</title><link>https://www.v2ex.com/t/994639#reply0</link><description>&lt;p&gt;wiki cera 洛杉矶 9929 ，三网去程 163 回程 9929 明盘 440
-1c1g50g500g,续费 440/年，到期时间 2024-11-12&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 11:28:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994639#reply0</guid></item><item><title>[问与答] 工作日，晚上就很累，不想健身也不想学习怎么办？</title><link>https://www.v2ex.com/t/994638#reply10</link><description>&lt;p&gt;工作日，大概晚上 8 点半左右下班，但不想健身，不想学习，甚至什么活动也不想参加。
-只想躺着。&lt;/p&gt;
-&lt;p&gt;是应该把一些要做的个人事情放到早上吗？&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 11:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994638#reply10</guid></item><item><title>[VPS] 出一个 vmiss US.LA.BGP.Core 优化线路的 vps</title><link>https://www.v2ex.com/t/994637#reply1</link><description>2024-06-05 到期, 年续费价格 59.5 CAD    &lt;br /&gt;    15G 硬盘, 500M 带宽, 每月 800G 流量. 中国优化线路, 干净 IP,可以访问 chatgpt 和支付.&lt;br /&gt;    &lt;br /&gt;    telegram 联系: mike_telegram&lt;br /&gt;    &lt;br /&gt;-------&lt;br /&gt; CPU Model          : Intel Core Processor (Haswell, no TSX, IBRS)&lt;br /&gt; CPU Cores          : 1 @ 2299.996 MHz&lt;br /&gt; CPU Cache          : 16384 KB&lt;br /&gt; AES-NI             : ✓ Enabled&lt;br /&gt; VM-x/AMD-V         : ✗ Disabled&lt;br /&gt; Total Disk         : 14.7 GB (9.5 GB Used)&lt;br /&gt; Total Mem          : 978.8 MB (233.3 MB Used)&lt;br /&gt; System uptime      : 360 days, 23 hour 30 min&lt;br /&gt; Load average       : 0.00, 0.00, 0.00&lt;br /&gt; OS                 : CentOS Linux release 7.9.2009 (Core)&lt;br /&gt; Arch               : x86_64 (64 Bit)&lt;br /&gt; Kernel             : 6.0.9-1.el7.elrepo.x86_64&lt;br /&gt; TCP CC             : bbr&lt;br /&gt; Virtualization     : KVM&lt;br /&gt; IPv4/IPv6          : ✓ Online / ✗ Offline&lt;br /&gt; Organization       : AS400464 VMISS Inc.&lt;br /&gt; Location           : Los Angeles / US&lt;br /&gt; Region             : California&lt;br /&gt;----------------------------------------------------------------------&lt;br /&gt; I/O Speed(1st run) : 382 MB/s&lt;br /&gt; I/O Speed(2nd run) : 606 MB/s&lt;br /&gt; I/O Speed(3rd run) : 640 MB/s&lt;br /&gt; I/O Speed(average) : 542.7 MB/s&lt;br /&gt;----------------------------------------------------------------------&lt;br /&gt; Node Name        Upload Speed      Download Speed      Latency&lt;br /&gt; &lt;a href="http://Speedtest.net" rel="nofollow noopener" target="_blank"&gt;Speedtest.net&lt;/a&gt;    416.55 Mbps       428.25 Mbps         48.87 ms&lt;br /&gt; Los Angeles, US  463.85 Mbps       461.24 Mbps         1.16 ms</description><pubDate>Thu, 23 Nov 2023 11:08:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994637#reply1</guid></item><item><title>[问与答] 有没有人办过那种不用换号直接改 29 元（125g 两年+10g 永久+100 分钟通话）套餐的吗</title><link>https://www.v2ex.com/t/994636#reply6</link><description>小红书搜到的，可以不用换号，因为自己把号改成了 8 元保号套餐所有好奇有什么套路没有，需要提供手机号和服务密码，代办费 50 元，走的咸鱼</description><pubDate>Thu, 23 Nov 2023 10:58:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994636#reply6</guid></item><item><title>[职场话题] 请谨慎对待酷工作的里的帖子</title><link>https://www.v2ex.com/t/994635#reply12</link><description>刚面了职业生涯最莫名其妙的面试，为了让更多人看见，复制一下，原帖: &lt;a href="https://www.v2ex.com/t/991474" rel="nofollow noopener" target="_blank"&gt;/t/991474&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我来说下面试感想吧，本来我没打算投，因为上面的岗位要求我一条都不符合，没想到 OP 主动来找我，一开始我以为是想让我推荐人的，后来没想到竟然是让我去面试，本来以为能见见大佬，聊聊不亏。&lt;br /&gt;&lt;br /&gt;结果一面是远程开发，来的理由竟然是最熟悉项目，这是招 CTO 还是招开发啊，我没搞明白。想着可能看我经验不足，先找个开发试试水。但二面更让我奇怪了，竟然是 PM ，这是干啥，说实话问的问题我都没考虑过，勉强糊弄过去了。&lt;br /&gt;&lt;br /&gt;虽然前两面都莫名其妙，但我还是跟 OP 讲，想跟架构师聊聊，OP 安排了。没想到这位架构师入职只有一个月，做的工作其实也都是救火。后面我尝试套套话，问问这架构师的履历，没有得到正面回答。&lt;br /&gt;&lt;br /&gt;后续我向 OP 反馈了一些问题，结果 OP 以为我瞧不起他们。天地良心，我只是直接说出问题而已。比如你们用计件的外包开发，就不要指望这些人有多少责任心和能力了，写出来的东西能用就不错了。还有你发这帖子，都没跟后面的面试官讲，别人都不知道候选人哪里来的，推简历的时候至少有个基本沟通吧。&lt;br /&gt;&lt;br /&gt;OP 说是招领头羊、CTO ，其实从后面的面试官问的问题来看，只是缺个分析需求、分配任务的人而已，我实话实说告诉 OP ，这在别的公司就是个研发经理甚至是组长，架构师都不管这事，更别说 CTO 了。&lt;br /&gt;&lt;br /&gt;还有这面试流程，招开发就是一面普通开发、二面组长，招组长小公司直接上 CTO 了，招 CTO 肯定上老板自己上啊，OP 来发帖我都以为 OP 是老板了，结果最后我根本没见到老板，还是说 OP 自己就是但不明说？真是一头雾水。&lt;br /&gt;&lt;br /&gt;虽然 OP 的公司跟我之前加入的创业公司确实有很大差距，但我的学历和管理经验也不符合 OP 的要求，本来想着愿意招我对我来说也是很大的提升，毕竟从来没干过管理。结果聊了半天又说还要再看看，我一开始可是清清楚楚得告诉 OP 我不符合帖子里的岗位要求的，是嫌我后面说话太直接，还是其实 OP 根本没跟能拍板的人沟通过？&lt;br /&gt;&lt;br /&gt;还有 OP 一直发表情包，让我更摸不到头脑，我们明明在聊一个很严肃的问题，我给的评价也不像是在开玩笑，一直用表情包回复我干什么呢？我说了我喜欢直接的，不搞弯弯绕绕，有话直说，不合适、不同意就直接说，回个表情包干啥？&lt;br /&gt;&lt;br /&gt;总之这是我面过的最莫名其妙的面试，从始至终我都没打听到创始人的背景，甚至连公司在哪 OP 都不愿意说，只说是科技园，科技园这么大，正经公司怕说具体地址吗？</description><pubDate>Thu, 23 Nov 2023 10:45:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994635#reply12</guid></item><item><title>[问与答] Windows 上居然没有一个能和 Apple Books 匹敌的阅读器？</title><link>https://www.v2ex.com/t/994634#reply1</link><description>找了好久，没找到一个稍微阅读效果和苹果阅读器差不多的。。。太难了，，最后试了一下微信读书在 PC 上用，字太小了，翻页效果一复杂就卡。。。</description><pubDate>Thu, 23 Nov 2023 10:44:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994634#reply1</guid></item><item><title>[问与答] graphviz 很方便，但是太丑，有没有现代一点的？</title><link>https://www.v2ex.com/t/994633#reply0</link><description>前端老哥们搞出来好多类似的好看的图，有没有从 graphviz 生成的？</description><pubDate>Thu, 23 Nov 2023 10:31:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994633#reply0</guid></item><item><title>[酷工作] [接单] 承接 WebGIS 的单子</title><link>https://www.v2ex.com/t/994632#reply2</link><description>&lt;p&gt;二维/三维地图
-桌面端/网页端&lt;/p&gt;
-&lt;p&gt;技术栈:vue3 vite typescript electron nestjs cesium threejs leaflet @&lt;a href="https://www.v2ex.com/member/antv"&gt;antv&lt;/a&gt;/l7
-后端技术只会 node&lt;/p&gt;
-&lt;p&gt;微信:solfhub
-欢迎老板咨询,也欢迎团队来组我&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 10:20:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994632#reply2</guid></item><item><title>[iPhone] 为啥不能导出未修改的原片</title><link>https://www.v2ex.com/t/994631#reply0</link><description>&lt;p&gt;&lt;img alt="截图" class="embedded_image" rel="noreferrer" src="https://imgur.com/a/rKGlrMw" /&gt;
-渲染不出来的话麻烦移步 https###://&lt;a href="http://imgur.com" rel="nofollow"&gt;imgur.com&lt;/a&gt;###/a/rKGlrMw&lt;/p&gt;
-&lt;p&gt;ios 17.1.1 iphone15 pro&lt;/p&gt;
-&lt;p&gt;红框部分本就是那样，没打马赛克，而且点击“导出未修改的原片”没有任何反应&lt;/p&gt;
-&lt;p&gt;还有就是，我照片 app 只有这三个视频（ 79.1M,75.6M,313.7M,均为 HEVC 格式）和一张实况照片（ 1.6M ，HEIF 格式），但是照片 app 占了 13.8GB 的内存？？&lt;/p&gt;
-&lt;p&gt;求教教&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 10:19:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994631#reply0</guid></item><item><title>[Samsung] 踏出苹果生态第一步</title><link>https://www.v2ex.com/t/994630#reply1</link><description>半年前从 iPhone11 换到 13mini ，用了一段时间发现 13mini 当主力机真的有点拉胯。随便打开几个软件就开始杀后台，打开相机必卡。&lt;br /&gt;&lt;br /&gt;过段时间去看演唱会，就决定买个演唱会神器 s23 ultra 试试。不得不说高帧率大内存加上能够谷歌全家桶的安卓真爽。</description><pubDate>Thu, 23 Nov 2023 10:16:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994630#reply1</guid></item><item><title>[宽带症候群] 2023 年了装修全屋无线 Mesh 的方案行不行得通</title><link>https://www.v2ex.com/t/994628#reply11</link><description>&lt;p&gt;需求：&lt;br /&gt;
-1 、手机上网；&lt;br /&gt;
-2 、电脑网络游戏玩的较少，但是单机玩的多点下载速度有要求；&lt;br /&gt;
-3 、有 xbox 会连接游戏主机；&lt;br /&gt;
-4 、可能会用 nas 存影音文件（基本会买成品的 nas ）。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 10:11:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994628#reply11</guid></item><item><title>[OpenAI] 现在大家用什么 OpenAI GPT 镜像， Pandora</title><link>https://www.v2ex.com/t/994627#reply0</link><description>&lt;p&gt;现在大家用什么 OpenAI GPT 镜像
-我之前用 Pandora 好像不能使用了
-这个不是调整用 key,不家没有这类开源，谢谢大家。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 10:03:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994627#reply0</guid></item><item><title>[程序员] 第三方 oauth 登录接入哪家是最好的，（面向大陆的）。</title><link>https://www.v2ex.com/t/994626#reply0</link><description>个人网站，无倍案，兴趣爱好搭建的。偶然找了找免费的，不提交个人信息的 oauth 。&lt;br /&gt;&lt;br /&gt;调查了很多家&lt;br /&gt;1.国外“被屏蔽的”&lt;br /&gt;Google-&amp;gt;接入使用最多，不过谷歌.大陆无法访问,放弃。&lt;br /&gt;同理还有 fb,tt （现在叫 X 了）。一样。&lt;br /&gt;&lt;br /&gt;2.国外“未屏蔽的”&lt;br /&gt;(1)微软，oauth 接入需要注册 Azure ，注册 Azure 要绑定 master/visa 信卡。相当于变相实名了。虽然有虚拟 d 卡，但是虚拟的卡会风控。&lt;br /&gt;(2)Github ，偶然可用，但是间接性阻断。&lt;br /&gt;(3)Gitlab ，可用，但是登录页面有 Cloudflare 盾，浏览器版本低了或者特殊网络原因过不去。&lt;br /&gt;(4)Apple ，需要订阅缴纳$99 美元的会费。没钱&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;3.国内的&lt;br /&gt;大多数的，如 QQ ，微信等等要求网站有倍案。&lt;br /&gt;如果不是强制要求备的地方，都是要实名的。看到华 w 为申请 oauth 接入就要求开发者提交信息。&lt;br /&gt;比如实名绑定银 h 行卡等等，这不就和 Azure 强制绑卡一样了吗。不想提交信息。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;选来选去，只有 Gitlab 看上去最有性价比了。各位 v 友有什么推荐。&lt;br /&gt;&lt;br /&gt;感觉大多数接入的第三方 oauth 都是大网站。</description><pubDate>Thu, 23 Nov 2023 10:02:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994626#reply0</guid></item><item><title>[macOS] macOS Sonoma 值得升级吗</title><link>https://www.v2ex.com/t/994625#reply7</link><description>如题所示。&lt;br /&gt;机型：mac pro 2021,M1 pro,16+512</description><pubDate>Thu, 23 Nov 2023 10:00:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994625#reply7</guid></item></channel></rss>
+&lt;li&gt;shell 实现 无需配置环境  &lt;/li&gt;
+&lt;li&gt;5 分钟简单部署,对环境和业务无侵入性  &lt;/li&gt;
+&lt;li&gt;客户端一键拉取并更新证书,也可以防爆破&lt;/li&gt;
+&lt;li&gt;不花钱...&lt;/li&gt;
+&lt;li&gt;暂时还没想到&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href="https://github.com/del-xiong/auto-ssl-renew" rel="nofollow"&gt;https://github.com/del-xiong/auto-ssl-renew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;中国镜像&lt;br /&gt;
+&lt;a href="https://gitee.com/splot/auto-ssl-renew" rel="nofollow"&gt;https://gitee.com/splot/auto-ssl-renew&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;由于本人都是申请的泛域名证书所以只考虑了泛域名证书,单域名也是可以的,不过需要修改下脚本&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 15:36:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994672#reply0</guid></item><item><title>[程序员] [记录]-在厦门的这几天</title><link>https://www.v2ex.com/t/994671#reply0</link><description>&lt;p&gt;三年前其实就打算来厦门这边发展 只可惜一直没有机会 最后选择了在上海那边发展	
+但是目前入职的这家公司是出了名的拖欠工资在厦门本地 好在是有员工宿舍	
+不过来厦门的这几天确实发现本地的气候比老家好很多而且吃的东西很符合我的胃口 比较清淡而且健康些	
+刚好今天有个老家那边的面试 最后直接给了 10K 10K 这个薪资标准算是我在上海拿到的最高的薪资水平 但是在我老家(临近北京沿海的二线城市)来讲 算是比较不错的收入了 想了想还是回去吧&lt;/p&gt;
+&lt;p&gt;在公司玩 SMT 3 Nocturne
+&lt;img alt="微信图片_20231123232550.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/23/3L1ei4tE5DJgYwF.jpg" /&gt;
+&lt;img alt="微信图片_20231123232555.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/23/s5EiTxkgLmRaCoB.jpg" /&gt;
+&lt;img alt="微信图片_20231123232535.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/23/BkaurchVQA8ptR7.jpg" /&gt;
+&lt;img alt="微信图片_20231123232559.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/11/23/xKG3alFEy2hSu1t.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 15:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994671#reply0</guid></item><item><title>[OpenAI] GPT4 plus 找三个车友 使用开源隔离面板</title><link>https://www.v2ex.com/t/994669#reply2</link><description>&lt;p&gt;iOS 美区内购续费，个人账号稳定使用
+目前已有两人，开五人车
+面板隔离隐私有保证
+面板：&lt;a href="https://github.com/moeakwak/chatgpt-web-share" rel="nofollow"&gt;chatgpt-web-share&lt;/a&gt;
+35 元/月
+可使用附件功能，如下图
+&lt;img alt="截屏 2023-11-23 21.53.18" class="embedded_image" rel="noreferrer" src="https://picdl.sunbangyan.cn/2023/11/23/17fb7eeb6ff5b524efd358130fec50fa.jpeg" /&gt;
+翻车按剩余时间比例退款
+需要的联系&lt;a href="https://t.me/milkman155_bot" rel="nofollow"&gt;TG&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 15:17:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994669#reply2</guid></item><item><title>[求职] [远程/兼职/外包] 7 年 PHP 工作，寻求长期合作</title><link>https://www.v2ex.com/t/994668#reply0</link><description>&lt;p&gt;手上的单差不多要完结了，在此寻求远程和其他合作机会。&lt;/p&gt;
+&lt;h4&gt;技术栈&lt;/h4&gt;
+&lt;p&gt;精通 PHP 开发，熟悉 Laravel 、Yii 、Hyperf 、WordPress 等开源框架，有高并发场景性能优化经验
+熟悉 MySQL 、Redis 、等常用的数据库，有调优经验
+熟悉 Golang 开发，有 Gin 、Beego 等框架的开发经验&lt;/p&gt;
+&lt;h4&gt;联系方式&lt;/h4&gt;
+&lt;p&gt;Wx:bzE0MDQ0NQ==
+个人网站： &lt;a href="http://blog.yxbihq.com/" rel="nofollow"&gt;http://blog.yxbihq.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最后感谢 V 站&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 15:15:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994668#reply0</guid></item><item><title>[程序员] 24 年毕业生，双非二本， CS，杭州。求指点一条学习之路</title><link>https://www.v2ex.com/t/994667#reply1</link><description>下述内容可能含有强迫症因素&lt;br /&gt;&lt;br /&gt;其实我是物联网工程，理想是计算机科学与技术，所以我自学计算机&lt;br /&gt;专科时期是计算机应用技术，收获博客一枚(Hexo+butterfly)，了解 HTML 、CSS 、计网，其余不认可&lt;br /&gt;平常对手机、电脑等数码产品有兴趣，会轻微折腾&lt;br /&gt;&lt;br /&gt;本科时期同样不认可自己有学什么&lt;br /&gt;但实际上 C(C 程序设计语言学到第三章弃)、C++（ C++ Primer 学到第三章弃）、Java 等编程语言，C 数据结构、操作系统、计算机网络等自学或学校教过，Linux ，Git ，阿里云(对象存储、函数计算、云服务器等云产品）都了解使用过&lt;br /&gt;&lt;br /&gt;目前认真学习了，Python(菜鸟教程)，Python 数据结构(网易云课堂)，Flask( &lt;a href="https://tutorial.helloflask.com/" rel="nofollow noopener" target="_blank"&gt;https://tutorial.helloflask.com/&lt;/a&gt;)&lt;br /&gt;学习 Flask 的途中跟做了教程的项目&lt;br /&gt;自己也准备着手开发一个项目，是一个文件分享网站，类似文叔叔、轻松传、空投&lt;br /&gt;技术栈：前端(Vue3/原生)，后端(Flask ，部署到阿里云函数计算)，存储(阿里云对象存储)，数据库(SQLite ，部署到阿里云文件存储)&lt;br /&gt;目前进度：学习技术栈中，已写好功能思维导图(可能会另开一贴讨论)&lt;br /&gt;&lt;br /&gt;我感觉我现在就是纯菜，我接下来该怎么学习&lt;br /&gt;&lt;br /&gt;我在逛论坛或是刷视频时，少量直接提到框架，例如 Python Flask 、Golang xx ，大部分是未见过的名词，我想那些也许是学习方向吧，还是说我误会了，知道 Flask 就先把 Flask 学好？&lt;br /&gt;我怕只学个 Flask 太过单薄，能说出未见过名词的人看起来像是在某个范围内学习一样，例如学习 Spring boot ，那么 xx 、zz 都是必须的，这些学完是入门，再学 yy 是进阶，这样&lt;br /&gt;&lt;br /&gt;求人生导师的降临</description><pubDate>Thu, 23 Nov 2023 15:10:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994667#reply1</guid></item><item><title>[程序员] 分享一个自己工作/学习的保持专注度的小 tips</title><link>https://www.v2ex.com/t/994666#reply3</link><description>浏览器装了番茄钟插件，每次定时 50 分钟。但是很多时候坚持不了 50 分钟，那就暂停番茄钟。觉得自己专注度又回来了，摸鱼结束的时候就按一下开始，继续番茄钟计时。&lt;br /&gt;&lt;br /&gt;这个小 tips 的核心就是用完成主义代替完美主义，不需要持续地保持高专注度，而是慢慢培养，慢慢提升。</description><pubDate>Thu, 23 Nov 2023 14:57:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994666#reply3</guid></item><item><title>[Apple] 问个 homekit 的问题，换新账号登录美区后， aqara 设备就无法导入 homekit 设备了，怎么解决</title><link>https://www.v2ex.com/t/994665#reply1</link><description>原来是 QQ 邮箱的国区，aqara 的全屋智能家电，在 APP 里一键导入 homekit&lt;br /&gt;&lt;br /&gt;现在换手机用 GMAIL 邮箱登录了美区，下载了 aqara 软件，从 APP 里一键导入 HOMEKIT 就失败了&lt;br /&gt;&lt;br /&gt;41 个设备全都显示未匹配到对应设备&lt;br /&gt;&lt;br /&gt;但是这些设备在 aqara 里能正常操作，求解&lt;br /&gt;&lt;br /&gt;国区的 14PM 已经初始化了，打算卖了，难道要再次登录到国区 HOMEKIT 界面里把所有设备全删掉&lt;br /&gt;&lt;br /&gt;才能用 aqara 导入么&lt;br /&gt;&lt;br /&gt;还有啥其他可行的方法&lt;br /&gt;&lt;br /&gt;还是要在 aqara 里全部删除，然后用 aqara 重新配对，再导入 homekit</description><pubDate>Thu, 23 Nov 2023 14:53:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994665#reply1</guid></item><item><title>[MacBook Pro] 求推个质量好速度快的外置 MBP 固态 移动硬盘 拯救下 8G+256G 丐版</title><link>https://www.v2ex.com/t/994663#reply4</link><description>如题，谢谢各位吴彦祖们,m1 芯片和 intel 芯片 mbp 各一个</description><pubDate>Thu, 23 Nov 2023 14:35:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994663#reply4</guid></item><item><title>[Apple] 2023 黑五有购买 apple gift card 礼品卡的吗？有推荐的安全的渠道吗</title><link>https://www.v2ex.com/t/994660#reply2</link><description>&lt;p&gt;2023 黑五有购买 apple 礼品卡的吗？有推荐的安全的渠道吗&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 14:28:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994660#reply2</guid></item><item><title>[程序员] 终于祛除了这开机广告了</title><link>https://www.v2ex.com/t/994658#reply9</link><description>&lt;p&gt;电脑每次开机都会自动打开 chrome 浏览器跳转到广告页面，由于不是什么弹窗程序，用一些软件也抓不到是什么流氓程序，就这么忍受的一段时间。&lt;/p&gt;
+&lt;p&gt;今天终于下定决心搞清楚到底是哪里出了问题，我的思维一直放在可能是什么服务，计划任务打开的浏览器，排查一圈之后无果，只好试着问问 ChatGPT ，问了几圈给推荐了 ProcessMonitor 这软件，试了一下果然有所发现&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ProcessMonitor" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QhHjIJB.png" /&gt; &lt;/p&gt;
+&lt;p&gt;于是对这个域名百度了一下，果然中招的不在少数，然后在注册表里面找到了这么一行&lt;/p&gt;
+&lt;p&gt;&lt;img alt="注册表" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Ionyb1H.png" /&gt; &lt;/p&gt;
+&lt;p&gt;原来是通过这种方式打开的浏览器&lt;/p&gt;
+&lt;p&gt;虽然删除就可以了，但我也找不到是哪个流氓软件设置进去的&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 14:12:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994658#reply9</guid></item><item><title>[程序员] 你们写文档吗</title><link>https://www.v2ex.com/t/994657#reply6</link><description>我们组几乎没有文档，业务只存在于三位“元老”脑中。他们随便走一位，业务都得黄。&lt;br /&gt;&lt;br /&gt;  产品需求文档是有的，但是也不知道跟代码是怎么对应的，而且也不知道全不全。&lt;br /&gt;&lt;br /&gt;  之前在外包公司呆的时候，虽然那个时候还没用 git ，但是文件的每次改动都要将需求链接或者 bug 链接写在文件的注释里，后来者通过需求文件很容易理解业务全貌。现在基本只能靠跟“前辈”讨教或者自己读代码，犹如盲人摸象，只能获得一些残缺不全的业务认知。&lt;br /&gt;&lt;br /&gt;  不知道大家是怎么让新队友快速熟悉业务的？是通过文档吗？还是让 ta“自学成才”？如果是通过文档，那么是怎样保持文档的“新鲜度”的呢？</description><pubDate>Thu, 23 Nov 2023 14:07:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994657#reply6</guid></item><item><title>[问与答] [付费问答] 在写一个富文本编辑器，其中用到了带父子节点的双向链表，可无限嵌套，写了个递归一直报错，希望大佬指点指点，答案被采纳我 v 信转 120 给您（不在乎钱的也可以试一试，这十分考验算法实战能力）</title><link>https://www.v2ex.com/t/994656#reply3</link><description>&lt;p&gt;在写一个富文本编辑器，其中用到了带父子节点的双向链表，要把无顺序的节点树根据 prev_id ，next_id 处理成顺序的，而且有些节点是带 children 的，children 中的节点同其他节点，可无限嵌套，写了个递归一直报错，希望大佬指点指点，答案被采纳我 v 信转 120 给您（不在乎钱的也可以试一试，这十分考验算法实战能力）&lt;/p&gt;
+&lt;p&gt;raw_nodes 数据：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-ts"&gt;const raw_nodes = [
+    {
+        "type": "file",
+        "name": "工作目录二",
+        "icon": "",
+        "id": "dgacbecjhzbcufq13_rvmr_gjz98xo",
+        "module": "todo",
+        "pid": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+        "prev_id": "pcwsejrnwzuwjpyve64ww68hxxt74r"
+    },
+    {
+        "type": "file",
+        "name": "日常",
+        "icon": "",
+        "id": "gpvwcojxffgijtw14xat7-ealc7w8l",
+        "module": "todo",
+        "pid": "",
+        "prev_id": "kzoxuadlnqrtxeg43xugw2s0voutnj"
+    },
+    {
+        "type": "dir",
+        "name": "工作",
+        "icon": "",
+        "id": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+        "module": "todo",
+        "pid": "",
+        "next_id": "gpvwcojxffgijtw14xat7-ealc7w8l"
+    },
+    {
+        "type": "file",
+        "name": "工作目录一",
+        "icon": "",
+        "id": "pcwsejrnwzuwjpyve64ww68hxxt74r",
+        "module": "todo",
+        "pid": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+        "next_id": "kzoxuadlnqrtxeg43xugw2s0voutnj"
+    }
+]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;tree 数据和 tree_map 由下面 class 中的函数可计算出来：&lt;/p&gt;
+&lt;p&gt;class 的一部分：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-ts"&gt;import { get, flatMap, last, initial, cloneDeep, find } from 'lodash-es'
+
+type RawNode = {
+	id: string
+	pid?: string
+	prev_id?: string
+	next_id?: string
+	[key: string]: any
+}
+
+type RawNodes = Array&amp;lt;RawNode&amp;gt;
+type TreeItem = RawNode &amp;amp; { children?: Tree }
+type Tree = Array&amp;lt;TreeItem&amp;gt;
+type TreeMap = Record&amp;lt;string, TreeItem&amp;gt;
+
+export default class Index {
+	tree = [] as Tree
+
+	public init(raw_nodes: RawNodes) {
+		const raw_tree_map = this.setRawMap(raw_nodes)
+		const { tree, tree_map } = this.getTree(raw_nodes, raw_tree_map)
+
+		console.log(tree)
+
+		this.tree = this.sortTree(tree, tree_map)
+	}
+
+	private setRawMap(raw_nodes: RawNodes) {
+		const tree_map = {} as TreeMap
+
+		raw_nodes.map((item) =&amp;gt; {
+			tree_map[item.id] = item
+		})
+
+		return tree_map
+	}
+
+	private getTree(raw_nodes: RawNodes, tree_map: TreeMap) {
+		const tree = [] as Tree
+
+		raw_nodes.forEach((item) =&amp;gt; {
+			if (item.pid) {
+				if (!tree_map[item.pid].children) {
+					tree_map[item.pid].children = []
+				}
+
+				if (!tree_map[item.pid]?.children?.length) {
+					tree_map[item.pid].children = [item]
+				} else {
+					tree_map[item.pid].children.push(item)
+				}
+			} else {
+				tree.push(item)
+			}
+		})
+
+		return { tree, tree_map }
+	}
+
+	private sortTree(tree: Tree, tree_map: TreeMap) {
+		const target_tree = [] as Tree
+		const start_node = find(tree, (item) =&amp;gt; !item.prev_id)
+
+		if (!start_node) return []
+		let current = start_node.id
+
+		while (current) {
+			const item = tree_map[current]
+
+			if (item?.children?.length) {
+                                // 这里报错（ RangeError: Maximum call stack size exceeded ）
+				// item.children = this.sortTree(item.children, tree_map)
+			}
+
+			target_tree.push(item)
+
+			current = item.next_id
+		}
+
+		return target_tree
+	}
+
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;正确的情况应输出数据为：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-ts"&gt;const tree = [
+    {
+        "type": "dir",
+        "name": "工作",
+        "icon": "",
+        "id": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+        "module": "todo",
+        "pid": "",
+        "next_id": "gpvwcojxffgijtw14xat7-ealc7w8l",
+        "children": [
+             {
+                "type": "file",
+                "name": "工作目录一",
+                "icon": "",
+                "id": "pcwsejrnwzuwjpyve64ww68hxxt74r",
+                "module": "todo",
+                "pid": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+                "next_id": "kzoxuadlnqrtxeg43xugw2s0voutnj"
+            },
+            {
+                "type": "file",
+                "name": "工作目录二",
+                "icon": "",
+                "id": "dgacbecjhzbcufq13_rvmr_gjz98xo",
+                "module": "todo",
+                "pid": "kzoxuadlnqrtxeg43xugw2s0voutnj",
+                "prev_id": "pcwsejrnwzuwjpyve64ww68hxxt74r"
+            },
+           
+        ]
+    },
+      {
+        "type": "file",
+        "name": "日常",
+        "icon": "",
+        "id": "gpvwcojxffgijtw14xat7-ealc7w8l",
+        "module": "todo",
+        "pid": "",
+        "prev_id": "kzoxuadlnqrtxeg43xugw2s0voutnj"
+    },
+]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;哪位大佬指点迷津，小弟 v 您 60+60 ，祝您 66 大顺！&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 14:00:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994656#reply3</guid></item><item><title>[问与答] 去海外有什么成品 NAS 推荐？</title><link>https://www.v2ex.com/t/994655#reply1</link><description>目前在国内用的国产极空间 NAS ，感觉不用自己操心挺好的，马上要去美国 🇺🇸 做 postdoc 了，在海外的哥们儿有没有什么开箱即用的 NAS 推荐？先谢过了~</description><pubDate>Thu, 23 Nov 2023 13:54:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994655#reply1</guid></item><item><title>[问与答] tails 和 qubesOS 那个安全综合更强？</title><link>https://www.v2ex.com/t/994654#reply0</link><description></description><pubDate>Thu, 23 Nov 2023 13:50:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994654#reply0</guid></item><item><title>[Android] (类)原生在国内目前后台调教的最优解?</title><link>https://www.v2ex.com/t/994652#reply2</link><description></description><pubDate>Thu, 23 Nov 2023 13:39:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994652#reply2</guid></item></channel></rss>
