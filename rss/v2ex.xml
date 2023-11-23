@@ -1,329 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 22 Nov 2023 16:29:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 分享一个优雅处理 Spring Boot 接口响应的 Java 库，提供一站式统一返回值封装、全局异常处理、自定义异常错误码等功能，求 star</title><link>https://www.v2ex.com/t/994341#reply0</link><description>&lt;h1&gt;简介&lt;/h1&gt;
-&lt;p&gt;Graceful Response 是一个 Spring Boot 体系下的优雅响应处理器，提供一站式统一返回值封装、全局异常处理、自定义异常错误码等功能，使用 Graceful Response 进行 web 接口开发不仅可以节省大量的时间，还可以提高代码质量，使代码逻辑更清晰。&lt;/p&gt;
-&lt;p&gt;零学习门槛，十秒钟上手！&lt;/p&gt;
-&lt;p&gt;GitHub 仓库地址： &lt;a href="https://github.com/feiniaojin/graceful-response" rel="nofollow"&gt;https://github.com/feiniaojin/graceful-response&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎试用和 star!&lt;/p&gt;
-&lt;h1&gt;Spring Boot 接口开发现状&lt;/h1&gt;
-&lt;p&gt;目前，业界使用 Spring Boot 进行接口开发时，往往存在效率底下、重复劳动、可读性差等问题。以下伪代码相信大家非常熟悉，我们大部分项目的 Controller 接口都是这样的。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;@Controller
-public class Controller {
-    
-    @GetMapping("/query")
-    @ResponseBody
-    public Response query(Map&amp;lt;String,Object&amp;gt; paramMap) {
-        Response res = new Response();
-        try {
-            //1.校验 params 参数合法性，包括非空校验、长度校验等
-            if (illegal(paramMap)) {
-                res.setCode(1);
-                res.setMsg("error");
-                return res;
-            }
-            //2.调用 Service 的一系列操作，得到查询结果
-            Object data = service.query(params);
-            //3.将操作结果设置到 res 对象中
-            res.setData(data);
-            res.setCode(0);
-            res.setMsg("ok");
-            return res;
-        }catch (Exception e) {
-            //4.异常处理：一堆丑陋的 try...catch ，如果有错误码的，还需要手工填充错误码
-            res.setCode(1);
-            res.setMsg("error");
-            return res;
-        }
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这段伪代码存在什么样的问题呢？&lt;/p&gt;
-&lt;p&gt;第一个问题，效率低下。Controller 层的代码应该尽量简洁，上面的伪代码其实只是为了将数据查询的结果进行封装，使其以统一的格式进行返回。例如以下格式的响应体：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "code": 0,
-  "msg": "ok",
-  "data": {
-    "id": 1,
-    "name": "username"
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;查询过程中如果发生异常，需要在 Controller 进行手工捕获，根据捕获的异常人工地设置错误码，当然，也用同样的格式封装错误码进行返回。&lt;/p&gt;
-&lt;p&gt;可以看到，除了调用 service 层的 query 方法这一行，其他大部分的代码都执行进行结果的封装，大量的冗余、低价值的代码导致我们的开发活动效率很低。&lt;/p&gt;
-&lt;p&gt;第二个问题，重复劳动。以上捕获异常、封装执行结果的操作，每个接口都会进行一次，因此造成大量重复劳动。&lt;/p&gt;
-&lt;p&gt;第三个问题，可读性低。上面的核心代码被淹没在许多冗余代码中，很难阅读，如同大海捞针。&lt;/p&gt;
-&lt;p&gt;我们可以通过 Graceful Response 这个组件解决这样的问题。&lt;/p&gt;
-&lt;h1&gt;快速入门&lt;/h1&gt;
-&lt;h2&gt;引入 Graceful Response 组件&lt;/h2&gt;
-&lt;p&gt;Graceful Response 已发布至 maven 中央仓库，我们可以直接引入到项目中。&lt;/p&gt;
-&lt;p&gt;maven 依赖如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-xml"&gt;&amp;lt;dependency&amp;gt;
-    &amp;lt;groupId&amp;gt;com.feiniaojin&amp;lt;/groupId&amp;gt;
-    &amp;lt;artifactId&amp;gt;graceful-response&amp;lt;/artifactId&amp;gt;
-    &amp;lt;version&amp;gt;{latest.version}&amp;lt;/version&amp;gt;
-&amp;lt;/dependency&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Spring Boot 版本&lt;/th&gt;
-&lt;th&gt;Graceful Response 版本&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2.x&lt;/td&gt;
-&lt;td&gt;3.2.0-boot2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3.x&lt;/td&gt;
-&lt;td&gt;3.2.0-boot3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;启用 Graceful Response&lt;/h2&gt;
-&lt;p&gt;在启动类中引入 @&lt;a href="https://www.v2ex.com/member/EnableGracefulResponse"&gt;EnableGracefulResponse&lt;/a&gt; 注解，即可启用 Graceful Response 组件。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;@EnableGracefulResponse
-@SpringBootApplication
-public class ExampleApplication {
-    public static void main(String[] args) {
-        SpringApplication.run(ExampleApplication.class, args);
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;Controller 层&lt;/h2&gt;
-&lt;p&gt;引入 Graceful Response 后，我们不需要再手工进行查询结果的封装，直接返回实际结果即可，Graceful Response 会自动完成封装的操作。&lt;/p&gt;
-&lt;p&gt;Controller 层示例如下。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;@Controller
-public class Controller {
-    @RequestMapping("/get")
-    @ResponseBody
-    public UserInfoView get(Long id) {
-        log.info("id={}", id);
-        return UserInfoView.builder().id(id).name("name" + id).build();
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在示例代码中，Controller 层的方法直接返回了 UserInfoView 对象，没有进行封装的操作，但经过 Graceful Response 处理后，我们还是得到了以下的响应结果。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": "0",
-    "msg": "ok"
-  },
-  "payload": {
-    "id": 1,
-    "name": "name1"
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;而对于命令操作（ Command ）尽量不返回数据，因此 command 操作的方法的返回值应该是 void ，Graceful Response 对于对于返回值类型 void 的方法，也会自动进行封装。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public class Controller {
-    @RequestMapping("/command")
-    @ResponseBody
-    public void command() {
-        //业务操作
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;成功调用该接口，将得到：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": "200",
-    "msg": "success"
-  },
-  "payload": {}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;Service 层&lt;/h2&gt;
-&lt;p&gt;在引入 Graceful Response 前，有的开发者在定义 Service 层的方法时，为了在接口中返回异常码，干脆直接将 Service 层方法定义为 Response ，淹没了方法的正常返回值。&lt;/p&gt;
-&lt;p&gt;Response 的代码如下。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;//lombok 注解
-@Data
-public class Response {
-    private String code;
-    private String msg;
-    private Object data;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;直接返回 Response 的 Service 层方法：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;/**
- * 直接返回 Reponse 的 Service
- * 不规范
- */
-public interface Service{
-    public Reponse commandMethod(Command command);
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Graceful Response 引入 @&lt;a href="https://www.v2ex.com/member/ExceptionMapper"&gt;ExceptionMapper&lt;/a&gt; 注解，通过该注解将异常和错误码关联起来，这样 Service 方法就不需要再维护 Response 的响应码了，直接抛出业务异常，由 Graceful Response 进行异常和响应码的关联。
-@&lt;a href="https://www.v2ex.com/member/ExceptionMapper"&gt;ExceptionMapper&lt;/a&gt; 的用法如下。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;/**
- * NotFoundException 的定义，使用 @ExceptionMapper 注解修饰
- * code:代表接口的异常码
- * msg:代表接口的异常提示
- */
-@ExceptionMapper(code = "1404", msg = "找不到对象")
-public class NotFoundException extends RuntimeException {
-
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Service 接口定义：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public interface QueryService {
-    UserInfoView queryOne(Query query);
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Service 接口实现：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public class QueryServiceImpl implements QueryService {
-    @Resource
-    private UserInfoMapper mapper;
-    public UserInfoView queryOne(Query query) {
-        UserInfo userInfo = mapper.findOne(query.getId());
-        if (Objects.isNull(userInfo)) {
-            //这里直接抛自定义异常
-            throw new NotFoundException();
-        }
-        //……后续业务操作
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当 Service 层的 queryOne 方法抛出 NotFoundException 时，Graceful Response 会进行异常捕获，并将 NotFoundException 对应的异常码和异常信息封装到统一的响应对象中，最终接口返回以下 JSON 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": "1404",
-    "msg": "找不到对象"
-  },
-  "payload": {}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;参数校验&lt;/h2&gt;
-&lt;p&gt;Graceful Response 对 JSR-303 数据校验规范和 Hibernate Validator 进行了增强，Graceful Response 自身不提供参数校验的功能，但是用户使用了 Hibernate Validator 后，Graceful Response 可以通过 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解为参数校验结果提供响应码，并将其统一封装返回。&lt;/p&gt;
-&lt;p&gt;例如以下的 UserInfoQuery 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;@Data
-public class UserInfoQuery {
-    @NotNull(message = "userName is null !")
-    @Length(min = 6, max = 12)
-    @ValidationStatusCode(code = "520")
-    private String userName;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;UserInfoQuery 对象中定义了 @&lt;a href="https://www.v2ex.com/member/NotNull"&gt;NotNull&lt;/a&gt; 和 @&lt;a href="https://www.v2ex.com/member/Length"&gt;Length&lt;/a&gt; 两个校验规则，在未引入 Graceful Response 的情况下，会直接抛出异常；&lt;/p&gt;
-&lt;p&gt;在引入 Graceful Response 但是没有加入 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解的情况下，会以默认的错误码进行返回；&lt;/p&gt;
-&lt;p&gt;在上面的 UserInfoQuery 中由于使用了 @&lt;a href="https://www.v2ex.com/member/ValidationStatusCode"&gt;ValidationStatusCode&lt;/a&gt; 注解，并指定异常码为 520 ，则当 userName 字段任意校验不通过时，都会使用异常码 520 进行返回，如下。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": "520",
-    "msg": "userName is null !"
-  },
-  "payload": {}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;而对于 Controller 层直接校验方法入参的场景，Graceful Response 也进行了增强，如以下 Cntroller 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;public class Controller {
-
-  @RequestMapping("/validateMethodParam")
-  @ResponseBody
-  @ValidationStatusCode(code = "1314")
-  public void validateMethodParam(
-          @NotNull(message = "userId 不能为空") Long userId,
-          @NotNull(message = "userName 不能为空") Long userName){
-      //省略业务逻辑
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果该方法入参校验触发了 userId 和 userName 的校验异常，将以错误码 1314 进行返回，如下。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": "1314",
-    "msg": "userId 不能为空"
-  },
-  "payload": {}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;自定义 Response 格式&lt;/h2&gt;
-&lt;p&gt;Graceful Response 内置了两种风格的响应格式，并通过 graceful-response.response-style 进行配置。&lt;/p&gt;
-&lt;p&gt;graceful-response.response-style=0 ，或者不配置（默认情况），将以以下的格式进行返回：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "status": {
-    "code": 1007,
-    "msg": "有内鬼，终止交易"
-  },
-  "payload": {
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;graceful-response.response-style=1 ，将以以下的格式进行返回：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-json"&gt;{
-  "code": "1404",
-  "msg": "not found",
-  "data": {
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果这两种格式均不满足业务需要，Graceful Response 也支持用户自定义响应体，关于自定义响应体的技术实现，请到 &lt;a href="https://github.com/feiniaojin/graceful-response" rel="nofollow"&gt;https://github.com/feiniaojin/graceful-response&lt;/a&gt; 进行了解。&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 16:15:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994341#reply0</guid></item><item><title>[Steam] steam 秋季特卖开始了</title><link>https://www.v2ex.com/t/994340#reply1</link><description>看到好多心仪的游戏都是史低价，虽然比较新的最多只有 20%折扣。大家有什么闭眼买的可以发出来安利一下，电子 ED 虽说不一定玩但必须得拥有！</description><pubDate>Wed, 22 Nov 2023 15:45:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994340#reply1</guid></item><item><title>[Apple] 突发奇想，如果用 Mac mini+ Linux +外挂硬盘，这样的组合是否能用来当 nas？</title><link>https://www.v2ex.com/t/994339#reply1</link><description>如题，现在 Asahi Linux 对 M1 系列的适配已经很不错了，所以突发奇想如果用这个组合来当 nas 是否有可行性而且能满足日用+随意折腾的需求（不计成本什么的，就图一乐）</description><pubDate>Wed, 22 Nov 2023 15:41:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994339#reply1</guid></item><item><title>[问与答] 有没有人分享下 Ubuntu touch 的体验？</title><link>https://www.v2ex.com/t/994338#reply1</link><description>最近关注到 Ubuntu touch ，感觉很有意思。有没有老哥分享一下体验，作为主力手机使用的话有戏吗？流畅度、续航、生态等怎么样？&lt;br /&gt;&lt;br /&gt;最好也推荐下哪些手机刷 Ubuntu touch 比较好。</description><pubDate>Wed, 22 Nov 2023 15:36:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994338#reply1</guid></item><item><title>[问与答] 大家是怎么看待死亡的呢？</title><link>https://www.v2ex.com/t/994337#reply6</link><description>我小时候一直想着自己可以长生不老。后来长大了一点觉得自己的目标变成了赚好多钱，然后拿这些钱成立个机构专门研究怎么实现长生不老。现在这些看起来都几乎不可能实现了，大家是怎么看待死亡的呢？</description><pubDate>Wed, 22 Nov 2023 15:29:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994337#reply6</guid></item><item><title>[Flask] celery 启动报错</title><link>https://www.v2ex.com/t/994336#reply0</link><description>&lt;p&gt;celery 链接阿里云集群版 redis 报错
-redis.exceptions.ResponseError: 'BRPOP' command keys must in same slot
-求大佬们康康&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 15:27:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994336#reply0</guid></item><item><title>[酷工作] [上海/北京][美团]招高级前端开发工程师</title><link>https://www.v2ex.com/t/994335#reply0</link><description>&lt;h2&gt;关键信息&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 23 Nov 2023 02:32:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[生活] 请教下大佬都有什么咖啡日常解决方案</title><link>https://www.v2ex.com/t/994422#reply0</link><description>&lt;p&gt;从高中喝雀巢开始，断断续续喝了好多年。现在觉得速溶第一感觉没什么劲，第二感觉有太多添加剂，第三味道也一般。&lt;/p&gt;
+&lt;p&gt;最近开始习惯日常瑞幸 9.9 。现在因为性价比开始关注考虑日常怎么解决喝咖啡的问题。刚刚入手了摩卡壶，手摇磨打算自己煮。&lt;/p&gt;
+&lt;p&gt;求问下大家一般日常都怎么喝咖啡的？包括但不限于挂耳，手冲，摩卡壶，咖啡机，或者茶什么的也行。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:32:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994422#reply0</guid></item><item><title>[Apple] Apple 官网 Trade In，爱疯派不按时打款</title><link>https://www.v2ex.com/t/994420#reply0</link><description>&lt;p&gt;过程如下&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;公司：美团&lt;/li&gt;
-&lt;li&gt;base 地：优先上海，北京也可以&lt;/li&gt;
-&lt;li&gt;JD 要求：&lt;a href="https://zhaopin.meituan.com/web/position/detail?jobUnionId=2079293705&amp;amp;highlightType=social" rel="nofollow"&gt;高级前端开发工程师-商家端&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;11 月 18 号爱锋派收到并检测手机&lt;/li&gt;
+&lt;li&gt;11 月 19 号通知上传身份证，填写支付宝账号等（声称 1 到 2 个工作日打款），我当天上传&lt;/li&gt;
+&lt;li&gt;11 月 23 号，至今未收到打款。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;补充&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;工作内容：平台型团队，既有业务支撑也有技术项目，业务理解及技术提升两不误&lt;/li&gt;
-&lt;li&gt;欢迎有意向的同学投递简历，会及时回复的，邮件： &lt;a href="mailto:jiangpeng25@meituan.com"&gt;jiangpeng25@meituan.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;有疑问随时留言&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 22 Nov 2023 15:22:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994335#reply0</guid></item><item><title>[OpenAI] 大家的 chatgpt 网页版可以使用吗？</title><link>https://www.v2ex.com/t/994334#reply2</link><description>我今天一直刷新不出来历史记录，提问也不回答。就和前几天挂了一样。请问你们的正常使用吗？</description><pubDate>Wed, 22 Nov 2023 15:17:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994334#reply2</guid></item><item><title>[宽带症候群] OpenWrt 配置 IPv6 wan 接口的正确做法是？</title><link>https://www.v2ex.com/t/994329#reply0</link><description>OpenWrt 新建一个名称为“wanX”的接口，PPPoE 协议，“高级设置 - 获取 IPv6 地址”选自动，这样配置下 wan 拨号成功后会自动生成一个接口名称为“wanX_6”的接口，协议为“虚拟动态接口 (DHCPv6 客户端)”，这种自动生成的 IPv6 wan 接口无法进行编辑设置。&lt;br /&gt;另一种配置方式，新建 PPPoE wanX 接口时“高级设置 - 获取 IPv6 地址”选手动或禁用，然后再手动新建一个 IPv6 wan 接口，协议：DHCPv6 客户端，设备选“接口别名：@wanX”，这种 IPv6 wan 接口可以进行编辑设置。&lt;br /&gt;（上面所说 IPv6 wan 接口的编辑设置，其中一个设置项是网关跃点，但 IPv6 wan 的网关跃点貌似在 OpenWrt 里不起作用？）&lt;br /&gt;两种配置 IPv6 均可正常使用，请问哪种才是正确的配置做法？</description><pubDate>Wed, 22 Nov 2023 14:29:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994329#reply0</guid></item><item><title>[Docker] container 内部如何 ping 通宿主机 ip？</title><link>https://www.v2ex.com/t/994325#reply3</link><description>&lt;p&gt;之前用 docker 弄了一堆服务，端口分别映射到了宿主机的端口上，这样在内网可以用 http 直接访问。&lt;/p&gt;
-&lt;p&gt;然后用 nginx proxy manager ，把这些宿主机的 http 端口转成了 https 再暴露到公网上访问，跑了一年都没问题。&lt;/p&gt;
-&lt;p&gt;昨天也不知道为什么突然 https-http 不通了，查了一下发现是因为在 nginx proxy manger 这个 container 内部无法 ping 通宿主机 IP ，所以每个 upstream 都超时了。&lt;/p&gt;
-&lt;p&gt;我有点茫然了，容器是跑的默认网络模式，前面一年明明可以访问宿主机 ip 的，怎么突然不行了。要怎么才能在宿主机内部 ping 通宿主机 ip ？&lt;/p&gt;
-&lt;p&gt;试过 network_mode: host 居然也不行，不知道啥情况了。我贴一下原来的 docker compose file:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;version: "3.8"
-services:
-  nginx-proxy-manager:
-    image: jc21/nginx-proxy-manager:2.10.4
-    restart: unless-stopped
-    ports:
-      - 9000:80
-      - 443:443 # Public HTTPS Port
-      - 8007:81 # Admin Web Port
-    environment:
-      DISABLE_IPV6: 'true'
-    volumes:
-      - ./data:/data
-      - ./letsencrypt:/etc/letsencrypt&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 22 Nov 2023 14:18:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994325#reply3</guid></item><item><title>[问与答] 有关于 invizible 的设置教程吗？</title><link>https://www.v2ex.com/t/994324#reply0</link><description></description><pubDate>Wed, 22 Nov 2023 14:09:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994324#reply0</guid></item><item><title>[程序员] 《如何搭建自己的 STUN 服务器》</title><link>https://www.v2ex.com/t/994322#reply0</link><description>&lt;a href="https://mp.weixin.qq.com/s/cQgli4y-sLNg918MKW8D0g" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/cQgli4y-sLNg918MKW8D0g&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;STUN 服务器的作用是让 内网的机器能获取到自己在公网上对应的 UDP 通道信息。</description><pubDate>Wed, 22 Nov 2023 14:03:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994322#reply0</guid></item><item><title>[物联网] 求一款支持 Google Home 的温湿度传感器</title><link>https://www.v2ex.com/t/994321#reply7</link><description>求一款支持 Google Home 的温湿度传感器，可以 WiFi ，也可以蓝牙连接（不要网关直连 Google Nest ）。设备是 Google Nest Mini 。</description><pubDate>Wed, 22 Nov 2023 13:48:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994321#reply7</guid></item><item><title>[酷工作] [深圳] 字节跳动飞书在线表格 &amp; 幻灯片招聘，海量前端 HC</title><link>https://www.v2ex.com/t/994320#reply0</link><description>&lt;h2&gt;介绍&lt;/h2&gt;
-&lt;p&gt;作为一名前端开发者，你是否对新技术充满热情，并且乐于使用最新的工具和框架来打造出色的用户体验？如果是，那么飞书在线表格&amp;amp;幻灯片团队正在寻找你！&lt;/p&gt;
-&lt;p&gt;我们是一个充满活力的团队，致力于打造一个功能强大、用户友好的在线表格和幻灯片平台。我们的产品已经在市场上得到了广泛的认可，并且正在不断发展壮大。&lt;/p&gt;
-&lt;h2&gt;职位要求&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;工作经验一年起，学历本科起&lt;/li&gt;
-&lt;li&gt;熟悉 HTML 、CSS 和 JavaScript 等前端开发技术&lt;/li&gt;
-&lt;li&gt;具备良好的前端架构能力，能独立完成前端模块的设计和开发&lt;/li&gt;
-&lt;li&gt;熟悉至少一种前端框架（如 React 、Vue 等）&lt;/li&gt;
-&lt;li&gt;具备良好的沟通能力和团队合作精神&lt;/li&gt;
-&lt;li&gt;有开发过工具产品的经验优先，大厂背景优先&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;福利待遇&lt;/h2&gt;
-&lt;p&gt;优厚薪资，六险一金，弹性工作，免费三餐，租房补贴，打车补贴，带薪休假，休闲下午茶+不间断咖啡零食供应，扁平管理，免费健身房，专业大牛多，晋升空间大，团队氛围好。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;如果你对这个机会感兴趣，以下是内推链接，打开直接发送简历：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://jobs.bytedance.com/referral/mobile/position/detail/?token=MjsxNjk4NzQ3MTIwNTQzOzY3MzA3NzcxNjAyOTYzMDIwOTQ7NzE2NDcwNzc4MDA3NDI0NDM2MDsx" rel="nofollow"&gt;前端开发工程师-飞书文档-演示文档方向 - ByteDance&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://jobs.bytedance.com/referral/position/detail/?token=MjsxNjk4NzQ3MTQ2NTkxOzY3MzA3NzcxNjAyOTYzMDIwOTQ7NzI5NjA2MjQ2MTY4NTQzNDY3NDsx" rel="nofollow"&gt;前端开发工程师-飞书文档-云表格 - ByteDance&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;详细介绍： &lt;a href="https://bytedance.larkoffice.com/docx/Ddx6dJIbRoo9lyxTm3fctwrAnKb" rel="nofollow"&gt;https://bytedance.larkoffice.com/docx/Ddx6dJIbRoo9lyxTm3fctwrAnKb&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;也可以邮箱联系 ruiming.zhuang#&lt;a href="http://gmail.com" rel="nofollow"&gt;gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://us1.myximage.com/2023/11/07/5d2f717ae5a140289ce9c942b4dcc03e.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://us1.myximage.com/2023/11/07/0ee54bc10a15edbd0b3d718557fdde65.png" /&gt;&lt;/p&gt;
-&lt;p&gt;内推成功入职发大红包，大家如果有合适的人选可以帮忙推荐下。&lt;/p&gt;
-&lt;p&gt;业务是重前端场景，涉及编辑器、渲染引擎、架构、性能、AI 等领域，非常有挑战性。&lt;/p&gt;
-&lt;p&gt;部门有 10+ HC ，欢迎大家投递。&lt;/p&gt;
-&lt;p&gt;我所在的业务是飞书演示文档，有想了解的也可以直接问或邮箱联系我～&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:44:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994320#reply0</guid></item><item><title>[Python] 自己一个写的使用 selenium 循环下拉爬去推特用户所有静态资源工具</title><link>https://www.v2ex.com/t/994318#reply1</link><description>&lt;p&gt;&lt;a href="https://github.com/kaixinol/twitter_user_tweet_crawler" rel="nofollow"&gt;https://github.com/kaixinol/twitter_user_tweet_crawler&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;主要的亮点就是注入了改造的 javascript 代码，使其可以解析视频的原始链接&lt;/p&gt;
-&lt;p&gt;求点 star&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:35:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994318#reply1</guid></item><item><title>[OpenAI] ChatGPT 的 prompt 好难写。</title><link>https://www.v2ex.com/t/994317#reply6</link><description>&lt;p&gt;RT.&lt;/p&gt;
-&lt;p&gt;最近在玩 assistant api, 让 ai 按照指定 json 格式返回结果，但 ai 不能总按照预期返回。&lt;br /&gt;
-经常会在返回的 json 数据前后加上一些描述性的文字。&lt;br /&gt;
-给它的指令也不总是按照预期执行。&lt;/p&gt;
-&lt;p&gt;如果是把 ai 的结果直接给用户看还好，如果没有按照预期执行用户可以再次指定任务，&lt;br /&gt;
-但是如果是把返回的结果和现有系统集成，会因为 ai 返回的不确定性导致集成难度上升。&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:32:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994317#reply6</guid></item><item><title>[程序员] 悠长 求解决 iPhone Safari 浏览器问题</title><link>https://www.v2ex.com/t/994315#reply0</link><description>&lt;p&gt;折腾一个星期了不知道为什么别的网站都没事儿就这个百度会这样。缓存什么的都清理了还是不行，强迫症很难受。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/FH45w3mA.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/U47znb7U.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:17:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994315#reply0</guid></item><item><title>[云计算] 有没有大佬会把这个脚本改成 python3.9 + ansible2.9.27 的，求 i 求了</title><link>https://www.v2ex.com/t/994314#reply3</link><description>#!/usr/bin/env python&lt;br /&gt;# coding=utf-8&lt;br /&gt;import os&lt;br /&gt;import sys&lt;br /&gt;libpath = os.path.join(os.path.dirname(__file__),'lib')&lt;br /&gt;sys.path.insert(0,libpath)&lt;br /&gt;from ansible import playbook, callbacks&lt;br /&gt;import logging&lt;br /&gt;import pprint&lt;br /&gt;import time&lt;br /&gt;DT=time.strftime('%Y%m%d')&lt;br /&gt;TM=time.strftime('%H')&lt;br /&gt;#import xlsxwriter&lt;br /&gt;#workbook = xlsxwriter.Workbook('array_formula.xlsx')&lt;br /&gt;def myprint(color,mes):&lt;br /&gt;    """&lt;br /&gt;    用于打印颜色&lt;br /&gt;    :param color: 颜色&lt;br /&gt;    :param mes: 打印内容&lt;br /&gt;    :return: 没有返回&lt;br /&gt;    """&lt;br /&gt;    """&lt;br /&gt;    30:    黑色&lt;br /&gt;    31:    红色&lt;br /&gt;    32:    绿色&lt;br /&gt;    33:    黄色&lt;br /&gt;    34:    蓝色&lt;br /&gt;    35:    紫色&lt;br /&gt;    36:    深绿色&lt;br /&gt;    37:    白色&lt;br /&gt;&lt;br /&gt;    """&lt;br /&gt;&lt;br /&gt;    info = {'red':31, 'green': 32, 'yellow':33, 'blue':34,'dark_green':36,'default':37}&lt;br /&gt;    if color in info:&lt;br /&gt;        fore = info[color]&lt;br /&gt;    else:&lt;br /&gt;        fore = 37&lt;br /&gt;    color = "\x1B[%d;%dm" % (1,fore)&lt;br /&gt;    print("%s%s\x1B[0m" % (color,mes))&lt;br /&gt;&lt;br /&gt;class LoggingCallbacks(callbacks.PlaybookCallbacks):&lt;br /&gt;    def log(self, level, msg, *args, **kwargs):&lt;br /&gt;        logging.log(level, msg, *args, **kwargs)&lt;br /&gt;        print msg&lt;br /&gt;    def on_task_start(self, name, is_conditional):&lt;br /&gt;        #self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, 'task: {0}'.format(name))&lt;br /&gt;        #super(LoggingCallbacks, self).on_task_start(name, is_conditional)&lt;br /&gt;        #la.append('name')&lt;br /&gt;        resall=u'TASK:'+name+'*'*40+'\n'&lt;br /&gt;        myprint("default",resall) &lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'a') as f:&lt;br /&gt;          f.write(resall) &lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(resall) &lt;br /&gt;class LoggingRunnerCallbacks(callbacks.PlaybookRunnerCallbacks):&lt;br /&gt;    def log(self, level, msg, *args, **kwargs):&lt;br /&gt;        logging.log(level, msg, *args, **kwargs)&lt;br /&gt;&lt;br /&gt;    def _on_any(self, level, label, host, orig_result):&lt;br /&gt;        result = orig_result.copy()&lt;br /&gt;        result.pop('invocation', None)&lt;br /&gt;        result.pop('verbose_always', True)&lt;br /&gt;        item = result.pop('item', None)&lt;br /&gt;        if not result:&lt;br /&gt;            msg = ''&lt;br /&gt;        elif len(result) == 1:&lt;br /&gt;            msg = ' | {0}'.format(result.values().pop())&lt;br /&gt;        else:&lt;br /&gt;            msg = '\n' + pprint.pformat(result)&lt;br /&gt;        if item:&lt;br /&gt;            self.log(level, '{0} (item={1}): {2}{3}'.format(host, item, label, msg))&lt;br /&gt;        else:&lt;br /&gt;            self.log(level, '{0}: {1}{2}'.format(host, label, msg))&lt;br /&gt;&lt;br /&gt;    def on_failed(self, host, res, ignore_errors=False):&lt;br /&gt;        if ignore_errors:&lt;br /&gt;            level = &lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;&lt;br /&gt;            label = 'FAILED (ignored)'&lt;br /&gt;        else:&lt;br /&gt;            level = logging.ERROR&lt;br /&gt;            label = 'FAILED'&lt;br /&gt;        self._on_any(level, label, host, res)&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_failed(host, res, ignore_errors)&lt;br /&gt;        resall=host+ u'\nFAILED:\n{0}'+format(res['stderr'])&lt;br /&gt;        myprint("red",resall)&lt;br /&gt;        myprint("red",res['stdout']+'\n'+'\n')&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;           f.write(resall)  &lt;br /&gt;           f.write(res['stdout']+'\n'+'\n') &lt;br /&gt;    def on_ok(self, host, res):&lt;br /&gt;        #self._on_any(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, 'SUCCESS', host, res)&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_ok(host, res)&lt;br /&gt;        #print host,res&lt;br /&gt;        resall=host+ u'\n'+format(res['stdout']) &lt;br /&gt;        myprint("green",resall)&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'a') as f:&lt;br /&gt;          f.write(resall+'\n')  &lt;br /&gt;    def on_error(self, host, msg):&lt;br /&gt;        self.log(logging.ERROR, '{0}: ERROR | {1}'.format(host, msg))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_error(host, msg)&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(str(host)+'\n')  &lt;br /&gt;          f.write(str(msg)+'\n') &lt;br /&gt;    def on_skipped(self, host, item=None):&lt;br /&gt;        if item:&lt;br /&gt;            self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, '{0} (item={1}): SKIPPED'.format(host, item))&lt;br /&gt;        else:&lt;br /&gt;            self.log(&lt;a href="http://logging.INFO" rel="nofollow noopener" target="_blank"&gt;logging.INFO&lt;/a&gt;, '{0}: SKIPPED'.format(host))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_skipped(host, item)&lt;br /&gt;    def on_unreachable(self, host, res):&lt;br /&gt;        #self._on_any(logging.ERROR, 'UNREACHABLE', host, dict(unreachable=res))&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_unreachable(host, res)&lt;br /&gt;        resall=host+ u'\nERROR:CONNECT FAILD:\n{0}\n'+format(res) &lt;br /&gt;        myprint("red",resall+'\n')&lt;br /&gt;        with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'a') as f:&lt;br /&gt;          f.write(resall+'\n')  &lt;br /&gt;    def on_no_hosts(self):&lt;br /&gt;        self.log(logging.ERROR, 'No hosts matched')&lt;br /&gt;        super(LoggingRunnerCallbacks, self).on_no_hosts()&lt;br /&gt;def run_playbook(name):&lt;br /&gt;    if not os.path.exists('/root/ans/log/'+DT):&lt;br /&gt;        os.mkdir('/root/ans/log/'+DT)&lt;br /&gt;    with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-ok.txt', 'w') as f:&lt;br /&gt;    	  f.write('Today is '+DT+'  Let the check begin'+'\n\n')&lt;br /&gt;    with open('/root/ans/log/'+DT+'/'+TM+'-'+sys.argv[1]+'-error.txt', 'w') as f:&lt;br /&gt;        f.write('Today is '+DT+'  Let the check begin'+'\n\n')  &lt;br /&gt;    stats = callbacks.AggregateStats()&lt;br /&gt;    playbook_cb = LoggingCallbacks(verbose=3)&lt;br /&gt;    runner_cb = LoggingRunnerCallbacks(stats, verbose=3)&lt;br /&gt;&lt;br /&gt;    pb = playbook.PlayBook(&lt;br /&gt;        playbook=name,&lt;br /&gt;        stats=stats,&lt;br /&gt;        callbacks=playbook_cb,&lt;br /&gt;        runner_callbacks=runner_cb,&lt;br /&gt;        )&lt;br /&gt;    &lt;a href="http://pb.run" rel="nofollow noopener" target="_blank"&gt;pb.run&lt;/a&gt;()&lt;br /&gt;&lt;br /&gt;if __name__ == "__main__":&lt;br /&gt;  run_playbook(sys.argv[1])</description><pubDate>Wed, 22 Nov 2023 13:12:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994314#reply3</guid></item><item><title>[健康] 种个牙要 17k,肉疼, 想拖延几年再种,不知道为此损失的牙槽骨会增加多少骨粉钱?</title><link>https://www.v2ex.com/t/994313#reply6</link><description>&lt;p&gt;已经矫正了,带着金属牙套来保持临近牙齿不会再歪.&lt;/p&gt;</description><pubDate>Wed, 22 Nov 2023 13:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994313#reply6</guid></item><item><title>[程序员] 为啥别人都是年薪几十万</title><link>https://www.v2ex.com/t/994312#reply7</link><description>java 程序员在一个软件公司工作三年了工资极低年薪十多万，在北京。&lt;br /&gt;&lt;br /&gt;感觉在同龄中工资不算低，但是也不高。但是看网络上都是几十上百万的，求教导。如何赚钱。</description><pubDate>Wed, 22 Nov 2023 13:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994312#reply7</guid></item></channel></rss>
+&lt;p&gt;Apple 客服叫我耐心等待
+爱疯派客服打不通。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:29:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994420#reply0</guid></item><item><title>[NAS] 群晖 DS423+上 VMM 安装 openwrt 内网主机无法访问 openwrt 问题</title><link>https://www.v2ex.com/t/994419#reply0</link><description>&lt;p&gt;目前 DS423+上接了两条网线到交换机上做的 bond1 ，SLB 模式，访问一直都正常。
+想再 nas 上装个 openwrt 做旁路有，在 vmm 上创建虚机后，并且也打开了 open vswtich ，slb 模式，虚机网络用的默认 Default VM Network ，openwrt 启动后修改 IP 和 NAS 同网段，在 openwrt 上 ping 网关可以通，但是通过内网主机访问 openwrt 上的 IP 不通，并且在路由器上也没看到 openwrt IP 或者 mac 地址的终端上线，求助大家。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:26:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994419#reply0</guid></item><item><title>[Telegram] 解决部分手机注册 telegram 不能接收验证码的问题</title><link>https://www.v2ex.com/t/994418#reply0</link><description>&lt;p&gt;发现很多 V 友也有注册 telegram 收不到验证码的问题，这里分享一下自己解决这个问题的办法，可能不适用于所有人。&lt;/p&gt;
+&lt;p&gt;首先我得手机是华为手机，不知道是否适用于苹果。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在应用市场搜索下载 [出境易] &lt;/li&gt;
+&lt;li&gt;在 [出境易]  APP 内安装注册 telegram ，在这里注册一般都能接收到验证码&lt;/li&gt;
+&lt;li&gt;在 PC 端下载安装 telegram&lt;/li&gt;
+&lt;li&gt;使用 [出境易]  APP 内安装的 telegram 扫描登录 PC 端 telegram ，这就完成了 PC 端 telegram 的登录&lt;/li&gt;
+&lt;li&gt;然后卸载 [出境易] &lt;/li&gt;
+&lt;li&gt;手机安装 telegram ，输入手机号码，等待验证码&lt;/li&gt;
+&lt;li&gt;PC 端 telegram 会接受到验证码，然后在手机上输入&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望可以帮助一些小伙伴 ~&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:22:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994418#reply0</guid></item><item><title>[问与答] 非常好奇闲置平台的美团钻石会员体验卡是哪里来的？</title><link>https://www.v2ex.com/t/994417#reply0</link><description>量大，新老用户还都不限制，这是有什么渠道么？？</description><pubDate>Thu, 23 Nov 2023 02:22:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994417#reply0</guid></item><item><title>[问与答] 现在个人寄快递没有什么更优惠的方式吗？</title><link>https://www.v2ex.com/t/994416#reply1</link><description>&lt;p&gt;突然寄快递也挺贵的， 用菜鸟裹裹寄两本书给朋友，一个长沙一个深圳，杭州出发邮费要 24 元。&lt;/p&gt;
+&lt;p&gt;emmm 有什么更好的方式或者渠道吗？（合法合规）&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:22:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994416#reply1</guid></item><item><title>[问与答] 亮亮丽君夫妇被殴打后离开郑州回老家。有郑州的 v2 可以分享分享那边的情况吗？</title><link>https://www.v2ex.com/t/994415#reply0</link><description></description><pubDate>Thu, 23 Nov 2023 02:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994415#reply0</guid></item><item><title>[程序员] 你们会有收集自己做过的需求的习惯吗</title><link>https://www.v2ex.com/t/994414#reply1</link><description>&lt;p&gt;每个月都有几个需求，想把自己做需求时候收集的信息都放在一起收集起来，现在自己有个想法做个导航页，比如标题是 jira 的需求号，点进去之后是各种关联信息。想知道市面有这种工具么，公司用 confulence 语雀 飞书 自己用 notion 有道云，感觉都不太好，notion 必须得翻墙联网 有道云笔记记着记着就乱了&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:20:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994414#reply1</guid></item><item><title>[分享创造] OfficeTranslator : 基于 ChatGPT 的 PDF / DOCX / PPTX / XLSX / EPUB / SRT 的文档翻译工具, 赠送积分</title><link>https://www.v2ex.com/t/994413#reply0</link><description>网站地址: &lt;a href="https://officetranslator.com/" rel="nofollow noopener" target="_blank"&gt;https://officetranslator.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;目前支持翻译的格式：&lt;br /&gt;- 办公文档（ Word 、Excel 、PPT ）和电子书（ Epub ）可以完整地保留原文格式。&lt;br /&gt;- 游戏文本（ MTool 导出的 ManualTransFile.json ）是专为日文游戏文本优化的。&lt;br /&gt;- 游戏文本（ XUnity.AutoTranslator 导出的 TXT 文件）是专为日文游戏文本优化的。&lt;br /&gt;- PDF 可以保留大部分格式，翻译成中文应该比 DeepL 或 Google 翻译的效果更好。&lt;br /&gt;- 字幕（ SRT ）, 双语翻译并输出。&lt;br /&gt;- PO 文件&lt;br /&gt;- TXT 文件&lt;br /&gt;- HTML 文件&lt;br /&gt;- JSON 文件: 支持通用的 JSON 字符串值的翻译&lt;br /&gt;- ZIP 文件：支持批量翻译的需求(格式上支持除 PDF 外的以上文件类型)&lt;br /&gt;  - 静态网站的整体翻译&lt;br /&gt;  - 多个字幕文件的整体翻译&lt;br /&gt;  - 多个 PO 文件的整体翻译&lt;br /&gt;  - 多个办公文档的整体翻译&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;上线三个月，&lt;br /&gt;- 第一个月经常熬夜解决各种 PDF 格式的问题，比如字体、颜色、定位和旋转等(是个大坑, 还好大部分问题解决了)。&lt;br /&gt;- 第二个月投点了 Google Ads ，在不断完善功能的同时，用户的支付比率也慢慢提高了。盈利终于开始逐渐覆盖了各种成本。&lt;br /&gt;- 第三个月继续优化各种翻译上的小问题，而且用户的传播速度似乎也在加快。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;目前已翻译文档 20K+，累计用户达到 5K+.&lt;br /&gt;&lt;br /&gt;在此稍微庆祝一下，赠送 6 个积分（大概 1~2 篇小论文）, 有翻译需求的朋友可以试用下.&lt;br /&gt;&lt;br /&gt;- 使用方式: 在 &lt;a href="https://officetranslator.com/my/credits" rel="nofollow noopener" target="_blank"&gt;https://officetranslator.com/my/credits&lt;/a&gt; 界面输入促销码 V2EX6&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;好用的话欢迎到以下链接点赞或 Follow, 谢谢&lt;br /&gt;&lt;br /&gt;知乎: &lt;a href="https://zhuanlan.zhihu.com/p/653353003" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/653353003&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ProductHunt: &lt;a href="https://www.producthunt.com/products/office-translator" rel="nofollow noopener" target="_blank"&gt;https://www.producthunt.com/products/office-translator&lt;/a&gt;</description><pubDate>Thu, 23 Nov 2023 02:20:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994413#reply0</guid></item><item><title>[问与答] 用人单位单方面解除劳动合同，可以拿到 2n 吗</title><link>https://www.v2ex.com/t/994412#reply3</link><description>如果被通知，本月月底离职，可以拿到 2n 或者 2n+1 吗，公司说不符合 2n ，只给 n ，最多 n+1 ，在没有工作问题的情况下，被用人单位单方面解除劳动合同，到底能拿多少补偿呢？ 大佬们有没有遇到过的～解解惑～</description><pubDate>Thu, 23 Nov 2023 02:19:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994412#reply3</guid></item><item><title>[远程工作] 跨境远程工作的收款问题</title><link>https://www.v2ex.com/t/994411#reply3</link><description>现在有一个全职远程可以接，想问问过来人的经验，现在有几个问题想确认下：&lt;br /&gt;1. 这个公司会直接打款到我的国内银行账号，按照当地货币当天的汇率转换为人民币，以人民币给我，这样的话有可能被拒收吗，网上说的那些国外银行转账国内被拒是因为转当地货币被拒还是就是因为来自国外的汇款？&lt;br /&gt;2. 如果被银行拒收，提供雇佣合同这些去证明会麻烦吗？&lt;br /&gt;3. 万一做了，但是没有收到工资汇款，有没有这种被骗的可能，请有跨境远程经验的人指点下</description><pubDate>Thu, 23 Nov 2023 02:19:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994411#reply3</guid></item><item><title>[路由器] 你们的路由器修改端口映射后会掉线一秒吗</title><link>https://www.v2ex.com/t/994410#reply0</link><description>&lt;p&gt;我用的是小米路由器，经常通过 RDP 远程连接回家中电脑，每次修改路由器端口映射例如&lt;strong&gt;新增一个映射端口后，RDP 都会立即断开&lt;/strong&gt;，立马重连则又恢复。估计是路由器配置修改，导致路由器内部某种重启。&lt;/p&gt;
+&lt;p&gt;不知道是不是只有小米路由器才会这样，有人帮测下吗？是正常的吗？如果别的路由器不会这样，准备换别的路由器了。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:19:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994410#reply0</guid></item><item><title>[问与答] chatgpt 安卓应用打不开，报错提示设备时间不对，有没有人有解决方案？</title><link>https://www.v2ex.com/t/994409#reply1</link><description>&lt;p&gt;chatgpt 安卓应用打不开，报错提示设备时间不对，之前已经更新过 google play 与 google service ，清空过数据，一直报这个错误。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:18:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994409#reply1</guid></item><item><title>[Apple] ios 可以使用哪些加密 dns</title><link>https://www.v2ex.com/t/994407#reply3</link><description>请问 ios 可以使用哪些加密 dns 服务？&lt;br /&gt;&lt;br /&gt;doh 、dot 、doq 。免费付费的都可以。</description><pubDate>Thu, 23 Nov 2023 02:13:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994407#reply3</guid></item><item><title>[问与答] 在闲鱼上买升降桌收到了一个型号和描述不符的</title><link>https://www.v2ex.com/t/994406#reply2</link><description>事情是这样的：我在闲鱼的一个鱼小铺上买了个升降桌（本来是想淘个二手放公司，但在闲鱼逛着看到有包邮的，还全新）。结果发了一个和商品描述的型号完全不一样的升降桌过来。我第一反应是卖家欺诈。沟通中卖家态度很差，他的意思是他图片实拍中包装上有个应该是内部物流的贴纸，贴纸上面标明了升降桌的真实型号。而商品描述的型号是瞎写的。我也有点懵了，我也闹不清楚这个卖家是故意的还是不上心。&lt;br /&gt;    后来我就走申诉了，各自举证，晚上的时候卖家突然同意（是不是小二会跟卖家单独沟通？）退货，但是运费不肯承担。刚通过客服了解了一下，闲鱼这里是退货之后还要另外申请退运费，可想而知又要掰扯一番。卖家又威胁说要拒收退货。和卖家沟通的过程中（其实也没说几句话）又被人身攻击。&lt;br /&gt;&lt;br /&gt;    虽然很气愤，但是我在想理性的做法是不是就算了，不要退货了。估计两个型号的差价可能就几十块钱，之前被人身攻击，被欺诈也好也过去了。主要是不想再费心力和时间不想再寄快递，和卖家掰扯，以及走闲鱼的流程，及时止损。&lt;br /&gt;    另外又想了想，在闲鱼上是不是应该只买个人买家的东西？印象中之前在闲从没有遇到过纠纷。买这种非卖家个人自用的东西是否还是得在电商平台（哪怕拼多多）上买？</description><pubDate>Thu, 23 Nov 2023 02:13:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994406#reply2</guid></item><item><title>[问与答] 求助, Hexo 生成的网站地图无法被 Google Search Console 读取怎么办?</title><link>https://www.v2ex.com/t/994405#reply2</link><description>一个 hexo 博客站点, 使用 hexo-generator-sitemap 生成的 sitemap, 在 Google Search Console 显示"无法读取此站点地图", 但是 bing 却可以成功读取.</description><pubDate>Thu, 23 Nov 2023 02:11:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994405#reply2</guid></item><item><title>[问与答] 想问问少儿编程教师这行准入门槛如何，适合 CS 专业的吗</title><link>https://www.v2ex.com/t/994403#reply3</link><description>&lt;p&gt;22 年在某中下 985 毕业的 CS 本科，大学期间除了课本上的东西基本上没有学什么其他的，混到毕业了 23 年考研也没有考上。&lt;br /&gt;
+然后自己莫名其妙 gap 了一年现在想找工作（很羞愧）。&lt;br /&gt;
+思考了一下自己的现状，在大学期间没有很好的项目经历，也没有像样的实习经历，只能说大学期间的成绩不算很差（绩点 3.4 左右），现在如果硬找类似前后端的工作貌似会比较困难。&lt;br /&gt;
+我这种情况能够胜任少儿编程教师这行吗，自己的了解不是很多。想向各位大佬问问意见。&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:09:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994403#reply3</guid></item><item><title>[前端开发] 这前端效果是不是有点逆天了</title><link>https://www.v2ex.com/t/994402#reply7</link><description>&lt;p&gt;&lt;a href="https://twitter.com/_nonfigurativ_/status/1727322594570027343" rel="nofollow"&gt;https://twitter.com/_nonfigurativ_/status/1727322594570027343&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:09:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994402#reply7</guid></item><item><title>[问与答] 自行车防盗定位有没有什么手段</title><link>https://www.v2ex.com/t/994401#reply0</link><description>首先排除 airtag ，没有苹果手机</description><pubDate>Thu, 23 Nov 2023 02:08:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994401#reply0</guid></item><item><title>[分享创造] 开源且免费的效率工具 Rubick 来了🎉</title><link>https://www.v2ex.com/t/994399#reply4</link><description>&lt;blockquote&gt;
+&lt;p&gt;不知不觉，&lt;code&gt;Rubick&lt;/code&gt; 从 2021 年开源到现在已经更新到 &lt;code&gt;v4.x&lt;/code&gt; 版本了，目前整体来看不管是交互形式还是操作便捷性，都达到了一个比较稳定的状态。所以，现在我准备正式的写一篇文章来介绍一下 &lt;code&gt;Rubick&lt;/code&gt; 了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Rubick 是什么？&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb8fdee9c3e64657b3690500cbd61519%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=904&amp;amp;h=179&amp;amp;s=25344&amp;amp;e=png&amp;amp;b=fafafa" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Rubick&lt;/code&gt; 是一款基于 &lt;code&gt;Electron&lt;/code&gt; 做的开源、免费桌面端效率工具箱；目标是通过一系列辅助插件解决工作、学习、开发上的效率问题。可以把 &lt;code&gt;Rubick&lt;/code&gt; 理解成一个微信 &lt;code&gt;App&lt;/code&gt;，插件就是基于微信做的 &lt;code&gt;小程序&lt;/code&gt;。不过微信的功能主要是 &lt;code&gt;聊天&lt;/code&gt;；而 &lt;code&gt;Rubick&lt;/code&gt; 功能主要是 &lt;code&gt;效率工具&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/rubickCenter/rubick/" rel="nofollow"&gt;Rubick github 仓库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubick.vip/" rel="nofollow"&gt;Rubick 官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubickcenter.github.io/docs/" rel="nofollow"&gt;Rubick github 使用手册&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Rubick 有哪些核心功能？&lt;/h2&gt;
+&lt;h3&gt;1. 搜索系统应用&lt;/h3&gt;
+&lt;p&gt;快捷键 &lt;code&gt;Alt/Option + R&lt;/code&gt; 在 &lt;code&gt;Rubick&lt;/code&gt; 搜索框内，输入想要搜索的应用，可以快速检索匹配出相关内容。支持模糊搜索和拼音搜索：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d01b410eb9de4c52aeb0431cb2636cf8%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=600&amp;amp;h=469&amp;amp;s=602808&amp;amp;e=gif&amp;amp;f=36&amp;amp;b=f8f8f8" /&gt;&lt;/p&gt;
+&lt;h3&gt;2. 安装使用插件&lt;/h3&gt;
+&lt;p&gt;点击 &lt;code&gt;Rubick&lt;/code&gt; 搜索框最左侧的 logo 图标，可以进入插件市场，选中需要的插件安装后，可以查看到插件的&lt;code&gt;关键词&lt;/code&gt;（关键词是进行搜索匹配用的）。如需使用插件，只需要在搜索框内输入相关的关键词，即可匹配使用插件。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="QQ20231106-102252-HD (1).gif" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d094a884f8a645dfbb21644094e90be6%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=600&amp;amp;h=465&amp;amp;s=993478&amp;amp;e=gif&amp;amp;f=70&amp;amp;b=e6e6e3" /&gt;&lt;/p&gt;
+&lt;p&gt;目前 &lt;code&gt;Rubick&lt;/code&gt; 中的插件大多是从 &lt;code&gt;github&lt;/code&gt; 开源的插件中迁移过来的，如果你想自定义开发插件，那么我们也写好了非常清晰的文档来手把手教你如何写一个最基础的 &lt;code&gt;Rubick&lt;/code&gt; 插件：&lt;a href="https://rubickcenter.github.io/docs/dev/" rel="nofollow"&gt;插件开发&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;如果你开发过 &lt;code&gt;uTools&lt;/code&gt; 插件，想要把插件迁移到 &lt;code&gt;Rubick&lt;/code&gt; 也是非常简便的，可以参考这个文档进行插件迁移：&lt;a href="https://github.com/rubickCenter/rubick/issues/105" rel="nofollow"&gt;uTools 插件迁移到 rubick&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;3. 基于 WebDav 的数据多端同步&lt;/h3&gt;
+&lt;p&gt;如果你有多个电脑使用了 &lt;code&gt;Rubick&lt;/code&gt; 并产生了多份数据，这个时候，如果你需要对数据进行多端同步，那么你应该需要用到多端数据同步这个功能。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Rubick&lt;/code&gt; 多端数据同步功能是基于 &lt;code&gt;WebDav&lt;/code&gt; 实现的，&lt;code&gt;Rubick&lt;/code&gt; 本身不会作为中间商来存储用户的任何数据，用户产生的数据将可以直接存储到用户自己的云盘。因此用户数据安全和隐私将会得到极大的保护。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-mermaid"&gt;erDiagram
+WebDav }|--|{ desktop1 : upload
+WebDav }|--|{ desktop2 : download
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在 &lt;code&gt;Rubick&lt;/code&gt; 中，使用 &lt;code&gt;WebDav&lt;/code&gt; 也是非常简便的：&lt;code&gt;Rubick&lt;/code&gt; 内搜索&lt;code&gt;偏好设置&lt;/code&gt; 进入 &lt;code&gt;账户和设置&lt;/code&gt; -&amp;gt; &lt;code&gt;多端数据同步&lt;/code&gt;；即可对 &lt;code&gt;rubick&lt;/code&gt; 插件使用数据进行 &lt;code&gt;导出&lt;/code&gt; 和 &lt;code&gt;导入&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c8f86a735f1e48dfbd367320d0cb5cf4%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=720&amp;amp;h=540&amp;amp;s=128248&amp;amp;e=png&amp;amp;b=f9f9f9" /&gt;&lt;/p&gt;
+&lt;p&gt;目前 &lt;code&gt;Rubick&lt;/code&gt; 已经内置了 &lt;a href="https://www.jianguoyun.com/" rel="nofollow"&gt;坚果云&lt;/a&gt; 平台的 &lt;code&gt;webdav&lt;/code&gt; 能力，如果你有坚果云账号，可以直接使用坚果云。如果是其他平台或者自建的 &lt;code&gt;webdav&lt;/code&gt; 服务，则需要填一下一下服务器地址。&lt;/p&gt;
+&lt;h3&gt;4. 便捷的内网部署&lt;/h3&gt;
+&lt;p&gt;做 &lt;code&gt;Rubick&lt;/code&gt; 的初衷是因为我在公司内部使用 &lt;code&gt;uTools&lt;/code&gt; 时，需要开发一些个性化插件来满足公司内部的需求，但是插件肯定会产生一些内部数据，这些数据因为安全性是没法发布到 &lt;code&gt;uTools&lt;/code&gt; 外网的。所以插件一定需要在内网使用。&lt;/p&gt;
+&lt;p&gt;所以 &lt;code&gt;Rubick&lt;/code&gt; 解决了这个问题，&lt;code&gt;Rubick&lt;/code&gt; 所有的插件是基于 &lt;code&gt;npm&lt;/code&gt; 进行托管的，&lt;code&gt;Rubick&lt;/code&gt; 提供了让你一键切换源的能力，这样就可以快速便捷的使用内网的插件包，你只需要将你的插件发布到公司 &lt;code&gt;私有 npm&lt;/code&gt; 源上即可。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/250c397524854698a4c771946423e85e%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=800&amp;amp;h=600&amp;amp;s=67843&amp;amp;e=png&amp;amp;b=f9f8f8" /&gt;&lt;/p&gt;
+&lt;p&gt;如果你需要了解 &lt;code&gt;内网部署&lt;/code&gt; 的更多设置，我们也写好了非常详细的文档来帮助你：&lt;a href="https://rubickcenter.github.io/docs/guide/usage.html#%E5%86%85%E7%BD%91%E9%83%A8%E7%BD%B2" rel="nofollow"&gt;内网部署指南&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;和商业软件 uTools 的一些区别&lt;/h2&gt;
+&lt;h3&gt;1. 核心区别&lt;/h3&gt;
+&lt;p&gt;如果你听说过 &lt;a href="https://u.tools/" rel="nofollow"&gt;uTools&lt;/a&gt; ，那你可能会问：这和 &lt;code&gt;uTools&lt;/code&gt; 有啥区别呢？看着很像啊！ 的确，&lt;code&gt;rubick&lt;/code&gt; 的开发初衷就是参考 &lt;code&gt;uTools&lt;/code&gt; 做的。不过，经过我们不懈的努力和迭代，我们已经和 &lt;code&gt;uTools&lt;/code&gt; 有了大量的差异化：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;rubick 所有的插件是基于 &lt;code&gt;npm&lt;/code&gt; 的管理方式，插件发布、安装更加简单、安全。&lt;code&gt;uTools&lt;/code&gt; 则是需要走他们自己的发布审批流，需要收到打 &lt;code&gt;upx&lt;/code&gt; 包。&lt;/li&gt;
+&lt;li&gt;rubick 支持 0 成本一键内网部署，而 &lt;code&gt;uTools&lt;/code&gt; 私有化部署则需要付费。&lt;/li&gt;
+&lt;li&gt;rubick 数据多端同步是基于 &lt;code&gt;webdav&lt;/code&gt; 做的，所有数据都存储到用户自己的网盘中，没有中间人！！更加安全，而 &lt;code&gt;uTools&lt;/code&gt; 是他们自己的服务器。&lt;/li&gt;
+&lt;li&gt;rubick 支持系统插件，这对于&lt;code&gt;todoList&lt;/code&gt;、&lt;code&gt; &lt;/code&gt;超级面板&lt;code&gt;、&lt;/code&gt;超级剪贴板&lt;code&gt;、&lt;/code&gt;取色器&lt;code&gt; 等插件来说体验是最好的&lt;/code&gt;。&lt;code&gt;uTools&lt;/code&gt; 不支持。&lt;/li&gt;
+&lt;li&gt;rubick 支持自定义主题、欢迎语、头像... &lt;code&gt;uTools&lt;/code&gt; 需付费会员。&lt;/li&gt;
+&lt;li&gt;rubick 所有插件都是开源免费、&lt;code&gt;uTools&lt;/code&gt; 部分热门插件需要二次收费。&lt;/li&gt;
+&lt;li&gt;rubick 所有代码全部开源，可以轻松二开！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2. 交互设计上的重构&lt;/h3&gt;
+&lt;p&gt;事情的起因是这样的，刚开始开源的时候，整体的交互和设计大量参考了 &lt;code&gt;uTools&lt;/code&gt; 主要原因是我是一个独立开发者，没有专门的搞过 &lt;code&gt;UI&lt;/code&gt; 交互设计这块，
+但当我发布 &lt;code&gt;rubick 1.0&lt;/code&gt; 版本到社区时，收到了大量的质疑，说我是抄袭 &lt;code&gt;uTools&lt;/code&gt; 的，当时真的是一把辛酸泪。虽说 &lt;code&gt;UI&lt;/code&gt; 布局上是参考了 &lt;code&gt;uTools&lt;/code&gt;
+可是代码确实我一行一行码出来的 😭。我只是想为大家提供一种社区解决方案而已~&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;无奈，我下定决心，有朝一日一定要和 &lt;code&gt;uTools&lt;/code&gt; 在 &lt;code&gt;UI&lt;/code&gt; 上做差异化！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了这个心结，前不久，我外包了一个设计师，需要 &lt;code&gt;￥ 4000&lt;/code&gt; 块钱来设计改版 &lt;code&gt;rubick&lt;/code&gt;。
+可是作为开源项目，实在是囊中羞涩~，于是我在 &lt;code&gt;rubick&lt;/code&gt; 交流群里面发起了一个众筹项目：&lt;/p&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d797a234d26b4122bd2398568a8035cd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=720&amp;amp;h=680&amp;amp;s=296227&amp;amp;e=png&amp;amp;b=f2f2f2" /&gt;
+&lt;p&gt;本以为会石沉大海，但令我感到意外的是不到 1h 就筹够了 2000+ 的金额。 &lt;strong&gt;这里再次致谢所有参与众筹的小伙伴们！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;为了不辜负小伙伴们的期待，在国庆节前，设计师终于给到我新版的交互设计稿。
+&lt;code&gt;2023 年 10 月&lt;/code&gt; 那个国庆节我自己在家加班加点，终于赶在节后，我们发布了 &lt;code&gt;rubick v4&lt;/code&gt; 版本，对整体的交互和设计做了大量改动。🎉 🎉&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;开源的路程真的不容易，这里充满了质疑和坎坷，需要的是坚定的信念和那份热爱开源的心！最后附上 &lt;code&gt;Rubick&lt;/code&gt; 的一些周边：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/rubickCenter/rubick/" rel="nofollow"&gt;Rubick github 仓库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubick.vip/" rel="nofollow"&gt;Rubick 官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://rubickcenter.github.io/docs/" rel="nofollow"&gt;Rubick github 使用手册&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;致谢&lt;/h2&gt;
+&lt;p&gt;所有参与众筹着的名单：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.yuque.com/muwoo/ifugfw/gb1zbpme8zdr65wn#P0Ph" rel="nofollow"&gt;https://www.yuque.com/muwoo/ifugfw/gb1zbpme8zdr65wn#P0Ph&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 23 Nov 2023 02:00:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/994399#reply4</guid></item></channel></rss>
