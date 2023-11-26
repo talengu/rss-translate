@@ -1,89 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 25 Nov 2023 11:12:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Tor browser 够安全吗？</title><link>https://www.v2ex.com/t/995165#reply2</link><description></description><pubDate>Sat, 25 Nov 2023 11:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995165#reply2</guid></item><item><title>[云计算] matrix homeserver 大陸分流加速</title><link>https://www.v2ex.com/t/995164#reply2</link><description>Homeserver 建在海外,大陸用戶連大陸中轉, 海外用戶(主要是 federation 之間的連接)連海外.&lt;br /&gt;&lt;br /&gt;nginx geo 模塊分流配置舉例:&lt;br /&gt;http{&lt;br /&gt;geoip_country /usr/share/GeoIP/GeoIPv6.dat;&lt;br /&gt;server {&lt;br /&gt;  location /.well-known/matrix/server {&lt;br /&gt;  if ( $geoip_country_code = CN ) {&lt;br /&gt;    return 200 '{"m.server": "&lt;a href="http://cn-vps.example.com:12345" rel="nofollow noopener" target="_blank"&gt;cn-vps.example.com:12345&lt;/a&gt;"}';&lt;br /&gt;  }&lt;br /&gt;  return 200 '{"m.server": "&lt;a href="http://homeserver.example.com:12345" rel="nofollow noopener" target="_blank"&gt;homeserver.example.com:12345&lt;/a&gt;"}';&lt;br /&gt; }&lt;br /&gt;  location /.well-known/matrix/client 類似&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;&lt;a href="http://cn-vps.example.com:12345" rel="nofollow noopener" target="_blank"&gt;cn-vps.example.com:12345&lt;/a&gt; 加速方法省略幾萬字, nginx 舉例:&lt;br /&gt;location / alias /usr/share/webapps/element/; #國內 element-web client 加速&lt;br /&gt;location /_matrix/ proxy_pass http://10.0.8.2:8008 synapse 服務器.</description><pubDate>Sat, 25 Nov 2023 10:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995164#reply2</guid></item><item><title>[Java] 在 Java17 以后，如何使用 javassist 去改变 private 方法的字节码？</title><link>https://www.v2ex.com/t/995163#reply0</link><description>&lt;p&gt;如题，9 之后模块化加上反射的限制，好像不太能改变 private 方法了，求大佬指教一下&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 10:40:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995163#reply0</guid></item><item><title>[macOS] macOS 文件自动化工具 Hazel 拼车</title><link>https://www.v2ex.com/t/995162#reply0</link><description>&lt;p&gt;&lt;a href="https://www.noodlesoft.com" rel="nofollow"&gt;Hazel&lt;/a&gt;五人车差二人，买断 93 元。联系:[&lt;a href="https://t.me/HuaDeity" rel="nofollow"&gt;https://t.me/HuaDeity&lt;/a&gt;]&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 10:40:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995162#reply0</guid></item><item><title>[问与答] 苹果手机看国外流媒体 奈飞迪士尼什么的</title><link>https://www.v2ex.com/t/995161#reply3</link><description>苹果手机看国外流媒体 奈飞迪士尼什么的 没有中文 怎么实现实时在线翻译呀 什么软件能实现。求大哥指教。</description><pubDate>Sat, 25 Nov 2023 10:36:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995161#reply3</guid></item><item><title>[问与答] ChatGPT 安卓端提示谷歌商店不是最新版的问题如何解决</title><link>https://www.v2ex.com/t/995160#reply1</link><description>几个月前开始就一直这样，我一直以为是开了梯子不让用，最近才知道只有我不能用。而我的商店已经是最新版了，有人说是节点问题，我都是自己的 vps ，几台机子都不行。。。。应该不是只有我有这个问题吧</description><pubDate>Sat, 25 Nov 2023 10:34:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995160#reply1</guid></item><item><title>[Apple] 美区 Apple One Premier 超大杯 + infuse pro，季付 140</title><link>https://www.v2ex.com/t/995159#reply0</link><description>&lt;p&gt;美区超大杯 Apple One Premier 包含 Music ，Arcade ，TV+，iCloud ，Fitness+，News+，2T iCloud 存储空间（平分每人 333G 共享空间) &lt;/p&gt;
-&lt;p&gt;还包括 infuse pro 订阅&lt;/p&gt;
-&lt;p&gt;季付 140 CNY&lt;/p&gt;
-&lt;p&gt;如果后续汇率或 apple 的订阅价格有调整，会相应调整季度费用&lt;/p&gt;
-&lt;p&gt;纯自用，不挣差价&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 10:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995159#reply0</guid></item><item><title>[分享创造] 我还是那个失业的产品经理，我又写了一个程序： IP 工具箱</title><link>https://www.v2ex.com/t/995158#reply2</link><description>&lt;h2&gt;TLDR&lt;/h2&gt;
-&lt;p&gt;还是在 ChatGPT 和 Github Copilot 的帮助下，我又写了一个 IP 工具箱：&lt;/p&gt;
-&lt;p&gt;主要实现：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 26 Nov 2023 03:55:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[互联网] 除了 semrush 和 similarweb 外，有其他可以免费查看网站流量的工具么？</title><link>https://www.v2ex.com/t/995258#reply0</link><description>&lt;p&gt;只需要几个基础功能就好，semrush 和 similarweb 实在太贵了，哎&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:35:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995258#reply0</guid></item><item><title>[iOS] opencat 不支持 Azure OpenAI 了吗？</title><link>https://www.v2ex.com/t/995257#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/11/26/8e30eb80146ecc6b.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:23:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995257#reply0</guid></item><item><title>[OpenAI] 请问我是购买的成品节点没有 VPS，能 CLOUDFLARE WARP 使用 chatgpt 吗</title><link>https://www.v2ex.com/t/995256#reply2</link><description>&lt;p&gt;我的是成品的节点，节点较多，就是经常需要切换才能使用 chatgpt 但是在软路由上面，切换多多少少有一些不方便，请问这种应该怎么配合 CLOUDFLARE WARP ，突破 chatgpt 的限制呢？&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995256#reply2</guid></item><item><title>[问与答] iKuai 爱快拨号会导致 CloudflareST 的 TCP 会话异常？？</title><link>https://www.v2ex.com/t/995254#reply0</link><description>&lt;p&gt;CloudflareST 优选参数：-url &lt;a href="http://x.x.x.x" rel="nofollow"&gt;http://x.x.x.x&lt;/a&gt; -sl 20 -tp 80 -dn 20 -tl 65 -dd （注：CFT ）&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;从多个来源显示本机的 IP ，包括两个 IPv4 来源，两个 IPv6 来源&lt;/li&gt;
-&lt;li&gt;显示所有 IP 的相关信息，包括国家、地区、ASN 、地理位置等&lt;/li&gt;
-&lt;li&gt;检测一些网站的可用性：Google, Github, Youtube, ChatGPT 等&lt;/li&gt;
-&lt;li&gt;检测 WebRTC 连接时使用的 IP&lt;/li&gt;
-&lt;li&gt;可以通过小工具查询任意 IP 的信息&lt;/li&gt;
-&lt;li&gt;根据可用性检测结果，返回目前是否可以访问全世界网络的提示&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PC 直接拨号，一切正常。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;软路由 ikuai 拨号，关本地 xray ，（ win/debian ） CloudflareST 检测均 tcp ping 异常。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;体验与吐槽地址： &lt;a href="https://github.com/jason5ng32/MyIP" rel="nofollow"&gt;https://github.com/jason5ng32/MyIP&lt;/a&gt; 。&lt;/p&gt;
-&lt;h2&gt;正文&lt;/h2&gt;
-&lt;p&gt;没上班之后确实有点闲，每天除了健身遛狗打游戏骑摩托车，就是和 ChatGPT 各种聊天。&lt;/p&gt;
-&lt;p&gt;继上一次在 ChatGPT 的帮助下写了一个 Chrome 扩展（之前的帖子： &lt;a href="https://v2ex.com/t/988213" rel="nofollow"&gt;https://v2ex.com/t/988213&lt;/a&gt; ）后，我的程序员朋友跟我说：&lt;/p&gt;
-&lt;p&gt;「你这个原生的 JS 我看着有点不舒服，为什么你不学一下 vue.js ？」&lt;/p&gt;
-&lt;p&gt;行，那就学一学，反正有 ChatGPT ，怕啥。&lt;/p&gt;
-&lt;p&gt;产品经理做事通常是目标驱动的，比如老板说，这个需求你得做，那这就是我的目标，老板你说什么都对，我爱你，老板。&lt;/p&gt;
-&lt;p&gt;于是，我给自己设了一个目标：写一个 IP 工具箱，替换我经常用的第三方服务，比如 &lt;code&gt;ip.skk.moe&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;然后，我就开始干了。这个程序一共花了我差不多 12 个小时，大致上是这样分配的：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;花了 1 小时阅读 vue.js 的文档，先学一学基本的思路&lt;/li&gt;
-&lt;li&gt;花 9 个小时与 ChatGPT 聊天，完成程序的 90% 的代码&lt;/li&gt;
-&lt;li&gt;花 1 小时修改样式&lt;/li&gt;
-&lt;li&gt;花 1 小时看了一下 TVB 电视剧放松&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;讲真，这比我想象中要快，作为一个只是在 10 多年前玩过 WordPress 的 PHP 和 CSS2 的产品经理，再次感叹几件事：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ChatGPT 的确实牛逼&lt;/li&gt;
-&lt;li&gt;vue.js 给我带来了新的体验，仿佛打开了一种新的思路（虽然大部分代码不是我写的，但阅读代码让我了解了一种新的工作流程和多人协作方式）&lt;/li&gt;
-&lt;li&gt;感谢开源，感谢各种前端框架，真是省事啊&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;其实，之前的工作作为产品经理，对各种开源的框架是有耳闻的，但毕竟我的工作就是指着程序员鼻子干活然后找老板邀功，并没有真正感受这些框架给落地的开发工作带来的便利性，这回，真正感受到了。&lt;/p&gt;
-&lt;p&gt;作为一种「老人」对年轻人的油腻般忠告也好，一种感叹也好，我觉得产品经理是应该多掌握一些技术的。&lt;/p&gt;
-&lt;h2&gt;资源&lt;/h2&gt;
-&lt;p&gt;体验地址： &lt;a href="https://jason5ng32.github.io/MyIP/" rel="nofollow"&gt;https://jason5ng32.github.io/MyIP/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;源代码： &lt;a href="https://github.com/jason5ng32/MyIP" rel="nofollow"&gt;https://github.com/jason5ng32/MyIP&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;谢谢看到这里的各位大佬。&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 10:30:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995158#reply2</guid></item><item><title>[分享发现] 推荐一部非常适合程序员看的番：万神殿</title><link>https://www.v2ex.com/t/995157#reply0</link><description>&lt;p&gt;讲的是有关上载智能的故事（上载智能：机械飞升，将人脑上传至云端）。上个月刚出第二季，简介可以参考豆瓣： &lt;a href="https://movie.douban.com/subject/34990593/" rel="nofollow"&gt;https://movie.douban.com/subject/34990593/&lt;/a&gt;&lt;br /&gt;
-特别好看，印象比较深的是一个中国人说的 上载智能=实现共产（因为物欲全部可以靠代码满足，成本可以忽略不计）&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 10:21:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995157#reply0</guid></item><item><title>[程序员] 油管前端如何隐藏视频播放链接的？</title><link>https://www.v2ex.com/t/995156#reply1</link><description>鄙人不是前端猿，以前一直以为视频都是一个链接指向.mp4 或者.m3u8/.ts 。今天看了 b 站和 YouTube ，发现 F12 network 里面没有请求这些文件。求教这是什么实现原理？有什么关键词或者大概讲一下就行，不用太详细。</description><pubDate>Sat, 25 Nov 2023 10:13:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995156#reply1</guid></item><item><title>[宽带症候群] 江西移动开始查 pcdn, 要我签保证书</title><link>https://www.v2ex.com/t/995154#reply0</link><description>&lt;p&gt;之前的宽带的类型是 NAT4, 网心里面显示是映射型, 京东云和网心能跑满 100m 上传.
-这两天发现一直以来套餐里面有一个 15 元的 iptv 的费用, 自己也不用, 就去营业厅取消了.&lt;/p&gt;
-&lt;p&gt;没想到过了两天后, 上传立马下来了, 跑分基本为零, 网心里面显示 NAT 类型是未知.....
-这种问题该怎么去和移动扯? 不确定办回 iptv 是不是能够恢复映射 NAT&lt;/p&gt;
-&lt;p&gt;更新: &lt;/p&gt;
-&lt;p&gt;打移动电话要求恢复 ipv6, 过了半天之后, 装机师傅来电话说, 问了领导, 说现在因为发现都不给 ipv6 了, 因为发现有人使用 pcdn, 要签很多保证书, 然后看看能不能恢复&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:49:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995154#reply0</guid></item><item><title>[iPhone] 新换的 iPhone 使用 APP 中突然出现解锁屏幕：您最近更新了密码需要输入密码</title><link>https://www.v2ex.com/t/995153#reply3</link><description>&lt;p&gt;条件反射般的输进去了？会不会是钓鱼？有点担忧&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:47:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995153#reply3</guid></item><item><title>[问与答] 请问 Club Sim 課金額 如何使用</title><link>https://www.v2ex.com/t/995152#reply4</link><description>“Club Sim 課金額” 查了半天也没有谁说清楚是什么意思&lt;br /&gt;只能猜测类似于储值卡（ HK 很多名词都无法真正理解只能靠猜😭）&lt;br /&gt;即使看了官网的详细介绍（ &lt;a href="https://www.clubsim.com.hk/clsweb/gameeasydatapackpromotion?lang=zh" rel="nofollow noopener" target="_blank"&gt;https://www.clubsim.com.hk/clsweb/gameeasydatapackpromotion?lang=zh&lt;/a&gt; ）也还是有疑问&lt;br /&gt;希望使用过的 V 友能够解惑：&lt;br /&gt;1 、在 App Store 中使用是否有限制？比如只能购买指定类型 App 或者服务？&lt;br /&gt;2 、Club Sim 手机卡有效期如何查看？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/itGw9Wd.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/itGw9Wd.jpg" /&gt;&lt;/a&gt;</description><pubDate>Sat, 25 Nov 2023 09:46:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995152#reply4</guid></item><item><title>[创业组队] 武汉车后市场机会寻求合作小伙伴</title><link>https://www.v2ex.com/t/995151#reply0</link><description>&lt;p&gt;地点武汉，目前有个车后市场的创意，有汽服方面的资源，推广问题不大，一年用户量到五万没问题&lt;/p&gt;
-&lt;p&gt;产品是采用小程序挂在视频号下的模式，目前找了一版开源的代码，技术栈：java+vue+uniapp ，可惜都不是我擅长的，需要技术小伙伴一起加入&lt;/p&gt;
-&lt;p&gt;目前和投资人谈过，对方比较感兴趣，但是没有确定下来的投资，前期资金紧张没有工资，存在一定风险&lt;/p&gt;
-&lt;p&gt;对车后市场有兴趣的小伙伴请联系我，武汉优先，见面会方便一些&lt;/p&gt;
-&lt;p&gt;VX  aXJvbmJlYXN0MDAxCg==&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:46:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995151#reply0</guid></item><item><title>[问与答] 代开 tg 年度大会员</title><link>https://www.v2ex.com/t/995150#reply0</link><description>&lt;p&gt;代开 tg 年度大会员，方便不方便支付的朋友，费用：170 元，需要的请联系 tg： @&lt;a href="https://www.v2ex.com/member/as1aay"&gt;as1aay&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:44:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995150#reply0</guid></item><item><title>[Apple] 预感 M1 Air 将会成为 Mid 2015 后的又一个钉子户，厨子的眼中钉</title><link>https://www.v2ex.com/t/995147#reply3</link><description>&lt;p&gt;Mid 2015 15 寸 一直到 2018 年中才彻底从苹果官网消失，整整销售了 3 年，近乎完美的接口设计和不错的性能，对比当时问题层出不穷的新款 USB-C Macbook Pro ，性价比高，用户群体庞大，也导致其二手价一直高居不下，直到 M1 横空出世。&lt;/p&gt;
-&lt;p&gt;自从 2020 年 11 月问世到现在，M1 Air 也销售了整整 3 年，其价格之实惠，性能之强悍（对于大多数普通用户群体），似乎目前丝毫看不到 Apple 有停售其之计划。&lt;/p&gt;
-&lt;p&gt;目测这批喜欢老款设计 M1 的用户，可能会等到 M6 M7 发布时才会更换。&lt;/p&gt;
-&lt;p&gt;不久的将来的某一天........&lt;/p&gt;
-&lt;p&gt;厨子:Good morning ，最新的 Mac OS 将为 M1 带来史诗级的功能和性能（负）优化。&lt;/p&gt;
-&lt;p&gt;M1 用户瑟瑟发抖中.....&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:15:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995147#reply3</guid></item><item><title>[Apple] iPhone 15 Pro 连 CarPlay 定位偏移导航失灵</title><link>https://www.v2ex.com/t/995146#reply6</link><description>&lt;p&gt;遇到两次了，用的高德地图，开始还正常导航，突然开始漂移&lt;/p&gt;
-&lt;p&gt;重启手机都没用。&lt;/p&gt;
-&lt;p&gt;自带的手机地图定位也偏移。&lt;/p&gt;
-&lt;p&gt;有遇到类似情况的么？&lt;/p&gt;
-&lt;p&gt;这种情况正常情况下没法复现的话怎么找 Apple 售后维修？&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995146#reply6</guid></item><item><title>[Java] 关于可读性与高级技巧之间的折衷</title><link>https://www.v2ex.com/t/995145#reply11</link><description>&lt;p&gt;今天在对我们企业项目里进行 CR ，其中发现有位同事在保存 id 列表时采用位运算的方式，将 int 类型的列表转成 二进制值，代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;    private int getFlag(List&amp;lt;Integer&amp;gt; flags) {
-        int result = 0;
-        if (flags == null) {
-            return 0;
-        }
-        for (Integer flag : flags) {
-            result |= 1 &amp;lt;&amp;lt; flag;
-        }
-        return result;
-    }
+&lt;p&gt;图片在这里↓&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/XIU2/CloudflareSpeedTest/issues/464" rel="nofollow"&gt;https://github.com/XIU2/CloudflareSpeedTest/issues/464&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:55:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995254#reply0</guid></item><item><title>[酷工作] 有熟悉 Svelte， Tailwind 框架的前端吗？</title><link>https://www.v2ex.com/t/995253#reply0</link><description>按任务支付报酬，有意请 v 联系：aGVucnkzMzQwMTM=</description><pubDate>Sun, 26 Nov 2023 02:52:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995253#reply0</guid></item><item><title>[Python] Python 潮流周刊#28：两种线程池、四种优化程序的方法</title><link>https://www.v2ex.com/t/995251#reply0</link><description>&lt;p&gt;你好，我是猫哥。这里每周分享优质的 Python 、AI 及通用技术内容，大部分为英文。本周刊开源，欢迎&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;投稿&lt;/a&gt;。另有&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;电报频道&lt;/a&gt;作为副刊，补充发布更加丰富的资讯。&lt;/p&gt;
+&lt;h2&gt;🐱产品推荐&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://Walles.AI" rel="nofollow"&gt;Walles.AI&lt;/a&gt;&lt;/strong&gt; 是一款适用于所有网站的浏览器插件，支持 GPT4 问答、ChatPDF 、网页内容解释及翻译、生成高质量文章、与 Notion 等工具协同、在线摘要 Youtube 视频等。立即前往官网，免费使用（请在 PC 端访问）：&lt;a href="https://walles.ai?invite_code=CGZP5W" rel="nofollow"&gt;安装地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-08_ai.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;🦄文章&amp;amp;教程&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html" rel="nofollow"&gt;四种优化程序的方法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;很值得推荐的文章。正文部分介绍了优化程序的四种方法：使用更好的算法、使用更好的数据结构、使用底层的编程语言、以及接受不太精确的解决方案。文章开头和结尾则提出了一些教训：我们对于性能优化问题容易过度乐观、我们可能只顾性能而牺牲了正确性、不该作过早和复杂的优化、优化的广度比优化的深度更重要。&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://pythonspeed.com/articles/two-thread-pools/" rel="nofollow"&gt;两种线程池，以及为什么需要这两种线程池？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;由于 GIL 的限制，因此在 Python 中使用线程池需要注意业务是 CPU 密集型任务还是 IO 密集型任务，这将导致在线程数量和线程池目标上的不同选择。&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated" rel="nofollow"&gt;是时候改变了：datetime.utcnow() 现已被弃用&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 3.12 版本中&lt;code&gt;datetime.datetime&lt;/code&gt; 的 &lt;code&gt;utcnow()&lt;/code&gt; 与 &lt;code&gt;utcfromtimestamp()&lt;/code&gt; 方法已被标注为“deprecated”，将在未来版本中删除。文章介绍了它们的缺陷，解释了为什么它们会被弃用。替代的方法分别是：&lt;code&gt;datetime.now()&lt;/code&gt; 和 &lt;code&gt;datetime.fromtimestamp()&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://www.biaodianfu.com/python-web-server-deployment.html" rel="nofollow"&gt;Python Web 应用的线上部署&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;介绍了如何使用 Nginx+Gunicorn+Supervisor 、Nginx+uWSGI+Supervisor 、Waitress 、Meinheld 等不同方案部署 Flask 应用，分析了它们的优缺点。&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://stefan-marr.de/2023/11/python-global-interpreter-lock/" rel="nofollow"&gt;Python GIL 作出的不断变化的“保证”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;介绍了 CPython 全局解释器锁的实现细节，介绍了从 Python 3.9 到目前 3.13 开发版之间的变化。其中有一项很大的差别，在 3.9 及早期版本，GIL 在执行很多字节码时会释放，而在 3.13 版本，只在少数字节码上检查是否释放 GIL 。&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://learndjango.com/tutorials/django-dependency-management-pip-compile-and-pip-t" rel="nofollow"&gt;使用 pip-compile 和 pip-tools 作 Django 的依赖项管理&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 的依赖管理有很多选择，文章介绍了 pip-compile 和 pip-tools 的组合方案。&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://threeofwands.com/the-types-of-errors-in-python-apps/" rel="nofollow"&gt;Python 程序的 bug 分类&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者将程序的 bug 分成四类：类型错误和 linting 错误、导入时异常、运行时异常、静默的错误。处理的策略是减少出现后面的错误类型，将其变为前面的错误处理。&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://blog.orsinium.dev/posts/py/core-devs-typing/" rel="nofollow"&gt;有多少 Python 核心开发者使用类型提示？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Python 的类型提示正在逐渐流行，但是，它在核心开发者群体中已经普及到什么程度了呢？作者经过分析，给出了这样的数据：所有核心开发者中，大约 53% 的人最近有开源项目，其中 39% 的人使用类型提示。近 3 年里加入团队的人中，有 76% 使用类型提示。&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://juejin.cn/post/7304706387645071395" rel="nofollow"&gt;记一次用 Python 的 ast 模块将 Flask 项目转为 Quart 的尝试&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者为了使用 OpenAI 返回的异步迭代器内容，将不支持异步的 Flask 项目重构成了支持异步的 Quart 。但手动修改的工作量太大，因此他想到通过解析 ast 来修改，提升项目转换的效率。&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://solothought.com/tutorial/python-numpy/" rel="nofollow"&gt;Python NumPy 库的可视化解释&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;文章使用了大量直观的图形展示 Numpy 数据的分布以及数据变化过程，让你轻松掌握 Numpy 数据操作。&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://coady.github.io/posts/composition-vs-inheritance.html" rel="nofollow"&gt;用组合还是继承？我有不同看法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;传统观点认为组合优于继承，但作者认为 Python 不能很好地支持，若教条式使用组合，只会引入问题，因此作者提供了一种简单实现的思路。&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://python-bloggers.com/2023/10/choosing-the-right-data-dashboard-tool-the-unique-strengths-of-streamlit-and-shiny/" rel="nofollow"&gt;选择正确的数据仪表板工具：Streamlit 和 Shiny 的独特优势&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在数据驱动关键决策的时代，交互式仪表板已成为商业、科学研究等行业不可或缺的工具。Streamlit 和 Shiny （包括 RShiny 及 PyShiny ）是功能强大的框架，文章介绍了它们各自的优势。&lt;/p&gt;
+&lt;p&gt;🎁&lt;strong&gt;Python 潮流周刊&lt;/strong&gt;🎁我会在 &lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;电报频道&lt;/a&gt; 分享很多不收录在周刊里的内容，目前已有 1200+ 同学关注，欢迎你的加入！&lt;/p&gt;
+&lt;h2&gt;🐿️项目&amp;amp;资源&lt;/h2&gt;
+&lt;p&gt;1 、&lt;a href="https://github.com/abi/screenshot-to-code" rel="nofollow"&gt;screenshot-to-code：利用截图生成 HTML/Tailwind/JS 代码&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;超级火爆的新项目，它使用 GPT-4 Vision 生成代码，使用 DALL-E 3 生成与截图相似的外观。甚至可以输入 URL 来实时克隆一个网站！（ star 19.4K ）&lt;/p&gt;
+&lt;p&gt;2 、&lt;a href="https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer" rel="nofollow"&gt;sqlalchemy_data_model_visualizer：将 SQLalchemy 数据模型转换为漂亮的 SVG 图表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;将 SQLAlchemy ORM 模型生成高质量的可视化效果，使用 Graphviz 将每个模型呈现为有向图，更容易理解数据库表之间的关系。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="数据库表的有向图" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-25_sql.png" /&gt;&lt;/p&gt;
+&lt;p&gt;3 、&lt;a href="https://github.com/lastmile-ai/aiconfig" rel="nofollow"&gt;aiconfig：配置驱动的 AI 应用开发框架&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;它通过将提示、模型参数及模型密切相关的逻辑与应用代码分离，降低复杂度。SDK 是与模型无关的，可扩展到任何生成式 AI 模型。&lt;/p&gt;
+&lt;p&gt;4 、&lt;a href="https://github.com/PythonNest/PyNest" rel="nofollow"&gt;PyNest：基于 FastAPI 构建的框架，遵循 NestJS 的模块化架构&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可以让你轻松构建可扩展且可维护的 API ，支持依赖注入、类型注释、装饰器和代码生成。&lt;/p&gt;
+&lt;p&gt;5 、&lt;a href="https://github.com/yl4579/StyleTTS2" rel="nofollow"&gt;StyleTTS2：近乎人类水平的文本转语音库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;它利用风格扩散和对抗训练与大型语音语言模型 （ SLM ） 来实现人类水平的 TTS 合成。（ star 2.7K ）&lt;/p&gt;
+&lt;p&gt;6 、&lt;a href="https://github.com/pyjokes/pyjokes" rel="nofollow"&gt;pyjokes：程序员的一句话笑话（笑话即服务） (github.com)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;安装后，只需从命令行调用 pyjoke 或将其添加到 .bashrc 文件中，每次打开终端时都会看到一个笑话。&lt;/p&gt;
+&lt;p&gt;7 、&lt;a href="https://github.com/pndurette/gTTS" rel="nofollow"&gt;gTTS：用于与 Google 的文本转语音 API 交互&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用于调用 Google Translate 的文本转语音 API ，提供可定制的语音特定的句子分词器，以及可定制的文本预处理器。（ star 2K ）&lt;/p&gt;
+&lt;p&gt;8 、&lt;a href="https://github.com/yuxiaoy1/chatfairy" rel="nofollow"&gt;chatfairy：极简的网页版聊天室，只依赖 Flask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;极简的聊天室应用，前后端代码在仅 115 行的单文件中，使用 SSE 作后端消息推送，不依赖 websocket ，支持用户认证、多用户聊天、上下线通知、路由保护。（投稿自 @&lt;a href="https://www.v2ex.com/member/yuxiaoy1"&gt;yuxiaoy1&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="聊天效果演示" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-25_chatfairy.png" /&gt;&lt;/p&gt;
+&lt;p&gt;9 、&lt;a href="https://github.com/ObservedObserver/streamlit-shadcn-ui" rel="nofollow"&gt;streamlit-shadcn-ui：在 streamlit 中使用 shadcn-ui 组件&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Streamlit 的组件选择相对局限，且样式比较古老。这个项目将前端流行的 shadcn 组件库引入到 Streamlit 当中，UI 更为美观。&lt;/p&gt;
+&lt;p&gt;10 、&lt;a href="https://github.com/YaoFANGUK/video-subtitle-remover" rel="nofollow"&gt;video-subtitle-remover：用 AI 去除图片/视频的硬字幕/水印&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可无损分辨率将视频中的硬字幕去除，生成去除字幕后的文件，利用 AI 填充原字幕区域；支持自定义字幕位置，支持全视频自动去除所有文本。&lt;/p&gt;
+&lt;p&gt;11 、&lt;a href="https://github.com/flowtyone/flowty-realtime-lcm-canvas" rel="nofollow"&gt;flowty-realtime-lcm-canvas：使用 LCM 和 gradio 库的草图到图像演示&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;将你的草稿图实时变成生动的图像，可更改 UI 中的模型 ID 来使用不同的模型。（ star 1.5K ）&lt;/p&gt;
+&lt;p&gt;12 、&lt;a href="https://github.com/brandon-rhodes/pyephem" rel="nofollow"&gt;pyephem：科学级的天文学计算库&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可执行高精度天文学计算，用于查找行星、彗星或小行星的位置，确定特定星体的位置，计算月球各阶段的日期，天文坐标系转换，确定春分和冬至的日期，等等。&lt;/p&gt;
+&lt;p&gt;本文首发于： &lt;a href="https://pythoncat.top/posts/2023-11-25-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2023-11-25-weekly&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;🐼欢迎订阅&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;微信公众号&lt;/a&gt;：除更新周刊外，还发布其它原创作品，并转载一些优质文章。（可加好友，可加读者交流群）&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.top" rel="nofollow"&gt;博客&lt;/a&gt; 及 &lt;a href="https://pythoncat.top/rss.xml" rel="nofollow"&gt;RSS&lt;/a&gt;：我的独立博客，上面有历年原创/翻译的技术文章，以及从 2009 年以来的一些随笔。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;Github&lt;/a&gt;：你可以获取本周刊的 Markdown 源文件，做任何想做的事！&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;邮件&lt;/a&gt;：在 Substack 上开通的频道，满足你通过邮件阅读时事通讯的诉求。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;Telegram&lt;/a&gt;：除了发布周刊的通知外，我将它视为一个“副刊”，补充发布更加丰富的资讯。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/chinesehuazhou" rel="nofollow"&gt;Twitter&lt;/a&gt;：我的关注列表里有大量 Python 相关的开发者与组织的账号。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sun, 26 Nov 2023 02:48:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995251#reply0</guid></item><item><title>[问与答] 如何在 mac 里查看蓝牙设备的蓝牙版本</title><link>https://www.v2ex.com/t/995250#reply0</link><description>mac 13 系统，查看系统报告，只有固件版本。</description><pubDate>Sun, 26 Nov 2023 02:48:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995250#reply0</guid></item><item><title>[问与答] 毕业 3-5 年的兄弟们，你们现在咋样？</title><link>https://www.v2ex.com/t/995249#reply15</link><description></description><pubDate>Sun, 26 Nov 2023 02:42:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995249#reply15</guid></item><item><title>[Surge] 最新的 Surge 更新把实时网速的 Today Widgets 更新没了？</title><link>https://www.v2ex.com/t/995248#reply1</link><description>&lt;p&gt;今天更新 Surge 发现实时网速的模块消失了&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995248#reply1</guid></item><item><title>[Surge] 出 ios 的 surge 车位</title><link>https://www.v2ex.com/t/995247#reply1</link><description>一个车位 95(永久),换设备自己反激活,如果自己跳车不退,目前续费 24/02&lt;br /&gt;&lt;br /&gt;需要的联系 tg: &lt;a href="http://t.me/addsurge" rel="nofollow noopener" target="_blank"&gt;t.me/addsurge&lt;/a&gt;</description><pubDate>Sun, 26 Nov 2023 02:23:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995247#reply1</guid></item><item><title>[奇思妙想] 快捷指令问题求助</title><link>https://www.v2ex.com/t/995246#reply0</link><description>&lt;p&gt;老哥们上午好，之前自己简单弄了一个快捷指令计算工资，只要选择自己的等级和这个月的工时就能算出对应的工资，现在有这样一个想法不知道能不能实现，请各位老哥帮忙看看。
+唤醒 siri 后，和 siri 对话中包含了工时关键字，然后 siri 记录下这个工时，然后把这个工时传递给工资计算快捷指令，计算出结果，然后进行语音播报。
+请问这个想法可以行吗？
+感谢各位老哥！！！&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:21:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995246#reply0</guid></item><item><title>[问与答] 你见过什么 github 上的开源项目搭配 vercel 或 cloudflare 的 Worker 就可以建成网站的</title><link>https://www.v2ex.com/t/995245#reply2</link><description>&lt;p&gt;目前我见过 notionnext 和一个 url 缩短的项目
+分别是
+&lt;a href="https://github.com/tangly1024/NotionNext" rel="nofollow"&gt;https://github.com/tangly1024/NotionNext&lt;/a&gt;
+&lt;a href="https://github.com/crazypeace/Url-Shorten-Worker" rel="nofollow"&gt;https://github.com/crazypeace/Url-Shorten-Worker&lt;/a&gt;
+都是很实用的项目，非常适合没有编程基础的小白培养兴趣，同时也不需要 vps ，门槛极低，如果你觉得有类似的项目，麻烦分享出来&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995245#reply2</guid></item><item><title>[OpenAI] 请问用 gpt 来学外语效果怎么样？可以用来代替外教吗？会不会经常出错？</title><link>https://www.v2ex.com/t/995244#reply5</link><description>&lt;p&gt;有没有用过的人说说？&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995244#reply5</guid></item><item><title>[macOS] macOS 15 什么时候发布呢？有消息显示会更新什么新特性吗？</title><link>https://www.v2ex.com/t/995242#reply1</link><description>&lt;p&gt;手里用的 mbp17 ，虽然芯片提升很大，但是升级的兴趣不大。因为 macOS 摆烂，完全没什么让人喜欢的特性想升级。而且系统还有一大堆历史 bug 苹果从来不修。&lt;/p&gt;
+&lt;p&gt;15 不知道什么时候发布，网上有什么消息会更新什么东西吗？如果系统有重大升级，再考虑换新系统。&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995242#reply1</guid></item><item><title>[Python] 学科网预览文档打印求助</title><link>https://www.v2ex.com/t/995241#reply3</link><description>&lt;p&gt;各位老哥早上好，家里孩子上初中了经常需要各种试卷，我负责给他找试卷，主要用到的几个网站：学科网、组卷网和菁优网，之前有个 python 脚本可以把学科网的预览页面进行解析生成 html 文档，然后借助浏览器打印成 pdf 。但是最近学科网的文档预览机制（或者代码）好像做了修改，现在能够获取到的内容只有一部分，之前是可以全部预览的。那位老哥路过有时间帮忙看看或者分析下。
+之前使用的代码如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;import requests
+from re import findall, sub
+from hashlib import md5
+
+HTML_FORMAT ='''
+&amp;lt;html&amp;gt;
+
+&amp;lt;head&amp;gt;
+&amp;lt;title&amp;gt;{title}&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body&amp;gt;
+{body}
+&amp;lt;/body&amp;gt;
+
+&amp;lt;/html&amp;gt;
+'''
+
+def writefile(filename,text):
+    filename = sub(r"""[\*\/\\\|\&amp;lt;\&amp;gt;\? \:\.\'\"\!]""", "", filename)
+    unique = md5(text.encode())
+    filename += "_"+unique.hexdigest()[:5]
+    filename+=".html"
+    print("Writing "+filename)
+    # print("-=-=-=-=\n",text,"\n-=-=-=-=")
+    with open(filename+'.html', 'w', encoding="utf-8") as f:
+        f.write(text)
+
+def main():
+    softID=input("ID: ")
+    url = "https://www.zxxk.com/soft/Preview/FirstLoadPreviewJson?softID={}&amp;amp;type=3&amp;amp;product=1&amp;amp;v=2&amp;amp;FullPreview=true"
+    response = requests.get(url.format(softID))
+    if response.status_code!=200:
+        print("ERROR")
+        print(response.status_code)
+        return -1
+    ret=response.json()["data"]
+    if not ret["IsSuccess"]:
+        print("ERROR: IsSuccess option is not true")
+        print(ret)
+    if not ret['IsRar']:
+        print("Not rar")
+        print("TotalPage=%d" % ret['TotalPage'])
+        print("SoftExt=%s" % ret['SoftExt'])
+        try:
+            html=ret["Html"]
+            print(ret)
+        except:
+            print(ret)
+            exit(1)
+        # replace "data-original" to "src" for showing in browser
+        html=html.replace("data-original", "src")
+        writefile(f"{softID}",html)
+    else:
+        print("is RAR")
+        rar=ret['rarPreviewInfo']
+        for file in rar:
+            html=file["Html"]
+            title=file["SoftName"]
+            # replace "data-original" to "src" for showing in browser
+            # html=html.replace("data-original", "src")
+            urls=findall("(?&amp;lt;=data-original=\") https://preview.zxxk.com/\\S+(?=\")",html)
+            l=[]
+            for url in urls:
+                if "jpg" in url:
+                    l.append(f"&amp;lt;img src={url} /&amp;gt;")
+                    continue
+                page=requests.get(url,cookies=response.cookies)
+                if not page.status_code==200:
+                    print(page)
+                    print(page.status_code)
+                    print(page.text)
+                assert page.status_code==200
+                l.append(page.text)
+            format_html=HTML_FORMAT.format(title=title,body="\n".join(l))
+            writefile(title,format_html)
+
+if __name__  == "__main__":
+    while True:
+        main()
+        
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在取出列表时，则：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;    private List&amp;lt;Integer&amp;gt; toFlagList(int flag) {
-        List&amp;lt;Integer&amp;gt; result = new ArrayList&amp;lt;&amp;gt;();
-        for (int i = 0; i &amp;lt; 32; i++) {
-            if (((flag &amp;gt;&amp;gt;&amp;gt; i) &amp;amp; 1) == 1) {
-                result.add(i);
-            }
-        }
-        return result;
-    }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这种写法，我个人觉得，在存储数值较多的列表时还不错，就是代码可读性不好(对于平时不怎么使用到位运算的同事)，此外，这种时间换空间的方式，是否收效甚微呢？（ id 列表值不多，就一个下拉框，在可预见的未来应该也不会超过 10 个）想问下各位是否也有在项目中这样写的经验？&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:13:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995145#reply11</guid></item><item><title>[程序员] 多节点间加密通信的安全问题</title><link>https://www.v2ex.com/t/995144#reply7</link><description>&lt;p&gt;多节点间通信，节点每 2 秒会收到 10&amp;lt;n&amp;lt;100 条加密数据，每 2 秒要发送 n&amp;lt;10 条，每条数据&amp;lt;1kb 。
-节点有自己的公私钥，ECC 算法，接收时用本地私钥解密收到的数据，发送时用接收方公钥加密。&lt;/p&gt;
-&lt;p&gt;请问这种场景选用 ECC 公钥加密私钥解密方式是否合理？会有哪些问题？大佬有什么建议？&lt;/p&gt;
-&lt;p&gt;我不太懂私钥安全性是否会有磨损，每天百万次解密运算是否可以长期使用？&lt;/p&gt;
-&lt;p&gt;另一个话题，私钥在本地如何安全存储？&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:12:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995144#reply7</guid></item><item><title>[宽带症候群] 江苏电信的组播地址换了吗？</title><link>https://www.v2ex.com/t/995143#reply1</link><description>&lt;p&gt;现在的组播地址只有极个别的能播放，有大佬重新抓取吗？&lt;/p&gt;</description><pubDate>Sat, 25 Nov 2023 09:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995143#reply1</guid></item></channel></rss>
+&lt;p&gt;然后试卷的地址:&lt;a href="https://www.zxxk.com/soft/40662248.html" rel="nofollow"&gt;https://www.zxxk.com/soft/40662248.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:48:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995241#reply3</guid></item><item><title>[机器学习] 有什么比较简单的方式能训练图像识别模型么</title><link>https://www.v2ex.com/t/995240#reply4</link><description>非人工智能方向的专业人士，想实现一个这样的功能，求最短路径，感谢。&lt;br /&gt;1. 给定一批有特征的图片，例如所有的图片都有一只狸花猫，但是猫的形态和长相都不同&lt;br /&gt;2. 根据这些图片自主训练得到特征&lt;br /&gt;3. 给一张新的狸花猫，能告诉我这是一个狸花猫&lt;br /&gt;&lt;br /&gt;对这个方向完全是小白，见笑了</description><pubDate>Sun, 26 Nov 2023 01:48:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995240#reply4</guid></item><item><title>[问与答] 安卓或者 ios 有没有通话中自动或者手动回复语音</title><link>https://www.v2ex.com/t/995237#reply0</link><description>&lt;p&gt;RT ，家有宝宝，晚上不方说话，能不能接通后选择预定文字，或者手打文字后转为语音返回给对方。已经知道小米有“ai 电话助手”可以实现，奈何没有闲置小米手机😮‍💨，其他安卓或者苹果有解决方案吗？实在没办法只能买一个小米🙁&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:34:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995237#reply0</guid></item><item><title>[云计算] cloudflare 抗 ddos 真的很强吗？</title><link>https://www.v2ex.com/t/995236#reply5</link><description>阿里云也有类似的服务，与两家商务经理联系后都获得解决方案，两家方案价格差不多，具体哪一家好一些</description><pubDate>Sun, 26 Nov 2023 01:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995236#reply5</guid></item><item><title>[OpenAI] 出 chatgptplus</title><link>https://www.v2ex.com/t/995235#reply3</link><description>&lt;p&gt;60 出 chatgptplus
+质保用 14 天
+运气好的话能用 30 天
+tg:@LikeLLo&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:31:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995235#reply3</guid></item><item><title>[iPad] 下一代 iPad air 可能是 m2， pro 则是 m3</title><link>https://www.v2ex.com/t/995234#reply1</link><description>&lt;p&gt;个人推测&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:27:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995234#reply1</guid></item></channel></rss>
