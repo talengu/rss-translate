@@ -1,173 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 26 Nov 2023 03:55:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[互联网] 除了 semrush 和 similarweb 外，有其他可以免费查看网站流量的工具么？</title><link>https://www.v2ex.com/t/995258#reply0</link><description>&lt;p&gt;只需要几个基础功能就好，semrush 和 similarweb 实在太贵了，哎&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:35:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995258#reply0</guid></item><item><title>[iOS] opencat 不支持 Azure OpenAI 了吗？</title><link>https://www.v2ex.com/t/995257#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/11/26/8e30eb80146ecc6b.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:23:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995257#reply0</guid></item><item><title>[OpenAI] 请问我是购买的成品节点没有 VPS，能 CLOUDFLARE WARP 使用 chatgpt 吗</title><link>https://www.v2ex.com/t/995256#reply2</link><description>&lt;p&gt;我的是成品的节点，节点较多，就是经常需要切换才能使用 chatgpt 但是在软路由上面，切换多多少少有一些不方便，请问这种应该怎么配合 CLOUDFLARE WARP ，突破 chatgpt 的限制呢？&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 03:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995256#reply2</guid></item><item><title>[问与答] iKuai 爱快拨号会导致 CloudflareST 的 TCP 会话异常？？</title><link>https://www.v2ex.com/t/995254#reply0</link><description>&lt;p&gt;CloudflareST 优选参数：-url &lt;a href="http://x.x.x.x" rel="nofollow"&gt;http://x.x.x.x&lt;/a&gt; -sl 20 -tp 80 -dn 20 -tl 65 -dd （注：CFT ）&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;PC 直接拨号，一切正常。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;软路由 ikuai 拨号，关本地 xray ，（ win/debian ） CloudflareST 检测均 tcp ping 异常。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;图片在这里↓&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/XIU2/CloudflareSpeedTest/issues/464" rel="nofollow"&gt;https://github.com/XIU2/CloudflareSpeedTest/issues/464&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:55:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995254#reply0</guid></item><item><title>[酷工作] 有熟悉 Svelte， Tailwind 框架的前端吗？</title><link>https://www.v2ex.com/t/995253#reply0</link><description>按任务支付报酬，有意请 v 联系：aGVucnkzMzQwMTM=</description><pubDate>Sun, 26 Nov 2023 02:52:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995253#reply0</guid></item><item><title>[Python] Python 潮流周刊#28：两种线程池、四种优化程序的方法</title><link>https://www.v2ex.com/t/995251#reply0</link><description>&lt;p&gt;你好，我是猫哥。这里每周分享优质的 Python 、AI 及通用技术内容，大部分为英文。本周刊开源，欢迎&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;投稿&lt;/a&gt;。另有&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;电报频道&lt;/a&gt;作为副刊，补充发布更加丰富的资讯。&lt;/p&gt;
-&lt;h2&gt;🐱产品推荐&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="http://Walles.AI" rel="nofollow"&gt;Walles.AI&lt;/a&gt;&lt;/strong&gt; 是一款适用于所有网站的浏览器插件，支持 GPT4 问答、ChatPDF 、网页内容解释及翻译、生成高质量文章、与 Notion 等工具协同、在线摘要 Youtube 视频等。立即前往官网，免费使用（请在 PC 端访问）：&lt;a href="https://walles.ai?invite_code=CGZP5W" rel="nofollow"&gt;安装地址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-08_ai.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;🦄文章&amp;amp;教程&lt;/h2&gt;
-&lt;p&gt;1 、&lt;a href="https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html" rel="nofollow"&gt;四种优化程序的方法&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;很值得推荐的文章。正文部分介绍了优化程序的四种方法：使用更好的算法、使用更好的数据结构、使用底层的编程语言、以及接受不太精确的解决方案。文章开头和结尾则提出了一些教训：我们对于性能优化问题容易过度乐观、我们可能只顾性能而牺牲了正确性、不该作过早和复杂的优化、优化的广度比优化的深度更重要。&lt;/p&gt;
-&lt;p&gt;2 、&lt;a href="https://pythonspeed.com/articles/two-thread-pools/" rel="nofollow"&gt;两种线程池，以及为什么需要这两种线程池？&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;由于 GIL 的限制，因此在 Python 中使用线程池需要注意业务是 CPU 密集型任务还是 IO 密集型任务，这将导致在线程数量和线程池目标上的不同选择。&lt;/p&gt;
-&lt;p&gt;3 、&lt;a href="https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated" rel="nofollow"&gt;是时候改变了：datetime.utcnow() 现已被弃用&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Python 3.12 版本中&lt;code&gt;datetime.datetime&lt;/code&gt; 的 &lt;code&gt;utcnow()&lt;/code&gt; 与 &lt;code&gt;utcfromtimestamp()&lt;/code&gt; 方法已被标注为“deprecated”，将在未来版本中删除。文章介绍了它们的缺陷，解释了为什么它们会被弃用。替代的方法分别是：&lt;code&gt;datetime.now()&lt;/code&gt; 和 &lt;code&gt;datetime.fromtimestamp()&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;4 、&lt;a href="https://www.biaodianfu.com/python-web-server-deployment.html" rel="nofollow"&gt;Python Web 应用的线上部署&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;介绍了如何使用 Nginx+Gunicorn+Supervisor 、Nginx+uWSGI+Supervisor 、Waitress 、Meinheld 等不同方案部署 Flask 应用，分析了它们的优缺点。&lt;/p&gt;
-&lt;p&gt;5 、&lt;a href="https://stefan-marr.de/2023/11/python-global-interpreter-lock/" rel="nofollow"&gt;Python GIL 作出的不断变化的“保证”&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;介绍了 CPython 全局解释器锁的实现细节，介绍了从 Python 3.9 到目前 3.13 开发版之间的变化。其中有一项很大的差别，在 3.9 及早期版本，GIL 在执行很多字节码时会释放，而在 3.13 版本，只在少数字节码上检查是否释放 GIL 。&lt;/p&gt;
-&lt;p&gt;6 、&lt;a href="https://learndjango.com/tutorials/django-dependency-management-pip-compile-and-pip-t" rel="nofollow"&gt;使用 pip-compile 和 pip-tools 作 Django 的依赖项管理&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Python 的依赖管理有很多选择，文章介绍了 pip-compile 和 pip-tools 的组合方案。&lt;/p&gt;
-&lt;p&gt;7 、&lt;a href="https://threeofwands.com/the-types-of-errors-in-python-apps/" rel="nofollow"&gt;Python 程序的 bug 分类&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;作者将程序的 bug 分成四类：类型错误和 linting 错误、导入时异常、运行时异常、静默的错误。处理的策略是减少出现后面的错误类型，将其变为前面的错误处理。&lt;/p&gt;
-&lt;p&gt;8 、&lt;a href="https://blog.orsinium.dev/posts/py/core-devs-typing/" rel="nofollow"&gt;有多少 Python 核心开发者使用类型提示？&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Python 的类型提示正在逐渐流行，但是，它在核心开发者群体中已经普及到什么程度了呢？作者经过分析，给出了这样的数据：所有核心开发者中，大约 53% 的人最近有开源项目，其中 39% 的人使用类型提示。近 3 年里加入团队的人中，有 76% 使用类型提示。&lt;/p&gt;
-&lt;p&gt;9 、&lt;a href="https://juejin.cn/post/7304706387645071395" rel="nofollow"&gt;记一次用 Python 的 ast 模块将 Flask 项目转为 Quart 的尝试&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;作者为了使用 OpenAI 返回的异步迭代器内容，将不支持异步的 Flask 项目重构成了支持异步的 Quart 。但手动修改的工作量太大，因此他想到通过解析 ast 来修改，提升项目转换的效率。&lt;/p&gt;
-&lt;p&gt;10 、&lt;a href="https://solothought.com/tutorial/python-numpy/" rel="nofollow"&gt;Python NumPy 库的可视化解释&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;文章使用了大量直观的图形展示 Numpy 数据的分布以及数据变化过程，让你轻松掌握 Numpy 数据操作。&lt;/p&gt;
-&lt;p&gt;11 、&lt;a href="https://coady.github.io/posts/composition-vs-inheritance.html" rel="nofollow"&gt;用组合还是继承？我有不同看法&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;传统观点认为组合优于继承，但作者认为 Python 不能很好地支持，若教条式使用组合，只会引入问题，因此作者提供了一种简单实现的思路。&lt;/p&gt;
-&lt;p&gt;12 、&lt;a href="https://python-bloggers.com/2023/10/choosing-the-right-data-dashboard-tool-the-unique-strengths-of-streamlit-and-shiny/" rel="nofollow"&gt;选择正确的数据仪表板工具：Streamlit 和 Shiny 的独特优势&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在数据驱动关键决策的时代，交互式仪表板已成为商业、科学研究等行业不可或缺的工具。Streamlit 和 Shiny （包括 RShiny 及 PyShiny ）是功能强大的框架，文章介绍了它们各自的优势。&lt;/p&gt;
-&lt;p&gt;🎁&lt;strong&gt;Python 潮流周刊&lt;/strong&gt;🎁我会在 &lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;电报频道&lt;/a&gt; 分享很多不收录在周刊里的内容，目前已有 1200+ 同学关注，欢迎你的加入！&lt;/p&gt;
-&lt;h2&gt;🐿️项目&amp;amp;资源&lt;/h2&gt;
-&lt;p&gt;1 、&lt;a href="https://github.com/abi/screenshot-to-code" rel="nofollow"&gt;screenshot-to-code：利用截图生成 HTML/Tailwind/JS 代码&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;超级火爆的新项目，它使用 GPT-4 Vision 生成代码，使用 DALL-E 3 生成与截图相似的外观。甚至可以输入 URL 来实时克隆一个网站！（ star 19.4K ）&lt;/p&gt;
-&lt;p&gt;2 、&lt;a href="https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer" rel="nofollow"&gt;sqlalchemy_data_model_visualizer：将 SQLalchemy 数据模型转换为漂亮的 SVG 图表&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;将 SQLAlchemy ORM 模型生成高质量的可视化效果，使用 Graphviz 将每个模型呈现为有向图，更容易理解数据库表之间的关系。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="数据库表的有向图" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-25_sql.png" /&gt;&lt;/p&gt;
-&lt;p&gt;3 、&lt;a href="https://github.com/lastmile-ai/aiconfig" rel="nofollow"&gt;aiconfig：配置驱动的 AI 应用开发框架&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;它通过将提示、模型参数及模型密切相关的逻辑与应用代码分离，降低复杂度。SDK 是与模型无关的，可扩展到任何生成式 AI 模型。&lt;/p&gt;
-&lt;p&gt;4 、&lt;a href="https://github.com/PythonNest/PyNest" rel="nofollow"&gt;PyNest：基于 FastAPI 构建的框架，遵循 NestJS 的模块化架构&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;可以让你轻松构建可扩展且可维护的 API ，支持依赖注入、类型注释、装饰器和代码生成。&lt;/p&gt;
-&lt;p&gt;5 、&lt;a href="https://github.com/yl4579/StyleTTS2" rel="nofollow"&gt;StyleTTS2：近乎人类水平的文本转语音库&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;它利用风格扩散和对抗训练与大型语音语言模型 （ SLM ） 来实现人类水平的 TTS 合成。（ star 2.7K ）&lt;/p&gt;
-&lt;p&gt;6 、&lt;a href="https://github.com/pyjokes/pyjokes" rel="nofollow"&gt;pyjokes：程序员的一句话笑话（笑话即服务） (github.com)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;安装后，只需从命令行调用 pyjoke 或将其添加到 .bashrc 文件中，每次打开终端时都会看到一个笑话。&lt;/p&gt;
-&lt;p&gt;7 、&lt;a href="https://github.com/pndurette/gTTS" rel="nofollow"&gt;gTTS：用于与 Google 的文本转语音 API 交互&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;用于调用 Google Translate 的文本转语音 API ，提供可定制的语音特定的句子分词器，以及可定制的文本预处理器。（ star 2K ）&lt;/p&gt;
-&lt;p&gt;8 、&lt;a href="https://github.com/yuxiaoy1/chatfairy" rel="nofollow"&gt;chatfairy：极简的网页版聊天室，只依赖 Flask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;极简的聊天室应用，前后端代码在仅 115 行的单文件中，使用 SSE 作后端消息推送，不依赖 websocket ，支持用户认证、多用户聊天、上下线通知、路由保护。（投稿自 @&lt;a href="https://www.v2ex.com/member/yuxiaoy1"&gt;yuxiaoy1&lt;/a&gt; ）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="聊天效果演示" class="embedded_image" rel="noreferrer" src="https://img.pythoncat.top/2023-11-25_chatfairy.png" /&gt;&lt;/p&gt;
-&lt;p&gt;9 、&lt;a href="https://github.com/ObservedObserver/streamlit-shadcn-ui" rel="nofollow"&gt;streamlit-shadcn-ui：在 streamlit 中使用 shadcn-ui 组件&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Streamlit 的组件选择相对局限，且样式比较古老。这个项目将前端流行的 shadcn 组件库引入到 Streamlit 当中，UI 更为美观。&lt;/p&gt;
-&lt;p&gt;10 、&lt;a href="https://github.com/YaoFANGUK/video-subtitle-remover" rel="nofollow"&gt;video-subtitle-remover：用 AI 去除图片/视频的硬字幕/水印&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;可无损分辨率将视频中的硬字幕去除，生成去除字幕后的文件，利用 AI 填充原字幕区域；支持自定义字幕位置，支持全视频自动去除所有文本。&lt;/p&gt;
-&lt;p&gt;11 、&lt;a href="https://github.com/flowtyone/flowty-realtime-lcm-canvas" rel="nofollow"&gt;flowty-realtime-lcm-canvas：使用 LCM 和 gradio 库的草图到图像演示&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;将你的草稿图实时变成生动的图像，可更改 UI 中的模型 ID 来使用不同的模型。（ star 1.5K ）&lt;/p&gt;
-&lt;p&gt;12 、&lt;a href="https://github.com/brandon-rhodes/pyephem" rel="nofollow"&gt;pyephem：科学级的天文学计算库&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;可执行高精度天文学计算，用于查找行星、彗星或小行星的位置，确定特定星体的位置，计算月球各阶段的日期，天文坐标系转换，确定春分和冬至的日期，等等。&lt;/p&gt;
-&lt;p&gt;本文首发于： &lt;a href="https://pythoncat.top/posts/2023-11-25-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2023-11-25-weekly&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;🐼欢迎订阅&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;微信公众号&lt;/a&gt;：除更新周刊外，还发布其它原创作品，并转载一些优质文章。（可加好友，可加读者交流群）&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pythoncat.top" rel="nofollow"&gt;博客&lt;/a&gt; 及 &lt;a href="https://pythoncat.top/rss.xml" rel="nofollow"&gt;RSS&lt;/a&gt;：我的独立博客，上面有历年原创/翻译的技术文章，以及从 2009 年以来的一些随笔。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/chinesehuazhou/python-weekly" rel="nofollow"&gt;Github&lt;/a&gt;：你可以获取本周刊的 Markdown 源文件，做任何想做的事！&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;邮件&lt;/a&gt;：在 Substack 上开通的频道，满足你通过邮件阅读时事通讯的诉求。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://t.me/pythontrendingweekly" rel="nofollow"&gt;Telegram&lt;/a&gt;：除了发布周刊的通知外，我将它视为一个“副刊”，补充发布更加丰富的资讯。&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://twitter.com/chinesehuazhou" rel="nofollow"&gt;Twitter&lt;/a&gt;：我的关注列表里有大量 Python 相关的开发者与组织的账号。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sun, 26 Nov 2023 02:48:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995251#reply0</guid></item><item><title>[问与答] 如何在 mac 里查看蓝牙设备的蓝牙版本</title><link>https://www.v2ex.com/t/995250#reply0</link><description>mac 13 系统，查看系统报告，只有固件版本。</description><pubDate>Sun, 26 Nov 2023 02:48:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995250#reply0</guid></item><item><title>[问与答] 毕业 3-5 年的兄弟们，你们现在咋样？</title><link>https://www.v2ex.com/t/995249#reply15</link><description></description><pubDate>Sun, 26 Nov 2023 02:42:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995249#reply15</guid></item><item><title>[Surge] 最新的 Surge 更新把实时网速的 Today Widgets 更新没了？</title><link>https://www.v2ex.com/t/995248#reply1</link><description>&lt;p&gt;今天更新 Surge 发现实时网速的模块消失了&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995248#reply1</guid></item><item><title>[Surge] 出 ios 的 surge 车位</title><link>https://www.v2ex.com/t/995247#reply1</link><description>一个车位 95(永久),换设备自己反激活,如果自己跳车不退,目前续费 24/02&lt;br /&gt;&lt;br /&gt;需要的联系 tg: &lt;a href="http://t.me/addsurge" rel="nofollow noopener" target="_blank"&gt;t.me/addsurge&lt;/a&gt;</description><pubDate>Sun, 26 Nov 2023 02:23:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995247#reply1</guid></item><item><title>[奇思妙想] 快捷指令问题求助</title><link>https://www.v2ex.com/t/995246#reply0</link><description>&lt;p&gt;老哥们上午好，之前自己简单弄了一个快捷指令计算工资，只要选择自己的等级和这个月的工时就能算出对应的工资，现在有这样一个想法不知道能不能实现，请各位老哥帮忙看看。
-唤醒 siri 后，和 siri 对话中包含了工时关键字，然后 siri 记录下这个工时，然后把这个工时传递给工资计算快捷指令，计算出结果，然后进行语音播报。
-请问这个想法可以行吗？
-感谢各位老哥！！！&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:21:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995246#reply0</guid></item><item><title>[问与答] 你见过什么 github 上的开源项目搭配 vercel 或 cloudflare 的 Worker 就可以建成网站的</title><link>https://www.v2ex.com/t/995245#reply2</link><description>&lt;p&gt;目前我见过 notionnext 和一个 url 缩短的项目
-分别是
-&lt;a href="https://github.com/tangly1024/NotionNext" rel="nofollow"&gt;https://github.com/tangly1024/NotionNext&lt;/a&gt;
-&lt;a href="https://github.com/crazypeace/Url-Shorten-Worker" rel="nofollow"&gt;https://github.com/crazypeace/Url-Shorten-Worker&lt;/a&gt;
-都是很实用的项目，非常适合没有编程基础的小白培养兴趣，同时也不需要 vps ，门槛极低，如果你觉得有类似的项目，麻烦分享出来&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995245#reply2</guid></item><item><title>[OpenAI] 请问用 gpt 来学外语效果怎么样？可以用来代替外教吗？会不会经常出错？</title><link>https://www.v2ex.com/t/995244#reply5</link><description>&lt;p&gt;有没有用过的人说说？&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995244#reply5</guid></item><item><title>[macOS] macOS 15 什么时候发布呢？有消息显示会更新什么新特性吗？</title><link>https://www.v2ex.com/t/995242#reply1</link><description>&lt;p&gt;手里用的 mbp17 ，虽然芯片提升很大，但是升级的兴趣不大。因为 macOS 摆烂，完全没什么让人喜欢的特性想升级。而且系统还有一大堆历史 bug 苹果从来不修。&lt;/p&gt;
-&lt;p&gt;15 不知道什么时候发布，网上有什么消息会更新什么东西吗？如果系统有重大升级，再考虑换新系统。&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 02:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995242#reply1</guid></item><item><title>[Python] 学科网预览文档打印求助</title><link>https://www.v2ex.com/t/995241#reply3</link><description>&lt;p&gt;各位老哥早上好，家里孩子上初中了经常需要各种试卷，我负责给他找试卷，主要用到的几个网站：学科网、组卷网和菁优网，之前有个 python 脚本可以把学科网的预览页面进行解析生成 html 文档，然后借助浏览器打印成 pdf 。但是最近学科网的文档预览机制（或者代码）好像做了修改，现在能够获取到的内容只有一部分，之前是可以全部预览的。那位老哥路过有时间帮忙看看或者分析下。
-之前使用的代码如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;import requests
-from re import findall, sub
-from hashlib import md5
-
-HTML_FORMAT ='''
-&amp;lt;html&amp;gt;
-
-&amp;lt;head&amp;gt;
-&amp;lt;title&amp;gt;{title}&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-
-&amp;lt;body&amp;gt;
-{body}
-&amp;lt;/body&amp;gt;
-
-&amp;lt;/html&amp;gt;
-'''
-
-def writefile(filename,text):
-    filename = sub(r"""[\*\/\\\|\&amp;lt;\&amp;gt;\? \:\.\'\"\!]""", "", filename)
-    unique = md5(text.encode())
-    filename += "_"+unique.hexdigest()[:5]
-    filename+=".html"
-    print("Writing "+filename)
-    # print("-=-=-=-=\n",text,"\n-=-=-=-=")
-    with open(filename+'.html', 'w', encoding="utf-8") as f:
-        f.write(text)
-
-def main():
-    softID=input("ID: ")
-    url = "https://www.zxxk.com/soft/Preview/FirstLoadPreviewJson?softID={}&amp;amp;type=3&amp;amp;product=1&amp;amp;v=2&amp;amp;FullPreview=true"
-    response = requests.get(url.format(softID))
-    if response.status_code!=200:
-        print("ERROR")
-        print(response.status_code)
-        return -1
-    ret=response.json()["data"]
-    if not ret["IsSuccess"]:
-        print("ERROR: IsSuccess option is not true")
-        print(ret)
-    if not ret['IsRar']:
-        print("Not rar")
-        print("TotalPage=%d" % ret['TotalPage'])
-        print("SoftExt=%s" % ret['SoftExt'])
-        try:
-            html=ret["Html"]
-            print(ret)
-        except:
-            print(ret)
-            exit(1)
-        # replace "data-original" to "src" for showing in browser
-        html=html.replace("data-original", "src")
-        writefile(f"{softID}",html)
-    else:
-        print("is RAR")
-        rar=ret['rarPreviewInfo']
-        for file in rar:
-            html=file["Html"]
-            title=file["SoftName"]
-            # replace "data-original" to "src" for showing in browser
-            # html=html.replace("data-original", "src")
-            urls=findall("(?&amp;lt;=data-original=\") https://preview.zxxk.com/\\S+(?=\")",html)
-            l=[]
-            for url in urls:
-                if "jpg" in url:
-                    l.append(f"&amp;lt;img src={url} /&amp;gt;")
-                    continue
-                page=requests.get(url,cookies=response.cookies)
-                if not page.status_code==200:
-                    print(page)
-                    print(page.status_code)
-                    print(page.text)
-                assert page.status_code==200
-                l.append(page.text)
-            format_html=HTML_FORMAT.format(title=title,body="\n".join(l))
-            writefile(title,format_html)
-
-if __name__  == "__main__":
-    while True:
-        main()
-        
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 27 Nov 2023 02:34:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iOS] 美区账号使用查找 app 总是无法连接服务器。</title><link>https://www.v2ex.com/t/995475#reply0</link><description>&lt;p&gt;必须挂代理才能正常使用，网上都推荐苹果的分流规则走直连就可以啊。有遇到同样问题的小伙伴吗？&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995475#reply0</guid></item><item><title>[Go 编程语言] go 语言用起来好操蛋</title><link>https://www.v2ex.com/t/995474#reply0</link><description>&lt;p&gt;用 go 写代码刷题觉得太操蛋了，相比 c++/java ，语法非常繁琐，还有操蛋的指针、context 。也许优势就是实现了 M:N 线程系统吧&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:33:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995474#reply0</guid></item><item><title>[职场话题] 经历过网课时代的兄弟们，你们现在咋样？</title><link>https://www.v2ex.com/t/995473#reply0</link><description>我也是其中一个哈哈。&lt;br /&gt;20 年上了大半年网课，21 年匆匆忙忙搞完毕设，发现工作是真的的难找。就这么懵懵懂懂离开学校，也没找到合适的工作。&lt;br /&gt;一连找了几个月，当时真是破罐子破摔的心都有了，心态也从一开始的“这工作太累，那工资太低”，到后来“只要谁给我 offer 我就去”。也算是年轻人第一次被社会毒打了哈哈。&lt;br /&gt;最后熬到快年底终于有班上了，上班之后也没啥特别的目标，过一天是一天，就这么过了两年。&lt;br /&gt;&lt;br /&gt;前几个月涨了工资，我终于舍得从朝北的小房间换到了朝南带独卫的大房，虽然还是合租哈哈。不过冬天是真的比之前暖好多。&lt;br /&gt;&lt;br /&gt;之后的路也不知道咋走，还是默默的做好做自己吧。&lt;br /&gt;你们呢？</description><pubDate>Mon, 27 Nov 2023 02:32:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995473#reply0</guid></item><item><title>[MacBook Pro] 升级到 Sonoma，对 po jie 的 PD 虚拟机有影响吗？会不会 po jie 失效不能用了</title><link>https://www.v2ex.com/t/995471#reply1</link><description></description><pubDate>Mon, 27 Nov 2023 02:31:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995471#reply1</guid></item><item><title>[Apple] 求推荐 iPhone +watch+airpods 充电支架</title><link>https://www.v2ex.com/t/995470#reply0</link><description>&lt;p&gt;大佬们现在用的是什么充电支架？不要那种第三方的 Magsafe ，想要那种把官方的充电器嵌入进去的支架。大家有没有推荐的，iphone 和 airpods 可以共用一个 magsafe 。&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:30:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995470#reply0</guid></item><item><title>[问与答] 程序员没有在规定时间内完成开发任务，大家会怎么处理？</title><link>https://www.v2ex.com/t/995469#reply0</link><description>&lt;h2&gt;如题&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;项目每个模块都有节点，相互依赖，本来 A 模块排期 第一周结束，第二周开始 B 模块，B 模块会依赖 A 模块，因为 A 模块的没有完成 就会一直拖，导致最终上线时间延期。 想问问大家对这一问题 都是怎么处理的？
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后试卷的地址:&lt;a href="https://www.zxxk.com/soft/40662248.html" rel="nofollow"&gt;https://www.zxxk.com/soft/40662248.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:48:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995241#reply3</guid></item><item><title>[机器学习] 有什么比较简单的方式能训练图像识别模型么</title><link>https://www.v2ex.com/t/995240#reply4</link><description>非人工智能方向的专业人士，想实现一个这样的功能，求最短路径，感谢。&lt;br /&gt;1. 给定一批有特征的图片，例如所有的图片都有一只狸花猫，但是猫的形态和长相都不同&lt;br /&gt;2. 根据这些图片自主训练得到特征&lt;br /&gt;3. 给一张新的狸花猫，能告诉我这是一个狸花猫&lt;br /&gt;&lt;br /&gt;对这个方向完全是小白，见笑了</description><pubDate>Sun, 26 Nov 2023 01:48:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995240#reply4</guid></item><item><title>[问与答] 安卓或者 ios 有没有通话中自动或者手动回复语音</title><link>https://www.v2ex.com/t/995237#reply0</link><description>&lt;p&gt;RT ，家有宝宝，晚上不方说话，能不能接通后选择预定文字，或者手打文字后转为语音返回给对方。已经知道小米有“ai 电话助手”可以实现，奈何没有闲置小米手机😮‍💨，其他安卓或者苹果有解决方案吗？实在没办法只能买一个小米🙁&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:34:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995237#reply0</guid></item><item><title>[云计算] cloudflare 抗 ddos 真的很强吗？</title><link>https://www.v2ex.com/t/995236#reply5</link><description>阿里云也有类似的服务，与两家商务经理联系后都获得解决方案，两家方案价格差不多，具体哪一家好一些</description><pubDate>Sun, 26 Nov 2023 01:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995236#reply5</guid></item><item><title>[OpenAI] 出 chatgptplus</title><link>https://www.v2ex.com/t/995235#reply3</link><description>&lt;p&gt;60 出 chatgptplus
-质保用 14 天
-运气好的话能用 30 天
-tg:@LikeLLo&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:31:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995235#reply3</guid></item><item><title>[iPad] 下一代 iPad air 可能是 m2， pro 则是 m3</title><link>https://www.v2ex.com/t/995234#reply1</link><description>&lt;p&gt;个人推测&lt;/p&gt;</description><pubDate>Sun, 26 Nov 2023 01:27:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995234#reply1</guid></item></channel></rss>
+&lt;h2&gt;举个例子&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;A 模块一个功能，安排给了一个开发人员，我评估大概需要 3 天工作量，实际开发人员评估 5 天完成，给了他 5 天时间，结果 5 天之后 各种理由说没有完成， 而且每天走的都是第一个，当然这也不是第一次， 之前几次都不了了之， 我觉得就是因为有前几次的情况 他觉得完不成也没啥，所以这种事情越来越严重， 但是这次领导给我施压，一定到杜绝这种现象；
+
+罚钱 或者 明确在绩效里？ 满几次就走人？
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 27 Nov 2023 02:29:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995469#reply0</guid></item><item><title>[问与答] Airpod pro 左耳有杂音，求助</title><link>https://www.v2ex.com/t/995468#reply0</link><description>2020 年购买的，已过保。&lt;br /&gt;问一下大家，是应该预约 apple store 维修吗？大约要花多少钱？ 700 ？&lt;br /&gt;还有没有其他的办法？&lt;br /&gt;顺便再问一下，有没有便携降噪耳机推荐？（手上已有 sony xm3 ，Airpod pro 的音质真的一言难尽）</description><pubDate>Mon, 27 Nov 2023 02:29:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995468#reply0</guid></item><item><title>[职场话题] 毕业 8-10 年的兄弟们，你们现在咋样？</title><link>https://www.v2ex.com/t/995466#reply0</link><description>&lt;p&gt;中老年也需要关怀&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:26:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995466#reply0</guid></item><item><title>[DNS] 深度折腾 DNS 分流的大佬有吗？你们是什么方案呀？</title><link>https://www.v2ex.com/t/995465#reply0</link><description>&lt;p&gt;我目前的方案：&lt;/p&gt;
+&lt;p&gt;根 DNS 服务器：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;SmartDNS ，开启乐观缓存
+
+国外回源:tls:8.8.8.8 tls:1.1.1.1
+
+国内回源:tls:233.5.5.5 tls:223.6.6.6 (阿里云 DNS)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;回源名单用的这个项目:&lt;a href="https://github.com/felixonmars/dnsmasq-china-list" rel="nofollow"&gt;dnsmasq-china-list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二级 DNS 服务器： &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;AdGuard
+
+回源：SmartDNS
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;客户端设备：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;DHCP 下发 AdGuard DNS 地址
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;问题：偶尔还是会受到污染，但是找不到问题在哪。&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995465#reply0</guid></item><item><title>[问与答] 适应了无线外设，再回有线很难啊，求推荐蓝牙耳机发射器</title><link>https://www.v2ex.com/t/995463#reply0</link><description>&lt;p&gt;因为不玩游戏了，键鼠早早都换成无线的了，现在买键鼠，有线的基本不考虑了，办公室配发的电脑我也自费换了。&lt;/p&gt;
+&lt;p&gt;最近习惯了手机上 tws 耳机，感觉 PC 上用有线耳机也各种不舒服了，但是单位配发的 PC 较老，没有蓝牙，网上买个几块钱的那种 usb 插头发射器，就能配上无线耳机使用了吧？&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995463#reply0</guid></item><item><title>[问与答] 抽烟和喝酒的人知道抽烟和喝酒对自己的危害吗？</title><link>https://www.v2ex.com/t/995462#reply3</link><description></description><pubDate>Mon, 27 Nov 2023 02:24:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995462#reply3</guid></item><item><title>[分享发现] 利用 Copilot 来练习英语语法的小技巧</title><link>https://www.v2ex.com/t/995461#reply1</link><description>&lt;p&gt;我的英语语法很烂，烂到什么请观看：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-markdown"&gt;yesterday I resorted my blog, and found that what i write about is shallow and fragmented. I should increase my output, write down the thing I'm learning, that is the can't missed way to learn.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;所以我在想办法练习，之前主要是看书，但是总是看不进去，相比于看视频，看语法真的是看了知道了，然后又忘了。最近我找到一个好办法，就是日常大量练习输出写随记，通过 github copilot 纠正。Copilot 的 shift + command + I 快捷键，能对选中的段落进行对话 /fix.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://4l.hk/assets/img/WX20231127-095842@2x.png" /&gt;&lt;/p&gt;
+&lt;p&gt;这是我的 prompt:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/fix help me correct my grammar, modify as less as possible
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;效果非常满意，不会说一堆乱七八糟的，用最小的改动，贴合你的想法来纠正语法，我有时候不知道怎么表达，就乱表达，用稍微沾点边的词来说，copilot 会帮你纠正，给你给满意的句子， 每次写完 我都有种感觉，噢又学到了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://4l.hk/assets/img/20231127095149.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;这个方法的要求就是你要像我一样，本身是嘴碎脸皮厚的人，什么乱七八糟无营养的事情都能写来来，坚持多写写，语法会有很大的提升的。这是我的博客，写的乱七八糟，但是可以看看 copilot 的效果： &lt;a href="https://4l.hk/moments/index.html" rel="nofollow"&gt;https://4l.hk/moments/index.html&lt;/a&gt;  （点开请不要嘲笑我，这是碎碎叨叨自己看的）&lt;/p&gt;
+&lt;p&gt;另外我最近在做一些事情，怎么用我的垃圾英语来体验高贵的真实英语环境，比如 podcast ，看电影什么的，非常想跟有同样理念：&lt;strong&gt;我不想学英语，我只想用英语，而且我坚信，用起来就够了&lt;/strong&gt;的小伙伴能交流。&lt;/p&gt;
+&lt;p&gt;群就不建了，懒得打理，真的有兴趣一起&lt;strong&gt;听播客，看美剧，看 youtube&lt;/strong&gt;的同学，可以加我微信 ID: slanning&lt;/p&gt;
+&lt;p&gt;麻烦纯聊天的不要加，拜托了，只想找学友。&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:16:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995461#reply1</guid></item><item><title>[问与答] 预算 5k 左右；求份装机配置清单，包括显示器。</title><link>https://www.v2ex.com/t/995460#reply5</link><description>家里亲戚，需求主要是平常玩玩游戏，lol 、吃鸡、csgo 这些；理论上应该不会有什么其它工作需求，预期就是性价比，能多玩几年，游戏体验好。&lt;br /&gt;鉴于临时补课来不及，所以想来这边搜集下屌大的大佬们意见，好人一生平安。</description><pubDate>Mon, 27 Nov 2023 02:16:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995460#reply5</guid></item><item><title>[问与答] 女朋友想买个胶片相机，奈何完全陌生领域，求懂哥看看有没有坑</title><link>https://www.v2ex.com/t/995459#reply10</link><description>&lt;p&gt;女朋友最近想买一个相机，说是相机拍照好看（其实可能就是想要相机）&lt;/p&gt;
+&lt;p&gt;我听了一圈需求，貌似只得到要 [&lt;strong&gt;胶片&lt;/strong&gt;] 相机的需求&lt;/p&gt;
+&lt;p&gt;===========================&lt;/p&gt;
+&lt;p&gt;于是小红书和某宝研究了半天，暂时打算购入如下两款，分别是&lt;/p&gt;
+&lt;p&gt;1 、相机：二手 95 新 [佳能 EOS 5 一年保障 自动对焦 高级 胶片机 单反 胶卷相机 EOS5 ] ，价格¥768&lt;/p&gt;
+&lt;p&gt;2 、镜头：二手 98 新 [佳能 EF 135 2.8 中焦定焦 自动对焦 人像 美人柔焦 二手镜头 5D3 ] ，价格¥1680&lt;/p&gt;
+&lt;p&gt;===========================&lt;/p&gt;
+&lt;p&gt;但是奈何完全是没有相关领域的知识，所以有没有对相机这个比较懂的，能帮忙看看&lt;/p&gt;
+&lt;p&gt;1 、这个价格，是不是贵了？ 某宝搜的， [日本飞鱼二手] 店铺的&lt;/p&gt;
+&lt;p&gt;2 、如果我预算 3000 左右（可以上浮一点），有没有什么其他组合，比当前的更好一点，能拍出 [胶片感] 的相机加镜头&lt;/p&gt;
+&lt;p&gt;最后为啥选择上面两个？因为小红书这么推荐的 0.0&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:15:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995459#reply10</guid></item><item><title>[问与答] 求个笔记本无线方案，手机热点还是随身 Wi-Fi？</title><link>https://www.v2ex.com/t/995457#reply1</link><description>工作原因，虚机走的公司网络，目前一直是开热点给笔记本，现在有俩个问题，1 是手机流量从 50g-&amp;gt;20g ，不一定够用，2 是手机长时间开热点电池已经 78%（也可能是日常损耗）。这种情况是继续手机热点好还是还是买个随身 Wi-Fi 好了，有没有有经验的 v 友推荐一下</description><pubDate>Mon, 27 Nov 2023 02:15:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995457#reply1</guid></item><item><title>[问与答] 现在也没有啥输入法比较好用？</title><link>https://www.v2ex.com/t/995456#reply5</link><description>· 支持其他输入法导入&lt;br /&gt;· 至少支持 Win+Android 同步&lt;br /&gt;· 流畅不卡机&lt;br /&gt;&lt;br /&gt;用了十年百度了，最近实在受不了了。办公电脑动不动就闪退把浏览器卡死，家里的笔记本也是用着用着就突然无法输入任何字符。手机上倒是没啥毛病，电脑上天天崩也不是个事儿。微信输入法体验倒是很不错，但是不支持词库导入，而且安全问题懂得都懂。&lt;br /&gt;&lt;br /&gt;之前用了几年 QQ ，后来也不更新了，而且有一阵子总是把我的词库清空。攒了一万多词瞬间就没了，而且输入起来极其诡异，例如输入“nh”，一般给的是“你好”，QQ 就给你推荐“拟好”，打字效率低了很多，因为还得手动选词。</description><pubDate>Mon, 27 Nov 2023 02:11:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995456#reply5</guid></item><item><title>[问与答] magic mouse 蓝牙信号问题</title><link>https://www.v2ex.com/t/995455#reply0</link><description>在家和公司，各使用一只一代的 magic mouse 。&lt;br /&gt;在公司，使用流畅。&lt;br /&gt;在家使用，断断续续的，不管是移动指针，还是滑动窗口。&lt;br /&gt;然后，在家看电影，用 Redmi Buds 3 ，也是断断续续的，那应该是家里蓝牙被干扰了。&lt;br /&gt;想问下，买只新款的 magic mouse ，蓝牙问题能解决吗？毕竟一代的蓝牙是 4.0 ，现在蓝牙都 5.3 了</description><pubDate>Mon, 27 Nov 2023 02:10:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995455#reply0</guid></item><item><title>[问与答] 自动生成数据库数据的工具？</title><link>https://www.v2ex.com/t/995453#reply4</link><description>&lt;p&gt;问题：有没有根据 mysql 元数据，自动生成表的模拟数据，不需要一个一个配置的软件&lt;/p&gt;
+&lt;p&gt;调查：很多这样的软件，都是先建模型，再生成脚本，少量表还好，多了，真的很麻烦&lt;/p&gt;
+&lt;p&gt;各位有这样的软件或办法吗？如果没有现成的软件，只能自己写一个了。&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:06:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995453#reply4</guid></item><item><title>[问与答] 年末被裁年终奖的问题</title><link>https://www.v2ex.com/t/995452#reply6</link><description>&lt;p&gt;11 月收到被裁的消息，领导会说正常赔偿 N+1,但是年年都会发 2-4 个月的年终奖，走热工资结算的时候这个年终奖还会被换算吗？&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:05:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995452#reply6</guid></item><item><title>[分享创造] Stable-Video-Diffusion Img to Videos</title><link>https://www.v2ex.com/t/995450#reply0</link><description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;img alt="284758167-367a25d8-8d7b-42d3-8391-6d82813c7b0f" class="embedded_image" rel="noreferrer" src="https://github.com/xx025/stable-video-diffusion-webui/assets/71559822/00a0be47-a6e6-4c77-9bbc-ff8b5d899cfe" /&gt;&lt;/th&gt;
+&lt;th&gt;&lt;img alt="000003" class="embedded_image" rel="noreferrer" src="https://github.com/xx025/stable-video-diffusion-webui/assets/71559822/8f53ac31-04fe-4e78-bbe0-625e690267cc" /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;img&lt;/td&gt;
+&lt;td&gt;videos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;URL: &lt;a href="https://github.com/xx025/stable-video-diffusion-webui" rel="nofollow"&gt;stable-video-diffusion-webui&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 27 Nov 2023 02:04:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995450#reply0</guid></item></channel></rss>
