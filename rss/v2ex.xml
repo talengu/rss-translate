@@ -1,96 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 28 Nov 2023 12:40:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 最近在玩 ai 画图，想知道各位大佬用什么关键词提示 ai</title><link>https://www.v2ex.com/t/996038#reply1</link><description>&lt;p&gt;我最近在用 ComfyUI 玩 ai 画图，想用还原几个真人版动画人物，然而效果不佳，应该怎么提示呢？比如双马尾，我提示 Double tail ，它搞出来则是一条辫子扎两次，请求大佬分享经验~&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:25:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996038#reply1</guid></item><item><title>[Apple] iPad Mini 6 搜了一下有点乱，怎么入比较划算？</title><link>https://www.v2ex.com/t/996037#reply1</link><description>&lt;p&gt;之前的 iPad Mini 4 电池不行，卡，想换一个。&lt;/p&gt;
-&lt;p&gt;首先上 pdd 搜，没有百亿补贴，发现全是二手/扩容机，普遍 3500 。看起来不怎么可靠。
-然后上 Apple Store ，找到了官翻的 256G 蜂窝版，5500 在想 mini 为何如此贵。
-此后上 Taobao ，基本上也和 pdd 类似。
-最后上闲鱼 == 不仅二手还贵，有的还是三手以上了，不如前几个。&lt;/p&gt;
-&lt;p&gt;所以该如何入比较划算。如果出 Mini 7 ，官方的直接回收比较方便？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:25:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996037#reply1</guid></item><item><title>[程序员] 新项目规模小怎么开发 app 是最优解？</title><link>https://www.v2ex.com/t/996036#reply4</link><description>&lt;p&gt;问下，最近在搞自己的论坛项目，想找人开发一个 App ，&lt;/p&gt;
-&lt;p&gt;用户目前都是网页端使用为主，但最近开始用户想要移动端，
-有啥方式能够在资金不是很多，但用户体验至少能比网页好点的方式么？
-等到未来有点资金再改成 RN 或 flutter 之类的开发方式&lt;/p&gt;
-&lt;p&gt;目前小资金预算只有几 K ，
-或是说这样是有梦最美不可能呢？&lt;/p&gt;
-&lt;p&gt;有搜索过套壳 app ，想上架到海外 play 商店和苹果商店，
-但似乎套壳对苹果商店不会过审核样子，不清楚具体情况，网络上搜到的，
-加上我不太清楚 app 的技术线，只有大概知道原生、半原生和混合以及套壳那些的初浅概念，&lt;/p&gt;
-&lt;p&gt;有 V 友能给个建议或科普下么，先谢谢各位了&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:19:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996036#reply4</guid></item><item><title>[程序员] 12 月被“释放”，请各位帮忙分析一下应不应该去员工坟场</title><link>https://www.v2ex.com/t/996035#reply0</link><description>a.直接走，能拿一个月工资&lt;br /&gt;b.去员工坟场待岗一个月，第一个月拿正常工资，之后会帮忙交社保但只给最低工资，有机会回到项目&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;a 的好处是能马上过年&lt;br /&gt;选 b 的好处是能待岗时期专心复习，并且有机会回到项目（继续当米虫🤣），缺点是要去打卡，通勤很远，来回三小时了，而且这个时间点，待岗，最后几天应该是在年前，不好抢票压力大&lt;br /&gt;&lt;br /&gt;小弟目前的存款苟活半年是绝对没问题的，就是怕人躺废了，不想上班。</description><pubDate>Tue, 28 Nov 2023 12:19:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996035#reply0</guid></item><item><title>[分享创造] 耗时 3 个月，偷偷摸摸写的管理系统🐒🐒🐒</title><link>https://www.v2ex.com/t/996034#reply0</link><description>&lt;h2&gt;在线演示&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://vite.itnavs.com/admin/" rel="nofollow"&gt;在线演示&lt;/a&gt;
-&lt;a href="https://github.com/hangjob/vue-bag-admin" rel="nofollow"&gt;Github 源码&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;图片预览&lt;/h2&gt;
-&lt;h3&gt;PC 端&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="pc.jpg" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7fa4d87f766842e2a4665c37b8f92b0c%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=1078&amp;amp;s=313117&amp;amp;e=jpg&amp;amp;b=e5e5e5" /&gt;&lt;/p&gt;
-&lt;h3&gt;iPad 端&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="ipad.jpg" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cdd15c258ba04518a05110e46ff76181%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=1500&amp;amp;s=422662&amp;amp;e=jpg&amp;amp;b=fefdfd" /&gt;&lt;/p&gt;
-&lt;h3&gt;Mobile 端&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="mobile.jpg" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6bca73a2a66f42d88141824de479e7d2%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=2667&amp;amp;s=678036&amp;amp;e=jpg&amp;amp;b=fefdfd" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:15:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996034#reply0</guid></item><item><title>[机器学习] 感知机是线性模型，如果我使用 x^2、x^3 的方式引入非线性，可以达到神经网络那样的效果么？</title><link>https://www.v2ex.com/t/996029#reply1</link><description>神经网络的非线性来自于激活函数，但是神经网络几乎无法从物理层面说明原理。既然目标都是做拟合，那么多项式拟合任意函数从物理上也更直观一些吧？比如泰勒级数也可以做任意函数的拟合，不知道前人有没有试过引入变量的平方、三次方、四次方来做呢？</description><pubDate>Tue, 28 Nov 2023 11:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996029#reply1</guid></item><item><title>[VPS] [出] 绿云 US 圣何塞 7763 五核 10g 内存 100 刀/三年</title><link>https://www.v2ex.com/t/996028#reply0</link><description>&lt;p&gt;绿云&lt;/p&gt;
-&lt;p&gt;美国 圣何塞&lt;/p&gt;
-&lt;p&gt;测试 ip：173.249.207.182&lt;/p&gt;
-&lt;p&gt;配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;5 核 cpu ，AMD EPYC 7763
-10g 内存
-100g NVMe 高速固态 raid
-10T 流量/月
-10Gbps 带宽
-ipv4+ipv6
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;续费价格。100 刀/三年&lt;/p&gt;
-&lt;p&gt;2026 年 10 月 16 到期&lt;/p&gt;
-&lt;p&gt;明盘 800 包 push （ push 费 10 刀）&lt;/p&gt;
-&lt;p&gt;联系方式，TG 与 WX 同号：brunuhville&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:35:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996028#reply0</guid></item><item><title>[酷工作] 招 PHP 长期 [远程兼职]</title><link>https://www.v2ex.com/t/996027#reply1</link><description>&lt;p&gt;招 PHP 远程兼职。
-要求：熟悉 laravel&lt;/p&gt;
-&lt;p&gt;有 v2board 经验优先。&lt;/p&gt;
-&lt;p&gt;长期真心合作。
-骗子不要来浪费时间。&lt;/p&gt;
-&lt;p&gt;邮箱：d2F5bmVuZ3MyMDIwQGdtYWlsLmNvbQo=&lt;/p&gt;
-&lt;p&gt;Telegram: @&lt;a href="https://www.v2ex.com/member/aldxxa"&gt;aldxxa&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:32:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996027#reply1</guid></item><item><title>[宽带症候群] 上海联通双 12 特惠融合套餐办理来了</title><link>https://www.v2ex.com/t/996026#reply0</link><description>&lt;p&gt;39 元套餐，包含 1200 分钟国内通话，100G 国内通用流量，爱奇艺腾讯优酷等会员多选一，500 兆家庭宽带。每月加 10 元可以提速到 500 下/200 上，或者加 10 元提速到 1000 下 仅限上海本地办理，宽带为必选项，安装费每条宽带 100 元。优惠期 2 年，到期续约。本套餐无需携转，可以新开联通号码，也欢迎携转。联通老用户改不了本套餐。 本套餐每月另加 30 元可以多拿一条 1000 下宽带，安装地址可以和首宽相同，也可以不同，副宽带也可以加 10 元提速 1000 下 200 上竣工后可以获取动态公网 IP 。联系方式不变 S2FkZHk5MjE=解码即可
-本套餐可以办理最多不超过 4 张月租为 0.1 元的副卡，共享主卡套餐资源。
-仅限上海本地线下办理，异地不可办理。。携转也必须上海本地号码才可以。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:29:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996026#reply0</guid></item><item><title>[生活] 我有一台闲置的笔记本电脑，可以用来做服务器吗？求教程</title><link>https://www.v2ex.com/t/996025#reply0</link><description>兄弟们有弄过的吗，求指导</description><pubDate>Tue, 28 Nov 2023 11:25:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996025#reply0</guid></item><item><title>[分享发现] [求助] 求助人的故事</title><link>https://www.v2ex.com/t/996023#reply2</link><description>写在前面：&lt;br /&gt;文章是我老婆帮忙编辑的，大学同学，真实的故事，如果有打扰到还请包涵一下。&lt;br /&gt;&lt;br /&gt;链接： &lt;a href="https://www.shuidichou.com/cf/contribute/612d5e81-f35d-4434-b825-2c9f296e9996" rel="nofollow noopener" target="_blank"&gt;https://www.shuidichou.com/cf/contribute/612d5e81-f35d-4434-b825-2c9f296e9996&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;文章的开头让我先给接下来浏览我人生惨记的你问声好，相逢即是缘，&lt;br /&gt;即使我们可能永远没有相遇的机会，但人生最宝贵的是时间，此刻你能为我停留，也真是我的荣幸之至。&lt;br /&gt;&lt;br /&gt;我叫张甜，甜蜜的甜，都说人如其名，而我却非相貌甜甜的女孩子，本人拥有八尺男儿身，体重高达 160 ，名副其实的壮汉一枚。&lt;br /&gt;我虽名带甜字，命却相反，短短人生三十载，我的命运不仅在急转弯之后没有刹车，现在又要带我冲往死亡的悬崖，真是出乎意料又好像命中注定。&lt;br /&gt;一个连续 6 年没有生过病的人，连感冒都没有，一个连续 6 年都不敢生病的人，就在 2 周前却被诊断为：B 型急性淋巴细胞白血病。&lt;br /&gt;&lt;br /&gt;短短两周我经历了：血小板紧逼临界值，经常在 10 左右的数字徘徊，全身肿胀，皮肤发痒，很严重的口腔溃疡，恶心，吃啥吐啥，肛周发炎等，新鲜的血液和抗生素目前是我维持生命体征的重要源泉。&lt;br /&gt;&lt;br /&gt;初来乍到白血病房，我在这里能深刻感受到生命的脆弱和珍贵，&lt;br /&gt;同时也体验了一把“花钱如流水”的痛感，对，不是快感，是痛感，&lt;br /&gt;&lt;br /&gt;父母老矣，本人未婚，本应三十而立努力拼搏赚钱成家，但我却在这病房捉襟见肘，马上要山穷水尽，枯灯油尽了。&lt;br /&gt;也许不会有人相信，我一个本科毕业 7 年的人，却在生命危急之时连一点点救命钱都拿不出来，但这事实真真切切，叫人无可又奈何。&lt;br /&gt;&lt;br /&gt;我的命运从我在河南的小乡村里考上不错的大学，再到毕业后南下北上，在北京成为一名收入颇丰的技术开发工程师开始好像有点要翻盘的意思，&lt;br /&gt;但逆转局势，扭转乾坤的人生赢家剧本还是没轮到我头上，人生前 20 几年的清贫之苦不怨任何人，但这毕业 7 年后的窘迫之苦都拜自己所赐。年轻气盛，本以为找到赚钱摆脱穷困命运的机会，在沼泽泥泞里这一陷就是 3 年，再也没爬上岸。这 3 年我每天在暗无天日中彻夜不眠，做梦都想快点熬出头，回归正常的生活。我这 3 年心灰意冷过，萎靡不振过，失望过，也绝望过，为自己的行为抱恨终天，被追债者吓到惊慌失措每天过的胆战心惊，在被家人得知境况后我无地自容，对于他们的接济更是问心有愧，也在吃不上饭饿的头晕眼花之时悔不当初。&lt;br /&gt;&lt;br /&gt;6 年间昔日同窗结婚生子，我还债躲债，春节团圆父母翘首以盼，我依旧还债躲债，奶奶生病 5 年，我回去探望的次数寥寥无几，每每想念只能手机相望，直至两月前奶奶去世我这不肖子孙才敢出现在众人面前送她最后一程。表妹收拾遗物时给了我 24 块钱。她说是奶奶藏在枕头下交待留给我的，我想这应该是奶奶曾经给我说的，以后她给孙媳妇的红包，想必她是在尽她所能在做这件事，可惜这 24 块钱没有等到我结婚，奶奶也没等到。&lt;br /&gt;&lt;br /&gt;就在我发病的上一周，我收到了法院的银行账户解封通知。&lt;br /&gt;我马上可以重见天日光明正大的找更好的工作了，可以更快的还剩下的债务了，但白血病这个时候却来了&lt;br /&gt;我不禁想，这好似一种嘲笑，嘲笑我这三年白费力气，白白吃苦，虽然这苦是我罪有应得。我未被债务压死，历尽千辛万苦的还债之路刚迎来一丝曙光，还没取得最终胜利，却因病入膏肓但无钱可治，只能等死。&lt;br /&gt;&lt;br /&gt;入院这 2 周，我庆幸我身边还有一个她守着病床照顾我，我们恋爱 2 年，因网络结缘&lt;br /&gt;她知晓我一切状况，我的债没有吓走她，我的病依旧没有吓走她。&lt;br /&gt;她名中也带田，这也许是就命中注定的缘分，我们计划明年结婚，我们计划我们的孩子就叫张田甜，我们计划债务分配，计划共同的未来却唯独没计划这要命的白血病。</description><pubDate>Tue, 28 Nov 2023 11:15:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996023#reply2</guid></item><item><title>[分享发现] 微软这个通知一言难尽</title><link>https://www.v2ex.com/t/996022#reply7</link><description>&lt;p&gt;两个按钮完全不知道要表达什么意思，最后点了右上角的 x&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/cwgm2y.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:10:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996022#reply7</guid></item><item><title>[Docker] PHP 安装 gd 库 加载 freetype 的时候报错 有没有大神了解的</title><link>https://www.v2ex.com/t/996021#reply1</link><description>&lt;p&gt;FROM php:7.2-fpm-alpine&lt;/p&gt;
-&lt;p&gt;COPY custom.php.ini /usr/local/etc/php/conf.d/docker-php-custom.ini&lt;/p&gt;
-&lt;p&gt;RUN apk add autoconf g++ make util-linux-dev re2c icu-dev freetype-dev &lt;br /&gt;
-openssl-dev pcre-dev libtool imagemagick imagemagick-dev postgresql-dev tzdata linux-headers git sudo libbsd libxml2-dev libzip-dev &lt;br /&gt;
-&amp;amp;&amp;amp; ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime&lt;/p&gt;
-&lt;p&gt;RUN docker-php-ext-configure gd --enable-gd --with-freetype
-RUN pecl install redis
-RUN docker-php-ext-enable redis&lt;/p&gt;
-&lt;p&gt;RUN docker-php-ext-install gd &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install intl &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install mysqli &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install zip &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install pdo_mysql &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install pcntl &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install pdo_pgsql &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install soap &lt;br /&gt;
-&amp;amp;&amp;amp; docker-php-ext-install bcmath &lt;br /&gt;
-&amp;amp;&amp;amp; curl -sS &lt;a href="https://getcomposer.org/installer" rel="nofollow"&gt;https://getcomposer.org/installer&lt;/a&gt; | php -- --install-dir=/usr/local/bin --filename=composer &lt;br /&gt;
-&amp;amp;&amp;amp; chmod +x /usr/local/bin/composer&lt;/p&gt;
-&lt;h2&gt;报错信息：
-=&amp;gt; ERROR [php72 4/8] RUN docker-php-ext-configure gd --enable-gd --with  14.3s&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[php72 4/8] RUN docker-php-ext-configure gd --enable-gd --with-freetype:
-1.148 fetch &lt;a href="http://dl-cdn.alpinelinux.org/alpine/v3.12/main/aarch64/APKINDEX.tar.gz" rel="nofollow"&gt;http://dl-cdn.alpinelinux.org/alpine/v3.12/main/aarch64/APKINDEX.tar.gz&lt;/a&gt;
-4.128 fetch &lt;a href="http://dl-cdn.alpinelinux.org/alpine/v3.12/community/aarch64/APKINDEX.tar.gz" rel="nofollow"&gt;http://dl-cdn.alpinelinux.org/alpine/v3.12/community/aarch64/APKINDEX.tar.gz&lt;/a&gt;
-7.641 (1/5) Installing dpkg-dev (1.20.0-r0)
-9.347 (2/5) Installing dpkg (1.20.0-r0)
-11.00 (3/5) Installing libmagic (5.38-r0)
-12.50 (4/5) Installing file (5.38-r0)
-13.90 (5/5) Installing .phpize-deps-configure (20231128.092650)
-13.90 Executing busybox-1.31.1-r19.trigger
-13.92 OK: 591 MiB in 158 packages
-13.97 Configuring for:
-13.97 PHP Api Version:         20170718
-13.97 Zend Module Api No:      20170718
-13.97 Zend Extension Api No:   320170718
-14.27 configure: error: unrecognized options: --enable-gd, --with-freetype&lt;/p&gt;
-&lt;/blockquote&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 28 Nov 2023 23:48:45 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MacBook Pro] Mac 的大小核调度真的太聪明了， Time Machine 恢复系统才花了 5% 电池。</title><link>https://www.v2ex.com/t/996089#reply0</link><description>刚刚拿到新的 MacBook Pro 从 Time Machine 恢复系统，瞟了一眼 istat menu 资源管理器，发现竟然 6 个 E 核满载，但是温度才 50c ，风扇都没转。再看了下 CPU 调度，文件 index 工作占满了 6 个 E 核，丝毫不占用 P 核，所以前台操作完全没影响，系统响应非常流畅：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/mcEh7r5.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/mcEh7r5.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;再看了下系统当前功耗，整机居然才 6.8w ，几乎是手机水平，简直是神一样的功耗管理：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/60vCJFW.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/60vCJFW.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Time Machine 恢复系统总计 200G 文件，从电池 75% 开始到 70% 结束，都没有插电的必要。&lt;br /&gt;为什么苹果就可以把混合大小核玩出花，反观隔壁微软和 Intel 自始至终还在为大小核调度挨骂，不知道是技术的差距还是底层的区别。&lt;br /&gt;&lt;br /&gt;细想几乎每个关键的技术节点进步，32bit/64bit ，Retina/HighDPI 屏幕支持，全系统色彩管理，HDR/DolbyVision ，大小核调度，乃至最近的 x86 切换到 Arm 苹果都能一气呵成，根本不构成问题；而另一边是屎山一样的 bug ，吵吵闹闹十几年都解决不了最基本的功能，哪怕是最新的 Win 11 23H2 依然一堆 HighDPI 缩放 bug ，色彩管理依然是一坨答辩。</description><pubDate>Tue, 28 Nov 2023 23:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996089#reply0</guid></item><item><title>[程序员] 深度学习网络中有没有什么技巧可以人为地提高或者降低权重？</title><link>https://www.v2ex.com/t/996088#reply0</link><description>&lt;p&gt;自己搞网络，有 A 和 B 两部分独立数据与结果 C 相关，如果通过指定领域的先验经验的话，A 数据和结果关联性更大一些。不知道有没有什么技巧可以让网络更多地关注 A 而更少地关注 B ？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;比如我现在有的输入，分别是用户评价（自然语言序列数据），以及结构化的用户关系图，我能否让网络的结果更多地受前者（或后者）的影响？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;或者另外一个问题，比如我的关系图是树状的，是否有办法人为地让注意力更靠拢根节点而忽略叶子节点？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我想了想，各种各样的注意力机制，比如用自注意力层这种的话，似乎没听说过人为能怎么干预的。似乎只能让网络自己去学校，如果人类认为数据 A 与结果相关性更高，网络给出相反的结果也完全不奇怪，人类也没法修改。&lt;/p&gt;
+&lt;p&gt;另外一个简单想法是做两个独立分别接收两种数据然后将结果加权？这个感觉好像没有任何意义，相当于纯做线性运算，网络会自动优化结果，跟没做一模一样。。。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 23:21:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996088#reply0</guid></item><item><title>[分享创造] 将我写了两年的资源周刊同步到了 TG 频道👉欢迎订阅</title><link>https://www.v2ex.com/t/996087#reply0</link><description>&lt;p&gt;老胡的信息周刊，每周记录我看到的有价值的信息，主要针对计算机领域，内容主题极大程度被我个人喜好主导。这个项目核心目的在于记录让自己有印象的信息做一个留存以及共享，目前已经写了两年多。当前阅读渠道如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href="https://github.com/howie6879/weekly" rel="nofollow"&gt;howie6879/weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Web: &lt;a href="https://weekly.howie6879.com/" rel="nofollow"&gt;https://weekly.howie6879.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RSS: &lt;a href="https://weekly.howie6879.com/rss/rss.xml" rel="nofollow"&gt;点击订阅&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现在增加了 TG 频道🤖 &lt;a href="https://t.me/howie_weekly" rel="nofollow"&gt;https://t.me/howie_weekly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主要是为了方便展示没有被周刊收录但质量也不错的资源，故开启了 telegram 频道进行碎片化分享，有兴趣的可以订阅查看。&lt;/p&gt;
+&lt;p&gt;凌晨一点写脚本到现在凌晨四点，基本都同步过去了~&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 20:10:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996087#reply0</guid></item><item><title>[推广] [数字空间 v4.0] 全网公测，免费送一年“无限空间”</title><link>https://www.v2ex.com/t/996086#reply1</link><description>&lt;p&gt;&lt;em&gt;感谢 V 站伙伴们前一段时间对我们 [数字空间 v3.0 ] 提了很多宝贵的建议（ ps：也有批评）！经过一段时间的打磨， [数字空间 v4.0 ] 正式上线啦，开始面向全网公测！&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;此次 [数字空间 v4.0 ] 在 v3.0 基础上，加强了工具属性。通过创建空间与自定义添加工具，让开发者/研发团队能够在空间工作台内托管项目代码、创建研发文档、可视化管理项目任务、搭建知识库、使用 AI 工具、同时能够与其他成员进行沟通和会议视频。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;failed to solve: process "/bin/sh -c docker-php-ext-configure gd --enable-gd --with-freetype" did not complete successfully: exit code: 1&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:10:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996021#reply1</guid></item><item><title>[音乐] 分享一下周杰伦 王力宏 林俊杰 伍佰 陶喆 中森明菜全专辑无损音乐分享（包括一个热门歌单歌曲）</title><link>https://www.v2ex.com/t/996020#reply0</link><description>&lt;p&gt;magnet:?xt=urn:btih:27T5KLMFBOFPO3THGO3HHXH2XW4YJO3L&amp;amp;dn=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%BC%8D%E4%BD%B0%20%E9%99%B6%E5%90%89%E5%90%89%20%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%E5%85%A8%E4%B8%93%E8%BE%91%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%EF%BC%88%E9%99%84%E5%8A%A0%E6%9F%90%E7%83%AD%E9%97%A8%E6%AD%8C%E5%8D%95%E5%85%A8%E9%83%A8%E6%AD%8C%E6%9B%B2%EF%BC%89&amp;amp;xl=168283688467&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:07:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996020#reply0</guid></item><item><title>[问与答] 不理解这种心态，是贪便宜还是单纯的看不穿？</title><link>https://www.v2ex.com/t/996019#reply1</link><description>&lt;p&gt;《最低价的 GPT-4-32k API ，价格低于官网 44 倍》
-里面不就是自己拉起一个 one api ，然后对接上几个开源模型？
-起名字 GPT-4-32k ，就有人信吗？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996019#reply1</guid></item><item><title>[游戏] 终于！卸载王者荣耀了，转 2 个不氪金公平的手游</title><link>https://www.v2ex.com/t/996018#reply13</link><description>&lt;p&gt;四连跪之后就四连胜，之后又四连跪。
-心态崩了直接卸载。&lt;/p&gt;
-&lt;p&gt;然后下载了战双，还有香肠派对这两个。&lt;/p&gt;
-&lt;p&gt;大家推荐还有哪些不氪金公平好玩的手游？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:02:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996018#reply13</guid></item><item><title>[美酒与美食] #赣南脐橙 新鲜的赣南脐橙来咯~</title><link>https://www.v2ex.com/t/996017#reply0</link><description>自家果园生产，纯天然食品，欢迎感兴趣的朋友进店选购&lt;br /&gt; &lt;br /&gt; &lt;a href="https://i.imgur.com/cx3q7sT.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cx3q7sT.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Tue, 28 Nov 2023 11:00:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996017#reply0</guid></item><item><title>[程序员] 无需切换中英文的输入法，有人感兴趣吗！</title><link>https://www.v2ex.com/t/996016#reply1</link><description>&lt;p&gt;Hey 大家好，我是设计小透明，关注工具类产品，现在有一个关于改进现有输入法的想法，核心是解决中英文切换的易错和低效问题，并有了一个或许可行的设计方案，想找个开发大佬讨论讨论，有人感兴趣吗嘿嘿！&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 10:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996016#reply1</guid></item><item><title>[分享发现] 龙芯 3A6000 发布了</title><link>https://www.v2ex.com/t/996015#reply4</link><description>&lt;p&gt;新闻报道：
-&lt;a href="https://news.cctv.com/2023/11/28/ARTImS1Tab3zX9enG0BrW2Ig231128.shtml" rel="nofollow"&gt;https://news.cctv.com/2023/11/28/ARTImS1Tab3zX9enG0BrW2Ig231128.shtml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;测评：
-&lt;a href="https://www.bilibili.com/video/BV15u4y1A7aK/" rel="nofollow"&gt;https://www.bilibili.com/video/BV15u4y1A7aK/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;龙芯 3A6000 无需依赖任何国外授权技术,我国自主研发的 CPU 在自主可控程度和产品性能方面达到新高度。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 10:50:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996015#reply4</guid></item><item><title>[分享创造] 为什么 AWS 和腾讯延迟这么高呢</title><link>https://www.v2ex.com/t/996013#reply0</link><description>想从海外反代腾讯北京云，新加坡延迟 200+、东京延迟 300+。明明这俩 AWS 到国内三网都是 100 左右，为什么到腾讯这么高呢，有没有低点的 线路推荐呢？我的试用马上到期了，想买个光帆反代国内服务器，谁知道，线路这么奇怪。另外有没有别的反代线路推荐呢？</description><pubDate>Tue, 28 Nov 2023 10:33:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996013#reply0</guid></item></channel></rss>
+&lt;p&gt;为了感谢大家对我们的支持，我们将赠送 V 站伙伴为期一年的 [无限空间] ：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不限空间存储容量&lt;/li&gt;
+&lt;li&gt;不限空间成员&lt;/li&gt;
+&lt;li&gt;不限 AI 问答次数&lt;/li&gt;
+&lt;li&gt;不限代码质量评估次数&lt;/li&gt;
+&lt;li&gt;不限视频会议时长&lt;/li&gt;
+&lt;li&gt;不限任务看板数量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;领取方式&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;关注公众号（数字空间 All in One ），回复关键字：福利领取&lt;/p&gt;
+&lt;p&gt;&lt;img alt="gzh" class="embedded_image" rel="noreferrer" src="https://www.writebug.com/assets/images/wx-gzh.jpg" /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h4&gt;[数字空间 v4.0 ] 部分截图&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="1" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/8c94f8cf6500e1012f758ade40afe625390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="2" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/4fb5e34e424a38cd4562f6864c807857390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="3" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/0e4044f1267f80e51efa8c195d019b59390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="4" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/5c6fabb1377ac45c00392a1967720ceb390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="5" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/2d6e9460c0581eaa4d6090548b9315f2390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="6" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/3bd8af6e528b0fc6e6349c5ab9c75e66390188535.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="7" class="embedded_image" rel="noreferrer" src="https://bbs.byr.cn/att/NetResources/0/93774/3289664" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 19:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996086#reply1</guid></item><item><title>[微信] 每次拨打微信语音都会被定位</title><link>https://www.v2ex.com/t/996084#reply1</link><description>无论安卓 iOS 均能复现&lt;br /&gt;#条件：&lt;br /&gt;授予微信不再询问的位置权限&lt;br /&gt;（如果设为总是询问再拨打微信语音不会触发定位，当然设为总是询问微信会让你百倍难用。）&lt;br /&gt;#验证：&lt;br /&gt;拨打微信语音时状态栏就能看到定位图标&lt;br /&gt;iOS-设置-隐私-APP 隐私报告-微信-位置，这里记录了每次被定位的时间与拨打微信时间一致&lt;br /&gt;部分国产安卓也能记录权限日志&lt;br /&gt;##&lt;br /&gt;联系微信客户答复是让我联系“运营商”</description><pubDate>Tue, 28 Nov 2023 18:48:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996084#reply1</guid></item><item><title>[电影] 涉过愤怒的海为何评价有点两极分化？我觉得还不错。</title><link>https://www.v2ex.com/t/996082#reply0</link><description>晚上刚看完这部电影，有些意难平，在网上看了一些别人的评价，发现一些视频把这部电影贬得一无是处，有些不理解。&lt;br /&gt;&lt;br /&gt;这部电影可能是在宣发上有欺诈的地方（我没关注过宣发也不清楚，听旁边人介绍了一点情节感兴趣再去看的），由此造成观影时候存在一些心理落差，我可以理解，但是真贬成一部烂片那真的挺人让人怀疑是不是看过这部电影了。&lt;br /&gt;&lt;br /&gt;整部电影的问题确实也挺多的，很多承接上很突兀也很生硬，我觉得还挺出戏的情节一个是黄渤和周迅在山上的对白，还有一个是那个日本人（我也不知道是哪个演员）最后劝说黄渤。但整体感觉上还是瑕不掩瑜的，氛围感一直把握得很好，真的愿意看下去我觉得应该不会出现像很多评论说的「整个影院很多人都不耐烦地玩手机」。不过不能让大众快速代入也算影片问题，但也不能全部算影片的问题。&lt;br /&gt;&lt;br /&gt;个人评价算是这几年国产电影中我比较喜欢的一部，算是一部伦理片兼文艺片，感觉上很难解读出太多的深度，估计不会成为一部经典电影，但是对情节有自己的理解和共鸣的话应该会对它印象深刻，至少会是一部值回票价的电影。</description><pubDate>Tue, 28 Nov 2023 18:00:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996082#reply0</guid></item><item><title>[问与答] 今天体验了一次微信支付的刷掌支付在 711，请问原理是什么呢？</title><link>https://www.v2ex.com/t/996081#reply5</link><description>深圳的 711 便利店有刷掌支付，我买 6 块的可乐还优惠了 3 块。体验了一下挺好玩，不明白背后的逻辑，以及在手机上是否可行？</description><pubDate>Tue, 28 Nov 2023 17:32:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996081#reply5</guid></item><item><title>[Firefox] 如何修改 Firefox 地址栏中的选中背景色和链接颜色</title><link>https://www.v2ex.com/t/996080#reply1</link><description>&lt;p&gt;Firefox 地址栏的颜色和 主题 发生了冲突 &lt;/p&gt;
+&lt;p&gt;地址栏选中 URL 时的背景色和下拉框内地址颜色从深蓝色变成了淡蓝色&lt;/p&gt;
+&lt;p&gt;请问有什么办法能够修改地址栏中选中的背景色和链接文字的颜色？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 17:06:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996080#reply1</guid></item><item><title>[VPS] 各家 VPS 厂商对 CPU 使用率都是什么政策？</title><link>https://www.v2ex.com/t/996079#reply2</link><description>闲来没事在一台闲置的 Virmach 家 VPS 上编译 openwrt ，没多久就被重启，并且收到 Virmach 的警告邮件，说我违反 TOS 云云。&lt;br /&gt;震精了，一直以为 VPS 分配给的资源就是随便用的，没想到 CPU 还有使用率限制。&lt;br /&gt;CPU 有限制，那内存是不是也有限制，我不能用满？</description><pubDate>Tue, 28 Nov 2023 16:52:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996079#reply2</guid></item><item><title>[程序员] 软件工程大二在读,想要往全栈方向发展,求指路?</title><link>https://www.v2ex.com/t/996076#reply2</link><description></description><pubDate>Tue, 28 Nov 2023 16:37:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996076#reply2</guid></item><item><title>[问与答] 有人遇到过 Magic Mouse 很飘或者不跟手的情况吗？</title><link>https://www.v2ex.com/t/996075#reply1</link><description>&lt;p&gt;用了好多年了，偶尔会莫名其妙的不跟手，有种顿挫感，一点不丝滑，今天忍不住发帖问一下，有没有人遇到过类似的情况~&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 16:27:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996075#reply1</guid></item><item><title>[OpenAI] 现在 gpt 新用户还能用美区苹果商店充值吗？</title><link>https://www.v2ex.com/t/996074#reply1</link><description>&lt;p&gt;国内 visa 信用卡能开不&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 16:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996074#reply1</guid></item><item><title>[全球工单系统] 站里有凉屋游戏的朋友吗</title><link>https://www.v2ex.com/t/996073#reply2</link><description>&lt;p&gt;特别好奇你们公司现在是个什么状况&lt;br /&gt;说实话手游开服一周内服务器还处于半崩溃状态真的少见&lt;br /&gt;有没有内部的朋友分享一下公司情况啊，特好奇你们真的有在修复吗&lt;br /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:52:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996073#reply2</guid></item><item><title>[Linux] Linux 云服务器远程安装大型软件</title><link>https://www.v2ex.com/t/996072#reply2</link><description>&lt;p&gt;Linux 新手，课题需要租服务器做工程计算，软件是有安装界面的，远程安装过程中界面在本机可以看到吗？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:34:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996072#reply2</guid></item><item><title>[分享发现] 我的所有信息源</title><link>https://www.v2ex.com/t/996071#reply0</link><description>&lt;h3&gt;微博&lt;/h3&gt;
+&lt;p&gt;只看关注的少数人，不看微博热搜，每天刷几次。&lt;/p&gt;
+&lt;h3&gt;Twitter/X&lt;/h3&gt;
+&lt;p&gt;最近看得比较多，有不少优质的中文博主，建议屏蔽“李老师不是你老师”&lt;/p&gt;
+&lt;h3&gt;Telegram channel&lt;/h3&gt;
+&lt;p&gt;Telegram 真是个神奇的地方，尤其是 channel 和 bot ，channel 感觉像微信公众号和微博的结合。&lt;/p&gt;
+&lt;h3&gt;V2ex&lt;/h3&gt;
+&lt;p&gt;虽然不是程序员，但是非常喜欢这里，氛围好，大家回帖都很认真。&lt;/p&gt;
+&lt;h3&gt;NGA&lt;/h3&gt;
+&lt;p&gt;著名泥潭，纯粹看个乐子，有时候会有些有意思的帖子，但是帖子会冲水。毕竟墙内，国际新闻区成天到晚赢麻了。&lt;/p&gt;
+&lt;h3&gt;Newsletter&amp;amp;RSS&lt;/h3&gt;
+&lt;p&gt;还是有很多高质量的中文 newsletter 和博客的，基本都是周更甚至月更。&lt;/p&gt;
+&lt;h3&gt;其他&lt;/h3&gt;
+&lt;p&gt;订阅了一些播客，通勤的时候听。&lt;/p&gt;
+&lt;p&gt;微信公众号偶尔看看&lt;/p&gt;
+&lt;p&gt;哔哩哔哩偶尔看看&lt;/p&gt;
+&lt;p&gt;小红书偶尔看看，美女多&lt;/p&gt;
+&lt;p&gt;抖音不看&lt;/p&gt;
+&lt;p&gt;总结下来我的信息来源基本都是主动关注类型的，尽量不被被推荐算法控制。&lt;/p&gt;
+&lt;p&gt;但是我现在还是感觉到信息过载了，收藏了很多稍后读，但是看的速度赶不上收藏的速度。Pull to refresh 真是害人不浅。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:28:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996071#reply0</guid></item><item><title>[程序员] 服务器网址被攻击，怎么用人情世故来阻断警告对方，采纳后一杯咖啡不成敬意</title><link>https://www.v2ex.com/t/996070#reply13</link><description>&lt;p&gt;代维客户的网站，客户的网站是按照 PV 跟广告公司结算，最近客户应该是截图的时候不小心泄露给了同市的同行，同期发现网址被恶意刷量，遂进行 ip 拉黑，然后发现换新的 ip 接着刷量。装了云锁，也拉了日志看了下，发现刷量的诸多 ip 是客户那个地区的就将此信息告知了客户。客户通过当地的关系，发现这些 ip 都是他当地的电信 pppoe 拨号获取的公网 ip 刷的，当我这边封了之后，他又重新拨号获取新的 ip ，不过也透露出对方没啥技术，代理都没用。因为客户的生意（网站）就是靠着一些门户网站广告位活着，不能完全屏蔽该地区也不能长期拉黑刷量的 ip ，所以刷量的行为让客户很尴尬（费用+统计和广告公司有出入）。现在客户猜测可能是因为近期跟同行交流的时候泄露了他自己的广告位置，导致换域名换 ip 他们也都能从广告位找到。客户不想跟对方扯皮，也没打算直接找对方。问下各位 v 友，有什么好的意见或者建议？&lt;/p&gt;
+&lt;p&gt;这边想到了几个，a 、直接电信部门举报，这样估计作用不会太大，毕竟举报的时候不能给电信公司宽带账号，给 IP 再传到后端大概率也会被扯皮。b 、通过对方访问的 ip 发现对方的 ip 下挂着服务（扫描端口获得），投诉到工信部网站说他没备案开服务。c 、投诉到电信的上级部门，以对方开服务会有被电炸利用的风险投诉，增加他被查的概率。
+总的来说，客户就是想警告对方，我知道是你，我也有办法查到你。咱们各人做各人的生意，井水不犯河水。客户这个业务圈子小，说以后难免有交集。&lt;/p&gt;
+&lt;p&gt;这次不光是技术，更多的是人情世故。
+请问下 V 友，那些方案可行或者有更好的方案不？
+地球：enVpc3Vhbjg4ODg=&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:24:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996070#reply13</guid></item><item><title>[随想] 区分内向外向，不在于对待熟人或陌生人的方式，而是如何与半熟的人相处</title><link>https://www.v2ex.com/t/996069#reply4</link><description>&lt;p&gt;我自己算是个内向的人，不过遇到陌生人的时候也能顺着聊下去。反倒是不熟但也不陌生的人遇到之后就非常尴尬，比如公司里点头之交的同事&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996069#reply4</guid></item><item><title>[Apple] 求问关于电子产品的一些问题</title><link>https://www.v2ex.com/t/996068#reply2</link><description>1. 地铁安检会对电子产品比如手机、电脑、相机有所损坏吗？&lt;br /&gt;2. 在医院做核磁共振的话手机带进去会坏掉吗？&lt;br /&gt;3. 同 2 在医院做 CT 项目 手机带进去不放在身上但是在检查室会对手机损伤吗？</description><pubDate>Tue, 28 Nov 2023 15:24:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996068#reply2</guid></item><item><title>[职场话题] 有没有中科大苏州、清华深圳、北大的老哥，给一个墨西哥迷弟介绍下学校</title><link>https://www.v2ex.com/t/996067#reply2</link><description>这个老哥是我的同事。。人在墨西哥。。正在考虑如上三个 CS 和 DS 的 offer ，&lt;br /&gt;然后倾向苏州中科大 CS 。。（只要读一年然后两年实习）&lt;br /&gt;清华深圳是 DS 。&lt;br /&gt;北大 CS 担心太难。&lt;br /&gt;&lt;br /&gt;问了为啥想来中国，他说中国奖学金全免+3000 一个月的补助。&lt;br /&gt;感觉划算的一逼，相比隔壁美利坚一个学校读完价格上天。&lt;br /&gt;我也去劝不动，也只能祝他一切顺利。&lt;br /&gt;&lt;br /&gt;所以来问问有没有老哥在上面的几个学校或者学校出来的，和他简单聊个几分钟？</description><pubDate>Tue, 28 Nov 2023 15:20:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996067#reply2</guid></item><item><title>[程序员] 程序员卖课是不是一条比较好的创业路线？</title><link>https://www.v2ex.com/t/996066#reply4</link><description>&lt;p&gt;看到有朋友靠卖源码解析、面试指导等等实现了年入大几十万，忽然感觉这个算不算一条比较好的创业道路？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 15:05:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996066#reply4</guid></item></channel></rss>
