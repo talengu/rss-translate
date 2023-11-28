@@ -1,116 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 28 Nov 2023 05:51:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 聊聊我在一个月抖音小红书粉丝累积到 3 万最后不再维护的事。</title><link>https://www.v2ex.com/t/995912#reply0</link><description>&lt;blockquote&gt;
-&lt;p&gt;作为一个有大把时间折腾的人，除了折腾开发 APP 外，有时也会思考其他赚钱的方法，或许将来也能给自己多一份收入。&lt;/p&gt;
-&lt;/blockquote&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 28 Nov 2023 12:40:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 最近在玩 ai 画图，想知道各位大佬用什么关键词提示 ai</title><link>https://www.v2ex.com/t/996038#reply1</link><description>&lt;p&gt;我最近在用 ComfyUI 玩 ai 画图，想用还原几个真人版动画人物，然而效果不佳，应该怎么提示呢？比如双马尾，我提示 Double tail ，它搞出来则是一条辫子扎两次，请求大佬分享经验~&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:25:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996038#reply1</guid></item><item><title>[Apple] iPad Mini 6 搜了一下有点乱，怎么入比较划算？</title><link>https://www.v2ex.com/t/996037#reply1</link><description>&lt;p&gt;之前的 iPad Mini 4 电池不行，卡，想换一个。&lt;/p&gt;
+&lt;p&gt;首先上 pdd 搜，没有百亿补贴，发现全是二手/扩容机，普遍 3500 。看起来不怎么可靠。
+然后上 Apple Store ，找到了官翻的 256G 蜂窝版，5500 在想 mini 为何如此贵。
+此后上 Taobao ，基本上也和 pdd 类似。
+最后上闲鱼 == 不仅二手还贵，有的还是三手以上了，不如前几个。&lt;/p&gt;
+&lt;p&gt;所以该如何入比较划算。如果出 Mini 7 ，官方的直接回收比较方便？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:25:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996037#reply1</guid></item><item><title>[程序员] 新项目规模小怎么开发 app 是最优解？</title><link>https://www.v2ex.com/t/996036#reply4</link><description>&lt;p&gt;问下，最近在搞自己的论坛项目，想找人开发一个 App ，&lt;/p&gt;
+&lt;p&gt;用户目前都是网页端使用为主，但最近开始用户想要移动端，
+有啥方式能够在资金不是很多，但用户体验至少能比网页好点的方式么？
+等到未来有点资金再改成 RN 或 flutter 之类的开发方式&lt;/p&gt;
+&lt;p&gt;目前小资金预算只有几 K ，
+或是说这样是有梦最美不可能呢？&lt;/p&gt;
+&lt;p&gt;有搜索过套壳 app ，想上架到海外 play 商店和苹果商店，
+但似乎套壳对苹果商店不会过审核样子，不清楚具体情况，网络上搜到的，
+加上我不太清楚 app 的技术线，只有大概知道原生、半原生和混合以及套壳那些的初浅概念，&lt;/p&gt;
+&lt;p&gt;有 V 友能给个建议或科普下么，先谢谢各位了&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:19:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996036#reply4</guid></item><item><title>[程序员] 12 月被“释放”，请各位帮忙分析一下应不应该去员工坟场</title><link>https://www.v2ex.com/t/996035#reply0</link><description>a.直接走，能拿一个月工资&lt;br /&gt;b.去员工坟场待岗一个月，第一个月拿正常工资，之后会帮忙交社保但只给最低工资，有机会回到项目&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;a 的好处是能马上过年&lt;br /&gt;选 b 的好处是能待岗时期专心复习，并且有机会回到项目（继续当米虫🤣），缺点是要去打卡，通勤很远，来回三小时了，而且这个时间点，待岗，最后几天应该是在年前，不好抢票压力大&lt;br /&gt;&lt;br /&gt;小弟目前的存款苟活半年是绝对没问题的，就是怕人躺废了，不想上班。</description><pubDate>Tue, 28 Nov 2023 12:19:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996035#reply0</guid></item><item><title>[分享创造] 耗时 3 个月，偷偷摸摸写的管理系统🐒🐒🐒</title><link>https://www.v2ex.com/t/996034#reply0</link><description>&lt;h2&gt;在线演示&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://vite.itnavs.com/admin/" rel="nofollow"&gt;在线演示&lt;/a&gt;
+&lt;a href="https://github.com/hangjob/vue-bag-admin" rel="nofollow"&gt;Github 源码&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;图片预览&lt;/h2&gt;
+&lt;h3&gt;PC 端&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="pc.jpg" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7fa4d87f766842e2a4665c37b8f92b0c%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=1078&amp;amp;s=313117&amp;amp;e=jpg&amp;amp;b=e5e5e5" /&gt;&lt;/p&gt;
+&lt;h3&gt;iPad 端&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="ipad.jpg" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cdd15c258ba04518a05110e46ff76181%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=1500&amp;amp;s=422662&amp;amp;e=jpg&amp;amp;b=fefdfd" /&gt;&lt;/p&gt;
+&lt;h3&gt;Mobile 端&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="mobile.jpg" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6bca73a2a66f42d88141824de479e7d2%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2000&amp;amp;h=2667&amp;amp;s=678036&amp;amp;e=jpg&amp;amp;b=fefdfd" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 12:15:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996034#reply0</guid></item><item><title>[机器学习] 感知机是线性模型，如果我使用 x^2、x^3 的方式引入非线性，可以达到神经网络那样的效果么？</title><link>https://www.v2ex.com/t/996029#reply1</link><description>神经网络的非线性来自于激活函数，但是神经网络几乎无法从物理层面说明原理。既然目标都是做拟合，那么多项式拟合任意函数从物理上也更直观一些吧？比如泰勒级数也可以做任意函数的拟合，不知道前人有没有试过引入变量的平方、三次方、四次方来做呢？</description><pubDate>Tue, 28 Nov 2023 11:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996029#reply1</guid></item><item><title>[VPS] [出] 绿云 US 圣何塞 7763 五核 10g 内存 100 刀/三年</title><link>https://www.v2ex.com/t/996028#reply0</link><description>&lt;p&gt;绿云&lt;/p&gt;
+&lt;p&gt;美国 圣何塞&lt;/p&gt;
+&lt;p&gt;测试 ip：173.249.207.182&lt;/p&gt;
+&lt;p&gt;配置：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;5 核 cpu ，AMD EPYC 7763
+10g 内存
+100g NVMe 高速固态 raid
+10T 流量/月
+10Gbps 带宽
+ipv4+ipv6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;续费价格。100 刀/三年&lt;/p&gt;
+&lt;p&gt;2026 年 10 月 16 到期&lt;/p&gt;
+&lt;p&gt;明盘 800 包 push （ push 费 10 刀）&lt;/p&gt;
+&lt;p&gt;联系方式，TG 与 WX 同号：brunuhville&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:35:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996028#reply0</guid></item><item><title>[酷工作] 招 PHP 长期 [远程兼职]</title><link>https://www.v2ex.com/t/996027#reply1</link><description>&lt;p&gt;招 PHP 远程兼职。
+要求：熟悉 laravel&lt;/p&gt;
+&lt;p&gt;有 v2board 经验优先。&lt;/p&gt;
+&lt;p&gt;长期真心合作。
+骗子不要来浪费时间。&lt;/p&gt;
+&lt;p&gt;邮箱：d2F5bmVuZ3MyMDIwQGdtYWlsLmNvbQo=&lt;/p&gt;
+&lt;p&gt;Telegram: @&lt;a href="https://www.v2ex.com/member/aldxxa"&gt;aldxxa&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:32:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996027#reply1</guid></item><item><title>[宽带症候群] 上海联通双 12 特惠融合套餐办理来了</title><link>https://www.v2ex.com/t/996026#reply0</link><description>&lt;p&gt;39 元套餐，包含 1200 分钟国内通话，100G 国内通用流量，爱奇艺腾讯优酷等会员多选一，500 兆家庭宽带。每月加 10 元可以提速到 500 下/200 上，或者加 10 元提速到 1000 下 仅限上海本地办理，宽带为必选项，安装费每条宽带 100 元。优惠期 2 年，到期续约。本套餐无需携转，可以新开联通号码，也欢迎携转。联通老用户改不了本套餐。 本套餐每月另加 30 元可以多拿一条 1000 下宽带，安装地址可以和首宽相同，也可以不同，副宽带也可以加 10 元提速 1000 下 200 上竣工后可以获取动态公网 IP 。联系方式不变 S2FkZHk5MjE=解码即可
+本套餐可以办理最多不超过 4 张月租为 0.1 元的副卡，共享主卡套餐资源。
+仅限上海本地线下办理，异地不可办理。。携转也必须上海本地号码才可以。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:29:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996026#reply0</guid></item><item><title>[生活] 我有一台闲置的笔记本电脑，可以用来做服务器吗？求教程</title><link>https://www.v2ex.com/t/996025#reply0</link><description>兄弟们有弄过的吗，求指导</description><pubDate>Tue, 28 Nov 2023 11:25:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996025#reply0</guid></item><item><title>[分享发现] [求助] 求助人的故事</title><link>https://www.v2ex.com/t/996023#reply2</link><description>写在前面：&lt;br /&gt;文章是我老婆帮忙编辑的，大学同学，真实的故事，如果有打扰到还请包涵一下。&lt;br /&gt;&lt;br /&gt;链接： &lt;a href="https://www.shuidichou.com/cf/contribute/612d5e81-f35d-4434-b825-2c9f296e9996" rel="nofollow noopener" target="_blank"&gt;https://www.shuidichou.com/cf/contribute/612d5e81-f35d-4434-b825-2c9f296e9996&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;文章的开头让我先给接下来浏览我人生惨记的你问声好，相逢即是缘，&lt;br /&gt;即使我们可能永远没有相遇的机会，但人生最宝贵的是时间，此刻你能为我停留，也真是我的荣幸之至。&lt;br /&gt;&lt;br /&gt;我叫张甜，甜蜜的甜，都说人如其名，而我却非相貌甜甜的女孩子，本人拥有八尺男儿身，体重高达 160 ，名副其实的壮汉一枚。&lt;br /&gt;我虽名带甜字，命却相反，短短人生三十载，我的命运不仅在急转弯之后没有刹车，现在又要带我冲往死亡的悬崖，真是出乎意料又好像命中注定。&lt;br /&gt;一个连续 6 年没有生过病的人，连感冒都没有，一个连续 6 年都不敢生病的人，就在 2 周前却被诊断为：B 型急性淋巴细胞白血病。&lt;br /&gt;&lt;br /&gt;短短两周我经历了：血小板紧逼临界值，经常在 10 左右的数字徘徊，全身肿胀，皮肤发痒，很严重的口腔溃疡，恶心，吃啥吐啥，肛周发炎等，新鲜的血液和抗生素目前是我维持生命体征的重要源泉。&lt;br /&gt;&lt;br /&gt;初来乍到白血病房，我在这里能深刻感受到生命的脆弱和珍贵，&lt;br /&gt;同时也体验了一把“花钱如流水”的痛感，对，不是快感，是痛感，&lt;br /&gt;&lt;br /&gt;父母老矣，本人未婚，本应三十而立努力拼搏赚钱成家，但我却在这病房捉襟见肘，马上要山穷水尽，枯灯油尽了。&lt;br /&gt;也许不会有人相信，我一个本科毕业 7 年的人，却在生命危急之时连一点点救命钱都拿不出来，但这事实真真切切，叫人无可又奈何。&lt;br /&gt;&lt;br /&gt;我的命运从我在河南的小乡村里考上不错的大学，再到毕业后南下北上，在北京成为一名收入颇丰的技术开发工程师开始好像有点要翻盘的意思，&lt;br /&gt;但逆转局势，扭转乾坤的人生赢家剧本还是没轮到我头上，人生前 20 几年的清贫之苦不怨任何人，但这毕业 7 年后的窘迫之苦都拜自己所赐。年轻气盛，本以为找到赚钱摆脱穷困命运的机会，在沼泽泥泞里这一陷就是 3 年，再也没爬上岸。这 3 年我每天在暗无天日中彻夜不眠，做梦都想快点熬出头，回归正常的生活。我这 3 年心灰意冷过，萎靡不振过，失望过，也绝望过，为自己的行为抱恨终天，被追债者吓到惊慌失措每天过的胆战心惊，在被家人得知境况后我无地自容，对于他们的接济更是问心有愧，也在吃不上饭饿的头晕眼花之时悔不当初。&lt;br /&gt;&lt;br /&gt;6 年间昔日同窗结婚生子，我还债躲债，春节团圆父母翘首以盼，我依旧还债躲债，奶奶生病 5 年，我回去探望的次数寥寥无几，每每想念只能手机相望，直至两月前奶奶去世我这不肖子孙才敢出现在众人面前送她最后一程。表妹收拾遗物时给了我 24 块钱。她说是奶奶藏在枕头下交待留给我的，我想这应该是奶奶曾经给我说的，以后她给孙媳妇的红包，想必她是在尽她所能在做这件事，可惜这 24 块钱没有等到我结婚，奶奶也没等到。&lt;br /&gt;&lt;br /&gt;就在我发病的上一周，我收到了法院的银行账户解封通知。&lt;br /&gt;我马上可以重见天日光明正大的找更好的工作了，可以更快的还剩下的债务了，但白血病这个时候却来了&lt;br /&gt;我不禁想，这好似一种嘲笑，嘲笑我这三年白费力气，白白吃苦，虽然这苦是我罪有应得。我未被债务压死，历尽千辛万苦的还债之路刚迎来一丝曙光，还没取得最终胜利，却因病入膏肓但无钱可治，只能等死。&lt;br /&gt;&lt;br /&gt;入院这 2 周，我庆幸我身边还有一个她守着病床照顾我，我们恋爱 2 年，因网络结缘&lt;br /&gt;她知晓我一切状况，我的债没有吓走她，我的病依旧没有吓走她。&lt;br /&gt;她名中也带田，这也许是就命中注定的缘分，我们计划明年结婚，我们计划我们的孩子就叫张田甜，我们计划债务分配，计划共同的未来却唯独没计划这要命的白血病。</description><pubDate>Tue, 28 Nov 2023 11:15:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996023#reply2</guid></item><item><title>[分享发现] 微软这个通知一言难尽</title><link>https://www.v2ex.com/t/996022#reply7</link><description>&lt;p&gt;两个按钮完全不知道要表达什么意思，最后点了右上角的 x&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/cwgm2y.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:10:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996022#reply7</guid></item><item><title>[Docker] PHP 安装 gd 库 加载 freetype 的时候报错 有没有大神了解的</title><link>https://www.v2ex.com/t/996021#reply1</link><description>&lt;p&gt;FROM php:7.2-fpm-alpine&lt;/p&gt;
+&lt;p&gt;COPY custom.php.ini /usr/local/etc/php/conf.d/docker-php-custom.ini&lt;/p&gt;
+&lt;p&gt;RUN apk add autoconf g++ make util-linux-dev re2c icu-dev freetype-dev &lt;br /&gt;
+openssl-dev pcre-dev libtool imagemagick imagemagick-dev postgresql-dev tzdata linux-headers git sudo libbsd libxml2-dev libzip-dev &lt;br /&gt;
+&amp;amp;&amp;amp; ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime&lt;/p&gt;
+&lt;p&gt;RUN docker-php-ext-configure gd --enable-gd --with-freetype
+RUN pecl install redis
+RUN docker-php-ext-enable redis&lt;/p&gt;
+&lt;p&gt;RUN docker-php-ext-install gd &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install intl &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install mysqli &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install zip &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install pdo_mysql &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install pcntl &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install pdo_pgsql &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install soap &lt;br /&gt;
+&amp;amp;&amp;amp; docker-php-ext-install bcmath &lt;br /&gt;
+&amp;amp;&amp;amp; curl -sS &lt;a href="https://getcomposer.org/installer" rel="nofollow"&gt;https://getcomposer.org/installer&lt;/a&gt; | php -- --install-dir=/usr/local/bin --filename=composer &lt;br /&gt;
+&amp;amp;&amp;amp; chmod +x /usr/local/bin/composer&lt;/p&gt;
+&lt;h2&gt;报错信息：
+=&amp;gt; ERROR [php72 4/8] RUN docker-php-ext-configure gd --enable-gd --with  14.3s&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;前段时间，我花了些一个多月的时间实践如何做短视频，并把抖音和小红书的粉丝积攒到 3W ，也算起号成功。还经常有粉丝在后台问我收不收徒。&lt;/p&gt;
+&lt;p&gt;[php72 4/8] RUN docker-php-ext-configure gd --enable-gd --with-freetype:
+1.148 fetch &lt;a href="http://dl-cdn.alpinelinux.org/alpine/v3.12/main/aarch64/APKINDEX.tar.gz" rel="nofollow"&gt;http://dl-cdn.alpinelinux.org/alpine/v3.12/main/aarch64/APKINDEX.tar.gz&lt;/a&gt;
+4.128 fetch &lt;a href="http://dl-cdn.alpinelinux.org/alpine/v3.12/community/aarch64/APKINDEX.tar.gz" rel="nofollow"&gt;http://dl-cdn.alpinelinux.org/alpine/v3.12/community/aarch64/APKINDEX.tar.gz&lt;/a&gt;
+7.641 (1/5) Installing dpkg-dev (1.20.0-r0)
+9.347 (2/5) Installing dpkg (1.20.0-r0)
+11.00 (3/5) Installing libmagic (5.38-r0)
+12.50 (4/5) Installing file (5.38-r0)
+13.90 (5/5) Installing .phpize-deps-configure (20231128.092650)
+13.90 Executing busybox-1.31.1-r19.trigger
+13.92 OK: 591 MiB in 158 packages
+13.97 Configuring for:
+13.97 PHP Api Version:         20170718
+13.97 Zend Module Api No:      20170718
+13.97 Zend Extension Api No:   320170718
+14.27 configure: error: unrecognized options: --enable-gd, --with-freetype&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;你应该不会想到，明明起号成功了，我却不想再维护这个账号了。能申明的是，制作的每一个视频没有任何违规或不合法，只是单纯的不想运营下去了。在接下来的文章中我会分享是怎么起号成功，以及为什么不想再维护了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果你对我的自媒体短视频账号有兴趣，可以在公众号「超级浩码」回复「自媒体」即可看到我的自媒体账号。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;小红书
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://vastzh.com/essay/self_media/WechatIMG668.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;抖音
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://vastzh.com/essay/self_media/WechatIMG669.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果你和我一样想做自媒体，如做了一段时间却粉丝数不理想，或者有想法但还没开始执行的。希望通过我的复盘，能对你有所启发。&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;在过去几个月，&lt;strong&gt;ChatGPT&lt;/strong&gt;横空出世。当时我关注了很多 AI 领域相关的博主。每天都是&lt;strong&gt;Prompt&lt;/strong&gt;，&lt;strong&gt;Stable Diffuison&lt;/strong&gt;，&lt;strong&gt;Midjounry&lt;/strong&gt;，&lt;strong&gt;AIGC&lt;/strong&gt;，各种大语言模型，AI 新工具的信息。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;当时最大的感触是 —— 每个人都是&lt;strong&gt;超级个体&lt;/strong&gt;的时代已经来了（其实还没完全到来。。）
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;那会我就想通过&lt;strong&gt;AIGC&lt;/strong&gt;来做短视频。把自身的弱项交给 AI 去完成。通过 AI 来生成文案。再通过文案生成视频，就是“&lt;strong&gt;图文成片&lt;/strong&gt;”的方式来制作。&lt;/p&gt;
-&lt;h2&gt;调研&lt;/h2&gt;
-&lt;p&gt;刚好在抖音刷到一个叫「&lt;strong&gt;不略&lt;/strong&gt;」的博主非常火，他做的书单号。以三分钟读一本书的形式，加上卡通的图文讲解，介绍每本书。当时看到他分享的《&lt;strong&gt;纳瓦尔宝典&lt;/strong&gt;》视频让我很有感触。。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;我尝试让 chatGPT 去解读《纳瓦尔宝典》这本书。输入适当的 prompt 。确实得到有关：“三分钟读一本书，今天我们分享《纳瓦尔宝典》。。”这样的文案内容。但是相较于博主不略的文案，&lt;strong&gt;AI 生成的太过生硬，文案用词也太多呆板&lt;/strong&gt;。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;有关&lt;strong&gt;TTS(文字转语音)&lt;strong&gt;，那会也恶趣味的用&lt;/strong&gt;不略&lt;/strong&gt;的声音，周杰伦的声音，去做训练，效果不是很满意。并且可能有法律责任就放弃了。不过也找到不错的现成的产品。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;市面上的&lt;strong&gt;图文成片&lt;/strong&gt;，最好的或许就是&lt;strong&gt;剪映&lt;/strong&gt;自带的，但效果不能让我满意，感觉这样的视频很难火起来。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;短视频做的好不好很重要的一个因素是有没有&lt;strong&gt;视觉冲击&lt;/strong&gt;，抓住用户的眼球。对于书单号来说，当视频里说到某些知识点的时候，需要在视频里即时的出现对应的内容支撑与之呼应，这其实也是一种反馈机制。这样用户才更愿意看下去不划走。&lt;/p&gt;
-&lt;p&gt;可能因为有一些强迫症，我不愿意完全为了节省时间而牺牲视频质量。最后我选择以一种白板动画的形式去做好视频。调研了如 Videoscribe 、Doodly 、万彩等等，最后我选择了 Videoscribe ，效果如下：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://vastzh.com/essay/self_media/explainer-video-animation-2.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;所以现在我的视频制作流程变成：&lt;br /&gt;
-&lt;strong&gt;选一本书 -&amp;gt; 让 chatgpt 生成文案 -&amp;gt; 通过 tts 生成音频 -&amp;gt; 在 Videoscribe 导入音频做动画脚本 -&amp;gt; 校对音频和动画的帧 -&amp;gt; 导入剪映生成字幕 -&amp;gt; 发布各大平台&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上面说的过程做了一些简化。&lt;/p&gt;
-&lt;h2&gt;涨粉&lt;/h2&gt;
-&lt;h3&gt;发布周期&lt;/h3&gt;
-&lt;p&gt;说到涨粉问题，有一个前提，就是要&lt;strong&gt;坚持不懈&lt;/strong&gt;的发视频。如果你是三分钟热度那想做好短视频几乎不可能。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;特别是刚开始，要知道 &amp;lt;u&amp;gt;当用户在关注一个博主前，大概率会点进你的头像，看你的一些信息，例如你有多少粉丝，你有多少个作品，你的自我介绍等等，前提尽快把作品数量堆满 9 个以上，因为一屏是可以展示 9 个作品，超过一屏显的作品也会比较多一些。&amp;lt;/u&amp;gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;你可以设定一个周期，例如：每天的下午 17 点发，或者每周一三五，不要三天打鱼两天晒网。
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;发视频的频率我建议根据制作&lt;strong&gt;视频的难度&lt;/strong&gt;。如果你是记录健身，并且你每天都这么做，那每天发就行。如果你和我一样，做一个视频要花几个小时。那就根据自己的情况而定。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;我是每周一三五发视频，发的时间可以是下班高峰，晚饭后的一个时间段。我认为具体可以根据你的目标用户的一个作息时间来定。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;制作合集&lt;/h3&gt;
-&lt;p&gt;建议做的视频，根据细分门类放到不同的合集里。这样当用户看完一个视频，有一定概率可以通过合集继续看你的视频。&lt;/p&gt;
-&lt;h3&gt;发布&lt;/h3&gt;
-&lt;p&gt;建议使用网页版的抖音来发布作品。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://vastzh.com/essay/self_media/1701089144973.jpg" /&gt;
-因为对视频有更好的能力加持，例如：章节（对视频内容增加锚点）、标签（类似于 seo 提升排名），关联热点等等。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;视频长度&lt;/h3&gt;
-&lt;p&gt;建议视频长度不要太长，控制在&lt;strong&gt;1 分钟左右&lt;/strong&gt;。因为如果视频太长，就会影响你的&lt;strong&gt;完播率&lt;/strong&gt;。&amp;lt;u&amp;gt;在这个浮躁的世界，很少有人静下心来看完整个视频。即使你的视频做的很棒。但比较是短视频平台，做的太长没有任何意义。&amp;lt;/u&amp;gt;这也是我不想运营我的账号原因之一。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;追热点&lt;/h3&gt;
-&lt;p&gt;网上有很多追踪热点视频的方法，我们可以追踪相同领域的爆款视频。不要怕模仿，如果没有好的素材就可以去模仿别人的爆款，我们开始最需要的就是流量，有了流量才有涨粉的机会，粉丝多了流量才会越来越多。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;推广&lt;/h3&gt;
-&lt;p&gt;当你的视频数量达到 10 个以上。同时我们在后台&lt;strong&gt;数据中心&lt;/strong&gt;，关注有数据不错的视频作品。这时候可以适当的使用&lt;strong&gt;抖加&lt;/strong&gt;。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;抖加&lt;/strong&gt;相当于是一个&lt;strong&gt;流量放大器&lt;/strong&gt;，也是抖音赚钱的重要手段。&amp;lt;u&amp;gt;可以观察一些刚刚起号成功的账号（ 1 ～ 10w ）粉丝的账号。你会发现，这些账号一般都是靠着特别的视频火起来的，并不是说每个视频的播放量都很平均，一定是有几个播放量特别高的视频。&amp;lt;/u&amp;gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;前期堆热门视频，蹭热点视频。把账号视频做到起码 10 个以上。然后观察播放量比较高的视频，以及每个视频的指标，如：&lt;strong&gt;5 秒完播率，3 秒退出率&lt;/strong&gt;等等。再测试最低价位推广来看效果，效果好则可以反复推广几次。目的是为了撬动下一层的流量池。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;我就是一个例子，其实能累积到 3 万的粉丝，主要也是靠几个视频。经过测试推广了这些效果比较好的视频。连续投了几次 100 元的抖加。&amp;lt;u&amp;gt;一般来说投一次抖加我可以获得 100 ～ 200 个精准粉丝，1000 ～ 2000 的播放量。但也有可能获得几十万的播放量甚至更多。我当时就是在一次推广时视频的播放量达到了 50 万。原因是进入了下一层的流量池，自然就获得了大量的流量。在网上可以找到流量池的图表这里就不再展示了。&amp;lt;/u&amp;gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;总之&lt;strong&gt;以少量推广去撬动巨大流量&lt;/strong&gt;是快速起号的一个重要手段。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt;视频门类&lt;/h3&gt;
-&lt;p&gt;我们在发视频时，需要抓住一个特定的领域。切记不要什么类型的视频都去拍。要知道，如果你什么都想做，就可能什么也做不好。拿抖音举例，每个账号都有自己的标签，比如做科普的，健身的，vlog ，解说类的等等等。&amp;lt;u&amp;gt;如果你什么类型都做，抖音就没办法给你打标签，也没办法把你的视频推送给目标用户，自然刷到你的视频也大概率不喜欢了。&amp;lt;/u&amp;gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;我们可以做一些泛垂直的尝试。比如，你是健身的也可以发跑步的，打球的。同样的，我做的书单视频，从事也会拍心理学的，认知类的内容。只要输出的形式不变还是可以抓住用户。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;不同平台&lt;/h2&gt;
-&lt;p&gt;现在各个平台都在占领市场，比如抖音也开始做类似小红书的图文笔记。小红书也做起来短视频以及电商。既然，我们创作了内容，内容就可以在不同的平台发布。来增加我们的曝光率。因为每个用户一天就这么多时间，他花了一个小时刷抖音，同样的他就少了一个小时时间看小红书。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;同样的短视频平台都已经达到了饱和，谁的视频能抓人眼球，平台给的流量就多。我们可以尽量在平台尝试新玩法的时候较早的涉入其中因为这些时候都有流量扶持。不要等饱和了再去尝试那样就晚了。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;不再维护&lt;/h2&gt;
-&lt;p&gt;一开始我说过，不再维护我的短视频账号。有一个很重要的原因：我当时选错了领域。其实我并不适合做书单和认知类的视频。因为我看书不多，这不是我擅长的事，每天做的都很难，当没有足够的正反馈，也不能赚钱时，往往就需要为爱发电，没有兴趣就会很煎熬。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;做书单号我的初衷是大量依靠 AI 的力量，但经过实践，无论是 AI 的文案能力，还是做视频能力，或者是 TTS 都没有达到我想要的水准。于是有大量的工作，还是靠我自己手动完成。有时做一个视频，从选题到查阅资料写文案再到做动画，往往可能会花 3-4 小时。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h2&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;虽然视频起号成功了，没有再维护下去让我很遗憾，都是也放松了许多。如果你看到这里，那么我最想告诉你，做自媒体，最好是找自己喜欢感兴趣的领域。这样才能长期以往的坚持下去。无论有没有粉丝，都可以为爱发电！就像此时开始练习写文章的我一样。&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;如果你对我的自媒体短视频账号有兴趣，可以在公众号「超级浩码」回复「自媒体」即可看到我的自媒体账号。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://www.v2ex.com/img/wc-search.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 05:42:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995912#reply0</guid></item><item><title>[问与答] GPT 是如何学习高质量中文语料的呢？</title><link>https://www.v2ex.com/t/995909#reply6</link><description>首先请原谅我小白的提问。&lt;br /&gt;&lt;br /&gt;简体中文互联网的内容这些年越来越封闭，许多都只存在于 app 内部，网络很难检索到。&lt;br /&gt;那么 GPT 是怎么学习一些高质量且比较新的简中语料的呢？</description><pubDate>Tue, 28 Nov 2023 05:26:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995909#reply6</guid></item><item><title>[OpenAI] 请问现在香港是不是也可以用 chatgpt 了？如果可以，就可以用香港的小鸡了。</title><link>https://www.v2ex.com/t/995906#reply1</link><description>目前一直用软银&lt;br /&gt;如果香港可以用 chatgpt 的话&lt;br /&gt;就可以迁移香港了&lt;br /&gt;感谢各位大佬</description><pubDate>Tue, 28 Nov 2023 05:11:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995906#reply1</guid></item><item><title>[Android] Firefox 升级之后书签和标签都不见了……</title><link>https://www.v2ex.com/t/995905#reply1</link><description>&lt;p&gt;我用的是华为的手机（鸿蒙），之前自己装了一个 Firefox ，应该用了三年了，一直没升级……具体版本号我也不记得，我猜是 60 几。今天就手欠下了一个新的 Firefox 120 的 apk ，装好之后极速启动，我正想说舒服呢，一看是个崭新的环境，数据全没了……&lt;/p&gt;
-&lt;p&gt;我在华为手机的文件管理器翻了半天也没找到 Firefox 的数据是存在什么地方。哪位了解的帮忙支个招，看看还能把旧数据导出回来嘛……&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 05:10:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995905#reply1</guid></item><item><title>[macOS] 怎样解决黑苹果系统工作时的主板线圈电流声？</title><link>https://www.v2ex.com/t/995904#reply0</link><description>&lt;p&gt;仔细观察了一下，确定是主板（技嘉主板）的线圈电流声，只要 CPU 的频率变化，就会有嗡嗡的电流声。&lt;/p&gt;
-&lt;p&gt;用 Intel Power Gadget 打开 Maximum Frequency 之后（或者用 stress-ng ），就是让 CPU 的一个核心的频率保持在 100% 就完全没电流声了，很安静。&lt;/p&gt;
-&lt;p&gt;查了一下资料 Windows 的话在主板的 Bios 关闭 C-State 也可以减少主板的啸叫，但是 macOS 系统好像并不 Care 这个 Bios 中的设置。&lt;/p&gt;
-&lt;p&gt;想问下 OC 中有没有可以这类选项？因为这个啸叫声还是挺大的。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 05:08:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995904#reply0</guid></item><item><title>[程序员] 阿里云刚结束，滴滴又来一个双响炮</title><link>https://www.v2ex.com/t/995902#reply1</link><description>昨晚就挂了，今天早晨打车司机还说能接单，结束不了订单。这波又是 P0 了吧。</description><pubDate>Tue, 28 Nov 2023 04:55:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995902#reply1</guid></item><item><title>[宽带症候群] 群晖老款 nas ds218play 下载 pt 速度很慢，求助</title><link>https://www.v2ex.com/t/995901#reply4</link><description>&lt;p&gt;朋友送了一个淘汰不用的群晖 ds 218play 。 我拿来存 pt 下载，用群晖自带的 download station 下载 pt 站的资源只有 1-2MB/s ， 家里是千兆联通，带公网 ip 。
-是我有什么设置的不对吗？还是 218play 机型太老了，就是跑不满带宽？
-ds 218play 不支持官方 docker 套件，用第三方 docker 会容器启动失败，跑不起来，没办法在群晖内测网速。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 04:52:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995901#reply4</guid></item><item><title>[随想] 捕狗后记 - 给各位提供一个前阵子捕猫捕狗运动的微观角度</title><link>https://www.v2ex.com/t/995900#reply1</link><description>&lt;blockquote&gt;
-&lt;p&gt;国​内捕狗捕猫运动已经过去一段时间了，我打算在这里记录一下身边发生的事。出于防止暴露隐私的考虑，部分标识符经过混淆，但情节真实。非常抱歉，随便写的，所以本文比较零散，也比较长。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;学校有两个片区，南区与北区，中间以河与桥分​隔。南区是猫的领地，北区是狗的疆域。不过南区也有一只小黄狗，还有一只常年守桥分不清在南还是北的长毛大橘。学生们组建了“爱​心​之家”，负责​募​捐，给猫狗​做绝​育，打疫​苗，每年也总有毕​业的同学领​养​猫狗。“爱​心​之家”成员大多宿舍在南区，所以北区的任何狗都没有得到管​理。&lt;/p&gt;
-&lt;p&gt;大概是捕狗运​动开始不久，学​校就接到上​级通知，要“处理校园内流浪猫狗”。随后校​团​委开始征集校内猫狗信息。&lt;/p&gt;
-&lt;p&gt;“爱心之家​”有人得知消息，开始和校方沟通，告知南区几只猫的信息，绝育和疫​苗证书，如何分辨（绝育后耳朵缺口标记），以及希望得到校方态度。“爱​心​之家”内部决定，如果校方态度强​硬，则考虑让有意愿的同学带回家领养。&lt;/p&gt;
-&lt;p&gt;校方迟迟没有回应，只有一位“校​园派​出​所（隶属于学校人​武部，并非正式派​出​所）”的负责人与学生沟通，称学校领​导层忙着筹办接下来的学校 70 周年庆，并不把这事放在心上，只让他们“完成任务”。&lt;/p&gt;
-&lt;p&gt;之后某天早上，我照常起床，发现那只小三花跑到我们宿舍走廊里了。我们认得它，它也认得我们。我唤它进来，它进来后一眼就走到了我的零食箱子前边，开始“与香肠打架”。我喂了它半条，它又到洗手池要我们开水龙头，喝了点水，然后跳到我舍友怀里蹭蹭。&lt;/p&gt;
-&lt;p&gt;接下来就是上课时间，去实验室。没想到，“爱心之家”的微​信​群忽然解散，据传学校开始捕猫捕狗。&lt;/p&gt;
-&lt;p&gt;打开 T​eleg​ram ，向一位在“爱心之家”比较活跃的同学询问。&lt;/p&gt;
-&lt;p&gt;了解到，“校园派​出​所”的那位负​责人今早 6 点左右忽然告知她，学校以“准备周年庆”为由，忽然让另一批人处理猫狗，处理时间就在当下。&lt;/p&gt;
-&lt;p&gt;于是立刻向校方询问，并到楼下交涉。工作人员态度蛮横，对于是否允许领养，是否考虑已绝育和疫​苗后的猫狗，将如何处理等问题不予回应，只是“你们学生不懂”、“关系到​学校的​形象”等语句不断复读。他们在多处布置包含小块肉的毒药纸包裹，用网兜捕捉猫狗。&lt;/p&gt;
-&lt;p&gt;由于是清晨，已经​起床的人不多，而且学生也不敢和校方有过多冲突。随后南区北区几乎所有猫狗都被捕获并运走。北区有狗因为被捕后狂吠而被工作人员用木棍石头当场打死。同时，南区有同学将猫带回宿舍藏匿。&lt;/p&gt;
-&lt;p&gt;此事在各社团群，校园论坛上受热议。有个特别的现象，校方从未明确回复，但很多人却用“只是送到救助站，又不是死了”，“等周年庆结束后就送​回来，有什么不对”等理由驳斥其他表示出同情和惋惜的同学。他们似乎自发地在为学校辩护，不需要可靠信息来源，也无视工作人员的投毒等行为。当有人强调有狗被打死和投毒时，甚至出​现了一种“你怎么知道是毒药，说不定只是让它晕过去”的让人啼笑皆非的说法。总之一团糟。&lt;/p&gt;
-&lt;p&gt;于是我将微​信后台进程结束，打算今天都不看微信。很巧，她也与我有相同的打算：这两天先不管了，听天由命。&lt;/p&gt;
-&lt;p&gt;就这样过去了半天左右，居然见到了上午那只小三花。其他猫都被抓走了，它却还是那样无忧无虑地。我很惊喜，暗自庆幸：之所以没被抓，是因为清晨捕猫捕狗的时间点，它在我们宿舍楼溜达。我想抱它回宿舍，走了几步，它跳下来跑了。&lt;/p&gt;
-&lt;p&gt;又过了两三天吧，快要到周年庆了，猫狗的事也逐渐失去热度。没想到这时候忽然有人发照片，四处宣扬那只小三花和北区一窝两只小狗还在。可笑的事又发生了，一大批人以“你看都还在”之类的理由，用幸存下来的漏网之鱼，否认校方无差别捕走几乎所有猫狗的事实。&lt;/p&gt;
-&lt;p&gt;我很担心，害怕这样的曝光，会让学校注意到，回头将它们一并虏走。随后有人真的向辅​导​员报告。&lt;/p&gt;
-&lt;p&gt;接下来就是周年庆，邀各路嘉宾，喧闹的表演。两三天后，之前被几位同学分别藏在宿舍的小猫也被放出，加上侥幸没有被捕的小三花，共四只。狗只剩下北区的两只小狗。&lt;/p&gt;
-&lt;p&gt;很长时间过去了，被捕猫狗下落不明，至今未归。后续也没有人来处理剩下的猫狗。&lt;/p&gt;
-&lt;p&gt;似乎又恢复了往日的平静。捕猫捕狗过后，我见到了什么，我又领会到了什么呢？&lt;/p&gt;
-&lt;p&gt;猫狗原先占有的“领地”空出，许多校外流浪猫狗进入学校。没有绝育，没​有疫​苗，由于爱心之家解散，也不再有人来管理它们。与曾经在校内生活多年的猫狗“学​长学姐们”不同，它们性格都不亲人。前几日，有人夜晚回寝路上被咬伤，还有外卖送餐员因为流浪狗打架窜出而摔伤。很难说这次捕猫捕狗是起到了怎样的效果。&lt;/p&gt;
-&lt;p&gt;捕猫捕狗和国​内​过去的“运动式执法”一样，是一阵风。之前，学校的领导老师也会在群里转发猫狗照片，称赞爱心之家的同学们。风起时迅速“完成任务”，没有人可以谈条件申请领养，也没有任何一只猫狗可以因为已经打疫​苗和绝育而得到豁免。这阵子风过后，也不会有善后。没有人会去清理角落的毒药肉包裹，只是任由其腐烂发臭。在漏网之鱼被发现并上报后，也得不到任何回应。&lt;/p&gt;
-&lt;p&gt;我能做什么呢？我什么也做不了。猫狗不在了，人，还是要好好地活下去啊。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 04:51:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995900#reply1</guid></item><item><title>[iPhone] 15PRO 会在待机情况下莫名其妙发烫并急剧增加耗电量</title><link>https://www.v2ex.com/t/995899#reply4</link><description>&lt;p&gt;是这样，本来是打算退货的买 plus 的，但是等待快递上门的 2 天这只手机续航突然正常了，我就取消退货了，昨天晚上的时候充电充到 80%左右，就拔了充电线在那里玩电脑
-后面突然来了条消息，拿起手机一看，手机很烫，看了一眼电量，半个小时直接掉了 10%&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://postimg.cc/bGNJgVBW" rel="nofollow"&gt;&lt;img alt="042c1f7de856fe50178d1502f7b0aee" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/bGNJgVBW/042c1f7de856fe50178d1502f7b0aee.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;a href="https://postimg.cc/7CsLWMv6" rel="nofollow"&gt;&lt;img alt="4b75528cda791104005316cf743a9bb" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/7CsLWMv6/4b75528cda791104005316cf743a9bb.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;我把所有后台全部退出之后，几分钟内又给我掉了 3%的电，发烫问题完全没有缓解，我想请问下各位，这种问题大概是什么引起的呢？&lt;/p&gt;
-&lt;p&gt;还要不要退货啊。。。一直用苹果的产品，从来没像这次一样新手机买来对这个续航焦虑过
-苹果一直给我的印象就是买来不用管，很省心，但是这个手机这几天的电量把我整不会了&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 04:42:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995899#reply4</guid></item><item><title>[VPS] 有没有大佬详细说下，怎么用 VPS 转发 PT 流量？ VPS 硬盘只有 10G，但是流量没啥限制。宽带没有公网 IP 地址， PT 直连就是红种。</title><link>https://www.v2ex.com/t/995896#reply6</link><description>有没有大佬说下，怎么用 VPS 转发 PT 流量？ VPS 硬盘只有 10G ，但是流量没啥限制。&lt;br /&gt;没有办法直接下载到 VPS 上，那么有没有办法借助 vps 的公网 IP 和流量转发到某台电脑上，实现变相的 pt 下载。&lt;br /&gt;用了 utorrent 的汇报 IP 功能，直接把 VPS 的 IP 汇报上去，似乎服务器不接受？&lt;br /&gt;反正没看到连入连接，那么请问有什么其他的办法么？&lt;br /&gt;开个 VPN ？</description><pubDate>Tue, 28 Nov 2023 04:40:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995896#reply6</guid></item><item><title>[问与答] Agent Ransack 能够搜索 扫描版的 PDF 文件内的书签和注释吗？</title><link>https://www.v2ex.com/t/995894#reply0</link><description>&lt;p&gt;试了下好像不能，只能搜索那种不是扫描版的 PDF 。是我使用方式不对？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 04:37:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995894#reply0</guid></item><item><title>[酷工作] [上海][鹰角]朝夕光年或者其他的同学，需要内推可以联系我</title><link>https://www.v2ex.com/t/995893#reply3</link><description>我们部门主要招 web ，3 年+经验。。&lt;br /&gt;其他职位： &lt;a href="https://app.mokahr.com/recommendation-apply/hypergryph/28713#/" rel="nofollow noopener" target="_blank"&gt;https://app.mokahr.com/recommendation-apply/hypergryph/28713#/&lt;/a&gt;&lt;br /&gt;内推码：NTAVXvy&lt;br /&gt;也可以自己看好职位，我帮忙手动内推。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;联系方式：emhhbmd3ZW5xaW5nQGh5cGVyZ3J5cGguY29t&lt;br /&gt;&lt;br /&gt;公司就不多介绍了，字节来的同学都说好&lt;br /&gt;福利待遇&lt;br /&gt;10-19/5&lt;br /&gt;每天有出勤补助+2 顿饭&lt;br /&gt;住附近的话有房补&lt;br /&gt;年度旅游，不去的话可以领现金补助&lt;br /&gt;年度综合报销&lt;br /&gt;父母以及岳父母体检报销&lt;br /&gt;双边 加一起 24%的公积金&lt;br /&gt;带国际医院的补充医疗保险&lt;br /&gt;年底年假折现等等</description><pubDate>Tue, 28 Nov 2023 04:17:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995893#reply3</guid></item><item><title>[分享发现] 用领英的兄弟多吗</title><link>https://www.v2ex.com/t/995892#reply3</link><description></description><pubDate>Tue, 28 Nov 2023 04:14:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995892#reply3</guid></item><item><title>[分享发现] 求一个能把两台 mac mini 拼在一起的盒子，想法是能装在服务机架上， 1U 大小。</title><link>https://www.v2ex.com/t/995891#reply0</link><description>求一个能把两台 mac mini 拼在一起的盒子，想法是能装在服务机架上，1U 大小。费用不能太高。</description><pubDate>Tue, 28 Nov 2023 04:13:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995891#reply0</guid></item><item><title>[分享发现] 顺丰最近推出了“顺丰 ID”，可以对寄件人隐藏收件人信息</title><link>https://www.v2ex.com/t/995890#reply17</link><description>使用顺丰速运 APP 或者小程序，找到“顺丰 ID”，即可创建格式为：SF XXX XXX XXX 的唯一 ID ，其中“X”可以自定义，由 9 位字母和数字组成。这个 ID 与收件地址对应，收件地址可以在不改动 ID 的情况下按需修改，可以创建多个 ID 。&lt;br /&gt;&lt;br /&gt;创建成功后，收件人只需要向寄件人提供这个 ID ，而无需提供姓名、电话、地址，寄件人就能完成寄件。比如甲创建了一个顺丰 ID 为“SF ABC 123 456”，乙要向甲寄件，乙只需要在顺丰速运 APP 或者小程序收件人处选择“顺丰 ID”并填写“SF ABC 123 456”即可完成寄出。&lt;br /&gt;&lt;br /&gt;大家怎么看这一功能，如果这种模式能够普及的话，是否能在很大程度上避免个人信息泄露而导致的骚扰等问题？</description><pubDate>Tue, 28 Nov 2023 04:10:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995890#reply17</guid></item><item><title>[Livid] 帮忙删除个人的隐私内容</title><link>https://www.v2ex.com/t/995889#reply10</link><description>&lt;p&gt;我在回答这个&lt;a&gt;帖子&lt;/a&gt;时，copy 配置时没有认真看，把个人用的 ip 没有删除，请帮我把这一行删除&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-dotnetcli"&gt;ip daddr { 23.95.146.49, 65.49.219.226, 193.22.152.174 } accept # handle 4
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 28 Nov 2023 04:07:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995889#reply10</guid></item><item><title>[问与答] 求推荐关于复仇的文学作品</title><link>https://www.v2ex.com/t/995888#reply5</link><description>&lt;p&gt;事业和家庭最近都不太顺，心情不大好，又假想了一个对头，想找点这种复仇的文学作品来看看。我记得我当时看完大仲马的《基督山伯爵》后感觉很爽，现在想找类似的文学作品看一下，求各位大佬推荐一下。&lt;/p&gt;
-&lt;p&gt;只有一个要求：不要网文。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 04:03:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995888#reply5</guid></item><item><title>[Apple] 兄弟们，苹果官方 trade in 的爱锋派是不是要跑路了</title><link>https://www.v2ex.com/t/995887#reply0</link><description>我有一台 MacBook Pro 寄给它们回收，评估完了 1400 元，我收到短信当天就提交了资料，说好的 2 个工作日打款，现在过了一周了还没打款。&lt;br /&gt;&lt;br /&gt;目前爱锋派的 400 电话打不通，我打了两次，每次等了将近 10 分钟直到最后断线&lt;br /&gt;&lt;br /&gt;我去小红薯输入“爱锋派”，自动提示“爱锋派电话打不通”，浏览了一下，最近不少人遇到这几种情况&lt;br /&gt;&lt;br /&gt;1 、签收数天未评估&lt;br /&gt;&lt;br /&gt;2 、不接受评估，但货物未退回&lt;br /&gt;&lt;br /&gt;3 、接受评估，提交资料但收不到货款&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;图片我就不贴了，没权限</description><pubDate>Tue, 28 Nov 2023 04:00:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995887#reply0</guid></item><item><title>[奇思妙想] 在这个经济下行的年份，突然想给人生换一种活法了</title><link>https://www.v2ex.com/t/995886#reply2</link><description>&lt;p&gt;家里帮忙买房买的早，没有房贷，毕业就工作，已经工作五年了，转眼马上 27 了突然想给人生换一种活法，准备沿着国境线自驾一圈，去看看外面的世界，找找自己接下来的目标和人生意义&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 03:56:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995886#reply2</guid></item><item><title>[程序员] 滴滴昨天晚上(2023.11.27)啥故障有没有内部人士稍微来聊聊</title><link>https://www.v2ex.com/t/995883#reply17</link><description>&lt;p&gt;好奇啥问题能持续这么久&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 03:49:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/995883#reply17</guid></item></channel></rss>
+&lt;p&gt;failed to solve: process "/bin/sh -c docker-php-ext-configure gd --enable-gd --with-freetype" did not complete successfully: exit code: 1&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:10:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996021#reply1</guid></item><item><title>[音乐] 分享一下周杰伦 王力宏 林俊杰 伍佰 陶喆 中森明菜全专辑无损音乐分享（包括一个热门歌单歌曲）</title><link>https://www.v2ex.com/t/996020#reply0</link><description>&lt;p&gt;magnet:?xt=urn:btih:27T5KLMFBOFPO3THGO3HHXH2XW4YJO3L&amp;amp;dn=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%8E%8B%E5%8A%9B%E5%AE%8F%20%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E4%BC%8D%E4%BD%B0%20%E9%99%B6%E5%90%89%E5%90%89%20%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%E5%85%A8%E4%B8%93%E8%BE%91%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%EF%BC%88%E9%99%84%E5%8A%A0%E6%9F%90%E7%83%AD%E9%97%A8%E6%AD%8C%E5%8D%95%E5%85%A8%E9%83%A8%E6%AD%8C%E6%9B%B2%EF%BC%89&amp;amp;xl=168283688467&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:07:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996020#reply0</guid></item><item><title>[问与答] 不理解这种心态，是贪便宜还是单纯的看不穿？</title><link>https://www.v2ex.com/t/996019#reply1</link><description>&lt;p&gt;《最低价的 GPT-4-32k API ，价格低于官网 44 倍》
+里面不就是自己拉起一个 one api ，然后对接上几个开源模型？
+起名字 GPT-4-32k ，就有人信吗？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996019#reply1</guid></item><item><title>[游戏] 终于！卸载王者荣耀了，转 2 个不氪金公平的手游</title><link>https://www.v2ex.com/t/996018#reply13</link><description>&lt;p&gt;四连跪之后就四连胜，之后又四连跪。
+心态崩了直接卸载。&lt;/p&gt;
+&lt;p&gt;然后下载了战双，还有香肠派对这两个。&lt;/p&gt;
+&lt;p&gt;大家推荐还有哪些不氪金公平好玩的手游？&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 11:02:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996018#reply13</guid></item><item><title>[美酒与美食] #赣南脐橙 新鲜的赣南脐橙来咯~</title><link>https://www.v2ex.com/t/996017#reply0</link><description>自家果园生产，纯天然食品，欢迎感兴趣的朋友进店选购&lt;br /&gt; &lt;br /&gt; &lt;a href="https://i.imgur.com/cx3q7sT.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cx3q7sT.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Tue, 28 Nov 2023 11:00:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996017#reply0</guid></item><item><title>[程序员] 无需切换中英文的输入法，有人感兴趣吗！</title><link>https://www.v2ex.com/t/996016#reply1</link><description>&lt;p&gt;Hey 大家好，我是设计小透明，关注工具类产品，现在有一个关于改进现有输入法的想法，核心是解决中英文切换的易错和低效问题，并有了一个或许可行的设计方案，想找个开发大佬讨论讨论，有人感兴趣吗嘿嘿！&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 10:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996016#reply1</guid></item><item><title>[分享发现] 龙芯 3A6000 发布了</title><link>https://www.v2ex.com/t/996015#reply4</link><description>&lt;p&gt;新闻报道：
+&lt;a href="https://news.cctv.com/2023/11/28/ARTImS1Tab3zX9enG0BrW2Ig231128.shtml" rel="nofollow"&gt;https://news.cctv.com/2023/11/28/ARTImS1Tab3zX9enG0BrW2Ig231128.shtml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;测评：
+&lt;a href="https://www.bilibili.com/video/BV15u4y1A7aK/" rel="nofollow"&gt;https://www.bilibili.com/video/BV15u4y1A7aK/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;龙芯 3A6000 无需依赖任何国外授权技术,我国自主研发的 CPU 在自主可控程度和产品性能方面达到新高度。&lt;/p&gt;</description><pubDate>Tue, 28 Nov 2023 10:50:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996015#reply4</guid></item><item><title>[分享创造] 为什么 AWS 和腾讯延迟这么高呢</title><link>https://www.v2ex.com/t/996013#reply0</link><description>想从海外反代腾讯北京云，新加坡延迟 200+、东京延迟 300+。明明这俩 AWS 到国内三网都是 100 左右，为什么到腾讯这么高呢，有没有低点的 线路推荐呢？我的试用马上到期了，想买个光帆反代国内服务器，谁知道，线路这么奇怪。另外有没有别的反代线路推荐呢？</description><pubDate>Tue, 28 Nov 2023 10:33:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996013#reply0</guid></item></channel></rss>
