@@ -1,209 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 30 Nov 2023 04:33:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] ⌨️机械键盘里是不是 樱桃红轴 都有弹簧音？</title><link>https://www.v2ex.com/t/996498#reply0</link><description>之前的红轴正常，今天收到 ikbc 的樱桃红轴发现有弹簧音，客服说都有，就算换也还是有弹簧音。&lt;br /&gt;&lt;br /&gt;个人还是比较喜欢樱桃轴的，毕竟前一个键盘用了好多年还没坏。&lt;br /&gt;&lt;br /&gt;或者问下京造键盘如何，哪个轴和红轴一样，300 元以内。</description><pubDate>Thu, 30 Nov 2023 04:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996498#reply0</guid></item><item><title>[问与答] 卖房时应该如何激励中介？</title><link>https://www.v2ex.com/t/996497#reply0</link><description>突然在脑子里想到这个博弈问题，一时没有想到好的答案。比如说我要卖房，快点脱手和尽量价高是两个要尽量达到的维度，请问用什么激励机制可以在两个维度上利益最大化？&lt;br /&gt;&lt;br /&gt;是否可以这样。&lt;br /&gt;&lt;br /&gt;事先隐瞒自己的卖房意图，和中介交流，假装是要在同小区尽快买一套和自己要出售的房子一样的房子，过程中应该有可能套出中介认为合适的房价。参照此价格加上自己的一些调研，定出一个价格（这个价格可能比前面从中介那里套到的价格还要低个 5%）。转天和中介委托卖房，给出此价格，在中介正常收益外，约定价格额外奖励措施，比如在此价格上每多卖 1 万，中介可以抽溢价的 1%（或其他约定的比例）。另外约定一个天数（天数不知道怎么定比较好），过了这个天数后，针对中介溢价奖金（由于商定的价格是个安全的偏低价格，所以中介会有溢价奖金）进行某种折扣（折扣应该怎么定呢？）。&lt;br /&gt;&lt;br /&gt;这里因素比较复杂，比如，&lt;br /&gt;&lt;br /&gt;1. 约定的价格应该比套出来的价格低多少？&lt;br /&gt;2. 过了约定天数后应该如何针对溢价奖励进行折扣？比如我觉得只能是百分比，不能是绝对数字，否则可能出现天数过长，使得溢价奖金降低到零，中介对这个委托冷淡下来，不再努力。&lt;br /&gt;&lt;br /&gt;想了挺久，这个两个维度上尽量利益最大化的博弈奖励方案居然没有想出来。它还不像公司里面对销售的奖励措施，这里的情形是个一次性 transaction ，不像公司里面对销售的激励那样是有多次来回的，激励双方这个季度不行，还有下个季度可以理解和调整，每年可能还能修改。</description><pubDate>Thu, 30 Nov 2023 04:26:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996497#reply0</guid></item><item><title>[问与答] root 手机有哪些有趣的脚本（模块）？</title><link>https://www.v2ex.com/t/996496#reply0</link><description></description><pubDate>Thu, 30 Nov 2023 04:24:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996496#reply0</guid></item><item><title>[分享创造] 开源 AI 聊天、绘图软件 AIdea 一键部署安装包来啦</title><link>https://www.v2ex.com/t/996493#reply0</link><description>&lt;p&gt;AIdea 是一款集成了主流大语言模型以及绘图模型的 APP ，在今年 9 月初完全开源，但是由于它分为客户端和服务端，而且是不同语言开发完成的，很多小伙伴在尝试自己部署时往往要折腾很久，今天我发布了 &lt;a href="https://github.com/mylxsw/aidea-docker" rel="nofollow"&gt;mylxsw/aidea-docker&lt;/a&gt; 这个项目，使用 docker-compose 来实现了一键部署 Web 版本的 AIdea 项目，只需要修改下配置文件，就可以一键启动整个服务，不再需要再去折腾 MySQL 、Redis 、Flutter 环境搭建、Go 环境搭建！&lt;/p&gt;
-&lt;p&gt;项目地址在： &lt;a href="https://github.com/mylxsw/aidea-docker" rel="nofollow"&gt;https://github.com/mylxsw/aidea-docker&lt;/a&gt; ，快去关注起来吧！&lt;/p&gt;
-&lt;p&gt;AIdea 采用 Flutter + Golang 开发，代码完全开源，支持以下功能：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OpenAI 的 GPT-3.5 ，GPT-4 大语言模型&lt;/li&gt;
-&lt;li&gt;Anthropic 的 Claude instant ，Claude 2.0 大语言模型&lt;/li&gt;
-&lt;li&gt;国产模型：通义千问，文心一言，讯飞星火，商汤日日新，腾讯混元，百川 53B ，360 智脑&lt;/li&gt;
-&lt;li&gt;开源模型：Llama2 ，ChatGLM2 ，AquilaChat 7B ，Bloomz 7B 等，后续还将开放更多&lt;/li&gt;
-&lt;li&gt;文生图、图生图、超分辨率、黑白图片上色等功能，集成 Stable Diffusion 模型，支持 SDXL 1.0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Github 地址：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;客户端（ Flutter ）： &lt;a href="https://github.com/mylxsw/aidea" rel="nofollow"&gt;https://github.com/mylxsw/aidea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;服务端（ Golang ）： &lt;a href="https://github.com/mylxsw/aidea-server" rel="nofollow"&gt;https://github.com/mylxsw/aidea-server&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Docker 一键部署安装包： &lt;a href="https://github.com/mylxsw/aidea-docker" rel="nofollow"&gt;https://github.com/mylxsw/aidea-docker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;下面是一些预览图&lt;/p&gt;
-&lt;p&gt;&lt;img alt="全景展示宣传图-亮色" class="embedded_image" rel="noreferrer" src="https://ssl.aicode.cc/mweb/%25E5%2585%25A8%25E6%2599%25AF%25E5%25B1%2595%25E7%25A4%25BA%25E5%25AE%25A3%25E4%25BC%25A0%25E5%259B%25BE-%25E4%25BA%25AE%25E8%2589%25B2.png" /&gt;&lt;/p&gt;
-&lt;p&gt;暗黑色系&lt;/p&gt;
-&lt;p&gt;&lt;img alt="全景展示宣传图-暗色" class="embedded_image" rel="noreferrer" src="https://ssl.aicode.cc/mweb/%25E5%2585%25A8%25E6%2599%25AF%25E5%25B1%2595%25E7%25A4%25BA%25E5%25AE%25A3%25E4%25BC%25A0%25E5%259B%25BE-%25E6%259A%2597%25E8%2589%25B2.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 04:00:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996493#reply0</guid></item><item><title>[成都] 成都高新区核心区凤凰城中庭 5 楼好房出售</title><link>https://www.v2ex.com/t/996492#reply0</link><description>&lt;p&gt;处于成都最具生命力的高新区黄金地段，离软件园两公里。
-金苹果幼儿园 200 米，益州小学 200 米，中学对口石室天府锦城湖和教科院附中，都是高新区最好的教育资源。&lt;/p&gt;
-&lt;p&gt;2 公里内还有网红高新区图书馆，24 年要开的高新区人民医院已经封顶。&lt;/p&gt;
-&lt;p&gt;13x 平三方两厅，东面和南面采光。
-5 楼黄金楼层，能享受绿化而不被遮挡光线。
-中庭楼王位置，兼顾便利和安静。&lt;/p&gt;
-&lt;p&gt;有意联系绿色 RmxvYXR1cEZyb21MaW1ibw==&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:57:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996492#reply0</guid></item><item><title>[酷工作] 「远程全职」美国社交平台招聘 移动端开发工程师，年薪 30-40K RMB</title><link>https://www.v2ex.com/t/996491#reply4</link><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;投递方式&lt;/strong&gt;: &lt;a href="https://engineer.joinbrix.com/outer/shareJob?unique_id=1179388810071658496&amp;amp;invite_code=6LWPSKB2&amp;amp;utm_source=v2ex&amp;amp;utm_medium=community&amp;amp;utm_campaign=JobViz_position" rel="nofollow"&gt;点击该链接投递&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;关于 Brix&lt;/strong&gt;: &lt;a href="https://a10khaznyg.feishu.cn/docs/doccn7UxrLhCpUVzIL4eKMWuuEd" rel="nofollow"&gt;点击了解 Brix 是啥&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;工作形式&lt;/strong&gt;: 远程工作模式&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;行业介绍&lt;/strong&gt;：🇺🇸 社交平台&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;投递前，建议了解清楚这些信息&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;该岗位是雇主通过 AI 招聘工具 HireRight 自主生成和开放投递的岗位，招聘环节 Brix 仅提供招聘工具，雇主公司信息以及岗位均通过 Brix 平台真实性验证。&lt;/li&gt;
-&lt;li&gt;HireRight 简历直达雇主，该岗位具体面试进度流程，开放时间以雇主为准。&lt;/li&gt;
-&lt;li&gt;该岗位由 Brix 提供跨境合规支持。&lt;/li&gt;
-&lt;li&gt;Brix 的角色：作为跨境远程团队的基础设施搭建平台，会帮公司和雇员解决跨国法务 /税务等合规性问题。&lt;/li&gt;
-&lt;li&gt;关于 Brix 的更多信息见: &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/dxB7w_7j3nqb9ToDhju7KQ" rel="nofollow"&gt;全球化基础设施的搭建才刚开始&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/JfB0lHKfi4g6v4xatSKJ3g" rel="nofollow"&gt;未来，人类会怎么工作?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/YE_Br_khpkvCgbk8amaKWQ" rel="nofollow"&gt;监控员工好累啊……来看看远程管理如何解放双手&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;在这个岗位，您需要做&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;移动应用开发： 使用 React Native 框架为 iOS 和 Android 平台设计、开发和实施高质量、可扩展且高效的移动应用程序 与用户界面/用户体验设计师合作，将设计模型转化为功能性用户界面，确保最佳的用户体验和视觉吸引力。实施响应式设计，确保跨设备兼容性&lt;/li&gt;
-&lt;li&gt;前端开发： 使用 React Native 框架开发前端组件。与各种应用程序接口和第三方服务集成，以获取和显示动态- - 后端开发： 设计并实施 RESTful API ，实现移动应用程序与后端服务器之间的无缝通信。使用适当的技术（如 Node.js 、Ruby on Rails 、Django ）开发服务器端逻辑，以支持应用程序的功能。实施数据存储解决方案，如数据库（ SQL ），以实现高效的数据管理。&lt;/li&gt;
-&lt;li&gt;跨职能协作： 与产品经理、设计师和其他工程师合作，确定需求并为整个应用程序的开发路线图做出贡献。参与代码审查并向同行提供建设性反馈，以保持代码质量和最佳实践。与质量保证工程师密切合作，确保高质量的测试和错误解决。&lt;/li&gt;
-&lt;li&gt;性能和优化： 识别并解决前端和后端组件的性能瓶颈，确保应用程序的最佳性能。优化应用程序的加载时间、响应速度和资源使用情况，以提供流畅的用户体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;需要您有&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;计算机科学、软件工程或相关专业的学士或硕士学位。&lt;/li&gt;
-&lt;li&gt;2 年以上全栈开发经验。精通前端、后端技术和框架。&lt;/li&gt;
-&lt;li&gt;具有版本控制系统（如 Git ）和协作开发工作流程方面的经验。熟悉云服务和部署流程。解决问题的能力强，能够排除复杂的技术问题。&lt;/li&gt;
-&lt;li&gt;出色的沟通技能，能够在团队协作环境中有效工作。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;优先考虑&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;具有使用 &lt;strong&gt;React Native&lt;/strong&gt; 框架的经验。&lt;/li&gt;
-&lt;li&gt;了解 &lt;strong&gt;UI/UX&lt;/strong&gt; 设计原则和实践。&lt;/li&gt;
-&lt;li&gt;具有 &lt;strong&gt;AWS&lt;/strong&gt; 使用经验。&lt;/li&gt;
-&lt;li&gt;曾开发过面向消费者、拥有大量用户的应用程序。&lt;/li&gt;
-&lt;li&gt;英语流利。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Brix 工程师的一手工作体验&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485266&amp;amp;idx=1&amp;amp;sn=16e7721538f71099dffd1f45d0afbb73&amp;amp;chksm=c0a46c21f7d3e5379683ce821f7574836dd93d7407593cdcb905a35782d66e6cbb57f108ef83&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;从 IBM 离职后，我成为了一家美国公司的远程团队管理者。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485249&amp;amp;idx=1&amp;amp;sn=16830c18448c1494da8f6ae329b88f3a&amp;amp;chksm=c0a46c32f7d3e524808e6ffc1cd399c8f20ed0f1633c0e96fa6afa24131de09f5ed07deb9d06&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;第一批踏入远程工作的程序员：能力是稳定的，那我的收入就是稳定的。&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485251&amp;amp;idx=1&amp;amp;sn=665ad5ee1794a2c0ad7ad2ba5ed5b88e&amp;amp;chksm=c0a46c30f7d3e5269bee4657dfecbd2948b8fc5920e87b357a33273a2a7b39c136b974ede7d4&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;我在 30 岁前，做出的最后一个关于工作的选择。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485244&amp;amp;idx=1&amp;amp;sn=a901161748bc446fd2e7d90391984546&amp;amp;chksm=c0a46c4ff7d3e559fd4d41598ae7d13b7b88bfe2a5037dc28d4aafc88fd69bbe1bfca1f70665&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;非科班出身全职远程开发者：生活才是人生的主要内容。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485239&amp;amp;idx=1&amp;amp;sn=50bd28ecea435b338337af6156145ba5&amp;amp;chksm=c0a46c44f7d3e552b4a5b11fd47dd10f4a3abf5214bd649d9d176b1cf6ffa45261e5cb53fef7&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;工作了 5 年后，我决定逃离大厂，回到家乡。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485255&amp;amp;idx=1&amp;amp;sn=43367ac32bcb11053a71d75d52a9fb03&amp;amp;chksm=c0a46c34f7d3e522d91416e1f03cf9d77a0066176337b97031d953f53c3bd11055972406d80a&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;因为受不了办公室的冷气，我从没去过办公室上班。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485257&amp;amp;idx=1&amp;amp;sn=3d83bbd0f5163d49c6aee00be1a2193c&amp;amp;chksm=c0a46c3af7d3e52cfc0188ba3901764cb5e5714716376aaa4aadbd945fa43a4a429b1f2da67f&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;原来，环游美国是不需要辞职的&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwMjQ2MzAwNA==&amp;amp;mid=2247485252&amp;amp;idx=1&amp;amp;sn=84aa95e406e513d2abb4b13203f3dc18&amp;amp;chksm=c0a46c37f7d3e52151991539ebe099149261420d48c3db74aa62a5b8c4525b6f4af7c7ad73ee&amp;amp;token=1385103056&amp;amp;lang=zh_CN#rd" rel="nofollow"&gt;作为一个远程工作者，我从加拿大回到国内生活。&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 30 Nov 2023 03:53:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996491#reply4</guid></item><item><title>[程序员] 自己搞了一个内容网站，为啥定期会有一些 gmail 的邮箱/海外的邮箱来注册，但是一个都没有激活</title><link>https://www.v2ex.com/t/996490#reply2</link><description>&lt;p&gt;自己搞了一个内容网站，为啥定期会有一些 gmail 的邮箱/海外的邮箱来注册，但是一个都没有激活，感觉像是机器人，又不太像，有大佬们遇到过类似的情况吗？&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- 我是使用 QQ 邮箱的 smtp 做的代理，自己的 gmail 邮箱也注册试过，是可以正常收到邮件的
-- 这些人填写的姓名都很统一，就是 xxx@gmail.com 中的 xxx
-- 还有一些人的姓名是随机生成的字符串
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 30 Nov 2023 03:52:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996490#reply2</guid></item><item><title>[OpenWrt] 软路由上面 bt 下载的话用什么方案</title><link>https://www.v2ex.com/t/996488#reply6</link><description>最近搞了 vr ，直接看 iso 原盘是真爽啊，戴上耳机或者是在客厅用音响看，颇有电影院的感觉。&lt;br /&gt;现在就想搞一波收藏下载，家里是 300m 水管，iso 原盘动不动 50G 70G 的，不热门的下载速度用迅雷也就 2-3m ，用自己电脑挂机下不合适。&lt;br /&gt;目前研究了下，手里有 8 代 i5 的软路由。我这种需求是不是适合用虚拟机装 windows 然后跑迅雷挂机下比较合适？感觉 windows+迅雷不稳的感觉，迅雷动不动升级这那的挺烦。有没有其他更稳的方案，linux 上跑 bt 软件会不会好点？另外如果不跑虚拟机的话，openwrt 上面跑 aira2 是不是下这种资源没速度？</description><pubDate>Thu, 30 Nov 2023 03:48:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996488#reply6</guid></item><item><title>[Python] Python is Easy. Go is Simple. Simple != Easy.</title><link>https://www.v2ex.com/t/996487#reply1</link><description>&lt;p&gt;英文原文： &lt;a href="https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/" rel="nofollow"&gt;https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Python 和 Go 具有不同的特性，可以相互补充。&lt;/p&gt;
-&lt;p&gt;有一个常见的误解，简单和容易指的是同一件事。毕竟，如果一个东西很容易使用，那么它的内部工作原理一定很容易理解，对吗？或者反过来？事实上，恰恰相反。
-虽然这两个概念在精神上指向相同的结果，但要让一些东西看起来很容易，在引擎盖下需要巨大的复杂性。&lt;/p&gt;
-&lt;p&gt;以 Python 为例，它是一种以低门槛而闻名的语言，因此是入门编程语言的最佳选择。地球仪上的学校、大学、研究中心和大量企业选择 Python 正是因为它对任何人都是可访问的，无论他们的教育水平或学术背景如何（或者完全没有）。
-人们很少需要太多的类型理论或理解事物如何以及在哪里存储在内存中，某段代码在哪个线程上运行，等等。
-此外，Python 是通往一些最深刻的科学和系统级库的入口。
-能够用一行代码控制如此强大的功能，这说明它很有可能成为这个星球上最流行的编程语言之一。&lt;/p&gt;
-&lt;p&gt;这里有一个问题--用 Python 代码表达东西的容易性是有代价的。
-在后台，Python 解释器是巨大的，即使是一行代码也必须执行许多操作。
-当你听到有人说 Python 是一种“慢”语言时，很多人认为 Python 的“慢”来自于解释器在运行时所做的决定的数量。但在我看来，这还不是最大的问题。
-Python 运行时生态系统的复杂性，以及围绕其包管理的一些自由设计决策，导致了一个非常脆弱的环境，更新经常导致不兼容和运行时崩溃。&lt;/p&gt;
-&lt;p&gt;离开一个 Python 应用程序几个月后回到它，才意识到宿主环境已经改变得足够多，以至于不再可能启动应用程序，这并不罕见。
-当然，这是一个严重的过度简化，甚至现在的孩子都知道容器的存在就是为了解决这样的问题。事实上，多亏了 Docker 和它的同类，可以及时“冻结”Python 代码库的依赖项，以便它实际上可以永远运行。
-然而，这是以将责任和复杂性转移到操作系统基础设施为代价的。这不是世界末日，但也不能低估和忽视。&lt;/p&gt;
-&lt;h2&gt;从轻松到简单&lt;/h2&gt;
-&lt;p&gt;如果我们用 Python 来解决这个问题，我们最终会得到像 Rust 这样的东西--非常高的性能，但进入门槛非常高。
-Rust 在我看来，不容易使用，更重要的是，不简单。&lt;/p&gt;
-&lt;p&gt;虽然这些天它被大肆宣传，尽管有 20 年的编程经验，并且在 C 和 C++中迈出了第一步，但我不能看着一段 Rust 代码并肯定地说我理解那里发生了什么。
-大约五年前，我在一个基于 Python 的系统上工作时发现了 Go 。虽然我花了几次尝试才喜欢上这种语法，但我立刻就爱上了简单的想法。
-Go 语言的本意是让组织中的任何人都能简单地理解--从刚从学校毕业的初级开发人员到偶尔看代码的高级工程经理。&lt;/p&gt;
-&lt;p&gt;更重要的是，作为一种简单的语言，Go 很少进行语法更新-最后一次重要的更新是在 v1.18 中添加了泛型，这是经过十年的认真讨论之后才实现的。
-在大多数情况下，无论你看五天前还是五年前写的 Go 代码，它基本上是一样的，应该可以工作。&lt;/p&gt;
-&lt;p&gt;简单需要纪律。一开始会感到受限，甚至有点落后。特别是与简洁的表达式相比，例如 Python 中的列表或字典理解：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;temperatures = [
-    {"city": "City1", "temp": 19},
-    {"city": "City2", "temp": 22},
-    {"city": "City3", "temp": 21},
-]
-
-filtered_temps = {
-    entry["city"]: entry["temp"] for entry in temperatures if entry["temp"] &amp;gt; 20
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在 Go 语言中，同样的代码需要多做一些修改，但理想情况下，应该是一个更接近 Python 解释器底层的想法：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;type CityTemperature struct {
-    City      string
-    Temp float64
-}
-
-// ...
-
-temperatures := []CityTemperature{
-    {"City1", 19},
-    {"City2", 22},
-    {"City3", 21},
-}
-
-filteredTemps := make(map[string]float64)
-for _, ct := range temperatures {
-    if ct.Temp &amp;gt; 20 {
-        filteredTemps[ct.City] = ct.Temp
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;虽然你可以用 Python 编写等效的代码，但编程中有一条不成文的规则，如果语言提供了一个更简单（比如更简洁，更优雅）的选择，程序员就会被它吸引。但简单是主观的，简单应该同样适用于每个人。
-执行相同操作的替代方案的可用性导致不同的编程风格，并且人们经常可以在同一代码库中找到多种风格。&lt;/p&gt;
-&lt;p&gt;由于 Go 语言冗长而“无聊”，它自然会勾选另一个框-Go 编译器在编译可执行文件时要做的工作要少得多。
-编译和运行 Go 应用程序通常与在运行实际应用程序之前加载 Python 解释器或 Java 虚拟机一样快，甚至更快。&lt;/p&gt;
-&lt;p&gt;毫不奇怪，作为一个本机可执行文件是一个可执行文件所能达到的最快速度。它不像 C/C++或 Rust 那样快，但代码复杂度只有它的一小部分。
-我愿意忽略 Go 的这个小“缺点”。&lt;/p&gt;
-&lt;p&gt;最后但并非最不重要的是，Go 二进制文件是静态绑定的，这意味着您可以在任何地方构建一个并在目标主机上运行它-没有任何运行时或库依赖。为了方便起见，我们仍然将 Go 应用程序包装在 Docker 容器中。
-尽管如此，它们还是要小得多，而且内存和 CPU 消耗量只是 Python 或 Java 的一小部分。&lt;/p&gt;
-&lt;h2&gt;我们如何同时使用 Python 和 Go 来发挥优势&lt;/h2&gt;
-&lt;p&gt;我们在工作中发现的最实用的解决方案是将 Python 的易用性和 Go 的简单性结合起来。对我们来说，Python 是一个很好的原型开发平台。它是思想诞生的地方，也是科学假说被接受和拒绝的地方。&lt;/p&gt;
-&lt;p&gt;Python 是数据科学和机器学习的天然选择，由于我们要处理很多这样的事情，尝试用其他东西重新发明轮子是没有意义的。
-Python 也是 Django 的核心，它的座右铭是允许像其他工具一样快速开发应用程序（当然，Ruby on Rails 和 Elixir 的 Phoenix 值得一提）。&lt;/p&gt;
-&lt;p&gt;假设一个项目需要一点点的用户管理和内部数据管理（就像我们大多数项目一样）。在这种情况下，我们将从 Django 开始，因为它内置了 Admin ，这很棒。一旦 Django 的概念验证开始类似于一个产品，我们就可以确定其中有多少可以在 Go 中重写。&lt;/p&gt;
-&lt;p&gt;由于 Django 应用程序已经定义了数据库的结构和数据模型的外观，因此在其上编写 Go 代码非常容易。经过几次迭代，我们达到了一种共生关系，双方在同一个数据库上和平共处，并使用最基本的消息传递来相互通信。&lt;/p&gt;
-&lt;p&gt;最终，Django 的“shell”变成了一个协调器--它服务于我们的管理目的，并触发任务，然后由 Go 的对应部分处理。Go 部分服务于其他一切，从前端 API 和端点到业务逻辑和后端作业处理。&lt;/p&gt;
-&lt;p&gt;到目前为止，这是一种共生关系，我希望它在未来保持这种状态。在以后的文章中，我将概述一些关于架构本身的更多细节。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:47:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996487#reply1</guid></item><item><title>[优惠信息] 动卡空间 APP（中信银行），我的，"9 元享看"，最低 1.9 元买视听会员。</title><link>https://www.v2ex.com/t/996484#reply11</link><description>月末最后一天，还有大量的货存，需要的可以去兑换。刚 1.9 元换了个 QQ 音乐，真香。&lt;br /&gt;&lt;br /&gt;只支持信用卡（普卡、金卡，白金卡）用户，每月都可以兑换一次。</description><pubDate>Thu, 30 Nov 2023 03:41:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996484#reply11</guid></item><item><title>[耳机] 用降噪耳机 通话/会议时，旁边突然有人说话，经常会把我的声音当做噪音，导致对方突然听不到我的声音</title><link>https://www.v2ex.com/t/996483#reply0</link><description>&lt;p&gt;这个有什么办法解决么？&lt;/p&gt;
-&lt;p&gt;以前用的 bose QC35 ，似乎没这个问题。现在换了 QC45 ，这个问题就很明显。办公室开会，旁边有人说话，对方就听不到，或者声音忽高忽低，体验很不好。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:41:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996483#reply0</guid></item><item><title>[macOS] macOS 13.4 上的鼠须管如何快速切换输入法 schema？</title><link>https://www.v2ex.com/t/996482#reply0</link><description>macOS 13.4 ，安装了当前最新版的鼠须管，安装了四叶草和 easy-english 这两个 schema 。&lt;br /&gt;按默认的 F4 或者&amp;lt;C-`&amp;gt;快捷键可以唤出切换菜单 ， 如下&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/1saqh3o.png" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/1saqh3o.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;然后再按数字键选中想要的。想要频繁在 2 个 schema 之间切换比较麻烦，有没有办法配置成一键切换到某个 schema ，比如 shift_R 一键切换到 easy-english ？</description><pubDate>Thu, 30 Nov 2023 03:40:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996482#reply0</guid></item><item><title>[Apple] 苹果 App 海外公司上架的 App 如何备案？</title><link>https://www.v2ex.com/t/996481#reply0</link><description>&lt;p&gt;明年这就要迫在眉睫了呀！没有备案的应用在苹果应用商店都要下架了呀。现在没有备案的国内公司都不能上架 App Store 了，但是国外公司的应用要怎么办呀？从明年开始是不是都不能使用了呀？&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:37:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996481#reply0</guid></item><item><title>[程序员] 仿一个 SAP 系统有多大难度</title><link>https://www.v2ex.com/t/996480#reply4</link><description>&lt;p&gt;如果 1 比 1 仿一个 SAP 、salesforce 等系统，会有多大难度？涉及到侵权吗？&lt;/p&gt;
-&lt;p&gt;另外，SAP 、salesforce 等成熟系统的最大价值是什么？稳定性、客户群、还是有一群为之奋斗的顾问。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:31:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996480#reply4</guid></item><item><title>[YouTube] 油管广告越来越丧心病狂了</title><link>https://www.v2ex.com/t/996479#reply12</link><description>&lt;p&gt;油管视频的总时长才 7-8 分钟，开头一个广告，几分钟以后插了一个 3 分多钟的广告还不可跳过！ WTF!&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:30:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996479#reply12</guid></item><item><title>[Java] 求问如何得知一个 jar 包所需要的系统动态链接库？</title><link>https://www.v2ex.com/t/996478#reply2</link><description>之前使用 docx4j 的时候，放到有的服务器上就会报错，后来发现是服务器缺少 libXext 造成的，所以想咨询下在那里或者有什么方法能够查询 jar 包里需要的动态链接库</description><pubDate>Thu, 30 Nov 2023 03:29:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996478#reply2</guid></item><item><title>[生活] 在东北接机的日常，居然还真有人相信室外的东北没有上海冷</title><link>https://www.v2ex.com/t/996477#reply12</link><description>&lt;p&gt;这几年接机，碰到不少相信北方冬天没有南方冷的人&lt;/p&gt;
-&lt;p&gt;结果下飞机直接冻到怀疑人生&lt;/p&gt;
-&lt;p&gt;羽绒服都不带，勇士&lt;/p&gt;
-&lt;p&gt;温度降到零下，不分湿冷还是干冷了，那是真实伤害，混沌攻击&lt;/p&gt;
-&lt;p&gt;结果小姐姐直接把同事羽绒服给要走了&lt;/p&gt;
-&lt;p&gt;现在同事冷到怀疑人生&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:28:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996477#reply12</guid></item><item><title>[NAS] unraid 的目录设计的很混乱，大家觉得呢</title><link>https://www.v2ex.com/t/996476#reply3</link><description>比如/mnt/user /mnt/disks 和/mnt/cache 等的关系，然后如果想挂载额外的共享目录，必须挂载到/mnt/user 下面的目录里，如果 unraid 重启，又有几率发生目录错乱的场景，就是/mnt/user 和/mnt/cache 的内容不一样了&lt;br /&gt;&lt;br /&gt;大家怎么解决这些问题？</description><pubDate>Thu, 30 Nov 2023 03:22:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996476#reply3</guid></item><item><title>[求职] 一个 10 年+经验的产品经理</title><link>https://www.v2ex.com/t/996474#reply0</link><description>a29raW50b3h0QGdtYWlsLmNvbQ==</description><pubDate>Thu, 30 Nov 2023 03:17:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996474#reply0</guid></item><item><title>[程序员] 中国版的 GPTs： InsCode AI 生成应用</title><link>https://www.v2ex.com/t/996473#reply0</link><description>&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;在上一篇文章 &lt;a href="https://v2ex.com/t/949873" rel="nofollow"&gt;《 InsCode：这可能是下一代应用开发平台？》&lt;/a&gt;中，我们介绍了一个新的应用开发平台 InsCode ，它是基于云原生开发环境 + 云 IDE + AI 辅助编程的一站式在线开发平台。&lt;/p&gt;
-&lt;p&gt;最近，&lt;a href="https://inscode.net" rel="nofollow"&gt;InsCode&lt;/a&gt; 又推出了另一种全新的开发模式：&lt;strong&gt;AI 生成应用&lt;/strong&gt;，类似前不久 OpenAI 发布的 GPTs ，也是通过&lt;strong&gt;自然语言对话&lt;/strong&gt;的形式，开发出满足自己需求的应用出来。&lt;/p&gt;
-&lt;p&gt;之前开发应用还必须懂编程，现在完全不需要了，连 IDE 都没有了，所以不懂编程的用户也可以使用：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/1.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/2.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;输入想法，生成应用&lt;/h2&gt;
-&lt;p&gt;InsCode AI 生成应用，是将&lt;strong&gt;一句话需求&lt;/strong&gt;通过 AI 能力生成出可以直接在 InsCode 平台运行的应用。目前比较适合生成工具类应用，不擅长生成游戏、个性化界面、移动 App 等。&lt;/p&gt;
-&lt;p&gt;比如官网推荐的需求：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 30 Nov 2023 13:45:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 小🍠看到的，佛山电信开始明抢现有用户的公网 IP 了</title><link>https://www.v2ex.com/t/996646#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Fhdb1ot.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;TL;DR：电信单方面声称“经前期电话与您确认，您不需要动态公网 IPv4 地址服务”，然后收回用户公网 IP ，并引导用户办理比现有套餐贵 300 元的“专线”，或加 100 元恢复公网 IPv4 。&lt;/p&gt;
+&lt;p&gt;原帖连接： &lt;a href="https://www.xiaohongshu.com/explore/655fff6c000000001100e7d9" rel="nofollow"&gt;https://www.xiaohongshu.com/explore/655fff6c000000001100e7d9&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:37:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996646#reply0</guid></item><item><title>[问与答] 各位在土区有什么值得买的 app/订阅吗？我整理了我的</title><link>https://www.v2ex.com/t/996645#reply0</link><description>&lt;p&gt;虽然涨价哼多，但还是比国区便宜很多
+目前汇率我们按照目前汇率 1CNY = 4TRY&lt;/p&gt;
+&lt;p&gt;100GB Goole One = 119.99 TRY/每年
+Infuse = 99.99TRY/每年
+Plex = 142.99TRY/每年
+2TB iCloud = 129.99TRY/每月
+Youtube = 149.99TRY/每月&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:35:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996645#reply0</guid></item><item><title>[问与答] 你觉得领养一个健康宝宝，跟自己生有多大差别？</title><link>https://www.v2ex.com/t/996644#reply1</link><description>应该普遍心里有道坎，觉得没有血缘关系吧？&lt;br /&gt;&lt;br /&gt;我自己没那么看重血缘，觉得可以接受。&lt;br /&gt;想看看大家的看法，谢谢🙏</description><pubDate>Thu, 30 Nov 2023 13:14:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996644#reply1</guid></item><item><title>[问与答] 每天坚持 刻意思考（Deliberate Thinking） ？</title><link>https://www.v2ex.com/t/996643#reply1</link><description>&lt;p&gt;感觉刻意思考是对人大脑的一种放松，特别是来回踱步的时候&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:10:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996643#reply1</guid></item><item><title>[问与答] 髂骨部位疼痛，有道友遇到过吗</title><link>https://www.v2ex.com/t/996642#reply1</link><description>&lt;p&gt;髂嵴部位有放射性疼痛感（将手放在臀部上，你会感觉到顶部有一块拱形的骨头），大家有了解的吗，看了积水潭骨科，疼痛科医生都没说出个啥原因。
+大概是这个部位：
+&lt;img alt="这个部位" class="embedded_image" rel="noreferrer" src="https://www.lombafit.com/wp-content/uploads/2021/08/crete-iliaque.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://zh-cn.lombafit.com/ezoimgfmt/www.lombafit.com/wp-content/uploads/2021/06/douleur-hanche2.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:03:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996642#reply1</guid></item><item><title>[分享发现] 阿里云服务器活动， 99 一年</title><link>https://www.v2ex.com/t/996641#reply0</link><description>&lt;p&gt;2 核 2G ，3M 带宽，40G 云盘
+新老用户都可以参与，买一年续一年，续费活动价还是 99 。&lt;/p&gt;
+&lt;p&gt;估计是降本增笑要流失用户了，平时爱折腾东西的可以买来防身。&lt;/p&gt;
+&lt;p&gt;腾讯云新用户 88 一年，作为老用户继续当狗，没去探究续费价格。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:01:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996641#reply0</guid></item><item><title>[程序员] 面了位年纪较大的传统行业程序员</title><link>https://www.v2ex.com/t/996640#reply8</link><description>&lt;p&gt;最近闲的没事开始主动参与公司的面试相关工作。面了一位 50 岁左右，在传统行业工作多年的程序员。之前工作是负责流水线相关程序的开发。聊完后的感想&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;使用 AI 能力对输入的内容进行归纳总结&lt;/li&gt;
-&lt;li&gt;对上传的 PDF 文件进行文字提取&lt;/li&gt;
-&lt;li&gt;使用 AI 能力对输入的一段内容生成 PPT 大纲&lt;/li&gt;
-&lt;li&gt;对上传的图片进行居中剪裁&lt;/li&gt;
-&lt;li&gt;对上传的 csv 文件进行可视化展示&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;日本传统行业的程序开发工资的确和互联网 it 差挺多的，这位应聘者工作这么多年薪资基本也就相当于日本普通互联网公司的几年经验开发岗（当然也可能和具体的传统行业有关，仅参考了目前这位应聘者的薪资）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用到的语言比较局限。C# C++ VBA 之类的，还有工业开发相关的一些语言。Python 也只是稍微用了用。没有任何通信/网络相关的开发经验，询问后之前开发就是单模块运行没有任何其他系统的通信需求。最近也才刚刚接触数据库，尝试拿 mysql 用来保存生产中产生的数据&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用的工具比较老。面试有一个环节是实际上手编程，允许用 ide 和搜索引擎，问题简单到靠一个循环穷举一下就 OK ，单纯就是确认有没有基础编程能力（当然问题解不开也没事，只不过会进另一个子公司。嗯，日本 it 行业没什么经验的人也是有可能找到工作的）。解题没什么好说的，毕竟应聘者也是多年经验了，用 C#两三分钟就解开了。不过当应聘者打开 vs 2008 开始写代码的那一刻我还是有点小小震撼的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因为应聘者有多年的算法开发经验，所以本人是期望能做更多纯算法和论文实现的工作。但、、、在互联网公司，这方面的工作机会也还是挺少的。听本人说是看到公司其他部门的产品觉得能施展拳脚，但那个部门虽然图像很多可更多是 3D 引擎相关的。。。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;我们输入一个需求后，点击「确认描述」按钮，AI 会基于需求自动生成功能点，比如：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/3.png" /&gt;&lt;/p&gt;
-&lt;p&gt;这些功能点就对应了应用的所有功能，当然，如果对生成的功能点不满意，可以换一批，或自己编辑。&lt;/p&gt;
-&lt;p&gt;我在生成了十几个应用后，发现功能点非常重要，它决定了最后生成的应用质量。所以，再了解清楚产品后，我喜欢自己编辑功能点。&lt;/p&gt;
-&lt;p&gt;可以到这里试一试，&lt;strong&gt;InsCode AI 生成应用&lt;/strong&gt;：&lt;a href="https://inscode.net" rel="nofollow"&gt;inscode.net&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;我用 AI 生成的应用&lt;/h2&gt;
-&lt;p&gt;用 AI 生成应用是越写越上头，一天时间就做了十几个，这里挑选了几个我最近生成的应用分享出来：&lt;/p&gt;
-&lt;p&gt;1.&lt;a href="https://inscode.csdn.net/@aresn/ai-reg" rel="nofollow"&gt;正则表达式生成器&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/4.png" /&gt;&lt;/p&gt;
-&lt;p&gt;虽然我做开发已经很多年了，但是最头疼的就是写正则表达式和 SQL 。没有 AI 之前，都是问同事搞定，现在可以不求人了，直接提需求就行。&lt;/p&gt;
-&lt;p&gt;2.&lt;a href="https://inscode.csdn.net/@aresn/ai-travel" rel="nofollow"&gt;AI 生成旅行攻略&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/5.png" /&gt;&lt;/p&gt;
-&lt;p&gt;3.&lt;a href="https://inscode.csdn.net/@aresn/image-9" rel="nofollow"&gt;图片裁切为九宫格&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/6.png" /&gt;&lt;/p&gt;
-&lt;p&gt;有时候喜欢在发朋友圈时，把一个大图切成九张做成一个九宫格来发，特别好玩，这个也是完全靠 AI 生成出来的，再搭配这个 &lt;a href="https://inscode.csdn.net/@aresn/moments" rel="nofollow"&gt;朋友圈神器&lt;/a&gt; 来生成朋友圈文案，完美！&lt;/p&gt;
-&lt;h2&gt;使用插件能力&lt;/h2&gt;
-&lt;p&gt;InsCode AI 在生成应用时，可以选择插件能力，目前官方提供了三个插件：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;最终 1 面过是给过了，评语里给之后流程的人的建议是考虑推荐公司 web 开发之外的部门。最终感觉这次应聘应该单纯就是没投对公司，对于这位应聘者，我觉得比起互联网开发继续找传统行业开发可能更加合适。&lt;/p&gt;
+&lt;p&gt;个人感想是，传统行业的工业开发果然做久了掌握的技术会比较老。但同时传统行业写代码写到 50 岁也证明人家是真的不优化啊 orz&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 13:00:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996640#reply8</guid></item><item><title>[宽带症候群] 帮朋友问的：现在 G 口服务器一般多少钱？</title><link>https://www.v2ex.com/t/996639#reply4</link><description>&lt;p&gt;看了下腾讯和阿里的，一个月都要一万多啊，有没有便宜点的渠道呢&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:58:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996639#reply4</guid></item><item><title>[问与答] spring 中有没有 laravel scheduler 类似的功能？</title><link>https://www.v2ex.com/t/996638#reply1</link><description>&lt;a href="https://laravel.com/docs/10.x/scheduling" rel="nofollow noopener" target="_blank"&gt;https://laravel.com/docs/10.x/scheduling&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://spring.io/guides/gs/scheduling-tasks/" rel="nofollow noopener" target="_blank"&gt;https://spring.io/guides/gs/scheduling-tasks/&lt;/a&gt; 这个效果一样吗？有多机运行防重叠吗？&lt;br /&gt;&lt;br /&gt;另外我看到有这 2 个&lt;br /&gt;&lt;a href="https://www.jobrunr.io/en/" rel="nofollow noopener" target="_blank"&gt;https://www.jobrunr.io/en/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.quartz-scheduler.org/" rel="nofollow noopener" target="_blank"&gt;https://www.quartz-scheduler.org/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;有没有这方面经验的大佬指导下。&lt;br /&gt;主要用来做系统里的多个定时任务处理，支持统一执行情况监控和状态查看，支持多 worker 并可防重叠。越少依赖越好。</description><pubDate>Thu, 30 Nov 2023 12:58:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996638#reply1</guid></item><item><title>[NAS] 送个馒头邀请</title><link>https://www.v2ex.com/t/996637#reply5</link><description>如题，希望被邀请人有 pt 经验。如果能交换一个邀请码更好</description><pubDate>Thu, 30 Nov 2023 12:58:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996637#reply5</guid></item><item><title>[问与答] 问大佬们一问题 pxx 网页登录页跳转逻辑</title><link>https://www.v2ex.com/t/996636#reply0</link><description>&lt;p&gt;问大佬们一问题 pxx 网页登录页跳转逻辑?&lt;/p&gt;
+&lt;p&gt;示例链接如下，网页访问需要跳转至登录~&lt;/p&gt;
+&lt;p&gt;微信内置浏览器不需要跳转可以直接访问~ &lt;/p&gt;
+&lt;p&gt;通过 user-agent???&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mobile.yangkeduo.com/goods.html?goods_id=406806523079" rel="nofollow"&gt;https://mobile.yangkeduo.com/goods.html?goods_id=406806523079&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:55:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996636#reply0</guid></item><item><title>[问与答] chatgpt 进入之后 图标戴了帽子呀 12 月</title><link>https://www.v2ex.com/t/996635#reply0</link><description></description><pubDate>Thu, 30 Nov 2023 12:53:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996635#reply0</guid></item><item><title>[问与答] chatgpt 没有语音模式，有一样的吗？</title><link>https://www.v2ex.com/t/996634#reply0</link><description>各位有没有使用安卓手机并且下载 chatgpt 的呀，我这边都已经刷认证模块过了谷歌认证了，并且 chatgpt 还是 beta 版，别人说的退出重登以及重新下载我都试过了，到现在一直都没有语音模式，我是免费账户</description><pubDate>Thu, 30 Nov 2023 12:47:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996634#reply0</guid></item><item><title>[随想] 发展的本质就是掠夺</title><link>https://www.v2ex.com/t/996633#reply1</link><description>&lt;p&gt;经济发展，科学发展，都是掠夺。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;AI&lt;/strong&gt;：使用 AI 大语言模型的能力，对文字进行处理。如：对一段文本总结归纳、根据大纲续写文章等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;OCR&lt;/strong&gt;：对图片中文字进行提取。如：提取车票信息、提取海报信息等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;语音转文字&lt;/strong&gt;：将音频文件转换为文字。支持 60 秒以内的音频。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国家掠夺国家，公司掠夺公司，个人掠夺个人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国家掠夺公司，公司掠夺个人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;国家掠夺个人&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Thu, 30 Nov 2023 12:43:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996633#reply1</guid></item><item><title>[程序员] 几天的故障，结果是个低级错误。</title><link>https://www.v2ex.com/t/996632#reply8</link><description>&lt;p&gt;单位的 HIS 系统需要增加一个上报接口，his 商部署后一直调试有问题，对端平台返回报错“非法参数"。
+联系平台技术人员确认 token 、appid,secret 都没有问题。his 商找不到问题，就说平台那边的问题，搞成无限循环了。
+无奈研究接口文档，用蹩脚的编程水平通过 python 自己调用接口，发现平台是可以成功返回正常信息的，确认平台正常。让 his 找自己的问题，结果最后发现是 his 商将 secret 的一个 0 写成了 o ，问题解决。&lt;/p&gt;
+&lt;p&gt;一个低级错误，卡了几天，我觉得一方面是自己水平不够高，没仔细看接口文档，第二方面平台返回的信息比较少，另一方面是 his 商自己测试不严谨造成的，都有问题。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:42:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996632#reply8</guid></item><item><title>[分享发现] PowerToys 的小工具用起来实在是，好用到起飞！</title><link>https://www.v2ex.com/t/996631#reply5</link><description>&lt;p&gt;之前一直用 Fancy zone ，多屏幕多窗口分区处理，自由度很高，设置还非常简单，真的很好用。&lt;/p&gt;
+&lt;p&gt;今天闲着没事又发现了一个好用的：Crop and Lock——就是把你任意一个软件的窗口，你可以任意选择一个区域截下来生成一个小窗口，这个小窗口就直接置顶到屏幕最顶层（位置大小都可以自己调整），小窗口的内容会根据原来软件那块区域的内容实时更新，并且毫无延迟。实在是太好用了。&lt;/p&gt;
+&lt;p&gt;还有文本采集器：快捷键可以直接截取屏幕中看到的文字，ocr 抠出来变成可编辑的文本内容。&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:41:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996631#reply5</guid></item><item><title>[推广] 来一波 [抽奖]! 正宗赣南脐橙, 自己家里种的, 不催熟不打蜡, 新鲜采摘.</title><link>https://www.v2ex.com/t/996630#reply6</link><description>&lt;p&gt;家里种的脐橙, 想帮忙卖一些, 钱都转给我妈, 新鲜采摘, 现摘现发, 现在挺黄了, 口感很 ok 了, 同事已经复购好几批了, 一天炫好几个, 补充维 C 首选, 现在这个季节多吃水果补补水, 可以小程序看看.&lt;/p&gt;
+&lt;p&gt;话不多说, 来一波抽奖试试水, 如果效果 ok 后面会多次抽奖, 欢迎 V 友们参加. &lt;/p&gt;
+&lt;p&gt;也希望想吃脐橙的帅哥美女们支持一下我家的脐橙.&lt;/p&gt;
+&lt;p&gt;抽奖规则:
+满 100 人自动开奖.
+在此贴评论支持一下, 增加点人气, 可以更快开奖.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="脐橙" class="embedded_image" rel="noreferrer" src="https://pic.ziyuan.wang/2023/11/30/guest_9f6ef1e65d716.jpg" /&gt;
+&lt;img alt="抽奖" class="embedded_image" rel="noreferrer" src="https://pic.ziyuan.wang/2023/11/30/guest_b23cce0f3925d.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:37:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996630#reply6</guid></item><item><title>[汇编] 有谁能来教我一下汇编的问题吗？我真的因为这个卡了好久了</title><link>https://www.v2ex.com/t/996629#reply1</link><description>&lt;p&gt;题目要求是这样的&lt;/p&gt;
+&lt;p&gt;在屏幕中的第 10 行到 15 行的第 20 列开始显示如下菜单：
+Arithmetic system of primary school&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;add&lt;/li&gt;
+&lt;li&gt;subtract&lt;/li&gt;
+&lt;li&gt;multiply&lt;/li&gt;
+&lt;li&gt;divide&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;插件还可以多个一起使用，比如：&lt;/p&gt;
-&lt;p&gt;使用插件：AI 、OCR 。&lt;/p&gt;
-&lt;p&gt;想法：对上传的 PDF 文件进行&lt;strong&gt;文字提取&lt;/strong&gt;，并使用 AI 能力对提取的文字进行&lt;strong&gt;归纳总结&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;确实，有了插件，很多想法就都可以落地了，比如记者可以用录音转文字插件插件把采访录音转成文字，然后再用 AI 插件进行提炼摘要。活动运营同学也可以用 OCR 插件对海报信息进行文字提取，然后再用 AI 插件对提取的内容按格式整理归类。&lt;/p&gt;
-&lt;h2&gt;自然语言完善应用&lt;/h2&gt;
-&lt;p&gt;有时候首次生成的应用，并不是最终想要的效果，因为 AI 毕竟还是有一些不确定性在。好在生成一个版本后，可以继续基于当前版本进行完善。&lt;/p&gt;
-&lt;p&gt;比如这个应用 &lt;a href="https://inscode.csdn.net/@aresn/json-verify" rel="nofollow"&gt;JSON 格式化校验&lt;/a&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/8.png" /&gt;&lt;/p&gt;
-&lt;p&gt;左侧的版本列表中，v1 就是完善的功能，因为初始版本 v0 生成后，发现如果粘贴的 JSON 格式错误，会导致报错，所以就用&lt;strong&gt;自然语言跟 AI 说&lt;/strong&gt;：“如果校验失败，显示是第几行校验失败”。然后应用就更新了，这样如果输入的 JSON 字符串有格式错误，会提示出来，比如：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://file.iviewui.com/inscode/article/ai/9.png" /&gt;&lt;/p&gt;
-&lt;p&gt;如果某次更新出来的版本不满意，可以在左边的版本列表里恢复到之前的任意一个版本来继续更新。&lt;/p&gt;
-&lt;h2&gt;结尾&lt;/h2&gt;
-&lt;p&gt;好了，以上就是本文的全部内容了，感谢您能看到这里，更多有意思的内容还需要大家去探索 &lt;a href="https://inscode.net" rel="nofollow"&gt;InsCode&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;如果您觉得本文还不错的话，欢迎转发、点赞、收藏支持我一下。如果您期待我的后续更新，不要忘记点个关注，您的支持就是我创作最大的动力，我们下篇文章见！&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 03:17:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996473#reply0</guid></item></channel></rss>
+&lt;p&gt;然后我写出了下面的代码&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;assume cs:codesg, ds:datasg
+datasg segment
+    welcome db 'Arithmetic system of primary school$'
+    file db '1. add$'
+    insert db '2. subtract$'
+    modify db '3. multiply$'
+    exit db '4. devide$'
+datasg ends
+  
+codesg segment
+start:
+
+    mov ax, datasg
+    mov ds, ax
+        
+    mov ah, 02h 
+    mov dh, 09h 
+    mov dl, 13h 
+    int 10h 
+        
+    lea dx, welcome
+    mov ah, 09h
+    int 21h 
+        
+    mov ah, 02h 
+    mov dh, 10h 
+    mov dl, 13h 
+    int 10h 
+        
+    lea dx, file
+    mov ah, 09h
+    int 21h   
+        
+    mov ah, 02h 
+    mov dh, 11h 
+    mov dl, 13h 
+    int 10h 
+        
+    lea dx, insert
+    mov ah, 09h
+    int 21h
+        
+    mov ah, 02h 
+    mov dh, 12h 
+    mov dl, 13h 
+    int 10h 
+        
+    lea dx, modify
+    mov ah, 09h
+    int 21h
+        
+    mov ah, 02h 
+    mov dh, 13h 
+    mov dl, 13h 
+    int 10h 
+        
+    lea dx, exit
+    mov ah, 09h
+    int 21h
+        
+    ;等待用户按键
+    mov ah, 07h 
+    int 21h 
+        
+    mov ah, 4ch 
+    int 21h 
+codesg ends
+end start
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个代码可以正确显示出我要的内容，但是第一行和第二行之间总是有空行，具体表现如下&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://rolin-typora.oss-cn-guangzhou.aliyuncs.com/20231130203445.png" /&gt;&lt;/p&gt;
+&lt;p&gt;我真的想不明白问题出在哪里
+不论是问百度还是问 gpt 都不太管用，我没法了所以来问问各位，希望有懂的救一下，我先谢谢各位了&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:35:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996629#reply1</guid></item><item><title>[分享创造] 结合百度识图 API 和百科爬虫，写了一个植物鉴定小程序~</title><link>https://www.v2ex.com/t/996628#reply0</link><description>虽然本质是 APIboy ，但还是挺开心的&lt;br /&gt;&lt;br /&gt;&lt;a href="https://z1.ax1x.com/2023/11/30/pirsoi8.jpg" rel="nofollow noopener" target="_blank"&gt;https://z1.ax1x.com/2023/11/30/pirsoi8.jpg&lt;/a&gt;</description><pubDate>Thu, 30 Nov 2023 12:31:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996628#reply0</guid></item><item><title>[问与答] 看到个帖子《优衣库有什么平替吗？》</title><link>https://www.v2ex.com/t/996627#reply9</link><description>&lt;p&gt;有吗&lt;/p&gt;</description><pubDate>Thu, 30 Nov 2023 12:08:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996627#reply9</guid></item></channel></rss>
