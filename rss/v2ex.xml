@@ -1,100 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 01 Dec 2023 07:19:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 这怎么解？</title><link>https://www.v2ex.com/t/996872#reply0</link><description>&lt;p&gt;韭菜在上班和上进之间，选择了上香
-政府在发钱和发卷之间，选择了发文&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:17:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996872#reply0</guid></item><item><title>[Android] 红魔 9 终于平了</title><link>https://www.v2ex.com/t/996871#reply0</link><description>以前就想找个平的手机，用过备机，水货 LGv50 是平的，挺喜欢的&lt;br /&gt;现在手机越做越怪，摄像头越来越大，头重脚轻，怎么拿都硌手</description><pubDate>Fri, 01 Dec 2023 07:17:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996871#reply0</guid></item><item><title>[Apple] 遇到了苹果的 0 元购。其他人其他人也遇到类似的情况？</title><link>https://www.v2ex.com/t/996870#reply0</link><description>事情是这样的：买了 M3 Max ，然后把现在正用的电脑（ 18 年买的 I7 的 Macbook Pro)选择了官网的回购（折价 2800 ）。周二根据官网提示通过快递将笔记本寄出去了。昨天查了一下，已经送到了，正在检测。今天想看一下检查情况，然后就看到了提示：“原来折价预估 2800 ，最终折抵 0 元，……需要你进行处理。”（本来想传一张图的，但好像涉及外链只能把图去掉）&lt;br /&gt;然后上官网，看到提示说经检测机器不能开机，需要进行维修，所以折价为 0 元。&lt;br /&gt;但是我可以确认的是机器能正常开发。因为：&lt;br /&gt;1 、我的电脑之前一直在正常使用，所以肯定可以开机没有问题。&lt;br /&gt;2 、快递之前，我特意确认过，已经恢复到重新初始化的界面。所以肯定是可以开机的。&lt;br /&gt;所以，要么是在快递途中损坏，或者是恶意 0 元购。但我现在更加倾向于被恶意 0 元购，原因在于：&lt;br /&gt;之前每一步都有提示，但从寄出去之后就没有提示了。然后登录官网，系统提示有 5 天的时间可能决定是否接受或者撤销。如果不做选择，默认就认为接受了它的 0 元购。那么，我比较恶意揣测一下：是不是就是利用了这 5 天的时间呢？因为一般人寄出去之后，如果不收到短信提醒是很难去查看的。那么即使一段时间想起来了，然后查询的时候，已经被系统自动默认为接受了？&lt;br /&gt;既然是 0 元购，所以我选择了撤销。但现在的问题是，它寄回来是不是和之前一样，我已经没有信心了。前一段时间在 X 上也遇到一个兄弟和我有相同的情况，不知道还有没有其他人也遇到类似的问题？</description><pubDate>Fri, 01 Dec 2023 07:16:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996870#reply0</guid></item><item><title>[问与答] 2023 即将结束，你还完钱了吗？别人还钱给你了了吗？</title><link>https://www.v2ex.com/t/996869#reply0</link><description>&lt;p&gt;有个鸡把人年初借我钱说月底还，现在年底了没还我，刚刚居然还要借，好恶心🤢&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:16:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996869#reply0</guid></item><item><title>[宽带症候群] 光猫桥接限速？</title><link>https://www.v2ex.com/t/996868#reply1</link><description>&lt;p&gt;自己搞了个联通的中兴 G7615 光猫，换掉原来的光猫用旧 loid 注册了一下新建个 wan 连接就能用了，用路由模式一切正常，改成桥接以后下载速度就只有 40+Mbps 了，简直离谱，旧光猫桥接正常用的，我把光猫的防火墙跟 QOS 都关了，直接新建一个桥接的连接也是一样，下载速度死活上不去，是限速了还是别的什么原因导致的？该怎么排查原因？&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:15:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996868#reply1</guid></item><item><title>[Alfred] 分享一个自己开发的 WorkFlow</title><link>https://www.v2ex.com/t/996867#reply0</link><description>&lt;p&gt;仓库地址： &lt;a href="https://github.com/alfred-workflow-collections/jetbrains" rel="nofollow"&gt;https://github.com/alfred-workflow-collections/jetbrains&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;使用 Alfred 快速打开 JetBrains 的项目&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本项目是基于&lt;a href="https://www.alfredapp.com/" rel="nofollow"&gt;Alfred&lt;/a&gt;和&lt;a href="https://www.jetbrains.com/" rel="nofollow"&gt;JetBrains&lt;/a&gt;开发的快速打开项目的 workflow ，目前只支持 MacOS 系统。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;通过验证的版本：Alfred 5.x ，IDE 2023.x&lt;/p&gt;
-&lt;/blockquote&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 01 Dec 2023 16:26:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] windows 11 任务栏如何移动到右侧或者其他位置？</title><link>https://www.v2ex.com/t/996997#reply0</link><description>&lt;p&gt;试了修改注册表 无效。感谢指点。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 16:10:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996997#reply0</guid></item><item><title>[Duolingo] 多邻国 SUPER 家庭套餐拼车 38 /年 4=2， 12 月 1 日刚开。</title><link>https://www.v2ex.com/t/996996#reply1</link><description>&lt;p&gt;tg: &lt;a href="https://telegram.me/EricBadMan" rel="nofollow"&gt;https://telegram.me/EricBadMan&lt;/a&gt;
+拉 tg 群组&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996996#reply1</guid></item><item><title>[Python] 关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题</title><link>https://www.v2ex.com/t/996994#reply1</link><description>&lt;p&gt;关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题&lt;/p&gt;
+&lt;p&gt;最近在用 pc 写代码,写了一些后,&lt;a href="http://a.py" rel="nofollow"&gt;a.py&lt;/a&gt; 里面用导入了 &lt;a href="http://settings.py" rel="nofollow"&gt;settings.py&lt;/a&gt;,
+&lt;a href="http://a.py" rel="nofollow"&gt;a.py&lt;/a&gt; 里前面几行原来是:&lt;/p&gt;
+&lt;p&gt;import pygame&lt;br /&gt;
+from pygame.sprite import Group&lt;br /&gt;
+import center12_functions as gf&lt;br /&gt;
+from tree import Tree&lt;br /&gt;
+from center_ships import Ship&lt;br /&gt;
+from stats import Stats  &lt;/p&gt;
+&lt;p&gt;from settings import Settings&lt;/p&gt;
+&lt;p&gt;我把原模块的名字 settings 和目的模块里的都改为 settings1 却发现"from settings1 import Settings"无法亮起,改回去也不行,现在一直都是灰色的,复制代码重建项目依然还是这个问题,请问这是什么原因,我还以为就是简单的更个名字,原来发现没那么简单.&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996994#reply1</guid></item><item><title>[Windows] 电脑经常蓝屏怎么样查原因呀</title><link>https://www.v2ex.com/t/996993#reply2</link><description>&lt;p&gt;各位 uu 们，电脑经常工作着工作着就卡了，然后重启之后又好了，有的时候十几分钟好几次，有的时候一天都会&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:03:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996993#reply2</guid></item><item><title>[问与答] M1 mac pro 出现卡顿的问题</title><link>https://www.v2ex.com/t/996992#reply1</link><description>&lt;p&gt;求助各位，近期多次遇到类似的问题。楼主 21 年购入的 m1 芯片的 mac pro ，内存 32 的，近半年内已经集中发生三次类似的情况。在不明具体原因的前提下，出现了莫名地卡顿。表现为具体以下几点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;discord 页面的在选择表情时无法刷新，只能看到页面底色&lt;/li&gt;
+&lt;li&gt;拖拽窗口会出现明显的动画卡顿&lt;/li&gt;
+&lt;li&gt;输入字符也会出现卡顿
+使用系统数据查看工具跟清理工具，发现内存占用大概在 50%左右，磁盘占用约为三分之一，但使用依然不够流畅。每次只能执行重启程序才能解决恢复，具体原因并不清楚。
+楼主本人主要进行一些研究工作，但浏览器确实会经常保持多个页面，可似乎这个问题并不是最直接的原因？
+所以想求教各位，这种问题出现的根本原因是什么。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 01 Dec 2023 15:01:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996992#reply1</guid></item><item><title>[宽带症候群] ipv6 前两天突然不能用了</title><link>https://www.v2ex.com/t/996991#reply1</link><description>&lt;p&gt;ping 不通，也访问不了 ipv6 内容，给联通报修了，目前还没回复
+以下是 ipv6 路由端信息，看看有啥问题不&lt;/p&gt;
+&lt;p&gt;宽带桥接，爱快软路由拨号，前几天没问题，29 号突然不可用&lt;/p&gt;
+&lt;p&gt;地址：
+2408:8266:600:8fe:71f1:f847:4fe4:33da/64&lt;/p&gt;
+&lt;p&gt;IPv6 网关：
+fe80::90e7:1060:e000:0&lt;/p&gt;
+&lt;p&gt;IPv6 前缀：
+2408:8266:601:3d7::/64&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996991#reply1</guid></item><item><title>[OpenAI] chatgpt api 有调用速度限制吗？</title><link>https://www.v2ex.com/t/996990#reply0</link><description>&lt;p&gt;chatgpt api 有调用限制吗？我现在还没有绑卡充值，用的注册送的 5$ 会有调用速度限制吗？
+如果有限制，充值之后还会有限制没？我就一个人使用 api .&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996990#reply0</guid></item><item><title>[问与答] Play 上架应用现在还要内测啥的， 20 个人连续用 14 天才能预发布</title><link>https://www.v2ex.com/t/996989#reply0</link><description>现在这条件是不是太苛刻了</description><pubDate>Fri, 01 Dec 2023 14:51:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996989#reply0</guid></item><item><title>[职场话题] 职场 Outlook 客户端使用经验交流汇总</title><link>https://www.v2ex.com/t/996988#reply5</link><description>&lt;h2&gt;职场 Outlook 客户端使用经验交流汇总&lt;/h2&gt;
+&lt;p&gt;职场使用 Outlook 客户端必定有很多自己的心得和经验，网络上很少有这样的分享，希望在这里大家交流讨论一些有用的信息。&lt;br /&gt;
+我在 Windows 操作系统测试了 Foxmail 、The Bat!、Outlook 等邮件客户端，从功能专业性上来看 The Bat!是很好的，但是它的邮件存档格式是私有的，虽然俄罗斯软件代码可靠但保不齐出问题无法修复。最终还是选择 Outlook 作为客户端，主要优点有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;检索速度快，代码成熟，格式开放第三方处理工具多，大量邮件无性能问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有一些疑问：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大家的邮件存档如何处理？我目前是间隔特定时间执行“文件” - “工具” - “清理旧项目”，来把旧邮件通过这个功能自动移动到一个独立的.pst 文件中，来实现即使永久无法访问服务器，也能通过这个 pst 文件离线检索邮件。&lt;/li&gt;
+&lt;li&gt;.OST 和,PST 文件界限很明显，.ost 文件如果移动了位置后无法访问账户则不能打开，必须通过第三方工具转换，Outlook 就不能实现 Foxmail 那样数据文件只有一个格式，且移动位置后无论在线离线都能读取访问吗？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;大家使用中还有什么好的心得欢迎分享。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:21:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996988#reply5</guid></item><item><title>[问与答] 准备把系统由 Windows 10 换成 Arch Linux 了，求打醒！</title><link>https://www.v2ex.com/t/996987#reply24</link><description></description><pubDate>Fri, 01 Dec 2023 14:15:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996987#reply24</guid></item><item><title>[Android] 原生 Android 有没有来电归属地+骚扰拦截的 app？</title><link>https://www.v2ex.com/t/996985#reply1</link><description>&lt;p&gt;很多年前有这种 app ，现在似乎销声匿迹了，对于 w
+海外版 Android 用户不太友好。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:41:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996985#reply1</guid></item><item><title>[Apple] 一时上头入了 M3 Max 128 1T，花了钱又有罪恶感怎么破</title><link>https://www.v2ex.com/t/996984#reply20</link><description>&lt;p&gt;全栈开发后端多一点，工作两三年也没攒下什么钱，本来用着 M1 偶尔有点卡顿但是也够用，上周没忍住 12 期下单了顶配 M3Max ，想着多用两年就上了顶配，优惠完也花了快四万了。目前用了几天感觉完全用不上这么高的性能，想到花了这么多钱越想越后悔，买其他电子产品也总有这种感觉「各种 VR 、游戏机、电脑电视、手机」，很容易不考虑需求一时上头入顶配，入完又是自责、后悔，大家有没有过这种情况，怎么让自己理性一点&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:33:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996984#reply20</guid></item><item><title>[深圳] 杭州很多民办学校在转成公办，深圳有这个趋势吗？</title><link>https://www.v2ex.com/t/996983#reply1</link><description></description><pubDate>Fri, 01 Dec 2023 13:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996983#reply1</guid></item><item><title>[问与答] 求雾化机购买推荐，小孩子肺炎了</title><link>https://www.v2ex.com/t/996982#reply21</link><description>&lt;p&gt;小孩子肺炎了，住院病房里的设备其他小孩子在用来吸氧，只能去科室的排队用，有时候还要抢着用。&lt;/p&gt;
+&lt;p&gt;想咨询大家买哪一款雾化机？朋友说一两千的都不太好用，要五千以上的才靠谱。想买一台先用着，后面需要的时候也可以在家里用，求推荐！&lt;/p&gt;
+&lt;p&gt;话说各大医院儿科全是小孩子，住院部过道里全都是人。这一波流感实在太吓人了。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:15:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996982#reply21</guid></item><item><title>[Windows] win11 23h2 貌似对 wsa 支持很不好</title><link>https://www.v2ex.com/t/996981#reply0</link><description>&lt;p&gt;win11 23h2 貌似对 wsa 支持很不好，安装个微信都用不了，要么连不上网，要么闪退。
+有老哥碰到这种情况没，有解决办法吗&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:12:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996981#reply0</guid></item><item><title>[Android] 请教系统校验 odex 的可用性</title><link>https://www.v2ex.com/t/996980#reply0</link><description>&lt;p&gt;应用产生的 odex 文件，复制到另一个系统特定目录，但系统能识别出该 odex 不可用，重新生成。
+请问大牛们，系统是怎么判断的呀。odex 里面有放生成时的系统镜像标志吗？&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:10:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996980#reply0</guid></item><item><title>[问与答] 米家 app 这个新增的延时执行能打断吗？</title><link>https://www.v2ex.com/t/996979#reply3</link><description>&lt;p&gt;这个月新增了几条智能&lt;br /&gt;
+发现只要和这个延时执行相关的都出现了逻辑性 bug&lt;br /&gt;
+比如我开门要延时执行关灯&lt;br /&gt;
+但我关门之后这个延时的 timer 还在倒计时&lt;br /&gt;
+然后我在门里面呢 这灯啊 他就自动关了&lt;br /&gt;
+事实是（我在里面洗澡 浴霸取暖关了 冻死我了 不敢用这延时执行功能了）&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:06:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996979#reply3</guid></item><item><title>[问与答] Windows 任务切换器里不显示 QQ NT 版</title><link>https://www.v2ex.com/t/996978#reply0</link><description>Windows 11 通过 Alt+Tab 或 win+Tab 呼出任务切换器，有时会不显示 QQ NT 版，一般是在屏幕分辨率、缩放等发生变化后才有机会触发该问题，Windows 11 22H2 23H2 都有出现该问题。而此时如果通过鼠标指针点击激活 QQ NT 版窗口在前台显示，关闭窗口，再次呼出窗口并最小化，此时又能在任务切换器里看到 QQ NT 版。&lt;br /&gt;&lt;a href="https://i.imgur.com/90XVhbh.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/90XVhbh.png" /&gt;&lt;/a&gt;&lt;br /&gt;有朋友也遇到过该问题吗？</description><pubDate>Fri, 01 Dec 2023 13:05:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996978#reply0</guid></item><item><title>[分享创造] 分享一个 IP 库工具，想不想知道抖音阿 B 小红书到底用了多少家 CDN 服务？</title><link>https://www.v2ex.com/t/996974#reply0</link><description>&lt;p&gt;这是一个处理 IP 库的命令行工具，目前 200+ star ，支持 IP 库的打包、转存、查询等操作。&lt;/p&gt;
+&lt;h3&gt;项目地址&lt;/h3&gt;
+&lt;p&gt;GitHub 地址：&lt;a href="https://github.com/sjzar/ips" rel="nofollow"&gt;https://github.com/sjzar/ips&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;使用文档&lt;/h3&gt;
+&lt;p&gt;文档地址：&lt;a href="https://github.com/sjzar/ips/blob/main/docs/usage.md" rel="nofollow"&gt;https://github.com/sjzar/ips/blob/main/docs/usage.md&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;使用案例&lt;/h3&gt;
+&lt;p&gt;一些基础用法可以参考上面的项目和文档地址，下面讲些这项目能够做啥好玩的。&lt;/p&gt;
+&lt;h4&gt;压缩数据库体积&lt;/h4&gt;
+&lt;p&gt;目前商业 IP 数据库通常包含大量详细信息，例如某家数据库文件大小超过 600MB ，在分发和使用时造成不便；&lt;/p&gt;
+&lt;p&gt;可以通过 ips 选取字段后 重新打包 IP 数据库，在保留国内城市运营商、海外国家粒度信息的情况下，减少 &lt;strong&gt;98%&lt;/strong&gt; 的体积。&lt;/p&gt;
+&lt;p&gt;具体命令请参考&lt;a href="https://github.com/sjzar/ips/blob/main/docs/advanced_usage.md" rel="nofollow"&gt;这篇文档&lt;/a&gt;。&lt;/p&gt;
+&lt;h4&gt;制作自定义数据库&lt;/h4&gt;
+&lt;p&gt;各类分流工具依赖 IP 归属地做分流策略，可以使用 ips 轻松重新打包 mmdb 文件 ，例如：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ ips pack -i GeoLite2-City.mmdb -f 'country|country=!中国:country=' -o geoip2-cn.mmdb --output-option "select_languages=-"
+
+$ ll
+-rw-r--r--  1 sarv  staff    68M 10 20 12:43 GeoLite2-City.mmdb
+-rw-r--r--  1 sarv  staff   323K 11 15 14:20 geoip2-cn.mmdb
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;多地域域名解析&lt;/h4&gt;
+&lt;p&gt;近期新增的一个功能，可以分析域名在不同地区的解析结果差异，拿 B 站的一个 CDN 域名举例：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ips mdns i0.hdslb.com
++--------------------+-------------------------------------------------+-------------------------------------------------+
+|       GEOISP       |                      CNAME                      |                       IP                        |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+| 27.224.0.0         | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 60.165.116.47 [中国 甘肃 兰州 电信]             |
+| [中国 甘肃 电信]   | hcdnw.biliv6.c.cdnhwc2.com [华为]               | 60.165.116.48 [中国 甘肃 兰州 电信]             |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+| 36.133.72.0        | i0.hdslb.com.w.kunlunno.com [阿里]              | 221.181.64.184 [中国 上海 上海 移动]            |
+| [中国 上海 移动]   |                                                 | 221.181.64.148 [中国 上海 上海 移动]            |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+| 36.133.108.0       | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 39.136.138.59 [中国 重庆 重庆 移动]             |
+| [中国 重庆 移动]   | hcdnw.biliv6.d.cdn.chinamobile.com [移动]       | 39.136.138.58 [中国 重庆 重庆 移动]             |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+| 1.56.0.0           | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 218.10.185.43 [中国 黑龙江 鹤岗 联通]           |
+| [中国 黑龙江 联通] | hcdnw.biliv6.c.cdnhwc2.com [华为]               | 218.60.101.84 [中国 辽宁 大连 联通]             |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+| 42.202.0.0         | i0.hdslb.com.download.ks-cdn.com [金山]         | 123.184.57.130 [中国 辽宁 沈阳 电信]            |
+| [中国 辽宁 电信]   | k1-ipv6.gslb.ksyuncdn.com [金山]                | 123.184.57.129 [中国 辽宁 沈阳 电信]            |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+|       TOTAL        |                       11                        |                       730                       |
++--------------------+-------------------------------------------------+-------------------------------------------------+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;帖子长度有限，这里省略了中间的大量数据，大家可以自己试一下。&lt;/p&gt;
+&lt;p&gt;这个功能可以比较直观看到 B 站这个 CDN 域名用了多家 CDN 服务，已经 IP 的本地覆盖情况。&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;1. 安装（所有的 IDE 均通用，这里以 Pycharm 为例）&lt;/h3&gt;
-&lt;h4&gt;1.1 安装 WorkFlow&lt;/h4&gt;
-&lt;p&gt;从 &lt;a href="https://github.com/alfred-workflow-collections/jetbrains/releases" rel="nofollow"&gt;release&lt;/a&gt;下载最新的 workflow 文件，双击安装即可。&lt;/p&gt;
-&lt;h4&gt;1.2 配置 WorkFlow 环境变量&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;必须要改，因为家目录用简写方式&lt;code&gt;~&lt;/code&gt;不生效，要写绝对路径&lt;code&gt;/User/xxxx&lt;/code&gt;，可以使用以下命令得到家目录路径&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;echo $HOME
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;echo ~
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt="image:0" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/1.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image:2" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/2.png" /&gt;&lt;/p&gt;
-&lt;p&gt;变量说明&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;name&lt;/th&gt;
-&lt;th&gt;description&lt;/th&gt;
-&lt;th&gt;value&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;PYCHARM_CONFIG_PATH&lt;/td&gt;
-&lt;td&gt;pycharm 的配置文件存放路径&lt;/td&gt;
-&lt;td&gt;/Users/ichen/Library/Application Support/JetBrains/PyCharm2023.2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PYCHARM_LAUNCHER_CMD&lt;/td&gt;
-&lt;td&gt;pycharm 二进制文件执行路径&lt;/td&gt;
-&lt;td&gt;/Applications/PyCharm.app/Contents/MacOS/pycharm&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PYCHARM_RUN_PATH&lt;/td&gt;
-&lt;td&gt;pycharm 安装路径&lt;/td&gt;
-&lt;td&gt;/Applications/PyCharm.app/Contents/MacOS/pycharm&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h4&gt;1.3 安装 recode 解决 xml 文件中文显示乱码问题&lt;/h4&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;brew install recode
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;2. 使用&lt;/h3&gt;
-&lt;h4&gt;2.1 打开历史项目&lt;/h4&gt;
-&lt;p&gt;在 Alfred 中输入&lt;code&gt;charm&lt;/code&gt;，选中项目名称，回车即可打开。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image:1" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/1.gif" /&gt;&lt;/p&gt;
-&lt;h4&gt;2.2 打开文件夹（类似于 windows 里的右键快捷打开）&lt;/h4&gt;
-&lt;p&gt;如果在当前 Finder 中没有选中具体文件夹，则会打开当前窗口所在的文件夹&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image:3" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/2.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;如果在当前 Finder 中选中了具体文件夹，则会打开选中的文件夹&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image:4" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/3.gif" /&gt;&lt;/p&gt;
-&lt;h4&gt;2.3 打开文件&lt;/h4&gt;
-&lt;p&gt;和打开文件夹操作一样，如果你选中的是文件而不是文件夹，那么就会打开文件&lt;/p&gt;
-&lt;h3&gt;3. 说明&lt;/h3&gt;
-&lt;h4&gt;3.1 原理&lt;/h4&gt;
-&lt;p&gt;利用 IDE 自带的命令行工具加上特定参数和路径，可以打开 IDE 并打开指定的项目或文件夹。&lt;/p&gt;
-&lt;h4&gt;3.2 为什么要用 IDE 自带的命令行工具&lt;/h4&gt;
-&lt;p&gt;因为懒，每次打开项目需要先打开 IDE ，然后再打开项目，太麻烦了，所以就想着能不能直接打开项目，然后就找到了 IDE 自带的命令行工具，然后就有了这个 workflow 。&lt;/p&gt;
-&lt;h4&gt;3.3 static 文件夹里放了常用的 IDE 的图标可以直接拿去用&lt;/h4&gt;
-&lt;h3&gt;4. 其他项目怎么使用&lt;/h3&gt;
-&lt;p&gt;直接在 Alfred 的 workflow 中复制一份，然后修改环境变量即可，其他的不用改（还需要换个图标，图标在 static 文件夹里）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image:5" class="embedded_image" rel="noreferrer" src="https://github.com/alfred-workflow-collections/jetbrains/blob/main/static/3.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:14:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996867#reply0</guid></item><item><title>[杭州] 办理房贷需要同事或者朋友做证明人？</title><link>https://www.v2ex.com/t/996866#reply2</link><description>&lt;p&gt;背景：
-朋友为孩子改善换房，杭州摇号需要冻结资金，现在银行贷款流程走下来了，但是流水不过关，因此需要朋友或者同事证明贷款者本人无不良嗜好即可。&lt;/p&gt;
-&lt;p&gt;这个所谓的证明，说是一个口述证明，不需要承担责任。现在朋友问我是否可以帮忙，银行是浙商银行。&lt;/p&gt;
-&lt;p&gt;请问各位有没有人知道这个到底是什么情况？我之前理解贷款只需要抵押和担保人，这个证明人是什么鬼？另外，感觉和某种 AB 贷的套路很像啊，求解惑。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:12:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996866#reply2</guid></item><item><title>[问与答] 请问 blogger 除了放 AdSense，还可以放别的广告联盟的广告吗？</title><link>https://www.v2ex.com/t/996864#reply0</link><description>如果可以，怎样将广告放到 blogger 的任意位置?布局里的添加小部件 HTML/Javascript 好像不行，放了广告不显示。</description><pubDate>Fri, 01 Dec 2023 07:11:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996864#reply0</guid></item><item><title>[分享发现] 看了个有意思的新闻 激光雷达打蚊子</title><link>https://www.v2ex.com/t/996863#reply1</link><description>&lt;p&gt;&lt;a href="https://www.163.com/v/video/VLJO16M3A.html" rel="nofollow"&gt;https://www.163.com/v/video/VLJO16M3A.html&lt;/a&gt;
-我对硬件和电磁波什么的不是很懂如果想攒一个类似的东西需要的门槛高么 感觉搞出来应该挺好玩&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:07:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996863#reply1</guid></item><item><title>[Apple] Apple One 美区超大杯拼车，半年付，一个车位</title><link>https://www.v2ex.com/t/996862#reply0</link><description>&lt;p&gt;如题，纯自用，已经稳定开车两年了，有车友跳车空出来一个车位。希望长期加入的欢迎联系。&lt;/p&gt;
-&lt;p&gt;Apple One 从这个月官方又涨价了，价格是 37.95 刀每个月 6 人均摊，按照实时汇率，不做中间商赚差价。仅 1 个车位，有意的加 wx （就是头像 ID ）联系。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://ooo.0x0.ooo/2023/12/01/Or3d8t.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 07:06:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996862#reply0</guid></item><item><title>[问与答] 想买个 2000 以下的直屏手机，大家有没有推荐的</title><link>https://www.v2ex.com/t/996861#reply3</link><description>&lt;p&gt;需求
-2000 以下的直屏手机
-待机时间长
-对相机没要求&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 06:57:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996861#reply3</guid></item><item><title>[职场话题] 真有人包装简历，学历作假能正常入职？</title><link>https://www.v2ex.com/t/996858#reply7</link><description>&lt;p&gt;今天预定入职的测试，被人事发现学历造假，不给入职了，之前也试过一个前端也是入职前发现学历造假给退了。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 06:51:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996858#reply7</guid></item><item><title>[Apple] macbook cpu m1 pro 台服英雄联盟流畅玩 无卡顿</title><link>https://www.v2ex.com/t/996857#reply4</link><description>帧数 300+  延迟 30ms  终于解决了偶尔的 LOL 需求</description><pubDate>Fri, 01 Dec 2023 06:48:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996857#reply4</guid></item><item><title>[宽带症候群] 想搞个专线玩一下，移动的也行.....</title><link>https://www.v2ex.com/t/996856#reply4</link><description>逛了一下 v 站，看到一些 v 友用着专线，有些地区价格感觉还可以。&lt;br /&gt;不知道杭州的价格是怎么样的，有过来人吗？</description><pubDate>Fri, 01 Dec 2023 06:44:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996856#reply4</guid></item><item><title>[酷工作] 开源项目，招聘 Next.js 远程实习（付费）</title><link>https://www.v2ex.com/t/996853#reply0</link><description>&lt;h1&gt;项目介绍&lt;/h1&gt;
-&lt;p&gt;我们是一家做开源的初创（避免广告嫌疑，公司网站在最后邮箱地址中），商业化方面主要面向海外。本项目是一个多月前开始启动，属于主项目的衍生项目&lt;/p&gt;
-&lt;h1&gt;项目地址&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/nextrmm/nextrmm" rel="nofollow"&gt;主 Repo&lt;/a&gt;，&lt;code&gt;Next.js&lt;/code&gt; 全栈&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/snooowfire/ironhive" rel="nofollow"&gt;Agent&lt;/a&gt; ，是 &lt;code&gt;Rust&lt;/code&gt; 编写，本实习不要求 &lt;code&gt;Rust&lt;/code&gt; ，如果会当然更好&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;技术栈&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://create.t3.gg" rel="nofollow"&gt;create.t3.gg&lt;/a&gt;，&lt;code&gt;Prisma&lt;/code&gt; (&lt;code&gt;PostgreSQL&lt;/code&gt;) + &lt;code&gt;NextAuth&lt;/code&gt; + &lt;code&gt;tRPC&lt;/code&gt; + &lt;code&gt;Shadcn/ui&lt;/code&gt;&lt;/p&gt;
-&lt;h1&gt;要求&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;有过 &lt;code&gt;Next.js&lt;/code&gt; 经验或者相关经验，能够快速入手&lt;/li&gt;
-&lt;li&gt;对于开源有一定热情&lt;/li&gt;
-&lt;li&gt;学习/理解能力强&lt;/li&gt;
-&lt;li&gt;本科在读&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;待遇&lt;/h1&gt;
-&lt;p&gt;4000-6000 RMB / 月&lt;/p&gt;
-&lt;h1&gt;简历投递&lt;/h1&gt;
-&lt;p&gt;ICB6aG91QHJ1c3RkZXNrLmNvbQ==&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 06:37:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996853#reply0</guid></item><item><title>[杭州] 良渚有无老哥房出租啊</title><link>https://www.v2ex.com/t/996852#reply0</link><description></description><pubDate>Fri, 01 Dec 2023 06:36:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996852#reply0</guid></item><item><title>[互联网] cnBeta.com.tw 又跳转到 msn 了，有人能看懂是啥迷之操作吗？</title><link>https://www.v2ex.com/t/996851#reply3</link><description>&lt;p&gt;先是国内跳转今日头条，然后网站改版改得乱七八糟一塌糊涂，现在科学后打开这个网址又跳转 msn 资讯了，这到底是什么迷之操作？为啥不能好好做个网站，既然 &lt;a href="http://cnbeta.com" rel="nofollow"&gt;cnbeta.com&lt;/a&gt; 被封了，换 &lt;a href="http://cnbeta.com.tw" rel="nofollow"&gt;cnbeta.com.tw&lt;/a&gt; ，然后用国外服务器不就行了。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 06:36:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996851#reply3</guid></item><item><title>[全球工单系统] 截止目前， 2023.12.01 14:33，阿里旗下的闲鱼崩溃</title><link>https://www.v2ex.com/t/996850#reply9</link><description>&lt;p&gt;闲鱼搜索，任何关键词都显示，搜索内容不存在。&lt;/p&gt;
-&lt;p&gt;阿里这是药丸？跟滴滴搁这崩溃竞赛呢？&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 06:35:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996850#reply9</guid></item><item><title>[问与答] 今年 iPhone 确实价格崩 我觉得挺好的 价格给我多降点</title><link>https://www.v2ex.com/t/996848#reply1</link><description>问大家一个问题 如果苹果手机价格和国内各大手机厂商的价格一样 就是配置相同 价格一样 你们买苹果还是买国内各大手机厂商手机</description><pubDate>Fri, 01 Dec 2023 06:25:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996848#reply1</guid></item><item><title>[MacBook] 咨询，大家 Macbook 是否存在长期使用后键盘手感变差的情况呢？</title><link>https://www.v2ex.com/t/996847#reply0</link><description>情况：M1 Macbook Air （ 2021 ），使用时间 2 年，目前发现部分键盘按键的手感不一致，返回没有段落感。弹性也不足。&lt;br /&gt;目前存在问题的按键：&lt;br /&gt;。/ {left}{down}{option(right)}</description><pubDate>Fri, 01 Dec 2023 06:25:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996847#reply0</guid></item></channel></rss>
+&lt;p&gt;希望大家能够玩一下，帮忙找找问题，欢迎提 issue 。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 12:34:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996974#reply0</guid></item><item><title>[宽带症候群] 反正拨号都是内网 IP,为什么不索性分配一段内网 IP</title><link>https://www.v2ex.com/t/996973#reply6</link><description>&lt;p&gt;现在即便是内网 IP 也只给一个，用户还要在路由器上做一次内网 IP 到内网 IP 的 NAT
+运营商直接分配一段内网 IP ，这样用户侧的路由器就不用 NAT 了，直接把内网 IP 的数据包交到 bras NAT 不是更好&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 12:26:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996973#reply6</guid></item></channel></rss>
