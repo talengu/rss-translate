@@ -1,98 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 01 Dec 2023 16:26:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] windows 11 任务栏如何移动到右侧或者其他位置？</title><link>https://www.v2ex.com/t/996997#reply0</link><description>&lt;p&gt;试了修改注册表 无效。感谢指点。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 16:10:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996997#reply0</guid></item><item><title>[Duolingo] 多邻国 SUPER 家庭套餐拼车 38 /年 4=2， 12 月 1 日刚开。</title><link>https://www.v2ex.com/t/996996#reply1</link><description>&lt;p&gt;tg: &lt;a href="https://telegram.me/EricBadMan" rel="nofollow"&gt;https://telegram.me/EricBadMan&lt;/a&gt;
-拉 tg 群组&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996996#reply1</guid></item><item><title>[Python] 关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题</title><link>https://www.v2ex.com/t/996994#reply1</link><description>&lt;p&gt;关于 pycharm 社区版,重命名被导入的模块名后的导入语句失效问题&lt;/p&gt;
-&lt;p&gt;最近在用 pc 写代码,写了一些后,&lt;a href="http://a.py" rel="nofollow"&gt;a.py&lt;/a&gt; 里面用导入了 &lt;a href="http://settings.py" rel="nofollow"&gt;settings.py&lt;/a&gt;,
-&lt;a href="http://a.py" rel="nofollow"&gt;a.py&lt;/a&gt; 里前面几行原来是:&lt;/p&gt;
-&lt;p&gt;import pygame&lt;br /&gt;
-from pygame.sprite import Group&lt;br /&gt;
-import center12_functions as gf&lt;br /&gt;
-from tree import Tree&lt;br /&gt;
-from center_ships import Ship&lt;br /&gt;
-from stats import Stats  &lt;/p&gt;
-&lt;p&gt;from settings import Settings&lt;/p&gt;
-&lt;p&gt;我把原模块的名字 settings 和目的模块里的都改为 settings1 却发现"from settings1 import Settings"无法亮起,改回去也不行,现在一直都是灰色的,复制代码重建项目依然还是这个问题,请问这是什么原因,我还以为就是简单的更个名字,原来发现没那么简单.&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996994#reply1</guid></item><item><title>[Windows] 电脑经常蓝屏怎么样查原因呀</title><link>https://www.v2ex.com/t/996993#reply2</link><description>&lt;p&gt;各位 uu 们，电脑经常工作着工作着就卡了，然后重启之后又好了，有的时候十几分钟好几次，有的时候一天都会&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 15:03:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996993#reply2</guid></item><item><title>[问与答] M1 mac pro 出现卡顿的问题</title><link>https://www.v2ex.com/t/996992#reply1</link><description>&lt;p&gt;求助各位，近期多次遇到类似的问题。楼主 21 年购入的 m1 芯片的 mac pro ，内存 32 的，近半年内已经集中发生三次类似的情况。在不明具体原因的前提下，出现了莫名地卡顿。表现为具体以下几点：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;discord 页面的在选择表情时无法刷新，只能看到页面底色&lt;/li&gt;
-&lt;li&gt;拖拽窗口会出现明显的动画卡顿&lt;/li&gt;
-&lt;li&gt;输入字符也会出现卡顿
-使用系统数据查看工具跟清理工具，发现内存占用大概在 50%左右，磁盘占用约为三分之一，但使用依然不够流畅。每次只能执行重启程序才能解决恢复，具体原因并不清楚。
-楼主本人主要进行一些研究工作，但浏览器确实会经常保持多个页面，可似乎这个问题并不是最直接的原因？
-所以想求教各位，这种问题出现的根本原因是什么。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Fri, 01 Dec 2023 15:01:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996992#reply1</guid></item><item><title>[宽带症候群] ipv6 前两天突然不能用了</title><link>https://www.v2ex.com/t/996991#reply1</link><description>&lt;p&gt;ping 不通，也访问不了 ipv6 内容，给联通报修了，目前还没回复
-以下是 ipv6 路由端信息，看看有啥问题不&lt;/p&gt;
-&lt;p&gt;宽带桥接，爱快软路由拨号，前几天没问题，29 号突然不可用&lt;/p&gt;
-&lt;p&gt;地址：
-2408:8266:600:8fe:71f1:f847:4fe4:33da/64&lt;/p&gt;
-&lt;p&gt;IPv6 网关：
-fe80::90e7:1060:e000:0&lt;/p&gt;
-&lt;p&gt;IPv6 前缀：
-2408:8266:601:3d7::/64&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996991#reply1</guid></item><item><title>[OpenAI] chatgpt api 有调用速度限制吗？</title><link>https://www.v2ex.com/t/996990#reply0</link><description>&lt;p&gt;chatgpt api 有调用限制吗？我现在还没有绑卡充值，用的注册送的 5$ 会有调用速度限制吗？
-如果有限制，充值之后还会有限制没？我就一个人使用 api .&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996990#reply0</guid></item><item><title>[问与答] Play 上架应用现在还要内测啥的， 20 个人连续用 14 天才能预发布</title><link>https://www.v2ex.com/t/996989#reply0</link><description>现在这条件是不是太苛刻了</description><pubDate>Fri, 01 Dec 2023 14:51:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996989#reply0</guid></item><item><title>[职场话题] 职场 Outlook 客户端使用经验交流汇总</title><link>https://www.v2ex.com/t/996988#reply5</link><description>&lt;h2&gt;职场 Outlook 客户端使用经验交流汇总&lt;/h2&gt;
-&lt;p&gt;职场使用 Outlook 客户端必定有很多自己的心得和经验，网络上很少有这样的分享，希望在这里大家交流讨论一些有用的信息。&lt;br /&gt;
-我在 Windows 操作系统测试了 Foxmail 、The Bat!、Outlook 等邮件客户端，从功能专业性上来看 The Bat!是很好的，但是它的邮件存档格式是私有的，虽然俄罗斯软件代码可靠但保不齐出问题无法修复。最终还是选择 Outlook 作为客户端，主要优点有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;检索速度快，代码成熟，格式开放第三方处理工具多，大量邮件无性能问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;有一些疑问：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;大家的邮件存档如何处理？我目前是间隔特定时间执行“文件” - “工具” - “清理旧项目”，来把旧邮件通过这个功能自动移动到一个独立的.pst 文件中，来实现即使永久无法访问服务器，也能通过这个 pst 文件离线检索邮件。&lt;/li&gt;
-&lt;li&gt;.OST 和,PST 文件界限很明显，.ost 文件如果移动了位置后无法访问账户则不能打开，必须通过第三方工具转换，Outlook 就不能实现 Foxmail 那样数据文件只有一个格式，且移动位置后无论在线离线都能读取访问吗？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;大家使用中还有什么好的心得欢迎分享。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 14:21:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996988#reply5</guid></item><item><title>[问与答] 准备把系统由 Windows 10 换成 Arch Linux 了，求打醒！</title><link>https://www.v2ex.com/t/996987#reply24</link><description></description><pubDate>Fri, 01 Dec 2023 14:15:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996987#reply24</guid></item><item><title>[Android] 原生 Android 有没有来电归属地+骚扰拦截的 app？</title><link>https://www.v2ex.com/t/996985#reply1</link><description>&lt;p&gt;很多年前有这种 app ，现在似乎销声匿迹了，对于 w
-海外版 Android 用户不太友好。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:41:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996985#reply1</guid></item><item><title>[Apple] 一时上头入了 M3 Max 128 1T，花了钱又有罪恶感怎么破</title><link>https://www.v2ex.com/t/996984#reply20</link><description>&lt;p&gt;全栈开发后端多一点，工作两三年也没攒下什么钱，本来用着 M1 偶尔有点卡顿但是也够用，上周没忍住 12 期下单了顶配 M3Max ，想着多用两年就上了顶配，优惠完也花了快四万了。目前用了几天感觉完全用不上这么高的性能，想到花了这么多钱越想越后悔，买其他电子产品也总有这种感觉「各种 VR 、游戏机、电脑电视、手机」，很容易不考虑需求一时上头入顶配，入完又是自责、后悔，大家有没有过这种情况，怎么让自己理性一点&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:33:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996984#reply20</guid></item><item><title>[深圳] 杭州很多民办学校在转成公办，深圳有这个趋势吗？</title><link>https://www.v2ex.com/t/996983#reply1</link><description></description><pubDate>Fri, 01 Dec 2023 13:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996983#reply1</guid></item><item><title>[问与答] 求雾化机购买推荐，小孩子肺炎了</title><link>https://www.v2ex.com/t/996982#reply21</link><description>&lt;p&gt;小孩子肺炎了，住院病房里的设备其他小孩子在用来吸氧，只能去科室的排队用，有时候还要抢着用。&lt;/p&gt;
-&lt;p&gt;想咨询大家买哪一款雾化机？朋友说一两千的都不太好用，要五千以上的才靠谱。想买一台先用着，后面需要的时候也可以在家里用，求推荐！&lt;/p&gt;
-&lt;p&gt;话说各大医院儿科全是小孩子，住院部过道里全都是人。这一波流感实在太吓人了。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:15:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996982#reply21</guid></item><item><title>[Windows] win11 23h2 貌似对 wsa 支持很不好</title><link>https://www.v2ex.com/t/996981#reply0</link><description>&lt;p&gt;win11 23h2 貌似对 wsa 支持很不好，安装个微信都用不了，要么连不上网，要么闪退。
-有老哥碰到这种情况没，有解决办法吗&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:12:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996981#reply0</guid></item><item><title>[Android] 请教系统校验 odex 的可用性</title><link>https://www.v2ex.com/t/996980#reply0</link><description>&lt;p&gt;应用产生的 odex 文件，复制到另一个系统特定目录，但系统能识别出该 odex 不可用，重新生成。
-请问大牛们，系统是怎么判断的呀。odex 里面有放生成时的系统镜像标志吗？&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:10:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996980#reply0</guid></item><item><title>[问与答] 米家 app 这个新增的延时执行能打断吗？</title><link>https://www.v2ex.com/t/996979#reply3</link><description>&lt;p&gt;这个月新增了几条智能&lt;br /&gt;
-发现只要和这个延时执行相关的都出现了逻辑性 bug&lt;br /&gt;
-比如我开门要延时执行关灯&lt;br /&gt;
-但我关门之后这个延时的 timer 还在倒计时&lt;br /&gt;
-然后我在门里面呢 这灯啊 他就自动关了&lt;br /&gt;
-事实是（我在里面洗澡 浴霸取暖关了 冻死我了 不敢用这延时执行功能了）&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 13:06:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996979#reply3</guid></item><item><title>[问与答] Windows 任务切换器里不显示 QQ NT 版</title><link>https://www.v2ex.com/t/996978#reply0</link><description>Windows 11 通过 Alt+Tab 或 win+Tab 呼出任务切换器，有时会不显示 QQ NT 版，一般是在屏幕分辨率、缩放等发生变化后才有机会触发该问题，Windows 11 22H2 23H2 都有出现该问题。而此时如果通过鼠标指针点击激活 QQ NT 版窗口在前台显示，关闭窗口，再次呼出窗口并最小化，此时又能在任务切换器里看到 QQ NT 版。&lt;br /&gt;&lt;a href="https://i.imgur.com/90XVhbh.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/90XVhbh.png" /&gt;&lt;/a&gt;&lt;br /&gt;有朋友也遇到过该问题吗？</description><pubDate>Fri, 01 Dec 2023 13:05:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996978#reply0</guid></item><item><title>[分享创造] 分享一个 IP 库工具，想不想知道抖音阿 B 小红书到底用了多少家 CDN 服务？</title><link>https://www.v2ex.com/t/996974#reply0</link><description>&lt;p&gt;这是一个处理 IP 库的命令行工具，目前 200+ star ，支持 IP 库的打包、转存、查询等操作。&lt;/p&gt;
-&lt;h3&gt;项目地址&lt;/h3&gt;
-&lt;p&gt;GitHub 地址：&lt;a href="https://github.com/sjzar/ips" rel="nofollow"&gt;https://github.com/sjzar/ips&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;使用文档&lt;/h3&gt;
-&lt;p&gt;文档地址：&lt;a href="https://github.com/sjzar/ips/blob/main/docs/usage.md" rel="nofollow"&gt;https://github.com/sjzar/ips/blob/main/docs/usage.md&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;使用案例&lt;/h3&gt;
-&lt;p&gt;一些基础用法可以参考上面的项目和文档地址，下面讲些这项目能够做啥好玩的。&lt;/p&gt;
-&lt;h4&gt;压缩数据库体积&lt;/h4&gt;
-&lt;p&gt;目前商业 IP 数据库通常包含大量详细信息，例如某家数据库文件大小超过 600MB ，在分发和使用时造成不便；&lt;/p&gt;
-&lt;p&gt;可以通过 ips 选取字段后 重新打包 IP 数据库，在保留国内城市运营商、海外国家粒度信息的情况下，减少 &lt;strong&gt;98%&lt;/strong&gt; 的体积。&lt;/p&gt;
-&lt;p&gt;具体命令请参考&lt;a href="https://github.com/sjzar/ips/blob/main/docs/advanced_usage.md" rel="nofollow"&gt;这篇文档&lt;/a&gt;。&lt;/p&gt;
-&lt;h4&gt;制作自定义数据库&lt;/h4&gt;
-&lt;p&gt;各类分流工具依赖 IP 归属地做分流策略，可以使用 ips 轻松重新打包 mmdb 文件 ，例如：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ ips pack -i GeoLite2-City.mmdb -f 'country|country=!中国:country=' -o geoip2-cn.mmdb --output-option "select_languages=-"
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 02 Dec 2023 03:41:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] .ing 后缀正式开放了，有没有什么想法</title><link>https://www.v2ex.com/t/997053#reply0</link><description>&lt;p&gt;今天早上注册了一个 blaz.ing 准备做个项目&lt;/p&gt;
+&lt;p&gt;.ing 属于谷歌域名注册局，目前还处于域名优先注册期，钱给够就可以提前注册&lt;/p&gt;
+&lt;p&gt;正常开放时间为北京时间 12 月 6 号凌晨零点&lt;/p&gt;
+&lt;p&gt;edit.ing sign.ing 已经被 adobe 启用&lt;/p&gt;
+&lt;p&gt;有想法的程序员朋友可以去 &lt;a href="http://name.com" rel="nofollow"&gt;name.com&lt;/a&gt; 注册 .ing&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 03:39:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997053#reply0</guid></item><item><title>[问与答] 关于路由器的安装位置</title><link>https://www.v2ex.com/t/997052#reply0</link><description>&lt;p&gt;新家最近在装修，考虑到 Wi-Fi 的全屋覆盖和智能家居设备（小米）。目前有两套方案。&lt;/p&gt;
+&lt;p&gt;1.全屋用锐捷的 acap 方案，ac 位置放在房子正中心，ap 采用吸顶式，放在房子四个角（但不是最边缘）基本可以覆盖整个屋子（角落型号差就加个 ap 面板）。吸顶 ap 全部放进空调的回风口。（不是出风口！） 然后里面还得放置小米的中枢网关。（据说中枢网关和 ap 会有 2.4g 信号干扰，不能放太近）&lt;/p&gt;
+&lt;p&gt;2.目前小米新出了 6500pro 的路由器，并且自带中枢网关功能。打算买四台也是放四个角落，这样 ac 的位置就可以用一台软路由+多口交换机就解决了。这个方案目前省去了买小米中枢设备的费用，差不多近 1k 多。&lt;/p&gt;
+&lt;p&gt;担心的点是路由器塞进空调回风口后（空调回风口挺大的，路由器可以竖着放置），会有什么问题？可能不太方便后期检修。&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 03:36:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997052#reply0</guid></item><item><title>[问与答] 对于 Go 切片有点疑问？</title><link>https://www.v2ex.com/t/997051#reply0</link><description>&lt;p&gt;为什么切片的左边可以是数组的长度，按照道理来说应该越界了呀？&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;package main
 
-$ ll
--rw-r--r--  1 sarv  staff    68M 10 20 12:43 GeoLite2-City.mmdb
--rw-r--r--  1 sarv  staff   323K 11 15 14:20 geoip2-cn.mmdb
+import "fmt"
+
+func main() {
+	var s = "whaomi"
+	var bs = []byte(s)
+	fmt.Println(bs[len(s):])
+
+	// error
+	// fmt.Println(bs[len(s)+1:])
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;多地域域名解析&lt;/h4&gt;
-&lt;p&gt;近期新增的一个功能，可以分析域名在不同地区的解析结果差异，拿 B 站的一个 CDN 域名举例：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ips mdns i0.hdslb.com
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-|       GEOISP       |                      CNAME                      |                       IP                        |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-| 27.224.0.0         | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 60.165.116.47 [中国 甘肃 兰州 电信]             |
-| [中国 甘肃 电信]   | hcdnw.biliv6.c.cdnhwc2.com [华为]               | 60.165.116.48 [中国 甘肃 兰州 电信]             |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-| 36.133.72.0        | i0.hdslb.com.w.kunlunno.com [阿里]              | 221.181.64.184 [中国 上海 上海 移动]            |
-| [中国 上海 移动]   |                                                 | 221.181.64.148 [中国 上海 上海 移动]            |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-| 36.133.108.0       | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 39.136.138.59 [中国 重庆 重庆 移动]             |
-| [中国 重庆 移动]   | hcdnw.biliv6.d.cdn.chinamobile.com [移动]       | 39.136.138.58 [中国 重庆 重庆 移动]             |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-| 1.56.0.0           | i0.hdslb.com.04f6a54d.c.cdnhwc1.com [华为]      | 218.10.185.43 [中国 黑龙江 鹤岗 联通]           |
-| [中国 黑龙江 联通] | hcdnw.biliv6.c.cdnhwc2.com [华为]               | 218.60.101.84 [中国 辽宁 大连 联通]             |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-| 42.202.0.0         | i0.hdslb.com.download.ks-cdn.com [金山]         | 123.184.57.130 [中国 辽宁 沈阳 电信]            |
-| [中国 辽宁 电信]   | k1-ipv6.gslb.ksyuncdn.com [金山]                | 123.184.57.129 [中国 辽宁 沈阳 电信]            |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-|       TOTAL        |                       11                        |                       730                       |
-+--------------------+-------------------------------------------------+-------------------------------------------------+
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;帖子长度有限，这里省略了中间的大量数据，大家可以自己试一下。&lt;/p&gt;
-&lt;p&gt;这个功能可以比较直观看到 B 站这个 CDN 域名用了多家 CDN 服务，已经 IP 的本地覆盖情况。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;希望大家能够玩一下，帮忙找找问题，欢迎提 issue 。&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 12:34:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996974#reply0</guid></item><item><title>[宽带症候群] 反正拨号都是内网 IP,为什么不索性分配一段内网 IP</title><link>https://www.v2ex.com/t/996973#reply6</link><description>&lt;p&gt;现在即便是内网 IP 也只给一个，用户还要在路由器上做一次内网 IP 到内网 IP 的 NAT
-运营商直接分配一段内网 IP ，这样用户侧的路由器就不用 NAT 了，直接把内网 IP 的数据包交到 bras NAT 不是更好&lt;/p&gt;</description><pubDate>Fri, 01 Dec 2023 12:26:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/996973#reply6</guid></item></channel></rss>
+&lt;p&gt;数组长度是 6 ，按照 0 下标开始最后一位应该是 5 ，但是却可以使用切片从 6 开始 &lt;code&gt;bs[len(s):]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://go.dev/play/p/f2a1rZgzTlo" rel="nofollow"&gt;Code&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 03:20:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997051#reply0</guid></item><item><title>[宽带症候群] 听说江西移动 ipv6 全关了？</title><link>https://www.v2ex.com/t/997050#reply5</link><description>楼主坐标江西宜春，从前两天重启一次光猫后就彻底获取不到 ipv6 了。&lt;br /&gt;&lt;br /&gt;       不论是光猫拨号，或者桥接，都只有 ipv6 ，狗移动不给公网 v4 就算了，公网 v6 也给停了</description><pubDate>Sat, 02 Dec 2023 03:16:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997050#reply5</guid></item><item><title>[MacBook Pro] 香港修 苹果电脑是不是不用 原始购买凭证？</title><link>https://www.v2ex.com/t/997048#reply0</link><description>去厦门直营店 对方门店经理跟我说 电脑 ac 要有购买凭证才给修 以前我记得都不要</description><pubDate>Sat, 02 Dec 2023 03:06:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997048#reply0</guid></item><item><title>[问与答] 普通人花多少钱能享受类似血槽姐的紧急医疗待遇？</title><link>https://www.v2ex.com/t/997047#reply12</link><description>- 输血 7000ml ，每人 300ml ，至少 24 人，要多少钱才能让这些人愿意献血？并且说服医院去帮你协调？假设为 100 万；&lt;br /&gt;- 医疗包机，推测血槽姐拉萨到成都使用“海南经纬航空医疗急救站”花了 100 万；&lt;br /&gt;- 华西医院抢救：10 万&lt;br /&gt;&lt;br /&gt;所以 220 万就能极大提高一个人在危重情况的生存概率？并且大部分人不用从拉萨这样的偏远地区包机到成都，使用救护车就行，110 万就行。&lt;br /&gt;相比于 30 年房贷，我觉得太便宜了。程序员中位数年薪 15 万，那么 15 年就能偿还 220 万，8 年偿还 110 万，有相关保险还能更便宜。&lt;br /&gt;是否有相关的境内外保险，在发生意外情况时，能够由保险公司出资并协调？</description><pubDate>Sat, 02 Dec 2023 03:05:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997047#reply12</guid></item><item><title>[问与答] 你们 Java 在深圳多少 k 啊</title><link>https://www.v2ex.com/t/997044#reply5</link><description>&lt;p&gt;三年，我从 3k-8k-9k-11k-12k,一直没跳过槽，因为看到很多说找工作难得帖子，所以就在这家公司一直躺平，从没加过班，但是大小周朝九晚六。一眼望到头的生活，JAVA 什么时候这么卷了，是否要考虑其他行业？&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:38:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997044#reply5</guid></item><item><title>[程序员] 打败你的可能是 chatgpt. 我的新的想法。插件版 英语轻松读</title><link>https://www.v2ex.com/t/997043#reply3</link><description>&lt;p&gt;以前想到一个语境词典， 然后有大佬在 openai translator 中实现了。
+语境词典的原贴在这里
+&lt;a href="https://www.v2ex.com/t/919114" rel="nofollow"&gt;https://www.v2ex.com/t/919114&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;贴一下这个贴子的目的是用来证明自己的想法不是意想天开。 &lt;/p&gt;
+&lt;p&gt;这几天刷到 tinyfool 的英语轻松读。他做了客户端，服务端。代码量太多了，还只支持 ios 。 而且当一个单词有多种意思的时候，他还做不到选择一个最准确的意思。 &lt;/p&gt;
+&lt;p&gt;然后我脑袋瓜子一激灵。 为什么不做一个类似于沉浸式翻译的 chrome 插件呢， 这样子， 打开网页就能用了,全平台支持。&lt;/p&gt;
+&lt;p&gt;我把 prompt 写好了， 不过我不会写 chrome 插件，我只会出主意。 我还有一大堆主意。 哪位大神愿意去实现在这个贴子里跟一下贴，谢谢。&lt;/p&gt;
+&lt;p&gt;你是一位英语老师，你将帮助我加速阅读，为了加速我的阅读，减少查字典的时间， 请将我给你的英语中词频大于 3000 的单词的意思标注在返回英文原文的生词，比如 我给你的英语句子是
+On the whole, Harry thought he was to be congratulated on his idea of hiding here.
+你的回答将是：
+On the whole, Harry thought he was to be congratulated(祝贺) on his idea of hiding here.
+请记住一定要原文全部输出。 不只是输出单词和解释&lt;/p&gt;
+&lt;p&gt;试了一下
+问 gpt:
+Few ideas are more unshakable than the notion that the rich keep getting richer while ordinary folks fall ever further behind. The belief that capitalism is rigged to benefit the wealthy and punish the workers has shaped how millions view the world, whom they vote for and whom they shake their fists at. It has been a spur to political projects on both left and right, from the interventionism of Joe Biden to the populism of Donald Trump. But is it true?&lt;/p&gt;
+&lt;p&gt;Even as the suspicion of free markets has hardened, evidence for the argument that inequality is rising in the rich world has become flimsier. Wage gaps are shrinking. Since 2016 real weekly earnings for those at the bottom of America’s pay distribution have grown faster than those at the top. Since the covid-19 pandemic this wage compression has gone into overdrive; according to one estimate, it has been enough to reverse an extraordinary 40% of the pre-tax wage inequality that emerged during the previous 40 years. A blue-collar bonanza is under way.
+gpt 问答：
+Few ideas are more unshakable than the notion that the rich keep getting richer while ordinary folks fall ever further behind. The belief that capitalism is rigged to benefit(受益) the wealthy and punish the workers has shaped how millions view the world, whom they vote for and whom they shake their fists at. It has been a spur(刺激) to political projects on both left and right, from the interventionism(干涉主义) of Joe Biden to the populism(民粹主义) of Donald Trump. But is it true?&lt;/p&gt;
+&lt;p&gt;Even as the suspicion of free markets has hardened, evidence for the argument that inequality is rising in the rich world has become flimsier(不牢固的). Wage gaps are shrinking. Since 2016 real weekly earnings for those at the bottom of America’s pay distribution have grown faster than those at the top. Since the covid-19 pandemic this wage compression has gone into overdrive; according to one estimate, it has been enough to reverse an extraordinary 40% of the pre-tax wage inequality that emerged during the previous 40 years. A blue-collar bonanza(繁荣) is under way.&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:33:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997043#reply3</guid></item><item><title>[问与答] 有人做过视频会员 游戏充值 吗</title><link>https://www.v2ex.com/t/997042#reply0</link><description>有啥经验，随便说说</description><pubDate>Sat, 02 Dec 2023 02:29:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997042#reply0</guid></item><item><title>[问与答] 亚马逊私人开发者怎么获取 PII 权限呢？</title><link>https://www.v2ex.com/t/997041#reply0</link><description>&lt;p&gt;注册的私人开发者，只需要自己账号下的 PII 权限就行了，没看到有说明可以获取的，有老铁指导下吗&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:21:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997041#reply0</guid></item><item><title>[长沙] 网安行业，准备从深圳回长沙，工作好找吗？</title><link>https://www.v2ex.com/t/997040#reply2</link><description></description><pubDate>Sat, 02 Dec 2023 02:21:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997040#reply2</guid></item><item><title>[生活] 如果把人生比作是一场德州扑克，你会在什么时候 All In 呢？</title><link>https://www.v2ex.com/t/997039#reply10</link><description>&lt;ul&gt;
+&lt;li&gt;又会在什么时候弃牌呢？&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 02 Dec 2023 02:18:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997039#reply10</guid></item><item><title>[程序员] [智能家居篇一] 之小米 IoT 协议 &amp; 命令行与源码阅读等 - EP 17</title><link>https://www.v2ex.com/t/997038#reply0</link><description>&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1ZQ4y1G7S6" rel="nofollow"&gt;https://www.bilibili.com/video/BV1ZQ4y1G7S6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=NUEq9DOvq88" rel="nofollow"&gt;https://www.youtube.com/watch?v=NUEq9DOvq88&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:18:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997038#reply0</guid></item><item><title>[分享创造] 纯小白靠 AI 糊的一个 SVD 在线体验网站</title><link>https://www.v2ex.com/t/997036#reply0</link><description>&lt;p&gt;0 基础只懂母语的小白，靠 AI 花了 1 天时间做的一个在线体验 SVD 的站点：&lt;a href="http://stablevideodiffusion.cc" rel="nofollow"&gt;stablevideodiffusion.cc&lt;/a&gt; 欢迎各位大佬体验指教&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997036#reply0</guid></item><item><title>[分享创造] 国内服务器如何调用国外 api</title><link>https://www.v2ex.com/t/997035#reply6</link><description>&lt;p&gt;最近萌生了一个写微信小程序的想法，准备租用一台服务器，因为涉及到 ai ，想通过服务器直连国外 api ，各位有什么建议？&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:10:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997035#reply6</guid></item><item><title>[NAS] [忽略吧，等了一会儿，装好了]黑群卡 99%咋肥事呀</title><link>https://www.v2ex.com/t/997034#reply0</link><description>&lt;p&gt;引导盘是 Intel 32G 的 SSD ，不是 U 盘，没有修改 PID VID （好像也没有这个参数）&lt;/p&gt;
+&lt;p&gt;安装过程是先进 U 盘 PE ，然后 DiskImage 拷贝 arpl.img 到 SSD Physical Disk ，然后群晖助手查找上传。&lt;/p&gt;
+&lt;p&gt;安装的版本是 ds918 42962 ，现在是上传 pat 文件卡在 99%不动&lt;/p&gt;
+&lt;p&gt;忽略吧，等了一会儿，装好了。。。&lt;/p&gt;</description><pubDate>Sat, 02 Dec 2023 02:02:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997034#reply0</guid></item><item><title>[问与答] 昨天入了一个唢呐, 请问哪里有现代一点的简明教程</title><link>https://www.v2ex.com/t/997032#reply19</link><description></description><pubDate>Sat, 02 Dec 2023 01:40:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997032#reply19</guid></item><item><title>[OpenAI] 熬了无数个夜晚总算搞定了 GPT 逆向核心</title><link>https://www.v2ex.com/t/997030#reply2</link><description>划重点：&lt;br /&gt;界面是用的开源的。&lt;br /&gt;核心代理是自己写的， 熬了好多也夜晚摸索出来的-_-！！&lt;br /&gt;&lt;br /&gt;体验地址&lt;br /&gt;&lt;br /&gt;https://plus.aigo.lol&lt;br /&gt;&lt;br /&gt;GPT3.5 ，复制下面授权码体验，每个授权码会看到当前授权码的会话记录，最重要 3.5 是 免费！免费！免费！&lt;br /&gt;&lt;br /&gt;v21&lt;br /&gt;&lt;br /&gt;v22&lt;br /&gt;&lt;br /&gt;v23&lt;br /&gt;&lt;br /&gt;v24&lt;br /&gt;&lt;br /&gt;v25&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;联系方式：&lt;br /&gt;TG: &lt;a href="https://t.me/suxixid" rel="nofollow noopener" target="_blank"&gt;https://t.me/suxixid&lt;/a&gt;&lt;br /&gt;TG 群: &lt;a href="https://t.me/+XK1Skk2eMeYwMGU1" rel="nofollow noopener" target="_blank"&gt;https://t.me/+XK1Skk2eMeYwMGU1&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;PS:个人推广一下，可以合租 plus 会员，原理一样，只是提供了合租的方式，毕竟一个月 20 刀  自己开其实用不上太多，合租才 30 多一个月，工作效率提升神器！&lt;br /&gt;&lt;br /&gt;多人合租拼车 plus 会员，稳定可靠，不跑路&lt;br /&gt;优势: &lt;br /&gt;独立接入点稳定可靠&lt;br /&gt;plus 会员持续续费保证可用&lt;br /&gt;次数使用完毕应急使用可获得临时使用授权码&lt;br /&gt;多人使用不超车合理安排！</description><pubDate>Sat, 02 Dec 2023 01:37:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997030#reply2</guid></item><item><title>[职场话题] 老板带来的日常离职冲动</title><link>https://www.v2ex.com/t/997026#reply27</link><description>昨天和老板讨论需求, 客户需要实现各种场景下的人脸识别, 我给老板说这个市面上有成熟的接口我们可以直接用, 自己做的话可能需要耗费很多时间去调优. 老板来了这么一句,神经网络,CNN 不就是 python 入门的吗?   我当时: ????????? &lt;br /&gt;&lt;br /&gt;突然让我想到了围棋的梗, &lt;br /&gt;现在你已经学会了围棋的基本规则, 现在请你迎战柯洁九段!&lt;br /&gt;现在你已经学会了 python 的基本语法, 现在请你实现一套人脸识别系统!</description><pubDate>Sat, 02 Dec 2023 01:22:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997026#reply27</guid></item><item><title>[问与答] 申请 AS 号做 BGP 广播大概多少钱?</title><link>https://www.v2ex.com/t/997025#reply0</link><description>本是是做 IDC 的, 新机房想做成 BGP 机房.&lt;br /&gt;网上的文档说要先申请 AS 号, 申请 IP 段.&lt;br /&gt;CNNIC 上文档和费用也没公示, 是否有网友做过类似的业务? 比如申请完 AS 号后, 申请 一个 C 段 ip, 下来费用大概多少?</description><pubDate>Sat, 02 Dec 2023 01:07:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997025#reply0</guid></item></channel></rss>
