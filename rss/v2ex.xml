@@ -1,118 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 03 Dec 2023 11:09:47 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[汽车] 观贴有感，国产 20 万左右的车都有哪些不比合资和 bba 差？</title><link>https://www.v2ex.com/t/997280#reply0</link><description>都说身边同事朋友买 20 万左右的车比 bba 好或者比合资好，具体是啥车？好在哪些方面？&lt;br /&gt;买车时那些开奔驰的都建议我买奔驰 e ，我看了宝马 125 ，保养劝退。但是我买了个十万多的国产练手，开过几次轩逸，开起来感觉国产和合资差距也太大了。&lt;br /&gt;btw ，卡罗拉不算垃圾吧，我是因为销售态度和优惠太少才没买的，优惠再大点我就买了。</description><pubDate>Sun, 03 Dec 2023 11:00:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997280#reply0</guid></item><item><title>[生活] [记录]-2023-12-03 在玩黑森町奇谭和 DOOM</title><link>https://www.v2ex.com/t/997279#reply0</link><description>&lt;p&gt;&lt;img alt="微信图片_20231203185213.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/03/jHoA5CdvkV3lnNI.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20231203185212.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/03/MnyA8WuvBEagJzT.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="微信图片_20231203185150.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/03/d68at5KMbylLkJj.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;黑森町奇谭 我大概在 5 年前就看过 但是从来没有自己玩过 是个很优秀的"visual novel"类的游戏 剧情相当不错 没想到是国内的独立游戏工作做的作品&lt;/p&gt;
-&lt;p&gt;DOOM 就更不用说了 爽就完事了&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 10:58:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997279#reply0</guid></item><item><title>[C] 在 C 中，如何正确拷贝字符串</title><link>https://www.v2ex.com/t/997278#reply0</link><description>- &lt;a href="https://liujiacai.net/blog/2023/12/02/strcpy/" rel="nofollow noopener" target="_blank"&gt;https://liujiacai.net/blog/2023/12/02/strcpy/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这两天稍微总结了下 strcpy 的问题，欢迎大家批评指正。</description><pubDate>Sun, 03 Dec 2023 10:54:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997278#reply0</guid></item><item><title>[问与答] 快跨年了，很多会员积分要过期了，各位都兑换了什么？</title><link>https://www.v2ex.com/t/997277#reply0</link><description>&lt;p&gt;天猫兑换了一包米&lt;/p&gt;
-&lt;p&gt;支付宝兑换了一瓶洗发水&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 10:45:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997277#reply0</guid></item><item><title>[问与答] macos 上有哪些好用的记东西的软件？</title><link>https://www.v2ex.com/t/997276#reply0</link><description>比如写日记，或者博客之类的，求推荐</description><pubDate>Sun, 03 Dec 2023 10:37:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997276#reply0</guid></item><item><title>[VPS] 为什么到了晚上 trojan 会变卡，而 vless+tls+ws+cdn，就没什么事情</title><link>https://www.v2ex.com/t/997275#reply6</link><description>&lt;p&gt;vps 1G 网口无限流量，操作系统为 Ubuntu 20 ，搭建了 traojan 16.&lt;/p&gt;
-&lt;p&gt;白天的话可以跑满 100M 带宽，但是到了晚上就会变得很不稳定，看 1080p 视频也会卡一下。&lt;/p&gt;
-&lt;p&gt;我另外一台 vps 同样是 1G 网口无限流量，使用 xui 一键脚本搭建的 vless ，晚上就没感觉到有什么波动。&lt;/p&gt;
-&lt;p&gt;是 vps 的原因吗？&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 10:35:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997275#reply6</guid></item><item><title>[MacBook Pro] Mac 如何远程管理无屏幕的 Windows 小主机</title><link>https://www.v2ex.com/t/997274#reply3</link><description>&lt;p&gt;背景：平时主力机 Macbook Pro M1M ，偶尔登录 Windows 处理一些财务的 U 盾验证事宜。会外接 1 个 HDMI 屏幕来扩展现实。
-探讨：购买宁美¥899 的 Intel 赛扬小主机一枚，配置好系统后，拔掉 HDMI 。在 Windows 上安装哪种远程桌面软件，然后在 Mac 上面远程操作，省去 Windows 小主机霸占的 HDMI2.0 接口、USB 键盘鼠标等，让桌面仅仅有一块 Windows 小主机搬砖，以及背后的电源，剩下都是 Macbook+外接显示器？&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 10:35:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997274#reply3</guid></item><item><title>[NAS] 买了个 N100 小主机，第一次搞 Pve，买了 1T 的 ssd 是不是买错了？</title><link>https://www.v2ex.com/t/997273#reply3</link><description>本来设想是 1T 的 nvme 盘，分多个区&lt;br /&gt;&lt;br /&gt;一个 分区给 pve 系统盘&lt;br /&gt;&lt;br /&gt;其他分区不同虚拟机直通，例如群晖，win11&lt;br /&gt;&lt;br /&gt;现在查了查好像不太对，是不是系统盘应该独立一个盘，就不用买 1T 的 nvme 盘这么大了</description><pubDate>Sun, 03 Dec 2023 10:24:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997273#reply3</guid></item><item><title>[Windows] windows 怎么查看鼠标电量？</title><link>https://www.v2ex.com/t/997271#reply6</link><description>&lt;p&gt;目前的 windows11 好像没有合适的办法。主要是装的是干电池。有时候一些电池不知道有多少电了。弄混淆之后不知道哪些是有电的。哪些是没电的。有没有什么合适的软件可以帮忙检测鼠标电池电量？&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 10:04:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997271#reply6</guid></item><item><title>[问与答] 有 AI 直播的开源项目吗</title><link>https://www.v2ex.com/t/997270#reply0</link><description>只需要可以问答互动就可以，可以不支持 ChatGPT ，通过本地问答库也可以&lt;br /&gt;可以不支持数字人主播（支持更好）&lt;br /&gt;平台 dy 为主，最好支持手机端&lt;br /&gt;有没有类似的开源项目，或者有什么开发思路&lt;br /&gt;V 友们有了解这方面的吗？</description><pubDate>Sun, 03 Dec 2023 09:59:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997270#reply0</guid></item><item><title>[装修] 出租房安装简易抽烟机问题请教</title><link>https://www.v2ex.com/t/997269#reply6</link><description>在外打工吃太多快餐和外卖对身体不好决定自己开火，网上研究看到可以自制抽油烟机&lt;br /&gt;问题：目前买了一个 120W 的排风扇，需要连接的烟管直径需要 30 厘米，目前租房的预留玻璃口是 18 厘米，无法安装，现在有以下两个方案：&lt;br /&gt;1.在现有玻璃上开一个 30 厘米直径的孔，网上搜了一下玻璃开孔还是有点难度的，这个成功率如何？&lt;br /&gt;2.不打孔，买一个 18 直径的套在 30 直径的烟管上，这个大环套小环如何连接，暂时没想到好的方法求指点。&lt;br /&gt;&lt;br /&gt;解释一下为什么买那么大尺寸排风扇不买小的，因为几年前我买过一个 6 寸的风扇制作模型喷涂箱，感觉功率不够，喷涂模型肯定够用，炒菜的话还用这么小的作用不大，所以我买的是 12 寸的。&lt;br /&gt;示意图如下，欢迎大家给意见和建议谢谢。&lt;br /&gt;[img]&lt;a href="https://i.imgur.com/1t0ZGsH.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/1t0ZGsH.png" /&gt;&lt;/a&gt;[/img]</description><pubDate>Sun, 03 Dec 2023 09:58:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997269#reply6</guid></item><item><title>[职场话题] 最近找工作体验</title><link>https://www.v2ex.com/t/997268#reply9</link><description>&lt;p&gt;问下，现在还有哪些有 HC 的？个人感觉行情越来越冷了，是错觉？我感觉和 ai 相关的才有 hc ，连广告行业的基本也要有 ai 经验。现在应该怎么办？准备考公？找个小厂？远程？背景是之前是在某 c++大厂。&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 09:54:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997268#reply9</guid></item><item><title>[Chrome] chrome 最近某次更新后经常 cpu 狂飙</title><link>https://www.v2ex.com/t/997265#reply1</link><description></description><pubDate>Sun, 03 Dec 2023 09:00:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997265#reply1</guid></item><item><title>[问与答] 有没有哪个 Python 库或者 Nodejs 库可以轻松的创建优美的思维导图?</title><link>https://www.v2ex.com/t/997263#reply1</link><description>&lt;p&gt;有没有哪个 Python 库或者 Nodejs 库可以轻松的创建优美的思维导图?&lt;/p&gt;
-&lt;p&gt;就是给出思维导图的内容，自动转化为思维导图的图片。&lt;/p&gt;
-&lt;p&gt;比如这样&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- 人工智能
-  - 机器学习
-  - 深度学习
-    - CNN
-    - Transformer
-    - RNN
-    
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;自动生成思维导图。&lt;/p&gt;
-&lt;p&gt;折腾了一下午。 网上关于思维导图的软件倒是挺多的，但是我愣是没找到关于创作思维导图的库。 &lt;/p&gt;
-&lt;p&gt;有没有朋友知道了？&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 08:38:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997263#reply1</guid></item><item><title>[信息安全] 火绒剑临时下线，有什么情况吗</title><link>https://www.v2ex.com/t/997262#reply17</link><description>&lt;p&gt;昨天重装了一波系统，&lt;/p&gt;
-&lt;p&gt;重装之后想看看当前的监听端口情况，&lt;/p&gt;
-&lt;p&gt;嫌麻烦不想敲命令行，打开火绒，结果发现火绒剑图标没了&lt;/p&gt;
-&lt;p&gt;到论坛上看，说是临时下线了&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/FssPfwjm/image.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/Wp9GyzkL/image.png" /&gt;&lt;/p&gt;
-&lt;p&gt;过来看看有啥小道消息吗，顺便求一个替换工具，比如 process explorer 等&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 08:37:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997262#reply17</guid></item><item><title>[电动汽车] 每天通勤 100KM 左右 一年内无车位 帮我看看选什么电车？</title><link>https://www.v2ex.com/t/997261#reply12</link><description>&lt;p&gt;当考虑购买电车技术快速发展且预算在 25 万以内时，以下是一些选择，按照预算从低到高排列，并考虑了家用、SUV 、充电速度、机械素质以及长期可维护性：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;序号&lt;/th&gt;
-&lt;th&gt;类型&lt;/th&gt;
-&lt;th&gt;车型&lt;/th&gt;
-&lt;th&gt;预算&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;合资&lt;/td&gt;
-&lt;td&gt;零跑 C10 丐版 SUV&lt;/td&gt;
-&lt;td&gt;约 15 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;小米 SU7 丐版 轿车&lt;/td&gt;
-&lt;td&gt;约 20 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;合资&lt;/td&gt;
-&lt;td&gt;上汽别克 E5 先锋版 SUV&lt;/td&gt;
-&lt;td&gt;约 17 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;小鹏 G6PRO SUV&lt;/td&gt;
-&lt;td&gt;约 21 万&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;比亚迪元 SUV&lt;/td&gt;
-&lt;td&gt;约 15 万&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;奇瑞 iCar03 SUV&lt;/td&gt;
-&lt;td&gt;约 15 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;奇瑞智界 S7 轿车&lt;/td&gt;
-&lt;td&gt;约 25 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;国产&lt;/td&gt;
-&lt;td&gt;吉利极氪 007 轿车&lt;/td&gt;
-&lt;td&gt;约 23 万左右&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Sun, 03 Dec 2023 08:36:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997261#reply12</guid></item><item><title>[分享创造] 独立开发者的网站--软软科技</title><link>https://www.v2ex.com/t/997260#reply1</link><description>&lt;h1&gt;软软介绍&lt;/h1&gt;
-&lt;h2&gt;对于开发者，本站提供&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;软件的发行服务&lt;/li&gt;
-&lt;li&gt;正版交易的收款服务&lt;/li&gt;
-&lt;li&gt;用户赞助的收款服务&lt;/li&gt;
-&lt;li&gt;软件展示与介绍的主页&lt;/li&gt;
-&lt;li&gt;用户反馈的渠道&lt;/li&gt;
-&lt;li&gt;软件宣传、营销的服务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;对于用户，本站提供&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;软件的查询、下载&lt;/li&gt;
-&lt;li&gt;软件的购买、赞助&lt;/li&gt;
-&lt;li&gt;软件的评论、反馈&lt;/li&gt;
-&lt;li&gt;软件的文档、更新日志的查看&lt;/li&gt;
-&lt;li&gt;相似软件的搜索&lt;/li&gt;
-&lt;li&gt;软件清单的编写&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;链接&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://softsoft.pro/" rel="nofollow"&gt;https://softsoft.pro/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有问题可以邮件联系 softsoftservice##&lt;a href="http://163.com" rel="nofollow"&gt;163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 08:34:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997260#reply1</guid></item><item><title>[成都] 对于成都的菜鸟驿站怎么才能让他们把我拉黑，不要处理我的任何快递？</title><link>https://www.v2ex.com/t/997258#reply20</link><description>&lt;p&gt;太恶心了，平时朝 6 晚 12 的，根本没时间去区间，单元楼下就能放快递&lt;/p&gt;
-&lt;p&gt;最近的驿站距离我好几公里，偏偏他们要“好心的帮”我快递！&lt;/p&gt;
-&lt;p&gt;这种公司于我而言简直是社会毒瘤一样的存在&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 08:31:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997258#reply20</guid></item><item><title>[路由器] 为什么有些网络连不上 Zerotier moon 节点</title><link>https://www.v2ex.com/t/997256#reply0</link><description>我是用老毛子固件搭建的 moon 节点，然后不管是电脑网络，wifi ，电信移动网络都可以正常连接上，但是切到联通移动网络就不上。关闭老毛子的防火墙功能就可以连上。但为什么别的网络不用关闭防火墙也可以连上</description><pubDate>Sun, 03 Dec 2023 08:25:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997256#reply0</guid></item><item><title>[程序员] 用 Cloudflare works AI 搭了个网页，有什么应用场景吗</title><link>https://www.v2ex.com/t/997254#reply3</link><description>&lt;p&gt;体验地址 &lt;a href="https://freeai.awsl.icu/" rel="nofollow"&gt;https://freeai.awsl.icu/&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有免费额度&lt;/li&gt;
-&lt;li&gt;限流&lt;/li&gt;
-&lt;li&gt;使用方便&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;和 chatgpt 做东西一样，还是不知道做点什么赶上风口&lt;/p&gt;</description><pubDate>Sun, 03 Dec 2023 08:17:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997254#reply3</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 04 Dec 2023 07:47:31 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 赛博灯泡，只有一把三模鼠标，如何使用蓝牙模式连接上 Mac mini？</title><link>https://www.v2ex.com/t/997518#reply0</link><description>家里原本有台 Win 电脑，键盘和鼠标是支持双模的无线键鼠，使用的是 2.4g 接收器连接。&lt;br /&gt;上周刚刚添置了一台 Mac mini ，准备让 Win 主机使用键鼠的 2.4g 接收器模式，Mac mini 使用蓝牙模式，方便一套键鼠互相切换。&lt;br /&gt;&lt;br /&gt;我先使用键鼠有线模式连接上 mac mini ，然后把键盘切换到蓝牙，使用鼠标控制，让 Mac mini 连接上键盘的蓝牙模式。&lt;br /&gt;&lt;br /&gt;结果，等到想让 Mac mini 链接鼠标的蓝牙模式的时候，问题来了。&lt;br /&gt;&lt;br /&gt;如果我要连接蓝牙鼠标，就要把鼠标切换到蓝牙模式，这时候鼠标断开，我就失去了 Mac mini 的控制权（键盘居然无法控制系统偏好设置）。&lt;br /&gt;如果我要能正常控制 Mac mini ，就要先把鼠标连接上电脑，就需要切换到鼠标的有线或接收器模式，但是这个时候，又无法连接鼠标的蓝牙。&lt;br /&gt;&lt;br /&gt;就，变成了先有鸡还是先有蛋的问题，我的解题思路是从公司又薅了一把鼠标回来😂。</description><pubDate>Mon, 04 Dec 2023 07:47:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997518#reply0</guid></item><item><title>[问与答] 第一次装机，欢迎大佬们点评</title><link>https://www.v2ex.com/t/997517#reply0</link><description>&lt;a href="http://imgur.com/a/MMsOhn4" rel="nofollow noopener" target="_blank"&gt;imgur.com/a/MMsOhn4&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;需求：摄影，码农，不玩游戏。&lt;br /&gt;摄影相关软件用到的有：2024 版 PS 、LR 、PR 、lrtimelapse 、剪影&lt;br /&gt;码农：Java 生态一套软件&lt;br /&gt;&lt;br /&gt;显卡暂不上（穷，未来有预算再上好的显卡，暂时使用核显），请问大佬们上面方案可以吗？</description><pubDate>Mon, 04 Dec 2023 07:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997517#reply0</guid></item><item><title>[路由器] 有没有一款完美支持 IPV6 的路由器？支持 ipv6 的 wake on lan 的软件？</title><link>https://www.v2ex.com/t/997516#reply0</link><description>我现在的需求是通过 ipv6 把家里的电脑远程开放出去，因为没有公网，但是奈何 ipv6 地址会变化，需要路由器做 DDNS ，但是据我观察，大多数路由器都支持 ipv4 的 DDNS ，并不支持 IPV6 的 DDNS 。&lt;br /&gt;并且需要做到随时可以开关机，就需要一款支持 ipv6 的 wake on lan 的软件。&lt;br /&gt;不想使用那些远程开机插座、内网穿透工具，因为一是要付费，二是也有很多弊端。</description><pubDate>Mon, 04 Dec 2023 07:40:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997516#reply0</guid></item><item><title>[小米] 小米 11 屏幕主板一起烧，维修点只保主板，有没有卡 bug 只修主板的方法？</title><link>https://www.v2ex.com/t/997514#reply0</link><description>&lt;p&gt;维修点说法是不支持只修主板，要修就两个都修，但是不想再贴钱去填这个无底洞了。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:36:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997514#reply0</guid></item><item><title>[问与答] 请教大家一个用电知识，希望懂的老哥给解答一下</title><link>https://www.v2ex.com/t/997513#reply2</link><description>最近家里又新增了一辆摩托车，然后自己就想着上个洗车机，看了锂电的压力、价格啥的都感觉不如插电的，然后想买个 220V 插电的，奈何用电问题不好解决&lt;br /&gt;现在就是想着用小区给电动自行车充电的充电桩来供洗车机，但是不知道能不能供的起来。&lt;br /&gt;&lt;br /&gt;参数如下：&lt;br /&gt;&lt;br /&gt;洗车机：额定功率 1400W&lt;br /&gt;电动车充电桩：最大支持 2000W （这个我问了充电桩施工的师傅，得到的数据是最大支持 2000W ）&lt;br /&gt;&lt;br /&gt;电动车充电桩那天我用家里 1800W 的电熨斗测试时没有问题的，&lt;br /&gt;但是是不是 1400W 的洗车机启动功率要额定功率的的 2-3 倍，于是只能承受 2000W 的充电桩是不是带不起来洗车机，&lt;br /&gt;在此求证一下，希望懂得老哥解答一下，谢谢</description><pubDate>Mon, 04 Dec 2023 07:36:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997513#reply2</guid></item><item><title>[问与答] 你们用汽水音乐会手机发烫吗？</title><link>https://www.v2ex.com/t/997512#reply0</link><description>&lt;p&gt;今天 carplay 尝试了下手机都成暖手宝了，可是又很喜欢他家的推荐算法&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:35:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997512#reply0</guid></item><item><title>[问与答] Web 上这种三维地图用的是什么技术栈呢？</title><link>https://www.v2ex.com/t/997511#reply2</link><description>&lt;p&gt;请问各位大佬这种网页上的三维地图是怎么实现的呢？
+&lt;a href="https://imgur.com/HUTcoDy" rel="nofollow"&gt;https://imgur.com/HUTcoDy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;还有就是如下图这个鼠标移上去就会有选中效果，这个高亮的区域是模型还是图片呢？
+&lt;a href="https://imgur.com/62TaRA9" rel="nofollow"&gt;https://imgur.com/62TaRA9&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:35:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997511#reply2</guid></item><item><title>[分享发现] 保时捷卡宴开顺风车亏的裤衩都没了，乘客素质普遍低住的都是穷乡僻壤， 150 高速费连 20 都不愿意分摊。难怪碰到拉满五人的黑车电车职业司机</title><link>https://www.v2ex.com/t/997510#reply2</link><description>&lt;p&gt;上海南京西路外滩也接到个上海师范大学女大学生挺漂亮的一路畅聊一个半小时好心情还加了微信。顺风车看乘客头像就知道大概率是女生，乘客身份证实名认证还标记有 00 后。有其他司机评价素质很高。主动帮忙开车门拿行李放后备箱。女生喷了香水车厢里氛围很愉悦。聊家庭聊爱情仿佛找回了生命的意义。别的穷乡僻壤的乘客只把你当网约车师傅低人一等的感觉。上车抖音外放。加了 700 块钱油费 290 高速费只赚了 479 元开了 8 小时车累死了。车费五毛钱一公里油费就一块五一公里了拼满四人各种绕路才勉强保本。刚拿驾照两天纯当练车。滴滴豪华车要满三年驾龄。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997510#reply2</guid></item><item><title>[macOS] Intel 平台还有好用的代理软件吗？</title><link>https://www.v2ex.com/t/997509#reply0</link><description>&lt;p&gt;之前是 cfw+meta 内核，cfw 没后续了，meta 内核更新到 1.7 后就无法使用了，有用 singbox ，开启之后就没法关闭连接了，伊朗的 Hiddify next 还有 v2box （路由不太行），clash verge （有 bug 经常无法使用），好像没其它可以用的了，圈 x 以及 surge 不支持新协议。。。。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997509#reply0</guid></item><item><title>[Apple] 适用于声音问题的 AirPods Pro 服务计划</title><link>https://www.v2ex.com/t/997508#reply3</link><description>&lt;p&gt;超过时间了还能享受吗？🤣好像超了半个月左右，具体记不清了，之前是戴着跑（平时走路的时候偶尔小跑一下加块速度）有杂音，没怎么在意，现在电流声很明显了&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:30:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997508#reply3</guid></item><item><title>[生活] 吐槽一下感康感冒药</title><link>https://www.v2ex.com/t/997507#reply2</link><description>&lt;p&gt;就是那个感康，复方氨酚烷胺片(感康)，这个&lt;/p&gt;
+&lt;p&gt;前几天喝了两天这个药，我的天，副作用全部出现，而且太夸张了。药盒上写的副作用是"有时有轻度头晕、乏力、恶心、上腹不适、口干、食欲缺乏和皮疹等，可自行恢复" 。&lt;/p&gt;
+&lt;p&gt;我的情况是喝了之后半小时左右开始头晕，头昏，不是瞌睡的那种，就是头晕，感觉缺氧一样，堪比得了重症感冒；乏力；吃不下饭，是真的没有一点食欲，蒸了个蛋，吃了半个不想吃了；&lt;strong&gt;尤其是这个皮疹，我一点不夸张的说，浑身长疹子，而且那个疹子会自动破，然后留下一片黑色的好像蚊子咬了挠破的那种痕迹（会自动消除），甚至我的丁丁和眼皮上这种部位都长了，喝了 3 天的时候全身已经差不多 20 个疹子左右了&lt;/strong&gt; 。&lt;/p&gt;
+&lt;p&gt;然后我感觉应该是药物副作用。看了一下，确实是这个感康的副作用，除了口干恶心，全出现了…问题是吃了三天，我的感冒根本不见好，整个人难受的不行。&lt;/p&gt;
+&lt;p&gt;今天我搜了一下，发现不是我一个人吃感康有这个症状，好多人都有。还是发出来给大伙注意一下，有相关的副作用可以看看是不是吃了感康。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:29:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997507#reply2</guid></item><item><title>[问与答] 零跑 C11 的 200 增程丐版和比亚迪唐尊荣版选哪个</title><link>https://www.v2ex.com/t/997506#reply0</link><description>周末的时候，同时试驾了零跑和比亚迪唐，感觉唐的提速挺快的，然后七座也挺大的，就是价格有点儿超预算，零跑就是造车新势力，感觉做工也可以，但是家里没听过零跑这个品牌，对这个品牌还是持有怀疑的态度</description><pubDate>Mon, 04 Dec 2023 07:26:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997506#reply0</guid></item><item><title>[Apple] 换了 iPhone15pro 发现充电宝不能用了 怎么回事</title><link>https://www.v2ex.com/t/997504#reply0</link><description>顺便推荐一下充电宝</description><pubDate>Mon, 04 Dec 2023 07:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997504#reply0</guid></item><item><title>[分享发现] 运维的一些小工具集 ops-tools，运维同学可先收藏</title><link>https://www.v2ex.com/t/997503#reply0</link><description>运维过程中一些常用的实践和代码，将一些运维中的小工具不断加入进来，避免重复造轮子&lt;br /&gt;&lt;br /&gt;GitHub 地址: &lt;a href="https://github.com/veops/ops-tools" rel="nofollow noopener" target="_blank"&gt;https://github.com/veops/ops-tools&lt;/a&gt;</description><pubDate>Mon, 04 Dec 2023 07:17:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997503#reply0</guid></item><item><title>[Apple] BetterZIP 等 10 款 APP 黑五官方 5 折（打包 2.5 折）</title><link>https://www.v2ex.com/t/997502#reply0</link><description>&lt;p&gt;单买了 BetterZIP ，比 Si 马、克丁流氓代理的价格还便宜不少，有需可入。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://unclutterapp.com/bundle/?coupon=BZ-BLACKFRIDAY-2023&amp;amp;s=m1&amp;amp;co=d2" rel="nofollow"&gt;https://unclutterapp.com/bundle/?coupon=BZ-BLACKFRIDAY-2023&amp;amp;s=m1&amp;amp;co=d2&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:14:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997502#reply0</guid></item><item><title>[职场话题] 发现还有 医疗期 规定，算是对生病友好的政策了</title><link>https://www.v2ex.com/t/997501#reply4</link><description>&lt;p&gt;身边有朋友生病要长期治疗，然后咨询家属，我才知道还有医疗期不能裁员的规定。&lt;/p&gt;
+&lt;p&gt;家属顺便写了个文章，科普下这里医疗期的概念，有需要的可以看看：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://selfboot.cn/2023/12/01/long_term_illness_lawer/" rel="nofollow"&gt;生病需要长期治疗不能工作？先看看医疗期的法律解读&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:12:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997501#reply4</guid></item><item><title>[问与答] 重读重来三部曲，这一次收获了什么</title><link>https://www.v2ex.com/t/997500#reply0</link><description>&lt;p&gt;程序员这个职业，或多或少都会了解到 37 Signals 这家公司，或者是 Rails 框架，或者是重来系列图书。&lt;/p&gt;
+&lt;p&gt;《重来》三部曲中的内容偶尔会出现在我的推特时间线中，最近再一次看到后就用睡前时间读完了第 3 本《跳出疯狂的忙碌》，接着又把之前的两本重温了一遍。&lt;/p&gt;
+&lt;p&gt;一次做一件事，是这次重读过程中的最大收获。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一次做一件事的意思，不是这件事做完，下一件事就飞快接上，然后再来处理第三件，而是说，一次投入好几个小时（一整天更好）去做一件大事。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;将重读过程的收获和思考更新到博客，&lt;a href="https://hagerhu.com/post/one-thing-at-a-time/" rel="nofollow"&gt;重来三部曲，一次只做一件事&lt;/a&gt;，记录下来的同时也分享出来。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 07:10:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997500#reply0</guid></item><item><title>[奇思妙想] 分享一个观点，可能存在错误</title><link>https://www.v2ex.com/t/997499#reply0</link><description>&lt;p&gt;分享一个观点，可能存在错误。我没有深入调查，但从我目前浏览过的博客来看，确实如此。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;存在时间比较长的博客一般都不会花里胡哨，他们在建博客的头两年已经花了大量时间，用于如何让自己的博客更加美观、漂亮，如何添加更多有趣的功能，这似乎是大多数博主会经历的一个环节。&lt;/p&gt;
+&lt;p&gt;主题、插件、功能等折腾完之后，有的人会静下心来打磨内容，渐而对博客的皮肤变得不太关注，而是转向简约、朴素，当然也有的人继续沉迷为博客换衣服，追求新鲜亮丽。&lt;/p&gt;
+&lt;p&gt;显然前者的博客会活得更久。&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Mon, 04 Dec 2023 07:08:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997499#reply0</guid></item><item><title>[问与答] 安卓 11+用什么屏蔽 app 广告，禁止 activity</title><link>https://www.v2ex.com/t/997498#reply0</link><description>用 thanox 和幸运禁止了，清除了数据，还是显示，很奇怪</description><pubDate>Mon, 04 Dec 2023 07:07:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997498#reply0</guid></item><item><title>[美酒与美食] 今天晚上久违的喝一次酒，打开视频带上耳机云蹦迪。🐶（NSFW！）</title><link>https://www.v2ex.com/t/997497#reply0</link><description>&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&amp;amp;t=73s</description><pubDate>Mon, 04 Dec 2023 07:04:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997497#reply0</guid></item></channel></rss>
