@@ -1,107 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Dec 2023 11:52:42 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[求职] 來個大佬，外包業務。做個過人臉軟體帶活體偵測，破逆協。</title><link>https://www.v2ex.com/t/997872#reply0</link><description>加微信 apppp6906</description><pubDate>Tue, 05 Dec 2023 11:50:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997872#reply0</guid></item><item><title>[程序员] 非标端口无域名权限有可能申请到证书吗？</title><link>https://www.v2ex.com/t/997871#reply0</link><description>&lt;p&gt;比如 阿里云的 IP 应用加速，给的 CNAME  是 &lt;a href="http://xxxx.XXXXX.xxx.w.kunlunhuf.com" rel="nofollow"&gt;xxxx.XXXXX.xxx.w.kunlunhuf.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;非 80/443 端口&lt;/p&gt;
-&lt;p&gt;对应端口上 搭建了 webserver ，不想用自己的域名的情况下，肯定也没有 .kunlunhuf.com 这个域名的管理权限，有可能 给这个 cname 地址申请到证书吗？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:47:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997871#reply0</guid></item><item><title>[Java] FeignClient 大佬们， Feign 下载文件怎么操作呢。</title><link>https://www.v2ex.com/t/997870#reply0</link><description>&lt;p&gt;A 服务是一个文件服务
-B 服务去请求 A 服务 API ，返回 ResponseEntity&amp;lt;FileSystemResource&amp;gt; 这种通过 Http 接口可以查看到图片，但是获取文件流失败，我要把文件流给传到别的服务里面去。&lt;/p&gt;
-&lt;p&gt;大佬们直接上代码👇🏻&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:47:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997870#reply0</guid></item><item><title>[买买买] 说经济下行，结果现在的手机动不动 4000</title><link>https://www.v2ex.com/t/997869#reply1</link><description>小米卖 4000 就算了&lt;br /&gt;红米也快到了 4000&lt;br /&gt;&lt;br /&gt;一加动不动也 4000&lt;br /&gt;&lt;br /&gt;华为就更吓人，一个 888 差不多的处理器近 6000&lt;br /&gt;778G 卖近 3000</description><pubDate>Tue, 05 Dec 2023 11:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997869#reply1</guid></item><item><title>[MacBook Pro] mac 用来双机推流，有什么采集卡推荐？</title><link>https://www.v2ex.com/t/997867#reply0</link><description>&lt;p&gt;mac 推流没办法用 pcie 采集卡，所以只能用外置采集卡。&lt;/p&gt;
-&lt;p&gt;价格不超 2K ，工作时工作噪音小的，最好能全球质保的。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:44:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997867#reply0</guid></item><item><title>[宽带症候群] 如何设计 OSPF 网络？</title><link>https://www.v2ex.com/t/997866#reply0</link><description>&lt;p&gt;已经实现的部分：&lt;/p&gt;
-&lt;p&gt;已经实现多个家庭宽带的互联互通，都是光猫桥接的 MikroTik 路由。如果有公网 IPv4 的，就通过 L2TP over IPSec 连接；如果只有 IPv6 的，就通过 GRE 连接；如果双栈网络的，就同时双栈隧道以作冗余。同时，只要运营商不做限制，尽量做到点对点隧道，减少中转，以提升网络访问质量。尽可能使路由之间全连接，建立多链路冗余对等网络。并根据运营商和自身需求来进行策略路由和 QoS 。&lt;/p&gt;
-&lt;p&gt;为了多链路冗余路由，使用了 OSPF 协议，已经成功配置，并且都划分为 Area 0 （区域 0 ）&lt;/p&gt;
-&lt;p&gt;现在的问题：&lt;/p&gt;
-&lt;p&gt;如何设计 OSPF 网络才能有更好的体验？多 Area 的规划应该参考什么？以什么来划分 OSPF 的区域？
-以及随之而来的路由表过滤问题？&lt;/p&gt;
-&lt;p&gt;当前自己的核心问题是，会配置 OSPF 网络，但是不知道如何设计/规划一个 OSPF 网络，包括 BGP 网络的设计与规划，家庭网络互联的 OSPF 有什么建议？以及想学习网络的设计与规划有什么好的资料吗？网上找的很多都是针对某品牌设备的具体配置过程，很少有列明一个网络需求，并教如何设计网络结构的。还请大佬们赐教。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:37:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997866#reply0</guid></item><item><title>[程序员] 最近 Google 问题有点多啊，搜索页不能翻页了，只能下拉自动加载。</title><link>https://www.v2ex.com/t/997865#reply0</link><description>&lt;h2&gt;最近 Google 问题有点多啊&lt;/h2&gt;
-&lt;p&gt;已经登录的账号，搜索页不能翻页了，只能下拉自动加载。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;这个拉不完的结果好难受啊，以前还可以先看第一页，回头看第二页，现在懵逼了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;又不是在移动端，这样操作真的好奇怪&lt;/strong&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;不知道是我的问题还是大家都这样。还是和 IP 有关。&lt;/p&gt;
-&lt;p&gt;快捷设置-更多-其他设置-连续滚动：&lt;strong&gt;即使关闭了，也只是不自动滚动，不能恢复翻页的搜索版式。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;前几天还有内存卡爆，chrome 卡死，还有一堆快速迭代引起的 devtools BUG ，Firefox 倒是很流畅，也不知道最近是咋了。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:28:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997865#reply0</guid></item><item><title>[微信] 微信小程序 商家会员系统</title><link>https://www.v2ex.com/t/997864#reply1</link><description>是这样的，各位大佬们，就自己家零食店，想弄个微信小程序，可以扫码支付，支付了加积分，有会员，可以积分，可以充值，充值额度有满赠功能。有啥现成的推荐吗 或者说有现成的框架 自己弄个服务器搭一套&lt;br /&gt;&lt;br /&gt;后端 java 出身 之前也搞过两个月微信小程序 忘得差不多了</description><pubDate>Tue, 05 Dec 2023 11:26:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997864#reply1</guid></item><item><title>[程序员] 编译 wireguard 的安卓客户端遇到点问题，开发语言是 Kotlin</title><link>https://www.v2ex.com/t/997863#reply1</link><description>&lt;h1&gt;wireguard 的安卓客户端&lt;/h1&gt;
-&lt;h1&gt;看看有没有大佬遇到过或者能解决；有偿求助&lt;/h1&gt;
-&lt;p&gt;#官方链接库地址：
-&lt;code&gt;&lt;a href="https://github.com/WireGuard/wireguard-android" rel="nofollow"&gt;https://github.com/WireGuard/wireguard-android&lt;/a&gt;&lt;/code&gt;&lt;br /&gt;
-#编译报错 Task failed with an exception.    &lt;/p&gt;
-&lt;h2&gt;日志如下，如果还需要其他信息请留言或者留下联系方式&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="1b538211a712c99048074cfc3c3f958.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/05/xtwpsEKyGcTQ7WX.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:18:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997863#reply1</guid></item><item><title>[程序员] [求助贴-Web-3D 开发方面] 有熟悉 WebGL 或相关基于浏览器 3D 开发方面内容的同学给点儿建议</title><link>https://www.v2ex.com/t/997862#reply0</link><description>&lt;h2&gt;需求&lt;/h2&gt;
-&lt;p&gt;建立一个 3D 的房间内部模型，主要内容包括：一套桌椅，一个射灯，若干的人物模型。&lt;/p&gt;
-&lt;h2&gt;交互&lt;/h2&gt;
-&lt;p&gt;用户可以拖动模型中的家具、射灯和人物&lt;/p&gt;
-&lt;h2&gt;重点&lt;/h2&gt;
-&lt;p&gt;用户改变模型位置之后，要能够导出最终的位置信息等（ json 格式），用于判断用户是否正确挪动了模型&lt;/p&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Dec 2023 14:54:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Java 使用 Jacob 调用 bartender 部署问题</title><link>https://www.v2ex.com/t/997910#reply0</link><description>&lt;p&gt;java 前后端分离项目
+java 使用 Jacob 调用 bartender 使用模板打印时，部署 jar 到服务器上，模板是在服务器上，然后打印的时候调用的是服务器上的打印机，怎么样实现使用客户本地的打印机打印呢？据我了解 c#调用 bartender 是基于 cs 架构的，java 这种前后端分离的 bs 架构可以实现么？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 14:34:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997910#reply0</guid></item><item><title>[问与答] 强留一块 几乎不可能融入现代社会的地方 是 小善，还是 大善， 还是 小恶</title><link>https://www.v2ex.com/t/997908#reply3</link><description>&lt;p&gt;现代社会中，部分地方，比如山区里，偏远农村里，几乎不可能融入现代社会，如果强留，只会导致投入越来越多，而且可预见的是他们只会在未来消失。例如最近新闻 四川大凉山里的，感觉跟现代社会是两个世界一般。那么强留这些地方，是真正的 小善，还是 大善， 还是 小恶？&lt;/p&gt;
+&lt;p&gt;在针对这个问题上，希望诸位能够思考一下，究竟什么是最好的选择，什么是人道的选择等等之类的，毕竟空谈，那就用用脑子，想想优点+缺点，多角度来考虑考虑问题&lt;/p&gt;
+&lt;p&gt;抛砖引玉一下，比如：强留这些地方，是站在目前来说，对于生活在这些地方的人做了人道的选择，但是无法改变他们的生活方式，而且他们有下一代，将继续重复他们的生活，循环往复，一时是人道主义，长远还是人道主义吗？另一种就是在判断没有任何开发/利用价值后，强制搬迁，但他们的下一代轻松融入现代社会中，这样一时是 恶 ，长远还是 恶 吗？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 14:30:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997908#reply3</guid></item><item><title>[宽带症候群] 如何诊断这个 DNS 解析的问题？过三层 proxyDNS 之后个别域名无法解析了</title><link>https://www.v2ex.com/t/997905#reply2</link><description>&lt;h1&gt;一句话描述问题&lt;/h1&gt;
+&lt;p&gt;H3C 的三层作为 DNS 的 proxy ，无法解析一些特定的域名，比如 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在三层上无法 ping 这个 ip ，但是直接向上游查询解析是 ok 的。&lt;/p&gt;
+&lt;h1&gt;网络拓扑&lt;/h1&gt;
+&lt;p&gt;PC:&lt;/p&gt;
+&lt;p&gt;192.168.0.100/24,gatway=192.168.0.50,vlan=20,access&lt;/p&gt;
+&lt;p&gt;H3C 三层：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;vlan20 ip=192.168.0.50/24&lt;/li&gt;
+&lt;li&gt;vlan600 ip=10.0.0.50/24&lt;/li&gt;
+&lt;li&gt;静态路由下一跳=10.0.0.60&lt;/li&gt;
+&lt;li&gt;dns 代理开启&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;dns proxy enable
+dns server 10.0.0.60
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;dhcp server 开启&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;iKuai:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;lan1=10.0.0.20/24&lt;/li&gt;
+&lt;li&gt;静态路由:192.168.0.0/16 via 10.0.0.50 回程配置&lt;/li&gt;
+&lt;li&gt;dns 配置阿里云的 DoH(223.5.5.5)&lt;/li&gt;
+&lt;li&gt;配置双击热备,VIP=10.0.0.60&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;在 pc 上的测试&lt;/h1&gt;
+&lt;h2&gt;正常域名：百度&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;dig &lt;a href="http://baidu.com" rel="nofollow"&gt;baidu.com&lt;/a&gt;&lt;/code&gt; 正常&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @192.168.0.50 &lt;a href="http://baidu.com" rel="nofollow"&gt;baidu.com&lt;/a&gt;&lt;/code&gt; 正常 via 三层&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.50 &lt;a href="http://baidu.com" rel="nofollow"&gt;baidu.com&lt;/a&gt;&lt;/code&gt; 正常  via 三层&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.20 &lt;a href="http://baidu.com" rel="nofollow"&gt;baidu.com&lt;/a&gt;&lt;/code&gt; 正常  via 爱快&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.60 &lt;a href="http://baidu.com" rel="nofollow"&gt;baidu.com&lt;/a&gt;&lt;/code&gt; 正常  via 爱快 VIP&lt;/p&gt;
+&lt;h2&gt;异常域名：&lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;dig &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/code&gt; 不正常&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @192.168.0.50 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/code&gt; 不正常 via 三层&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.50 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/code&gt; 不正常  via 三层&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.20 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/code&gt; 正常  via 爱快&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dig @10.0.0.60 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt;&lt;/code&gt; 正常  via 爱快 VIP&lt;/p&gt;
+&lt;h1&gt;在三层上 telnet 的测试&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;H3C&amp;gt;ping baidu.com
+Ping baidu.com (39.156.66.10): 56 data bytes, press CTRL_C to break
+56 bytes from 39.156.66.10: icmp_seq=0 ttl=55 time=7.154 ms
+56 bytes from 39.156.66.10: icmp_seq=1 ttl=55 time=6.585 ms
+56 bytes from 39.156.66.10: icmp_seq=2 ttl=55 time=6.816 ms
+56 bytes from 39.156.66.10: icmp_seq=3 ttl=55 time=6.693 ms
+56 bytes from 39.156.66.10: icmp_seq=4 ttl=55 time=6.885 ms
+
+--- Ping statistics for baidu.com ---
+5 packet(s) transmitted, 5 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 6.585/6.827/7.154/0.193 ms
+&amp;lt;H3C&amp;gt;ping home.console.aliyun.com
+ping: Unknown host.
+&amp;lt;H3C&amp;gt;ping www.aliyun.com
+Ping www.aliyun.com (111.62.160.100): 56 data bytes, press CTRL_C to break
+56 bytes from 111.62.160.100: icmp_seq=0 ttl=55 time=16.770 ms
+56 bytes from 111.62.160.100: icmp_seq=1 ttl=55 time=16.701 ms
+56 bytes from 111.62.160.100: icmp_seq=2 ttl=55 time=17.034 ms
+56 bytes from 111.62.160.100: icmp_seq=3 ttl=55 time=16.447 ms
+56 bytes from 111.62.160.100: icmp_seq=4 ttl=55 time=17.285 ms
+
+--- Ping statistics for www.aliyun.com ---
+5 packet(s) transmitted, 5 packet(s) received, 0.0% packet loss
+round-trip min/avg/max/std-dev = 16.447/16.847/17.285/0.288 ms
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;&lt;a href="http://www.aliyun.com" rel="nofollow"&gt;www.aliyun.com&lt;/a&gt; 的 dns 解析和 &lt;a href="http://home.console.aliyun.com" rel="nofollow"&gt;home.console.aliyun.com&lt;/a&gt; 的解析的区别&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;root@port:/etc/nginx/sites-enabled# dig @10.0.0.60 home.console.aliyun.com
+;; Warning: Client COOKIE mismatch
+
+; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.18.12-0ubuntu0.22.04.3-Ubuntu &amp;lt;&amp;lt;&amp;gt;&amp;gt; @10.0.0.60 home.console.aliyun.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 3431
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 83b36405866ca8bc (bad)
+;; QUESTION SECTION:
+;home.console.aliyun.com.       IN      A
+
+;; ANSWER SECTION:
+home.console.aliyun.com. 37     IN      CNAME   one-console-adns.console.aliyun.com.
+one-console-adns.console.aliyun.com. 37 IN CNAME one-console-adns.console.aliyun.com.gds.alibabadns.com.
+one-console-adns.console.aliyun.com.gds.alibabadns.com. 37 IN CNAME sh.wagbridge.aliyun.aliyun.com.
+sh.wagbridge.aliyun.aliyun.com. 37 IN   CNAME   aliyun-adns.aliyun.com.
+aliyun-adns.aliyun.com. 37      IN      CNAME   aliyun-adns.aliyun.com.gds.alibabadns.com.
+aliyun-adns.aliyun.com.gds.alibabadns.com. 37 IN A 140.205.135.3
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.60#53(10.0.0.60) (UDP)
+;; WHEN: Tue Dec 05 22:20:59 CST 2023
+;; MSG SIZE  rcvd: 537
+
+root@port:/etc/nginx/sites-enabled# dig @10.0.0.60 www.aliyun.com
+
+; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.18.12-0ubuntu0.22.04.3-Ubuntu &amp;lt;&amp;lt;&amp;gt;&amp;gt; @10.0.0.60 www.aliyun.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 50166
+;; flags: qr rd ra; QUERY: 1, ANSWER: 19, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;www.aliyun.com.                        IN      A
+
+;; ANSWER SECTION:
+www.aliyun.com.         245     IN      CNAME   www-jp-de-intl-adns.aliyun.com.
+www-jp-de-intl-adns.aliyun.com. 245 IN  CNAME   www-jp-de-intl-adns.aliyun.com.gds.alibabadns.com.
+www-jp-de-intl-adns.aliyun.com.gds.alibabadns.com. 245 IN CNAME www.aliyun.com.w.cdngslb.com.
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.210.193
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.209.196
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.209.192
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.209.194
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.209.197
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.210.189
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.210.188
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.32.210.192
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.96
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.94
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.98
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.97
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.95
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.99
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.93
+www.aliyun.com.w.cdngslb.com. 245 IN    A       111.62.160.100
+
+;; Query time: 0 msec
+;; SERVER: 10.0.0.60#53(10.0.0.60) (UDP)
+;; WHEN: Tue Dec 05 22:21:05 CST 2023
+;; MSG SIZE  rcvd: 989
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;一些分析和猜测&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;和爱快的 vip 无关，我试着把三层的 proxy ip 改为 10.0.0.20 ，问题依旧&lt;/li&gt;
+&lt;li&gt;既然三层负责 dhcp ，理论上下发的 dns 地址也是三层的 vlanip 为好，虽然 dns 写爱快的 vip 能解决问题&lt;/li&gt;
+&lt;li&gt;怀疑和 dns 解析结果有关系？比如包长什么的？&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 05 Dec 2023 14:23:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997905#reply2</guid></item><item><title>[问与答] XDM, 求推荐一款原生安卓模拟器，蓝 X,MUMU 啥的里面内置的太多了。</title><link>https://www.v2ex.com/t/997904#reply1</link><description></description><pubDate>Tue, 05 Dec 2023 14:16:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997904#reply1</guid></item><item><title>[问与答] 大龄已婚人士，大家日常生活咋过的</title><link>https://www.v2ex.com/t/997903#reply3</link><description>（这是隔壁 &lt;a href="https://www.v2ex.com/t/997682" rel="nofollow noopener" target="_blank"&gt;/t/997682&lt;/a&gt; 的镜像问题）</description><pubDate>Tue, 05 Dec 2023 14:15:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997903#reply3</guid></item><item><title>[程序员] 如何做好一次技术调研？</title><link>https://www.v2ex.com/t/997902#reply1</link><description>&lt;p&gt;请教各位大佬，一般情况下要怎么去做好技术调研？比如当前有一个日志收集场景，一般都会推荐 elk ，但是又有 clickhouse 比较新的技术栈，所以应该怎么样做好一次技术调研？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 14:13:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997902#reply1</guid></item><item><title>[分享发现] 分享一个虚拟卡开卡平台,可开 1000 张卡/月,支持 chatgpt,电商,google 等</title><link>https://www.v2ex.com/t/997901#reply0</link><description>&lt;p&gt;新虚拟卡平台,可以每月开 1000 张虚拟卡&lt;/p&gt;
+&lt;p&gt;支持场景很多.比如 chatgpt,FaceBook Ads(fb 投流)、TikTok 、Google Ads 、SMS-ACTIVATE 、AMAZON 、applepay 、MJ 、googlepay 、giffgaff 、淘宝国际、香港 paypal 、Linepay 、Netflix 等。&lt;/p&gt;
+&lt;p&gt;开卡费 1U,通过领券,可以抵扣 vip 套餐和开卡费.费率 2%.&lt;/p&gt;
+&lt;p&gt;通过链接注册可以领券 10.8U 领券抵扣 vip 套餐和开卡费 (也可以自己注册不走链接,但是没有领券)
+&lt;a href="https://vc.fyetd.com/vc_web/main.html#/login?inNo=vthgmp" rel="nofollow"&gt;https://vc.fyetd.com/vc_web/main.html#/login?inNo=vthgmp&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;支持 usdt 充值.开卡充值 10U,可直接在开内消费没有损耗.&lt;/p&gt;
+&lt;p&gt;卡的介绍在 &lt;a href="https://youtu.be/ADg58HHst3g" rel="nofollow"&gt;https://youtu.be/ADg58HHst3g&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 14:12:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997901#reply0</guid></item><item><title>[Apple] 纯计算机小白求解惑，每个软件的缓存和账号挂钩吗？</title><link>https://www.v2ex.com/t/997900#reply1</link><description>比如一些视频软件，换个账号登陆清除缓存会清除原来账号的缓存吗？还是说一个软件的缓存和账号无关，相当于软件有一个类似回收站的垃圾区，删除的时候和账号信息无关</description><pubDate>Tue, 05 Dec 2023 14:05:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997900#reply1</guid></item><item><title>[酷工作] [深圳南山前海]windows 客户端开发 [15-25K]</title><link>https://www.v2ex.com/t/997899#reply0</link><description>1. 开发基于 windows 平台的客户端（ toB ）&lt;br /&gt;2. 开发语言不限（一般应该是 c#、c++）&lt;br /&gt;3. 熟练使用 http 协议请求（并发请求、HTTP 代理、超时、重试、模拟登陆等）&lt;br /&gt;4.会调用 DLL ，执行里面的方法来进行读卡，获取信息&lt;br /&gt;5. 5 年以上客户端开发经验&lt;br /&gt;6. 有浏览器控件、套壳开发经验优先&lt;br /&gt;7. 有爬虫经验优先</description><pubDate>Tue, 05 Dec 2023 14:04:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997899#reply0</guid></item><item><title>[macOS] vim/neovim 中无法使用 F4 或 ctrl+grave 切换 schema</title><link>https://www.v2ex.com/t/997898#reply0</link><description>&lt;p&gt;macOS ventura 13.14 ，鼠须管最新版本，iterm2 终端下，vim/neovim 中的 insert 模式下，无法使用 F4 或 ctrl+grave 切换 schema 。这个有办法解决么？
+另外，请教下怎么查看鼠须管的版本？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:51:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997898#reply0</guid></item><item><title>[iPhone] iPhone 海外抖音直播挂回国代理也没办法播怎么办？</title><link>https://www.v2ex.com/t/997897#reply1</link><description>&lt;p&gt;13pro max&lt;/p&gt;
+&lt;p&gt;回国代理用的 quickfox&lt;/p&gt;
+&lt;p&gt;前几个月挂上回国代理就能播了，现在挂代理也不行了，如图&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/vloz6k97.png" /&gt;&lt;/p&gt;
+&lt;p&gt;请问老哥们还有什么解决办法吗？&lt;/p&gt;
+&lt;p&gt;ps 快手不挂代理直接就能播...&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:50:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997897#reply1</guid></item><item><title>[分享发现] 如何看待交警冲业绩这一行为</title><link>https://www.v2ex.com/t/997896#reply10</link><description>&lt;p&gt;并非我故意诋毁。发现交警有业绩压力这事应该不是假的。&lt;/p&gt;
+&lt;p&gt;上学的时候，上班的时候，在一些并不是很堵塞或者重要的地方，交警总是会呆在那个点卡人。要么你没带头盔，要么找你一些小毛病。感觉不是来为人民服务的，是来给人民挑刺的。&lt;/p&gt;
+&lt;p&gt;有一次走 T 型路，我骑小电驴从最边上走，3 米的距离内有一个红绿灯，我没看到。因为是 T 型结构小路。所以也比较安全。没想到前面的交警要以这个原因扣款。当时刚好是月底的时候。&lt;/p&gt;
+&lt;p&gt;再比如说戴头盔这件事，戴头盔确实是好的。但是头盔也很笨重，戴起来舒适感总是要打折扣的。尤其对一些颈椎不好的人，对颈椎的压力也不小。出远门要求带一下就算了。如果只是出门一两公里，也要强迫携带，不带就扣款罚款。难道连头盔这件事也一定要被管制的这么严吗。带不带头盔的选择权利也没有？？&lt;/p&gt;
+&lt;p&gt;其实我还是支持出行最好带头盔的。但是有时候重了对颈椎不舒服。交警的这种往路上一堵，卡在那批量罚钱也让人感觉很不好。而且有时候看到前面有交警在，有时候还忙中出乱，急刹急停，容易发生意外。今天就急停了一下，轮胎卡在减速带上，启动的时候差点摔倒了。。。&lt;/p&gt;
+&lt;p&gt;之前还发生过一个比较严重的事件。出了比较重的意外事故，半夜赶路，车撞到了急转弯处的栏杆。汽车几乎报废。保险公司让我报警鉴定事故。结果来了之后，交警唯一做的事情是罚了 200 块钱，扣了 2 分。。。我还以为报警会帮助我叫拖车公司过来还是什么。。。结果只是来罚钱的。罚完钱就走了。。。&lt;/p&gt;
+&lt;p&gt;后面看到网络上讨论，才知道有时候一些跑重卡的，搬运货物的，正常都会有一些普遍的问题。有时候交警会故意找茬来罚款。然后博主说当时他在驾驶证里塞了几张红钞票，就没事了。现在看来我当时就缺乏这样的意识。单纯地以为警察就是来解决困难，处理麻烦的。但是以上种种事件看来，有时候只是制造麻烦，增加管理。甚至都不是奔着解决问题来的。。。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:48:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997896#reply10</guid></item><item><title>[Android] 谁有李跳跳的安装包呀？</title><link>https://www.v2ex.com/t/997895#reply7</link><description>换了手机李跳跳的 apk 没了&lt;br /&gt;或者现在推荐什么去广告啊？</description><pubDate>Tue, 05 Dec 2023 13:37:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997895#reply7</guid></item><item><title>[分享创造] [八字排盘] 第一版本网站上线，有同道易友可以抢先体验哈~</title><link>https://www.v2ex.com/t/997894#reply3</link><description>&lt;p&gt;大家好，&lt;/p&gt;
+&lt;p&gt;我想向大家介绍一个令人兴奋的新项目 - 花费了 一个月的时间，琢磨研究了一个八字排盘的软件，第一个版本先上线了八字排盘的功能！  [后续 一遍学习 一遍分享从 0-1 拿下八字相关的] &lt;/p&gt;
+&lt;p&gt;主站点： &lt;a href="https://bazi.run" rel="nofollow"&gt;https://bazi.run&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;兼容手机端和电脑端，结合者市面上一些常用的做了最终的 UI 布局操作&lt;/p&gt;
+&lt;p&gt;主要功能&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[排盘板块]  &lt;/li&gt;
+&lt;li&gt;[博主的 0-1 学习经验] &lt;/li&gt;
+&lt;li&gt;[八字相关资源在线浏览] 解析一些汇总的 pdf&lt;/li&gt;
+&lt;li&gt;[ 1000 条案例分析大全]
+目前想起来的主要这四个板块的内容，后续进行迭代更新！&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 05 Dec 2023 13:32:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997894#reply3</guid></item><item><title>[分享发现] 郭文景好厉害</title><link>https://www.v2ex.com/t/997891#reply1</link><description>&lt;p&gt;人又好看 纯净的样子…&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:25:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997891#reply1</guid></item><item><title>[分享发现] 分享个小玩意——《RustDesk Api Server web》</title><link>https://www.v2ex.com/t/997890#reply2</link><description>&lt;img class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/kingmo888/rustdesk-api-server/main/images/front_main.png" /&gt;
+&lt;p&gt;&lt;a href="https://github.com/kingmo888/rustdesk-api-server" rel="nofollow" title="github 直达"&gt;rustdesk-api-server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;功能：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;用什么框架比较合适？（要求简单、好上手）&lt;/li&gt;
-&lt;li&gt;有没有合适的 demo 可以做二次开发？&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 05 Dec 2023 11:13:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997862#reply0</guid></item><item><title>[奇思妙想] 有没有一个能够跟踪观点和逻辑的社区？</title><link>https://www.v2ex.com/t/997861#reply3</link><description>&lt;p&gt;我们每天都生活在一个噪音海洋里，我们的脑子每天要摄取非常多的观点（其中，绝大部分可能是口嗨和毫无根据的逻辑），这些严重干扰了我们的认知。但是我们没办法改变这个大环境，大家乐于表达自己的观点我觉得是好事，只要不违法，想说什么都是自己的自由。但是有没有一个社区，能够跟踪大家表达观点，然后在未来某一天回过头来复盘这个观点。我觉得无论一个观点在未来能否被证实，这次复盘的意义都非常大，如果你的观点是对的，那复盘之后你思考问题的方法论可以更加笃定，如果观点不能被验证的话，复盘过程中也可以修正自己思考问题逻辑。&lt;/p&gt;
-&lt;p&gt;不清楚目前有没有类似的产品，如果没有，没有人愿意一起来构建一个这样的社区呢（可以做一个开源的项目）？&lt;/p&gt;
-&lt;h3&gt;为什么非常想要有这样一个社区？&lt;/h3&gt;
-&lt;p&gt;因为微博已经没法看了，知乎还有一些高质量观点，但是现在也有非常多长篇大论的废话，至于小红书之类的我觉得和微博应该差不多。&lt;/p&gt;
-&lt;p&gt;可以通俗的理解这个社区，它可能就是一个立 flag 的圈子。比如我针对未来 3 个月会发生的某个事情表发一个观点，或者立一个 flag ，中途我会和其他人一起探讨这个观点，可能一个不确定的事情，随着时间的推移，确定性越来越高，你再回溯你自己的观点，看看自己的认知到底哪里出了问题。我觉得这一过程非常非常非常提升认知。&lt;/p&gt;
-&lt;h3&gt;我脑海中的这个社区是怎么样的&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;大家可以每天发表一条（最多一条）自己的观点，无所谓是什么，字数必须简短（避免长篇大论）&lt;/li&gt;
-&lt;li&gt;每个用户最多发表 10 条观点，但是可以每天为自己之前发表的观点增加论据&lt;/li&gt;
-&lt;li&gt;每一个观点可以有正方论据和反方论据（其他用户添加）&lt;/li&gt;
-&lt;li&gt;用户可以评论别人的观点，但是每天也只能评论一次，1 小时内允许修改一次&lt;/li&gt;
-&lt;li&gt;每一个观点和论据都通过时间线来维护，一个观点需要有一个截止日期，到期之后论点和论据都封存，只能阅览&lt;/li&gt;
+&lt;li&gt;支持前台网页自主注册和登录。&lt;/li&gt;
+&lt;li&gt;注册页与登录页：&lt;/li&gt;
+&lt;li&gt;支持前台展示设备信息，分为管理员版、用户版。&lt;/li&gt;
+&lt;li&gt;支持自定义别名（备注）。&lt;/li&gt;
+&lt;li&gt;支持后台管理。&lt;/li&gt;
+&lt;li&gt;支持彩色标签。&lt;/li&gt;
+&lt;li&gt;支持设备在线统计。&lt;/li&gt;
+&lt;li&gt;支持设备密码保存。&lt;/li&gt;
+&lt;li&gt;利用心跳接口自动管理 token 并保活。&lt;/li&gt;
+&lt;li&gt;支持分享设备给其他用户（本功能暂未实现）。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;建一个 vx 群，有类似想法的朋友可以一起来交流（二维码在我博客里，v2 不好贴图）&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.tiangua.info/blog/ec55cc44-e260-4622-8d2a-69012d04a67e/%E6%9C%89%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%83%BD%E5%A4%9F%E8%B7%9F%E8%B8%AA%E8%A7%82%E7%82%B9%E5%92%8C%E9%80%BB%E8%BE%91%E7%9A%84%E7%A4%BE%E5%8C%BA%EF%BC%9F" rel="nofollow"&gt;博客里有群二维码&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:09:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997861#reply3</guid></item><item><title>[程序员] 据说是华为旗下推出的前端框架 openinula.net</title><link>https://www.v2ex.com/t/997860#reply0</link><description>&lt;p&gt;学不完根本学不完啊&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:00:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997860#reply0</guid></item><item><title>[问与答] 婚礼视频有些不满意，请问可以抠图换背景之类魔改么</title><link>https://www.v2ex.com/t/997858#reply3</link><description>户外的，比如有些镜头里的马路，草地有些地方不饱满，这种能修复么，价格普通人能接受么。</description><pubDate>Tue, 05 Dec 2023 10:55:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997858#reply3</guid></item><item><title>[酷工作] 不卷外企 Kong 招前端开发，产品经理， Mesh 开发啦</title><link>https://www.v2ex.com/t/997857#reply0</link><description>&lt;p&gt;Kong 中国研发中心招聘：Insomnia 产品高级前端开发工程师，Service Mesh 研发和支持工程师 ，APM 产品经理等职位，可以 base 北京或者上海，HC 多多，欢迎投递英文简历。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/77117176-c7d3-40c7-971c-dbd8a093b133.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;企业介绍：&lt;/p&gt;
-&lt;p&gt;Kong 是一家总部在美国硅谷的全球企业，在 API 管理市场，连续四年被 Gartner 评为领导者地位。Kong 在中国的上海和北京设有研发中心。&lt;/p&gt;
-&lt;p&gt;中国求职者请直接将您的英文简历发往 HR 邮箱： &lt;a href="mailto:chitty.li@konghq.com"&gt;chitty.li@konghq.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:46:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997857#reply0</guid></item><item><title>[音乐] ㊙️ 我宣布，国内最好的音乐 APP 是酷狗</title><link>https://www.v2ex.com/t/997856#reply0</link><description>&lt;p&gt;酷狗概念版，UI 不错，没有乱七八糟的直播、社交功能。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;曲库版权跟 QQ 音乐对齐。&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;网易云&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;卸载挺久了，版权少，还总是给我推荐一些不入流的网络翻唱。听你唱还不如我自己唱。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;QQ 音乐&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;每天打开都要重新登陆，你恶心不恶心？有手机、电脑、平板、车机，这里登了那里就得重新登陆。最近每次打开 mac 版本都要我扫码，还不给我手机号登陆。&lt;/p&gt;
-&lt;p&gt;APP 内还有乱七八糟的功能，密密麻麻的排版，我只想听歌罢了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Apple Music&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;曲库略少，偶尔想换个口味，推荐功能基本算没有，在车机上很难用。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;下载 APP 还要其他区的 apple id ，更新也麻烦，订阅价格贵，没歌词（基本算没有了）。客户端是套壳的 electron 吧，听难用的。推荐的歌都挺不错。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:46:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997856#reply0</guid></item><item><title>[音乐] 好想学萨克斯🎷，有没有大佬指导下</title><link>https://www.v2ex.com/t/997855#reply1</link><description>&lt;p&gt;本人非音乐专业，工作一年后想培养下爱好，觉得萨克斯非常有意思&lt;/p&gt;
-&lt;p&gt;想知道应该如何入门？需要报班吗？&lt;/p&gt;
-&lt;p&gt;目标我现在不是特别清楚，我对流行乐、爵士感兴趣，但是既然想玩肯定想要玩点名堂，就是不知道考级对我的兴趣有无帮助？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:44:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997855#reply1</guid></item><item><title>[酷工作] 内推 iOS 工程师 公司福利好不卷</title><link>https://www.v2ex.com/t/997854#reply0</link><description>我们公司在招 iOS ，15 薪不卷不加班，薪资还可以，地点国贸附近高级写字楼，福利：不低于字节水平的免费三餐、零食水果饮料、补充商业保险、公积金社保全额缴纳、每年免费体检、M1 MacBook pro 。 我这边基本 7 点吃晚饭没事吃完就可以走了，早上 10:30 到，中午 2 小时休息，很少加班。有找 iOS 职位的可以发我简历我给 HR ，我还可以拿内推奖励，邮箱 base64: bGl5dW5sb25nQHAxLmNvbQ==</description><pubDate>Tue, 05 Dec 2023 10:43:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997854#reply0</guid></item><item><title>[服务器] 收腾讯无忧 125，有的大佬出出呀</title><link>https://www.v2ex.com/t/997853#reply0</link><description>&lt;p&gt;收腾讯轻量无忧 1 核 2G5M 配置
-有想出的大佬联系我呀
-TG: @&lt;a href="https://www.v2ex.com/member/okdoing"&gt;okdoing&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:42:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997853#reply0</guid></item><item><title>[V2EX] 请教：使用 V2EX 的开放接口获取数据，二次加工后商业化，可以被站长允许吗</title><link>https://www.v2ex.com/t/997852#reply0</link><description>&lt;p&gt;想做一个 V2EX 编辑精选之类的东西&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:42:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997852#reply0</guid></item><item><title>[Visual Studio Code] vscode 贴合开发、生产实用的玩法你知道的有哪些？</title><link>https://www.v2ex.com/t/997849#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;可以下载一些连字字体代码阅读效果可以更好&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;自定义布局，把设置、账户设置到窗口栏旁边，工具栏可以隐藏，工具栏放在源代码栏上方三个横线那里&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;git 相关工具&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ssh,docker 远程连接服务器&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ctrl p 搜索文件 ctl shift p 执行命令 ctr g ctl t ctr f ctr shift f&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;把 vscode PowerShell 终端文件路径缩短到当前目录&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;数据库相关插件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;codeium 免费，因为 Claude GPT 还有 GitHub copilot 要钱&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;leekfund 股票趋势&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;还有哪些有用的技巧？&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 05 Dec 2023 10:20:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997849#reply0</guid></item></channel></rss>
+&lt;p&gt;希望对大家有用，如果没用，我尽力了，就这么点能耐。。。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:24:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997890#reply2</guid></item><item><title>[问与答] pixelbook 2017 有 win11 的声卡驱动吗？</title><link>https://www.v2ex.com/t/997889#reply0</link><description>都弄好礼了 就差声卡了</description><pubDate>Tue, 05 Dec 2023 13:22:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997889#reply0</guid></item><item><title>[宽带症候群] 坐标上海，企业之间点对点数据通信，大概多少价格？</title><link>https://www.v2ex.com/t/997887#reply2</link><description>不考虑 SD-WAN 方案，因为流量审计需要，另一个分支点流量需要全部饶总公司走。 分支点、总公司都在上海本地。&lt;br /&gt;&lt;br /&gt;1 、三家来说，是不是移动最低？&lt;br /&gt;&lt;br /&gt;2 、大概是多少价格？&lt;br /&gt;&lt;br /&gt;如果能做的可以留 V ，谢谢！</description><pubDate>Tue, 05 Dec 2023 13:13:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997887#reply2</guid></item><item><title>[Apple] macOS 上有没有什么能方便的备份单独某个应用数据的工具？</title><link>https://www.v2ex.com/t/997886#reply1</link><description></description><pubDate>Tue, 05 Dec 2023 13:12:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997886#reply1</guid></item><item><title>[程序员] 关于 AI 生成遗失孩子若干年后照片</title><link>https://www.v2ex.com/t/997885#reply2</link><description>&lt;p&gt;起源，看到最近找到被拐卖的新闻，小的时候被拐，找回都成人了。拿着小时候的照片来找孩子确实有难，所以，能使用 AI 来模拟现在的样子。比如，孩子在 15 年前遗失，只要提供孩子当时的照片和性别（可在增加父母的支票）按时间来生成当前的样子，或许对找到孩子有一定帮助。&lt;/p&gt;
+&lt;p&gt;技术问题，我只是一个后端，没开发过生成式 AI 系统。&lt;/p&gt;
+&lt;p&gt;1.自己学习开发？
+2.把照片数据丢给 chat ？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 13:12:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997885#reply2</guid></item></channel></rss>
