@@ -1,46 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 06 Dec 2023 09:30:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenAI] 基于 ChatGPT API 封装了一个在线网站</title><link>https://www.v2ex.com/t/998132#reply0</link><description>&lt;p&gt;基于 &lt;a href="https://github.com/Chanzhaoyu/chatgpt-web" rel="nofollow"&gt;chatgpt-web&lt;/a&gt; 和 ChatGPT API 封装了一个在线网站  &lt;a href="http://ai.metaatem.cn/" rel="nofollow"&gt;http://ai.metaatem.cn&lt;/a&gt; 希望对大家有所帮助。&lt;/p&gt;
-&lt;h2&gt;功能&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 06 Dec 2023 23:53:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[随想] 人生没有一帆风顺，总是频频遇到错误的</title><link>https://www.v2ex.com/t/998228#reply0</link><description>&lt;p&gt;就像一件板上钉钉的事，遇到了莫名其妙的错。像突然连不上网的电脑，像买想要的东西时下单出错，大多数情况你也不知道哪里出错了，但就是没办法解决，也只能被迫接受。这就是人生，也是负能量最大的来源。如果一生一帆风顺的次数比遇到错误更多，那就是完美的人生。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 23:43:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998228#reply0</guid></item><item><title>[Google] Bard 在集成 Gemini 之后，实际用起来怎么样？官方宣称全面超越 GPT4</title><link>https://www.v2ex.com/t/998226#reply4</link><description>&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&lt;br /&gt;官方宣称全面超越 GPT4&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/qPuKuYx.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/qPuKuYx.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://deepmind.google/technologies/gemini" rel="nofollow noopener" target="_blank"&gt;https://deepmind.google/technologies/gemini&lt;/a&gt;</description><pubDate>Wed, 06 Dec 2023 23:17:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998226#reply4</guid></item><item><title>[Android] 求大佬推荐手机</title><link>https://www.v2ex.com/t/998224#reply0</link><description>&lt;p&gt;想要一个安卓手机&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;PC &amp;amp; 移动 支持&lt;/li&gt;
-&lt;li&gt;支持登录&lt;/li&gt;
-&lt;li&gt;高度关注隐私保护: 我并不会存储您的聊天记录，一切都是本地&lt;/li&gt;
-&lt;li&gt;免费使用次数&lt;/li&gt;
-&lt;li&gt;更加简洁的 UI&lt;/li&gt;
+&lt;li&gt;有国外系统: 想刷机成国外系统&lt;/li&gt;
+&lt;li&gt;续航越长越好&lt;/li&gt;
+&lt;li&gt;想相对比较轻：不需要很多很夸张的散热新特性啥的&lt;/li&gt;
+&lt;li&gt;（信号不错）&lt;/li&gt;
+&lt;li&gt;尽量不要小米: 感觉系统 bug 太多&lt;/li&gt;
+&lt;li&gt;无处理器要求: 只要求保证续航下 普通性能即可，我根本不玩游戏 不需要高级处理器和散热&lt;/li&gt;
+&lt;li&gt;无相机要求: 只是不喜欢手机摄影&lt;/li&gt;
+&lt;li&gt;无特别明确预算，因为我对处理器和摄影没有要求&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;未来&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ChatGPT4 支持&lt;/li&gt;
-&lt;li&gt;语音转文字&lt;/li&gt;
-&lt;li&gt;支持文本生成图像： 目前作者已申请到 DALL-E 的权限，后续将根据需要开放给部分有需要用户&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 06 Dec 2023 09:29:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998132#reply0</guid></item><item><title>[Apple] mac app 全屏 菜单栏不显示，并且占用空间的问题</title><link>https://www.v2ex.com/t/998131#reply1</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ta1b1rK.png" /&gt; 如图所示，大家遇到过这种问题吗？今天不知道怎么回事，感觉全屏怪怪的 仔细一看是和平时不一样，我怀疑是用了 bartender5 导致的&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 09:26:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998131#reply1</guid></item><item><title>[宽带症候群] 广州电信宽带，拨号拿不到公网 IPV6</title><link>https://www.v2ex.com/t/998130#reply3</link><description>&lt;p&gt;&lt;a href="https://v2ex.com/t/996692#reply32" rel="nofollow"&gt;https://v2ex.com/t/996692#reply32&lt;/a&gt;
-上次电信偷偷把我的宽带的 IPV4 地址改为 100.64.*.*之类的 NAT 地址，今天心想没有公网 IPV4,至少给个公网 IPV6 吧。打 10000 保修，客服根本不知道啥叫 IPV6,只会说只有升级套餐可以有公网 IP 。然后分配的维修师傅也不知道 IPV6 的存在......&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 09:24:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998130#reply3</guid></item><item><title>[iCloud] Sonoma 14.1.2 iCloud 总是无法同步（卡住）如何解决？</title><link>https://www.v2ex.com/t/998129#reply1</link><description>找了很多方法还是无解&lt;br /&gt;重启系统&lt;br /&gt;强杀进程&lt;br /&gt;&lt;br /&gt;killall bird&lt;br /&gt;killall cloudd&lt;br /&gt;&lt;br /&gt;美区 iCloud&lt;br /&gt;很早就同意了 iCloud 条款</description><pubDate>Wed, 06 Dec 2023 09:17:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998129#reply1</guid></item><item><title>[问与答] 不常用银行卡 3000 的限额很不友好！你经历了吗</title><link>https://www.v2ex.com/t/998128#reply0</link><description>&lt;p&gt;吐嘈一下各个银行，不常用银行卡 3000 的限额，当然也是反渣的一部分策略，但是太不方便了。&lt;br /&gt;
-没有工作证明什么的还不给提额&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 09:13:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998128#reply0</guid></item><item><title>[分享发现] 发现了一个 AI 新产品：用 AI 分析用户的行为回放</title><link>https://www.v2ex.com/t/998126#reply0</link><description>&lt;p&gt;支持采集、回放用户的全部行为，并且使用 AI 去发现这些行为中存在客户体验问题。&lt;/p&gt;
-&lt;p&gt;看起来用简单的语言就能查具体的用户行为： &lt;a href="https://www.producthunt.com/posts/stey-ai" rel="nofollow"&gt;https://www.producthunt.com/posts/stey-ai&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 09:06:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998126#reply0</guid></item><item><title>[问与答] 求教大家的淘宝客应用都是怎么拉新的</title><link>https://www.v2ex.com/t/998124#reply0</link><description>&lt;p&gt;感觉现在的淘宝客 APP 、公众号和小程序都好难运营，大家貌似都觉得省那点钱太麻烦，不愿意用。&lt;/p&gt;
-&lt;p&gt;这里程序员朋友比较多，自己搭一个服务那是分分钟的事情，我想问的是大家有没有做起来的？&lt;/p&gt;
-&lt;p&gt;感觉好像很难做起来。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 09:00:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998124#reply0</guid></item><item><title>[问与答] 被一线城市最好的公立牙科医院推荐去其他机构种牙, 该信吗?</title><link>https://www.v2ex.com/t/998123#reply13</link><description>做了正畸疗程, 准备种牙, 排队要大半年.&lt;br /&gt;于是被正畸科这边推荐去其他机构种植, 不知道是不是有鬼? 该信吗?</description><pubDate>Wed, 06 Dec 2023 08:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998123#reply13</guid></item><item><title>[Fedora] 树莓 PI 安装 aarch64 的 fedora,4k 显示器进系统就黑屏 start_x 好像报错</title><link>https://www.v2ex.com/t/998122#reply0</link><description>&lt;p&gt;目前应该是支持 1920x1080 的分辨率的，因为显示器支持 4k 一进系统就自动变成 4k 显示。
-改了 config.txt 这改动只能保持到 grub2 后，当 sddm 启动时又自动变成 4k 再来黑屏。
-用 1920x1080 的电视试了一下无问题。
-不知道有没有大神知道怎么解？强制系统 1080p 也行，网上查一了很多都不行。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:58:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998122#reply0</guid></item><item><title>[程序员] 阿里云 2G 内存的服务器实际只有 1.65G？</title><link>https://www.v2ex.com/t/998120#reply3</link><description>&lt;p&gt;买了个阿里云新老同享的 99 元服务器，是挺香的。但是发现内存缩水挺多，同样是 2G 内存的服务器，在腾讯云有 1.96G ，不知道为什么差别那么大。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:54:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998120#reply3</guid></item><item><title>[问与答] 在本机开了 vpn， heygen.com 官网不能注册或者使用三方登录。要怎么解决?有遇到过的吗?</title><link>https://www.v2ex.com/t/998119#reply0</link><description>&lt;p&gt;提示内容:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Error: Unable to register. Please avoid VPN and try again.
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 06 Dec 2023 08:50:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998119#reply0</guid></item><item><title>[淘宝] 手机淘宝首创了一个 shi 一样的交互，现在越来越多的 app 在用</title><link>https://www.v2ex.com/t/998118#reply14</link><description>&lt;p&gt;最先在淘宝上发现的，应该没有冤枉他&lt;/p&gt;
-&lt;p&gt;就是在首页信息流中，点击某个元素（商品），正常人的期待是进入到对应的详情页。
-而现在是进入一个上下划动页面（类似于抖音），需要再次点击详情才能进入相应详情页。&lt;/p&gt;
-&lt;p&gt;后来发现京东也跟进了，还有咸鱼。不过多多就没有。&lt;/p&gt;
-&lt;p&gt;我真是服了，哪个人才想出来的。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:49:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998118#reply14</guid></item><item><title>[职场话题] 12 月开始，好像真的没有公司在招聘了？</title><link>https://www.v2ex.com/t/998116#reply7</link><description>&lt;p&gt;11 月份投了两天简历，还能收到两个面试，12 月开始投简历，投了三四天一个面试都没有，好像 12 月起没什么公司在招人了？ 问了几个一起在找工作的前同事反也是感觉 12 月相比 10 月、11 月冷清了很多，op 在广州投的。难道真的要等到明年的 3 、4 月份才会有一批新的岗位？&lt;/p&gt;
-&lt;p&gt;有最近也在找工作的老哥吗，是否也是这个情况？&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:47:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998116#reply7</guid></item><item><title>[酷工作] [上海/社招/SRE] 外企 Shopee🦐</title><link>https://www.v2ex.com/t/998115#reply2</link><description>Job Description&lt;br /&gt;负责改进和完善现有运维体系，提升运维团队专业技能水平，建立规范、高效的运维体系，实现业务的高可用和稳定性；&lt;br /&gt;能够主导技术方案和系统运维架构评审，掌握相关的技术架构和原理，能够从运维角度主动识别方案风险，并给出专业的解决方案；&lt;br /&gt;参与运维平台的需求分析，依据业务需求和现状制定平台建设策略和方案。&lt;br /&gt;作为团队技术专家对技术方案进行把控，核心模块的设计和开发，攻关技术难点。&lt;br /&gt;负责新兴运维技术的探索与应用，跟进研究业务动态，推动新技术在业务场景的落地，持续提升系统运维及开发能力；&lt;br /&gt;负责团队内部的技术培训与人才培养，培养和带领组员，打造高效能技术团队。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Requirements&lt;br /&gt;计算机及相关专业，本科以上学历，5 年以上运维工作经验，有中大型互联网公司运维架构、运维管理、DevOps 相关经验则优先；&lt;br /&gt;Python ，Go 至少需要精通其中的一门，扎实的编程基础，良好的代码风格，精通常用的软件工程方法，设计模式，数据结构和算法；&lt;br /&gt;深入理解计算机体系架构、linux 内核、分布式系统架构、虚拟化技术、网络通信与系统编程至少 2 个方向以上技术&lt;br /&gt;对系统架构有独到的认识，了解不同架构方法的适应性和优缺点，对技术保持强烈兴趣，对业内先进技术有一定的了解和跟进。&lt;br /&gt;具备丰富的大规模服务集群的运维经验，高并发架构经验，熟悉高可用集群、负载均衡集群的规划与搭建；&lt;br /&gt;负责过运维体系层面的系统性规划和建设，有这方面丰富的实践经验；&lt;br /&gt;熟练掌握 Redis/Codis 、Kafka/RabbitMQ 、Ceph/ElasticSearch 、Etcd/Zookeeperl 等主流中间件（至少 2 个以上）的原理和使用；&lt;br /&gt;熟悉 Jenkins 、Gitlab 等，对 CI/CD 流程制定与集成有实践经验；&lt;br /&gt;熟悉 Docker/k8s 容器平台及相关的底层技术和原理者优先；&lt;br /&gt;了解 Hadoop/Spark/Filnk/Hive/Drill/Druid 等大数据主流技术&lt;br /&gt;具备很强的推动协调能力、组织沟通能力、英语读写能力好优先</description><pubDate>Wed, 06 Dec 2023 08:46:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998115#reply2</guid></item><item><title>[iPhone] IOS17.1.2 导致路由器重启</title><link>https://www.v2ex.com/t/998114#reply12</link><description>&lt;p&gt;我用的是 Iphone 15 Pro Max ， 升级到 IOS17.1.2 后 连接小米路由器 AX3600 的 5G WIFI ，会触发路由器循环重启。
-也是很迷，不知道有没有人跟我有类似的情况发生&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:45:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998114#reply12</guid></item><item><title>[宽带症候群] 甲骨文大阪还好吗</title><link>https://www.v2ex.com/t/998112#reply0</link><description>&lt;p&gt;10 月份丢包 80%，延迟到了 350ms 以上。11 月初恢复了，昨天开始又这样了，大家的大阪现在怎么样，我这边湖南电信&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:36:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998112#reply0</guid></item><item><title>[推广] 母婴用品代购</title><link>https://www.v2ex.com/t/998111#reply0</link><description>&lt;p&gt;起因是我自己有娃了，目前一岁半
-然后中间走了许多的弯路，比如买了不实用的东西，或者买贵了。
-索性整理了下自己买东西的渠道，自己当一回代购
-欢迎大家来聊天、侃大山、对比商品的价格
-不是非得买东西哈，有人能聊聊天也是好的~
-有需要的 V 友可以加我 wxid: d3hpZF9sYm1hZGNuajVpYWcyMg==
-如果通过不及时，那就是在带娃..&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:35:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998111#reply0</guid></item><item><title>[JavaScript] 今天被测试发了一个 xss 漏洞，之前明明做过 xss 过滤的，很纳闷的看了一下</title><link>https://www.v2ex.com/t/998110#reply12</link><description>&lt;p&gt;之前做过 xss 过滤 用的 &lt;a href="https://github.com/leizongmin/js-xss/tree/master" rel="nofollow"&gt;js-xss&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;之前测试也都是正常的&lt;/p&gt;
-&lt;p&gt;今天看到他的测试内容： ＜ img/src=1 onerror='top.onerror=alert; throw 2'＞&lt;/p&gt;
-&lt;p&gt;看到这个 “/” 好像明白了什么， 不过为什么这种也会被浏览器识别成 img 标签 很纳闷&lt;/p&gt;
-&lt;p&gt;然后去看 js-xss 的 issues 发现了好像一样的 &lt;a href="https://github.com/leizongmin/js-xss/issues/283" rel="nofollow"&gt;https://github.com/leizongmin/js-xss/issues/283&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这么久也没回复，而且 js-xss 好像是不是也不维护了&lt;/p&gt;
-&lt;p&gt;虽然用其中的 onIgnoreTag 在其中做了标签名中是否有 “/” 然后去掉 “/” 后再调用 xss 函数
-但是不知道还有没有类似的问题出现；&lt;/p&gt;
-&lt;p&gt;想问一下有没有别的好用的 xss 过滤办法&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 08:33:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998110#reply12</guid></item><item><title>[Python] 问个 Python selenium 的问题</title><link>https://www.v2ex.com/t/998109#reply0</link><description>```python&lt;br /&gt;for x, y in param:&lt;br /&gt;     center_x = int(x) - div_size['width'] / 2&lt;br /&gt;     center_y = int(y) - div_size['height'] / 2&lt;br /&gt;     &lt;a href="http://logging.info" rel="nofollow noopener" target="_blank"&gt;logging.info&lt;/a&gt;("click at (%.2f, %.2f)" % (center_x, center_y))&lt;br /&gt;     action_chains.move_to_element_with_offset(element, center_x,center_y).click().perform()&lt;br /&gt;     time.sleep(random.randint(0, 10) / 10)&lt;br /&gt;```&lt;br /&gt;按文档说 move_to_element_with_offset 是 Move the mouse by an offset of the  &lt;br /&gt;specified element. Offsets are relative to the top-left corner of the element.&lt;br /&gt;是以左上为原点，但是我这里必须以 element 中心为原点才能成功呢？</description><pubDate>Wed, 06 Dec 2023 08:32:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998109#reply0</guid></item><item><title>[宽带症候群] 路由器拨号获取不到 LAN IPv6 地址</title><link>https://www.v2ex.com/t/998108#reply1</link><description>网络环境：杭州萧山电信，光猫桥接，红米 AX6000 拨号&lt;br /&gt;IPV6 NATIVE 模式&lt;br /&gt;之前一直都好好的，周日晚上发现家里 IPV6 用不了了。登录路由器查看，发现 IPV6 LANIP 为空。&lt;br /&gt;请教下各位是啥原因？&lt;br /&gt;我初步怀疑是电信调整了 IPV6 相关策略导致。如果电信策略不会改回去，在现有情况下，要如何调整才能继续使用 IPV6 ？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/XgqUL49.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XgqUL49.jpg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 06 Dec 2023 08:28:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998108#reply1</guid></item></channel></rss>
+&lt;p&gt;本质上不是很喜欢 nothing phone 和谷歌，因为性价比一般 而且谷歌处理器应该没续航...&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 21:44:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998224#reply0</guid></item><item><title>[分享创造] 哈利路亚输入法（HallelujahIM）的 Linux 移植</title><link>https://www.v2ex.com/t/998223#reply0</link><description>&lt;p&gt;&lt;a href="https://github.com/dongyuwei/hallelujahIM" rel="nofollow"&gt;原项目&lt;/a&gt;是 macOS 上的一款智能英文输入法&lt;/p&gt;
+&lt;p&gt;作者本人借助 PIME 框架&lt;a href="https://github.com/dongyuwei/PIME" rel="nofollow"&gt;移植&lt;/a&gt;到了 Windows ，
+受此启发我借助 fcitx5 框架移植到了 Linux&lt;/p&gt;
+&lt;p&gt;项目地址 &lt;a href="https://github.com/fcitx-contrib/fcitx5-hallelujah" rel="nofollow"&gt;https://github.com/fcitx-contrib/fcitx5-hallelujah&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;刚做出来，不可能有发行版打包，需要按 CI 脚本编译安装&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/dongyuwei/hallelujahIM/issues/143#issuecomment-1842096787" rel="nofollow"&gt;截图&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;暂不支持按英文单词的模糊音匹配&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 21:34:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998223#reply0</guid></item><item><title>[MacBook Pro] Intel 芯片的 Mac 是真不行了，求机型推荐</title><link>https://www.v2ex.com/t/998222#reply11</link><description>楼主机器的配置是 i9 9980H+RP5600m 。之前为了续航和发热一直在用 Turbo Boost Switcher ，默认离电关闭睿频。&lt;br /&gt;&lt;br /&gt;结果今天上课的时候跟组员合作写 Google Doc ，开十多个 Safari 标签页+三个 Edge 的标签页，整台电脑的速度明显下降，症状包括但不限于：在 Google Doc 的网页打英文会延迟，切换标签页卡顿，切换软件时掉帧。迫于无奈只能打开睿频，然后温度立马就从 58 度冲到 70 度了😓&lt;br /&gt;&lt;br /&gt;等今年期末考试考完了，确实该考虑换 ARM 芯片的 Mac 了。&lt;br /&gt;所以文科生，不搞开发，最多就拿 Mac 玩个英雄联盟，买 M3PRO （ 12CPU18GPU ）的 18G+1T 够用吗？有必要加钱上 M3 Max 吗？</description><pubDate>Wed, 06 Dec 2023 19:54:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998222#reply11</guid></item><item><title>[求职] [长沙] java10 年老兵求职</title><link>https://www.v2ex.com/t/998221#reply0</link><description>10 年 java 后端，从最开始的 struts2 到 springboot ，dubbo 到 springcloud 。相关的中间件如 nacos 、xxljob 、redis 、rabbitmq 都有用过。&lt;br /&gt;&lt;br /&gt;1 年 python 经验，写过 fastapi ，熟悉 pandas 、numpy 、Sklearn 等库（最近在学习 ai 这一块）&lt;br /&gt;&lt;br /&gt;业务主要是 ToC,电商方向，百万用户的体量。&lt;br /&gt;&lt;br /&gt;主要偏业务代码编写，带过团队，业务线级别（ 8 人左右）&lt;br /&gt;&lt;br /&gt;最近一份工作，电商小程序相关的，学会了 vue （ uni-app ）。&lt;br /&gt;&lt;br /&gt;近期也在学习 AI ，从 openai 到国内的大模型都有对接，上线过相关 AIGC 应用。（希望新工作也是偏 ai 这一块）&lt;br /&gt;&lt;br /&gt;写的有点随意了，有兴趣的可以给我留言。临近 35 岁的老男人先谢了，😌</description><pubDate>Wed, 06 Dec 2023 19:38:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998221#reply0</guid></item><item><title>[生活] 薅羊毛不成反被薅，记录一次被骗的经历（有能力的 v 友可以搞点事情，造福大众）</title><link>https://www.v2ex.com/t/998220#reply5</link><description>&lt;blockquote&gt;
+&lt;h4&gt;温馨提示&lt;/h4&gt;
+&lt;p&gt;本文内容有些长，可以直接看下面本站类似的帖子，内容形式几乎一样。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="https://jp.v2ex.com/t/954099" rel="nofollow"&gt;讲述一下今天做任务被骗的经历，大家就当听个乐子吧&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;记录一下骗子相关信息，防止大家在被骗：（有能力的 v 友可以搞点事情，造福大众）&lt;/h4&gt;
+&lt;p&gt;[乔] 的 QQ 号（客服）：1137588165&lt;/p&gt;
+&lt;p&gt;[妮妮] 的 QQ 号（骗子群群主）：3639544718&lt;/p&gt;
+&lt;p&gt;[安娜] 的 QQ 号（骗子群管理）：1354295553&lt;/p&gt;
+&lt;p&gt;[陈欣] 的 QQ 号（骗子群管理）：1428306094&lt;/p&gt;
+&lt;p&gt;寇拉文化 app 下载链接（骗子 app ）： &lt;a href="https://32ag8hm.cnyoufeng.com/ability/3ghzftj" rel="nofollow"&gt;https://32ag8hm.cnyoufeng.com/ability/3ghzftj&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;助力官网（行骗网站）： &lt;a href="https://wer8rre6nmmmg.xyz/zb3oHpiW4gdMMpnn/#/home" rel="nofollow"&gt;https://wer8rre6nmmmg.xyz/zb3oHpiW4gdMMpnn/#/home&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;摘要&lt;/h3&gt;
+&lt;p&gt;我承认我太傻了，想着从骗子手上薅羊毛，还是太年轻了。短短两天时间，从开始到被骗，我是这样一步步深入陷阱。&lt;/p&gt;
+&lt;h3&gt;被骗经历&lt;/h3&gt;
+&lt;h4&gt;一、被拉进 QQ 群&lt;/h4&gt;
+&lt;p&gt;昨天下午好久没反应的 qq 突然很高频的跳动起来，等我忙完打开一看，原来是被拉进一个名叫 [西学东渐 1521 ] 的一个&lt;code&gt;30&lt;/code&gt;人的小群里。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="群截图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/q1imUi2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;全里面每隔半小时会发一个任务，关注一个抖音号，然后发送关注截图和自己的支付宝或者微信收款码，可以得到对应的任务的佣金，金额 6~10 元不等。&lt;/p&gt;
+&lt;p&gt;金额虽不大，但看到群里有人发了收到佣金的截图，就想着试一试。&lt;/p&gt;
+&lt;h4&gt;二、确认是骗子&lt;/h4&gt;
+&lt;p&gt;凭借着我多年潜水的经验，一眼就知道这是骗人的。于是先去知乎上搜了搜有没有类似的骗局，还真被我找到了。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://zhuanlan.zhihu.com/p/638814905" rel="nofollow"&gt;记一次诈骗经历——抖音加关注给钱&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;看到上面文章作者的操作我觉得可以试试看薅一波骗子的羊毛。&lt;/p&gt;
+&lt;h4&gt;三、开始入坑&lt;/h4&gt;
+&lt;p&gt;于是我试着关注了几个抖音网红，然后截图+收款码发到群里，结果真收到钱了。
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/SlYJzmX.jpg" /&gt;
+这样操作了五六轮之后，骗子给出一个链接，说让下载一个 [寇拉文化] 的&lt;code&gt;app&lt;/code&gt;，&lt;code&gt;app&lt;/code&gt;里任务更多，佣金更高。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://32ag8hm.cnyoufeng.com/ability/3ghzftj" rel="nofollow"&gt;app 下载链接&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;四、安装诈骗 app&lt;/h4&gt;
+&lt;p&gt;我下载 app 之后，发现就是一个类似于微信的套壳软件，安装包&lt;code&gt;70M&lt;/code&gt;多。
+进去之后让加一个人名叫 [乔] 的账号为好友，加完之后这个人会引导怎么做任务得佣金，为了确保是&lt;code&gt;QQ&lt;/code&gt;群过来的用户，在进行任务之前，还需要在&lt;code&gt;QQ&lt;/code&gt;群发消息截图确认来自&lt;code&gt;QQ&lt;/code&gt;群。&lt;/p&gt;
+&lt;p&gt;确认完成之后，这个叫 [乔] 的人将我拉进一个任务群，里面是全员禁言的，只会派发一些关注抖音账号的任务，没半小时一次。&lt;/p&gt;
+&lt;p&gt;之后的操作就都在这个 app 里面进行了，完成任务之后发截图+收款码给 [乔] ，然后会收到佣金。&lt;/p&gt;
+&lt;h4&gt;五、完成实习任务&lt;/h4&gt;
+&lt;p&gt;按照 [乔] 的说法，第一天是实习期，没有底薪，每单只有&lt;code&gt;4.2&lt;/code&gt;元佣金，底薪有&lt;code&gt;0.2&lt;/code&gt;元。
+任务到&lt;code&gt;20:00&lt;/code&gt;就没了，完成所有派发的任务之后就通过了实习期，会额外得到&lt;code&gt;10&lt;/code&gt;元。
+这时候 [乔] 提醒我定好明天&lt;code&gt;9:00&lt;/code&gt;的闹钟，准时签到会得到&lt;code&gt;8.8&lt;/code&gt;元的钱。
+为了方便联系，让我加她&lt;code&gt;QQ&lt;/code&gt;号（ 1137588165 ）。&lt;/p&gt;
+&lt;h4&gt;六、开始新的任务&lt;/h4&gt;
+&lt;p&gt;我第二天，并没有准时上线， [乔] 分别在软件和&lt;code&gt;QQ&lt;/code&gt;上催促我去签到。&lt;/p&gt;
+&lt;p&gt;等我忙完都快&lt;code&gt;10&lt;/code&gt;点了，签到后仍然等到了奖金。&lt;/p&gt;
+&lt;p&gt;早上按部就班的做了几个关注抖音账号的任务之后，到&lt;code&gt;11&lt;/code&gt;点了。&lt;/p&gt;
+&lt;p&gt;[乔] 告诉我今天&lt;code&gt;11&lt;/code&gt;点，&lt;code&gt;13&lt;/code&gt;点、&lt;code&gt;17&lt;/code&gt;点会有新的任务，给主播助力，并发过来一个打榜的网站链接让注册账号。
+&lt;a href="https://wer8rre6nmmmg.xyz/zb3oHpiW4gdMMpnn/#/home" rel="nofollow"&gt;https://wer8rre6nmmmg.xyz/zb3oHpiW4gdMMpnn/#/home&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;七、打榜任务&lt;/h4&gt;
+&lt;p&gt;这个网站一看就不正规，注册可以随便填，不会校验手机号。&lt;/p&gt;
+&lt;p&gt;注册之后， [乔] 让我选择一个任务等级，有&lt;code&gt;100&lt;/code&gt;、&lt;code&gt;300&lt;/code&gt;、&lt;code&gt;500&lt;/code&gt;、&lt;code&gt;1000&lt;/code&gt;、&lt;code&gt;2000&lt;/code&gt;这几种等级。&lt;/p&gt;
+&lt;p&gt;我选了 100 的任务， [乔] 发了一个收款码让我支付之后，再加另外一个客服账号 [安娜] 为好友，她会引导我怎么做任务。&lt;/p&gt;
+&lt;p&gt;加 [安娜] 为好友之后，等了几分钟才有反应，解释说服务的人太多忙不过来，每次回复消息间隔 5~10 分钟。&lt;/p&gt;
+&lt;p&gt;[安娜] 确认完任务等级+账号之后，会给刚刚的打榜网站充值积分，然后进首页随便选择第一个进行助力。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/YTL4ulY.jpg" /&gt;
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/s6GJzWz.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;选择 [人气] 助力&lt;code&gt;14&lt;/code&gt;抖币，再选择 [助力] 助力&lt;code&gt;16&lt;/code&gt;抖币，完成之后积分会变成&lt;code&gt;129&lt;/code&gt;，将积分提现到银行卡任务就完成了。&lt;/p&gt;
+&lt;h4&gt;八、异常&lt;/h4&gt;
+&lt;p&gt;第二次助力任务开始，我同样选择了&lt;code&gt;100&lt;/code&gt;的等级，这次 [安娜] 回消息，我自己直接完成了任务，但提现时遇到无法提现的情况出现。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EfXvNBl.png" /&gt;&lt;/p&gt;
+&lt;p&gt;联系 [安娜] 之后才解决。&lt;/p&gt;
+&lt;p&gt;下午三点， [乔] 告诉我有个打榜任务，初始金额&lt;code&gt;1000&lt;/code&gt;元，我没有参与。&lt;/p&gt;
+&lt;p&gt;这时候把我拉到一个群里，看到里面的人热火朝天的在发截图赚了多少钱，得了多少佣金等等，还有不少人在晒日常生活做饭的图，消息不断。&lt;/p&gt;
+&lt;p&gt;打榜任务结束后没多久，这个群就解散了。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;下午五点，新的任务准时到来，但这次的金额提高了，最低档都是&lt;code&gt;500&lt;/code&gt;元。&lt;/p&gt;
+&lt;p&gt;[乔] 发收款码给我时，第一个提示诈骗，交易失败。
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4CuK4lg.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;后面又发了一张收款码给我，才付款成功。&lt;/p&gt;
+&lt;h4&gt;九、被骗&lt;/h4&gt;
+&lt;p&gt;[乔] 告诉我这次任务完成之后，能够得到额外&lt;code&gt;300&lt;/code&gt;佣金。同时， [乔] 还将我拉进了又一个新的群，里面的人不断地在晒收益截图。&lt;/p&gt;
+&lt;p&gt;于是，我计算了一下如果对方跑了我要损失&lt;code&gt;180&lt;/code&gt;，想着这个损失也能够接受，于是就付款了。&lt;/p&gt;
+&lt;p&gt;付款之后，刚开始还算正常，联系 [安娜] 做任务时，很久没反应，然后我自行将任务做完了。&lt;/p&gt;
+&lt;p&gt;这时 [安娜] 还将我拉到一个 vip 群，里面只有五六个人。&lt;/p&gt;
+&lt;p&gt;我告诉 [安娜] 任务我已经做完了，她还惊讶了一下，然后我问她积分怎么没有变化之后不就突然被踢下线了。&lt;/p&gt;
+&lt;p&gt;再次登录提示我 ip 被封禁，切换到手机网络，提示账号被封。
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rfcjg9c.jpg" /&gt;
+通过 QQ 联系 [乔] ，发现也被删除好友了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这会儿算是踩到坑里面了。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;十、总结&lt;/h4&gt;
+&lt;p&gt;虽然最后损失并不多，但还是被实实在在上了一课。本来是抱着薅羊毛的心理去参与，还是做技术出身的也能被骗子耍，真是给大家丢脸了。&lt;/p&gt;
+&lt;p&gt;以此经历警醒大家，&lt;strong&gt;永远不要抱着侥幸心理。&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 18:56:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998220#reply5</guid></item><item><title>[Apple] 仅支持 Homekit 的摄像头，有没有办法支持本地 NVR，把视频存在本地？</title><link>https://www.v2ex.com/t/998219#reply1</link><description>&lt;p&gt;前几天看 v2 上同学用 Scrypted 把非 Homekit 的摄像头集成到 Homekit 里，同时又支持本地存贮。试着从 HA 换到 Scrypted 感觉还不错。现在家里几个摄像头既可以在 iphone 上随时看，也在 NAS 有视频备份。&lt;/p&gt;
+&lt;p&gt;但是还有一个小问题，家里有一个摄像头 Aqara G2H Pro, 只支持官方 app 和 Homekit, 不支持 rstp 。这就没办法用本地的 NVR 保存备份了。有没有同学知道可以让只支持 Homekit 的摄像头 Rebroadcast 的方法？这样本地的 NVR 就能抓到视频再备份。感谢！&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 18:32:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998219#reply1</guid></item><item><title>[Android] pdd 可以绕过读取手机的拨打电话和管理通话吗</title><link>https://www.v2ex.com/t/998218#reply2</link><description>想使用 pdd ，但是 pdd 必须要读取手机的拨打电话和管理通话权限，不然都不给使用，但是我又不想给这个权限，有好的办法嘛，这权限索要的真 bt.居然要的是手机的拨打电话和管理通话。</description><pubDate>Wed, 06 Dec 2023 18:28:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998218#reply2</guid></item><item><title>[生活] 帮忙带娃期间跟丈母娘产生了直接冲突</title><link>https://www.v2ex.com/t/998217#reply11</link><description>&lt;p&gt;背景： 人在国外，疫情期间孩子出生，到 2 岁一直是跟老婆两个人带。最近买了房子要搬家，因为需要抽出时间去看建材装修以及搬家等各种事，所以让丈母娘来住 3 个月帮忙看孩子。日常生活方式的原因有一些矛盾，丈母娘和老婆偶有争吵。我有时也很不爽，基本原则是忍着，要么跟老婆说让她跟丈母娘沟通。但是最近有两次没忍住跟丈母娘产生了直接冲突。&lt;/p&gt;
+&lt;p&gt;我不满的地方：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;丈母娘过来 2 个月了，负责的部分只有给孩子做早饭和喂饭，还有就是陪孩子玩和陪睡。其他的事情例如幼儿园接送教了 2 次表示学不会不干，家里的家务一概不管，做饭洗碗只做自己的，有时候还得我给她做饭。做早饭和陪睡原来都是老婆负担的，接送孩子和洗澡是我负担。丈母娘这 2 个多月给孩子换过 2 次纸尿裤，洗过 0 次澡。&lt;/li&gt;
+&lt;li&gt;天天刷短视频，早上我送孩子去幼儿园以后开始工作，她就一整天躺在沙发上刷短视频/看直播带货，甚至带孩子的时候也拿着手机到点要抢那几毛钱的红包。&lt;/li&gt;
+&lt;li&gt;非常难伺候，每次买饭的时候问她吃啥就是啥都行，吃的时候就这个太腥，那个太油等等一堆意见。&lt;/li&gt;
+&lt;li&gt;本来是帮忙看孩子能解放我俩去跑搬家的事，结果正赶上搬家前丈母娘老病犯了，这个没啥办法，该看病就去看病。但是本来我和老婆还能一个人看孩子一个人去搬家，结果老婆还得带她去看病。变成了搬家+看孩子都得我一个人干，于是最近工作时间严重不足，活积累了很多，这也变成了第二次爆发的导火索。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;爆发原因：
+第一次是她跟老婆吵架的时候不知道哪根筋不对了，跟老婆说你当初就该找个有钱的。我当时就坐在旁边黑人问号，我说这话你别当我面说。结果她反而爆发了，转头对我一顿输出，我也就火了回骂。
+第二次就是今天，我因为搬家装修的事最近手头积了很多工作，想今天拖晚做一点，晚上我接孩子回家就跟老婆说让丈母娘看看孩子我要干活。结果说了三次都是看不到一分钟孩子就跑到我这来玩。我老婆说了她她还回呛说跟国内亲戚有事情要聊微信，我火了说你白天一天在沙发上刷视频为啥不白天聊，于是又爆发一次吵架。&lt;/p&gt;
+&lt;p&gt;结果就是丈母娘扬言要出去晚上露宿街头，老婆说你别说胡话，于是 10 点半丈母娘钻被窝里睡了，我还在赶工。。。
+看来以后丈母娘家也不用去了。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 18:07:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998217#reply11</guid></item><item><title>[问与答] 关于防卫若干问题</title><link>https://www.v2ex.com/t/998216#reply8</link><description>&lt;p&gt;事件起因： &lt;/p&gt;
+&lt;p&gt;A 此人说话十分没有情商，每次 A 问 B 一个问题，B 已经回答，但是 A 不是很满意，连续问 B 多个以上（大于 7 个以上）相同问题,B 不胜其烦，明确表示拒绝回答问题或者已经告诉 A 相关回答，A 还一直问。&lt;/p&gt;
+&lt;p&gt;为了实施己所不欲，勿施于人。B 为了让 A 意识到他的表现沟通交流极差，连续两天（第一次估计 5 分钟左右，第二次估计 15 分钟以上）也一直问 A 相同问题，故意问 A,目的是让 A 明白它的做法让人很难受，A 在这过程一句话不敢说，自知理亏，不出意外 A 也很难受。A 假装可怜寻求 C 的帮助，倒打一耙，为了让自己处于有利位置，让自己处于道德制高点。A 想要的效果达到了。并未经允许拍摄 B 的个人照片，当天晚上 B 要求 A 删除 B 相关照片，但是因为怀疑 A 有电脑、两个手机以及微信分身，照片未删除干净，B 怀疑 A 拿着 B 照片人肉或者干坏事或者其他恶劣的事情，就有了下面的事情。&lt;/p&gt;
+&lt;p&gt;B 因为听 A 说其在家有过喝茶一个月以内，受到相关权威性机构审查、互助，据 A 说喝茶原因是上传 video 到中文世界某知名强撸灰飞烟灭网站，B 因为基于以上所有事情，B 也未经 A 允许拍摄了 A 的个人照片，并回到自己屋里，此时 A 踹门有两次以上企图非法进入室内并嘴里叫嚣要打人，B 此时实在忍受不了，能否依据自身收到人身危险，采取自我防卫以及反击，终止 A 的行为？ B 此时开门了，不是十分确定是 A 先动的手，A 脑海里现在反正是记得 B 先动的手，之后 A 应该是没有能力在 B 手里讨到半点好处，又开始装口怜倒打一耙并拨通相关机构电话，叫嚣让 B 去喝茶。之后经相关人员 P 劝解签了谅解书，但是此时 A 把谅解书上的 Id card 、name 、telphone number 拍了照，B 也拍了 A 的以上信息。&lt;/p&gt;
+&lt;p&gt;但是 B 因为 A 以前发生的事情严重怀疑 A 拿 B 相关信息干坏事，B 能否以 A 企图非法入室并企图对 B 造成人身危险起诉 A ，让 A 进去踩缝纫机。A 太会装口怜装受害者了。&lt;/p&gt;
+&lt;p&gt;希望论坛主不要移动节点，先谢谢了&lt;/p&gt;
+&lt;p&gt;希望各位吴彦祖畅所欲言，好话坏话我都听的，谢谢大家了。&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 17:57:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998216#reply8</guid></item><item><title>[程序员] 遇到一个非常奇怪的问题， ping 域名稳定延迟 9 秒出现 ping 结果</title><link>https://www.v2ex.com/t/998215#reply4</link><description>如图所示，总是延迟 9 秒以后才会出现 ping 的结果&lt;br /&gt;&lt;br /&gt;开始以为是系统问题，重装以后依旧出现&lt;br /&gt;&lt;br /&gt;后面猜测是网卡问题，又换了张网卡，依旧不行&lt;br /&gt;&lt;br /&gt;局域网内的其他机器不会出现这个问题&lt;br /&gt;&lt;br /&gt;导致的后果就是，本台机器的程序和脚本访问外网时卡死延迟 9 秒&lt;br /&gt;有大佬遇到过吗？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/19tJ5RS9.gif" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 19tJ5RS9.gif"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/19tJ5RS9.gif" /&gt;&lt;/a&gt;</description><pubDate>Wed, 06 Dec 2023 17:35:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998215#reply4</guid></item><item><title>[问与答] “推特”最后一个竖型排列的是哪个版本？</title><link>https://www.v2ex.com/t/998214#reply0</link><description>发现推特里的 who to follow ，就是相关联人物列表那里一栏，现在（版本 10.16 ）的排列方式居然变成横排显示了，记得以前都是竖型排列的，想问下竖型排列中最后一个版本是哪个版本？</description><pubDate>Wed, 06 Dec 2023 17:06:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998214#reply0</guid></item><item><title>[问与答] 我这 MBP 掉电正常吗？</title><link>https://www.v2ex.com/t/998211#reply1</link><description>&lt;p&gt;一小时从 88 掉到 10 ，就是升级了下 flutter 第三方库，跑了几分钟项目。&lt;/p&gt;
+&lt;p&gt;2017 年本，3.1 GHz i5 ，256G 硬盘剩余不到 3G 。昨天刚腾出来 10G ，现在又快满了。。。&lt;/p&gt;
+&lt;p&gt;2021 年苹果电池计划免费换了整个 C 面。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/VIn3TmP.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WuCg14e.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EcT9lie.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 16:22:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998211#reply1</guid></item><item><title>[生活] 眼药水开封 15 天后就不能用了可信吗？</title><link>https://www.v2ex.com/t/998210#reply2</link><description>买了几盒珍视明的眼药水，只是偶尔用用，过段时间想起后才又想要用，可发现早就过了很久，只能扔了，又得重新买……</description><pubDate>Wed, 06 Dec 2023 16:09:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998210#reply2</guid></item><item><title>[奇思妙想] 有没有类似 chatExcel 之类的东西</title><link>https://www.v2ex.com/t/998208#reply4</link><description>&lt;p&gt;问完感觉自己就有点睿智了--，是不是 copilot 支持的？
+因为这两天在帮女朋友 excel 里筛选整理一些数据，想着如果可以以 chat 的方式让 excel 不停变换、筛选、按需数据透视，应该挺有用的....吧？
+其实用 SQL 也能解决大部分的需求，但是就是普通人都不大会用 SQL ，so chatEXCEL 可能也是一种比较直观的方式？&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 15:27:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998208#reply4</guid></item><item><title>[问与答] 手机端浏览器只有 edge 无法访问谷歌</title><link>https://www.v2ex.com/t/998207#reply0</link><description>&lt;p&gt;非常离谱，手机上 firefox 和小米自带浏览器都能打开谷歌，就 edge 浏览器不行。&lt;/p&gt;
+&lt;p&gt;已经通过路由器科学了，看路由器 clash 的 webui 时，发现一个特别奇怪的事情，当我用 firefox 访问谷歌时，clash 的 webui 的“连接”那一栏，能看到手机正在试图访问 google 的相关域名，然后被 clash 的域名相关的规则匹配到；但是当我用 edge 访问谷歌时，“连接”就看不到手机试图访问谷歌的域名，但是能发现手机试图访问一些 ip ，例如 142.250.207.3:443 ，我询问了一下 ChatGPT ，它回答说这是谷歌的服务器的 ip ，这个 ip 直接匹配到了最后的 &lt;code&gt;match DIRECT&lt;/code&gt;，导致我无法访问谷歌。&lt;/p&gt;
+&lt;p&gt;那么，问题来了，手机端的 edge 是自带什么安全 dns 吗？为什么 edge 会直接访问 ip ，而不需要走手机的 dns 查询呢？&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 15:24:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998207#reply0</guid></item><item><title>[Apple] 官网 479 买了 finewoven 手机壳感觉是智商税...</title><link>https://www.v2ex.com/t/998206#reply3</link><description>&lt;p&gt;感觉材料真的很廉价&lt;/p&gt;</description><pubDate>Wed, 06 Dec 2023 15:23:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998206#reply3</guid></item><item><title>[程序员] 大佬们，有什么好用的开源思维导图啊！</title><link>https://www.v2ex.com/t/998205#reply1</link><description>最好是 react 原生的就更好了。然后定制化开发方便的。&lt;br /&gt;&lt;br /&gt;我自己之前用过的是 jsmind ，很好用，还贡献了一行代码（笑）。 但是这个比较简约了，也不是 react 的。&lt;br /&gt;&lt;br /&gt;国外有个很不错的框架，&lt;a href="https://reactflow.dev/" rel="nofollow noopener" target="_blank"&gt;https://reactflow.dev/&lt;/a&gt; 。也算是给大家顺便分享一下了，非常适合的基于节点的一些内容的开发。只是他不太适合做思维导图，改造工作太大了。（或者有大佬做好的 笑）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;以上，求推荐了～～</description><pubDate>Wed, 06 Dec 2023 15:16:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998205#reply1</guid></item><item><title>[汽车] 有没有人客观评论一下迈腾 380 和迈腾 GTE</title><link>https://www.v2ex.com/t/998204#reply0</link><description>如题。&lt;br /&gt;正在考虑，看看有没有人开这两款的来客观评论一下</description><pubDate>Wed, 06 Dec 2023 15:14:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998204#reply0</guid></item></channel></rss>
