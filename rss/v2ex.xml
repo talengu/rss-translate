@@ -1,52 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 08 Dec 2023 01:37:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 做了一个 base64 编码/解码工具</title><link>https://www.v2ex.com/t/998555#reply0</link><description>base64 不难，但是我需要支持二进制格式，而且细节有点多，找了一圈没找到。&lt;br /&gt;&lt;br /&gt;比如解码后区分 utf8 格式，gbk 格式，二进制格式。&lt;br /&gt;解码前，又区分 base64 urlsafe 和严格模式 base64(带有==结尾), 和非严格模式 base64(可以省略==结尾)&lt;br /&gt;&lt;br /&gt;所以就随手写了一个在线工具:&lt;br /&gt;&lt;br /&gt;&lt;a href="https://tool2d.com/#base64" rel="nofollow noopener" target="_blank"&gt;https://tool2d.com/#base64&lt;/a&gt;</description><pubDate>Fri, 08 Dec 2023 01:32:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998555#reply0</guid></item><item><title>[分享发现] 才发现现在的紫米充电器已经不是当年小米有品那个 ZMI 紫米了</title><link>https://www.v2ex.com/t/998554#reply0</link><description>&lt;p&gt;前几天入手了一个二手红米，没有充电器，最大充电规格是 5V 2A 。之前对 ZMI （前紫米）印象不错，于是京东紫米旗舰店直接买了一个 10W 的，标定 5V 2A 。到手发现 Logo 和以前不一样，也没在意，以为品牌升级了。  &lt;/p&gt;
-&lt;p&gt;后来发现半小时充电 1%，结果测量一下，充电只有 5V 300mA ，我拿 3 年前买的 18W ZMI （前紫米）试了一下，1500mA 以上；拿苹果祖传 5V 1A 试了一下，900mA 以上，排除了线的问题。  &lt;/p&gt;
-&lt;p&gt;后来看了 3 年前的订单，两单都是 ZMI 京东自营店，这次买的是紫米官方旗舰店，发现不对，一查才知道，&lt;strong&gt;原来以前小米有品里的那个紫米、ZMI ，现在改叫酷态科了，现在的紫米 ZIME 是单独的，其充电表现如上。&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;后来去京东试了一下，搜紫米+充电器，第一个结果是酷态科，第二个是紫米 ZIME ，看来是我的问题，大意了。联系客服，已经退货。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998554#reply0</guid></item><item><title>[问与答] 有什么好用的 Personal Dashboards？不需要太多配置的。</title><link>https://www.v2ex.com/t/998553#reply0</link><description></description><pubDate>Fri, 08 Dec 2023 01:31:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998553#reply0</guid></item><item><title>[问与答] 关于在公司或屋内购买椅子的抉择</title><link>https://www.v2ex.com/t/998552#reply0</link><description>&lt;p&gt;最近入职了一家新公司，目前刚刚顺利转正，但公司配的椅子太次了，坐上去怎么都不舒服，倾向于自己买一把新的人体工学椅。可恰好出租屋里坐的那把普通椅子，一个角也歪掉了，也想换，不过把角摆置一下也差不多能坐，跟公司椅子都差不多在可忍受范围内。&lt;/p&gt;
-&lt;p&gt;目前就是三个选择：&lt;/p&gt;
-&lt;p&gt;1.椅子买在公司，可以让我更好的工作，毕竟每天绝大部分时间都是在这张椅子上，但怎么说呢，颇有种自费上班的工 zei 之感。&lt;/p&gt;
-&lt;p&gt;2.把屋里的椅子换了，虽说只有工作日晚上以及周末会用到，但周末我也经常打游戏，有个好椅子是更舒服的，而且把椅子放在自己住的地方，稍稍有一种归属感。&lt;/p&gt;
-&lt;p&gt;3.折中之策，把预算掰开成两半，将原本要买椅子的预算拆开，公司和家里各买一把，但体验肯定会下降，好处是都能享受到座椅升级的舒适感。&lt;/p&gt;
-&lt;p&gt;目前在纠结中，想听听各位的意见。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:31:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998552#reply0</guid></item><item><title>[Apple] iPhone 14pm 续保 apple care</title><link>https://www.v2ex.com/t/998551#reply0</link><description>&lt;p&gt;22 年 12 月买的手机，昨天在有限保修快过期时去续保了 apple care ，给自己个心理安慰。&lt;/p&gt;
-&lt;p&gt;去的西单店，到场直接跑了两项设备检测，店员也会查看外观是否有损坏，然后就提交购买申请了。整体流程还是比较快的。&lt;/p&gt;
-&lt;p&gt;1599 大洋，用了招行 24 期，希望能多用两年吧~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:29:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998551#reply0</guid></item><item><title>[问与答] 求家用服务器推荐组合</title><link>https://www.v2ex.com/t/998550#reply2</link><description>&lt;p&gt;预计需要使用 PVE 来开多个系统进行学习和使用（服务器、Linux 、Docker 、K8s 等等），可能还涉及到组 NAS 。&lt;/p&gt;
-&lt;p&gt;目前计划是使用 戴尔的 T6xx 系列（因为是塔式服务器，噪音能小一点），最少感觉需要 20 核心 40 线程吧。&lt;/p&gt;
-&lt;p&gt;希望可以添加独立显卡（如果添加噪音过大，也是可以用集显的），功率不成问题，但是可能隔几个月需要关机一下。&lt;/p&gt;
-&lt;p&gt;不知道该如何配置这个服务器，希望各位大佬给出一点建议&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;补充：希望用二手，便宜点组装，预算在 6000 内，不包含硬盘和内存&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;🙏🙏🙏&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:26:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998550#reply2</guid></item><item><title>[分享发现] 设计电话回访需要语音回复的人是怎么想的？</title><link>https://www.v2ex.com/t/998549#reply0</link><description>&lt;p&gt;发现现在的回访类电话都是需要语音回复的，设计的人是怎么想的。&lt;/p&gt;
-&lt;p&gt;例如：
-小米：你好我是小米智能客服，了解到您最近 XXX 过，如果让您用满意、不满意....你会如何评价呢？
-工行：您好，我是工商银行语音助理，请问您是 xxx 吗？
-中行：我是 xxx ，为您推荐 xxx ，为您推荐下好吗？&lt;/p&gt;
-&lt;p&gt;以前类似这些回访都是可以按键选择选项的，现在只能语音回复，有啥意思。
-按键评价我还可能评评，这语音相信大多人都是直接挂了的吧。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:25:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998549#reply0</guid></item><item><title>[问与答] 谁有好的欧美移民渠道？ 最好全家能一起的.</title><link>https://www.v2ex.com/t/998548#reply1</link><description>为了未来留个路子, 虽然不一定外国月亮圆，但是我觉得自由安全空气也重要. 谁有好的经验渠道分享一下？</description><pubDate>Fri, 08 Dec 2023 01:25:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998548#reply1</guid></item><item><title>[程序员] tunnelbroker.net 不分配/48 子网了吗？</title><link>https://www.v2ex.com/t/998547#reply0</link><description>&lt;p&gt;还有其它类似的可以分配/48 子网吗？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:24:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998547#reply0</guid></item><item><title>[智能家电] 各品牌的吹风机有啥区别？</title><link>https://www.v2ex.com/t/998546#reply1</link><description>&lt;p&gt;现在主打的吹风机都是 10w 转或者 11w 转的无刷电机，比较代表的就是戴森、徕芬，追觅等等牌子，那么我买华强北出的吹风机，差别在哪里呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:23:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998546#reply1</guid></item><item><title>[问与答] 有人一起团购 chatgpt swiftui ios 源码吗</title><link>https://www.v2ex.com/t/998545#reply2</link><description>&lt;p&gt;99 刀对刚入门苹果开发来说有点贵，想找几个人平摊一下&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://codecanyon.net/item/conversai-ios-chatgpt-ai-native-swiftui-chat-app/46164157" rel="nofollow"&gt;https://codecanyon.net/item/conversai-ios-chatgpt-ai-native-swiftui-chat-app/46164157&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:18:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998545#reply2</guid></item><item><title>[宽带症候群] 杭州电信又收回 ipv4 公网了</title><link>https://www.v2ex.com/t/998544#reply7</link><description>&lt;p&gt;我这条宽带去年收回了一次，找客服弄回来了，今年又收回，感觉再来几次就不会再给公网 IP 了，打算要不到公网 IP 就退网&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:10:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998544#reply7</guid></item><item><title>[分享创造] 开源免费和离线版 Notion 笔记目前可以堪用了</title><link>https://www.v2ex.com/t/998543#reply3</link><description>&lt;h3&gt;发现&lt;/h3&gt;
-&lt;p&gt;因为众多周知的原因，很多人都在找 Notion 离线版替代品，之前关注过 AppFlowy 这个项目，最近发现已经有 mac\windows\linux 版本了，据说这个月移动端也能上线。
-数据完全离线，可以自己部署到本地、服务器或者云盘上，自己的数据自己做主，终于可以和 Obsidian 互补了。
-下载试用了一下，感觉已经达到 Notion 功能 70%上下了，尤其是多维表格符合我的预期，感兴趣可以关注下&lt;/p&gt;
-&lt;h3&gt;链接&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/AppFlowy-IO/AppFlowy" rel="nofollow"&gt;Github&lt;/a&gt;
-&lt;a href="https://www.appflowy.io" rel="nofollow"&gt;官网&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PS:
-之前也试过号称 Notion 替代品 Anytype,本地化优先、端到端加密。
-但是因为提供不同的概念，上手极其困难，即使我用过 Notion 。
-且数据虽然号称本地化，但是个人完全无法掌握数据，使用可能是实时加密的缘故，还有点卡顿
-而导出功能也不是很满意，只有 md 格式，没有 pdf ，希望后续能解决这些痛点应该也不错&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:08:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998543#reply3</guid></item><item><title>[macOS] 键鼠全部更换到无线之后的问题</title><link>https://www.v2ex.com/t/998542#reply8</link><description>&lt;p&gt;最近抽空把键鼠全部更新到了无线（键盘 蓝牙，鼠标 2.4G ），本意是为了桌子上不在有线，但好像引发了两个问题。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. 从 iPhone 到 mac 的隔空投送几乎不可用。具体表现是：在 iPhone 选择要发送的文件后，可以很快列出身边的 iCloud 设备，但选择向 mac 进行发送后，大概 90%的情况下无限提示“等待中...”，还有 5%的情况 mac 在经过一段时间后“卡一下”然后一下收到好多重复文件，另外 5%的情况 mac 右上角提示“来自 iPhone 的隔空投送已取消”。但从 mac 到 iPhone 的隔空投送一切正常；
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 08 Dec 2023 20:52:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 站内搜索怎么用？</title><link>https://www.v2ex.com/t/998870#reply0</link><description>很多时候帖子搜不到，明明就在那，限定时间也搜不到。有什么搜索技巧吗？</description><pubDate>Fri, 08 Dec 2023 19:57:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998870#reply0</guid></item><item><title>[汇编] 汇编问题求解，这个问题我自己确实做不来</title><link>https://www.v2ex.com/t/998869#reply0</link><description>&lt;p&gt;题目要求如下&lt;/p&gt;
+&lt;p&gt;在屏幕的第一行显示数据 belles 。
+belles	db  "Reading is a happy thing. For those who love reading, once they read it,"	。请根据需要编写子程序，实现：依次取走字符，并让字符从其位置跌落到屏幕底部并消失。&lt;/p&gt;
+&lt;p&gt;我自己的想法是将做好几个循环来写，比如第一个循环让第一个字符往下掉，第二个就让第二个往下掉啥的，但是我写了一个发现做这样的循环直接运行之后 DosBox 会直接卡死，问 GPT ，但是 GPT 自己给的代码总是有问题，百度一下也只能找到一个代码，那个代码也不能实现题目要求的效果，做了几个小时了还卡在这&lt;/p&gt;
+&lt;p&gt;我真的没办法了，所以我来请教各位，求求各位大佬帮帮我吧
+如果给不了代码，给我点思路也行，我自己会去试的&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:43:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998869#reply0</guid></item><item><title>[Rust] 如何在 rust 里实现一个超级轻量级的协程？ （譬如 protothread）</title><link>https://www.v2ex.com/t/998868#reply1</link><description>&lt;p&gt;Protothreads 是个 纯 C 的超轻量级（不可能有比它更轻量的了）协程实现，100 多行代码。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dunkels.com/adam/pt/" rel="nofollow"&gt;https://dunkels.com/adam/pt/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:22:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998868#reply1</guid></item><item><title>[分享发现] TikTok 运营工具大全</title><link>https://www.v2ex.com/t/998867#reply0</link><description>&lt;p&gt;&lt;a href="https://www.tt123.do" rel="nofollow"&gt;TikTok 运营工具大全&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:15:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998867#reply0</guid></item><item><title>[问与答] 大家觉得这两份工作应该怎么选</title><link>https://www.v2ex.com/t/998866#reply2</link><description>&lt;p&gt;op 坐标西安，毕业后培训转行做了程序员，实际开发经验 4 年，技术水平中肯的说我觉得一般吧，也没有参与过什么特别高水平含量的项目。之前裸辞后找了挺久工作，目前有两个选择吧，对比图如下，老哥们能给点建议吗，谢谢。
+&lt;a href="https://i.imgur.com/4rJ0ODA.jpg" rel="nofollow"&gt;https://i.imgur.com/4rJ0ODA.jpg&lt;/a&gt;
+&lt;a href="https://i.imgur.com/WGqrnnL.jpg" rel="nofollow"&gt;https://i.imgur.com/WGqrnnL.jpg&lt;/a&gt;
+ps：图片我放在一楼了 麻烦各位老哥帮忙瞅瞅&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:09:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998866#reply2</guid></item><item><title>[C#] 如何配置环境变量才能让 dotnet 和 ipconfig 都可以工作？</title><link>https://www.v2ex.com/t/998864#reply0</link><description>事情的起因是这样的。今天我在 CMD 中突然发现 ipconfig 命令没法用了。网上查了一下，按照指引，将环境变量中 path 配制成 windows→System32 路径下。再次回到 CMD ，发现 ipconfig 命令可用了！&lt;br /&gt;&lt;br /&gt;&lt;a href="http://但是再调试程序发现.NET" rel="nofollow noopener" target="_blank"&gt;但是再调试程序发现.NET&lt;/a&gt; 用不了。 发现 dotnet 命令不可用了。显然是因为环境变量改变了。再次查方法。将 path 路径，改为 dotnet 所在目录。问题解决了。但是 ipconfig 命令又不可用了（我知道 cd 到 windows→System32 目录下 ipconfig 命令还是可用的）。&lt;br /&gt;&lt;br /&gt;这样感觉很不方便，&lt;a href="http://请问有没有什么办法让.NET" rel="nofollow noopener" target="_blank"&gt;请问有没有什么办法让.NET&lt;/a&gt; 和 ipconfig 命令同时可用？</description><pubDate>Fri, 08 Dec 2023 17:46:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998864#reply0</guid></item><item><title>[VPS] 求推荐台湾的 VPS 或者机场。</title><link>https://www.v2ex.com/t/998863#reply5</link><description>&lt;p&gt;主要是想解锁 Netflix ，那几个 YT 打广告比较凶的 vpn 我都试了，在中国基本用不了。&lt;/p&gt;
+&lt;p&gt;VPS 的话 AWS ，板瓦工台湾节点怎么样？资料很少啊，似乎没人用？有没有推荐的台湾本土运营的 VPS 呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 17:38:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998863#reply5</guid></item><item><title>[问与答] 来聊聊成年后发生的真实恐怖/灵异经历，但科学解释得通。</title><link>https://www.v2ex.com/t/998860#reply0</link><description>&lt;p&gt;镜像问题： &lt;a href="https://www.v2ex.com/t/998674?p=1" rel="nofollow"&gt;https://www.v2ex.com/t/998674?p=1&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;大部分人的灵异经历都是来自小时候，所以可能受限于小时候认知不全以及大脑后期加工，让人听起来玄之又玄。以下的事情发生在成年之后，所以基本都可以给出合理的解释：&lt;/p&gt;
+&lt;p&gt;第一个是刚上大专的宿舍里，随手拍了一张窗户照片，后面去翻看手机上的照片时，发现照片的窗户上出现了一张阴森的女人的脸盯着我看（男生宿舍，不可能存在女的）。当时越看越觉得恐怖，又不敢叫其他舍友一起看，怕吓到他们，默默把照片删掉，安慰自己是自己脑补出来的。
+现在想起来，可能是当时手机像素不高，然后又是晚上拍的，加上自己的脑补功能后就觉得像鬼脸。&lt;/p&gt;
+&lt;p&gt;第二个是我迄今为止经历过最恐怖的事情，我每次讲给朋友听都会起鸡皮疙瘩。&lt;/p&gt;
+&lt;p&gt;还是发生在宿舍里，宿舍是上床下桌，那天中午大太阳，我午休后准备起床，结果发现眼睛睁不开，但是能听到一些舍友聊天的声音，一些舍友打游戏的声音，身体也动不了，我很快意识到我是“鬼压床”了，高中经常“鬼压床”，所以到这里还算正常，接下来我看到了终身难忘的一幕，一个穿着全身白色连衣裙的女鬼，双臂张开，面露微笑，朝着我慢慢地从天花板飘下来。 他奶奶，我哪里遇过这种情况，吓得想赶紧起床，但就是动不了，也想让床下面的舍友赶紧推一下我，但口就是张不开。随着她慢慢逼近，我心理已经害怕到极点，心里开始默念什么太上老君，观世音菩萨，但都没啥用。最后是我想起贴吧的一个解除“鬼压床”的办法，用我的舌头，拼命顶住我得上颚，这才醒了过来。从这次经历之后，我再也没遇到“鬼压床”。&lt;/p&gt;
+&lt;p&gt;对于这次的经历，科学解释也得通：““鬼压身”的现象，在睡眠神经医学上是属于一种睡眠瘫痪症（ sleep paralysis ）的症状，患者在睡眠当时，呈现半醒半睡的情境，脑波是清醒的波幅，有些人还会合并有影像的幻觉，但全身肌肉张力降至最低。” 至于幻觉，我觉得是那个时候我经常喜欢看贴吧的灵异故事导致的。&lt;/p&gt;
+&lt;p&gt;但这次经历实在是太真实，导致我每次回想起来都要起鸡皮疙瘩。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:45:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998860#reply0</guid></item><item><title>[程序员] 有没有什么矮轴且静音轴的键盘推荐？啥配列都行，最好是带数字小键盘</title><link>https://www.v2ex.com/t/998858#reply5</link><description>&lt;p&gt;RT. 需要一个矮轴静音的键盘，轴体太花里胡哨了，各种乱七八糟的名字，为啥这么多叫法啊.. 什么水蜜桃 风信子 一大堆.. 看不过来了， 有没有什么成品的键盘推荐的~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:24:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998858#reply5</guid></item><item><title>[程序员] 求问 iOS 的隐私问题</title><link>https://www.v2ex.com/t/998857#reply0</link><description>&lt;ol&gt;
+&lt;li&gt;从 A 应用分享照片之类的内容到 B 应用，B 应用能知道是从哪个应用分享过来的吗？&lt;/li&gt;
+&lt;li&gt;从 A 应用复制内容，然后切换到 B 应用后粘贴，B 应用能知道是从哪个应用粘贴的内容吗？&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 08 Dec 2023 16:12:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998857#reply0</guid></item><item><title>[编程] 分时调度协程脚本语言</title><link>https://www.v2ex.com/t/998855#reply0</link><description>&lt;p&gt;今天的主角是一个分时调度协程的脚本语言——&lt;a href="https://melang.org/" rel="nofollow"&gt;Melang&lt;/a&gt;。这篇文章主要介绍 Melang 的协程使用。关于 Melang 的安装，可以参考&lt;a href="https://melang.org/installation.html" rel="nofollow"&gt;安装文档&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;之所以强调分时调度，其实是为了强调 Melang 协程和其他语言协程的差异。在 Lua 、Go 中，当某一个协程运行时，如果不调用某些特定库函数或者 yield 之类的函数，那么当前协程将一直持有 CPU 执行权，也就导致了其他协程或者 I/O 事件或者其他类型事件无法被响应，进而导致整个系统出现运行异常的情况。诚然，经过精密的设计，可以完全避免这类问题。但也会给开发者增加维护和学习成本。而 Melang 的每个协程，都是运行一段时间后被解释器强制中断挂起，让其他协程或者 I/O 事件等得以运行和处理。&lt;/p&gt;
+&lt;p&gt;在 Melang 中，每一个协程就是一个脚本任务，它可能是文件，也可能只是一段代码片段。每一个协程都有相对独立的运行上下文（也就是相对独立的运行环境），但也允许通过脚本库函数使得多个协程间进行通信。&lt;/p&gt;
+&lt;p&gt;下面给出两种启用多个协程的方法：&lt;/p&gt;
+&lt;h3&gt;方法 1&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;//a.m
+sys = Import('sys');
 
-2. 键盘是目前市场上比较卷的三模机械键盘（其实我前前后后试了大概三四个品牌，均用的蓝牙协议，蓝牙列表里显示的名称大部分都是类似 BT 5.0 Keyboard 之类的）。这些键盘连接倒是很快，但每次键盘休眠后再自动连接后（不是 macOS 休眠，mac 我设置成了不休眠），大概率会出现按键混乱。比如按 Q 变成截屏，按 a 会输入一个很像 a 的不知道什么语言字符的 a ，此时只能通过键盘上的物理三模切换按钮，先切到别的模式再切回蓝牙才正常。
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 08 Dec 2023 01:08:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998542#reply8</guid></item><item><title>[Go 编程语言] 大家有使用过 go 的 go-ole 库操作 windows 防火墙规则修改和禁用么</title><link>https://www.v2ex.com/t/998541#reply0</link><description>&lt;p&gt;大家有使用过 go 的 go-ole 库操作 windows 防火墙规则修改和禁用么
-搞了很久实现不了，不知道有没大佬写过这样的需求&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998541#reply0</guid></item><item><title>[酷工作] 寻求有关视频处理等相关的朋友一直做产品</title><link>https://www.v2ex.com/t/998539#reply0</link><description>&lt;p&gt;v：bWFzcy1yZWQ=&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:00:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998539#reply0</guid></item><item><title>[问与答] 二三房东纠纷，如何拿回房租押金</title><link>https://www.v2ex.com/t/998538#reply4</link><description>我朋友月底正常退房，现在二房东和三房东因为他们之间交接合同问题没达成一致，现在押金无法找到负责人退，当时签合同是和一个管理员签的，但是这个管理员走了。目前已经报警，但并没有什么效果，请问大家有没有什么好的办法（非暴力），月底朋友就不在这边了，所以时间挺紧&lt;br /&gt;&lt;br /&gt;地点是在深圳</description><pubDate>Fri, 08 Dec 2023 00:56:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998538#reply4</guid></item><item><title>[分享发现] 独立开发变现周刊（第 115 期）：开发一个健身管理软件，月收入 6 万美元</title><link>https://www.v2ex.com/t/998537#reply0</link><description>&lt;p&gt;分享独立开发、产品变现相关内容，每周五发布。&lt;/p&gt;
-&lt;p&gt;目录：&lt;/p&gt;
+while (true) {
+  sys.print('a');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;//b.m
+sys = Import('sys');
+
+while (true) {
+  sys.print('b');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;假设我们有这两个协程示例（也是两个文件），它们的功能就是死循环向终端输出&lt;code&gt;a&lt;/code&gt;和&lt;code&gt;b&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;我们可以通过如下命令在单个线程内运行这两个协程：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m b.m
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;可以看到他们的输出大致如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;...
+a
+a
+a
+a
+a
+a
+a
+a
+...
+b
+b
+b
+b
+b
+b
+b
+...
+a
+a
+a
+a
+a
+a
+a
+a
+...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;由于 lua 等老牌支持协程的语言实现缘故，可能一些读者会怀疑我在&lt;code&gt;sys.print&lt;/code&gt;中加入了强制切换协程的代码，那么可以使用如下示例自行验证一下。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//a.m
+while (true){}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;//b.m
+while (true){}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;//c.m
+sys = Import('sys')
+while (true) {
+  sys.print('c');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m b.m c.m
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;方法 2&lt;/h3&gt;
+&lt;p&gt;使用内置函数&lt;code&gt;Eval&lt;/code&gt;拉起协程。&lt;/p&gt;
+&lt;p&gt;我们首先假设同一路径下的有两个文件名为：&lt;code&gt;a.m&lt;/code&gt;和&lt;code&gt;b.m&lt;/code&gt;。当然，实际使用中，可以放在不同路径下，这里只是为了演示方便。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//a.m
+sys = Import('sys');
+
+Eval('b.m');
+
+while (true) {
+  sys.print('a');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;//b.m
+sys = Import('sys');
+
+while (true) {
+  sys.print('b');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后执行如下命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我们可以得到与方法 1 中第一个示例一样的输出。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Eval&lt;/code&gt;还有另一种用法，示例如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;//a.m
+sys = Import('sys');
+
+Eval('sys = Import("sys"); while (true) {sys.print("b");}', nil, true);
+
+while (true) {
+  sys.print('a');
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后执行&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;依旧可以得到一样的输出效果。&lt;/p&gt;
+&lt;p&gt;事实上，上述的两种方法都只是对脚本解释器提供的 API 的不同封装。我们也可以自己开发其他的协程启动形式。&lt;/p&gt;
+&lt;p&gt;感谢阅读！&lt;/p&gt;
+&lt;p&gt;感兴趣的读者可以访问&lt;a href="https://github.com/Water-Melon/Melang" rel="nofollow"&gt;Github 仓库&lt;/a&gt;或者&lt;a href="https://melang.org/" rel="nofollow"&gt;官方文档&lt;/a&gt;了解更多内容。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:05:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998855#reply0</guid></item><item><title>[Android] Android 14 阻止通过 adb install / pm install shell 命令降级应用程序，除非该应用程序被标记为可调试。</title><link>https://www.v2ex.com/t/998853#reply2</link><description>Android 14 阻止通过 adb install / pm install shell 命令降级应用程序，除非该应用程序被标记为可调试。&lt;br /&gt;&lt;br /&gt;此前，2023 年 5 月的安全版本包含一个补丁，该补丁仅阻止将系统应用程序降级到比系统上预装的版本更旧的版本。&lt;br /&gt;&lt;br /&gt;但是，从 Android 14 Beta 5.2 开始，这适用于所有应用。据一位线人透露，他们第一次在 Beta 5.2 中看到这种行为。另外，由于 One UI 6 Beta 基于最新的 Android 14 源代码，因此也受到了这一变化的影响。&lt;br /&gt;&lt;br /&gt;有什么好的方法解决？</description><pubDate>Fri, 08 Dec 2023 15:54:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998853#reply2</guid></item><item><title>[宽带症候群] 广东佛山电信要回公网 IP 之路，内附和客服斗智斗勇过程，大家参谋参谋</title><link>https://www.v2ex.com/t/998849#reply5</link><description>&lt;h1&gt;背景&lt;/h1&gt;
+&lt;p&gt;2017 年开通的公网 IP ，一直用到现在；上周凌晨重新拨号后就没了，目前已经和各路客服斗智斗勇一周了。&lt;/p&gt;
+&lt;h1&gt;过程&lt;/h1&gt;
+&lt;p&gt;先是 10000 号当地电信公司投诉，然后有个客户经理打电话过来巴拉巴拉之前的公告，V2 之前也有人发过：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;新装用户不给公网 IP&lt;/li&gt;
+&lt;li&gt;存量私网用户不给公网 IP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我的诉求依据是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我是从 2017 年申请用到现在的，在没有任何沟通的前提下，变更服务内容&lt;/li&gt;
+&lt;li&gt;基于有公网 IP 的前提，我购入的智能家居设备没有厂家服务器支持，谁来负责这个损失？因为监控失效带来其他的家庭安全隐患谁负责？&lt;/li&gt;
+&lt;li&gt;公示说的是“新装”和“存量私网”，我本来就有公网 IP 不在这个范围&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;然后客户经理表示理解，向上反馈，48 小时内答复。接着客户经理就消失了，48 小时后再打客服就是复读机内容，不接受就帮你向上反馈，再等 48 小时吧您嘞；客服复读内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;动态公网 IP 也属于“存量私网”&lt;/li&gt;
+&lt;li&gt;每个月加 100 可以解决这个问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;好吧，既然客服拖延我也不想浪费时间了，把沟通的录音、相关服务单号和全过程的文字记录都打包了一下；打开了工信部的网站，同时拨打 4008810000 投诉了地方公司的客服问题（这个后面细说）&lt;/p&gt;
+&lt;p&gt;4008810000 转给了地方公司的客服，客服问题就一句我们会继续改进；然后聊到我公网 IP 的诉求，还是复读上面两条答复，额外“大方”的表示既然您这么坚持，可以尝试和领导申请一下再提供一年的免费公网 IP……被我拒绝了，说等工信部申诉结果吧。&lt;/p&gt;
+&lt;h1&gt;投诉渠道和进度&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;1 、Typeframes：文本生成视频 AI 创建工具&lt;/li&gt;
-&lt;li&gt;2 、Cronicle: 开源多服务器任务调度器&lt;/li&gt;
-&lt;li&gt;3 、MakeLanding：AI 小工具卖了 3.5 万美金&lt;/li&gt;
-&lt;li&gt;4 、开发一个健身管理软件，每月能赚 6 万美元&lt;/li&gt;
+&lt;li&gt;[✔] 当地 10000 号&lt;/li&gt;
+&lt;li&gt;[✔] 4008810000 投诉地方公司&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 4008810000 投诉省公司&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 中国电信 APP 投诉&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 工信部&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;本期详细内容： &lt;a href="https://www.ezindie.com/weekly/issue-115" rel="nofollow"&gt;https://www.ezindie.com/weekly/issue-115&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 00:54:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998537#reply0</guid></item><item><title>[问与答] 是不是不应该相信“无货源”电商？</title><link>https://www.v2ex.com/t/998535#reply6</link><description>&lt;p&gt;大家是怎么看的呢？我的看法是：这种在同一环节上增加中间环节，且没有传递附加价值的形式是行不通的。愿意就在于中间端和末端没有“成本距离”，一个用户既可以连接你，也可以直接连接商家。&lt;/p&gt;
-&lt;p&gt;那么用户的选择就变成了同个互联网上进行商品比价了，况且个人的无货源电商还没有配套成熟的“售后环节”，只能靠退货退款，相比末端商家的全套服务，相差甚远。&lt;/p&gt;
-&lt;p&gt;想知道大家是怎么看的呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 00:50:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998535#reply6</guid></item><item><title>[宽带症候群] 有人要移动云电脑优惠补贴么？只限北京移动</title><link>https://www.v2ex.com/t/998534#reply10</link><description>1.北京移动手机卡&lt;br /&gt;2.第一次新开移动云电脑业务&lt;br /&gt;&lt;br /&gt;找我拿补贴 20/人。。。。&lt;br /&gt;&lt;br /&gt;配置 4G 80G 无公网</description><pubDate>Fri, 08 Dec 2023 00:44:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998534#reply10</guid></item></channel></rss>
+&lt;p&gt;4008810000 来电后，目前感觉是陷入了僵局；我的 1 、2 条依据对方避而不谈，或者说让加钱解决（其实这个应该也不合理），我如果要求索赔的话，好像只能法院见了？最后对于“存量私网”的解释，目前也没什么理由反驳……&lt;/p&gt;
+&lt;p&gt;如果没法找到更好的角度，感觉后面三个渠道也是浪费时间罢了。&lt;/p&gt;
+&lt;p&gt;所以今晚想着发来 V2 大家看看，看看老哥们有没有其他角度的想法，同时也记录下过程让后人参考。&lt;/p&gt;
+&lt;h1&gt;最后 BB 一下客服问题&lt;/h1&gt;
+&lt;p&gt;这里仅针对佛山电信，就我这几年两三次和他们打交道的经验来看，可以说非常流氓，各种人为制造障碍阻止你投诉他们或者逃避不想解决的问题。&lt;/p&gt;
+&lt;p&gt;上面说到 4008810000 投诉客服问题，是我最开始提交的投诉工单，48 小时后直接给我关了；后面去问这个事情的时候，客服说漏嘴，说是工单有处理时效……&lt;/p&gt;
+&lt;p&gt;这样一来，你有意见，或者催促，就是 48 小时内答复；如果没回复，再打电话过去又是 48 小时~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998849#reply5</guid></item><item><title>[宽带症候群] 更换了中兴 G7615 网络更不稳定了</title><link>https://www.v2ex.com/t/998848#reply0</link><description>之前是华为的 HN8145XR 光猫，虽然不能指定 bars （ ac name ）经常运行在 NAT3 环境下，但十分的稳定，前几天出了一点意外，买了个中兴 G715 光猫，我只能说十分的不稳定，网心云发现 NAT 不稳定，远程桌面各种丢包断网，防火墙一套全关闭，连接数 65535 ，包括玄学的删除连接后再自行建立连接都试过了，依然十分的不稳定...看起来还是得用回以前的 HN8145XR ，要么就把 G7615 当成纯粹的光电转换器，做桥接，想了想还是用回 HN8145XR 算了....&lt;br /&gt;宽带运营商：广州联通&lt;br /&gt;指定 BARS 有助于我可以选择到 NAT1 的路线而不是 NAT3 的路线</description><pubDate>Fri, 08 Dec 2023 15:47:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998848#reply0</guid></item><item><title>[问与答] 坐标山东，今晚打死了至少八只蚊子。是不是天台暖和的原因，蚊子都从下水道里飞出来了。如果是的话请问怎么杜绝这种情况呢？</title><link>https://www.v2ex.com/t/998847#reply0</link><description></description><pubDate>Fri, 08 Dec 2023 15:39:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998847#reply0</guid></item><item><title>[宽带症候群] sms-activate 接码平台选了境外的号码，怎么仍是接收不到短信验证码？</title><link>https://www.v2ex.com/t/998846#reply1</link><description>sms-activate 接码平台选了境外的号码，怎么仍是接收不到短信验证码？&lt;br /&gt;&lt;br /&gt;试过了几个不同的国家的号码，全部接收不到，已经充值了几美元的。有 XDM 知道哪里的问题嘛？跪谢！</description><pubDate>Fri, 08 Dec 2023 15:37:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998846#reply1</guid></item><item><title>[宽带症候群] 河南联通手动改桥接后，删除 TR069 配置，路由 pppoe 拨号，获取公网 ip 被固定暂时无法漂移...</title><link>https://www.v2ex.com/t/998845#reply3</link><description>主题：如上&lt;br /&gt;运营商：联通&lt;br /&gt;坐标：郑州&lt;br /&gt;宽带：69 元套餐，送的 300M&lt;br /&gt;&lt;br /&gt;操作：之前移机，被运维工程师强制升级了光猫，后来手动查资料+手动测验尝试突破，获取超级管理密码，后更改桥接，路由 pppoe 拨号，同时删除 TR069 配置。&lt;br /&gt;&lt;br /&gt;在 2023-12-03 02:30:28 之前，还能公网 IP 飘逸的。&lt;br /&gt;&lt;br /&gt;目前情况：不管是给光猫断电还是后台重启，路由拨号后，公网 IP 尚未飘逸。从 ddns 解析日志来看，2023-12-03 02:30:28 持续到今天，已有 6 天。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;困惑：这种情况，不是很常见。后面会不会被识别针对呀？&lt;br /&gt;&lt;br /&gt;有没有遇到这种情况的大兄弟～～～～</description><pubDate>Fri, 08 Dec 2023 15:30:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998845#reply3</guid></item><item><title>[Apple] 国内的 Sony 电视为什么要把 HomeKit 去掉？</title><link>https://www.v2ex.com/t/998844#reply1</link><description>&lt;p&gt;没想明白 Sony 的这一操作&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:27:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998844#reply1</guid></item><item><title>[问与答] bing 通过 proxy 进行代理，经常打不开，提示 ERR_TOO_MANY_REDIRECTS</title><link>https://www.v2ex.com/t/998842#reply1</link><description>&lt;a href="http://www.bing.com" rel="nofollow noopener" target="_blank"&gt;www.bing.com&lt;/a&gt; 流量经过 proxy 进行代理，但是还是会经常出现 ERR_TOO_MANY_REDIRECTS ，有什么办法解决呀</description><pubDate>Fri, 08 Dec 2023 15:09:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998842#reply1</guid></item><item><title>[Android] 安卓的解锁 root 只能靠厂商？是时候靠自己了</title><link>https://www.v2ex.com/t/998840#reply1</link><description>&lt;p&gt;随着解锁越来越难，为什么不能换种方法。有种思路，现在新版安卓 boot 都会验证 system 分区签名，如果被篡改，则不能启动。和苹果 ios 的 ssv 类似，解决方法是把可执行文件，例如 su ，sudo 放到 baseband 分区，这个分区并没有签名验证，也有执行二进制文件的权力。通过软件层面的漏洞，remount 分区，再写入 root 相关文件，只是每重启后需要再激活一次 root 环境。完美避开官方解锁门槛，和解锁后丢失保修的问题。我相信安卓肯定有漏洞，只要自己不更新安全补丁，会出现支持当前版本的 root 工具，不需要再低声下气的哀求厂家解锁手机。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:02:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998840#reply1</guid></item></channel></rss>
