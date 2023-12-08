@@ -1,80 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 07 Dec 2023 02:18:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 懂劳动法的老哥们，帮我看看我老婆单位的这种情况，有没有什么办法解决一下</title><link>https://www.v2ex.com/t/998273#reply0</link><description>先交代一下基本情况：我老婆是一名护士，在乡镇卫生院上班，护士总共 5 个人&lt;br /&gt;&lt;br /&gt;她们的上班时间我按一周 7 天来算，基本上是这样&lt;br /&gt;周一白班(上午 8:00~12:00,下午 2:30~5:30)&lt;br /&gt;周二值班(早上 8:00~周三上午 11:00)&lt;br /&gt;周三休息(上午到 11:00)&lt;br /&gt;周四整天休息&lt;br /&gt;周五(上午 8:00~12:00,下午休息)&lt;br /&gt;周六白班(上午 8:00~12:00,下午 2:30~5:30)&lt;br /&gt;周日值班(早上 8:00~第二天上午 11:00)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;按一周 7 天这样算，休假时间基本上是周三下午半天，周四一整天，周五下午半天，周日下午半天，每个人总共可以休假两天半&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;但是目前我老婆怀孕满了 7 个月，她们单位上安排不需要上夜班了，改为了长白班，因为只有 5 个人，又需要倒夜班，修改后的排班时间就是我老婆 7 天上 6 天白班，休一天&lt;br /&gt;因为一周只有 4 个人倒夜班，所以导致 4 个人的休假总时长不一致了&lt;br /&gt;但我算了一下，修改后，我老婆 7 天休一天&lt;br /&gt;其余同事，最少一周能休 3 天，最多能休 3.5 天，相当于我老婆不上夜班后，她们的休假时间还变长了，我老婆的休假时间还变少了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;然后将此事告知了领导，领导拿笔算工时，这就出现矛盾了，主要出在值班上。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我这里明确一下她们值班的情况&lt;br /&gt;值班当天早上 8 点上到中午 11:30 ，给半小时吃饭，然后 12:00~2.30 ，下午 2:30~5.30 可以在值班室睡觉（因为下午有 2 个人上班且基本没什么事做，所以她们自己内部自发都让当天值班的人下午去值班室睡觉），然后 5:30 上到晚上 10:00 ，10:00 之后就进值班室睡觉，可以睡到第二天早上 8 点（但是晚上如果临时有病人来看病需要打针输液，也是需要起来的，但很少，值 5 次班，可能遇得上 1-2 次起床的情况），早上 8 点起来上到中午 11 点回家&lt;br /&gt;&lt;br /&gt;就因为这个值班，护士长说值班是从当天 8:00 到第二天早上 11:00 ，总共是 27 个小时&lt;br /&gt;调整我老婆上长白班之后，剩下的 4 个人，每周肯定有 2 个值班，就 54 个小时了，还没算其他班，她们总共一周最低要上 60 小时，我老婆长白班 6 天才 42 个小时，很合理。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;在这里我想问一下各位，护士长这样的算法是否合理，用劳动法能解决这种情况吗？当然，站在我和我老婆的角度来说，她觉得这个很坑，还不如值班（因为这个值班确实不累），一周还能有 2 天假，现在这样一周只有一天假（而且一天还要去产检）。&lt;br /&gt;&lt;br /&gt;在这里只讨论这个事情是否合理，和能否用劳动法使其有点改变。&lt;br /&gt;在此提一下为什么要老婆上班，怀孕就该在家休息等，怕大家歪楼。我提过，但我老婆因为不想长时间一个人在家，怕得产妇抑郁，且想休产假，所以还是想上班打发时间，但是没想到现在会遇到这种情况。</description><pubDate>Thu, 07 Dec 2023 02:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998273#reply0</guid></item><item><title>[程序员] 数据的主键类型不一样，如何迁移？</title><link>https://www.v2ex.com/t/998272#reply0</link><description>&lt;p&gt;有一批对方公司的数据是不规范的雪花主键(可能超过 19 位)，我方数据库都是 bigint 自增主键，现在需要把对方公司的数据做异构迁移到我们数据库，各个表之间会存在关联关系，我现在想在保留关联关系的情况下迁移过来，这块各位大佬是否有方案？数据量级为亿级&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:16:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998272#reply0</guid></item><item><title>[路由器] 马上过年了，想给老家五层房子弄个网络</title><link>https://www.v2ex.com/t/998271#reply3</link><description>&lt;p&gt;不知名疙瘩的家乡宅基地建了，早些年建了 5 层房子，网络一直不好，想求 v 友给个建议&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1.基本年年过年必回家，爸妈马上要退休也要回老家常住，老姐初二回来串门
-2.整栋长方形结构，以二楼为例贴图，光猫在二楼客厅（前）
-3.2 楼中，2 楼后，3 楼后，4 楼后都有人住
-4.现有方案是 2 楼弄个路由器，牵了线到 3 楼后也弄了个路由器，路由器都是大学和毕业后自己换的二手货
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;有比较好的，不用零碎布线的完善方案不，求个&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:09:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998271#reply3</guid></item><item><title>[宽带症候群] 目前江苏新装宽带，谁家能搞到公网 ip</title><link>https://www.v2ex.com/t/998270#reply0</link><description>&lt;p&gt;退一步，ipv6 是不是都有？&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:08:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998270#reply0</guid></item><item><title>[职场话题] 好奇大家在公司电脑上是怎么管理私人账号的</title><link>https://www.v2ex.com/t/998269#reply1</link><description>&lt;p&gt;对于公司发的电脑，像浏览器账号、qq 微信、云笔记、待办清单、云音乐、邮件客户端、网盘（包括 OneDrive ）等等这些必须登录账号才能使用的软件，大家是单独注册的公用账号，还是公私合用？亦或者是不记住登录状态，每次用都重新登录？公私合用的话，会不会存在被监控、被优化后来不及退出账号等情况？&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:08:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998269#reply1</guid></item><item><title>[问与答] 大家有没有遇到 facetime 特别卡的情况？</title><link>https://www.v2ex.com/t/998268#reply0</link><description>&lt;p&gt;facetime 带的屏幕共享挺实用的 经常拿它用来教我老爹玩手机&lt;/p&gt;
-&lt;p&gt;可是经常卡顿 要么没画面 要么没声音 卡了之后大概率会断&lt;/p&gt;
-&lt;p&gt;两边信号都是 3-4 格 现在只好用电话+todesk 将就 &lt;/p&gt;
-&lt;p&gt;这个和 app store 账号地区应该没关系吧&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:06:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998268#reply0</guid></item><item><title>[问与答] 关于陀氏的作品的阅读</title><link>https://www.v2ex.com/t/998267#reply1</link><description>&lt;p&gt;最近在读陀思妥耶夫斯基的书，里面人物多，关系复杂。但是最让我感受到阅读难度的是书中的人名有时候写姓，有时候写名，有时候姓和名都写，导致了经常读一半忘了这个名字对应的是哪个人物。
-有人遇到过类似的问题吗，有什么好的解决方法呢？&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:05:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998267#reply1</guid></item><item><title>[Rust] 最近初学 rust 有个疑问</title><link>https://www.v2ex.com/t/998266#reply0</link><description>&lt;p&gt;rust 有空安全机制为什么不搞一套和 kotlin 和 dart 那样的空安全语法糖来替代手写 Option ，感觉写起来挺啰嗦的。&lt;/p&gt;
-&lt;p&gt;对比下：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 08 Dec 2023 01:37:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 做了一个 base64 编码/解码工具</title><link>https://www.v2ex.com/t/998555#reply0</link><description>base64 不难，但是我需要支持二进制格式，而且细节有点多，找了一圈没找到。&lt;br /&gt;&lt;br /&gt;比如解码后区分 utf8 格式，gbk 格式，二进制格式。&lt;br /&gt;解码前，又区分 base64 urlsafe 和严格模式 base64(带有==结尾), 和非严格模式 base64(可以省略==结尾)&lt;br /&gt;&lt;br /&gt;所以就随手写了一个在线工具:&lt;br /&gt;&lt;br /&gt;&lt;a href="https://tool2d.com/#base64" rel="nofollow noopener" target="_blank"&gt;https://tool2d.com/#base64&lt;/a&gt;</description><pubDate>Fri, 08 Dec 2023 01:32:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998555#reply0</guid></item><item><title>[分享发现] 才发现现在的紫米充电器已经不是当年小米有品那个 ZMI 紫米了</title><link>https://www.v2ex.com/t/998554#reply0</link><description>&lt;p&gt;前几天入手了一个二手红米，没有充电器，最大充电规格是 5V 2A 。之前对 ZMI （前紫米）印象不错，于是京东紫米旗舰店直接买了一个 10W 的，标定 5V 2A 。到手发现 Logo 和以前不一样，也没在意，以为品牌升级了。  &lt;/p&gt;
+&lt;p&gt;后来发现半小时充电 1%，结果测量一下，充电只有 5V 300mA ，我拿 3 年前买的 18W ZMI （前紫米）试了一下，1500mA 以上；拿苹果祖传 5V 1A 试了一下，900mA 以上，排除了线的问题。  &lt;/p&gt;
+&lt;p&gt;后来看了 3 年前的订单，两单都是 ZMI 京东自营店，这次买的是紫米官方旗舰店，发现不对，一查才知道，&lt;strong&gt;原来以前小米有品里的那个紫米、ZMI ，现在改叫酷态科了，现在的紫米 ZIME 是单独的，其充电表现如上。&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;后来去京东试了一下，搜紫米+充电器，第一个结果是酷态科，第二个是紫米 ZIME ，看来是我的问题，大意了。联系客服，已经退货。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998554#reply0</guid></item><item><title>[问与答] 有什么好用的 Personal Dashboards？不需要太多配置的。</title><link>https://www.v2ex.com/t/998553#reply0</link><description></description><pubDate>Fri, 08 Dec 2023 01:31:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998553#reply0</guid></item><item><title>[问与答] 关于在公司或屋内购买椅子的抉择</title><link>https://www.v2ex.com/t/998552#reply0</link><description>&lt;p&gt;最近入职了一家新公司，目前刚刚顺利转正，但公司配的椅子太次了，坐上去怎么都不舒服，倾向于自己买一把新的人体工学椅。可恰好出租屋里坐的那把普通椅子，一个角也歪掉了，也想换，不过把角摆置一下也差不多能坐，跟公司椅子都差不多在可忍受范围内。&lt;/p&gt;
+&lt;p&gt;目前就是三个选择：&lt;/p&gt;
+&lt;p&gt;1.椅子买在公司，可以让我更好的工作，毕竟每天绝大部分时间都是在这张椅子上，但怎么说呢，颇有种自费上班的工 zei 之感。&lt;/p&gt;
+&lt;p&gt;2.把屋里的椅子换了，虽说只有工作日晚上以及周末会用到，但周末我也经常打游戏，有个好椅子是更舒服的，而且把椅子放在自己住的地方，稍稍有一种归属感。&lt;/p&gt;
+&lt;p&gt;3.折中之策，把预算掰开成两半，将原本要买椅子的预算拆开，公司和家里各买一把，但体验肯定会下降，好处是都能享受到座椅升级的舒适感。&lt;/p&gt;
+&lt;p&gt;目前在纠结中，想听听各位的意见。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:31:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998552#reply0</guid></item><item><title>[Apple] iPhone 14pm 续保 apple care</title><link>https://www.v2ex.com/t/998551#reply0</link><description>&lt;p&gt;22 年 12 月买的手机，昨天在有限保修快过期时去续保了 apple care ，给自己个心理安慰。&lt;/p&gt;
+&lt;p&gt;去的西单店，到场直接跑了两项设备检测，店员也会查看外观是否有损坏，然后就提交购买申请了。整体流程还是比较快的。&lt;/p&gt;
+&lt;p&gt;1599 大洋，用了招行 24 期，希望能多用两年吧~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:29:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998551#reply0</guid></item><item><title>[问与答] 求家用服务器推荐组合</title><link>https://www.v2ex.com/t/998550#reply2</link><description>&lt;p&gt;预计需要使用 PVE 来开多个系统进行学习和使用（服务器、Linux 、Docker 、K8s 等等），可能还涉及到组 NAS 。&lt;/p&gt;
+&lt;p&gt;目前计划是使用 戴尔的 T6xx 系列（因为是塔式服务器，噪音能小一点），最少感觉需要 20 核心 40 线程吧。&lt;/p&gt;
+&lt;p&gt;希望可以添加独立显卡（如果添加噪音过大，也是可以用集显的），功率不成问题，但是可能隔几个月需要关机一下。&lt;/p&gt;
+&lt;p&gt;不知道该如何配置这个服务器，希望各位大佬给出一点建议&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;补充：希望用二手，便宜点组装，预算在 6000 内，不包含硬盘和内存&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🙏🙏🙏&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:26:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998550#reply2</guid></item><item><title>[分享发现] 设计电话回访需要语音回复的人是怎么想的？</title><link>https://www.v2ex.com/t/998549#reply0</link><description>&lt;p&gt;发现现在的回访类电话都是需要语音回复的，设计的人是怎么想的。&lt;/p&gt;
+&lt;p&gt;例如：
+小米：你好我是小米智能客服，了解到您最近 XXX 过，如果让您用满意、不满意....你会如何评价呢？
+工行：您好，我是工商银行语音助理，请问您是 xxx 吗？
+中行：我是 xxx ，为您推荐 xxx ，为您推荐下好吗？&lt;/p&gt;
+&lt;p&gt;以前类似这些回访都是可以按键选择选项的，现在只能语音回复，有啥意思。
+按键评价我还可能评评，这语音相信大多人都是直接挂了的吧。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:25:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998549#reply0</guid></item><item><title>[问与答] 谁有好的欧美移民渠道？ 最好全家能一起的.</title><link>https://www.v2ex.com/t/998548#reply1</link><description>为了未来留个路子, 虽然不一定外国月亮圆，但是我觉得自由安全空气也重要. 谁有好的经验渠道分享一下？</description><pubDate>Fri, 08 Dec 2023 01:25:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998548#reply1</guid></item><item><title>[程序员] tunnelbroker.net 不分配/48 子网了吗？</title><link>https://www.v2ex.com/t/998547#reply0</link><description>&lt;p&gt;还有其它类似的可以分配/48 子网吗？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:24:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998547#reply0</guid></item><item><title>[智能家电] 各品牌的吹风机有啥区别？</title><link>https://www.v2ex.com/t/998546#reply1</link><description>&lt;p&gt;现在主打的吹风机都是 10w 转或者 11w 转的无刷电机，比较代表的就是戴森、徕芬，追觅等等牌子，那么我买华强北出的吹风机，差别在哪里呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:23:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998546#reply1</guid></item><item><title>[问与答] 有人一起团购 chatgpt swiftui ios 源码吗</title><link>https://www.v2ex.com/t/998545#reply2</link><description>&lt;p&gt;99 刀对刚入门苹果开发来说有点贵，想找几个人平摊一下&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://codecanyon.net/item/conversai-ios-chatgpt-ai-native-swiftui-chat-app/46164157" rel="nofollow"&gt;https://codecanyon.net/item/conversai-ios-chatgpt-ai-native-swiftui-chat-app/46164157&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:18:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998545#reply2</guid></item><item><title>[宽带症候群] 杭州电信又收回 ipv4 公网了</title><link>https://www.v2ex.com/t/998544#reply7</link><description>&lt;p&gt;我这条宽带去年收回了一次，找客服弄回来了，今年又收回，感觉再来几次就不会再给公网 IP 了，打算要不到公网 IP 就退网&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:10:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998544#reply7</guid></item><item><title>[分享创造] 开源免费和离线版 Notion 笔记目前可以堪用了</title><link>https://www.v2ex.com/t/998543#reply3</link><description>&lt;h3&gt;发现&lt;/h3&gt;
+&lt;p&gt;因为众多周知的原因，很多人都在找 Notion 离线版替代品，之前关注过 AppFlowy 这个项目，最近发现已经有 mac\windows\linux 版本了，据说这个月移动端也能上线。
+数据完全离线，可以自己部署到本地、服务器或者云盘上，自己的数据自己做主，终于可以和 Obsidian 互补了。
+下载试用了一下，感觉已经达到 Notion 功能 70%上下了，尤其是多维表格符合我的预期，感兴趣可以关注下&lt;/p&gt;
+&lt;h3&gt;链接&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/AppFlowy-IO/AppFlowy" rel="nofollow"&gt;Github&lt;/a&gt;
+&lt;a href="https://www.appflowy.io" rel="nofollow"&gt;官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PS:
+之前也试过号称 Notion 替代品 Anytype,本地化优先、端到端加密。
+但是因为提供不同的概念，上手极其困难，即使我用过 Notion 。
+且数据虽然号称本地化，但是个人完全无法掌握数据，使用可能是实时加密的缘故，还有点卡顿
+而导出功能也不是很满意，只有 md 格式，没有 pdf ，希望后续能解决这些痛点应该也不错&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:08:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998543#reply3</guid></item><item><title>[macOS] 键鼠全部更换到无线之后的问题</title><link>https://www.v2ex.com/t/998542#reply8</link><description>&lt;p&gt;最近抽空把键鼠全部更新到了无线（键盘 蓝牙，鼠标 2.4G ），本意是为了桌子上不在有线，但好像引发了两个问题。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 从 iPhone 到 mac 的隔空投送几乎不可用。具体表现是：在 iPhone 选择要发送的文件后，可以很快列出身边的 iCloud 设备，但选择向 mac 进行发送后，大概 90%的情况下无限提示“等待中...”，还有 5%的情况 mac 在经过一段时间后“卡一下”然后一下收到好多重复文件，另外 5%的情况 mac 右上角提示“来自 iPhone 的隔空投送已取消”。但从 mac 到 iPhone 的隔空投送一切正常；
+
+2. 键盘是目前市场上比较卷的三模机械键盘（其实我前前后后试了大概三四个品牌，均用的蓝牙协议，蓝牙列表里显示的名称大部分都是类似 BT 5.0 Keyboard 之类的）。这些键盘连接倒是很快，但每次键盘休眠后再自动连接后（不是 macOS 休眠，mac 我设置成了不休眠），大概率会出现按键混乱。比如按 Q 变成截屏，按 a 会输入一个很像 a 的不知道什么语言字符的 a ，此时只能通过键盘上的物理三模切换按钮，先切到别的模式再切回蓝牙才正常。
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 08 Dec 2023 01:08:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998542#reply8</guid></item><item><title>[Go 编程语言] 大家有使用过 go 的 go-ole 库操作 windows 防火墙规则修改和禁用么</title><link>https://www.v2ex.com/t/998541#reply0</link><description>&lt;p&gt;大家有使用过 go 的 go-ole 库操作 windows 防火墙规则修改和禁用么
+搞了很久实现不了，不知道有没大佬写过这样的需求&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998541#reply0</guid></item><item><title>[酷工作] 寻求有关视频处理等相关的朋友一直做产品</title><link>https://www.v2ex.com/t/998539#reply0</link><description>&lt;p&gt;v：bWFzcy1yZWQ=&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 01:00:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998539#reply0</guid></item><item><title>[问与答] 二三房东纠纷，如何拿回房租押金</title><link>https://www.v2ex.com/t/998538#reply4</link><description>我朋友月底正常退房，现在二房东和三房东因为他们之间交接合同问题没达成一致，现在押金无法找到负责人退，当时签合同是和一个管理员签的，但是这个管理员走了。目前已经报警，但并没有什么效果，请问大家有没有什么好的办法（非暴力），月底朋友就不在这边了，所以时间挺紧&lt;br /&gt;&lt;br /&gt;地点是在深圳</description><pubDate>Fri, 08 Dec 2023 00:56:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998538#reply4</guid></item><item><title>[分享发现] 独立开发变现周刊（第 115 期）：开发一个健身管理软件，月收入 6 万美元</title><link>https://www.v2ex.com/t/998537#reply0</link><description>&lt;p&gt;分享独立开发、产品变现相关内容，每周五发布。&lt;/p&gt;
+&lt;p&gt;目录：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;kotlin&lt;/li&gt;
+&lt;li&gt;1 、Typeframes：文本生成视频 AI 创建工具&lt;/li&gt;
+&lt;li&gt;2 、Cronicle: 开源多服务器任务调度器&lt;/li&gt;
+&lt;li&gt;3 、MakeLanding：AI 小工具卖了 3.5 万美金&lt;/li&gt;
+&lt;li&gt;4 、开发一个健身管理软件，每月能赚 6 万美元&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;// 声明可空
-var number: Int? = null
-// 取值，为空时给默认值
-number ?: 0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;dart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;// 声明可空
-int? number = null;
-// 取值，为空时给默认值
-number ?? 0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;rust&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;// 声明可空
-let number:Option&amp;lt;i32&amp;gt; = None;
-// 取值，为空时给默认值
-number.unwrap_or(0);
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;可以看到 kotlin 和 dart 有语法糖写起来舒服多了，rust 为啥不支持下，写成这样：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;let number:i32? = None;
-number ?? 0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当然还有更方便的链式调用，&lt;code&gt;order?.user?.name&lt;/code&gt; 这种&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 02:03:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998266#reply0</guid></item><item><title>[程序员] 有什么 Mac 上能玩的或网页上的办公室联机摸鱼游戏</title><link>https://www.v2ex.com/t/998264#reply2</link><description>&lt;p&gt;办公室开发的同事们大多都是苹果电脑，我自然也是苹果。为了避免同事太卷，我要带着办公室一起摸鱼！有没有什么能联机的、甚至是可以本地局域网部署的有趣游戏，我认为 Web 的 2D MMORPG 是联机摸鱼的最合适不过的游戏了，但似乎没有看到有合适的游戏。最近也萌生了动手做一个 Web2D MMORPG 游戏的想法，大概了解了一下技术栈，考虑使用 CoCos+Colyseus （但实际我并没有游戏开发经验）
-之前有玩过国外版的网页版红警（和电脑版一摸一样），甚至还支持联机，但是由于网络问题实际在国内也没法正常游戏。如果国内有类似的游戏，那大概就是办公室联机摸鱼的完美游戏了吧！
-大家有什么推荐的电脑上的联机游戏吗？&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:59:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998264#reply2</guid></item><item><title>[问与答] 关于 ssl 证书和 dns 解析服务器的收费问题讨论</title><link>https://www.v2ex.com/t/998263#reply0</link><description>今年头部云服务商，纷纷改版，比如：默认的 ssl 证书申请按钮藏在小角落或者需要二次展开，有效期缩短为 3 个月等等。dns 免费解析服务器一直在界面上提示服务不稳定、不可靠，建议升级收费 dns 等等。&lt;br /&gt;从服务商的这些试探改变，担忧以后的某一天，这些最基础的互联网服务，是否会演变为全面收费的局面？不再提供免费服务？</description><pubDate>Thu, 07 Dec 2023 01:59:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998263#reply0</guid></item><item><title>[Vim] 用 vim/nvim 写 Python 用什么插件？</title><link>https://www.v2ex.com/t/998262#reply3</link><description>&lt;p&gt;各位，用 vim/nvim 写 python 用什么插件？
-比如，&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;linter 和 formater ，可以用 ruff 。&lt;/li&gt;
-&lt;li&gt;静态代码检测可以用 pyright 。&lt;/li&gt;
-&lt;li&gt;定义，跳转，引用，等等可以用啥呢？&lt;/li&gt;
-&lt;li&gt;不知道需要有啥的？有没有大一统的插件，提供 IDE 中的一些比较常用的并且 Basic 的能力。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 07 Dec 2023 01:56:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998262#reply3</guid></item><item><title>[问与答] 现在那种优惠 2 年的运营商的卡有没有坑啊？</title><link>https://www.v2ex.com/t/998261#reply4</link><description>我现在用的 8 月深圳移动保号套餐，没流量可用，找了几个券商都推那种优惠期 2 年的大流量卡(185g 多，155 通用，30 定向)类似这种，电信的多，这种能办吗，有没有坑啊？问他们 2 年后能续期吗，都说能，不知道这种卡是啥来头，有办理过的大佬吗？</description><pubDate>Thu, 07 Dec 2023 01:55:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998261#reply4</guid></item><item><title>[Docker] docker swarm 部署服务需要等待很久的 preparing 是为什么呢？</title><link>https://www.v2ex.com/t/998260#reply5</link><description>&lt;p&gt;请教：&lt;/p&gt;
-&lt;p&gt;每个节点的服务器 都提前 pull 了镜像，镜像的 tag 版本都指定，也都配置好了 registry-mirrors&lt;/p&gt;
-&lt;p&gt;但是每次部署或者 docker service scale  都需要等数分钟。&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:49:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998260#reply5</guid></item><item><title>[问与答] 犹豫着要不要告诉朋友他堂妹现在的男朋友家里的背景</title><link>https://www.v2ex.com/t/998257#reply39</link><description>&lt;p&gt;朋友是四川绵阳人，他亲堂妹今年 28 了，处了一个男朋友，上周末带到我朋友家里来了，当时我也在场。&lt;/p&gt;
-&lt;p&gt;朋友堂妹的男朋友是搞装修建材的，主要搞瓷砖和卫浴。&lt;/p&gt;
-&lt;p&gt;席间这个男生举止言行还剩得体，稍阴柔的长相也符合当下女生的审美，除了确实太瘦了，其他都还好。&lt;/p&gt;
-&lt;p&gt;最后朋友送走堂妹和他男友后问我这个男生怎么样？我都是说很不错。我朋友突然说了句：“这个人和你还是老乡呢，一个地方的人。”席间他介绍自己姓施，叫啥我没太记住。当时一听说姓施我我感觉自己紧张了一下。从朋友家出来后我赶紧打电话给老家的一个朋友，问他认不认识这个施 xx 。朋友说这个人就是老施的小儿子，现在在做建材。这个老施也就是朋友堂妹男朋友的爸爸，就是本地一个老混子，前些年因为诈骗坐牢去了（不知道几进宫了，反正不是头一次）。除了他爸爸，另外他家他大哥、他妈都因故意伤害和诈骗坐过牢，可以说一家子都不是啥好人。这个施 xx 是他家唯一一个没有犯罪记录的人了，虽然人不错，但是我想应该会没人想把女儿嫁到他这种家庭去吧。她堂妹和这个男生处了有半年了，不知道她堂妹知不知情。&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:40:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998257#reply39</guid></item><item><title>[问与答] GoLand 2023.3 AI 如何才能使用？</title><link>https://www.v2ex.com/t/998256#reply3</link><description>&lt;h2&gt;情况说明&lt;/h2&gt;
-&lt;p&gt;昨晚 JetBrains 官网发了邮件，Don’t miss the JetBrains AI launch today ，今早更新一看到 2023.3 了 1 ，升级好了打开一看，竟然是不支持。
-&lt;code&gt;Al Assistant is disabled by your company&lt;/code&gt;
-有个 How to Enable ，点击页面是 404&lt;/p&gt;
-&lt;h2&gt;尝试解决&lt;/h2&gt;
-&lt;p&gt;开了 vpn global 越南节点，还是不行。是因为公司是大陆的吗？有办法解决吗？公司不能用盗版。&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:38:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998256#reply3</guid></item><item><title>[问与答] 为啥我的电脑的 Chrome 还是没有被切换到新版 UI</title><link>https://www.v2ex.com/t/998254#reply4</link><description>一台 Win ，一台 Mac ，登陆的同一个账号，Win 老早更新完了某一版就变成了新版 UI ，但是 Mac 的今早更新到了最新的 120.0.6099.71 ，还是旧版本的 UI 。大伙说说谷歌的灰度逻辑是啥样的啊？</description><pubDate>Thu, 07 Dec 2023 01:28:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998254#reply4</guid></item><item><title>[Android] 目前基本可以认为小米已经禁止 BL 解锁了</title><link>https://www.v2ex.com/t/998253#reply67</link><description>&lt;p&gt;&lt;img alt="A8ED964D3B395E8D27DC90C24565B3F4.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/07/VkmIiGvjuZwgr39.jpg" /&gt;
-&lt;img alt="3BF3DD63A3BA437531E3494BD952AF4F.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/07/IjFvPfTuLDsNMEh.jpg" /&gt;
-&lt;img alt="A105AAEFFB90290F364F6D48CC746365.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/07/oeqfDkv8CdmTsy3.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;现在申请解锁 BL 条件需要答题满分，答题规则是在 6 分钟内答对 18 道类似上面的多选题，题库会改变，每道题的题干和选项的正反面均会变化。&lt;/p&gt;
-&lt;p&gt;我昨天试了试，没答完直接零分。&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:28:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998253#reply67</guid></item><item><title>[宽带症候群] 请问，光猫路由一体机，可以桥接吗？</title><link>https://www.v2ex.com/t/998252#reply3</link><description>&lt;p&gt;联通光猫路由一体机（华为 HN8145XR + K662d ）
-原网络普通光猫----ac 拨号
-升级 fttr 送了   联通光猫路由一体机（华为 HN8145XR + K662d ）&lt;/p&gt;
-&lt;p&gt;想用一体机 拨号，宽带师傅说不行，要不就改网关模式变成大内网，要不就桥接模式当光猫用。
-我坚持认为可以，要来了超管账号密码。宽带师傅还说搞好了教教他&lt;/p&gt;
-&lt;p&gt;请问这个一体机能自己拨号吗&lt;/p&gt;</description><pubDate>Thu, 07 Dec 2023 01:26:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998252#reply3</guid></item><item><title>[程序员] 各位久坐的程序员，你们都买哪个人体工学椅？</title><link>https://www.v2ex.com/t/998251#reply28</link><description>&lt;p&gt;现在坐电竞椅时间久不舒服，准备换个人体工学椅，预算 500-1500 元，我 JD 购物车暂时加入以下几个，选哪个？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100046802414.html" rel="nofollow"&gt;网易严选 S5 ，509 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100024387431.html" rel="nofollow"&gt;京造 Z7 ，559 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/10089038769.html" rel="nofollow"&gt;西昊 M18 ，599 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100013992863.html" rel="nofollow"&gt;西昊 M88 ，639 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100057244316.html#crumb-wrap" rel="nofollow"&gt;西昊 M57C ，919 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100052699188.html" rel="nofollow"&gt;京造 Z9Elite 2 代，999 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100013842673.html" rel="nofollow"&gt;网易严选星舰版，1349 元&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://item.jd.com/100078155166.html" rel="nofollow"&gt;永艺 X1Pro ，1499 元&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 07 Dec 2023 01:25:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998251#reply28</guid></item><item><title>[问与答] 有没有 https://poki.com 这样的前端模版？</title><link>https://www.v2ex.com/t/998250#reply2</link><description>&lt;a href="https://poki.com/" rel="nofollow noopener" target="_blank"&gt;https://poki.com/&lt;/a&gt; 这个网站的设计，我觉得还是蛮好的，把所有内容都分块展示出来，让人很有点击的想法。&lt;br /&gt;这样的设计，大家知道有没有类似的模版？ 或者用什么的前端框架，可以很方便实现？</description><pubDate>Thu, 07 Dec 2023 01:23:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998250#reply2</guid></item></channel></rss>
+&lt;p&gt;本期详细内容： &lt;a href="https://www.ezindie.com/weekly/issue-115" rel="nofollow"&gt;https://www.ezindie.com/weekly/issue-115&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 00:54:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998537#reply0</guid></item><item><title>[问与答] 是不是不应该相信“无货源”电商？</title><link>https://www.v2ex.com/t/998535#reply6</link><description>&lt;p&gt;大家是怎么看的呢？我的看法是：这种在同一环节上增加中间环节，且没有传递附加价值的形式是行不通的。愿意就在于中间端和末端没有“成本距离”，一个用户既可以连接你，也可以直接连接商家。&lt;/p&gt;
+&lt;p&gt;那么用户的选择就变成了同个互联网上进行商品比价了，况且个人的无货源电商还没有配套成熟的“售后环节”，只能靠退货退款，相比末端商家的全套服务，相差甚远。&lt;/p&gt;
+&lt;p&gt;想知道大家是怎么看的呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 00:50:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998535#reply6</guid></item><item><title>[宽带症候群] 有人要移动云电脑优惠补贴么？只限北京移动</title><link>https://www.v2ex.com/t/998534#reply10</link><description>1.北京移动手机卡&lt;br /&gt;2.第一次新开移动云电脑业务&lt;br /&gt;&lt;br /&gt;找我拿补贴 20/人。。。。&lt;br /&gt;&lt;br /&gt;配置 4G 80G 无公网</description><pubDate>Fri, 08 Dec 2023 00:44:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998534#reply10</guid></item></channel></rss>
