@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 09 Dec 2023 20:26:31 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MacBook Pro] Mac CPU 偶尔会出现未知原因的高占用，求解？</title><link>https://www.v2ex.com/t/999062#reply1</link><description>&lt;p&gt;如下图，明明 CPU 高占用，我也明显感觉到系统卡顿了，但是却没有显示到底是哪个进程占用了这么多 CPU ，进活动监视器也看不到。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 09 Dec 2023 23:58:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[微信] 关于微信聊天记录恢复</title><link>https://www.v2ex.com/t/999066#reply0</link><description>寻求和探讨微信聊天记录恢复的可能性。&lt;br /&gt;前提情况：&lt;br /&gt;1 ，在删除前，手机和电脑上都有完整相同的聊天记录。&lt;br /&gt;2 ，没有进行过备份（微信自带的备份功能）。&lt;br /&gt;3 ，手机系统：iOS ； PC 系统：Windows10 ；微信版本：最近一两年内的某个版本。&lt;br /&gt;4 ，iCloud 没有备份。&lt;br /&gt;&lt;br /&gt;场景：&lt;br /&gt;和某个人的微信聊天记录：在手机上左滑删除聊天会话了，电脑上的也右键点击删除聊天会话了。然后把电脑上的文档目录里的 WeChat Files 目录文件完整复制一份备份。此场景下，手机和电脑上都已经是空白的没有任何聊天记录了。&lt;br /&gt;此场景下，还有恢复微信聊天记录的可能吗？如有请大神指明个方向。</description><pubDate>Sat, 09 Dec 2023 23:56:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999066#reply0</guid></item><item><title>[问与答] up 主录屏幕视频录音，想找一款 500 元以下的麦克风</title><link>https://www.v2ex.com/t/999065#reply0</link><description>请大家给个推荐，主要就是录制视频的人声。</description><pubDate>Sat, 09 Dec 2023 23:54:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999065#reply0</guid></item><item><title>[Docker] 请教一下大家关于 docker 网卡、带宽限制的问题</title><link>https://www.v2ex.com/t/999063#reply0</link><description>&lt;p&gt;大家好，我是 docker 初学者，遇到了以下情况，请教一下大家，集思广益&lt;/p&gt;
+&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;现在有个容器，我需要限制它的上下行带宽&lt;/p&gt;
+&lt;h2&gt;现状&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用 &lt;a href="https://github.com/magnific0/wondershaper" rel="nofollow"&gt;Wondershaper&lt;/a&gt; 来限制内部网卡 ( 名称为 vethxxxxxx ) ，效果非常好。缺点是容器每次重启，网卡名称都会改变。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新建一个 bridge 网络 ( br-xxxxxxxx ) (相当于 docker0 ) ，再使用 &lt;a href="https://github.com/magnific0/wondershaper" rel="nofollow"&gt;Wondershaper&lt;/a&gt; 限制其流量，会导致该网卡下的整个网络不可用。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;疑问&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;能否有办法可以固定内部网卡名称？使其不会重启后改变？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为什么限制内部网卡无事发生，限制它的父级网卡会导致断网？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;是否有更好的办法限制容器的上下行带宽？&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sat, 09 Dec 2023 20:52:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999063#reply0</guid></item><item><title>[MacBook Pro] Mac CPU 偶尔会出现未知原因的高占用，求解？</title><link>https://www.v2ex.com/t/999062#reply1</link><description>&lt;p&gt;如下图，明明 CPU 高占用，我也明显感觉到系统卡顿了，但是却没有显示到底是哪个进程占用了这么多 CPU ，进活动监视器也看不到。&lt;/p&gt;
 &lt;p&gt;M1 MAX MBP ，macOS 13.6.2&lt;/p&gt;
 &lt;p&gt;这个问题我只在把 Mac 盒盖移动一段距离、搬到另一个地方继续用的时候偶尔遇到过，但遇到了就很烦，它会随机突然卡一下，几分钟或者几十秒间隔都有可能。目前只发现重启电脑可以解决。&lt;/p&gt;
 &lt;p&gt;有什么办法可以不重启电脑来解决吗？比如，既然活动监视器不管用，还有什么看进程 CPU 占用的方法？&lt;/p&gt;
@@ -40,10 +63,10 @@ parent.child = child
 &lt;p&gt;但是因为 JSON 的 Decode 过程，没法通过先构造一个无参数的 Parent 再把 child 加到 parent 上面的方式来绕过。&lt;/p&gt;
 &lt;p&gt;这种情况下该怎么解决 relationship 的问题呢？&lt;/p&gt;
 &lt;p&gt;尝试了加&lt;code&gt;@Relationship&lt;/code&gt;或者不加或者加不同的注解，也试过在 relationship 两边的 class 分别加上对面的引用或者只加一边，但每次都会在同样的位置报错。&lt;/p&gt;
-&lt;p&gt;另外也在模拟器里面发现有时候虽然报错但是程序退出重启之后会多出来那么一两个原 JSON 里面的数据，也就是说存在解析成功了的情况，所以感觉也很迷惑。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 18:26:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999061#reply0</guid></item><item><title>[问与答] 后端框架 权限 菜单 问题</title><link>https://www.v2ex.com/t/999059#reply2</link><description>问各位老大&lt;br /&gt;&lt;br /&gt;后台的权限控制&lt;br /&gt;&lt;br /&gt;管理员可以增加和删除菜单,可以设置菜单的权限&lt;br /&gt;&lt;br /&gt;那么这个 菜单管理,这个权限是给管理员的&lt;br /&gt;那么管理员也有权删除&lt;br /&gt;如果把 菜单管理 这个给删除了,后台就管理不了任何菜单了&lt;br /&gt;&lt;br /&gt;请问这个如何防止误删除</description><pubDate>Sat, 09 Dec 2023 18:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999059#reply2</guid></item><item><title>[求职] 美国华人二代 cs 新毕业生求职</title><link>https://www.v2ex.com/t/999058#reply1</link><description>今年美国新毕业生就业太难了，加大 cs 本科毕业，英文第一语言，普通话一般，熟悉 c++/MERN ，求入门开发职位或者实习岗位推荐，前后端/手机应用都成，地点美加或远程都可以，必有重谢。</description><pubDate>Sat, 09 Dec 2023 17:36:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999058#reply1</guid></item><item><title>[程序员] 云中转 3 周年啦，我们陪伴了用户 1000+个日夜！</title><link>https://www.v2ex.com/t/999056#reply0</link><description>&lt;p&gt;前言： &lt;a href="https://v2ex.com/t/846259" rel="nofollow"&gt;https://v2ex.com/t/846259&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外也在模拟器里面发现有时候虽然报错但是程序退出重启之后会多出来那么一两个原 JSON 里面的数据，也就是说存在解析成功了的情况，所以感觉也很迷惑。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 18:26:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999061#reply0</guid></item><item><title>[问与答] 后端框架 权限 菜单 问题</title><link>https://www.v2ex.com/t/999059#reply3</link><description>问各位老大&lt;br /&gt;&lt;br /&gt;后台的权限控制&lt;br /&gt;&lt;br /&gt;管理员可以增加和删除菜单,可以设置菜单的权限&lt;br /&gt;&lt;br /&gt;那么这个 菜单管理,这个权限是给管理员的&lt;br /&gt;那么管理员也有权删除&lt;br /&gt;如果把 菜单管理 这个给删除了,后台就管理不了任何菜单了&lt;br /&gt;&lt;br /&gt;请问这个如何防止误删除</description><pubDate>Sat, 09 Dec 2023 18:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999059#reply3</guid></item><item><title>[求职] 美国华人二代 cs 新毕业生求职</title><link>https://www.v2ex.com/t/999058#reply2</link><description>今年美国新毕业生就业太难了，加大 cs 本科毕业，英文第一语言，普通话一般，熟悉 c++/MERN ，求入门开发职位或者实习岗位推荐，前后端/手机应用都成，地点美加或远程都可以，必有重谢。</description><pubDate>Sat, 09 Dec 2023 17:36:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999058#reply2</guid></item><item><title>[推广] 云中转 3 周年啦，我们陪伴了用户 1000+个日夜！</title><link>https://www.v2ex.com/t/999056#reply0</link><description>&lt;p&gt;前言： &lt;a href="https://v2ex.com/t/846259" rel="nofollow"&gt;https://v2ex.com/t/846259&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;2024 年我们开发团队继续前行、继续探索。&lt;/p&gt;
 &lt;p&gt;如果您使用过我们的产品，欢迎您打开手机微信搜索“云中转”，关注我们的官方订阅号，获取帮助或反馈问题。&lt;/p&gt;
-&lt;p&gt;我们提供最纯粹、最便捷的文件分享服务的决心坚定不移。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:27:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999056#reply0</guid></item><item><title>[Android] 安卓如何挂载 nfs</title><link>https://www.v2ex.com/t/999055#reply0</link><description>&lt;p&gt;想起一个 nfs server 同步手机的照片，但是找了半天也没找到安卓挂载 nfs 的方法，问问大佬有办法没。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:21:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999055#reply0</guid></item><item><title>[问与答] 求 win 轻薄本推荐</title><link>https://www.v2ex.com/t/999054#reply1</link><description>&lt;p&gt;想给我姐换个笔记本，攒了点钱，预算 4k-6k ，要求大概如下：&lt;/p&gt;
+&lt;p&gt;我们提供最纯粹、最便捷的文件分享服务的决心坚定不移。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:27:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999056#reply0</guid></item><item><title>[Android] 安卓如何挂载 nfs</title><link>https://www.v2ex.com/t/999055#reply0</link><description>&lt;p&gt;想起一个 nfs server 同步手机的照片，但是找了半天也没找到安卓挂载 nfs 的方法，问问大佬有办法没。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:21:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999055#reply0</guid></item><item><title>[问与答] 求 win 轻薄本推荐</title><link>https://www.v2ex.com/t/999054#reply2</link><description>&lt;p&gt;想给我姐换个笔记本，攒了点钱，预算 4k-6k ，要求大概如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;内存 16GB 起步，她喜欢好几个浏览器同时用而且页面不关，内存要求高。&lt;/li&gt;
 &lt;li&gt;对 CPU 性能基本上没要求，就浏览器+Office 三件套的水平。&lt;/li&gt;
@@ -51,7 +74,7 @@ parent.child = child
 &lt;li&gt;分辨率至少在 1920*1080/1920*1200 以上。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;其实我知道英特尔 Ultra 芯片快发布了，但估计售价会超出预算，而且初代新架构不想当小白鼠，就不等了&lt;/p&gt;
-&lt;p&gt;谢谢各位大佬！&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:15:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999054#reply1</guid></item><item><title>[问与答] 2023.12 有什么能打的 1000 以内手机？</title><link>https://www.v2ex.com/t/999053#reply0</link><description>研究了下&lt;br /&gt;redmi note 11t&lt;br /&gt;oneplus ace 竞速版&lt;br /&gt;oppo k10x&lt;br /&gt;有 12G RAM&lt;br /&gt;&lt;br /&gt;现在已经不打机海战术？&lt;br /&gt;求教 5G+NFC 还有什么能打的型号</description><pubDate>Sat, 09 Dec 2023 17:02:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999053#reply0</guid></item><item><title>[问与答] 想创业</title><link>https://www.v2ex.com/t/999052#reply1</link><description>想看看各位佬们对于创业融资和创业赛道啥看法 麻烦各位佬了</description><pubDate>Sat, 09 Dec 2023 16:56:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999052#reply1</guid></item><item><title>[天黑以后] 20231210 午夜俱乐部</title><link>https://www.v2ex.com/t/999050#reply1</link><description>&lt;p&gt;她&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999050#reply1</guid></item><item><title>[问与答] 如何获得高清的银联卡卡面？</title><link>https://www.v2ex.com/t/999049#reply4</link><description>&lt;p&gt;最近考虑把自己的贵重物品做一个电子化储存，防丢防忘。&lt;/p&gt;
+&lt;p&gt;谢谢各位大佬！&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 17:15:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999054#reply2</guid></item><item><title>[问与答] 2023.12 有什么能打的 1000 以内手机？</title><link>https://www.v2ex.com/t/999053#reply0</link><description>研究了下&lt;br /&gt;redmi note 11t&lt;br /&gt;oneplus ace 竞速版&lt;br /&gt;oppo k10x&lt;br /&gt;有 12G RAM&lt;br /&gt;&lt;br /&gt;现在已经不打机海战术？&lt;br /&gt;求教 5G+NFC 还有什么能打的型号</description><pubDate>Sat, 09 Dec 2023 17:02:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999053#reply0</guid></item><item><title>[问与答] 想创业</title><link>https://www.v2ex.com/t/999052#reply1</link><description>想看看各位佬们对于创业融资和创业赛道啥看法 麻烦各位佬了</description><pubDate>Sat, 09 Dec 2023 16:56:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999052#reply1</guid></item><item><title>[天黑以后] 20231210 午夜俱乐部</title><link>https://www.v2ex.com/t/999050#reply1</link><description>&lt;p&gt;她&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:46:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999050#reply1</guid></item><item><title>[问与答] 如何获得高清的银联卡卡面？</title><link>https://www.v2ex.com/t/999049#reply6</link><description>&lt;p&gt;最近考虑把自己的贵重物品做一个电子化储存，防丢防忘。&lt;/p&gt;
 &lt;p&gt;但是自己拍照手残，使用的还是 xr 这种老古董&lt;/p&gt;
 &lt;p&gt;于是打算找一些高清好看的图片&lt;/p&gt;
 &lt;p&gt;诸如电子产品很容易找到高清图片&lt;/p&gt;
@@ -60,18 +83,18 @@ parent.child = child
 &lt;p&gt;想知道哪里可以找到银联的高清卡面&lt;/p&gt;
 &lt;p&gt;放一张招行的
 &lt;a href="https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7602_VG.gif" rel="nofollow"&gt;https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7602_VG.gif&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7569_UG.gif" rel="nofollow"&gt;https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7569_UG.gif&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:33:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999049#reply4</guid></item><item><title>[信息安全] 如何屏蔽 FOFA 这个网络扫描引擎呢?</title><link>https://www.v2ex.com/t/999048#reply2</link><description>&lt;p&gt;如题，想了解下有没有人知道如何屏蔽 &lt;a href="http://fofa.info" rel="nofollow"&gt;fofa.info&lt;/a&gt; 这个引擎的扫描器，在网上没查到关于这个东西的屏蔽规则，他们也没有公开自己使用的 User-Agent / ASN / IP Block 。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7569_UG.gif" rel="nofollow"&gt;https://s3gw.cmbimg.com/lb61.16-crdcardapply-prd/app/7569_UG.gif&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:33:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999049#reply6</guid></item><item><title>[信息安全] 如何屏蔽 FOFA 这个网络扫描引擎呢?</title><link>https://www.v2ex.com/t/999048#reply2</link><description>&lt;p&gt;如题，想了解下有没有人知道如何屏蔽 &lt;a href="http://fofa.info" rel="nofollow"&gt;fofa.info&lt;/a&gt; 这个引擎的扫描器，在网上没查到关于这个东西的屏蔽规则，他们也没有公开自己使用的 User-Agent / ASN / IP Block 。&lt;/p&gt;
 &lt;p&gt;FOFA 相比较于 Censys 流氓太多了，Censys 公开了自己的 IP Block ，FOFA 不但不公开，还拿数据卖钱。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:33:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999048#reply2</guid></item><item><title>[macOS] WPS Mac 版本双击最大化，底部被 Dock 挡住</title><link>https://www.v2ex.com/t/999047#reply0</link><description>&lt;p&gt;WPS 表格，可以在底部显示表格累加数据。但是双击最大化，底部被 Dock 挡住，需要再手动调整尺寸。
 WPS 也不改改？&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:28:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999047#reply0</guid></item><item><title>[分享发现] 推荐一个我喜欢的 UP 主-----小梅 vlog</title><link>https://www.v2ex.com/t/999045#reply2</link><description>&lt;p&gt;这是一个夫妻档的帐号，年纪估计比 V 站诸位大哥都小，也就二十三、四岁的样子。&lt;/p&gt;
 &lt;p&gt;喜欢的原因：视频让人看起来很平静，在他们日常生活的视频里看到一种向上生长的生命力&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://space.bilibili.com/1500812933/video?tid=0&amp;amp;pn=9&amp;amp;keyword=&amp;amp;order=pubdate" rel="nofollow"&gt;https://space.bilibili.com/1500812933/video?tid=0&amp;amp;pn=9&amp;amp;keyword=&amp;amp;order=pubdate&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:04:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999045#reply2</guid></item><item><title>[生活] 看完被婚骗 60w 案例，气愤不已，思考国男为何陷入如此卑微之境地</title><link>https://www.v2ex.com/t/999044#reply1</link><description>&lt;p&gt;看完被婚骗 60w 案例，气愤不已，思考国男为何陷入如此卑微之境地？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://space.bilibili.com/1500812933/video?tid=0&amp;amp;pn=9&amp;amp;keyword=&amp;amp;order=pubdate" rel="nofollow"&gt;https://space.bilibili.com/1500812933/video?tid=0&amp;amp;pn=9&amp;amp;keyword=&amp;amp;order=pubdate&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:04:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999045#reply2</guid></item><item><title>[生活] 看完被婚骗 60w 案例，气愤不已，思考国男为何陷入如此卑微之境地</title><link>https://www.v2ex.com/t/999044#reply2</link><description>&lt;p&gt;看完被婚骗 60w 案例，气愤不已，思考国男为何陷入如此卑微之境地？&lt;/p&gt;
 &lt;p&gt;民法典上彩礼是女性婚前个人财产，且一旦有连接行为，法律只会部分退还&lt;/p&gt;
 &lt;p&gt;1 、案例地址
 &lt;a href="https://www.bilibili.com/video/BV1gu4y137Uk/" rel="nofollow"&gt;https://www.bilibili.com/video/BV1gu4y137Uk/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;个人观点
 1 、不管哪里，彩礼超 8.8w 即为高彩礼，彩礼价格越高风险越大，风险越大越容易走进底层互害的局面
 2 、彩礼本质上是女性控制男性的手段，彩礼是女性婚前个人财产，裹挟男性为家庭和女人付出，不然轻则不让碰重则卷钱跑路，让你人才两空
-3 、任何成本高没有性价比的事情都要思考投入产出比，高彩礼折射出的行为逻辑是女性不爱眼前的男人也不认可他未来发展，仅仅是保全自己的手段&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:57:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999044#reply1</guid></item><item><title>[macOS] macOS 从 clash 切换到 quanX， git 代理应该如何设置</title><link>https://www.v2ex.com/t/999043#reply2</link><description>之前用的 clash ，在 gitconfig 中配置代理，现在圈 X 没有端口（或者哪里获得端口），应该如何设置呢</description><pubDate>Sat, 09 Dec 2023 15:52:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999043#reply2</guid></item><item><title>[郑州] 提醒在郑州出租或租房的朋友注意避雷喜客公寓张金波</title><link>https://www.v2ex.com/t/999042#reply0</link><description>&lt;p&gt;以前常常看到黑心中介克扣租房者押金的事例，我自己在北京租房也遇到过两次。但记忆很模糊已经不在意了，毕竟人家耍赖就是耍赖，黑心就是黑心。&lt;/p&gt;
+3 、任何成本高没有性价比的事情都要思考投入产出比，高彩礼折射出的行为逻辑是女性不爱眼前的男人也不认可他未来发展，仅仅是保全自己的手段&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:57:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999044#reply2</guid></item><item><title>[macOS] macOS 从 clash 切换到 quanX， git 代理应该如何设置</title><link>https://www.v2ex.com/t/999043#reply2</link><description>之前用的 clash ，在 gitconfig 中配置代理，现在圈 X 没有端口（或者哪里获得端口），应该如何设置呢</description><pubDate>Sat, 09 Dec 2023 15:52:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999043#reply2</guid></item><item><title>[郑州] 提醒在郑州出租或租房的朋友注意避雷喜客公寓张金波</title><link>https://www.v2ex.com/t/999042#reply0</link><description>&lt;p&gt;以前常常看到黑心中介克扣租房者押金的事例，我自己在北京租房也遇到过两次。但记忆很模糊已经不在意了，毕竟人家耍赖就是耍赖，黑心就是黑心。&lt;/p&gt;
 &lt;p&gt;不过今天要分享的是托管公司主管和房东（我本人）玩消失的案例。&lt;/p&gt;
 &lt;p&gt;我在郑州的房子一开始租给了一家托管公司，租期还有半年的时候这家托管公司将房子转让给了喜客公寓，由这个名叫张金波的主管负责。&lt;/p&gt;
 &lt;p&gt;房子客厅做了一个隔断，租期快到的时候和这个张金波沟通退租时腾房并拆除隔断，后来租期到了张金波表示想要续租，当时正是疫情期间，就同意了，接下来骚操作来了：&lt;/p&gt;
@@ -83,33 +106,4 @@ WPS 也不改改？&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 16:28:11 GM
 &lt;p&gt;我当然不和他手下扯皮，他手下只是个执行者，咱也不能难为人，就一个要求，要和张金波本人来沟通此事，这个张金波就一直消失。&lt;/p&gt;
 &lt;p&gt;他要像北京的黑心中介一样光明磊落，直接说合同都没签，就是耍赖不拆隔断了，我也认栽了。但玩消失真是让我记住他了。&lt;/p&gt;
 &lt;p&gt;明天打算直接换锁，收房了。&lt;/p&gt;
-&lt;p&gt;有些人的存在是为了显现人的真善美，喜客公寓张金波的存在就是为了给我上一课，不要默认用善意去对待他人。希望他能再接再厉，给郑州“丑”的一面添砖加瓦！&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:51:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999042#reply0</guid></item><item><title>[iOS] iOS 阿里云盘 app 里下载某个文件后在哪个路径下删除？</title><link>https://www.v2ex.com/t/999041#reply1</link><description>如题，找了一圈没找到下载的路径，想删没处删</description><pubDate>Sat, 09 Dec 2023 15:45:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999041#reply1</guid></item><item><title>[职场话题] 校招生 offer 选择</title><link>https://www.v2ex.com/t/999040#reply0</link><description>&lt;h3&gt;工作选择&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;荣耀&lt;/th&gt;
-&lt;th&gt;oppo&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;测试&lt;/td&gt;
-&lt;td&gt;测开&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;n*14-16&lt;/td&gt;
-&lt;td&gt;(n+2.5) * （ 12-15)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;（合同写 2-4 ）&lt;/td&gt;
-&lt;td&gt;(合同写 0-3 ）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;南京&lt;/td&gt;
-&lt;td&gt;深圳&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;据说不卷，但是点点点&lt;/td&gt;
-&lt;td&gt;测开会不会跳槽好跳点&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;荣耀是基础薪资加绩效，如果跳槽，是按基础薪资还是一起作为参考啊，代码能力弱，不知道怎么选好，求各位大佬给点意见。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:43:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999040#reply0</guid></item><item><title>[问与答] 求一个客户端和协议支持比较全的机场</title><link>https://www.v2ex.com/t/999038#reply4</link><description>&lt;p&gt;客户端必须同时支持 Clash 、Surge 5 、sing-box(不想部署转换), 常用的主流协议 Trojan 等. 注册了很多家上去看都没有合适的, 唯一一个就是目前在用的这几天一直被 D 找个备胎&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:24:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999038#reply4</guid></item></channel></rss>
+&lt;p&gt;有些人的存在是为了显现人的真善美，喜客公寓张金波的存在就是为了给我上一课，不要默认用善意去对待他人。希望他能再接再厉，给郑州“丑”的一面添砖加瓦！&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 15:51:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999042#reply0</guid></item></channel></rss>
