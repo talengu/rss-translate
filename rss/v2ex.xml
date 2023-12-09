@@ -1,163 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 08 Dec 2023 20:52:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 站内搜索怎么用？</title><link>https://www.v2ex.com/t/998870#reply0</link><description>很多时候帖子搜不到，明明就在那，限定时间也搜不到。有什么搜索技巧吗？</description><pubDate>Fri, 08 Dec 2023 19:57:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998870#reply0</guid></item><item><title>[汇编] 汇编问题求解，这个问题我自己确实做不来</title><link>https://www.v2ex.com/t/998869#reply0</link><description>&lt;p&gt;题目要求如下&lt;/p&gt;
-&lt;p&gt;在屏幕的第一行显示数据 belles 。
-belles	db  "Reading is a happy thing. For those who love reading, once they read it,"	。请根据需要编写子程序，实现：依次取走字符，并让字符从其位置跌落到屏幕底部并消失。&lt;/p&gt;
-&lt;p&gt;我自己的想法是将做好几个循环来写，比如第一个循环让第一个字符往下掉，第二个就让第二个往下掉啥的，但是我写了一个发现做这样的循环直接运行之后 DosBox 会直接卡死，问 GPT ，但是 GPT 自己给的代码总是有问题，百度一下也只能找到一个代码，那个代码也不能实现题目要求的效果，做了几个小时了还卡在这&lt;/p&gt;
-&lt;p&gt;我真的没办法了，所以我来请教各位，求求各位大佬帮帮我吧
-如果给不了代码，给我点思路也行，我自己会去试的&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:43:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998869#reply0</guid></item><item><title>[Rust] 如何在 rust 里实现一个超级轻量级的协程？ （譬如 protothread）</title><link>https://www.v2ex.com/t/998868#reply1</link><description>&lt;p&gt;Protothreads 是个 纯 C 的超轻量级（不可能有比它更轻量的了）协程实现，100 多行代码。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://dunkels.com/adam/pt/" rel="nofollow"&gt;https://dunkels.com/adam/pt/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:22:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998868#reply1</guid></item><item><title>[分享发现] TikTok 运营工具大全</title><link>https://www.v2ex.com/t/998867#reply0</link><description>&lt;p&gt;&lt;a href="https://www.tt123.do" rel="nofollow"&gt;TikTok 运营工具大全&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:15:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998867#reply0</guid></item><item><title>[问与答] 大家觉得这两份工作应该怎么选</title><link>https://www.v2ex.com/t/998866#reply2</link><description>&lt;p&gt;op 坐标西安，毕业后培训转行做了程序员，实际开发经验 4 年，技术水平中肯的说我觉得一般吧，也没有参与过什么特别高水平含量的项目。之前裸辞后找了挺久工作，目前有两个选择吧，对比图如下，老哥们能给点建议吗，谢谢。
-&lt;a href="https://i.imgur.com/4rJ0ODA.jpg" rel="nofollow"&gt;https://i.imgur.com/4rJ0ODA.jpg&lt;/a&gt;
-&lt;a href="https://i.imgur.com/WGqrnnL.jpg" rel="nofollow"&gt;https://i.imgur.com/WGqrnnL.jpg&lt;/a&gt;
-ps：图片我放在一楼了 麻烦各位老哥帮忙瞅瞅&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 18:09:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998866#reply2</guid></item><item><title>[C#] 如何配置环境变量才能让 dotnet 和 ipconfig 都可以工作？</title><link>https://www.v2ex.com/t/998864#reply0</link><description>事情的起因是这样的。今天我在 CMD 中突然发现 ipconfig 命令没法用了。网上查了一下，按照指引，将环境变量中 path 配制成 windows→System32 路径下。再次回到 CMD ，发现 ipconfig 命令可用了！&lt;br /&gt;&lt;br /&gt;&lt;a href="http://但是再调试程序发现.NET" rel="nofollow noopener" target="_blank"&gt;但是再调试程序发现.NET&lt;/a&gt; 用不了。 发现 dotnet 命令不可用了。显然是因为环境变量改变了。再次查方法。将 path 路径，改为 dotnet 所在目录。问题解决了。但是 ipconfig 命令又不可用了（我知道 cd 到 windows→System32 目录下 ipconfig 命令还是可用的）。&lt;br /&gt;&lt;br /&gt;这样感觉很不方便，&lt;a href="http://请问有没有什么办法让.NET" rel="nofollow noopener" target="_blank"&gt;请问有没有什么办法让.NET&lt;/a&gt; 和 ipconfig 命令同时可用？</description><pubDate>Fri, 08 Dec 2023 17:46:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998864#reply0</guid></item><item><title>[VPS] 求推荐台湾的 VPS 或者机场。</title><link>https://www.v2ex.com/t/998863#reply5</link><description>&lt;p&gt;主要是想解锁 Netflix ，那几个 YT 打广告比较凶的 vpn 我都试了，在中国基本用不了。&lt;/p&gt;
-&lt;p&gt;VPS 的话 AWS ，板瓦工台湾节点怎么样？资料很少啊，似乎没人用？有没有推荐的台湾本土运营的 VPS 呢？&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 17:38:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998863#reply5</guid></item><item><title>[问与答] 来聊聊成年后发生的真实恐怖/灵异经历，但科学解释得通。</title><link>https://www.v2ex.com/t/998860#reply0</link><description>&lt;p&gt;镜像问题： &lt;a href="https://www.v2ex.com/t/998674?p=1" rel="nofollow"&gt;https://www.v2ex.com/t/998674?p=1&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;大部分人的灵异经历都是来自小时候，所以可能受限于小时候认知不全以及大脑后期加工，让人听起来玄之又玄。以下的事情发生在成年之后，所以基本都可以给出合理的解释：&lt;/p&gt;
-&lt;p&gt;第一个是刚上大专的宿舍里，随手拍了一张窗户照片，后面去翻看手机上的照片时，发现照片的窗户上出现了一张阴森的女人的脸盯着我看（男生宿舍，不可能存在女的）。当时越看越觉得恐怖，又不敢叫其他舍友一起看，怕吓到他们，默默把照片删掉，安慰自己是自己脑补出来的。
-现在想起来，可能是当时手机像素不高，然后又是晚上拍的，加上自己的脑补功能后就觉得像鬼脸。&lt;/p&gt;
-&lt;p&gt;第二个是我迄今为止经历过最恐怖的事情，我每次讲给朋友听都会起鸡皮疙瘩。&lt;/p&gt;
-&lt;p&gt;还是发生在宿舍里，宿舍是上床下桌，那天中午大太阳，我午休后准备起床，结果发现眼睛睁不开，但是能听到一些舍友聊天的声音，一些舍友打游戏的声音，身体也动不了，我很快意识到我是“鬼压床”了，高中经常“鬼压床”，所以到这里还算正常，接下来我看到了终身难忘的一幕，一个穿着全身白色连衣裙的女鬼，双臂张开，面露微笑，朝着我慢慢地从天花板飘下来。 他奶奶，我哪里遇过这种情况，吓得想赶紧起床，但就是动不了，也想让床下面的舍友赶紧推一下我，但口就是张不开。随着她慢慢逼近，我心理已经害怕到极点，心里开始默念什么太上老君，观世音菩萨，但都没啥用。最后是我想起贴吧的一个解除“鬼压床”的办法，用我的舌头，拼命顶住我得上颚，这才醒了过来。从这次经历之后，我再也没遇到“鬼压床”。&lt;/p&gt;
-&lt;p&gt;对于这次的经历，科学解释也得通：““鬼压身”的现象，在睡眠神经医学上是属于一种睡眠瘫痪症（ sleep paralysis ）的症状，患者在睡眠当时，呈现半醒半睡的情境，脑波是清醒的波幅，有些人还会合并有影像的幻觉，但全身肌肉张力降至最低。” 至于幻觉，我觉得是那个时候我经常喜欢看贴吧的灵异故事导致的。&lt;/p&gt;
-&lt;p&gt;但这次经历实在是太真实，导致我每次回想起来都要起鸡皮疙瘩。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:45:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998860#reply0</guid></item><item><title>[程序员] 有没有什么矮轴且静音轴的键盘推荐？啥配列都行，最好是带数字小键盘</title><link>https://www.v2ex.com/t/998858#reply5</link><description>&lt;p&gt;RT. 需要一个矮轴静音的键盘，轴体太花里胡哨了，各种乱七八糟的名字，为啥这么多叫法啊.. 什么水蜜桃 风信子 一大堆.. 看不过来了， 有没有什么成品的键盘推荐的~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:24:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998858#reply5</guid></item><item><title>[程序员] 求问 iOS 的隐私问题</title><link>https://www.v2ex.com/t/998857#reply0</link><description>&lt;ol&gt;
-&lt;li&gt;从 A 应用分享照片之类的内容到 B 应用，B 应用能知道是从哪个应用分享过来的吗？&lt;/li&gt;
-&lt;li&gt;从 A 应用复制内容，然后切换到 B 应用后粘贴，B 应用能知道是从哪个应用粘贴的内容吗？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Fri, 08 Dec 2023 16:12:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998857#reply0</guid></item><item><title>[编程] 分时调度协程脚本语言</title><link>https://www.v2ex.com/t/998855#reply0</link><description>&lt;p&gt;今天的主角是一个分时调度协程的脚本语言——&lt;a href="https://melang.org/" rel="nofollow"&gt;Melang&lt;/a&gt;。这篇文章主要介绍 Melang 的协程使用。关于 Melang 的安装，可以参考&lt;a href="https://melang.org/installation.html" rel="nofollow"&gt;安装文档&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;之所以强调分时调度，其实是为了强调 Melang 协程和其他语言协程的差异。在 Lua 、Go 中，当某一个协程运行时，如果不调用某些特定库函数或者 yield 之类的函数，那么当前协程将一直持有 CPU 执行权，也就导致了其他协程或者 I/O 事件或者其他类型事件无法被响应，进而导致整个系统出现运行异常的情况。诚然，经过精密的设计，可以完全避免这类问题。但也会给开发者增加维护和学习成本。而 Melang 的每个协程，都是运行一段时间后被解释器强制中断挂起，让其他协程或者 I/O 事件等得以运行和处理。&lt;/p&gt;
-&lt;p&gt;在 Melang 中，每一个协程就是一个脚本任务，它可能是文件，也可能只是一段代码片段。每一个协程都有相对独立的运行上下文（也就是相对独立的运行环境），但也允许通过脚本库函数使得多个协程间进行通信。&lt;/p&gt;
-&lt;p&gt;下面给出两种启用多个协程的方法：&lt;/p&gt;
-&lt;h3&gt;方法 1&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;//a.m
-sys = Import('sys');
-
-while (true) {
-  sys.print('a');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;//b.m
-sys = Import('sys');
-
-while (true) {
-  sys.print('b');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;假设我们有这两个协程示例（也是两个文件），它们的功能就是死循环向终端输出&lt;code&gt;a&lt;/code&gt;和&lt;code&gt;b&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;我们可以通过如下命令在单个线程内运行这两个协程：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m b.m
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;可以看到他们的输出大致如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;...
-a
-a
-a
-a
-a
-a
-a
-a
-...
-b
-b
-b
-b
-b
-b
-b
-...
-a
-a
-a
-a
-a
-a
-a
-a
-...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;由于 lua 等老牌支持协程的语言实现缘故，可能一些读者会怀疑我在&lt;code&gt;sys.print&lt;/code&gt;中加入了强制切换协程的代码，那么可以使用如下示例自行验证一下。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;//a.m
-while (true){}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;//b.m
-while (true){}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;//c.m
-sys = Import('sys')
-while (true) {
-  sys.print('c');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m b.m c.m
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;方法 2&lt;/h3&gt;
-&lt;p&gt;使用内置函数&lt;code&gt;Eval&lt;/code&gt;拉起协程。&lt;/p&gt;
-&lt;p&gt;我们首先假设同一路径下的有两个文件名为：&lt;code&gt;a.m&lt;/code&gt;和&lt;code&gt;b.m&lt;/code&gt;。当然，实际使用中，可以放在不同路径下，这里只是为了演示方便。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;//a.m
-sys = Import('sys');
-
-Eval('b.m');
-
-while (true) {
-  sys.print('a');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;//b.m
-sys = Import('sys');
-
-while (true) {
-  sys.print('b');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后执行如下命令：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我们可以得到与方法 1 中第一个示例一样的输出。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Eval&lt;/code&gt;还有另一种用法，示例如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;//a.m
-sys = Import('sys');
-
-Eval('sys = Import("sys"); while (true) {sys.print("b");}', nil, true);
-
-while (true) {
-  sys.print('a');
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;然后执行&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;melang a.m
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;依旧可以得到一样的输出效果。&lt;/p&gt;
-&lt;p&gt;事实上，上述的两种方法都只是对脚本解释器提供的 API 的不同封装。我们也可以自己开发其他的协程启动形式。&lt;/p&gt;
-&lt;p&gt;感谢阅读！&lt;/p&gt;
-&lt;p&gt;感兴趣的读者可以访问&lt;a href="https://github.com/Water-Melon/Melang" rel="nofollow"&gt;Github 仓库&lt;/a&gt;或者&lt;a href="https://melang.org/" rel="nofollow"&gt;官方文档&lt;/a&gt;了解更多内容。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 16:05:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998855#reply0</guid></item><item><title>[Android] Android 14 阻止通过 adb install / pm install shell 命令降级应用程序，除非该应用程序被标记为可调试。</title><link>https://www.v2ex.com/t/998853#reply2</link><description>Android 14 阻止通过 adb install / pm install shell 命令降级应用程序，除非该应用程序被标记为可调试。&lt;br /&gt;&lt;br /&gt;此前，2023 年 5 月的安全版本包含一个补丁，该补丁仅阻止将系统应用程序降级到比系统上预装的版本更旧的版本。&lt;br /&gt;&lt;br /&gt;但是，从 Android 14 Beta 5.2 开始，这适用于所有应用。据一位线人透露，他们第一次在 Beta 5.2 中看到这种行为。另外，由于 One UI 6 Beta 基于最新的 Android 14 源代码，因此也受到了这一变化的影响。&lt;br /&gt;&lt;br /&gt;有什么好的方法解决？</description><pubDate>Fri, 08 Dec 2023 15:54:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998853#reply2</guid></item><item><title>[宽带症候群] 广东佛山电信要回公网 IP 之路，内附和客服斗智斗勇过程，大家参谋参谋</title><link>https://www.v2ex.com/t/998849#reply5</link><description>&lt;h1&gt;背景&lt;/h1&gt;
-&lt;p&gt;2017 年开通的公网 IP ，一直用到现在；上周凌晨重新拨号后就没了，目前已经和各路客服斗智斗勇一周了。&lt;/p&gt;
-&lt;h1&gt;过程&lt;/h1&gt;
-&lt;p&gt;先是 10000 号当地电信公司投诉，然后有个客户经理打电话过来巴拉巴拉之前的公告，V2 之前也有人发过：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;新装用户不给公网 IP&lt;/li&gt;
-&lt;li&gt;存量私网用户不给公网 IP&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我的诉求依据是：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;我是从 2017 年申请用到现在的，在没有任何沟通的前提下，变更服务内容&lt;/li&gt;
-&lt;li&gt;基于有公网 IP 的前提，我购入的智能家居设备没有厂家服务器支持，谁来负责这个损失？因为监控失效带来其他的家庭安全隐患谁负责？&lt;/li&gt;
-&lt;li&gt;公示说的是“新装”和“存量私网”，我本来就有公网 IP 不在这个范围&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;然后客户经理表示理解，向上反馈，48 小时内答复。接着客户经理就消失了，48 小时后再打客服就是复读机内容，不接受就帮你向上反馈，再等 48 小时吧您嘞；客服复读内容：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;动态公网 IP 也属于“存量私网”&lt;/li&gt;
-&lt;li&gt;每个月加 100 可以解决这个问题&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;好吧，既然客服拖延我也不想浪费时间了，把沟通的录音、相关服务单号和全过程的文字记录都打包了一下；打开了工信部的网站，同时拨打 4008810000 投诉了地方公司的客服问题（这个后面细说）&lt;/p&gt;
-&lt;p&gt;4008810000 转给了地方公司的客服，客服问题就一句我们会继续改进；然后聊到我公网 IP 的诉求，还是复读上面两条答复，额外“大方”的表示既然您这么坚持，可以尝试和领导申请一下再提供一年的免费公网 IP……被我拒绝了，说等工信部申诉结果吧。&lt;/p&gt;
-&lt;h1&gt;投诉渠道和进度&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;[✔] 当地 10000 号&lt;/li&gt;
-&lt;li&gt;[✔] 4008810000 投诉地方公司&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 4008810000 投诉省公司&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 中国电信 APP 投诉&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox" /&gt; 工信部&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;4008810000 来电后，目前感觉是陷入了僵局；我的 1 、2 条依据对方避而不谈，或者说让加钱解决（其实这个应该也不合理），我如果要求索赔的话，好像只能法院见了？最后对于“存量私网”的解释，目前也没什么理由反驳……&lt;/p&gt;
-&lt;p&gt;如果没法找到更好的角度，感觉后面三个渠道也是浪费时间罢了。&lt;/p&gt;
-&lt;p&gt;所以今晚想着发来 V2 大家看看，看看老哥们有没有其他角度的想法，同时也记录下过程让后人参考。&lt;/p&gt;
-&lt;h1&gt;最后 BB 一下客服问题&lt;/h1&gt;
-&lt;p&gt;这里仅针对佛山电信，就我这几年两三次和他们打交道的经验来看，可以说非常流氓，各种人为制造障碍阻止你投诉他们或者逃避不想解决的问题。&lt;/p&gt;
-&lt;p&gt;上面说到 4008810000 投诉客服问题，是我最开始提交的投诉工单，48 小时后直接给我关了；后面去问这个事情的时候，客服说漏嘴，说是工单有处理时效……&lt;/p&gt;
-&lt;p&gt;这样一来，你有意见，或者催促，就是 48 小时内答复；如果没回复，再打电话过去又是 48 小时~&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998849#reply5</guid></item><item><title>[宽带症候群] 更换了中兴 G7615 网络更不稳定了</title><link>https://www.v2ex.com/t/998848#reply0</link><description>之前是华为的 HN8145XR 光猫，虽然不能指定 bars （ ac name ）经常运行在 NAT3 环境下，但十分的稳定，前几天出了一点意外，买了个中兴 G715 光猫，我只能说十分的不稳定，网心云发现 NAT 不稳定，远程桌面各种丢包断网，防火墙一套全关闭，连接数 65535 ，包括玄学的删除连接后再自行建立连接都试过了，依然十分的不稳定...看起来还是得用回以前的 HN8145XR ，要么就把 G7615 当成纯粹的光电转换器，做桥接，想了想还是用回 HN8145XR 算了....&lt;br /&gt;宽带运营商：广州联通&lt;br /&gt;指定 BARS 有助于我可以选择到 NAT1 的路线而不是 NAT3 的路线</description><pubDate>Fri, 08 Dec 2023 15:47:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998848#reply0</guid></item><item><title>[问与答] 坐标山东，今晚打死了至少八只蚊子。是不是天台暖和的原因，蚊子都从下水道里飞出来了。如果是的话请问怎么杜绝这种情况呢？</title><link>https://www.v2ex.com/t/998847#reply0</link><description></description><pubDate>Fri, 08 Dec 2023 15:39:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998847#reply0</guid></item><item><title>[宽带症候群] sms-activate 接码平台选了境外的号码，怎么仍是接收不到短信验证码？</title><link>https://www.v2ex.com/t/998846#reply1</link><description>sms-activate 接码平台选了境外的号码，怎么仍是接收不到短信验证码？&lt;br /&gt;&lt;br /&gt;试过了几个不同的国家的号码，全部接收不到，已经充值了几美元的。有 XDM 知道哪里的问题嘛？跪谢！</description><pubDate>Fri, 08 Dec 2023 15:37:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998846#reply1</guid></item><item><title>[宽带症候群] 河南联通手动改桥接后，删除 TR069 配置，路由 pppoe 拨号，获取公网 ip 被固定暂时无法漂移...</title><link>https://www.v2ex.com/t/998845#reply3</link><description>主题：如上&lt;br /&gt;运营商：联通&lt;br /&gt;坐标：郑州&lt;br /&gt;宽带：69 元套餐，送的 300M&lt;br /&gt;&lt;br /&gt;操作：之前移机，被运维工程师强制升级了光猫，后来手动查资料+手动测验尝试突破，获取超级管理密码，后更改桥接，路由 pppoe 拨号，同时删除 TR069 配置。&lt;br /&gt;&lt;br /&gt;在 2023-12-03 02:30:28 之前，还能公网 IP 飘逸的。&lt;br /&gt;&lt;br /&gt;目前情况：不管是给光猫断电还是后台重启，路由拨号后，公网 IP 尚未飘逸。从 ddns 解析日志来看，2023-12-03 02:30:28 持续到今天，已有 6 天。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;困惑：这种情况，不是很常见。后面会不会被识别针对呀？&lt;br /&gt;&lt;br /&gt;有没有遇到这种情况的大兄弟～～～～</description><pubDate>Fri, 08 Dec 2023 15:30:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998845#reply3</guid></item><item><title>[Apple] 国内的 Sony 电视为什么要把 HomeKit 去掉？</title><link>https://www.v2ex.com/t/998844#reply1</link><description>&lt;p&gt;没想明白 Sony 的这一操作&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:27:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998844#reply1</guid></item><item><title>[问与答] bing 通过 proxy 进行代理，经常打不开，提示 ERR_TOO_MANY_REDIRECTS</title><link>https://www.v2ex.com/t/998842#reply1</link><description>&lt;a href="http://www.bing.com" rel="nofollow noopener" target="_blank"&gt;www.bing.com&lt;/a&gt; 流量经过 proxy 进行代理，但是还是会经常出现 ERR_TOO_MANY_REDIRECTS ，有什么办法解决呀</description><pubDate>Fri, 08 Dec 2023 15:09:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998842#reply1</guid></item><item><title>[Android] 安卓的解锁 root 只能靠厂商？是时候靠自己了</title><link>https://www.v2ex.com/t/998840#reply1</link><description>&lt;p&gt;随着解锁越来越难，为什么不能换种方法。有种思路，现在新版安卓 boot 都会验证 system 分区签名，如果被篡改，则不能启动。和苹果 ios 的 ssv 类似，解决方法是把可执行文件，例如 su ，sudo 放到 baseband 分区，这个分区并没有签名验证，也有执行二进制文件的权力。通过软件层面的漏洞，remount 分区，再写入 root 相关文件，只是每重启后需要再激活一次 root 环境。完美避开官方解锁门槛，和解锁后丢失保修的问题。我相信安卓肯定有漏洞，只要自己不更新安全补丁，会出现支持当前版本的 root 工具，不需要再低声下气的哀求厂家解锁手机。&lt;/p&gt;</description><pubDate>Fri, 08 Dec 2023 15:02:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998840#reply1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 09 Dec 2023 08:22:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenAI] 拿到 GPT 服务器地址</title><link>https://www.v2ex.com/t/998953#reply0</link><description>&lt;a href="https://i.imgur.com/rgslPNJ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rgslPNJ.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;好像是 Azure 的</description><pubDate>Sat, 09 Dec 2023 08:09:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998953#reply0</guid></item><item><title>[微信] 微信小程序通过限制能力去强制认证，是国家规定还是垄断行为？</title><link>https://www.v2ex.com/t/998952#reply0</link><description>&lt;p&gt;无论是个人还是企业，都逐渐要求强制微信认证。逾期未认证将限制被搜索和被分享的能力。
+!&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img10.360buyimg.com/imgzone/jfs/t1/236352/18/6998/8715/65741ee5Ff038890b/ee81a214e275735c.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 08:04:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998952#reply0</guid></item><item><title>[问与答] 为什么 v2 上反智的帖子越来越多了？是用户量增长导致的吗？</title><link>https://www.v2ex.com/t/998951#reply0</link><description></description><pubDate>Sat, 09 Dec 2023 07:49:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998951#reply0</guid></item><item><title>[Apple] iOS 系统 播客 app Carplay 上会跟高德冲突吗？</title><link>https://www.v2ex.com/t/998950#reply2</link><description>Carplay 导航声音走的导航通道，安说应该没影响啊，其他 App 没遇到这个问题。我姿势不对吗？</description><pubDate>Sat, 09 Dec 2023 07:48:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998950#reply2</guid></item><item><title>[Python] Python 潮流周刊第 30 期（摘要）</title><link>https://www.v2ex.com/t/998948#reply0</link><description>&lt;p&gt;本周刊由 Python 猫 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。&lt;/p&gt;
+&lt;p&gt;周刊全文： &lt;a href="https://pythoncat.top/posts/2023-12-09-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2023-12-09-weekly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;以下是本期摘要：&lt;/p&gt;
+&lt;h3&gt;🦄文章&amp;amp;教程&lt;/h3&gt;
+&lt;p&gt;Python 非洲：致 Python 软件基金会的一封公开信&lt;/p&gt;
+&lt;p&gt;Django 5.0 发布了！&lt;/p&gt;
+&lt;p&gt;56 行代码用 Python 实现一个 Flex/Lex&lt;/p&gt;
+&lt;p&gt;如何在 FastAPI 正确地使用依赖注入？&lt;/p&gt;
+&lt;p&gt;为什么不应该在 Python 中过度使用列表解析式？&lt;/p&gt;
+&lt;p&gt;非类型化的 Python：曾经的 Python&lt;/p&gt;
+&lt;p&gt;用 django-watson 给 Django 项目添加全文搜索&lt;/p&gt;
+&lt;p&gt;解析 Celery 的扇出模式&lt;/p&gt;
+&lt;p&gt;Python Asyncio 的 7 个替代库&lt;/p&gt;
+&lt;p&gt;解密 CPython：当执行 a+b 时，背后发生了什么？&lt;/p&gt;
+&lt;p&gt;如何使用 Python 播放 GIF ？&lt;/p&gt;
+&lt;p&gt;用 Python 开发一个微型的 REPL&lt;/p&gt;
+&lt;h3&gt;🐿️项目&amp;amp;资源&lt;/h3&gt;
+&lt;p&gt;self-operating-computer：使多模态模型能够操作计算机&lt;/p&gt;
+&lt;p&gt;marko：具有高扩展性的 markdown 解析器&lt;/p&gt;
+&lt;p&gt;WeChatMsg：导出微信聊天记录成 HTML/Word/CSV 文档&lt;/p&gt;
+&lt;p&gt;PyWxDump：获取微信账号信息、导出聊天记录&lt;/p&gt;
+&lt;p&gt;mlx：适用于 Apple 芯片的阵列框架&lt;/p&gt;
+&lt;p&gt;DSAlgo：数据结构和算法的面试题集锦&lt;/p&gt;
+&lt;p&gt;Python 在线编译器网站&lt;/p&gt;
+&lt;p&gt;aio-libs：65 个基于 Asyncio 的库/项目&lt;/p&gt;
+&lt;p&gt;kolo：查看 Django 应用的执行过程&lt;/p&gt;
+&lt;p&gt;dnsteal：DNS 渗透工具，通过 DNS 请求隐秘发送文件&lt;/p&gt;
+&lt;p&gt;github-trends：使用自定义卡片美化 GitHub 个人主页&lt;/p&gt;
+&lt;p&gt;Depix：还原打了马赛克的截图信息&lt;/p&gt;
+&lt;p&gt;查看全文： &lt;a href="https://pythoncat.top/posts/2023-12-09-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2023-12-09-weekly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;往期内容： &lt;a href="https://pythoncat.top/tags/weekly" rel="nofollow"&gt;https://pythoncat.top/tags/weekly&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 07:45:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998948#reply0</guid></item><item><title>[分享发现] 分享一个测视力网站</title><link>https://www.v2ex.com/t/998947#reply4</link><description>&lt;a href="https://www.acfic.org.cn/shixin/new/index.html" rel="nofollow noopener" target="_blank"&gt;https://www.acfic.org.cn/shixin/new/index.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;中华全国工商业联合会下面的失信被执行人信息查询系统&lt;br /&gt;&lt;br /&gt;这个验证码让我觉得顿觉自己视力不行.</description><pubDate>Sat, 09 Dec 2023 07:43:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998947#reply4</guid></item><item><title>[分享发现] 隔了几年又重新试了一下 ubuntu 桌面，有很大进步但是稳定性方面依然是一坨答辩。</title><link>https://www.v2ex.com/t/998946#reply0</link><description>最新的 ubuntu23.10 。&lt;br /&gt;配置也比较新，z790+13700k+64G RAM+4090 ，显示器 27 寸 4k 。&lt;br /&gt;&lt;br /&gt;让我没想到的是高分屏下，开启 150%ui 缩放，ubuntu 的兼容性居然特别的好。&lt;br /&gt;&lt;br /&gt;安装上苹果的苹方字体，调整了一下 fontconfig 配置，各种 ui 和编辑器里的字体渲染效果比 windows 不知好多少。&lt;br /&gt;&lt;br /&gt;snap 商店里各种 app 打包方式用起来还是感觉挺友好的。而且 ui 效果、字体和 macos 基本没任何区别，比几年前强太多了。关键是很多国产应用，钉钉、微信一类的都有 linux 版本了。&lt;br /&gt;&lt;br /&gt;gnome look 上选了几款主题，弄好基本还算美观简洁。&lt;br /&gt;&lt;br /&gt;真正上手用，就开始作妖了。一天内 nautilus 、chrome 崩溃至少也有四五次了，睡眠唤醒有时候应用 ui 会冻住需要手动 kill 重启。跑一晚上 python 任务，早上去起来 pycharm 窗口已经卡死不动了。。窗口开多了，就容易掉帧。特别是国产的几个，钉钉、微信崩的更是厉害。&lt;br /&gt;&lt;br /&gt;换回默认主题，用 nvidia 私有驱动，无任何改善。</description><pubDate>Sat, 09 Dec 2023 07:39:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998946#reply0</guid></item><item><title>[深圳] xdm，深圳宽度有没有推荐的</title><link>https://www.v2ex.com/t/998943#reply3</link><description>&lt;p&gt;深圳宽带有没有推荐的，看了一个联通低消 59 ，约便宜越好，对网要求不高&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 07:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998943#reply3</guid></item><item><title>[分享创造] TypeChat、JSONSchemaChat - 让 ChatGPT 更听你的话</title><link>https://www.v2ex.com/t/998942#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/35876f80d9ab49008af9b77cb1673f94%7Etplv-k3u1fbpfcp-zoom-1.image" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ec1699440910496da0c1c9a3d96193ac%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2461&amp;amp;h=1311&amp;amp;s=1737670&amp;amp;e=gif&amp;amp;f=404&amp;amp;b=2e2c2b" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://juejin.cn/post/7309732396081020928" rel="nofollow"&gt;更多内容查看掘金文章&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 07:25:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998942#reply0</guid></item><item><title>[问与答] 为啥独立开发者的产品同行都不愿意付费呢？看不上吗？</title><link>https://www.v2ex.com/t/998941#reply9</link><description>千不该万不该，不该把开发者当做产品客户。&lt;br /&gt;&lt;br /&gt;大家好，我是一名草根程序员，也是个独立开发者。&lt;br /&gt;&lt;br /&gt;前不久我发布了一款产品，简单说是微信上行消息服务，容我简单解释一下，常用的消息推送服务是主动推送模版消息到微信公众号，但是不能满足我们的需求，日常工作中有很多按需获取内容的需求，获取个性化的内容。所以场景就变成由我主动获取内容，而不是被动接收内容。&lt;br /&gt;&lt;br /&gt;就是在平台注册一个关键字，就像是买个域名一样，用户通过发送关键字获取预设的内容，或者定制转发 API 以返回自定义内容。开发者可以使用关键字提供丰富多样的互动服务。&lt;br /&gt;&lt;br /&gt;当时我和产品讨论后认为产品需求有一定的价值，也认可产品以按需获取，用完即走，用户体验好的理念，得到了产品的支持。就决定落地微信上行消息服务了。也已经上线了。插一句，我们老板是做 Web3 公链产品的，他想把产品和 web3 结合一下。&lt;br /&gt;&lt;br /&gt;产品官网 [&lt;a href="https://unii.top" rel="nofollow noopener" target="_blank"&gt;https://unii.top&lt;/a&gt;]( &lt;a href="https://unii.top/#/" rel="nofollow noopener" target="_blank"&gt;https://unii.top/#/&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;但是，目前我们通过私域推广两个月以后，没有达到预期的用户量，好像没有太多开发者为之付费，他们更多的是不理解，看不懂，这就尴尬了。我们每天都在分享产品的使用场景。&lt;br /&gt;&lt;br /&gt;我的目的就是想让 V2EX 开发者帮忙看看，提提意见，这个产品到底有没有需求，对于你们来说需求点在哪里？即便是把整个产品免费放开使用我们也愿意，肯定不收一分钱的，但是重点是要有人去使用。&lt;br /&gt;&lt;br /&gt;对此，有人认为：技术群体尤其独立开发者，可能有些“农民思维”，他们在消费市场和需求上很谨慎，不太愿意为产品服务买单。很多开发者想开发产品让别人为自己的产品付费，但是自己的付费习惯很差。C 端产品不能以开发者技术个体为目标客户。普遍挑剔，要求高，觉得不值得付费，而且有些产品如果满足不了他，可能还会激出一个竞品来。&lt;br /&gt;&lt;br /&gt;兄弟们支支招。</description><pubDate>Sat, 09 Dec 2023 07:25:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998941#reply9</guid></item><item><title>[问与答] 出去旅游顺便买个显卡，会有什么风险么？</title><link>https://www.v2ex.com/t/998940#reply2</link><description>&lt;p&gt;比如我去泰国、日本、或者越南，买一张全新的 4090 ，个人使用，应该能带回来吧，最多过海关付税？&lt;/p&gt;
+&lt;p&gt;或者说，想搞个 4090 ，啥途径是最便宜的？&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 07:22:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998940#reply2</guid></item><item><title>[iPhone] 微信发语音断触</title><link>https://www.v2ex.com/t/998939#reply2</link><description>发语音经常手指没动还没说完就发送了，究竟是系统 bug 还是软件问题或是手机缺陷</description><pubDate>Sat, 09 Dec 2023 07:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998939#reply2</guid></item><item><title>[问与答] 国内的聊天软件是否会保护用户隐私呢，例如用户聊天记录~</title><link>https://www.v2ex.com/t/998938#reply11</link><description>&lt;p&gt;国内的聊天软件各大厂商都说是聊天记录没有保存，但是网上时不时听到相反的观点。&lt;/p&gt;
+&lt;p&gt;所以事实真相是？ &lt;/p&gt;
+&lt;p&gt;问题：基于开源软件改造一个真正的聊天聊天软件，消息加密存储在本地，服务器不存储聊天信息，来保护用户隐私是否可行。&lt;/p&gt;
+&lt;p&gt;请文明发表观点，可以讨论，不允许涉及政治，人身攻击或者其他非法言论。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 07:01:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998938#reply11</guid></item><item><title>[推广] 看资讯很方便啊!</title><link>https://www.v2ex.com/t/998937#reply0</link><description>&lt;p&gt;&lt;a href="https://m.yuanxingkang.cn/" rel="nofollow"&gt;https://m.yuanxingkang.cn/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 06:53:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998937#reply0</guid></item><item><title>[问与答] office 办公大家选什么？</title><link>https://www.v2ex.com/t/998934#reply2</link><description>有同事说 wps 可以智能化办公，并且价格比 Microsoft 365 便宜多了。。&lt;br /&gt;有点想聪 Microsoft office 转到 wps 了&lt;br /&gt;有 v 友讲下自己用下来的体验吗？</description><pubDate>Sat, 09 Dec 2023 06:33:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998934#reply2</guid></item><item><title>[王者荣耀] 这游戏的精髓在哪里？或者说领悟了哪些点，可以快速变强</title><link>https://www.v2ex.com/t/998933#reply4</link><description>新手入坑，很好奇。目前能领悟到的点就是，如果你是 AD 位，那首要的目的应该是保命，在这个基础之上，再在边缘利用手长的优势进行输出，感觉领悟了这点之后，成长很大！</description><pubDate>Sat, 09 Dec 2023 06:16:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998933#reply4</guid></item><item><title>[OpenAI] 现在都有哪些好用的 GPT 加持的 IDE 插件，用于辅助写代码？</title><link>https://www.v2ex.com/t/998932#reply0</link><description>&lt;p&gt;都来说说有什么好用的，分别解决了什么问题。
+例如 github copilot ，用 GPT 作补全。
+还有什么吗？&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 06:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998932#reply0</guid></item><item><title>[分享发现] 大家平时听歌按专辑听的多吗</title><link>https://www.v2ex.com/t/998931#reply16</link><description>&lt;p&gt;闲的时候感觉按专辑听歌才是听歌的正确打开方式,并且有这样更尊重作者的感觉.
+推荐几个主题较为统一,连贯性强的专辑:《飞行器的执行周期》,《冀西南林路行》,《间听监》,欢迎大家补充^_^&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 05:52:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998931#reply16</guid></item><item><title>[游戏] 求一款简单而有趣的建造、探险、对战类手游</title><link>https://www.v2ex.com/t/998929#reply1</link><description>&lt;p&gt;例如可以建造自己的母舰（或者基地、木筏、房车），里面有生活设施以及战斗系统。有大地图可以探险、收集装备、结交队友等，还可以跟网友对战。最好是操作简单但是需要深度思考，呈现出来的游戏世界复杂，2D 和 3D 均可。&lt;/p&gt;</description><pubDate>Sat, 09 Dec 2023 05:42:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998929#reply1</guid></item><item><title>[问与答] 有没有简易版的百度网盘客户端？</title><link>https://www.v2ex.com/t/998927#reply8</link><description>Windows 系统，安装百度网盘后占用了 800 多 M 空间，我就为了下载总共不到 100 兆小文件，缺让我承受这么大的负担，不用客户端又提示不让下（我是付费会员）。&lt;br /&gt;&lt;br /&gt;或者不用客户端也能够下载文件夹的途径亦可，谢谢！</description><pubDate>Sat, 09 Dec 2023 05:16:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/998927#reply8</guid></item></channel></rss>
