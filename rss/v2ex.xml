@@ -1,196 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Dec 2023 09:25:38 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] AirDrop 发送文件时，可能携带了发送者的手机号码信息，可能导致隐私泄漏</title><link>https://www.v2ex.com/t/999763#reply1</link><description>设备 1:&lt;br /&gt;Model: iPhone 某款国行&lt;br /&gt;iOS version: 16.0.2&lt;br /&gt;name: AAA's iPhone&lt;br /&gt;Apple ID: a@a.a&lt;br /&gt;SIM number: 13800138000&lt;br /&gt;&lt;br /&gt;设备 2:&lt;br /&gt;Model: MacBook 某款国行&lt;br /&gt;macOS version: 13.4&lt;br /&gt;name: BBB's Macbook&lt;br /&gt;Apple ID: b@b.b&lt;br /&gt;&lt;br /&gt;设备 2 在通讯录中存有设备 1 的 SIM number ，记为“张三:13800138000”&lt;br /&gt;设备 1 向设备 2 发送文件时,设备 2 上显示“张三向您发送文件”，预期的显示应当是“AAA's iPhone 向您发送文件”&lt;br /&gt;&lt;br /&gt;目前尚不清楚是 bug 还是 feature</description><pubDate>Tue, 12 Dec 2023 09:24:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999763#reply1</guid></item><item><title>[问与答] 手持的收款设备，能扫微信支付宝收款码的设备叫什么，有推荐吗</title><link>https://www.v2ex.com/t/999762#reply6</link><description>&lt;h1&gt;背景&lt;/h1&gt;
-&lt;p&gt;家里实体店，有营业执照等证件&lt;/p&gt;
-&lt;p&gt;之前一直都是贴的微信和支付宝的二维码&lt;/p&gt;
-&lt;p&gt;人多的时候偶尔会出现逃单的情况&lt;/p&gt;
-&lt;h1&gt;需求&lt;/h1&gt;
-&lt;p&gt;看到别人店里都有一种小机器&lt;/p&gt;
-&lt;p&gt;按了金额后，别人出示付款吗一扫就完事了&lt;/p&gt;
-&lt;p&gt;淘宝看了很多，要么是单词的扫码盒子，要么是不知名公司的收款设备且要提点&lt;/p&gt;
-&lt;h1&gt;问题&lt;/h1&gt;
-&lt;p&gt;有正规公司的这种收款设备推荐吗，淘宝看的不知名公司害怕收款的钱提不出来&lt;/p&gt;
-&lt;p&gt;有提成利率低的吗&lt;/p&gt;
-&lt;p&gt;能扫微信、支付宝收款码就行，对信用卡上面的没要求&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 09:20:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999762#reply6</guid></item><item><title>[NAS] 我的自建 NAS</title><link>https://www.v2ex.com/t/999761#reply1</link><description>&lt;p&gt;折腾 NAS 也差不多两年的时间了, 一开始的 &lt;a href="https://mebtte.com/remote_accessible_nas_by_mac_mini" rel="nofollow"&gt;Mac Mini + 硬盘柜的方案&lt;/a&gt;, 到后来直接购买成品 NAS, 再到现在的小主机 + 外接硬盘的方案. 小主机 + 外接硬盘的方案已经稳定运行半年多了, 目前体验还可以.&lt;/p&gt;
-&lt;p&gt;首先说下我的需求, 主要是影音 + 数据备份, 对容量和性能的要求不高, 所以这套方案所有硬件以及组合如下:&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Dec 2023 20:33:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[信息安全] UTG-Q-003：微软应用商店 7ZIP 供应链投毒事件始末</title><link>https://www.v2ex.com/t/999871#reply0</link><description>&lt;a href="https://ti.qianxin.com/blog/articles/%20UTG-Q-003-The-Incident-of-Poisoning-the-Supply-Chain-of-7ZIP-on-the-Microsoft-App-Store-EN/" rel="nofollow noopener" target="_blank"&gt;https://ti.qianxin.com/blog/articles/%20UTG-Q-003-The-Incident-of-Poisoning-the-Supply-Chain-of-7ZIP-on-the-Microsoft-App-Store-EN/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://ti.qianxin.com/blog/articles/UTG-Q-003-Supply-Chain-Poisoning-of-7ZIP-on-the-Microsoft-App-Store-EN/" rel="nofollow noopener" target="_blank"&gt;https://ti.qianxin.com/blog/articles/UTG-Q-003-Supply-Chain-Poisoning-of-7ZIP-on-the-Microsoft-App-Store-EN/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://zhuanlan.zhihu.com/p/671814929" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/671814929&lt;/a&gt;&lt;br /&gt;&lt;a href="https://mp.weixin.qq.com/s/t_3tPC9xObrWHm0PYf0Cxw" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/t_3tPC9xObrWHm0PYf0Cxw&lt;/a&gt;</description><pubDate>Tue, 12 Dec 2023 19:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999871#reply0</guid></item><item><title>[Apple] iOS 17.3 开发测试来了</title><link>https://www.v2ex.com/t/999870#reply0</link><description>不得不佩服苹果的更新速度… （总不能让开发人员闲出屁吧… 哈哈哈哈😄</description><pubDate>Tue, 12 Dec 2023 19:14:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999870#reply0</guid></item><item><title>[NAS] 现在都没 1T 的机械硬盘卖了吗？求推荐硬盘</title><link>https://www.v2ex.com/t/999868#reply2</link><description>西数希捷官方店只有普通的 1T 机械硬盘，监控 NAS 的都没有 1T 版本的，淘宝上水又太深，我组 raid 用，数据量少所以 1T2T 够用，希望各位可以给点意见</description><pubDate>Tue, 12 Dec 2023 18:20:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999868#reply2</guid></item><item><title>[Apple] GPT4.0 有没有感兴趣的兄弟拼车，自用</title><link>https://www.v2ex.com/t/999866#reply0</link><description>&lt;p&gt;Chatgpt 4.0 自用拼车，有没有兄弟想上车的，不是那种 10 人的大拼车
+今天 4.0 开放购买了，打算拼个车，长期自用，目前只有我和朋友一起拼，想看看有没有兄弟感兴趣
+感兴趣的可以详聊
+只有一车，为了保证每个人的方便使用和需求，目测 4-5 人就发车了&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 17:44:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999866#reply0</guid></item><item><title>[ WATCH] Watch OS 10.2 终于把噩梦般的结束体能训练二次确认取消了</title><link>https://www.v2ex.com/t/999865#reply0</link><description>我以前真的觉得说用户体验落到交互细节上有点小题大做，经过这段时间痛苦的经历我再也没有这种想法了，一个小小的改动 TMD 居然能带来用户体验断崖式的下降</description><pubDate>Tue, 12 Dec 2023 17:22:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999865#reply0</guid></item><item><title>[问与答] 最近刚开始接触 uniapp 有点疑问想麻烦问一下</title><link>https://www.v2ex.com/t/999864#reply3</link><description>uniapp 除了 uniapp 自己的 ui 库一般开发用的啥呀，兼容 h5/微信小程序/app ， 包括一些第三方的轮子，我比如搜 element 好像 npm 方式引入很多 dom 操作不支持微信，找了下 vant-weapp 但是在搜 uniapp 怎么引入的时候，很多评论说有很多坑/兼容性问题。。。之前 swiper 引入也是引入 js 版本的很多问题去 uniappcloud 商店去下了一个 swiper 发现不兼容 VUE3 的 setup 最后用的是官方文档的 swiper...所以想麻烦问一下 ui 或者框架这些一般引入什么版本，之前都是用 vue-cli 直接开发= =直接 npm 装。。</description><pubDate>Tue, 12 Dec 2023 17:05:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999864#reply3</guid></item><item><title>[问与答] 有大佬知道如何恢复地址栏的挂锁图标吗</title><link>https://www.v2ex.com/t/999863#reply0</link><description>&lt;p&gt;&lt;a href="https://i.mij.rip/2023/12/13/720b59b2e2805ef0066f07db153c6631.png" rel="nofollow"&gt;https://i.mij.rip/2023/12/13/720b59b2e2805ef0066f07db153c6631.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前用的是 Brave Chrome 也是这样，还有办法改成原来的锁图标吗，这个图标是真难看&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:56:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999863#reply0</guid></item><item><title>[程序员] 轻量博客程序，除了纯静态的，有什么值得推荐的？</title><link>https://www.v2ex.com/t/999860#reply3</link><description>&lt;p&gt;之前只用 wordpress,现在 Vps 里又了几个别的站，还用 wp 就太臃肿了，想找个占用内存和 CPU 少的轻量博客程序。&lt;/p&gt;
+&lt;p&gt;轻量博客程序，除了纯静态的，有什么值得推荐的吗？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:41:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999860#reply3</guid></item><item><title>[宽带症候群] 山东联通 er-x 上如何设置这几个参数</title><link>https://www.v2ex.com/t/999859#reply4</link><description>&lt;p&gt;ipv6:prefix-length 56
+mtu 1492
+mss 1412
+这样对么？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:32:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999859#reply4</guid></item><item><title>[问与答] [不懂就问] 为什么 PC 登录 IQOO 自带互传网页版，手机仅开数据流量，却可以将手机照片保存到 PC？下载速度很慢，这是什么机制？若是网盘，那手机仅开数据，为什么下载到 pc 会很慢？</title><link>https://www.v2ex.com/t/999858#reply3</link><description>我非计算机专业，我小白&lt;br /&gt;&lt;br /&gt;最近家人在外开会，用 IQOO 手机拍了一些照片想传到家里的电脑。我教他使用 IQOO 手机自带的互传的网页版进行文件传输，昨天一切正常。但今天突然传输速度变得很慢。我发现家人的手机没有连接 Wi-Fi ，而是使用移动数据流量。我对此感到很奇怪，不明白为什么明明没有连接家里的 Wi-Fi ，仅使用移动数据流量的情况下，可以通过家用电脑登录互传网页版将手机文件传输到电脑。如果是 PC 网页登录网盘的机制，那么为什么在 IQOO 仅使用数据流量时，PC 下载手机照片会变得很慢。而手机连上 Wi-Fi ，重新登录，重新下载就变快了。&lt;br /&gt;&lt;br /&gt;总不会是 手机照片 -&amp;gt; IQOO 数据流量 -&amp;gt; vivo 云 -&amp;gt; 家庭宽带 -&amp;gt; 家用电脑&lt;br /&gt;&lt;br /&gt;因为手机只开了数据流量，整个下载速度就只有手机数据流量的速度了？&lt;br /&gt;&lt;br /&gt;操作过程：&lt;br /&gt;1. 打开 IQOO 手机自带的互传应用，并选择文件传送功能，点击底部的网页版选项。&lt;br /&gt;2. 在电脑上打开 Chrome 浏览器，访问提供的手机互传网页版链接（可以是带有域名的链接，也可以是纯 IP 地址）。&lt;br /&gt;3. 在互传登录页面找到二维码，点击 IQOO 互传网页版下方的"扫一扫"按钮，使用手机扫描二维码，成功登录进入互传系统。&lt;br /&gt;4. 使用鼠标框选或按住 Shift 键选择要下载的存储在手机上的图片，然后点击上方的"保存到电脑"按钮，立即开始下载，文件是只有一个打包好的.zip 文件形式。&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;为什么手机只使用移动数据联网，没有连接家里的 Wi-Fi ，却可以通过上述操作使家里的电脑下载手机上的照片？如果这是通过云盘实现的，那么家里的电脑使用宽带登录云盘应该不会出现下载速度很慢的情况。实际上，当手机连接家里的 Wi-Fi 并重新登录互传系统时，可以迅速下载照片文件。问题是，为什么手机仅使用移动数据连接时，家里的电脑可以访问互传系统并下载手机的文件，且下载速度很慢，让我以为是通过手机的移动数据进行传输。</description><pubDate>Tue, 12 Dec 2023 16:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999858#reply3</guid></item><item><title>[Python] Python 开发招聘</title><link>https://www.v2ex.com/t/999857#reply1</link><description>&lt;p&gt;Base 无锡&lt;/p&gt;
+&lt;p&gt;职位描述：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;使用 Python 对量化交易系统中各个组件进行开发以及维护&lt;/li&gt;
+&lt;li&gt;使用 Python 对数据进行分析和统计，并按时完成，交付结果。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;职位要求：
+一年项目开发经历：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;熟练掌握 Python 语言开发&lt;/li&gt;
+&lt;li&gt;能熟练使用常见的的 Python 科学计算相关库，例如 pandas ，numpy ，Matplotlib ，Plotly 等&lt;/li&gt;
+&lt;li&gt;熟悉 linux 操作系统下开发，能运用常见工具定位调试问题代码；&lt;/li&gt;
+&lt;li&gt;具备良好的编程习惯，编程思路清晰&lt;/li&gt;
+&lt;li&gt;诚实善良，积极开朗，善于沟通，善于学习，能独立思考&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;团队有浓厚的技术氛围、广阔的发展空间，欢迎投递简历到 &lt;a href="mailto:zckuna@163.com"&gt;zckuna@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:59:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999857#reply1</guid></item><item><title>[Android] 下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？</title><link>https://www.v2ex.com/t/999856#reply15</link><description>&lt;p&gt;手上的华子 p50 pro ，256g ，app 装太多，一个也割舍不掉，想着换了。&lt;/p&gt;
+&lt;p&gt;我很纠结一加几个点&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一加很重 220g&lt;/li&gt;
+&lt;li&gt;一加刚出，后面应该会有一波小跳水&lt;/li&gt;
+&lt;li&gt;一加用的 color OS ，好像口碑不如 vivo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我很纠结 iPhone 的几个点，手上是 mac ，可以联动&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;NFC 、红外遥控无&lt;/li&gt;
+&lt;li&gt;右边返回&lt;/li&gt;
+&lt;li&gt;小窗模式&lt;/li&gt;
+&lt;li&gt;充电慢&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;家人们，纠结星人不行了，遭老罪了，要不选 option3：华子战 3 年&lt;/p&gt;
+&lt;p&gt;闲鱼下家都找好了，就差临门一脚。要不要买呢？家人们，家人们，给点深刻的见解，救老命了！&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:59:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999856#reply15</guid></item><item><title>[奇思妙想] 如果有一天没有网络信号了怎么办？</title><link>https://www.v2ex.com/t/999854#reply5</link><description>&lt;p&gt;如果，我是说如果，某一天发生了重大事故，比如战乱，导致整个地区，国家都没有了网络信号📶，会发生什么&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:43:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999854#reply5</guid></item><item><title>[程序员] 学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备</title><link>https://www.v2ex.com/t/999853#reply2</link><description>&lt;p&gt;自己属于非科班出身，从 20 年 6 月大二开始陆续学习 java 和 spring 家族再到实习时候的 PHP 到现在的 go 以及热门的几个后端技术栈。因为知道自己的基础薄弱，一直想系统的学习，但是似乎一直在学习，回过头看却又没学到多少东西。&lt;/p&gt;
+&lt;p&gt;几次面试准备期间感受最深的是自己对于简历上写的技术栈似乎都有模模糊糊的印象，但是翻看网上的面经，却不知道该如何回答（只能惊叹别人为什么什么问题都可以回答出来一二，了解的深度和广度令我佩服和羡慕不已），而自己过去所学习的知识都已经遗忘（其实是面试考察的那些各种细节遗忘了，工作中还是用的少）。&lt;/p&gt;
+&lt;p&gt;虽然自己喜欢在学习的时候做笔记总结，但做着做着发现自己在抄书，学习时候确实觉得自己理解了 what 、why 、how ，做的笔记似乎也挺完善的（自己有这种心理：做笔记是一种总结性的，同样的东西看不同的书和博客都会有不同的收获，所以希望通过记录来完善自己的笔记）。但是以后翻看的时候还是要把书翻出来结合上下文看（上下文丰富）。
+尤其是在面试准备期间，每次都耗费自己大量时间，就举例 go mysql redis kafka MongoDB 计算机基础 算法等，今年上半年年初还准备过一次，但是今天再看还是得重头继续准备（很多细节都遗忘了），简历上每个技术栈都看一遍真的好耗费大量时间（主要是项目中用到的那些技术栈）。&lt;/p&gt;
+&lt;p&gt;所以想请教一下大家平时学习时候怎么学习，大概怎么做笔记呢？
+翻看相关帖子，常见回答是 要理解记忆，记不住说明没有理解等回答，但是我自己确实在学习时候认为自己理解了背后的设计原因和思想。&lt;/p&gt;
+&lt;p&gt;目前失业期间想边面试边学习 linux 相关的，目前买了《 linux 内核设计与实现》和《 unix 操作系统设计》在缓慢的读，大佬们能否就这个提出一些建议，或者说一说自己的学习经验呢？推广到各类技术的学习就更好了。挺想知道大佬们大概是怎么学习的，提前感谢大伙。&lt;/p&gt;
+&lt;p&gt;还有一个问题，大家是怎么准备面试的？似乎有些大佬可以不怎么准备就直接面试了，而且各种问题似乎都回答的很不错，不管是细节还是技术广度上都能流畅的完成面试，挺好奇怎么做到的，是平时积累吗？还是看一遍（真理解了）就可以记住很久，足够面试了呢？&lt;/p&gt;
+&lt;p&gt;我现在都有些怀疑自己的记忆力是不是太差了以至于记不住这些，还是说我的方法有问题。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:42:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999853#reply2</guid></item><item><title>[问与答] 请教下 minio 集群，上传 100G 左右的小文件后，感觉速度有些慢</title><link>https://www.v2ex.com/t/999852#reply0</link><description>&lt;p&gt;比如 mc ls  xxxx/full/201202/  -r 可能会卡住需要半分钟的时间&lt;/p&gt;
+&lt;p&gt;然后执行&lt;br /&gt;
+mc admin trace -a  sf&lt;/p&gt;
+&lt;p&gt;有大量日志刷新 内容如下：&lt;/p&gt;
+&lt;p&gt;2023-12-12T23:34:30.694 [SCANNER] scanner.ScanFolder minio:9000 /data4 xxxx/full/full/20220911/8991b39bc48df9814bf0bca3c515794c3bff6e52.jpg 3.737023ms
+2023-12-12T23:34:30.700 [OS] os.OpenFileR minio:9000 /data4/xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg 66.285µs
+2023-12-12T23:34:30.700 [OS] os.OpenFileR minio:9000 /data4/xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg/xl.meta 26.689µs
+2023-12-12T23:34:30.700 [SCANNER] scanner.ScanObject minio:9000 /data4 xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg/xl.meta 7.482286ms&lt;/p&gt;
+&lt;p&gt;感觉是 minio 在后台异步处理一些任务，若是这样的话，怎么能看到这些任务完成情况&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:41:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999852#reply0</guid></item><item><title>[问与答] 搞不定了，请教个 flutter 问题</title><link>https://www.v2ex.com/t/999851#reply1</link><description>&lt;p&gt;&lt;a href="https://stackoverflow.com/questions/77641032/cannot-get-widgets-property-in-build-function/77641427#77641427" rel="nofollow"&gt;https://stackoverflow.com/questions/77641032/cannot-get-widgets-property-in-build-function/77641427#77641427&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;问题：
+列表里每一行是个 record, 有个属性 paths 包含里多个图片名字。
+点击 record 进入详情页，要展示图片。&lt;/p&gt;
+&lt;p&gt;详情页是 Parent Widget ，展示图片的是 Child Widget 。我在 Parent 的 initState 里处理下图片，因为要拼接全部路径，需要调用 await 方法。处理完后执行 Child 里的 setPaths 方法。然后 Child 的 _state 的 build 方法使用 widget.paths 展示图片。&lt;/p&gt;
+&lt;p&gt;现在的问题是：由于有个 await 方法，Child 的 build 方法执行总要先于 Parent 的 setPaths ，而且 setPaths 后也不会重新 build 。&lt;/p&gt;
+&lt;p&gt;这个做完准备先发一版，结果卡这两天了。。。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999851#reply1</guid></item><item><title>[程序员] vmware“已死”</title><link>https://www.v2ex.com/t/999850#reply0</link><description>博通现取消 vmware 的本地永久许可证，准备通过停止向 vmware 客户销售支持和订阅（ SnS ）续订。用户只能采用订阅模式。&lt;br /&gt;“已死”加引号，勿引战。&lt;br /&gt;&lt;br /&gt;原文： &lt;a href="https://news.vmware.com/company/vmware-by-broadcom-business-transformation" rel="nofollow noopener" target="_blank"&gt;https://news.vmware.com/company/vmware-by-broadcom-business-transformation&lt;/a&gt;</description><pubDate>Tue, 12 Dec 2023 15:35:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999850#reply0</guid></item><item><title>[macOS] 有没有人 macos 的设置页面非常卡？</title><link>https://www.v2ex.com/t/999849#reply4</link><description>&lt;p&gt;系统：14.2 （之前版本也一样）
+手上一台 m1 8+256 的 macbook 设置页面奇卡无比，尤其是 wifi 页面，直接无法点击。
+另一台 m1 pro 32+512 好点，但也挺卡&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:35:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999849#reply4</guid></item><item><title>[酷工作] 头部 VC 经纬创投 招聘 AI 投资人</title><link>https://www.v2ex.com/t/999848#reply1</link><description>&lt;p&gt;[经纬创投——招聘 AI 投资人] ：
+寻找有海外/国内头部 AI 团队 AI infra 、application 、toolchain 等产品/研发/BD/AI Solution architect/算法等相关背景，有兴趣有意愿转投资方向的同学&lt;/p&gt;
+&lt;p&gt;Base 北上&lt;/p&gt;
+&lt;p&gt;要求：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;一台 n5105 的小主机&lt;/li&gt;
-&lt;li&gt;一条 SATA 512G 固态&lt;/li&gt;
-&lt;li&gt;一块 2.5 寸 SATA 4T 固态&lt;/li&gt;
-&lt;li&gt;一条 M.2 4T 固态&lt;/li&gt;
-&lt;li&gt;一个 M.2 硬盘盒&lt;/li&gt;
-&lt;li&gt;一个散热风扇&lt;/li&gt;
+&lt;li&gt;top 高校计算机/软件等相关专业背景；&lt;/li&gt;
+&lt;li&gt;对国内外 AI 发展保持密切关注和对其广泛的产品和应用见解和判断；&lt;/li&gt;
+&lt;li&gt;有很感兴趣或者有自己看好的投资方向，能拆解梳理投资方向;&lt;/li&gt;
+&lt;li&gt;有能力和较强兴趣挖掘国内外投资标的和优秀创业团队，有敏锐的洞察和商业理解，对转投资有明确的想法和准备；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="硬件组合" class="embedded_image" rel="noreferrer" src="https://x.mebtte.com/share/hardware.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="正面和 Switch 对比大小" class="embedded_image" rel="noreferrer" src="https://x.mebtte.com/share/front.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="侧背面" class="embedded_image" rel="noreferrer" src="https://x.mebtte.com/share/side.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;一般来说 M.2 的固态才是潮流, 不过在购买小主机的时候没注意参数, 后面才发现只支持 SATA 固态. 小主机本身有内置风扇, 不过转码的时候机身还是会发烫, 所以额外搞了个外置风扇, 同时还能给外置的 M.2 固态硬盘散热.&lt;/p&gt;
-&lt;p&gt;这套方案只有三个硬盘, 512g 的作为系统盘, 两条 4T 一条作为数据盘另一条作为数据盘的备份, 所以实际可用空间是 4T. 虽然有点少, 不过对于我这种轻 NAS 用户来说足够了.&lt;/p&gt;
-&lt;p&gt;用功率计测过, 待机时整体功耗不超过 8w, 满载 20w 出头, 加上全固态和静音风扇, 完全没有噪音污染, 只不过稍微有点灯光污染(主机+硬盘盒+网线).&lt;/p&gt;
-&lt;p&gt;软件方面, 操作系统选择了 Ubuntu Server, 盘位太少就没必要搞什么 trueNAS/Unraid, 而且 Ubuntu 用起来也顺手. 服务全部使用 Docker 托管, 配合 Portainer 可以很方便地在浏览器进行管理.&lt;/p&gt;
-&lt;p&gt;其他的话, 影视服务选择的是 &lt;a href="https://jellyfin.org" rel="nofollow"&gt;Jellyfin&lt;/a&gt;, 音乐服务是自己开发的方案&lt;a href="https://github.com/mebtte/cicada" rel="nofollow"&gt;知了&lt;/a&gt;, 备份服务选择的是 &lt;a href="https://syncthing.net" rel="nofollow"&gt;Syncthing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="知了" class="embedded_image" rel="noreferrer" src="https://x.mebtte.com/share/cicada.png" /&gt;&lt;/p&gt;
-&lt;p&gt;不像成品 NAS 自带远程访问, 自建 NAS 往往需要自己解决远程访问的问题. 我这里采用的是 frp + vps 的方案, 通过 frp 将需要公网访问的服务反向代理到具有公网 IP 的 VPS, 加上域名解析就可以通过域名访问对应的服务.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;暴露服务到公网总是有风险的!!!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="frp 示意图" class="embedded_image" rel="noreferrer" src="https://x.mebtte.com/share/frp.png" /&gt;&lt;/p&gt;
-&lt;p&gt;为什么我会抛弃成品 NAS 选择纯固态的方案, 首先大多数成品 NAS 都使用机械硬盘, 因为我的网口在房间里, 机械硬盘的噪音足以影响休息. 其实这台小主机是支持 wifi 的, 最开始的方案是外接机械硬盘柜, 然后放到阳台避免噪音污染的. 但是 wifi 体验下来有两个问题, 第一是速度太慢了, 第二总是断流, 莫名其妙地断开连接导致服务不可用, 需要等待 wifi 自动重连才恢复正常. 所以后面才换到目前这种全固态方案, 放在房间内使用网线连接, 没有噪音污染.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;现在陆陆续续有成品纯固态 NAS 推出, 不过现阶段的性价比还是太低了.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;其次, 机械硬盘实在是太笨重了, 加上成品 NAS 动则四盘位六盘位的体积, 实在不好摆放, 目前这套方案体积非常小巧, 完全不占用地方.&lt;/p&gt;
-&lt;p&gt;说一下容量的问题, 目前 4T 的容量确实是捉襟见肘. 不过小主机有多个 USB 的接口, 电源功率也还足够, 后续插多几个外接固态问题也不是很大.&lt;/p&gt;
-&lt;p&gt;然后是备份的问题, 虽然我做了本地备份, 如果数据特别重要的话, 本地备份总是不够的. 之前看到过一个案例, 某位博主的家里被水淹了导致 NAS 完全报废, 幸运的是他有一份异地备份从而能够完整地恢复数据. 我们可能也会遇到同样的问题, 一堆鸡蛋放在同一个篮子里总是不安全的, 所以我目前的方案是把重要的数据通过 &lt;a href="https://www.duplicati.com" rel="nofollow"&gt;duplicati&lt;/a&gt; 加密分片后上传到网盘. 当然, 网盘作为异地备份也不是一个安全的选项, 如果后面有时间的话, 可以考虑维护两个 NAS, 分放两地互为备份.&lt;/p&gt;
-&lt;p&gt;不同于大多数方案选用的 RAID, 本地备份我用的是 cron + rsync 的方式. 首先我的盘位不多, 无论哪种 RAID 方案都不太合适. 其次, RAID 有可能将一份数据分散在多盘, 这对于数据恢复来说是非常有难度的.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;此文最早发布于&lt;a href="https://mebtte.com/my_nas" rel="nofollow"&gt;我的博客&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Tue, 12 Dec 2023 09:17:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999761#reply1</guid></item><item><title>[Apple] 17.1 升级到 17.2 发现恢复了 16 的流畅度</title><link>https://www.v2ex.com/t/999760#reply0</link><description>&lt;p&gt;iPhone11 钉子户之前升级 17.1 之后下拉 app 菜单和上滑切换 app 都有明显卡顿，后悔不已。&lt;/p&gt;
-&lt;p&gt;今天看到 17.2 赶紧升级，死马当活马医，没想到升级之后卡顿消失了，又回到了 16 的顺滑，不禁泪流满面。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 09:16:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999760#reply0</guid></item><item><title>[问与答] 接到电话自称中国移动要给我送话费，是什么套路？有人遇到过吗？</title><link>https://www.v2ex.com/t/999759#reply0</link><description>&lt;p&gt;刚刚接了个本地区号的座机电话，自称是中国移动的，说了一堆“最近移动客户经理有没有跟你联系？”、“您的专属客户经理是 XXX ，电话号码是 xxxxxx”、“有没有登门拜访过？”之类的，我的回答都是没有，然后对方表示很抱歉，最后跟我说会送我 10 元话费，然后结尾两句类似标准结束语就挂了。&lt;/p&gt;
-&lt;p&gt;这是什么套路？也没让我加微信、转账什么的。就是挺莫名其妙的。因为我手机号是电信的。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 09:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999759#reply0</guid></item><item><title>[程序员] 电商门户系统过于臃肿怎么解</title><link>https://www.v2ex.com/t/999758#reply1</link><description>&lt;p&gt;今日思考 低代码平台只能 rest 访问电商门户的入口地址  某一个后端系统实现的功能 需要电商透传 rpc 去调用后端系统 这样造成了电商系统的 endpoint 包有很多功能，且都是某些小活动的很少用到 电商沦为网关 这种应该怎么解决呢，好奇且不懂&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 09:14:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999758#reply1</guid></item><item><title>[问与答] clash(meta)的 tun 模式，要怎么配置才能不影响 tailscale 穿透呢？</title><link>https://www.v2ex.com/t/999757#reply0</link><description>&lt;p&gt;如题，目前用的 clash verge （ v1.3.8 ）作为 gui ，meta v1.16.0 作为 core 。tailscale(1.54)在 tun 开启的时候，都会走中继而不能直接打通。只要关上 tun 就能立马打通。目前是手动开关 tun 来解决使用问题的，不过想了解下这个问题的原因和解决方案。对网络方面的技术还不是很熟，有没有老哥能解答下~&lt;/p&gt;
-&lt;p&gt;tun 和 dns 部分的大体配置如下（网上拼拼凑凑搞得...）：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-yaml"&gt;tun:
-  enable: false
-  stack: system
-  dns-hijack:
-    - 'any:53'
-  auto-route: true
-  auto-detect-interface: true
-
-dns:
-  enabled: true
-  ipv6: true
-  listen: 127.0.0.1:53
-  enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
-    - '*'
-    - '+.lan'
-    - '+.local'
-  use-hosts: true
-  nameserver-policy:
-    "*.google.com": 8.8.8.8
-    "*.tw": 1.1.1.1
-    testflight.apple.com: 8.8.8.8
-    "*.tmall.com": 223.5.5.5
-    "*.taobao.com": 223.5.5.5
-    "*.alicdn.com": 223.5.5.5
-    "*.aliyun.com": 223.5.5.5
-    "*.alipay*.com": 223.5.5.5
-    "*.alibaba*.com": 223.5.5.5
-    "*.alimama*.com": 223.5.5.5
-    "geosite:private":
-      - https://doh.pub/dns-query
-      - https://dns.alidns.com/dns-query
-    "geosite:geolocation-!cn":
-      - 'https://dns.cloudflare.com/dns-query#dns'
-      - 'https://dns.google/dns-query#dns'
-  default-nameserver:
-    - 223.5.5.5
-  nameserver:
-    - "https://doh.pub/dns-query"
-    - "https://223.5.5.5/dns-query"
-    - https://dns.alidns.com/dns-query
-  proxy-server-nameserver:
-    - https://doh.pub/dns-query
-  fallback:
-    - https://dns.cloudflare.com/dns-query
-    - https://doh.mullvad.net/dns-query
-    - "https://doh.dns.sb/dns-query"
-    - "https://1.1.1.1/dns-query"
-    - "tls://8.8.4.4:853"
-  fallback-filter:
-    geoip: true
-    ipcidr:
-      - 240.0.0.0/4
-      - 0.0.0.0/32
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 12 Dec 2023 09:13:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999757#reply0</guid></item><item><title>[macOS] macos 14.2 默认通知声音 从 "三全音" 改成 "反弹" 了吗</title><link>https://www.v2ex.com/t/999756#reply0</link><description>&lt;p&gt;更新 14.2 之后，微信新消息提示音变成了 “反弹”，有方法可以设置回“三全音” 吗？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 09:05:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999756#reply0</guid></item><item><title>[Kubernetes] k8s 某个 deployment 如何自动伸缩到 node 的数量</title><link>https://www.v2ex.com/t/999755#reply2</link><description>&lt;p&gt;如果，如何自动伸缩后，保持每个 node 上都有这个 deployment 的 pod&lt;/p&gt;
-&lt;p&gt;有没有运维大佬指点一下&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:59:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999755#reply2</guid></item><item><title>[问与答] 关于调整管理网站一些按钮的位置 或者表格的高低等样式的请教</title><link>https://www.v2ex.com/t/999754#reply0</link><description>op 纯后端 不过难免需要调整一下网站的样式 想问一下有没有什么工具或者可视化的捷径可以走 一点点调试太痛苦了 还有可能遇到 自适应分辨率的问题</description><pubDate>Tue, 12 Dec 2023 08:54:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999754#reply0</guid></item><item><title>[酷工作] [可远程] 小团队招募兼职安卓客户端、服务端各一人，可长期合作</title><link>https://www.v2ex.com/t/999753#reply0</link><description>项目背景：做一款游戏 launcher 启动器，面向海外市场。有明确的商业模式和海外资源来维持项目长期运转。&lt;br /&gt;&lt;br /&gt;本人介绍：BAT 均待过，现在准备自己搭团队做小而美的产品。开发可以选择技术入股或者单纯拿钱办事，都接受。&lt;br /&gt;&lt;br /&gt;安卓客户端职位 JD：&lt;br /&gt;&lt;br /&gt;-熟悉安卓 UI 开发，2 年以上开发经验&lt;br /&gt;-熟悉 frame work 层，优先有虚拟机相关开发经验（ must ）&lt;br /&gt;-具有服务端或者 HTML 开发经验者优先&lt;br /&gt;&lt;br /&gt;服务端职位 JD：&lt;br /&gt;-1 年及以上后端开发经验&lt;br /&gt;&lt;br /&gt;薪资范围加 v 私聊，薪资预期不会很高，因为在拿自己钱做事。&lt;br /&gt;有意向加 v：18928720126</description><pubDate>Tue, 12 Dec 2023 08:48:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999753#reply0</guid></item><item><title>[酷工作] 外企上海分部前端/后端/移动端</title><link>https://www.v2ex.com/t/999752#reply9</link><description>上海入职岗位需求：&lt;br /&gt;项目：欧洲游戏研发&lt;br /&gt;需求 2 中级 web 开发工程师：18~27K&lt;br /&gt;需求 3 初级 web 开发工程师：8~15K&lt;br /&gt;需求 2 中级 go 服务器开发：20~30K&lt;br /&gt;需求 1 高级 IOS/Android 开发工程师：27~35K&lt;br /&gt;需求 1 中级 IOS/Android 开发工程师：18~27K&lt;br /&gt;关于 remote：薪资-30%可能 open&lt;br /&gt;工作时间：10 点~晚 8 点双休制&lt;br /&gt;base：上海徐汇区 or 漕河泾开发区&lt;br /&gt;简历投递： xiaoxiangjiao97@gmail.com</description><pubDate>Tue, 12 Dec 2023 08:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999752#reply9</guid></item><item><title>[问与答] 焦虑症、高血脂、颈椎病求助（头晕、眼花、手脚无力）</title><link>https://www.v2ex.com/t/999751#reply2</link><description>&lt;p&gt;背景：低密度脂蛋白 4.2 以上已经三年，三年前最高到过 5.0 ，目前在 4.3 ，中间无饮食、生活方式和运动调节，基本放任自由；半年前确诊焦虑症，目前正在减药期（文拉法辛）；颈椎病患者。&lt;/p&gt;
-&lt;p&gt;近期感觉头晕严重、眼睛模糊、手脚无力，怀疑高血脂的问题（当然本人也有颈椎病和焦虑症，不一定是高血脂造成的）。所以去医院求助医生，医生建议服用他汀进行治疗，但考虑他汀副作用：肝肾损伤、横肌纹溶解、血糖异常等，所以咨询一下有没有通过生活方式、饮食等方法控制血脂成功的案例，感谢大家&lt;/p&gt;
-&lt;p&gt;最后头晕、眼花、手脚无力等症状最近困扰我比较严重，特别是头晕（无天旋地转感觉要摔倒的情况），基本伴随一整天，不知道有没有道友也有类似的症状？&lt;/p&gt;
-&lt;p&gt;我目前怀疑对象有三个：焦虑症、高血脂、颈椎病，不知道这方面有没有大佬能提供一些身边的案例&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:45:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999751#reply2</guid></item><item><title>[分享创造] 知链短链接新 UI 上线啦！</title><link>https://www.v2ex.com/t/999750#reply1</link><description>&lt;p&gt;知链短链接新 UI 上线啦！
-&lt;a href="http://zhiurl.cn" rel="nofollow"&gt;zhiurl.cn&lt;/a&gt;
-支持。
-*自定义链接后缀&lt;br /&gt;
-*API 调用  &lt;/p&gt;
-&lt;p&gt;欢迎你的使用&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:41:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999750#reply1</guid></item><item><title>[酷工作] TapTap（TDS）招聘后端工程师（上海）</title><link>https://www.v2ex.com/t/999749#reply0</link><description>&lt;p&gt;大家好，上次通过 v 站顺利的找到了靠谱的全栈同事，这次我们团队需要一位后端专精的同事，因此首先想到了 v 站。先放 JD：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;要求&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有扎实的工程师基础：熟悉常用数据结构与算法，了解现代 web 应用是如何工作的。&lt;/li&gt;
-&lt;li&gt;熟悉 MongoDB / ClickHouse 或其他 NoSQL 数据库，理解索引、分布式事务、磁盘存储等机制。&lt;/li&gt;
-&lt;li&gt;精通 Go 或 Java （我们后端服务使用的主要语言），了解后端开发涉及的常见网络协议和 RPC 协议，熟悉各类开源中间件和工具。&lt;/li&gt;
-&lt;li&gt;有优秀的学习、沟通与协作能力。&lt;/li&gt;
-&lt;li&gt;工作地点：上海。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;加分项&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有游戏行业从业经历。&lt;/li&gt;
-&lt;li&gt;了解 Clojure 语言。&lt;/li&gt;
-&lt;li&gt;有后端之外的其他技术或能力栈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;职责&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;负责面向 2B 服务部分后端产品，保障服务稳定的同时响应新的需求。&lt;/li&gt;
-&lt;li&gt;参与新产品后端系统的设计与开发。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;简历请发送到 &lt;a href="mailto:tds-jobs@taptap.com"&gt;tds-jobs@taptap.com&lt;/a&gt; 。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;之前在招聘全栈工程师的时候详细描述了我们的要求、不要求以及团队的工作方式等，这部分内容在招聘过程中帮助我们与候选人节约了大量的时间。这些内容与具体的职位无关，当前也仍然适用，这里我稍微调整了一下全文引用了：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h3&gt;关于要求&lt;/h3&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;首先，你需要是一个优秀的工程师。一个优秀的工程师需要做到在为你做代码 review 时你的同事不需要关心命名、逻辑正确性、是否存在性能问题这些方面，而是可以把重点放在问题抽象、模块拆分、接口设计层面。要做到这点并不容易，你需要有良好的英语水平，需要有扎实的计算机基础、熟悉常用的数据结构与算法，需要了解现代 web 应用的各个部分大约是如何工作的，当遇到不熟悉的领域时知道如何快速学习对应的知识，以及最重要的一点，需要有动手能力把所有的这些变成可以运行的工具或服务。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;然后，你需要是一个专业的后端工程师。你需要了解后端领域的最新状态，知道要解决的问题是什么，哪些已经被解决了，哪些进展到了什么程度。你需要熟悉现代的后端工程的完整流程，有能力选择合适的方法与工具，独立完成一个需求的后端部分从需求分析到方案设计、开发、测试、发布、运维的完整流程。你还需要对其他与后端有交集的角色—包括但不限于产品 /运营、设计、前端 、SRE—负责的事情有基本的认知，知道不同角色之间的边界与接口，有能力辨别合作方案中不合理的设计。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;最后是沟通能力。正如「代码是写给人看的」，工程师很大一部分工作是在与各种各样的人沟通。因此你需要能通过书面或口头的形式有效地描述事实（问题、方案）、表达观点。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;此外我们非常希望你会后端之外的另一个栈：产品、用户体验设计或前端开发。拥有跨栈的能力有以下优势：1. 减少沟通成本，可以更灵活地分配时间 ，从而更快的进行迭代； 2. 可以从更高的视角看问题，从整体利益出发设计更合理的方案。「会」的定义是：你不一定有像后端领域一样全面的知识体系，但依然要有独立完成相关工作的能力。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;说完了要求，再来说说不要求什么。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;首先，不要求工作经验。能力比经验重要的多，只要你能证明你满足上述的能力要求我们都会邀请你来面试（当然项目经历是最常见的能力证明，如果你在工作经验上没有优势，请务必确保你在简历中体现出了能力）。出于同样的原因，我们也会按照简历中与面试时展现出的能力提供我们认为与之匹配 offer ，而非根据过往的职级或薪资（我们甚至不会问）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;然后，这个职位不要求你是某个领域的技术专家。我们目前阶段，绝大部分需求依然来自业务。能在广泛的领域中选择合适的工具把一个需求从 0 做到 80 分要比在某个具体领域把需求从 80 分优化到 99 分对当前的我们更有价值。当然这并不是说我们不重视技术深度，只是说如果你的职业规划是深耕某个技术方向的专家，对具体业务兴趣不大，那这个职位可能不能满足你的期望。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;h3&gt;关于团队&lt;/h3&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;说了很多对候选人的期望，接下来分享一下我们团队的更多细节。其中很多是我们与候选人沟通时经常被问到的，本也不是什么需要保密的信息，不如在这里公开介绍一下。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;h4&gt;关于 TapTap 与 TDS&lt;/h4&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;公司层面，包括部门的基本情况，以及文化、面试流程、工作方式等信息，可以参考&lt;a href="https://blog.taptap.dev/pages/culture-management-and-tools" rel="nofollow"&gt;《文化、制度和工具 | TDS 博客》&lt;/a&gt;，不在此赘述了。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;h4&gt;关于我们组&lt;/h4&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们是 TDS 负责云服务的研发团队，目前由 10 位工程师组成，其中有 5 位专精后端。我们的目标是提供产品和服务让游戏开发者们更容易做出功能丰富的游戏。我们负责的业务主要面向游戏开发者，覆盖数据库、IM 、容器平台等各种不同类型的能力。使用的主要的技术栈是 Go 与 Java ，也有部分 TypeScript 项目，还有一些老代码是 Clojure 的。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;h4&gt;关于我们的工作方式&lt;/h4&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们按照需求分工，一个人负责一个完整的需求，从需求分析一直推进到最终发布。如果某些重要的工作不在你擅长的领域，你可能会需要在组内或组外找到合适的人与你合作完成（ TDS 层面还是有专精产品、设计、测试、DevOps 的团队的）。同时我们要求每个人又都是一个或多个模块的 owner 。这个模块可大可小，大到一整个业务方向，小可以是某个具体功能，相同的是都要求这个人是全公司最了解这个模块的人，要对这个模块负责（更具体一点，要收集与分析模块的需求、思考与决定模块的目标与计划、review 涉及到该模块的方案与 MR ）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;公司践行 OKR ，每个团队有自上而下对齐的目标（ O ），它们是我们日常大小决策的依据。我们组每个月初会根据团队目标讨论并确定当月的工作计划，然后每个人独立拆分更细的任务与个人计划。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们的日常议事原则是提供完整上下文、广泛充分发表意见、owner 拥有最终决定权。为了做到这些，团队几乎所有的代码都是内部公开的，工作中所有的沟通都需要以公开的方式进行（比如 Slack 公开频道、Confluence / GitLab / Figma comments ），保证任何人都可以在任何时候看到整个决策过程。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;p&gt;工程师招聘是一个相互了解与选择的过程，我们深知互相坦诚在这个过程中的重要性。因此如果你看完上面这些后，认同我们的目标与追寻目标的方式，并认为可以胜任该职位，请不吝将简历发送到 &lt;a href="mailto:tds-jobs@taptap.com"&gt;tds-jobs@taptap.com&lt;/a&gt; （或者 &lt;a href="mailto:liye+v2ex@xd.com"&gt;liye+v2ex@xd.com&lt;/a&gt; ，如果你想单独找我聊聊）。&lt;/p&gt;
-&lt;p&gt;感谢你的关注。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:37:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999749#reply0</guid></item><item><title>[重庆] 重庆江北免费做小区宣传广告</title><link>https://www.v2ex.com/t/999748#reply0</link><description>&lt;p&gt;可免费做小区公益广告宣传，欢迎咨询&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:24:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999748#reply0</guid></item><item><title>[OpenAI] GPT-PLUS 用户如何才能使用 GPT-4 的 API 啊</title><link>https://www.v2ex.com/t/999747#reply4</link><description>&lt;p&gt;我调用 models list 接口发现居然没有 4 ，查了一圈才知道 GPT-4 的 API 得是 Pay-As-You-Go customer 同时成功付费过。&lt;/p&gt;
-&lt;p&gt;这个要怎么付费呢&lt;/p&gt;
-&lt;p&gt;官方的回答： &lt;a href="https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4" rel="nofollow"&gt;https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 08:24:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999747#reply4</guid></item><item><title>[问与答] 大家春节有什么计划吗</title><link>https://www.v2ex.com/t/999746#reply2</link><description>如果出去玩的话有没有推荐的地方？</description><pubDate>Tue, 12 Dec 2023 08:22:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999746#reply2</guid></item><item><title>[iCloud] 关于 apple tv 登陆 icloud 账号看不到 store 的问题</title><link>https://www.v2ex.com/t/999745#reply1</link><description>问题如下：&lt;br /&gt;icloud 是美区 ID ，上了个土耳其的 icloud 家庭车，手机上 store 账号有时候切国区，有时候切美区&lt;br /&gt;用 icloud 登陆 apple tv 默认账号后，发现找不到 store 商店，后面发现 tv 上的 store 账号显示是国区的账号，并且显示灰色还不能退出，万能的 V 友有什么办法可以解决这个问题吗</description><pubDate>Tue, 12 Dec 2023 08:14:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999745#reply1</guid></item><item><title>[问与答] 坐标广东，想入门学习下帆船运动和攀岩，有大佬分享下经验吗</title><link>https://www.v2ex.com/t/999744#reply0</link><description></description><pubDate>Tue, 12 Dec 2023 08:03:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999744#reply0</guid></item></channel></rss>
+&lt;p&gt;欢迎推荐+自荐 &lt;a href="mailto:mollysu0820@163.com"&gt;mollysu0820@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999848#reply1</guid></item><item><title>[深圳] 问一下深圳的小伙伴们，都在用啥电单车（两个轮）</title><link>https://www.v2ex.com/t/999847#reply3</link><description>预算 2k 左右，目前看中了深远，平常通勤 5-7km ，选购电动车需要注意避坑什么</description><pubDate>Tue, 12 Dec 2023 15:28:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999847#reply3</guid></item></channel></rss>
