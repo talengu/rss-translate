@@ -1,133 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 11 Dec 2023 17:52:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 可以用序列号验证 MacBook 是国行还是美版吗？</title><link>https://www.v2ex.com/t/999545#reply1</link><description>几年前在淘宝上一个店买的「美版 MacBook Pro 」，比国行便宜一些，物流也花了一个多月，快递的箱子上也是一堆物流标签纸，当时就没多想。&lt;br /&gt;但是今天突然想起来，这个电脑没法显示青天白日的 emoji……据我所知，Apple 的设备，除了国行，都是可以显示这个 emoji 的。因此比较怀疑设备是否真的是美版了。&lt;br /&gt;请问各位，可以用序列号验证 MacBook 是国行还是美版吗？</description><pubDate>Mon, 11 Dec 2023 17:45:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999545#reply1</guid></item><item><title>[OpenAI] chatgpt 免费使用 PLUS 90 天（官方送福利），太香了</title><link>https://www.v2ex.com/t/999544#reply0</link><description>&lt;p&gt;连续开通了 8 个月的 PLUS 会员，可以邀请朋友免费使用 PLUS90 天。
-&lt;a href="https://twitter.com/Bulllenlon/status/1734261363445490155" rel="nofollow"&gt;https://twitter.com/Bulllenlon/status/1734261363445490155&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 17:42:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999544#reply0</guid></item><item><title>[问与答] 天选 4 r7 7735h rtx4060 32+1t 怎么样？</title><link>https://www.v2ex.com/t/999543#reply0</link><description>&lt;p&gt;最近几天都在选笔记本电脑，太多了，不知道怎么选，希望性能好一点，续航久一点的，目前知道天选 4 比较符合要求，4060 ，32+1t 在 7200 左右。看网上评论都说掉网，买来还要换网卡，硬盘也要换位置，有没有使用过的朋友，能入吗？&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 17:19:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999543#reply0</guid></item><item><title>[酷工作] [数据库、存储、网络、算法] [北、上、深、广、杭、成、西] [30～ 80k]</title><link>https://www.v2ex.com/t/999541#reply0</link><description>&lt;h1&gt;数据库&lt;/h1&gt;
-&lt;h2&gt;base 地根据产品和职位不同可以找我详细沟通，均在一二线，以下同&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;大的职位方向&lt;/th&gt;
-&lt;th&gt;细分方向&lt;/th&gt;
-&lt;th&gt;需求&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;内核开发（ OLTP 、OLAP 、HTAP 、NoSQL ）&lt;/td&gt;
-&lt;td&gt;存储、计算、分析、优化、执行引擎、存储系统&lt;/td&gt;
-&lt;td&gt;竞对数据库产品的内核相关方向开发&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;中间件&lt;/td&gt;
-&lt;td&gt;生态和工具。&lt;/td&gt;
-&lt;td&gt;数据库生态工具开发&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;管控&lt;/td&gt;
-&lt;td&gt;RDS （ toB ）&lt;/td&gt;
-&lt;td&gt;go 语言，无需内核经验&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;数据库生态工具&lt;/td&gt;
-&lt;td&gt;管控，中间件（ DTS 、Proxy ）、DBS 、DB 运维管理&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nosql&lt;/td&gt;
-&lt;td&gt;MongoDB 、Redis 、Hbase\table&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;数据库解决方案&lt;/td&gt;
-&lt;td&gt;数据库、中间件、存储&lt;/td&gt;
-&lt;td&gt;开发转最好&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h1&gt;存储&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;职位方向&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;文件存储&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;块存储&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;kv 存储&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;对象存储&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;存储底座（分布式存储）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h1&gt;Iaas&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;基础技术&lt;/th&gt;
-&lt;th&gt;基础存储架构师（偏文件存储）&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;计算&lt;/td&gt;
-&lt;td&gt;混合调度、资源调度、k8s 、编排调度、容器运行时、Spark&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;research&lt;/td&gt;
-&lt;td&gt;GPU 研发、网络、存储（偏硬件）、内核虚拟化&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;以上职位均来自于一线大厂，然后关于薪资、Base 地、产品、团队的介绍，欢迎联系我咨询。其他关于行业的八卦、新闻、行情，也随时欢迎联系我。
-当然也有其他互联网&lt;strong&gt;开发、算法、产品、运营&lt;/strong&gt;的职位，可以帮忙推荐和引荐，时间关系，暂时还没把所有的岗位列出来，欢迎私聊了解。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;About Me&lt;/h3&gt;
-&lt;p&gt;前程序猿懂一些些数据库方向技术的猎头，喜欢阅读，涉及科目：哲学、心理学、文学，目前 ChatGPT 重度使用者，在调研 LLM 方向，希望可以给国内的 LLM 发展提供一些力所能及的帮助，期待和你的沟通交流~&lt;/p&gt;
-&lt;p&gt;始终相信：&lt;/p&gt;
-&lt;p&gt;反抗虚无更好的方式是学习，而虚无本身是无法反抗虚无的！&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;联系方式:&lt;/h3&gt;
-&lt;h4&gt;WeChat：Z2VsYWl3YW5n(base64) 请备注 v2 和来意 。&lt;/h4&gt;
-&lt;p&gt;通过好友之后，我会先打招呼，然后辛苦主动说明下自己的情况（目前做什么方向的，以及自己的诉求等），方便我们有一定的了解之后，更直接进一步的沟通～。&lt;/p&gt;
-&lt;h4&gt;Email：&lt;/h4&gt;
-&lt;p&gt;如果你觉着微信沟通很尬，You are welcome to contact me via email： &lt;a href="mailto:gelaiwang@outlook.com"&gt;gelaiwang@outlook.com&lt;/a&gt; ，我会及时回复邮件的~&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 16:24:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999541#reply0</guid></item><item><title>[问与答] 大数据说养娃教育费用要 80W，你们怎么看？</title><link>https://www.v2ex.com/t/999540#reply5</link><description>讨论个比较现实的问题。&lt;br /&gt;大数据说养一个娃从小学到大学毕业的教育支出费用是 50-100W ，普通人 80W 。有邻居表示不止。 &lt;br /&gt;我粗略算过假设不含任何额外的培训辅导，大概 25W ，也就是按 80W 算，培训辅导等费用占了 55W 。&lt;br /&gt;&lt;br /&gt;有没有大佬有各级段的育娃经历，欢迎分享</description><pubDate>Mon, 11 Dec 2023 16:13:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999540#reply5</guid></item><item><title>[中州韻] 请教个 Rime Lua 模块化的问题</title><link>https://www.v2ex.com/t/999539#reply0</link><description>&lt;p&gt;有一个类似 哈利路亚的方案： &lt;a href="https://github.com/sdadonkey/rime-english/tree/master" rel="nofollow"&gt;https://github.com/sdadonkey/rime-english/tree/master&lt;/a&gt;
-如果要改成模块化 lua 的话应该怎么修改？
-这个方案的 &lt;code&gt;rime.lua&lt;/code&gt; 里是这样的：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;local english = require ("english")()
-english_processor = english.processor
-english_segmentor = english.segmentor
-english_translator = english.translator
-english_filter = english.filter
-english_filter0 = english.filter0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在 english.schema.yaml 里是:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;processors:
-    - lua_processor@english_processor       # 本輸入法需要用到，需保留
-  segmentors:
-    - lua_segmentor@english_segmentor   
-  filters:
-    - lua_filter@english_filter       
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;使用了新的模块化后的 lua 的话应该怎么写?&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 16:13:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999539#reply0</guid></item><item><title>[Arc] Arc 浏览器开始 Windows Beta 滚动测试了</title><link>https://www.v2ex.com/t/999538#reply1</link><description>&lt;p&gt;&lt;a href="https://browserco.typeform.com/testarc4windows" rel="nofollow"&gt;https://browserco.typeform.com/testarc4windows&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 16:04:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999538#reply1</guid></item><item><title>[程序员] 请问学习 C#需要学习哪些东西。</title><link>https://www.v2ex.com/t/999537#reply17</link><description>&lt;p&gt;本人是一名计算机专业大一学生，做了两年半业余前端，想学习 C#，学习路线应该是怎么的。
-查了一些资料，&lt;a href="http://有些人说直接学习.net" rel="nofollow"&gt;有些人说直接学习.net&lt;/a&gt; core ，有些帖子又不推荐学习，没有比较准确的推荐。
-求大佬给一些比较细化的推荐。
-比如说 C#我了解的有三个方向， 可以做游戏、后端、桌面端
-如果这三个都想了解学习，学习的方向应该是如何的，技术栈是如何一步步学习下去。&lt;/p&gt;
-&lt;p&gt;例如做前端就得先 html 、css 、js ，然后学习一些 ajax 、nodejs 、webpack 、npm 相关的知识了再去学习框架 vue 、react 这种，然后例如在 vue 框架中又得学习，router 、vuex 、pinia 这种&lt;/p&gt;
-&lt;p&gt;求大佬指点迷津。&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 15:18:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999537#reply17</guid></item><item><title>[Dropbox] Dropbox 推出 50GB 的 Basic Extra 套餐</title><link>https://www.v2ex.com/t/999536#reply6</link><description>&lt;p&gt;突然发现 Dropbox 推送了可以订购 Basic Extra 套餐的弹窗，可以以年、月两种结算周期，将空间扩展至 50GB 。相较于以前的 2T 、5T 等有了更多的选择。
-50GB ，对于日常办公，存放一些文档资料基本可以满足需求。大家怎么看？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="111.png" class="embedded_image" rel="noreferrer" src="https://mjjzp.cf/img/2023/12/11/2a9f484924b63.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 15:14:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999536#reply6</guid></item><item><title>[问与答] qq 浏览器打开，提示“当前网页风险评估：危险！”，是什么机制？</title><link>https://www.v2ex.com/t/999535#reply8</link><description>自己做的新网站，qq 浏览器打开，提示“当前网页风险评估：危险！”，之前几天都没有，今天开始有了，这是为什么呢？能不能解决</description><pubDate>Mon, 11 Dec 2023 15:07:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999535#reply8</guid></item><item><title>[问与答] localsend V1.31.1（42）闪退？</title><link>https://www.v2ex.com/t/999534#reply0</link><description>大家有没有发现在 iPhone 手机上 localsend  V1.31.1 （ 42 ）没法正常使用，搜索局域网设备每次都是闪退，根本无法正常使用，即使重装了也不行。</description><pubDate>Mon, 11 Dec 2023 15:03:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999534#reply0</guid></item><item><title>[生活] 让他人接受自己前，先让自己接受自己</title><link>https://www.v2ex.com/t/999533#reply3</link><description>回忆自己前 22 岁的生活，发现常常是孤独的，毕业后独自一个在一个陌生的城市工作后这种孤独感尤甚，而在忍受不了这种孤独时我又常常会寻找一些解决方案，比如说下载交友软件，如 Soul 、Tinder 一类，渴望的是能在这些交友软件中找到一个情投意合的对象，可是会发现，自己并不是认真的，自己并不是那么真诚的。拿 Soul 举例，可以在这个 APP 上匹配聊天，匹配到一个和我在一个城市的，突然欣喜，因为同在一个城市，两个人才能有进一步的发展，可在了解到对方还不满 18 岁、又是职高学历时，却并不停手，为何？扪心自问，难道我自己真的认为会和对方走下去吗？我内心的想法其实并不会，那我想要的是什么呢，可能还是所谓的性。但又反过来思考，如果一个人为了性，去用“坑蒙拐骗”和花言巧语来代替真诚，这又是负责的吗？我想不是。&lt;br /&gt;&lt;br /&gt;但抛开一切动机和目的，在这过程中，我也发现了自身的问题，我发现在聊天的过程中会将我的无聊暴露得一览无余，和别人聊工作、聊“你是哪儿的”，这种话题想想会让对方对你感兴趣吗？如果我是个女人，我想我不会，绝大多数的男人和女人的需求其实的的确确不同，绝大多数男人的动机和目的往往就是性爱，这一点可以从包括但不限于 Soul 、小红书这类的社交 APP 中的主页推荐内容中看到，而女性想要的是什么呢，我个人认为第一还是良好的外在，这些对于女性来说就像名牌包包或者网红打卡地一样，女性是喜欢这些美的事物的，但与此同时不能说男人就不喜欢美的事物，像我之前提到的，男人也喜欢女人漂亮的脸蛋或者火辣的身材，但男人和女人我想喜欢的“目的”不一样，女人喜欢高颜值的男性是以赏心悦目的角度喜欢，而男性喜欢 Hot Girl 的角度则是为了与其上床而已。当然，不能说女性仅仅喜欢高颜值这一属性的男性，在我看来，让女性真正喜欢的男性第二个特质就是幽默感，谁都喜欢幽默的人，男人会将有幽默感的男人当做好兄弟，女人则享受着幽默感的男人带来的情绪价值，我想这对女人来说是很重要的。至于大众认为的财富，常常被当做吸引女人的点，我个人认为，财富可能是能吸引 90% 以上的女人，但这种吸引并非发自一种内心的，换句话来说，它十分脆弱，当更有钱的人出现，你想女人还会跟着你吗？当你忙于工作时，女人遇上具备以上提到的两点特质任意一点的男人，她很可能会爱上这个男人，届时有钱的男人也只能乖乖带好“绿帽子”了吧。因此，我不认为财富可以作为吸引女人的核心，财富可以作为幸福的催化剂，但仅有财富是不会带来真正的幸福。&lt;br /&gt;&lt;br /&gt;综上所述，我想，作为一个男人，第一外表，这是父母给的，不会有大的变动，能做的是多多运动健身，维持好的身材，保持整洁清爽，注意着装，我想外表至少就不会被讨厌了；第二幽默感，这完完全全是靠后天培养的，我想自己应该多多寻找方法，培养幽默感，换句话来说，能和他人有话可聊但又不至于尬聊，最好还能让对方感到愉悦的同时也让自己感到愉悦，以我目前浅薄的认知我想这便是幽默感的最高境界吧；第三财富，想实现财富的快速增量是小概率事件，平时可以多思考，发现商机，但同时应兢兢业业完成本职工作。我想，将以上提到的外表、幽默感、财富这三点不断践行，无论别人能否接受自己，最起码，自己应该可以接受自己了吧。&lt;br /&gt;&lt;br /&gt;以上是个人一些小小想法，欢迎 V 友发表看法。</description><pubDate>Mon, 11 Dec 2023 15:03:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999533#reply3</guid></item><item><title>[OpenAI] ChatGPT plus 账号独享 29 天超低价</title><link>https://www.v2ex.com/t/999531#reply0</link><description>&lt;p&gt;ChatGPTplus4.0 账号&lt;/p&gt;
-&lt;p&gt;独享 可双改 当天开通
-（按质保 29 天算）
-135 元/个&lt;/p&gt;
-&lt;p&gt;非共享账号 非共享账号&lt;/p&gt;
-&lt;p&gt;联系 v=gpt9922&lt;/p&gt;
-&lt;p&gt;联系 tg=gpt9900&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 14:48:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999531#reply0</guid></item><item><title>[Edge] 大家把 edge 卸了还怎么用网银？</title><link>https://www.v2ex.com/t/999530#reply0</link><description>&lt;p&gt;看到不少人说 edge 流氓，卸了。我不怎么用但是我的 edge 确实不打开也占用很多内存。&lt;/p&gt;
-&lt;p&gt;但是目前 edge 好歹还能改 IE 模式用网银，卸了之后有什么替代方案吗？&lt;/p&gt;
-&lt;p&gt;虽然现在网银用的少了也不能说完全抛弃吧，就拿我的工行来说，u 盾音频口，iphone 没音频口。需要用 u 盾转账或者改安全信息的时候只能电脑上网银。&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 14:47:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999530#reply0</guid></item><item><title>[Docker] 跨服务器 wordpress 迁移到 docker</title><link>https://www.v2ex.com/t/999529#reply0</link><description>写了一篇博客，不知道对大家有没有帮助&lt;br /&gt;&lt;a href="https://www.xmelon.cafe/article/docker-wordpress.html" rel="nofollow noopener" target="_blank"&gt;https://www.xmelon.cafe/article/docker-wordpress.html&lt;/a&gt;</description><pubDate>Mon, 11 Dec 2023 14:42:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999529#reply0</guid></item><item><title>[问与答] 如果追求笔记的隐私，是不是只有 obsidian 可以选择了？</title><link>https://www.v2ex.com/t/999528#reply10</link><description>&lt;p&gt;当然了要不就是大厂的产品，比如 onenote 之类的，还有其他的推荐吗？&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 14:42:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999528#reply10</guid></item><item><title>[开源软件] [开源] MyData 数据融合平台</title><link>https://www.v2ex.com/t/999527#reply0</link><description>1. 介绍&lt;br /&gt;MyData 是基于 Web API 的数据集成平台，提供数据集成服务，简化跨系统之间的数据对接；&lt;br /&gt;MyData 是针对多应用之间数据集成的场景，为开发人员提供更安全、更方便的对接集成；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2. 适用场景&lt;br /&gt;适用于：基于 HTTP(S)协议 API 的应用之间对接数据；&lt;br /&gt;&lt;br /&gt;暂不适用于：&lt;br /&gt;  - 实时的对接场景，需要接入第三方组件 对应用有技术限制；&lt;br /&gt;  - 一次传输大量的数据，由于 HTTP 服务器通常有大小和时间相关的配置限制；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;3. 系统特色&lt;br /&gt;3.1. 数据安全&lt;br /&gt;MyData 尊重业务系统本身对数据的处理逻辑，通过 API 传输数据 可复用业务上对数据出和入的要求限制；&lt;br /&gt;参与对接的业务系统无需开放数据库，从源头断绝数据泄露的风险；&lt;br /&gt;&lt;br /&gt;3.2.简化结构&lt;br /&gt;MyData 扮演数据中心的角色，与所有应用都是一对一的关系，因此应用只需与 MyData 对接 无需与其他应用对接；&lt;br /&gt;&lt;br /&gt;3.3.零侵入&lt;br /&gt;采用 Web API 传输数据，无需任何 SDK ；&lt;br /&gt;随着前后端分离的成熟，应用已有可用的 API 作为数据传输的通道，简化对接工作；&lt;br /&gt;即使已有的接口不合适 开发新 API 也不存在技术问题；&lt;br /&gt;&lt;br /&gt;3.4.可控性高&lt;br /&gt;MyData 提供界面可配置的调度任务，系统会按指定间隔调用 API 传输数据；&lt;br /&gt;让接口的调用可控且有迹可循，避免了应用对外公开 API 但无法管控第三方调用的情况；&lt;br /&gt;&lt;br /&gt;3.5.复用性高&lt;br /&gt;通过 API 集成 可减少业务变化、应用迁移或技术升级等情况造成的影响；&lt;br /&gt;MyData 提供环境管理，可配置环境的访问前缀地址，通过修改或新建环境可快速调整 API 的访问地址；&lt;br /&gt;而业务变化和技术升级 都是 API 内部的变化，只要确保 API 能够正常调用和返回正确的数据即可；&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;4. 项目资料&lt;br /&gt;前端源码： &lt;a href="https://gitee.com/LIEN321/mydata-sword" rel="nofollow noopener" target="_blank"&gt;https://gitee.com/LIEN321/mydata-sword&lt;/a&gt;&lt;br /&gt;后端源码：&lt;br /&gt;  微服务版 &lt;a href="https://gitee.com/LIEN321/mydata-blade" rel="nofollow noopener" target="_blank"&gt;https://gitee.com/LIEN321/mydata-blade&lt;/a&gt;&lt;br /&gt;  单体版： &lt;a href="https://gitee.com/LIEN321/mydata-blade/tree/boot/" rel="nofollow noopener" target="_blank"&gt;https://gitee.com/LIEN321/mydata-blade/tree/boot/&lt;/a&gt;&lt;br /&gt;DEMO:     http://demo.mydata.work&lt;br /&gt;文档：    http://www.mydata.work/docs#/./v1</description><pubDate>Mon, 11 Dec 2023 14:39:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999527#reply0</guid></item><item><title>[程序员] 求一个 dler 的折扣码</title><link>https://www.v2ex.com/t/999524#reply13</link><description>&lt;p&gt;求一个 dler 的折扣码，谢谢大家~&lt;/p&gt;
-&lt;p&gt;mail base64
-dmljbzI0ODI2QGdtYWlsLmNvbQo=&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 14:30:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999524#reply13</guid></item><item><title>[MacBook Pro] M1 Pro 哪个系统 续航最久？ 分享下各位大佬的 系统版本和续航时间？</title><link>https://www.v2ex.com/t/999523#reply0</link><description>M1 Pro  哪个系统 续航最久？ 分享下各位大佬的 系统版本和续航时间？</description><pubDate>Mon, 11 Dec 2023 14:30:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999523#reply0</guid></item><item><title>[Android] 为什么 Android 插 USB 仅充电要实现一个空的 MTP 设备</title><link>https://www.v2ex.com/t/999520#reply0</link><description>&lt;p&gt;从安全的角度讲，直接禁用掉整个 USB slave system ，禁止任何数据传输不是更安全吗？&lt;/p&gt;</description><pubDate>Mon, 11 Dec 2023 14:16:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999520#reply0</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Dec 2023 05:12:07 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 大佬们，请推荐几本，成长类，开悟类的书</title><link>https://www.v2ex.com/t/999664#reply0</link><description></description><pubDate>Tue, 12 Dec 2023 05:11:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999664#reply0</guid></item><item><title>[问与答] 一台手机里的 APP 进行微信登录，用另一台手机已登录的微信进行授权</title><link>https://www.v2ex.com/t/999663#reply0</link><description>&lt;p&gt;如何实现&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 05:10:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999663#reply0</guid></item><item><title>[奇思妙想] 想做一款符合中文网络用语习惯的 AI 聊天类产品，通过微调可以实现吗？</title><link>https://www.v2ex.com/t/999662#reply0</link><description>通过浏览一些 AI 社区我发现当前阶段的 AI 对话存在这样一个痛点：AI 的回复过于套路化、假客气、罗里吧嗦，有很强的机械感。&lt;br /&gt;&lt;br /&gt;英文语境下已经有 Pi 和 Grok 这类的主打情商的产品解决这个问题，但是英语的社交风格显然还是不适合中文语境。&lt;br /&gt;&lt;br /&gt;通过观察我发现简中网民语言风格可以大致分为几类，基本上是趋同的。&lt;br /&gt;&lt;br /&gt;如果要做一款像真人一样聊天对话的 AI 产品，应该怎么去实现呢？微调可以做到吗？如果你是用户，你会为这么个陪你聊天，能够给你带来情绪价值的 AI 付费吗？</description><pubDate>Tue, 12 Dec 2023 05:00:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999662#reply0</guid></item><item><title>[问与答] 如何注册 Google vioce？</title><link>https://www.v2ex.com/t/999661#reply0</link><description>&lt;p&gt;请问如何注册 Google vioce 呢？&lt;/p&gt;
+&lt;p&gt;是不是在 sms-activate 接一个验证码就好啦？
+怕买了后接码踩坑。求佬们给下注意点或者好用的教程&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 04:59:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999661#reply0</guid></item><item><title>[iOS] APP 降级安装，怎么查看哪个版本是支持旧系统的最新版本？</title><link>https://www.v2ex.com/t/999660#reply0</link><description>&lt;p&gt;该 APP 版本比较多，怎么能一步确认哪个是支持自己老机器系统的最近版本？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 04:56:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999660#reply0</guid></item><item><title>[问与答] 有过来的兄弟没, 这样的智齿该拔吗?</title><link>https://www.v2ex.com/t/999658#reply3</link><description>&lt;a href="https://i.imgur.com/jhbmilu.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jhbmilu.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;这可是个大工程啊(长在牙龈内) 好在只有一侧.</description><pubDate>Tue, 12 Dec 2023 04:55:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999658#reply3</guid></item><item><title>[程序员] 误报诈骗网站</title><link>https://www.v2ex.com/t/999657#reply0</link><description>为啥和家亲老是误报，从昨天晚上开始说我这台设备访问诈骗网站但是我并没有今天中午刷视频通知栏又是说我这台设备访问诈骗网站关键是 uRL 是同一个。&lt;br /&gt;有人知道为啥吗？有什么办法停止误报</description><pubDate>Tue, 12 Dec 2023 04:45:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999657#reply0</guid></item><item><title>[Apple] IOS 越狱打开 swap 的可能性</title><link>https://www.v2ex.com/t/999656#reply1</link><description>&lt;p&gt;既然国产毒瘤 app 内存占用高（微信开小程序再切出去内存占用基本 1G+了），应该学习丐版 macbook 经验给 iphone 开 swap ，而且印象里 iphone 的 ssd 也是不差。理论上现代操作系统底层应该也是支持的，不知道越狱后用插件启用 swap 的可能性。
+去 r/jailbreak 搜了一圈，发现近年讨论的帖子很少，可能是国外很少毒瘤 app ？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 04:44:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999656#reply1</guid></item><item><title>[酷工作] [客户端工程师] AIGC 团队招募——小组件开发&amp;web 应用 APP 化丰富经验者优先</title><link>https://www.v2ex.com/t/999654#reply0</link><description>💻客户端工程师 - iOS/Android （ AIGC 产品）&lt;br /&gt;&lt;br /&gt; [主要职责] &lt;br /&gt;1.负责将现有网页应用转化为 iOS/Android 移动应用。&lt;br /&gt;2.开发基于手机系统的小组件，以提升用户触达率和活跃率。&lt;br /&gt;3.负责应用的性能优化、稳定性和可靠性保证。&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1.具备扎实的客户端开发技能和经验(Android 工程师要求熟练使用 JAVA/Kotlin ； iOS 工程师要求精通 Swift 语言），熟悉手机系统小组件的开发。&lt;br /&gt;2.有将网页应用高效转化为移动应用的实践经验者优先。&lt;br /&gt;3.具备良好的学习能力和问题解决能力，对新技术保持敏感，善于查阅和学习新的技术文档，具有良好的沟通和团队合作能力。&lt;br /&gt;&lt;br /&gt; [公司介绍] &lt;br /&gt;产品主打 AI+游戏方向，主要面向北美、日本和韩国市场。公司创始团队成员均来自腾讯、字节跳动、网易等知名互联网公司，拥有丰富的产品和运营经验，曾成功开发并运营百万用户规模的 Z 世代产品，排名 APP 分类榜第二。团队将为你提供高效敏捷的工作环境，沟通效率高，让你专注于技术研发。&lt;br /&gt;&lt;br /&gt;📮投递邮箱：请发送简历到 recruit@solagame.club&lt;br /&gt;PS: &lt;br /&gt;1. 邮件中简述与意向职位的匹配度及相关经验者，通过筛选后将获得更快的反馈&lt;br /&gt;2. 本岗位接受远程全职/兼职合作，也接受短期项目制的合作（短期以完成网页应用封装为 APP ，并完成小组件的开发为节点，欢迎有相关可复用经验的客户端工程师联系我们）</description><pubDate>Tue, 12 Dec 2023 04:44:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999654#reply0</guid></item><item><title>[程序员] 谁有阿里云 17 年或者之前的 oss bucket 吗？</title><link>https://www.v2ex.com/t/999652#reply2</link><description>需要测试个东西 合法合规 &lt;br /&gt;有的话会给你解释用途 借用一小时就 OK&lt;br /&gt;有偿 价格可谈</description><pubDate>Tue, 12 Dec 2023 04:41:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999652#reply2</guid></item><item><title>[程序员] Google Play Console 怎么通过 github action 自动化部署新版本?</title><link>https://www.v2ex.com/t/999650#reply1</link><description>&lt;p&gt;&lt;a href="https://www.v2ex.com/t/999477#reply11" rel="nofollow"&gt;https://www.v2ex.com/t/999477#reply11&lt;/a&gt;
+创建了这个应用, 最近有空闲时间, 更新挺频繁的, 但是 google play console 找不到配置 Api Access 的入口.&lt;/p&gt;
+&lt;p&gt;还请有经验的给个帮助&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/d92MoaO.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Y9oXD3I.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 04:19:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999650#reply1</guid></item><item><title>[Apple] iOS17.2 ， Apple Music 終於有「like song」了。</title><link>https://www.v2ex.com/t/999649#reply0</link><description></description><pubDate>Tue, 12 Dec 2023 04:17:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999649#reply0</guid></item><item><title>[问与答] ublock origin 有没有离线安装的方法</title><link>https://www.v2ex.com/t/999648#reply4</link><description>&lt;p&gt;firefox 能搜索到，但提示不在可用区域&lt;/p&gt;
+&lt;p&gt;请问有没有离线的办法，谢谢&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 04:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999648#reply4</guid></item><item><title>[科技] 淘宝 api 应用申请需要软著，有什么办法能不通过应用使用接口获取店铺订单数据吗？</title><link>https://www.v2ex.com/t/999646#reply0</link><description>&lt;p&gt;第三方付费也可以&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 03:56:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999646#reply0</guid></item><item><title>[Android] 想买一个 e-sim+折叠屏的手机（或者 e-sim 的手机），大家有啥推荐的？</title><link>https://www.v2ex.com/t/999645#reply9</link><description></description><pubDate>Tue, 12 Dec 2023 03:56:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999645#reply9</guid></item><item><title>[问与答] 公司想搞一个关于工业领域的大模型，服务于工厂生产</title><link>https://www.v2ex.com/t/999644#reply0</link><description></description><pubDate>Tue, 12 Dec 2023 03:52:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999644#reply0</guid></item><item><title>[程序员] 你们电视会买电视会员吗？</title><link>https://www.v2ex.com/t/999643#reply16</link><description>&lt;p&gt;你们电视一般买啥会员？直接电视会员还是手机电视会员然后投屏&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 03:47:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999643#reply16</guid></item><item><title>[问与答] 问大家开发中关于数据权限的管理</title><link>https://www.v2ex.com/t/999641#reply0</link><description>&lt;p&gt;在我司开发中，环境分明，有 dev 、test 、prod ，唯独缺少 pre ，这个算是一个问题，但是我今天想问大家的是数据管理问题&lt;/p&gt;
+&lt;p&gt;开发只能在 dev 环境部署和代码调试，无 test 数据库任何账号，我说的是任何，就连只读都不给，说我们开发就不能拥有测试环境的任何账号，有些问题在定位的过程中，是需要去看测试环境的数据的，DBA 说要看数据你去找测试看，在测试的电脑上看...&lt;/p&gt;
+&lt;p&gt;仅仅是一个只读问题，如果说是线上的，你不给只读我也认了，毕竟线上数据重要，不给我看我也理解，测试环境只读都不给算怎么回事？&lt;/p&gt;
+&lt;p&gt;而且只要涉及到数据问题的，就说你要看来我工位上看。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 03:38:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999641#reply0</guid></item><item><title>[VPS] 大伙们是怎么用 AZ100 订阅的？</title><link>https://www.v2ex.com/t/999640#reply0</link><description>&lt;p&gt;我自己手上有 4c4G 的腾讯云轻量，1c1g 的 B1S 感觉使用体验并不怎么好（选东京，VScode Remote 连上去 mkdir 都要转个 5-6s ）
+微软的 TTS 也不错，但估计用不到收费计划
+不考虑机场，手头上的够用
+除此之外，还有什么别的推荐么&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 03:38:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999640#reply0</guid></item><item><title>[程序员] 新工具来了！现在程序员做自己的知识付费，很简单！</title><link>https://www.v2ex.com/t/999639#reply13</link><description>&lt;p&gt;我的天！！！&lt;/p&gt;
+&lt;p&gt;给大家分享一个程序员做知识付费的最新方法，打破的的认知了。&lt;/p&gt;
+&lt;p&gt;这件事起因是我看到某一个网站卖盗版课程，偶然发现的。&lt;/p&gt;
+&lt;p&gt;具体网站名称这里不好细说，他这个网站的流量非常高，一个 VIP 卖 5 百米。&lt;/p&gt;
+&lt;p&gt;重要的是，500 差不多是纯利润了，这才是牛批的。&lt;/p&gt;
+&lt;p&gt;再看下面内容之前，先给大家说一点，作者别人不建议去做盗版内容！&lt;/p&gt;
+&lt;p&gt;这一期分享是分享思路和工具而已，实操性很强。&lt;/p&gt;
+&lt;p&gt;以前我们想搞课程，比如自己录一个课去上架。&lt;/p&gt;
+&lt;p&gt;那么需要对接上课平台。&lt;/p&gt;
+&lt;p&gt;比如常见的：小鹅通、慕课网、网易云等等。&lt;/p&gt;
+&lt;p&gt;可是这些平台优缺点如下：&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;这些问题，没有办法百分之百解决，但是通过下面的方法可以解决百分之 80%。&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;我们做一门视频课程出售大概会遇到这些问题。&lt;/p&gt;
+&lt;p&gt;我们做好的视频要存储在哪里？&lt;/p&gt;
+&lt;p&gt;第一种，搭建第三方存储平台，宽带费用是昂贵的。&lt;/p&gt;
+&lt;p&gt;特别是访客多的时候，费用不菲。&lt;/p&gt;
+&lt;p&gt;但是对于我们新手玩家，这个钱负担太重了 ，不推荐！&lt;/p&gt;
+&lt;p&gt;第二种，直接丢百度云，容易被盗版，百度云分享太方便了，对我们不利。&lt;/p&gt;
+&lt;p&gt;也容易被和谐掉一些资源。&lt;/p&gt;
+&lt;p&gt;有点就是几乎不花钱，存储费用为 0.&lt;/p&gt;
+&lt;p&gt;第三种，用小鹅通这些工具的话，一年大几千，对新手玩家也不太友好，哈哈。&lt;/p&gt;
+&lt;p&gt;三种方案都不行，不过先不用灰心，方法总比困难多！&lt;/p&gt;
+&lt;p&gt;为了给大家想办法，不得不殚精竭虑~&lt;/p&gt;
+&lt;p&gt;除了视频的存储成本问题，还需要考虑一个问题，就是支付问题。&lt;/p&gt;
+&lt;p&gt;用户如果能购买我们的视频，钱直接入我们的口袋就好了。&lt;/p&gt;
+&lt;p&gt;比如面包多这些平台，钱是需要扣押一段时间的（比如 7 天）。&lt;/p&gt;
+&lt;p&gt;哎，太难了！&lt;/p&gt;
+&lt;p&gt;视频存储问题、视频盗版问题、支付问题等等。&lt;/p&gt;
+&lt;p&gt;这就是我对程序员做知识付费非常不看好的原因，一个冷启动都可能让我们白白浪费太多精力。&lt;/p&gt;
+&lt;p&gt;之前想录课的想法也是一再搁置...&lt;/p&gt;
+&lt;p&gt;但是，最近我终于找到了突破口！&lt;/p&gt;
+&lt;p&gt;给大家分享一下别人的玩法：&lt;/p&gt;
+&lt;p&gt;视频使用特定的播放器加密，这种播放器是现成的，需要付费使用。&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;价格是几百块就 ok,非常适合我们这种小白玩家。&lt;/p&gt;
+&lt;p&gt;我们只需要把视频用这种特点播放器加密，就可以提高盗版的难度了。&lt;/p&gt;
+&lt;p&gt;盗版问题解决了（没必要去百分之百解决，提高破解难度对我们来说就够够了）。&lt;/p&gt;
+&lt;p&gt;存储问题现在就好说了，因为视频是加密的，我们可以直接存储到百度云上面。&lt;/p&gt;
+&lt;p&gt;就算被恶意分享，也没办法看到内容。&lt;/p&gt;
+&lt;p&gt;需要用特定播放器，结合我们给用户的授权码才可以正常播放。&lt;/p&gt;
+&lt;p&gt;这样子，我们的存储问题也解决了，用百度云，成本非常低。&lt;/p&gt;
+&lt;p&gt;所以我们完全可以做一个视频网站，把资源放上去，毕竟视频成本是大头，转接给百度云了！&lt;/p&gt;
+&lt;p&gt;关于其他问题，比如营销包装等等，都可以免费看我之前的分享，哈哈。&lt;/p&gt;
+&lt;p&gt;如果大家想具体了解这个加密工具，可以找我，给大家分享。&lt;/p&gt;
+&lt;p&gt;这里就不直接说了，避免被别人说打广告。&lt;/p&gt;
+&lt;p&gt;感谢大家观看！&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 03:37:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999639#reply13</guid></item></channel></rss>
