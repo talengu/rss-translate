@@ -1,74 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Dec 2023 20:33:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[信息安全] UTG-Q-003：微软应用商店 7ZIP 供应链投毒事件始末</title><link>https://www.v2ex.com/t/999871#reply0</link><description>&lt;a href="https://ti.qianxin.com/blog/articles/%20UTG-Q-003-The-Incident-of-Poisoning-the-Supply-Chain-of-7ZIP-on-the-Microsoft-App-Store-EN/" rel="nofollow noopener" target="_blank"&gt;https://ti.qianxin.com/blog/articles/%20UTG-Q-003-The-Incident-of-Poisoning-the-Supply-Chain-of-7ZIP-on-the-Microsoft-App-Store-EN/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://ti.qianxin.com/blog/articles/UTG-Q-003-Supply-Chain-Poisoning-of-7ZIP-on-the-Microsoft-App-Store-EN/" rel="nofollow noopener" target="_blank"&gt;https://ti.qianxin.com/blog/articles/UTG-Q-003-Supply-Chain-Poisoning-of-7ZIP-on-the-Microsoft-App-Store-EN/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://zhuanlan.zhihu.com/p/671814929" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/671814929&lt;/a&gt;&lt;br /&gt;&lt;a href="https://mp.weixin.qq.com/s/t_3tPC9xObrWHm0PYf0Cxw" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/t_3tPC9xObrWHm0PYf0Cxw&lt;/a&gt;</description><pubDate>Tue, 12 Dec 2023 19:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999871#reply0</guid></item><item><title>[Apple] iOS 17.3 开发测试来了</title><link>https://www.v2ex.com/t/999870#reply0</link><description>不得不佩服苹果的更新速度… （总不能让开发人员闲出屁吧… 哈哈哈哈😄</description><pubDate>Tue, 12 Dec 2023 19:14:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999870#reply0</guid></item><item><title>[NAS] 现在都没 1T 的机械硬盘卖了吗？求推荐硬盘</title><link>https://www.v2ex.com/t/999868#reply2</link><description>西数希捷官方店只有普通的 1T 机械硬盘，监控 NAS 的都没有 1T 版本的，淘宝上水又太深，我组 raid 用，数据量少所以 1T2T 够用，希望各位可以给点意见</description><pubDate>Tue, 12 Dec 2023 18:20:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999868#reply2</guid></item><item><title>[Apple] GPT4.0 有没有感兴趣的兄弟拼车，自用</title><link>https://www.v2ex.com/t/999866#reply0</link><description>&lt;p&gt;Chatgpt 4.0 自用拼车，有没有兄弟想上车的，不是那种 10 人的大拼车
-今天 4.0 开放购买了，打算拼个车，长期自用，目前只有我和朋友一起拼，想看看有没有兄弟感兴趣
-感兴趣的可以详聊
-只有一车，为了保证每个人的方便使用和需求，目测 4-5 人就发车了&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 17:44:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999866#reply0</guid></item><item><title>[ WATCH] Watch OS 10.2 终于把噩梦般的结束体能训练二次确认取消了</title><link>https://www.v2ex.com/t/999865#reply0</link><description>我以前真的觉得说用户体验落到交互细节上有点小题大做，经过这段时间痛苦的经历我再也没有这种想法了，一个小小的改动 TMD 居然能带来用户体验断崖式的下降</description><pubDate>Tue, 12 Dec 2023 17:22:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999865#reply0</guid></item><item><title>[问与答] 最近刚开始接触 uniapp 有点疑问想麻烦问一下</title><link>https://www.v2ex.com/t/999864#reply3</link><description>uniapp 除了 uniapp 自己的 ui 库一般开发用的啥呀，兼容 h5/微信小程序/app ， 包括一些第三方的轮子，我比如搜 element 好像 npm 方式引入很多 dom 操作不支持微信，找了下 vant-weapp 但是在搜 uniapp 怎么引入的时候，很多评论说有很多坑/兼容性问题。。。之前 swiper 引入也是引入 js 版本的很多问题去 uniappcloud 商店去下了一个 swiper 发现不兼容 VUE3 的 setup 最后用的是官方文档的 swiper...所以想麻烦问一下 ui 或者框架这些一般引入什么版本，之前都是用 vue-cli 直接开发= =直接 npm 装。。</description><pubDate>Tue, 12 Dec 2023 17:05:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999864#reply3</guid></item><item><title>[问与答] 有大佬知道如何恢复地址栏的挂锁图标吗</title><link>https://www.v2ex.com/t/999863#reply0</link><description>&lt;p&gt;&lt;a href="https://i.mij.rip/2023/12/13/720b59b2e2805ef0066f07db153c6631.png" rel="nofollow"&gt;https://i.mij.rip/2023/12/13/720b59b2e2805ef0066f07db153c6631.png&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前用的是 Brave Chrome 也是这样，还有办法改成原来的锁图标吗，这个图标是真难看&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:56:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999863#reply0</guid></item><item><title>[程序员] 轻量博客程序，除了纯静态的，有什么值得推荐的？</title><link>https://www.v2ex.com/t/999860#reply3</link><description>&lt;p&gt;之前只用 wordpress,现在 Vps 里又了几个别的站，还用 wp 就太臃肿了，想找个占用内存和 CPU 少的轻量博客程序。&lt;/p&gt;
-&lt;p&gt;轻量博客程序，除了纯静态的，有什么值得推荐的吗？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:41:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999860#reply3</guid></item><item><title>[宽带症候群] 山东联通 er-x 上如何设置这几个参数</title><link>https://www.v2ex.com/t/999859#reply4</link><description>&lt;p&gt;ipv6:prefix-length 56
-mtu 1492
-mss 1412
-这样对么？&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 16:32:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999859#reply4</guid></item><item><title>[问与答] [不懂就问] 为什么 PC 登录 IQOO 自带互传网页版，手机仅开数据流量，却可以将手机照片保存到 PC？下载速度很慢，这是什么机制？若是网盘，那手机仅开数据，为什么下载到 pc 会很慢？</title><link>https://www.v2ex.com/t/999858#reply3</link><description>我非计算机专业，我小白&lt;br /&gt;&lt;br /&gt;最近家人在外开会，用 IQOO 手机拍了一些照片想传到家里的电脑。我教他使用 IQOO 手机自带的互传的网页版进行文件传输，昨天一切正常。但今天突然传输速度变得很慢。我发现家人的手机没有连接 Wi-Fi ，而是使用移动数据流量。我对此感到很奇怪，不明白为什么明明没有连接家里的 Wi-Fi ，仅使用移动数据流量的情况下，可以通过家用电脑登录互传网页版将手机文件传输到电脑。如果是 PC 网页登录网盘的机制，那么为什么在 IQOO 仅使用数据流量时，PC 下载手机照片会变得很慢。而手机连上 Wi-Fi ，重新登录，重新下载就变快了。&lt;br /&gt;&lt;br /&gt;总不会是 手机照片 -&amp;gt; IQOO 数据流量 -&amp;gt; vivo 云 -&amp;gt; 家庭宽带 -&amp;gt; 家用电脑&lt;br /&gt;&lt;br /&gt;因为手机只开了数据流量，整个下载速度就只有手机数据流量的速度了？&lt;br /&gt;&lt;br /&gt;操作过程：&lt;br /&gt;1. 打开 IQOO 手机自带的互传应用，并选择文件传送功能，点击底部的网页版选项。&lt;br /&gt;2. 在电脑上打开 Chrome 浏览器，访问提供的手机互传网页版链接（可以是带有域名的链接，也可以是纯 IP 地址）。&lt;br /&gt;3. 在互传登录页面找到二维码，点击 IQOO 互传网页版下方的"扫一扫"按钮，使用手机扫描二维码，成功登录进入互传系统。&lt;br /&gt;4. 使用鼠标框选或按住 Shift 键选择要下载的存储在手机上的图片，然后点击上方的"保存到电脑"按钮，立即开始下载，文件是只有一个打包好的.zip 文件形式。&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;为什么手机只使用移动数据联网，没有连接家里的 Wi-Fi ，却可以通过上述操作使家里的电脑下载手机上的照片？如果这是通过云盘实现的，那么家里的电脑使用宽带登录云盘应该不会出现下载速度很慢的情况。实际上，当手机连接家里的 Wi-Fi 并重新登录互传系统时，可以迅速下载照片文件。问题是，为什么手机仅使用移动数据连接时，家里的电脑可以访问互传系统并下载手机的文件，且下载速度很慢，让我以为是通过手机的移动数据进行传输。</description><pubDate>Tue, 12 Dec 2023 16:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999858#reply3</guid></item><item><title>[Python] Python 开发招聘</title><link>https://www.v2ex.com/t/999857#reply1</link><description>&lt;p&gt;Base 无锡&lt;/p&gt;
-&lt;p&gt;职位描述：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;使用 Python 对量化交易系统中各个组件进行开发以及维护&lt;/li&gt;
-&lt;li&gt;使用 Python 对数据进行分析和统计，并按时完成，交付结果。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;职位要求：
-一年项目开发经历：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;熟练掌握 Python 语言开发&lt;/li&gt;
-&lt;li&gt;能熟练使用常见的的 Python 科学计算相关库，例如 pandas ，numpy ，Matplotlib ，Plotly 等&lt;/li&gt;
-&lt;li&gt;熟悉 linux 操作系统下开发，能运用常见工具定位调试问题代码；&lt;/li&gt;
-&lt;li&gt;具备良好的编程习惯，编程思路清晰&lt;/li&gt;
-&lt;li&gt;诚实善良，积极开朗，善于沟通，善于学习，能独立思考&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;团队有浓厚的技术氛围、广阔的发展空间，欢迎投递简历到 &lt;a href="mailto:zckuna@163.com"&gt;zckuna@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:59:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999857#reply1</guid></item><item><title>[Android] 下一部买什么？ iPhone 还是 一加 or 其他，比如 vivo？</title><link>https://www.v2ex.com/t/999856#reply15</link><description>&lt;p&gt;手上的华子 p50 pro ，256g ，app 装太多，一个也割舍不掉，想着换了。&lt;/p&gt;
-&lt;p&gt;我很纠结一加几个点&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;一加很重 220g&lt;/li&gt;
-&lt;li&gt;一加刚出，后面应该会有一波小跳水&lt;/li&gt;
-&lt;li&gt;一加用的 color OS ，好像口碑不如 vivo&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我很纠结 iPhone 的几个点，手上是 mac ，可以联动&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;NFC 、红外遥控无&lt;/li&gt;
-&lt;li&gt;右边返回&lt;/li&gt;
-&lt;li&gt;小窗模式&lt;/li&gt;
-&lt;li&gt;充电慢&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;家人们，纠结星人不行了，遭老罪了，要不选 option3：华子战 3 年&lt;/p&gt;
-&lt;p&gt;闲鱼下家都找好了，就差临门一脚。要不要买呢？家人们，家人们，给点深刻的见解，救老命了！&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:59:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999856#reply15</guid></item><item><title>[奇思妙想] 如果有一天没有网络信号了怎么办？</title><link>https://www.v2ex.com/t/999854#reply5</link><description>&lt;p&gt;如果，我是说如果，某一天发生了重大事故，比如战乱，导致整个地区，国家都没有了网络信号📶，会发生什么&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:43:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999854#reply5</guid></item><item><title>[程序员] 学习新东西总是遗忘怎么办呢？面试时候又耗费大量时间准备</title><link>https://www.v2ex.com/t/999853#reply2</link><description>&lt;p&gt;自己属于非科班出身，从 20 年 6 月大二开始陆续学习 java 和 spring 家族再到实习时候的 PHP 到现在的 go 以及热门的几个后端技术栈。因为知道自己的基础薄弱，一直想系统的学习，但是似乎一直在学习，回过头看却又没学到多少东西。&lt;/p&gt;
-&lt;p&gt;几次面试准备期间感受最深的是自己对于简历上写的技术栈似乎都有模模糊糊的印象，但是翻看网上的面经，却不知道该如何回答（只能惊叹别人为什么什么问题都可以回答出来一二，了解的深度和广度令我佩服和羡慕不已），而自己过去所学习的知识都已经遗忘（其实是面试考察的那些各种细节遗忘了，工作中还是用的少）。&lt;/p&gt;
-&lt;p&gt;虽然自己喜欢在学习的时候做笔记总结，但做着做着发现自己在抄书，学习时候确实觉得自己理解了 what 、why 、how ，做的笔记似乎也挺完善的（自己有这种心理：做笔记是一种总结性的，同样的东西看不同的书和博客都会有不同的收获，所以希望通过记录来完善自己的笔记）。但是以后翻看的时候还是要把书翻出来结合上下文看（上下文丰富）。
-尤其是在面试准备期间，每次都耗费自己大量时间，就举例 go mysql redis kafka MongoDB 计算机基础 算法等，今年上半年年初还准备过一次，但是今天再看还是得重头继续准备（很多细节都遗忘了），简历上每个技术栈都看一遍真的好耗费大量时间（主要是项目中用到的那些技术栈）。&lt;/p&gt;
-&lt;p&gt;所以想请教一下大家平时学习时候怎么学习，大概怎么做笔记呢？
-翻看相关帖子，常见回答是 要理解记忆，记不住说明没有理解等回答，但是我自己确实在学习时候认为自己理解了背后的设计原因和思想。&lt;/p&gt;
-&lt;p&gt;目前失业期间想边面试边学习 linux 相关的，目前买了《 linux 内核设计与实现》和《 unix 操作系统设计》在缓慢的读，大佬们能否就这个提出一些建议，或者说一说自己的学习经验呢？推广到各类技术的学习就更好了。挺想知道大佬们大概是怎么学习的，提前感谢大伙。&lt;/p&gt;
-&lt;p&gt;还有一个问题，大家是怎么准备面试的？似乎有些大佬可以不怎么准备就直接面试了，而且各种问题似乎都回答的很不错，不管是细节还是技术广度上都能流畅的完成面试，挺好奇怎么做到的，是平时积累吗？还是看一遍（真理解了）就可以记住很久，足够面试了呢？&lt;/p&gt;
-&lt;p&gt;我现在都有些怀疑自己的记忆力是不是太差了以至于记不住这些，还是说我的方法有问题。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:42:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999853#reply2</guid></item><item><title>[问与答] 请教下 minio 集群，上传 100G 左右的小文件后，感觉速度有些慢</title><link>https://www.v2ex.com/t/999852#reply0</link><description>&lt;p&gt;比如 mc ls  xxxx/full/201202/  -r 可能会卡住需要半分钟的时间&lt;/p&gt;
-&lt;p&gt;然后执行&lt;br /&gt;
-mc admin trace -a  sf&lt;/p&gt;
-&lt;p&gt;有大量日志刷新 内容如下：&lt;/p&gt;
-&lt;p&gt;2023-12-12T23:34:30.694 [SCANNER] scanner.ScanFolder minio:9000 /data4 xxxx/full/full/20220911/8991b39bc48df9814bf0bca3c515794c3bff6e52.jpg 3.737023ms
-2023-12-12T23:34:30.700 [OS] os.OpenFileR minio:9000 /data4/xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg 66.285µs
-2023-12-12T23:34:30.700 [OS] os.OpenFileR minio:9000 /data4/xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg/xl.meta 26.689µs
-2023-12-12T23:34:30.700 [SCANNER] scanner.ScanObject minio:9000 /data4 xxxx/full/full/20220911/a60dde51fa81cb1fdc934d0458630d20cdfbca38.jpg/xl.meta 7.482286ms&lt;/p&gt;
-&lt;p&gt;感觉是 minio 在后台异步处理一些任务，若是这样的话，怎么能看到这些任务完成情况&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:41:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999852#reply0</guid></item><item><title>[问与答] 搞不定了，请教个 flutter 问题</title><link>https://www.v2ex.com/t/999851#reply1</link><description>&lt;p&gt;&lt;a href="https://stackoverflow.com/questions/77641032/cannot-get-widgets-property-in-build-function/77641427#77641427" rel="nofollow"&gt;https://stackoverflow.com/questions/77641032/cannot-get-widgets-property-in-build-function/77641427#77641427&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;问题：
-列表里每一行是个 record, 有个属性 paths 包含里多个图片名字。
-点击 record 进入详情页，要展示图片。&lt;/p&gt;
-&lt;p&gt;详情页是 Parent Widget ，展示图片的是 Child Widget 。我在 Parent 的 initState 里处理下图片，因为要拼接全部路径，需要调用 await 方法。处理完后执行 Child 里的 setPaths 方法。然后 Child 的 _state 的 build 方法使用 widget.paths 展示图片。&lt;/p&gt;
-&lt;p&gt;现在的问题是：由于有个 await 方法，Child 的 build 方法执行总要先于 Parent 的 setPaths ，而且 setPaths 后也不会重新 build 。&lt;/p&gt;
-&lt;p&gt;这个做完准备先发一版，结果卡这两天了。。。&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:40:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999851#reply1</guid></item><item><title>[程序员] vmware“已死”</title><link>https://www.v2ex.com/t/999850#reply0</link><description>博通现取消 vmware 的本地永久许可证，准备通过停止向 vmware 客户销售支持和订阅（ SnS ）续订。用户只能采用订阅模式。&lt;br /&gt;“已死”加引号，勿引战。&lt;br /&gt;&lt;br /&gt;原文： &lt;a href="https://news.vmware.com/company/vmware-by-broadcom-business-transformation" rel="nofollow noopener" target="_blank"&gt;https://news.vmware.com/company/vmware-by-broadcom-business-transformation&lt;/a&gt;</description><pubDate>Tue, 12 Dec 2023 15:35:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999850#reply0</guid></item><item><title>[macOS] 有没有人 macos 的设置页面非常卡？</title><link>https://www.v2ex.com/t/999849#reply4</link><description>&lt;p&gt;系统：14.2 （之前版本也一样）
-手上一台 m1 8+256 的 macbook 设置页面奇卡无比，尤其是 wifi 页面，直接无法点击。
-另一台 m1 pro 32+512 好点，但也挺卡&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:35:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999849#reply4</guid></item><item><title>[酷工作] 头部 VC 经纬创投 招聘 AI 投资人</title><link>https://www.v2ex.com/t/999848#reply1</link><description>&lt;p&gt;[经纬创投——招聘 AI 投资人] ：
-寻找有海外/国内头部 AI 团队 AI infra 、application 、toolchain 等产品/研发/BD/AI Solution architect/算法等相关背景，有兴趣有意愿转投资方向的同学&lt;/p&gt;
-&lt;p&gt;Base 北上&lt;/p&gt;
-&lt;p&gt;要求：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 13 Dec 2023 07:45:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 追寻星期五的自由之旅： isfriday.today</title><link>https://www.v2ex.com/t/1000053#reply0</link><description>&lt;p&gt;在这个喧嚣而忙碌的世界里，时间似乎是我们生活中最珍贵的资源之一。而当我们追寻自由，寻找生活中的片刻宁静时，星期五就像一座远方的灯塔，为我们指引着前行的方向。&lt;/p&gt;
+&lt;p&gt;人们应该追求自由。星期五，作为一周的尾声，不仅仅是一个日历上的标记，更是一个生活中的心灵仪式。这一天，我们能够远离琐碎的任务，迎接周末的降临，拥抱我们内在的自由精神。&lt;/p&gt;
+&lt;h3&gt;&lt;a href="https://isfriday.today" rel="nofollow" title="is friday today?"&gt;点击访问&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://isfriday.today" rel="nofollow" title="is friday today?"&gt;isfriday.today&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="is friday today" class="embedded_image" rel="noreferrer" src="https://www.freeimg.cn/i/2023/12/13/65796068b5318.jpg" title="is friday today" /&gt;</description><pubDate>Wed, 13 Dec 2023 07:43:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000053#reply0</guid></item><item><title>[信息安全] 家里亲戚下载电子发票点了病毒，差点被诈骗</title><link>https://www.v2ex.com/t/1000052#reply0</link><description>&lt;p&gt;和 &lt;a href="https://www.v2ex.com/t/995527" rel="nofollow"&gt;https://www.v2ex.com/t/995527&lt;/a&gt; 有点类似，不过这次他下载的是一个 exe 文件，模仿的是诺诺网开发票的邮件，&lt;/p&gt;
+&lt;p&gt;具体文件链接如下： &lt;a href="http://mail.seily.com:81/download/attachment/NVHYtN2bu9Ncpk2N/KFXK2Z-KcsMK/PDF.exe" rel="nofollow"&gt;http://mail.seily.com:81/download/attachment/NVHYtN2bu9Ncpk2N/KFXK2Z-KcsMK/PDF.exe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;运行了以后啥都没有，结果发现微信给同事发了个信息，要求立刻转账 10 万到一个国内账户。
+还好他同事警惕性高，没转。事后发现应该是电脑微信没关的原因。现在在让他重装系统，备份文件，能删的都删掉。&lt;/p&gt;
+&lt;p&gt;扔到腾讯哈勃和 virustotal 了，自己不是搞安全的，也分析不出啥来，大家有兴趣可以看看&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://habo.qq.com/file/showdetail?md5=b113ebd478ec745c473bce16fa0b92a8#file" rel="nofollow"&gt;https://habo.qq.com/file/showdetail?md5=b113ebd478ec745c473bce16fa0b92a8#file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.virustotal.com/gui/file/5315b11db30d5f5a00559d1187757fb76eb5a51004e3a3bfadb7674e887bcc8a/behavior" rel="nofollow"&gt;https://www.virustotal.com/gui/file/5315b11db30d5f5a00559d1187757fb76eb5a51004e3a3bfadb7674e887bcc8a/behavior&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:39:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000052#reply0</guid></item><item><title>[问与答] 为什么我的 gpt4plus 没续费到期了，咋还能用？</title><link>https://www.v2ex.com/t/1000051#reply0</link><description>&lt;p&gt;她把我忘了？&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:39:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000051#reply0</guid></item><item><title>[求职] 三年开发经验求职</title><link>https://www.v2ex.com/t/1000049#reply0</link><description>&lt;p&gt;寒冬里面找个班上, 写在前面,今年可真冷啊.&lt;/p&gt;
+&lt;p&gt;三年开发 C++/C 开发经验,24 岁, 待过的公司都是在所处的赛道 top 行列, 今年六月份因为外企撤资裁员了,学历普通公办本科.&lt;/p&gt;
+&lt;p&gt;Q : 能力怎么样
+ans : 待过的三家公司里面绩效都不低,今年有因为绩效涨薪,和领导关系也处理的很好,python,shell,这些语言写脚本没问题, C++/C 主流工作语言, 熟悉, 数据结构算法, medium 水准吧.&lt;/p&gt;
+&lt;p&gt;Q : 为什么换工作这么频繁
+ans : 第一家纯纯脑残, 信了第二家的鬼话 第二家 996,随时 oncall 确实有点顶. 第三家本来抱着稳定长期发展去的,但是没想到外企撤资会轮到我头上,我有罪.&lt;/p&gt;
+&lt;p&gt;Q : 怎么去的外企?
+ans : 侥幸.&lt;/p&gt;
+&lt;p&gt;Q : 为什么裁我
+ans : 老板是个很传统的人,老人没动,裁的都是年轻人&lt;/p&gt;
+&lt;p&gt;Q : 为什么 gap 半年
+ans : 因为拿到几个 offer,感觉都不太好,脑子有点抽,不信邪,考了个公务员,今年公务员可太卷了吧.&lt;/p&gt;
+&lt;p&gt;Q : 后悔吗
+ans : 非常后悔,劝大家一定要给自己留条后路,不要吧路走绝.&lt;/p&gt;
+&lt;p&gt;期望工作: 稳定一点,希望能长期发展的那种.&lt;/p&gt;
+&lt;p&gt;写在后面:&lt;/p&gt;
+&lt;p&gt;我有 gap 时间,有请各位 hr 手下留情,不要面到最后因为 gap 时间不给 offer 的,(不想经历第二次了,小声 bb)&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000049#reply0</guid></item><item><title>[iCloud] icloud 2T 空间家庭组，求成员！</title><link>https://www.v2ex.com/t/1000048#reply0</link><description>&lt;p&gt;icloud 2T 空间家庭组，求成员！&lt;/p&gt;
+&lt;p&gt;美区/国区都能加， 拉 2 个伙伴拼单，每人 500G 空间&lt;/p&gt;
+&lt;p&gt;绿信：+14242436540&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:35:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000048#reply0</guid></item><item><title>[深圳] 深圳一号线周边的一室一厅一厨一卫有推荐的小区吗</title><link>https://www.v2ex.com/t/1000047#reply0</link><description>&lt;p&gt;最好就是在 1 号线周边，工作地点在华强路，通勤时间不要超过半小时&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:30:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000047#reply0</guid></item><item><title>[PlayStation 5] PlayStation 2023 年回顾报告</title><link>https://www.v2ex.com/t/1000046#reply0</link><description>&lt;p&gt;&lt;a href="https://wrapup.playstation.com/en-gb/login" rel="nofollow"&gt;PlayStation 2023 年回顾报告&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hours" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/zhen-ke/img@main/hours.5zmtj84hfic0.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="top-game" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/zhen-ke/img@main/top-game.6j3oqkp8an00.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:27:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000046#reply0</guid></item><item><title>[iPhone] 升级 IOS17.2 后 WIFI 信号崩了？</title><link>https://www.v2ex.com/t/1000044#reply0</link><description>&lt;p&gt;公司同样位置，电脑测速 200M ，ip15PM 17.1 测速和电脑基本相同，升到 17.2 以后只能跑到 8M-10M 了~
+目前还在公司，不确定是否一定是手机问题，晚上回家再测一下
+PS：重启切换 WIFI 均无效，存了好多的 WIFI 密码真不想还原网络设置。&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:24:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000044#reply0</guid></item><item><title>[程序员] 感觉 Chrome 越来越丑，新版本菜单选项间距也隔得好远</title><link>https://www.v2ex.com/t/1000041#reply3</link><description>&lt;p&gt;自动更新到 120 版本，1080p 体验下降好多，4k 体验可能不错&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000041#reply3</guid></item><item><title>[数据库] 有没有大神知道这个描述是哪款国产数据库</title><link>https://www.v2ex.com/t/1000039#reply7</link><description>不知道傻逼销售从哪弄来一个招标文件让写标书，数据库这一项给我看懵逼了，前几条像是人大金仓，后几条像是达梦，问了这两家的售前都说不是他们家的产品。&lt;br /&gt;有没有大神知道这是哪款国产数据库的指标。&lt;br /&gt;&lt;br /&gt;具备数据存储、访问控制、身份鉴别和数据备份提供 1 年免费升级恢复等功能。&lt;br /&gt;管理员及用户可通过图形化或命令服务，7x24 小时电行工具实现对数据库对象的管理&lt;br /&gt;开发人员可通过标准化接口开发基于数据库的应用和软件。&lt;br /&gt;支持用户代理身份认证&lt;br /&gt;异步备库延时和定点重演超长大字段&lt;br /&gt;DBLINK 连接到网关等新特性&lt;br /&gt;完善新增部分空间函数&lt;br /&gt;Oracle 兼容特性等功能&lt;br /&gt;可提供共享存储集群主备部署&lt;br /&gt;按服务名配置负载均衡策略等解决方案</description><pubDate>Wed, 13 Dec 2023 07:11:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000039#reply7</guid></item><item><title>[程序员] 三线城市选择国企还是私企</title><link>https://www.v2ex.com/t/1000038#reply8</link><description>程序员，后端。&lt;br /&gt;在一个三线城市，考试进入国企，税前 8000 ，五险一金比例都是按照最高的交，早九晚五。&lt;br /&gt;现有个机会，入职一家私企，税后 12k ，五险一金按照最低的交，早九晚六不加班。&lt;br /&gt;很纠结，目前该城市 it 环境惨不忍睹，选择私企担心私企降薪裁员，选择国企到手又太少。&lt;br /&gt;&lt;br /&gt;各位 v 友，给点意见。</description><pubDate>Wed, 13 Dec 2023 07:10:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000038#reply8</guid></item><item><title>[分享创造] 本地离线工具箱[开源]</title><link>https://www.v2ex.com/t/1000037#reply2</link><description>&lt;p&gt;本地离线工具集合，包含以下功能:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;top 高校计算机/软件等相关专业背景；&lt;/li&gt;
-&lt;li&gt;对国内外 AI 发展保持密切关注和对其广泛的产品和应用见解和判断；&lt;/li&gt;
-&lt;li&gt;有很感兴趣或者有自己看好的投资方向，能拆解梳理投资方向;&lt;/li&gt;
-&lt;li&gt;有能力和较强兴趣挖掘国内外投资标的和优秀创业团队，有敏锐的洞察和商业理解，对转投资有明确的想法和准备；&lt;/li&gt;
+&lt;li&gt;base64 转码/解码:文本转 base64,base64 转文本，图片转 base64 ，base64 转图片&lt;/li&gt;
+&lt;li&gt;格式化:格式化 json/yaml&lt;/li&gt;
+&lt;li&gt;urlEncode/urlDecode&lt;/li&gt;
+&lt;li&gt;摘要算法:计算文本的 md5,sha256 。计算多个文件的 md5,sha256&lt;/li&gt;
+&lt;li&gt;时间戳: 时间戳转时间，时间转时间戳&lt;/li&gt;
+&lt;li&gt;二维码/条形码生成&lt;/li&gt;
+&lt;li&gt;调色板&lt;/li&gt;
+&lt;li&gt;文本对比工具&lt;/li&gt;
+&lt;li&gt;国密算法(SM2,SM3,SM4)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;欢迎推荐+自荐 &lt;a href="mailto:mollysu0820@163.com"&gt;mollysu0820@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Dec 2023 15:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999848#reply1</guid></item><item><title>[深圳] 问一下深圳的小伙伴们，都在用啥电单车（两个轮）</title><link>https://www.v2ex.com/t/999847#reply3</link><description>预算 2k 左右，目前看中了深远，平常通勤 5-7km ，选购电动车需要注意避坑什么</description><pubDate>Tue, 12 Dec 2023 15:28:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/999847#reply3</guid></item></channel></rss>
+&lt;p&gt;源码地址:&lt;a href="https://github.com/lsk569937453/code-magic-public" rel="nofollow"&gt;https://github.com/lsk569937453/code-magic-public&lt;/a&gt;&lt;br /&gt;
+release 下载地址: &lt;a href="https://github.com/lsk569937453/code-magic-public/releases" rel="nofollow"&gt;https://github.com/lsk569937453/code-magic-public/releases&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:08:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000037#reply2</guid></item><item><title>[程序员] go 协程比 Python 多进程快好多！</title><link>https://www.v2ex.com/t/1000036#reply0</link><description>&lt;p&gt;需求：2 个 list(alist,blist)，alist 每个值与 blist 每个值做字符串相似度计算，两个 list 数量级为 20 万
+下面为 python 和 go 的代码片段
+python:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-python"&gt;# 计算两个字符串的相似度
+def similar(a, b):
+    """计算两个字符串的相似度。如果有一个是 None ，则返回 0 。"""
+    if a is None or b is None:
+        return 0
+    similarity = fuzz.token_set_ratio(a, b.lower()) / 100
+    print("similar a:", a, ",", "b:", b, ", similarity:", similarity)
+    return similarity
+
+
+def compute_similarity(args):
+    record_name, name = args
+    return similar(record_name, name), name
+
+
+# 更新数据库记录
+def update_database(cursor, name_mapping, csv_data):
+    update_sql = "UPDATE tweb_fingerprint_test SET factory = %s WHERE uuid = %s"
+    num = 0
+
+    # 创建一个反向映射，使我们可以快速地通过名称查找 UUID
+    name_to_uuid = defaultdict(list)
+    for uuid, names in name_mapping.items():
+        for name in names:
+            if name:  # 检查 name 是否为 None 或空
+                name_to_uuid[name].append(uuid)
+
+    updates = []
+    with ProcessPoolExecutor() as executor:
+        for row in csv_data:
+            vendor_name = row.get("vendor")
+            record_name = row.get("name")
+            print("record_name:", record_name)
+            if (
+                vendor_name is None
+                or record_name is None
+                or vendor_name in ["未知", "None"]
+            ):
+                continue  # 跳过这行数据
+
+            # 直接查找名称
+            uuids_to_update = name_to_uuid.get(record_name, [])
+
+            # 如果没有直接匹配，尝试查找相似度超过 98%的名称
+            if not uuids_to_update:
+                tasks = [(record_name, name) for name in name_to_uuid]
+                results = executor.map(compute_similarity, tasks)
+                uuids_to_update.extend(
+                    name_to_uuid[name]
+                    for similarity, name in results
+                    if similarity &amp;gt; 0.98
+                )
+
+            # 如果找到 UUID ，加入到更新列表中
+            for uuid_to_update in uuids_to_update:
+                updates.append((vendor_name, uuid_to_update))
+
+    # 批量更新
+    if updates:
+        cursor.executemany(update_sql, updates)
+        num = len(updates)
+
+    # 返回更新的记录数
+    return num
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;go:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;// Similar calculates the similarity between two strings
+func Similar(a, b string) float64 {
+	return smetrics.JaroWinkler(a, b, 0.7, 4)
+}
+
+// UpdateDatabase updates the database with the new vendor information
+// UpdateDatabase updates the database with the new vendor information
+func UpdateDatabase(db *sql.DB, vendors map[string]Vendor, records []CSVRecord) (int, error) {
+	fmt.Println("records", len(records))
+	fmt.Println("vendors", len(vendors))
+	stmt, err := db.Prepare("UPDATE tweb_fingerprint SET factory = ? WHERE uuid = ?")
+	if err != nil {
+		return 0, err
+	}
+	defer stmt.Close()
+
+	var wg sync.WaitGroup
+	updates := make(chan Updatedata, len(records))
+
+	for _, record := range records {
+		wg.Add(1)
+		go func(record CSVRecord) {
+			defer wg.Done()
+			// fmt.Println(record.Name)
+			for _, vendor := range vendors {
+				if record.Name == vendor.Name.String || Similar(record.Name, vendor.Name.String) &amp;gt; SimilarityThreshold {
+					updates &amp;lt;- Updatedata{
+						UUID:    vendor.UUID,
+						Factory: record.Vendor,
+					}
+				}
+			}
+		}(record)
+	}
+
+	go func() {
+		wg.Wait()
+		close(updates)
+	}()
+
+	count := 0
+	for update := range updates {
+		fmt.Println("update:", update)
+		if _, err := stmt.Exec(update.Factory, update.UUID); err != nil {
+			return count, err
+		}
+		count++
+	}
+
+	return count, nil
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 13 Dec 2023 07:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000036#reply0</guid></item><item><title>[问与答] 为什么安卓端的网盘都不支持上传/备份文件夹的功能？</title><link>https://www.v2ex.com/t/1000035#reply1</link><description>&lt;p&gt;如题，在 windows 上这个功能很平常，在安卓上都不支持，这是为什么？ 长按文件发送可以上传单个文件，能否利用这点写一个适配层？&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:03:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000035#reply1</guid></item><item><title>[iPhone] iPhone 13 Pro Trade in iPhone 15</title><link>https://www.v2ex.com/t/1000033#reply5</link><description>&lt;p&gt;鉴于目前的好价，把 iPhone 13 Pro 256G 拿去 Trade in 换成 iPhone 15 256G ，值得吗？&lt;/p&gt;
+&lt;p&gt;iPhone 13 Pro 256G 折抵 4300, 需要加 2699&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000033#reply5</guid></item><item><title>[问与答] 咨询 azure 注册使用上一些基础问题，国内版和全球版？</title><link>https://www.v2ex.com/t/1000032#reply0</link><description>这块之前听说分国内版和全球版，我自己注册用可能涉及到付费的服务，目前主要是 TTS 。&lt;br /&gt;想知道需要注意这当中区别，或者说他们有什么区别嘛？&lt;br /&gt;目前用自己微软账户注册使用说是要绑定 visa 或者 master 卡，没有银联。&lt;br /&gt;手上有张 visa 的借记卡，还不确定是否能绑定成功。&lt;br /&gt;人在国内，无 visa 和 master 的信用卡。</description><pubDate>Wed, 13 Dec 2023 06:53:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000032#reply0</guid></item><item><title>[酷工作] [全职/远程]老牌交易所，职位继续更新！ Linux C/ Java /GoLang/ PHP</title><link>https://www.v2ex.com/t/1000030#reply0</link><description>&lt;p&gt;一大波职位更新了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux C 开发 &lt;/li&gt;
+&lt;li&gt;后端开发（ Golang 、PHP 、Java ）&lt;/li&gt;
+&lt;li&gt;后端架构师（ C/Golang/PHP ）&lt;/li&gt;
+&lt;li&gt;数据架构师/开发&lt;/li&gt;
+&lt;li&gt;App 开发&lt;/li&gt;
+&lt;li&gt;前端开发&lt;/li&gt;
+&lt;li&gt;测试&lt;/li&gt;
+&lt;li&gt;项目经理&lt;/li&gt;
+&lt;li&gt;运维&lt;/li&gt;
+&lt;li&gt;技术支持&lt;/li&gt;
+&lt;li&gt;国际化产品助理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TG： &lt;a href="https://t.me/back3nddev" rel="nofollow"&gt;https://t.me/back3nddev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;绿色：d3gtc21hcnQtcm9ib3Q=&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:45:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000030#reply0</guid></item><item><title>[问与答] 在国内，一个地址可否登机注册两个公司/个体户？</title><link>https://www.v2ex.com/t/1000029#reply4</link><description>自己法人身份租的房子，开了一间公司，有些空地用不到，&lt;br /&gt;想再转租出去给其他人开公司/个体户，是否可行？想分摊一下房租，&lt;br /&gt;如果可行，法人租的房子，是以法人名义出租，还是公司名义出租？不行就算了。&lt;br /&gt;如果有懂行的朋友请教一下，谢谢。</description><pubDate>Wed, 13 Dec 2023 06:44:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000029#reply4</guid></item><item><title>[旅行] 关于婚假出去玩</title><link>https://www.v2ex.com/t/1000028#reply17</link><description>&lt;p&gt;打算的是去江浙玩。有啥推荐的吗。开车北京出发，先去媳妇家中转（山东）。
+时间预计： 近期出发到元旦前结束
+已选城市： 南京、苏州、杭州。有啥推荐的玩的和吃的吗？或者周边城市推荐也可以。&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:36:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000028#reply17</guid></item><item><title>[问与答] 安卓最佳盲打拼音输入法是？</title><link>https://www.v2ex.com/t/1000027#reply0</link><description>26 键，除了谷歌拼音和 Gboard ，搜狗、讯飞感觉都达不到盲打的准确率</description><pubDate>Wed, 13 Dec 2023 06:34:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000027#reply0</guid></item></channel></rss>
