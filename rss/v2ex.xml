@@ -1,185 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 13 Dec 2023 07:45:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 追寻星期五的自由之旅： isfriday.today</title><link>https://www.v2ex.com/t/1000053#reply0</link><description>&lt;p&gt;在这个喧嚣而忙碌的世界里，时间似乎是我们生活中最珍贵的资源之一。而当我们追寻自由，寻找生活中的片刻宁静时，星期五就像一座远方的灯塔，为我们指引着前行的方向。&lt;/p&gt;
-&lt;p&gt;人们应该追求自由。星期五，作为一周的尾声，不仅仅是一个日历上的标记，更是一个生活中的心灵仪式。这一天，我们能够远离琐碎的任务，迎接周末的降临，拥抱我们内在的自由精神。&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://isfriday.today" rel="nofollow" title="is friday today?"&gt;点击访问&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://isfriday.today" rel="nofollow" title="is friday today?"&gt;isfriday.today&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt="is friday today" class="embedded_image" rel="noreferrer" src="https://www.freeimg.cn/i/2023/12/13/65796068b5318.jpg" title="is friday today" /&gt;</description><pubDate>Wed, 13 Dec 2023 07:43:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000053#reply0</guid></item><item><title>[信息安全] 家里亲戚下载电子发票点了病毒，差点被诈骗</title><link>https://www.v2ex.com/t/1000052#reply0</link><description>&lt;p&gt;和 &lt;a href="https://www.v2ex.com/t/995527" rel="nofollow"&gt;https://www.v2ex.com/t/995527&lt;/a&gt; 有点类似，不过这次他下载的是一个 exe 文件，模仿的是诺诺网开发票的邮件，&lt;/p&gt;
-&lt;p&gt;具体文件链接如下： &lt;a href="http://mail.seily.com:81/download/attachment/NVHYtN2bu9Ncpk2N/KFXK2Z-KcsMK/PDF.exe" rel="nofollow"&gt;http://mail.seily.com:81/download/attachment/NVHYtN2bu9Ncpk2N/KFXK2Z-KcsMK/PDF.exe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;运行了以后啥都没有，结果发现微信给同事发了个信息，要求立刻转账 10 万到一个国内账户。
-还好他同事警惕性高，没转。事后发现应该是电脑微信没关的原因。现在在让他重装系统，备份文件，能删的都删掉。&lt;/p&gt;
-&lt;p&gt;扔到腾讯哈勃和 virustotal 了，自己不是搞安全的，也分析不出啥来，大家有兴趣可以看看&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://habo.qq.com/file/showdetail?md5=b113ebd478ec745c473bce16fa0b92a8#file" rel="nofollow"&gt;https://habo.qq.com/file/showdetail?md5=b113ebd478ec745c473bce16fa0b92a8#file&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.virustotal.com/gui/file/5315b11db30d5f5a00559d1187757fb76eb5a51004e3a3bfadb7674e887bcc8a/behavior" rel="nofollow"&gt;https://www.virustotal.com/gui/file/5315b11db30d5f5a00559d1187757fb76eb5a51004e3a3bfadb7674e887bcc8a/behavior&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:39:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000052#reply0</guid></item><item><title>[问与答] 为什么我的 gpt4plus 没续费到期了，咋还能用？</title><link>https://www.v2ex.com/t/1000051#reply0</link><description>&lt;p&gt;她把我忘了？&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:39:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000051#reply0</guid></item><item><title>[求职] 三年开发经验求职</title><link>https://www.v2ex.com/t/1000049#reply0</link><description>&lt;p&gt;寒冬里面找个班上, 写在前面,今年可真冷啊.&lt;/p&gt;
-&lt;p&gt;三年开发 C++/C 开发经验,24 岁, 待过的公司都是在所处的赛道 top 行列, 今年六月份因为外企撤资裁员了,学历普通公办本科.&lt;/p&gt;
-&lt;p&gt;Q : 能力怎么样
-ans : 待过的三家公司里面绩效都不低,今年有因为绩效涨薪,和领导关系也处理的很好,python,shell,这些语言写脚本没问题, C++/C 主流工作语言, 熟悉, 数据结构算法, medium 水准吧.&lt;/p&gt;
-&lt;p&gt;Q : 为什么换工作这么频繁
-ans : 第一家纯纯脑残, 信了第二家的鬼话 第二家 996,随时 oncall 确实有点顶. 第三家本来抱着稳定长期发展去的,但是没想到外企撤资会轮到我头上,我有罪.&lt;/p&gt;
-&lt;p&gt;Q : 怎么去的外企?
-ans : 侥幸.&lt;/p&gt;
-&lt;p&gt;Q : 为什么裁我
-ans : 老板是个很传统的人,老人没动,裁的都是年轻人&lt;/p&gt;
-&lt;p&gt;Q : 为什么 gap 半年
-ans : 因为拿到几个 offer,感觉都不太好,脑子有点抽,不信邪,考了个公务员,今年公务员可太卷了吧.&lt;/p&gt;
-&lt;p&gt;Q : 后悔吗
-ans : 非常后悔,劝大家一定要给自己留条后路,不要吧路走绝.&lt;/p&gt;
-&lt;p&gt;期望工作: 稳定一点,希望能长期发展的那种.&lt;/p&gt;
-&lt;p&gt;写在后面:&lt;/p&gt;
-&lt;p&gt;我有 gap 时间,有请各位 hr 手下留情,不要面到最后因为 gap 时间不给 offer 的,(不想经历第二次了,小声 bb)&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000049#reply0</guid></item><item><title>[iCloud] icloud 2T 空间家庭组，求成员！</title><link>https://www.v2ex.com/t/1000048#reply0</link><description>&lt;p&gt;icloud 2T 空间家庭组，求成员！&lt;/p&gt;
-&lt;p&gt;美区/国区都能加， 拉 2 个伙伴拼单，每人 500G 空间&lt;/p&gt;
-&lt;p&gt;绿信：+14242436540&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:35:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000048#reply0</guid></item><item><title>[深圳] 深圳一号线周边的一室一厅一厨一卫有推荐的小区吗</title><link>https://www.v2ex.com/t/1000047#reply0</link><description>&lt;p&gt;最好就是在 1 号线周边，工作地点在华强路，通勤时间不要超过半小时&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:30:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000047#reply0</guid></item><item><title>[PlayStation 5] PlayStation 2023 年回顾报告</title><link>https://www.v2ex.com/t/1000046#reply0</link><description>&lt;p&gt;&lt;a href="https://wrapup.playstation.com/en-gb/login" rel="nofollow"&gt;PlayStation 2023 年回顾报告&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="hours" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/zhen-ke/img@main/hours.5zmtj84hfic0.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="top-game" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/zhen-ke/img@main/top-game.6j3oqkp8an00.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:27:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000046#reply0</guid></item><item><title>[iPhone] 升级 IOS17.2 后 WIFI 信号崩了？</title><link>https://www.v2ex.com/t/1000044#reply0</link><description>&lt;p&gt;公司同样位置，电脑测速 200M ，ip15PM 17.1 测速和电脑基本相同，升到 17.2 以后只能跑到 8M-10M 了~
-目前还在公司，不确定是否一定是手机问题，晚上回家再测一下
-PS：重启切换 WIFI 均无效，存了好多的 WIFI 密码真不想还原网络设置。&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:24:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000044#reply0</guid></item><item><title>[程序员] 感觉 Chrome 越来越丑，新版本菜单选项间距也隔得好远</title><link>https://www.v2ex.com/t/1000041#reply3</link><description>&lt;p&gt;自动更新到 120 版本，1080p 体验下降好多，4k 体验可能不错&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000041#reply3</guid></item><item><title>[数据库] 有没有大神知道这个描述是哪款国产数据库</title><link>https://www.v2ex.com/t/1000039#reply7</link><description>不知道傻逼销售从哪弄来一个招标文件让写标书，数据库这一项给我看懵逼了，前几条像是人大金仓，后几条像是达梦，问了这两家的售前都说不是他们家的产品。&lt;br /&gt;有没有大神知道这是哪款国产数据库的指标。&lt;br /&gt;&lt;br /&gt;具备数据存储、访问控制、身份鉴别和数据备份提供 1 年免费升级恢复等功能。&lt;br /&gt;管理员及用户可通过图形化或命令服务，7x24 小时电行工具实现对数据库对象的管理&lt;br /&gt;开发人员可通过标准化接口开发基于数据库的应用和软件。&lt;br /&gt;支持用户代理身份认证&lt;br /&gt;异步备库延时和定点重演超长大字段&lt;br /&gt;DBLINK 连接到网关等新特性&lt;br /&gt;完善新增部分空间函数&lt;br /&gt;Oracle 兼容特性等功能&lt;br /&gt;可提供共享存储集群主备部署&lt;br /&gt;按服务名配置负载均衡策略等解决方案</description><pubDate>Wed, 13 Dec 2023 07:11:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000039#reply7</guid></item><item><title>[程序员] 三线城市选择国企还是私企</title><link>https://www.v2ex.com/t/1000038#reply8</link><description>程序员，后端。&lt;br /&gt;在一个三线城市，考试进入国企，税前 8000 ，五险一金比例都是按照最高的交，早九晚五。&lt;br /&gt;现有个机会，入职一家私企，税后 12k ，五险一金按照最低的交，早九晚六不加班。&lt;br /&gt;很纠结，目前该城市 it 环境惨不忍睹，选择私企担心私企降薪裁员，选择国企到手又太少。&lt;br /&gt;&lt;br /&gt;各位 v 友，给点意见。</description><pubDate>Wed, 13 Dec 2023 07:10:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000038#reply8</guid></item><item><title>[分享创造] 本地离线工具箱[开源]</title><link>https://www.v2ex.com/t/1000037#reply2</link><description>&lt;p&gt;本地离线工具集合，包含以下功能:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;base64 转码/解码:文本转 base64,base64 转文本，图片转 base64 ，base64 转图片&lt;/li&gt;
-&lt;li&gt;格式化:格式化 json/yaml&lt;/li&gt;
-&lt;li&gt;urlEncode/urlDecode&lt;/li&gt;
-&lt;li&gt;摘要算法:计算文本的 md5,sha256 。计算多个文件的 md5,sha256&lt;/li&gt;
-&lt;li&gt;时间戳: 时间戳转时间，时间转时间戳&lt;/li&gt;
-&lt;li&gt;二维码/条形码生成&lt;/li&gt;
-&lt;li&gt;调色板&lt;/li&gt;
-&lt;li&gt;文本对比工具&lt;/li&gt;
-&lt;li&gt;国密算法(SM2,SM3,SM4)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;源码地址:&lt;a href="https://github.com/lsk569937453/code-magic-public" rel="nofollow"&gt;https://github.com/lsk569937453/code-magic-public&lt;/a&gt;&lt;br /&gt;
-release 下载地址: &lt;a href="https://github.com/lsk569937453/code-magic-public/releases" rel="nofollow"&gt;https://github.com/lsk569937453/code-magic-public/releases&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:08:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000037#reply2</guid></item><item><title>[程序员] go 协程比 Python 多进程快好多！</title><link>https://www.v2ex.com/t/1000036#reply0</link><description>&lt;p&gt;需求：2 个 list(alist,blist)，alist 每个值与 blist 每个值做字符串相似度计算，两个 list 数量级为 20 万
-下面为 python 和 go 的代码片段
-python:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;# 计算两个字符串的相似度
-def similar(a, b):
-    """计算两个字符串的相似度。如果有一个是 None ，则返回 0 。"""
-    if a is None or b is None:
-        return 0
-    similarity = fuzz.token_set_ratio(a, b.lower()) / 100
-    print("similar a:", a, ",", "b:", b, ", similarity:", similarity)
-    return similarity
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Dec 2023 03:26:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 有没有好的祛除图片上的马赛克方案？</title><link>https://www.v2ex.com/t/1000290#reply0</link><description>&lt;p&gt;用了美图秀秀、其它的一些 AI 工具，效果不好，有没有这方面的专家经验？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:25:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000290#reply0</guid></item><item><title>[问与答] 鹅厂的大佬们，乐享平台里面的匿名功能是不是还是能被查到的（明知故问贴）</title><link>https://www.v2ex.com/t/1000288#reply0</link><description>公司有用到鹅的这个平台作为内部论坛，想问下 v 站大佬们，这个匿名发言也还是可以被查出来的。虽然自己觉得应该是可以的，但还是水一下求证实！！&lt;br /&gt;&lt;br /&gt;&lt;a href="https://lexiangla.com/wiki/api/11004.html#%E5%91%98%E5%B7%A5%E5%9B%9E%E7%AD%94%E5%88%97%E8%A1%A8" rel="nofollow noopener" target="_blank"&gt;https://lexiangla.com/wiki/api/11004.html#%E5%91%98%E5%B7%A5%E5%9B%9E%E7%AD%94%E5%88%97%E8%A1%A8&lt;/a&gt;</description><pubDate>Thu, 14 Dec 2023 03:23:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000288#reply0</guid></item><item><title>[职场话题] 公司骚操作来了，该如何应对</title><link>https://www.v2ex.com/t/1000287#reply0</link><description>&lt;p&gt;先介绍下情况，我入职时当时合同主体公司是 A ，2 年后要做新业务老板注册了新公司 B ，我的合同主体变更为 B 公司，上班地点、工资福利、工龄都没变。现在他要做游戏入股了一个 C 公司是大股东，C 公司办公什么的都在 B 公司，也就是说不管是 ABC 哪个公司的人都在同一栋楼。B 公司现在有 10 多个人，有我和其他几个人是老员工有 3-5 年工龄。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  他现在直接把 B 公司注销了，然后开会告诉我们说现在 2 个选择，1.公司注销期间不用来上班了，每月发当地基本工资，到几个月后注销完成再谈遣散费。2.签新公司，一切福利待遇平移过去。
 
+   签新公司就有个问题了，老板只是大股东不是法人，主体也变了，到时候他不想玩了再来这出注销公司我们找谁拿补偿去，这做法真的恶心，不签的话拖着你每月给你 2000 基本工资，等注销完都要半年左右一般人都不会等。想问下，如果他注销后发了书面通知，不想签的员工能马上主张赔偿吗？
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 03:23:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000287#reply0</guid></item><item><title>[Telegram] 我的 2023 年年度推荐频道/评论互荐频道</title><link>https://www.v2ex.com/t/1000286#reply0</link><description>&lt;h1&gt;分享一下我的 2023 年 Telegram 关注频道&lt;/h1&gt;
+&lt;h4&gt;Telegram 年终分享,包含 16 个分类,点击可跳转 github 访问。&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB" rel="nofollow"&gt;点击访问 github&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;筛选了社区氛围比较友好，少政治，多兴趣交流类。&lt;/h4&gt;
+&lt;h4&gt;内容偏中立，比较温和有趣的频道。大家也可以分享自己喜欢的频道，互相交换&lt;/h4&gt;
+&lt;h4&gt;友情提示：TG 里凡是主动私聊找你约的，还是一些色情广告都不要相信，还有各种“赚钱”方式。骗子很多，要时刻提高警惕，不要被骗钱。&lt;/h4&gt;
+&lt;h2&gt;&lt;strong&gt;这里放上我的 2023 年年度推荐频道&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;b&gt;&lt;h4&gt;频道目录 | 点击分类项目即可直接访问内容&lt;/h4&gt;&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A7%91%E6%8A%80%E8%B5%84%E8%AE%AF%E7%B1%BB" rel="nofollow"&gt;科技资讯&lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A4%BE%E4%BC%9A%E8%B5%84%E8%AE%AF%E7%B1%BB" rel="nofollow"&gt;社会资讯&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%B4%A2%E5%BC%95%E5%AF%BC%E8%88%AA%E5%8C%BA" rel="nofollow"&gt;频道推荐类&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%8C%BA" rel="nofollow"&gt;博客内容&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;书籍分享 &lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;机场节点分享&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E7%B1%BB" rel="nofollow"&gt;资源分享&lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E7%BD%91%E7%9B%98%E5%88%86%E4%BA%AB%E5%8C%BA%E9%9F%B3%E4%B9%90%E5%BD%B1%E8%A7%86%E5%90%84%E7%A7%8D%E6%96%87%E4%BB%B6" rel="nofollow"&gt;网盘分享区(音乐，影视，各种文件）&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA" rel="nofollow"&gt;安卓/pc 软件破解 &lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%8B%B9%E6%9E%9C%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E8%84%9A%E6%9C%AC%E5%8C%BA" rel="nofollow"&gt;苹果破解软件/脚本&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%B8%85%E7%BA%AF%E7%BE%8E%E5%A5%B3%E5%9B%BE" rel="nofollow"&gt;清纯美女图&lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%BA%8C%E6%AC%A1%E5%85%83%E7%BE%8E%E5%9B%BE" rel="nofollow"&gt;二次元美图&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%A3%81%E7%BA%B8%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;壁纸分享区&lt;/a&gt; &lt;/td&gt;
+&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%90%9E%E7%AC%91%E6%A2%97%E5%9B%BE%E5%8C%BA" rel="nofollow"&gt;搞笑梗图区&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%A1%A8%E6%83%85%E8%B4%B4%E7%BA%B8%E5%8C%BA" rel="nofollow"&gt;表情贴纸区&lt;/a&gt; &lt;/td&gt;
+&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#tg%E6%90%9C%E7%B4%A2%E6%9C%BA%E5%99%A8%E4%BA%BA" rel="nofollow"&gt;TG 搜索机器人&lt;/a&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;看到有人分享，我也分享了我自己的关注列表。希望能找到合适的频道。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:22:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000286#reply0</guid></item><item><title>[问与答] 大佬们有什么支持自定义背景图和加水印的笔记软件或备忘录软件</title><link>https://www.v2ex.com/t/1000285#reply0</link><description>需求：用来编辑一下文字，要加上自定义的背景图，然后最好也可以生成图片打水印。快速生成一个图片。  轻量。&lt;br /&gt;&lt;br /&gt;使用端：手机安卓端&lt;br /&gt;&lt;br /&gt;尝试过：&lt;br /&gt;自带的华为备忘录，锤子便签，都不能自定义背景图，只能改下默认背景颜色模板。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;各位大佬来推荐一下。</description><pubDate>Thu, 14 Dec 2023 03:22:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000285#reply0</guid></item><item><title>[问与答] 公司有一个小实验室需要无纸化办公,预算最高不超过五位数,该怎么做?</title><link>https://www.v2ex.com/t/1000284#reply0</link><description>&lt;p&gt;刚入职这家公司没多久,领导让我帮他一起看看有没有办法花最少成本满足,以下的要求该用什么满足?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 有一个简易的进单系统，实现进单操作无纸化，能够自动根据编号规则给出一个唯一的收验编号（不包括进样后微信群里通知）。应有按账号分级管理（比如，普通账号只能收样登记、选择登记人、数据录入；管理员账号还能确认检验对象完成、更改录入数据内容、生成报告；游客账号只能登录查看状态，不能进行数据的更改和报告的打印）；  
+2. QC 员应能通过该系统，将检验结果录入（复核后），一旦录入无法更改；对于需要培养的项目，应能填写项目预计完成的时间点；  
+3. 所有检验完成后，系统能在首页醒目位置进行可出报告提示（这个功能不强求）。  
+4. 能按指定的报告模板内容，在填写好除检验结果外的其他必要信息后（如生产日期和效期、检验依据等）（检验编号、名称、批号、请验日期和报告日期应能从进单时的信息录入时自动抓取），一键生成报告（包括普通检验报单和商业报单）。  
+5. 报告上的签名，如果可以电子签名更佳（这个功能目前不迫切，同时也不是必需）。  
+6. 后台的报告模板内容应易于编写或更新；生成报告打印前，应能进行除检验数据外其他信息的更新或更改。  
+7. 应能在云端共享该系统。如果该功能困难，可以是局域网共享。
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 03:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000284#reply0</guid></item><item><title>[宽带症候群] 求助！索尼电视接 USB3.0 转千兆网口速度还是只有 300M</title><link>https://www.v2ex.com/t/1000282#reply0</link><description>因为家里经常要连接 NAS 观看 4K 原盘电影，受制于索尼电视孱弱的百兆网口，很多时候都会有点卡顿，网上搜索到由于索尼电视可以通过连接 USB3.0 转千兆网口的转接器实现千兆网速。条件是：&lt;br /&gt;  1. 电视需要有 USB3.0 接口（蓝灰色）&lt;br /&gt;  2. 安卓 10.0 系统&lt;br /&gt;  3. 转接器使用 RTL8153 或 RTL8153B 芯片&lt;br /&gt;  4. 当然，家里路由器或光猫带千兆网口，网线是千兆网线&lt;br /&gt;照着以上条件，在 jd 上买了山泽的一款转换器，发现网速只能到 200+左右。以为是转换器的问题，又照着教程博主购买了品联的转换器，还是只能跑到 300M 左右。&lt;br /&gt;电视机型是 Sony A80K ，测试了网口-转换器-电脑，网速能到千兆，电视也更新过重启过，WiFi 始终关闭状态。现在就是百思不得其解到底是哪个环节出了问题，求大佬们帮忙分析一下，谢谢。</description><pubDate>Thu, 14 Dec 2023 03:10:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000282#reply0</guid></item><item><title>[酷工作] 高级安卓应用开发工程师-上海-50-80k/M（英文）</title><link>https://www.v2ex.com/t/1000281#reply0</link><description>&lt;p&gt;工作地点：上海市长宁区 BOCE 大厦
+薪酬：税前 50k-60k/M
+其他：年假 10-20 天，带薪病假 10 天，团建，个人发展预算等
+公司：&lt;a href="http://www.caper.ai" rel="nofollow"&gt;www.caper.ai&lt;/a&gt;
+有兴趣可直接联系：Qing-876217551/ 邮箱： &lt;a href="mailto:sevensun0706@gmail.com"&gt;sevensun0706@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;关于岗位:
+*负责 Android 应用和 Framework 开发和维护，尤其是购物车称重及认证相关工作。&lt;/p&gt;
+&lt;p&gt;你的主要工作/岗位职责:
+*负责购物车称重认证相关的工作，包含算法优化、软件合规改造等。
+*负责 Android 应用和服务的开发和维护工作。
+*负责 Framework 层相关功能开发工作。&lt;/p&gt;
+&lt;p&gt;我们希望你/任职要求:
+1.全日制本科及以上学历，熟练掌握 Java/Kotlin 等编程语言。
+2.英语听说读写流利。
+3.有较好的数学建模和算法基础。
+4.5 年以上 Android APP 开发经验，有一定的技术架构能力。&lt;/p&gt;
+&lt;p&gt;若你具备下面的能力/经验更佳：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;度量衡相关的技术经验优先
+2.有 Android Framework 经验优先&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Thu, 14 Dec 2023 03:06:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000281#reply0</guid></item><item><title>[Linux] 如何高帧率串流 Windows 虚拟机画面到 PVE 主机？</title><link>https://www.v2ex.com/t/1000280#reply2</link><description>&lt;p&gt;PVE 主机是一台笔记本电脑，自带 144 Hz 的屏幕，安装了 KDE 桌面。主机浏览器里测试有 144 fps 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/jpBPGi9.png" /&gt;&lt;/p&gt;
+&lt;p&gt;vGPU unlock 显示正常。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JiknYB0.png" /&gt;&lt;/p&gt;
+&lt;p&gt;采用 sunshine + moonlight 串流，moonlight 设置了 144 fps 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Ottkjek.png" /&gt;&lt;/p&gt;
+&lt;p&gt;但在 Windows 虚拟机测试的结果只有 60 fps 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MgXSJVz.png" /&gt;&lt;/p&gt;
+&lt;p&gt;查看 Windows 虚拟机的 Nvidia 控制面板，vGPU 工作正常，但刷新率只有 60 Hz 选项。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/L3lKOOn.png" /&gt;&lt;/p&gt;
+&lt;p&gt;各位知道怎么解锁高刷新率吗？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:03:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000280#reply2</guid></item><item><title>[酷工作] 招聘 iOS 工程师, 海外网络加速器方向</title><link>https://www.v2ex.com/t/1000279#reply0</link><description>岗位要求: 有 网络加速器 相关开发经验 ， 精通多种协议（ ikev2 ，wireguard ，openudp ，opentcp 等）&lt;br /&gt;工作时间: 9:00~6:30, 周六如果要加班有调休, 一般不需要 （工资具体私谈）&lt;br /&gt;地址:  广州天河，有意者发简历至： wangran404@gmail.com</description><pubDate>Thu, 14 Dec 2023 03:03:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000279#reply0</guid></item><item><title>[问与答] 关于银行卡被限制非柜面业务的问题</title><link>https://www.v2ex.com/t/1000278#reply9</link><description>先说下事情经过：都是自己的卡，从 a-&amp;gt;b, b-&amp;gt;c ，在 b-&amp;gt;c 的过程中 b 卡被限制非柜面。&lt;br /&gt;说是反诈限制的。然后在 b 银行打流水写文件签字，递交所辖公安。&lt;br /&gt;提交材料后第二个工作日解除限制。公安回复说无异常，限制解除。&lt;br /&gt;&lt;br /&gt;从限制到解除，其间因为上班在外地等各种原因 2 周时间。&lt;br /&gt;自己被折腾跑了两家支行营业厅不说，2 周没有利息。&lt;br /&gt;&lt;br /&gt;在我理解因为他们误判，导致我个人损失，挺恶心人的。投诉无门，所以这种情况去哪里举报。虽然知道举报也没用。有 V2 大佬有经验的吗，来讨论下。</description><pubDate>Thu, 14 Dec 2023 03:01:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000278#reply9</guid></item><item><title>[Debian] apt install 安装的东西附带的依赖 为什么在 purge 之后 autoremove 删不掉</title><link>https://www.v2ex.com/t/1000277#reply0</link><description>&lt;p&gt;是有其他组件依赖吗  为什么总感觉 debian 删东西删不干净&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:59:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000277#reply0</guid></item><item><title>[问与答] 狗云的香港 CLD bgp 线路 物理机值得入吗？</title><link>https://www.v2ex.com/t/1000276#reply0</link><description>&lt;p&gt;600/月，感觉性价比很高。
+问题是，测试 ip 也没有，客服也找不到，qq 电报，邮箱统统没回应。
+有没有用过狗云独立物理机反馈一下使用体验？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:57:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000276#reply0</guid></item><item><title>[反馈] 刚回复帖子弹出“抱歉，这条信息暂时无法发送......"再次访问无法加载网站内容，页面显示为空白。疑似 IP 地址被封禁或限制</title><link>https://www.v2ex.com/t/1000275#reply1</link><description>我非计算机专业&lt;br /&gt;&lt;br /&gt;弹出的信息框：&lt;br /&gt;抱歉，这条信息暂时无法发送。这有可能是我们的检测规则的误判。整个过程中的元信息已经记录下来，我们会进行分析。如果你确信这是我们的规则误判，可以邮件联系 support@v2ex.com 进行申诉。谢谢你的理解。&lt;br /&gt;&lt;br /&gt;我认为可能的敏感词（怕被封 IP ，请自行想像）&lt;br /&gt;武昌鱼： ______《水调歌头·游泳》中有诗赞美它。&lt;br /&gt;&lt;br /&gt;再次访问 &lt;a href="http://v2ex.com" rel="nofollow noopener" target="_blank"&gt;v2ex.com&lt;/a&gt; 无法加载网站内容，页面显示为空白&lt;br /&gt;&lt;br /&gt;我以为是 IP 地址被封禁或限制&lt;br /&gt;无法访问 &lt;a href="http://v2ex.com" rel="nofollow noopener" target="_blank"&gt;v2ex.com&lt;/a&gt; 的 IP 地址&lt;br /&gt;&lt;br /&gt;170.187.181.91</description><pubDate>Thu, 14 Dec 2023 02:55:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000275#reply1</guid></item><item><title>[Apple] Junk World 闪退</title><link>https://www.v2ex.com/t/1000274#reply0</link><description>&lt;p&gt;iPhone 13 Pro Max 国行
+美国区 Apple ID ，下载了 Junk World, 经常闪退，删除游戏重启安装也解决不了。&lt;/p&gt;
+&lt;p&gt;求解决思路和方法。&lt;/p&gt;
+&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:54:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000274#reply0</guid></item><item><title>[Python] 关于 Python 调用 dll 求助</title><link>https://www.v2ex.com/t/1000273#reply1</link><description>&lt;h5&gt;python 小白，现在需要使用 python 去调一个第三方的 dll 文件，dll 没法改,下面是 dll 中的数据结构&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;/*----------------------------------------------------------------------------
+|
+| Define pointers
+|
+-----------------------------------------------------------------------------*/
 
-def compute_similarity(args):
-    record_name, name = args
-    return similar(record_name, name), name
+#ifndef PL_BYTE
+#define PL_BYTE uint8_t *
+#endif
 
+/*----------------------------------------------------------------------------
+|
+| Define structs
+|
+-----------------------------------------------------------------------------*/
 
-# 更新数据库记录
-def update_database(cursor, name_mapping, csv_data):
-    update_sql = "UPDATE tweb_fingerprint_test SET factory = %s WHERE uuid = %s"
-    num = 0
-
-    # 创建一个反向映射，使我们可以快速地通过名称查找 UUID
-    name_to_uuid = defaultdict(list)
-    for uuid, names in name_mapping.items():
-        for name in names:
-            if name:  # 检查 name 是否为 None 或空
-                name_to_uuid[name].append(uuid)
-
-    updates = []
-    with ProcessPoolExecutor() as executor:
-        for row in csv_data:
-            vendor_name = row.get("vendor")
-            record_name = row.get("name")
-            print("record_name:", record_name)
-            if (
-                vendor_name is None
-                or record_name is None
-                or vendor_name in ["未知", "None"]
-            ):
-                continue  # 跳过这行数据
-
-            # 直接查找名称
-            uuids_to_update = name_to_uuid.get(record_name, [])
-
-            # 如果没有直接匹配，尝试查找相似度超过 98%的名称
-            if not uuids_to_update:
-                tasks = [(record_name, name) for name in name_to_uuid]
-                results = executor.map(compute_similarity, tasks)
-                uuids_to_update.extend(
-                    name_to_uuid[name]
-                    for similarity, name in results
-                    if similarity &amp;gt; 0.98
-                )
-
-            # 如果找到 UUID ，加入到更新列表中
-            for uuid_to_update in uuids_to_update:
-                updates.append((vendor_name, uuid_to_update))
-
-    # 批量更新
-    if updates:
-        cursor.executemany(update_sql, updates)
-        num = len(updates)
-
-    # 返回更新的记录数
-    return num
+typedef struct DEMO_t
+{
+  uint16_t        length;
+  PL_BYTE       payLoad;                    /* 长度取决于 length 的值*/
+} DEMO;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;go:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;// Similar calculates the similarity between two strings
-func Similar(a, b string) float64 {
-	return smetrics.JaroWinkler(a, b, 0.7, 4)
-}
+&lt;h5&gt;这个 dll 中有个 read 方法，可以从文件中读取出对应的 DEMO 数据。下面是 python 的代码：&lt;/h5&gt;
+&lt;pre&gt;&lt;code&gt;# 定义 BL_LPBYTE 类型
+BL_LPBYTE = ctypes.POINTER(uint8_t)
 
-// UpdateDatabase updates the database with the new vendor information
-// UpdateDatabase updates the database with the new vendor information
-func UpdateDatabase(db *sql.DB, vendors map[string]Vendor, records []CSVRecord) (int, error) {
-	fmt.Println("records", len(records))
-	fmt.Println("vendors", len(vendors))
-	stmt, err := db.Prepare("UPDATE tweb_fingerprint SET factory = ? WHERE uuid = ?")
-	if err != nil {
-		return 0, err
-	}
-	defer stmt.Close()
+class DEMO_DATA(ctypes.Structure):
+    _fields_ = [
+        ("length", ctypes.c_uint16),
+        ("payLoad", BL_LPBYTE),
+    ]
 
-	var wg sync.WaitGroup
-	updates := make(chan Updatedata, len(records))
+# 加载 dll
+dll = ctypes.CDLL('demo.dll')
 
-	for _, record := range records {
-		wg.Add(1)
-		go func(record CSVRecord) {
-			defer wg.Done()
-			// fmt.Println(record.Name)
-			for _, vendor := range vendors {
-				if record.Name == vendor.Name.String || Similar(record.Name, vendor.Name.String) &amp;gt; SimilarityThreshold {
-					updates &amp;lt;- Updatedata{
-						UUID:    vendor.UUID,
-						Factory: record.Vendor,
-					}
-				}
-			}
-		}(record)
-	}
+# 定义 dll 中的 Read 方法, 其实我也不太懂为什么要这样
+dll.Read.argtypes = [ctypes.c_void_p, ctypes.POINTER(DEMO)]
+dll.dll.restype = ctypes.c_int32
 
-	go func() {
-		wg.Wait()
-		close(updates)
-	}()
+# 创建文件，数据源
+handle = dll.Create('file.target')
 
-	count := 0
-	for update := range updates {
-		fmt.Println("update:", update)
-		if _, err := stmt.Exec(update.Factory, update.UUID); err != nil {
-			return count, err
-		}
-		count++
-	}
+# 创建结构体
+demo = DEMO()
 
-	return count, nil
-}
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 13 Dec 2023 07:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000036#reply0</guid></item><item><title>[问与答] 为什么安卓端的网盘都不支持上传/备份文件夹的功能？</title><link>https://www.v2ex.com/t/1000035#reply1</link><description>&lt;p&gt;如题，在 windows 上这个功能很平常，在安卓上都不支持，这是为什么？ 长按文件发送可以上传单个文件，能否利用这点写一个适配层？&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 07:03:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000035#reply1</guid></item><item><title>[iPhone] iPhone 13 Pro Trade in iPhone 15</title><link>https://www.v2ex.com/t/1000033#reply5</link><description>&lt;p&gt;鉴于目前的好价，把 iPhone 13 Pro 256G 拿去 Trade in 换成 iPhone 15 256G ，值得吗？&lt;/p&gt;
-&lt;p&gt;iPhone 13 Pro 256G 折抵 4300, 需要加 2699&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000033#reply5</guid></item><item><title>[问与答] 咨询 azure 注册使用上一些基础问题，国内版和全球版？</title><link>https://www.v2ex.com/t/1000032#reply0</link><description>这块之前听说分国内版和全球版，我自己注册用可能涉及到付费的服务，目前主要是 TTS 。&lt;br /&gt;想知道需要注意这当中区别，或者说他们有什么区别嘛？&lt;br /&gt;目前用自己微软账户注册使用说是要绑定 visa 或者 master 卡，没有银联。&lt;br /&gt;手上有张 visa 的借记卡，还不确定是否能绑定成功。&lt;br /&gt;人在国内，无 visa 和 master 的信用卡。</description><pubDate>Wed, 13 Dec 2023 06:53:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000032#reply0</guid></item><item><title>[酷工作] [全职/远程]老牌交易所，职位继续更新！ Linux C/ Java /GoLang/ PHP</title><link>https://www.v2ex.com/t/1000030#reply0</link><description>&lt;p&gt;一大波职位更新了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Linux C 开发 &lt;/li&gt;
-&lt;li&gt;后端开发（ Golang 、PHP 、Java ）&lt;/li&gt;
-&lt;li&gt;后端架构师（ C/Golang/PHP ）&lt;/li&gt;
-&lt;li&gt;数据架构师/开发&lt;/li&gt;
-&lt;li&gt;App 开发&lt;/li&gt;
-&lt;li&gt;前端开发&lt;/li&gt;
-&lt;li&gt;测试&lt;/li&gt;
-&lt;li&gt;项目经理&lt;/li&gt;
-&lt;li&gt;运维&lt;/li&gt;
-&lt;li&gt;技术支持&lt;/li&gt;
-&lt;li&gt;国际化产品助理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;TG： &lt;a href="https://t.me/back3nddev" rel="nofollow"&gt;https://t.me/back3nddev&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;绿色：d3gtc21hcnQtcm9ib3Q=&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:45:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000030#reply0</guid></item><item><title>[问与答] 在国内，一个地址可否登机注册两个公司/个体户？</title><link>https://www.v2ex.com/t/1000029#reply4</link><description>自己法人身份租的房子，开了一间公司，有些空地用不到，&lt;br /&gt;想再转租出去给其他人开公司/个体户，是否可行？想分摊一下房租，&lt;br /&gt;如果可行，法人租的房子，是以法人名义出租，还是公司名义出租？不行就算了。&lt;br /&gt;如果有懂行的朋友请教一下，谢谢。</description><pubDate>Wed, 13 Dec 2023 06:44:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000029#reply4</guid></item><item><title>[旅行] 关于婚假出去玩</title><link>https://www.v2ex.com/t/1000028#reply17</link><description>&lt;p&gt;打算的是去江浙玩。有啥推荐的吗。开车北京出发，先去媳妇家中转（山东）。
-时间预计： 近期出发到元旦前结束
-已选城市： 南京、苏州、杭州。有啥推荐的玩的和吃的吗？或者周边城市推荐也可以。&lt;/p&gt;</description><pubDate>Wed, 13 Dec 2023 06:36:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000028#reply17</guid></item><item><title>[问与答] 安卓最佳盲打拼音输入法是？</title><link>https://www.v2ex.com/t/1000027#reply0</link><description>26 键，除了谷歌拼音和 Gboard ，搜狗、讯飞感觉都达不到盲打的准确率</description><pubDate>Wed, 13 Dec 2023 06:34:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000027#reply0</guid></item></channel></rss>
+# 读取数据，正常传入文件以及结构体，dll 会自动像结构体中存入数据
+dll.Read(handle,ctypes.byref(demo))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;问题： 在调用 dll 提取数据的时候，结构体中 length 字段是正常的，ctypes 定义了 BL_LPBYTE 这部分数据一直都拿不到。 请教大家应该要怎么做？&lt;/h3&gt;</description><pubDate>Thu, 14 Dec 2023 02:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000273#reply1</guid></item><item><title>[问与答] 商业清关公司大家有推荐吗？</title><link>https://www.v2ex.com/t/1000272#reply0</link><description>海淘的东西超限了，EMS 需要商业清关，找了下感觉都不正规啊。</description><pubDate>Thu, 14 Dec 2023 02:51:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000272#reply0</guid></item><item><title>[宽带症候群] 坐标江苏南通，求个装宽带的路子</title><link>https://www.v2ex.com/t/1000271#reply0</link><description>&lt;p&gt;之前白嫖公司的电信同城宽带，有 IPV4/IPV6 双栈，下 200 上 30 。&lt;/p&gt;
+&lt;p&gt;现在公司的宽带注销了，只能自己拉宽带了。目前电信、移动、联通三家中选。&lt;/p&gt;
+&lt;p&gt;想问一下各位朋友，南通联通的公网 ipv4 好要吗，有没有什么上行提速的方案&lt;/p&gt;
+&lt;p&gt;南通移动目前用得怎么样，IPv4 我知道是肯定没有的。但是要提升上行难不难？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:45:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000271#reply0</guid></item><item><title>[OpenWrt] 悲剧了，软路由的 Luci 页面访问报错</title><link>https://www.v2ex.com/t/1000270#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;设备：友善 R4SE&lt;/p&gt;
+&lt;p&gt;固件：第三方打包的 openwrt&lt;/p&gt;
+&lt;p&gt;想尝试在软路由上做 IPTV 的组播转发，用 opkg 安装了&lt;strong&gt;igmpproxy&lt;/strong&gt; 和 &lt;strong&gt;udpxy&lt;/strong&gt;。安装之前有看到提示说安装了 &lt;strong&gt;udpxy&lt;/strong&gt; 后 Web 端就会无法正常使用，没有引起注意，心想大不了恢复出厂。没想到果然悲剧了。&lt;/p&gt;
+&lt;p&gt;安装完之后，访问 Luci 地址，&lt;strong&gt;nginx&lt;/strong&gt;返回 502 错误（是的，这个版本的固件是用 nginx 而不是 uhttpd ）&lt;/p&gt;
+&lt;p&gt;报错的地址是： http://ip/cgi-bin/luci/&lt;/p&gt;
+&lt;h2&gt;排查&lt;/h2&gt;
+&lt;p&gt;nginx 日志：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci: /usr/bin/lua:
+Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci: /usr/lib/lua/luci/dispatcher.lua:7: attempt to index field 'L' (a nil value) stack traceback: 	/usr/lib/lua/luci/dispatcher.lua:7: in main chunk 	[C]: in function 'require' 	/usr/lib/lua/luci/sgi/cgi.lua:10: in main chunk 	[C]: in function 'require' 	/www/cgi-bin/luci:3: in main chunk 	[C]: ?
+Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci:
+Wed Dec 13 16:18:13 2023 daemon.err nginx[2705]: 2023/12/13 16:18:13 [error] 2982#0: *13091 upstream prematurely closed connection while reading response header from upstream, client: 192.168.4.3, server: op, request: "GET /cgi-bin/luci/admin/system/opkg HTTP/1.1", upstream: "uwsgi://unix:////var/run/luci-webui.socket:", host: "192.168.3.1", referrer: "http://192.168.3.1/cgi-bin/luci/"
+Wed Dec 13 16:18:16 2023 daemon.info uwsgi-luci: /usr/bin/lua:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;/usr/lib/lua/luci/dispatcher.lua&lt;/strong&gt;&lt;/em&gt;的部分内容&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-lua"&gt;-- Copyright 2008 Steven Barth &amp;lt;steven@midlink.org&amp;gt;
+-- Copyright 2008-2015 Jo-Philipp Wich &amp;lt;jow@openwrt.org&amp;gt;
+-- Licensed to the public under the Apache License 2.0.
+
+module("luci.dispatcher", package.seeall)
+-- 报错的第 7 行 --
+local http = _G.L.http 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;不熟悉 Lua 和 Luci ，问了 GPT ，回答_G 是全局环境，L 是 Luci 的全局变量。&lt;/p&gt;
+&lt;p&gt;请问各位大佬，如何排查和解决这个问题？在网上没找到关于 Luci 如何初始化全局环境和全局变量的资料。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:42:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000270#reply0</guid></item><item><title>[问与答] 镜框越大越需要较高的阿贝数减少边缘色散吗</title><link>https://www.v2ex.com/t/1000268#reply0</link><description>但是大框又需要高折射率来做的轻薄吧。&lt;br /&gt;        大明 x6 的 1.74 怎么样，这款是单非球面？看阿贝数也就 31 ，刚过国标。是不是只要瞳高做的对，圆框上下边缘的的色散也不会特别离谱。</description><pubDate>Thu, 14 Dec 2023 02:38:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000268#reply0</guid></item></channel></rss>
