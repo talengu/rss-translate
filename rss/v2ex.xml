@@ -1,166 +1,430 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Dec 2023 03:26:56 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 有没有好的祛除图片上的马赛克方案？</title><link>https://www.v2ex.com/t/1000290#reply0</link><description>&lt;p&gt;用了美图秀秀、其它的一些 AI 工具，效果不好，有没有这方面的专家经验？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:25:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000290#reply0</guid></item><item><title>[问与答] 鹅厂的大佬们，乐享平台里面的匿名功能是不是还是能被查到的（明知故问贴）</title><link>https://www.v2ex.com/t/1000288#reply0</link><description>公司有用到鹅的这个平台作为内部论坛，想问下 v 站大佬们，这个匿名发言也还是可以被查出来的。虽然自己觉得应该是可以的，但还是水一下求证实！！&lt;br /&gt;&lt;br /&gt;&lt;a href="https://lexiangla.com/wiki/api/11004.html#%E5%91%98%E5%B7%A5%E5%9B%9E%E7%AD%94%E5%88%97%E8%A1%A8" rel="nofollow noopener" target="_blank"&gt;https://lexiangla.com/wiki/api/11004.html#%E5%91%98%E5%B7%A5%E5%9B%9E%E7%AD%94%E5%88%97%E8%A1%A8&lt;/a&gt;</description><pubDate>Thu, 14 Dec 2023 03:23:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000288#reply0</guid></item><item><title>[职场话题] 公司骚操作来了，该如何应对</title><link>https://www.v2ex.com/t/1000287#reply0</link><description>&lt;p&gt;先介绍下情况，我入职时当时合同主体公司是 A ，2 年后要做新业务老板注册了新公司 B ，我的合同主体变更为 B 公司，上班地点、工资福利、工龄都没变。现在他要做游戏入股了一个 C 公司是大股东，C 公司办公什么的都在 B 公司，也就是说不管是 ABC 哪个公司的人都在同一栋楼。B 公司现在有 10 多个人，有我和其他几个人是老员工有 3-5 年工龄。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  他现在直接把 B 公司注销了，然后开会告诉我们说现在 2 个选择，1.公司注销期间不用来上班了，每月发当地基本工资，到几个月后注销完成再谈遣散费。2.签新公司，一切福利待遇平移过去。
-
-   签新公司就有个问题了，老板只是大股东不是法人，主体也变了，到时候他不想玩了再来这出注销公司我们找谁拿补偿去，这做法真的恶心，不签的话拖着你每月给你 2000 基本工资，等注销完都要半年左右一般人都不会等。想问下，如果他注销后发了书面通知，不想签的员工能马上主张赔偿吗？
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 03:23:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000287#reply0</guid></item><item><title>[Telegram] 我的 2023 年年度推荐频道/评论互荐频道</title><link>https://www.v2ex.com/t/1000286#reply0</link><description>&lt;h1&gt;分享一下我的 2023 年 Telegram 关注频道&lt;/h1&gt;
-&lt;h4&gt;Telegram 年终分享,包含 16 个分类,点击可跳转 github 访问。&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%9B%AE%E5%BD%95--%E7%82%B9%E5%87%BB%E5%8D%B3%E5%8F%AF%E8%AE%BF%E9%97%AE%E5%88%86%E7%B1%BB" rel="nofollow"&gt;点击访问 github&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;筛选了社区氛围比较友好，少政治，多兴趣交流类。&lt;/h4&gt;
-&lt;h4&gt;内容偏中立，比较温和有趣的频道。大家也可以分享自己喜欢的频道，互相交换&lt;/h4&gt;
-&lt;h4&gt;友情提示：TG 里凡是主动私聊找你约的，还是一些色情广告都不要相信，还有各种“赚钱”方式。骗子很多，要时刻提高警惕，不要被骗钱。&lt;/h4&gt;
-&lt;h2&gt;&lt;strong&gt;这里放上我的 2023 年年度推荐频道&lt;/strong&gt;&lt;/h2&gt;
-&lt;table&gt;
-&lt;tbody&gt;&lt;tr&gt;&lt;td&gt; &lt;b&gt;&lt;h4&gt;频道目录 | 点击分类项目即可直接访问内容&lt;/h4&gt;&lt;/b&gt;&lt;/td&gt; &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A7%91%E6%8A%80%E8%B5%84%E8%AE%AF%E7%B1%BB" rel="nofollow"&gt;科技资讯&lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/tree/main#%E7%A4%BE%E4%BC%9A%E8%B5%84%E8%AE%AF%E7%B1%BB" rel="nofollow"&gt;社会资讯&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E9%A2%91%E9%81%93%E7%B4%A2%E5%BC%95%E5%AF%BC%E8%88%AA%E5%8C%BA" rel="nofollow"&gt;频道推荐类&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%8D%9A%E5%AE%A2%E5%86%85%E5%AE%B9%E5%8C%BA" rel="nofollow"&gt;博客内容&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;书籍分享 &lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%9C%BA%E5%9C%BA%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;机场节点分享&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E7%B1%BB" rel="nofollow"&gt;资源分享&lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E7%BD%91%E7%9B%98%E5%88%86%E4%BA%AB%E5%8C%BA%E9%9F%B3%E4%B9%90%E5%BD%B1%E8%A7%86%E5%90%84%E7%A7%8D%E6%96%87%E4%BB%B6" rel="nofollow"&gt;网盘分享区(音乐，影视，各种文件）&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%AE%89%E5%8D%93pc%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E5%8C%BA" rel="nofollow"&gt;安卓/pc 软件破解 &lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%8B%B9%E6%9E%9C%E7%A0%B4%E8%A7%A3%E8%BD%AF%E4%BB%B6%E8%84%9A%E6%9C%AC%E5%8C%BA" rel="nofollow"&gt;苹果破解软件/脚本&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%B8%85%E7%BA%AF%E7%BE%8E%E5%A5%B3%E5%9B%BE" rel="nofollow"&gt;清纯美女图&lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E4%BA%8C%E6%AC%A1%E5%85%83%E7%BE%8E%E5%9B%BE" rel="nofollow"&gt;二次元美图&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E5%A3%81%E7%BA%B8%E5%88%86%E4%BA%AB%E5%8C%BA" rel="nofollow"&gt;壁纸分享区&lt;/a&gt; &lt;/td&gt;
-&lt;td&gt;&lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E6%90%9E%E7%AC%91%E6%A2%97%E5%9B%BE%E5%8C%BA" rel="nofollow"&gt;搞笑梗图区&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#%E8%A1%A8%E6%83%85%E8%B4%B4%E7%BA%B8%E5%8C%BA" rel="nofollow"&gt;表情贴纸区&lt;/a&gt; &lt;/td&gt;
-&lt;td&gt; &lt;a href="https://github.com/ran3344/telegramchannel/blob/main/README.md#tg%E6%90%9C%E7%B4%A2%E6%9C%BA%E5%99%A8%E4%BA%BA" rel="nofollow"&gt;TG 搜索机器人&lt;/a&gt; &lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;看到有人分享，我也分享了我自己的关注列表。希望能找到合适的频道。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:22:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000286#reply0</guid></item><item><title>[问与答] 大佬们有什么支持自定义背景图和加水印的笔记软件或备忘录软件</title><link>https://www.v2ex.com/t/1000285#reply0</link><description>需求：用来编辑一下文字，要加上自定义的背景图，然后最好也可以生成图片打水印。快速生成一个图片。  轻量。&lt;br /&gt;&lt;br /&gt;使用端：手机安卓端&lt;br /&gt;&lt;br /&gt;尝试过：&lt;br /&gt;自带的华为备忘录，锤子便签，都不能自定义背景图，只能改下默认背景颜色模板。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;各位大佬来推荐一下。</description><pubDate>Thu, 14 Dec 2023 03:22:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000285#reply0</guid></item><item><title>[问与答] 公司有一个小实验室需要无纸化办公,预算最高不超过五位数,该怎么做?</title><link>https://www.v2ex.com/t/1000284#reply0</link><description>&lt;p&gt;刚入职这家公司没多久,领导让我帮他一起看看有没有办法花最少成本满足,以下的要求该用什么满足?&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. 有一个简易的进单系统，实现进单操作无纸化，能够自动根据编号规则给出一个唯一的收验编号（不包括进样后微信群里通知）。应有按账号分级管理（比如，普通账号只能收样登记、选择登记人、数据录入；管理员账号还能确认检验对象完成、更改录入数据内容、生成报告；游客账号只能登录查看状态，不能进行数据的更改和报告的打印）；  
-2. QC 员应能通过该系统，将检验结果录入（复核后），一旦录入无法更改；对于需要培养的项目，应能填写项目预计完成的时间点；  
-3. 所有检验完成后，系统能在首页醒目位置进行可出报告提示（这个功能不强求）。  
-4. 能按指定的报告模板内容，在填写好除检验结果外的其他必要信息后（如生产日期和效期、检验依据等）（检验编号、名称、批号、请验日期和报告日期应能从进单时的信息录入时自动抓取），一键生成报告（包括普通检验报单和商业报单）。  
-5. 报告上的签名，如果可以电子签名更佳（这个功能目前不迫切，同时也不是必需）。  
-6. 后台的报告模板内容应易于编写或更新；生成报告打印前，应能进行除检验数据外其他信息的更新或更改。  
-7. 应能在云端共享该系统。如果该功能困难，可以是局域网共享。
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 03:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000284#reply0</guid></item><item><title>[宽带症候群] 求助！索尼电视接 USB3.0 转千兆网口速度还是只有 300M</title><link>https://www.v2ex.com/t/1000282#reply0</link><description>因为家里经常要连接 NAS 观看 4K 原盘电影，受制于索尼电视孱弱的百兆网口，很多时候都会有点卡顿，网上搜索到由于索尼电视可以通过连接 USB3.0 转千兆网口的转接器实现千兆网速。条件是：&lt;br /&gt;  1. 电视需要有 USB3.0 接口（蓝灰色）&lt;br /&gt;  2. 安卓 10.0 系统&lt;br /&gt;  3. 转接器使用 RTL8153 或 RTL8153B 芯片&lt;br /&gt;  4. 当然，家里路由器或光猫带千兆网口，网线是千兆网线&lt;br /&gt;照着以上条件，在 jd 上买了山泽的一款转换器，发现网速只能到 200+左右。以为是转换器的问题，又照着教程博主购买了品联的转换器，还是只能跑到 300M 左右。&lt;br /&gt;电视机型是 Sony A80K ，测试了网口-转换器-电脑，网速能到千兆，电视也更新过重启过，WiFi 始终关闭状态。现在就是百思不得其解到底是哪个环节出了问题，求大佬们帮忙分析一下，谢谢。</description><pubDate>Thu, 14 Dec 2023 03:10:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000282#reply0</guid></item><item><title>[酷工作] 高级安卓应用开发工程师-上海-50-80k/M（英文）</title><link>https://www.v2ex.com/t/1000281#reply0</link><description>&lt;p&gt;工作地点：上海市长宁区 BOCE 大厦
-薪酬：税前 50k-60k/M
-其他：年假 10-20 天，带薪病假 10 天，团建，个人发展预算等
-公司：&lt;a href="http://www.caper.ai" rel="nofollow"&gt;www.caper.ai&lt;/a&gt;
-有兴趣可直接联系：Qing-876217551/ 邮箱： &lt;a href="mailto:sevensun0706@gmail.com"&gt;sevensun0706@gmail.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;关于岗位:
-*负责 Android 应用和 Framework 开发和维护，尤其是购物车称重及认证相关工作。&lt;/p&gt;
-&lt;p&gt;你的主要工作/岗位职责:
-*负责购物车称重认证相关的工作，包含算法优化、软件合规改造等。
-*负责 Android 应用和服务的开发和维护工作。
-*负责 Framework 层相关功能开发工作。&lt;/p&gt;
-&lt;p&gt;我们希望你/任职要求:
-1.全日制本科及以上学历，熟练掌握 Java/Kotlin 等编程语言。
-2.英语听说读写流利。
-3.有较好的数学建模和算法基础。
-4.5 年以上 Android APP 开发经验，有一定的技术架构能力。&lt;/p&gt;
-&lt;p&gt;若你具备下面的能力/经验更佳：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Dec 2023 18:49:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 想知道闲鱼上带激活锁的机器都是怎么来的</title><link>https://www.v2ex.com/t/1000531#reply0</link><description>&lt;p&gt;最近想买一个 m1 的 mac 电脑，发现很多 3000 左右的电脑都是带激活锁的，不能进桌面。这种比正常的电脑要便宜 1000 多，问了几个卖家都说密码忘了。好像是 appleid 的密码只要手机号就能找回？不理解为什么会带着锁卖，而且还有很多带锁的 iphone 和 ipad ，价格都很便宜。如果是偷来的应该不会有这么大的量吧&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 17:32:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000531#reply0</guid></item><item><title>[Bing] 如何解决挂梯搜索 bing 时跳转中国/显示未找到结果的问题</title><link>https://www.v2ex.com/t/1000530#reply0</link><description>备选方案 1：调整规则，直连 bing&lt;br /&gt;&lt;br /&gt;问题：无法访问 newbing&lt;br /&gt;&lt;br /&gt;备选方案 2：全面使用 google&lt;br /&gt;&lt;br /&gt;问题：我也有不想打开梯子的场合&lt;br /&gt;&lt;br /&gt;备选方案 3：使用一个稳定的美国节点，防止 bing 跳转&lt;br /&gt;&lt;br /&gt;问题：我手上的梯子订阅无法满足这一点，得加钱&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;请问还有什么办法吗</description><pubDate>Thu, 14 Dec 2023 17:25:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000530#reply0</guid></item><item><title>[问与答] 阿里云是不是又有点小问题了</title><link>https://www.v2ex.com/t/1000529#reply0</link><description>1 点多时候网页和 app 扫码都登不上去</description><pubDate>Thu, 14 Dec 2023 17:23:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000529#reply0</guid></item><item><title>[Apple] ios17.2 apple music 貌似可以另外登录共享账号</title><link>https://www.v2ex.com/t/1000528#reply1</link><description>&lt;p&gt;设置-音乐-拉到最低就会看到一个家庭共享选项，由于我自己没有加入家庭的账号，所以试不了&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 17:16:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000528#reply1</guid></item><item><title>[iCloud] deleted</title><link>https://www.v2ex.com/t/1000527#reply0</link><description></description><pubDate>Thu, 14 Dec 2023 17:06:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000527#reply0</guid></item><item><title>[WireGuard] 免费 WireGuard 节点</title><link>https://www.v2ex.com/t/1000526#reply0</link><description>地点最好在欧盟成员国境内&lt;br /&gt;&lt;br /&gt;注:免费试用的话最好 1 年</description><pubDate>Thu, 14 Dec 2023 16:58:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000526#reply0</guid></item><item><title>[分享发现] 我去， GPT4.5 要来了</title><link>https://www.v2ex.com/t/1000525#reply3</link><description>&lt;p&gt;黏贴不了图片&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 16:42:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000525#reply3</guid></item><item><title>[Go 编程语言] 写了一个 ssh 客户端，欢迎体验</title><link>https://www.v2ex.com/t/1000524#reply4</link><description>&lt;h2&gt;需求来源&lt;/h2&gt;
+&lt;p&gt;对于一个后端程序员来说，在工作中免不了要和繁杂的服务器打交道，ssh 是不可或缺的开发工具。但每次登录都需要输入密码的行为，对于认为一切皆可自动化的程序员来说，肯定是有点繁琐的（如果您是使用图形化界面的用户可忽略）。&lt;/p&gt;
+&lt;p&gt;所以我在前段时间考虑，我应该自己实现一个 ssh 客户端，它不需要拥有许多复杂的功能，只需要满足我以下这几个需求即可满足日常使用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;和 ssh 保持差不多的使用习惯&lt;/li&gt;
+&lt;li&gt;仅在第一次登录时询问我密码，后续使用无需再提供密码&lt;/li&gt;
+&lt;li&gt;可以给服务器它任意的标签，这样我就可以自由地通过 IP 或者标签来登录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;于是乎，近期我在业余时间就设计并编写了 &lt;a href="https://github.com/vimiix/ssx" rel="nofollow"&gt;ssx&lt;/a&gt; 这个轻量级的具有记忆的 ssh 客户端。它完美的实现了上面我所需要的功能，也已经被我愉快的应用到了日常的开发中。&lt;/p&gt;
+&lt;p&gt;项目源码地址：&lt;a href="https://github.com/vimiix/ssx" rel="nofollow"&gt;https://github.com/vimiix/ssx&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;使用方式&lt;/h2&gt;
+&lt;p&gt;下面就简单介绍一下 ssx 的使用方式。&lt;/p&gt;
+&lt;p&gt;ssx 是通过  golang 开发的一个独立的二进制文件，安装方式就是从 &lt;a href="https://github.com/vimiix/ssx/releases" rel="nofollow"&gt;release&lt;/a&gt; 页面下载对应平台的软件包，解压后把 ssx 二进制放到系统的任意目录下，这里我习惯放到 &lt;code&gt;/usr/local/bin&lt;/code&gt; 目录下，如果你选择其他目录下，需要确保存放的目录添加到 $PATH 环境变量中，这样后续使用我们就不用再添加路径前缀，直接通过 ssx 命令就可以运行了。&lt;/p&gt;
+&lt;h3&gt;登录服务器&lt;/h3&gt;
+&lt;p&gt;使用  ssx 登录服务器的时候，基本和  ssh 使用习惯一致，下面是基本命令模式：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;ssx [-s] [USER@]HOST[:PORT] [-k IDENTITY_FILE]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在这个命令中，&lt;code&gt;USER&lt;/code&gt; 是可以省略的，如果省略则是系统当前用户名；&lt;code&gt;PORT&lt;/code&gt; 是可以省略的，默认是 22 ，&lt;code&gt;-k IDENTITY_FILE&lt;/code&gt; 代表如果是使用私钥登录，则通过 &lt;code&gt;-k&lt;/code&gt; 来指定私钥的路径，也是可以省略的，默认是 &lt;code&gt;~/.ssh/id_rsa&lt;/code&gt;，当然了，前提是这个文件存在。所以最精简的登录命令就是：&lt;code&gt;ssx &amp;lt;ip&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;当首次登录，不存在可用私钥时，会通过交互方式来让用户输入密码，一旦登录成功，这个密码就会被 ssx 保存到本地的数据文件中 (默认为 &lt;code&gt;~/.ssx/db&lt;/code&gt;， 可通过环境变量 &lt;code&gt;SSX_DB_PATH&lt;/code&gt; 进行自定义)，下次登录时，仍然执行 &lt;code&gt;ssx &amp;lt;ip&amp;gt;&lt;/code&gt; 即可自动登录。&lt;/p&gt;
+&lt;p&gt;注意，登录过的服务器，再次登录时，我嫌输入全部 IP 比较麻烦，所以 ssx 支持输入 IP 中的部分字符，自动搜索匹配进行登录。&lt;/p&gt;
+&lt;h3&gt;为服务器打标签&lt;/h3&gt;
+&lt;p&gt;当我们成功登录过一次服务器后，就可以通过 &lt;code&gt;ssx list&lt;/code&gt; 命令来查看目前 ssx 存储的所有服务器列表。下面是一个列表示例：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;# output example
+# Entries (stored in ssx)
+#  ID |       Address        |          Tags
+#-----+----------------------+--------------------------
+#  1  | root@172.23.1.84:22  | centos
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ssx 会给每个服务器分配一个唯一的 ID ，我们在打标签时就需要通过 ID 来指定服务器条目。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;当然，既然服务器有唯一 ID ，ssx 也支持通过 ID 来进行登录：&lt;code&gt;ssx -i &amp;lt;ID&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;打标签需要通过  ssx 的子命令 &lt;code&gt;tag&lt;/code&gt; 来完成，下面是 tag 命令的模式：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;ssx tag -i &amp;lt;ENTRY_ID&amp;gt; [-t TAG1 [-t TAG2 ...]] [-d TAG3 [-d TAG4 ...]]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-i&lt;/code&gt; 指定 list 命令输出的要操作的服务器对应的 ID 字段&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-t&lt;/code&gt; 指定要添加的标签名，可以多次指定就可以同时添加多个标签&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-d&lt;/code&gt; 指定要删除的标签名，同样也可以多次指定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;当我们完成对服务器的打标签后，比如上面示例中的服务器，我增加了一个 &lt;code&gt;centos&lt;/code&gt; 的标签，那么我此时就可以通过标签来进行登录了：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;// -t 可省略
+ssx [-t] centos
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;删除服务器记录&lt;/h3&gt;
+&lt;p&gt;ssx 也支持删除服务器记录，命令如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;ssx delete -i &amp;lt;ID&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;一旦删除，ssx 不会保留该服务器的任何信息，所以下次登录时会等同于新的服务器来对待，ID 也会重新生成。&lt;/p&gt;
+&lt;h3&gt;目前支持的环境变量&lt;/h3&gt;
+&lt;p&gt;除了上面提到的 &lt;code&gt;SSX_DB_PATH&lt;/code&gt; 可以指定存储数据的文件外，ssx 还支持：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SSX_CONNECT_TIMEOUT&lt;/code&gt;：SSH 连接超时时间，默认为 &lt;code&gt;10s&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SSX_IMPORT_SSH_CONFIG&lt;/code&gt;：是否引用用户 ssh 配置，默认为空&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这里我解释一下 &lt;code&gt;SSX_IMPORT_SSH_CONFIG&lt;/code&gt; 的作用，这个环境变量不设置时，ssx 默认是不会读取用户的 &lt;code&gt;~/.ssh/config&lt;/code&gt; 文件的，ssx 只使用自己存储文件进行检索。如果将这个环境变量设置为非空（任意字符串），ssx 就会在初始化的时候加载用户 ssh 配置文件中存在的服务器条目，&lt;strong&gt;但 ssx 仅读取用于检索和登录，并不会将这些条目持久化到 ssx 的存储文件中&lt;/strong&gt;，所以，如果 ssx IP 登录时，这个 IP 是 &lt;code&gt;~/.ssh/config&lt;/code&gt; 文件中已经配置过登录验证方式的服务器，ssx 匹配到就直接登录了。但 &lt;code&gt;ssx list&lt;/code&gt; 查看时，该服务器会被显示到 &lt;code&gt;found in ssh config&lt;/code&gt; 的表格中，这个表格中的条目是不具有 ID 属性的，以下是一个示例：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;export SSX_IMPORT_SSH_CONFIG=true
+ssx list
+# output example
+# Entries (stored in ssx)
+#  ID |       Address        |          Tags
+#-----+----------------------+--------------------------
+#  1  | root@172.23.1.84:22  | centos
+#
+# Entries (found in ssh config)
+#               Address              |           Tags
+# -----------------------------------+----------------------------
+#   git@ssh.github.com:22            | github.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;操作演示&lt;/h3&gt;
+&lt;p&gt;最后通过一个演示动画来感受一下这个小可爱的功能吧。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="demo" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/vimiix/ssx/master/static/demo.svg?sanitize=true" /&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 16:24:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000524#reply4</guid></item><item><title>[分享创造] AI 简历评价器，现在也支持中文版</title><link>https://www.v2ex.com/t/1000523#reply1</link><description>&lt;p&gt;先上链接： &lt;a href="https://www.recruitment-copilot.com/" rel="nofollow"&gt;https://www.recruitment-copilot.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;当然，英文版简历一如既往地支持。界面仍然是英文的，不过不要紧，上传中文简历，就会收获中文评价&lt;/p&gt;
+&lt;p&gt;上传简历后，会收到整体评价和打分、缺点、优点，可能的面试问题，以及薪资的预估&lt;/p&gt;
+&lt;p&gt;下面是一个例子（具体项目信息做了特殊处理）：&lt;/p&gt;
+&lt;h3&gt;整体评价：&lt;/h3&gt;
+&lt;p&gt;85/100 候选人简历清晰明了，重点突出，展现出扎实的技术功底和丰富的项目经验。&lt;/p&gt;
+&lt;h3&gt;总结：&lt;/h3&gt;
+&lt;p&gt;候选人具备扎实的后端开发能力和丰富的数据库研发经验，擅长分布式系统和数据库，并在开源社区和个人项目中有不俗表现。&lt;/p&gt;
+&lt;h3&gt;缺点：&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;度量衡相关的技术经验优先
-2.有 Android Framework 经验优先&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 14 Dec 2023 03:06:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000281#reply0</guid></item><item><title>[Linux] 如何高帧率串流 Windows 虚拟机画面到 PVE 主机？</title><link>https://www.v2ex.com/t/1000280#reply2</link><description>&lt;p&gt;PVE 主机是一台笔记本电脑，自带 144 Hz 的屏幕，安装了 KDE 桌面。主机浏览器里测试有 144 fps 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/jpBPGi9.png" /&gt;&lt;/p&gt;
-&lt;p&gt;vGPU unlock 显示正常。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JiknYB0.png" /&gt;&lt;/p&gt;
-&lt;p&gt;采用 sunshine + moonlight 串流，moonlight 设置了 144 fps 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Ottkjek.png" /&gt;&lt;/p&gt;
-&lt;p&gt;但在 Windows 虚拟机测试的结果只有 60 fps 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MgXSJVz.png" /&gt;&lt;/p&gt;
-&lt;p&gt;查看 Windows 虚拟机的 Nvidia 控制面板，vGPU 工作正常，但刷新率只有 60 Hz 选项。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/L3lKOOn.png" /&gt;&lt;/p&gt;
-&lt;p&gt;各位知道怎么解锁高刷新率吗？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 03:03:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000280#reply2</guid></item><item><title>[酷工作] 招聘 iOS 工程师, 海外网络加速器方向</title><link>https://www.v2ex.com/t/1000279#reply0</link><description>岗位要求: 有 网络加速器 相关开发经验 ， 精通多种协议（ ikev2 ，wireguard ，openudp ，opentcp 等）&lt;br /&gt;工作时间: 9:00~6:30, 周六如果要加班有调休, 一般不需要 （工资具体私谈）&lt;br /&gt;地址:  广州天河，有意者发简历至： wangran404@gmail.com</description><pubDate>Thu, 14 Dec 2023 03:03:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000279#reply0</guid></item><item><title>[问与答] 关于银行卡被限制非柜面业务的问题</title><link>https://www.v2ex.com/t/1000278#reply9</link><description>先说下事情经过：都是自己的卡，从 a-&amp;gt;b, b-&amp;gt;c ，在 b-&amp;gt;c 的过程中 b 卡被限制非柜面。&lt;br /&gt;说是反诈限制的。然后在 b 银行打流水写文件签字，递交所辖公安。&lt;br /&gt;提交材料后第二个工作日解除限制。公安回复说无异常，限制解除。&lt;br /&gt;&lt;br /&gt;从限制到解除，其间因为上班在外地等各种原因 2 周时间。&lt;br /&gt;自己被折腾跑了两家支行营业厅不说，2 周没有利息。&lt;br /&gt;&lt;br /&gt;在我理解因为他们误判，导致我个人损失，挺恶心人的。投诉无门，所以这种情况去哪里举报。虽然知道举报也没用。有 V2 大佬有经验的吗，来讨论下。</description><pubDate>Thu, 14 Dec 2023 03:01:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000278#reply9</guid></item><item><title>[Debian] apt install 安装的东西附带的依赖 为什么在 purge 之后 autoremove 删不掉</title><link>https://www.v2ex.com/t/1000277#reply0</link><description>&lt;p&gt;是有其他组件依赖吗  为什么总感觉 debian 删东西删不干净&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:59:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000277#reply0</guid></item><item><title>[问与答] 狗云的香港 CLD bgp 线路 物理机值得入吗？</title><link>https://www.v2ex.com/t/1000276#reply0</link><description>&lt;p&gt;600/月，感觉性价比很高。
-问题是，测试 ip 也没有，客服也找不到，qq 电报，邮箱统统没回应。
-有没有用过狗云独立物理机反馈一下使用体验？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:57:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000276#reply0</guid></item><item><title>[反馈] 刚回复帖子弹出“抱歉，这条信息暂时无法发送......"再次访问无法加载网站内容，页面显示为空白。疑似 IP 地址被封禁或限制</title><link>https://www.v2ex.com/t/1000275#reply1</link><description>我非计算机专业&lt;br /&gt;&lt;br /&gt;弹出的信息框：&lt;br /&gt;抱歉，这条信息暂时无法发送。这有可能是我们的检测规则的误判。整个过程中的元信息已经记录下来，我们会进行分析。如果你确信这是我们的规则误判，可以邮件联系 support@v2ex.com 进行申诉。谢谢你的理解。&lt;br /&gt;&lt;br /&gt;我认为可能的敏感词（怕被封 IP ，请自行想像）&lt;br /&gt;武昌鱼： ______《水调歌头·游泳》中有诗赞美它。&lt;br /&gt;&lt;br /&gt;再次访问 &lt;a href="http://v2ex.com" rel="nofollow noopener" target="_blank"&gt;v2ex.com&lt;/a&gt; 无法加载网站内容，页面显示为空白&lt;br /&gt;&lt;br /&gt;我以为是 IP 地址被封禁或限制&lt;br /&gt;无法访问 &lt;a href="http://v2ex.com" rel="nofollow noopener" target="_blank"&gt;v2ex.com&lt;/a&gt; 的 IP 地址&lt;br /&gt;&lt;br /&gt;170.187.181.91</description><pubDate>Thu, 14 Dec 2023 02:55:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000275#reply1</guid></item><item><title>[Apple] Junk World 闪退</title><link>https://www.v2ex.com/t/1000274#reply0</link><description>&lt;p&gt;iPhone 13 Pro Max 国行
-美国区 Apple ID ，下载了 Junk World, 经常闪退，删除游戏重启安装也解决不了。&lt;/p&gt;
-&lt;p&gt;求解决思路和方法。&lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:54:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000274#reply0</guid></item><item><title>[Python] 关于 Python 调用 dll 求助</title><link>https://www.v2ex.com/t/1000273#reply1</link><description>&lt;h5&gt;python 小白，现在需要使用 python 去调一个第三方的 dll 文件，dll 没法改,下面是 dll 中的数据结构&lt;/h5&gt;
-&lt;pre&gt;&lt;code&gt;/*----------------------------------------------------------------------------
-|
-| Define pointers
-|
------------------------------------------------------------------------------*/
-
-#ifndef PL_BYTE
-#define PL_BYTE uint8_t *
-#endif
-
-/*----------------------------------------------------------------------------
-|
-| Define structs
-|
------------------------------------------------------------------------------*/
-
-typedef struct DEMO_t
-{
-  uint16_t        length;
-  PL_BYTE       payLoad;                    /* 长度取决于 length 的值*/
-} DEMO;
+&lt;li&gt;
+&lt;p&gt;缺乏个人简历摘要或自我介绍，简历开头需要再加入一段自我概括，突出个人亮点和职业目标。例如：技术驱动的后端开发者，擅长分布式数据库研发与调优，具备丰富的项目经验和开源贡献。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教育经历未突出成绩或荣誉，可以添加 GPA 和奖学金等信息。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工作经历中最好加入项目成果和影响，具体说明自己在项目中取得的成就，以及对现有业务或团队的贡献。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;个人项目可以进一步突出项目的难点、解决方案和成果，以及对自己技术能力和创新能力的展示。例如，可以在项目描述中添加使用的技术栈、解决了什么具体问题，取得了怎样的成果和影响。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;优点：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;具备扎实的技术功底，包括编程语言、分布式系统/数据库、开发工具等方面的知识和经验。 打磨简历建议：在简历中突出自己的独特技能，可以在“技能”部分中使用技能标签将自己擅长的技术方向突出，例如 "擅长 Golang/Rust/Python" 等。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在开源贡献和个人项目中展现出积极性和学习能力。 打磨简历建议：在个人项目和开源贡献中加入自己的具体贡献，例如解决了哪些难题、代码的影响等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;面试问题：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;您在 TT 调度组件 OO 的研发工作中，遇到过哪些技术难点，您是如何解决的？ &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;请分享一次在懂车帝 App 垂直业务相关的后端研发中的成功经验，以及您的贡献和影响。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;您在个人项目中获得的 Hackathon YYYY 三等奖，能分享一下背后的技术亮点和创新之处吗？ &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;您在分布式系统/数据库领域有丰富经验，方便分享一下您对 ZZ 和 Raft 算法的理解和应用实践吗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;您在开源项目贡献中提到为多个知名开源项目组织贡献过代码，能具体分享一下您的贡献和影响吗？ &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;请描述一次您在工作中面临的技术挑战以及您如何克服它的经历。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;您在个人博客上坚持写作，可以分享一下您认为最有价值的一篇技术分享文章吗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;您提到自己有使用遗传算法解决过 XX 问题的经验，请分享一下具体的解决方案和效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;预估薪水：&lt;/h3&gt;
+&lt;p&gt;中国大陆一线城市：25k-35k RMB/月 中国大陆二线城市：15k-25k RMB/月 北美：90k-120k USD/年&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 16:11:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000523#reply1</guid></item><item><title>[魅族] Root 相关</title><link>https://www.v2ex.com/t/1000522#reply0</link><description>1.能不能在不刷机的情况下关闭 Root&lt;br /&gt;2.能不能在有 Root 情况下更新系统&lt;br /&gt;&lt;br /&gt;注:关闭 Root 总是有点麻烦,需要备份软件以及配置&lt;br /&gt;注 2:开启 Root 容易,关闭复杂</description><pubDate>Thu, 14 Dec 2023 16:06:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000522#reply0</guid></item><item><title>[分享发现] 生成你的 2023GitHub 总结视频</title><link>https://www.v2ex.com/t/1000521#reply1</link><description>&lt;a href="https://githubunwrapped.com" rel="nofollow noopener" target="_blank"&gt;https://githubunwrapped.com&lt;/a&gt;</description><pubDate>Thu, 14 Dec 2023 15:53:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000521#reply1</guid></item><item><title>[NAS] 关于 fio 延迟指标的选择和计算</title><link>https://www.v2ex.com/t/1000519#reply0</link><description>&lt;p&gt;是这样的，我写了 fio 测试脚本，然后有观众提议放个读写延迟上去。我现在有点纠结应该放哪个数值.
+我打算取"lat_ns"的"mean" 也就是值 2718863.941184 。 不知道这个是否合理？ 这个值我要不要再除以 11292449 ？有点噶住了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+      "jobname" : "read,RND4K-Q32T16",
+      "groupid" : 10,
+      "error" : 0,
+      "eta" : 0,
+      "elapsed" : 786,
+      "job options" : {
+        "name" : "read,RND4K-Q32T16",
+        "rw" : "randread",
+        "iodepth" : "32",
+        "bs" : "4k",
+        "numjobs" : "16"
+      },
+      "read" : {
+        "io_bytes" : 46253879296,
+        "io_kbytes" : 45169804,
+        "bw_bytes" : 770782370,
+        "bw" : 752717,
+        "iops" : 188170.991018,
+        "runtime" : 60009,
+        "total_ios" : 11291953,
+        "short_ios" : 0,
+        "drop_ios" : 0,
+        "slat_ns" : {
+          "min" : 1780,
+          "max" : 19582823,
+          "mean" : 11969.273414,
+          "stddev" : 18417.052843,
+          "N" : 11291955
+        },
+        "clat_ns" : {
+          "min" : 74196,
+          "max" : 35534486,
+          "mean" : 2706894.667020,
+          "stddev" : 1860837.645574,
+          "N" : 11292449,
+          "percentile" : {
+            "1.000000" : 522240,
+            "5.000000" : 716800,
+            "10.000000" : 888832,
+            "20.000000" : 1187840,
+            "30.000000" : 1499136,
+            "40.000000" : 1843200,
+            "50.000000" : 2211840,
+            "60.000000" : 2670592,
+            "70.000000" : 3194880,
+            "80.000000" : 3948544,
+            "90.000000" : 5210112,
+            "95.000000" : 6520832,
+            "99.000000" : 8847360,
+            "99.500000" : 9633792,
+            "99.900000" : 11730944,
+            "99.950000" : 13565952,
+            "99.990000" : 20578304
+          }
+        },
+        "lat_ns" : {
+          "min" : 228921,
+          "max" : 35536822,
+          "mean" : 2718863.941184,
+          "stddev" : 1860842.689662,
+          "N" : 11292449
+        },
+        "bw_min" : 697879,
+        "bw_max" : 810166,
+        "bw_agg" : 100.000000,
+        "bw_mean" : 753568.975000,
+        "bw_dev" : 1207.788641,
+        "bw_samples" : 1920,
+        "iops_min" : 174463,
+        "iops_max" : 202538,
+        "iops_mean" : 188389.150000,
+        "iops_stddev" : 301.956112,
+        "iops_samples" : 1920
+      },
+      。。。。。
+    },
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 15:35:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000519#reply0</guid></item><item><title>[问与答] 更新后， Win11 上编译 C++常用库被 Defender 报毒</title><link>https://www.v2ex.com/t/1000517#reply1</link><description>&lt;p&gt;各位 V 友帮我看看是我中病毒了还是确实是误报&lt;/p&gt;
+&lt;p&gt;在今天更新完系统后，包括 opencv, zlib, eigen 在内的库均无法编译，全被 Defender 拦截了&lt;/p&gt;
+&lt;p&gt;下面是以我编译 zlib-1.3 为例&lt;/p&gt;
+&lt;h3&gt;Environment&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;MinGW 11.2.0&lt;/li&gt;
+&lt;li&gt;CMake 3.24.2&lt;/li&gt;
+&lt;li&gt;Windows 11 (23H2, 22631.2861)&lt;/li&gt;
+&lt;li&gt;Security intelligence version(Defender): 1.403.485.0 (last update 2023.12.14)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Library&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.zlib.net/" rel="nofollow"&gt;zlib-1.3&lt;/a&gt;( &lt;a href="https://www.zlib.net/zlib13.zip" rel="nofollow"&gt;https://www.zlib.net/zlib13.zip&lt;/a&gt;)&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sig"&gt;SHA-256
+c561d09347f674f0d72692e7c75d9898919326c532aab7f8c07bb43b07efeb38
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h5&gt;这个 dll 中有个 read 方法，可以从文件中读取出对应的 DEMO 数据。下面是 python 的代码：&lt;/h5&gt;
-&lt;pre&gt;&lt;code&gt;# 定义 BL_LPBYTE 类型
-BL_LPBYTE = ctypes.POINTER(uint8_t)
-
-class DEMO_DATA(ctypes.Structure):
-    _fields_ = [
-        ("length", ctypes.c_uint16),
-        ("payLoad", BL_LPBYTE),
-    ]
-
-# 加载 dll
-dll = ctypes.CDLL('demo.dll')
-
-# 定义 dll 中的 Read 方法, 其实我也不太懂为什么要这样
-dll.Read.argtypes = [ctypes.c_void_p, ctypes.POINTER(DEMO)]
-dll.dll.restype = ctypes.c_int32
-
-# 创建文件，数据源
-handle = dll.Create('file.target')
-
-# 创建结构体
-demo = DEMO()
-
-# 读取数据，正常传入文件以及结构体，dll 会自动像结构体中存入数据
-dll.Read(handle,ctypes.byref(demo))
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Command&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-powershell"&gt;C:/Qt/Tools/CMake_64/bin/cmake.exe -G "MinGW Makefiles" -D CMAKE_C_COMPILER=gcc -D CMAKE_CXX_COMPILER=g++ -D CMAKE_C_FLAGS_DEBUG=-O3 -D CMAKE_C_FLAGS_RELEASE=-O3 -D CMAKE_CXX_FLAGS_DEBUG=-O3 -D CMAKE_CXX_FLAGS_RELEASE=-O3 -D CMAKE_BUILD_TYPE=Debug -D CMAKE_PREFIX_PATH="C:/Work/dep/MinGW11.2.0/Debug;${CMAKE_PREFIX_PATH}" -D CMAKE_INSTALL_PREFIX="C:/Work/dep/MinGW11.2.0/Debug/zlib-1.3" -B . -S ..
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;问题： 在调用 dll 提取数据的时候，结构体中 length 字段是正常的，ctypes 定义了 BL_LPBYTE 这部分数据一直都拿不到。 请教大家应该要怎么做？&lt;/h3&gt;</description><pubDate>Thu, 14 Dec 2023 02:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000273#reply1</guid></item><item><title>[问与答] 商业清关公司大家有推荐吗？</title><link>https://www.v2ex.com/t/1000272#reply0</link><description>海淘的东西超限了，EMS 需要商业清关，找了下感觉都不正规啊。</description><pubDate>Thu, 14 Dec 2023 02:51:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000272#reply0</guid></item><item><title>[宽带症候群] 坐标江苏南通，求个装宽带的路子</title><link>https://www.v2ex.com/t/1000271#reply0</link><description>&lt;p&gt;之前白嫖公司的电信同城宽带，有 IPV4/IPV6 双栈，下 200 上 30 。&lt;/p&gt;
-&lt;p&gt;现在公司的宽带注销了，只能自己拉宽带了。目前电信、移动、联通三家中选。&lt;/p&gt;
-&lt;p&gt;想问一下各位朋友，南通联通的公网 ipv4 好要吗，有没有什么上行提速的方案&lt;/p&gt;
-&lt;p&gt;南通移动目前用得怎么样，IPv4 我知道是肯定没有的。但是要提升上行难不难？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:45:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000271#reply0</guid></item><item><title>[OpenWrt] 悲剧了，软路由的 Luci 页面访问报错</title><link>https://www.v2ex.com/t/1000270#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;设备：友善 R4SE&lt;/p&gt;
-&lt;p&gt;固件：第三方打包的 openwrt&lt;/p&gt;
-&lt;p&gt;想尝试在软路由上做 IPTV 的组播转发，用 opkg 安装了&lt;strong&gt;igmpproxy&lt;/strong&gt; 和 &lt;strong&gt;udpxy&lt;/strong&gt;。安装之前有看到提示说安装了 &lt;strong&gt;udpxy&lt;/strong&gt; 后 Web 端就会无法正常使用，没有引起注意，心想大不了恢复出厂。没想到果然悲剧了。&lt;/p&gt;
-&lt;p&gt;安装完之后，访问 Luci 地址，&lt;strong&gt;nginx&lt;/strong&gt;返回 502 错误（是的，这个版本的固件是用 nginx 而不是 uhttpd ）&lt;/p&gt;
-&lt;p&gt;报错的地址是： http://ip/cgi-bin/luci/&lt;/p&gt;
-&lt;h2&gt;排查&lt;/h2&gt;
-&lt;p&gt;nginx 日志：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci: /usr/bin/lua:
-Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci: /usr/lib/lua/luci/dispatcher.lua:7: attempt to index field 'L' (a nil value) stack traceback: 	/usr/lib/lua/luci/dispatcher.lua:7: in main chunk 	[C]: in function 'require' 	/usr/lib/lua/luci/sgi/cgi.lua:10: in main chunk 	[C]: in function 'require' 	/www/cgi-bin/luci:3: in main chunk 	[C]: ?
-Wed Dec 13 16:18:13 2023 daemon.info uwsgi-luci:
-Wed Dec 13 16:18:13 2023 daemon.err nginx[2705]: 2023/12/13 16:18:13 [error] 2982#0: *13091 upstream prematurely closed connection while reading response header from upstream, client: 192.168.4.3, server: op, request: "GET /cgi-bin/luci/admin/system/opkg HTTP/1.1", upstream: "uwsgi://unix:////var/run/luci-webui.socket:", host: "192.168.3.1", referrer: "http://192.168.3.1/cgi-bin/luci/"
-Wed Dec 13 16:18:16 2023 daemon.info uwsgi-luci: /usr/bin/lua:
+&lt;pre&gt;&lt;code class="language-powershell"&gt;C:/Qt/Tools/CMake_64/bin/cmake.exe --build .
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;/usr/lib/lua/luci/dispatcher.lua&lt;/strong&gt;&lt;/em&gt;的部分内容&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-lua"&gt;-- Copyright 2008 Steven Barth &amp;lt;steven@midlink.org&amp;gt;
--- Copyright 2008-2015 Jo-Philipp Wich &amp;lt;jow@openwrt.org&amp;gt;
--- Licensed to the public under the Apache License 2.0.
+&lt;pre&gt;&lt;code class="language-powershell"&gt;C:/Qt/Tools/CMake_64/bin/cmake.exe --install .
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;Generator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;"MinGW Makefiles"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Variables&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CMAKE_C_COMPILER=gcc&lt;/li&gt;
+&lt;li&gt;CMAKE_CXX_COMPILER=g++&lt;/li&gt;
+&lt;li&gt;CMAKE_C_FLAGS_DEBUG=-O3&lt;/li&gt;
+&lt;li&gt;CMAKE_C_FLAGS_RELEASE=-O3&lt;/li&gt;
+&lt;li&gt;CMAKE_CXX_FLAGS_DEBUG=-O3&lt;/li&gt;
+&lt;li&gt;CMAKE_CXX_FLAGS_RELEASE=-O3&lt;/li&gt;
+&lt;li&gt;CMAKE_BUILD_TYPE=Debug&lt;/li&gt;
+&lt;li&gt;CMAKE_PREFIX_PATH=C:/Work/dep/MinGW11.2.0/Debug;${CMAKE_PREFIX_PATH}&lt;/li&gt;
+&lt;li&gt;CMAKE_INSTALL_PREFIX=C:/Work/dep/MinGW11.2.0/Debug/zlib-1.3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Windows Defender&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trojan:Win32/Tiggre!pz&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-txt"&gt;file: C:\Work\tmp\pack\zlib-1.3\build_zlib_1.3_MinGW11.2.0_Debug\CMakeFiles\CMakeTmp\cmTC_0772b.exe
+file: C:\Work\tmp\pack\zlib-1.3\build_zlib_1.3_MinGW11.2.0_Debug\CMakeFiles\CMakeTmp\cmTC_10bfe.exe
+file: C:\Work\tmp\pack\zlib-1.3\build_zlib_1.3_MinGW11.2.0_Debug\CMakeFiles\CMakeTmp\cmTC_4a1df.exe
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://go.microsoft.com/fwlink/?linkid=142185&amp;amp;name=Trojan:Win32/Tiggre%21pz&amp;amp;threatid=2147896662" rel="nofollow"&gt;https://go.microsoft.com/fwlink/?linkid=142185&amp;amp;name=Trojan:Win32/Tiggre!pz&amp;amp;threatid=2147896662&lt;/a&gt;
+&lt;img alt="error" class="embedded_image" rel="noreferrer" src="https://s1.locimg.com/2023/12/14/31143fd62503b.png" /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;CMake&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-powershell"&gt;-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Qt/Tools/mingw1120_64/bin/gcc.exe
+-- Check for working C compiler: C:/Qt/Tools/mingw1120_64/bin/gcc.exe - works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of off64_t
+CMake Error at C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckTypeSize.cmake:146 (try_compile):
+  Cannot copy output executable
 
-module("luci.dispatcher", package.seeall)
--- 报错的第 7 行 --
-local http = _G.L.http 
+    'C:/Work/tmp/pack/zlib-1.3/build_zlib_1.3_MinGW11.2.0_Debug/CMakeFiles/CMakeTmp/cmTC_8af1e.exe'
+
+  to destination specified by COPY_FILE:
+
+    'C:/Work/tmp/pack/zlib-1.3/build_zlib_1.3_MinGW11.2.0_Debug/CMakeFiles/CheckTypeSize/OFF64_T.bin'
+
+Call Stack (most recent call first):
+  C:/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CheckTypeSize.cmake:277 (__check_type_size_impl)
+  CMakeLists.txt:40 (check_type_size)
+
+
+-- Looking for fseeko
+-- Looking for fseeko - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Configuring incomplete, errors occurred!
+See also "C:/Work/tmp/pack/zlib-1.3/build_zlib_1.3_MinGW11.2.0_Debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Work/tmp/pack/zlib-1.3/build_zlib_1.3_MinGW11.2.0_Debug/CMakeFiles/CMakeError.log".
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 14 Dec 2023 15:27:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000517#reply1</guid></item><item><title>[分享创造] 写了一个 B 站的油猴脚本，可以在侧边显示视频字幕</title><link>https://www.v2ex.com/t/1000516#reply0</link><description>&lt;p&gt;&lt;a href="https://greasyfork.org/scripts/482165" rel="nofollow"&gt;https://greasyfork.org/scripts/482165&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;效果图：
+&lt;a href="https://imgur.com/FhvfDBT" rel="nofollow"&gt;https://imgur.com/FhvfDBT&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 15:23:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000516#reply0</guid></item><item><title>[生活] 用一个卡牌游戏来解释你为什么无法坚持交易的一致性</title><link>https://www.v2ex.com/t/1000515#reply0</link><description>&lt;p&gt;游戏目标：从一副特殊的牌中随机抽取一张牌，根据抽到的牌赢得奖金或扣除一定金额。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;初始本金：假设玩家开始时有 100 元。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;牌组构成及规则&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;牌组：包含四种牌，每种牌的数量和概率如下：&lt;/li&gt;
+&lt;li&gt;梅花 A：占牌组的 45%，抽到时&lt;strong&gt;损失 1 元&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;梅花 2：占牌组的 25%，抽到时&lt;strong&gt;损失 2 元&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;红桃 3：占牌组的 20%，抽到时&lt;strong&gt;赢得 3 元&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;大王：占牌组的 10%，抽到时&lt;strong&gt;赢得 5 元&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;使用 python 实现这个游戏&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;import random
+
+def play_card_game(starting_money=100, num_draws=10):
+    # 定义牌组
+    deck = ['梅花 A'] * 45 + ['梅花 2'] * 25 + ['红桃 3'] * 20 + ['大王'] * 10
+    money_map = {
+        '梅花 A': -1,
+        '梅花 2': -2,
+        '红桃 3': +3,
+        '大王': +5,
+    }
+
+    # 初始本金
+    money = starting_money
+    # 模拟抽牌
+    for _ in range(num_draws):
+        card = random.choice(deck)
+        if card == '梅花 A':
+            money -= 1
+        elif card == '梅花 2':
+            money -= 2
+        elif card == '红桃 3':
+            money += 3
+        elif card == '大王':
+            money += 5
+
+        # 打印结果
+        print(f"抽到的牌: {card}, 当前本金: {money}, 本次{money_map[card]}")
+
+    return money
+
+# 模拟游戏
+final_money = play_card_game(num_draws=1000)
+print('本金=100 ，抽牌 1000 次，最终余额=',final_money)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;不熟悉 Lua 和 Luci ，问了 GPT ，回答_G 是全局环境，L 是 Luci 的全局变量。&lt;/p&gt;
-&lt;p&gt;请问各位大佬，如何排查和解决这个问题？在网上没找到关于 Luci 如何初始化全局环境和全局变量的资料。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 02:42:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000270#reply0</guid></item><item><title>[问与答] 镜框越大越需要较高的阿贝数减少边缘色散吗</title><link>https://www.v2ex.com/t/1000268#reply0</link><description>但是大框又需要高折射率来做的轻薄吧。&lt;br /&gt;        大明 x6 的 1.74 怎么样，这款是单非球面？看阿贝数也就 31 ，刚过国标。是不是只要瞳高做的对，圆框上下边缘的的色散也不会特别离谱。</description><pubDate>Thu, 14 Dec 2023 02:38:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000268#reply0</guid></item></channel></rss>
+&lt;p&gt;假设抽牌 1000 次， 实际返回：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本金=100 ，抽牌 1000 次，最终余额= 270&lt;/li&gt;
+&lt;li&gt;即使最终的结果是正期望，也就是正收益，但是查看执行过程会发现&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;抽到的牌: 梅花 A, 当前本金: 205, 本次-1
+抽到的牌: 梅花 A, 当前本金: 204, 本次-1
+抽到的牌: 梅花 A, 当前本金: 203, 本次-1
+抽到的牌: 梅花 A, 当前本金: 202, 本次-1
+抽到的牌: 梅花 2, 当前本金: 200, 本次-2
+抽到的牌: 梅花 A, 当前本金: 199, 本次-1
+抽到的牌: 红桃 3, 当前本金: 202, 本次 3
+抽到的牌: 大王, 当前本金: 207, 本次 5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;中间会出现连续 7 次的止损，对应到交易中，就是你连续 7 次被打止损&lt;/strong&gt;，&lt;br /&gt;
+&lt;strong&gt;很多人拿到一个屠龙策略的时候，不要说连续 7 次， 就是连续 3 次就开始质疑了&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;如果是在你连续止损的时候，大盘大涨，大多数人直接心态爆炸，直接换掉这个策略&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;别看了，开骂吧，A 股这个 wbcd(网吧草的)&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 15:21:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000515#reply0</guid></item><item><title>[宽带症候群] 突然很多中国网站无法访问了，大求助~</title><link>https://www.v2ex.com/t/1000514#reply18</link><description>&lt;p&gt;我在海外地区，大概是从昨天上午开始，很多网站和服务无法使用，尝试去 Ping 和 Tracert 了下，结果如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="pic" class="embedded_image" rel="noreferrer" src="https://i2.100024.xyz/2023/12/14/125jama.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;比较奇怪的是，换成手机移动网络就是正常的。
+目前无法访问的网站不限于豆瓣、1688 ，还有一些大陆地区的 BBS 等。&lt;/p&gt;
+&lt;p&gt;这是本地运营商的锅吗，还是大陆地区的限制？&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 15:08:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000514#reply18</guid></item><item><title>[问与答] 黄鱼社区一堆千元左右的 JMGO N1 Ultra，这是什么情况有人知道么？</title><link>https://www.v2ex.com/t/1000513#reply1</link><description>&lt;p&gt;京东售价 6K 多的商品，在小黄鱼社区里几乎清一色的千元左右，甚至跌破千元的 99 新，这是什么套路么？&lt;/p&gt;
+&lt;p&gt;一直想买一台，但实在太贵，这个价格没坑的话真想入一台啊，但那个社区水深，不敢随便下手。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 15:03:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000513#reply1</guid></item><item><title>[旅行] 春节冬天去四川过冬是好的选择吗？</title><link>https://www.v2ex.com/t/1000512#reply10</link><description>&lt;p&gt;去四川主要原因是&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这么个美食之都从来还没去过.&lt;/li&gt;
+&lt;li&gt;听说有些地方也是四季如春，没有严冬。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;江浙的冬天太冷了，阴冷。三亚肯定是人满为患。
+想找个人没那么多的，美食和美景都有的地方。&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 14:55:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000512#reply10</guid></item><item><title>[分享发现] IOS 段 GPT 4.0 开放啦！</title><link>https://www.v2ex.com/t/1000511#reply1</link><description></description><pubDate>Thu, 14 Dec 2023 14:55:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000511#reply1</guid></item><item><title>[前端开发] 新的 Lint 工具 oxlint 发布了，比 ESLint 快 50 倍</title><link>https://www.v2ex.com/t/1000510#reply0</link><description>&lt;p&gt;英文原文： &lt;a href="https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html" rel="nofollow"&gt;https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;告诉大家一个好消息，&lt;a href="https://www.npmjs.com/package/oxlint" rel="nofollow"&gt;OxLint&lt;/a&gt; 现在正式发布了！可能有些同学不了解，简单介绍一下，它和 ESLint 一样，是一个 JavaScript 代码检查工具，只是它不需要任何复杂的配置，就能帮助我们捕捉错误或无用代码。它使用 Rust 编写，速度非常地快，和 ESLint 对比起来，大概快 50 ~ 100 倍。&lt;/p&gt;
+&lt;p&gt;尤大也惊叹它的速度之快：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CleanShot 2023-12-14 at 21.16.26@2x.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1cadbee3527e4c689409d96610903ada%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1194&amp;amp;h=1404&amp;amp;s=386702&amp;amp;e=png&amp;amp;b=000000" /&gt;&lt;/p&gt;
+&lt;p&gt;放个图给大家感受一下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="CleanShot 2023-12-14 at 20.48.05@2x.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cec792449d0d4275a570874477c2456e%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1720&amp;amp;h=1294&amp;amp;s=87804&amp;amp;e=png&amp;amp;b=ffffff" /&gt;&lt;/p&gt;
+&lt;p&gt;更详细的性能对比请前往 &lt;a href="https://oxc-project.github.io/docs/guide/usage/linter.html" rel="nofollow"&gt;bench-javascript-linter&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;如何使用&lt;/h2&gt;
+&lt;p&gt;OxLint&lt;strong&gt;并非旨在完全取代 ESLint&lt;/strong&gt;，毕竟 ESLint 生态已经很完善了，有些时候我们并不关注它的性能问题，但 当 ESLint 的速度成为工作流程瓶颈时，可以把它当做一个增强工具。&lt;/p&gt;
+&lt;p&gt;比如有些项目会在 lint-staged 或者 CI 设置运行 ESLint ，如果有一个大项目本来在 lint-staged 阶段要花费 10 秒，现在就连 1 秒都不到，连给你接水摸鱼的时间都没了（狗头保命）。&lt;/p&gt;
+&lt;p&gt;说了这些，我们看看怎么用。要在 JavaScript / TypeScript 代码库中测试 OxLint ，只需在存储库的根目录下执行以下命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sh"&gt;npx oxlint@latest # npm
+pnpm dlx oxlint@latest # pnpm
+yarn dlx oxlint@latest # yarn
+bunx oxlint@latest # bun
+deno run oxlint@latest # deno
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果有报错，命令行就会抛出详细的警告。同时，我们也有 VSCode 插件，在插件市场搜索 oxc 就可以搜到。&lt;/p&gt;
+&lt;p&gt;更多内容，请阅读我们的 &lt;a href="https://oxc-project.github.io/docs/guide/usage/linter.html" rel="nofollow"&gt;安装指南&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;设计&lt;/h2&gt;
+&lt;h3&gt;1. 比 ESLint 快 50-100 倍&lt;/h3&gt;
+&lt;p&gt;在实际场景中，Shopify 告称他们的原本需要运行 75 分钟 ESLint ，现在仅需 10 秒。&lt;/p&gt;
+&lt;p&gt;这是来自 Jason Miller ，Shopify DX 和 Preact 作者的消息：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;oxlint 对我们来说是一个巨大的胜利。我们以前的 lint 设置需要运行 75 分钟，因此我们在 CI 中分配了 40 多个工作程序。&lt;/p&gt;
+&lt;p&gt;相比之下，oxlint 在单个工作程序上对相同代码库的 lint 大约需要 10 秒钟，而且输出更易于解释。&lt;/p&gt;
+&lt;p&gt;当我们迁移时，甚至发现了一些旧设置中隐藏或跳过的几个错误！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OXlint 专门为性能设计，在其中，利用 Rust 和并行处理是其中的关键因素。&lt;/p&gt;
+&lt;h3&gt;2. 为正确性进行代码检查&lt;/h3&gt;
+&lt;p&gt;OxLint 默认识别错误、冗余或混乱的代码 — 优先考虑正确性而不是一些吹毛求疵的规则（分类为 &lt;code&gt;perf&lt;/code&gt;、&lt;code&gt;suspicious&lt;/code&gt;、&lt;code&gt;pedantic&lt;/code&gt; 或 &lt;code&gt;style&lt;/code&gt;）。&lt;/p&gt;
+&lt;p&gt;它的分类借鉴自了 &lt;code&gt;clippy&lt;/code&gt; 的&lt;a href="https://github.com/rust-lang/rust-clippy" rel="nofollow"&gt;分类规则&lt;/a&gt;。初次见，可能会觉得很不适应，但是一旦熟悉，就会觉得这样的的分类是如此的方便，好用！&lt;/p&gt;
+&lt;p&gt;运行默认模式（不加任何参数，直接 &lt;code&gt;npx oxlint&lt;/code&gt;）识别出来的错误，一般都是需要修正的错误。&lt;/p&gt;
+&lt;h3&gt;3. 使用便捷&lt;/h3&gt;
+&lt;p&gt;现在配置新的 JavaScript / TypeScript 代码库变得越来越复杂。遇到兼容性问题的可能性很高，可能导致数小时的时间浪费。这就是为什么我们设计 OXLint 以零配置的方式出现的原因。别说配置文件了，Node.js 也不是必需的！&lt;/p&gt;
+&lt;p&gt;我们工具的大多数调整可以通过命令行完成，目前兼容 ESLint 的配置文件的工作也在进行中。&lt;/p&gt;
+&lt;h3&gt;4. 增强诊断&lt;/h3&gt;
+&lt;p&gt;理解 lint 工具的信息可能具有挑战性。Oxlint 旨在通过定位根本原因并提供有用的信息来简化这一过程，也就是说，我们的报错信息比较容易读懂。看一个例子：&lt;/p&gt;
+&lt;p&gt;如果我们想在 &lt;a href="https://github.com/microsoft/vscode" rel="nofollow"&gt;vscode&lt;/a&gt;中运行一下性能相关的 lint 规则： &lt;code&gt;oxlint -D perf&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;得到的结果如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/80bf47bfb5a54cdb9b495bcd651eebbd%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2216&amp;amp;h=412&amp;amp;s=104977&amp;amp;e=png&amp;amp;b=010101" /&gt;&lt;/p&gt;
+&lt;h3&gt;5. 统一的规则&lt;/h3&gt;
+&lt;p&gt;Oxlint 目前尚未提供插件系统，但我们正在积极整合来自流行插件如 TypeScript 、React 、Jest 、Unicorn 、JSX-a11y 和 Import 的规则。&lt;/p&gt;
+&lt;p&gt;我们认识到在 JavaScript 生态系统中插件的重要性，并且也正在研究基于 DSL 的插件系统。&lt;/p&gt;
+&lt;p&gt;然而，你可能会喜欢一个独立的 lint 工具 — 无需管理一系列插件依赖项，不想&lt;a href="https://github.com/antfu/eslint-ts-patch" rel="nofollow"&gt;解决兼容性问题&lt;/a&gt;、或者&lt;a href="https://github.com/import-js/eslint-plugin-import/pull/2504#issuecomment-1191057877" rel="nofollow"&gt;由于版本限制而求助于分支插件&lt;/a&gt;。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;感谢大家阅读到这，希望大家可以使用 OxLint 获得更愉悦的开发体验，也预祝大家即将到来的元旦假期快乐！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;要开始使用，请查阅&lt;a href="https://oxc-project.github.io/docs/guide/usage/linter.html" rel="nofollow"&gt;安装指南&lt;/a&gt;，或者&lt;a href="https://oxc-project.github.io/docs/learn/parser_in_rust/intro.html" rel="nofollow"&gt;了解更多关于 oxc 项目&lt;/a&gt;的信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们项目还有很多好玩的东西，欢迎来玩 👉 &lt;a href="https://oxc-project.github.io/" rel="nofollow"&gt;https://oxc-project.github.io/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Dec 2023 14:49:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1000510#reply0</guid></item></channel></rss>
