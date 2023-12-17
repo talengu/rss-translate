@@ -1,161 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 17 Dec 2023 01:45:16 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 我的情况有必要买车损险吗?</title><link>https://www.v2ex.com/t/1001035#reply0</link><description>&lt;ol&gt;
-&lt;li&gt;车我自己开了五年了, 保险公司估值 7.6 万.  &lt;/li&gt;
-&lt;li&gt;车在第一年刚提车的时候, 我调头怼到了柱子上, 出过一次险; 接下来四年半 0 事故.  &lt;/li&gt;
-&lt;li&gt;只上下班走市区路段. 很堵, 基本龟行为主, 路上看到的事故都是小剐小蹭.   &lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 17 Dec 2023 17:43:47 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 不考虑道德因素，输入法是否能在禁止输入法联网的前提下通过其他方式泄露用户数据？</title><link>https://www.v2ex.com/t/1001185#reply2</link><description>&lt;p&gt;在使用一款输入法的时候，通常我会觉得禁止了这个输入法的联网功能(例如之前的搜狗)，就能极大的避免隐私泄露。&lt;/p&gt;
+&lt;p&gt;但是如果电脑上同时有其他有联网能力的产品(甚至是与输入法同一公司的产品)，如果对应产品与输入法可以进行数据传输，是否可以实现：输入法不联网，但输入法将数据在本地将数据转移到其他产品，从而恶意获取用户隐私？&lt;/p&gt;
+&lt;p&gt;这是完全不可能的事情还是技术上有可能可以实现呢？&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 17:34:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001185#reply2</guid></item><item><title>[分享发现] 阿里的 Outfit Anyone AI 虚拟试穿火了，看看海贼是怎么被他们玩坏的🚀</title><link>https://www.v2ex.com/t/1001184#reply0</link><description>&lt;p&gt;&lt;a href="https://www.aishoppingassistant.net/explore" rel="nofollow"&gt;https://www.aishoppingassistant.net/explore&lt;/a&gt; 🚀&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 17:23:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001184#reply0</guid></item><item><title>[程序员] acme.sh 周末这 2 天是不是默认的 zerossl 蹦了？</title><link>https://www.v2ex.com/t/1001182#reply4</link><description>&lt;p&gt;CF dns 走的 API 认证，证书一直申请不下来，怕是我自己手法问题。来问问好哥哥们&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 16:18:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001182#reply4</guid></item><item><title>[Apple] 请问大家有经历过 id 被锁定吗？</title><link>https://www.v2ex.com/t/1001179#reply5</link><description>今天国区 id 无缘无故被封，提示的是：出于安全原因，你的 Apple ID 已被锁定。若要解锁，你必须验证你的身份。&lt;br /&gt;改了密码自动解了..但是来这么一次就想以后再出问题怎么办🥲&lt;br /&gt;最近没有任何消费且用了很久很久很久了，而且消费的时候也没有挂梯子（这是问了一下朋友），明天预约了回访电话，问问看是咋回事..&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;另外就是，自己也在考虑把主力 id 换成外区账号，不用国区了，在注册个小号用于下载特色 app&lt;br /&gt;目前配合使用的是日区，也在 iTunes 买过专辑，使用体验上都不错，但就是看不懂片假名哈哈，比如 Apple TV 里的剧集，海报都是日语（别说改上海话🤣），支付方式是招行 JCB&lt;br /&gt;我是换美区（有 PayPal ）还是留在日区呀？有没有有经验的大佬指点一下～有使用的服务就是 Apple one</description><pubDate>Sun, 17 Dec 2023 16:09:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001179#reply5</guid></item><item><title>[推广] 最近坛子里有朋友准备结婚或求婚吗？买 GIA 钻石我老婆有优惠渠道，欢迎大家咨询比价</title><link>https://www.v2ex.com/t/1001178#reply0</link><description>兄弟们，我又来了，7 年前我在 v2 发了同名帖子 &lt;a href="https://www.v2ex.com/t/312526" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/312526&lt;/a&gt; ，时间过得真快，当时的女朋友如今已和我结婚生子。而且，我们还在卖钻石，我广告发的不勤快，不过总是陆续有 v 友从老帖子找过来买钻石，还问我怎么不发帖子了，以为我们没有在卖钻石了，所以我赶紧来发发帖子。&lt;br /&gt;&lt;br /&gt;（本文说的钻石都是有 GIA 证书的天然钻石）&lt;br /&gt;&lt;br /&gt;我和妻子都不是很善于营销的人，即便如此，6 年来，从 v2 过来买钻石的人也有近百人了，我们甚至卖出过 8 克拉钻石的大单，可以说我们是资深的珠宝商人了。（一年前帖子，有买过的 v 友评价： &lt;a href="https://www.v2ex.com/t/856688" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/856688&lt;/a&gt; ）&lt;br /&gt;&lt;br /&gt;v 友大多数是理性的工科男，善于搜索，喜欢货比三家，我们能把钻石卖给 v 友正好说明了我们拥有专业优势、价格优势。&lt;br /&gt;&lt;br /&gt;因为我们的货源来自海外，钻石的价格随着汇率和其他因素影响，每天都有微调，举例来说，最多人购买的 50 分钻石根据其他参数不同大概在大几千到一万多左右，具体价格欢迎垂询。&lt;br /&gt;&lt;br /&gt;关于“智商税”的说法，我想说，我们不是“结婚必须要买钻戒”理念的推广者，我们只是卖 GIA 天然钻石的，有的人不需要，我们无意说服你一定要买钻戒；有的人需要，我们就卖给需要的那部分人。&lt;br /&gt;就好像有的女孩喜欢 LV 包，有的女孩喜欢 MK 包，有的女孩用没牌子的包也无所谓，不用去说别人的喜好有什么不对，买自己结婚对象喜欢的就行，硬要去说服她就没什么必要。&lt;br /&gt;&lt;br /&gt;关于钻石的基础知识，还是看我以前的帖子吧 &lt;a href="https://www.v2ex.com/t/312526" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/312526&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果你准备购买结婚钻戒了，肯定是要多方比价的，欢迎来咨询价格&lt;br /&gt;我老婆微信号：kiko_57&lt;br /&gt;&lt;br /&gt;另外，我们不光卖钻石，也卖彩色宝石，欢迎咨询，谢谢大家！</description><pubDate>Sun, 17 Dec 2023 16:05:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001178#reply0</guid></item><item><title>[问与答] 疼逊云 APP 备案需要拍视频而且同时要定位，对不上不让过</title><link>https://www.v2ex.com/t/1001176#reply1</link><description>&lt;p&gt;在给 app 备案，疼逊云(就是那家，以防他们的风控)上不仅要身份证而且还要视频，具体是这样，拍视频会让你扫码通过小程序来拍，同时要开启定位，然后它这个定位要与你填的通讯地址一致。到这里就遇到麻烦了，如果填我现在的工作地，那就需要居住证，这个目前办不到，如果填老家地址就跟定位对不上，去他妈的我备案还要回趟老家吗。
+备过案的小伙伴知道其他家也是这样吗？总感觉疼逊这家公司很🐶，上面要求 8 分，它会自己给你加个码到 10 分&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:59:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001176#reply1</guid></item><item><title>[浏览器] Mac Safari 的 Youtube 怎么去广告？</title><link>https://www.v2ex.com/t/1001175#reply5</link><description></description><pubDate>Sun, 17 Dec 2023 15:56:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001175#reply5</guid></item><item><title>[问与答] Mac 后台自动下载是中毒了吗</title><link>https://www.v2ex.com/t/1001174#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MvTqlE5.png" /&gt; &lt;/p&gt;
+&lt;p&gt;开了微信，Chrome ，电脑风扇嗡嗡转，一看 clash ，好家伙有个连接一直在下载&lt;/p&gt;
+&lt;p&gt;58.216.102.101:443&lt;/p&gt;
+&lt;p&gt;我直接访问 &lt;a href="https://58.216.102.101" rel="nofollow"&gt;https://58.216.102.101&lt;/a&gt;
+看到证书是归属  *.wxs.qq.com&lt;/p&gt;
+&lt;p&gt;有谁知道它这是在干嘛吗？&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:39:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001174#reply0</guid></item><item><title>[问与答] 求推荐血压仪</title><link>https://www.v2ex.com/t/1001173#reply1</link><description>爸爸今年在医院检查出脑部血管有点狭窄，高血压，想买个血压仪让他平时给自己测测，不知道啥牌子啥型号的准确点，求推荐🙏。&lt;br /&gt;&lt;br /&gt;网上查了比较有名的鱼跃和欧姆龙，不知道哪个型号精度好点，评价也看不出来。</description><pubDate>Sun, 17 Dec 2023 15:38:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001173#reply1</guid></item><item><title>[创业组队] 开源项目招募合伙人</title><link>https://www.v2ex.com/t/1001172#reply7</link><description>&lt;p&gt;项目官网： &lt;a href="https://teocloud.io" rel="nofollow"&gt;https://teocloud.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;V2EX 人才多，找小伙伴加入组织，共同开发。Rust 开发，Node.js 开发，各领域前端开发，都可以加入。我也会教你如何使用以及如何开发。加入组织会有一段时间的互相了解和磨合的阶段，过了阶段正式加入。&lt;/p&gt;
+&lt;p&gt;如果您的专长不是技术，而是商务，也欢迎加入，共同探讨互通有无一起赚钱。我在做这个项目之前，是经营公司的。您可以放心，我不是难以沟通的、也不是自我清高的技术死宅。&lt;/p&gt;
+&lt;p&gt;我会不停地推广和找投资。我们中最优秀的伙伴，在拿到投资后高薪成为 CTO 。这一个项目是我十多年技术积累，不断克服困难，写出来的。官网也是我亲自设计和编写的，文档也是我独自编写的。它能够用类似声明 schema 的方式写出后台，并生成不同语言的前端访问包，开发高效，适合人心惶惶大裁员的时代。同类产品 Prisma 融资了十多亿人民币，不管怎样我都会朝着目标去做。&lt;/p&gt;
+&lt;p&gt;也希望您看到这个帖子，能帮助我在 GitHub 点一个赞： &lt;a href="https://github.com/teocloud/teo" rel="nofollow"&gt;https://github.com/teocloud/teo&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:32:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001172#reply7</guid></item><item><title>[杭州] 卖了一年，终于把房子卖出去了</title><link>https://www.v2ex.com/t/1001171#reply3</link><description>&lt;p&gt;上城区某小区 89 方，2 楼&lt;/p&gt;
+&lt;p&gt;房价下降的行情叠加 2 楼 buf&lt;/p&gt;
+&lt;p&gt;一开始挂 310 ，刚挂上一周有人出价 293 ，当时想着挂一周就有人询价，市场看着还行阿，没答应，想再等等，想不到这就是巅峰了。。后面几个月连个询价的人都没有，中间有陆续调了几次价格，先到 300 ，再到 290 ，询价还是寥寥无几，要么就是 250 、260 的价格，本来都要接受烂手里出租了，结果上周卖出去了&lt;/p&gt;
+&lt;p&gt;现在就剩自住的一套房，还贷压力一下小了很多&lt;/p&gt;
+&lt;p&gt;安心上班攒钱&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:31:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001171#reply3</guid></item><item><title>[程序员] 怎么释放 Win11 的虚拟内存？因为虚拟内存满了导致各种 OOM 报错好多次了</title><link>https://www.v2ex.com/t/1001170#reply5</link><description>&lt;p&gt;电脑频繁 OOM 报错，用 Mem Reduct 定期清理内存发现只能清理物理内存，但是虚拟内存纹丝不动，所以甚至会出现这样的情况，物理内存占用 70%，但是虚拟内存占用 99%，这种时候依旧是几乎所有的软件都崩溃报错。&lt;/p&gt;
+&lt;p&gt;就像下面这种情况：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jvZWsb1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;但是我一直有个不理解的情况，虚拟内存占用会从一个很低的值开始，逐渐增长，这其中即使我重启操作系统，再次启动过后开机虚拟内存的值也会保持在开机前的值，直到他一直跑到 99%，这种时候再重启就有效果了，虚拟内存会回到一个很低的值。&lt;/p&gt;
+&lt;p&gt;比如下面这种情况：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GEWAre4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;所以有什么办法可以让我随时都可以释放虚拟内存呢？这其中我最多的问题还是虚拟内存占用接近 90%的时候我的使用体验就已经很糟糕了，会频繁出现 OOM 报错崩溃，但是只有到了 99%的时候才能重启释放，否则重启也好 Mem Reduct 清理也好都是没用的。&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:31:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001170#reply5</guid></item><item><title>[分享创造] 做了个超分辨率和图片修复的前端应用</title><link>https://www.v2ex.com/t/1001169#reply0</link><description>&lt;img class="embedded_image" rel="noreferrer" src="https://github.com/lxfater/inpaint-web/blob/main/media/super-resolution.jpg?raw=true" /&gt;
+&lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;最近做了个修复照片和模糊照片变清晰的纯网页端应用，打开浏览器就可以使用，无需费用。&lt;/p&gt;
+&lt;h1&gt;技术原理&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;将现有模型导出到 onnx 格式，然后再前端使用 webgpu 运行，这样速度会快点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;为了提升性能，将一些处理操作用集成到模型中。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;后面准备接入 segment anything 和 stable diffusion&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;所以我有不买车损险的想法, 但又担心点儿背, 各位大佬给支个招.&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 01:41:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001035#reply0</guid></item><item><title>[路由器] 求 2024 年能永久在华硕路由器上写 hosts 做屏蔽的方法</title><link>https://www.v2ex.com/t/1001032#reply3</link><description>如题，挺纳闷的。华硕路由器作为折腾路由没有相应的 HOSTS 文件的 GUI 文件，用 SSH 修改重启就没了。Gooogle 一圈和 SMB 论坛试了一堆方法，主题不对或脚本不能在新系统使用等一堆破事。&lt;br /&gt;&lt;br /&gt;求懂的老哥出个主意</description><pubDate>Sun, 17 Dec 2023 01:24:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001032#reply3</guid></item><item><title>[Apple] 1800 欧值得入手 Studio Display 吗？</title><link>https://www.v2ex.com/t/1001030#reply0</link><description>&lt;p&gt;两台电脑，PC 和 Macbook Pro&lt;/p&gt;
-&lt;p&gt;PC 显示器 2K 165hz IPS 面板（联想 Y27Q ）&lt;/p&gt;
-&lt;p&gt;但我的 mac 目前还没有外接显示器，和这台 27 寸的显示器并排放看起来太小了，所以最近在挑选。&lt;/p&gt;
-&lt;p&gt;因为我没有 HDR 视频的制作需求，主要还是看一些视频和文字内容，Studio Display 是我目前看来（线下实际看过显示效果了）最满意的，但就是欧洲这边 1800 多的售价有点心疼。&lt;/p&gt;
-&lt;p&gt;求各位推荐一下这款显示器的平替，最好是能在亚马逊上能买到的。&lt;/p&gt;
-&lt;p&gt;其实 studio display 的音箱在我这并不算什么优势，因为我有一对真力 8020D ，摄像头的话倒是聊胜于无。&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 01:06:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001030#reply0</guid></item><item><title>[macOS] mac 上的 cmd+tab 的时候，如何让鼠标失效</title><link>https://www.v2ex.com/t/1001028#reply1</link><description>&lt;p&gt;经常切换到被 鼠标光标所指示的进程窗口，非常烦&lt;/p&gt;
-&lt;p&gt;你们是怎么解决这个问题的呢？谢谢谢谢！&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 00:56:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001028#reply1</guid></item><item><title>[问与答] 想弄个 medium 的微信小程序客户端</title><link>https://www.v2ex.com/t/1001027#reply2</link><description>&lt;p&gt;如题，求助下有经验的老哥们，这个想法有搞头吗？ 主要是想赚点广告费。&lt;/p&gt;
-&lt;p&gt;另外会有啥风险不？&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 00:55:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001027#reply2</guid></item><item><title>[广州] 赫基大厦附近租哪里？</title><link>https://www.v2ex.com/t/1001026#reply0</link><description>800-1000 左右吧。&lt;br /&gt;尽量近</description><pubDate>Sun, 17 Dec 2023 00:36:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001026#reply0</guid></item><item><title>[分享发现] 提升幸福感必买小物：音响</title><link>https://www.v2ex.com/t/1001025#reply5</link><description>第一次买音响，昨天买的琉璃 4 终于到了，虽然只是蓝牙的，但效果依然让人舒适，白天听有整个身体的肌肉都陶醉在旋律里的感觉，睡前听更是有仿佛歌手真人在耳边对着你婉婉吟唱的感觉，不一会就甜甜睡着了，可以说是买完之后才让我觉得是幸福人生必买的好物了</description><pubDate>Sun, 17 Dec 2023 00:04:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001025#reply5</guid></item><item><title>[分享创造] 5 年前由 V2EX 老哥发起的「划词小窗搜索」更新了，收集反馈和功能建议</title><link>https://www.v2ex.com/t/1001024#reply1</link><description>&lt;h2&gt;前情提要&lt;/h2&gt;
-&lt;p&gt;2019 年春节时我逛 V2EX 看到老哥们讨论划词搜索，当时我正好在帮朋友做扩展，于是自告奋勇开发了「划词小窗搜索」扩展。但因只是一时消遣，春节假期过后就没有管理了。&lt;/p&gt;
-&lt;p&gt;上个月，过去了近 5 年，原帖老哥发帖找人维护此扩展，朋友看到了转告我，于是我在得到了老哥现金赞助的情况下对此扩展进行了更新。&lt;/p&gt;
-&lt;p&gt;站内历史讨论：&lt;/p&gt;
+&lt;h1&gt;帮忙推荐开源项目&lt;/h1&gt;
+&lt;p&gt;最近老是腰痛，写不来东西，每天熬夜。但是行情不好，先练练手，后面看看还有什么可以做的。&lt;/p&gt;
+&lt;p&gt;本人推特： &lt;a href="https://twitter.com/lxfater" rel="nofollow"&gt;https://twitter.com/lxfater&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有 1.3w follower 。兄弟们需要推荐项目的可以推特私信我。&lt;/p&gt;
+&lt;h1&gt;地址&lt;/h1&gt;
+&lt;p&gt;地址就在： &lt;a href="https://inpaintweb.lxfater.com" rel="nofollow"&gt;https://inpaintweb.lxfater.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;项目地址： &lt;a href="https://github.com/lxfater/inpaint-web" rel="nofollow"&gt;https://github.com/lxfater/inpaint-web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎 star ，或者提出建议，或者帮忙改进界面😂&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:21:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001169#reply0</guid></item><item><title>[微信] 微信小程序开发有什么推荐的 UI 组件</title><link>https://www.v2ex.com/t/1001166#reply1</link><description>&lt;p&gt;想问下前端开发，你们自己做一些微信小程序开发的时候都是使用的什么 UI 组件库，最近开发了一个微信小程序使用的 vant weapp ，感觉挺顺手的，但是感觉丰富度还是缺少了些，比如一些常用的 table 好像没有，除了这个还有别的优秀的 ui 组件库推荐吗？&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 15:04:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001166#reply1</guid></item><item><title>[问与答] 4 台 60-75 寸电视拼接成大型提词器，有什么推荐吗？</title><link>https://www.v2ex.com/t/1001165#reply2</link><description>&lt;p&gt;用于放在 30 米外当 150 寸提词器&lt;/p&gt;
+&lt;p&gt;边框尽可能窄
+下巴没有突出（很多电视下面都有突出的遥控区域）
+1080P 以上
+对安卓配置没有要求
+对色彩表现没有要求
+符合上述条件的情况下亮度尽可能高&lt;/p&gt;
+&lt;p&gt;预算每台价格 2000-3500 内&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 14:57:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001165#reply2</guid></item><item><title>[程序员] tailscale 跨国组网问题</title><link>https://www.v2ex.com/t/1001163#reply0</link><description>&lt;p&gt;有大佬试过用 tailscale 进行跨国组网的吗？
+目前需求是&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对国外的十台 esxi windows 虚拟机进行远程桌面&lt;/li&gt;
+&lt;li&gt;使用 obs 推流到国外的直播服务器&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;长期使用 tailscale 进行远程稳定吗？
+我试了试 exitnode 进行直播推流，效果很差，只能跑 3000kbps ，而且很不稳定，有优化的方法吗？
+没有搭建 derp 和 headscale 服务器，搭建的话会效果好一些吗？&lt;/p&gt;</description><pubDate>Sun, 17 Dec 2023 14:31:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001163#reply0</guid></item><item><title>[分享发现] 分享一个 IOS 快捷指令去除 b 站短链</title><link>https://www.v2ex.com/t/1001162#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;众所周知，b 站的短链用于跟踪用户，之前使用 Telegram bot ，总是要复制之后再打开再发送，非常的麻烦。&lt;/li&gt;
+&lt;li&gt;这次就想能不能直接使用 iPhone 自带的快捷指令在分享的时候就可以去除短链，但是苦于 iPhone 的快捷指令表达能力非常的弱，所以就套了一层 CF 的 worker ，但是绝对安全，想要自己部署的也可以用这里的代码：&lt;a href="https://github.com/fwqaaq/scripts/blob/main/tampermonkey/clear_bilibili_short_link.js" rel="nofollow"&gt;https://github.com/fwqaaq/scripts/blob/main/tampermonkey/clear_bilibili_short_link.js&lt;/a&gt;，代码非常的简单。&lt;/li&gt;
+&lt;li&gt;这里是大概效果：&lt;img alt=" " class="embedded_image" rel="noreferrer" src="https://img.fwqaq.us/clear_bilibili.GIF" /&gt;&lt;/li&gt;
+&lt;li&gt;这是 IOS 快捷指令，可以直接使用：&lt;a href="https://www.icloud.com/shortcuts/3544d8c90945448785604311d2172f52" rel="nofollow"&gt;https://www.icloud.com/shortcuts/3544d8c90945448785604311d2172f52&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sun, 17 Dec 2023 14:20:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001162#reply0</guid></item><item><title>[宽带症候群] Clash for Windows 无法切换此配置文件，是哪里的问题呢？</title><link>https://www.v2ex.com/t/1001161#reply2</link><description>遇到 Clash for Windows 无法切换此配置文件，一切换配置文件就如下图的错误，请问是哪里的问题？跪谢大神们。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/KsWiQm3Il.jpeg" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 KsWiQm3Il.jpeg"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/KsWiQm3Il.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Sun, 17 Dec 2023 14:19:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001161#reply2</guid></item><item><title>[WordPress] [更新] 分享自用的 WordPress 双栏文字简约主题</title><link>https://www.v2ex.com/t/1001160#reply0</link><description>&lt;p&gt;&lt;img alt="screenshot" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/huhexian/img@master/20231217/screenshot.1x24u6z1mif4.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;非常喜欢这一款主题，官方的功能太少，对中文支持也不够，因此就自行修改，增加了需要的功能，在界面上也更加符合我们的使用习惯以及审美。&lt;/p&gt;
+&lt;h2&gt;关于主题&lt;/h2&gt;
+&lt;p&gt;原型是 WordPress 的官方默认主题 Twenty Twelve 。后来经 &lt;a href="http://xuv.cc" rel="nofollow"&gt;xuv.cc&lt;/a&gt; 修改为&lt;a href="https://xuv.cc" rel="nofollow"&gt;木头人版本&lt;/a&gt;，我在此基础上，根据自己的喜好又进行修改。&lt;/p&gt;
+&lt;h2&gt;使用说明&lt;/h2&gt;
+&lt;p&gt;具体修改了什么内容，可以参考我的文章《&lt;a href="https://yinji.org/5029.html" rel="nofollow"&gt;关于我的博客 2.0&lt;/a&gt;》。&lt;/p&gt;
+&lt;h2&gt;演示网站&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;2019-01-30 &lt;a href="https://www.v2ex.com/t/531800" rel="nofollow"&gt;有没有什么 Chrome 插件，可以实现划词翻译类似的划词搜索？&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2019-01-31 &lt;a href="https://www.v2ex.com/t/532042" rel="nofollow"&gt;应 V2EX 老哥请求做了划词右键小窗搜索 Chrome 扩展&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2019-02-10 &lt;a href="https://www.v2ex.com/t/533710" rel="nofollow"&gt;开工大吉！全新 Chrome 划词小窗搜索扩展代码上线！&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2023-11-24 &lt;a href="https://www.v2ex.com/t/994901" rel="nofollow"&gt;需要人来有偿维护一个 Chrome 插件，有人有兴趣接吗？&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://yinji.org" rel="nofollow"&gt;印记&lt;/a&gt; 我的博客&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;扩展介绍&lt;/h2&gt;
-&lt;p&gt;顾名思义，扩展功能是划词后打开小窗搜索；同时支持 NEW TAB 新窗口打开，所以它也可以是划词新窗口搜索；同时还支持将搜索引擎加到右键菜单，所以也可以是右键搜索。&lt;/p&gt;
-&lt;p&gt;小窗展示内容可以是 IFRAME 嵌入适用小窗的网页，也可以是 AJAX JSON 数据，也可以通过 CSS SELECTORS 解析普通网页内容来展示。&lt;/p&gt;
-&lt;p&gt;Chrome Web Store 链接： &lt;a href="https://chrome.google.com/webstore/detail/fgmknallmmochhfngjmmmcpobelihfhe" rel="nofollow"&gt;https://chrome.google.com/webstore/detail/fgmknallmmochhfngjmmmcpobelihfhe&lt;/a&gt; &lt;/p&gt;
-&lt;h2&gt;未来展望&lt;/h2&gt;
-&lt;p&gt;说点未来展望，也可以说是经验分享，给需要开发类似扩展的老哥们一点参考。&lt;/p&gt;
-&lt;p&gt;这次更新还是踩了不少坑的，目前 Manifest V3 不支持 User Script ，在严格 CSP 网站中无法使用用户自定义 JavaScript ，我不得不在完成开发后再次开发改用 CSS Selectors 代替。不过 Chrome User Script API 也在日程中了，相信不久后会发布，到时可以改回 User Script 解析网页，强大好用。&lt;/p&gt;
-&lt;p&gt;这次还发现 Chrome 114+ 新增了 Side panel API ，扩展也可以控制侧边栏，把内容展示在侧边栏。侧边栏有点大，优点是独立于网页，切换 TAB 不影响侧边栏，大屏用户用侧边栏来做搜索和笔记也是不错的选择，可以考虑。&lt;/p&gt;
-&lt;h2&gt;收集反馈&lt;/h2&gt;
-&lt;p&gt;此次更新以原帖老哥个人需求为主，但考虑此扩展活跃用户数超过 3700 位，我也对功能进行了大幅更新，尽可能满足更多用户需求，难免存在 BUG 和考虑不周的情况。&lt;/p&gt;
-&lt;p&gt;缘由 V2EX 起，缘由 V2EX 续，我决定扩展反馈也在 V2EX 收集，当然没有 V2EX 账号的老哥可邮件反馈。&lt;/p&gt;
-&lt;p&gt;如果是设置能解决的问题，我会把解决方案追加在帖子附言，如果是需要更新才能解决的问题我会把后续更新计划追加在帖子附言。&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 23:51:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001024#reply1</guid></item><item><title>[Tesla] 特斯拉 API 不能获取经纬度了？</title><link>https://www.v2ex.com/t/1001023#reply0</link><description>昨天上午（ 2023.12.16 ）开始，特斯拉 API 不再能获取车辆所在经纬度信息了，至少我不能了，http 请求返回 json 中的 drive_state 里只剩下了 5 个键值，明显少了。不知道有没有用过特斯拉 API 的小伙伴也遇到同样情况了，或者大家有谁看到相关的新闻报道了。</description><pubDate>Sat, 16 Dec 2023 23:43:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001023#reply0</guid></item><item><title>[问与答] next.js 文件发到后端后如何处理后再发送到数据库</title><link>https://www.v2ex.com/t/1001021#reply0</link><description>&lt;p&gt;我想要的是 前端发送图片➡️后端中间层 api 接收图片并压缩➡️post 到数据库 api （我用的是 pocketbase ，只收 multipart/formdata)&lt;/p&gt;
-&lt;p&gt;用的 app router 的 nextrequest 获取前端发来的 formData 很简单&lt;/p&gt;
-&lt;p&gt;route.js&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;export async function POST(request) {
-  const formData = await request.formData();
-  const file = formData.get("file");
-  return Response.json({
-    success: true,
-  });
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;express,pages router 之类没用过,api 这么简单这样就能获得前端发来的 formData ，
-这好像是 next.js app router 的特色 不需要用到 formidable 这类库处理 formData&lt;/p&gt;
-&lt;p&gt;文字获取方面很轻松 但是 file object 的处理就不太懂
-我想在后端这个中间层 api 插一个图片处理，用 sharp 这样的库转换图片的格式和尺寸
-但是 sharp 又不接收 file object ，也没搜索到 file 对象转 buffer 再变回 file 对象的的方法
-最后 file 转 buffer 这样的做法会不会很吃内存&lt;/p&gt;
-&lt;p&gt;求大佬们给个最优解&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 21:57:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001021#reply0</guid></item><item><title>[Apple] iCloud 照片同步问题求助</title><link>https://www.v2ex.com/t/1001020#reply2</link><description>从几个月前，相册底部的同步状态一直处于进度条卡住的情况。&lt;br /&gt;&lt;br /&gt;Google 了一下同样的问题，按照教程将手机上的 Apple Id 退出再登录，结果原先的 2w 多张照片都下载不下来了，只留下了手机本地的 3 千张照片。与此同时相册底部的同步状态依旧处于卡死的状态。&lt;br /&gt;&lt;br /&gt;但是神奇的是，MacBook 上的相册里面同步一切正常，手机拍摄的最新照片依旧可以无缝同步到电脑相册。&lt;br /&gt;&lt;br /&gt;icloud 空间还有 500G ，本来想想所有设备都退出 Apple id 试一次，但是怕同样的事情发生在电脑和 ipad 上。&lt;br /&gt;&lt;br /&gt;求大家的指点呀，看不到那 2w 张照片强迫症真的要死了。</description><pubDate>Sat, 16 Dec 2023 21:54:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001020#reply2</guid></item><item><title>[淘宝] 商家刷单，成本最终由消费者承担</title><link>https://www.v2ex.com/t/1001018#reply6</link><description>商家能不能拿这钱干点别的。&lt;br /&gt;&lt;br /&gt;越是刷的昏天昏地的那种，商品价格里包含的刷单成本越大。&lt;br /&gt;&lt;br /&gt;现况是消费者被动从经济上支持商家有组织性的欺骗行为。&lt;br /&gt;&lt;br /&gt;消费者自己花钱，让商家组织一帮人对付自己。</description><pubDate>Sat, 16 Dec 2023 20:40:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001018#reply6</guid></item><item><title>[宽带症候群] openwrt 有什么插件可以实现类似圈 X 的“重写”功能吗？</title><link>https://www.v2ex.com/t/1001017#reply1</link><description>&lt;p&gt;RT ，圈 X 工作必须一直挂在后台，有没有什么插件可以在路由器端实现 iOS 圈 X 重写的功能？&lt;br /&gt;
-我记得有个解锁网易云灰色歌曲的插件差不多就是类似重写&lt;br /&gt;
-不知道能不能装 mitmproxy&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 19:52:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001017#reply1</guid></item><item><title>[职场话题] 继续 Java 开发 or 半导体设备工程师</title><link>https://www.v2ex.com/t/1001016#reply6</link><description>&lt;p&gt;本科机械电子工程，21 年安徽某双非理工大学毕业，毕业后去了杭州一家半导体厂做设备工程师，24h  oncall ，有夜班，（因为这家三方立马就要签，错过了合肥一家内存厂，同工种，相对更好）。
-v2 上的老哥可能不太熟悉这种工作， 在 24h 恒温车间，负责机台的维护保养，我当时分在了 6 寸 cvd （薄膜工艺）车间，这个工作给我的感觉就是，无趣（十几年前的老设备，还非常不稳定，工作枯燥），熬人（加班多，oncall ），休息很少 节假日更是加班的重灾区，过年不放假，另外还有一点，这个工作日常接触的有毒有害气体和强辐射，发现很多同事生孩子都是女孩，可能和这个有关？当然优点也有，在我毕业三个月转正后，我就实现了月入过万，那个时候还是很兴奋的，money 方面都到位。  后面干了半年多辞职走人了。
-我一直对数码产品有跟浓厚的兴趣，尤其高中的时候对手机的痴迷已经到了可以对任一热门手机配置倒背如流，刷机解锁当然都不在话下，至于路由器，电视盒子等等都捯饬过，然而我在大二才拥有自己的电脑，原因自然是父母的意思，至于当时为什么没报计算机相关也和他们有一定的关系，不过这都没有意义了，拿到电脑后我就自学了 python ，因为当时很火，后面专业课单片机又认真学了点 C ，当然现在看都是很浅显的程度
-上面说了这么多，无非就是说离职后，我就直接去了培训班，因为自己也有编程的基础，所以还是有点自信的，小半年毕业后便来到了上海入职了现在这家外包（某保险公司），待遇和之前没法比，当然工作轻松点，到手差不多。现在也一年有余了，最近也有跳槽的想法了，
-老实说，现在这个环境让我不得不重新审视下自己的路该怎么走，我父母年迈，还有两个妹妹在上学，自己的大事，父母是指望不上了，以现在的压力来看，我心里差不多对结婚不报多大希望了。
-这一年多的开发工作让我感觉自己欠缺的很多，这条路道阻且长，还有最重要一点，不论学的怎么样，在这一行 总有种  “再挤也是局外人”的想法，  另一个角度，从日常开销上来说，相比在厂里包吃包住，租房+吃饭+周末花销削去了收入的将近一半，这让我感觉这个班上的就是在闹着玩。继续 java 开发，可能三五年后 自己到了而立之年，也是两手空空。
-其实我是偏向于回到厂里，这两年相当于干了自己想干的事，即使没干的怎么样，总归没有留遗憾，唉……手机打字费劲，有空再继续说&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 18:47:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001016#reply6</guid></item><item><title>[程序员] 凹语言在 KCD 深圳 2023</title><link>https://www.v2ex.com/t/1001014#reply0</link><description>&lt;p&gt;凹语言项目联合发起人柴树杉在 KCD 深圳 2023 论坛分享了凹语言最新的进展和案例，以下是本次分享的内容回顾：&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;案例-NES 模拟器：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-01.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在线演示地址：&lt;a href="https://wa-lang.org/nes/" rel="nofollow"&gt;https://wa-lang.org/nes/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;模拟器代码地址：&lt;a href="http://gitee.com/wa-lang/nes-wa" rel="nofollow"&gt;http://gitee.com/wa-lang/nes-wa&lt;/a&gt;，将仓库克隆至本地，下载最新版凹语言编译器，在控制台输入以下命令（其中 &lt;code&gt;./nes-wa&lt;/code&gt; 为模拟器代码的本地路径）：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;wa run ./nes-wa
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;即可编译模拟器，并在本地 8000 端口（ localhost:8000 ）发布页面应用。&lt;/p&gt;
-&lt;p&gt;桌面版浏览器访问，使用键盘控制：小键盘方向键对应手柄方向键；空格对应手柄&lt;code&gt;select&lt;/code&gt;键；回车对应手柄&lt;code&gt;start&lt;/code&gt;键 Ctrl 对应手柄&lt;code&gt;A&lt;/code&gt;键； Shift 对应手柄&lt;code&gt;B&lt;/code&gt;键。&lt;/p&gt;
-&lt;p&gt;手机等触屏设备浏览器访问，直接在 UI 触控：左下方摇杆操作为先在中心按下，然后四向摇动（类似于王者荣耀等手游）；按住&lt;code&gt;X&lt;/code&gt;键为&lt;code&gt;A&lt;/code&gt;键连发；按住&lt;code&gt;Y&lt;/code&gt;键为&lt;code&gt;B&lt;/code&gt;键连发。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;案例-WebGPU：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-02.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在线演示地址：&lt;a href="https://wa-lang.org/webgpu/" rel="nofollow"&gt;https://wa-lang.org/webgpu/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;WebGPU 示例代码地址：&lt;a href="https://gitee.com/wa-lang/webgpu" rel="nofollow"&gt;https://gitee.com/wa-lang/webgpu&lt;/a&gt;，将仓库克隆至本地，下载最新版凹语言编译器，在控制台输入以下命令（其中 &lt;code&gt;./webgpu&lt;/code&gt; 为 WebGPU 示例代码的本地路径）：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;wa run ./webgpu
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;即可编译示例，并在本地 8000 端口（ localhost:8000 ）发布页面应用。&lt;/p&gt;
-&lt;p&gt;WebGPU 标准尚处于实验阶段，移动设备的浏览器普遍尚不支持，本案例建议使用 Chrome 等最新版的桌面版浏览器访问。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;分享讲稿全文：&lt;/p&gt;
-&lt;h2&gt;0. 自我介绍&lt;/h2&gt;
-&lt;p&gt;大家好，我是来自凹语言社区的柴树杉。很荣幸能够参加这次 KCD 深圳大会，感谢主办方和各个赞助者、志愿者和参加的朋友。我要分享的题目是：WASM 初体验——以凹语言为例。&lt;/p&gt;
-&lt;p&gt;凹语言是一个开源的、针对 WebAssembly 设计的通用编程语言。借此机会，给各位朋友介绍下。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-101.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;1. 为何选择 WASM 为目标&lt;/h2&gt;
-&lt;h3&gt;1.1 背景历程（ 2018 ）——WASM 代表计算的自由&lt;/h3&gt;
-&lt;p&gt;首先：民主的技术，是通向计算自由的基石&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-102.png" /&gt;&lt;/p&gt;
-&lt;p&gt;WASM 在 2018 年发布了草案，当时我们觉得 WASM 技术可能可以给我们计算的自由。哪怕是以开源软件为例，现在能够真正拥有自由的计算环境对个体程序员非常奢侈。而 WASM 计算，其核心思想是提供一套中间表达指令集和虚拟机，运行在浏览器内置的 WASM 虚拟机中。而 WASM 虚拟机的初始版本非常简单，不考虑极致性能的话，几乎每个程序员都可以自己实现一个，而这恰恰给了目前程序员最大的自由。&lt;/p&gt;
-&lt;p&gt;同时，作为 W3C 的国际标准，WASM 技术前景非常广阔。基于这些判断，我们在 19 年底出版了《 WebAssembly 标准入门》这本书，尝试在国内推广这门技术。图书的封面引用了 Ending 定律的观点：所有可被编译为 WASM 的，终将被编译为 WASM 。&lt;/p&gt;
-&lt;p&gt;目前，各大主流语言都已经支持 WASM 。包括 Docker 技术的创始人也表达了类似的观点：如果 WASM 早点出现，可能就没有 Docker 了。&lt;/p&gt;
-&lt;h3&gt;1.2 背景历程（ 2019 ）——WASM 缺少好用的语言&lt;/h3&gt;
-&lt;p&gt;到了 2019 年，我和丁尔男将之前在公司的实践经验总结成章，在机械工业出版了《面向 WebAssembly 编程》这本书。书中系统介绍了如何通过 Emscripten 使用 C/C++来开发 WASM 程序。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-103.png" /&gt;&lt;/p&gt;
-&lt;p&gt;虽然 Emscripten 工具链非常成熟，但是对于有经验的 C++程序员来说，开发 WASM 程序依然是一个巨大挑战。
-C++虽然支持 WASM 最好，但不是最好的 WASM 语言——我们想做一个简单易用的 WASM 语言。&lt;/p&gt;
-&lt;p&gt;最开始语言的名字叫 wasmlang ，后来简化为 Wa-lang 。后来根据拼音 Wa 取了“凹语言”的名字。
-“凹”不仅仅音同 Wasm 的前缀，形状也和 WASM 的图标很像。后来“凹”字又被社区小伙伴赋予了不同的解读。&lt;/p&gt;
-&lt;h2&gt;2. 我们是如何构建以 WASM 为目标的凹语言的&lt;/h2&gt;
-&lt;h3&gt;2.1 凹语言项目筹备阶段（ 2019-2020 ）&lt;/h3&gt;
-&lt;p&gt;为了启动语言项目，我们选择了以 Go 语言为蓝本开始设计语言，但是砍掉了 WASM 不需要的并发特性。
-当时的 V 语言和 TinyGo 项目也给了我们很多启发。Go 语言编译器本身是开源的，我们决定从 Go 蓝本开始这个线路极大降低了起步的难度。我们经常说，凹语言是站在 Go 语言的腰上成长起来的。&lt;/p&gt;
-&lt;p&gt;我们出版了《 Go 语言定制指南》这本书，并且首次公开了“凹语言”这个概念。在 2020 年，我们初步达成共识：“不做玩具车！”&lt;/p&gt;
-&lt;h3&gt;2.2 凹语言开源大事记&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-104.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;2.3 凹语言-国内首个实现纯浏览器编译+执行（ 2022.9 ）&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-107.png" /&gt;&lt;/p&gt;
-&lt;p&gt;这是凹语言的 Playground ，主要是扈梦明负责实现。&lt;/p&gt;
-&lt;h3&gt;2.4 凹语言-游戏-贪吃蛇(2023.1.8)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-108.png" /&gt;&lt;/p&gt;
-&lt;p&gt;贪吃蛇是凹语言开源半年时间，用凹语言第一次实现的小游戏。其虽然是通过比较原始的 API 来和 Canvas 交互，但第一次验证了凹语言在该方向的潜力。&lt;/p&gt;
-&lt;h3&gt;2.5 凹语言-入选 CNCF wasm 语言全景图(2023.9)&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-109.png" /&gt;&lt;/p&gt;
-&lt;p&gt;今年，凹语言有幸进入了 CNCF 的 wasm 语言全景图，其中很多都是 C/C++、Go 这种世界级的著名项目。
-能够和他们同列我们很荣幸，对凹语言项目组也是极大的鼓励。&lt;/p&gt;
-&lt;h2&gt;3. 如何以凹语言构建 WASM 程序&lt;/h2&gt;
-&lt;h3&gt;3.1 凹语言-脚手架&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-110.png" /&gt;&lt;/p&gt;
-&lt;p&gt;为了让 WASM 编程简单，凹语言内置了脚手架。在安装凹语言编译器之后，只需要 2 步即可生成并运行一个 WASM 示例。&lt;/p&gt;
-&lt;h3&gt;3.2 凹语言-Canvas - 简介&lt;/h3&gt;
-&lt;p&gt;在之前实现贪吃蛇时，使用的是比较底层的 API ，在编程的过程中经常需要在凹语言和宿主 JS 语言之间做深度切换，对于编程体验是一个极大的挑战。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-111.png" /&gt;&lt;/p&gt;
-&lt;p&gt;为此，在 9 月份项目组通过设计好用的 FFI ，以达到对跨 JS/凹语言提供更友好 API 的能力。在 FFI 的基础上我们重新次抽象了 Canvas 包。这是完全在凹语言环境直接操作 Canvas 对象，大大降低跨语言编程的噪声。&lt;/p&gt;
-&lt;h3&gt;3.3 凹语言-Canvas-更多案例&lt;/h3&gt;
-&lt;p&gt;有了更友好的 Canvas 接口之后，同类型的程序构造就会变成非常容易。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-105.png" /&gt;&lt;/p&gt;
-&lt;p&gt;这里的 3 个案例都是基于 Canvas 的例子：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;左边是在凹语言实现对文本信息的 QR 码编码为图片，然后显示在 Canvas 上。&lt;/li&gt;
-&lt;li&gt;中间的例子也是类似，基于分型的算法产生图片，然后显示在 Canvas 上。&lt;/li&gt;
-&lt;li&gt;右边的例子则是生命游戏，从静止的 Canvas 图片进化为视频，其中每一帧图片的处理逻辑依然类似。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;同样，基于新的 Canvas 接口重新实现贪吃蛇游戏也会更加简单。有兴趣的同学可以试一试。&lt;/p&gt;
-&lt;h3&gt;3.4 凹语言-游戏-任天堂 NES/FS 模拟器(2023.12.15)&lt;/h3&gt;
-&lt;p&gt;我第一次见到小霸王游戏机是在 90 年代初期，当时还是上小学的时候。然后在大学期间下载过游戏模拟器来玩坦克大战、超级玛丽这些经典游戏。当我们刚开始决定做凹语言的时候，有一个共识：“不做玩具车”。其实当时的想法是，通过凹语言能够来开发一些小玩具就可以了。而 NES 模拟器刚好可以满足小时候不花钱玩游戏的梦想，对于凹语言刚好也是一次很好的检验。开发组的小伙伴通过通力合作最终完成了凹语言版本 NES 模拟器的开发工作。整个核心凹语言代码将近 3 千行，在手机浏览器中执行非常的流畅——我当时突然意识到当初“不做玩具车”的小目标真的达成了！&lt;/p&gt;
-&lt;p&gt;感兴趣的图像可以通过二维码打开页面体验。项目的全部代码在 Gitee 仓库开源。&lt;/p&gt;
-&lt;h3&gt;3.5 凹语言-WebGPU-模拟土星(电脑浏览器打开)&lt;/h3&gt;
-&lt;p&gt;WASM 诞生之初是为了提升 JS 的性能，是面向的计算密集型的应用。而浏览器中的 WebGPU 也是通过新兴的 API 来释放本地硬件的计算能力。换言之，WASM 和 WebGPU 在计算密集型这个方向是有很大交集的。因此，凹语言的联合发起人丁尔男，在凹语 FFI 的基础上开始封装 WebGPU 特性，最终实现了模拟土星的 Demo 。由于 WebGPU 是电脑浏览器才有的能力，大家可以在电脑浏览器查看。项目的全部代码也是在 Gitee 开源。&lt;/p&gt;
-&lt;h3&gt;3.6 小结&lt;/h3&gt;
-&lt;p&gt;以上的例子都是在今年 8 月份凹语言发布 MVP 版本之后的成果。它们在本地都可以通过 wa run 命令执行，非常简单。&lt;/p&gt;
-&lt;h2&gt;4. 凹语言的未来规划&lt;/h2&gt;
-&lt;p&gt;通过前面展示的几个例子，我们相信凹语言已经可以用于生产，是一个可以真正开上路的车子了。对于未来发展我们依然保持灵活策略，目前阶段主要是打磨已有的功能，补充缺失的关键特性。可能包含：扩展标准库和测试；完善 Canvas 和 WebGPU 的库封装；优化性能和实现包管理工具。&lt;/p&gt;
-&lt;h2&gt;5. 最后&lt;/h2&gt;
-&lt;p&gt;凹语言项目是一次草根程序员对重新掌握工具的尝试。感谢凹语言的小伙伴们：项目联合发起人丁尔男，临委会委员扈梦明和赵普明，开发者通力合作完成了项目的一次次突破。我们希望通过这次努力能够获得更多的自由。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wa-lang.org/st0036-106.png" /&gt;&lt;/p&gt;
-&lt;p&gt;最后也欢迎大家加入凹语言社区，共同推动 WASM 生态的发展。对于程序员来说，这个过程既有趣又很酷！&lt;/p&gt;
-&lt;p&gt;谢谢大家！&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;原文链接：&lt;a href="https://wa-lang.org/smalltalk/st0036.html" rel="nofollow"&gt;https://wa-lang.org/smalltalk/st0036.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 17:30:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001014#reply0</guid></item><item><title>[香港] 从上海高铁去香港旅游，有住宿酒店的建议和极客式旅游的建议吗？ 送感谢</title><link>https://www.v2ex.com/t/1001013#reply9</link><description>&lt;p&gt;看看上海到香港 差不多 7 小时，感觉不是不能接受。&lt;/p&gt;
-&lt;p&gt;酒店不太熟悉，预算 1.5K/晚 上下五百都没问题&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 17:11:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001013#reply9</guid></item><item><title>[微信] 微信公众号回复文本如何插入快捷回复的链接？</title><link>https://www.v2ex.com/t/1001012#reply4</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="http://mmbiz.qpic.cn/sz_mmbiz_jpg/TJUPP58nkeMvA1yKEjyYvicxKdoAMCa9CIicTKST2cUTrABicib6KmLH1jicUsXpq9Bia3bX0Sft2JibZVGdjPX1IIBoQ/0?wx_fmt=jpeg" /&gt;
-图片地址： &lt;a href="http://mmbiz.qpic.cn/sz_mmbiz_jpg/TJUPP58nkeMvA1yKEjyYvicxKdoAMCa9CIicTKST2cUTrABicib6KmLH1jicUsXpq9Bia3bX0Sft2JibZVGdjPX1IIBoQ/0?wx_fmt=jpeg" rel="nofollow"&gt;http://mmbiz.qpic.cn/sz_mmbiz_jpg/TJUPP58nkeMvA1yKEjyYvicxKdoAMCa9CIicTKST2cUTrABicib6KmLH1jicUsXpq9Bia3bX0Sft2JibZVGdjPX1IIBoQ/0?wx_fmt=jpeg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;比如上图，用户扫码关注自动登录，用户可以直接点击链接，就会自动回复“确认登录”，这个应该不是 a 链接，应该有特殊的代码。想知道是如何实现的呢？&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 16:54:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001012#reply4</guid></item><item><title>[宽带症候群] 成都电信 9998 及以下端口被封了</title><link>https://www.v2ex.com/t/1001011#reply3</link><description>成都电信 9998 及以下端口被封了。有成都的朋友测试一下吗？&lt;br /&gt;今天发现 NAS 不能访问，测试了一下 9998 以下的全都不能用了。</description><pubDate>Sat, 16 Dec 2023 16:53:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001011#reply3</guid></item><item><title>[Apple] mac 高刷下切换桌面动画变慢</title><link>https://www.v2ex.com/t/1001010#reply1</link><description>系统 sonoma14.2&lt;br /&gt;&lt;br /&gt;特别是最后一点动画，明显比 60hz 慢&lt;br /&gt;&lt;br /&gt;有人知道怎么解决吗？</description><pubDate>Sat, 16 Dec 2023 16:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001010#reply1</guid></item><item><title>[iPhone] iPhone 如何设置快捷指令，解锁手机启动 shadowracket，锁屏关闭 shadowracket？</title><link>https://www.v2ex.com/t/1001009#reply4</link><description>&lt;p&gt;如题，有办法吗&lt;/p&gt;</description><pubDate>Sat, 16 Dec 2023 16:34:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001009#reply4</guid></item></channel></rss>
+&lt;h2&gt;下载地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/huhexian/2012-huhexian" rel="nofollow"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;如果你觉得有哪些地方可以改进，欢迎提交 PR ！！！如果发现了 Bug ，我不一定能修复，因为我没学过编程，不会前端，不会 PHP ，但是欢迎大家贡献自己的技术&lt;/strong&gt;！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果你使用了这款主题，可以留下你的网站，我会添加到 GitHub 页面上作为演示站展示&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Sun, 17 Dec 2023 14:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001160#reply0</guid></item><item><title>[问与答] 我感觉东方甄选这个事就是一场营销炒作</title><link>https://www.v2ex.com/t/1001159#reply11</link><description>他们经常搞这种类似的营销炒作事件&lt;br /&gt;那个董确实可能读过很多书，直播间看起来和其他大喊大叫不一样，再加上当时抖音需要这样的一个造神事件来缓解一下青黄不接的阶段，正好是天时地利，之后他们就不断炒作，包括剪辑各种短视频在抖音上发布，活动现场有专门人组织喊口号，跟明星经纪人那一套一样，记得之前有一次在户外被人泼矿泉水那个事，大概率也是提前安排炒作的。&lt;br /&gt;&lt;br /&gt;因为抖音是不会有一个网红一直红下去的，你想要红就需要不断制造事件来引发关注，引发关注最好的方法就是冲突，这样才能让大家都知道，至于那个 CEO 被开除，只是不当 CEO 而已，也许会去负责其他事情了，而且事发之前有曝过已经套现 2 亿。&lt;br /&gt;&lt;br /&gt;还有那个小编发布的评论，明显就不是小编自己发布的，感觉是有预谋的。当然这一切预谋董可能并不知道，也可能是参与中，但是老余和 CEO 肯定是参与其中的。&lt;br /&gt;&lt;br /&gt;所以我感觉一大群吃瓜群众和他们的粉丝都被骗了，都被当枪使了，成为别人赚钱工具。</description><pubDate>Sun, 17 Dec 2023 13:53:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001159#reply11</guid></item></channel></rss>
