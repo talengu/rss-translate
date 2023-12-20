@@ -1,40 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 20 Dec 2023 04:00:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 请求帮助， Netlify 无法通过 GitHub 登录</title><link>https://www.v2ex.com/t/1001920#reply0</link><description>&lt;p&gt;&lt;a href="https://app.netlify.com/signup" rel="nofollow"&gt;https://app.netlify.com/signup&lt;/a&gt; 登录页面&lt;/p&gt;
-&lt;p&gt;如题，无法通过 GitHub 登录，所以我甚至无法在 Netlify 社区发帖反馈，&lt;/p&gt;
-&lt;p&gt;切换代理，更换浏览器，隐私模式，关闭扩展插件。任何方法我都尝试了，结果都是一样的&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/oJWUP0s.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 04:00:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001920#reply0</guid></item><item><title>[程序员] 对内容类产品形态的流量模式思考</title><link>https://www.v2ex.com/t/1001919#reply0</link><description>对内容类产品形态的流量模式思考&lt;br /&gt;&lt;br /&gt;对一些内容类产品形态的流量模式忽然有一些感想。在此记录一下。&lt;br /&gt;&lt;br /&gt;web 1.0 时代&lt;br /&gt;&lt;br /&gt;一句话形容：我在我家做菜，大家吃。自己搞个博客，自己搞个 cms 。然后自己或者公司创造内容，给大家看。这个时候，大家想看到你的内容，就得来你的平台。&lt;br /&gt;&lt;br /&gt;web 2.0 时代&lt;br /&gt;&lt;br /&gt;一句话形容：大家在我们饭馆做的菜，大家来我们饭馆吃。这个时候的产品形态如微博，论坛，sns 。目前的短视频平台。等等&lt;br /&gt;&lt;br /&gt;这个时候也衍生出一些小的 “变种”。&lt;br /&gt;&lt;br /&gt;第一个变种，比如微信公众号，微信小程序。形容一下就是，你在我家租个房子，你在房子里做菜，给大家吃。&lt;br /&gt;&lt;br /&gt;第二个变种，今日头条。大家都在自己家做菜，我全部端到我家，请大家来我家吃。&lt;br /&gt;&lt;br /&gt;第三个变种，搜索引擎。你想吃什么菜，你告诉我。我不做菜，但是我知道你吃的菜谁家有。我把你带到他家吃。&lt;br /&gt;&lt;br /&gt;总结一下上面说的两个时代，其实我个人不认为这是两个时代，这只是两种模式。用流量领域的名词概括，就是私域流量和公域流量。私域流量就是你自己的平台，流量自己掌控，公域流量就是别人的平台，流量被被人掌控。&lt;br /&gt;&lt;br /&gt;但是这两种模式看着只是一点点改变，但实际上是天壤之别。&lt;br /&gt;&lt;br /&gt;私域是人性，公域是模式。人性是不会变的，但是模式可以一直变。&lt;br /&gt;&lt;br /&gt;互联网发展这么多年，哪怕 web 发展到 3.0 4.0 ，人们对私域的追求也不会改变。因为这是人性，是人的本能。人的本能就是想要掌控自己的命运，想要掌控自己的生活。这是人的本能，是人的天性。&lt;br /&gt;&lt;br /&gt;甚至说的远一点，github ，linux 等等这种看起来是共享，共建的平台。其中的每一个贡献者，追求的也是自己作为程序员的价值。&lt;br /&gt;&lt;br /&gt;每一个奉献者追求的也是自我的人生价值。&lt;br /&gt;&lt;br /&gt;回到我想表达的话题：&lt;br /&gt;&lt;br /&gt;我发现产品的形态，其实就是在不断的变换私域和公域的关系。好的产品，是从人性来出发和思考。但基于我以上一大堆废话的思考，这句话可以变一下，好的产品，都在尊重和迎合人性自私自我的一面。&lt;br /&gt;&lt;br /&gt;比如 最早时候的博客，现在依旧有人用的好，比如阮一峰。比如微信公众号里的池建强，冯大辉等等。&lt;br /&gt;&lt;br /&gt;甚至在所谓 web2.0 形态里的微博，视频号，抖音，今日头条，最初是公域流量，但是一旦公域流量获取的足够多，变成了大 V 。变成了品牌和 IP ，这个时候就是私域流量了。即使这个平台把他的账号删除，品牌换一个阵地还原流量的成本是极低的。&lt;br /&gt;&lt;br /&gt;所以一个好的内容类产品，需要思考怎么去满足私域。这可能需要决心和勇气，因为这意味着平台要放弃一些公域流量。但如果不这么做，平台的维持会变得非常吃力，甚至一旦停止运营就会死掉。&lt;br /&gt;&lt;br /&gt;继续举几个反面例子。用 CMS 和论坛举例子。&lt;br /&gt;&lt;br /&gt;首先是 CMS ，无论是国内还是国外，CMS 被各种层出不穷的产品形态冲击的奄奄一息了。CMS 的流量来源是非常被动的。我在我家做菜，你来我家才能吃。在这个流量至上的时代，CMS 的的流量获取显得非常吃力，到现在已经仅仅成了品牌展示，企业展示，业务展示的用途，而不是真正的内容产品。&lt;br /&gt;&lt;br /&gt;再举个论坛的例子。论坛是大家做菜，大家吃，只是都必须来我家。但对于流量本身，表面上论坛和作者的关系是互惠互利，互相依赖。但结合我上面说的，私域是人性。实际上，论坛是在不断的剥削内容作者的私域价值。鼓励你参与，给你的奖励是用户的评论，点赞和其他人的认同感。对于用户的私域流量，或者用户的品牌和 IP 建设，帮助非常有限，也非常困难。&lt;br /&gt;&lt;br /&gt;这也是论坛越来越行业化，专业化，细分化，小众化，甚至死掉的原因。国外我不清楚，国内大众化的社区，做的好的论坛，可能连 10 个都不到。我知道的就是 NGA 社区，v2ex ，和一些游戏社区。其他的实在不知道。&lt;br /&gt;&lt;br /&gt;它不符合人的本能。&lt;br /&gt;&lt;br /&gt;这是我的思考。可能有些地方说的不对，但是我觉得这是一个很有意思的话题。&lt;br /&gt;&lt;br /&gt;我这两年看到很多人还在搞 cms 产品。论坛产品。万变不离其宗，看来看去，其实都没思考过这个问题，做出来的产品依旧是对以前 cms 和 bbs 的简单复刻。这样的产品，我觉得是没有未来的。&lt;br /&gt;&lt;br /&gt;我们看看国外一些论坛和 cms 是怎么思考的。&lt;br /&gt;&lt;br /&gt;论坛，用 Hacker News 举例。它做的不仅仅是发帖回帖。它是把转载和评论结合到一起。你在自己的博客里创造了一个很有意思的话题，你可以把你这个文章的链接发在 Hacker News 。别人看的时候，是点进你的博客看的。而不是停留在 Hacker News 里面看。但是你也可以在 Hacker News 里面，看到别人对于你这篇文章的评论。你有了私域，Hacker News 也有了生命力。&lt;br /&gt;&lt;br /&gt;CMS ，国外目前很流行无头 CMS ，国外有大量的无头 CMS 。所谓的无头 CMS ，就是你只有一个 CMS 的管理后台，没有前台。它提供给你 api 。你可以使用 api 把自己的内容放在任何地方。或者做成任何产品。你只需要在后台发布一篇文章。这篇文章可以出现在使用你 api 的所有产品里。你可以基于 api 做任何你想要的形态，或者是内容平台，或者是企业网站，品牌展示等等，并不局限。&lt;br /&gt;&lt;br /&gt;这个产品形态的改变大大的延长了 CMS 的生命周期。同一个内容可以在很多场合出现，而不是局限在一个平台。对于 CMS 这个产品形态本身，也是一种革命。&lt;br /&gt;&lt;br /&gt;这是我对于内容类产品形态的一些思考。希望能和大家一起讨论。&lt;br /&gt;&lt;br /&gt;这篇内容其实想说的很多，比如对于国内博客，社区等等现状的思考。其实很多和国情和制度也有关系。只是没办法说。</description><pubDate>Wed, 20 Dec 2023 03:59:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001919#reply0</guid></item><item><title>[问与答] 狼人杀是不是一个可以锻炼社交能力的游戏？</title><link>https://www.v2ex.com/t/1001917#reply0</link><description>大量的沟通&lt;br /&gt;需要频繁地思考对方说话的含义，需要针对性的提炼对方的意图&lt;br /&gt;对语言的不同方向进行思考，需要敏锐察觉出话语间隐含的攻击性&lt;br /&gt;找语言漏洞&lt;br /&gt;并且身份信息的不同视野也不一样，可以锻炼代入对方的能力，以及读人际关系的能力</description><pubDate>Wed, 20 Dec 2023 03:53:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001917#reply0</guid></item><item><title>[分享发现] 中国工程院等单位发布 2023 年全球十大工程成就</title><link>https://www.v2ex.com/t/1001915#reply0</link><description>包括：ChatGPT 、中国空间站、百亿亿次超级计算机、白鹤滩水电站、双小行星重定向测试、RTS,S/AS01 疟疾疫苗、鸿蒙操作系统、Spot &amp;amp; Atlas 机器人、锂离子动力电池、无人驾驶航空器。&lt;br /&gt;&lt;br /&gt;链接: &lt;a href="https://news.mydrivers.com/1/953/953499.htm" rel="nofollow noopener" target="_blank"&gt;https://news.mydrivers.com/1/953/953499.htm&lt;/a&gt;</description><pubDate>Wed, 20 Dec 2023 03:51:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001915#reply0</guid></item><item><title>[问与答] 擦擦边月入 4w+， 好想回老家擦边 一万就能爽翻天</title><link>https://www.v2ex.com/t/1001914#reply0</link><description>每天六点开播，&lt;br /&gt;白天还能到处去玩&lt;br /&gt;&lt;br /&gt;呜呜呜，真羡慕&lt;br /&gt;&lt;br /&gt;转播她的直播能不能搞，各位 V 友&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.douyin.com/user/MS4wLjABAAAA420FU4z4g6haJSisiJAVjN_UDOMySTyoA77Dc1yIlqU" rel="nofollow noopener" target="_blank"&gt;https://www.douyin.com/user/MS4wLjABAAAA420FU4z4g6haJSisiJAVjN_UDOMySTyoA77Dc1yIlqU&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.douyin.com/user/MS4wLjABAAAA4xVWr2CxkDU_F9CpjT2IbzMhlQZR9fELqH5vGSyw_SM" rel="nofollow noopener" target="_blank"&gt;https://www.douyin.com/user/MS4wLjABAAAA4xVWr2CxkDU_F9CpjT2IbzMhlQZR9fELqH5vGSyw_SM&lt;/a&gt;</description><pubDate>Wed, 20 Dec 2023 03:50:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001914#reply0</guid></item><item><title>[生活] 「元旦 &amp; 春节」代看、代溜您家可爱的宠物</title><link>https://www.v2ex.com/t/1001913#reply0</link><description>&lt;p&gt;元旦，春节即将到来，您放心回家团聚，您家的宠物有我们来代看、代溜。价格合适，覆盖北京城六区，欢迎来撩。。。。。。。&lt;/p&gt;
-&lt;p&gt;评论留下您的联系方式，我们团队小伙伴来联系您&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:49:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001913#reply0</guid></item><item><title>[深圳] 深圳南山部分区域联通 5G 基站故障</title><link>https://www.v2ex.com/t/1001912#reply0</link><description>&lt;p&gt;折腾了半天，还以为手机坏了，最后发现是 5G 基站问题，信号满格无法上网。4G 没有问题。垃圾联通客服，区域性故障也不发短信告知用户，浪费半天时间排查。普通客服也一问三不知，还得技术专员才能定位故障，态度也轻描淡写：等两天就好了。这种故障能等两天？服了。。。现在手机都不让设置仅 4G 了，还得进测试模式调 LTE only 。&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:47:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001912#reply0</guid></item><item><title>[Apple] 微信突然没有消息提醒了，有一样的吗？</title><link>https://www.v2ex.com/t/1001911#reply1</link><description>&lt;p&gt;前天开始微信突然没有消息提醒了，确定了通知设置没有任何改变，重新设置了一遍，手机重启，都没用，也没有打开专注模式，其他 app 都正常的。有没有人和我一样的？或者有大佬知道原因的。&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:45:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001911#reply1</guid></item><item><title>[问与答] 受不了了，红米 4K 显示器那供电， typeC 供电不稳</title><link>https://www.v2ex.com/t/1001909#reply0</link><description>去年 618 入的红米 4K ，手持 macbook pro m1, 使用官方的 typeC 一线通连接。&lt;br /&gt;&lt;br /&gt;当电池电量不是 100%的时候，显示器就会时有时无（通过 istat 查看，是功率有时候有 65W ，有时候只有 12W ，电脑时而检测到显示器，时而检测不到），怀疑是线的问题，换了一条全新的原装线也一样；怀疑是电脑问题，换了同事的一线通的又不会有这问题。&lt;br /&gt;&lt;br /&gt;一通操作下来，最大的怀疑就是这个红米 4K 的供电不稳，不知道有没有遇到同样问题的朋友。</description><pubDate>Wed, 20 Dec 2023 03:43:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001909#reply0</guid></item><item><title>[问与答] 突然意识到一些认知以外的挣钱方式，请各位指导一下</title><link>https://www.v2ex.com/t/1001908#reply9</link><description>&lt;p&gt;由于最近在申请学习办签证去加拿大读书，在看汇率换币的过程中，突然发现有几种是认知之外的挣钱方式，不知道其中是否有猫腻，给我的感觉是挣钱太轻松了，请各位指点一下。&lt;/p&gt;
-&lt;p&gt;1.买外汇，以加币兑人民币来看，基本每年 3,4 月，或者开学后会暴跌一波到 1:5 ，然后八九月份开学前会升到 1:5.5 ，其他的时候大部分都是 1：5.3,5.4 上下。 那只要我在 1：5 的时候兑换了加币，在 1:5.3,5.4 的时候卖出，似乎就能拿到至少 5%的年利润，在招商银行的 APP 里面是能直接兑换和卖出，也没什么特别难或者要申请的操作，看起来性价比跑赢绝大部分的基金股票吧。 &lt;/p&gt;
-&lt;p&gt;2.买美股，刚看了一下苹果特斯拉微软亚马逊等大厂的股票，今年升幅都是 40%+，在这种情况下开一个香港账号去买美股，甚至都不需要什么股票知识，随便买大厂走长线持有（ 21 年 11 月高点除外），每年能有很高的性价比。这个不确定会不会涉及法律法规被铁拳。&lt;/p&gt;
-&lt;p&gt;在上面的两个情况下，是否有猫腻我并没有注意到？或者一些兑换的手续费之类的情况？&lt;/p&gt;
-&lt;p&gt;股票参考数据：
-&lt;a href="https://www.google.com/finance/quote/AAPL:NASDAQ?sa=X&amp;amp;ved=2ahUKEwiUk5vYh52DAxW2rokEHYedBCsQ3ecFegQIRhAh&amp;amp;comparison=NASDAQ%3AMSFT%2CNASDAQ%3AAMZN%2CNASDAQ%3ATSLA%2CNASDAQ%3ANFLX&amp;amp;window=5Y" rel="nofollow"&gt;https://www.google.com/finance/quote/AAPL:NASDAQ?sa=X&amp;amp;ved=2ahUKEwiUk5vYh52DAxW2rokEHYedBCsQ3ecFegQIRhAh&amp;amp;comparison=NASDAQ%3AMSFT%2CNASDAQ%3AAMZN%2CNASDAQ%3ATSLA%2CNASDAQ%3ANFLX&amp;amp;window=5Y&lt;/a&gt;
-加币汇率参考数据：
-&lt;a href="https://www.google.com/finance/quote/CAD-CNY?sa=X&amp;amp;ved=2ahUKEwjg85yIjJ2DAxUaATQIHRNnAvUQmY0JegQIBhAr&amp;amp;window=1Y" rel="nofollow"&gt;https://www.google.com/finance/quote/CAD-CNY?sa=X&amp;amp;ved=2ahUKEwjg85yIjJ2DAxUaATQIHRNnAvUQmY0JegQIBhAr&amp;amp;window=1Y&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:41:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001908#reply9</guid></item><item><title>[生活] 另一个角度:证明等额本金利息更高</title><link>https://www.v2ex.com/t/1001907#reply2</link><description>&lt;p&gt;经常在网上看到等额本金节约利息的论断.&lt;br /&gt;
-当然我们知道利息都是用剩余本金计算的,无论等额本金还是等额本息都没差别.&lt;/p&gt;
-&lt;p&gt;以贷款 100 万,当前的 LPR(4.2%)举例.&lt;/p&gt;
-&lt;p&gt;贷款 30 年,等额本金首月还款 6277.78 元. 总计利息 631750 元.&lt;br /&gt;
-贷款 30 年,等额本息每月还款 4890.17 元. 总计利息 760461 元.&lt;/p&gt;
-&lt;p&gt;所以这就得出结论是等额本金节约利息么?错了&lt;br /&gt;
-更改为贷款 20 年,等额本息每月还款 6165.71 元. 总计利息 479769 元.&lt;br /&gt;
-等额本息(20 年)每月还款额比等额本金(30 年)首月还款额还低,而且利息更是低了 25%.&lt;/p&gt;
-&lt;p&gt;等额本金节约利息的论断完全无视了还款能力(这个还款能力不单指实际还款能力,也包括银行对贷款者的收入要求),刻舟求剑地用相同年限的贷款进行计算.&lt;br /&gt;
-贷款者有能力等额本金进行还款,那就有能力减少年限地使用等额本息还款.  &lt;/p&gt;
-&lt;p&gt;如果不能接受"其实等额本息和等额本金的利息计算方式是一致的,都是剩余本金实时产生的",那就接受"等额本息更节约利息"的结论吧.&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:40:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001907#reply2</guid></item><item><title>[旅行] 大理很好，就是吃饭不太习惯</title><link>https://www.v2ex.com/t/1001906#reply0</link><description>&lt;p&gt;说起来在大理吃的最好吃的一顿饭，还是第一天到大理在民宿老板家吃的。&lt;/p&gt;
-&lt;p&gt;在大理吃了一个多礼拜外卖，也在古城周围的小馆子吃过很多次，可能是个人口味不同，我感觉这边的饮食都很不好吃。&lt;/p&gt;
-&lt;p&gt;我个人不挑食，习惯广式清淡口味。湘菜和川菜也能接受，但是感觉这边外卖的湘菜和川菜都变味了。很难形容，难以下咽的感觉，吃完没有满足感和饱腹感。&lt;/p&gt;
-&lt;p&gt;昨天去吃了心心念念的菌子火锅，吃完感觉也很普通。没有惊艳的地方，和其他清汤火锅差不多。一起吃菌子火锅的小哥说这边遍地都是的石板烧也很一般，我决定不去尝试。&lt;/p&gt;
-&lt;p&gt;我不会做饭，主要是一个人吃饭炒菜洗碗刷锅，整套流程下来又繁琐又费时间。一个人又吃不了多少。&lt;/p&gt;
-&lt;p&gt;为了解决吃饭问题，我甚至考虑过买预制菜，热一下就能吃的那种。&lt;/p&gt;
-&lt;p&gt;最终还是决定买个电饭煲和煮汤锅。每餐煮一下饭煲一个汤。&lt;/p&gt;
-&lt;p&gt;比炒菜简单，比外卖好吃。&lt;/p&gt;
-&lt;p&gt;据说这边本地人的席很好吃，经常在网上看到去本地人家吃席。很想去体验一下，但是没有认识的人。在这里希望找一个能带我去吃席的搭子，会随礼&lt;/p&gt;
-&lt;p&gt;......&lt;/p&gt;
-&lt;p&gt;除了吃饭问题，我个人对大理其他方面都很喜欢。如果条件允许考虑长居。&lt;/p&gt;
-&lt;p&gt;房间拉开窗帘就能看到苍山顶上的积雪，这一点尤其喜欢。大多时候无所事事，就坐在床上望着苍山发呆。楼顶观景一绝，前面是洱海后面是苍山。&lt;/p&gt;
-&lt;p&gt;大理的气候早晚有些冷，中午出太阳了很舒服。紫外线很强，注意尽可能不要让太阳直晒皮肤。气候很干燥，可以买一个润唇膏。&lt;/p&gt;
-&lt;p&gt;大理出行最方便还的是电动车。刚到大理的前两天我还想整个自行车溜达，一个礼拜后完全放弃了自行车的想法。这边的坡很多，自行车根本爬不动。&lt;/p&gt;
-&lt;p&gt;我尤其喜欢这边的慢节奏生活，习惯了在深圳像打仗一样的赶时间，在这边放松下来非常舒适。&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:38:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001906#reply0</guid></item><item><title>[酷工作] [深圳] [Abap 开发] 外企乙方 需要英语沟通能力 35 万</title><link>https://www.v2ex.com/t/1001905#reply0</link><description>Location: 深圳南山区 A8 音乐大厦&lt;br /&gt;Language:  English Business level&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;ABAP Developer &lt;br /&gt;&lt;br /&gt;1. Proven experience as an ABAP Developer with a strong understanding of SAP modules and business processes.&lt;br /&gt;2. Proficient in ABAP programming language, including ABAP Objects, ABAP Web Dynpro, and ABAP Workbench.&lt;br /&gt;3. Knowledge of SAP development tools like SAP NetWeaver, SAP HANA, and SAP Fiori is highly desirable.&lt;br /&gt;4. Strong analytical and problem-solving skills to identify and resolve technical issues efficiently.&lt;br /&gt;5. Excellent communication and interpersonal skills to collaborate effectively with cross-functional teams and stakeholders.&lt;br /&gt;6. Ability to work independently and manage multiple tasks with minimal supervision.&lt;br /&gt;7. Detail-oriented with a focus on delivering high-quality code and solutions.&lt;br /&gt;8. Knowledge of software development life cycle (SDLC) methodologies and agile development practices.&lt;br /&gt;9. SAP certification in ABAP development is a plus.&lt;br /&gt;10. Willing to join the Team as FTE （ perm ）&lt;br /&gt;&lt;br /&gt;是一家德国的 IT 咨询公司，主要为制造业客户提供 SAP 的导入运维服务。&lt;br /&gt;现在中国客户增多，需要扩大团队。在上海和深圳都有 office 。&lt;br /&gt;每周 1-2 天在家办公。&lt;br /&gt;&lt;br /&gt;另需要熟悉云环境的后端开发，也需要英语能力。&lt;br /&gt;有兴趣请联系 wx：END78999</description><pubDate>Wed, 20 Dec 2023 03:37:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001905#reply0</guid></item><item><title>[程序员] 分享一套基于 Vue3+tailwindcss+Element Plus 的后台管理面板</title><link>https://www.v2ex.com/t/1001904#reply0</link><description>功能比较简单，但实现了基本的 UI 、权限、菜单管理、兼容移动端、中英文切换等。可快速地创建表单和列表一类的，也集成了图表，图标一类的。&lt;br /&gt;&lt;br /&gt;主要做一些后台管理的一些基础功能，可以省去一些重复性工作。&lt;br /&gt;&lt;br /&gt;其实我一年前就开发了，准备放出来，但后来又没时间完善。现在有点时间我先分享出来，慢慢地把它做得更完善。&lt;br /&gt;&lt;br /&gt;演示：&lt;br /&gt;&lt;a href="https://tanxiaoqing.top" rel="nofollow noopener" target="_blank"&gt;https://tanxiaoqing.top&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;仓库：&lt;br /&gt;&lt;a href="https://github.com/xiaoqing-tan/vue3dashboard" rel="nofollow noopener" target="_blank"&gt;https://github.com/xiaoqing-tan/vue3dashboard&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果对你有点帮助可以点个小赞</description><pubDate>Wed, 20 Dec 2023 03:35:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001904#reply0</guid></item><item><title>[问与答] 视频通话需求，有没有一个方便且便宜的解决方案？</title><link>https://www.v2ex.com/t/1001903#reply1</link><description>&lt;p&gt;目前情况是这样的，我们和父母居住在同一栋楼，不同楼层，平时吃饭都是在父母那边吃。&lt;/p&gt;
-&lt;p&gt;由于每次打电话都很麻烦，搞了个小爱音箱，配合无线开关，基本实现了饭点一键通知。&lt;/p&gt;
-&lt;p&gt;但是沟通上还是不方便，新买的小爱音箱 pro 没有设备号，所以不能和原来的音箱互打语音电话。&lt;/p&gt;
-&lt;p&gt;想着有没有方便的视频通话设备，看了一下米家的智能家庭屏幕，要 700 多，有点贵，配上 6 个的话还真是一笔不小的开销（ 749*6=4494 ）。不知道目前有没有易于操作，性价比更高的解决方案。大概算了一下有 6 个房间需要，心理预算就 3000 左右，如果有使用体验佳的方案，也可以适当提升预算。&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:34:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001903#reply1</guid></item><item><title>[程序员] [目标贴] 2023 已经结束了，定一个 24 年目标吧！</title><link>https://www.v2ex.com/t/1001902#reply8</link><description>&lt;p&gt;2024 ，我们一起迈向更美好的未来！&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:33:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001902#reply8</guid></item><item><title>[问与答] 2023 年底， Google One 最佳方案是啥？</title><link>https://www.v2ex.com/t/1001899#reply1</link><description>现在用的应该是美区 100GB ，每年 19.9 刀的方案，有娃之后照片和视频量大增，100GB 的方案不够用了，问下老哥们现在换方案换到哪个国家地区比较合适？如果有车可以搭也可以。</description><pubDate>Wed, 20 Dec 2023 03:29:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001899#reply1</guid></item><item><title>[程序员] Excel 导出数据，同样的行数、同样的内容，为什么用 datagrip 导出的和我自己写的导出的文件 size 差别那么大</title><link>https://www.v2ex.com/t/1001897#reply0</link><description>datagrip 导出 11w 多数据只有 3.8M&lt;br /&gt; &lt;br /&gt; 我的要 21M</description><pubDate>Wed, 20 Dec 2023 03:25:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001897#reply0</guid></item><item><title>[Spotify] Spotify 求个拼车位，最好是港区的</title><link>https://www.v2ex.com/t/1001896#reply1</link><description>&lt;p&gt;wx: MTg1NTEyMzUyODA=&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 03:24:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001896#reply1</guid></item><item><title>[问与答] 你选购手机最重要的几个考虑点是什么？</title><link>https://www.v2ex.com/t/1001895#reply2</link><description>RT ，我觉得性能已经不是我考虑重要的点&lt;br /&gt;&lt;br /&gt;我考虑的是，屏幕、信号、续航，比较下来似乎中庸之选是荣耀&lt;br /&gt;&lt;br /&gt;虽然我不喜欢这个牌子</description><pubDate>Wed, 20 Dec 2023 03:23:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1001895#reply2</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 20 Dec 2023 12:38:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[VPS] BandwagonHost CN2 GIA VPS 转让</title><link>https://www.v2ex.com/t/1002081#reply0</link><description>&lt;p&gt;用了好几年了，一直挺稳定的，最近也一直用来连 ChatGPT ，除了用着贵了一点，没什么其他问题。
+最近换了新的服务器，于是转让这台服务器。&lt;br /&gt;
+配置信息：&lt;br /&gt;
+SPECIAL 10G KVM PROMO V5 - LOS ANGELES - CN2 GIA LIMITED EDITION&lt;br /&gt;
+RAM 512M&lt;br /&gt;
+Disk 10G&lt;br /&gt;
+Bandwidth：500G&lt;br /&gt;
+续费 44.49$/Y&lt;br /&gt;
+可以换机房，包括 DC6/DC9 ，日本软银,加拿大 GIA   &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;US: Los Angeles, California (DC6 CT CN2GIA-E) [USCA_6] (current)
+US: Los Angeles, California (DC9 CT CN2GIA) [USCA_9]
+US: Los Angeles, California (DC3 CN2) [USCA_3]
+US: Los Angeles, California (DC8 ZNET) [USCA_8]
+US: Los Angeles, California (DC2 AO) [USCA_2]
+US: Los Angeles, California (DC4 MCOM) [USCA_4]
+US: Fremont, California [USCA_FMT]
+US: New Jersey [USNJ]
+US: New York [USNY_2]
+CA: British Columbia, Vancouver [CABC_1]
+CA: British Columbia, Vancouver (CN2GIA) [CABC_6]
+EU: Amsterdam, Netherlands [EUNL_3]
+EU: Amsterdam, Netherlands (China Unicom Premium) [EUNL_9]
+Japan: Osaka (Softbank) [JPOS_1]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;到期时间是 2024/11/29,剩余价值 310 ；还有 18.35$ credits&lt;br /&gt;
+需要说明的是不带原始邮箱，只能改邮箱出 &lt;/p&gt;
+&lt;p&gt;有需要的朋友可以可以联系 QQ(base64):MjI4NjE4Njgw&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 12:27:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002081#reply0</guid></item><item><title>[Apple] 13PM、14Ps、15Ps 怎么选</title><link>https://www.v2ex.com/t/1002080#reply3</link><description>手持 11pro ，系统一直跟着升到 17.2.1 ，最首要的续航已经有点遭不住了&lt;br /&gt;平常经常看视频,也经常用人像模式拍照,缺个 5G 没体验过,双持一台 Pixel5,全局 90Hz 让我感觉我对高刷并不算敏感.&lt;br /&gt;预算内看中了 13PM 、14Plus 、15Ps&lt;br /&gt;13PM 有人像摄像头、高刷&lt;br /&gt;14Ps 续航够,能便宜入&lt;br /&gt;15Ps 有灵动岛+Type C&lt;br /&gt;这三个机子怎么选好?&lt;br /&gt;还是或者说入一台 iPad mini? (但其实很多 app 对 iPad 的适配好像不算好)</description><pubDate>Wed, 20 Dec 2023 12:18:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002080#reply3</guid></item><item><title>[问与答] 买二手 3070 还是全新 4060ti，大家怎么选择</title><link>https://www.v2ex.com/t/1002079#reply3</link><description>就想买张显卡，也不知道自己有多爱打游戏，可能新鲜感过了就卖了</description><pubDate>Wed, 20 Dec 2023 12:17:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002079#reply3</guid></item><item><title>[酷工作] 量化招聘： Quant/PM 专场-新加坡-Global Pay</title><link>https://www.v2ex.com/t/1002078#reply0</link><description>▪️招聘：Quant/PM&amp;amp;新加坡&amp;amp;Global Pay&lt;br /&gt;▫️职位：Quant/PM&lt;br /&gt;▪️公司：量化对冲基金&lt;br /&gt;▫️地点：新加坡&lt;br /&gt;▪️推荐奖：5000 -30000 元人民币&lt;br /&gt;▫️薪资：Global Pay&lt;br /&gt;▪️关键词：量化，对冲基金，quant ，AI ，python ，hydge found&lt;br /&gt;&lt;br /&gt;欢迎加入 FinTech 社区🎉 5 万+会员量化/AI 招聘社区，quant 群，技术群，求职群&lt;br /&gt;&lt;br /&gt;▪️500+量化职位合集:&lt;a href="https://lnkd.in/g3cFRwdX" rel="nofollow noopener" target="_blank"&gt;https://lnkd.in/g3cFRwdX&lt;/a&gt;&lt;br /&gt;▫️微信：Fintechgl1&lt;br /&gt;▪️邮箱： career@fintechgl.com  &lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.v2ex.com/i/oZtv7EQrl.jpeg" rel="nofollow noopener" target="_blank" title="在新窗口打开图片 oZtv7EQrl.jpeg"&gt;&lt;img class="embedded_image" src="https://i.v2ex.co/oZtv7EQrl.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 20 Dec 2023 11:59:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002078#reply0</guid></item><item><title>[Apple] 十二年 Andorid 转 iOS 有感</title><link>https://www.v2ex.com/t/1002077#reply3</link><description>&lt;p&gt;大概 2011 年吧，正式从日渐衰微的塞班系统转 Android ，第一款选了 moto 的 Defy ，从此开始了我的 Android 旅程，此后开始在 Google 的 Nexus 、Pixel 系列下玩机，后面国外品牌逐渐拉跨，国产品牌崛起，用了 Oneplus ，oppo find 系列，然后 FindN1 、N2 大折叠、Razr Ultra 小折叠，总之 2023 年，对 Android 折腾累了，入了 15PM 。
+为什么放弃安卓呢，有以下几点：
+1.国产安卓定制程度高，但 OTA 频率低，基本入手后就是等大本版更新，管生不管埋；
+2.割裂的通知机制。国内鱼龙混杂的推送 sdk ，还有安卓奇葩的必须挂后台才能接收推送的机制；
+3.Google Pixel 系列的逐渐拉跨，年年用自研（三星）处理器，性能拉跨不说，基带信号还差的要死，性价比相较曾经的 nexus 也无了；
+4.生态混杂。本来安卓牌子就多，出的配套设备也是有一出没一出，换个其他牌子，某些特性就没了。
+5.内存管理成谜。虽说近年内存都挺大，评测对保活数量也显著高于果子，但对于大型游戏的保活做的一团糟，管你怎么设置驻留、去省电优化，结果就是随性的时好时坏。直接点名 Oppo 的 ColorOS ，保活没做好，通知推送竟然还不会响
+自入了 15PM 后，有如下体验
+优点：
+1.统一通知推送。别扯什么微信延迟，就绝大部分应用通知推送非常及时。
+2.生态完备。这个就不说了，明摆着的，现在入了 watch 、airpods ，tv ，等后面新出的 iPad 、mac
+3.体验舒适。都说 iOS 软件制作精美，比 Android 要好不少。真的，至少 Google App 在 iOS 上做的真比自家 Pixel 要强，无论哪方面。apple tv 和 google 4k 一比，高下立判。
+4.屏幕素质。不知道为啥，看果子的屏幕就是挺舒服，可能被近年的国产屏惯的。
+5.siri+快捷指令。非常好用，配合我的 ModelY ，语音控制空调、前后备箱、媒体音量，直接打通车内午睡嘴动流程
+6.周边丰富。想起以前给 Pixel 配些配件都要海淘或者代购，也是醉了，费心费力。
+7.谷歌服务支持优异。这点非常好评，比在 android 下折腾方便多了，用个外区 id 就搞定下载事宜了。
+8.续航满意。Wifi 下是个战神，蜂窝下是个怂。
+缺点：
+1.贵。RAM 和 ROM 都是金子做的；
+2.无线充电鸡肋。不带散热的无线充就是电池杀手；
+3.信号中等偏下。我是单卡，只能说比国产差，比 pixel 好；
+4.骚扰电话及短信没有合理处置措施。
+5.国产化轻微。什么 T9 播放、通话录音别想了。
+6.大刘海。说实话挺影响通知查看的，有时一个不留神，错过挺多通知，每天都要集中时间划呀划。
+7.面容识别。摘了眼镜就不认识我了。晚上解锁也是问题。
+总之处于不折腾的年纪了，就姑且这么用着，目前来说，满意。&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:57:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002077#reply3</guid></item><item><title>[MacBook Pro] 14.2.1 这是又把显示器 USBC 充电给整出 bug 了？</title><link>https://www.v2ex.com/t/1002076#reply1</link><description>&lt;p&gt;下班回家
+把 Mac 升级系统到 14.2.1
+然后就发现显示器无法给 MacBook Pro 充电了
+卧槽
+21 年就整过一回，然后 AOC 换了 LG 的显示器
+现在又来&lt;/p&gt;
+&lt;p&gt;MacBook Pro M1&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:54:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002076#reply1</guid></item><item><title>[问与答] 帮朋友问问电脑配置清单</title><link>https://www.v2ex.com/t/1002074#reply4</link><description>&lt;p&gt;已经有 3070 显卡了
+配置连接：
+&lt;a href="https://diy.jd.com/#/assembleDetail?id=6663356&amp;amp;diyType=0&amp;amp;rid=3e0c2a64&amp;amp;share=1&amp;amp;path=myinstall" rel="nofollow"&gt;https://diy.jd.com/#/assembleDetail?id=6663356&amp;amp;diyType=0&amp;amp;rid=3e0c2a64&amp;amp;share=1&amp;amp;path=myinstall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;图如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/LwGqjPr.png" /&gt; &lt;/p&gt;
+&lt;p&gt;有啥需要调整的吗？玩云顶，吃鸡，和 skyline
+没玩游戏，不知道这些配置够不够&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:45:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002074#reply4</guid></item><item><title>[问与答] 请教：油管已锁区，用网上教的办法换区不成功 ，怎么办？</title><link>https://www.v2ex.com/t/1002073#reply4</link><description>&lt;p&gt;油管锁区，购买的年包 premium 还在使用，想通过购买图书的方式换区，没成功。有能成功的换区办法吗？&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:42:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002073#reply4</guid></item><item><title>[问与答] 路由器分流的奇怪问题，下载&gt;50M 左右就断流</title><link>https://www.v2ex.com/t/1002072#reply0</link><description>&lt;p&gt;跟风搭了个 RouterOS,通过 ospf 同步国外的路由表，将国外 ip 请求分流到一台搭了 clash 的 debian 上。&lt;/p&gt;
+&lt;p&gt;clash 开启了 tun 模式。&lt;/p&gt;
+&lt;p&gt;局域网内的机器都可以正常上网，但是下载国外文件大于四五十 M 就直接断了，同时开网页还是正常的。&lt;/p&gt;
+&lt;p&gt;把网关直接指向 debian ，下载文件就不会断&lt;/p&gt;
+&lt;p&gt;RouterOS 配置就看这篇&lt;a href="https://gitee.com/callmer/routeros_toss_notes/blob/master/05.%E8%AE%BE%E7%BD%AE%E9%98%B2%E7%81%AB%E5%A2%99.md" rel="nofollow"&gt;教程&lt;/a&gt;来的，没发现有什么特别的防火墙规则&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:37:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002072#reply0</guid></item><item><title>[程序员] [寻求企业资源合作] 一手号商，手上有 80 万刀 gpt 4.0 额度，最低可以做到 0.8-1.5 元/💲，有量有价，寻求企业资源合作</title><link>https://www.v2ex.com/t/1002069#reply0</link><description>&lt;p&gt;[寻求企业资源合作] [寻求企业资源合作] 一手号商，手上有 80 万刀 gpt 4.0 额度，最低可以做到 0.8-1.5 元/💲，有量有价，寻求企业资源合作&lt;/p&gt;
+&lt;p&gt;可拉组织给 reader ，给原生 key ，一手供应商，拒绝中间商赚差价，有需要的欢迎联系 ZHVja2dwdDAwNw==&lt;/p&gt;
+&lt;p&gt;也有高速率的直连中转，欢迎加 VX 联系&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:29:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002069#reply0</guid></item><item><title>[程序员] SSL 证书 是不是互联网新时代的人头税啊。。。。</title><link>https://www.v2ex.com/t/1002068#reply11</link><description>求推荐个便宜的证书啊~~&lt;br /&gt;现在网站都要这玩意了。。。</description><pubDate>Wed, 20 Dec 2023 11:14:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002068#reply11</guid></item><item><title>[程序员] 和朋友公司之间签合同有必要写的太详细吗</title><link>https://www.v2ex.com/t/1002067#reply11</link><description>&lt;p&gt;朋友公司几个 app 维护的项目，目前价格、需求聊的很明确。
+合同中有必要把项目范围写的非常详细吗。写太多怕朋友感觉我不信任他。但是后面肯定会有很多超出范围的需求，合同写太模糊我吃亏。
+如何是好&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:14:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002067#reply11</guid></item><item><title>[问与答] 京东购买 office365 兑换码，兑换失败，不予售后，有没有什么办法</title><link>https://www.v2ex.com/t/1002066#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;11 月 10 日 23:09 在京东一家第三方 下单购买的 office365 家庭版的兑换码。&lt;/li&gt;
+&lt;li&gt;11 月 10 日 23:58 付款后卖家通过客服消息发送了兑换码，但是我当时没有注意到就直接睡觉了。&lt;/li&gt;
+&lt;li&gt;12 月 13 日 18:44 我翻看京东订单的时候才想起来这个事情，所以我就进入客服消息查看了兑换码，并进行兑换。结果 提示已经被 ar*****&lt;a href="mailto:ov@mail.ru"&gt;ov@mail.ru&lt;/a&gt; 的邮箱兑换了&lt;/li&gt;
+&lt;li&gt;12 月 13 日 21:04 联系卖家，卖家说 11 月 15 日已经被兑换，他们发出的时候是没有问题的，不予售后。接着找京东申诉，也是一样无果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;京东这边的客服消息应该是有一个机制，那就是当你点进去之后会弹出一个自助的售后菜单，而且买家是没办法删除消息的。在卖家发完兑换码之后，第一次弹出这个菜单的时间是 12 月 13 日 18:44 ，也就是说我是这个时间点才点开这条消息的。但是这个在京东那边并不认可，我让京东去查我的已读时间，他们也不去查。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="微信图片_20231219190334-mark.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/20/YLXeSqpcaz86Ewt.jpg" /&gt;
+&lt;img alt="屏幕截图 2023-12-20 184039.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/20/fpeUiFGDktCd2zr.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 11:03:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002066#reply0</guid></item><item><title>[问与答] RDP 内部错误求助</title><link>https://www.v2ex.com/t/1002063#reply2</link><description>1 ，今天一次重连失败过后，连接会直接出现内部错误&lt;br /&gt;2 ，其他人电脑可以连接&lt;br /&gt;3 ，同一个网络下我的手机可以连接&lt;br /&gt;4 ，凭证都没有弹出来就会报内部错误&lt;br /&gt;5 ，可以连接其他的地址，但是这个地址不行&lt;br /&gt;&lt;br /&gt;有没有什么办法可以查到具体的内部错误的原因？</description><pubDate>Wed, 20 Dec 2023 10:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002063#reply2</guid></item><item><title>[问与答] 为什么国内不封杀丁胖子金牌讲师?</title><link>https://www.v2ex.com/t/1002062#reply1</link><description>&lt;p&gt;讲师最近在各个平台很火，甚至被各个博主宣传其发展历史，算得上一个"传奇性人物"。&lt;/p&gt;
+&lt;h2&gt;给不明所以的朋友一句话简单介绍下：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;“讲师”早期在国内偷东西被抓，关了一段时间，出去后羡慕美国，然后通过中介走线到了美国；&lt;/li&gt;
+&lt;li&gt;然后打工，因为没有身份，华人老板只给低于市场/GOV 标准的薪资，很多“走”过来的人都是这样的，一直没有改变，讲师不愿意，他举报加威胁他的老板， 迫使 2 个老板赔钱，4 个老板被举报漏税罚钱（美国偷税漏税很严重，详搜美国税务局）。&lt;/li&gt;
+&lt;li&gt;然后还鼓动在美华人纷纷举报老板，要挟老板，迫使华人老板不愿意低价招这些没身份的人。&lt;/li&gt;
+&lt;li&gt;讲师也没工作，后来就一直靠要饭为生，直至从中获得巨大流量，月赚 2WUSD ？（数据不详，大家都这么说）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;讲师现在在各个平台发视频，以及直播，获得了巨大的流量，巨大的收益。&lt;/p&gt;
+&lt;h2&gt;有人分析：&lt;/h2&gt;
+&lt;p&gt;原因流量之大是因为，粉红喜欢，因为除了展现他特有的”个人魅力“，他还展现了美国真实现状。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;市中心烂路，没人修，裂痕。&lt;/li&gt;
+&lt;li&gt;流浪汉满大街都是的，很脏很乱，感觉很不安全。&lt;/li&gt;
+&lt;li&gt;居无定所，生活没有保障，随时被驱赶。&lt;/li&gt;
+&lt;li&gt;美国也不都是精英，移民中介或在美华人营造的发达社会环境、职场城市不复存在，导致会被一些移民中介各种喷，直接影响赚钱。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;我想说的是，以上真实性不表， 就当作是真的：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;修路、流浪汉、这部本应该是一个正常城市应该有的一份子吗？&lt;/li&gt;
+&lt;li&gt;是什么人早期宣传说美国啥啥啥都很强，高端职场环境精英环境，是什么人在信这些？我咋从没听说。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;重点主题是：&lt;/h2&gt;
+&lt;p&gt;讲师视频中营造的当地流浪汉那么多，各个街道占地为营，除了居住环境脏乱差外，每天讲师的主题就是“要饭”，每天都有大量的救济餐、收容所供给食物、零食、饮料。甚至你不要都不行，像是又 KPI 一样，不能选，要么都要，要么都不要。导致流浪汉在选择性的领取食物，不好吃的不吃，不营养的不吃，统统倒垃圾桶。这些看着很浪费的事情。在视频里变成了“老佛爷赏赐”的正确。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如此大量的救济粮，收容所分发食物，很大一部分是因为 USGOV 给这些非 GOV 组织减免一些税。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;那么问题来了：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;为什么人家都可以做到大量流浪汉不驱赶？&lt;/li&gt;
+&lt;li&gt;大量流浪汉都有饭吃，还吃的不错，还有的选？&lt;/li&gt;
+&lt;li&gt;别说国内低价餐不少，这里是免费的，是长期稳定的，是每天都有的。如此大量的社会福利，为什么我们没有？&lt;/li&gt;
+&lt;li&gt;有些底层打工者每天赚钱奔波， 吃的也没有讲师免费领取到的食物好，一个在工作，一个不劳而获，为什么我们没有？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这些底层基础保障福利，还不能反映美国基础社会福利好吗？为什么不被封杀？&lt;/p&gt;
+&lt;p&gt;难道大家的意识都集中在了，讲师整天带来的乐子以及以个人力量给美 USGOV 造成的城市负担而欢呼？&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 10:58:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002062#reply1</guid></item><item><title>[酷工作] 6 点下班的外企 Kong 招聘高级前端开发，服务网格开发工程师（Global 开发团队，要求英语口语可流利沟通）</title><link>https://www.v2ex.com/t/1002061#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/32c4cdcc-44d5-4d5a-8965-b22ffb42e3c7.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Kong 中国招聘
+&lt;strong&gt;高级前端开发工程师（ Global 开发团队，要求英语口语可流利沟通，上海或北京）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;随着近期我们 Kong Insomnia 8.40 版本的最新发布，越来越多的企业客户主要寻求合作和付费，如果您还在继续使用 Postman ，不妨也可以试试我们的 Insomnia 8.4 ，我们会格外重视所有的用户及其使用体验，另外我们 Insomnia Team 也在招兵买马，新出炉 高级前端工程师 职位，base 上海或者北京。希望您具备：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strong experience in Javascript, TypeScript, React, and Electron.&lt;/li&gt;
+&lt;li&gt;Knowledge of building and consuming RESTful APIs, and real-time asynchronous systems with push/pull architectures.&lt;/li&gt;
+&lt;li&gt;Deep understanding of Electron and its internals.&lt;/li&gt;
+&lt;li&gt;Strong understanding of the OpenAPI specification.&lt;/li&gt;
+&lt;li&gt;Strong understanding of non-blocking I/O.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关于这个职位：&lt;/p&gt;
+&lt;p&gt;Kong 公司 Insomnia 团队的前端高级软件工程师负责开发 Electron 桌面应用程序的复杂功能。Insomnia 是一款以开源为核心的企业级产品，通过桌面应用程序和云体验提供给客户。您将与设计组织密切合作，并与跨职能工程团队一起维护标准和一致性。 您需要深刻理解用户界面原理，了解用户体验，并具备构建可扩展的单页面网络应用程序的技能和动力。&lt;/p&gt;
+&lt;p&gt;您将负责数十万（很快将达到数百万）用户每天使用的体验，以提高他们的 API 生产率。&lt;/p&gt;
+&lt;p&gt;最后，您将与 Insomnia 分布在全球各地的团队合作，在 Kong 打造未来的 API ，为 "API 世界 "提供最现代化的平台，而 "API 世界 "正是我们今天和未来生活和呼吸的世界。&lt;/p&gt;
+&lt;p&gt;职位 JD: &lt;a href="https://jobs.lever.co/kong/e180ad98-f89c-4d58-9190-3ff3636ed02a" rel="nofollow"&gt;https://jobs.lever.co/kong/e180ad98-f89c-4d58-9190-3ff3636ed02a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/4be4b54a-b442-414b-81f3-c46e6e15bd1e.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;服务网格开发和维持工程师（ Global 开发团队，要求英语口语可流利沟通，上海或北京）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;工作内容&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;负责开源服务网格 Kuma Service Mesh 和 Envoy 的功能开发和缺陷修复。&lt;/li&gt;
+&lt;li&gt;基于开源的 Kuma Service Mesh 负责企业级产品 Kong Mesh 的功能开发和缺陷修复。&lt;/li&gt;
+&lt;li&gt;为 Kuma 和 Kong Mesh 撰写文档，积极参与到 Kuma 社区。&lt;/li&gt;
+&lt;li&gt;参与团队会议和交流分享，包括不限于实现方案、测试方法和运营指标等内容。&lt;/li&gt;
+&lt;li&gt;基于客户的反馈和支持团队的分析，完善 Service Mesh 系列产品的设计与实现，必要时可直接与客户协作。&lt;/li&gt;
+&lt;li&gt;基于 Kuma Service Mesh 及 Kong Mesh 产品，支持由 Kong 运营的云服务。&lt;/li&gt;
+&lt;li&gt;以代码提交、评审等形式向上游的开源项目（如 go-control-plane 、Envoy ）提交贡献。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;您将获得&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;云原生、Kubernetes 和服务网格社区生态的影响力。&lt;/li&gt;
+&lt;li&gt;充足的学习和提高时间。&lt;/li&gt;
+&lt;li&gt;灵活和友好的办公氛围。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;任职要求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一年以上编写服务器端基础组件的经验，如果用过 Go 、C++、Java 或 Rust 则更佳。&lt;/li&gt;
+&lt;li&gt;对网络（ TCP 、HTTP 、TLS ）和 Linux 网络栈有深入的理解。&lt;/li&gt;
+&lt;li&gt;有基于 Kubernetes 生态开发过 Webhook 、Controller 、Operator 、CNI/CRI/CSI 的经验，如果有 Kuma 、Istio 、Cilium 、MOSN 等服务网格的使用和开发经验，则更佳。&lt;/li&gt;
+&lt;li&gt;流利的英语书写和口语能力，有良好的客户合作技巧。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如有匹配感兴趣的候选人，欢迎您直接发送英文简历到 china-hiring@konghq.com&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/b3f9ef40-e2d2-4ec9-88a3-00ccdec9ccde.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/52867/da3552e7-2ba1-46a5-9563-90313333225a.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 10:52:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002061#reply0</guid></item><item><title>[问与答] 朋友或同学这种同级关系适合用辛苦一词吗</title><link>https://www.v2ex.com/t/1002060#reply15</link><description>如题，问 chatgpt 无果，网上都是"职场技巧"&lt;br /&gt;&lt;br /&gt;我平常喜欢轻度折腾，许多人喜欢找我帮忙，我因为朋友少也乐意在一些事上主动帮人（说实话朋友少的原因之一是大部分人没有帮的价值且没礼貌，帮忙则是绝交）&lt;br /&gt;&lt;br /&gt;但现在遇到这么个事，一直困扰着我。我有一个关系还不错的朋友，曾是同学时期，有时帮他解决问题，他就会说一句辛苦 或是 辛苦辛苦&lt;br /&gt;有次帮大家拿外卖，他也是一句辛苦辛苦&lt;br /&gt;从他第一次说这个开始我就隐晦的表示了，“哈哈当时在最右看到一张图，其实辛苦这个词更多是上级对下级用”&lt;br /&gt;&lt;br /&gt;现在还有联系，我们有一个五人小群，但比如远程让他体验下我的 GPT4 顺便帮他看一下毕业设计开题报告，他也说辛苦辛苦，因为某些原因我决定单租梯子，他也是，ok ，辛苦啦&lt;br /&gt;&lt;br /&gt;倒不能全怪他，首先是我单纯不喜欢这个词，其次是我 tm 真不觉得辛苦啊。但存在他可能觉得说谢谢会有些疏远感这种原因&lt;br /&gt;&lt;br /&gt;所以我单纯的想知道大家怎么看待辛苦这个词，你们觉得在什么场景能使用，他这么用合适吗</description><pubDate>Wed, 20 Dec 2023 10:51:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002060#reply15</guid></item><item><title>[程序员] 关于 grpc， proto 的疑惑</title><link>https://www.v2ex.com/t/1002059#reply13</link><description>&lt;p&gt;好奇为什么 proto 文件需要定义各种参数？直接参数类型为 string 值为 json 不可以吗？
+message Person {
+string name = 1;
+int32 age = 2;
+}&lt;/p&gt;
+&lt;p&gt;message Person {
+string params = 1;
+}&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 10:43:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002059#reply13</guid></item><item><title>[Python] 多用户的爬虫服务，如何分配资源，确保每个用户的任务都能执行？</title><link>https://www.v2ex.com/t/1002058#reply3</link><description>&lt;p&gt;想用 Scrapy 做一个爬虫服务帮用户爬取数据，比如有 50 个用户，每个用户都同时创建了爬取任务，如何分配资源，确保每个用户的任务都能执行？
+问了一下 ChatGPT ，但好像没有解决我的疑问。所以来请教一下，感激不尽！&lt;/p&gt;</description><pubDate>Wed, 20 Dec 2023 10:39:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002058#reply3</guid></item><item><title>[微信] 公司内部自用微信小程序，几个用户，能不能避免 300 元的认证费用</title><link>https://www.v2ex.com/t/1002057#reply2</link><description>想用微信小程序开发几个数据录入类的小程序，仅供公司内部几个用户使用，但现在微信的政策是每个小程序认证费用都要 300 元，也是一笔不小的开支，能不能避免 300 元的认证费用</description><pubDate>Wed, 20 Dec 2023 10:37:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002057#reply2</guid></item></channel></rss>
