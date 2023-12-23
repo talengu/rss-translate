@@ -1,47 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 22 Dec 2023 16:33:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 如何下载当前设置的电脑壁纸？</title><link>https://www.v2ex.com/t/1002782#reply0</link><description>观看腾讯视频，发现侧边栏可以一键设置相关影视的壁纸，可我想找到储存文件却没找到。&lt;br /&gt;&lt;br /&gt;目前想到的办法就是隐藏桌面图标再截屏了。</description><pubDate>Fri, 22 Dec 2023 16:18:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002782#reply0</guid></item><item><title>[职场话题] 今天通知裁员了，部门解散。</title><link>https://www.v2ex.com/t/1002781#reply2</link><description>&lt;p&gt;今天突然被人事叫去谈话，意思是公司扛不住了账上没钱了，准备做到月底退租，整个公司解散，4 年多的工龄公司只愿意赔偿一个月的工资。我打算坚持 N+1 ，如果公司到时候真退租了，我该怎么办？&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 16:10:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002781#reply2</guid></item><item><title>[分享创造] iFast 英国数字银行账户注册成功</title><link>https://www.v2ex.com/t/1002780#reply0</link><description>&lt;h2&gt;按照隔壁坛子大佬的方式以及顺利开通 5 镑奖励还不错，期待 1 月出的实体卡&lt;/h2&gt;
-&lt;p&gt;奕丰环球银行（&lt;a href="https://www.ifastgb.com" rel="nofollow"&gt;www.ifastgb.com&lt;/a&gt;）是一家总部位于英国的持牌银行，致力于为世界各地的客户、企业及金融机构提供全球性连接的银行服务，隶属 iFAST Corporation ，完全受 FCA 监管的英国数字银行，受 85,000 英镑的金融服务补偿计划 (FSCS)。
-免费开户无管理费，支持全套中国资料注册！支持身份证！ iFast Global Bank 奕丰环球银行&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.ifastgb.com/tellafriend/ruzet7456" rel="nofollow"&gt;注册链接(aff)你我各 5 镑&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在申请之前，您需要准备：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 23 Dec 2023 09:46:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 如何利用 AI 实现图片点评功能</title><link>https://www.v2ex.com/t/1002881#reply1</link><description>功能：上传一张图片，就图片进行文字点评（如色彩，构图，颜色等方面）&lt;br /&gt;只知道用 GPT ，不是很了解 AI 模型，找不到技术研究方向，想问下如果想实现这个功能，有没有可用的开源框架</description><pubDate>Sat, 23 Dec 2023 09:36:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002881#reply1</guid></item><item><title>[分享创造] 搞了一个 AI 写真的小程序，但是一直没啥流量，求教怎么整啊，累了</title><link>https://www.v2ex.com/t/1002880#reply0</link><description>&lt;h2&gt;在国内做一个应用好难啊&lt;/h2&gt;
+&lt;p&gt;为了上线一个 AI 应用，还是小程序，小程序方面要求各种认证，交各种费用。
+为了上线还必须挂公司，各种费用,无语...
+国家又要监管 AI 算法，花了快一万搞了算法相关的审核...&lt;/p&gt;
+&lt;h2&gt;作为独立开发者真的一点出路都没有吗？&lt;/h2&gt;
+&lt;p&gt;从 5 月说开始搞,程序早都搞完了，卡审核，卡上线，卡算法审核...搞到快 11 月才上，感觉黄花菜都凉了...
+经济这么差，监管这么严，难怪所有企业都说要出海，大人想一套是一套&lt;/p&gt;
+&lt;h2&gt;技术实现&lt;/h2&gt;
+&lt;p&gt;SD + SpringBoot + 微信小程序
+自己买了几条显卡，组转了机器跑 SD 完成生图。&lt;/p&gt;
+&lt;h2&gt;作为普通人，出路在哪里...&lt;/h2&gt;
+&lt;h2&gt;可以给一点意见吗？根本没啥流量...&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="蛙趣相机" class="embedded_image" rel="noreferrer" src="https://waqu.oss-cn-shenzhen.aliyuncs.com/qr_code/wxapp.png" title="蛙趣相机" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 09:27:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002880#reply0</guid></item><item><title>[广州] 广州移动携号转网联通</title><link>https://www.v2ex.com/t/1002879#reply0</link><description>&lt;p&gt;广州移动老用户，携号转网联通或者电信，求一个办理人员联系方式&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 09:15:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002879#reply0</guid></item><item><title>[开源软件] 年后想从 Java 换到 web3,想找个开源项目丰富简历，求 v 友推荐那个开源项目比较好</title><link>https://www.v2ex.com/t/1002878#reply0</link><description></description><pubDate>Sat, 23 Dec 2023 09:15:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002878#reply0</guid></item><item><title>[健康] 感冒药和退烧药组合服用问题</title><link>https://www.v2ex.com/t/1002876#reply11</link><description>&lt;p&gt;昨晚上有感冒症状，清鼻涕留不住，喉咙黏，暂时不发热。早上去门口小诊所看了下医生，顺便测了体温 37 度，然后配了点药：&lt;/p&gt;
+&lt;p&gt;氯雷他定片（ 1 天 1 次，早 9 点吃的）、左氧氟沙星片（ 1 天 1 次，早 9 点吃的）、感冒疏风颗粒（ 1 天 2 次，早 9 点喝了一包）、咽炎片（ 1 天 3 次，9 点、12 点分别吃了几片）。&lt;/p&gt;
+&lt;p&gt;今天一天在家没出去，感觉肌肉慢慢开始酸痛，刚刚测体温 38.3 。&lt;/p&gt;
+&lt;p&gt;我想问的是：
+1 38.5 一下有没有吃退烧药的必要。&lt;/p&gt;
+&lt;p&gt;2 家里有布洛芬和泰诺，会不会和早上吃的那些西药起冲突？&lt;/p&gt;
+&lt;p&gt;3 因为泰诺除了退烧，还能缓解感冒症状我更倾向于泰诺，是否可以？&lt;/p&gt;
+&lt;p&gt;PS：我本想去社区医院，但是怕进出导致加重，就网上问问看。有必要的话，我会考虑去社区医院看看。&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:46:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002876#reply11</guid></item><item><title>[程序员] 请教一个 JS 库 可以实现类似 drawsql 这种 SQL 关系图 可以缩放移动位置的</title><link>https://www.v2ex.com/t/1002875#reply0</link><description>&lt;p&gt;有没有开源的 JS 库 万分感谢各位大佬&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:39:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002875#reply0</guid></item><item><title>[Spotify] Spotify 港区家庭组拼 che</title><link>https://www.v2ex.com/t/1002874#reply0</link><description>&lt;p&gt;港区 Spotify 合租 港区 Spotify 家庭组 港区 Spotify 拼车 Spotify 港区会员 需要上车的小伙伴可以加我微信 dudu03jia1&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002874#reply0</guid></item><item><title>[分享创造] 一个开源的联邦宇宙（Mastodon、Fediverse）别名服务</title><link>https://www.v2ex.com/t/1002873#reply0</link><description>&lt;h2&gt;介绍&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;中国护照或身份证&lt;/li&gt;
-&lt;li&gt;常用电子邮箱&lt;/li&gt;
-&lt;li&gt;常用手机号（国内）&lt;/li&gt;
-&lt;li&gt;国内银行对账单（需要体现出地址）-我用的招商银行信用卡对账单地址
-&lt;img alt="Bank" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/12/22/WTwpt.jpeg" /&gt;
-现在取消了人工视频通话问话了，今天申办的时候，到了视频流程只要录制视频回答三个问题就可以了。
-注册成功后，iFast 发送了个人 IBAN 到邮箱
-&lt;img alt="IBAN" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/12/22/WT6AR.jpeg" /&gt;
-据说这家银行明年要发行实体卡了，为数不多的支持全套中国大陆资料申请的靠谱数字银行，需要的快冲，后续政策可能会收紧
-注册成功后首次入金要使用个人同名入金
-wise 入金到 ifast ，随便充点吧
-&lt;img alt="Deposit1" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/12/22/WvlVR.jpeg" /&gt;
-&lt;img alt="Deposit2" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/12/22/Waygs.jpeg" /&gt;&lt;/li&gt;
+&lt;li&gt;网站： &lt;a href="https://alias.willin.wang" rel="nofollow"&gt;https://alias.willin.wang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;开源代码仓库： &lt;a href="https://github.com/willin/alias" rel="nofollow"&gt;https://github.com/willin/alias&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;入金的话可以扫这个领取 500 跨境汇款优惠券 无损激活
-&lt;img alt="Coupon" class="embedded_image" rel="noreferrer" src="https://i.imgs.ovh/2023/12/22/WvRLo.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 15:59:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002780#reply0</guid></item><item><title>[Android] 阿里百川的最新版标准版 SDK， targetSdkVersion 改为 30+后无法唤起淘宝 App</title><link>https://www.v2ex.com/t/1002779#reply0</link><description>我真的服了百川，把他们的 sdk 的 demo targetSdkVersion 改为 30 后，连 demo 都唤不起淘宝 App ，这玩意还有人维护吗？&lt;br /&gt;而且加他们的钉钉群两天两次没人通过，提工单没人回复！&lt;br /&gt;明年开始，各大应用市场都不支持 30 以下的了。。。&lt;br /&gt;&lt;br /&gt;有大佬们知道怎么搞么？</description><pubDate>Fri, 22 Dec 2023 15:38:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002779#reply0</guid></item><item><title>[YubiKey] 求个 Yubikey5</title><link>https://www.v2ex.com/t/1002778#reply0</link><description>&lt;p&gt;求个 Yubikey5 nfc, 吃灰的甩我一个，上次没赶上车，TG: @&lt;a href="https://www.v2ex.com/member/guinai"&gt;guinai&lt;/a&gt; 谢谢！&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 15:26:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002778#reply0</guid></item><item><title>[Java] 今天整了个活，用纯 http post 做了一个反向代理/内网穿透的工具</title><link>https://www.v2ex.com/t/1002777#reply8</link><description>&lt;p&gt;事情是这样子的，我在 A 市工作，我们的 web 应用部署在 B 市，由于用户那边不允许远程访问服务器运维，所以有点事就要飞过去现场处理，超级烦。好在 web 应用只要有网就能访问。&lt;/p&gt;
-&lt;p&gt;反正不管 ssh 还是访问 web ，都是把字节传发送到服务器嘛，于是我整了个活，本机用 netty 写个客户端把 ssh 请求发出的字节接住，转成 http post 发到 web 应用的 nginx ，再转发给服务器上的 netty 服务端还原出字节，转到 ssh 端口，大致就是这么个架构：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="示例 1" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/codingmiao/hppt/main/_doc/img/2.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;然后，我就不用飞来飞去了，坐办公室里用 http 端口连服务器了 O(∩_∩)O 。。&lt;/p&gt;
-&lt;p&gt;你问为什么不用 websocket ，因为用户不给在 nginx 上加相关配置。。&lt;/p&gt;
-&lt;p&gt;忍不住要分享下，项目地址是 &lt;a href="https://github.com/codingmiao/hppt" rel="nofollow"&gt;https://github.com/codingmiao/hppt&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 15:25:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002777#reply8</guid></item><item><title>[NAS] 试了试百度网盘群晖官方套件</title><link>https://www.v2ex.com/t/1002775#reply0</link><description>该套件需要 ds7.2 和最新版 docker 以及 x86 机型&lt;br /&gt;&lt;br /&gt;发图太麻烦了（不会），简单文字描述下遇到了哪些问题&lt;br /&gt;会员 79 块，不开通无法使用同步，能不能下载没注意&lt;br /&gt;&lt;br /&gt;1 、界面非常简陋，文件管理只能下载，删除是没有的。&lt;br /&gt;&lt;br /&gt;2 、下载记录删除...也是没有的。&lt;br /&gt;&lt;br /&gt;3 、自动同步看起来很美好，但和 cloud sync 比起来不能加密、不能时间段，只能无加密同步，唯一的优势就是可选择同步到哪个文件夹，cloud sync 只能同步到'我的应用数据'，不能加密果断关掉。&lt;br /&gt;&lt;br /&gt;4 、宣传的外链下载，没在百度网盘网页找到获取的这个功能。&lt;br /&gt;&lt;br /&gt;5 、每次下载默认为 docker 的文件夹，不能默认为上一次的选择，不能永久更改。&lt;br /&gt;&lt;br /&gt;6 、不是群晖官方套件那样直接网页内的窗口打开，是一个单独的网页，外网使用需要端口映射，仅能扫码登陆，不愧是百度。&lt;br /&gt;&lt;br /&gt;凑合当个下载器还行</description><pubDate>Fri, 22 Dec 2023 15:15:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002775#reply0</guid></item><item><title>[问与答] “股市低迷，处理好家庭关系”</title><link>https://www.v2ex.com/t/1002774#reply0</link><description></description><pubDate>Fri, 22 Dec 2023 15:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002774#reply0</guid></item><item><title>[OpenAI] ChatGPT 会无端使用中文来回答英文问题</title><link>https://www.v2ex.com/t/1002773#reply0</link><description>&lt;p&gt;如题。即使我新开一个对话，第一个问题就完全使用英文撰写 prompt, ChatGPT 依旧有一定概率使用中文回答我。&lt;/p&gt;
-&lt;p&gt;难道其他的对话会对新的对话有影响吗？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/N5s68jkn.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 15:00:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002773#reply0</guid></item><item><title>[Linux] Linux 下各位都是用什么办法记住或查找那些自己安装的命令行软件的名字非系统自带或常用的命令）的？</title><link>https://www.v2ex.com/t/1002772#reply6</link><description>现在我的一些开发工作都从 windows 迁移到 debian 了，因为 debian 下可用的软件实在太多太多了，完全可以满足开发需要，特别是命令行的软件更是多如牛毛。&lt;br /&gt;不过这也带来了一些困扰，比如刚好今天安装了个很好用的命令行软件，用了几次，但是后面一段时间没用这个软件，等到想再用的时候，已经想不起这个软件的名字了，而命令行的软件也不会出现在开始菜单里。&lt;br /&gt;问了下 ai ，给的方法是用 apt list --installed 来查找，或者用 aptitude 查找。apt list 就只有软件名称，既然都想不起软件名称，也不知道要找哪个。aptitude 还有些简单的功能介绍，但是一个一个命令翻，这效率也太低了&lt;br /&gt;&lt;br /&gt;不知这种情况大家怎么处理？&lt;br /&gt;就是比如安装了一个很好用的命令行软件（没有 gui 的那种），用了几天暂时不用了，过了一段时间后想不起来这个命令的名字了，有什么好办法找到这个软件？</description><pubDate>Fri, 22 Dec 2023 14:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002772#reply6</guid></item><item><title>[问与答] 电车的续航天冷了是真不行</title><link>https://www.v2ex.com/t/1002771#reply1</link><description>&lt;p&gt;人在魔都，毛豆 Y 2.5 年了。平时开纯电的也还好，回老家 130 公里单程也基本没事，一般满电回去，在家开个 5 ，60KM 回上海还能剩个 100 多。基本不担心。
-这几天降温明显后发现电池明显不耐用了。这次回来全程不敢开空调，就这到家还剩 80 ，还好路上没堵车。
-不知道新出的那些纯电这几天表现如何？&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 14:54:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002771#reply1</guid></item><item><title>[程序员] 求推国内云服务器</title><link>https://www.v2ex.com/t/1002769#reply5</link><description>&lt;p&gt;国内强制要求备案，因此有一个已经在腾讯云完成企业 ICP 备案的域名了。配置最好 2C2G ，宽带最好大一些，腾讯云一个月 55 的只有 4Mbps 服务器根本受不了&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 14:41:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002769#reply5</guid></item><item><title>[程序员] 打算做一个币圈公开或隐秘的发币项目， News 类还是论坛类会好点？</title><link>https://www.v2ex.com/t/1002768#reply0</link><description>&lt;p&gt;请指点。&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 14:38:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002768#reply0</guid></item><item><title>[路由器] TP 的路由一个 wan 口只能为一个子网提供 ipv6</title><link>https://www.v2ex.com/t/1002766#reply0</link><description>[贬义]TP 能把套皮 openwrt 做成这样还真是人才&lt;br /&gt;&lt;br /&gt;电信提供的地址是/56 或者/60 ，以前一直用软路由，没发现问题&lt;br /&gt;后面捡了 tp 的二手路由，一开始以为是设置错误，导致路由器只获取了/64 的地址&lt;br /&gt;今天问了客服，好家伙，一个 wan 口只能给一个子网开 ipv6&lt;br /&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://wx1.sinaimg.cn/mw690/711da871gy1hl2xa8cjsxj20u01uodna.jpg" /&gt; &lt;br /&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://wx2.sinaimg.cn/mw690/711da871gy1hl2xa8b5kej20u01uoahb.jpg" /&gt; &lt;br /&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://wx3.sinaimg.cn/mw690/711da871gy1hl2xa8zaikj20u01uojzz.jpg" /&gt; &lt;br /&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://wx2.sinaimg.cn/mw690/711da871gy1hl2xa8amptj20u01uoagn.jpg" /&gt;</description><pubDate>Fri, 22 Dec 2023 14:23:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002766#reply0</guid></item><item><title>[问与答] 树莓派如何保证 usb 供电能稳定达到 5V 1A</title><link>https://www.v2ex.com/t/1002765#reply1</link><description>&lt;p&gt;家里有树莓派从 1 代到 4 代，想在上面插一个 4G 的无线上网卡，但是这个卡需要稳定的 5V 1A 供电，如何让树莓派提供稳定的供电呢？&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 14:01:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002765#reply1</guid></item><item><title>[程序员] 开源 编译原理 pl/0 编译器 (rust 实现)</title><link>https://www.v2ex.com/t/1002764#reply0</link><description>&lt;p&gt;开源一个本人用 rust 实现的 pl/0 编译器 (编译原理课设)&lt;/p&gt;
-&lt;p&gt;GitHub Repository: &lt;a href="https://github.com/DrEden33773/pl_0" rel="nofollow"&gt;GitHub - DrEden33773/pl_0: a simple pl/0 compiler implementation in rust.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;大概是第一批拿 rust 做编译原理课设的, 也算是小马过河&lt;/p&gt;
-&lt;p&gt;编译器的大概架构是 &lt;code&gt;词法分析器-[Tokens]-语法分析器-[AST]-语义分析+代码生成器-[PCode 三地址元组]-虚拟机/解释器&lt;/code&gt; , 相比目前大部分的编译原理课设, 多了 AST 这个中介, 把语法分析和语义分析拆开, 让每个部分的实现都变得更加清晰简洁&lt;/p&gt;
-&lt;p&gt;另外, 本人实现的这个编译器, 具有相当完善的 &lt;code&gt;错误同步&lt;/code&gt; 机制, 避免了相当一部分课设 遇到一个编译错误, 报错后就停止执行 的问题&lt;/p&gt;
-&lt;p&gt;默认实现中, &lt;code&gt;词法分析 / 语法分析 / 语义分析 / 代码生成 / 错误处理 / 解释执行&lt;/code&gt; 每个阶段都没有使用第三方自动化工具 (例如 pest / llvm) , 主打一个全过程参与&lt;/p&gt;
-&lt;p&gt;如果你认为这个工程对你来说有参考价值的话, 可否动动手指, 给一颗 Star 呢? 不胜感激!&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 13:59:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002764#reply0</guid></item><item><title>[Linux] Linux 怎么在不给 sudo 权限的情况下以别的用户身份执行命令</title><link>https://www.v2ex.com/t/1002763#reply3</link><description>&lt;p&gt;装了个 gogs ，git 用户执行。想用 githook （非 webhook ）触发 git pull 。但是代码的用户是 www 。&lt;/p&gt;
-&lt;p&gt;本来可以给 git 用户 sudo 权限，sudo -u www git -C pull 就行。但是不想给 git 用户 sudo 权限，给限死在 git 用户身份下，selinux 也限制死了只能操作 home/git 目录。&lt;/p&gt;
-&lt;p&gt;有没有什么中间工具还是什么的么？比如有没有什么东西可以监控 git 的更新？然后这个东西是 www 用户身份啥的。&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 13:57:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002763#reply3</guid></item><item><title>[程序员] 微软的 Microsoft Authenticator 到底要怎么样才可以 云备份&amp;恢复？</title><link>https://www.v2ex.com/t/1002762#reply1</link><description>&lt;p&gt;今天换了新手机，打算把老手机上的 Microsoft Authenticator 的内容先备份到云，再到新手机上面恢复。&lt;/p&gt;
-&lt;p&gt;可是，老手机上面的备份，死活不成功。总是提示我， ’出现问题，请使用“发送日志”选项向我们发送日志‘。&lt;/p&gt;
-&lt;p&gt;我试过开代理，香港的，美国的，或者不开代理，都是一样的错误。这咋整？总不至于，所有的都重新注册一遍吧，那可不是一般的费劲麻烦...... &lt;/p&gt;
-&lt;p&gt;都 2023 年了，MS 一点改进都没有了？&lt;/p&gt;
-&lt;p&gt;p.s. 没办法，公司的相关服务，都是用的 Microsoft Authenticator ，我也不知道其它的 MFA 工具能否工作。&lt;/p&gt;
-&lt;p&gt;p.s.2. 参考这个帖子最后一位兄弟的方法，也不行。&lt;br /&gt;
-我也遇到这个问题，解决方案：在旧手机上关闭备份，重新打开备份，然后到新手机上重新使用恢复功能，恢复成功&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 13:53:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002762#reply1</guid></item><item><title>[宽带症候群] 家庭网络固定公网 ip 似乎会导致严重的问题</title><link>https://www.v2ex.com/t/1002761#reply11</link><description>&lt;p&gt;要了公网 ip 之后 ip 就没再变化，由于家里多个设备使用同一个 ip ，被很多 app 风控了，被认定为网络分享节点，例如 wx 小号全被封（没认证就是这样）。以前重启路由器就能得到新的 ip ，现在 ip 一直不变，购物软件也经常跳验证码。有办法既要公网连接但又不固定的方法吗&lt;/p&gt;</description><pubDate>Fri, 22 Dec 2023 13:49:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002761#reply11</guid></item><item><title>[问与答] pve 加硬盘，分区出了问题，炸了，求助</title><link>https://www.v2ex.com/t/1002760#reply1</link><description>pve 稳定用了两三年了，装了好几个虚拟机，什么 openwrt 、softvpn 、dokcer 用的 ubuntu 之类的。几个机械盘也直通给了群晖。&lt;br /&gt;&lt;br /&gt;pve 宿主机系统盘当时买的 250G ，昨天不够用加了个 1T 的。&lt;br /&gt;&lt;br /&gt;pve 里有 local 和 local-lvm 两个存储空间，根据网上一些教程，我把这 1T 分给了他俩，（对 linux 的文件系统基本不了解，逻辑卷，物理卷也是操作的时候大概了解了一下）。&lt;br /&gt;&lt;br /&gt;炸的原因主要是，分配空间的时候 local 分多了，我就查了下教程，用 lvreduce 压缩了一下，压缩出来的空白卷分给了 local-lvm ，当时用 lvdisplay 查看了逻辑卷的大小没问题，但是 web 中显示有误，我就重启了一下 pve 宿主机，结果出问题了。&lt;br /&gt;&lt;br /&gt;现在只能 AIO 接 hdmi 才能看到错误，输入的地方是（ initramfs ），报错是&lt;br /&gt;/dev/mapper/pve-root:The filesystem size(according to the superblock) is 198705152 blocks &lt;br /&gt;The physical size of the device is 67633152 blocks &lt;br /&gt;Either the superblock or the partition table is likely to corrupt!&lt;br /&gt;查了下大概是逻辑卷大于物理卷的意思？&lt;br /&gt;&lt;br /&gt;看了网上一些教程，用了 fsck /dev/mapper/pve-root 一路 yes 下去，也没有用。&lt;br /&gt;resize2fs 命令好像没有预装，也用不了&lt;br /&gt;&lt;br /&gt;昨天有备份了下几个虚拟机，网上说路径在/etc/lib/vz/dump 下，但我在这个（ initramfs ）界面下没找到这个路径&lt;br /&gt;&lt;br /&gt;如果能把虚拟机备份弄出来，我就重装一下系统，恢复虚拟机。如果弄不出来我就只能重装 pve 了。&lt;br /&gt;&lt;br /&gt;求助大佬，可以把 filesystem size 和 physical size 调成一样的嘛？不能的话怎么获取到 pve 虚拟机的备份？</description><pubDate>Fri, 22 Dec 2023 13:49:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002760#reply1</guid></item></channel></rss>
+&lt;p&gt;比如您在 Mastodon 系统上的用户名为： &lt;a href="https://log.lu/@willin" rel="nofollow"&gt;@willin@log.lu&lt;/a&gt; ，现在您可以申请一下域名后缀的别名：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;js.cool&lt;/li&gt;
+&lt;li&gt;css.fund&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sh.gg" rel="nofollow"&gt;sh.gg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://log.lu" rel="nofollow"&gt;log.lu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;kaiyuan.fund&lt;/li&gt;
+&lt;li&gt;v0.chat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;示例：&lt;a href="https://js.cool/.well-known/webfinger?resource=acct:i@js.cool" rel="nofollow"&gt;i@js.cool&lt;/a&gt; | &lt;a href="https://v0.md/.well-known/webfinger?resource=acct:i@v0.md" rel="nofollow"&gt;i@v0.md&lt;/a&gt; 都指向到了 &lt;a href="https://log.lu/@willin" rel="nofollow"&gt;@willin@log.lu&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;使用自己的域名进行部署&lt;/h2&gt;
+&lt;p&gt;如果您拥有自己的域名，但是没有部署 Mastodon 或者其他 Fediverse 的应用程序。可以为自己的域名设置别名。需要用到 Cloudflare Worker ，参考项目： &lt;a href="https://github.com/willin/fediverse-alias" rel="nofollow"&gt;https://github.com/willin/fediverse-alias&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;第一步：初始化仓库&lt;/h3&gt;
+&lt;p&gt;Fork 或者 Clone 该项目：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/willin/fediverse-alias.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;第二步配置&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;配置域名路由&lt;/li&gt;
+&lt;li&gt;修改数据库 ID （参考&lt;a href="https://developers.cloudflare.com/d1/get-started/#3-create-a-database" rel="nofollow"&gt;创建数据库&lt;/a&gt;文档）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;编辑 &lt;code&gt;wrangler.toml&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-toml"&gt;name = "fediverse-alias"
+compatibility_date = "2023-01-01"
+
+# 修改为你自己的路由
+routes = [
+  { pattern = "yourdomain.com/.well-known/webfinger*", zone_name = "yourdomain.com" }
+  # 如果有多个，继续添加
+]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dns"
+# 修改为你刚创建的数据库 ID
+database_id = "xxx"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;初始化数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;修改 &lt;code&gt;migrations/0011_seeds.sql&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sql"&gt;-- 这里是一个示例：
+INSERT INTO aliases(`alias`,`account`,`owner`) VALUES('admin@yourname.com','destination@mastodon.social','');
+-- 多条记录在此处添加
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;第三步：部署&lt;/h3&gt;
+&lt;p&gt;执行：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;npm run deploy
+npm run migration
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;赞助 Sponsor&lt;/h2&gt;
+&lt;p&gt;维护者 Owner： &lt;a href="https://willin.wang" rel="nofollow"&gt;Willin Wang&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果您对本项目感兴趣，可以通过以下方式支持我：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;关注我的 Github 账号：&lt;a href="https://github.com/willin" rel="nofollow"&gt;@willin&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;参与 &lt;a href="https://afdian.net/@willin" rel="nofollow"&gt;爱发电&lt;/a&gt; 计划&lt;/li&gt;
+&lt;li&gt;支付宝或微信&lt;a href="https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png" rel="nofollow"&gt;扫码打赏&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Donation ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href="https://github.com/sponsors/willin" rel="nofollow"&gt;https://github.com/sponsors/willin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Paypal: &lt;a href="https://paypal.me/willinwang" rel="nofollow"&gt;https://paypal.me/willinwang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Alipay or Wechat Pay: &lt;a href="https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png" rel="nofollow"&gt;QRCode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;许可证 License&lt;/h2&gt;
+&lt;p&gt;Apache-2.0&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:30:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002873#reply0</guid></item><item><title>[Apple] 2023 结束晒一下自己的桌面</title><link>https://www.v2ex.com/t/1002872#reply3</link><description>&lt;p&gt;我先晒一下&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/G4OdxKt" rel="nofollow"&gt;Imgur&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/G4OdxKt" rel="nofollow"&gt;https://imgur.com/G4OdxKt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再问一个问题，三个屏幕怎么布局合理&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:24:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002872#reply3</guid></item><item><title>[Python] Openpyxl 读取合并单元格的问题</title><link>https://www.v2ex.com/t/1002871#reply1</link><description>&lt;p&gt;大佬们请教一个问题，pandas openpyxl 的使用，相同的代码在不同的机器运行(python 及包的版本一致)，但是调用的类不一样(使用的是父类)，导致没有找到属性，是什么原因导致的呢&lt;/p&gt;
+&lt;p&gt;报错机器：
+excel = pd.ExcelFile(load_workbook(file,read_only=False), engine="openpyxl")
+sheet = excel.book[sheet_name]
+df = excel.parse(sheet_name, header=header)
+for item in sheet.merged_cells:
+print(sheet.merged_cells.&lt;strong&gt;class&lt;/strong&gt;)
+# &amp;lt;class 'openpyxl.worksheet.cell_range.MultiCellRange'&amp;gt;
+print(item.&lt;strong&gt;class&lt;/strong&gt;)
+# &amp;lt;class 'openpyxl.worksheet.cell_range.CellRange'&amp;gt;&lt;/p&gt;
+&lt;p&gt;正常机器：
+for item in sheet.merged_cells:
+print(sheet.merged_cells.&lt;strong&gt;class&lt;/strong&gt;)
+# &amp;lt;class 'openpyxl.worksheet.cell_range.MultiCellRange'&amp;gt;
+print(item.&lt;strong&gt;class&lt;/strong&gt;)
+# &amp;lt;class 'openpyxl.worksheet.merge.MergedCellRange'&amp;gt;&lt;/p&gt;
+&lt;p&gt;item 在错误机器上显示的父类&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:58:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002871#reply1</guid></item><item><title>[生活] 窗户保温膜你们温度提升了几度?</title><link>https://www.v2ex.com/t/1002870#reply0</link><description>&lt;p&gt;我个人感觉最多提升了两度,温度根本没有升到 20 度,在开了空调的前提下&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002870#reply0</guid></item><item><title>[问与答] 携号转网办理</title><link>https://www.v2ex.com/t/1002869#reply0</link><description>&lt;p&gt;想问一下关于国内携号转网的时候有没有遇到什么阻碍，都是什么问题导致的&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:57:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002869#reply0</guid></item><item><title>[Android] 求教 23 年 12 月买 1000-1500 左右备用机</title><link>https://www.v2ex.com/t/1002868#reply2</link><description>&lt;p&gt;主力机 iPhone15 ，一开始想买的 iPhonese3 无锁，有 esim 后期爽很多，但淘宝和闲鱼坑太多，而且价格也超好多，后面想的就要不买个 note12 得了，屏幕大续航好就是系统得折腾。&lt;/p&gt;
+&lt;p&gt;因为是备用机手机插的卡是香港号和国外的，国软件没需求，可以只下国外软件，就是不确定现在买的红米 note 还能不能解锁刷欧版 eaa 了，pixel 如果价格合适也是个选择，但不知道 pixel 的 esim 卡有什么限制？&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:45:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002868#reply2</guid></item><item><title>[旅行] 元旦香港游，想咨询几个问题</title><link>https://www.v2ex.com/t/1002867#reply8</link><description>目前定了 28 号去香港玩，然后打算住在深圳，有几个问题想咨询下各位：&lt;br /&gt;1. 想买东西的话(电子产品、游戏机、卡带、药品) 哪片区域比较省心呢，可以一次逛完的那种&lt;br /&gt;2. 过关哪个口岸会稍微好过一点呢，还是说现在大小包都要过机了&lt;br /&gt;3. 如果想留盒子的话可以从香港寄回内地吗&lt;br /&gt;&lt;br /&gt;顺便找个旅游搭子缓解下住房压力(如果有的话)，南航优惠机票要两个人起买，含税 390</description><pubDate>Sat, 23 Dec 2023 07:21:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002867#reply8</guid></item><item><title>[分享发现] 下班后喜欢做什么来放松自己？</title><link>https://www.v2ex.com/t/1002865#reply10</link><description>&lt;p&gt;对我来说九点半十点下班，到家十点半，想干的事儿一大堆但是毫无动力，只能半躺刷短视频。。&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:05:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002865#reply10</guid></item><item><title>[问与答] 最近在研究打洞，最近又看上了 libp2p 的技术，看看大家有没有交流群可以探讨</title><link>https://www.v2ex.com/t/1002864#reply0</link><description>&lt;h1&gt;需要一个 libp2p 的交流群&lt;/h1&gt;
+&lt;h1&gt;q 或者 v 都可。&lt;/h1&gt;
+&lt;h1&gt;主要用于 nat 穿透&lt;/h1&gt;</description><pubDate>Sat, 23 Dec 2023 06:52:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002864#reply0</guid></item><item><title>[分享创造] vscode 插件 fnMap（函数地图）给所有程序员送码了</title><link>https://www.v2ex.com/t/1002862#reply2</link><description>&lt;p&gt;比 vscode 官方 outline 强大几个档次的符号插件，只要扫码登录，即可以领取一个永久注册码。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=chensuiyi.fn-map" rel="nofollow"&gt;https://marketplace.visualstudio.com/items?itemName=chensuiyi.fn-map&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="fnMap - 函数地图" class="embedded_image" rel="noreferrer" src="https://test-3bl.pages.dev/fnmap.gif" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:46:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002862#reply2</guid></item><item><title>[iOS] reddit 官方 ios app 也太难用了 居然不能长按选中文字</title><link>https://www.v2ex.com/t/1002861#reply1</link><description>&lt;p&gt;原本想利用水手机时间看看英文社区上感兴趣的话题点还可以积累一些词汇量，结果不能长按选择一段文字然后点 ios 自带的翻译，只能点三个点，滑到很下面找到复制整段才行，再切到翻译 app 粘贴？很多时候只是一两个单词不认识或不确定，然后 reddit 又禁了 api ，也没其他客户端可用，在手机上用网页版会一直提示你下载 app 头疼&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:43:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002861#reply1</guid></item><item><title>[分享创造] 我在[V2EX]的第一次登陆，以及我即将踏上的 AI 之旅</title><link>https://www.v2ex.com/t/1002860#reply2</link><description>&lt;p&gt;在 V2EX 的首次登录，我感受到了这个充满科技热情的社区。我很高兴和大家分享，今年我将启动一项新的冒险——创建一家专注于 AI 的出海 SAAS 网站。&lt;br /&gt;
+·AI 之路，谷歌排名的探索&lt;br /&gt;
+2023 年，我将全心投入 AI 领域，为用户提供智能创新的解决方案。我们的目标是通过技术创新，成为谷歌排名中备受关注的团队。我深信 AI 将引领未来，我们的团队将为此做出贡献。&lt;br /&gt;
+·诚挚期待未来的交流&lt;br /&gt;
+在这个激动人心的时刻，我期待与大家分享我的创业故事、技术探索和成长。感谢 V2EX 和所有支持我的人，让我有机会在这个平台与你们分享我的梦想。&lt;br /&gt;
+让我们一同迎接未知，共同成长，共建美好的未来！&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:39:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002860#reply2</guid></item><item><title>[程序员] 自学编程求大家给个思路</title><link>https://www.v2ex.com/t/1002859#reply8</link><description>想利用这个寒假自学编程我个人对网络安全非常感兴趣，安卓手机权限测试（是否存在滥用权限，病毒测试），网站漏洞，入侵网站后台等&lt;br /&gt;英语基础不太好数学也不算特别好我想主攻 Python 这门语言应该从哪里学起？这门语言可以用做网络安全这一块吗？网络安全是不是学这一项语言是不是有点不够？大家可以给我一点思路吗？</description><pubDate>Sat, 23 Dec 2023 06:38:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002859#reply8</guid></item></channel></rss>
