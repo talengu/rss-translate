@@ -1,120 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 23 Dec 2023 09:46:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 如何利用 AI 实现图片点评功能</title><link>https://www.v2ex.com/t/1002881#reply1</link><description>功能：上传一张图片，就图片进行文字点评（如色彩，构图，颜色等方面）&lt;br /&gt;只知道用 GPT ，不是很了解 AI 模型，找不到技术研究方向，想问下如果想实现这个功能，有没有可用的开源框架</description><pubDate>Sat, 23 Dec 2023 09:36:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002881#reply1</guid></item><item><title>[分享创造] 搞了一个 AI 写真的小程序，但是一直没啥流量，求教怎么整啊，累了</title><link>https://www.v2ex.com/t/1002880#reply0</link><description>&lt;h2&gt;在国内做一个应用好难啊&lt;/h2&gt;
-&lt;p&gt;为了上线一个 AI 应用，还是小程序，小程序方面要求各种认证，交各种费用。
-为了上线还必须挂公司，各种费用,无语...
-国家又要监管 AI 算法，花了快一万搞了算法相关的审核...&lt;/p&gt;
-&lt;h2&gt;作为独立开发者真的一点出路都没有吗？&lt;/h2&gt;
-&lt;p&gt;从 5 月说开始搞,程序早都搞完了，卡审核，卡上线，卡算法审核...搞到快 11 月才上，感觉黄花菜都凉了...
-经济这么差，监管这么严，难怪所有企业都说要出海，大人想一套是一套&lt;/p&gt;
-&lt;h2&gt;技术实现&lt;/h2&gt;
-&lt;p&gt;SD + SpringBoot + 微信小程序
-自己买了几条显卡，组转了机器跑 SD 完成生图。&lt;/p&gt;
-&lt;h2&gt;作为普通人，出路在哪里...&lt;/h2&gt;
-&lt;h2&gt;可以给一点意见吗？根本没啥流量...&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="蛙趣相机" class="embedded_image" rel="noreferrer" src="https://waqu.oss-cn-shenzhen.aliyuncs.com/qr_code/wxapp.png" title="蛙趣相机" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 09:27:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002880#reply0</guid></item><item><title>[广州] 广州移动携号转网联通</title><link>https://www.v2ex.com/t/1002879#reply0</link><description>&lt;p&gt;广州移动老用户，携号转网联通或者电信，求一个办理人员联系方式&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 09:15:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002879#reply0</guid></item><item><title>[开源软件] 年后想从 Java 换到 web3,想找个开源项目丰富简历，求 v 友推荐那个开源项目比较好</title><link>https://www.v2ex.com/t/1002878#reply0</link><description></description><pubDate>Sat, 23 Dec 2023 09:15:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002878#reply0</guid></item><item><title>[健康] 感冒药和退烧药组合服用问题</title><link>https://www.v2ex.com/t/1002876#reply11</link><description>&lt;p&gt;昨晚上有感冒症状，清鼻涕留不住，喉咙黏，暂时不发热。早上去门口小诊所看了下医生，顺便测了体温 37 度，然后配了点药：&lt;/p&gt;
-&lt;p&gt;氯雷他定片（ 1 天 1 次，早 9 点吃的）、左氧氟沙星片（ 1 天 1 次，早 9 点吃的）、感冒疏风颗粒（ 1 天 2 次，早 9 点喝了一包）、咽炎片（ 1 天 3 次，9 点、12 点分别吃了几片）。&lt;/p&gt;
-&lt;p&gt;今天一天在家没出去，感觉肌肉慢慢开始酸痛，刚刚测体温 38.3 。&lt;/p&gt;
-&lt;p&gt;我想问的是：
-1 38.5 一下有没有吃退烧药的必要。&lt;/p&gt;
-&lt;p&gt;2 家里有布洛芬和泰诺，会不会和早上吃的那些西药起冲突？&lt;/p&gt;
-&lt;p&gt;3 因为泰诺除了退烧，还能缓解感冒症状我更倾向于泰诺，是否可以？&lt;/p&gt;
-&lt;p&gt;PS：我本想去社区医院，但是怕进出导致加重，就网上问问看。有必要的话，我会考虑去社区医院看看。&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:46:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002876#reply11</guid></item><item><title>[程序员] 请教一个 JS 库 可以实现类似 drawsql 这种 SQL 关系图 可以缩放移动位置的</title><link>https://www.v2ex.com/t/1002875#reply0</link><description>&lt;p&gt;有没有开源的 JS 库 万分感谢各位大佬&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:39:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002875#reply0</guid></item><item><title>[Spotify] Spotify 港区家庭组拼 che</title><link>https://www.v2ex.com/t/1002874#reply0</link><description>&lt;p&gt;港区 Spotify 合租 港区 Spotify 家庭组 港区 Spotify 拼车 Spotify 港区会员 需要上车的小伙伴可以加我微信 dudu03jia1&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002874#reply0</guid></item><item><title>[分享创造] 一个开源的联邦宇宙（Mastodon、Fediverse）别名服务</title><link>https://www.v2ex.com/t/1002873#reply0</link><description>&lt;h2&gt;介绍&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;网站： &lt;a href="https://alias.willin.wang" rel="nofollow"&gt;https://alias.willin.wang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;开源代码仓库： &lt;a href="https://github.com/willin/alias" rel="nofollow"&gt;https://github.com/willin/alias&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;比如您在 Mastodon 系统上的用户名为： &lt;a href="https://log.lu/@willin" rel="nofollow"&gt;@willin@log.lu&lt;/a&gt; ，现在您可以申请一下域名后缀的别名：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;js.cool&lt;/li&gt;
-&lt;li&gt;css.fund&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://sh.gg" rel="nofollow"&gt;sh.gg&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://log.lu" rel="nofollow"&gt;log.lu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;kaiyuan.fund&lt;/li&gt;
-&lt;li&gt;v0.chat&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;示例：&lt;a href="https://js.cool/.well-known/webfinger?resource=acct:i@js.cool" rel="nofollow"&gt;i@js.cool&lt;/a&gt; | &lt;a href="https://v0.md/.well-known/webfinger?resource=acct:i@v0.md" rel="nofollow"&gt;i@v0.md&lt;/a&gt; 都指向到了 &lt;a href="https://log.lu/@willin" rel="nofollow"&gt;@willin@log.lu&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;使用自己的域名进行部署&lt;/h2&gt;
-&lt;p&gt;如果您拥有自己的域名，但是没有部署 Mastodon 或者其他 Fediverse 的应用程序。可以为自己的域名设置别名。需要用到 Cloudflare Worker ，参考项目： &lt;a href="https://github.com/willin/fediverse-alias" rel="nofollow"&gt;https://github.com/willin/fediverse-alias&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;第一步：初始化仓库&lt;/h3&gt;
-&lt;p&gt;Fork 或者 Clone 该项目：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/willin/fediverse-alias.git
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;第二步配置&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;配置域名路由&lt;/li&gt;
-&lt;li&gt;修改数据库 ID （参考&lt;a href="https://developers.cloudflare.com/d1/get-started/#3-create-a-database" rel="nofollow"&gt;创建数据库&lt;/a&gt;文档）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;编辑 &lt;code&gt;wrangler.toml&lt;/code&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-toml"&gt;name = "fediverse-alias"
-compatibility_date = "2023-01-01"
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Dec 2023 05:29:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Vue.js] 求助各位， webstorm2023.3 在使用 typescript+vue3+vite+element-plus 开发时遇到问题</title><link>https://www.v2ex.com/t/1002983#reply0</link><description>&lt;p&gt;工作中是后端开发，前端开发是兼职，工作之余做点小项目练练手。但是用了大半年，一直以来有个问题没解决，困扰太久了，网络上也没有查到有效的资料，各种尝试也没效果，还请各位指点个解决方向&lt;/p&gt;
+&lt;h1&gt;不识别 vue 的函数&lt;/h1&gt;
+&lt;p&gt;import { computed, reactive, ref } from 'vue';&lt;/p&gt;
+&lt;p&gt;computed, reactive, ref 都被标红，显示 Cannot resolve symbol 'computed' 等&lt;/p&gt;
+&lt;p&gt;导致无法对 computed 的泛型类型进行提示，开发体验很差&lt;/p&gt;
+&lt;h1&gt;配置&lt;/h1&gt;
+&lt;h2&gt;webstorm&lt;/h2&gt;
+&lt;p&gt;settings-&amp;gt;language&amp;amp;Frameworks-&amp;gt;JavaScript-&amp;gt;Libraries ，增加了 vue （ vue ，vue-eslint-parser ，vue-router ，vue-tsc ），typescript&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-typescript"&gt;{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "lib": [
+      "ES2020",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "skipLibCheck": true,
+    /* Bundler mode */
+    "moduleResolution": "node",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "preserve",
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "types": [
+      "node",
+      "vite/client",
+      "unplugin-vue-define-options/macros-global",
+      "element-plus/global",
+      "webpack-env"
+    ],
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue"
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
 
-# 修改为你自己的路由
-routes = [
-  { pattern = "yourdomain.com/.well-known/webfinger*", zone_name = "yourdomain.com" }
-  # 如果有多个，继续添加
-]
-
-[[d1_databases]]
-binding = "DB"
-database_name = "dns"
-# 修改为你刚创建的数据库 ID
-database_id = "xxx"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Dec 2023 05:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002983#reply0</guid></item><item><title>[SSL] hostgn.com 提供免费一年的域名 SSL 证书，免实名！无附加条件</title><link>https://www.v2ex.com/t/1002982#reply0</link><description>&lt;p&gt;为何选择 &lt;a href="http://HostGn.com" rel="nofollow"&gt;HostGn.com&lt;/a&gt; 一年免费 SSL 证书？&lt;/p&gt;
+&lt;p&gt;持久安全：相比短短三个月，我们为您提供一整年的免费 SSL 证书，为您的网站建立更持久、更可靠的安全通道。&lt;/p&gt;
+&lt;p&gt;信任加成：SSL 证书是用户信任的标志，一年的免费 SSL 证书能够让您的访问者更加信任并放心使用您的网站。&lt;/p&gt;
+&lt;p&gt;立即领取一年免费 GoGetSSL 域名 SSL 证书！（禁止用于违法行为,一经发现立即吊销证书)&lt;/p&gt;
+&lt;p&gt;购买证书： &lt;a href="https://my.hostgn.com/cart.php?gid=15" rel="nofollow"&gt;https://my.hostgn.com/cart.php?gid=15&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;操作简单，三步完成：&lt;/p&gt;
+&lt;p&gt;点击链接：购买 GoGetSSL DV 级域名 SSL 证书一年.。&lt;/p&gt;
+&lt;p&gt;申请 SSL 证书：点击“配置 SSL 证书”按钮，填写必要信息。&lt;/p&gt;
+&lt;p&gt;享受一年安全保护：提交申请后，验证域名所有权后。您将立即获得一年免费 SSL 证书，让您的网站得到全面的安全保护。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 05:03:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002982#reply0</guid></item><item><title>[分享创造] 周末整了一款个人博客</title><link>https://www.v2ex.com/t/1002981#reply0</link><description>&lt;p&gt;博客地址： &lt;a href="https://www.aitimi.cn/blog" rel="nofollow"&gt;https://www.aitimi.cn/blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;由 &lt;code&gt;Astro 3&lt;/code&gt; 和 &lt;code&gt;Vue 3&lt;/code&gt; 构建，github 作为图床，vercel 部署，cf 套壳。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="博客图片" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/szmxx/blog-imgs/main/00.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;功能特性&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;初始化数据&lt;/li&gt;
+&lt;li&gt;屏幕适配（桌面、iPad 、手机）&lt;/li&gt;
+&lt;li&gt;主题切换&lt;/li&gt;
+&lt;li&gt;本地搜索&lt;/li&gt;
+&lt;li&gt;主页&lt;/li&gt;
+&lt;li&gt;文章列表&lt;/li&gt;
+&lt;li&gt;项目列表&lt;/li&gt;
+&lt;li&gt;标签列表&lt;/li&gt;
+&lt;li&gt;分类列表&lt;/li&gt;
+&lt;li&gt;发布页面&lt;/li&gt;
+&lt;li&gt;文章分页加载&lt;/li&gt;
+&lt;li&gt;阅读时间&lt;/li&gt;
+&lt;li&gt;文章目录&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;修改 &lt;code&gt;migrations/0011_seeds.sql&lt;/code&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-sql"&gt;-- 这里是一个示例：
-INSERT INTO aliases(`alias`,`account`,`owner`) VALUES('admin@yourname.com','destination@mastodon.social','');
--- 多条记录在此处添加
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;第三步：部署&lt;/h3&gt;
-&lt;p&gt;执行：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;npm run deploy
-npm run migration
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;赞助 Sponsor&lt;/h2&gt;
-&lt;p&gt;维护者 Owner： &lt;a href="https://willin.wang" rel="nofollow"&gt;Willin Wang&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果您对本项目感兴趣，可以通过以下方式支持我：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;关注我的 Github 账号：&lt;a href="https://github.com/willin" rel="nofollow"&gt;@willin&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;参与 &lt;a href="https://afdian.net/@willin" rel="nofollow"&gt;爱发电&lt;/a&gt; 计划&lt;/li&gt;
-&lt;li&gt;支付宝或微信&lt;a href="https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png" rel="nofollow"&gt;扫码打赏&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Donation ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Github: &lt;a href="https://github.com/sponsors/willin" rel="nofollow"&gt;https://github.com/sponsors/willin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Paypal: &lt;a href="https://paypal.me/willinwang" rel="nofollow"&gt;https://paypal.me/willinwang&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Alipay or Wechat Pay: &lt;a href="https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png" rel="nofollow"&gt;QRCode&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;许可证 License&lt;/h2&gt;
-&lt;p&gt;Apache-2.0&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:30:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002873#reply0</guid></item><item><title>[Apple] 2023 结束晒一下自己的桌面</title><link>https://www.v2ex.com/t/1002872#reply3</link><description>&lt;p&gt;我先晒一下&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/G4OdxKt" rel="nofollow"&gt;Imgur&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/G4OdxKt" rel="nofollow"&gt;https://imgur.com/G4OdxKt&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;再问一个问题，三个屏幕怎么布局合理&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 08:24:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002872#reply3</guid></item><item><title>[Python] Openpyxl 读取合并单元格的问题</title><link>https://www.v2ex.com/t/1002871#reply1</link><description>&lt;p&gt;大佬们请教一个问题，pandas openpyxl 的使用，相同的代码在不同的机器运行(python 及包的版本一致)，但是调用的类不一样(使用的是父类)，导致没有找到属性，是什么原因导致的呢&lt;/p&gt;
-&lt;p&gt;报错机器：
-excel = pd.ExcelFile(load_workbook(file,read_only=False), engine="openpyxl")
-sheet = excel.book[sheet_name]
-df = excel.parse(sheet_name, header=header)
-for item in sheet.merged_cells:
-print(sheet.merged_cells.&lt;strong&gt;class&lt;/strong&gt;)
-# &amp;lt;class 'openpyxl.worksheet.cell_range.MultiCellRange'&amp;gt;
-print(item.&lt;strong&gt;class&lt;/strong&gt;)
-# &amp;lt;class 'openpyxl.worksheet.cell_range.CellRange'&amp;gt;&lt;/p&gt;
-&lt;p&gt;正常机器：
-for item in sheet.merged_cells:
-print(sheet.merged_cells.&lt;strong&gt;class&lt;/strong&gt;)
-# &amp;lt;class 'openpyxl.worksheet.cell_range.MultiCellRange'&amp;gt;
-print(item.&lt;strong&gt;class&lt;/strong&gt;)
-# &amp;lt;class 'openpyxl.worksheet.merge.MergedCellRange'&amp;gt;&lt;/p&gt;
-&lt;p&gt;item 在错误机器上显示的父类&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:58:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002871#reply1</guid></item><item><title>[生活] 窗户保温膜你们温度提升了几度?</title><link>https://www.v2ex.com/t/1002870#reply0</link><description>&lt;p&gt;我个人感觉最多提升了两度,温度根本没有升到 20 度,在开了空调的前提下&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002870#reply0</guid></item><item><title>[问与答] 携号转网办理</title><link>https://www.v2ex.com/t/1002869#reply0</link><description>&lt;p&gt;想问一下关于国内携号转网的时候有没有遇到什么阻碍，都是什么问题导致的&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:57:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002869#reply0</guid></item><item><title>[Android] 求教 23 年 12 月买 1000-1500 左右备用机</title><link>https://www.v2ex.com/t/1002868#reply2</link><description>&lt;p&gt;主力机 iPhone15 ，一开始想买的 iPhonese3 无锁，有 esim 后期爽很多，但淘宝和闲鱼坑太多，而且价格也超好多，后面想的就要不买个 note12 得了，屏幕大续航好就是系统得折腾。&lt;/p&gt;
-&lt;p&gt;因为是备用机手机插的卡是香港号和国外的，国软件没需求，可以只下国外软件，就是不确定现在买的红米 note 还能不能解锁刷欧版 eaa 了，pixel 如果价格合适也是个选择，但不知道 pixel 的 esim 卡有什么限制？&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:45:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002868#reply2</guid></item><item><title>[旅行] 元旦香港游，想咨询几个问题</title><link>https://www.v2ex.com/t/1002867#reply8</link><description>目前定了 28 号去香港玩，然后打算住在深圳，有几个问题想咨询下各位：&lt;br /&gt;1. 想买东西的话(电子产品、游戏机、卡带、药品) 哪片区域比较省心呢，可以一次逛完的那种&lt;br /&gt;2. 过关哪个口岸会稍微好过一点呢，还是说现在大小包都要过机了&lt;br /&gt;3. 如果想留盒子的话可以从香港寄回内地吗&lt;br /&gt;&lt;br /&gt;顺便找个旅游搭子缓解下住房压力(如果有的话)，南航优惠机票要两个人起买，含税 390</description><pubDate>Sat, 23 Dec 2023 07:21:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002867#reply8</guid></item><item><title>[分享发现] 下班后喜欢做什么来放松自己？</title><link>https://www.v2ex.com/t/1002865#reply10</link><description>&lt;p&gt;对我来说九点半十点下班，到家十点半，想干的事儿一大堆但是毫无动力，只能半躺刷短视频。。&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 07:05:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002865#reply10</guid></item><item><title>[问与答] 最近在研究打洞，最近又看上了 libp2p 的技术，看看大家有没有交流群可以探讨</title><link>https://www.v2ex.com/t/1002864#reply0</link><description>&lt;h1&gt;需要一个 libp2p 的交流群&lt;/h1&gt;
-&lt;h1&gt;q 或者 v 都可。&lt;/h1&gt;
-&lt;h1&gt;主要用于 nat 穿透&lt;/h1&gt;</description><pubDate>Sat, 23 Dec 2023 06:52:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002864#reply0</guid></item><item><title>[分享创造] vscode 插件 fnMap（函数地图）给所有程序员送码了</title><link>https://www.v2ex.com/t/1002862#reply2</link><description>&lt;p&gt;比 vscode 官方 outline 强大几个档次的符号插件，只要扫码登录，即可以领取一个永久注册码。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://marketplace.visualstudio.com/items?itemName=chensuiyi.fn-map" rel="nofollow"&gt;https://marketplace.visualstudio.com/items?itemName=chensuiyi.fn-map&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="fnMap - 函数地图" class="embedded_image" rel="noreferrer" src="https://test-3bl.pages.dev/fnmap.gif" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:46:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002862#reply2</guid></item><item><title>[iOS] reddit 官方 ios app 也太难用了 居然不能长按选中文字</title><link>https://www.v2ex.com/t/1002861#reply1</link><description>&lt;p&gt;原本想利用水手机时间看看英文社区上感兴趣的话题点还可以积累一些词汇量，结果不能长按选择一段文字然后点 ios 自带的翻译，只能点三个点，滑到很下面找到复制整段才行，再切到翻译 app 粘贴？很多时候只是一两个单词不认识或不确定，然后 reddit 又禁了 api ，也没其他客户端可用，在手机上用网页版会一直提示你下载 app 头疼&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:43:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002861#reply1</guid></item><item><title>[分享创造] 我在[V2EX]的第一次登陆，以及我即将踏上的 AI 之旅</title><link>https://www.v2ex.com/t/1002860#reply2</link><description>&lt;p&gt;在 V2EX 的首次登录，我感受到了这个充满科技热情的社区。我很高兴和大家分享，今年我将启动一项新的冒险——创建一家专注于 AI 的出海 SAAS 网站。&lt;br /&gt;
-·AI 之路，谷歌排名的探索&lt;br /&gt;
-2023 年，我将全心投入 AI 领域，为用户提供智能创新的解决方案。我们的目标是通过技术创新，成为谷歌排名中备受关注的团队。我深信 AI 将引领未来，我们的团队将为此做出贡献。&lt;br /&gt;
-·诚挚期待未来的交流&lt;br /&gt;
-在这个激动人心的时刻，我期待与大家分享我的创业故事、技术探索和成长。感谢 V2EX 和所有支持我的人，让我有机会在这个平台与你们分享我的梦想。&lt;br /&gt;
-让我们一同迎接未知，共同成长，共建美好的未来！&lt;/p&gt;</description><pubDate>Sat, 23 Dec 2023 06:39:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002860#reply2</guid></item><item><title>[程序员] 自学编程求大家给个思路</title><link>https://www.v2ex.com/t/1002859#reply8</link><description>想利用这个寒假自学编程我个人对网络安全非常感兴趣，安卓手机权限测试（是否存在滥用权限，病毒测试），网站漏洞，入侵网站后台等&lt;br /&gt;英语基础不太好数学也不算特别好我想主攻 Python 这门语言应该从哪里学起？这门语言可以用做网络安全这一块吗？网络安全是不是学这一项语言是不是有点不够？大家可以给我一点思路吗？</description><pubDate>Sat, 23 Dec 2023 06:38:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002859#reply8</guid></item></channel></rss>
+&lt;p&gt;目前在 &lt;a href="https://github.com/szmxx/blog" rel="nofollow"&gt;github&lt;/a&gt; 上已开源，欢迎各位老哥 star 和互换友链。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 05:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002981#reply0</guid></item><item><title>[问与答] 发现 OPPO 虚拟屏是一个很有意思的设计，即窗口可以拓展到屏幕之外，桌面系统上有没有类似的实现</title><link>https://www.v2ex.com/t/1002980#reply2</link><description>桌面系统的虚拟桌面有类似，但在笔记本小屏上感觉虚拟屏是更好用的设计&lt;br /&gt;&lt;a href="https://sspai.com/page/find-n3" rel="nofollow noopener" target="_blank"&gt;https://sspai.com/page/find-n3&lt;/a&gt;</description><pubDate>Sun, 24 Dec 2023 04:55:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002980#reply2</guid></item><item><title>[Apple] paralles destop 19 ，虚拟机全屏模式，鼠标放在菜单栏不显示菜单</title><link>https://www.v2ex.com/t/1002979#reply1</link><description>&lt;p&gt;如题，macos 13 系统，安装的 window 11 ，MacBook 14 寸的，你们有遇到过吗？鼠标放在菜单栏按 control+option 快捷键菜单栏才会显示，是我哪里设置的不对，还是原本就是这样的。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:54:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002979#reply1</guid></item><item><title>[MacBook Pro] 解决 macbook 蓝牙音响卡顿问题</title><link>https://www.v2ex.com/t/1002977#reply1</link><description>&lt;p&gt;通常出现在蓝牙连接大于 2 个时。
+解决方法：关闭隔空播放 airplay 。忽略所有蓝牙设备，再重新连接。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:50:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002977#reply1</guid></item><item><title>[macOS] 为什么我打字打快了，总打出这个字符，很奇怪。和双拼有关吗</title><link>https://www.v2ex.com/t/1002976#reply0</link><description>&lt;p&gt;双拼，wo shi bu xl xb = 我是吧¨相信&lt;/p&gt;
+&lt;p&gt;稍微快一点，总带出吧¨，是按到 alt+u 了吗，我直接按 alt+u 也打不出来这个字符&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:39:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002976#reply0</guid></item><item><title>[生活] 小 x 书上也有很多负债逾期的</title><link>https://www.v2ex.com/t/1002975#reply5</link><description>&lt;p&gt;大部分是 30w50w 的，不是房贷车贷，是负债逾期的…少部分上百的…各种各样的情况…见识了人生…看来我也不是特别惨的…原来大家都不容易!&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:31:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002975#reply5</guid></item><item><title>[问与答] 一点思考，餐馆与 wc 为什么没有广告（位）的概念，会是个机会吗</title><link>https://www.v2ex.com/t/1002974#reply6</link><description>&lt;p&gt;rt ，我们在餐馆等饭时，在 wc 蹲坑时，感觉会很无所事事，这算不算空白的广告市场呢？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:20:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002974#reply6</guid></item><item><title>[Apple] 今年两次官方 trade in 感受</title><link>https://www.v2ex.com/t/1002973#reply1</link><description>看到很多人说官方 trade in 会被爱峰机刀。但我两次走 trade in 都没有出现这种现象，而且效率还挺快的。&lt;br /&gt;第一次是 12promax 128gb ，苹官网评估是 3200 ，因为我是直接打钱，所以是少了 150 的换机补贴。&lt;br /&gt;第二次是 19 款 16 寸 intel MacBook pro i7+512gb ，官网评估是 4300 ，也是打钱，少一百块补贴，到手是 4200 。&lt;br /&gt;&lt;br /&gt;个人感受：手机 trade in 的话还是比第三方平台要高，官方不会在意什么小划痕和小磕碰还有电池老化问题。电脑的话除了老款的 intel 可以走 trade in ，m 系列最好还是小黄鱼。就拿我朋友那台 16 寸 m2pro 32+1tb 的，去年刚出就买了。现在 trade in 估 8900 块，而且还有 ac 在身。最后，很多人也说老款 intel 走官方 trade in 省事省力没必要多几百块钱折腾。也确实是这样，成色不好不要走爱回收什么的，挂小黄鱼的话，那些人挑三挑四点。没必要折腾。</description><pubDate>Sun, 24 Dec 2023 04:12:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002973#reply1</guid></item><item><title>[投资] atm Covered call 的久期一般多少,谢谢</title><link>https://www.v2ex.com/t/1002972#reply0</link><description></description><pubDate>Sun, 24 Dec 2023 04:02:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002972#reply0</guid></item><item><title>[问与答] 小学生寒假应该干什么？</title><link>https://www.v2ex.com/t/1002971#reply22</link><description>我妹妹今年上五年级了，学习成绩一般，爸妈一直给她报辅导班，每天晚上放了学要上，周六还要上，寒暑假还上。想想就痛苦，我感觉主要是我爸妈年纪大了，自己辅导又不会，在学习上又给不了什么帮助，只能报辅导班，这是他们唯一能想到的办法了。但是从我同学还是亲戚上辅导班的经历来看，辅导班上不上的无所谓，没听说哪个学习好的是通过上辅导班上的。然后上完辅导班回家，就知道刷抖音，不是刷一会，是一直刷。我之前也刷抖音，现在想想那段时间真的是都浪费了。家附近只有一个小孩，俩人到一块也是刷抖音拍视频。现在就想着问问各位，寒暑假既不想让小孩刷抖音，也不想让她上辅导班，应该干啥呢？</description><pubDate>Sun, 24 Dec 2023 03:58:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002971#reply22</guid></item><item><title>[PayPal] paypal 有 100 刀, 提取到银行卡太麻烦, 可以干点啥</title><link>https://www.v2ex.com/t/1002970#reply6</link><description></description><pubDate>Sun, 24 Dec 2023 03:58:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002970#reply6</guid></item><item><title>[VPS] 无公网 IP 家庭服务器如何通过 VPS 的公网提供服务？</title><link>https://www.v2ex.com/t/1002968#reply5</link><description>&lt;p&gt;想法:
+因为自己买的家庭服务器，配置还可以 64C 128G 2T 。但是没有公网 IP 。
+同配置的云服务器太贵了。我只想用云服务器的公网 IP 。&lt;/p&gt;
+&lt;p&gt;期望的效果:
+不用需要费力去管理所有的端口转发，比如 FRP 。
+两端运行各一个软件，可以连接。然后访问公网 IP 的 VPS ，就等于访问家里的服务器。
+尽量稳定一点。&lt;/p&gt;
+&lt;p&gt;我自己尝试过的方案:
+Wireguard ，功能可以实现。&lt;/p&gt;
+&lt;p&gt;有没有更好的方案呢？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 03:43:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002968#reply5</guid></item><item><title>[iPhone] 大家的 iOS 设备都用什么 V2EX 客户端？求推荐</title><link>https://www.v2ex.com/t/1002963#reply8</link><description>&lt;p&gt;免费收费都可以，好用好看就行&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002963#reply8</guid></item><item><title>[问与答] 为什么有的开源框架不不考虑数据库乐观锁字段,</title><link>https://www.v2ex.com/t/1002962#reply1</link><description>&lt;p&gt;为什么有的开源框架不不考虑数据库乐观锁字段&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:52:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002962#reply1</guid></item><item><title>[推广] 红牛免费 esim 试用，注册可获得 1 年 1.1GB 流量</title><link>https://www.v2ex.com/t/1002961#reply3</link><description>红牛欧洲的移动服务推出免费 eSIM 试用，新用户可获得 1.1GB 的流量 1 年，使用时间是一年，纯流量卡，漫游使用中国移动网络，奥地利 IP 。&lt;br /&gt;&lt;br /&gt;需下载客户端注册使用：Android： &lt;a href="https://play.google.com/store/apps/details?id=com.redbull.android.esim&amp;amp;hl=en_US&amp;amp;gl=US" rel="nofollow noopener" target="_blank"&gt;https://play.google.com/store/apps/details?id=com.redbull.android.esim&amp;amp;hl=en_US&amp;amp;gl=US&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;注册成功之后，使用优惠码「 RCuizp8ZZea60PJc 」&lt;br /&gt;profile 👉 setting 👉add the promo code 输入优惠码👉save,然后首页有个+号，添加一个“traveldealz”👉成功</description><pubDate>Sun, 24 Dec 2023 02:48:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002961#reply3</guid></item><item><title>[小米] 买了小米 Civi 3 草莓熊联名款</title><link>https://www.v2ex.com/t/1002960#reply3</link><description>如题 22 号晚上首发买的，小米商城秒无，在京东购买，第二天到货。比普通版本贵 300 ，感觉总体满意，唯一的缺点是内置系统 APP 没有草莓熊定制 UI 。上一部主力手机是小米 Civi 1s 粉色，屏幕摔碎了，刚好赶上了草莓熊联名就买了。</description><pubDate>Sun, 24 Dec 2023 02:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002960#reply3</guid></item><item><title>[问与答] （问一下各位大佬）
+有没有那种能查某个视频，是否与抖音中，某视频有重复的。这类产品</title><link>https://www.v2ex.com/t/1002959#reply1</link><description>&lt;p&gt;（问一下各位大佬）&lt;/p&gt;
+&lt;p&gt;有没有那种能查某个视频，是否与抖音中，某视频有重复的。这类产品&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002959#reply1</guid></item><item><title>[上海] V 友们有上海兼职群或者线上兼职吗</title><link>https://www.v2ex.com/t/1002955#reply3</link><description>最近生活所迫，想多打几份工，各种兼职都可以&lt;br /&gt;&lt;br /&gt;ps：有考虑过送外卖，但刚需一辆电车就 emmm&lt;br /&gt;&lt;br /&gt;op 男的，技术栈 java</description><pubDate>Sun, 24 Dec 2023 02:25:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002955#reply3</guid></item></channel></rss>
