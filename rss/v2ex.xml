@@ -1,100 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Dec 2023 05:29:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Vue.js] 求助各位， webstorm2023.3 在使用 typescript+vue3+vite+element-plus 开发时遇到问题</title><link>https://www.v2ex.com/t/1002983#reply0</link><description>&lt;p&gt;工作中是后端开发，前端开发是兼职，工作之余做点小项目练练手。但是用了大半年，一直以来有个问题没解决，困扰太久了，网络上也没有查到有效的资料，各种尝试也没效果，还请各位指点个解决方向&lt;/p&gt;
-&lt;h1&gt;不识别 vue 的函数&lt;/h1&gt;
-&lt;p&gt;import { computed, reactive, ref } from 'vue';&lt;/p&gt;
-&lt;p&gt;computed, reactive, ref 都被标红，显示 Cannot resolve symbol 'computed' 等&lt;/p&gt;
-&lt;p&gt;导致无法对 computed 的泛型类型进行提示，开发体验很差&lt;/p&gt;
-&lt;h1&gt;配置&lt;/h1&gt;
-&lt;h2&gt;webstorm&lt;/h2&gt;
-&lt;p&gt;settings-&amp;gt;language&amp;amp;Frameworks-&amp;gt;JavaScript-&amp;gt;Libraries ，增加了 vue （ vue ，vue-eslint-parser ，vue-router ，vue-tsc ），typescript&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-typescript"&gt;{
-  "compilerOptions": {
-    "target": "ES2020",
-    "useDefineForClassFields": true,
-    "module": "ESNext",
-    "lib": [
-      "ES2020",
-      "DOM",
-      "DOM.Iterable"
-    ],
-    "skipLibCheck": true,
-    /* Bundler mode */
-    "moduleResolution": "node",
-    "allowImportingTsExtensions": true,
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "preserve",
-    /* Linting */
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "baseUrl": "./",
-    "paths": {
-      "@/*": [
-        "src/*"
-      ]
-    },
-    "types": [
-      "node",
-      "vite/client",
-      "unplugin-vue-define-options/macros-global",
-      "element-plus/global",
-      "webpack-env"
-    ],
-  },
-  "include": [
-    "src/**/*.ts",
-    "src/**/*.d.ts",
-    "src/**/*.tsx",
-    "src/**/*.vue"
-  ],
-  "references": [
-    {
-      "path": "./tsconfig.node.json"
-    }
-  ]
-}
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 24 Dec 2023 05:06:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002983#reply0</guid></item><item><title>[SSL] hostgn.com 提供免费一年的域名 SSL 证书，免实名！无附加条件</title><link>https://www.v2ex.com/t/1002982#reply0</link><description>&lt;p&gt;为何选择 &lt;a href="http://HostGn.com" rel="nofollow"&gt;HostGn.com&lt;/a&gt; 一年免费 SSL 证书？&lt;/p&gt;
-&lt;p&gt;持久安全：相比短短三个月，我们为您提供一整年的免费 SSL 证书，为您的网站建立更持久、更可靠的安全通道。&lt;/p&gt;
-&lt;p&gt;信任加成：SSL 证书是用户信任的标志，一年的免费 SSL 证书能够让您的访问者更加信任并放心使用您的网站。&lt;/p&gt;
-&lt;p&gt;立即领取一年免费 GoGetSSL 域名 SSL 证书！（禁止用于违法行为,一经发现立即吊销证书)&lt;/p&gt;
-&lt;p&gt;购买证书： &lt;a href="https://my.hostgn.com/cart.php?gid=15" rel="nofollow"&gt;https://my.hostgn.com/cart.php?gid=15&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;操作简单，三步完成：&lt;/p&gt;
-&lt;p&gt;点击链接：购买 GoGetSSL DV 级域名 SSL 证书一年.。&lt;/p&gt;
-&lt;p&gt;申请 SSL 证书：点击“配置 SSL 证书”按钮，填写必要信息。&lt;/p&gt;
-&lt;p&gt;享受一年安全保护：提交申请后，验证域名所有权后。您将立即获得一年免费 SSL 证书，让您的网站得到全面的安全保护。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 05:03:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002982#reply0</guid></item><item><title>[分享创造] 周末整了一款个人博客</title><link>https://www.v2ex.com/t/1002981#reply0</link><description>&lt;p&gt;博客地址： &lt;a href="https://www.aitimi.cn/blog" rel="nofollow"&gt;https://www.aitimi.cn/blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;由 &lt;code&gt;Astro 3&lt;/code&gt; 和 &lt;code&gt;Vue 3&lt;/code&gt; 构建，github 作为图床，vercel 部署，cf 套壳。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="博客图片" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/szmxx/blog-imgs/main/00.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;功能特性&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 24 Dec 2023 18:40:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[推广] 有偿面向个人预测未来</title><link>https://www.v2ex.com/t/1003080#reply0</link><description>帮朋友发&lt;br /&gt;&lt;br /&gt;自学三命通会，梅花易数多年，略有小成。可以通过时间起卦，帮你寻找丢失物品，预测考试结果，出行是否顺利......&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;在这个快节奏的生活里已经很少有人对这方面的东西感兴趣了，如果遇到同道中人可以交流一下。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;能力有限，算不到彩票号码。只能算具体的，跟求卦者相关的事。&lt;br /&gt;&lt;br /&gt;一卦 100 元,每天只接两卦&lt;br /&gt;你满意给钱，不满意不要钱。&lt;br /&gt;&lt;br /&gt;一般情况请直接盖楼描述你的问题，如隐私问题可加我微信联系 &lt;br /&gt;vx do-you-enjoy-coding &lt;br /&gt;&lt;br /&gt;可能很多人对这个嗤之以鼻，说这个都是骗子，所以我在这里讲了如果你对结果不满意可以不给钱。</description><pubDate>Sun, 24 Dec 2023 18:27:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003080#reply0</guid></item><item><title>[MySQL] 请教， SELECT 有多行结果， mysql 能不能做到按这种指定格式，进行单行输出？</title><link>https://www.v2ex.com/t/1003079#reply3</link><description>&lt;p&gt;例如，SELECT &lt;code&gt;id&lt;/code&gt; FROM &lt;code&gt;record_tbl&lt;/code&gt; WHERE id &amp;gt; 7;&lt;br /&gt;
+会有 9,14,22,36 结果&lt;br /&gt;
+直接想要一个：                              &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;'9','14','22,'36'                    
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;不知道 mysql 的语法，能不能直接这样输出呢？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 17:23:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003079#reply3</guid></item><item><title>[OpenAI] 求一个 chatGPT 4 车位</title><link>https://www.v2ex.com/t/1003077#reply1</link><description>&lt;p&gt;如题。
+我会用 clash for windows 翻墙。注册了 chatGPT 3.5 账户，但是注册 4.0 失败了。
+希望能有个车位，我可以长期付费的。&lt;/p&gt;
+&lt;p&gt;P.S: 我不知道应当如何建立联系，需要我留邮箱吗？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 17:21:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003077#reply1</guid></item><item><title>[问与答] 全球的 云服务厂商 基本都环大陆销售了？</title><link>https://www.v2ex.com/t/1003075#reply4</link><description>&lt;p&gt;不止谷歌、亚马逊云等大云厂商&lt;/p&gt;
+&lt;p&gt;像
+Vercel 、
+Railway 、
+Redis cloud
+这种才商业化没多久的都 ban 了，
+目前看仅有 CloudFlare 一家有 cn 、海外可以同时存在的服务&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 16:56:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003075#reply4</guid></item><item><title>[Netflix] 求助』利用 cookie 奈飞免登录的方法</title><link>https://www.v2ex.com/t/1003073#reply0</link><description>之前不良林大佬讲过，但失效了，所以现在还有什么方法么有通过节点端劫持来实现奈飞免登录观看吗？</description><pubDate>Sun, 24 Dec 2023 16:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003073#reply0</guid></item><item><title>[问与答] 想买一个 5 年 期限 2 核 4G 云服务器或轻量云，价格 1500 以内，大家有什么推荐吗</title><link>https://www.v2ex.com/t/1003072#reply1</link><description>&lt;p&gt;22 年买的轻量腾讯云 5 年 2/4g 价格 440 ，现在已经没有这么优惠了。&lt;/p&gt;
+&lt;p&gt;大家有什么渠道购买吗？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 16:05:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003072#reply1</guid></item><item><title>[NAS] 大佬求看这一套配置怎么样</title><link>https://www.v2ex.com/t/1003071#reply12</link><description>&lt;p&gt;本人纯小白，之前没有任何 NAS 的经验，在小红书上看到的这一套配置，求大家看看还有没有什么可以优化的地方&lt;/p&gt;
+&lt;p&gt;简单说一下我的需求&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;屏幕适配（桌面、iPad 、手机）&lt;/li&gt;
-&lt;li&gt;主题切换&lt;/li&gt;
-&lt;li&gt;本地搜索&lt;/li&gt;
-&lt;li&gt;主页&lt;/li&gt;
-&lt;li&gt;文章列表&lt;/li&gt;
-&lt;li&gt;项目列表&lt;/li&gt;
-&lt;li&gt;标签列表&lt;/li&gt;
-&lt;li&gt;分类列表&lt;/li&gt;
-&lt;li&gt;发布页面&lt;/li&gt;
-&lt;li&gt;文章分页加载&lt;/li&gt;
-&lt;li&gt;阅读时间&lt;/li&gt;
-&lt;li&gt;文章目录&lt;/li&gt;
+&lt;li&gt;备份照片视频&lt;/li&gt;
+&lt;li&gt;备份 Logseq 或者 Obsidian 数据&lt;/li&gt;
+&lt;li&gt;搭建家庭影音库（要支持 4K ）&lt;/li&gt;
+&lt;li&gt;能玩 Docker&lt;/li&gt;
+&lt;li&gt;可以远程访问&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;目前在 &lt;a href="https://github.com/szmxx/blog" rel="nofollow"&gt;github&lt;/a&gt; 上已开源，欢迎各位老哥 star 和互换友链。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 05:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002981#reply0</guid></item><item><title>[问与答] 发现 OPPO 虚拟屏是一个很有意思的设计，即窗口可以拓展到屏幕之外，桌面系统上有没有类似的实现</title><link>https://www.v2ex.com/t/1002980#reply2</link><description>桌面系统的虚拟桌面有类似，但在笔记本小屏上感觉虚拟屏是更好用的设计&lt;br /&gt;&lt;a href="https://sspai.com/page/find-n3" rel="nofollow noopener" target="_blank"&gt;https://sspai.com/page/find-n3&lt;/a&gt;</description><pubDate>Sun, 24 Dec 2023 04:55:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002980#reply2</guid></item><item><title>[Apple] paralles destop 19 ，虚拟机全屏模式，鼠标放在菜单栏不显示菜单</title><link>https://www.v2ex.com/t/1002979#reply1</link><description>&lt;p&gt;如题，macos 13 系统，安装的 window 11 ，MacBook 14 寸的，你们有遇到过吗？鼠标放在菜单栏按 control+option 快捷键菜单栏才会显示，是我哪里设置的不对，还是原本就是这样的。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:54:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002979#reply1</guid></item><item><title>[MacBook Pro] 解决 macbook 蓝牙音响卡顿问题</title><link>https://www.v2ex.com/t/1002977#reply1</link><description>&lt;p&gt;通常出现在蓝牙连接大于 2 个时。
-解决方法：关闭隔空播放 airplay 。忽略所有蓝牙设备，再重新连接。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:50:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002977#reply1</guid></item><item><title>[macOS] 为什么我打字打快了，总打出这个字符，很奇怪。和双拼有关吗</title><link>https://www.v2ex.com/t/1002976#reply0</link><description>&lt;p&gt;双拼，wo shi bu xl xb = 我是吧¨相信&lt;/p&gt;
-&lt;p&gt;稍微快一点，总带出吧¨，是按到 alt+u 了吗，我直接按 alt+u 也打不出来这个字符&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:39:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002976#reply0</guid></item><item><title>[生活] 小 x 书上也有很多负债逾期的</title><link>https://www.v2ex.com/t/1002975#reply5</link><description>&lt;p&gt;大部分是 30w50w 的，不是房贷车贷，是负债逾期的…少部分上百的…各种各样的情况…见识了人生…看来我也不是特别惨的…原来大家都不容易!&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:31:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002975#reply5</guid></item><item><title>[问与答] 一点思考，餐馆与 wc 为什么没有广告（位）的概念，会是个机会吗</title><link>https://www.v2ex.com/t/1002974#reply6</link><description>&lt;p&gt;rt ，我们在餐馆等饭时，在 wc 蹲坑时，感觉会很无所事事，这算不算空白的广告市场呢？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 04:20:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002974#reply6</guid></item><item><title>[Apple] 今年两次官方 trade in 感受</title><link>https://www.v2ex.com/t/1002973#reply1</link><description>看到很多人说官方 trade in 会被爱峰机刀。但我两次走 trade in 都没有出现这种现象，而且效率还挺快的。&lt;br /&gt;第一次是 12promax 128gb ，苹官网评估是 3200 ，因为我是直接打钱，所以是少了 150 的换机补贴。&lt;br /&gt;第二次是 19 款 16 寸 intel MacBook pro i7+512gb ，官网评估是 4300 ，也是打钱，少一百块补贴，到手是 4200 。&lt;br /&gt;&lt;br /&gt;个人感受：手机 trade in 的话还是比第三方平台要高，官方不会在意什么小划痕和小磕碰还有电池老化问题。电脑的话除了老款的 intel 可以走 trade in ，m 系列最好还是小黄鱼。就拿我朋友那台 16 寸 m2pro 32+1tb 的，去年刚出就买了。现在 trade in 估 8900 块，而且还有 ac 在身。最后，很多人也说老款 intel 走官方 trade in 省事省力没必要多几百块钱折腾。也确实是这样，成色不好不要走爱回收什么的，挂小黄鱼的话，那些人挑三挑四点。没必要折腾。</description><pubDate>Sun, 24 Dec 2023 04:12:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002973#reply1</guid></item><item><title>[投资] atm Covered call 的久期一般多少,谢谢</title><link>https://www.v2ex.com/t/1002972#reply0</link><description></description><pubDate>Sun, 24 Dec 2023 04:02:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002972#reply0</guid></item><item><title>[问与答] 小学生寒假应该干什么？</title><link>https://www.v2ex.com/t/1002971#reply22</link><description>我妹妹今年上五年级了，学习成绩一般，爸妈一直给她报辅导班，每天晚上放了学要上，周六还要上，寒暑假还上。想想就痛苦，我感觉主要是我爸妈年纪大了，自己辅导又不会，在学习上又给不了什么帮助，只能报辅导班，这是他们唯一能想到的办法了。但是从我同学还是亲戚上辅导班的经历来看，辅导班上不上的无所谓，没听说哪个学习好的是通过上辅导班上的。然后上完辅导班回家，就知道刷抖音，不是刷一会，是一直刷。我之前也刷抖音，现在想想那段时间真的是都浪费了。家附近只有一个小孩，俩人到一块也是刷抖音拍视频。现在就想着问问各位，寒暑假既不想让小孩刷抖音，也不想让她上辅导班，应该干啥呢？</description><pubDate>Sun, 24 Dec 2023 03:58:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002971#reply22</guid></item><item><title>[PayPal] paypal 有 100 刀, 提取到银行卡太麻烦, 可以干点啥</title><link>https://www.v2ex.com/t/1002970#reply6</link><description></description><pubDate>Sun, 24 Dec 2023 03:58:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002970#reply6</guid></item><item><title>[VPS] 无公网 IP 家庭服务器如何通过 VPS 的公网提供服务？</title><link>https://www.v2ex.com/t/1002968#reply5</link><description>&lt;p&gt;想法:
-因为自己买的家庭服务器，配置还可以 64C 128G 2T 。但是没有公网 IP 。
-同配置的云服务器太贵了。我只想用云服务器的公网 IP 。&lt;/p&gt;
-&lt;p&gt;期望的效果:
-不用需要费力去管理所有的端口转发，比如 FRP 。
-两端运行各一个软件，可以连接。然后访问公网 IP 的 VPS ，就等于访问家里的服务器。
-尽量稳定一点。&lt;/p&gt;
-&lt;p&gt;我自己尝试过的方案:
-Wireguard ，功能可以实现。&lt;/p&gt;
-&lt;p&gt;有没有更好的方案呢？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 03:43:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002968#reply5</guid></item><item><title>[iPhone] 大家的 iOS 设备都用什么 V2EX 客户端？求推荐</title><link>https://www.v2ex.com/t/1002963#reply8</link><description>&lt;p&gt;免费收费都可以，好用好看就行&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002963#reply8</guid></item><item><title>[问与答] 为什么有的开源框架不不考虑数据库乐观锁字段,</title><link>https://www.v2ex.com/t/1002962#reply1</link><description>&lt;p&gt;为什么有的开源框架不不考虑数据库乐观锁字段&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:52:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002962#reply1</guid></item><item><title>[推广] 红牛免费 esim 试用，注册可获得 1 年 1.1GB 流量</title><link>https://www.v2ex.com/t/1002961#reply3</link><description>红牛欧洲的移动服务推出免费 eSIM 试用，新用户可获得 1.1GB 的流量 1 年，使用时间是一年，纯流量卡，漫游使用中国移动网络，奥地利 IP 。&lt;br /&gt;&lt;br /&gt;需下载客户端注册使用：Android： &lt;a href="https://play.google.com/store/apps/details?id=com.redbull.android.esim&amp;amp;hl=en_US&amp;amp;gl=US" rel="nofollow noopener" target="_blank"&gt;https://play.google.com/store/apps/details?id=com.redbull.android.esim&amp;amp;hl=en_US&amp;amp;gl=US&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;注册成功之后，使用优惠码「 RCuizp8ZZea60PJc 」&lt;br /&gt;profile 👉 setting 👉add the promo code 输入优惠码👉save,然后首页有个+号，添加一个“traveldealz”👉成功</description><pubDate>Sun, 24 Dec 2023 02:48:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002961#reply3</guid></item><item><title>[小米] 买了小米 Civi 3 草莓熊联名款</title><link>https://www.v2ex.com/t/1002960#reply3</link><description>如题 22 号晚上首发买的，小米商城秒无，在京东购买，第二天到货。比普通版本贵 300 ，感觉总体满意，唯一的缺点是内置系统 APP 没有草莓熊定制 UI 。上一部主力手机是小米 Civi 1s 粉色，屏幕摔碎了，刚好赶上了草莓熊联名就买了。</description><pubDate>Sun, 24 Dec 2023 02:45:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002960#reply3</guid></item><item><title>[问与答] （问一下各位大佬）
-有没有那种能查某个视频，是否与抖音中，某视频有重复的。这类产品</title><link>https://www.v2ex.com/t/1002959#reply1</link><description>&lt;p&gt;（问一下各位大佬）&lt;/p&gt;
-&lt;p&gt;有没有那种能查某个视频，是否与抖音中，某视频有重复的。这类产品&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 02:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002959#reply1</guid></item><item><title>[上海] V 友们有上海兼职群或者线上兼职吗</title><link>https://www.v2ex.com/t/1002955#reply3</link><description>最近生活所迫，想多打几份工，各种兼职都可以&lt;br /&gt;&lt;br /&gt;ps：有考虑过送外卖，但刚需一辆电车就 emmm&lt;br /&gt;&lt;br /&gt;op 男的，技术栈 java</description><pubDate>Sun, 24 Dec 2023 02:25:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1002955#reply3</guid></item></channel></rss>
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.ypll.xyz/logseq/%E6%88%AA%E5%9B%BE%202023-12-24%2023-45-29.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 16:05:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003071#reply12</guid></item><item><title>[路由器] M2 macbook air .wifi 连小米路由器跳 ping.有线连接稳定</title><link>https://www.v2ex.com/t/1003068#reply1</link><description>&lt;p&gt;光猫重启过了。路由器也重启过了
+路由器是小米的子母路由器套装
+mac 用外置网卡连的时候稳定 18ms 左右
+用 wifi 又是就会一下子高 ping&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 15:12:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003068#reply1</guid></item><item><title>[问与答] 买二手 mbp，签收的时候需要检查什么？</title><link>https://www.v2ex.com/t/1003067#reply4</link><description>&lt;p&gt;各位老哥，在海鲜市场买了 mbp ，需要特别注意检查什么呢？谢谢&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 14:46:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003067#reply4</guid></item><item><title>[分享创造] 墨干理工套件 V1.2.2 发布了</title><link>https://www.v2ex.com/t/1003066#reply0</link><description>&lt;h2&gt;马上下载&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://mogan.app/guide/Install.html" rel="nofollow"&gt;https://mogan.app/guide/Install.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;v1.2.2 是 v1.2.1 的紧急修复版本，下面的重要变更是 v1.2.1 的。&lt;/p&gt;
+&lt;h2&gt;重要变更&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;修复 v1.2.0 引入的&lt;code&gt;文件-&amp;gt;导出-&amp;gt;LaTeX&lt;/code&gt;失败的问题&lt;/li&gt;
+&lt;li&gt;修复 v1.2.0 引入的点击&lt;code&gt;编辑-&amp;gt;快捷键-&amp;gt;快捷键编辑器&lt;/code&gt;崩溃的问题&lt;/li&gt;
+&lt;li&gt;修复 v1.2.0 引入的 Windows 安装包没有创建快捷方式和开始菜单快捷方式的问题&lt;/li&gt;
+&lt;li&gt;修复 v1.2.0 引入的 Linux 安装包内没有 Desktop 文件的问题&lt;/li&gt;
+&lt;li&gt;重新开始提供 UOS 安装包（支持 amd64 和 loongarch64 ）&lt;/li&gt;
+&lt;li&gt;性能：通过优化字体加载改善初次启动的性能&lt;/li&gt;
+&lt;li&gt;用户界面：将一级菜单所有菜单项都翻译为中文，并改善若干菜单项的中文翻译&lt;/li&gt;
+&lt;li&gt;用户界面：&lt;code&gt;文件-&amp;gt;打开&lt;/code&gt;默认目录调整为家目录&lt;/li&gt;
+&lt;li&gt;用户界面：在 Windows 平台，窗口最大化，重启之后，窗口仍旧最大化，不会偏移&lt;/li&gt;
+&lt;li&gt;用户界面：在 macOS 平台，切换到 Qt 实现的文件浏览器，避免间歇性出现无法打开文件的问题&lt;/li&gt;
+&lt;li&gt;用户界面：在焦点工具栏为中文文档添加宋体/黑体/仿宋/楷体四种字体的切换快捷方式&lt;/li&gt;
+&lt;li&gt;样式：修复了更改样式后，由于缓存没有被清除，样式修改不生效的问题&lt;/li&gt;
+&lt;li&gt;快捷键：将 Deepin 和 KDE 桌面的快捷键风格调整为 kde 风格，并调整若干和系统快捷键冲突的快捷键&lt;/li&gt;
+&lt;li&gt;版本控制：修复若干 Git 版本控制相关的功能&lt;/li&gt;
+&lt;li&gt;稳定性：修复若干崩溃或者卡死的错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;相关文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://v2ex.com/t/997603" rel="nofollow"&gt;https://v2ex.com/t/997603&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://v2ex.com/t/978153" rel="nofollow"&gt;https://v2ex.com/t/978153&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sun, 24 Dec 2023 14:41:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003066#reply0</guid></item><item><title>[程序员] [求助] 有没有能让后端选手快速上手前端的方式</title><link>https://www.v2ex.com/t/1003065#reply0</link><description>&lt;p&gt;在下在读博士生一枚，平时的技术栈主要是 Rust 和 C++，对前端可谓是一窍不通（除了以前用 HTML 和 CSS 撸过静态页面以外）。&lt;/p&gt;
+&lt;p&gt;年底了，老板开始琢磨明年的横向了，在下终究没能逃过这一劫。于是，在下希望能利用年底这段时间快速速成一些前端，能糊一些看起来还行的页面就可以的水平。&lt;/p&gt;
+&lt;p&gt;在下之前没有写过 JavaScript ，看大家所谈论的关键词有些茫然。请教一下有没有地图一样的东西，或者能速成的路线。要求并不高，目前比较希望能尽快速成。&lt;/p&gt;
+&lt;p&gt;提前向路过的大家送上感谢！&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 14:27:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003065#reply0</guid></item><item><title>[哔哩哔哩] B 站为什么没有家庭组订阅？</title><link>https://www.v2ex.com/t/1003063#reply4</link><description>&lt;p&gt;国外的订阅一般都有家庭组选项，为什么 B 站没有？国内有网站有吗？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 14:20:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003063#reply4</guid></item><item><title>[全球工单系统] 天翼云退款问题</title><link>https://www.v2ex.com/t/1003062#reply1</link><description>&lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;因公司业务，在产品开发阶段，本人开通天翼云时先用的个人认证，并充值后购买服务器。
+之后，开发完成正式上线，因备案等具体要求，将账号升级为“企业认证”。&lt;/p&gt;
+&lt;h1&gt;费用报销&lt;/h1&gt;
+&lt;p&gt;原充值的钱，购买对象存储、服务器后，产生了具体账单，开具发票后公司报销。&lt;/p&gt;
+&lt;p&gt;因天翼云账户要求保留 100 以上，个人充值了三百在账户上，现在余额三百多。（钱不多，但能取回，当然希望取回）&lt;/p&gt;
+&lt;h1&gt;退款问题&lt;/h1&gt;
+&lt;p&gt;现因公司业务调整后裁员，上述产品后续也将下线。在向天翼云申请退款时，遇到以下问题：&lt;/p&gt;
+&lt;p&gt;1 、因充值已超过 3 个月，无法原路退回款项；&lt;/p&gt;
+&lt;p&gt;2 、因账户已升级为企业认证，需企业出具说明函，将款项退到我个人账户（企业这边在沟通，但够呛，裁员阶段比较难沟通）&lt;/p&gt;
+&lt;h1&gt;目前采取的措施&lt;/h1&gt;
+&lt;p&gt;1 、工单投诉，天翼云回复按照以下方式处理
+&lt;a href="https://www.ctyun.cn/document/10000038/20675820" rel="nofollow"&gt;https://www.ctyun.cn/document/10000038/20675820&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2 、对天翼云的回复不予认可，认为上述连接是“格式条款”，拟向工商管理部门投诉。&lt;/p&gt;
+&lt;h1&gt;求教&lt;/h1&gt;
+&lt;p&gt;各位是否有碰到过类似问题，是如何处理的？&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 14:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003062#reply1</guid></item><item><title>[奇思妙想] 好奇为什么没有在线的 PDF 笔记工具？</title><link>https://www.v2ex.com/t/1003061#reply2</link><description>&lt;p&gt;我经常用 PDF Expert 来记笔记，常用的功能只有高亮和中文输入，所以我在想能不能找到一款简洁的 PDF 笔记工具（），最好不需要下载，搜了一圈没有找到。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 14:08:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003061#reply2</guid></item><item><title>[问与答] 求 Python 学习书籍推荐</title><link>https://www.v2ex.com/t/1003060#reply5</link><description>小白  对编程感兴趣，想从 python 或者是 vba 开始，有没有推荐的书籍</description><pubDate>Sun, 24 Dec 2023 14:07:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003060#reply5</guid></item><item><title>[NVIDIA] 2023 年 12 月底了哪款显卡合适个人电脑做 AI 图文？</title><link>https://www.v2ex.com/t/1003059#reply13</link><description>配置&lt;br /&gt;CPU i5 13400&lt;br /&gt;内存 32*2 DDR4&lt;br /&gt;SSD 致钛 7100 2TB&lt;br /&gt;&lt;br /&gt;之前是用核显，不玩游戏够用。现在想入门 AI ，搞搞 stable diffusion 之类的，所以想搞一张显卡。&lt;br /&gt;&lt;br /&gt;求推荐性价比比较高的显卡。</description><pubDate>Sun, 24 Dec 2023 13:49:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003059#reply13</guid></item><item><title>[Google] 删除 Gmail 服务后不能再次注册 Gmail 账号？</title><link>https://www.v2ex.com/t/1003058#reply13</link><description>&lt;p&gt;之前感觉 Google 账号的邮箱地址设置的不合适，想要修改一下，没找到修改的方法，于是把 Gmail 服务删除了，想着能重新注册 Gmail 能修改一下地址。删除后用了 outlook 邮箱做 Google 账户的主邮箱。&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/kO1QEyS.png" /&gt; 现在发现很多 Google 账号登陆的网站不能再登陆原来的账户了，想重新注册 Gmail ，发现不行。  &lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/eAMdU65.png" /&gt; 大家有知道该怎么解决么。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 13:45:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003058#reply13</guid></item><item><title>[问与答] API 请求如何方便的做并发测试？</title><link>https://www.v2ex.com/t/1003057#reply2</link><description>&lt;p&gt;现在基于 redis 写了读锁的模块，想做个并发测试。
+现在是直接浏览器开 F12 ，跑一次请求，然后复制 CURL ，写了个 BASH 来多并发跑这段 CURL 。
+有没有更方便点的工具各位大佬教教。&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 13:41:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003057#reply2</guid></item><item><title>[推广] A simple tool: AI Poetry Generator.</title><link>https://www.v2ex.com/t/1003056#reply0</link><description>&lt;p&gt;🔗&lt;a href="https://www.poemgenerator-ai.com" rel="nofollow"&gt;www.poemgenerator-ai.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Feature：Enter a poetry theme, generate a poem.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Using the model: ChatGPT 3.5 - Turbo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgse.com/i/piHudAI" rel="nofollow"&gt;&lt;img alt="piHudAI.png" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2023/12/24/piHudAI.png" /&gt;&lt;/a&gt;
+&lt;a href="https://imgse.com/i/piHuUHA" rel="nofollow"&gt;&lt;img alt="piHuUHA.png" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2023/12/24/piHuUHA.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 13:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003056#reply0</guid></item><item><title>[问与答] 请教： ipv6 是不是也有公网、内网地址之分？</title><link>https://www.v2ex.com/t/1003055#reply3</link><description>&lt;p&gt;一直没弄明白，一个设备是不是 ipv6 地址只能有一个？还是可以有一个公网 ip ，一个内网 ip ？
+有没有什么文章能简单介绍 ipv6 相关入门知识？多谢&lt;/p&gt;</description><pubDate>Sun, 24 Dec 2023 13:38:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003055#reply3</guid></item></channel></rss>
