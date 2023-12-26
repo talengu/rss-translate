@@ -1,481 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Dec 2023 08:24:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 救急，忘记了电脑密码，现在电脑没关机，如何删除密码</title><link>https://www.v2ex.com/t/1003553#reply0</link><description>&lt;p&gt;昨天修改了密码，幸好没有关机，刚刚突然想到电脑密码忘了。
-现在应该如何做？有没有能重置密码的软件？
-大家帮忙推荐下靠谱的教程或者软件 谢谢各位&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:23:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003553#reply0</guid></item><item><title>[推广] 招募强直性脊柱炎受试者 有补贴</title><link>https://www.v2ex.com/t/1003552#reply0</link><description>&lt;h2&gt;发个广告 临床试验招募 有补贴&lt;/h2&gt;
-&lt;h3&gt;受试者招募-AK111 注射液治疗活动性强直性脊柱炎受试者&lt;/h3&gt;
-&lt;h3&gt;01:研究背景&lt;/h3&gt;
-&lt;p&gt;医院正在开展一项“评价 AK111 注射液治疗活动性强直性脊柱炎受试者疗效与安全性的随机、双盲、安慰剂对照、多中心 III 期临床研究”。本研究已获得国家药品监督管理局的批准，并经由参加单位伦理委员会审批同意。AK111 是中山康方生物医药有限公司研发的一种靶向于人 IL-17A 的人源化单克隆抗体，可特异性和高亲和力结合人 IL-17 细胞因子。为评估 AK111 注射液与安慰剂治疗活动性强直性脊柱炎(AS)受试者的有效性和安全性，开展本临床试验。共招募约 510 例受试者。如您有意愿，且符合以下条件，您可与我们进行联系。&lt;/p&gt;
-&lt;h3&gt;02:主要入选条件&lt;/h3&gt;
-&lt;p&gt;1 、年龄 18 岁及以上[以签署知情同意书(ICF)当天为准的男性或女性受试&lt;/p&gt;
-&lt;p&gt;2 、筛选前已确诊患强直性炎，有放射学证据证实符合 1984 年修订的 AS 纽约标准(Modified New York criteria for AS)&lt;/p&gt;
-&lt;p&gt;3 、筛选时和随机前存在活动性 AS ，定义为:BASDAI 评分 24 分;总背痛评分 24 分;&lt;/p&gt;
-&lt;p&gt;4 、筛选前已接受 22 种非体抗炎药(NSAIDS)治疗疗效不佳(定义为:2 种及以上 NSAIDs 推荐剂量下共治疗 24 周且每种 NSAIDS 治疗不少于 2 周但疗效不佳)或存在不能使用 NSAIDS 的禁忌症或无法耐受;&lt;/p&gt;
-&lt;p&gt;5 、如果正在服用 NSAIDS 或弱效阿片类或口服糖皮质激素的受试者，随机前 2 周及整个研究期间应保持稳定剂量，每日口服糖皮质激素剂量需 10mg 泼尼松或等效剂量糖皮质激素;如随机时受试者未口服以上药物，则随机前至少停用 22 周;&lt;/p&gt;
-&lt;p&gt;6 、服用甲氨喋(&amp;lt;25mg/周)或柳氮磺(&amp;lt;3g/天)受试者(随机前至少持续用药 212 周)可继续用药，随机前 4 周及整个研究期间应保持稳定剂量。如既往曾经口服以上药物但现已停用，需随机前至少已停药 24 周。服用甲氨噪岭的受试者必须在随机前同时补充叶酸(不小于 5mg/周，每周口服 1 次或分次口服)&lt;/p&gt;
-&lt;p&gt;7 、若为育龄妇女，则应处于非孕期及非哺乳期，且受试者以及他们的伴侣在试验期间以及最后一次接受试验药物后至少 6 个月内自愿采取方案规定的避孕措施并避免捐精捐卵;&lt;/p&gt;
-&lt;p&gt;8 受试者能够理解并自愿签署 ICF ，ICF 必须在执行任何试验指定的研究程序前签署;&lt;/p&gt;
-&lt;p&gt;9 、受试者必须自愿并能完成研究程序和随访检查&lt;/p&gt;
-&lt;p&gt;以上仅为部分入选标准，如需要详细了解，请您联系研究医生进行沟通。您是否符合研究要求需要进行一系列的检查判断，以研究医生判断为准&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:17:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003552#reply0</guid></item><item><title>[Go 编程语言] Go Runtime: atomic 及内存一致模型初步</title><link>https://www.v2ex.com/t/1003551#reply0</link><description>&lt;h3&gt;atomic&lt;/h3&gt;
-&lt;p&gt;抛开 &lt;a href="https://research.swtch.com/mm" rel="nofollow"&gt;Memory Consistency Model&lt;/a&gt; 不谈,
-&lt;a href="https://pkg.go.dev/sync/atomic" rel="nofollow"&gt;sync/atomic&lt;/a&gt; 的实现是简单而直观的.&lt;/p&gt;
-&lt;p&gt;我们首先构造一个案例, 基于 linux/amd64 编译后, 使用 objdump 查看汇编结果.&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;import (
-	"fmt"
-	"sync/atomic"
-)
-
-var x atomic.Int64
-
-func main() {
-	x.Store(32)
-	x.Add(1)
-	x.CompareAndSwap(33, 34)
-	i := x.Load()
-	fmt.Println(i)
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;~ GOOS=linux GOARCH=amd64 go build main.go
-~ x86_64-linux-gnu-objdump -D -S main | grep -A 65 "main.main&amp;gt;:" | cat -n -
- 1	000000000047ad60 &amp;lt;main.main&amp;gt;:
- 2		"sync/atomic"
- 3	)
- 4
- 5	var x atomic.Int64
- 6
- 7	func main() {
- 8	  47ad60:	49 3b 66 10          	cmp    0x10(%r14),%rsp
- 9	  47ad64:	0f 86 81 00 00 00    	jbe    47adeb &amp;lt;main.main+0x8b&amp;gt;
-10	  47ad6a:	55                   	push   %rbp
-11	  47ad6b:	48 89 e5             	mov    %rsp,%rbp
-12	  47ad6e:	48 83 ec 38          	sub    $0x38,%rsp
-13		x.Store(32)
-14	  47ad72:	90                   	nop
-15
-16	// Load atomically loads and returns the value stored in x.
-17	func (x *Int64) Load() int64 { return LoadInt64(&amp;amp;x.v) }
-18
-19	// Store atomically stores val into x.
-20	func (x *Int64) Store(val int64) { StoreInt64(&amp;amp;x.v, val) }
-21	  47ad73:	b9 20 00 00 00       	mov    $0x20,%ecx
-22	  47ad78:	48 8d 15 89 16 0d 00 	lea    0xd1689(%rip),%rdx        # 54c408 &amp;lt;main.x&amp;gt;
-23	  47ad7f:	48 87 0a             	xchg   %rcx,(%rdx)
-24		x.Add(1)
-25	  47ad82:	90                   	nop
-26	func (x *Int64) CompareAndSwap(old, new int64) (swapped bool) {
-27		return CompareAndSwapInt64(&amp;amp;x.v, old, new)
-28	}
-29
-30	// Add atomically adds delta to x and returns the new value.
-31	func (x *Int64) Add(delta int64) (new int64) { return AddInt64(&amp;amp;x.v, delta) }
-32	  47ad83:	b9 01 00 00 00       	mov    $0x1,%ecx
-33	  47ad88:	f0 48 0f c1 0a       	lock xadd %rcx,(%rdx)
-34		x.CompareAndSwap(33, 34)
-35	  47ad8d:	90                   	nop
-36		return CompareAndSwapInt64(&amp;amp;x.v, old, new)
-37	  47ad8e:	b8 21 00 00 00       	mov    $0x21,%eax
-38	  47ad93:	b9 22 00 00 00       	mov    $0x22,%ecx
-39	  47ad98:	f0 48 0f b1 0a       	lock cmpxchg %rcx,(%rdx)
-40	  47ad9d:	0f 94 c1             	sete   %cl
-41		i := x.Load()
-42	  47ada0:	90                   	nop
-43	func (x *Int64) Load() int64 { return LoadInt64(&amp;amp;x.v) }
-44	  47ada1:	48 8b 05 60 16 0d 00 	mov    0xd1660(%rip),%rax        # 54c408 &amp;lt;main.x&amp;gt;
-45		fmt.Println(i)
-46	  47ada8:	44 0f 11 7c 24 28    	movups %xmm15,0x28(%rsp)
-47	  47adae:	e8 ed e9 f8 ff       	call   4097a0 &amp;lt;runtime.convT64&amp;gt;
-48	  47adb3:	48 8d 0d 06 70 00 00 	lea    0x7006(%rip),%rcx        # 481dc0 &amp;lt;type:*+0x6dc0&amp;gt;
-49	  47adba:	48 89 4c 24 28       	mov    %rcx,0x28(%rsp)
-50	  47adbf:	48 89 44 24 30       	mov    %rax,0x30(%rsp)
-51		return Fprintln(os.Stdout, a...)
-52	  47adc4:	48 8b 1d 5d 37 0a 00 	mov    0xa375d(%rip),%rbx        # 51e528 &amp;lt;os.Stdout&amp;gt;
-53	  47adcb:	48 8d 05 36 75 03 00 	lea    0x37536(%rip),%rax        # 4b2308 &amp;lt;go:itab.*os.File,io.Writer&amp;gt;
-54	  47add2:	48 8d 4c 24 28       	lea    0x28(%rsp),%rcx
-55	  47add7:	bf 01 00 00 00       	mov    $0x1,%edi
-56	  47addc:	48 89 fe             	mov    %rdi,%rsi
-57	  47addf:	90                   	nop
-58	  47ade0:	e8 7b ae ff ff       	call   475c60 &amp;lt;fmt.Fprintln&amp;gt;
-59	}
-60	  47ade5:	48 83 c4 38          	add    $0x38,%rsp
-61	  47ade9:	5d                   	pop    %rbp
-62	  47adea:	c3                   	ret
-63	func main() {
-64	  47adeb:	e8 10 fc fd ff       	call   45aa00 &amp;lt;runtime.morestack_noctxt.abi0&amp;gt;
-65	  47adf0:	e9 6b ff ff ff       	jmp    47ad60 &amp;lt;main.main&amp;gt;
-66
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;runtime/internal/atomic 中的实现通过 inline 的形式直接嵌入到了 main.main 中, 稍显杂乱, 但是并不妨碍阅读.
-Store/Add/CompareAndSwap/Load 分别依赖 CPU 指令 XCHG/LOCK XADD/LOCK CMPXCHG/MOV 实现.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.felixcloutier.com/x86/lock" rel="nofollow"&gt;LOCK&lt;/a&gt; 是加在特定指令前的前缀, 用于将对应指令转化为原子指令.
-例如, &lt;a href="https://www.felixcloutier.com/x86/xadd" rel="nofollow"&gt;XADD&lt;/a&gt; 将第一个参数和第二个参数相加后的值保存到第一个参数,
-添加 LOCK 前缀后可以保证整个过程是排他且原子的.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.felixcloutier.com/x86/xchg" rel="nofollow"&gt;XCHG&lt;/a&gt; 用于交换两个寄存器的值.
-也可以用于交换寄存器和内存地址的值, 此时自带 LOCK 效果.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.felixcloutier.com/x86/cmpxchg" rel="nofollow"&gt;CMPXCHG&lt;/a&gt; 借用寄存器 RAX 实现 CAS 效果.
-如果 RAX 和第一个参数相等, 则将第二个参数的值赋给第一个参数.
-否则将第一个参数赋给第二个参数.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://pdos.csail.mit.edu/6.828/2014/readings/ia32/IA32-3A.pdf" rel="nofollow"&gt;Intel® 64 and IA-32 Architectures Software Developer’s Manual&lt;/a&gt; 中
-Strengthening or Weakening the Memory Ordering Model 相关章节指明了 XCHG/LOCK 等相关指令会刷新缓存的写指令.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Synchronization mechanisms in multiple-processor systems may depend upon a
-strong memory-ordering model. Here, a program can use a locking instruction such
-as the XCHG instruction or the LOCK prefix to insure that a read-modify-write operation on memory is carried out atomically.
-Locking operations typically operate like I/O operations in that they wait for all previous instructions to complete and for all
-buffered writes to drain to memory (see Section 7.1.2, “Bus Locking”).&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;因此 Store/Add/CompareAndSwap 等操作修改后直接可以被其他处理器看到.
-同时, Go 也保证了内存数据的对齐.
-那么, Load 操作就可以直接用 MOV 来实现.&lt;/p&gt;
-&lt;h2&gt;Memory Model&lt;/h2&gt;
-&lt;p&gt;虽然 Memory Model 是计算机中的一个重要概念, 但可能真的是绝大多数程序员无需关心的领域.
-同时因其针对的主要是硬件(CPU)和编译器, 我们也很难彻底理解, 但是花时间树立一个大体正确的概念依然是一件很有价值的事情.
-Russ Cox 为 Memory Model 写的&lt;a href="https://research.swtch.com/mm" rel="nofollow"&gt;三篇文章&lt;/a&gt;是一个不错的切入点.&lt;/p&gt;
-&lt;p&gt;首先我们要注意, Memory Model 并不是指如何管理内存, 其定义的是多处理系统中, 不同处理器之间如何共享和同步内存.
-在下述例子中, 我们假设两个处理器分别运行如下的代码:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;// Thread 1             // Thread 2
-x = 1;                  r1 = x;
-y = 1;                  r2 = y;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;那么 (r1, r2) 可能的结果是 (0, 0), (1, 0), (1, 1), (0, 1).
-在没有明确 CPU 和编译器的 Memory Model 时, (0, 1) 也是有可能的.
-CUP/编译器的重排指令都可能导致最终结果为 (0, 1).&lt;/p&gt;
-&lt;p&gt;而当我们约定 Memory Model 为 Sequential Consistency(SC) 时, (0, 1) 就是一种不可能的结果.
-因为 SC 要求在所有处理器上观察到的内存操作顺序与单个处理器上的执行顺序一致.&lt;/p&gt;
-&lt;p&gt;现实世界中, CPU 为了更高的性能, 会选择比 SC 更宽松的内存模型,
-比如 Total Store Order(TSO).
-相对 SC, TSO 依然保证所有的写操作(Store)在所有处理器上观察到的顺序是一致的.
-但 TSO 并不保证, 读(Load)和写(Store)在不同处理器上观察到的顺序是一致的.
-在下面的例子中, r1=1&amp;amp;&amp;amp;r2=0 在 SC 中是不被允许的, 但在 TSO 中是可能出现的.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;// Thread 1             // Thread 2
-x = 1;                  y = 1;
-r1 = y;                 r2 = x;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;x86 等架构在实现 TSO 时, 基本都会为每个处理器维护一个 write buffer,
-避免每个写操作都需要直接和内存交互, 进而提高 CPU 执行效率.
-同时, x86 也提供了 FENCH 等内存屏障指令,
-允许用户主动清空 write buffer, 确保指令前的写操作对所有处理器可见.&lt;/p&gt;
-&lt;p&gt;诸如 Java/C++/Go 等高级语言也会定义自己的的内存模型.
-Go 在没有数据竞争的情况下保证 SC, 即 data-race-free sequential-consistency(DRF-SC).&lt;/p&gt;
-&lt;p&gt;数据竞争是指同时有两个以上的处理器访问同一个变量, 其中至少有一个是写操作.
-在下述的代码中, 就包括 race:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package main
-
-import "time"
-
-var x int
-
-func load() int {
-	return x
-}
-
-func store(i int) {
-	x = i
-}
-
-func main() {
-	go store(32)
-	go load()
-	time.Sleep(1)
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;~ go build -race main.go
-~ ./main
-==================
-WARNING: DATA RACE
-Read at 0x000100a128a0 by goroutine 6:
-  main.load()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:8 +0x28
-  main.main.func2()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:17 +0x28
-
-Previous write at 0x000100a128a0 by goroutine 5:
-  main.store()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:12 +0x2c
-  main.main.func1()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:16 +0x2c
-
-Goroutine 6 (running) created at:
-  main.main()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:17 +0x34
-
-Goroutine 5 (finished) created at:
-  main.main()
-      /Users/j2gg0s/go/src/github.com/j2gg0s/j2gg0s/examples/go-race/main.go:16 +0x28
-==================
-Found 1 data race(s)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;当存在数据竞争时, Go 并不提供任何保证, 我们需要通过使用 lock/chan/atomic 等机制避免数据竞争.
-一种方式是加锁保护数据.&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package main
-
-import (
-	"sync"
-	"time"
-)
-
-var x int
-var mu sync.Mutex
-
-func load() int {
-	mu.Lock()
-	defer mu.Unlock()
-	return x
-}
-
-func store(i int) {
-	mu.Lock()
-	defer mu.Unlock()
-	x = i
-}
-
-func main() {
-	go store(32)
-	go load()
-	time.Sleep(1)
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;另一种方式使用 atomic.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;package main
-
-import (
-	"sync/atomic"
-	"time"
-)
-
-var x atomic.Int64
-
-func load() int64 {
-	return x.Load()
-}
-
-func store(i int) {
-	x.Store(int64(i))
-}
-
-func main() {
-	go store(32)
-	go load()
-	time.Sleep(1)
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Source: &lt;a href="https://github.com/j2gg0s/j2gg0s/blob/main/_posts/2023-12-26-Go%20Runtime%3A%20atomic%20%E5%8F%8A%E5%86%85%E5%AD%98%E4%B8%80%E8%87%B4%E6%A8%A1%E5%9E%8B%E5%88%9D%E6%AD%A5.md" rel="nofollow"&gt;https://github.com/j2gg0s/j2gg0s/blob/main/_posts/2023-12-26-Go%20Runtime%3A%20atomic%20%E5%8F%8A%E5%86%85%E5%AD%98%E4%B8%80%E8%87%B4%E6%A8%A1%E5%9E%8B%E5%88%9D%E6%AD%A5.md&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:16:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003551#reply0</guid></item><item><title>[酷工作] 赴日 IT 进行时！诚招 24 年优秀新卒赴日！日语零基础者也可！</title><link>https://www.v2ex.com/t/1003550#reply1</link><description>日本上市公司 24 年新卒纳新！！！&lt;br /&gt;招聘名额 20 名左右！&lt;br /&gt;要求：985 计算机相关专业应届生！无日语基础也可以！&lt;br /&gt;公司有完善的薪酬晋升体系和福利待遇~&lt;br /&gt;想去日本发展的小伙伴不要错过机会哦~&lt;br /&gt;有意者请与我联系：Ujob_7 (备注 V2ex)</description><pubDate>Tue, 26 Dec 2023 08:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003550#reply1</guid></item><item><title>[Java] 咨询一个关于 springboot 集成 mybatis-plus 的查询返回问题？</title><link>https://www.v2ex.com/t/1003549#reply0</link><description>&lt;h2&gt;环境&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;jdk8, spirngboot ，mysql,mybatis ,mybatis-plus
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;例如：mysql 一张表，a,b,c,d,e,f,g 这几个字段，然后有一个实体类 demoEntity 跟数据库表对应
-
-需求： 我现在一个接口，我只需要 a,b,c 三个字段就足够了，然后我返回给前端，也只想返回这三个，如果不用 mybatis-plus 我可以把 a b c 封装成一个 vo ，mapper 里直接返回 vo ， 如果用 Mybatis-plus ， 可以先用实体类接到数据，然后再 set 给 vo ，这太鸡肋了，还有就是 封装一下 mp ，让他能够兼容 vo 返回，也可以； 但是我现在又有一个接口 只需要 d,e,f,g 这四个字段，那么我就得在封装个 vo,这时候 之前封装的 mp 返回的 vo 就不能用了，就得在建一个 server 类 在去继承另个 vo ；
-
-解决：我能想的就是 用一个 vo ，但是接口返回可能会存在冗余字段，不想存在,就得手写 sql 查，完全用不到了 mp ，我想问问大家怎么解决这种问题
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;问题 2&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;例如 我同样一个 sql：
-
-select * from user where rid in (1,2,3,4....); rid 可能有上万个,但 rid 不是主键;
-
-然后我用 mp 手写一个批量查方法
-
-LambdaQueryWrapper&amp;lt;User&amp;gt; lambdaQueryWrapper = new LambdaQueryWrapper&amp;lt;&amp;gt;();
-lambdaQueryWrapper.in(User::getRid, Arrays.stream(new Integer[]{1, 2, 3, 4, ....}));
-
-userMapper.list(lambdaQueryWrapper);
-
-我执行下来发现，打印的 sql 是一样的，但是 mp 的查询时间就很快； 这是为啥；
-
-大家在去批量差一个表里的非主键字段的时候 会用什么方法提高效率，mysql 用 in 应该不会走索引吧
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;问题 3&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;spring cloud 项目，例如有 A B 两个服务，每个服务有自己的库；
-
-需求： 我现在 A 服务里一个接口，我需要关联查 B 服务的数据，并且合并以后分页 按照 B 库里的时间字段倒序 返回，这类大家会怎么做；
-
-我百度搜了很多方法，用远程调用，拿到数据在合并，或者用 mq 解耦，或者数据仓库， 是能解决，我想问问大家都是在用什么方法？
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 26 Dec 2023 08:11:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003549#reply0</guid></item><item><title>[问与答] 大家是怎样推广自己的项目的呢</title><link>https://www.v2ex.com/t/1003548#reply0</link><description>&lt;p&gt;推广不像写程序，立刻就能给出反馈，没有反馈总感觉少了些乐趣。&lt;/p&gt;
-&lt;p&gt;这是学习前端后，第一个从 0 到 1 独立开发完成的项目，想听听 V 站彦祖们经验或建议，好坏都行，爱聊天。&lt;/p&gt;
-&lt;p&gt;月初第一次推广，估计 30 万的展现，10 万的站点访问，现在每天大概只有几十个活跃。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="推广" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/jiannei/snc-pro/master/images/202312261600798.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;站点地址： &lt;a href="https://sinan.fun" rel="nofollow"&gt;https://sinan.fun&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:10:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003548#reply0</guid></item><item><title>[分享创造] 博主/up 主管理 | My Library 3.7.0</title><link>https://www.v2ex.com/t/1003547#reply0</link><description>&lt;p&gt;自从 B 站关注的 up 主超过 300 以后，动态功能就像灾难一样，移动端砍掉了动态仅查看视频，导致动态里有 up 主视频、广告动态、up 主捞以前发布的视频。&lt;/p&gt;
-&lt;p&gt;我之前习惯囤一周的视频筛选到收藏再慢慢看，现在光筛选视频就得花上个把小时，还容易漏掉。&lt;/p&gt;
-&lt;p&gt;所以我开发了这个功能，把以前的根据时间线管理，改为单个 up 主管理。用户可以单独设置每个 up 主的优先级，更新频率，以满足整理的功能。
-（当用户超过更新频率没观看时，边框会变红，如果超过三倍更新频率没观看时，背景颜色会变红，这样也可以分析是否还需要关注这个 up 主）&lt;/p&gt;
-&lt;p&gt;如果有需要还可以通过 RSSHhub 来获取更新视频（见图 2 ）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/26/c4ZRAbOhyFvYzoi.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2023/12/26/R3hHpXAOyQxikYd.png" /&gt;&lt;/p&gt;
-&lt;p&gt;下载地址： &lt;a href="https://mylibrary.cc/" rel="nofollow"&gt;https://mylibrary.cc/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:09:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003547#reply0</guid></item><item><title>[求职] 还有没有矿场招运维的啊</title><link>https://www.v2ex.com/t/1003546#reply0</link><description>&lt;p&gt;不是高原地区都可以，有没有&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 08:02:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003546#reply0</guid></item><item><title>[分享创造] 写了一个 url/utctime/繁体转简体的在线工具</title><link>https://www.v2ex.com/t/1003545#reply0</link><description>&lt;p&gt;有时候在标题栏复制 url ，中文会变成%E8 ，总觉得看起来很别扭，就随手写了一个转换工具。&lt;/p&gt;
-&lt;p&gt;utctime 没什么好说的，烂大街的整形日期转换。&lt;/p&gt;
-&lt;p&gt;繁体转简体是因为我看一些繁体 youtube 频道，下载的字幕和视频都是繁体中文。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tool2d.com/#convert" rel="nofollow"&gt;https://tool2d.com/#convert&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://tool2d.com/img/screen_convert.jpg?markdown=1" /&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:59:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003545#reply0</guid></item><item><title>[Python] 请问下 Java 如何调用含有第三方依赖的 Python 项目</title><link>https://www.v2ex.com/t/1003544#reply13</link><description>&lt;p&gt;公司想搞 AI 相关的，但老企业用的全是 java ，结果就是要用 java 调 python 。&lt;/p&gt;
-&lt;p&gt;目前只能搞成 java 调 python 打包的 exe 。&lt;/p&gt;
-&lt;p&gt;也想过用 JNI-CPython-Python 的思路，但是解决不了 python 依赖大量第三方库的问题，没法把 python 代码包括第三方依赖一起给打包成 so 文件。&lt;/p&gt;
-&lt;p&gt;想问问有没有技术大佬有啥解决思路或者方案。&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:58:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003544#reply13</guid></item><item><title>[程序员] 一个疑问，现在是人均一台开发机了？</title><link>https://www.v2ex.com/t/1003543#reply6</link><description>现在都看中 remote ssh 开发。也都说自己的开发离不开 remote ssh 的功能。&lt;br /&gt;&lt;br /&gt;不过公司会给程序员配一个电脑，再一人配一整套环境(64G+那种)？你要说你直接 remote 到开发和测试环境，但那是公共的啊。人肉上去改代码？没有 CICD ？&lt;br /&gt;&lt;br /&gt;我身边是一个都没有的，当然，这可能是幸存者偏差。我自己尝试了好几次。。完全没 get 到点，网络再好都有延迟，肉眼可见的输入延迟啊。。。当然可能是因为我是 32G 内存的机器，反正和本地比起来我很想请教一下 G 点到底在哪里。。直接连线上 DEBUG ？但凡有运维的，这个要求都会被打死。。&lt;br /&gt;&lt;br /&gt;我对这点非常的好奇。。但抛开 remote ssh 。。在很容易人均 32G 内存的机器上。ide 是毫无压力的啊。</description><pubDate>Tue, 26 Dec 2023 07:57:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003543#reply6</guid></item><item><title>[Java] 花两周写了一个后端脚手架</title><link>https://www.v2ex.com/t/1003541#reply1</link><description>&lt;p&gt;🔗 代码仓库：&lt;a href="https://github.com/EnigmaGuest/fnk-server" rel="nofollow"&gt;fnk-server&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用 Spring Boot 3.2.0 和 Vue 3 配合 TypeScript 、UnoCSS 、Pinia 和 Axios 构建。 🛠️&lt;/p&gt;
-&lt;p&gt;快来看看，如果你觉得有趣的话给个⭐️吧！ 🎉&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:54:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003541#reply1</guid></item><item><title>[问与答] 有买了天翼云上海 7 这个区域的吗，今天网络断了 3 次，其他区域的也经常断线，天翼云就是个垃圾</title><link>https://www.v2ex.com/t/1003540#reply0</link><description></description><pubDate>Tue, 26 Dec 2023 07:51:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003540#reply0</guid></item><item><title>[Android] 请教 adb 加密的提示问题</title><link>https://www.v2ex.com/t/1003539#reply0</link><description>&lt;p&gt;目前需要在 android11 上加入 adb 加密功能,已经实现了如下
-&lt;a href="https://imgur.com/juiWUkV" rel="nofollow"&gt;Imgur&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;现在需要完善加入一个提示词 Login 类似如下效果，参考了网上博客和 gpt 都是各种报错，附上修改代码，请教一下有啥方法可以实现，谢谢
-&lt;a href="https://imgur.com/o2u6cyA" rel="nofollow"&gt;Imgur&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-C"&gt;system/core$
-diff --git a/adb/adb.cpp b/adb/adb.cpp 
-old mode 100644
-new mode 100755
-index c3e9731a3..ce1ed0b21
---- a/adb/adb.cpp
-+++ b/adb/adb.cpp
-@@ -99,7 +99,11 @@ apacket* get_apacket(void)
-     memset(&amp;amp;p-&amp;gt;msg, 0, sizeof(p-&amp;gt;msg));
-     return p;
- }
--
-+//evan add
-+#if !ADB_HOST
-+int accept_shell;
-+#endif
-+//evan end
- void put_apacket(apacket *p)
- {
-     delete p;
-@@ -107,13 +111,20 @@ void put_apacket(apacket *p)
- 
- void handle_online(atransport *t)
- {
-+//evan add
-     D("adb: online");
-+	LOG(INFO) &amp;lt;&amp;lt; "handle_online xwg";
-     t-&amp;gt;online = 1;
-     t-&amp;gt;SetConnectionEstablished(true);
-+	#if !ADB_HOST
-+	accept_shell=0;
-+	#endif
-+//evan end
- }
- 
- void handle_offline(atransport *t)
- {
-+//evan add
-     if (t-&amp;gt;GetConnectionState() == kCsOffline) {
-         LOG(INFO) &amp;lt;&amp;lt; t-&amp;gt;serial_name() &amp;lt;&amp;lt; ": already offline";
-         return;
-@@ -125,7 +136,10 @@ void handle_offline(atransport *t)
- 
-     // Close the associated usb
-     t-&amp;gt;online = 0;
--
-+	#if !ADB_HOST
-+	accept_shell=0;
-+	#endif
-+//evan end
-     // This is necessary to avoid a race condition that occurred when a transport closes
-     // while a client socket is still active.
-     close_all_sockets(t);
-@@ -329,8 +343,12 @@ static void handle_new_connection(atransport* t, apacket* p) {
-         send_tls_request(t);
-     } else if (!auth_required) {
-         LOG(INFO) &amp;lt;&amp;lt; "authentication not required";
-+		//evan add
-         handle_online(t);
-+		LOG(INFO) &amp;lt;&amp;lt; "authentication 22222222 xwg";
-         send_connect(t);
-+		LOG(INFO) &amp;lt;&amp;lt; "authentication 33333333333 xwg";
-+		//evan end
-     } else {
-         send_auth_request(t);
-     }
-diff --git a/adb/services.cpp b/adb/services.cpp
-index 853d65897..b10c9ced9 100644
---- a/adb/services.cpp
-+++ b/adb/services.cpp
-@@ -15,7 +15,9 @@
-  */
- 
- #define TRACE_TAG SERVICES
--
-+//evan add
-+#include &amp;lt;android/log.h&amp;gt;
-+//evan end
- #include "sysdeps.h"
- 
- #include &amp;lt;errno.h&amp;gt;
-@@ -50,7 +52,7 @@ void service_bootstrap_func(std::string service_name, std::function&amp;lt;void(unique_
- }
- 
- }  // namespace
--
-+//evan add
- unique_fd create_service_thread(const char* service_name, std::function&amp;lt;void(unique_fd)&amp;gt; func) {
-     int s[2];
-     if (adb_socketpair(s)) {
-@@ -73,10 +75,58 @@ unique_fd create_service_thread(const char* service_name, std::function&amp;lt;void(uni
-     D("service thread started, %d:%d", s[0], s[1]);
-     return unique_fd(s[0]);
- }
-+//evan add
-+#if !ADB_HOST
-+extern int accept_shell;
-+static void accept_shell_success(unique_fd fd) {
-+	LOG(INFO) &amp;lt;&amp;lt; "accept_shell_success fd xwg" &amp;lt;&amp;lt; fd.get();
-+	WriteFdExactly(fd, "success xwg\n");
-+	//adb_close(fd);
-+}
-+
-+static void accept_shell_fail(unique_fd fd) {
-+	LOG(INFO) &amp;lt;&amp;lt; "accept_shell_fail fd " &amp;lt;&amp;lt; fd.get();
-+	WriteFdExactly(fd, "failed xwg\n");
-+//	adb_close(fd);
-+}
-+
-+#endif
-+//evan end
- 
- unique_fd service_to_fd(std::string_view name, atransport* transport) {
-     unique_fd ret;
-+//evan add
- 
-+#if !ADB_HOST
-+	//login
-+	__android_log_print(ANDROID_LOG_INFO, "xwg--", "Login in"); 
-+	LOG(INFO) &amp;lt;&amp;lt; "1service_to_fd " &amp;lt;&amp;lt; name ;
-+	char* temp;
-+	temp =(char*) strstr(name.data(),"raw");
-+	LOG(INFO) &amp;lt;&amp;lt; "2service_to_fd " &amp;lt;&amp;lt; (temp==NULL?"0":temp) ;
-+	LOG(INFO) &amp;lt;&amp;lt; "3service_to_fd " &amp;lt;&amp;lt; accept_shell ;
-+	printf("Login:");
-+	if(accept_shell==0){
-+		if(temp!=NULL){
-+			if(!strncmp(temp+4, "admin", 5)) {
-+				LOG(INFO) &amp;lt;&amp;lt; "4service_to_fd success" ;
-+				accept_shell=1;
-+				ret = create_service_thread("accept_shell_success",accept_shell_success);
-+			}else{
-+				accept_shell=0;
-+				ret = create_service_thread("accept_shell_fail",accept_shell_fail);
-+			}
-+			if (ret &amp;gt;= 0) {
-+			    close_on_exec(ret);
-+			}
-+		}
-+		return ret;
-+	}
-+#endif	
-+//evan end
-     if (is_socket_spec(name)) {
-         std::string error;
-         if (!socket_spec_connect(&amp;amp;ret, name, nullptr, nullptr, &amp;amp;error)) {
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 26 Dec 2023 07:49:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003539#reply0</guid></item><item><title>[程序员] 有一个云推流沙盒的构想</title><link>https://www.v2ex.com/t/1003538#reply2</link><description>&lt;p&gt;有一个想法,有没有方法写一个沙盒,用于运行应用程序,沙盒可以录制应用的画面,这样可以实现多开游戏的 webrtc 推流,并进行交互. 可以使电脑变为推流服务器,在低性能设备,比如 ipad,手机上可以运行电脑游戏. 参考过一些推流云游戏实现,但是基本上都需要 n 卡.&lt;/p&gt;
-&lt;p&gt;类似于 qt 窗口,包裹子进程&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:49:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003538#reply2</guid></item><item><title>[问与答] 香港程序员就业形势相对于国内怎么样？听说大多数都是维护或者 IT support 之类的</title><link>https://www.v2ex.com/t/1003537#reply0</link><description></description><pubDate>Tue, 26 Dec 2023 07:43:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003537#reply0</guid></item><item><title>[问与答] 看漫画的平板 有推荐吗？</title><link>https://www.v2ex.com/t/1003536#reply2</link><description>&lt;p&gt;cheap 的&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:42:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003536#reply2</guid></item><item><title>[酷工作] [上海/北京][大模型][Minimax] 各个方向都有！</title><link>https://www.v2ex.com/t/1003533#reply0</link><description>&lt;p&gt;公司介绍:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;国内估值最高的大模型创业公司之一&lt;/li&gt;
-&lt;li&gt;国内同时拥有文本、语音、视觉三种基础大模型能力的创业公司。技术产品全链路自研，已上线多款用户产品和工具产品，具备商业化 API 输出能力。&lt;/li&gt;
-&lt;li&gt;创始团队有过海内外多次成功创业经验以及顶尖的产品和技术背景。核心成员均来自于顶级科技/互联网企业和海内外知名院校，拥有丰富的 AI 大模型算法经验、大规模工程实现和产品落地能力。&lt;/li&gt;
-&lt;li&gt;由全球顶级投资机构背书，资源和资金丰富，独角兽规模。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;工作强度: 较大
-现在国内的大模型公司/部门强度都非常大，都在赛跑，搏一搏 单车变摩托&lt;/p&gt;
-&lt;p&gt;产品:&lt;/p&gt;
-&lt;p&gt;ToC: &lt;a href="https://app.diandian.com/app/nldiruv85p39iq4/googleplay?market=11&amp;amp;country=24&amp;amp;id=com.weaver.app.prod" rel="nofollow"&gt;Talkie&lt;/a&gt; &amp;amp; 星野&lt;/p&gt;
-&lt;p&gt;ToB: &lt;a href="https://api.minimax.chat/" rel="nofollow"&gt;开放平台&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;MiniMax 社招内推码: YT8CKPH&lt;/p&gt;
-&lt;p&gt;投递链接: &lt;a href="https://vrfi1sk8a0.jobs.feishu.cn/s/i84TtpVf" rel="nofollow"&gt;https://vrfi1sk8a0.jobs.feishu.cn/s/i84TtpVf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;或者直接发邮件给我 &lt;a href="mailto:holen.lv@outlook.com"&gt;holen.lv@outlook.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:40:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003533#reply0</guid></item><item><title>[问与答] 一个多年的网站，每天 5K 左右用户访问，但没收入，放弃还是坚持</title><link>https://www.v2ex.com/t/1003532#reply8</link><description>&lt;p&gt;或者有什么变现渠道？以前放过 adsense ，后来越来越没收入就直接撤了，国内的百度好像更小气&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:39:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003532#reply8</guid></item><item><title>[iPhone] 如何修改微信提示音</title><link>https://www.v2ex.com/t/1003531#reply5</link><description>&lt;p&gt;最近刚从 13pro 换成 15PM ，在店里做的数据迁移操作。&lt;/p&gt;
-&lt;p&gt;之前在 13pro 上微信提示音是反弹&lt;/p&gt;
-&lt;p&gt;现在换到 15PM 上变成了以前的三连音&lt;/p&gt;
-&lt;p&gt;提问：如何把微信提示音从三连音改回反弹&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 07:39:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003531#reply5</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Dec 2023 19:15:05 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 求推荐可与 macbook air m2 媲美的 x86 笔记本</title><link>https://www.v2ex.com/t/1003680#reply0</link><description>&lt;p&gt;看上了 macbook air M2 的颜值和轻薄，刚要入手缺发现致命缺点：不能用企业网银。只能选别的。&lt;/p&gt;
+&lt;p&gt;看过苹果本真的感觉别的本都不好看，求推荐能与 air 比较的 x86 本。&lt;/p&gt;
+&lt;p&gt;要求：轻薄方便携带，颜值在线。&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 18:49:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003680#reply0</guid></item><item><title>[Google] Chrome 如何使用内置/右键翻译而不用设置系统代理</title><link>https://www.v2ex.com/t/1003679#reply0</link><description>&lt;p&gt;考虑以下情景：你使用 SwitchyOmega 在 Chrome 中管理代理。这样，你就不必更改系统范围的代理设置，从而影响同一台机器上的其他程序。但是，Chrome 内置的翻译功能不遵循 SwitchyOmega 的配置。&lt;/p&gt;
+&lt;p&gt;如果配置了代理环境变量，Chrome 将使用代理服务器。这可以通过在 GUI 设置中更改系统代理来实现。&lt;/p&gt;
+&lt;p&gt;另一种方法是使用选项 --proxy-server 启动 Chrome ，例如，&lt;code&gt;--proxy-server=http://127.0.0.1:8080&lt;/code&gt;。在 Linux 中，这可以很容易地在终端完成；在 Windows 中，你可以通过修改快捷方式 &amp;gt; 属性 &amp;gt; 目标来完成。请参阅此 &lt;a href="https://superuser.com/a/278348/1159469" rel="nofollow"&gt;Superuser answer&lt;/a&gt; 答案。&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 18:46:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003679#reply0</guid></item><item><title>[Apple] alook 浏览器安全不</title><link>https://www.v2ex.com/t/1003678#reply2</link><description>&lt;p&gt;ios 上面的 alook 浏览器安全不，我看了下这是中国公司开发的保定乐活网络科技有限&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 18:43:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003678#reply2</guid></item><item><title>[酷工作] 寻找 DevOps 相关工作或者实习</title><link>https://www.v2ex.com/t/1003677#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;大家好，我是 Winson. &lt;/p&gt;
+&lt;p&gt;过去半年都在研究 AWS 的云服务和 Kubernetes 上，
+拿下了 AWS Cloud Practitioner 和
+Certified Kubernetes Administrator 两个认证。&lt;/p&gt;
+&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;拿到认证后，不想白费过去的努力，想找一份实习或者工作,&lt;/p&gt;
+&lt;p&gt;到实际生产环境上深入 DevOps 的技术。&lt;/p&gt;
+&lt;p&gt;我目前在广州，非常希望 v 友推荐靠谱的实习或者工作机会！&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;如果大家想了解这两个认证的相关咨询，欢迎随时留言给我！&lt;/p&gt;
+&lt;p&gt;下面是两个认证的链接&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.credly.com/badges/503cac1b-267f-4aff-8894-b942ac4b447f/public_url" rel="nofollow"&gt;AWS Cloud Practitioner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.credly.com/badges/3fc088bf-ee08-42f5-8671-e2045d3136bb/public_url" rel="nofollow"&gt;Certified Kubernetes Administrator&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 18:00:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003677#reply0</guid></item><item><title>[NAS] 关于 unraid 文件系统如何选择的问题。</title><link>https://www.v2ex.com/t/1003676#reply0</link><description>如题，随着 unraid6.12 更新正式支持了 zfs ，op 第一时间把缓存盘格了尝试了下，感觉貌似好像没什么提升？&lt;br /&gt;&lt;br /&gt;因为 unraid shfs 众所周知的奇妙逻辑，导致了这个系统的文件可以被分成好几类，以 op 自己举例：&lt;br /&gt;array：冷(各种备份和重要文件)+温数据存放在(2 寸+1 校)的三块 4t 紫盘里，平时日常休眠，三块盘均为 btrfs;&lt;br /&gt;cache：容器+虚拟机+系统文件存放在一块 980pro 缓存盘上，作为高性能应用的储存空间，为 zfs;&lt;br /&gt;raw：媒体库+pt 相关+日常存取文件，存放在组了 btrfs-raid0 的两块 8t 企业盘，作为 16t 储存盘使用;&lt;br /&gt;其他配置：13500+w680+64g ecc+ups 、磁盘独占已打开，盘位 5/8&lt;br /&gt;&lt;br /&gt;因为 op 在一个 winserver 上运行着几个 mcje 的服务器。只要硬盘 io 性能不够，服务端就会报"cant keep up"的问题并掉 tps ，属实令人相当恶心。此时优化磁盘 io 性能就成了重点。&lt;br /&gt;需求：array 有较好的安全性，cache 和 raw 尽量有较好的读写性能，并且 raw 尽可能多的利用储存空间(目前为 100%)&lt;br /&gt;&lt;br /&gt;参考 reddit 的两篇回复：&lt;br /&gt;1.&lt;br /&gt;BFTRS = Support is dieing out&lt;br /&gt;XFS = The current standard for unraid&lt;br /&gt;ZFS = Only if you know what your doing&lt;br /&gt;2.&lt;br /&gt;xfs for the array&lt;br /&gt;zfs for the cache&lt;br /&gt;&lt;br /&gt;是否应该抛弃 btrfs ，将 array 换成 xfs(不换成 zfs 的原因是多盘 zfs 貌似不能单独休眠？);&lt;br /&gt;将 cache 换成 xfs(非 cow 文件系统性能较好)&lt;br /&gt;将 raw 换成 zfs(读写日常文件时使用 zfs arc 提供更快的读写速度，同时 xfs 无法把两个磁盘组合成一个池)&lt;br /&gt;&lt;br /&gt;另：&lt;br /&gt;vm.dirty_ratio 和 vm.dirty_background_ratio 到底改咋调啊，目前都是默认的 5%&lt;br /&gt;xfs 这种非 cow 文件系统能不能承载 qcow2 的虚拟磁盘？</description><pubDate>Tue, 26 Dec 2023 17:57:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003676#reply0</guid></item><item><title>[分享创造] 兄弟们，我做了一个 Gemini For Google 插件，右侧显示 GPT 搜索结果，完全免费！</title><link>https://www.v2ex.com/t/1003674#reply2</link><description>&lt;h1&gt;Gemini for Google&lt;/h1&gt;
+&lt;p&gt;谷歌的 AI 模型 Gemini API 出来后总想做点什么，毕竟 API 还是免费，用起来比 GPT4 划算多了，白嫖就是爽😋。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screenshot" class="embedded_image" rel="noreferrer" src="https://github.com/tudoujunha/gemini-google-extension/blob/main/screenshots/extension.png?raw=true" /&gt;&lt;/p&gt;
+&lt;h1&gt;使用方法&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;获取 Gemini API 密钥，&lt;a href="https://makersuite.google.com/app/apikey" rel="nofollow"&gt;链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装插件：&lt;a href="https://gemini4google.com/chrome?utm_source=rating_tip" rel="nofollow"&gt;Chrome Web Store Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;项目开源⭐️&lt;/h1&gt;
+&lt;h3&gt;&lt;a href="https://github.com/tudoujunha/gemini-google-extension" rel="nofollow"&gt;GitHub 传送门&lt;/a&gt;, 第一次尝试做插件，也是第一次尝试开源。&lt;/h3&gt;
+&lt;h3&gt;希望 V 友给我点点 ⭐️star⭐️鼓励鼓励我，欢迎提需求，&lt;strong&gt;点的越多更新越频繁&lt;/strong&gt;😁&lt;/h3&gt;</description><pubDate>Tue, 26 Dec 2023 16:54:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003674#reply2</guid></item><item><title>[酷工作] 成都凡赛徳科技有限公司招聘 React 开发工程师</title><link>https://www.v2ex.com/t/1003673#reply0</link><description>公司介绍:&lt;br /&gt;成都凡赛徳科技有限公司是一家区块链技术公司,致力于 Web3 应用的研发。公司团队年轻进取,鼓励员工保持 work-life balance 。&lt;br /&gt;&lt;br /&gt;招聘职位:React 开发工程师&lt;br /&gt;&lt;br /&gt; Required 技能:&lt;br /&gt;- 至少 2 年以上 React 开发经验&lt;br /&gt;- 熟练使用 JavaScript/TypeScript 语言&lt;br /&gt;- 了解 React / React Native 技术栈&lt;br /&gt;- 熟悉 Web3 应用的开发模式&lt;br /&gt;- 具备良好的编程习惯和代码质量意识&lt;br /&gt;&lt;br /&gt;加分项:&lt;br /&gt;- 有 React Native 项目开发经验&lt;br /&gt;&lt;br /&gt;职责范围:&lt;br /&gt;- 独立开发或参与团队开发 Web3 应用&lt;br /&gt;- 与产品经理密切配合确定产品技术方案&lt;br /&gt;- 确保代码质量,编写单元测试&lt;br /&gt;&lt;br /&gt;薪资范围:10k-15k&lt;br /&gt;&lt;br /&gt;其他福利:&lt;br /&gt;- 加班可调休 &lt;br /&gt;- 空投等福利优先获得&lt;br /&gt;&lt;br /&gt;如果你对 Web3 应用开发感兴趣,欢迎加入我们成长为技术领域的佼佼者!&lt;br /&gt;联系邮箱： xiebinbin92@gmail.com</description><pubDate>Tue, 26 Dec 2023 16:48:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003673#reply0</guid></item><item><title>[酷工作] Looking for Node JS Full-Stack developers</title><link>https://www.v2ex.com/t/1003672#reply0</link><description>&lt;h1&gt;Company Profile:&lt;/h1&gt;
+&lt;p&gt;The current focus is the creation of an A-Z infrastructure for iGaming companies - a frontend site CMS platform (using Svelte and Node) and a high-performance, data-driven backend, which includes a specialized CRM rules engine for automating the core business activities in real time.&lt;/p&gt;
+&lt;p&gt;integrations with the various elements (payments, games etc)&lt;/p&gt;
+&lt;p&gt;in-house game studio for creating our own games (later on the roadmap) - currently, we use 3rd party game providers&lt;/p&gt;
+&lt;p&gt;Suppose you are an experienced, motivated developer passionate about your work, with a relevant horizontal-vertical technical background, ready to develop amazing software and assist the junior middle on our exciting journey. In that case, we want you on our team!&lt;/p&gt;
+&lt;h1&gt;Tech Stack:&lt;/h1&gt;
+&lt;p&gt;Svelte.js, JS, TypeScript, Tailwind CSS - Frontend site/CMS/platform
+Node.js, Postgres, q/kdb - Backend &amp;amp; core
+git, Linear/Jira, Atlassian stack - for source control and management
+(If you are just proficient in REACT/ANGULAR and willing to learn Svelte then that is fine.)&lt;/p&gt;
+&lt;h1&gt;What you will do:&lt;/h1&gt;
+&lt;p&gt;Code
+Assist mentor younger coders
+Monitor performance efficiency of current stackIT infrastructure
+Suggest ideas worth implementing to improve performance efficiency
+Do occasional code reviews with the younger guys&lt;/p&gt;
+&lt;h1&gt;Requirements:&lt;/h1&gt;
+&lt;p&gt;Degree/Diploma with a specialization in CS, Software Engineering, or other relevant qualification
+Ability to effectively organize your time and work at a high pace
+Independence &amp;amp; Team-work
+Be a result-oriented problem solver
+English - mostly in writing, (Jira stack is managed in English), but also orally&lt;/p&gt;
+&lt;h1&gt;Bonus&lt;/h1&gt;
+&lt;p&gt;Experience with functional programming
+Understanding of the principles of building IT systems
+Experience working with leading blockchains/crypto wallets
+Experience working with AWS cloud, dockers, etc&lt;/p&gt;
+&lt;h1&gt;Salary&lt;/h1&gt;
+&lt;p&gt;3000-6000 USDT&lt;/p&gt;
+&lt;h1&gt;Finally&lt;/h1&gt;
+&lt;p&gt;You need to pass a quiz on Hackerrank if you are selected.
+CV or resume in English, please.&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:38:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003672#reply0</guid></item><item><title>[Google] 天天使用 Google 服务，结果辅助邮箱收到 Google 邮件，说八个月未登录。</title><link>https://www.v2ex.com/t/1003671#reply1</link><description>&lt;p&gt;您之所以会收到这封邮件，是因为您已至少 8 个月未使用过自己的 Google 账号。
+如果想保留您的 Google 账号，请在 2024 年 8 月 22 日之前登录。建议您现在就花点时间登录您的 Google 账号。  &lt;/p&gt;
+&lt;p&gt;怕是钓鱼的，点了发送的邮件地址，有历史往来邮件，证明确实是谷歌官方的邮箱地址。邮件是系统自动发送的。  &lt;/p&gt;
+&lt;p&gt;有遇到相同情况的吗？&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:35:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003671#reply1</guid></item><item><title>[问与答] 求日历/计划类的软件</title><link>https://www.v2ex.com/t/1003670#reply1</link><description>&lt;h2&gt;需求&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;数据：本地储存，或易迁移。&lt;/li&gt;
+&lt;li&gt;展现：可视化好，能用颜色标记不同项目，能选择呈现某类项目&lt;/li&gt;
+&lt;li&gt;软件/网页：简约清爽，功能单一/专一；拒绝广告&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;*如果是其他软件能提供类似服务，也可接受&lt;/p&gt;
+&lt;h2&gt;缘由&lt;/h2&gt;
+&lt;p&gt;最近想写年终总结，这念头有一段时间了，并非临时起意。想着用日历，呈现阅读、影视、游戏、活动，一目了然（能展现几号到几号，看什么书/电影、玩什么游戏、有什么活动）&lt;/p&gt;
+&lt;p&gt;平日记录过，但都是文本（用过豆瓣、Calibre ，写日记……）&lt;/p&gt;
+&lt;p&gt;现在想可视化，以便回顾一整年&lt;/p&gt;
+&lt;h2&gt;已筛选&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;google 日历，与需求 1 、2 冲突；&lt;/li&gt;
+&lt;li&gt;notion ，简单使用了下，貌似与需求 1 冲突。或许大神能指教一下&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;题外话&lt;/h2&gt;
+&lt;p&gt;最近玩神之亵渎，属于类银河恶魔城，跑图收集着实累。之前玩空洞骑士、黑魂 3 、unsigned 等等有收集要素的游戏，我都想办法弄一份地图，标记何处何物是否收集。昨日想到：要是有一份互动地图就好了，可以选择展现不同要素。但，一般知名度高/硬核的游戏才有(或容易找到)互动地图，如老头环。&lt;/p&gt;
+&lt;p&gt;所以，怎么去做一份互动地图呢，有大佬支个招教一教门道、可行方法吗。&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:34:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003670#reply1</guid></item><item><title>[Apple] 马上 2024 了，不知道还有多少用 intel macbook pro 的，最近在 bootcamp 里外接了一个 4070ti 显卡</title><link>https://www.v2ex.com/t/1003669#reply0</link><description>&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GPBXjGP.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;具体细节在这里&lt;a href="https://egpu.io/forums/builds/2019-16-macbook-prorp5500m-9th8ch-rtx-4070ti-32gbps-tb3-rotator-lab-hummingbird-max-win10-22h2/" rel="nofollow"&gt;2019 16" MacBook Pro (RP5500M) [9th,8C,H] + RTX 4070Ti @ 32Gbps-TB3 (ROTATOR Lab Hummingbird Max) + Win10 22H2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;主要是参考了大佬&lt;a href="https://egpu.io/forums/profile/rexyuan/" rel="nofollow"&gt;rexyuan&lt;/a&gt;的&lt;a href="https://egpu.io/forums/builds/2019-16-macbook-pro-rp5500m-9th8ch-rtx-4070-32gbps-tb4-hummingbird-2-win10-22h2/" rel="nofollow"&gt;解决方案&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可能你会问为什么不装一个主机，你是对的，但是我目前确实不方便装，我计划的是一年后装一个主机。所以我选择了先买一块目前性能比较好的显卡先作为 eGPU 来使用，之后把这块显卡装到我的主机中去。&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:31:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003669#reply0</guid></item><item><title>[YouTube] 有没有人的 google play 区域被强制更改了？</title><link>https://www.v2ex.com/t/1003668#reply0</link><description>&lt;p&gt;之前两年阿根廷、土耳其的 YouTube 会员一直好好的，这个月转了尼日利亚，晚上 Google play 一个愣神被锁到尼日利亚了，我之前十几年的美区，还有不少消费记录。。。。。
+现在尬住了，怀疑 google 这招就是用来惩治跨区开车的&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:30:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003668#reply0</guid></item><item><title>[程序员] 年终了，我在卖的软件也差不多终结了，分享下经历</title><link>https://www.v2ex.com/t/1003667#reply13</link><description>&lt;p&gt;过去的 3 年多，前两年我一直在接定制开发的单子，一开始是各种单子都接，只要是 python 能做的基本上都接，比如：flask 网页开发、数据分析脚本、爬虫脚本、自动化脚本等等，关于这方面的内容，之前发过一个帖子： &lt;a href="https://v2ex.com/t/928851" rel="nofollow"&gt;https://v2ex.com/t/928851&lt;/a&gt; 。这个时候属于初始阶段吧，收入在 1.5w-4w 不等&lt;/p&gt;
+&lt;p&gt;然后慢慢的，接的自动化的单子比较多，单价也比较高，然后就基本上只接网页自动化的单子了，然后因为是在一个指纹浏览器群里接的单，所以接的单也基本上都是国外网站的自动化单，什么 twitter 、Facebook 、Instagram 、tiktok 、google 等等一系列网站，都写了个遍。这个阶段差不多收入在 3w-6w 不等。然后这个阶段因为写了很多自动化的软件，有些软件其实有很多客户都有需求，所以有尝试卖其中的几款软件。&lt;/p&gt;
+&lt;p&gt;然后就是今年，其中一款软件随着网站的快速发展，用户量累计了一定量，让我爽了差不多 8-9 个月，就是每个月收入都差不多在 10w 左右，直到最近，可能是年尾的原因，用户量慢慢下降了，收入也开始下降了。&lt;/p&gt;
+&lt;p&gt;等到 2024 年 1 月收入会是怎样的情况，我也不清楚，就抱着还能拯救的心态，在维护原来的软件的情况下，也在尝试开发相关的其他软件，想继续维持现在的收入。&lt;/p&gt;
+&lt;p&gt;当然现在最主要的也是有点迷茫：继续开发软件、卖软件吧，可能难有那么好的运气；然后如果是做项目，作为一个程序员，真的没有做项目的头脑；所以现在就是比较慵懒，加上今年攒了一点钱，所以也不是说太焦虑，就走一步看一步的状态。&lt;/p&gt;
+&lt;p&gt;如果有大神原因一起交流，那当然更好了&lt;/p&gt;
+&lt;p&gt;（最后，肯定有小伙伴是什么网站的自动化软件，我这里就不方便透露了，因为我觉得明年开春还能拯救一下，毕竟今年也是过完年之后慢慢开始火的，也因此有了好几个同行仿我的软件）&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 16:15:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003667#reply13</guid></item><item><title>[酷工作] Senior Software Engineer ( Python developer) 上海</title><link>https://www.v2ex.com/t/1003666#reply0</link><description>JOB RESPONSIBILITIES&lt;br /&gt;• Join a team of driven software engineers to design, prototype, implement, deploy, and maintain features for our NLP or search related projects.&lt;br /&gt;• Conduct experiments on large datasets to evaluate the feasibility, results, and performance of NLP technology.&lt;br /&gt;• Make sound engineering decisions and improve software development practices with an eye for performance and reliability.&lt;br /&gt;&lt;br /&gt;Company: LexisNexis&lt;br /&gt;&lt;br /&gt;TECHNICAL SKILLS&lt;br /&gt;• Essential: XPath, RESTful API, Linux&lt;br /&gt;• Database: MySQL (at least one kind of relational database), Redis&lt;br /&gt;• Framework: flashtext, Flask/Django, Celery, Gunicorn/WSGI, Supervisord, Numpy&lt;br /&gt;• Nice to have: AWS knowledge, Faiss(or other efficient similarity search library), Mongodb (or any kind of&lt;br /&gt;no-sql db), Spark, NLTK, spaCy, scikit-learn.&lt;br /&gt;• Addition:+SQLAlchemy, boto3&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;简历可以发到这个 Email：cm9jazUxMkAxNjMuY29tCg== （注明 V2EX ）&lt;br /&gt;&lt;br /&gt;会有招聘小姐姐跟进沟通，一对一根据个人情况推荐合适职位&lt;br /&gt;&lt;br /&gt;猎头公司：Teksystems</description><pubDate>Tue, 26 Dec 2023 16:05:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003666#reply0</guid></item><item><title>[Linux] Linux 上有什么好的备份工具？</title><link>https://www.v2ex.com/t/1003665#reply3</link><description>&lt;p&gt;类似 time machine,支持远程 e 备份，  如果能够支持多台电脑的备份，就更好了&lt;/p&gt;</description><pubDate>Tue, 26 Dec 2023 15:48:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003665#reply3</guid></item><item><title>[问与答] 来时天地皆同力,_</title><link>https://www.v2ex.com/t/1003664#reply0</link><description></description><pubDate>Tue, 26 Dec 2023 15:46:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003664#reply0</guid></item><item><title>[酷工作] Software Engineer(Full Stack), 深圳</title><link>https://www.v2ex.com/t/1003663#reply0</link><description>岗位职责&lt;br /&gt;- 负责云平台日常环境维护&lt;br /&gt;- 负责 pipeline 的构建和自动化部署&lt;br /&gt;- 对云平台有相关项目经验加分（公有云，私有云均可）&lt;br /&gt;&lt;br /&gt;岗位要求&lt;br /&gt;- 前端：React&lt;br /&gt;- 后端：Python&lt;br /&gt;- 有 SDK 开发经验&lt;br /&gt;- 熟悉掌握 docker ，k8s 相关经验，熟悉 jenkins&lt;br /&gt;- 有云计算 和 大数据技术栈相关经验，比如 aws, kafka, spark&lt;br /&gt;- 有敏捷开发和测试驱动开发经验&lt;br /&gt;- 工作上可用英语沟通交流&lt;br /&gt;- 3 年以上软件开发经验&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Nike 外包职位，介意勿扰&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;简历可以发到这个 Email：cm9jazUxMkAxNjMuY29tCg== （注明 V2EX ）&lt;br /&gt;&lt;br /&gt;会有招聘小姐姐跟进沟通，一对一根据个人情况推荐合适职位&lt;br /&gt;&lt;br /&gt;猎头公司：Teksystems</description><pubDate>Tue, 26 Dec 2023 15:34:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003663#reply0</guid></item><item><title>[问与答] 求问魅影现在如何？同档还有其他推荐吗？顺便吐槽 CMY&amp;羊圈。</title><link>https://www.v2ex.com/t/1003662#reply0</link><description>CMY 至尊版 800+一年.&lt;br /&gt;从今年春节后,频繁收到攻击,需要频繁更换节点才能正常使用,非常的不爽.&lt;br /&gt;所谓的 IEPL&amp;amp;IPLC 其实都是假的,就是俩巨云吧主的组网.&lt;br /&gt;马上到期了,想整个魅影试试,网上查不到最新的测速,不知现在情况如何,或者有同类机场求推荐.&lt;br /&gt;&lt;br /&gt;还有一点,CMY 与羊圈是一家,客服趾高气昂,找客服吐槽几句,我的账户直接无法与客服沟通了,发工单也不回!</description><pubDate>Tue, 26 Dec 2023 15:34:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003662#reply0</guid></item><item><title>[Python] 不知道有没有人考过 pythoninstitute 的 PCEP 证书？</title><link>https://www.v2ex.com/t/1003659#reply0</link><description>&lt;a href="https://pythoninstitute.org/pcep-testing-policies/" rel="nofollow noopener" target="_blank"&gt;https://pythoninstitute.org/pcep-testing-policies/&lt;/a&gt; &lt;br /&gt;1.认可性如何？想问下有没有什么要注意的地方？&lt;br /&gt;2.确认一下：只可以从 entry 考起而且网上没有历届试题之类的？ practical test 是只能一次的吗&lt;br /&gt;3.需要多久才能收到证书?</description><pubDate>Tue, 26 Dec 2023 15:24:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003659#reply0</guid></item><item><title>[Android] android TEE 证书检测 BL、设备信息真的无法绕过吗？</title><link>https://www.v2ex.com/t/1003657#reply1</link><description>android tee 产生的证书里，扩展属性包含了绕过 BL 、设备信息、验证类型，难道真没有一点办法绕过了吗？绕不过的话，岂不是 root 机、云手机都被绝杀了？常规的 bl 绕过、机型修改直接无效了</description><pubDate>Tue, 26 Dec 2023 15:13:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1003657#reply1</guid></item></channel></rss>
