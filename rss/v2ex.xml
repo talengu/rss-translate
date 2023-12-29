@@ -1,95 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 28 Dec 2023 17:22:46 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] puppeteer 设置代理 IP 无法访问 www.google.com</title><link>https://www.v2ex.com/t/1004261#reply0</link><description>&lt;p&gt;const puppeteer = require('puppeteer');
-(async () =&amp;gt; {
-const proxyServer = '代理服务器地址';
-const proxyUser = '代理用户名';
-const proxyPass = '代理密码';
-const browser = await puppeteer.launch({
-headless: false, // 非无头模式
-args: [&lt;code&gt;--proxy-server=${proxyServer}&lt;/code&gt;], // 设置代理服务器
-});
-const page = await browser.newPage();
-// 配置代理认证
-await page.authenticate({
-username: proxyUser,
-password: proxyPass
-});
-// 导航到指定页面
-await page.goto("&lt;a href="https://google.com" rel="nofollow"&gt;https://google.com&lt;/a&gt;", {waitUntil: "networkidle2"});
-})();&lt;/p&gt;
-&lt;p&gt;puppeteer 设置代理 IP 无法打开 &lt;a href="http://www.google.com" rel="nofollow"&gt;www.google.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Error: net::ERR_CONNECTION_RESET at &lt;a href="https://google.com" rel="nofollow"&gt;https://google.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;但是访问 &lt;a href="https://ipinfo.io/%E5%8F%88%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%E5%91%A2%EF%BC%9F" rel="nofollow"&gt;https://ipinfo.io/又是正常的，请问是怎么回事呢？&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 17:17:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004261#reply0</guid></item><item><title>[Apple] 巨魔软件推荐</title><link>https://www.v2ex.com/t/1004260#reply0</link><description>&lt;p&gt;下载了巨魔，但是没有安装包啊…求问问哥哥姐姐有没有 ipa 下载推荐呀？？&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 16:37:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004260#reply0</guid></item><item><title>[问与答] 有什么华为的 100 块钱以下的产品值得买？</title><link>https://www.v2ex.com/t/1004259#reply2</link><description>&lt;p&gt;仔细想了下，确实一件华为的产品也没有，为了以防万一，打算买件华为的产品做投名状。&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 16:17:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004259#reply2</guid></item><item><title>[生活] 思考： 2024 年目标</title><link>https://www.v2ex.com/t/1004258#reply0</link><description>我之前觉得最重要的事情是提升自己的专注力，具体就是每天做完正事后再上网娱乐、尽量用电脑而不是手机、手机上不安装 B 站/YouTube/知乎/小红书等 APP ，睡前睡后还有如厕时别用手机、用一些软件比如禅定空间、Forest 等来控制自己少用手机，等等。&lt;br /&gt;&lt;br /&gt;但是仔细想想，要做的事好多啊，这些都是堵、不是疏。人性就像弹簧，压迫越大，反弹越厉害。而且这样做，一点成就感都没有。&lt;br /&gt;&lt;br /&gt;所以，我觉得最重要的是做事，用成就感、奖励机制来引导自己。&lt;br /&gt;&lt;br /&gt;来加拿大 2 年了，英语相比在国内并没有多少提升，只能做比较浅层次的沟通，难以和别人沟通更有效、更深入。&lt;br /&gt;&lt;br /&gt;所以，2024 年，最重要、乃至唯一的任务就是练好英语。我必须承认自己天资平平、自律能力严重不足，难以同一时间平行执行多个长期任务。我必须把全部精力、欲望都聚焦在一个点：英语。英语水平上来了，就能找到更好的工作，工作生活里和别人的共同更有效率，接下来的人生一直都收益于此。&lt;br /&gt;&lt;br /&gt;原则就是：沉浸式使用英语，多听，多开口说，创建私人口语库，提前整理不会说的话题。&lt;br /&gt;&lt;br /&gt;具体目标：&lt;br /&gt;1 、每天听写 1-5 个句子&lt;br /&gt;2 、每天跟读 15-30 分钟&lt;br /&gt;3 、每天完成一个私人口语库的话题，争取一次解决一个话题的固定词组、生词&lt;br /&gt;&lt;br /&gt;然后就是奖励机制&lt;br /&gt;一周完成 5 次学习，奖励一瓶 1L 的可乐（老婆一直要求我戒可乐，我屡战屡败）&lt;br /&gt;或者攒积分，购买心仪的电器（比如洗地机、蒸汽拖把）、电子产品、APP 会员、书</description><pubDate>Thu, 28 Dec 2023 16:07:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004258#reply0</guid></item><item><title>[问与答] 小米 MIUI14 应该会把已安装应用信息上传到反诈中心</title><link>https://www.v2ex.com/t/1004257#reply4</link><description>本人小米 9 年用户，今年 3 月左右升级了 MIUI14 ，之前谣传说 MIUI 内置反诈，想着本人守法守纪好公民，就没有在意。&lt;br /&gt;        3 月在武汉，4 月去了澳门，下载了澳门金沙度假区 app(非赌博应用，无赌博功能，用于购物积分及室内地图等功能，play 商店与 Applestore 均可下载)，4 月到 7 月在武汉，12 月来到黑龙江省某城市后三天，被称某派出所的电话告知说收到了诈骗预警，要在时限内对我进行劝阻，不然超时他们会有处罚，问是我过去还是他们上门找我，我挂了电话查到确实是附近派出所的，本着不麻烦人的态度自己过去了。&lt;br /&gt;        我打车去 pcs 说了我名字之后，有一位就说，又一个涉赌的来了，我很奇怪，因为虽然去过澳门但是从来都没有线上或者线下赌博过。然后就被四五位围起来威逼恐吓说你知道犯了什么事吧，自己老实交代吧，来到这里就不没有事是不可能找你的。&lt;br /&gt;        我自认遵纪守法，没犯过事，一直说什么都没做过。然后他们开始给关键信息了，说“12 月*日，你在干什么，澳门金沙度假区，还要我继续说下去吗”，然后又是好几轮威逼恐吓后，开始查我手机，我把密码给他们了，然后我看着类似技术或者侦查的仔仔细细翻我的手机，相册，通话记录，每一个 app ，最后看到了澳门金沙度假区，他仔细检查一遍后说，“这应该就是别人官方的 app ，应用名 包名和*id(不确定说的是什么 id ，可能是 uuid)都对得上"，之后又记录了信息按手印之后让我走了。&lt;br /&gt;        回来之后越想越生气，明明什么都没干，还浪费时间花钱自己打车去，还被威逼恐吓一番。网上查了之后才知道，用反诈预警来抓涉赌不是第一次了。我就在想哪里出的问题，然后把 app 反复卸载重装抓包，发现小米会把每次安装卸载应用的信息上传至 &lt;a href="http://api.installer.xiaomi.com" rel="nofollow noopener" target="_blank"&gt;api.installer.xiaomi.com&lt;/a&gt; ，并不定时把所有应用信息，包括但不限于包名 应用名 sign 上传至 &lt;a href="http://sec.miui.com" rel="nofollow noopener" target="_blank"&gt;sec.miui.com&lt;/a&gt; ，&lt;a href="http://avlyun.com" rel="nofollow noopener" target="_blank"&gt;avlyun.com&lt;/a&gt; 等多个域名。我知道现在光猫端也会有反诈插件，但我判断是小米的原因是 1.在没有拿到我手机前清楚地说出了 app 的名字 2.检查时会对包名和应用名，而不是域名。3.没有使用 360 ，腾讯管家，反诈等其他可能应用。在武汉长沙深圳时都没有事，猜测可能大城市不会管，小城市看到预警后发现 app 名字涉赌可能会觉得是业绩来了，所以查的格外严格。&lt;br /&gt;        以上有部分内容为猜测，可能不尽详实，但是确实又气又伤心，错误之处还请老哥不吝指正。下一部手机应该会换外版 iPhone 或者三星了。不排斥反诈，但是到这种地步确实太过分了。</description><pubDate>Thu, 28 Dec 2023 15:54:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004257#reply4</guid></item><item><title>[Linux] Linux 可以实现这种功能吗</title><link>https://www.v2ex.com/t/1004256#reply2</link><description>&lt;p&gt;在国内 IDC 租用一台电信联通双线路服务器
-A 网卡 1.1.1.1 电信线路
-B 网卡 2.2.2.2 联通线路
-然后我搭建 VPN 网关 10.0.0.1/24
-然后我拨上服务器的 VPN ，我打游戏 udp 数据让他走电信来回
-我上网页的 443 80 想让他走联通线路来回
-这种可以做到吗
-策略路由和 iptables 是要怎么做？&lt;/p&gt;
-&lt;p&gt;现在的情况是我和小伙伴们（家里都是安装电信宽带的）连上 VPN 的话。打网络游戏和上网页等所有的数据包都是走服务器电信那条默认路由
-然后联通的线路带宽用不上&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 15:53:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004256#reply2</guid></item><item><title>[酷工作] Web 3 客服 - 远程办公 (午班 2pm - 11pm)</title><link>https://www.v2ex.com/t/1004253#reply0</link><description>Web 3 招募中文客服  &lt;br /&gt;&lt;br /&gt;工作时间：下午 2 点到晚上 11 点&lt;br /&gt;&lt;br /&gt;工作模式：远程办公&lt;br /&gt;&lt;br /&gt;团队背景：前 3 大交易所深耕经验！&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 提供高效、友好的客户支持，解答用户关于交易和平台使用的问题。&lt;br /&gt;- 与团队协作，协调解决复杂问题，确保客户的需求得到妥善处理。 &lt;br /&gt;- 接受公司提供的培训，熟悉产品和服务，以更好地为客户提供支持。 &lt;br /&gt;- 记录并报告用户反馈，收集市场问题数据，以帮助优化产品和服务。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 具备较强的沟通协调能力，能够协调内外部资源处理用户投诉。&lt;br /&gt;- 具备较强的学习能力和适应能力，持续学习并了解行业的最新发展，以提供准确的信息。&lt;br /&gt;- 对 Web 3, 区块链行业有浓厚兴趣，有相关经验者优先。&lt;br /&gt;- 具有团队合作精神，充满工作热情，人品正直诚实，能承受工作压力。 &lt;br /&gt;- 良好的中文书写和沟通能力。&lt;br /&gt;- 公司提供培训。&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Thu, 28 Dec 2023 15:34:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004253#reply0</guid></item><item><title>[程序员] base 二次解密问题</title><link>https://www.v2ex.com/t/1004252#reply1</link><description>最近遇到了一个非常非常奇怪的问题，我把一个链接用 base64 编码两次，再解码两次。发现解码出来的文本出现乱码，编码格式是 utf-8 。这是什么问题？</description><pubDate>Thu, 28 Dec 2023 15:27:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004252#reply1</guid></item><item><title>[Android] Pixel 6a Android 14 部分 apk 无法安装</title><link>https://www.v2ex.com/t/1004251#reply0</link><description>请问大家有没有碰到安装 app 没反应的问题，比如番茄小说，安装包下载完点击安装就消失了，没有反应，但是电脑 adb 能装上，安装上第一次打开会提示联系开发者升级啥的，之后不影响使用，就是直接在手机上安装不了，也没个提示，都不知道为啥装不上，酷安微信输入法也是，但是 Google play 上的微信输入法可以安装。</description><pubDate>Thu, 28 Dec 2023 15:16:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004251#reply0</guid></item><item><title>[PHP] RabbitMq 连接失败，查看 mq 日志显示连接成功但是又立马关闭了</title><link>https://www.v2ex.com/t/1004250#reply2</link><description>&lt;p&gt;日志：&lt;/p&gt;
-&lt;p&gt;2023-12-28 17:02:07 2023-12-28 13:02:07.875320+00:00 [info] &amp;lt;0.8575.0&amp;gt; accepting AMQP connection &amp;lt;0.8575.0&amp;gt; (172.26.0.8:45438 -&amp;gt; 172.26.0.2:5672)&lt;/p&gt;
-&lt;p&gt;2023-12-28 17:02:07 2023-12-28 13:02:07.877505+00:00 [info] &amp;lt;0.8575.0&amp;gt; connection &amp;lt;0.8575.0&amp;gt; (172.26.0.8:45438 -&amp;gt; 172.26.0.2:5672): user 'guest' authenticated and granted access to vhost '/'&lt;/p&gt;
-&lt;p&gt;2023-12-28 17:02:07 2023-12-28 13:02:07.877753+00:00 [info] &amp;lt;0.8575.0&amp;gt; closing AMQP connection &amp;lt;0.8575.0&amp;gt; (172.26.0.8:45438 -&amp;gt; 172.26.0.2:5672, vhost: '/', user: 'guest')&lt;/p&gt;
-&lt;p&gt;代码：&lt;/p&gt;
-&lt;p&gt;//创建连接
-$this-&amp;gt;connection = new \AMQPConnection($this-&amp;gt;config);
-if (!$this-&amp;gt;connection-&amp;gt;connect()) {
-throw new \Exception('RabbitMQ 创建连接失败');
-}&lt;/p&gt;
-&lt;p&gt;config:&lt;/p&gt;
-&lt;p&gt;array(
-'host' =&amp;gt; rabbitmq
-'port' =&amp;gt; 5672
-'login' =&amp;gt; guest
-'password' =&amp;gt; guest
-'vhost' =&amp;gt; ''
-);&lt;/p&gt;
-&lt;p&gt;rabbitmq 安装成功也能成功进入管理页面&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 15:01:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004250#reply2</guid></item><item><title>[程序员] 211 本，选广州公务员还是 C++制造业？</title><link>https://www.v2ex.com/t/1004249#reply8</link><description>（ 1 ）基本情况&lt;br /&gt;211 本大二在读，退役大学生士兵，还有 2 年本科毕业，请教下各位前辈，选择考公还是走 C++制造业相关的&lt;br /&gt;（ 2 ）解释&lt;br /&gt;a. 首先，为什么考公呢，可以走退役专项考公，一些特定的岗位会专门招退役的，也就是只需要和退役的竞争，上岸会容易很多。户口在广州这边，所以会有在广州当公务员的想法&lt;br /&gt;b. 至于 211 为什么不选 Java 呢，刻苦学 4 年，还是有机会进大厂的，因为不喜欢互联网那么卷（单说时薪，其实都一个样）（），而且不太想学 Java&lt;br /&gt;c. C++的话，后端没有出路（学历不够），音视频，基架，算法也学历不够，能走的只有 QT + 一个方向，走制造业。。。存储也有人提过，因为自学黑马 mysql + 《 mysql 必知必会》，然后 redis 学一本书，再跟一个 redis 数据库项目（书和数据库的项目都准备了，就差学），也许也能走存储...&lt;br /&gt;d. 所以现在纠结的是，考公还是走 C++制造业，因为据说都不太卷，考公就算上班累点，双休还是可以保证的，C++走制造业也是，很多其实都有双休&lt;br /&gt;（ 3 ）个人考虑&lt;br /&gt;a. 而且，身体真的很重要，这学期期末还有 2 周结束，结束了和暧昧对象，一起去全身体检，已经进入养生状态了，每晚至少 8 小时睡眠，最晚 11 点半上床，早餐一定要吃，没病没痛就是最大的福报，不然月薪 3 万好像也没什么意义（还得有个深入交流过的 soulmate ，不论精神上，还是身体上，至于结婚和房子，慢慢来都会有的啦）&lt;br /&gt;b. 钱不是很多，但足够花，足够每年去旅游，偶尔出去玩一两天，花个一两千，也能负担的起就好了</description><pubDate>Thu, 28 Dec 2023 15:01:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004249#reply8</guid></item><item><title>[git] Gitee 打不开了 502 报错·</title><link>https://www.v2ex.com/t/1004248#reply14</link><description></description><pubDate>Thu, 28 Dec 2023 14:53:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004248#reply14</guid></item><item><title>[Fedora] Fedora Asahi Remix</title><link>https://www.v2ex.com/t/1004246#reply0</link><description>&lt;p&gt;在“老旧”的 M1 Mac mini 上尝试安装新出炉的 Fedora Asahi Remix 。&lt;/p&gt;
-&lt;p&gt;开始是用之前的雷电 3 转雷电 2 接口接雷电 27 显示器，安装完黑屏。&lt;/p&gt;
-&lt;p&gt;之后换 USB-C 转 MiniDP 电缆接显示器（ VP2768 ），依旧黑屏。&lt;/p&gt;
-&lt;p&gt;最后换成 HDMI 接口，正常了。&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 14:36:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004246#reply0</guid></item><item><title>[程序员] 一个基于 Python 的 ChatGPT Telegram Bot [无限 Token] （代码已开源）支持 Docker 快速搭建</title><link>https://www.v2ex.com/t/1004245#reply3</link><description>&lt;p&gt;&lt;img alt="python-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/python-3.9+-blue.svg" /&gt;
-&lt;a href="https://github.com/python-telegram-bot/python-telegram-bot/releases/tag/v20.3" rel="nofollow"&gt;&lt;img alt="python-telegram-bot-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/PythonTelegramBot-20.3+-critical.svg" /&gt;&lt;/a&gt;
-&lt;img alt="db" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/db-MySQL8-ff69b4.svg" /&gt;
-&lt;a href="https://openai.com/" rel="nofollow"&gt;&lt;img alt="openai-version" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/openai-0.27.6-orange.svg" /&gt;&lt;/a&gt;
-&lt;a href="https://www.v2ex.com/LICENSE" rel="nofollow"&gt;&lt;img alt="license" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/License-MIT-brightgreen.svg" /&gt;&lt;/a&gt;
-&lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;&lt;img alt="bot" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/TelegramBot-@RoboAceBot-blueviolet.svg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bot 地址(&lt;strong&gt;无限 Token&lt;/strong&gt;)： &lt;a href="https://t.me/RoboAceBot" rel="nofollow"&gt;https://t.me/RoboAceBot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GitHub: &lt;a href="https://github.com/V-know/ChatGPT-Telegram-Bot" rel="nofollow"&gt;https://github.com/V-know/ChatGPT-Telegram-Bot&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;一个拥有丝滑 AI 体验的 Telegram Bot&lt;/p&gt;
-&lt;h2&gt;⚡Feature&lt;/h2&gt;
-&lt;p&gt;[✓] 同时支持 Azure OpenAI 和原生 OpenAI 接口&lt;/p&gt;
-&lt;p&gt;[✓] 实时（流式）返回 AI 响应的答案，体验更快捷、更丝滑&lt;/p&gt;
-&lt;p&gt;[✓] 预设 15 种 Bot 身份，可快速切换&lt;/p&gt;
-&lt;p&gt;[✓] 支持自定义 Bot 身份，满足个性化需求&lt;/p&gt;
-&lt;p&gt;[✓] 支持上下文件内容一键清空，随时重开会话&lt;/p&gt;
-&lt;p&gt;[✓] Telegram Bot 原生按钮支持，直观快捷实现需要功能&lt;/p&gt;
-&lt;p&gt;[✓] 用户等级划分，不同等级享有不同单次会话 Token 数量、上下文数量和会话频率&lt;/p&gt;
-&lt;p&gt;[✓] 支持中/英双语切换&lt;/p&gt;
-&lt;p&gt;[✓] 支持 Docker&lt;/p&gt;
-&lt;p&gt;[✓] More ...&lt;/p&gt;
-&lt;p&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://media.giphy.com/media/gqKOf9LOL6xYK1Bmbv/giphy.gif" /&gt;
-&lt;/p&gt;
-&lt;h2&gt;🚀启动&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;python main.py | tee &amp;gt;&amp;gt; debug.log
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 29 Dec 2023 08:23:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 为什么苹果不提供 Toast 组件？</title><link>https://www.v2ex.com/t/1004449#reply0</link><description>&lt;p&gt;不管是开发组件还是设计规范，都没有 Toast/HUD 这个东西, 对应用来讲这个东西还是挺重要的。不像 Alert 需要点击才能继续，Toast/HUD 可以给用户提示而不影响用户的操作。&lt;/p&gt;
+&lt;p&gt;苹果自己的应用中，比如 Apple Music 添加到 Library 也会有一个大的 Toast ，所以苹果也是有这样的东西。&lt;/p&gt;
+&lt;p&gt;如果这样基础的组件让应用自己发挥的话，各种各样的 Toast 很难统一。再加上现在的刘海屏和灵动岛，Toast 更是玩出了花。&lt;/p&gt;
+&lt;p&gt;而安卓系统，是有内置的 Toast 的，且不论样式好看与否，起码它有这样的基础控件。而且对于 react native 来讲，有直接封装好的原生控件。起码“原生”这个东西就很重要，有系统自己的优化，比如 Toast 层级会不会被 modal 所遮盖等。&lt;/p&gt;
+&lt;p&gt;所以，疑惑苹果为什么不出个 Toast 的设计规范/开发组件。&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 08:15:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004449#reply0</guid></item><item><title>[音乐] 某些曲目特别挑版本</title><link>https://www.v2ex.com/t/1004448#reply0</link><description>闽南童谣《天黑黑》（孙燕姿版的那个 ti-o-o-me-o-o ），第一次听的是中央交响乐团的版本，非常喜欢。后来在 QQ 音乐上再搜这个版本已经没有获得授权了，只能 sportify 、youtube 那些去找。而其它的人声版本基本都难以入耳。&lt;br /&gt;&lt;br /&gt;《好春光》，夫人成人学钢琴，老师给安排了这个曲目，咋听之下还不错（不是奉承），网上搜到的钢琴版也普遍愉悦调皮比较纯净。但演唱版本则普遍都有点轻佻艳俗的感觉。&lt;br /&gt;&lt;br /&gt;舒伯特即兴曲 D899 之 4 ，不同的演奏家、甚至同一演奏家在不同的年份，都能大相径庭。我个人比较喜欢霍洛维茨 1973 的版本（红色封面）。但 D899 之 3 则没有这么大的版本间差异。&lt;br /&gt;&lt;br /&gt;你们有过这样的经验么？欢迎分享。</description><pubDate>Fri, 29 Dec 2023 08:14:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004448#reply0</guid></item><item><title>[宽带症候群] 家里的网延迟高一直排查不出来什么原因</title><link>https://www.v2ex.com/t/1004447#reply0</link><description>家里用的是电信宽带，这两三周突然发现手里的 iPhone13mini 玩英雄联盟手游时延迟动不动在 100ms 以上，家里用的是三个领势 mesh 路由器，我用其他安卓手机和 MacBook ping 路由器时延迟基本上就 20ms 左右，偶尔会上到 100ms 但是情况很少，我的 13mini 用 surge 测试 ping 基本上就很容易上 100ms 了，很容易卡，网速测试倒是正常很无语。&lt;br /&gt;&lt;br /&gt;当我把手机拿到单位用时，同样也是电信宽带，就不会出现延迟问题.....&lt;br /&gt;&lt;br /&gt;哪怕我在家里把每一个路由器拆开测试，只启用其中一个当主路由不开 mesh 也会出现这种情况，根本找不到是什么原因导致的</description><pubDate>Fri, 29 Dec 2023 08:14:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004447#reply0</guid></item><item><title>[程序员] 屎山++++</title><link>https://www.v2ex.com/t/1004445#reply0</link><description>&lt;p&gt;&lt;img alt="1703836577300.png" class="embedded_image" rel="noreferrer" src="https://pic.ziyuan.wang/user/guest/2023/12/1703836577300_0d4a44fdc4b03.png" /&gt;&lt;/p&gt;
+&lt;p&gt;前端项目，大部分 ts 文件行数以千为单位&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:58:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004445#reply0</guid></item><item><title>[GitHub] 有在使用 GitHub copilot 的友友分享下使用心得吗</title><link>https://www.v2ex.com/t/1004443#reply1</link><description></description><pubDate>Fri, 29 Dec 2023 07:48:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004443#reply1</guid></item><item><title>[程序员] 必须秀出我的 PHP 史上无敌的 QueryBuilder!</title><link>https://www.v2ex.com/t/1004442#reply3</link><description>&lt;pre&gt;&lt;code class="language-php"&gt;&amp;lt;?php
+// ...
+Arr::renameKey($params, ['user_source_title' =&amp;gt;  'user_source.title']);
+
+$builder = new QueryBuilder(User::class);
+$builder-&amp;gt;joinTo(UserSource::class);
+$builder-&amp;gt;joinFrom(UserTanPoint::class);
+$builder-&amp;gt;setCondition([
+    'id', 'cellphone', 'status', 'user_source_id', 'user_source.title' =&amp;gt; 'fuzzy',
+    'province_name', 'city_name', 'area_name', 'created_at' =&amp;gt; 'range'
+]);
+
+if (!empty($params['tag_id'])) {
+    $builder-&amp;gt;exposeBuilder()
+        -&amp;gt;whereIn('user.id', function ($q) use ($params) {
+            $q-&amp;gt;select('user_id')
+                -&amp;gt;from(with(new UserTag)-&amp;gt;getTable())
+                -&amp;gt;where('tag_id', $params['tag_id'])
+                -&amp;gt;distinct();
+    });
+}
+
+// $builder-&amp;gt;select('user.*');
+$builder-&amp;gt;addSelect('user_source.name AS user_source_name');
+$builder-&amp;gt;addSelect('user_tan_point.point');
+
+return $builder-&amp;gt;query($params);
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;Docker build &amp;amp; Run&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;docker run --rm --name chatgpt-telegram-bot -v ./config.yaml:/app/config.yaml vividone/chatgpt-telegram-bot:latest 
+&lt;p&gt;各位看官就看代码猜功能吧🙃，还有一些特殊的用法和额外参数这个例子没展示出来&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:46:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004442#reply3</guid></item><item><title>[Android] Android 如何分辨查询是否买到官翻机/官换机？</title><link>https://www.v2ex.com/t/1004441#reply1</link><description>&lt;p&gt;最近想再某宝入手一台全新原封未激活的 Google Pixel 6 Pro ，很担心买到翻新机噢噢，请各位有经验的前辈带带路，感激不尽:)&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:44:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004441#reply1</guid></item><item><title>[程序员] 求分享类似 Thoughtworks 洞见的这种技术、管理经验分享的网站</title><link>https://www.v2ex.com/t/1004439#reply0</link><description>&lt;p&gt;无意间发现了一个《质量体系白皮书》的 pdf ，里面的内容和我自身的工作内容有挺多关联，也是公司近期的关注重点，后来按图索骥是 Thoughtworks 网站上分享的，里面还有挺多不错的文章，想麻烦大家推荐一些这种比较好的网站、博客。谢谢。&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:40:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004439#reply0</guid></item><item><title>[分享创造] 我来学习学习</title><link>https://www.v2ex.com/t/1004438#reply0</link><description>希望在这里被 surprise 被 delight 然后 engage 最终帮助我自己思考&lt;br /&gt;但是感觉比较创意比较稀缺，人也比较少</description><pubDate>Fri, 29 Dec 2023 07:38:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004438#reply0</guid></item><item><title>[奇思妙想] 今天是 v 站最热闹的一天吗</title><link>https://www.v2ex.com/t/1004437#reply7</link><description>v 站什么日子或者时间段最热闹。都工作日摸鱼来看，所以肯定工作日中出现。&lt;br /&gt;根据心里来说，都会在放假前一个工作日无心工作。加大了出现的概率。&lt;br /&gt;每逢几个节日前，国庆，元旦，春节和其他一些节日前。&lt;br /&gt;春节和元旦有跨年意义，春节偏向传统，元旦是年份数字都变了，更有分割的意义吧，国庆就都比不上了，更别说别的节日了。&lt;br /&gt;&lt;br /&gt;我感觉今天是最热闹的。这一段时间是最热闹的（不考虑一些事件），你认为那</description><pubDate>Fri, 29 Dec 2023 07:37:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004437#reply7</guid></item><item><title>[酷工作] 招 unity 兼职</title><link>https://www.v2ex.com/t/1004436#reply0</link><description>&lt;p&gt;看懂项目结构，给出 unity 某个脚本到后台的调用路径，以及需要的数据格式（人体骨架模型）&lt;/p&gt;
+&lt;p&gt;绿色：TWFya1Zvbldhbmc=&lt;/p&gt;
+&lt;p&gt;最好是上海&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:34:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004436#reply0</guid></item><item><title>[求职] [求职] 前端远程兼职</title><link>https://www.v2ex.com/t/1004435#reply2</link><description>&lt;p&gt;10 年+前端开发。React\Vue\node\mysql\webpack\ts 都用过，具有代码洁癖和良好的职业素养。&lt;/p&gt;
+&lt;p&gt;22-23 年在某家甲方公司做了一年半前端兼职，负责 vue2/vue3+ts 前端开发。甲方评价不错。&lt;/p&gt;
+&lt;p&gt;目前空下来了，业余时间比较多，每周可 30+小时，试着继续找个兼职前端开发做做，可长期。张小龙：Y29jLXN0YXRz&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:28:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004435#reply2</guid></item><item><title>[程序员] 一个逻辑直觉的问题</title><link>https://www.v2ex.com/t/1004434#reply7</link><description>&lt;pre&gt;&lt;code&gt;Boolean b1 = scopes.stream()
+                .anyMatch(x -&amp;gt; x.getProcessStatus() != complete || x.getProcessStatus() != close);
+
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;Docker Compose&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;docker-compose up -d
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;❤️写在最后&lt;/h2&gt;
-&lt;p&gt;希望本项目在给你丝滑 AI 体验的同时，能帮助更多人接触并开始创建和使用自己的 Telegram Bot&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 14:28:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004245#reply3</guid></item><item><title>[汽车] 观察最近汽车帖的讨论，发现部分 V 友依然对汽车品牌、汽车技术壁垒有迷信</title><link>https://www.v2ex.com/t/1004244#reply2</link><description>1 、目前的汽车工业的成熟度，技术水平与人员流动，以及供应商的完备程度，导致品牌之间对于汽车的设计与性能标定（包括 NVH 、底盘特性、性能取向等等），是单纯的商业取舍（出于品牌定位、产品定位、成本、最终目标售价、风险、耐用性等）。不存在“不能”，或者“不会”。&lt;br /&gt;&lt;br /&gt;2 、每个品牌都有拉低设计水平的车。而且恰恰这些车才是品牌的生命线（利润率高、受众广）。&lt;br /&gt;&lt;br /&gt;3 、同价格下，产品力不能跨维度比较，只是用户的需求不同而已。比如增程式动力总成，从工程学角度上讲就是很丑陋，但是其也确实解决了很多用户的需求痛点。甚至还可以实现像仰望 U8 这样的产品设计。反之，911 GT3RS 的机械设计确实很惊艳，但其在中国日常的价值是 0 （因为不能合法上路）。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;btw：推荐两个 youtuber:ToTo WenHan-前蔚来产品经理,视频信息密度大&lt;br /&gt;     顺晨杨——low energy 风格评车。&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Thu, 28 Dec 2023 14:24:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004244#reply2</guid></item><item><title>[问与答] 工作新人请教关于业余时间个人项目</title><link>https://www.v2ex.com/t/1004243#reply0</link><description>&lt;p&gt;背景：毕业不久的新人，开发，写 Java ，公司里参与一些简单的业务需求，目前相关的框架还不是很熟悉（ spring ，mybatis ，dubbo 等等），当然网上查查基本也够用。&lt;/p&gt;
-&lt;p&gt;想问下，业余时间，应该如何提升自己？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;直接学习框架底层原理 —— 没有实践，感觉印象不深，很容易忘&lt;/li&gt;
-&lt;li&gt;写个人项目 —— 也是普通的业务代码为主，项目比公司的小得多，但自己能够了解整体，但有点无聊，缺乏正反馈&lt;/li&gt;
-&lt;li&gt;不管了，娱乐为主 —— 作为一个后端程序员，我平时更喜欢写的是前端。。。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 28 Dec 2023 14:23:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004243#reply0</guid></item><item><title>[汽车] 小米汽车发布会是否会改变大家对国产电车的固有印象？</title><link>https://www.v2ex.com/t/1004242#reply0</link><description>&lt;p&gt;v2 里经常看到很多人无脑跪舔特斯拉，说国产都是垃圾。这些人可以说完全不了解电车行业，张嘴就无脑喷国产电车，根本不了解这几年国产电车的迭代速度。&lt;/p&gt;
-&lt;p&gt;他们以为全方面领先的特斯拉在现在基本上属于全方位落后，特斯拉现在最大的价值就是品牌，抛开品牌因素的话，特斯拉的价格毫无竞争力，最多只能卖到 15w-20w 这个区间。当然放到三年前，特斯拉确实是顶级的存在，可是现在还那么多人无脑吹，真的难以想象。智能座舱，自动驾驶这些电车时代的重要构成都已经落后于国产了。因为很多人的无脑吹，特斯拉也可以坚持好几年不改款。&lt;/p&gt;
-&lt;p&gt;小米汽车热度很高，感觉让周边不少人重新认识了国产电车的厉害，这是其他新势力以及传统厂商没做到的。喜欢一个品牌完全没关系，但不能一股脑的说除了特斯拉，其他都是垃圾，完全无脑的尬吹。&lt;/p&gt;
-&lt;p&gt;感觉小米汽车真的有希望改变更多人对于国产电车的认知。&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 14:21:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004242#reply0</guid></item><item><title>[职场话题] 感觉自己运气挺好，算是碰上好公司了</title><link>https://www.v2ex.com/t/1004241#reply5</link><description>&lt;p&gt;上了也快六七年班，前两年无意间找了个远程工作，也算是尽心尽力工作吧，今年主动给我加了工资（还挺多，快百分之二十几了），看今年帖子都是裁员，年终奖没了，感叹自己运气还挺好，同时也祝大家越来越好，拥有美好的明天吧&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 14:19:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004241#reply5</guid></item><item><title>[游戏] 地平线 4 无法连接线上模式</title><link>https://www.v2ex.com/t/1004239#reply0</link><description>&lt;p&gt;电脑翻墙是正常的，外网都正常访问，使用的 Clash 开的全局代理，但是地平线 4 无法连接线上模式，报错如下所示。请教下各位大佬应该怎么修改？
-&lt;a href="https://imgur.com/a/UazZnqk" rel="nofollow"&gt;https://imgur.com/a/UazZnqk&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 28 Dec 2023 14:04:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004239#reply0</guid></item><item><title>[宽带症候群] 关于入站 IPv6</title><link>https://www.v2ex.com/t/1004238#reply9</link><description>小白，黑龙江电信，光猫拨号，在内网里可以互相访问 IPv6 ，但是外网却不能访问内网的设备的 IPv6 ，该怎么做，求指点，谢谢！</description><pubDate>Thu, 28 Dec 2023 13:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004238#reply9</guid></item></channel></rss>
+&lt;p&gt;我写了这么一段代码，编译器告诉我这是有问题的，大家可以先想一下编译器提示了什么,下面有答案和我的疑问。
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;这个表达式是恒为 true 的，我是编译器告诉我后，想了一会才确认这个问题，我觉得奇怪的是这种判断应该是一种逻辑直觉，我没有这种直觉，我好奇这种直觉的缺失是怎么造成的？&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:27:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004434#reply7</guid></item><item><title>[问与答] 为什么其他厂商不跟进小米的 AI 接听电话功能呢？</title><link>https://www.v2ex.com/t/1004433#reply11</link><description>如果 AI 应答有门槛，简单实现个留言信箱功能总是可以做的吧？为什么就是没有呢？年末真的被骚扰电话弄烦了，现在推销都用私人电话打过来，防不胜防。直接拒接又怕漏接重要电话。</description><pubDate>Fri, 29 Dec 2023 07:26:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004433#reply11</guid></item><item><title>[Apple] mac 游戏鼠标用啥啊</title><link>https://www.v2ex.com/t/1004430#reply5</link><description>master3s 回报率真的感人，罗技甚至连个 c 口接收器都没</description><pubDate>Fri, 29 Dec 2023 07:20:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004430#reply5</guid></item><item><title>[程序员] 屎山 +++ max</title><link>https://www.v2ex.com/t/1004429#reply7</link><description>&lt;p&gt;&lt;img alt="max" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/3Dqw2lN.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:17:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004429#reply7</guid></item><item><title>[分享发现] 赶着尾巴， OpenNJet v2.0.0 正式发布啦！</title><link>https://www.v2ex.com/t/1004428#reply0</link><description>&lt;p&gt;在最新发布的 v2.0.0 版本中，对基础框架进行了大幅优化，增加对 HTTP/3 的支持，进一步丰富了 OpenNJet 的生态，动态能力逐渐成熟。此次更新主要包括以下五个方面：&lt;/p&gt;
+&lt;p&gt;1 、基础框架大幅优化。框架的优化对于 CoPilots 进行了加固，实现了 lua vm 、高权限执行框架、配置沙箱等能力，从而进一步提高 OpenNJet 的稳定性以及执行效率。
+2 、成熟的动态能力。对模块继续进行动态化改造，优化了动态证书管理，覆盖企业灰度发布等关键场景，动态 location 能力在 v2.0.0 已经进入成熟阶段。
+3 、加入新协议 HTTP/3 。主要实现了 HTTP/3 的 Server 能力，以及 ftp 协议的代理能力。在安全的基础上实现灵活的负载均衡
+4 、继续强化高效安全。强化系统安全，加固自身；实现了业务安全，业务修复无损性能，更好的保护数据、提供可靠的服务，并简化运维任务。
+5 、两个企业特性。实现集群的基本构建，从而避免在故障转移、集群扩容新增加节点等人工操作，减少业务中断时间而无损性能；尝试引入智能化，合理分配资源。&lt;/p&gt;
+&lt;p&gt;详细解读： &lt;a href="https://njet.org.cn/cases/njet2.0.0_new_chapter/" rel="nofollow"&gt;https://njet.org.cn/cases/njet2.0.0_new_chapter/&lt;/a&gt;
+Gitee 仓库： &lt;a href="https://gitee.com/njet-rd/njet" rel="nofollow"&gt;https://gitee.com/njet-rd/njet&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:13:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004428#reply0</guid></item><item><title>[杭州] 大家最近有中招吗？</title><link>https://www.v2ex.com/t/1004427#reply4</link><description>&lt;p&gt;最近中招了，不知道是甲流，乙流，还是第 n 次新冠。反正给我的感受比去年年底的第一次新冠，难受多了。&lt;/p&gt;
+&lt;p&gt;这周一发现全身酸疼，发烧 39.5 ，到今天周五，还是断断续续发烧。期间喉咙很痛，头疼，全身酸疼，全身无力。总体给我的感受是远大于新冠，同时后劲也比新冠大多了。&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:13:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004427#reply4</guid></item><item><title>[程序员] 独立开发者们 2023 年最后一天开始进行年终总结了，我先来，我是一个毕业的程序员......</title><link>https://www.v2ex.com/t/1004426#reply11</link><description>作为一个程序员，被毕业后不知道干啥，2023 年，第一次开始了独立开发者之路，目前做了两个产品，两个都是工具类型，出海方向，目前总盈利 24 美元，收入截图为 &lt;a href="https://ibb.co/Kr5f5L3" rel="nofollow noopener" target="_blank"&gt;https://ibb.co/Kr5f5L3&lt;/a&gt;&lt;br /&gt;展望 2024 ，不知道是找工作还是继续独立开发，如果继续独立开发的话，计划在开发 2 款产品&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;各位独立开发者们，今天是 2023 年最后一个工作日了，请开始你们的 2023 年终总结了，大家相互鼓励</description><pubDate>Fri, 29 Dec 2023 07:10:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004426#reply11</guid></item><item><title>[分享发现] 国外社区如何评价 esProc</title><link>https://www.v2ex.com/t/1004425#reply0</link><description>&lt;p&gt;hckrnews 看到个 flagged ，点进去差点没笑死，这不是老熟人么？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://news.ycombinator.com/item?id=38789474" rel="nofollow"&gt;https://news.ycombinator.com/item?id=38789474&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/K12ELmf.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Dec 2023 07:06:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004425#reply0</guid></item></channel></rss>
