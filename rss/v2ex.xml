@@ -1,97 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 30 Dec 2023 13:43:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Surge] surge 开启后 WeChat 接受媒体文件速度非常慢</title><link>https://www.v2ex.com/t/1004694#reply0</link><description>打开图片和视频需要转圈很久，我看了请求数据都是走的直连线路，为何还这么慢呢？难道是因为我的 WeChat ID 绑定外国号码，导致其实直连反而绕路了吗？也不敢尝试啊，怕异地登陆把号封了。有人知道咋回事吗</description><pubDate>Sat, 30 Dec 2023 13:43:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004694#reply0</guid></item><item><title>[Raspberry Pi] 最近树莓派价格回落了？</title><link>https://www.v2ex.com/t/1004692#reply0</link><description>&lt;p&gt;手里好几个 2b ，3b ，看最近价格回落好多，是不是再捂一捂？
-另外，再求一下树莓派还有什么实用的用法。我有一个派做了路由，还有其他吗？&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:37:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004692#reply0</guid></item><item><title>[Linux] 问一下 launchpad 除了挂梯子外还有办法加速吗</title><link>https://www.v2ex.com/t/1004691#reply0</link><description>&lt;p&gt;之前不知道在哪看的用 cdn 反代 &lt;a href="http://ppa.launchpad.net" rel="nofollow"&gt;ppa.launchpad.net&lt;/a&gt; 域名就可以了，安稳用了一段时间，现在无论怎么 GET 不是 403 就是 404 ，想问问大家是怎么安稳用 launchpad 的。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:36:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004691#reply0</guid></item><item><title>[分享创造] AI 时代的 Killer App？</title><link>https://www.v2ex.com/t/1004690#reply0</link><description>&lt;p&gt;其实一直想做一款 AI 相关的应用，好搭上开往 AI 时代的列车。&lt;/p&gt;
-&lt;h1&gt;关于 AI Native&lt;/h1&gt;
-&lt;p&gt;我认为 AI Native 就像「无性繁殖」，这类应用只能从 AI 基础服务中「分裂」出来，更多 AI 应用应该是「有性繁殖」，就是从已有的产品形式进行融合而诞生的新型种类。&lt;/p&gt;
-&lt;h1&gt;Killer App ？&lt;/h1&gt;
-&lt;p&gt;我想到的一种产品形态，下午花了 2 个小时，简单的做了个应用原型图，想和有兴趣的 V 友讨论下可能性和体验。主要的想法是基于将即时通信软件和 AI 融合，下面是原型图。&lt;/p&gt;
-&lt;h1&gt;原型图&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://ibb.co/ZMkknD3" rel="nofollow"&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/JsMMfJN/We-Chat0543c4057e4d7e0b8083d714cf3839fc.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ibb.co/ZMkknD3" rel="nofollow"&gt;图床链接&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;工作原理&lt;/h1&gt;
-&lt;p&gt;产品其实很简单，就是类似我们最常用的即时通信工具，但工具中可以添加各种 AI 员工，AI 成员和人类成员协作，通过聊天协作完成工作。协作方式不仅仅局限于人和 AI ，还有 AI 和 AI 之间。&lt;/p&gt;
-&lt;h1&gt;最后&lt;/h1&gt;
-&lt;p&gt;欢迎大家来讨论这种方式的可能性和体验。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004690#reply0</guid></item><item><title>[程序员] 有没有什么方法能在网络不好的情况下保证支付和业务的一致性</title><link>https://www.v2ex.com/t/1004689#reply0</link><description>&lt;p&gt;最近做了一个支付平台，在每个窗口部署可以二维码和银行卡支付。但窗口和服务器之间一天会有 5%的丢包率。
-总会造成支付成功然后就丢包了，业务失败。每天的长帐不少，客户需要重新付一笔钱，转天财务对长帐才会退回。客户的满意度也非常低。
-网络问题排查不出来，因为窗口的其他程序请求和服务器同网段的另外一台服务器一点问题没有。&lt;/p&gt;
-&lt;p&gt;有没有哪位大佬能给一个思路的。&lt;/p&gt;
-&lt;p&gt;我目前想到的是把支付信息传给另外一台服务器的程序，然后再通过它调用我的支付平台，成功与否在进行业务判断。但这个动静太大。另一方不愿意做。&lt;/p&gt;
-&lt;p&gt;另外一个方法是，我直接判断业务没有成功，就会退款，但有可能是业务的中间状态我就给退了。这样有很大可能造成短帐。这个月因为其它原因已经短帐好几次了，实在受不了把它变成一个长期的问题。找客户要钱也是个麻烦事。客户不给就得自己垫钱了。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:31:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004689#reply0</guid></item><item><title>[职场话题] 试用期被裁求助</title><link>https://www.v2ex.com/t/1004688#reply2</link><description>驻场项目两个人，试用期三个月，现在只过了一个半月。12.29 早上客户通知说项目要控制成本，我俩实习生打算留另外一哥们，让我元旦后就不用来了。公司这边下班后 hr 打电话说节后走离职流程。工作期间没有发生啥过错，产出都差不多。客户选择留一个我理解，人家甲方爸爸，但是公司也没给我换项目，也没调岗直接给我办离职。只能默默接受嘛，为这个工作我还签了一年租房合同，拒了另一份 offer 。现在很迷茫，有朋友说可以申请赔偿 n+1,又有人说试用期没保障大概率自己吃亏了，在此求助下各位，劳烦给点建议。</description><pubDate>Sat, 30 Dec 2023 13:29:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004688#reply2</guid></item><item><title>[程序员] 用 nest.js 做全栈，后端知识的路线图怎么规划怎么学好？</title><link>https://www.v2ex.com/t/1004687#reply1</link><description>&lt;p&gt;最近在学 nest.js ，作为一个纯前端来说后端知识可以说一窍不通，学的有点痛苦不清楚真实工作中是怎么做的，虽然说在能用 orm 操作数据库，但不太懂要怎么去设计数据库，就感觉写后端要想很多东西，安全啊、加密啊等，我想表达的是我现在进入一个陌生的领域，需要怎么循循渐进的去学习，去理解，去融会贯通才能做出一个真正意义上的最佳实践的写法&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:28:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004687#reply1</guid></item><item><title>[分享创造] 简单搭建了一个自己的镜像站，仅供学习 SHSSEDU 开源镜像站</title><link>https://www.v2ex.com/t/1004686#reply0</link><description>&lt;p&gt;&lt;a href="https://mirrors.shssedu.ac.cn/" rel="nofollow"&gt;https://mirrors.shssedu.ac.cn/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;快点开源镜像站提供主流 GNU/Linux 发行版以及开源、自由软件镜像。
-使用了清华大学 TUNA 开源的 tunasync 项目
-感觉存储是个问题，哈哈哈，随便玩玩～&lt;/p&gt;
-&lt;p&gt;参考
-&lt;a href="http://weyo.me/pages/techs/how-to-make-a-mirror-site/" rel="nofollow"&gt;http://weyo.me/pages/techs/how-to-make-a-mirror-site/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 13:04:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004686#reply0</guid></item><item><title>[问与答] gpt 用于教程的问答</title><link>https://www.v2ex.com/t/1004685#reply1</link><description>chatgpt 网页版的，能通过什么手段，让他可以来根据 csdn 什么的教程，来详细说一下吗，而且经过他的整理，也会比较好一些，求求啦</description><pubDate>Sat, 30 Dec 2023 12:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004685#reply1</guid></item><item><title>[前端开发] 前端远程看过来</title><link>https://www.v2ex.com/t/1004684#reply0</link><description>&lt;p&gt;cocos creator 前端主管
-岗位职责：
-1.熟练掌握 JavaScript 和 typescript ,熟练掌握基础数据结构和算法;
-2.熟练掌握游戏架构的搭建和技术文档的编写;
-3.负责 Cocos Creator 游戏引擎的开发和维护，包括游戏逻辑、用户界面、游戏功能等;
-4.设计和实现游戏的核心功能和特性，确保游戏的性能和兼容稳定性;
-5.熟练掌握 cocos creator 打包 app 和 app 调试;
-6.熟悉 Cocos Creator 的开发工具和流程，并能够根据项目需求进行扩展和定制。
-7.对游戏开发技术和趋势保持敏感，不断学习和研究新技术&lt;/p&gt;
-&lt;p&gt;任职资格：
-1.至少 3 年以上 Cocos Creator 游戏开发经验，熟悉 Cocos Creator 的开发流程和工具。
-2.精通 JavaScript 或 TypeScript 编程语言。
-3.具备良好的团队合作能力和沟通能力，能够与其他团队成员协作开发项目。
-4.具备良好的问题解决能力和调试技巧，能够快速定位和解决问题。
-5.具备良好的学习能力和自我驱动力，能够持续学习和适应新技术。
-加分项：
-1.熟悉其他游戏引擎，如 Unity 、Unreal Engine 等。
-2.具备手机游戏开发经验，了解移动平台的特性和限制。&lt;/p&gt;
-&lt;p&gt;可以直接联系 TG：@Baibai277&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:36:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004684#reply0</guid></item><item><title>[程序员] [效率脚本] 发现 GPT debug 场景，经常需要发送文件夹结构，于是写了个 win 右键脚本</title><link>https://www.v2ex.com/t/1004683#reply1</link><description>&lt;p&gt;项目地址： &lt;a href="https://github.com/imvanda/Tree_This_Folder" rel="nofollow"&gt;https://github.com/imvanda/Tree_This_Folder&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;没啥技术含量，但是对我个人挺实用的，希望也能帮到你😁&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:35:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004683#reply1</guid></item><item><title>[宽带症候群] 广东电信宽带 360 元/年 元旦补货了 广州和深圳都支持</title><link>https://www.v2ex.com/t/1004680#reply3</link><description>&lt;p&gt;100M 纯宽带, 深圳和广州不管是城中村还是小区都支持.&lt;/p&gt;
-&lt;p&gt;但是, 但是, 但是续费价格涨到 60 元/月了.
-&lt;a href="https://imgse.com/i/piONXGT" rel="nofollow"&gt;https://imgse.com/i/piONXGT&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;对于小区而已，比就算比之前贵一倍，也比平常安装要便宜很多.
-广州的深圳电信小区的价格一般要 200 以上，只有融合套餐.&lt;/p&gt;
-&lt;p&gt;(另外 11 和双 12 的订单续费价格不变, 还是 30 元/月)&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:28:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004680#reply3</guid></item><item><title>[程序员] 那些天天很累的程序员，能活到 40 么？</title><link>https://www.v2ex.com/t/1004679#reply15</link><description>&lt;ol&gt;
-&lt;li&gt;天天累到，大脑宕机，下班后呆滞的朋友们能活到 40 吗？&lt;/li&gt;
-&lt;li&gt;多线程接活，一刻不停的改 bug ，每个都只能做到 60 分，会猝死么？&lt;/li&gt;
-&lt;li&gt;大厂，白天六七个会，晚上才有时间写代码的，能抗几年？&lt;/li&gt;
-&lt;li&gt;那些聚精会神思考几个小时代码，集中精力的程度堪比高考数学卷子，考完都脑袋疼的会长久么？&lt;/li&gt;
-&lt;li&gt;bug 缠身，睡觉都在思考，醒了还哈欠连天的，不会刚过 30 就得脑梗吧？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;（很抱歉在元旦佳节，问这些晦气的问题，祝大家身体健康）&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:24:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004679#reply15</guid></item><item><title>[问与答] 我们需要小尺寸的中高端电视</title><link>https://www.v2ex.com/t/1004678#reply5</link><description>&lt;p&gt;发现市面上 32 寸以下小尺寸电视都跟大便一样，租房族真的不需要太大电视，而大多数显示器都是雾面的，显示效果明显不如镜面的电视，我看 Amazon 上美国日本的小尺寸电视还是选择比较多的，甚至还有 24 寸电视可以选择,中国为啥选择就这么少，还都是大便&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:23:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004678#reply5</guid></item><item><title>[耳机] 怎么样的方式买 AirPods Pro (二代)全新能省钱？ 或者有其它对标同级平替，相对便宜的推荐吗？</title><link>https://www.v2ex.com/t/1004677#reply2</link><description>&lt;p&gt;AirPods Pro (第二代)大陆官价 1.8K ，暂时实力还是允许直接拿下，但想了一个晚上，还是刹住了车，发个帖问问。。。如果不小心被洗衣机洗了，1.8K 还是心疼的（自己过去 4 年里，已经洗废过两个华强北 1562A ）&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 12:21:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004677#reply2</guid></item><item><title>[程序员] 现在中国移动的套路怎么跟电信诈骗一样了</title><link>https://www.v2ex.com/t/1004675#reply5</link><description>&lt;p&gt;早就把 10086 拉黑了，结果今天接到 10085 的电话，也是中国移动打来的，说什么答谢老客户可以办理一个业务一年每个月赠送我一个 g 流量，我问她要不要收费，她说不用，我说那办吧，发了条短信让我回复 1 确认，短信里面也确实没有说要收费的事情，有一句话提到要承诺每月消费不低于相应金额，没有说这个相应金额是多少，之前中国移动也给我送过流量我没过脑就以为我目前的每月消费已经满足了就确认了&lt;/p&gt;
-&lt;p&gt;然后就收到短信说办理成功每月低消是三十块，我瞬间就气炸了，因为我目前的套餐是 23 快，办了之后相当于每月要多花七块钱就买了那 1g 流量，我马上就打回去说要取消，不取消我就投诉到工信部，她给我取消了，但也不懂她会不会给我扣费&lt;/p&gt;
-&lt;p&gt;这事真让我恶心坏了，经历过诈骗的人就知道这样的套路跟诈骗的套路一模一样，原理就是利用人思考的盲点，钻了人思考的漏洞，只要你没有留够心眼就很容易中招，而且这种心眼不是说普通的心眼，而是要对对方说的每一个字，做的每一个动作，甚至经历过的每一秒发生的事情都需要去花大力气去想得透透彻彻清清楚楚，才会避免掉进别人给你做的局之中，尤其是这个局是专门为你做的&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 11:53:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004675#reply5</guid></item><item><title>[分享发现] 做了一个用 ChatGPT 分析抖音视频内容的程序</title><link>https://www.v2ex.com/t/1004674#reply1</link><description>&lt;h1&gt;使用场景:&lt;/h1&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 30 Dec 2023 21:44:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Windows] 请教批处理编写问题，大佬请进。</title><link>https://www.v2ex.com/t/1004738#reply1</link><description>&lt;p&gt;ffmpeg -display_rotation:v:0 90 -i input.mp4 -c copy output.mp4&lt;/p&gt;
+&lt;p&gt;以上代码可以把 mp4 视频旋转 90 度后生成一个新的视频。&lt;/p&gt;
+&lt;p&gt;我现在想把这个代码转换成批处理文件。&lt;/p&gt;
+&lt;p&gt;首先，批处理提供一个输入选项，让我可以输入要处理的 mp4 文件所在的文件夹路径。&lt;/p&gt;
+&lt;p&gt;其次，批处理开始旋转文件夹中的所有视频，删除原始 mp4 文件，把旋转后的 mp4 文件，命名为旋转之前的文件名。&lt;/p&gt;
+&lt;p&gt;感谢大佬援手。刚问了 gpt3.5 跟 google 双子星，都没得到正确答案。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 19:52:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004738#reply1</guid></item><item><title>[问与答] 只有一块硬盘，如何保证数据的安全性</title><link>https://www.v2ex.com/t/1004737#reply4</link><description>买了二手的老机械硬盘当仓库，台式机太老，笔记本没法组 raid ，硬盘柜太费钱，总感觉机械硬盘似乎很容易坏，有没有什么办法能保证单个硬盘内数据的完整呢，并不是只有一个硬盘，而是笔记本电脑不能同时连接两个机械硬盘。&lt;br /&gt;&lt;br /&gt;目前我能想到的方法只有将相同的数据重复写入同一块硬盘的两个分区，或者向两个硬盘里写入相同的数据。&lt;br /&gt;&lt;br /&gt;各位有没有什么便宜可行的办法🥹</description><pubDate>Sat, 30 Dec 2023 19:15:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004737#reply4</guid></item><item><title>[程序员] web3/钱包/链上交易这些程序员一般都去哪些论坛？</title><link>https://www.v2ex.com/t/1004736#reply1</link><description>&lt;p&gt;想看看能不能遇到一些想创业的朋友，交流下。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 18:39:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004736#reply1</guid></item><item><title>[VPS] 请教一下 VPS 的防火墙端口开放问题</title><link>https://www.v2ex.com/t/1004735#reply0</link><description>&lt;p&gt;以我个人的使用经验，大多数云服务商都是通过安全组来管理端口，然后系统（我个人用 Ubuntu 比较多）防火墙默认都是关闭的。&lt;/p&gt;
+&lt;p&gt;但是最近在使用 AWS EC2 （ Ubuntu 22 ）的时候发现，即使在安全组里放行了指定端口和协议的入站，端口依旧是关闭的（程序运行在那个端口的）。但是我尝试通过&lt;code&gt;iptables -L&lt;/code&gt;查看规则，结果一条都没有。不过我试了一下用&lt;code&gt;ufw&lt;/code&gt;（默认未启用）来开放端口，又是可行的。想请问一下这是什么原因导致的？&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 18:35:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004735#reply0</guid></item><item><title>[职场话题] 转：中兴通讯裁员应届生惹争议</title><link>https://www.v2ex.com/t/1004734#reply3</link><description>&lt;p&gt;转
+&lt;a href="https://i.imgur.com/D5Vdybq.jpg" rel="nofollow"&gt;https://i.imgur.com/D5Vdybq.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原博： &lt;a href="https://m.weibo.cn/status/4984382417010801" rel="nofollow"&gt;https://m.weibo.cn/status/4984382417010801&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;朋友们，我失业了☹️&lt;/p&gt;
+&lt;p&gt;我的前司是中兴通讯，缩写是 ZTE ，祖上阔过后来被美国重锤出击的那家（）之所以明确地写出来，是因为离职的过程太难看了，以至于到了一种匪夷所思的地步，所以我必须如实地做个记录。&lt;/p&gt;
+&lt;p&gt;我 7 月份入职、是部门唯一的应届生，试用期 6 个月。12 月 26 日上午，我做了转正答辩，26 日下午 3 点，我被喊到办公室通知无法转正、解除劳动合同。因为没有得到任何提前的告知，所以我很惊讶。部门领导让我立刻签字。在场没有 HR 、没人告诉我后续要进行的步骤，我也不太确信应该如何应对，于是我拿着通知单先离开，打算梳理消化一下。&lt;/p&gt;
+&lt;p&gt;我把通知单给隔壁部门的朋友看，她也很惊讶，提出陪我下楼走走。我们到大厦外，被 2 个保安尾随、阻拦，他们问我“有没有拿公司的东西”。莫名其妙之余，我意识到这场离职可能氛围比我想象得更严峻，于是决定先不出去了、就在楼里聊天。&lt;/p&gt;
+&lt;p&gt;我回工位拿上办公电脑（我想他们这个样子可能接下来会直接趁我不在、收走电脑，而电脑里还有我的自学笔记），和朋友到茶水间聊天，此时已经有 4 个人全程跟随我们：2 个保安、2 个部门行政人员。我们坐下还没开始聊，我朋友的领导就给她打电话，叫她回工位，我也只好回到工位。&lt;/p&gt;
+&lt;p&gt;此时我的办公软件及邮箱已无法使用，另有朋友提醒我，要留存一些工作时长、工作量的证明。于是我开始翻看我的日常 to do list 、笔记，并试图拍照留存。&lt;/p&gt;
+&lt;p&gt;此时保安突然上来 [抢我的电脑] ，我的手机在争执中被摔到地上。我愤怒极了，紧紧地抱着电脑一侧，大喊你要干什么。保安撒手后我跑开一点，他们随即跟上，一直在我附近 1 、2 米的范围内。旁边有个中层领导样的男人，授意保安“ [去抢她的电脑] ”，有声音威胁我说“你再这样我们要报警了”。我气得好笑，说：该报警的人是我吧？于是当场打了报警电话。&lt;/p&gt;
+&lt;p&gt;警察来后进行了简单的调解。我继续整理思路、收拾东西。本来和另外一位同事朋友约了晚间小聚，我告知不能参加、我已离职，对方也大为震惊、询问我的状况，我于是和他约到茶水间聊聊。聊到一半，部门领导带着警察破门而入，把我的朋友赶走，而叫警察的理由好像是“占用公司空间”或“盗取公司机密”之类的——我 3 点接到通知，此时才下午 6 点，而离职通知单上明文写的是 29 日办结手续。&lt;/p&gt;
+&lt;p&gt;警察再次调解的结果是，让我继续整理自学笔记，如果公司审核同意我可以带走。此时我身边已经无时无刻不跟着 6 个人了：2 个保安，2 个部门行政，2 个公司行政。中途我去了一次卫生间，4 个人跟在我身后，等我出来，发现 2 个男保安就在门口等待。&lt;/p&gt;
+&lt;p&gt;我找了个安静的会议室整理资料，因为部门领导在之前的调解中称“所有工作期间产生的成果都属于公司”，我对于最后能拷走什么资料不太乐观。我试图拍摄知识思维导图，被保安两次冲进来打断。我不再拍摄，整理到 8 点，又有警察到来。我精神几乎崩溃，问他们到底要干什么，围绕着我的 6 个人不愿意抬头看我。我问是谁报的警，有人忙表示不是自己。&lt;/p&gt;
+&lt;p&gt;警察再次调解，部门领导出面谈判，可能因为情绪激动，这个时候我看电脑屏幕已经有点头晕脑胀、觉得视野边缘涣散。调解的结果是让我安静地整理到 11 点。我继续整理，过程中和我发生过肢体冲突或尾随过我的 2 位男保安，时不时地闯入会议室，并坐在离我很近的地方，我感到非常不适并明确反对，但也无济于事。&lt;/p&gt;
+&lt;p&gt;10 点半左右，我整理好了。部门领导审核内容，我去收拾东西、签字、了解后续。好笑的是，围绕我的 6 个人没一个清楚离职手续，问到大家大家纷纷说“不是我的职责范围”，要我发邮件询问。我说，我的软件邮箱工卡都失效，按照这个架势明天肯定进不来公司、很不方便，何况我已经离职，没有义务熟悉你们的组织架构，请给我安排一站式的服务。部门领导现场给大领导打了电话，才安排了专人对接我的离职手续。&lt;/p&gt;
+&lt;p&gt;折腾到 1 点左右才结束，我问部门领导，具体是什么原因不让我转正，对方缄口不答。我说离职本来是小事，我也在不断寻找适合自己的环境，我一定会做事但不一定在中兴做事，你在乎这里的职位我不见得那么在乎，为什么不肯提前和我说、为什么要闹得这么难看，他也不做任何回应。&lt;/p&gt;
+&lt;p&gt;打包东西等等，我到家大概 3 点了。我对于整个事件中莫名其妙的敌意感到非常震惊和受伤，处理手段的野蛮和荒谬让人很难相信这是 2023 年、很难相信这是一家市场经济语境下的上市公司。朋友说，这好像都市怪谈，日日相处的人一夕之间突然变脸，“一下子你不再是一个活人而立刻成为一个问题”，几乎是以防暴演习的级别来处理一场离职。连累到朋友这件事使我非常非常难过，而部门领导带着警察闯进茶水间、打断我和朋友聊天的一幕也让我每次想起都阵阵泛恶心。&lt;/p&gt;
+&lt;p&gt;我和部门领导交谈时的想法是真实的：离职相比来说其实是件小事，我没打算辛苦地适应环境或者让环境容忍我，但这件事本来可以有成熟体面的处理。首先应该提前告诉我，让我为转岗或者找下一份工作做准备；其次过程完全不必要如此——我曾经使部门骚扰我、猥亵我的两位已婚 70 后男同事离职，过程中我展现出性格强硬的一面，我的领导好像由此有点怕我，担心我做出什么极端的事情来——事实上，我从头到尾维护的正是自己的人格、乃至所有人的人格，他们这样激烈的、侵犯人身的处理才是我会大怒和追究的事。&lt;/p&gt;
+&lt;p&gt;我不知道这场离职处理得如此荒谬的具体原因是什么，事到如今也不太感兴趣背后的来龙去脉——当然，我有隐约的猜测、嗣后可以慢慢复盘。但我认为应该有人为这件事情负责（我希望部门领导和保安向我道歉），或者大家应该知道，这样一家公司可能会以这样的态度对待自己的员工。目前离职手续初步完成而赔偿金还没有到位，我做好了劳动仲裁的初步准备。请 @中兴通讯 关注，我的诉求已内部反馈，期待节后得到妥善解决。&lt;/p&gt;
+&lt;p&gt;2023 年进入职场真的遇到了太多太多，如同一出人间历险记。我大概会先躺一段时间，再思考接下来的方向。欢迎大家以各种形式提供思路和可能性。祝大家、也祝我自己前程似锦吧，为新岁干杯🍻！&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 17:46:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004734#reply3</guid></item><item><title>[问与答] 菜市场卖的海带是新鲜海带还是海带干泡发的呢</title><link>https://www.v2ex.com/t/1004730#reply0</link><description>很好奇哈哈，网上貌似没答案，包括菜市场卖的海带丝、海带结之类的，这些是用干海带泡发的还是新鲜海带啊</description><pubDate>Sat, 30 Dec 2023 17:05:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004730#reply0</guid></item><item><title>[OpenAI] Azure OpenAI 申请表里的公司名称有什么影响</title><link>https://www.v2ex.com/t/1004729#reply0</link><description>&lt;p&gt;麻烦问下，如果是想自己个人试用 Azure OpenAI 服务，在申请表里填工作的所在公司名称有什么影响吗？还是需要自己建个网站和邮箱？先谢谢了。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 16:56:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004729#reply0</guid></item><item><title>[程序员] 怎么用反向代理拉取 git lfs 的内容?</title><link>https://www.v2ex.com/t/1004728#reply3</link><description>各位,我最近要在一个权限很小的云主机上开发,没有 root 权限,不能 sudo, 也无法访问 huggingface 和 github.&lt;br /&gt;我想办法用 nginx 代理了 github 和 hf.&lt;br /&gt;&lt;br /&gt;比如:&lt;br /&gt;git clone &lt;a href="https://huggingface.co/microsoft/phi-2" rel="nofollow noopener" target="_blank"&gt;https://huggingface.co/microsoft/phi-2&lt;/a&gt;  拉不动.&lt;br /&gt;我用 nginx 反代后,&lt;br /&gt;git clone https://我的 vps 域名/microsoft/phi-2&lt;br /&gt;就可以了拉下来了.&lt;br /&gt;&lt;br /&gt;但是在 git lfs 时就遇到了问题. 因为 hf 都是大文件&lt;br /&gt;比如 &lt;a href="https://huggingface.co/microsoft/phi-2/blob/main/model-00001-of-00002.safetensors" rel="nofollow noopener" target="_blank"&gt;https://huggingface.co/microsoft/phi-2/blob/main/model-00001-of-00002.safetensors&lt;/a&gt;&lt;br /&gt;这个文件是 5G 大小, 所以要在库下载后,用&lt;br /&gt;git lfs fetch --include="model-00001-of-00002.safetensors" 来拉取,但这个命令我不知道要怎么进行反代. 不知道具体大文件存储在什么地方.&lt;br /&gt;&lt;br /&gt;请问有人做过类似的工作吗,请赐教.</description><pubDate>Sat, 30 Dec 2023 16:53:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004728#reply3</guid></item><item><title>[程序员] 有没有失业的 go，闲着没事的，一起合作搞 saas 项目</title><link>https://www.v2ex.com/t/1004727#reply2</link><description>&lt;h1&gt;想搞个 saas 平台,没有找到好用的 GitHub 开源项目，看看有没有大佬想一起写一个的&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;将喜欢的抖音视频形成文字，方便后期阅读和搜索&lt;/li&gt;
-&lt;li&gt;视频防删、备份&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;功能&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;通过 chatGPT 总结抖音视频内容&lt;/li&gt;
-&lt;li&gt;形成文字、知识库&lt;/li&gt;
-&lt;li&gt;原视频提供临时下载,用于纠正分析结果&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;使用方法&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;喜欢的视频,双击点赞❤️即可&lt;/li&gt;
-&lt;li&gt;程序会自动抓取点赞列表,进行 AI 分析&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;永久免费额度&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;免费用户：每天 3 条，每月 30 条，每年 360 条&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://douyin.gezhong.vip/start-page.html" rel="nofollow"&gt;详情请见《抖音视频 AI 阅读》&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 11:50:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004674#reply1</guid></item><item><title>[Apple] 请教 macOS 的 Apple Music 连接性问题</title><link>https://www.v2ex.com/t/1004670#reply0</link><description>&lt;p&gt;国区 ID ，macOS 的 Apple Music 暂停播放一段时间后，再点击继续播放会失败并无限往后切歌尝试，需要退出 Apple Music 重新播放才能继续，而 iOS 没有这个问题，不知道是否有人遇到过同样的问题。&lt;/p&gt;
-&lt;p&gt;两个设备都常年连接 Surge ，使用相同的配置对 Apple 相关域名直连：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;DOMAIN-SET,&lt;a href="https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/apple.txt,DIRECT" rel="nofollow"&gt;https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/apple.txt,DIRECT&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 11:43:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004670#reply0</guid></item><item><title>[问与答] 咨询： 房贷还有不少，看到不少人通过消费贷来降低利息支出，能省多少钱？</title><link>https://www.v2ex.com/t/1004669#reply3</link><description>有经验的同学能否分享下，还有 200w 房贷</description><pubDate>Sat, 30 Dec 2023 11:41:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004669#reply3</guid></item><item><title>[硬件] 求推荐下移动固态</title><link>https://www.v2ex.com/t/1004667#reply3</link><description>&lt;p&gt;说下需求&lt;/p&gt;
+&lt;li&gt;可以留联系方式我加你&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 30 Dec 2023 16:45:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004727#reply2</guid></item><item><title>[问与答] Github Action 生成 Docker 失败。</title><link>https://www.v2ex.com/t/1004725#reply4</link><description>&lt;p&gt;各位大佬们晚上好，因为在用的一个项目作者不接受 pr ，无奈只能自己修改，但是发现卡在发布 Docker 这一步，能帮我看看是怎么回事吗？&lt;/p&gt;
+&lt;p&gt;Action 日志地址： &lt;a href="https://github.com/rebron1900/yarr/actions/runs/7364702258/job/20045334141" rel="nofollow"&gt;https://github.com/rebron1900/yarr/actions/runs/7364702258/job/20045334141&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;错误信息&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-txt"&gt;/usr/bin/docker buildx build --iidfile /tmp/docker-build-push-Yx82f1/iidfile --platform linux/amd64,linux/arm64,linux/arm/v7 --tag ***/yarr:latest --tag ***/yarr:v2.5 --metadata-file /tmp/docker-build-push-Yx82f1/metadata-file --push .
+#0 building with "builder-dd8b3058-a7fa-457b-a92a-cc56c9c1b5e0" instance using docker-container driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 2B done
+#1 DONE 0.0s
+ERROR: failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory
+Error: buildx failed with: ERROR: failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 30 Dec 2023 16:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004725#reply4</guid></item><item><title>[Apple] MacBook Air m2 投屏不了小米 Mini LED 电视？</title><link>https://www.v2ex.com/t/1004724#reply3</link><description>iPhone 可以投屏，笔记本居然不行，提示已阻止到“xxx 小米电视名称”的传入连接&lt;br /&gt;&lt;br /&gt;网上有人说小米不在 Apple 名单里面，有什么简单的解决方法，不要买第三方设备哪种</description><pubDate>Sat, 30 Dec 2023 15:51:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004724#reply3</guid></item><item><title>[Apple] 1password8 对 safari 性能影响</title><link>https://www.v2ex.com/t/1004723#reply2</link><description>突然来了兴致，想对比一下 chrome 和 Safari 的性能。发现在 &lt;a href="http://browserbench.org" rel="nofollow noopener" target="_blank"&gt;browserbench.org&lt;/a&gt; 的基准测试结果中自己用的 safari 普遍落后于 chrome ，与 Safari 官网描述不一。&lt;br /&gt;Debug 安装的 Safari 插件后发现，1password8 的 Safari 插件对 Safari 的性能影响巨大（ 20%-30%左右）。进一步 google 后，发现这个性能问题早在 22 年 5 月就在 reddit 和官方论坛提出，现在也没有修复。。。&lt;br /&gt;有点开始想转 iCloud keychain 了</description><pubDate>Sat, 30 Dec 2023 15:39:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004723#reply2</guid></item><item><title>[程序员] 找一个开发写一个域名批量查询的应用</title><link>https://www.v2ex.com/t/1004722#reply0</link><description>需要有后端前端的能力(如果其他都 OK,前端我再找人也可以)&lt;br /&gt;由于有性能要求,最好是 go 语言&lt;br /&gt;最好对域名有所了解,比如域名的状态,域名的 whois 查询协议,比如查询协议用的是哪个端口?&lt;br /&gt;对域名的解析有所了解,比如任何一个域名是如何访问正确的服务器的过程,我需要不通过 whois 批量查询域名 DNS&lt;br /&gt;Docker 交付能力,除非配置特别简单,或者一键 shell 脚本&lt;br /&gt;对 linux 了解,环境是 debian 11&lt;br /&gt;工期一个月,可以商议&lt;br /&gt;价格私聊,请根据你的工时报价&lt;br /&gt;请仔细阅读需求文档,如果哪项不支持,请提前告知商议&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;联系我发给你文档哈:TG &lt;a href="https://t.me/xieebaobao" rel="nofollow noopener" target="_blank"&gt;https://t.me/xieebaobao&lt;/a&gt;&lt;br /&gt;感谢关注</description><pubDate>Sat, 30 Dec 2023 15:22:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004722#reply0</guid></item><item><title>[程序员] Android 开发好难啊，现在应该怎么学习</title><link>https://www.v2ex.com/t/1004720#reply5</link><description>&lt;p&gt;独立项目，1 年多了，用的 flutter 。&lt;/p&gt;
+&lt;p&gt;自从项目创建后一直写的 iOS 代码，昨天想兼容下 android ，发现怎么都跑不起来，一直报错。搜索后按&lt;a href="https://stackoverflow.com/a/70807648/4256995" rel="nofollow"&gt;https://stackoverflow.com/a/70807648/4256995&lt;/a&gt;  发现问题还是存在，索性釜底抽薪了，重新创建了一个新的 flutter 项目，然后把相关文件都同步到项目里。&lt;/p&gt;
+&lt;p&gt;修改了以下内容：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;lt;700 元.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;2T&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;最好稳定一点的,速度慢一点无所谓,只要不是叠瓦盘那种就行.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;主要是用来备份我的一些视频.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;/android/app/build.gradle&lt;/strong&gt; 和 &lt;strong&gt;/android/gradle/(build &amp;amp; settings).gradle&lt;/strong&gt; 一共 3 个文件全部替换&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;/gradle/wrapper/gradle-wrapper.properties&lt;/strong&gt; 里 &lt;strong&gt;distributionUrl=&lt;a href="https://services.gradle.org/distributions/gradle-6.7-all.zip" rel="nofollow"&gt;https://services.gradle.org/distributions/gradle-6.7-all.zip&lt;/a&gt;&lt;/strong&gt;
+升级到了 &lt;strong&gt;7.5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;搜索解决了一些别的问题&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;PS: 本来今天看了一天视频,本来准备搞 4T 机械自己搞的.但是算了一下,4T 垂直盘 400 多+硬盘盒 100 多,再加
-电源接近 100 就是 600 了,这个样子我还不如搞个稳定的 2T 固态呢.还省得我自己来组装.&lt;/p&gt;
-&lt;p&gt;就这样.&lt;/p&gt;
-&lt;p&gt;而且个人对固态硬盘只知道三星,闪迪,西数.但是这三个太贵了.要 900 多.&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 11:36:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004667#reply3</guid></item></channel></rss>
+&lt;p&gt;最后，终于跑起来了，结果运行起来又报错&lt;strong&gt;Application is waiting for the debugger to attach.&lt;/strong&gt; 搜索了许久还没解决，而上面到现在已经花费了我 6 个小时。。。&lt;/p&gt;
+&lt;p&gt;有 JDK 版本，Gradle 版本，还要对应上，还有个插件版本，wtf 。。。反观 iOS 多简单啊，基本啥都不用操心。&lt;/p&gt;
+&lt;p&gt;所以请教一下这个问题怎么解决？还有现在怎么学习 android ？貌似有新的  Jetpack?&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 15:17:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004720#reply5</guid></item><item><title>[宽带症候群] WOL 外网无法远程开机问题</title><link>https://www.v2ex.com/t/1004719#reply5</link><description>最近在家里折腾 wol 网络唤醒电脑，目前能达到的效果：&lt;br /&gt;1. 睡眠状态下，内网可以唤醒，外网(IPV6)可以唤醒&lt;br /&gt;2. 关机状态下，内网可以开机，外网(IPV6)无法开机 &lt;br /&gt;综上所述，有什么方式能够解决外网远程开机的问题。&lt;br /&gt;实在不行就只能远程路由器，通过路由器给电脑开机了</description><pubDate>Sat, 30 Dec 2023 15:12:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004719#reply5</guid></item><item><title>[宽带症候群] 宽带换了猫棒，闲置了一个 F6610M 的光猫，想问一下能不能废物（算是）利用一下</title><link>https://www.v2ex.com/t/1004717#reply1</link><description></description><pubDate>Sat, 30 Dec 2023 15:06:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004717#reply1</guid></item><item><title>[Arch] mac 安装 arch manjaro 键盘失效</title><link>https://www.v2ex.com/t/1004716#reply1</link><description>想问下各位有没有用 mac 安装 arch manjaro 后&lt;br /&gt;我在安装完后发现键盘失效,触摸板也失效了,但是外接键盘是可以的&lt;br /&gt;大家遇到过吗?&lt;br /&gt;用了 6 年的 mac,升级 macos 就很烫很卡了,老版本的系统最过分的还不支持最新的 chrome</description><pubDate>Sat, 30 Dec 2023 15:02:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004716#reply1</guid></item><item><title>[Apple] Apple Music 资料库机制真的很垃圾</title><link>https://www.v2ex.com/t/1004715#reply12</link><description>之前订阅 Apple Music ，资料库收藏了不少歌曲，后面隔了几个月没有订阅，今天续订了之后发现资料库里的歌曲都没了！各种重启，重新登陆都没有，网上一搜才发现隔一段时间不订阅是会清空资料库的。我真的服了苹果的这个逆天操作！保存用户的资料库成本很高吗？哪怕给个提示，就说如果断开订阅会清空资料库，有需要的可以手动导出歌曲清单。这么点事都做不好吗👎</description><pubDate>Sat, 30 Dec 2023 15:02:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004715#reply12</guid></item><item><title>[问与答] 2023 年，用一个字来总结你的年度？</title><link>https://www.v2ex.com/t/1004713#reply25</link><description>2023 年我的年度词是“收”：砍掉了很多不必要的消费；暂停了一些不成熟的计划实施；把精力用好在自己的身体、家庭、工作上。&lt;br /&gt;2024 年我给自己定的年度词是“养”：养好自己的身体，早睡早起；养好自己的精神，不焦虑不烦躁不让琐事缠身；养好家人，养好工作，养好亲友关系，时常和亲友聚聚。&lt;br /&gt;&lt;br /&gt;“立”，“创”，“淡”，“婚”，“生”，“闯”，“盲”，“升”，“转”，“财”，“祸”，“跳”，“劳”，“干”。。。每个人在每个时间段的关注点不一样，境遇不一样，c'est la vie~&lt;br /&gt;&lt;br /&gt;朋友，你的年度词是什么？可以和我分享下你的故事吗？</description><pubDate>Sat, 30 Dec 2023 15:01:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004713#reply25</guid></item><item><title>[生活] 又被父母催婚</title><link>https://www.v2ex.com/t/1004712#reply4</link><description>&lt;p&gt;刚被老妈打电话来又说了一顿，催着找女友，说谁谁这年纪都抱孙子了，我不急着找女友结婚搞他们活的也没意思，在外面挣多少钱都没用，谁谁在外留学工作大龄没结婚，还不如留在本地早早结婚的弟弟，诸如此类。&lt;/p&gt;
+&lt;p&gt;最近又忙着复习，这环境工作也不好找，搞得我心好累。&lt;/p&gt;
+&lt;p&gt;何解？&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 14:54:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004712#reply4</guid></item></channel></rss>
