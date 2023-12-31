@@ -1,165 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 31 Dec 2023 01:46:14 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 六层楼组网-求指导</title><link>https://www.v2ex.com/t/1004749#reply1</link><description>&lt;p&gt;6 层楼组网。&lt;/p&gt;
-&lt;p&gt;1.每一层楼放一个 16 口的 poe 交换机，放在弱电箱
-2.每一层楼放一个 mesh 母路由器，和 mesh 子路由器，这个是否能够共享同个 ssid ？就是我每层楼都用同个 ssid 可以吗？这样可以无缝切换吗，但是好像一组 mesh 路由器，就是一个母 mesh 路由器最多带 3 个子 mesh 路由器。
-3.生活重心在 2,3 楼
-4.昨天去问电信 fttr ，一个月月租金太贵了，有想过预埋一个管，放光纤。或者跟网线放在同个管道
-5.一楼拉一条网线到 6 楼会不会太高了？损坏会不会很大。
-6.我看别人有写每层楼用交换机相互连接汇聚链接。有点不懂。好像听过这个词，但是没上手过。&lt;/p&gt;
-&lt;p&gt;还有 nas 放在 1 楼应该也就行了。&lt;/p&gt;
-&lt;p&gt;其他的要怎么搞才行。&lt;/p&gt;
-&lt;p&gt;是否每层楼要预留网口？&lt;/p&gt;
-&lt;p&gt;本人网络需求不会特别夸张，没玩游戏，&lt;/p&gt;
-&lt;p&gt;网络拓扑如下&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/a/Xgex6k3" rel="nofollow"&gt;https://imgur.com/a/Xgex6k3&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 01:33:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004749#reply1</guid></item><item><title>[分享发现] 快来分享你们的 2023 年度总结~</title><link>https://www.v2ex.com/t/1004748#reply0</link><description>&lt;p&gt;Telegram 频道 @&lt;a href="https://t.me/findblog" rel="nofollow"&gt;FindBlog&lt;/a&gt; 正在收集博主们的 2023 年终总结，欢迎在评论区分享你们的文章~&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://t.me/FindBlog/382" rel="nofollow"&gt;https://t.me/FindBlog/382&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/03Y1UZI.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 01:27:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004748#reply0</guid></item><item><title>[淘宝] 天猫超市真的是垃圾啊</title><link>https://www.v2ex.com/t/1004747#reply0</link><description>&lt;p&gt;买了 10 个猕猴桃，全是坏的&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 01:19:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004747#reply0</guid></item><item><title>[Surge] 整理了一波 Surge 模块合集，自认为赏心悦目（</title><link>https://www.v2ex.com/t/1004746#reply3</link><description>GitHub： &lt;a href="https://github.com/cc63/Surge/" rel="nofollow noopener" target="_blank"&gt;https://github.com/cc63/Surge/&lt;/a&gt;</description><pubDate>Sun, 31 Dec 2023 01:16:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004746#reply3</guid></item><item><title>[问与答] 修车修出事情来了，各位大佬帮我看看怎么解决</title><link>https://www.v2ex.com/t/1004745#reply10</link><description>&lt;h3&gt;背景&lt;/h3&gt;
-我的车是在几年前买的，买的时候，销售给了我一项优惠，就是把车子原装的两个大灯换掉，换成更好的氙气灯，所以我的车子在从 4s 店出来的时候大灯就不是原装的。
-&lt;p&gt;这一点我是知道的，但是有一点我不知道的是：改的大灯和原装大灯的灯光颜色不一样，改的大灯灯光是白色的，原装大灯灯光是黄色的，这就为后面的事情埋下了伏笔。&lt;/p&gt;
-&lt;h3&gt;修车以及纠纷&lt;/h3&gt;
-12 月 24 号的时候车子出了事故，其中一个大灯撞坏了，事故当天我就把车开到 4s 店里了（买车和修车不是同一个 4s 店），走了保险，修车钱都是保险公司出的。
-&lt;p&gt;29 号的时候接待我的售后打电话给我，说我这个大灯是改装的，他们店里没有，他们只有原装的，问我装一个原装的行不行（他没有告诉我两个大灯的灯光颜色不一样），我说行。&lt;/p&gt;
-&lt;p&gt;然后就是 30 号就是昨天去取车的时候，发现两个大灯的灯光颜色不一样，所以现在大灯的情况是这样的：车灯开关关闭的时候，我原来改装的那个大灯是有日间行车灯的，还亮着，他们的原装大灯是完全熄灭的。车灯开关切换到近光灯的时候，两个大灯都亮，但是灯光颜色不一样。切到远光和近光的情况差不多。可以看我下面放的图。&lt;/p&gt;
-&lt;p&gt;这车现在这样肯定没法开，跟他们扯了半天，我的意思是他们没有告知我原装和改装大灯的灯光颜色不同，是他们的责任，而他们却说我应该知道这一点，我觉得他们的想法挺可笑。反正最后我没有把车开回家，车还在 4s 店里停着。&lt;/p&gt;
-&lt;h3&gt;诉求&lt;/h3&gt;
-目前我跟他们提了两点诉求，二选一
-&lt;p&gt;1.把修车钱退给保险公司，我自己找其他的店再修&lt;/p&gt;
-&lt;p&gt;2.把我两个大灯换成一样的，我也不强求一定要换原来那个改装的大灯了，只要两个大灯灯光颜色是一样的就行&lt;/p&gt;
-&lt;p&gt;我估计第二条的可能性更大一点，毕竟车已经修好了，把钱再退回去他们损失更大&lt;/p&gt;
-&lt;h3&gt;题外话&lt;/h3&gt;
-现在这个社会真是不讲道理，就比谁横了，我昨天在 4s 店跟他们好好说话，他们没有任何妥协表示。然后我回家了跟我老婆说了，我老婆打电话过去冲他们一顿吼，立马就说要么退一点钱给我，然后我自己去处理大灯。当然我们也没同意。
-&lt;p&gt;&lt;img alt="这是图片" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Zp7fgis.jpg" title="Magic Gardens" /&gt;
-&lt;img alt="这是图片" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/iSRZN0i.jpg" title="Magic Gardens" /&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 01:09:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004745#reply10</guid></item><item><title>[Linux] Arch 大危机， Gentoo 开始提供二进制包</title><link>https://www.v2ex.com/t/1004744#reply6</link><description>&lt;a href="https://www.phoronix.com/news/Gentoo-Binaries-EOY-2023" rel="nofollow noopener" target="_blank"&gt;https://www.phoronix.com/news/Gentoo-Binaries-EOY-2023&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Gentoo on ARM64 and x86_64 (AMD64) will see a fresh flow of binary packages available to complement their source updates. Other architectures will see new binaries for the core system and weekly updates.&lt;br /&gt;&lt;br /&gt;估计会从别的发行版拉回一波用户</description><pubDate>Sun, 31 Dec 2023 00:50:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004744#reply6</guid></item><item><title>[问与答] Python tkinter 如何实现自动滚动的文本框</title><link>https://www.v2ex.com/t/1004741#reply0</link><description>&lt;p&gt;具体来说，我输出一系列结果，随着输出行数增加，能够自动随着输出不断滚动到最新。但是当我需要查看之前的输出结果时（此时输出还在进行中），能够往上查看，当我把滚轮或者进度条滚动到最低点时，自动滚动又重新激活。&lt;/p&gt;
-&lt;p&gt;以下是多次问了 poe 后，有点能用的代码。但是还是不能完全实现上面的要求。有高人能指导下吗？&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;
-import tkinter as tk
-from tkinter import messagebox
-import threading
-import queue
-import time
-
-def down():
-    for i in range(1, 100):
-        output_queue.put(f"Downloading attachment {i}\n")
-        time.sleep(0.3)
-    return
-
-def on_download_click():
-
-    try:
-        download_thread = threading.Thread(target=down, args=())
-        download_thread.start()
-    except Exception as e:
-        messagebox.showerror("消息", "该日期段没有附件下载")
-
-
-
-def update_output_text():
-    # 检查队列是否有新的输出内容
-    while not output_queue.empty():
-        output_text.insert(tk.END, output_queue.get())
-
-    # 如果用户没有手动滚动，或者手动滚动到底部，则自动滚动到底部
-    if not fm_main.manually_scrolled or output_text.yview()[1] == 1.0:
-        output_text.see(tk.END)
-
-    # 通过调用 after 方法实现定时刷新
-    fm_main.after(100, update_output_text)
-
-def on_scroll(*args):
-    # 判断滚动条是否在底部
-    scroll_position = scrollbar.get()
-    if scroll_position[1] == 1.0:
-        fm_main.manually_scrolled = False
-    else:
-        fm_main.manually_scrolled = True
-
-
-
-if __name__ == '__main__':
-    #    os.chdir(path)
-    #    os.system("ls *.zip |xargs -n1 unzip &amp;amp;&amp;amp; rm *.zip")
-
-    fm_main = tk.Tk()
-    fm_main.title("邮件附件批量下载_v1.0")
-    fm_main.geometry('600x300')
-
-    fm_main.resizable(0, 0)  # 设置窗口 Continuation of the modified code:
-
-
-    # 下载按钮
-    btn1 = tk.Button(fm_main,
-                     text="下载",
-                     font=("Arial", 13),
-                     width=25,
-                     height=2,
-                     command=on_download_click)
-    btn1.pack()
-
-    scrollbar = tk.Scrollbar(fm_main)
-    scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
-
-    output_text = tk.Text(fm_main, font=("Arial", 12), width=60, height=10)
-    output_text.pack(side=tk.LEFT, fill=tk.BOTH)
-
-    output_text.config(yscrollcommand=scrollbar.set)
-    scrollbar.config(command=output_text.yview)
-
-    # ... 其他代码 ...
-
-    # 创建队列对象用于线程间通信
-    output_queue = queue.Queue()
-
-    # 启动定时刷新函数
-    fm_main.after(100, update_output_text)
-
-    # 设置滚动条手动滚动的回调函数
-    output_text.bind("&amp;lt;MouseWheel&amp;gt;", on_scroll)
-    output_text.bind("&amp;lt;Button-4&amp;gt;", on_scroll)
-    output_text.bind("&amp;lt;Button-5&amp;gt;", on_scroll)
-
-    # 标记手动滚动状态的变量
-    fm_main.manually_scrolled = False
-
-    fm_main.mainloop()
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 31 Dec 2023 00:05:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004741#reply0</guid></item><item><title>[Apple] 一个大哥弄的联通剩余流量小组件，想知道怎么实现的，可付费</title><link>https://www.v2ex.com/t/1004740#reply6</link><description>&lt;p&gt;太喜欢这个联通小组件了，还有塞尔达的那个，不知道要装什么 app ？（非码农）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/JK091PsV.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 23:44:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004740#reply6</guid></item><item><title>[Windows] 请教批处理编写问题，大佬请进。</title><link>https://www.v2ex.com/t/1004738#reply6</link><description>&lt;p&gt;ffmpeg -display_rotation:v:0 90 -i input.mp4 -c copy output.mp4&lt;/p&gt;
-&lt;p&gt;以上代码可以把 mp4 视频旋转 90 度后生成一个新的视频。&lt;/p&gt;
-&lt;p&gt;我现在想把这个代码转换成批处理文件。&lt;/p&gt;
-&lt;p&gt;首先，批处理提供一个输入选项，让我可以输入要处理的 mp4 文件所在的文件夹路径。&lt;/p&gt;
-&lt;p&gt;其次，批处理开始旋转文件夹中的所有视频，删除原始 mp4 文件，把旋转后的 mp4 文件，命名为旋转之前的文件名。&lt;/p&gt;
-&lt;p&gt;感谢大佬援手。刚问了 gpt3.5 跟 google 双子星，都没得到正确答案。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 19:52:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004738#reply6</guid></item><item><title>[问与答] 只有一块硬盘，如何保证数据的安全性</title><link>https://www.v2ex.com/t/1004737#reply17</link><description>买了二手的老机械硬盘当仓库，台式机太老，笔记本没法组 raid ，硬盘柜太费钱，总感觉机械硬盘似乎很容易坏，有没有什么办法能保证单个硬盘内数据的完整呢，并不是只有一个硬盘，而是笔记本电脑不能同时连接两个机械硬盘。&lt;br /&gt;&lt;br /&gt;目前我能想到的方法只有将相同的数据重复写入同一块硬盘的两个分区，或者向两个硬盘里写入相同的数据。&lt;br /&gt;&lt;br /&gt;各位有没有什么便宜可行的办法🥹</description><pubDate>Sat, 30 Dec 2023 19:15:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004737#reply17</guid></item><item><title>[程序员] web3/钱包/链上交易这些程序员一般都去哪些论坛？</title><link>https://www.v2ex.com/t/1004736#reply2</link><description>&lt;p&gt;想看看能不能遇到一些想创业的朋友，交流下。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 18:39:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004736#reply2</guid></item><item><title>[VPS] 请教一下 VPS 的防火墙端口开放问题</title><link>https://www.v2ex.com/t/1004735#reply0</link><description>&lt;p&gt;以我个人的使用经验，大多数云服务商都是通过安全组来管理端口，然后系统（我个人用 Ubuntu 比较多）防火墙默认都是关闭的。&lt;/p&gt;
-&lt;p&gt;但是最近在使用 AWS EC2 （ Ubuntu 22 ）的时候发现，即使在安全组里放行了指定端口和协议的入站，端口依旧是关闭的（程序运行在那个端口的）。但是我尝试通过&lt;code&gt;iptables -L&lt;/code&gt;查看规则，结果一条都没有。不过我试了一下用&lt;code&gt;ufw&lt;/code&gt;（默认未启用）来开放端口，又是可行的。想请问一下这是什么原因导致的？&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 18:35:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004735#reply0</guid></item><item><title>[职场话题] 转：中兴通讯裁员应届生惹争议</title><link>https://www.v2ex.com/t/1004734#reply4</link><description>&lt;p&gt;转
-&lt;a href="https://i.imgur.com/D5Vdybq.jpg" rel="nofollow"&gt;https://i.imgur.com/D5Vdybq.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原博： &lt;a href="https://m.weibo.cn/status/4984382417010801" rel="nofollow"&gt;https://m.weibo.cn/status/4984382417010801&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;朋友们，我失业了☹️&lt;/p&gt;
-&lt;p&gt;我的前司是中兴通讯，缩写是 ZTE ，祖上阔过后来被美国重锤出击的那家（）之所以明确地写出来，是因为离职的过程太难看了，以至于到了一种匪夷所思的地步，所以我必须如实地做个记录。&lt;/p&gt;
-&lt;p&gt;我 7 月份入职、是部门唯一的应届生，试用期 6 个月。12 月 26 日上午，我做了转正答辩，26 日下午 3 点，我被喊到办公室通知无法转正、解除劳动合同。因为没有得到任何提前的告知，所以我很惊讶。部门领导让我立刻签字。在场没有 HR 、没人告诉我后续要进行的步骤，我也不太确信应该如何应对，于是我拿着通知单先离开，打算梳理消化一下。&lt;/p&gt;
-&lt;p&gt;我把通知单给隔壁部门的朋友看，她也很惊讶，提出陪我下楼走走。我们到大厦外，被 2 个保安尾随、阻拦，他们问我“有没有拿公司的东西”。莫名其妙之余，我意识到这场离职可能氛围比我想象得更严峻，于是决定先不出去了、就在楼里聊天。&lt;/p&gt;
-&lt;p&gt;我回工位拿上办公电脑（我想他们这个样子可能接下来会直接趁我不在、收走电脑，而电脑里还有我的自学笔记），和朋友到茶水间聊天，此时已经有 4 个人全程跟随我们：2 个保安、2 个部门行政人员。我们坐下还没开始聊，我朋友的领导就给她打电话，叫她回工位，我也只好回到工位。&lt;/p&gt;
-&lt;p&gt;此时我的办公软件及邮箱已无法使用，另有朋友提醒我，要留存一些工作时长、工作量的证明。于是我开始翻看我的日常 to do list 、笔记，并试图拍照留存。&lt;/p&gt;
-&lt;p&gt;此时保安突然上来 [抢我的电脑] ，我的手机在争执中被摔到地上。我愤怒极了，紧紧地抱着电脑一侧，大喊你要干什么。保安撒手后我跑开一点，他们随即跟上，一直在我附近 1 、2 米的范围内。旁边有个中层领导样的男人，授意保安“ [去抢她的电脑] ”，有声音威胁我说“你再这样我们要报警了”。我气得好笑，说：该报警的人是我吧？于是当场打了报警电话。&lt;/p&gt;
-&lt;p&gt;警察来后进行了简单的调解。我继续整理思路、收拾东西。本来和另外一位同事朋友约了晚间小聚，我告知不能参加、我已离职，对方也大为震惊、询问我的状况，我于是和他约到茶水间聊聊。聊到一半，部门领导带着警察破门而入，把我的朋友赶走，而叫警察的理由好像是“占用公司空间”或“盗取公司机密”之类的——我 3 点接到通知，此时才下午 6 点，而离职通知单上明文写的是 29 日办结手续。&lt;/p&gt;
-&lt;p&gt;警察再次调解的结果是，让我继续整理自学笔记，如果公司审核同意我可以带走。此时我身边已经无时无刻不跟着 6 个人了：2 个保安，2 个部门行政，2 个公司行政。中途我去了一次卫生间，4 个人跟在我身后，等我出来，发现 2 个男保安就在门口等待。&lt;/p&gt;
-&lt;p&gt;我找了个安静的会议室整理资料，因为部门领导在之前的调解中称“所有工作期间产生的成果都属于公司”，我对于最后能拷走什么资料不太乐观。我试图拍摄知识思维导图，被保安两次冲进来打断。我不再拍摄，整理到 8 点，又有警察到来。我精神几乎崩溃，问他们到底要干什么，围绕着我的 6 个人不愿意抬头看我。我问是谁报的警，有人忙表示不是自己。&lt;/p&gt;
-&lt;p&gt;警察再次调解，部门领导出面谈判，可能因为情绪激动，这个时候我看电脑屏幕已经有点头晕脑胀、觉得视野边缘涣散。调解的结果是让我安静地整理到 11 点。我继续整理，过程中和我发生过肢体冲突或尾随过我的 2 位男保安，时不时地闯入会议室，并坐在离我很近的地方，我感到非常不适并明确反对，但也无济于事。&lt;/p&gt;
-&lt;p&gt;10 点半左右，我整理好了。部门领导审核内容，我去收拾东西、签字、了解后续。好笑的是，围绕我的 6 个人没一个清楚离职手续，问到大家大家纷纷说“不是我的职责范围”，要我发邮件询问。我说，我的软件邮箱工卡都失效，按照这个架势明天肯定进不来公司、很不方便，何况我已经离职，没有义务熟悉你们的组织架构，请给我安排一站式的服务。部门领导现场给大领导打了电话，才安排了专人对接我的离职手续。&lt;/p&gt;
-&lt;p&gt;折腾到 1 点左右才结束，我问部门领导，具体是什么原因不让我转正，对方缄口不答。我说离职本来是小事，我也在不断寻找适合自己的环境，我一定会做事但不一定在中兴做事，你在乎这里的职位我不见得那么在乎，为什么不肯提前和我说、为什么要闹得这么难看，他也不做任何回应。&lt;/p&gt;
-&lt;p&gt;打包东西等等，我到家大概 3 点了。我对于整个事件中莫名其妙的敌意感到非常震惊和受伤，处理手段的野蛮和荒谬让人很难相信这是 2023 年、很难相信这是一家市场经济语境下的上市公司。朋友说，这好像都市怪谈，日日相处的人一夕之间突然变脸，“一下子你不再是一个活人而立刻成为一个问题”，几乎是以防暴演习的级别来处理一场离职。连累到朋友这件事使我非常非常难过，而部门领导带着警察闯进茶水间、打断我和朋友聊天的一幕也让我每次想起都阵阵泛恶心。&lt;/p&gt;
-&lt;p&gt;我和部门领导交谈时的想法是真实的：离职相比来说其实是件小事，我没打算辛苦地适应环境或者让环境容忍我，但这件事本来可以有成熟体面的处理。首先应该提前告诉我，让我为转岗或者找下一份工作做准备；其次过程完全不必要如此——我曾经使部门骚扰我、猥亵我的两位已婚 70 后男同事离职，过程中我展现出性格强硬的一面，我的领导好像由此有点怕我，担心我做出什么极端的事情来——事实上，我从头到尾维护的正是自己的人格、乃至所有人的人格，他们这样激烈的、侵犯人身的处理才是我会大怒和追究的事。&lt;/p&gt;
-&lt;p&gt;我不知道这场离职处理得如此荒谬的具体原因是什么，事到如今也不太感兴趣背后的来龙去脉——当然，我有隐约的猜测、嗣后可以慢慢复盘。但我认为应该有人为这件事情负责（我希望部门领导和保安向我道歉），或者大家应该知道，这样一家公司可能会以这样的态度对待自己的员工。目前离职手续初步完成而赔偿金还没有到位，我做好了劳动仲裁的初步准备。请 @中兴通讯 关注，我的诉求已内部反馈，期待节后得到妥善解决。&lt;/p&gt;
-&lt;p&gt;2023 年进入职场真的遇到了太多太多，如同一出人间历险记。我大概会先躺一段时间，再思考接下来的方向。欢迎大家以各种形式提供思路和可能性。祝大家、也祝我自己前程似锦吧，为新岁干杯🍻！&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 17:46:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004734#reply4</guid></item><item><title>[问与答] 菜市场卖的海带是新鲜海带还是海带干泡发的呢</title><link>https://www.v2ex.com/t/1004730#reply0</link><description>很好奇哈哈，网上貌似没答案，包括菜市场卖的海带丝、海带结之类的，这些是用干海带泡发的还是新鲜海带啊</description><pubDate>Sat, 30 Dec 2023 17:05:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004730#reply0</guid></item><item><title>[OpenAI] Azure OpenAI 申请表里的公司名称有什么影响</title><link>https://www.v2ex.com/t/1004729#reply1</link><description>&lt;p&gt;麻烦问下，如果是想自己个人试用 Azure OpenAI 服务，在申请表里填工作的所在公司名称有什么影响吗？还是需要自己建个网站和邮箱？先谢谢了。&lt;/p&gt;</description><pubDate>Sat, 30 Dec 2023 16:56:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004729#reply1</guid></item><item><title>[程序员] 怎么用反向代理拉取 git lfs 的内容?</title><link>https://www.v2ex.com/t/1004728#reply3</link><description>各位,我最近要在一个权限很小的云主机上开发,没有 root 权限,不能 sudo, 也无法访问 huggingface 和 github.&lt;br /&gt;我想办法用 nginx 代理了 github 和 hf.&lt;br /&gt;&lt;br /&gt;比如:&lt;br /&gt;git clone &lt;a href="https://huggingface.co/microsoft/phi-2" rel="nofollow noopener" target="_blank"&gt;https://huggingface.co/microsoft/phi-2&lt;/a&gt;  拉不动.&lt;br /&gt;我用 nginx 反代后,&lt;br /&gt;git clone https://我的 vps 域名/microsoft/phi-2&lt;br /&gt;就可以了拉下来了.&lt;br /&gt;&lt;br /&gt;但是在 git lfs 时就遇到了问题. 因为 hf 都是大文件&lt;br /&gt;比如 &lt;a href="https://huggingface.co/microsoft/phi-2/blob/main/model-00001-of-00002.safetensors" rel="nofollow noopener" target="_blank"&gt;https://huggingface.co/microsoft/phi-2/blob/main/model-00001-of-00002.safetensors&lt;/a&gt;&lt;br /&gt;这个文件是 5G 大小, 所以要在库下载后,用&lt;br /&gt;git lfs fetch --include="model-00001-of-00002.safetensors" 来拉取,但这个命令我不知道要怎么进行反代. 不知道具体大文件存储在什么地方.&lt;br /&gt;&lt;br /&gt;请问有人做过类似的工作吗,请赐教.</description><pubDate>Sat, 30 Dec 2023 16:53:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004728#reply3</guid></item><item><title>[程序员] 有没有失业的 go，闲着没事的，一起合作搞 saas 项目</title><link>https://www.v2ex.com/t/1004727#reply7</link><description>&lt;h1&gt;想搞个 saas 平台,没有找到好用的 GitHub 开源项目，看看有没有大佬想一起写一个的&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;可以留联系方式我加你&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sat, 30 Dec 2023 16:45:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004727#reply7</guid></item><item><title>[问与答] Github Action 生成 Docker 失败。</title><link>https://www.v2ex.com/t/1004725#reply4</link><description>&lt;p&gt;各位大佬们晚上好，因为在用的一个项目作者不接受 pr ，无奈只能自己修改，但是发现卡在发布 Docker 这一步，能帮我看看是怎么回事吗？&lt;/p&gt;
-&lt;p&gt;Action 日志地址： &lt;a href="https://github.com/rebron1900/yarr/actions/runs/7364702258/job/20045334141" rel="nofollow"&gt;https://github.com/rebron1900/yarr/actions/runs/7364702258/job/20045334141&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;错误信息&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-txt"&gt;/usr/bin/docker buildx build --iidfile /tmp/docker-build-push-Yx82f1/iidfile --platform linux/amd64,linux/arm64,linux/arm/v7 --tag ***/yarr:latest --tag ***/yarr:v2.5 --metadata-file /tmp/docker-build-push-Yx82f1/metadata-file --push .
-#0 building with "builder-dd8b3058-a7fa-457b-a92a-cc56c9c1b5e0" instance using docker-container driver
-
-#1 [internal] load build definition from Dockerfile
-#1 transferring dockerfile: 2B done
-#1 DONE 0.0s
-ERROR: failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory
-Error: buildx failed with: ERROR: failed to solve: failed to read dockerfile: open Dockerfile: no such file or directory
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 30 Dec 2023 16:04:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004725#reply4</guid></item><item><title>[Apple] MacBook Air m2 投屏不了小米 Mini LED 电视？</title><link>https://www.v2ex.com/t/1004724#reply3</link><description>iPhone 可以投屏，笔记本居然不行，提示已阻止到“xxx 小米电视名称”的传入连接&lt;br /&gt;&lt;br /&gt;网上有人说小米不在 Apple 名单里面，有什么简单的解决方法，不要买第三方设备哪种</description><pubDate>Sat, 30 Dec 2023 15:51:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004724#reply3</guid></item><item><title>[Apple] 1password8 对 safari 性能影响</title><link>https://www.v2ex.com/t/1004723#reply5</link><description>突然来了兴致，想对比一下 chrome 和 Safari 的性能。发现在 &lt;a href="http://browserbench.org" rel="nofollow noopener" target="_blank"&gt;browserbench.org&lt;/a&gt; 的基准测试结果中自己用的 safari 普遍落后于 chrome ，与 Safari 官网描述不一。&lt;br /&gt;Debug 安装的 Safari 插件后发现，1password8 的 Safari 插件对 Safari 的性能影响巨大（ 20%-30%左右）。进一步 google 后，发现这个性能问题早在 22 年 5 月就在 reddit 和官方论坛提出，现在也没有修复。。。&lt;br /&gt;有点开始想转 iCloud keychain 了</description><pubDate>Sat, 30 Dec 2023 15:39:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004723#reply5</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 31 Dec 2023 19:12:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 免费撸 2 个月的 ChatGPT4</title><link>https://www.v2ex.com/t/1004884#reply0</link><description>&lt;p&gt;用下面这个链接注册 perplexity ，加了卡就可以开通 perplexity pro(不会扣费）,我用 onekey 的卡通过了，然后就可以在设置里选择模型 ChatGPT4 ，感觉用起来和 ChatGPT plus 基本一样，也可以上传文件。可以爽用 2 个月，快到 2 个月的时候取消订阅跑路即可。  ps：这个是官方 promot code ，本人不会得到任何好处。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.perplexity.ai/pro?discount_code=HOLIDAYS23&amp;amp;utm_source=social&amp;amp;utm_medium=social&amp;amp;utm_campaign=holidays23" rel="nofollow"&gt;https://www.perplexity.ai/pro?discount_code=HOLIDAYS23&amp;amp;utm_source=social&amp;amp;utm_medium=social&amp;amp;utm_campaign=holidays23&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 19:07:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004884#reply0</guid></item><item><title>[旅行] 新年快乐，今年在服务区跨年🎉٩('ω')و🎉</title><link>https://www.v2ex.com/t/1004883#reply0</link><description></description><pubDate>Sun, 31 Dec 2023 18:43:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004883#reply0</guid></item><item><title>[创业组队] 加入我们的 Web3&amp;AI 创业之旅！</title><link>https://www.v2ex.com/t/1004882#reply0</link><description>&lt;p&gt;🌟 本人背景：&lt;/p&gt;
+&lt;p&gt;前外企业务拓展专家，近年成功转型至 Web3 领域，计算机硕士。
+独立赢得多个 VC 支持的项目机会并为其解决了关键技术问题，其中包括数字艺术平台、游戏、DeFi 等。&lt;/p&gt;
+&lt;p&gt;🔍 寻找：&lt;/p&gt;
+&lt;p&gt;前后端技术大咖：精通现代 Web 技术，有 Web3 和 AI 的经验尤佳。近期急需 web3 前端和 AI 初步研究。
+创新思维：对所在技术领域有独到见解并具有国际视野，渴望通过自身的创造更好体现团队和个人价值。
+合伙人精神：共同探索，共担风险，共享成功。&lt;/p&gt;
+&lt;p&gt;🎯 合作前景：&lt;/p&gt;
+&lt;p&gt;共创未来：构建国际化的 Web3 （及 AI ）平台，力争行业前沿。
+实现梦想：在 Web3 （及 AI ）世界留下你的足迹，一起成就未来的事业。
+📧 联系方式：请将你的简历或简介发到 Base64 至 YW5kcm9pZHhqaEBnbWFpbC5jb20=&lt;/p&gt;
+&lt;p&gt;联系我，一起来开创新的篇章吧！&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 18:04:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004882#reply0</guid></item><item><title>[宽带症候群] 询问电信是不是猫腻最多的运营？</title><link>https://www.v2ex.com/t/1004881#reply9</link><description>&lt;p&gt;个人上海电信的，不能手动重拨换 ip 问题不谈了。关键不少常访问的一下 cdn 比如 cf war 这些无论高峰还是空闲时段都丢包。但是隔壁邻居的电信宽带正常。我怀疑是不是我过于频繁访问这些国外 cdn 网站（主要看一下动画漫画网站都喜欢挂 cf ）导致的情况？空闲时段都会出现高丢包几乎都在 30 ～ 40 左右丢包率。所以我总觉得不对劲。电信是不是他们后台猫腻最多的运营比起移动和联通？？&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 16:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004881#reply9</guid></item><item><title>[问与答] 2024 你有什么 flag 么？</title><link>https://www.v2ex.com/t/1004880#reply5</link><description>- 减肥 10 斤&lt;br /&gt;- 看 10 本书&lt;br /&gt;- 英语口语练习到流畅交流</description><pubDate>Sun, 31 Dec 2023 16:39:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004880#reply5</guid></item><item><title>[程序员] 我的 2023 之年终总结</title><link>https://www.v2ex.com/t/1004879#reply2</link><description>&lt;p&gt;2023 对所有人都注定是不平凡的一年。&lt;/p&gt;
+&lt;p&gt;年初的我还苦陷自 22 年 10 月以来抑郁症的复发情绪中，直到 2 月才在 Leader 的协调下申请了 3 个月的停薪留职。整整三个月都过得浑浑噩噩的，每天在幽怨中醒来，盯着电脑屏幕发呆，尝试学习 Go 和 Rust 来对冲对前端代码的不再自信。&lt;/p&gt;
+&lt;p&gt;但这种尝试注定是徒劳的，我只能以睡眠麻痹自己，除了老婆每天上下班叫我起来吃点东西，有时候甚至可以一整天躺在床上睡觉。&lt;/p&gt;
+&lt;p&gt;后来为了摆脱这种无所事事的状态，也尝试过去我哥工作在的常州『玩儿几天』散散心，回南京后甚至去注册了花小猪、滴滴司机，中间因为人证问题我甚至去考了网约车驾驶证资格证，当然自己的机动车肯定不会去上车证，而且我是用自己的 2.5 排量的私家车跑的，每天挣的钱都不够油费，但是好在每次出车一天都很充实，我甚至有时候一整天不吃饭都在路上跑。&lt;/p&gt;
+&lt;p&gt;等 5 月越来越临近，心里又愈发得焦虑起来：我还能回去好好地参加工作吗？我的工作产出还能达到公司的技术水准要求吗？因为整整三个月其实我并没有学习什么新技术、新思想。&lt;/p&gt;
+&lt;p&gt;等到真正回到公司重新参加工作，接触到熟悉的工作环境，我发现自己虽然磕磕绊绊，但是还是能完成任务需求的。&lt;/p&gt;
+&lt;p&gt;我不在公司的这段时间公司开始了一个基于 Backstage 的一个新商业项目 Developer Platform(DP) 和一个基于 DP 的内部项目 IDP 。我们的主要产品 Alauda Container Platform(ACP) 是一个基于 Angular 的一个很重的 monorepo 项目，对于 React 技术栈的积累有一个 Alauda Cloud(AC) 管理平台，而 AC 的整体前端架构是我一手搭建起来的，所以对于 React 相关技术栈我也是很有兴趣参与的。我重新回到工作岗位后不久 DP 项目把我借调过来做一些基于 Backstage 实现的前端动态插件和 i18n 方案，去之前我其实还是有些犯怵的，但实践下来在之前同事的一些调研的基础上来看，其实整体过程推进都比较正常，期间我们基于 patch-package 我们对 Backstage 进行了一些魔改以满足我们自己的动态化方案，i18n 方案也积极得和社区沟通推进。&lt;/p&gt;
+&lt;p&gt;后面我就回到了原来的 ACP 项目，也开始逐渐找回了对代码的一部分自信。期间我也重新开始了对 &lt;a href="https://github.com/mdx-js/eslint-mdx" rel="nofollow"&gt;eslint-mdx&lt;/a&gt; 项目的维护，完成了对 &lt;code&gt;FlatConfig&lt;/code&gt; 的兼容支持，升级支持整个 &lt;code&gt;unified&lt;/code&gt; 生态，也愈发地觉得自己没那么糟糕。再接再厉，我又开始在 &lt;a href="https://github.com/un-ts/prettier" rel="nofollow"&gt;un-ts/prettier&lt;/a&gt; 和 &lt;a href="https://github.com/prettier/eslint-plugin-prettier" rel="nofollow"&gt;eslint-plugin-prettier&lt;/a&gt; 项目升级适配 &lt;code&gt;prettier&lt;/code&gt; v3 。&lt;/p&gt;
+&lt;p&gt;我愈来愈强烈地发现熟悉感觉又回来了！&lt;/p&gt;
+&lt;p&gt;项目上经过 Leader 和其他相关上级的一直讨论，同时也经过我深思熟虑后，我转到了 DevOps 项目组负责 CI/CD 平台的整体前端工程，期间我们聊到，不能再简单地以前端技术的视角来看待整个平台功能，而是应该站在更高的维度纵观全局找到优化提升 DevOps 整体研发效能的方法论。&lt;/p&gt;
+&lt;p&gt;当时我进组后的第一件事就是熟悉重构整个 CI/CD 相关代码中不合理的内容，移除所有 any 的引用，提升整体类型安全。这看似不大的一小步对我后续在开发新功能时省下了很多的开发时间，当然其中也遇到了由于不熟悉代码乱重构修改了依赖注入顺序而踩到的坑。在后面的开发需求中，我又找回了熟悉的能写出优雅代码的感觉。&lt;/p&gt;
+&lt;p&gt;在 DevOps 短暂地工作了一段时间后，我又再次被调配到了暂时没有任何专业前端的 IDP 项目。&lt;/p&gt;
+&lt;p&gt;在我接手 IDP 项目前端功能开发后，我对目前的在 DP 仓库以分支方式开发，且必须长期 rebase 解决相关冲突问题的混乱开发方式进行了大刀阔斧地改造，将 IDP 仓库从 DP 完全剥离，DP 成为我们除 Backstage 外的另一个上游项目，我们对 Backstage 的版本升级也首次实现了在 DP 之前提前完成。同时，我也帮助 DP 项目实现完成了对不同插件包分 registry 自动化发布功能，即一部分私有包发布到我们自己的内部 nexus registry ，另一部分发布到公开的 npm registry ，并且这些包都是在同一个 @&lt;a href="https://www.v2ex.com/member/alauda"&gt;alauda&lt;/a&gt; 组织下的，以方便调整包的公开属性。&lt;/p&gt;
+&lt;p&gt;开源方面，我又开始了对目前 ESLint 插件的一个强依赖 &lt;a href="https://github.com/un-ts/synckit" rel="nofollow"&gt;synckit&lt;/a&gt; 的维护，支持添加了多个新功能，而最近，在 @onigoetz 的推动下我又完成了对 synckit 包体积的大幅减少。后来我又逐渐重新掌控维护起了 &lt;a href="https://github.com/prettier/prettier-eslint" rel="nofollow"&gt;prettier-eslint&lt;/a&gt; 和 &lt;a href="https://github.com/prettier/prettier-eslint-cli" rel="nofollow"&gt;prettier-eslint-cli&lt;/a&gt; ，而就在前几天，我又取得了 &lt;a href="https://github.com/prettier/eslint-config-prettier" rel="nofollow"&gt;eslint-config-prettier&lt;/a&gt; 项目的 maintainer 权限。&lt;/p&gt;
+&lt;p&gt;最终，在完成了对 prettier + eslint 相关包的互相配合之后，我发起了 &lt;a href="https://opencollective.com/prettier-eslint" rel="nofollow"&gt;https://opencollective.com/prettier-eslint&lt;/a&gt; 筹款项目，以帮助社区更好地维护相关工具链。&lt;/p&gt;
+&lt;p&gt;今年开源项目中可以聊的东西其实远不止这些，不再一一赘述。&lt;/p&gt;
+&lt;p&gt;工作上我开始尝试转换自己的视角，以为公司创造价值、降本增效的目标出发思考每件事的成本和收益，但我永远相信：磨刀不误砍柴工，你今天对每一分代码极致优雅的追求总有一天会开花结果。当然我也开始学着让自己放下过于完美主义的信条，尝试接受一些暂时甚至长期的妥协。但该指出的问题我还是会指出，欢迎继续随时辩经。&lt;/p&gt;
+&lt;p&gt;生活上我开始勇于大声说不，表达自己，甚至开始主动调和家庭矛盾。对了，在 2023 年 12 月 12 日即双十二的那天晚上，我和老婆一起买下了人生第三套房（第一套已经卖了，第二套是买给丈母娘的），我愈发地期待我们能把日子过得更红火！&lt;/p&gt;
+&lt;p&gt;回望过去整整一年，从谷底起步，平缓向上，再到重回巅峰，一路的坎坷和辛酸只有自己和老婆知道，也幸好有老婆在我旁边支持我，照顾我，包容我，我才能又重新活了一遍。❤️&lt;/p&gt;
+&lt;p&gt;希望在新的 2024 年，自己依然保持戒骄戒躁的心态稳稳健健地走好每一步。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;本文首发于 &lt;a href="https://zhuanlan.zhihu.com/p/675473655" rel="nofollow"&gt;知乎专栏 - 1stG 全栈之路&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 16:30:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004879#reply2</guid></item><item><title>[问与答] 大家对 2023 有什么感想？对 2024 有什么展望？</title><link>https://www.v2ex.com/t/1004878#reply1</link><description>时间过的飞快，不知不觉又是一年过去了，去年这个时候动态清零方针刚刚结束，&lt;br /&gt;现在觉得 2019 是很遥远的过去感觉过了好久了，根本不觉得是 4 年前，曾经的日子再也回不去了</description><pubDate>Sun, 31 Dec 2023 16:26:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004878#reply1</guid></item><item><title>[程序员] V 友们 2024 新年快乐！</title><link>https://www.v2ex.com/t/1004877#reply31</link><description>祝老哥们新年快乐 身体健康 心想事成 万事如意 全都暴富！</description><pubDate>Sun, 31 Dec 2023 16:10:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004877#reply31</guid></item><item><title>[问与答] [求助]安卓电视自动循环播放 u 盘视频的方案(老人看戏剧)</title><link>https://www.v2ex.com/t/1004876#reply0</link><description>&lt;p&gt;家里老人不会用智能电视，有没有 app 可以实现上述功能呢&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 16:09:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004876#reply0</guid></item><item><title>[天黑以后] 20231231 午夜俱乐部</title><link>https://www.v2ex.com/t/1004874#reply4</link><description>大学四年在外地上学 这些年来第一次在家跨年&lt;br /&gt;&lt;br /&gt;父母早早睡了 仿佛对他们来说就是个普通的日子&lt;br /&gt;&lt;br /&gt;一个人看着其他城市的跨年直播, 悉尼 首尔 台北 繁华又热闹&lt;br /&gt;希望明年可以脱单 这样我就不回家了, 和对象跨年去[Doge]&lt;br /&gt;&lt;br /&gt;祝大家新年快乐!!!</description><pubDate>Sun, 31 Dec 2023 15:53:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004874#reply4</guid></item><item><title>[程序员] 2024 祝你们一切顺利，一帆风顺</title><link>https://www.v2ex.com/t/1004873#reply0</link><description></description><pubDate>Sun, 31 Dec 2023 15:44:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004873#reply0</guid></item><item><title>[iCloud] iCloud 钥匙串（密码管理器）可以在 macOS Sonoma 上配合 Chrome/Edge 使用了</title><link>https://www.v2ex.com/t/1004872#reply0</link><description>&lt;p&gt;安装这个之前 Windows 上才可以用的扩展： &lt;a href="https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj" rel="nofollow"&gt;https://chromewebstore.google.com/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;安装之后点击会弹出验证码，输入就可以了。&lt;/p&gt;
+&lt;p&gt;填充密码的时候会要求指纹验证，也同样是支持二次验证码的填写的。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img1" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/8vYEpMFH.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img2" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/4T6D98Pj.png" /&gt;&lt;/p&gt;
+&lt;p&gt;不过体验有点差的一点是每次浏览器重启都需要重新验证……&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 15:44:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004872#reply0</guid></item><item><title>[Windows] windows11 在更新之后出现关键错误:你的"开始"菜单出现了问题,我们将在你下一次登陆时修复它,该怎么办?</title><link>https://www.v2ex.com/t/1004871#reply2</link><description></description><pubDate>Sun, 31 Dec 2023 15:30:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004871#reply2</guid></item><item><title>[VPS] 搬瓦工 VPS 绝版套餐 $28.19 洛杉矶 CN2 账号转让</title><link>https://www.v2ex.com/t/1004870#reply3</link><description>&lt;p&gt;Location: US - Los Angeles DC3 CN2&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2023/12/31/piXnKKK.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2023/12/31/piXnJPA.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2023/12/31/piXnvZD.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&amp;amp;email=w6e2oq2vtqKtg7Ky7aCsrg" rel="nofollow"&gt;&lt;img class="embedded_image" rel="noreferrer" src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_01.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 15:30:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004870#reply3</guid></item><item><title>[分享创造] 🌈「屏幕跑马灯」现已发布 🌟（英文搜索 “Strip Light”）💡✨</title><link>https://www.v2ex.com/t/1004869#reply1</link><description>&lt;p&gt;简单来说，就是屏幕四周看起来有个追光灯。&lt;/p&gt;
+&lt;p&gt;至于你说这个有什么用？下载后能开心一下，图一乐吧🤣&lt;/p&gt;
+&lt;p&gt;这让我想起了当年做手机主题的日子，那时候大家都在想办法搞这个东西。&lt;/p&gt;
+&lt;p&gt;没想到 macOS 上还没有，Mac 用户的品味还是太高了😋&lt;/p&gt;
+&lt;h3&gt;下载地址&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/id6473619527" rel="nofollow"&gt;前往 Mac App Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;（或 Mac App Store 搜索“屏幕跑马灯”或“Strip Light”）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/A04HCTi.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/id6473619527" rel="nofollow"&gt;前往 Mac App Store 下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/H8iKR6Y.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/id6473619527" rel="nofollow"&gt;前往 Mac App Store 下载&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 15:22:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004869#reply1</guid></item><item><title>[Z shell] Windows/MSYS2 下 zsh 用什么插件库速度最快？</title><link>https://www.v2ex.com/t/1004868#reply0</link><description>&lt;p&gt;主要使用的命令行环境是 MSYS2 环境，现在使用的插件库是 zimfw 跟 p10k 。空命令的状态下按回车延迟几乎有 1 秒，本来都已经习惯了，最近有个东西需要在 WSL2 环境下跑，试了下 WSL2 下面的 zsh ，一摸一样的配置文件，响应速度完全不是一个量级的，感觉在 100ms 以内，实在是太丝滑了。
+git 是很大的一个影响因素，有 git 库跟没 git 库的目录速度是有一些差异，但是即使没有 git 库，响应速度还是很慢。
+由于很多东西都还需要在 Windows 下使用，全部切到 WSL2 还是有点麻烦，不知道 Windows 下用什么插件库可以达到比较快的速度？&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 15:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004868#reply0</guid></item><item><title>[分享发现] 2023 打动我的文艺作品</title><link>https://www.v2ex.com/t/1004867#reply1</link><description>分享给大家&lt;br /&gt;机核网播客系列节目 《苏联美学演义》这个节目梳理了前苏联时期的各类文艺形式发展、各流派的主张起落和艺术家们的精彩人生，从艺术的侧面剖析那个年代的发展以及对于现在的影响&lt;br /&gt;《游戏的社会与人》乙女游戏爱好者、出生历史系的专业游戏研究学者刘梦霏博士为游戏玩家们带来的研究生课程🤣&lt;br /&gt;播客 纵横四海，每一期都很优秀，信息密度高，时间长，结构清晰完整，不同节目间也可以串联起来。&lt;br /&gt;播客 外部性，主理人李铁可以深入浅出的讲清楚各种宏观微观的经济学原理和实际事件的联系和解释。&lt;br /&gt;b 站 up 银屏系漫游指南，是机核网的几个编辑负责，每一期的质量都超高，看这个频道的视频可以感受到主理人对电影的热爱。&lt;br /&gt;b 站四个美食区 up 吉尔的小灯塔  杨光_建厨师  叔叔的临时生活安顿处 阿星探店，美食区的视频大致可以分为有猫和无猫，这四个有文科，有理科，有专业厨师也有美食爱好者，但是你都能感受到这几人对于美食的热爱，以及他们均属无猫。&lt;br /&gt;书籍 《当下的力量》人生的内在目的就是内在动机，就是你的共鸣，你跟什么有最强烈的共鸣，你人生的那一个大问题，就是你的内在目的，来源与你人生的大问题，让你对世界的某一部分产生强烈的共鸣，让你可以聚焦当下，以及对正在做的事情满怀热爱和热情。</description><pubDate>Sun, 31 Dec 2023 15:14:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004867#reply1</guid></item><item><title>[问与答] Obsidian 可以使用 Google drive 等方式同步吗</title><link>https://www.v2ex.com/t/1004866#reply1</link><description>最近有跨设备同步的需求，想问一下各位 obsidian 除了官方的同步服务外可以使用 Google drive 之类的同步服务来跨设备同步数据吗，或者说 obsidian 提供的同步服务好用吗。</description><pubDate>Sun, 31 Dec 2023 14:48:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004866#reply1</guid></item><item><title>[云修电脑] Windows 遇到一个奇怪的问题，部分软件需要等待精确的 15 秒才会启动。</title><link>https://www.v2ex.com/t/1004865#reply10</link><description>&lt;p&gt;部分软件，例如 Office 三件套、Steam 以及从 Steam 启动游戏，无论是在开始菜单里点击，或者是在 Explorer 里双击，还是在 shell 里启动，都需要等待精确的 15 秒才能启动。&lt;/p&gt;
+&lt;p&gt;而且在这 15 秒中内，打开其他软件也都没有响应，连任务管理器也不例外，15 秒钟后，这些软件会一起弹出来。但是已经打开的软件可以正常操作没有任何问题。&lt;/p&gt;
+&lt;p&gt;起初我以为是硬盘问题，但是先打开任务管理器再启动这些软件，查看任务管理器的性能页面，各项指标几乎没有任何波动，硬盘平均响应时间也是正常的几毫秒。&lt;/p&gt;
+&lt;p&gt;用 Process Monitor 记录了一下从开始启动到启动完成，如图所示：
+&lt;a href="https://img.butanediol.me/c8/6db35ac77ce834172718a740d32a0f4839dacc.png" rel="nofollow"&gt;https://img.butanediol.me/c8/6db35ac77ce834172718a740d32a0f4839dacc.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;系统版本 Windows 10 22H2 19045.3803&lt;/p&gt;
+&lt;p&gt;不知道万能的网友有没有什么头绪。&lt;/p&gt;</description><pubDate>Sun, 31 Dec 2023 14:43:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004865#reply10</guid></item><item><title>[分享创造] 分享一个自己做的项目， YouTube 的年度总结</title><link>https://www.v2ex.com/t/1004864#reply0</link><description>我搞了一个 YouTube 观看记录的年度报告，如果想要看看过去这一年看了啥的话，可以试试。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://youtube-history-report-c80c692ddefb.herokuapp.com/" rel="nofollow noopener" target="_blank"&gt;https://youtube-history-report-c80c692ddefb.herokuapp.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;要梯子。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1. 没有做很细致的测试，所以要是有 bug ，欢迎来告诉我！&lt;br /&gt;&lt;br /&gt;2. 因为 Google Takeout 给的数据有很多限制，所以有很多很有意义的数据我没法加入这个报告，比如观看时长，喜欢的视频类型之类的。Google 只给了看视频的 UTC ，在处理数据的时候，我只能根据用户浏览器所在的时区来校准时间，有些 analytics 对常旅客意义不是很大；&lt;br /&gt;&lt;br /&gt;3. 我没有建数据库，所以用户的年度总结我是看不到的，理论上只有用户自己可以看到，可以放心；&lt;br /&gt;&lt;br /&gt;4. 代码我放在 GitHub 上（ React + Flask ）（ &lt;a href="https://github.com/lawrenxe/youtube-front/）随时可以看，也欢迎" rel="nofollow noopener" target="_blank"&gt;https://github.com/lawrenxe/youtube-front/）随时可以看，也欢迎&lt;/a&gt; fork 出去。 （因为想找工作所以才做的这个项目，所以如果大家能多多 fork 和 star ，那我就可以写在简历了）。&lt;br /&gt;&lt;br /&gt;5. 做的第一个正儿八经的项目，有很多要进步的地方，欢迎大家指出！</description><pubDate>Sun, 31 Dec 2023 14:40:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1004864#reply0</guid></item></channel></rss>
