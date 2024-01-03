@@ -1,73 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 03 Jan 2024 02:01:20 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 究竟是什么导致了程序员工作越来越找？</title><link>https://www.v2ex.com/t/1005368#reply0</link><description>我发现这 2 年，程序员失业率有点高，失业后大多数都说面试很难，几乎没有面试。&lt;br /&gt;&lt;br /&gt;那么究竟是什么导致这样的问题？&lt;br /&gt;&lt;br /&gt;是我错过什么重大事件吗？&lt;br /&gt;&lt;br /&gt;还是因为大厂裁员导致的？&lt;br /&gt;&lt;br /&gt;还是人才过剩，适者生存的道理？</description><pubDate>Wed, 03 Jan 2024 01:54:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005368#reply0</guid></item><item><title>[iPhone] 14 16.6.1 成功上车巨魔 2</title><link>https://www.v2ex.com/t/1005367#reply0</link><description>&lt;p&gt;14 16.6.1 成功上车巨魔 2
-昨天试了好几次今天换了软件好了&lt;/p&gt;
-&lt;p&gt;我的安装步骤入下
-misaka-v8.0.5.ipa&lt;/p&gt;
-&lt;p&gt;2 ，全程开启魔法上网，打开 Misaka ，点击 Agree ，底部切换到 Packages ，点左下角四方形蓝色图标。&lt;/p&gt;
-&lt;p&gt;3 ，点击 install Trollstore ，等待 10 秒。（有时可能重启，那么需要重复这一步。） 如果出现一个弹框，那么就说明可以了&lt;/p&gt;
-&lt;p&gt;4, 点击 Tips Tips 、Books 任选）,有可能自动注销返回桌面，没有的话手动返回去桌面&lt;/p&gt;
-&lt;p&gt;5 ，打开桌面提示 APP ，点击 install TrollStore ，开始安装巨魔 2 (此处必须全局开启魔法上网)&lt;/p&gt;
-&lt;p&gt;会自动注销，然后你解锁进去就会看到巨魔了&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:50:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005367#reply0</guid></item><item><title>[健康] 还是土鸡蛋好吃🥚</title><link>https://www.v2ex.com/t/1005366#reply1</link><description>&lt;p&gt;超市里买的鸡蛋，煮熟了好硬，不好吃。&lt;/p&gt;
-&lt;p&gt;影响鸡蛋的口感的原因是啥呢&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:50:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005366#reply1</guid></item><item><title>[程序员] 求助：服务器内存占用异常高，但进程检查未发现大量占用，该如何解决？</title><link>https://www.v2ex.com/t/1005365#reply9</link><description>&lt;p&gt;最近遇到了一个 window 服务器内存占用的问题，有没有大佬懂的？？&lt;/p&gt;
-&lt;p&gt;环境：阿里云，Windows 服务器&lt;/p&gt;
-&lt;p&gt;之前是 16g 的内存，后面发现内存占用 90 多，好像不太够，升级到了 32g ，然后令人迷惑的事情就出现了，升级完之后还是 90 左右。&lt;/p&gt;
-&lt;p&gt;服务器就跑了一个 mysql 和几个 flask 服务，看后台进程的话感觉最多也就 10g 的占用，但是它显示将近 30g 的内存占用，工单已经提交过了，让我去用它的安全查杀功能扫一下，还得给钱，问题是还啥也扫不出来。&lt;/p&gt;
-&lt;p&gt;这是服务商资源分配的问题吗，感觉是升级完之后给了假资源，有没有懂哥懂的???&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:44:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005365#reply9</guid></item><item><title>[反馈] 我的账号出现了问题</title><link>https://www.v2ex.com/t/1005364#reply0</link><description>&lt;p&gt;我的账号 hankai17 用 126 邮箱注册的 V2EX 现在登录不了了
-v2ex 提示没有此账号&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:42:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005364#reply0</guid></item><item><title>[问与答] 同价位机械键盘和薄膜键盘该怎么选择？</title><link>https://www.v2ex.com/t/1005363#reply1</link><description>&lt;p&gt;不是游戏用户，写代码用的。100 以内，想买个键盘。是机械键盘还是薄膜键盘呢？有木有推荐的呢？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:41:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005363#reply1</guid></item><item><title>[宽带症候群] 上海电信的老哥们 dns over quic 还正常嘛</title><link>https://www.v2ex.com/t/1005362#reply0</link><description>&lt;p&gt;好像电信宽带的 nextdns QUIC 方式不能用了了&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:40:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005362#reply0</guid></item><item><title>[问与答] 鉴于选择困难症，这两款手机怎么选</title><link>https://www.v2ex.com/t/1005360#reply5</link><description>本人偶尔打打王者，拍照一般，主要用来日常使用，刷刷抖音&lt;br /&gt;1.iqoo neo9 pro 12+512G  pdd 3299&lt;br /&gt;2.三星 S23 8+256 pdd 3500&lt;br /&gt;&lt;br /&gt;纠结的点&lt;br /&gt;neo9 优点：配置拉满，缺点：没用过，不确定使用中会有什么缺点&lt;br /&gt;S23 优点:三星粉，旗舰机，缺点:屏幕小，8g 运存,续航和快充</description><pubDate>Wed, 03 Jan 2024 01:39:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005360#reply5</guid></item><item><title>[问与答] 大家有总结自己经验的习惯吗，会记在哪里呢？</title><link>https://www.v2ex.com/t/1005359#reply6</link><description>&lt;p&gt;比如读书笔记、知识框架，经验心得什么的，会记在什么地方呀，实体吗？还是什么 app ？&lt;/p&gt;
-&lt;p&gt;我听说有人学习就是把知识逐渐收编成自己的，可是应该也会忘记吧，会不会需要记下自己改编的知识，比如今天学习了 a ，把他收编到自己的 A 框架里面，然后这个体系成了自己的行为准则，思考方式&lt;/p&gt;
-&lt;p&gt;我比较恨没头没脑，随口想到什么就跳脱说出来的自己，所以想试试这种方式来学习&lt;/p&gt;
-&lt;p&gt;感觉备忘录只适合记住未来最近要做什么，或者随手记一下什么讨论重点
-实体如果是摘抄的话，以中学生而言就太多本了，而且抄一遍对我来说不会增加记忆&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:39:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005359#reply6</guid></item><item><title>[问与答] 有没有那种中间留一大片白或者中间一大片黑 然后两边有动漫人物的壁纸 不止动漫</title><link>https://www.v2ex.com/t/1005358#reply0</link><description></description><pubDate>Wed, 03 Jan 2024 01:33:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005358#reply0</guid></item><item><title>[游戏] cs2 帧数优化 平滑 + 输入延迟优化指南</title><link>https://www.v2ex.com/t/1005357#reply2</link><description>&lt;h2&gt;帧数稳定 part&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 03 Jan 2024 19:08:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Android] 长远来看真机改机、云机改机对抗风控，哪个更有优势</title><link>https://www.v2ex.com/t/1005651#reply0</link><description>改机对抗风控，如果从长远角度，云机和真机哪个综合优势更高呢？&lt;br /&gt;&lt;br /&gt;云机前期开发成本确实要高很多，硬件、驱动适配，更多指纹特征，配套工具研发。&lt;br /&gt;真机前期开发就比较方便，改完指纹，直接买设备刷机启动。&lt;br /&gt;&lt;br /&gt;但是云机在上量、管理上更具优势，&lt;br /&gt;真机上量和管理确实更麻烦更昂贵。</description><pubDate>Wed, 03 Jan 2024 18:24:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005651#reply0</guid></item><item><title>[问与答] 国外接短信用手机卡办理电信，联通还是移动？</title><link>https://www.v2ex.com/t/1005650#reply4</link><description>十几年没有回国，现在国内卡什么情况完全不清楚&lt;br /&gt;主要需求是便宜的保号卡要求欧洲能接短信验证码&lt;br /&gt;&lt;br /&gt;查了一圈首选是电信 5 元卡，不过又听说国外信号制式不太兼容什么的，应该不会不能接收验证码的或验证还要收费吧？有没有知情的大佬&lt;br /&gt;&lt;br /&gt;下个月回国一个月有没有什么套餐可以推荐&lt;br /&gt;想去办理个小流量套餐（ 20G 左右）然后出国前转为保号套餐&lt;br /&gt;&lt;br /&gt;电信官网 bot 说 4G 套餐已经停止办理，然后 5G 套餐要 129 起，这流量真有点贵</description><pubDate>Wed, 03 Jan 2024 18:06:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005650#reply4</guid></item><item><title>[问与答] 如何屏蔽 mac 系统强制弹窗</title><link>https://www.v2ex.com/t/1005649#reply0</link><description>如图： &lt;a href="https://i2.100024.xyz/2024/01/04/3btasx.webp" rel="nofollow noopener" target="_blank"&gt;https://i2.100024.xyz/2024/01/04/3btasx.webp&lt;/a&gt;&lt;br /&gt;公司电脑安装的监测软件，会一直强制弹窗，关掉后每隔半分钟弹一次，求大佬支招</description><pubDate>Wed, 03 Jan 2024 18:04:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005649#reply0</guid></item><item><title>[问与答] giffgaff 的电话号码不能申请 gmail 了吗？（2024.1）</title><link>https://www.v2ex.com/t/1005648#reply2</link><description>&lt;p&gt;已是 UK IP ，在验证电话号码时，提示"This phone number cannot be used for verification."
+是已经被 gmail block 了？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:47:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005648#reply2</guid></item><item><title>[问与答] 截止 2024 年 1 月 1 日，支持 Dolby Vision HDR 播放的移动设备有哪些？</title><link>https://www.v2ex.com/t/1005647#reply0</link><description>&lt;p&gt;前阵子下了套 DV P5 制作的电视剧，然后发现一直以来使用的 jellyfin 客户端组合出现了不兼容问题。长久以来推崇的客户端能够解码 99%的影片，DV P5 就是那 1%&lt;/p&gt;
+&lt;p&gt;我的手机是 iPhone14 PM ，经过测试 DV P5 的视频目前只有购买 infuse 才能够正常播放，其它所有的解码模式（ native player 、VLC kit 、MPV kit ）都没办法应付 DV P5 。&lt;/p&gt;
+&lt;p&gt;PC 端更是全军覆没，只能够触发 jellyfin server 强制转码。&lt;/p&gt;
+&lt;p&gt;我没有新的安卓手机，所以对现状不太了解，因此想来调查一下。&lt;/p&gt;
+&lt;p&gt;以能够正确解码、并以 HDR 回放 4K HEVC Dolby Vision Profile 5 为标准，当今能够完成这件事的设备有哪些？包括手机和平板电脑，iPhone 和 iPad 自哪代起，安卓那边又有哪些机器？&lt;/p&gt;
+&lt;p&gt;目前杜比官网似乎并没有给出明确的设备授权列表。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:30:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005647#reply0</guid></item><item><title>[问与答] 成本有限，哪里可以拿到 14pm256 的卡贴机</title><link>https://www.v2ex.com/t/1005645#reply1</link><description>&lt;p&gt;手持 5k,成本有限制，哪里可以拿到 14pm256 的卡贴机，
+留下联系方式我联系你。
+要求诚信可靠，机器全新的最好，可以选择系统，16.6 或者 16.6.1
+感谢&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:13:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005645#reply1</guid></item><item><title>[Apple TV] Apple tv 的旁路由功能仍然不稳定 以及对于 iPhone 真假后台问题的一点个人看法</title><link>https://www.v2ex.com/t/1005644#reply3</link><description>在上一个 tvos 17.1 版本，这个版本的 vpn 功能是有极其恶性的 bug 的，这一点包括我在内有多个 apple tv 用户已经互相印证过这个系统有问题。&lt;br /&gt;&lt;br /&gt;在这个版本如果一直休眠待机而不重新启动 apple tv 的话，整个 apple tv 的 vpn 功能都会瘫痪掉。&lt;br /&gt;&lt;br /&gt;具体体现是我打开 netflix 或者迪士尼流媒体后，发现连不上去，打开 surge 发现 surge 自动关闭了，当我打开 surge 的时候，弹出来弹窗说 surge 发生了严重错误，让我重置 vpn 功能，重置后仍然是没有任何作用，该怎么弹窗还是怎么弹。&lt;br /&gt;&lt;br /&gt;我换了个 quanx 用，虽然没有弹窗，但是 vpn 仍然是连接不上的，国外流媒体都是看不了的，但 atv 国内网不受影响。&lt;br /&gt;&lt;br /&gt;重启 apple tv 后 quanx 的问题得到了解决，但 surge 仍然报错。&lt;br /&gt;&lt;br /&gt;外部设备的体现是，当我用电脑连接上 apple tv 旁路由的网关后，我整个路由器都会直接断网，手机都会连不进去。这样的情况我反复测试了三四次都是如此，只有把主路由重启网络才会恢复，我断定是 apple tv 的问题。&lt;br /&gt;&lt;br /&gt;------------------------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt;升级到 tvos17.2 以后，上面的问题基本都得到了解决，surge 也没有再报错，也不会有电脑连上旁路由网关就直接全家断网的情况。&lt;br /&gt;&lt;br /&gt;但是今晚我发现一个新的 bug 在。&lt;br /&gt;&lt;br /&gt;元旦期间我是回老家了，电源并没有断。也就是说又是一段很长时间没有重启 apple tv 。&lt;br /&gt;前几天晚上都比较忙，没有用电脑连 atv 的旁路由网关出去，今晚试了一下，发现连接上 atv 的网关后油管一直是断线。我打开检查了一下 atv 的代理，发现无论是 surge 还是 quanx 都是正常的代理，访问 netflix 等流媒体没有任何问题，并分别用这两个 app 测试了下电脑连接均连接不上，说明与 atv 的代理软件无关。&lt;br /&gt;&lt;br /&gt;我用迅游重置了一下电脑的网络，重启电脑后仍然是连接不上旁路由网关。&lt;br /&gt;&lt;br /&gt;我就在 atv 设置里将 atv 重新启动了一下，所有问题都得到了解决。 电脑可以正常访问油管 ph 等国外网站了。&lt;br /&gt;&lt;br /&gt;这说明 apple tv 的 vpn 功能其实仍然存在 bug ，atv 长时间不关机不重启仍然会导致 vpn 的 bug 存在，不过这 bug 的性质就比上一个系统版本的恶劣 bug 好的太多。&lt;br /&gt;&lt;br /&gt;不知道能不能设置 apple tv 定期重启功能，一直有博主 up 主测评说这 atv 可以关闭休眠，一直开机，这应该是一个误区哈。&lt;br /&gt;&lt;br /&gt;------------------------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt;跟现在所谓的科技博主宣称的 iphone 的后台是假后台，这是没有啥依据的伪科学哈。作为新机，处理器强，内存也大，不杀后台对系统流畅度的影响可以说是微乎其微，拿新机测试真假后台是没有任何意义的，是不是假后台得用老旧机器来对比测试。&lt;br /&gt;&lt;br /&gt;我手上的小 7 在开了多个后台以后，机能会明显下降，打开 app 或者呼出后台会明显有卡顿的感觉，杀完后台后就又流畅了起来。&lt;br /&gt;&lt;br /&gt;而我现在主力机 13p 连开 15 个后台用了一天都没有明显感知性能下降，甚至都没有感受到滑动帧率波动，唯一感知明显的是耗电量明显增加，以往正常后台数量，至少中午吃饭之前还有 70%电量，测试当天中午饭只剩 50%，电量差距过大也基本排除个人使用频率差异。&lt;br /&gt;&lt;br /&gt;这其实更加印证了 iPhone 的后台不是假后台。</description><pubDate>Wed, 03 Jan 2024 16:12:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005644#reply3</guid></item><item><title>[硬件] 翻译机是种怎样的体验？</title><link>https://www.v2ex.com/t/1005641#reply5</link><description>&lt;p&gt;春节后想出国旅游，因英语水平实在太烂，想买个翻译机
+有没有这方面羯这方面经验的朋友，麻烦帮忙推荐推荐哪种方式用的更舒服哪个牌子或型号的用着更顺一些？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:55:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005641#reply5</guid></item><item><title>[分享发现] 突如其来的一个 idea，想建一个 iOS 的共享相簿，大家每周上传一张自己本周用手机拍得最满意的照片就好</title><link>https://www.v2ex.com/t/1005640#reply4</link><description>大家每周上传一张自己本周用手机拍得最满意的照片就好。&lt;br /&gt;&lt;br /&gt;就一张，可以少，不能多。&lt;br /&gt;&lt;br /&gt;有兴趣的朋友可以留下 Apple 账号我发送邀请。</description><pubDate>Wed, 03 Jan 2024 15:51:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005640#reply4</guid></item><item><title>[分享创造] 做了一个自动总结股票评论的网站,可以快速了解一只股票的态势</title><link>https://www.v2ex.com/t/1005639#reply1</link><description>&lt;h2&gt; 引子 &lt;/h2&gt;
+作为一根佛系的大 A 韭菜，我买了四五只股票，但平时 996 没空关心股票的动向，只有到了周末会打开雪球翻一翻。一只比较热门的股票在雪球上每周能积攒七八百条讨论贴，而且里面很大部分是些莫名其妙的吹牛和情绪宣泄，真正有参考价值的帖子大概就占十分之一。我看一条帖子至少要 5 秒，如果要把帖子都翻完，每只股票要翻一个小时，对于我宝贵的周末时间来说这个成本是不可接受的，所以我经常是草草翻一遍了事，很难抓到一些有效信息。
+&lt;p&gt;某天股票突然涨了几个点，我考虑要不要套现离场，这种重大决策值得我去好好翻一遍近段时间的帖子，看看其他人都在说什么，于是我花一两小时翻完了这支股票和关联股票的帖子，有价值的帖子或许有一两百条，但里面看多和看空的都有，双方对比不算悬殊，大概是 4：6 ，也可能是 6：4 ？我也没仔细点过，而且两边听起来都有点道理。结果我这一两个小时基本是白花了。&lt;/p&gt;
+&lt;h2&gt; 正文 &lt;/h2&gt;
+&lt;p&gt;上面写的就是我这个网站的 user story,也是我个人的亲身经历,为了解决这个需求，我开发了&lt;strong&gt;后湖&lt;/strong&gt;这个网站。&lt;/p&gt;
+&lt;p&gt;后湖 &lt;a href="https://www.houhu.info" rel="nofollow"&gt;https://www.houhu.info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;总的来说，后湖会在各类财经平台上抓取评论贴，然后使用大模型对帖子进行分类过滤。首先会过滤掉没营养的帖子，然后对言之有物的帖子进行看多/看空的情绪判断，最后会归纳这些帖子的观点依据，比如是因为财务的原因还是产品的原因。这样用户能快速感知到这只股票近期的态势，是看涨的人多还是看空的人多，看涨里面又是因为什么原因看涨，不会再出现 user story 里狂翻两个小时什么结论也得不出的情况。&lt;/p&gt;
+&lt;p&gt;现在主要的功能有三块：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;雷达图&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;把帖子观点按照利好利空以及话题种类做了分类，这样能直观体现市场关注点。统计结果（不同话题下观点的数量）用雷达图做可视化对比，以这张图为例，可以看出普遍认为该公司的产品有优势，而利润营收（财务状况）不容乐观。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="radar_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/radar_plot_new.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;观点一览&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果想看具体的观点，这里会提供每个观点的摘要（ AI 生成）和原文链接，同时提供了发布时间与各种话题的分类筛选。
+&lt;img alt="post_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/post_new.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情绪走势&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最后是近段时间的情绪指数统计，同时在最下方提供了股价走势 K 线的对比，中间一排是计算情绪指数用到的样本量，样本量越高指数越可信，如果样本量不足 10 条，则当天的情绪指数可能参考价值不大。
+&lt;img alt="sentiment_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/sentiment_new2.png" /&gt;&lt;/p&gt;
+&lt;h2&gt; 尾声 &lt;/h2&gt;
+&lt;p&gt;后湖是个业余项目，现在还有许多的待优化点，欢迎大家吐槽批评，如果对网站的更多细节感兴趣，可以去网站&lt;a href="https://www.houhu.info" rel="nofollow"&gt;https://www.houhu.info&lt;/a&gt;首页添加公众号，里面有比较详细的功能更新日志和说明。&lt;/p&gt;
+&lt;p&gt;大概一个多月前，我在即刻上小小的宣传了一下网站，也收到了不少点赞转发，但到今天为止，依然没有多少留存的用户。我思考了一下，可能的原因有下面几点，不知道各位试用过程中有没有遇到：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;使用 NVCleanstall 精简显卡驱动（看 netflix 的记得别把 hdcp 精简了）&lt;/li&gt;
-&lt;li&gt;游戏开启-threads 启动项，参数为核心数+1 （非线程数，异构 cpu 需算上小核。原因未知，但默认情况下 threads 线程池游戏里显示的是核心数，所以沿用核心数）&lt;/li&gt;
-&lt;li&gt;使用 Process Lasso 对 cs2.exe ，cpu 亲和性和 cpu 集合，解绑 e 核心（不关超线程）&lt;/li&gt;
-&lt;li&gt;游戏画质选项，阴影拉低，抗锯齿 4 倍、异性过滤 x16 ，其余拉低，手动开启 setting.lb_enable_shadow_casting （个人喜欢的设置，仅供参考）&lt;/li&gt;
-&lt;li&gt;定频定压超频，小核及 ring 频也定频，cs 想要减少卡顿并降低输入延迟，定频是很必要的（理论上就连显卡频率曲线也应该尽可能一条直线，但是这种方式过于极端我也没有采用）个人自用参数，126kf 大核 5.1ghz ，小核及 ring 4.1ghz ，电压 1.31v ，防掉压 mode3&lt;/li&gt;
-&lt;li&gt;bios 关闭 cpu 虚拟化及直通技术、关闭 immo 分组&lt;/li&gt;
-&lt;li&gt;如果 amd 芯片组，bios 开启 hpet （ intel 芯片组在 bios 一般不用操作）系统内 powershell 管理员运行两条指令
-&lt;code&gt;bcdedit /deletevalue useplatformclock&lt;/code&gt;
-&lt;code&gt;bcdedit /deletevalue useplatformtick&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;使用 RTSS Rivatuner Statistics Serve 对游戏锁帧（ msi afterburner 安装的时候，默认勾选同时安装 rtss ），不用锁最低帧，锁刷新率倍数，如 144hz 可锁 432 ，240hz 可以锁 480 ，此方式可超大幅度提升 1%low 和 0.1%low 帧，游戏内 fps_max 0 （游戏内锁帧对 low 帧没有任何好处）&lt;br /&gt;p.s. 第 8 点优化，理论上 rtss 锁帧会带来 1 帧的延迟，锁帧的数字越高，则越没有差异，如 240hz 显示器锁 480 帧，理论上会带来 2ms 左右的延迟，但比起 1%low 帧的巨大提升（我是从 60 的 low 帧提升到 190 ，测试不算严谨但肉眼可见的有用），收益巨大。使用 rtss 锁帧需要在 cs2 启动项加入指令“-allow_third_party_software”，v 社官方回应 cs2 一般不会降低受信评分（受信是个综合考量，这个选项的影响可以忽略不计）此项唯一不足是最高只能锁 480hz 。如我的显示器最高可以 280hz ，但无法锁定为 560hz ，为了 rtss 锁帧的丝滑感让显示器运行在 240hz&lt;/li&gt;
-&lt;li&gt;如果和我一样用 4:3 拉伸，n 卡控制面板，gpu 拉伸到全屏、勾选覆盖（有争议，理论上不选 gpu 而选显示，是延迟更低的方案，个人目前用 gpu+勾选覆盖方案）&lt;/li&gt;
+&lt;li&gt;没有覆盖到用户感兴趣的股票（当前因为成本原因只覆盖了热门的 50 多支，有需求可以留言）&lt;/li&gt;
+&lt;li&gt;觉得 AI 的总结和分类不靠谱&lt;/li&gt;
+&lt;li&gt;访问不方便（手机版页面适配不佳，网页打开速度太慢等）&lt;/li&gt;
+&lt;li&gt;平时不看社交平台的股票评论，不够可靠&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;输入延迟优化 part （慎用！！务必提前做好注册表备份）&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;计算机\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl ，Win32PrioritySeparation 数值设置为 10 进制 40&lt;/li&gt;
-&lt;li&gt;计算机\HKEY_CURRENT_USER\Control Panel\Mouse ，MouseSpeed 数值设置为-（此项有争议，建议其他设置搞完单独测试此项对手感的影响）&lt;/li&gt;
-&lt;li&gt;计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kbdclass\Parameters ，KeyboardDataQueueSize 设置为 6 （可能无法正常使用，进安全模式拉高重启）&lt;/li&gt;
-&lt;li&gt;计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\mouclass\Parameters ，MouseDataQueueSize 设置为十进制 16 （同上）&lt;/li&gt;
-&lt;li&gt;开启 nvidia reflex （我是打开 boost 档的）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;争议设置说明&lt;/h2&gt;
+&lt;p&gt;如果有，请留言告诉我，对我下一步的优化非常重要，万分感谢！&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005639#reply1</guid></item><item><title>[问与答] 为什么我播放视频用硬件解码的时候只有声音没画面</title><link>https://www.v2ex.com/t/1005638#reply5</link><description>&lt;p&gt;显卡是 780M ，AMD 的集显，驱动也是最新的，无论是 potplayer 还是 vlc 都不行&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:32:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005638#reply5</guid></item><item><title>[Linux] shc 对 arm 设备不兼容，如何解决？</title><link>https://www.v2ex.com/t/1005637#reply3</link><description>一句话描述：通过 shc 和交叉编译链把脚本编译为可执行文件，在 arm 设备不能正常运行&lt;br /&gt;&lt;br /&gt;楼主想要：解决这个问题，或者有其他的把 sh 脚本加密成二进制或其它方式可以在 arm 设备运行的方法&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://楼主写了一个.sh" rel="nofollow noopener" target="_blank"&gt;楼主写了一个.sh&lt;/a&gt; 脚本文件在某 arm 设备运行正常，需要共享出去使用，但涉及设备的某些私有接口因此需要加密，使用 shc 加密为.c 格式文件，在 x86 电脑使用交叉编译链编译为 arm 平台的可执行文件，在 arm 设备运行提示：./xxxx: ▒▒▒AP▒h▒▒▒4F▒kK▒,▒&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;为了验证是交叉编译链的问题，还是脚本的问题，或者又是 shc 这个工具对 ARM 平台的兼容问题，做了以下验证：&lt;br /&gt;&lt;br /&gt;1 ，写了一个最简易的 c 文件，只包含显示 hello world 。在 x86 电脑直接使用 gcc 编译，在 x86 设备可以正常运行；在 x86 电脑交叉编译后，在 arm 设备也可以正常运行；————说明交叉编译链没问题&lt;br /&gt;&lt;br /&gt;2 ，写了一个最简易的脚本 &lt;a href="http://testsh.sh" rel="nofollow noopener" target="_blank"&gt;testsh.sh&lt;/a&gt; ，只包含显示 hello world ，使用 shc 加密为.c 文件和编译，在 x86 设备可以正常运行；使用交叉编译链编译.c 文件，在 arm 设备运行会报错：./testsh: Ʈ▒▒{▒▒-▒0M:1▒t(————说明脚本也没问题，是 shc 对 ARM 平台的兼容问题</description><pubDate>Wed, 03 Jan 2024 15:26:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005637#reply3</guid></item><item><title>[分享发现] 一个发现最近热门 Github 项目的网站</title><link>https://www.v2ex.com/t/1005636#reply0</link><description>&lt;p&gt;仓库：&lt;a href="https://github.com/yanggggjie/rising-repo" rel="nofollow"&gt;yanggggjie/rising-repo&lt;/a&gt;
+网站： &lt;a href="https://rising-repo.vercel.app/" rel="nofollow"&gt;https://rising-repo.vercel.app/&lt;/a&gt;
+按最近新增 star 数量排名，可选择特定语言&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005636#reply0</guid></item><item><title>[分享发现] 源于 iPhone 自带计算器没历史记录，不能看自己输入过程等吐槽点</title><link>https://www.v2ex.com/t/1005634#reply1</link><description>&lt;h5&gt;&lt;strong&gt;前因&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;在平时需要记账、或者计算，使用 iPhone 自带的计算器时候，总是会有这个想法蹦出来：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;追球输入延迟有必要吗？
-对大部分玩家来说，几乎没有，上面有的注册表项也属于玄学范畴，帧数稳定体感更明显&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;异构 cpu bios 内不作操作，系统内通过 Process Lasso 对游戏进程解绑 e 核心，保持超线程开启的方案是怎么得出的
-尝试了 bios 关闭超线程+关闭 e 核心、bios 开启超线程+关闭 e 核心、默认等多种组合，目前在我自己的机器上这样是最优的&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;n 卡控制面板怎么优化
-可以参考别人的设置，我个人建议开启由 3d 程序决定即可&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;我刚刚输入了什么东西，数字对不对，输入到哪里了&lt;/li&gt;
+&lt;li&gt;我上一个输入的结果是多少，我忘了&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;b&gt;所有以上设置，均可能未必适合每个人，毁机毁手感变菜 b 贴主均不负责，务必做好备份！做好备份！做好备份！（尤其注册表）&lt;/b&gt;&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:32:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005357#reply2</guid></item><item><title>[问与答] 发工资都给女友，现在分手了女友不想还钱怎么办？</title><link>https://www.v2ex.com/t/1005356#reply76</link><description>一共二十二万，有转账记录，但是没有任何借条之类的备注。&lt;br /&gt;恋爱谈了五年，我是广东潮汕人，女友是江苏人，她一直担心以后结婚受欺负，22 年初的时候我开始把工资都放她那里，想让她安心，从婚前开始就给她管账。一直持续到 23 年初一次吵架之后就不再转给她了，13 个月一共转了 22 万。&lt;br /&gt;&lt;br /&gt;现在分手了，女友不想还钱，理由是她觉得我赚钱比她赚钱容易，22 万不过是我一年的收入，但是对她来说是很重要的保障。</description><pubDate>Wed, 03 Jan 2024 01:30:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005356#reply76</guid></item><item><title>[职场话题] 新年第一天，同事被裁了，他却很开心</title><link>https://www.v2ex.com/t/1005355#reply13</link><description>&lt;h2&gt;公司摆烂&lt;/h2&gt;
-&lt;p&gt;坐标南京，总公司在北京，军工私企，前年（ 2022 ）年中创业板上市。年终绩效面谈的时候主管说有年终奖，个人绩效还挺高，具体多少不知。真到了该发的时候却发不出来，问组长说不知道，问分公司说北京统一不发的，在往上就问不到人了，心想可能是上市第一年做财报，来年 7 月发，因为以前也是拆分两次发，今年延迟到来年七月，表示理解。&lt;/p&gt;
-&lt;h2&gt;业务摆烂&lt;/h2&gt;
-&lt;p&gt;去年年初，公司投标违规，被罚，然后找人解决恢复，一直解决到年中，期间一直没有什么业务做，还有一部分是五年计划中，规划时期属于淡季，然后在自我内卷一些所谓“从项目沉淀下来的产品”的 KPI 项目，连个产品经理都没有，一线开发直接找副总级的人对需求，而且也不落地需求文档，天天就是口头对接，想一出是一出。七月预期的去年年终奖也没发。年中尝试跳出去，面了几家都不是很理想。所幸原本做项目要出差现在在公司上班，双休，不加班，浑浑噩噩一年过去了。&lt;/p&gt;
-&lt;h2&gt;年底又被罚&lt;/h2&gt;
-&lt;p&gt;去年年底，公司又投标违规，被军工采购站处罚禁止投标，以前稍微能分包做一点的项目现在也少的可怜，总公司那边直接发公告，公积金比例从 12%降到 8%，开始明面上缩紧裤腰带形式了。&lt;/p&gt;
-&lt;h2&gt;年初裁员&lt;/h2&gt;
-&lt;p&gt;昨天一上班，HR 就开始找人面谈裁员，我对面还有隔壁的两个 java 直接被通知 N+1 了，在公司待了 4-5 年，到手也有五六个月的赔偿，房贷也够过渡了。进去一个个装着愁眉苦脸，出来一个个喜笑颜开。&lt;/p&gt;
-&lt;h2&gt;羡慕&lt;/h2&gt;
-&lt;p&gt;据说没被裁的听说还要降薪，年终依旧没有年终奖，工作也都在内耗。一笔笔遣散费，遣散的基本都是等等看今年有没有年终奖，没有就主动离职的人。真是天黑有灯，下雨有伞。&lt;/p&gt;
-&lt;p&gt;没被裁的人，破局点在哪？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:29:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005355#reply13</guid></item><item><title>[问与答] 对于房屋噪音，有什么好的解决方法？</title><link>https://www.v2ex.com/t/1005352#reply11</link><description>&lt;p&gt;自家里的房子，老婆怀孕晚期，被隔壁房子的住户每天吵的没办法休息，血压变高。
-那种声音是光着脚走路的声音，每天晚上 10 点-凌晨 1 点多，时不时的响个 10 分钟。隔壁住的是 70 多岁的老人，早上 5 点半起来洗衣服，洗衣机又是那种很垃圾的洗衣机，每次甩干的声音也是闷闷的震动声音。
-又找过他们，让他们注意，并没有什么软用。
-有没有比较好的办法隔绝这个声音，或者其他解决办法？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:12:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005352#reply11</guid></item><item><title>[OpenWrt] openclash 问题求助</title><link>https://www.v2ex.com/t/1005351#reply0</link><description>&lt;p&gt;背景：h69k cpe 和宽带一起双 wan 聚合到锐捷路由器上&lt;/p&gt;
-&lt;p&gt;h69k 挂着 openclash ，要怎么设置才能使锐捷路由器的 wifi 能科学上网&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:09:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005351#reply0</guid></item><item><title>[分享创造] PageSpy · 2023 年度回顾</title><link>https://www.v2ex.com/t/1005350#reply5</link><description>&lt;p&gt;&lt;img alt="总结" class="embedded_image" rel="noreferrer" src="https://static.huolala.cn/image/11d4b9fe19fea1b05f0bd81a5aa0c48047766770.jpg?x-oss-process=image/resize,w_400" /&gt;&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:09:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005350#reply5</guid></item><item><title>[Apple] Macbook 密码正确却无法登录？恢复模式却能登录，最后只能 resetpassword</title><link>https://www.v2ex.com/t/1005349#reply3</link><description>&lt;p&gt;Macbook 密码正确却无法登录？恢复模式却能登录，最后只能 resetpassword
-14.2.1 (23C71)&lt;/p&gt;
-&lt;p&gt;莫名其妙&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 01:05:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005349#reply3</guid></item><item><title>[问与答] 帮朋友求一款 Windows 软件</title><link>https://www.v2ex.com/t/1005348#reply11</link><description>- 她的需求是“一装上电脑就崩溃了”🤣</description><pubDate>Wed, 03 Jan 2024 01:04:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005348#reply11</guid></item><item><title>[深圳] 有四号线平时刷 NFC 的吗，感觉特别难用</title><link>https://www.v2ex.com/t/1005347#reply2</link><description>经常是要刷五六次才能识别，要么就是闸机根本识别不出来&lt;br /&gt;&lt;br /&gt;在广州就很好用</description><pubDate>Wed, 03 Jan 2024 01:04:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005347#reply2</guid></item><item><title>[问与答] 各位， 2024 年有啥准备购入的数码产品吗</title><link>https://www.v2ex.com/t/1005346#reply32</link><description>2023 年，我升级了 iPhone ，Apple watch ，购入了 oled 电视；&lt;br /&gt;2024 年准备再升级一下显示器，换成 miniled 或者 oled 的，其他类目基本没有需求了。&lt;br /&gt;各位今年有啥准备买的呢，分享一下吧。</description><pubDate>Wed, 03 Jan 2024 01:04:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005346#reply32</guid></item></channel></rss>
+&lt;p&gt;😫😫😫 遂之查找了有没能符合我的要求的 app 。 可惜不是需要付费，就是有广告，或者洁面不符合我的审美。&lt;/p&gt;
+&lt;h5&gt;结果&lt;/h5&gt;
+&lt;p&gt;那就自己动手吧，打造自己喜欢的产品，想要什么功能都可以。它来了🪸🪸🪸，目前主要功能如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;计算时候可以查看完整的输入过程&lt;/li&gt;
+&lt;li&gt;历史记录保存&lt;/li&gt;
+&lt;li&gt;免费、无广告&lt;/li&gt;
+&lt;li&gt;兼容 iPad 、iPhone 、Mac 、iPod touch&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;后期还会继续完善
+&lt;a href="https://apps.apple.com/us/app/easily-calc/id6474380761" rel="nofollow"&gt;https://apps.apple.com/us/app/easily-calc/id6474380761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="推广" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Caffe-del/image_bed/master/uPic/%E6%8E%A8%E5%B9%BF.png?token=ADY7YVMFIHZVKOWJWKJHJHDFSVZIE" /&gt;&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:04:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005634#reply1</guid></item><item><title>[问与答] 专科生有点小迷茫，想寻求点建议~</title><link>https://www.v2ex.com/t/1005632#reply6</link><description>&lt;p&gt;在南京上大专，今年 6 月份毕业，目前在就业和升本之间产生了一些想法，当然我也知道统招升本是绝对有必要的，但是也想了解一些除此之外其他真实的状况，所以劳烦 V 社前辈们或者过来人给些建议。&lt;/p&gt;
+&lt;p&gt;专业是软件技术，大二小分流的时候选了&lt;strong&gt;后端开发方&lt;/strong&gt;向(另一个是前端方向的)，大学期间学的东西和大家一样，大部分都是靠自己学的。&lt;/p&gt;
+&lt;p&gt;现在也就会市面上 Java 开发的常用主流技术和框架，以及在其余时间学了计算机基础的课程，但因为当时学的时候一些前置知识的欠缺，就没做什么 Lab ，缺少实践，所以有些内容理解的并不到位，但打算后面找个时间老实啃一下。&lt;/p&gt;
+&lt;h1&gt;关于转本的想法&lt;/h1&gt;
+&lt;p&gt;这个专转本是统招的，上的是全日制本科，但是统招只有一次机会。&lt;/p&gt;
+&lt;p&gt;大一的时候，我打算先学好一些基本的技术，然后等大二结束后的暑假开始再去准备专升本的备考，想着这样能学好基本的吃饭技能，如果最后升本不顺利的话，还有技术可以保障自己去市场就业，并且那时候可能也是刚高考完，所以对升本的执念还是比较深的。&lt;/p&gt;
+&lt;p&gt;江苏专科生也不少，升本的学生多，尤其是计算机类，到我这届是转本改革的第二年，比较重要改变的就是英语考试不考了，英语成绩直接改成取大学期间四级最高成绩，然后按照 17%折算。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;升本总分为：500 分 = 120(英语) + 230(计算机理论+实操) + 150(高数)。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;计算机类&lt;/strong&gt;可选学校的数据(2023 年)：&lt;strong&gt;最后一列是录取分数&lt;/strong&gt;，对于专业的话，我基本上肯定是首选软件工程，其次是计算机科学与技术。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://poluk-1251947815.cos.ap-nanjing.myqcloud.com/img/202401032212475.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其实总体来说，&lt;strong&gt;340-370 之间是民办本科&lt;/strong&gt;，&lt;strong&gt;只有 420 以上才有可能上个公办本科&lt;/strong&gt;，但是这些校区不一定是本校区，可能是其他小一点的校区，基本上研究生或者升本的同学在那边上课，可能面临交通什么的不方便。最主要的是分挺高的，而且招生人数有限。&lt;/p&gt;
+&lt;p&gt;对于我现在的状态，公办本科暂时没有信心。之前也就想着保底能上民办本科我也想愿意花钱上，毕竟只有两年，就是想要个本科毕业证，想拿个找工作的敲门砖。&lt;/p&gt;
+&lt;p&gt;但是现在看来，我在牛客上看到很多本科找工作都感觉很难，而且卷。对于我这个民办，又是专升本上来的学生像是从这个泥潭里跳进了另一个泥潭里，升本之后继续读两年，其实也不奢求学校能教什么，但这两年我感觉就是浪费时间，就为了拿一个本科证，然后期间还会在学校里继续迷茫，就像现在一样，时不时迷茫一下，焦虑一下。&lt;/p&gt;
+&lt;p&gt;其实如果不是有学历门槛，我现在真的倒是挺想工作的，这样也能直接接触真实生产环境了。我更担心两年上出来，工作机会更少了。&lt;/p&gt;
+&lt;p&gt;我还是比较喜欢计算机技术的，我有自驱力去学，我也想学多的东西来让自己为一名较为合格的开发者。虽然现实的行情确实没办法收纳更多的开发者了，但是换行我还真没想过自己能做什么了，感觉普通人好难...&lt;/p&gt;
+&lt;p&gt;我本着打算备考到 3 月底考试，考完就差不多去准备招聘的八股文+投简历，想看看有没有机会。但是由于这些想法一直缠绕着，我备考的状态也并不是特别好，其实我更愿意花时间去学技术，与其这三个月备考一个未知结果的考试，我更想把这三个月用来去再提点技术，好为 3,4 月投简历准备。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:01:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005632#reply6</guid></item><item><title>[问与答] 第一次去女朋友家送什么比较好</title><link>https://www.v2ex.com/t/1005631#reply2</link><description>&lt;p&gt;跟女朋友在一起小半年了，最近要去他们家认个门，不算订婚那种，就是见一下她父母。之前她也去过我们家了，就是当朋友一样带回家。她带的茶叶和燕窝去的我们家。
+想问下老哥们，第一次去女朋友家都是带什么去的。她家还有两个侄女高中，一个小学侄儿，是否要带点礼物呢。
+我是准备了茶叶、两瓶酒、一盒阿胶、一盒燕窝（这四样基本均价都在一千左右）、两条华子，再拿点水果牛奶。犹豫第一次去，也不算订婚，是否是太多了。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 14:56:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005631#reply2</guid></item><item><title>[问与答] 有老哥用过闲鱼买的平安保险配的凹凸租车券吗</title><link>https://www.v2ex.com/t/1005630#reply0</link><description>还有一个月快过年了，想着租个车回家，这样回家到处去比较方便，在闲鱼搜了下看到有个 790 块 5 张两天租车券的一共十天，卖家说是可以分开使用也可以一次都用起来，一次用的话跟客服说，想了下这样好像挺划算的，然后买了，卖家会先帮我激活一份平安保险，然后平安保险 app 内 7 天内到账 5 张两天租车券；用的时候得每一张都得交租车押金和违章押金一共 2000 一单，假如我春节想一次性用 5 张得付 5 次押金 1 个 w ，看了下确实是平安的保险，租车的公司是凹凸租车，有老哥用过吗，应该不会不退押金吧，因为之前租车都是用的芝麻信用免押的，还没试过这种租车的&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/BOiCjKG.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/BOiCjKG.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;附上闲鱼的链接 &lt;a href="https://m.tb.cn/h.5oLyzLr?tk=H8EMW6Lqzua" rel="nofollow noopener" target="_blank"&gt;https://m.tb.cn/h.5oLyzLr?tk=H8EMW6Lqzua&lt;/a&gt;</description><pubDate>Wed, 03 Jan 2024 14:56:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005630#reply0</guid></item><item><title>[小米] 小米+联发科每次网上都是一片吐槽</title><link>https://www.v2ex.com/t/1005629#reply1</link><description>到底是小米的锅还是联发科的问题。&lt;br /&gt;&lt;br /&gt;有手机厂商联发科用的舒服的么？</description><pubDate>Wed, 03 Jan 2024 14:42:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005629#reply1</guid></item><item><title>[咖啡] 德龙 9865M</title><link>https://www.v2ex.com/t/1005627#reply0</link><description>&lt;p&gt;想买咖啡机，看中这款带新的冷翠功能
+不过为啥德龙贴吧都是这么修机器的帖子
+有推荐的入手渠道不&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 14:13:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005627#reply0</guid></item><item><title>[宽带症候群] 搞了台电信 V173 猫（FTTR 设备）注册后桥接速度慢的一批</title><link>https://www.v2ex.com/t/1005626#reply0</link><description>没搞明白什么原因啊… 有懂的吗？</description><pubDate>Wed, 03 Jan 2024 14:05:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005626#reply0</guid></item></channel></rss>
