@@ -1,65 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 04 Jan 2024 01:34:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 普通血压计变成动态血压计</title><link>https://www.v2ex.com/t/1005679#reply0</link><description>医院做个动态血压也要 200 左右，家里有个欧姆龙的普通家用血压计，有数据上传手机功能，我在想如何把它变成定时自动触发按钮，只需要塞了电池，袖套带好，机器背身上，间隔半小时自动按一次，如何实现这个定时按压按钮功能😂，网上看了下有些类似的，但是不太合适血压计斜坡式的按扭</description><pubDate>Thu, 04 Jan 2024 01:33:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005679#reply0</guid></item><item><title>[云计算] 阿里云训练营活动,学 mysql 送价值 200 元奖励,限前 2000 名</title><link>https://www.v2ex.com/t/1005678#reply0</link><description>&lt;p&gt;拿奖励需要购买一个 54 左右的 mysql 实例并完成任务&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://edu.aliyun.com/learning/topic/RDS-Serverless-buy?clubTaskBiz=subTask..10998022..10188..&amp;amp;share_source=copy_link" rel="nofollow"&gt;活动链接,需要使用主账号登录&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[限首购用户]  100 元电话卡+定制办公礼盒（价值 200 元）
-[限首购用户] 前 2000 名完成阶段二的： [任务 1-产品开通] 、 [任务 2-动手实验] 、 [任务 3-动手实验] ，可获得价值 200 元的冬日暖心礼盒：100 元电话充值卡+定制办公礼（保温杯、笔记本、签字笔），任务 1 开通的产品 7 天到期自动会释放，鼓励根据学习内容多进行产品体验实践，若用户提前手动释放，则视为放弃领奖资格（入群填写信息，活动结束后统一发放）&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:32:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005678#reply0</guid></item><item><title>[程序员] sipjs 0.21.2，怎么实现来电接听？</title><link>https://www.v2ex.com/t/1005674#reply1</link><description>现在用 sipjs+freeswitch 能把电话呼出去，但不知道电话来的时候怎么接听，sipjs 文档上接听电话只有简单几句，用了还没实现，求助各位大佬</description><pubDate>Thu, 04 Jan 2024 01:29:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005674#reply1</guid></item><item><title>[程序员] 纪念币现在特别火吗？昨晚上干脆不能顺利打开农业银行的页面</title><link>https://www.v2ex.com/t/1005673#reply1</link><description></description><pubDate>Thu, 04 Jan 2024 01:24:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005673#reply1</guid></item><item><title>[Apple] 有感于一个帖子好些老哥说 2024 年想买 Vision Pro，打算建一个群，有兴趣的组队去美国～</title><link>https://www.v2ex.com/t/1005671#reply4</link><description>&lt;p&gt;看到一个帖子说 2024 年想买的数码产品，好些老哥说 Vision Pro ，自己也有这计划，但一个人去总是孤单了点，所以想着建一个群，志同道合的一起去～
-想看看有多少人有兴趣～&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005671#reply4</guid></item><item><title>[macOS] 问下大家 m1pro 哪一个系统适合养老</title><link>https://www.v2ex.com/t/1005670#reply7</link><description>&lt;p&gt;目前系统 ventura13.0&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:20:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005670#reply7</guid></item><item><title>[问与答] 视频缩放时画面看起来很花，全屏显示却是正常</title><link>https://www.v2ex.com/t/1005669#reply0</link><description>&lt;p&gt;看 B 站和斗鱼直播的时候，未全屏时，画面会多出其他颜色的像素块，画面看起来有点刺眼。开始怀疑过是不是显卡问题，但是全屏播放的时候却是正常的，不知道是否有其他朋友也遇到过这种情况。例如截图里字幕中的“个”字的那一竖，边上有红边，“显卡”二字的折角也有红色像素。&lt;br /&gt;
-&lt;a href="https://i.imgur.com/U66aFb5.png" rel="nofollow"&gt;https://i.imgur.com/U66aFb5.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:18:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005669#reply0</guid></item><item><title>[问与答] consul 注册的服务如何让其他主机访问的到？</title><link>https://www.v2ex.com/t/1005668#reply0</link><description>&lt;p&gt;有懂 consul 的老哥吗？
-有个问题：部署了套 consul ，注册服务后，如何让其他主机能访问通该注册的域名呢？
-目前使用的 consuul server 上部署个 dns ，然后让需要访问域名的主机配置 dns 到 resolv.conf 做解析，
-但是有个问题，如果该主机已经配置了 resolv.conf ，那么就无法使用该办法了；&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:16:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005668#reply0</guid></item><item><title>[程序员] 各位大佬已经开始用 Podman 了吗</title><link>https://www.v2ex.com/t/1005667#reply4</link><description>&lt;p&gt;查了一下, 大概是在 2021 年 Podman 崭露头角, 现在两三年过去了, 各位大佬有多少使用 Podman 了呢?
-我个人感觉可以替代 Docker 但没有一定要替换的动力, 所以暂时没换, 只在自己玩的项目上试了试.&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:14:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005667#reply4</guid></item><item><title>[程序员] VS 或者 tortoisegit 是否有可以查看某行代码最新的提交人</title><link>https://www.v2ex.com/t/1005666#reply4</link><description>搜了很多帖子，发现都是 vscode 和 IDEA 的</description><pubDate>Thu, 04 Jan 2024 01:12:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005666#reply4</guid></item><item><title>[问与答] 有没有那种能在房间移动的摄像头，可以远程操作的</title><link>https://www.v2ex.com/t/1005664#reply6</link><description>&lt;p&gt;能飞不能飞都可以的，&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:03:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005664#reply6</guid></item><item><title>[Figma] figma 脱机（offline）使用的办法</title><link>https://www.v2ex.com/t/1005663#reply2</link><description>实在受够了在私人笔记本上导出 png ，而后通过邮箱传到内网办公机的冗余流程了。&lt;br /&gt;&lt;br /&gt;各位大佬，怎样才能在断网环境下使用 figma （别说用了，断网时都无法正常安装）。谢谢！</description><pubDate>Thu, 04 Jan 2024 01:01:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005663#reply2</guid></item><item><title>[程序员] 想从 github 下个项目，折腾一大顿安装 docker，好不容易打开 juypter notebook</title><link>https://www.v2ex.com/t/1005662#reply5</link><description>&lt;p&gt;然后我发现里边其实就是 py 代码&lt;/p&gt;
-&lt;p&gt;无语了&lt;/p&gt;
-&lt;p&gt;用 docker 发布是为了让用户不用自己下载包？&lt;/p&gt;
-&lt;p&gt;就那么几个包有必要吗&lt;/p&gt;
-&lt;p&gt;现在 pycharm 下包很方便了&lt;/p&gt;
-&lt;p&gt;狗狗两下用 pip 也不费什么事吧&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:58:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005662#reply5</guid></item><item><title>[程序员] 通过 nas 暴露内网高 CPU 负载服务有坑吗？</title><link>https://www.v2ex.com/t/1005661#reply4</link><description>&lt;h2&gt;起因&lt;/h2&gt;
-&lt;p&gt;有一段炼丹程序是跑在本地 windows 上的，打包是不可能打包的。明天要汇报，想开个公网服务让大家尝尝。&lt;/p&gt;
-&lt;h2&gt;办法&lt;/h2&gt;
-&lt;p&gt;本地机器：写个 loop 监听 nas 的输入文件夹，输入进来就开始工作，然后工作完了就输出到 nas 的输出文件夹。&lt;/p&gt;
-&lt;p&gt;公网服务器：html 读取到输入文件夹，监听 nas 的输出文件夹，输出。&lt;/p&gt;
-&lt;h2&gt;🙋注意事项&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 04 Jan 2024 07:30:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 关于工作，我现在有点迷茫了，请各位帮忙指指路。</title><link>https://www.v2ex.com/t/1005837#reply0</link><description>&lt;p&gt;发个帖子，说说我的情况，请各位帮我看看接下来应该怎么发展，同时这个帖子也算自己发泄发泄。&lt;/p&gt;
+&lt;h2&gt;个人经历&lt;/h2&gt;
+&lt;p&gt;我是小县城出来的，父母小个体户，从小对我都很好，没让我承担过什么太大的压力，我自己也比较乖，不太闹，安安稳稳上学，安安稳稳高考，安安稳稳上大学，波澜不惊。家里虽说不是有钱家庭，但平时的吃穿用度，父母从没亏待过我。我就是在这样的环境中长大了。我很满足。&lt;/p&gt;
+&lt;p&gt;20 年毕业，计算机，双非硕，二线城市。20 年的时候找工作不像现在这么卷，当时拿了好几个 offer ，后来选择进入一家银行软开岗，福利待遇都还挺好的，我也非常满意。&lt;/p&gt;
+&lt;p&gt;在学校谈了女朋友，对我也很好，同届，然后就双双毕业开始职场生涯。&lt;/p&gt;
+&lt;p&gt;到这里，我说实话，前二十几年我过的轻松安稳，波澜不惊，但我非常满意满足。&lt;/p&gt;
+&lt;p&gt;紧接着，上班有了半年吧，有一天上午，我接到电话，父亲突发脑溢血住院。犹如晴天霹雳，然后就去医院，手术住院一套流程。ICU 住了小两个月，每天就守在门口。&lt;/p&gt;
+&lt;p&gt;后来万幸性命是保住了，也有自理能力，就是没记忆力了，或者说记忆力很短暂。不过我感觉这已经是老天眷顾了。医生也说这种情况已经算好的了。&lt;/p&gt;
+&lt;p&gt;中间七七八八大概有 4 到 5 个月。因为涉及医院陪护，回家之后也得人照料，我直接选择了辞职。专门回家看护。我知道这里很多人都觉得我不该这么做，但当时的我，说实话，没考虑太多。&lt;/p&gt;
+&lt;p&gt;后来我想过，当时辞职不是个好决定。但以当时那种情况，我没法做出非常正确的选择，或者说就没有什么正确的选择，我只知道钱没了还能再赚，人没了就真没了。&lt;/p&gt;
+&lt;p&gt;而且我爸以前基本就是家里的顶梁柱。他一倒下，我妈乱了阵脚，所以最终我选择了辞职回家。&lt;/p&gt;
+&lt;p&gt;接下来，在家待了半年吧，我爸身体各方面都恢复的挺好，复查也还行。我就需要重新找工作了，当时是 21 年，工作还是挺多的，我就重新入职了另一家公司。继续上班，当时是 21 年末。&lt;/p&gt;
+&lt;p&gt;22 年，我买房、装修、结婚。中间多亏老婆那边帮衬我。整个一年在忙忙碌碌中度过。&lt;/p&gt;
+&lt;p&gt;然后 22 年末，疫情解封后，好像整个社会环境都变的不好了，年底，突然通知裁员，我们部门裁了好多社招的，我也在内。&lt;/p&gt;
+&lt;p&gt;当时挺难受的其实，毕竟工作老是变动，也不利于我的发展。但这种事我没办法左右，而且我刚结婚，老婆也刚怀孕，突然来这么一下，我非常头大。&lt;/p&gt;
+&lt;p&gt;然后回家过年，23 年 3 月份离职。然后开始复习复习准备找新工作，不过这时候，工作已经非常难找了，我本身 2 年换 2 份工作就对我不利，而且技术上我没什么优势，因为前两份工作是两套不同的技术栈。&lt;/p&gt;
+&lt;p&gt;这样就边复习边找，一直没什么动静。一直到 9 月份，入职了一家芯片公司，直到现在。&lt;/p&gt;
+&lt;p&gt;以上就是我这几年的个人经历，寥寥数语根本说不完全，不过主线脉络基本是清楚的。&lt;/p&gt;
+&lt;h2&gt;关于工作&lt;/h2&gt;
+&lt;p&gt;刚毕业去银行软开岗。我做的是数据仓库。当时对这个没什么概念，感觉就是写写 sql 取数。大概做了不到 1 年。&lt;/p&gt;
+&lt;p&gt;而且银行对技术要求不是很高，主要是对业务的了解。所以技术上我没啥太大的增长。&lt;/p&gt;
+&lt;p&gt;然后去了第二家公司，通信公司，做 Devops 那一套。当时他们通过社招敢要我，也是学校专业比较对口，而且公司扩张，需要人，所以愿意从头培养。&lt;/p&gt;
+&lt;p&gt;然后是第三家，芯片公司。来这家公司的背景是，当时我已经 6 个月没找到工作了，然后这公司有一个新岗位，当时面试聊了聊。说实话技术上根本不太沾边，但领导可能感觉我沟通能力什么的都还可以，就说只要我愿意学，就可以要我。&lt;/p&gt;
+&lt;p&gt;我当时处于找不到工作的焦虑期，那我肯定愿意来。然后就来了。&lt;/p&gt;
+&lt;h2&gt;我的问题&lt;/h2&gt;
+&lt;p&gt;来了之后我发现，芯片，硬件这些东西，绕不开数电模电这些东西，verilog 。说实话，这些东西非常令我头大。&lt;/p&gt;
+&lt;p&gt;我的专业是软件工程，一路走来都是搞软件的，对硬件这些东西我真的很难入门。可能真的是天赋不够。我也试过想好好研究下，但这个公司说实话比较小，大家都很忙，也没人愿意花时间来带我，只能自己硬着头皮看，但真的看不明白。&lt;/p&gt;
+&lt;p&gt;然后就是，这边的工作非常的分散，不像之前，写代码就是写代码，分需求，写代码，测试，提交。这边的工作，属于东一榔头西一棒槌，好像什么活领导都可以交派给我，甚至有些活，领导自己都不清楚要干什么，就给指个方向，我就得出个方案。然后就没下文了。这也可能是小公司的通病吧。&lt;/p&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;p&gt;我现在 30 岁了，现在的大环境不好，我非常清楚。我现在脑子非常的乱。我总结一下我的现状：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;全阻塞同一时间只能一个人访问&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;帮我想想🙇&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 04 Jan 2024 00:52:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005661#reply4</guid></item><item><title>[生活] 提醒大家一个传销骗局，家里老人差点上当被骗</title><link>https://www.v2ex.com/t/1005660#reply2</link><description>&lt;p&gt;具体情况：家里老人和人聊天，被一个自称”足力宝“董事级别的人蛊惑，想要加入。经过劝阻，才放下加入的心思，不然就真的入了这该死的骗子的骗局。&lt;/p&gt;
-&lt;p&gt;提醒大家注意这个骗局，具体这个传销如何运作，以下新闻说的十分详细：
-&lt;a href="https://www.sohu.com/a/652006585_120152464" rel="nofollow"&gt;https://www.sohu.com/a/652006585_120152464&lt;/a&gt;
-&lt;a href="https://k.sina.cn/article_5278453910_13a9ed096001017t1c.html?from=health" rel="nofollow"&gt;https://k.sina.cn/article_5278453910_13a9ed096001017t1c.html?from=health&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个”足力宝“骗人的方式十分隐蔽，卖实体鞋，但是利益层层输送，靠拉人头赚钱。
-经济下行时期，这种骗局应该还会层出不穷，希望大家能引以为鉴，多和家人沟通，不要让骗子有可乘之机。
-最后祝大家新年新气象，Happy New Year!&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:50:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005660#reply2</guid></item><item><title>[程序员] 爆论： 10 年后，国内的码农将不再会有 35 岁歧视</title><link>https://www.v2ex.com/t/1005658#reply37</link><description>&lt;p&gt;目前有歧视，主要原因还是有源源不断年轻的码农供应。看看我们的人口结构图，10 年后主体人群都在 40 岁+，年轻的码农根本不够用的。
-大家觉得有道理么？&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:41:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005658#reply37</guid></item><item><title>[问与答] 哪里有免费用的 midjourney 或类似服务？</title><link>https://www.v2ex.com/t/1005657#reply4</link><description>偶尔用用，每一两周需要个 1-2 个设计图的频率。</description><pubDate>Thu, 04 Jan 2024 00:25:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005657#reply4</guid></item><item><title>[Apple TV] TV 端 surge 和 homekit 摄像头问题</title><link>https://www.v2ex.com/t/1005656#reply4</link><description>&lt;p&gt;apple tv 上开启 surge 后局域网和非局域网情况下 homekit 摄像头都会不响应，关掉 surge 后就恢复正常，surge 开直连也不行。&lt;/p&gt;
-&lt;p&gt;有网友遇到过相同问题或者有解决方案吗。&lt;/p&gt;
-&lt;p&gt;附上部分配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-conf"&gt;[General]
-loglevel = notify
-# &amp;gt; 跳过代理
-skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, localhost
-# DNS 设置
-dns-server = 119.29.29.29, 223.5.5.5, system
-all-hybrid = false
-allow-wifi-access = false
-http-api = nitmali@127.0.0.1:6171
-http-api-tls = false
-http-api-web-dashboard = false
-include-all-networks = false
-include-local-networks = false
-allow-hotspot-access = false
-wifi-assist = true
-use-local-host-item-for-proxy = false
-ipv6 = true
-ipv6-vif = auto
-compatibility-mode = 5
-# encrypted-dns-server = quic://01101101-362652.dns.nextdns.io, https://dns.nextdns.io/362652/01101101
-
-[Proxy]
-🎯 全球直连 = direct
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 04 Jan 2024 00:20:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005656#reply4</guid></item><item><title>[路由器] 水星 x30g Wi-Fi 断流</title><link>https://www.v2ex.com/t/1005655#reply0</link><description>&lt;p&gt;办公室里有一个水星 x30g 的路由器，手机和电脑连通过 Wi-Fi 上网有断流问题，比如电脑打开网页后，有时会加载不出来，需要手动刷新；&lt;code&gt;scp&lt;/code&gt;向云服务器传输文件的时候，会因为随机断开链接导致传输失败。&lt;/p&gt;
-&lt;p&gt;断流现象在通过 WI-FI 上网的设备都出现过，现在已经把信道固定下来（该信道上没有其他设备占用），OFDAM 和 T WT 等功能关闭后也没有什么改进。目前摸着路由器底部有点热。&lt;/p&gt;
-&lt;p&gt;在这里求助各位大神，能不能提供一些排查的方法。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:12:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005655#reply0</guid></item><item><title>[问与答] 关于兄弟姐妹之间的关系 你怎么对待的</title><link>https://www.v2ex.com/t/1005654#reply10</link><description>&lt;p&gt;你好了 嫉妒你排斥你拒绝&amp;amp;远离你，你混的差了 贬低你远离你…
-长大了好多年 都不能像别人家的兄弟姐妹一样亲密融洽 和谐相处!&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 23:04:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005654#reply10</guid></item></channel></rss>
+&lt;li&gt;技术上没什么积累，工作中的技术栈老是换。&lt;/li&gt;
+&lt;li&gt;3 年换 3 家，就算出去找工作，现在这环境没法过简历关。&lt;/li&gt;
+&lt;li&gt;3 家公司一家不如一家，我感觉我整个职场是在走下坡路的。这点令我很难受。&lt;/li&gt;
+&lt;li&gt;家里这几年发生的事，也欠了好多钱。都得我来还。我本身自己也有房贷，也有小孩，而且我和老婆都是 IT 行业，大环境下都有被裁的风险。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;受遗传的影响，我是一个内心很敏感，有什么事爱压在心中的性格。（我爸就是这种，才导致的脑溢血。我奶奶也是这种性格，从小到大我只要晚上回去晚就不停打电话，我不讨论这种性格的好坏，我知道这种东西很难改。我尝试看书，运动，但收效都不大）。&lt;/p&gt;
+&lt;p&gt;这几年的经历，我回忆起来，感觉非常的魔幻。中间很多细节的东西，我都没法展开说，总之打击是接踵而至，好像老天爷看我前二十几年过的太舒服了，才在现在这么对我。但我真的没办法抗住这种压力。。。&lt;/p&gt;
+&lt;p&gt;我不知道接下来应该怎么办。我没什么方向。不管是辞职、或者做副业什么的，我都没什么想法。我现在所处的芯片行业也在裁员，而我又是菜鸟级别的，所以我每天都生活在恐惧当中。&lt;/p&gt;
+&lt;p&gt;能看到这里，感觉各位。&lt;/p&gt;
+&lt;p&gt;请各位老哥指点指点，我应该怎么做。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:28:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005837#reply0</guid></item><item><title>[北京] 北京移动： 500 一年 每月 100G 全国流量+1000 分钟+500M 宽带，性价比可还行？</title><link>https://www.v2ex.com/t/1005836#reply0</link><description>&lt;p&gt;还可以共享给北京移动老号使用，或者办副卡，其实感觉超值了，500 一年全家人的流量通话宽带都有了&lt;/p&gt;
+&lt;p&gt;实测速度基本是千兆水平，下行 770M 左右，上行 120M 算是超级良心了&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgse.com/i/pivOplR" rel="nofollow"&gt;&lt;img alt="pivOplR.md.jpg" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/04/pivOplR.md.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:27:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005836#reply0</guid></item><item><title>[问与答] CMake 的 cache 文件能通过命令方式覆写吗？</title><link>https://www.v2ex.com/t/1005835#reply0</link><description>&lt;p&gt;最近在编译一个开源项目时，按照官方文档说明执行简单的 CMake 命令，会因为没有找到 SDL2 库，而少生成某些子项目，其实本地基于 vcpkg 已经安装过 SDL2 库，命令加上 vcpkg 工具链即可，但是发现第一次执行命令后，生成了 build 文件夹以及 CMakeCache.txt 文件，第二次执行带 vcpkg 工具链的指令时，还是说没有找到 SDL2 库，其实如果手动删除 build 文件夹或者缓存文件，直接执行带 vcpkg 工具链的指令，是能找到 SDL2 库的，所以想能不能通过 CMake 命令直接覆写这个缓存文件，但是没有找到参数，了解的大佬可以回复下，谢谢！&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:22:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005835#reply0</guid></item><item><title>[问与答] supervisor 重启 golang 项目时产生僵尸进程怎么办</title><link>https://www.v2ex.com/t/1005833#reply4</link><description>&lt;p&gt;golang 项目（服务器 A ）使用 exec 包在服务器 B 上执行脚本，执行过程中如果 supervisor 重启 golang 项目，服务器 b 上进程就成了僵尸进程， 这个如何解决？
+问：golang 项目需要单独接收 supervisor 重启信号？怎么接收？&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:19:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005833#reply4</guid></item><item><title>[问与答] 微信关闭自动扣费，眼神不好找不到啊</title><link>https://www.v2ex.com/t/1005832#reply0</link><description>&lt;p&gt;妈的，今天找了半天硬是没找到，通过百度搜索才知道在哪。
+字是真小啊深怕被人看见一样。吐槽一下....&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005832#reply0</guid></item><item><title>[宽带症候群] 成都电信为啥拨出了 ipv6 地址，却访问不了 ipv6 的网站</title><link>https://www.v2ex.com/t/1005831#reply0</link><description>上一篇我还在苦恼 ipv6 拨不出来，但偶然一下突然发现能拨出 ipv6 地址了，结果又出现新的问题。&lt;br /&gt;&lt;br /&gt;我分别使用了&lt;br /&gt;1.光猫拨号&lt;br /&gt;2.电信路由器支持 ipv6 的拨号&lt;br /&gt;3.爱快软路由拨号&lt;br /&gt;以上均拨出了 ipv6 的地址&lt;br /&gt;&lt;br /&gt;我使用 &lt;a href="http://www.test-ipv6.com" rel="nofollow noopener" target="_blank"&gt;www.test-ipv6.com&lt;/a&gt; 和 &lt;a href="http://ipw.cn" rel="nofollow noopener" target="_blank"&gt;ipw.cn&lt;/a&gt; 都进行了测试，&lt;br /&gt;发现三者均无法通过上面的 ipv6 测试，包括 ping 了 ipv6 的网址也 ping 不通&lt;br /&gt;&lt;br /&gt;然后我查了下网上的帖子，发现有和我类似的一样也是在成都用电信无法通过 ipv6 测试&lt;br /&gt;帖子： &lt;a href="https://tieba.baidu.com/p/8689477874" rel="nofollow noopener" target="_blank"&gt;https://tieba.baidu.com/p/8689477874&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我想请问是我的光猫有问题 或者是配置不正常 还是成都电信又在搞幺蛾子，&lt;br /&gt;有用成都电信的小伙伴能说说你们能访问 ipv6 的网址吗，有没有解决办法呀</description><pubDate>Thu, 04 Jan 2024 07:17:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005831#reply0</guid></item><item><title>[互联网] 安卓系统如何把这些诈骗短信给屏蔽掉？</title><link>https://www.v2ex.com/t/1005829#reply1</link><description>&lt;p&gt;这种诈骗短信每天都有收到，天天告知中奖，积分兑换，&lt;/p&gt;
+&lt;p&gt;这和前段时间那么热的缅北不是一个套路么，这些该死的运营商为了这点短信费，不核查短信内容，真的是无德。&lt;/p&gt;
+&lt;p&gt;如果是有的西方国家的短信营销，每条短信发送前都是需要审核的，如果被多次投诉，直接封杀渠道的。这种手段，希望国内也尽快用上&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/04/WTtCUR432ol5gdQ.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:09:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005829#reply1</guid></item><item><title>[分享发现] 分享一个开源项目，在线看电影</title><link>https://www.v2ex.com/t/1005828#reply2</link><description>&lt;p&gt;&lt;a href="https://movie-web.app/" rel="nofollow"&gt;https://movie-web.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;试了下除了新出的片子不太搜得到，其他都挺好，github 有源码可以本地部署&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:09:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005828#reply2</guid></item><item><title>[问与答] 关于 AirPods 歌曲跳转的疑问</title><link>https://www.v2ex.com/t/1005827#reply0</link><description>&lt;p&gt;iPhone15P ，AirPods 3 代和 AirPods Pro 2 代，iOS 17.2.1&lt;/p&gt;
+&lt;p&gt;在 Apple Music 里连按三下只能回到当前播放歌曲的开头，再次连按三下才能跳转到上一首。&lt;/p&gt;
+&lt;p&gt;在 QQ 音乐里连按三下可以直接跳转到上一首。&lt;/p&gt;
+&lt;p&gt;各位有没有遇到同样问题，可以设置做在 Apple Music 里只需要一次连按三下就回到上一首吗？&lt;/p&gt;
+&lt;p&gt;如果可以，说明一下设置方法，万分感激🙏。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:06:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005827#reply0</guid></item><item><title>[程序员] Postman 的 MacOS 端平替， RapidAPI（原名 Paw），问题越来越多了……难道接口请求就没有好用的工具吗？</title><link>https://www.v2ex.com/t/1005826#reply10</link><description>&lt;p&gt;曾经用 postman ，总共差不多 1000 多个接口吧，卡到不行，实在没法用了……&lt;/p&gt;
+&lt;p&gt;后面换了 RapidAPI ，免费的，最近一直无法同步成功，报 500 错误，描述信息：&lt;/p&gt;
+&lt;p&gt;Request failed: internal server error (500)&lt;/p&gt;
+&lt;p&gt;找了找竞品&lt;/p&gt;
+&lt;p&gt;insomnia ，这个快成为下一个 postman 了，强制登录被麻烦，最近恢复，但是后面估计又要来了&lt;/p&gt;
+&lt;p&gt;hoppscotch ，这个存储貌似容易掉，不靠谱&lt;/p&gt;
+&lt;p&gt;国产的那些更别提了，唉&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 07:04:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005826#reply10</guid></item><item><title>[公司运营] 2024 年新规对注册个体工作室的影响</title><link>https://www.v2ex.com/t/1005824#reply1</link><description>目前新的公司法已经颁布了，据说工作室需要自己办税做账，不再是认缴模式，这个是否对软件工作室税务状况影响很大，免税额度也会受到影响，和公司性能区别就不会很大了&lt;br /&gt;以上内容是我道听途说的，希望有懂行的大哥指点迷津，2024 年新规下，小团队如何注册实体，可以做到最小化成本负担？</description><pubDate>Thu, 04 Jan 2024 07:02:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005824#reply1</guid></item><item><title>[iOS] 今日头条手机 app 上的设置中，有“使用移动网络改善内容浏览”选项的原理</title><link>https://www.v2ex.com/t/1005823#reply2</link><description>&lt;p&gt;在今日头条手机 app 上的设置中，有“使用移动网络改善内容浏览”选项。当手机接入一个没有公网连接的 wifi 后，如果打开了手机的 wifi assist 功能，再打开今日头条的这个选项，可以自动优先使用蜂窝网络连公网。
+请问这个选项的原理是什么啊？查过 ios 的文档，似乎并没有某个接口开放这个功能给 app 自主控制优先使用蜂窝网络的。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 06:57:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005823#reply2</guid></item><item><title>[微信] 微信的搜一搜可以创建快捷方式放到桌面吗？</title><link>https://www.v2ex.com/t/1005822#reply0</link><description>现在越来越多的优质内容都只在自家的生态里才能搜到，比如微信的搜一搜&lt;br /&gt;像小红书已经可以在网页上进行搜索了，但是微信的搜一搜还是只能从微信 PC 端的侧栏按钮进入（虽然有个搜狗微信，但是结果内容很少很少），这就有点麻烦了，每次打开还得先唤出微信窗口，聊天记录也容易泄露&lt;br /&gt;但我在网上搜了一圈，没有找到相关内容，所以想请教下，微信的搜一搜可以创建快捷方式吗？</description><pubDate>Thu, 04 Jan 2024 06:56:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005822#reply0</guid></item><item><title>[生活] 开车反应迟钝+近视，开车总有一些惊吓到自己和别人的操作</title><link>https://www.v2ex.com/t/1005821#reply2</link><description>&lt;p&gt;如题，回去还是先配个好点的眼镜&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 06:54:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005821#reply2</guid></item><item><title>[酷工作] 有回南宁工作的后端开发小伙伴吗？</title><link>https://www.v2ex.com/t/1005820#reply0</link><description>&lt;p&gt;有接到一些政府的项目，长期稳定。&lt;/p&gt;
+&lt;p&gt;需要有靠谱的三年以上后端开发小伙伴加入。&lt;/p&gt;
+&lt;p&gt;语言不限: 对开源技术了解，能找架子搭框子。&lt;/p&gt;
+&lt;p&gt;动作麻利: 不纠结技术细节，以进度为优先。&lt;/p&gt;
+&lt;p&gt;善于沟通: 需求需要主动了解。&lt;/p&gt;
+&lt;p&gt;技术面广: 可能后端，小程序都会涉及到，希望能主动快速学习。&lt;/p&gt;
+&lt;p&gt;绿色号：Z3hkeXM5NTI3&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 06:54:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005820#reply0</guid></item><item><title>[macOS] macos 14 如何从所有的时间机器备份中删除一个文件或文件夹</title><link>https://www.v2ex.com/t/1005818#reply2</link><description>&lt;p&gt;&lt;code&gt;sudo tmutil delete -d /Volumes/TimeMachine -t 2023-12-31-201608 -p /private/var/db&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但是 -p 只对 HFS 备份生效,这个命令删除了我的整个备份&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;man tmutil
+delete [-d backup_mount_point -t timestamp] [-p path]
+    Deletes the backups with the specified timestamp from the backup volume mounted at the specified mountpoint. The -t option followed by a timestamp can be used multiple
+    times to specify multiple backups to delete. For HFS backup disks, a specific path to delete can also be specified using the -p option. This verb can delete items from
+    backups that were not made by, or are not claimed by, the current machine. Requires root and Full Disk Access privileges.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;我发现 2015 年 macos 支持删除单个文件夹 &lt;a href="https://sspai.com/post/30929" rel="nofollow"&gt;https://sspai.com/post/30929&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;不知道目前有没有其他的解决方案&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 04 Jan 2024 06:50:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005818#reply2</guid></item><item><title>[广州] 22 届毕业生犹豫要不要把户口迁来广州，求建议</title><link>https://www.v2ex.com/t/1005817#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;老家中部地区县城，毕业后辗转广州和其周边工作，嵌入式码农，现在年收入大概 10 万左右，以后也打算在沿海城市工作生活。家人也建议我把户口迁来广州，说大城市户口福利好。&lt;/p&gt;
+&lt;p&gt;工作在佛山，代买的广州社保，现在已经交了半年的广州社保了。&lt;/p&gt;
+&lt;p&gt;上网找过需要准备的材料中，半年社保、2 年内的毕业生、双证、劳动合同都有。还有半年就毕业满 2 年了。&lt;/p&gt;
+&lt;p&gt;现在还差个落户地址，可名下没有广州房产也就导致没有落户地址。现在这房价和收入，基本不可能买房了。没有驾驶证、没有兴趣也不懂车，也不需要买车，出门都是公共交通偶尔薅打车平台的券。
+网上搜了下，有挂靠南方人才市场有限公司的集体户（收费两千五左右），可只能挂靠 3 年，3 年之内需要找到落户地址。&lt;/p&gt;
+&lt;h2&gt;疑问&lt;/h2&gt;
+&lt;p&gt;1.有没有必要把户口迁来广州，迁来的福利收益值得花时间甚至金钱去折腾吗？&lt;/p&gt;
+&lt;p&gt;2.如果迁来的话，只能找第三方公司挂靠集体户了吗。在本地人关系的情况下，能否有其它解决方法。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 06:50:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005817#reply0</guid></item><item><title>[分享发现] 珠江宽频宽带</title><link>https://www.v2ex.com/t/1005816#reply3</link><description>宽带 1 月底到期，在考虑是不是要续费。&lt;br /&gt;珠江宽频的现在 2113 元 45 个月，200M 宽带&lt;br /&gt;大家觉得如何</description><pubDate>Thu, 04 Jan 2024 06:48:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005816#reply3</guid></item><item><title>[酷工作] [日本 it]GSD 多职位热招， 2024 的最新一些现场案件详情，相换工作的可以来找我投递简历哈</title><link>https://www.v2ex.com/t/1005815#reply0</link><description>2024GSD 的最新一波招聘开始啦！&lt;br /&gt;赴日软件工程师、对日 HR 招聘担当等诸多职位正在热招！&lt;br /&gt;&lt;br /&gt;GSD 赴日 IT 软件工程师招聘需求如下：&lt;br /&gt;不管你是哪一种技术方向大咖，Java 、c++、sap 、cobol 等等技术方向均在招，&lt;br /&gt;有日语要求，日语 n2 以上，可沟通交流~&lt;br /&gt;工作地点：日本&lt;br /&gt;&lt;br /&gt;GSD 对日 hr 招聘担当需求如下：&lt;br /&gt;有招聘经验，日语 2 级以上，客观开朗有上进心~&lt;br /&gt;待遇丰厚~&lt;br /&gt;办公地点：大连市沙河口区会展中心深蓝国际大厦&lt;br /&gt;工作时间：8:30-17:30 ，周末双休，五险一金&lt;br /&gt;&lt;br /&gt;我们会社名称：株式会社 GSD &lt;br /&gt;会社地址：東京都文京区大塚新大塚プラザ&lt;br /&gt;会社官网： &lt;a href="https://www.g-s-d.co.jp/" rel="nofollow noopener" target="_blank"&gt;https://www.g-s-d.co.jp/&lt;/a&gt;&lt;br /&gt;高度人才+20 分，可实现永驻，周末双休，厚生等诸多保险应有尽有~~&lt;br /&gt;&lt;br /&gt;可以投递简历至 base64 码：YmVpYmVpNjc4MjAyM0AxNjMuY29t&lt;br /&gt;2024 的最近一些现场案件信息：&lt;br /&gt;1.2 月开始，入社必须！&lt;br /&gt;求一位 Java3 年生。&lt;br /&gt;日语读写必须，听说弱可。&lt;br /&gt;完全没有对日经验的不行。&lt;br /&gt;熟悉后基本在宅。长期项目。&lt;br /&gt;希望能长期且性格稳定的人。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2.1 月～长期案件求人&lt;br /&gt;・ React （必须）,TypeScript,Java,4 年以上 SE&lt;br /&gt;・SQLが読める、書けること&lt;br /&gt;・要日语&lt;br /&gt;出勤，无在宅。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;3.求人&lt;br /&gt;VC++、sql &lt;br /&gt;詳細設計～&lt;br /&gt;windows app 開発経験&lt;br /&gt;1 月 ～&lt;br /&gt;豊洲&lt;br /&gt;要日语&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;4.2 月有在宅，WEB 系開発経験&amp;amp;本番リリース作業経験必須&lt;br /&gt;1 月 or2 月品川出勤，求 react 经验丰富技术者&lt;br /&gt;都要日语流畅&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;5.Java 、JS 、XML 、HTML 、Linux 、React 、Shellscript 、&lt;br /&gt;基本設計、男、8.5 年、N2 、2 月～&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;今天就更新到这了，大家有考虑转职的可以约起来，投递简历至可以投递简历至 base64 码：YmVpYmVpNjc4MjAyM0AxNjMuY29t&lt;br /&gt;更多详细的待遇信息，大家投递简历咨询哈，我在线等回复！！</description><pubDate>Thu, 04 Jan 2024 06:47:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005815#reply0</guid></item><item><title>[问与答] 业务员拜访自动打卡有什么好的解决方案吗？</title><link>https://www.v2ex.com/t/1005812#reply1</link><description>&lt;p&gt;需求：业务员拜访自动打卡&lt;/p&gt;
+&lt;p&gt;业务员到达公司指定的位置自动打卡，可能涉及到 app ，大佬们有好的软件或者系统的推荐吗？跪拜&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 06:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005812#reply1</guid></item></channel></rss>
