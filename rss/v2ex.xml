@@ -1,76 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 03 Jan 2024 19:08:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Android] 长远来看真机改机、云机改机对抗风控，哪个更有优势</title><link>https://www.v2ex.com/t/1005651#reply0</link><description>改机对抗风控，如果从长远角度，云机和真机哪个综合优势更高呢？&lt;br /&gt;&lt;br /&gt;云机前期开发成本确实要高很多，硬件、驱动适配，更多指纹特征，配套工具研发。&lt;br /&gt;真机前期开发就比较方便，改完指纹，直接买设备刷机启动。&lt;br /&gt;&lt;br /&gt;但是云机在上量、管理上更具优势，&lt;br /&gt;真机上量和管理确实更麻烦更昂贵。</description><pubDate>Wed, 03 Jan 2024 18:24:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005651#reply0</guid></item><item><title>[问与答] 国外接短信用手机卡办理电信，联通还是移动？</title><link>https://www.v2ex.com/t/1005650#reply4</link><description>十几年没有回国，现在国内卡什么情况完全不清楚&lt;br /&gt;主要需求是便宜的保号卡要求欧洲能接短信验证码&lt;br /&gt;&lt;br /&gt;查了一圈首选是电信 5 元卡，不过又听说国外信号制式不太兼容什么的，应该不会不能接收验证码的或验证还要收费吧？有没有知情的大佬&lt;br /&gt;&lt;br /&gt;下个月回国一个月有没有什么套餐可以推荐&lt;br /&gt;想去办理个小流量套餐（ 20G 左右）然后出国前转为保号套餐&lt;br /&gt;&lt;br /&gt;电信官网 bot 说 4G 套餐已经停止办理，然后 5G 套餐要 129 起，这流量真有点贵</description><pubDate>Wed, 03 Jan 2024 18:06:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005650#reply4</guid></item><item><title>[问与答] 如何屏蔽 mac 系统强制弹窗</title><link>https://www.v2ex.com/t/1005649#reply0</link><description>如图： &lt;a href="https://i2.100024.xyz/2024/01/04/3btasx.webp" rel="nofollow noopener" target="_blank"&gt;https://i2.100024.xyz/2024/01/04/3btasx.webp&lt;/a&gt;&lt;br /&gt;公司电脑安装的监测软件，会一直强制弹窗，关掉后每隔半分钟弹一次，求大佬支招</description><pubDate>Wed, 03 Jan 2024 18:04:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005649#reply0</guid></item><item><title>[问与答] giffgaff 的电话号码不能申请 gmail 了吗？（2024.1）</title><link>https://www.v2ex.com/t/1005648#reply2</link><description>&lt;p&gt;已是 UK IP ，在验证电话号码时，提示"This phone number cannot be used for verification."
-是已经被 gmail block 了？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:47:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005648#reply2</guid></item><item><title>[问与答] 截止 2024 年 1 月 1 日，支持 Dolby Vision HDR 播放的移动设备有哪些？</title><link>https://www.v2ex.com/t/1005647#reply0</link><description>&lt;p&gt;前阵子下了套 DV P5 制作的电视剧，然后发现一直以来使用的 jellyfin 客户端组合出现了不兼容问题。长久以来推崇的客户端能够解码 99%的影片，DV P5 就是那 1%&lt;/p&gt;
-&lt;p&gt;我的手机是 iPhone14 PM ，经过测试 DV P5 的视频目前只有购买 infuse 才能够正常播放，其它所有的解码模式（ native player 、VLC kit 、MPV kit ）都没办法应付 DV P5 。&lt;/p&gt;
-&lt;p&gt;PC 端更是全军覆没，只能够触发 jellyfin server 强制转码。&lt;/p&gt;
-&lt;p&gt;我没有新的安卓手机，所以对现状不太了解，因此想来调查一下。&lt;/p&gt;
-&lt;p&gt;以能够正确解码、并以 HDR 回放 4K HEVC Dolby Vision Profile 5 为标准，当今能够完成这件事的设备有哪些？包括手机和平板电脑，iPhone 和 iPad 自哪代起，安卓那边又有哪些机器？&lt;/p&gt;
-&lt;p&gt;目前杜比官网似乎并没有给出明确的设备授权列表。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:30:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005647#reply0</guid></item><item><title>[问与答] 成本有限，哪里可以拿到 14pm256 的卡贴机</title><link>https://www.v2ex.com/t/1005645#reply1</link><description>&lt;p&gt;手持 5k,成本有限制，哪里可以拿到 14pm256 的卡贴机，
-留下联系方式我联系你。
-要求诚信可靠，机器全新的最好，可以选择系统，16.6 或者 16.6.1
-感谢&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 16:13:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005645#reply1</guid></item><item><title>[Apple TV] Apple tv 的旁路由功能仍然不稳定 以及对于 iPhone 真假后台问题的一点个人看法</title><link>https://www.v2ex.com/t/1005644#reply3</link><description>在上一个 tvos 17.1 版本，这个版本的 vpn 功能是有极其恶性的 bug 的，这一点包括我在内有多个 apple tv 用户已经互相印证过这个系统有问题。&lt;br /&gt;&lt;br /&gt;在这个版本如果一直休眠待机而不重新启动 apple tv 的话，整个 apple tv 的 vpn 功能都会瘫痪掉。&lt;br /&gt;&lt;br /&gt;具体体现是我打开 netflix 或者迪士尼流媒体后，发现连不上去，打开 surge 发现 surge 自动关闭了，当我打开 surge 的时候，弹出来弹窗说 surge 发生了严重错误，让我重置 vpn 功能，重置后仍然是没有任何作用，该怎么弹窗还是怎么弹。&lt;br /&gt;&lt;br /&gt;我换了个 quanx 用，虽然没有弹窗，但是 vpn 仍然是连接不上的，国外流媒体都是看不了的，但 atv 国内网不受影响。&lt;br /&gt;&lt;br /&gt;重启 apple tv 后 quanx 的问题得到了解决，但 surge 仍然报错。&lt;br /&gt;&lt;br /&gt;外部设备的体现是，当我用电脑连接上 apple tv 旁路由的网关后，我整个路由器都会直接断网，手机都会连不进去。这样的情况我反复测试了三四次都是如此，只有把主路由重启网络才会恢复，我断定是 apple tv 的问题。&lt;br /&gt;&lt;br /&gt;------------------------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt;升级到 tvos17.2 以后，上面的问题基本都得到了解决，surge 也没有再报错，也不会有电脑连上旁路由网关就直接全家断网的情况。&lt;br /&gt;&lt;br /&gt;但是今晚我发现一个新的 bug 在。&lt;br /&gt;&lt;br /&gt;元旦期间我是回老家了，电源并没有断。也就是说又是一段很长时间没有重启 apple tv 。&lt;br /&gt;前几天晚上都比较忙，没有用电脑连 atv 的旁路由网关出去，今晚试了一下，发现连接上 atv 的网关后油管一直是断线。我打开检查了一下 atv 的代理，发现无论是 surge 还是 quanx 都是正常的代理，访问 netflix 等流媒体没有任何问题，并分别用这两个 app 测试了下电脑连接均连接不上，说明与 atv 的代理软件无关。&lt;br /&gt;&lt;br /&gt;我用迅游重置了一下电脑的网络，重启电脑后仍然是连接不上旁路由网关。&lt;br /&gt;&lt;br /&gt;我就在 atv 设置里将 atv 重新启动了一下，所有问题都得到了解决。 电脑可以正常访问油管 ph 等国外网站了。&lt;br /&gt;&lt;br /&gt;这说明 apple tv 的 vpn 功能其实仍然存在 bug ，atv 长时间不关机不重启仍然会导致 vpn 的 bug 存在，不过这 bug 的性质就比上一个系统版本的恶劣 bug 好的太多。&lt;br /&gt;&lt;br /&gt;不知道能不能设置 apple tv 定期重启功能，一直有博主 up 主测评说这 atv 可以关闭休眠，一直开机，这应该是一个误区哈。&lt;br /&gt;&lt;br /&gt;------------------------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt;跟现在所谓的科技博主宣称的 iphone 的后台是假后台，这是没有啥依据的伪科学哈。作为新机，处理器强，内存也大，不杀后台对系统流畅度的影响可以说是微乎其微，拿新机测试真假后台是没有任何意义的，是不是假后台得用老旧机器来对比测试。&lt;br /&gt;&lt;br /&gt;我手上的小 7 在开了多个后台以后，机能会明显下降，打开 app 或者呼出后台会明显有卡顿的感觉，杀完后台后就又流畅了起来。&lt;br /&gt;&lt;br /&gt;而我现在主力机 13p 连开 15 个后台用了一天都没有明显感知性能下降，甚至都没有感受到滑动帧率波动，唯一感知明显的是耗电量明显增加，以往正常后台数量，至少中午吃饭之前还有 70%电量，测试当天中午饭只剩 50%，电量差距过大也基本排除个人使用频率差异。&lt;br /&gt;&lt;br /&gt;这其实更加印证了 iPhone 的后台不是假后台。</description><pubDate>Wed, 03 Jan 2024 16:12:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005644#reply3</guid></item><item><title>[硬件] 翻译机是种怎样的体验？</title><link>https://www.v2ex.com/t/1005641#reply5</link><description>&lt;p&gt;春节后想出国旅游，因英语水平实在太烂，想买个翻译机
-有没有这方面羯这方面经验的朋友，麻烦帮忙推荐推荐哪种方式用的更舒服哪个牌子或型号的用着更顺一些？&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:55:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005641#reply5</guid></item><item><title>[分享发现] 突如其来的一个 idea，想建一个 iOS 的共享相簿，大家每周上传一张自己本周用手机拍得最满意的照片就好</title><link>https://www.v2ex.com/t/1005640#reply4</link><description>大家每周上传一张自己本周用手机拍得最满意的照片就好。&lt;br /&gt;&lt;br /&gt;就一张，可以少，不能多。&lt;br /&gt;&lt;br /&gt;有兴趣的朋友可以留下 Apple 账号我发送邀请。</description><pubDate>Wed, 03 Jan 2024 15:51:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005640#reply4</guid></item><item><title>[分享创造] 做了一个自动总结股票评论的网站,可以快速了解一只股票的态势</title><link>https://www.v2ex.com/t/1005639#reply1</link><description>&lt;h2&gt; 引子 &lt;/h2&gt;
-作为一根佛系的大 A 韭菜，我买了四五只股票，但平时 996 没空关心股票的动向，只有到了周末会打开雪球翻一翻。一只比较热门的股票在雪球上每周能积攒七八百条讨论贴，而且里面很大部分是些莫名其妙的吹牛和情绪宣泄，真正有参考价值的帖子大概就占十分之一。我看一条帖子至少要 5 秒，如果要把帖子都翻完，每只股票要翻一个小时，对于我宝贵的周末时间来说这个成本是不可接受的，所以我经常是草草翻一遍了事，很难抓到一些有效信息。
-&lt;p&gt;某天股票突然涨了几个点，我考虑要不要套现离场，这种重大决策值得我去好好翻一遍近段时间的帖子，看看其他人都在说什么，于是我花一两小时翻完了这支股票和关联股票的帖子，有价值的帖子或许有一两百条，但里面看多和看空的都有，双方对比不算悬殊，大概是 4：6 ，也可能是 6：4 ？我也没仔细点过，而且两边听起来都有点道理。结果我这一两个小时基本是白花了。&lt;/p&gt;
-&lt;h2&gt; 正文 &lt;/h2&gt;
-&lt;p&gt;上面写的就是我这个网站的 user story,也是我个人的亲身经历,为了解决这个需求，我开发了&lt;strong&gt;后湖&lt;/strong&gt;这个网站。&lt;/p&gt;
-&lt;p&gt;后湖 &lt;a href="https://www.houhu.info" rel="nofollow"&gt;https://www.houhu.info&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;总的来说，后湖会在各类财经平台上抓取评论贴，然后使用大模型对帖子进行分类过滤。首先会过滤掉没营养的帖子，然后对言之有物的帖子进行看多/看空的情绪判断，最后会归纳这些帖子的观点依据，比如是因为财务的原因还是产品的原因。这样用户能快速感知到这只股票近期的态势，是看涨的人多还是看空的人多，看涨里面又是因为什么原因看涨，不会再出现 user story 里狂翻两个小时什么结论也得不出的情况。&lt;/p&gt;
-&lt;p&gt;现在主要的功能有三块：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;雷达图&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;把帖子观点按照利好利空以及话题种类做了分类，这样能直观体现市场关注点。统计结果（不同话题下观点的数量）用雷达图做可视化对比，以这张图为例，可以看出普遍认为该公司的产品有优势，而利润营收（财务状况）不容乐观。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="radar_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/radar_plot_new.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;观点一览&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果想看具体的观点，这里会提供每个观点的摘要（ AI 生成）和原文链接，同时提供了发布时间与各种话题的分类筛选。
-&lt;img alt="post_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/post_new.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情绪走势&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;最后是近段时间的情绪指数统计，同时在最下方提供了股价走势 K 线的对比，中间一排是计算情绪指数用到的样本量，样本量越高指数越可信，如果样本量不足 10 条，则当天的情绪指数可能参考价值不大。
-&lt;img alt="sentiment_plot" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Zoumatang2023/imagehost/main/sentiment_new2.png" /&gt;&lt;/p&gt;
-&lt;h2&gt; 尾声 &lt;/h2&gt;
-&lt;p&gt;后湖是个业余项目，现在还有许多的待优化点，欢迎大家吐槽批评，如果对网站的更多细节感兴趣，可以去网站&lt;a href="https://www.houhu.info" rel="nofollow"&gt;https://www.houhu.info&lt;/a&gt;首页添加公众号，里面有比较详细的功能更新日志和说明。&lt;/p&gt;
-&lt;p&gt;大概一个多月前，我在即刻上小小的宣传了一下网站，也收到了不少点赞转发，但到今天为止，依然没有多少留存的用户。我思考了一下，可能的原因有下面几点，不知道各位试用过程中有没有遇到：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 04 Jan 2024 01:34:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 普通血压计变成动态血压计</title><link>https://www.v2ex.com/t/1005679#reply0</link><description>医院做个动态血压也要 200 左右，家里有个欧姆龙的普通家用血压计，有数据上传手机功能，我在想如何把它变成定时自动触发按钮，只需要塞了电池，袖套带好，机器背身上，间隔半小时自动按一次，如何实现这个定时按压按钮功能😂，网上看了下有些类似的，但是不太合适血压计斜坡式的按扭</description><pubDate>Thu, 04 Jan 2024 01:33:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005679#reply0</guid></item><item><title>[云计算] 阿里云训练营活动,学 mysql 送价值 200 元奖励,限前 2000 名</title><link>https://www.v2ex.com/t/1005678#reply0</link><description>&lt;p&gt;拿奖励需要购买一个 54 左右的 mysql 实例并完成任务&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://edu.aliyun.com/learning/topic/RDS-Serverless-buy?clubTaskBiz=subTask..10998022..10188..&amp;amp;share_source=copy_link" rel="nofollow"&gt;活动链接,需要使用主账号登录&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[限首购用户]  100 元电话卡+定制办公礼盒（价值 200 元）
+[限首购用户] 前 2000 名完成阶段二的： [任务 1-产品开通] 、 [任务 2-动手实验] 、 [任务 3-动手实验] ，可获得价值 200 元的冬日暖心礼盒：100 元电话充值卡+定制办公礼（保温杯、笔记本、签字笔），任务 1 开通的产品 7 天到期自动会释放，鼓励根据学习内容多进行产品体验实践，若用户提前手动释放，则视为放弃领奖资格（入群填写信息，活动结束后统一发放）&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:32:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005678#reply0</guid></item><item><title>[程序员] sipjs 0.21.2，怎么实现来电接听？</title><link>https://www.v2ex.com/t/1005674#reply1</link><description>现在用 sipjs+freeswitch 能把电话呼出去，但不知道电话来的时候怎么接听，sipjs 文档上接听电话只有简单几句，用了还没实现，求助各位大佬</description><pubDate>Thu, 04 Jan 2024 01:29:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005674#reply1</guid></item><item><title>[程序员] 纪念币现在特别火吗？昨晚上干脆不能顺利打开农业银行的页面</title><link>https://www.v2ex.com/t/1005673#reply1</link><description></description><pubDate>Thu, 04 Jan 2024 01:24:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005673#reply1</guid></item><item><title>[Apple] 有感于一个帖子好些老哥说 2024 年想买 Vision Pro，打算建一个群，有兴趣的组队去美国～</title><link>https://www.v2ex.com/t/1005671#reply4</link><description>&lt;p&gt;看到一个帖子说 2024 年想买的数码产品，好些老哥说 Vision Pro ，自己也有这计划，但一个人去总是孤单了点，所以想着建一个群，志同道合的一起去～
+想看看有多少人有兴趣～&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005671#reply4</guid></item><item><title>[macOS] 问下大家 m1pro 哪一个系统适合养老</title><link>https://www.v2ex.com/t/1005670#reply7</link><description>&lt;p&gt;目前系统 ventura13.0&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:20:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005670#reply7</guid></item><item><title>[问与答] 视频缩放时画面看起来很花，全屏显示却是正常</title><link>https://www.v2ex.com/t/1005669#reply0</link><description>&lt;p&gt;看 B 站和斗鱼直播的时候，未全屏时，画面会多出其他颜色的像素块，画面看起来有点刺眼。开始怀疑过是不是显卡问题，但是全屏播放的时候却是正常的，不知道是否有其他朋友也遇到过这种情况。例如截图里字幕中的“个”字的那一竖，边上有红边，“显卡”二字的折角也有红色像素。&lt;br /&gt;
+&lt;a href="https://i.imgur.com/U66aFb5.png" rel="nofollow"&gt;https://i.imgur.com/U66aFb5.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:18:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005669#reply0</guid></item><item><title>[问与答] consul 注册的服务如何让其他主机访问的到？</title><link>https://www.v2ex.com/t/1005668#reply0</link><description>&lt;p&gt;有懂 consul 的老哥吗？
+有个问题：部署了套 consul ，注册服务后，如何让其他主机能访问通该注册的域名呢？
+目前使用的 consuul server 上部署个 dns ，然后让需要访问域名的主机配置 dns 到 resolv.conf 做解析，
+但是有个问题，如果该主机已经配置了 resolv.conf ，那么就无法使用该办法了；&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:16:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005668#reply0</guid></item><item><title>[程序员] 各位大佬已经开始用 Podman 了吗</title><link>https://www.v2ex.com/t/1005667#reply4</link><description>&lt;p&gt;查了一下, 大概是在 2021 年 Podman 崭露头角, 现在两三年过去了, 各位大佬有多少使用 Podman 了呢?
+我个人感觉可以替代 Docker 但没有一定要替换的动力, 所以暂时没换, 只在自己玩的项目上试了试.&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:14:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005667#reply4</guid></item><item><title>[程序员] VS 或者 tortoisegit 是否有可以查看某行代码最新的提交人</title><link>https://www.v2ex.com/t/1005666#reply4</link><description>搜了很多帖子，发现都是 vscode 和 IDEA 的</description><pubDate>Thu, 04 Jan 2024 01:12:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005666#reply4</guid></item><item><title>[问与答] 有没有那种能在房间移动的摄像头，可以远程操作的</title><link>https://www.v2ex.com/t/1005664#reply6</link><description>&lt;p&gt;能飞不能飞都可以的，&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 01:03:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005664#reply6</guid></item><item><title>[Figma] figma 脱机（offline）使用的办法</title><link>https://www.v2ex.com/t/1005663#reply2</link><description>实在受够了在私人笔记本上导出 png ，而后通过邮箱传到内网办公机的冗余流程了。&lt;br /&gt;&lt;br /&gt;各位大佬，怎样才能在断网环境下使用 figma （别说用了，断网时都无法正常安装）。谢谢！</description><pubDate>Thu, 04 Jan 2024 01:01:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005663#reply2</guid></item><item><title>[程序员] 想从 github 下个项目，折腾一大顿安装 docker，好不容易打开 juypter notebook</title><link>https://www.v2ex.com/t/1005662#reply5</link><description>&lt;p&gt;然后我发现里边其实就是 py 代码&lt;/p&gt;
+&lt;p&gt;无语了&lt;/p&gt;
+&lt;p&gt;用 docker 发布是为了让用户不用自己下载包？&lt;/p&gt;
+&lt;p&gt;就那么几个包有必要吗&lt;/p&gt;
+&lt;p&gt;现在 pycharm 下包很方便了&lt;/p&gt;
+&lt;p&gt;狗狗两下用 pip 也不费什么事吧&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:58:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005662#reply5</guid></item><item><title>[程序员] 通过 nas 暴露内网高 CPU 负载服务有坑吗？</title><link>https://www.v2ex.com/t/1005661#reply4</link><description>&lt;h2&gt;起因&lt;/h2&gt;
+&lt;p&gt;有一段炼丹程序是跑在本地 windows 上的，打包是不可能打包的。明天要汇报，想开个公网服务让大家尝尝。&lt;/p&gt;
+&lt;h2&gt;办法&lt;/h2&gt;
+&lt;p&gt;本地机器：写个 loop 监听 nas 的输入文件夹，输入进来就开始工作，然后工作完了就输出到 nas 的输出文件夹。&lt;/p&gt;
+&lt;p&gt;公网服务器：html 读取到输入文件夹，监听 nas 的输出文件夹，输出。&lt;/p&gt;
+&lt;h2&gt;🙋注意事项&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;没有覆盖到用户感兴趣的股票（当前因为成本原因只覆盖了热门的 50 多支，有需求可以留言）&lt;/li&gt;
-&lt;li&gt;觉得 AI 的总结和分类不靠谱&lt;/li&gt;
-&lt;li&gt;访问不方便（手机版页面适配不佳，网页打开速度太慢等）&lt;/li&gt;
-&lt;li&gt;平时不看社交平台的股票评论，不够可靠&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;如果有，请留言告诉我，对我下一步的优化非常重要，万分感谢！&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005639#reply1</guid></item><item><title>[问与答] 为什么我播放视频用硬件解码的时候只有声音没画面</title><link>https://www.v2ex.com/t/1005638#reply5</link><description>&lt;p&gt;显卡是 780M ，AMD 的集显，驱动也是最新的，无论是 potplayer 还是 vlc 都不行&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:32:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005638#reply5</guid></item><item><title>[Linux] shc 对 arm 设备不兼容，如何解决？</title><link>https://www.v2ex.com/t/1005637#reply3</link><description>一句话描述：通过 shc 和交叉编译链把脚本编译为可执行文件，在 arm 设备不能正常运行&lt;br /&gt;&lt;br /&gt;楼主想要：解决这个问题，或者有其他的把 sh 脚本加密成二进制或其它方式可以在 arm 设备运行的方法&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="http://楼主写了一个.sh" rel="nofollow noopener" target="_blank"&gt;楼主写了一个.sh&lt;/a&gt; 脚本文件在某 arm 设备运行正常，需要共享出去使用，但涉及设备的某些私有接口因此需要加密，使用 shc 加密为.c 格式文件，在 x86 电脑使用交叉编译链编译为 arm 平台的可执行文件，在 arm 设备运行提示：./xxxx: ▒▒▒AP▒h▒▒▒4F▒kK▒,▒&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;为了验证是交叉编译链的问题，还是脚本的问题，或者又是 shc 这个工具对 ARM 平台的兼容问题，做了以下验证：&lt;br /&gt;&lt;br /&gt;1 ，写了一个最简易的 c 文件，只包含显示 hello world 。在 x86 电脑直接使用 gcc 编译，在 x86 设备可以正常运行；在 x86 电脑交叉编译后，在 arm 设备也可以正常运行；————说明交叉编译链没问题&lt;br /&gt;&lt;br /&gt;2 ，写了一个最简易的脚本 &lt;a href="http://testsh.sh" rel="nofollow noopener" target="_blank"&gt;testsh.sh&lt;/a&gt; ，只包含显示 hello world ，使用 shc 加密为.c 文件和编译，在 x86 设备可以正常运行；使用交叉编译链编译.c 文件，在 arm 设备运行会报错：./testsh: Ʈ▒▒{▒▒-▒0M:1▒t(————说明脚本也没问题，是 shc 对 ARM 平台的兼容问题</description><pubDate>Wed, 03 Jan 2024 15:26:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005637#reply3</guid></item><item><title>[分享发现] 一个发现最近热门 Github 项目的网站</title><link>https://www.v2ex.com/t/1005636#reply0</link><description>&lt;p&gt;仓库：&lt;a href="https://github.com/yanggggjie/rising-repo" rel="nofollow"&gt;yanggggjie/rising-repo&lt;/a&gt;
-网站： &lt;a href="https://rising-repo.vercel.app/" rel="nofollow"&gt;https://rising-repo.vercel.app/&lt;/a&gt;
-按最近新增 star 数量排名，可选择特定语言&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005636#reply0</guid></item><item><title>[分享发现] 源于 iPhone 自带计算器没历史记录，不能看自己输入过程等吐槽点</title><link>https://www.v2ex.com/t/1005634#reply1</link><description>&lt;h5&gt;&lt;strong&gt;前因&lt;/strong&gt;&lt;/h5&gt;
-&lt;p&gt;在平时需要记账、或者计算，使用 iPhone 自带的计算器时候，总是会有这个想法蹦出来：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我刚刚输入了什么东西，数字对不对，输入到哪里了&lt;/li&gt;
-&lt;li&gt;我上一个输入的结果是多少，我忘了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;😫😫😫 遂之查找了有没能符合我的要求的 app 。 可惜不是需要付费，就是有广告，或者洁面不符合我的审美。&lt;/p&gt;
-&lt;h5&gt;结果&lt;/h5&gt;
-&lt;p&gt;那就自己动手吧，打造自己喜欢的产品，想要什么功能都可以。它来了🪸🪸🪸，目前主要功能如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;计算时候可以查看完整的输入过程&lt;/li&gt;
-&lt;li&gt;历史记录保存&lt;/li&gt;
-&lt;li&gt;免费、无广告&lt;/li&gt;
-&lt;li&gt;兼容 iPad 、iPhone 、Mac 、iPod touch&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;后期还会继续完善
-&lt;a href="https://apps.apple.com/us/app/easily-calc/id6474380761" rel="nofollow"&gt;https://apps.apple.com/us/app/easily-calc/id6474380761&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="推广" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Caffe-del/image_bed/master/uPic/%E6%8E%A8%E5%B9%BF.png?token=ADY7YVMFIHZVKOWJWKJHJHDFSVZIE" /&gt;&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:04:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005634#reply1</guid></item><item><title>[问与答] 专科生有点小迷茫，想寻求点建议~</title><link>https://www.v2ex.com/t/1005632#reply6</link><description>&lt;p&gt;在南京上大专，今年 6 月份毕业，目前在就业和升本之间产生了一些想法，当然我也知道统招升本是绝对有必要的，但是也想了解一些除此之外其他真实的状况，所以劳烦 V 社前辈们或者过来人给些建议。&lt;/p&gt;
-&lt;p&gt;专业是软件技术，大二小分流的时候选了&lt;strong&gt;后端开发方&lt;/strong&gt;向(另一个是前端方向的)，大学期间学的东西和大家一样，大部分都是靠自己学的。&lt;/p&gt;
-&lt;p&gt;现在也就会市面上 Java 开发的常用主流技术和框架，以及在其余时间学了计算机基础的课程，但因为当时学的时候一些前置知识的欠缺，就没做什么 Lab ，缺少实践，所以有些内容理解的并不到位，但打算后面找个时间老实啃一下。&lt;/p&gt;
-&lt;h1&gt;关于转本的想法&lt;/h1&gt;
-&lt;p&gt;这个专转本是统招的，上的是全日制本科，但是统招只有一次机会。&lt;/p&gt;
-&lt;p&gt;大一的时候，我打算先学好一些基本的技术，然后等大二结束后的暑假开始再去准备专升本的备考，想着这样能学好基本的吃饭技能，如果最后升本不顺利的话，还有技术可以保障自己去市场就业，并且那时候可能也是刚高考完，所以对升本的执念还是比较深的。&lt;/p&gt;
-&lt;p&gt;江苏专科生也不少，升本的学生多，尤其是计算机类，到我这届是转本改革的第二年，比较重要改变的就是英语考试不考了，英语成绩直接改成取大学期间四级最高成绩，然后按照 17%折算。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;升本总分为：500 分 = 120(英语) + 230(计算机理论+实操) + 150(高数)。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;计算机类&lt;/strong&gt;可选学校的数据(2023 年)：&lt;strong&gt;最后一列是录取分数&lt;/strong&gt;，对于专业的话，我基本上肯定是首选软件工程，其次是计算机科学与技术。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://poluk-1251947815.cos.ap-nanjing.myqcloud.com/img/202401032212475.png" /&gt;&lt;/p&gt;
-&lt;p&gt;其实总体来说，&lt;strong&gt;340-370 之间是民办本科&lt;/strong&gt;，&lt;strong&gt;只有 420 以上才有可能上个公办本科&lt;/strong&gt;，但是这些校区不一定是本校区，可能是其他小一点的校区，基本上研究生或者升本的同学在那边上课，可能面临交通什么的不方便。最主要的是分挺高的，而且招生人数有限。&lt;/p&gt;
-&lt;p&gt;对于我现在的状态，公办本科暂时没有信心。之前也就想着保底能上民办本科我也想愿意花钱上，毕竟只有两年，就是想要个本科毕业证，想拿个找工作的敲门砖。&lt;/p&gt;
-&lt;p&gt;但是现在看来，我在牛客上看到很多本科找工作都感觉很难，而且卷。对于我这个民办，又是专升本上来的学生像是从这个泥潭里跳进了另一个泥潭里，升本之后继续读两年，其实也不奢求学校能教什么，但这两年我感觉就是浪费时间，就为了拿一个本科证，然后期间还会在学校里继续迷茫，就像现在一样，时不时迷茫一下，焦虑一下。&lt;/p&gt;
-&lt;p&gt;其实如果不是有学历门槛，我现在真的倒是挺想工作的，这样也能直接接触真实生产环境了。我更担心两年上出来，工作机会更少了。&lt;/p&gt;
-&lt;p&gt;我还是比较喜欢计算机技术的，我有自驱力去学，我也想学多的东西来让自己为一名较为合格的开发者。虽然现实的行情确实没办法收纳更多的开发者了，但是换行我还真没想过自己能做什么了，感觉普通人好难...&lt;/p&gt;
-&lt;p&gt;我本着打算备考到 3 月底考试，考完就差不多去准备招聘的八股文+投简历，想看看有没有机会。但是由于这些想法一直缠绕着，我备考的状态也并不是特别好，其实我更愿意花时间去学技术，与其这三个月备考一个未知结果的考试，我更想把这三个月用来去再提点技术，好为 3,4 月投简历准备。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 15:01:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005632#reply6</guid></item><item><title>[问与答] 第一次去女朋友家送什么比较好</title><link>https://www.v2ex.com/t/1005631#reply2</link><description>&lt;p&gt;跟女朋友在一起小半年了，最近要去他们家认个门，不算订婚那种，就是见一下她父母。之前她也去过我们家了，就是当朋友一样带回家。她带的茶叶和燕窝去的我们家。
-想问下老哥们，第一次去女朋友家都是带什么去的。她家还有两个侄女高中，一个小学侄儿，是否要带点礼物呢。
-我是准备了茶叶、两瓶酒、一盒阿胶、一盒燕窝（这四样基本均价都在一千左右）、两条华子，再拿点水果牛奶。犹豫第一次去，也不算订婚，是否是太多了。&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 14:56:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005631#reply2</guid></item><item><title>[问与答] 有老哥用过闲鱼买的平安保险配的凹凸租车券吗</title><link>https://www.v2ex.com/t/1005630#reply0</link><description>还有一个月快过年了，想着租个车回家，这样回家到处去比较方便，在闲鱼搜了下看到有个 790 块 5 张两天租车券的一共十天，卖家说是可以分开使用也可以一次都用起来，一次用的话跟客服说，想了下这样好像挺划算的，然后买了，卖家会先帮我激活一份平安保险，然后平安保险 app 内 7 天内到账 5 张两天租车券；用的时候得每一张都得交租车押金和违章押金一共 2000 一单，假如我春节想一次性用 5 张得付 5 次押金 1 个 w ，看了下确实是平安的保险，租车的公司是凹凸租车，有老哥用过吗，应该不会不退押金吧，因为之前租车都是用的芝麻信用免押的，还没试过这种租车的&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/BOiCjKG.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/BOiCjKG.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;附上闲鱼的链接 &lt;a href="https://m.tb.cn/h.5oLyzLr?tk=H8EMW6Lqzua" rel="nofollow noopener" target="_blank"&gt;https://m.tb.cn/h.5oLyzLr?tk=H8EMW6Lqzua&lt;/a&gt;</description><pubDate>Wed, 03 Jan 2024 14:56:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005630#reply0</guid></item><item><title>[小米] 小米+联发科每次网上都是一片吐槽</title><link>https://www.v2ex.com/t/1005629#reply1</link><description>到底是小米的锅还是联发科的问题。&lt;br /&gt;&lt;br /&gt;有手机厂商联发科用的舒服的么？</description><pubDate>Wed, 03 Jan 2024 14:42:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005629#reply1</guid></item><item><title>[咖啡] 德龙 9865M</title><link>https://www.v2ex.com/t/1005627#reply0</link><description>&lt;p&gt;想买咖啡机，看中这款带新的冷翠功能
-不过为啥德龙贴吧都是这么修机器的帖子
-有推荐的入手渠道不&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 14:13:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005627#reply0</guid></item><item><title>[宽带症候群] 搞了台电信 V173 猫（FTTR 设备）注册后桥接速度慢的一批</title><link>https://www.v2ex.com/t/1005626#reply0</link><description>没搞明白什么原因啊… 有懂的吗？</description><pubDate>Wed, 03 Jan 2024 14:05:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005626#reply0</guid></item></channel></rss>
+&lt;li&gt;
+&lt;p&gt;全阻塞同一时间只能一个人访问&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;帮我想想🙇&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Thu, 04 Jan 2024 00:52:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005661#reply4</guid></item><item><title>[生活] 提醒大家一个传销骗局，家里老人差点上当被骗</title><link>https://www.v2ex.com/t/1005660#reply2</link><description>&lt;p&gt;具体情况：家里老人和人聊天，被一个自称”足力宝“董事级别的人蛊惑，想要加入。经过劝阻，才放下加入的心思，不然就真的入了这该死的骗子的骗局。&lt;/p&gt;
+&lt;p&gt;提醒大家注意这个骗局，具体这个传销如何运作，以下新闻说的十分详细：
+&lt;a href="https://www.sohu.com/a/652006585_120152464" rel="nofollow"&gt;https://www.sohu.com/a/652006585_120152464&lt;/a&gt;
+&lt;a href="https://k.sina.cn/article_5278453910_13a9ed096001017t1c.html?from=health" rel="nofollow"&gt;https://k.sina.cn/article_5278453910_13a9ed096001017t1c.html?from=health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个”足力宝“骗人的方式十分隐蔽，卖实体鞋，但是利益层层输送，靠拉人头赚钱。
+经济下行时期，这种骗局应该还会层出不穷，希望大家能引以为鉴，多和家人沟通，不要让骗子有可乘之机。
+最后祝大家新年新气象，Happy New Year!&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:50:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005660#reply2</guid></item><item><title>[程序员] 爆论： 10 年后，国内的码农将不再会有 35 岁歧视</title><link>https://www.v2ex.com/t/1005658#reply37</link><description>&lt;p&gt;目前有歧视，主要原因还是有源源不断年轻的码农供应。看看我们的人口结构图，10 年后主体人群都在 40 岁+，年轻的码农根本不够用的。
+大家觉得有道理么？&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:41:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005658#reply37</guid></item><item><title>[问与答] 哪里有免费用的 midjourney 或类似服务？</title><link>https://www.v2ex.com/t/1005657#reply4</link><description>偶尔用用，每一两周需要个 1-2 个设计图的频率。</description><pubDate>Thu, 04 Jan 2024 00:25:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005657#reply4</guid></item><item><title>[Apple TV] TV 端 surge 和 homekit 摄像头问题</title><link>https://www.v2ex.com/t/1005656#reply4</link><description>&lt;p&gt;apple tv 上开启 surge 后局域网和非局域网情况下 homekit 摄像头都会不响应，关掉 surge 后就恢复正常，surge 开直连也不行。&lt;/p&gt;
+&lt;p&gt;有网友遇到过相同问题或者有解决方案吗。&lt;/p&gt;
+&lt;p&gt;附上部分配置：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-conf"&gt;[General]
+loglevel = notify
+# &amp;gt; 跳过代理
+skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, 17.0.0.0/8, localhost
+# DNS 设置
+dns-server = 119.29.29.29, 223.5.5.5, system
+all-hybrid = false
+allow-wifi-access = false
+http-api = nitmali@127.0.0.1:6171
+http-api-tls = false
+http-api-web-dashboard = false
+include-all-networks = false
+include-local-networks = false
+allow-hotspot-access = false
+wifi-assist = true
+use-local-host-item-for-proxy = false
+ipv6 = true
+ipv6-vif = auto
+compatibility-mode = 5
+# encrypted-dns-server = quic://01101101-362652.dns.nextdns.io, https://dns.nextdns.io/362652/01101101
+
+[Proxy]
+🎯 全球直连 = direct
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 04 Jan 2024 00:20:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005656#reply4</guid></item><item><title>[路由器] 水星 x30g Wi-Fi 断流</title><link>https://www.v2ex.com/t/1005655#reply0</link><description>&lt;p&gt;办公室里有一个水星 x30g 的路由器，手机和电脑连通过 Wi-Fi 上网有断流问题，比如电脑打开网页后，有时会加载不出来，需要手动刷新；&lt;code&gt;scp&lt;/code&gt;向云服务器传输文件的时候，会因为随机断开链接导致传输失败。&lt;/p&gt;
+&lt;p&gt;断流现象在通过 WI-FI 上网的设备都出现过，现在已经把信道固定下来（该信道上没有其他设备占用），OFDAM 和 T WT 等功能关闭后也没有什么改进。目前摸着路由器底部有点热。&lt;/p&gt;
+&lt;p&gt;在这里求助各位大神，能不能提供一些排查的方法。&lt;/p&gt;</description><pubDate>Thu, 04 Jan 2024 00:12:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005655#reply0</guid></item><item><title>[问与答] 关于兄弟姐妹之间的关系 你怎么对待的</title><link>https://www.v2ex.com/t/1005654#reply10</link><description>&lt;p&gt;你好了 嫉妒你排斥你拒绝&amp;amp;远离你，你混的差了 贬低你远离你…
+长大了好多年 都不能像别人家的兄弟姐妹一样亲密融洽 和谐相处!&lt;/p&gt;</description><pubDate>Wed, 03 Jan 2024 23:04:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1005654#reply10</guid></item></channel></rss>
