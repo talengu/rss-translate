@@ -1,75 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 08 Jan 2024 06:26:03 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[MacBook Air] 2020 年 M1 MBA 无法升级系统无法安装系统，有人遇到过吗</title><link>https://www.v2ex.com/t/1006815#reply0</link><description>&lt;p&gt;无法升级、无法安装
-弹窗提示：An error occurred loading the update (加载更新时错误)
-每次都是这个提示，不管是升级系统还是抹除重装系统都是这样&lt;/p&gt;
-&lt;p&gt;尝试过的解决方法都不管用：
-换网络
-抹除重装
-cmd+D 检测硬件，显示硬件没问题&lt;/p&gt;
-&lt;p&gt;有没有大佬遇到过并解决&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 06:24:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006815#reply0</guid></item><item><title>[分享创造] 可能是目前最好用的图片压缩的工具，支持 windows,mac</title><link>https://www.v2ex.com/t/1006814#reply0</link><description>jpg/png/webp/svg/gif 都能压缩&lt;br /&gt;&lt;br /&gt;&lt;a href="https://github.com/leibnizli/hummingbird" rel="nofollow noopener" target="_blank"&gt;https://github.com/leibnizli/hummingbird&lt;/a&gt;</description><pubDate>Mon, 08 Jan 2024 06:22:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006814#reply0</guid></item><item><title>[问与答] 手上有一堆 60T 的数据，如何平均拆分成 60 份 1T 的文件备份</title><link>https://www.v2ex.com/t/1006813#reply0</link><description>如题&lt;br /&gt;&lt;br /&gt;我手上的 NAS 有 60T 数据，出于想要用不同介质备份的想法，打算买个 lto5 磁带机。&lt;br /&gt;&lt;br /&gt;因为 lto5 磁带每盘只有 1.3T 左右的空间，而我的 60T 数据又是一大堆树状的文件夹，可能有的文件夹里就几 G ，有的文件夹里里有上几十个文件夹，加起来有四五个 T 。&lt;br /&gt;&lt;br /&gt;现在有 2 个问题：&lt;br /&gt;1.除了人工分类，有什么办法可以把这 60T 的不太方便分类的数据，拆分成 60 个 1T 左右的备份文件。让我分别塞进 60 个磁带？&lt;br /&gt;2.这些文件夹里的数据还会增长。我除了定期把这堆文件重新拆分、用磁带冷备，有没有别的什么办法可以只需要做增量备份吗？&lt;br /&gt;&lt;br /&gt;lto5 磁带的备份价格差不多是 30 块钱 1T ，且保存时间优于硬盘。也期待大家提出别的更好的冷备份方案，谢谢！</description><pubDate>Mon, 08 Jan 2024 06:21:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006813#reply0</guid></item><item><title>[汽车] 车贷 5 年贷款 2 年提前还款 利息全返有没有什么坑呢</title><link>https://www.v2ex.com/t/1006811#reply0</link><description>&lt;p&gt;本人第一次购车，手里有全款，但是看到这边农行的人说可以办两年免息，就是五年贷款 ，把前两年的利息返给我，2 年后提前还完这样，这样是有什么坑吗&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 06:21:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006811#reply0</guid></item><item><title>[问与答] 求问小黄鱼上买智能锁靠谱吗？</title><link>https://www.v2ex.com/t/1006809#reply0</link><description>家里新房装修完了，准备换鹿客的 V5Pro 或者 S50MPro 智能锁，因为之前朋友托人代抢的半价，我也想搞一个半价的，奈何近几个月鹿客官方扣扣嗖嗖的，半价活动都只有 1-2 个名额，代抢都觉得难度太大，不愿意接。今天搜了下小黄鱼，发现上面也有很多卖鹿客门锁的，问了几个都说有官方质保三年，包送货上门安装，有的是本地线下旗舰店发货，有的是官方旗舰店发货。价格虽然没有半价活动划算，但是比目前京东自营的售价便宜不少。想问一下有没有 V 友在小黄鱼上买过智能锁的，这种靠不靠谱？&lt;br /&gt;&lt;br /&gt;哦，对了，我是在成都的！</description><pubDate>Mon, 08 Jan 2024 06:18:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006809#reply0</guid></item><item><title>[问与答] Flash Copilot 闪记 真得好用嘛？还是我有问题。浏览器得问题？</title><link>https://www.v2ex.com/t/1006808#reply0</link><description>被很多人安利之后，我今天尝试了这个浏览器插件&lt;br /&gt;   	浏览器：hrome&lt;br /&gt;   bilibili ，网易笔记，吾爱。。。&lt;br /&gt;   像这些网页无法触发它的所有快捷键，&lt;br /&gt;   对我来说有用得可能就是 gpt 得那个历史页面搜索了</description><pubDate>Mon, 08 Jan 2024 06:14:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006808#reply0</guid></item><item><title>[杭州] [转租] 沈塘桥地铁站 100 米附近</title><link>https://www.v2ex.com/t/1006807#reply0</link><description>&lt;p&gt;沈塘桥 19 弄，离 19 号线/2 号线沈塘桥地铁站 100m ，民水民电，2970/月，房间户型是一室一厅一厨一卫，有一个小阳台，卫生间内还有一个浴缸，想了解房子信息和图片可以加 v：MTgyODYzMjgxNzY=&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 06:13:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006807#reply0</guid></item><item><title>[iPadOS] iPad 升级存储空间</title><link>https://www.v2ex.com/t/1006806#reply1</link><description>&lt;p&gt;小而美越来越大了，之前买的 iPad Pro M1 128G 突然有一天不够用了，M1 性能又是过剩的，换新的太可惜了，然后想起来之前的 MBP13 2020 拿去升级过内存，就想着能不能把存储也升级一下，一搜发现是可行的，遂找了个淘宝店铺寄修，效率还挺高，寄到的当天就换好寄回来了，还顺带把我原来的颗粒也给寄回来了，好评。使用了一周没啥问题，来分享下&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wOjYlkv.jpeg" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/IAp8poR.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 06:07:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006806#reply1</guid></item><item><title>[OpenAI] 由于没有开通 ChatGPT Plus，求一个好用的翻译提示词，主要是中文和英文互译</title><link>https://www.v2ex.com/t/1006805#reply0</link><description>&lt;p&gt;目前用的方法：&lt;/p&gt;
-&lt;p&gt;翻译成中文：How are you? &lt;/p&gt;
-&lt;p&gt;翻译成英文：今天天气很晴朗&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;求个效果好的提示词~&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 06:01:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006805#reply0</guid></item><item><title>[OpenAI] Chat GPT Plus 拼车 50 元/月 3 人车差 2 人</title><link>https://www.v2ex.com/t/1006803#reply0</link><description>&lt;p&gt;OP 自用 Plus 账号，平时使用较少。现发起拼车，包含车主共 3 人使用，应该够用的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;费用：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;费用：50 元/月&lt;/li&gt;
-&lt;li&gt;人数：限 2 人&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 09 Jan 2024 05:55:08 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[VPS] HK AISI CLOUD COMPUTING LIMITED 有谁知道哪个服务商提供他家的 vps 吗</title><link>https://www.v2ex.com/t/1007149#reply0</link><description>&lt;p&gt;HK AISI CLOUD COMPUTING LIMITED  有谁知道哪个服务商提供他家的 vps 吗
+我意外找到一个部署在香港的网站，访问速度特别快，然后查了一下 ip ，发现是这家公司的，
+但是搜不到对应有哪家厂商提供的，有没有大佬有方法能找到啊&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:49:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007149#reply0</guid></item><item><title>[宽带症候群] 上海联通不给用了</title><link>https://www.v2ex.com/t/1007147#reply0</link><description>上海联通，场景化宽带，1000/200 ，12 月刚续费&lt;br /&gt;2 号晚上停机&lt;br /&gt;6 号才有人上门拍照，和他聊了几句，看到我有个群晖放在桌子上，我还打开给看了下，说平时主要跟公司同步一些文件，其他什么事也没干&lt;br /&gt;今天 9 号我打 10015 问到底还给不给恢复，说等下回复&lt;br /&gt;刚刚 10010 打过来说涉及到安全原因，不给用了。具体涉及到什么安全，也讲不出&lt;br /&gt;&lt;br /&gt;我的情况：&lt;br /&gt;上传过高，确实是跑了 pt ，没跑什么 pcdn&lt;br /&gt;也是诉诸无门，只能认栽，准备退费了……</description><pubDate>Tue, 09 Jan 2024 05:49:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007147#reply0</guid></item><item><title>[问与答] 有没什么软件或工具能持续记录本地网络的“连通性”？</title><link>https://www.v2ex.com/t/1007146#reply0</link><description>自己所处网络老断，断表现在比如 ssh 服务器，没一会儿就断开；或者网页正好打开就是没网络的页面，得不断刷新；或者就是下载文件老断开；或者 xcode 下载东西老失败； macos 升级老失败； adobe 下载软件也是失败等等。&lt;br /&gt;&lt;br /&gt;而我只知道用终端 ping ，ping 又一直正常。我也问了 AI ，说“仅说明该主机的网络层（ IP 层）是可达的”&lt;br /&gt;&lt;br /&gt;有没类似其他指令可以持续类似 ping 这样可以判断更全的网络联通状态？或者软件也行或者 docker 。</description><pubDate>Tue, 09 Jan 2024 05:46:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007146#reply0</guid></item><item><title>[分享创造] 做了个利用 youtube 字幕制作 anki 卡片的 chrome 插件 用来学英语</title><link>https://www.v2ex.com/t/1007143#reply0</link><description>&lt;p&gt;这是根据我自己学习英语的需求做的一个插件 &lt;a href="https://chromewebstore.google.com/detail/youtube2anki/imakppkghkphhmgnnnimmbbcfoofolki?hl=zh-CN" rel="nofollow"&gt;插件地址&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;按下 &lt;code&gt;K&lt;/code&gt; 暂停时列出当前以及前后一段时间的字幕&lt;/p&gt;
+&lt;p&gt;可以点击文字 将视频进度跳到这里方便重复多次听这段话&lt;/p&gt;
+&lt;p&gt;选中文字后可以制作一个卡片并添加到 anki 的 deck 中&lt;/p&gt;
+&lt;p&gt;加了 chatgpt 可以自定义 prompt 来生成卡背的信息 也可以用 tts 模型生成音频文件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;制作卡片的功能依赖&lt;a href="https://ankiweb.net/shared/info/2055492159" rel="nofollow"&gt;AnkiConnect&lt;/a&gt;这个 Anki 插件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="悬浮字幕" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6OwkzaN.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="anki" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CNH7Vqg.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="配置" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rYXQJxm.png" /&gt;&lt;/p&gt;
+&lt;p&gt;目前还相当粗糙 只实现了基本功能 细节几乎没有&lt;/p&gt;
+&lt;p&gt;不是很擅长 js 代码很烂 但还是开源了 :P &lt;a href="https://github.com/hugepizza/youtube2anki" rel="nofollow"&gt;github repo&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:41:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007143#reply0</guid></item><item><title>[问与答] 为什么一些游戏是在 windows 上开发完成，却从来不在 windows 上发售？</title><link>https://www.v2ex.com/t/1007142#reply8</link><description>最著名的好像就是宮崎英高的 PS4 血源诅咒，很早期曾经流出过一些 PC 开发截图，然而玩家盼星星盼月亮，完全没有 PC 重制版的任何迹象。&lt;br /&gt;&lt;br /&gt;当然也有一些例外，比如黑魂 1 重制版。&lt;br /&gt;&lt;br /&gt;是不是早期程序员都习惯把代码写死，只在一个平台发售并优化，导致后期移植困难？但仔细想想也不对，明明开发是在 windows 上进行的，移植不是举手之劳。</description><pubDate>Tue, 09 Jan 2024 05:36:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007142#reply8</guid></item><item><title>[问与答] 看到公司的春节放假通知， 震惊了 吓尿了</title><link>https://www.v2ex.com/t/1007140#reply12</link><description>&lt;ul&gt;
+&lt;li&gt;单位今天出了春节放假通知：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;使用方法：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自建平台：使用 &lt;a href="https://github.com/moeakwak/chatgpt-web-share" rel="nofollow"&gt;cws&lt;/a&gt; 自建的 Plus 共享平台，无需代理翻墙，访问稳定快速，独立账号，对话隔离。&lt;/li&gt;
-&lt;li&gt;全额 gpt4：不限制 gpt4 对话数量，gpt4 的官方配额 40 条/3 小时，全部可用。&lt;/li&gt;
-&lt;li&gt;主要功能：支持 Plus 主要功能，包含 gpt 4 、文件上传、插件、DALL.E 3 绘画等，暂不支持 gpts （等待 cws 功能迭代）。&lt;/li&gt;
-&lt;li&gt;账号安全：仅提供 cws 账号，不提供 openai 账号（因是个人账号，避免多人登录被封），此 OpenAI 账号已使用 3 月以上，长期稳定、安全可靠。&lt;/li&gt;
-&lt;li&gt;使用限制：禁止账号外借多人使用，禁止滥用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;联系方式：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;telegram: &lt;a href="https://t.me/hoopan108" rel="nofollow"&gt;https://t.me/hoopan108&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;Email: &lt;a href="mailto:jon@hoopan.net"&gt;jon@hoopan.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;提供演示账号，可联系 OP 测试。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 08 Jan 2024 05:57:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006803#reply0</guid></item><item><title>[分享发现] 有没有项目导航这类的东西？小工具小产品一类的集合站</title><link>https://www.v2ex.com/t/1006802#reply0</link><description>&lt;p&gt;作为程序员，兴许大家都有写过一些小玩意小工具，亦或是一些项目，也许你一直在完善，功能很强大，但是没有多少人知道，你希望推广，但是没有钱或者精力去推广，就是你的是免费开源的，但是也没法让大家用到。那有没有这种平台收集了各种大家开发的东西，无论好坏，我想要找相关产品的时候，可以直接搜到？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;可以方便大家找到对应的工具，不用无限写轮子&lt;/li&gt;
-&lt;li&gt;可以参考前人写的东西，写出更好的工具&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果没有这种平台，我想弄一个，大家觉得如何？就类似网址导航一样，只不过这个是项目导航。
-github 这个是啥东西都有，我想要的是收集至少完整的项目，能够运行起来的，而不是草稿。&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:57:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006802#reply0</guid></item><item><title>[程序员] [UI 自动化] 很好用的工具</title><link>https://www.v2ex.com/t/1006801#reply0</link><description>&lt;h1&gt;功能介绍&lt;/h1&gt;
-&lt;p&gt;​		UI 自动化测试是一种通过模拟用户的操作来验证应用程序的用户界面是否正常工作的测试方法。它可以帮助开发团队和测试团队快速、准确地检测和修复潜在的 UI 问题，提高软件质量和用户体验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;使用教程： &lt;a href="https://www.bilibili.com/video/BV1qb4y1V7SQ/?spm_id_from=333.999.0.0" rel="nofollow"&gt;https://www.bilibili.com/video/BV1qb4y1V7SQ/?spm_id_from=333.999.0.0&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;​		我们旨在通过简单的拖拽配置，即可快速地实现自动化流程的搭建，该功能主要包括&lt;strong&gt;元素管理&lt;/strong&gt;、&lt;strong&gt;场景管理&lt;/strong&gt;和&lt;strong&gt;计划管理&lt;/strong&gt;三大部分。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;元素管理：&lt;/strong&gt;集中管理所有 UI 元素，实现元素的重复利用和维护的便捷性。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;场景管理：&lt;/strong&gt;通过简单的配置测试步骤，灵活构建各种测试场景，如用户注册、登录、购物流程等&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;计划管理：&lt;/strong&gt;计划管理功能允许您将场景组合成测试计划，并设定执行时间和频率。实时生成详细的测试报告，及时发现和解决潜在的问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;操作流程图&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-1.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;示例流程&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-2.png" /&gt;&lt;/p&gt;
-&lt;h4&gt;需求描述及流程解析&lt;/h4&gt;
-&lt;p&gt;需求：测试 RunnerGo 的登录功能&lt;/p&gt;
-&lt;p&gt;流程：打开 RunnerGo 网页，输入账号密码，点击登录 RunnerGo 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一步&lt;/strong&gt;：打开 RunnerGo 网页&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-1.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二步&lt;/strong&gt;：输入账号&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-2.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三步&lt;/strong&gt;：输入密码&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-3.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第四步&lt;/strong&gt;：点击登录按钮&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.cdn.apipost.cn/running_go/img/wiki/v3.0.0-4.gif" /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;📌 操作流程中选择的元素都是提前在元素管理添加过的，如不是复用率高的元素也可以在步骤中选择自定义元素，代表当前步骤可用。
+&lt;pre&gt;&lt;code&gt;2024 年 2 月 8 日至 2 月 17 日放假调休，共 10 天。2024 年 2 月 4 日（星期日）、2024 年 2 月 18 日（星期日）上班。
+
+其中 2024 年 2 月 8 日（星期四）、2024 年 2 月 9 日（除夕）公司统一安排调休，优先使用年假，如无年假可休的，采取预支年假或使用调休假的方式。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;❗ &lt;strong&gt;目前 UI 测试暂不支持变量引用，后续将会支持&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:51:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006801#reply0</guid></item><item><title>[问与答] 微信输入法现在能用了吗？</title><link>https://www.v2ex.com/t/1006800#reply6</link><description>听说微信输入法挺智能的，而且剪贴板同步的功能确实实用。&lt;br /&gt;&lt;br /&gt;但是我又害怕微信输入法在后台搞事情，虽然本来也没什么隐私，但是多一个东西在你头上拉屎的感觉也是不好的。&lt;br /&gt;而且之前听说手机版微信输入法后台耗电高，不知道在后台搞什么事情，有些词直接不给你候选。&lt;br /&gt;&lt;br /&gt;不过这么多双👀眼睛盯着，我猜微信输入法想搞点事情也难，不过也不好说，前有多多明目张胆的作恶，感觉它要是真想做点什么事情，也拦不住。</description><pubDate>Mon, 08 Jan 2024 05:46:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006800#reply6</guid></item><item><title>[问与答] 请教如何追女孩子</title><link>https://www.v2ex.com/t/1006798#reply36</link><description>背景：&lt;br /&gt;和妹子是同事，两人进入公司都差不多快三年了，我是开发，她是测试。以前一直没有机会拉进距离，就是普通的同事关系。&lt;br /&gt;&lt;br /&gt;大概一个多月以前，公司搬家。搬家前我们中午吃饭都是去同一家店，她先去，我后去，偶尔碰到就会坐在一起吃饭。搬家前一晚，我们技术部男生去新公司了解情况，完事后我发现这边也有分店，于是告知了妹子，表示新地方都不熟悉后面可以一起吃饭。&lt;br /&gt;&lt;br /&gt;搬家当天晚上帮了妹子一个小忙，顺势让妹子请我吃饭，妹子答应了，后面我就每天中午叫她一起去吃饭。&lt;br /&gt;&lt;br /&gt;这段时间也聊了很多，渐渐的对她也有了更多的了解。在元旦放假前的那个周五，中午吃饭时我进行了第一次邀约。&lt;br /&gt;后续了解到妹子周日(昨天)要去体检，于是上周四中午吃完饭回公司时，发起了第二次邀约。&lt;br /&gt;第二次后妹子提出分摊费用，我："这次我请了，下次你再请我呗，毕竟也让你坐了两小时牢，挺不好意思的，电影选失误了。"&lt;br /&gt;妹子回复："行吧，有来有往，也没啥好看的电影了。"&lt;br /&gt;&lt;br /&gt;两次吃饭期间都聊的还算愉快，聊了各自的家庭以及家庭那边的亲戚，小时候的事，上大学的事以及其他...&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;现状：&lt;br /&gt;基于日常的种种，感觉妹子现在对我的态度就是，不讨厌，有人一起吃饭玩啥的挺好的，当然也可能是我太怂了，两次出去均没有牵手，我感觉两人关系基本是原地踏步。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;我应该怎么更进一步呢？现在不是男女朋友关系，很多话题也不好聊，天天在一起，也会有没话说的时候，我现在已经感觉到没有之前聊的那么好了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;补充一些信息：&lt;br /&gt;由于我小时候在身体上和其他人有点不一样，甚至于整个学校就我一个这样，所以我的性格很内向，有点自卑，不爱和人说话，特别是不太熟悉的人，随着年龄的增长，这个问题已经不存在了。和妹子说起过这个，也告诉了她原因。&lt;br /&gt;&lt;br /&gt;我没有谈过恋爱，妹子有过。&lt;br /&gt;&lt;br /&gt;公司属于大小周，小周时我们会去一些其他的店，然后就聊天，偶尔会一直聊到午休快结束时才上来。有时候晚上加班，吃完饭也会聊一会。偶尔没有话题我感觉有点尬的时候，就提出要不上去吧，她会说："这么早上去干啥，再坐一会呗"。上去后同事也会开玩笑，你俩干啥去了，去约会啊，她表情也没什么不自然的。&lt;br /&gt;&lt;br /&gt;目前能想到的就是这么多，后续有什么补充的我再说吧。</description><pubDate>Mon, 08 Jan 2024 05:42:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006798#reply36</guid></item><item><title>[PostgreSQL] 求助，关于 sql 查询时间取并集的情况</title><link>https://www.v2ex.com/t/1006797#reply2</link><description>&lt;p&gt;如下,这种该如何优化，添加 open_time 和 close_time 的索引，但是还是比较慢，查询时候大约 500ms.&lt;/p&gt;
-&lt;p&gt;select
-count(1)
-from
-switchcover
-where
-open_time &amp;lt;= '2024-01-07 23:59:59'
-and close_time&amp;gt;= '2024-01-07 00:00:00'
-;&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:36:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006797#reply2</guid></item><item><title>[硬件] 开发机很少打游戏，怎么限制显卡功耗到最小？</title><link>https://www.v2ex.com/t/1006796#reply11</link><description>&lt;p&gt;开发机是 gtx1070 独立显卡，平时很少打游戏有必要限制显卡功耗以省电吗？顺便问在哪设置&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:35:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006796#reply11</guid></item><item><title>[上海] [车找人] 春节回家顺风车 上海-成都 2 月 7 号(暂定)</title><link>https://www.v2ex.com/t/1006795#reply3</link><description>&lt;p&gt;迫于要带宠物(小兔子)回家，尝试车找人开车一起回四川。人需要有驾照。本人有多次一天 16 个小时高强度驾驶经验，具体可私聊细节。趁年轻来一场说走就走的旅程吧！&lt;/p&gt;
-&lt;p&gt;小龙：wuyunchunan&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:34:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006795#reply3</guid></item><item><title>[问与答] 车贷 5 年贷款 2 年提前还款 利息全反有没有什么坑呢</title><link>https://www.v2ex.com/t/1006794#reply3</link><description>本人第一次购车，手里有全款，但是看到这边农行的人说可以办两年免息，就是五年贷款 ，把前两年的利息返给我，2 年后提前还完这样，这样是有什么坑吗</description><pubDate>Mon, 08 Jan 2024 05:34:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006794#reply3</guid></item><item><title>[生活] 杭州的老哥们，“杭州不理发”的传闻是真的吗？</title><link>https://www.v2ex.com/t/1006791#reply28</link><description>&lt;p&gt;看到了铁头去震轩维权的视频，才知道有“杭州不理发”的说法，青岛大虾不孤单。&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:23:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006791#reply28</guid></item><item><title>[程序员] 我的 2023 年小结</title><link>https://www.v2ex.com/t/1006789#reply6</link><description>&lt;p&gt;总体来说主打的就是一个又混了一年： &lt;a href="https://www.syst.top/lives/2023/" rel="nofollow"&gt;https://www.syst.top/lives/2023/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 08 Jan 2024 05:14:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1006789#reply6</guid></item></channel></rss>
+&lt;h1&gt;还可以预支年假？？？&lt;/h1&gt;</description><pubDate>Tue, 09 Jan 2024 05:32:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007140#reply12</guid></item><item><title>[VPS] 转 FlowerCloud 机场订阅节点</title><link>https://www.v2ex.com/t/1007139#reply0</link><description>&lt;p&gt;如题，节点闲置有好几个月了，到期时间是 2024 年 6 月 29 日，还有半年不到的时间，120 元出，有需要的联系我&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;注册日期 : 29/06/2023
+产品/服务 : Global Acceleration Basic - Global Acceleration Lite
+下次付款 : 29/06/2024 账单周期(年付)
+状态 : 有效的
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 09 Jan 2024 05:31:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007139#reply0</guid></item><item><title>[iPhone] 手机 Safari 怎么新标签页打开网址</title><link>https://www.v2ex.com/t/1007137#reply1</link><description>Safari 怎么每次点击链接都打开新的标签页</description><pubDate>Tue, 09 Jan 2024 05:30:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007137#reply1</guid></item><item><title>[Apple] ios 快捷指令 在共享表单中使用。不显示名字</title><link>https://www.v2ex.com/t/1007136#reply2</link><description>&lt;a href="https://i.imgur.com/9nejRFi.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9nejRFi.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;br /&gt;&lt;a href="https://i.imgur.com/PDxMSzM.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/PDxMSzM.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt; &lt;br /&gt; &lt;br /&gt;有老哥知道怎么搞吗</description><pubDate>Tue, 09 Jan 2024 05:26:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007136#reply2</guid></item><item><title>[程序员] 大家对自建 cdn 感兴趣吗，我们搞了个自建 cdn 系统， 99cdn</title><link>https://www.v2ex.com/t/1007135#reply0</link><description>&lt;p&gt;大家对自建 cdn 感兴趣吗，我们搞了个 cdn 系统，类似于 goedge 或者 cdnfly ，大家可以来看看,欢迎大家提意见，提需求，&lt;a href="https://99cdn.com" rel="nofollow"&gt;https://99cdn.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007135#reply0</guid></item><item><title>[问与答] 求美国到中国的转运公司推荐</title><link>https://www.v2ex.com/t/1007134#reply1</link><description>&lt;ol&gt;
+&lt;li&gt;运带电池的电子设备 Vision Pro&lt;/li&gt;
+&lt;li&gt;价值 3500+美金，丢了、损坏能赔偿的&lt;/li&gt;
+&lt;li&gt;最好是能空运&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;谢谢了&lt;/p&gt;
+&lt;p&gt;中国邮政和顺丰国际，都不运带电池的...&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:22:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007134#reply1</guid></item><item><title>[问与答] 有没有什么好用的账号密码管理软件</title><link>https://www.v2ex.com/t/1007133#reply5</link><description>&lt;p&gt;记录各个平台的账号，以及绑定的邮箱、手机号、微信号、密码等&lt;/p&gt;
+&lt;p&gt;比如服务器的账号密码&lt;/p&gt;
+&lt;p&gt;邮箱账号:QQ ，163 ，gmail 等等&lt;/p&gt;
+&lt;p&gt;微信、抖音、小红书等等&lt;/p&gt;
+&lt;p&gt;当然还有各个网站的账号&lt;/p&gt;
+&lt;p&gt;账号实在太多了，一般人随便算算可能就有上百个账号&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:20:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007133#reply5</guid></item><item><title>[程序员] 来个友联 DD</title><link>https://www.v2ex.com/t/1007132#reply0</link><description>&lt;a href="https://blog.mletter.cn" rel="nofollow noopener" target="_blank"&gt;https://blog.mletter.cn&lt;/a&gt;&lt;br /&gt;自主留言 都会加哦</description><pubDate>Tue, 09 Jan 2024 05:15:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007132#reply0</guid></item><item><title>[程序员] 移动端 Outel 彻底摆烂了?</title><link>https://www.v2ex.com/t/1007131#reply1</link><description>&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vD-keogXUvo&amp;amp;ab_channel=%E4%B8%AD%E6%AD%A3%E8%AF%84%E6%B5%8B" rel="nofollow"&gt;https://www.youtube.com/watch?v=vD-keogXUvo&amp;amp;ab_channel=%E4%B8%AD%E6%AD%A3%E8%AF%84%E6%B5%8B&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=0sxhQTF-OM8&amp;amp;ab_channel=%E4%B8%AD%E6%AD%A3%E8%AF%84%E6%B5%8B" rel="nofollow"&gt;https://www.youtube.com/watch?v=0sxhQTF-OM8&amp;amp;ab_channel=%E4%B8%AD%E6%AD%A3%E8%AF%84%E6%B5%8B&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;14900HX 被 7945hx 暴打, Ultra5-125H 不如 7840hs&lt;/p&gt;
+&lt;p&gt;牙膏厂你支楞一下啊&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:08:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007131#reply1</guid></item><item><title>[职场话题] 跑美团都用的啥装备？</title><link>https://www.v2ex.com/t/1007129#reply1</link><description>兄弟们最近打算众包跑外卖赚点外快，电动车咋选，要配啥装备，然后电车中途都是在哪里充电的，问了网上，现在电车普遍只有 80 公里的续航#(滑稽)</description><pubDate>Tue, 09 Jan 2024 05:03:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007129#reply1</guid></item><item><title>[Bitcoin] 比特币铭文,BRC20,协议系统开发教程</title><link>https://www.v2ex.com/t/1007128#reply0</link><description>&lt;p&gt;对于小白用户，首先建议观看下面教程，个人认为是讲的比较详细的，文档和视频是进行配套的&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://biquanlibai.notion.site/Bitcoin-Ordinals-Inscriptions-and-BRC-20-5b0d2baee5f241dc9fbae8b54ee1208f" rel="nofollow"&gt;Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1kd4y1Z7ZP/?share_source=copy_web&amp;amp;vd_source=84c7d591bc06d9a0512fa3bed6e2b659" rel="nofollow"&gt;Bitcoin Ordinals 、Inscriptions 和 BRC-20 20230524_哔哩哔哩_bilibili&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果方便的话，可以关注一下这个 up 主，我入门也是看的他的资料。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;对于项目方为什么要做铭文市场&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;市场火热，现在资金基本都在往铭文市场流入。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打铭文收取手续费，按单笔计算通常在 2u ，假如比特价格 47200U,用户打 23,600 笔铭文交易即可收取一个比特币的手续费。ordi ，这个币 总量是两千一百万，每次打一千。需要两万一千笔交易才能打完。也就是说如果发出一个币被打完。就是接近一个比特币的收入。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;目前市场比较火热的就是 brc20 协议，但是 brc20 协议目前能被打的代币已经打的差不多了。对于早期参与打币的用户，他们已经赚到足够的利润，对于后期没赚到的用户，他们损失的也只是个人手续费。很多人手里有资金，不知道往哪里投，这时候就需要一个新的协议出现，一旦出现，肯定是宁可错杀不可放过的状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;对于开发为什么要做铭文相关的技术&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;web3 板块目前两个高收入人群，智能合约，以及铭文技术。智能合约有门槛，但是不高，现在资料很好找。也有很多现成的智能合约可以直接套用。铭文系统比较重要的两个板块&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;交易&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;需要对比特币 taproot 协议有充足的知识储备。需要了解多重签名的机制&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;索引&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;官方的 ordinals 提供了一个索引浏览器，铸造铭文，批量铸造铭文，以及一些简单的 http 接口。但是这些针对的是整个比特币铭文。对于单独的某个铭文内的协议，例如 brc20 ，或者 brc100 。并没有相关资料供人查询使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;ordinals 的使用&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;比特币区块同步（适用于初学者）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用比特币的 regtest （测试）网络。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下载比特币钱包：访问&lt;a href="https://bitcoincore.org/en/download/" rel="nofollow"&gt;比特币官网&lt;/a&gt;，选择 Linux (tgz)版下载。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解压下载的安装包：使用命令&lt;code&gt;tar -zxvf [下载的安装包]&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入解压后的目录，找到&lt;code&gt;bin&lt;/code&gt;目录下的&lt;code&gt;bitcoind&lt;/code&gt;文件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行命令&lt;code&gt;bitcoind -regtest -txindex -daemon&lt;/code&gt;。如果看到“Bitcoin server starting”的提示，则表示执行成功。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下载并设置 Ord 软件&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;访问 Ordinals GitHub 页面下载最新版本的&lt;code&gt;ord&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;找到适用于 Linux 的文件（如&lt;code&gt;ord-版本号-x86_64-unknown-linux-gnu.tar.gz&lt;/code&gt;），下载并解压。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进入解压后的目录，找到&lt;code&gt;ord&lt;/code&gt;可执行文件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行&lt;code&gt;ord -r wallet create&lt;/code&gt;来创建一个专用的 Ord 钱包。执行后会显示一个助记词，可以导入到 OKT 钱包或 Unisat 钱包中。在主网或 testnet 网络上，币种数据是通用的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;接收地址和挖矿&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;执行&lt;code&gt;ord -r wallet receive&lt;/code&gt;以获取支持 Taproot 协议的地址。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用命令&lt;code&gt;bitcoin-cli -regtest generatetoaddress 101 [receive address]&lt;/code&gt;，将 101 个区块的比特币挖到获取的地址上（&lt;code&gt;receive address&lt;/code&gt;就是上一步骤获取的地址）。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;铭刻命令&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;执行&lt;code&gt;ord -r wallet inscribe -h&lt;/code&gt;查看铭刻帮助信息。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建铭刻所需的文件。如果是图片，直接指定图片文件路径。如果是 BRC20 代币信息，则需将 JSON 信息写入文件后，指定该文件进行铭刻。例如部署 ORD 代币的 JSON 示例：&lt;code&gt;{"p":"brc-20","op":"deploy","tick":"ordi","max":"21000000","lim":"1000"}&lt;/code&gt;。关于字段含义，可以参考&lt;a href="https://domo-2.gitbook.io/brc-20-experiment/" rel="nofollow"&gt;官方教程&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行铭刻命令：&lt;code&gt;ord -r wallet inscribe --fee-rate 1 --file [file]&lt;/code&gt;，其中&lt;code&gt;[file]&lt;/code&gt;是你的文件路径。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行挖取区块的命令 &lt;code&gt;bitcoin-cli -regtest generatetoaddress 1 [receive address]&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行完成之后 执行 ord -r server ,开启 ord 浏览器，即可查看铭刻名文信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;问题 1.ord 铸造铭文是阻塞进行的，包括 server 执行开启一个 ord 实例。如果需要使用多个 可以使用 docker 传递比特的.cookie 或者通过 rpc 进行链接。&lt;/p&gt;
+&lt;p&gt;问题 2.ord 单个铸造支持执行 utxo ，批量铸造如何指定 utxo 我暂时没找到，后面找了很多方法最终放弃了 拿 ord 做商业应用批量铸造的想法。改用 封装原生 taproot 交易 参考资料文档有 Node&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/earthstaking/taproot-sdk" rel="nofollow"&gt;https://github.com/earthstaking/taproot-sdk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/unisat-wallet/ord-utils" rel="nofollow"&gt;https://github.com/unisat-wallet/ord-utils&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/robot-factory/brc20-inscribe-bot" rel="nofollow"&gt;https://github.com/robot-factory/brc20-inscribe-bot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/HFFP/brc20-example" rel="nofollow"&gt;https://github.com/HFFP/brc20-example&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BennyTheDev/inscriptions-online.git" rel="nofollow"&gt;https://github.com/BennyTheDev/inscriptions-online.git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/supertestnet/inscriptions-online" rel="nofollow"&gt;https://github.com/supertestnet/inscriptions-online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Go&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/okx/BRC20-goSDK" rel="nofollow"&gt;https://github.com/okx/BRC20-goSDK&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;问题 3.ord 对于铭文索引并没有任何官方的支持信息，如果需要 brc20 的铭文索引，有几个途径，&lt;/p&gt;
+&lt;p&gt;1 使用三方的 api 接口，例如 unisat ，或者 okt ，&lt;/p&gt;
+&lt;p&gt;2 使用 github 上开源的索引程序&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/okx/BRC20S" rel="nofollow"&gt;https://github.com/okx/BRC20S&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/okx/ord" rel="nofollow"&gt;https://github.com/okx/ord&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/unisat-wallet/libbrc20-indexer" rel="nofollow"&gt;https://github.com/unisat-wallet/libbrc20-indexer&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;建了一个比特币铭文交流群，欢迎有想法的小伙伴加入，如果有老板对铭文市场有兴趣也可以联系我&lt;/p&gt;
+&lt;p&gt;tg:@liuxiao66661 wx@lcs220129&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://wvliavregp4.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2JjODVkNTZkNzc5OTRhODE5NTczODI2NTY2ZTlmYjJfUndBTUo2Q0dHWlY2UlhrU0hCS3RVUjl1ZkFBdmRJUElfVG9rZW46SVFNNmJGTzJDb3Y3bTJ4UldpVmNyelVoblFiXzE3MDQ3NzYxMjM6MTcwNDc3OTcyM19WNA" /&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 05:00:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007128#reply0</guid></item><item><title>[问与答] 请大家给参谋一下选哪个储藏室好一些</title><link>https://www.v2ex.com/t/1007126#reply0</link><description>当时买房的时候加 5k 买了个储藏室，应该是 10 个平方，实际面积只有不到 5 平。而且赠送的储藏室以后要抽签随机选，到时候不一定能选到面积大的，因为有仓库的需求，想现在加钱换个大一点的。&lt;br /&gt;&lt;br /&gt;去实地看了一下，大一点的长方形的居多，边角有一个接近正方形的。&lt;br /&gt;&lt;br /&gt;不知道当仓库的话选哪一个好一些，层高比较高，感觉得有 2 层楼那么高，以后估计会做隔层。&lt;br /&gt;&lt;br /&gt;作为以后存放设备和做手工的一个空间。&lt;br /&gt;&lt;br /&gt;请大家给参谋参谋选哪一个好一些，里面标注 [公] 的物业说不卖。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/rigfmxy" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/rigfmxy&lt;/a&gt;</description><pubDate>Tue, 09 Jan 2024 04:52:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007126#reply0</guid></item><item><title>[创业组队] 上次放外包，这次放创业组队试试</title><link>https://www.v2ex.com/t/1007125#reply0</link><description>&lt;p&gt;有数实验室各类轻量级 2C 项目找各种伙伴
+具体参看：&lt;a href="http://atitlab.carrd.co" rel="nofollow"&gt;atitlab.carrd.co&lt;/a&gt;
+有意可在线申请
+thx&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 04:51:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007125#reply0</guid></item><item><title>[宽带症候群] 2024 年了，想咸鱼一个破烂运营商路由器刷第三方挂梯子玩，有必要么？推荐哪款机，刷哪个固件？</title><link>https://www.v2ex.com/t/1007124#reply4</link><description></description><pubDate>Tue, 09 Jan 2024 04:46:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007124#reply4</guid></item><item><title>[问与答] 制氧机有推荐吗？</title><link>https://www.v2ex.com/t/1007123#reply0</link><description>&lt;p&gt;家里老人用，3000 左右。&lt;/p&gt;</description><pubDate>Tue, 09 Jan 2024 04:43:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007123#reply0</guid></item></channel></rss>
