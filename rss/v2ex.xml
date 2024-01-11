@@ -1,80 +1,270 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Jan 2024 09:13:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 还差 2 天时间离入职就满半年被裁了</title><link>https://www.v2ex.com/t/1007880#reply0</link><description>&lt;p&gt;被裁了，还差 2 天时间离入职就满半年了，公司故意卡着时间裁，就是为了少付赔偿金，跟公司协商要 N+1 ，公司宁愿违法辞退赔 2N 也不愿付 N+1 ，因为未满半年的情况下 2N &amp;lt; N+1 的。&lt;/p&gt;
-&lt;p&gt;去年 7 月入职，口头发的 offer 12k ，但劳动合同只写了最低工资 2300 ，上下班不用打卡。&lt;/p&gt;
-&lt;p&gt;恶心的操作来了，前几天公司以我旷工超过 3 天为由给我发了辞退通知书，由于上下班不用打卡，我只有代码提交记录，以及零碎的工作聊天记录，这够作为上班的证据么？
-接着还有更恶心的操作，昨天发上个月工资时，居然只发了最低工资 2300 ，真是恶心 TM 给恶心开门。&lt;/p&gt;
-&lt;p&gt;我该收集哪些证据维护我的利益？&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 09:11:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007880#reply0</guid></item><item><title>[分享创造] 一个更好用的 API 文档解决方案</title><link>https://www.v2ex.com/t/1007879#reply0</link><description>&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.apideploy.cn" rel="nofollow"&gt;Apideploy&lt;/a&gt;是一个一站式的 API 生成、托管、调试与协同解决方案&lt;/strong&gt;。其核心分为两部分：API 文档生成 +API 托管与调试平台。&lt;/p&gt;
-&lt;p&gt;API 文档生成是一个自动化的过程，同时&lt;strong&gt;支持&lt;/strong&gt;“&lt;strong&gt;基于代码注释文档生成&lt;/strong&gt;”与“&lt;strong&gt;基于 Swagger / OpenAPI 文档生成&lt;/strong&gt;”， 目前提供了 Java 生成的开源代码，访问 &lt;a href="https://github.com/apideploy-team" rel="nofollow"&gt;https://github.com/apideploy-team&lt;/a&gt; 可以查阅。&lt;/p&gt;
-&lt;p&gt;API 托管与调试平台主要功能包括：项目管理、团队协作、权限管理、API 文档托管、文档调试、接口数据 mock 、版本更新记录、版本对比、个性化文档导出、多格式文档导入等，是一个集 API 全生命周期管理的平台，非常适合团队协作。目前支持公有云与私有化部署，&lt;a href="https://www.apideploy.cn" rel="nofollow"&gt;www.apideploy.cn&lt;/a&gt;是公有云的解决方案。&lt;/p&gt;
-&lt;p&gt;有任何问题可以反馈&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 09:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007879#reply0</guid></item><item><title>[问与答] 求问 写代码水平 GPT4 比 3.5 高多少？ 值得开吗</title><link>https://www.v2ex.com/t/1007878#reply0</link><description>目前用的 poe ，经常很脑瘫，跟它说这样不行，xx 地方错了，或者 xx 方法和包不存在，然后继续返回错误答案，想问问用过 4 和 1106 的朋友，区别大吗，值得开不</description><pubDate>Thu, 11 Jan 2024 09:11:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007878#reply0</guid></item><item><title>[MacBook Pro] 求教， 14 寸有没有遇到盒盖之后，左右不齐的情况。</title><link>https://www.v2ex.com/t/1007877#reply0</link><description>不齐很不明显，大概不到 1 毫米左右。&lt;br /&gt;盒盖后，左边接缝多一点，右边少一点。&lt;br /&gt;后面散热口那一面，转轴的地方左右也感觉不齐。&lt;br /&gt;虽然很微弱的偏移，但是手感真的很直接。&lt;br /&gt;心理别扭的很。&lt;br /&gt;&lt;br /&gt;有相同情况的朋友吗？&lt;br /&gt;或者有知道怎么可以处理这个问题的吗？</description><pubDate>Thu, 11 Jan 2024 09:10:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007877#reply0</guid></item><item><title>[分享创造] 漂亮模板的在线简历制作网站推荐：奈思简历 NiceCV</title><link>https://www.v2ex.com/t/1007876#reply0</link><description>在职场竞争日益激烈的今天，一份优秀的简历是您职业生涯的敲门砖。但是，如何撰写一份出色的简历并非易事。为此，我想介绍一个能够帮助您在职场脱颖而出的在线简历网站——奈思简历 NiceCV ，网站提供超多精心制作的漂亮简历模板和简历范文。&lt;br /&gt;&lt;br /&gt;网站地址： &lt;a href="https://www.nicecv.cn" rel="nofollow noopener" target="_blank"&gt;https://www.nicecv.cn&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;奈思简历 NiceCV 为您提供了一站式在线简历制作服务，从创建个性化漂亮简历到提供专业建议，都可以在这里完成。其主要特点包括：&lt;br /&gt;&lt;br /&gt;✍️ 直观编辑界面&lt;br /&gt;&lt;br /&gt;📁 个性化专业模板&lt;br /&gt;&lt;br /&gt;📄 专业范文&lt;br /&gt;&lt;br /&gt;✨ ai 简历助手&lt;br /&gt;&lt;br /&gt;⏬ PDF 文件导出&lt;br /&gt;&lt;br /&gt;🔗 在线简历分享&lt;br /&gt;&lt;br /&gt;💾 修改即保存，数据不丢失</description><pubDate>Thu, 11 Jan 2024 09:08:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007876#reply0</guid></item><item><title>[程序员] 有什么开源项目或者工具专门用来学习练习 sql 的吗？</title><link>https://www.v2ex.com/t/1007873#reply2</link><description>RT, 觉得自己还要加强一下这块，还有 linq 这方面</description><pubDate>Thu, 11 Jan 2024 08:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007873#reply2</guid></item><item><title>[创业组队] 组队一起做 VR 休闲游戏</title><link>https://www.v2ex.com/t/1007871#reply0</link><description>&lt;p&gt;我们正在组队，求一名酷酷的 Server 大神。&lt;/p&gt;
-&lt;p&gt;我们正在筹备一款 VR 休闲棋牌游戏。面向海外（主要是英语地区），上架 Quest （后期也上 VisionPro ）。前期支持手柄交互，后期支持手眼交互。&lt;/p&gt;
-&lt;p&gt;目前属于业余时间做，赚钱了一起分。&lt;/p&gt;
-&lt;p&gt;团队目前已经具备几位同学：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2 位资深 Unity 同学，从业 10 年+，做过 大型游戏、VR 内容产品、XR 底层引擎；&lt;/li&gt;
-&lt;li&gt;1 位产品同学，之前创业做游戏，融资千万，目前从事 XR 产品工作，对 VR 生态 和 用户体验 十分了解；&lt;/li&gt;
-&lt;li&gt;1 位发行同学，目前主页是负责几款 VR 游戏的全球发行工作和社群运营工作；&lt;/li&gt;
-&lt;li&gt;美术同学准备找朋友帮忙，哈哈。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大家对 VR 游戏有热情，相信 VR 的潜力，对 Quest 上游戏的发行和变现很有研究。&lt;/p&gt;
-&lt;p&gt;我们期待一位 Server 同学组队，最好做过游戏业务，能解决游戏里数据实时同步的难题。只希望你对 VR 游戏有好奇心，最好有 Quest/其他 VR 设备，哈哈。&lt;/p&gt;
-&lt;p&gt;感兴趣的同学，欢迎加我呀：junwoww&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:55:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007871#reply0</guid></item><item><title>[YouTube] YouTube 家庭车一人 7.5 每个月</title><link>https://www.v2ex.com/t/1007869#reply1</link><description>&lt;p&gt;长期车，可以走平台，共 6 人，还差三个，加 telegram 联系。本人仅拼购，花费 6 人平分不挣差价&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:47:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007869#reply1</guid></item><item><title>[职场话题] 公司服从性测试，必需要年会表演魔术，求大伙给条路走</title><link>https://www.v2ex.com/t/1007865#reply29</link><description>&lt;p&gt;部门一共三个人，独立或者合作都行&lt;/p&gt;
-&lt;p&gt;跪求：上手简单，场面比较大（不需要硬币，纸牌啥的看不清楚那种），第一眼看上去精彩就行&lt;/p&gt;
-&lt;p&gt;道具上经费不要太离谱就行&lt;/p&gt;
-&lt;p&gt;救救我各位大佬 :C&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007865#reply29</guid></item><item><title>[Bitcoin] brc20 铭文还有机会吗？</title><link>https://www.v2ex.com/t/1007864#reply3</link><description>&lt;p&gt;币圈新手，目前拿着 sol 链游 bigtime ，brc20 三巨头，想问问懂行的大佬，brc20 未来 1-2 年还有戏吗？怕错过牛市。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:29:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007864#reply3</guid></item><item><title>[分享发现] 开源一个使用 gemini-pro 和 GPT4v 解析抖音视频内容并转换成文本的一个小东西</title><link>https://www.v2ex.com/t/1007863#reply0</link><description>&lt;p&gt;开源地址：&lt;a href="https://github.com/disingn/cliptalk" rel="nofollow"&gt;https://github.com/disingn/cliptalk&lt;/a&gt;
-支持：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;抖音去水印&lt;/li&gt;
-&lt;li&gt;抖音视频转文本（使用 gemini-pro-vision 或者 GPT4v ）&lt;/li&gt;
-&lt;li&gt;geminikey 随机调用（多个）&lt;/li&gt;
-&lt;li&gt;OpenAI apikey 随机调用（多个）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前已经对 GPT4v 进行兼容，注意：如果你不想花太多的钱，请不要使用 gpt4v 来解析！！！&lt;/p&gt;
-&lt;p&gt;实际测试，4v 消耗有点快&lt;/p&gt;
-&lt;p&gt;由于没啥时间，就没写 web 界面，后续有时间会完成 web 界面，以及兼容更多的视频平台&lt;/p&gt;
-&lt;p&gt;ps：本人菜鸡，水平有限，大佬勿喷！&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:28:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007863#reply0</guid></item><item><title>[Python] 用 Python 写的一个基于 s2sphere 库的 udf 函数，运行的特别慢</title><link>https://www.v2ex.com/t/1007862#reply0</link><description>&lt;p&gt;用 s2sphere 库做了一个 odps udf 函数，运行的巨慢，会是什么原因？
-同样都是空间地理算法，geohash 就很快，Google S2 是要比 geohash 复杂，但同样是 10 亿行，用 geohash 只跑了十几分钟，用 s2 跑了 19 小时才跑 30%🤣&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:26:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007862#reply0</guid></item><item><title>[杭州] 有没有了解杭州市公积金提前还款或者缩短贷款年限业务的小伙伴，求交流</title><link>https://www.v2ex.com/t/1007861#reply6</link><description>手上有笔闲钱想着把房贷提前还掉一部分，目前准备先把银行的商业贷款还清。想了解一下公积金部分缩短年限业务怎么办理。缩短以后的还款额怎么计算？有了解的兄弟可以介绍一下么？</description><pubDate>Thu, 11 Jan 2024 08:26:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007861#reply6</guid></item><item><title>[问与答] 求推荐 500 左右头戴耳机</title><link>https://www.v2ex.com/t/1007860#reply1</link><description>要求：不闷耳朵，音质较好。&lt;br /&gt;&lt;br /&gt;PS:可以有线，可以没有降噪，可以没有颜值、没有质感，一眼山寨塑料感&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;PS:前头因为外耳道炎，疼的扯到脸颊，最近终于好转了。目前一直单耳带蓝牙耳机，想换成头戴式不入耳应该好点。本人对耳机没有研究，求大佬们推荐，型号写具体点最好(*´ｪ｀*)</description><pubDate>Thu, 11 Jan 2024 08:25:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007860#reply1</guid></item><item><title>[分享创造] 上了一个小站，点击按钮会随机跳转到一个 AI 产品。建站没方向的时候可以用它来找找灵感，欢迎大佬们来玩和提意见。</title><link>https://www.v2ex.com/t/1007859#reply0</link><description>&lt;p&gt;&lt;a href="https://www.randomaiproduct.com/" rel="nofollow"&gt;https://www.randomaiproduct.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前收录了两百多个 AI 产品，接下来会再添加七百多个 AI 产品，主要是要人工剔除掉一些 NSFW 的产品比较费事。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007859#reply0</guid></item><item><title>[Apple] 多语言翻译器｜ MultiTranslater - 一键翻译，通晓多国语言！ #限时促销</title><link>https://www.v2ex.com/t/1007857#reply3</link><description>&lt;h1&gt;简介&lt;/h1&gt;
-&lt;p&gt;🌐 &lt;strong&gt;多语言翻译器&lt;/strong&gt; - 您的跨平台翻译伴侣！只需轻松一键，即可将文本同时翻译成多种语言！&lt;/p&gt;
-&lt;h1&gt;主要特征：&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;多语言翻译&lt;/strong&gt;：通过多语言翻译器，用户可以轻松将文本、短语或文章从一种语言 [同时] 翻译成多种语言，实现无缝的多语言转换.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;跨平台体验&lt;/strong&gt;：iOS 和 Mac 均支持多语言翻译器，确保用户随时随地在各种设备上享受一致的翻译体验，进行语言转换.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;智能识别&lt;/strong&gt;：强大的智能识别技术确保翻译准确，提高整体翻译质量和可靠性.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;用户友好的界面&lt;/strong&gt;：清晰简洁的界面设计使用户可以轻松导航和使用多语言翻译器，即使是不太熟悉技术的人也可以轻松使用.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;实时同步&lt;/strong&gt;：实现 iOS 和 Mac 之间的实时同步，保持用户翻译历史和偏好一致.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;为什么选择多语言翻译器？&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;🌐 &lt;strong&gt;无障碍全球沟通&lt;/strong&gt;：多语言翻译器通过其先进的翻译技术促进轻松的全球沟通。无论是旅行、工作还是学习新语言，多语言翻译器 都能满足您的需求.&lt;/li&gt;
-&lt;li&gt;⏰ &lt;strong&gt;高效节省时间&lt;/strong&gt;：不再需要单独翻译。 多语言翻译器 满足您将文本一次性翻译成多种语言的需求，节省您的宝贵时间.&lt;/li&gt;
-&lt;li&gt;🌎 &lt;strong&gt;最广泛的语言支持&lt;/strong&gt;：多语言翻译器支持全球最常用的语言，确保您轻松进行全球交流.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;促销说明&lt;/h1&gt;
-&lt;p&gt;💬 评论区评论随机发送促销代码，各平台总计数量 10 个左右，目前先发放 3 个日用计划促销代码，先到先得.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;EWKJTWFYYMYA&lt;/li&gt;
-&lt;li&gt;E93A4AJX7AJP&lt;/li&gt;
-&lt;li&gt;7MP36PXF97NK&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;下载&lt;/h1&gt;
-&lt;h2&gt;点击跳转下载 ｜ 建议方式&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://apps.apple.com/cn/app/%E5%A4%9A%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E5%99%A8/id6475262354" rel="nofollow"&gt;https://apps.apple.com/cn/app/%E5%A4%9A%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%E5%99%A8/id6475262354&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/multitranslater/id6475262354" rel="nofollow"&gt;https://apps.apple.com/us/app/multitranslater/id6475262354&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;搜索下载&lt;/h2&gt;
-&lt;p&gt;中文测试搜索“多语言翻译器”目前搜索不到，可能是新应用上架 app store 索引问题，要搜索的搜索&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-txt"&gt;MultiTranslater
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Jan 2024 13:49:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [北京][字节][内推]字节支付后端开发工程师/架构师</title><link>https://www.v2ex.com/t/1007942#reply0</link><description>团队福利多，干活有意思不卷，有足够技术深度可以折腾，欢迎加入~~&lt;br /&gt;内推方式：+WX 详聊：gravity_leo858    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级后端开发工程师-抖音支付&lt;br /&gt;职位描述&lt;br /&gt;1 、参与并负责抖音支付核心系统的开发及维护；&lt;br /&gt;2 、参与并负责公司级别的春节、双十一等重要活动，解决高并发场景高可用问题；&lt;br /&gt;3 、参与并负责支付系统的稳定性建设，报警，监控，容灾，降级等；&lt;br /&gt;4 、参与设计并实现具备可扩展性和可维护性的系统方案；&lt;br /&gt;5 、充分理解支付业务，抽象领域模型，推进平台型系统建设；&lt;br /&gt;6 、沉淀技术能力和行业经验，与平台一起成长和发展。&lt;br /&gt;职位要求&lt;br /&gt;1 、本科及以上学历，2 年以上工作经验，熟悉 Java/PHP/C++/Go/Python 中的至少一种技术语言；&lt;br /&gt;2 、深刻理解计算机原理，有良好的数据结构和算法基础；&lt;br /&gt;3 、有优秀的系统设计能力，熟练掌握数据库、缓存、消息队列的原理及应用；&lt;br /&gt;4 、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；&lt;br /&gt;5 、有服务治理，稳定性提升，容量规划等高可用、高并发、分布式系统的实际经验为加分项；&lt;br /&gt;6 、有电商、金融业、银行业、第三方支付等核心系统研发经验为加分项。&lt;br /&gt;&lt;br /&gt;后端开发架构师-钱包支付&lt;br /&gt;职位描述&lt;br /&gt;1 、参与并负责字节跳动核心支付系统开发及维护；&lt;br /&gt;2 、参与并负责公司级别大促保障活动，解决高并发场景高可用问题；&lt;br /&gt;3 、参与并负责支付业务技术风险防控建设，解决金融级系统稳定性及资损防控问题；&lt;br /&gt;4 、参与设计并实现具备可扩展性和可维护性的系统方案；&lt;br /&gt;5 、充分理解支付业务，抽象领域模型，推进平台型系统建设；&lt;br /&gt;6 、沉淀技术能力和行业经验，与平台一起成长和发展。&lt;br /&gt;职位要求&lt;br /&gt;1 、本科及以上学历，5 年以上工作经验，熟悉 Java/PHP/C++/Go/Python 中的至少一种技术语言；&lt;br /&gt;2 、深刻理解计算机原理，有良好的数据结构和算法基础；&lt;br /&gt;3 、有优秀的系统设计能力，熟练掌握数据库、缓存、消息队列的原理及应用；&lt;br /&gt;4 、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；&lt;br /&gt;5 、有服务治理，稳定性提升，容量规划等高可用、高并发、分布式系统的实际经验为加分项；&lt;br /&gt;6 、有电商、金融业、银行业、第三方支付等核心系统研发经验为加分项。</description><pubDate>Thu, 11 Jan 2024 13:44:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007942#reply0</guid></item><item><title>[V2EX] 维尼熊的后续来了</title><link>https://www.v2ex.com/t/1007941#reply2</link><description>&lt;p&gt;前情提要在这里，&lt;a href="https://www.v2ex.com/t/1007646" rel="nofollow"&gt;https://www.v2ex.com/t/1007646&lt;/a&gt; ，因为我不够 1000 天，所以无法在水深火热分区里面对帖子进行 append 。。。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:41:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007941#reply2</guid></item><item><title>[分享发现] 如何调试 WireGuard 内核模块</title><link>https://www.v2ex.com/t/1007940#reply0</link><description>&lt;p&gt;&lt;a href="https://blog.jinmiaoluo.com/posts/wireguard-debug/" rel="nofollow"&gt;https://blog.jinmiaoluo.com/posts/wireguard-debug/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:32:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007940#reply0</guid></item><item><title>[分享创造] 开源的可视化工具 LIGHT CHASER，干到 v0.0.10 版本了！</title><link>https://www.v2ex.com/t/1007939#reply0</link><description>&lt;p&gt;LIGHT CHASER 发布第 v0.0.10 预览版，终于来到稳定版前的最后一个版本。基于 TypeScript 开发的 web 编辑器。在这个版本上尽力做了数据结构和代码上的优化，优化蓝图事件的接入方式。近期还提供了接入 ECharts 图表库的教程。&lt;/p&gt;
+&lt;p&gt;终于搞到了稳定版前的最后一个预览版&lt;/p&gt;
+&lt;p&gt;快快体验一波：&lt;/p&gt;
+&lt;p&gt;GitHub： &lt;a href="https://github.com/xiaopujun/light-chaser" rel="nofollow"&gt;https://github.com/xiaopujun/light-chaser&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Demo： &lt;a href="https://xiaopujun.github.io/light-chaser-app/" rel="nofollow"&gt;https://xiaopujun.github.io/light-chaser-app/#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Snipaste_2024-01-11_12-34-36.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/XBeC28f3RzsOcnh.png" /&gt;
+&lt;img alt="Snipaste_2024-01-11_12-35-05.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/uFfIR91EDSls2T4.png" /&gt;
+&lt;img alt="Snipaste_2024-01-11_12-35-45.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/MOWSJg1eHkfPl2y.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:31:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007939#reply0</guid></item><item><title>[程序员] idea 从 github 克隆项目失败</title><link>https://www.v2ex.com/t/1007938#reply4</link><description>&lt;p&gt;错误信息：  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;RPC failed; curl 18 transfer closed with outstanding read data remaining 5145 bytes of body are still expected fetch-pack: unexpected disconnect while reading sideband packet early EOF fetch-pack: invalid index-pack output
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Tags: #多语言翻译器 #翻译工具 #语言交流 #跨平台翻译 #全球沟通 #促销代码 #iOS #Mac 🌟&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:19:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007857#reply3</guid></item><item><title>[问与答] 为什么腾讯不怕被反垄断？</title><link>https://www.v2ex.com/t/1007856#reply19</link><description>阿里许多子品牌，独立集团、公司。为什么腾讯这么大，不会被反垄断？被国有化（明或暗的）？</description><pubDate>Thu, 11 Jan 2024 08:18:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007856#reply19</guid></item><item><title>[Linux] 告警状态的一个疑问？</title><link>https://www.v2ex.com/t/1007855#reply2</link><description>&lt;p&gt;最近在做一个告警的产品，遇到一个困惑的点：&lt;/p&gt;
-&lt;p&gt;比如容器重启这个规则，容器重启了，我发出来一个告警。&lt;/p&gt;
-&lt;p&gt;现在的问题是，页面在显示这个告警的时候，应该怎么显示它的状态？告警中 或者 已恢复 这两个状态都不太合适。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:18:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007855#reply2</guid></item><item><title>[Windows] 有什么好的工具可以集中保存 windows 操作系统日志</title><link>https://www.v2ex.com/t/1007854#reply2</link><description>&lt;p&gt;应审计要求，想找一款简单的日志系统，无需复杂的配置即可使用，能够把公司的 windows 、linux 服务器系统日志统一存放，有个界面能看日志内容即可，不知各位大佬有无推荐&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:18:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007854#reply2</guid></item><item><title>[分享创造] 「无边记」青春版 V2024</title><link>https://www.v2ex.com/t/1007853#reply5</link><description>&lt;p&gt;一个纯文字的无限画布在线记事本。上一个帖子详见 &lt;a href="https://www.v2ex.com/t/947381" rel="nofollow"&gt;https://www.v2ex.com/t/947381&lt;/a&gt;
-（感慨自己持续开发快一年了）。&lt;/p&gt;
-&lt;p&gt;欢迎访问：&lt;a href="https://cospad.org" rel="nofollow"&gt;https://cospad.org&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简单说，这是一个大家实时编辑文本的在线平台，像画画一样，你可以在任意位置插入字符。
-画布大小为 40000000x20000000 ，只要愿意的话，甚至可以在一行里写一篇小说。&lt;/p&gt;
-&lt;p&gt;当然因为没有自动换行，读起来确实有点费劲，如果你想体验的话，可以前往坐标 &lt;a href="https://cospad.org/@500,1000" rel="nofollow"&gt;https://cospad.org/@500,1000&lt;/a&gt;
-阅读「女神的超级赘婿」前 5000 章（电脑里最大的 txt 就是这个）&lt;/p&gt;
-&lt;p&gt;因为是画画，所以删除，插入，换行等概念是反直觉的，想象一下你在一个真记事本上写字&lt;/p&gt;
-&lt;p&gt;挑战浏览器 Canvas 渲染性能可以前往坐标 &lt;a href="https://cospad.org/@65536,65536" rel="nofollow"&gt;https://cospad.org/@65536,65536&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;注意 M1/2/3 的 safari 有性能限制，请尝试其它浏览器。另外移动端 iOS 的交互不太友好，目前以安卓为主。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="home" class="embedded_image" rel="noreferrer" src="https://cospad.org/i/VTKZvFdSoqWQDvAKurYJ.webp" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 08:17:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007853#reply5</guid></item></channel></rss>
+&lt;p&gt;git 私服拉取没问题，本地能 ping 通 github ，任务管理器内也能看到有下载速度。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:29:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007938#reply4</guid></item><item><title>[职场话题] 室友的故事｜给字节卖命两年，被恶意劝退并要求退还全部工资｜欢迎转发</title><link>https://www.v2ex.com/t/1007937#reply4</link><description>我以前室友的遭遇，感觉的确是挺苦逼的。。。。。以前基本上每天 1 、2 点到家。。。。&lt;br /&gt;&lt;a href="https://dvrgv3fwl3.feishu.cn/docx/SAz5dekbZoZKEKxkAeqcuAdLnXe" rel="nofollow noopener" target="_blank"&gt;https://dvrgv3fwl3.feishu.cn/docx/SAz5dekbZoZKEKxkAeqcuAdLnXe&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 13:25:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007937#reply4</guid></item><item><title>[OpenAI] 一款免费的 AI 换脸神器 - FaceFusion</title><link>https://www.v2ex.com/t/1007936#reply0</link><description>&lt;p&gt;经过了很长一段时间的 AI 技术发展，目前的 AI 换脸技术已经越来越成熟。除了能够实现人物照片的换脸，还可以实现视频中人物的换脸。&lt;/p&gt;
+&lt;p&gt;FaceFusion 是一款免费的换脸器，同时提供了脸部的修复增强功能。可以自己部署，也可以使用 Google colab 版本白嫖换脸。&lt;/p&gt;
+&lt;p&gt;FaceFusion 的 Github 项目，采用了 MIT 许可：
+&lt;a href="https://github.com/facefusion/facefusion" rel="nofollow"&gt;https://github.com/facefusion/facefusion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;试用效果还不错，写了一篇简单的介绍：&lt;/p&gt;
+&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/bczWQJOulG5YxdneezyrAQ" rel="nofollow"&gt;一款免费的 AI 换脸神器 - FaceFusion&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:21:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007936#reply0</guid></item><item><title>[问与答] 关于 Zerotier 的一个问题，流量下可以访问内网，但是无法回家翻墙</title><link>https://www.v2ex.com/t/1007933#reply0</link><description>在家里的旁路由上目前是 Zerotiler+Openclash+Mosdns ，实现透明代理。&lt;br /&gt;同时间 Zerotiler 将旁路由设置成了默认网关，在异地已经完美做到回家翻墙。&lt;br /&gt;但是今天出现一个问题，在手机上通过非 wifi 环境无法翻墙，家里的内网设备是可以正常操作的。&lt;br /&gt;&lt;br /&gt;具体表现是，流量下连接了 zerotier ，可以访问内网所有设备，但是访问 google 大概率出现无法访问此网站，小概率出现“你的连接不是专用连接”。&lt;br /&gt;Openclash 目前是 fakeip ，但是切换回 Redir 问题依旧。&lt;br /&gt;而手机一旦连入 wifi （办公室），回家翻墙就正常了。&lt;br /&gt;&lt;br /&gt;这种清空应该如何解决？</description><pubDate>Thu, 11 Jan 2024 13:17:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007933#reply0</guid></item><item><title>[宽带症候群] 不同渠道办理宽带，有差别吗？</title><link>https://www.v2ex.com/t/1007932#reply2</link><description>&lt;p&gt;上海，商用性质的公寓，管家给的办理渠道：电信 1800/年，联通 1560/年，移动 1500/年，都是 100M 。&lt;/p&gt;
+&lt;p&gt;我已经用了两年的联通了，本不打算换，但是前两天看到楼道里贴的一张广告，写着电信 1200/年。&lt;/p&gt;
+&lt;p&gt;所以在不同渠道办宽带，都是 100M 的话，有什么隐性的不同吗？比如便宜的用超了会限速？还是便宜的速度低？还是压根一样呢？&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:11:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007932#reply2</guid></item><item><title>[分享发现] GPT4 企业版免费使用，自己动手，丰衣足食。</title><link>https://www.v2ex.com/t/1007931#reply9</link><description>今天更新的 GPT4 企业版，邀请机制有漏洞，主号邀请小号，小号可以再无限制邀请副号，鸡生蛋蛋生鸡无穷无尽了。&lt;br /&gt;&lt;br /&gt;建议大家使用小号爽一爽，估计很快会 ban 号，不过现在注册小号很容易，也无所谓。&lt;br /&gt;&lt;br /&gt;几个已经邀请进入企业的账号，自己上去点邀请，自己动手丰衣足食！&lt;br /&gt;&lt;br /&gt;账号----密码&lt;br /&gt;&lt;br /&gt;cCNB9bo53hRI@madoka.free.hr----$;-dJ&amp;amp;f/=sP`}KV&lt;br /&gt;&lt;br /&gt;9rb2dKFXJrQ2@madoka.free.hr----t&amp;lt;Xt?(sHN#F9MX]&lt;br /&gt;&lt;br /&gt;PpK0yznP3s0i@madoka.free.hr----)0IgJGz^YGWkryD&lt;br /&gt;&lt;br /&gt;HPJpKlEL3XaO@madoka.free.hr----*Tywg?"F|&amp;lt;8(RCv&lt;br /&gt;&lt;br /&gt;Ooo6mymUNFRK@madoka.free.hr----:~!xG6=JQH,R&amp;gt;9.&lt;br /&gt;&lt;br /&gt; ![]( &lt;a href="https://i.imgur.com/cxs7rK2.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cxs7rK2.png" /&gt;&lt;/a&gt;)  ![]( &lt;a href="https://i.imgur.com/DuAgZex.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DuAgZex.png" /&gt;&lt;/a&gt;)</description><pubDate>Thu, 11 Jan 2024 13:06:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007931#reply9</guid></item><item><title>[酷工作] Web 3/DEX 招聘 - 运维工程师 [远程办公]</title><link>https://www.v2ex.com/t/1007930#reply0</link><description>工作模式：远程办公&lt;br /&gt;公司背景：DEX&lt;br /&gt;目前创业阶段，寻找不怕吃苦，能接受目前 6 天制的同学一起打拼，盈利之后大家一块分红！&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责交易系统平台的运维工作，主要包括日常维护、系统变更、问题处理、应急处置、技术支持、安装部署等，保障应用系统的安全稳定运行&lt;br /&gt;- 参与交易系统技术架构的规划建设工作，如高可用架构、分布式部署、多活负载均衡等，分析评估应用系统容量与性能，提高系统运行可靠性&lt;br /&gt;- 参与持续交付、持续部署、运维工具开发等工作，提高交付质量和效率，提升互联网应用的自动化运维、监控运维水平&lt;br /&gt;- 按运维规范编制、更新应用系统技术资料&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 具备 3 年及以上工作经验，有互联网运维开发、中心化交易所运维开发经验者优先&lt;br /&gt;- 有 Docker 和 AWS 运维经验&lt;br /&gt;- 有自动化 CICD 方面的良好实践&lt;br /&gt;- 熟悉 Rancher / Kubernetes 架构和组件，在高可用集群设置和维护方面拥有丰富经验&lt;br /&gt;- 拥有部署，运维，监控，优化和排除云基础架构故障的经验&lt;br /&gt;- 精通 Shell 脚本，Python 等 DevOps 常用开发语言&lt;br /&gt;- 熟悉 Docker 和 Linux 内核配置优先；&lt;br /&gt;- 具有较强风险意识，责任心强，积极主动，细致有条理；具备较强的总结、归纳和创新能力；富有团队协作精神，具备良好的沟通能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Thu, 11 Jan 2024 13:06:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007930#reply0</guid></item><item><title>[问与答] 用 emby+zerotier 组建了家庭影音系统，求推荐高性价比硬盘</title><link>https://www.v2ex.com/t/1007929#reply1</link><description>&lt;p&gt;先表扬下 mac mini ，我 2700 卖的 m2 芯片 8+256 版本，用来做长期运行的服务器功耗十分合适，平时运行无声音，根据小米功率计显示，闲时 4w-7w ，算下来一年电费就 61 ，非常划算。&lt;/p&gt;
+&lt;p&gt;zerotier 搭建虚拟内网使得我远在外地的妹妹也能连上我的影音服务器，不得不说这个技术实在太方便了。&lt;/p&gt;
+&lt;p&gt;目前我有一块 1TB 的机械硬盘，我的想法是未来要扩展硬盘容量，有可能要连接多块硬盘，怎么连接还没想好。&lt;/p&gt;
+&lt;p&gt;由于我从很早就开始把个人重要数据往云端多地备份，所以其实本地重要文件基本不太可能放在这些硬盘上。&lt;/p&gt;
+&lt;p&gt;对于要购买的硬盘有点纠结，不知道该选择二手硬盘还是买全新的，容量我还是希望大一点，大家有没有啥推荐的。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:56:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007929#reply1</guid></item><item><title>[北京] 北京通 APP 宣布下线 小程序取而代之</title><link>https://www.v2ex.com/t/1007928#reply0</link><description>北京通 APP 宣布下线 小程序取而代之&lt;br /&gt;&lt;a href="https://www.donews.com/news/detail/8/3682625.html" rel="nofollow noopener" target="_blank"&gt;https://www.donews.com/news/detail/8/3682625.html&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 12:53:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007928#reply0</guid></item><item><title>[iPhone] 17.x 经常能遇到微信通知变成正方形而非圆角（非必现但经常可以看到），兄弟们遇到过吗？</title><link>https://www.v2ex.com/t/1007927#reply1</link><description></description><pubDate>Thu, 11 Jan 2024 12:45:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007927#reply1</guid></item><item><title>[宽带症候群] 大家电信网络 Speedtest PING 值都是多少啊？</title><link>https://www.v2ex.com/t/1007926#reply2</link><description>黑龙江 20 起跳，羡慕那些个位数的。</description><pubDate>Thu, 11 Jan 2024 12:35:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007926#reply2</guid></item><item><title>[程序员] AI 总结鸭-你的微信总结助手</title><link>https://www.v2ex.com/t/1007924#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%9B%BE%E7%89%87%E6%A1%88%E4%BE%8B.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;AI 总结鸭是什么？&lt;/h1&gt;
+&lt;p&gt;AI 总结鸭是一款高效的总结工具，专注于解决信息碎片化和阅读焦虑问题，帮助用户提升阅读效率，优化阅读体验～&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E6%80%BB%E7%BB%93%E9%B8%AD.jpg" /&gt;&lt;/p&gt;
+&lt;h1&gt;为什么需要 AI 总结鸭？&lt;/h1&gt;
+&lt;p&gt;在信息爆炸的时代，我们每天都面对大量信息，来自社交媒体、公众号文章、聊天对话等各个方面。然而，随之而来的问题也相应增多：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;标题党困扰： 文章标题夸张，难以判断真实价值；&lt;/li&gt;
+&lt;li&gt;广告文干扰： 实际内容与标题相去甚远，充斥各类广告；&lt;/li&gt;
+&lt;li&gt;优质文章藏匿： 优质文章被淹没在海量信息中，难以轻松找到；&lt;/li&gt;
+&lt;li&gt;文章冗长不读： 面对冗长文章，我们望而却步，不愿花费时间阅读；&lt;/li&gt;
+&lt;li&gt;视频时长考虑： 时间紧迫，长视频成为我们犹豫的理由；&lt;/li&gt;
+&lt;li&gt;微信群消息泛滥： 参与的微信群庞大，消息过多，为不错过重要内容，我们只能不得不翻阅大量楼层。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在这样的背景下，我们迫切需要一款工具，能够快速帮助我们提取核心内容，用最短的时间了解关键信息，解放我们的时间和精力。&lt;/p&gt;
+&lt;h1&gt;AI 总结鸭能满足哪些需求？&lt;/h1&gt;
+&lt;p&gt;AI 总结鸭提供了两款总结助手，用于满足个人和微信群的总结需求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人助手：专为个人打造，主要满足个人用户平时在浏览各类网页、文章、PDF 时，一键转发生成摘要。&lt;/li&gt;
+&lt;li&gt;社群助手：专为微信群打造，主要满足微信群消息太多的情况，一键生成群消息总结。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;个人助手有哪些强悍的功能？&lt;/h1&gt;
+&lt;p&gt;个人助手支持公众号文章、网页链接、PDF 文件等多种类型总结，私密性更强、总结速度更快～🚀&lt;/p&gt;
+&lt;h3&gt;网页总结：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PC 浏览网页时，可以复制网页链接，发送给总结鸭助手，一键生成网页摘要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="网页总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E7%BD%91%E9%A1%B5%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;公众号文章总结&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;手机阅读公众号文章时，点击文章右上角 或 长按 转发给总结鸭助手，一键生成文章摘要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="文章总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
+&lt;h3&gt;PDF 总结：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;上传本地 PDF 文件 给总结鸭助手，一键生成 PDF 摘要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="PDF 总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/PDF%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
+&lt;h1&gt;微信群能否使用总结助手？&lt;/h1&gt;
+&lt;p&gt;在微信群中可以使用社群助手，支持群聊天记录一键总结，提取关键信息生成讨论话题，让你不再错过群里重要信息～🚀&lt;/p&gt;
+&lt;h3&gt;总结效果：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;话题：将聊天记录归纳至少 5 个主要话题，其余话题简要陈述&lt;/li&gt;
+&lt;li&gt;时间段：每个话题讨论的开始时间-结束时间&lt;/li&gt;
+&lt;li&gt;过程：每个话题讨论的过程&lt;/li&gt;
+&lt;li&gt;重要信息：让未参与讨论的人不会错过的重要信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E7%BE%A4%E8%81%8A%E6%80%BB%E7%BB%93%E6%A1%88%E4%BE%8B.jpg" /&gt;&lt;/p&gt;
+&lt;h1&gt;想了解更多？&lt;/h1&gt;
+&lt;h3&gt;公众号：&lt;/h3&gt;
+&lt;p&gt;关注公众号-AI 总结鸭，获取最新的 AI 资讯，充分利用人工智能提升工作效率！提高生活品质！让我们的未来更加智能！🚀🚀&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:26:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007924#reply0</guid></item><item><title>[云修电脑] 求助！ thinkpad 插上外加的内存，就会无法开机，拔掉就正常</title><link>https://www.v2ex.com/t/1007923#reply2</link><description>&lt;p&gt;用了 3 年的 thinkpad T495 笔记本，突然开机后屏幕和键盘灯都不亮，电源灯亮，一分钟后风扇开始狂转，自己拆机看了，风扇也不脏，硬盘也正常，重新拔插了内存条也无效，后来发现拔掉自己后加的 8g 内存，只剩板载的内存就正常了，再把内存插上，故障又重现，用手摸了 cpu 上的导热管，很烫手，测试了后加的内存条是好的，在别的电脑上正常用。我自己猜测，是某个主板部件故障，导致 cpu 异常高温，触发高温保护，而宕机了。联想售后没拆机只是看了看故障就说要换主板，3000 块钱，问修不修，当然不修拿走了。
+目前勉强在用，但是板载只有 8g 内存，用起来有点卡，不知道各位兄弟有没有遇到同样的问题，还有没有别的思路。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:23:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007923#reply2</guid></item><item><title>[分享创造] 用 cloudflare worker 搭建一个 Docker 镜像</title><link>https://www.v2ex.com/t/1007922#reply0</link><description>&lt;p&gt;看到最近的网友帖子有这个需求～ 把下面代码放进 cloudflare worker 绑定自己的域名就好了&lt;/p&gt;
+&lt;p&gt;使用方法：docker pull  &lt;a href="http://abc.com/mysql/mysql-server" rel="nofollow"&gt;abc.com/mysql/mysql-server&lt;/a&gt; &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;'use strict'
+
+const hub_host = 'registry-1.docker.io'
+const auth_url = 'https://auth.docker.io'
+const workers_url = 'https://你的域名'
+/**
+ * static files (404.html, sw.js, conf.js)
+ */
+
+/** @type {RequestInit} */
+const PREFLIGHT_INIT = {
+    status: 204,
+    headers: new Headers({
+        'access-control-allow-origin': '*',
+        'access-control-allow-methods': 'GET,POST,PUT,PATCH,TRACE,DELETE,HEAD,OPTIONS',
+        'access-control-max-age': '1728000',
+    }),
+}
+
+/**
+ * @param {any} body
+ * @param {number} status
+ * @param {Object&amp;lt;string, string&amp;gt;} headers
+ */
+function makeRes(body, status = 200, headers = {}) {
+    headers['access-control-allow-origin'] = '*'
+    return new Response(body, {status, headers})
+}
+
+
+/**
+ * @param {string} urlStr
+ */
+function newUrl(urlStr) {
+    try {
+        return new URL(urlStr)
+    } catch (err) {
+        return null
+    }
+}
+
+
+addEventListener('fetch', e =&amp;gt; {
+    const ret = fetchHandler(e)
+        .catch(err =&amp;gt; makeRes('cfworker error:\n' + err.stack, 502))
+    e.respondWith(ret)
+})
+
+
+/**
+ * @param {FetchEvent} e
+ */
+async function fetchHandler(e) {
+  const getReqHeader = (key) =&amp;gt; e.request.headers.get(key);
+
+  let url = new URL(e.request.url);
+
+  if (url.pathname === '/token') {
+      let token_parameter = {
+        headers: {
+        'Host': 'auth.docker.io',
+        'User-Agent': getReqHeader("User-Agent"),
+        'Accept': getReqHeader("Accept"),
+        'Accept-Language': getReqHeader("Accept-Language"),
+        'Accept-Encoding': getReqHeader("Accept-Encoding"),
+        'Connection': 'keep-alive',
+        'Cache-Control': 'max-age=0'
+        }
+      };
+      let token_url = auth_url + url.pathname + url.search
+      return fetch(new Request(token_url, e.request), token_parameter)
+  }
+
+  url.hostname = hub_host;
+  
+  let parameter = {
+    headers: {
+      'Host': hub_host,
+      'User-Agent': getReqHeader("User-Agent"),
+      'Accept': getReqHeader("Accept"),
+      'Accept-Language': getReqHeader("Accept-Language"),
+      'Accept-Encoding': getReqHeader("Accept-Encoding"),
+      'Connection': 'keep-alive',
+      'Cache-Control': 'max-age=0'
+    },
+    cacheTtl: 3600
+  };
+
+  if (e.request.headers.has("Authorization")) {
+    parameter.headers.Authorization = getReqHeader("Authorization");
+  }
+
+  let original_response = await fetch(new Request(url, e.request), parameter)
+  let original_response_clone = original_response.clone();
+  let original_text = original_response_clone.body;
+  let response_headers = original_response.headers;
+  let new_response_headers = new Headers(response_headers);
+  let status = original_response.status;
+
+  if (new_response_headers.get("Www-Authenticate")) {
+    let auth = new_response_headers.get("Www-Authenticate");
+    let re = new RegExp(auth_url, 'g');
+    new_response_headers.set("Www-Authenticate", response_headers.get("Www-Authenticate").replace(re, workers_url));
+  }
+
+  if (new_response_headers.get("Location")) {
+    return httpHandler(e.request, new_response_headers.get("Location"))
+  }
+
+  let response = new Response(original_text, {
+            status,
+            headers: new_response_headers
+        })
+  return response;
+  
+}
+
+
+/**
+ * @param {Request} req
+ * @param {string} pathname
+ */
+function httpHandler(req, pathname) {
+    const reqHdrRaw = req.headers
+
+    // preflight
+    if (req.method === 'OPTIONS' &amp;amp;&amp;amp;
+        reqHdrRaw.has('access-control-request-headers')
+    ) {
+        return new Response(null, PREFLIGHT_INIT)
+    }
+
+    let rawLen = ''
+
+    const reqHdrNew = new Headers(reqHdrRaw)
+
+    const refer = reqHdrNew.get('referer')
+
+    let urlStr = pathname
+    
+    const urlObj = newUrl(urlStr)
+
+    /** @type {RequestInit} */
+    const reqInit = {
+        method: req.method,
+        headers: reqHdrNew,
+        redirect: 'follow',
+        body: req.body
+    }
+    return proxy(urlObj, reqInit, rawLen, 0)
+}
+
+
+/**
+ *
+ * @param {URL} urlObj
+ * @param {RequestInit} reqInit
+ */
+async function proxy(urlObj, reqInit, rawLen) {
+    const res = await fetch(urlObj.href, reqInit)
+    const resHdrOld = res.headers
+    const resHdrNew = new Headers(resHdrOld)
+
+    // verify
+    if (rawLen) {
+        const newLen = resHdrOld.get('content-length') || ''
+        const badLen = (rawLen !== newLen)
+
+        if (badLen) {
+            return makeRes(res.body, 400, {
+                '--error': `bad len: ${newLen}, except: ${rawLen}`,
+                'access-control-expose-headers': '--error',
+            })
+        }
+    }
+    const status = res.status
+    resHdrNew.set('access-control-expose-headers', '*')
+    resHdrNew.set('access-control-allow-origin', '*')
+    resHdrNew.set('Cache-Control', 'max-age=1500')
+    
+    resHdrNew.delete('content-security-policy')
+    resHdrNew.delete('content-security-policy-report-only')
+    resHdrNew.delete('clear-site-data')
+
+    return new Response(res.body, {
+        status,
+        headers: resHdrNew
+    })
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 11 Jan 2024 12:17:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007922#reply0</guid></item><item><title>[程序员] Edge 浏览器在看地图时很卡</title><link>https://www.v2ex.com/t/1007921#reply4</link><description>&lt;p&gt;测试步骤：
+打开高德地图，选择起点和终点（最好是远距离的，数据量大，如深圳到成都），驾车。规划出路线后，拖动、缩放地图以详细查看，Edge 卡得一批，几乎没法用。试了 firefox 和 chrome 都很流畅。&lt;/p&gt;
+&lt;p&gt;可能高德地图本身优化不好，也试了百度地图，略微流畅一些。但是 Edge 上的百度地图也是最卡的，FireFox 稍好，Chrome 最流畅。&lt;/p&gt;
+&lt;p&gt;准备回到 chrome 了。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007921#reply4</guid></item><item><title>[OpenAI] ChatGPT Team plan：企业版 GPT4.0</title><link>https://www.v2ex.com/t/1007919#reply3</link><description>&lt;p&gt;5 块钱大量出企业版 GPT4.0 问答次数 3 小时提升至 100 次 数量不多 欲购从速！！
+无售后，可成品可邀请，邀请的号要是已经注册过 gpt 的&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 11:34:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007919#reply3</guid></item></channel></rss>
