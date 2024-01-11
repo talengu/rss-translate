@@ -1,270 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Jan 2024 13:49:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [北京][字节][内推]字节支付后端开发工程师/架构师</title><link>https://www.v2ex.com/t/1007942#reply0</link><description>团队福利多，干活有意思不卷，有足够技术深度可以折腾，欢迎加入~~&lt;br /&gt;内推方式：+WX 详聊：gravity_leo858    &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;高级后端开发工程师-抖音支付&lt;br /&gt;职位描述&lt;br /&gt;1 、参与并负责抖音支付核心系统的开发及维护；&lt;br /&gt;2 、参与并负责公司级别的春节、双十一等重要活动，解决高并发场景高可用问题；&lt;br /&gt;3 、参与并负责支付系统的稳定性建设，报警，监控，容灾，降级等；&lt;br /&gt;4 、参与设计并实现具备可扩展性和可维护性的系统方案；&lt;br /&gt;5 、充分理解支付业务，抽象领域模型，推进平台型系统建设；&lt;br /&gt;6 、沉淀技术能力和行业经验，与平台一起成长和发展。&lt;br /&gt;职位要求&lt;br /&gt;1 、本科及以上学历，2 年以上工作经验，熟悉 Java/PHP/C++/Go/Python 中的至少一种技术语言；&lt;br /&gt;2 、深刻理解计算机原理，有良好的数据结构和算法基础；&lt;br /&gt;3 、有优秀的系统设计能力，熟练掌握数据库、缓存、消息队列的原理及应用；&lt;br /&gt;4 、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；&lt;br /&gt;5 、有服务治理，稳定性提升，容量规划等高可用、高并发、分布式系统的实际经验为加分项；&lt;br /&gt;6 、有电商、金融业、银行业、第三方支付等核心系统研发经验为加分项。&lt;br /&gt;&lt;br /&gt;后端开发架构师-钱包支付&lt;br /&gt;职位描述&lt;br /&gt;1 、参与并负责字节跳动核心支付系统开发及维护；&lt;br /&gt;2 、参与并负责公司级别大促保障活动，解决高并发场景高可用问题；&lt;br /&gt;3 、参与并负责支付业务技术风险防控建设，解决金融级系统稳定性及资损防控问题；&lt;br /&gt;4 、参与设计并实现具备可扩展性和可维护性的系统方案；&lt;br /&gt;5 、充分理解支付业务，抽象领域模型，推进平台型系统建设；&lt;br /&gt;6 、沉淀技术能力和行业经验，与平台一起成长和发展。&lt;br /&gt;职位要求&lt;br /&gt;1 、本科及以上学历，5 年以上工作经验，熟悉 Java/PHP/C++/Go/Python 中的至少一种技术语言；&lt;br /&gt;2 、深刻理解计算机原理，有良好的数据结构和算法基础；&lt;br /&gt;3 、有优秀的系统设计能力，熟练掌握数据库、缓存、消息队列的原理及应用；&lt;br /&gt;4 、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；&lt;br /&gt;5 、有服务治理，稳定性提升，容量规划等高可用、高并发、分布式系统的实际经验为加分项；&lt;br /&gt;6 、有电商、金融业、银行业、第三方支付等核心系统研发经验为加分项。</description><pubDate>Thu, 11 Jan 2024 13:44:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007942#reply0</guid></item><item><title>[V2EX] 维尼熊的后续来了</title><link>https://www.v2ex.com/t/1007941#reply2</link><description>&lt;p&gt;前情提要在这里，&lt;a href="https://www.v2ex.com/t/1007646" rel="nofollow"&gt;https://www.v2ex.com/t/1007646&lt;/a&gt; ，因为我不够 1000 天，所以无法在水深火热分区里面对帖子进行 append 。。。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:41:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007941#reply2</guid></item><item><title>[分享发现] 如何调试 WireGuard 内核模块</title><link>https://www.v2ex.com/t/1007940#reply0</link><description>&lt;p&gt;&lt;a href="https://blog.jinmiaoluo.com/posts/wireguard-debug/" rel="nofollow"&gt;https://blog.jinmiaoluo.com/posts/wireguard-debug/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:32:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007940#reply0</guid></item><item><title>[分享创造] 开源的可视化工具 LIGHT CHASER，干到 v0.0.10 版本了！</title><link>https://www.v2ex.com/t/1007939#reply0</link><description>&lt;p&gt;LIGHT CHASER 发布第 v0.0.10 预览版，终于来到稳定版前的最后一个版本。基于 TypeScript 开发的 web 编辑器。在这个版本上尽力做了数据结构和代码上的优化，优化蓝图事件的接入方式。近期还提供了接入 ECharts 图表库的教程。&lt;/p&gt;
-&lt;p&gt;终于搞到了稳定版前的最后一个预览版&lt;/p&gt;
-&lt;p&gt;快快体验一波：&lt;/p&gt;
-&lt;p&gt;GitHub： &lt;a href="https://github.com/xiaopujun/light-chaser" rel="nofollow"&gt;https://github.com/xiaopujun/light-chaser&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Demo： &lt;a href="https://xiaopujun.github.io/light-chaser-app/" rel="nofollow"&gt;https://xiaopujun.github.io/light-chaser-app/#&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Snipaste_2024-01-11_12-34-36.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/XBeC28f3RzsOcnh.png" /&gt;
-&lt;img alt="Snipaste_2024-01-11_12-35-05.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/uFfIR91EDSls2T4.png" /&gt;
-&lt;img alt="Snipaste_2024-01-11_12-35-45.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/11/MOWSJg1eHkfPl2y.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:31:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007939#reply0</guid></item><item><title>[程序员] idea 从 github 克隆项目失败</title><link>https://www.v2ex.com/t/1007938#reply4</link><description>&lt;p&gt;错误信息：  &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;RPC failed; curl 18 transfer closed with outstanding read data remaining 5145 bytes of body are still expected fetch-pack: unexpected disconnect while reading sideband packet early EOF fetch-pack: invalid index-pack output
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;git 私服拉取没问题，本地能 ping 通 github ，任务管理器内也能看到有下载速度。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:29:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007938#reply4</guid></item><item><title>[职场话题] 室友的故事｜给字节卖命两年，被恶意劝退并要求退还全部工资｜欢迎转发</title><link>https://www.v2ex.com/t/1007937#reply4</link><description>我以前室友的遭遇，感觉的确是挺苦逼的。。。。。以前基本上每天 1 、2 点到家。。。。&lt;br /&gt;&lt;a href="https://dvrgv3fwl3.feishu.cn/docx/SAz5dekbZoZKEKxkAeqcuAdLnXe" rel="nofollow noopener" target="_blank"&gt;https://dvrgv3fwl3.feishu.cn/docx/SAz5dekbZoZKEKxkAeqcuAdLnXe&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 13:25:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007937#reply4</guid></item><item><title>[OpenAI] 一款免费的 AI 换脸神器 - FaceFusion</title><link>https://www.v2ex.com/t/1007936#reply0</link><description>&lt;p&gt;经过了很长一段时间的 AI 技术发展，目前的 AI 换脸技术已经越来越成熟。除了能够实现人物照片的换脸，还可以实现视频中人物的换脸。&lt;/p&gt;
-&lt;p&gt;FaceFusion 是一款免费的换脸器，同时提供了脸部的修复增强功能。可以自己部署，也可以使用 Google colab 版本白嫖换脸。&lt;/p&gt;
-&lt;p&gt;FaceFusion 的 Github 项目，采用了 MIT 许可：
-&lt;a href="https://github.com/facefusion/facefusion" rel="nofollow"&gt;https://github.com/facefusion/facefusion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;试用效果还不错，写了一篇简单的介绍：&lt;/p&gt;
-&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/bczWQJOulG5YxdneezyrAQ" rel="nofollow"&gt;一款免费的 AI 换脸神器 - FaceFusion&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:21:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007936#reply0</guid></item><item><title>[问与答] 关于 Zerotier 的一个问题，流量下可以访问内网，但是无法回家翻墙</title><link>https://www.v2ex.com/t/1007933#reply0</link><description>在家里的旁路由上目前是 Zerotiler+Openclash+Mosdns ，实现透明代理。&lt;br /&gt;同时间 Zerotiler 将旁路由设置成了默认网关，在异地已经完美做到回家翻墙。&lt;br /&gt;但是今天出现一个问题，在手机上通过非 wifi 环境无法翻墙，家里的内网设备是可以正常操作的。&lt;br /&gt;&lt;br /&gt;具体表现是，流量下连接了 zerotier ，可以访问内网所有设备，但是访问 google 大概率出现无法访问此网站，小概率出现“你的连接不是专用连接”。&lt;br /&gt;Openclash 目前是 fakeip ，但是切换回 Redir 问题依旧。&lt;br /&gt;而手机一旦连入 wifi （办公室），回家翻墙就正常了。&lt;br /&gt;&lt;br /&gt;这种清空应该如何解决？</description><pubDate>Thu, 11 Jan 2024 13:17:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007933#reply0</guid></item><item><title>[宽带症候群] 不同渠道办理宽带，有差别吗？</title><link>https://www.v2ex.com/t/1007932#reply2</link><description>&lt;p&gt;上海，商用性质的公寓，管家给的办理渠道：电信 1800/年，联通 1560/年，移动 1500/年，都是 100M 。&lt;/p&gt;
-&lt;p&gt;我已经用了两年的联通了，本不打算换，但是前两天看到楼道里贴的一张广告，写着电信 1200/年。&lt;/p&gt;
-&lt;p&gt;所以在不同渠道办宽带，都是 100M 的话，有什么隐性的不同吗？比如便宜的用超了会限速？还是便宜的速度低？还是压根一样呢？&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 13:11:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007932#reply2</guid></item><item><title>[分享发现] GPT4 企业版免费使用，自己动手，丰衣足食。</title><link>https://www.v2ex.com/t/1007931#reply9</link><description>今天更新的 GPT4 企业版，邀请机制有漏洞，主号邀请小号，小号可以再无限制邀请副号，鸡生蛋蛋生鸡无穷无尽了。&lt;br /&gt;&lt;br /&gt;建议大家使用小号爽一爽，估计很快会 ban 号，不过现在注册小号很容易，也无所谓。&lt;br /&gt;&lt;br /&gt;几个已经邀请进入企业的账号，自己上去点邀请，自己动手丰衣足食！&lt;br /&gt;&lt;br /&gt;账号----密码&lt;br /&gt;&lt;br /&gt;cCNB9bo53hRI@madoka.free.hr----$;-dJ&amp;amp;f/=sP`}KV&lt;br /&gt;&lt;br /&gt;9rb2dKFXJrQ2@madoka.free.hr----t&amp;lt;Xt?(sHN#F9MX]&lt;br /&gt;&lt;br /&gt;PpK0yznP3s0i@madoka.free.hr----)0IgJGz^YGWkryD&lt;br /&gt;&lt;br /&gt;HPJpKlEL3XaO@madoka.free.hr----*Tywg?"F|&amp;lt;8(RCv&lt;br /&gt;&lt;br /&gt;Ooo6mymUNFRK@madoka.free.hr----:~!xG6=JQH,R&amp;gt;9.&lt;br /&gt;&lt;br /&gt; ![]( &lt;a href="https://i.imgur.com/cxs7rK2.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cxs7rK2.png" /&gt;&lt;/a&gt;)  ![]( &lt;a href="https://i.imgur.com/DuAgZex.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DuAgZex.png" /&gt;&lt;/a&gt;)</description><pubDate>Thu, 11 Jan 2024 13:06:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007931#reply9</guid></item><item><title>[酷工作] Web 3/DEX 招聘 - 运维工程师 [远程办公]</title><link>https://www.v2ex.com/t/1007930#reply0</link><description>工作模式：远程办公&lt;br /&gt;公司背景：DEX&lt;br /&gt;目前创业阶段，寻找不怕吃苦，能接受目前 6 天制的同学一起打拼，盈利之后大家一块分红！&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责交易系统平台的运维工作，主要包括日常维护、系统变更、问题处理、应急处置、技术支持、安装部署等，保障应用系统的安全稳定运行&lt;br /&gt;- 参与交易系统技术架构的规划建设工作，如高可用架构、分布式部署、多活负载均衡等，分析评估应用系统容量与性能，提高系统运行可靠性&lt;br /&gt;- 参与持续交付、持续部署、运维工具开发等工作，提高交付质量和效率，提升互联网应用的自动化运维、监控运维水平&lt;br /&gt;- 按运维规范编制、更新应用系统技术资料&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 具备 3 年及以上工作经验，有互联网运维开发、中心化交易所运维开发经验者优先&lt;br /&gt;- 有 Docker 和 AWS 运维经验&lt;br /&gt;- 有自动化 CICD 方面的良好实践&lt;br /&gt;- 熟悉 Rancher / Kubernetes 架构和组件，在高可用集群设置和维护方面拥有丰富经验&lt;br /&gt;- 拥有部署，运维，监控，优化和排除云基础架构故障的经验&lt;br /&gt;- 精通 Shell 脚本，Python 等 DevOps 常用开发语言&lt;br /&gt;- 熟悉 Docker 和 Linux 内核配置优先；&lt;br /&gt;- 具有较强风险意识，责任心强，积极主动，细致有条理；具备较强的总结、归纳和创新能力；富有团队协作精神，具备良好的沟通能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Thu, 11 Jan 2024 13:06:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007930#reply0</guid></item><item><title>[问与答] 用 emby+zerotier 组建了家庭影音系统，求推荐高性价比硬盘</title><link>https://www.v2ex.com/t/1007929#reply1</link><description>&lt;p&gt;先表扬下 mac mini ，我 2700 卖的 m2 芯片 8+256 版本，用来做长期运行的服务器功耗十分合适，平时运行无声音，根据小米功率计显示，闲时 4w-7w ，算下来一年电费就 61 ，非常划算。&lt;/p&gt;
-&lt;p&gt;zerotier 搭建虚拟内网使得我远在外地的妹妹也能连上我的影音服务器，不得不说这个技术实在太方便了。&lt;/p&gt;
-&lt;p&gt;目前我有一块 1TB 的机械硬盘，我的想法是未来要扩展硬盘容量，有可能要连接多块硬盘，怎么连接还没想好。&lt;/p&gt;
-&lt;p&gt;由于我从很早就开始把个人重要数据往云端多地备份，所以其实本地重要文件基本不太可能放在这些硬盘上。&lt;/p&gt;
-&lt;p&gt;对于要购买的硬盘有点纠结，不知道该选择二手硬盘还是买全新的，容量我还是希望大一点，大家有没有啥推荐的。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:56:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007929#reply1</guid></item><item><title>[北京] 北京通 APP 宣布下线 小程序取而代之</title><link>https://www.v2ex.com/t/1007928#reply0</link><description>北京通 APP 宣布下线 小程序取而代之&lt;br /&gt;&lt;a href="https://www.donews.com/news/detail/8/3682625.html" rel="nofollow noopener" target="_blank"&gt;https://www.donews.com/news/detail/8/3682625.html&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 12:53:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007928#reply0</guid></item><item><title>[iPhone] 17.x 经常能遇到微信通知变成正方形而非圆角（非必现但经常可以看到），兄弟们遇到过吗？</title><link>https://www.v2ex.com/t/1007927#reply1</link><description></description><pubDate>Thu, 11 Jan 2024 12:45:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007927#reply1</guid></item><item><title>[宽带症候群] 大家电信网络 Speedtest PING 值都是多少啊？</title><link>https://www.v2ex.com/t/1007926#reply2</link><description>黑龙江 20 起跳，羡慕那些个位数的。</description><pubDate>Thu, 11 Jan 2024 12:35:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007926#reply2</guid></item><item><title>[程序员] AI 总结鸭-你的微信总结助手</title><link>https://www.v2ex.com/t/1007924#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%9B%BE%E7%89%87%E6%A1%88%E4%BE%8B.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;AI 总结鸭是什么？&lt;/h1&gt;
-&lt;p&gt;AI 总结鸭是一款高效的总结工具，专注于解决信息碎片化和阅读焦虑问题，帮助用户提升阅读效率，优化阅读体验～&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E6%80%BB%E7%BB%93%E9%B8%AD.jpg" /&gt;&lt;/p&gt;
-&lt;h1&gt;为什么需要 AI 总结鸭？&lt;/h1&gt;
-&lt;p&gt;在信息爆炸的时代，我们每天都面对大量信息，来自社交媒体、公众号文章、聊天对话等各个方面。然而，随之而来的问题也相应增多：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Jan 2024 23:46:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[阅读] 2023 读书回顾 165 本中选 2</title><link>https://www.v2ex.com/t/1007978#reply0</link><description>&lt;h1&gt;导读&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;标题党困扰： 文章标题夸张，难以判断真实价值；&lt;/li&gt;
-&lt;li&gt;广告文干扰： 实际内容与标题相去甚远，充斥各类广告；&lt;/li&gt;
-&lt;li&gt;优质文章藏匿： 优质文章被淹没在海量信息中，难以轻松找到；&lt;/li&gt;
-&lt;li&gt;文章冗长不读： 面对冗长文章，我们望而却步，不愿花费时间阅读；&lt;/li&gt;
-&lt;li&gt;视频时长考虑： 时间紧迫，长视频成为我们犹豫的理由；&lt;/li&gt;
-&lt;li&gt;微信群消息泛滥： 参与的微信群庞大，消息过多，为不错过重要内容，我们只能不得不翻阅大量楼层。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在这样的背景下，我们迫切需要一款工具，能够快速帮助我们提取核心内容，用最短的时间了解关键信息，解放我们的时间和精力。&lt;/p&gt;
-&lt;h1&gt;AI 总结鸭能满足哪些需求？&lt;/h1&gt;
-&lt;p&gt;AI 总结鸭提供了两款总结助手，用于满足个人和微信群的总结需求：&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E6%95%B0%E5%AD%97" rel="nofollow"&gt;数字&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#2023-%E5%AF%B9%E6%88%91%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%B9%A6" rel="nofollow"&gt;2023 对我最重要的书&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;个人助手：专为个人打造，主要满足个人用户平时在浏览各类网页、文章、PDF 时，一键转发生成摘要。&lt;/li&gt;
-&lt;li&gt;社群助手：专为微信群打造，主要满足微信群消息太多的情况，一键生成群消息总结。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#aware" rel="nofollow"&gt;《 Aware 》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E8%A7%89%E9%86%92%E4%B9%8B%E5%90%8E" rel="nofollow"&gt;《觉醒之后》&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;个人助手有哪些强悍的功能？&lt;/h1&gt;
-&lt;p&gt;个人助手支持公众号文章、网页链接、PDF 文件等多种类型总结，私密性更强、总结速度更快～🚀&lt;/p&gt;
-&lt;h3&gt;网页总结：&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E6%84%9F%E8%B0%A2" rel="nofollow"&gt;感谢&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;PC 浏览网页时，可以复制网页链接，发送给总结鸭助手，一键生成网页摘要。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E6%84%9F%E6%81%A9%E4%B9%A6%E5%8F%8B" rel="nofollow"&gt;感恩书友&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E6%84%9F%E6%81%A9%E4%BD%9C%E8%80%85" rel="nofollow"&gt;感恩作者&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="网页总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E7%BD%91%E9%A1%B5%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;公众号文章总结&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[相关博文]&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;手机阅读公众号文章时，点击文章右上角 或 长按 转发给总结鸭助手，一键生成文章摘要。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E6%9C%88%E5%BA%A6%E9%98%85%E8%AF%BB%E5%9B%9E%E9%A1%BE" rel="nofollow"&gt;月度阅读回顾&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/11/review-books-2023/#%E5%BE%80%E5%B9%B4%E9%98%85%E8%AF%BB%E5%9B%9E%E9%A1%BE" rel="nofollow"&gt;往年阅读回顾&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="文章总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
-&lt;h3&gt;PDF 总结：&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;正文&lt;/h1&gt;
+&lt;p&gt;每日阅读的习惯，持续 7 年了。&lt;/p&gt;
+&lt;h2&gt;数字&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="2023-read.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/12/gVRoMW5P7wzTiIx.png" /&gt;&lt;/p&gt;
+&lt;p&gt;把一些明显的数据在这里摆一摆，目的是了解自己的阅读习惯。&lt;/p&gt;
+&lt;p&gt;2023 年，我读了 165 本书，每本都写了几百字左右的短评。每月总结自己的所读，共发了 12 篇阅读总结文章。&lt;/p&gt;
+&lt;p&gt;130 本是在微信读书上读的电子书。另外 35 本是在 Libby App 接的电子书与在图书馆借的纸书的总和。&lt;/p&gt;
+&lt;p&gt;在豆瓣上标记了 155 本书。有 10 本，要么是小众到豆瓣上还没有相应条目，要么是在思想管控的社会里容不下有相应条目。&lt;/p&gt;
+&lt;p&gt;好在有 &lt;a href="https://neodb.social" rel="nofollow"&gt;NeoDB&lt;/a&gt;，我读过的所有书都标记在了那里。我的 NeoDB 账户页面是 &lt;a href="https://neodb.social/users/conge/" rel="nofollow"&gt;conge&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;另外可能值得一提的是，2023 年我累计标记的已读书籍超过了 1000 本。&lt;/p&gt;
+&lt;h2&gt;2023 对我最重要的书&lt;/h2&gt;
+&lt;p&gt;2023 年我读的 165 本书中，有许多好书，&lt;a href="https://conge.livingwithfcs.org/books/" rel="nofollow"&gt;我的阅读列表&lt;/a&gt; 中所有 4 星以及以上的书，都值得一看。&lt;/p&gt;
+&lt;p&gt;这里，我只想提及对自己最具影响的两本，因为他们在我的人生&lt;a href="https://www.v2ex.com/t/922439" rel="nofollow"&gt;觉醒之路&lt;/a&gt;上，意义非凡。关于觉醒，每个人都有不同的进路，这两本书对我意义重大，对他人可能就完全没用。即便如此，我还是以私心，推荐它们给所有人。&lt;/p&gt;
+&lt;h3&gt;《&lt;a href="https://neodb.social/@conge@neodb.social/posts/257527121522672536/" rel="nofollow"&gt;Aware&lt;/a&gt;》&lt;/h3&gt;
+&lt;p&gt;此书是我今年读的为数不多的纸书中的一本。其作者 Daniel J. Siegel 是个著作等身的科学家，同时又是个临床医生和大学教授。书的内容是 Daniel J. Siegel 行医科研教学几十年里对于关意识与觉察的修炼，科研和思考的结晶。&lt;/p&gt;
+&lt;p&gt;在阅读此书的前言的时候，我体验到了觉醒与开悟。这种常常被称为神秘体验或宗教体验的经历，毫无征兆的降临在了我这样一个笃信科学毫无宗教信仰的人的身上。世界在我眼中，从此不同了。&lt;/p&gt;
+&lt;p&gt;为此我感谢 Siegel 教授，他还写过许多育儿和脑科学的书，也都非常好。&lt;/p&gt;
+&lt;h3&gt;《&lt;a href="https://c.im/@conge/111265970684433300" rel="nofollow"&gt;觉醒之后&lt;/a&gt;》&lt;/h3&gt;
+&lt;p&gt;在开悟经验之后，我曾经试着跟一些自己所在的微信群里的人分享。遇到了很大困难，没人懂我在说啥，反而认为我傲慢，爱说教，爹味儿重。我接连被一个冥想群群主 &lt;a href="https://conge.livingwithfcs.org/2023/05/21/to-luka/" rel="nofollow"&gt;Luka&lt;/a&gt; 和一个读书群的群主"小林绿子“踢出去。&lt;/p&gt;
+&lt;p&gt;我理解了古人说“法不轻传，道不贱卖，师不顺路，医不叩门”的同时，也为无人能交流而苦恼。&lt;/p&gt;
+&lt;p&gt;阿迪亚香提写作，屠永江翻译的《觉醒之后》适时出现在面前，一读之后，茅塞顿开。&lt;/p&gt;
+&lt;p&gt;这是一本有觉醒体验的人必然会有深深共鸣的书。它对我之所以重要，是因为我因着给它写的一篇短评而结识了 10 几位好友。&lt;/p&gt;
+&lt;p&gt;这 10 几位朋友，大家各自因着觉醒经历而窥见实相，见实相而有大智慧。各自的领悟力，包容力均在我之上。斯多葛主义者追求的智慧，勇敢，节制和公平的美德，在这些人身上闪闪发光。佛性，神性，本性……透体而出。&lt;/p&gt;
+&lt;p&gt;与他们神交，驯服我的傲慢。&lt;/p&gt;
+&lt;p&gt;这两本书，我都会在 2024 年再读。&lt;/p&gt;
+&lt;h2&gt;感谢&lt;/h2&gt;
+&lt;h3&gt;感恩书友&lt;/h3&gt;
+&lt;p&gt;2023 年我的阅读选书有了一个改变：在按照兴趣选书的基础上，开始了让别人就某一话题推荐书，由此拓展涉猎疆域。&lt;/p&gt;
+&lt;p&gt;比如，&lt;a href="https://www.savouer.com/7543.html/comment-page-1/#comment-2227" rel="nofollow"&gt;我让博客“夜未央”的博主水拍石 给我推荐了一些经济学书&lt;/a&gt;。微信上一位叫做“影趣”的朋友给我推荐了秦晖的传统十论，中国思想史。郭建龙的中央帝国的财政密码，陈雨露的中国是部金融史。 感谢二位让我的兴趣之外的扩展阅读之旅的开始，有了坚固的踏脚石。&lt;/p&gt;
+&lt;p&gt;还要感谢微信网友“小林绿子”和绿子的每月十本读书群。虽然我因为太爱在群里说“开悟”的事儿最终被踢了，但是通过这个群我结识了几个阅读广泛的朋友。&lt;/p&gt;
+&lt;p&gt;通过每月十本读书群认识的“千叶”是个宝库。每个月他都组织一些共读。跟着千叶的共读群，我从 6 月开始了对宗教史，民族学，中共党史，地理，建筑，伦理和语言学史的涉猎。千叶每次的选书都非常用心，让人能全面的认识该学科的历史和现状，便于大家入门。受益匪浅。&lt;/p&gt;
+&lt;p&gt;因觉醒之后结识的朋友也组了个群。此群的朋友们阅读广博，也互相推荐了许多灵性好书，让我收获诸多喜悦。这里一并感谢！&lt;/p&gt;
+&lt;p&gt;感谢各位朋友的指点与推荐，使我在阅读过程中，常有冲出自身狭隘的破壁见光之感。&lt;/p&gt;
+&lt;h3&gt;感恩作者&lt;/h3&gt;
+&lt;p&gt;写作者，自己有知见，书写出来，传播知识，是善举。&lt;/p&gt;
+&lt;p&gt;传说老子西出函谷关，被拦下。不留下些智慧，就不让出关，于是有《道德经》遗世。可算是被动行善之一例。&lt;/p&gt;
+&lt;p&gt;即便如此，我猜，该写些什么，老子也有自主权。&lt;/p&gt;
+&lt;p&gt;我以己心推他心，每个人写点儿什么，发表出来，即便是为了谋生而写作，行为的性质，总是在做分享。人类能积累智慧到如今，这样的分享起了关键作用。&lt;/p&gt;
+&lt;p&gt;每个作者的分享行为，都值得十分感谢。&lt;/p&gt;
+&lt;h2&gt;相关博文&lt;/h2&gt;
+&lt;p&gt;站在当下，2023 年，已不存在。唯有记忆留存。&lt;/p&gt;
+&lt;h3&gt;月度阅读回顾&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;上传本地 PDF 文件 给总结鸭助手，一键生成 PDF 摘要。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/01/05/reading_summary/" rel="nofollow"&gt;2023 十二月读语言学，觉醒，职场，极简，小说…14 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/12/13/reading_summary/" rel="nofollow"&gt;2023 十一月读伦理，觉醒，心理，物理，地理，小说…20 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/11/02/reading_summary/" rel="nofollow"&gt;2023 十月读建筑，觉醒，断食，经济，小说……13 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/10/04/reading_summary/" rel="nofollow"&gt;2023 九月读地理学，我是谁，文学，心经……13 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/09/06/reading_summary/" rel="nofollow"&gt;2023 八月读党史，心理，小说，荣格，高行健，东野圭吾……13 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/08/07/reading_summary/" rel="nofollow"&gt;2023 七月读民族学，政治，奥斯维辛，清醒梦，写作……14 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/07/04/reading_summary/" rel="nofollow"&gt;2023 六月读宗教史，基督教，佛道，觉醒，跑姿……14 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/05/31/reading_summary/" rel="nofollow"&gt;2023 五月读王小波，人际关系，觉醒，育儿……16 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/05/04/reading_summary/" rel="nofollow"&gt;2023 四月读费曼，纳瓦尔，荣格，沟通，生死……20 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/04/04/reading_summary/" rel="nofollow"&gt;2023 三月读庄子 经济学 觉醒 斯多葛主义……13 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/03/01/reading_summary/" rel="nofollow"&gt;2023 二月读翦商，正念，佛经，诡秘之主，呼吸……8 本&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/01/31/reading_summary/" rel="nofollow"&gt;月读 2023 一月读金融史，孔子，鲁迅 ……7 本&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="PDF 总结" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/PDF%E6%80%BB%E7%BB%93.jpg" /&gt;&lt;/p&gt;
-&lt;h1&gt;微信群能否使用总结助手？&lt;/h1&gt;
-&lt;p&gt;在微信群中可以使用社群助手，支持群聊天记录一键总结，提取关键信息生成讨论话题，让你不再错过群里重要信息～🚀&lt;/p&gt;
-&lt;h3&gt;总结效果：&lt;/h3&gt;
+&lt;h3&gt;往年阅读回顾&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;话题：将聊天记录归纳至少 5 个主要话题，其余话题简要陈述&lt;/li&gt;
-&lt;li&gt;时间段：每个话题讨论的开始时间-结束时间&lt;/li&gt;
-&lt;li&gt;过程：每个话题讨论的过程&lt;/li&gt;
-&lt;li&gt;重要信息：让未参与讨论的人不会错过的重要信息&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2023/01/03/review-books-2022/" rel="nofollow"&gt;2022 ，我读过的书&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2021/12/31/review-books-I-read-in-2021/" rel="nofollow"&gt;2021 ，我读过的书&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2021/01/02/books-I-read-in-2020/" rel="nofollow"&gt;2020 ，我读过的书&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2019/01/01/2018-er-san-shi/" rel="nofollow"&gt;2018 二三事&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E7%BE%A4%E8%81%8A%E6%80%BB%E7%BB%93%E6%A1%88%E4%BE%8B.jpg" /&gt;&lt;/p&gt;
-&lt;h1&gt;想了解更多？&lt;/h1&gt;
-&lt;h3&gt;公众号：&lt;/h3&gt;
-&lt;p&gt;关注公众号-AI 总结鸭，获取最新的 AI 资讯，充分利用人工智能提升工作效率！提高生活品质！让我们的未来更加智能！🚀🚀&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.twiclips.com/ai_wechat/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:26:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007924#reply0</guid></item><item><title>[云修电脑] 求助！ thinkpad 插上外加的内存，就会无法开机，拔掉就正常</title><link>https://www.v2ex.com/t/1007923#reply2</link><description>&lt;p&gt;用了 3 年的 thinkpad T495 笔记本，突然开机后屏幕和键盘灯都不亮，电源灯亮，一分钟后风扇开始狂转，自己拆机看了，风扇也不脏，硬盘也正常，重新拔插了内存条也无效，后来发现拔掉自己后加的 8g 内存，只剩板载的内存就正常了，再把内存插上，故障又重现，用手摸了 cpu 上的导热管，很烫手，测试了后加的内存条是好的，在别的电脑上正常用。我自己猜测，是某个主板部件故障，导致 cpu 异常高温，触发高温保护，而宕机了。联想售后没拆机只是看了看故障就说要换主板，3000 块钱，问修不修，当然不修拿走了。
-目前勉强在用，但是板载只有 8g 内存，用起来有点卡，不知道各位兄弟有没有遇到同样的问题，还有没有别的思路。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:23:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007923#reply2</guid></item><item><title>[分享创造] 用 cloudflare worker 搭建一个 Docker 镜像</title><link>https://www.v2ex.com/t/1007922#reply0</link><description>&lt;p&gt;看到最近的网友帖子有这个需求～ 把下面代码放进 cloudflare worker 绑定自己的域名就好了&lt;/p&gt;
-&lt;p&gt;使用方法：docker pull  &lt;a href="http://abc.com/mysql/mysql-server" rel="nofollow"&gt;abc.com/mysql/mysql-server&lt;/a&gt; &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;'use strict'
-
-const hub_host = 'registry-1.docker.io'
-const auth_url = 'https://auth.docker.io'
-const workers_url = 'https://你的域名'
-/**
- * static files (404.html, sw.js, conf.js)
- */
-
-/** @type {RequestInit} */
-const PREFLIGHT_INIT = {
-    status: 204,
-    headers: new Headers({
-        'access-control-allow-origin': '*',
-        'access-control-allow-methods': 'GET,POST,PUT,PATCH,TRACE,DELETE,HEAD,OPTIONS',
-        'access-control-max-age': '1728000',
-    }),
-}
-
-/**
- * @param {any} body
- * @param {number} status
- * @param {Object&amp;lt;string, string&amp;gt;} headers
- */
-function makeRes(body, status = 200, headers = {}) {
-    headers['access-control-allow-origin'] = '*'
-    return new Response(body, {status, headers})
-}
-
-
-/**
- * @param {string} urlStr
- */
-function newUrl(urlStr) {
-    try {
-        return new URL(urlStr)
-    } catch (err) {
-        return null
-    }
-}
-
-
-addEventListener('fetch', e =&amp;gt; {
-    const ret = fetchHandler(e)
-        .catch(err =&amp;gt; makeRes('cfworker error:\n' + err.stack, 502))
-    e.respondWith(ret)
-})
-
-
-/**
- * @param {FetchEvent} e
- */
-async function fetchHandler(e) {
-  const getReqHeader = (key) =&amp;gt; e.request.headers.get(key);
-
-  let url = new URL(e.request.url);
-
-  if (url.pathname === '/token') {
-      let token_parameter = {
-        headers: {
-        'Host': 'auth.docker.io',
-        'User-Agent': getReqHeader("User-Agent"),
-        'Accept': getReqHeader("Accept"),
-        'Accept-Language': getReqHeader("Accept-Language"),
-        'Accept-Encoding': getReqHeader("Accept-Encoding"),
-        'Connection': 'keep-alive',
-        'Cache-Control': 'max-age=0'
-        }
-      };
-      let token_url = auth_url + url.pathname + url.search
-      return fetch(new Request(token_url, e.request), token_parameter)
-  }
-
-  url.hostname = hub_host;
-  
-  let parameter = {
-    headers: {
-      'Host': hub_host,
-      'User-Agent': getReqHeader("User-Agent"),
-      'Accept': getReqHeader("Accept"),
-      'Accept-Language': getReqHeader("Accept-Language"),
-      'Accept-Encoding': getReqHeader("Accept-Encoding"),
-      'Connection': 'keep-alive',
-      'Cache-Control': 'max-age=0'
-    },
-    cacheTtl: 3600
-  };
-
-  if (e.request.headers.has("Authorization")) {
-    parameter.headers.Authorization = getReqHeader("Authorization");
-  }
-
-  let original_response = await fetch(new Request(url, e.request), parameter)
-  let original_response_clone = original_response.clone();
-  let original_text = original_response_clone.body;
-  let response_headers = original_response.headers;
-  let new_response_headers = new Headers(response_headers);
-  let status = original_response.status;
-
-  if (new_response_headers.get("Www-Authenticate")) {
-    let auth = new_response_headers.get("Www-Authenticate");
-    let re = new RegExp(auth_url, 'g');
-    new_response_headers.set("Www-Authenticate", response_headers.get("Www-Authenticate").replace(re, workers_url));
-  }
-
-  if (new_response_headers.get("Location")) {
-    return httpHandler(e.request, new_response_headers.get("Location"))
-  }
-
-  let response = new Response(original_text, {
-            status,
-            headers: new_response_headers
-        })
-  return response;
-  
-}
-
-
-/**
- * @param {Request} req
- * @param {string} pathname
- */
-function httpHandler(req, pathname) {
-    const reqHdrRaw = req.headers
-
-    // preflight
-    if (req.method === 'OPTIONS' &amp;amp;&amp;amp;
-        reqHdrRaw.has('access-control-request-headers')
-    ) {
-        return new Response(null, PREFLIGHT_INIT)
-    }
-
-    let rawLen = ''
-
-    const reqHdrNew = new Headers(reqHdrRaw)
-
-    const refer = reqHdrNew.get('referer')
-
-    let urlStr = pathname
-    
-    const urlObj = newUrl(urlStr)
-
-    /** @type {RequestInit} */
-    const reqInit = {
-        method: req.method,
-        headers: reqHdrNew,
-        redirect: 'follow',
-        body: req.body
-    }
-    return proxy(urlObj, reqInit, rawLen, 0)
-}
-
-
-/**
- *
- * @param {URL} urlObj
- * @param {RequestInit} reqInit
- */
-async function proxy(urlObj, reqInit, rawLen) {
-    const res = await fetch(urlObj.href, reqInit)
-    const resHdrOld = res.headers
-    const resHdrNew = new Headers(resHdrOld)
-
-    // verify
-    if (rawLen) {
-        const newLen = resHdrOld.get('content-length') || ''
-        const badLen = (rawLen !== newLen)
-
-        if (badLen) {
-            return makeRes(res.body, 400, {
-                '--error': `bad len: ${newLen}, except: ${rawLen}`,
-                'access-control-expose-headers': '--error',
-            })
-        }
-    }
-    const status = res.status
-    resHdrNew.set('access-control-expose-headers', '*')
-    resHdrNew.set('access-control-allow-origin', '*')
-    resHdrNew.set('Cache-Control', 'max-age=1500')
-    
-    resHdrNew.delete('content-security-policy')
-    resHdrNew.delete('content-security-policy-report-only')
-    resHdrNew.delete('clear-site-data')
-
-    return new Response(res.body, {
-        status,
-        headers: resHdrNew
-    })
-}
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 11 Jan 2024 12:17:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007922#reply0</guid></item><item><title>[程序员] Edge 浏览器在看地图时很卡</title><link>https://www.v2ex.com/t/1007921#reply4</link><description>&lt;p&gt;测试步骤：
-打开高德地图，选择起点和终点（最好是远距离的，数据量大，如深圳到成都），驾车。规划出路线后，拖动、缩放地图以详细查看，Edge 卡得一批，几乎没法用。试了 firefox 和 chrome 都很流畅。&lt;/p&gt;
-&lt;p&gt;可能高德地图本身优化不好，也试了百度地图，略微流畅一些。但是 Edge 上的百度地图也是最卡的，FireFox 稍好，Chrome 最流畅。&lt;/p&gt;
-&lt;p&gt;准备回到 chrome 了。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 12:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007921#reply4</guid></item><item><title>[OpenAI] ChatGPT Team plan：企业版 GPT4.0</title><link>https://www.v2ex.com/t/1007919#reply3</link><description>&lt;p&gt;5 块钱大量出企业版 GPT4.0 问答次数 3 小时提升至 100 次 数量不多 欲购从速！！
-无售后，可成品可邀请，邀请的号要是已经注册过 gpt 的&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 11:34:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007919#reply3</guid></item></channel></rss>
+&lt;pre&gt;&lt;code&gt;2024-01-11 初稿
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 11 Jan 2024 23:07:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007978#reply0</guid></item><item><title>[程序员] 远距离使用大屏幕 vs 近距离使用小屏幕，哪个护眼？</title><link>https://www.v2ex.com/t/1007977#reply4</link><description>&lt;p&gt;假设显示器除了尺寸，其他特性都一样，有效分辨率也一样（显示的信息量一样），桌子也足够大&lt;/p&gt;
+&lt;p&gt;远距离使用大屏幕 vs 近距离使用小屏幕，哪个护眼？&lt;/p&gt;
+&lt;p&gt;纠结是使用 24/27 寸显示器，距离摆近一些，还是使用 30 多寸甚至 40 多寸显示器（或电视），但是距离摆远一些？&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 22:51:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007977#reply4</guid></item><item><title>[OpenAI] ChatGPT 4 和 GitHub Copilot Chat 差别大吗？</title><link>https://www.v2ex.com/t/1007976#reply1</link><description>&lt;p&gt;GitHub 说现在的 Copilot Chat 是混合 ChatGPT 4 和 3 ，所以想问一下这两者水平相差大吗？
+另外，我现在用 Bard 来做 ChatGPT 平替，感觉 Bard 的解 Bug 能力还有所欠缺，但其它方面进步很大（主要是代码解释），尤其是 Bard 不偷懒，每次回答都力求给出完整答案。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 22:04:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007976#reply1</guid></item><item><title>[程序员] 准备买个新的 mac，是买 macbook 还是 mac mini ？在家上班</title><link>https://www.v2ex.com/t/1007975#reply4</link><description>&lt;p&gt;如题&lt;/p&gt;
+&lt;p&gt;mac mini 最大的问题是没有 M3 cpu&lt;/p&gt;
+&lt;p&gt;请各位彦祖帮忙参谋一下&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 20:50:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007975#reply4</guid></item><item><title>[酷工作] 换个思路，出国读个博士说不定能改变现状</title><link>https://www.v2ex.com/t/1007974#reply15</link><description>经常在 V2EX 里看帖子，看到很多技术很好的同学在找工作。&lt;br /&gt;&lt;br /&gt;这里想给大家提供一个新的思路，其实在国外读博就是一份工作（大概工资 2500 刀每个月, 没有税，大概 1w8 人民币每个月），可能很多人没有考虑过，我也是出了国才知道。美国读博是不需要自己交学费的（学院+导师 cover ），导师还要每个月付科研津贴。&lt;br /&gt;&lt;br /&gt;我叫郭桂木，是美国 Rowan University 的老师，做的是并行计算，刚刚拿到美国 NSF 的科研基金，非常希望能招到代码能力强的学生（ C++）。&lt;br /&gt;&lt;br /&gt;对于语言问题，我们对 toefl 要求不高，70 or above ，非常好考到。我们今年 waive 掉了 GRE 。&lt;br /&gt;&lt;br /&gt;我其实在这里发帖的原因是很多申请人英语很好，code 能力真的真的不行。我的科研对 coding 能力有一些要求，学校的 application pool 里总招不到合适的学生。&lt;br /&gt;这里是我的个人网站：&lt;br /&gt;&lt;a href="https://guimuguo.github.io/" rel="nofollow noopener" target="_blank"&gt;https://guimuguo.github.io/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如果你对来美国读博士感兴趣，欢迎你将个人简历发给我：&lt;br /&gt;guog@rowan.edu&lt;br /&gt;我将择日安排面试。&lt;br /&gt;&lt;br /&gt;招生信息：&lt;br /&gt;&lt;a href="https://guimuguo.github.io/GuimuGuoRecruit.pdf" rel="nofollow noopener" target="_blank"&gt;https://guimuguo.github.io/GuimuGuoRecruit.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;P.S. 真的不是野鸡大学，我们学生数量是新泽西州第二大，学校地理位置非常好，离费城 20 多分钟，离纽约 1.5 个小时，离华盛顿 2 个小时。而且读博士走 EB1 留在美国也是现在最方便的润法，哪个国家不想要高学历人次。&lt;br /&gt;认识很多非常优秀的年轻人不知道国内读博的不同，很多人在还想改变的年龄错过了出国深造的机会。</description><pubDate>Thu, 11 Jan 2024 19:13:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007974#reply15</guid></item><item><title>[Steam] 找了个新靶机，给 v 友们试试</title><link>https://www.v2ex.com/t/1007973#reply1</link><description>链接为:&lt;a href="https://www.g2g.com/categories/Steam-Wallet-gift-cards" rel="nofollow noopener" target="_blank"&gt;https://www.g2g.com/categories/Steam-Wallet-gift-cards&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;欢迎大家访问使用&lt;br /&gt;&lt;br /&gt;实际情况是曝光一骗子，这个一个晚上骗人 4000 ，欢迎大家出计献策，如果有人帮忙，私下私聊，有偿</description><pubDate>Thu, 11 Jan 2024 18:40:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007973#reply1</guid></item><item><title>[分享创造] 这个创意或许有些市场，不知道大家怎么看？</title><link>https://www.v2ex.com/t/1007972#reply1</link><description>&lt;p&gt;&lt;strong&gt;声明，这仅仅是我无聊时的想法&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一些主播会用到读弹幕的机器人，这些机器人大多数读弹幕时的格式都是：xxxx 说：xxxx 。&lt;/p&gt;
+&lt;p&gt;这个机器人有两个小问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;昵称太长且发言频率比较高时，机器人就在那不停地 xxxx 说，很影响观感。&lt;/li&gt;
+&lt;li&gt;用户昵称不太雅观且对主播不太友好时，机器人也会傻乎乎的读出来。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;那么我希望存在一个什么工具呢？我希望有个工具可以简化用户的昵称后，再进行播报。具体如何简化呢？可以参考&lt;a href="https://space.bilibili.com/1629347259" rel="nofollow"&gt;玩红警的 08&lt;/a&gt;，他视频前总是会将那些给他充电的用户的昵称读出来，这些昵称中有些是不太礼貌的，但是 08 总是用他自己独特的方式简化后读出来，这已经成为他视频的一个亮点了。&lt;/p&gt;
+&lt;p&gt;用 AI 完成这个工作，应该是不难的，大佬们有兴趣可以搞搞，哈哈。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 18:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007972#reply1</guid></item><item><title>[分享创造] replaceanything，可以帮你替换图片中任何东西，而且毫无违和感</title><link>https://www.v2ex.com/t/1007971#reply0</link><description>&lt;p&gt;阿里最近又说开源了一个 replaceanything 的模型，由于代码还没有真正开源出来，现在只能在 hf 或者 modelspace 体验，为方便大家体验使用搞了个小站 &lt;a href="https://replaceanythingai.online/" rel="nofollow"&gt;https://replaceanythingai.online/&lt;/a&gt;,如果有使用需求且后面代码开源的话会接入哈，现在是简单嵌入了一个 embed 。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 18:00:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007971#reply0</guid></item><item><title>[问与答] MIUI 升级澎湃 OS 后安装不了软件了，得关闭 MIUI 系统优化？</title><link>https://www.v2ex.com/t/1007970#reply2</link><description>&lt;p&gt;手机是小米 13pro ，某天一重启手机就变成「澎湃 OS HyperOS 」了&lt;/p&gt;
+&lt;p&gt;更奇妙的是现在安装不了任何 apk 了，一句 No such file or directory 啥也操作不了&lt;/p&gt;
+&lt;p&gt;使用 adb install 也不行，等半天后就提示「用户取消了安装」&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/1M4MTZZ.jpg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;更奇妙的是，去开发者设置，关闭了「 MIUI 系统优化」后，com.miui.packageinstaller 变回了原生的那个 com.android.packageinstaller ，就一切都正常了&lt;/p&gt;
+&lt;p&gt;但是「 MIUI 系统优化」关闭后，浮动窗口就收不到触摸事件了，处于能看但是不能用的状态，巨离谱&lt;/p&gt;
+&lt;p&gt;估计一时半会等不到系统更新了，有没有大佬知道怎么可以在不关闭系统优化的情况下，换回 android 原生的 packageinstaller ？鼓捣了好久 pm 指令没搞明白。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 17:47:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007970#reply2</guid></item><item><title>[问与答] 有没有靠谱的 2FA 验证器推荐？</title><link>https://www.v2ex.com/t/1007969#reply7</link><description>被 Microsoft Authenticator 坑惨了！&lt;br /&gt;最近换机发现 Microsoft Authenticator 没法跨平台备份/恢复，iOS 平台和安卓平台不互通。&lt;br /&gt;&lt;br /&gt;需求：&lt;br /&gt;1.支持跨平台备份/恢复。&lt;br /&gt;2.不用翻墙。</description><pubDate>Thu, 11 Jan 2024 17:40:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007969#reply7</guid></item><item><title>[Surge] Surge for Mac 和 iOS 拼车</title><link>https://www.v2ex.com/t/1007967#reply0</link><description>iOS 版还剩一个车位&lt;br /&gt;* 120 元/每位&lt;br /&gt;&lt;br /&gt;Mac 版还剩 4 个车位&lt;br /&gt;* 145 元/每位&lt;br /&gt;&lt;br /&gt;* ﻿﻿大版本 v5 内可以免费升级&lt;br /&gt;&lt;br /&gt;tg: aHR0cHM6Ly90Lm1lL0RhdmluRGV2&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/a/NmJrTWm" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/NmJrTWm&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 17:29:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007967#reply0</guid></item><item><title>[Bitcoin] 有人愿意在 Atomicals 协议上铭刻 Troll 这个 meme 币吗？觉得比特币生态缺少一个 meme 币啊, 让 Elon Musk 给我们当(CTO) Chief Troll Officer 好不好？</title><link>https://www.v2ex.com/t/1007966#reply0</link><description>让 Elon Musk 给我们当首席营销官好不好？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/tQmC7PU.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tQmC7PU.png" /&gt;&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 17:05:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007966#reply0</guid></item><item><title>[优惠信息] 广电上架双百套餐 2.0</title><link>https://www.v2ex.com/t/1007965#reply3</link><description>这次推出了双百 2.0 ，双百 2.0 plus ，双百 2.0max 版本，链接： &lt;a href="https://m.10099.com.cn/h5wap/busiClient/account/d100/" rel="nofollow noopener" target="_blank"&gt;https://m.10099.com.cn/h5wap/busiClient/account/d100/&lt;/a&gt;</description><pubDate>Thu, 11 Jan 2024 16:54:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007965#reply3</guid></item><item><title>[分享发现] 兄弟们，发 ChatGPT team 了</title><link>https://www.v2ex.com/t/1007964#reply3</link><description>&lt;p&gt;&lt;a href="https://ai-20240110.fakeopen.com/team" rel="nofollow"&gt;https://ai-20240110.fakeopen.com/team&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;潘多拉作者弄的，直接输入 ChatGPT 账户就可以提升为 team 号，亲测有效！ 赶快上车！&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 16:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007964#reply3</guid></item><item><title>[职场话题] 我的 2023 年旅程：从 Tesla 到谷歌，再到荷兰的奇遇</title><link>https://www.v2ex.com/t/1007963#reply8</link><description>&lt;p&gt;2022 至 2023 年见证了全球巨变，从国内疫情的严格防控到逐渐开放，再到世界舞台上的重大转变——俄乌战争的爆发。经济从加速扩张走向降本增效，尤其在 2023 年，经济下行的速度超出了许多人的预期。在 Tesla 工作时，我记得 Elon Musk 曾随口提及对经济前景的担忧，没想到他的预言竟一语成谶。2021 年我还有侥幸心理，2022 年逐渐的有危机感，没想到 2023 年事情就真的发生在我身上。&lt;/p&gt;
+&lt;p&gt;故事还要从 2022 年的说起，经历上海一波之后，大家心里有有些变化，我的内心也有些许躁动。正当我对未来充满迷茫时，一个偶然的机会出现了——谷歌正在招聘适合我的岗位。这激起了我对新挑战的渴望，我毅然开始了面试准备。&lt;/p&gt;
+&lt;h2&gt;谷歌之旅&lt;/h2&gt;
+&lt;p&gt;过程还是比较艰辛的，这里放一张当时的 Leetcode submit 记录可以大概窥探一下。当然这其中 Leetcode 只是面试中一部分而已。谷歌当然不是你刷够多少题就可以直接进的公司。还要考虑沟通技巧，行为面试，甚至运气。都是非常重要的因素，其中运气可能尤为重要。如果大家有兴趣，后面我可以详细写几篇来讲面试，因为要 cover 的点实在比较多。就这样，也算功夫不负有心人，我成功加入了谷歌。但是幸福总是短暂的，虽然在谷歌经历了很多很美好的事情，比如非常有能力的同事，甚至偶像见面。但是不幸的，在三月，我被裁员了。&lt;/p&gt;
+&lt;p&gt;leetcode 提交，其实也不是很多但是考虑到白天还不能影响正常工作还是蛮辛苦：
+&lt;img alt="Leetcode 提交，其实也不多但是实际还是蛮辛苦因为还要上班" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DZWuS2B.jpeg" /&gt;
+入职的 Android 小公仔：
+&lt;img alt="入职 Noogler 小公仔" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/nybY9I5.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;裁员焦虑&lt;/h2&gt;
+&lt;p&gt;其实加入谷歌前我就有考虑过会不会被裁。因为那时候正处 2022 年底。Meta 大裁员刚刚公布，甚至已经有消息说谷歌马上就是下一个。不过我思前想后，还是抵不住 Dream Company 的诱惑，选择加入了谷歌。在被谷歌裁员后，我的内心经历了巨大的波动。市场的不确定性加剧了我的焦虑。后期甚至简历都投不出去，因为没有公司在招人。每天打开 OD 直聘，打招呼的猎头就只有三大卷王得物小红书拼多多。哪个我都不是特别有兴趣。硬着头皮熬了几个月，中间也和女朋友出国玩了下散散心。不过内心还是充满着焦虑。&lt;/p&gt;
+&lt;h2&gt;焦虑中的希望&lt;/h2&gt;
+&lt;p&gt;这时候一个偶然的想法改变了我，国内既然不行，能不能试试国外？我本身在外企很久，无论是英语还是外企面试套路，公司文化我都算比较熟悉，可能来的更容易？我开始了全球海投，所以这时候基本只要是在招人的公司，只要是觉得还行的国家我都在投。美国，加拿大，英国，爱尔兰，法国，德国等等等等。其中很多都是投完了之后了无音讯，或者跟 HR 聊了一轮就没了下文。其中几家走到了后面的流程，其中包括我目前入职这家公司。也是很幸运，也很感激。而且荷兰由于可以 partner visa,就这样我和我女朋友一起来到了荷兰。&lt;/p&gt;
+&lt;h2&gt;荷兰生活&lt;/h2&gt;
+&lt;p&gt;荷兰目前生活还算不错，就是天气真的奇差。虽然来之前已经有无数人给我做过心理预期，荷兰的天气总是能让你觉得“超出预期”。工作节奏照谷歌其实忙碌不少，不过还好能保证 work life balance 。每天准时回家。偶尔在晚上做一些白天遗留的工作，整体感觉还算比较轻松。但是对比上海，我是觉得荷兰可能除了房价是远不如上海的。后续文章可以详细展开，毕竟我也才来荷兰不到半年，这个国家对我还充满了未知。还需要我逐渐探索。&lt;/p&gt;
+&lt;p&gt;我建了一个 telegram 群，方便大家咨询我相关的一些问题，无论是职业上，生活上，还有出国相关，等等：
+群链接 ： &lt;a href="https://t.me/+p6z5y932qMA2MWE0" rel="nofollow"&gt;https://t.me/+p6z5y932qMA2MWE0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;总结起来，2023 对我来说真的犹如做过山车。首先放弃一个很好的工作加入 DreamCompany ，然后火速被裁，经历几个月的煎熬后不知为何竟然撞大运出了国。最后放一些刚到荷兰拍的照片吧，虽然阿姆斯特丹这个城市天气真的差，但是天气好的时候也是真的美！&lt;/p&gt;
+&lt;p&gt;刚到荷兰的好天气：
+&lt;img alt="刚到荷兰的好天气" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/kSPwmcu.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;国家博物馆，其实已经来过好几次，但是每次来都感觉很美：
+&lt;img alt="国家博物馆，其实已经来过好几次，但是每次来都感觉很美" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QGvZFpC.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;最近的圣诞集市，天气已经差很多了:
+&lt;img alt="最近的圣诞集市，天气已经差很多了" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DbUl92S.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 16:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007963#reply8</guid></item><item><title>[程序员] traefik access.log 有清爽的看板吗</title><link>https://www.v2ex.com/t/1007962#reply0</link><description>&lt;p&gt;我 k3s 用的 traefik 收集了 3 个网站的 access.log ，不知有没有方便的产品能直接看到各个网站的大概数据&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 16:07:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007962#reply0</guid></item><item><title>[分享创造] WPF 开箱即用的翻译 OCR 工具</title><link>https://www.v2ex.com/t/1007961#reply0</link><description>## 地址&lt;br /&gt;&lt;br /&gt;&lt;a href="http://github.com/zggsong/stranslate" rel="nofollow noopener" target="_blank"&gt;github.com/zggsong/stranslate&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;## 预览&lt;br /&gt;&lt;br /&gt;&lt;a href="https://cdn.jsdelivr.net/gh/ZGGSONG/STranslate@main/img/crossword.gif" rel="nofollow noopener" target="_blank"&gt;https://cdn.jsdelivr.net/gh/ZGGSONG/STranslate@main/img/crossword.gif&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://cdn.jsdelivr.net/gh/ZGGSONG/STranslate@main/img/ocr.gif" rel="nofollow noopener" target="_blank"&gt;https://cdn.jsdelivr.net/gh/ZGGSONG/STranslate@main/img/ocr.gif&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;## 啊吧啊吧&lt;br /&gt;&lt;br /&gt;当初在 mac 上用 Bob 用的太顺手了，当时 windows 上没有啥好用的类似软件，想着就自己开发一个，慢慢优化到现在，代码写的很 low ，轻喷。虽然 pot-app 很棒，但是自己写的终究是不一样的，另一方面也算练手。感觉现在相对来说有了一定可用度，分享出来，感觉有用点点 star ，谢谢🙏</description><pubDate>Thu, 11 Jan 2024 15:38:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007961#reply0</guid></item><item><title>[职场话题] 靴子落地，还是被裁了，想问下大家关于赔偿的问题。</title><link>https://www.v2ex.com/t/1007960#reply5</link><description>&lt;p&gt;前景&lt;/p&gt;
+&lt;p&gt;1 ；运维，月薪 1.2 万，2023 年 10 月全员降薪百分之 15 ，薪资变成 1.02 万&lt;/p&gt;
+&lt;p&gt;2 ； 2024 年 1 月被裁，部门重组&lt;/p&gt;
+&lt;p&gt;3 ；在公司工作总计 2 年 2 个月&lt;/p&gt;
+&lt;p&gt;关于被裁的赔偿问题，在网上了解了一下各有各的说法，特此上 v2 问问各位大佬，问题如下&lt;/p&gt;
+&lt;p&gt;1 ； N+1 是按照近 12 个月平均工资计算吗？ 还是按照当前月薪计算？&lt;/p&gt;
+&lt;p&gt;2 ； 23 年发了一万元年终奖，如果 N+1 按照近 12 个月平均工资计算，是否包括年终奖？&lt;/p&gt;
+&lt;p&gt;3 ；总计 2 年 2 个月时间，N+1 系数是否就是 2.5+1=3.5 ？&lt;/p&gt;
+&lt;p&gt;4 ；周末加班如何计算？目前有 50 小时周末加班时长，是否为工作日工资 2 倍？&lt;/p&gt;
+&lt;p&gt;5 ；年假如何计算？ 目前有 5 天年假，是否为工作日工资 3 倍？&lt;/p&gt;
+&lt;p&gt;6 ；综上所述，我能否主张 3.5 个月的 N+1 赔偿、50 小时的双倍工资、5 天年假的三倍工资，是否合理？&lt;/p&gt;
+&lt;p&gt;7 ；目前在成都工作，成都只是一个分公司，总公司在外地，两个公司互不关联，法人也不一样，合同签的是总公司，工资是人力资源代发，仲裁是否需要去到总公司所在地仲裁？&lt;/p&gt;
+&lt;p&gt;8 ；请教各位大佬还有其余遗漏的地方吗？&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 15:32:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007960#reply5</guid></item><item><title>[分享发现] 我把一个有趣的网站用 AI 翻译成中文了</title><link>https://www.v2ex.com/t/1007959#reply4</link><description>&lt;p&gt;&lt;strong&gt;网站名称：&lt;/strong&gt;有毒植物查询&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网站网址：&lt;/strong&gt;&lt;a href="https://iitt.iamonyou.top" rel="nofollow"&gt;https://iitt.iamonyou.top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原始网站是 &lt;a href="https://iitt.chester.how" rel="nofollow"&gt;https://iitt.chester.how&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;网站介绍：&lt;/p&gt;
+&lt;p&gt;有毒植物查询是一个查询哪些植物对宠物有毒的网站。它提供了一个简单的搜索界面，允许用户输入植物的名称，并返回有关该植物是否对宠物有毒的信息。&lt;/p&gt;
+&lt;p&gt;网站特点：&lt;/p&gt;
+&lt;p&gt;简单易用的搜索界面&lt;/p&gt;
+&lt;p&gt;网站优势：&lt;/p&gt;
+&lt;p&gt;该网站是免费使用的。
+网站不足：&lt;/p&gt;
+&lt;p&gt;该网站目前仅支持中文
+该网站的数据库中可能缺少一些植物，然后所有内容&lt;strong&gt;仅供参考&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;网站评价：&lt;/p&gt;
+&lt;p&gt;有毒植物查询是一个非常有用的网站。
+它可以帮助宠物主人了解哪些植物对宠物有毒，并采取措施保护宠物免受这些植物的侵害。&lt;/p&gt;
+&lt;p&gt;网站作者的话：&lt;/p&gt;
+&lt;p&gt;这篇文章也是我偷懒让 gemini pro 帮写的。我发现 prompt 对于大模型的使用非常重要。一个好的 prompt 可以帮助大模型生成高质量的内容。&lt;/p&gt;</description><pubDate>Thu, 11 Jan 2024 15:24:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007959#reply4</guid></item><item><title>[Android] ES 文件浏览器能看到指定的目录， adb shell 下就看不到了，求助！</title><link>https://www.v2ex.com/t/1007958#reply3</link><description>&lt;h4&gt;安卓系统未 root ，用 ES 文件浏览器打开/storage/emulated/0/Android/data 目录，有名为“hgacg.com_em0623"的文件夹。&lt;/h4&gt;
+&lt;h4&gt;但在 adb shell 中查看当前目录，就不存在这个文件夹了，尝试了 ls -a 也没用，没有这个文件夹，是怎么回事？&lt;/h4&gt;
+&lt;h4&gt;ES 文件浏览器没有复制文件的权限。这是我玩了好久的游戏存档，现在 copy 不出来了。&lt;/h4&gt;
+&lt;h2&gt;求解决办法，我怎样才能给复制出来，感激不尽！&lt;/h2&gt;</description><pubDate>Thu, 11 Jan 2024 15:21:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1007958#reply3</guid></item></channel></rss>
