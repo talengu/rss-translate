@@ -1,163 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 14 Jan 2024 20:25:17 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 广州报装宽带哪里哪个品牌最便宜，安装费多少，网上便宜还是实体店营业厅便宜？</title><link>https://www.v2ex.com/t/1008628#reply1</link><description></description><pubDate>Sun, 14 Jan 2024 20:15:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008628#reply1</guid></item><item><title>[分享发现] 分享一个硬件故障，固态 0E 是负数</title><link>https://www.v2ex.com/t/1008627#reply1</link><description>一台负责跑模拟器和虚拟机用的笔记本最近反复死机，有时候开机啥也没干就挂了，要不就是蓝屏，要不就是整机不响应，死机后冷重启能正常启动，惠普自带的硬件检测能通过，系统盘型号 SK 海力士 PC601 ，一开始没想到是磁盘的问题，CrystalDiskInfo 全部正常，AIDA64 磁盘压测坚持不了一分钟，用 AIDA64 的 SMART 一看，好家伙 160 这一行全是负数，状态居然是良好。换了块西数不死机了，格式化后插另一个空 M2 槽当数据盘，AIDA 压测这块盘 start/stop 反复交替，跑了半小时左右磁盘失联了，再次拔掉后整机恢复正常。&lt;br /&gt;&lt;br /&gt;得出结论：不能只凭 CrystalDiskInfo 判断好坏，单靠 SMART 诊断的工具统统信不过，该跑的测试还得跑。笔记本整机 22 年 11 月过保，这块盘好像也不能个人送保，似乎也没什么改造价值，扔了扔了……&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/FO6oYzy" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/FO6oYzy&lt;/a&gt;&lt;br /&gt;&lt;a href="https://imgur.com/2xhUuhs" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/2xhUuhs&lt;/a&gt;</description><pubDate>Sun, 14 Jan 2024 19:26:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008627#reply1</guid></item><item><title>[问与答] 寻找一个能在内网部署的类似 Telelgram 收藏夹的文件&amp;文字中转站+收藏夹</title><link>https://www.v2ex.com/t/1008626#reply3</link><description>就是类似电报的收藏夹，目的是开个网页就可以快速的把上面的文字、文件下载下来，主要为了在电脑、手机、平板间传文件和 url ，并最好可以起到收藏夹的功能&lt;br /&gt;需求如下：&lt;br /&gt;1 可以用 docker 搭建，存储在 nas 上&lt;br /&gt;2 可以直接用 web 端下载文件，不要各种 APP&lt;br /&gt;3 界面好看点，最好类似电报的收藏夹，就是像聊天室、频道那种的&lt;br /&gt;4 搭建简单点&lt;br /&gt;本来找了有两个，都是自建聊天室的类型，这个就满足我的需求，但结果都不行。1 是 matrix ，跟 doc 感觉太难部署了我花了 3 小时也整不好，功能也太多仅仅用于收藏夹太臃肿； 2 是小众的 vocechat ，部署起来了，但网页版在 pc 上还行，到移动端就无法下载文件，开发的 APP 也不好使用，离谱的是文件上传了不能单个删除只能全删。</description><pubDate>Sun, 14 Jan 2024 19:17:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008626#reply3</guid></item><item><title>[问与答] 请教一下有没有什么低成本的局域网储存方案</title><link>https://www.v2ex.com/t/1008623#reply3</link><description>&lt;p&gt;我的需求（按照重要程度排序）&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 15 Jan 2024 04:50:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iDev] 「App 君数据分享 #03」限时免费能够带来多大的流量</title><link>https://www.v2ex.com/t/1008730#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;之前做了个这个 App 1/1 ，在 V 上发了帖子：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://v2ex.com/t/1006860" rel="nofollow"&gt;https://v2ex.com/t/1006860&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;数据&lt;/h2&gt;
+&lt;p&gt;现在限免时间也结束了，我来公布一下成绩：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1/1 下载 8741 份&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;免费内购 7213 份&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;分析&lt;/h2&gt;
+&lt;p&gt;其中大陆下载 2472 份，免费内购 1860 份，免费内购率 75.24%&lt;/p&gt;
+&lt;p&gt;台湾地区下载 3097 份，免费内购 2660 份，免费内购率 86.38%&lt;/p&gt;
+&lt;p&gt;总共限免时间应该是 6 天，但是前两天的成绩基本是整个周期的 86%。&lt;/p&gt;
+&lt;p&gt;这里面差别 11% 的免费内购率，主要原因应该是国行机器在第一次打开后，需要请求一个联网权限，然后才能加载内购信息，我的 App 要 Kill-Relaunch 才能显示正确的购买信息。如果用户完全关闭了联网权限，应该是没法购买的。&lt;/p&gt;
+&lt;p&gt;不知道是不是被什么繁中的推广频道 cue 到了，整体下载最终比大陆地区要更多。&lt;/p&gt;
+&lt;h2&gt;一点点总结&lt;/h2&gt;
+&lt;p&gt;整体来说，带来的流量比上第三个 tab 底部的“本周编辑推荐”要更高，白拿毕竟是人性，但是转化率基本是 0 ，因为已经都是白拿用户了，如果你的产品就是具有一传二传三特征的，倒是可以考虑考虑这种限免途径。&lt;/p&gt;
+&lt;p&gt;这次 App 一上架设置错误，本体是付费的，内购是免费的，这些因素可能导致那些专门做限免的各种频道完全没有上上去。这一波应该是损失了一些流量。为了验证这个问题，本来限免时间结束了，我决定把限免再开两天看看，看看这种操作有没有新增的下载。到时候 Append 到这个楼里。&lt;/p&gt;
+&lt;h2&gt;其他&lt;/h2&gt;
+&lt;p&gt;数据分享 #01： &lt;a href="https://v2ex.com/t/977847" rel="nofollow"&gt;https://v2ex.com/t/977847&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据分享 #02： &lt;a href="https://v2ex.com/t/984492" rel="nofollow"&gt;https://v2ex.com/t/984492&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:42:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008730#reply0</guid></item><item><title>[问与答] 怎么检查膝盖啊</title><link>https://www.v2ex.com/t/1008729#reply0</link><description>去年运动比较多，想查下膝盖/半月板之类的有没有啥问题，方便选择后面的运动形式。是挂普外科还是什么科啊，直接说检查膝盖吗？检查一次大概多少钱。&lt;br /&gt;&lt;br /&gt;有老哥提供下经验吗</description><pubDate>Mon, 15 Jan 2024 04:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008729#reply0</guid></item><item><title>[Apple] 14 寸 mbp 进水</title><link>https://www.v2ex.com/t/1008728#reply2</link><description>昨天 14 寸 mbp 左边进了一点点水，左侧两个 c 口失灵，今天发现又恢复了，但还是担心留下暗病。&lt;br /&gt;&lt;br /&gt;我有 ac+，打电话问了🍎客服，说是如果进水不给免费换两个 c 口，大概看了下价格，不含服务费就要 500 多。请问各位，我这个还有必要修么？</description><pubDate>Mon, 15 Jan 2024 04:31:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008728#reply2</guid></item><item><title>[宽带症候群] 这几天被 pt pcdn 的相关消息搞得风声鹤唳，就问一下这里有杭州电信的消息灵通人士吗？</title><link>https://www.v2ex.com/t/1008727#reply1</link><description>&lt;p&gt;杭州电信会不会查高流量上传，什么时候查，是近期吗
+真查的话，那我就去封存我的 mteam 的 pt 账号了&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:28:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008727#reply1</guid></item><item><title>[问与答] Notion, Obsidian, Standard Notes 哪个更好一些？</title><link>https://www.v2ex.com/t/1008726#reply2</link><description>&lt;p&gt;最近重度 Notion 用户，但是发现 Standard Notes 有端端加密。有点心动。
+来 V2 搜了下又发现，实际上推荐 Obsidian 的更多一些&lt;/p&gt;
+&lt;p&gt;那么从功能，安全性，实用性等看的话这三个哪个好呢？又各有什么优缺点呢？&lt;/p&gt;
+&lt;p&gt;主要用途：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;记笔记&lt;/li&gt;
+&lt;li&gt;偶尔会用一些例如 ToDo list 这种功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最好能够：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加密，安全&lt;/li&gt;
+&lt;li&gt;iPad 或者电脑端 离线操作&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 15 Jan 2024 04:27:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008726#reply2</guid></item><item><title>[汽车] 大家车险怎么买啊？</title><link>https://www.v2ex.com/t/1008725#reply2</link><description>&lt;p&gt;不想买车损险了，只买了三者和共享三者配额，结果平安车主 app 上还下不了单，说要联系什么线下销售人员。
+买个车险还要搞这么多幺蛾子？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008725#reply2</guid></item><item><title>[职场话题] 坚决支持被字节 PUA 离职的老哥维权！</title><link>https://www.v2ex.com/t/1008724#reply2</link><description>&lt;p&gt;这位老哥不是一个“完美”的受害者，有些行为甚至看起来有些“愚蠢”了。&lt;/p&gt;
+&lt;p&gt;但大都完全可以理解，因为我们相信大公司的“体面”，相信他们“合法”，相信同事之间不过就是出来赚俩钱儿而已。&lt;/p&gt;
+&lt;p&gt;我们都是善良的人，怎知道有人会为了一点儿逼钱搞得朝夕相处的同事你死我活。&lt;/p&gt;
+&lt;p&gt;不过面对此事，目前我还是悲观的，我不认为这位老哥会全身而退，甚至有可能因为写了这些东西，被字节以泄密为由继续追诉——卑鄙是卑鄙者的通行证。提醒这位老哥注意保护自己。&lt;/p&gt;
+&lt;p&gt;所以我单开帖子声援这位老哥，给这位老哥加油打气。如果缺钱，也请不吝在各种可信渠道（比如公众号）放出自己的收款码，我会捐款。&lt;/p&gt;
+&lt;p&gt;也给说风凉话的人讲一声：如果你从来没有为了建设某些东西出一点点力气，就不要指望在自己遇到困难时这样东西能帮上你。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:23:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008724#reply2</guid></item><item><title>[Surge] surge wireguard 问题请教</title><link>https://www.v2ex.com/t/1008723#reply2</link><description>我的 surge 配置文件放在 iCloud ，多个设备共同使用一个配置，家里路由生成了多个 WG 配置，供不同的设备使用，这些配置都放在 surge 里面，我设置了一个 WG 策略组，指定了 Mac 使用为 Mac 生成的 WG 配置，IPAD 用 IPAD 的配置。&lt;br /&gt;&lt;br /&gt;但是问题来了，surge 似乎会自动测试，或者不知道的原因，设备使用了错误的 WG 配置，导致比如原本 Mac 的配置被其他设备占用了，半天会连不上，这个问题该怎么解决呢？&lt;br /&gt;&lt;br /&gt;不知道问题描述清楚了没有，就是 WG 是一对一的， 一个路由生成的多个 WG 文件，放在 1 个 surge 文件供多个设备使用时，有时会冲突，导致 WG 配置被错误的占用</description><pubDate>Mon, 15 Jan 2024 04:23:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008723#reply2</guid></item><item><title>[分享发现] 讲个联想不会做电脑的故事，以防有人需要</title><link>https://www.v2ex.com/t/1008721#reply6</link><description>&lt;p&gt;前阵子买了个 yoga pro 14s ，什么都好，但是 CPU 主频只能上到 3 GHz ，白白浪费了 i9 13900H 这么好的一个 CPU 。切换到超能模式，更新 BIOS ，都不能超过 3G 限制。&lt;br /&gt;
+周末把系统重装了，从 Win11 22H2 变成了 23H2 ，联想预装软件只安装了联想智能引擎，其他全是 Windows 自己走固件/驱动下载。&lt;br /&gt;
+现在 CPU 的主频终于正常了，CineBench R23 跑分：&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单核稳定 4.5G ，从之前的 1149 份提高到了 1669 ，提升 45%&lt;/li&gt;
+&lt;li&gt;多核心稳定到 4G ，从之前的 13626 份提高到了 15068 ，提升 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现在的跑分虽然和理论性能还是有差距，但是作为轻薄本，我已经知足了。比到手只能跑 3G 的状态好太多了。&lt;br /&gt;
+联想不知道在干什么，往电脑里面塞了一堆预装软件不说，还跟微软学会开始让用户 debug 了（微软也得背锅，至少有一半责任）。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:17:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008721#reply6</guid></item><item><title>[宽带症候群] 联通光猫变动态密码了，有没有办法把密码改回静态的？</title><link>https://www.v2ex.com/t/1008720#reply1</link><description>&lt;p&gt;目前，注意到：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;光猫管理员密码变成动态密码了，每次想要进后台，都必须致电运维索要密码。密码不是 CUAdmin ，也不是 cuadmin+mac 前六位地址了。&lt;/li&gt;
+&lt;li&gt;密码只在几分钟内有效，一段时间就会过期。一旦被超时登出，就只能再次致电运维索要密码&lt;/li&gt;
+&lt;li&gt;无法进入 telne ，无法通过 &lt;code&gt;/telnet?enable=1&amp;amp;key=F84D33255A80&lt;/code&gt; 或 &lt;code&gt;hidden_version_switch.html&lt;/code&gt; 打开 Telnet&lt;/li&gt;
+&lt;li&gt;不确定删除 TR069 是否有效，也无法直接删除 TR069 （ F12 也无效）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有没有办法把密码改回静态的？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:06:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008720#reply1</guid></item><item><title>[程序员] 百度 Baidu Comate 代码 AI 助手发布，大家有用过类似的工具吗，求讨论分享</title><link>https://www.v2ex.com/t/1008719#reply3</link><description>&lt;p&gt;今天看到百度 Baidu Comate 代码 AI 助手可以购买了，不知道大家有用过的没，一个月 60 是不是也太离谱了；&lt;/p&gt;
+&lt;p&gt;现在我主要用的代码协助工具还是 gpt ，在量不大的代码的场景下感觉还行，大家有没有用过什么更好的代码助手，求分享一下，顺便问问大家有试过用 AI 助手直接读取一个复杂项目的吗，要怎么导入？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:56:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008719#reply3</guid></item><item><title>[Java] 获取 rocketmq 积压消息数量</title><link>https://www.v2ex.com/t/1008718#reply3</link><description>&lt;h3&gt;目的&lt;/h3&gt;
+&lt;p&gt;希望获取到 rocketmq 中, 指定消费组中待消费的消息数量。&lt;/p&gt;
+&lt;h3&gt;目前状态&lt;/h3&gt;
+&lt;p&gt;可以通过以下方式获取到 topic 中每个 queue 的 maxOffset 和 minOffset ，但是无法获取到当前消费到的 offset&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-java"&gt;TopicStatsTable topicStatsTable = mqAdminExt.examineTopicStats(consumerProperties.getTopic());
+topicStatsTable.getOffsetTable().values().stream()
+	.map(topicOffset -&amp;gt; topicOffset.getMaxOffset())
+    // do something
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 15 Jan 2024 03:54:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008718#reply3</guid></item><item><title>[English] 我的英语学习</title><link>https://www.v2ex.com/t/1008717#reply1</link><description>&lt;h2&gt;1. 起因&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;安全（非数据安全，主要是因为放在家里，怕着火，暂时不考虑来源不明的矿渣）&lt;/li&gt;
-&lt;li&gt;电视可以访问，播放视频&lt;/li&gt;
-&lt;li&gt;低成本（不算硬盘 500RMB-），电源最好在 50W±&lt;/li&gt;
-&lt;li&gt;不考虑路由器插硬盘…&lt;/li&gt;
-&lt;li&gt;最好可以直接插网线/连接 Wifi 访问网络&lt;/li&gt;
-&lt;li&gt;暂时不考虑网盘&lt;/li&gt;
+&lt;li&gt;看到 V 友经常&lt;code&gt;问的学点什么？&lt;/code&gt;或&lt;code&gt;怎么学英语?&lt;/code&gt;激发了好奇心。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;请各位大佬不要吝啬自己的观点和方案🤭&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 19:02:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008623#reply3</guid></item><item><title>[Qt] 关于 Qt6.6.0 无法设置程序图标的问题</title><link>https://www.v2ex.com/t/1008622#reply0</link><description>&lt;p&gt;一开始用的 cmake ，按网上找的各种方法无法解决，换成 qmake ，还是一样报错。&lt;/p&gt;
-&lt;p&gt;仔细看报错内容，发现是 make 的过程中，windres 报错，最后在 stackoverflow 上找到临时解决方法：
-&lt;a href="https://stackoverflow.com/questions/72691457/windres-not-compiling-rc-file-no-matter-what-i-do" rel="nofollow"&gt;windres error&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在生成的 makefile 中给 windres 添加--use-temp-file 选项&lt;/p&gt;
-&lt;p&gt;但是在临时生成的 makefile 中直接改毕竟不是长久之计，于是继续搜索，发现:
-&lt;a href="https://forum.qt.io/topic/62693/how-to-add-flags-to-the-windres-call-in-your-pro-file-on-windows" rel="nofollow"&gt;qmake.conf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;修改相应 qmake.conf 中的 QMAKE_RC 即可&lt;/p&gt;
-&lt;p&gt;比如在 win32-g++/qmake.conf 中添加一行：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;QMAKE_RC += --use-temp-file
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;至此，问题解决（没有尝试其他版本的 Qt ，不知道是不是版本相关问题）&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 18:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008622#reply0</guid></item><item><title>[宽带症候群] 上海电信海外加速业务</title><link>https://www.v2ex.com/t/1008619#reply1</link><description>&lt;p&gt;这个跟之前的精品网啥区别？
-我现在是精品网 50 元/月，新出的海外加速 60 元/月
-不知道这个会一直固定在 cn2 网络哇
-可以在中国电信 app 搜索海外加速看到&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 18:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008619#reply1</guid></item><item><title>[职场话题] Offer 选择 纠结</title><link>https://www.v2ex.com/t/1008617#reply0</link><description>&lt;p&gt;朋友的情况，35 岁，工作 7 年，教育背景良好
-最近有 2 个 Offer:&lt;/p&gt;
+&lt;h2&gt;2.进展&lt;/h2&gt;
+&lt;p&gt;持续学习了 300 天。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新概念购买时间。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hnIUA.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;说明：用 app 打卡是后来才开始的。最初是 B 站。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hlaIR.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;3.效果&lt;/h2&gt;
+&lt;h4&gt;原本水平&lt;/h4&gt;
+&lt;p&gt;中考： 得分 100 多点  满分 120&lt;/p&gt;
+&lt;p&gt;高考：得分 80 多分     满分 150&lt;/p&gt;
+&lt;p&gt;四级：没过，300 多分&lt;/p&gt;
+&lt;p&gt;六级：没考&lt;/p&gt;
+&lt;h4&gt;现在水平&lt;/h4&gt;
+&lt;h5&gt;听&lt;/h5&gt;
 &lt;ol&gt;
-&lt;li&gt;B 站 CI 系统&lt;/li&gt;
-&lt;li&gt;星环科技 做数据云平台&lt;/li&gt;
+&lt;li&gt;刷油管能听懂 8 成左右，美剧电影无字幕 6 成。&lt;/li&gt;
+&lt;li&gt;老友记看完一边有字幕，寻妈记看完一遍无字幕，能理解故事，有些东西不知道说的啥，笑点也不懂。&lt;/li&gt;
+&lt;li&gt;播客能听懂 6 成。没有画面辅助，明显感觉到单词量不够，不知道说的意思。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;薪资都差不多，B 站离家近，20 分钟通勤，星环科技通勤要 1 个多小时，方向上星环更好一点，有点纠结。&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 17:36:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008617#reply0</guid></item><item><title>[问与答] iOS 17 的 SMB 连接故障，苹果至今没有修复。（文件 App-右上角三个点-连接服务器）</title><link>https://www.v2ex.com/t/1008616#reply0</link><description>&lt;p&gt;我的早前发帖： &lt;a href="https://www.v2ex.com/t/978218" rel="nofollow"&gt;https://www.v2ex.com/t/978218&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前，苹果社区内有用户表示，故障原因跟 SMB 协议版本有关：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我将 SMB 协议的最低级别更改为 SMB1 ，并抑制了 Synology NAS 上的一些安全警告，然后 iPad 可以顺利连接进行共享。iPad 7 代、iPadOS 17.2 。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我用 iPadOS 16 进行了测试，可以使用 SMB2 协议连接。因此，Apple 似乎将 SMB 协议降级为旧的不受支持的协议。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;还有用户表示，Windows 或 NAS 那边的日志显示，iOS 设备登入后又立即登出了：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;……好像登录成功了，然后就立即注销了。附上事件日志屏幕截图……&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;……然后我尝试连接我的 Synology NAS DS-215+
-结果是一样的，认证成功后立即注销。
-……&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href="https://discussions.apple.com/thread/255137435" rel="nofollow"&gt;https://discussions.apple.com/thread/255137435&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 17:33:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008616#reply0</guid></item><item><title>[职场话题] 2023 年终总结 | 一位普通打工人的思考</title><link>https://www.v2ex.com/t/1008615#reply2</link><description>&lt;h3&gt;希望陷入虚无主义的深渊的朋友也能早日找到自己的灯塔&lt;/h3&gt;
-&lt;h3&gt;前往博客，获得更好的阅读体验：&lt;a href="https://chieh.wang/2024/01/15/2023-year-end-summary/" rel="nofollow"&gt;传送门&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;时光似箭，日月如梭。我从毕业（ 2022 年 7 月）到现在已经一年半，我的生活刚刚开始。为什么呢？从大学开始，我好像一只在海中迷路的船，随风飘着。但最近我找到了自己的灯塔，稍许准备之后，向着目标开始起航。&lt;/p&gt;
-&lt;h2&gt;时间胶囊&lt;/h2&gt;
-&lt;p&gt;先简单回顾一下我从 2018 年到 2023 年的整个经历和心路历程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2018 年 9 月 - 2022 年 6 月。我的技术栈大致涵盖爬虫、算法、前端、后端、Linux 、安全、Rust 。当面临就业选择时，我是迷茫的，我要到哪去？&lt;/li&gt;
-&lt;li&gt;2022 年 6 月毕业后。在 RustDesk 远程实习过一段时间，主负责键盘问题，我提出将键盘模拟拆分为两种新的键盘模式（ Map Mode 和 Translate Mode ），现在都是 RustDesk 中核心的键盘模式。老板和带我的龙哥都挺对我来非常耐心，但在家里办公会有种种干扰，甚至还有很多异样的目光，老是没办法集中精力来完成工作（后半段实习表现不太好，键盘的工作最后还交给了龙哥，还蛮对不起的）。年后就一直在家里的小店帮忙，直到 5 月淡季后开始找工作。这时候的我愈加迷茫。那时候的我只有一个想法尝试投简历，解决基本生活问题——最后进了一家 20 人的公司。&lt;/li&gt;
-&lt;li&gt;2023 年 7 月 - 2024 年 1 月。这六个月里，我主要负责的是前端，但公司里的开发流程很混乱（产品直接把大致想法给开发，经常性 Break Change ），每天都很心累。好在我在工作之余并没有闲着，通过看视频、阅读书籍和文章，我找到了自己的灯塔，知道应该如何思考和行动了，后面会继续探讨这个话题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;如何思考和行动&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;反抗荒谬&lt;/strong&gt;。源于 —— 《西西弗神话》，西西弗斯可以指代我们每一个人。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;西西弗斯因惹怒宙斯而遭责罚。但他在下地狱前逃离到人间，并尽情地体验美好的事物。最终他被捕获，被众神处以永远的惩罚：西西弗斯必须把一块石头推上山，到石头达顶部时，将再次滚回山下，西西弗斯又重新开始。加缪认为西西弗斯是一个荒诞的英雄，他热爱并穷尽一切方法让生活充实，讨厌死亡，反抗诸神。当他承认他任务的无意义和命运的确定性时，他意识到自己处境的荒谬，但他直视这种荒谬，并借由&lt;strong&gt;反抗荒谬&lt;/strong&gt;而感到充实。“应该认为，西西弗斯是幸福的。	—— &lt;a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%BB%AA%E5%BC%97%E6%96%AF%E7%A5%9E%E8%AF%9D" rel="nofollow"&gt;西西弗神话 Wiki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;世界上只有一种英雄主义，那就是认清生活的真相后依然热爱生活。——罗曼·罗兰&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;考好高中、考好大学、找好工作，每个目标就像是山顶，麻木的做着，当某一天蓦然回首，发现这一切都好荒谬，没有意义。人生没有意义，天天那么累，我为什么不去看电视或打游戏呢（像个三和大神一样）？加缪的西西弗神话让我意识到反抗荒谬比任由石头滚下更有意义，更有乐趣。天天蜷缩在房间里打游戏是一种令人感到可悲的生活方式（除非你致力于成为职业选手，职业选手大概率也需要较为专业的训练）。&lt;/p&gt;
-&lt;img alt="dragon" class="embedded_image" rel="noreferrer" src="https://blog-1256032382.cos.ap-nanjing.myqcloud.com/jpg/dragon.jpg" /&gt;
-&lt;p&gt;我决定要对抗荒谬，我需要做什么呢？我需要怎么做呢？我的直觉是，我需要找到一个山顶（目标），然后爬上去（去做），与上图如出一辙。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;构建体系、边际改进&lt;/strong&gt;。源于 —— &lt;a href="https://www.bilibili.com/video/BV1hu4y1w7af/" rel="nofollow"&gt;TED 精选 | 我如何实现一个又一个看似遥不可及的目标？&lt;/a&gt; 、 《掌控习惯》&lt;/p&gt;
-&lt;p&gt;我这里只摘录一点核心思想：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;体系和目标是有区别的，目标是关于你想要达到的结果，而体系是涉及导致这些结果的过程。&lt;/li&gt;
-&lt;li&gt;专注体系构建的过程中，我们也能更容易获得反馈，我们能很容易感知到进步还是退步。但是如果我们只专注结果，就会一直心想“一旦我实现了那个目标，我就会很快乐。&lt;/li&gt;
-&lt;li&gt;精益求精，每次追求微小的进步。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;目标的意义在于确定大方向，但体系会促进你的进步&lt;/strong&gt;。假如你为目标绞尽脑汁，却对体系设计关注不足的话，就会出现一些问题。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;仔细回想，过去的我找到一个目标之后，就长时间只关注这个目标（可能只有几个月），当处于倦怠期的后就会去做其他事情。这样就会导致，我会做很多事情，但是实际上什么也不精通。精通和会的区别就在于，对于细节的把控，而我还没深入细节就已经转入另一个方向了。&lt;/p&gt;
-&lt;p&gt;曾经《 Python3 网络爬虫开发实战》作者的经历给了我深深的震撼，他才刚大学毕业，就写了这本书，而且入职微软，对爬虫很多方方面面都特别了解。当时的我尤为震惊，心中充满了疑问，他为什么能一直学那么久的爬虫？他是怎么思考的？结合现在这两种习惯，我能理解了，并且表示敬佩。假设我现在回到五年前，我会完整的学完爬虫，并且在现有的爬虫教程的基础上进行改进，一直保持这个习惯，或许我也能写出这样一本书，又或者写出一个爬虫框架。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;知易行难，不知道更难&lt;/strong&gt;。上面的两个观点是我行动的基本指南，接下来的任务就是去做具体的事，一步一个脚印的前进。&lt;/p&gt;
-&lt;h2&gt;聚焦现在&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;种一棵树最好的时间是十年前，其次是现在。—— 《&lt;a href="https://book.douban.com/subject/5348650/" rel="nofollow"&gt;援助的死亡&lt;/a&gt;》&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;德语。看完 &lt;a href="https://www.bilibili.com/video/BV1hu4y1w7af/" rel="nofollow"&gt;TED 精选 | 我如何实现一个又一个看似遥不可及的目标？&lt;/a&gt; 之后，我培养了第一个目标 - 学德语，当做培养信心的第一课。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;多邻国和德语助手 —— 累计学了 1600 个多单词，12000 分。&lt;/li&gt;
-&lt;li&gt;Super Easy German —— 听写 3 集。&lt;/li&gt;
-&lt;li&gt;《走遍德国》—— A1 已学习 50%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;前端。网上各种负面情绪“前端技术层出不穷，学不完，培训班量产”，而我现在的观点是“最重要的不是你摸到什么牌，而是你能不能把手里的牌打好”，我现在已经摸到“前端”这张牌。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;《深入解析 CSS 》 —— 已阅读 70%。&lt;/li&gt;
-&lt;li&gt;《程序员代码面试指南》—— 已阅读 10%。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;写作与表达。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;写作。从这篇文章开始，每周都会写一篇文章并发布（对比前面我草草发布的文章，就可以知道，我认真了！）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;展望未来&lt;/h2&gt;
-&lt;p&gt;前两年看到了刘未鹏前辈写的文章&lt;a href="http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/" rel="nofollow"&gt;《怎样花两年时间去面试一个人》&lt;/a&gt;，读时眼前一亮，却无从下手。现在在看这篇文章，颇有远见，甚至还找到了现实的案例 —— &lt;a href="https://greyli.com/job-hunting/" rel="nofollow"&gt;《李辉 - 待业五年后的找工作经历》&lt;/a&gt;。招聘时，某个人的专业技能只是招聘考察的一部分，更多的是个人习惯，或者说是个人品质。优秀的个人品质会随着时间慢慢沉淀，这是一种无形的资产。乔帮主就是 Apple 公司最宝贵的资产，是 Apple 的灵魂。&lt;/p&gt;
-&lt;p&gt;现在的公司经常会有一些不合理的安排（把前端的人叫去学后端，等等），人心动荡，可能明年年后会有一波离职潮，我可能也会随着潮水离去。&lt;strong&gt;明年我希望自己能坚守现在的信念，培养我所欣赏的品质，再寻找适合这些品质生长的环境&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;或许人生就在于精心培养和改进的习惯（体系），并享受这些习惯给你带来的快乐。最后引用一下我特别喜欢一句话：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们所度过的每一个平凡的日常，也许都是连续发生的奇迹。——《日常》&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Sun, 14 Jan 2024 17:20:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008615#reply2</guid></item><item><title>[成都] 找个做电子书阅读器的小伙伴，最好是成都的</title><link>https://www.v2ex.com/t/1008614#reply0</link><description>移动端/web 端都可以，报酬面议&lt;br /&gt;&lt;br /&gt;readium&lt;br /&gt;epub.js pdf.js&lt;br /&gt;&lt;br /&gt;好友请备注来意+简历&lt;br /&gt;&lt;br /&gt;6IOD5b+Dd3d3eWFwaQ==</description><pubDate>Sun, 14 Jan 2024 17:13:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008614#reply0</guid></item><item><title>[职场话题] 个人能力和个人资源哪个更重要？论“关系户”的合理性</title><link>https://www.v2ex.com/t/1008613#reply1</link><description>&lt;p&gt;带语气的视频版本：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1vt4y1R7gF/" rel="nofollow"&gt;https://www.bilibili.com/video/BV1vt4y1R7gF/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个话题其实开始于大概三年前的一次讨论，当时我身为学校实验室的负责人，在忙活一年一度的招新工作。大致介绍下我们实验室的情况，说是实验室，其实更偏向因兴趣结合，有导师带队的项目工作坊，在机器人竞赛方面有着深厚的经验积累和历年优秀的战绩。大家呢基本都是技术出身，每个人在上位机视觉、下位机控制、硬件和机械结构方面各有所长，因为我是软件方面做得比较多，所以软件类的招新题是我来出。&lt;/p&gt;
-&lt;p&gt;在我们软件组内部商量的时候，就有人提出考核的方式是更偏现场小题，还是工程项目类似的综合大题，前者可以确保考察到个人能力，但是考察方面并不全面，现场如果加上偏整体的简答题，招新时间就会太长，后者自己购置材料，完成类似循迹小车、倒立摆一样的综合课题，现场以硬性的性能指标验收，更能反应综合实力和对自动化、电控等方面的理解，但是会存在作弊的问题，即作品可能是由哪些学长学姐、自己家人帮助完成的，招新现场时间较短，可能提问反映不出来到底是不是自己靠实力独立完成的。&lt;/p&gt;
-&lt;p&gt;后面我们依然选择了后者，辅以招进来之后集中培训三个月，再来一场笔试考察大家的学习能力。简要讲讲我当时的看法，我和副组长的分歧集中在，面试者如果借用了外力的帮助，这个外力算不算他实力的一部分。我认为算，因为我们招新的目的就是打比赛、写论文、搞专利、做项目，需要能打的人，在项目中遇到一些困难，不管是技术上的困难，还是经济、流程上的困难，都需要人来克服。他这一次通过自己的关系，解决了问题，达成了目的，那下一次在我们的项目中，他也可以继续使用关系来构成帮助，这对我们是有益的。尽管你可能说，这不是他个人实力的一部分，可能做技术的人瞧不起这样没有真才实学的“混子”，但是为了集体的利益目标，他的存在有一定的合理性，而且人不会一直甘愿当一个混子，肯定他也会努力学习，提升自己的实力和话语权的。&lt;/p&gt;
-&lt;p&gt;从学校出来步入社会后，我发现工作中也是如此，虽然不想承认，但是“关系户”手里的关系，属于个人资源，确实也是个人实力的一部分。有些事情确实就需要这样的人出马，能减轻工作中很多繁琐，这也是我认为的，能够解决问题就是好的，有一点结果导向论了。奋斗、努力、刻苦钻研，最终解决了一个技术问题固然令人称赞，但是现实世界很多问题都不属于技术问题，纯粹是管理、流程类问题。在这些事情上，你的努力很可能就是事倍功半的，搞不好还会出幺蛾子，所以有时候追寻技术的纯粹性是好，也不能忽视别人在另一条路线上的能力。&lt;/p&gt;
-&lt;p&gt;常常听到，你十年寒窗，凭什么比得上我三代经商。那么普通人就毫无翻身之力吗？我认为也不是，现代教育制度其实已经给大家尽可能的机会平等了，在普世追求面前，给自己孩子安排一个工作，子承父业之类的桥段其实已经少了很多，至少看起来已经很不容易了。阶层固化依然存在，但如果不付出努力，大家的阶层都在往下掉，想要保住还是需要后天，不会出现皇子一出生就世袭这样的事情了。&lt;/p&gt;
-&lt;p&gt;以上。&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 16:53:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008613#reply1</guid></item><item><title>[问与答] 网上卖网盘会员视屏会员的是什么路子？</title><link>https://www.v2ex.com/t/1008612#reply0</link><description>&lt;p&gt;Rt ，求解&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 16:23:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008612#reply0</guid></item><item><title>[ACG] 为什么 galgame 都要把文字渲染成位图存储？不仅在高分屏上很模糊，还非常占体积，无背景、固定字形也不能防 OCR</title><link>https://www.v2ex.com/t/1008611#reply3</link><description>&lt;p&gt;以前一直不明白为什么没几张图的 GAL 体积能这么大，研究了下拆包，拆了一部终于明白了，8GB 体积的 GAL ，各语言剧本文字的 BMP 占了 6GB ，为什么就不能打包一个字体进去呢？&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 16:19:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008611#reply3</guid></item><item><title>[宽带症候群] 到底什么是省间宽带流量结算？感觉各地运营商都喊亏钱，流量去哪了？</title><link>https://www.v2ex.com/t/1008610#reply6</link><description>到底什么是省间宽带流量结算？感觉各地运营商每月能结出几百万，都喊亏钱。流出多的省，流入不也会多吗。各省城域网只有流出，没有流入吗？流出的流量去哪了？结的钱给谁了？</description><pubDate>Sun, 14 Jan 2024 16:02:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008610#reply6</guid></item><item><title>[程序员] 从 API 工具软件来看桌面端跨平台各大框架的性能</title><link>https://www.v2ex.com/t/1008609#reply5</link><description>&lt;p&gt;首先立个盾：没有垃圾的框架，只有对性能不上心的开发者。&lt;/p&gt;
-&lt;p&gt;前段时间桌面端跨平台框架讨论得火热，大家都提供了非常多不同角度的看法，有生态、性能、上手难度、社区、薪资等等。刚好我这段时间在调研竞品，就测试了下大家常用的几款 API 工具软件的性能情况。测试对象除了我自己的产品&lt;a href="https://reqable.com" rel="nofollow"&gt;Reqable&lt;/a&gt;外，还有 Fiddler Everywhere 、Charles 、Postman 和 Insomina 这四个，大家都是支持 Windows 、MacOS 和 Linux 这三大桌面端平台。非跨平台的应用不再此列，如有其他使用了不同框架的跨平台 API 工具类应用，欢迎告诉我，有空补上。&lt;/p&gt;
-&lt;p&gt;先说框架使用情况：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Reqable：&lt;strong&gt;Flutter&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Fiddler Everywhere: &lt;strong&gt;Electron&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Charles: &lt;strong&gt;Java Swing&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Postman: &lt;strong&gt;Electron&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Insomina: &lt;strong&gt;Electron&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前只测试了 Mac 平台，结果如下：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-da82a687661edb35262231ad476b8a26_1440w.webp?source=2c26e567" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;以上结果可能存在一定的误差但应该不会很大，每个框架都写个 Hello World 来测会更准确和有说服力，所以这个结果大家参考下就行，别太较真哈。&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;测试细节：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;测试机器：MacBook Pro 2017 款。&lt;/li&gt;
-&lt;li&gt;安装空间：从 DMG 安装包解压后直接看应用包大小。&lt;/li&gt;
-&lt;li&gt;启动时间：开启屏幕录制，然后启动待测应用。完成录屏后，打开视频编辑，计算每个应用从点击图标到启动后加载出来页面静止的帧时间差。&lt;/li&gt;
-&lt;li&gt;内存占用：启动应用后置于后台，在活动监视器中获取应用的内存使用情况。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;结论：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Flutter 在三个维度都表现优异，几乎是压倒性的优势。&lt;/li&gt;
-&lt;li&gt;Java 的安装空间不大，但启动和内存这两个维度很糟糕。&lt;/li&gt;
-&lt;li&gt;Electron 在三个维度都没有优势。但优化下还是能提升不少的，都是一样的框架，Insomina 有两个维度明显要好很多。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sun, 14 Jan 2024 15:58:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008609#reply5</guid></item><item><title>[程序员] 求助，有没有免费或者不需要企业认证的电话语音通知</title><link>https://www.v2ex.com/t/1008608#reply6</link><description>&lt;p&gt;诉求，我需要监听一个 api 的余额信息，如果余额太低了就给我发送通知
-现在我的解决办法是通过 飞书的机器人来实现通知，但是有个问题就是这个通知有时候经常就忽略， 并不是那种强通知，能中断我一切行为的。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;现在我想这么解决，如果判断余额不足后，立马向我的手机号码，拨打电话，如果我没有接听的话，就一直打，打到我接听为止。
+&lt;h5&gt;说&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;不行，有呼之欲出的感觉，但总差点东西。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;读&lt;/h6&gt;
+&lt;p&gt;不区分字数总共看了大概 70 本。阅读能力提升显著，单词量也增加显著，蓝思值提升到 800L 。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;简单的，如《 the magic tree house 》系列，Dahl Roald 系列，还有其他单本。&lt;/li&gt;
+&lt;li&gt;厚点的，《 the naked face 》《 the secret garden 》《 old man and the sea 》《 poor dad rich dad 》《 delivering happiness 》&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;写&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;不行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;4. 方法(顺序)&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;学语法。解决句子结构，表达什么含义的问题。&lt;/li&gt;
+&lt;li&gt;练习发音，先从音标开始的，然后是连读、弱读、吞音、失爆等。解决听不懂的问题，因为单词在字典和句子中的发音会发生变化，最简单的例子就是 Got it ，日常不会一个单词一个单词的读出来。&lt;/li&gt;
+&lt;li&gt;看书，看视频、听播客。每天都会学。过程中不懂的过，遇到生词想查就查不想查就过。解决词汇量和听力的问题，主要是大量的实战练习。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我是按照网上&lt;code&gt;习得&lt;/code&gt;理论的路线来进行的，没有单独去背单词(用过 anki 、百词个人认为效果不佳，都删了)，都是同过程中遇到不懂的随机查。
+目前也没有连续口语，因为我觉得脑子里没有东西，直接找人对话，不管怎样也说不出来东西。&lt;/p&gt;
+&lt;p&gt;目前就我个人来看，效果还不错，总结下来就是找到合适的自己的方法，坚持下去，调整方法，坚持下去。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:49:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008717#reply1</guid></item><item><title>[程序员] thread_create 之后 TPIDRRO_EL0 寄存器在 thread_resume 未被赋值</title><link>https://www.v2ex.com/t/1008715#reply1</link><description>&lt;p&gt;我试了下直接修改 state 没办法调用 printf 或者 dlopen 之类使用 TLS 的函数
+有没有办法回避这个问题&lt;/p&gt;
+&lt;p&gt;M1 版本的 mac ，macos 13.1 (22C65)&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:47:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008715#reply1</guid></item><item><title>[分享创造] 找到哪些项目在用这个 GitHub 仓库</title><link>https://www.v2ex.com/t/1008713#reply0</link><description>&lt;p&gt;GitHub 的 Used by 不能按 star 排序，导致我没法好奇到底哪些项目在用这个包。我就写了一个小工具，来展示仓库的 Dependents 。大家感兴趣可以来试试看，代码也开源了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/15/EagbArfB8zvCnyI.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://izon.vercel.app" rel="nofollow"&gt;https://izon.vercel.app&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hyoban/izon" rel="nofollow"&gt;https://github.com/hyoban/izon&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:42:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008713#reply0</guid></item><item><title>[问与答] 大家在网上做交易的时候，个人一般都是怎么样的交易方式？</title><link>https://www.v2ex.com/t/1008712#reply0</link><description>&lt;h1&gt;例&lt;/h1&gt;
+&lt;pre&gt;&lt;code&gt;想实现一个功能，在网上找了个大佬给开发，2W 块钱，先付一半，做完再付一半，怎么能保证付完一半，他如果不给开发 在把钱搞回来了，因为之前已经有过这种情况了， 之前付完钱，也给做，但是做出来的跟我要的完全不一样。 后来因为钱少也不不了了之了。
 
-我想找一个这样的渠道，或者大神们能有其他的实现思路嘛，一定要强侵入性的通知
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 14 Jan 2024 15:45:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008608#reply6</guid></item><item><title>[程序员] 码农周刊 停刊了吗？</title><link>https://www.v2ex.com/t/1008607#reply0</link><description>好像 2 年前就停止了。</description><pubDate>Sun, 14 Jan 2024 15:36:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008607#reply0</guid></item><item><title>[问与答] android 新功能？</title><link>https://www.v2ex.com/t/1008605#reply3</link><description>&lt;p&gt;最近发现一些 app 在启动的是否会被自动添加一个 logo 显示在启动开屏上？   有老哥了解这个机制吗？&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 15:26:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008605#reply3</guid></item><item><title>[问与答] 求助，电脑崩溃了，不停蓝屏重启。</title><link>https://www.v2ex.com/t/1008604#reply2</link><description>今天不知道干了什么，家里老电脑突然崩溃了，蓝屏，反复重启进不去，提示终止代码：page fault in nonpaged area 失败的操作：wof.sys &lt;br /&gt;以为是系统坏了，想重装一下，用微软官方的启动盘制作工具做了一个 win10 的安装 u 盘，进入后也是蓝屏，后来换成 PE 倒是能进去 PE 的菜单了，但是用 win10 的 PE 一样会蓝屏，换成 xp 版的才能进的去 PE ，进去安装完成启动之后又是蓝屏，实在是找不出原因了，求助一下各位大佬</description><pubDate>Sun, 14 Jan 2024 15:17:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008604#reply2</guid></item><item><title>[问与答] 想搭建一个仅限内部观看的视频网站，有啥低成本解决方案。用户不超过 100</title><link>https://www.v2ex.com/t/1008603#reply5</link><description>&lt;p&gt;我是一个视频博主，有个付费群，我录了十期的课程给他们看，我想自己搭建一个网站，然后给每个人发账户自己去看。求解决方案，谢谢。目前手里有俩 vps 。&lt;/p&gt;</description><pubDate>Sun, 14 Jan 2024 15:09:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008603#reply5</guid></item></channel></rss>
+大家都是怎么交易的？ 某鱼？某宝？
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 15 Jan 2024 03:41:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008712#reply0</guid></item><item><title>[酷工作] HR 直招！&lt;远程岗位,需 base 中国&gt; 开发职位( PHP /IOS/ Python /Web3 前端/Next.js 前端/数据开发)、Web3 产品经理。欢迎投递～</title><link>https://www.v2ex.com/t/1008711#reply0</link><description>邮箱: dml2aWFuQGdhdGUuaW8=&lt;br /&gt;TG: @&lt;a href="https://www.v2ex.com/member/ViVixixi" rel="nofollow noopener" target="_blank"&gt;ViVixixi&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; - PHP 开发工程师 - &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt;1.根据用户及公司需求，负责 PHP 端的开发&lt;br /&gt;2.不断优化用户体验以及 PHP 服务端的性能&lt;br /&gt;3.负责产品系统的开发，编写、接口的开发&lt;br /&gt;4.配合产品设计、UI 、UE 设计师完成产品的调试开发&lt;br /&gt;5.维护相关系统、保证系统运行的稳定性&lt;br /&gt;6.配合后期 IT 系统建设，提出系统功能的改进建议&lt;br /&gt;7.使用 PHP 语言开发应用服务、平台及接口 &lt;br /&gt;&lt;br /&gt; [任职要求] &lt;br /&gt;1.精通 PHP 、Mysql 开发 &lt;br /&gt;2.熟悉 SQLSERVER ，Oracle 等数据库&lt;br /&gt;3.熟悉 TP F3 框架，Nginx 运行机制，Redis 、Git 、Svn &lt;br /&gt;4.对服务器端的负载性能有一定理解可以进行评估优化&lt;br /&gt;5.熟悉 Swoole 原生开发、Hyperf 、熟悉 Web3 优先&lt;br /&gt;熟悉 Elasticsearch 、RabbitMQ ，Laravel 框架、数据库性能优化，大数据处理，了解异步技术&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- Web3 前端开发—&lt;br /&gt;&lt;br /&gt; [岗位职责]  &lt;br /&gt;1 、从事区块链插件钱包产品的研发工作，熟悉区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和落地&lt;br /&gt;3 、负责各大主链的插件钱包发送、签名、连接等功能实现&lt;br /&gt;4 、协助解决开发中的 Web3 技术问题&lt;br /&gt;5 、有 Next.js 开发经验优先&lt;br /&gt;&lt;br /&gt;  [任职要求] &lt;br /&gt;1 、熟悉 TypeScript, 对 JS/TS 的工具类 / 功能性函数库有一定经验&lt;br /&gt;2 、熟悉常⽤的 Web3 钱包开发 如：Metamask 钱包 熟悉三方 Walletconnect 、Ether.js 、Web3.js 等&lt;br /&gt;3 、熟悉 Dapp 与插件钱包交互逻辑，对 Meatmask 插件源码要有所了解&lt;br /&gt;4 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;5 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;6 、熟悉 EVM 、BTC 、Solana 等其它开源区块链钱包开发&lt;br /&gt;7 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;8 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;9 、具有扎实的编程基础和解决开发中的 Web3 技术问题&lt;br /&gt;10 、有插件钱包开发经验者优先&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- IOS 开发工程师-&lt;br /&gt;&lt;br /&gt; [任职要求]  &lt;br /&gt;1 、精通 OC/Swift 语言，具备在不同语言特性下进行架构设计能力&lt;br /&gt;2 、精通系统特性，熟悉源码，对系统架构原理和实现有深刻理解 &lt;br /&gt;3 、熟悉 iOS 和及常用的 framework ，熟悉 iOS 系统运行机理，对内存管理、对象生命周期有清晰的认识&lt;br /&gt;4 、熟悉 iOS 平台下的性能调优，熟悉内存优化、渲染优化、包体积优化等 &lt;br /&gt;5 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;6 、了解以太坊/比特币/区块链的原理、机制和相关加密算法者优先&lt;br /&gt;7 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;8 、熟悉以太坊，Solana 等其它开源区块链&lt;br /&gt;9 、良好的团队协作精神和执行力，较强的分析问题和解决问题能力&lt;br /&gt;10 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;11 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;12 、具有扎实的编程基础和解决问题的能力 &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt;1 、从事区块链产品的设计和研发工作，了解区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和创新&lt;br /&gt;3 、能够指导项目团队成员 Web3 开发工作，解决开发中的 Web3 技术问题&lt;br /&gt;&lt;br /&gt;- Python 爬虫工程师-&lt;br /&gt;&lt;br /&gt; [岗位职责]  &lt;br /&gt;1 、从事区块链插件钱包产品的研发工作，熟悉区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和落地&lt;br /&gt;3 、负责各大主链的插件钱包发送、签名、连接等功能实现&lt;br /&gt;4 、协助解决开发中的 Web3 技术问题&lt;br /&gt;5 、有 next.js 开发经验优先&lt;br /&gt;&lt;br /&gt;  [任职要求] &lt;br /&gt;1 、熟悉 TypeScript, 对 JS/TS 的工具类 / 功能性函数库有一定经验&lt;br /&gt;2 、熟悉常⽤的 Web3 钱包开发 如：Metamask 钱包 熟悉三方 Walletconnect 、ether.js 、web3.js 等&lt;br /&gt;3 、熟悉 Dapp 与插件钱包交互逻辑，对 meatmask 插件源码要有所了解&lt;br /&gt;4 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;5 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;6 、熟悉 EVM 、BTC 、Solana 等其它开源区块链钱包开发&lt;br /&gt;7 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;8 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;9 、具有扎实的编程基础和解决开发中的 Web3 技术问题&lt;br /&gt;10 、有插件钱包开发经验者优先&lt;br /&gt;&lt;br /&gt;- Web3 产品经理-&lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1.负责公司相关产品端到端设计，包括但不限于产品规划，业务调研、需求分析、文档编制、原型设计、研发跟进等工作&lt;br /&gt;2.与业务团队对接，负责线上业务产品的系统设计及路线图规划、功能模块设计、系统功能优化，从成本和收益角度，输出最优系统解决方案&lt;br /&gt;3.与运营、科技开发团队协同工作，推进产品方案正常上线运行，并及时跟进优化迭代工作，保证系统的安全性与稳定性&lt;br /&gt;4.对金融行业常见领域的商业模式及监管有一定的了解，积极与业务、技术团队密切合作，支持业务的快速发展和不断提升管理效率； &lt;br /&gt;&lt;br /&gt; [职位要求]  &lt;br /&gt;1.两年以上产品经理的业务经验，有完整的需求分析、PRD 编写、技术沟通及业务实施落地的项目经验&lt;br /&gt;2.可独立编制产品需求文档，推动系统上线，具备较强的产品设计和规划能力&lt;br /&gt;3.出色的项目管理能力，能够协调各团队，完成项目的评审、排期、开发、上线、结论验证等流程&lt;br /&gt;4.对金融行业基本知识有了解&lt;br /&gt;5.熟悉 web3 项目优先&lt;br /&gt;&lt;br /&gt; - Next.js 前端开发 - &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、三年以上前端开发经验，有复杂前端项目开发经历，能独立完成产品中的功能模块&lt;br /&gt;2 、具备较强的逻辑思维能力和较强的分析、处理问题的能力&lt;br /&gt;3 、熟练掌握 Css3 ，Sass/Less/Stylus 语法和编译，有较高的 UI 还原度 &lt;br /&gt;4 、熟练掌握  Javascript ，Typescript 语言特性，掌握一定的编码技巧&lt;br /&gt;5 、熟悉掌握 React 技术栈，了解 React 运行机制，能自主编写 React 组件&lt;br /&gt;6 、熟练掌握前端工程化工具， 例如 Webpack ，Eslint 等， 并能合理使用工具完成页面优化&lt;br /&gt;7 、熟练解决各种浏览器兼容问题，具备良好的代码风格以及接口、架构设计能力&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、有区块链、Web3 相关工作经验 &lt;br /&gt;2 、理解区块链底层原理及熟练掌握 HD Wallets 开发 &lt;br /&gt;3 、熟练掌握钱包与三方网站(例如 Uniswap)的交互逻辑 &lt;br /&gt;4 、Next.js 优先 &lt;br /&gt;5 、管理经验者优先 &lt;br /&gt;&lt;br /&gt; - 数据开发-  &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、负责底层数据结构设计及代码实现 &lt;br /&gt;2 、负责数据清洗、处理、优化，能通过专项数据分析有效发现问题，提出改善建议并推动解决 &lt;br /&gt;3 、负责数据质量管理减少数据问题 &lt;br /&gt;4 、响应日常数据分析需求、提供数据服务&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、本科及以上学历，信息安全、数学、加密或计算机软件专业&lt;br /&gt;2 、精通 SQL ，熟悉 SQL 性能优化，熟悉主流数据库，例如 Oracle, MySQL 等&lt;br /&gt;3 、熟练掌握 Python 脚本语言编程，具备较强的逻辑思维能力&lt;br /&gt;4 、有模型建立经验，能独立设计处理整体数据模型并完成开发&lt;br /&gt;5 、有数据敏感性，对原始数据进行处理，ETL 转换，数据挖掘，算法优化调整，有完整数据挖掘或数据分析着优先&lt;br /&gt;6 、有链上数据开发经验者优先 &lt;br /&gt;&lt;br /&gt; - 前端开发工程师-  &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt; 1. 负责使用 React 技术栈开发 C 端及 B 端页面，页面还原度高 &lt;br /&gt;2. 根据设计稿和需求文档，完成页面的编写和优化 &lt;br /&gt;3. 参与项目需求评审和技术选型，提供合理的技术方案和建议 &lt;br /&gt;4. 与后端开发人员密切合作，确保前后端数据交互正常 &lt;br /&gt;5. 负责性能优化和代码重构，提升用户体验和系统稳定性 &lt;br /&gt;&lt;br /&gt; [任职要求]  &lt;br /&gt;1. 熟练使用 React 技术栈，包括 React 、Redux 等相关框架和库 &lt;br /&gt;2. 具备良好的 HTML5 、CSS3 编码能力，熟悉常见的布局技巧和响应式设计 &lt;br /&gt;3. 熟悉前端性能优化和常见的 Web 开发工具和调试方法 &lt;br /&gt;4. 具备良好的团队合作精神和沟通能力，能够与不同职能团队协作 &lt;br /&gt;5. 有较好的问题解决能力和学习能力，能够快速掌握新技术和工具 &lt;br /&gt;6 . 积极主动，具备良好的工作态度，对工作负责，能够按时保质完成任务 &lt;br /&gt;&lt;br /&gt; - 区块链数据开发-  &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、负责底层数据结构设计及代码实现 &lt;br /&gt;2 、根据业务需求，负责区块链数据节点数据解析、入库 &lt;br /&gt;3 、负责数据调度、监控的正常运行 &lt;br /&gt;4 、响应团队内部数据分析需求、提供数据服务 &lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、本科及以上学历，信息安全、数学、加密或计算机软件专业&lt;br /&gt;2 、精通 SQL ，对关系性、非关系性数据库有比较深的研究，熟悉数据库原理，SQL 常见问题和调优&lt;br /&gt;3 、熟练掌握 C++/Python/GO 等语言编程，具备较强的逻辑思维能力&lt;br /&gt;4 、熟练区块链加密算法，共识机制，安全协议，分布式计算、智能合约等底层协议与运行机制者&lt;br /&gt;5 、熟悉各种主链节点数据结构以及解析数据方法&lt;br /&gt;6 、有过链上大数据处理经验的优先</description><pubDate>Mon, 15 Jan 2024 03:40:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008711#reply0</guid></item><item><title>[Rust] Rust 有没有类似 go grpc-gateway 的 crate</title><link>https://www.v2ex.com/t/1008709#reply0</link><description>&lt;p&gt;看了一下 tonic 的 example 感觉差得有点多，需要做很多包装才能达到类似 go 的那种效果，各位大佬有没有经验给分享一下&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:28:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008709#reply0</guid></item><item><title>[问与答] 有什么好的电饭煲推荐？</title><link>https://www.v2ex.com/t/1008708#reply9</link><description>耐操好用的，松下感觉有点不如早年的了，虎牌，东芝这些如何。 可以贵一点不要离谱就行…</description><pubDate>Mon, 15 Jan 2024 03:26:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008708#reply9</guid></item><item><title>[奇思妙想] GPT 都这么强了，寻求这样一款英语学习软件</title><link>https://www.v2ex.com/t/1008707#reply1</link><description>&lt;h2&gt;起因&lt;/h2&gt;
+&lt;p&gt;都说没有需求，就不会有动力。&lt;/p&gt;
+&lt;p&gt;最近出国玩，虽然靠翻译软件，基本能够沟通，但是那种有很多话想表达，但是蹦不出来几句英文的感觉，很难受，尤其翻译软件，虽然我口语不行，但是我能感觉到，翻译出来的意思会有所偏差，尤其在语气上。&lt;/p&gt;
+&lt;p&gt;所以就想拿半年时间，好好的练习下口语。&lt;/p&gt;
+&lt;h2&gt;想法&lt;/h2&gt;
+&lt;p&gt;但是又不想陷入传统的背单词或者看视频学习，感觉效率很低（主要是会感觉学习进度很慢，没有那种过关升级的快感）&lt;/p&gt;
+&lt;p&gt;感觉还是实际的对话会快速提升水平（因为这次即使没有说几句，但是憋出来的几句还是印象尤深）&lt;/p&gt;
+&lt;p&gt;说到对话，感觉很多人会推荐一些外教软件，是就是实时对话的。&lt;/p&gt;
+&lt;p&gt;我之前有下载并购买过 italki 并购买相关老师的学习，确实会比传统背单词好点。&lt;/p&gt;
+&lt;p&gt;但是问题是，我需要在限定时间里，和老师完成对话。有时候需要提前准备一些话题，少了很多随机的真实性。&lt;/p&gt;
+&lt;p&gt;尤其是我这样的超级 i 人，视频一开，更加难随心所欲的说。&lt;/p&gt;
+&lt;p&gt;或者说，我总感觉我的口语很差，单词使用的不标准，对方会不会误会我的意思觉得我太菜了，就更不敢开口说话。&lt;/p&gt;
+&lt;p&gt;所以并不打算再次选择这样的软件。&lt;/p&gt;
+&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;在 GPT 刚出来不久，就记得有 v 友开发了一个网页版的英语学习产品？&lt;/p&gt;
+&lt;p&gt;不知道现在 GPTs 都出来好久了，有没有这样一个 GPT_Agent(私人英语学习助手)&lt;/p&gt;
+&lt;p&gt;或者是一段 prompt ？我设置好就能和 gpt 语音对话&lt;/p&gt;
+&lt;p&gt;实现这样的需求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;打开我设置或者随机一个话题，就会用英语和我对话&lt;/li&gt;
+&lt;li&gt;如果我说的不准，可以提示我（比如更地道，更口语化的表达方式）&lt;/li&gt;
+&lt;li&gt;如果我使用了中文，可以告诉我，用英文该如何表达&lt;/li&gt;
+&lt;li&gt;能够记住我之前的对话（不是这一轮对话，而是持续跟踪我的英语口语表达水平，或者第二天会主动带着我复习昨天的对话）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我想如果有一天，我可以和 GPT 较为熟练的对话的话，出去玩，应该就够了&lt;/p&gt;
+&lt;p&gt;好吧，写到现在，感觉应该没有这样的吧，或者有没有什么软件能实现个 30% 50%？&lt;/p&gt;
+&lt;p&gt;最佳的实现，估计还是想一段 prompt ，然后用原生 gpt 吧？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:24:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008707#reply1</guid></item></channel></rss>
