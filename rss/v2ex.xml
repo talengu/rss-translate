@@ -1,147 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 15 Jan 2024 04:50:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iDev] 「App 君数据分享 #03」限时免费能够带来多大的流量</title><link>https://www.v2ex.com/t/1008730#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;之前做了个这个 App 1/1 ，在 V 上发了帖子：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://v2ex.com/t/1006860" rel="nofollow"&gt;https://v2ex.com/t/1006860&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;数据&lt;/h2&gt;
-&lt;p&gt;现在限免时间也结束了，我来公布一下成绩：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1/1 下载 8741 份&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;免费内购 7213 份&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;分析&lt;/h2&gt;
-&lt;p&gt;其中大陆下载 2472 份，免费内购 1860 份，免费内购率 75.24%&lt;/p&gt;
-&lt;p&gt;台湾地区下载 3097 份，免费内购 2660 份，免费内购率 86.38%&lt;/p&gt;
-&lt;p&gt;总共限免时间应该是 6 天，但是前两天的成绩基本是整个周期的 86%。&lt;/p&gt;
-&lt;p&gt;这里面差别 11% 的免费内购率，主要原因应该是国行机器在第一次打开后，需要请求一个联网权限，然后才能加载内购信息，我的 App 要 Kill-Relaunch 才能显示正确的购买信息。如果用户完全关闭了联网权限，应该是没法购买的。&lt;/p&gt;
-&lt;p&gt;不知道是不是被什么繁中的推广频道 cue 到了，整体下载最终比大陆地区要更多。&lt;/p&gt;
-&lt;h2&gt;一点点总结&lt;/h2&gt;
-&lt;p&gt;整体来说，带来的流量比上第三个 tab 底部的“本周编辑推荐”要更高，白拿毕竟是人性，但是转化率基本是 0 ，因为已经都是白拿用户了，如果你的产品就是具有一传二传三特征的，倒是可以考虑考虑这种限免途径。&lt;/p&gt;
-&lt;p&gt;这次 App 一上架设置错误，本体是付费的，内购是免费的，这些因素可能导致那些专门做限免的各种频道完全没有上上去。这一波应该是损失了一些流量。为了验证这个问题，本来限免时间结束了，我决定把限免再开两天看看，看看这种操作有没有新增的下载。到时候 Append 到这个楼里。&lt;/p&gt;
-&lt;h2&gt;其他&lt;/h2&gt;
-&lt;p&gt;数据分享 #01： &lt;a href="https://v2ex.com/t/977847" rel="nofollow"&gt;https://v2ex.com/t/977847&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;数据分享 #02： &lt;a href="https://v2ex.com/t/984492" rel="nofollow"&gt;https://v2ex.com/t/984492&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:42:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008730#reply0</guid></item><item><title>[问与答] 怎么检查膝盖啊</title><link>https://www.v2ex.com/t/1008729#reply0</link><description>去年运动比较多，想查下膝盖/半月板之类的有没有啥问题，方便选择后面的运动形式。是挂普外科还是什么科啊，直接说检查膝盖吗？检查一次大概多少钱。&lt;br /&gt;&lt;br /&gt;有老哥提供下经验吗</description><pubDate>Mon, 15 Jan 2024 04:32:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008729#reply0</guid></item><item><title>[Apple] 14 寸 mbp 进水</title><link>https://www.v2ex.com/t/1008728#reply2</link><description>昨天 14 寸 mbp 左边进了一点点水，左侧两个 c 口失灵，今天发现又恢复了，但还是担心留下暗病。&lt;br /&gt;&lt;br /&gt;我有 ac+，打电话问了🍎客服，说是如果进水不给免费换两个 c 口，大概看了下价格，不含服务费就要 500 多。请问各位，我这个还有必要修么？</description><pubDate>Mon, 15 Jan 2024 04:31:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008728#reply2</guid></item><item><title>[宽带症候群] 这几天被 pt pcdn 的相关消息搞得风声鹤唳，就问一下这里有杭州电信的消息灵通人士吗？</title><link>https://www.v2ex.com/t/1008727#reply1</link><description>&lt;p&gt;杭州电信会不会查高流量上传，什么时候查，是近期吗
-真查的话，那我就去封存我的 mteam 的 pt 账号了&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:28:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008727#reply1</guid></item><item><title>[问与答] Notion, Obsidian, Standard Notes 哪个更好一些？</title><link>https://www.v2ex.com/t/1008726#reply2</link><description>&lt;p&gt;最近重度 Notion 用户，但是发现 Standard Notes 有端端加密。有点心动。
-来 V2 搜了下又发现，实际上推荐 Obsidian 的更多一些&lt;/p&gt;
-&lt;p&gt;那么从功能，安全性，实用性等看的话这三个哪个好呢？又各有什么优缺点呢？&lt;/p&gt;
-&lt;p&gt;主要用途：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;记笔记&lt;/li&gt;
-&lt;li&gt;偶尔会用一些例如 ToDo list 这种功能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最好能够：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;加密，安全&lt;/li&gt;
-&lt;li&gt;iPad 或者电脑端 离线操作&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 15 Jan 2024 04:27:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008726#reply2</guid></item><item><title>[汽车] 大家车险怎么买啊？</title><link>https://www.v2ex.com/t/1008725#reply2</link><description>&lt;p&gt;不想买车损险了，只买了三者和共享三者配额，结果平安车主 app 上还下不了单，说要联系什么线下销售人员。
-买个车险还要搞这么多幺蛾子？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008725#reply2</guid></item><item><title>[职场话题] 坚决支持被字节 PUA 离职的老哥维权！</title><link>https://www.v2ex.com/t/1008724#reply2</link><description>&lt;p&gt;这位老哥不是一个“完美”的受害者，有些行为甚至看起来有些“愚蠢”了。&lt;/p&gt;
-&lt;p&gt;但大都完全可以理解，因为我们相信大公司的“体面”，相信他们“合法”，相信同事之间不过就是出来赚俩钱儿而已。&lt;/p&gt;
-&lt;p&gt;我们都是善良的人，怎知道有人会为了一点儿逼钱搞得朝夕相处的同事你死我活。&lt;/p&gt;
-&lt;p&gt;不过面对此事，目前我还是悲观的，我不认为这位老哥会全身而退，甚至有可能因为写了这些东西，被字节以泄密为由继续追诉——卑鄙是卑鄙者的通行证。提醒这位老哥注意保护自己。&lt;/p&gt;
-&lt;p&gt;所以我单开帖子声援这位老哥，给这位老哥加油打气。如果缺钱，也请不吝在各种可信渠道（比如公众号）放出自己的收款码，我会捐款。&lt;/p&gt;
-&lt;p&gt;也给说风凉话的人讲一声：如果你从来没有为了建设某些东西出一点点力气，就不要指望在自己遇到困难时这样东西能帮上你。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:23:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008724#reply2</guid></item><item><title>[Surge] surge wireguard 问题请教</title><link>https://www.v2ex.com/t/1008723#reply2</link><description>我的 surge 配置文件放在 iCloud ，多个设备共同使用一个配置，家里路由生成了多个 WG 配置，供不同的设备使用，这些配置都放在 surge 里面，我设置了一个 WG 策略组，指定了 Mac 使用为 Mac 生成的 WG 配置，IPAD 用 IPAD 的配置。&lt;br /&gt;&lt;br /&gt;但是问题来了，surge 似乎会自动测试，或者不知道的原因，设备使用了错误的 WG 配置，导致比如原本 Mac 的配置被其他设备占用了，半天会连不上，这个问题该怎么解决呢？&lt;br /&gt;&lt;br /&gt;不知道问题描述清楚了没有，就是 WG 是一对一的， 一个路由生成的多个 WG 文件，放在 1 个 surge 文件供多个设备使用时，有时会冲突，导致 WG 配置被错误的占用</description><pubDate>Mon, 15 Jan 2024 04:23:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008723#reply2</guid></item><item><title>[分享发现] 讲个联想不会做电脑的故事，以防有人需要</title><link>https://www.v2ex.com/t/1008721#reply6</link><description>&lt;p&gt;前阵子买了个 yoga pro 14s ，什么都好，但是 CPU 主频只能上到 3 GHz ，白白浪费了 i9 13900H 这么好的一个 CPU 。切换到超能模式，更新 BIOS ，都不能超过 3G 限制。&lt;br /&gt;
-周末把系统重装了，从 Win11 22H2 变成了 23H2 ，联想预装软件只安装了联想智能引擎，其他全是 Windows 自己走固件/驱动下载。&lt;br /&gt;
-现在 CPU 的主频终于正常了，CineBench R23 跑分：&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;单核稳定 4.5G ，从之前的 1149 份提高到了 1669 ，提升 45%&lt;/li&gt;
-&lt;li&gt;多核心稳定到 4G ，从之前的 13626 份提高到了 15068 ，提升 10%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;现在的跑分虽然和理论性能还是有差距，但是作为轻薄本，我已经知足了。比到手只能跑 3G 的状态好太多了。&lt;br /&gt;
-联想不知道在干什么，往电脑里面塞了一堆预装软件不说，还跟微软学会开始让用户 debug 了（微软也得背锅，至少有一半责任）。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:17:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008721#reply6</guid></item><item><title>[宽带症候群] 联通光猫变动态密码了，有没有办法把密码改回静态的？</title><link>https://www.v2ex.com/t/1008720#reply1</link><description>&lt;p&gt;目前，注意到：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;光猫管理员密码变成动态密码了，每次想要进后台，都必须致电运维索要密码。密码不是 CUAdmin ，也不是 cuadmin+mac 前六位地址了。&lt;/li&gt;
-&lt;li&gt;密码只在几分钟内有效，一段时间就会过期。一旦被超时登出，就只能再次致电运维索要密码&lt;/li&gt;
-&lt;li&gt;无法进入 telne ，无法通过 &lt;code&gt;/telnet?enable=1&amp;amp;key=F84D33255A80&lt;/code&gt; 或 &lt;code&gt;hidden_version_switch.html&lt;/code&gt; 打开 Telnet&lt;/li&gt;
-&lt;li&gt;不确定删除 TR069 是否有效，也无法直接删除 TR069 （ F12 也无效）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;有没有办法把密码改回静态的？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 04:06:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008720#reply1</guid></item><item><title>[程序员] 百度 Baidu Comate 代码 AI 助手发布，大家有用过类似的工具吗，求讨论分享</title><link>https://www.v2ex.com/t/1008719#reply3</link><description>&lt;p&gt;今天看到百度 Baidu Comate 代码 AI 助手可以购买了，不知道大家有用过的没，一个月 60 是不是也太离谱了；&lt;/p&gt;
-&lt;p&gt;现在我主要用的代码协助工具还是 gpt ，在量不大的代码的场景下感觉还行，大家有没有用过什么更好的代码助手，求分享一下，顺便问问大家有试过用 AI 助手直接读取一个复杂项目的吗，要怎么导入？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:56:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008719#reply3</guid></item><item><title>[Java] 获取 rocketmq 积压消息数量</title><link>https://www.v2ex.com/t/1008718#reply3</link><description>&lt;h3&gt;目的&lt;/h3&gt;
-&lt;p&gt;希望获取到 rocketmq 中, 指定消费组中待消费的消息数量。&lt;/p&gt;
-&lt;h3&gt;目前状态&lt;/h3&gt;
-&lt;p&gt;可以通过以下方式获取到 topic 中每个 queue 的 maxOffset 和 minOffset ，但是无法获取到当前消费到的 offset&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-java"&gt;TopicStatsTable topicStatsTable = mqAdminExt.examineTopicStats(consumerProperties.getTopic());
-topicStatsTable.getOffsetTable().values().stream()
-	.map(topicOffset -&amp;gt; topicOffset.getMaxOffset())
-    // do something
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 15 Jan 2024 03:54:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008718#reply3</guid></item><item><title>[English] 我的英语学习</title><link>https://www.v2ex.com/t/1008717#reply1</link><description>&lt;h2&gt;1. 起因&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;看到 V 友经常&lt;code&gt;问的学点什么？&lt;/code&gt;或&lt;code&gt;怎么学英语?&lt;/code&gt;激发了好奇心。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;2.进展&lt;/h2&gt;
-&lt;p&gt;持续学习了 300 天。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新概念购买时间。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hnIUA.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;说明：用 app 打卡是后来才开始的。最初是 B 站。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hlaIR.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;3.效果&lt;/h2&gt;
-&lt;h4&gt;原本水平&lt;/h4&gt;
-&lt;p&gt;中考： 得分 100 多点  满分 120&lt;/p&gt;
-&lt;p&gt;高考：得分 80 多分     满分 150&lt;/p&gt;
-&lt;p&gt;四级：没过，300 多分&lt;/p&gt;
-&lt;p&gt;六级：没考&lt;/p&gt;
-&lt;h4&gt;现在水平&lt;/h4&gt;
-&lt;h5&gt;听&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;刷油管能听懂 8 成左右，美剧电影无字幕 6 成。&lt;/li&gt;
-&lt;li&gt;老友记看完一边有字幕，寻妈记看完一遍无字幕，能理解故事，有些东西不知道说的啥，笑点也不懂。&lt;/li&gt;
-&lt;li&gt;播客能听懂 6 成。没有画面辅助，明显感觉到单词量不够，不知道说的意思。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5&gt;说&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;不行，有呼之欲出的感觉，但总差点东西。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h6&gt;读&lt;/h6&gt;
-&lt;p&gt;不区分字数总共看了大概 70 本。阅读能力提升显著，单词量也增加显著，蓝思值提升到 800L 。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;简单的，如《 the magic tree house 》系列，Dahl Roald 系列，还有其他单本。&lt;/li&gt;
-&lt;li&gt;厚点的，《 the naked face 》《 the secret garden 》《 old man and the sea 》《 poor dad rich dad 》《 delivering happiness 》&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5&gt;写&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;不行&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;4. 方法(顺序)&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;学语法。解决句子结构，表达什么含义的问题。&lt;/li&gt;
-&lt;li&gt;练习发音，先从音标开始的，然后是连读、弱读、吞音、失爆等。解决听不懂的问题，因为单词在字典和句子中的发音会发生变化，最简单的例子就是 Got it ，日常不会一个单词一个单词的读出来。&lt;/li&gt;
-&lt;li&gt;看书，看视频、听播客。每天都会学。过程中不懂的过，遇到生词想查就查不想查就过。解决词汇量和听力的问题，主要是大量的实战练习。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我是按照网上&lt;code&gt;习得&lt;/code&gt;理论的路线来进行的，没有单独去背单词(用过 anki 、百词个人认为效果不佳，都删了)，都是同过程中遇到不懂的随机查。
-目前也没有连续口语，因为我觉得脑子里没有东西，直接找人对话，不管怎样也说不出来东西。&lt;/p&gt;
-&lt;p&gt;目前就我个人来看，效果还不错，总结下来就是找到合适的自己的方法，坚持下去，调整方法，坚持下去。&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:49:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008717#reply1</guid></item><item><title>[程序员] thread_create 之后 TPIDRRO_EL0 寄存器在 thread_resume 未被赋值</title><link>https://www.v2ex.com/t/1008715#reply1</link><description>&lt;p&gt;我试了下直接修改 state 没办法调用 printf 或者 dlopen 之类使用 TLS 的函数
-有没有办法回避这个问题&lt;/p&gt;
-&lt;p&gt;M1 版本的 mac ，macos 13.1 (22C65)&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:47:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008715#reply1</guid></item><item><title>[分享创造] 找到哪些项目在用这个 GitHub 仓库</title><link>https://www.v2ex.com/t/1008713#reply0</link><description>&lt;p&gt;GitHub 的 Used by 不能按 star 排序，导致我没法好奇到底哪些项目在用这个包。我就写了一个小工具，来展示仓库的 Dependents 。大家感兴趣可以来试试看，代码也开源了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/15/EagbArfB8zvCnyI.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://izon.vercel.app" rel="nofollow"&gt;https://izon.vercel.app&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/hyoban/izon" rel="nofollow"&gt;https://github.com/hyoban/izon&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:42:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008713#reply0</guid></item><item><title>[问与答] 大家在网上做交易的时候，个人一般都是怎么样的交易方式？</title><link>https://www.v2ex.com/t/1008712#reply0</link><description>&lt;h1&gt;例&lt;/h1&gt;
-&lt;pre&gt;&lt;code&gt;想实现一个功能，在网上找了个大佬给开发，2W 块钱，先付一半，做完再付一半，怎么能保证付完一半，他如果不给开发 在把钱搞回来了，因为之前已经有过这种情况了， 之前付完钱，也给做，但是做出来的跟我要的完全不一样。 后来因为钱少也不不了了之了。
-
-大家都是怎么交易的？ 某鱼？某宝？
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 15 Jan 2024 03:41:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008712#reply0</guid></item><item><title>[酷工作] HR 直招！&lt;远程岗位,需 base 中国&gt; 开发职位( PHP /IOS/ Python /Web3 前端/Next.js 前端/数据开发)、Web3 产品经理。欢迎投递～</title><link>https://www.v2ex.com/t/1008711#reply0</link><description>邮箱: dml2aWFuQGdhdGUuaW8=&lt;br /&gt;TG: @&lt;a href="https://www.v2ex.com/member/ViVixixi" rel="nofollow noopener" target="_blank"&gt;ViVixixi&lt;/a&gt;&lt;br /&gt;&lt;br /&gt; - PHP 开发工程师 - &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt;1.根据用户及公司需求，负责 PHP 端的开发&lt;br /&gt;2.不断优化用户体验以及 PHP 服务端的性能&lt;br /&gt;3.负责产品系统的开发，编写、接口的开发&lt;br /&gt;4.配合产品设计、UI 、UE 设计师完成产品的调试开发&lt;br /&gt;5.维护相关系统、保证系统运行的稳定性&lt;br /&gt;6.配合后期 IT 系统建设，提出系统功能的改进建议&lt;br /&gt;7.使用 PHP 语言开发应用服务、平台及接口 &lt;br /&gt;&lt;br /&gt; [任职要求] &lt;br /&gt;1.精通 PHP 、Mysql 开发 &lt;br /&gt;2.熟悉 SQLSERVER ，Oracle 等数据库&lt;br /&gt;3.熟悉 TP F3 框架，Nginx 运行机制，Redis 、Git 、Svn &lt;br /&gt;4.对服务器端的负载性能有一定理解可以进行评估优化&lt;br /&gt;5.熟悉 Swoole 原生开发、Hyperf 、熟悉 Web3 优先&lt;br /&gt;熟悉 Elasticsearch 、RabbitMQ ，Laravel 框架、数据库性能优化，大数据处理，了解异步技术&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- Web3 前端开发—&lt;br /&gt;&lt;br /&gt; [岗位职责]  &lt;br /&gt;1 、从事区块链插件钱包产品的研发工作，熟悉区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和落地&lt;br /&gt;3 、负责各大主链的插件钱包发送、签名、连接等功能实现&lt;br /&gt;4 、协助解决开发中的 Web3 技术问题&lt;br /&gt;5 、有 Next.js 开发经验优先&lt;br /&gt;&lt;br /&gt;  [任职要求] &lt;br /&gt;1 、熟悉 TypeScript, 对 JS/TS 的工具类 / 功能性函数库有一定经验&lt;br /&gt;2 、熟悉常⽤的 Web3 钱包开发 如：Metamask 钱包 熟悉三方 Walletconnect 、Ether.js 、Web3.js 等&lt;br /&gt;3 、熟悉 Dapp 与插件钱包交互逻辑，对 Meatmask 插件源码要有所了解&lt;br /&gt;4 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;5 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;6 、熟悉 EVM 、BTC 、Solana 等其它开源区块链钱包开发&lt;br /&gt;7 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;8 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;9 、具有扎实的编程基础和解决开发中的 Web3 技术问题&lt;br /&gt;10 、有插件钱包开发经验者优先&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- IOS 开发工程师-&lt;br /&gt;&lt;br /&gt; [任职要求]  &lt;br /&gt;1 、精通 OC/Swift 语言，具备在不同语言特性下进行架构设计能力&lt;br /&gt;2 、精通系统特性，熟悉源码，对系统架构原理和实现有深刻理解 &lt;br /&gt;3 、熟悉 iOS 和及常用的 framework ，熟悉 iOS 系统运行机理，对内存管理、对象生命周期有清晰的认识&lt;br /&gt;4 、熟悉 iOS 平台下的性能调优，熟悉内存优化、渲染优化、包体积优化等 &lt;br /&gt;5 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;6 、了解以太坊/比特币/区块链的原理、机制和相关加密算法者优先&lt;br /&gt;7 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;8 、熟悉以太坊，Solana 等其它开源区块链&lt;br /&gt;9 、良好的团队协作精神和执行力，较强的分析问题和解决问题能力&lt;br /&gt;10 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;11 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;12 、具有扎实的编程基础和解决问题的能力 &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt;1 、从事区块链产品的设计和研发工作，了解区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和创新&lt;br /&gt;3 、能够指导项目团队成员 Web3 开发工作，解决开发中的 Web3 技术问题&lt;br /&gt;&lt;br /&gt;- Python 爬虫工程师-&lt;br /&gt;&lt;br /&gt; [岗位职责]  &lt;br /&gt;1 、从事区块链插件钱包产品的研发工作，熟悉区块链的协议，运行机制和底层实现等&lt;br /&gt;2 、负责区块链相关技术的体系构建和落地&lt;br /&gt;3 、负责各大主链的插件钱包发送、签名、连接等功能实现&lt;br /&gt;4 、协助解决开发中的 Web3 技术问题&lt;br /&gt;5 、有 next.js 开发经验优先&lt;br /&gt;&lt;br /&gt;  [任职要求] &lt;br /&gt;1 、熟悉 TypeScript, 对 JS/TS 的工具类 / 功能性函数库有一定经验&lt;br /&gt;2 、熟悉常⽤的 Web3 钱包开发 如：Metamask 钱包 熟悉三方 Walletconnect 、ether.js 、web3.js 等&lt;br /&gt;3 、熟悉 Dapp 与插件钱包交互逻辑，对 meatmask 插件源码要有所了解&lt;br /&gt;4 、了解区块链的协议，运行机制和底层实现等,有区块链项目的开发经验&lt;br /&gt;5 、熟悉各种数据结构和算法，对密码学，安全协议和加密算法有了解&lt;br /&gt;6 、熟悉 EVM 、BTC 、Solana 等其它开源区块链钱包开发&lt;br /&gt;7 、熟悉以太坊 EVM 原理，Erc721 及 1155 协议&lt;br /&gt;8 、具备信息安全意识，了解 ETH 等平台安全知识&lt;br /&gt;9 、具有扎实的编程基础和解决开发中的 Web3 技术问题&lt;br /&gt;10 、有插件钱包开发经验者优先&lt;br /&gt;&lt;br /&gt;- Web3 产品经理-&lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1.负责公司相关产品端到端设计，包括但不限于产品规划，业务调研、需求分析、文档编制、原型设计、研发跟进等工作&lt;br /&gt;2.与业务团队对接，负责线上业务产品的系统设计及路线图规划、功能模块设计、系统功能优化，从成本和收益角度，输出最优系统解决方案&lt;br /&gt;3.与运营、科技开发团队协同工作，推进产品方案正常上线运行，并及时跟进优化迭代工作，保证系统的安全性与稳定性&lt;br /&gt;4.对金融行业常见领域的商业模式及监管有一定的了解，积极与业务、技术团队密切合作，支持业务的快速发展和不断提升管理效率； &lt;br /&gt;&lt;br /&gt; [职位要求]  &lt;br /&gt;1.两年以上产品经理的业务经验，有完整的需求分析、PRD 编写、技术沟通及业务实施落地的项目经验&lt;br /&gt;2.可独立编制产品需求文档，推动系统上线，具备较强的产品设计和规划能力&lt;br /&gt;3.出色的项目管理能力，能够协调各团队，完成项目的评审、排期、开发、上线、结论验证等流程&lt;br /&gt;4.对金融行业基本知识有了解&lt;br /&gt;5.熟悉 web3 项目优先&lt;br /&gt;&lt;br /&gt; - Next.js 前端开发 - &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、三年以上前端开发经验，有复杂前端项目开发经历，能独立完成产品中的功能模块&lt;br /&gt;2 、具备较强的逻辑思维能力和较强的分析、处理问题的能力&lt;br /&gt;3 、熟练掌握 Css3 ，Sass/Less/Stylus 语法和编译，有较高的 UI 还原度 &lt;br /&gt;4 、熟练掌握  Javascript ，Typescript 语言特性，掌握一定的编码技巧&lt;br /&gt;5 、熟悉掌握 React 技术栈，了解 React 运行机制，能自主编写 React 组件&lt;br /&gt;6 、熟练掌握前端工程化工具， 例如 Webpack ，Eslint 等， 并能合理使用工具完成页面优化&lt;br /&gt;7 、熟练解决各种浏览器兼容问题，具备良好的代码风格以及接口、架构设计能力&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、有区块链、Web3 相关工作经验 &lt;br /&gt;2 、理解区块链底层原理及熟练掌握 HD Wallets 开发 &lt;br /&gt;3 、熟练掌握钱包与三方网站(例如 Uniswap)的交互逻辑 &lt;br /&gt;4 、Next.js 优先 &lt;br /&gt;5 、管理经验者优先 &lt;br /&gt;&lt;br /&gt; - 数据开发-  &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、负责底层数据结构设计及代码实现 &lt;br /&gt;2 、负责数据清洗、处理、优化，能通过专项数据分析有效发现问题，提出改善建议并推动解决 &lt;br /&gt;3 、负责数据质量管理减少数据问题 &lt;br /&gt;4 、响应日常数据分析需求、提供数据服务&lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、本科及以上学历，信息安全、数学、加密或计算机软件专业&lt;br /&gt;2 、精通 SQL ，熟悉 SQL 性能优化，熟悉主流数据库，例如 Oracle, MySQL 等&lt;br /&gt;3 、熟练掌握 Python 脚本语言编程，具备较强的逻辑思维能力&lt;br /&gt;4 、有模型建立经验，能独立设计处理整体数据模型并完成开发&lt;br /&gt;5 、有数据敏感性，对原始数据进行处理，ETL 转换，数据挖掘，算法优化调整，有完整数据挖掘或数据分析着优先&lt;br /&gt;6 、有链上数据开发经验者优先 &lt;br /&gt;&lt;br /&gt; - 前端开发工程师-  &lt;br /&gt;&lt;br /&gt; [岗位职责] &lt;br /&gt; 1. 负责使用 React 技术栈开发 C 端及 B 端页面，页面还原度高 &lt;br /&gt;2. 根据设计稿和需求文档，完成页面的编写和优化 &lt;br /&gt;3. 参与项目需求评审和技术选型，提供合理的技术方案和建议 &lt;br /&gt;4. 与后端开发人员密切合作，确保前后端数据交互正常 &lt;br /&gt;5. 负责性能优化和代码重构，提升用户体验和系统稳定性 &lt;br /&gt;&lt;br /&gt; [任职要求]  &lt;br /&gt;1. 熟练使用 React 技术栈，包括 React 、Redux 等相关框架和库 &lt;br /&gt;2. 具备良好的 HTML5 、CSS3 编码能力，熟悉常见的布局技巧和响应式设计 &lt;br /&gt;3. 熟悉前端性能优化和常见的 Web 开发工具和调试方法 &lt;br /&gt;4. 具备良好的团队合作精神和沟通能力，能够与不同职能团队协作 &lt;br /&gt;5. 有较好的问题解决能力和学习能力，能够快速掌握新技术和工具 &lt;br /&gt;6 . 积极主动，具备良好的工作态度，对工作负责，能够按时保质完成任务 &lt;br /&gt;&lt;br /&gt; - 区块链数据开发-  &lt;br /&gt;&lt;br /&gt; [职位描述] &lt;br /&gt;1 、负责底层数据结构设计及代码实现 &lt;br /&gt;2 、根据业务需求，负责区块链数据节点数据解析、入库 &lt;br /&gt;3 、负责数据调度、监控的正常运行 &lt;br /&gt;4 、响应团队内部数据分析需求、提供数据服务 &lt;br /&gt;&lt;br /&gt; [职位要求] &lt;br /&gt;1 、本科及以上学历，信息安全、数学、加密或计算机软件专业&lt;br /&gt;2 、精通 SQL ，对关系性、非关系性数据库有比较深的研究，熟悉数据库原理，SQL 常见问题和调优&lt;br /&gt;3 、熟练掌握 C++/Python/GO 等语言编程，具备较强的逻辑思维能力&lt;br /&gt;4 、熟练区块链加密算法，共识机制，安全协议，分布式计算、智能合约等底层协议与运行机制者&lt;br /&gt;5 、熟悉各种主链节点数据结构以及解析数据方法&lt;br /&gt;6 、有过链上大数据处理经验的优先</description><pubDate>Mon, 15 Jan 2024 03:40:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008711#reply0</guid></item><item><title>[Rust] Rust 有没有类似 go grpc-gateway 的 crate</title><link>https://www.v2ex.com/t/1008709#reply0</link><description>&lt;p&gt;看了一下 tonic 的 example 感觉差得有点多，需要做很多包装才能达到类似 go 的那种效果，各位大佬有没有经验给分享一下&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:28:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008709#reply0</guid></item><item><title>[问与答] 有什么好的电饭煲推荐？</title><link>https://www.v2ex.com/t/1008708#reply9</link><description>耐操好用的，松下感觉有点不如早年的了，虎牌，东芝这些如何。 可以贵一点不要离谱就行…</description><pubDate>Mon, 15 Jan 2024 03:26:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008708#reply9</guid></item><item><title>[奇思妙想] GPT 都这么强了，寻求这样一款英语学习软件</title><link>https://www.v2ex.com/t/1008707#reply1</link><description>&lt;h2&gt;起因&lt;/h2&gt;
-&lt;p&gt;都说没有需求，就不会有动力。&lt;/p&gt;
-&lt;p&gt;最近出国玩，虽然靠翻译软件，基本能够沟通，但是那种有很多话想表达，但是蹦不出来几句英文的感觉，很难受，尤其翻译软件，虽然我口语不行，但是我能感觉到，翻译出来的意思会有所偏差，尤其在语气上。&lt;/p&gt;
-&lt;p&gt;所以就想拿半年时间，好好的练习下口语。&lt;/p&gt;
-&lt;h2&gt;想法&lt;/h2&gt;
-&lt;p&gt;但是又不想陷入传统的背单词或者看视频学习，感觉效率很低（主要是会感觉学习进度很慢，没有那种过关升级的快感）&lt;/p&gt;
-&lt;p&gt;感觉还是实际的对话会快速提升水平（因为这次即使没有说几句，但是憋出来的几句还是印象尤深）&lt;/p&gt;
-&lt;p&gt;说到对话，感觉很多人会推荐一些外教软件，是就是实时对话的。&lt;/p&gt;
-&lt;p&gt;我之前有下载并购买过 italki 并购买相关老师的学习，确实会比传统背单词好点。&lt;/p&gt;
-&lt;p&gt;但是问题是，我需要在限定时间里，和老师完成对话。有时候需要提前准备一些话题，少了很多随机的真实性。&lt;/p&gt;
-&lt;p&gt;尤其是我这样的超级 i 人，视频一开，更加难随心所欲的说。&lt;/p&gt;
-&lt;p&gt;或者说，我总感觉我的口语很差，单词使用的不标准，对方会不会误会我的意思觉得我太菜了，就更不敢开口说话。&lt;/p&gt;
-&lt;p&gt;所以并不打算再次选择这样的软件。&lt;/p&gt;
-&lt;h2&gt;需求&lt;/h2&gt;
-&lt;p&gt;在 GPT 刚出来不久，就记得有 v 友开发了一个网页版的英语学习产品？&lt;/p&gt;
-&lt;p&gt;不知道现在 GPTs 都出来好久了，有没有这样一个 GPT_Agent(私人英语学习助手)&lt;/p&gt;
-&lt;p&gt;或者是一段 prompt ？我设置好就能和 gpt 语音对话&lt;/p&gt;
-&lt;p&gt;实现这样的需求&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;打开我设置或者随机一个话题，就会用英语和我对话&lt;/li&gt;
-&lt;li&gt;如果我说的不准，可以提示我（比如更地道，更口语化的表达方式）&lt;/li&gt;
-&lt;li&gt;如果我使用了中文，可以告诉我，用英文该如何表达&lt;/li&gt;
-&lt;li&gt;能够记住我之前的对话（不是这一轮对话，而是持续跟踪我的英语口语表达水平，或者第二天会主动带着我复习昨天的对话）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我想如果有一天，我可以和 GPT 较为熟练的对话的话，出去玩，应该就够了&lt;/p&gt;
-&lt;p&gt;好吧，写到现在，感觉应该没有这样的吧，或者有没有什么软件能实现个 30% 50%？&lt;/p&gt;
-&lt;p&gt;最佳的实现，估计还是想一段 prompt ，然后用原生 gpt 吧？&lt;/p&gt;</description><pubDate>Mon, 15 Jan 2024 03:24:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1008707#reply1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 16 Jan 2024 04:24:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 🍁采用 Vite4、Vue3、Pinia 、Naive UI 构建，构建企业 npm 依赖包中后台管理系统基础框架，做到框架(packages)和应用(app)分开，即可以减少项目之间的耦合，也能提升项目扩展性</title><link>https://www.v2ex.com/t/1009036#reply0</link><description>&lt;p&gt;高中毕业，自学编程，写的不知道咋样，大家看看&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hangjob/vue-bag-admin" rel="nofollow"&gt;https://github.com/hangjob/vue-bag-admin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/15/e9d3b75214557b88a5cd6286da08a979/image.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/15/2d28821130d5d652f6e55d9cd3dda6b6/image.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.sda1.dev/15/692ac317b126cc4cce66d7dbb96dd532/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240116121018.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 04:20:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009036#reply0</guid></item><item><title>[宽带症候群] 把路由器的天线通过 sma 延长线接到各屋，会实现全覆盖吗?</title><link>https://www.v2ex.com/t/1009035#reply0</link><description>这样把天线分开放置有什么缺点。搞个多天线接口的路由器，一地接两个，2x2? 不懂这个，来问问长长知识。</description><pubDate>Tue, 16 Jan 2024 04:16:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009035#reply0</guid></item><item><title>[问与答] 不懂就问，还是访问 V2EX 的问题</title><link>https://www.v2ex.com/t/1009034#reply1</link><description>同一网络环境，pc 和 android 手机的浏览器都不能直接访问 V2EX 。&lt;br /&gt;而 iphone 的浏览器（ safari,firefox)在还原网络设置后都仍可以，&lt;br /&gt;请问是什么原理？&lt;br /&gt;&lt;br /&gt;另问： &lt;a href="https://www.v2ex.com/t/1009002" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1009002&lt;/a&gt; ，只要有用户回复特定内容就可以归档贴子，这么随意？</description><pubDate>Tue, 16 Jan 2024 04:09:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009034#reply1</guid></item><item><title>[程序员] 求推荐 8gen3 手机</title><link>https://www.v2ex.com/t/1009032#reply0</link><description>月经贴了哈，旧手机 s21 快不行了，打算 618 换一波机，求一下大佬们帮忙出出主意，需求如下：&lt;br /&gt;1. 只用非 iPhone 系，跳跳和梯子是刚需，偶尔用作开发演示机&lt;br /&gt;2. 重度洁癖极度讨厌反诈，可以人肉去香港和欧洲，甚至可以考虑去香港买国产手机&lt;br /&gt;3. 双卡双待&lt;br /&gt;4. 对续航要求不是很刚需，小号机型讨喜，最好 size 和 s21 接近&lt;br /&gt;5. 有点受够了三星的充电速度，羡慕国产手机的光速充电&lt;br /&gt;6. 对摄像头 0 要求&lt;br /&gt;7. 手机材质尤其抗摔性能尽量优秀</description><pubDate>Tue, 16 Jan 2024 04:03:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009032#reply0</guid></item><item><title>[程序员] 有没有用阿里云香港或者国外其它区域云服务器的朋友，有什么需要注意的吗？</title><link>https://www.v2ex.com/t/1009030#reply1</link><description>&lt;p&gt;我想在阿里云香港搭建一个 chatgpt 镜像，主要为了访问速度快，不知道有没有什么注意事项？不搞翻墙的服务，已知不能搞&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 04:01:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009030#reply1</guid></item><item><title>[问与答] 挂一个卖手机卡的骗子，请大家注意避坑</title><link>https://www.v2ex.com/t/1009028#reply0</link><description>&lt;p&gt;昨晚在频道看到一个卖台湾卡的，我就想搞了一个。什么都说好了，款也付完了。&lt;/p&gt;
+&lt;p&gt;说是今天 11 点前发货，可是刚才一看，TM 删消息，并且把我拉黑了。&lt;/p&gt;
+&lt;p&gt;这波操作属实 666 ，刚才同样联系他但是没买的一个朋友，也被删消息拉黑了。
+20U 也不多，买个教训吧，&lt;strong&gt;这个世界不可信&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我仅存的一张截图&lt;/p&gt;
+&lt;p&gt;&lt;img alt="截屏 1" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2024/01/16/mtq0MK6G.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;现在被删消息拉黑&lt;/p&gt;
+&lt;p&gt;&lt;img alt="截屏 2" class="embedded_image" rel="noreferrer" src="https://img1.imgtp.com/2024/01/16/NGoPHWuf.png" /&gt;&lt;/p&gt;
+&lt;p&gt;骗子的一些信息：&lt;/p&gt;
+&lt;p&gt;TG 用户名：@jikagongzuoshi1&lt;/p&gt;
+&lt;p&gt;TG 千人频道：@jikagongzuoshi002&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;USDT 地址：TVPswXrQYELQZa1gojiRZ7tbi23C7eAxsR&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:59:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009028#reply0</guid></item><item><title>[职场话题] 想问一下除了 V 站 还有其他比较靠谱的互联网/商业资讯来源~</title><link>https://www.v2ex.com/t/1009025#reply1</link><description>&lt;p&gt;背景：OP 是一个偏项目的产品经理，主要是帮 B 端甲方做系统定制的（就是外包），有时候要自己画原型有时候可能直接让供应商去画和对接就行；&lt;/p&gt;
+&lt;p&gt;现在想提高自己的商业思维能力和项目能力，偶尔也会看看一些技术侧的，主要是为了技术选型和了解行业动态，本身自己是有开发的能力的，经常写一些 Python 小脚本给自己处理数据或者帮客户处理数据&lt;/p&gt;
+&lt;p&gt;想问一下 V 友有没有比较适合产品/项目的资讯网站，或者推荐互联网相关的资讯网站，类似虎嗅这样的商业网站也可以，可轻氪，说明大概的量级就行，感谢&lt;/p&gt;
+&lt;p&gt;目前已有：一些公众号、虎嗅网、V 站等&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:47:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009025#reply1</guid></item><item><title>[推广] 电信流量卡 长期 19 月租可续约</title><link>https://www.v2ex.com/t/1009023#reply0</link><description>&lt;p&gt;套餐：19 元/月 200G （ 170 通用+30 定向）+0.1 元/分钟
+最低可用两年（ 150G 赠送流量活动期为 2 年，详情未写续约）&lt;/p&gt;
+&lt;p&gt;需要办理可联系 v：enNiZDE5NjE=&lt;/p&gt;
+&lt;p&gt;禁发地区：
+新疆，西藏，北京，云南，贵州，广西，海南（海口、三亚除外）具体配送区域以审单为准&lt;/p&gt;
+&lt;p&gt;详细资料： &lt;a href="https://www.yuque.com/u34429180/diq87k/ng0onmo3mrxvp9or" rel="nofollow"&gt;https://www.yuque.com/u34429180/diq87k/ng0onmo3mrxvp9or&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:46:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009023#reply0</guid></item><item><title>[生活] 分享一下我家族的人在大事上犯的蠢事</title><link>https://www.v2ex.com/t/1009021#reply15</link><description>（本来想用农村开头，但感觉不妥当，会有点贴标签的意思）&lt;br /&gt;（因为是我家族发生的，我了解前前后后和当事人情况，所以我应该可以带有感情色彩去说这些事情 for 理中客）&lt;br /&gt;（亲戚称呼可能有点乱，我也不知道该叫表哥还是堂哥，我们那都叫哥/姐/妹）&lt;br /&gt;（时间排序）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1 、我姑妈在他儿子高考当天给他儿子（我不知道怎么称呼）吃了很多很多荔枝，导致高考时候拉肚子，名落孙山，本来学校第一名的水平，最后一个学校都没考上。&lt;br /&gt;&lt;br /&gt;2 、我堂哥在可以上区最好中学的情况下，大伯让他去可以免学费住宿费的职高！！！即使亲戚说可以出钱赞助堂哥读书，大伯也不肯！说：会读书的在哪里都会读书！&lt;br /&gt;&lt;br /&gt;3 、有人去割电缆，大伯以为自己只是把风没有参与割就没事，结果全部进去了，进去那一年我堂哥正好高考！&lt;br /&gt;&lt;br /&gt;4 、不出所料，堂哥落榜了。&lt;br /&gt;&lt;br /&gt;5 、我堂哥 2 没有做好产检，早产了，早产也没有按照医生要求好好照料，导致我侄子现在直接废了&lt;br /&gt;&lt;br /&gt;6 、我还有侄子没有及时做手术，现在地包天严重</description><pubDate>Tue, 16 Jan 2024 03:38:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009021#reply15</guid></item><item><title>[旅行] 大连随手拍 Nikon Z9/Sony A7C</title><link>https://www.v2ex.com/t/1009020#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xuE02iV.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/IGwOJCx.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/kVrj8ot.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9t8CfuY.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Pa29Pru.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lQlBjoL.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EluWD8L.jpeg" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/LaPNl1N.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:38:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009020#reply3</guid></item><item><title>[分享发现] 分享自用电子书库</title><link>https://www.v2ex.com/t/1009019#reply0</link><description>&lt;p&gt;下载、建站都容易，整理费时费事。自建 6w+书库，可在线摸鱼，下载，一键发送 kindle ，平时自用，对 v 友有用，整理起来有动力。需要的自取，地址：aHR0cHM6Ly9saWIuaHN1LmxpZmU=&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:36:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009019#reply0</guid></item><item><title>[问与答] 求推荐 GPS 定位的设备</title><link>https://www.v2ex.com/t/1009017#reply5</link><description>&lt;p&gt;想给自己车加个 GPS 设备，实现实时查询定位，要求位置信息发送到自己的服务器，硬件可自定义接口那种。&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:31:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009017#reply5</guid></item><item><title>[职场话题] 时隔两个月，回顾现领导的操作，惊我一身汗</title><link>https://www.v2ex.com/t/1009016#reply0</link><description>仅以自身告诫各位，警惕“宫斗”&lt;br /&gt;前情提要： &lt;a href="https://www.v2ex.com/t/990810" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/990810&lt;/a&gt;&lt;br /&gt;现在因为部门人数相比以前增长很多，老大直接管理已经有困难了，最近通知会把现有部门再细分成两个部分，但部门归属不变，再找两个人直接管辖，并向现老大直接汇报。差不多就是新增了一个管理层级。年后落实，现在人员基本定了，一个是我，另一个是刚来不久的一哥们。&lt;br /&gt;我理了理：&lt;br /&gt;1.我跟前老大关系很好，说是心腹也不为过&lt;br /&gt;2.另一个准主管来了没多久，能力是有的，但是没有什么管理经验，突然上来是有点怪异的&lt;br /&gt;3.最近现老大跟这哥们沟通很频繁，看起来关系也不错&lt;br /&gt;4.我要是之前听了，那就自然跟现有业务部门没啥关系了，这次调整自然跟我没关系。&lt;br /&gt;主要之前我跟现老大关系也还可以，当时真没往这方面想过，现在不得不想了。</description><pubDate>Tue, 16 Jan 2024 03:31:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009016#reply0</guid></item><item><title>[程序员] 看看西部数码的嘴脸，一生黑</title><link>https://www.v2ex.com/t/1009015#reply15</link><description>&lt;h2&gt;总结：&lt;strong&gt;西部数码是事逼&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;域名北岸也是一大堆繁琐的流程，详见：图一图二&lt;/p&gt;
+&lt;p&gt;看了坛友发出的这个备案规则，有感而言&lt;/p&gt;
+&lt;p&gt;西部数码存在许多隐性消费，未在事前进行充分说明&lt;/p&gt;
+&lt;p&gt;我是第一次接触西数这个域名注册商，当你的域名转移到他们平台后，让你离不开他们，这些隐藏的消费和他们的嘴脸便显露无遗&lt;/p&gt;
+&lt;p&gt;举例而言，正好手里有几台闲置的服务器，同时在学习 DNS 相关的知识，想着可以为自己的网站定制一个个性化的 DNS 服务器，许多厂商和其它的域名注册商免费提供的自定义 DNS Host 服务（即使用当前域名创建 DNS 服务器，由自己创建的 DNS 服务器提供 DNS 解析服务，不是使用公共的 DNS 服务器），如腾讯、阿里等。而西部数码却要以 100 元/条的价格收费，价格高得离谱，DNS 服务器，至少需要两条记录，也就是至少要 200 元，&lt;strong&gt;这可是在其他家免费的功能啊，抢钱呢？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我问西数如何自定义 自建的 DNS 服务器（自定义 DNS Host ）时，他们告诉我“修改 DNS 服务器”，牛头不对马嘴，直到我在工单里解释说明和拨打 400 主动联系技术人员电话告诉他们什么是自定义 DNS 服务器后，他们才反应过来，告诉我这些功能是需要额外收费。他们竟然要收费，这项别人家免费的功能，&lt;strong&gt;理由美其名曰为你好，所以需要支付费用&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;同时，西数通过低价吸引用户将域名转入，捆绑到他们家，只有在仔细阅读他们底部的一行小字即服务协议后，才能发现其中的坑。他们以低价吸引用户，却要求用户在其平台维持域名至少两年。如果在此期间转出或出售域名，就需要补齐差价。第二年的续费也按原价&lt;/p&gt;
+&lt;p&gt;客服、售后、技术支持也不够专业，问个问题半天答不上来，有时候回答还牛头不对马嘴。问域名如何转出，问这问那，价格不合适还是哪不合适？我说了续费价格不合适，&lt;strong&gt;西数你们也不会给我降价啊&lt;/strong&gt;，要你转入的时候很热情，转出的时候换了一副嘴脸，咨询问题时，往往得不到及时的回答，而有关域名如何转出、价格是否合理等问题，西数也不会给予满意的答复。刚开始转入时，态度热情，秒回，巴不得赶紧转入，这样的商家，回答售前问题或简单问题时迅速答复，但问工单中关于域名转出等问题，则拖延时间才答复，先谅晾着你几个小时再慢吞吞地告诉你，&lt;strong&gt;何必需要这样挽留客户？把服务和产品做好，提升服务质量，客户不自然就来了？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;前几天通过西数参与域名抢注和竞价，我是第一次参与，&lt;strong&gt;才发现有竞价机器人&lt;/strong&gt;。距离竞价结束还有 15 分钟时，前一秒的价格是 50 元，但在刷新网页的瞬间，价格却飙升至 300 元，从 50 飙升到 300 的 300 元的竞价记录大致出现在竞价过程的 6 分钟内。我很迷惑，我在竞价前查看了西数对这个域名估价，发现自动出价的机器人在竞价时，它出价前后基本与西数的域名估价持平，才没有继续自动加价。而在竞价的最后 30 分钟，加价幅度也从原来的 10 元变成了 20 元，这个域名挺有意义，硬着头皮拍下了。国人商家，唉，难评……&lt;/p&gt;
+&lt;p&gt;在竞价结束后，却发现域名管理有许多功能受到限制，我不清楚西数和聚名是合作关系，域名实际上是在聚名那边，导致在西数平台上许多管理功能无法使用，或者需要续费 1 年后才能在西数管理，如果我想把域名转回聚名进行管理，可以没问题，支付 3 元的服务费，我在你们家西数完成的交易，在你们平台付的域名钱，都是没有提前说明还一大堆规则和额外收费，在竞价结束后我咨询支付的费用怎么和我出价的费用不一致，我询问他们计费规则，他们的回答也是牛头不对马嘴，而且存在许多复杂的规则和额外的收费，有时候他们自己也解释不清楚&lt;/p&gt;
+&lt;h3&gt;西部数码，一生黑&lt;/h3&gt;
+&lt;p&gt;.
+&lt;strong&gt;如本文有欠缺或不准确的地方，恳请大佬指正&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmE4d.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmqXK.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hfyAU.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hfGp5.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hfaDX.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmPjC.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmXkm.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmrgN.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmAwp.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/15/hmHZl.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:31:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009015#reply15</guid></item><item><title>[问与答] 是时候给 10 岁的孩子大开眼界了</title><link>https://www.v2ex.com/t/1009014#reply22</link><description>孩子马上 10 岁了，过两天就是寒假了。之前看电视都没啥内容，挺无聊的，你也知道现在网络上都是啥。&lt;br /&gt;&lt;br /&gt;不像我们小时候，电视上放什么你看什么，经常还能看到很多经典之作。&lt;br /&gt;&lt;br /&gt;请大家推荐一些，曾经震撼到你的，让人印象深刻的电影和 PC 游戏吧。(这个寒假给他买了台笔记本)</description><pubDate>Tue, 16 Jan 2024 03:30:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009014#reply22</guid></item><item><title>[推广] 谷歌周边产品大放送～ 闲鱼粉丝 0 元抽奖福利</title><link>https://www.v2ex.com/t/1009013#reply3</link><description>&lt;p&gt;🎉 第 2 期粉丝专属抽奖活动来啦！ 🌟&lt;/p&gt;
+&lt;p&gt;大家好，为了感谢大家的支持，2024 年开始每个月我都会在闲鱼举办一次专属粉丝的免费抽奖活动（包邮送）。 &lt;/p&gt;
+&lt;p&gt;🌟参与条件：关注我的闲鱼账号(谷歌精品屋)即可。&lt;/p&gt;
+&lt;p&gt;🌟抽奖礼品：最受欢迎的将作为抽奖奖品（请大家踊跃留言），快选出你钟爱的宝贝吧。&lt;/p&gt;
+&lt;p&gt;🌟抽奖时间：[预计 2024/1/20]&lt;/p&gt;
+&lt;p&gt;🌟温馨提醒：大家感兴趣的也可以加入我的微信粉丝群聊，里面还有更多的惊喜福利哦。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/5mQ9N8bz.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/125QtHj9.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/Nm7N2H1x.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/8xxKp90H.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/4wtvzsm3.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/r2aN5w0l.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/Trnvbub7.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/eCgfT1UB.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/4tSA6tlj.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/sQ19AWj3.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/zIV3q982.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/7NG334bi.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/i2607XFW.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:27:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009013#reply3</guid></item><item><title>[问与答] chatgpt 的语音对话的额度，具体是多少？ you have reached chatgpt read limit.</title><link>https://www.v2ex.com/t/1009012#reply0</link><description>有时候，可以能聊十分钟。有时候，能聊半个小时。&lt;br /&gt;并且不能让它等待指定的时间，比如 1 分钟。有时候说话顿一下，就抢话。</description><pubDate>Tue, 16 Jan 2024 03:26:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009012#reply0</guid></item><item><title>[奇思妙想] UI 设计师的 AI 产品</title><link>https://www.v2ex.com/t/1009011#reply0</link><description>&lt;p&gt;1.能上传网站/ App 的截图, 返回类似设计的 UI 设计稿, 本质就是 UI 设计师的 AI
+2.直接上传 UI 设计高清图, 直接生成相关 UI 代码. 包括不局限 Android  iOS  Mac Windows  网站各个端的. 然后可以直接修改的&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:22:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009011#reply0</guid></item><item><title>[分享发现] 彩云天气 app store 最新版本移除掉了设置页面连点弹出开发页面，用来关闭广告的用户慎重更新</title><link>https://www.v2ex.com/t/1009010#reply0</link><description>&lt;p&gt;详情看这：/t/1003528&lt;/p&gt;
+&lt;p&gt;因为有人说这个开发者页面可以关闭广告，所以广为告之 不要更新了。&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 03:22:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009010#reply0</guid></item><item><title>[问与答] 微软 Power Platform 的培训机构有推荐的嘛?</title><link>https://www.v2ex.com/t/1009008#reply0</link><description>公司准备找公司给业务人员培训</description><pubDate>Tue, 16 Jan 2024 03:17:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009008#reply0</guid></item></channel></rss>
