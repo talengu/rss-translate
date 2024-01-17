@@ -1,71 +1,518 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 16 Jan 2024 15:52:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] 招聘 rust 后端开发</title><link>https://www.v2ex.com/t/1009198#reply0</link><description>Rust 后端开发&lt;br /&gt;&lt;br /&gt;职位描述: 我们正在寻找有经验的 Rust 区块链开发人员加入我们的团队，为创新的区块链和 DeFi 项目做出贡献。理想的候选人应具有强大的技术背景和对新兴技术的热情，并具有快速适应快节奏和不断变化的环境的能力。&lt;br /&gt;&lt;br /&gt;基本要求:&lt;br /&gt;&lt;br /&gt;精通 Rust 编程语言。&lt;br /&gt;3 年以上区块链和 DeFi 项目开发经验。&lt;br /&gt;熟悉比特币的 UTXO 模型和 PSBT 签名机制。&lt;br /&gt;深入了解闪电网络原理和 HTLC 技术。&lt;br /&gt;了解 RGB 协议。&lt;br /&gt;有主流去中心化交易所(DEX)开发经验，尤其熟悉 Uniswap 、Curve 、MakerDao 等 DeFi 产品。&lt;br /&gt;对 DeFi 领域有深刻的理解和兴趣。&lt;br /&gt;职责: -参与基于 rust 的区块链和 DeFi 解决方案的设计和实现。 在整个开发周期内保持代码质量和项目标准。 与团队合作解决复杂的技术挑战。 -不断学习和研究区块链领域的新技术和新趋势。&lt;br /&gt;&lt;br /&gt;优先条件: -有比特币等主要区块链平台开发经验。 -具有加密货币交易和金融市场的实践经验。 -可证明的成功项目或重大技术贡献。&lt;br /&gt;&lt;br /&gt;薪资:5000 - 8000 美元/月&lt;br /&gt;&lt;br /&gt;Telegram:@LightningJL Email:bftinylife2022@gmail.com</description><pubDate>Tue, 16 Jan 2024 15:49:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009198#reply0</guid></item><item><title>[问与答] 国内服务器部署网站怎么解决安装包的问题</title><link>https://www.v2ex.com/t/1009197#reply0</link><description>&lt;p&gt;前情： &lt;a href="https://www.v2ex.com/t/1005043#reply2" rel="nofollow"&gt;https://www.v2ex.com/t/1005043#reply2&lt;/a&gt;
-找了一个 github 上项目准备上个简单官网&lt;/p&gt;
-&lt;p&gt;买了腾讯云轻量服务器 debian12&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;安装了 nodejs&lt;/li&gt;
-&lt;li&gt;安装了 Ruby, Bundler&lt;/li&gt;
-&lt;li&gt;git clone ,&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ssh: connect to host &lt;a href="http://github.com" rel="nofollow"&gt;github.com&lt;/a&gt; port 22: Connection timed out
-fatal: Could not read from remote repository.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;本来就不会部署网站，现在环境都装不上，头大。。。请教国内服务器怎么解决安装包的问题&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 15:48:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009197#reply0</guid></item><item><title>[问与答] 注册香港公司多少钱？</title><link>https://www.v2ex.com/t/1009196#reply0</link><description>淘宝问的都四五千，&lt;br /&gt;&lt;br /&gt;依稀记得有老哥说过没这么贵，&lt;br /&gt;&lt;br /&gt;有便宜的靠谱渠道帮忙推荐下吗，感谢！</description><pubDate>Tue, 16 Jan 2024 15:46:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009196#reply0</guid></item><item><title>[酷工作] 硅谷学生创业团队招全栈 React Native 工程师</title><link>https://www.v2ex.com/t/1009195#reply0</link><description>&lt;p&gt;大家好！我们是哈佛、斯坦福的学生初创团队，已获得来自获得来自 PreAngel 和 Bosie 创始人刘光耀 投资。主要是做 AI 二次元社交产品，目前招募 React Native 实习生，擅长会 Next.js, React Native, Expo, tRPC 。&lt;/p&gt;
-&lt;p&gt;实习待遇薪酬高，接受远程。 欢迎感兴趣同学联系我们！内推奖金 1000RMB&lt;/p&gt;
-&lt;p&gt;希望你会如下技术栈！&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 17 Jan 2024 02:11:54 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 存储空间不够了，打算加两块硬盘，求推荐</title><link>https://www.v2ex.com/t/1009257#reply0</link><description>目前是 unraid：一块 8T 西数紫盘作为校验盘、2 块 4T 紫盘组成 array 。&lt;br /&gt;&lt;br /&gt;板子上只有两个 mini sas 接口、一个 sata 、两个 m2(已经插了 ssd 作为 cache ，zfs 镜像)。一个 mini sas 已经转 sata 供几块紫盘用了&lt;br /&gt;&lt;br /&gt;打算再买两块 16T 的，一块替换 8T 的校验盘，一块组 array ，容量可以到 4+4+8+16 = 32T&lt;br /&gt;&lt;br /&gt;迫于预算不多，求推荐性价比高一点的硬盘&lt;br /&gt;&lt;br /&gt;或者有其他方案也可以推荐一下，谢谢</description><pubDate>Wed, 17 Jan 2024 02:11:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009257#reply0</guid></item><item><title>[问与答] 大家习惯在哪里看全世界各个交易市场的实时行情？</title><link>https://www.v2ex.com/t/1009256#reply0</link><description>&lt;p&gt;大家习惯在哪里看全世界各个交易市场的实时行情？
+国内的网站好像有延时，国外的 tradingview 要收费
+请问大家有什么好推荐？国内国外都可以&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 02:06:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009256#reply0</guid></item><item><title>[程序员] wsl 有没有什么办法能用图形界面操作 windows 的文件</title><link>https://www.v2ex.com/t/1009255#reply2</link><description>&lt;p&gt;命令行别的没啥&lt;/p&gt;
+&lt;p&gt;就是看个文件太费劲了&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 02:00:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009255#reply2</guid></item><item><title>[分享发现] 另一种 gpt 选择 Microsoft Copilot Pro</title><link>https://www.v2ex.com/t/1009254#reply1</link><description>&lt;p&gt;Microsoft 发布了面向个人用户的付费 Copilot&lt;br /&gt;
+它的名字叫做「 Copilot Pro 」&lt;br /&gt;
+优势包括&lt;br /&gt;
+· 优先访问 GPT-4 Turbo&lt;br /&gt;
+· 能在 Microsoft 365 应用中使用 Copilot&lt;br /&gt;
+· 没有 chatgpt 中 40 条/3 小时的限制  &lt;/p&gt;
+&lt;p&gt;目前美区 20 美元/月和 chatgpt 定价相同，日区 3200 円/月比美区贵了一些（相当于人民币 160 块钱）&lt;/p&gt;
+&lt;p&gt;各位会选择哪个呢，如果改用 Copilot Pro 后还可以拼车吗，有大佬使用了说一下使用感受吗&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/zjnIYEJ.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:59:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009254#reply1</guid></item><item><title>[开源软件] 基于 nextjs - C-Shopping 开源电商平台全新亮相！</title><link>https://www.v2ex.com/t/1009253#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/d8fa50fe-f73a-4b00-88b5-9cc1d4786dca.png" /&gt;&lt;/p&gt;
+&lt;p&gt;嗨，大家好！欢迎来到 C-Shopping ，这是一场揭开科技面纱的电商之旅。我是 C-Shopping 开源作者“继小鹏”，今天将为你介绍一款基于最新技术的开源电商平台。让我们一同探索吧！&lt;/p&gt;
+&lt;p&gt;点击 &lt;a href="http://shop.huanghanlian.com/" rel="nofollow"&gt;这里&lt;/a&gt;，&lt;a href="http://shop.huanghanlian.com/" rel="nofollow"&gt;http://shop.huanghanlian.com/&lt;/a&gt;，即刻踏上 C-Shopping 体验之旅！&lt;/p&gt;
+&lt;p&gt;项目传送门：点击 &lt;a href="https://github.com/huanghanzhilian/c-shopping" rel="nofollow"&gt;这里&lt;/a&gt;，&lt;a href="https://github.com/huanghanzhilian/c-shopping" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping&lt;/a&gt;，&lt;/p&gt;
+&lt;p&gt;如果你觉得有帮助，请给我一个 Star ，这会给我更大的鼓励。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;项目背景&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/2a34d3aa-90c1-4e96-a851-6b85d0566c26.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;背景：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;React Native&lt;/li&gt;
-&lt;li&gt;Next.js&lt;/li&gt;
-&lt;li&gt;Supabase (or other Postgre database)&lt;/li&gt;
-&lt;li&gt;tRPC&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 16 Jan 2024 15:45:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009195#reply0</guid></item><item><title>[酷工作] [微软] MSAI 招聘 senior 前端/后端/算法 base 苏州</title><link>https://www.v2ex.com/t/1009193#reply2</link><description>&lt;h1&gt;团队介绍&lt;/h1&gt;
-&lt;p&gt;MSAI 团队(Microsoft Search, Assistant, and Intelligence)与微软全球顶尖的科学家和工程师团队密切合作，把 AI 无缝地嵌入到 Office 产品，包括最近很火的 Microsoft 365 Copilot!&lt;/p&gt;
-&lt;p&gt;本次招聘的组是 MSAI 下的 M365 Copilot platform team ，MSAI for Office 365 等团队。&lt;/p&gt;
-&lt;h1&gt;岗位要求&lt;/h1&gt;
-&lt;p&gt;岗位地点: 苏州&lt;/p&gt;
-&lt;p&gt;岗位方向：前端，后端，算法工程师&lt;/p&gt;
-&lt;p&gt;岗位要求：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;本部门只招聘 Senior dev ，至少 5 年以上工作经验！&lt;/li&gt;
-&lt;li&gt;后端的编程语言不限制，有 C++和 NLP 领域经验优先考虑&lt;/li&gt;
-&lt;li&gt;985/211 毕业或有大厂工作经验&lt;/li&gt;
+&lt;li&gt;一直以来前端 UI 框架被固定形式占据（受限于传统的 UI 框架），导致视觉疲劳，在开发一些高度自定义的项目时，往往力不从心；&lt;/li&gt;
+&lt;li&gt;多设备适配的 web 优秀项目很少，学习和维护成本较高；&lt;/li&gt;
+&lt;li&gt;当项目复杂后，在组件需要调用多个 api 时会变得复杂起来，比如需要管理多个 loading 和 error 状态，这会导致产生非常多的 state 声明，还有请求取消、请求竞态等可能存在的问题也容易被忽略；&lt;/li&gt;
+&lt;li&gt;随着项目复杂，样式的开发与维护变得庞大且臃肿；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;投递方式&lt;/h1&gt;
-&lt;p&gt;发送 PDF 简历（最好是英文）给我&lt;code&gt;xiaofeihan@microsoft.com&lt;/code&gt; ，记得备注：姓名+微软 MSAI 团队+v2ex&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 14:57:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009193#reply2</guid></item><item><title>[生活] 龙年金龙吉祥龙红包封面</title><link>https://www.v2ex.com/t/1009192#reply2</link><description>&lt;p&gt;作有成本，制作不易，感谢大家喜欢和支持。（白嫖的不要加，少量费用）&lt;/p&gt;
-&lt;p&gt;绿色泡泡 ：YW5hbjc5ODM2NQ== （找我）&lt;/p&gt;
-&lt;p&gt;「找不到的，评论区留下方式，我来找你哈」&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 14:49:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009192#reply2</guid></item><item><title>[问与答] 公司报销，价格六七百元，别致有特色数码类产品，目前想到的只有 Nuphy Air60 键盘，大家还有别的推荐的吗？</title><link>https://www.v2ex.com/t/1009191#reply0</link><description></description><pubDate>Tue, 16 Jan 2024 14:48:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009191#reply0</guid></item><item><title>[OpenAI] 开通 ChatGPT Plus in 2024 年 01 月 16 日</title><link>https://www.v2ex.com/t/1009190#reply4</link><description>&lt;p&gt;最近 GPTs 好像挺好玩的，一直用着 Poe 安下的心又提了起来，而且最近看了不少地方开通的消息（比如：&lt;a href="https://fast.v2ex.com/t/1003696" rel="nofollow"&gt;安卓端 ChatGPT 可以用国内信用卡开通订阅了 - V2EX&lt;/a&gt;），那我也再来试试。&lt;/p&gt;
-&lt;p&gt;之前的心路历程：&lt;a href="https://olimi.icu/article/7ba890a0-0a92-4f35-bbb9-9f58980d6e08" rel="nofollow"&gt;OpenAI 免费 API 没了~ | Olimi’s Blog&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;下面可能会使用到的前置技能：&lt;a href="https://olimi.icu/article/21bd7ff0-1add-4d07-85d5-311517fdb355" rel="nofollow"&gt;Google play 转港区 | Olimi’s Blog&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Google Play 安装 ChatGPT&lt;/h2&gt;
-&lt;p&gt;直接打开 play 搜索安装即可。&lt;/p&gt;
-&lt;p&gt;碰到的问题：&lt;strong&gt;&lt;strong&gt;安卓 ChatGPT Something went wrong. Please make sure your device has the latest version of Google Play&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;参考：&lt;a href="https://zhuanlan.zhihu.com/p/669053528" rel="nofollow"&gt;安卓 ChatGPT Something went wrong. Please make sure your device has the latest version of Google Play - 知乎 (zhihu.com)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;解决：到&lt;a href="https://www.apkmirror.com/apk/google-inc/google-play-store/google-play-store-39-2-37-release/google-play-store-39-2-37-21-0-pr-597374538-3-android-apk-download/" rel="nofollow"&gt;apkmirror&lt;/a&gt;下载 google play 最新版本。选择 apk 包，否则新问题是使用 apk installer 安装 bundler 包之后打开 google play 网络连接不上。&lt;/p&gt;
-&lt;h2&gt;Google Play 转区到美国免税区&lt;/h2&gt;
-&lt;p&gt;转区技能参考前面给出的博客。不赘述。&lt;/p&gt;
-&lt;p&gt;辅助美国地址生成器选择加州：&lt;a href="https://www.meiguodizhi.com/" rel="nofollow"&gt;meiguodizhi.com&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;ChatGPT 中订阅&lt;/h2&gt;
-&lt;p&gt;点击进去直接就有 Upgrade to Plus ，点就行。&lt;/p&gt;
-&lt;h2&gt;Why ？&lt;/h2&gt;
-&lt;h3&gt;GPTs&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;意图：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;改进背景中提到的问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;目的：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;打造一个完整的，适合 web 端的良好生态。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;首先，让我们了解一下 C-Shopping 的技术背后。我采用了一系列最前沿的技术，包括 Next.js 、Tailwind CSS 、Headless UI 、Redux-Toolkit-RTK Query 、JWT 和 Docker 等。这确保了此项目不仅高效，而且具备强大的可扩展性。我们致力于解决传统电商平台的一些痛点：不美观、不适配不同设备、界面单一，等等。C-Shopping 通过采用最新的技术和设计理念，为用户打造了一场全响应式技术开发体验。&lt;/p&gt;
+&lt;p&gt;C-Shopping 关注用户体验。我们的界面不仅仅美观，更是响应式设计，让用户可以在任何设备上轻松愉悦地购物。个人中心和订单管理功能也让你的购物更加个性化和方便。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;项目亮点&lt;/h2&gt;
+&lt;p&gt;C-Shopping 的亮点之一是我们采用了一系列先进的技术，包括 Next.js 、Tailwind CSS 、Headless UI 、Redux-Toolkit-RTK Query 等，为用户提供了极致的性能和体验。不仅注重美观，更追求技术上的卓越。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next.js 驱动的极速体验&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C-Shopping 采用了 Next.js ，这不仅意味着网页加载速度飞快，而且还支持服务端渲染，让你体验到前所未有的流畅度。&lt;/p&gt;
+&lt;p&gt;🎨 &lt;strong&gt;Tailwind CSS 的时尚设计&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;采用 Tailwind CSS ，为 C-Shopping 注入了时尚感。每一次的界面都如同艺术品般精致，让购物成为一场视觉的盛宴。&lt;/p&gt;
+&lt;p&gt;🔧 &lt;strong&gt;Headless UI 自由而灵活&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C-Shopping 选择了 Headless UI 风格，让用户可以在购物过程中拥有更多自由。不再受限于传统的 UI 框架，为你打开了更多定制的大门。&lt;/p&gt;
+&lt;p&gt;🔐 &lt;strong&gt;JWT 安全无忧&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;安全至上！采用 JWT 进行用户身份验证，为你的购物行为提供了最强有力的保障，让你可以放心尽情购物。&lt;/p&gt;
+&lt;p&gt;🐳 &lt;strong&gt;Docker 容器化的完美部署&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C-Shopping 拥抱 Docker ，使得项目的部署变得前所未有的简单。容器化技术让整个项目在不同环境中都能如鱼得水地运行。&lt;/p&gt;
+&lt;p&gt;🔄 &lt;strong&gt;Redux Toolkit 和 RTK Query 的状态管理艺术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C-Shopping 使用 Redux Toolkit 和 RTK Query ，让状态管理变得更加轻松愉快。你可以更好地追踪应用中的数据流，确保购物体验的稳定性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;功能演示&lt;/h2&gt;
+&lt;p&gt;现在，让我们来看看 C-Shopping 的一些基本功能。从清晰的导航和商品展示，到方便的搜索和购物车功能，每一个细节都经过精心设计，为用户提供愉悦的购物体验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;用户端&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模块&lt;/th&gt;
+&lt;th&gt;Desktop devices&lt;/th&gt;
+&lt;th&gt;Mobile devices&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;首页&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/901edcbd-b143-4f33-9d35-74fda6dbcb0d.gif" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/cb1e4f8f-aab4-4b83-8cf5-13558bb8f6dc.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;二级分类&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/6b53db16-d55b-4c7b-8088-fb637aad3921.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/542c8bf9-344a-4c19-a9e3-27bc0ec92bd5.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;三级分类&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/94ca43fa-3381-45a5-a5bf-80499533f3d5.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/f90b95ba-4b43-48fa-bf70-7736fcc7f9c5.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;商品详情&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/183dd238-2f33-48b3-85f6-d917bf78ba01.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/eb4ae7db-c490-4af2-a99c-d0b10fd6c01e.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;登录&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/e9a0ce6a-f1e9-4b5d-a03e-236338243e48.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/3ec1a909-294c-40d5-98dd-8c890cd8eba2.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;注册&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/5070ac14-4ae8-4eae-9491-27dc33db693f.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/88d32659-0a3d-453c-8f2d-daa8e4ee1b14.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;搜索&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/375b23ff-c493-498a-9ca5-e42d1e15e4c9.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/52518186-e141-4614-8da8-c38a31c7895b.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;购物车&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/233ee4fb-e1ca-4716-ba5f-17224bb252bf.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/17578ef8-1af0-4b03-9942-f5f805d9045b.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;支付页&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/2cc56a0c-f2b1-4f4c-9bd0-1aea5d4a36a5.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/334c73aa-db17-4624-8e0f-c7ea44236974.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;个人中心&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/3d1db865-9b6b-4c4d-8803-9b94444def73.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/a671fef1-401c-4c3d-9a1d-6cd59ecb9d63.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;我的订单&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/aab4ff6f-50ea-48b8-a74b-dbb6fe178810.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/8114f995-495c-4044-8b6b-2ef2a746d125.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;我的评论&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/dfa14b9e-2c19-4ea1-b4c9-45483bbc52fe.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/686c0dd9-d9a0-4ff3-9953-eef499349930.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;地址管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/1c214382-d281-43b8-87c6-159b9b10e965.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/d4448bfc-40b0-4b18-ae47-c3a9f9884918.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;近期访问&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/c375fe8d-fb49-45a3-bdfc-8a90de031b25.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/73a67a1d-a9ae-4ded-990a-4ef172671d34.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;管理端&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模块&lt;/th&gt;
+&lt;th&gt;Desktop devices&lt;/th&gt;
+&lt;th&gt;Mobile devices&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;登录&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/10fc1ee3-44ec-4380-ba90-6b2d809fb625.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/d3995bbe-df4f-490a-b8df-998932840ab6.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;管理中心&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/ae09d053-e2df-4176-8470-b063f556069e.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/633169d7-a616-40fc-8970-d79748734873.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;用户管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/250ee952-3757-42db-8828-60d8142edd4a.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/ad6fa92c-2bda-4391-9c93-e59fdeff59c3.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;分类管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/f644d10f-bda4-4309-944c-587dbe3e8931.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/458eb6ab-2c88-4654-8262-81dffe0b3c66.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;分类管理树状&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/8eef2702-c06b-4996-bd15-229a3ccb6e2d.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/27516b00-c0e0-4a12-aedc-a9f64f64db1b.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;规格管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/50eb69ce-0545-4def-91e2-ceac09b1222d.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/b96bc0fe-ad45-4b1c-b4d9-945e675cc7b9.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;商品管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/893128e7-06e3-47b5-9fb8-8757faf28941.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/1d9b03aa-8673-4405-ad2f-2d61e413c114.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;订单管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/e5473ac2-859c-4774-8879-f31516da956a.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/7ac7850b-798c-4954-95ad-3fab562bf418.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;评论管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/3979c2fc-87ca-4604-8258-5be1e5af97b9.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/0df0021a-626f-452c-b4dc-d9b0c927d4e3.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;滑块管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/6419e018-3322-40f6-b796-105e125d7052.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/b695af32-cd0e-4009-a278-adb2a4f22b2f.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;banner 管理&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/c8fd0a19-f020-41b1-8590-8e88d7d4f659.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/7bc682e2-60c2-45f3-80c3-e94ade1223b2.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;hr /&gt;
+&lt;h2&gt;项目结构&lt;/h2&gt;
+&lt;p&gt;🏗️ &lt;strong&gt;C-Shopping 项目结构：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;📂 c-shopping
+  ├── 📁 app
+  │   ├── 📁 main
+  │   │   ├── 📁 client-layout
+  │   │   ├── 📁 empty-layout
+  │   │   ├── 📁 admin
+  │   │   ├── 📄 layout.js
+  │   │   └── 📁 profile
+  │   ├── 📄 StoreProvider.js
+  │   ├── 📁 api
+  │   │   ├── 📁 auth
+  │   │   ├── 📁 banner
+  │   │   ├── 📁 category
+  │   │   ├── 📁 details
+  │   │   ├── 📁 order
+  │   │   ├── 📁 products
+  │   │   ├── 📁 reviews
+  │   │   ├── 📁 slider
+  │   │   ├── 📁 upload
+  │   │   └── 📁 user
+  │   ├── 📄 layout.js
+  │   └── 📄 not-found.js
+  ├── 📄 commitlint.config.js
+  ├── 📁 components
+  ├── 📄 docker-compose.yml
+  ├── 📁 helpers
+  │   ├── 📁 api
+  │   ├── 📄 auth.js
+  │   ├── 📁 db-repo
+  │   ├── 📄 db.js
+  │   ├── 📄 getQuery.js
+  │   └── 📄 index.js
+  ├── 📁 hooks
+  ├── 📄 jsconfig.json
+  ├── 📁 models
+  ├── 📄 next.config.js
+  ├── 📄 package-lock.json
+  ├── 📄 package.json
+  ├── 📄 postcss.config.js
+  ├── 📂 public
+  ├── 📁 store
+  ├── 📁 styles
+  ├── 📄 tailwind.config.js
+  └── 📁 utils
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;主要结构解释：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;app&lt;/strong&gt;: 应用程序的主要代码&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+📁 &lt;strong&gt;main&lt;/strong&gt;: 主要应用程序组件&lt;ul&gt;
+&lt;li&gt;📁 &lt;strong&gt;client-layout&lt;/strong&gt;: 用户端通用布局页面&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;empty-layout&lt;/strong&gt;: 通用空白布局页面&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;admin&lt;/strong&gt;: 管理端页面&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;layout.js&lt;/strong&gt;: 主要布局配置&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;profile&lt;/strong&gt;: 用户个人资料页面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;StoreProvider.js&lt;/strong&gt;: 全局状态管理提供者&lt;/li&gt;
+&lt;li&gt;
+📁 &lt;strong&gt;api&lt;/strong&gt;: API 请求相关路由&lt;ul&gt;
+&lt;li&gt;📁 &lt;strong&gt;auth&lt;/strong&gt;: 用户认证 API&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;banner&lt;/strong&gt;: 广告横幅 API&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;category&lt;/strong&gt;: 商品分类 API&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;components&lt;/strong&gt;: 可复用的 React 组件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;helpers&lt;/strong&gt;: 辅助函数和工具&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📁 &lt;strong&gt;api&lt;/strong&gt;: API 请求相关的辅助函数&lt;/li&gt;
+&lt;li&gt;📄 &lt;strong&gt;auth.js&lt;/strong&gt;: 用户认证相关的辅助函数&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;hooks&lt;/strong&gt;: 自定义 React hooks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;models&lt;/strong&gt;: 数据模型定义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;public&lt;/strong&gt;: 静态资源，如图片、字体等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;store&lt;/strong&gt;: Redux 状态管理相关配置&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📁 &lt;strong&gt;services&lt;/strong&gt;: RTK Query&lt;/li&gt;
+&lt;li&gt;📁 &lt;strong&gt;slices&lt;/strong&gt;: Redux Toolkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;styles&lt;/strong&gt;: 样式文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;📁 &lt;strong&gt;utils&lt;/strong&gt;: 通用工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这个结构旨在使项目组织有序，易于维护和扩展。每个部分都按照功能和职责进行划分，使团队成员更容易理解和协作。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;部署与使用&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;开发环境&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;科研：试玩了一下 Consensus ，还挺不错。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通过在终端运行以下命令克隆或下载存储库:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/huanghanzhilian/c-shopping.git
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 npm 或 yarn 安装项目依赖项:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;npm install
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;yarn
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改.env 的文件，在项目根目录，定义所需的环境变量。这个步骤是重要的（图片上传 OSS ）:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;NEXT_PUBLIC_ALI_REGION=&amp;lt;your ali endpoint&amp;gt;
+NEXT_PUBLIC_ALI_BUCKET_NAME=&amp;lt;your ali bucket name&amp;gt;
+NEXT_PUBLIC_ALI_ACCESS_KEY=&amp;lt;your ali access key&amp;gt;
+NEXT_PUBLIC_ALI_SECRET_KEY=&amp;lt;your ali secret key&amp;gt;
+NEXT_PUBLIC_ALI_ACS_RAM_NAME=&amp;lt;your ali acs:ram name&amp;gt;
+NEXT_PUBLIC_ALI_FILES_PATH=&amp;lt;your ali files pathname&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在本地机器上安装 MongoDB&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;运行项目&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;npm run dev 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;注册一个账户&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://localhost:3000/register
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创建帐户后，在数据库中找到您的帐户，并将 root 字段修改为 true 。role 字段修改为 admin ，这将授予您访问所有管理仪表板功能的权限&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://localhost:3000/admin
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;操作 MongoDB ，创建根分类&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;mongo
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;use choiceshop
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;db.categories.insert({
+	"name" : "精选好物",
+	"slug" : "choiceshop",
+	"image" : "http://huanghanzhilian-test.oss-cn-beijing.aliyuncs.com/shop/upload/image//icons/zHle_bmdM_dhu2K938MMM.webp",
+	"colors" : {
+		"start" : "#EF394E",
+		"end" : "#EF3F55"
+	},
+	"level" : 0
+})
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Plugins&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;docker 部署&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;项目根目录已经配置好 docker compose ，在安装 docker 环境后，直接运行部署&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker compose up -d --build
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;公众号&lt;/h2&gt;
+&lt;p&gt;关注公众号获得更多资讯，有任何意见或建议都欢迎提 issue ，或者到公众号。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="继小鹏公众号" class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/4632461d-0d43-4378-bcf7-bb32bf0de950.jpeg" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;许可证&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/huanghanzhilian/c-shopping/blob/main/LICENSE" rel="nofollow"&gt;Apache License 2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MIT License&lt;/p&gt;
+&lt;p&gt;Copyright (c) 2024 Jipeng Huang&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;呼吁行动&lt;/h2&gt;
+&lt;p&gt;C-Shopping 是一个开源项目，欢迎更多的开发者加入我们的社区。你可以在我们的 GitHub 仓库中找到项目源码，提出建议或者一同参与开发。&lt;/p&gt;
+&lt;p&gt;如果你对项目感兴趣，欢迎加入我们的社区，一同为项目添砖加瓦。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:59:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009253#reply0</guid></item><item><title>[信息安全] 今天收到诈骗邮件，有大佬可以爆破诈骗网站吗？</title><link>https://www.v2ex.com/t/1009252#reply0</link><description>&lt;p&gt;今天邮件收到诈骗邮件《年终考核申请材料》附件是一个 word 文档。里面有二维码让扫描领取补贴，识别二维码地址是 &lt;a href="https://c.xjn17wmn.sbs/" rel="nofollow"&gt;https://c.xjn17wmn.sbs/&lt;/a&gt; 实际转发地址为 &lt;a href="http://stjvrjsticvju.ycpujpb.765atteu.sbs/" rel="nofollow"&gt;http://stjvrjsticvju.ycpujpb.765atteu.sbs/&lt;/a&gt;
+Kali Linux 我也不怎么会用，初步看了一下后台是 TinkPHP 写的，有大佬愿意玩一下这个网站吗？&lt;/p&gt;
+&lt;p&gt;诈骗邮件
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/yMa3rUS.png" /&gt; &lt;/p&gt;
+&lt;p&gt;诈骗附件 word
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/pyQ2prq.png" /&gt; &lt;/p&gt;
+&lt;p&gt;后台初步分析
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XGYXhEA.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:58:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009252#reply0</guid></item><item><title>[Vim] VSCode vim 插件在 o 换行后，退出插入模式会丢失所有缩进的问题</title><link>https://www.v2ex.com/t/1009251#reply0</link><description>&lt;p&gt;如题，VSCode vim 插件在 o 换行后，退出插入模式会丢失所有缩进，ctrl + o 进入临时的普通模式也会出现缩进丢失。
+主要场景，o 换行后退出编辑模式然后 p 粘贴一个单词，没有缩进有点膈应
+&lt;a href="https://sm.ms/image/filIRJCzvY9WqUn" rel="nofollow"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/17/filIRJCzvY9WqUn.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:51:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009251#reply0</guid></item><item><title>[Apple] Apple 太鸡贼了。促销开始前一天把以旧换新的的回收价降了 500.</title><link>https://www.v2ex.com/t/1009249#reply4</link><description>&lt;p&gt;本打算明天去店内用 iPhone13 trade in 一台 iPhone15 ，昨天还是可以抵扣 3300 ， 今天一看变成 2800 了。
+算了，不换了。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:47:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009249#reply4</guid></item><item><title>[分享发现] 发现最近常点的几家线下实体店的外卖居然也都是料理包</title><link>https://www.v2ex.com/t/1009248#reply10</link><description>&lt;p&gt;昨天在小红书看到一个帖子，在分享避雷厦门的料理包店铺。发现线下有实体门店并且都是连锁店的居然使用的也是料理包，而且这几个店都是我经常吃的店。比如猪角和闽南猪脚饭、小鱼号、临家。这些在厦门都是有很多实体店的居然做的也都是料理包，怀念在深圳的时候下楼吃现切的猪脚饭了。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:46:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009248#reply10</guid></item><item><title>[分享创造] 上线了一个 [朋友圈文案生成] AI 小应用</title><link>https://www.v2ex.com/t/1009247#reply1</link><description>&lt;p&gt;&lt;a href="https://circle.aigcshow.com/" rel="nofollow"&gt;https://circle.aigcshow.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;还在为怎么写朋友圈文案绞尽脑汁吗？上传图片，立即生成 20 字左右的朋友圈文案！&lt;/p&gt;
+&lt;p&gt;基于开源项目 &lt;a href="https://github.com/liu-ziting/PetThoughts" rel="nofollow"&gt;https://github.com/liu-ziting/PetThoughts&lt;/a&gt; 和 Google Gemini Pro 开发&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:43:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009247#reply1</guid></item><item><title>[macOS] 昨晚无聊下载了 macos 镜像并且安装了各版本</title><link>https://www.v2ex.com/t/1009245#reply3</link><description>&lt;p&gt;昨晚无聊下载了 macos 镜像并且安装了各版本 &lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Colsmq8.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:42:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009245#reply3</guid></item><item><title>[剧集] 花月杀手--美国人和犹太人杀人竟如此残忍和卑劣，现在我开始理解为何希特勒要对犹太人清洗了</title><link>https://www.v2ex.com/t/1009244#reply12</link><description>时长 3 小时 19 分，刚开始觉得有点无聊，越看越有深意，有兴趣的可以找来看看。主演小李子&lt;br /&gt;&lt;br /&gt;电影《花月杀手》改编自大卫·格兰同名畅销小说，讲述了 100 年前发生在美国俄克拉荷马州的“欧塞奇族印第安人谋杀案”：印第安人因其土地下发现石油而暴富，一群有组织的白人市民联手官员和执法者，在 4 年的时间里谋杀 60 人，用尽千方百计转移印第安人财富。小说聚焦于联邦调查局 FBI 成立之初的警探怀特如何在没有科技助攻的时代，通过大量收集证据、抽丝剥茧的梳理脉络，从几十名受害者追溯到整个犯罪集团的过程。</description><pubDate>Wed, 17 Jan 2024 01:41:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009244#reply12</guid></item><item><title>[程序员] 今天知乎热榜这个事，我们程序员能做什么？</title><link>https://www.v2ex.com/t/1009243#reply14</link><description>&lt;p&gt;如何看待华中农业大学黄某若教授被课题组十一名成员联合举报学术造假？
+&lt;a href="https://www.zhihu.com/question/639775801" rel="nofollow"&gt;https://www.zhihu.com/question/639775801&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我能想到的是帮助锁定分发举 b 信，确保下载链接不会被屏蔽&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:41:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009243#reply14</guid></item><item><title>[投资] 长桥限时专属渠道优惠（新春大礼包 🎁🎁🎁）</title><link>https://www.v2ex.com/t/1009242#reply1</link><description>&lt;p&gt;专属优惠活动！！！限时活动，只此一家。&lt;/p&gt;
+&lt;p&gt;目前 2wHKD 入金就可以享受港美股的免佣还有现金和股票卡,&lt;/p&gt;
+&lt;p&gt;有美股开户和入金，入门学习的都可以找我哈。&lt;/p&gt;
+&lt;p&gt;也可以私我 tg：marktoown&lt;/p&gt;
+&lt;p&gt;#投资股票美股&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Jasondeepny/pic_block/main/img/IMG_1344.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Jasondeepny/pic_block/main/img/IMG_1146.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Jasondeepny/pic_block/main/img/IMG_1345.JPG" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:39:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009242#reply1</guid></item><item><title>[生活] 网购想优惠，需要各种入口领券真的好烦😡怎么就没人管管</title><link>https://www.v2ex.com/t/1009241#reply3</link><description>&lt;p&gt;国内网购价格方面真是折磨民众，浪费时间精力，直接标明价格不更好吗？&lt;/p&gt;
+&lt;p&gt;有些产品想优惠，需要多个入口领券，穷人真难啊&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:33:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009241#reply3</guid></item><item><title>[分享创造] 导航网站开源，简单配置即可拥有你的导航网站</title><link>https://www.v2ex.com/t/1009240#reply1</link><description>&lt;p&gt;这是我上个月做的一个导航网站的源码：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.fre123.com" rel="nofollow"&gt;https://www.fre123.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;还有一些信息流页面： &lt;a href="https://www.fre123.com/weekly/" rel="nofollow"&gt;https://www.fre123.com/weekly/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一些朋友觉得网站样式还不错，也想自己搭建一套，于是我便开源出来，配置下 json 即可基于 vercel 快速构建自己的导航网站。&lt;/p&gt;
+&lt;p&gt;开源地址：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/fre123-com/fre123-nav" rel="nofollow"&gt;fre123-nav&lt;/a&gt;：导航页面源码&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fre123-com/fre123-info-flow" rel="nofollow"&gt;fre123-info-flow&lt;/a&gt;：信息流页面源码&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/NEqY1Qb4dyJDhdtlYxjmaA" rel="nofollow"&gt;搭建教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;效果图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/8zEgZvf.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:29:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009240#reply1</guid></item><item><title>[程序员] 如何一次性获取海量设备（以 5W 为例）的最新当前状态（在线离线打开关闭）</title><link>https://www.v2ex.com/t/1009238#reply10</link><description>&lt;p&gt;仅有且已有 redis+mysql+mongo 。&lt;/p&gt;
+&lt;p&gt;目前已采用两种方式：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;数据分析：用了一天数据分析功能（其实就是跑 python 脚本生成图表），但是能直接看到图，还是挺不错的。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 16 Jan 2024 14:44:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009190#reply4</guid></item><item><title>[JetBrains] 白嫖 JB 全家桶原来很容易</title><link>https://www.v2ex.com/t/1009189#reply0</link><description>写个玩具维护 3 个月就行，但我主力 vscode ，不知道要不要试试 jb 的 ide&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/982pAAL.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/982pAAL.png" /&gt;&lt;/a&gt;</description><pubDate>Tue, 16 Jan 2024 14:43:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009189#reply0</guid></item><item><title>[程序员] 前端程序员看过来，好用的话题小程序，无广告，简洁好用。</title><link>https://www.v2ex.com/t/1009186#reply0</link><description>&lt;p&gt;这是一款为开发者学习，面试题，记录用的学习工具。小程序按照分类，列表，问题详情提供了一个学习平台。&lt;/p&gt;
-&lt;p&gt;界面简介无广告，无外链，内容丰富。最近有面试，或者准备找工作的同学可以看看。&lt;/p&gt;
-&lt;p&gt;下面是应用截图：
-&lt;img alt="11|690x323" class="embedded_image" rel="noreferrer" src="https://img.assistant.aizhifou.cn/d21729ab3e2c86227515816116d4d5da8f6cf80c.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;可以使用微信扫描下面的二维码使用：&lt;br /&gt;
-&lt;img alt="44|332x326" class="embedded_image" rel="noreferrer" src="https://img.assistant.aizhifou.cn/798233fb-d740-487c-96a4-e97147b27c44.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;同时小程序还配置有对应的公众号，每天推送学习内容：&lt;br /&gt;
-&lt;img alt="qrcode_public _account|258x258" class="embedded_image" rel="noreferrer" src="https://img.assistant.aizhifou.cn/qrcode_public%20_account.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 14:27:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009186#reply0</guid></item><item><title>[VPS] siteground 主机内存多大？</title><link>https://www.v2ex.com/t/1009185#reply1</link><description>比如说主页中间这个型号，只写了 20G 的页面磁盘空间，cpu 、内存一概没写，然道要买了之后才知道？&lt;br /&gt;GrowBig&lt;br /&gt;SAVE 83%&lt;br /&gt;$4.99/mo.*&lt;br /&gt;Discounted from $29.99/mo.*&lt;br /&gt;Excl. VAT&lt;br /&gt;GET PLAN&lt;br /&gt;Unlimited Websites&lt;br /&gt;20 GB Web Space&lt;br /&gt;~ 100,000 Visits MonthlyThis is an approximate estimate of the maximum number of website visits that can be handled by the hosting plan when all sites you host are properly using our out-of-the-box caching.&lt;br /&gt;Unmetered Traffic&lt;br /&gt;Free Domain&lt;br /&gt;Free SSL</description><pubDate>Tue, 16 Jan 2024 14:25:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009185#reply1</guid></item><item><title>[分享发现] 出几个 ai 域名，有需要的可以联系我</title><link>https://www.v2ex.com/t/1009184#reply0</link><description>&lt;p&gt;ai8.xyz    &lt;a href="http://hai.info" rel="nofollow"&gt;hai.info&lt;/a&gt; &lt;a href="http://zai.info" rel="nofollow"&gt;zai.info&lt;/a&gt; &lt;a href="http://kuai.info" rel="nofollow"&gt;kuai.info&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 14:14:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009184#reply0</guid></item><item><title>[分享发现] 移动相册从 Google Drive 到 Google 相册的 3 种免费方式</title><link>https://www.v2ex.com/t/1009183#reply1</link><description>&lt;p&gt;&lt;a href="https://www.ricedrive.com/guides/move-google-drive-to-google-photos.html" rel="nofollow"&gt;https://www.ricedrive.com/guides/move-google-drive-to-google-photos.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 14:10:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009183#reply1</guid></item><item><title>[天黑以后] 20240116 午夜俱乐部</title><link>https://www.v2ex.com/t/1009182#reply1</link><description>吐槽一下这半年的不顺经历。&lt;br /&gt;去年 8 月因为甲醛过敏搬家，匆忙找了一个房子搬了，结果遇到马桶反臭房东一直不愿意修，一直拖，于是果断重新找了房子搬走。&lt;br /&gt;因为不想因为住房的事烦心了，加了不少预算租了一个公寓(非 LOFT 有燃气民水民电)，住了一个月都挺满意，结果有天晚上突然遇到了油烟反味，当时不确定来源。后面半个月都没遇到，结果前几天晚上又开始反味，连续三天。房东找了师傅来看了，止逆阀是正常的，就把止逆阀四周打了一圈胶，烟道旁一些墙缝也打上了胶，这两天没有闻到明显的油烟味。我屋内的空气净化器设置了 PM2.5 浓度超过 200 自启动，今天中午 12 点多它触发了这个自动任务，今天空气挺好的，不太确定是误触发还是仍然反味。感觉挺烦的，超了很多预算租房还是会遇到烦心事。</description><pubDate>Tue, 16 Jan 2024 14:05:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009182#reply1</guid></item><item><title>[NAS] 群晖 920+复制文件卡死</title><link>https://www.v2ex.com/t/1009180#reply2</link><description>SSH 到群晖，使用 cp 命令，从一个存储池到另外一个存储池（硬盘 A ，4T 机械硬盘 到 盘 C ，1T SSD ）,大概 30 个 G 的照片，复制了两个小时还没结束。&lt;br /&gt;&lt;br /&gt;然后使用 windows 电脑，相同的目录，复制、看到复制时的传输信息，一开始前 30%还能保持在 100m/s 的内网传输上限，后面就经常在 0-5m/s ，卡着不动。&lt;br /&gt;这个时候群晖的 web 页面也很卡，cpu 使用率大概 10%，load 负载也在 10 左右。内存占用比较低。看磁盘的吞吐，也没有什么异常，跟 windows 复制的时候显示的吻合。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;从 ssh 终端复制的时候，都卡了两个小时。应该能排除掉交换机、路由器、网线的问题，因为发生在本机。&lt;br /&gt;所以，我应该从什么方面去排查？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;概况：&lt;br /&gt;       &lt;br /&gt;       &lt;br /&gt;        存储池 1：&lt;br /&gt;                raid:jbod&lt;br /&gt;                2*希捷酷狼 4T       &lt;br /&gt;        存储池 2：&lt;br /&gt;                raid:basic&lt;br /&gt;                1*希捷酷狼 4T&lt;br /&gt;        存储池 3：&lt;br /&gt;                raid:basic&lt;br /&gt;                SSD 1T               &lt;br /&gt;&lt;br /&gt;        缓存：&lt;br /&gt;                SSD 256G</description><pubDate>Tue, 16 Jan 2024 13:55:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009180#reply2</guid></item><item><title>[户外运动] 论骑车上班的可行性</title><link>https://www.v2ex.com/t/1009179#reply13</link><description>&lt;p&gt;家和办公室的距离大约 7 公里，开车 10 多分钟，地铁 30 分钟。
-平时锻炼时间比较少，有大部分时间是在电脑前度过，如果上下班每天增加 30 分钟骑行能否替代锻炼，还能放松一下腿脚，肩颈也能适当活动下。&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 13:53:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009179#reply13</guid></item><item><title>[微信] 领龙年微信红包封面</title><link>https://www.v2ex.com/t/1009178#reply9</link><description>&lt;p&gt;制作有成本，制作不易，感谢大家喜欢和支持。&lt;/p&gt;
-&lt;p&gt;绿色泡泡 ：YW5hbjc5ODM2NQ== （找我）&lt;/p&gt;
-&lt;p&gt;「找不到的，评论区留下方式，我来找你哈」&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 13:49:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009178#reply9</guid></item><item><title>[问与答] [调研]gpt 提高你的工作效率了吗</title><link>https://www.v2ex.com/t/1009174#reply0</link><description></description><pubDate>Tue, 16 Jan 2024 13:42:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009174#reply0</guid></item><item><title>[问与答] gaffgiff 卡的安全问题</title><link>https://www.v2ex.com/t/1009172#reply13</link><description>如题，如果把卡放在国产手机 卡槽 2 ，那么它会因为卡槽 1 的原因，被关联，然后被监管查到实际持有人吗？&lt;br /&gt;&lt;br /&gt;还是最后买个非国行二手单独插卡使用？</description><pubDate>Tue, 16 Jan 2024 13:36:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009172#reply13</guid></item><item><title>[职场话题] 30 岁啦～祝我生日快乐 &amp; 分享被裁员后的生活</title><link>https://www.v2ex.com/t/1009171#reply5</link><description>&lt;p&gt;30 岁啦，生日快乐哇，小吉！&lt;/p&gt;
-&lt;p&gt;已经决定不再职场呆下去啦，细数了这一年的过往，总结成了这篇文章，希望对 V2EX 社区的小伙伴有帮助 👇&lt;/p&gt;
-&lt;p&gt;&lt;img alt="bmms.me" class="embedded_image" rel="noreferrer" src="https://framerusercontent.com/images/DvCBTSTKutUR1CEJdHBZhTPX9k.png" /&gt;&lt;/p&gt;
-&lt;p&gt;传送门 👉 &lt;a href="https://www.bmms.me/blog/turning-thirty-embarking-on-a-new-journey" rel="nofollow"&gt;而立之年，继往开来 &amp;amp; 扬帆起航&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 16 Jan 2024 13:29:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009171#reply5</guid></item></channel></rss>
+&lt;li&gt;用户刚进入页面时直接用 HMGET 。缺点：害怕 redis 存在性能瓶颈，需要专门做优化处理，比如拆分成小批量或者使用管道；&lt;/li&gt;
+&lt;li&gt;每次 iot 数据上报时，改变 mysql 的状态字段，那样每次调用业务接口，直接就能拿到状态；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;请问最合理、性能开销最小的方案是什么。请教大家一些经验。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:24:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009238#reply10</guid></item><item><title>[Go 编程语言] [硅谷外企 海外核心业务 支持 remote] 资深架构师/后端技术专家</title><link>https://www.v2ex.com/t/1009237#reply0</link><description>&lt;p&gt;&lt;a href="http://Jerry.ai" rel="nofollow"&gt;Jerry.ai&lt;/a&gt; 是总部位于硅谷的明星 Ai 汽车金融产品互联网高科技公司。 聚焦万亿级市场，以用技术解决问题为准则，以创造真正有价值的产品为驱动力，我们为数百万用户提供最佳汽车金融产品选购平台。近来，公司完成了新一轮上亿元级别融资, 并被领英列为全美高科技新兴公司 50 强,同时荣登福布斯 2021 年度最佳新兴雇主排行榜。&lt;/p&gt;
+&lt;p&gt;加入我们，一起迎接职业生涯爆发黄金时期。&lt;/p&gt;
+&lt;p&gt;关于我们:
+1 、全美高科技新兴公司 50 强，福布斯 2021 年度最佳新兴雇主，聚焦万亿级朝阳市场，获得硅谷顶级风投上亿级融资
+2 、北美最佳 Ai 汽车金融产品平台，致力打造移动+AI 时代的最优汽车金融产品
+3 、直击用户痛点，提供绝佳用户体验，APP 业内排名第一，季度营收指数增长
+4 、国际化多元文化，团队来自全球多个国家， 开放透明平等
+5 、一群崇尚极客精神，热爱技术的同事（我们的成员来自于：Facebook, Amazon, Microsoft, Linkedin, Nvidia, 阿里巴巴, 字节跳动等）&lt;/p&gt;
+&lt;p&gt;加入我们，您将：
+1 、感受极客氛围，拥抱前沿创新技术
+2 、全面参加从用户沟通、需求讨论、产品开发、到上线部署的每个环节，参与一个产品创新和用户高速成长的过程。您不仅仅作为一个终端执行者，而是可以提供作为产品的设计者和规划者参与其中&lt;/p&gt;
+&lt;p&gt;我们希望你:
+你热爱挑战复杂的问题，并能产出清晰稳定、可扩展的解决方案。
+对设计与实施优雅的软件解决方案，你有着真正的热情。
+你熟知并跟踪最新的开发生态环境，并在选择适当的工具或库时能做出明智的决策。
+你会在整个产品栈中贡献，并共同监督代码库的完整性。&lt;/p&gt;
+&lt;p&gt;我们想要你解决的问题:
+负责 Quoting Engine 的架构升级和可配置化能力建设。
+与产品经理、设计师和其他工程师合作，定义技术需求，创建软件架构，并开发软件组件。
+参与新功能和自动化开发，编写单元测试、自我测试和质量保证软件，确保工程成果持续高质量交付。
+日常进行代码审查，始终维持高标准的代码质量，不断优化软件和工具。
+定期参与产品和工程规格的审查，从商业和技术双重视角为团队提供洞见。
+不断收集客户及团队反馈，定期根据反馈优化产品。
+日常积极监控软件错误和警报，确保迅速解决关键问题。
+创建和维护开发、故障排除和培训文档。
+理解并朝着公司的目标、战略、哲学以及盈利目标努力。
+支持并培养初级工程师和高级工程师，营造持续学习和改进的文化氛围。
+识别并解决软件系统中的性能瓶颈、可扩展性问题和其他潜在难题。
+日常开发中关注现有代码的审查和优化，如消除重复代码、移除无效代码，以及改进一些不符合最佳实践的代码。
+理解代码的性能和可扩展性影响。
+设计和实施大规模复杂系统。
+识别技术债务并实施解决方案，提升代码质量和可维护性。
+关注行业动态，不断研究和采纳新技术、工具和最佳实践，提升软件开发效率和有效性。&lt;/p&gt;
+&lt;p&gt;我们需要你具备:
+具备 10 年以上的全职软件开发经验，本科及以上学历，且专业为计算机科学或相关领域。
+热爱软件事业，对改进整体代码架构，提高软件可维护性，优化软件性能有强烈兴趣。
+对软件开发的基本原理有深厚的了解。
+有从零到一实际设计、分析、调试分布式系统或大型 web 消费者应用的经验。
+对云端基础设施有比较熟悉的了解和使用经验。
+对于代码性能问题，可扩展性以及故障排查，你有深入的了解。
+热衷于编写有意义的测试，维持全面的测试覆盖。
+对于 CICD 、devOps 具有一些经验。
+能理解并运用或能快速学习 JavaScript 的最佳实践，认识并能使用常用的设计模式，编写符合习惯的 JavaScript 代码。&lt;/p&gt;
+&lt;p&gt;加分项目:
+熟练掌握 GraphQL ，Apollo ，React 。
+对于 LLM 和机器学习有一定的了解。&lt;/p&gt;
+&lt;p&gt;简历请发到： &lt;a href="mailto:dandan.han@getjerry.com"&gt;dandan.han@getjerry.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:23:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009237#reply0</guid></item><item><title>[分享创造] 「开源」一个可以对日期自定义标记并且生成分享图的日历 - Calendar Remark</title><link>https://www.v2ex.com/t/1009236#reply0</link><description>&lt;h2&gt;介绍&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/xyxc0673/calendar-remark" rel="nofollow"&gt;Calendar Remark&lt;/a&gt; 是一款设计简洁，可供标记以及生成分享图的日历，支持 PWA 、Dark Mode 、Responsive Design 等特性。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/LuVn9VM.png" /&gt; &lt;/p&gt;
+&lt;p&gt;最开始的需求源自于每年节假日放假时，公司的放假安排可能和国家法定节假日放假安排不太一样。此时如果需要将这个公司的安排“同步”给其他人的话，现有的日历工具基本上没办法实现这个需求，所以这个需求量极小的工具在大约两个星期的开发后完成了第一个可上线的版本。&lt;/p&gt;
+&lt;p&gt;目前 Calendar Remark 支持以下的功能:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;基本的农历日历 + 节假日日历（感谢 &lt;a href="https://github.com/6tail/lunar-typescript" rel="nofollow"&gt;lunar-typescript&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;自定义标记特定的日期，并且生成分享图&lt;/li&gt;
+&lt;li&gt;当前时间的年进度&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;自定义标记的使用流程是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;选中想要自定义的日期，在右边点击修改按钮&lt;/li&gt;
+&lt;li&gt;在展开的编辑框中修改日期底部的内容或者右上角的标记&lt;/li&gt;
+&lt;li&gt;另外对于班和休这两种状态是会有特定的显示效果，可以直接在最右边的 Radio Group 中切换直接修改编辑内容 + 样式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/O1soUND.gif" /&gt; &lt;/p&gt;
+&lt;h2&gt;AI Prompt&lt;/h2&gt;
+&lt;p&gt;在这里分享一个有趣的实践，Calendar Remark 的第一行有效代码基本上是使用 Github Copilot 和 ChatGPT 4 生成的，后面也大量实践了 AI 辅助编程。&lt;/p&gt;
+&lt;p&gt;例如 Calendar Remark 的本体是一个日历应用，使用的技术栈是 React + TypeScript + Tailwind CSS ，与 Copilot 的提问对话如下&lt;/p&gt;
+&lt;p&gt;Me: 使用 tailwindcss 实现一个 calendar ，用户可以切换不同的月份&lt;/p&gt;
+&lt;p&gt;Me: 使用真实的日期填充日期&lt;/p&gt;
+&lt;p&gt;Me: 用户还可以切换年份&lt;/p&gt;
+&lt;p&gt;Me: 使用中文&lt;/p&gt;
+&lt;p&gt;Me: 高亮用户当前日期&lt;/p&gt;
+&lt;p&gt;可以看到，如果能更清楚的知道自己的需求，那么在对话中可以获得更接近要求的答案，例如上面的对话可以改成：&lt;/p&gt;
+&lt;p&gt;你作为一个熟悉 React 的大师，使用 React + TypeScript + Tailwind CSS 实现一个中文 Calendar ，用户可以切换不同的月份、年份，并且高亮当前的日期，使用真实的日期填充日期，给出完整可以运行的代码&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CdijhKj.png" /&gt; &lt;/p&gt;
+&lt;h2&gt;彩蛋&lt;/h2&gt;
+&lt;p&gt;最后，分享早期版本的一些截图，其实可以看到，一开始的时候，核心功能是最重要的，其他的都可以在后期慢慢添加&lt;/p&gt;
+&lt;p&gt;不过前期也花了挺多的时间在动画的微调上，后面还在界面上埋了一个“彩蛋”😂，不知道谁能第一个找出来&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/uuoL2t1.png" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/RYcCGav.png" /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WFb5avc.png" /&gt; &lt;/p&gt;
+&lt;p&gt;另外如果大家对其他部分感兴趣的话，可以在评论区提一下，后面抽空再根据这些对整个项目复盘一下。&lt;/p&gt;
+&lt;p&gt;在线预览：&lt;a href="https://calendar.xym.im/" rel="nofollow"&gt;https://calendar.xym.im/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开源地址：&lt;a href="https://github.com/xyxc0673/calendar-remark" rel="nofollow"&gt;https://github.com/xyxc0673/calendar-remark&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:20:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009236#reply0</guid></item><item><title>[分享创造] [开源] 消费降级，寻找平替产品</title><link>https://www.v2ex.com/t/1009235#reply9</link><description>&lt;p&gt;昨天突然想到一个想法，就不断调试写了一个 prompt ，就是让用户上传照片，通过 Gemini 识别出是什么，寻找和提出相应的消费降级替代词汇，于是这个产品就出来了。也是基于我之前写的 [我知道你的宠物在想什么： &lt;a href="https://www.v2ex.com/t/1007068#reply26" rel="nofollow"&gt;https://www.v2ex.com/t/1007068#reply26&lt;/a&gt; ] 改的提示词&lt;/p&gt;
+&lt;p&gt;地址： &lt;a href="https://cheapthing.netlify.app/" rel="nofollow"&gt;https://cheapthing.netlify.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开源： &lt;a href="https://github.com/liu-ziting/PetThoughts" rel="nofollow"&gt;https://github.com/liu-ziting/PetThoughts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;基于图片上传识别有好的 Prompt 欢迎交流尝试！&lt;/p&gt;
+&lt;p&gt;演示图：
+&lt;img class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/65a72a1a871b83018af8cb2a.jpg" /&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/65a72a1b871b83018af8cb8e.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 01:18:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009235#reply9</guid></item></channel></rss>
