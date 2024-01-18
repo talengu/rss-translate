@@ -1,49 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 17 Jan 2024 21:49:20 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 白群硬盘能直接迁移到黑群么？</title><link>https://www.v2ex.com/t/1009519#reply1</link><description>RT ，现在是 DS920+白群，系统 DSM7.2-64570 Update1 。 插了两块 HC320  &lt;br /&gt;因为想升级全万兆内网，加上 J4125 性能属实弱鸡，就组了一台 all in one ，打算 PVE 跑黑群 SA6400 。白群里跑了不少服务也存了十几 T 的文件，从头开始感觉会很麻烦，不知道白群硬盘能不能迁移到黑群上跑？</description><pubDate>Wed, 17 Jan 2024 17:36:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009519#reply1</guid></item><item><title>[程序员] 2024 了， web3 还有前景吗，有哪些方向可以选择鸭</title><link>https://www.v2ex.com/t/1009518#reply0</link><description>&lt;p&gt;自从 2022 年后，2023 年好像都是 AI 的主旋律，不知道 2024 年 web3 还有哪些方向值得研究，有 web3 的大佬可以分享一下吗&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 17:24:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009518#reply0</guid></item><item><title>[问与答] iOS 没有限制 app 跳转另一个 app 的功能吗？被虎扑跳转淘宝/携程搞得受不了</title><link>https://www.v2ex.com/t/1009515#reply0</link><description>虎扑流氓到不能再流氓，刷三五秒就强制跳一次，按住广告滑动就会跳转，iOS 竟然不整顿下吗？</description><pubDate>Wed, 17 Jan 2024 16:38:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009515#reply0</guid></item><item><title>[分享创造] 开源项目管理系统 Leantime 发布 3.0</title><link>https://www.v2ex.com/t/1009514#reply0</link><description>&lt;p&gt;Jira 替代品 Leantime 发布 3.0 。现在有了插件市场、时间限制和全新设计&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/Leantime/leantime" rel="nofollow"&gt;https://github.com/Leantime/leantime&lt;/a&gt;
-&lt;a href="https://leantime.io" rel="nofollow"&gt;https://leantime.io&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 16:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009514#reply0</guid></item><item><title>[生活] 2024 了，来说说去年最后悔的一件事吧</title><link>https://www.v2ex.com/t/1009513#reply0</link><description>&lt;p&gt;我去年最后悔的事很可笑。买了一台 128gb 内存的 mac 笔记本，平时看看网页写点程序，发现最大的优势是音质好，有点过剩了。买了 1tb 的 iphone ，现在只用了 100gb 。&lt;/p&gt;
-&lt;p&gt;为了在电脑上用 ios app 又专门买了一个 m1 的 mac ，思考几天，发现手机上最常用的是支付软件，又没办法带着 mac 出门付款，卒！&lt;/p&gt;
-&lt;p&gt;反而最常用的是在闲鱼上买了几十块钱的电子垃圾手机，改装散热拆了电池，打手游可以充分的压榨 6 年前的 cpu 性能，这种测压的感觉真爽。
-&lt;del&gt;别问为什么不用新手机打，怕发热废电池&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;今年不能冲动消费了，太费钱了，该学会存钱了。否则过年亲戚聊天，问我今年怎么样，我却只能说我买了 16 寸的 mac 听个响。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 16:18:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009513#reply0</guid></item><item><title>[酷工作] [承接 ] UI 设计 and 响应前端----2024</title><link>https://www.v2ex.com/t/1009512#reply0</link><description>&lt;p&gt;提供服务：&lt;/p&gt;
-&lt;p&gt;UI 设计 、静态样式前端（ h5+div+css3+js ）&lt;/p&gt;
-&lt;p&gt;擅长：&lt;/p&gt;
-&lt;p&gt;pc 端的----商城、交互、门户、及其他大型平台、系统量身定制 UI 设计、h5 移动端界面设计 、app （ 只设计）&lt;/p&gt;
-&lt;p&gt;技术：&lt;/p&gt;
-&lt;p&gt;photo 、div+css(CSS 手写)，JS 特效、html 、Jquery 、d3.js&lt;/p&gt;
-&lt;p&gt;联系方式：&lt;/p&gt;
-&lt;p&gt;微信 vx :  191400619&lt;/p&gt;
-&lt;p&gt;Tg： @&lt;a href="https://www.v2ex.com/member/Yisitie777"&gt;Yisitie777&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;作品链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ludesala.blogspot.com/" rel="nofollow"&gt;https://ludesala.blogspot.com/&lt;/a&gt; （ oversea 客户浏览） 有联系方式&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.zcool.com.cn/u/521379" rel="nofollow"&gt;https://www.zcool.com.cn/u/521379&lt;/a&gt; （ mainland 的站酷平台晒得作品案例）&lt;/p&gt;
-&lt;p&gt;上线案例：&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.zefeigc.com" rel="nofollow"&gt;http://www.zefeigc.com&lt;/a&gt; 服务：UI 设计 +响应前端&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.aiznx.com" rel="nofollow"&gt;https://www.aiznx.com&lt;/a&gt; 服务：UI 设计 +响应前端&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://payment.chainpaygo.com/" rel="nofollow"&gt;https://payment.chainpaygo.com/&lt;/a&gt; 服务：UI 设计 +响应前端&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.otcc.io/" rel="nofollow"&gt;https://www.otcc.io/&lt;/a&gt; 服务：UI 设计 +响应前端&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://transformer.knn3.xyz/homepage" rel="nofollow"&gt;https://transformer.knn3.xyz/homepage&lt;/a&gt; 服务：UI 设计 +响应前端&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 16:17:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009512#reply0</guid></item><item><title>[投资] 大 A 又又又暴跌了，肿么办</title><link>https://www.v2ex.com/t/1009511#reply8</link><description>&lt;p&gt;亏了好几万了。想咨询下各位 V 站的大佬，有没有定投回本的，还是都在套牢中。。。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 16:10:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009511#reply8</guid></item><item><title>[OpenAI] 比尔盖茨对话 OpenAI CEO - 我没想到 ChatGPT 会变得这么好</title><link>https://www.v2ex.com/t/1009509#reply0</link><description>&lt;p&gt;最近，比尔盖茨和 OpenAI 的 CEO 萨姆·奥尔特曼进行了一场对话。&lt;br /&gt;
-下载了字幕并翻译了一下：&lt;br /&gt;
-比尔·盖茨：我没想到 ChatGPT 会变得如此出色。&lt;br /&gt;
-比尔·盖茨：当你展望未来两年时，你认为会有哪些关键的里程碑？&lt;br /&gt;
-萨姆·奥特曼：多模态绝对会很重要。  &lt;/p&gt;
-&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/uHe0g4_pwTRw9jG9RviCEQ" rel="nofollow"&gt;比尔盖茨对话 OpenAI CEO - 我没想到 ChatGPT 会变得这么好&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 15:46:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009509#reply0</guid></item><item><title>[Apple] tvOS 的小火箭是不是还不支持 HY2 节点同步</title><link>https://www.v2ex.com/t/1009508#reply3</link><description>&lt;p&gt;手机端同步到 TV 端是有 HY2 节点的，但是在 TV 端手动或自动发起更新订阅，HY2 节点就会消失…&lt;br /&gt;&lt;br /&gt;100%复现，是机场的问题还是软件 bug 呀？&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 15:40:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009508#reply3</guid></item><item><title>[问与答] 做个类似 upwork 这种的人力招聘站, 前端, 价格大概多少？</title><link>https://www.v2ex.com/t/1009507#reply1</link><description>&lt;p&gt;朋友的项目，周期一个月，最好使用 vue react 这种，当然用不着像 upwork 这么全，先只是做些必要的功能。朋友让我帮忙评估下成本，我没啥数，求教 v 友&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 15:22:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009507#reply1</guid></item><item><title>[Google] 作为曾经 email 容量的屠龙少年，现在好像变成了恶龙</title><link>https://www.v2ex.com/t/1009506#reply12</link><description>&lt;p&gt;Gmail 刚刚推出时，相较于其他几兆大小的电子邮箱，简直就是提供了无限的储存空间。&lt;/p&gt;
-&lt;p&gt;Gmail 似乎是在 21 世纪初推出的，在那个时候，计算机硬盘只有几十 GB ，而 Gmail 几乎能够轻松备份整个硬盘的数据。&lt;/p&gt;
-&lt;p&gt;然而，随后 Gmail 的发展似乎停滞不前，逐渐被其他邮箱超越。&lt;/p&gt;
-&lt;p&gt;尽管如此，从付费用户的体验来看，Gmail 仍然是一款一流的服务。个人使用体验远远优于 hotmail 。如果 Google 能够推出一款与 Office 竞争的产品，那么就能够减少对 hotmail 的依赖。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 15:09:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009506#reply12</guid></item><item><title>[Android] 百度网盘订会员也不能去除开屏广告，可以破吗？</title><link>https://www.v2ex.com/t/1009505#reply0</link><description></description><pubDate>Wed, 17 Jan 2024 15:08:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009505#reply0</guid></item><item><title>[分享创造] 上线了一个关于 AI 颜值打分的小玩具，欢迎大家体验</title><link>https://www.v2ex.com/t/1009504#reply0</link><description>&lt;p&gt;体验地址：&lt;a href="https://aifaceanalyzer.online/" rel="nofollow"&gt;https://aifaceanalyzer.online/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;做完后晚上回来发给家人体验了一下，评价不错，欢迎大家来玩儿！&lt;/p&gt;
-&lt;p&gt;ps:照片不会上传到服务器，也不会做保存&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/UZSAE83S.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;项目基于 Github 大佬（ wgd753 ）的开源项目：&lt;a href="https://github.com/wgd753/cat-thinking" rel="nofollow"&gt;cat-thinking&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 15:01:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009504#reply0</guid></item><item><title>[Android] 有几个修改版的 APP 出现在 play store 更新列表里,有没有办法隐藏?</title><link>https://www.v2ex.com/t/1009501#reply1</link><description>&lt;p&gt;更新又失败,老呆在更新列表里太碍眼了.我把这几个 APP 重新签名都没用 play store 还是能检测到, 我记得以前不是在 play store 里安装的 app 是不会出现在更新列表里的,最近不知道什么原因都冒出来了.&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 14:51:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009501#reply1</guid></item><item><title>[Apple] Apple One 美区超大杯发车两年，继续找车友</title><link>https://www.v2ex.com/t/1009499#reply3</link><description>&lt;p&gt;Apple One Premier 超大杯美区（包括 Apple Music, Arcade, TV+, News+, Fitness+, iCloud 2TB 每人独立 333GB ，用超自觉清理）&lt;/p&gt;
-&lt;p&gt;稳定用了两年了，去年涨价以后队友发生变化，目前还差 3 人，季付 190 ，如果需要请联系 tg：bravosinica&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 14:42:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009499#reply3</guid></item><item><title>[程序员] 办理了一张兴业银行卡，竟然不给我开通网上转账功能</title><link>https://www.v2ex.com/t/1009498#reply9</link><description>&lt;p&gt;前两天去办理一张兴业银行卡，有种环宇人生卡外汇手续费比较低，然后悲剧的是办理的时候说出于安全考虑要三个月后才能开通转账功能，并且每天转账额度只有五千，现在这张卡只能别人给我转，我不能给别人转，太奇葩了，我还是第一次遇到办理银行卡不给开通转账的。&lt;/p&gt;
-&lt;p&gt;办理人员说只有河南有着要求，在外地激活可以开通转账。。。&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 14:40:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009498#reply9</guid></item><item><title>[程序员] 各位 V 友，谁有类似 新酷卡或者酷网通这类的代码</title><link>https://www.v2ex.com/t/1009496#reply0</link><description>&lt;p&gt;新酷卡或者酷网通
-想付费买一套这类软件，知道的应该能懂。
-或者有和他们类似的也可以。
-价格方面好说。
-都是 短信和彩信相关的软件&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 14:31:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009496#reply0</guid></item><item><title>[问与答] 求推荐个 头戴式蓝牙耳机？</title><link>https://www.v2ex.com/t/1009494#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;200 以内就行&lt;/li&gt;
-&lt;li&gt;戴起来耳朵要舒服&lt;/li&gt;
-&lt;li&gt;因为是戴着眼镜戴耳机，不会太压着眼镜腿。即戴着眼镜也能比较舒服。&lt;/li&gt;
-&lt;li&gt;续航久&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;要求不高，各位 v 友推荐一下呗&lt;/p&gt;</description><pubDate>Wed, 17 Jan 2024 14:19:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009494#reply0</guid></item><item><title>[macOS] mac 自带的输入法咋实现拼音分词？</title><link>https://www.v2ex.com/t/1009493#reply0</link><description></description><pubDate>Wed, 17 Jan 2024 14:03:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009493#reply0</guid></item><item><title>[Android] 安卓上有没有这样的 app，语音识别手机播放的音频视频为文字，是内录的(因为带耳机)，最好能翻看历史记录，像油管的 transcript。</title><link>https://www.v2ex.com/t/1009492#reply3</link><description></description><pubDate>Wed, 17 Jan 2024 14:03:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009492#reply3</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 18 Jan 2024 19:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] 为什么 Safari 滚动网页的时候经常掉帧？</title><link>https://www.v2ex.com/t/1009856#reply0</link><description>&lt;p&gt;复杂的页面的时候上下滚动，掉帧比较严重
+掉帧的时候系统也没多少占用，但就是卡
+观察了一下似乎是网页的 JS 代码正在执行的时候，滚动页面就有可能卡
+很多网页都会，比如知乎、Reddit 之类的
+最卡的是 YouTube 首页不过这个我就当谷歌故意的，虽然大概率不是&lt;/p&gt;
+&lt;p&gt;还有一个奇怪的问题就是有时候来回滚动时网页内容会一片白&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 18:24:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009856#reply0</guid></item><item><title>[问与答] nginx 日志里一直有陌生 IP 的奇怪请求</title><link>https://www.v2ex.com/t/1009855#reply0</link><description>&lt;p&gt;openwt 里跑 nginx 反代 docker 里的服务需要让 nginx 监听 443 端口，不知道什么时候开始 nginx 日志里就一堆如图的请求：
+&lt;img alt="图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Lmha0EB.png" /&gt;&lt;br /&gt;
+目前设定 nginx 的规则仅限指定域名特定 URL 访问，访问根目录自动重定向到谷歌&lt;br /&gt;
+这种需要处理吗？会不会有什么安全风险&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 17:57:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009855#reply0</guid></item><item><title>[OpenAI] chatgpt 4.0 拼车!</title><link>https://www.v2ex.com/t/1009854#reply1</link><description>&lt;p&gt;4 人合租，月付 35 ，有需要的联系 QnJpZHJhbGx5&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 17:54:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009854#reply1</guid></item><item><title>[Android] 安卓有什么办法向苹果一样自定义按钮及执行动作？</title><link>https://www.v2ex.com/t/1009853#reply1</link><description>类似于：点击按钮后，自动打开某个软件，并且弹出显示当前时间的弹窗。&lt;br /&gt;&lt;br /&gt;还是说获得开发者模式权限之后有接口可以调用？然后可以自己编程？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;ps：小米手机</description><pubDate>Thu, 18 Jan 2024 17:14:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009853#reply1</guid></item><item><title>[分享发现] 今晚真切地体会到了什么是“隔行如隔山”</title><link>https://www.v2ex.com/t/1009852#reply7</link><description>&lt;p&gt;今晚下班后坐在沙发上发呆 emo ，白天写各种乱七八糟的需求实在太累了。&lt;/p&gt;
+&lt;p&gt;突然微信响了，老同学发我几个视频，问我能不能把声音去掉。我并不会视频编辑，也不知道 macOS 的 QuickTime 可以直接 remove audio 。想到 ffmpeg 应该可以，于是 chatgpt 问了下，得到如下回答：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg -i input.mp4 -c copy -an output.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;然后就是 brew install 一顿操作几分钟后，视频发他了，也没多想，就告诉他下载了个 ffmpeg 做好了。&lt;/p&gt;
+&lt;p&gt;结果，过了一个小时，他发我一个视频，里面是个 ffmpeg 解压后的文件夹，说他下载了 ffmpeg ，为什么打不开。&lt;/p&gt;
+&lt;p&gt;可怕的事情来了，我打开 Windows 电脑，和他一起重新学习了一遍环境变量配置、powershell 的使用等等，他也蛮聪明的，从来没接触过，也没出啥错，就是时不时少敲了几个 [空格] ！！！&lt;/p&gt;
+&lt;p&gt;折腾一个多小时，终于可以睡觉了。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 17:01:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009852#reply7</guid></item><item><title>[程序员] 请教商品价格排序的性能问题</title><link>https://www.v2ex.com/t/1009851#reply2</link><description>&lt;p&gt;最近碰到一个业务排序要求，多家供应商提供相似的商品 但可能折扣不一样，折扣也至少有 2 种，一个是当前供应商的通用折扣作用于它的所有商品，还有另一种比如不同重量区间（重量越大折扣越少，甚至加价）设置不同的折扣，比如商品重量在 20 - 30 重量单位的 9 折，40 - 50 重量单位之间的 95 折，300 以上的 重量单位的可能是加价 15%。&lt;/p&gt;
+&lt;p&gt;现在搜索时符合条件的数据要按折后价排序后分页显示。&lt;/p&gt;
+&lt;p&gt;这个查询本身还有 7 ，8 个 过滤条件可选，比如颜色，形状等。 商品不会频繁修改，可以多加些索引。老板还说客户可以不输入任何限制条件。商品的规模 暂时估计 总共 1 千万，一个供应商的商品估计不超过 50 万。&lt;/p&gt;
+&lt;p&gt;因为要实时计算价格再排序的话，会影响性能，那个重量范围还要联表查询得到区间折扣率，所有数据 MySQL 要立即先计算一次才能比较价格，换个思路，如果事先把价格转换成折后价 避免查询时临时计算价格，如果供应商级别修改了折扣率，最多的可能有几十万个商品都要受影响，在后台换算成折后价的话，会有生效的延迟，全部更新完之前客户查询时排序结果就不正确。&lt;/p&gt;
+&lt;p&gt;大家说说，这个怎么处理比较好。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:58:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009851#reply2</guid></item><item><title>[问与答] 搭建视频网站最简单的办法是什么？有俩 vps</title><link>https://www.v2ex.com/t/1009850#reply6</link><description>&lt;p&gt;具体说一下需求，我有个 vip 群有几十人，我有十节课，加起来有 10 小时。我觉得网盘分享太容易盗版了。我想建个网站。只要能做到登陆后才能看到视频就行。感谢，万分感谢，求最简单方案。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:55:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009850#reply6</guid></item><item><title>[买买买] 目前国产电视这么多家，就不存在一款理想的代替显示器的产品，很难顶</title><link>https://www.v2ex.com/t/1009849#reply3</link><description>&lt;p&gt;想买个电视接电脑用，只能说对国产厂商失望，偌大个市场，没人正经搞一款竞争力产品，电视 HDMI 连电脑是个小众到没需求的场景吗？我不这么认为。只是做成电视卖内购电影电视剧，爆老头金币好赚而已。&lt;/p&gt;
+&lt;p&gt;具体来说的话需求非常单纯&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;能接 HDMI ，延迟说得过去就行。由于是当显示器，别跟我扯什么越大越好，就要 55 或 65 寸的，脑袋懒得动。&lt;/li&gt;
+&lt;li&gt;旧技术的 VA 屏就可以，什么 OLED ，miniLED 之类的通通不要，我不在乎你黑色有多黑，色准有多准。我既不准备看两年以后瞎眼，也不准备承担看一段时间就烧屏的心理压力。&lt;/li&gt;
+&lt;li&gt;兼容 HDMI CEC ，不需要满世界找遥控器&lt;/li&gt;
+&lt;li&gt;价格，别搞得比买 4 个 32 寸显示器还贵，用不起那精贵产品。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;去年陆续买了几个型号的国产，都非常失望&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第一次买了 TCLV8GMax ，低端型号，亮度不太满意不过也就忍了，不能忍的是 HDMI 延迟极高，鼠标操作体感有 500ms 延迟，怒退货。&lt;/li&gt;
+&lt;li&gt;第二次买了 TCLT7H ，终端型号，亮度很满意，颜色和屏幕各方面都挺好，但是芯片会自动切换模式，关不掉。浏览网页往下拉，随着画面变化，模式就开始狂闪。&lt;/li&gt;
+&lt;li&gt;期间家里人买了小米 ES55pro ，低端型号，调光有严重频闪，2022 年的电视到 2024 年了也没解决。另外不支持 HDMI CEC+开机有广告，挺拉的。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;失望啊，满足需求的只有国外电视型号了，但是国外型号动辄 5 位数，我心里想就为了换个显示器的需求，五位数真的值当？国产号称面板卷了这么多年，卷到最后还是有的钱只能洋人赚，难顶&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:54:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009849#reply3</guid></item><item><title>[程序员] 你发现了吗，什么时候找工作变成了求职面试？</title><link>https://www.v2ex.com/t/1009848#reply2</link><description>&lt;p&gt;什么是求职面试，找工作什么时候变为了求职？我记得 2000 年初那会都是应聘啊，从来没听说过求职这个词。&lt;/p&gt;
+&lt;p&gt;是谁在偷换概念？&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:34:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009848#reply2</guid></item><item><title>[上海] 求 6 号线德平路沿线整租一室户房源出租</title><link>https://www.v2ex.com/t/1009847#reply0</link><description>&lt;p&gt;目前住在香山新村，房然要卖房，年底前要搬走，求真心实意出租的房东。两 90 后夫妻居住/
+需要燃气做饭，可租车位。
+如有合适的亲戚朋友有房出租，麻烦各位大佬帮忙介绍&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:24:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009847#reply0</guid></item><item><title>[程序员] 手机 APP 会监听用户对话用来做大数据推荐的现实例证</title><link>https://www.v2ex.com/t/1009846#reply12</link><description>&lt;p&gt;说实话我以前也是完全不相信手机会通过监听的方式来进行大数据推荐的，但是今天是不服不行了。&lt;/p&gt;
+&lt;p&gt;今天快下班的时候在摸鱼，同事聊说过几天想买个手机壳，然后新款如何如何好。结果刚聊完天，我闲的没事又刷新了一下 B 站推荐，“手机壳横向对比推荐”的视频赫然蹦出来，吓了我一跳。&lt;/p&gt;
+&lt;p&gt;我个人保证，我此前对手机壳这个门类完全没有兴趣，我甚至对相关领域（手机、壳）也几乎没有兴趣，我的日常观看和推荐列表里不包含任何手机测评相关的内容。我和朋友只在聊天中提到了手机壳这个关键字，我百分百确定我没有通过输入法或其他任何方式将其输入到设备中。并且我保证这不是特殊巧合，在聊天前我已经刷了半小时 B 站，推荐是完全正常的，如果说因为附近用户浏览了手机壳而给我这个使用同样 IP 的用户推荐手机壳的话，为什么之前的半小时里从来没刷到呢。&lt;/p&gt;
+&lt;p&gt;我以前觉得所有的“聊天里提到了 XXX ，之后打开微信立马看到 xxxx 的推荐”的神迹，都是通过读取剪切板啊等等类似的行为实现的，和聊天本身无关，因为我觉得工程上完全不可实现，手机既没有明显的申请麦克风权限的行为，也没有明确的录音加速耗电的行为。再者，实时语音分析需要的算力大面积铺开是否现实也是个疑问。&lt;/p&gt;
+&lt;p&gt;但是事实也是摆在眼前，实在是不好解释了。如果说 B 站是因为同 IP 的其他用户访问了某内容而推荐给我，为什么以前从来没遇到过这种情况。我在家没有被邻居的推荐列表影响，以前在学校，学校那么多人，也没听说过谁到学校后推荐列表就乱套了的。&lt;/p&gt;
+&lt;p&gt;细思恐极&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:22:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009846#reply12</guid></item><item><title>[程序员] 持续优化：低代码之可编辑页面</title><link>https://www.v2ex.com/t/1009845#reply2</link><description>&lt;p&gt;目前，我在可视化低代码编辑器的基础上推出了一项全新的功能：可编辑页面。通过这一创新，理论上所有通过低代码平台创建的页面都能够轻松实现实时编辑。&lt;/p&gt;
+&lt;h3&gt;主要优化点&lt;/h3&gt;
+&lt;h4&gt;一、可视化布局操作优化&lt;/h4&gt;
+&lt;p&gt;可视化布局添加了右键菜单，点击元素后新增了操作按钮
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ab388a850ab34eaf986ff7f6e4bcfe51%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2396&amp;amp;h=972&amp;amp;s=550286&amp;amp;e=png&amp;amp;b=fdfcfc" /&gt;&lt;/p&gt;
+&lt;h4&gt;二、新增页面即时编辑功能&lt;/h4&gt;
+&lt;p&gt;1 、即时编辑页面，基于页面元素和代码的双向解析，通过对 dom 节点添加标记，实现对 dom 元素的即时编辑功能，点击右下角开启实时编辑功能
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6acf321a47344918b4374fefedcc8e9%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2850&amp;amp;h=1626&amp;amp;s=502423&amp;amp;e=png&amp;amp;b=ffffff" /&gt;
+2 、可实现页面元素动态修改，图片、图标替换等功能
+&lt;img alt="Image 1" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d7c6c48b085e4b38b1c1739cf83781c9%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=998&amp;amp;h=840&amp;amp;s=386856&amp;amp;e=png&amp;amp;b=fdfdfd" /&gt; |
+&lt;img alt="Image 2" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5fa2aed50c374105a3df1da4b2f48e9c%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1094&amp;amp;h=682&amp;amp;s=424418&amp;amp;e=png&amp;amp;b=fefefe" /&gt;
+3 、替换后的页面可直接点击保存按钮，修改信息将直接作用于页面模板
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/722f184d53f04c57a9ed40f77a64700b%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2778&amp;amp;h=870&amp;amp;s=310741&amp;amp;e=png&amp;amp;b=787a7e" /&gt;&lt;/p&gt;
+&lt;p&gt;当前能做的功能还有很多，如果大家对与低代码平台应该怎么样发展，有着自己的想法，希望可以在评论区分享出来，虽然低代码平台目前阶段还很难用，但在我看来它也蕴藏着无限可能。后续我也将会持续进行改进和优化。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:20:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009845#reply2</guid></item><item><title>[问与答] 请问在网络连接已经出境后，是怎么还能被黑洞的？</title><link>https://www.v2ex.com/t/1009843#reply7</link><description>&lt;p&gt;&lt;code&gt;&lt;a href="http://www.hcaptcha.com" rel="nofollow"&gt;www.hcaptcha.com&lt;/a&gt;&lt;/code&gt; 默认解析的两个 IPv4 地址无法 PING 通、无法通过 HTTP(S) 连接，但是手动替换成其他 IP 地址则能够正常访问。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgse.com/i/pFA28Z6" rel="nofollow"&gt;&lt;img alt="pFA28Z6.png" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/18/pFA28Z6.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;通过 IPIP 的 &lt;a href="https://www.ipip.net/product/client.html#besttrace" rel="nofollow"&gt;BestTrace&lt;/a&gt; 发现实际上网络连接已经出境了，但是仍然无法达到目标地址。&lt;/p&gt;
+&lt;p&gt;是因为这样的连通性测试只能测试单向的路由吗，而在回程上连接被黑洞了？&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009843#reply7</guid></item><item><title>[NAS] 求助黑群晖（包括其他系统）盘序错误问题</title><link>https://www.v2ex.com/t/1009842#reply1</link><description>&lt;p&gt;黑群晖机器是 ThinkCentre M8500s ，Q87 芯片组&lt;/p&gt;
+&lt;p&gt;其 SATA1 口连接的是一个 SSD ，SATA2 口连接的是一个 HDD （依照主板标识）&lt;/p&gt;
+&lt;p&gt;但是在不管什么系统中（包括 DSM/Linux/WinPE/甚至于包括 ME 的 KVM ），HDD 永远都是磁盘媒体 1 ，SSD 永远在磁盘媒体 2&lt;/p&gt;
+&lt;p&gt;本来不影响使用就没有考虑有问题，但是今天维护时候发现调换 SATA 接口的插线顺序会直接导致概率性不认一个盘（随机不认），但是换回正常顺序则可以完全正常工作&lt;/p&gt;
+&lt;p&gt;尝试更换主板电池，恢复 BIOS 默认设置，跳线清空 BIOS 都无法解决这个问题，也尝试更换硬盘，还是一样复现&lt;/p&gt;
+&lt;p&gt;请问大家有遇到过类似的问题么？&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 16:02:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009842#reply1</guid></item><item><title>[职场话题] Gap 了大半年了感觉过完年再找不到工作就焦虑翻倍了</title><link>https://www.v2ex.com/t/1009841#reply4</link><description>&lt;p&gt;之前 2 月底对于疫情局势判断错误以为太好了，结果直接主动辞了职，三四月转了一圈，五六月刚好杭州几波裁员，七月的时候面试有 3 个 offer 一个杭州因为薪资 12k 觉得有点低于预期，有一个 南京 14.5k offer 结果上了一周因为入职体检被卡了，有一个苏州 13.5k 也是差不多因为入职要求太多（不卡体检但是要医院文案不能有定期复查这种）后续南京杭州这边基本都是外包然后动静也不大，长沙，武汉这边都是要线下面，没办法去。。。因为刷了一段时间感觉没啥新公司年底十一二月就放弃继续找工作了...感觉去年大半年总体没有什么非外包的工作机会，面试本来就少，很多没办法远程面...感觉大半年了很焦虑。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:57:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009841#reply4</guid></item><item><title>[程序员] H3C GR3200 的防火墙入站策略真嘚</title><link>https://www.v2ex.com/t/1009840#reply0</link><description>&lt;p&gt;&lt;a href="https://zhiliao.h3c.com/questions/dispcont/79669" rel="nofollow"&gt;https://zhiliao.h3c.com/questions/dispcont/79669&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;搞了台 H3C GR3200 的路由器做防火墙，结果配置了 NAT 就不能使用防火墙的入站策略，这不脑残设计吗？配置了 NAT 说明连通了公网，防火墙就是为了限制公网流量，结果配置了 NAT 就不能使用防火墙的入站策略，我真服了！&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:52:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009840#reply0</guid></item><item><title>[程序员] 有人用过 cloudflare tunnel 把内网服务暴露到公网吗？实测网速 40k 左右</title><link>https://www.v2ex.com/t/1009839#reply5</link><description>&lt;p&gt;对于网速有点失望，不过考虑到是免费的，凑合用还行，搭建起来挺方便的，这么低的网速那只能对接 api 服务器传递一些 json 了。&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:51:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009839#reply5</guid></item><item><title>[推广] 新型科学上网： 1+6+N 个月免费大放送福利(推广)</title><link>https://www.v2ex.com/t/1009838#reply11</link><description>&lt;p&gt;这是有别于传统 vpn 或公共机场的新型融合方案，为了收集其在不同区域的不同使用效果，所以在这里大放福利。&lt;/p&gt;
+&lt;p&gt;🌟&lt;a href="https://github.com/spartacus-soft/spartacus" rel="nofollow"&gt;下载安装&lt;/a&gt;后默认自动激活一个月&lt;br /&gt;
+🌟 安装后到激活指南页面找到邮箱发送“获取福利”，手工赠送前 100+名 6 个月的激活码&lt;br /&gt;
+🌟 提供效果不良反馈和分析的朋友，再赠送大量时长的激活码，不怕服务器成本问题（因为无成本）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实时流量&lt;/strong&gt;
+&lt;img alt="实时流量" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MMhH7R8.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实时连接&lt;/strong&gt;
+&lt;img alt="实时连接" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4aIPkx5.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TCP 防护&lt;/strong&gt;
+&lt;img alt="wikis" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ZO1HjAT.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:49:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009838#reply11</guid></item><item><title>[宽带症候群] 稍微研究了一下上海电信的 VoWiFi</title><link>https://www.v2ex.com/t/1009837#reply1</link><description>&lt;p&gt;po 主用的手机是 pixel ，就加了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;boolean name="carrier_default_wfc_ims_enabled_bool" value="true" /&amp;gt;
+&amp;lt;boolean name="carrier_wfc_ims_available_bool" value="true" /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;开启 VoWiFi ，测试之后发现以下几点：&lt;/p&gt;
+&lt;p&gt;1 IKEv2/IPSec 后端是 &lt;code&gt;&lt;a href="http://epdg.epc.mnc011.mcc460.pub.3gppnetwork.org" rel="nofollow"&gt;epdg.epc.mnc011.mcc460.pub.3gppnetwork.org&lt;/a&gt;&lt;/code&gt;需要上海电信的 DNS 服务器才可以解析，且解析出来的地址从上海电信之外的网络无法连接（从国内外多节点测试）&lt;/p&gt;
+&lt;p&gt;2 需要连着 SDN 网关（目前不清楚到底是需要由网关拨号还是桥接也可以）才能建立 IPSec 通道，自己用破解光猫+自备网关拨号则无法建立（好像返回的是验证失败），而一旦建立之后则只要是电信的网络之间都可以 mobike&lt;/p&gt;
+&lt;p&gt;3 和网上的传言因为需要溯源所以不能在飞行模式下使用不同，在符合 2 中条件的网络下，飞行模式也可使用。&lt;/p&gt;
+&lt;p&gt;有人研究过 2 中的 IKEv2 是怎么验证的吗&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:45:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009837#reply1</guid></item><item><title>[广州] 兄弟们 带长辈广州春节可行吗</title><link>https://www.v2ex.com/t/1009836#reply1</link><description>&lt;p&gt;预计三十晚上到玩五天
+主要担心过年那些有名的饭店开不开,排队厉害,吃不上饭...
+另外景点咋样 么么哒&lt;/p&gt;</description><pubDate>Thu, 18 Jan 2024 15:40:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1009836#reply1</guid></item></channel></rss>
