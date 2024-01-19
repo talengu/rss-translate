@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 19 Jan 2024 17:44:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 求推荐个便宜的将来能支持 wifi7 的手机</title><link>https://www.v2ex.com/t/1010174#reply0</link><description>目前只找到一个 红米 k60 pro</description><pubDate>Fri, 19 Jan 2024 17:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010174#reply0</guid></item><item><title>[iCloud] Icloud 跑了 30 多个 G 的流量，如何设置不会再出现这个情况</title><link>https://www.v2ex.com/t/1010171#reply1</link><description>昨天早上开通了 icloud ，白天插着电，但是没有 wifi ，中午突然提醒流量不足，发现结转的流量和当月的流量，用去 40 多个 g ，icloud 的同步会走蜂窝数据吗？</description><pubDate>Fri, 19 Jan 2024 16:52:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010171#reply1</guid></item><item><title>[macOS] 为什么 Mac OS 会默认把 sd 卡格成两个分区？</title><link>https://www.v2ex.com/t/1010170#reply0</link><description>&lt;p&gt;用 MacBook 格式化一张存储卡成 exfat ，格式完显示两个分区，多出一个 200MB 的 Ufi 分区，在 Windows 上用分区工具删除这个分区后，回到 MacBook 再次格式化，分区又回来了，为啥 Mac 会这样？&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:51:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010170#reply0</guid></item><item><title>[Windows] win 下如何以管理员权限开机自启应用？</title><link>https://www.v2ex.com/t/1010169#reply2</link><description>我是在使用站内大佬开发的 pixpin 的时候发现的 win 不能以管理员权限开机自启应用，除非把 uac 给关闭，但这样总感觉有点慌🫠🫠。各位大佬有什么解决途径么。</description><pubDate>Fri, 19 Jan 2024 16:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010169#reply2</guid></item><item><title>[分享创造] 过滤已经阅览过的重复文件, 适合电影, 书籍, 文档</title><link>https://www.v2ex.com/t/1010167#reply5</link><description>&lt;h3&gt;经常下种子, 电影, 书籍, 游戏, 压缩包,等一大堆文件, 想过滤之前已经阅览过的文件.&lt;/h3&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 19 Jan 2024 23:45:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Sony WH-1000XM5 多设备连接 切换设备音量自动最大 求解决办法</title><link>https://www.v2ex.com/t/1010183#reply1</link><description>&lt;p&gt;Sony WH-1000XM5 设置多设备连接. 设备都是设置 30% 音量
+当每次切换设备, 音量自动变大 100%.
+尝试重新连接, 重置耳机, 均无效.&lt;/p&gt;
+&lt;p&gt;每次听着歌, 突然来电就会吓一跳
+求解决办法!&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 22:04:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010183#reply1</guid></item><item><title>[问与答] 关于早产宝宝的焦虑</title><link>https://www.v2ex.com/t/1010182#reply4</link><description>&lt;p&gt;记录一下这几天的大起大落，以及现在的心情，求同款经验传授一下，感谢感谢。
+老婆 16 号 34+5 周产检红灯，直接被医生扣下住院。确诊重度子痫前期。
+17 号保胎 1 天后，血压控制不住，医生建议直接剖腹产。小地方医院不放心，申请转院。
+17 号奔波 150 公里转入三甲医院。血压暂时稳定，医生保胎治疗争取足月。
+18 号状态总体都不错，做了各种检查。
+19 号早上，接着检查，到中午全部检查结束，医生说都很好。
+19 号下午，准备胎心监护，我通宵好几天，回宾馆好好睡了几个小时，给老婆发微信准备晚餐。没想到说胎心监护一直没过，宝宝不怎么动。医生准备直接手术了。吓得我赶紧跑到病房，三个主任医师共同建议直接手术。
+19 号晚上 7 点，签各种通知书，7 点 20,老婆被推进手术室。
+晚上 8 点，手术室门打开，早产男宝宝 35+1 周，，体重 4 斤 6 两。然后办理 nicu ，送入保温箱。因为我爸办理宝宝后续的住院，医生只说宝宝力气大，没有问评分。
+晚上 8 点 40,老婆出手术室。目前母子平安。
+然后就是照顾老婆，喝了两罐红牛，一包烟，手机一直在查询早产宝宝的信息，照顾孕妇的信息，又想着年关月嫂的事情。
+感觉好乱，担心，害怕。有种不知所措的无力感。&lt;/p&gt;
+&lt;p&gt;看不到宝宝，不知道宝宝的情况，有没有人能安慰一下，或者有类似经历的 v 友给点经验吧。。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 21:22:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010182#reply4</guid></item><item><title>[程序员] mattermost 装的私有 slack 服务器为什么无法发起 voice call?</title><link>https://www.v2ex.com/t/1010181#reply1</link><description>&lt;p&gt;跑在自己家里的 PVE 上的 mattermost ，一切都可以，除了无法发起 voice call ，查了一圈 github 没找到问题如何解决，这里也许会有人知道？&lt;/p&gt;
+&lt;p&gt;另外这个 mattermsot 私有化部署聊天挺方便了，&lt;a href="https://talk.ixdeal.com" rel="nofollow"&gt;https://talk.ixdeal.com&lt;/a&gt; ， 有兴趣的留下邮件我发邀请给你们进来玩啊。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 20:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010181#reply1</guid></item><item><title>[浏览器] Google Chrome 已支持使用 Zstandard（zstd）作为 Content-Encoding</title><link>https://www.v2ex.com/t/1010179#reply3</link><description>&lt;p&gt;&lt;a href="https://chromestatus.com/feature/6186023867908096" rel="nofollow" title="Zstd Content-Encoding - Chrome Platform Status"&gt;Zstd Content-Encoding - Chrome Platform Status&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zstandard （ zstd ）是一个具有高压缩比和高解压速率的无损数据压缩算法，详细请看官方介绍页面： &lt;a href="https://facebook.github.io/zstd/" rel="nofollow"&gt;https://facebook.github.io/zstd/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;长期以来，由于 zstd 缺少标准化的字典，Mozilla Firefox 等浏览器的开发者拒绝使用 zstd 作为 Content-Encoding 。&lt;/p&gt;
+&lt;p&gt;但目前 IETF HTTP 工作组正在起草一份 &lt;a href="https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-compression-dictionary" rel="nofollow"&gt;Compression Dictionary Transport&lt;/a&gt; 标准化文件，以允许网站提供适用于自身的外部字典。而这解决了 zstd 缺少标准化字典的问题。&lt;/p&gt;
+&lt;p&gt;因此 Chromium 开发团队在 2023 年 6 月为 Chromium 添加了“Zstd Content-Encoding”特性。&lt;/p&gt;
+&lt;p&gt;目前该特性仍然处于开发者试用阶段，需要手动启用：&lt;code&gt;chrome://flags/#enable-zstd-content-encoding&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;但是既然在中文互联网上没有人提及这件事，那么说明这玩意其实使用率不高……&lt;/p&gt;
+&lt;p&gt;别说 zstd 了，哪怕谷歌的 Brotli 使用率也低，大部分网站或者说 CDN 仍然在使用 gzip （ DEFLATE ）。&lt;/p&gt;
+&lt;p&gt;不过对于小众网站，尤其是托管在“小水管”中国内地服务器的个人博客来说，仍然是一种可以显著减轻服务器带宽压力的方案。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 19:07:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010179#reply3</guid></item><item><title>[问与答] 耳朵来大姨妈了</title><link>https://www.v2ex.com/t/1010178#reply2</link><description>今天晚上我无意见用手摸了一下耳朵，然后一阵疼痛和手指上的血，我就用纸擦（除血以外，还有白色的东西，就像是挤痘痘挤出来的白色东西一样），没血之后再擦就是想水一样颜色重一点有点像血，所以说这是个是个东西？（如果就是个痘痘就算了）   有没有知道的大佬，谢谢了</description><pubDate>Fri, 19 Jan 2024 18:56:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010178#reply2</guid></item><item><title>[问与答] 睡不着，偷偷➕了一次，还是睡不着，啊啊啊！</title><link>https://www.v2ex.com/t/1010177#reply5</link><description>满脑子跑火车&lt;br /&gt;啪啪的&lt;br /&gt;&lt;br /&gt;好烦&lt;br /&gt;神经兮兮代表</description><pubDate>Fri, 19 Jan 2024 18:47:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010177#reply5</guid></item><item><title>[Apple] 为什么 Vision Pro 的通用处理器参数部分挺克制的？</title><link>https://www.v2ex.com/t/1010176#reply10</link><description>&lt;p&gt;其他的 光学、传感器、声音、R1 芯片 啥的我也不懂；&lt;/p&gt;
+&lt;p&gt;就看通用处理器部分，标配 m2 芯片，CPU 8 核（ 4E+4P ），GPU 10 核，AI 引擎 16 核， 内存 16GB ；&lt;/p&gt;
+&lt;p&gt;这不是普通 m2 macbook air 的配置拉了下内存么？&lt;/p&gt;
+&lt;p&gt;是 apple silicon 太强了，还是苹果克制了，还是当前配置完全撑得住使用场景？&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 18:43:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010176#reply10</guid></item><item><title>[投资] 用圆弧转换时间和价格</title><link>https://www.v2ex.com/t/1010175#reply0</link><description>&lt;p&gt;前一段时间，我发了&lt;a href="https://v2ex.com/t/1007350" rel="nofollow"&gt;这个贴子&lt;/a&gt;预测趋势结束的时间，在读了一些回复之后我醒悟到很多人都认为那个图可以预测价格（其实不能），所以我在这个解释一下为什么要用圆，以及一点基础的用法。根据江恩理论，本质上时间和价格是等同的，所以我们可以在 x 轴（时间）和 y 轴（价格）之间相互转换，画圆是最为快速的方法。如果你觉得江恩理论是玄学垃圾，我可以理解因为他说的占星那些是很奇怪，但是我个人认为“不管黑猫白猫，捉住老鼠就是好猫“。&lt;/p&gt;
+&lt;p&gt;价格的波动是一个向量（ vector ），每个波动都会在时间和价格上导致未来周期性的波动（就好像大自然的一年四季一样），我们需要从向量中提取时间和价格，用来预测未来价格上和时间上的转折点。这个方法在任何时间段上都可以用。&lt;/p&gt;
+&lt;p&gt;图片示例 1: &lt;a href="https://imgse.com/i/pFEaTNn" rel="nofollow"&gt;https://imgse.com/i/pFEaTNn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="example1" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaTNn.png" /&gt;&lt;/p&gt;
+&lt;p&gt;下一个图演示如何获得时间和价格的转折点。图中的向量是从高到低（圆心在高价处），所以 3 点钟预测的是上升趋势结束时间，你可以想象一下价格沿着圆弧从 6 点钟往 3 点钟逆时针往上爬，开始很缓慢，然后在接近 3 点钟处几乎是直线上升。如果向量是从低到高（圆心在低价处），预测的是下降趋势结束。&lt;/p&gt;
+&lt;p&gt;图片示例 2: &lt;a href="https://imgse.com/i/pFEaoAs" rel="nofollow"&gt;https://imgse.com/i/pFEaoAs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="example2" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaoAs.png" /&gt;&lt;/p&gt;
+&lt;p&gt;用圆弧转换时间和价格牵涉到调整价格时间比率，我们也可以用 50%或其它比率的角度线预从价格来测时间上的转折点，但是这样得出的转折点不能预测方向。&lt;/p&gt;
+&lt;p&gt;图片示例 3: &lt;a href="https://imgse.com/i/pFEaxHJ" rel="nofollow"&gt;https://imgse.com/i/pFEaxHJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="example3" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaxHJ.png" /&gt;&lt;/p&gt;
+&lt;p&gt;对于用几何分析价格有兴趣的朋友可以看 The Geometry of Stock Market Profits, 作者是 Michael S. Jenkins 。我所学到的很多技术都从他写的书里学到的。最后，我不在国内很久，如果我的表达有问题或者阐述上有歧义，在这里先对不起了。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 18:23:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010175#reply0</guid></item><item><title>[问与答] 求推荐个便宜的将来能支持 wifi7 的手机</title><link>https://www.v2ex.com/t/1010174#reply0</link><description>目前只找到一个 红米 k60 pro</description><pubDate>Fri, 19 Jan 2024 17:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010174#reply0</guid></item><item><title>[iCloud] Icloud 跑了 30 多个 G 的流量，如何设置不会再出现这个情况</title><link>https://www.v2ex.com/t/1010171#reply1</link><description>昨天早上开通了 icloud ，白天插着电，但是没有 wifi ，中午突然提醒流量不足，发现结转的流量和当月的流量，用去 40 多个 g ，icloud 的同步会走蜂窝数据吗？</description><pubDate>Fri, 19 Jan 2024 16:52:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010171#reply1</guid></item><item><title>[macOS] 为什么 Mac OS 会默认把 sd 卡格成两个分区？</title><link>https://www.v2ex.com/t/1010170#reply0</link><description>&lt;p&gt;用 MacBook 格式化一张存储卡成 exfat ，格式完显示两个分区，多出一个 200MB 的 Ufi 分区，在 Windows 上用分区工具删除这个分区后，回到 MacBook 再次格式化，分区又回来了，为啥 Mac 会这样？&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:51:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010170#reply0</guid></item><item><title>[Windows] win 下如何以管理员权限开机自启应用？</title><link>https://www.v2ex.com/t/1010169#reply3</link><description>我是在使用站内大佬开发的 pixpin 的时候发现的 win 不能以管理员权限开机自启应用，除非把 uac 给关闭，但这样总感觉有点慌🫠🫠。各位大佬有什么解决途径么。</description><pubDate>Fri, 19 Jan 2024 16:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010169#reply3</guid></item><item><title>[分享创造] 过滤已经阅览过的重复文件, 适合电影, 书籍, 文档</title><link>https://www.v2ex.com/t/1010167#reply5</link><description>&lt;h3&gt;经常下种子, 电影, 书籍, 游戏, 压缩包,等一大堆文件, 想过滤之前已经阅览过的文件.&lt;/h3&gt;
 &lt;br /&gt;
 &lt;h3&gt;久而久之就想有一款可以记录当前文件存入数据库的软件, 下次再下电影, 书籍时则可以直接过滤.&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://i.imgur.com/3xMc3nG.png" rel="nofollow"&gt;https://i.imgur.com/3xMc3nG.png&lt;/a&gt;&lt;/p&gt;
@@ -9,7 +47,7 @@
 &lt;h3&gt;SQLite.db 是数据库, 如果想重置数据库直接删除掉, 再启动程序, 程序会自动生成一个空的数据库.&lt;/h3&gt;
 &lt;h3&gt;半年前写的程序, 本来想写一个带界面, 支持拖动的, 精力有限, 自己使用就将就将就了.&lt;/h3&gt;
 &lt;h3&gt;手机没电了, 电脑只登录有百度云, 只能上百度云链接了&lt;/h3&gt;
-&lt;h3&gt;百度云: &lt;a href="https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234" rel="nofollow"&gt;https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234&lt;/a&gt;&lt;/h3&gt;</description><pubDate>Fri, 19 Jan 2024 16:18:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010167#reply5</guid></item><item><title>[职场话题] 分享一个应届生找工作遇到的公司 HR 迷操作</title><link>https://www.v2ex.com/t/1010166#reply0</link><description>&lt;p&gt;11 月的时候在 linkedin 上看到一个在 moveworks （一个和 OpenAI 同赛道的公司）的 hm 发了个帖子说在招人。看到有一个岗位和之前的实习经历很接近就发了一个私信求了一个内推。&lt;/p&gt;
+&lt;h3&gt;百度云: &lt;a href="https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234" rel="nofollow"&gt;https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234&lt;/a&gt;&lt;/h3&gt;</description><pubDate>Fri, 19 Jan 2024 16:18:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010167#reply5</guid></item><item><title>[职场话题] 分享一个应届生找工作遇到的公司 HR 迷操作</title><link>https://www.v2ex.com/t/1010166#reply2</link><description>&lt;p&gt;11 月的时候在 linkedin 上看到一个在 moveworks （一个和 OpenAI 同赛道的公司）的 hm 发了个帖子说在招人。看到有一个岗位和之前的实习经历很接近就发了一个私信求了一个内推。&lt;/p&gt;
 &lt;p&gt;hm 大姐也非常给力的把我的简历推给了 hr 部门，hr 部门也联系我让我再发一次简历他们去找组。这里也是很感谢 HM 大姐能帮小弟一手。&lt;/p&gt;
 &lt;p&gt;我很乐意的第二天就把简历发过去，结果第三天一大早就收到了一个模板拒信。&lt;/p&gt;
 &lt;p&gt;好吧，我也认了，毕竟大环境差，你们公司 hr 兵贵神速，半天就知道没有组看得上我。&lt;/p&gt;
@@ -17,7 +55,7 @@
 &lt;p&gt;结果这 hr 又临时放鸽子说有事，要改到下周。行吧，下周那就改。问了几个时间行不行，然后又开始装死了。&lt;/p&gt;
 &lt;p&gt;这公司 hr 水平真的难绷，还好我已经找到一个理想的工作了，不然又给他拿捏了。&lt;/p&gt;
 &lt;p&gt;送一句 Fortunately, I have moved on with other company instead. 给这家公司好了。今年遇到的奇葩公司真的不少，市场差就可以随便拿捏应聘者吗，是觉得自己不会找工作了吗。&lt;/p&gt;
-&lt;p&gt;也希望还在找工的应届生朋友们早日上岸好公司。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:07:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010166#reply0</guid></item><item><title>[分享创造] 分享过去一年我用 ChatGPT API 结合 vscode 插件写的生产力工具</title><link>https://www.v2ex.com/t/1010165#reply0</link><description>&lt;h3&gt;OCR + ChatGPT 翻译&lt;/h3&gt;
+&lt;p&gt;也希望还在找工的应届生朋友们早日上岸好公司。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:07:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010166#reply2</guid></item><item><title>[分享创造] 分享过去一年我用 ChatGPT API 结合 vscode 插件写的生产力工具</title><link>https://www.v2ex.com/t/1010165#reply0</link><description>&lt;h3&gt;OCR + ChatGPT 翻译&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240119234829752-1525181288.gif" /&gt;&lt;/p&gt;
 &lt;p&gt;OCR 白嫖百度的，因为 nodejs 没法读取剪贴板里的图片，只能打开一个 webview 去读取。&lt;/p&gt;
 &lt;h3&gt;生成 value-label 格式 JSON&lt;/h3&gt;
@@ -53,7 +91,7 @@
 &lt;p&gt;5 、有办法就要去执行落地尝试，不断做不断提升认知&lt;/p&gt;
 &lt;p&gt;订阅：独立开发前线：独立开发者的成长指南！&lt;/p&gt;
 &lt;p&gt;网址： &lt;a href="https://www.91wink.com" rel="nofollow"&gt;https://www.91wink.com&lt;/a&gt;&lt;/p&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://www.91wink.com/wp-content/uploads/2024/01/WechatIMG5.jpg" /&gt;</description><pubDate>Fri, 19 Jan 2024 15:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010162#reply0</guid></item><item><title>[Apple] 有今天晚上抢到了 Vision Pro 的朋友吗，交流一下</title><link>https://www.v2ex.com/t/1010160#reply2</link><description>&lt;p&gt;大概流程就是：&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://www.91wink.com/wp-content/uploads/2024/01/WechatIMG5.jpg" /&gt;</description><pubDate>Fri, 19 Jan 2024 15:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010162#reply0</guid></item><item><title>[Apple] 有今天晚上抢到了 Vision Pro 的朋友吗，交流一下</title><link>https://www.v2ex.com/t/1010160#reply3</link><description>&lt;p&gt;大概流程就是：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;App Store 改为美国商店&lt;/li&gt;
 &lt;li&gt;Face ID 录入流程扫描两次。自动识别合适的尺寸（ S M 等）&lt;/li&gt;
@@ -85,92 +123,5 @@
 &lt;/ol&gt;
 &lt;p&gt;另外翻了一下论坛好像没什么热度，所以建了一个交流群&lt;/p&gt;
 &lt;p&gt;有抢到的老哥可以加群分享一手，也欢迎各位老哥到时候分享体验：
-&lt;a href="http://t.me/HiVisionPro" rel="nofollow"&gt;t.me/HiVisionPro&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:29:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010160#reply2</guid></item><item><title>[酷工作] [远程] Web 3 招募远程人员 - 运维，前后端， Golang 开发 - 期货交易，客服</title><link>https://www.v2ex.com/t/1010158#reply1</link><description>Web 3 招募人才！&lt;br /&gt;&lt;br /&gt;团队背景：前 3 大交易所深耕经验！&lt;br /&gt;&lt;br /&gt;工作模式：远程办公&lt;br /&gt;&lt;br /&gt;寻找有 1-2 年经验在区块链-DEX/CEX/金融背景的小伙伴加入！&lt;br /&gt;&lt;br /&gt;目前创业阶段，寻找不怕吃苦，能接受目前 6 天制的同学一起打拼，盈利之后大家一块分红！&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[运维工程师]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责交易系统平台的运维工作，主要包括日常维护、系统变更、问题处理、应急处置、技术支持、安装部署等，保障应用系统的安全稳定运行&lt;br /&gt;- 参与交易系统技术架构的规划建设工作，如高可用架构、分布式部署、多活负载均衡等，分析评估应用系统容量与性能，提高系统运行可靠性&lt;br /&gt;- 参与持续交付、持续部署、运维工具开发等工作，提高交付质量和效率，提升互联网应用的自动化运维、监控运维水平&lt;br /&gt;- 按运维规范编制、更新应用系统技术资料&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 具备 5 年及以上工作经验，有互联网运维开发、中心化交易所运维开发经验者优先&lt;br /&gt;- 有 Docker 和 AWS 运维经验&lt;br /&gt;- 有自动化 CICD 方面的良好实践&lt;br /&gt;- 熟悉 Rancher / Kubernetes 架构和组件，在高可用集群设置和维护方面拥有丰富经验&lt;br /&gt;- 拥有部署，运维，监控，优化和排除云基础架构故障的经验&lt;br /&gt;- 精通 Shell 脚本，Python 等 DevOps 常用开发语言&lt;br /&gt;- 熟悉 Docker 和 Linux 内核配置优先；&lt;br /&gt;- 具有较强风险意识，责任心强，积极主动，富有团队协作精神，具备良好的沟通能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[Golang 开发 - 期货交易，引擎撮合]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责期货交易、撮合引擎的开发&lt;br /&gt;- 有 Golang 规划开发高并发系统经验、优化系统实践&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 1 年以上交易所相关经验，对交易撮合的开发有深入了解 &lt;br /&gt;- Golang 开发经验，有 C++经验者优先。&lt;br /&gt;- 熟悉 Mysql 、Redis…等中间件&lt;br /&gt;- 熟悉单元测试。&lt;br /&gt;- 良好的团队合作，重视开发默契，能够适当沟通协调&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[前端开发- React]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 使用 React 语言构建高性能、可靠的跨平台前端应用。&lt;br /&gt;- 与设计和后端团队合作，确保前端与用户界面的一体化。&lt;br /&gt;- 开发和维护用户界面，优化用户体验和页面性能。&lt;br /&gt;- 解决和优化跨浏览器兼容性问题，确保各种设备的一致性。&lt;br /&gt;- 持续优化网站性能，确保用户体验的最佳化。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 4 年工作经验及以上，1 年以上交易所相关经验&lt;br /&gt;- 熟练掌握 HTML 、CSS 、JavaScript 、LESS 、SCSS 、Typescript 、动画、协议、安全、网络、WebSocket 、SEO 、SSR 、SSG 、性能优化等前端技术等 Web 前端开发语言；  &lt;br /&gt;- 熟悉前端框架：React 、NextJs 、Monorepo ，有开发经验者优先考虑；&lt;br /&gt;- 熟悉 Webpack 、Gulp 等自动化构建工具，了解 Node.js 、NPM 、Vercel 、Vite 等开发工具；&lt;br /&gt;- 具备良好的服务意识、责任心、细心、热爱技术、优秀的团队沟通与协作能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作；&lt;br /&gt;&lt;br /&gt;[中文客服 - 工作时间：北京时间下午 2 点到晚上 11 点]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 提供高效、友好的客户支持，解答用户关于交易和平台使用的问题。&lt;br /&gt;- 与团队协作，协调解决复杂问题，确保客户的需求得到妥善处理。&lt;br /&gt;- 接受公司提供的培训，熟悉产品和服务，以更好地为客户提供支持。&lt;br /&gt;- 记录并报告用户反馈，收集市场问题数据，以帮助优化产品和服务。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 具备较强的沟通协调能力，能够协调内外部资源处理用户投诉。&lt;br /&gt;- 具备较强的学习能力和适应能力，持续学习并了解行业的最新发展，以提供准确的信息。&lt;br /&gt;- 对 Web 3, 金融知识，区块链行业有浓厚兴趣，有相关经验者优先。&lt;br /&gt;- 具有团队合作精神，充满工作热情，人品正直诚实，能承受工作压力。&lt;br /&gt;- 良好的中文书写和沟通能力。&lt;br /&gt;- 公司提供培训。&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Fri, 19 Jan 2024 15:18:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010158#reply1</guid></item><item><title>[分享创造] 最近一直在思考如何出海搞钱，突然想到了，做个电商联盟站点</title><link>https://www.v2ex.com/t/1010157#reply0</link><description>&lt;p&gt;这是我的第一个电商联盟站点，是基于 Amazon 联盟，基于体育和户外运动项目，基本上把各种选品手段都用上了，FB 选品、亚马逊热销选品，现在应该想办法创造点流量了吧，大家帮我看看是否还有什么可以改善的，感谢！
-我的联盟站地址： &lt;a href="https://awn60.vip/" rel="nofollow"&gt;https://awn60.vip/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:12:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010157#reply0</guid></item><item><title>[服务器] 1 台普通 VPS 如何用上另 1 台 GIA 线路 VPS 的流量</title><link>https://www.v2ex.com/t/1010156#reply3</link><description>&lt;p&gt;RT ，目前有 1 台 CN GIA 的丐版瓦工 VPS ，内存小硬盘小，偶尔用来下载 google drive 的文件，其它时间基本吃灰中。
-另外一台 DC2 的 RN ，配置比瓦工的稍微好点，但是电信网络晚高峰不行。目前上面挂着 reality,还有一个小站。&lt;/p&gt;
-&lt;p&gt;需求：希望 reality ，还有国内访问小站，能够走 GIA 线路，用上瓦工这台的流量。之前看到过一些介绍，是用反代吗？
-这块对我完全是知识盲区，想问问有没有类似的操作指南，或者能给一些搜索关键词。&lt;/p&gt;
-&lt;p&gt;最终目的就是希望组合成 RN 的硬盘+瓦工的流量。&lt;/p&gt;
-&lt;p&gt;--&lt;/p&gt;
-&lt;p&gt;另外想请问，这种操作，直接暴露的是哪一台的 IP 啊？（不考虑套 CF ）
-瓦工因为换 ip 要 5 刀，可以的话希望是暴露 RN 的 IP ，如果 IP 挂了我就不续费 RN 了，到期再换台机器。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:10:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010156#reply3</guid></item><item><title>[程序员] windows 下 jmeter 界面显示异常可能是什么问题？</title><link>https://www.v2ex.com/t/1010155#reply1</link><description>&lt;h2&gt;如下图，jmeter 为最新版 5.6.3&lt;/h2&gt;
-&lt;p&gt;java 版本
-java version "17.0.8" 2023-07-18 LTS
-Java(TM) SE Runtime Environment (build 17.0.8+9-LTS-211)
-Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)&lt;/p&gt;
-&lt;p&gt;windows11 系统  23H2&lt;/p&gt;
-&lt;h3&gt;&lt;/h3&gt;
-&lt;p&gt;不知道是不是显卡驱动的问题，用的是默认微软提供的驱动，出现问题的目前也就这一个软件。试过 jmeter 的 5.0 旧版本，也有这个问题。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;如果把打开 jmeter 后把窗口点全屏显示，这些黑块有可能会消失&lt;/li&gt;
-&lt;li&gt;如果在 jmeter 右键菜单，可能出现黑块，可能不出现
-&lt;img alt="s0WVU.png" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/19/s0WVU.png" /&gt;
-&lt;img alt="s0Sju.png" class="embedded_image" rel="noreferrer" src="https://i0.imgs.ovh/2024/01/19/s0Sju.png" /&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 19 Jan 2024 15:10:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010155#reply1</guid></item><item><title>[程序员] 耗时一个半月开源了一个响应式电商项目，最小 MVP，基于 Nextjs14 最新设计组合</title><link>https://www.v2ex.com/t/1010154#reply0</link><description>&lt;p&gt;项目在线演示地址：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;docker 部署地址：&lt;a href="http://shop.huanghanlian.com/" rel="nofollow"&gt;http://shop.huanghanlian.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;vercel 部署地址：&lt;a href="https://c-shopping-three.vercel.app/" rel="nofollow"&gt;https://c-shopping-three.vercel.app/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;项目传送门：&lt;a href="https://github.com/huanghanzhilian/c-shopping" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;如果你觉得有帮助，请给我一个 Star&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:58:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010154#reply0</guid></item><item><title>[分享发现] 分享下 ChatGPT 镜像站点</title><link>https://www.v2ex.com/t/1010153#reply0</link><description>&lt;p&gt;不想开通 PLUS 的，又想用 ChatGPT 的可以看看&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.ealxc.com" rel="nofollow"&gt;https://www.ealxc.com&lt;/a&gt;  或者  &lt;a href="https://www.ealxc.cn" rel="nofollow"&gt;https://www.ealxc.cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;无次数限制，GPT-3.5 可以免费使用  GPT-4.0 最低充值 9.9 就可以使用&lt;/p&gt;
-&lt;p&gt;对于不喜欢 PLUS 那三小时 40 次限制的，可以使用 API 镜像站，尤其一旦用 ChatGPT 处理工作的时候，40 问询次数压根就不够用&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:55:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010153#reply0</guid></item><item><title>[职场话题] 应届毕业生 OFFER 选择，求职场老前辈指点迷津</title><link>https://www.v2ex.com/t/1010151#reply7</link><description>&lt;h1&gt;个人背景:&lt;/h1&gt;
-&lt;p&gt;双 2 ，在实验室干了两年 java 开发（玩具级项目）&lt;/p&gt;
-&lt;h1&gt;选择 1&lt;/h1&gt;
-&lt;p&gt;福报 HZ ，java 后端开发，nx16, 房补以及签字费&lt;/p&gt;
-&lt;h2&gt;优势：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;还是干 java,java 就业面广。被优化应该也能混口饭吃。&lt;/li&gt;
-&lt;li&gt;实习转正，感觉组里氛围不错，(+1,+2)人也挺 nice&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;劣势：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;福报持续走低，公司人事动荡，进去很可能，被优化。&lt;/li&gt;
-&lt;li&gt;部门比较老，业务很复杂，虽然做的是高并发的业务，但是我一个小人儿没个一年半载也接触不到。&lt;/li&gt;
-&lt;li&gt;因为 2 ，发展会很受限&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;选择 2&lt;/h1&gt;
-&lt;p&gt;菊厂 WH ，终端，平板软开，具体大概率 hm 软开，小概率 hm 系统开发，(n-3)x16 ，20%的绩效，其他无。&lt;/p&gt;
-&lt;h2&gt;优势：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;WH 物价低，房价低，我也是 HB 人。&lt;/li&gt;
-&lt;li&gt;据说“菊厂比互联网稳”。&lt;/li&gt;
-&lt;li&gt;我对菊优势的基本判断是：ICT 基本盘稳固，终端消费业务强劲，曻腾 AI 算力租售未来可期。当然公司稳中向好和我个人是否被优化没啥相关性。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;劣势：&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;要转语言，从 java 到 HM 客户端，跨度大，后者就业面超极窄。&lt;/li&gt;
-&lt;li&gt;输出，输出，还是输出。虽然应届生保护两年，但是满一年就会被输出到一线干销售。这可不是转岗，是转行。&lt;/li&gt;
-&lt;li&gt;假如被输出了，一年的 hm 开发经验我感觉我跳不了槽。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;我的判断&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;我是个比较悲观的人，一般来说都会做最坏的打算。我觉得一家公司肯定干不了两年就要走，要么主动走，要么被动走。这种情况下，还是福报跳槽有优势，至少 JAVA 的就业面摆在那里。在只干两年的前提下，折合补贴及签字费，年入比菊厂多了 13~15 个 W ，拿到手里的才是真的&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;但是菊厂 WH 开的价在 WH 也不算特别低了。而且国家现在强推 HM ，万一进去了猜到风口了？而且自认为我还是一个比较能卷的人，情商不算特别低。在菊厂的学长也觉得我应该可以在里面拼一下。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;问题的本质在于：赌我被菊厂一年输出还是 4 年不续签。一年输出我是菊厂黑子；四年不续签，我觉得我也能把(HM)客户端玩儿个差不多，跳槽应该不至于完全跳不了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;请各位大佬不吝赐教，到底应该如何选择，以及还有哪些我没有考虑到的东西，特别是菊厂、耀荣、BAT 等互联网大厂的老前辈指点迷津。救人一命胜造七级浮屠！万分感谢，留个公司地址请您喝奶茶&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:37:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010151#reply7</guid></item><item><title>[Bitcoin] 想起还有些币没提</title><link>https://www.v2ex.com/t/1010150#reply3</link><description>&lt;p&gt;有没有老司机解惑
-想起还有些币没提
-&lt;a href="http://huobi.info" rel="nofollow"&gt;huobi.info&lt;/a&gt; 账号密码都想起来
-卡谷歌两步验证了 就是那个谷歌身份验证 app 死活都没数字码
-切换了 3 个谷歌号了 是不是无解了&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:33:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010150#reply3</guid></item><item><title>[音乐] 朋友们，有没有平价 CD 机推荐？</title><link>https://www.v2ex.com/t/1010149#reply2</link><description>&lt;p&gt;买了张蘇打純白等人作曲的&lt;a href="https://item.taobao.com/item.htm?id=759126133713" rel="nofollow"&gt;《中华少女 Remeet 》&lt;/a&gt;，虽然更多是出于情怀以及收藏的意图。&lt;/p&gt;
-&lt;p&gt;但是买了总不能干放着对吧？&lt;/p&gt;
-&lt;p&gt;所以……有没有平价 CD 机推荐啊朋友们。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:31:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010149#reply2</guid></item><item><title>[程序员] 《国产编程语言蓝皮书-2023》开启申报</title><link>https://www.v2ex.com/t/1010148#reply1</link><description>&lt;p&gt;由编程语言开放社区（ PLOC ）组织编写的《国产编程语言蓝皮书-2023 》开启申报了！&lt;/p&gt;
-&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;PLOC 是由国内从业者自发组建的、编程语言及编译器专业社区。相较于其他松散兴趣组，PLOC 社区有明确的纲领和愿景、完整的制度章程、严密的组织结构，常设有决策机构（社区理事会）、综合服务机构（理事会秘书处），通过专业委员会推动社区建设和活动开展。目标是是增大基数（推动更多的编程语言项目启动）、提高系数（延长项目存活时间），助力国产根软件的发展。&lt;/p&gt;
-&lt;p&gt;编撰发布《国产编程语言蓝皮书》——即项目黄页，是该规划的第一步。我们希望蓝皮书尽可能客观地反映国内实用型编程语言项目的总体情况，为行业内外提供全局视角，协助工业界需求方寻找合适的语言、帮助编程语言爱好者寻找可参与贡献的开源项目。蓝皮书将定期发布，以追踪行业最新进展。&lt;/p&gt;
-&lt;h2&gt;申报方法&lt;/h2&gt;
-&lt;p&gt;蓝皮书收录方法为各项目自主申报，国内发起的编程语言、编译器工具项目可发起 PR ，在 &lt;a href="https://gitee.com/ploc-org/CNPL-2023/tree/master/projects" rel="nofollow"&gt;https://gitee.com/ploc-org/CNPL-2023/tree/master/projects&lt;/a&gt; 目录中增加项目同名目录，填入项目资料，收录标准和具体申报流程见文末链接。&lt;/p&gt;
-&lt;h2&gt;申报时间&lt;/h2&gt;
-&lt;p&gt;即日起至 2024 年 1 月 31 日。&lt;/p&gt;
-&lt;h2&gt;相关链接&lt;/h2&gt;
-&lt;p&gt;《国产编程语言蓝皮书-2023 》工作区： &lt;a href="https://gitee.com/ploc-org/CNPL-2023" rel="nofollow"&gt;https://gitee.com/ploc-org/CNPL-2023&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;《国产编程语言蓝皮书-2023 》模板： &lt;a href="https://gitee.com/ploc-org/CNPL-2023/blob/master/pre.md" rel="nofollow"&gt;https://gitee.com/ploc-org/CNPL-2023/blob/master/pre.md&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原文链接： &lt;a href="https://mp.weixin.qq.com/s/TDJXkhSrcbjT_H4sKuneFA" rel="nofollow"&gt;https://mp.weixin.qq.com/s/TDJXkhSrcbjT_H4sKuneFA&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 14:30:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010148#reply1</guid></item></channel></rss>
+&lt;a href="http://t.me/HiVisionPro" rel="nofollow"&gt;t.me/HiVisionPro&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:29:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010160#reply3</guid></item><item><title>[酷工作] [远程] Web 3 招募远程人员 - 运维，前后端， Golang 开发 - 期货交易，客服</title><link>https://www.v2ex.com/t/1010158#reply1</link><description>Web 3 招募人才！&lt;br /&gt;&lt;br /&gt;团队背景：前 3 大交易所深耕经验！&lt;br /&gt;&lt;br /&gt;工作模式：远程办公&lt;br /&gt;&lt;br /&gt;寻找有 1-2 年经验在区块链-DEX/CEX/金融背景的小伙伴加入！&lt;br /&gt;&lt;br /&gt;目前创业阶段，寻找不怕吃苦，能接受目前 6 天制的同学一起打拼，盈利之后大家一块分红！&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[运维工程师]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责交易系统平台的运维工作，主要包括日常维护、系统变更、问题处理、应急处置、技术支持、安装部署等，保障应用系统的安全稳定运行&lt;br /&gt;- 参与交易系统技术架构的规划建设工作，如高可用架构、分布式部署、多活负载均衡等，分析评估应用系统容量与性能，提高系统运行可靠性&lt;br /&gt;- 参与持续交付、持续部署、运维工具开发等工作，提高交付质量和效率，提升互联网应用的自动化运维、监控运维水平&lt;br /&gt;- 按运维规范编制、更新应用系统技术资料&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 具备 5 年及以上工作经验，有互联网运维开发、中心化交易所运维开发经验者优先&lt;br /&gt;- 有 Docker 和 AWS 运维经验&lt;br /&gt;- 有自动化 CICD 方面的良好实践&lt;br /&gt;- 熟悉 Rancher / Kubernetes 架构和组件，在高可用集群设置和维护方面拥有丰富经验&lt;br /&gt;- 拥有部署，运维，监控，优化和排除云基础架构故障的经验&lt;br /&gt;- 精通 Shell 脚本，Python 等 DevOps 常用开发语言&lt;br /&gt;- 熟悉 Docker 和 Linux 内核配置优先；&lt;br /&gt;- 具有较强风险意识，责任心强，积极主动，富有团队协作精神，具备良好的沟通能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[Golang 开发 - 期货交易，引擎撮合]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责期货交易、撮合引擎的开发&lt;br /&gt;- 有 Golang 规划开发高并发系统经验、优化系统实践&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 1 年以上交易所相关经验，对交易撮合的开发有深入了解 &lt;br /&gt;- Golang 开发经验，有 C++经验者优先。&lt;br /&gt;- 熟悉 Mysql 、Redis…等中间件&lt;br /&gt;- 熟悉单元测试。&lt;br /&gt;- 良好的团队合作，重视开发默契，能够适当沟通协调&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[前端开发- React]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 使用 React 语言构建高性能、可靠的跨平台前端应用。&lt;br /&gt;- 与设计和后端团队合作，确保前端与用户界面的一体化。&lt;br /&gt;- 开发和维护用户界面，优化用户体验和页面性能。&lt;br /&gt;- 解决和优化跨浏览器兼容性问题，确保各种设备的一致性。&lt;br /&gt;- 持续优化网站性能，确保用户体验的最佳化。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 4 年工作经验及以上，1 年以上交易所相关经验&lt;br /&gt;- 熟练掌握 HTML 、CSS 、JavaScript 、LESS 、SCSS 、Typescript 、动画、协议、安全、网络、WebSocket 、SEO 、SSR 、SSG 、性能优化等前端技术等 Web 前端开发语言；  &lt;br /&gt;- 熟悉前端框架：React 、NextJs 、Monorepo ，有开发经验者优先考虑；&lt;br /&gt;- 熟悉 Webpack 、Gulp 等自动化构建工具，了解 Node.js 、NPM 、Vercel 、Vite 等开发工具；&lt;br /&gt;- 具备良好的服务意识、责任心、细心、热爱技术、优秀的团队沟通与协作能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作；&lt;br /&gt;&lt;br /&gt;[中文客服 - 工作时间：北京时间下午 2 点到晚上 11 点]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 提供高效、友好的客户支持，解答用户关于交易和平台使用的问题。&lt;br /&gt;- 与团队协作，协调解决复杂问题，确保客户的需求得到妥善处理。&lt;br /&gt;- 接受公司提供的培训，熟悉产品和服务，以更好地为客户提供支持。&lt;br /&gt;- 记录并报告用户反馈，收集市场问题数据，以帮助优化产品和服务。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 具备较强的沟通协调能力，能够协调内外部资源处理用户投诉。&lt;br /&gt;- 具备较强的学习能力和适应能力，持续学习并了解行业的最新发展，以提供准确的信息。&lt;br /&gt;- 对 Web 3, 金融知识，区块链行业有浓厚兴趣，有相关经验者优先。&lt;br /&gt;- 具有团队合作精神，充满工作热情，人品正直诚实，能承受工作压力。&lt;br /&gt;- 良好的中文书写和沟通能力。&lt;br /&gt;- 公司提供培训。&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Fri, 19 Jan 2024 15:18:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010158#reply1</guid></item><item><title>[分享创造] 最近一直在思考如何出海搞钱，突然想到了，做个电商联盟站点</title><link>https://www.v2ex.com/t/1010157#reply0</link><description>&lt;p&gt;这是我的第一个电商联盟站点，是基于 Amazon 联盟，基于体育和户外运动项目，基本上把各种选品手段都用上了，FB 选品、亚马逊热销选品，现在应该想办法创造点流量了吧，大家帮我看看是否还有什么可以改善的，感谢！
+我的联盟站地址： &lt;a href="https://awn60.vip/" rel="nofollow"&gt;https://awn60.vip/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:12:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010157#reply0</guid></item></channel></rss>
