@@ -1,127 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 19 Jan 2024 23:45:33 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Sony WH-1000XM5 多设备连接 切换设备音量自动最大 求解决办法</title><link>https://www.v2ex.com/t/1010183#reply1</link><description>&lt;p&gt;Sony WH-1000XM5 设置多设备连接. 设备都是设置 30% 音量
-当每次切换设备, 音量自动变大 100%.
-尝试重新连接, 重置耳机, 均无效.&lt;/p&gt;
-&lt;p&gt;每次听着歌, 突然来电就会吓一跳
-求解决办法!&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 22:04:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010183#reply1</guid></item><item><title>[问与答] 关于早产宝宝的焦虑</title><link>https://www.v2ex.com/t/1010182#reply4</link><description>&lt;p&gt;记录一下这几天的大起大落，以及现在的心情，求同款经验传授一下，感谢感谢。
-老婆 16 号 34+5 周产检红灯，直接被医生扣下住院。确诊重度子痫前期。
-17 号保胎 1 天后，血压控制不住，医生建议直接剖腹产。小地方医院不放心，申请转院。
-17 号奔波 150 公里转入三甲医院。血压暂时稳定，医生保胎治疗争取足月。
-18 号状态总体都不错，做了各种检查。
-19 号早上，接着检查，到中午全部检查结束，医生说都很好。
-19 号下午，准备胎心监护，我通宵好几天，回宾馆好好睡了几个小时，给老婆发微信准备晚餐。没想到说胎心监护一直没过，宝宝不怎么动。医生准备直接手术了。吓得我赶紧跑到病房，三个主任医师共同建议直接手术。
-19 号晚上 7 点，签各种通知书，7 点 20,老婆被推进手术室。
-晚上 8 点，手术室门打开，早产男宝宝 35+1 周，，体重 4 斤 6 两。然后办理 nicu ，送入保温箱。因为我爸办理宝宝后续的住院，医生只说宝宝力气大，没有问评分。
-晚上 8 点 40,老婆出手术室。目前母子平安。
-然后就是照顾老婆，喝了两罐红牛，一包烟，手机一直在查询早产宝宝的信息，照顾孕妇的信息，又想着年关月嫂的事情。
-感觉好乱，担心，害怕。有种不知所措的无力感。&lt;/p&gt;
-&lt;p&gt;看不到宝宝，不知道宝宝的情况，有没有人能安慰一下，或者有类似经历的 v 友给点经验吧。。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 21:22:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010182#reply4</guid></item><item><title>[程序员] mattermost 装的私有 slack 服务器为什么无法发起 voice call?</title><link>https://www.v2ex.com/t/1010181#reply1</link><description>&lt;p&gt;跑在自己家里的 PVE 上的 mattermost ，一切都可以，除了无法发起 voice call ，查了一圈 github 没找到问题如何解决，这里也许会有人知道？&lt;/p&gt;
-&lt;p&gt;另外这个 mattermsot 私有化部署聊天挺方便了，&lt;a href="https://talk.ixdeal.com" rel="nofollow"&gt;https://talk.ixdeal.com&lt;/a&gt; ， 有兴趣的留下邮件我发邀请给你们进来玩啊。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 20:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010181#reply1</guid></item><item><title>[浏览器] Google Chrome 已支持使用 Zstandard（zstd）作为 Content-Encoding</title><link>https://www.v2ex.com/t/1010179#reply3</link><description>&lt;p&gt;&lt;a href="https://chromestatus.com/feature/6186023867908096" rel="nofollow" title="Zstd Content-Encoding - Chrome Platform Status"&gt;Zstd Content-Encoding - Chrome Platform Status&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Zstandard （ zstd ）是一个具有高压缩比和高解压速率的无损数据压缩算法，详细请看官方介绍页面： &lt;a href="https://facebook.github.io/zstd/" rel="nofollow"&gt;https://facebook.github.io/zstd/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;长期以来，由于 zstd 缺少标准化的字典，Mozilla Firefox 等浏览器的开发者拒绝使用 zstd 作为 Content-Encoding 。&lt;/p&gt;
-&lt;p&gt;但目前 IETF HTTP 工作组正在起草一份 &lt;a href="https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-compression-dictionary" rel="nofollow"&gt;Compression Dictionary Transport&lt;/a&gt; 标准化文件，以允许网站提供适用于自身的外部字典。而这解决了 zstd 缺少标准化字典的问题。&lt;/p&gt;
-&lt;p&gt;因此 Chromium 开发团队在 2023 年 6 月为 Chromium 添加了“Zstd Content-Encoding”特性。&lt;/p&gt;
-&lt;p&gt;目前该特性仍然处于开发者试用阶段，需要手动启用：&lt;code&gt;chrome://flags/#enable-zstd-content-encoding&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;但是既然在中文互联网上没有人提及这件事，那么说明这玩意其实使用率不高……&lt;/p&gt;
-&lt;p&gt;别说 zstd 了，哪怕谷歌的 Brotli 使用率也低，大部分网站或者说 CDN 仍然在使用 gzip （ DEFLATE ）。&lt;/p&gt;
-&lt;p&gt;不过对于小众网站，尤其是托管在“小水管”中国内地服务器的个人博客来说，仍然是一种可以显著减轻服务器带宽压力的方案。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 19:07:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010179#reply3</guid></item><item><title>[问与答] 耳朵来大姨妈了</title><link>https://www.v2ex.com/t/1010178#reply2</link><description>今天晚上我无意见用手摸了一下耳朵，然后一阵疼痛和手指上的血，我就用纸擦（除血以外，还有白色的东西，就像是挤痘痘挤出来的白色东西一样），没血之后再擦就是想水一样颜色重一点有点像血，所以说这是个是个东西？（如果就是个痘痘就算了）   有没有知道的大佬，谢谢了</description><pubDate>Fri, 19 Jan 2024 18:56:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010178#reply2</guid></item><item><title>[问与答] 睡不着，偷偷➕了一次，还是睡不着，啊啊啊！</title><link>https://www.v2ex.com/t/1010177#reply5</link><description>满脑子跑火车&lt;br /&gt;啪啪的&lt;br /&gt;&lt;br /&gt;好烦&lt;br /&gt;神经兮兮代表</description><pubDate>Fri, 19 Jan 2024 18:47:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010177#reply5</guid></item><item><title>[Apple] 为什么 Vision Pro 的通用处理器参数部分挺克制的？</title><link>https://www.v2ex.com/t/1010176#reply10</link><description>&lt;p&gt;其他的 光学、传感器、声音、R1 芯片 啥的我也不懂；&lt;/p&gt;
-&lt;p&gt;就看通用处理器部分，标配 m2 芯片，CPU 8 核（ 4E+4P ），GPU 10 核，AI 引擎 16 核， 内存 16GB ；&lt;/p&gt;
-&lt;p&gt;这不是普通 m2 macbook air 的配置拉了下内存么？&lt;/p&gt;
-&lt;p&gt;是 apple silicon 太强了，还是苹果克制了，还是当前配置完全撑得住使用场景？&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 18:43:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010176#reply10</guid></item><item><title>[投资] 用圆弧转换时间和价格</title><link>https://www.v2ex.com/t/1010175#reply0</link><description>&lt;p&gt;前一段时间，我发了&lt;a href="https://v2ex.com/t/1007350" rel="nofollow"&gt;这个贴子&lt;/a&gt;预测趋势结束的时间，在读了一些回复之后我醒悟到很多人都认为那个图可以预测价格（其实不能），所以我在这个解释一下为什么要用圆，以及一点基础的用法。根据江恩理论，本质上时间和价格是等同的，所以我们可以在 x 轴（时间）和 y 轴（价格）之间相互转换，画圆是最为快速的方法。如果你觉得江恩理论是玄学垃圾，我可以理解因为他说的占星那些是很奇怪，但是我个人认为“不管黑猫白猫，捉住老鼠就是好猫“。&lt;/p&gt;
-&lt;p&gt;价格的波动是一个向量（ vector ），每个波动都会在时间和价格上导致未来周期性的波动（就好像大自然的一年四季一样），我们需要从向量中提取时间和价格，用来预测未来价格上和时间上的转折点。这个方法在任何时间段上都可以用。&lt;/p&gt;
-&lt;p&gt;图片示例 1: &lt;a href="https://imgse.com/i/pFEaTNn" rel="nofollow"&gt;https://imgse.com/i/pFEaTNn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="example1" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaTNn.png" /&gt;&lt;/p&gt;
-&lt;p&gt;下一个图演示如何获得时间和价格的转折点。图中的向量是从高到低（圆心在高价处），所以 3 点钟预测的是上升趋势结束时间，你可以想象一下价格沿着圆弧从 6 点钟往 3 点钟逆时针往上爬，开始很缓慢，然后在接近 3 点钟处几乎是直线上升。如果向量是从低到高（圆心在低价处），预测的是下降趋势结束。&lt;/p&gt;
-&lt;p&gt;图片示例 2: &lt;a href="https://imgse.com/i/pFEaoAs" rel="nofollow"&gt;https://imgse.com/i/pFEaoAs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="example2" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaoAs.png" /&gt;&lt;/p&gt;
-&lt;p&gt;用圆弧转换时间和价格牵涉到调整价格时间比率，我们也可以用 50%或其它比率的角度线预从价格来测时间上的转折点，但是这样得出的转折点不能预测方向。&lt;/p&gt;
-&lt;p&gt;图片示例 3: &lt;a href="https://imgse.com/i/pFEaxHJ" rel="nofollow"&gt;https://imgse.com/i/pFEaxHJ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="example3" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/01/20/pFEaxHJ.png" /&gt;&lt;/p&gt;
-&lt;p&gt;对于用几何分析价格有兴趣的朋友可以看 The Geometry of Stock Market Profits, 作者是 Michael S. Jenkins 。我所学到的很多技术都从他写的书里学到的。最后，我不在国内很久，如果我的表达有问题或者阐述上有歧义，在这里先对不起了。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 18:23:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010175#reply0</guid></item><item><title>[问与答] 求推荐个便宜的将来能支持 wifi7 的手机</title><link>https://www.v2ex.com/t/1010174#reply0</link><description>目前只找到一个 红米 k60 pro</description><pubDate>Fri, 19 Jan 2024 17:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010174#reply0</guid></item><item><title>[iCloud] Icloud 跑了 30 多个 G 的流量，如何设置不会再出现这个情况</title><link>https://www.v2ex.com/t/1010171#reply1</link><description>昨天早上开通了 icloud ，白天插着电，但是没有 wifi ，中午突然提醒流量不足，发现结转的流量和当月的流量，用去 40 多个 g ，icloud 的同步会走蜂窝数据吗？</description><pubDate>Fri, 19 Jan 2024 16:52:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010171#reply1</guid></item><item><title>[macOS] 为什么 Mac OS 会默认把 sd 卡格成两个分区？</title><link>https://www.v2ex.com/t/1010170#reply0</link><description>&lt;p&gt;用 MacBook 格式化一张存储卡成 exfat ，格式完显示两个分区，多出一个 200MB 的 Ufi 分区，在 Windows 上用分区工具删除这个分区后，回到 MacBook 再次格式化，分区又回来了，为啥 Mac 会这样？&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:51:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010170#reply0</guid></item><item><title>[Windows] win 下如何以管理员权限开机自启应用？</title><link>https://www.v2ex.com/t/1010169#reply3</link><description>我是在使用站内大佬开发的 pixpin 的时候发现的 win 不能以管理员权限开机自启应用，除非把 uac 给关闭，但这样总感觉有点慌🫠🫠。各位大佬有什么解决途径么。</description><pubDate>Fri, 19 Jan 2024 16:34:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010169#reply3</guid></item><item><title>[分享创造] 过滤已经阅览过的重复文件, 适合电影, 书籍, 文档</title><link>https://www.v2ex.com/t/1010167#reply5</link><description>&lt;h3&gt;经常下种子, 电影, 书籍, 游戏, 压缩包,等一大堆文件, 想过滤之前已经阅览过的文件.&lt;/h3&gt;
-&lt;br /&gt;
-&lt;h3&gt;久而久之就想有一款可以记录当前文件存入数据库的软件, 下次再下电影, 书籍时则可以直接过滤.&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://i.imgur.com/3xMc3nG.png" rel="nofollow"&gt;https://i.imgur.com/3xMc3nG.png&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;程序使用方法&lt;/h2&gt;
-&lt;h3&gt;Files 是需要过滤的文件目录, 也就是说把看过或者需要判断是否阅览过的文件放到里面(递归)&lt;/h3&gt;
-&lt;h3&gt;FileDeduplication.exe 以上工作做好以后启动即可.&lt;/h3&gt;
-&lt;h3&gt;SQLite.db 是数据库, 如果想重置数据库直接删除掉, 再启动程序, 程序会自动生成一个空的数据库.&lt;/h3&gt;
-&lt;h3&gt;半年前写的程序, 本来想写一个带界面, 支持拖动的, 精力有限, 自己使用就将就将就了.&lt;/h3&gt;
-&lt;h3&gt;手机没电了, 电脑只登录有百度云, 只能上百度云链接了&lt;/h3&gt;
-&lt;h3&gt;百度云: &lt;a href="https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234" rel="nofollow"&gt;https://pan.baidu.com/s/1PJPJXSXahn5M0fkWaep_Ew?pwd=1234&lt;/a&gt;&lt;/h3&gt;</description><pubDate>Fri, 19 Jan 2024 16:18:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010167#reply5</guid></item><item><title>[职场话题] 分享一个应届生找工作遇到的公司 HR 迷操作</title><link>https://www.v2ex.com/t/1010166#reply2</link><description>&lt;p&gt;11 月的时候在 linkedin 上看到一个在 moveworks （一个和 OpenAI 同赛道的公司）的 hm 发了个帖子说在招人。看到有一个岗位和之前的实习经历很接近就发了一个私信求了一个内推。&lt;/p&gt;
-&lt;p&gt;hm 大姐也非常给力的把我的简历推给了 hr 部门，hr 部门也联系我让我再发一次简历他们去找组。这里也是很感谢 HM 大姐能帮小弟一手。&lt;/p&gt;
-&lt;p&gt;我很乐意的第二天就把简历发过去，结果第三天一大早就收到了一个模板拒信。&lt;/p&gt;
-&lt;p&gt;好吧，我也认了，毕竟大环境差，你们公司 hr 兵贵神速，半天就知道没有组看得上我。&lt;/p&gt;
-&lt;p&gt;快进 4 周，这同一个 hr 又发邮件和我说要约一个电话聊聊机会。哥们我出于礼貌还是同意了，约了第二天的电话。&lt;/p&gt;
-&lt;p&gt;结果这 hr 又临时放鸽子说有事，要改到下周。行吧，下周那就改。问了几个时间行不行，然后又开始装死了。&lt;/p&gt;
-&lt;p&gt;这公司 hr 水平真的难绷，还好我已经找到一个理想的工作了，不然又给他拿捏了。&lt;/p&gt;
-&lt;p&gt;送一句 Fortunately, I have moved on with other company instead. 给这家公司好了。今年遇到的奇葩公司真的不少，市场差就可以随便拿捏应聘者吗，是觉得自己不会找工作了吗。&lt;/p&gt;
-&lt;p&gt;也希望还在找工的应届生朋友们早日上岸好公司。&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:07:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010166#reply2</guid></item><item><title>[分享创造] 分享过去一年我用 ChatGPT API 结合 vscode 插件写的生产力工具</title><link>https://www.v2ex.com/t/1010165#reply0</link><description>&lt;h3&gt;OCR + ChatGPT 翻译&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240119234829752-1525181288.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;OCR 白嫖百度的，因为 nodejs 没法读取剪贴板里的图片，只能打开一个 webview 去读取。&lt;/p&gt;
-&lt;h3&gt;生成 value-label 格式 JSON&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240118100344765-2042915687.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;使用了 &lt;code&gt;TypeChat&lt;/code&gt;，如果 ChatGPT 返回的结果有问题，带上错误信息重试 3 次进行修复。&lt;/p&gt;
-&lt;h3&gt;中文翻译成驼峰格式&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240118100344764-1885931388.gif" /&gt;&lt;/p&gt;
-&lt;h3&gt;当前目录翻译成英文&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240118100344651-1324195648.gif" /&gt;&lt;/p&gt;
-&lt;h3&gt;快速创建代码模板&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2024.cnblogs.com/blog/738362/202401/738362-20240118100344714-332773414.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;还有一些比较复杂的功能就不一一展示了，每一个小功能我定义为物料，可以自定义代码逻辑，独立在 vscode 插件外部，相当于 vscode 插件套娃。&lt;/p&gt;
-&lt;p&gt;插件源码： &lt;a href="https://github.com/lowcoding/lowcode-vscode" rel="nofollow"&gt;https://github.com/lowcoding/lowcode-vscode&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;展示的物料源码： &lt;a href="https://github.com/lowcode-scaffold/lowcode-materials" rel="nofollow"&gt;https://github.com/lowcode-scaffold/lowcode-materials&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 16:07:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010165#reply0</guid></item><item><title>[Apple TV] apple tv 启动 surge 后就无法看 ipv6 直播源</title><link>https://www.v2ex.com/t/1010164#reply1</link><description>有人遇到过这个问题吗,要怎么配置去解决啊</description><pubDate>Fri, 19 Jan 2024 15:58:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010164#reply1</guid></item><item><title>[分享创造] [独立开发前线] Vol.002 用“笨办法”获取前 1000 个用户</title><link>https://www.v2ex.com/t/1010162#reply0</link><description>&lt;p&gt;如果你还苦于不知道如何启动推广你的项目，获得早期种子用户，不妨看看这些大佬们的故事：但即便再牛的创业项目，也是用“笨”办法获取前 1000 个用户。&lt;/p&gt;
-&lt;p&gt;Airbnb &lt;/p&gt;
-&lt;p&gt;09 年的时候，Airbnb 每周的营收仅仅为 200 美元，公司的发展遇到的瓶颈。 创始人说，“我发现了一个模式。这 40 个在列表中出现的房型都大同小异，没有好的图片。房东就只是随便拍拍照，或者是在一个角度拍。房客不会对这些看起来相同的房源有兴趣的。” 他们尝试了告诉房东漂亮照片的重要性，也曾经想过写一个拍照 tips 的手册提升房东们的拍照水平，都不太奏效。 &lt;/p&gt;
-&lt;p&gt;最后，他们用了最笨的一个方法—— 去租了一台昂贵的相机，一个个联系网站上的房东，一家家上门去给他们的房间拍照，然后帮他们把旧的照片替换成漂亮的图片。一周之后，网站的营收就从每周 200 美元变成了每周 400 美元，这是 8 个月来，公司收入经历的最大增幅。 &lt;/p&gt;
-&lt;p&gt;Quora &lt;/p&gt;
-&lt;p&gt;Quora 早期面临着所有平台型网站都会遇到的鸡和蛋的问题—— 有内容才有用户，有用户才有内容。作为前 Facebook 的 CTO ，Quora 的创始人 D’Angelo 最早也特别发愁自己的网站上既没有人提问也没有人回答问题，而且这些问题还必须是高质量的。&lt;/p&gt;
-&lt;p&gt;他们开始采用“笨”办法进行冷启动：&lt;/p&gt;
-&lt;p&gt;创始人以及最早期的员工们自己问问题，然后自己回答。 有了最早的这些高质量的问题和答案的存在，很多用户也留了下来。之后他们继续邀请一些测试用户来提出高质量的问题和作出高质量的回答。直到网站的内容已经足够丰富，社区已经人气够旺了，他们才开放了整个网站，让所有用户都可以开始提问、生产内容和维护修改内容。 &lt;/p&gt;
-&lt;p&gt;人人网 &lt;/p&gt;
-&lt;p&gt;早期王兴和王慧文一直苦苦愁于用户注册后的真实信息完善度很低。最早的时候是靠学校礼堂举办的学生节活动，这个活动一票难求。他们花 1000 块钱赞助，换了 100 张门票，然后在校内网做抽奖，要求完善好信息。这样他们获取了 800 名用户。 但这样也裂变不开用户，凑巧的是公司有个朋友总喜欢组织大巴车带同事去爬山。他们想到了学生们放寒假要去火车站。&lt;/p&gt;
-&lt;p&gt;于是发起了一个活动，让学生们填自己的真实信息，以及要乘坐的火车是哪一个火车站哪一列的。只要能在同一个地点同一个时间凑齐 50 个人，校内网就免费发一辆车送大家去火车站。 学生们为了能坐大巴去火车站，主动帮校内网宣传四处拉人注册网站。一辆大巴一天的租金是 500 元，校内网一共花了 1.4 万拉来了 8000 名新用户。而且这个大巴送你去车站的活动仅在清华、北大、人大这三所学校进行，所以早期的注册用户都是这些学校的学生。 有了名校的光环，之后其它学校的学生也不断去这个网站上注册。 &lt;/p&gt;
-&lt;p&gt;目标用户在哪里聚集，想办法去触达他们。 &lt;/p&gt;
-&lt;p&gt;课程格子 &lt;/p&gt;
-&lt;p&gt;同样的还有课程格子的这个项目。最早是招募校内零工手动录入，后来发现在淘宝可以买到学校课程信息的数据。当课程信息准备好后，也开始使用“笨”办法获取种子用户。 当时公司还没有几个人，他们自己去北大发海报贴传单，也渐渐摸清楚了一天什么时候贴海报最有效。而且还能走进校园和学生交流。后来他们在每一个学校里招一个学生代表实习，称为校园大使。他们给这个学生代表提供一些 T-shirt ，抱枕、小卡片、卡套、笔记本这些小东西，用这些小东西做活动。 &lt;/p&gt;
-&lt;p&gt;从 0 到 500 个用户很难，但是从 500 个到 5000 个用户反而更容易。 这些过去的创业故事，给了我们很多启发：&lt;/p&gt;
-&lt;p&gt;1 、早期平台数据的建设全靠自己，冷启动到达一定规模才会质变&lt;/p&gt;
-&lt;p&gt;2 、找到种子用户的聚集地，知道他们在哪儿&lt;/p&gt;
-&lt;p&gt;3 、所有机器难以解决的地方，都上人工 &lt;/p&gt;
-&lt;p&gt;4 、增长的策略也离不开用户需求，解决用户的问题自然就能增长&lt;/p&gt;
-&lt;p&gt;5 、有办法就要去执行落地尝试，不断做不断提升认知&lt;/p&gt;
-&lt;p&gt;订阅：独立开发前线：独立开发者的成长指南！&lt;/p&gt;
-&lt;p&gt;网址： &lt;a href="https://www.91wink.com" rel="nofollow"&gt;https://www.91wink.com&lt;/a&gt;&lt;/p&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://www.91wink.com/wp-content/uploads/2024/01/WechatIMG5.jpg" /&gt;</description><pubDate>Fri, 19 Jan 2024 15:46:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010162#reply0</guid></item><item><title>[Apple] 有今天晚上抢到了 Vision Pro 的朋友吗，交流一下</title><link>https://www.v2ex.com/t/1010160#reply3</link><description>&lt;p&gt;大概流程就是：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;App Store 改为美国商店&lt;/li&gt;
-&lt;li&gt;Face ID 录入流程扫描两次。自动识别合适的尺寸（ S M 等）&lt;/li&gt;
-&lt;li&gt;
-选配眼睛近视情况&lt;ul&gt;
-&lt;li&gt;是否近视&lt;/li&gt;
-&lt;li&gt;是否戴美瞳（ contacts ）&lt;/li&gt;
-&lt;li&gt;是否有视差（ monovision ）&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 20 Jan 2024 09:51:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 今天继续分享一款龙年红包封面</title><link>https://www.v2ex.com/t/1010281#reply0</link><description>&lt;p&gt;封面数目不是很多，老规矩、先到先得。拉进进群领取。有需的，也可以找我付费定制（副业 AI 作图，感谢支持）&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 09:45:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010281#reply0</guid></item><item><title>[分享发现] [假经验贴] 如何成为一个混蛋</title><link>https://www.v2ex.com/t/1010280#reply0</link><description>&lt;p&gt;&lt;em&gt;探讨如何成为一个混蛋&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;用不专业的人来掌握话语权。&lt;/p&gt;
+&lt;p&gt;平常不管事，出事让接盘侠背黑锅。&lt;/p&gt;
+&lt;p&gt;管理混乱，一点都不规范，不考虑长期效果，只追求眼前利益。&lt;/p&gt;
+&lt;p&gt;繁重的工作压在一个工人承担，连个帮手都没有。并贬低他，“你不值得拥有。”&lt;/p&gt;
+&lt;p&gt;搞一套狗屁不通的微服务架构，动不动就服务挂掉，影响工作。&lt;/p&gt;
+&lt;p&gt;加班不给加班费，还强迫加班，连调休都没有。&lt;/p&gt;
+&lt;p&gt;连用户隐私都不在乎，非常敏感的数据直接暴露。&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 09:40:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010280#reply0</guid></item><item><title>[Python] Python 潮流周刊第 36 期（摘要）</title><link>https://www.v2ex.com/t/1010279#reply0</link><description>&lt;p&gt;本周刊由 Python 猫 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。&lt;/p&gt;
+&lt;p&gt;周刊全文： &lt;a href="https://pythoncat.top/posts/2024-01-20-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2024-01-20-weekly&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;以下是本期摘要： &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🦄文章&amp;amp;教程&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;① 一年后的 Python 打包：回顾 2023 年 Python 的打包&lt;/p&gt;
+&lt;p&gt;② PyCon 2023 （美国和澳大利亚）所有演讲视频&lt;/p&gt;
+&lt;p&gt;③ Python 的 Synchronized&lt;/p&gt;
+&lt;p&gt;④ 更快的 Python C 扩展的类型信息&lt;/p&gt;
+&lt;p&gt;⑤ 通过示例比较 Kotlin 和 Python 中的协程&lt;/p&gt;
+&lt;p&gt;⑥ Pydantic 处理 1970 年代时间的奇特问题&lt;/p&gt;
+&lt;p&gt;⑦ 浏览器上的代码游乐场&lt;/p&gt;
+&lt;p&gt;⑧ SQLite 的“database is locked”错误&lt;/p&gt;
+&lt;p&gt;⑨ 数据处理神器可不止 Pandas 哦，还有 Polars ，全方位解析 Polars&lt;/p&gt;
+&lt;p&gt;⑩ 用 Python 函数构建 HTML 组件&lt;/p&gt;
+&lt;p&gt;⑪ 500 行 SQL 实现一个 GPT&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🐿️项目&amp;amp;资源&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;① niquests：使用 HTTP/3 、HTTP/2 ，支持异步的 requests&lt;/p&gt;
+&lt;p&gt;② slotscheck：确保你的__slots__正常工作&lt;/p&gt;
+&lt;p&gt;③ panel：强大的数据探索和 Web 应用框架&lt;/p&gt;
+&lt;p&gt;④ QAnything：基于任何东西的问答&lt;/p&gt;
+&lt;p&gt;⑤ Bert-VITS2-ext: 基于 Bert-VITS2 做的表情、动画测试&lt;/p&gt;
+&lt;p&gt;⑥ weread-exporter: 将微信读书中的书籍导出成 epub 、pdf 、mobi 等格式&lt;/p&gt;
+&lt;p&gt;⑦ leetcode-solution：用 Python 解各种 LeetCode 问题&lt;/p&gt;
+&lt;p&gt;⑧ CapsWriter-Offline: CapsWriter 离线版，好用的 PC 端语音输入工具&lt;/p&gt;
+&lt;p&gt;⑨ surya：任何语言的准确行级文本检测和识别 （ OCR ）&lt;/p&gt;
+&lt;p&gt;⑩ GPT-SoVITS：1 分钟的语音也可训练一个好的 TTS 模型&lt;/p&gt;
+&lt;p&gt;⑪ trt-llm-rag-windows：使用 TensorRTLLM 在 Windows 上创建 RAG 聊天机器人&lt;/p&gt;
+&lt;p&gt;⑫ LangGPT：让每个人都能成为提示词专家&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;查看全文&lt;/strong&gt;： &lt;a href="https://pythoncat.top/posts/2024-01-20-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2024-01-20-weekly&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微信订阅&lt;/strong&gt;： &lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;https://img.pythoncat.top/python_cat.jpg&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;邮箱订阅&lt;/strong&gt;： &lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;https://pythoncat.substack.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 09:37:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010279#reply0</guid></item><item><title>[宽带症候群] 近期 1-2 个月新装的广东联通还有要到公网的吗</title><link>https://www.v2ex.com/t/1010278#reply0</link><description>广东联通家宽</description><pubDate>Sat, 20 Jan 2024 09:07:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010278#reply0</guid></item><item><title>[分享发现] 长点心</title><link>https://www.v2ex.com/t/1010277#reply1</link><description>&lt;p&gt;&lt;a href="https://twitter.com/i/status/1748288775082647770" rel="nofollow"&gt;https://twitter.com/i/status/1748288775082647770&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:52:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010277#reply1</guid></item><item><title>[Spotify] 美区 Spotify 家庭组长期车🚗🚗</title><link>https://www.v2ex.com/t/1010276#reply1</link><description>&lt;p&gt;美区 Spotify 合租 美区 Spotify 家庭组 美区 Spotify 拼车 Spotify 美区会员 需要上车的小伙伴可以加我微信 dudu03jia1&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:51:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010276#reply1</guid></item><item><title>[问与答] 求助 - 前同事欠钱不还,玩失联</title><link>https://www.v2ex.com/t/1010275#reply4</link><description>&lt;p&gt;有没有什么"合法"低成本的方式要回借的钱&lt;br /&gt;
+或者恶心到他，让他付出点代价，总不能让他这么轻松的借钱不还&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:50:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010275#reply4</guid></item><item><title>[问与答] 关于 WSL2 和 Dev home 对于 Java 开发的最佳实践应该是什么样？</title><link>https://www.v2ex.com/t/1010273#reply1</link><description>&lt;p&gt;似乎 Windows 11 现在对于开发者比较重视，接连推出了很多“开发者友好”特性。&lt;/p&gt;
+&lt;p&gt;那么对于 Java 开发者来说，如何最大化利用这些特性呢？&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:25:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010273#reply1</guid></item><item><title>[程序员] [质量内建] 测试之“以器护道”</title><link>https://www.v2ex.com/t/1010272#reply3</link><description>&lt;p&gt;在前文关于简单论述测试之“道术法器”的比喻中，我们简要探讨了软件测试中的常见的几种“器”，如：自动化测试工具、性能测试工具及项目管理和缺陷跟踪工具等。这些工具都是可见的“器”，其核心作用在于体现并实施质量保障过程中的技术和方法论原则，即“承载着‘道’的精神内涵和技术实践”。
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://apipost.oss-cn-beijing.aliyuncs.com/images/2024/01/15/8f42a65a22b033a395bd6e0018d8fd65.png" /&gt;
+然而，在质量管理尤其是软件测试这一领域，“器”的概念不应仅限于有形的工具和软件。更深层次的讲，我们的“器”还应当涵盖无形的要素，例如人员（团队协作与个体技能）、环境（包括基础设施、组织文化及流程规范等）。换言之，在追求高质量保证的过程中，“人”作为主观能动的执行者、规范制定的策划者、工具开发的研究使用者，他们所具备的专业知识、经验、沟通协作能力是不可或缺的“器”；“环境”则是提供给质量保障工作、测试活动顺利开展的基础条件和背景支持，同样体现了“道”的理念在实际工作场景中的落地与应用。
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://apipost.oss-cn-beijing.aliyuncs.com/images/2024/01/15/f2019ce81dfceceec20599c2d4c938c4.png" /&gt;
+所谓“以器护道”，即是借助各种工具、手段和环境条件，来有效保障和贯彻实施质量管理的理论原则与实践方法，确保产品的质量遵循并体现“道”的核心理念。
+“以器护道”意味着在软件测试和质量保证过程中，我们要充分利用自动化工具、性能测试及分析工具、链路追踪工具、项目管理及缺陷管理分析工具等有形的“器”，以及优化团队协作、建设适宜的开发测试环境等无形的“器”。这些“器”既是铠甲也是利剑，既保护了我们遵循的质量管理之道得以顺畅执行，又有力地支撑着产品品质的提升和完善，从而切切实实的实现对“道”的守护。&lt;/p&gt;
+&lt;p&gt;如何实施“以器护道”？
+实施“以器护道”这一理念，首先要精心构建并完善各类工具与环境，使其能够有力支撑和贯彻我们始终坚持的“用户为先，质量为上”的测试之道。&lt;/p&gt;
+&lt;p&gt;无序列表有序列表选择和定制合适的工具&lt;/p&gt;
+&lt;p&gt;根据公司文化和业务特点，打造适用于己的测试平台（效能）和工具，根据项目特点进行深度定制，确保工具能够及时、准确、高效的满足公司人员的使用&lt;/p&gt;
+&lt;p&gt;无序列表优化团队协作流程&lt;/p&gt;
+&lt;p&gt;利用先进的项目管理和缺陷跟踪工具，规范工作流程，提高团队沟通效率，保障测试过程中的信息透明度和问题追踪准确性，从而更好地共同保障产品质量&lt;/p&gt;
+&lt;p&gt;无序列表制定完善的测试策略与计划&lt;/p&gt;
+&lt;p&gt;基于“用户优先，质量为上”的原则，明确测试目标、范围和优先级，喜欢测试用例设计，并通过合理的测试周期安排和资源分配，确保每一步操作都有相应的工具支撑和方法论指导&lt;/p&gt;
+&lt;p&gt;无序列表采用先进的测试技术与理念&lt;/p&gt;
+&lt;p&gt;随着 DevOps 、CI/CD 等理念的推广，结合项目管理、自动化测试、持续集成、自动化部署、实时监控等工具工具链，形成从需求分析、代码提交到产品发布的全流程质量守护体系，实现快速反馈、精准定位并及时解决问题，有效保障产品质量&lt;/p&gt;
+&lt;p&gt;无序列表建设高质量、高可用的测试环境&lt;/p&gt;
+&lt;p&gt;模拟真实用户场景，创建稳定、全面且灵活可配置的软硬件测试环境，确保在不同条件下产品都能表现出优良的性能和用户体验&lt;/p&gt;
+&lt;p&gt;无序列表强化人员能力培养&lt;/p&gt;
+&lt;p&gt;提升测试团队的专业技能与质量意识，通过培训、研讨等方式传播“用户为先，质量为上”的原则与理念，使每个成员都成为守护质量之道的“器&lt;/p&gt;
+&lt;p&gt;根据需要推进敏捷开发与测试文化&lt;/p&gt;
+&lt;p&gt;鼓励团队成员积极参与改进过程，通过站会、复盘等形式促进信息共享，及时调整优化工具和流程，使其始终保持同步更新的状态&lt;/p&gt;
+&lt;p&gt;无序列表建立严格的质量标准与度量体系&lt;/p&gt;
+&lt;p&gt;根据业务特性定义关键性能指标（ KPI ）和质量门禁，借助数据分析工具对测试结果进行量化评估，确保每个“器”都能准确反映出产品的实际质量和用户体验&lt;/p&gt;
+&lt;p&gt;无序列表加强风险管理与预防控制&lt;/p&gt;
+&lt;p&gt;运用风险分析工具识别项目中的潜在质量问题，提前采取应对措施，并通过故障注入、混沌工程等手段模拟极端场景，提升系统韧性和稳定性，真正做到未雨绸缪，全方位守护产品质量之道&lt;/p&gt;
+&lt;p&gt;无序列表持续改进与反馈机制&lt;/p&gt;
+&lt;p&gt;建立有效的反馈回路，定期审视和评估现有“器”的效能，不断调整优化，使之更加契合“用户为先，质量为上”的核心价值观&lt;/p&gt;
+&lt;p&gt;“以器护道”不仅是选择和使用好各类测试工具的过程，更是在整个软件开发生命周期中，将“用户为先，质量为上”的理念融入到每个环节，依托于强大的工具支持和严谨的流程管理，构建出一个动态适应、高效协作的质量保证生态系统。&lt;/p&gt;
+&lt;p&gt;我们将这一系统称之为“大一统”​工程。​&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:12:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010272#reply3</guid></item><item><title>[问与答] 有没有好用的提高生产效率的 AI 应用</title><link>https://www.v2ex.com/t/1010271#reply1</link><description>&lt;p&gt;有没有好用的提高生产效率的 AI 应用&lt;/p&gt;
+&lt;p&gt;GPT 代码开发  ... 都可以&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 08:09:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010271#reply1</guid></item><item><title>[Windows] 2024， 大家还会在 windows 上装杀毒软件 ？</title><link>https://www.v2ex.com/t/1010270#reply26</link><description></description><pubDate>Sat, 20 Jan 2024 08:04:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010270#reply26</guid></item><item><title>[宽带症候群] 带 Wi-Fi 的小主机如何保持无线/有线网卡同时连接</title><link>https://www.v2ex.com/t/1010269#reply4</link><description>手上一台 beelink n5105 小主机装了 Windows11 开启 hyper-v 跑 openwrt 作旁路由&lt;br /&gt;&lt;br /&gt;现在的情况是有线网卡连接了路由器，无线网卡搜索到 Wi-Fi 信号后不会自动连接，每次重启或者断网后必须手动点一下连接才行。已经修改了网卡跃点数，有线网卡优先&lt;br /&gt;&lt;br /&gt;说一下为什么要这样，因为有线网卡的网关指定了 openwrt ，我怕 op 崩溃的话，起码还可以用无线网卡连上小主机做修复</description><pubDate>Sat, 20 Jan 2024 07:59:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010269#reply4</guid></item><item><title>[问与答] 在线围棋课，如何？</title><link>https://www.v2ex.com/t/1010268#reply0</link><description>想让小孩接触下围棋，用在线围棋课如何？&lt;br /&gt;&lt;br /&gt;比如网易纵横围棋，有试过这类在线课程的朋友吗？</description><pubDate>Sat, 20 Jan 2024 07:44:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010268#reply0</guid></item><item><title>[武汉] 有不有很 nice 的月嫂，求介绍</title><link>https://www.v2ex.com/t/1010267#reply2</link><description>&lt;ul&gt;
+&lt;li&gt;位置在光谷这边&lt;/li&gt;
+&lt;li&gt;预产期是 6 月份&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 20 Jan 2024 07:44:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010267#reply2</guid></item><item><title>[酷工作] [滴滴出行-北京、杭州、上海、广州内推] 前端/ Java /Android/iOS/算法/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月 20k-80k，优秀另有期权</title><link>https://www.v2ex.com/t/1010266#reply0</link><description>&lt;p&gt;滴滴 2024 年内推，欢迎各类同学加入。具体如下：  &lt;/p&gt;
+&lt;h3&gt;一、主要招聘职位&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;北京/杭州/上海/广州&lt;/strong&gt;各大城市，&lt;strong&gt;技术&lt;/strong&gt;/&lt;strong&gt;产品&lt;/strong&gt;/&lt;strong&gt;设计&lt;/strong&gt;/&lt;strong&gt;运营&lt;/strong&gt;等岗位均有招。&lt;strong&gt;各类技术岗位&lt;/strong&gt;基本都有，包括前端/Java/Android/iOS/算法/硬件/C/C++/嵌入式/Go/产品/运营等等。&lt;br /&gt;
+业务包括网约车、充电加油、国际化、自动驾驶、企业级、金融、两轮车、代驾、货运、中台、效能等业务。  &lt;/p&gt;
+&lt;p&gt;具体如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;北京：总部。几乎所有业务。技术/产品/设计/运营等岗位均有招。  &lt;/li&gt;
+&lt;li&gt;杭州：充电加油、两轮车、代驾、中台、国际化等业务。技术/产品/设计/运营等岗位均有招。  &lt;/li&gt;
+&lt;li&gt;上海、广州等城市均有相关岗位&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;选配容量（ 256 ，512 ，1024GB ）和 Apple Care+&lt;/li&gt;
-&lt;li&gt;
-选择接受方式&lt;ul&gt;
-&lt;li&gt;线下提取（ pickup ）&lt;/li&gt;
-&lt;li&gt;快递接收（ standard delivery ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;p&gt;最后我是填了「转运地址接收」下单+Apple Pay 支付（绑定的 wise 卡），预计 2 月 2 日 快递发货&lt;/p&gt;
-&lt;p&gt;地址方面，目前订单地址是可以修改的，准备改成朋友的地址让帮忙顺路让背回来&lt;/p&gt;
-&lt;p&gt;但是支付方面。我在支付账单里面看到一个 Apple 0 元的验卡记录（没有真实扣费）&lt;/p&gt;
-&lt;p&gt;因为不怎么海淘，有几个疑惑：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;如果转运地址到香港，过关会麻烦吗？是否属于禁带的物品之类的&lt;/li&gt;
-&lt;li&gt;过关的时候，正规报税多少比例（ 20%？吗），这个如何查询？&lt;/li&gt;
-&lt;li&gt;为啥我最开始下单的时候 Apple Pay 不扣费呢，是因为我卡额度不够吗（ wise 账户 US 账户，下单的时候并没有预留足够多的等值美元，现在已经放进去了。是不是等着后续划款就行了？）&lt;/li&gt;
-&lt;li&gt;本着能不麻烦朋友就不麻烦朋友，一般这种能不能有什么靠谱的找人代背回来的路子（担心被不靠谱的人搞跑路了）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;另外翻了一下论坛好像没什么热度，所以建了一个交流群&lt;/p&gt;
-&lt;p&gt;有抢到的老哥可以加群分享一手，也欢迎各位老哥到时候分享体验：
-&lt;a href="http://t.me/HiVisionPro" rel="nofollow"&gt;t.me/HiVisionPro&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:29:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010160#reply3</guid></item><item><title>[酷工作] [远程] Web 3 招募远程人员 - 运维，前后端， Golang 开发 - 期货交易，客服</title><link>https://www.v2ex.com/t/1010158#reply1</link><description>Web 3 招募人才！&lt;br /&gt;&lt;br /&gt;团队背景：前 3 大交易所深耕经验！&lt;br /&gt;&lt;br /&gt;工作模式：远程办公&lt;br /&gt;&lt;br /&gt;寻找有 1-2 年经验在区块链-DEX/CEX/金融背景的小伙伴加入！&lt;br /&gt;&lt;br /&gt;目前创业阶段，寻找不怕吃苦，能接受目前 6 天制的同学一起打拼，盈利之后大家一块分红！&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[运维工程师]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责交易系统平台的运维工作，主要包括日常维护、系统变更、问题处理、应急处置、技术支持、安装部署等，保障应用系统的安全稳定运行&lt;br /&gt;- 参与交易系统技术架构的规划建设工作，如高可用架构、分布式部署、多活负载均衡等，分析评估应用系统容量与性能，提高系统运行可靠性&lt;br /&gt;- 参与持续交付、持续部署、运维工具开发等工作，提高交付质量和效率，提升互联网应用的自动化运维、监控运维水平&lt;br /&gt;- 按运维规范编制、更新应用系统技术资料&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 具备 5 年及以上工作经验，有互联网运维开发、中心化交易所运维开发经验者优先&lt;br /&gt;- 有 Docker 和 AWS 运维经验&lt;br /&gt;- 有自动化 CICD 方面的良好实践&lt;br /&gt;- 熟悉 Rancher / Kubernetes 架构和组件，在高可用集群设置和维护方面拥有丰富经验&lt;br /&gt;- 拥有部署，运维，监控，优化和排除云基础架构故障的经验&lt;br /&gt;- 精通 Shell 脚本，Python 等 DevOps 常用开发语言&lt;br /&gt;- 熟悉 Docker 和 Linux 内核配置优先；&lt;br /&gt;- 具有较强风险意识，责任心强，积极主动，富有团队协作精神，具备良好的沟通能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[Golang 开发 - 期货交易，引擎撮合]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 负责期货交易、撮合引擎的开发&lt;br /&gt;- 有 Golang 规划开发高并发系统经验、优化系统实践&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 1 年以上交易所相关经验，对交易撮合的开发有深入了解 &lt;br /&gt;- Golang 开发经验，有 C++经验者优先。&lt;br /&gt;- 熟悉 Mysql 、Redis…等中间件&lt;br /&gt;- 熟悉单元测试。&lt;br /&gt;- 良好的团队合作，重视开发默契，能够适当沟通协调&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[前端开发- React]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 使用 React 语言构建高性能、可靠的跨平台前端应用。&lt;br /&gt;- 与设计和后端团队合作，确保前端与用户界面的一体化。&lt;br /&gt;- 开发和维护用户界面，优化用户体验和页面性能。&lt;br /&gt;- 解决和优化跨浏览器兼容性问题，确保各种设备的一致性。&lt;br /&gt;- 持续优化网站性能，确保用户体验的最佳化。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 本科及以上学历，计算机相关专业&lt;br /&gt;- 4 年工作经验及以上，1 年以上交易所相关经验&lt;br /&gt;- 熟练掌握 HTML 、CSS 、JavaScript 、LESS 、SCSS 、Typescript 、动画、协议、安全、网络、WebSocket 、SEO 、SSR 、SSG 、性能优化等前端技术等 Web 前端开发语言；  &lt;br /&gt;- 熟悉前端框架：React 、NextJs 、Monorepo ，有开发经验者优先考虑；&lt;br /&gt;- 熟悉 Webpack 、Gulp 等自动化构建工具，了解 Node.js 、NPM 、Vercel 、Vite 等开发工具；&lt;br /&gt;- 具备良好的服务意识、责任心、细心、热爱技术、优秀的团队沟通与协作能力&lt;br /&gt;- 乐意投身区块链行业，对 Defi 有经验 / 兴趣。适应在敏捷环境中工作；&lt;br /&gt;&lt;br /&gt;[中文客服 - 工作时间：北京时间下午 2 点到晚上 11 点]&lt;br /&gt;&lt;br /&gt;职责：&lt;br /&gt;- 提供高效、友好的客户支持，解答用户关于交易和平台使用的问题。&lt;br /&gt;- 与团队协作，协调解决复杂问题，确保客户的需求得到妥善处理。&lt;br /&gt;- 接受公司提供的培训，熟悉产品和服务，以更好地为客户提供支持。&lt;br /&gt;- 记录并报告用户反馈，收集市场问题数据，以帮助优化产品和服务。&lt;br /&gt;&lt;br /&gt;要求：&lt;br /&gt;- 具备较强的沟通协调能力，能够协调内外部资源处理用户投诉。&lt;br /&gt;- 具备较强的学习能力和适应能力，持续学习并了解行业的最新发展，以提供准确的信息。&lt;br /&gt;- 对 Web 3, 金融知识，区块链行业有浓厚兴趣，有相关经验者优先。&lt;br /&gt;- 具有团队合作精神，充满工作热情，人品正直诚实，能承受工作压力。&lt;br /&gt;- 良好的中文书写和沟通能力。&lt;br /&gt;- 公司提供培训。&lt;br /&gt;&lt;br /&gt;薪资根据个人经验面议&lt;br /&gt;&lt;br /&gt;感兴趣可以通过电邮至 goal@artemishr.xyz 附上简历，注明求职岗位，入围者快速面试!</description><pubDate>Fri, 19 Jan 2024 15:18:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010158#reply1</guid></item><item><title>[分享创造] 最近一直在思考如何出海搞钱，突然想到了，做个电商联盟站点</title><link>https://www.v2ex.com/t/1010157#reply0</link><description>&lt;p&gt;这是我的第一个电商联盟站点，是基于 Amazon 联盟，基于体育和户外运动项目，基本上把各种选品手段都用上了，FB 选品、亚马逊热销选品，现在应该想办法创造点流量了吧，大家帮我看看是否还有什么可以改善的，感谢！
-我的联盟站地址： &lt;a href="https://awn60.vip/" rel="nofollow"&gt;https://awn60.vip/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Jan 2024 15:12:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010157#reply0</guid></item></channel></rss>
+&lt;h3&gt;二、主要待遇&lt;/h3&gt;
+&lt;p&gt;① 有竞争力的薪资或期权&lt;br /&gt;
+② 六险一金，父母及子女的商业保险&lt;br /&gt;
+③ 全员 Mac ，免费下午茶、免费晚餐&lt;br /&gt;
+④ 有孩子或者怀孕的女性员工有每周一天的在家办公机会  &lt;/p&gt;
+&lt;h3&gt;三、职位详情&lt;/h3&gt;
+&lt;p&gt;所有职位详情可见： &lt;a href="http://talent.didiglobal.com/social/list/1" rel="nofollow"&gt;http://talent.didiglobal.com/social/list/1&lt;/a&gt; 可在这里选择合适职位  &lt;/p&gt;
+&lt;h3&gt;四、内推方式&lt;/h3&gt;
+&lt;p&gt;欢迎将感兴趣&lt;strong&gt;职位链接及简历直接发送到&lt;/strong&gt; &lt;a href="mailto:trinea.cn@gmail.com"&gt;trinea.cn@gmail.com&lt;/a&gt; 或微信联系我(trinea)内推。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;人在滴滴&lt;/strong&gt;&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://public-cdn.mokahr.com/didiglobal/093249d7-357f-410b-9e2a-d6f1cb51f2a6.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全面回报体系&lt;/strong&gt;&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://public-cdn.mokahr.com/didiglobal/f2a9b8a0-ddcc-44a3-92ee-d457c506870a.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 07:42:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010266#reply0</guid></item><item><title>[iPhone] 现在有没哪台苹果可以做到同时支持 esim+电信 23G 同时使用的？</title><link>https://www.v2ex.com/t/1010265#reply4</link><description>&lt;p&gt;拿来当副机用，貌似之前美版用卡贴做到，听说封了&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 07:36:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010265#reply4</guid></item><item><title>[iCloud] 加速 iCloud Photo 找出重复照片</title><link>https://www.v2ex.com/t/1010264#reply1</link><description>在 macOS 和 iOS 上，怎样的环境、条件可以加速找到 duplicate 照片呢？谢谢。</description><pubDate>Sat, 20 Jan 2024 07:32:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010264#reply1</guid></item><item><title>[问与答] 球推荐海外工作 fuwuqi</title><link>https://www.v2ex.com/t/1010263#reply1</link><description>&lt;p&gt;可以装 win10 ，拿来做远程办公机器。&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 07:32:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010263#reply1</guid></item><item><title>[iPhone] 又发现个联通/双 SIM 卡的新问题</title><link>https://www.v2ex.com/t/1010262#reply1</link><description>&lt;p&gt;iOS17.2.1 、移动/联通双 SIM 卡、surge 一直开启状态。切移动为蜂窝网络，网络状态正常。切联通为蜂窝网络，通过 surge 连接的所有网络服务统统无法连接，比如 YouTube 、telegram 以及所有需要翻墙的网站。国内 app 比如微信，处于不知道什么时侯能连接什么时候无法连接的状态。
+总体来看，感觉好像是联通网络服务的问题，但这张副卡的主卡在 Samsung 上一切正常，账户状态、后台反馈的服务状态都一切正常。SIM 卡也在营业厅更换过，也可以正常接打电话。
+所以，真的搞不清楚到底是什么原因了。难道是 surge 和联通之间的问题？&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 07:30:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010262#reply1</guid></item><item><title>[互联网] 阿里巴巴真的把什么都设置了防火墙，</title><link>https://www.v2ex.com/t/1010260#reply5</link><description>&lt;p&gt;正在开发一个产品，把阿里巴巴的产品采购页放入 notion ，结果出来一个防盗链。&lt;/p&gt;
+&lt;p&gt;把用户都当贼来防，&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/01/20/h4WnzKqBFNE5mG6.png" /&gt;&lt;/p&gt;
+&lt;p&gt;用民间的话来说，你怎么看待别人的角度，其实你自己就是那个你想象中的别人&lt;/p&gt;</description><pubDate>Sat, 20 Jan 2024 07:20:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1010260#reply5</guid></item></channel></rss>
