@@ -1,55 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 24 Jan 2024 03:58:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[云计算] 云存储已经自带 3 副本，大家觉得基于云构建存储系统还需要依赖 Raft 这类基于共识的算法吗？</title><link>https://www.v2ex.com/t/1011144#reply0</link><description>&lt;p&gt;一直以来，存储软件都基于复制来提高数据的可靠性和系统的可用性，复制的方式有很多种，各个模式间可能还有交集：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;同步复制、异步复制&lt;/li&gt;
-&lt;li&gt;强一致性、最终一致性&lt;/li&gt;
-&lt;li&gt;Leader-follower Replication&lt;/li&gt;
-&lt;li&gt;Decentralized Replication （一般 Client 侧进行多写/Quorum Write ，比如阿里云的盘古）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;因为有了多个副本，一方面能够容忍部分副本的数据损坏，也能在部分节点不可用时，通过冗余的副本选出新的 Leader 节点来提高系统的可用性。&lt;/p&gt;
-&lt;p&gt;在面向 IDC 环境，这样的架构没有任何问题，但今天将这些存储系统 Rehost 到云上后，第一个暴露出来的问题就是&lt;strong&gt;成本&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;我们都知道，云存储已经提供了极高的可靠性和可用性，以块存储 EBS 和对象存储 S3 为例：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;对象存储提供 4 个 9 左右的可用性，11 个 9 左右的数据可靠性。&lt;/li&gt;
-&lt;li&gt;EBS 提供 3 个 9 左右的可用性，5~9 个的可靠性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当然，不同的云厂商有 SLA 差异，不过可以看出云存储已经通过多副本或 EC 技术提供了很高的 SLA 了，如果应用层还要基于云存储去做 3 副本复制，数据最多可能会冗余 9 个副本。&lt;/p&gt;
-&lt;p&gt;基于这个背景，想找大家讨论下，如果要面向云做一款真正云原生的存储软件，Raft 这类算法还有必要性吗？&lt;/p&gt;
-&lt;p&gt;我目前的答案是完全没有必要了，云原生的软件一定是要深度用云，把复杂度卸载至云，让应用层变得更轻量，更弹性，更低成本，基于这些思考，我们（ AutoMQ ）面向云原生重新设计了 Kafka ，充分撬动云计算带来的技术和规模化红利，感兴趣的可以移步我们的开源项目： &lt;a href="https://github.com/AutoMQ/automq-for-kafka" rel="nofollow"&gt;https://github.com/AutoMQ/automq-for-kafka&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;不知道 V2EX 的开发者们怎么看待这个问题，欢迎大家发表下看法。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:52:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011144#reply0</guid></item><item><title>[VPS] 出 zgovps 洛杉矶 CUII+CMIN2， 1G 内存/1 核(Ryzen9 7950X)/25gNVMe/500M 带宽/1T 流量，两个快照</title><link>https://www.v2ex.com/t/1011143#reply0</link><description>测评： &lt;a href="https://www.zhujiceping.com/68317.html" rel="nofollow noopener" target="_blank"&gt;https://www.zhujiceping.com/68317.html&lt;/a&gt; ，&lt;a href="https://www.zhujiceping.com/68319.html" rel="nofollow noopener" target="_blank"&gt;https://www.zhujiceping.com/68319.html&lt;/a&gt;&lt;br /&gt;带原邮箱，仅买了 3 天，流量只用了 3g ，原价 38.9 刀，269 出，二月份这个鸡就要涨价，而且官方说准备接入三网精品&lt;br /&gt;其实各方面都还可以，最大的问题在于现在居然还有商家不能挂 iso ，发工单也不行，各种办法都试了，个人不想折腾，出了。没有卖过 vps ，这种能走咸鱼吗？ &lt;a href="https://m.tb.cn/h.5qDdTwl?tk=xTGcWRU46LP" rel="nofollow noopener" target="_blank"&gt;https://m.tb.cn/h.5qDdTwl?tk=xTGcWRU46LP&lt;/a&gt;</description><pubDate>Wed, 24 Jan 2024 03:52:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011143#reply0</guid></item><item><title>[Windows] Windows11 任务栏从不合并后的宽度问题</title><link>https://www.v2ex.com/t/1011142#reply0</link><description>能否设置成像 Windows10 一样等宽，现在这样太难受了，尤其是一些标题会变动的窗口，一会长一会短的</description><pubDate>Wed, 24 Jan 2024 03:48:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011142#reply0</guid></item><item><title>[程序员] 2024 年，桌面软件开发（不考虑移动端），推荐什么技术栈？</title><link>https://www.v2ex.com/t/1011141#reply4</link><description>&lt;p&gt;flutter 似乎不支持多窗口，pass ，&lt;/p&gt;
-&lt;p&gt;比如 QT/MAUI/Avalonia/JetPack Compose/，哪个容易上手？&lt;/p&gt;
-&lt;p&gt;基于 web 的技术，
-Electron 项目太大，性能要求可能不行。
-tauri 尝试了一下，rust 太难写业务太复杂了。
-wails 怎么样？&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011141#reply4</guid></item><item><title>[分享发现] 搭了一个幻兽帕鲁服务器，找几个 V 友一起玩</title><link>https://www.v2ex.com/t/1011139#reply7</link><description>&lt;p&gt;RT ，在自己的 Home Server 上搭建了一个私服然后 FRP 穿透。&lt;strong&gt;宿主机给了 8T 32G ，FRPS 跑在腾讯轻量北京节点，带宽有点寒碜只有 6Mbps&lt;/strong&gt;，我自己在家测试 RTT 只有 20ms 左右，挺流畅的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="server_rtt" class="embedded_image" rel="noreferrer" src="https://imgur.ihainan.me/w2hZ3Js.png" /&gt;&lt;/p&gt;
-&lt;p&gt;原来想拉几个朋友玩，结果以前玩游戏的朋友现在都被老婆看得死死的，自己虽然也玩得很少，但一个人总觉得很寂寞，所以感觉找几个 V 友一起来热闹热闹，哪怕我不怎么玩，服务器热闹我也开心。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我无法承诺它一定会是稳定和长久的，只能说尽量，我的虚拟机以及 Docker 容器数据每晚也会自动备份到我的 NAS 上，V 友如果需要备份数据自用我也会尽量提供。还请 V 友抱着随便玩玩的心态来看待。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我不确定这个带宽和配置能撑得了多少人。&lt;strong&gt;暂时先拉四个人试试（可以拉朋友一起来）？&lt;/strong&gt;能稳定运行的话再拉更多人。&lt;/p&gt;
-&lt;p&gt;想进来的朋友留言一下，然后加 TG &lt;a href="https://t.me/ihainan" rel="nofollow"&gt;https://t.me/ihainan&lt;/a&gt; 我拉个小群组，需要改服务器配置项的话可以一起商量。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:35:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011139#reply7</guid></item><item><title>[程序员] 学习&amp;求职，求建议</title><link>https://www.v2ex.com/t/1011137#reply1</link><description>&lt;h1&gt;技术是学不完的&lt;/h1&gt;
-&lt;p&gt;看到网上琳琅满目的程序员技术教程，技术路线，全栈开发，roadMap 。。。&lt;/p&gt;
-&lt;p&gt;我的第一感觉是恐惧，想要学但不知从何开始&lt;/p&gt;
-&lt;p&gt;简而言之就是眼高手低，想得太多做的太少&lt;/p&gt;
-&lt;p&gt;但是不一定什么都要学，闻道有先后，术业有专攻而已&lt;/p&gt;
-&lt;h1&gt;年后想要换工作&lt;/h1&gt;
-&lt;p&gt;本人做 Java 开发，工作一年半，想去大城市拼一拼。&lt;/p&gt;
-&lt;p&gt;目前想要找点付费课看，觉得网上的免费课质量不太高，想清水一样，学了但又没学，这块也没啥经验&lt;/p&gt;
-&lt;p&gt;恳请朋友们，给点建议，技术、经验、学习、生活都可以。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:33:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011137#reply1</guid></item><item><title>[Android] 大家开发 app 修改代码运行一次 AndroidTest 一般需要多久？</title><link>https://www.v2ex.com/t/1011136#reply0</link><description>&lt;p&gt;我的至少要 2 分钟，编译一闪而过，然后一堆 gradle 任务，cpu 也不忙，但是等到手机上启动运行，过去了 2 分钟，这种效率怎么开发啊？&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:33:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011136#reply0</guid></item><item><title>[RSS] RssEverything 转为订阅制了，还有什么网页生成 RSS 替代吗？</title><link>https://www.v2ex.com/t/1011135#reply0</link><description>&lt;p&gt;之前用 Feed43 ，后来换成 RssEverything ，现在这个也转收费了，因为订阅比较多，目前考虑转 politepol ，因为 FetchRSS 只有 5 个免费订阅。暂时不考虑 RSSHub ，因为都是订阅小众网站，而且没有自己的服务器。不知道大家还有没有别的方案。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:32:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011135#reply0</guid></item><item><title>[iPhone] 指纹粉 能不能不要天天发癫</title><link>https://www.v2ex.com/t/1011133#reply9</link><description>&lt;p&gt;安卓手机已经在用屏下指纹了，想用指纹就滚去用安卓去呗，天天问苹果为啥不用屏下指纹干嘛？别再发癫了，好不好&lt;/p&gt;
-&lt;p&gt;Face ID 这种现阶段最好的解锁方式，即使哪天被淘汰了，也不是 屏下指纹 这种垃圾解锁方式淘汰的，一个个不在意隐私就去安卓呗，天天问 你吗 呀&lt;/p&gt;
-&lt;p&gt;不发声，就等同于永封，等到哪天苹果换成指纹解锁，那是我最大的损失&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:30:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011133#reply9</guid></item><item><title>[OpenAI] （help）现在有什么实用的图片生成生产力工具么？</title><link>https://www.v2ex.com/t/1011131#reply0</link><description>本人从事跨境电商，想借 ai 生成一些现实场景的图片，有什么生产力工具推荐么？&lt;br /&gt;&lt;br /&gt;自己用了 sd ，和 chatgpt4 都没法生成理想的图片，还请 v2 的大神推荐</description><pubDate>Wed, 24 Jan 2024 03:25:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011131#reply0</guid></item><item><title>[分享创造] 程序员 AI 工具箱（瑞士军刀）</title><link>https://www.v2ex.com/t/1011130#reply1</link><description>&lt;p&gt;起因是搞了一个 gemini Pro 的聊天程序，然后加了提示词快捷方式，发现一些高频场景如翻译，撰写，其实是模板化的 prompt ，就搞了一个针对 prompt 的界面&lt;/p&gt;
-&lt;p&gt;效果如下:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="写作" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/weekend-project-space/eywa-chat/main/data/x-prompts.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://github.com/weekend-project-space/eywa-chat" rel="nofollow"&gt;源码自取&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;私有化部署:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://vercel.com/new/clone?repository-url=https://github.com/weekend-project-space/eywa-chat" rel="nofollow"&gt;&lt;img alt="deploy" class="embedded_image" rel="noreferrer" src="https://camo.githubusercontent.com/0d115430c1db17132964386282927e5e313543c7d868fc06bc9a7c65d7ec974e/68747470733a2f2f76657263656c2e636f6d2f627574746f6e" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011130#reply1</guid></item><item><title>[程序员] 王者荣耀摸鱼开黑群</title><link>https://www.v2ex.com/t/1011129#reply1</link><description>up 历史巅峰 2324,多个国服,排位百星,喜欢搞技术的并且喜欢打王者的大佬,平时一起摸鱼,打打游戏,搞搞技术,➕V ylml0925 拉你进群,进群领妹妹.</description><pubDate>Wed, 24 Jan 2024 03:22:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011129#reply1</guid></item><item><title>[Apple] macos 下 safrai 及 chrome 书签同步</title><link>https://www.v2ex.com/t/1011128#reply4</link><description>&lt;p&gt;如题，不使用 windows 下的 icloud 的情况下，怎么实时同步？&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 03:12:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011128#reply4</guid></item><item><title>[问与答] 阿里云盘相册自动下载到本地的方案</title><link>https://www.v2ex.com/t/1011124#reply1</link><description>目前手机相册自动备份到阿里云云盘（ wifi 情况下）&lt;br /&gt;但是云盘的相册照片如何自动同步到本地有哪些比较 OK 的方案？调研了好久都没找到</description><pubDate>Wed, 24 Jan 2024 02:57:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011124#reply1</guid></item><item><title>[程序员] 好像我这周能上《科技爱好者周刊》嘞，另外 GPT 做 SEO 对于小白来说，确实挺友好的。</title><link>https://www.v2ex.com/t/1011123#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TBdFpIz.png" /&gt; &lt;/p&gt;
-&lt;p&gt;另外，GPT 做 SEO 好像真的挺厉害的，用时一周可以直接通过搜索《现代化中国诗词学习网站》进入。&lt;/p&gt;
-&lt;p&gt;当然整个标题也是用 GPT 一步一步问出来的。“现代化” 立了大功。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/RLu4vsb.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 02:57:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011123#reply3</guid></item><item><title>[macOS] 有个俄罗斯论坛，可以用 bt 下载免费的 mac 软件和游戏，有人知道么</title><link>https://www.v2ex.com/t/1011122#reply9</link><description>&lt;p&gt;之前去下过一次游戏，但是没保存这个论坛的网址，现在找不到了&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 02:55:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011122#reply9</guid></item><item><title>[Apple] 个人第二款 macOS App， NinjaBrowser 上线了，免费，求体验</title><link>https://www.v2ex.com/t/1011121#reply0</link><description>&lt;p&gt;之前发了一个&lt;a href="https://www.v2ex.com/t/1008027#reply15" rel="nofollow"&gt;内测邀请&lt;/a&gt;，很多兄弟提了非常多建议，经过跟 App Store 审核团队苦战一周，终于上线了。&lt;/p&gt;
-&lt;p&gt;核心功能：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 24 Jan 2024 13:36:14 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] Mac 端 outlook 使用 gmail</title><link>https://www.v2ex.com/t/1011311#reply0</link><description>把几个主要的 gmail 账号连接到了 mac 的 outlook 客户端，发现过一段时间之后所有的 gmail 账号都需要重新验证，请问各位有什么解决办法吗？</description><pubDate>Wed, 24 Jan 2024 13:35:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011311#reply0</guid></item><item><title>[问与答] 关于 Resend 邮件发送服务</title><link>https://www.v2ex.com/t/1011310#reply0</link><description>&lt;p&gt;背景：&lt;/p&gt;
+&lt;p&gt;主要是需要实现一个自用的域名邮箱的邮件收发，主要是感觉比较 COOL ，按目前网上的教程的方案是，通过第三方服务转给 gmail ，然后再从 gmail 调用第三方服务发出去：&lt;/p&gt;
+&lt;p&gt;收：Cloudflare Email Routing
+发：Resend&lt;/p&gt;
+&lt;p&gt;功能挺满意，有一个问题问问：类似 Resend 这种独立的邮件发送服务是不是都会保留寄件邮件的副本啊（我也没找到删除的地方）？我没有用过其他家的比如 AWS SES,或者 mailgun 什么的，好像还有很多。&lt;/p&gt;
+&lt;p&gt;是不是都会保留呢？&lt;/p&gt;
+&lt;p&gt;我主要是考虑，只在自己的 gmail 里保留和管理邮件（搜索也方便），现在发件走第三方服务，那边就多一份副本，是否存在隐私或安全相关的什么问题呢？&lt;/p&gt;
+&lt;p&gt;技术小白，完全不懂，请指教&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:32:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011310#reply0</guid></item><item><title>[Apple] Macbook pro 无法使用 airdrop， wifi 自动断开</title><link>https://www.v2ex.com/t/1011309#reply0</link><description>&lt;p&gt;周一时候开始的，电脑也没有重摔，现在连 wifi 过一会就会自动断开，iphone airdrop 给 mbp,wifi 立马断开
+m2 max 的，系统已经更新最新 14.3 版本，会不会是抽烟抽太多，吸了太多烟屎导致的&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:31:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011309#reply0</guid></item><item><title>[程序员] 很难想象这是淘宝。。这界面真的是丑到爆</title><link>https://www.v2ex.com/t/1011308#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/aDSau6M.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:30:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011308#reply0</guid></item><item><title>[问与答] 现在还有 Google One 拼车吗？我想拼欧洲车</title><link>https://www.v2ex.com/t/1011307#reply0</link><description>&lt;p&gt;优先德国 Google One 车，不行的话别的车也行&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:25:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011307#reply0</guid></item><item><title>[iPhone] AX9000 路由器 SMB 文件共享 iPhone 自带文件 APP 无法访问</title><link>https://www.v2ex.com/t/1011306#reply0</link><description>&lt;p&gt;如题，小米 AX9000 路由器 SMB 文件共享 iPhone 自带文件 APP 无法访问，报无效的自变量
+社区也有帖子没找到答案，&lt;a href="https://discussionschinese.apple.com/thread/252079018" rel="nofollow"&gt;https://discussionschinese.apple.com/thread/252079018&lt;/a&gt;
+求教 V 站大神，只针对 iPhone 自带的文件 APP ，暂未考虑其他文件管理 App 替代方案，当日有好的文件管理 APP 推荐也可以一试，最好还是要自带的文件 APP&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011306#reply0</guid></item><item><title>[程序员] 请教多设备数据同步的无服务器开源解决方案</title><link>https://www.v2ex.com/t/1011305#reply4</link><description>&lt;p&gt;请问大家，有类似的解决方案吗？比如电脑和手机端，只要都能联网，就可以无缝同步内容，比如手机访问电脑提供的接口，或者下载电脑上的文件。
+之前看到过一个开源软件，只需要刚进入的时候填入一串类似 uuid 的就可以了，有大佬知道类似的仓库吗？&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 13:10:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011305#reply4</guid></item><item><title>[iPhone] 有用过 Lightning 转 VGA/HDMI 转接头的吗？请教个问题</title><link>https://www.v2ex.com/t/1011304#reply1</link><description>&lt;p&gt;投屏的时候需要额外连接电源线充电吗？&lt;/p&gt;
+&lt;p&gt;个人感觉如果非要连个电源线才能投屏的就很不方便&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 12:58:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011304#reply1</guid></item><item><title>[分享创造] 写了个 V2EX 美化评论区的浏览器扩展，可以直达引用楼层了</title><link>https://www.v2ex.com/t/1011303#reply0</link><description>&lt;p&gt;&lt;img alt="72df57487d11b03b50b3a042671edbe2.png" class="embedded_image" rel="noreferrer" src="https://i.miji.bid/2024/01/24/72df57487d11b03b50b3a042671edbe2.png" /&gt;
+&lt;a href="https://github.com/senlinmuvs/xcomment" rel="nofollow"&gt;https://github.com/senlinmuvs/xcomment&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 12:46:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011303#reply0</guid></item><item><title>[问与答] 有什么办法可以管理所有的邮箱</title><link>https://www.v2ex.com/t/1011302#reply6</link><description>被这个邮箱搞得头都大了，各家的邮箱客户端除了他们自家的邮箱可以登录 ，其他家的莫名奇妙登不上，以前我记得 qq 可以通过授权码登录，现在也登不上了&lt;br /&gt;&lt;br /&gt;现在主要有 gmail 、qq 、163 、outlook 、icloud 这几种，有没有办法一个软件管理这些邮箱呢</description><pubDate>Wed, 24 Jan 2024 12:41:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011302#reply6</guid></item><item><title>[问与答] Wi-Fi 下打开 app 加载半天是为什么？</title><link>https://www.v2ex.com/t/1011301#reply1</link><description>&lt;p&gt;在 Wi-Fi 联网环境下，打开哔哩哔哩、淘宝等 app ，都会加载半天，但是关闭 Wi-Fi 连接，使用移动数据联网，就会很快的加载出来，而移动数据联网的网速绝不会比 Wi-Fi 更快，很好奇原因是什么，是否和各大互联网产商使用 PCDN 有关？&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 12:35:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011301#reply1</guid></item><item><title>[问与答] 我该如何用语言化解</title><link>https://www.v2ex.com/t/1011300#reply1</link><description>&lt;p&gt;是这样的，之前刚进前公司，有一次和一位女同事一起下班，闲聊之中说到她儿子，我问她儿子多大了，她说不到 10 岁，我说才 10 岁呀，这么小！&lt;/p&gt;
+&lt;p&gt;然后有一次中午吃饭，她说要不要说一下你的名场面呀，我还纳闷，我之前有做什么糗事吗。她就说了上面那段我们聊天的内容，“10 岁，这么小，言外之意是什么呀！”她就觉得我说她老，我已经忘了那天是怎么想的了，肯定没想这么多，但是我却还是不知道怎么回应。&lt;/p&gt;
+&lt;p&gt;我该怎么说比较好&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 12:33:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011300#reply1</guid></item><item><title>[程序员] 做了个 cURL 参数对比工具 方便大家比较两个 cURL 参数的格式</title><link>https://www.v2ex.com/t/1011298#reply0</link><description>&lt;p&gt;&lt;a href="http://diff.nihaojob.com/" rel="nofollow"&gt;http://diff.nihaojob.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="这是图片" class="embedded_image" rel="noreferrer" src="https://github.com/nihaojob/vue-fabric-editor/assets/13534626/0f9d1d18-10dc-41c8-a6b3-a7e8ffa2b1d6" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 12:14:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011298#reply0</guid></item><item><title>[问与答] 怎么用 caddy v2 反代 ip:port/path 格式服务</title><link>https://www.v2ex.com/t/1011297#reply3</link><description>搭建了一个 xui web 服务，必须带后面的路径才能访问，如果用 caddy 反带，配置文件应该写？网上搜了很多没有搜到想要的答案。</description><pubDate>Wed, 24 Jan 2024 12:05:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011297#reply3</guid></item><item><title>[分享发现] 电加热设备真是能极大提高出行舒适度</title><link>https://www.v2ex.com/t/1011296#reply1</link><description>也算是以前帖子的总结 &lt;a href="https://www.v2ex.com/t/990818" rel="nofollow noopener" target="_blank"&gt;/t/990818&lt;/a&gt; &lt;a href="https://www.v2ex.com/t/990035" rel="nofollow noopener" target="_blank"&gt;/t/990035&lt;/a&gt;, 北京零下五度左右的天气里骑电动车, 光有车把套确实不够,手指会非常冷,因为算是顶风处,热量一直流失. &lt;br /&gt;&lt;br /&gt;花 300 多买的电加热手套,真的是纯纯的智商税, 2 条电热丝仅仅是在手套夹层里走了一圈, 买的薄款,捏刹车比较轻松,但是竟然是透气的,冷风可以呼呼往里钻. 作用真的小.&lt;br /&gt;&lt;br /&gt;花 35 买的那个 USB 加热手把真是挺值的, 手一直攥着就暖暖的, 配合车把套和手套都有点出手汗了, 就是每天出门得拿着充电宝.&lt;br /&gt;&lt;br /&gt;未来这种电加热的服装估计会越来越流行,很薄就可以生热,重量大头全在充电宝上.</description><pubDate>Wed, 24 Jan 2024 12:02:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011296#reply1</guid></item><item><title>[分享发现] 恩山无线论坛被挂马了？</title><link>https://www.v2ex.com/t/1011295#reply2</link><description>刚才访问恩山无线论坛，windows 安全中心跳出来提示有木马。</description><pubDate>Wed, 24 Jan 2024 11:59:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011295#reply2</guid></item><item><title>[NAS] Proxmox VE LVM 分区，丢失的空间</title><link>https://www.v2ex.com/t/1011294#reply3</link><description>背景：PVE 虚拟机 8.1,XFS 文件系统&lt;br /&gt;&lt;br /&gt;先看物理磁盘：&lt;br /&gt;&lt;br /&gt;(parted) print sda&lt;br /&gt;Model: ATA KimMiDi T900 SSD (scsi)&lt;br /&gt;Disk /dev/sda: 256GB&lt;br /&gt;Sector size (logical/physical): 512B/512B&lt;br /&gt;Partition Table: gpt&lt;br /&gt;Disk Flags:&lt;br /&gt;&lt;br /&gt;Number  Start   End     Size    File system  Name  Flags&lt;br /&gt; 1      17.4kB  1049kB  1031kB                     bios_grub&lt;br /&gt; 2      1049kB  1075MB  1074MB  fat32              boot, esp&lt;br /&gt; 3      1075MB  256GB   255GB                      lvm&lt;br /&gt;&lt;br /&gt;------&lt;br /&gt;&lt;br /&gt;然后看分区：&lt;br /&gt;&lt;br /&gt;root@pve:~# pvs&lt;br /&gt;  PV         VG  Fmt  Attr PSize    PFree&lt;br /&gt;  /dev/sda3  pve lvm2 a--  &amp;lt;237.47g    0&lt;br /&gt;root@pve:~# vgs&lt;br /&gt;  VG  #PV #LV #SN Attr   VSize    VFree&lt;br /&gt;  pve   1  23   0 wz--n- &amp;lt;237.47g    0&lt;br /&gt;root@pve:~# lvs&lt;br /&gt;  LV                           VG  Attr       LSize   Pool Origin        Data%  Meta%  Move Log Cpy%Sync Convert&lt;br /&gt;  data                         pve twi-aotz-- 175.71g                    47.92  0.30&lt;br /&gt;  root                         pve -wi-ao----  26.00g&lt;br /&gt;  snap_vm-100-disk-0_well      pve Vri---tz-k   4.00m data vm-100-disk-0&lt;br /&gt;  snap_vm-100-disk-0_well2     pve Vri---tz-k   4.00m data vm-100-disk-0&lt;br /&gt;  snap_vm-100-disk-1_well      pve Vri---tz-k  16.00g data vm-100-disk-1&lt;br /&gt;  snap_vm-100-disk-1_well2     pve Vri---tz-k  16.00g data vm-100-disk-1&lt;br /&gt;  snap_vm-101-disk-0_cli_ready pve Vri---tz-k   4.00m data vm-101-disk-0&lt;br /&gt;  snap_vm-101-disk-0_intitial  pve Vri---tz-k   4.00m data vm-101-disk-0&lt;br /&gt;  snap_vm-101-disk-0_well      pve Vri---tz-k   4.00m data vm-101-disk-0&lt;br /&gt;  snap_vm-101-disk-1_cli_ready pve Vri---tz-k  32.00g data vm-101-disk-1&lt;br /&gt;  snap_vm-101-disk-1_intitial  pve Vri---tz-k  32.00g data vm-101-disk-1&lt;br /&gt;  snap_vm-101-disk-1_well      pve Vri---tz-k  32.00g data vm-101-disk-1&lt;br /&gt;  swap                         pve -wi-ao----   4.00g&lt;br /&gt;  vm-100-disk-0                pve Vwi-aotz--   4.00m data               14.06&lt;br /&gt;  vm-100-disk-1                pve Vwi-aotz--  16.00g data               82.23&lt;br /&gt;  vm-101-disk-0                pve Vwi-a-tz--   4.00m data               14.06&lt;br /&gt;  vm-101-disk-1                pve Vwi-a-tz--  32.00g data               27.40&lt;br /&gt;  vm-102-disk-0                pve Vwi-aotz--   4.00m data               14.06&lt;br /&gt;  vm-102-disk-1                pve Vwi-aotz--  65.00g data               45.72&lt;br /&gt;  vm-102-disk-2                pve Vwi-aotz--   4.00m data               1.56&lt;br /&gt;  vm-103-disk-0                pve Vwi-a-tz--   4.00m data               14.06&lt;br /&gt;  vm-103-disk-1                pve Vwi-a-tz-- 520.00m data               79.81&lt;br /&gt;  vm-104-disk-0                pve Vwi-aotz--  32.00g data               77.95&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;root@pve:~# lvextend -l +100%FREE pve/root&lt;br /&gt;  New size (6656 extents) matches existing size (6656 extents).&lt;br /&gt;（试图扩展一下无效）  &lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;root@pve:~# lvm pvscan&lt;br /&gt;  PV /dev/sda3   VG pve             lvm2 [&amp;lt;237.47 GiB / 0    free]&lt;br /&gt;  Total: 1 [&amp;lt;237.47 GiB] / in use: 1 [&amp;lt;237.47 GiB] / in no VG: 0 [0   ]&lt;br /&gt;  （再次检查一下）&lt;br /&gt;  &lt;br /&gt;  ----&lt;br /&gt;  &lt;br /&gt;问题在：root 分区加 data 分区，只有 202g ，磁盘有 256g ，就算有换算差异，那也差了很多&lt;br /&gt;root 分区登录进 PVE 图形界面只有 16g ，命令行下显示 24g 。&lt;br /&gt;丢失的空间如何恢复？</description><pubDate>Wed, 24 Jan 2024 11:55:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011294#reply3</guid></item><item><title>[问与答] 有没有一键遮挡屏幕指定位置的显示内容的办法</title><link>https://www.v2ex.com/t/1011293#reply3</link><description>&lt;p&gt;目前用 snipaste 实现，需要先复制图片（一个黑色的小长条图片），然后按 F3 ，之后再选中，用上下移到屏幕上边缘（按完 F3 它只能钉在靠近上边缘的地方，鼠标拖也不能移动到上边的显示边缘）&lt;/p&gt;
+&lt;p&gt;有没有能指定在固定位置一键遮挡的办法求赐教&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 11:49:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011293#reply3</guid></item><item><title>[NAS] 兜兜转转一圈还是选择了 Immich 存照片了</title><link>https://www.v2ex.com/t/1011292#reply1</link><description>&lt;p&gt;作为一个萌新小白也想搭个内网照片站，转了一圈，也挑花了眼，最终还是选则了 Immich ，各种踩坑之后，算是基本跑起来了，贴一下我的部署方案吧，也算是做个笔记，&lt;strong&gt;刚入坑，非科班专家，求大佬们多多指点，轻喷&lt;/strong&gt; [Grin]&lt;/p&gt;
+&lt;p&gt;设备：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;点击 Dock 图标快速打开浏览器的无痕模式&lt;/li&gt;
-&lt;li&gt;配套的有浏览器扩展，点击图标切换当前 Tab 到无痕模式&lt;/li&gt;
-&lt;li&gt;右键链接支持使用无痕模式打开&lt;/li&gt;
+&lt;li&gt;J4105 4G 一个（ Debian 12 ），角色定位：AIO ，计算&lt;/li&gt;
+&lt;li&gt;威联通 TS216 一台，角色定位：存储+数据&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/id6475594120" rel="nofollow"&gt;https://apps.apple.com/us/app/id6475594120&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://chromewebstore.google.com/detail/incognito-for-chrome/okbcppdlaeenohcjhpdfchblahicpnai" rel="nofollow"&gt;https://chromewebstore.google.com/detail/incognito-for-chrome/okbcppdlaeenohcjhpdfchblahicpnai&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 02:54:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011121#reply0</guid></item><item><title>[问与答] 国内手机能用的 AI 应用，求推荐</title><link>https://www.v2ex.com/t/1011120#reply2</link><description>&lt;p&gt;给朋友用的，所以需要特殊手段的，但是别太智障，用来协助写写报告什么的用的。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 02:54:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011120#reply2</guid></item><item><title>[分享发现] 万能的 v 友，有没有相关谷歌插件替换图片和视频成自己的占位图</title><link>https://www.v2ex.com/t/1011119#reply0</link><description>&lt;p&gt;就是比如你浏览一些网站 我想默认替换成我自己设定的占位图，视频的话也支持替换成默认视频&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 02:54:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011119#reply0</guid></item><item><title>[问与答] 携程可以提前抢票</title><link>https://www.v2ex.com/t/1011118#reply2</link><description>北京南的票，12 点 30 才放票，但是携程在 7 点出头就帮我抢到了（黄金会员的快速抢票，没花钱），而且 12306 还是显示没开售。&lt;br /&gt;&lt;br /&gt;可能因为是加开的列车，但不清楚为什么携程可以提前抢，难道是人工帮买的？&lt;br /&gt;&lt;br /&gt;如果怕抢不到票，可以试试用携程预定一个加开的列出试试，说不定能提前抢到。</description><pubDate>Wed, 24 Jan 2024 02:53:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011118#reply2</guid></item></channel></rss>
+&lt;p&gt;思路：本着分散计算和存储的 Old-School 传统，没把 Immich 直接扔到威联通的 Container Station 里面，而是把 Server 端，Maching-Learning ，Redis 这些都放到 AIO 上了，威联通上仅仅跑了 PostgreSQL 一个容器，然后为了方便查看，我还在 AIO 上启了 pgadmin4 这个 Container ，Immich 和 pgadmin4 都用 Nginx 做了反代，基本这样。&lt;/p&gt;
+&lt;p&gt;流程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面安装 Docker （按官方教程装的，需要配置 apt 源）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面 apt 安装 Redis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面 Redis 配置文件修改，绑定 docker 桥接网卡地址，并开启密码模式（ Redis 非 lo 接口连接都需要密码）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面 apt 安装 Nginx&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS216 装载 M2 Nvme SSD 并新建静态卷，静态卷里面创建名为 Container 的共享文件夹（ PostgreSQL 数据库会放到这里）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS216 里面安装 Container Station ，指定容器卷存储位置为上一步静态卷上的 Container 文件夹&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS216 Container Station 里面部署 Immich 要求的加了 vector extention 的 PostgreSQL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO Docker 启动 pgadmin4 Container （方便随后建库给 Immich 用，账号密码用上一步 compose 里面的，下面有贴出来）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 登录 pgadmin4 web 界面，连接上 TS216 的 PG 后建库 &lt;code&gt;immich&lt;/code&gt;, 配置用默认的，我还 grant all 权限了&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面新建用户 immich:immich （记下 uid 和 gid ，通常一样的）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS216 里面 ssh 登录，sudo 模式指定 uid 新建完全一致用户 immich:immich （重点是 uid 和 gid 与 AIO 上完全一致，否则后面 nfs 挂载会对不上权限）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TS216 QFirewall 防火墙里面新建规则，放行内网网段 5432/TCP 入站&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;TS216 新建 Shared Folder 名称为 &lt;code&gt;/Immich&lt;/code&gt;，导出为 NFS ，NFS 权限选 all squash 到 immich:immich 这个用户&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AIO 里面递归创建目录 /var/lib/immich-app/library&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把 immich 官方文档里面的 docker-compose.yml 和 example.env 下载下来到 immich-app 目录，example.env 重命名为 .env&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用 chmod -R 模式把 library 目录变更用户为 immich:immich&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;编辑 /etc/fstab 并挂载从 TS216 导出的 NFS 目录到 /mnt/Immich&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行 systemctl daemon-reload 重新挂载 fstab&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;执行 mount -a 测试是否成功挂载 &lt;code&gt;/Immich&lt;/code&gt; nfs 文件夹（没报错表示成功）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;把 library 目录移入 /mnt/Immich&lt;/p&gt;
+&lt;p&gt;注意此时 /mnt/Immich 在 TS216 上是指定的 immich:immich 用户，所以不能放其他用户的文件进去，我没试过，但应该是有权限问题的&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nginx 添加 /etc/nginx/conf.d/immich.conf 反代 Immich 到 80 端口（我还有其他的服务都部署的 80 ，而且也不想用端口访问 Immich ）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;大体上就是这些了，然后就是一些关键配置：&lt;/p&gt;
+&lt;h3&gt;一、TS216 上的 compose 配置，只启了 PG&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-yml"&gt;version: '3'
+services:
+  postgres:
+  image: tensorchord/pgvecto-rs:pg16-v0.1.11
+  restart: unless-stopped
+  ports:
+    - 5432:5432
+  volumes:
+    - postgres_db:/var/lib/postgresql/data
+  environment:
+    - POSTGRES_USER=postgres
+    - POSTGRES_PASSWORD=postgres
+
+volumes:
+  postgres_db:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里面重要的点主要是三个：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;image 必须选 &lt;code&gt;tensorchord/pgvecto-rs:pg16-v0.1.11&lt;/code&gt; 这个，用 PG 官方镜像的话不支持，因为 Immich 用到了 PG 的 vector 特性&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;端口映射，不能绑定 docker0 的地址，因为需要让 AIO 从内网连进来，绑定 docker0 接口的话就连不了了，防火墙开了也没用&lt;/li&gt;
+&lt;li&gt;PG 的账号密码，这个随便填，但是后面部署到 AIO 上面的 pgadmin4 里面要用到&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;二、AIO 上的 &lt;code&gt;/var/lib/immich-app/docker-compose.yml&lt;/code&gt; 配置，用于 Immich server 端&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-yml"&gt;version: "3.8"
+
+name: immich
+
+services:
+  immich-server:
+    container_name: immich_server
+    user: "${UID}:${GID}"
+    image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+    command: [ "start.sh", "immich" ]
+    volumes:
+      - ${UPLOAD_LOCATION}:/usr/src/app/upload
+      - /etc/localtime:/etc/localtime:ro
+    env_file:
+      - .env
+    ports:
+      - 127.0.0.1:2283:3001
+    restart: unless-stopped
+
+  immich-microservices:
+    container_name: immich_microservices
+    user: "${UID}:${GID}"
+    image: ghcr.io/immich-app/immich-server:${IMMICH_VERSION:-release}
+    # extends:
+    #   file: hwaccel.yml
+    #   service: hwaccel
+    command: [ "start.sh", "microservices" ]
+    volumes:
+      - ${UPLOAD_LOCATION}:/usr/src/app/upload
+      - /etc/localtime:/etc/localtime:ro
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  immich-machine-learning:
+    container_name: immich_machine_learning
+    user: "${UID}:${GID}"
+    image: ghcr.io/immich-app/immich-machine-learning:${IMMICH_VERSION:-release}
+    volumes:
+      - model-cache:/cache
+    env_file:
+      - .env
+    restart: unless-stopped
+
+volumes:
+  model-cache:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这里注意的点主要是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;从 compose 里面删除 Redis 和 PG 部分，因为 Redis 已经部署到宿主环境了，而 PG 部署到 TS216 上面了&lt;/li&gt;
+&lt;li&gt;端口映射的话我绑定了 lo 接口，因为我不想暴露带端口的服务，而是随后统一用 Nginx 反代到 80 上去&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;三、AIO 上的 &lt;code&gt;/var/lib/immich-app/.env&lt;/code&gt; 环境配置文件&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-toml"&gt;# Immich 照片和视频上传的物理存放位置，这里指到 nfs 文件夹了
+UPLOAD_LOCATION=/mnt/Immich/library
+
+# Immich 部署的版本，我用了部署时候的最新版本
+IMMICH_VERSION=v1.93.3
+
+# 这里是我的 TS216 在内网环境的域名，换成 ip 也行
+DB_HOSTNAME=nas.home
+# PG 的用户名和密码，这个在 TS216 compose 文件里面就可以指定
+DB_USERNAME=postgres
+DB_PASSWORD=postgres
+# 这个库名就是前面 AIO 部署好 pgadmin4 之后在 web 界面里建好的
+DB_DATABASE_NAME=immich
+
+# AIO 宿主环境部署好的 Redis
+# 重点，这里要写 docker 桥接网卡的地址，否则 docker 内部连不上宿主环境的 Redis
+REDIS_HOSTNAME=172.17.0.1
+# 这个是前面 Redis 配置里就改好的
+REDIS_PASSWORD=redis
+
+# 这个是 AIO 里面 Immich compose 运行的所有容器里面使用的用户，就是 immich:immich, id 查出来我的是 1003
+UID=1003
+GID=1003
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;四、AIO 上 &lt;code&gt;/etc/redis/redis.conf&lt;/code&gt; 重点修改&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;...其他默认配置
+
+# 重点是后面的 docker 桥接网卡地址，如果不 bind ，docker 内部连不到宿主环境的 6379
+# bind 之后，内部连接 6379 就等于连接宿主环境的 6379 了
+bind 127.0.0.1 172.17.0.1
+
+# 这个是开启 Redis 密码连接模式，密码为 redis ，随便写，docker env 里面填这个
+requirepass redis
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;五、AIO 上的 &lt;code&gt;/etc/nginc/conf.d/immich.conf&lt;/code&gt; Immich 反代配置&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-nginx"&gt;server {
+  listen 80;
+  server_name immich.aio.home;
+
+  # logging
+  access_log /var/log/nginx/immich.access.log;
+  error_log /var/log/nginx/immich.error.log error;
+
+  # https://github.com/immich-app/immich/blob/main/nginx/templates/default.conf.template#L28
+  client_max_body_size 50000M;
+
+  location / {
+    proxy_pass http://localhost:2283/;
+    proxy_set_header Host              $http_host;
+    proxy_set_header X-Real-IP         $remote_addr;
+    proxy_set_header X-Forwarded-For   $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+
+    # http://nginx.org/en/docs/http/websocket.html
+    proxy_http_version 1.1;
+    proxy_set_header   Upgrade    $http_upgrade;
+    proxy_set_header   Connection "upgrade";
+    proxy_redirect off;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;六、AIO 上的 &lt;code&gt;/etc/nginx/conf.d/pgadmin4.conf&lt;/code&gt; pgadmin4 反代配置&lt;/h3&gt;
+&lt;pre&gt;&lt;code class="language-nginx"&gt;server {
+  listen 80;
+  server_name pgadmin4.aio.home;
+
+  # logging
+  access_log /var/log/nginx/pgadmin4.access.log;    
+  error_log /var/log/nginx/pgadmin4.error.log error;
+
+  location / {
+    proxy_set_header Host $host;
+    proxy_pass http://localhost:5050/;
+    proxy_redirect off;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;嗯，基本上就这些了。&lt;/p&gt;</description><pubDate>Wed, 24 Jan 2024 11:47:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011292#reply1</guid></item><item><title>[分享创造] [独立开发前线] Vol.005 独立开发者如何创作内容</title><link>https://www.v2ex.com/t/1011291#reply0</link><description>&lt;p&gt;对于独立开发者而言，持续创作优质内容是很有必要的。因为内容是最低成本的引流方式，而且通过内容构建的影响力可以逐渐帮你打造个人 IP ；并且内容的生命周期很长，可以长期为你低成本引流。&lt;/p&gt;
+&lt;h1&gt;那么独立开发者应该如何创作内容呢？&lt;/h1&gt;
+&lt;p&gt;首先是内容方向，根据我的经验，太过专业的内容只会吸引来同行。所以要让你的用户增长，你的内容方向不能从开发者角度出发，而是要从用户角度出发。&lt;/p&gt;
+&lt;p&gt;比如你的产品是一个学英语的 APP ，那么你可以列出来学英语相关的用户最关心的 10 个问题，然后围绕这 10 个问题去创作。而不是一味的去讲自己的 APP 有哪些功能，是怎么设计的。&lt;/p&gt;
+&lt;p&gt;你要知道真正想要学英语的用户是不会去搜索这些内容的，他们只会搜索学英语相关的话题，可能在无意间看到你 APP 的介绍，才会去下载体验。&lt;/p&gt;
+&lt;p&gt;所以内容创作首要就是选准方向，从用户视角出发，思考用户关系的话题，然后针对性的去写作，才能吸引精准流量。比如我的什么值得读网站是面向互联网人的书单网站，那么我会写书单、书评等内容，这些这些内容吸引来的用户才是我的目标用户。网站也才会有不错的跳出率和留存率。&lt;/p&gt;
+&lt;p&gt;其次，内容创作的形式不必拘泥，可以是短内容，发表在即刻、头条、微博这种社区。也可以是图文内容，发表在微信公众号、小红书。或者是视频内容，发表在抖音、视频号、小红书、B 站。如果是音频内容，可以发表在小宇宙。同 1 篇内容，可以用不同的形式去展现，发表在不同的渠道，然后留下转化的链接，进行最大化的流量收割。&lt;/p&gt;
+&lt;p&gt;比如你是卖会员的，那么可以在内容中留 1 个钩子，加微信免费领 1 个月会员，这样把用户沉淀在你的微信好友上，再持续的在私域进行营销转化。随着发布的内容越多，每天自然来加你微信的人就会越多，按照一定的转化率，那么每天都会有稳定的会员收入。&lt;/p&gt;
+&lt;p&gt;内容的垂直也非常重要，因为你就一两个号，需要让人有记忆点，那么更需要在 1 个领域深耕，而不是今天发美食，明天发读书，后天发独立开发相关的内容。内容越杂乱，用户越没有记忆点，内容越垂直，用户越容易被打上标签，也越容易被平台的算法推荐。所以 1 个号就做 1 个方向的内容，如果有多个方向，就分账号进行分发。&lt;/p&gt;
+&lt;p&gt;除了在社交媒体进行内容分发之外，也可以建立网站来分发，收割 SEO 的流量。不论是网站也好，社交媒体也好，这些都是渠道。只要有一两个核心渠道，然后你的内容源源不断的在输出，有成熟可变现的产品和后续服务。那么你就可以建立一个完整的从流量到收入的闭环。借助当前的产品工具，独立开发者可以很容易建立这些的闭环。依靠源源不断的内容在不同渠道疯狂免费收割流量，不断增强自己的 IP 。&lt;/p&gt;
+&lt;p&gt;内容要有爆点，所谓爆点就是吸引人眼球的东西，也就是噱头。现在人们的注意力被抖音一轮轮的清洗，已经变得很没有耐心，如果内容不能在一开始吸引用户，大多数人是没有耐心读下去的。所以在写作之前，就要构思整篇内容的爆点在哪里，怎么用一个故事吸引用户持续读下去。&lt;/p&gt;
+&lt;p&gt;其次，要有 IP 效应。要想做出 IP ，首先就是真实。真诚是最好的必杀技，很多人做内容看起来高大上，但给人不真实的感觉，比如谁上来就是 10 万用户，MRR2 万+呀，把你踩坑的过程，失败的过程展现出来，或许可以赢得更多关注。大家都不喜欢看表演，更喜欢围观他人真实的生活，真实的感受。表达你的情绪，你的懒散，你的观点，会有人因为你的真实不做作而成为你的忠实粉丝。&lt;/p&gt;
+&lt;p&gt;最后，内容要持续，不论是做什么方向。只有持续的内容才有影响力。可能发个 10 篇、20 篇并没有什么作用。但发 500 篇、1000 篇一定是有用的。持续在一个垂直方向产出内容，然后引流到你的产品上进行变现。当你赚到第 1 块钱的时候，你就会更有动力去创作内容。&lt;/p&gt;
+&lt;p&gt;比如你的产品是一个记账 APP ，那么你可以做一个记账 UP 主，分享记账相关的小技巧，记账相关的话题等等，可以扩展到理财、收入管理等方面。持续的引流到你的 APP ，来增加用户和会员。这些都是低成本的具有长期影响力的增长方式。之所以很多人做没有成效，一方面是不够专注，内容发的很杂，另一方面是坚持的时间不够长，可能发几篇就断了，或者发的内容不是用户关心的话题。&lt;/p&gt;
+&lt;p&gt;这个世界是由最简单最基础的逻辑构成的，比如便宜的比贵的更有竞争力，质量好的比质量差的更有竞争力，用心的比不用心的更有竞争力，更简单的比复杂的更有竞争力。用简单的逻辑去思考复杂的事情，我们可以通过内容实现流量突围。&lt;/p&gt;
+&lt;p&gt;订阅：独立开发前线：独立开发者的成长指南！&lt;/p&gt;
+&lt;p&gt;网站： &lt;a href="https://www.91wink.com" rel="nofollow"&gt;https://www.91wink.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果你想加入独立开发微信交流群，欢迎加我微信：Ovelv2023&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://imgs.zhubai.love/9a680b0a452c4465b2f4edfd5b977ea8_2105329724385140736.jpg" /&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://imgs.zhubai.love/10bca74725ac48bf8911a6a8cad47d67_2105329724385140736.jpg" /&gt;</description><pubDate>Wed, 24 Jan 2024 11:44:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011291#reply0</guid></item></channel></rss>
