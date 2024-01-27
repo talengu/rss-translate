@@ -1,90 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 26 Jan 2024 10:59:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [滴滴出行-北京、杭州、上海、广州等内推] 前端/Android/iOS/ Java /算法/硬件/C/C++/嵌入式/Go/产品/运营等各类职位招聘，月 20k-80k，优秀另有期权</title><link>https://www.v2ex.com/t/1011905#reply0</link><description>&lt;p&gt;滴滴 2024 年内推，欢迎各类同学加入。具体如下：  &lt;/p&gt;
-&lt;h3&gt;一、主要招聘职位&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;北京/杭州/上海/广州&lt;/strong&gt;等各大城市，&lt;strong&gt;技术&lt;/strong&gt;/&lt;strong&gt;产品&lt;/strong&gt;/&lt;strong&gt;设计&lt;/strong&gt;/&lt;strong&gt;运营&lt;/strong&gt;等岗位均有招。&lt;strong&gt;各类技术岗位&lt;/strong&gt;基本都有，包括前端/Android/iOS/Java/算法/硬件/C/C++/嵌入式/Go/产品/运营等。&lt;br /&gt;
-业务包括网约车、充电加油、国际化、自动驾驶、企业级、金融、两轮车、代驾、货运、中台、效能等业务。  &lt;/p&gt;
-&lt;p&gt;具体如下：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 27 Jan 2024 03:32:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Samsung] 怎么优雅地借给朋友三星手机</title><link>https://www.v2ex.com/t/1011995#reply0</link><description>朋友想借我的 s23u 去拍演唱会，应该怎么备份还原数据。目的是保护自己的隐私</description><pubDate>Sat, 27 Jan 2024 03:29:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011995#reply0</guid></item><item><title>[OpenWrt] n1 刷 openwrt 用 openclash 貌似 dns 有问题</title><link>https://www.v2ex.com/t/1011994#reply1</link><description>&lt;p&gt;固件用的恩山 f 大的，进去安装了最新的 openclash 发现检测界面国外 ip 已经变了，github 显示连通但是 youtubel 无法连接。换了 ifakeip ，自定义 dns 都不行。后来搜寻网络发现恩山有人建议终端填入 dns8.8.8.8 ，我尝试后成功。有大佬知道能怎么设置 openclash 来解决这个问题吗？不想每个终端都设置 dns 。这两天在外有事可能无法及时回复，j 谢谢各位。&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 03:25:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011994#reply1</guid></item><item><title>[分享发现] 零成本搭建《幻兽帕鲁》私服务以及破解版本体验</title><link>https://www.v2ex.com/t/1011993#reply5</link><description>&lt;p&gt;在小榆这里完全不需要，主打一个关爱读者。&lt;/p&gt;
+&lt;p&gt;这次我毫不犹豫 Steam 怒掏 100+人民币购买《幻兽帕鲁》游戏进行实操。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/12871/1225da10-f852-4696-aa89-f22473c939b4.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其实我的内心一开始想问：可以免费“白嫖”吗？&lt;/p&gt;
+&lt;p&gt;毫无疑问地说，完全可以。我知道你很急，但是请你先别急，先看完教程，okay ？&lt;/p&gt;
+&lt;p&gt;接下来，我会一步步分享给大家如何配置，并在文末尾提供相应的工具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注册需求&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1 、一台 win 环境的电脑或者服务器&lt;/p&gt;
+&lt;p&gt;2 、steamcmd 控制命令器搭建服务。&lt;/p&gt;
+&lt;p&gt;3 、Radmin VPN ，虚拟专用网暴露外网 IP 让你伙伴连接的工具。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/12871/5f7950b3-2cb7-44ba-826a-1d46eb315263.png" /&gt;&lt;/p&gt;
+&lt;p&gt;首先我们需要下载一个 Steam 的控制器。&lt;/p&gt;
+&lt;p&gt;下载完，建立文件夹专门放置 steamcmd.exe 应用以及相关文件 。&lt;/p&gt;
+&lt;p&gt;然后双击 steamcmd.exe 会下载所需要的文件。&lt;/p&gt;
+&lt;p&gt;详细搭建教程，以及破解版本查看链接：
+&lt;strong&gt;&lt;a href="https://mp.weixin.qq.com/s/DqypNf0I3tycmMZfcqhyyw" rel="nofollow"&gt;https://mp.weixin.qq.com/s/DqypNf0I3tycmMZfcqhyyw&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 03:24:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011993#reply5</guid></item><item><title>[程序员] 如果大家觉得我这个机器学习项目还不错，可以帮忙做下推广吗？</title><link>https://www.v2ex.com/t/1011992#reply0</link><description>&lt;p&gt;是一个本地可加载大语言模型的项目，支持 windows, macos 和 ubuntu, 也欢迎大家提一些建议：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/smalltong02/keras-llm-robot" rel="nofollow"&gt;https://github.com/smalltong02/keras-llm-robot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RAG 知识库功能的演示：
+&lt;a href="https://www.youtube.com/watch?v=dyIFLISlskI" rel="nofollow"&gt;https://www.youtube.com/watch?v=dyIFLISlskI&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 03:19:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011992#reply0</guid></item><item><title>[程序员] 你们都开了多少会员？</title><link>https://www.v2ex.com/t/1011990#reply1</link><description>&lt;p&gt;各类网购的会员，外卖的会员，听歌的，视频的（还区分 tv 端），网盘，共享单车。
+程序员方面还有各种工具，ide ，gpt 啥的。&lt;/p&gt;
+&lt;p&gt;不说全部吧，开了一半的每个月也是不小的费用呢。&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 03:11:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011990#reply1</guid></item><item><title>[杭州] 杭州二十年的连锁健身也撑不下去了</title><link>https://www.v2ex.com/t/1011989#reply3</link><description>除了互联网，低消费欲望和大家都没有钱的现实已经冲击（冲垮）了健身美容行业了。&lt;br /&gt;&lt;br /&gt;从我开始健身就一直是舒适堡的会员，这是多年笑看了很多连锁倒闭跑路。&lt;br /&gt;最后五十步笑百步，终结也逃不过这波倒闭潮。&lt;br /&gt;昨天练完还好，晚上就通知今天开始到年后初十停业...（往年春节是除夕到初六）&lt;br /&gt;&lt;br /&gt;不过没必要为自己不能控制的事情担心，现在要重新找一个月卡先凑活，看看年后怎么说了。&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;疫情后的盲目乐观扩展，现金流亏空，直接压垮了能盈利的银泰店...&lt;br /&gt;加上上海舒适堡跑路，这品牌烂掉了，根本办不出新会员，最后雪崩了。</description><pubDate>Sat, 27 Jan 2024 03:04:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011989#reply3</guid></item><item><title>[Kubernetes] 用于 k8s 的最佳分布式存储框架是什么</title><link>https://www.v2ex.com/t/1011988#reply0</link><description>&lt;p&gt;RT&lt;/p&gt;
+&lt;p&gt;没有分布式存储&lt;/p&gt;
+&lt;p&gt;k8s 部署有状态服务时将面临繁琐和困难&lt;/p&gt;
+&lt;p&gt;请问各位大佬&lt;/p&gt;
+&lt;p&gt;哪些方案实践过比较好用&lt;/p&gt;
+&lt;p&gt;有个前提是：团队较小，可能特别重量级的组件不适用&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 03:03:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011988#reply0</guid></item><item><title>[程序员] 只有在捕获异常的情况下，才能使用 error 级别的日志吗？</title><link>https://www.v2ex.com/t/1011987#reply0</link><description></description><pubDate>Sat, 27 Jan 2024 02:59:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011987#reply0</guid></item><item><title>[Android] 大家喜欢 AndroidStudio 的升级么？</title><link>https://www.v2ex.com/t/1011986#reply2</link><description>&lt;p&gt;不知道为什么，我总是对 Android Studio 的升级非常抵触，每次看到右上角的升级提示就不爽。&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 02:58:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011986#reply2</guid></item><item><title>[分享创造] 分享一个 Vision Pro 相关的博客，跟踪最新资讯、全球用户体验</title><link>https://www.v2ex.com/t/1011984#reply0</link><description>&lt;p&gt;博客地址：&lt;a href="https://vision-pro.im" rel="nofollow"&gt;https://vision-pro.im&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;功能特性&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;北京：总部。几乎所有业务。技术/产品/设计/运营等岗位均有招。  &lt;/li&gt;
-&lt;li&gt;杭州：充电加油、两轮车、代驾、中台、国际化等业务。技术/产品/设计/运营等岗位均有招。  &lt;/li&gt;
-&lt;li&gt;上海、广州等城市均有相关岗位&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;二、主要待遇&lt;/h3&gt;
-&lt;p&gt;① 有竞争力的薪资或期权&lt;br /&gt;
-② 六险一金，父母及子女的商业保险&lt;br /&gt;
-③ 全员 Mac ，免费下午茶、免费晚餐&lt;br /&gt;
-④ 有孩子或者怀孕的女性员工有每周一天的在家办公机会  &lt;/p&gt;
-&lt;h3&gt;三、职位详情&lt;/h3&gt;
-&lt;p&gt;所有职位详情可见： &lt;a href="http://talent.didiglobal.com/social/list/1" rel="nofollow"&gt;http://talent.didiglobal.com/social/list/1&lt;/a&gt; 可在这里选择合适职位  &lt;/p&gt;
-&lt;h3&gt;四、内推方式&lt;/h3&gt;
-&lt;p&gt;欢迎将感兴趣&lt;strong&gt;职位链接及简历直接发送到&lt;/strong&gt; &lt;a href="mailto:trinea.cn@gmail.com"&gt;trinea.cn@gmail.com&lt;/a&gt; 或微信联系我(trinea)内推。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;人在滴滴&lt;/strong&gt;&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://public-cdn.mokahr.com/didiglobal/093249d7-357f-410b-9e2a-d6f1cb51f2a6.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;全面回报体系&lt;/strong&gt;&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://public-cdn.mokahr.com/didiglobal/f2a9b8a0-ddcc-44a3-92ee-d457c506870a.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 10:52:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011905#reply0</guid></item><item><title>[宽带症候群] 记录广州移动企业专线宽带的办理流程（后续）</title><link>https://www.v2ex.com/t/1011903#reply1</link><description>&lt;p&gt;前篇在这里: &lt;a href="https://www.v2ex.com/t/995015" rel="nofollow"&gt;https://www.v2ex.com/t/995015&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;历时两个月整，这直播专线是终于装好了。现在就来对这条专线进行一系列测试。&lt;/p&gt;
-&lt;h2&gt;基本信息 (修正)&lt;/h2&gt;
-&lt;p&gt;上次所讲的套餐信息和实际开通的有些不一致，因此在这里重新过一遍基本信息。&lt;/p&gt;
-&lt;p&gt;套餐内包含两条互联网专线，一条 500M 上 250M 下，一条 20M 上 200M 下。799/月，合约期一年。&lt;/p&gt;
-&lt;p&gt;500M 的包括固定 IPv4 和 IPv6 /64 ，PTN 接入，200M 的仅有固定 IPv4 ，没有 IPv6 ，PON 接入 (移动客户经理下单的时候忘记备注需求，导致没有 IPv6 和 PTN)。均通过静态路由方式接入。&lt;/p&gt;
-&lt;p&gt;实际测试，500M 的专线为 500M 对等 (实测 550 上 650 下)，200M 的为标称速度，20M 上 200M 下。国内跨网性能优秀，到电信联通均能跑满。&lt;/p&gt;
-&lt;p&gt;PTN 方面，移动提供了一台华为 PTN960 作为入户 PTN 设备，双路由接入。&lt;/p&gt;
-&lt;h2&gt;国际路由&lt;/h2&gt;
-&lt;p&gt;省流：和家宽几乎没区别。&lt;/p&gt;
-&lt;p&gt;最近移动骨干网 / CMI 路由爆炸，大部分的延迟都是在移动网内出现的。以下数据仅供参考 (没写是 IPv6 的就是 IPv4)。&lt;/p&gt;
-&lt;p&gt;到 AWS: HK 37.3ms / HK(IPv6) 15.4ms / SG 50.1ms / JP 190ms 且丢包。&lt;/p&gt;
-&lt;p&gt;到 GCP 全部炸裂，绕沪，包括 IPv6 。200ms+。&lt;/p&gt;
-&lt;p&gt;到 Akamai: 35.5ms, IPv6 17.1ms 。&lt;/p&gt;
-&lt;p&gt;到 CloudFlare HK: 11.1ms 。&lt;/p&gt;
-&lt;p&gt;还有什么需要测试的运营商/IP 也可以发给我，我这边可以测试。&lt;/p&gt;
-&lt;p&gt;不管是 IPv4 还是 IPv6 走的都是 CMI ，没有 CMIN2 。&lt;/p&gt;
-&lt;p&gt;观测下来路由和广州移动家宽基本一致，唯一的区别就是静态路由且直接接入汇聚层，因此无需经过 NAT 转换且 3 跳以内就能从广东移动 (AS56040) 跳进移动骨干网 (AS9808)。同时也不需要担心 PON 接入导致的带宽抢占，随时跑满。&lt;/p&gt;
-&lt;p&gt;此前有朋友提到过专线会有更佳的 QoS ，目前在国际路由上并没有观察到任何不同。个人认为这个高 QoS 仅限于接入到 9808 骨干网前的这一段，即在末端接入和 56040 网内有更高的稳定性。&lt;/p&gt;
-&lt;h2&gt;一些评论&lt;/h2&gt;
-&lt;p&gt;总的来说，这个套餐在“正规途径能买到的国内大带宽”中，算是较为便宜的一档了。目前我只听说江浙沪一带有更便宜的直播专线。而且客户经理确认上行是不会被限速的，只要不用汇聚的方式做 PCDN 就行。&lt;/p&gt;
-&lt;p&gt;目前我一天上传约 2T 文件。不是 PCDN ，也不是 PT 。跑几天再来看看是否确实不会限速。&lt;/p&gt;
-&lt;p&gt;缺点也相当明显：移动的效率实在是太低了！我这边前前后后装了两个月才装好，这期间不断有人需要上门，安装效率属实比电信差很多。&lt;/p&gt;
-&lt;p&gt;另外，这毕竟是需要营业执照和实体地址才能办的套餐，而且考虑到当前移动的炸裂路由，个人感觉这个套餐并不适合用来中转。&lt;/p&gt;
-&lt;p&gt;但是，如果是像我这样，用来做针对国内的大文件分发，或是直播带货 (多个终端同时录播) 的用途的话，移动的这个直播专线还是挺值得的，国内性能优秀。&lt;/p&gt;
-&lt;p&gt;题外话，据客户经理说，这个套餐还可以按照这个费率叠加，出具一份套餐变更合同即可。也就是说可以变成 1598 元/G 口对等 2IP ，甚至继续叠加下去。&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 10:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011903#reply1</guid></item><item><title>[问与答] 50 寸电视选择</title><link>https://www.v2ex.com/t/1011901#reply0</link><description>给爸妈用的，卧室电视机，目前中意：&lt;br /&gt;TCL 50T8G Max 2049 元&lt;br /&gt;雷鸟 鹏 6SE 1479 元&lt;br /&gt;小米 ES50 1999 元&lt;br /&gt;&lt;br /&gt;看下来似乎只能在 TCL 和雷鸟中二选一了，不知道大家有什么推荐的吗</description><pubDate>Fri, 26 Jan 2024 10:30:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011901#reply0</guid></item><item><title>[求职] 远程副业，独立开发</title><link>https://www.v2ex.com/t/1011900#reply0</link><description>&lt;p&gt;有靠谱的远程副业，以及正在进行的项目，缺后端开发的嘛，本人从事 7 年 java 开发，求推&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 10:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011900#reply0</guid></item><item><title>[程序员] 今天终于用 graalvm 和 springboot3 写了个 hello world</title><link>https://www.v2ex.com/t/1011899#reply0</link><description>网上找了一些教程,基本都有点问题，然后去 spring 官网看了下教程终于成功打包 exe,跟 golang 比起来，连我这个写了很多年 java 的都觉得费劲，aot 编译耗时确实长,不知道这块生态支持得怎样了 例如 mybatis 、redis 、mongo 、mq 等是否已经跟上，能上生产不</description><pubDate>Fri, 26 Jan 2024 10:03:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011899#reply0</guid></item><item><title>[PayPal] 求助： Paypal 美区账号登不上去了</title><link>https://www.v2ex.com/t/1011898#reply0</link><description>&lt;p&gt;最近几周都尝试过登录美区 Paypal 账号，不管是全局代理还是直连，都卡在绑定手机号这里，之前一段时间 用 +86 手机号还可以在 Web 端成功登录的，现在 Web 端、iOS 客户端 都登不上去。&lt;/p&gt;
-&lt;p&gt;Apple 应用商店可以正常使用 Paypal 付款，这周刚买过东西。&lt;/p&gt;
-&lt;p&gt;登录失败提示：We’re having trouble making sure it’s you&lt;/p&gt;
-&lt;p&gt;是不是因为我没有 2FA ? 几个月前好像邮件提示过我设置 2FA ，一直没管。&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 10:03:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011898#reply0</guid></item><item><title>[区块链] 分享一个工具 oneclick-dapp 协助进行智能合约开发的工具</title><link>https://www.v2ex.com/t/1011897#reply0</link><description>&lt;p&gt;在开始进入区块链进行智能合约开发或者参与相关开发的时候经常会碰到一些场景就是需要去调用智能合约，但是这时候前端的开发人员还没有开发完所有的功能，但是又需要对合约进行调用。例如以下场景：
-团队开发协作中，合约开发者和前端开发者的配合&lt;/p&gt;
-&lt;p&gt;这时候如果没有合约开发者的帮助，前端同学是很难对合约的正确性、完整度、功能性等方面进行验证，也很难对应用的环境等进行相应的配置，非常头疼。而且这时候一起调试时，也不知道是前端调用的问题，还是合约本身的逻辑出现问题，大家互相拉扯，并没有很好的方式能够快速解决问题。
-在合约开发者提供了合约地址和 ABI 文件后，使用 OneClick DApp 就能够直接让前端开发者快速的调用、调试合约，快速定位问题，而无需合约开发者介入。能够大大提升开发效率，减少内部矛盾
-非技术人员在没有前端的情况下使用智能合约&lt;/p&gt;
-&lt;p&gt;没有前端支持的时候，想要使用智能合约开发的产品很困难，尤其是对于非技术人员。因此如果有一款工具能够直接使用 ABI 文件+合约地址就能开始同智能合约的交互，那就能在很大程度上帮助到非合约开发者。&lt;/p&gt;
-&lt;p&gt;OneClick DApp 可以链接钱包后开始填入合约的 ABI 信息和合约的地址就可以开始同合约进行交互。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://web3camp.us/oneclick-dapp" rel="nofollow"&gt;https://web3camp.us/oneclick-dapp&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 10:02:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011897#reply0</guid></item><item><title>[问与答] [黑脸提问] PayPal 绑完卡之后，不记得是哪个邮箱了，这种情况如何进行处理？</title><link>https://www.v2ex.com/t/1011896#reply0</link><description>目前是把卡锁了，但是还是希望找到这个账户并且删除掉&lt;br /&gt;&lt;br /&gt;可以求助 PayPal 客服嘛？&lt;br /&gt;最直接的方式是把卡消掉或者换个卡号&lt;br /&gt;&lt;br /&gt;个人还是偏向 PayPal 客服可以搞定这个事情，大佬们支支招</description><pubDate>Fri, 26 Jan 2024 10:00:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011896#reply0</guid></item><item><title>[职场话题] 干个外包的外包都能碰到某里的人</title><link>https://www.v2ex.com/t/1011894#reply2</link><description>&lt;p&gt;不是我对某里有成见，只是碰到的某里人真的...&lt;br /&gt;
-以前碰到的脾气不好爱推卸责任，但起码技术上可以的。&lt;br /&gt;
-这次碰到的真是...TA 是外包，我是外包的外包，不过都是干活的。
-特别聒噪...就是能说，吹牛，喷....不过不会在阿里也混不了，理解
-别人做的系统都是垃圾，总之不是按照互联网那一套的来的都是垃圾。其实最终甲方的系统其实还好的。
-技术上 TA 已经放弃了，docker WSL 之类的都几乎不了解...技术无用论(这点我基本也同意，特别是 java 领域)，不过也不至于放弃的这么彻底吧&lt;br /&gt;
-但是外面公司就爱互联网大厂。。。没辙&lt;br /&gt;
-不过工作没啥交集，其他都无所谓。&lt;br /&gt;
-个人的主要反感的是 聒噪 ，地方小，一说说半天。  我也只是去混混日子，过完年也不知道干到啥时候。&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:54:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011894#reply2</guid></item><item><title>[问与答] 电报能否接收群组和频道的新消息，但不让有新消息的群组跳到列表的最上边</title><link>https://www.v2ex.com/t/1011893#reply0</link><description>群组多了之后，有的群一直有人聊天，有新消息的群就会跳到我的群组列表的最上边，好烦</description><pubDate>Fri, 26 Jan 2024 09:54:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011893#reply0</guid></item><item><title>[分享创造] 招募种子用户，如果你经常用 notion，可以搂一眼</title><link>https://www.v2ex.com/t/1011892#reply1</link><description>&lt;p&gt;鉴于在 notion 中画思维导图、流程图等 diagram 非常麻烦（需要借用第三方平台，来回切换），做了一款在 notion 中直接画图的产品，产品功能开发的差不多了，现招募一批种子用户&lt;/p&gt;
-&lt;p&gt;希望你：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;经常使用 notion ，并有画图解的需求&lt;/li&gt;
-&lt;li&gt;使用过程中能提供有效反馈&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;能给予你的：&lt;/p&gt;
-&lt;p&gt;作为一个 solo maker ，没什么能拿得出手的，唯一可以给你的就是正式上线后正式会员&lt;/p&gt;
-&lt;p&gt;如果你也忍不了 notion 中画图解的麻烦或者你想尝试点不一样的，可以在评论区留下 vx 号我拉你&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:47:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011892#reply1</guid></item><item><title>[生活] [过年旅游]过年打算去洛阳玩，想问下有没有洛阳的 v 友，过年洛阳人多吗？</title><link>https://www.v2ex.com/t/1011891#reply0</link><description>&lt;p&gt;2 月 15 日左右从平顶山出发，哪些地方是推荐去的，哪些地方需要避坑？
-今年去的人会不会很多？&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:44:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011891#reply0</guid></item><item><title>[SSD] 致钛 SSD SC001 寿命这么差？</title><link>https://www.v2ex.com/t/1011890#reply0</link><description>ZHITAI SC001 256G SATA 盘，2 年，主机写入 7500G ，读 3660G ，怎么寿命就剩 36% 了？&lt;br /&gt;为什么主机写入跟 NAND 写入差别这么大？ &lt;br /&gt;&lt;br /&gt;&lt;a href="https://i2.100024.xyz/2024/01/26/srdm2y.webp" rel="nofollow noopener" target="_blank"&gt;https://i2.100024.xyz/2024/01/26/srdm2y.webp&lt;/a&gt;</description><pubDate>Fri, 26 Jan 2024 09:40:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011890#reply0</guid></item><item><title>[问与答] 联通的大王卡有点坑啊</title><link>https://www.v2ex.com/t/1011889#reply0</link><description>&lt;p&gt;我突然发现个事情，我有一个移动的卡和一个联通大王卡，平时联通的上网，移动的打电话，但是我发现我每次打电话，怎么在联通的 App 里面也有记录，而且还扣费了，有没有大哥们知道这是什么情况？&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:39:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011889#reply0</guid></item><item><title>[职场话题] 有没有备考今年 5 月软考高级的？大家讨论互通有无</title><link>https://www.v2ex.com/t/1011888#reply2</link><description>&lt;p&gt;我打算考系统分析师，感觉下午两场还挺难的，没思路……
-大家一起讨论&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:38:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011888#reply2</guid></item><item><title>[酷工作] 福报厂云 CDN 内推~base 北京杭州~</title><link>https://www.v2ex.com/t/1011887#reply0</link><description>&lt;p&gt;帮朋友内推下，目标职级 p6 、p7 ，感兴趣的可以留下联系方式，建立发送到邮箱:ODc0NzMzNTc3QHFxLmNvbQ==或者 vx：aWRfYmVsaWVmWXU=，帮你跟踪问问进度~&lt;/p&gt;
-&lt;p&gt;职位描述
-1 、负责阿里云边缘云智能调度系统核心架构设计开发与算法设计开发。&lt;/p&gt;
-&lt;p&gt;2 、负责阿里云边缘云网络质量感知系统、业务&amp;amp;资源画像系统的设计与开发优化。&lt;/p&gt;
-&lt;p&gt;3 、负责阿里云边缘云全局资源调度系统、全局负载均衡系统设计与开发优化。&lt;/p&gt;
-&lt;p&gt;4 、负责阿里云边缘云智能调度系统相关（高性能）服务器的设计与开发优化。&lt;/p&gt;
-&lt;p&gt;职位要求
-1 、有扎实的工程落地能力，精通 C/Golang 至少一种开发语言，熟悉常用性能分析、调试工具；精通 Linux 操作环境，掌握 1-2 种脚本语言。&lt;/p&gt;
-&lt;p&gt;2 、熟悉运筹优化算法（图论、路径规划、组合优化）、ACM 和数学建模大赛获奖者优先；有 CDN 调度、云计算或边缘计算资源调度相关经验者优先。&lt;/p&gt;
-&lt;p&gt;3 、熟悉 DNS 协议以及 DNS 基本网络框架或 HTTP 协议以及常用 HTTP 服务器基本框架, 有 DPDK 开发高性能 DNS 经验、有 nginx 模块开发经验优先。&lt;/p&gt;
-&lt;p&gt;4 、有激情、执行能力强、抗压能力强；有想法、有担当，能以顽强的意志坚持理想不服输。&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:36:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011887#reply0</guid></item><item><title>[路由器] 求问大佬们，为什么无线路由器串联后，第二个路由器测速很慢？</title><link>https://www.v2ex.com/t/1011886#reply7</link><description>&lt;p&gt;我的连接如下：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://i.imgur.com/lHIQTme.png" rel="nofollow"&gt;https://i.imgur.com/lHIQTme.png&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我家是电信 500m 宽带，电信的光猫下直接连了一个千兆 tplink 路由器，网线都是超 6 类的，电脑直连 tplink 测速只有 100m ，电脑直连到光猫测试 500m 正常。&lt;/p&gt;
-&lt;p&gt;我有两个 tplink 都是千兆的，两个分别放在书房和卧室，连接 tplink 测试无论是有线还是无线测试都是 100m ，这是哪里出了问题呢？&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:36:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011886#reply7</guid></item><item><title>[职场话题] 嵌入式软开还是 Java</title><link>https://www.v2ex.com/t/1011885#reply0</link><description>&lt;p&gt;大学还有毕业前实习做的都是嵌入式方面的软件开发，原本规划的是做 ai 模型嵌入式部署方面的工作，上家公司实习的有点久，春招来了现在这家公司，当时来的时候是说做视频 ai 方面的工作，正好与我规划的方向一致。结果来了之后先做的一个数字孪生的项目，现学的 unity 和 c#干了俩月，多少沾点嵌入式，但是嵌入式部分的工作是外包出去的。做完毕设回来又让转 java 了。现在写了半年 Java 了已经=。=跟自己原本的职业规划一点也沾不上边。感觉自己现在是全沾工程师，啥也沾点，啥也不精。感觉 java 的东西太多太杂了，该跳槽回去干老本行还是继续在这干，感觉现在的 java 太卷了。&lt;/p&gt;</description><pubDate>Fri, 26 Jan 2024 09:35:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011885#reply0</guid></item><item><title>[宽带症候群] 上海电信 5000M 宽带</title><link>https://www.v2ex.com/t/1011883#reply19</link><description>上海电信 5000M 宽带&lt;br /&gt;&lt;br /&gt;宽带接入网不同于互联网专线，用户需要遵守公平使用原则。&lt;br /&gt;5000M 可选上行速率分别为 100M 、30OM,500M 、1000M 、2000M 。&lt;br /&gt;每日累计上行流量超过 3000GB 时，电信公司可能将上行速率调整至不低于 50Mbps ，次日恢复;&lt;br /&gt;每月累计上行流量超过 48TB 时，电信公司可能将上行速率调整至不低于 50Mbps ，次月恢复。</description><pubDate>Fri, 26 Jan 2024 09:32:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011883#reply19</guid></item><item><title>[问与答] GL8 座椅改装 求推荐</title><link>https://www.v2ex.com/t/1011879#reply1</link><description>想买一个 GL8 椅子当居家工作椅，xdm 有在用的吗？ 求链接</description><pubDate>Fri, 26 Jan 2024 09:22:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011879#reply1</guid></item></channel></rss>
+&lt;li&gt;屏幕适配（桌面、iPad 、手机）&lt;/li&gt;
+&lt;li&gt;主题切换&lt;/li&gt;
+&lt;li&gt;主页&lt;/li&gt;
+&lt;li&gt;文章列表&lt;/li&gt;
+&lt;li&gt;项目列表&lt;/li&gt;
+&lt;li&gt;标签列表&lt;/li&gt;
+&lt;li&gt;分类列表&lt;/li&gt;
+&lt;li&gt;文章分页加载&lt;/li&gt;
+&lt;li&gt;阅读时间&lt;/li&gt;
+&lt;li&gt;文章目录&lt;/li&gt;
+&lt;li&gt;多语言&lt;/li&gt;
+&lt;li&gt;分享转发&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sat, 27 Jan 2024 02:46:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011984#reply0</guid></item><item><title>[分享创造] openclash 的配置如何应用到 Windows 上面？</title><link>https://www.v2ex.com/t/1011983#reply0</link><description>&lt;p&gt;在此之前，用电脑的地方都会有一个软路由负责跑 openclash 。所以我的所有配置都是基于 openclash 上面的维护的。
+现在去实习了，不可能为了 6 个月专门买个工控机跑 openclash ，有没有办法可以把 openclash 的配置转到 clash for windows 上面。&lt;/p&gt;
+&lt;p&gt;尝试了：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;openclash 直接导出配置。不太现实，很多东西都要改（比如 rules-providers 的路径）。&lt;/li&gt;
+&lt;li&gt;clash for windows 的 mixin 。这个 mixin 是直接覆盖的。如果我想 append 内容就做不到了。（ openclash 上面的很多配置我都是设置的是 append ）&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sat, 27 Jan 2024 02:46:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011983#reply0</guid></item><item><title>[香港] 有个香港本地购物的想法</title><link>https://www.v2ex.com/t/1011982#reply5</link><description>家就在深圳，平时去香港还比较方便&lt;br /&gt;&lt;br /&gt;但是去九龙港岛这块还是很远，通勤要一个多小时&lt;br /&gt;&lt;br /&gt;有没有可能都在香港网购，配送到离口岸近一点的一些快递柜然后去自提，减少去香港港岛通勤的成本？&lt;br /&gt;&lt;br /&gt;不知道这个想法现实不</description><pubDate>Sat, 27 Jan 2024 02:35:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011982#reply5</guid></item><item><title>[问与答] 新能源车里的触摸屏都是如何生存的？</title><link>https://www.v2ex.com/t/1011981#reply1</link><description>&lt;p&gt;特别是炎炎夏日，外面烤了一天的汽车，室内温度能达到 60 70 摄氏度，仪表盘上方甚至能到 80 多度。现在很多车的屏幕都是高凸起来的，加上背面基本都是最易吸热的黑色，摸起来都烫手。&lt;/p&gt;
+&lt;p&gt;手机 笔记本电脑 要是长年累月放车里，估计不到一年就废了&lt;/p&gt;
+&lt;p&gt;那么高温度，这些屏幕如何能生存下来&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 02:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011981#reply1</guid></item><item><title>[南京] 网友们好啊！谁能推荐下南京景点吗？</title><link>https://www.v2ex.com/t/1011980#reply1</link><description>虽说我是南京本地人，但是有些地方没去过，我的高德地图角落点亮才 18.9%😂😂😂</description><pubDate>Sat, 27 Jan 2024 02:21:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011980#reply1</guid></item><item><title>[宽带症候群] 上海腾讯云访问 AWS S3，最近每天都能遇到 Connection reset by peer</title><link>https://www.v2ex.com/t/1011979#reply1</link><description>&lt;p&gt;我在该服务器上每天备份三次，最近总有报错，看了详细日志，报错的都在晚上，还挺规律，12 月 11 日开始的。真是谢谢了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/hDLyrOG.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Jan 2024 02:19:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011979#reply1</guid></item><item><title>[Android] 三星 s24 的 ai 功能，有哪些是跟国内合作的啊，我想对比一下美版或者其他版本</title><link>https://www.v2ex.com/t/1011978#reply1</link><description>三星 s24 的 ai 功能，有哪些是跟国内合作的啊，我想对比一下美版或者其他版本，国内的一言难尽，如果没有广告还好点，就怕都是毒瘤</description><pubDate>Sat, 27 Jan 2024 02:06:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011978#reply1</guid></item><item><title>[生活] 在你的人生中有遇到哪些，第一眼就让你心都要融化了的女生，有哪些？(不限于心怦怦跳)</title><link>https://www.v2ex.com/t/1011977#reply19</link><description>我先来：我初恋</description><pubDate>Sat, 27 Jan 2024 01:46:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011977#reply19</guid></item><item><title>[程序员] 如何入手学习一个 Java 后端项目？</title><link>https://www.v2ex.com/t/1011976#reply3</link><description>LZ 是前端想学后端，目前看完了语言和 Spring 框架的一些理论知识，打算拉几个项目下来学习然后自己跟着写一个。&lt;br /&gt;&lt;br /&gt;以自己以前学前端的经验，是从 github 拉一个项目，从登录鉴权、请求封装、路由配置、组件封装、hooks 封装、状态管理看一遍梳理一遍，然后还有一些常见需求如何解决（如文件下载等）&lt;br /&gt;&lt;br /&gt;想问下学习一个 Java 后端项目，类似要重点看的部分都有哪些？前端一般都是找各种实现和封装功能齐全的大型管理系统学习，后端该找哪类项目学呢？接下来如果时间多的话还打算看一下 go 然后也跟着视频写个项目，go 项目要学习的重点也和 Java 一样吗？</description><pubDate>Sat, 27 Jan 2024 01:46:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011976#reply3</guid></item><item><title>[问与答] 有什么好用的邮件客户端推荐？</title><link>https://www.v2ex.com/t/1011975#reply9</link><description>众所周知，Windows 马上就要把邮件砍了，新版的 outlook 加载不是一般的慢，虽然开了 365 不用忍受广告。还是想找一个替代品，试了如网易邮箱大师，总感觉各种功能（还有很多 VIP ）太臃肿&lt;br /&gt;有没有推荐的 Windows 邮件客户端？如果有多端的就更好了，现在各个设备都还在用自带的邮件</description><pubDate>Sat, 27 Jan 2024 01:40:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011975#reply9</guid></item><item><title>[程序员] 有使用 Rust 开发手机端软件的资料吗？</title><link>https://www.v2ex.com/t/1011973#reply5</link><description></description><pubDate>Sat, 27 Jan 2024 01:30:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1011973#reply5</guid></item></channel></rss>
