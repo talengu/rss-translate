@@ -1,116 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 29 Jan 2024 20:35:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 亚马逊 aws 的 ipv4 ipv6 价格</title><link>https://www.v2ex.com/t/1012619#reply0</link><description>&lt;p&gt;亚马逊口口声声说为了推广 ipv6 并且 ipv4 不够用了 所以要涨价，但是亚马逊的 cloudfront 却一直都不支持 ipv6 回源，这是不是有点矛盾的，连在一起看感觉有点左右手不协调的滑稽&lt;/p&gt;
-&lt;p&gt;还是说推广 ipv6 是假，找个借口涨价是真？&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 19:38:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012619#reply0</guid></item><item><title>[宽带症候群] 家宽如何获取对端 bras 信息呢</title><link>https://www.v2ex.com/t/1012618#reply1</link><description>&lt;p&gt;RT ，最近看一些帖子，发现经常有提到看 bras 信息的（ AC-name 之类的）&lt;/p&gt;
-&lt;p&gt;目前手上的设备是爱快+op 旁路由，有没有办法能看一眼 bras 信息呢，也比较好奇这边运营商用的设备和学校里的有啥区别&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 18:48:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012618#reply1</guid></item><item><title>[Surge] Surge for Mac 屏蔽 Youtube 广告？</title><link>https://www.v2ex.com/t/1012617#reply1</link><description>&lt;p&gt;最近在折腾 Surge, 试了好多模块貌似都不能屏蔽 youtube 广告。&lt;/p&gt;
-&lt;p&gt;这个是不是只能在 ios surge 上用？ mac 开了之后就打不开 youtube 了
-&lt;a href="https://github.com/Maasea/sgmodule/blob/master/YoutubeAds.sgmodule" rel="nofollow"&gt;https://github.com/Maasea/sgmodule/blob/master/YoutubeAds.sgmodule&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;请问大家有什么办法能屏蔽么。&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 18:26:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012617#reply1</guid></item><item><title>[MacBook Pro] 快速解决 macbook pro 连接 Rode wireless go 无线外置麦克风问题</title><link>https://www.v2ex.com/t/1012615#reply0</link><description>macbook 电脑如何连接 Rode wireless go 无线外置麦克风&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&lt;br /&gt;00:00 开始&lt;br /&gt;00:16 前期准备，准备好 3 个连接工具&lt;br /&gt;00:27 准备一个 USB 转麦克风的连接线&lt;br /&gt;00:50 准备一个 USB-C 转 USB 的连接线&lt;br /&gt;01:43 最终连接效果图&lt;br /&gt;01:58 在 macbook 电脑系统设置里面，声音的输入部分选择 USB Audio Device&lt;br /&gt;02:20 订阅我们的频道</description><pubDate>Mon, 29 Jan 2024 17:48:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012615#reply0</guid></item><item><title>[奇思妙想] 已知和另一个人有一个共同 QQ 好友，如何在不互相暴露好友列表的情况下找出这个共同好友？</title><link>https://www.v2ex.com/t/1012614#reply2</link><description>&lt;p&gt;今天加群 QQ 给我弹了一个共同好友提示，突然想到的，感觉和零知识证明有点像？网上搜了下应该是隐私集合求交，如果是算法倒是可以直接用，但是在这个情景下我还没想到有什么特别方便的解决办法 😂 如果做哈希比对的话不安全，彩虹表一下就跑出来了&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 17:48:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012614#reply2</guid></item><item><title>[Google] Gboard 在苹果上的九键怎么打出问号？求问</title><link>https://www.v2ex.com/t/1012613#reply1</link><description></description><pubDate>Mon, 29 Jan 2024 17:20:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012613#reply1</guid></item><item><title>[程序员] MySQL 和 SQLite 可以对其执行 SQL 添加一个约束吗？就是删改的 SQL 语句必须要带上 where，如果没有就不执行</title><link>https://www.v2ex.com/t/1012612#reply1</link><description>&lt;p&gt;因为我每次删改的时候都心惊胆战的，生怕忘了 where 导致全局操作数据，所以想问问有没有这样的功能？&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 17:04:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012612#reply1</guid></item><item><title>[问与答] 合同即将到期, BOSS 已明确不会续签</title><link>https://www.v2ex.com/t/1012611#reply4</link><description>&lt;p&gt;之前合同都是 1 年 1 签(当前已是第三次签约, 2 月 1 号到期), 在本月初的谈判拉扯中, 已经谈好了赔偿(但是没说什么时候给, 人事说要跟老板再反馈, 这都反馈了快 1 个月了, 也没见人事说下文, 当时通话已录音).&lt;/p&gt;
-&lt;p&gt;1 月 31 号上完班公司就放假了, 但是这都到月底了, 人事也没有说要再谈话的意思, 我的想法是之前的工作做的很心累, 打算趁年后先考驾照, 顺便给自己放放假, 在此想咨询一下 V 友如下几个问题:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;我要不要主动找人事催赔偿打款?&lt;/li&gt;
-&lt;li&gt;如果我不找人事问, 放假前人事也不找我谈论相关事项, 我是不是年后要继续过来上班?&lt;/li&gt;
-&lt;li&gt;像这种合同到期, 公司主动不续约的, 除了赔偿外, 公司要给我开哪种证明?类似劳动合同终止的证明还是离职证明?&lt;/li&gt;
-&lt;li&gt;会不会开了离职证明后公司就不给赔偿了?&lt;/li&gt;
-&lt;li&gt;我的理想想法是, 拿到赔偿, 公司给我开了离职证明, 且在年后考驾照期间还能拿到失业金, 是否鱼与熊掌可以兼得?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;PS:网上搜索了相关问题, 基本都是导流到律师咨询所, 没法全信.&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 16:47:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012611#reply4</guid></item><item><title>[分享创造] 语雀/Notion/飞书/FlowUs + Hexo/VitePress/Halo/WordPress 快速搭建博客/文档站点</title><link>https://www.v2ex.com/t/1012610#reply0</link><description>&lt;h2&gt;🔨 工具汇总&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;写作平台：语雀/Notion/飞书/FlowUs &lt;/li&gt;
-&lt;li&gt;博客平台：Hexo/VitePress/Hugo 等一切基于 markdown 渲染的平台，以及 Halo/WordPress 站点&lt;/li&gt;
-&lt;li&gt;同步工具：&lt;a href="https://elog.1874.cool" rel="nofollow"&gt;Elog&lt;/a&gt;：Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress 等)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;📦 开箱即用&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/elog-x/notion-hexo" rel="nofollow"&gt;Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案&lt;/a&gt;  👉  &lt;a href="https://notion-hexo.vercel.app/" rel="nofollow"&gt;Notion-Hexo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/elog-x/yuque-vitepress" rel="nofollow"&gt;语雀 + Elog + VitePress + GitHub Actions + Vercel 文档站点解决方案&lt;/a&gt;  👉  &lt;a href="https://yuque-vitepress.vercel.app/" rel="nofollow"&gt;Yuque-Vitepress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/elog-x/flowus-halo" rel="nofollow"&gt;FlowUs + Elog + Halo + GitHub Actions 博客解决方案&lt;/a&gt;  👉  &lt;a href="https://halo.1874.cool/archives/flowus-halo" rel="nofollow"&gt;FlowUs-Halo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/elog-x/notion-halo" rel="nofollow"&gt;Notion + Elog + Halo + GitHub Actions 博客解决方案&lt;/a&gt;  👉  &lt;a href="https://halo.1874.cool/archives/notion-halo" rel="nofollow"&gt;Notion-Halo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;开箱配置持续更新中，更多开箱配置等你实践&lt;/p&gt;
-&lt;h2&gt;社区最佳实践&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/LetTTGACO/elog?tab=readme-ov-file#-%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5" rel="nofollow"&gt;社区实践&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;自定义配置&lt;/h2&gt;
-&lt;p&gt;更多自定义配置请查看 &lt;a href="https://elog.1874.cool" rel="nofollow"&gt;Elog 文档&lt;/a&gt; &lt;/p&gt;
-&lt;h2&gt;Elog&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/LetTTGACO/elog" rel="nofollow"&gt;Elog Github&lt;/a&gt;
-欢迎 star&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 16:06:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012610#reply0</guid></item><item><title>[生活] 32 失业了，什么都会一点，什么也都不会</title><link>https://www.v2ex.com/t/1012609#reply7</link><description>&lt;ul&gt;
-&lt;li&gt;普通文科本科。&lt;/li&gt;
-&lt;li&gt;在上一家做 B 端教育的公司干了几年（集成商），啥都会一点但啥也不精通。&lt;/li&gt;
-&lt;li&gt;做过平面设计、写过售前方案、做过售后、当过产品经理（一点点）、干过讲师、做过硬件实施、linux 运维（简单的运维）等。&lt;/li&gt;
-&lt;li&gt;出于兴趣通过 NAS 学习了不少 linux 、编程和 IT 这一块的东西，平时在闲鱼提供 NAS 服务挣点饭钱。&lt;/li&gt;
-&lt;li&gt;想做个网工，在看资料希望考个 HCIE 。但由于年龄比较尴尬，不知道拿到证之后找工作好不好找。&lt;/li&gt;
-&lt;li&gt;或者就考个事业编算了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;有没有类似的过来人能给点建议呢，感谢🙏&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 16:00:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012609#reply7</guid></item><item><title>[信息安全] Windows 怎么安全不留痕地拷贝文件、删除文件</title><link>https://www.v2ex.com/t/1012608#reply8</link><description>&lt;p&gt;需要把自己笔记本电脑的一些文件拷贝到 U 盘，并且删除原有文件
-怎么做到保密性，不留痕呢&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 15:30:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012608#reply8</guid></item><item><title>[程序员] 有做无线基站的伙伴吗？美国 helium 公司实现了低成本手机通信：用户自建小型无线基站+传统 icp 光纤网络，想弄清楚这里面的个人基站成本和公司利润率的门道🤔。</title><link>https://www.v2ex.com/t/1012607#reply0</link><description>有做无线基站的伙伴吗？美国 helium 公司推出了 mobile 无线网络方案。用户可以直接自己花钱购买小型基站 hotpot 。目前实现的通信场景：用户自建小型无线基站+传统 icp 光纤网络&lt;br /&gt;&lt;br /&gt;想弄清楚下面的疑惑🤔️：&lt;br /&gt;&lt;br /&gt;1. 这种模式跟传统的 icp 公司（美国的 AT&amp;amp;T, Spectrum)对比，规模成本能有 100 倍的下降吗？&lt;br /&gt;2. 一个小型的链接手机信号的无线基站成本现在大概多少钱？&lt;br /&gt;3. 一个月租$20 元的手机 sim card ，对于一个通信公司说，利润率能有多少？&lt;br /&gt;&lt;br /&gt;建了个 helium 和 mobile 无线网络电报群，又名：v2exers 迎接 2025 年加密货币牛市&lt;br /&gt;点击链接加入：&lt;br /&gt;&lt;a href="https://t.me/v2excrypto" rel="nofollow noopener" target="_blank"&gt;https://t.me/v2excrypto&lt;/a&gt;</description><pubDate>Mon, 29 Jan 2024 15:28:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012607#reply0</guid></item><item><title>[Apple] M1 Macbook Pro 被偷后，没有发送定位，可能是电池被拔了？</title><link>https://www.v2ex.com/t/1012606#reply3</link><description>&lt;p&gt;之前有一次，我的 M1 Macbook Pro 关机状态下忘在车站了，结果发现 Find My 里面居然还能定位成功！后来看了一些文档，了解到 MacBook 关机状态下还是会发送蓝牙信号，通过其他 iPhone 来定位，有点像 Airtag 。&lt;/p&gt;
-&lt;p&gt;最近很不巧，包被偷了。。。我试了一个星期还是没在 Find My 里面看到任何更新，也没收到任何 Apple ID 钓鱼邮件。请问会是什么情况呢？电池被拔了？我记得现在的 MacOS 都有系统锁，是没有办法安装新系统的。&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 15:24:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012606#reply3</guid></item><item><title>[分享创造] 🔔 [iOS 应用自荐] ReHabit：专注个人每日习惯打卡与周目标 Beta 测试中...</title><link>https://www.v2ex.com/t/1012605#reply0</link><description>&lt;h2&gt;应用介绍&lt;/h2&gt;
-&lt;p&gt;每天投资一小时来维护和优化你所拥有的最重要的资产——你自己。ReHabit 是一款帮助你跟踪自我提升目标的绝佳应用。&lt;/p&gt;
-&lt;p&gt;任何习惯都是在反复练习或者重复性的经历中形成的，所以不再将目标留在计划中。受《高效能人士的 7 个习惯》和《要事第一》中理念的启发，ReHabit 为了帮助你养成好习惯，提供了自我提升、角色与目标、个人使命宣言等功能。另外，为了降低养成习惯的门槛，还提供了许多自动记录的方式和快捷方式，让你在平常使用手机的时候完成打卡记录。&lt;/p&gt;
-&lt;h3&gt;核心功能：&lt;/h3&gt;
-&lt;h4&gt;[自我提升] 将个人目标按身体、精神、智力和社会/情感层面进行划分，并制定目标及持续时间。通过每天投资一小时在这些目标上来不断提升自己。&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;将每日重要的目标按不同分类管理，每日自动重复。&lt;/li&gt;
-&lt;li&gt;通过应用或网站的屏幕使用时间自动更新目标的完成状态。&lt;/li&gt;
-&lt;li&gt;通过正念、健身数据自动更新目标的完成状态。&lt;/li&gt;
-&lt;li&gt;通过专注模式自动更新目标的完成状态。&lt;/li&gt;
-&lt;li&gt;自我提升优先模式。支持在完成每天一小时自我提升目标前，禁用指定应用或网站的访问，达到目标后自动解除禁用。&lt;/li&gt;
-&lt;li&gt;目标完成记录同步到系统日历。&lt;/li&gt;
-&lt;li&gt;提供每日、每周、每月的完成状态统计及分析。&lt;/li&gt;
-&lt;li&gt;联接到其它应用。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;[角色与目标] 按照生活中履行的不同责任来划分角色以及周目标，通过清晰角色组合来平衡先后次序。&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;管理不同的角色及角色所支持的使命宣言。&lt;/li&gt;
-&lt;li&gt;以周为单位为角色设定目标。&lt;/li&gt;
-&lt;li&gt;每周检查流程。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4&gt;[个人使命宣言] 将自己想成为的人或成就的事业或价值观和原则记录下来，用于每时每刻的激励自己。&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;个人使命宣言创作引导。&lt;/li&gt;
-&lt;li&gt;每日宣言随机提醒。&lt;/li&gt;
-&lt;li&gt;反思模式，沉浸式检查思每一则使命宣言。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;系统级功能：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;无账号设计，立即使用。&lt;/li&gt;
-&lt;li&gt;基于 iCloud 的云同步技术，支持不同设备间的数据同步。&lt;/li&gt;
-&lt;li&gt;丰富的桌面和锁屏小组件支持，包括：今日未完成自我提升目标、本周自我提升状态、个人使命宣言等。&lt;/li&gt;
-&lt;li&gt;支持通过 Apple Watch 查看及操作。&lt;/li&gt;
-&lt;li&gt;支持快捷指令和 Siri 控制，允许构建自己的工作流及自动化。&lt;/li&gt;
-&lt;li&gt;完美适配深色模式。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;应用截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="封面 1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/hcM3UuA.png" /&gt;
-&lt;img alt="封面 2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ZeraYxr.png" /&gt;
-&lt;img alt="封面 3" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/N1hZaaO.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;特殊功能演示&lt;/h2&gt;
-&lt;p&gt;自我提升优先功能展示： &lt;a href="https://youtube.com/shorts/YzuTawSa1Sk?si=EJJ-Jr4Xr1Oh-Uyi" rel="nofollow"&gt;https://youtube.com/shorts/YzuTawSa1Sk?si=EJJ-Jr4Xr1Oh-Uyi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;专注模式打卡设置展示： &lt;a href="https://youtube.com/shorts/LcZ1yxVn_WQ?si=ha41PqzJ0RgTOwCe" rel="nofollow"&gt;https://youtube.com/shorts/LcZ1yxVn_WQ?si=ha41PqzJ0RgTOwCe&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;下载链接&lt;/h2&gt;
-&lt;p&gt;最新 Beta 版本： &lt;a href="https://testflight.apple.com/join/vyKSon0K" rel="nofollow"&gt;https://testflight.apple.com/join/vyKSon0K&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个版本完善了通过所有的健身类型来自动打卡目标的功能，上一个版本只支持少量的健身类型。另外，也修复了一些讨厌的 Bug ，但貌似进入了漫长的审核流程中。&lt;/p&gt;
-&lt;p&gt;另外，也可以在 App Store 下载旧版本： &lt;a href="https://apps.apple.com/app/apple-store/id6446266347?pt=373140&amp;amp;ct=2&amp;amp;mt=8" rel="nofollow"&gt;https://apps.apple.com/app/apple-store/id6446266347?pt=373140&amp;amp;ct=2&amp;amp;mt=8&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;希望这款应用能够帮助您进行习惯养成和目标实现。如果您有任何问题或建议，欢迎评论。&lt;/h4&gt;</description><pubDate>Mon, 29 Jan 2024 15:21:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012605#reply0</guid></item><item><title>[硬件] 联想小新 Mini 小主机，在前置耳麦接口插麦 no work</title><link>https://www.v2ex.com/t/1012604#reply1</link><description>能确认麦是好的，在 Dell 台式机上能正常使用。&lt;br /&gt;联想这个前置耳麦插座有什么特殊吗，我看 Win11 系统有识别到这个 Realtek 麦克风，但就是一直显示未插入&lt;br /&gt;折腾了好久，好想打死柳传志</description><pubDate>Mon, 29 Jan 2024 15:14:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012604#reply1</guid></item><item><title>[程序员] Gboard 在苹果上的九键怎么打出问号？</title><link>https://www.v2ex.com/t/1012603#reply1</link><description></description><pubDate>Mon, 29 Jan 2024 15:11:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012603#reply1</guid></item><item><title>[问与答] openclash 导致 AndroidStudio 的 gradle 无法同步</title><link>https://www.v2ex.com/t/1012602#reply3</link><description>&lt;p&gt;路由器刷了个 ImmortalWrt ，安装了 openclash&lt;/p&gt;
-&lt;p&gt;AndroidStudio gradle 同步的时候会失败，在 openclash 中报错如下&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;2024-01-29 23:07:37 level=info msg="Auth failed from 192.168.6.100:7578"
-2024-01-29 23:07:37 level=info msg="Auth failed from 192.168.6.100:7573"
-2024-01-29 23:07:37 level=info msg="Auth failed from 192.168.6.100:7571"
-2024-01-29 23:07:36 level=info msg="Auth failed from 192.168.6.100:7568"
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 30 Jan 2024 20:18:34 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 阿里云，你有什么资格禁止你的客户转移域名？</title><link>https://www.v2ex.com/t/1012937#reply0</link><description>2024-01-30 09:32 收到阿里云发来的短信通知，两条&lt;br /&gt;&lt;br /&gt;原文如下&lt;br /&gt; [阿里云] 尊敬的 xxxx@126.com：您网站 &lt;a href="http://xxxxxx.top" rel="nofollow noopener" target="_blank"&gt;xxxxxx.top&lt;/a&gt; 涉及违法不良信息，请尽快核查清理，详见站内信及邮件。&lt;br /&gt;&lt;a href="https://imgur.com/aJ7Sr3L" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/aJ7Sr3L&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;2024-01-30 10:30 醒来才看到信息，当时因为正好出差，不太方便电脑查询具体原因，简单在手机上查看了一番，大意就是网站提供的一个用于 [刷步数] 的网页被用户举报了，然后官方觉得问题非常严重，影响非常恶劣&lt;br /&gt;&lt;br /&gt;被举报的这个网站主要是自己平时开发过程中会用到的一些接口服务，想着独乐乐不如众乐乐，带宽&amp;amp;CPU 闲着也是闲着，就做成公共接口分享出来了， [刷步数] 这功能就纯属娱乐，至今未收取过任何人一分钱。接口服务也是如此&lt;br /&gt;&lt;br /&gt;当时想法问题不大，不让玩等会有空就撤掉嘛，少维护个功能少操份心&lt;br /&gt;&lt;br /&gt;和同事出去办事顺便吃了点东西，回酒店路上 13:08 高潮来了&lt;br /&gt;&lt;br /&gt;阿里云又给我发来短信&lt;br /&gt;&lt;a href="https://imgur.com/bOFmu7W" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/bOFmu7W&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我他妈当时就呆住了，发错了吧？这才 216 分钟，直接关掉了该域名的 DNS 解析和转移权限&lt;br /&gt;&lt;br /&gt;赶紧拿手机测试，等了 10 分钟左右，果然部分地区已经无法正常访问网站了&lt;br /&gt;&lt;br /&gt;当时还并未完全死心，想着走工单先申诉一波，该整改整改&lt;br /&gt;&lt;br /&gt;剩下的我都懒得贴图了，申诉过程意思就是网页内容违规属实（还他妈定义我欺诈？我欺诈谁了？诈了啥？），要求提供营业执照等资质材料，但由于是个人博客站，怎么可能用企业备案呢？被直言否定，个人备案，不予解封&lt;br /&gt;&lt;br /&gt;急着申诉其中一大部分原因，是因为之前有个朋友公司的部分业务外包给我，当时因为他资料准备不够全，又想着产品快些上线就用了我这个域名，当时为了省事就直接开了子域名给朋友用，现在被阿里云整这么一出，对朋友的业务肯定是有影响，而且人家每天都有些流水的&lt;br /&gt;&lt;br /&gt;阿里云可不管这些，投诉最大&lt;br /&gt;&lt;br /&gt;突然想起上个月推出的《网络游戏管理办法》，心里突然有些悲恸&lt;br /&gt;&lt;br /&gt;这样力度的处理决定为什么没有预留一个缓冲时间？&lt;br /&gt;&lt;br /&gt;为什么阿里云可以随意限制客户个人资产的使用权限？&lt;br /&gt;&lt;br /&gt;这还算是互联网吗？&lt;br /&gt;&lt;br /&gt;可能我无论再怎么申诉也不可能改变，中间各个环节的角色都不想背锅，这些其实也都能理解&lt;br /&gt;&lt;br /&gt;但是，至少于我而言，会慢慢把这些不太起眼的积累，带到墙外&lt;br /&gt;&lt;br /&gt;不是不爱，是真的无奈</description><pubDate>Tue, 30 Jan 2024 19:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012937#reply0</guid></item><item><title>[Apple] iOS 隔空投送没有可共享的人是咋回事</title><link>https://www.v2ex.com/t/1012935#reply0</link><description>&lt;p&gt;突然发现好几周了都是这个样子。半个月前吧在公司想往 Mac 发视频，结果就是不管重启还是咋整，就是搜不到自己电脑；
+这次在家里要发个视频给 Mac ，还是点了共享依然是，压根没个搜索过程，点了就是显示附近没有可共享的人。
+iOS 是 15.6 ，Mac 是 Ventura ，俩设备登陆的不是一个 ID ，其他就没啥了，这 B 玩意到底咋回事？&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 18:41:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012935#reply0</guid></item><item><title>[Apple] 欧盟 iPhone 开放侧载，大陆又不开放侧载，所以在担心什么？</title><link>https://www.v2ex.com/t/1012933#reply0</link><description>首先我承认 iPhone 开放侧载确实会有安全方面的问题，这是肯定的。还有可能 App Store 上架阉割版，第三方 APP 商店提供全功能版本的问题。按照 Mac 的经验, 大概率会基于两个原因，一个是 App Store 的安全限制， 还有就是软件厂商故意区分版本。&lt;br /&gt;&lt;br /&gt;现在的问题是大陆又没有开放侧载，美国又没有开放侧载，我们真的要担心吗？&lt;br /&gt;&lt;br /&gt;反而我认为如果欧盟 iPhone 开放侧载美国没有开放侧载，我们反而多了个选择，要第三方 APP 商店去买欧盟 iPhone ，要安全你就选择大陆或者美国的 iPhone 。</description><pubDate>Tue, 30 Jan 2024 17:57:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012933#reply0</guid></item><item><title>[Apple] 创建了儿童账户，屏幕使用时间设置不同步</title><link>https://www.v2ex.com/t/1012931#reply0</link><description>&lt;p&gt;因为需要进行一些限制，我用 iPhone 创建了一个儿童账户加入了共享，并在 iPad 上登录了儿童账户&lt;/p&gt;
+&lt;p&gt;在 iPhone -&amp;gt; 设置 -&amp;gt; 屏幕使用时间 -&amp;gt; 家人（ xxx ），这里面设置的任何内容都没有同步到 iPad 上面，形同虚设，是我哪里操作不对吗&lt;/p&gt;
+&lt;p&gt;求教 V 友&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 17:23:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012931#reply0</guid></item><item><title>[程序员] 请教大佬们我应该学习什么硬件知识才能开发出这样的多通器🚀🚀🚀</title><link>https://www.v2ex.com/t/1012930#reply1</link><description>&lt;h4&gt;抱歉忘记标尺寸了，管子的粗细大约 3 毫米透明塑料软管，类似于打点滴的那种管子。下图这个多通器中是盐酸，我想通过电脑给这个多通器发送一个指令，然后相应的出口就打开了，软件出身，一点儿方向都没有，如何实现这样一个硬件呢？&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/makaspacex/PictureZone@main/uPic/iShot_2024-01-31_00.48.59.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;还有另外一个多通器，我想通过切换电路来实现控制 PH 探头的切换，这样一个硬件也是毫无头绪，也不知道难度高不高，请大佬指导！如果有同学对这两款硬件的开发感兴趣，我们可以一起学习，同时我会提供经费购买硬件、开发版、CNC 加工费、3D 打印费用等，欢迎来交流呀, vx: MTMwMDExNTE3MTc=&lt;/h4&gt;
+&lt;h4&gt;最后补充一点背景。目前，我有一个高精度泵和一个 PH 计，还有一个配套的 GUI 操作界面，通过电脑 USB 的 COM 通信控制泵和 PH 计读数，但是每次只能测试一个样品，非常慢。于是我想通过这样两个切换器来测试多个样品，提高测试效率。另一个替代方案是多个泵和 PH 计，但是泵和 PH 计很贵（一套加起来十几万），另一方面是需要接很多管子和线，设备一多会非常乱，容易出错。&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/makaspacex/PictureZone@main/uPic/uIoxAJ.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 17:12:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012930#reply1</guid></item><item><title>[微信] 微信真牛逼，视频加了 AI 识别</title><link>https://www.v2ex.com/t/1012929#reply3</link><description>&lt;p&gt;在视频通话里，点赞，爱心都会触发特效。。。&lt;/p&gt;
+&lt;p&gt;这要是和女朋友玩点花的，不是炸了？&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 17:10:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012929#reply3</guid></item><item><title>[问与答] Character.ai 的开源平替是啥？</title><link>https://www.v2ex.com/t/1012928#reply0</link><description>&lt;p&gt;最近在选型一些 ai 伴侣，想自己做个，不知道有没有高手有搞过类似项目的。。。&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 16:40:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012928#reply0</guid></item><item><title>[iPhone] iOS17 壁纸进入主屏幕之后饱和度/亮度降低？</title><link>https://www.v2ex.com/t/1012927#reply2</link><description>有遇到过的吗 iPhone15 Pro Max</description><pubDate>Tue, 30 Jan 2024 16:28:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012927#reply2</guid></item><item><title>[程序员] 微林的流量优化服务下线了，有没有可以替代的解决方案？</title><link>https://www.v2ex.com/t/1012926#reply0</link><description>&lt;p&gt;用了七八年，基本没为这事操过心，终究还是难逃政策影响。&lt;/p&gt;
+&lt;p&gt;有没有其他厂商类似服务，或者可以自建链路优化方案，本人国内外都有服务器可以学习技术，谢谢！&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 16:07:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012926#reply0</guid></item><item><title>[Windows] DLL 不是只读文件吗？玩个游戏能把硬盘上的游戏文件玩坏了</title><link>https://www.v2ex.com/t/1012925#reply2</link><description>&lt;p&gt;起因是新人舰长玩崩坏 3 剧情的时候在窗口模式下动画偶然卡死了，强制结束了游戏程序。
+重新启动就遇到了以下警告&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;⚠警告(3,1021,17008)
+=================================
+游戏文件缺失或损坏，请重装游戏客户端
+(BH3_Data\Native\UserAssembly.dll)
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;openclash 为	Fake-IP   |   增强模式&lt;/p&gt;
-&lt;p&gt;想知道这个是什么原因啊？应该如何调整呢？
-求佬们解答&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 15:10:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012602#reply3</guid></item><item><title>[分享创造] 做了一个小玩具：用 telegram bot 管理 aria2</title><link>https://www.v2ex.com/t/1012601#reply0</link><description>&lt;p&gt;我的个人 NAS 上搭建了一个 aria2 下载服务，并对外暴露 jsonrpc 接口。&lt;/p&gt;
-&lt;p&gt;过去我用 &lt;a href="https://github.com/ziahamza/webui-aria2" rel="nofollow"&gt;webui-aria2&lt;/a&gt;通过网页管理任务，在 PC 上使用体验很棒，但是当使用移动设备时网页的体验就相对不佳。&lt;/p&gt;
-&lt;p&gt;所以我写了一个 telegram bot：&lt;a href="https://github.com/ihciah/telearia2" rel="nofollow"&gt;telearia2&lt;/a&gt;，拿来管理 aria2 任务，支持新增、暂停、恢复、删除等基础操作，并可以获得实时刷新的任务进度。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://github.com/ihciah/telearia2/assets/1707505/7c2fa20c-16e8-40cb-a840-71a7a91b3726" /&gt;&lt;/p&gt;
-&lt;p&gt;感兴趣的朋友们可以试试看，使用项目内的配置文件和 docker-compose 文件启动容器即可。&lt;/p&gt;
-&lt;p&gt;支持通过正则提取消息内的链接、磁力链接，或通过上传 torrent 文件来创建下载任务。两周前写完了代码并部署在我的机器上，用了两周感觉稳定性和体验都还不错，分享给各位。&lt;/p&gt;
-&lt;p&gt;项目地址： &lt;a href="https://github.com/ihciah/telearia2" rel="nofollow"&gt;https://github.com/ihciah/telearia2&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 15:01:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012601#reply0</guid></item><item><title>[OpenAI] 教你一招，轻松赚回 ChatGPT Plus 订阅费用</title><link>https://www.v2ex.com/t/1012600#reply0</link><description>&lt;p&gt;看到一个支持 GPTs 的广告网站，如果你是一个 ChatGPT Plus 的订阅用户，那么可以通过集成广告赚回订阅费。&lt;/p&gt;
-&lt;p&gt;给大家看下集成后的效果：
-&lt;img alt="GTPs 上展示广告截图" class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/65b7bd04871b83018aff8a76.png" /&gt;&lt;/p&gt;
-&lt;p&gt;下面就是通过广告获取的收益，但最少提现金额是 50 美金。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="广告收入截图" class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/65b7bc86871b83018afd2342.png" /&gt;&lt;/p&gt;
-&lt;p&gt;集成之前，可以用我这个 GPTs 快速体验下：&lt;a href="https://chat.openai.com/g/g-d42LGHnUW-bao-kuan-wen-an-da-shi" rel="nofollow"&gt;爆款文案大师&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;网站地址：&lt;a href="https://app.adintelli.ai/" rel="nofollow"&gt;https://app.adintelli.ai/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 14:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012600#reply0</guid></item><item><title>[iCloud] iCloud 的邮箱真的太狠了，老是把有用的邮件放到垃圾邮件，垃圾邮件放到收件箱，连苹果自家的邮件都会进垃圾邮件</title><link>https://www.v2ex.com/t/1012599#reply12</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JZTBnMZ.png" /&gt;
-如图👆
-基本上我这里用 iCloud 收件都会默认打开垃圾邮件来收件，包括苹果自己家的邮件、LinkedIn 、Substack 、银行这类正常的邮件全部进垃圾邮件，然后从来没订阅过还没发取消的的邮件列表全部进收件箱。。。这样的情况持续很久了，不知道大家是否有同样的经验，还是说我在使用的时候有些什么问题。。。谢谢大家&lt;/p&gt;</description><pubDate>Mon, 29 Jan 2024 14:55:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012599#reply12</guid></item></channel></rss>
+&lt;p&gt;因为不懂 Windows 机制，感觉大开眼界。&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 16:01:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012925#reply2</guid></item><item><title>[问与答] Mac 装双系统后进不去 Mac 了，有什么办法保存数据吗？</title><link>https://www.v2ex.com/t/1012924#reply2</link><description>&lt;p&gt;给老款 Mac 装了个 Win11 ，不知道是动了哪个驱动，进不去 Mac 系统了，显示六国语言&lt;/p&gt;
+&lt;p&gt;Windows 还能进，恢复模式也能进，有什么办法恢复 Mac 或者保存 Mac 系统里的文件吗？&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 15:58:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012924#reply2</guid></item><item><title>[分享发现] 写了个标点符号使用方式的文档（还没写完）</title><link>https://www.v2ex.com/t/1012923#reply0</link><description>&lt;p&gt;最近在整理中文标点符号使用方式的文档。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="截图" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-6a0e9497c32892c11398d5dda7bd80a0_720w.png" /&gt;&lt;/p&gt;
+&lt;p&gt;起因是想增加对标点符号运用的了解，顺便练习文档写作。&lt;/p&gt;
+&lt;p&gt;一开始只想着方便自己，后面想到如果还能帮助到他人那可太好了（甚至考虑英译）。&lt;/p&gt;
+&lt;p&gt;整理进度已经到 70% 左右了，文档内容是基于国标文件的个人转述版（应该算注释整理版？）。&lt;/p&gt;
+&lt;p&gt;后续会开源到 github 和 gitee 上。&lt;/p&gt;
+&lt;p&gt;本来部署用的是 gitbook, 但是网页版上传直接把我手动添加的链接整没了。&lt;/p&gt;
+&lt;p&gt;再加上还想试试弄一个双链版本，所以考虑换部署方案——例如 vuepress 和 jekyll 。&lt;/p&gt;
+&lt;p&gt;但是写着写着没啥动力了，就先贴出来看看大伙是什么看法。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://caritas.gitbook.io/cn-punctuation-usage/" rel="nofollow"&gt;https://caritas.gitbook.io/cn-punctuation-usage/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 15:53:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012923#reply0</guid></item><item><title>[macOS] macos 14.4 idleassetsd 这个进程占用内存一直在涨</title><link>https://www.v2ex.com/t/1012922#reply0</link><description>&lt;p&gt;活动检测器里退出后，又会重新不断增长，有没有解决办法&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 15:49:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012922#reply0</guid></item><item><title>[问与答] 谷歌翻译大更新！支持文档，网站，图片。</title><link>https://www.v2ex.com/t/1012921#reply2</link><description>&lt;a href="https://img.717717.cloudns.biz/file/35230e45f7e74a935feb2.png" rel="nofollow noopener" target="_blank"&gt;https://img.717717.cloudns.biz/file/35230e45f7e74a935feb2.png&lt;/a&gt;&lt;br /&gt;刚刚在用谷歌翻译刷新了一下网页突然就变了&lt;br /&gt;试了一下图片以下是效果图&lt;br /&gt;&lt;a href="https://img.717717.cloudns.biz/file/f236dd9821cfb6351b76a.png" rel="nofollow noopener" target="_blank"&gt;https://img.717717.cloudns.biz/file/f236dd9821cfb6351b76a.png&lt;/a&gt;&lt;br /&gt;使用网页翻译 reddit 甚至还能继续浏览&lt;br /&gt;甩百度，bing ，deel 几条街了属于是</description><pubDate>Tue, 30 Jan 2024 15:47:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012921#reply2</guid></item><item><title>[问与答] Java 9 引入的这个模块，它对于 spring boot web 开发是不是没啥影响？</title><link>https://www.v2ex.com/t/1012919#reply0</link><description>有啥中文文章比较好地介绍了这个机制吗？我简单地看了看， 感觉像是在开发多模块项目时才用得上的？如果已经打包成 jar 或者 war 去部署，或者通过 maven 引入别的依赖，基本上是用不到这个的？&lt;br /&gt;&lt;br /&gt;谢谢</description><pubDate>Tue, 30 Jan 2024 15:43:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012919#reply0</guid></item><item><title>[分享发现] 基于微信平台的卖货一定做不起来，包括短视频、直播等等，开放平台的定位简直拖后腿，增加企业的负担</title><link>https://www.v2ex.com/t/1012917#reply1</link><description>&lt;p&gt;自认为在微信平台做了几个系统，以为对接些订单物流是信手拈来，我现在认栽。
+这几年微信什么新东西没有，限制倒是加了一大堆，开放平台的接口设计乱糟糟，各个能力各个坑，严重怀疑 kpi 是看接口量。
+这是吐槽帖，不吐不快：微信头像昵称、微信推送消息改了 N 次；订单物流一大堆接口就是煞笔想出来的，混乱，使用就像拆盲盒，我认为他们自己还没有搞清自己的定位。所谓开发者论坛不知道有几人维护，提问爱理不理。&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 15:13:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012917#reply1</guid></item><item><title>[职场话题] 来聊聊我这半年四五线小城市的运营商电信的工作内容和未来的想法</title><link>https://www.v2ex.com/t/1012913#reply0</link><description>&lt;p&gt;也是给过来人一个参考，看看你是否能够理解和接受这样的工作。&lt;/p&gt;
+&lt;p&gt;字数可能比较多，我尽量分段和简洁点，希望大伙能图一乐或者给我点意见。&lt;/p&gt;
+&lt;p&gt;首先是我个人的条件和情况在这，如果有兴趣的话也可以看看我半年前的情况：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.v2ex.com/t/936728#reply44" rel="nofollow"&gt;四线城市的电信 it 岗能久待吗？还是去大城市更好？&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;结果是去年毕业前也没有找到满意的工作。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;java 开发的 7-8k 广州&lt;/li&gt;
+&lt;li&gt;算法的 1w 劳务派遣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因此最终选择了去电信。&lt;/p&gt;
+&lt;h3&gt;首先是这半年大概的历程。&lt;/h3&gt;
+&lt;p&gt;这半年情况大概是这样，进来就先进行了差不多三个月的培训，定岗后接着干了两个月，又接着是一月春促下沉，合着我其实只做了两个月的活。&lt;/p&gt;
+&lt;p&gt;三个月期间培训内容非常符合我对于运营商各种刻板印象的想象，企业和职场文化的，还有就是话术、各种礼节礼仪以及公文撰写。对了，期间还体验了两周的校园卖卡生活。&lt;/p&gt;
+&lt;p&gt;我在三个月的培训后，突击了一场 java 开发的相关考试，所幸我这三个月每天下班回去宿舍都在看代码（那个时候在看诺依）或者刷算法题，刚刚好遇上了电信的“云改数转”计划，有幸加入了刚刚建立的二次开发团队，因此做了不到两个月的二开。目前正在从头在做一个系统，从技术选型到服务逻辑设计都几乎我一个人完成，这段时间写的很开心，也学了很多东西，比如 spring 中 bean 加载和配置的各种插件的生命周期、juc 、rabbitmq 、docker 、k8s 、satoken 、springsecurity 等我之前找工作时没来得及学的技术栈，也有不少我对设计模式新的理解，主要是在 spring 中找到了对应的方法，最主要是这些东西都是确实我在开发时遇到问题时，自然而然引入的，例如为了解决一致性、幂等性、支付时的削峰、多线程一起支付时等，我都是尽量问人或者在网上找解决方案看到的，感觉学的很开心。&lt;/p&gt;
+&lt;p&gt;当然期间也有许多考试，电信自己内部有许多认证，我的岗位要求的都是偏运维和交付的，但是经常是没有题库的，而且它提供的唯一学习方法是看它自建平台的网上大学，然而该平台上的网上大学 99%都是以别的内训师讲课的现场视频为主，质量大多都不行。但是我定岗的岗位要求的证书又不能少，只能花很多时间去学习那些课程。所以在这两个月除了平时上班写项目和学习考证外，基本都是靠晚上回宿舍自学要用的框架。&lt;/p&gt;
+&lt;p&gt;还有个小插曲就是二开时大伙的开发能力不太一样，我能见到师兄有些逆天的代码，比如用一个参数查表一次的或者用 jdbc 直接在 dao 层里拼接 sql 语句的（这个我不确度逆不逆天，但是他项目里明明引用了 mybatis-plus 的）&lt;/p&gt;
+&lt;h3&gt;接下来我要说说自己的打算和未来的事情了。&lt;/h3&gt;
+&lt;p&gt;首先是我被领导叫去参加了个 ai 相关的培训，师兄们都说这个机会非常难得和珍贵，但是这个培训是偏向产品经理和解决方案的（要推销介绍产品的），并且接下来年后还要去外地进行三个月的培训，个人其实不是很想参加这个，因为本身学计算机就是喜欢搞技术方案解决需求问题的，不想做产品解决相关，但是部门里只有我一个人懂 ai 相关的技术，有点被赶鸭子上架的感觉。目前打算是去和领导表明态度不想往这个方向发展了，确实不想再做让自己后悔的事情了。&lt;/p&gt;
+&lt;p&gt;其次就是自己的打算了，目前在电信待的感觉很憋屈，一是感觉自己能力完全施展不开来，大伙的学习氛围不是很好，所以最终导致了二开项目渐渐变成了我做的环节越来越多，很多方案设计都是我提出来的。二是自己还是想搞开发，这次实战确实让我自己觉得我能完成这些事情，包括但不限于能够主动去寻找新技术解决问题和学习，所以想跑的打算还是越来越强烈的。三是选择下接下来的发展方向，因为工作和云相关，并且岗位也有云证书的相关要求，故打算可以往云原生运维、Devops 这些去靠拢。&lt;/p&gt;
+&lt;p&gt;打算年后试试面试社招看看自己是个什么水平，可以的话我会瞄准下半年的秋招的 java 开发。&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 15:02:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012913#reply0</guid></item><item><title>[宽带症候群] 路由器有办法统计流量吗</title><link>https://www.v2ex.com/t/1012911#reply5</link><description>目前用的华为 AX3 pro 路由器，有什么插件/软件能统计路由器一周/一个月用了多少流量吗？&lt;br /&gt;&lt;br /&gt;背景：目前用的电信宽带太贵了，169 一个月，一个人用有点浪费。 打算换成随行 wifi + 200G/月流量卡， 但是不知道目前一个月的流量使用有多少，在路由器的管理员后台也没找到流量统计的功能。</description><pubDate>Tue, 30 Jan 2024 14:56:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012911#reply5</guid></item><item><title>[Apple] Vision Pro 已解禁，各博主总结：失望</title><link>https://www.v2ex.com/t/1012910#reply20</link><description>面上就是个 VR ，都不用说本质上&lt;br /&gt;屏幕还是那个屏幕：FOV 视野比 Quest3 还窄&lt;br /&gt;摄像头还是那个摄像头：一转头就有相机特有的运动模糊 一到弱光就像所有相机一样拉垮&lt;br /&gt;重量还是那个重量 电池还是那个电池&lt;br /&gt;总结：人类科技力已走到尽头，接下来就是存量博弈，尽快抛售产业相关股票</description><pubDate>Tue, 30 Jan 2024 14:56:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012910#reply20</guid></item><item><title>[分享创造] 做了三个红包封面，分享给大家啦</title><link>https://www.v2ex.com/t/1012909#reply9</link><description>&lt;p&gt;做了三个红包封面，每个 2000 份，分享给大家，祝大家新的一年红红火火～&lt;/p&gt;
+&lt;p&gt;领取链接在这里，链接里有详细预览视频，红包效果简要截图就看下面啦&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/eN6aySuc2DVW5rKEOQuByA" rel="nofollow"&gt;https://mp.weixin.qq.com/s/eN6aySuc2DVW5rKEOQuByA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/cn7TfP4aNeNuzzgOp91FJQ" rel="nofollow"&gt;https://mp.weixin.qq.com/s/cn7TfP4aNeNuzzgOp91FJQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://mp.weixin.qq.com/s/wnArTSGkbRVpgQqPZguhjg" rel="nofollow"&gt;https://mp.weixin.qq.com/s/wnArTSGkbRVpgQqPZguhjg&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;第一款风格封面
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/djt1nLr.png" /&gt; &lt;/p&gt;
+&lt;p&gt;第二款风格封面
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CiNu8zP.png" /&gt; &lt;/p&gt;
+&lt;p&gt;第三款风格封面
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/js8dZ58.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 30 Jan 2024 14:55:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1012909#reply9</guid></item></channel></rss>
