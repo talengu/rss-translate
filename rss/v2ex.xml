@@ -1,160 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 01 Feb 2024 03:21:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] tvbox 为什么这么香啊？后悔我怎么没早点发现</title><link>https://www.v2ex.com/t/1013331#reply0</link><description>&lt;p&gt;家人们最近在帮家里人解决电视家用不了的问题，才找到了 tvbox ，用起来是真的香啊，我那天晚上折腾的时候直接激动的睡不着觉。今年过年也不期望啥了，期望 tvbox 那些分享源的活菩萨能稳定提供直播源，我替我爹妈谢谢你们。&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013331#reply0</guid></item><item><title>[问与答] cloudflare 验证真人，无限制转圈怎么破？</title><link>https://www.v2ex.com/t/1013330#reply1</link><description>勾选以后，又开始验证真人，一致循环验证，过不了，怎么解决？&lt;br /&gt;已尝试更换节点，所有能用的节点都试过一遍了，无用，怎么办？</description><pubDate>Thu, 01 Feb 2024 03:19:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013330#reply1</guid></item><item><title>[Visual Studio Code] Java on Visual Studio Code 的更新 – 2024 年 1 月 测试覆盖率用户体验更新、 Java 语言服务器状态用户体验改进、修复“编辑器内容不同步”问题</title><link>https://www.v2ex.com/t/1013329#reply0</link><description>&lt;p&gt;大家好，欢迎来到 Visual Studio Code for Java 2024 年的第一期更新！提前祝愿大家春节快乐！在本博客中，我们将有关于 JDK21 、测试覆盖率界面以及用户体验相关的更新，让我们开始吧！&lt;/p&gt;
-&lt;h1&gt;Java 21 功能支持更新&lt;/h1&gt;
-&lt;p&gt;正如我们在去年 12 月的&lt;a href="https://devblogs.microsoft.com/java/2-5-million-java-developers-on-visual-studio-code/" rel="nofollow"&gt;路线图博客文章&lt;/a&gt;中所分享的那样，集成 JDK 21 支持是我们对增强核心体验的重点。在 JDK21 发布后，我们做了很多努力来支持它的新特性。在这里我们很高兴分享我们的目前进度。以下是我们当前支持和仍在开发中的功能的状态。&lt;/p&gt;
-&lt;p&gt;当前状态&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;430：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/430" rel="nofollow"&gt;字符串模板（预览）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;431：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/431" rel="nofollow"&gt;有序集合&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;439：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/439" rel="nofollow"&gt;分代 ZGC&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;440：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/440" rel="nofollow"&gt;记录模式&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;441：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/441" rel="nofollow"&gt;switch 的模式匹配&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;442：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/442" rel="nofollow"&gt;外部函数和内存 API （第三次预览版）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;443：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/443" rel="nofollow"&gt;未命名模式和变量（预览）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;正在进行中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;444：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/444" rel="nofollow"&gt;虚拟线程&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;445：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/445" rel="nofollow"&gt;未命名类和实例主要方法（预览）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;正在进行中&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;446：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/446" rel="nofollow"&gt;作用域值（预览）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;448：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/448" rel="nofollow"&gt;Vector API （第六个孵化器）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;449：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/449" rel="nofollow"&gt;弃用 Windows 32 位 x86 移植&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;451：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/451" rel="nofollow"&gt;准备禁止动态加载代理	&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;452：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/452" rel="nofollow"&gt;密钥封装机制 API&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;453：&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://openjdk.org/jeps/453" rel="nofollow"&gt;结构化并发（预览版）&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;已支持&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;我们将继续开发剩余功能，并很快再次分享更新。如您不需要使用那些未支持的特性，您已经可以在 VS Code Java 使用 JDK21 。&lt;/p&gt;
-&lt;h2&gt;测试覆盖率用户体验更新&lt;/h2&gt;
-&lt;p&gt;在我们之前的博客中，我们分享了已经可以在 Visual Studio Code Insider 版本中使用的&lt;a href="https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-december-2023/" rel="nofollow"&gt;新测试覆盖率功能&lt;/a&gt;。然而，之前的功能需要用户选择“使用配置文件执行(&lt;strong&gt;Execute Using Profile&lt;/strong&gt;)”才能看到覆盖结果，这并不直观。此外，编辑器区域中没有明显提示您的代码是否被覆盖。在我们最新的预发布版本中，我们改进了这两个问题。现在，您只需单击“调试测试”旁边的“运行覆盖率测试(&lt;strong&gt;Run with Coverage&lt;/strong&gt;)”按钮即可获得覆盖率（请注意，该图标目前是一个测试图标，并将发生变化）。这是一个演示。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2023/12/test-coverage.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;另外，您还可以在编辑器区域中很直观地查看代码是否已经被测试覆盖。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/coveragevisualization.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;要使用测试覆盖率功能，请确保您安装了&lt;a href="https://code.visualstudio.com/insiders/" rel="nofollow"&gt;Visual Studio Code Insiders&lt;/a&gt;和&lt;strong&gt;Pre-release&lt;/strong&gt;版本的&lt;a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" rel="nofollow"&gt;Extension Pack for Java&lt;/a&gt; 。&lt;/p&gt;
-&lt;h2&gt;Java 语言服务器状态用户体验改进&lt;/h2&gt;
-&lt;p&gt;另一个用户体验改进是关于 Java 语言服务器状态。以前，用户只能在当前打开文件是 Java 代码的时候看到**{}** 状态图标。这对于许多用户以及处理多语言项目的用户来说都很不方便，因为 Java 项目可能包含其他类型的文件。在最新版本中，我们对状态图标进行了改进。该图标现在与**{}**平行，以便于访问。另外，现在只要激活了 Java 插件，无论当前打开的文件是什么，图标都会显示 Java 语言服务器的状态。下面的图片展示了差异。&lt;/p&gt;
-&lt;p&gt;更新前&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/before.png" /&gt;&lt;/p&gt;
-&lt;p&gt;更新后&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/after.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;修复“编辑器内容不同步”问题&lt;/h2&gt;
-&lt;p&gt;插件的可靠性一直是我们的首要任务，最近我们发现了一个&lt;a href="https://github.com/eclipse-jdtls/eclipse.jdt.ls/issues/2955" rel="nofollow"&gt;问题&lt;/a&gt;，导致编辑器内容与 Java 语言服务器不同步，进而会报告过时的错误。我们的调查和 GitHub 上的用户都报告了这一点。&lt;/p&gt;
-&lt;p&gt;我们已经发布了针对此问题的修复程序。发布后，我们观察到事件的发生率显着减少。如果您遇到任何其他问题，请随时在此处&lt;a href="https://github.com/microsoft/vscode-java-pack/issues" rel="nofollow"&gt;创建问题&lt;/a&gt;。&lt;/p&gt;
-&lt;h1&gt;安装 Java 插件包&lt;/h1&gt;
-&lt;p&gt;要使用上述所有功能，请在 Visual Studio Code 上下载并安装&lt;a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" rel="nofollow"&gt;Extension Pack for Java&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Image javapack" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java-ch/wp-content/uploads/sites/59/2022/09/javapack.png" /&gt;&lt;/p&gt;
-&lt;p&gt;如果您是一位 Spring 开发者，并且正在编写 Spring Boot 相关的程序，您也可以下载并安装&lt;a href="https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack" rel="nofollow"&gt;Spring Boot 插件包&lt;/a&gt;，获得与 Spring Boot 有关的专属开发体验&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Spring boot extension pack" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java-ch/wp-content/uploads/sites/59/2022/10/spring.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;反馈与建议&lt;/h1&gt;
-&lt;p&gt;2023 年，Visual Studio Code 上的 Java 会有很多激动人心的更新，一如既往，您的反馈和建议对我们非常重要，将有助于我们未来的产品塑造。有几种方法可以给我们留下反馈&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.research.net/r/vscodejava?lang=zh" rel="nofollow"&gt;填写中文问卷&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;在这个帖子下留言&lt;/li&gt;
-&lt;li&gt;在我们的 GitHub repo 上&lt;a href="https://github.com/microsoft/vscode-java-pack/issues/new/choose" rel="nofollow"&gt;创建 Issue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;发送电子邮件到&lt;a href="mailto:vscjfeedback@microsoft.com"&gt;vscjfeedback@microsoft.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;资源&lt;/h1&gt;
-&lt;p&gt;以下链接和资源能帮助您更好地了解 Java on Visual Studio Code 的相关信息&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;了解更多 &lt;a href="https://code.visualstudio.com/docs/languages/java" rel="nofollow"&gt;Visual Studio Code 上 Java&lt;/a&gt;的更多信息&lt;/li&gt;
-&lt;li&gt;逐步探索&lt;a href="https://code.visualstudio.com/docs/java/java-tutorial" rel="nofollow"&gt;有关 Visual Studio Code 的 Java 教程&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 01 Feb 2024 03:18:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013329#reply0</guid></item><item><title>[MacBook Pro] 公司电脑不能装微信客户端，也用不了网页端，还有什么办法使用微信呢</title><link>https://www.v2ex.com/t/1013328#reply3</link><description>&lt;p&gt;Mac 电脑，公司不让安装微信，网页端微信不让登录，还有其他办法吗&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:16:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013328#reply3</guid></item><item><title>[问与答] 有没有比较靠谱的酒水交流平台？</title><link>https://www.v2ex.com/t/1013327#reply0</link><description></description><pubDate>Thu, 01 Feb 2024 03:16:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013327#reply0</guid></item><item><title>[生活] 房贷应该保留多少？</title><link>https://www.v2ex.com/t/1013326#reply0</link><description>&lt;p&gt;之前房贷 4.8%，降低利率后 4.2%，如果考虑到抵税等因素，大家觉得应该保留多少？或者提前还款到每个月还多少就不要继续还了？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:12:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013326#reply0</guid></item><item><title>[ WATCH] Apple watch 闹钟提醒逻辑是不是这样的？</title><link>https://www.v2ex.com/t/1013325#reply2</link><description>&lt;p&gt;apple watch 上设置的闹钟 只会在 watch 上提醒
-手机上设置的闹钟 当手机不是息屏状态时 手机提醒 当手机息屏之后才会手机手表同时提醒&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:10:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013325#reply2</guid></item><item><title>[Android] 有建行 64 位的 app 吗？</title><link>https://www.v2ex.com/t/1013324#reply4</link><description>官网给的 app 在 s24 上装不上，话说那里可以下到兼容的版本？&lt;br /&gt;&lt;a href="http://ebank.ccb.com/cn/ebank/20110930_1317365293.html" rel="nofollow noopener" target="_blank"&gt;http://ebank.ccb.com/cn/ebank/20110930_1317365293.html&lt;/a&gt;</description><pubDate>Thu, 01 Feb 2024 03:09:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013324#reply4</guid></item><item><title>[分享发现] 微信有时候发不出消息</title><link>https://www.v2ex.com/t/1013323#reply0</link><description>我在 mac （ m2 芯片）电脑上的 win 虚拟机里面下载了个微信，wifi 走的是国外的出口，登录电脑微信后经常会发现手机微信不能够发出消息，经常出现红色感叹号❗️不知道是咋回事，有老哥知道吗？这是因为异地登录被风控了还是啥？</description><pubDate>Thu, 01 Feb 2024 03:07:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013323#reply0</guid></item><item><title>[问与答] 你们怎么读 " Linux "</title><link>https://www.v2ex.com/t/1013322#reply12</link><description>我看身边有不少人读 “宁牛斯"，我一般发音宁纳克丝，刚搜了一下 linus 也是发第二种音。</description><pubDate>Thu, 01 Feb 2024 03:04:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013322#reply12</guid></item><item><title>[程序员] [熔断的参数请教] 具体应该根据服务器哪些状况来设置？</title><link>https://www.v2ex.com/t/1013321#reply2</link><description>&lt;p&gt;想了解一下大厂的大佬们 这些指标是如何实践的，感谢大佬们赐教
-最近在服务上想上一个 sentinel 的熔断规则，不太清楚里面那些具体参数有没有什么最佳实践
-熔断降级支持慢调用比例、异常比例、异常数三种熔断策略&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;这三种策略怎么选择？&lt;/li&gt;
-&lt;li&gt;
-下面这些参数应该怎么选择数值&lt;ul&gt;
-&lt;li&gt;服务主要是对外提供查询类的接口，当前用的是慢调用比例， &lt;/li&gt;
-&lt;li&gt;最大 RT 、当前是用 7 天内的最大 RT 作为参数&lt;/li&gt;
-&lt;li&gt;比例阈值、慢调用占所有的调用的比率，网上找到的是 0.5/0/6&lt;/li&gt;
-&lt;li&gt;熔断时长、在这段时间内发生熔断、拒绝所有请求 网上找到的是 30/60s&lt;/li&gt;
-&lt;li&gt;最小请求数、即允许通过的最小请求数，在该数量内不发生熔断  这个参数没看到有具体的值，公司其他服务看到的大部分都是默认值 5 ，这个对于查询接口来说是不是太小了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 01 Feb 2024 02:59:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013321#reply2</guid></item><item><title>[深圳] 深圳有找工作/互助/避雷/等 V 友的群不</title><link>https://www.v2ex.com/t/1013320#reply0</link><description>菜鸡刚来深圳,一无工作二不熟悉.&lt;br /&gt;有没有 V 友群呀,或者大家组建一个呗.&lt;br /&gt;留下个微信号联系方式,然后号码是加密的,说下加密方式/密钥.防止广告(比如 base64)&lt;br /&gt;这个 v 站不如手机上方便快捷嘛,哎想找个组织,熟悉了解下这边</description><pubDate>Thu, 01 Feb 2024 02:56:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013320#reply0</guid></item><item><title>[问与答] sing*box 真麻烦！</title><link>https://www.v2ex.com/t/1013319#reply4</link><description>&lt;p&gt;买了 apple tv 后，&lt;/p&gt;
-&lt;p&gt;sing*box 居然要我手搓配置文件的，很烦。&lt;/p&gt;
-&lt;p&gt;想吃现成的，懒得折腾，只能网上找著名的订阅转换，试了几个 V2RAY 订阅转 SING*BOX ，
-转出来了却没一个能用的，全都不能走代理。。。。&lt;/p&gt;
-&lt;p&gt;我哪里没搞对？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 02:49:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013319#reply4</guid></item><item><title>[问与答] 问下大哥萌，预制菜加工行业有啥成品标签数据管理的解决方案</title><link>https://www.v2ex.com/t/1013318#reply0</link><description>包括涉及标签内包的一系列的数据集成啊，然后数据推到打印软件啊之类，有没有大哥有过类似经验，求指导</description><pubDate>Thu, 01 Feb 2024 02:46:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013318#reply0</guid></item><item><title>[酷工作] [前端] [Base 上海] Local 乙方 公司稳定 团队扩大中 年包 ~45 万</title><link>https://www.v2ex.com/t/1013317#reply0</link><description>[前端] &lt;br /&gt;岗位职责：&lt;br /&gt;1.深度参与产品或项目的需求沟通、方案评估；&lt;br /&gt;2.负责软件前端的开发、维护及优化；&lt;br /&gt;3.负责推动与优化前端基础架构、组件抽象；&lt;br /&gt;4.承担前端技术难点的攻坚；&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1.计算机或相关专业本科及以上学历，五年以上 Web 前端工作经验；&lt;br /&gt;2.深刻理解 Web 标准，能解决前端开发的各种兼容性问题；&lt;br /&gt;3.精通 CSS 、JavaScript 开发，能独立解决常见的前端技术问题；&lt;br /&gt;4.熟练掌握 javascript 模块化、组件化编程，具有设计和开发组件的经验；&lt;br /&gt;5.熟练掌握 Vue 相关技术栈，并熟悉常用组件库（如 Element-UI 、Antd ）等；&lt;br /&gt;6.有 DevExtreme 、React 、React Native 经验者优先；&lt;br /&gt;7.善于沟通，工作积极认真，责任心强，具备良好的团队协作能力，能及时关注和学习业界最新的前端技术&lt;br /&gt;&lt;br /&gt;Base 地：上海（杨浦区纪念路 8 号）或者客户现场。&lt;br /&gt;无语言要求。&lt;br /&gt;&lt;br /&gt;有兴趣可联系 wx：END78999</description><pubDate>Thu, 01 Feb 2024 02:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013317#reply0</guid></item><item><title>[程序员] 求静电容键盘推荐</title><link>https://www.v2ex.com/t/1013316#reply11</link><description>看到大家都主推 niz 的，但是看了一下又觉得好贵，除了 niz 之外还有其他的国产品牌推荐吗</description><pubDate>Thu, 01 Feb 2024 02:44:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013316#reply11</guid></item><item><title>[分享创造] Dataflare: 一款简单轻量的数据库管理器</title><link>https://www.v2ex.com/t/1013315#reply3</link><description>&lt;p&gt;Dataflare 是一款简单易用的数据库管理器，旨在帮助您更好地管理数据库，轻松的管理表格，查看数据，编写 SQL 查询。&lt;/p&gt;
-&lt;p&gt;目前支持连接到 libSQL, MariaDB, MySQL, PostgreSQL, Rqlite, SQLCipher, SQLite 和 SQL Server 数据库，后续还会增加更多。轻量小巧，只有 20M+ 左右的体积，支持 macOS, Windows, Linux 。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Create Table" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-001.png" /&gt;
-&lt;img alt="Schema Manager" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-002.png" /&gt;
-&lt;img alt="Preview Table" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-003.png" /&gt;
-&lt;img alt="SQL Editor" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-004.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;定价&lt;/h3&gt;
-&lt;p&gt;售价：&lt;code&gt;$39&lt;/code&gt;，如果喜欢的话，可以付费支持一下。
-目前免费用户也可以使用所有功能，但是以后可能会针对免费用户添加一些限制。&lt;/p&gt;
-&lt;h4&gt;折扣&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;优惠 90%(10 个): &lt;strong&gt;Y1MDCYMG&lt;/strong&gt; &lt;/li&gt;
-&lt;li&gt;优惠 50%: &lt;strong&gt;Q5NJCWNW&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 01 Feb 2024 14:43:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 浏览器插件： Sider 和 Monica 纠结入哪一个的会员~</title><link>https://www.v2ex.com/t/1013530#reply0</link><description>&lt;p&gt;Sider：&lt;/p&gt;
+&lt;p&gt;国区 年费只要 1400&lt;/p&gt;
+&lt;p&gt;Monica：&lt;/p&gt;
+&lt;p&gt;年费：299 美元 差不多 2100 元左右&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;之前在这里发布过一次，大家给了很多好的建议，真的非常感谢。&lt;/p&gt;
-&lt;p&gt;现在仍有很多不足，年后会加速开发，欢迎大家尝试一下 ❤️, 也欢迎大家提出任何建议！&lt;/p&gt;
-&lt;p&gt;Twitter: &lt;a href="https://twitter.com/DataflareApp" rel="nofollow"&gt;@Dataflare&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 02:43:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013315#reply3</guid></item><item><title>[iCloud] icloud 开车，土耳其，缺一人</title><link>https://www.v2ex.com/t/1013314#reply3</link><description>RT ，年付 74 ，比较稳定</description><pubDate>Thu, 01 Feb 2024 02:43:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013314#reply3</guid></item><item><title>[优惠信息] 低价 GPT4，最低至六毛一美元额度，如大额购买另有优惠，支持高并发</title><link>https://www.v2ex.com/t/1013313#reply5</link><description>&lt;a href="https://api.kksj.me" rel="nofollow noopener" target="_blank"&gt;https://api.kksj.me&lt;/a&gt;&lt;br /&gt;本站点提供购买额度之后开箱即用，无需自己配置，具体使用方法详见首页使用方法&lt;br /&gt;除了开箱即用之外，本站点提供 API 调用，可在其他开源客户端调用，如 nextweb,chatbot 等等</description><pubDate>Thu, 01 Feb 2024 02:40:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013313#reply5</guid></item><item><title>[问与答] ios 微信的欢乐斗地主小程序的充值功能属于违反苹果的政策吗</title><link>https://www.v2ex.com/t/1013311#reply5</link><description>&lt;a href="https://i.imgur.com/6qZgWK3.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6qZgWK3.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;点击充值欢乐豆后，跳转到了另外一个小程序&lt;br /&gt;&lt;a href="https://i.imgur.com/AzdVhMP.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/AzdVhMP.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;这个小程序的首页是个假页面&lt;br /&gt;&lt;a href="https://i.imgur.com/Uds2zig.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Uds2zig.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;苹果禁止 ios 小程序游戏内购，微信按理说也是不允许的吧？&lt;br /&gt;&lt;br /&gt;这么做是因为这是微信官方解决方案还是因为是腾讯游戏所以可以这么做？&lt;br /&gt;&lt;br /&gt;如果苹果知道了会不会警告微信甚至让微信下架呢？</description><pubDate>Thu, 01 Feb 2024 02:38:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013311#reply5</guid></item></channel></rss>
+&lt;p&gt;看功能 和 UI 都差不多&lt;/p&gt;
+&lt;p&gt;但是个人喜欢 Monica 的 UI 界面 喜欢 Sider 的价格 &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;因为这个原因 纠结了好久&lt;/p&gt;
+&lt;p&gt;求打醒~&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:33:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013530#reply0</guid></item><item><title>[优惠信息] 低价 gpt 中转 api 支持 gpt-4， gpt-4-all，多模态， mj 文生图 0.7 元 1 刀，官方价格的十分之一, 注册就送 1 刀体验额度，先体验后付款</title><link>https://www.v2ex.com/t/1013529#reply0</link><description>&lt;p&gt;访问链接 &lt;a href="https://dzqc.link" rel="nofollow"&gt;https://dzqc.link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自建 chatgpt 中转 api ，国内网络稳定访问 支持 GPT 4.0 和 GPT 3.5-turbo mj 文生图等模型
+支持多模态&lt;/p&gt;
+&lt;p&gt;注册即可获得 1$ 额度 充值 0.7 ￥ ＝ 1$ 额度 价格为 openai 官方 api 的十分之一&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-all 模型，内置各种插件，可以联网，生成图片，数据分析，文件分析，识图等，上传文件、图片直接发送带有文件后缀的直链即可&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-vision-preview 支持识图，图片直接发送带有文件后缀的直链即可&lt;/p&gt;
+&lt;p&gt;新增 glm-4-all ，类似 gpt-4-all ，性能较弱，但价格为 gpt-4-all 的三分之一&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-0125-preview 、gpt-4-turbo-preview 官方最新模型&lt;/p&gt;
+&lt;p&gt;新增官方 dalle-3 绘画模型，价格为 0.1$/次，比 mj 更便宜&lt;/p&gt;
+&lt;p&gt;新增 gpt-3.5-turbo-1106 ，gpt-3.5-turbo-16k ，gpt-4-1106-preview, gpt-4-32k&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:33:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013529#reply0</guid></item><item><title>[游戏开发] 有玩过 Superliminal？</title><link>https://www.v2ex.com/t/1013527#reply0</link><description>&lt;p&gt;感觉好帅，有点传送门的感觉。
+这种 3D 模型直接在当前视角变扁平要怎么实现？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:23:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013527#reply0</guid></item><item><title>[程序员] 微信读书经常有组队抽卡活动，组个群</title><link>https://www.v2ex.com/t/1013526#reply0</link><description>&lt;p&gt;使用微信读书的朋友可以来加入，方便组队参加活动，也可分享读书相关内容&lt;/p&gt;
+&lt;p&gt;如果群满了 留下你的 vx 拉你入群 &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://smms.app/image/4RiVtuwjslr89Mc" rel="nofollow"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/01/4RiVtuwjslr89Mc.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:22:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013526#reply0</guid></item><item><title>[深圳] 2024 深圳龙岗租房推荐求助</title><link>https://www.v2ex.com/t/1013525#reply0</link><description>目标:一房一厅&lt;br /&gt;目前住的是 1k5 一房一厅，因为房东加租金，又要跑咯&lt;br /&gt;&lt;br /&gt;各位有推荐的吗？</description><pubDate>Thu, 01 Feb 2024 14:15:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013525#reply0</guid></item><item><title>[分享发现] 用轨迹球鼠标的朋友们看过来</title><link>https://www.v2ex.com/t/1013524#reply3</link><description>&lt;p&gt;最近发现轨迹球有点生涩，就去网上查了一下，才知道这个轨迹球是可以拆下来的，从背后轻轻捅一下就下来了，然后就到了辣眼睛时刻，就不给大家上图了。在用轨迹球的大佬们快去看看你的轨迹球里面是不是也藏污纳垢 hhhh&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:14:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013524#reply3</guid></item><item><title>[程序员] 为什么播放杜比视界会发绿发紫？</title><link>https://www.v2ex.com/t/1013523#reply1</link><description>&lt;p&gt;在苹果的系统中很多播放器都会发生这种偏色。&lt;/p&gt;
+&lt;p&gt;看了下开源的一些项目，使用 &lt;code&gt;AVSampleBufferDisplayLayer&lt;/code&gt; 和 &lt;code&gt;CAMetalLayer&lt;/code&gt; 等方式渲染画面。&lt;/p&gt;
+&lt;p&gt;其中 &lt;code&gt;AVSampleBufferDisplayLayer&lt;/code&gt; 是相对比较高级一点的 API ，将 sample buffer 发送到这个 layer 系统就可以进行渲染展示。其中这是苹果自己内部的渲染，只要 sample buffer 包含颜色信息，就会正常显示到显示器。&lt;/p&gt;
+&lt;p&gt;而 &lt;code&gt;CAMetalLayer&lt;/code&gt; 是相对底层的东西，需要根据画面手动设定颜色空间和像素格式等信息（预设一个场景），这样画面渲染的时候基于这些信息进行绘制。&lt;/p&gt;
+&lt;p&gt;但不论是哪一种方式，对于 HDR 或者杜比视界来说，都是有相应的颜色空间/色彩原色/转换函数。讲的更详细一点，比如从视频中解码出一帧视频：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. format: 视频帧包含色深和色彩编码方式（ RGB, YUV ）
+2. color_range: 对于 YUV 又会有 full range 和 limited range
+3. colorspace: 相应的转换矩阵（ RGB &amp;lt;-&amp;gt; YUV)
+4. color_trc: 转移函数将 RGB 转换成线性 RGB
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;对于 HDR 画面来讲，会在不同区域显示出不同的高亮（简单通俗来讲），对于杜比视界，动态元数据可以针对每一帧画面做到调节颜色和亮度（普通 HDR 只能预设一种）。&lt;/p&gt;
+&lt;p&gt;在一个不支持 HDR 的显示设备上显示 HDR 画面时候，系统会自动做相应的映射，有的是将超过 Reference-White 部分直接变成 Reference-White ，而有的映射是进行一个线性转换。&lt;/p&gt;
+&lt;p&gt;所以我的疑问是，杜比视界也是有相应的色彩空间/转换函数（ PQ ）等元素，系统都是支持这些的，为什么还会发生偏色？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 14:07:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013523#reply1</guid></item><item><title>[Kotlin] kotlin 中的 select 到底可以 select 哪些内容啊？</title><link>https://www.v2ex.com/t/1013521#reply0</link><description>&lt;p&gt;好多函数被 deprecated 了，有没有一个跟版本相关的官方描述？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:58:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013521#reply0</guid></item><item><title>[问与答] 结完婚后涌现的责任感和羞愧感</title><link>https://www.v2ex.com/t/1013520#reply5</link><description>&lt;p&gt;刚 1 月 27 和 28 结完婚。看到父母太多的操劳，因为是农村酒席需要办三天，花费也不小但是吃喝还是蛮尽兴的。但是父母太操心太累人了。很是心疼，但是能做的有很少。
+12 月中旬开始找工作，到现在面试三四个了，有 3 个聊得不错的，也是比较大的公司，但是元旦后岗位取消了，有一份薪资没谈好。我没房有辆车，存款也不多，之前投资基金股票和虚拟币等亏得太多了，导致存款不多，结婚后涌现了责任感和羞愧感。感觉要认真开始努力生活了，不再是一个人想买什么电子设备就买什么了(以前一个人开销在杭州都得 1W 多一点)。羞愧于自己浪费太多钱。瞎玩瞎投资，也辜负了父母的期望。
+现在互联网行情不好，如果没 offer 的话计划年后带父母出去玩一下，他们都怎么出浙江甚至没做过高铁飞机。
+人生总是在某个阶段会有特别大的成长。我好希望自己有权有钱，能给予他们很多。但是能力又很有限。因为愧疚感让我不舍得花没必要的钱(例如老婆有时候想做皮肤医美 不贵 但是我感觉有点浪费)。
+希望兄弟们给下一些处理方式，更好的协调处理生活之类的小矛盾和小纠纷？谢谢&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:55:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013520#reply5</guid></item><item><title>[程序员] 大家 Java 21 的 虚拟线程用起来了吗？</title><link>https://www.v2ex.com/t/1013518#reply6</link><description>&lt;p&gt;我说一下我目前的数据：&lt;/p&gt;
+&lt;p&gt;线程数下降 1200+
+内存下降：5pt
+CPU 下降：10pt&lt;/p&gt;
+&lt;p&gt;感觉并没有 N 倍提升，是不是因为我的应用本身就是大部分都是 异步代码的 原因？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:48:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013518#reply6</guid></item><item><title>[macOS] 原来 macOS 自带的邮箱 app 也收不到邮件通知</title><link>https://www.v2ex.com/t/1013517#reply0</link><description>&lt;p&gt;之前还以为是设置出了问题，outlook 一直都没有通知，才发现自带的也收不到通知，但是 iOS 和 iPadOS 的 outlook 可以正常收到通知。&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:42:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013517#reply0</guid></item><item><title>[OpenAI] Replace Anything : AI Ultra-high quality content replacement</title><link>https://www.v2ex.com/t/1013516#reply0</link><description>&lt;p&gt;AI Replace Anything - High Quality Image Replacement&lt;/p&gt;
+&lt;p&gt;AIGC techniques have attracted lots of attention recently. They have demonstrated strong capabilities in the areas of image editing, image generation and so on. We find that generating new contents while strictly keeping the identity of use-specified object unchanged is of great demand, yet challenging. To this end, we propose ReplaceAnything framework. It can be used in many scenes, such as human replacement, clothing replacement, background replacement, and so on.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.replaceanything.today/" rel="nofollow"&gt;https://www.replaceanything.today/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:41:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013516#reply0</guid></item><item><title>[Node.js] 兄弟们，要搞个 Web 项目，用 NestJS 还是 Next.js 呢？ （之前没 Node 开发经验，从零开始）</title><link>https://www.v2ex.com/t/1013515#reply2</link><description></description><pubDate>Thu, 01 Feb 2024 13:29:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013515#reply2</guid></item><item><title>[问与答] 想买个 Typec 转 3.5mm 的转接头，音质好一点的，各位有推荐吗</title><link>https://www.v2ex.com/t/1013514#reply3</link><description>如题，感谢</description><pubDate>Thu, 01 Feb 2024 13:29:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013514#reply3</guid></item><item><title>[问与答] 淘宝的 npm 到期了。</title><link>https://www.v2ex.com/t/1013512#reply3</link><description>淘宝的 &lt;a href="https://npm.taobao.org/" rel="nofollow noopener" target="_blank"&gt;https://npm.taobao.org/&lt;/a&gt; 证书到期了好像是。你们咋处理的。</description><pubDate>Thu, 01 Feb 2024 13:28:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013512#reply3</guid></item><item><title>[问与答] 求一个适合写长文的博客主题</title><link>https://www.v2ex.com/t/1013511#reply0</link><description>&lt;p&gt;请问大家有没有什么博客主题可以写长文 (8k-3w 字), 放点同人文&lt;/p&gt;
+&lt;p&gt;小弟有一个中意的, &lt;a href="https://github.com/sumimakito/hexo-theme-typography" rel="nofollow"&gt;https://github.com/sumimakito/hexo-theme-typography&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;但是他不显示侧边目录, 而且表格太过简略, 如下图
+&lt;a href="https://imgur.com/Nx8cT4X" rel="nofollow"&gt;https://imgur.com/Nx8cT4X&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;所以求一个便于长文展示的博客主题, hugo, hexo, WordPress 框架的最好, 这些比较熟悉. 要求有侧边目录, 日夜间切换, 如果还能支持 shortcodes 就更好了. &lt;/p&gt;
+&lt;p&gt;提前谢谢各位大佬&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:13:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013511#reply0</guid></item><item><title>[NAS] 群晖相册管理 photos mobile 的逻辑是？</title><link>https://www.v2ex.com/t/1013510#reply1</link><description>&lt;p&gt;环境：白群晖，Iphone 安装了 photos mobile&lt;br /&gt;问题：&lt;br /&gt;1 、发现在某次更新 PM 后多了好多重复的照片，而且时间顺序也有些错乱了。&lt;br /&gt;2 、删除 PM 里边的照片有时候居然是删除手机本地的，不是它只应该管理的是群晖里边备份的那一份照片么？&lt;br /&gt;3 、还说与 2 同样的操作，手机有时候就不会提醒是否允许 PM 删除手机里的照片。&lt;br /&gt;&lt;br /&gt;完全错乱了，求大佬解惑，谢谢🙏&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:10:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013510#reply1</guid></item><item><title>[职场话题] 劳动仲裁输了，准备打一审，求 V 友推荐熟悉靠谱专业的律师，坐标广州</title><link>https://www.v2ex.com/t/1013509#reply5</link><description>&lt;p&gt;主要是公司降绩效工资，调岗，绩效 C （扣了绩效工资），走了被迫离职，但仲裁委都不支持，哎。&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:05:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013509#reply5</guid></item><item><title>[问与答] 有大佬知道麦当劳代下单的接口吗</title><link>https://www.v2ex.com/t/1013508#reply0</link><description>&lt;p&gt;目前看来好像是官方给的营销接口不是爬虫去下单，代下单的套餐和正价套餐有区别&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 13:00:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013508#reply0</guid></item><item><title>[问与答] 是不是国外用 maui 开发 app 也很少，有微软背书怎么这么失败？</title><link>https://www.v2ex.com/t/1013507#reply2</link><description>&lt;p&gt;最新想开发一个跨端的 APP ，之前一直用 uniapp 搞简单的 APP ，但有时候确实坑有点多，由于个人还比较熟悉 c#，想想用微软的 maui 搞一下，毕竟微软渲染的挺吊，结果找了一圈都说不行，在 youtube 上也找不到几个像样的教程，不是微软大力发展的项目么，怎么 Xamarin 到现在这么多年了，这么拉胯和 flutter 差距越来越大&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 12:43:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013507#reply2</guid></item></channel></rss>
