@@ -1,80 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 31 Jan 2024 17:24:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 写了一个轻量级的 Java Web 框架 欢迎使用！</title><link>https://www.v2ex.com/t/1013259#reply1</link><description>&lt;p&gt;基于 Netty 实现了一个轻量级的 Java Web 框架，麻雀虽小，五脏俱全。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 01 Feb 2024 03:21:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] tvbox 为什么这么香啊？后悔我怎么没早点发现</title><link>https://www.v2ex.com/t/1013331#reply0</link><description>&lt;p&gt;家人们最近在帮家里人解决电视家用不了的问题，才找到了 tvbox ，用起来是真的香啊，我那天晚上折腾的时候直接激动的睡不着觉。今年过年也不期望啥了，期望 tvbox 那些分享源的活菩萨能稳定提供直播源，我替我爹妈谢谢你们。&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013331#reply0</guid></item><item><title>[问与答] cloudflare 验证真人，无限制转圈怎么破？</title><link>https://www.v2ex.com/t/1013330#reply1</link><description>勾选以后，又开始验证真人，一致循环验证，过不了，怎么解决？&lt;br /&gt;已尝试更换节点，所有能用的节点都试过一遍了，无用，怎么办？</description><pubDate>Thu, 01 Feb 2024 03:19:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013330#reply1</guid></item><item><title>[Visual Studio Code] Java on Visual Studio Code 的更新 – 2024 年 1 月 测试覆盖率用户体验更新、 Java 语言服务器状态用户体验改进、修复“编辑器内容不同步”问题</title><link>https://www.v2ex.com/t/1013329#reply0</link><description>&lt;p&gt;大家好，欢迎来到 Visual Studio Code for Java 2024 年的第一期更新！提前祝愿大家春节快乐！在本博客中，我们将有关于 JDK21 、测试覆盖率界面以及用户体验相关的更新，让我们开始吧！&lt;/p&gt;
+&lt;h1&gt;Java 21 功能支持更新&lt;/h1&gt;
+&lt;p&gt;正如我们在去年 12 月的&lt;a href="https://devblogs.microsoft.com/java/2-5-million-java-developers-on-visual-studio-code/" rel="nofollow"&gt;路线图博客文章&lt;/a&gt;中所分享的那样，集成 JDK 21 支持是我们对增强核心体验的重点。在 JDK21 发布后，我们做了很多努力来支持它的新特性。在这里我们很高兴分享我们的目前进度。以下是我们当前支持和仍在开发中的功能的状态。&lt;/p&gt;
+&lt;p&gt;当前状态&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;430：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/430" rel="nofollow"&gt;字符串模板（预览）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;431：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/431" rel="nofollow"&gt;有序集合&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;439：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/439" rel="nofollow"&gt;分代 ZGC&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;440：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/440" rel="nofollow"&gt;记录模式&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;441：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/441" rel="nofollow"&gt;switch 的模式匹配&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;442：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/442" rel="nofollow"&gt;外部函数和内存 API （第三次预览版）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;443：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/443" rel="nofollow"&gt;未命名模式和变量（预览）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;正在进行中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;444：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/444" rel="nofollow"&gt;虚拟线程&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;445：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/445" rel="nofollow"&gt;未命名类和实例主要方法（预览）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;正在进行中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;446：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/446" rel="nofollow"&gt;作用域值（预览）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;448：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/448" rel="nofollow"&gt;Vector API （第六个孵化器）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;449：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/449" rel="nofollow"&gt;弃用 Windows 32 位 x86 移植&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;451：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/451" rel="nofollow"&gt;准备禁止动态加载代理	&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;452：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/452" rel="nofollow"&gt;密钥封装机制 API&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;453：&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://openjdk.org/jeps/453" rel="nofollow"&gt;结构化并发（预览版）&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;已支持&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;我们将继续开发剩余功能，并很快再次分享更新。如您不需要使用那些未支持的特性，您已经可以在 VS Code Java 使用 JDK21 。&lt;/p&gt;
+&lt;h2&gt;测试覆盖率用户体验更新&lt;/h2&gt;
+&lt;p&gt;在我们之前的博客中，我们分享了已经可以在 Visual Studio Code Insider 版本中使用的&lt;a href="https://devblogs.microsoft.com/java/java-on-visual-studio-code-update-december-2023/" rel="nofollow"&gt;新测试覆盖率功能&lt;/a&gt;。然而，之前的功能需要用户选择“使用配置文件执行(&lt;strong&gt;Execute Using Profile&lt;/strong&gt;)”才能看到覆盖结果，这并不直观。此外，编辑器区域中没有明显提示您的代码是否被覆盖。在我们最新的预发布版本中，我们改进了这两个问题。现在，您只需单击“调试测试”旁边的“运行覆盖率测试(&lt;strong&gt;Run with Coverage&lt;/strong&gt;)”按钮即可获得覆盖率（请注意，该图标目前是一个测试图标，并将发生变化）。这是一个演示。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2023/12/test-coverage.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;另外，您还可以在编辑器区域中很直观地查看代码是否已经被测试覆盖。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/coveragevisualization.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;要使用测试覆盖率功能，请确保您安装了&lt;a href="https://code.visualstudio.com/insiders/" rel="nofollow"&gt;Visual Studio Code Insiders&lt;/a&gt;和&lt;strong&gt;Pre-release&lt;/strong&gt;版本的&lt;a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" rel="nofollow"&gt;Extension Pack for Java&lt;/a&gt; 。&lt;/p&gt;
+&lt;h2&gt;Java 语言服务器状态用户体验改进&lt;/h2&gt;
+&lt;p&gt;另一个用户体验改进是关于 Java 语言服务器状态。以前，用户只能在当前打开文件是 Java 代码的时候看到**{}** 状态图标。这对于许多用户以及处理多语言项目的用户来说都很不方便，因为 Java 项目可能包含其他类型的文件。在最新版本中，我们对状态图标进行了改进。该图标现在与**{}**平行，以便于访问。另外，现在只要激活了 Java 插件，无论当前打开的文件是什么，图标都会显示 Java 语言服务器的状态。下面的图片展示了差异。&lt;/p&gt;
+&lt;p&gt;更新前&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/before.png" /&gt;&lt;/p&gt;
+&lt;p&gt;更新后&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java/wp-content/uploads/sites/51/2024/01/after.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;修复“编辑器内容不同步”问题&lt;/h2&gt;
+&lt;p&gt;插件的可靠性一直是我们的首要任务，最近我们发现了一个&lt;a href="https://github.com/eclipse-jdtls/eclipse.jdt.ls/issues/2955" rel="nofollow"&gt;问题&lt;/a&gt;，导致编辑器内容与 Java 语言服务器不同步，进而会报告过时的错误。我们的调查和 GitHub 上的用户都报告了这一点。&lt;/p&gt;
+&lt;p&gt;我们已经发布了针对此问题的修复程序。发布后，我们观察到事件的发生率显着减少。如果您遇到任何其他问题，请随时在此处&lt;a href="https://github.com/microsoft/vscode-java-pack/issues" rel="nofollow"&gt;创建问题&lt;/a&gt;。&lt;/p&gt;
+&lt;h1&gt;安装 Java 插件包&lt;/h1&gt;
+&lt;p&gt;要使用上述所有功能，请在 Visual Studio Code 上下载并安装&lt;a href="https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack" rel="nofollow"&gt;Extension Pack for Java&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Image javapack" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java-ch/wp-content/uploads/sites/59/2022/09/javapack.png" /&gt;&lt;/p&gt;
+&lt;p&gt;如果您是一位 Spring 开发者，并且正在编写 Spring Boot 相关的程序，您也可以下载并安装&lt;a href="https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack" rel="nofollow"&gt;Spring Boot 插件包&lt;/a&gt;，获得与 Spring Boot 有关的专属开发体验&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Spring boot extension pack" class="embedded_image" rel="noreferrer" src="https://devblogs.microsoft.com/java-ch/wp-content/uploads/sites/59/2022/10/spring.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;反馈与建议&lt;/h1&gt;
+&lt;p&gt;2023 年，Visual Studio Code 上的 Java 会有很多激动人心的更新，一如既往，您的反馈和建议对我们非常重要，将有助于我们未来的产品塑造。有几种方法可以给我们留下反馈&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;声明式路由，无注解&lt;/li&gt;
-&lt;li&gt;过滤器，异常处理应有尽有&lt;/li&gt;
-&lt;li&gt;静态资源托管，模板引擎支持&lt;/li&gt;
-&lt;li&gt;WebSocket 支持，自由化定制&lt;/li&gt;
-&lt;li&gt;还有很多 ...&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.research.net/r/vscodejava?lang=zh" rel="nofollow"&gt;填写中文问卷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;在这个帖子下留言&lt;/li&gt;
+&lt;li&gt;在我们的 GitHub repo 上&lt;a href="https://github.com/microsoft/vscode-java-pack/issues/new/choose" rel="nofollow"&gt;创建 Issue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;发送电子邮件到&lt;a href="mailto:vscjfeedback@microsoft.com"&gt;vscjfeedback@microsoft.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;项目地址 &lt;a href="https://github.com/Flmelody/windward" rel="nofollow"&gt;Windward&lt;/a&gt;，从此简简单单写 Java 😄&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 17:17:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013259#reply1</guid></item><item><title>[程序员] 请教有经验的人，如何在互联网上起诉？</title><link>https://www.v2ex.com/t/1013258#reply0</link><description>打算起诉苹果公司，有经验的人请指点指点。</description><pubDate>Wed, 31 Jan 2024 17:06:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013258#reply0</guid></item><item><title>[问与答] 请问我这个主题是在投资版块创建的，讲的也全部是投资相关的内容，怎么被挪到水深火热了？</title><link>https://www.v2ex.com/t/1013257#reply1</link><description>&lt;a href="https://www.v2ex.com/t/1013149#reply52" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1013149#reply52&lt;/a&gt;</description><pubDate>Wed, 31 Jan 2024 16:55:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013257#reply1</guid></item><item><title>[摄影] 入手大疆 action4，在场边拍足球比赛，求推荐一个支架（三脚架），预算 300 元内</title><link>https://www.v2ex.com/t/1013256#reply0</link><description>&lt;p&gt;&lt;strong&gt;希望推荐尽量满足下面的要求，预算 300 元内，要是 100 元能解决当然更好啦&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;要求：&lt;/strong&gt;&lt;br /&gt;
-1.能支起来一定高度拍足球比赛，我这边有个大疆的自拍杆，杆子底部有个孔不知道有没有支架能匹配上？&lt;br /&gt;
-2.希望坚固一点，在场边被球踢到支架不会坏的那种&lt;br /&gt;
-3.尽量多功能一点，运动相机能用手机也能用&lt;br /&gt;
-4.体积别太大尽量能放进包里&lt;br /&gt;
-5.了解到可以手掰弯的八爪鱼支架不知道行不行，欢迎大家推荐品牌和产品我去看哈&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 16:51:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013256#reply0</guid></item><item><title>[OpenWrt] 大家的 openwrt 拨号以及重拨速度慢吗？</title><link>https://www.v2ex.com/t/1013255#reply0</link><description>&lt;p&gt;经过我的测试发现 openwrt 的重拨换 ip 时，拨号速度特别慢，经常需要等待个至少五分钟，或者重新开关光猫才能成功拨号。
-对比起来 ikuai 和光猫自己拨号的话基本上就是秒重播，换 ip 感觉零延迟。
-但我真的不想用 ikuai 啊，目前是只有在需要频繁换 ikuai 时才会切换到 ikaui 拨号，工作完再切换回去，还是挺麻烦的。
-大伙有遇到这样的问题吗，怎样解决呢？&lt;/p&gt;
-&lt;p&gt;我之前在 mtu 上研究过，我的电脑用 ping &lt;a href="http://www.baidu.com" rel="nofollow"&gt;www.baidu.com&lt;/a&gt; -f -l "number" 命令，测试的最大 mtu 是 1424 把 openwrt 的 mtu 设置为 1452 ，然后在安装 openwtr 的 pve 中把 lan 口与 wan 口网卡的 mtu 设置为 1452 和 1480 曾短暂的解决过这个问题还提升了网速。&lt;/p&gt;
-&lt;p&gt;但这两个月我们这的联通维护频繁，现在维护好了我的 openwt 拨号速度又慢下来了就🤦‍♂️&lt;/p&gt;
-&lt;p&gt;希望和欢迎大家来讨论！&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 16:43:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013255#reply0</guid></item><item><title>[V2EX] V 站访问在 sg 区域响应慢一些？</title><link>https://www.v2ex.com/t/1013254#reply0</link><description>&lt;p&gt;不知道什么原因从 sg 访问比从 hk jp 加载慢一些，开始以为是自己用的 ip 路由的问题，或者是高峰期线路拥堵，观察了一段时间，发现好像并不是，因为访问 CF 首页，chatgpt 首页这类用 cf 加速的网站都没有加载慢的问题。不知道是不是源站离 sg 比较远的原因。tcping 443 端口 cf 响应没问题。
-&lt;a href="https://imgur.com/a/eXI9k0n" rel="nofollow"&gt;https://imgur.com/a/eXI9k0n&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 16:35:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013254#reply0</guid></item><item><title>[程序员] 海鲜市场买个 pixel3 但是发现找不到指纹解锁选项 是不是被坑了</title><link>https://www.v2ex.com/t/1013252#reply0</link><description>&lt;p&gt;如题，选项里找半天没看到指纹解锁选项，是不是被坑了&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 15:59:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013252#reply0</guid></item><item><title>[程序员] 简历里要不要写自己的折腾经历</title><link>https://www.v2ex.com/t/1013250#reply8</link><description>最近在更新简历，想起来自己花了不少时间折腾 Openwrt ，VPN ，Docker ，Blog ，GithubAction 等等，都是一些为自己服务的工具。花了不少时间，也学到不少东西。&lt;br /&gt;&lt;br /&gt;虽然 github repo 上也没几个 star ，但是不知道要不要写到简历里，好处可能是丰富内容，坏处就是与工作无关不务正业。</description><pubDate>Wed, 31 Jan 2024 15:41:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013250#reply8</guid></item><item><title>[问与答] 通过 ocr 搜索图片</title><link>https://www.v2ex.com/t/1013246#reply1</link><description>&lt;p&gt;我本人希望通过 cubox/readwise/flomo 等应用剪藏文字/图片，并且使用 alfred/raycast 等 launcher 快速查找记录的碎片内容，但是这里有个疑问，有没有已知的工具可以通过 ocr 检索图片，并且检索结果 return 到 alfred/raycast 的窗口上？谢谢&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 15:27:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013246#reply1</guid></item><item><title>[程序员] 我开发了一个 “AI 自动分类 一键收藏夹 ”浏览器插件，在漫长的审核后上线了～</title><link>https://www.v2ex.com/t/1013245#reply8</link><description># Just Mark - AI 收藏夹&lt;br /&gt;&lt;br /&gt;一键收藏你需要的网页，不用焦虑于如何分类整理管理，无需手动整理收藏，AI 会自动整理您收藏的网页。&lt;br /&gt;快速检索你过去收藏的页面，不用再因为想不起网页的名字而导致搜索不到，我们的 AI 会帮你找到你需要的内容。&lt;br /&gt;仓鼠症的福音。&lt;br /&gt;&lt;br /&gt;## 安装地址&lt;br /&gt;&lt;a href="https://chromewebstore.google.com/detail/just-mark-ai%E6%94%B6%E8%97%8F%E5%A4%B9/jjbjimjenhbjedelcpihhhjmeocppejl" rel="nofollow noopener" target="_blank"&gt;https://chromewebstore.google.com/detail/just-mark-ai%E6%94%B6%E8%97%8F%E5%A4%B9/jjbjimjenhbjedelcpihhhjmeocppejl&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;## 介绍视频&lt;br /&gt;&lt;br /&gt;v 站： &lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&lt;br /&gt;b 站： &lt;a href="https://www.bilibili.com/video/BV1KH4y1v7mc/" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/BV1KH4y1v7mc/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;## 快速收藏&lt;br /&gt;点击扩展图标即可一键收藏，无需进行分类管理，ai 服务会自动为你分类。&lt;br /&gt;&lt;br /&gt;## 英文网站自动翻译&lt;br /&gt;当收藏英文网站时，会自动把网站的标题和描述信息进行翻译。&lt;br /&gt;搜索网站时可以使用中文或英文去搜索，因此当检索某个收藏的网站时不用担心因为想不到当时网站的关键词而找不到网页&lt;br /&gt;&lt;br /&gt;## 自动截图&lt;br /&gt;收藏一个网页时，会将当前页面自动截图。查看收藏夹时，可以通过截图快速预览。&lt;br /&gt;&lt;br /&gt;## 地址栏快速搜索功能&lt;br /&gt;在地址栏输入 jm 后按 tab 键，即可快速搜索收藏夹&lt;br /&gt;&lt;br /&gt;## AI 自动分类&lt;br /&gt;当您收藏网页时，服务将会使用 AI 对网页自动进行分类标注，以方便快速查找网页。您可以选择使用自己的 ChatGpt 的 API KEY ，也可以选择使用我们提供的 AI 分类服务，完全取决于您的个人喜好。&lt;br /&gt;&lt;br /&gt;## justmark 与 notelive 笔记&lt;br /&gt;justmark 是 notelive 笔记（ &lt;a href="http://next.notelive.cn" rel="nofollow noopener" target="_blank"&gt;next.notelive.cn&lt;/a&gt; ）产品中的收藏夹功能的浏览器插件。您可以独立使用 justmark 而不需要使用 notelive 笔记，但是您收藏的网页将需要登录 notelive 网站进行查阅和管理。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;——————&lt;br /&gt;&lt;br /&gt;话说 chrome 审核具备一定的随机性，因为不同的审核员性格可能会导致不同的审核结果,哈哈 ;p</description><pubDate>Wed, 31 Jan 2024 15:23:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013245#reply8</guid></item><item><title>[宽带症候群] IPv6 也有运营商级 NAT 了？</title><link>https://www.v2ex.com/t/1013244#reply7</link><description>&lt;h2&gt;现象&lt;/h2&gt;
-&lt;p&gt;鄙校的 IPv6 曾经是全程走教育网的。近期似乎进行了某种改造（？），改造后某些流量仍然全程教育网，但有一部分会经过交换节点在中间的某段走电信 163 （下图框出来的部分就是电信的地址），当然也有可能以前就有走电信的线路只是我一直没有发现：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Xp9S8mJ.png" /&gt;
-随之而来的问题是，在各个&lt;em&gt;路由经过电信&lt;/em&gt;的查询 ip 的网站上查到的 ip 都变成了电信的 ip：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QBKKFvA.png" /&gt;&lt;/p&gt;
-&lt;p&gt;但全程走教育网的线路就不会出现这种问题，例如：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/MveTsGq.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EUs7sd6.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;进一步验证&lt;/h2&gt;
-&lt;p&gt;多次测试后发现手里刚好有分别全程走教育网和中间走电信的两台机器，于是通过&lt;strong&gt;本地发起 ssh 连接&lt;/strong&gt;并同时在两边查看地址和端口的方式进一步进行验证。&lt;/p&gt;
-&lt;h3&gt;全程教育网的机器（乌龟壳东京）&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/I4ZTVO8.png" /&gt;
-分别在本地和远端使用 &lt;code&gt;ss&lt;/code&gt; 查看连接，结果如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# 本地
-ESTAB      0      0      [240c:cxxxx1::3]:37560 [2603:c0xxx00::100]:22
-# 远程
-ESTAB      0      224    [2603:c0xxx00::100]:22    [240c:cxxxx1::3]:37560
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;可以发现两边显示的地址和端口号是一致的，说明中间没有进行地址转换&lt;/p&gt;
-&lt;h3&gt;中间会走电信的机器（移动家宽）&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/RNcXquG.png" /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# 本地
-ESTAB      0      0      [240c:cxxxx1::3]:53174 [2409:8a62:7xxxx6b:c998]:22
-# 远程
-tcp        0    152 2409:8a62:7xxxx6b:c998:22 240e:659:11b1::f5:19259 ESTABLISHED
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;此时远端看到的传入 ip 地址变成了电信的，且端口号也变了，跟开了 NAT 一样。但需要额外说明的是，&lt;strong&gt;如果从远端发起连接的话，即使路由经过电信也不会进行地址转换&lt;/strong&gt;，图就懒得放了。&lt;/p&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
-&lt;p&gt;以上测试结果是否说明 IPv6 也开启了运营商级 NAT ？这么做的目的是什么？&lt;/p&gt;
-&lt;p&gt;往好的方面想，这只是单纯的路由配置错误吗？如果是的话如何反馈？&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 15:08:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013244#reply7</guid></item><item><title>[罗技] 想整一套盘子，现在 G29 和 G923 应该怎么选</title><link>https://www.v2ex.com/t/1013243#reply0</link><description>预算 8k ，盘子手排手刹踏板，桶椅我自己有，但是没有支架，应该怎么选，或者有没有更好的推荐一下🥹🥹🥹</description><pubDate>Wed, 31 Jan 2024 15:07:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013243#reply0</guid></item><item><title>[问与答] 研二未来规划求助，前端、后端还是...？</title><link>https://www.v2ex.com/t/1013242#reply3</link><description>&lt;p&gt;本人背景：双非本 211 硕，都是和计算机有一定关联的交叉学科，所以不是科班出身。&lt;/p&gt;
+&lt;h1&gt;资源&lt;/h1&gt;
+&lt;p&gt;以下链接和资源能帮助您更好地了解 Java on Visual Studio Code 的相关信息&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;本科：自学过前端，大三大四分别有一段中大厂和一段外企实习，都是打杂没学到什么真东西，当时也很稚嫩，知道要考研了也没认真看公司的文档内化一下。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;研究生：学硕，老师放养，研究方向较为小众（每年顶会个位数，算上其他期刊水文每年共约三十篇）。这一年半在做深度学习方面的东西，缝合了其他领域的模型，效果还行，单枪匹马发了一篇 ccf-c 会议。数学不好，所以机器学习的基础掌握很少，pytorch 用的还算熟练，很多数据处理代码是 gpt 帮忙写的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前处在人生的交叉口，有三种选择（意愿从高到低）：&lt;/p&gt;
+&lt;li&gt;了解更多 &lt;a href="https://code.visualstudio.com/docs/languages/java" rel="nofollow"&gt;Visual Studio Code 上 Java&lt;/a&gt;的更多信息&lt;/li&gt;
+&lt;li&gt;逐步探索&lt;a href="https://code.visualstudio.com/docs/java/java-tutorial" rel="nofollow"&gt;有关 Visual Studio Code 的 Java 教程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Thu, 01 Feb 2024 03:18:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013329#reply0</guid></item><item><title>[MacBook Pro] 公司电脑不能装微信客户端，也用不了网页端，还有什么办法使用微信呢</title><link>https://www.v2ex.com/t/1013328#reply3</link><description>&lt;p&gt;Mac 电脑，公司不让安装微信，网页端微信不让登录，还有其他办法吗&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:16:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013328#reply3</guid></item><item><title>[问与答] 有没有比较靠谱的酒水交流平台？</title><link>https://www.v2ex.com/t/1013327#reply0</link><description></description><pubDate>Thu, 01 Feb 2024 03:16:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013327#reply0</guid></item><item><title>[生活] 房贷应该保留多少？</title><link>https://www.v2ex.com/t/1013326#reply0</link><description>&lt;p&gt;之前房贷 4.8%，降低利率后 4.2%，如果考虑到抵税等因素，大家觉得应该保留多少？或者提前还款到每个月还多少就不要继续还了？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:12:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013326#reply0</guid></item><item><title>[ WATCH] Apple watch 闹钟提醒逻辑是不是这样的？</title><link>https://www.v2ex.com/t/1013325#reply2</link><description>&lt;p&gt;apple watch 上设置的闹钟 只会在 watch 上提醒
+手机上设置的闹钟 当手机不是息屏状态时 手机提醒 当手机息屏之后才会手机手表同时提醒&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 03:10:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013325#reply2</guid></item><item><title>[Android] 有建行 64 位的 app 吗？</title><link>https://www.v2ex.com/t/1013324#reply4</link><description>官网给的 app 在 s24 上装不上，话说那里可以下到兼容的版本？&lt;br /&gt;&lt;a href="http://ebank.ccb.com/cn/ebank/20110930_1317365293.html" rel="nofollow noopener" target="_blank"&gt;http://ebank.ccb.com/cn/ebank/20110930_1317365293.html&lt;/a&gt;</description><pubDate>Thu, 01 Feb 2024 03:09:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013324#reply4</guid></item><item><title>[分享发现] 微信有时候发不出消息</title><link>https://www.v2ex.com/t/1013323#reply0</link><description>我在 mac （ m2 芯片）电脑上的 win 虚拟机里面下载了个微信，wifi 走的是国外的出口，登录电脑微信后经常会发现手机微信不能够发出消息，经常出现红色感叹号❗️不知道是咋回事，有老哥知道吗？这是因为异地登录被风控了还是啥？</description><pubDate>Thu, 01 Feb 2024 03:07:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013323#reply0</guid></item><item><title>[问与答] 你们怎么读 " Linux "</title><link>https://www.v2ex.com/t/1013322#reply12</link><description>我看身边有不少人读 “宁牛斯"，我一般发音宁纳克丝，刚搜了一下 linus 也是发第二种音。</description><pubDate>Thu, 01 Feb 2024 03:04:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013322#reply12</guid></item><item><title>[程序员] [熔断的参数请教] 具体应该根据服务器哪些状况来设置？</title><link>https://www.v2ex.com/t/1013321#reply2</link><description>&lt;p&gt;想了解一下大厂的大佬们 这些指标是如何实践的，感谢大佬们赐教
+最近在服务上想上一个 sentinel 的熔断规则，不太清楚里面那些具体参数有没有什么最佳实践
+熔断降级支持慢调用比例、异常比例、异常数三种熔断策略&lt;/p&gt;
 &lt;ol&gt;
+&lt;li&gt;这三种策略怎么选择？&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;前端：继续干老本行，寒假可以做一个新项目，然后再花点时间背八股刷算法，暑期实习和秋招大概率顺风顺水。之前一直是这么规划的，&lt;strong&gt;但是&lt;/strong&gt;最近一直有人跟我说研究生去写前端浪费了之类的，我开始有点动摇，公司里好像最先裁的就是前端？小弟也不是很懂。&lt;/p&gt;
+下面这些参数应该怎么选择数值&lt;ul&gt;
+&lt;li&gt;服务主要是对外提供查询类的接口，当前用的是慢调用比例， &lt;/li&gt;
+&lt;li&gt;最大 RT 、当前是用 7 天内的最大 RT 作为参数&lt;/li&gt;
+&lt;li&gt;比例阈值、慢调用占所有的调用的比率，网上找到的是 0.5/0/6&lt;/li&gt;
+&lt;li&gt;熔断时长、在这段时间内发生熔断、拒绝所有请求 网上找到的是 30/60s&lt;/li&gt;
+&lt;li&gt;最小请求数、即允许通过的最小请求数，在该数量内不发生熔断  这个参数没看到有具体的值，公司其他服务看到的大部分都是默认值 5 ，这个对于查询接口来说是不是太小了&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;后端：由于只有一点 linux ，nestjs 和数据库增删改查的基础，必须放弃暑期实习的机会，从现在到秋招从零开始全力备战 go 或者 java ，但是没后端实习会有大厂（甚至中厂？）要我简历吗 T.T&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;读博：这条路不可预测性最大。即再水一篇三四区或者 c 会，彻底进入学术圈的底层，找个普通 211 计算机读博，天天刷新投稿界面，给老师当苦力，掉头发。跟女朋友感情很好，不想异地，家里人年纪也大了，想尽快成家，读博不太可取。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;请各位职场老哥解惑，小弟谢谢大家了&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 15:03:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013242#reply3</guid></item><item><title>[酷工作] 招募，这是一个用爱发电的产品开发运营的招募贴</title><link>https://www.v2ex.com/t/1013241#reply5</link><description>首先和大家打个招呼，问好。这是一个需要用爱发电的产品开发运营的帖子。&lt;br /&gt;&lt;br /&gt;我是一名自由职业了 7 年的 90 后，今天来招募队友一起做一款社交类产品，是的，没有薪资，工作是用爱发电的。&lt;br /&gt;&lt;br /&gt;关于产品，本次计划做一款社交类产品，不要震惊，咳咳。我们需要有思考。我觉得社交类产品在目前这个时间周期节点上，他需要有新生代了。但是，上周我居然看到 QQ 还在推所谓的靓号活动。微信也很好，，，嗯。但是，时间的周期上，新生代的诞生，历来都和上一代没有直接关系。我们知道，腾讯在社交上是独一无二的，在资金实力上也是所向披靡的，他有能力做任何他可以发动的策略，但是在新事物上，在本次，我们和他都将拥有同一个共同点，那就是：我们都不一定会成功。致敬。&lt;br /&gt;&lt;br /&gt;需要队友可以支持到以下需求：&lt;br /&gt;首先希望你也是自由职业或者日常富有余力，或者有强烈的对新生事物的追求，对单纯的梦想还有执着的追求。热情、纯真。如果不具备，还想参与，也可以加我，我的 V 号请见最后面，我到时候拉进度分享群。我的 B 站 iD：骑士的歌谣。这个事情，我会在 B 战频道同步给大家分享进度。各路队友，有热情的，请火速联系我。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;你的权益，我们一起远程工作，成果，我们一起共享。一切基于共创共享，用爱发电。&lt;br /&gt;你的责任，我们需要互相熟悉，需要有始有终，好聚好散。每个人价值观不一样，我们先考虑不好的结果，再做最大的包容。&lt;br /&gt;&lt;br /&gt;任何原因，均可以中途暂时离开或退出，离开前需要吧工作做好交接备忘。因为没有资金，需要等我们有成果之后给予相应补偿，双方均需要做到最大的道义宽度。&lt;br /&gt;&lt;br /&gt;最后，谢谢大家，谢谢 V 站。敬礼。&lt;br /&gt;--------------------------------&lt;br /&gt;speedaor</description><pubDate>Wed, 31 Jan 2024 15:00:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013241#reply5</guid></item><item><title>[问与答] 为什么现在的家用摄像头断网后无法录制到本地？？无法理解</title><link>https://www.v2ex.com/t/1013240#reply11</link><description>&lt;p&gt;问了小米、小白、创米的几款，在断网不断电情况下无法使用，录制到本地 SD 卡都不行，有没有了解的兄弟&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 14:57:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013240#reply11</guid></item><item><title>[iPhone] 求 AirPods Pro 平替耳机 因为穷还想用无线</title><link>https://www.v2ex.com/t/1013239#reply3</link><description>要求就是音质好些，降噪好些，不要总断</description><pubDate>Wed, 31 Jan 2024 14:52:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013239#reply3</guid></item><item><title>[视频技术] 你们看 HDR 视频觉得效果好吗</title><link>https://www.v2ex.com/t/1013238#reply2</link><description>&lt;p&gt;不论是家里的电视还是 M1 Pro 笔记本，还有 iPad Pro ，三星 S23U ，这些设备亮度都不低，看参数 HDR 内容都能到 1600 尼特，但是感觉 HDR 画面还是偏暗，所谓的更多细节也没太感受出来。是设备屏幕亮度还不够，还是 HDR 就这样。&lt;/p&gt;
-&lt;p&gt;平时我还是倾向于挑 SDR 视频在看，但是最近下资源发现越来越多是 HDR 内容，还有 Dolby Vision 内容，资源越来越难下了。&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 14:44:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013238#reply2</guid></item><item><title>[macOS] macos 进程级代理方案</title><link>https://www.v2ex.com/t/1013237#reply0</link><description>&lt;p&gt;使用 pkg 安装包安装了某个应用，然后这个应用在系统内以 root 权限启动了三个进程，现在希望能对这三个进程设置 socks5 代理。&lt;br /&gt;
-目前在使用 proxifier 管理代理，但是 proxifier 似乎只能设置 Application 级别的代理，没有设置 Process 级别代理的选项，请问 macos （当前在用版本 14.3 ）有推荐的进程级代理设置方案吗？&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 14:29:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013237#reply0</guid></item><item><title>[北京] 北京 2 类事业单位，人事最后把名单上报了市委组织部，这是编制到人吗？</title><link>https://www.v2ex.com/t/1013236#reply5</link><description>&lt;p&gt;参加的北京优培 I 类计划，当时得知通过面试以后，问了人事回复有编，但是后来才知道编制也分编制到人、到岗，但也没好意思再追问人家了&lt;/p&gt;
-&lt;p&gt;后来人事需要填表，说要上交组织部，请问从这个细节可以看出是编制到人、到岗吗？&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 14:21:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013236#reply5</guid></item><item><title>[Apple] Apple vision pro 一代肯定是一个不成熟的产品，但并不是因为硬件</title><link>https://www.v2ex.com/t/1013235#reply0</link><description>&lt;p&gt;一开始看 WWDC 就在想，这玩意推出来的意义是啥？&lt;/p&gt;
-&lt;p&gt;看完 WWDC 不明白，后面零零碎碎看了一些 YouTube 视频，主流猜测大概就是说降低 VR/AR 应用开发门槛什么的。&lt;/p&gt;
-&lt;p&gt;但是这么想又有个问题，苹果官方演示的几个 App 里面，也就正念训练和恐龙是跟 VR/AR 沾边的，也就是说苹果自己都没想好这玩意能开发出啥形式的 App……&lt;/p&gt;
-&lt;p&gt;现在欧盟那件事又和大企业闹不愉快了，开发这玩意的潜能大概率只能落在独立开发手里了吧🤣&lt;/p&gt;
-&lt;p&gt;这玩意，感觉成败现在只能看天了&lt;/p&gt;</description><pubDate>Wed, 31 Jan 2024 14:20:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013235#reply0</guid></item></channel></rss>
+&lt;/ol&gt;</description><pubDate>Thu, 01 Feb 2024 02:59:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013321#reply2</guid></item><item><title>[深圳] 深圳有找工作/互助/避雷/等 V 友的群不</title><link>https://www.v2ex.com/t/1013320#reply0</link><description>菜鸡刚来深圳,一无工作二不熟悉.&lt;br /&gt;有没有 V 友群呀,或者大家组建一个呗.&lt;br /&gt;留下个微信号联系方式,然后号码是加密的,说下加密方式/密钥.防止广告(比如 base64)&lt;br /&gt;这个 v 站不如手机上方便快捷嘛,哎想找个组织,熟悉了解下这边</description><pubDate>Thu, 01 Feb 2024 02:56:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013320#reply0</guid></item><item><title>[问与答] sing*box 真麻烦！</title><link>https://www.v2ex.com/t/1013319#reply4</link><description>&lt;p&gt;买了 apple tv 后，&lt;/p&gt;
+&lt;p&gt;sing*box 居然要我手搓配置文件的，很烦。&lt;/p&gt;
+&lt;p&gt;想吃现成的，懒得折腾，只能网上找著名的订阅转换，试了几个 V2RAY 订阅转 SING*BOX ，
+转出来了却没一个能用的，全都不能走代理。。。。&lt;/p&gt;
+&lt;p&gt;我哪里没搞对？&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 02:49:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013319#reply4</guid></item><item><title>[问与答] 问下大哥萌，预制菜加工行业有啥成品标签数据管理的解决方案</title><link>https://www.v2ex.com/t/1013318#reply0</link><description>包括涉及标签内包的一系列的数据集成啊，然后数据推到打印软件啊之类，有没有大哥有过类似经验，求指导</description><pubDate>Thu, 01 Feb 2024 02:46:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013318#reply0</guid></item><item><title>[酷工作] [前端] [Base 上海] Local 乙方 公司稳定 团队扩大中 年包 ~45 万</title><link>https://www.v2ex.com/t/1013317#reply0</link><description>[前端] &lt;br /&gt;岗位职责：&lt;br /&gt;1.深度参与产品或项目的需求沟通、方案评估；&lt;br /&gt;2.负责软件前端的开发、维护及优化；&lt;br /&gt;3.负责推动与优化前端基础架构、组件抽象；&lt;br /&gt;4.承担前端技术难点的攻坚；&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1.计算机或相关专业本科及以上学历，五年以上 Web 前端工作经验；&lt;br /&gt;2.深刻理解 Web 标准，能解决前端开发的各种兼容性问题；&lt;br /&gt;3.精通 CSS 、JavaScript 开发，能独立解决常见的前端技术问题；&lt;br /&gt;4.熟练掌握 javascript 模块化、组件化编程，具有设计和开发组件的经验；&lt;br /&gt;5.熟练掌握 Vue 相关技术栈，并熟悉常用组件库（如 Element-UI 、Antd ）等；&lt;br /&gt;6.有 DevExtreme 、React 、React Native 经验者优先；&lt;br /&gt;7.善于沟通，工作积极认真，责任心强，具备良好的团队协作能力，能及时关注和学习业界最新的前端技术&lt;br /&gt;&lt;br /&gt;Base 地：上海（杨浦区纪念路 8 号）或者客户现场。&lt;br /&gt;无语言要求。&lt;br /&gt;&lt;br /&gt;有兴趣可联系 wx：END78999</description><pubDate>Thu, 01 Feb 2024 02:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013317#reply0</guid></item><item><title>[程序员] 求静电容键盘推荐</title><link>https://www.v2ex.com/t/1013316#reply11</link><description>看到大家都主推 niz 的，但是看了一下又觉得好贵，除了 niz 之外还有其他的国产品牌推荐吗</description><pubDate>Thu, 01 Feb 2024 02:44:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013316#reply11</guid></item><item><title>[分享创造] Dataflare: 一款简单轻量的数据库管理器</title><link>https://www.v2ex.com/t/1013315#reply3</link><description>&lt;p&gt;Dataflare 是一款简单易用的数据库管理器，旨在帮助您更好地管理数据库，轻松的管理表格，查看数据，编写 SQL 查询。&lt;/p&gt;
+&lt;p&gt;目前支持连接到 libSQL, MariaDB, MySQL, PostgreSQL, Rqlite, SQLCipher, SQLite 和 SQL Server 数据库，后续还会增加更多。轻量小巧，只有 20M+ 左右的体积，支持 macOS, Windows, Linux 。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Create Table" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-001.png" /&gt;
+&lt;img alt="Schema Manager" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-002.png" /&gt;
+&lt;img alt="Preview Table" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-003.png" /&gt;
+&lt;img alt="SQL Editor" class="embedded_image" rel="noreferrer" src="https://assets.dataflare.app/posts/2024-02-01-004.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;定价&lt;/h3&gt;
+&lt;p&gt;售价：&lt;code&gt;$39&lt;/code&gt;，如果喜欢的话，可以付费支持一下。
+目前免费用户也可以使用所有功能，但是以后可能会针对免费用户添加一些限制。&lt;/p&gt;
+&lt;h4&gt;折扣&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;优惠 90%(10 个): &lt;strong&gt;Y1MDCYMG&lt;/strong&gt; &lt;/li&gt;
+&lt;li&gt;优惠 50%: &lt;strong&gt;Q5NJCWNW&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;之前在这里发布过一次，大家给了很多好的建议，真的非常感谢。&lt;/p&gt;
+&lt;p&gt;现在仍有很多不足，年后会加速开发，欢迎大家尝试一下 ❤️, 也欢迎大家提出任何建议！&lt;/p&gt;
+&lt;p&gt;Twitter: &lt;a href="https://twitter.com/DataflareApp" rel="nofollow"&gt;@Dataflare&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 01 Feb 2024 02:43:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013315#reply3</guid></item><item><title>[iCloud] icloud 开车，土耳其，缺一人</title><link>https://www.v2ex.com/t/1013314#reply3</link><description>RT ，年付 74 ，比较稳定</description><pubDate>Thu, 01 Feb 2024 02:43:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013314#reply3</guid></item><item><title>[优惠信息] 低价 GPT4，最低至六毛一美元额度，如大额购买另有优惠，支持高并发</title><link>https://www.v2ex.com/t/1013313#reply5</link><description>&lt;a href="https://api.kksj.me" rel="nofollow noopener" target="_blank"&gt;https://api.kksj.me&lt;/a&gt;&lt;br /&gt;本站点提供购买额度之后开箱即用，无需自己配置，具体使用方法详见首页使用方法&lt;br /&gt;除了开箱即用之外，本站点提供 API 调用，可在其他开源客户端调用，如 nextweb,chatbot 等等</description><pubDate>Thu, 01 Feb 2024 02:40:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013313#reply5</guid></item><item><title>[问与答] ios 微信的欢乐斗地主小程序的充值功能属于违反苹果的政策吗</title><link>https://www.v2ex.com/t/1013311#reply5</link><description>&lt;a href="https://i.imgur.com/6qZgWK3.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6qZgWK3.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;点击充值欢乐豆后，跳转到了另外一个小程序&lt;br /&gt;&lt;a href="https://i.imgur.com/AzdVhMP.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/AzdVhMP.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;这个小程序的首页是个假页面&lt;br /&gt;&lt;a href="https://i.imgur.com/Uds2zig.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Uds2zig.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;苹果禁止 ios 小程序游戏内购，微信按理说也是不允许的吧？&lt;br /&gt;&lt;br /&gt;这么做是因为这是微信官方解决方案还是因为是腾讯游戏所以可以这么做？&lt;br /&gt;&lt;br /&gt;如果苹果知道了会不会警告微信甚至让微信下架呢？</description><pubDate>Thu, 01 Feb 2024 02:38:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1013311#reply5</guid></item></channel></rss>
