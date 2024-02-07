@@ -1,40 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 07 Feb 2024 13:00:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] setapp 招乘客，可以 1 macOS 和 一个 iOS 设备</title><link>https://www.v2ex.com/t/1014937#reply0</link><description>&lt;p&gt;家庭组一位乘客下车，招新乘客一位。
-软件很多，也有 AI 软件用。
-年付 300 。
-联系 vx: dGVuZGVybGlrZWxvdmU=&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 12:59:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014937#reply0</guid></item><item><title>[Linux] Linux 内核：能否在编译或者运行环境中找出 a 模块调用的某个函数来源于另外哪个模块吗？</title><link>https://www.v2ex.com/t/1014936#reply0</link><description>&lt;p&gt;模块 a 已经编译出来了，我想追踪某个函数调用过程。发现 a 模块调用的某个函数在 a 模块自身没有定义。由于项目比较复杂，另外项目还可能包含了第三方的 binary 模块。所以通过看代码不太好 100%确定调用的函数在哪里定义的。能否从编译原理的角度来定位调用的函数是来自于哪个模块？或者模块运行的时候能看吗？已知 a 模块能正常工作。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 12:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014936#reply0</guid></item><item><title>[生活] [记录]-2024-02-07 生豆烘焙</title><link>https://www.v2ex.com/t/1014935#reply0</link><description>&lt;p&gt;&lt;img alt="微信图片_20240207194941.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/07/tJqxXKlC4kNbnBh.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;裸辞的第五天 买了 1kg 卢旺达的和 500g 巴西的 家里没有烘焙用的机器也没有仔细测温 感觉只要是不到二爆 浅烘焙的果味真的无差&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 12:49:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014935#reply0</guid></item><item><title>[问与答] 湖北冻雨会不会影响今年电动车，新能源汽车销量</title><link>https://www.v2ex.com/t/1014934#reply3</link><description></description><pubDate>Wed, 07 Feb 2024 12:39:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014934#reply3</guid></item><item><title>[Apple] iPad 有办法实现应用锁吗</title><link>https://www.v2ex.com/t/1014933#reply5</link><description>过年亲戚小朋友可能过来玩，不想被看到比较隐私的一些东西</description><pubDate>Wed, 07 Feb 2024 12:18:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014933#reply5</guid></item><item><title>[问与答] 预计装修房子，求指点</title><link>https://www.v2ex.com/t/1014931#reply5</link><description>目前是两眼一抹黑，想着要不要找个设计师设计一下，但是整个流程不太懂。地处郑州郊区，有没有装修过的指点一下，推荐或者避坑都可以</description><pubDate>Wed, 07 Feb 2024 12:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014931#reply5</guid></item><item><title>[分享发现] 之前做了个春联生成应用，学习别人的代码之余，给大家玩玩~</title><link>https://www.v2ex.com/t/1014929#reply2</link><description>&lt;p&gt;&lt;a href="https://whynotbetter.com/projects/chunlian" rel="nofollow"&gt;https://whynotbetter.com/projects/chunlian&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我春联先放给大家玩玩，Google 送的 300 刀用完就顺便提前㊗️大家 2024 暴富！💰&lt;/p&gt;
-&lt;p&gt;（ 300$是我对大家的爱的底线❤️）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.whynotbetter.com/whynotbetter/2024/02/29ea2509335f431e636af659e1e76488.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.whynotbetter.com/whynotbetter/2024/02/7b18056585c17acc3ba2618010b5e17c.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:50:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014929#reply2</guid></item><item><title>[分享发现] 支付宝最新版，底部增加视频按钮</title><link>https://www.v2ex.com/t/1014928#reply0</link><description>&lt;p&gt;真是啥软件都要加上短视频...&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:46:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014928#reply0</guid></item><item><title>[奇思妙想] 如果 iPhone 和 Mac 放在一起的时候可以当做妙控板使用就方便了</title><link>https://www.v2ex.com/t/1014927#reply1</link><description>突然想到的 idea ，不过 apple 肯定不会这样做</description><pubDate>Wed, 07 Feb 2024 11:46:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014927#reply1</guid></item><item><title>[OpenAI] 现在官网的 chatgpt3.5 和 4 各自上下文 token 上限是多少？</title><link>https://www.v2ex.com/t/1014926#reply3</link><description>&lt;p&gt;找了一圈没找到相关的资料&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:27:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014926#reply3</guid></item><item><title>[Android] 想问下关于 clash 访问控制的问题</title><link>https://www.v2ex.com/t/1014925#reply2</link><description>&lt;p&gt;我设置名单下的 app 禁止访问。设置的都是一些国产 app ，然后发现有些不在名单里的也不能访问了。比如我使用这个模式，我的三星表上的 play 商店就连不上网了，我禁用的名单里都没有三星或者 wearos 相关的 app &lt;/p&gt;
-&lt;p&gt;看日志也看不出是哪个 app 导致的&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:27:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014925#reply2</guid></item><item><title>[Kubernetes] 2024 年云原生领域（特别是 K8s）的趋势是什么？</title><link>https://www.v2ex.com/t/1014924#reply0</link><description>迫于不想单纯运维 K8s ，想整一些云原生领域的新东西落地。总的基调是：（ 1 ）降低成本；（ 2 ）提升可纳管的计算种类；目前想到了（ 1 ） BigData on K8s ，将 flink 、spark 、kylin 等类型大数据应用部署到 K8s 里面，初步实现在、离混部与潮汐计算；（ 2 ）有状态应用部署，将 Redis 、kafka 、ZK 等，还有个别的有状态的应用部署到 K8s 中来（这个挑战可能较大）。大家还有啥好的思路吗？</description><pubDate>Wed, 07 Feb 2024 11:14:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014924#reply0</guid></item><item><title>[分享发现] 用红包封面放自家的猫是什么体验</title><link>https://www.v2ex.com/t/1014923#reply0</link><description>&lt;p&gt;最近收到了微信的一大堆红包封面。&lt;/p&gt;
-&lt;p&gt;本来想有空设计几个封面，但是想了想也不知道这个有空要到啥时候了。&lt;/p&gt;
-&lt;p&gt;就将自己的猫的视频先放了上去。&lt;/p&gt;
-&lt;p&gt;因为单一个视频的话，预览页有点搓，就画了个长条封面凑合着。&lt;/p&gt;
-&lt;p&gt;效果如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="pv" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-328d976792a177839aeff686ebb7f83f_720w.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="qrcode" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-31d70d4a174105c9260b0a7a1141a7c6_720w.png" /&gt;&lt;/p&gt;
-&lt;p&gt;担心这个红包封面分享链接打不开，遂附上表情包详情页的二维码。可以在里面领红包封面。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="qrcode" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-b53b1c5fb48ebe2872018b5f5acdf463_720w.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014923#reply0</guid></item><item><title>[Chrome] clean crxmouse 今天用不了，安装回 crxmouse chrome, 感觉 bug 更多了, 有大佬在吗</title><link>https://www.v2ex.com/t/1014922#reply2</link><description>&lt;p&gt;clean crxmouse 突然用不了了，chrome 提示说存在安全隐患下架了，又安装回这个 crxmouse chrome ，这个 BUG 更多一点, 没人修复吗。
-无法在后台打开链接
-超级拖拽更改设置后无法保存&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 11:03:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014922#reply2</guid></item><item><title>[问与答] 回老家 有适合串流用平板或笔记本吗</title><link>https://www.v2ex.com/t/1014921#reply2</link><description>&lt;p&gt;不要求性能，但屏幕一定得好 120hz 以上 wifi 信号够好 性价比高点 就回家临时用用 给小朋友打游戏 家里有公网 ip ，打算用 moonlight 串流玩游戏&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 10:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014921#reply2</guid></item><item><title>[问与答] 野生程序员开发遇到瓶颈，请问如何突破呢？</title><link>https://www.v2ex.com/t/1014920#reply2</link><description>&lt;p&gt;一直以来，我都是以自由职业的状态在承接着个人客户的工具需求订单。现在对工具类的窗口应用开发得心应手，但近两年来接触 Web 开发，想往这一块发展，现在偶尔写一些后台，还是磕磕绊绊。原因在于没有这方面的经验，每次新接触一个项目都想着从 0 去开发，我没有积累下自己在 Web 领域的代码库和系统思维（如果是工具类我会很快的开发出来，即使从 0 开发）。&lt;/p&gt;
-&lt;p&gt;比如现在我遇到了一个问题，我每次遇到需要搭配后台管理的 Web 项目，总会感到无处下手，虽然都能磕磕绊绊的解决。我目前开发的两个项目，后台都用的不同开源框架去改，每次都得改大半天...我一直执着于去找一个开源的后台框架，能让我快速起手的，但现有的开源总让我觉得我玩不转，他们大多大而全。&lt;/p&gt;
-&lt;p&gt;再者，我在对接客户时，我总能迅速的理解他们想表达的内容，并加以改进，在脑海里有一个模糊的界面去支撑这个客户的业务需求。但当我脑海里有一个想法的时候，我想为他去绘制一个界面，都觉得哪里都不对劲。&lt;/p&gt;
-&lt;p&gt;我的技术栈是 Golang Python Javascript ，请问您有什么开源后台推荐，能够方便迅速的起手一个项目的 CURD 后台嘛？又或者您有什么推荐我去学习，实践的方向。Python 方面的 Django 虽然有自己的后台，但是只能应付简单的 CURD ，进一步复杂的 CURD 我觉得有点浪费时间，况且我更喜欢前后端分离的开发，这是否是一个错误的想法。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;上面的描述可能有点混乱，希望您见谅，希望能得到您的帮助，我会十分感激。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 10:51:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014920#reply2</guid></item><item><title>[问与答] gateio 里面的余币宝有年化 10%，大家觉得怎么样</title><link>https://www.v2ex.com/t/1014919#reply0</link><description></description><pubDate>Wed, 07 Feb 2024 10:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014919#reply0</guid></item><item><title>[奇思妙想] 利用 trilium 的分享制作博客相关问题</title><link>https://www.v2ex.com/t/1014917#reply0</link><description>&lt;p&gt;无意间再 v 站上看到一个贴子，有个大佬利用 trilium 的分享功能自定义分享页样式做的笔记主题实现的一个个人博客，windows 端还能和云端同步，
-我弄好之后有个大胆的想法，他分享的页面都有自己的 url ，如果我导入多个然后反代分享连接不就可以简单的实现一个 vps 一个服务实现多个博客。
-但是很快就打脸了，我发现主题分享的笔记 url 是固定的 http://domain/share 这种形式其他笔记是 http://domain/share/xxxx 。我去看了官网文档，官方文档是这样写的：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;您可以将#shareRoot 属性添加到文件夹或笔记中，当您访问 http://domain/share 时，它将被链接。这可以更容易地将 Trilium 用作一个成熟的网站，因为您可以创建一个笔记来充当“主页”。
-共享笔记可以使用类似的 URL 访问 http://domain/share/knvU8aJy4dJ7 ，其中最后一部分是笔记的 ID 。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;您可以添加#shareAlias 到单个注释以使 URL 更好，例如#shareAlias=highlighting 将使 URL 看起来像 http://domain/share/highlighting 。请注意，您有责任保持别名的唯一性。&lt;/p&gt;
-&lt;p&gt;说明这个是可以改的，应该是主题文件的问题，但是我找了半天也没发现哪里可以改，有大佬知道吗&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/Nriver/trilium-translation/blob/main/docker-compose.yml" rel="nofollow"&gt;https://github.com/Nriver/trilium-translation/blob/main/docker-compose.yml&lt;/a&gt;
-汉化项目地址&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/Nriver/trilium-translation?tab=readme-ov-file" rel="nofollow"&gt;https://github.com/Nriver/trilium-translation?tab=readme-ov-file&lt;/a&gt;
-官网地址
-&lt;a href="https://github.com/zadam/trilium" rel="nofollow"&gt;https://github.com/zadam/trilium&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;那位大佬做的笔记主题
-&lt;a href="https://github.com/dvai/Ankia-Theme/releases" rel="nofollow"&gt;https://github.com/dvai/Ankia-Theme/releases&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 10:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014917#reply0</guid></item><item><title>[硬件] 请问有办法用 ATX 电源给小主机供电吗？</title><link>https://www.v2ex.com/t/1014915#reply2</link><description>搜了一下，淘宝有卖有 ATX 转 usb 的，但最高只支持 10 瓦左右，小主机用 100 瓦的 type-c 有办法么？</description><pubDate>Wed, 07 Feb 2024 10:16:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014915#reply2</guid></item><item><title>[问与答] 求助啊 win11.dev 一直更新失败怎么办呀</title><link>https://www.v2ex.com/t/1014913#reply1</link><description>目前版本还停留在 Build &lt;a href="http://23541.ni" rel="nofollow noopener" target="_blank"&gt;23541.ni&lt;/a&gt; prerelease.230901-1418&lt;br /&gt;之后每次推出新版都更新失败&lt;br /&gt;现在又不想重装 又不让退出 dev&lt;br /&gt;这样还有机会在下一个正式版本时退出 dev 吗&lt;br /&gt;是不是需要保持在最新的测试版才能更新到下一个正式版呢</description><pubDate>Wed, 07 Feb 2024 10:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014913#reply1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 07 Feb 2024 21:17:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] Rust 写的基于 WebRTC 的开源远程桌面软件</title><link>https://www.v2ex.com/t/1014967#reply0</link><description>&lt;p&gt;大家好，我们是一群快要毕业的大学生，为了毕业设计，用 Rust + WebRTC + ffmpeg 做了一个 P2P 屏幕共享+远程桌面软件。&lt;/p&gt;
+&lt;h3&gt;链接&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;项目页 (欢迎 star)： &lt;a href="https://github.com/mira-screen-share/sharer" rel="nofollow"&gt;https://github.com/mira-screen-share/sharer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;下载页： &lt;a href="https://github.com/mira-screen-share/sharer/releases" rel="nofollow"&gt;https://github.com/mira-screen-share/sharer/releases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;截图&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="screenshot.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/08/4DZnkpGqszVhHAc.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/08/ptKAfzoWcSZub4g.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;特性&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;高性能 (在网络和性能允许的情况下最高可达到 60FPS @ 4k, 110ms 延迟）&lt;/li&gt;
+&lt;li&gt;鼠标和键盘控制&lt;/li&gt;
+&lt;li&gt;系统音频捕捉&lt;/li&gt;
+&lt;li&gt;GPL-3 开源&lt;/li&gt;
+&lt;li&gt;跨平台&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;控制者无需安装任何软件&lt;/strong&gt; 可以直接在浏览器打开&lt;/li&gt;
+&lt;li&gt;目前无需注册、付费&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前支持 Windows + macOS (aarch64 / x86-64)，欢迎大家试用。项目还比较不完善，不建议用在比较关键的地方，也不确定国内的网络环境能否使用（目前在无法建立 P2P 连接时用的是我们的 Twilio 的节点，但也可以支持自己搭建 Relay Server ）。如果有什么建议的话欢迎留言或者填写我们的&lt;a href="https://9tw4zaw9867.typeform.com/to/Jgol6mnj" rel="nofollow"&gt;问卷&lt;/a&gt;。感谢！&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 21:01:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014967#reply0</guid></item><item><title>[问与答] NFT 的价值（虚拟货币）有什么办法推高？</title><link>https://www.v2ex.com/t/1014965#reply4</link><description>&lt;p&gt;在中国大陆可以发行和收藏 NFT ，个人交易虚拟货币的行为不受法律保护（我理解就是可以交易），明确取缔了境内虚拟货币交易所。&lt;/p&gt;
+&lt;p&gt;难道可以在大陆收藏 NFT ，拿去香港卖？好像有欧易、币安什么的👀&lt;/p&gt;
+&lt;p&gt;或许有大佬知道怎么指定吗？没找到按钮，是因为只充值了$5 吗？&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 17:26:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014965#reply4</guid></item><item><title>[程序员] 请各位推荐一下，用于翻译的大模型</title><link>https://www.v2ex.com/t/1014964#reply3</link><description>&lt;p&gt;请问一下，有什么现成的大模型比较适合多语种翻译呢？&lt;/p&gt;
+&lt;p&gt;（中，英，德，阿拉伯语这些互相翻译。）&lt;/p&gt;
+&lt;p&gt;感谢！🙏&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 17:03:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014964#reply3</guid></item><item><title>[宽带症候群] 电信光猫超级密码改了？</title><link>https://www.v2ex.com/t/1014962#reply2</link><description>刚刚发现之前的超级密码 nE7jA%5m 提示错误了......</description><pubDate>Wed, 07 Feb 2024 16:02:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014962#reply2</guid></item><item><title>[程序员] 手机操作 Gitee 简直是灾难</title><link>https://www.v2ex.com/t/1014961#reply1</link><description>包括公众号和浏览器网页操作，下了个 App 还登不进去……</description><pubDate>Wed, 07 Feb 2024 15:56:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014961#reply1</guid></item><item><title>[程序员] 有用 immich 备份 iPhone 相册的吗？有个问题请教下</title><link>https://www.v2ex.com/t/1014960#reply0</link><description>&lt;p&gt;一个新 iphone 手机如何把 immich 中图片/视频完整的复制回来？完成 restore 工作？&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 15:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014960#reply0</guid></item><item><title>[Apple] ATV 上 cheers 的怪事</title><link>https://www.v2ex.com/t/1014959#reply0</link><description>最近换了 4125 软理由，跑了单 op ，然后奇怪的事情就来了&lt;br /&gt;ATV 上的 cheers 就经常这样无法播放，偶尔也能播放，大部分时间都不能，以前用硬 arm 路由的时候是都正常的&lt;br /&gt;都是 OP ，设置也几乎一样，这大概能是什么问题？&lt;br /&gt;恢复硬 arm 路由就恢复正常，两个 OP 的设置基本一样，分流也是一样的，也都开了 V6&lt;br /&gt;&lt;br /&gt;错误提示：&lt;br /&gt;Request retry failed with retry error:URLSessionTask failed with erroe:请求超时。,original error :URLSessionTask failed with erroe:请求超时</description><pubDate>Wed, 07 Feb 2024 15:37:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014959#reply0</guid></item><item><title>[Apple] 各位大佬：以下几款手机，如何选择？</title><link>https://www.v2ex.com/t/1014958#reply4</link><description>&lt;p&gt;本人对“数据”有洁癖，一直想要一两款既“干净”，性能又不错的手机。&lt;/p&gt;
+&lt;p&gt;摆在我面前的，有以下几个选项：&lt;/p&gt;
+&lt;p&gt;1 、国行 iPhone 15 pro max （存储 256GB)&lt;/p&gt;
+&lt;p&gt;2 、二手美版 iPhone 11 - 14 &lt;/p&gt;
+&lt;p&gt;3 、港版 iPhone 11 （存储 256GB)&lt;/p&gt;
+&lt;p&gt;4 、港版 三星 Note 10+ （运存 12GB + 存储 512GB ） &lt;/p&gt;
+&lt;p&gt;5 、小米（欧版系统，波兰版） MIX 2s （运存 8GB + 存储 256GB) &lt;/p&gt;
+&lt;p&gt;据说，欧版，对系统的“干净”程度，其要求是最严格的。但这款手机的性能，也许是以上几款手机中最差的，也是最老的款式。&lt;/p&gt;
+&lt;p&gt;这一年来，我心心念念地想要一款美版的 iPhone ,哪怕是二手的。主要是为了用上“干净”的，不受“污染”的数据。&lt;/p&gt;
+&lt;p&gt;原本，是想要在这个年底，给自己买一个二手美版 iPhone （上述几款手机之第 2 项），作为送给自己的新年礼物。但现在，我多了一个选择，那就是国行 iPhone 15 pro max （存储 256GB)。&lt;/p&gt;
+&lt;p&gt;另，各位大佬，如果是你们，在以上 5 款手机中选 2 款，你们会选择哪 2 款 ？&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 15:36:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014958#reply4</guid></item><item><title>[问与答] Mixin 平台上的 BTC 和钱包里的钱如何提现啊</title><link>https://www.v2ex.com/t/1014957#reply3</link><description>刚大学毕业的时候，跟着李笑来在 mixin 平台上买了点比特币和一些 BOX ，好多年过去了。之前还可以在平台，跟人通过支付宝换钱。现在只能币与币之间转化了。想把钱拿出来，我该如何操作了。好在这么多年放在那里没有亏。。。</description><pubDate>Wed, 07 Feb 2024 15:30:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014957#reply3</guid></item><item><title>[问与答] 讨论一下“无线热点” 功能的潜在安全风险</title><link>https://www.v2ex.com/t/1014956#reply6</link><description>我知道的一个风险就是 A 用户连接 B 用户的流量热点，可以通过 “手机号一键登录” 功能登录 B 的账号，不知道这个问题现在是否还存在。&lt;br /&gt;这不快过年了吗，这个功能可能用的也比较多。&lt;br /&gt;但是我看好像目前还没有通过无线热点攻击设备的例子。</description><pubDate>Wed, 07 Feb 2024 15:28:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014956#reply6</guid></item><item><title>[小米] 小米手机系统做的很糙啊。相比苹果差距明显，有些甚至比不上三星。。</title><link>https://www.v2ex.com/t/1014955#reply4</link><description>老婆的苹果突然屏幕无故闪烁，时好时坏。考虑到我的也两年前用到发热后就会触控失灵卖了换成三星，用着没啥问题。趁着屏幕好的时候以旧换新买了比较热门的小米 14pro 。&lt;br /&gt;&lt;br /&gt;   用了半个月后发现小米好多基本功能居然缺失，比如不能给特定联系人设置短信铃声。好多修改不能批量操作。有些功能只是有，用起来很蛋疼，小爱的同学的大模型能力离 vivo 的差的多，语音识别准确率差我的三星好远，骚扰短信号码库也没三星的全。另外还有很多小 bug 。&lt;br /&gt;&lt;br /&gt;   另外现在苹果，安卓操作都差不多，很好适应，安卓早就不卡了。就屏幕，拍照，录像离苹果还有些差距。需要花点时间研究怎么关广告，怎么延长续航时间。刚买回来那几天四五个小时就要充电，弄好相关设置基本可以亮屏 6 小时以上。&lt;br /&gt;&lt;br /&gt;   总的来说相比苹果便宜了 3000 块还是挺划算的，还送壳带贴膜。要是完善下系统就更好了。希望不要和苹果一样用两年就坏。。。&lt;br /&gt;&lt;br /&gt;港版三星还真是个好选择。。。</description><pubDate>Wed, 07 Feb 2024 15:20:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014955#reply4</guid></item><item><title>[程序员] 第一次写总结， 2023 总结</title><link>https://www.v2ex.com/t/1014954#reply2</link><description>&lt;p&gt;&lt;strong&gt;2023 年总结&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 、关于工作&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我在一家公司负责某个业务线所有的系统研发，有内部系统，有外部系统，眉毛胡子一把抓，有时候带团队，有时候独瓣蒜。&lt;/p&gt;
+&lt;p&gt;公司的业务大概从 17 年就开始下滑，一直到疫情开始，起起伏伏，曲线基本稳定。
+从疫情开始，业绩大幅下滑，但是滑到某个点之后，曲线继续稳定。
+22 年开始，寒气继续传递，23 年 6 月的时候，终于传到我这块了。
+整个部门都裁掉了。原来的部门领导说拉过去创业，支撑了一些时间，想了想还是算了。
+中途原来的同事要拉到他们公司去，说研发经理缺人，大概有 20 个人，身体的缘故没有过去，不过感谢这个兄弟，这哥们儿是个产品，干活儿的效率真的高，合作也很愉快，我工作好多年，就没见过这种产品，给湖南人点个赞。&lt;/p&gt;
+&lt;p&gt;大概 10 月份开始找工作，过程一言难尽。&lt;/p&gt;
+&lt;p&gt;大公司一面挂，二面挂，薪资挂；
+小公司说想看看水平怎么样，想白嫖股票自动交易系统；
+山脚的废品站乡镇老板想做个二手书交易小程序，只给 8000 块；
+基金公司 hr 说你实在觉得你合适的话，就可以投简历，那个味道听起来，我就想我那个憨憨的干处长的邻居怎么能干到处长的；
+外企的外国 hr 小姐姐聊过之后觉得我英文不行，我也没想到会是国外的 hr 统一面试，上来就是一通英文，我也一通英文，然后就没有然后了；
+然后还有大量的外包，外包看上我的都不多；&lt;/p&gt;
+&lt;p&gt;时而信心满满，上午投简历，下午搞学习；时而萎靡不振，两眼无神；出门的时候极少，我老丈人偷偷跟老婆讲，我看起来不太好，要多出去走走，要不要去医院看看。&lt;/p&gt;
+&lt;p&gt;offer 拿到了一些。有离家太远的，50 公里；有老板扯淡的；有薪资很低的；有外包，别说外包待遇看起来还行；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 、关于生病&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5 月 1 号的时候，有点咳嗽。小长假还出去旅游了，回家之后就一直咳嗽，干咳无痰；
+五一结束开始上班，公司旁边就是医院，咳得受不了了去拍了个片子，医生说你的肺已经白了一半，要住院；我问不住院怎么办，医生说不住院要签个单子，然后会死。&lt;/p&gt;
+&lt;p&gt;按肺炎治疗，住院一周，没有好转，医生碰过头之后说你这个没有好转，做个肺泡液基因检测，自费 3600 ；检测之后，医生说看起来像结核，赶紧去肺科医院；&lt;/p&gt;
+&lt;p&gt;从医院出来基本走不动路，浑身无力，一周掉重 14 斤；&lt;/p&gt;
+&lt;p&gt;去了肺科医院，医生看了片子，说很严重了；结核科的床位要等，等了两天住进去了；开始上药，异烟肼，利福平，尿都是红色的；过了两天，医生说你的身体指标很差，严重营养不良，要喝特殊医学配方蛋白粉，不是健身那种；住了 5 天，主任过来说你这个，所有的检查都没有查出来哪儿有结核，做个基因检测吧，自费 4200 ；检测完了主任说不是结核，安排出院，你去华山找感染科蒋为民主任，我给你写推荐信，因为医生的号不一定能挂到;
+万分感谢结核主任。&lt;/p&gt;
+&lt;p&gt;到了华山感染科，这个科室就是张文宏那个科室，这是个联合诊断科室，里面的医生有各个科室的，医生的办公室在外面围城一圈，内部互通，我想是让他们相互合作诊断的。
+蒋为民主任和肺科主任讨论了一番，说做个真菌检测吧，看有没有真菌；做了真菌培养，要 3 个工作日；我觉得有点气若游丝了；不能呼吸，痛苦谈不上，就是走不动路，脑子转不动；真菌培养显示是隐球菌，滴度高到离谱，主任说一般没这么高，也有更高的；接下来就是隐球菌的治疗，抗真菌药物药效很慢，疗程很长，见效也很慢；&lt;/p&gt;
+&lt;p&gt;回家之后，家里有个小房子，行情不好没卖掉，就独自住在那边，医生说不传染，但是还是一个人住吧，那段时间疫情还断断续续的；老丈人一天三顿送过去，因为没力气，吃的也慢；每天就是吃饭，吃药，喝蛋白粉，下楼晃一晃，再慢慢的爬楼梯，爬半层就要歇一下；写写代码，搞一搞系统，这个就是上面说的领导创业的事，每个月还有些收入；
+躺了两个月，身体终于好转了，但是真菌滴度没有下降，大概 6 个月之后，滴度才大幅下降，老婆终于松了口气。&lt;/p&gt;
+&lt;p&gt;关于隐球菌：这个东西医生说是鸽子粪感染的，肺部症状和周围性原发癌，肺炎，肺结核都很像，小地方容易误诊，有不少都是开一刀，做病理分析，才发现是这个真菌；&lt;/p&gt;
+&lt;p&gt;关于结核：结核科住院部的地板上有黄色的图标，标识污染区，看起来就比较吓人。结核分很多种，有肺结核，骨结核，脑结核，淋巴结核，脓肿结核，各种各样的。&lt;/p&gt;
+&lt;p&gt;关于住院：呼吸科的住院部惊心动魄，各种仪表的滴滴，护士的奔走，抢救的呼叫，家属的嚎哭，住了一周我感觉我也要死了。结核科的住院部好很多，还有浴室可以洗澡，但是有留置针，也不能洗；住院的时候是 5 点起床，5 点半吃早饭，然后护士查房，上药，8 点多主任巡查，10 点多点儿吃午饭，吃完继续吊针，下午 4 点多吃晚饭，7 点就关灯睡觉。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3 、关于家庭&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;奶奶：
+奶奶 7 月份过世了，90 多岁，我们都以为能活到 100 的，起夜摔了一跤，腿断了，躺了一年就走了。&lt;/p&gt;
+&lt;p&gt;我奶奶经历过抗日战争，解放战争，土改，一直到现在。大概 9 岁那年，日本人沿着河一路打了过来，我奶奶一家躲在玉米秆垛子里面，把刚出生的小舅爷爷搞忘掉了，日本人把褥子挑了，小孩睡熟了滚到墙角没哭；用刺刀捅了玉米秆，也没有人被捅死；&lt;/p&gt;
+&lt;p&gt;然后是不知道哪一年的七月半，解放战争，国民党在河南边，新四军在河北边，国民党的兵准备吃饭，饭在桶里，还没吃，打起来了，然后就被打光了，有些没死的，也被老百姓挖了坑埋掉了，奶奶说那些人很可怜。&lt;/p&gt;
+&lt;p&gt;奶奶和爷爷成家的时候好像是 17 ，爷爷只有母亲，父亲早亡，还有一个弟弟一个妹妹，据说一个 7 岁，一个 4 岁。他们靠干农活儿，种些黄豆换钱，养几只鸡生蛋换布，供二爷读书读到高中毕业，然后送过去当兵，后来二爷在西安飞机厂修发动机，我长这么大就见过两次。&lt;/p&gt;
+&lt;p&gt;农业公社，吃不饱饭；分田到户，农民不会种地，不知道怎么增产，后来有了农业站、技术员，慢慢的产量才高了一些。&lt;/p&gt;
+&lt;p&gt;在河边织渔网的奶奶走了，我有点难过，但是小时候经常听她哼的曲子我也会哼，不知道叫什么名字。&lt;/p&gt;
+&lt;p&gt;妈：
+我妈身上疼，不知道哪儿疼，医院也查不出来；可能是年纪大了，可能年轻的时候过渡劳累，也可能是当年父亲过世的时候过度悲伤，也可能是腿断了没有完整的康复；我一直觉得我没有很清晰的认识我的母亲,讲不太清楚，小时候不懂这些，长大了四处念书，四处工作，在一起的时间很短，而且社会一直在变化；不管如何，她都是我的母亲。&lt;/p&gt;
+&lt;p&gt;老婆：
+和老婆在一起 16 年了，发妻；当年河边的小姑娘仿佛还在昨天，现在纠结的就是减肥和不许说我胖；一路走来，好像没有经历过一贫如洗，也没有大富大贵，好像一切都是按部就班往前走；穷困的时候还年轻，在一起只觉得快乐，没顾得上穷；有了孩子之后，那种喜悦是无以名状的。一直到现在，被社会割了韭菜，小孩儿念书的学区房搞不动了。
+生病失业期间，都是靠老婆的工资收入支撑，开始上班之后，我能感到她轻松快乐了一些，连小孩儿都开心不少。&lt;/p&gt;
+&lt;p&gt;我：
+生病了，没死掉；换了工作，继续生活。&lt;/p&gt;
+&lt;p&gt;我觉得这种平淡前进的基础，是父母对我们的教育投资带来的；我和老婆都是硕士，没有大富大贵；我有个中文博士朋友，捡漏考进某部委；一个亲戚大哥，也是一直念书，念到了学院的院长。当年导师问我要不要念博士，我说不念，缺钱，导师本来就黑的脸更黑了，如果当年读了博士，现在收入要多一些；当年的不少同学，现在都是研究员了；&lt;/p&gt;
+&lt;p&gt;但是平淡之外的东西，比如如何发财，我想象不出来，没有可以参考的对象，没有父辈的经验，应对社会风险的能力很差，这个是我要着重思考并解决的问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4 、关于住房&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;小孩儿上学，想换房子来着；但是市场持续走低，卖也没不动，换也换不动；没辙。&lt;/p&gt;
+&lt;p&gt;一点想法：
+没有什么比活着更重要；
+如果身体没啥问题，胖点儿就胖点儿吧，要不然生病了没有膘消耗；
+多了解一些行业外的想法，很有意思；
+钱也挣不完，挣得多多花，挣得少少花，但是要存钱；
+教育方面实在没想法，因为不知道怎么弄，苏霍姆林斯基的书倒是有全套，奈何看不下去;
+女人很难搞，婆媳也很难搞，烦&lt;/p&gt;
+&lt;p&gt;在这两年找到新的方向，有个副业。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 15:17:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014954#reply2</guid></item><item><title>[ WATCH] watch 游泳配合骨传导耳机效果怎么样？听说水下蓝牙传输有影响？</title><link>https://www.v2ex.com/t/1014952#reply2</link><description></description><pubDate>Wed, 07 Feb 2024 14:50:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014952#reply2</guid></item><item><title>[分享发现] 做了一个红包封面，祝大家龙年都可以“向钱靠拢，福运亨通！”</title><link>https://www.v2ex.com/t/1014950#reply7</link><description>&lt;p&gt;月初，想着和社区的朋友们一起做个红包封面。因为是龙年，就想送给大家一条龙。有一个小伙伴突然想起小时候做广播体操时，体育老师经常会喊：“向前靠拢”。这个创意一拍即合，大家都非常认同。于是，我们决定在龙年送给大家一条&lt;strong&gt;向钱靠龙🐲&lt;/strong&gt;，祝愿大家在龙年行大运，向钱靠近一步！
+祝愿我们在新的一年中，都能在舒适自在的工作环境中实现自我价值，过好生活！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;致敬所有全球不同时区，种族，国家和文化的工作者们！我们这一年都辛苦了！春节快乐，吃点好的！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;直接用微信扫码就可以领取&lt;/h2&gt;
+&lt;img alt="1.png" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/Y92M1Tt1.png" title="1.png" /&gt;
+&lt;p&gt;ps：这是一个动态的红包封面，会有一个龙飞过来吐钱，视频太大了，就没上传。
+&lt;img alt="1.png" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/2B31E1Gas.png" title="1.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 14:38:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014950#reply7</guid></item><item><title>[宽带症候群] 求一个多接口远程回家方案</title><link>https://www.v2ex.com/t/1014949#reply3</link><description>服务端 Mac 、Linux 、Windows 都可以，客户端随意&lt;br /&gt;&lt;br /&gt;需求：1 、多账户接入不同内网&lt;br /&gt;      2 、单账户接入所有内网（三个主内网以及多个有调试需求的子内网）&lt;br /&gt;      3 、客户端可以强制 IPv6 连接&lt;br /&gt;      4 、服务端可以单独设置入站、出站接口&lt;br /&gt;      5 、满足 1 、2 其一或者 1 、2 都满足&lt;br /&gt;      &lt;br /&gt;DDNS 解析在华硕路由器上，支持 V4 、V6 不刷机&lt;br /&gt;      &lt;br /&gt;目前有一台 Mac 通过交换机接入所有内网进行调试监控，但是在外地就很麻烦了只能远程桌面到 Mac 解决&lt;br /&gt;&lt;br /&gt;以前网络不好情况下会通过 surge 代理 openVPN ，现在换成了 surge 内置 wireguard （能强制 IPV6 ）&lt;br /&gt;&lt;br /&gt;路由器上能设置 openVPN 和 wireguard 服务器，但是处理不了多接口问题&lt;br /&gt;&lt;br /&gt;所以有没有简单一点的客户端方案，服务端实现不了可以在套一层？&lt;br /&gt;&lt;br /&gt;或者直接把 Mac 当 VPN 服务器，出口通过调整接口服务顺序，surge 能代理过来吧？&lt;br /&gt;&lt;br /&gt;有谁弄过这种多接口的 VPN 方案可以说下吗</description><pubDate>Wed, 07 Feb 2024 14:36:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014949#reply3</guid></item><item><title>[问与答] 想接入 Gemini 的 api,服务器是不是应该选美国的服务器?</title><link>https://www.v2ex.com/t/1014948#reply2</link><description>&lt;p&gt;最近突然想学习一下怎么接入 Gemini 的 api 来开发一个应用,不过看起来应该是要美国的 IP 才行? 自己一直用的腾讯云,没用过其它海外服务器,请问有没有比较便宜的方案啊?不想投入太大,对性能要求也不高.&lt;/p&gt;
+&lt;p&gt;请指教,谢谢&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 14:25:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014948#reply2</guid></item><item><title>[ WATCH] Apple Watch 蜂窝网络无法激活</title><link>https://www.v2ex.com/t/1014947#reply1</link><description>&lt;p&gt;上周实在受不了 ultra ，直接在苹果店置换了 S9 ，电源直接解绑移除回收。因为是库存货，当场打开后发现完全没电，就拿回家激活了，随后曲折的悲剧就开始了。回加第二天配对没问题，但是在激活 ESIM 的时候直接跳了界面，也没注意，随后完成同步后，发现!！！ ESIM 是灰色的，无法点击，让我联系中国移动。打开和多号一卡双端！大爷的一个提醒瞬间菊花一紧，ESIM 下架了，我擦~那我岂不是买了个寂寞的蜂窝版，随后打电话给 10086 ，客服说停办 ESIM 服务，但是苹果表不印象，应该是手机问题，随后激活、还原、没用，10086 也提交投诉。昨天又去苹果店，想试试换有一个看看，天才吧看了我这情况也说第一次碰到，配对居然跳过了 ESIM 。因为包装被我当初直接扔了，只能原厂返修~在等待办手续的时候，我抱着试试的心理，直接和店员说，我直接当场买一个，如果问题解决了，在弄退换，如果问题依旧，那应该就是 10086 的问题了。随后 POS 刷卡又特么买了个表，配对.....问题依旧，就在这时候。。。。就在这时候......10086 来电话了，说监测到我刚才有配对报文，他们技术部感觉是我 SIM 卡坏了！！！！我脑子顿时嗡翁的，这尼玛和我实体 SIM 卡也关系?随后去隔壁补办了个卡，随后插卡~&lt;del&gt;开机&lt;/del&gt;~玛德!居然好了!绕了那么大一圈，居然是 SIM 卡故障，我找遍全网也碰到这个问题的也有，但是没写到是 SIM 卡的问题啊！留个贴，给有需要的朋友，以后看到，直接换卡！&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 14:07:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014947#reply1</guid></item><item><title>[程序员] 分享一个我们自己开发的 Rust 跨平台 GUI 框架</title><link>https://www.v2ex.com/t/1014946#reply0</link><description>&lt;p&gt;我们开发的 Rust GUI 框架 Ribir 开源了，感兴趣的朋友可以来看看。&lt;a href="https://github.com/RibirX/Ribir" rel="nofollow"&gt;https://github.com/RibirX/Ribir&lt;/a&gt; 。&lt;/p&gt;
+&lt;p&gt;相关文档： &lt;a href="https://ribir.org/zh/docs/introduction/" rel="nofollow"&gt;https://ribir.org/zh/docs/introduction/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Ribir 是什么&lt;/h2&gt;
+&lt;p&gt;Ribir 是基于 Rust 开发的跨平台 GUI 框架，它的核心设计理念是应用程序 UI 的构建对数据结构逻辑是&lt;strong&gt;非侵入式&lt;/strong&gt;的。&lt;/p&gt;
+&lt;p&gt;Ribir 的设计架构如下：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Ribir Architecture" class="embedded_image" rel="noreferrer" src="https://ribir.org/assets/images/architecture-7bbcd27e5a877f253922429be5cc9519.svg" /&gt;&lt;/p&gt;
+&lt;h2&gt;构建非侵入式的 GUI 应用&lt;/h2&gt;
+&lt;p&gt;应用程序的数据结构是核心，不应该和 UI 逻辑耦合，UI 只是对数据结构的表达。使用 Ribir 进行应用程序开发，可以先设计应用程序的数据结构，再根据数据结构提供的 API 对应用程序的 UI 进行描述。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;没有其他状态&lt;/li&gt;
+&lt;li&gt;没有额外的通知机制&lt;/li&gt;
+&lt;li&gt;没有任何需要继承的基类&lt;/li&gt;
+&lt;li&gt;没有其他限制&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;为什么选择 Rust&lt;/h2&gt;
+&lt;p&gt;我们的目标是构建可本地编译的高性能跨平台框架，于是我们有了两个选择：C++ 和 Rust 。&lt;/p&gt;
+&lt;p&gt;最初我们倾向于 C++，因为 C++ 有更成熟的生态系统，而且我们有多年基于 C++ 开发大型工具的经验。&lt;/p&gt;
+&lt;p&gt;但最终我们选择了 Rust ，两个核心原因：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rust Trait：Rust 的 Trait 设计非常符合我们&lt;strong&gt;非侵入式&lt;/strong&gt;设计的理念&lt;/li&gt;
+&lt;li&gt;Procedure macro：我们使用 Rust 的过程宏进行 DSL 实现而无需借助额外的工具。它与 Rust 的工具链结合使用时，提供了开箱即用的解决方案，增强了整体的开发体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ribir 现状&lt;/h2&gt;
+&lt;p&gt;目前 v0.1 版本完成核心框架设计，我们可以使用它构建示例应用，并且开发了一些应用程序，我们对它的使用体验感到满意。&lt;/p&gt;
+&lt;p&gt;但 Ribir 仍然处在非常早期的阶段：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我们只是在有限的环境中测试和使用它，暂时无法应用到生产环境中。&lt;/li&gt;
+&lt;li&gt;存在一些已知问题，包括内存泄漏和性能问题，仍然需要解决。&lt;/li&gt;
+&lt;li&gt;API 不稳定，可能在下一版本中被废弃。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们希望有更多人来尝试它并向我们提供反馈，让我们更好地完善它。&lt;/p&gt;
+&lt;h2&gt;下一步计划&lt;/h2&gt;
+&lt;p&gt;接下来我们会重点关注：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WebAssembly 支持，构建 Web 应用程序。&lt;/li&gt;
+&lt;li&gt;稳定核心 API 。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;反馈&lt;/h2&gt;
+&lt;p&gt;欢迎大家关注我们的项目，我们会不定期发布变更，详细的变更信息可以在 &lt;a href="https://github.com/RibirX/Ribir/blob/master/CHANGELOG.md" rel="nofollow"&gt;Ribir 变更日志&lt;/a&gt;中找到。&lt;/p&gt;
+&lt;p&gt;也欢迎大家在&lt;a href="https://github.com/RibirX/Ribir" rel="nofollow"&gt;GitHub&lt;/a&gt;上关注我们的项目，并提供反馈信息。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 13:59:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014946#reply0</guid></item><item><title>[职场话题] 比特大陆校招还可以去么？</title><link>https://www.v2ex.com/t/1014945#reply1</link><description>应届 985 材料博士，岗位是 ic 设计 cad 岗（计算机辅助设计），给的 4.3w ，15 薪。按网上说的 3 个月年终估计见不着。一直很纠结。&lt;br /&gt;一方面这是天坑专业转 ic 设计的机会，不然就只能去 fab 厂做器件研发、pe 、pie 之类的。目前收到的有燕东微 pie ，月薪 2.5w ，12 薪，中芯国际器件加班拉满年包 45w 。&lt;br /&gt;另一方面就是比特大陆作为矿机公司，未来不可知，今年 10 月还爆出来部分延迟发薪。今年挖矿收益减半可能会对矿机公司有不小的影响，个人感觉可能是负面影响。并且矿机行业未来跳槽不知道市场认不认可。还有比特大陆在脉脉上名声都烂了，就当年内斗时裁应届生。&lt;br /&gt;有没有相关行业的前辈指指路。非常感谢。</description><pubDate>Wed, 07 Feb 2024 13:35:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014945#reply1</guid></item><item><title>[问与答] 突然有个 IP 是 192.168.1.254 的未知设备连上了我的网络，这是怎么回事？</title><link>https://www.v2ex.com/t/1014944#reply1</link><description>光猫是电信 SDN 网关，网段是 192.168.1.0/24 ；软路由作为二级路由，网段是 10.0.0.0/24.&lt;br /&gt;今天突然发现软路由的连接设备里多了一个 192.168.1.254 ，来源是 WAN 口，我非常不理解，之前从未出现过，而且这段时间光猫和软路由并没有进行任何设置，实在是想不通。我只用一根网线将光猫和软路由连起来，为什么会同时出现 192.168.1.1 和 192.168.1.254 这两个设备？&lt;br /&gt;再结合 IP 的最后一段是 254 ，我不得不有些阴谋论了，该不会是运营商想要扫描我的网络吧？</description><pubDate>Wed, 07 Feb 2024 13:31:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014944#reply1</guid></item></channel></rss>
