@@ -1,165 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 06 Feb 2024 10:36:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 如何实现匿名投票?</title><link>https://www.v2ex.com/t/1014739#reply0</link><description>&lt;p&gt;问了 ai,感觉方案都有缺陷&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;前置条件:&lt;/p&gt;
-&lt;p&gt;允许事先对每个人验证身份,并官方提供可能的认证信息&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;要求:
-1 投票结果是准确的,即可以确定确实是有资格的 n 个人投票并投给特定提案&lt;/p&gt;
-&lt;p&gt;2 投票是匿名的,即只能确定投票人有投票资格,而不知道具体是谁&lt;/p&gt;
-&lt;p&gt;3 完全线上化,算法化&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;其他边界条件:&lt;/p&gt;
-&lt;p&gt;一人一票&lt;/p&gt;
-&lt;p&gt;只能本人投票,不可代他人投票&lt;/p&gt;
-&lt;p&gt;除非全部参与者坐到一起提供全部信息并且不撒谎,否则无法确认每一票的投票人&lt;/p&gt;
-&lt;p&gt;假定大多数人是诚信的,少数人可能会破坏投票&lt;/p&gt;
-&lt;p&gt;如果有破坏者,是可以在大多数人配合的情况下找到的&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 10:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014739#reply0</guid></item><item><title>[问与答] 必应这个彩蛋灯笼怎么关闭，看着真的难受</title><link>https://www.v2ex.com/t/1014738#reply0</link><description>必应国内版今天突然发现多了一个彩蛋，具体表现为点击空白处有烟花，光标移到标签页有灯笼。这个灯笼看的是真难受，强迫症犯了，网上也没找到什么人说这个事情。一开始我以为是哪个插件的彩蛋，全部关了之后还是一样，然后必应国际版，百度，谷歌都正常，国内版 InPrivate 模式正常，这个灯笼悬在光标下看的真的难受。&lt;a href="https://imgur.com/a/T8v9u2K" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/T8v9u2K&lt;/a&gt;</description><pubDate>Tue, 06 Feb 2024 10:30:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014738#reply0</guid></item><item><title>[酷工作] [上海][全职] 二次元 AIGC 创业公司 - 算法工程师</title><link>https://www.v2ex.com/t/1014737#reply1</link><description>&lt;h2&gt;我们是&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;一个乐于探索、爱挑战的 AIGC 领域初创团队&lt;/li&gt;
-&lt;li&gt;目前团队规模不大，氛围友好，每个人能充分发挥自己的 power&lt;/li&gt;
-&lt;li&gt;办公地点在上海大世界地铁站附近，办公室风景不错，交通便利，周围好吃的不少&lt;/li&gt;
-&lt;li&gt;团队成员来自北大 / 清华 / 哥大 / 卡耐基梅隆等高校，曾带领明星创业企业小马智行、特赞等从 0 走向独角兽，并具有 Facebook 、阿里巴巴、字节跳动等优秀科技企业的资深背景及国际化经验&lt;/li&gt;
-&lt;li&gt;热爱开源社区。团队内有 AnimateDiff 贡献者、ComfyUI 和 A1111 webui 多个插件和社区镜像的贡献者。同时我们也贡献了多个 SD 模型，最近将会发布新的二次元 SDXL 大模型&lt;/li&gt;
-&lt;li&gt;官网: &lt;a href="https://nieta.art/" rel="nofollow"&gt;https://nieta.art/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub: &lt;a href="https://github.com/talesofai" rel="nofollow"&gt;https://github.com/talesofai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Civitai: &lt;a href="https://civitai.com/search/models?sortBy=models_v5&amp;amp;query=nieta" rel="nofollow"&gt;https://civitai.com/search/models?sortBy=models_v5&amp;amp;query=nieta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;产品: 微信小程序搜索「捏 Ta 」，或者访问 &lt;a href="https://app.nieta.art?channel_from=v2ex" rel="nofollow"&gt;https://app.nieta.art&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;内容: 抖音、小红书搜索「捏 Ta_AI 宅」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;你可以收获&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;最前沿的 AIGC 技术研究、体验和分享&lt;/li&gt;
-&lt;li&gt;从 0 到 1 Launch 产品，和创始人一起工作，积累创业经验&lt;/li&gt;
-&lt;li&gt;充足的算力和丰富的数据支持&lt;/li&gt;
-&lt;li&gt;薪资范围: 20k ~ 50k/月&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;岗位职责&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;设计和优化线上推理集群，提升健壮性和推理性能&lt;/li&gt;
-&lt;li&gt;持续关注和跟进 AIGC 相关的算法前沿进展，在团队内和产品上落地新的算法能力&lt;/li&gt;
-&lt;li&gt;和服务端还有业务同学配合，完成算法相关业务需求并提升用户体验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;岗位要求&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;对 AIGC 领域有强烈的兴趣和热情，有自己折腾过相关的技术或者实现产品 demo&lt;/li&gt;
-&lt;li&gt;对算法工程有追求，对推理端的健壮性、推理性能等有较高要求&lt;/li&gt;
-&lt;li&gt;有相关工作经验&lt;/li&gt;
-&lt;li&gt;对 Stable Diffusion 相关生态非常熟悉者优先&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;联系方式&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;邮箱： &lt;a href="mailto:47@nieta.art"&gt;47@nieta.art&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 06 Feb 2024 10:14:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014737#reply1</guid></item><item><title>[问与答] 是否入伙？</title><link>https://www.v2ex.com/t/1014736#reply0</link><description>朋友在做社交平台与电商平台的点赞或拉新刷单等业务，邀请入伙提供开发与维护支持。恳请各位分析下相关利弊或法律风险。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;1.如果参与，那不同的参与方式是否有不同的法律风险？&lt;br /&gt;&lt;br /&gt;如仅负责开发维护，不参与运营，且不获取提成，仅收取开发费用。或仅参与开发且获取交易提成（补充相关合同，要求该项目仅用于合法业务）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2.不参与，各位能否提供相关法律风险或案例帮助打消念头</description><pubDate>Tue, 06 Feb 2024 10:12:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014736#reply0</guid></item><item><title>[硬件] 有了解 Oculink 显卡拓展接口吗？</title><link>https://www.v2ex.com/t/1014735#reply1</link><description>&lt;p&gt;最近看上一款笔记本 Thinkbook14+，发现支持 Oculink 外接显卡的接口。&lt;/p&gt;
-&lt;p&gt;因为我有台 3060ti 的主机，在想是不是可以买个 PCIE 转 Oculink 的转接板，放假的时候把电源和显卡从主机拆下来，给 Thinkbook14+ 当一个拓展显卡。&lt;/p&gt;
-&lt;p&gt;这样小长假的时候可以带轻薄笔记本 + 拓展显卡回去。短假/出差可以带笔记本出去办公使用。&lt;/p&gt;
-&lt;p&gt;因为对 Oculink 接口不太了解，目前好像也没有很多笔记本有配这个接口，有一些疑问：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;目前网上卖的转接板成熟吗？&lt;/li&gt;
-&lt;li&gt;自己接自己的显卡作拓展有没有什么风险？&lt;/li&gt;
-&lt;li&gt;Oculink 接口实际使用损耗怎么样？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 06 Feb 2024 09:58:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014735#reply1</guid></item><item><title>[问与答] 寻 剪映的文稿匹配 或者 有的字幕网站有的自动打轴功能。</title><link>https://www.v2ex.com/t/1014734#reply0</link><description>&lt;p&gt;求个 同上功能的网站 或者 软件。&lt;br /&gt;
-唯一条件就是&lt;strong&gt;不要国产软件或网站&lt;/strong&gt;。。&lt;br /&gt;
-比如 ArcTime 也有 ai 打轴功能，但也是国产的。&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:56:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014734#reply0</guid></item><item><title>[咖啡] 建模了一套摩卡壶装粉工具</title><link>https://www.v2ex.com/t/1014733#reply0</link><description>&lt;p&gt;包括接粉环和压粉锤.
-下载链接 &lt;a href="https://www.thingiverse.com/thing:6471490" rel="nofollow"&gt;https://www.thingiverse.com/thing:6471490&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:49:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014733#reply0</guid></item><item><title>[酷工作] 阿里云招 C/C++ 开发（ Linux 内核、eBPF 方向优先）</title><link>https://www.v2ex.com/t/1014732#reply0</link><description>&lt;p&gt;岗位链接：&lt;a href="https://careers.aliyun.com/off-campus/position-detail?lang=zh&amp;amp;positionId=2000003505" rel="nofollow"&gt;https://careers.aliyun.com/off-campus/position-detail?lang=zh&amp;amp;positionId=2000003505&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简历投递邮箱： &lt;a href="mailto:yiwei.liyw@alibaba-inc.com"&gt;yiwei.liyw@alibaba-inc.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;岗位职责：打造稳定、高效的阿里云网络安全防护平台，负责云平台边界防御、零信任体系的能力建设，直接参与系统设计和核心代码开发，负责高可靠性/高承载力/架构演进等。包括各种复杂架构下的流量接入&amp;amp;管理，网络边界防御、南北/东西向网关、网络零信任架构的设计开发。&lt;/p&gt;
-&lt;p&gt;职位要求：&lt;/p&gt;
-&lt;p&gt;[通用] &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;5 年以上 IT 、互联网、云计算开发相关工作经验&lt;/li&gt;
-&lt;li&gt;3-5 年及以上相关产品/技术的开发经验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[云安全] &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;精通 C/C++或 Golang ，熟悉一种或者多种脚本语言，如 Shell/Python 等；有良好的编程习惯；&lt;/li&gt;
-&lt;li&gt;熟悉 TCP/UDP/IP/VXLAN 及常见应用层网络协议(例如 HTTP/DNS 等)，有 Linux 网络、多线程、系统开发经验，计算机系统与网络基础知识扎实；&lt;/li&gt;
-&lt;li&gt;具备高性能网络数据面程序的研发经验，有一定的性能优化以及常见问题排查经验；&lt;/li&gt;
-&lt;li&gt;具有良好的沟通能力；具有良好的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题，责任心强，具备良好的团队合作精神和承受压力的能力；&lt;/li&gt;
-&lt;li&gt;学习能力强，自驱力强，适应能力好，对技术、互联网有热情；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[加分项] &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有过 DPDK/eBPF/Linux 内核模块开发/WebAssembly 等技术的使用和成功落地经验；&lt;/li&gt;
-&lt;li&gt;有一定的安全领域背景，或相关安全产品开发经验，包括但不限于微隔离/IAM/SDP/DDoS/WAF/防火墙/IDS/IPS 等；&lt;/li&gt;
-&lt;li&gt;具备大型互联网公司的网络&amp;amp;平台研发内部保障工作，安全架构与开发经验，对云原生技术有一定理解；&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 06 Feb 2024 09:44:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014732#reply0</guid></item><item><title>[Telegram] 请问有什么项目可以将 tg 频道的内容同步转发到微信或者 QQ 上呢</title><link>https://www.v2ex.com/t/1014731#reply0</link><description></description><pubDate>Tue, 06 Feb 2024 09:38:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014731#reply0</guid></item><item><title>[问与答] chrome 在地址栏输入关键词联想不出来书签</title><link>https://www.v2ex.com/t/1014730#reply0</link><description>&lt;p&gt;比如我书签里存了个 &lt;a href="http://v2ex.com" rel="nofollow"&gt;v2ex.com&lt;/a&gt; ，我清除缓存后在地址栏输入 V2EX 联想不出来我这个书签；&lt;/p&gt;
-&lt;p&gt;但是访问过后，它能联想出来历史记录。&lt;/p&gt;
-&lt;p&gt;有无大佬知道这怎么设置，网上搜了一圈貌似没人有这个问题哇。还是说一直就没有这功能，是我记错了？&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:33:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014730#reply0</guid></item><item><title>[分享发现] 最近看了一部剧：熊家餐馆，感觉看的好爽</title><link>https://www.v2ex.com/t/1014729#reply2</link><description>&lt;p&gt;熬了两个夜追完了 S01 和 S02&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:32:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014729#reply2</guid></item><item><title>[问与答] 怎么排查网页有哪些地方占了大量内存</title><link>https://www.v2ex.com/t/1014728#reply1</link><description>&lt;p&gt;RT ，正在接手一个 n 手项目，打开发现占了差不多 1 个 g 的内存&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i0.hdslb.com/bfs/article/586fbcb167c1e60bc49aeb283c5bc95b21543521.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:31:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014728#reply1</guid></item><item><title>[剧集] 进击的巨人！过瘾，太过瘾了！朋友们还有没有类似的剧推荐</title><link>https://www.v2ex.com/t/1014727#reply21</link><description></description><pubDate>Tue, 06 Feb 2024 09:26:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014727#reply21</guid></item><item><title>[问与答] 启用 bitlocker 加密了所有盘后，开机后必须进入磁盘前必须输入密码，怎么整</title><link>https://www.v2ex.com/t/1014726#reply0</link><description>&lt;p&gt;&lt;img alt="无标题.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/06/AGyOtbxvoVR84Ms.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:25:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014726#reply0</guid></item><item><title>[程序员] 全栈工程师（迷茫），出路在哪里？</title><link>https://www.v2ex.com/t/1014725#reply0</link><description>&lt;p&gt;我刚开始搞了 3 年 iOS ，然后转 WEB(vue ，react)，后续安卓，JAVA 后台，golang 后台都陆陆续续干过~~&lt;/p&gt;
-&lt;p&gt;有些比较熟悉，有些干的不多，但是基本一种新技术一个星期就能上手干活。。。也背过不少八股文。。。&lt;/p&gt;
-&lt;p&gt;现在在一个二线半城市安家了，这里基本都是外包公司(对日尤其多)。&lt;/p&gt;
-&lt;p&gt;现在的公司也是对日的，(之前在一家国内中型企业(纳斯达克上市过))，待遇一般，但是好在基本不加班，由于行业不景气和日元汇率爆跌，这几年估计也不会涨工资。。。。&lt;/p&gt;
-&lt;p&gt;我该怎么办，很迷茫，往哪里发展？？&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:24:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014725#reply0</guid></item><item><title>[杭州] 关于 SVM 一些疑问</title><link>https://www.v2ex.com/t/1014724#reply0</link><description>&lt;p&gt;我现在有这样的数据：
-x: [[1,2,3,...,15],[16,17,18,...,30],... * n ]
-y: [0,1,... * n]
-我想对这个 15 维的数组求出来一个范围致使在里面取值得到的结果为 1 ，我搜了很久，想用 SVM 去实现，这是我的代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-python"&gt;import numpy as np
-from matplotlib import colors
-from sklearn import svm 
-from sklearn import model_selection
-import matplotlib.pyplot as plt
-import matplotlib as mpl
-
-# 加载
-data = np.loadtxt('./data.csv',dtype=float,delimiter=',')
-
-# 切分
-x, y = np.split(data, (15, ), axis=1)
-x_train, x_test, y_train, y_test=model_selection.train_test_split(x, y, random_state=1, test_size=0.2)
-
-# 构建
-def classifier():
-  clf = svm.SVC(C=0.8,kernel='linear',decision_function_shape='ovr')
-  return clf
-
-# 训练
-def train(clf, x_train, y_train):
-  clf.fit(x_train, y_train.ravel())
-
-# 定义
-clf = classifier()
-
-# 调用
-train(clf, x_train, y_train)
-
-# 判断 a,b 是否相等 计算 acc 的均值
-def show_accuracy(a, b, tip):
-  acc = a.ravel() == b.ravel()
-  print('%s Accuracy:%.3f' %(tip, np.mean(acc)))
-
-# 分别打印训练集和测试集的准确率 score(x_train, y_train)表示输出 x_train,y_train 在模型上的准确率
-def print_accuracy(clf, x_train, y_train, x_test, y_test):
-  print('training prediction:%.3f' %(clf.score(x_train, y_train)))
-  print('test data prediction:%.3f' %(clf.score(x_test, y_test)))
-  # 原始结果和预测结果进行对比 predict() 表示对 x_train 样本进行预测,返回样本类别
-  show_accuracy(clf.predict(x_train), y_train, 'traing data')
-  show_accuracy(clf.predict(x_test), y_test, 'testing data')
-
-print_accuracy(clf, x_train, y_train, x_test, y_test)
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 07 Feb 2024 10:24:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[奇思妙想] 利用 trilium 的分享制作博客相关问题</title><link>https://www.v2ex.com/t/1014917#reply0</link><description>&lt;p&gt;无意间再 v 站上看到一个贴子，有个大佬利用 trilium 的分享功能自定义分享页样式做的笔记主题实现的一个个人博客，windows 端还能和云端同步，
+我弄好之后有个大胆的想法，他分享的页面都有自己的 url ，如果我导入多个然后反代分享连接不就可以简单的实现一个 vps 一个服务实现多个博客。
+但是很快就打脸了，我发现主题分享的笔记 url 是固定的 http://domain/share 这种形式其他笔记是 http://domain/share/xxxx 。我去看了官网文档，官方文档是这样写的：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;您可以将#shareRoot 属性添加到文件夹或笔记中，当您访问 http://domain/share 时，它将被链接。这可以更容易地将 Trilium 用作一个成熟的网站，因为您可以创建一个笔记来充当“主页”。
+共享笔记可以使用类似的 URL 访问 http://domain/share/knvU8aJy4dJ7 ，其中最后一部分是笔记的 ID 。
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;佬们可以帮我斧正一下吗，有哪里需要改一下？我一直感觉前面有一层雾蒙蒙的东西我理解不上来&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:23:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014724#reply0</guid></item><item><title>[问与答] 安卓有没有辅助聊天软件</title><link>https://www.v2ex.com/t/1014723#reply0</link><description>&lt;p&gt;安卓有没有辅助聊天软件，通过无障碍得到前台 app 的对话内容，给出多个候选，再一点就可以填入编辑框。&lt;/p&gt;
-&lt;p&gt;适配的直接通过节点拿文本，适配微信、企微和 QQ 就好。
-没适配的就截屏，再 ocr ，这样在网页浏览器里也能用。&lt;/p&gt;
-&lt;p&gt;付费差异点可以放在模型能力，比如在哄哄模拟器上的胜率。
-或者对更多 app 的适配&lt;/p&gt;
-&lt;p&gt;不知道有没有系统或者输入法已经内置了？&lt;/p&gt;
-&lt;p&gt;模型可以纯客户端跑&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:22:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014723#reply0</guid></item><item><title>[程序员] 写了一个脚本来备份所有 Github 仓库</title><link>https://www.v2ex.com/t/1014722#reply1</link><description>开源： &lt;a href="https://github.com/zanjie1999/githubBackup" rel="nofollow noopener" target="_blank"&gt;https://github.com/zanjie1999/githubBackup&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;因为经常在多台电脑上切换，代码备份在电脑上不太现实&lt;br /&gt;为了避免 Github 账号或是仓库被封导致代码丢失，写了这个脚本（找到的只能拉公开仓库）&lt;br /&gt;运行会将你账号上所有仓库都 clone 下来，包括你自己的私有仓库，你有完整权限的别人的仓库，你项目组的仓库，可以设置 ignore 黑名单，如果已经 clone 过的会 pull 一下（增量更新）&lt;br /&gt;可以在群晖或者路由器上运行（需要装下 Entware （ opkg ）来装下 git ）</description><pubDate>Tue, 06 Feb 2024 09:20:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014722#reply1</guid></item><item><title>[问与答] vue 项目打包问题</title><link>https://www.v2ex.com/t/1014721#reply0</link><description>&lt;p&gt;路由把约定路由改了
-原来的   ...setupLayouts(routes),&lt;/p&gt;
-&lt;p&gt;现在通过动态导入&lt;/p&gt;
-&lt;p&gt;"vite-plugin-vue-layouts": "^0.7.0",
-"vite-plugin-pages": "^0.27.1",&lt;/p&gt;
-&lt;p&gt;同样删除了 vite 中的配置
-Pages()、Layouts()&lt;/p&gt;
-&lt;p&gt;npm run dev 正常
-npm run build (✓ 732 modules transformed.卡住了，等待无法继续)&lt;/p&gt;
-&lt;p&gt;什么问题呢？&lt;/p&gt;</description><pubDate>Tue, 06 Feb 2024 09:08:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014721#reply0</guid></item><item><title>[生活] 春节前期是最舒服的一段时间</title><link>https://www.v2ex.com/t/1014720#reply6</link><description>上班，大家都在等下班，没事干，离家近的话上班打个卡回家都行；&lt;br /&gt;路上也不塞车了，马路很宽敞。一想到这样的日子只有几天，就觉得很可惜，如果天天这样，岂不美哉&lt;br /&gt;&lt;a href="https://i.imgur.com/G2gmnJG.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/G2gmnJG.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Tue, 06 Feb 2024 09:07:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014720#reply6</guid></item></channel></rss>
+&lt;p&gt;您可以添加#shareAlias 到单个注释以使 URL 更好，例如#shareAlias=highlighting 将使 URL 看起来像 http://domain/share/highlighting 。请注意，您有责任保持别名的唯一性。&lt;/p&gt;
+&lt;p&gt;说明这个是可以改的，应该是主题文件的问题，但是我找了半天也没发现哪里可以改，有大佬知道吗&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/Nriver/trilium-translation/blob/main/docker-compose.yml" rel="nofollow"&gt;https://github.com/Nriver/trilium-translation/blob/main/docker-compose.yml&lt;/a&gt;
+汉化项目地址&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/Nriver/trilium-translation?tab=readme-ov-file" rel="nofollow"&gt;https://github.com/Nriver/trilium-translation?tab=readme-ov-file&lt;/a&gt;
+官网地址
+&lt;a href="https://github.com/zadam/trilium" rel="nofollow"&gt;https://github.com/zadam/trilium&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;那位大佬做的笔记主题
+&lt;a href="https://github.com/dvai/Ankia-Theme/releases" rel="nofollow"&gt;https://github.com/dvai/Ankia-Theme/releases&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 10:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014917#reply0</guid></item><item><title>[问与答] 请问有办法用 ATX 电源给小主机供电吗？</title><link>https://www.v2ex.com/t/1014915#reply0</link><description>搜了一下，淘宝有卖有 ATX 转 usb 的，但最高只支持 10 瓦左右，小主机用 100 瓦的 type-c 有办法么？</description><pubDate>Wed, 07 Feb 2024 10:16:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014915#reply0</guid></item><item><title>[问与答] 求助啊 win11.dev 一直更新失败怎么办呀</title><link>https://www.v2ex.com/t/1014913#reply0</link><description>目前版本还停留在 Build &lt;a href="http://23541.ni" rel="nofollow noopener" target="_blank"&gt;23541.ni&lt;/a&gt; prerelease.230901-1418&lt;br /&gt;之后每次推出新版都更新失败&lt;br /&gt;现在又不想重装 又不让退出 dev&lt;br /&gt;这样还有机会在下一个正式版本时退出 dev 吗&lt;br /&gt;是不是需要保持在最新的测试版才能更新到下一个正式版呢</description><pubDate>Wed, 07 Feb 2024 10:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014913#reply0</guid></item><item><title>[程序员] pc 上没有一款向手机那样可以联想的输入法吗？</title><link>https://www.v2ex.com/t/1014912#reply0</link><description></description><pubDate>Wed, 07 Feb 2024 10:05:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014912#reply0</guid></item><item><title>[问与答] 为什么去年全球股市都猛涨？</title><link>https://www.v2ex.com/t/1014911#reply4</link><description>凭啥涨啊？&lt;br /&gt;又没放水 USD ？&lt;br /&gt;这波全球涨是为什么呢？&lt;br /&gt;有没读经济大佬分析下？</description><pubDate>Wed, 07 Feb 2024 10:00:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014911#reply4</guid></item><item><title>[问与答] 求助：安卓有什么可以防止手机微信撤回的软件或插件吗</title><link>https://www.v2ex.com/t/1014910#reply3</link><description>&lt;p&gt;如题，群友总是喜欢撤回什么见不得人的消息，问下有没有手机上可以阻止撤回微信消息的方式&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 10:00:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014910#reply3</guid></item><item><title>[问与答] 有用小米手机的吗，浏览器打开百度网站会直接给你安装百度 APP 怎么做到的？</title><link>https://www.v2ex.com/t/1014909#reply0</link><description>打开百度某个网页，直接会给你弹出小米应用商店然后直接安装百度 APP ，中间没有任何人工干预的地方，请问是百度技术牛逼呢，还是小米收了百度好处给了绿色通道？</description><pubDate>Wed, 07 Feb 2024 09:59:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014909#reply0</guid></item><item><title>[微信] 微信有点幽默的</title><link>https://www.v2ex.com/t/1014908#reply0</link><description>&lt;p&gt;我一直在微信表情开放平台弄点小表情包，差不多每年都会得「表情年度优秀艺术家」奖励的红包封面额度&lt;/p&gt;
+&lt;p&gt;前几天刚送完 6K 封面&lt;/p&gt;
+&lt;p&gt;&lt;img alt="封面" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/6hkpdu.png" /&gt;&lt;/p&gt;
+&lt;p&gt;重点来了，昨天又收到一个奖励，如下&lt;/p&gt;
+&lt;p&gt;&lt;img alt="奖励" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/gezd11.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="奖励完整说明" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/9xsmex.png" /&gt;&lt;/p&gt;
+&lt;p&gt;我想着既然又送，我就再弄一款来给大伙发福利吧，然后今天花了半天弄完一款封面+动态封面挂件+气泡挂件，之前有朋友说想要动态效果，我还特意弄了个动态效果的封面挂件。&lt;/p&gt;
+&lt;p&gt;然后审核完准备发的时候发现怎么没有链接？一看只能在什么「封面专区」发放。&lt;/p&gt;
+&lt;p&gt;我想也正常，毕竟之前的 6K 额度也只能在 表情包专辑页面 发放。&lt;/p&gt;
+&lt;p&gt;但是，这个「封面专区」我找了半天，自己都找不到在哪，视频号，艺术家主页找了一圈都没看到，然后我翻平台说明也没有，找人工客服找不到（腾讯老传统），邮箱也发了,我只能再去看发放流程，终于给我找到了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="说明" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/ct92qr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;把我整乐了，一个&lt;strong&gt;灰度测试&lt;/strong&gt;的功能，怪不得我找不到入口。&lt;/p&gt;
+&lt;p&gt;而且这个提示不是一级展示，而是在发放填信息过程旁边的一个 小 ! 号，鼠标移上去才出现.&lt;/p&gt;
+&lt;p&gt;而且&lt;strong&gt;这是唯一「封面专区」是什么，在哪解释&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="说明" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/0ubcam.png" /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在「封面专区」中展示并发放(微信手机端的「封面专区」功能灰度中)
+被灰度的微信用户打开任一聊天&amp;gt;点击「发红包&amp;gt;红包封面&amp;gt;领封面」后，可以看到并领取你的封面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;反正我是没有接到这个功能的灰度测试，而且我在后台看也是没有人领我的红包封面的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="后台" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/mws0eb.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我是不知道这个红包封面该如何发了。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;另外顺便吐槽一下微信表情包开放平台审核慢的很。我在微信红包封面开放平台审核红包封面全**秒过(一小时内)**，表情审核至少三天还必失败一次。&lt;/p&gt;
+&lt;p&gt;微信表情包开放平台似乎还完美全人工审核执行八小时工作制（一般下午晚些提交审核就老实第二天再说了），周六周日也不审核，节假日也放假。羡慕啊&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;可惜了我的封面&lt;/p&gt;
+&lt;p&gt;&lt;img alt="封面" class="embedded_image" rel="noreferrer" src="https://files.catbox.moe/mj9852.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;有哪位是有这个灰度测试功能的朋友可以看看有没有我的封面😮‍💨&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014908#reply0</guid></item><item><title>[问与答] 缅 A 还需要多久能好起来？</title><link>https://www.v2ex.com/t/1014906#reply0</link><description>前两年买了些基金，最近跌的他妈都不认识了，亏了快 40%&lt;br /&gt;虽然这两天涨了点，但我感觉也就年前这两天能蹦跶两下了，年后又得跌回去。</description><pubDate>Wed, 07 Feb 2024 09:35:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014906#reply0</guid></item><item><title>[问与答] v 友们，请问下发京东的快递能一天内到吗</title><link>https://www.v2ex.com/t/1014905#reply1</link><description>op 前天晚上在京东下单买了衣服准备过年穿，以为昨天可以到，没想到下单的店铺不是京东自营的，发的快递是顺丰的，然后目前还在运输过程中，然后我今晚下班后就要开车回老家了，肯定是等不到快递到了，想着是不是等快递到了能直接发京东物流送回老家.</description><pubDate>Wed, 07 Feb 2024 09:29:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014905#reply1</guid></item><item><title>[问与答] 特别是 23 年非常迷茫，大佬们帮我参谋参谋</title><link>https://www.v2ex.com/t/1014904#reply0</link><description>&lt;p&gt;先介绍下情况&lt;/p&gt;
+&lt;p&gt;90 后，大专学历，11 年开始在深圳打工（最开始是从超市搬货的那种）历经很多岗位&lt;/p&gt;
+&lt;p&gt;后面自学设计，从 12 年开始一直在一家公司工作，做过设计，然后转岗营销、运营等，从实业转行到互联网行业产品经理，目前是产品负责人岗，带团队 30 人左右。&lt;/p&gt;
+&lt;p&gt;收入情况：从 19 年收入税前 30w,20 年 33.5w,21 年 47w ，22 年 53w,23 年 55w(个税内查了下每年收入，这样看起来还不错，但是实际每个月的感觉不到多)&lt;/p&gt;
+&lt;p&gt;家庭情况：19 年购房，每个月房贷 1.3w.&lt;/p&gt;
+&lt;p&gt;23 年开始很是迷茫，公司整体经营情况也就那样吧，未来比较渺茫，工作相对比较稳定，目前只能在这公司苟着。但是也没有什么太大的发展，想看看大佬们给我一些建议。&lt;/p&gt;
+&lt;p&gt;因为现在各行各业都在裁员，我们这其实也说不好，短期来看未来一年还是稳定的，而且我也有自己的优势及能给公司带来的价值。 现在 30 多了，未来真的特别迷茫。如果这个公司废了，后面可咋整。。。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:26:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014904#reply0</guid></item><item><title>[职场话题] 算法工作没有预期中的有趣</title><link>https://www.v2ex.com/t/1014903#reply2</link><description>&lt;p&gt;在宇宙厂，工作时间两年，所谓的算法岗，实质上是写 SQL 。终于换了个项目，也就是拿 Bert 调优。技术上基本无长进。本人的兴趣点是 coding ，debug 。现在的算法岗是舒服，但是感觉无前景，每天上班如上坟。有没有大佬指明下如何摆平心态，如何成长&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:24:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014903#reply2</guid></item><item><title>[宽带症候群] 坐标 757 联通来了</title><link>https://www.v2ex.com/t/1014902#reply1</link><description>&lt;p&gt;是 pcdn 用户，查到来，业务员回访，拍了照给他，看后续&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:22:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014902#reply1</guid></item><item><title>[分享发现] 阿里云盘将从 2024 年 3 月 1 日起就超出容量限制的账户执行新政策</title><link>https://www.v2ex.com/t/1014900#reply5</link><description>大家有重要资料，早点转移吧。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;阿里云盘将从 2024 年 3 月 1 日起就超出容量限制的账户执行新政策，具体而言，容量使用超出上限的账户在线播放、上传、转存、下载、分享、快传等功能上将受影响，受限账户只有清理内容、购买额外存储空间或者开通阿里云盘 SVIP 会员后才可以继续正常使用</description><pubDate>Wed, 07 Feb 2024 09:19:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014900#reply5</guid></item><item><title>[程序员] Vue3 应用在企业微信下自动登录的相关问题？</title><link>https://www.v2ex.com/t/1014899#reply4</link><description>&lt;h3&gt;实现&lt;/h3&gt;
+&lt;p&gt;企业微信客户端打开则自动跳转 OAuth 连接授权成功后 Callback Code 回来去后端换区用户 token 自动登录；非企业微信客户端跳转到 Login 页面。。&lt;/p&gt;
+&lt;h3&gt;问题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;目前我整个逻辑写在了 &lt;code&gt;router.beforeEach&lt;/code&gt; 里，写这里合适吗，大家都写在哪里（比如是否把跳转和自动登录写在 main.ts 中路由前？）？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;流程是否有问题？我的基本逻辑：判断有无 token 是否登录 &amp;gt; 判断是否企业微信客户端（是跳转 OAuth 连接并回调）&amp;gt; 判断是否有携带 Code ，自动登录。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;// 4.判断访问页面是否在路由白名单地址(静态路由)中，如果存在直接放行
+  if (ROUTER_WHITE_LIST.includes(to.path)) return next();
+
+  // 5.判断是否有 Token ，没有重定向到 login 页面
+  if (!userStore.token) {
+    if (isWeWork()) {
+      userStore.loginWeWork().then(isSuccess =&amp;gt; {
+        if (isSuccess) next();
+      });
+    } else {
+      next({ path: LOGIN_URL, replace: true });
+    }
+  } else {
+    // 使用缓存视图
+    useCachedViewStoreHook().addCachedView(to);
+    next();
+  }
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 07 Feb 2024 09:18:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014899#reply4</guid></item><item><title>[Apple] iPhone 和 Apple Watch 的指南针方向刚好相反。</title><link>https://www.v2ex.com/t/1014898#reply4</link><description>&lt;p&gt;以前就有过在某些高楼密集的地方，步行导航时发现方向不对，今天在高铁上想看看车到哪了，发现 iPhone 的方向又指错了，和 Watch 对比了下，方向正好相反，Watch 上的方向是对的。另外发现个有趣的问题，手机上同时有高德地图、腾讯地图和苹果地图，在网络不好的情况下，这三个地图的方向和指南针的方向一样，都是错的，当网络好的时候，腾讯地图能自动纠正到正确的方向，其它两个地图依然和指南针一样，指到了错误的方向。&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:10:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014898#reply4</guid></item><item><title>[程序员] Python 类继承时覆盖类属性的问题</title><link>https://www.v2ex.com/t/1014897#reply9</link><description>&lt;pre&gt;&lt;code class="language-py"&gt;class Base(object):
+    PRODUCT = 1
+
+    CLIENT = PRODUCT * 10
+
+
+class Base1(Base):
+    PRODUCT = 2
+
+
+print(Base.CLIENT)
+print(Base1.CLIENT)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;请问 Base1 的 &lt;code&gt;CLIENT&lt;/code&gt; 要怎么才能变成 20, 不重复写 CLIENT 的表达式情况下&lt;/p&gt;</description><pubDate>Wed, 07 Feb 2024 09:00:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014897#reply9</guid></item><item><title>[问与答] 云计算网络初学者，想要学习下云计算的网络组网及规划，有什么学习向导或者网站等比较好的推荐吗？各位 V 友们</title><link>https://www.v2ex.com/t/1014896#reply3</link><description></description><pubDate>Wed, 07 Feb 2024 09:00:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014896#reply3</guid></item><item><title>[问与答] 刚刚看到了一个交通事故的帖子，想到一个疑问，对方只有交强险的情况下，我方有人员受伤</title><link>https://www.v2ex.com/t/1014895#reply7</link><description>去年的时候，我的车被撞了，对方全责，但是只有交强险，后来我找了代位赔偿。&lt;br /&gt;&lt;br /&gt;然后，本身我也买了座位险，但是座位险是针对己方责任的，如果是对方车辆责任，标的车上人员责任险不赔偿。&lt;br /&gt;&lt;br /&gt;那么如果发生了事故，我方人员受伤，但是对方只有交强险，赔付不够的情况下，只能打官司，如果对方又直接赖账，该如何应对呢</description><pubDate>Wed, 07 Feb 2024 08:56:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014895#reply7</guid></item><item><title>[Android] Android 遇到了一个问题不知道怎么解决，安装 apk？</title><link>https://www.v2ex.com/t/1014893#reply2</link><description>&lt;p&gt;折腾了一天一夜未果。首先我要安装的 apk 的路径是下载到公共 Download 目录下的一个文件，所有文件的访问权限都允许了的，file:///storage/emulated/0/Download/timetr-38.apk 。然后通过 FileProvider.getUriForFile 得到 Uri 后发送隐式 Intent 去安装，三星手机安装提示“解析软件包出现问题。”，我的 Android 手机版本是 14 ，首先安装包肯定没有问题，我去文件管理手动安装尝试过，查看 AndroidStudio 控制台&lt;strong&gt;日志&lt;/strong&gt;后发现的：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Cannot parse package content://com.xuebinduan.tomatotimetracker.fileprovider/root-path/file%3A/storage/emulated/0/Download/timetr-38.apk. Assuming defaults.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;stageApk: InstallData{
+mApkInfo=ApkInfo{mUri=content://com.xuebinduan.tomatotimetracker.fileprovider/root-path/file%3A/storage/emulated/0/Download/timetr-36.apk, mSourceFilePath='/file:/storage/emulated/0/Download/timetr-36.apk', mStagedFile='null', mPackageInfo=null}
+, mOriginAppInfo=OriginAppInfo{uid=11153, packageName='com.xuebinduan.tomatotimetracker', AttributionTag='null', isGATest=false, originalUri=null, referrerUri=null, installerPackageName='null', isTrustedSource=false, returnResult=false}
+, mSessionId=-1
+, mySessionId=-1
+, mStagedSessionId=967735638
+, mDeleteApkWhenFinished=true
+, action='android.intent.action.VIEW'}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;我个人认为问题要么出在 FileProvider ，要么就是需要 DocumentFile ？但是 DocumentFile 也试过，可能是获取 DocumentFile 的方式不对，发现更有问题。但问题肯定出在 Uri 上。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我的代码如下：&lt;/p&gt;
+&lt;p&gt;AndroidManifest.xml&lt;/p&gt;
+&amp;lt;uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" /&amp;gt;
+&amp;lt;uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" /&amp;gt;
+&lt;pre&gt;&lt;code&gt;        &amp;lt;provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true"&amp;gt;
+            &amp;lt;meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" /&amp;gt;
+        &amp;lt;/provider&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;file_paths&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;external-path
+        name="update_apk" path="Download/"/&amp;gt;
+    &amp;lt;root-path
+        name="root-path"
+        path="." /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;安装 apk 的代码&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    private void installAPK(String apkFilePath) {
+        if (!TextUtils.isEmpty(apkFilePath)) {
+            Intent install = new Intent(Intent.ACTION_VIEW);
+            install.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            install.putExtra(Intent.EXTRA_NOT_UNKNOWN_SOURCE, true); //表明不是未知来源
+            File apkFile = new File(apkFilePath);
+            if (Build.VERSION.SDK_INT &amp;gt;= Build.VERSION_CODES.N) {
+                install.setFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                Uri contentUri = FileProvider.getUriForFile(getContext(), BuildConfig.APPLICATION_ID + ".fileprovider", apkFile);
+                install.setDataAndType(contentUri, "application/vnd.android.package-archive");
+            } else {
+                install.setDataAndType(Uri.fromFile(apkFile), "application/vnd.android.package-archive");
+            }
+            activity.startActivity(install);
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;build.gradle&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;compileSdk 33
+targetSdkVersion 30
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 07 Feb 2024 08:46:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1014893#reply2</guid></item></channel></rss>
