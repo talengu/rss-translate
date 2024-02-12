@@ -1,80 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 11 Feb 2024 18:59:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[中州韻] 分享一个可以很方便地维护 Rime 词库的小工具</title><link>https://www.v2ex.com/t/1015378#reply0</link><description>&lt;p&gt;如果你在使用形码或音形之类的固词码表式的输入方案，也许会碰到想要加词或删词之类的情况。&lt;/p&gt;
-&lt;p&gt;像我用的星空键道 6 虽然有一个不错的大词库，但是显然公用的大词库还是不能满足所有人的，自己维护一个词库是很有必要的。&lt;/p&gt;
-&lt;p&gt;然后我便写了一个小工具，可以很方便的维护 Rime 的 dict 文件。&lt;/p&gt;
-&lt;h3&gt;Github&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://github.com/MapoMagpie/rimedm" rel="nofollow"&gt;https://github.com/MapoMagpie/rimedm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我没有 Mac 设备，没测试过 Mac 平台，如果有人使用的话，麻烦向我反馈一下是否存在问题。&lt;/p&gt;
-&lt;p&gt;视频演示: &lt;a href="https://www.bilibili.com/video/BV1DC41147rY" rel="nofollow"&gt;我们不用很累很麻烦就可以维护词库&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;特性如下&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;自动读取各平台的默认方案，某种程度开箱即用。&lt;/li&gt;
-&lt;li&gt;增删改查。&lt;/li&gt;
-&lt;li&gt;良好的性能，20MB 文件的读取与搜索性能都不错(fzf 的模糊查询算法)。&lt;/li&gt;
-&lt;li&gt;自动读取主词库的拓展词库。&lt;/li&gt;
-&lt;li&gt;修改即生效，修改后会通过指令自动部署 Rime 。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;一键安装&lt;/h3&gt;
-&lt;h4&gt;Windows (可能需要 PowerShell 5.1 版本以上，从微软应用商店中下载最新的 PowerShell)&lt;/h4&gt;
-&lt;p&gt;复制以下代码，打开 PowerShell 并粘贴&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;iwr https://github.com/MapoMagpie/rimedm/raw/main/install.ps1 -useb | iex
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 12 Feb 2024 11:16:38 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 都买到了开工回去的票吗？</title><link>https://www.v2ex.com/t/1015428#reply0</link><description>从 2 月 5 号开始，候补 16/17/18 号的高铁票。剩余不到一个星期感觉买不到票了。&lt;br /&gt;&lt;br /&gt;内陆地区，只有上车，没有下车的。买短途候补都买不到。</description><pubDate>Mon, 12 Feb 2024 11:05:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015428#reply0</guid></item><item><title>[分享创造] 视频翻译和配音工具终于更新到 1.0 了</title><link>https://www.v2ex.com/t/1015427#reply0</link><description>开源地址  &lt;a href="https://github.com/jianchang512/pyvideotrans" rel="nofollow noopener" target="_blank"&gt;https://github.com/jianchang512/pyvideotrans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;几个月坚持维护更新，终于来到 1.0 了&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/V4Awj5I.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/V4Awj5I.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这是一个视频翻译配音工具，可将一种语言的视频翻译为指定语言的视频，自动生成和添加该语言的字幕和配音。&lt;br /&gt;&lt;br /&gt;语音识别基于 faster-whisper 离线模型.&lt;br /&gt;&lt;br /&gt;文字翻译支持 microsoft|google|baidu|tencent|chatGPT|Azure|Gemini|DeepL|DeepLX|离线翻译 OTT ，&lt;br /&gt;&lt;br /&gt;文字合成语音支持 Microsoft Edge tts | Openai TTS-1 | Elevenlabs TTS, 配合 clone-voice 可实现原音色克隆配音&lt;br /&gt;&lt;br /&gt;允许保留背景伴奏音乐等(基于 uvr5)&lt;br /&gt;&lt;br /&gt;软件界面基于 pyside6&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;主要功能： [翻译视频并配音]    [识别字幕不翻译]    [提取字幕并翻译]    [字幕和视频合并]    [为字幕创建配音]   &lt;br /&gt; [音视频识别文字]    [将文字合成语音]    [从视频分离音频]    [音视频字幕合并]    [音视频格式转换]    [文字字幕翻译] &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 10:24:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015427#reply0</guid></item><item><title>[问与答] 倒大霉了， win11.dev 更新 26052 后，既进不了系统也不能回滚</title><link>https://www.v2ex.com/t/1015426#reply0</link><description>目前进退不能 陷入无限重启&lt;br /&gt;之前版本貌似是 9 月份的 23541 ，之后每逢新版本都更新失败&lt;br /&gt;下了个最新的 insider iso 想要覆盖安装一下&lt;br /&gt;结果失败回滚了，但却带来一个变化&lt;br /&gt;更新里不再提示我更新到 236xx ，而是直接提示更新 Windows 11 Insider Preview 10.0.26052.1100 (ge_release)&lt;br /&gt;虽然预感不会成功，但还是尝试了一下&lt;br /&gt;果然依然是更新失败，但这次没有自动回滚，而是卡在天蓝色的那种开机菜单那里&lt;br /&gt;有两个选项，win11 和 win 回滚，不论选哪个都是闪退重启&lt;br /&gt;实在不想重装，c 盘数据太多了，积重难返&lt;br /&gt;有什么办法不重装吗?真是血的教训啊</description><pubDate>Mon, 12 Feb 2024 09:54:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015426#reply0</guid></item><item><title>[互联网] 请问下大家现在在用什么短链接分析流量，另外 google 的短链接工具下线了么？</title><link>https://www.v2ex.com/t/1015425#reply2</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/justincnn/pictures/img/202402101912431.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:49:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015425#reply2</guid></item><item><title>[问与答] 有没有大佬完整自动化交易机器人 freqtrade</title><link>https://www.v2ex.com/t/1015424#reply0</link><description>&lt;p&gt;各位大佬，有人玩过 freqtrade 机器人，这个机器人是加密货币机器人，我这里出现一点问题，想请教一下， 就是我想把当前运行的改成合约，u 本位合约， 代码如下
+{
+"max_open_trades": 10,
+"stake_currency": "USDT",
+"stake_amount": "unlimited",
+"tradable_balance_ratio": 0.99,
+"fiat_display_currency": "USD",
+"dry_run": true,
+"dry_run_wallet": 12,
+"cancel_open_orders_on_exit": false,
+"trading_mode": "futures",
+"margin_mode": "",
+"unfilledtimeout": {
+"entry": 10,
+"exit": 10,
+"exit_timeout_count": 0,
+"unit": "minutes"
+} 我把 "trading_mode": "futures",  我把这一行改了，现在就出现问题了  2024-02-12 07:47:45,046 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using position_adjustment_enable: False
+2024-02-12 07:47:45,046 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_entry_position_adjustment: -1
+2024-02-12 07:47:45,047 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_open_trades: 10
+2024-02-12 07:47:45,047 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
+2024-02-12 07:47:45,053 - freqtrade.exchange.exchange - INFO - Instance is running with dry_run enabled
+2024-02-12 07:47:45,053 - freqtrade.exchange.exchange - INFO - Using CCXT 4.2.25
+2024-02-12 07:47:45,054 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
+2024-02-12 07:47:45,072 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
+2024-02-12 07:47:45,090 - freqtrade.exchange.exchange - INFO - Using Exchange "Binance"
+2024-02-12 07:47:49,002 - freqtrade.commands.trade_commands - ERROR - Freqtrade does not support MarginMode.NONE futures on Binance
+2024-02-12 07:47:49,003 - freqtrade.commands.trade_commands - ERROR - Fatal exception!
+Traceback (most recent call last):
+File "/freqtrade/freqtrade/commands/&lt;a href="http://trade_commands.py" rel="nofollow"&gt;trade_commands.py&lt;/a&gt;", line 24, in start_trading
+worker = Worker(args)
+^^^^^^^^^^^^
+File "/freqtrade/freqtrade/&lt;a href="http://worker.py" rel="nofollow"&gt;worker.py&lt;/a&gt;", line 37, in &lt;strong&gt;init&lt;/strong&gt;
+self._init(False)
+File "/freqtrade/freqtrade/&lt;a href="http://worker.py" rel="nofollow"&gt;worker.py&lt;/a&gt;", line 53, in _init
+self.freqtrade = FreqtradeBot(self._config)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/freqtrade/freqtrade/&lt;a href="http://freqtradebot.py" rel="nofollow"&gt;freqtradebot.py&lt;/a&gt;", line 76, in &lt;strong&gt;init&lt;/strong&gt;
+self.exchange = ExchangeResolver.load_exchange(
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/freqtrade/freqtrade/resolvers/&lt;a href="http://exchange_resolver.py" rel="nofollow"&gt;exchange_resolver.py&lt;/a&gt;", line 37, in load_exchange
+exchange = ExchangeResolver._load_exchange(
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+File "/freqtrade/freqtrade/resolvers/&lt;a href="http://exchange_resolver.py" rel="nofollow"&gt;exchange_resolver.py&lt;/a&gt;", line 64, in _load_exchange
+exchange = ex_class(**kwargs)
+^^^^^^^^^^^^^^^^^^
+File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 189, in &lt;strong&gt;init&lt;/strong&gt;
+self.validate_config(config)
+File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 232, in validate_config
+self.validate_trading_mode_and_margin_mode(self.trading_mode, self.margin_mode)
+File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 696, in validate_trading_mode_and_margin_mode
+raise OperationalException(
+freqtrade.exceptions.OperationalException: Freqtrade does not support MarginMode.NONE futures on Binance     这个怎样解决&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:23:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015424#reply0</guid></item><item><title>[程序员] 技术人的目标和终点在哪里?</title><link>https://www.v2ex.com/t/1015421#reply9</link><description>&lt;p&gt;过年回家，得以和其他行业的亲友交流。发现年龄焦虑普遍没有 IT 行业严重，过得也更随心所欲，更谈不上什么职业规划。&lt;/p&gt;
+&lt;p&gt;但回到大城市，自然会被一股焦虑感裹挟。身边的同行在这两年也都很坎坷，甚至有研究生同事年纪大了，去卖房子。我们这行的目标在哪里？刚入行时心潮彭拜，想成为知名技术人，但逐渐被现实打脸。&lt;/p&gt;
+&lt;p&gt;如果 35 是个槛，现在还拼命卷技术的意义在哪里？大家对未来有什么远景&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:06:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015421#reply9</guid></item><item><title>[VPS] Ceranetworks 贵了点， 你们有哪些稳定的性价比高的 ceranetworks 家的代理商推荐？</title><link>https://www.v2ex.com/t/1015420#reply0</link><description>我之前在网上闲逛看到有人说从他家代理商那里买机器便宜很多，但真不知道有哪些稳定又便宜的代理商，大哥们你们有啥子推荐不？</description><pubDate>Mon, 12 Feb 2024 08:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015420#reply0</guid></item><item><title>[Google] 2024 年 2 月--GV 号码购买方式求推荐</title><link>https://www.v2ex.com/t/1015419#reply7</link><description>2019 年在淘宝买的号码这几个月没接收短信已经过期了。这个 gv 号还绑定了我的美区 apple ID ，前几周看到有 V 友出售没来得及出手购买。现在国内网购买不到了&lt;br /&gt;&lt;br /&gt;预算 50 左右，不需要靓号，以及请问各位朋友是如何保号的</description><pubDate>Mon, 12 Feb 2024 08:25:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015419#reply7</guid></item><item><title>[信息安全] ssh 日志发现从本机暴力登录本机</title><link>https://www.v2ex.com/t/1015418#reply5</link><description>&lt;p&gt;服务器是本地服务器，ip 为内网 192.168.12.12,已关闭密码登录，22 端口改成了高位。
+查看/var/log/auth.log
+每三分钟 &lt;code&gt;Invalid user openbravo from 192.168.12.12 port 49136&lt;/code&gt;，一直换用不同的用户名和端口&lt;/p&gt;
+&lt;p&gt;尝试找是否有恶意软件：
+1.&lt;code&gt;watch -n 1 'netstat -tnp | grep sshd'&lt;/code&gt;，确实看到了一个转瞬即逝的进程，截图使用那个 pid 当然已经太晚了查不到该进程。
+可以看到的是：
+tcp6 0 192.168.12.12:22 192.168.12.12:51128 ESTABLISHED 3399110/sshd: [acce
+最后那个显示不全，仅用 netstat 发现就是不全，线索就到这了。&lt;/p&gt;
+&lt;p&gt;2.问 chatgpt 让使用 auditd 审计日志
+&lt;code&gt;auditctl -a exit,always -F arch=b64 -S connect -k ssh_attempt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;过段时间再有 ssh 暴力登录，来查看审计结果
+&lt;code&gt;ausearch -i -k ssh_attempt&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;type=PROCTITLE msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : proctitle=auditctl -a exit,always -F arch=b64 -S connect -k ssh_attempt 
+type=SOCKADDR msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : saddr={ saddr_fam=netlink nlnk-fam=16 nlnk-pid=0 } 
+type=SYSCALL msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : arch=x86_64 syscall=sendto success=yes exit=1068 a0=0x4 a1=0x7fffb7ca6b50 a2=0x42c a3=0x0 items=0 ppid=2374156 pid=2374157 auid=bahtyar uid=root gid=root euid=root suid=root fsuid=root egid=root sgid=root fsgid=root tty=pts4 ses=2818 comm=auditctl exe=/usr/sbin/auditctl subj=unconfined key=(null) 
+type=CONFIG_CHANGE msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : auid=bahtyar ses=2818 subj=unconfined op=add_rule key=ssh_attempt list=exit res=yes
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h4&gt;Lnux/MacOs&lt;/h4&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;curl -fsSL https://github.com/MapoMagpie/rimedm/raw/main/install.sh | bash -s
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;手动安装&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;可以查看 Github 项目 Readme 中的说明。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="加词" class="embedded_image" rel="noreferrer" src="https://github.com/MapoMagpie/rimedm/raw/main/.assets/rimedm_%E5%8A%A0%E8%AF%8D.gif" /&gt;&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 17:36:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015378#reply0</guid></item><item><title>[生活] 干掉不负责的物业！</title><link>https://www.v2ex.com/t/1015377#reply2</link><description>小区内监控系统是海康的，前不久丢了东西。物业根据物业费的收取状态服务也是看钱说话。物业不给调取监控，没办法就自己动手吧。原理是通过住宅的室内可视分机入手，可视分机后是 POE 供电网线。用网线连接电脑再用 IP 工具扫一遍 IP ，再下载对应监控工具。也是一样，密码基本弱电常用密码。挨个登陆最后成功找到监控视频。最后也获取到了一根免费的百兆宽带。</description><pubDate>Sun, 11 Feb 2024 17:22:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015377#reply2</guid></item><item><title>[VPS] 现在哪家的 VPS 便宜好用？</title><link>https://www.v2ex.com/t/1015376#reply1</link><description>原来用的 lightsail 新加坡，速度还可以，但是要涨价了，想换一家，大家有什么推荐的呢？</description><pubDate>Sun, 11 Feb 2024 17:14:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015376#reply1</guid></item><item><title>[程序员] 用 rofi 的朋友，请给个现成的关机配置</title><link>https://www.v2ex.com/t/1015375#reply0</link><description>不会编程，这里的配置： &lt;a href="https://github.com/adi1090x/rofi" rel="nofollow noopener" target="_blank"&gt;https://github.com/adi1090x/rofi&lt;/a&gt; ，git 下来后运行就报错，我也没办法。&lt;br /&gt;&lt;br /&gt;（它是这么报错的：[img]&lt;a href="https://i.imgur.com/EvZBJNB.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/EvZBJNB.png" /&gt;&lt;/a&gt;[/img] ）&lt;br /&gt;&lt;br /&gt;目前用 i3 桌面，每次关机 sudo poweroff 还要再输入一次密码，麻烦，rofi 的关机菜单简直就是生产力工具...&lt;br /&gt;&lt;br /&gt;但是网上实在找不到可以直接拿来用的关机配置，据说这玩意每一个版本的配置文件都不太一样？？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://zjuyk.gitlab.io/posts/i3wm-config/，这里人家现成的配置，我下载后就是运行不起来，可能是因为字体问题，我的精简" rel="nofollow noopener" target="_blank"&gt;https://zjuyk.gitlab.io/posts/i3wm-config/，这里人家现成的配置，我下载后就是运行不起来，可能是因为字体问题，我的精简&lt;/a&gt; OS 上不显示确认按钮，按不下去就关不了机...作者说需要某个字体，一看，这个字体全部装好系统体积要多出将近一个 G....&lt;br /&gt;&lt;br /&gt;还试过把 &lt;a href="https://github.com/adi1090x/rofi" rel="nofollow noopener" target="_blank"&gt;https://github.com/adi1090x/rofi&lt;/a&gt; 的关机配置移植到 &lt;a href="https://zjuyk.gitlab.io/posts/i3wm-config/" rel="nofollow noopener" target="_blank"&gt;https://zjuyk.gitlab.io/posts/i3wm-config/&lt;/a&gt; 这位的配置里面去，能运行，确认关机的按钮也出现了，但是按下之后什么也没有，整个系统就那么高傲的看着我，好像在说：“老子就不关机，你能把我咋地？”&lt;br /&gt;&lt;br /&gt;今天在这狗东西身上已经浪费了两个小时了，受不了了，就做个骄傲的伸手党吧，请用着 1.73 版本的 rofi 的朋友直接丢一个你们的关机配置吧，谢谢了！！！</description><pubDate>Sun, 11 Feb 2024 17:01:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015375#reply0</guid></item><item><title>[问与答] 看一个招程序员的。请问符合以下要求的程序员能拿到多少 K？</title><link>https://www.v2ex.com/t/1015374#reply1</link><description>&lt;p&gt;看到这个招聘要求。很多都包含了。这得会多少种编程语言？一个月工资得多高啊？&lt;/p&gt;
-&lt;p&gt;擅长脚本编辑，数据加解密，有一定逆向基础
-端游汇编逆向加解密分析  识图 内存 脚本 动态调试 od x64dbG
-app 游戏脚本 识图 按键 手机模拟 逆向 中控 填表免 root
-爬虫 pc app 逆向加解密 协 yi
-游戏 ios 插件 易语言 ios 按键精灵脚本
-APP 解密 APK 安卓卡密手机程序修改授权 autojs 解密反编译注册
-Android 解密 so 分析 apk 脱壳 协 yi 加密解密 算法 so 算法 so 调试&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 16:10:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015374#reply1</guid></item><item><title>[问与答] 有没有大佬能帮我看下这段关于响应式页面的代码为什么没用啊？</title><link>https://www.v2ex.com/t/1015373#reply1</link><description>@&lt;a href="https://www.v2ex.com/member/media" rel="nofollow noopener" target="_blank"&gt;media&lt;/a&gt; (min-width: 900px) {&lt;br /&gt;  .video-section {&lt;br /&gt;    width: 33.33%; /* 屏幕宽度大于 900px 时，每行三个视频 */&lt;br /&gt;  }&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;手机屏幕有用 但是电脑屏幕还是一行只有一个视频&lt;br /&gt;网页 116.196.90.130</description><pubDate>Sun, 11 Feb 2024 15:44:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015373#reply1</guid></item><item><title>[推广] ChatGPT API 中转， gpt-4 低至 0.76 折</title><link>https://www.v2ex.com/t/1015372#reply1</link><description>&lt;p&gt;gpt-4 低至 0.76-0.86 折，不支持高并发，1 刀起充。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="gpt price" class="embedded_image" rel="noreferrer" src="https://img2.imgtp.com/2024/02/11/lIufm1W0.png" /&gt;&lt;/p&gt;
-&lt;p&gt;其他 GPT 全系列模型支持高并发，3.8-4 折。支持 Dall-E 画图/识图/语音/GPTs/MJ 全功能。&lt;/p&gt;
-&lt;p&gt;详情： &lt;a href="https://api.g4f.icu" rel="nofollow"&gt;https://api.g4f.icu&lt;/a&gt;
-导航页： &lt;a href="https://www.g4f.icu" rel="nofollow"&gt;https://www.g4f.icu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;tg: @&lt;a href="https://www.v2ex.com/member/axingg2020"&gt;axingg2020&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 15:38:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015372#reply1</guid></item><item><title>[问与答] 求 office 365 outlook 客户端的正确打开方式+吐槽</title><link>https://www.v2ex.com/t/1015371#reply3</link><description>&lt;p&gt;看到一堆朋友推 outlook ，我是真的被 outlook 要搞死了
-开了 office 365 ,邮箱是 163 的，pop 协议，window 11 &lt;/p&gt;
-&lt;p&gt;设置好前两周还行，没有什么延迟&lt;/p&gt;
-&lt;p&gt;真就不知道怎么，邮箱就各种延迟收信，会卡 1 个小时能信？
-10 点的时候，别人 9 点发的才进来。11 点收人家 10 点发的邮件，以此类推
-自动收取 5 分钟，就卡各种正在处理&lt;/p&gt;
-&lt;p&gt;删除账号重新配置，秒好&lt;/p&gt;
-&lt;p&gt;outlook 自动存档等功能完全不好用。&lt;/p&gt;
-&lt;p&gt;顺便求一手好用的 windows 邮件客户端……
-我是 foxmail/outlook 双开，避免 outlook 掉链子的时候 foxmail 还在跑收邮件……
-但是 outlook 的搜索真的比 foxmail 好用太多，或者是我打开方式不对？&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 15:17:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015371#reply3</guid></item><item><title>[React] 2024 了, 求推荐 React 最佳入门教程!</title><link>https://www.v2ex.com/t/1015369#reply9</link><description>&lt;p&gt;如题，谢谢各位，顺祝新年快乐！&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 15:05:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015369#reply9</guid></item><item><title>[程序员] 为什么对一个语言熟悉以后就很想换个语言重新试一试。</title><link>https://www.v2ex.com/t/1015368#reply9</link><description>&lt;p&gt;我写 TypeScript 已经差两个月一年了,写了有 3 万多行的 TS 代码，老实说还远没有精通这个语言，只是熟悉。能够用来完成想做的项目，但是却一直爱不上这个语言，总是在找其他语言更好的替代方案，比如说 python 。虽然 js 的生态可以做几乎任何我想做的事情，而且专业，但是我还是更喜欢我的初恋语言 python ，奈何 python 能做的事情并没有 js 那么多，比如说桌面和移动端开发领域，以及前端领域。js 生态是真的把我绑死了。如何打消这种换语言的念头。&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 15:03:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015368#reply9</guid></item><item><title>[宽带症候群] Linux clash 将已有 ip 的网络接口的 inbound 流量， outbound 到指定的 socks5，可行吗？</title><link>https://www.v2ex.com/t/1015367#reply2</link><description>&lt;p&gt;比如,&lt;br /&gt;
-socks5 代理是 192.168.89.22:8080 (clash outbound 目标)&lt;br /&gt;
-ens33:192.168.33.100/24&lt;br /&gt;
-ens192:192.168.178.254/24 (clash inbound)             &lt;/p&gt;
-&lt;p&gt;机器的 route:&lt;br /&gt;
-route add -host 192.168.89.22 netmask 255.255.255.255 gw 192.168.33.1                &lt;/p&gt;
-&lt;p&gt;机器上有个 ens33 的网络接口，config.yaml 的配置，想让它的 inbound 流量(ens192)都往一个 socks5 代理走，实现“中转代理”功能&lt;br /&gt;
-以前没做过 tun 模式，看了一些科普和例子，草草做了个配置:                           &lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;tun:
-  enable: true
-  stack: System
-  device: mytun
-  auto-route: true
-  auto-detect-interface: true
-  dns-hijack:
-    - any:53
-    - tcp://any:53
-
-proxies:
-  - name: myproxy
-    type: socks5
-    server: 192.168.89.22
-    port: 8080
-
-rules:
-  - IP-CIDR,0.0.0.0/0,myproxy
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;貌似是 clash 要启动 tun 模式，然后把 ens192 接口的流量，通过 iptables,或者写静态路由转发去 mytun 接口上？&lt;br /&gt;
-clash 不可以“直接接管”一个网络接口的，不知道理解的对不对，又好像折腾错，走错路了？&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 15:01:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015367#reply2</guid></item><item><title>[Apple] meidamate 有合买的吗？</title><link>https://www.v2ex.com/t/1015363#reply0</link><description>&lt;p&gt;&lt;a href="https://wouter01.gumroad.com/l/mediamate" rel="nofollow"&gt;https://wouter01.gumroad.com/l/mediamate&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 14:56:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015363#reply0</guid></item><item><title>[问与答] 想升级一下 PC，请大家给一些建议</title><link>https://www.v2ex.com/t/1015362#reply2</link><description>目前我的配置是：&lt;br /&gt;&lt;br /&gt;＊ 主板：微星 B450 Mortar&lt;br /&gt;＊ Cpu：AMD R7 3700X&lt;br /&gt;＊ 显卡：铭轩 RTX 2060 终结者 6G&lt;br /&gt;＊ 内存：威刚 XPG 游戏威龙 16G DDR4 3000MHz x2&lt;br /&gt;＊ 电源：鑫谷 GP600P 白金版&lt;br /&gt;＊ 机箱：航嘉 GX580H&lt;br /&gt;&lt;br /&gt;主要想升级的方向是显卡，希望能够尽量利用当前的硬件（不然感觉有点败家），升级预算在 5k 标准，请大家给一些建议，谢谢大家！祝各位新年快乐，万事如意，顺风顺水！:D</description><pubDate>Sun, 11 Feb 2024 14:48:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015362#reply2</guid></item><item><title>[问与答] 有没有好的照片放映解决方案？</title><link>https://www.v2ex.com/t/1015360#reply0</link><description>目前 apple 体系的，如 ipad 的照片放映有多种效果，操作也非常简单。&lt;br /&gt;&lt;br /&gt;除此之外可以 docker 或者 vm 部署的程序，如群晖的 photo ，photoprism 都只有最简单的一种照片放映方式，有没有能够比肩 apple 的照片的放映效果的开源的可以 docker 部署的方案？</description><pubDate>Sun, 11 Feb 2024 14:12:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015360#reply0</guid></item><item><title>[全球工单系统] 淘宝聊天窗口打不开 提示集团安全处罚</title><link>https://www.v2ex.com/t/1015358#reply2</link><description>淘宝客服聊天窗口加载不出来。如图所示，已经持续好几天了。今天我在 iPad 上试了一下，提示”集团安全处罚”，见第二张图，有人知道是这是个啥处罚么？ 账号可以登录，安全中心也没报错，就是聊天窗口打不开。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/sxnKsuP" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/sxnKsuP&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://imgur.com/deggIz0" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/deggIz0&lt;/a&gt;</description><pubDate>Sun, 11 Feb 2024 13:44:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015358#reply2</guid></item><item><title>[问与答] 网站部分功能出现 AxiosError: Request failed with status code 404 请问有知道怎么解决的吗？</title><link>https://www.v2ex.com/t/1015357#reply0</link><description>最近在做一些关于移动通信的东西，用到了这个 github 项目提供的工具： &lt;a href="https://github.com/HandyMenny/uecapabilityparser" rel="nofollow noopener" target="_blank"&gt;https://github.com/HandyMenny/uecapabilityparser&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我按照他的说明，两种方式都试了，但是只有主页可以正常工作，别人搭建的网站访问 http://地址:端口/library 这个目录是带有历史记录查看的功能的，我的 parser 目录可以正常工作，但是访问 library 这个历史记录的目录就会提示 AxiosError: Request failed with status code 404 。&lt;br /&gt;&lt;br /&gt;因为并没有开发和运维的相关经验，麻烦大家帮忙看一下流程对不对：&lt;br /&gt;1.用 Run locally 那个方法&lt;br /&gt;先把 JRE 环境装好，然后 wget release 包，然后 unzip 包，然后 chmod +x uecapabilityparser ，然后./uecapabilityparser server -p 80 ，最后 nohup 挂后台。&lt;br /&gt;&lt;br /&gt;2.用 docker 那个方法&lt;br /&gt;装了 docker 直接复制他给的那一行命令，就自动搭建完了，但是访问 library 目录仍然提示 AxiosError: Request failed with status code 404 。&lt;br /&gt;&lt;br /&gt;有朋友知道这种情况怎么解决吗？小弟不胜感激</description><pubDate>Sun, 11 Feb 2024 13:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015357#reply0</guid></item><item><title>[iCloud] 自己只有 iCloud drive 和 物理硬盘，还有必要买 infuse pro 吗？</title><link>https://www.v2ex.com/t/1015355#reply6</link><description>买完了 pro 才发现不对劲， 我所有片子都是存在自己的移动硬盘里的，还有必要搞 infuse pro 吗？完全用不上吧？</description><pubDate>Sun, 11 Feb 2024 13:13:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015355#reply6</guid></item><item><title>[问与答] 有没有非智能电视？</title><link>https://www.v2ex.com/t/1015354#reply19</link><description>&lt;p&gt;RT ，有没有非智能电视？智能电视系统，体验太垃圾了。而且如果有盒子，套娃一样，用得烦。我知道有默认信号源设置，但是……我就是不要！就没有纯粹的电视了吗？&lt;/p&gt;</description><pubDate>Sun, 11 Feb 2024 12:54:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015354#reply19</guid></item><item><title>[问与答] 买票的疑惑</title><link>https://www.v2ex.com/t/1015353#reply0</link><description>兄弟们，有没有那种订机票和订火车高铁票比较多的网站或 app 的，兄弟们平时买票都是怎么买，在哪买比较优惠便宜一些，经常要跑项目，看主流软件的票也没贵多少</description><pubDate>Sun, 11 Feb 2024 12:45:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015353#reply0</guid></item><item><title>[哔哩哔哩] 最近不知道浏览器怎么了，每次点开 b 站的视频都默认 2 倍速</title><link>https://www.v2ex.com/t/1015352#reply6</link><description>浏览器是 edge ，试着把扩展程序删除了还是无法恢复，删除 cookies 也没用，求大佬们指点</description><pubDate>Sun, 11 Feb 2024 12:27:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015352#reply6</guid></item></channel></rss>
+&lt;p&gt;没有捕获到信息，有尝试监听 tcp 建立连接，还是无果。&lt;/p&gt;
+&lt;p&gt;不是搞安全的，对这一块真是没办法了，谷歌也没找有类似案例，真是哭死。。。直接从内部从登录。另外使用 Fail2ban 黑名单本机 ip 无效，使用 uwf ，uwf 服务没开是不是要换 iptable 啊，有无专业点的老哥给点意见，怎么揪出来这个恶意软件，虽然目前还没被攻破，但是总是不放心&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 08:22:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015418#reply5</guid></item><item><title>[分享发现] 通义千问正大光明分享隐私数据？</title><link>https://www.v2ex.com/t/1015417#reply8</link><description>&lt;p&gt;同一 Wi-Fi ，昨晚问了个问题
+今天老婆手机腾讯视频就收到相关问题的推送（问题相对小众）
+虽说知道国内厂牌在这块不太重视，之前一直用的 GPT ，面对 AI 绝对能完整的推测出用户画像，目前不得不谨慎点了&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:59:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015417#reply8</guid></item><item><title>[问与答] 2023 年终总结，我希望大家也尝试记录那些自己的历史瞬间</title><link>https://www.v2ex.com/t/1015416#reply5</link><description>&lt;h1&gt;2023 年终总结&lt;/h1&gt;
+&lt;h4&gt;date 2024-02-08&lt;/h4&gt;
+&lt;p&gt;2023 年一切都好&lt;/p&gt;
+&lt;p&gt;之前写年终总结时候，都是按照顺序来写，今年按照事件来写，今年的事情大多都是连贯的&lt;/p&gt;
+&lt;h2&gt;房子住进去了也拿到了房本&lt;/h2&gt;
+&lt;p&gt;如果讲道理行不通，那就不要讲道理了，要不然我们永远都是和孔乙己一样的时代废物&lt;/p&gt;
+&lt;h3&gt;买房的整个过程&lt;/h3&gt;
+&lt;p&gt;2019 年，从北京回到西安，终于把买房提上日程，之前也是听说烂尾太多，所以先看的二手，但是发现因为房价普涨，那些卖二手房的，感觉就把我当傻子，不是太偏，就是太贵，房龄并且老旧，当然也可能是我的中介太坑了。&lt;/p&gt;
+&lt;p&gt;最后回归到了看新房，也被中介忽悠着看了各种远的不能再远的房子。&lt;/p&gt;
+&lt;p&gt;最终咨询了之前的同学，他在恒大上班，觉得恒大房子还行，推荐了一个小区让我去看看，当时这个小区已经交付了部分楼栋，总感觉是已经风险很小了。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;毕竟许家印还在城门楼子上站着，整体恒大的声势也很大，当时我还感叹，要是恒大都能烂尾，我就认命，毕竟不是我的选择问题，而是命运问题。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;真正的东拼西凑，周围能想到的，都找了一遍，最终算是够了首付，背上了房贷。等把北京公积金提取出来，然后 2019 年年底，还清了全部当时首付的外债。&lt;/p&gt;
+&lt;h3&gt;等待交房&lt;/h3&gt;
+&lt;p&gt;恒大问题隐现，停工来的猝不及防，突然就停了，你找他们，他们就说，“你看没看见有人干活吗？不要造谣。”&lt;/p&gt;
+&lt;p&gt;人民的江山，靠人民。大家自发为了房子，然后找相关单位沟通，当然问题太复杂，谁也解决不了，唯一能做的就是相互安抚，不要激动，不要过激。结果自然会毫无进展&lt;/p&gt;
+&lt;p&gt;恒大问题彻底暴雷，事情才迎来转机&lt;/p&gt;
+&lt;h3&gt;保交楼&lt;/h3&gt;
+&lt;p&gt;烂尾楼的存在，是一个客观的，无法解决的问题，这也是在烂尾楼历史中，一直存在的问题。
+解释一下原因：
+“房子烂尾，必然是因为没钱，并且当前这个房子还欠了建筑商一屁股债。”&lt;/p&gt;
+&lt;p&gt;常规解决方案：
+第一种. 找足够多的钱，把签的钱还上，建筑商继续盖房子，然后交付
+第二种. 找能改完房子的钱，把建筑商赶跑，让他们去法院起诉，然后找新的供应商继续盖房子，然后交付&lt;/p&gt;
+&lt;p&gt;两种方案，都有困难。
+第一种，房子都卖出去，如果没有可以继续抵押或者出售的资产，从哪里搞钱，就搞不到那么多钱，所以直接放弃这个方案。
+第二种，建筑商现在唯一的筹码就是房子，你确定能用合法的手段让他们离开，然后让新的建筑商进入？&lt;/p&gt;
+&lt;p&gt;当然我们的房子交付了，具体采用了上述那种方案，我就不清楚了，这不是普通人能参透的事情。&lt;/p&gt;
+&lt;p&gt;2022 年-2023 年，西安的保交楼政策，终于起了作用，因为我们楼盘整体问题较少，在政府的支持下，终于达到了可以住人的地步。&lt;/p&gt;
+&lt;h3&gt;装修&lt;/h3&gt;
+&lt;p&gt;跑了好多店铺，看了很多装修用品，但是最终还会选择了，小厂商的沙发，餐桌，床，毕竟便宜。
+嘴上说的“买真皮，买贵的，会被孩子和旺财（我家的猫）糟蹋，还不如先这样，等稍微大一点了，全部换新的”
+心里想的“钱是好东西，要是有钱谁不行买好的”&lt;/p&gt;
+&lt;h3&gt;入住&lt;/h3&gt;
+&lt;p&gt;住在自己家里，感觉确实不一样了，尤其是这些年的租房搬家，让我更加深有体会。
+就是一个子“爽”
+以前租住时候&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;感觉进小区大门时候，保安都要看看我是不是小偷。&lt;/li&gt;
+&lt;li&gt;想买个东西，第一考虑是搬家时候怎么办。&lt;/li&gt;
+&lt;li&gt;办理相关证件后者证明，房东总害怕我把他房子卖了。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;孩子降生&lt;/h2&gt;
+&lt;p&gt;备孕总是在计划，计划了好几年，我也用这个当借口挡了不少酒。&lt;/p&gt;
+&lt;p&gt;今年五月，终于备孕成功，感觉生活的一切都开会变化，同样我也更加成熟了。&lt;/p&gt;
+&lt;h3&gt;男人的成熟非常的缓慢&lt;/h3&gt;
+&lt;p&gt;如何确定一个人年轻，那就是看这个人是否坚持要区分对错。
+如果确定一个人油腻，那就是看这个人是否只关注利益。&lt;/p&gt;
+&lt;p&gt;我目前已经介于年轻和油腻中间了，要思考利益，同样努力区分对错。&lt;/p&gt;
+&lt;h3&gt;辛苦媳妇&lt;/h3&gt;
+&lt;p&gt;2023 年，媳妇去周边市工作了，车程一个小时。 从五月怀孕开始，各种跑医院检查，各种提心吊胆。
+劳累和辛苦，我却不能有强烈的感同身受。
+面对媳妇对我的抱怨，初期的我，并不能理解，甚至还有不开心。
+有时候在想到底是我自己冷血，还是因为孩子不是怀在自己身上，自己不能感受到一切都在慢慢变化，同样也无法感同身受。
+后来在小红书上看到部分关于女性怀孕的帖子，才能慢慢的理解女性的生育困境和生育时候的焦躁不安。&lt;/p&gt;
+&lt;p&gt;或许因为枕边人，对怀孕的变化，不知道如何表达，或者说不希望很多话说出来伤害彼此，所以只能表现在脾气和心情上。
+看小红书帖子时候，才能发现怀孕女性，不同视角，不同的利益考量，不同的风俗习惯。才是女性怀孕时候心情和脾气变化的根结。&lt;/p&gt;
+&lt;h3&gt;逐渐成熟&lt;/h3&gt;
+&lt;p&gt;什么东西不能吃，什么动作不能做，需要保持好的休息和睡眠，这些都是孕期的变化，同样我也慢慢意识到，怀孕了不是之前的能蹦能跳的状态了。
+之前家里都是媳妇做饭或者我们去外面吃，主要是我做饭比较没有食欲，当然我也会做饭，如果下面条和炒土豆丝算的话。&lt;/p&gt;
+&lt;p&gt;疫情期间，媳妇阳了症状严重，并且当时因为宫外孕小产不久。
+我也阳了，我的症状较轻，家里就我们两个，所以做饭就我来，平时我就是下面条和炒土豆丝，其他的饭实在是不会做。
+担心做的不好吃或者做法错误，我去问了媳妇
+“西红柿炒鸡蛋，西红柿切片，还和切块”。
+“两个一起下锅，还是西红柿先下锅”
+身体疾病的痛苦，加上我的不靠谱精神的折磨。&lt;/p&gt;
+&lt;p&gt;媳妇彻底对人生绝望，抄起电话给我妈打电话“我和你儿子过不下去了”
+我也绝望，人只有受到精神的摧残切无力解决问题的时候，才能逐渐成熟，身体的痛苦是不足以让男人成长的。&lt;/p&gt;
+&lt;h3&gt;飘在天上&lt;/h3&gt;
+&lt;p&gt;以前我总是票在天上，总是觉得很多事情，都是无所谓的，我不在意别人的看法，讨厌细节和繁琐的生活，同样我也不会为任何人尝试改变。&lt;/p&gt;
+&lt;p&gt;2023 年，自己总算落到的地上，开始处理生活中的细节。
+开始尝试下厨，按理来说，从初中在外租房的经历而言，做饭对我来说，简直就是小意思。
+但是这些年的做饭，可能就是为了吃饱而已。
+上午稀饭，下午面条，典型吃饱就行。我没有感觉到自己做的饭不好吃，同样我也没感觉到做饭有多难。&lt;/p&gt;
+&lt;p&gt;和媳妇在一起之后，家里都是她做饭，因为媳妇做饭实在是太好吃了；还因为我实在不知道鱼怎么处理，排骨怎么处理，五花肉怎么处理，以前那些贫穷的日子，这些食材对我而言，都是奢望。&lt;/p&gt;
+&lt;p&gt;开始尝试下厨，啤酒鸭，红烧排骨，排骨汤，金汤肥牛虾滑，番茄炖牛腩，包饺子等等，开始尝试，味道还不错。
+下厨还在继续，2024 将开始尝试更多的食材和更多的菜品。&lt;/p&gt;
+&lt;h3&gt;孩子出生之后&lt;/h3&gt;
+&lt;p&gt;出生时候，填写各种表格，关系一栏填写“父子”，我突然感慨到，以前填写的都是我和爸爸的角色关系，现在我成了爸爸，小宝宝成了儿子，角色的平移转换来的突然，同样让我意识到我是父亲了，需要父亲的角色完成人生的角色扮演。&lt;/p&gt;
+&lt;p&gt;还记得以前睡得这么少的时候，是通宵达旦上网吧，但是第二天还要上课的时候，那个时候简直就是精力过剩阶段。&lt;/p&gt;
+&lt;p&gt;最近小孩子出生，半夜起来喂奶，我总感觉我刚睡着，小朋友就哭了饿了。
+过年半夜的烟花声，总是突然就想起来，害怕孩子吓着，媳妇和我都是一秒床上弹起，给把小朋友耳朵捂上。&lt;/p&gt;
+&lt;p&gt;小朋友一天天长大，我们也一天天成熟，明年这个时候，小朋友就可以地上跑了。&lt;/p&gt;
+&lt;h2&gt;世界在变化&lt;/h2&gt;
+&lt;h3&gt;大局观&lt;/h3&gt;
+&lt;p&gt;年初终于解封了，所有人都期待好日子来临，做好了一切迎接未来。
+但是总体形式来看，貌似更差了。&lt;/p&gt;
+&lt;p&gt;大公司裁员，小公司关闭，就业数据也是一塌糊涂，当然这些我们也不评价，就是记录一下。
+我们自己也如沧海一粟，随风飘荡，也渐渐明白，走一步看一步，自己不是圣人，想太远没用，做好当下，干好自己的事情。&lt;/p&gt;
+&lt;h3&gt;理财&lt;/h3&gt;
+&lt;p&gt;股票涨了跌，跌了涨。2023 以小亏损为结束
+终于去期货市场试水了，发现可以看看，但是没必要给于太多精力。
+基金别提了，发现现在这些基金经理的水平比我还差。
+2024 依旧不乐观，但是目前的位置来看，部分还在低位，问题不大。&lt;/p&gt;
+&lt;h3&gt;斗争观&lt;/h3&gt;
+&lt;p&gt;与天斗其乐无穷，与地斗其乐无穷，与人斗其乐无穷
+世界和生活，总是在变化，不管你是否承认，他都在变化。
+以前总是想努力置身事外，现在才发现，很多时候，我们不主动斗争，不主动争取，世界好像都遗忘我们的存在
+这些感悟都来自，等待恒大期房交房的过程中。&lt;/p&gt;
+&lt;h2&gt;最后&lt;/h2&gt;
+&lt;p&gt;每年都要记录一下，有时候尽量想着多记录一点，但是又感觉很多隐私的事情写的太公开不好，然后就又不写了。&lt;/p&gt;
+&lt;p&gt;现在会看历史写过的文章，发现每年都有不同的想法，不同的看法，对世界，对自己，对未来。&lt;/p&gt;
+&lt;p&gt;同样，我希望大家也尝试记录那些历史瞬间，并不是为了成为什么，而是因为真的，我们在老去，很多事情细节在脑中淡化，从而忘记自己这一路艰辛，一路闯荡。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s/_Wd4idFIY1XTbFgjNEsnEg" rel="nofollow"&gt;公众号地址&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:28:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015416#reply5</guid></item><item><title>[NAS] 想买一个黑群晖：</title><link>https://www.v2ex.com/t/1015414#reply2</link><description>&lt;p&gt;但不知道怎么买，在淘宝或者京东吗？&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:16:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015414#reply2</guid></item><item><title>[分享创造] 从字体里获取字形及精简字体的免费软件</title><link>https://www.v2ex.com/t/1015413#reply0</link><description>&lt;h2&gt;2015 年我开发了 Panda&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="panda" class="embedded_image" rel="noreferrer" src="https://cloud.githubusercontent.com/assets/1193966/15237920/3edb94a0-1905-11e6-992e-84fa3a7b91c4.gif" /&gt;&lt;/p&gt;
+&lt;h2&gt;2016 年我开发了 WebFont&lt;/h2&gt;
+&lt;h2&gt;2024 年我开发了 FontMagic&lt;/h2&gt;
+&lt;p&gt;FontMagic 是一个字体（ ttf 、woff 、woff2 ）处理软件，可以在 macOS 、Windows 平台使用。FontMagic 拥有 4 大核心功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;解析字体文件的所有 unicode 及字形，可以通过快捷键将选中的字形以 svg 字符串的形式进行拷贝。可以一键导出选择的所有字形。&lt;/li&gt;
+&lt;li&gt;可以对字体文件进行过滤，只保留你需要的字符。&lt;/li&gt;
+&lt;li&gt;可以对字体文件的格式进行转换，可以在 ttf 、woff 、woff2 三种格式中互相转换。&lt;/li&gt;
+&lt;li&gt;可以快速获取字体文件的 base64 编码，仅仅需要点击一次按钮。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://github.com/leibnizli/fontmagic/assets/1193966/61587d8e-3643-475e-a96d-813ccb5a939c" /&gt;
+&lt;p&gt;&lt;a href="https://github.com/leibnizli/fontmagic" rel="nofollow"&gt;https://github.com/leibnizli/fontmagic&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:15:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015413#reply0</guid></item><item><title>[音乐] 如果你女朋友吃醋了-请给她播放这首歌曲</title><link>https://www.v2ex.com/t/1015412#reply0</link><description>听完她就不生气啦 ：）&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 07:14:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015412#reply0</guid></item><item><title>[分享创造] 快速建立共享图库，音视频库，文库的程序，而且非常简单</title><link>https://www.v2ex.com/t/1015411#reply0</link><description>&lt;p&gt;创建一个共享文件库只需三步&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一步：新建库，支持 4 种类型的库&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9af1f7f5b2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二步：获取库的网络地址&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9bb07dc8f7.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三步：在手机或者电脑访问地址，就可以查看已经创建好的共享文件库了&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9af1fcdf39.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简单介绍一下程序&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;PicHome 是一款开源图库程序，能够用于创建共享图库，音视频库，文档库的用途。PicHome 还提供了一些高级功能，例如单页，能够通过拖拽的方式建立类似门户首页，栏目首页推荐内容，创建说明介绍页，网址导航页等用途。通过栏目管理，可以把多个库，多个单页组织成为一个有结构化的站点。例如下图。这样我们就可以根据团队的业务需要例如创建灵感库，素材库，案例库，方案库，产品库，知识库，标准库等栏目，组织为一个完整的公司文件共享平台。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9b68c96b1c.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支持大多常见文件类型&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;.bmp,&lt;/em&gt;.gif,&lt;em&gt;.heic,&lt;/em&gt;.heif,&lt;em&gt;.hif,&lt;/em&gt;.icns,&lt;em&gt;.ico,&lt;/em&gt;.jpeg,&lt;em&gt;.jpg,&lt;/em&gt;.png,&lt;em&gt;.svg,&lt;/em&gt;.tif,&lt;em&gt;.tiff,&lt;/em&gt;.ttf,&lt;em&gt;.webp,&lt;/em&gt;.avif,&lt;em&gt;.base64,&lt;/em&gt;.jfif,&lt;em&gt;.insp,&lt;/em&gt;.jxl,&lt;em&gt;.jpe,&lt;/em&gt;.tga,&lt;em&gt;.psd,&lt;/em&gt;.ai,&lt;em&gt;.3fr,&lt;/em&gt;.arw,&lt;em&gt;.cr2,&lt;/em&gt;.cr3,&lt;em&gt;.crw,&lt;/em&gt;.dng,&lt;em&gt;.erf,&lt;/em&gt;.mrw,&lt;em&gt;.nef,&lt;/em&gt;.nrw,&lt;em&gt;.orf,&lt;/em&gt;.otf,&lt;em&gt;.pef,&lt;/em&gt;.raf,&lt;em&gt;.raw,&lt;/em&gt;.rw2,&lt;em&gt;.sr2,&lt;/em&gt;.srw,*.x3f&lt;/p&gt;
+&lt;p&gt;媒体&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;.m4v,&lt;/em&gt;.mp4,&lt;em&gt;.webm,&lt;/em&gt;.mov,&lt;em&gt;.aac,&lt;/em&gt;.flac,&lt;em&gt;.m4a,&lt;/em&gt;.mp3,&lt;em&gt;.ogg,&lt;/em&gt;.wav&lt;/p&gt;
+&lt;p&gt;文档&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;.pdf,&lt;/em&gt;.doc,&lt;em&gt;.docx,&lt;/em&gt;.rtf,&lt;em&gt;.odt,&lt;/em&gt;.txt,&lt;em&gt;.ppt,&lt;/em&gt;.pptx,&lt;em&gt;.pps,&lt;/em&gt;.ppsx,&lt;em&gt;.odp,&lt;/em&gt;.xls,&lt;em&gt;.xlsx,&lt;/em&gt;.ods,*.csv&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PicHome 可以用于做什么&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;电商，游戏，设计，开发，企事业，学校，实验室，媒体，演艺机构等等类型的个人，团队，企业都可以用到。&lt;/p&gt;
+&lt;p&gt;1 、使用内置的网盘功能，当作网盘使用&lt;/p&gt;
+&lt;p&gt;2 、创建素材网站&lt;/p&gt;
+&lt;p&gt;3 、创建文件发布站&lt;/p&gt;
+&lt;p&gt;4 、实现 Eagle 素材库多端展示&lt;/p&gt;
+&lt;p&gt;5 、实现 Billfish 素材库多端展示&lt;/p&gt;
+&lt;p&gt;6 、实现普通文件夹多端展示&lt;/p&gt;
+&lt;p&gt;7 、建立企业知识库&lt;/p&gt;
+&lt;p&gt;8 、建立代理商，分销商，分公司产品资料共享平台&lt;/p&gt;
+&lt;p&gt;9 、建立商品素材，商品图共享平台&lt;/p&gt;
+&lt;p&gt;10 、建立企业图库平台&lt;/p&gt;
+&lt;p&gt;11 、建立团队灵感库&lt;/p&gt;
+&lt;p&gt;12 、建立团队标准库&lt;/p&gt;
+&lt;p&gt;......&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Github 地址：&lt;/strong&gt; &lt;a href="https://github.com/zyx0814/Pichome" rel="nofollow"&gt;https://github.com/zyx0814/Pichome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;祝大家新年快乐，求 Stra &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9be5bcdad7.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 06:45:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015411#reply0</guid></item><item><title>[问与答] 有懂茅台的老哥吗？求助</title><link>https://www.v2ex.com/t/1015410#reply8</link><description>在老家家里柜子翻到 93 年的五星茅台，大可能是真的，因为家里的长辈以前是局里的那种职业。&lt;br /&gt;我完全不喝酒，只知道茅台挺贵。&lt;br /&gt;&lt;br /&gt;1. 我要怎么鉴别真假呢？去哪鉴别靠谱？找谁靠谱呢？&lt;br /&gt;2. 这玩意儿大概值多少钱？</description><pubDate>Mon, 12 Feb 2024 06:39:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015410#reply8</guid></item><item><title>[分享发现] 给大家看看：开车不加塞的社会，是什么样子的</title><link>https://www.v2ex.com/t/1015409#reply5</link><description>靠左行驶的国家，右转车道已经排队那么长了，直行车道始终空着，无人插队&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 06:38:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015409#reply5</guid></item><item><title>[分享创造] 卷了一个私密日记应用，集成了 OpenAI，自动给图片推荐 tag，送一年 Pro</title><link>https://www.v2ex.com/t/1015408#reply0</link><description>&lt;h3&gt;简单记，AI 支持的私密日记&lt;/h3&gt;
+&lt;p&gt;也可以作为本地博客，集成 openAI ，AppStore 搜索 “&lt;strong&gt;简单记 noteit&lt;/strong&gt;”  下载，趁着过年上线了。&lt;/p&gt;
+&lt;p&gt;纯本地，没有后端服务，Local first ，这样写点隐私性强的内容不用担心被其他人看到，也不用担心第三方关服务跑路&lt;/p&gt;
+&lt;p&gt;安装地址：&lt;a href="https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001" rel="nofollow"&gt;https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🎉拜年福利🎉：在订阅页使用兑换码「 OBLANK 」可兑换一年 VIP 权限
+也可以使用链接 &lt;a href="https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1659178001&amp;amp;code=OBLANK" rel="nofollow"&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1659178001&amp;amp;code=OBLANK&lt;/a&gt; 兑换，订阅后若不想自动续费取消即可，仍然有一年的 VIP 权限&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/a3/cb/49a3cb25-b827-6efa-292c-e520530a8a04/4b45b894-db0e-43da-93e0-319b48f19605_1.png/460x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b6/1b/2a/b61b2aad-9e63-ffe5-3ec9-f6185ea70992/f585788b-9541-42ec-9ef6-de06fcc4ce25_4.png/460x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/8e/34/8d8e34e4-23e4-8324-235c-24a78f82754f/1e498244-6b88-4d5b-bffc-2549678e05f2_9.png/460x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/d4/f3/30d4f393-e34e-c83a-1b10-5f8b59104248/83d7e9a4-6457-40e8-93fe-144b6520a7fb_5.png/460x0w.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/85/6d/a6856d03-8ca6-b584-8747-ef3e6b5234e8/8ae61709-0258-49cb-abee-deb5e56e2689_10.png/460x0w.webp" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/22/ba/8422ba49-1833-e945-65e3-f6378267b537/292ccde4-f03a-4bcf-80b1-568cbc600f80_3.png/460x0w.webp" /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/cf/10/15cf1085-4fc7-c41c-37ed-3f5752e29ca5/081ec5f2-d049-49be-b75b-7c3dfac7393f_7.png/460x0w.webp" /&gt;&lt;/h2&gt;
+&lt;p&gt;简单记 - 智能日记，简单好用的日记应用，提供了智能标签（ SmartTag ）、智能写作（ SmartWriter ）功能，支持地图足迹、随手记账等功能，支持 Markdown 格式，随时记录日常生活中的所见所闻和内心的感悟与思考，所有数据本地存储，支持 iCloud 备份，确保您的数据安全可靠，而且随时随地都能访问。&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 06:26:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015408#reply0</guid></item><item><title>[广州] 春节期间广州有哪些美食推荐</title><link>https://www.v2ex.com/t/1015406#reply1</link><description>&lt;p&gt;这几天广州有哪些美食店及特色菜推荐呐&lt;/p&gt;
+&lt;p&gt;大店小店都行，就两个人出来玩🥰&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 05:53:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015406#reply1</guid></item><item><title>[问与答] 咨询 t-mobile Paygo 余额不足时有效期的问题</title><link>https://www.v2ex.com/t/1015405#reply2</link><description>各位大佬，3 美元的 paygo 卡余额不足超过多少天注销卡号?&lt;br /&gt;&lt;br /&gt;假设超过 180 天会注销，如果我不经常使用这卡 充值一次后等 100 多天再充值这样更划算？&lt;br /&gt;&lt;br /&gt;谢谢</description><pubDate>Mon, 12 Feb 2024 05:45:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015405#reply2</guid></item></channel></rss>
