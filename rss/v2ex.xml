@@ -1,238 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 12 Feb 2024 12:53:53 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] N100 小主机放 YouTube 严重掉帧</title><link>https://www.v2ex.com/t/1015434#reply4</link><description>&lt;p&gt;我主要用 Mac ，最近手痒买了一台 Acer 的 N100 小主机，8+512 配置，Windows11 系统，在线放 60fps 的 YouTube 视频时，无论是使用 chrome 还是 edge ，无论是 1080P 还是 4K,都严重掉帧，放 1000 帧掉 300 帧那种程度。这个配置低我当然知道，放个 YouTube 这么烂我没想到。
-当我用这个主机运行一个装在 u 盘上的 chrome OS flex 系统，在同样的网络条件下，看 YouTube 4k60fps 视频几乎不掉帧，放 1000 帧掉 10 帧以内。我的问题：Windows11 这个系统要多高配置看 YouTube 才能不掉帧？手里有用 i3-n305 这个 u 的小主机的人可以试一下是否掉帧吗？&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 12:30:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015434#reply4</guid></item><item><title>[问与答] 有没有佬逆向过 glm-4-all 的，求份代码，想用 glm-4-all 当 api 接个机器人玩玩（手动狗头）</title><link>https://www.v2ex.com/t/1015433#reply0</link><description></description><pubDate>Mon, 12 Feb 2024 12:21:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015433#reply0</guid></item><item><title>[问与答] 都买到了开工回去的票吗？</title><link>https://www.v2ex.com/t/1015428#reply5</link><description>从 2 月 5 号开始，候补 16/17/18 号的高铁票。剩余不到一个星期感觉买不到票了。&lt;br /&gt;&lt;br /&gt;内陆地区，只有上车，没有下车的。买短途候补都买不到。</description><pubDate>Mon, 12 Feb 2024 11:05:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015428#reply5</guid></item><item><title>[分享创造] 视频翻译和配音工具终于更新到 1.0 了</title><link>https://www.v2ex.com/t/1015427#reply0</link><description>开源地址  &lt;a href="https://github.com/jianchang512/pyvideotrans" rel="nofollow noopener" target="_blank"&gt;https://github.com/jianchang512/pyvideotrans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;几个月坚持维护更新，终于来到 1.0 了&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/V4Awj5I.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/V4Awj5I.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这是一个视频翻译配音工具，可将一种语言的视频翻译为指定语言的视频，自动生成和添加该语言的字幕和配音。&lt;br /&gt;&lt;br /&gt;语音识别基于 faster-whisper 离线模型.&lt;br /&gt;&lt;br /&gt;文字翻译支持 microsoft|google|baidu|tencent|chatGPT|Azure|Gemini|DeepL|DeepLX|离线翻译 OTT ，&lt;br /&gt;&lt;br /&gt;文字合成语音支持 Microsoft Edge tts | Openai TTS-1 | Elevenlabs TTS, 配合 clone-voice 可实现原音色克隆配音&lt;br /&gt;&lt;br /&gt;允许保留背景伴奏音乐等(基于 uvr5)&lt;br /&gt;&lt;br /&gt;软件界面基于 pyside6&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;----&lt;br /&gt;&lt;br /&gt;主要功能： [翻译视频并配音]    [识别字幕不翻译]    [提取字幕并翻译]    [字幕和视频合并]    [为字幕创建配音]   &lt;br /&gt; [音视频识别文字]    [将文字合成语音]    [从视频分离音频]    [音视频字幕合并]    [音视频格式转换]    [文字字幕翻译] &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 10:24:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015427#reply0</guid></item><item><title>[问与答] 倒大霉了， win11.dev 更新 26052 后，既进不了系统也不能回滚</title><link>https://www.v2ex.com/t/1015426#reply0</link><description>目前进退不能 陷入无限重启&lt;br /&gt;之前版本貌似是 9 月份的 23541 ，之后每逢新版本都更新失败&lt;br /&gt;下了个最新的 insider iso 想要覆盖安装一下&lt;br /&gt;结果失败回滚了，但却带来一个变化&lt;br /&gt;更新里不再提示我更新到 236xx ，而是直接提示更新 Windows 11 Insider Preview 10.0.26052.1100 (ge_release)&lt;br /&gt;虽然预感不会成功，但还是尝试了一下&lt;br /&gt;果然依然是更新失败，但这次没有自动回滚，而是卡在天蓝色的那种开机菜单那里&lt;br /&gt;有两个选项，win11 和 win 回滚，不论选哪个都是闪退重启&lt;br /&gt;实在不想重装，c 盘数据太多了，积重难返&lt;br /&gt;有什么办法不重装吗?真是血的教训啊</description><pubDate>Mon, 12 Feb 2024 09:54:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015426#reply0</guid></item><item><title>[互联网] 请问下大家现在在用什么短链接分析流量，另外 google 的短链接工具下线了么？</title><link>https://www.v2ex.com/t/1015425#reply4</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/justincnn/pictures/img/202402101912431.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:49:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015425#reply4</guid></item><item><title>[问与答] 有没有大佬完整自动化交易机器人 freqtrade</title><link>https://www.v2ex.com/t/1015424#reply0</link><description>&lt;p&gt;各位大佬，有人玩过 freqtrade 机器人，这个机器人是加密货币机器人，我这里出现一点问题，想请教一下， 就是我想把当前运行的改成合约，u 本位合约， 代码如下
-{
-"max_open_trades": 10,
-"stake_currency": "USDT",
-"stake_amount": "unlimited",
-"tradable_balance_ratio": 0.99,
-"fiat_display_currency": "USD",
-"dry_run": true,
-"dry_run_wallet": 12,
-"cancel_open_orders_on_exit": false,
-"trading_mode": "futures",
-"margin_mode": "",
-"unfilledtimeout": {
-"entry": 10,
-"exit": 10,
-"exit_timeout_count": 0,
-"unit": "minutes"
-} 我把 "trading_mode": "futures",  我把这一行改了，现在就出现问题了  2024-02-12 07:47:45,046 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using position_adjustment_enable: False
-2024-02-12 07:47:45,046 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_entry_position_adjustment: -1
-2024-02-12 07:47:45,047 - freqtrade.resolvers.strategy_resolver - INFO - Strategy using max_open_trades: 10
-2024-02-12 07:47:45,047 - freqtrade.configuration.config_validation - INFO - Validating configuration ...
-2024-02-12 07:47:45,053 - freqtrade.exchange.exchange - INFO - Instance is running with dry_run enabled
-2024-02-12 07:47:45,053 - freqtrade.exchange.exchange - INFO - Using CCXT 4.2.25
-2024-02-12 07:47:45,054 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
-2024-02-12 07:47:45,072 - freqtrade.exchange.exchange - INFO - Applying additional ccxt config: {'options': {'defaultType': 'swap'}}
-2024-02-12 07:47:45,090 - freqtrade.exchange.exchange - INFO - Using Exchange "Binance"
-2024-02-12 07:47:49,002 - freqtrade.commands.trade_commands - ERROR - Freqtrade does not support MarginMode.NONE futures on Binance
-2024-02-12 07:47:49,003 - freqtrade.commands.trade_commands - ERROR - Fatal exception!
-Traceback (most recent call last):
-File "/freqtrade/freqtrade/commands/&lt;a href="http://trade_commands.py" rel="nofollow"&gt;trade_commands.py&lt;/a&gt;", line 24, in start_trading
-worker = Worker(args)
-^^^^^^^^^^^^
-File "/freqtrade/freqtrade/&lt;a href="http://worker.py" rel="nofollow"&gt;worker.py&lt;/a&gt;", line 37, in &lt;strong&gt;init&lt;/strong&gt;
-self._init(False)
-File "/freqtrade/freqtrade/&lt;a href="http://worker.py" rel="nofollow"&gt;worker.py&lt;/a&gt;", line 53, in _init
-self.freqtrade = FreqtradeBot(self._config)
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-File "/freqtrade/freqtrade/&lt;a href="http://freqtradebot.py" rel="nofollow"&gt;freqtradebot.py&lt;/a&gt;", line 76, in &lt;strong&gt;init&lt;/strong&gt;
-self.exchange = ExchangeResolver.load_exchange(
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-File "/freqtrade/freqtrade/resolvers/&lt;a href="http://exchange_resolver.py" rel="nofollow"&gt;exchange_resolver.py&lt;/a&gt;", line 37, in load_exchange
-exchange = ExchangeResolver._load_exchange(
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-File "/freqtrade/freqtrade/resolvers/&lt;a href="http://exchange_resolver.py" rel="nofollow"&gt;exchange_resolver.py&lt;/a&gt;", line 64, in _load_exchange
-exchange = ex_class(**kwargs)
-^^^^^^^^^^^^^^^^^^
-File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 189, in &lt;strong&gt;init&lt;/strong&gt;
-self.validate_config(config)
-File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 232, in validate_config
-self.validate_trading_mode_and_margin_mode(self.trading_mode, self.margin_mode)
-File "/freqtrade/freqtrade/exchange/&lt;a href="http://exchange.py" rel="nofollow"&gt;exchange.py&lt;/a&gt;", line 696, in validate_trading_mode_and_margin_mode
-raise OperationalException(
-freqtrade.exceptions.OperationalException: Freqtrade does not support MarginMode.NONE futures on Binance     这个怎样解决&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:23:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015424#reply0</guid></item><item><title>[程序员] 技术人的目标和终点在哪里?</title><link>https://www.v2ex.com/t/1015421#reply15</link><description>&lt;p&gt;过年回家，得以和其他行业的亲友交流。发现年龄焦虑普遍没有 IT 行业严重，过得也更随心所欲，更谈不上什么职业规划。&lt;/p&gt;
-&lt;p&gt;但回到大城市，自然会被一股焦虑感裹挟。身边的同行在这两年也都很坎坷，甚至有研究生同事年纪大了，去卖房子。我们这行的目标在哪里？刚入行时心潮彭拜，想成为知名技术人，但逐渐被现实打脸。&lt;/p&gt;
-&lt;p&gt;如果 35 是个槛，现在还拼命卷技术的意义在哪里？大家对未来有什么远景&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 09:06:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015421#reply15</guid></item><item><title>[VPS] Ceranetworks 贵了点， 你们有哪些稳定的性价比高的 ceranetworks 家的代理商推荐？</title><link>https://www.v2ex.com/t/1015420#reply0</link><description>我之前在网上闲逛看到有人说从他家代理商那里买机器便宜很多，但真不知道有哪些稳定又便宜的代理商，大哥们你们有啥子推荐不？</description><pubDate>Mon, 12 Feb 2024 08:49:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015420#reply0</guid></item><item><title>[Google] 2024 年 2 月--GV 号码购买方式求推荐</title><link>https://www.v2ex.com/t/1015419#reply9</link><description>2019 年在淘宝买的号码这几个月没接收短信已经过期了。这个 gv 号还绑定了我的美区 apple ID ，前几周看到有 V 友出售没来得及出手购买。现在国内网购买不到了&lt;br /&gt;&lt;br /&gt;预算 50 左右，不需要靓号，以及请问各位朋友是如何保号的</description><pubDate>Mon, 12 Feb 2024 08:25:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015419#reply9</guid></item><item><title>[信息安全] ssh 日志发现从本机暴力登录本机</title><link>https://www.v2ex.com/t/1015418#reply11</link><description>&lt;p&gt;服务器是本地服务器，ip 为内网 192.168.12.12,已关闭密码登录，22 端口改成了高位。
-查看/var/log/auth.log
-每三分钟 &lt;code&gt;Invalid user openbravo from 192.168.12.12 port 49136&lt;/code&gt;，一直换用不同的用户名和端口&lt;/p&gt;
-&lt;p&gt;尝试找是否有恶意软件：
-1.&lt;code&gt;watch -n 1 'netstat -tnp | grep sshd'&lt;/code&gt;，确实看到了一个转瞬即逝的进程，截图使用那个 pid 当然已经太晚了查不到该进程。
-可以看到的是：
-tcp6 0 192.168.12.12:22 192.168.12.12:51128 ESTABLISHED 3399110/sshd: [acce
-最后那个显示不全，仅用 netstat 发现就是不全，线索就到这了。&lt;/p&gt;
-&lt;p&gt;2.问 chatgpt 让使用 auditd 审计日志
-&lt;code&gt;auditctl -a exit,always -F arch=b64 -S connect -k ssh_attempt&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;过段时间再有 ssh 暴力登录，来查看审计结果
-&lt;code&gt;ausearch -i -k ssh_attempt&lt;/code&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;type=PROCTITLE msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : proctitle=auditctl -a exit,always -F arch=b64 -S connect -k ssh_attempt 
-type=SOCKADDR msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : saddr={ saddr_fam=netlink nlnk-fam=16 nlnk-pid=0 } 
-type=SYSCALL msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : arch=x86_64 syscall=sendto success=yes exit=1068 a0=0x4 a1=0x7fffb7ca6b50 a2=0x42c a3=0x0 items=0 ppid=2374156 pid=2374157 auid=bahtyar uid=root gid=root euid=root suid=root fsuid=root egid=root sgid=root fsgid=root tty=pts4 ses=2818 comm=auditctl exe=/usr/sbin/auditctl subj=unconfined key=(null) 
-type=CONFIG_CHANGE msg=audit(2024 年 02 月 12 日 15:17:57.721:3187) : auid=bahtyar ses=2818 subj=unconfined op=add_rule key=ssh_attempt list=exit res=yes
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;没有捕获到信息，有尝试监听 tcp 建立连接，还是无果。&lt;/p&gt;
-&lt;p&gt;不是搞安全的，对这一块真是没办法了，谷歌也没找有类似案例，真是哭死。。。直接从内部从登录。另外使用 Fail2ban 黑名单本机 ip 无效，使用 uwf ，uwf 服务没开是不是要换 iptable 啊，有无专业点的老哥给点意见，怎么揪出来这个恶意软件，虽然目前还没被攻破，但是总是不放心&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 08:22:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015418#reply11</guid></item><item><title>[分享发现] 通义千问正大光明分享隐私数据？</title><link>https://www.v2ex.com/t/1015417#reply8</link><description>&lt;p&gt;同一 Wi-Fi ，昨晚问了个问题
-今天老婆手机腾讯视频就收到相关问题的推送（问题相对小众）
-虽说知道国内厂牌在这块不太重视，之前一直用的 GPT ，面对 AI 绝对能完整的推测出用户画像，目前不得不谨慎点了&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:59:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015417#reply8</guid></item><item><title>[问与答] 2023 年终总结，我希望大家也尝试记录那些自己的历史瞬间</title><link>https://www.v2ex.com/t/1015416#reply7</link><description>&lt;h1&gt;2023 年终总结&lt;/h1&gt;
-&lt;h4&gt;date 2024-02-08&lt;/h4&gt;
-&lt;p&gt;2023 年一切都好&lt;/p&gt;
-&lt;p&gt;之前写年终总结时候，都是按照顺序来写，今年按照事件来写，今年的事情大多都是连贯的&lt;/p&gt;
-&lt;h2&gt;房子住进去了也拿到了房本&lt;/h2&gt;
-&lt;p&gt;如果讲道理行不通，那就不要讲道理了，要不然我们永远都是和孔乙己一样的时代废物&lt;/p&gt;
-&lt;h3&gt;买房的整个过程&lt;/h3&gt;
-&lt;p&gt;2019 年，从北京回到西安，终于把买房提上日程，之前也是听说烂尾太多，所以先看的二手，但是发现因为房价普涨，那些卖二手房的，感觉就把我当傻子，不是太偏，就是太贵，房龄并且老旧，当然也可能是我的中介太坑了。&lt;/p&gt;
-&lt;p&gt;最后回归到了看新房，也被中介忽悠着看了各种远的不能再远的房子。&lt;/p&gt;
-&lt;p&gt;最终咨询了之前的同学，他在恒大上班，觉得恒大房子还行，推荐了一个小区让我去看看，当时这个小区已经交付了部分楼栋，总感觉是已经风险很小了。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;毕竟许家印还在城门楼子上站着，整体恒大的声势也很大，当时我还感叹，要是恒大都能烂尾，我就认命，毕竟不是我的选择问题，而是命运问题。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;真正的东拼西凑，周围能想到的，都找了一遍，最终算是够了首付，背上了房贷。等把北京公积金提取出来，然后 2019 年年底，还清了全部当时首付的外债。&lt;/p&gt;
-&lt;h3&gt;等待交房&lt;/h3&gt;
-&lt;p&gt;恒大问题隐现，停工来的猝不及防，突然就停了，你找他们，他们就说，“你看没看见有人干活吗？不要造谣。”&lt;/p&gt;
-&lt;p&gt;人民的江山，靠人民。大家自发为了房子，然后找相关单位沟通，当然问题太复杂，谁也解决不了，唯一能做的就是相互安抚，不要激动，不要过激。结果自然会毫无进展&lt;/p&gt;
-&lt;p&gt;恒大问题彻底暴雷，事情才迎来转机&lt;/p&gt;
-&lt;h3&gt;保交楼&lt;/h3&gt;
-&lt;p&gt;烂尾楼的存在，是一个客观的，无法解决的问题，这也是在烂尾楼历史中，一直存在的问题。
-解释一下原因：
-“房子烂尾，必然是因为没钱，并且当前这个房子还欠了建筑商一屁股债。”&lt;/p&gt;
-&lt;p&gt;常规解决方案：
-第一种. 找足够多的钱，把签的钱还上，建筑商继续盖房子，然后交付
-第二种. 找能改完房子的钱，把建筑商赶跑，让他们去法院起诉，然后找新的供应商继续盖房子，然后交付&lt;/p&gt;
-&lt;p&gt;两种方案，都有困难。
-第一种，房子都卖出去，如果没有可以继续抵押或者出售的资产，从哪里搞钱，就搞不到那么多钱，所以直接放弃这个方案。
-第二种，建筑商现在唯一的筹码就是房子，你确定能用合法的手段让他们离开，然后让新的建筑商进入？&lt;/p&gt;
-&lt;p&gt;当然我们的房子交付了，具体采用了上述那种方案，我就不清楚了，这不是普通人能参透的事情。&lt;/p&gt;
-&lt;p&gt;2022 年-2023 年，西安的保交楼政策，终于起了作用，因为我们楼盘整体问题较少，在政府的支持下，终于达到了可以住人的地步。&lt;/p&gt;
-&lt;h3&gt;装修&lt;/h3&gt;
-&lt;p&gt;跑了好多店铺，看了很多装修用品，但是最终还会选择了，小厂商的沙发，餐桌，床，毕竟便宜。
-嘴上说的“买真皮，买贵的，会被孩子和旺财（我家的猫）糟蹋，还不如先这样，等稍微大一点了，全部换新的”
-心里想的“钱是好东西，要是有钱谁不行买好的”&lt;/p&gt;
-&lt;h3&gt;入住&lt;/h3&gt;
-&lt;p&gt;住在自己家里，感觉确实不一样了，尤其是这些年的租房搬家，让我更加深有体会。
-就是一个子“爽”
-以前租住时候&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 13 Feb 2024 07:07:38 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有什么方法能在 HomePod 上使用 chat gpt 的语音对话功能吗</title><link>https://www.v2ex.com/t/1015487#reply0</link><description></description><pubDate>Tue, 13 Feb 2024 07:01:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015487#reply0</guid></item><item><title>[问与答] 新手入门信用卡求教</title><link>https://www.v2ex.com/t/1015486#reply1</link><description>各位大佬们，需要使用信用卡覆盖国内支付 + 相当一部分国外支付场景(可能用不到，但就是想折腾)。&lt;br /&gt;&lt;br /&gt;基于这种情况下应该办什么样的卡&lt;br /&gt;一张国内卡 + 一张国外单币卡？&lt;br /&gt;一张双币卡？比如招行美国运通&lt;br /&gt;&lt;br /&gt;有什么适合新手入门的卡吗</description><pubDate>Tue, 13 Feb 2024 06:58:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015486#reply1</guid></item><item><title>[Apple] 为什么微信电话打过来的时候 AirPods Pro 的声音极大</title><link>https://www.v2ex.com/t/1015485#reply0</link><description>微信电话的音量不会用的是闹钟音量吧</description><pubDate>Tue, 13 Feb 2024 06:48:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015485#reply0</guid></item><item><title>[MacBook Pro] 21 款 MBP 大伙来帮估个价</title><link>https://www.v2ex.com/t/1015484#reply0</link><description>&lt;p&gt;2021 款 16 寸 MBP ，深空灰色，M1Pro + 32G + 1T 的配置；&lt;/p&gt;
+&lt;p&gt;咸鱼上摆各种价格的都有，感觉没啥参考性，不知道 v2 有没有老哥出过相同配置的机器，想打听打听价格。&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 06:42:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015484#reply0</guid></item><item><title>[问与答] Google Photo 怎么才能搜索相册中的文字？</title><link>https://www.v2ex.com/t/1015483#reply5</link><description>之前在 iPhone 的相册里可以直接输入文字来搜索包含关键词的照片；这几天换了 Android 手机，装了 Google Photo 之后在搜索功能里搜索文字无法得到对应的照片，请问怎么才能实现类似 iOS 相册那样的功能呢？</description><pubDate>Tue, 13 Feb 2024 06:02:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015483#reply5</guid></item><item><title>[问与答] Zoho 国内版怎么样</title><link>https://www.v2ex.com/t/1015482#reply1</link><description>看了挺多域名邮箱解决方案，感觉 Zoho 挺不错的，不过现在在纠结是选国际版还是国内版。&lt;br /&gt;主要是国际版不支持大陆的付款方式，付款不太方便。</description><pubDate>Tue, 13 Feb 2024 06:02:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015482#reply1</guid></item><item><title>[Apple] 有什么 app 可以提供安卓 app 那种风格图标？</title><link>https://www.v2ex.com/t/1015481#reply4</link><description>自己手动替换图标&lt;br /&gt;&lt;br /&gt;有的 app 图标太丑了</description><pubDate>Tue, 13 Feb 2024 05:28:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015481#reply4</guid></item><item><title>[macOS] 求一款 macos 上支持 sftp 的 ssh 客户端</title><link>https://www.v2ex.com/t/1015480#reply7</link><description>&lt;p&gt;淘宝买的 termius 最近用不了了，想着换个客户端工具，大家有什么推荐的吗？
+客户端需要支持代理通道，目前准备尝试 WindTerm 和 Xterminal&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 05:15:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015480#reply7</guid></item><item><title>[Amazon Web Services] AWS 25 刀优惠码， AWS 25 刀抵扣码， V2EX 新春专属优惠</title><link>https://www.v2ex.com/t/1015478#reply3</link><description>&lt;p&gt;AWS 25 刀优惠码，AWS 25 刀抵扣码，新批次最晚 2025-12-31 到期，&lt;a href="http://my.cloudcpp.com" rel="nofollow"&gt;my.cloudcpp.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ec2 和 lightsail 和 cft 可使用，非常适合个人网线和开发测试。&lt;/p&gt;
+&lt;p&gt;新春 V2EX 论坛专属优惠码：v2ex&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 04:35:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015478#reply3</guid></item><item><title>[分享创造] 我们做了一个 AI 搜索引擎，免费无广，欢迎试试~</title><link>https://www.v2ex.com/t/1015477#reply1</link><description>&lt;h2&gt;访问：&lt;a href="https://metaso.cn/?s=v2" rel="nofollow"&gt;秘塔 AI 搜索&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;可自动生成大纲，发现相关事件等&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.niupic.com/images/2024/02/13/gjKa.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 04:25:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015477#reply1</guid></item><item><title>[生活] “大病医疗专项附加扣除”条件这么苛刻吗？</title><link>https://www.v2ex.com/t/1015476#reply9</link><description>&lt;p&gt;起步线是 15000 元，而且只能是医保目录范围内的自付部分，而且不能全家一起合计，要每个人分开计算。&lt;/p&gt;
+&lt;p&gt;日本的起步线是 10 万日元（约人民币 4800 元），可以全家一起合计，可以包括去医院的交通费、医保外费用。&lt;/p&gt;
+&lt;p&gt;附：&lt;a href="https://springwood.me/jp-health-insurance/" rel="nofollow"&gt;日本医保制度&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 04:20:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015476#reply9</guid></item><item><title>[Apple] 闲鱼出的 alfred 兑换码是否靠谱</title><link>https://www.v2ex.com/t/1015475#reply4</link><description>Mega Supporter ，说是可以使用 3 台设备，这种靠谱不？会不会被 ban&lt;br /&gt;另外这种同一个设备重装是否就不能再用&lt;br /&gt;如果用 timemachine 备份还原呢？</description><pubDate>Tue, 13 Feb 2024 04:12:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015475#reply4</guid></item><item><title>[日本語] 分享自制的 JLPT（日语能力考试）N1～ N5 词汇 Anki 卡组</title><link>https://www.v2ex.com/t/1015472#reply10</link><description>&lt;p&gt;使用本卡组需要下载 Anki （除 iOS 外全平台免费），Anki 的使用方法在此就不详细介绍了。&lt;/p&gt;
+&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;在我多年前备考 JLPT 的时候，我还是和中学时代一样，抱着一本单词书从头到尾反复地啃，效率很低。&lt;br /&gt;
+后来接触到了 Anki ，初上手的时候感觉这个软件很复杂很难操作，但用了一段时间后，我发现它的自定义性很高，而且大大提高了我的学习效率，直到现在我依然在使用 Anki 学习（不只是日语）。&lt;br /&gt;
+比起琳琅满目的英语背单词 APP ，背日语单词的 APP 真的很少，好用的更是少之又少。Moji test 还行，但是需要付费，而且我总觉得 Moji 的 APP 不够好用。&lt;br /&gt;
+我试过很多 Anki 日-中卡组（免费的付费的），质量参差不齐，有些就是找本书 OCR 下来的，错误极多，对初学者极不友好，于是萌生了自己做 Anki 卡组的想法。&lt;br /&gt;
+大约两年前我出于练手做了第一个版本，虽然反响还不错（到目前为止在 Anki 官网的日-中单词卡组中排名第一），但我总是感觉有所欠缺，所以除了上传到 Anki 论坛以外，没有正式分享过，只有偶尔在别人学日语的帖子里回复过。&lt;br /&gt;
+最近抽时间把旧卡组大幅重构了一下，感觉算是达到了差强人意的水准，故在此分享给可能有需要的朋友们。&lt;/p&gt;
+&lt;h2&gt;预览图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="卡组预览" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6fiNFb2.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;卡组简介&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;感觉进小区大门时候，保安都要看看我是不是小偷。&lt;/li&gt;
-&lt;li&gt;想买个东西，第一考虑是搬家时候怎么办。&lt;/li&gt;
-&lt;li&gt;办理相关证件后者证明，房东总害怕我把他房子卖了。&lt;/li&gt;
+&lt;li&gt;包含约 13000 个 N1 ～ N5 的单词（其中约 3000 个为 N1 扩展词汇，包括一些生僻词）&lt;/li&gt;
+&lt;li&gt;所有单词都有语音，并经过校对，95%以上单词带真人发音。&lt;/li&gt;
+&lt;li&gt;根据难度，将词汇分为“必考”、“核心”和“补充”三个部分，方便针对性备考。&lt;/li&gt;
+&lt;li&gt;为所有词汇提供至少一条例句，并附加汉字的假名注音，例句均经过校对。&lt;/li&gt;
+&lt;li&gt;更多介绍及卡组下载请参考下面的链接↓&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;孩子降生&lt;/h2&gt;
-&lt;p&gt;备孕总是在计划，计划了好几年，我也用这个当借口挡了不少酒。&lt;/p&gt;
-&lt;p&gt;今年五月，终于备孕成功，感觉生活的一切都开会变化，同样我也更加成熟了。&lt;/p&gt;
-&lt;h3&gt;男人的成熟非常的缓慢&lt;/h3&gt;
-&lt;p&gt;如何确定一个人年轻，那就是看这个人是否坚持要区分对错。
-如果确定一个人油腻，那就是看这个人是否只关注利益。&lt;/p&gt;
-&lt;p&gt;我目前已经介于年轻和油腻中间了，要思考利益，同样努力区分对错。&lt;/p&gt;
-&lt;h3&gt;辛苦媳妇&lt;/h3&gt;
-&lt;p&gt;2023 年，媳妇去周边市工作了，车程一个小时。 从五月怀孕开始，各种跑医院检查，各种提心吊胆。
-劳累和辛苦，我却不能有强烈的感同身受。
-面对媳妇对我的抱怨，初期的我，并不能理解，甚至还有不开心。
-有时候在想到底是我自己冷血，还是因为孩子不是怀在自己身上，自己不能感受到一切都在慢慢变化，同样也无法感同身受。
-后来在小红书上看到部分关于女性怀孕的帖子，才能慢慢的理解女性的生育困境和生育时候的焦躁不安。&lt;/p&gt;
-&lt;p&gt;或许因为枕边人，对怀孕的变化，不知道如何表达，或者说不希望很多话说出来伤害彼此，所以只能表现在脾气和心情上。
-看小红书帖子时候，才能发现怀孕女性，不同视角，不同的利益考量，不同的风俗习惯。才是女性怀孕时候心情和脾气变化的根结。&lt;/p&gt;
-&lt;h3&gt;逐渐成熟&lt;/h3&gt;
-&lt;p&gt;什么东西不能吃，什么动作不能做，需要保持好的休息和睡眠，这些都是孕期的变化，同样我也慢慢意识到，怀孕了不是之前的能蹦能跳的状态了。
-之前家里都是媳妇做饭或者我们去外面吃，主要是我做饭比较没有食欲，当然我也会做饭，如果下面条和炒土豆丝算的话。&lt;/p&gt;
-&lt;p&gt;疫情期间，媳妇阳了症状严重，并且当时因为宫外孕小产不久。
-我也阳了，我的症状较轻，家里就我们两个，所以做饭就我来，平时我就是下面条和炒土豆丝，其他的饭实在是不会做。
-担心做的不好吃或者做法错误，我去问了媳妇
-“西红柿炒鸡蛋，西红柿切片，还和切块”。
-“两个一起下锅，还是西红柿先下锅”
-身体疾病的痛苦，加上我的不靠谱精神的折磨。&lt;/p&gt;
-&lt;p&gt;媳妇彻底对人生绝望，抄起电话给我妈打电话“我和你儿子过不下去了”
-我也绝望，人只有受到精神的摧残切无力解决问题的时候，才能逐渐成熟，身体的痛苦是不足以让男人成长的。&lt;/p&gt;
-&lt;h3&gt;飘在天上&lt;/h3&gt;
-&lt;p&gt;以前我总是票在天上，总是觉得很多事情，都是无所谓的，我不在意别人的看法，讨厌细节和繁琐的生活，同样我也不会为任何人尝试改变。&lt;/p&gt;
-&lt;p&gt;2023 年，自己总算落到的地上，开始处理生活中的细节。
-开始尝试下厨，按理来说，从初中在外租房的经历而言，做饭对我来说，简直就是小意思。
-但是这些年的做饭，可能就是为了吃饱而已。
-上午稀饭，下午面条，典型吃饱就行。我没有感觉到自己做的饭不好吃，同样我也没感觉到做饭有多难。&lt;/p&gt;
-&lt;p&gt;和媳妇在一起之后，家里都是她做饭，因为媳妇做饭实在是太好吃了；还因为我实在不知道鱼怎么处理，排骨怎么处理，五花肉怎么处理，以前那些贫穷的日子，这些食材对我而言，都是奢望。&lt;/p&gt;
-&lt;p&gt;开始尝试下厨，啤酒鸭，红烧排骨，排骨汤，金汤肥牛虾滑，番茄炖牛腩，包饺子等等，开始尝试，味道还不错。
-下厨还在继续，2024 将开始尝试更多的食材和更多的菜品。&lt;/p&gt;
-&lt;h3&gt;孩子出生之后&lt;/h3&gt;
-&lt;p&gt;出生时候，填写各种表格，关系一栏填写“父子”，我突然感慨到，以前填写的都是我和爸爸的角色关系，现在我成了爸爸，小宝宝成了儿子，角色的平移转换来的突然，同样让我意识到我是父亲了，需要父亲的角色完成人生的角色扮演。&lt;/p&gt;
-&lt;p&gt;还记得以前睡得这么少的时候，是通宵达旦上网吧，但是第二天还要上课的时候，那个时候简直就是精力过剩阶段。&lt;/p&gt;
-&lt;p&gt;最近小孩子出生，半夜起来喂奶，我总感觉我刚睡着，小朋友就哭了饿了。
-过年半夜的烟花声，总是突然就想起来，害怕孩子吓着，媳妇和我都是一秒床上弹起，给把小朋友耳朵捂上。&lt;/p&gt;
-&lt;p&gt;小朋友一天天长大，我们也一天天成熟，明年这个时候，小朋友就可以地上跑了。&lt;/p&gt;
-&lt;h2&gt;世界在变化&lt;/h2&gt;
-&lt;h3&gt;大局观&lt;/h3&gt;
-&lt;p&gt;年初终于解封了，所有人都期待好日子来临，做好了一切迎接未来。
-但是总体形式来看，貌似更差了。&lt;/p&gt;
-&lt;p&gt;大公司裁员，小公司关闭，就业数据也是一塌糊涂，当然这些我们也不评价，就是记录一下。
-我们自己也如沧海一粟，随风飘荡，也渐渐明白，走一步看一步，自己不是圣人，想太远没用，做好当下，干好自己的事情。&lt;/p&gt;
-&lt;h3&gt;理财&lt;/h3&gt;
-&lt;p&gt;股票涨了跌，跌了涨。2023 以小亏损为结束
-终于去期货市场试水了，发现可以看看，但是没必要给于太多精力。
-基金别提了，发现现在这些基金经理的水平比我还差。
-2024 依旧不乐观，但是目前的位置来看，部分还在低位，问题不大。&lt;/p&gt;
-&lt;h3&gt;斗争观&lt;/h3&gt;
-&lt;p&gt;与天斗其乐无穷，与地斗其乐无穷，与人斗其乐无穷
-世界和生活，总是在变化，不管你是否承认，他都在变化。
-以前总是想努力置身事外，现在才发现，很多时候，我们不主动斗争，不主动争取，世界好像都遗忘我们的存在
-这些感悟都来自，等待恒大期房交房的过程中。&lt;/p&gt;
-&lt;h2&gt;最后&lt;/h2&gt;
-&lt;p&gt;每年都要记录一下，有时候尽量想着多记录一点，但是又感觉很多隐私的事情写的太公开不好，然后就又不写了。&lt;/p&gt;
-&lt;p&gt;现在会看历史写过的文章，发现每年都有不同的想法，不同的看法，对世界，对自己，对未来。&lt;/p&gt;
-&lt;p&gt;同样，我希望大家也尝试记录那些历史瞬间，并不是为了成为什么，而是因为真的，我们在老去，很多事情细节在脑中淡化，从而忘记自己这一路艰辛，一路闯荡。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s/_Wd4idFIY1XTbFgjNEsnEg" rel="nofollow"&gt;公众号地址&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:28:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015416#reply7</guid></item><item><title>[NAS] 想买一个黑群晖：</title><link>https://www.v2ex.com/t/1015414#reply3</link><description>&lt;p&gt;但不知道怎么买，在淘宝或者京东吗？&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:16:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015414#reply3</guid></item><item><title>[分享创造] 从字体里获取字形及精简字体的免费软件</title><link>https://www.v2ex.com/t/1015413#reply0</link><description>&lt;h2&gt;2015 年我开发了 Panda&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="panda" class="embedded_image" rel="noreferrer" src="https://cloud.githubusercontent.com/assets/1193966/15237920/3edb94a0-1905-11e6-992e-84fa3a7b91c4.gif" /&gt;&lt;/p&gt;
-&lt;h2&gt;2016 年我开发了 WebFont&lt;/h2&gt;
-&lt;h2&gt;2024 年我开发了 FontMagic&lt;/h2&gt;
-&lt;p&gt;FontMagic 是一个字体（ ttf 、woff 、woff2 ）处理软件，可以在 macOS 、Windows 平台使用。FontMagic 拥有 4 大核心功能：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://ankiweb.net/shared/info/832276382" rel="nofollow"&gt;点击此处下载卡组&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本卡组不定期更新（主要为错误修复），您可以访问上面的链接下载新版本进行更新，如无特殊需求，请在更新时使用默认的更新选项。&lt;/p&gt;
+&lt;p&gt;如果您觉得卡组做的不错，对您的日语学习有帮助，欢迎在 Anki 官网（上面的卡组链接）给我👍支持，也欢迎大家在其他平台上帮忙分享。&lt;/p&gt;
+&lt;p&gt;尽管我已经校对了所有卡片，但难免会有疏漏，如果您发现了卡组中的错误或有其他问题，请在评论区留言或发邮件至 &lt;strong&gt;imnoe [at] &lt;a href="http://outlook.jp" rel="nofollow"&gt;outlook.jp&lt;/a&gt;&lt;/strong&gt; 进行反馈（请将"[at]"替换为半角符号"@"）。&lt;/p&gt;
+&lt;p&gt;This deck is intended for non-commercial educational purposes only, with all resources sourced from the internet. If you are the copyright holder and have identified content that infringes upon your rights, please contact me to request its removal.&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 03:39:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015472#reply10</guid></item><item><title>[分享创造] 「img-mom | 图片老妈」Telegram 多图床图片上传机器人</title><link>https://www.v2ex.com/t/1015471#reply1</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;本人写博客的时候，会将自己的图片上传到 BackblazeB2 中，但每次上传图片到 BackblazeB2 都需要打开浏览器并重新登陆，然后找到对应的 bucket,再上传，操作非常繁琐。我也不乐忠于在电脑中安装各种 CLI 以及客户端软件(因为我只是上传下图片并获取外链)。考虑到我的电脑一般开机都会打开 Telegram, Wechat, Discord, 所以写了一个 Telegram Bot 来简化我的图片上传流程。&lt;/p&gt;
+&lt;h2&gt;项目介绍&lt;/h2&gt;
+&lt;p&gt;img-mom | 图片老妈, Telegram 图片上传机器人，轻松上传图片到指定图床并获取外链地址。&lt;/p&gt;
+&lt;h3&gt;特性&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;基于 Cloudflare Workers 运行时构建, 轻量使用完全免费&lt;/li&gt;
+&lt;li&gt;支持多种图床（目前只支持 Telegram/Cloudfalre R2/Backblaze B2 ）&lt;/li&gt;
+&lt;li&gt;快速部署。使用 Wrangler 可快速实现自部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;使用方式&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;解析字体文件的所有 unicode 及字形，可以通过快捷键将选中的字形以 svg 字符串的形式进行拷贝。可以一键导出选择的所有字形。&lt;/li&gt;
-&lt;li&gt;可以对字体文件进行过滤，只保留你需要的字符。&lt;/li&gt;
-&lt;li&gt;可以对字体文件的格式进行转换，可以在 ttf 、woff 、woff2 三种格式中互相转换。&lt;/li&gt;
-&lt;li&gt;可以快速获取字体文件的 base64 编码，仅仅需要点击一次按钮。&lt;/li&gt;
+&lt;li&gt;将图片通过私聊发送给 Bot, Bot 默认将只回复对应的 Telegram 图床链接&lt;/li&gt;
+&lt;li&gt;发送 /settings 指令，可以指定额外的图床，设置完成后，将图片通过私聊发送给 Bot, Bot 将回复你指定的额外图床链接&lt;/li&gt;
+&lt;li&gt;可使用 &lt;a href="https://t.me/img_mom_bot" rel="nofollow"&gt;https://t.me/img_mom_bot&lt;/a&gt; ， 进行在线体验 （注意：为了防止恶意使用，体验 Bot 只会返回 Telegram 图床链接）
+&lt;img alt="https://pic.otaku.ren/20240212/AQADQ7oxGx0pUVZ9.jpg" class="embedded_image" rel="noreferrer" src="https://pic.otaku.ren/20240212/AQADQ7oxGx0pUVZ9.jpg" /&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://github.com/leibnizli/fontmagic/assets/1193966/61587d8e-3643-475e-a96d-813ccb5a939c" /&gt;
-&lt;p&gt;&lt;a href="https://github.com/leibnizli/fontmagic" rel="nofollow"&gt;https://github.com/leibnizli/fontmagic&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 07:15:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015413#reply0</guid></item><item><title>[音乐] 如果你女朋友吃醋了-请给她播放这首歌曲</title><link>https://www.v2ex.com/t/1015412#reply3</link><description>听完她就不生气啦 ：）&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 07:14:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015412#reply3</guid></item><item><title>[分享创造] 快速建立共享图库，音视频库，文库的程序，而且非常简单</title><link>https://www.v2ex.com/t/1015411#reply0</link><description>&lt;p&gt;创建一个共享文件库只需三步&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第一步：新建库，支持 4 种类型的库&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9af1f7f5b2.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第二步：获取库的网络地址&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9bb07dc8f7.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;第三步：在手机或者电脑访问地址，就可以查看已经创建好的共享文件库了&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9af1fcdf39.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;简单介绍一下程序&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;PicHome 是一款开源图库程序，能够用于创建共享图库，音视频库，文档库的用途。PicHome 还提供了一些高级功能，例如单页，能够通过拖拽的方式建立类似门户首页，栏目首页推荐内容，创建说明介绍页，网址导航页等用途。通过栏目管理，可以把多个库，多个单页组织成为一个有结构化的站点。例如下图。这样我们就可以根据团队的业务需要例如创建灵感库，素材库，案例库，方案库，产品库，知识库，标准库等栏目，组织为一个完整的公司文件共享平台。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9b68c96b1c.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;支持大多常见文件类型&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;图片&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;.bmp,&lt;/em&gt;.gif,&lt;em&gt;.heic,&lt;/em&gt;.heif,&lt;em&gt;.hif,&lt;/em&gt;.icns,&lt;em&gt;.ico,&lt;/em&gt;.jpeg,&lt;em&gt;.jpg,&lt;/em&gt;.png,&lt;em&gt;.svg,&lt;/em&gt;.tif,&lt;em&gt;.tiff,&lt;/em&gt;.ttf,&lt;em&gt;.webp,&lt;/em&gt;.avif,&lt;em&gt;.base64,&lt;/em&gt;.jfif,&lt;em&gt;.insp,&lt;/em&gt;.jxl,&lt;em&gt;.jpe,&lt;/em&gt;.tga,&lt;em&gt;.psd,&lt;/em&gt;.ai,&lt;em&gt;.3fr,&lt;/em&gt;.arw,&lt;em&gt;.cr2,&lt;/em&gt;.cr3,&lt;em&gt;.crw,&lt;/em&gt;.dng,&lt;em&gt;.erf,&lt;/em&gt;.mrw,&lt;em&gt;.nef,&lt;/em&gt;.nrw,&lt;em&gt;.orf,&lt;/em&gt;.otf,&lt;em&gt;.pef,&lt;/em&gt;.raf,&lt;em&gt;.raw,&lt;/em&gt;.rw2,&lt;em&gt;.sr2,&lt;/em&gt;.srw,*.x3f&lt;/p&gt;
-&lt;p&gt;媒体&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;.m4v,&lt;/em&gt;.mp4,&lt;em&gt;.webm,&lt;/em&gt;.mov,&lt;em&gt;.aac,&lt;/em&gt;.flac,&lt;em&gt;.m4a,&lt;/em&gt;.mp3,&lt;em&gt;.ogg,&lt;/em&gt;.wav&lt;/p&gt;
-&lt;p&gt;文档&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;.pdf,&lt;/em&gt;.doc,&lt;em&gt;.docx,&lt;/em&gt;.rtf,&lt;em&gt;.odt,&lt;/em&gt;.txt,&lt;em&gt;.ppt,&lt;/em&gt;.pptx,&lt;em&gt;.pps,&lt;/em&gt;.ppsx,&lt;em&gt;.odp,&lt;/em&gt;.xls,&lt;em&gt;.xlsx,&lt;/em&gt;.ods,*.csv&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;PicHome 可以用于做什么&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;电商，游戏，设计，开发，企事业，学校，实验室，媒体，演艺机构等等类型的个人，团队，企业都可以用到。&lt;/p&gt;
-&lt;p&gt;1 、使用内置的网盘功能，当作网盘使用&lt;/p&gt;
-&lt;p&gt;2 、创建素材网站&lt;/p&gt;
-&lt;p&gt;3 、创建文件发布站&lt;/p&gt;
-&lt;p&gt;4 、实现 Eagle 素材库多端展示&lt;/p&gt;
-&lt;p&gt;5 、实现 Billfish 素材库多端展示&lt;/p&gt;
-&lt;p&gt;6 、实现普通文件夹多端展示&lt;/p&gt;
-&lt;p&gt;7 、建立企业知识库&lt;/p&gt;
-&lt;p&gt;8 、建立代理商，分销商，分公司产品资料共享平台&lt;/p&gt;
-&lt;p&gt;9 、建立商品素材，商品图共享平台&lt;/p&gt;
-&lt;p&gt;10 、建立企业图库平台&lt;/p&gt;
-&lt;p&gt;11 、建立团队灵感库&lt;/p&gt;
-&lt;p&gt;12 、建立团队标准库&lt;/p&gt;
-&lt;p&gt;......&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Github 地址：&lt;/strong&gt; &lt;a href="https://github.com/zyx0814/Pichome" rel="nofollow"&gt;https://github.com/zyx0814/Pichome&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;祝大家新年快乐，求 Stra &lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/02/12/65c9be5bcdad7.jpg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 06:45:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015411#reply0</guid></item><item><title>[问与答] 有懂茅台的老哥吗？求助</title><link>https://www.v2ex.com/t/1015410#reply9</link><description>在老家家里柜子翻到 93 年的五星茅台，大可能是真的，因为家里的长辈以前是局里的那种职业。&lt;br /&gt;我完全不喝酒，只知道茅台挺贵。&lt;br /&gt;&lt;br /&gt;1. 我要怎么鉴别真假呢？去哪鉴别靠谱？找谁靠谱呢？&lt;br /&gt;2. 这玩意儿大概值多少钱？</description><pubDate>Mon, 12 Feb 2024 06:39:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015410#reply9</guid></item><item><title>[分享发现] 给大家看看：开车不加塞的社会，是什么样子的</title><link>https://www.v2ex.com/t/1015409#reply9</link><description>靠左行驶的国家，右转车道已经排队那么长了，直行车道始终空着，无人插队&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Mon, 12 Feb 2024 06:38:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015409#reply9</guid></item><item><title>[分享创造] 卷了一个私密日记应用，集成了 OpenAI，自动给图片推荐 tag，送一年 Pro</title><link>https://www.v2ex.com/t/1015408#reply2</link><description>&lt;h3&gt;简单记，AI 支持的私密日记&lt;/h3&gt;
-&lt;p&gt;也可以作为本地博客，集成 openAI ，AppStore 搜索 “&lt;strong&gt;简单记 noteit&lt;/strong&gt;”  下载，趁着过年上线了。&lt;/p&gt;
-&lt;p&gt;纯本地，没有后端服务，Local first ，这样写点隐私性强的内容不用担心被其他人看到，也不用担心第三方关服务跑路&lt;/p&gt;
-&lt;p&gt;安装地址：&lt;a href="https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001" rel="nofollow"&gt;https://apps.apple.com/cn/app/%E7%AE%80%E5%8D%95%E8%AE%B0-noteit/id1659178001&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🎉拜年福利🎉：在订阅页使用兑换码「 OBLANK 」可兑换一年 VIP 权限
-也可以使用链接 &lt;a href="https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1659178001&amp;amp;code=OBLANK" rel="nofollow"&gt;https://apps.apple.com/redeem?ctx=offercodes&amp;amp;id=1659178001&amp;amp;code=OBLANK&lt;/a&gt; 兑换，订阅后若不想自动续费取消即可，仍然有一年的 VIP 权限&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/a3/cb/49a3cb25-b827-6efa-292c-e520530a8a04/4b45b894-db0e-43da-93e0-319b48f19605_1.png/460x0w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b6/1b/2a/b61b2aad-9e63-ffe5-3ec9-f6185ea70992/f585788b-9541-42ec-9ef6-de06fcc4ce25_4.png/460x0w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8d/8e/34/8d8e34e4-23e4-8324-235c-24a78f82754f/1e498244-6b88-4d5b-bffc-2549678e05f2_9.png/460x0w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/d4/f3/30d4f393-e34e-c83a-1b10-5f8b59104248/83d7e9a4-6457-40e8-93fe-144b6520a7fb_5.png/460x0w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a6/85/6d/a6856d03-8ca6-b584-8747-ef3e6b5234e8/8ae61709-0258-49cb-abee-deb5e56e2689_10.png/460x0w.webp" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/22/ba/8422ba49-1833-e945-65e3-f6378267b537/292ccde4-f03a-4bcf-80b1-568cbc600f80_3.png/460x0w.webp" /&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/15/cf/10/15cf1085-4fc7-c41c-37ed-3f5752e29ca5/081ec5f2-d049-49be-b75b-7c3dfac7393f_7.png/460x0w.webp" /&gt;&lt;/h2&gt;
-&lt;p&gt;简单记 - 智能日记，简单好用的日记应用，提供了智能标签（ SmartTag ）、智能写作（ SmartWriter ）功能，支持地图足迹、随手记账等功能，支持 Markdown 格式，随时记录日常生活中的所见所闻和内心的感悟与思考，所有数据本地存储，支持 iCloud 备份，确保您的数据安全可靠，而且随时随地都能访问。&lt;/p&gt;</description><pubDate>Mon, 12 Feb 2024 06:26:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015408#reply2</guid></item></channel></rss>
+&lt;h3&gt;待办项&lt;/h3&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox" /&gt; 英文文档&lt;/p&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox" /&gt; 项目 logo  &lt;/p&gt;
+&lt;p&gt;&lt;input disabled="" type="checkbox" /&gt; 更多图床  &lt;/p&gt;
+&lt;p&gt;代码已开源，Github 地址 &lt;a href="https://github.com/beilunyang/img-mom" rel="nofollow"&gt;https://github.com/beilunyang/img-mom&lt;/a&gt; ，欢迎各位 Fork, Star, Issue, PR&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 03:25:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015471#reply1</guid></item><item><title>[程序员] 各位手机应用商店里新年更新的第一个 app 是什么？</title><link>https://www.v2ex.com/t/1015470#reply4</link><description>&lt;p&gt;楼主用的小米手机，新年第一个更新的 app 是京东
+京东加班的兄弟们辛苦了。不知道是发了新功能，还是修复了会 crash 之类的 bug&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 03:08:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015470#reply4</guid></item><item><title>[OpenAI] 低价 gpt 中转 api 支持 gpt-4， gpt-4-all， gpt4-v 多模态， mj dalle3 文生图
+
+0.7 元 1 刀，官方同等计费，只要官方价格的十分之一, 注册就送 1 刀体验额度，先体验后付款</title><link>https://www.v2ex.com/t/1015469#reply0</link><description>&lt;p&gt;访问链接 &lt;a href="https://dzqc.link" rel="nofollow"&gt;https://dzqc.link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自建 gpt 中转 api ，国内网络稳定访问 支持 GPT 4.0 和 GPT 3.5-turbo mj 文生图等模型 支持多模态&lt;/p&gt;
+&lt;p&gt;注册即可获得 1$ 额度 充值 0.7 ￥ ＝ 1$ 额度 官方同等倍率，与官方扣费相同， 价格为 openai 官方 api 的十分之一&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-all 模型，内置各种插件，可以联网，生成图片，数据分析，文件分析，识图等，上传文件、图片直接发送带有文件后缀的直链即可&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-vision-preview 支持识图，图片直接发送带有文件后缀的直链即可&lt;/p&gt;
+&lt;p&gt;新增 gpt-4-0125-preview 、gpt-4-turbo-preview 官方最新模型&lt;/p&gt;
+&lt;p&gt;新增官方 dalle-3 绘画模型，价格为 0.1$/次，比 mj 更便宜&lt;/p&gt;
+&lt;p&gt;新增 gpt-3.5-turbo-1106 ，gpt-3.5-turbo-16k ，gpt-4-1106-preview, gpt-4-32k&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 02:58:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015469#reply0</guid></item><item><title>[程序员] minio 可以增加新的 node 吗？</title><link>https://www.v2ex.com/t/1015466#reply3</link><description>&lt;p&gt;各位 v 友，有玩过 minio 的吗？&lt;/p&gt;
+&lt;p&gt;有个问题想请教一下：minio 如果设置了 2 个 node 之后，过段时间，可以增加一个新的吗？&lt;/p&gt;
+&lt;p&gt;然后，如果三个 node 之间硬盘大小不一样，这个可以吗？&lt;/p&gt;
+&lt;p&gt;最后，可以为每个 node 单独设置一个 minio_data 目录最大的容量吗？比如我虽然有 500GB 硬盘，但我只想最大存 300GB ，可以吗&lt;/p&gt;
+&lt;p&gt;如果可以，能否给几个关键词，我去搜搜&lt;/p&gt;
+&lt;p&gt;新手，谢谢帮助&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 02:49:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015466#reply3</guid></item><item><title>[信息安全] 吐槽 G01，希望坑里的人数不多吧</title><link>https://www.v2ex.com/t/1015464#reply3</link><description>0x01 故事的背景：&lt;br /&gt; 20 年的时候，之前一直用安全狗旗下的防护软件，但后来由于偶尔连接不上控制中心或服务失效要手动重启，并且当时要求进行网安备案，在网安备案的页面中看到了个打着公 an 第 xxx 研究所出品的防护产品网防 G01 ，对比了下功能刚好足够平替，并且有公 An 做背书的，打着专为中小企定做的旗号....就直接替换掉了。&lt;br /&gt;&lt;br /&gt;0x02 故事经历：&lt;br /&gt; 使用至今，唯一缺陷就是资源占用比核心业务占用还要高，但是想想，老罗的那句话，又不是不能用，所以....&lt;br /&gt; &lt;br /&gt;0x03 风暴来临前的阳光：&lt;br /&gt;  年前突然收到云主机新的告警，IOPS 超出 3500 ，然后 3 分钟左右推送告警恢复，dog sun,这个业务机上的业务几年了都没怎么变更，是什么导致的呢..........&lt;br /&gt;  没办法，只能爬上去蹲点查看具体是哪个进程再虐待硬盘，此时就像盖伦一样躲在草丛中打开 IOTOP 查看，但看了半天啥都没有，只能灰溜溜地关闭，心想可能是误报。&lt;br /&gt;  次日，又是 12 点左右收到了告警，此时急不及待打开终端查找谜一样的答案，最终从业务日记翻到系统服务日记，无法精准定位问题，但发现可能和之前一个停了的业务有关(对方服务停了，域名下架了，但是我们这边还没下架该服务，导致日志出现一堆 域名解释失败)。当时心里百花齐放，真 tm 开心，以为找对了 G 点，捅一下就能解决问题了，遂马上把相关业务代码下架了，继续在草丛中狗了一天，还没收到任何告警，心里想着终于可以美美地过一个年了，然后就不当一回事。&lt;br /&gt;  &lt;br /&gt;0x04 风暴来临了： &lt;br /&gt; 年 30 喝多了，年初一还窝在被窝中，突然熟悉的陌生人发来了消息....IOPS 突发 3500........我内心一万只草泥马飞快地奔跑着，不过想想，之前不几十秒就恢复了，当监控给我的拜年信息好了，谁知道噩梦终究降临，收到现场业务信息，服务挂了不可用.....马上爬起来开电脑准备进入战场，刚连上 wifi 刷好牙洗好脸后收到了业务撤回信息......恍然发现老人常说的起床第一件事就是刷牙洗脸原来真实大智慧。但反正都开了电脑，就进去看看啥情况，不过这次也和之前一样，什么案发现场都没留下......&lt;br /&gt; &lt;br /&gt;0x05 这就完了？&lt;br /&gt; 年初三，由于手上任务比较多，还是选择回公司上班，顺带梳理下之前收集的信息，然后一个个服务爬一个个服务找，突然想到，有没有可能内存用完了走了 swap 导致的异常呢....&lt;br /&gt;查看了下，发现内存还有 400MB ，再查看内存占用大户,发现了 gov_defence_agent 占用了 45%以上的内存，再进一步设想，还是不设想了，直接爬进去查查 gov_defence_agent 相关日志吧....&lt;br /&gt;接着发现，通过 tail -f 查看目录下的文件，有一个文件分快的刷屏，其余文件 1 分钟写入几条信息，一看信息全是 域名解释失败或连接失败。&lt;br /&gt;如梦初醒般地我马上打开 G02 官网，发现打不开了，通过百度也只能查看到历史的说明，oh 对了，还有个 gitbook 的页面是能打开的，接着再打开网 an 备案的官网，发现中小企业安防...还在，点进去却是另一个产品..............&lt;br /&gt; 按还在的 gitbook 安装验证，telnet 几个服务用到的域名，全都失效。猜测大概率是 G01 下架了，换了另一个服务上。&lt;br /&gt; 诶~以后只要打着和 GOV 相关的东西，能不碰还是不碰了,说停就停也不出个提前通知。&lt;br /&gt; &lt;br /&gt; 给再用 G01 的伙伴们一个提醒吧，如果你的服务器装了 G01 ，并且时不时出现 IOPS 异常飚高或服务间接性无法使用，直接把 G01 停了，你会发现春天来了。</description><pubDate>Tue, 13 Feb 2024 02:06:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015464#reply3</guid></item><item><title>[问与答] 线下购买联想小新 16 被骗，该怎么维权？</title><link>https://www.v2ex.com/t/1015462#reply22</link><description>&lt;p&gt;小县城，线下店，非专卖，购买的是联想小新 16 ，配置是 16+512 i5-13420 集成显卡。&lt;/p&gt;
+&lt;p&gt;为什么说被骗？&lt;/p&gt;
+&lt;p&gt;1 电脑没有盒子，卖家说是刚拆出来不久，不需要盒子，也没开发票，而且电脑上还插着无线鼠标接收器，显然我自己是没有这个东西的&lt;/p&gt;
+&lt;p&gt;2 价格是 4200 ，我在网上就没有找到这一款电脑，联想官网更是没有，更好配置的小新 16 3699 也就拿下了。另外，也没看到小新 16 有这个 cpu 型号，但是在京东一些第三方店有看到在卖&lt;/p&gt;
+&lt;p&gt;3 用联想管家看了下服务的激活时间，电脑是 1.31 购买，服务应该也是这个时间激活才对，但是服务的激活时间是 2023.10.12 ，显然不对&lt;/p&gt;
+&lt;p&gt;基于上述描述推测，该电脑应该是用于向用户展示用的，出厂时就激活摆在柜面上，我购买时重新帮忙装了操作系统，忘记拔掉接收器。&lt;/p&gt;
+&lt;p&gt;当然文中的我不是作者本人，而是作者的侄女。&lt;/p&gt;
+&lt;p&gt;目前想到的维权方法有如下几点：&lt;/p&gt;
+&lt;p&gt;1 去到店里沟通，看看能否更换全新机器还是退款退货还是补差价&lt;/p&gt;
+&lt;p&gt;2 如果对方态度强硬耍赖不认账，那就 12315 ，工商管理局，报警走一波&lt;/p&gt;
+&lt;p&gt;对了，卖家还是我侄女她妈妈的同学。&lt;/p&gt;
+&lt;p&gt;想问下大家有啥好的建议吗，待会就要线下对战去了。&lt;/p&gt;</description><pubDate>Tue, 13 Feb 2024 00:42:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015462#reply22</guid></item><item><title>[iPhone] 静音模式下如何快速开关系统的振动呢？</title><link>https://www.v2ex.com/t/1015460#reply9</link><description>出门的时候习惯静音模式下开启震动收微信消息提示&lt;br /&gt;&lt;br /&gt;在家就只静音不需要震动了&lt;br /&gt;&lt;br /&gt;每次都要在感触里设置很麻烦</description><pubDate>Mon, 12 Feb 2024 23:48:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015460#reply9</guid></item></channel></rss>
