@@ -1,109 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 16 Feb 2024 07:25:13 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] cloudflare 怎么做到免费/低价提供高质量服务？</title><link>https://www.v2ex.com/t/1015855#reply6</link><description>&lt;a href="https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth" rel="nofollow noopener" target="_blank"&gt;https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;看完我仍然无法理解，cf 的毛利率有 70%？尽管免费的服务有诸多限制，但已经“遥遥领先”了。</description><pubDate>Fri, 16 Feb 2024 06:58:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015855#reply6</guid></item><item><title>[Android] 小米 14 和一加 12，选哪个？</title><link>https://www.v2ex.com/t/1015854#reply6</link><description>&lt;p&gt;很纠结，题主想要一台拍照尚可的手机，一加 12 主要是曲面屏和太重这两点不喜欢，小米 14 又怕续航不佳，V 友们给点意见？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 06:47:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015854#reply6</guid></item><item><title>[Docker] 把 docker 中的 debian 当虚拟机使用有什么潜在问题吗？</title><link>https://www.v2ex.com/t/1015852#reply0</link><description>&lt;p&gt;RouterOS v7 移除了 kvm 支持，只能用 Docker 了，想问问这么使用会有啥问题。&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 06:26:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015852#reply0</guid></item><item><title>[分享创造] [送码] [IOS 付费榜 92 名] 春节不打烊，功德加倍攒</title><link>https://www.v2ex.com/t/1015851#reply1</link><description>&lt;h1&gt;整体效果概览图&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="APP：电子木鱼 - 看得见的功德" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/60895319-49cf-47d8-9095-63c3fc015cc8.jpg" /&gt;&lt;/p&gt;
-&lt;h1&gt;船新玩法，换个姿势攒功德&lt;/h1&gt;
-&lt;h2&gt;竞品玩法&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 16 Feb 2024 12:53:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple TV] Apple TV 用 Quantumult X 可以用规则去除 tvOS 版本的 YouTube 广告吗？</title><link>https://www.v2ex.com/t/1015899#reply1</link><description>如果有的话能提供一下吗？</description><pubDate>Fri, 16 Feb 2024 11:52:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015899#reply1</guid></item><item><title>[Windows] Windows 有没有好用的看图软件</title><link>https://www.v2ex.com/t/1015898#reply2</link><description>一直用的 jpegview ，挺轻量的，速度也快，就是操作上有个地方不太习惯，滚轮是缩放图片，我习惯滚轮切换图片，好像也没办法改，求给推荐一个滚轮能切换图片的软件。</description><pubDate>Fri, 16 Feb 2024 11:49:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015898#reply2</guid></item><item><title>[微信] 为什么苹果不支持 iPhone 微信多账号登录？疑问探究！</title><link>https://www.v2ex.com/t/1015897#reply1</link><description>为什么苹果不支持 iPhone 微信多账号登录？疑问探究！&lt;br /&gt;&lt;a href="https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9744869697470161093%22%7D&amp;amp;n_type=-1&amp;amp;p_from=-1" rel="nofollow noopener" target="_blank"&gt;https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9744869697470161093%22%7D&amp;amp;n_type=-1&amp;amp;p_from=-1&lt;/a&gt;</description><pubDate>Fri, 16 Feb 2024 11:41:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015897#reply1</guid></item><item><title>[macOS] mac 短信转发能不能先短信过滤？</title><link>https://www.v2ex.com/t/1015896#reply4</link><description>&lt;p&gt;很多年前的朋友，在多个平台借钱还不上，紧急联系人填的我手机&lt;/p&gt;
+&lt;p&gt;每天 10 短信有 5 个是关于这兄弟的，换手机第一件事就是为这兄弟增加一个关键字&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 11:28:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015896#reply4</guid></item><item><title>[问与答] 请教要在小县城上线一个本地生活 app,法律和资质方面阻力有多大？</title><link>https://www.v2ex.com/t/1015895#reply10</link><description>&lt;p&gt;小县城人口只有 40 多万，想上线一个专注本地、有&lt;strong&gt;论坛&lt;/strong&gt;、集成社区服务的 app 压力有多大？
+本人法盲，不知道管制方面阻力如何？想知道这个想法有可行性吗？
+技术上 taro | flutter+nestjs?
+本人还未创业，想法上可能有参差，虚心请教各位。&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 11:25:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015895#reply10</guid></item><item><title>[Firefox] Firefox 122 刷新按钮消失是禁用 wasm 导致的吗？（多台设备， 100%复现）</title><link>https://www.v2ex.com/t/1015894#reply3</link><description>因为 wasm 多次出现安全问题，我的所有设备都禁用了 wasm 。（能直接在 flag 中禁用 wasm 也是我坚持使用伪装为 Edge 浏览器 UA 的 Firefox 的一大原因）&lt;br /&gt;从 Firefox 122 开始我的 Firefox 就出现了所有页面加载完后刷新按钮不会出现，始终显示停止按钮的问题（ F5 快捷键能用）&lt;br /&gt;122.0.1 没有修复&lt;br /&gt;不知道是和我禁用 wasm 还是其它设置相关，但几台设备共同设置好像只有都禁用了 wasm&lt;br /&gt;我现在不在国内，肯定不是墙的问题</description><pubDate>Fri, 16 Feb 2024 10:58:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015894#reply3</guid></item><item><title>[AirPods] AirPods 丢了，如何定期播放声音</title><link>https://www.v2ex.com/t/1015890#reply0</link><description>&lt;p&gt;找不回了，怎么自动播放声音骚扰？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 10:35:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015890#reply0</guid></item><item><title>[服务器] 有两台闲置的 1 核 1G 海外小服务器能干点什么？</title><link>https://www.v2ex.com/t/1015888#reply3</link><description>&lt;p&gt;有什么好玩的或者能赚点零钱的项目吗&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 10:21:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015888#reply3</guid></item><item><title>[商业模式] 如何学做生意？大佬们请指点一下 感谢感谢！</title><link>https://www.v2ex.com/t/1015887#reply4</link><description></description><pubDate>Fri, 16 Feb 2024 10:19:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015887#reply4</guid></item><item><title>[ WATCH] Apple Watch 上用 Spotify 遇到网络问题</title><link>https://www.v2ex.com/t/1015885#reply0</link><description>专辑歌单封面能加载出来但是拉取不了歌曲列表，想问问各位朋友有这个问题吗？</description><pubDate>Fri, 16 Feb 2024 10:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015885#reply0</guid></item><item><title>[Android] 大家喜欢用谷歌的快速分享吗</title><link>https://www.v2ex.com/t/1015884#reply4</link><description>&lt;p&gt;以前的附近分享，现在改名快速分享，平时用吗？我这里只能设置所有人才能分享，设置成你的设备就分享失败。而且不知道走的什么通道，分享速度也很慢，就 10M 左右，我用一加自己的分享能到 40 50M&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 10:02:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015884#reply4</guid></item><item><title>[宽带症候群] 使用 chrome 浏览器 SNI 伪装免代理上部分 GFW 被墙网站（更新规则文件和启动脚本）</title><link>https://www.v2ex.com/t/1015883#reply4</link><description>&lt;p&gt;转载 &lt;a href="https://www.pkuanvil.com/topic/755/" rel="nofollow"&gt;https://www.pkuanvil.com/topic/755/&lt;/a&gt; 和 &lt;a href="https://github.com/pkuanvil-uid1/GFWSNIRules" rel="nofollow"&gt;https://github.com/pkuanvil-uid1/GFWSNIRules&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载后新建一个文件夹解压启动 &lt;code&gt;&lt;a href="http://start.py" rel="nofollow"&gt;start.py&lt;/a&gt;&lt;/code&gt; 即可（需要手动修改里面 chrome 的文件路径）。第一次访问某个网站记得加上 &lt;code&gt;https://&lt;/code&gt; 前缀。&lt;/p&gt;
+&lt;p&gt;另外欢迎加入 PKU Anvil ！&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:52:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015883#reply4</guid></item><item><title>[问与答] 2024 年了，到底怎样才能实现 windows 电脑上的某个文件夹和阿里云盘的某个文件夹保持同步？</title><link>https://www.v2ex.com/t/1015882#reply4</link><description>&lt;p&gt;一直以为买了会员用阿里云盘的 [自动同步文件夹] 功能，就能：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;过于简单：都是敲敲，然后设置里换换木鱼样式、音色等&lt;/li&gt;
+&lt;li&gt;把 windows 电脑上的文件自动上传到阿里云盘；&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;删除电脑本地的文件时，阿里云盘上也会同步删除&lt;/strong&gt;。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;本 APP 玩法&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;功德上云：敲击之后，会将所积攒的功德上传至 fo 祖云端
-&lt;img alt="功德上云：敲击之后，会将所积攒的功德上传至 fo 祖云端" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/3ab4911c-cb94-4e3d-8765-fb336e3f4817.png" /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;功德可视化：每日功德、3D 功德地球仪、功德排行榜，一目了然
-&lt;img alt="功德可视化：每日功德、3D 功德地球仪、功德排行榜，一目了然" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/04f859c4-0561-402b-8650-0a992a76a7c1.jpg" /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt="功德可视化：每日功德、3D 功德地球仪、功德排行榜，一目了然" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/ed6b695b-8235-4ba1-a648-dee3fba4a701.png" /&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;功德菩提树：可通过花费功德，与亲朋好友一起种下菩提树，共同积德，共同采摘菩提树生长出来的功德果实
-&lt;img alt="功德菩提树：可通过花费功德，与亲朋好友一起种下菩提树，共同积德，共同采摘菩提树生长出来的功德果实" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/797ab99e-46b2-4c5e-ac5d-1e9ea03a4173.jpg" /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;强大的卡片系统：您可以使用卡片，来增加自己的功德积攒速度，甚至可以通过卡片取窃取好友的功德&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;完备的勋章系统：您可以通过完成一些特定的任务，来获得勋章，勋章是一种功德积攒路上的永久认可
-&lt;img alt="完备的勋章系统：您可以通过完成一些特定的任务，来获得勋章，勋章是一种功德积攒路上的永久认可" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/bb11037b-fdd8-4ee3-8711-1074db354924.jpg" /&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;未来规划&lt;/h1&gt;
-&lt;h2&gt;数据可视化：功德往来图&lt;/h2&gt;
-&lt;p&gt;在 1 个名为 [现实] 的元宇宙中，每个人都是一个节点，我们靠着人情往来维系着彼此的关系，而在在 1 个名为 [电子木鱼 - 看得见的功德] 的功德元宇宙中，我们可以通过数据可视化的方式，展示出每个人之间的功德往来图，让人们看到自己的功德是如何在这个世界中流动的。&lt;/p&gt;
-&lt;h2&gt;功德 du 桌&lt;/h2&gt;
-&lt;p&gt;上量子 du 桌，享孤注一掷。
-&lt;img alt="上量子 du 桌，享孤注一掷。" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/fdaf10cb-0f34-4408-9425-a5498ed12e2a.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="上量子 du 桌，享孤注一掷。" class="embedded_image" rel="noreferrer" src="https://files.mdnice.com/user/6999/bf76d7c6-b5cf-407e-a333-87e2e93c9764.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;季度、年度、任意时间段的功德报告&lt;/h2&gt;
-&lt;p&gt;一般来说，普通 APP 只有年度报告，而我们可以提供季度、年度、任意时间段的功德报告，让用户可以更加清晰的了解自己在各个时间段的功德积累情况等。&lt;/p&gt;
-&lt;h1&gt;送激活码&lt;/h1&gt;
-&lt;p&gt;933W6M4Y3PLM&lt;/p&gt;
-&lt;p&gt;WR6KM6KNJRNJ&lt;/p&gt;
-&lt;p&gt;RKF6L6H9YRME&lt;/p&gt;
-&lt;p&gt;AJETXHFMYWA3&lt;/p&gt;
-&lt;p&gt;R4AXNH676MEL&lt;/p&gt;
-&lt;p&gt;RR67ME3J9R74&lt;/p&gt;
-&lt;p&gt;FR4T6PLYW9W4&lt;/p&gt;
-&lt;p&gt;M6AJMFX67636&lt;/p&gt;
-&lt;p&gt;FWJ63YARHHLN&lt;/p&gt;
-&lt;p&gt;FR3NHLWRH9KT&lt;/p&gt;
-&lt;p&gt;E3HPNX3H3JNN&lt;/p&gt;
-&lt;p&gt;9967X3LKJEFH&lt;/p&gt;
-&lt;p&gt;NPN43EFRH6XN&lt;/p&gt;
-&lt;p&gt;4LN3JAL6LWEM&lt;/p&gt;
-&lt;p&gt;76MXR6KA996K&lt;/p&gt;
-&lt;p&gt;JWMHRFFNT6HJ&lt;/p&gt;
-&lt;p&gt;YANNFETFR939&lt;/p&gt;
-&lt;p&gt;7A3KE36NTKXP&lt;/p&gt;
-&lt;p&gt;WE9RXLTYH9MF&lt;/p&gt;
-&lt;p&gt;NXE9L6P6YFPR&lt;/p&gt;
-&lt;p&gt;NL7WX3AT4RPA&lt;/p&gt;
-&lt;p&gt;顺祝大家早日功德圆满~&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 06:11:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015851#reply1</guid></item><item><title>[分享创造] 推荐一个免费移除图片背景服务的站</title><link>https://www.v2ex.com/t/1015850#reply0</link><description>&lt;p&gt;发现一个网站，已接入 RMBG-1.4 实现移除图片背景的功能，用户上传一张图片，即可自动移除背景。尝试使用后感觉还可以。
-有了这个功能，大家可以轻松地给照片换个好看的背景，或者把背景去掉，让照片更特别。大家可以把自己的照片去个背景，再加点好玩的元素，发在社交媒体上，肯定能收获好多赞！
-实际上，这个功能能用的地方多了去了，就看你怎么发挥创意啦&lt;/p&gt;
-&lt;p&gt;欢迎体验： &lt;a href="https://remove.cand.top/" rel="nofollow"&gt;https://remove.cand.top/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 06:05:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015850#reply0</guid></item><item><title>[Apple TV] apple tv 上的 youtube kids 进入界面没有内容</title><link>https://www.v2ex.com/t/1015849#reply0</link><description>&lt;p&gt;apple tv 打开 youtube 都是正常，手机可以打开 youtube kids ，我是使用域名国内外分流，ip 请求直连的分流方式，想问下 apple tv 上的 youtube kids ，是否也像 netflix 也是直接 ip 请求？网上也没有单独为 youtube kids 的分流规则，请教各位解答下如何在 apple tv 正常使用 youtube kids 。&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 05:58:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015849#reply0</guid></item><item><title>[分享创造] 和小伙伴们一起撸了半年，三个关于 AI 绘画的 app 终于全部上线，在此欢迎大家不吝指教，实在是万分感激！</title><link>https://www.v2ex.com/t/1015848#reply3</link><description>&lt;p&gt;最近和伙伴一起奋斗了几个月，三个 AI 绘画的 App 终于上线啦！&lt;/p&gt;
-&lt;p&gt;Graphix AI 是一款集成了文生图、图生图、局部重绘、换脸、换背景、擦除照片多余元素、照片增强、照片扩展、照片与背景融合九大核心功能，AI 驱动，欢迎体验和指正啊！&lt;/p&gt;
-&lt;p&gt;Style Me 是一款基于人像高保真度的图生图应用，只需要一张大头照，就可以根据指令生成无数种风格的写真照片，没有复杂的操作，只需要点点按钮，如需更高级的功能，可以调节人像相似度、IP 强度、输入提示词等进一步操作。&lt;/p&gt;
-&lt;p&gt;Speed AI 是一款专门用于照片二次编辑的 App ，内设艺术、照片、动画三大模型库，可以把照片原图通过 AI 实现二次编辑。&lt;/p&gt;
-&lt;p&gt;产品还有点粗糙，目前均已上架 Google Play 和 App Store ，真挚的希望 V 站各位大佬们给予使用建议和改进意见哦。三款 App 均可以无限制试用。&lt;/p&gt;
-&lt;p&gt;Graphix AI 下载链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/graphix-ai-make-edit-photos/id6475195409" rel="nofollow"&gt;https://apps.apple.com/us/app/graphix-ai-make-edit-photos/id6475195409&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.ligan.graphixai" rel="nofollow"&gt;https://play.google.com/store/apps/details?id=com.ligan.graphixai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Style Me 下载链接：国区 iOS 备案还没下来，暂未上国区。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.ligan.styleme" rel="nofollow"&gt;https://play.google.com/store/apps/details?id=com.ligan.styleme&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://apps.apple.com/us/app/style-me-ai-create-cover-photo/id6477325115?platform=ipad" rel="nofollow"&gt;https://apps.apple.com/us/app/style-me-ai-create-cover-photo/id6477325115?platform=ipad&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Speed AI 下载链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.ligan.speedai" rel="nofollow"&gt;https://play.google.com/store/apps/details?id=com.ligan.speedai&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 05:49:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015848#reply3</guid></item><item><title>[数学] 求助估算队列剩余处理时间的问题</title><link>https://www.v2ex.com/t/1015847#reply0</link><description>假设我现在有一个任务处理系统，有若干个任务队列，&lt;br /&gt;1.每个队列都有自己的权重，处理任务时（假设为单线程）会按照队列权重随机抽取一个队列（然后处理一条被抽取到的队列的任务，注意，是处理一条而不是直接处理完被抽到的整个队列）&lt;br /&gt;2.有的队列任务数很少，没有任务后不参与抽取。&lt;br /&gt;3.已知每个队列的权重、任务数。&lt;br /&gt;4.假设每条任务处理时间固定。&lt;br /&gt;有算法能估算出特定队列的预计处理时间吗。&lt;br /&gt;我数学不好实在是想不出什么好的计算方法</description><pubDate>Fri, 16 Feb 2024 05:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015847#reply0</guid></item><item><title>[问与答] 有老哥有空愿意写个油猴脚本吗（付费）</title><link>https://www.v2ex.com/t/1015845#reply0</link><description>&lt;a href="https://sol-incinerator.com/#/" rel="nofollow noopener" target="_blank"&gt;https://sol-incinerator.com/#/&lt;/a&gt;   连接钱包，自动选择 token ，然后点击 全选（因为他这个全选按钮不能用所以才想用油猴，有其他方式推荐也欢迎） &lt;a href="https://i.imgur.com/Wz7idpH.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Wz7idpH.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;TG:&lt;a href="https://t.me/solixxo" rel="nofollow noopener" target="_blank"&gt;https://t.me/solixxo&lt;/a&gt;</description><pubDate>Fri, 16 Feb 2024 05:31:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015845#reply0</guid></item><item><title>[问与答] 装修有什么要注意的吗？</title><link>https://www.v2ex.com/t/1015844#reply4</link><description>&lt;p&gt;准备要联系那种设计装修一体公司负责，但设计上还是要自己参与。&lt;/p&gt;
-&lt;p&gt;对装修一点知识都没有，有什么要注意的吗？或有什么学习材料推荐的么？自己看了一些视频，但感觉都零零碎碎的，没有自己的想法。&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 05:18:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015844#reply4</guid></item><item><title>[问与答] mac 下哪个 app 能以仪表盘的形式显示 cpu/内存/gpu 使用等信息？</title><link>https://www.v2ex.com/t/1015843#reply0</link><description>不是 menu bar, 想以窗口仪表盘的形式显示。</description><pubDate>Fri, 16 Feb 2024 05:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015843#reply0</guid></item><item><title>[程序员] OpenAI 的文本生成视频 Sora 上线了，你做了什么没有</title><link>https://www.v2ex.com/t/1015842#reply12</link><description>新闻估计大家已经看到了，不在复述。&lt;br /&gt;&lt;br /&gt;我想问问大家，你们做了什么没有？&lt;br /&gt;&lt;br /&gt;我自己先来，注册了个域名，准备利用 sora 的 api 做视频生成&lt;br /&gt;&lt;br /&gt;&lt;a href="https://videosora.app" rel="nofollow noopener" target="_blank"&gt;https://videosora.app&lt;/a&gt; 暗暗开心中</description><pubDate>Fri, 16 Feb 2024 05:00:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015842#reply12</guid></item><item><title>[程序员] 2024 过年返乡记</title><link>https://www.v2ex.com/t/1015841#reply8</link><description>似乎每年都会有这些文章出现，但是今年应该不太容易出了。每个点写出来，或许就 404 了。&lt;br /&gt;家里有的亲戚，在 2023 生意不好做，有的在外工作面临 35 的职业瓶颈，炒股失意等等。&lt;br /&gt;2024 年预期相对比较悲观。&lt;br /&gt;对于工作外的收入其实没啥头绪的。独立开发对我完全不现实，不如卷去 YouTube 做视频。&lt;br /&gt;有时候挺焦虑的，似乎也没什么办法，挺无力的。&lt;br /&gt;不知道大家在 2024 过年有什么感受和见闻。</description><pubDate>Fri, 16 Feb 2024 04:59:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015841#reply8</guid></item><item><title>[问与答] 家里办的电信宽带必须绑定手机号，而且不能包年，一个月 129 才 300m 有办法解决吗？</title><link>https://www.v2ex.com/t/1015840#reply9</link><description>&lt;p&gt;坐标河北廊坊燕郊
-打电话给电信的客服，他们都说不管，说是各地方有各地方的政策。
-一开始办的时候是 79 元/月 倒是没觉得有什么问题 去年年底开始 129 元/月
-而且手机号我也从来不用&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 04:57:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015840#reply9</guid></item><item><title>[成都] 求推荐户外运动和活动</title><link>https://www.v2ex.com/t/1015839#reply0</link><description>&lt;p&gt;最近视力又下降了...&lt;br /&gt;
-反思了一下自己的爱好基本都是室内的（打游戏画画羽毛球）&lt;br /&gt;
-想问一下大家在户外都做什么活动呢？&lt;br /&gt;
-能多列一点是最好的&lt;br /&gt;
-散步的话大家怎么打发时间？如果只是单纯的散步我估计很难坚持....&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 04:53:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015839#reply0</guid></item><item><title>[程序员] 最近是发生了什么事情了么？自建的服务器又不能工作了？</title><link>https://www.v2ex.com/t/1015836#reply3</link><description>&lt;p&gt;在 windows azure 上面建了三台虚拟机，香港，日本 和 美国，用的 vless &amp;amp; vmess&lt;/p&gt;
-&lt;p&gt;节前的时候，突然发现日本的节点不能使用了。本来还以为是服务器出了问题，重启机器后，还是不行。过节比较忙，就没有仔细研究。&lt;/p&gt;
-&lt;p&gt;结果，今天使用，发现香港和美国的节点，也不工作了。&lt;/p&gt;
-&lt;p&gt;这是发生了什么大事，把服务器都给墙了么？&lt;/p&gt;
-&lt;p&gt;实在不行，打算重新创建虚拟机，大家有没有推荐的一键脚本啥的，能够比较快速的搭建起来？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 04:27:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015836#reply3</guid></item><item><title>[宽带症候群] 尝试用 Zerotier 桥接两个 LAN 失败</title><link>https://www.v2ex.com/t/1015835#reply1</link><description>&lt;p&gt;情况是这样的：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;结果才发现是只是单向上传啊！！！&lt;/strong&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://imgur.com/a/opC4fpZ" rel="nofollow"&gt;https://imgur.com/a/opC4fpZ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一个劲儿往云盘里塞东西而不减，我说我怎么空间越用越少，客户端天天可劲儿提醒我升级空间。
+看着云盘里一堆以前不想要的文件，和现在想要的文件混在一起，整理起来头大！
+&lt;a href="https://www.alipan.com/drive/membership" rel="nofollow"&gt;https://www.alipan.com/drive/membership&lt;/a&gt;
+&lt;a href="https://imgur.com/a/wIsmidC" rel="nofollow"&gt;https://imgur.com/a/wIsmidC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;那么，现在有啥办法实现 windows 电脑上的某个文件夹和阿里云盘的某个文件夹保持&lt;strong&gt;双向同步&lt;/strong&gt;？&lt;/p&gt;
+&lt;p&gt;已经尝试&lt;a href="https://github.com/trueai-org/MDriveSync" rel="nofollow"&gt;MDriveSync&lt;/a&gt;，虽然它名义上说能双向，但实测并不能，没效果。
+&lt;a href="https://imgur.com/a/tCSPGVR" rel="nofollow"&gt;https://imgur.com/a/tCSPGVR&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:50:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015882#reply4</guid></item><item><title>[酷工作] #Hiring #Japan #React #Visa Sponsorship(簽證贊助）</title><link>https://www.v2ex.com/t/1015881#reply0</link><description>🔔 We're a vibrant and ambitious company driven by the electrifying synergy of gaming, blockchain, and cryptocurrency. We eat, sleep, and breathe pixels and private keys, and our hearts beat to the rhythm of both joystick jiggles and blockchain bounces.&lt;br /&gt;&lt;br /&gt;🔔 We're not just playing games, we're making them, and in the process, we're redefining what it means to have fun in the digital era. our playground is as vast as our ambitions, stretching from the bright lights of the USA to the historic landscapes of Europe, from our home turf in Japan to the bustling cities of Southeast Asia, and beyond.&lt;br /&gt;&lt;br /&gt;🔔 Our workspace is a sandbox designed to spark your creativity and fuel your personal growth. Our mantra? Flexibility, adaptability, and collaboration. In essence, it's a way of life. It's about embracing challenges, celebrating wins, and reimagining what's possible in the world of gaming. We’re on an extraordinary journey, and we're looking for extraordinary people to join us. 🗣 Are you ready to Advance Beyond Ambition? Game on! 🗣&lt;br /&gt;&lt;br /&gt;Position :React 前端  Location : Japan Salary: 5000~9000USDT&lt;br /&gt;&lt;br /&gt;职位描述:&lt;br /&gt;1.在工作中具有主动性，具备快速开发效率，并勇于承担任务，具备团队合作&lt;br /&gt;精神。&lt;br /&gt;3.精通 HTML5 、CSS3 ，JavaScript 等前端技术，熟悉常用资料结构、演算法、&lt;br /&gt;设计模式，具有良好的编码风格。&lt;br /&gt;4.精通 React 主流开发框架，深入了解 React UI 渲染框架的底层机制。。&lt;br /&gt;5.熟悉基本的电脑网路概念，熟悉 HTTP/HTTPS 协定及其他 Web 标准规范。&lt;br /&gt;6.对 web 前端的效能优化以及 web 常见漏洞有一定的理解和相关实践。&lt;br /&gt;7.较强的逻辑思维能力，较高的学习意愿与自驱力，英语良好者优先，抗压性&lt;br /&gt;高，愿意一起开创，一起收获未来。&lt;br /&gt;8.有独当一面的开发能力，带领团队能力; 过去的专案请提前分享。&lt;br /&gt;9.在以下任一领域的掌控力并有实践经验&lt;br /&gt;a.精通服务器端 NodeJS 框架开发和服务器端渲染。&lt;br /&gt;b.开发工具包以提高前端开发效率和质量，对 esbuild 、Webpack 、Parcel 、Vite 等有深入了解。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1. 有 5 年以上经验。计算机科学或 IT 相关专业的文凭&lt;br /&gt;2. 须提供相关作品供参考。&lt;br /&gt;3. 必须能中文流利沟通，英语流利加分。&lt;br /&gt;&lt;br /&gt;加分项：&lt;br /&gt;1 、您活跃的 Github/NPM 组合&lt;br /&gt;2 、一些流行开源项目的核心开发人员。&lt;br /&gt;3 、了解几种流行的前端框架或库的每一行。&lt;br /&gt;4 、了解并使用过多种编程语言&lt;br /&gt;&lt;br /&gt;Why Join Us ⁉️ ●We offer a competitive salary, commensurate with qualifications and experience. ●With our passion in gaming, we continue to grow and offering tremendous career opportunities! ●We are an international company made up of people from various backgrounds and nationalities! ●We are a super-fast growing company in a competitive and ever-changing industry. ●And above all, we are passionate about what we are building altogether! ●We are aiming to spread to more than 30 countries this year!&lt;br /&gt;&lt;br /&gt;🎬 Recruitment Process: You will be contacted by our team within 72 hours of your application. Our recruitment process takes a maximum of 7 days from the first interview and you will be notified in case of success or failure.&lt;br /&gt;&lt;br /&gt;📫 Please send your resume to drop me a message for more information or add&lt;br /&gt; Telegram: &lt;a href="https://t.me/SamHanHR" rel="nofollow noopener" target="_blank"&gt;https://t.me/SamHanHR&lt;/a&gt; email: han589chu@outlook.com  Thank you! 😃</description><pubDate>Fri, 16 Feb 2024 09:42:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015881#reply0</guid></item><item><title>[问与答] bob 翻译的帮助网站用什么做的</title><link>https://www.v2ex.com/t/1015880#reply4</link><description>&lt;a href="https://bobtranslate.com/service/translate/ali.html" rel="nofollow noopener" target="_blank"&gt;https://bobtranslate.com/service/translate/ali.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;请问一下各位，bob 的这个网站是用那个工具做的，我也想找一个类似的工具，给公司的文档使用。</description><pubDate>Fri, 16 Feb 2024 09:39:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015880#reply4</guid></item><item><title>[问与答] 有让你感觉 awesome 的，关于 AI（行业/产品）的，优质 信息聚合平台 或 自媒体账号 吗？大佬们推荐推荐。</title><link>https://www.v2ex.com/t/1015879#reply0</link><description>&lt;p&gt;订阅者认可度高、更新速度快的 AI （行业/产品） 相关信息（新闻）的：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;家里的主网，软路由 OP ，网段 192.168.100.0/24&lt;/li&gt;
-&lt;li&gt;办公室 win10 主机及其 hyperV 的多台虚机&lt;/li&gt;
-&lt;li&gt;继续虚一个 OpenWRT 构建子网串联主机及其多台虚机，构建子网，网段可以放在 192.168.101.0/24 或者 192.168.100.0/23 ，关闭 DHCP&lt;/li&gt;
-&lt;li&gt;OP 都上 zerotier 插件，接口设备桥接进 br-lan ，并且配置 Allow Bridging 以及其他必要的配置，关闭 ZT 的 DHCP&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;结果是，只能做到主网 OP 的 ZT 以二层桥接内外网实现直接交换数据包，而子 OP 的 ZT 本体接入没问题但子网设备最多实现 NAT 转换后接入而不能同样以二层桥接的方式互通到主网。&lt;/p&gt;
-&lt;p&gt;企图实现的目标很简单，通过 OP 构建的两个网，在网段等基本配置上实现一致的基础上，通过 ZT 做到桥接，把两个网并成一个大网。&lt;/p&gt;
-&lt;p&gt;搜了一搜，中文世界基本没有答案，英文世界里犄角旮旯里提到了关闭主网 DHCP （ ZT 配置流量控制丢弃 UDP67UDP68 ）流量，但好像并没有生效，然后还有官网说明里的 FAQ 第一条 &lt;a href="https://docs.zerotier.com/bridging/" rel="nofollow"&gt;https://docs.zerotier.com/bridging/&lt;/a&gt; ，但也没啥效果。也有说做不到的 &lt;a href="https://discuss.zerotier.com/t/joining-two-zerotier-networks/14692" rel="nofollow"&gt;https://discuss.zerotier.com/t/joining-two-zerotier-networks/14692&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;所以能么？怎么搞？哪里需要什么小技巧？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 04:23:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015835#reply1</guid></item><item><title>[问与答] 家用台式即热净水机 V 友有推荐的嘛</title><link>https://www.v2ex.com/t/1015833#reply6</link><description>&lt;p&gt;这是我目前的一些想法（可能有误，欢迎纠正）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;碧云泉：知乎软广太多，怕是坑&lt;/li&gt;
-&lt;li&gt;西屋：据说质量一般&lt;/li&gt;
-&lt;li&gt;飞利浦：贴牌&lt;/li&gt;
-&lt;li&gt;美的、海尔等：国内大品牌，但不懂净水器做的如何&lt;/li&gt;
-&lt;li&gt;小米：滤芯坑爹&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 16 Feb 2024 04:16:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015833#reply6</guid></item><item><title>[Apple TV] 出 apple tv 最新款 128G</title><link>https://www.v2ex.com/t/1015832#reply2</link><description>今天在香港办汇丰卡、顺带带了两个 apple tv&lt;br /&gt;&lt;br /&gt; [闲鱼]  &lt;a href="https://m.tb.cn/h.5G9eXy2?tk=Yq8OW9wTECX" rel="nofollow noopener" target="_blank"&gt;https://m.tb.cn/h.5G9eXy2?tk=Yq8OW9wTECX&lt;/a&gt; CZ0012 「我在闲鱼发布了 [ apple tv 4k 最新款 128G ] 」&lt;br /&gt;点击链接直接打开</description><pubDate>Fri, 16 Feb 2024 04:13:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015832#reply2</guid></item><item><title>[汽车] 坐在理想 L9 后排 为什么会感觉那么飘 还晕车了 是车的问题 还是人的问题</title><link>https://www.v2ex.com/t/1015831#reply5</link><description></description><pubDate>Fri, 16 Feb 2024 04:12:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015831#reply5</guid></item></channel></rss>
+&lt;li&gt;聚合平台（网站）&lt;/li&gt;
+&lt;li&gt;Telegram 频道 / 群组&lt;/li&gt;
+&lt;li&gt;Youtube 、Bilibili 、X(Twitter) 博主&lt;/li&gt;
+&lt;li&gt;微信公众号&lt;/li&gt;
+&lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 16 Feb 2024 09:34:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015879#reply0</guid></item><item><title>[生活] 汇总一下前一年的情况，不太如意！</title><link>https://www.v2ex.com/t/1015878#reply8</link><description>&lt;p&gt;做了几个外包单子：教育的、商城社交的。&lt;/p&gt;
+&lt;p&gt;独立开发了几个产品：相亲交友、企业信息、预约定制。&lt;/p&gt;
+&lt;p&gt;感觉太难，哈哈。&lt;/p&gt;
+&lt;p&gt;我以前目标一直在 to b 那边。&lt;/p&gt;
+&lt;p&gt;前一年打算做很多 to b 的活。&lt;/p&gt;
+&lt;p&gt;比如什么商城啦、工单小程序啦、相亲啦，起来吧啦搞的东西不少。&lt;/p&gt;
+&lt;p&gt;如下，这就是之前整理的 to b 小程序相关的业务。&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;忙活一年，搞不到多少钱。&lt;/p&gt;
+&lt;p&gt;最痛的一个点就是：感觉 to b 的业务真的不太好叫的上价。&lt;/p&gt;
+&lt;p&gt;毕竟 to b 业务很多客户确实不太能够运营好。&lt;/p&gt;
+&lt;p&gt;现在是互联网尾场了。&lt;/p&gt;
+&lt;p&gt;很多客户跑来咨询，一上来就问价格。&lt;/p&gt;
+&lt;p&gt;“做这个东西要花多少钱，我不着急，几千块能搞不？”&lt;/p&gt;
+&lt;p&gt;还很多客户都看了我有一些案例就跑来找。&lt;/p&gt;
+&lt;p&gt;我给他嘎嘎一段分析业务，分享功能，最后报价，完犊子，人没了！！！&lt;/p&gt;
+&lt;p&gt;真的是，哎！&lt;/p&gt;
+&lt;p&gt;还有另外一个怪现象，就是我之前定价范围都是 1w 内的。&lt;/p&gt;
+&lt;p&gt;而且是 1w 内的定制开发。&lt;/p&gt;
+&lt;p&gt;很多同行，很清楚，这个价格意味着什么：&lt;/p&gt;
+&lt;p&gt;地板价，都低到地府了！&lt;/p&gt;
+&lt;p&gt;这个时候，很多客户被吸引过来。&lt;/p&gt;
+&lt;p&gt;但是这种客户我把他叫做中介客户。&lt;/p&gt;
+&lt;p&gt;也就是这种客户是一个中间人。&lt;/p&gt;
+&lt;p&gt;他们承包了甲方的业务，然后转包，图便宜，才找到了我们。&lt;/p&gt;
+&lt;p&gt;我映像很深刻有一个单子我亏了几百块。&lt;/p&gt;
+&lt;p&gt;这个客户找到我，我找一个朋友合作开发。&lt;/p&gt;
+&lt;p&gt;这个朋友是有现成的模板，需要在这个模板上修改点东西。&lt;/p&gt;
+&lt;p&gt;朋友和我报价 3k 。&lt;/p&gt;
+&lt;p&gt;客户答应了，很爽快。&lt;/p&gt;
+&lt;p&gt;后面我朋友就崩了，不清楚客户要求高。&lt;/p&gt;
+&lt;p&gt;功能改了几天加班死活搞不粗来！&lt;/p&gt;
+&lt;p&gt;2 星期的活，延期到 1 个月，还搞不定！&lt;/p&gt;
+&lt;p&gt;而且客户外行，沟通需求不清楚。&lt;/p&gt;
+&lt;p&gt;搞得我们炸了。&lt;/p&gt;
+&lt;p&gt;后面我直接给客户退钱，亏了一些！&lt;/p&gt;
+&lt;p&gt;我找另外的同行朋友打听才知道，这种类型的定制开发小程序。&lt;/p&gt;
+&lt;p&gt;要一个上万，不是问题。&lt;/p&gt;
+&lt;p&gt;可是我很傻，只是懂按照成本报价，而不是按照市场价值！&lt;/p&gt;
+&lt;p&gt;这大概也是很多程序员朋友的通病！&lt;/p&gt;
+&lt;p&gt;痛啊！！！&lt;/p&gt;
+&lt;p&gt;都怪我们不懂行情。&lt;/p&gt;
+&lt;p&gt;因为报的价格太低，导致我们安排不出时间来做。&lt;/p&gt;
+&lt;p&gt;毕竟全职没办法玩这个事情。&lt;/p&gt;
+&lt;p&gt;最后崩盘，我们都有大部分责任！&lt;/p&gt;
+&lt;p&gt;所以，哈哈，买了一个教训。&lt;/p&gt;
+&lt;p&gt;新年要有新的展望，关于产品，开发，我要学习的东西还有很多。&lt;/p&gt;
+&lt;p&gt;图片&lt;/p&gt;
+&lt;p&gt;这几个产品不太成熟，算是去年努力搞一个段落的成果。&lt;/p&gt;
+&lt;p&gt;接下来要对我的决策错误负责，在开发之前，先学会去分享市场，不要盲目的做 to b ，或者是 saas 业务。&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:30:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015878#reply8</guid></item><item><title>[问与答] 谁能给讲讲个体户、工作室、独资企业、一人有限公司和有限公司？</title><link>https://www.v2ex.com/t/1015877#reply4</link><description>&lt;p&gt;从股权投资、夫妻共有财产和家族资产传承的角度，应该怎么搭配使用？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:19:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015877#reply4</guid></item><item><title>[程序员] 在 VB 中，如何将一个命令的返回值作为另一个命令的参数？</title><link>https://www.v2ex.com/t/1015876#reply1</link><description>&lt;p&gt;在工作中需要使用连接到一台设备上进行一些操作，&lt;/p&gt;
+&lt;p&gt;大致分为以下几步：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;netsh interface ip set address name="XXXXX" source=static addr=X.X.X.X mask=X.X.X.X&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ssh &lt;a href="mailto:username@x.x.x.x"&gt;username@x.x.x.x&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;xxxxxxx(密码)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;cat /xxx/xxxxx/xxx.conf&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在第四部会返回一个字符串（例如：lisi ）,然后将该字符串作为第五步的参数：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;export lisi&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;每次都得一步一步输入，感觉挺麻烦的，所以想要写成一个脚本，前几部可以使用 vb 来实现：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Dim WshShell
+Set WshShell=WScript.CreateObject("WScript.Shell")
+WshShell.Run "cmd.exe"
+WScript.Sleep 1500 
+WshShell.SendKeys "netsh interface ip set address name='XXXXX' source=static addr=X.X.X.X mask=X.X.X.X"
+WScript.Sleep 1500
+WshShell.SendKeys "ssh username@x.x.x.x"
+WshShell.SendKeys "{ENTER}"
+WScript.Sleep 1500
+WshShell.SendKeys "xxxxxxx"
+WshShell.SendKeys "{ENTER}"
+WScript.Sleep 1500
+WshShell.SendKeys "cat /xxx/xxxxx/xxx.conf"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;该如何接收第四步的返回值作为第五步的参数呢？&lt;/p&gt;
+&lt;p&gt;不懂 VB ，请大佬们帮忙，感谢感谢&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:18:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015876#reply1</guid></item><item><title>[程序员] 在 AI 技术爆炸的时代下，普通码农该如何应对？</title><link>https://www.v2ex.com/t/1015875#reply3</link><description>&lt;p&gt;如今 AI 的发展速度超乎了想象，去年这个时候 GPT3.5 才刚发布。
+而现在 OPEN AI 的 Sora 能制作出高质量的视频，还有个正在研发的 GPT5 。&lt;/p&gt;
+&lt;p&gt;我觉得以后 AI 对高重复的脑力劳动工作的打击是最大的。事实上，大部分程序员干的都是脑力搬砖的活，我们该如何面对现在的情况最好呢？&lt;/p&gt;</description><pubDate>Fri, 16 Feb 2024 09:17:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1015875#reply3</guid></item></channel></rss>
