@@ -1,113 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 17 Feb 2024 15:39:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[硬件] 野外强光手电筒推荐</title><link>https://www.v2ex.com/t/1016069#reply1</link><description>&lt;p&gt;强光手电筒，有懂的吗，参数有点看不懂，怎么样才算好的？&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 15:18:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016069#reply1</guid></item><item><title>[分享创造] 学习提示词工程，弄了一个开发者工具箱 GPT</title><link>https://www.v2ex.com/t/1016068#reply0</link><description>&lt;p&gt;发现还可以通过提示词来编写“函数”，于是突然想到可以弄一个开发者工具箱，通过函数+参数的形式来作为用户输入规范，蛮有趣的&lt;/p&gt;
-&lt;p&gt;GPT 地址： &lt;a href="https://chat.openai.com/g/g-awQjRnm61-kai-fa-zhe-gong-ju-xiang" rel="nofollow"&gt;https://chat.openai.com/g/g-awQjRnm61-kai-fa-zhe-gong-ju-xiang&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;目前支持的函数还比较有限&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;MD5&lt;/li&gt;
-&lt;li&gt;BASE64&lt;/li&gt;
-&lt;li&gt;二维码生成&lt;/li&gt;
-&lt;li&gt;curl 转源码&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sat, 17 Feb 2024 15:14:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016068#reply0</guid></item><item><title>[分享创造] 一个关于分享 sora prompts 的 blog，欢迎大家提交</title><link>https://www.v2ex.com/t/1016066#reply0</link><description>&lt;p&gt;链接地址：&lt;a href="https://sora-prompts.blog/" rel="nofollow"&gt;https://sora-prompts.blog/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 15:09:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016066#reply0</guid></item><item><title>[问与答] 想给显示器配一个好点的音箱，老哥们给点建议</title><link>https://www.v2ex.com/t/1016064#reply0</link><description>&lt;p&gt;现在显示器是不自带音箱的&lt;/p&gt;
-&lt;p&gt;有一个音频接口&lt;/p&gt;
-&lt;p&gt;现在用的是 bose soundlink&lt;/p&gt;
-&lt;p&gt;想换个新的玩玩，最好是不带蓝牙的，因为用蓝牙连接，电脑休眠后就自动断开了，然后音箱一直提示未连接挺烦的&lt;/p&gt;
-&lt;p&gt;最好是只能有线接口的&lt;/p&gt;
-&lt;p&gt;预算 2k 以内&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 14:33:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016064#reply0</guid></item><item><title>[VPS] [help] vps 套的 warp ip 如何更换？</title><link>https://www.v2ex.com/t/1016062#reply0</link><description>&lt;p&gt;我的 vps 梯子套了一层 warp ，有的时候，有需要想要换一个 warp 的 ip&lt;/p&gt;
-&lt;p&gt;关闭并重开 warp ，发现 ip 还是那个没有变化，&lt;/p&gt;
-&lt;p&gt;请问下，有什么办法更换 ip 么？随机即可，无须指定 ip&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:57:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016062#reply0</guid></item><item><title>[职场话题] 欧科还能去吗？</title><link>https://www.v2ex.com/t/1016061#reply1</link><description>&lt;p&gt;20 年本科毕业，之前一直在大厂工作。
-最近拿到欧科的 offer ，想问一下大佬们对欧科怎么看？欧科里面发展怎么样？&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:53:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016061#reply1</guid></item><item><title>[机械键盘] NuPhy Air75 V2 VS Keychron K3Pro 该选择哪一个，有使用过这两款键盘的吗？</title><link>https://www.v2ex.com/t/1016060#reply1</link><description>&lt;p&gt;年少无知我曾经误入了 FILCO 的坑，买了两把 Minila （黑+白）茶轴，这货大坑（单模：仅支持蓝牙，目前两把在使用过程中都会出现连续按键的情况；多设备切换：需要关闭 A 设备的蓝牙，才能连接 B 设备）。&lt;/p&gt;
-&lt;p&gt;去年五月份买了 Keychron K3Pro 之后，发现矮轴更舒服，但是只给公司换了，目前想也给家里也换一把矮轴的 84 键键盘，在 NuPhy Air75 V2 和 Keychron K3Pro 之间，不知道选择哪个？有使用过这两款大佬的，给个建议。&lt;/p&gt;
-&lt;p&gt;Keychron K3Pro 没有防尘罩，这个有些糟心，我单独买了一个花了 38 。&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:51:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016060#reply1</guid></item><item><title>[宽带症候群] 没办法了, 求助移动 ipv6 问题</title><link>https://www.v2ex.com/t/1016059#reply3</link><description>老家河南移动宽带, 光猫 GM220-S,已经关闭光猫防火墙, 可以给终端下发 ipv6 地址, 外部网络可以 ping 通 ipv6 地址, 但是无法访问 ssh 和 tcp/http 端口,  因为是老人使用, 不想改桥接, 请问各位大佬有没有办法可以开启 ipv6 入站?&lt;br /&gt;&lt;br /&gt;另外 我尝试了 telnet 进光猫,想删除 ip6tables 规则, 但是显示我不是 root 用户&lt;br /&gt;ip6tables v1.4.13: can't initialize ip6tables table `filter': Permission denied (you must be root)</description><pubDate>Sat, 17 Feb 2024 13:48:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016059#reply3</guid></item><item><title>[Samsung] 特别在意隐私和安全的慎重考虑三星国行版</title><link>https://www.v2ex.com/t/1016058#reply6</link><description>&lt;p&gt;一直 iPhone 和三星双持，三星专门作为工作机，用于模拟公司门禁卡，每一通工作电话录音防止主管和 HR 说过的话不认账（这对于职场非常重要），单独弄了个工作手机号和工作微信只加同事，和 iPhone 生活机完全隔离。&lt;/p&gt;
-&lt;p&gt;最近刚发现三星国行版本的智能管理器是奇虎 360 技术支持的，目前能做的只是撤销授权，但是否管用未知。
-三星国行的应用程序防护是腾讯提供的，可以关闭。
-三星键盘自然是搜狗啦。&lt;/p&gt;
-&lt;p&gt;你可以理解为哪怕是安全文件夹，你的三星手机也是被全面监控，想看就看的。&lt;/p&gt;
-&lt;p&gt;但是国行三星有几个功能在我看来是痛点，无法更换为港版三星。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;通话录音就不说了，外版三星基本都没有原生的自动通话录音，这对于我来说是不可或缺的。&lt;/li&gt;
-&lt;li&gt;应用双开&lt;/li&gt;
-&lt;li&gt;三星钱包提供的公交卡，pay ，门禁卡模拟统统用不了了，超级 SIM 代替公交卡和门禁卡功能。目前门禁卡功能对我来说还是刚需的。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;三星国行的 AI 功能对我来说不是太重要，已经过了尝鲜的年纪了，据说国行的 AI 功能也是残废版。&lt;/p&gt;
-&lt;p&gt;如果无法保证自己的隐私和安全，那我还不如用小米呢，小米也有 GMS ，通话录音应用双开公交卡门禁卡统统都有，并且小米还能提供原生的微信通话录音功能，小米有更好更完善的云服务。
-而且小米还自带一个手机分身，不同指纹打开不同系统，不比安全文件夹更加彻底。&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:44:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016058#reply6</guid></item><item><title>[酷工作] 内推 3-XX 科技 后端 Java &amp; 前端 &amp; 数据平台 &amp; 运维 上海-虹桥路</title><link>https://www.v2ex.com/t/1016055#reply1</link><description>&lt;p&gt;公司优点：&lt;br /&gt;
-业绩去年比前年增长了一倍，今年保持了高增长的趋势&lt;br /&gt;
-现在规模只有头部宇宙企业的 1%，也就是还有 99%的增长空间&lt;br /&gt;
-人数扩充了一倍&lt;br /&gt;
-过去两年  &lt;strong&gt;农历新年前发年终奖&lt;/strong&gt;&lt;br /&gt;
-来了很多高管&lt;br /&gt;
-总结：业绩很好，业务稳定，去年年底拿了张牌照，持牌正规经营    &lt;/p&gt;
-&lt;p&gt;公司缺点：&lt;br /&gt;
-金融公司，it 基础设施差，发版需要运维手动在每周 X 手动发，体验较差，发版日比较折磨人&lt;br /&gt;
-JAVA 相关基础设施还算好，统一的框架统一的告警平台&lt;br /&gt;
-来了个 CTO 正督促搭建一些应该有的东西，至少现在加配置不用去运维那边排队了    &lt;/p&gt;
-&lt;p&gt;招聘岗位&lt;br /&gt;
-后端 JAVA &amp;amp; 前端 &amp;amp; 数据平台开发 &amp;amp; 运维&lt;br /&gt;
-高级、资深、专家岗位&lt;/p&gt;
-&lt;p&gt;期望&lt;br /&gt;
-（ 1 ）全日制本科，5 年经验以上，背景特别匹配的可以放宽到 3 年&lt;br /&gt;
-（ 2 ）尽量不要有币圈经验（之前推过朋友被拒绝过）&lt;br /&gt;
-（ 3 ）经历相符    &lt;/p&gt;
-&lt;ul&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 18 Feb 2024 08:34:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 为什么有人撕别人的违停单？</title><link>https://www.v2ex.com/t/1016286#reply0</link><description>今天在公司楼下违停被贴了单子，接着哨兵录下来有一个人路过，顺手把车窗上的单子给撕了。&lt;br /&gt;&lt;br /&gt;这种行为有什么目的？</description><pubDate>Sun, 18 Feb 2024 08:32:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016286#reply0</guid></item><item><title>[宽带症候群] 坐标 020，望推荐个便宜的手机套餐含宽带</title><link>https://www.v2ex.com/t/1016285#reply0</link><description>&lt;p&gt;一直用 99 元 4G 冰激凌。5 折，到现在客服说结束了，那就很不划算了。&lt;/p&gt;
+&lt;p&gt;换 5G 套餐，得重新拉线收 399 安装费，配 FTTR 设备，但 1 年前搬到这里时已自费购买了一个 modem 。。。&lt;/p&gt;
+&lt;p&gt;携号转网也行，白亏了那个 modem 。&lt;/p&gt;
+&lt;p&gt;还有没有几十元的手机套餐含宽带的？现在的是 49 元 20G+200M 宽带。&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:31:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016285#reply0</guid></item><item><title>[生活] 亲戚家小孩初一就不想学习了，想带他去深圳或广州见识下打工人的艰辛，有啥推荐的地方？</title><link>https://www.v2ex.com/t/1016284#reply1</link><description>&lt;p&gt;又担心给他指了一条不正确的路，犹豫中&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:30:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016284#reply1</guid></item><item><title>[杭州] 马上入职阿里（余杭），周边有没有租房推荐？天空之城这个小区怎么样？</title><link>https://www.v2ex.com/t/1016283#reply0</link><description>RT ，感谢各位老哥，需求是 3 居室，一家人入住</description><pubDate>Sun, 18 Feb 2024 08:30:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016283#reply0</guid></item><item><title>[问与答] 深圳房屋租售比如此低，远不如套现存银行吃利息，为什么房东还选择出租呢？</title><link>https://www.v2ex.com/t/1016282#reply0</link><description>&lt;p&gt;年初想换房，特意关注一下深圳的租售比，发现是真的离谱。比如宝安某小区房价是 6w 一平，100 平的房子租金一个月 5500 ，（ 100&lt;em&gt;600000 ）/（ 5500&lt;/em&gt;12 ）≈91 年，也就是说花 600w 买房如果通过出租回本要 91 年，600w 存银行一年光利息都有十几万，真是想不通！&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:26:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016282#reply0</guid></item><item><title>[问与答] 各位怎么忍受 apple watch 一天一充的？</title><link>https://www.v2ex.com/t/1016281#reply9</link><description>目前 S5 电池 88%&lt;br /&gt;&lt;br /&gt;睡前充满 100%&lt;br /&gt;起床 85%&lt;br /&gt;中午 75%&lt;br /&gt;中午健身一个半小时 55%-60%&lt;br /&gt;下午快下班了一看电量&amp;lt;40%&lt;br /&gt;&lt;br /&gt;我知道洗澡可以放着充电&lt;br /&gt;但是这个电量意味着我第二天要用的话，今天必须必须必须充电 （这一点最难受）&lt;br /&gt;周边游过夜一天也要带着充电器，换 ultra 也只是多了一天的缓冲（这个体感会好很多吗？）&lt;br /&gt;&lt;br /&gt;全套苹果生态，平时一般健身房健身，极少室外跑步，整体还是 aw 最合适，就是这个续航太离谱&lt;br /&gt;看了下其他的运动手表都是户外的而且也没那么智能，但是还是考虑换 xx 去年的新款了&lt;br /&gt;&lt;br /&gt;1.不知道你们是如何坚持/如何说服自己坚持下来的？&lt;br /&gt;2.有没有类似经历的，换 ultra2 能否缓解这种不爽？</description><pubDate>Sun, 18 Feb 2024 08:25:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016281#reply9</guid></item><item><title>[程序员] 开始从 discuzX3.4 迁移到 nodebb</title><link>https://www.v2ex.com/t/1016280#reply2</link><description>&lt;h3&gt;论坛这事儿&lt;/h3&gt;
+&lt;p&gt;论坛这东西现在已经变得非常的小众，我玩论坛始于 25 年前（暴露了年龄哈哈），现在逛论坛的时间并不多了，最多看看知乎或者公众号文章，也会偶尔跟着潮流制作一些视频。慢慢发现，好的内容还是很受大家欢迎，一个好的视频内容（不是只流量大的）其实也要有好的文案。本人写东西也只是才是这几年的事，偶尔在实体杂志上写一小方块东西。码字是很花时间的，但也是对自己知识和智慧的集中考验。&lt;/p&gt;
+&lt;p&gt;论坛相对于公众号文章和即时聊天来看，是一个奇怪的中间产品，口水多但有时能积累起一些很有干货的主题，十分精彩。&lt;/p&gt;
+&lt;p&gt;最近想接手一个论坛，用于自己写东西做知识梳理和内容积累，也顺便尝试汇集志同道合的朋友。&lt;/p&gt;
+&lt;h3&gt;现代论坛&lt;/h3&gt;
+&lt;p&gt;旧论坛是 discuzX3.4 ，看了一下对比现代的 web 产品，多少有点倒胃口。功能相当多，界面繁复，速度又慢。。。&lt;/p&gt;
+&lt;p&gt;看了下三大现代论坛 flarum, nodebb, discourse ，最终选了在功能和资源消耗折中的 nodebb 。原论坛用户数量和帖子积累得不少，所以想办法把数据尽可能迁移过去，发现网上这方面资料并不多，有的也很旧了。开这个帖子记录一下，也希望对其他朋友有用。我的代码都是自学过来的，学得也支离破碎，因为工作用不上，所以纯靠兴趣发动，自己根本算不上程序员，特别希望大家帮我挑错，支招。&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:25:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016280#reply2</guid></item><item><title>[问与答] 过年大扫除来一些闲置物品。</title><link>https://www.v2ex.com/t/1016279#reply0</link><description>&lt;p&gt;1 ，巧虎书籍玩具 6 个月-3 岁，完整率 95+%，无法保证 100%完整率。很重很重有 15kg 重量仅 SH 自提（东西在娘家，附近 2KM 可以小电驴送到小区门口）。
+2 ，先科移动便携 DVD 机器 8 寸屏幕，支持 USB AVI FM CD VCD DVD 等。只有 1 台。
+3 ，川崎 Kawasaki 羽毛球拍包包，有 15RMB  有 45RMB 有 35RMB 一分价钱一分货。
+4 ，爱尔目杂牌摄像头。没用过。本来用来监视阿姨的。35RMB
+5 ，费雪宝宝座椅自提，25RMB
+可以看我咸鱼个人介绍，最后感谢各位吴彦祖。&lt;/p&gt;
+&lt;p&gt;[闲鱼]  &lt;a href="https://m.tb.cn/h.5Gdb68h?tk=wTcRWkTXo3y" rel="nofollow"&gt;https://m.tb.cn/h.5Gdb68h?tk=wTcRWkTXo3y&lt;/a&gt; CZ0001 「我在闲鱼发布了 [巧虎玩具和书籍！孩子不用了 陆陆续续整理！] 」
+点击链接直接打开&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:23:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016279#reply0</guid></item><item><title>[问与答] 怎么交到朋友和女朋友</title><link>https://www.v2ex.com/t/1016277#reply0</link><description>隔壁组的女同事，以前在我们组。属于我看一眼就荷尔蒙爆棚那种，很想追，但她现在是隔壁组的好像没什么交集呀。</description><pubDate>Sun, 18 Feb 2024 08:22:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016277#reply0</guid></item><item><title>[问与答] 求推荐地理、历史纪录片</title><link>https://www.v2ex.com/t/1016275#reply0</link><description>&lt;p&gt;中文的最好&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:18:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016275#reply0</guid></item><item><title>[全球工单系统] 国内这些 app 凭什么换个手机就要强制人脸验证才能登录</title><link>https://www.v2ex.com/t/1016273#reply1</link><description>&lt;p&gt;什么短信验证码，旧设备扫码，密码，统统不管用，真是搞笑了，有没有考虑过人的脸会受伤，会面瘫，或者是人实在不在身边的情况？包括但不限于各大银行 app ，还有就是你，垃圾钉钉。祝愿想出强制扫脸的人总有一天会遇到扫不了脸而出事的情况，这就是你们最好的报应。&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:14:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016273#reply1</guid></item><item><title>[职场话题] 年前毕业</title><link>https://www.v2ex.com/t/1016272#reply0</link><description>小年左右毕业，标准 base×(n+1)，23 年年终 0 。&lt;br /&gt;&lt;br /&gt;期待很久的大礼包(实际算小礼包)到手了，很高兴，但又没那么高兴。&lt;br /&gt;&lt;br /&gt;回家过了个年，家人身体健康，80 多的爷爷奶奶饭量都比我好。&lt;br /&gt;&lt;br /&gt;和发小聚了，就过年这几天，其实也很难聚齐。说了小时候的糗事，也聊了房子工作和婚姻。&lt;br /&gt;&lt;br /&gt;喝点逼酒，话就很多，这个习惯要改掉。&lt;br /&gt;&lt;br /&gt;路上看了会大鹏的《年会不能停》。&lt;br /&gt;&lt;br /&gt;华北平原上，小麦已经绿了，今年挺暖和。&lt;br /&gt;&lt;br /&gt;河南河北的土地是真好，在这边有几亩地就好了，以后还可以当个平原上的农民，今年玉米价格降到 9 毛了。&lt;br /&gt;&lt;br /&gt;回京学习整理，找工作。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;微信输入法中文输入汉字，点击中英切换，预选栏汉字不能切换成对应的拼音，还有点不习惯(刚开始使用微信输入法)</description><pubDate>Sun, 18 Feb 2024 08:13:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016272#reply0</guid></item><item><title>[OpenAI] ChatGPT 账号被封，除了绑定过 OneKey ，有没有只绑定过其它虚拟卡导致被封的？</title><link>https://www.v2ex.com/t/1016271#reply0</link><description>&lt;p&gt;目前有两个 23 年 3 月注册的账号，因为绑定过 OneKey 被封了，被封的时候都没有收到被封禁的邮件。还有一个从来没有绑过支付方式的，目前还可以正常使用。&lt;/p&gt;
+&lt;p&gt;想问一下最近有没有使用非 OneKey 虚拟卡然后也导致被封的案例？&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:13:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016271#reply0</guid></item><item><title>[程序员] 一加 11 VS 荣耀 magic5 拍照被秒成渣渣了</title><link>https://www.v2ex.com/t/1016269#reply1</link><description>&lt;p&gt;过年我拿着一加 11 给全家拍照，出来效果极其差，没有对比就没有伤害，亲戚发了同样的照片是用荣耀 magic5 拍的，效果非常好，人脸非常清晰、生动，我的人脸都过曝了，画面也有模糊涂抹感。&lt;/p&gt;
+&lt;p&gt;我特别不喜欢一加拍照取景看到的跟拍出来的不一样，也就是无法所见即所得，出来的效果跟取景看到的完全不一样，特别是人像模式，取景看到的简直就是车祸现场，拍出来后的效果是处理后的，感觉还行，一加也就人像模式还能看。&lt;/p&gt;
+&lt;p&gt;另外色差超级大，取景看到的颜色跟拍出来的很不一样，取景时看到的东西经常很模糊，真的很抓狂。&lt;/p&gt;
+&lt;p&gt;我现在想要一部拍照好看，所见即所得的安卓手机，荣耀我不确定是不是所见即所得，但是出来的图片确实好看，还有什么推荐吗？&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 08:10:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016269#reply1</guid></item><item><title>[汽车] 汽车选购推荐</title><link>https://www.v2ex.com/t/1016268#reply5</link><description>需求：  &lt;br /&gt;14 万以内油车（不要混动）；&lt;br /&gt;空间大（特别是后排中间踩脚的地方，不希望有凸起的）；&lt;br /&gt;中控台希望大部分功能是物理按键的，可接受少量智能电子化，不强求大屏；&lt;br /&gt;车内部异味小的最好。&lt;br /&gt;保养省心，不想三天两头出问题。</description><pubDate>Sun, 18 Feb 2024 08:09:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016268#reply5</guid></item><item><title>[问与答] 突然发现 giffgaff SIM 卡失效</title><link>https://www.v2ex.com/t/1016264#reply0</link><description>&lt;p&gt;号码和账号都可以正常登录，里面也有钱，就是 SIM 失效，插在 2 个手机上都没有任何反应，之前没问题。&lt;/p&gt;
+&lt;p&gt;是 SIM 卡损坏了？该怎么处理？申请新卡转移号码过去？&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 07:50:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016264#reply0</guid></item><item><title>[杭州] 低价出售杭州余杭区海创绿谷公寓， 30 平两层，可住，可注册公司，缺点产权划分到层，单间无产权，无额外税</title><link>https://www.v2ex.com/t/1016263#reply0</link><description>&lt;p&gt;价格 70w ，联系方式，wechat ，base64：aXBhZGR1djU4Nw==&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 07:47:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016263#reply0</guid></item><item><title>[酷工作] 社招求教</title><link>https://www.v2ex.com/t/1016261#reply0</link><description>&lt;p&gt;第一次准备社招，请教下大佬们，有必要在简历上体现职级、绩效、晋升结果吗？&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 07:45:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016261#reply0</guid></item><item><title>[程序员] 分享几个最佳实践，让你用好云的竞价/SPOT 计算实例来降低成本</title><link>https://www.v2ex.com/t/1016260#reply2</link><description>&lt;ul&gt;
 &lt;li&gt;
-&lt;pre&gt;&lt;code&gt;前端 - 拥有互金或银行相关经验    
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;应用无状态化&lt;/strong&gt;: spot 实例本身没有 SLA ，随时会被回收。应用不要将关键元信息持久化到本地磁盘或云盘。无状态的应用可以随时被停止和重新拉起&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;pre&gt;&lt;code&gt;数据 - 拥有互金或银行相关经验    
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;应用本身做好弹性&lt;/strong&gt;:如果应用进程的重启会影响业务，那么这种弹性水平是不够的。通过分布式多节点、极速的容灾与恢复做到应用进程重启，业务无感&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;pre&gt;&lt;code&gt;后端 - 拥有互金或银行或催收或风控或用户系统或资金系统相关经验    
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;充分利用 spot 实例的终止信号&lt;/strong&gt;: 云厂商对 spot 实例被回收的时候，都会提前一小段时间(15 秒到 2 分钟不等)的时间让用户做优雅停止，这个需要好好利用。云本身也有提供一些产品化的能力可以帮助用户方便的处理这个终止信号，例如 asg 生命周期钩子、eks 的容量重平衡能力等。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;pre&gt;&lt;code&gt;运维 - 目前看起来不需要业务相关    
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;按需实例与 spot 实例混布&lt;/strong&gt;:按需和 spot 实例混布可以保证在满足最低服务水平的情况下尽量节约成本。即使最坏情况下所有 spot 实例都同一时刻被回收，仍然可以确保保有一定容量的按需实例&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;spot 实例库存不足时自动回退成按需实例&lt;/strong&gt;: spot 实例有时候会在某些可用区容量不足导致一直无法新建出 spot 实例，这时候可以利用 asg 这种弹性伸缩组来达成自动回退按需实例的效果&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;常见问题解答&lt;br /&gt;
-（ 1 ）为啥不要应届生    &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt;应届生其实也很好，尤其是潜力巨大的应届生，但本次招聘开放的均为 3-5 年以上经验岗位，如果有应届生岗位我会在帖子中更新
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
+&lt;p&gt;AutoMQ 是一款开源的云原生 Kafka 解决方案，以上经验都已经在 AutoMQ 中实践并且应用于生产，如果以上内容对大家有帮助，或者想进一步了解 AutoMQ 是如何用好云的，可以给我们开源项目点个赞，加入我们社区群关注第一手信息。关于 spot 实例应用的详细原文可以在 AutoMQ 公众号内查看。&lt;/p&gt;
+&lt;p&gt;开源项目 github 地址： &lt;a href="https://github.com/AutoMQ/automq-for-kafka" rel="nofollow"&gt;https://github.com/AutoMQ/automq-for-kafka&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今天是开年第一天，也预祝各位龙年大吉，事事顺利&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 07:42:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016260#reply2</guid></item><item><title>[问与答] 你们春节走亲戚拜年嘛？拜了几家？</title><link>https://www.v2ex.com/t/1016259#reply2</link><description>&lt;ul&gt;
+&lt;li&gt;我家（浙江温州）春节几乎都是很少走亲戚拜年的，一般只去一趟外婆家，每年过年回家都是陪爸妈聊聊天 逛逛街，和老同事开黑打麻将旅游这些；&lt;/li&gt;
+&lt;li&gt;我对象家（江西），另外一个极端，初一拜年到初六还没拜完，一早就得走个 5-6 家亲戚，到了对方家里互道吉祥话送了礼品，一般椅子都不坐，马上就得赶去下一家，要不然都走不完亲戚；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;（ 2 ）为啥不要币圈经验    &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt;不是币圈经验不好，而是之前内推过朋友，朋友被 hr 卡掉的原因是有币圈经验，
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt;相信各位来自币圈的老师技术能力都很好，但我没办法做决策只是执行，所以还是没办法
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;（ 3 ）无相关经验的是否可以？    &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt;无相关经验的最大的问题是可能在多个候选人横向对比的时候被 battle 掉，
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;pre&gt;&lt;code&gt;为了避免浪费大家时间，所以还是期望前端、后端候选人有相关经验，运维可以没有业务相关经验。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;联系方式&lt;br /&gt;
-微信（ base64 ） cGhvbmV6ZXJv    &lt;/p&gt;
-&lt;p&gt;工作地点&lt;br /&gt;
-上海-虹桥路&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:29:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016055#reply1</guid></item><item><title>[硬件] 想配置一台可以用 AI 画图的电脑，请教各位哥哥们</title><link>https://www.v2ex.com/t/1016054#reply1</link><description>&lt;p&gt;想配置一台可以用 AI 画图的电脑，请教各位哥哥们&lt;/p&gt;
-&lt;p&gt;目前看中联想的 刃 9000K&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:23:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016054#reply1</guid></item><item><title>[问与答] 初二退役信息学竞赛生求建议</title><link>https://www.v2ex.com/t/1016053#reply11</link><description>&lt;p&gt;如题，本人现在初二，之前有学信息学竞赛，有 &lt;strong&gt;点&lt;/strong&gt; C++ 语言基础，懂 &lt;strong&gt;点&lt;/strong&gt; 算法，算法水平大概是 CSP-S 的 100 分左右，也是比较菜。&lt;/p&gt;
-&lt;p&gt;然后呢将来想从事计算机行业，若考虑未来发展，大家推荐我学学哪些方面，或者是编程语言？十分感谢&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:19:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016053#reply11</guid></item><item><title>[问与答] 请教 nas 硬盘的选择</title><link>https://www.v2ex.com/t/1016052#reply6</link><description>&lt;p&gt;年后考虑入个联想个人云 t2 或者 t2pro 之类设备&lt;/p&gt;
-&lt;p&gt;请教下硬盘的选择：
-一开始只关注西数红盘，后来发现西数 hc 企业盘稳定性好，但是听说西数 hc 空气盘耗电高，上面的设备供电会有点问题，要上大容量氦气盘，然后又听说希捷银河氦气盘供电要求也高，那只剩下西数红盘和西数 hc 氦气盘可选了吗？&lt;/p&gt;
-&lt;p&gt;另外方便可以推荐下购买渠道&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 13:00:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016052#reply6</guid></item><item><title>[问与答] 请教澳洲留学问题</title><link>https://www.v2ex.com/t/1016051#reply4</link><description>&lt;p&gt;本人双非本，均分 80 ，专业物联网工程，今年考研应该上不了岸了，想请教下如果去读澳洲的 IT 硕士，回国后好就业吗，或者在澳洲那边好找工作吗&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 12:55:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016051#reply4</guid></item><item><title>[Android] 安卓 twitter 插件</title><link>https://www.v2ex.com/t/1016050#reply2</link><description>推上边广告越来越多，转贴越来越多&lt;br /&gt;&lt;br /&gt;有没有插件能屏蔽掉转贴和广告</description><pubDate>Sat, 17 Feb 2024 12:49:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016050#reply2</guid></item><item><title>[Pixel] 这两天 pixel 好多 APP 不能更新或安装了</title><link>https://www.v2ex.com/t/1016049#reply0</link><description>&lt;p&gt;那些 GooglePlay 之外的 APP 好多不能安装，点完安装什么反应都没有。淘宝系的，银行类的 APP 都不行了。&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 12:41:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016049#reply0</guid></item><item><title>[问与答] Arc 浏览器 用 B 站播放 弹幕多的视频的时候 卡死</title><link>https://www.v2ex.com/t/1016048#reply0</link><description>macOS 上 Arc 浏览器在播放 弹幕比较多的视频 的时候页面会卡死，有朋友遇到同样的问题吗</description><pubDate>Sat, 17 Feb 2024 12:32:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016048#reply0</guid></item><item><title>[iPhone] 怎么去掉锁屏的“甲辰年”但保留农历？</title><link>https://www.v2ex.com/t/1016047#reply5</link><description>&lt;p&gt;我对天干地支之类的一窍不通，看这个头晕。&lt;/p&gt;
-&lt;p&gt;怎么去掉这个？&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 12:30:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016047#reply5</guid></item><item><title>[视频技术] tx 视频网页版部分已不给看。。。</title><link>https://www.v2ex.com/t/1016045#reply20</link><description>&lt;p&gt;Chrome &amp;amp;&amp;amp; Firefox &amp;amp;&amp;amp; Edge 播放都如图，得下客户端了；
-今晚更新 20:00 ，年番 84 集；其它剧未测；&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgse.com/i/pFJEpYn" rel="nofollow"&gt;&lt;img alt="pFJEpYn.png" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/02/17/pFJEpYn.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgse.com/i/pFJEFyT" rel="nofollow"&gt;&lt;img alt="pFJEFyT.png" class="embedded_image" rel="noreferrer" src="https://s11.ax1x.com/2024/02/17/pFJEFyT.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 12:17:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016045#reply20</guid></item><item><title>[问与答] 话说 正月里能不能理发？</title><link>https://www.v2ex.com/t/1016044#reply17</link><description>&lt;p&gt;你们那里有 正月不理发 的风俗吗？&lt;/p&gt;
-&lt;p&gt;另外，想问问理发店开门了吗？哈哈&lt;/p&gt;
-&lt;p&gt;确实想修修头发，头发长得比较快&lt;/p&gt;</description><pubDate>Sat, 17 Feb 2024 11:59:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016044#reply17</guid></item></channel></rss>
+&lt;p&gt;感觉我对象家这种好累，好不容易放长假，却被习俗捆绑，忙忙碌碌，你们春节走亲戚走几家哈？&lt;/p&gt;</description><pubDate>Sun, 18 Feb 2024 07:40:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016259#reply2</guid></item></channel></rss>
