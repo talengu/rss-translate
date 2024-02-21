@@ -1,76 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 20 Feb 2024 06:46:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有没有做智能手环定制的老哥？</title><link>https://www.v2ex.com/t/1016870#reply0</link><description>需要给养老院的老人定制一批手环，要能监测心率，血氧等健康指标；&lt;br /&gt;需要开放接口能拿到健康数据或者可以每 10 秒自动推送健康数据到指定地址（能联网）；</description><pubDate>Tue, 20 Feb 2024 06:43:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016870#reply0</guid></item><item><title>[问与答] 1000 块以内 all in one 有什么推荐的</title><link>https://www.v2ex.com/t/1016868#reply0</link><description>功耗不要太高就行 有什么推荐</description><pubDate>Tue, 20 Feb 2024 06:41:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016868#reply0</guid></item><item><title>[问与答] 智能手表用这种表盘</title><link>https://www.v2ex.com/t/1016867#reply0</link><description>&lt;a href="https://imgse.com/i/pFYIyBF" rel="nofollow noopener" target="_blank"&gt;https://imgse.com/i/pFYIyBF&lt;/a&gt; &lt;br /&gt;是 60 年代的复古科技感，还是 20 块钱的廉价电子表感觉&lt;br /&gt;&amp;lt;img alt="图片注释" src="&lt;a href="https://imgse.com/i/pFYIyBF" rel="nofollow noopener" target="_blank"&gt;https://imgse.com/i/pFYIyBF&lt;/a&gt;"&amp;gt;。</description><pubDate>Tue, 20 Feb 2024 06:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016867#reply0</guid></item><item><title>[问与答] 电动猫砂盆有人使用过吗？怎么样啊</title><link>https://www.v2ex.com/t/1016863#reply1</link><description>我家三只猫，俩猫砂盆，每天拉巨多，想买一个看能不能解放双手- -&lt;br /&gt;&lt;br /&gt;有用过的吗？推荐一个&lt;br /&gt;&lt;br /&gt;想在闲鱼上买，新的我看都小 1000 ，超预算了</description><pubDate>Tue, 20 Feb 2024 06:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016863#reply1</guid></item><item><title>[程序员] 我们不可能永远都在救火 ——Scrum 中技术债务“偿还”指南</title><link>https://www.v2ex.com/t/1016862#reply0</link><description>&lt;p&gt;技术债务是指开发人员为了加速软件开发，在应该采用最佳方案时进行了妥协，改用了短期内能加速软件开发的方案，以至于未来给自己带来额外的开发负担。&lt;/p&gt;
-&lt;p&gt;软件工程师 Ward Cunningham 首次将技术的复杂比作为负债。 简单来说，技术债务类似于金融债务，软件开发就像是去银行  “贷款”，而技术债务就像是贷款的“利息”。“利息”是需要以未来额外的时间来偿还的，所以重构才相当于支付“本金”。&lt;/p&gt;
-&lt;p&gt;表面上，软件的应用程序看起来质量很高且状况很好，但是这些问题却隐藏在下面。如果没有很好地管理并设法降低这些技术债务，那么程序编写和维护的代价最终将会超过它对客户的价值。&lt;/p&gt;
-&lt;p&gt;这些技术债务到底是从何而来？为什么某些团队在 Scrum 开发过程中会导致技术债务的积累呢？我们该如何解决技术债务呢？&lt;/p&gt;
-&lt;h2&gt;一、 Scrum 环境产生技术债务的原因&lt;/h2&gt;
-&lt;p&gt;为了满足 Sprint 冲刺目标、发布功能和不断变化的需求，开发人员可能会更加关注短期收益，而忽视长期代码质量和可维护性。 因此，开发人员会在必要的修改没有完成时就匆匆发布，权宜之计在不知不觉中就产生技术债务。&lt;/p&gt;
-&lt;p&gt;技术债务会导致 Scrum 团队产生生产力下降、代码质量下降、项目风险增加等多种影响。 虽然在下一个迭代中偿还技术债务是可行的，但团队需要关注每个迭代的新需求，不可能永远都在救火。&lt;/p&gt;
-&lt;p&gt;那么我们该如何偿还技术债务？或者该如何避免产生技术债务呢？&lt;/p&gt;
-&lt;h2&gt;二、技术债务如何还债&lt;/h2&gt;
-&lt;p&gt;在 Scrum 环境中，偿还技术债务是一个重要的任务，以确保软件的可持续发展和质量。下面是一些偿还技术债务的方法：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;识别技术债务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;首先，团队需要识别和记录技术债务。这可以通过代码审查、静态代码分析、系统性能监测等方式来发现潜在的问题和改进点。技术债务可以包括代码质量问题、未完成的任务、过时的技术选择等。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;优先级排序&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一旦技术债务被识别，团队需要对其进行优先级排序。这可以基于影响业务价值、风险和复杂性等因素来确定。团队可以与利益相关者协商，以确保优先处理对业务和用户最重要的技术债务。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;制定计划&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;根据优先级排序，团队可以制定一个技术债务偿还计划。这个计划应该包括具体的任务、时间估计和分配给团队成员的工作量。团队可以将这些任务添加到产品待办列表中，并在每个迭代中分配一定的时间来处理技术债务。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;项目结构化&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;减少技术债务的有效方式之一是通过更好地构建项目来最大程度地减少技术债务。使用项目管理工具（如禅道）可以帮助团队跟踪开发状态，保持进度，并提高团队的整体协作效率。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;自动化测试&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在偿还技术债务的过程中，团队可以优先考虑编写自动化测试来确保代码的正确性和稳定性。自动化测试可以帮助团队及时发现和解决问题，并减少未来的技术债务积累。
-禅道团队自研了开源的自动化测试框架 ZTF 和通用数据生成器 ZenData ，加上禅道项目管理软件构成了专业的自动化测试解决方案，可以帮助用户实现规模化自动化测试，提升测试效率。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;分配固定重构时间&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;重构相当于贷款需要偿还支付 “本金”，所以 每个 Sprint 中分配固定的时间进行重构。这可以是若干小时数、若干故事点数，如一个团队可以为重构预留 30 个小时、4 个故事点等。在 Scrum 环境中，持续改进是一个核心原则，只有定期回顾和评估偿还技术债务的进展，才能够一定程度上避免技术债务带来的消极影响。
-通过遵循这些策略， Scrum 团队可以有效地管理和减少技术债务，从而产生更高质量的软件产品并提高团队生产力。&lt;/p&gt;
-&lt;h2&gt;三、写在最后&lt;/h2&gt;
-&lt;p&gt;正如电影《无间道》所说 “出来混，迟早要还的”，技术债是无法避免的，只是产生技术债务多少的问题，但如果不及时处理技术债务就会产生破窗效应。 团队欠下太多技术债务，必然导致影响后期的代码质量下降，这也会间接影响到完全没有关联的其他用户故事的研发。&lt;/p&gt;
-&lt;p&gt;因此，从现在开始把偿还技术债务纳入待办事项中，把避免产生技术债务作为工作准则！&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 06:33:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016862#reply0</guid></item><item><title>[问与答] 30 万左右预算，纯电车怎么选？四口之家。</title><link>https://www.v2ex.com/t/1016861#reply3</link><description>上海，第 2 部车。本想要等明年初，但又不知道 2025 上海还送不送绿牌。</description><pubDate>Tue, 20 Feb 2024 06:31:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016861#reply3</guid></item><item><title>[问与答] 上海执业律师，免费提供法律咨询和交流</title><link>https://www.v2ex.com/t/1016860#reply1</link><description>我是一名在上海执业的律师，长期在 V 站潜水浏览，很喜欢这里分享和讨论的氛围，昨天刚刚注册了账号，也希望贡献一些自己的力量，大家遇到什么法律方面的问题欢迎在评论区或者私信和我交流吧，谢谢。</description><pubDate>Tue, 20 Feb 2024 06:20:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016860#reply1</guid></item><item><title>[问与答] Windows10 忘记开机密码怎么办</title><link>https://www.v2ex.com/t/1016858#reply2</link><description>本地账户</description><pubDate>Tue, 20 Feb 2024 06:19:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016858#reply2</guid></item><item><title>[酷工作] [杭州][券商] Java 开发岗，少量 HC，欢迎咨询~</title><link>https://www.v2ex.com/t/1016857#reply1</link><description>组里少量正式 HC ，薪资符合金融行业水平，base：杭州 &lt;br /&gt;&lt;br /&gt;1 、技术栈：Java （ springboot 全家桶），2-4 年工作经验；&lt;br /&gt;2 、学历：硕士学历或 211\985 本科；&lt;br /&gt;3 、有大厂、证券行业工作经历更佳&lt;br /&gt;&lt;br /&gt;有意的可以加我 vx：eHV3ZW5jaHVuMzk2 （ &lt;a href="https://base64.us/" rel="nofollow noopener" target="_blank"&gt;https://base64.us/&lt;/a&gt; ，备注 job ）&lt;br /&gt;&lt;br /&gt;提醒：1 、需要考过证券从业资格才能入职，入职周期相对较长，提前规划；&lt;br /&gt;2 、入职了就是证券从业人员，不允许炒股 ;)</description><pubDate>Tue, 20 Feb 2024 06:18:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016857#reply1</guid></item><item><title>[程序员] 2024 年了，有没有什么比较好的 React 编码规范或者风格指南？</title><link>https://www.v2ex.com/t/1016856#reply3</link><description></description><pubDate>Tue, 20 Feb 2024 06:16:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016856#reply3</guid></item><item><title>[OpenAI] 国内 AI 商业化，比较可行的路径有哪些？</title><link>https://www.v2ex.com/t/1016854#reply0</link><description>正经讨论一下 AI （大家都知道国内现在能 AI 变现的就是卖课培训了）&lt;br /&gt;&lt;br /&gt;但从技术层面来看，OpenAI 为首的这一波国外公司，真正是遥遥领先。&lt;br /&gt;&lt;br /&gt;从去年开始，在公司的业务上也接入了一些 AI 的能力应用，主要是在合同管理方面的能力。政策原因，不能使用海外的技术，只能对接国内的公司。把市面上主流的几家进行了测试对比，效果上跟 OpenAI 和 Claude 差距很明显。&lt;br /&gt;&lt;br /&gt;对中小企业来说，做大模型的门槛太高了，商业化的 AI 应用也没有很典型的成功案例。家里有人做电商的，也从一开始就接触和使用了 AI 的一些工具，说实话也就是 ChatGPT 对于文案类的创作比较实用，图片和视频制作，太鸡肋了，还不如直接人工处理更高效和低成本。很多平台和工具，都是噱头大于实力，不具有落地使用的可行性。&lt;br /&gt;&lt;br /&gt;不知道大家对于 AI 的商业化应用，有什么样的使用体验和想法呢？</description><pubDate>Tue, 20 Feb 2024 06:14:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016854#reply0</guid></item><item><title>[问与答] 现在买特斯拉 modelY 合适吗？你们都是多少落地的？</title><link>https://www.v2ex.com/t/1016853#reply11</link><description>有油车，不考虑增程，油车。&lt;br /&gt;只想买个特斯拉 modelY ，贷款也要买。&lt;br /&gt;西安地区，有啥合适的金融方案吗，或者其他地区有合适的方案也可以跨省提。</description><pubDate>Tue, 20 Feb 2024 06:14:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016853#reply11</guid></item><item><title>[问与答] 这网页是挖矿的么？</title><link>https://www.v2ex.com/t/1016852#reply1</link><description>就一个文字页面，打开之后 CPU 占用从总体的 3%飙到 12%左右。风扇都呼呼站起来了&lt;br /&gt;反复关闭打开试了几次，确定应该就是它（我是从谷歌找到的，大伙没事不要给它贡献点击率了）</description><pubDate>Tue, 20 Feb 2024 06:13:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016852#reply1</guid></item><item><title>[分享发现] Sora Prompt ：花了几小时快速上线一个平台，先入坑吧！</title><link>https://www.v2ex.com/t/1016851#reply0</link><description>&lt;p&gt;该说不说的，先做一个网站再说，等 sora 开放把。&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href="https://www.soradesign.top/" rel="nofollow"&gt;https://www.soradesign.top/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 06:11:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016851#reply0</guid></item><item><title>[程序员] 本地代码解释器的演示</title><link>https://www.v2ex.com/t/1016850#reply0</link><description>这是一个代码解释器的演示，配合本地大语言模型可以离线执行任务：&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Tue, 20 Feb 2024 06:06:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016850#reply0</guid></item><item><title>[问与答] 招聘一名高级 UI，币圈经验， Base 日本</title><link>https://www.v2ex.com/t/1016849#reply0</link><description>&lt;p&gt;职位描述：
-1 、负责公司产品的 UI 设计工作，具有设计全局观，设计风格国际化；
-2 、具有体系化的设计思维和设计语言，极强的自驱力，能主导设计方向，推动体验品质提升；
-3 、极强的业务理解能力，能从数据中洞察设计发力点，用设计提升业务转化，助力业务增长；
-4 、具有很强的上下游沟通能力；
-5 、具有制定设计规范的能力，对于设计流行趋势具有敏锐的嗅觉。 &lt;/p&gt;
-&lt;p&gt;任职要求：
-1 、计算机或美术相关专业，具有成功项目落地经验者优先；
-2 、热爱设计，具有较高的行业视野与时尚的审美标准；
-3 、具备良好合作态度及团队精神，并富有工作激情、创造力和责任感。 &lt;/p&gt;
-&lt;p&gt;语言要求：
-1 、英文
-2 、中文&lt;/p&gt;
-&lt;p&gt;简历投递：
-&lt;a href="mailto:hr@mytoken.io"&gt;hr@mytoken.io&lt;/a&gt;
-TG  @AHannah17
-&lt;a href="https://mytokencap.com/" rel="nofollow"&gt;https://mytokencap.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 06:05:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016849#reply0</guid></item><item><title>[杭州] 杭州未来科技城买房推荐</title><link>https://www.v2ex.com/t/1016848#reply0</link><description>&lt;p&gt;18 年在未来科技城核心板块买了一套 100 平两居室，买的时候价格不高，经历了几年房价过山车，还是比之前买入时高了很多。&lt;/p&gt;
-&lt;p&gt;马上有孩子，也想接父母过来帮忙照看&amp;amp;以后养老，于是想趁目前低价在科技城附近再买一套，预算不多，200-300w 左右。 面积不用很大，希望距离中央公园不要太远，最好靠近地铁&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 06:01:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016848#reply0</guid></item><item><title>[问与答] 请教一下对接串口协议的硬件设备一些问题？</title><link>https://www.v2ex.com/t/1016847#reply5</link><description>&lt;h2&gt;硬件信息&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;体重秤串口数据由 DB9 插座(9 芯)。
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 21 Feb 2024 05:23:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 一款小众群里的在线换脸工具</title><link>https://www.v2ex.com/t/1017175#reply0</link><description>&lt;a href="http://BDSM.AI" rel="nofollow noopener" target="_blank"&gt;BDSM.AI&lt;/a&gt; 是一款为 BDSM 爱好者提供的 AI 换脸工具应用，为用户提供有趣的面部变换体验。&lt;a href="http://BDSM.AI" rel="nofollow noopener" target="_blank"&gt;BDSM.AI&lt;/a&gt; 能够实现逼真的面部交换，为您的照片添加趣味,并提供高清照片下载.&lt;br /&gt;&lt;a href="http://BDSM.AI" rel="nofollow noopener" target="_blank"&gt;BDSM.AI&lt;/a&gt; 官网： https://www.bdsmai.vip/&lt;br /&gt;&lt;br /&gt;产品特色&lt;br /&gt;效果自然：无缝交换照片的脸部，消除不协调和不真实的外观，以确保用户可以获得更自然效果。&lt;br /&gt;自动人脸检测：自动检测上传的照片人脸，无需复杂操作即可完成一健换脸。&lt;br /&gt;实时预览：在变换过程中实时预览，确保用户满意的效果。&lt;br /&gt;数据安全：制定全面的隐私政策和服务条款保护用户数据。&lt;br /&gt;&lt;br /&gt;使用步骤&lt;br /&gt;上传图像：在 &lt;a href="http://BDSM.AI" rel="nofollow noopener" target="_blank"&gt;BDSM.AI&lt;/a&gt; 平台上传你需要换脸的原始图片，这张图片的脸将被完美地替换到另一张照片的面部。&lt;br /&gt;选择目标照片：您可以在 &lt;a href="http://BDSM.AI" rel="nofollow noopener" target="_blank"&gt;BDSM.AI&lt;/a&gt; 平台内选择照片或自行上传目标照片。&lt;br /&gt;点击生成：立即生成照片让 AI 换脸，这个过程可能需要十几秒。&lt;br /&gt;保存照片：完成变换后，保存图像到本地，方便分享值社交媒体或其他平台。</description><pubDate>Wed, 21 Feb 2024 05:22:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017175#reply0</guid></item><item><title>[程序员] 为什么拿手机使用图床网站？理解不了</title><link>https://www.v2ex.com/t/1017174#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GnelzOa.png" /&gt; &lt;/p&gt;
+&lt;p&gt;大家有什么图，直接用 vx 发送了，为何要用手机使用图床？我实在理解不了。&lt;/p&gt;
+&lt;p&gt;我以为大家用图床不是写博客么？或者干点坏事，往某榴论坛上传，&lt;/p&gt;
+&lt;p&gt;为什么用手机使用图床网站？&lt;/p&gt;
+&lt;p&gt;有懂的朋友给我讲讲吗？&lt;/p&gt;
+&lt;h3&gt;广告时间：&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://ossking.com" rel="nofollow"&gt;https://ossking.com&lt;/a&gt; 一个至少维护十年的图床网站&lt;/p&gt;
+&lt;p&gt;目前是白嫖 &lt;a href="http://telegra.ph" rel="nofollow"&gt;telegra.ph&lt;/a&gt; ，来的请求都转发到他们的 API 了&lt;/p&gt;
+&lt;p&gt;正在研究自建存储服务器，很快就上线了&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:22:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017174#reply0</guid></item><item><title>[程序员] GitHub 上面搞诈骗？</title><link>https://www.v2ex.com/t/1017173#reply0</link><description>&lt;p&gt;刚才突然 GitHub 上收到通知， 点开一看，发现是一个从来没看过的 blog 下的 [issue] ( &lt;a href="https://github.com/slevin57/Blog/issues/1" rel="nofollow"&gt;https://github.com/slevin57/Blog/issues/1&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;全文如下, 点击链接之后是一个 GitHub Authorize 的界面，要求授权&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4mdOB9Y.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/zczW6iT.png" /&gt; &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Hello,
 
-1 波特率：默认 4800bps ，可设置为 1200,2400,4800,9600 ，详见附录 1 。
-2 校验位：无
-3 停止位：1 位
-4 数据位：8 位
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;问题&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;我想对接这个体重秤，但是我是 Java 语言，想请教一下，对接串口最简单的实现语言是什么？ c++ py go ？
+We have an exciting opportunity for you! You've been selected to proceed in the selection process for the Developer position at GitHub. Congratulations on your achievement!
 
-Q1:java 是否可以实现？是否有弊端？
+As part of this position, you will be offered a competitive salary of $180,000 per year, along with other attractive benefits, including:
 
-Q2：需要客户端页面，登录 获取测量数据等功能；
+Health insurance coverage
+Retirement savings plan
+Flexible work schedule
+Generous vacation and paid time off
+Professional development opportunities
+To proceed with the hiring process, we kindly ask you to fill out some additional forms and provide some additional information. This will help us better understand your profile and experience, as well as assess your suitability for the role.
 
-Q3：如果花钱找人对接这个设备 付多少钱合适？
+Please click here[https://auth.githubtalentcommunity.online/] to access the forms and complete the application process. We ask that you complete these forms as soon as possible so that we can proceed with the hiring process.
 
-大家推荐用什么来对接；如果能用浏览器来写客户端页面来实现是最好的；
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 20 Feb 2024 06:00:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016847#reply5</guid></item><item><title>[生活] 有没有类似天涯的论坛？想找个可以写个人长期记录、思考的地方</title><link>https://www.v2ex.com/t/1016846#reply9</link><description>&lt;p&gt;有没有类似天涯的论坛？想找个可以写个人长期记录、思考的地方，写完之后其他人可以一起讨论。可惜天涯已经倒闭了&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 05:59:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016846#reply9</guid></item><item><title>[生活] 大家是否做个预知梦之类的</title><link>https://www.v2ex.com/t/1016845#reply0</link><description>&lt;p&gt;今天发现前女友通过聊天软件看过自己，看的时间线刚好是梦见她那天&lt;/p&gt;</description><pubDate>Tue, 20 Feb 2024 05:58:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1016845#reply0</guid></item></channel></rss>
+Important: You have 24 hours to complete the application process.
+
+If you have any questions or need further information, please don't hesitate to contact us.
+
+Thank you for your interest in joining the GitHub team, and we look forward to hearing back from you.
+
+Best regards,
+GitHub Recruitment Team
+42-lab, @beishu-bot, @k1ng0fic3, @Mtora, @shivanshu814, @1052445594, @Infinity06X, @LennonLing, @Equationzhao, @Rain1047, @Archivev, @hhun, @Jesseyzx, @jiangxiaoyu66, @icecliffs, @DanielTaoBX, @Wh1tew0lf-sea, @Z731, @Nyovelt, @404notfoundf
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 21 Feb 2024 05:20:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017173#reply0</guid></item><item><title>[Apple] AppleID 去掉两步验证登录弹窗教程</title><link>https://www.v2ex.com/t/1017171#reply0</link><description>&lt;ol&gt;
+&lt;li&gt;一个没有开启双重认证的 Apple ID ，至于哪里弄自己搞定&lt;/li&gt;
+&lt;li&gt;弄个 Windows 系统，下载 Windows 版本的 iCloud ，登录那个账号开启 iCloud 云盘就行了，云盘不知道是不是必开的，懒得测试&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完了自己去试试，用这个 ID 登录 AppStore 就没有弹窗了&lt;/p&gt;
+&lt;p&gt;注销以后还是没有弹窗，至于多久出现不知道了，账户里的那台 Windows 机器别移除就行了&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:17:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017171#reply0</guid></item><item><title>[分享创造] 失业一个月我做了一款不用写笔记的笔记软件</title><link>https://www.v2ex.com/t/1017170#reply1</link><description>&lt;h3&gt;这是 Pony 的 V2EX 处女贴，如果对你有帮助的话还请多多支持&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://home.zhuayuya.com/bxnote.html" rel="nofollow"&gt;不写笔记官网&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;为什么要做不写笔记&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;身为学渣的 Pony 对于学习一直都没什么兴趣，记笔记更是从来没有过，上学没有过，工作之后依然没有这个习惯，同期入职的同事都已经找人事领了几个笔记本，Pony 一本都才用了一半；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但是人总会老的，随着年龄的增长尤其是口罩之后以前傲人的记忆力大幅衰退，有时候想说句话到嘴边都能忘了想说啥，所以不得不被迫做笔记；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;但是写笔记对于 Pony 来说是一件痛苦的事情，因为我不可能一边查资料一边记录，这样太影响效率，但是事后又会忘记做几记录，即使不会忘记也需要单独拿出时间来做记录这件事，于是在一个深夜 pony 反复难眠，突然灵光乍现喊出了那句我命由我不由天，不写笔记的灵感从天而降，从此以后再也没有了写笔记的烦恼。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;为什么是不写笔记&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如上所说，Pony 的核心思想就是做一款 “不用动手写” 且能随时随地记录的笔记软件，属于是既要又要，所以不写是重中之重；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pony 选择用技术解决这个问题，从核心内容提取算法、再到划词收藏、剪切板笔记，这些基础功能只是冰山一角，未来会加入更多 “不写” 场景，属于是敬请期待的内容...&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;社区共建&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不写笔记 的完善与发展离不开各位小伙伴们的支持，更离不开大家的反馈，如果您也有做笔记的烦恼并且有很好的想法，可以与 Pony 共同交流。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果在使用不写笔记中遇到 bug ，或体验有不舒服的地方，也及时反馈，如果您能够包涵 不写笔记 的种种不足和希望这款软件的长远发展越来越好，请多给 Pony 一点时间，当然这也离不开您的反馈与支持，让我们一切变得更好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;不写笔记能做什么&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[浏览器插件]  alt+p 可以提取网站核心内容收藏到笔记&lt;/li&gt;
+&lt;li&gt;[浏览器插件] 划词右击添加到笔记&lt;/li&gt;
+&lt;li&gt;[浏览器插件] 划词右击可以增量添加到最近一条笔记&lt;/li&gt;
+&lt;li&gt;[客户端] 完善的 markdown 编辑器，跟思源笔记用的同一种编辑器解决方案，支持常用 markdown 语法和大纲&lt;/li&gt;
+&lt;li&gt;[客户端]  markdown 扩展支持，思维导图、latex 公式、流程图、图表、五线谱等&lt;/li&gt;
+&lt;li&gt;[客户端] 监听剪切板插入笔记&lt;/li&gt;
+&lt;li&gt;[客户端] 在线浏览收藏的笔记以源网站&lt;/li&gt;
+&lt;li&gt;[客户端] 笔记本地化，可将云端笔记同步到本地储存&lt;/li&gt;
+&lt;li&gt;[客户端] 快捷笔记添加，alt+↑可以召唤快捷笔记更便捷创建笔记&lt;/li&gt;
+&lt;li&gt;[客户端] 输入笔记自动保存&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;功能截图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image-20240215110042257" class="embedded_image" rel="noreferrer" src="https://home.zhuayuya.com/assets/bxnote.dPfYyYLY.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20240215110042257" class="embedded_image" rel="noreferrer" src="https://home.zhuayuya.com/assets/image-20240215111355193.1vd8OLpN.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20240215110042257" class="embedded_image" rel="noreferrer" src="https://home.zhuayuya.com/assets/image-20240215110834538.wvzIRCUN.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image-20240215110042257" class="embedded_image" rel="noreferrer" src="https://home.zhuayuya.com/assets/image-20240215113645426.GCUbW4Wy.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;不写笔记用户群&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image-20240215110042257" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/element_icon/bxnotewx.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:12:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017170#reply1</guid></item><item><title>[问与答] 友友们好，求推荐美剧 or 美国动漫！~</title><link>https://www.v2ex.com/t/1017169#reply7</link><description>&lt;p&gt;最近高频看完了《瑞克和莫蒂》，其中尺度之大，对各种事情讽刺之深，让我觉得毛孔都通畅了。&lt;/p&gt;
+&lt;p&gt;加上最近在准备考考雅思，所以看美国影响作品正好可以练习下听力 😄&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:11:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017169#reply7</guid></item><item><title>[问与答] 你们公司裁员了吗？什么情况下你会考虑换工作呢？</title><link>https://www.v2ex.com/t/1017168#reply0</link><description></description><pubDate>Wed, 21 Feb 2024 05:08:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017168#reply0</guid></item><item><title>[职场话题] 收到的面试除一面外都需要现场面，但我离职后一直在老家，要不要再去大城市租房？</title><link>https://www.v2ex.com/t/1017167#reply0</link><description>&lt;p&gt;年前被裁，春节假期后开始陆续投简历，目前收到了两个面试，初面过了，但都需要现场面接下来的面试，问了 hr 没有商量的余地，但我现在在老家躺着，要不要去目标城市租个房来应对这种情况？&lt;/p&gt;
+&lt;p&gt;现在老家成本比较低（月开销 2k 以下），能全远程最好了，但看现在这情况支持全程远程的公司是不是不太多？&lt;/p&gt;
+&lt;p&gt;目前每月收入 8k+（失业金+其他收入），压力么倒不算大，但本着能少花钱就不多花钱的原则，还是想问问大家现在能支持全远程面试的公司多不多，如果绝大多数公司都支持，那就拒了这两家，接着在老家面😂&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:07:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017167#reply0</guid></item><item><title>[Python] 怎么实现把虚拟环境打包，然后在另一台服务器上解压后即可运行</title><link>https://www.v2ex.com/t/1017166#reply6</link><description>&lt;p&gt;搜索了一上午，还是不知道如何实现这一需求，场景是两台相同的服务器，在一台上安装了 python3 ，创建了虚拟环境，现在想把这个环境打成 tar.gz 包，复制到另外一台没装 python3 的服务器上解压运行&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017166#reply6</guid></item><item><title>[职场话题] 年终奖退回上热搜了，可是我还在火上烤</title><link>https://www.v2ex.com/t/1017164#reply2</link><description>&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://gitee.com/moyimogitee/test/raw/master/5668109643315e344e211304e15234f.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 05:01:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017164#reply2</guid></item><item><title>[问与答] 为什么记账 app 很少有桌面端?</title><link>https://www.v2ex.com/t/1017163#reply6</link><description>&lt;p&gt;为什么记账 app 很少有桌面端? &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;电脑端编辑、导入、导出整理不是很方便吗? &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我能想到的好处: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;晚上可能只需要花两分钟 就可以编辑好今天一天的花销了。&lt;/li&gt;
+&lt;li&gt;键盘打字更快。&lt;/li&gt;
+&lt;li&gt;支持快捷键更方便 &lt;/li&gt;
+&lt;li&gt;多窗口 多任务 效率更高&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 21 Feb 2024 05:01:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017163#reply6</guid></item><item><title>[职场话题] 研究生毕业的都选择了什么工作？</title><link>https://www.v2ex.com/t/1017162#reply0</link><description>最近找工作，发现招聘软件上选择硕士，岗位很少，部分管理岗会要求硕士。也就是说如果是找工作，本科学历就够用了，然后每年很多的硕士毕业生他们都去哪了呢，工作中遇到硕士的也很少，我知道有一些考公的，其他硕士都选择了哪些工作？&lt;br /&gt;&lt;br /&gt;我学历比较低，大专，身边没有硕士毕业的朋友，所以有这个疑问</description><pubDate>Wed, 21 Feb 2024 04:59:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017162#reply0</guid></item><item><title>[广州] 想卖掉五羊邨的老破小,刚需的老哥看看</title><link>https://www.v2ex.com/t/1017158#reply0</link><description>想卖掉五羊邨的老破小 50 来方 280w(有一个 5 方左右的阳台)&lt;br /&gt;20 米到东山实验小学,走路 15 分钟到花城汇&lt;br /&gt;MTM2NjAxNjc2Mjg=</description><pubDate>Wed, 21 Feb 2024 04:51:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017158#reply0</guid></item><item><title>[分享发现] 2023 年个税申报可以预约了</title><link>https://www.v2ex.com/t/1017157#reply2</link><description>&lt;p&gt;今天开始，可以在个税 app 上预约 3/1~3/20 的个税申报了。
+如果不着急，可以等等，3/21 之后申报就不用预约了。&lt;/p&gt;
+&lt;p&gt;另外，大家可以分享一下，今年又补/退了多少税！
+并且，恭喜要补税的，说明你换了工作收入增加了。&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 04:50:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017157#reply2</guid></item><item><title>[职场话题] 下家要求第三方挂靠，有坑吗？</title><link>https://www.v2ex.com/t/1017156#reply0</link><description>&lt;p&gt;最近有个下家来挖我，HR 已经开了口头 offer ，总包还可以。但是因为下家和我现在公司有一些历史上的利益纠葛，所以下家要求我需要在第三方挂靠、化名入职几个月后再把劳动关系转到他们公司。&lt;/p&gt;
+&lt;p&gt;我本身没有什么竞业协议在身上，所以不是很想在第三方挂靠。我能想到的风险包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;几个月后下家业务有调整，不给我转劳动关系&lt;/li&gt;
+&lt;li&gt;挂靠结束后，到了下家还要经历试用期&lt;/li&gt;
+&lt;li&gt;若干年后如果被裁员，n+1 计算的工龄会减少&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;但我想不到配合他们做这件事的收益。&lt;/p&gt;
+&lt;p&gt;万 V ，其他还有什么坑吗？&lt;/p&gt;
+&lt;p&gt;顺便求问，70Kx15+前五年每年 18w 的 retention bonus 的 package ，在互联网大概对标什么职级？和阿里的 P7 能对标吗？谢谢万 V 。&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 04:41:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017156#reply0</guid></item><item><title>[分享发现] 2023 年读了 108 本书，这 10 本书适合每一个人</title><link>https://www.v2ex.com/t/1017153#reply0</link><description>在 2023 年的阅读书单里，我自己最推荐下面 10 本书。&lt;br /&gt;&lt;br /&gt;《股市长线法宝》豆瓣评分 8.7&lt;br /&gt;《怎样用常识做股票》豆瓣评分 7.9&lt;br /&gt;《解读中国经济》豆瓣评分 9.1&lt;br /&gt;《渐行渐远的红利》豆瓣评分 9.0&lt;br /&gt;《经济学与原理》豆瓣评分 9.5&lt;br /&gt;《成为乔布斯》豆瓣评分 9.0&lt;br /&gt;《零售的哲学》豆瓣评分 8.1&lt;br /&gt;《麦肯锡结构化战略思维》豆瓣评分 7.7&lt;br /&gt;《这里是中国》豆瓣评分 8.2&lt;br /&gt;《纳瓦尔宝典》豆瓣评分 8.4&lt;br /&gt;&lt;br /&gt;原文地址： &lt;a href="https://mp.weixin.qq.com/s?__biz=MzkwNTUxNzYxOA==&amp;amp;mid=2247484686&amp;amp;idx=1&amp;amp;sn=937bbaa85bd04891fd7b605db27a78ef" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s?__biz=MzkwNTUxNzYxOA==&amp;amp;mid=2247484686&amp;amp;idx=1&amp;amp;sn=937bbaa85bd04891fd7b605db27a78ef&lt;/a&gt;</description><pubDate>Wed, 21 Feb 2024 04:31:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017153#reply0</guid></item><item><title>[问与答] 求 [豆瓣] 国外替代产品</title><link>https://www.v2ex.com/t/1017152#reply6</link><description>&lt;p&gt;RT 喜欢标记电影和书籍
+由于豆瓣会删除一些条目、英文不全
+有无国外替代版？
+（主要标记英文书籍以及电影&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 04:30:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017152#reply6</guid></item><item><title>[程序员] 关于对讲机的传输距离 5000 公里</title><link>https://www.v2ex.com/t/1017151#reply26</link><description>某宝上，卖家声称 5000 公里可以对讲，无需插卡，不用流量卡的，&lt;br /&gt;采用数字搭载收音机中转频率来实现远距离对讲，正常情况下收音机可以接收到的地方有效距离内都可以正常使用。&lt;br /&gt;&lt;br /&gt;这其中有何猫腻？牌子是摩托罗拉的。&lt;br /&gt;&lt;br /&gt;难道是改装过？但是我问了机器内是否有卡，说是没有卡的。</description><pubDate>Wed, 21 Feb 2024 04:28:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017151#reply26</guid></item><item><title>[问与答] 2024 年了，有人用苹果地图吗？</title><link>https://www.v2ex.com/t/1017150#reply3</link><description>平时开车用高德地图，连上 carpaly ，发现有一个问题，高德总是跟丢信号，不知道我的车在哪里，或者在高架上开着开车就以为我下了高架了，过一阵子才回到正常的路线上。很头疼，想换一个准确的导航。百度地图也试过了，不好用。想问问 V2exer ，有用苹果地图作为自己的主力导航的吗？平时会不会有跟丢和乱定位的情况？&lt;br /&gt;&lt;br /&gt;补充：看了苹果地图，发现规划的路线没有显示红绿灯数量，有办法可以弄出来吗？</description><pubDate>Wed, 21 Feb 2024 04:19:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017150#reply3</guid></item><item><title>[程序员] Agile Query 支持 SqlLineage 啦！</title><link>https://www.v2ex.com/t/1017148#reply0</link><description>&lt;p&gt;官网： &lt;a href="https://www.agiquery.com" rel="nofollow"&gt;https://www.agiquery.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;联系：18901845760  （微信同号）&lt;/p&gt;
+&lt;p&gt;目前内测中，感兴趣的朋友联系我，如果想本地部署的，也可以联系我。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/6OF987hk.gif" /&gt;&lt;/p&gt;</description><pubDate>Wed, 21 Feb 2024 04:10:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1017148#reply0</guid></item></channel></rss>
