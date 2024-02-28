@@ -1,212 +1,464 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 27 Feb 2024 15:17:08 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] 该怎么准备才能去外企</title><link>https://www.v2ex.com/t/1018957#reply0</link><description>&lt;p&gt;211 本科生，23 届，四大行软件中心入职大半年，感觉是之前没有想好要怎么样的工作，现在工作钱又少，还躺不平，有平时、周末加班的情况（加班费几乎没有且不调休），很想去外企工作。想问下应该怎么准备。&lt;/p&gt;
-&lt;p&gt;坐标西安 Java 岗，外企比较少，是不是应该针对于具体的岗位做项目，岗位契合度高，这样简历会比较好过一点。因为自己没有什么学历优势，工作后才转的 Java ，好在工作后还是在一直写代码，想问下该怎么重新准备项目。&lt;/p&gt;
-&lt;p&gt;没看到有岗位要三年以内经验的，是不是一般一年左右不好跳槽。如果说一年之内都没有岗位机会的话，是不是应该先每天刷刷题，准备打持久战。&lt;/p&gt;
-&lt;p&gt;其他就是英语一直在背单词，练习听力。&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 15:16:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018957#reply0</guid></item><item><title>[程序员] telegra 安全问题</title><link>https://www.v2ex.com/t/1018956#reply0</link><description>通过虚拟号注册的 telegra ，绑定了自己的邮箱并且设置了密码，前天通知服务说一台设备在中国台湾登录我检查了设备并没有发现可疑的设备但是邮箱和密码都被更改了。&lt;br /&gt;我检查了各种设置，邮箱，密码并没有发现泄露的痕迹，是虚拟号的问题吗但是这个虚拟号是在网站上购买的，相比之下免费的虚拟号更容易出错购买的不应该呀。&lt;br /&gt;我现在是应该注销账号还是换个实体手机号比较好，v2 的朋友给个建议</description><pubDate>Tue, 27 Feb 2024 15:01:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018956#reply0</guid></item><item><title>[问与答] 寻找 git 项目合作，只要你的项目有一些 star 用了 npm / apt /homebrew / 等等</title><link>https://www.v2ex.com/t/1018954#reply1</link><description>红包 100 - 300 不等，需要合并一个 yaml 文件到你的主分支，只有几行代码&lt;br /&gt;&lt;br /&gt;example：&lt;br /&gt;&lt;br /&gt;version: xx&lt;br /&gt;codeOwners: xx&lt;br /&gt;quorum: xx&lt;br /&gt;&lt;br /&gt;就这样 。&lt;br /&gt;&lt;br /&gt;Wechat：V2F5bmVJc0tpbmc=</description><pubDate>Tue, 27 Feb 2024 14:48:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018954#reply1</guid></item><item><title>[Apple] 始终觉得 MacBook Air 2020 的模具比新款模具好看轻便。</title><link>https://www.v2ex.com/t/1018953#reply3</link><description>&lt;p&gt;如题，数据上说新款比老板要薄，但是那是对比的最厚处，这种对比感觉对楔形设计不公平，楔形设计整体带来的感觉就轻便，新版 14 寸设计感觉傻大粗一样。不知道有没有人一样感觉？&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 14:33:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018953#reply3</guid></item><item><title>[游戏] 大家用的什么品牌手柄？ 寿命几何？三个月坏一个，已经坏两个了</title><link>https://www.v2ex.com/t/1018952#reply5</link><description>&lt;p&gt;现在正在进行第二次换货&lt;/p&gt;
-&lt;p&gt;国内出货排行第一的，阿修罗 3PRO 多模板&lt;/p&gt;
-&lt;p&gt;第一次坏按键 a ，第二次坏 rb 键&lt;/p&gt;
-&lt;p&gt;现在是第二次换新了，只有一年质保，一年后坏了就玩完了，350 大洋玩一年手柄？&lt;/p&gt;
-&lt;p&gt;感觉有些亏，&lt;/p&gt;
-&lt;p&gt;有手柄玩家没？ 你们手柄能用多久？啥品牌？&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 14:29:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018952#reply5</guid></item><item><title>[Google] Google One AI Premium 不能家人共享</title><link>https://www.v2ex.com/t/1018951#reply0</link><description>&lt;blockquote&gt;
-&lt;p&gt;Eligibility
-...
-You must be a family plan manager. Google One AI Premium benefits can’t be shared with family group members.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这性价比一下子就降低了很多啊。&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 14:28:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018951#reply0</guid></item><item><title>[程序员] Xcode 编写 swiftui 的时候如何回车的时候，自动完成尾随闭包？</title><link>https://www.v2ex.com/t/1018949#reply0</link><description>&lt;p&gt;比如 Button 按完回车后，会变成&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Button(action: {}, label: {
-	Text("Button")
-})
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;而不是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Button{
-
-} Label: {
-
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 28 Feb 2024 09:32:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] Onedrive 不能直连了么？ Obsidian+remotely save</title><link>https://www.v2ex.com/t/1019207#reply0</link><description>&lt;p&gt;我使用 Obsidian ，用 Remotely save + Onedrive 同步。&lt;/p&gt;
+&lt;p&gt;直连就无法同步，插件会报错提示。&lt;/p&gt;
+&lt;p&gt;啥原因呢？&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 09:31:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019207#reply0</guid></item><item><title>[程序员] 老哥们 这种格式有简便点转 Java 对象的方法吗 谢谢</title><link>https://www.v2ex.com/t/1019206#reply0</link><description>&lt;pre&gt;&lt;code class="language-txt"&gt;SIB1-IEs ::=
+{
+  cellSelectionInfo
+  {
+    q-RxLevMin -60,
+    q-QualMin -29
+  },
+  cellAccessRelatedInfo
+  {
+    plmn-IdentityList
+    {
+      {
+        plmn-IdentityList
+        {
+          {
+            mcc
+            {
+              4,
+              6,
+              0
+            },
+            mnc
+            {
+              0,
+              0
+            }
+          }
+        },
+        trackingAreaCodeList
+        {
+          '00000000 00010001 00100010'B
+        },
+        cellIdentity '00000011 00100101 00011010 00000000 010 ...'B,
+        cellReservedForOperatorUse notReserved
+      }
+    }
+  },
+  servingCellConfigCommon
+  {
+    downlinkConfigCommon
+    {
+      frequencyInfoDL
+      {
+        frequencyBandList
+        {
+          {
+            freqBandIndicatorNR 1
+          }
+        },
+        offsetToPointA 244,
+        scs-SpecificCarrierList
+        {
+          {
+            offsetToCarrier 0,
+            subcarrierSpacing kHz120,
+            carrierBandwidth 264
+          }
+        }
+      },
+      initialDownlinkBWP
+      {
+        genericParameters
+        {
+          locationAndBandwidth 13033,
+          subcarrierSpacing kHz120,
+          cyclicPrefix extended
+        },
+        pdcch-ConfigCommon setup :
+        {
+          controlResourceSetZero 3,
+          searchSpaceZero 0,
+          commonSearchSpaceList
+          {
+            {
+              searchSpaceId 1,
+              controlResourceSetId 0,
+              monitoringSlotPeriodicityAndOffset sl1 : NULL,
+              nrofCandidates
+              {
+                aggregationLevel4 n0,
+                aggregationLevel8 n2,
+                aggregationLevel16 n2
+              },
+              searchSpaceType common :
+              {
+                dci-Format0-0-AndFormat1-0
+                {
+                }
+              }
+            }
+          },
+          searchSpaceSIB1 0,
+          searchSpaceOtherSystemInformation 1,
+          pagingSearchSpace 1,
+          ra-SearchSpace 1
+        },
+        pdsch-ConfigCommon setup :
+        {
+          pdsch-TimeDomainAllocationList
+          {
+            {
+              k0 0,
+              startSymbolAndLength 68
+            },
+            {
+              k0 0,
+              startSymbolAndLength 81
+            },
+            {
+              k0 0,
+              startSymbolAndLength 94
+            }
+          }
+        }
+      },
+      bcch-Config
+      {
+        modificationPeriodCoeff n4
+      },
+      pcch-Config
+      {
+        defaultPagingCycle rf32,
+        nAndPagingFrameOffset halfT : 1,
+        ns one
+      },
+      k-OffsetCommon ms8
+    },
+    uplinkConfigCommon
+    {
+      frequencyInfoUL
+      {
+        frequencyBandList
+        {
+          {
+            freqBandIndicatorNR 1
+          }
+        },
+        absoluteFrequencyPointA 411984,
+        scs-SpecificCarrierList
+        {
+          {
+            offsetToCarrier 0,
+            subcarrierSpacing kHz120,
+            carrierBandwidth 264
+          }
+        },
+        p-Max 23
+      },
+      initialUplinkBWP
+      {
+        genericParameters
+        {
+          locationAndBandwidth 3574,
+          subcarrierSpacing kHz120,
+          cyclicPrefix extended
+        },
+        rach-ConfigCommon setup :
+        {
+          rach-ConfigGeneric
+          {
+            prach-ConfigurationIndex 36,
+            msg1-FDM one,
+            msg1-FrequencyStart 12,
+            zeroCorrelationZoneConfig 0,
+            preambleReceivedTargetPower -100,
+            preambleTransMax n10,
+            powerRampingStep dB2,
+            ra-ResponseWindow sl80
+          },
+          totalNumberOfRA-Preambles 3,
+          ra-ContentionResolutionTimer sf64,
+          prach-RootSequenceIndex l139 : 24,
+          msg1-SubcarrierSpacing kHz60,
+          restrictedSetConfig unrestrictedSet,
+          msg3-transformPrecoder enabled,
+          beamTypeRachConfig beam2 :
+          {
+            beam-perRACH-OccasionAndCB-PreamblesPerBeam one : n2
+          }
+        },
+        pusch-ConfigCommon setup :
+        {
+          pusch-TimeDomainAllocationList
+          {
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 27,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 41,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 55,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 69,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 83,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 97,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 98,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 84,
+              k-offset ms8
+            },
+            {
+              k2 6,
+              mappingType typeA,
+              startSymbolAndLength 70,
+              k-offset ms8
+            }
+          },
+          msg3-DeltaPreamble 2,
+          p0-NominalWithGrant -74
+        },
+        pucch-ConfigCommon setup :
+        {
+          pucch-ResourceCommon 8,
+          pucch-GroupHopping neither,
+          p0-nominal -100
+        }
+        },
+      timeAlignmentTimerCommon infinity,
+      srs-ConfigServingCell setup :
+      {
+        periodicity sl160,
+        srs-SlotLocation 0,
+        nrofSymbols 2
+      }
+    },
+    n-TimingAdvanceOffset n0,
+    satelliteID 0,
+    beamConfig type2BeamConfig :
+    {
+      beam-Periodicity ms10,
+      duration 10,
+      startTime 0,
+      beamDurationDlToUlOffset ms0,
+      ssb-Periodicity 1
+    },
+    t-MaxMeasOffsetNTN ms1,
+    ss-PBCH-BlockPower 30
+  },
+  ue-TimersAndConstants
+  {
+    t300 ms1000,
+    t301 ms600,
+    t310 ms1000,
+    n310 n20,
+    t311 ms1000,
+    n311 n1,
+    t319 ms1000
+  }
 }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;再比如&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;VStack(content: {
-	Text("Placeholder")
-})
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;而不是&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;VStack{
-
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;是需要设置什么快捷键么？&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 14:20:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018949#reply0</guid></item><item><title>[分享创造] 墨干理工套件 V1.2.5 LTS 发布了</title><link>https://www.v2ex.com/t/1018948#reply0</link><description>&lt;p&gt;马上前往官网 &lt;a href="https://mogan.app" rel="nofollow"&gt;墨干理工套件&lt;/a&gt;  下载！&lt;/p&gt;
-&lt;p&gt;墨干理工套件 V1.2.5LTS 包含以下组件：&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 28 Feb 2024 09:23:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019206#reply0</guid></item><item><title>[问与答] BMI 29.1，有中度脂肪肝。 想用替西帕肽减肥，治疗脂肪肝，可以吗？</title><link>https://www.v2ex.com/t/1019205#reply3</link><description>&lt;p&gt;年龄 30 了，身高 173. 体重 175 斤。
+从小就比较胖，之前结婚前减肥饿加运动，艰难的减肥瘦到过 150 斤，但是没多久恢复饮食又反弹了。
+有一个日本代购的那里了解到替西帕肽，说的是副作用小，效果好。
+想纯粹靠自己运动加饿来减肥太难了，没时间没精力，想的是能不能靠替西帕肽配合运动，减肥更有效果一些？
+主要是想要把脂肪肝减掉&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 09:21:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019205#reply3</guid></item><item><title>[汽车] 海鲜市场的二手轮胎能买吗</title><link>https://www.v2ex.com/t/1019204#reply6</link><description>该换轮胎了，近几年该换车了又不想投太多钱在上面，有老哥在上面买过轮胎吗</description><pubDate>Wed, 28 Feb 2024 09:20:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019204#reply6</guid></item><item><title>[问与答] 在滴滴打出租车被多收费，你会投诉吗？</title><link>https://www.v2ex.com/t/1019203#reply0</link><description>今早上班打出租车，打表计费，到达目的地的时候表显 14.5 ，但是司机在滴滴上输入的费用是 16 元，并没有告知为何多收费。如果是你你会投诉吗？&lt;br /&gt;其他信息: 司机放空 2.5km 来接的，本次行程不到 5km 。&lt;br /&gt;之前打出租车，结束之后司机都告知：南昌打出租车要收 2 元的燃油附加费。这次啥也没说，而且这次打的是电车，似乎是不需要征收燃油附加费的&lt;br /&gt;我纠结的不是他多收多少钱，而是没有跟我说明原因，让我有点坑蒙拐骗的感觉，这种体验让人不舒服。你觉得呢，你会投诉吗？  &lt;br /&gt;考虑到今天是下雨天，放空 2.5KM 来接的，投诉对他们的影响应该挺大的，我就没投诉</description><pubDate>Wed, 28 Feb 2024 09:19:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019203#reply0</guid></item><item><title>[问与答] 现在那些类似于 character ai 的 chatbot，可以用哪些开源组件来平替呢？</title><link>https://www.v2ex.com/t/1019201#reply0</link><description>&lt;p&gt;想尝试做一些用于自己开放世界游戏的 npc ，看了下 character ai ，发现挺有趣，想搭建完全本地的，不知道都可以用哪些开源组件自己尝试下，求有经验的大佬指路。。。&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 09:18:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019201#reply0</guid></item><item><title>[汽车] 比亚迪又掀桌子了</title><link>https://www.v2ex.com/t/1019200#reply4</link><description>16.98 的汉，周末去试驾看看&lt;br /&gt; &lt;a href="https://i.imgur.com/3x01HXk.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/3x01HXk.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 28 Feb 2024 09:16:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019200#reply4</guid></item><item><title>[问与答] 济南有没有什么企业推荐？</title><link>https://www.v2ex.com/t/1019199#reply1</link><description>薪资要求不高，加班少稳定即可。&lt;br /&gt;不知道有没有推荐的企业。</description><pubDate>Wed, 28 Feb 2024 09:15:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019199#reply1</guid></item><item><title>[React] 兄弟们， JS/TS 里字符串用 单引号 or 双引号呢？ 你们公司对这个有规范吗？</title><link>https://www.v2ex.com/t/1019197#reply5</link><description></description><pubDate>Wed, 28 Feb 2024 09:11:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019197#reply5</guid></item><item><title>[OpenAI] [30 秒搞定] 什么是 ChatGPT Team？一键升级官方 ChatGPT Team 教程</title><link>https://www.v2ex.com/t/1019196#reply0</link><description>&lt;h2&gt;&lt;strong&gt;1. ChatGPT Team 介绍&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ChatGPT Team&lt;/strong&gt;是 OpenAI 在 2023 年下半年推出的&lt;strong&gt;一种会员计划&lt;/strong&gt;，旨在为企业和团队用户提供更加专业和高级的服务。&lt;/p&gt;
+&lt;p&gt;与 ChatGPT Plus 版本相比，Team 版本不仅能访问 ChatGPT4 、DALLE 等高级模型，还提供了&lt;strong&gt;更长的上下文窗口&lt;/strong&gt;、&lt;strong&gt;更多的对话次数&lt;/strong&gt;，并且保证用户产生的数据不会被用于训练 GPT 模型。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/RFbnjK3voegXwlY.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/RFbnjK3voegXwlY.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这一计划特别适合需要&lt;strong&gt;高频使用 ChatGPT&lt;/strong&gt;服务且对数据隐私有较高要求的企业用户。&lt;/p&gt;
+&lt;p&gt;今天我就来教大家如何开通 ChatGPT Team ，分别是&lt;strong&gt;一键升级方式&lt;/strong&gt;和&lt;strong&gt;手动开通方式&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;2. ChatGPT Team 的优势&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;下面是 ChatGPT Team 的优势和特点：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;墨干 V1.2.5LTS (Mogan Research v1.2.5 LTS)&lt;/li&gt;
+&lt;li&gt;访问 GPT-4 ，拥有 32K 上下文窗口（比 Plus 拥有&lt;strong&gt;更长的上下文&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPT-4 、DALL·E 3 、数据分析、联网&lt;/strong&gt;等高级功能都可以使用；&lt;/li&gt;
+&lt;li&gt;对话次数更多，Plus 会员的话是每三个小时 40 次，Team 版本则是&lt;strong&gt;每三个小时 100 次&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;不会将商业数据或对话用户训练 GPT 模型&lt;/li&gt;
+&lt;li&gt;为团队提供安全的工作空间（&lt;strong&gt;数据不会被用于训练模型&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;在自己的工作空间内创建和分享自定义 GPTs&lt;/li&gt;
+&lt;li&gt;工作空间和团队管理的管理员控制台&lt;/li&gt;
+&lt;li&gt;新功能和改进的早期访问权限&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;本次更新主要是修复既有错误、改进用户体验。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;注意：一个重大的变更是默认开启了实验选项&lt;code&gt;DO NOT use UTF-8 for CJK in TM format&lt;/code&gt;，保持和 GNU TeXmacs 2.1.2 的兼容性。之前在墨干 V1.1.x 使用了 TM 格式中显示中文特性的用户，可以关闭这个选项以正确加载墨干 V1.1.x 生成的可以在纯文本编辑器中正常显示中文的文档。v1.1.x 的在 tm 文档中显示中文的特性可能会带来一些严重的兼容性问题，故而不建议用户使用可以在纯文本编辑器中正常显示中文的 TM 文档。从墨干 V1.2.6 开始，我们会实验性地支持 TMU 格式以 UTF-8 编码显示中文。TMU 格式经过多个版本迭代，最终才会对所有用户开放。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;墨干 V1.2.5 LTS 这个版本标志着墨干作为 GNU TeXmacs 的一个发行版，基本完成了从 Qt 4 到 Qt 6 的升级，从 GNU Guile 1.8 到 S7 Scheme 的执行引擎切换，从 Autotools 到 xmake 的构建工具切换等重要的基础设施的建设。在这个坚实的基础上，从 V1.2.0 开始，我们以一月一版本的愉快的高强度研发迭代下，大大改善了墨干的可用性和易用性。&lt;/p&gt;
-&lt;p&gt;墨干 V1.2.5 LTS 是为期至少一年的长期支持版，其目的是服务教育工作者。一年的长期支持，是为了覆盖 2024 年的春季学期和秋季学期。欢迎教育工作者们使用墨干制作试卷、幻灯片、讲义以及撰写书籍。在未来的一个月内，我们会发布 V1.2.5.1 ，以修复 V1.2.5 中仍旧存在的错误。后续的补丁版本会按需发布，欢迎教育工作者们使用墨干并反馈错误。&lt;/p&gt;
-&lt;p&gt;墨干 V1.2.5 LTS 保留了对 Qt 5 的支持，这是为了以一种比较低的维护成本为老旧系统提供构建墨干的可行性：比如 Windows 7 ，macOS 10.x ，龙芯生态的旧世界。&lt;/p&gt;
-&lt;p&gt;从墨干 V1.2.6 开始，我们将移除对 Qt 5 的支持，轻装上阵；另外，我们也会放慢研发迭代的节奏，每两个月发布一个版本，作为 TeXmacs 发行版中的先行者，稳步迭代进化。&lt;/p&gt;
-&lt;h2&gt;影响用户体验的详细更新&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;3. ChatGPT Team 价格&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;当前，ChatGPT Team 的订阅费用定为每月 25 美元，与 ChatGPT Plus 的月费 20 美元相比，并没有高多少。&lt;/p&gt;
+&lt;p&gt;但是，想要享受这一优惠价格，用户需要一次性支付全年的费用。&lt;/p&gt;
+&lt;p&gt;如果选择按月支付的话，费用上升至每月 30 美元。&lt;/p&gt;
+&lt;p&gt;此外，想要设立 ChatGPT Team 账户，起始成员数不得少于两人。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/AK4zpblGUxmWhH7.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/AK4zpblGUxmWhH7.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;4. 如何开通 ChatGPT Team&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工具准备：&lt;/strong&gt;一台电脑、科学上网工具、ChatGPT 账号&lt;/p&gt;
+&lt;p&gt;如果你没有 ChatGPT 账号，请点击：&lt;a href="https://gptcard.cn/2024/02/10/t-10-reg-openai/" rel="nofollow"&gt;ChatGPT 注册太繁琐？教你一键注册官方 GPT 账号！&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4.1 一键升级 ChatGPT Team 教学&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;首先进入&lt;a href="https://bewildcard.com/i/EVEN" rel="nofollow"&gt;wildcard&lt;/a&gt;首页，进去开通一张虚拟信用卡，开通需要支付 11.9 美元（从链接进入可以优惠两美元，即 9.9 美元，并且是&lt;strong&gt;一次性付费&lt;/strong&gt;，之后不需要再付费）&lt;/p&gt;
+&lt;p&gt;如果需要&lt;strong&gt;详细手把手教学&lt;/strong&gt;，请点击：&lt;a href="https://gptcard.cn/2024/02/10/t-02-how-to-add-card/" rel="nofollow"&gt;wildcard 保姆级教程&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开通后，点击”我的服务“进入主界面&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/Wg6jK3CY5yvTSub.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/Wg6jK3CY5yvTSub.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再点击进入一键升级 ChatGPT Team&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/VqbKcwZ9dWAHmBr.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/VqbKcwZ9dWAHmBr.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后订阅类型选择 team&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/t8aobuUZmIXk5T6.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/t8aobuUZmIXk5T6.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;接着按照图中步骤（这里的步骤&lt;strong&gt;跟本文 4.2 节里的前半部分相同&lt;/strong&gt;，也可以参考 4.2 节）进入 ChatGPT 官网，选择你需要的订阅方式、team 人数、team 名称设置好之后，点击下一步&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/x6J19mFIrASlqXp.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/x6J19mFIrASlqXp.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最后将支付链接拷贝到输入框，点击确定支付并升级，就可以升级到 GPT Team 啦！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/C3JtPSZ6sTzFdfg.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/C3JtPSZ6sTzFdfg.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/pziyRrHfhNZ5taQ.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/pziyRrHfhNZ5taQ.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4.2 手动开通 ChatGPT Team 教学&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;首先进入网站首页，首先点击自己的头像，然后再弹出菜单中选择 My plan&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/m65j4FueSgI2BHv.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/m65j4FueSgI2BHv.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后点击 Add Team wokrspace ，进入升级界面&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/o2x549pKgZibjyN.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/o2x549pKgZibjyN.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;接下来会要求你创建 workspace ，先输入你团队的名字，注意，这里的名字在后续可以随时更改的&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/jZJARC1yTL9MdGl.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/jZJARC1yTL9MdGl.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;设置好名字后，点击 Select billing options ，即选择订阅计划&lt;/p&gt;
+&lt;p&gt;这里有两种订阅计划，年付和月付，年付的话是 25 刀每月，月付的话是 30 刀每月。根据个人需要选择即可。&lt;/p&gt;
+&lt;p&gt;此外，还可以选择 team 里面的人数，最低是 2 人&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/ecRt71xmFdOBUgV.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/ecRt71xmFdOBUgV.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;然后点击 continue to billing ，进入支付，在这里输入你的信用卡信息，然后点击确认支付即可&lt;/p&gt;
+&lt;p&gt;如果你&lt;strong&gt;没有国外信用卡&lt;/strong&gt;或者有虚拟信用卡但是&lt;strong&gt;订阅失败&lt;/strong&gt;，可以参考使用 4.1 节的&lt;strong&gt;一键升级 ChatGPT Team 教程&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s2.loli.net/2024/02/13/K4qOjJmcEiwHbT9.png" rel="nofollow"&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/02/13/K4qOjJmcEiwHbT9.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;5. &lt;strong&gt;总结&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;工具网站（从链接进入有 14 块钱优惠）&lt;/strong&gt;： &lt;a href="https://bewildcard.com/i/EVEN" rel="nofollow"&gt;WildCard 一分钟开卡，轻松订阅海外软件服务&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总费用：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-安装包&lt;ul&gt;
-&lt;li&gt;提供 Ubuntu 20.04 的 deb 安装包&lt;/li&gt;
-&lt;li&gt;提供 Debian 12 (bookworm)的 deb 安装包&lt;/li&gt;
-&lt;li&gt;提供 Windows 平台的便携版安装包&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-幻灯片模式&lt;ul&gt;
-&lt;li&gt;修复在 macOS 平台切换幻灯片主题无法切换幻灯片背景图的问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-快捷键&lt;ul&gt;
-&lt;li&gt;macOS：Command 和+/-的组合无论是否按下 Shift 都可以放大或者缩小&lt;/li&gt;
-&lt;li&gt;修复未知快捷键被作为文本插入到文档中的问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-用户界面&lt;ul&gt;
-&lt;li&gt;修复在 macOS 平台双击打开含有中文字符的文件失败的问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-排版引擎&lt;ul&gt;
-&lt;li&gt;修复在文档中删除内容出现残影的问题&lt;/li&gt;
-&lt;li&gt;修复在幻灯片设置部分内容为双栏时出错的问题&lt;/li&gt;
-&lt;li&gt;number 原语支持汉字的数字：一、二、三等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-性能优化&lt;ul&gt;
-&lt;li&gt;改进解析 TeXmacs 文档的性能&lt;/li&gt;
-&lt;li&gt;改进渲染 Pine 幻灯片主题的性能&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-PDF 导入&lt;ul&gt;
-&lt;li&gt;新增&lt;code&gt;文件-&amp;gt;导入-&amp;gt;可编辑 PDF&lt;/code&gt;用于导入可编辑 PDF ，而不是直接使用&lt;code&gt;文件-&amp;gt;打开&lt;/code&gt;来打开可编辑 PDF&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-版本控制&lt;ul&gt;
-&lt;li&gt;修复在 Windows 平台进入&lt;code&gt;版本-&amp;gt;历史&lt;/code&gt;之后，无法查看文档历史版本的问题&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-图像插件&lt;ul&gt;
-&lt;li&gt;改进对 Postscript 图像格式的支持（需要用户手动安装 Ghostscript ）&lt;/li&gt;
-&lt;li&gt;改进对 SVG 图像格式的支持（需要用户手动安装 Inkscape ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-会话插件&lt;ul&gt;
-&lt;li&gt;改进 Scheme 会话中中文变量名、中文字符串的支持&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-代码插件&lt;ul&gt;
-&lt;li&gt;重新添加了 Python 的代码高亮&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 27 Feb 2024 14:17:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018948#reply0</guid></item><item><title>[Notion] Notion 公开页面在 google 中搜索不到</title><link>https://www.v2ex.com/t/1018947#reply0</link><description>请教一个问题～&lt;br /&gt;&lt;br /&gt;我在 Notino 中公开的页面，也打开了 search engine indexing ，很久之前打开的了，但一直在 google 中搜索不到，使用 site:&lt;a href="http://notion.net" rel="nofollow noopener" target="_blank"&gt;notion.net&lt;/a&gt; 的方式也一样搜索不到，这可以怎么处理呢？</description><pubDate>Tue, 27 Feb 2024 14:13:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018947#reply0</guid></item><item><title>[问与答] 兄弟们，对于前后端联调中，对响应数据结构的定义，有没有最佳实践？</title><link>https://www.v2ex.com/t/1018946#reply0</link><description>&lt;p&gt;目前根据我的工作经验，只能得到如下的三种情况，是否有改进空间呢？&lt;/p&gt;
+&lt;li&gt;开卡费用 9.99$（一整年的费用，平均下来每天不到两毛钱）&lt;/li&gt;
+&lt;li&gt;GPT Team 订阅的费用（ 25$）&lt;/li&gt;
+&lt;li&gt;总共 34.99$，折合&lt;strong&gt;人民币约 245 元&lt;/strong&gt;（参考汇率 7 ）&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 28 Feb 2024 09:09:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019196#reply0</guid></item><item><title>[问与答] 现在还有一些精简类 win7 win10 可安装吗？</title><link>https://www.v2ex.com/t/1019195#reply3</link><description>&lt;p&gt;手边拿到一个旧笔记本 thinkpad x260 ，配置比较旧了，i5 6200u +8G + 256G ssd 。&lt;/p&gt;
+&lt;p&gt;准备格式化重新装一下，早年 xp 时代有各种精简版，现在都是 win11 时代了，早年 7 和 10 有精简吗？&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 09:05:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019195#reply3</guid></item><item><title>[问与答] Teams 的会议通知邮件使用的代发服务器 IP 最近是不是有问题？</title><link>https://www.v2ex.com/t/1019193#reply1</link><description>&lt;p&gt;公司邮箱用的 &lt;a href="http://bl.spamcop.net" rel="nofollow"&gt;bl.spamcop.net&lt;/a&gt; 这套黑名单，这两天开始收不到 Teams 的会议通知邮件。错误信息如下&lt;/p&gt;
+&lt;p&gt;xxxx 提供了此错误:
+Decision Engine classified the mail item was rejected because of IP Block (from outbound normal IP
+pools) -&amp;gt; 554 5.7.1 Service unavailable; Client host [40.107.255.108] blocked using &lt;a href="http://bl.spamcop.net" rel="nofollow"&gt;bl.spamcop.net&lt;/a&gt;;
+Blocked - see &lt;a href="https://www.spamcop.net/bl.shtml?40.107.255.108" rel="nofollow"&gt;https://www.spamcop.net/bl.shtml?40.107.255.108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AS 信息：
+AS8075 MICROSOFT-CORP-MSN-AS-BLOCK&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 09:04:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019193#reply1</guid></item><item><title>[程序员] 今天备案 APP 发现限制又增加了</title><link>https://www.v2ex.com/t/1019192#reply10</link><description>搞错节点了，重新发一下。&lt;br /&gt;&lt;br /&gt;上次刚吐槽完 APP 需要备案和每次需要买备案服务码 100 元的问题。&lt;br /&gt;今天在阿里又看到流程改了一下，还提示了额外的限制：&lt;br /&gt;&lt;br /&gt;&lt;a href="https://cdn.ipfsscan.io/ipfs/QmZWeF7epuhYUWAPoCgoHk6mGZHaie2ijUqtREZHR2SpeA?filename=image.png" rel="nofollow noopener" target="_blank"&gt;https://cdn.ipfsscan.io/ipfs/QmZWeF7epuhYUWAPoCgoHk6mGZHaie2ijUqtREZHR2SpeA?filename=image.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://cdn.ipfsscan.io/ipfs/QmaoBSnzn5KQDfhcLp7rcqkdEKjnSPNkLEpHcwfRBBT38j?filename=image.png" rel="nofollow noopener" target="_blank"&gt;https://cdn.ipfsscan.io/ipfs/QmaoBSnzn5KQDfhcLp7rcqkdEKjnSPNkLEpHcwfRBBT38j?filename=image.png&lt;/a&gt;</description><pubDate>Wed, 28 Feb 2024 09:01:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019192#reply10</guid></item><item><title>[问与答] 阻止手机版 Edge 自动翻译</title><link>https://www.v2ex.com/t/1019191#reply1</link><description>同样是移动端，Chrome 可以点击从不翻译此网页，但是目前为止我没看见 Edge 可以这样做。每次点进 Reddit 这样的网站就会触发自动翻译，拖慢加载速度。&lt;br /&gt;出于美观等一系列原因，我已经不在手机上用 Chrome 了，Edge 各方面来说都更好，有什么方法能解决上述问题吗？</description><pubDate>Wed, 28 Feb 2024 08:52:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019191#reply1</guid></item><item><title>[macOS] Arc 浏览器会抢 AirPods 的自动切换？</title><link>https://www.v2ex.com/t/1019190#reply2</link><description>前言：&lt;br /&gt;平时耳机（ AirPods Pro 2 ）在 iPhone 和 Mac 上都是开的自动切换，很丝滑&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;但最近发现，iPhone 这边戴着耳机听着播客/音乐，只要 MacBook 从合盖状态把屏幕推起来点亮，耳机就直接没声儿了（ iPhone 暂停，Mac 显示已连接）&lt;br /&gt;&lt;br /&gt;问题定位：&lt;br /&gt;1 、测试了一遍怀疑对象，定位到 Arc （刚好也是最近开始装的），只要不开 Arc 就是正常丝滑的，开 Arc 即使没在播什么，也会抢耳机&lt;br /&gt;&lt;br /&gt;2 、于是尝试用同一个组合动作 [先盖上 Mac ，iPhone 连耳机播音乐，打开 Mac 盖子，看会不会抢] ，对 Arc 每一个状态都测一遍，做下具体问题定位：&lt;br /&gt;&lt;br /&gt;step1：Mac 开机，不开 Arc——不抢&lt;br /&gt;step2：打开 Arc ，处于无任何网页打开的状态——不抢&lt;br /&gt;step3：Arc 开 B 站，随便播一个视频——抢（符合预期）✅&lt;br /&gt;step4：关掉 B 站，恢复到 step2 的清空状态——还抢（？？？）❌&lt;br /&gt;step5：dock 栏右键退出 Arc——不抢&lt;br /&gt;&lt;br /&gt;3 、我遇到的问题应该就是 step4 ，似乎 Arc 只要产生播放行为后，就会开个后台一直播放点啥，导致抢 AirPods （有点像早先 iPhone 某些 app 为了后台保活，播一个无声音频）&lt;br /&gt;&lt;br /&gt;你们有遇到这种情况吗？还是就我碰到 bug 了😂，Arc 还挺有意思，不想因为这个逼着回 Chrome</description><pubDate>Wed, 28 Feb 2024 08:51:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019190#reply2</guid></item><item><title>[生活] 买个理发器，从此之后我就是自己的 Tony 老师了 😅</title><link>https://www.v2ex.com/t/1019189#reply14</link><description>我的头发生长迅速，大约 20 天便需要修剪两侧，以致每年得光顾理发店近 20 次，这既麻烦又耗时。&lt;br /&gt;&lt;br /&gt;为了省事，我购买了米家理发器 2 ，第一次使用便掌握了基本技巧😄。唯一无法解决的是头顶长发（我不是寸头），打算再购置一把剪刀。&lt;br /&gt;&lt;br /&gt;理发器非常适合头发生长较快的用户（特别是两侧），一年还可以省下几百块。&lt;br /&gt;&lt;a href="https://i.imgur.com/XBW78W2.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XBW78W2.jpg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 28 Feb 2024 08:50:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019189#reply14</guid></item><item><title>[问与答] VoIP 设备拨出的电话是可以伪造成任意来电显示和短信号码吗？</title><link>https://www.v2ex.com/t/1019188#reply0</link><description>它有没有距离限制？是对设备附近拨打的手机号码伪造还是长距离全球都可以拨打伪造来电？&lt;br /&gt;这和伪基站一样吗，屏蔽正常信号，显示虚假来电号码&lt;br /&gt;还有 GoIP 设备</description><pubDate>Wed, 28 Feb 2024 08:50:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019188#reply0</guid></item><item><title>[分享发现] 2024 年 2 月赴港开通银行卡记录</title><link>https://www.v2ex.com/t/1019187#reply0</link><description>&lt;h2&gt;赴港背景&lt;/h2&gt;
+&lt;p&gt;因为需要投资港美股，加上虚拟货币的原因，拥有一张香港的银行卡已经成为了迫切需要的工具。同时因为目前 A 股市场的不景气，同时又有传言称 2 月之后，香港会加强银行卡的申请限制。因此决定 2024 年 2 月前往香港肉身开卡。&lt;/p&gt;
+&lt;h2&gt;开卡目标&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;正常请求响应数据&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;httpCode = 200&lt;/li&gt;
-&lt;li&gt;responseData&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-jsx"&gt;{
-	message: "获取数据成功",
-	code: 0,
-	data: {}
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;开通 中银香港的银行卡&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;业务错误响应数据&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;httpCode = 200&lt;/li&gt;
-&lt;li&gt;responseData&lt;/li&gt;
-&lt;li&gt;请求-响应链路没有问题，但是业务逻辑出错了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-jsx"&gt;{
-	message: "业务错误",
-	code: 10000,
-	data: null,
-}
-
-前后端，提前约定好 code = 10000 的具体业务含义
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;开通 汇丰 One 的银行卡&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;请求-响应过程错误响应数据&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;httpCode ≠ 200&lt;/li&gt;
-&lt;li&gt;responseData&lt;/li&gt;
-&lt;li&gt;请求-响应链路有问题，比如接口 4XX ，5XX 了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-jsx"&gt;{
-	message: "服务错误",
-	code: 0,
-	data: null,
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;开通 ZA Bank 的虚拟银行卡&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 27 Feb 2024 14:01:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018946#reply0</guid></item><item><title>[问与答] 实体 eSIM 卡除了 eSIM.me 还有其他选择吗?</title><link>https://www.v2ex.com/t/1018945#reply1</link><description>如题, 感觉 &lt;a href="http://eSIM.me" rel="nofollow noopener" target="_blank"&gt;eSIM.me&lt;/a&gt; 还要 KYC 有点烦, 另外好像 Android 13+还有 bug?&lt;br /&gt;有什么其他推荐吗?&lt;br /&gt;&lt;br /&gt;注意: 本帖讨论的不是 esim 供应商, 而是用于没有 esim 手机的实体可切换 profile 的 esim 卡</description><pubDate>Tue, 27 Feb 2024 13:55:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018945#reply1</guid></item><item><title>[开源软件] Tran v.0.2.5 发布了!</title><link>https://www.v2ex.com/t/1018943#reply0</link><description>&lt;h1&gt;&lt;a href="https://github.com/Borber/tran" rel="nofollow"&gt;Tran&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="tran" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/Borber/PublicPic1/tran/v1/tran.png" /&gt;&lt;/p&gt;
-&lt;h1&gt;更新&lt;/h1&gt;
-&lt;p&gt;相比 0.2.3 版本, 近期的优化的部分有:&lt;/p&gt;
-&lt;h2&gt;[0.2.5]&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;修复副屏在左侧时的错误边界检测&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;[0.2.4]&lt;/h2&gt;
+&lt;h2&gt;前期准备&lt;/h2&gt;
+&lt;h3&gt;开通漫游&lt;/h3&gt;
+&lt;p&gt;虽然香港是中国的一部分，但是内地的电话卡如果想要在香港使用，还是需要打电话给运营商，开通国际漫服务的。&lt;/p&gt;
+&lt;p&gt;如果你不想麻烦，可以在手机运营商或者支付宝上购买境外流量。亦或者和我一样，入关的时候购买&lt;code&gt;MySIM&lt;/code&gt;卡（ 33 港币，50G 本地流量）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;提醒&lt;/strong&gt;：开通漫游服务免费，不用担心开通之后就被扣费。&lt;/p&gt;
+&lt;h3&gt;线上预约&lt;/h3&gt;
+&lt;p&gt;从 2023 年 12 月开始，中银香港、汇丰香港的大部分银行，都开始严格遵守预约制度。因此在前往香港之前， 需要先在网上预约对应的银行开户日期。&lt;/p&gt;
+&lt;p&gt;我分别在&lt;code&gt;中银香港微服务&lt;/code&gt;微信公众号和&lt;code&gt;汇丰香港&lt;/code&gt;网站上进行了预约。这部分不展开详细描述。网上有很多教程。&lt;/p&gt;
+&lt;h3&gt;下载 App&lt;/h3&gt;
+&lt;p&gt;分别下载以下 App ，减少办卡时的无效时间：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-「翻译中」 状态&lt;ul&gt;
-&lt;li&gt;新增加载动画效果&lt;/li&gt;
-&lt;li&gt;调整样式&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;ZA Bank&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;微调字体&lt;/li&gt;
-&lt;li&gt;优化版本更新检测&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HSBC HK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BOCHK 中银香港&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BOC Pay&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;推荐&lt;/h2&gt;
-&lt;p&gt;推荐安装以下字体:&lt;/p&gt;
+&lt;h2&gt;材料准备&lt;/h2&gt;
+&lt;p&gt;为了保证 100%能否下卡，你可能需要携带以下几份材料。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/FiraCode.zip" rel="nofollow"&gt;FiraCode Nerd Font Mono&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/lxgw/LxgwWenKai" rel="nofollow"&gt;LXGW WenKai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;身份证&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;港澳台通行证&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;入港小白条&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;收入证明（非必须）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;纳税证明（非必须）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;社保记录（非必须）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;地址证明（包括但不限于 信用卡账单、水电单等能够证明你地址的文件）&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h1&gt;Tran&lt;/h1&gt;
-&lt;p&gt;简洁, 快速, 划词翻译&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.v2ex.com/README_EN.md" rel="nofollow"&gt;&lt;img alt="EN_README" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-EN_README-yellow?color=%2307baf3&amp;amp;style=for-the-badge&amp;amp;logoColor=white" /&gt;&lt;/a&gt;
-&lt;a href="https://www.rust-lang.org/" rel="nofollow"&gt;&lt;img alt="Rust" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-Rust-orange?logo=rust&amp;amp;style=for-the-badge&amp;amp;logoColor=white" /&gt;&lt;/a&gt;
-&lt;a href="https://tauri.app/" rel="nofollow"&gt;&lt;img alt="Tauri" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/Tauri-blue?logo=tauri&amp;amp;color=1B1B1D&amp;amp;style=for-the-badge" /&gt;&lt;/a&gt;
-&lt;a href="https://github.com/Borber/tran/releases" rel="nofollow"&gt;&lt;img alt="Windows" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-Windows-blue?logo=windows&amp;amp;style=for-the-badge&amp;amp;logoColor=white" /&gt;&lt;/a&gt;
-&lt;a href="https://github.com/Borber/tran/releases" rel="nofollow"&gt;&lt;img alt="MacOS" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-macOS-black?&amp;amp;logo=apple&amp;amp;style=for-the-badge&amp;amp;logoColor=white" /&gt;&lt;/a&gt;
-&lt;a href="https://github.com/Borber/tran/releases" rel="nofollow"&gt;&lt;img alt="Linux" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-Linux-yellow?logo=linux&amp;amp;style=for-the-badge&amp;amp;logoColor=white" /&gt;&lt;/a&gt;
-&lt;a href="https://github.com/Borber/tran?tab=GPL-3.0-1-ov-file" rel="nofollow"&gt;&lt;img alt="LICENSE" class="embedded_image" rel="noreferrer" src="https://img.shields.io/github/license/borber/tran?color=%2398cbed&amp;amp;logo=rust&amp;amp;style=for-the-badge" /&gt;&lt;/a&gt;
-&lt;a href="https://github.com/Borber/tran/releases" rel="nofollow"&gt;&lt;img alt="Downloads" class="embedded_image" rel="noreferrer" src="https://img.shields.io/github/downloads/Borber/tran/total.svg?style=for-the-badge&amp;amp;color=82E0AA&amp;amp;logo=github" /&gt;&lt;/a&gt;
-&lt;a href="https://t.me/borber_tran" rel="nofollow"&gt;&lt;img alt="Telegram" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-Telegram-yellow?style=for-the-badge&amp;amp;color=25a3e1&amp;amp;logo=telegram" /&gt;&lt;/a&gt;
-&lt;a href="https://www.cloudflare.com/" rel="nofollow"&gt;&lt;img alt="Cloudflare" class="embedded_image" rel="noreferrer" src="https://img.shields.io/badge/-Cloudflare-yellow?style=for-the-badge&amp;amp;color=555555&amp;amp;logo=cloudflare" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Keep it simple ，stupid.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;你好&lt;/h1&gt;
-&lt;div&gt;
-&lt;a alt="Tran" href="https://github.com/Borber/tran" rel="nofollow"&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/Borber/PublicPic1/tran/v1/tran.png" /&gt;
-&lt;/a&gt;
-&lt;/div&gt;
+&lt;p&gt;以上内容都是我自己准备的。虽然有些复杂，但是 100%保证通过银行卡的审核。其中需要注意的，是信用卡账单最好是招商银行的。因为我看到不止一例，其他银行的账单香港方面不认可。&lt;/p&gt;
+&lt;h2&gt;办卡流程&lt;/h2&gt;
+&lt;p&gt;8:00 达到福田口岸，进入香港。入关后，在入关口的 711 便利店中购买&lt;code&gt;MySim&lt;/code&gt;电话卡（里面包含 50G 的香港流量）。&lt;/p&gt;
+&lt;p&gt;8:20 乘坐 B1 公交前往元朗。在公交上使用手机开通了 ZA 虚拟银行卡；&lt;/p&gt;
+&lt;p&gt;8:40 到达汇丰元朗大厦。&lt;strong&gt;注意&lt;/strong&gt;:汇丰元朗开卡业务目前在 2 楼（内地层数是 3 楼，因为香港的一楼叫 G 层），不要呆呆站在门口等着开门，直接去 2 楼等待。&lt;/p&gt;
+&lt;p&gt;9:01 取号。&lt;/p&gt;
+&lt;p&gt;9:10 叫号，随汇丰人员进入办卡房间。&lt;/p&gt;
+&lt;p&gt;9:11 询问开卡目的（&lt;strong&gt;这里为了保证下卡，一定要说投资&lt;/strong&gt;。）检验了身份证、港澳台通行证和入关小白条，确认后开始在 App 上指导操作。&lt;/p&gt;
+&lt;p&gt;9:20 办理结束，直接下卡。提示需要去楼下修改密码，汇入一笔钱保证开通（我汇入了 100 港币）&lt;/p&gt;
+&lt;p&gt;9:40 前往对面的中银元朗青山道分行，取号。&lt;/p&gt;
+&lt;p&gt;10:00 银行经理确认地址证明可用，指导在手机的 APP 上填写相关信息；&lt;/p&gt;
+&lt;p&gt;10:10 办理银行卡；&lt;/p&gt;
+&lt;p&gt;10:11 询问开户目的、投资金额、是否购买港股经验。这里按照实际情况说就行；&lt;/p&gt;
+&lt;p&gt;10:20 办理结束，直接下卡。要求汇入一笔钱保证开通，同时需要查询银行卡。&lt;/p&gt;
+&lt;p&gt;10:30 整体办理结束。&lt;/p&gt;
+&lt;h2&gt;注意事项&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;开箱即用&lt;/li&gt;
-&lt;li&gt;永久免费使用&lt;/li&gt;
-&lt;li&gt;谷歌翻译镜像&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 27 Feb 2024 13:47:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018943#reply0</guid></item><item><title>[分享发现] 遥遥领先做产品是能恶心人的</title><link>https://www.v2ex.com/t/1018942#reply4</link><description>前些年朋友送的手环，当时用的“华为穿戴”app ，不用登账号就能使用，用了一段时间不是很习惯就吃灰了。&lt;br /&gt;去年发了一个手表，吃灰了好久，刚刚翻出来准备试试，发现必须使用新的“华为运动健康”app ，必须登账号才能添加设备，不登账号就不给用，设备也不能初始化。&lt;br /&gt;与此同时老版穿戴 app 也消失了。🐶🐶🐶&lt;br /&gt;（我自己多年前用过领先牌的手机，在那之后再也不买这个牌子的东西，但奈何不自购也会得到（手环和手表）。）</description><pubDate>Tue, 27 Feb 2024 13:39:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018942#reply4</guid></item><item><title>[问与答] 上海电信宽带，直连光猫可获取 ipv6，透过锐捷路由器就不行</title><link>https://www.v2ex.com/t/1018941#reply4</link><description>上海电信宽带，用的新版云光猫，打 10000 号总算是开通了 ipv6&lt;br /&gt;&lt;br /&gt;核心需求：&lt;br /&gt;用电视盒子看 ipv6 的电视直播源，方便家里老人家（已有 2 路 iptv ，但是想更多的电视机可以看节目）。然后电视盒子很奇葩，只要是连 wifi ，2 天后必然 wifi 怎么都连不上，必须硬开关才行，只有连有线才能解决这个问题，恰好，之前有布过网线。&lt;br /&gt;&lt;br /&gt;目前状况：&lt;br /&gt;任意设备（手机、笔记本），直接通过 wifi 连接光猫（光猫拨号，非路由桥接拨号），都可以获取 ipv6 地址，并且通过 &lt;a href="http://ipw.cn" rel="nofollow noopener" target="_blank"&gt;ipw.cn&lt;/a&gt; 的测试，使用 APTV 等软件直接观看 ipv6 的电视直播源&lt;br /&gt;&lt;br /&gt;问题：&lt;br /&gt;在光猫下接了一个锐捷的路由器（锐捷星耀蜂鸟套装 H30 ）（ &lt;a href="https://imgur.com/2vDl2J0" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/2vDl2J0&lt;/a&gt; ），主路由（ H30M ）开启机器内的 IPV6 功能后，任意设备（手机、笔记本）连接路由器，都无法获得 ipv6 的地址。查看具体设置细目，发现，路由器无法获得“IPV6 前缀”（ &lt;a href="https://imgur.com/a/Ww66i77" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/Ww66i77&lt;/a&gt; ），于是上了锐捷官网查看 Q&amp;amp;A ，结果按照 QA 设置打开 NAT66 后（ &lt;a href="https://imgur.com/hrJtFWv" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/hrJtFWv&lt;/a&gt; ）（ &lt;a href="https://imgur.com/oAUDJcv" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/oAUDJcv&lt;/a&gt; ），还是无法获得，或者获得 IPV6 地址后（ 240E 开头的外网地址），无法通过通过 &lt;a href="http://ipw.cn" rel="nofollow noopener" target="_blank"&gt;ipw.cn&lt;/a&gt; 的测试或访问 IPV6 的资源。附：其他锐捷 IPV6 设置界面：（ &lt;a href="https://imgur.com/FXxl5Gk" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/FXxl5Gk&lt;/a&gt; ）（ &lt;a href="https://imgur.com/4X9d5MM" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/4X9d5MM&lt;/a&gt; ）&lt;br /&gt;&lt;br /&gt;但是，同一个路由器，在移动光猫下，就可以不需要任何设置，直接给连接设备下发 IPV6 地址&lt;br /&gt;&lt;br /&gt;也打了 10000 号，技术大哥回电表示，他也爱末能助，需要提交工单让更高的后台看&lt;br /&gt;&lt;br /&gt;也试过「中国电信光猫超级密码失效？我们一起来抓包」（ &lt;a href="https://post.smzdm.com/p/aeqg7v34/?send_by=7315593018&amp;amp;invite_code=zdmawwhqkzinv&amp;amp;zdm_ss=iOS_7315593018_&amp;amp;from=singlemessage" rel="nofollow noopener" target="_blank"&gt;https://post.smzdm.com/p/aeqg7v34/?send_by=7315593018&amp;amp;invite_code=zdmawwhqkzinv&amp;amp;zdm_ss=iOS_7315593018_&amp;amp;from=singlemessage&lt;/a&gt; ）文章里的抓包方法抓光猫密码，结果上海电信这个光猫抓出来提示 error</description><pubDate>Tue, 27 Feb 2024 13:37:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018941#reply4</guid></item><item><title>[计算机] 7K 预算的装机方案,欢迎大佬点评</title><link>https://www.v2ex.com/t/1018939#reply2</link><description>主板:技嘉 B650M GAMING WIFI&lt;br /&gt;cpu:R7 7800X3D 盒装&lt;br /&gt;显卡:七彩虹 RTX4060TI 战斧 豪华版 8G&lt;br /&gt;内存:威刚 XPG 威龙 D500 16G DDR5 黑色马甲条(海力士 A-DIE)*2&lt;br /&gt;硬盘:宏碁掠夺者 GM7-1.0T&lt;br /&gt;散热:利民 AX120 R SE 黑色[无光]&lt;br /&gt;电源:航嘉 WD650EVO 直出黑 额定 650W 铜牌认证&lt;br /&gt;机箱:未知玩家 P60 黑色 [ MATX 主板/ATX 电源/168MM 限高] &lt;br /&gt;价格:7918.86&lt;br /&gt;&lt;br /&gt;因为一直在用 mac 办公,今年突发奇想想整台台式机玩游戏, 因为从来没自己组装过机器所以这次就决定尝试下&lt;br /&gt;作用主要就是写写代码,玩玩网游,不怎么玩 3A 所以显卡不需要多好&lt;br /&gt;&lt;br /&gt;求大佬点评下有没问题</description><pubDate>Tue, 27 Feb 2024 13:32:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018939#reply2</guid></item><item><title>[Android] 寻求支持 Android Auto 的国产地图软件</title><link>https://www.v2ex.com/t/1018938#reply2</link><description>&lt;p&gt;最近刚刚从 iPhone 更换到 Android 手机，车上后改的车机居然支持 Android Auto ，但 Google 地图在国内几乎处于不可用的状态，路线都是很多年前的，新路一条都找不到。&lt;/p&gt;
-&lt;p&gt;请问各位 V 友知不知道有没有哪款国内地图应用或第三方客户端可以兼容 Android Auto 的呢？谢谢！&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 13:30:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018938#reply2</guid></item><item><title>[iPhone] iPhone 自带翻译软件质量差</title><link>https://www.v2ex.com/t/1018937#reply0</link><description>&lt;p&gt;看上世纪的 Mind Your Language 遇到个不懂的句子，翻译如下，这是市值第二公司做的产品？
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/e0dhb4j.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 13:28:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018937#reply0</guid></item><item><title>[求职] 面试感想</title><link>https://www.v2ex.com/t/1018936#reply4</link><description>从去年到现在也 gap 了好长时间，面试没有多少，今年到现在，只有 2 次面试，发挥都很不好，问的八股文都没见过。boss 上面也没啥新 HC 。都不知道这几年都是怎么过来的，是我太菜了吧。不知道接下来该怎么走。</description><pubDate>Tue, 27 Feb 2024 13:28:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018936#reply4</guid></item><item><title>[Apple] 有什么办法能把 app store 里的零碎零钱用完吗</title><link>https://www.v2ex.com/t/1018934#reply4</link><description>&lt;p&gt;之前地区设置在了非免税州，订阅 gpt 啥的都贵一点，现在想换发现钱不花完没法换，就剩 1.3 刀了，有什么办法能用掉吗。给我推荐个可以捐款的 app 也行(ps,可以捐有零有整的)。&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 13:06:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018934#reply4</guid></item><item><title>[上海] 上海罗南新村那里的房租为什么那么便宜，是因为只有一条地铁线的原因吗</title><link>https://www.v2ex.com/t/1018933#reply12</link><description>&lt;p&gt;像是荣庭，澜景苑小区的房租都便宜的不像话，周围也只有一个宝龙广场，他们小区治安有问题吗&lt;/p&gt;</description><pubDate>Tue, 27 Feb 2024 12:47:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1018933#reply12</guid></item></channel></rss>
+&lt;li&gt;
+&lt;p&gt;汇丰预约，网上说需要工作人员电话沟通。但如果你已经确定要去哪里，其实你完全可以在&lt;a href="https://www.eticketing.hsbc.com.hk/Booking/Index/TC" rel="nofollow"&gt;这个汇丰香港预约网站&lt;/a&gt;上直接预约指定的分行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;中银香港目前申请人数特别多，一定要预约&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果你工作日没时间，可以尝试周六办理，香港银行周六正常上班，但是下班时间较早；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;预约日期是在每天凌晨更新。可以在凌晨刷新预约网站，看是否有你合适的日期。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;其他说明&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;有部分支行可以不提前预约，直接 walk in 现场开卡，但是一定要趁早。如果你想知道的话，欢迎关注我的公众号&lt;code&gt;君若雅&lt;/code&gt;，或者加我微信 RWxlZ2FudG9mS2luZw==&lt;/li&gt;
+&lt;li&gt;公众号发送 **&lt;code&gt;香港卡办卡地址&lt;/code&gt;**，即可查询对内地办卡友好的银行地址。&lt;/li&gt;
+&lt;li&gt;欢迎访问&lt;a href="https://psxjoy.com/" rel="nofollow"&gt;我的博客&lt;/a&gt; 获取更多的信息。&lt;/li&gt;
+&lt;li&gt;如果你有任何不明白或者不清楚的地方，欢迎沟通。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 28 Feb 2024 08:48:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019187#reply0</guid></item><item><title>[小米] 小米 14u 相机模组过凸，求推荐机子</title><link>https://www.v2ex.com/t/1019186#reply3</link><description>&lt;p&gt;昨天拿到小米 14u 后直接被相机模组高度震惊到了
+握持感一言难尽，一定要把手指抵在凸起一截的相机上才能稳定拿住，放桌面的时候也是直接翘起来的。虽然相机很好，但这个机身体验实在不能接受 🤣
+问下大佬们有什么机子推荐么，游戏要求不高，王者差不多了。偶尔会用来拍照。
+最好还是小米，和米家绑定太多了 😑
+可以蹲到 618&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 08:47:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019186#reply3</guid></item><item><title>[酷工作] 有用过 talentorg 的吗, 今天发现好像倒了</title><link>https://www.v2ex.com/t/1019185#reply2</link><description>&lt;p&gt;今天发现 cdn 都过期了, 抽空搜了搜&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/O3aocba" /&gt;&lt;/p&gt;
+&lt;p&gt;这家还蛮年轻的, 一直有关注, 不过一直没找到过合适的 job&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/0XPyuwQ" /&gt;&lt;/p&gt;</description><pubDate>Wed, 28 Feb 2024 08:45:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1019185#reply2</guid></item></channel></rss>
