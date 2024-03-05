@@ -1,9 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Mar 2024 16:47:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iPhone] 请教一个 iPhone 维修的问题</title><link>https://www.v2ex.com/t/1020924#reply0</link><description>&lt;h1&gt;背景&lt;/h1&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 05 Mar 2024 23:27:36 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Arc] Arc for Windows 来了，五个 beta 测试名额</title><link>https://www.v2ex.com/t/1020934#reply6</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/u8ERBr2.png" /&gt; &lt;/p&gt;
+&lt;p&gt;感兴趣的留个邮箱，测试链接仅今天可用&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 23:13:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020934#reply6</guid></item><item><title>[DNS] 有关域名被污染的一个奇怪现象.</title><link>https://www.v2ex.com/t/1020933#reply2</link><description>&lt;p&gt;一个被墙的域名 &lt;a href="http://matrix.org" rel="nofollow"&gt;matrix.org&lt;/a&gt;, 屏蔽方式目测是 DNS 污染.
+有 OpenWrt 路由器一个, 并且在上面安装了 Passwall + SmartDNS 实现透明代理. 一台 Windows 电脑与其有线连接, 并且该电脑的 DNS 设置为路由器地址.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;用该电脑上的 Chrome 浏览器访问该域名, 网页能照常显示, 但观察 devtool 却发现其显示的 IP 地址在污染列表. 原因在哪?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还是这个域名, 我想用 SmartDNS 强制为其指定一个 CF 的 IP (因为该网站用 CF 做反代), 但试了好久问题依旧. 我尝试在 "域名规则" -&amp;gt; "域名地址" 下添加一条规则:&lt;br /&gt;
+&lt;code&gt;address /&lt;a href="http://matrix.org/104.20.200.37" rel="nofollow"&gt;matrix.org/104.20.200.37&lt;/a&gt;&lt;/code&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;用 dig 命令测试发现对于该域名这么做无效, 解析的 IP 仍然在污染列表:  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;root@ImmortalWrt:~# dig matrix.org a @127.0.0.1 -p 53
+
+; &amp;lt;&amp;lt;&amp;gt;&amp;gt; DiG 9.18.19 &amp;lt;&amp;lt;&amp;gt;&amp;gt; matrix.org a @127.0.0.1 -p 53
+;; global options: +cmd
+;; Got answer:
+;; -&amp;gt;&amp;gt;HEADER&amp;lt;&amp;lt;- opcode: QUERY, status: NOERROR, id: 2550
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;matrix.org.                    IN      A
+
+;; ANSWER SECTION:
+matrix.org.             3       IN      A       199.59.150.40
+
+;; Query time: 20 msec
+;; SERVER: 127.0.0.1#53(127.0.0.1) (UDP)
+;; MSG SIZE  rcvd: 55
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这种该如何处理? 由于它关系到自建的 Matrix 推送流程, 先在此谢过.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;有图, 但是 imgur 截至发帖时已经因为过载而拒绝上传只能暂时作罢.&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 22:39:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020933#reply2</guid></item><item><title>[问与答] 跟丈母娘吵架，还有救吗</title><link>https://www.v2ex.com/t/1020932#reply9</link><description>背景：老婆江西的，家里还有个妹妹，结婚经协商没给彩礼，当然，她们家也不会出一分钱。我们家出首付买的北京一房写双方名字，确实也没有多余的钱当彩礼。她父母在广东厂里打工，我父母普通国企员工，家境也就她家好一点点。&lt;br /&gt;&lt;br /&gt;现在是丈母娘过来北京在帮我们带小孩，因为我爸妈都还没到退休年龄，只能找她妈帮忙带。起初她妈一直不愿意来，后来我老婆哭了好几场，软磨硬泡，终于答应来带。每月给她三四千块钱。&lt;br /&gt;&lt;br /&gt;平常跟丈母娘关系很一般，基本没什么交流，但还是保持着正常的关系。可能她也不爽我，我也不爽她。平常我说什么都喜欢跟我抬杠，念在是丈母娘我从来都直接打住不再接茬。&lt;br /&gt;&lt;br /&gt;昨天，跟老婆因为小事大吵了一架，吵了大概半小时，丈母娘就在一边听着，也不管。吵完之后，听到丈母娘跟我儿子说，“跟爸爸说要好好说话”。&lt;br /&gt;&lt;br /&gt;我就气不打一处来，吵架是两个人的事，丈母娘从来都觉得她女儿是对的我是错的，就直接没忍住，怼了丈母娘，“你女儿好好说话了？”&lt;br /&gt;&lt;br /&gt;然后就吵了起来，她就是重复我老婆跟我吵架的观点，认为都是我的问题。&lt;br /&gt;&lt;br /&gt;其实我是万万没想到，我能跟丈母娘吵起来。&lt;br /&gt;感觉没救了。&lt;br /&gt;&lt;br /&gt;而且想想那副她女儿都对我都错的嘴脸，我完全无法接受，也不知道以后怎么跟她相处。我印象里，小时候我跟别的小孩闹矛盾，我爸妈从来都是先说我的问题。头一次见这种的。</description><pubDate>Tue, 05 Mar 2024 18:28:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020932#reply9</guid></item><item><title>[Windows] Microsoft is killing off Windows Subsystem for Android</title><link>https://www.v2ex.com/t/1020931#reply4</link><description>&lt;p&gt;微软将于 2025 年&lt;a href="https://learn.microsoft.com/en-us/windows/android/wsa/" rel="nofollow"&gt;停止支持 WSA&lt;/a&gt;。因为是微软，所以不意外。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Microsoft is ending support for the Windows Subsystem for Android™️ (WSA). As a result, the Amazon Appstore on Windows and all applications and games dependent on WSA will no longer be supported beginning March 5, 2025. Until then, technical support will remain available to customers.
+Customers that have installed the Amazon Appstore or Android apps prior to March 5, 2024, will continue to have access to those apps through the deprecation date of March 5, 2025. Please reach out to our support team for further questions at &lt;a href="http://support.microsoft.com" rel="nofollow"&gt;support.microsoft.com&lt;/a&gt;. We are grateful for the support of our developer community and remain committed to listening to feedback as we evolve experiences.&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Tue, 05 Mar 2024 18:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020931#reply4</guid></item><item><title>[问与答] 请问硬盘可以改型号吗？买了个二手盘当 nas 仓库感觉有问题</title><link>https://www.v2ex.com/t/1020930#reply2</link><description>&lt;p&gt;买的西数 HC550 18T ，通电时间 9K 左右；买的 2T m2 把缓存位改存储。HC550 暂时外接 USB 硬盘盒（数据备份+恢复后再放入群晖做仓库盘）；硬盘盒是 ORICO&lt;/p&gt;
+&lt;p&gt;HC550 与 ssd 各做如下操作（ SSD 空间有限）:
+把群晖存储空间的文件压缩了一部分放进去；
+把一些套件和文件夹通过 hyper backer 的方式备份了一份进去。&lt;/p&gt;
+&lt;p&gt;其中，HC550 备份大小在 1.2T ，ssd 为 1T 。&lt;/p&gt;
+&lt;p&gt;写入速度还算正常 90M （不咋稳）&lt;/p&gt;
+&lt;p&gt;当我把群晖原盘 raid5 的存储删除并改 basic 后，开始恢复数据：&lt;/p&gt;
+&lt;p&gt;1 、ssd 的备份恢复速度很快（一方面 ssd 读速没问题，另一方面证明原盘写入没问题）&lt;/p&gt;
+&lt;p&gt;2 、机械盘 HC550 采用移动形式，读取速度偶尔到 60M ，大多数时间是几百 K ，还有就是使用率 100%（彼时写入 IO 和读取 IO 都为 0 ）。3 小时移动了 10G 文件。 这正常吗？？？？&lt;/p&gt;
+&lt;p&gt;最后涉及标题的：
+群晖显示外接 usb 设备为：Digitus DA-71114 SATA&lt;/p&gt;
+&lt;p&gt;当 hc550 作为硬盘位插入时，显示的是 unknowXXXXXXXXXX （ xxx 是型号，具体记不清用 x 代替）。
+Digitus DA-71114 SATA 是东芝的吧，怎么也跟西数不搭边&lt;/p&gt;
+&lt;p&gt;谢谢各位。&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 18:06:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020930#reply2</guid></item><item><title>[NAS] 大佬们，求个药，想认证 MoviePilot，或者可以认证 iyuu 的也行</title><link>https://www.v2ex.com/t/1020929#reply2</link><description>&lt;p&gt;寒假装了个机，底层用的 pve ，想搭建家庭影音。
+nastool 作者断更开新坑了 MoviePilot 需要认证。只有馒头和 ptt 。谢谢大佬&lt;/p&gt;
+&lt;p&gt;设备图和数据如下
+&lt;a href="https://mjj.today/a/1Oc8N" rel="nofollow"&gt;https://mjj.today/a/1Oc8N&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;邮箱:
+enVveW91Y2huQGdtYWlsLmNvbQ==&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 17:53:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020929#reply2</guid></item><item><title>[Chrome] 你们还能从 myactive 查到一年前的 Chrome 历史记录吗？</title><link>https://www.v2ex.com/t/1020928#reply1</link><description>&lt;p&gt;时间调到一年前，我这儿显示空
+&lt;a href="https://myactivity.google.com/product/chrome/?hl=zh_CN" rel="nofollow"&gt;https://myactivity.google.com/product/chrome/?hl=zh_CN&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 17:43:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020928#reply1</guid></item><item><title>[iOS] iOS 上哪个 APP 可以实时显示 apple watch 上的心跳？</title><link>https://www.v2ex.com/t/1020927#reply0</link><description>&lt;p&gt;跑步机上跑步，需要用手机看跑步状态，除了镜像，有什么方式能实时看状态的&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 17:14:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020927#reply0</guid></item><item><title>[阅读] 2024 二月读数学，论语，心理学，直觉，小说…11 本</title><link>https://www.v2ex.com/t/1020926#reply4</link><description>&lt;p&gt;原文链接： &lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/" rel="nofollow"&gt;https://conge.livingwithfcs.org/2024/03/05/reading_summary/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;索引&lt;/strong&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#%E5%BC%95%E5%AD%90" rel="nofollow"&gt;引子&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+数学&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#1-%E5%90%B4%E5%86%9B%E6%95%B0%E5%AD%A6%E9%80%9A%E8%AF%86%E8%AE%B2%E4%B9%89" rel="nofollow"&gt;1. 吴军数学通识讲义&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#2-%E7%BE%8E%E5%A6%99%E7%9A%84%E6%95%B0%E5%AD%A6" rel="nofollow"&gt;2. 美妙的数学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#3-%E8%A5%BF%E6%96%B9%E6%96%87%E5%8C%96%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6" rel="nofollow"&gt;3. 西方文化中的数学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#4-%E6%95%B0%E5%AD%A6%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9A%84%E4%B8%A7%E5%A4%B1" rel="nofollow"&gt;4. 数学：确定性的丧失&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+哲学&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#5-%E8%AE%BA%E8%AF%AD" rel="nofollow"&gt;5. 论语&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+心理学&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#6-%E7%9B%B4%E8%A7%89" rel="nofollow"&gt;6. 直觉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#7-the-varieties-of-religious-experience" rel="nofollow"&gt;7. The Varieties of Religious Experience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+跑步&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#8-advanced-marathoning-3rd-edition" rel="nofollow"&gt;8. Advanced Marathoning 3rd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+小说&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#9-%E4%BA%BA%E7%94%9F%E5%80%9F%E9%98%85%E5%AE%A4" rel="nofollow"&gt;9. 人生借阅室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#10-%E5%A5%B9%E5%AF%B9%E6%AD%A4%E6%84%9F%E5%88%B0%E5%8E%8C%E7%83%A6" rel="nofollow"&gt;10. 她对此感到厌烦&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://conge.livingwithfcs.org/2024/03/05/reading_summary/#11-%E5%AE%8C%E7%BE%8E%E7%9A%84%E7%9C%9F%E7%A9%BA" rel="nofollow"&gt;11. 完美的真空&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;数学家们早就知道，数学没有真理性可言。&lt;/p&gt;
+&lt;h2&gt;引子&lt;/h2&gt;
+&lt;p&gt;本月阅读主题是数学和数学思想。数学家中，发明微积分的莱布尼茨，发明布尔代数布尔和发明信息论的香农令人印象深刻。最大的收获，就是接触到了克莱因的数学史和数学思想。他的“数学乃人类的创造”观点让我击节赞叹。零的概念最让我着迷。&lt;/p&gt;
+&lt;p&gt;非常乐于看到数学的根基崩塌。&lt;/p&gt;
+&lt;p&gt;不过面对崩塌的事实，有的人们仍不放弃，至少吴军还在强调数学的真理性。其实，认识到数学乃是虚构的满足人们思考需要的“艺术”，可以使人们走出真理观，获得完全的创造自由。我知道这么说一句，肯定会让人摸不着头脑。但，管他呢，我爱写啥写啥。读者看得懂看不懂，不在我的考虑。反正都是胡编乱造，创造的开心就好了。为了数学而数学，为了科学而科学，无非就是这个意思。&lt;/p&gt;
+&lt;p&gt;数学是工具，宗教也是；理性是工具，直觉也是。讲求实事的科学，讲求演绎的数学能用来认识世界，完全虚构的小说也可以，莱姆真是虚构的好手，《完美的真空》可以和《心经》互作注解。《论语》的层次不在形而上，完全是教人怎么应对乱世建立秩序，做个“中间人”，或“中坚人”。&lt;/p&gt;
+&lt;p&gt;所有的评价，无非是偏好。说到底，心理学家詹姆斯对待世界的态度比较可取：管它什么真理不真理呢，管用的话我就拿来用。&lt;/p&gt;
+&lt;p&gt;我就想给实用主义再加一句：就算什么用也派不上，当个无用之物（之人），也挺好的。&lt;/p&gt;
+&lt;h2&gt;数学&lt;/h2&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/35426737.jpg" /&gt;
+&lt;h3&gt;1. &lt;a href="https://c.im/@conge@neodb.social/111892070354952257" rel="nofollow"&gt;吴军数学通识讲义&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;吴军 / 2021 / 新星出版社&lt;/p&gt;
+&lt;p&gt;2024-02-13 读过 | 数学 | 豆瓣评分 8.5&lt;/p&gt;
+&lt;p&gt;我给它 [ 4 星] ：本书将数学中算数，几何，代数，微积分和概率论等领域的问题研究范围，数学工具以及其背后的历史故事多了精彩的描述。数学定理的证明只能从定义和公理出发，靠逻辑推理来完成。数学的在各个学科和生活的方方面面都有所应用。数学上的每次进步都带来人类认知的提升。不过每次吴军在讲完数学后讲道理，都让人感受到说教与牵强。&lt;/p&gt;
+&lt;p&gt;本书在介绍数学知识及其应用之后，常常会提及其在思维领域的作用。数字是对量的表示，其出现可能是为了交易。几何学来源于对土地测量的需要。负数，虚数，极限，导数，矩阵，向量这些都扩展了人对世界的理性认识的边界，从静态二元的世界到动态多元的世界。概率与统计更是让人们理解和认识世界的不确定和随机性。当然，数学家研究的数学领域并不止于书中的这些。但就通识来讲，本书涉及的内容已经是大学本科的高度了。&lt;/p&gt;
+&lt;p&gt;读后感觉，虽然数学是我们探索真知的工具，但数学仍是有漏的学问。抛开哥德尔的不完备定理，但从对“0”的理解，人们就还差的很远。比如任何数字除以 0 是什么这个问题，被硬性规定为没有意义而不再被研究，就是一件让我觉得奇怪的事儿。数学家们将数学视为真理语言，但如果不解决 0 的问题，我只能说他们自大。&lt;/p&gt;
+&lt;p&gt;数学的底层是逻辑，逻辑的基础是理性。而世界并非只有理性，世界还有“被零除”。&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/36497297.jpg" /&gt;
+&lt;h3&gt;2. &lt;a href="https://c.im/@conge@neodb.social/111897660024103246" rel="nofollow"&gt;美妙的数学&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;[英] 迈克·布鲁克斯 / 2023 / 湖南科学技术出版社&lt;/p&gt;
+&lt;p&gt;2024-02-13 读过 | 科普，数学 | 豆瓣评分 8.3&lt;/p&gt;
+&lt;p&gt;我给它 [ 4 星] ：从数学的领域来讲，本书与《[[吴军数学通识讲义]]》覆盖了大致差不多的内容，多出来了信息论的部分。本书比较少吴军那样对知识细节的讲解和人生道理的说教，而是注重把数学家的轶事和人类伟大进步与数学知识做链接，突出数学及其相关应用的有趣之处。&lt;/p&gt;
+&lt;p&gt;数学家中有许多脾气古怪的，据我猜测很可能是获得了自然的奥秘之后，将发现归因于自己而产生的傲慢所致。而将自己的发现归因于与他人的合作或“神启”的，则很少品性不佳的人。&lt;/p&gt;
+&lt;p&gt;本书中我最喜欢的章节是介绍零的一章。喜欢的数学家有三位：发明微积分的莱布尼茨，发明布尔代数布尔和发明信息论的香农。介绍其中一位的逸事。&lt;/p&gt;
+&lt;p&gt;基于明斯基的想法，香农制造了一台“无用的机器”。它是一个盒子，上面有个开关。当有人扳动开关，盒子会自动打开，里面探出机械臂，将开关扳回原处，然后回到盒子里，关上盒子。除此之外，什么也不做。有人觉得有趣，有人为此感到不安。&lt;/p&gt;
+&lt;p&gt;但我觉得这是个伟大的发明：当有外界启动你，按你的开关，你要学会关掉开关，回到内在。&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/1080225.jpg" /&gt;
+&lt;h3&gt;3. &lt;a href="https://c.im/@conge@neodb.social/111919781546516713" rel="nofollow"&gt;西方文化中的数学&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;[美]M ・克莱因 / 2004 / 复旦大学出版社&lt;/p&gt;
+&lt;p&gt;2024-02-13 读过 | 数学，物理，哲学 | 豆瓣评分 9.1&lt;/p&gt;
+&lt;p&gt;我给它 [ 5 星] ：非常喜欢作者对数学的看法。&lt;/p&gt;
+&lt;p&gt;数学在指导对现实世界的发现时有用且重要，说它是人类哲思与科学的基础也撑得起。数学有创造性的美，常能揭示世界的奥秘。人们说它是“一个知识体系，一种实际工具，哲学的一块基石，完美的逻辑方法，理解自然的钥匙，真实的自然，一种智力游戏，理性的冒险，美感的经验。”&lt;/p&gt;
+&lt;p&gt;然而作者清楚明白的指出，数学既是人类认识世界的演绎方法，又是表达人类创造性的艺术。然而数学本身，并不是真理，它是人之造物。它可能描述和揭示了什么，但用罗素的话说，我们既不知道数学中“说的是什么“，也不知道“说的是否正确”。&lt;/p&gt;
+&lt;p&gt;数学“真理性”的丧失，正如作者所言，不应让数学家担心害怕。这正好将人类从对数学的“迷信”中解放出来，去创造更加美丽和自由的数学。就如同摄影几何，球面几何和伪球面几何对欧几里德的平面几何所做的颠覆那样，就象相对论对牛顿力学的颠覆那样，数学家们应去质疑公理，去质疑基础，去创造新数学而不必管是否符合已知的现实。&lt;/p&gt;
+&lt;p&gt;数学的基于逻辑的演绎，只是人类认识世界的方法之一。除去它，人类至少还有常常是数学创造起点的直觉与想象和科学中常用的实证研究。&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/1049136.jpg" /&gt;
+&lt;h3&gt;4. &lt;a href="https://c.im/@conge@neodb.social/111973947034466335" rel="nofollow"&gt;数学：确定性的丧失&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;[美] M·克莱因 / 1997 / 湖南科学技术出版社&lt;/p&gt;
+&lt;p&gt;2024-02-23 读过 | 数学，哲学，物理 | 豆瓣评分 8.6&lt;/p&gt;
+&lt;p&gt;我给它 [ 5 星] ：数学诞生之初，一度被认为是理性的最高成就，是物理化学甚至哲学的基础，是宇宙的真理。比如，欧几里德从几个公里出发，建立了欧氏几何这完美的大厦，不但在四维世界中屡创美妙的定理，且在应用中无往不利，以至于让哲学家们相信在物质世界以外有个只有理性能进入的真理世界，而数学是是那个世界的语言。这持续上千年，长时间来支持他们的，乃是对“其中有真理的”的信仰。&lt;/p&gt;
+&lt;p&gt;然而，随着无理数，负数，复数，四元数，非欧几何的被发明，人们发现数学所基于的公理和方法，并非如数学家想要的那么牢固。过去的百多年中，数学的完备性严密性一直是数学家们的工作重点，但最终却得出了哥德尔不完备定理。事情就是这样，当人们想要去巩固数学的基础时，基础却崩塌了。人们最终不得不承认，数学乃是完完全全的人造之物，其中并没有什么真理，连其是否正确都无法确定。确定性的丧失甚至殃及被视为数学基础的逻辑学。&lt;/p&gt;
+&lt;p&gt;丧失确定性的数学面临另一难题：数学丧失真理性了，但却有效？数学哲学家们花了大量时间，去尝试回答，为什么没有真理的数学却在指导自然科学时如此有效。围绕这个问题，数学家们仍没有统一的答案。&lt;/p&gt;
+&lt;p&gt;曾经，我的直觉告诉我，数学家和物理学家是最接近世界真相的人群。这本书告诉我，数学家的确走得比物理学家远一些，看到了数学乃是虚构。但他们同物理学家一样，在简单的解释面前踌躇止步，不愿意面对。这个简单的解释就是：物理世界也是虚构的。大家以为的客观存在的“自然界”，乃是“我们”从虚空中的抓取，只存在与头脑。&lt;/p&gt;
+&lt;h2&gt;哲学&lt;/h2&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/1964774.jpg" /&gt;
+&lt;h3&gt;5. &lt;a href="https://c.im/@conge@neodb.social/112016923667104678/" rel="nofollow"&gt;论语&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;2006 / 中华书局&lt;/p&gt;
+&lt;p&gt;2024-03-01 读过 | Philosophy, 经典，哲学 | 豆瓣评分 9.1&lt;/p&gt;
+&lt;p&gt;我给它 [ 4 星] ： 孔子生逢乱世，想要秩序。孔子讲学培养君子，恢复周礼，是他建立秩序的方式。&lt;/p&gt;
+&lt;p&gt;何为君子？孔子眼里有大人，有小人，君子居中，通于上达于下。大人指王公诸侯贵族，小人是平民百姓。君子是臣子，官员，知识分子，学者，社会的“中间”力量……也可对应职场的中层管理者。
+君子该做什么？有人误会孔子，说他不重视农业生产，不重视劳动人民。这是误解。孔子自己说只擅长君子之道，打仗的事儿，种地的事儿别问我，我不会。他追求秩序，就是大人君子小人各司其职。万古流芳那是做王的要追求的。种地耕田，为食物奔波那是小民的指责，君子谋道不为食。要做君子的话，就不能求名求食。做君子的要事上食禄，把下面的情传给君王，把上面的令传给民众。替上面办事，拿工资。名归上，食归下，礼归君子&lt;/p&gt;
+&lt;p&gt;怎么做君子？行礼，守仁。礼是周礼，孔子说夏礼殷礼他只能言说，周礼他则会做。《翦商》中说孔子知道殷礼是要人祭的，故不行殷礼，这是孔子的仁。仁，说到底是说要如何处理关系。对上，对大人，要忠；对下，对小人要义，也就是公平。还有对同是君子的朋辈，要信，讲信用。&lt;/p&gt;
+&lt;p&gt;如何学做君子？读《诗》以知言，学礼以立。他对自己的儿子也是这样要求的。不但要学，而且学而时习之。&lt;/p&gt;
+&lt;p&gt;如何评论论语？论语中有许多孔子对他人的评价。他对大人评论，是看他们是否有道有德。对平辈或弟子等要做君子的人，是看他们是否知礼、有仁、好学。对小人，是很少评论，反而关爱有加的。孔子晚年，很可能有了某些思想改变，不再那么执着于克己复礼了。曾在跟学生们谈理想时，说与其梦想辅佐统治千乘之国，不如趁着好春光去游泳玩乐。也曾说过“予欲无言。”“天何言哉？四时行焉，百物生焉，天何言哉？” 的确，有什么可说的呢？做甚么君子呢？乐呵乐呵得了。&lt;/p&gt;
+&lt;h2&gt;心理学&lt;/h2&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/26865075.jpg" /&gt;
+&lt;h3&gt;6. &lt;a href="https://c.im/@conge@neodb.social/111984900866142729" rel="nofollow"&gt;直觉&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;[德] 格尔德·吉仁泽 Gerd Gigerenzer / 2016 / 北京联合出版公司&lt;/p&gt;
+&lt;p&gt;2024-02-26 读过 | 心理学 | 豆瓣评分 7.3&lt;/p&gt;
+&lt;p&gt;我给它 [ 4 星] ： 尽管科学家们在寻找研究课题和解学科难题的时候，常常借助直觉的帮助，但目前的文化主流，是反直觉的。比如，获得诺贝尔奖的心理学家卡尼曼的在研究了人的决策之后，认为人类的大量判断和决策失误，都是因为无意识的、非理性的、直觉的错误造成的，他将其称为“认知偏差”。&lt;/p&gt;
+&lt;p&gt;本书作者所研究的，说到底和卡尼曼一样，是人类决策中的直觉之作用。他却发现，人们在信息不足的条件下利用直觉做出的判断，比基于逻辑和理性的策略的判断，其有效性和正确率并不差，且在执行速度，所需资源等方面还大大常常还优于前者。进一步的研究和思考，他发现，应用直觉进行决策，并不是简单的“偏差”，它不但是知识的起点，而且一直在被人们在日常决策中应用着。比起利用大量信息的、复合逻辑的、理性的策略，基于简单实事、符合直觉的策略虽然在可解释性上差些，但更容易被掌握和执行，同时也具有同样的正确性。在书中，这被称为“认知启发”。&lt;/p&gt;
+&lt;p&gt;无论称其为认知偏差”还是“认知启发”，直觉的存在是无可争辩的。逻辑与直觉，理性与感性，并不需要区分好坏高下，更不应该厚此薄彼。有足够信息和资源的条件下，那就用逻辑推理，二者都不足那就用直觉去下决断。不懂逻辑的，去学学，不会使用直觉的，也去学学，就挺好。&lt;/p&gt;
+&lt;p&gt;“当我们要预测将来，当将来很难预测，当我们掌握的信息有限，基于一个好理由的直觉往往更加准确。它们在时间和信息的使用上也更有效率。相反，当我们需要解释过去，当将来很容易预测，当拥有足够的信息，复杂的分析更有用。”&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/4020516.jpg" /&gt;
+&lt;h3&gt;7. &lt;a href="https://c.im/@conge@neodb.social/111831782562008169" rel="nofollow"&gt;The Varieties of Religious Experience&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;William James / 2002 / Routledge&lt;/p&gt;
+&lt;p&gt;2024-02-06 读过 | 心理学，宗教，觉醒 | 豆瓣评分 0&lt;/p&gt;
+&lt;p&gt;我给它 [ 4 星] ：我其实好奇詹姆斯 是否有过“宗教体验”。但行文之中看不出。&lt;/p&gt;
+&lt;p&gt;体验，很难通过听闻交流，却能在有过同样的体验的人之间确认。如果你没有痛过，无论怎么跟你描述牙痛，你也不会知道。而痛过的自然知道。&lt;/p&gt;
+&lt;p&gt;本书讨论的“宗教经验”，大多数人没有经历。未经历过的人，看这样的讨论，将如水中捞月，得不到什么。但千万别将其贴上个迷信或神秘或经验主义的标签，就走开了。个人认为本书非常重要，心理学应当继续将个体的“宗教体验”作为研究对象。个人也可以去多多亲近，了解人类体验的可能性。&lt;/p&gt;
+&lt;p&gt;书中的“宗教经验”，是因为经历者或者听闻者对那些神奇“经验”做了宗教性的归因和解释。但其与宗教的关系并非那么紧密。处在非基督教文化圈的拥有此般体验者，有很多并不对其做宗教性解释。此种经验的作用很多，其中一项是可以使人“离苦得乐”。&lt;/p&gt;
+&lt;p&gt;作为科学家，作者詹姆斯注重的是对体验而非宗教的进行方方面面的讨论和解释。“宗教经验”比”宗教“本身更重要。其有疗愈作用，获得它的人常常同时获得智慧，勇气与目的性，消除恐惧。对于没有过的人，它是神秘的体验性的。对于经历过的则不会有怀疑。书中多次提到了斯多葛主义哲学。&lt;/p&gt;
+&lt;p&gt;詹姆斯 以一部 《心理学原理》构建了科学心理学的体系，被誉为美国心理学之父。但我认为这本 《宗教经验种种》 却更加重要。此书很少在当今的被科学心理学中被提及，无疑是心理学的损失。&lt;/p&gt;
+&lt;h2&gt;跑步&lt;/h2&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/34933930.jpg" /&gt;
+&lt;h3&gt;8. &lt;a href="https://c.im/@conge@neodb.social/111945264691748498" rel="nofollow"&gt;Advanced Marathoning 3rd Edition&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Pete D. Pfitzinger Scott M. Douglas / 2019 / Human Kinetics Pub. (Trade)&lt;/p&gt;
+&lt;p&gt;2024-02-23 读过 | 马拉松，跑步 | 豆瓣评分 0&lt;/p&gt;
+&lt;p&gt;我给它 [ 5 星] ： 我要跑人生第一场马拉松，跑团前辈提供的计划来自此书，为了更好理解计划，遂开卷。一读之下，发现之前读过中译本《[[你可以跑得更快]]》。&lt;/p&gt;
+&lt;p&gt;本书核心是为不同水平的马拉松参赛者介绍训练计划。书的大部分篇幅，是讲解训练计划背后的知识和理念，保证作者既知其然，又知其所以然。马拉松长跑是对身体和精神能力的双重考验。完成马拉松需要的 身体能力包括储存糖元，长时间运动，身体携氧和能量转化效率。精神能力则是在遇到困难后不放弃的能力 。&lt;/p&gt;
+&lt;p&gt;作者从训练方式，补水和营养，休息与恢复，辅助体能训练，赛前 减量，比赛日策略这几个方面把马拉松备战的方方面面都做了详细的介绍，更为大龄跑者提了针对性的建议。最后强调，一旦进入计划，最重要的就是认真执行。&lt;/p&gt;
+&lt;p&gt;书中穿插了对顶尖马拉松跑者职业生涯和训练策略的介绍，还对前面两版的读者对书中计划的魔改进行了点评。&lt;/p&gt;
+&lt;p&gt;我学到的三点：长距离慢跑训练比速度训练更能提高马拉松表现，一定要学会慢；无论是训练日还是非训练日，要注意好好喝水；跑步训练重要，训练之后的恢复更重要，好好吃饭营养均衡，好好睡觉超量修复。&lt;/p&gt;
+&lt;h2&gt;小说&lt;/h2&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/36164026.jpg" /&gt;
+&lt;h3&gt;9. &lt;a href="https://c.im/@conge@neodb.social/111996225482454866" rel="nofollow"&gt;人生借阅室&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;（日）青山美智子 / 2023 / 湖南文艺出版社&lt;/p&gt;
+&lt;p&gt;2024-02-27 读过 | 小说 | 豆瓣评分 8.1&lt;/p&gt;
+&lt;p&gt;我给它 [ 5 星] ：此书有宝，开卷自取。&lt;/p&gt;
+&lt;p&gt;小说共五章，每章一个主人公。为了不剧透，我不讲他们的故事。我讲他们五个共同遇到的一个人，图书管理员小町。&lt;/p&gt;
+&lt;p&gt;小町，女，外貌让我想起弥勒菩萨。她没事时施展“神通”，从一团团杂乱无序的混沌羊毛毡中，创造各种玩偶出来。当有人来到她面前，她便问对方，“你要找什么？”无论对方怎么回答，她都再次施展神功，给对方一个书单，书单中必有对方意料之外的一本，后附赠一个她的羊毛毡创作。&lt;/p&gt;
+&lt;p&gt;得到了书和羊毛毡玩偶的人，由于好奇而产生探究，生活和生命就开始展开神奇的变化。&lt;/p&gt;
+&lt;p&gt;如果这篇书评引起了你对此书的某种期待或好奇。请放下期待，保持好奇，开卷取宝。&lt;/p&gt;
+&lt;p&gt;最后，你，要找什么？&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://dou.img.lithub.cc/book/36392723.jpg" /&gt;
+&lt;h3&gt;10. &lt;a href="https://c.im/@conge@neodb.social/111858131692086913" rel="nofollow"&gt;她对此感到厌烦&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;妚鹤 / 2023 / 北京联合出版公司&lt;/p&gt;
+&lt;p&gt;2024-02-02 读过 | 小说，觉醒 | 豆瓣评分 9&lt;/p&gt;
+&lt;p&gt;我给它 [ 3 星] ： 优点和缺点都非常明显的一本小说。通过把所有男性的不堪注入男性角色，把所有女性的苦难注入女性角色，又创造集智慧、力量、美貌、地位于一身的女主角，去突破男权社会为女性设立的行为藩篱，来展现男权社会对女性的压迫和对男性的异化。如果接受本书的底层逻辑，大概会达成这样的效果：让男的不想当男的，让女的想当男的。&lt;/p&gt;
+&lt;p&gt;玩笑放在一边。本书被称为女性觉醒之作，如果你合上书页果真有“觉醒”之感，那么，恭喜你从“男权”游戏中醒来，进入“女权”游戏。莉莉丝教你权力，武器和财富的重要性。然而，莉莉丝并没有觉醒，没有找到游戏的登出键，仍在权利游戏中。当然，本书还没完结，也许作者最终会安排真正的觉醒也未可知。&lt;/p&gt;
+&lt;p&gt;若你想要真的觉醒，留几本书，供你去试试。莫子《登出键》，艾克哈特《当下的力量》，威廉· 欧文《像哲学家一样生活》，克里希那穆提《点亮自性之光》，沙法丽·萨巴瑞《家庭的觉醒》，《女性的觉醒》。是的，这些人里只有萨巴瑞是女性。&lt;/p&gt;
+&lt;p&gt;但，我不玩儿性别游戏。&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://neodb.social/m/book/2022/03/1702a9eef1-387a-4393-82de-7f1c1e7638a0.jpg" /&gt;
+&lt;h3&gt;11. &lt;a href="https://c.im/@conge@neodb.social/112017491959980766" rel="nofollow"&gt;完美的真空&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;[波兰] 斯塔尼斯瓦夫·莱姆    译者： 赵刚 / 孙伟峰 / 2023 / 河南文艺出版社&lt;/p&gt;
+&lt;p&gt;2024-02-29 读过 | 小说，哲学 | 豆瓣评分 8.6&lt;/p&gt;
+&lt;p&gt;我给它 [ 5 星] ： 形式上，这是一篇书评集，每章评论一或两本书。&lt;/p&gt;
+&lt;p&gt;其独特之处在于，其评论的书，并不存在。每个章节所评论的书，其作者，内容，纯属编造。由此，书评本身，也因为评论对象的虚无，而变成了杜撰。因此，这一本书看似非虚构的书，完完全全的是虚构。&lt;/p&gt;
+&lt;p&gt;作者为什么写这么一本书？他虚构的一切，让你感到非常的真实。然而借助虚构，他更能随心所欲的展现自己的思考的广度和深度，而不为真实所束缚。&lt;/p&gt;
+&lt;p&gt;然而，我还是要说，这是一本完美的书。题目取的好，形式独特，艺术性强的不得了。内容非常棒，作者广博的很，其创作的“书评人”，数学，逻辑，医学，心理学，哲学，物理学，生物学，天文学……手到擒来，称职的的很。作者非常善于在各种学科截取碎片，将其连缀成美妙的知识与思考之网。&lt;/p&gt;
+&lt;p&gt;我还是推荐它给任何人，尤其是喜欢科幻的朋友。至少，即便体会不到莱姆想表达的一切皆空的深层道理，至少也能看看，作者能在完美真空中创造出多少好玩儿的东西，思想，哲学……&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;2024-03-05 初稿
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 05 Mar 2024 16:58:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020926#reply4</guid></item><item><title>[问与答] 兄弟们 看过来， 帮我一下： 你们申请 github 教育认证 是 怎么 通过 提交证明这一环节的？</title><link>https://www.v2ex.com/t/1020925#reply3</link><description>找到了学生有偿帮忙做认证，但是始终不通过。&lt;br /&gt;&lt;br /&gt;1. 学生证是一个小册子，带有火车票的那种钢印小册子， 里面的入学信息是 手写的。&lt;br /&gt;&lt;br /&gt;2. 银行卡似的 那种 学生证 没有 有效日期，只有姓名，学院 学号，没有日期。&lt;br /&gt;&lt;br /&gt;3. 学信网学籍报告 github 好像识别不了。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;xdm ,怎么办？&lt;br /&gt;&lt;br /&gt;令问：咸鱼/淘宝买的 有坑没？ 会掉不？</description><pubDate>Tue, 05 Mar 2024 16:54:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020925#reply3</guid></item><item><title>[iPhone] 请教一个 iPhone 维修的问题</title><link>https://www.v2ex.com/t/1020924#reply1</link><description>&lt;h1&gt;背景&lt;/h1&gt;
 &lt;p&gt;手里的 iPhone 12 电池健康度已经到了 78% 了，影响到了正常使用，想去换个电池。但是比较麻烦的是，手机之前裸奔，不小心摔碎了后玻璃面板，一直带壳使用。&lt;/p&gt;
 &lt;p&gt;不知道去官方店里换电池，会不会要求必须更换后面板。电池官方价格倒是能接受，这个面板将近 4000 块的价格，实在无法承受（手机都不值这个价钱）&lt;/p&gt;
 &lt;h1&gt;问题&lt;/h1&gt;
-&lt;p&gt;想要请教下有经验的大佬，玻璃背板损坏的前提下，能否在官方店里更换电池。&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 16:25:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020924#reply0</guid></item><item><title>[PayPal] 谁有加拿大的 paypal</title><link>https://www.v2ex.com/t/1020923#reply0</link><description>谁有加拿大的 paypal ，帮我买一个东西，付费给你。&lt;br /&gt;有意的私信我。</description><pubDate>Tue, 05 Mar 2024 16:22:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020923#reply0</guid></item><item><title>[反馈] 账号莫名其妙被限制</title><link>https://www.v2ex.com/t/1020922#reply0</link><description>如题账户莫名其妙被限制，不知道原因，退出登录就再也登录不上了。&lt;br /&gt;回复也被限制。&lt;br /&gt;显示“由于安全控制方面的原因，当前账号无法添加回复。如果你觉得这是一个错误，请通过 邮件 和我们联系”&lt;br /&gt;只能 email 回复管理解封。七八次了。</description><pubDate>Tue, 05 Mar 2024 16:18:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020922#reply0</guid></item><item><title>[分享发现] Juchats 测试邀请</title><link>https://www.v2ex.com/t/1020921#reply0</link><description>&lt;p&gt;&lt;a href="https://www.juchats.com?code=2EC97F6F" rel="nofollow"&gt;注册邀请链接： https://www.juchats.com?code=2EC97F6F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;想要请教下有经验的大佬，玻璃背板损坏的前提下，能否在官方店里更换电池。&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 16:25:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020924#reply1</guid></item><item><title>[PayPal] 谁有加拿大的 paypal</title><link>https://www.v2ex.com/t/1020923#reply1</link><description>谁有加拿大的 paypal ，帮我买一个东西，付费给你。&lt;br /&gt;有意的私信我。</description><pubDate>Tue, 05 Mar 2024 16:22:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020923#reply1</guid></item><item><title>[反馈] 账号莫名其妙被限制</title><link>https://www.v2ex.com/t/1020922#reply0</link><description>如题账户莫名其妙被限制，不知道原因，退出登录就再也登录不上了。&lt;br /&gt;回复也被限制。&lt;br /&gt;显示“由于安全控制方面的原因，当前账号无法添加回复。如果你觉得这是一个错误，请通过 邮件 和我们联系”&lt;br /&gt;只能 email 回复管理解封。七八次了。</description><pubDate>Tue, 05 Mar 2024 16:18:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020922#reply0</guid></item><item><title>[分享发现] Juchats 测试邀请</title><link>https://www.v2ex.com/t/1020921#reply0</link><description>&lt;p&gt;&lt;a href="https://www.juchats.com?code=2EC97F6F" rel="nofollow"&gt;注册邀请链接： https://www.juchats.com?code=2EC97F6F&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;𝗝𝘂𝗰𝗵𝗮𝘁𝘀 𝟭.𝟬 发布&lt;/p&gt;
 &lt;p&gt;未来（主要方向）&lt;/p&gt;
 &lt;ul&gt;
@@ -33,7 +239,7 @@
 &lt;li&gt;✨支持 Juchats × Hermpay 全新用户邀请系统&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 05 Mar 2024 15:50:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020921#reply0</guid></item><item><title>[问与答] 在用外区 Apple id 的进</title><link>https://www.v2ex.com/t/1020920#reply1</link><description>&lt;p&gt;你们用外区的账号，日常使用都挂 T 吗？&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:46:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020920#reply1</guid></item><item><title>[Android] 安卓手机刷机请教</title><link>https://www.v2ex.com/t/1020919#reply0</link><description>计划购买 oneplus ace3 ，国内系统是 coloroOS ，对应海外版型号是 12r ，系统 oxygenOS 。&lt;br /&gt;计划到手就刷机，有几个问题没搞明白。&lt;br /&gt;1 、ace3 方便换到 oxygen 吗？&lt;br /&gt;2 、将来可以回到 color ，恢复所有功能（ nfc ，指纹支付等等）吗？&lt;br /&gt;3 、还了解到 lineageOS ，Cndroid 等第三方 Rom ，具体有啥优劣，ace3 可以刷上吗？&lt;br /&gt;4 、同样问题，第三方 OS 可以回到 color 的无损状态吗？&lt;br /&gt;&lt;br /&gt;请各位不吝赐教。</description><pubDate>Tue, 05 Mar 2024 15:35:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020919#reply0</guid></item><item><title>[投资] BTC 历史新高！</title><link>https://www.v2ex.com/t/1020918#reply4</link><description></description><pubDate>Tue, 05 Mar 2024 15:33:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020918#reply4</guid></item><item><title>[上海] 11 号线三林东两室一厅主卧转租</title><link>https://www.v2ex.com/t/1020917#reply0</link><description>&lt;p&gt;金桂苑，两室一厅主卧转租，带飘窗，暖气片，民水民电，精装修，房租 3k ，有想了解的可以加 v -Zuozuoa&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:24:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020917#reply0</guid></item><item><title>[问与答] 国内哪些银行可以用中国护照办理银行卡？</title><link>https://www.v2ex.com/t/1020916#reply0</link><description>就是人在国内，有身份证，有中国护照，但是想用中国护照办理一类银行卡（想要银行卡户名是拼音），这样的话可以过护照认证的微信支付，才能正常收款收红包，所以有什么银行可以办理那种拼音作为户名的卡片吗？</description><pubDate>Tue, 05 Mar 2024 15:22:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020916#reply0</guid></item><item><title>[Python] 淘宝开放平台，这个免费的 api 的示例里面的 url,port,appkey,secret 怎么填写？有用过的嘛？</title><link>https://www.v2ex.com/t/1020915#reply0</link><description>&lt;p&gt;&lt;a href="https://developer.alibaba.com/docs/api.htm?spm=a219a.7395905.0.0.724f75feUnBSGp&amp;amp;apiId=40549" rel="nofollow"&gt;https://developer.alibaba.com/docs/api.htm?spm=a219a.7395905.0.0.724f75feUnBSGp&amp;amp;apiId=40549&lt;/a&gt;&lt;/p&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 05 Mar 2024 15:50:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020921#reply0</guid></item><item><title>[问与答] 在用外区 Apple id 的进</title><link>https://www.v2ex.com/t/1020920#reply1</link><description>&lt;p&gt;你们用外区的账号，日常使用都挂 T 吗？&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:46:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020920#reply1</guid></item><item><title>[Android] 安卓手机刷机请教</title><link>https://www.v2ex.com/t/1020919#reply1</link><description>计划购买 oneplus ace3 ，国内系统是 coloroOS ，对应海外版型号是 12r ，系统 oxygenOS 。&lt;br /&gt;计划到手就刷机，有几个问题没搞明白。&lt;br /&gt;1 、ace3 方便换到 oxygen 吗？&lt;br /&gt;2 、将来可以回到 color ，恢复所有功能（ nfc ，指纹支付等等）吗？&lt;br /&gt;3 、还了解到 lineageOS ，Cndroid 等第三方 Rom ，具体有啥优劣，ace3 可以刷上吗？&lt;br /&gt;4 、同样问题，第三方 OS 可以回到 color 的无损状态吗？&lt;br /&gt;&lt;br /&gt;请各位不吝赐教。</description><pubDate>Tue, 05 Mar 2024 15:35:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020919#reply1</guid></item><item><title>[投资] BTC 历史新高！</title><link>https://www.v2ex.com/t/1020918#reply4</link><description></description><pubDate>Tue, 05 Mar 2024 15:33:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020918#reply4</guid></item><item><title>[上海] 11 号线三林东两室一厅主卧转租</title><link>https://www.v2ex.com/t/1020917#reply0</link><description>&lt;p&gt;金桂苑，两室一厅主卧转租，带飘窗，暖气片，民水民电，精装修，房租 3k ，有想了解的可以加 v -Zuozuoa&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:24:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020917#reply0</guid></item><item><title>[问与答] 国内哪些银行可以用中国护照办理银行卡？</title><link>https://www.v2ex.com/t/1020916#reply1</link><description>就是人在国内，有身份证，有中国护照，但是想用中国护照办理一类银行卡（想要银行卡户名是拼音），这样的话可以过护照认证的微信支付，才能正常收款收红包，所以有什么银行可以办理那种拼音作为户名的卡片吗？</description><pubDate>Tue, 05 Mar 2024 15:22:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020916#reply1</guid></item><item><title>[Python] 淘宝开放平台，这个免费的 api 的示例里面的 url,port,appkey,secret 怎么填写？有用过的嘛？</title><link>https://www.v2ex.com/t/1020915#reply1</link><description>&lt;p&gt;&lt;a href="https://developer.alibaba.com/docs/api.htm?spm=a219a.7395905.0.0.724f75feUnBSGp&amp;amp;apiId=40549" rel="nofollow"&gt;https://developer.alibaba.com/docs/api.htm?spm=a219a.7395905.0.0.724f75feUnBSGp&amp;amp;apiId=40549&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;taobao.auction.gov.data.realtime.get (获取实时(今日)统计数据)&lt;/p&gt;
 &lt;h1&gt;-&lt;em&gt;- coding: utf-8 -&lt;/em&gt;-&lt;/h1&gt;
 &lt;p&gt;import top.api&lt;/p&gt;
@@ -46,22 +252,4 @@ resp= req.getResponse()
 print(resp)
 except Exception,e:
 print(e)&lt;/p&gt;
-&lt;p&gt;谢谢指教！：）&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:19:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020915#reply0</guid></item><item><title>[教育] 聊聊国内教育收费情况</title><link>https://www.v2ex.com/t/1020914#reply4</link><description>&lt;h1&gt;班费&lt;/h1&gt;
-&lt;p&gt;一次交 500 合理吗，一个班 60 个人，一次就是三万块，有这么大开销吗。拿这些钱作为考试的奖励合不合适呢&lt;/p&gt;
-&lt;h1&gt;资料费&lt;/h1&gt;
-&lt;p&gt;可能是纸贵吧，一本教辅 100 块&lt;/p&gt;
-&lt;h1&gt;补课&lt;/h1&gt;
-&lt;p&gt;补课费贵不说了，不补课连去请教老师的资格也没了？&lt;/p&gt;
-&lt;p&gt;也能理解现在教师收入低也辛苦，谁的钱又是大风刮来的？感觉现在的教育有点病态&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:11:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020914#reply4</guid></item><item><title>[Apple] tim cook 怎么还不退休？</title><link>https://www.v2ex.com/t/1020913#reply3</link><description>他接手苹果之后，ivy 也走了。&lt;br /&gt;&lt;br /&gt;现在苹果在设计上也越来越平庸，记得当年 iphone 刚出来的时候，多少惊艳，现在一堆的 android 看着比 iphone 精致和漂亮&lt;br /&gt;&lt;br /&gt;mac 机的 ui 和外型设计，基本还在延用以前的设计，新出的浏览屏也一般般&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;当年 mac8+128 的存储，是那个年代大储存的领先者，现在 20 多年过去了，竟然还是 8+256 ，&lt;br /&gt;&lt;br /&gt;苹果再也不是以前的那个苹果了，&lt;br /&gt;&lt;br /&gt;tim cook 交棒之后，希望可以回到当年的那个苹果</description><pubDate>Tue, 05 Mar 2024 15:06:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020913#reply3</guid></item><item><title>[太吾绘卷] 看老菊视频有感,《太吾绘卷》也算是国产独立开发游戏的幸运儿了</title><link>https://www.v2ex.com/t/1020912#reply0</link><description>老菊的响当当和后传响叮叮,一个是不完善的游戏里孵化的有趣故事,一个是近乎成熟的游戏里的完整故事,茄子写的故事固然有趣,但其中可能老菊的润色包装带来的乐趣更多一些呢, 看游戏评论和我实际的游玩感受, 太吾的原游戏框架设计的可能还是有些太繁琐了, 茄子的文学功底并不能支持他那么多的天马行空的设计, 和《星露谷物语》或《杀戮尖塔》那种近乎完全的好评如潮还是有些差距的,但也算是非常惊艳的了. 比起其他那些中途夭折的独立游戏,茄子也算是"独立"游戏里少数几个善终的幸运儿了.</description><pubDate>Tue, 05 Mar 2024 14:59:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020912#reply0</guid></item><item><title>[反馈] 今天发的帖子，在个人列表显示 8 天前</title><link>https://www.v2ex.com/t/1020911#reply0</link><description>&lt;p&gt;这是 bug 还是降权 feature?&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 14:59:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020911#reply0</guid></item><item><title>[问与答] 求可以根据文字图片生成 PPT 的好用 AI 推荐~</title><link>https://www.v2ex.com/t/1020910#reply0</link><description>&lt;p&gt;平时工作会把文案和图片整理成文档，&lt;/p&gt;
-&lt;p&gt;然后自己有时会做个 PPT 复盘，&lt;/p&gt;
-&lt;p&gt;看到网上有很多可以自动生成 PPT 的 AI ，&lt;/p&gt;
-&lt;p&gt;想问问大家更推荐哪个呀！ 先提前感谢一下大家！！&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 14:56:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020910#reply0</guid></item><item><title>[问与答] 想做海外站点，有大佬提供个方向参考吗</title><link>https://www.v2ex.com/t/1020907#reply0</link><description>目前是使用的 vercel 去部署，开发使用的 nextjs ，基本上能白嫖的都白嫖了，但是对自己应该做什么样的内容比较迷茫，最近在试着先做短链接平台，有大佬能提供一些方向和建议吗，分享一些教程也可以，提前祝大家今年发财!!!</description><pubDate>Tue, 05 Mar 2024 14:45:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020907#reply0</guid></item><item><title>[分享创造] 新手出海第一站，开发一个免费使用 comfyui 的网站</title><link>https://www.v2ex.com/t/1020906#reply0</link><description>&lt;p&gt;网站地址： &lt;a href="https://comfywebui.com/" rel="nofollow"&gt;https://comfywebui.com/&lt;/a&gt;
-部署：vercel
-模型：hugging face
-花了两三天时间上了第一个站，学习一下整个流程，欢迎各位前辈大佬多多提提建议！&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 14:43:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020906#reply0</guid></item><item><title>[分享发现] Arc 浏览器 Windows Beta 测试邀请</title><link>https://www.v2ex.com/t/1020905#reply33</link><description>&lt;p&gt;需要的留邮箱.
-windows 版本的 arc 浏览器也是 chrome 的内核.
-只有五个邀请名额&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 14:35:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020905#reply33</guid></item><item><title>[酷工作] [远程-兼职]上班摸鱼的时候输出技术文章赚奶粉钱</title><link>https://www.v2ex.com/t/1020904#reply3</link><description>日常在技术网站上输出技术文章&lt;br /&gt;&lt;br /&gt;- 保证每月至少 4 篇 按每月 2000 人民币支付&lt;br /&gt;- 保证每月至少 6 篇 按每月 3200 人民币支付&lt;br /&gt;&lt;br /&gt;需求： 热爱技术 并且学习能力比较强 也可以提供全职的岗位&lt;br /&gt;&lt;br /&gt;telegram: &lt;a href="https://t.me/move_cn" rel="nofollow noopener" target="_blank"&gt;https://t.me/move_cn&lt;/a&gt;&lt;br /&gt;QQ 群: 79489587&lt;br /&gt;详细: &lt;a href="https://github.com/move-cn/MoveCreatorMakeSUI" rel="nofollow noopener" target="_blank"&gt;https://github.com/move-cn/MoveCreatorMakeSUI&lt;/a&gt;</description><pubDate>Tue, 05 Mar 2024 14:29:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020904#reply3</guid></item><item><title>[Android] 如何绕过漫游限制？</title><link>https://www.v2ex.com/t/1020903#reply8</link><description>&lt;p&gt;我要使用一个新西兰的安卓软件，注册会员需要用新西兰的号码接收短信。&lt;/p&gt;
-&lt;p&gt;我有新西兰的号码，但是我现在不在新西兰在中国。&lt;/p&gt;
-&lt;p&gt;当我试图接收短信时，软件会提示我处于漫游状态，不能执行这个操作。&lt;/p&gt;
-&lt;p&gt;注册 Wi-Fi 通话也是同样的情况，有人知道怎么做可以绕过去欺骗软件，让它不要检测到我的漫游状态吗？&lt;/p&gt;
-&lt;p&gt;我的手机已经 Root （ Magisk ），非常规的操作也可以提供下，谢谢大家。&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 14:15:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020903#reply8</guid></item></channel></rss>
+&lt;p&gt;谢谢指教！：）&lt;/p&gt;</description><pubDate>Tue, 05 Mar 2024 15:19:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1020915#reply1</guid></item></channel></rss>
