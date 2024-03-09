@@ -1,100 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 09 Mar 2024 02:02:03 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 微信的 Linux 版本能否兼容 Windows 版的数据, 有人试过吗?</title><link>https://www.v2ex.com/t/1022025#reply0</link><description>Linux 的拼图又补上一块 wwww</description><pubDate>Sat, 09 Mar 2024 01:55:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022025#reply0</guid></item><item><title>[问与答] 有没有轻量版本的来计算会员到期清单之类的， ob 或者软件，网页也可以</title><link>https://www.v2ex.com/t/1022024#reply1</link><description>&lt;p&gt;记录任何存在有效期的事项，例如会员订阅管理，纪念日，房贷房租还款，理财管理&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 01:51:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022024#reply1</guid></item><item><title>[Windows] win11 任务管理器 CPU 利用率错误</title><link>https://www.v2ex.com/t/1022021#reply1</link><description>&lt;h1&gt;Dell 灵越 16 Plus 7630 笔记本&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;CPU：i7-13620H
-系统 ：Windows11 23H2&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;开机没运行什么软件，CPU 利用率都在 15-20%。&lt;/p&gt;
-&lt;p&gt;非常奇怪，排查了很久也没发现什么问题，这 20%全是是 System 进程占用的。重启了也还是一样，于是我调出了性能监视器查看 CPU 利用率却在 10%以下，于是我又用 CMD 命令来查看了 CPU 利用也在 10%以内。&lt;/p&gt;
-&lt;p&gt;所以这是任务管理器在计算 CPU 大小核利用率的算法有问题吗？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="enter image description here" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/YX6SsS5/2024-03-09-021941.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 01:22:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022021#reply1</guid></item><item><title>[分享发现] 记录一下 2024 年最潮的事情</title><link>https://www.v2ex.com/t/1022020#reply6</link><description>&lt;p&gt;Talor Swift
-怎么火的不知道，听没听过不说，好不好听不说，
-反正朋友圈不晒晒，追不上潮流，就很土了，
-能有个演唱会门票截图，更是高人一等，优越感拉满&lt;/p&gt;
-&lt;p&gt;咋不来这开？肯定爆赚。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 01:09:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022020#reply6</guid></item><item><title>[分享发现] iFAST 英国数字银行远程开户分享</title><link>https://www.v2ex.com/t/1022019#reply4</link><description>&lt;p&gt;图文链接： &lt;a href="https://www.xzddf.com/ifast%E8%8B%B1%E5%9B%BD%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C%E4%BB%8B%E7%BB%8D" rel="nofollow"&gt;https://www.xzddf.com/ifast%E8%8B%B1%E5%9B%BD%E6%95%B0%E5%AD%97%E9%93%B6%E8%A1%8C%E4%BB%8B%E7%BB%8D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;iFAST Global 银行是一家总部位于英国伦敦，受监管的数字银行，于 2021 年获得英国金融行为监管局 (FCA) 的全牌照，客户存款受到 Financial Services Compensation Scheme （ FSCS ）的保障，总额高达每人 £85,000 英镑。&lt;/p&gt;
-&lt;p&gt;iFAST Global 支持中文，无年费，无月费计划，无开户费用，无需最低存款要求。开户后提供个人 IBAN ，提供英镑、美元、欧元、港元、新加坡元和人民币的多币种账户。&lt;/p&gt;
-&lt;p&gt;使用体验：
-博主已经体验过 iFAST 一段时间，该银行具备 &lt;a href="https://www.xzddf.com/dukascopy%E6%9D%9C%E9%AB%98%E6%96%AF%E8%B4%9D%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D" rel="nofollow"&gt;Dukascopy 银行&lt;/a&gt; 的正规性，又与 &lt;a href="https://www.xzddf.com/zen%E5%80%9F%E8%AE%B0%E5%8D%A1%E4%BB%8B%E7%BB%8D" rel="nofollow"&gt;ZEN 电子钱包&lt;/a&gt; 一样对加密货币友好，并且官方将推出 iFAS 借记卡，在未来 iFAST 将是兼具安全与友好，提供银行卡，且支持非欧洲身份/地址开户的数字银行。如下图，iFAST 同时有着优秀的存款利率。&lt;/p&gt;
-&lt;p&gt;开户：
-1.国民身份证或护照
-2.电子邮箱
-3.国内/国外手机号
-4.银行账单地址证明：支持信用卡中文账单，不支持电子钱包账单&lt;/p&gt;
-&lt;p&gt;博主开户的时候需要人工视频验证，首次使用不需要同名入金激活。当前开户人工视频验证改成录屏验证，首次使用需要同名入金激活 iFAST 账户，建议使用同名的 wise 或 zen 等电子钱包入金 iFAST 激活账户。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 00:58:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022019#reply4</guid></item><item><title>[分享发现] 发现一个不用实名的国内电子邮件服务</title><link>https://www.v2ex.com/t/1022018#reply2</link><description>&lt;p&gt;网站链接：&lt;a href="http://hedwi.com" rel="nofollow"&gt;hedwi.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 00:55:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022018#reply2</guid></item><item><title>[程序员] 好奇怪的问题， openai 的函数调用总被强制触发</title><link>https://www.v2ex.com/t/1022017#reply0</link><description>&lt;p&gt;function_calls 按说被 tool_calls 代替了。我用 tool 的时候，无论我的工具描述怎么写，这个工具总是被调用触发，我都写了不调用也没用。
-但是我换回 function_call 的字段，就又正常了。&lt;/p&gt;
-&lt;p&gt;有人遇到过吗，搞不明白怎么回事。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 00:54:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022017#reply0</guid></item><item><title>[生活] 装修扰民找不到声源怎么办</title><link>https://www.v2ex.com/t/1022016#reply3</link><description>电转声音严重影响了休息，在非作业时间装修，然后根据感觉找了几家都不是，这种情况怎么办好呢</description><pubDate>Sat, 09 Mar 2024 00:32:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022016#reply3</guid></item><item><title>[创业组队] 建设二手交易平台之二: 招贤(IOS 开发)纳士(APP 开发)</title><link>https://www.v2ex.com/t/1022013#reply0</link><description>前景提要： &lt;a href="https://www.v2ex.com/t/1014277" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1014277&lt;/a&gt;&lt;br /&gt;经过一个多月的发展，队伍成功组建并且在稳步前进：&lt;br /&gt;&lt;br /&gt;当前队伍构成：&lt;br /&gt;规划：&lt;br /&gt;1 位 3 年经验 Amazon Product Manager&lt;br /&gt;&lt;br /&gt;样式设计：&lt;br /&gt;1 位 3 年经验 UX&lt;br /&gt;1 位 3 年经验 UI&lt;br /&gt;&lt;br /&gt;前端工程师：&lt;br /&gt;1 位 7 年经验 FE SDE&lt;br /&gt;1 位 5 年经验 FE SDE&lt;br /&gt;1 位 still-in-school FE SDE&lt;br /&gt;&lt;br /&gt;后端工程师：&lt;br /&gt;1 位 7 年经验 BE SDE&lt;br /&gt;1 位 3 年经验 BE SDE&lt;br /&gt;1 位 still-in-school BE SDE&lt;br /&gt;&lt;br /&gt;以及：我。&lt;br /&gt;&lt;br /&gt;办公相关信息：&lt;br /&gt;团队整体使用 Slack/Jira/Confluence 进行协调，主要由于大家都是专业人士，还是比较适应上班的这一套；另一方面也是因为团队横跨中国/日本/美国，有时差。这种相对成熟的办公体系比较容易处理时差带来的问题。&lt;br /&gt;&lt;br /&gt;团队每周末开一次通气会，进行进度的 sync 和重要事项的通知。重要事项的决定由技术/流程/设计私下开会来确定。&lt;br /&gt;&lt;br /&gt;当前阶段：&lt;br /&gt;正在开发 web 版本 MVP 。如果理论验证如果没有大的问题话，进行 IOS 开发；有的话就改进，修正。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;说了这么多，只是想吸引潜在的有经验的 IOS/APP 开发者与我联系，乐观预期未来 1-2 个月后会开始 IOS 的开发。&lt;br /&gt;（团队暂时只收纳 IOS/APP 相关人员，由于团队刚刚组建没有太久，才开始上正轨，尚在磨合期，如果未来能有幸做大做强，会另发帖子广招天下英豪。）&lt;br /&gt;&lt;br /&gt;我的联系方式以及 linkedin 请见：&lt;br /&gt;&lt;a href="https://docs.google.com/document/d/1AKM5lAAIK4kmOCJCWYnI7muX5cqid5_dUVqeTkMA9Zk" rel="nofollow noopener" target="_blank"&gt;https://docs.google.com/document/d/1AKM5lAAIK4kmOCJCWYnI7muX5cqid5_dUVqeTkMA9Zk&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;感谢您的时间阅读鄙帖，&lt;br /&gt;祝您万事皆顺</description><pubDate>Fri, 08 Mar 2024 20:23:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022013#reply0</guid></item><item><title>[程序员] 付费用 casnode 开发类似 V2EX 的网站</title><link>https://www.v2ex.com/t/1022012#reply1</link><description>&lt;p&gt;想找人用开源的 casnode 搭建一个类似 V2EX 的网站，目前按照 github 的版本已搭建完毕，只是里面有的功能不完善，可能需要二次开发，由于本人对 casnode 不了解，资料也很少，所以求一位大神帮忙（可付费）。有意请加 v:uutrees&lt;/p&gt;</description><pubDate>Fri, 08 Mar 2024 18:54:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022012#reply1</guid></item><item><title>[反馈] v2ex 怎么刷不了一天前的帖子</title><link>https://www.v2ex.com/t/1022011#reply0</link><description>一打开节点，就出现 unknown error ，现在只能在首页刷一天以内的帖子了</description><pubDate>Fri, 08 Mar 2024 18:48:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022011#reply0</guid></item><item><title>[问与答] Android/iOS/PC 三端有没有比较方便的传文件的 APP</title><link>https://www.v2ex.com/t/1022010#reply8</link><description>&lt;p&gt;Android/iOS 两部手机
-偶尔手机传电脑，主要是图片居多
-有没有公认，比较方便、简洁的 APP&lt;/p&gt;</description><pubDate>Fri, 08 Mar 2024 18:18:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022010#reply8</guid></item><item><title>[酷工作] [远程] [大数据] [区块链] [急聘] 大数据开发/架构师，欢迎各位大佬聊聊</title><link>https://www.v2ex.com/t/1022009#reply0</link><description>&lt;h3&gt;基本信息&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;公司：&lt;a href="http://logearn.com" rel="nofollow"&gt;logearn.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;base：远程&lt;/li&gt;
-&lt;li&gt;薪资：2w-4w/月，如果特别优秀，可另外商议&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 09 Mar 2024 08:49:05 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 求推荐一个支持不同 vlan 对应不同 ssid 的 ap</title><link>https://www.v2ex.com/t/1022111#reply1</link><description>如题。&lt;br /&gt;最近买了个小型机做软路由，基本还算满意，可惜只有两个网口。&lt;br /&gt;现在想做通过不同的 ssid 实现设备通过选择 ssid 来决定是否科学上网，将来也可以分化成不同的 ssid 对应不同子网，进行隔离和管理。&lt;br /&gt;&lt;br /&gt;所以有没有好用的 ap/路由器推荐啊？我实在不想路由器再刷一遍系统，最好原生支持。</description><pubDate>Sat, 09 Mar 2024 08:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022111#reply1</guid></item><item><title>[职场话题] 放假回来一直调整不好.....没心思工作咋整</title><link>https://www.v2ex.com/t/1022110#reply0</link><description>&lt;p&gt;放假回来三周了，还是没有心思工作....整天想着躺平&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 08:26:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022110#reply0</guid></item><item><title>[生活] 我有一个笔记本， 2020 年初买的，现在坏了，请求一下大家的意见，看看该怎么处理比较好</title><link>https://www.v2ex.com/t/1022109#reply4</link><description>我有一个笔记本联想 Y7000 2019 款，2020 年初买的，现在坏了，请求一下大家的意见：&lt;br /&gt;1 、售后检测说 cpu 坏了，然后说没配件就没给维修&lt;br /&gt;2 、我家附近有一个个人电脑说可以更换主板，更换一次 1300 （电脑 5200 买的），可以升级 cpu ，升级 i7 9750H 只是价钱就要 1500 了，但是显卡还是 1050 ，不能升级&lt;br /&gt;3 、淘宝说更换主板 900 ，但是需要自己更换主板，也不确定淘宝的是否靠谱&lt;br /&gt;4 、所在地有一个大点的电脑维修店说可以帮忙修，如果只是修主板的话可能 450 搞定，如果主板确实是修不好了，换个主板也要 1200 左右，单换 cpu 是 850&lt;br /&gt;5 、如果直接回收的话，本地报价 500 ，我可以添点钱直接换个新的笔记本，但是我办公室和家里都有台式机，担心也会因为长时间的放置出现问题&lt;br /&gt;基于以上吧，我有点犹豫不定，让大家帮忙分析分析，我该怎么处理</description><pubDate>Sat, 09 Mar 2024 08:20:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022109#reply4</guid></item><item><title>[Apple] 求个 Vision Pro 镜片码</title><link>https://www.v2ex.com/t/1022108#reply1</link><description>&lt;p&gt;淘宝买了个 Vision Pro ，官方镜片找朋友带了，淘宝的镜片没有一模一样的镜片码，Optic ID 用不了。。。左 700 右 600 ，求求好人🥺🥹&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 08:06:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022108#reply1</guid></item><item><title>[问与答] 有碰到 tg 收不到验证码的吗？怎么解决的</title><link>https://www.v2ex.com/t/1022107#reply6</link><description>&lt;p&gt;你们有收不到验证码的吗？我一直收不到，所以登不上去。在想是什么情况，要怎么解决&lt;/p&gt;
+&lt;p&gt;怀疑 1:使用了 aws 的 VPS 进行翻墙，TG 把云服务器的 IP 屏蔽了？
+怀疑 2:中国移动，中国电信屏蔽了 tg 的验证码&lt;/p&gt;
+&lt;p&gt;有老哥知道怎么解决吗&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 08:04:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022107#reply6</guid></item><item><title>[Apple] iPhone 和 Mac mini 电脑都更新到最新系统了，遇到了前所未有的大 bug，劝告各位谨慎升级！</title><link>https://www.v2ex.com/t/1022106#reply1</link><description>&lt;p&gt;目前手机 iOS17.4 ，电脑 macOS14.4 ，iMessage 无法同步下载 iCloud 中所有的数据，只能显示最近一周的历史消息记录。举例说明，你和你的联系人张三一直在使用 iMessage 沟通，在以往的系统版本下，你可以查看到你们过去的所有历史消息记录；而现在，升级后你只能查看到过去 7 天内的消息记录，划到最顶端也只能显示 7 日内的记录，假如你在这时给张三随便发条 iMessage 消息，神奇的事情发生了，这时你就又可以看到再过去的部分消息，当你划到历史消息最顶端时，此时再发一条消息，就又能显示出一部分历史消息；是不是很神奇？此时如果你随便点击和别人的什么消息，然后切换回你和张三的聊天，这时又只能显示出 7 天之内的消息记录了。以上操作是在 macOS 电脑上进行的，iPhone 上暂未尝试，最后说明我是美区 ID 账号，但我想这应该是系统 bug ，跟账号所在区无关。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:59:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022106#reply1</guid></item><item><title>[Apple] 美版 14 改了卡槽还能用 esim 吗？</title><link>https://www.v2ex.com/t/1022105#reply0</link><description></description><pubDate>Sat, 09 Mar 2024 07:58:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022105#reply0</guid></item><item><title>[Apple] 使用 CalDigit TS4 扩展坞与 MacBook (macOS 14.4) 连接问题 - 有人遇到同样的问题吗？</title><link>https://www.v2ex.com/t/1022104#reply0</link><description>大家好，&lt;br /&gt;&lt;br /&gt;我在使用 CalDigit TS4 扩展坞连接运行 macOS 14.4 的 MacBook 时，遇到了一个问题。&lt;br /&gt;&lt;br /&gt;每次重启 MacBook 后，扩展坞都无法自动重新连接到所有的外围设备（如 aux 音箱、USB 驱动器、SSD 等），只有外部显示器能正常工作。我找到的唯一解决办法是物理断开再重新连接扩展坞的电缆，这非常不方便。&lt;br /&gt;&lt;br /&gt;有没有人遇到过同样的问题？&lt;br /&gt;&lt;br /&gt;我很好奇这是否是一个常见的问题，以及是否有我还没有遇到的已知修复方法或解决办法。如果有任何建议或解决方案，将不胜感激！&lt;br /&gt;&lt;br /&gt;提前感谢大家的帮助！</description><pubDate>Sat, 09 Mar 2024 07:52:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022104#reply0</guid></item><item><title>[分享发现] 分享我的新发现 gbwhatsapp</title><link>https://www.v2ex.com/t/1022103#reply0</link><description>&lt;p&gt;好多人都遇到 gbwhatsapp 登录时，会提醒 you need the official whatsapp to log in 的问题，而且国内好多家做这个产品的网站基本上都没有解决这个事情
+但是，好消息来了，这个网站解决了：&lt;a href="https://www.gbwhatsapp.download/" rel="nofollow"&gt;gb whatsapp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;试了一下，能成功登录。挺不错，值得尝试！&lt;/p&gt;
+&lt;p&gt;你要问啥是 gbwhatsapp?&lt;/p&gt;
+&lt;p&gt;其实就是 whatsapp 反编译版本，比原始的 whatsapp 多很多功能，比如隐身，比如能一次给多个人转发消息（ whatsapp 一次只能 5 个）等等，很多新的功能，所以用户也多。
+这么看，微信是不也可以搞个反编译的版本，首先加的额外功能就应该是： 别人给我发红包，我自动收下，哈哈哈哈哈啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:46:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022103#reply0</guid></item><item><title>[分享发现] 吐槽一下 ikf 耳机</title><link>https://www.v2ex.com/t/1022102#reply0</link><description>买了一个 ikf find max6 ，是真的垃圾，宣传上说是一拖二，就是可以同时连接 2 个蓝牙设备&lt;br /&gt;我平时需要用电脑来处理一些视频，然后办公室也不好外放，所以我需要同时耳机连接手机跟电脑&lt;br /&gt;这个真的难受，我手机连上了，然后再连电脑的时候出现了两个同名的 ikf find max6 ，一个显示是输出设备，一个是音频输出，结果 2 个设备要么就是不能匹配，要么就是匹配上了连不上，要么脸上之后疯狂的在跟手机抢音频输出通道，太垃圾了&lt;br /&gt;劝大家别买</description><pubDate>Sat, 09 Mar 2024 07:40:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022102#reply0</guid></item><item><title>[问与答] intel x553 这网卡对 2.5G 猫棒支持怎么样？</title><link>https://www.v2ex.com/t/1022100#reply0</link><description>&lt;p&gt;翻了下文档，这卡应该是支持 2.5G 的，但不知道对猫棒支持如何，有老哥了解么？感谢&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:30:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022100#reply0</guid></item><item><title>[问与答] 现在的“无线充电”就是座充而已，那么真无线充电发展到哪一步了？</title><link>https://www.v2ex.com/t/1022099#reply1</link><description>&lt;p&gt;有没有了解这一方面的 v 友科普一下  &lt;/p&gt;
+&lt;p&gt;随着电动汽车的发展，电池充电方面是不是也在加速迭代？之前看新闻说电动汽车在路上边走边冲来着。&lt;/p&gt;
+&lt;p&gt;再吐槽一下，现在所谓的无线充电，其实就是很早之前的座充而已。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:29:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022099#reply1</guid></item><item><title>[程序员] 你们有搞 gpu 算力平台的吗</title><link>https://www.v2ex.com/t/1022098#reply7</link><description>&lt;ul&gt;
+&lt;li&gt;idc 的显卡租赁太贵了&lt;/li&gt;
+&lt;li&gt;用普通用户的显卡，去跑那些模型服务&lt;/li&gt;
+&lt;li&gt;相当于 pcdn 用存储和宽带，而你我得朋友你用用户的显卡&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Job Description:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;1 、搭建链上各个公链的数据仓位分析（离线 + 实时）&lt;/li&gt;
-&lt;li&gt;2 、为产品提供各种数据服务支持&lt;/li&gt;
-&lt;li&gt;3 、搭建，培训团队成长&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果你数据技术实力扎实，我们也招聘数据技术负责人。&lt;/p&gt;
-&lt;h3&gt;Job Requirements:&lt;/h3&gt;
-&lt;p&gt;大数据开发工程师(三年以上工作经验)：&lt;/p&gt;
-&lt;ul&gt;
+&lt;h1&gt;我想看看 V2EX 有作这方面的吗&lt;/h1&gt;</description><pubDate>Sat, 09 Mar 2024 07:26:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022098#reply7</guid></item><item><title>[程序员] 转 React 还是继续 Java</title><link>https://www.v2ex.com/t/1022097#reply13</link><description>&lt;p&gt;去年校招进厂写 Java ，当时主要是学的 Spring ，但是&lt;strong&gt;进厂（小厂非互联网）之后日常干的活感觉和 Spring 没什么关系&lt;/strong&gt;，因为 Spring 主要是互联网公司用的多，小厂还是 software development 多一些&lt;/p&gt;
+&lt;p&gt;现在可以内部转 React ，要不要转？&lt;/p&gt;
+&lt;p&gt;我的分析如下，欢迎大家批评指正&lt;/p&gt;
+&lt;h4&gt;转 React 好处&lt;/h4&gt;
+&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;1 、熟悉数据、数仓建模，有 架构能力、模型设计能力&lt;/p&gt;
+&lt;p&gt;React 技能更通用，求职面更广。如果一直在小厂写 Java ，由于只是 Java 技术栈但和 Spring 没什么关系，担心以后锁死了，不能跳槽互联网公司（但是，真的是这样的吗？）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;2 、数据湖相关技术栈&lt;/p&gt;
+&lt;p&gt;转 React 可以提升全栈能力（但是，工作几年的菜鸟真的有人会看重能不能全栈吗？）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;3 、熟悉 Hive 、Spark 、Flink 、Kafka 等大数据开源项目的使用，具备故障定位、以及性能调优能力；&lt;/p&gt;
+&lt;p&gt;有 run 的想法，感觉 react 似乎在海外比 Java 更吃香？国外后端、软件开发很多 C#的，Spring 感觉还是阿里和国内用得多&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;转 React 坏处&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;刚毕业写 Java 还不到一年，如果马上转 React ，以后跳槽时候，这个 Java 经历似乎等于没用，那岂不是白干了？（跳槽 React ，Java 开发经验感觉没用吧。有人招 React 时会优先考虑全栈的吗）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;4 、熟练使用 Scala 、Java 语言进行开发；具备 3 年以上的实时、离线数仓开发经验；&lt;/p&gt;
+&lt;p&gt;有没有可能上班前几年还是专门在一个技术栈上面深耕更好？因为&lt;strong&gt;把精力分散到多项技能，最终会导致每一项都做不好&lt;/strong&gt;。感觉求职的时候还是会看一个语言的经历，而不是样样都搞但不精通？&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;5 、优秀的技术设计能力、沟通协作能力和学习研究能力；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;加分项：熟悉 web3 、区块链&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;加分项：熟悉 阿里云大数据产品 MaxCompute 、Hologres 等&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Benefits:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;1 、目前团队的都是来自 web2 知名大数据公司。团队氛围自由，良好&lt;/li&gt;
-&lt;li&gt;2 、本团队是持续在 Web3 耕耘多年。有非常丰富的行业资源 &lt;/li&gt;
-&lt;li&gt;3 、项目有 Token + 分红激励&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感兴趣的：发送简历到 &lt;a href="mailto:lbyronlee@gmail.com"&gt;lbyronlee@gmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 08 Mar 2024 17:56:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022009#reply0</guid></item><item><title>[路由器] 路由器需要放在弱电箱吗</title><link>https://www.v2ex.com/t/1022008#reply7</link><description>目前光猫放在弱电箱，之前是路由器桥接拨号，就放在弱电箱的外面的下方，导致弱电箱一直就开着一条缝，现在将路由器移动到了书房，但是只要弱电箱一关上，路由器就无法拨号了。路由器拨号是必须跟光猫附近不能遮挡信号吗？</description><pubDate>Fri, 08 Mar 2024 17:04:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022008#reply7</guid></item><item><title>[OpenAI] 目前写代码最强的是哪个</title><link>https://www.v2ex.com/t/1022007#reply3</link><description>之前觉得 gpt4 一个月一百多我根本不会考虑。最近看到同事在工作中使用感觉貌似还可以。请问一下写代码的话那个 ai 最好用呢？最好是结合价格给个推荐</description><pubDate>Fri, 08 Mar 2024 16:58:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022007#reply3</guid></item><item><title>[程序员] 程序员中年失业，被迫开启 PlanB——成为自由职业/独立开发者的第 0 天</title><link>https://www.v2ex.com/t/1022006#reply16</link><description>&lt;h2&gt;lastday, 失业啦&lt;/h2&gt;
-&lt;p&gt;公司年前通知我合同到期不续签，今天是我的 lastday ，我也失业啦～&lt;/p&gt;
-&lt;p&gt;在这期间，经过深思熟虑，我决定开启自己的 PlanB ，尝试做所谓的自由职业、独立开发者。今天下午办理完离职相关手续后，回到家开始计划起了我后续规划。&lt;/p&gt;
-&lt;p&gt;其实提到“自由职业“、“独立开发“这两个词我是不太喜欢的，在没有获得稳定收入前，说白了其实就是没工作的无业人员。但是很多人贴上这两个标签后能蹭到不错的热度获取流量，因此在下也给自己贴上了这两个标签。&lt;/p&gt;
-&lt;h2&gt;使用企业微信搭建自由职业独立开发工作体系&lt;/h2&gt;
-&lt;p&gt;在飞书和企业微信之间考虑，主要是一方面想用他们的文档功能记录一些工作内容以便整理发布到&lt;a href="https://blog.axiaoxin.com/" rel="nofollow"&gt;我的个人博客&lt;/a&gt;，另一方面是想通过它们来管理自己，让自己在独立开发前期能保持正常的工作节奏。&lt;/p&gt;
-&lt;p&gt;最近这份工作使用的是飞书，感觉文档功能还不错。以前在腾讯用过企业微信，离职以后就不知道它现在长什么样了，好奇现在有些什么功能。重新装上企业微信，研究了一下相关功能，感觉满足我的需求，再加上我在服务里发邮件是用的腾讯的企业邮箱，所以就它了。（下面的内容看起来像是企业微信的广告，但并不是。）&lt;/p&gt;
-&lt;h3&gt;无法使用微信群入群欢迎语&lt;/h3&gt;
-&lt;p&gt;因为我有个用户交流微信群，想研究了一下普通微信群是否可以通过企业微信机器人自动发送新人入群欢迎语。万万没想到把企业号拉进群后它自动成为群主然后把我自己的微信（群主）移出了群聊，一度相当尴尬。要设置自动欢迎语必须要把微信群标记为客户群，但是提示不支持标记，可能是我没有认证企业账号的原因，没有继续深入研究，放弃了。&lt;/p&gt;
-&lt;h3&gt;我用到的功能&lt;/h3&gt;
-&lt;p&gt;用到的功能除了文档以外，还有工作台里面的汇报和人事助手。&lt;/p&gt;
-&lt;p&gt;汇报用来写日报，记录一天都做了些什么。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="自由职业/独立开发者的第 0 天" class="embedded_image" rel="noreferrer" src="https://i0.wp.com/wx3.sinaimg.cn/mw2000/67ac78cfgy1hnk15sqjigj20y40mwabu.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;人事助手里有个工资条，我想试试用它来记录自己的每月收入。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="自由职业/独立开发者的第 0 天" class="embedded_image" rel="noreferrer" src="https://i0.wp.com/wx1.sinaimg.cn/mw2000/67ac78cfgy1hnk15xb6wxj21hc1a4aih.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;还有就是手机 APP 上有个打卡功能，想和正常上班一样早晚打卡，通过打卡我觉得可能会让自己更加规律，保持节奏。&lt;/p&gt;
-&lt;h3&gt;我创建的文档&lt;/h3&gt;
-&lt;p&gt;建了几个文档分别是：日报、工资条、项目管理。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="自由职业/独立开发者的第 0 天" class="embedded_image" rel="noreferrer" src="https://i0.wp.com/wx1.sinaimg.cn/mw2000/67ac78cfgy1hnk163fz3ij210q0iitb5.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;后续打算在个人博客更新自己的自由职业/独立开发的动态，可能是周更，也可能是月更，看忙闲程度吧。日报用于记录当日工作内容，以便整理发布到个人博客，写这个其实挺耗时的，不过也算是营销自己的工作的一部分。&lt;/p&gt;
-&lt;p&gt;工资条模板里面我设置了自己现在的收入来源，不管多少，有过几毛钱也罢，只要到账过的都列上去了（至少证明了这是一种可以继续探索的模式），后续每月月底更新一下。&lt;/p&gt;
-&lt;p&gt;项目管理我把自己接下来的工作计划都大概列出来了，并给自己排了个理想的期（每天至少 8 小时，不包揽家务的情况下），已经排到 6 月 27 号了。同时列了一些网站的日常维护和运营工作，以及一些待开发的新功能点记录和其他想法的备忘。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="自由职业/独立开发者的第 0 天" class="embedded_image" rel="noreferrer" src="https://i0.wp.com/wx2.sinaimg.cn/mw2000/67ac78cfgy1hnk16hlqdvj22wm2kmu0x.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;现在迫切想做和需要做的是开发小程序，但是因为我完全 0 基础，需要边学边做，所以之前一直拖延没有开始。&lt;/p&gt;
-&lt;p&gt;小程序具体要做些什么暂且先不透露了，因为有一些顾虑，我还没想好到底应不应该像其他独立开发者一样完全地 build in public ，这些问题后续再写。&lt;/p&gt;
-&lt;h2&gt;结语&lt;/h2&gt;
-&lt;p&gt;下午回到差不多 5 点左右，一直搞到现在，效率有待提高。今天就先到这里，祝大家生活愉快。&lt;/p&gt;</description><pubDate>Fri, 08 Mar 2024 16:32:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022006#reply16</guid></item><item><title>[软件] 有什么笔记软件的提醒功能做得跟滴答差不多？</title><link>https://www.v2ex.com/t/1022005#reply0</link><description>比如输入“明晚八点开会”，app 就会把提醒时间默认设置成明晚八点，提醒的事项变为“开会”</description><pubDate>Fri, 08 Mar 2024 16:22:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022005#reply0</guid></item><item><title>[问与答] 给父母买个看抖音微信不卡的手机，有推荐的吗</title><link>https://www.v2ex.com/t/1022003#reply11</link><description>价格预算 1k-2k ，品牌不限，希望能用久一点，各位大佬请指点</description><pubDate>Fri, 08 Mar 2024 15:51:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022003#reply11</guid></item><item><title>[问与答] 为什么我的推特会自动批量喜欢和转发同一个推文？</title><link>https://www.v2ex.com/t/1022002#reply4</link><description>&lt;p&gt;之前一个 2018 年的账号，积累了上百个粉丝，结果被推特官方封了账号，我申诉两次也没有恢复。&lt;/p&gt;
-&lt;p&gt;同样，我的 youtube 账号也被自动上传了一个视频，触犯了安全规则被警告。&lt;/p&gt;
-&lt;p&gt;关键是，我发现过，手动删除后，依然会再次出现这样的问题。我日常使用电脑上的 edge 浏览器和 chrome 浏览器。&lt;/p&gt;
-&lt;p&gt;一台 win 电脑，一台 mac 电脑，还有一个安卓手机和一个 IPad ，都是同一套账号，我也不清楚究竟是哪个设备出的问题。&lt;/p&gt;
-&lt;p&gt;请问这是怎么回事，有什么好的解决方法？&lt;/p&gt;</description><pubDate>Fri, 08 Mar 2024 15:51:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022002#reply4</guid></item><item><title>[程序员] CA 软件求起名</title><link>https://www.v2ex.com/t/1022001#reply3</link><description>go 语言开发，目前写了 cli ，支持透明度 ct ，准备支持 acme ，支持 crl 分发和 ocsp 响应。目前暂时叫 Open and Free Certificate Authority (OFCA).</description><pubDate>Fri, 08 Mar 2024 15:49:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022001#reply3</guid></item></channel></rss>
+&lt;/ol&gt;</description><pubDate>Sat, 09 Mar 2024 07:19:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022097#reply13</guid></item><item><title>[问与答] win10 不定时自动弹出“鼠标 属性”</title><link>https://www.v2ex.com/t/1022096#reply0</link><description>&lt;p&gt;win10 在正常使用时（如打游戏，码字），会突然弹出$$2 个$$ 鼠标属性 窗口，并且打断当前活跃窗口，严重危害了打瓦体验。为啥是两个我也不清楚，不过我的设备管理器中也有两个鼠标。&lt;/p&gt;
+&lt;p&gt;弹出时间不固定，有时会弹出后隔半小时又会再次弹出。这个现象已经持续了一段时间。&lt;/p&gt;
+&lt;p&gt;弹出后检查 win 自动任务，没有最近启动的自动任务。&lt;/p&gt;
+&lt;p&gt;查阅后推测可能是 rundll32.exe 运行的问题。但网上没有查到相似的问题，目前依然不清楚触发条件。&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:14:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022096#reply0</guid></item><item><title>[Bitcoin] 关于 btc 提现到私有钱包</title><link>https://www.v2ex.com/t/1022095#reply1</link><description>&lt;p&gt;在 gate 上，发现提现 0.01 个 btc 手续是 0.00025btc ，提现 1 个 btc 也是 0.00025 ，那不如多攒点 btc 一起提？请教大家是如何提现到自己钱包，怎么手续费便宜点&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:13:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022095#reply1</guid></item><item><title>[问与答] 公司买在广州买深圳社保合法？发生工伤时要去深圳工伤认定还是深圳，待遇也是按照深圳还是广州标准是多少有明细吗？</title><link>https://www.v2ex.com/t/1022094#reply0</link><description>&lt;p&gt;公司买在广州买深圳社保，发生工伤时要去深圳工伤认定还是深圳，待遇也是按照深圳还是广州标准是多少有明细吗？&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 07:08:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022094#reply0</guid></item><item><title>[OpenAI] MacGPT 不能正常使用了吗？</title><link>https://www.v2ex.com/t/1022093#reply3</link><description>MacGPT 不能正常在开启代理的情况下使用了吗？发不出去信息，一直转圈圈</description><pubDate>Sat, 09 Mar 2024 07:03:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022093#reply3</guid></item><item><title>[分享创造] 每晚八点，自动推送当日新闻联播到钉钉群（开源）</title><link>https://www.v2ex.com/t/1022092#reply0</link><description>&lt;p&gt;我的小新闻联播项目迭代到了第三个版本。支持了 Github Action 部署。每天晚上八点自动运行任务。然后推送到钉钉。当然你也可以自己设置时间，为第二天早上九点推送。&lt;/p&gt;
+&lt;p&gt;可以获取当天的每个小节的摘要内容，以及对应摘要的视频链接。方便快速查看。&lt;/p&gt;
+&lt;p&gt;项目地址： &lt;a href="https://github.com/kawayixixing/RPA-collection" rel="nofollow"&gt;https://github.com/kawayixixing/RPA-collection&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 09 Mar 2024 06:58:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022092#reply0</guid></item><item><title>[Google] 收到 Gemini 1.5 Pro 资格了</title><link>https://www.v2ex.com/t/1022091#reply4</link><description>早上醒来收到邮件&lt;br /&gt;&lt;br /&gt;You now have Private Preview access to our next generation Gemini 1.5 Pro model in Google AI Studio, with Gemini API support coming soon.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;100 万 tokens 确实挺有用的，直接扔了一本小说进去，才用了 20 万，简单问了下回复还是挺好的</description><pubDate>Sat, 09 Mar 2024 06:58:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022091#reply4</guid></item></channel></rss>
