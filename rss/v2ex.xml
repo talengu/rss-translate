@@ -1,41 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 10 Mar 2024 23:28:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[职场话题] 上午面试，下午 Offer，我的成长经历分享～</title><link>https://www.v2ex.com/t/1022382#reply0</link><description>&lt;p&gt;上周六，花了一晚上，对近段时间的经历做了一个总结，写了一篇文章，阅读方式：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Mar 2024 08:11:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有没有第三方无需登陆 点击链接即可观看分享者分享的视频,图片的应用</title><link>https://www.v2ex.com/t/1022915#reply0</link><description>&lt;p&gt;使用场景如下
+我把想要分享的视频上传到应用的某个分组下,然后分享整个分组
+第三方通过我发送的分享链接 可以直接观看(无需登录)这个分组下我上传的视频,图片等文档&lt;/p&gt;
+&lt;p&gt;第三方仅可以通过我的分享链接观看,不可以有其他观看入口&lt;/p&gt;
+&lt;p&gt;需要排除会自动把账号推荐给好友,疑似认识等功能的应用(抖音)&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:57:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022915#reply0</guid></item><item><title>[问与答] 2 岁多的宝宝，平衡车有推荐的么？</title><link>https://www.v2ex.com/t/1022914#reply0</link><description>&lt;p&gt;家里的宝宝 2 岁多了，身高大概在 93cm&lt;/p&gt;
+&lt;p&gt;想买个平衡车，大家有什么推荐么？比如，多大尺寸的？什么 12 ，14 寸等？什么品牌的物美价廉？&lt;/p&gt;
+&lt;p&gt;貌似还有一个什么五件套，防摔还是防撞的？那是啥？&lt;/p&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:57:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022914#reply0</guid></item><item><title>[分享创造] 我开发的全端全栈框架终于开源咯！</title><link>https://www.v2ex.com/t/1022913#reply0</link><description>&lt;p&gt;以后再有人辩论用 flutter 做全端好还是用 react-native 做全端好，那当然 all in JS 。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;公众号（建议手机端阅读）： &lt;a href="https://mp.weixin.qq.com/s/16PgIvwDwItIDapoTIWDmA" rel="nofollow"&gt;https://mp.weixin.qq.com/s/16PgIvwDwItIDapoTIWDmA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;个人博客（建议 PC 端阅读）： &lt;a href="https://blog.sunguoqi.com/posts/8684f2cb" rel="nofollow"&gt;https://blog.sunguoqi.com/posts/8684f2cb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JS 能做网页（ nextjs ）&lt;/li&gt;
+&lt;li&gt;JS 能做后端（ nestjs ）&lt;/li&gt;
+&lt;li&gt;JS 能做手机端（ react-native ）&lt;/li&gt;
+&lt;li&gt;JS 能做电脑端（ react-electron ）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;目录&lt;/p&gt;
+&lt;p&gt;世界上哪里还有比这更容易统一的全端全栈方案啊！&lt;/p&gt;
+&lt;p&gt;除此之外，还能用统一的组件库 antd ，tailwind ，而这一切，都被我打包进了我的全端全栈方案 MyAllEnd 中了。&lt;/p&gt;
+&lt;p&gt;其实我做的 MyAllEnd 不算一个框架，而是一个全端全栈的组合方案，把上述的框架都集合进一个项目中，git clone 了 MyAllEnd ，就可以在一个项目里开发全端全栈了。&lt;/p&gt;
+&lt;p&gt;另外，我还在该项目里写了许多封装代码，将各种 API 统一起来，对 cookie ，前端 db ，请求 request 等做了封装，这样网页端，手机端，电脑端都可以尽可能地复用代码，这样全端全栈的脚手架已经搭好，非常适合独立开发者创建新项目。&lt;/p&gt;
+&lt;p&gt;感兴趣的朋友可以去 GitHub 上点个 star：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/HeroIsUseless/MyAllEnd" rel="nofollow"&gt;https://github.com/HeroIsUseless/MyAllEnd&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;为什么要用这个？&lt;/h3&gt;
+&lt;p&gt;这一套解决方案是我自己总结的前端程序员做全端全栈的最佳方案，因为一整套方案只用 JS ，而不用 Java ，Rust 之类，clone 了本项目，就相当于初始化了一套全端全栈解决方案，节省了做选型，初始化各个项目的时间，并且能做到最大限度的代码复用。&lt;/p&gt;
+&lt;h3&gt;有坑吗？&lt;/h3&gt;
+&lt;p&gt;这个项目只是 n 个脚手架的组合包，没有新技术，如果有坑，那也是各个框架的坑。&lt;/p&gt;
+&lt;h3&gt;跟 uniapp 之类的相比呢？&lt;/h3&gt;
+&lt;p&gt;首先，本项目没有小程序（当然也可以集成），其次，本项目有后端模块，再其次，没有本身的坑。&lt;/p&gt;
+&lt;h3&gt;为什么不用 monorepo ？&lt;/h3&gt;
+&lt;p&gt;当然也可以用，只不过对于独立开发者来说，没这个必要吧？如果有多个人，那就开多个项目，也没有必要用本项目了。&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:52:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022913#reply0</guid></item><item><title>[问与答] 家里介绍相亲怎么唠下去的？？</title><link>https://www.v2ex.com/t/1022911#reply15</link><description>&lt;p&gt;一个阳光明媚的早晨、VX 炸了
+ABCDE 添加消息直叫大名
+通过某一个反问哪位
+3 分钟憋不出来一个 P
+拉黑&lt;/p&gt;
+&lt;p&gt;再通过下一个询问得知
+太上皇在喝茶把号散出去了
+被相亲之路开启&lt;/p&gt;
+&lt;p&gt;没问家庭关系
+没问几几年
+直接问谁的任务
+应付谁谁谁
+人单身过的比我都爽
+……………
+03 年的相个 P 相&lt;/p&gt;
+&lt;p&gt;下午接到同学雷炸天自拍
+也是相亲
+掉窝了简直&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:50:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022911#reply15</guid></item><item><title>[杭州] 改善需求，改买为租是否可行？</title><link>https://www.v2ex.com/t/1022910#reply5</link><description>&lt;p&gt;目前我家的情况是： &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;减肥健康&lt;/li&gt;
-&lt;li&gt;去年年底&lt;/li&gt;
-&lt;li&gt;登顶泰山&lt;/li&gt;
-&lt;li&gt;原则科技&lt;/li&gt;
-&lt;li&gt;入职一周&lt;/li&gt;
-&lt;li&gt;回归生活&lt;/li&gt;
-&lt;li&gt;聊聊读书&lt;/li&gt;
-&lt;li&gt;与辉同行&lt;/li&gt;
-&lt;li&gt;关于摄影&lt;/li&gt;
-&lt;li&gt;写在后面&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Sun, 10 Mar 2024 23:13:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022382#reply0</guid></item><item><title>[问与答] 使用牙线出血问题</title><link>https://www.v2ex.com/t/1022381#reply3</link><description>想问大家，你们用牙线会不会遇到齿距太小的问题，例如牙线会分岔成小线，卡在牙缝，又或是明明就很小心了，我用牙线会注意插进去时，尽量往牙齿两侧拉，却依然会出血，下排右侧最严重，上排没出血过，这个做牙齿矫正有用吗？（ 本身上排 2 颗智齿拔掉，下排 2 颗还存在）</description><pubDate>Sun, 10 Mar 2024 21:47:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022381#reply3</guid></item><item><title>[问与答] electron（或许是 chromium）的 app 卡住，键盘失灵？</title><link>https://www.v2ex.com/t/1022380#reply0</link><description>&lt;p&gt;最近几个月来经常遇到 Edge/Chrome 浏览器，Slack ，Vscode 卡住，鼠标可以操作，但是键盘失灵。&lt;/p&gt;
-&lt;p&gt;比如在 Chrome 里面无法输入网址，Slack 里面无法输入消息。有时候等个几分钟就好了，有时候懒得等就智能重启 app 。&lt;/p&gt;
-&lt;p&gt;在我看来这几个 APP 的共同点就是都是基于 Chromium 的（或者是 Electron ）。&lt;/p&gt;
-&lt;p&gt;操作系统：Windows 11 Pro 23H2&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 20:10:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022380#reply0</guid></item><item><title>[问与答] 在翻译上目前哪家大模型表现最好？</title><link>https://www.v2ex.com/t/1022379#reply1</link><description>&lt;p&gt;只考虑能免费使用的&lt;/p&gt;
-&lt;p&gt;主要是中英文，日语偶尔也会用到&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 20:05:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022379#reply1</guid></item><item><title>[ WATCH] 求 V 友帮忙实验下，如果没有 Apple Music 订阅， Mac 向 Apple Watch 传输离线音乐必须借助 iPhone 中继吗？有办法保持 ALAC 或任意无损格式吗？</title><link>https://www.v2ex.com/t/1022378#reply3</link><description>网易云不考虑，我自己购买的实体碟传上去都会给我灰掉不让播放&lt;br /&gt;我知道苹果的蓝牙音频只能传 256kbps ，但如果源不是无损的话相当于压缩两次了，还是有一点不开心</description><pubDate>Sun, 10 Mar 2024 19:36:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022378#reply3</guid></item><item><title>[宽带症候群] 最近遇到的奇怪问题</title><link>https://www.v2ex.com/t/1022377#reply1</link><description>用的浙江联通宽带，发现从这个月左右开始某些网站就打不开了，挂梯子也没用。用手机访问，联通流量依然打不开，然后用电信流量就正常了。目前就发现经常访问的淘宝闲鱼的 &lt;a href="http://tb.cn" rel="nofollow noopener" target="_blank"&gt;tb.cn&lt;/a&gt; 和微星的 &lt;a href="http://msi.cn" rel="nofollow noopener" target="_blank"&gt;msi.cn&lt;/a&gt; 有这个情况。也不知道到底是什么原因，严重影响到了我上班刷 V2EX 二手区的快乐。</description><pubDate>Sun, 10 Mar 2024 18:42:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022377#reply1</guid></item><item><title>[Apple] 京东 Apple 自营是入手 Watch S9 的最优惠渠道吗？国行有什么坑吗？</title><link>https://www.v2ex.com/t/1022375#reply16</link><description>&lt;p&gt;没用过任何智能手表。我的主要用途只有连 AirPods Pro 2 （用了快两年的耳机，感觉有点不太行了，618 可能换 SONY ）听歌（都是自购实体专辑，直接同步进去离线听，就不用开 Apple Music 会员了），S9 翻倍的容量刚好合适，借同事的 Watch S7 玩了下感觉不错，打算买个 S9 。于是比了下价格：&lt;/p&gt;
-&lt;p&gt;美国 Apple 官网 399 美元，2872.8 元，这大概是最不考虑的渠道，没有认识的人近期回来，直邮 Apple 产品必税还存在丢件风险。&lt;/p&gt;
-&lt;p&gt;日本 Bic Camera：官网价 59800yen ，外国人应该可以退税 10%，组里有个同事未成年孩子在东京上学，所以他基本每个月都去日本，可以帮忙带，0 运费 + 税费，算下来是 2629.87 元&lt;/p&gt;
-&lt;p&gt;京东 Apple 自营：没想到居然是最便宜的，2949 叠加 1500 减 400 优惠券（所有人都有）+PLUS （去年 618 开了以后一次都没用过）立减只要 2535 &lt;del&gt;四舍五入几乎不要钱&lt;/del&gt; &lt;del&gt;还赠送 200-10 App Store 优惠券，不过我没有国区 Apple ID 不知道能不能咸鱼 5 块出掉（算了应该懒得折腾）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;国行心电图也能用了，应该没有别的坑吧？有没有必要再去 Apple Store 体验下（有点远，嫌麻烦）&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 17:07:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022375#reply16</guid></item><item><title>[Surge] Surge iOS 新车缺两人</title><link>https://www.v2ex.com/t/1022374#reply0</link><description>&lt;p&gt;110/人 买断 后续协商更新 少数服从多数 VX：super_zer0&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 16:48:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022374#reply0</guid></item><item><title>[推广] 做了一个工具，将知识库构建和 chat bots 解耦掉</title><link>https://www.v2ex.com/t/1022373#reply0</link><description>&lt;p&gt;官网： &lt;a href="https://gptdevelopment.online/" rel="nofollow"&gt;https://gptdevelopment.online/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在页面上训练知识库，通过 api 的方式调用，根据提问获取相关知识&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 16:30:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022373#reply0</guid></item><item><title>[程序员] 2C4G5M 能不能支持 Next Nest MongoDB Redis(20 多个消息队列)</title><link>https://www.v2ex.com/t/1022372#reply2</link><description>&lt;p&gt;正在开发一个公司群聊项目，前端有个 Next 服务器渲染，后端用 Nest, MongoDB, 还用 Redis 搞了大概 20 个消息队列做请求速率限制，每个队列每秒并发请求是 5 个，一共 100 个，这些数据接着返回给前端，前端并发是不是也是 100 个，加起来 200 个？&lt;/p&gt;
-&lt;p&gt;全都用的 Docker 容器。Next 服务器渲染不知道耗费不耗费浏览，没算过。&lt;/p&gt;
-&lt;p&gt;前几天被阿里云打来了推销电话，不知道买什么服务器比较好，不知道 20 多个消息队列的 Redis 占用多少内存，问过 AI 了也不回答，只说按实际，不知道 2C4G5M 跑上面这一套够不够。&lt;/p&gt;
-&lt;p&gt;买低配服务器再升配置比较贵，想直接买个合适的，对服务器研究没有经验，求各位解答一下，谢谢了。&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 16:29:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022372#reply2</guid></item><item><title>[Apple] macbook pro m3pro 是买 11+14 还是 12+18？</title><link>https://www.v2ex.com/t/1022371#reply0</link><description>&lt;p&gt;11+14 18G 512G 硬盘
-和 12+18G 1T 硬盘
-差价 2500
-2500 的差价换来的提升，值得么？&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 16:26:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022371#reply0</guid></item><item><title>[macOS] mac 怎么样一次性把文件的默认打开方式全改了？</title><link>https://www.v2ex.com/t/1022370#reply5</link><description>&lt;p&gt;安装了 hbuilderx ，这个编辑器简直流氓，把所有的文件的默认打开方式全换成这个了，而且还改不了，改成 vscode 后马上又变成 hbuilderx 了、&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 16:26:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022370#reply5</guid></item><item><title>[硬件] 有无 typec hdmi 公口的短线(20cm)推荐</title><link>https://www.v2ex.com/t/1022368#reply0</link><description>&lt;p&gt;因为随身带 ipadpro+笔记本+采集卡来把 ipadpro 当扩展屏幕，所有需要一个&lt;strong&gt;短线&lt;/strong&gt;有一个 hdmi 公口 再有一个 typec 或者 hdmi 公口。&lt;/p&gt;
-&lt;p&gt;我现在用的是一个 hdmi 双公口的 12cm 短线 其实符合我要求了。&lt;/p&gt;
-&lt;p&gt;我想问下大家有无推荐**一个 hdmi 公口 再有一个 typec 的短线(10-20cm)**？在 TB PDD, 我能搜到的 typec 线至少都是 1m 了&lt;/p&gt;
-&lt;p&gt;感谢大家&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;采集卡是绿联 cm716:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="采集卡是绿联 cm716" class="embedded_image" rel="noreferrer" src="https://img.alicdn.com/imgextra/i3/199412667/O1CN01MNp7k71VZXCpQmV26_%21%21199412667.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 15:55:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022368#reply0</guid></item><item><title>[Apple] watchOS9 怎么和 iOS17.4 一起使用</title><link>https://www.v2ex.com/t/1022367#reply1</link><description>手贱升级了 17.4 ，升完才发现用不了 9 系统的手表了，能不能不升级 10 系统使用啊续航没有 9 好呀…</description><pubDate>Sun, 10 Mar 2024 15:44:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022367#reply1</guid></item><item><title>[问与答] 外版三星插大陆 sim 卡还会有内置反诈和 APP 备案吗？内置 AI 会变成百度吗？</title><link>https://www.v2ex.com/t/1022366#reply3</link><description>&lt;p&gt;最近打算买个外版手机专门用来分隔国内国外 APP 的使用，避免不必要的麻烦&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 15:36:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022366#reply3</guid></item><item><title>[问与答] 为什么 Windows 不会自动给 MSR 分区 4K 对齐？</title><link>https://www.v2ex.com/t/1022365#reply0</link><description>偶然间发现的，原因是我对刚从拆下来的固态做了如下操作：&lt;br /&gt;diskpart&lt;br /&gt;clean&lt;br /&gt;convert gpt&lt;br /&gt;按理说这些操作会把分区表变成 GUID 然后创建 MSR 分区。但是当我用 Diskgenius 检查的时候，发现这个 MSR 没有 4K 对齐。于是我用 DG 删除了硬盘的所有分区，用 diskpart 手动新建了一个：&lt;br /&gt;create part msr size=16&lt;br /&gt;让后用 DG 再检查了一遍，这次显示对齐了。&lt;br /&gt;只是好奇，为什么 Windows 不会自动对齐这种占据关键地位的分区，反而是用户手动分的区才能对齐？</description><pubDate>Sun, 10 Mar 2024 15:27:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022365#reply0</guid></item><item><title>[问与答] 我这笔 BTC 当时是没收到吗?</title><link>https://www.v2ex.com/t/1022363#reply2</link><description>&lt;p&gt;当时觉得价格低,新建了 electrum 钱包,最近想出,发现 BTC 不对哈,这个截图的意思是我当时没收到这笔钱吗?
-&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://img.imgdd.com/f210f3.7e990fe1-265c-4515-a601-cb6995bbbf53.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 14:58:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022363#reply2</guid></item><item><title>[问与答] 寻找一个网站，关于旅游的</title><link>https://www.v2ex.com/t/1022362#reply0</link><description>&lt;p&gt;我记得功能是填写城市后会根据历史天气推荐适合去的时间&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 14:56:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022362#reply0</guid></item><item><title>[问与答] 想要一些低价的中转 api 网站。求助</title><link>https://www.v2ex.com/t/1022361#reply2</link><description>&lt;p&gt;求助，之前自己找的网站最近似乎涨价了，想再找点用用，逆向的那种就行，单纯只要聊聊天，不作开发。站内 v 友发的那家 0.25 的也试了，目前没法充值了。&lt;/p&gt;</description><pubDate>Sun, 10 Mar 2024 14:47:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022361#reply2</guid></item><item><title>[Arc] Arc For Win11 Feedback</title><link>https://www.v2ex.com/t/1022360#reply1</link><description>Arc For Win11 已知稳定复现问题及解决方案&lt;br /&gt;1. 中文输入法无法输入，导致软件闪退。&lt;br /&gt;- 复现： 新建标签页时使用中文输入，会导致接下来的网页里无法输入中文。&lt;br /&gt;- 解决方案： 切换至英文输入法再次打开并关闭新标签页，然后点击网页空白位置即可恢复。&lt;br /&gt;2. 将网页 Pin 在工作区，利用此网页打开的网站都无法输入中文。&lt;br /&gt;- 复现：将 &lt;a href="http://google.com" rel="nofollow noopener" target="_blank"&gt;google.com&lt;/a&gt; Pin 在工作区后打开任意网页（包括此网页本身）都无法正常输入中文。&lt;br /&gt;- 解决方案： 无，暂时别使用此功能。&lt;br /&gt;3. 无法打开 App 或者加载缓慢。&lt;br /&gt;- 复现： 将代理切换至国内无法打开软件。&lt;br /&gt;- 解决方案：切换非国内 IP 即可。&lt;br /&gt;&lt;br /&gt;# 附运行环境：&lt;br /&gt;Arc Version：v0.12.0.13667 &lt;br /&gt;输入法：微软输入法&lt;br /&gt;系统版本：Win11 Pro 23h2 22631.3235</description><pubDate>Sun, 10 Mar 2024 14:41:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022360#reply1</guid></item></channel></rss>
+&lt;li&gt;已有一套商品房（和一套老破小，太小了+没电梯+卖不出去可以忽略不计），学区比较一般但也不至于说是很差&lt;/li&gt;
+&lt;li&gt;两个人上班分别在滨江和未科，目前住址去未科非常折腾，工作都短期内都不好换&lt;/li&gt;
+&lt;li&gt;我爸妈快要退休，退休后会搬来杭州长驻，需要一套住房（爸妈主动表示不想长住一起闹矛盾）  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;之前打算新买一套改善房我们搬过去，但研究了两周，看中的地段新房要 600+且很难摇，二手更是要 700~800 ，算了下首付得掏 300~400 个还得背一屁股债，然后看中的地方离现在的住址就差 5 站地铁，感觉血亏...&lt;br /&gt;
+今天突然想到能否租房？查了下目标地点新盘 139 方租金最低的 1.1 万（租售比 720 ），年租金大致能被 400 万的理财收入 cover ，好像还行？就是不知道租个十年二十年后会不会后悔&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:49:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022910#reply5</guid></item><item><title>[问与答] windows 被黑后续 天价账单来了！</title><link>https://www.v2ex.com/t/1022909#reply1</link><description>&lt;p&gt;上一个帖 &lt;a href="https://v2ex.com/t/1021340#reply65" rel="nofollow"&gt;https://v2ex.com/t/1021340#reply65&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;幸好我当时一键锁卡了 并且这个金额也超过了我信用卡的最大金额&lt;/p&gt;
+&lt;p&gt;打电话换卡了已经，是微软的账户 我也不知道是用我账户刷的 还是黑客用别的账户刷的 然后绑了我的卡
+因为我之前 chrome 上绑的有我的 visa 卡&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i2.100024.xyz/2024/03/12/plwl7m.webp" /&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:49:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022909#reply1</guid></item><item><title>[生活] 很感慨，在 V 站翻以前的博客帖子，很多博客已经无响应了</title><link>https://www.v2ex.com/t/1022908#reply6</link><description>&lt;p&gt;因为想找个好看的主题，所以在 v 站搜了搜，几乎隔段时间就有个高楼，顺着一个一个点进去，发现不少无响应了。&lt;/p&gt;
+&lt;p&gt;在链接的旁边还有博主交换友链留的自我介绍，热情洋溢的。或者是一些主题分享帖，“看看我的，自己写的，我觉得还不错”，底下还有 v 友热闹捧场，你这个好看你这个不错，被夸的人也乐呵呵地回复点爱心。&lt;/p&gt;
+&lt;p&gt;域名也精致，要么是自己的名字，要么也看得出精挑细选过，说不定是花了不少时间才找到个没被注册又喜欢还买得起的。看看信息很多年没续费了。&lt;/p&gt;
+&lt;p&gt;有些 theme 留了 github 地址，点进去 readme 里的图片链接已经失效了，commit 停在 x years ago ，已经过去这么久了。&lt;/p&gt;
+&lt;p&gt;搜到个帖子是 2019 年的，第一个想法是这也没过多久，才反应过来 5 年过去了，如果有个当年初二的学生，现在已经在拼搏百天备战高考了。&lt;/p&gt;
+&lt;p&gt;过去、现在、未来，永远会有人满怀期待地搭建自己的第一个 blog ，在浏览器里看到第一个属于自己的页面的时候兴奋地手舞足蹈，像看一颗树苗一样，兴致勃勃地盘算着要用记录自己的想法、技术和见闻把它灌溉成苍天大树。&lt;/p&gt;
+&lt;p&gt;最后在和生活的对线里再也没有热情或者精力顾及这个小小的起点。&lt;/p&gt;
+&lt;p&gt;突如其来的情绪，写得很矫情，见笑了。&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:43:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022908#reply6</guid></item><item><title>[推广] 不来试用一下 Claude 3 吗，支持图片的那种 [免费送一个月体验券]</title><link>https://www.v2ex.com/t/1022907#reply0</link><description>&lt;p&gt;Claude 3 出来了，我们也快速把 Claude 给接入了，聊天中支持图片，测试了一下甚至可以做 OCR.&lt;/p&gt;
+&lt;p&gt;放上很有诚意的 V2EX 的专属注册链接，注册就送一个月。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://chatboy.io/register?s=v2ex2024" rel="nofollow"&gt;https://chatboy.io/register?s=v2ex2024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;特点如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用邮箱即可注册，连验证都不用&lt;/li&gt;
+&lt;li&gt;从 Claude 3 到 GPT-4 到 Midjourney V6 都可使用，无需梯子&lt;/li&gt;
+&lt;li&gt;普通用户注册就送一个月&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;重点提示&lt;/strong&gt;，现在对话默认是 GPT 3.5, 点击对话右上角“...”进入“设置”——“对话”——选择 C30O 模型，即可使用 Claude 3 Opus&lt;/p&gt;
+&lt;p&gt;预览图片: &lt;a href="https://cdn.chatboy.io/goapi/upload/hsqPCDCgbo53Sw2MZ4O4RSYvkqon8JCDLmqciA" rel="nofollow"&gt;https://cdn.chatboy.io/goapi/upload/hsqPCDCgbo53Sw2MZ4O4RSYvkqon8JCDLmqciA&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:42:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022907#reply0</guid></item><item><title>[宽带症候群] 小区宽带只有 XGPON 接入，有方法成猫棒吗</title><link>https://www.v2ex.com/t/1022906#reply1</link><description>&lt;p&gt;千兆联通宽带，买了一支 MA5671A 猫棒接上发现注册卡在 O3 状态，光衰在-27 左右&lt;br /&gt;
+F7607P 倒是改一下 LOID 就能正常注册使用了，光衰-20&lt;br /&gt;
+同小区的 300M 联通用户运营商给的也是 XGPON 光猫，猜测是纯 XGPON 接入。&lt;br /&gt;
+打电话问装维，装维很不耐烦地说不支持 GPON ，问能不能在 OLT 上做兼容，说不行&lt;br /&gt;
+这种情况没有办法换猫棒了吗&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:41:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022906#reply1</guid></item><item><title>[Apple] Giffgaff 在 XS 添加 eSim 卡问题</title><link>https://www.v2ex.com/t/1022905#reply0</link><description>设备：美版无锁 XS 带 eSim&lt;br /&gt;想要添加 GG 的 eSim 玩玩，发现无法添加，有大神成功添加过吗？&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/SkaSr2t.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/SkaSr2t.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Tue, 12 Mar 2024 07:41:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022905#reply0</guid></item><item><title>[问与答] 职场里的所谓高情商和马屁精的区别是什么？</title><link>https://www.v2ex.com/t/1022904#reply17</link><description>组里有个同事，经常是找机会跟组长说这种话：&lt;br /&gt;”领导出马一个顶俩“&lt;br /&gt;”在领导的带领下“&lt;br /&gt;”领导的水平就是高“&lt;br /&gt;”领导教会了我们很多“&lt;br /&gt;&lt;br /&gt;有时我都怀疑，是我自己情商太低、嘴太笨不会说这样的话，还是他是马屁精？</description><pubDate>Tue, 12 Mar 2024 07:39:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022904#reply17</guid></item><item><title>[前端开发] 如何请求不允许跨域的网站接口</title><link>https://www.v2ex.com/t/1022903#reply1</link><description>&lt;p&gt;如题，要跨域请求一个网站接口，对方网站点击按钮执行 fetch ，代码如下&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;fetch(n, {
+        credentials: "include",
+        referrer: document.location.href
+    }
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;控制台查看 Network 信息如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;请求 URL: https://xxdomain.com/q/xxx
+请求方法: GET
+
+(下面是 header)
+Cookie: connect.sid=s%3Akdxxx
+Host: xxdomain.com
+Referer: xxdomain.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;尝试：尝试了用 express 代理，没成功。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let n = '接口地址'
+        fetch(n, { 
+            headers:{
+                'Cookie': 'connect.sid=s%3xx',
+            }
+            , referrer: 'xxx' })
+        
+        res.send(response.data);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在 header 中放置 Cookie 跟 credentials: "include"一样吗？对方检测到了跨域，不让请求。&lt;/p&gt;
+&lt;p&gt;欲求：有没有办法模仿浏览器的请求，带 cookie 访问，因为对方网站是不用登录的，cookie 很容易获取到。
+前端或后端有办法模仿浏览器请求，来获取到接口数据吗？&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022903#reply1</guid></item><item><title>[问与答] 探索大陸超商儲值抖音的秘訣 &amp; 注意的事項</title><link>https://www.v2ex.com/t/1022901#reply0</link><description>&lt;p&gt;大陸抖音儲值（ &lt;a href="https://www.cvcka.tw/product/da-lu-dou-yin-chu-zhi/" rel="nofollow"&gt;https://www.cvcka.tw/product/da-lu-dou-yin-chu-zhi/&lt;/a&gt; ）实用方法，台灣買抖音幣也很容易，台灣點擊鏈接《抖音幣儲值》&lt;/p&gt;
+&lt;p&gt;搜索 [ &lt;a href="http://cvcka.tw" rel="nofollow"&gt;cvcka.tw&lt;/a&gt; ] 可獲得超多抖音儲值教學和 tiktok 儲值教學，還有探探币充值（ &lt;a href="https://www.hwchongzhi.com/tan-tan-bi-chong-zhi/" rel="nofollow"&gt;https://www.hwchongzhi.com/tan-tan-bi-chong-zhi/&lt;/a&gt; ）、花椒直播充值（ &lt;a href="https://www.hwchongzhi.com/hua-jiao-zhi-bo-chong-zhi/" rel="nofollow"&gt;https://www.hwchongzhi.com/hua-jiao-zhi-bo-chong-zhi/&lt;/a&gt; ）、Dou+币充值、BIGO 儲值、Q 幣儲值、bilibili 儲值等。意想不到的超低價抖音儲值！無門檻折扣碼 [ kach ] &lt;/p&gt;
+&lt;p&gt;抖音，作為全球其中一個最受歡迎的短視頻平台，吸引了數以億計的用戶在上面分享生活、交流觀點、尋找樂趣。然而，對於許多台灣用戶來說，在抖音上儲值並不是一件簡單的事情。這篇文章將帶領讀者深入了解如何在台灣儲值大陸版抖音，探討大陸超商儲值（ &lt;a href="https://www.cvcka.tw/product/dou-yin-chao-shang-chu-zhi-jiao-xue/" rel="nofollow"&gt;https://www.cvcka.tw/product/dou-yin-chao-shang-chu-zhi-jiao-xue/&lt;/a&gt; ）、注意事項以及價格差異等問題。&lt;/p&gt;
+&lt;p&gt;探索大陸超商儲值抖音的秘訣&lt;/p&gt;
+&lt;p&gt;許多台灣用戶首選在大陸超商儲值抖音。這種儲值方式通常需要在大陸實體超市或便利店付款，優點在於方便快捷，並且可以使用抖音台幣儲值（ &lt;a href="https://www.cvcka.tw/product/dou-yin-tai-bi-chong-zhi/" rel="nofollow"&gt;https://www.cvcka.tw/product/dou-yin-tai-bi-chong-zhi/&lt;/a&gt; ）。在抖音代儲使用超市儲值的步驟如下：&lt;/p&gt;
+&lt;p&gt;選擇代儲管道：首先，用戶需要選擇一個可信賴的抖音大陸版儲值（ &lt;a href="https://www.cvcka.tw/product/dou-yin-da-lu-ban-chu-zhi/" rel="nofollow"&gt;https://www.cvcka.tw/product/dou-yin-da-lu-ban-chu-zhi/&lt;/a&gt; ），例如：&lt;a href="http://cvcka.tw" rel="nofollow"&gt;cvcka.tw&lt;/a&gt; 。
+下單選擇規格：進入抖音代儲的頁面後，使用者需先登入平台帳號，然後選擇適合自己的儲值規格下單。
+提供帳號資訊：在下單過程中，使用者需要提供自己的抖音帳號以及聯絡方式，如信箱或手機號碼等。
+支付費用：選擇抖音儲值超市，然後會收到支付二維碼，帶著二維碼到附近的超市，完成付款即可。
+等待代儲：用戶完成付款後，代儲方將在一定的時間內為用戶完成儲值操作。用戶需要耐心等待代儲完成，並留意可能的通知或提醒。
+台灣儲值大陸版抖音需注意的事項&lt;/p&gt;
+&lt;p&gt;對於想要在台灣儲值大陸版抖音（ &lt;a href="https://www.ka-cheap.com/product/dou-yin-chong-zhi/" rel="nofollow"&gt;https://www.ka-cheap.com/product/dou-yin-chong-zhi/&lt;/a&gt; ）的用戶來說，有幾個重要的注意事項需要牢記在心，這樣才能避免許多問題：&lt;/p&gt;
+&lt;p&gt;信任可靠的渠道：選擇正規可信賴的代儲管道或服務商，以確保儲值過程中的資金安全和帳戶信息的保密。
+注意儲值金額：在進行儲值操作時，請確認選擇的金額和鑽石數量是否正確，避免因操作失誤而造成損失。
+確認儲值後餘額：在完成儲值操作後，請立即檢查抖音帳戶中的鑽石數量是否正確，及時處理可能出現的問題。
+這些注意事項可以幫助用戶在儲值抖音的過程中保持警惕，避免不必要的風險和損失。&lt;/p&gt;
+&lt;p&gt;抖音儲值價格為何在台灣較高？&lt;/p&gt;
+&lt;p&gt;許多台灣用戶可能好奇，為什麼抖音儲值在台灣的價格會相對較高？這主要有幾個原因：&lt;/p&gt;
+&lt;p&gt;匯率差異：由於台幣與人民幣的匯率差異，導致在台灣儲值抖音（ &lt;a href="https://www.ka-cheap.com/product/dou-yin-hai-wai-chong-zhi/" rel="nofollow"&gt;https://www.ka-cheap.com/product/dou-yin-hai-wai-chong-zhi/&lt;/a&gt; ）時需要支付相對較高的金額。
+中間環節成本：在跨境儲值過程中，可能存在中間環節成本，如手續費、匯兌費等，這些成本會進一步增加儲值的價格。
+市場競爭：台灣抖音儲值市場相對較小，且受限於地理和貨幣等因素，使得供應商的競爭程度較低，價格自然而然地會相對提高。
+因此，對於台灣用戶來說，選擇正確的儲值方式，保持警惕，並合理預算，是非常重要的。&lt;/p&gt;
+&lt;p&gt;如果您目前沒有一個長期儲值抖音幣的平台，可以選擇 &lt;a href="http://cvcka.tw" rel="nofollow"&gt;cvcka.tw&lt;/a&gt; 。這個平台經小編親身試驗，非常方便易用，而且也被推薦給身邊的海外朋友，他們的反饋都是會一直使用，可見抖音大陸代儲一個 &lt;a href="http://cvcka.tw" rel="nofollow"&gt;cvcka.tw&lt;/a&gt; 就可以了！&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:36:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022901#reply0</guid></item><item><title>[酷工作] [成都] [社招内推] 莉莉丝游戏 招测试开发工程师</title><link>https://www.v2ex.com/t/1022900#reply0</link><description>&lt;h3&gt;测试开发工程师 岗位 JD&lt;/h3&gt;
+&lt;h4&gt;职位描述&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;负责公司内多个项目的游戏服务端性能测试工作以及 golang 性能测试工具的开发维护工作。&lt;/li&gt;
+&lt;li&gt;能够结合项目需要，针对性地设计并落地游戏服务端性能测试方案，执行测试、性能问题监控/分析/瓶颈定位，提出相关优化建议。&lt;/li&gt;
+&lt;li&gt;负责研究新型测试技术，帮助项目提升整体效能质量。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;职位要求&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;本科以上学历，计算机相关专业优先，3 年以上工作经验，其中 1 年以上游戏测试开发经验。&lt;/li&gt;
+&lt;li&gt;熟练掌握 Go 语言，有压测工具开发经验优先。&lt;/li&gt;
+&lt;li&gt;有对 TCP/UDP/HTTP 等协议、数据格式 protobuf 的游戏项目压测经验。&lt;/li&gt;
+&lt;li&gt;熟悉 HTTP 、Socket 、RPC 、MQ 等跨端通讯应用及开发，能够实现游戏内网络层通讯开发工作。&lt;/li&gt;
+&lt;li&gt;熟悉 Git 使用，具备系统化开发能力，有良好的代码风格和编程习惯，乐于探索最新技术。&lt;/li&gt;
+&lt;li&gt;沟通协调能力出色，具备优秀的学习实践能力及工程思维，有测试开发团队管理经验者优先。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;请注意该岗位 BASE IN 成都！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;待遇：14 薪起，BASE 范围大概（ 15-30K ），主要是做服务端性能测试方向/工具开发  后续会带外包  管理 2-4 人左右，内部团队氛围好~ 公司福利待遇相当不错&lt;/p&gt;
+&lt;p&gt;欢迎投简历 或者加微信咨询， 微信 a2FnYW1pbW9l (BASE64) 注明 testerhome&lt;/p&gt;
+&lt;p&gt;简历邮箱 emh1cWlhbmdAbGlsaXRoLmNvbQ== (BASE64)&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:29:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022900#reply0</guid></item><item><title>[问与答] 苹果 ios 17 standby 功能中 万能小组件 丢失</title><link>https://www.v2ex.com/t/1022899#reply1</link><description>我在苹果 ios 17 standby 功能中设置了万能小组件，总是用一段时间后万能小组件的组件就丢失了。这是 ios 的 bug 吗？</description><pubDate>Tue, 12 Mar 2024 07:29:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022899#reply1</guid></item><item><title>[宽带症候群] FTTR-G 口光猫选哪家？</title><link>https://www.v2ex.com/t/1022898#reply7</link><description>&lt;p&gt;小弟咨询下万能的 V 友们，家中要安装 FTTR 光纤，移动反应有两款光猫可选（都是 G 口的本地不提供 2.5G 口 FTTR 光猫），第一款是华为的 V173 （华为星光 30 尊享版），第二款是中兴的 G7611 V2 ，万能的 V 友能否给出推荐？
+&lt;img alt="5e92cc6bc955973e25d1b0e8d4916c0e.png" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/03/12/5e92cc6bc955973e25d1b0e8d4916c0e.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:28:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022898#reply7</guid></item><item><title>[OpenAI] ChatGpt 一直登不进去</title><link>https://www.v2ex.com/t/1022897#reply1</link><description>&lt;p&gt;缓存和 cookie 清过，梯子也换过，无痕模式也试过，app 也试过
+本身还是 plus 用户
+无论怎么登录都是“Oops ，We ran into an issue while signing you in, please take a break and try again soon.”&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:27:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022897#reply1</guid></item><item><title>[分享发现] 掘金社区你在害怕什么？</title><link>https://www.v2ex.com/t/1022896#reply0</link><description>&lt;p&gt;&lt;a href="https://postimg.cc/nsq9PSc3" rel="nofollow"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/nsq9PSc3/20240312152416.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;就这样谁还玩，你们玩嘛&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:27:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022896#reply0</guid></item><item><title>[OpenAI] 一手源头寻求企业合作， Claude 中转 API 最低 0.5R/刀起(官方倍率)， 5 刀 API 账号批量低价出</title><link>https://www.v2ex.com/t/1022895#reply0</link><description>&lt;p&gt;一手货源寻求企业合作，Claude 中转 API 最低 0.5R/刀起(官方倍率)，5 刀 API 账号价格也超级低&lt;/p&gt;
+&lt;p&gt;联系方式：d3g6IGR1Y2tncHQwMDc=&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:26:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022895#reply0</guid></item><item><title>[问与答] 想做电商求大佬给点意见</title><link>https://www.v2ex.com/t/1022893#reply5</link><description>&lt;p&gt;最近看了太多大学生创业、14 岁卖小卡片创业的，本来就穷，已经非常生存焦虑了，
+本人人设没有特色所以自媒体没活整了，再试试电商吧&lt;/p&gt;
+&lt;p&gt;想做电商有 2 个唯 2 目标：做最小可迭代版本（在最小版本中，需要自然流按照比例验证，因此不考虑投流）、投入产出比最多-500&lt;/p&gt;
+&lt;p&gt;目标 1 分析 1：存在市场的任何商品，都有人在卖，而价格是卷不过的，因此不卖原产品，剩下的就是包装（也就是贴牌+组合）
+目标 1 分析 2：当代产品基础功能已经满足生活需求，人们再度消费，需要产品提供额外价值（比如情绪（颜值）、附加属性（养生）、..）也可以靠吹牛吹出产品特效。&lt;/p&gt;
+&lt;p&gt;目标 2 分析 1：考虑到只能亏 500 ，所以不贴牌，不去注册一个商品，虽然设计可以让 ai 来，但是少量的样品应该挺贵，但是包装应该没那么贵，所以只卷包装。以及当然不够自己生产商品本身。（虽然有很多来图定制，但是展示没有审美实力）
+目标 2 分析 2：500 ，单价 100 只能尝试 5 件，单价 30 拥有更多试错机会。为了考虑退货率，不卖女装、鞋。&lt;/p&gt;
+&lt;p&gt;市场分析 3 （行业报告）：关键词 国风、颜值、年轻人养生（户外），当然还有其他的，在知识盲区外。选择性无视
+&lt;a href="https://www.xiaohongshu.com/explore/65e95dfe000000000b021ea8?wechatWid=32c0e90140ba1ac5015d0cc030e16633&amp;amp;wechatOrigin=noteImg" rel="nofollow"&gt;https://www.xiaohongshu.com/explore/65e95dfe000000000b021ea8?wechatWid=32c0e90140ba1ac5015d0cc030e16633&amp;amp;wechatOrigin=noteImg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;市场分析 4 （线下走访）：上周末考察了一下上海中心和周边集市区的商品
+泡脚 中草药
+失眠 香囊
+朱砂手串 辟邪 开运
+花茶 养生
+手串 自己名字
+护手 足裂膏
+有香味的梳子
+古风发簪
+书法摆件台
+棉花娃娃 小猫小狗捏捏乐
+情侣软陶摆件
+车饰 八卦镜
+吸引小朋友注意的叫声小狗&lt;/p&gt;
+&lt;p&gt;得出结论，我准备卖养生组合套装，花茶+香薰+手串，放到一个盒子里面，盒子当然只能我自己订&lt;/p&gt;
+&lt;p&gt;大伙有什么意见可以说说吗，求评&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 07:20:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1022893#reply5</guid></item></channel></rss>
