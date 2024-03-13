@@ -1,102 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 12 Mar 2024 22:02:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Surge] 找拼车， surge for</title><link>https://www.v2ex.com/t/1023064#reply0</link><description>&lt;p&gt;有谁开车的，招呼一声~~&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 21:14:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023064#reply0</guid></item><item><title>[问与答] 有没有用过转运中国的大佬</title><link>https://www.v2ex.com/t/1023063#reply2</link><description>想在 amazon 买点电子产品.我看转运中国禁运手机,笔记本这些东西啊.&lt;br /&gt;怎么搞.有什么别的靠谱转运吗.</description><pubDate>Tue, 12 Mar 2024 21:06:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023063#reply2</guid></item><item><title>[问与答] 人在美国 eBay 买个二手笔记本求推荐 2024</title><link>https://www.v2ex.com/t/1023062#reply2</link><description>在美国高校打工，实验室没有配电脑，每天自己上下班步行背着 15.6 寸的笔记本和一个饭盒还挺重的，想着买个轻薄点的二手笔记本看行不行，尺寸 13 14 15.6 都行，屏幕有 1080P 就够用。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;日常工作主要是 Office 套件和写点代码，会议软件用得也比较多。工作内容主要是数据分析，所以希望内存至少 16G + 硬盘 512/1024G ，CPU 好点当然更好，个人喜欢用 Linux 所以 Linux 兼容性也在考虑中，不玩游戏所以 NVIDIA 独显可以不要。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;目前看了 Thinkpad Thinkbook 以及 XPS 13 14 ，在 eBay 上感觉价格都还行但是刚来美国没多久不太知道行情，也不知道质量保证怎么样。Mac 当然也行但是太贵…&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;不知道坛友有没有懂行的或者推荐的笔记本型号/购买渠道都行，谢谢大家！</description><pubDate>Tue, 12 Mar 2024 20:34:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023062#reply2</guid></item><item><title>[宽带症候群] 关于猫棒是否可以再拆分成单独系统+xpon 光电棒子</title><link>https://www.v2ex.com/t/1023061#reply2</link><description>&lt;p&gt;看到有人提猫棒兼容性，想到华为万兆猫用的那个 xpon 模块是单独有卖的，外加猫的系统好像都是那个 C 什么系统来着。所以理论上剥离会便宜得多，但是为什么一直没出现过？是单独这么搞了会把饭碗砸了，还是法律问题（猫系统的使用授权），亦或是其他原因？&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 18:56:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023061#reply2</guid></item><item><title>[宽带症候群] 除了爱快，还有其他可选吗？</title><link>https://www.v2ex.com/t/1023059#reply3</link><description>&lt;p&gt;软路由。主要是因为 WiFi 设备多，加上监控。
-肉身大多数在港，所以也不需要梯子。
-就是要支持设备联机。没太多要求。
-1000M 上下对等 HKBN 线路。
-除了爱快还有其他系统可以推荐吗？
-之前用过 mikrotikRB960 （应该是这样拼写）然后 orbi RBK853 做 ap
-软路由是 J4125 。很多年前众筹买的。&lt;/p&gt;
-&lt;p&gt;爱快也没什么不妥，就是感觉不太适合香港用。&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 18:04:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023059#reply3</guid></item><item><title>[前端开发] 吐槽 tsc 的几大罪状</title><link>https://www.v2ex.com/t/1023058#reply1</link><description>&lt;p&gt;&lt;strong&gt;1. 2024 年了，tsc 编译出的 js 代码还不能直接在任何 js runtime 中运行&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;输入文件 index.ts&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import foobar from 'foobar'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;你以为的输出 index.js&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;import foobar from 'foobar.js'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;实际输出 index.js&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;import foobar from 'foobar'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;？？？ tsc 编译出的 js 代码居然是坏的，没有 .js 扩展名，根本不能运行&lt;/p&gt;
-&lt;p&gt;如果你觉的上面的结果是 tsc 为了不破坏用户代码的语义，那么此时你肯定想我加上 .ts 就好了。&lt;/p&gt;
-&lt;p&gt;修改 index.ts&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;import foobar from 'foobar.ts'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;就...好了？？？&lt;/p&gt;
-&lt;p&gt;不好意思，tsc 版本低于 5.0 根本不支持导入 .ts 后缀的文件，ts 编译器居然不支持导入 ts 文件？？？&lt;/p&gt;
-&lt;p&gt;好了，你说我大不了升级版本到 5.x 吧&lt;/p&gt;
-&lt;p&gt;完事之后你就会遇到一个错误，让你在 tsconfig 中配置 &lt;code&gt;allowImportingTsExtensions: true&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;等你刚配置完又报错了，提示你必须配置 noEmit 或 emitDeclarationOnly&lt;/p&gt;
-&lt;p&gt;啥？？？，我这一通折腾不就是为了输出正确的 js 代码？&lt;/p&gt;
-&lt;p&gt;让我配置 noEmit 不输出 js 代码只输出类型文件，我还编译个啥？&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. tsc 配置项超多，此处 webpack 笑而不语&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. tsc 是目前前端工具链中最慢的一环了吧....&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;使用 esbuild 编译，tsc 检查类型&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;npm run build
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 13 Mar 2024 18:17:29 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[职场话题] 有时候很讨厌喋喋不休的自己但不得不讲</title><link>https://www.v2ex.com/t/1023444#reply0</link><description>R 总觉得我身边有人&lt;br /&gt;莫名推测我的感情区间&lt;br /&gt;编故事一样&lt;br /&gt;逻辑乱跳安排情节&lt;br /&gt;过渡解读本人与异性之间关系&lt;br /&gt;&lt;br /&gt;一旦反驳就开始询问为什么排斥&lt;br /&gt;列举男男女女之间有多好多好&lt;br /&gt;沉默是金&lt;br /&gt;&lt;br /&gt;渐渐的变本加厉&lt;br /&gt;肆无忌惮（倒没有多 H ）但很反感&lt;br /&gt;在周围人里传出它嘴里的版本故事&lt;br /&gt;&lt;br /&gt;终于深夜 emo 火山爆发脾气一通乱发&lt;br /&gt;都别活吧&lt;br /&gt;望着长篇大论的炮轰指责&lt;br /&gt;瞬间觉得自己像个泼妇&lt;br /&gt;但忍无可忍</description><pubDate>Wed, 13 Mar 2024 17:53:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023444#reply0</guid></item><item><title>[VPS] 如何在小容量的 VPS 中下载大文件</title><link>https://www.v2ex.com/t/1023442#reply0</link><description>&lt;p&gt;类似 &lt;a href="https://hostloc.wiki/thread-672304-1-1.html" rel="nofollow"&gt;https://hostloc.wiki/thread-672304-1-1.html&lt;/a&gt;
+看到的基本都是需要本地容量够。到如今也没有什么可靠的技术吗？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 17:20:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023442#reply0</guid></item><item><title>[问与答] 大家怎么看待 TikTok 很可能将会被美国封禁？</title><link>https://www.v2ex.com/t/1023441#reply4</link><description>美国众议院已高票通过 TikTok 相关法案，参议院也大概率会通过。假如最终退出美国市场，对字节跳动会有多大影响？还不知道会不会有其他国家跟进。</description><pubDate>Wed, 13 Mar 2024 17:20:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023441#reply4</guid></item><item><title>[路由器] 闲鱼卖软路由，这算是被到手刀了吗？还是硬件真的坏了？</title><link>https://www.v2ex.com/t/1023439#reply3</link><description>&lt;p&gt;卖 290 RMB 。是 4 口千兆的。&lt;/p&gt;
+&lt;p&gt;到货后那人说其中一个口只有百兆，还拍视频（把网线插入到 LAN1 ，看速率是千兆。然后换了一个口显示为百兆）&lt;/p&gt;
+&lt;p&gt;我估计他在后台限制了那个口为 100M 。我让他申请退货，他说不如 200 RMB ，当 3 口的卖他。我也懒得折腾就成交了&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:55:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023439#reply3</guid></item><item><title>[Node.js] 不太懂 pnpm 的用法 ...</title><link>https://www.v2ex.com/t/1023437#reply3</link><description>&lt;pre&gt;&lt;code class="language-text"&gt;Python
 
-✔ build success 784ms
+1. 安装 python 和 pip
 
-✔ check success 17s
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 12 Mar 2024 17:33:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023058#reply1</guid></item><item><title>[NAS] PVE 跟 PBS 在同一台机器上运行，但是 PBS 的备份数据放单独的备份盘，两块硬盘一起坏的概率高么？有什么推荐的异地备份方案？</title><link>https://www.v2ex.com/t/1023057#reply0</link><description>&lt;p&gt;之前是两个地方分别跑 PBS ，互相同步，互相备份。&lt;/p&gt;
-&lt;p&gt;现在有一个地方的 PBS 没了，有点害怕数据盘跟备份盘一起炸...不知道这个概率高不高？&lt;/p&gt;
-&lt;p&gt;PBS 有什么比较好的异地备份方案么？备份数据去重后大概 600G 左右。&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 16:44:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023057#reply0</guid></item><item><title>[程序员] 应届生的求职迷茫&amp;Offer 选择，渴望得到前辈们的一些指点</title><link>https://www.v2ex.com/t/1023056#reply23</link><description>&lt;p&gt;各位前辈大家好，在自己求职过程中遇到了一些问题，现在对于自己的未来道路十分迷茫，希望能得到一些指点。今天一点 Emo 所以文章也一点点长，还请见谅。&lt;/p&gt;
-&lt;h2&gt;个人 bg&lt;/h2&gt;
-&lt;p&gt;个人 bg 是双非一本（非杭电这种顶级双非），有计设竞赛的国一，以及一个水竞赛的国奖，两个其他省奖。3 个月的腾讯云实习（其实是云智，但是就写的腾讯云），6 个月的小公司实习。在校经历方面主要是班长、社团负责人之类，很有的说。家在山西。求职意向是 Golang 开发。期望薪资希望能在 15-20k 以上。&lt;/p&gt;
-&lt;p&gt;从 12 月下旬开始面试的的，因为那时发现现在这家公司的转正薪资很不理想，所以决定跳槽。年后是面试高峰期，过去两周，平均一天 1-2 个面试（工作日）。也算小有收获，这两周收获了好几个 offer ，但是反而我更加迷茫了。&lt;/p&gt;
-&lt;h2&gt;遇到的问题&lt;/h2&gt;
-&lt;p&gt;我的迷茫在于，或许我过去是菜，我一面就挂，哪怕是一些常见的八股文，那我还觉得自己努力，就会有收获。现在阶段，我技术有所提升，但是小厂的 offer 给不到我期望薪资，大厂面试机会都难以获得。&lt;/p&gt;
-&lt;p&gt;常规的八股、项目、简单算法，我也都可以说清楚，所以面的一些小厂，基本也都能够顺利斩获。但是大厂有的会深挖项目，比如上周被 IEG 的面试官拷打“你这个服务部署时候是怎么部的，怎么分配的内存、核心等。”这种层次，我现在的确有所欠缺，毕竟当时没有做到这么多，但是也无法准备，不知道该怎么去提升。&lt;/p&gt;
-&lt;p&gt;同时我也迷茫在城市选择，离家的远近重要吗？一年就回一趟家。又或是什么城市重要吗？
-我去大城市注定无法安家，去二线城市也是异乡，那安家意义何在？
-女朋友也不敢找，不知道以后会如何。感觉程序员，仿佛是一条看得见悲剧终点的路。&lt;/p&gt;
-&lt;h2&gt;现阶段 Offer 情况&lt;/h2&gt;
-&lt;p&gt;现在手头有 4 个 Offer 可选：&lt;/p&gt;
-&lt;p&gt;1 、杭州滨江，实习的转正。预计薪资能开到 8-9k *13 （还没 A ），五险实发缴纳，公积金按实发一半的 12+12%缴纳。
-产品是手机社交语音 app 。
-公司规模大概 100 人左右，tl 很 nice ，团队氛围轻松。
-标准的 965 卡点走。&lt;/p&gt;
-&lt;p&gt;2 、北京中关村，校招 Offer 需提前实习。薪资开到了 11k*14 ，五险一金全部按最低标准缴纳。
-产品是某游戏开黑软件，国内版 discord 。
-技术团队大概 20 人左右，撑起了 150w 的日活（ hr 这样说的）。二面时候和 CTO 聊的比较投机，hr 称是 10k 薪资 CTO 给提了 1k...（不确定是否 pua ）。
-工作时间大概是 10-8-5 。&lt;/p&gt;
-&lt;p&gt;3 、深圳前海，某港企子公司，薪资预计 12k*15 ，五险一金全部实发的最高比例缴纳。需要实习转正，hr 说名额预计是 6 转 4 。
-产品是一个港/美股软件，可能涉及到相关 k 线的开发吧。
-作息是 9-5.5-5 ，实际可能 7 点左右走完吧。节假日按 hk 的来，没有调休，所以相当于一年多休几天，年假是 9 天。&lt;/p&gt;
-&lt;p&gt;4 、武汉光谷，某游戏公司。薪资开到 10*14-16 ，五险是按照实际工资缴纳，公积金按照实际工资的 8+8&amp;amp;缴纳。
-公司方向是出海游戏，模拟经营类。
-去的组是一个新的组，也就是说这个项目相当于刚开始，只有一个前辈带我，服务器开发一共两个人...
-（ hr 说是已经验证分析过的，所以应该是会开发完，不会半路砍了）。
-工作时间应该是需要 985 。&lt;/p&gt;
-&lt;h2&gt;Offer 比较&lt;/h2&gt;
-&lt;p&gt;我现在纠结在于四个 offer 的选择，以及 我是否继续面下去？
-首先是继续面下去，如果有大厂我肯定面，但小厂呢？我是否还需要通过海投去获取面试机会，积累面试经验。我不确定能否给我带来什么提升，而且或许大多数小厂，在这个行情下也就是这样的薪资，不会比上面几个有多大的提升。但大厂面试太难得了，很那遇到。学历硬伤，很多地方会直接挂简历。&lt;/p&gt;
-&lt;h5&gt;其次是 Offer 的选择。&lt;/h5&gt;
-&lt;p&gt;杭州这家是轻松，而且组长也不是压榨如何，对我也挺好。但硬伤很显而易见：工资太低了。
-深圳待遇是好，但一来需要实习转正，二来是离家太远了。
-北京这家的方向我比较感兴趣，而且听起来 CTO 是个实在人，感觉技术团队很厉害的话那应该也能学到不少东西。提升肯定会有，但他这个薪资应该是我这四个中最不合算的了....
-武汉的性价比是最高的，而且新的组，那应该是也能学到东西，但担心于，不稳定+二线城市的就业环境不好，上限较低。&lt;/p&gt;
-&lt;h2&gt;我发帖所期望得到的指点&lt;/h2&gt;
-&lt;p&gt;1 、首先自荐一下，我还是希望能去到大厂打工，如果有前辈组里有 Golang 校招 hc ，我渴望得到一个面试的机会。（抱歉这句话可能语言组织的不太好，总之就是希望被捞一下吧呜呜呜）&lt;/p&gt;
-&lt;p&gt;2 、其次是关于我现在的 Offer 选择，我该如何取舍？
-是 995 还是 965 ？——我个人，对于加班是不介意的，甚至于说我愿意去通过 995 来换取比 965 高的薪酬以及更多的成长（起码在职业生涯前几年）。但是大家都说加班会很毁人，我也的确担心，995 的公司会实际工作量很大，占用其他时间？
-是一线还是二线城市？离家近一点需要优先考虑吗？——我都有纠结的地方，上述四个城市倾向度排序应该是北京&amp;gt;杭州&amp;gt;武汉&amp;gt;深圳，但不是卡的很死。
-技术成长，到底是画饼还是真会有提升？——我不知道自己是该“眼光长远”，放弃这 1-2k 的差距去博得所谓技术成长，还是当一个“雇佣兵”，只考虑拿钱干活。因为我觉得上述几份工作，或许都能带来不错的成长。
-第一份工作的薪资——都说社招跳槽，即使很优秀也会卡你的 30%，那所以说第一份的薪资，关注的优先度应该放到什么地位。&lt;/p&gt;
-&lt;p&gt;3 、“应届生”身份剩余两个月，该怎么走？——我是该在上述做出抉择，之后便安心呆在这里（起码减少上班跑路面试），还是说继续海投积累一些经验，期望 4-5 月能有奇迹。我接下来的面试频率应该保持何种频率？&lt;/p&gt;
-&lt;p&gt;4 、关于程序员的职业规划——我该怎么去走？或许之前规划的很简单，我就是要去赚钱，35 岁退休回老家开个小便利店，开始养老。但是现在发现自己可能既赚不到什么钱，也依旧要面临 35 的失业危机。感觉这是一条看不见光明的路。&lt;/p&gt;
-&lt;p&gt;5 、关于自己的定位，如何摆清？——其实我很清楚，自己的 offer 情况，放在同学历中，是还算不错的了（自己学校就业情况见下段）但我也渴望大厂，渴望高薪，我希望往上爬而不局限于自己身边的圈子去比较。但我不知道自己该爬到哪一步，去学会满足。或许我 10k 的薪资对于专业同学来说，是很不错，但我也渴望 16k 。或许如果我拿到 16k ，那我又会去希望拿到 22k 。我不知道该如何去平衡自己的薪资定位。&lt;/p&gt;
-&lt;p&gt;关于我们学校的就业情况，给大家参考：我们专业 65 人，目前签三方的 13 人左右，其中可能只有 60%左右是计算机相关岗位，其中只有一位同学是开发岗位。学校总体就业率可能比我们专业好一些，但是最终一个年级能走到计算机相关岗位的，预计也就 20%左右啦，其中开发更少。&lt;/p&gt;
-&lt;h2&gt;结语&lt;/h2&gt;
-&lt;p&gt;第一次在 V2EX 发帖，也算是今晚收到北京那家 Offer 后的 emo 与迷茫吧...不太懂 V 站规矩习惯，发的有点长，语言组织也有些许混乱，还请见谅。希望能得到前辈们的一些指点，感激不尽！&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 16:41:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023056#reply23</guid></item><item><title>[OpenAI] 有什么做大型代码仓分析的 gpt 开源项目么</title><link>https://www.v2ex.com/t/1023055#reply0</link><description>好像没有看到比较好的大型代码仓分析的 gpt 项目，比如架构分析，代码优化之类的。文件级别分析再做分级摘要总是感觉会丢很多信息。l</description><pubDate>Tue, 12 Mar 2024 16:37:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023055#reply0</guid></item><item><title>[程序员] 我看谁还在说 PHP 开发没有前途，我就给他一个大闭斗</title><link>https://www.v2ex.com/t/1023053#reply3</link><description>总能听到很多人一谈到 PHP 就是各种被人吐槽,工资低，工作少.现在看来那个小丑真的自己呀，就恨自己不会 PHP ，&lt;br /&gt;&lt;br /&gt;看到这些莫名的让我有种也想转 PHP 的冲动了！&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[img]&lt;a href="https://i.imgur.com/mGG2GAI.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/mGG2GAI.png" /&gt;&lt;/a&gt;[/img]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[img]&lt;a href="https://i.imgur.com/J49dIbL.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/J49dIbL.png" /&gt;&lt;/a&gt;[/img]</description><pubDate>Tue, 12 Mar 2024 16:25:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023053#reply3</guid></item><item><title>[程序员] 打算配一台主机用于跑大模型玩，大佬们有推荐的配置吗</title><link>https://www.v2ex.com/t/1023052#reply7</link><description>虽然是搞互联网的，但是对硬件这块确实没啥研究，所以想请大佬们帮忙推荐下配置，目前在京东上看了朴赛装的机器，券后 27849 ，不知道是否有坑，求指教</description><pubDate>Tue, 12 Mar 2024 16:13:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023052#reply7</guid></item><item><title>[问与答] 这个诈骗网站如何取得 windows 点 net 的子域名的?</title><link>https://www.v2ex.com/t/1023051#reply5</link><description>&lt;p&gt;在一篇 blog 的留言区无意点开一个网址, 经很多次跳转后来到了下面的网站:&lt;/p&gt;
-&lt;p&gt;https 冒号//tron2qolg.z13.web.core.windows 点 net/Apple0s01Ersys44/index 点 html&lt;/p&gt;
-&lt;p&gt;胆小的请用虚拟机打开. 其实就是一个诈骗网站, 任意点击都会让网页全屏, 合成语音一直说你中毒了, 打电话联系之类的. ⌘ + w, 右键, 全屏 ⌘ + Ctrl + f 也会失效, 都是些 js 的把戏.&lt;/p&gt;
-&lt;p&gt;现在问题来了, 这个 windows 点 net 的子域名是怎么申请到的?&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:58:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023051#reply5</guid></item><item><title>[问与答] iPhone 如何像安卓那样管理、整理相册</title><link>https://www.v2ex.com/t/1023050#reply4</link><description>我想在 iphone 上区分截图、拍照的图、网络上保存收集的沙雕图。&lt;br /&gt;以前用安卓的时候，能有不同的文件夹来放，每次找聊天表情包图或者其他的图，都比较容易。现在在 iphone 里都挤在一块了，好难管理好难找，浪费我 iphone 这么大的存储了。逛煎蛋都不能随意保存图了，以前存的沙雕图都不能派上用场了，聊天少了一大杀器，唉。&lt;br /&gt;所以，求问如何在 iphone 上实现像安卓那样管理相册？我不关心哪种模式先进哪种理念先进，我就是单纯想知道解决方案，感谢～</description><pubDate>Tue, 12 Mar 2024 15:42:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023050#reply4</guid></item><item><title>[分享发现] 不知道怎么开发网页？先把这套工具熟悉下。</title><link>https://www.v2ex.com/t/1023048#reply0</link><description>&lt;p&gt;推荐一个完全无广告，界面干净的网页工具导航：websitetools ，域名也很好记，网页制作工具的意思。&lt;/p&gt;
-&lt;p&gt;期待后续不断更新，把好工具都放出来，提升大家的工作效率。&lt;/p&gt;
-&lt;p&gt;地址：&lt;a href="https://www.websitetools.wiki/" rel="nofollow"&gt;websitetools.wiki&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/65f075079f345e8d03fcf96e.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:35:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023048#reply0</guid></item><item><title>[汽车] 新 Taycan 发布了，来看看 18 年老 Taycan 发布时大家是怎么看待 800V 充电的</title><link>https://www.v2ex.com/t/1023047#reply1</link><description>&lt;p&gt;看到新 Taycan 发布了，WLTP 续航有 693km ，但这不是重点，重点是 120 km/h 速度下续航有 587km ，可以说是非常恐怖了。&lt;/p&gt;
-&lt;p&gt;于是我想看看 v 友们怎么看待新款 Taycan 的，搜出来的第一个帖子是 &lt;a href="https://www.v2ex.com/t/472119" rel="nofollow"&gt;18 年老 Taycan 发布时的帖子&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;帖子里面基本上把 800V 充电当黑科技看，甚至觉得不可能存在这种技术。站在现在这个时间点看，还是挺有意思的。不知道再过个五年，三电技术会发展到什么程度？固态电池充电 10 分钟，续航 1000KM 的时代什么时候能到来？&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:32:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023047#reply1</guid></item><item><title>[问与答] AlDente 为啥会自动把充电限制提高到 100%？</title><link>https://www.v2ex.com/t/1023046#reply2</link><description>&lt;p&gt;&lt;img alt="https://i.imgur.com/5zC6vrL.png" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/5zC6vrL.png" /&gt;&lt;/p&gt;
-&lt;p&gt;我没有主动去修改&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:29:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023046#reply2</guid></item><item><title>[OpenAI] 建了一个直接用的 ChatGPT，速度快还不限次数，找合作</title><link>https://www.v2ex.com/t/1023045#reply0</link><description>网址： &lt;a href="https://chatm.mornlong.com/" rel="nofollow noopener" target="_blank"&gt;https://chatm.mornlong.com/&lt;/a&gt;&lt;br /&gt;支持：✅GPT4-Turbo✅GPT3.5-Turbo✅Gemini-Pro&lt;br /&gt;主要目的就是为了让大家在国内使用的时候无需注册账号。收费部分是为了租用服务器来创建更多的节点，免费的试用账号会一直开放使用。&lt;br /&gt;返现比例很高，感兴趣的可以拿去换点酒钱。有流量的朋友可以一起来推。</description><pubDate>Tue, 12 Mar 2024 15:22:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023045#reply0</guid></item><item><title>[问与答] 和朋友会因为小事闹翻吗？</title><link>https://www.v2ex.com/t/1023044#reply5</link><description>最近折腾一个东西 D 看到了要帮忙&lt;br /&gt;一顿操作猛如虎&lt;br /&gt;拆分合并又拆分&lt;br /&gt;结果比解放前还垃圾&lt;br /&gt;劝告别忙活了十一点了回家吧&lt;br /&gt;上去夺电脑都没夺到&lt;br /&gt;&lt;br /&gt;半小时后关机送回来&lt;br /&gt;说自己愧疚抱歉&lt;br /&gt;希望原谅她&lt;br /&gt;让她好受一点&lt;br /&gt;&lt;br /&gt;哎，一瞬间觉得对方有点自私&lt;br /&gt;想让她哪凉快哪待着去&lt;br /&gt;坏的真彻底</description><pubDate>Tue, 12 Mar 2024 15:18:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023044#reply5</guid></item><item><title>[宽带症候群] 非广州、深圳、东莞、佛山四城的朋友，是否能够正常使用电信的 VoWiFi 业务？</title><link>https://www.v2ex.com/t/1023043#reply2</link><description>&lt;p&gt;如果可用，是否能够正常 ping 通 &lt;code&gt;&lt;a href="http://epdg.epc.mnc011.mcc460.pub.3gppnetwork.org" rel="nofollow"&gt;epdg.epc.mnc011.mcc460.pub.3gppnetwork.org&lt;/a&gt;&lt;/code&gt; （&lt;code&gt;14.25.255.118&lt;/code&gt;、&lt;code&gt;14.25.255.123&lt;/code&gt;）？&lt;/p&gt;
-&lt;p&gt;目前已知小米设备在拨号界面输入 &lt;code&gt;*#*#869434#*#*&lt;/code&gt; 能够开启 VoWiFi 功能，&lt;/p&gt;
-&lt;p&gt;似乎无论光猫是路由模式还是桥接模式都不影响使用。&lt;/p&gt;
-&lt;p&gt;其他内置了相关配置文件的设备，可以通过 &lt;a href="https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api" rel="nofollow" title="Shizuku - Google Play 上的应用"&gt;Shizuku&lt;/a&gt; 和 &lt;a href="https://play.google.com/store/apps/details?id=dev.bluehouse.enablevolte" rel="nofollow" title="Pixel IMS - Google Play 上的应用"&gt;Pixel IMS&lt;/a&gt; 开启 VoWiFi 功能，但是&lt;strong&gt;不建议这么做&lt;/strong&gt;，有可能会出现无法注册语音服务，导致无法通话的情况。&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:09:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023043#reply2</guid></item><item><title>[Apple] Mac 上如何索引网络硬盘</title><link>https://www.v2ex.com/t/1023042#reply1</link><description>&lt;p&gt;因为本人有一台群晖，大部分数据都放在群晖上，以网络硬盘的方式挂载在 Mac 上使用。问题是 Mac 无法索引网络硬盘的数据，导致搜索时很慢。例如 Alfred 就无法直接搜索网络硬盘，做不到输入的同时即时显示文件，就像本地文件那样，即使把硬盘加入 Search Scope 也不行，请问大家有好的办法解决这一问题吗？
-使用 Clouddrive2 将网络硬盘挂载成本地硬盘能否解决？&lt;/p&gt;</description><pubDate>Tue, 12 Mar 2024 15:08:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023042#reply1</guid></item></channel></rss>
+2. python --version
+
+3. pip install module-a
+
+4. python -m module-a --help
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="language-text"&gt;Node.js
+
+1. 下载 pnpm.exe
+&amp;gt; ./pnpm.exe --help
+Version 8.1.0 (compiled to binary; bundled Node.js v18.1.0)
+
+2. 这个 bundled Node.js 是没法调用的是吧?? (要自行安装? 那 bundled 干嘛?)
+
+3. 怎么安装模块??
+
+4. 怎么执行模块??
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href="https://pnpm.io/" rel="nofollow"&gt;https://pnpm.io/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:44:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023437#reply3</guid></item><item><title>[程序员] 币圈的朋友看过来, 有个品相不错的 io 域名想出售, 欢迎联系留下联系方式</title><link>https://www.v2ex.com/t/1023436#reply0</link><description>coin mask io 对标 &lt;a href="http://metamask.io" rel="nofollow noopener" target="_blank"&gt;metamask.io&lt;/a&gt;</description><pubDate>Wed, 13 Mar 2024 16:41:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023436#reply0</guid></item><item><title>[macOS] word 替代软件</title><link>https://www.v2ex.com/t/1023435#reply0</link><description>请问有没有较好的 Word 替代软件&lt;br /&gt;&lt;br /&gt;使用场景是相对短篇幅、短周期的学术写作，尽量原生，以配合 Bookends/Devonthink&lt;br /&gt;&lt;br /&gt;已试过以下软件，但效果不佳&lt;br /&gt;WPS - 每次启动一堆广告，文献管理插件不足（?）&lt;br /&gt;Mellel - 界面和文献管理工具不错，但不支持 doc 文件批注&lt;br /&gt;Nisus Writer Pro - 专注模式不错，界面有点丑，支持 doc 文件批注，但是显示方式较凌乱&lt;br /&gt;&lt;br /&gt;正在考虑由 mbp 2019 intel 换代到 m3 pro/max 系列，请问大家 Word/Excel/PowerPoint 卡顿感是否有改善？&lt;br /&gt;&lt;br /&gt;感谢！</description><pubDate>Wed, 13 Mar 2024 16:38:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023435#reply0</guid></item><item><title>[程序员] 第一次上榜 GitHub Trending 好激动 纪念一下</title><link>https://www.v2ex.com/t/1023434#reply6</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/6034d1de-fda1-47e4-bd36-45bb26979812.png" /&gt;&lt;/p&gt;
+&lt;p&gt;在发布这些了
+&lt;a href="https://www.v2ex.com/t/1020690" rel="nofollow"&gt;https://www.v2ex.com/t/1020690&lt;/a&gt;、
+&lt;a href="https://www.v2ex.com/t/1022595" rel="nofollow"&gt;https://www.v2ex.com/t/1022595&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;演示功能之后&lt;/p&gt;
+&lt;p&gt;得到了各位老师的支持与帮助&lt;/p&gt;
+&lt;p&gt;终于第一次获得了 GitHub Trending ，好激动，感谢大家🙏&lt;/p&gt;
+&lt;p&gt;全栈开源地址： &lt;a href="https://github.com/huanghanzhilian/c-shopping" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;APP 开源地址： &lt;a href="https://github.com/huanghanzhilian/c-shopping-rn" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping-rn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;项目在线演示地址：&lt;/p&gt;
+&lt;p&gt;docker 部署地址： &lt;a href="http://shop.huanghanlian.com/" rel="nofollow"&gt;http://shop.huanghanlian.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;vercel 部署地址： &lt;a href="https://c-shopping-three.vercel.app/" rel="nofollow"&gt;https://c-shopping-three.vercel.app/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:31:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023434#reply6</guid></item><item><title>[分享发现] 武汉极客交流群，技术交流，生活互助，有缘来相见</title><link>https://www.v2ex.com/t/1023433#reply0</link><description>&lt;p&gt;二维码： &lt;a href="https://imgur.com/a/vDXANLz" rel="nofollow"&gt;https://imgur.com/a/vDXANLz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;二维码过期请加 v：Z2Vla2Vyb25l&lt;/p&gt;
+&lt;p&gt;现在氛围挺好的，湖北相关，武汉相关的老表们一起来聊天啊&lt;/p&gt;
+&lt;p&gt;禁止广告，和谐讨论&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:18:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023433#reply0</guid></item><item><title>[问与答] qq 新版吃 cpu 的问题大家有遇到吗</title><link>https://www.v2ex.com/t/1023432#reply1</link><description>&lt;p&gt;这几天总觉得风扇很吵。而且是频繁的启停。。而且我正常不玩游戏的。。。然后刚刚更新系统重启完了。还是这样。我就看了一下性能。我 i9 14900kf 。 能被他吃 10%。。。而且我给风扇设定的是。。60°以上启动。不然就静音。。。但是 qq 开着就能飞奔到 68°。。。一关。立刻 40°。。我真的无语。。&lt;/p&gt;
+&lt;p&gt;这破玩意还能不能用了。&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:17:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023432#reply1</guid></item><item><title>[Apple] 为了 邮件 catch-all 转移到美区了</title><link>https://www.v2ex.com/t/1023431#reply3</link><description>&lt;p&gt;不得不说用起来是真滴舒服啊！！&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:06:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023431#reply3</guid></item><item><title>[问与答] 弄了一个论坛，图片存储方式该怎么选</title><link>https://www.v2ex.com/t/1023430#reply4</link><description>&lt;p&gt;是自己的中小项目，目前接入的是 imgur ，
+但考虑到不易管理以及小流量的图片会被删除，想改成自有图床&lt;/p&gt;
+&lt;p&gt;目前有搜索看到了 backblaze 、R2 、自建 mini-io ，似乎各有优缺，
+加上我也不熟，都是找人开发搭建的，因此寻求各位建议&lt;/p&gt;
+&lt;p&gt;如果是以下条件的站点有啥推荐的服务或方式么？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;海外站，访客因此都是海外用户&lt;/li&gt;
+&lt;li&gt;可接受付费服务&lt;/li&gt;
+&lt;li&gt;防滥用&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 13 Mar 2024 15:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023430#reply4</guid></item><item><title>[问与答] 咸鱼的 AirPods 二代 全新未拆封，写着官网可查，价格 150-200， 正常吗？能买不？</title><link>https://www.v2ex.com/t/1023429#reply4</link><description>&lt;p&gt;耳机丢了，还是想买 AirPods 二代，喜欢这款。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;咸鱼看到这个价，大家帮忙判断能买不？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 15:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023429#reply4</guid></item><item><title>[问与答] 陪伴了 4 年的甲骨文云账号今天终于被官方收回了</title><link>https://www.v2ex.com/t/1023428#reply1</link><description>一直很小心翼翼的使用，没想到还是逃不过，两台服务器被停，登录账号提示权限不足，需要管理员权限，什么都没有了，所有的资源都被清空了</description><pubDate>Wed, 13 Mar 2024 15:52:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023428#reply1</guid></item><item><title>[问与答] [提问] 淘宝上这几家卖港版 iPhone 的哪家更靠谱</title><link>https://www.v2ex.com/t/1023427#reply0</link><description>前段时间手机坏了，准备换个港版 iphone ，因去香港交通成本较高，而且近期比较忙，不便直接前往，遂决定在淘宝上买个港版，搜索一通后目前在以下店铺抉择：&lt;br /&gt;&lt;br /&gt;四季数码&lt;br /&gt;&lt;br /&gt;独贩数码&lt;br /&gt;&lt;br /&gt;利基通讯&lt;br /&gt;&lt;br /&gt;恒实数码&lt;br /&gt;&lt;br /&gt;这 4 家做的时间都比较久，价钱相差也都在 200-300 以内，但不知道这 4 家哪家信誉高一点，有什么推荐吗&lt;br /&gt;&lt;br /&gt;而且这 4 家都标的是原封未拆，真的能做到吗&lt;br /&gt;&lt;br /&gt;或者有什么方式能在不去香港的前提下搞到靠谱的港版（ NO 转运）</description><pubDate>Wed, 13 Mar 2024 15:49:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023427#reply0</guid></item><item><title>[Linux] i3 操作鼠标滑轮滚动</title><link>https://www.v2ex.com/t/1023425#reply0</link><description>解决 vimium 不能操作某些网页含有多个列表滑动问题. 比如 outlook, matrix element app.&lt;br /&gt;&lt;br /&gt;附加到 ~/.config/i3/config&lt;br /&gt;#mouse movement, depends on xtools. 左下上右(移动光标)&lt;br /&gt;bindsym $mod+h exec xdotool mousemove_relative -- -100 0&lt;br /&gt;#bindsym $mod+j exec xdotool mousemove_relative 0 100&lt;br /&gt;#bindsym $mod+k exec xdotool mousemove_relative -- 0 -100&lt;br /&gt;bindsym $mod+l exec xdotool mousemove_relative 100 0&lt;br /&gt;#scroll wheel. 下上&lt;br /&gt;bindsym $mod+j exec xdotool click 5&lt;br /&gt;bindsym $mod+k exec xdotool click 4</description><pubDate>Wed, 13 Mar 2024 15:04:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023425#reply0</guid></item><item><title>[程序员] 求：有没有会 ant design pro v6 的</title><link>https://www.v2ex.com/t/1023423#reply1</link><description>&lt;p&gt;后端使用的 satoken ，每个请求都需要拿到 token 才能查询到数据&lt;/p&gt;
+&lt;p&gt;我在 app.ts 中配置了请求前拦截，但是返回的 token ，其他请求头部 Authorization 并没有拿到浏览器本地存的 token&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;/**
+ * requestInterceptors 接收一个数组，数组的每一项为一个 request 拦截器。等同于 umi-request 的 request.interceptors.request.use() 。
+ */
+const authHeaderInterceptor = (url: string, options: RequestOptionsInit) =&amp;gt; {
+  console.log('authHeaderInterceptor url, options: ', url, options  );
+  // 如果是登录页面，不需要添加 token
+  if (url.indexOf('/login/') !== -1 || url.indexOf('/logout') !== -1) {
+    return {
+      url: `${url}`,
+      options: { ...options, interceptors: true },
+    };
+  } else {
+    const token = getToken();
+    console.log('url, token: ', url, token);
+    let authHeader = {};
+    // 如果 token 存在，就添加到请求头
+    if (localStorage.getItem('ADMIN_TOKEN')) {
+      authHeader = { Authorization: `Bearer ${localStorage.getItem('ADMIN_TOKEN')}` };
+    }
+
+    return {
+      url: `${url}`,
+      options: { ...options, interceptors: true, headers: authHeader },
+    };
+  }
+};
+
+
+/**
+ * requestInterceptors 接收一个数组，数组的每一项为一个 request 拦截器。等同于 umi-request 的 request.interceptors.request.use() 。
+ */
+const authHeaderInterceptor = (url: string, options: RequestConfig) =&amp;gt; {
+  console.log('authHeaderInterceptor url, options: ', url, options  );
+  // 如果是登录页面，不需要添加 token
+  if (url.indexOf('/login/') !== -1 || url.indexOf('/logout') !== -1) {
+    return {
+      url: `${url}`,
+      options: { ...options, interceptors: true },
+    };
+  } else {
+    const token = getToken();
+    console.log('url, token: ', url, token);
+    let authHeader = {};
+    // 如果 token 存在，就添加到请求头
+    if (localStorage.getItem('ADMIN_TOKEN')) {
+      authHeader = { Authorization: `Bearer ${localStorage.getItem('ADMIN_TOKEN')}` };
+    }
+
+    return {
+      url: `${url}`,
+      options: { ...options, interceptors: true, headers: authHeader },
+    };
+  }
+};
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;求解&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 14:39:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023423#reply1</guid></item><item><title>[问与答] 首个 Ai 程序员亮相，太秀了</title><link>https://www.v2ex.com/t/1023422#reply0</link><description>文章链接 &lt;a href="https://www.huxiu.com/article/2779675.html" rel="nofollow noopener" target="_blank"&gt;https://www.huxiu.com/article/2779675.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Ai  越来越厉害了，影响的职业也越来越多了</description><pubDate>Wed, 13 Mar 2024 14:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023422#reply0</guid></item><item><title>[问与答] 资源型网站是如何维护和上传资源的？</title><link>https://www.v2ex.com/t/1023421#reply2</link><description>&lt;p&gt;昨天在找一些资料，看到了这个外刊的&lt;a href="https://waikanstore.com" rel="nofollow"&gt;资源网站&lt;/a&gt; ，里面包含很多新闻杂志的资源，大概扫了一下：1 ）含有的期刊很多； 2 ）每天都在更新这些。&lt;/p&gt;
+&lt;p&gt;所以就好奇，如果是手动维持更新就很繁重，不知道有没有接触过的朋友，类似这样的资源站是有自动更新的方法吗？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 14:32:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023421#reply2</guid></item><item><title>[问与答] 现在有哪些成熟的音色克隆技术？</title><link>https://www.v2ex.com/t/1023419#reply0</link><description>最近刷到一个甄嬛的魔改剪辑视频&lt;br /&gt;音色啥几乎已经做到真假难辨了&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.bilibili.com/video/BV1Uy421B7ix/?share_source=copy_web&amp;amp;vd_source=50a82e0132d3a3a8855e0ad87ffbafe0" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/BV1Uy421B7ix/?share_source=copy_web&amp;amp;vd_source=50a82e0132d3a3a8855e0ad87ffbafe0&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;想做类似视频的话&lt;br /&gt;市面上有什么可直接上手的音色克隆服务吗？&lt;br /&gt;付费的也可以接受</description><pubDate>Wed, 13 Mar 2024 14:28:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023419#reply0</guid></item></channel></rss>
