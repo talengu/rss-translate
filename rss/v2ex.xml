@@ -1,113 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 13 Mar 2024 23:24:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[天黑以后] 20240313 午夜俱乐部</title><link>https://www.v2ex.com/t/1023446#reply2</link><description>&lt;p&gt;从业七年多了，第一次感觉寒冬真的来了，找不到工作，投简历要么已读不回，要么面完技术面谈薪资之后就杳无音讯了，目前已经开始面外包了。&lt;/p&gt;
-&lt;p&gt;存款一天天减少，人也整宿整宿的失眠。&lt;/p&gt;
-&lt;p&gt;想换一条出路，可是我又会干什么呢，现在的大环境换行业卷还不如继续干自己老本行吧。&lt;/p&gt;
-&lt;p&gt;幸好没结婚，没有老婆孩子负担，父母也不用我赡养，唯一的支出只有房贷，不然真不知道怎么坚持下去，现在想想那些中年失业上有老下有小的人才发现，我从未如此近距离地和他们共情过，唉。&lt;/p&gt;
-&lt;p&gt;如果有非大厂招前端的老哥可以捞我一把吗…&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 19:52:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023446#reply2</guid></item><item><title>[分享创造] ForceLeet, 一款强迫你每天完成一道 LeetCode 的 Chrome 插件</title><link>https://www.v2ex.com/t/1023445#reply2</link><description>在这里的诸位，想必刷题已经没有什么问题了。但是，懒依然是我们勤奋的克星。使用 ForceLeet 插件，帮你养成良好刷题习惯。&lt;br /&gt;&lt;br /&gt;主要亮点：&lt;br /&gt;1. 自动化中充满了温馨的用户提示&lt;br /&gt;2. 可以 turn on/off 的开关&lt;br /&gt;3. 不写完一道 LeetCode 题，其他什么网页都去不了&lt;br /&gt;&lt;br /&gt;Chrome 商店链接：&lt;br /&gt;&lt;a href="https://chromewebstore.google.com/detail/force-leet/geapiojbgpfedapmfigonanjfpmnnknc" rel="nofollow noopener" target="_blank"&gt;https://chromewebstore.google.com/detail/force-leet/geapiojbgpfedapmfigonanjfpmnnknc&lt;/a&gt;</description><pubDate>Wed, 13 Mar 2024 19:33:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023445#reply2</guid></item><item><title>[职场话题] 有时候很讨厌喋喋不休的自己但不得不讲</title><link>https://www.v2ex.com/t/1023444#reply4</link><description>R 总觉得我身边有人&lt;br /&gt;莫名推测我的感情区间&lt;br /&gt;编故事一样&lt;br /&gt;逻辑乱跳安排情节&lt;br /&gt;过渡解读本人与异性之间关系&lt;br /&gt;&lt;br /&gt;一旦反驳就开始询问为什么排斥&lt;br /&gt;列举男男女女之间有多好多好&lt;br /&gt;沉默是金&lt;br /&gt;&lt;br /&gt;渐渐的变本加厉&lt;br /&gt;肆无忌惮（倒没有多 H ）但很反感&lt;br /&gt;在周围人里传出它嘴里的版本故事&lt;br /&gt;&lt;br /&gt;终于深夜 emo 火山爆发脾气一通乱发&lt;br /&gt;都别活吧&lt;br /&gt;望着长篇大论的炮轰指责&lt;br /&gt;瞬间觉得自己像个泼妇&lt;br /&gt;但忍无可忍</description><pubDate>Wed, 13 Mar 2024 17:53:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023444#reply4</guid></item><item><title>[VPS] 如何在小容量的 VPS 中下载大文件</title><link>https://www.v2ex.com/t/1023442#reply0</link><description>&lt;p&gt;类似 &lt;a href="https://hostloc.wiki/thread-672304-1-1.html" rel="nofollow"&gt;https://hostloc.wiki/thread-672304-1-1.html&lt;/a&gt;
-看到的基本都是需要本地容量够。到如今也没有什么可靠的技术吗？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 17:20:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023442#reply0</guid></item><item><title>[路由器] 闲鱼卖软路由，这算是被到手刀了吗？还是硬件真的坏了？</title><link>https://www.v2ex.com/t/1023439#reply5</link><description>&lt;p&gt;卖 290 RMB 。是 4 口千兆的。&lt;/p&gt;
-&lt;p&gt;到货后那人说其中一个口只有百兆，还拍视频（把网线插入到 LAN1 ，看速率是千兆。然后换了一个口显示为百兆）&lt;/p&gt;
-&lt;p&gt;我估计他在后台限制了那个口为 100M 。我让他申请退货，他说不如 200 RMB ，当 3 口的卖他。我也懒得折腾就成交了&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:55:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023439#reply5</guid></item><item><title>[Node.js] 不太懂 pnpm 的用法 ...</title><link>https://www.v2ex.com/t/1023437#reply3</link><description>&lt;pre&gt;&lt;code class="language-text"&gt;Python
-
-1. 安装 python 和 pip
-
-2. python --version
-
-3. pip install module-a
-
-4. python -m module-a --help
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-text"&gt;Node.js
-
-1. 下载 pnpm.exe
-&amp;gt; ./pnpm.exe --help
-Version 8.1.0 (compiled to binary; bundled Node.js v18.1.0)
-
-2. 这个 bundled Node.js 是没法调用的是吧?? (要自行安装? 那 bundled 干嘛?)
-
-3. 怎么安装模块??
-
-4. 怎么执行模块??
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;a href="https://pnpm.io/" rel="nofollow"&gt;https://pnpm.io/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:44:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023437#reply3</guid></item><item><title>[程序员] 币圈的朋友看过来, 有个品相不错的 io 域名想出售, 欢迎联系留下联系方式</title><link>https://www.v2ex.com/t/1023436#reply0</link><description>coin mask io 对标 &lt;a href="http://metamask.io" rel="nofollow noopener" target="_blank"&gt;metamask.io&lt;/a&gt;</description><pubDate>Wed, 13 Mar 2024 16:41:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023436#reply0</guid></item><item><title>[macOS] word 替代软件</title><link>https://www.v2ex.com/t/1023435#reply5</link><description>请问有没有较好的 Word 替代软件&lt;br /&gt;&lt;br /&gt;使用场景是相对短篇幅、短周期的学术写作，尽量原生，以配合 Bookends/Devonthink&lt;br /&gt;&lt;br /&gt;已试过以下软件，但效果不佳&lt;br /&gt;WPS - 每次启动一堆广告，文献管理插件不足（?）&lt;br /&gt;Mellel - 界面和文献管理工具不错，但不支持 doc 文件批注&lt;br /&gt;Nisus Writer Pro - 专注模式不错，界面有点丑，支持 doc 文件批注，但是显示方式较凌乱&lt;br /&gt;&lt;br /&gt;正在考虑由 mbp 2019 intel 换代到 m3 pro/max 系列，请问大家 Word/Excel/PowerPoint 卡顿感是否有改善？&lt;br /&gt;&lt;br /&gt;感谢！</description><pubDate>Wed, 13 Mar 2024 16:38:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023435#reply5</guid></item><item><title>[程序员] 第一次上榜 GitHub Trending 好激动 纪念一下</title><link>https://www.v2ex.com/t/1023434#reply6</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://www.cheerspublishing.com/uploads/article/6034d1de-fda1-47e4-bd36-45bb26979812.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在发布这些了
-&lt;a href="https://www.v2ex.com/t/1020690" rel="nofollow"&gt;https://www.v2ex.com/t/1020690&lt;/a&gt;、
-&lt;a href="https://www.v2ex.com/t/1022595" rel="nofollow"&gt;https://www.v2ex.com/t/1022595&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;演示功能之后&lt;/p&gt;
-&lt;p&gt;得到了各位老师的支持与帮助&lt;/p&gt;
-&lt;p&gt;终于第一次获得了 GitHub Trending ，好激动，感谢大家🙏&lt;/p&gt;
-&lt;p&gt;全栈开源地址： &lt;a href="https://github.com/huanghanzhilian/c-shopping" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;APP 开源地址： &lt;a href="https://github.com/huanghanzhilian/c-shopping-rn" rel="nofollow"&gt;https://github.com/huanghanzhilian/c-shopping-rn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;项目在线演示地址：&lt;/p&gt;
-&lt;p&gt;docker 部署地址： &lt;a href="http://shop.huanghanlian.com/" rel="nofollow"&gt;http://shop.huanghanlian.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;vercel 部署地址： &lt;a href="https://c-shopping-three.vercel.app/" rel="nofollow"&gt;https://c-shopping-three.vercel.app/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:31:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023434#reply6</guid></item><item><title>[分享发现] 武汉极客交流群，技术交流，生活互助，有缘来相见</title><link>https://www.v2ex.com/t/1023433#reply0</link><description>&lt;p&gt;二维码： &lt;a href="https://imgur.com/a/vDXANLz" rel="nofollow"&gt;https://imgur.com/a/vDXANLz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;二维码过期请加 v：Z2Vla2Vyb25l&lt;/p&gt;
-&lt;p&gt;现在氛围挺好的，湖北相关，武汉相关的老表们一起来聊天啊&lt;/p&gt;
-&lt;p&gt;禁止广告，和谐讨论&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:18:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023433#reply0</guid></item><item><title>[问与答] qq 新版吃 cpu 的问题大家有遇到吗</title><link>https://www.v2ex.com/t/1023432#reply2</link><description>&lt;p&gt;这几天总觉得风扇很吵。而且是频繁的启停。。而且我正常不玩游戏的。。。然后刚刚更新系统重启完了。还是这样。我就看了一下性能。我 i9 14900kf 。 能被他吃 10%。。。而且我给风扇设定的是。。60°以上启动。不然就静音。。。但是 qq 开着就能飞奔到 68°。。。一关。立刻 40°。。我真的无语。。&lt;/p&gt;
-&lt;p&gt;这破玩意还能不能用了。&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:17:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023432#reply2</guid></item><item><title>[Apple] 为了 邮件 catch-all 转移到美区了</title><link>https://www.v2ex.com/t/1023431#reply3</link><description>&lt;p&gt;不得不说用起来是真滴舒服啊！！&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 16:06:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023431#reply3</guid></item><item><title>[问与答] 弄了一个论坛，图片存储方式该怎么选</title><link>https://www.v2ex.com/t/1023430#reply5</link><description>&lt;p&gt;是自己的中小项目，目前接入的是 imgur ，
-但考虑到不易管理以及小流量的图片会被删除，想改成自有图床&lt;/p&gt;
-&lt;p&gt;目前有搜索看到了 backblaze 、R2 、自建 mini-io ，似乎各有优缺，
-加上我也不熟，都是找人开发搭建的，因此寻求各位建议&lt;/p&gt;
-&lt;p&gt;如果是以下条件的站点有啥推荐的服务或方式么？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;海外站，访客因此都是海外用户&lt;/li&gt;
-&lt;li&gt;可接受付费服务&lt;/li&gt;
-&lt;li&gt;防滥用&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 13 Mar 2024 15:58:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023430#reply5</guid></item><item><title>[问与答] 咸鱼的 AirPods 二代 全新未拆封，写着官网可查，价格 150-200， 正常吗？能买不？</title><link>https://www.v2ex.com/t/1023429#reply6</link><description>&lt;p&gt;耳机丢了，还是想买 AirPods 二代，喜欢这款。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;咸鱼看到这个价，大家帮忙判断能买不？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 15:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023429#reply6</guid></item><item><title>[问与答] 陪伴了 4 年的甲骨文云账号今天终于被官方收回了</title><link>https://www.v2ex.com/t/1023428#reply2</link><description>一直很小心翼翼的使用，没想到还是逃不过，两台服务器被停，登录账号提示权限不足，需要管理员权限，什么都没有了，所有的资源都被清空了</description><pubDate>Wed, 13 Mar 2024 15:52:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023428#reply2</guid></item><item><title>[问与答] [提问] 淘宝上这几家卖港版 iPhone 的哪家更靠谱</title><link>https://www.v2ex.com/t/1023427#reply4</link><description>前段时间手机坏了，准备换个港版 iphone ，因去香港交通成本较高，而且近期比较忙，不便直接前往，遂决定在淘宝上买个港版，搜索一通后目前在以下店铺抉择：&lt;br /&gt;&lt;br /&gt;四季数码&lt;br /&gt;&lt;br /&gt;独贩数码&lt;br /&gt;&lt;br /&gt;利基通讯&lt;br /&gt;&lt;br /&gt;恒实数码&lt;br /&gt;&lt;br /&gt;这 4 家做的时间都比较久，价钱相差也都在 200-300 以内，但不知道这 4 家哪家信誉高一点，有什么推荐吗&lt;br /&gt;&lt;br /&gt;而且这 4 家都标的是原封未拆，真的能做到吗&lt;br /&gt;&lt;br /&gt;或者有什么方式能在不去香港的前提下搞到靠谱的港版（ NO 转运）</description><pubDate>Wed, 13 Mar 2024 15:49:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023427#reply4</guid></item><item><title>[Linux] i3 操作鼠标滑轮滚动</title><link>https://www.v2ex.com/t/1023425#reply0</link><description>解决 vimium 不能操作某些网页含有多个列表滑动问题. 比如 outlook, matrix element app.&lt;br /&gt;&lt;br /&gt;附加到 ~/.config/i3/config&lt;br /&gt;#mouse movement, depends on xtools. 左下上右(移动光标)&lt;br /&gt;bindsym $mod+h exec xdotool mousemove_relative -- -100 0&lt;br /&gt;#bindsym $mod+j exec xdotool mousemove_relative 0 100&lt;br /&gt;#bindsym $mod+k exec xdotool mousemove_relative -- 0 -100&lt;br /&gt;bindsym $mod+l exec xdotool mousemove_relative 100 0&lt;br /&gt;#scroll wheel. 下上&lt;br /&gt;bindsym $mod+j exec xdotool click 5&lt;br /&gt;bindsym $mod+k exec xdotool click 4</description><pubDate>Wed, 13 Mar 2024 15:04:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023425#reply0</guid></item><item><title>[程序员] 求：有没有会 ant design pro v6 的</title><link>https://www.v2ex.com/t/1023423#reply1</link><description>&lt;p&gt;后端使用的 satoken ，每个请求都需要拿到 token 才能查询到数据&lt;/p&gt;
-&lt;p&gt;我在 app.ts 中配置了请求前拦截，但是返回的 token ，其他请求头部 Authorization 并没有拿到浏览器本地存的 token&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;/**
- * requestInterceptors 接收一个数组，数组的每一项为一个 request 拦截器。等同于 umi-request 的 request.interceptors.request.use() 。
- */
-const authHeaderInterceptor = (url: string, options: RequestOptionsInit) =&amp;gt; {
-  console.log('authHeaderInterceptor url, options: ', url, options  );
-  // 如果是登录页面，不需要添加 token
-  if (url.indexOf('/login/') !== -1 || url.indexOf('/logout') !== -1) {
-    return {
-      url: `${url}`,
-      options: { ...options, interceptors: true },
-    };
-  } else {
-    const token = getToken();
-    console.log('url, token: ', url, token);
-    let authHeader = {};
-    // 如果 token 存在，就添加到请求头
-    if (localStorage.getItem('ADMIN_TOKEN')) {
-      authHeader = { Authorization: `Bearer ${localStorage.getItem('ADMIN_TOKEN')}` };
-    }
-
-    return {
-      url: `${url}`,
-      options: { ...options, interceptors: true, headers: authHeader },
-    };
-  }
-};
-
-
-/**
- * requestInterceptors 接收一个数组，数组的每一项为一个 request 拦截器。等同于 umi-request 的 request.interceptors.request.use() 。
- */
-const authHeaderInterceptor = (url: string, options: RequestConfig) =&amp;gt; {
-  console.log('authHeaderInterceptor url, options: ', url, options  );
-  // 如果是登录页面，不需要添加 token
-  if (url.indexOf('/login/') !== -1 || url.indexOf('/logout') !== -1) {
-    return {
-      url: `${url}`,
-      options: { ...options, interceptors: true },
-    };
-  } else {
-    const token = getToken();
-    console.log('url, token: ', url, token);
-    let authHeader = {};
-    // 如果 token 存在，就添加到请求头
-    if (localStorage.getItem('ADMIN_TOKEN')) {
-      authHeader = { Authorization: `Bearer ${localStorage.getItem('ADMIN_TOKEN')}` };
-    }
-
-    return {
-      url: `${url}`,
-      options: { ...options, interceptors: true, headers: authHeader },
-    };
-  }
-};
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;求解&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 14:39:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023423#reply1</guid></item><item><title>[问与答] 首个 Ai 程序员亮相，太秀了</title><link>https://www.v2ex.com/t/1023422#reply0</link><description>文章链接 &lt;a href="https://www.huxiu.com/article/2779675.html" rel="nofollow noopener" target="_blank"&gt;https://www.huxiu.com/article/2779675.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Ai  越来越厉害了，影响的职业也越来越多了</description><pubDate>Wed, 13 Mar 2024 14:35:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023422#reply0</guid></item><item><title>[问与答] 资源型网站是如何维护和上传资源的？</title><link>https://www.v2ex.com/t/1023421#reply2</link><description>&lt;p&gt;昨天在找一些资料，看到了这个外刊的&lt;a href="https://waikanstore.com" rel="nofollow"&gt;资源网站&lt;/a&gt; ，里面包含很多新闻杂志的资源，大概扫了一下：1 ）含有的期刊很多； 2 ）每天都在更新这些。&lt;/p&gt;
-&lt;p&gt;所以就好奇，如果是手动维持更新就很繁重，不知道有没有接触过的朋友，类似这样的资源站是有自动更新的方法吗？&lt;/p&gt;</description><pubDate>Wed, 13 Mar 2024 14:32:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023421#reply2</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Mar 2024 03:25:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[JetBrains] 美国朋友帮忙购买的 JetBrains 许可证，在公司使用的问题</title><link>https://www.v2ex.com/t/1023540#reply0</link><description>&lt;p&gt;我之前委托美国朋友帮忙购买了 JetBrains All Product Pack ，自己注册的 JetBrains 帐号，并让美国朋友帮忙登录然后使用 PayPal 付款，然后我在中国大陆使用这个帐号在自己的个人电脑和公司电脑（个人所有，带电脑上班）使用。这笔款项是我自己支付的，没有公司报销。但是帐号的个人信息和账单地址都是我那位美国朋友的。这个 JetBrains 产品我只在我自己的这两台电脑上使用过，那位朋友也没有使用过。&lt;/p&gt;
+&lt;p&gt;但是在公司工作的时候，公司仍然被 JetBrains 版权方发函警告，说公司涉嫌使用盗版 JetBrains 产品。我给公司 IT 领导展示了我的正版 JetBrains 帐号和许可证。公司暂时没有怀疑到我的头上。&lt;/p&gt;
+&lt;p&gt;询问一下大家，我这么使用 JetBrains 产品是否是符合规定的？ JetBrains 许可证是否是锁区的？还是我必须在中国大陆购买 JetBrains 产品才能合法的使用？&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:18:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023540#reply0</guid></item><item><title>[Spotify] 🚗🚗美区 Spotify 家庭组长期</title><link>https://www.v2ex.com/t/1023539#reply0</link><description>&lt;p&gt;美区 Spotify 合租 美区 Spotify 年费家庭车 美区 Spotify 拼车 Spotify 美区会员 需要上车的小伙伴可以加我微信 Netflix-seller&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:18:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023539#reply0</guid></item><item><title>[问与答] 想买个智能门锁，现在选购的话应该关注哪方面的特性呢？</title><link>https://www.v2ex.com/t/1023538#reply2</link><description>&lt;p&gt;比如指纹，应该是半导体指纹，面部识别的话至少是 3D 结构光等。
+或者说给后来者避避雷。
+感谢各位。&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:16:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023538#reply2</guid></item><item><title>[酷工作] [上海][社招] 字节国际电商[高级/资深]前端内推，金三银四海量 HC</title><link>https://www.v2ex.com/t/1023536#reply0</link><description>&lt;h2&gt;部门介绍&lt;/h2&gt;
+&lt;p&gt;字节跳动国际物流供应链团队，围绕电商平台“好货供应-兴趣销售-履约送达”的货品全生命周期动线，为电商多行业多角色持续构建管理高效、协同高效、经营高效的数字化供应链解决方案。同时，通过对仓、关、干、配等线下物流能力的构建和运营，结合数据智能、设备智能、运筹智能的技术能力，丰富商家物流能力、保障履约确定性、提升平台消费者体验。为国际电商快速发展以及长远发展提供核心支撑。&lt;/p&gt;
+&lt;h2&gt;职位描述&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;负责国际化电商供应链业务需求沟通和前端开发；&lt;/li&gt;
+&lt;li&gt;负责国际化电商供应链业务通用能力开发；&lt;/li&gt;
+&lt;li&gt;负责高质量组件编码设计；&lt;/li&gt;
+&lt;li&gt;与团队成员一起协作，提升供应链相关产品的体验和性能。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;职位要求&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;熟悉 Web 前端技术，对符合 Web 标准的网站开发有丰富经验，有前端工程化架构开发经验；&lt;/li&gt;
+&lt;li&gt;对 React.js 、Vue.js 、Angular.js 等框架能熟练运用至少一种，且熟悉其基本原理；&lt;/li&gt;
+&lt;li&gt;在工程化、组件化、数据可视化等方向有深入研究者优先；&lt;/li&gt;
+&lt;li&gt;对 CSS/Javascript 性能优化，解决多浏览器兼容性问题有一定的经验；&lt;/li&gt;
+&lt;li&gt;有团队精神、性格乐观、能积极面对压力；&lt;/li&gt;
+&lt;li&gt;有较强的逻辑思维能力、善于分析、归纳、解决问题、热爱前端，关注技术发展。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;加分项&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;自我驱动，学习能力较强，性格活泼开朗；&lt;/li&gt;
+&lt;li&gt;有 Node.js 开发经验；&lt;/li&gt;
+&lt;li&gt;技术社区活跃者或者有开源作品或者技术博客；&lt;/li&gt;
+&lt;li&gt;英语可以作为工作语言。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;内推流程快速，简历通过立马安排面试，期间可随时找我跟进内推进度。
+感兴趣可加 vx：MTg1MTY1NTA0MjM=&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:14:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023536#reply0</guid></item><item><title>[服务器] 求一个云服务器 ECS 规格选择方案</title><link>https://www.v2ex.com/t/1023535#reply2</link><description>&lt;p&gt;公司的网站服务器，快到期了，我们有 1 个月需要高带宽的需求，之前用着西部数码只能增加基础带宽的 20MB ，用着有些别扭，最近在看新的方案，求大佬问推荐&lt;/p&gt;
+&lt;p&gt;网站主要是奖项征集，平时不征集带宽也就是 2-3M 多，征集期图片视频上传比较多，但时间比较集中，主要在 6 月一个月，高峰期 30M 都不够用。评审期大多需要在线上查看作品的图片和视频，15MB 就还好。因为也还有海外用户参与，配置选起来就很纠结。&lt;/p&gt;
+&lt;p&gt;之前方案是 4 核 4G5M ，700G 存储，成都香港双 IP ，阿里云的全站加速。因为西数只能临增 20MB 带宽，用着很难受。&lt;/p&gt;
+&lt;p&gt;现在考虑选择一个临增带宽比较方便，海外用户能访问，上传不太卡的体验。&lt;/p&gt;
+&lt;p&gt;对于选服务器规格这些有什么要注意的，据大家的使用经验,在什么云之间选择比较好.
+因为不懂,对什么都不确定,所以比较纠结.^^&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:14:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023535#reply2</guid></item><item><title>[酷工作] 广州招聘 | 后端开发 | 效率高直达 Boss</title><link>https://www.v2ex.com/t/1023533#reply0</link><description>公司福利：&lt;br /&gt;免费零食，项目奖金分红，额外节假日福利。&lt;br /&gt;&lt;br /&gt;我们的优势：&lt;br /&gt;我们的产品理念走在全球前列，作为我们的一员，你将有机会打造一款颠覆行业的产品。&lt;br /&gt;自研产品，敏捷开发，你可以大胆创新，尽情发挥你的才能。&lt;br /&gt;在这里没有条条框框的公司制度，一切以目标为导向，用结果说话。&lt;br /&gt;年轻化、自由开放的办公环境。&lt;br /&gt;&lt;br /&gt;岗位职责：&lt;br /&gt;1.基于 LLM 开发垂直化 AIGC 产品。&lt;br /&gt;2.结合业务需求，整合数据，进行 Prompt 优化、模型 finetune ，解决面向用户场景的需求。&lt;br /&gt;3.探索前沿领域并应用，例如 AI Agents 、多模态，推动产品功能完善、性能改进。&lt;br /&gt;4.负责参与技术调研、可行性分析、项目流程架构设计及优化。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1.不限制学历和专业，用能力说话。&lt;br /&gt;2.不懂 AI 相关技术没关系，可以学，但是后端技术一定要扎实。&lt;br /&gt;3.熟悉 Python ，MySQL ，PostgreSQL ，FastAPI ，Linux 基本命令，Docker ，git 基本操作。&lt;br /&gt;4.熟悉基于大模型的开发技术栈的优先，例如提示词工程，向量数据库，RAG 等 。&lt;br /&gt;5.有完整的基于 LLM 开发产品经验优先&lt;br /&gt;6.有大型语言模型训练经验优先&lt;br /&gt;&lt;br /&gt;加分项：&lt;br /&gt;1.AIGC 应用的重度使用者。&lt;br /&gt;2.英语阅读能力强。&lt;br /&gt;&lt;br /&gt;联系方式：&lt;br /&gt;微信：13760501024&lt;br /&gt;邮箱： 861009158hyh@gmail.com</description><pubDate>Thu, 14 Mar 2024 03:13:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023533#reply0</guid></item><item><title>[Rust] 广州｜ Rust 开发工程师</title><link>https://www.v2ex.com/t/1023532#reply0</link><description>&lt;h2&gt;你可以获得的：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;年底公司利润分红，根据能力拿奖金  &lt;/li&gt;
+&lt;li&gt;前沿的行业认知与宝贵的创业经历&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;选择大于努力，想弯道超车、超越同龄人的小伙伴请跟上&lt;/p&gt;
+&lt;h2&gt;岗位职责：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;以太坊智能合约开发&lt;/li&gt;
+&lt;li&gt;使用 Rust 进行 Solana 合约开发&lt;/li&gt;
+&lt;li&gt;利用 Web3 框架或语言对智能合约进行私链/测试链验证性测试，使用 Truffle 和 Openzeppelin 对现有合约进行集成开发和优化。&lt;/li&gt;
+&lt;li&gt;熟悉至少一门静态语言，Python/Rust 优先，熟悉多门编程语言更佳；&lt;/li&gt;
+&lt;li&gt;熟悉 TCP/IP 协议，熟悉网络编程；&lt;/li&gt;
+&lt;li&gt;熟悉 GNU/Linux 环境编程，对 GNU/Linux 系统有一定了解；&lt;/li&gt;
+&lt;li&gt;熟悉多线程编程，对并发有深入了解；&lt;/li&gt;
+&lt;li&gt;对分布式系统、容器化技术、性能优化等有深刻理解的优先；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;任职要求&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;掌握 Rust 语言，熟悉开发区块链智能合约&lt;/li&gt;
+&lt;li&gt;熟练掌握区块链技术，熟悉智能合约开发语言 Solidity ；&lt;/li&gt;
+&lt;li&gt;熟悉使用 Openzepplin 进行智能合约项目迭代开发和集成。&lt;/li&gt;
+&lt;li&gt;熟悉各种数据结构和算法，对密码学、安全协议有研究；深入了解以太坊等区块链的原理、机制和相关加密算法；&lt;/li&gt;
+&lt;li&gt;熟悉 Truffle 开发框架、能使用 Truffle 或 Harthad 进行智能合约测试案例的编写和验证。&lt;/li&gt;
+&lt;li&gt;对以太坊底层协议，运行机制和底层实现等有一定的研究分析；&lt;/li&gt;
+&lt;li&gt;拥有优秀的发现和解决问题的能力，良好的沟通和团队协作能力，能承担一定压力；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;加分项&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;GitHub 开源项目代码；有自己的技术博客。&lt;/li&gt;
+&lt;li&gt;有过成功具备一定用户量包括但不限于 ERC20/ERC721 Token 合约、DAPP （多重签名钱包、游戏或其他）智能合约。在 etherscan 可溯源项目源码。&lt;/li&gt;
+&lt;li&gt;深刻理解智能合约安全体系，并能详细阐述各种类型的智能合约漏洞的攻防措施&lt;/li&gt;
+&lt;li&gt;有开发 Solana 合约的经验&lt;/li&gt;
+&lt;li&gt;有类似于 Rust 语言合约开发经验，例如：Move&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;电话&amp;amp;微信:18320658783&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:13:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023532#reply0</guid></item><item><title>[问与答] 在国内云主机上安装 clash 这种软件会被审查吗</title><link>https://www.v2ex.com/t/1023528#reply3</link><description>&lt;p&gt;公司有出海需求，想自己买一些机场，然后在云主机上安装 clash 这类软件作为代理，不知道会不会有风险&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:10:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023528#reply3</guid></item><item><title>[程序员] 微调托书文档信息提取的思路?</title><link>https://www.v2ex.com/t/1023527#reply0</link><description>&lt;p&gt;想要提取这种托书里面的字段,应该用什么模型去微调比较好.    &lt;/p&gt;
+&lt;p&gt;可以拿来训练的样本量不会太多.拿过 paddlenlp 的 UIE-X 训练过,感觉效果不是会很好,对多行文本支持不怎么样.&lt;/p&gt;
+&lt;p&gt;有没有大佬能指点一下思路&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://forpub-1252428400.cos.ap-shanghai.myqcloud.com/1.jpg" /&gt;</description><pubDate>Thu, 14 Mar 2024 03:09:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023527#reply0</guid></item><item><title>[问与答] 阴雨连绵的三月，复杂的办公室政治，过来人都有哪些解决良方？</title><link>https://www.v2ex.com/t/1023525#reply0</link><description></description><pubDate>Thu, 14 Mar 2024 03:04:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023525#reply0</guid></item><item><title>[酷工作] 深圳艾麦物流内推前端后端 Java （Base 深圳上海）</title><link>https://www.v2ex.com/t/1023524#reply0</link><description>所有岗位硬性条件：统招本科&lt;br /&gt;&lt;br /&gt;前端要求：工作经验 3 年+（接受 21 年毕业），React 须有实际工作经验 1 年+&lt;br /&gt;后端要求：Java 三年或以上经验，有在线客服经验优先&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;帮你内推，简历到这 1106619871@qq.com</description><pubDate>Thu, 14 Mar 2024 03:03:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023524#reply0</guid></item><item><title>[职场话题] 找工作的痛苦面具</title><link>https://www.v2ex.com/t/1023523#reply8</link><description>&lt;p&gt;作为普通开发者无学历，无大厂背景（有学历有大厂背景的都是另外一个世界）
+先说下我最近几年的痛苦面具
+22 年 1 月被裁，3 月找到工作上班
+23 年 2 月被裁，4 月找到工作上班
+23 年 7 月 pua 严重受不了跑路，7 月找到工作上班
+24 年 3 月欠薪跑路，现在正在痛苦面具找工作中&lt;/p&gt;
+&lt;p&gt;一些经验：
+感觉 22 年确实是最好的，找工作都挺简单，后面就越来越差，反而所谓的金三银四更差，我猜测可能是因为很多骑驴找马的都看起来了，本来岗位就这么多，典型的僧多肉少。在年中反而工作好找点。
+太难了，继续努力吧。应该贴吧没有比我更惨的了吧？
+希望后面能吃口热饭&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 03:00:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023523#reply8</guid></item><item><title>[iOS] 来聊聊 AppConnect 上提示的《数字服务法》</title><link>https://www.v2ex.com/t/1023521#reply0</link><description>&lt;p&gt;今天收到果子的提示，要完成《数字服务法》的合规要求，你们都是怎么填的啊？对个人开发者和公司都有什么影响吗？&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:56:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023521#reply0</guid></item><item><title>[汽车] 汽车玻璃膜怎么选？</title><link>https://www.v2ex.com/t/1023519#reply0</link><description>&lt;p&gt;看了几天，几百块到上万的价格都有，看得眼花缭乱的&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:55:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023519#reply0</guid></item><item><title>[分享创造] [ 开源 ]: 📨 MessAuto: 自动提取 Mac 的短信和邮件验证码</title><link>https://www.v2ex.com/t/1023518#reply3</link><description>&lt;h2&gt;地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/LeeeSe/MessAuto" rel="nofollow"&gt;https://github.com/LeeeSe/MessAuto&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;MessAuto 是一款 macOS 平台自动提取短信和邮箱验证码的软件，由 Rust 开发，适用于任何 App
+&lt;img class="embedded_image" rel="noreferrer" src="https://github.com/LeeeSe/MessAuto/blob/master/assets/images/example.png?raw=true" /&gt;&lt;/p&gt;
+&lt;h2&gt;开发初衷&lt;/h2&gt;
+&lt;p&gt;macOS 平台可以方便地接收来自 iPhone 的短信，无需每次打开手机查看验证码，Safari 浏览器更是可以直接自动获取到短信和邮件验证码并显示在输入框内，然而这个好用的功能却仅仅停留在了 Safari 浏览器上，但并不是每个人都喜欢使用它。为了把这个功能带到所有 APP 上，我开发了这款软件。&lt;/p&gt;
+&lt;p&gt;后续使用中我又发现许多验证码不仅仅通过短信发送，还有通过邮件发送的，所以我又增加了对邮件的支持。&lt;/p&gt;
+&lt;h2&gt;需要帮助&lt;/h2&gt;
+&lt;p&gt;我不是 Apple Developer ，打包出来的 App 在其他用户电脑上打开会提示软件损坏，需要长期稳定持有证书的伙伴帮忙打包一下 App 。&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:54:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023518#reply3</guid></item><item><title>[机械键盘] 段落轴机械键盘求推荐</title><link>https://www.v2ex.com/t/1023516#reply1</link><description>&lt;p&gt;需求：防误触、声音小的段落轴机械键盘，主要用于打字&lt;/p&gt;
+&lt;p&gt;目前在看的有京造 JZ990 和 vgn v98pro v2  。  但自己了解过来 jz990 是 3 年前的产品，vgn 网评差&lt;/p&gt;
+&lt;p&gt;求推荐一把 500 以内的机械键盘&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:48:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023516#reply1</guid></item><item><title>[问与答] Linux 莫名自动配置了 http_proxy</title><link>https://www.v2ex.com/t/1023515#reply3</link><description>&lt;p&gt;虚拟机上的 linux 自动配置了主机上的 clash 的端口 ip:port 。&lt;/p&gt;
+&lt;p&gt;使用的 mobaxterm 。&lt;/p&gt;
+&lt;p&gt;.bashrc 里没有搜索到 ip:port 字段&lt;/p&gt;
+&lt;p&gt;这是在什么地方被配置了？&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:48:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023515#reply3</guid></item><item><title>[Android] 小米是不是不让用李跳跳了</title><link>https://www.v2ex.com/t/1023514#reply13</link><description>&lt;p&gt;辅助功能显示无法运行&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 02:46:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023514#reply13</guid></item><item><title>[职场话题] eBay 的外包值得去吗</title><link>https://www.v2ex.com/t/1023511#reply4</link><description>目前坐标杭州，背景是大龄 985 非科班自学转行的客户端开发，没待过大厂。目前离职状态&lt;br /&gt;手上有个杭州 od offer&lt;br /&gt;昨天拿到一个上海 eBay 外包 offer ，要我周五中午之前给回复&lt;br /&gt;两个外包，不算加班的话薪资差不多&lt;br /&gt;目前还有一家北京的手机公司的面试已经过了技术和 HR 面，还剩主管面也是周五&lt;br /&gt;想咨询一下主管面的拦截率高吗，已经知道周五不可能出结果（即使面试通过还有背调），用什么话术可以尽量拖延这个 eBay 外包 offer 呢？</description><pubDate>Thu, 14 Mar 2024 02:44:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023511#reply4</guid></item><item><title>[宽带症候群] 有没有了解 OLT 的大佬。</title><link>https://www.v2ex.com/t/1023510#reply0</link><description>电信网络 ，光猫桥接--- 路由器拨号。&lt;br /&gt;正常情况下，会获取到网段 A.B.C.*/24 的非固定公网 IP ，重连会变。&lt;br /&gt;异常情况下，会获取到网段 A.D.E.*/24 的固定公网 IP,重连不会变。&lt;br /&gt;&lt;br /&gt;我每天都会断电，而且每天上机时间才 6 个小时。&lt;br /&gt;短时间重复重拨，会导致异常情况这个我理解。&lt;br /&gt;&lt;br /&gt;不明白的就是为啥我把 icmp 协议禁掉会导致拨号异常。&lt;br /&gt;还是说其他情况导致拨号下线异常。&lt;br /&gt;pppoe 咋样才是正常的下线呢？&lt;br /&gt;又没办法主动发送下线通告。</description><pubDate>Thu, 14 Mar 2024 02:43:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023510#reply0</guid></item></channel></rss>
