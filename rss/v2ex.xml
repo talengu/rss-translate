@@ -1,246 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 14 Mar 2024 14:35:31 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] MacOS 13.6.4，如何取消解锁的密码？</title><link>https://www.v2ex.com/t/1023773#reply0</link><description>系统版本为：MacOS 13.6.4 ，有锁屏需求；需要在解锁时，不用输入密码，回车直接解锁，应该如何设置？</description><pubDate>Thu, 14 Mar 2024 14:33:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023773#reply0</guid></item><item><title>[SpaceX] 星舰第三次测试发射</title><link>https://www.v2ex.com/t/1023772#reply0</link><description>&lt;p&gt;目前星舰正在返回，正穿越“黑障区”。可惜这次星舰计划落入印度洋，不进行回收。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/Tq62y3wk.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/OjxAXkHE.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/jl5ZG587.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 14:30:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023772#reply0</guid></item><item><title>[优惠信息] 低价 GPT4， claude3 最低至九毛一美元额度，大额支持高并发</title><link>https://www.v2ex.com/t/1023771#reply0</link><description>&lt;a href="https://api.kksj.org" rel="nofollow noopener" target="_blank"&gt;https://api.kksj.org&lt;/a&gt;&lt;br /&gt;本站点提供开箱即用，无需自己配置，详情请见首页使用方法&lt;br /&gt;提供 API 调用，可以在其他开源客户端，如 nextweb,chatbox 使用</description><pubDate>Thu, 14 Mar 2024 14:30:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023771#reply0</guid></item><item><title>[宽带症候群] 建议说家宽 DDNS+Web 被警告和断网的 说一下自己有没有使用 PCDN 和 PT</title><link>https://www.v2ex.com/t/1023770#reply0</link><description>&lt;p&gt;因为用户和 ISP 签的协议大概率没有写不允许使用 PCDN/PT ，也没有说不允许使用大流量上传，所以 ISP 想用这些理由封用户，是不合理的。用户去工信部举报，ISP 无论给不给解封，都会增加他们的被举报率。
-所以他们可以查一下你有没有对外开放 Web ，开放的话用这个理由封你。因为协议必然写了家宽不允许对外提供服务，所以对外开放 Web 可以作为一个理由封停你的宽带。然后他们可以让你以签保证书的方式恢复宽带，这个保证书或许就有不允许使用 PCDN/PT 的条款。
-所以建议说家宽 DDNS+Web 被警告和断网的，说一下自己有没有使用 PCDN 和 PT 。如果有完全没用过 PCDN/PT ，上行流量不高，且开放的 Web 仅限于路由器/NAS 后台网页，仅自己使用，没有对外提供服务，这样的用户被警告或封宽带，可以说一说。&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 14:17:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023770#reply0</guid></item><item><title>[分享创造] 分享一个自己写的 alist 的 ipfs 驱动</title><link>https://www.v2ex.com/t/1023769#reply0</link><description>&lt;p&gt;你需要自己运行一个 ipfs 实例，然后就可以使用这个 ipfs 的驱动存储文件，你浏览的时候可以使用官方的网关流量。
-使用方法：直接在最新版的 alist 里面添加 ipfs api 驱动，然后配置你自己 ipfs 节点的路径，配置一个 ipfs 网关即可。
-ipfs 官方的网关除中国地区外速度很快，你也可以使用我的 ipfs 网关(&lt;a href="http://cdn.ipfsscan.io" rel="nofollow"&gt;cdn.ipfsscan.io&lt;/a&gt;)，中国地区目前可用。你也可以使用 cloudflare 反向代理官方的网关。&lt;/p&gt;
-&lt;p&gt;配置示例图：
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.ipfsscan.io/ipfs/QmVCqhoxkPC3ZnFT2fqjg2Ud7jJxAwikRQcK4SrRJN6mXN?filename=81ceefb5e957ea9bae2a1b2db804c31.png" /&gt;&lt;/p&gt;
-&lt;p&gt;在只知道一个文件或者目录 cid 和文件名的情况下，就可以在 ipfs 的 webui 里面直接加入到你的 alist 里面，很方便复用文件资源。&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 14:07:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023769#reply0</guid></item><item><title>[程序员] 电动升降桌怎么选</title><link>https://www.v2ex.com/t/1023768#reply0</link><description></description><pubDate>Thu, 14 Mar 2024 14:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023768#reply0</guid></item><item><title>[分享创造] 弄了一个短剧机器人</title><link>https://www.v2ex.com/t/1023766#reply0</link><description>&lt;p&gt;最近短剧不是很火嘛，于是想到是不是可以用来做个机器人然后分享短剧引流拉新网盘。
-说干就干，于是搜索搭建机器人的工具，搜索网盘的工具，用到的工具如下&lt;/p&gt;
-&lt;p&gt;微信机器人用到的工具：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 15 Mar 2024 02:35:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[酷工作] [日本]大阪招聘，需求 Cocos 前端开发，产品经理</title><link>https://www.v2ex.com/t/1023864#reply0</link><description>关于公司： &lt;a href="https://manka.co.jp/" rel="nofollow noopener" target="_blank"&gt;https://manka.co.jp/&lt;/a&gt;&lt;br /&gt;公司规模：100 人左右&lt;br /&gt;&lt;br /&gt;关于工作方式： 不要求任何语言能力！不要求任何语言能力！不要求任何语言能力！ （ HP 后勤之类的 30%是日本人，基本的开发 70%是中国人）&lt;br /&gt;&lt;br /&gt;工作地点：日本-大阪&lt;br /&gt;录用类型：正社员&lt;br /&gt;&lt;br /&gt;投递方式：Y2FiYmFnZWRldmlsMTYzQGdtYWlsLmNvbQ==&lt;br /&gt;投递方式：Y2FiYmFnZWRldmlsMTYzQGdtYWlsLmNvbQ==&lt;br /&gt;投递方式：Y2FiYmFnZWRldmlsMTYzQGdtYWlsLmNvbQ==&lt;br /&gt;&lt;br /&gt;[产品经理]&lt;br /&gt;[薪资待遇] :500W-800W 3 人&lt;br /&gt;工作内容&lt;br /&gt;1. 金融交易类方向 App 业务功能或模块的设计，包括但不限与用需求分析、产品方案设计与技术讨论、测试验收&lt;br /&gt;2. 与业务上下游系统对接，推进产品方案，协调多方开发，确保进度与测试验收&lt;br /&gt;3. 分析产品数据，验证产品定位并制定迭代方案&lt;br /&gt;4. 行业调研与竞品分析，了解行业发展趋势并制定产品迭代方向&lt;br /&gt;&lt;br /&gt;职位要求&lt;br /&gt;1. 逻辑思维能力强，善于抽象简化复杂问题，能够系统性思考问题并用创新思维解决问题，学习能力强&lt;br /&gt;2. 有复杂业务场景的梳理和需求归纳能力，并能对用户需求有清晰判断能力&lt;br /&gt;3. 能独当一面，把握完整产品流程，注重 UE 、UI 体验细节&lt;br /&gt;4. 沟通能力强，与团队高效合作&lt;br /&gt;5. 具有 3 年以上互联网产品经理经验，对产品价值能进行客观分析&lt;br /&gt;&lt;br /&gt;加分项&lt;br /&gt;1. 有金融产品经验或金融知识背景，对交易类产品需求与流程熟悉&lt;br /&gt;2. 大厂经验，有较好的沟通能力学习能力&lt;br /&gt;3. 因为是海外工作需要很好的适应能力&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;[Cocos 前端开发]&lt;br /&gt;[薪资待遇] :600W-1000W 3 人&lt;br /&gt;工作内容&lt;br /&gt;1.根据产品需求完成模块设计，编码，测试&lt;br /&gt;2.与服务器，美术等合作完成开发任务&lt;br /&gt;&lt;br /&gt;职位要求&lt;br /&gt;1. 工作經驗 3 年以上&lt;br /&gt;2. 使用過 Cocos Creator 2.X 或 3.X 開發維護 APP/H5 的經驗&lt;br /&gt;3. 處理過遊戲性能優化，包含但不限於 CPU 、GPU 、美術資源等&lt;br /&gt;4. 處理過從 SDK 包裝製作成插件，導入遊戲引擎的經驗&lt;br /&gt;5. 熟練使用 TypeScript 、JavaScript ，能編寫簡單的 Android Jave 、Objective-C&lt;br /&gt;6. 熟悉使用 Http 及 Websocket&lt;br /&gt;7. 習慣多人協作，能與企劃、Server 端、原生移動端共同完成需求開發&lt;br /&gt;8. 熟悉使用 Git 版本控制&lt;br /&gt;&lt;br /&gt;加分项&lt;br /&gt;1. 有使用開發維護 APP/H5 的經驗优先&lt;br /&gt;2. 大厂经验，有较好的沟通能力学习能力&lt;br /&gt;3. 因为是海外工作需要很好的适应能力</description><pubDate>Fri, 15 Mar 2024 02:35:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023864#reply0</guid></item><item><title>[分享发现] 105rmb 一年 12 个月年卡直充腾讯视频 vip 年卡， 送半年网易云音乐 半年蜻蜓 1800 成长值（每日限量 3000 先到先得）</title><link>https://www.v2ex.com/t/1023863#reply0</link><description>&lt;p&gt;秒到账腾讯会员一年 12 个月年卡直充腾讯视频 vip 年卡月卡， 送半年网易云 半年蜻蜓 1800 成长值&lt;/p&gt;
+&lt;p&gt;标价就是售价，一次性到账一年，正规充值请放心下单。不需要分月领取&lt;/p&gt;
+&lt;p&gt;1.下单后联系客服，配合客服充值到你自己账号，非共享，到账后再确认收货，安全放心。&lt;/p&gt;
+&lt;p&gt;2.正规渠道，下单充值后会员立即到账，会员支持手机、电脑、ipad 通用，不支持电视端登录。&lt;/p&gt;
+&lt;p&gt;注意：虚拟物品非质量问题不支持退款，下单请仔细确认需要充值的账号，一旦充值成功，不支持退换货，一切损失由您承担，请谅解！&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:34:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023863#reply0</guid></item><item><title>[问与答] 如何从 ocr 识别后的碎片化信息中提取出有效信息，如姓名手机号身份证车牌这种信息。</title><link>https://www.v2ex.com/t/1023862#reply1</link><description>目前没有成本和时间搭建一个大模型，能想到的就是比较原始的正则匹配方式。&lt;br /&gt;但是弊端比较多，只能精确匹配，多一个字少一个字都拿不到，或者带*号的，有时候 ocr 出来的也会缺东西多东西。导致肉眼能看到的很多信息正则都匹配不到。&lt;br /&gt;大佬们有什么比较好的方案或者类似工具库吗，可以比较人性化一点的匹配到有效信息，比如多个数字少个数字或者看着比较像人名的都可以匹配到。</description><pubDate>Fri, 15 Mar 2024 02:27:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023862#reply1</guid></item><item><title>[职场话题] 求大佬解答，贝壳 p5 和 p6 对应 pkg 范围多少？</title><link>https://www.v2ex.com/t/1023861#reply0</link><description></description><pubDate>Fri, 15 Mar 2024 02:24:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023861#reply0</guid></item><item><title>[程序员] 人工智能（AI）井喷式发展下，未来“程序员”这个职业会不存在吗？</title><link>https://www.v2ex.com/t/1023860#reply1</link><description>&lt;p&gt;前两天，几位互联网大佬聊人工智能（ AI ）上了热搜，一些观点比较犀利，在软件行业掀起了大范围的热议，其中一大热点是：&lt;strong&gt;“程序员”这个职业会不会存在&lt;/strong&gt;。去年就有惊人的观点：谷歌工程主管：&lt;strong&gt;程序员的职业生涯将在 3 年内被 AIGC 终结。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我先亮出自己的的观点：&lt;strong&gt;“程序员”这个职业会存在，未来人机结对编程是常态。&lt;/strong&gt;也就是说，程序员会和基于大模型的编程助手/编程 Copilot 协同工作，以更高效的方式完成程序/软件的开发。见我的软件工程 3.0 宣言（附演讲 PPT ）的第一句：
+&lt;img alt="alt 属性文本" class="embedded_image" rel="noreferrer" src="https://cdn.easycorp.cn/web/data/upload/zentao/202403/f_ec7b44a40accebd5f7bcb27ff9799bba.png" /&gt;&lt;/p&gt;
+&lt;p&gt;其实，我 5 年前就写过一篇文章：&lt;strong&gt;未来两年：人机结对编程(MMPP)将成为现实。&lt;/strong&gt;当时，我过于乐观，但也不算乐观：2020 年北京大学推出了 aiXCoder 2.0 （版本到了 2.0 ，说明产品相对成熟了，其工作始于 2013 年），可以完成代码补全、代码评审等，开始实现人机结对编程。&lt;/p&gt;
+&lt;p&gt;今天的大语言模型（ LLM ）是一个概率模型、一个不确定模型，我甚至说过（见：软件工程 3.0 实践之路（一）最后一段）：因为 LLM 的不确定性，有幻觉/幻想，倒是不适合做编程助手，更适合帮我们在一些不确定事务（股票投资、风险管理等）上做决策、可以获得最大的赢率。LLM 也更适合参与我们的头脑风暴活动、文化创意、设计等活动，这时幻觉/幻象成了优点、有创造性，例如挖掘用户的需求、应用场景、海报生成、视频创作、音乐创作等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今天，我们确实越来越多地将 LLM 应用于代码补全、代码生成、代码理解、代码解释等工作中（见：软件工程 3.0 实践之路(六)：LLM 驱动编程，银弹快来了吗？）&lt;/strong&gt;，它也可以生成单元测试脚本、测试用例。但所有生成的结果都不能直接采用，需要人工 review 。如果你的能力弱，就无法判定结果对与错，review 的效果就不理想。如果你只懂英文和中文，而不懂计算机编程语言，那根本无法 review 。对，像其他同学说的，你还要懂操作系统、懂数据库、懂通信协议、懂架构、懂算法和数据结构......这些都是软件开发的基础。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但是否有可能：生成的代码不需要人工 review 呢？&lt;/strong&gt;在某些情况下也是有可能的，我的设想是：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;西瓜 vlw&lt;/strong&gt;
-&lt;img alt="西瓜 vlw" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/IgkGiRX.png" /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;傻妞机器人&lt;/strong&gt;
-&lt;img alt="傻妞机器人" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/4PEV5E7.png" /&gt;&lt;/li&gt;
+&lt;li&gt;事先分别构建独立的开发 LLM （更多是代码正例）、测试 LLM （语料更多是反例，如缺陷报告、测试脚本、测试运行日志等）、业务/需求 LLM 等。&lt;/li&gt;
+&lt;li&gt;让 LLM 帮我们实现 BDD 那样的需求（ GWT 格式，即需求足够明确），这个过程还是人机交互的，需要业务需求专家确认结果，确保结果是正确的（相对的，不是绝对的）。&lt;/li&gt;
+&lt;li&gt;从基于 BDD 的需求出发，开发 LLM 生成产品代码，测试 LLM 生成测试代码，两者独立工作，相互博弈、相互验证（类似 AlphaZero ，之前也有微软的论文做了局部验证）。这种情况下，几乎不需要人工参与（但很有可能是少量参与），让 LLM 相互验证，确保结果运行正确、通过测试。&lt;/li&gt;
+&lt;li&gt;业务/需求 LLM 会参与全过程来验证，包括针对运行的程序进行验证。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;网盘用到的工具：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“程序员” 职业肯定会存在，但部分能力弱的程序员会受到很大的挑战，而能力越强的程序员越安全。&lt;/strong&gt;今年年初谷歌首席商务官发布备忘录、宣布再次裁员，而这次被「毕业」的员工，多数都是被 AI 淘汰的。《 24 年技术招聘现状》显示，已经有 21%的程序员担心失业。而 IMF （国际货币基金组织）报告显示，AI 会影响全球 40%的岗位，但同时它对每个人来说也是一个巨大的机会。例如：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;转存工具&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;谷歌广告中，开始集成进大量的生成式 AI 功能。&lt;/li&gt;
+&lt;li&gt;谷歌的聊天机器人，可以帮人们浏览大量的广告产品。&lt;/li&gt;
+&lt;li&gt;谷歌的某 AI 系统，可以根据广告购买者给出的预算和目标，自行制作图像和文本。&lt;/li&gt;
+&lt;li&gt;过去，提供销售指导、创建艺术资产、决定文本和布局这些工作都是人类做的，但是现在，AI 完成起这类任务可以每秒做一千次。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="转存工具" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ysMw7Zr.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;不过，面对 AI 的冲击，绝大多数（ 70%）的开发者认为，AI 辅助工具能够帮助他们更好地完成工作。&lt;/strong&gt;尤其是在以下这几个方面：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;PanTools&lt;/strong&gt;（批量分享的工具）&lt;/li&gt;
+&lt;li&gt;编程辅助、代码自动补全与生成，例如用 ChatGPT 、GitHub Copilot 、CodeArts Snap 等。&lt;/li&gt;
+&lt;li&gt;学习与答疑，不懂的问题找大模型。&lt;/li&gt;
+&lt;li&gt;文档润色和生成，需求文档润色、个人总结和测试报告生成等。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="批量分享工具" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6M1u5Qa.png" /&gt;&lt;/p&gt;
-&lt;p&gt;收益截图，当然这不是我的，是某个群友的哈哈，
-网盘拉新可以去任推邦或者微信小程序夸推推申请，
-当然别的网盘也可以，一样的道理。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="群友收益" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/chpPeD1.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最后放上机器人二维码，欢迎各位体验&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;机器人目前实现的功能：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;回复 &lt;code&gt;热播短剧&lt;/code&gt; 随机返回 5 条短剧。&lt;/li&gt;
-&lt;li&gt;回复 &lt;code&gt;短剧+短剧名称&lt;/code&gt; 可搜索相关短剧，例如：&lt;code&gt;短剧男神&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;回复 &lt;code&gt;进群&lt;/code&gt; 会拉你进热播短剧群。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt="机器人" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/8YJtUYT.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 14:00:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023766#reply0</guid></item><item><title>[求职] 求职-运维-远程</title><link>https://www.v2ex.com/t/1023764#reply0</link><description>&lt;p&gt;运维求职远程岗位
-8 年经验
-cicd 、K8s 、ansible
-做过从零建设运维体系&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:56:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023764#reply0</guid></item><item><title>[分享创造] 闭关三个月，自研的 RPA 因功能太强而被拒上架</title><link>https://www.v2ex.com/t/1023763#reply0</link><description>&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;憋了几个月的大招，Tapicker v5.0 终于要上线了&lt;/p&gt;
-&lt;p&gt;结果提交审核被拒，理由是可以从谷歌地图上采集数据&lt;/p&gt;
-&lt;p&gt;无奈只能改成这个鬼样子，希望能通过审核吧&lt;/p&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://pic2.zhimg.com/100/v2-054a52dc435a6cb887be10538ed2ee25_r.jpg" /&gt;
-&lt;p&gt;辛苦打造的 v5.0.0 提交审核被拒后，心都凉了一大半&lt;/p&gt;
-&lt;p&gt;无奈只能把产品的 Slogan 都改了，再重新剪了封面视频和主图，重新写应用描述&lt;/p&gt;
-&lt;p&gt;修了几个 Bug ，加了域限制，版本也来到了 v5.0.8 ，再次提交审核&lt;/p&gt;
-&lt;p&gt;一路走来，由此感慨，Chrome 插件市场审核越来越严格了&lt;/p&gt;
-&lt;p&gt;这次很顺利，终于审核通过！💪&lt;/p&gt;
-&lt;h2&gt;简介&lt;/h2&gt;
-&lt;p&gt;Tapicker 是一款无代码浏览器自动化和机器人流程自动化 (RPA) 工具，只需拖拖拽拽就能轻松地构建你的工作流，就像搭积木一样简单。&lt;/p&gt;
-&lt;p&gt;Tapicker 不仅仅是一个浏览器插件，更是您工作中的得力助手，它的独特之处在于您可以自定义工作流程，将繁琐的任务自动化，释放您的双手，让您将更多的时间和精力投入到真正有意义的事情上。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tapicker 亮点：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在这之中，&lt;strong&gt;有大约 67%的开发者表示，自己已经将 AI 作为工作的一部分了。&lt;/strong&gt;所以，我们可能会说，** 你的能力越强越安全，同时，你必须拥抱 AI 、拥抱 LLM ，不会用 AI/LLM 工具的人会被熟练使用 AI/LLM 工具的同行所淘汰。**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;可视化的编辑器&lt;/li&gt;
-&lt;li&gt;强大的执行引擎&lt;/li&gt;
-&lt;li&gt;完整的流程控制&lt;/li&gt;
-&lt;li&gt;自动表单填写&amp;amp;提交&lt;/li&gt;
-&lt;li&gt;自动导航到下一页&lt;/li&gt;
-&lt;li&gt;无限滚动加载数据&lt;/li&gt;
-&lt;li&gt;网页访问随机化&lt;/li&gt;
-&lt;li&gt;iframe 页面识别&lt;/li&gt;
-&lt;li&gt;多级页面页面导航&lt;/li&gt;
-&lt;li&gt;批量重复任务的执行&lt;/li&gt;
-&lt;li&gt;数据去重和清洗&lt;/li&gt;
-&lt;li&gt;数据导出支持&lt;/li&gt;
-&lt;li&gt;网页数据抓取&lt;/li&gt;
-&lt;li&gt;免费的公开配方&lt;/li&gt;
+&lt;li&gt;根据国内招聘网站统计数据（以下相同）显示，机器视觉的薪资差距最大——达到了 62.44%。其中，要求 AIGC 技能的机器视觉招聘平均年薪为 48.45 万，而无此要求只有 29.83 万元。&lt;/li&gt;
+&lt;li&gt;售前技术支持、大客户销售和平面设计这三个职位，是否具有 AIGC 技能也将带来超过 50%的薪资差异。&lt;/li&gt;
+&lt;li&gt;对于企业来说，在同等条件下，有 57.04%会优先考虑那些具备 AIGC 技能的候选人。&lt;/li&gt;
+&lt;li&gt;被开聊次数最多的是注明具有 AIGC 技能的算法工程师，高达 15.72 次，比未注明的同等职能多 6.21 次。&lt;/li&gt;
+&lt;li&gt;从行业分布来看，新发职位主要集中于互联网、计算机软件、人工智能三大行业，占比为 29.65%、12.7%、9.96%。好消息是：说明互联网/软件职位在增长，软件定义世界、数字化转型，会带来更多的互联网/软件职位。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tapicker 应用场景：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;鉴于此，我们要尽早着手学习使用 AIGC 工具，从而增强自己的职场竞争力和求职议价权。&lt;/p&gt;
+&lt;p&gt;原文作者：Test Ninja&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:23:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023860#reply1</guid></item><item><title>[分享发现] 关于 XR 设备，你怎么看？</title><link>https://www.v2ex.com/t/1023859#reply0</link><description>&lt;p&gt;我以前对 XR 不怎么感冒，印象中现在的科技还没有发展到那种程度。不过最近公司有 XR 业务，还专门成立了实验室，所以搜索了相关信息，发现现在 XR 设备还是非常多的了，可能功能和体验上也有很大提升。
+请问各位大佬，XR 的原理是什么？技术发展有哪些瓶颈？ XR 现在的市场怎么样？你怎么看待 XR 的未来？还有两三千的 pico4 和几万块的 Apple Vision Pro 价格差在哪？
+欢迎各位参与谈论，谢谢。&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:21:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023859#reply0</guid></item><item><title>[问与答] 如何过好这一年的 2%</title><link>https://www.v2ex.com/t/1023858#reply0</link><description>读最新一期阮一峰科技爱好者周刊#293 有感，一周是一年的 2%，阮一峰通过每周记录一些东西，整理一些思考，督促自己过好这一年的 2%。&lt;br /&gt;&lt;br /&gt;反观自己一周就是在工作日完成本周周报，周末放松休闲中渡过，好像并没有类似督促自己过好这一年的 2% 的行为。&lt;br /&gt;&lt;br /&gt;大家都是怎么过好这一年的 2% 的？有哪些类似行为可以有积累和思考？</description><pubDate>Fri, 15 Mar 2024 02:21:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023858#reply0</guid></item><item><title>[程序员] 有爹知道 https 双向认证时候，服务端使用客户端证书干了什么么？</title><link>https://www.v2ex.com/t/1023857#reply5</link><description>&lt;p&gt;在单向认证时候，服务端发给客户端证书，客户端校验证书然后用证书里面的公钥加密了一个 random ，服务端收到 random 后用私钥解密，为双方的第三个 random&lt;/p&gt;
+&lt;p&gt;那么在双向认证时候，客户端发给服务端证书，服务端到底用客户端证书干了什么？？？查了一些博客，现在有几种说法&lt;/p&gt;
+&lt;p&gt;1.只验证
+2.验证+服务端用客户端公钥加密了加密套件，客户端用私钥解密加密套件
+3.验证+服务端用客户端公钥加密 random-S&lt;/p&gt;
+&lt;p&gt;在第二种说法中，加密套件不是 client hello 时候客户端发过去的么？在 server hello 后服务端会选择一个加密方案，双向认证时候，加密套件在客户端验证完服务端证书后发送？？&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:19:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023857#reply5</guid></item><item><title>[Android] 打算换只手机，求推荐安卓机 T^T</title><link>https://www.v2ex.com/t/1023856#reply0</link><description>&lt;p&gt;逛了一晚上知乎京东和 V2EX 也没相中，想着还是发帖问问吧_(:з」∠)_&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;构建测试流程来自动化 UI 测试&lt;/li&gt;
-&lt;li&gt;构建社交媒体机器人来自动只是社交任务&lt;/li&gt;
-&lt;li&gt;从招聘网站收集候选人简历，构建强大的简历库&lt;/li&gt;
-&lt;li&gt;从社交媒体上采集用户评论，寻找潜在的商业机会&lt;/li&gt;
-&lt;li&gt;从相关行业网站抓取数据，用于训练机器学习，就像 ChatGPT 一样&lt;/li&gt;
-&lt;li&gt;分析竞争对手或供应商的商品定价、库存、销量等&lt;/li&gt;
-&lt;li&gt;更多好玩的等你发现...&lt;/li&gt;
+&lt;li&gt;不喜欢搞多只设备，所以就是拿来当主力机的。也正因为要换主力机，不想走时间太长的购买渠道（以前买 Pixel 人都等麻了），也只接受一手新机&lt;/li&gt;
+&lt;li&gt;需求不高，游戏这类娱乐需求有 iPad 解决了，手机也就是社交办公影音用，没有价位限制但感觉没必要上旗舰&lt;/li&gt;
+&lt;li&gt;拒绝多余的安全机制（倒不计较隐私问题，但完全不想接多余的电话）&lt;/li&gt;
+&lt;li&gt;喜欢干净整洁的系统，不过不是必须要类原生（当然有推荐的更好）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;欢迎大家来试用，在使用中发现任何 Bug ，记得给我反馈哈 ～&lt;/p&gt;
-&lt;p&gt;官网在这里： &lt;a href="https://www.tapicker.com" rel="nofollow"&gt;https://www.tapicker.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;油管视频: &lt;a href="https://youtu.be/2tP8sjwGS3c?si=p3iVLLGNV9HZ5kSc" rel="nofollow"&gt;https://youtu.be/2tP8sjwGS3c?si=p3iVLLGNV9HZ5kSc&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:36:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023763#reply0</guid></item><item><title>[分享发现] Directory Opus 这个文件预览有点东西啊</title><link>https://www.v2ex.com/t/1023762#reply0</link><description>&lt;p&gt;文字，图片，视频都能直接在文件夹里面预览，而且加载速度还挺快。推荐各位大佬试试。&lt;/p&gt;
-&lt;p&gt;directory opus 目前为止唯一发现的一个 bug 就是和第三方输入法会冲突，导致 chrome 闪退，具体原因不详==&lt;/p&gt;
-&lt;p&gt;老哥们还有啥 windows 或者 ios 比较好用的工具都来推荐一手哇&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:31:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023762#reply0</guid></item><item><title>[Netflix] 尼日利亚 Netflix 招乘客 5 车位 33 元/季</title><link>https://www.v2ex.com/t/1023761#reply0</link><description>&lt;p&gt;翻车按比例退款，拉 TG 群，请联系 TG：&lt;a href="http://t.me/blakexu" rel="nofollow"&gt;t.me/blakexu&lt;/a&gt;
-如果是其它联系方式，请留言我会主动联系你的&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:26:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023761#reply0</guid></item><item><title>[宽带症候群] 广东内找大上行的宽带</title><link>https://www.v2ex.com/t/1023760#reply1</link><description>目前使用 cloudflare 的 zero trust 服务来让团队内的成员访问我在家中的服务器，而小仓库 100m 的带宽略显捉急所以需要一根上行足够的带宽来支撑正常访问。&lt;br /&gt;&lt;br /&gt;因为不需要公网 ip 所以目标放在“直播宽带”上，但是看了一圈站内已有的大多已经因为 pcdn 等原因下架，只看到几个关键词：联通极光商宽 300m 上行/智企 500m 上行&lt;br /&gt;恳请见多识广的 v2er 们给推荐推荐你们办到的便宜大上行带宽，300-500m 上行足矣。&lt;br /&gt;ps：（因为有好几个海外的小伙伴所有 zero trust 无论是易用性还是速度都是最佳选择，吹爆 cf ！）</description><pubDate>Thu, 14 Mar 2024 13:21:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023760#reply1</guid></item><item><title>[程序员] 今天去深圳东门看直播, 有几个设备不认识, 想请教谁知道</title><link>https://www.v2ex.com/t/1023758#reply0</link><description>&lt;p&gt;&lt;img alt="222222.png" class="embedded_image" rel="noreferrer" src="https://ossk.cc/file/7ea455ca72e73940d9461.png" /&gt;
-&lt;img alt="1.jpg" class="embedded_image" rel="noreferrer" src="https://ossk.cc/file/7bb3953e8fb934b622a37.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;A 有三个同样设备,然后通过网线连接在 B 设备上---&amp;gt; 电脑, 中控那小伙子说是聚合用的, 但我搜索了一番没找到, 各位谁知道这是干嘛的?&lt;/p&gt;
-&lt;p&gt;然后有个无线接收器, 看起来是和用手持稳定器上单反链接在一起的, 应该是个图文传输装置, 但具体是哪家哪款产片也一样不清楚,我感觉是类似影眸的 Nano 的无线图传设备.&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:10:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023758#reply0</guid></item><item><title>[Android] 小米手机如何禁止安装特定的应用？</title><link>https://www.v2ex.com/t/1023757#reply5</link><description>&lt;p&gt;老年人手机上老是会被安装奇怪的应用，有什么办法禁止安装特定的应用吗？&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:10:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023757#reply5</guid></item><item><title>[分享创造] 我是这样重构和优化组件的</title><link>https://www.v2ex.com/t/1023755#reply0</link><description>&lt;blockquote&gt;
-&lt;p&gt;AI 总结&lt;/p&gt;
-&lt;p&gt;这篇文章介绍了一个名为 vue-hook-optimizer 的工具，这个工具可以帮助优化 Vue 和 React 组件代码，通过分析代码使用情况以及链式调用、代码逻辑耦合等方面给出优化建议。作者认为，这个工具能帮助开发者更好地梳理和优化代码，从而提高代码质量。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;引言&lt;/h2&gt;
-&lt;p&gt;有时我们不得不重构旧代码，可能一个文件里有成百上千行的代码，太复杂难以理解。&lt;/p&gt;
-&lt;p&gt;这种场景想必大家都遇到过，特别是在工作中接受了一个新的项目，并且需要在此之上开发新的功能。如果新的功能比较简单，或者新功能较为独立，那么在旧代码的基础上编写代码的难度还是比较低的。但是如果我们的需求，需要在理解旧业务、梳理旧代码，并在旧代码的基础上增加或者修改功能，那么我们就不得不对旧代码进行重构或优化。&lt;/p&gt;
-&lt;p&gt;另一个场景是说，我们在开发新功能时，全身心投入在功能的开发下，而暂时忽略了代码的可读性和可维护性，这是非常正常且合理的。但是我们最好不要直接将这样的代码作为我们的成果，这是非常不负责任的表现。&lt;/p&gt;
-&lt;p&gt;所以我想开发一个工具来帮助我们分析代码，并找出变量和方法之间的关联关系。我们可以发现一些变量是孤立的，一些方法是过度关联的，然后我们可以重构它们。今天的文章将会主要围绕 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 来介绍一些我常用的优化代码的方式。注意，这里我们主要优化代码本身，针对性能的优化不在今天的讨论范围。如果大家感兴趣，我们后面可以再专门进行讨论。&lt;/p&gt;
-&lt;h2&gt;优化方案&lt;/h2&gt;
-&lt;h3&gt;工具介绍&lt;/h3&gt;
-&lt;p&gt;今天主要用到的工具 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 是我开发的专门针对 vue 和 react 组件的代码优化辅助工具，它使用 babel 分析组件的源码并生成 ast 语法树，收集信息并展示一定的优化建议。同时 vscode 作为我们日常的开发工具，也提供了强大的优化和重构能力。&lt;/p&gt;
-&lt;h3&gt;常见问题&lt;/h3&gt;
-&lt;h4&gt;优化无用代码&lt;/h4&gt;
-&lt;p&gt;如果我们的代码冗长，并且经过了多次的修改和维护，那么代码中很大程度上会出现冗余的内容，比如说未使用的变量和函数。这是常见的例子。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-vue"&gt;&amp;lt;script setup lang="ts"&amp;gt;
-const notUsedVar = getData()
-const usedVar = getData()
-&amp;lt;/script&amp;gt;
-&amp;lt;template&amp;gt;
-  &amp;lt;div&amp;gt; {{usedVar}} &amp;lt;/div&amp;gt;
-&amp;lt;/template&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在上面的代码中，&lt;code&gt;notUsedVar&lt;/code&gt;  变量其实是无效变量，因为它并没有在模板和其他方法中被使用。这个简单的示例是显而易见的。但是如果我们的代码非常冗长，代码的调用是复杂的，那么我们可能无法很快的找出未使用的变量或函数。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-vue"&gt;&amp;lt;script setup lang="ts"&amp;gt;
-
-function getData1() {
-  return new Person()
-}
-
-function getData2() {
-  return new Person()
-}
-
-const data1 = getData1()
-const data2 = getData2()
-
-const data3 = computed(() =&amp;gt; data1.value)
-
-&amp;lt;/script&amp;gt;
-&amp;lt;template&amp;gt;
-  &amp;lt;div&amp;gt; {{data2}} &amp;lt;/div&amp;gt;
-&amp;lt;/template&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在上面的代码中，模板只使用了 &lt;code&gt;data2&lt;/code&gt;  ，那么其实代码中只有 &lt;code&gt;data2&lt;/code&gt;  和 &lt;code&gt;getData2&lt;/code&gt;  是有效函数，其他的代码其实是无效的。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 支持分析组件中代码的使用情况，并给出优化的意见，比如针对上面的代码，就会生成下面这样的结果。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-56-46.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;h4&gt;无效的链式调用&lt;/h4&gt;
-&lt;p&gt;为了能够提高代码的可读性，我们一般会把较为独立和重复的部分抽象独立出来作为单独的模块，比较常见的做法比如我们会把 api 接口统一整理在一起，便于组件调用。这是一个非常好的思路，但是在编写代码的过程中，我们也可能会产生过多的无效的抽象，比如抽象的模块职责过于简单或过于复杂，或者代码的可复用性不强等。我们看一个简单的例子。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-vue"&gt;&amp;lt;script setup lang="ts"&amp;gt;
-
-const baseDate = new Person()
-
-function getData1() {
-  return baseDate
-}
-
-function getData2() {
-  return getData1()
-}
-
-const data2 = getData2()
-
-const date3 = computed(() =&amp;gt; data2)
-
-&amp;lt;/script&amp;gt;
-&amp;lt;template&amp;gt;
-  &amp;lt;div&amp;gt; {{date3}} &amp;lt;/div&amp;gt;
-&amp;lt;/template&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在这个例子中，getData2 和 getData1 其实做了无效的抽象，他们的职责过于简单，并且没有其他代码依赖这两个抽象，那么这两个函数其实是没有必要的。&lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 能够针对链式调用提供一定的优化建议。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-56-52.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;h4&gt;耦合的逻辑&lt;/h4&gt;
-&lt;p&gt;vue3 和 react 可以使用 composition-api 或者 hook 的范式进行代码的编写，这非常便于我们梳理代码的逻辑，并且更易于测试和复用。但是和 vue2 的 options api 不一样，代码允许放在一起就一定会存在代码耦合在一起的情况。这里给一个我工作中的例子给大家参考看下。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-56-57.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;p&gt;这是我在工作中经常遇到的情况，代码逻辑复杂并且耦合程度很高。比如在图中，左下角有几个独立的灰色节点，这说明这些代码并没有在模板或者方法中被使用；在右侧复杂的调用链里，也存在几个灰色的节点，这些是没有暴露到模板中的内容，在组件的代码中将他们屏蔽掉是更好的选择。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-57-02.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;p&gt;在建议中提示了几个节点为重要节点，说明它们是代码中的关键路径，这些节点报错或者异常可能会阻断代码的逻辑。优化这些节点能够提高整体的稳定性。&lt;/p&gt;
-&lt;p&gt;特别的，在 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 提供的建议中高亮了一个循环依赖。代码逻辑中 &lt;code&gt;refresh&lt;/code&gt;  方法会调用 &lt;code&gt;getList&lt;/code&gt;  获取数据并复制给 &lt;code&gt;searchDeptList&lt;/code&gt;  。但是同时 &lt;code&gt;searchDeptList&lt;/code&gt;  的变化会在 watch 中触发 &lt;code&gt;refresh&lt;/code&gt;  方法，这是非常危险的，需要做好边界情况的处理避免做成无限循环。&lt;/p&gt;
-&lt;p&gt;根据提供的建议，有 30 个节点的内容耦合度高，需要我们手动对代码进行优化。比如在这个例子中可以将耦合的代码划分为 处理筛选模块、获取数据模块、处理数据模块。vscode 提供很方便的重构代码的能力，比如支持 &lt;code&gt;重命名符号&lt;/code&gt; &lt;code&gt;重构到新文件&lt;/code&gt;  等能力。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-57-06.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;p&gt;这里再放一个代码逻辑比较清晰的情况下，&lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 提供的可视化图示。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://dubai-1254282834.cos.ap-nanjing.myqcloud.com/Snipaste_2024-03-14_20-57-11.png?imageMogr2/format/webp" /&gt;&lt;/p&gt;
-&lt;p&gt;在这张图中，代码的逻辑虽然比较复杂，但是整体上还是可以区分成两个大的模块的，这说明代码结果是清晰的、易懂、易于维护的。&lt;/p&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;p&gt;维护旧代码一直被认为是吃力不讨好的工作，就像是大家调侃时说的「代码和人有一个能跑就行」。但是我认为，一个富有责任心的开发者，是需要反复推敲业务逻辑，反复打磨自己手里的代码，找出其中的薄弱环节并有针对性地优化。这也是我开发 &lt;a href="https://github.com/zcf0508/vue-hook-optimizer" rel="nofollow"&gt;vue-hook-optimizer&lt;/a&gt; 的初衷，我希望能够帮助更多的人更好地梳理和优化自己手里的代码。&lt;/p&gt;
-&lt;p&gt;最后，如果你认同我的观点，那么不妨现在就打开 vscode 安装 &lt;a href="https://marketplace.visualstudio.com/items?itemName=zcf0508.vue-hook-optimizer-ext" rel="nofollow"&gt;扩展&lt;/a&gt; ，然后从第一个文件开始检查和优化吧。如果你有什么好的意见或建议，欢迎在评论区留言或到 github 去提 issues ，我都会尽快回复。&lt;/p&gt;
-&lt;p&gt;‍&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:04:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023755#reply0</guid></item><item><title>[酷工作] [北京&amp;重庆] 懂车帝 - 二手车业务 急招前端🔥🔥🔥</title><link>https://www.v2ex.com/t/1023754#reply0</link><description>&lt;h1&gt;我们的情况&lt;/h1&gt;
-&lt;p&gt;我们是字节跳动懂车帝业务的二手车前端研发团队。&lt;/p&gt;
-&lt;p&gt;作为二手车平台，我们坚持做三真车源（真车源、真车况、真车价），服务于用户的种草、信息、选车需求。当前我们无论是 DAU 还是商业化规模，都已达到二手车行业头部水平。同时，我们在积极探索交易领域，进军万亿级别的二手车交易行业，通过业内领先的检测、定价、数智化经营能力，以及创新的交易模式，驱动二手车行业快速向标准化、数字化、智能化方向发展。&lt;/p&gt;
-&lt;p&gt;目前，我们的业务正蓬勃发展，团队也在不断壮大。有大量的技术基础设施和核心能力等待你来建设，是你展现才华的绝佳舞台！我们团队有着浓厚的技术氛围，能为你提供广阔的成长空间。诚邀你加入我们，共同打造国内最大、最值得用户信赖的二手车综合平台！&lt;/p&gt;
-&lt;h1&gt;我们希望你&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;学历本科及以上，计算机基础扎实；&lt;/li&gt;
-&lt;li&gt;有扎实的前端基础，熟练掌握 Typescript ，CSS 等前端技术及相关标准规范；&lt;/li&gt;
-&lt;li&gt;对前端组件化框架应用 React 、业务组件库开发有一定的经验；&lt;/li&gt;
-&lt;li&gt;对网页性能和体验有极致的追求；&lt;/li&gt;
-&lt;li&gt;具备开放的交流心态，较强的责任心、学习能力、优秀的团队沟通与协作能力。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1&gt;怎么联系我&lt;/h1&gt;
-&lt;p&gt;简历请投递至 eXVodWFuemh1QGJ5dGVkYW5jZS5jb20= ，邮件备注 V2EX ，期待你的加入！&lt;/p&gt;
-&lt;p&gt;Base 地：我们在&lt;strong&gt;北京&amp;amp;重庆&lt;/strong&gt;都有岗位，不管是想来北京发展，想要进入国内头部互联网公司的同学 还是家在重庆，想要回老家发展的同学都可以联系我们。&lt;/p&gt;
-&lt;p&gt;如果有任何疑问想要交流，欢迎➕WX：&lt;strong&gt;YnVrYXN5&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 13:04:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023754#reply0</guid></item><item><title>[分享发现] 整了一个单一文件的图床.</title><link>https://www.v2ex.com/t/1023753#reply1</link><description>&lt;h2&gt;单一文件 workers 图床.直接 copy all to  workers 就可以了&lt;/h2&gt;
-&lt;h3&gt;if startswith  upload or file  跳转到 tg 官方地址. 实现 api 苹果捷径上传.&lt;/h3&gt;
-&lt;h3&gt;其它情况,可以二选一, 可以跳转到你的网址, 或默认.&lt;/h3&gt;
-&lt;h2&gt;&lt;a href="https://github.com/goldeye0351/cf-tg-image" rel="nofollow"&gt;https://github.com/goldeye0351/cf-tg-image&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;===&lt;/p&gt;
+&lt;p&gt;部分用过的机子：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;第一种界面
-&lt;img alt="界面" class="embedded_image" rel="noreferrer" src="https://pichub.51xmi.com/file/31c49357111e7830858cb.png" /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;打开 cloudflare CF 网站, &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;点左面的 workers and pages. 创建应用程序 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;创建 workers, 名称处改一个好记的, 占右下角的部署 &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;编辑代码 直接替换&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;设置 触发器, 增加一个自定义域, 再把 87,93,122,124 行 改成你的自定义域名 就可以了&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;136 行可以二选一&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;第二种直接转到你自己的网页界面
-&lt;img alt="第二种界面" class="embedded_image" rel="noreferrer" src="https://pichub.51xmi.com/file/fc4416675856c796fdbd1.png" /&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 14 Mar 2024 12:52:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023753#reply1</guid></item><item><title>[分享发现] AI 程序员 Devin 诞生 能够独立从 0 构建网站并 Debug</title><link>https://www.v2ex.com/t/1023752#reply0</link><description>&lt;p&gt;转&lt;/p&gt;
-&lt;p&gt;3 月 13 日，人工智能初创公司 Cognition AI 发布首个 AI 工具「 Devin 」。该 AI 号称掌握编程工作的全栈技能，可以独立完成整个项目的软件开发。相比曾经辅助程序员编码的 AI 工具「 Copilot 」，Devin 具有独立驾驭整个编程项目的能力，更接近一个人类程序员。&lt;/p&gt;
-&lt;p&gt;Perplexity CEO 评价 Devin ，称它所展示的 Demo 意味着业内第一个真正的 Agent 诞生。言下之意是这个产品开始具备推理和规划能力。Devin 目前只提供私人预览版，尚未向公众开放。&lt;/p&gt;
-&lt;p&gt;如何使用 Devin 以及它表现如何？&lt;/p&gt;
-&lt;p&gt;作为一个软件开发工具，Devin 号称能够在接收到具体任务指令后，自主完成整个项目的开发。目前，Devin 不仅会构建和部署端到端的应用程序、自行查找并修复代码库错误，还可以训练和微调 AI 模型，并修复开源代码库中的错误。&lt;/p&gt;
-&lt;p&gt;与人类软件开发者的工作方式相似，用户只需要通过聊天对话框提出需求，Devin 便能够基于需求规划出解决方案，并运用其集成的开发工具，编写代码、定位并修复漏洞、执行测试，同时实时向用户报告项目进展。例如，在收到建立一个展示某区域全部餐馆的网站任务时，Devin 可以自动搜索和收集数据，随后构建并上线该网站。&lt;/p&gt;
-&lt;p&gt;f46f483d6f504deaa79849038780023a_1080x57
-在 SWE 基准测试中，Devin 能够端到端地正确解决 13.86%的案例，相比之下，Claude 2 和 GPT-4 分别只能处理 4.80%和 1.74%的问题。SWE 测试使用来自现实世界开源项目的 GitHub 问题来挑战人工智能助手。&lt;/p&gt;
-&lt;p&gt;其他 AI 工具只能辅助编码，Devi 的突破在于可以自动完成整个项目&lt;/p&gt;
-&lt;p&gt;AI 技术在软件开发行业已非初见，多种工具如 GitHub Copilot 、StarCoder 以及在 Hugging Face 上拥有若干小型 AI 编码模型的 Replit ，以及最近获得 6500 万美元 B 轮融资的 Codeium 等早已广泛应用。这些工具主要侧重于 AI 辅助编码，它们的功能局限于提供编码建议、生成基本代码或帮助解决特定编程问题。&lt;/p&gt;
-&lt;p&gt;Devin 则更类似一个 AI 软件工程师，可以独立承担和完成整个软件开发项目。不过，同样依赖于训练数据来学习的 Devin 在理解和解决特别复杂或非标准化问题上能力有限，比如对于一些少见的问题，它可能无法找到最优解决方案，也无法完全模拟人类软件工程师的创造性思维。&lt;/p&gt;
-&lt;p&gt;Cognition AI 由 Scott Wu 、Steven Hao 、WaldenYan 联合创立，都是 IOI 金牌得主&lt;/p&gt;
-&lt;p&gt;Scott Wu：联合创始人兼 CEO （首席执行官），毕业于哈佛大学，曾获得过美国三届奥赛金牌，并曾是 Lunchclub 的联合创始人兼 CTO ，为 2012 年至 2014 年连续 3 年的 IOI （ International Olympiad in Informatics ，国际信息学奥林匹克竞赛）金奖得主，IOI 是面向中学生的信息学科竞赛，一年举行一次。&lt;/p&gt;
-&lt;p&gt;Steven Hao：联合创始人兼 CTO （首席技术官），毕业于 MIT 计算机专业，之前曾在 Scale AI 、Jane Street 、DE Shaw 、Quora 工作，为 2014 年第 32 届 IOI 金牌得主；&lt;/p&gt;
-&lt;p&gt;WaldenYan：联合创始人兼 CPO （首席产品官），毕业于哈佛大学计算机科学和经济学相关专业，曾从事 MIT PRIMES 密码学和机器学习方向的计算机科学研究，为 2020 年第 32 届 IOI 金牌得主。&lt;/p&gt;
-&lt;p&gt;Cognition AI 成立时间不足两个月，专注解决人工智能的推理问题&lt;/p&gt;
-&lt;p&gt;Cognition AI 没有透露产品细节，也没有透露 Devin 构建在什么样的模型上，是自研还是基于 GPT 之类的第三方模型。不过，Cognition 称这项工作是其「长期推理和规划方面的进步」的结果。基于推理和规划能力，Cognition 表示「编码只是开始」，未来，该公司还将在其他垂直行业开发类似的 AI 工具。&lt;/p&gt;
-&lt;p&gt;Cognition AI 公司总共 10 人，目前没有固定办公室——他们散落在硅谷和纽约之间的 Airbnb 以及家庭办公室中工作。虽然成立时间不长，但该公司已获得 2100 万美元 A 轮融资，投资者包括 Founders Fund 和 Twitter （现「 X 」）前高管 Elad Gil 等。&lt;/p&gt;
-&lt;p&gt;参考链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.cognition-labs.com/blog" rel="nofollow"&gt;https://www.cognition-labs.com/blog&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 12:46:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023752#reply0</guid></item><item><title>[问与答] 这个网页（新华社的一篇新闻）在 iOS Safari 上打开后会反复弹出对话框「此表格不安全」，无论用户点按哪个按钮，也没有禁止继续弹出的按钮</title><link>https://www.v2ex.com/t/1023750#reply1</link><description>&lt;p&gt;&lt;a href="https://sports.xinhuanet.com/20240310/01150075cd4f432f8313b639a3b6900c/c.html" rel="nofollow"&gt;https://sports.xinhuanet.com/20240310/01150075cd4f432f8313b639a3b6900c/c.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 12:44:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023750#reply1</guid></item><item><title>[Windows] clonezilla 备份的 win7 系统分区还原到别的设备上为什么不能启动</title><link>https://www.v2ex.com/t/1023748#reply0</link><description>&lt;p&gt;备份后和恢复前都校验了&lt;br /&gt;
-恢复后，启动电脑就一个横线光标闪，似乎引导有问题，但是修复了引导也不行&lt;/p&gt;</description><pubDate>Thu, 14 Mar 2024 12:38:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023748#reply0</guid></item></channel></rss>
+&lt;li&gt;Nexus 5 ，时代的眼泪，不提了&lt;/li&gt;
+&lt;li&gt;一加 6 ，设备本身挺好的，但是被激进的后台机制搞得有点难受，经常在非预期的时候杀掉进程&lt;/li&gt;
+&lt;li&gt;Pixel 6 ，现在的主力机，机子是好机子，但是摔脑震荡了，修好之后也还是有点后遗症，所以打算换了。另外就是多少还有点水土不服，例如不能打电话的同时用流量等&lt;/li&gt;
+&lt;li&gt;OPPO K10 ，廉价过渡机，和一加 6 有一样的问题，另外就是买之前没有调研不知道它没法解锁折腾，用了一年还是换回了脑震荡机&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 15 Mar 2024 02:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023856#reply0</guid></item><item><title>[程序员] mac 和 win 双持的开发，怎么解决 JetBrains IDE 的键位不一致的问题</title><link>https://www.v2ex.com/t/1023855#reply4</link><description>&lt;p&gt;感觉记两个键位很麻烦，不知道有没有什么办法让 windows 和 mac 的键位弄成一致的&lt;/p&gt;
+&lt;p&gt;虽然 win 和 mac 的键盘不一样，比如 mac 有 option 但是没 alt ，但是感觉敲键盘的时候也不会去看键盘，只是记得&lt;strong&gt;键的空间位置&lt;/strong&gt;，比如 X 键的下方，win 是 alt ，mac 是 command&lt;/p&gt;
+&lt;p&gt;也就是说，有没有办法把一个 IDE action 设置成 win 和 mac 能够按同一个位置的键就能执行？&lt;/p&gt;
+&lt;p&gt;我目前采取的做法是用 power tools 把 win 的 alt 键改成 ctrl ，但这只能解决部分问题，比如复制粘贴，都是按 X 下方的键（ win 是 alt, mac 是 command)+C/V 。但是还有很多地方不方便&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:14:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023855#reply4</guid></item><item><title>[Android] AndroidStudio run app 代码不生效？</title><link>https://www.v2ex.com/t/1023854#reply0</link><description>&lt;p&gt;AndroidStudio run app 代码不生效，手机是华为，刚更新的 HarmoyOS 4.0.0.200.测试过小米手机是没问题的，奇了怪了，有没有大佬知道这是怎么回事呀？&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:11:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023854#reply0</guid></item><item><title>[问与答] 家用投影仪有什么推荐</title><link>https://www.v2ex.com/t/1023853#reply6</link><description>想买个投影仪，预算价位 1000 以内，性价比高点，投影效果好些即可。有什么推荐</description><pubDate>Fri, 15 Mar 2024 02:10:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023853#reply6</guid></item><item><title>[问与答] 8000 以内笔记本求推荐</title><link>https://www.v2ex.com/t/1023852#reply7</link><description>&lt;p&gt;妹纸用 不要苹果本 日常办公+视频剪辑使用&lt;/p&gt;</description><pubDate>Fri, 15 Mar 2024 02:08:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023852#reply7</guid></item><item><title>[分享发现] perplexity.ai 作为浏览器搜索引擎的参数</title><link>https://www.v2ex.com/t/1023851#reply0</link><description>搜索 `&lt;a href="https://www.perplexity.ai/search?q=%s&amp;amp;copilot=false&amp;amp;s=d" rel="nofollow noopener" target="_blank"&gt;https://www.perplexity.ai/search?q=%s&amp;amp;copilot=false&amp;amp;s=d&lt;/a&gt;`&lt;br /&gt;建议 `&lt;a href="https://www.perplexity.ai/suggest?q=%s&amp;amp;copilot=false&amp;amp;s=d" rel="nofollow noopener" target="_blank"&gt;https://www.perplexity.ai/suggest?q=%s&amp;amp;copilot=false&amp;amp;s=d&lt;/a&gt;`&lt;br /&gt;我的浏览器搜索引擎又多了一个</description><pubDate>Fri, 15 Mar 2024 02:08:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023851#reply0</guid></item><item><title>[硬件] 副屏用个便携显示器还是正统显示器</title><link>https://www.v2ex.com/t/1023850#reply7</link><description>RT ，哪种会更实用点...</description><pubDate>Fri, 15 Mar 2024 02:08:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023850#reply7</guid></item><item><title>[问与答] 3 月 14 日， SpaceX 星舰第三次飞行任务，对人类的意义在哪？</title><link>https://www.v2ex.com/t/1023848#reply5</link><description>[财新网] “星舰”第三飞迎来历史性的成功。美国中部时间 3 月 14 日 8 时 25 分（北京时间 21 时 25 分）左右，最强火箭“星舰”在美国德克萨斯州顺利发射，并完成多项第三次飞行测试的既定目标。发射约 15 分钟后，SpaceX 的创始人埃隆·马斯克就送上祝贺，“‘星舰’达到轨道速度！恭喜 SpaceX 团队！”&lt;br /&gt;不过，发射约 50 分钟后，“星舰”在重入大气层之后就与地面失去了联系，可能意味着它已解体。“我们已经失去了飞船。”SpaceX 的丹·霍特 （ Dan Huot ）在直播中表示，“今天没有溅落，但再次看到这次我们取得了多么大的进展，真是难以置信。”&lt;br /&gt;&lt;br /&gt;是不是可以这样说，发射、飞行成功了，但回收过程还是失败了？</description><pubDate>Fri, 15 Mar 2024 02:07:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023848#reply5</guid></item><item><title>[问与答] 同求各位老哥关于学历提升问题解法</title><link>https://www.v2ex.com/t/1023846#reply3</link><description>看到旁边老哥提问了学历提升问题&lt;br /&gt;遂来复读机一下&lt;br /&gt;base 国企 ，身边都是硕博，一个本科菜鸡迫于压力想要提升学历&lt;br /&gt;请问各位老哥大神有没有什么好的建议和途径可以&lt;br /&gt;优雅的提升一下学历&lt;br /&gt;最好可以无痛提升&lt;br /&gt;感谢</description><pubDate>Fri, 15 Mar 2024 02:04:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023846#reply3</guid></item><item><title>[iPhone] 你们 iPhone 备忘录的搜索功能正常吗？</title><link>https://www.v2ex.com/t/1023844#reply2</link><description>平时用 iPhone 备忘录非常多，主要是用来快速记录一些信息，但是今天想搜索原来写下的一段信息。搜索了关键词，然而最佳搜索结果竟然是关键词中一个字的搜索结果，完整包含关键词的搜索结果竟然还在下面的下面。&lt;br /&gt;   然后我又故意试了另外一个肯定有的关键词，依然找不到最准确的结果，只有关键词每个字拆散的一些搜索结果。最后我从备忘录里一条一条翻，终于找到了包含这个关键词的信息，打开，再回搜索框里搜索这个关键词，奇了，能搜到了，而且排第一条。&lt;br /&gt;   不知大家有没有遇到，是不是得寻找 iphone 备忘录替代品了？</description><pubDate>Fri, 15 Mar 2024 01:55:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023844#reply2</guid></item><item><title>[职场话题] 其实大公司的裁员，看似人员在流动，其实没有</title><link>https://www.v2ex.com/t/1023842#reply5</link><description>总会招一些替身来裁，裁员目的其实要裁掉老油条才能换新血。</description><pubDate>Fri, 15 Mar 2024 01:53:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023842#reply5</guid></item><item><title>[问与答] 如果语料库是资源，掌握用户聊天信息的微信会拿这些去炼丹吗</title><link>https://www.v2ex.com/t/1023841#reply7</link><description>假设训练成一个聊天型的 ai 而不是科普知识类的</description><pubDate>Fri, 15 Mar 2024 01:52:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1023841#reply7</guid></item></channel></rss>
