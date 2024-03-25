@@ -1,51 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 23 Mar 2024 16:35:16 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 关于网站收款方式和风险</title><link>https://www.v2ex.com/t/1026419#reply0</link><description>个人想做一个卖课程的网站，准备注册公司，在考虑收款方式和风险的事情，以下几个问题，求解。(涉及微信和支付宝支付)&lt;br /&gt;1.个人收款还是公司收款，如果公司收款后，转给个人，这个后期有税务风险吗？&lt;br /&gt;2.对接支付宝和微信收款，对主体有要求吗？好像微信必须是个体工商户或公司？&lt;br /&gt;3.网站是否要办理电信经营许可证</description><pubDate>Sat, 23 Mar 2024 16:32:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026419#reply0</guid></item><item><title>[程序员] 为什么除了 lua，数组索引基本都从 0 开始？很反人类的设计，很容易写出 bug</title><link>https://www.v2ex.com/t/1026418#reply3</link><description></description><pubDate>Sat, 23 Mar 2024 16:20:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026418#reply3</guid></item><item><title>[Apple] iPhone ， iPad 等设备越狱后，还可以登陆自用的大号 icloud 吗？会变得不安全吗？</title><link>https://www.v2ex.com/t/1026417#reply0</link><description></description><pubDate>Sat, 23 Mar 2024 15:51:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026417#reply0</guid></item><item><title>[程序员] 由于公司上班时间掐掉了各大音视频平台的流量，转听 AI 生成音乐</title><link>https://www.v2ex.com/t/1026416#reply6</link><description>这个月用流量听 Apple Music 已经耗费了我十几个 G 流量，无奈找没被公司封禁还能听音乐的地方&lt;br /&gt;&lt;a href="https://app.suno.ai/" rel="nofollow noopener" target="_blank"&gt;https://app.suno.ai/&lt;/a&gt;&lt;br /&gt;是一个 AI 生成音乐的网站，里面很多音乐还不错，优于某些口水芭乐，分享给有需要听音乐工作的小伙伴</description><pubDate>Sat, 23 Mar 2024 15:44:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026416#reply6</guid></item><item><title>[问与答] 公司故意针对我个人给我五天八小时不给加班，合法吗</title><link>https://www.v2ex.com/t/1026414#reply19</link><description></description><pubDate>Sat, 23 Mar 2024 15:36:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026414#reply19</guid></item><item><title>[问与答] 在 Cloudflare 新注册域名， DNS 解析刚生效就有来自 Tor 的流量访问？</title><link>https://www.v2ex.com/t/1026413#reply2</link><description>&lt;p&gt;这是被扫了吗，com 域名，曾经被人注册过
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/H8iNAmJ.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 15:35:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026413#reply2</guid></item><item><title>[OpenAI] gpt4 正版账号开通质保</title><link>https://www.v2ex.com/t/1026412#reply0</link><description>接近成本价出的 gpt plus 账号质保一个月，不需要的略过(轻喷)&lt;br /&gt;诚信经营添加备注 v 友&lt;br /&gt;&lt;a href="http://p1.meituan.net/dptrust/45952ee87c9842e0fc15266c76afd2b154557.png" rel="nofollow noopener" target="_blank"&gt;http://p1.meituan.net/dptrust/45952ee87c9842e0fc15266c76afd2b154557.png&lt;/a&gt;</description><pubDate>Sat, 23 Mar 2024 15:33:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026412#reply0</guid></item><item><title>[宽带症候群] 日本/香港目前提供的万兆上下对等宽带同国内目前新兴万兆有什么区别？</title><link>https://www.v2ex.com/t/1026410#reply4</link><description>&lt;p&gt;留意国际宽带的网友都应该知道日本/香港目前提供的万兆上下对等宽带早在几年前就已经应用推广了。那么现在 2024 年上海中国电信在杨浦区开放示范的万兆宽带在技术指标上和国际先行者有什么区别吗？上海中国电信声称全球首家 50G-PON 的应用，那国外先行用的是什么技术，国外可以做到上下对等。目前国内的万兆只提供千兆上行，还存在达量限速的政策。之前 v2 不是说国内的技术，上行 30M 是寿命和性价比的选择？现在万兆上行可达千兆，还是那句话国内的宽带上行是拿来按斤卖的？&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 15:14:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026410#reply4</guid></item><item><title>[问与答] 弄个第二学位去考公怎么样？</title><link>https://www.v2ex.com/t/1026409#reply0</link><description>op 末流 211 本科毕业 5 年，考公的话专业只能报三不限岗位，想去弄一个第二学位比如汉语言，法学这种去考公不知道靠谱吗？</description><pubDate>Sat, 23 Mar 2024 15:13:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026409#reply0</guid></item><item><title>[macOS] WallpaperVideoExtension 怎么永久干掉这个进程</title><link>https://www.v2ex.com/t/1026408#reply0</link><description>&lt;p&gt;没有用动态壁纸，这个进程一直自启，开机越久占用内存越多，要崩溃了&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 15:12:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026408#reply0</guid></item><item><title>[程序员] 有必要手动配 IDEA 的项目结构文件（iml 和.idea)吗？是不是用 Maven 就可以生成 IDEA 项目结构了</title><link>https://www.v2ex.com/t/1026407#reply2</link><description>&lt;p&gt;有个已有的大型 Java 多模块项目，原来既不是 Maven 也不是 IDEA 。现在改用 IDEA 进行开发，是配 IDEA 的项目结构，还是直接 Maven 配好，IDEA 按照 pom 文件导入？&lt;/p&gt;
-&lt;p&gt;想请教以下问题：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 25 Mar 2024 09:55:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 求助，开发流程问题</title><link>https://www.v2ex.com/t/1026882#reply0</link><description>&lt;p&gt;1&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:53:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026882#reply0</guid></item><item><title>[问与答] 求无线耳机推荐，安卓机使用.</title><link>https://www.v2ex.com/t/1026881#reply0</link><description>&lt;p&gt;手机安卓，在用 AirPodsPro1 代(2020 购买).目前右耳电流噪音太大了,稍微震动就会有电流噪声,基本不能用了.
+核心诉求降噪,毕竟世界太吵闹, 其次音质.
+1.直接换个右耳机,250RMB 左右;
+2.换 AirPodsPro 二代;
+3.其他品牌推荐,1K 左右？(没使用过其他品牌，不想踩雷，起码能对标 AirPodsPro1 代吧...);
+4.大佬们随便聊;&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:52:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026881#reply0</guid></item><item><title>[职场话题] 那些年遇到的打工人（六）</title><link>https://www.v2ex.com/t/1026880#reply0</link><description>&lt;p&gt;我想，如果公司举办一个“坐禅赛”，统计每个人坐在位子上的时间，时长多者胜出，那么，我这位同事绝对能与第二名拉开老大一截，毫无悬念地夺冠。因为他就坐我旁边那排，每天抬头不见低头见，以至于那段时间我对他的印象就是：一直坐着，一直盯着屏幕，一直在敲键盘，连上厕所的次数都极其稀少。&lt;/p&gt;
+&lt;p&gt;在高强度压榨自己的前提下，很快新站便上线了。在运营了一段时间后，效果并没有如他所愿达到预期，流量还是全在老站上。期间他又陆续接了软文，也办公关需求，但是加一块儿也没上回那一单钱多。另外，除了工作焦头烂额、新站没日没夜的操劳以外，部分用户对老站的意见也很大：怎么评论要审核这么久？为什么我的文章无缘无故被删了？为什么我不能修改自己的内容？&lt;/p&gt;
+&lt;p&gt;这让他十分焦躁。&lt;/p&gt;
+&lt;p&gt;我前面提到过一个合规部的法律同事，他俩都是江苏人，两个老乡走得比较近，经常一起吃饭聊天。有一次他感慨道：要是有个没风险、来钱多、又快、人还不累的副业就好了。&lt;/p&gt;
+&lt;p&gt;在现实中，如果有谁说出这种想法，一般人反应肯定是：洗洗睡，梦里都会有！&lt;/p&gt;
+&lt;p&gt;但这位法律同事，并不是一般人。他点了点头，说：找找看，会有的！&lt;/p&gt;
+&lt;p&gt;要不说机会总是留给有准备的人呢？这种好事，真就让他俩给找到了！当后来的我听他们说起这段经历时，我震惊之余，全是咬牙切齿——&lt;/p&gt;
+&lt;p&gt;这样的好事，居然他妈的没带我？&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:50:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026880#reply0</guid></item><item><title>[Flutter] 请教个单元测试的问题</title><link>https://www.v2ex.com/t/1026879#reply0</link><description>&lt;p&gt;最近在学 flutter 的单元测试，目前在跟着官方文档
+&lt;a href="https://codelabs.developers.google.com/codelabs/flutter-app-testing" rel="nofollow"&gt;https://codelabs.developers.google.com/codelabs/flutter-app-testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;但是今天有个问题，就是在 favorites_test 的时候，如果我把下面文件的 &lt;strong&gt;第 24 行&lt;/strong&gt; for 循环里的 &lt;strong&gt;i+=2&lt;/strong&gt; 变成 &lt;strong&gt;i++&lt;/strong&gt;, 就会测试失败&lt;/p&gt;
+&lt;p&gt;官方的项目在 &lt;a href="https://github.com/flutter/codelabs/blob/main/testing_codelab/step_07/test/favorites_test.dart" rel="nofollow"&gt;https://github.com/flutter/codelabs/blob/main/testing_codelab/step_07/test/favorites_test.dart&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;不清楚什么原因，找到 flutter dev 的官方 discord 询问也没得到解答。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:48:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026879#reply0</guid></item><item><title>[问与答] 大佬们，现在哪家的 AI 配音比较有感情？（英文）</title><link>https://www.v2ex.com/t/1026878#reply0</link><description>&lt;p&gt;需要配个宣传片视频&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:46:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026878#reply0</guid></item><item><title>[问与答] V 友们，你们股票的数据从哪里获取</title><link>https://www.v2ex.com/t/1026876#reply0</link><description>&lt;p&gt;RT 。打算手撸个人交易策略，基础数据是 K 线的前提。要求 1 分钟级最好。5 分钟 tdx 有提供。数据范围越新越好，最好是当天或者前天的。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;用 Maven 比用 IDEA 进行项目管理有什么优势吗？&lt;/li&gt;
+&lt;li&gt;tdx ？有现成的包或者，数据源（带解释的）&lt;/li&gt;
+&lt;li&gt;直接从 quota 的网站提取？人家数据范围只有 16-19 年&lt;/li&gt;
+&lt;li&gt;其他补充&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我能想到的一点就是用 Maven 管理项目，可以不用和 IDE 绑定。以后如果不用 IDEA 了，也可以直接迁移到别的 IDE 。&lt;/p&gt;
+&lt;p&gt;在此先谢。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:44:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026876#reply0</guid></item><item><title>[问与答] 抉择：再卷两年还是润老家</title><link>https://www.v2ex.com/t/1026875#reply4</link><description>选择一：杭州恒生系公司 20k  奖金未知&lt;br /&gt;选择二：老家长春医疗器械创新产业公司 12k 全额五险一金，外加平均 4 个月年终奖。&lt;br /&gt;&lt;br /&gt;行情太差了，非大厂背景，就这两个选择了。&lt;br /&gt;在杭州干了 5 年了，也干够了，也卷不动了，95 年的，想稳定安家结婚买房子，而且心态也和刚毕业的几年不一样了，不想一个人外地漂泊了。程序员只是缓兵之计了， 还是考编吧。&lt;br /&gt;家是长春农村，长春房子借点钱，家里支持些，应该压力不大了。&lt;br /&gt;只是现在想再在杭州挣两年钱，降低一下房子压力，还是回家工作，不管咋地，肯定比杭州轻松吧，然后边考公和编。&lt;br /&gt;因为毕竟收入 一个月差 8k ，详细算过，在杭州和长春一年 收入差 7w+，挣钱太难了 这 7w 差距可也不小，买房子和结婚用钱的地方多着呢。&lt;br /&gt;求过来的人，指点一下经验，只是为了钱在杭州再待两年值不值，待的话也最多待 2 年也得离开的，回家就图个安慰，租房子也离家近，不那么孤独，然后舒服的往编制上用用力。</description><pubDate>Mon, 25 Mar 2024 09:38:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026875#reply4</guid></item><item><title>[Python] 浏览器里运行 Python</title><link>https://www.v2ex.com/t/1026874#reply0</link><description>&lt;p&gt;打算写一个在线二维码生成器，能直接在浏览器里生成的。但比较好的支持二维码的 structured append 等各种模式的库不多，只找到 Python 的 segno 这个库。&lt;/p&gt;
+&lt;p&gt;后来找到 pyodide 这个项目，可以用 wasm 在浏览器里提供一个 python 环境，还能直接用 pip 安装第三方包。试了下效果还可以。&lt;/p&gt;
+&lt;p&gt;大家可以访问这个 demo 试试效果： &lt;a href="https://tony-xlh.github.io/online-qr-code-generator/" rel="nofollow"&gt;https://tony-xlh.github.io/online-qr-code-generator/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;与其他在线二维码生成器不同的是，它可以直接将文件以字节模式编码、可以指定文本编码、并支持结构化追加模式。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:36:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026874#reply0</guid></item><item><title>[问与答] 公司买的保险可以报销医保个账支付的部分，个人哪里可以买到？</title><link>https://www.v2ex.com/t/1026870#reply6</link><description>&lt;p&gt;公司给所有自有员工都购买了一份商业保险，是中国人寿的（只知道在人寿的公众号报销）&lt;/p&gt;
+&lt;p&gt;感觉非常好。&lt;/p&gt;
+&lt;p&gt;主要是可以 ** [全额报销]  [门诊费用医保个人账户支出的全部费用] **&lt;/p&gt;
+&lt;p&gt;自己用了两年，体验也非常好，基本流程就是&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Maven 的 pom 映射到 IDEA 的项目定义，会有信息丢失吗？&lt;/li&gt;
+&lt;li&gt;去医院看病（门诊，我没有住院过，不知道住院的流程）&lt;/li&gt;
+&lt;li&gt;公众号在线上传病例和发票&lt;/li&gt;
+&lt;li&gt;第二天打钱&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;也就是说，maven 管理项目的表达能力是不是超过了 IDEA 的？&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 15:02:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026407#reply2</guid></item><item><title>[买买买] 如何从亚马逊 JP 上删选出日本本土生产的产品呢，比如耳机</title><link>https://www.v2ex.com/t/1026406#reply0</link><description>&lt;p&gt;在亚马逊网站上也没看到检索生产地的条件。哪些知道吗？或者其他方式能了解到日本本地生产的。&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 14:48:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026406#reply0</guid></item><item><title>[问与答] BackBlaze 随机路径请求 404 到底会不会被收费？</title><link>https://www.v2ex.com/t/1026405#reply0</link><description>B2 储存费用 1T6 刀每月，没有低消，在 S3 云储存里面基本算最便宜了&lt;br /&gt;&lt;br /&gt;现在还有 3 倍储存的流量免费，套 CF 流量全免&lt;br /&gt;&lt;br /&gt;就是总是听到别人说被刷请求&lt;br /&gt;&lt;br /&gt;但自己测试好像随机路径请求返回 404 是不计算到 B 类限额里面的，有没有懂的说说&lt;br /&gt;&lt;br /&gt;测试链接&lt;br /&gt;&lt;br /&gt;&lt;a href="https://s1.du0.org/img/2024/03/23/93f55326febf26ffd79fef097eb08625.jpeg" rel="nofollow noopener" target="_blank"&gt;https://s1.du0.org/img/2024/03/23/93f55326febf26ffd79fef097eb08625.jpeg&lt;/a&gt;</description><pubDate>Sat, 23 Mar 2024 14:44:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026405#reply0</guid></item><item><title>[微信] 微信最终能在鸿蒙 next 上常驻后台吗？</title><link>https://www.v2ex.com/t/1026404#reply0</link><description>在安卓上有白名单。&lt;br /&gt;在 iOS 不知道有没有黑科技？&lt;br /&gt;&lt;br /&gt;听说华为在和腾讯谈判陷入僵局。</description><pubDate>Sat, 23 Mar 2024 14:44:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026404#reply0</guid></item><item><title>[Apple] 如何阻止 ios 内置输入法读取通讯录</title><link>https://www.v2ex.com/t/1026403#reply0</link><description>&lt;p&gt;经常打字出现通讯录的内容，有时候明明按的不是那几个按键，也是通讯录的候选词给你放前面，或者组成非常奇怪的词，经常打字，很耽误时间。正常的办法肯定是不能，刚刚在巨魔 Filza 文件管理里，var mobile Library 里翻了半天也没发现蛛丝马迹，大家有什么好办法吗&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 14:26:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026403#reply0</guid></item><item><title>[问与答] 阿里云盘看视频标清很糊，似乎之前不这样，是我的错觉吗？</title><link>https://www.v2ex.com/t/1026402#reply4</link><description>&lt;p&gt;如题，各位是否也有这个感觉。
-&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://dropovercl-t.s3.amazonaws.com/02f37233-d8bb-4fd5-bb46-7c4c1ffdea7e/e50870c7-a5b4-4651-959b-d3afe0f91076/large/a1765e20-ad18-4ae6-a513-81f8e994c9ac.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 14:20:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026402#reply4</guid></item><item><title>[程序员] 总弹窗已达到 Colab 的使用量限额，是不是就无法运行部署的程序了</title><link>https://www.v2ex.com/t/1026400#reply0</link><description>即使是再次连接上，一运行某个程序，短时间内就又被弹窗了&lt;br /&gt;github 的项目还有其它免费运行的云吗</description><pubDate>Sat, 23 Mar 2024 14:07:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026400#reply0</guid></item><item><title>[问与答] 大家当地的运营商支持 IPV6 公网吗？</title><link>https://www.v2ex.com/t/1026399#reply10</link><description>&lt;p&gt;RT ，支持吗？如果不支持，大家是用什么办法让他支持的？（包括但不限于投诉...）&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 13:49:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026399#reply10</guid></item><item><title>[Python] Python 潮流周刊第 43 期（摘要），赠书 5 本《 Python 数据结构与算法分析（第 3 版）》</title><link>https://www.v2ex.com/t/1026398#reply1</link><description>&lt;p&gt;本周刊由 Python 猫 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。&lt;/p&gt;
-&lt;p&gt;周刊全文： &lt;a href="https://pythoncat.top/posts/2024-03-23-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2024-03-23-weekly&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;特别提醒：本期赠书 5 本《 Python 数据结构与算法分析（第 3 版）》，参与方式见原文。&lt;/p&gt;
-&lt;p&gt;以下是本期摘要： &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🦄文章&amp;amp;教程&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;① 我的开源优先级转变了&lt;/p&gt;
-&lt;p&gt;② 如何远程唤醒家里的电脑？&lt;/p&gt;
-&lt;p&gt;③ Python 程序的内存占用情况&lt;/p&gt;
-&lt;p&gt;④ 正则表达式字符“$”并不意味着“字符串末尾”&lt;/p&gt;
-&lt;p&gt;⑤ 介绍 Python 中所有的双下方法&lt;/p&gt;
-&lt;p&gt;⑥ Python 多语言支持实现国际化与本地化的最佳实践&lt;/p&gt;
-&lt;p&gt;⑦ 在 Windows 上利用 Qwen 大模型搭建一个 ChatGPT 式的问答小助手&lt;/p&gt;
-&lt;p&gt;⑧ (如何(用 Python)开发一个(Lisp)解释器)&lt;/p&gt;
-&lt;p&gt;⑨ 使用 Python 解析 URL&lt;/p&gt;
-&lt;p&gt;⑩ Python 鸭子类型：编写灵活且解耦的代码&lt;/p&gt;
-&lt;p&gt;⑪ 用 Python 实现最小可用的 PostgreSQL&lt;/p&gt;
-&lt;p&gt;⑫ 给框架开发者的建议&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🐿️项目&amp;amp;资源&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;① grok-1：马斯克开源的 Grok&lt;/p&gt;
-&lt;p&gt;② DarkGPT：基于 GPT-4-200K ，查询泄露的数据库&lt;/p&gt;
-&lt;p&gt;③ structlog：简单、强大、快速的 Python 日志记录库&lt;/p&gt;
-&lt;p&gt;④ pydumpling: 针对 Python 的异常调试器&lt;/p&gt;
-&lt;p&gt;⑤ can_ada：快速且符合规范的 URL 解析库&lt;/p&gt;
-&lt;p&gt;⑥ Mindgraph：使用 AI 生成和查询不断扩展的知识图谱&lt;/p&gt;
-&lt;p&gt;⑦ speechbrain：基于 PyTorch 的语音工具包&lt;/p&gt;
-&lt;p&gt;⑧ python-anyconfig：以通用 API 加载和转储各种格式的配置文件&lt;/p&gt;
-&lt;p&gt;⑨ Llama-Chinese: Llama 中文社区，最好的中文 Llama 大模型&lt;/p&gt;
-&lt;p&gt;⑩ python-for-android：将 Python 程序变成 Android APK&lt;/p&gt;
-&lt;p&gt;⑪ img2img-turbo：Stable Diffusion turbo 实现的 sketch2image 、day2night 等&lt;/p&gt;
-&lt;p&gt;⑫ ludic：用纯 Python 构建动态 HTML 页面的轻量级框架&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;🐢播客&amp;amp;视频&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;① 带大家感受一下没有 GIL 的 CPython&lt;/p&gt;
-&lt;p&gt;② ruff 、uv 和 Astral：Python 工具链，使用 Rust 提速&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;查看全文&lt;/strong&gt;： &lt;a href="https://pythoncat.top/posts/2024-03-23-weekly" rel="nofollow"&gt;https://pythoncat.top/posts/2024-03-23-weekly&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;微信关注 Python 猫&lt;/strong&gt;： &lt;a href="https://img.pythoncat.top/python_cat.jpg" rel="nofollow"&gt;https://img.pythoncat.top/python_cat.jpg&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;邮箱订阅&lt;/strong&gt;： &lt;a href="https://pythoncat.substack.com" rel="nofollow"&gt;https://pythoncat.substack.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 13:47:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026398#reply1</guid></item><item><title>[生活] 币圈合约两天半，从盈利 100%到归零！</title><link>https://www.v2ex.com/t/1026397#reply2</link><description>&lt;p&gt;前天再次注册了币安。17 年开始接触比特币，啥也没挣着，所以这次就抱着玩的心态，投了 2000 块，上来就是合约做空。先从 5 倍，再到 10 倍，再到 20 倍。&lt;/p&gt;
-&lt;p&gt;第一天盈利 70ust ，第二天盈利 200ust ，第三天了直接强制平仓，归零！&lt;/p&gt;
-&lt;p&gt;这 2000 块，就当是用来遏制进入币圈的隐！&lt;/p&gt;
-&lt;p&gt;我不理财，财不离我！&lt;/p&gt;</description><pubDate>Sat, 23 Mar 2024 13:39:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026397#reply2</guid></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;打个比方，比如去做无痛胃镜，总费用 2000 ，医保个人账户支付 1800 ，自费 200 ，那就是直接报销 1800&lt;/p&gt;
+&lt;p&gt;当然这是打个比方，实际我去做胃镜，2000 全是走医保个人账户的，2000 就全额报销了，只有挂号费专家有部分自费了，没法报销&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;所以有些同事甚至一年去做几次检查，把医保个人账户用完，就等于直接提现个人账户余额了&lt;/p&gt;
+&lt;p&gt;我去搜了下，没有找到类似的保险，只有支付宝有一个门诊险，但是似乎条件还比较苛刻，好像单次最多 300 还有免赔额。&lt;/p&gt;
+&lt;p&gt;公司的这个保险，没有免赔额，挂号费 19 就赔 19 ，也没有太多乱七八糟的科室要求。&lt;/p&gt;
+&lt;p&gt;我看牙、看胃、看 CT 、看心理焦虑都能赔付。&lt;/p&gt;
+&lt;p&gt;简单说，就是只认发票，只要你上传的发票上有 [医保个人账户] 支付的部分（统筹支付和自费的部分不行），就直接打钱，速度还快！&lt;/p&gt;
+&lt;p&gt;所以有没有类似的保险，想给家人都买上。搜了一圈感觉都没有找到。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:33:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026870#reply6</guid></item><item><title>[问与答] 你们的 M1 开 Google Meet 会不会巨热？</title><link>https://www.v2ex.com/t/1026869#reply1</link><description>&lt;p&gt;如题，开了虚拟背景。&lt;/p&gt;
+&lt;p&gt;OS 13.4.1&lt;/p&gt;
+&lt;p&gt;是 MacBook Air ，虽然没有风扇，但开 15 分钟都那么烫是不是有什么问题？&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:32:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026869#reply1</guid></item><item><title>[C++] C++单例模式构造时的多线程安全问题的相关请教</title><link>https://www.v2ex.com/t/1026868#reply2</link><description>&lt;p&gt;我现在在写一个单例模式设计的日志模块。这个日志模块通过 getInstance() 获取日志管理器。&lt;/p&gt;
+&lt;p&gt;按照了解到的资料，先是使用了双重检查锁。然后又了解到双重检查锁在 new 时可能会因为指令重排，导致取到的指针指向的是还没有构造的空白内存，又上了原子操作保证安全。&lt;/p&gt;
+&lt;p&gt;在这个过程中，我了解到可以直接在 getInstance() 中声明一个局部静态变量。但是当时我考虑的是，这个局部静态变量在构造时会不会有多线程安全问题，于是没有使用。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-cpp"&gt;class LogManager;
+
+LogManager* getInstance()
+{
+    static LogManager log_manager;
+
+    return &amp;amp;log_manager;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;今天在看《 C++ 并发编程实战》时，了解到可以通过 std::call_once() 进行一次完整的初始化。接着往下看，发现书中也推荐了局部静态变量，并提到在 C++11 中，多线程安全问题被解决了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;还有一种初始化过程中潜存着条件竞争：其中一个局部变量为 static 类型，这种变量的在声明后就已经完成初始化。对于多线程调用的函数，这就意味着这里有条件竞争——抢着去定义这个变量。很多在不支持 C++ 11 标准的编译器上，在实践过程中，这样的条件竞争是确实存在的，因为在多线程中，每个线程都认为他们是第一个初始化这个变量线程，或一个线程对变量进行初始化，而另外一个线程要使用这个变量时，初始化过程还没完成。在 C++ 11 标准中，这些问题都被解决了：初始化及定义完全在一个线程中发生，并且没有其他线程可在初始化完成前对其进行处理，条件竞争终止于初始化阶段，这样比在之后再去处理好的多。在只需要一个全局实例情况下，这里提供一个 std::call_once 的替代方案。&lt;/p&gt;
+&lt;p&gt;《 C++ 并发编程实战》 3.3.1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;现在我使用的方案是 std::call_once()，但是我想了解局部静态变量在 c++11 中的多线程安全问题是如何解决的？是否有这方面的资料。感觉直接使用局部静态变量也不错。也想请教一下大家在单例模式中是使用的哪种方式。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:31:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026868#reply2</guid></item><item><title>[Surge] surge 做旁路由时，是否可以分别指定某一设备用哪个节点？</title><link>https://www.v2ex.com/t/1026866#reply1</link><description>比如说局域网内有 A 、B 、C 三个设备，分别让 surge 指定三设备在全局状态下走香港、新加坡、台湾线路呢？</description><pubDate>Mon, 25 Mar 2024 09:29:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026866#reply1</guid></item><item><title>[分享发现] 看了一下 QQ 邮箱的已发送邮件 满满的回忆</title><link>https://www.v2ex.com/t/1026865#reply1</link><description>最近在等 offer 所以频繁刷了一下 QQ 邮箱，偶然打开了发件箱发现了最早 13 年前发过的邮件，看到小学阶段跟朋友吵架后发的贺卡接受道歉的留言，初中阶段给关注的外国学习博主的蹩脚英语留言，迷上看小说然后去自己写投稿的邮件，还有几年前大学阶段作业邮件。给 kindle 邮箱发过的书，还找到了之前手机坏了登不了微信，而且笔记本被自己物理机系统直接干成 ubuntu 也没法登 QQ ，用 qq 邮箱给女友报备的邮件。&lt;br /&gt;  10 年前互联网对我来说很小，我接触到的只要 QQ,网页小游戏，逛论坛这些但是回顾来看却更有互联网，网友互帮互助的味道。再说一下我的老爹，在零几年时，他喜欢在轮流上麦的直播间唱歌，加生活中素未相识的网友聊天，友好交流，有些人从未见过面，现在偶尔也会聊一聊近况。但是最近我越来越排斥在互联网上跟人交流，去年在抖音评论区的一条评论被一个不人看的不顺眼就被恶言相向，各种短视频软件的评论区很多评论“梗”，重复率严重，感觉都看到了很多次了，实在是让人没有打开评论区沟通的欲望=^=.....&lt;br /&gt;  最近偶然之下发现了 V2EX ，感觉大家都在好好交流，很开心来到这里。不知不觉写的内容已经偏离了标题，祝各位友身体健康，工作顺利~&lt;br /&gt;&lt;br /&gt;PS:简历留 QQ 邮箱看起来会有点不专业，只是微软邮箱和谷歌邮箱怕收不到邮件，最后选择了感觉稳定一点的 qq</description><pubDate>Mon, 25 Mar 2024 09:27:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026865#reply1</guid></item><item><title>[问与答] 脑子不太好使，一个单链表，花了将近 3 个小时才徒手写出来。</title><link>https://www.v2ex.com/t/1026864#reply0</link><description>1.这还是在看完讲解，画完图之后的成果。&lt;br /&gt;2.好在自己写出来后，算是完全理解了。&lt;br /&gt;3.命令行模式写的，把 vi 的一些基本命令又复习了一遍。&lt;br /&gt;&lt;br /&gt;明天把双链表写出来，后天看情况是不是实现 ArrayList 的一些基本功能。&lt;br /&gt;&lt;br /&gt;链表在数据结构中是基础中的基础吗，很多课程讲的第一个数据结构就是链表。</description><pubDate>Mon, 25 Mar 2024 09:26:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026864#reply0</guid></item><item><title>[问与答] 春天到了，可以出去露营了，选择困难症患者求 V 友推荐一款自动帐篷</title><link>https://www.v2ex.com/t/1026863#reply4</link><description>诉求：自动帐篷，搭建方便，适合一家三口，无异味，价格 300 以内，有黑胶更好</description><pubDate>Mon, 25 Mar 2024 09:26:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026863#reply4</guid></item><item><title>[Safari] macOS Safari 输入框 BUG 导致进程卡死</title><link>https://www.v2ex.com/t/1026862#reply0</link><description>&lt;p&gt;macOS Safari 在弹出原生的输入框后直接按 ESC 会导致 Safari 卡死，需要强制结束进程才行。&lt;/p&gt;
+&lt;p&gt;大家有遇到过/复现这个问题么？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 14.3.1&lt;/li&gt;
+&lt;li&gt;Safari 17.3.1&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Mon, 25 Mar 2024 09:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026862#reply0</guid></item><item><title>[问与答] 键盘敲多了怎么保护手指关节?</title><link>https://www.v2ex.com/t/1026861#reply1</link><description>&lt;p&gt;是这样的, 我习惯使用&lt;code&gt;Ctrl&lt;/code&gt;键切换中英文输入, 使用 87 键的键盘切换的时候都是用左手小拇指和手掌连接处按压&lt;code&gt;Ctrl&lt;/code&gt;键切换, 这几天有点发疼, 你们有过这样子的感受吗, 摸鱼聊天工作写代码, 使用多了, 该怎么保护手指关节&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:24:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026861#reply1</guid></item><item><title>[问与答] 请问怎么恢复忽略的主题</title><link>https://www.v2ex.com/t/1026857#reply1</link><description>不小心点了“忽略主题”，还挺想看的，请问怎么恢复</description><pubDate>Mon, 25 Mar 2024 09:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026857#reply1</guid></item><item><title>[OpenAI] stable diffusion 使用同样的参数，似乎不能百分百复现别人的图片？</title><link>https://www.v2ex.com/t/1026855#reply1</link><description>最近折腾 SD ，发现一个现象，从 civitai 站看人家的图片给出的生成信息，把所有参数，从模型到关键词到 lora 全部对进去后，生成的图，99%相似，但是仍然会有一些细微的区别，主要体现在有光照的部分，光照部分的颜色和轮廓，会有细微的变化，这到底是正常的还是不正常？原因到底是什么呢？</description><pubDate>Mon, 25 Mar 2024 09:17:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026855#reply1</guid></item><item><title>[酷工作] 蚂蚁 24 春季实习-AI Infra/ Java / Python -杭州/上海/北京</title><link>https://www.v2ex.com/t/1026854#reply0</link><description>&lt;p&gt;蚂蚁集团-超级计算技术部-算力治理 春季实习招聘&lt;/p&gt;
+&lt;p&gt;蚂蚁集团作为一家聚焦金融的科技公司，算力治理团队负责提供支撑全站业务的强大算力服务，算力涵盖但不限于传统的微服务、AI 训练与推理、搜索推荐、高性能分布式缓存等多个领域。秉承云原生和 Google SRE 的先进设计思想与理念，我们致力于构建一个高性能、稳定、经济且绿色的算力生态。我们的重点工作领域涵盖但不限于：
+● 实施基于基础设施即代码 (IaC) 和配置驱动的多云管理平台工程
+● 采用 AIOps 和 SLO 驱动的模式，不断优化算力资源的配置和使用效率
+● 通过数据化运营及智能化探索服务工作的各个方面，包括大模型全生命周期、搜索推荐链路等&lt;/p&gt;
+&lt;p&gt;职位描述&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;负责大模型工程（ LLMOps ）方向工作，包括模型训练、推理、模型微调、模型优化等各个阶段。&lt;/li&gt;
+&lt;li&gt;负责搜索引擎、推荐引擎等基础平台，及其所支撑的上层搜索、推荐、广告业务的 SRE 方向&lt;/li&gt;
+&lt;li&gt;负责上述产品的 SLA 体系、应急响应机制、容灾体系的建设，保障业务的持续可用&lt;/li&gt;
+&lt;li&gt;负责上述平台的运维自动化、全链路风险识别、数字化运营等平台的设计和开发；引领产品的稳定性保障模式向数字化、智能化方向演进。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;职位要求&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;具有扎实的编程基础，至少熟悉一门开发语言（ Java, C/C++, Python ，GoLang……）&lt;/li&gt;
+&lt;li&gt;熟悉 Linux 操作系统&lt;/li&gt;
+&lt;li&gt;有 AI 算法、AI 工程、大数据、K8S 研发或 CNCF 项目经验优先。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我们希望你&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;热爱大数据和 AI 领域，关注业界领域动向。&lt;/li&gt;
+&lt;li&gt;对技术足够好奇，折腾主义者，热衷于挑战系统的各种边界和天花板。&lt;/li&gt;
+&lt;li&gt;喜好专治各种性能和异常的疑难杂症，并乐于做技术剖析、总结沉淀和分享。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;投递方式（任选其一）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;发送简历到 &lt;a href="mailto:qiuzhaolin.qzl@antgroup.com"&gt;qiuzhaolin.qzl@antgroup.com&lt;/a&gt; ，简历直达部门 [流程优先] &lt;/li&gt;
+&lt;li&gt;添加微信号 nilcric ，沟通更流畅～&lt;/li&gt;
+&lt;li&gt;自行在系统中投递 &lt;a href="https://hrrecommend.antgroup.com/job-list.html?code=iHvETkS7xP1WPqqicyp%2F4t%2FecGVXazNJBR67H16JI3g%3D" rel="nofollow"&gt;link&lt;/a&gt;。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Mon, 25 Mar 2024 09:16:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026854#reply0</guid></item></channel></rss>
