@@ -1,105 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Mar 2024 07:39:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] Github 的 sync fork 怎么变为 rebase</title><link>https://www.v2ex.com/t/1027160#reply0</link><description>&lt;p&gt;最近给一个开源项目提交 pr 时，出现了这种情况，步骤如下&lt;/p&gt;
-&lt;p&gt;1.将项目 fork 修改提交 pr 并被合并后&lt;/p&gt;
-&lt;p&gt;2.在自己 fork 的 repo 中点击 sync fork 来同步 upstream 代码&lt;/p&gt;
-&lt;p&gt;发现 commit 中包含了 Merge xxx 信息&lt;/p&gt;
-&lt;p&gt;所以如何在点击 sync fork 时使用 rebase 而不是 merge ，还是说只能自己用 git 来手动同步&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:34:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027160#reply0</guid></item><item><title>[奇思妙想] 有没有输入一个 github 地址，就自动部署成服务的平台？</title><link>https://www.v2ex.com/t/1027158#reply4</link><description>&lt;p&gt;比如，我看到一个 github 上的开源项目，
-想看看这个项目的演示效果，但是作者没提供 demo.
-有没有一种平台或者工具，输入这个 github 的项目地址，
-然后自动分析代码，自动部署环境，我就能看到效果？
-chatgpt 的 api 可以作为分析代码的工具吗？&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027158#reply4</guid></item><item><title>[问与答] 问下大哥们，微软账户里有 10 美元，买礼品卡冲进去的，怎么能用掉呢？</title><link>https://www.v2ex.com/t/1027157#reply0</link><description>本来想去注册 msn 账户的，可惜晚了几天，刚好赶上微软给封了，因为没有美国信用卡和美区 PayPal 当时就用的礼品卡购买的 msn 会员，现在退款的话，这 10 美元能套现出来吗？还是如果不买游戏的话，就只能放里面了</description><pubDate>Tue, 26 Mar 2024 07:22:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027157#reply0</guid></item><item><title>[程序员] 广告一下自己的公众号，希望大佬关注支持提意见</title><link>https://www.v2ex.com/t/1027156#reply1</link><description>公众号名称：安全随笔&lt;br /&gt;笔者会经常发一些工作中的总结、学习积累&lt;br /&gt;希望可以和大佬们一起分享，交流，提升，谢谢🙏</description><pubDate>Tue, 26 Mar 2024 07:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027156#reply1</guid></item><item><title>[职场话题] 那些年遇到的打工人（七）</title><link>https://www.v2ex.com/t/1027155#reply0</link><description>&lt;p&gt;他们遇到的那个梦里才有的行当，就是借网贷，又称——撸口子。熟悉互联网的朋友或许早已听过一个词：P2P 。&lt;/p&gt;
-&lt;p&gt;P2P 交易模式诞生于欧美，本来仅是针对特定范围的小众商业模式，但是 2006 年传入国内后，打着金融创新的旗号，有所变质。2006-2015 年，由于国内行业监管缺失，大量 P2P 在发展过程中以类信用中介模式冲规模，挤压正规信息中介生存空间，劣币驱逐良币，导致风险快速积聚。&lt;/p&gt;
-&lt;p&gt;我前面说过，我这位同事靠网站获得了第一桶金，这件事的时间，发生在 2014 年。这个看起来普普通通的年份，为什么十年后我仍然记得这么清楚呢？因为次年，也就是 2015 年，是 P2P 行业最重要的一个时间节点。据新浪财经统计：2012 年，国内网贷运营平台数量只有 100 多家，而到了 2015 年，已经到达了约 5000 家。这是 P2P 行业在国内最疯狂的时期。&lt;/p&gt;
-&lt;p&gt;这些在 2012-2015 年间野蛮发展的平台，多数缺少相应金融资质，从业者鱼龙混杂，在很多操作、程序和规则上都较为灰色，不能算是正规运营。&lt;/p&gt;
-&lt;p&gt;而我所在的公司恰恰也涉及了这块业务。本来，公司的资金端和资产端是分开运作的，但由于这一行热得太快，老板一声令下：加班加点，全力赶工，抓紧把网页端和 APP 端做出来！于是，那边过来抽调人手，我和我这位产品同事就被借过去了。至此，一片全新的、自由的天地展开在他面前。&lt;/p&gt;
-&lt;p&gt;那天，他绝对刷新了单日“坐禅”记录。以至于他那个靠卷出名的领导下班时，因为怕他猝死在工位上，破天荒地叮嘱了一句：早点回去。可对一心只想搞钱的他，心思早已飞远，就像古人望穿秋水一样，他此刻几乎要望穿屏幕。&lt;/p&gt;
-&lt;p&gt;据说，那天他下楼回去，把一楼开门的保安从值班室的单人床上叫起来时，保安大爷看了看时间，差点没跟他道一句“早上好”。&lt;/p&gt;
-&lt;p&gt;可他真的、完全没觉得累。在仔细读完产品需求文档，以及浏览、操作了 N 多个同行的 APP 之后，他脑子里只有两个字：风口。&lt;/p&gt;
-&lt;p&gt;站在风口上，猪能不能飞不知道，但钱，毫无疑问能飞起来！&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:17:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027155#reply0</guid></item><item><title>[汽车] 领克 08 能买吗，预测今年最低能到多少</title><link>https://www.v2ex.com/t/1027154#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;因为家用，且高，不是 suv 有点挤了&lt;/li&gt;
-&lt;li&gt;想要四驱哪款&lt;/li&gt;
-&lt;li&gt;还有其他备选推荐吗&lt;/li&gt;
-&lt;li&gt;老司机们预测能到多少最低&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 26 Mar 2024 07:17:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027154#reply0</guid></item><item><title>[问与答] 大家有推荐的书读读吗，刚看完长安的荔枝</title><link>https://www.v2ex.com/t/1027151#reply3</link><description>&lt;p&gt;我用的微信读书&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:15:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027151#reply3</guid></item><item><title>[分享发现] 网易云音乐删除了"相似推荐"功能，改为“听相似歌曲”</title><link>https://www.v2ex.com/t/1027150#reply0</link><description></description><pubDate>Tue, 26 Mar 2024 07:13:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027150#reply0</guid></item><item><title>[成都] 准备去成都生活，工作在高新区，准备先租个房子，大家推荐住在哪个区比较舒服呀？</title><link>https://www.v2ex.com/t/1027149#reply4</link><description></description><pubDate>Tue, 26 Mar 2024 07:13:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027149#reply4</guid></item><item><title>[程序员] vcruntime140.dll 和 vcomp140.dll 什么情况下会被修改？</title><link>https://www.v2ex.com/t/1027148#reply0</link><description>&lt;p&gt;事情经过是这样的，之前打开的好好的软件突然打不开了，看日志排查提示是 vcruntime140.dll 的问题，后发现 system32 下的这 2 个文件最后修改日期是 2024-03-05 。&lt;/p&gt;
-&lt;p&gt;没找到原因，于是我重新下了 Microsoft Visual C++的最新运行库安装，vcruntime140.dll 和 vcomp140.dll 的最后修改日期变成了 2024-01-19 ，软件可以打开了，问题是解决了。&lt;/p&gt;
-&lt;p&gt;但我不明白，是什么操作导致那 2 个文件的修改日期变成了 2024.03.05 ，而且从软件不能正常打开来看，内容也的确变了，我印象这之间也没有安装 Microsoft Visual C++。&lt;/p&gt;
-&lt;p&gt;请问 v 友们，有办法排查这个是被什么修改了吗？谢谢。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:13:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027148#reply0</guid></item><item><title>[青岛] 蹲个待业前端</title><link>https://www.v2ex.com/t/1027146#reply0</link><description>&lt;h2&gt;在尝试做一个简单的 ERP&lt;/h2&gt;
-&lt;p&gt;我是后端，所以需要一个会 vue 的前端，给钱可能不多，有工作的就算了，青岛优先&lt;/p&gt;
-&lt;p&gt;有意加我：ZzExODQ3ODg1NjA=&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:09:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027146#reply0</guid></item><item><title>[问与答] 领英是怎么关联数据的？用姓名吗？</title><link>https://www.v2ex.com/t/1027145#reply0</link><description>今天挂 tw 梯子尝试注册了领英，用 gmail 登录的，这个邮箱我没提供给公司过，注册进去后自动被关注了台湾的分公司，而且工作经历里直接有这家的工作记录，怎么做到的？</description><pubDate>Tue, 26 Mar 2024 07:07:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027145#reply0</guid></item><item><title>[Apple] infuse 进阿里云看备份盘和资源盘特别慢是啥原因</title><link>https://www.v2ex.com/t/1027144#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/FNcdhcz.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027144#reply3</guid></item><item><title>[macOS] macOS 更新后启动台图标被打乱</title><link>https://www.v2ex.com/t/1027143#reply0</link><description>&lt;p&gt;如题，macOS 更新到 Sonoma 14.4.1 之后启动台的图标全被打乱了。很久之前这个问题出现过几次，但后面就很稳定了，这次这个问题又出现了差点给我翻白眼气晕过去。之前出问题的时候有用过 Launchpad Manager 这样的软件来管理，但是软件我自己认为不是很好用，而有些人推荐的用命令行重启启动台的方法也要我把安装的 app 一个一个放回去，请问还有什么更好的方法直接一步到位，把图标全部恢复到原来的地方吗？&lt;/p&gt;
-&lt;p&gt;图片放图床上了，不知道能不能看得见。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://postimg.cc/zVRwW0Ly" rel="nofollow"&gt;&lt;img alt="temp-Imagey1zm-Lx.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/zXxxsQ8F/temp-Imagey1zm-Lx.avif" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://postimg.cc/5XBwKyS1" rel="nofollow"&gt;&lt;img alt="temp-Imagez-DNr-JL.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/8z3t5rFF/temp-Imagez-DNr-JL.avif" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://postimg.cc/bZcxRkb3" rel="nofollow"&gt;&lt;img alt="temp-Imagek6vr1s.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/vZD0bvmF/temp-Imagek6vr1s.avif" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:02:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027143#reply0</guid></item><item><title>[Python] pymongo ssh 跳板机连远程 mongodb 数据库一直 timeout？有有经验的伙计帮忙看看吗？</title><link>https://www.v2ex.com/t/1027142#reply0</link><description>&lt;pre&gt;&lt;code class="language-python"&gt;# -*- coding: UTF-8 -*-
-
-import pymongo
-import urllib.parse
-import logging
-from sshtunnel import open_tunnel, SSHTunnelForwarder
-
-sshHost = "1.2.3.4"
-sshPort = 4022
-sshUser = "sshUser"
-sshPass = "sshPass"
-
-mongoHost = '4.5.6.7'
-mongoPort = 27017
-mongoUser = urllib.parse.quote_plus('root')
-mongoPass = urllib.parse.quote_plus('pass123')
-
-server = SSHTunnelForwarder(
-    (sshHost, sshPort),
-    ssh_username=sshUser,
-    ssh_password=sshPass,
-    remote_bind_address=(mongoHost, mongoPort),
-)
-
-# server =  open_tunnel(
-#     (sshHost, sshPort),
-#     ssh_username=sshUser,
-#     ssh_password=sshPass,
-#     remote_bind_address=(mongoHost, mongoPort),
-#     local_bind_address=('0.0.0.0', 10022)
-# )
-server.start()
-# mongoDSN = 'mongodb://%s:%s@localhost:10022/dbname?authSource=admin' % (mongoUser, mongoPass)
-# client = pymongo.MongoClient(mongoDSN, server.local_bind_port)
-client = pymongo.MongoClient(
-    '127.0.0.1', 
-    server.local_bind_port, 
-    username=mongoUser, 
-    password=mongoPass, 
-    authSource='admin'
-)
-db = client[dbName]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;先用注释掉的代码试了一下，总提示：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt; Could not establish connection from local ('127.0.0.1', 10022) to remote ('4.5.6.7', 27017) side of the tunnel: open new channel ssh error: SSH session not active&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;再提示：&lt;code&gt;pymongo.errors.ServerSelectionTimeoutError: 127.0.0.1:10022: [WinError 10061] 由于目标计算机积极拒绝，无法连接。&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;未注释的代码就提示&lt;code&gt;pymongo.errors.ServerSelectionTimeoutError: 4.5.6.7:27017: timed out&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;ip 我隐藏修改过了，不是原本的 ip&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:02:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027142#reply0</guid></item><item><title>[程序员] 关于 wifi 全屋覆盖</title><link>https://www.v2ex.com/t/1027141#reply5</link><description>&lt;p&gt;就现在家里是 100 平的跃式结构，有地下室 + 客厅厨房餐厅 + 主卧侧卧公卫等 相当于三层平面&lt;/p&gt;
-&lt;p&gt;然后客厅，地下室，主卧都有网线和路由器，不过是不同牌子的而且比较旧了，走来走去 wifi 会断，宽带是移动的 300M 。&lt;/p&gt;
-&lt;p&gt;这样情况下想全屋信号覆盖，例如看直播走动都不会断的那种，该如何考虑组网方案?&lt;/p&gt;
-&lt;p&gt;以及路由器推荐，预算考虑千元内，尽可能的节省 :)&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:59:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027141#reply5</guid></item><item><title>[程序员] 没有人来聊聊今天飞书开始裁员的事情么</title><link>https://www.v2ex.com/t/1027140#reply0</link><description>&lt;p&gt;虽然我已经离开飞书快一年了。&lt;/p&gt;
-&lt;p&gt;但是我一直以为字节是互联网大裁员的最后一根独苗，现在也无了。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:56:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027140#reply0</guid></item><item><title>[游戏] 串流玩游戏，可以直接用笔记本的 WiFi 热点吗？</title><link>https://www.v2ex.com/t/1027139#reply1</link><description>现在用的 moonlight 进行串流玩游戏，通过笔记本连路由器，手机连同一个路由进行串流，但是感觉偶尔会卡顿，所以想可不可以直接用笔记本发送 WiFi 热点，手机直接连接热点进行串流，这样是不是延迟就更低更稳定了？但是手机连热点找不到笔记本啊，有什么办法么？</description><pubDate>Tue, 26 Mar 2024 06:55:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027139#reply1</guid></item><item><title>[问与答] chocolatey 安装程序报错</title><link>https://www.v2ex.com/t/1027138#reply0</link><description>&lt;a href="https://imgur.com/a/qsGaEQU" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/qsGaEQU&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图,重装后不管安装什么都提示这个,代理应该没有问题,scoop 正常安装&lt;br /&gt;系统 win10 ltsc 2021&lt;br /&gt;有大佬解答下吗</description><pubDate>Tue, 26 Mar 2024 06:53:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027138#reply0</guid></item><item><title>[分享创造] [限免] OneSticker - 全平台实时同步便签 🎉</title><link>https://www.v2ex.com/t/1027135#reply3</link><description>&lt;h3&gt;OneSticker 是一个能在所有平台进行实时同步编辑的便签 App&lt;/h3&gt;
-&lt;p&gt;下载🔗：&lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/OneSticker.1.0.0.exe" rel="nofollow"&gt;Windows&lt;/a&gt; / &lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/OneSticker-1.0.0-universal.dmg" rel="nofollow"&gt;MacOS&lt;/a&gt; / &lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/app-release.apk" rel="nofollow"&gt;Android&lt;/a&gt; / &lt;a href="https://testflight.apple.com/join/67uL7LXO" rel="nofollow"&gt;iOS (TestFlight)&lt;/a&gt; / &lt;a href="https://my.onesticker.app/" rel="nofollow"&gt;Web&lt;/a&gt; / &lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="img1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/VfvezYT.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;🌟主要功能&lt;/h3&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Mar 2024 16:32:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[.NET] 时隔半年，我又来吐槽 nuget 了</title><link>https://www.v2ex.com/t/1027291#reply2</link><description>（旧贴： &lt;a href="https://www.v2ex.com/t/947377" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/947377&lt;/a&gt; ）&lt;br /&gt;&lt;br /&gt;没错这东西真的用到吐了，最近感到最傻鸟的一个点就是：&lt;br /&gt;它提供了 Nuget list 的命令，用于列出仓库中所有的包列表；&lt;br /&gt;然后无论国内国外，官方私服，内网外网的哪个仓库，都无法在几十分钟之内结束；&lt;br /&gt;都是 3 秒刷一屏 3 秒刷一屏的往外吐结果&lt;br /&gt;那整个请求要跑多久？&lt;br /&gt;这个 http 连接要保持多久？ server 端的 timeout 怎么配置？&lt;br /&gt;长时间不完成的连接对 server 的压力要有多大？&lt;br /&gt;&lt;br /&gt;请问半小时执行完一个 list 的命令，还执行它有什么意义？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这里拿 yum list 来做个对比，3s 执行完😩，简单又轻松。&lt;br /&gt;&lt;br /&gt;窥一斑而知全豹，nuget 你不羞愧吗？</description><pubDate>Tue, 26 Mar 2024 16:07:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027291#reply2</guid></item><item><title>[程序员] 不同编辑器在大家心目中的定位</title><link>https://www.v2ex.com/t/1027289#reply4</link><description>大学时期接触到 vscode ，感觉 vscode 是宇宙编辑器，插件安装简单，一切都是那么美妙，&lt;br /&gt;但是，最近工作中发现，vscode 能做的好像在前端方面是比较强。&lt;br /&gt;大家一般写不同类型的代码的时候会使用不同编辑器还是一个编辑器吃遍天，大家对不同的编辑器的定位是什么呢？&lt;br /&gt;(其实有点小私心，就是顺便收集下我常写的类型代码的评价最好的编辑器去使用一下)</description><pubDate>Tue, 26 Mar 2024 15:48:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027289#reply4</guid></item><item><title>[程序员] 怎么把手机热点转换成有线网络，然后把网线连接交换机，给家里的好几台设备上网，临时用用，不长期用。</title><link>https://www.v2ex.com/t/1027288#reply1</link><description>&lt;p&gt;需要这几台设备在同一个网关，家里两三台电脑，有的没有无线网卡很不方便，我需要从内网两台设备之间传文件&lt;/p&gt;
+&lt;p&gt;家里主路由坏了，临时用几天，正好研究一下，以后当个备用网络方案&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:41:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027288#reply1</guid></item><item><title>[程序员] 发现一个框架性能对比网站，我把 rust/go/ Java /csharp/js/py 对比了下</title><link>https://www.v2ex.com/t/1027287#reply2</link><description>&lt;p&gt;直接上 link：&lt;a href="https://web-frameworks-benchmark.netlify.app/result?l=python,go,rust,java,javascript,csharp" rel="nofollow"&gt;https://web-frameworks-benchmark.netlify.app/result?l=python,go,rust,java,javascript,csharp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这个网站好像定时会把流行框架最新版本拿来测试下性能，qps 之类的，上次测试刚好是昨天，时效性挺高。&lt;/p&gt;
+&lt;p&gt;对比了下发现&lt;/p&gt;
+&lt;p&gt;1 、js 的 uwebsockets 框架性能吊打其他框架（ 20w qps ），不知道是咋做到的&lt;/p&gt;
+&lt;p&gt;2 、紧接着是 java 的框架，主要是 activej ，这个好像没啥人用，应该属于那种专精性能的，qps 19.9w 。&lt;/p&gt;
+&lt;p&gt;3 、然后就是 rust 的 actix 了，qps 19.5w&lt;/p&gt;
+&lt;p&gt;4 、再往下很大都是 java 系列的，什么 vertx （这个听说过）、rapidoid 、jooby ，JIT 优化确实强&lt;/p&gt;
+&lt;p&gt;5 、再往下就是 go 了，都说 go 性能一般，最好的是 fasthttp ，qps 在 17w 多，也不算差了，接着是 fiber 、gorouter ，还有字节的 hertz &lt;/p&gt;
+&lt;p&gt;6 、rust 的 axum 性能比 gin 好，但要比 go 的 fasthttp 、fiber 差&lt;/p&gt;
+&lt;p&gt;7 、接下来还是清一色的 go 框架，不得不吐槽 go web 框架是真的多，感觉都没啥区别。gin 、echo 在 12w qps&lt;/p&gt;
+&lt;p&gt;8 、不出意料的垫底：python ，django qps 居然只有 1.6k ，这也太差劲了……&lt;/p&gt;
+&lt;p&gt;9 、用的比较多的 spring 在 5w qps ，中游的样子，够用，并且生态比绝大部分框架都强&lt;/p&gt;
+&lt;p&gt;当然真实项目的性能肯定没这么简单，这只是单纯测试框架处理请求的能力而已，别太较真&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:39:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027287#reply2</guid></item><item><title>[问与答] 有大佬在用 小新 pro 14 8845 装 Linux 吗</title><link>https://www.v2ex.com/t/1027286#reply0</link><description>有啥驱动适配问题没, 还有就是 oled 的适配如何啊&lt;br /&gt;&lt;br /&gt;我常用 arch + kde(or gnome)&lt;br /&gt;&lt;br /&gt;或者 redmibookpro 16 ultra7 的 linux 适配如何啊</description><pubDate>Tue, 26 Mar 2024 15:36:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027286#reply0</guid></item><item><title>[问与答] 请教一个 QX 的分流问题</title><link>https://www.v2ex.com/t/1027285#reply1</link><description>&lt;p&gt;刚接触 QX ，麻烦请教一个问题，我不太懂网络这些，还请大佬赐教。&lt;/p&gt;
+&lt;p&gt;geoip, cn, direct ，这一行到底匹配了什么？&lt;/p&gt;
+&lt;p&gt;我有这个问题的原因是：随便打个比方，我想给 B 站分流到香港，所以引用了 B 站的远程策略使用香港节点，也确实产生了效果；但是访问 B 站的时候，不是应该在本地匹配的时候就被 geoip, cn, direct 先截胡了么？&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:34:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027285#reply1</guid></item><item><title>[程序员] 对汇率转换功能做了 3 项体验优化</title><link>https://www.v2ex.com/t/1027284#reply4</link><description>&lt;p&gt;让 Claude 帮忙优化了一下体验：&lt;br /&gt;
+1.增加了搜索框&lt;br /&gt;
+2.增加源国家和目标国家相互/左右切换&lt;br /&gt;
+3.默认打开页面设置为从 USD 到 CNY 的转换  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/GJmyY_ybIAEq0o9?format=jpg&amp;amp;name=4096x4096" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://currency.996geek.com" rel="nofollow"&gt;https://currency.996geek.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027284#reply4</guid></item><item><title>[问与答] 三大营业厅的低费套餐办理</title><link>https://www.v2ex.com/t/1027283#reply1</link><description>想办理个低费的手机号，看了看三大运营商中只找到电信的无忧卡办理地址，月租 5 元，另外两家没看到地址呢，是套餐停止了吗</description><pubDate>Tue, 26 Mar 2024 15:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027283#reply1</guid></item><item><title>[问与答] 有大佬报名 爪哇教育的 Web 前端大厂工程师训练营课程吗？ 这类的短期突击有用吗，课程质量如何</title><link>https://www.v2ex.com/t/1027281#reply2</link><description>工作了 4 年左右，感觉遇到了瓶颈，想报个班提高一下，顺便也涨点薪资</description><pubDate>Tue, 26 Mar 2024 15:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027281#reply2</guid></item><item><title>[宽带症候群] 继上海电信之后香港电信也宣布上 50G PON 技术</title><link>https://www.v2ex.com/t/1027280#reply5</link><description>&lt;a href="https://i.imgur.com/LweWMv1.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/LweWMv1.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.pcmarket.com.hk/hkt-become-the-first-network-operator-introduce-50g-pon-technology-to-hong-kong/" rel="nofollow noopener" target="_blank"&gt;https://www.pcmarket.com.hk/hkt-become-the-first-network-operator-introduce-50g-pon-technology-to-hong-kong/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://hkt.com/assets/Common/files/press-release/2024/Mar/HKT_50G%20Press%20Release%20" rel="nofollow noopener" target="_blank"&gt;https://hkt.com/assets/Common/files/press-release/2024/Mar/HKT_50G%20Press%20Release%20&lt;/a&gt;[Chi].pdf&lt;br /&gt;以后上 25/50G 宽带不是梦</description><pubDate>Tue, 26 Mar 2024 14:56:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027280#reply5</guid></item><item><title>[程序员] 写了个 kafka GUI，好用不好用赏我个建议</title><link>https://www.v2ex.com/t/1027279#reply3</link><description>&lt;p&gt;春节无聊，在家写了这么一个 kafka 客户端（叫 Kafka King ），用来连接、操作 kafka 集群，也算填补了市面上的空白（据我所知这块还没有啥特别好用的）。&lt;/p&gt;
+&lt;p&gt;开源后推荐给同事用了用，反响也还不错😊&lt;/p&gt;
+&lt;p&gt;以下是简单的介绍，结尾有 github 和 gitee 下载地址，想尝鲜的可以进入下载。&lt;/p&gt;
+&lt;h1&gt;功能清单&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;全平台实时同步便签内容&lt;/li&gt;
-&lt;li&gt;6 种可选颜色&lt;/li&gt;
-&lt;li&gt;5 种可选字体&lt;/li&gt;
-&lt;li&gt;可在桌面上置顶&lt;br /&gt;
-&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;
-&lt;img alt="img1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GMDxsCO.png" /&gt;&lt;/li&gt;
+&lt;li&gt;查看集群节点列表（完成）&lt;/li&gt;
+&lt;li&gt;创建主题（支持批量）、删除主题、支持根据消费者组统计每个 topic 的消息积压量（完成）&lt;/li&gt;
+&lt;li&gt;支持查看 topic 的分区的详细信息，并为主题添加额外的分区（完成）&lt;/li&gt;
+&lt;li&gt;支持查看每个分区的消息 offset （完成）&lt;/li&gt;
+&lt;li&gt;支持模拟生产者，批量发送消息，是否开启 gzip 压缩、acks 、batch_size 、liner_ms ，你可以用来做性能测试（完成）&lt;/li&gt;
+&lt;li&gt;支持模拟消费者，按照内置的组进行指定 size 的消费（完成）&lt;/li&gt;
+&lt;li&gt;主题切换（完成）&lt;/li&gt;
+&lt;li&gt;参数说明对照表（评估中）&lt;/li&gt;
+&lt;li&gt;多语言支持（开发中）&lt;/li&gt;
+&lt;li&gt;……
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://github.com/Bronya0/Kafka-King/raw/main/docs/snap/p8.png" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;🤔设计理念&lt;/h3&gt;
-&lt;p&gt;OneSticker 的设计理念是通过简洁的文本编辑和跨平台同步，提供便捷的笔记体验，目标是简化多设备间的信息管理。它旨在让用户轻松记录、访问并管理思维碎片，不论使用何种设备。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;
-&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GMDxsCO.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;🪄未来功能&lt;/h3&gt;
+&lt;p&gt;Github：&lt;a href="https://github.com/Bronya0/Kafka-King" rel="nofollow"&gt;https://github.com/Bronya0/Kafka-King&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;好不好用赏点意见ヾ(≧▽≦*)o&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:48:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027279#reply3</guid></item><item><title>[OpenAI] 免费国产 AI 中转 API</title><link>https://www.v2ex.com/t/1027277#reply0</link><description>&lt;p&gt;自己搭了一个，欢迎使用
+&lt;a href="https://api.666888777.xyz/" rel="nofollow"&gt;https://api.666888777.xyz/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027277#reply0</guid></item><item><title>[OpenAI] 2024-03 如果要搭一个 GPT 公司内部用，有什么现成的轮子？</title><link>https://www.v2ex.com/t/1027276#reply8</link><description>&lt;h2&gt;先叠甲&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;历史记录：可以找回删除的便签&lt;/li&gt;
-&lt;li&gt;智能边框： 便签的高度根据输入内容的高度自动变化&lt;/li&gt;
+&lt;li&gt;不用担心法务和担责的问题，买了专线，也有买海外服务器，仅公司内网环境下使用。&lt;/li&gt;
+&lt;li&gt;不需要担心什么老板没让你做你就不要做，或者出了问题要担责啥的。&lt;/li&gt;
+&lt;li&gt;纯讨论技术实现。聊不出技术内容光东拉西扯的不需要。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🎁 目前 &amp;lt;OneSticker&amp;gt; 限免中，欢迎大家下载试用、提出问题和反馈
-&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:52:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027135#reply3</guid></item></channel></rss>
+&lt;h2&gt;需求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;身份验证&lt;/li&gt;
+&lt;li&gt;对话记录&lt;/li&gt;
+&lt;li&gt;不要让用户自己配置 api-key&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;用过的轮子&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ChatGPT-web&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;这个有身份认证，大体可用。&lt;/li&gt;
+&lt;li&gt;有对话记录。但查询起来略麻烦。&lt;/li&gt;
+&lt;li&gt;小缺点是对话轮次无法限制，经常有人用了忘记清上下文，导致 token 被浪费。&lt;/li&gt;
+&lt;li&gt;很久没更新了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ChatGPT-Next-Web&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;优点是 Vercel 一键部署&lt;/li&gt;
+&lt;li&gt;缺点是要自己输入 key&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;提前感谢能提供&lt;strong&gt;有效回复&lt;/strong&gt;的各位大师&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:41:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027276#reply8</guid></item><item><title>[程序员] CDN 的 URL 鉴权</title><link>https://www.v2ex.com/t/1027275#reply0</link><description>&lt;p&gt;CDN 的 URL 鉴权, 还不太熟悉.&lt;/p&gt;
+&lt;p&gt;找到了腾讯云和阿里云的文档&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cloud.tencent.com/document/product/228/76110" rel="nofollow"&gt;https://cloud.tencent.com/document/product/228/76110&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://help.aliyun.com/zh/cdn/user-guide/configure-url-signing" rel="nofollow"&gt;https://help.aliyun.com/zh/cdn/user-guide/configure-url-signing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有没有用过的朋友, 分享一下有没有什么坑需要注意的?&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:41:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027275#reply0</guid></item><item><title>[程序员] 使用 NextJS 和 CNOCR 实现一个简单的图片 OCR 应用</title><link>https://www.v2ex.com/t/1027274#reply0</link><description>&lt;p&gt;使用 NextJS 和 CNOCR 实现一个简单的网页 OCR 应用 &lt;a href="https://github.com/animebing/cnocr-nextjs" rel="nofollow"&gt;cnocr-nextjs&lt;/a&gt;，这个过程中主要练习了&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;上传图片并压缩&lt;/li&gt;
+&lt;li&gt;使用 &lt;a href="https://docs.ray.io/en/latest/" rel="nofollow"&gt;ray&lt;/a&gt; 搭建了使用 cnocr 模型进行推理的 fastapi 服务&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 26 Mar 2024 14:40:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027274#reply0</guid></item><item><title>[阅读] 微信读书闪现广告</title><link>https://www.v2ex.com/t/1027273#reply0</link><description>&lt;p&gt;刚打开微信读书，大家再看那里出现了手机广告，但是忘了截图，关闭再打开就没有了，不知道是不是在测试。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:39:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027273#reply0</guid></item><item><title>[VPS] 华为云 vps 拉新</title><link>https://www.v2ex.com/t/1027272#reply0</link><description>华为云 vps 拉新 &lt;br /&gt;2 核 2G3M 46 元那款 国内地区&lt;br /&gt;需要 华为云新户 （老户不行 认身份证，手机号 都要全新）&lt;br /&gt;付 46+实名 &lt;br /&gt;你能获取啥&lt;br /&gt;白嫖一年的 vps 服务器使用&lt;br /&gt;有意联系&lt;br /&gt;先自己注册 付 46 用微信&lt;br /&gt;一般次日出数据 结账 46 &lt;br /&gt;有可能会接到华为回访电话 可拒接 &lt;br /&gt;接了的话就随便聊下 编程学习搭建环境等等 严禁提及返现&lt;br /&gt;有意联系 wx 147 823 87970</description><pubDate>Tue, 26 Mar 2024 14:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027272#reply0</guid></item><item><title>[生活] 求 300 元左右的被芯推荐~</title><link>https://www.v2ex.com/t/1027271#reply0</link><description>&lt;p&gt;公司有 300 元左右的报销额度（结婚福利），想问问 V2ER 们有没有什么推荐的啊？
+（一件 300 元或两件一共 300 元左右）
+感恩~&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:35:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027271#reply0</guid></item><item><title>[Go 编程语言] csznet/mata 开源服务器监控解析切换工具</title><link>https://www.v2ex.com/t/1027270#reply0</link><description>&lt;p&gt;&lt;strong&gt;介绍&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用 tcp 协议监控指定服务器，当服务器状态发生改变借助 CloudFlare API 进行改变解析，并支持 Telegram 通知&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;示例场景&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A 服务器访问速度快但是不带防御，B 服务器带防御但是访问速度慢&lt;/p&gt;
+&lt;p&gt;使用 csznet/mata 对 A 服务器进行监控，当无法连通 A 服务器时，将自动把解析切换为 B 服务器，当 A 服务器恢复时，也会自动切换回 A 服务器&lt;/p&gt;
+&lt;p&gt;开源地址： &lt;a href="https://github.com/csznet/mata" rel="nofollow"&gt;https://github.com/csznet/mata&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:30:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027270#reply0</guid></item><item><title>[程序员] 求购 GitHub 学生包里面的 FrontendMasters</title><link>https://www.v2ex.com/t/1027269#reply1</link><description>如题。收一个，直接给我注册好的邮箱和密码，10R</description><pubDate>Tue, 26 Mar 2024 14:27:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027269#reply1</guid></item></channel></rss>
