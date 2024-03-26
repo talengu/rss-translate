@@ -1,98 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 25 Mar 2024 09:55:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 求助，开发流程问题</title><link>https://www.v2ex.com/t/1026882#reply0</link><description>&lt;p&gt;1&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:53:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026882#reply0</guid></item><item><title>[问与答] 求无线耳机推荐，安卓机使用.</title><link>https://www.v2ex.com/t/1026881#reply0</link><description>&lt;p&gt;手机安卓，在用 AirPodsPro1 代(2020 购买).目前右耳电流噪音太大了,稍微震动就会有电流噪声,基本不能用了.
-核心诉求降噪,毕竟世界太吵闹, 其次音质.
-1.直接换个右耳机,250RMB 左右;
-2.换 AirPodsPro 二代;
-3.其他品牌推荐,1K 左右？(没使用过其他品牌，不想踩雷，起码能对标 AirPodsPro1 代吧...);
-4.大佬们随便聊;&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:52:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026881#reply0</guid></item><item><title>[职场话题] 那些年遇到的打工人（六）</title><link>https://www.v2ex.com/t/1026880#reply0</link><description>&lt;p&gt;我想，如果公司举办一个“坐禅赛”，统计每个人坐在位子上的时间，时长多者胜出，那么，我这位同事绝对能与第二名拉开老大一截，毫无悬念地夺冠。因为他就坐我旁边那排，每天抬头不见低头见，以至于那段时间我对他的印象就是：一直坐着，一直盯着屏幕，一直在敲键盘，连上厕所的次数都极其稀少。&lt;/p&gt;
-&lt;p&gt;在高强度压榨自己的前提下，很快新站便上线了。在运营了一段时间后，效果并没有如他所愿达到预期，流量还是全在老站上。期间他又陆续接了软文，也办公关需求，但是加一块儿也没上回那一单钱多。另外，除了工作焦头烂额、新站没日没夜的操劳以外，部分用户对老站的意见也很大：怎么评论要审核这么久？为什么我的文章无缘无故被删了？为什么我不能修改自己的内容？&lt;/p&gt;
-&lt;p&gt;这让他十分焦躁。&lt;/p&gt;
-&lt;p&gt;我前面提到过一个合规部的法律同事，他俩都是江苏人，两个老乡走得比较近，经常一起吃饭聊天。有一次他感慨道：要是有个没风险、来钱多、又快、人还不累的副业就好了。&lt;/p&gt;
-&lt;p&gt;在现实中，如果有谁说出这种想法，一般人反应肯定是：洗洗睡，梦里都会有！&lt;/p&gt;
-&lt;p&gt;但这位法律同事，并不是一般人。他点了点头，说：找找看，会有的！&lt;/p&gt;
-&lt;p&gt;要不说机会总是留给有准备的人呢？这种好事，真就让他俩给找到了！当后来的我听他们说起这段经历时，我震惊之余，全是咬牙切齿——&lt;/p&gt;
-&lt;p&gt;这样的好事，居然他妈的没带我？&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:50:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026880#reply0</guid></item><item><title>[Flutter] 请教个单元测试的问题</title><link>https://www.v2ex.com/t/1026879#reply0</link><description>&lt;p&gt;最近在学 flutter 的单元测试，目前在跟着官方文档
-&lt;a href="https://codelabs.developers.google.com/codelabs/flutter-app-testing" rel="nofollow"&gt;https://codelabs.developers.google.com/codelabs/flutter-app-testing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;但是今天有个问题，就是在 favorites_test 的时候，如果我把下面文件的 &lt;strong&gt;第 24 行&lt;/strong&gt; for 循环里的 &lt;strong&gt;i+=2&lt;/strong&gt; 变成 &lt;strong&gt;i++&lt;/strong&gt;, 就会测试失败&lt;/p&gt;
-&lt;p&gt;官方的项目在 &lt;a href="https://github.com/flutter/codelabs/blob/main/testing_codelab/step_07/test/favorites_test.dart" rel="nofollow"&gt;https://github.com/flutter/codelabs/blob/main/testing_codelab/step_07/test/favorites_test.dart&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;不清楚什么原因，找到 flutter dev 的官方 discord 询问也没得到解答。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:48:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026879#reply0</guid></item><item><title>[问与答] 大佬们，现在哪家的 AI 配音比较有感情？（英文）</title><link>https://www.v2ex.com/t/1026878#reply0</link><description>&lt;p&gt;需要配个宣传片视频&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:46:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026878#reply0</guid></item><item><title>[问与答] V 友们，你们股票的数据从哪里获取</title><link>https://www.v2ex.com/t/1026876#reply0</link><description>&lt;p&gt;RT 。打算手撸个人交易策略，基础数据是 K 线的前提。要求 1 分钟级最好。5 分钟 tdx 有提供。数据范围越新越好，最好是当天或者前天的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;tdx ？有现成的包或者，数据源（带解释的）&lt;/li&gt;
-&lt;li&gt;直接从 quota 的网站提取？人家数据范围只有 16-19 年&lt;/li&gt;
-&lt;li&gt;其他补充&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在此先谢。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:44:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026876#reply0</guid></item><item><title>[问与答] 抉择：再卷两年还是润老家</title><link>https://www.v2ex.com/t/1026875#reply4</link><description>选择一：杭州恒生系公司 20k  奖金未知&lt;br /&gt;选择二：老家长春医疗器械创新产业公司 12k 全额五险一金，外加平均 4 个月年终奖。&lt;br /&gt;&lt;br /&gt;行情太差了，非大厂背景，就这两个选择了。&lt;br /&gt;在杭州干了 5 年了，也干够了，也卷不动了，95 年的，想稳定安家结婚买房子，而且心态也和刚毕业的几年不一样了，不想一个人外地漂泊了。程序员只是缓兵之计了， 还是考编吧。&lt;br /&gt;家是长春农村，长春房子借点钱，家里支持些，应该压力不大了。&lt;br /&gt;只是现在想再在杭州挣两年钱，降低一下房子压力，还是回家工作，不管咋地，肯定比杭州轻松吧，然后边考公和编。&lt;br /&gt;因为毕竟收入 一个月差 8k ，详细算过，在杭州和长春一年 收入差 7w+，挣钱太难了 这 7w 差距可也不小，买房子和结婚用钱的地方多着呢。&lt;br /&gt;求过来的人，指点一下经验，只是为了钱在杭州再待两年值不值，待的话也最多待 2 年也得离开的，回家就图个安慰，租房子也离家近，不那么孤独，然后舒服的往编制上用用力。</description><pubDate>Mon, 25 Mar 2024 09:38:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026875#reply4</guid></item><item><title>[Python] 浏览器里运行 Python</title><link>https://www.v2ex.com/t/1026874#reply0</link><description>&lt;p&gt;打算写一个在线二维码生成器，能直接在浏览器里生成的。但比较好的支持二维码的 structured append 等各种模式的库不多，只找到 Python 的 segno 这个库。&lt;/p&gt;
-&lt;p&gt;后来找到 pyodide 这个项目，可以用 wasm 在浏览器里提供一个 python 环境，还能直接用 pip 安装第三方包。试了下效果还可以。&lt;/p&gt;
-&lt;p&gt;大家可以访问这个 demo 试试效果： &lt;a href="https://tony-xlh.github.io/online-qr-code-generator/" rel="nofollow"&gt;https://tony-xlh.github.io/online-qr-code-generator/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;与其他在线二维码生成器不同的是，它可以直接将文件以字节模式编码、可以指定文本编码、并支持结构化追加模式。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:36:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026874#reply0</guid></item><item><title>[问与答] 公司买的保险可以报销医保个账支付的部分，个人哪里可以买到？</title><link>https://www.v2ex.com/t/1026870#reply6</link><description>&lt;p&gt;公司给所有自有员工都购买了一份商业保险，是中国人寿的（只知道在人寿的公众号报销）&lt;/p&gt;
-&lt;p&gt;感觉非常好。&lt;/p&gt;
-&lt;p&gt;主要是可以 ** [全额报销]  [门诊费用医保个人账户支出的全部费用] **&lt;/p&gt;
-&lt;p&gt;自己用了两年，体验也非常好，基本流程就是&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;去医院看病（门诊，我没有住院过，不知道住院的流程）&lt;/li&gt;
-&lt;li&gt;公众号在线上传病例和发票&lt;/li&gt;
-&lt;li&gt;第二天打钱&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;打个比方，比如去做无痛胃镜，总费用 2000 ，医保个人账户支付 1800 ，自费 200 ，那就是直接报销 1800&lt;/p&gt;
-&lt;p&gt;当然这是打个比方，实际我去做胃镜，2000 全是走医保个人账户的，2000 就全额报销了，只有挂号费专家有部分自费了，没法报销&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;所以有些同事甚至一年去做几次检查，把医保个人账户用完，就等于直接提现个人账户余额了&lt;/p&gt;
-&lt;p&gt;我去搜了下，没有找到类似的保险，只有支付宝有一个门诊险，但是似乎条件还比较苛刻，好像单次最多 300 还有免赔额。&lt;/p&gt;
-&lt;p&gt;公司的这个保险，没有免赔额，挂号费 19 就赔 19 ，也没有太多乱七八糟的科室要求。&lt;/p&gt;
-&lt;p&gt;我看牙、看胃、看 CT 、看心理焦虑都能赔付。&lt;/p&gt;
-&lt;p&gt;简单说，就是只认发票，只要你上传的发票上有 [医保个人账户] 支付的部分（统筹支付和自费的部分不行），就直接打钱，速度还快！&lt;/p&gt;
-&lt;p&gt;所以有没有类似的保险，想给家人都买上。搜了一圈感觉都没有找到。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:33:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026870#reply6</guid></item><item><title>[问与答] 你们的 M1 开 Google Meet 会不会巨热？</title><link>https://www.v2ex.com/t/1026869#reply1</link><description>&lt;p&gt;如题，开了虚拟背景。&lt;/p&gt;
-&lt;p&gt;OS 13.4.1&lt;/p&gt;
-&lt;p&gt;是 MacBook Air ，虽然没有风扇，但开 15 分钟都那么烫是不是有什么问题？&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:32:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026869#reply1</guid></item><item><title>[C++] C++单例模式构造时的多线程安全问题的相关请教</title><link>https://www.v2ex.com/t/1026868#reply2</link><description>&lt;p&gt;我现在在写一个单例模式设计的日志模块。这个日志模块通过 getInstance() 获取日志管理器。&lt;/p&gt;
-&lt;p&gt;按照了解到的资料，先是使用了双重检查锁。然后又了解到双重检查锁在 new 时可能会因为指令重排，导致取到的指针指向的是还没有构造的空白内存，又上了原子操作保证安全。&lt;/p&gt;
-&lt;p&gt;在这个过程中，我了解到可以直接在 getInstance() 中声明一个局部静态变量。但是当时我考虑的是，这个局部静态变量在构造时会不会有多线程安全问题，于是没有使用。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-cpp"&gt;class LogManager;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Mar 2024 07:39:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] Github 的 sync fork 怎么变为 rebase</title><link>https://www.v2ex.com/t/1027160#reply0</link><description>&lt;p&gt;最近给一个开源项目提交 pr 时，出现了这种情况，步骤如下&lt;/p&gt;
+&lt;p&gt;1.将项目 fork 修改提交 pr 并被合并后&lt;/p&gt;
+&lt;p&gt;2.在自己 fork 的 repo 中点击 sync fork 来同步 upstream 代码&lt;/p&gt;
+&lt;p&gt;发现 commit 中包含了 Merge xxx 信息&lt;/p&gt;
+&lt;p&gt;所以如何在点击 sync fork 时使用 rebase 而不是 merge ，还是说只能自己用 git 来手动同步&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:34:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027160#reply0</guid></item><item><title>[奇思妙想] 有没有输入一个 github 地址，就自动部署成服务的平台？</title><link>https://www.v2ex.com/t/1027158#reply4</link><description>&lt;p&gt;比如，我看到一个 github 上的开源项目，
+想看看这个项目的演示效果，但是作者没提供 demo.
+有没有一种平台或者工具，输入这个 github 的项目地址，
+然后自动分析代码，自动部署环境，我就能看到效果？
+chatgpt 的 api 可以作为分析代码的工具吗？&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027158#reply4</guid></item><item><title>[问与答] 问下大哥们，微软账户里有 10 美元，买礼品卡冲进去的，怎么能用掉呢？</title><link>https://www.v2ex.com/t/1027157#reply0</link><description>本来想去注册 msn 账户的，可惜晚了几天，刚好赶上微软给封了，因为没有美国信用卡和美区 PayPal 当时就用的礼品卡购买的 msn 会员，现在退款的话，这 10 美元能套现出来吗？还是如果不买游戏的话，就只能放里面了</description><pubDate>Tue, 26 Mar 2024 07:22:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027157#reply0</guid></item><item><title>[程序员] 广告一下自己的公众号，希望大佬关注支持提意见</title><link>https://www.v2ex.com/t/1027156#reply1</link><description>公众号名称：安全随笔&lt;br /&gt;笔者会经常发一些工作中的总结、学习积累&lt;br /&gt;希望可以和大佬们一起分享，交流，提升，谢谢🙏</description><pubDate>Tue, 26 Mar 2024 07:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027156#reply1</guid></item><item><title>[职场话题] 那些年遇到的打工人（七）</title><link>https://www.v2ex.com/t/1027155#reply0</link><description>&lt;p&gt;他们遇到的那个梦里才有的行当，就是借网贷，又称——撸口子。熟悉互联网的朋友或许早已听过一个词：P2P 。&lt;/p&gt;
+&lt;p&gt;P2P 交易模式诞生于欧美，本来仅是针对特定范围的小众商业模式，但是 2006 年传入国内后，打着金融创新的旗号，有所变质。2006-2015 年，由于国内行业监管缺失，大量 P2P 在发展过程中以类信用中介模式冲规模，挤压正规信息中介生存空间，劣币驱逐良币，导致风险快速积聚。&lt;/p&gt;
+&lt;p&gt;我前面说过，我这位同事靠网站获得了第一桶金，这件事的时间，发生在 2014 年。这个看起来普普通通的年份，为什么十年后我仍然记得这么清楚呢？因为次年，也就是 2015 年，是 P2P 行业最重要的一个时间节点。据新浪财经统计：2012 年，国内网贷运营平台数量只有 100 多家，而到了 2015 年，已经到达了约 5000 家。这是 P2P 行业在国内最疯狂的时期。&lt;/p&gt;
+&lt;p&gt;这些在 2012-2015 年间野蛮发展的平台，多数缺少相应金融资质，从业者鱼龙混杂，在很多操作、程序和规则上都较为灰色，不能算是正规运营。&lt;/p&gt;
+&lt;p&gt;而我所在的公司恰恰也涉及了这块业务。本来，公司的资金端和资产端是分开运作的，但由于这一行热得太快，老板一声令下：加班加点，全力赶工，抓紧把网页端和 APP 端做出来！于是，那边过来抽调人手，我和我这位产品同事就被借过去了。至此，一片全新的、自由的天地展开在他面前。&lt;/p&gt;
+&lt;p&gt;那天，他绝对刷新了单日“坐禅”记录。以至于他那个靠卷出名的领导下班时，因为怕他猝死在工位上，破天荒地叮嘱了一句：早点回去。可对一心只想搞钱的他，心思早已飞远，就像古人望穿秋水一样，他此刻几乎要望穿屏幕。&lt;/p&gt;
+&lt;p&gt;据说，那天他下楼回去，把一楼开门的保安从值班室的单人床上叫起来时，保安大爷看了看时间，差点没跟他道一句“早上好”。&lt;/p&gt;
+&lt;p&gt;可他真的、完全没觉得累。在仔细读完产品需求文档，以及浏览、操作了 N 多个同行的 APP 之后，他脑子里只有两个字：风口。&lt;/p&gt;
+&lt;p&gt;站在风口上，猪能不能飞不知道，但钱，毫无疑问能飞起来！&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:17:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027155#reply0</guid></item><item><title>[汽车] 领克 08 能买吗，预测今年最低能到多少</title><link>https://www.v2ex.com/t/1027154#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;因为家用，且高，不是 suv 有点挤了&lt;/li&gt;
+&lt;li&gt;想要四驱哪款&lt;/li&gt;
+&lt;li&gt;还有其他备选推荐吗&lt;/li&gt;
+&lt;li&gt;老司机们预测能到多少最低&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 26 Mar 2024 07:17:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027154#reply0</guid></item><item><title>[问与答] 大家有推荐的书读读吗，刚看完长安的荔枝</title><link>https://www.v2ex.com/t/1027151#reply3</link><description>&lt;p&gt;我用的微信读书&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:15:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027151#reply3</guid></item><item><title>[分享发现] 网易云音乐删除了"相似推荐"功能，改为“听相似歌曲”</title><link>https://www.v2ex.com/t/1027150#reply0</link><description></description><pubDate>Tue, 26 Mar 2024 07:13:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027150#reply0</guid></item><item><title>[成都] 准备去成都生活，工作在高新区，准备先租个房子，大家推荐住在哪个区比较舒服呀？</title><link>https://www.v2ex.com/t/1027149#reply4</link><description></description><pubDate>Tue, 26 Mar 2024 07:13:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027149#reply4</guid></item><item><title>[程序员] vcruntime140.dll 和 vcomp140.dll 什么情况下会被修改？</title><link>https://www.v2ex.com/t/1027148#reply0</link><description>&lt;p&gt;事情经过是这样的，之前打开的好好的软件突然打不开了，看日志排查提示是 vcruntime140.dll 的问题，后发现 system32 下的这 2 个文件最后修改日期是 2024-03-05 。&lt;/p&gt;
+&lt;p&gt;没找到原因，于是我重新下了 Microsoft Visual C++的最新运行库安装，vcruntime140.dll 和 vcomp140.dll 的最后修改日期变成了 2024-01-19 ，软件可以打开了，问题是解决了。&lt;/p&gt;
+&lt;p&gt;但我不明白，是什么操作导致那 2 个文件的修改日期变成了 2024.03.05 ，而且从软件不能正常打开来看，内容也的确变了，我印象这之间也没有安装 Microsoft Visual C++。&lt;/p&gt;
+&lt;p&gt;请问 v 友们，有办法排查这个是被什么修改了吗？谢谢。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:13:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027148#reply0</guid></item><item><title>[青岛] 蹲个待业前端</title><link>https://www.v2ex.com/t/1027146#reply0</link><description>&lt;h2&gt;在尝试做一个简单的 ERP&lt;/h2&gt;
+&lt;p&gt;我是后端，所以需要一个会 vue 的前端，给钱可能不多，有工作的就算了，青岛优先&lt;/p&gt;
+&lt;p&gt;有意加我：ZzExODQ3ODg1NjA=&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:09:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027146#reply0</guid></item><item><title>[问与答] 领英是怎么关联数据的？用姓名吗？</title><link>https://www.v2ex.com/t/1027145#reply0</link><description>今天挂 tw 梯子尝试注册了领英，用 gmail 登录的，这个邮箱我没提供给公司过，注册进去后自动被关注了台湾的分公司，而且工作经历里直接有这家的工作记录，怎么做到的？</description><pubDate>Tue, 26 Mar 2024 07:07:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027145#reply0</guid></item><item><title>[Apple] infuse 进阿里云看备份盘和资源盘特别慢是啥原因</title><link>https://www.v2ex.com/t/1027144#reply3</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/FNcdhcz.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027144#reply3</guid></item><item><title>[macOS] macOS 更新后启动台图标被打乱</title><link>https://www.v2ex.com/t/1027143#reply0</link><description>&lt;p&gt;如题，macOS 更新到 Sonoma 14.4.1 之后启动台的图标全被打乱了。很久之前这个问题出现过几次，但后面就很稳定了，这次这个问题又出现了差点给我翻白眼气晕过去。之前出问题的时候有用过 Launchpad Manager 这样的软件来管理，但是软件我自己认为不是很好用，而有些人推荐的用命令行重启启动台的方法也要我把安装的 app 一个一个放回去，请问还有什么更好的方法直接一步到位，把图标全部恢复到原来的地方吗？&lt;/p&gt;
+&lt;p&gt;图片放图床上了，不知道能不能看得见。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://postimg.cc/zVRwW0Ly" rel="nofollow"&gt;&lt;img alt="temp-Imagey1zm-Lx.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/zXxxsQ8F/temp-Imagey1zm-Lx.avif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://postimg.cc/5XBwKyS1" rel="nofollow"&gt;&lt;img alt="temp-Imagez-DNr-JL.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/8z3t5rFF/temp-Imagez-DNr-JL.avif" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://postimg.cc/bZcxRkb3" rel="nofollow"&gt;&lt;img alt="temp-Imagek6vr1s.avif" class="embedded_image" rel="noreferrer" src="https://i.postimg.cc/vZD0bvmF/temp-Imagek6vr1s.avif" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:02:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027143#reply0</guid></item><item><title>[Python] pymongo ssh 跳板机连远程 mongodb 数据库一直 timeout？有有经验的伙计帮忙看看吗？</title><link>https://www.v2ex.com/t/1027142#reply0</link><description>&lt;pre&gt;&lt;code class="language-python"&gt;# -*- coding: UTF-8 -*-
 
-LogManager* getInstance()
-{
-    static LogManager log_manager;
+import pymongo
+import urllib.parse
+import logging
+from sshtunnel import open_tunnel, SSHTunnelForwarder
 
-    return &amp;amp;log_manager;
-}
+sshHost = "1.2.3.4"
+sshPort = 4022
+sshUser = "sshUser"
+sshPass = "sshPass"
+
+mongoHost = '4.5.6.7'
+mongoPort = 27017
+mongoUser = urllib.parse.quote_plus('root')
+mongoPass = urllib.parse.quote_plus('pass123')
+
+server = SSHTunnelForwarder(
+    (sshHost, sshPort),
+    ssh_username=sshUser,
+    ssh_password=sshPass,
+    remote_bind_address=(mongoHost, mongoPort),
+)
+
+# server =  open_tunnel(
+#     (sshHost, sshPort),
+#     ssh_username=sshUser,
+#     ssh_password=sshPass,
+#     remote_bind_address=(mongoHost, mongoPort),
+#     local_bind_address=('0.0.0.0', 10022)
+# )
+server.start()
+# mongoDSN = 'mongodb://%s:%s@localhost:10022/dbname?authSource=admin' % (mongoUser, mongoPass)
+# client = pymongo.MongoClient(mongoDSN, server.local_bind_port)
+client = pymongo.MongoClient(
+    '127.0.0.1', 
+    server.local_bind_port, 
+    username=mongoUser, 
+    password=mongoPass, 
+    authSource='admin'
+)
+db = client[dbName]
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;今天在看《 C++ 并发编程实战》时，了解到可以通过 std::call_once() 进行一次完整的初始化。接着往下看，发现书中也推荐了局部静态变量，并提到在 C++11 中，多线程安全问题被解决了。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;还有一种初始化过程中潜存着条件竞争：其中一个局部变量为 static 类型，这种变量的在声明后就已经完成初始化。对于多线程调用的函数，这就意味着这里有条件竞争——抢着去定义这个变量。很多在不支持 C++ 11 标准的编译器上，在实践过程中，这样的条件竞争是确实存在的，因为在多线程中，每个线程都认为他们是第一个初始化这个变量线程，或一个线程对变量进行初始化，而另外一个线程要使用这个变量时，初始化过程还没完成。在 C++ 11 标准中，这些问题都被解决了：初始化及定义完全在一个线程中发生，并且没有其他线程可在初始化完成前对其进行处理，条件竞争终止于初始化阶段，这样比在之后再去处理好的多。在只需要一个全局实例情况下，这里提供一个 std::call_once 的替代方案。&lt;/p&gt;
-&lt;p&gt;《 C++ 并发编程实战》 3.3.1&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;现在我使用的方案是 std::call_once()，但是我想了解局部静态变量在 c++11 中的多线程安全问题是如何解决的？是否有这方面的资料。感觉直接使用局部静态变量也不错。也想请教一下大家在单例模式中是使用的哪种方式。&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:31:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026868#reply2</guid></item><item><title>[Surge] surge 做旁路由时，是否可以分别指定某一设备用哪个节点？</title><link>https://www.v2ex.com/t/1026866#reply1</link><description>比如说局域网内有 A 、B 、C 三个设备，分别让 surge 指定三设备在全局状态下走香港、新加坡、台湾线路呢？</description><pubDate>Mon, 25 Mar 2024 09:29:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026866#reply1</guid></item><item><title>[分享发现] 看了一下 QQ 邮箱的已发送邮件 满满的回忆</title><link>https://www.v2ex.com/t/1026865#reply1</link><description>最近在等 offer 所以频繁刷了一下 QQ 邮箱，偶然打开了发件箱发现了最早 13 年前发过的邮件，看到小学阶段跟朋友吵架后发的贺卡接受道歉的留言，初中阶段给关注的外国学习博主的蹩脚英语留言，迷上看小说然后去自己写投稿的邮件，还有几年前大学阶段作业邮件。给 kindle 邮箱发过的书，还找到了之前手机坏了登不了微信，而且笔记本被自己物理机系统直接干成 ubuntu 也没法登 QQ ，用 qq 邮箱给女友报备的邮件。&lt;br /&gt;  10 年前互联网对我来说很小，我接触到的只要 QQ,网页小游戏，逛论坛这些但是回顾来看却更有互联网，网友互帮互助的味道。再说一下我的老爹，在零几年时，他喜欢在轮流上麦的直播间唱歌，加生活中素未相识的网友聊天，友好交流，有些人从未见过面，现在偶尔也会聊一聊近况。但是最近我越来越排斥在互联网上跟人交流，去年在抖音评论区的一条评论被一个不人看的不顺眼就被恶言相向，各种短视频软件的评论区很多评论“梗”，重复率严重，感觉都看到了很多次了，实在是让人没有打开评论区沟通的欲望=^=.....&lt;br /&gt;  最近偶然之下发现了 V2EX ，感觉大家都在好好交流，很开心来到这里。不知不觉写的内容已经偏离了标题，祝各位友身体健康，工作顺利~&lt;br /&gt;&lt;br /&gt;PS:简历留 QQ 邮箱看起来会有点不专业，只是微软邮箱和谷歌邮箱怕收不到邮件，最后选择了感觉稳定一点的 qq</description><pubDate>Mon, 25 Mar 2024 09:27:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026865#reply1</guid></item><item><title>[问与答] 脑子不太好使，一个单链表，花了将近 3 个小时才徒手写出来。</title><link>https://www.v2ex.com/t/1026864#reply0</link><description>1.这还是在看完讲解，画完图之后的成果。&lt;br /&gt;2.好在自己写出来后，算是完全理解了。&lt;br /&gt;3.命令行模式写的，把 vi 的一些基本命令又复习了一遍。&lt;br /&gt;&lt;br /&gt;明天把双链表写出来，后天看情况是不是实现 ArrayList 的一些基本功能。&lt;br /&gt;&lt;br /&gt;链表在数据结构中是基础中的基础吗，很多课程讲的第一个数据结构就是链表。</description><pubDate>Mon, 25 Mar 2024 09:26:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026864#reply0</guid></item><item><title>[问与答] 春天到了，可以出去露营了，选择困难症患者求 V 友推荐一款自动帐篷</title><link>https://www.v2ex.com/t/1026863#reply4</link><description>诉求：自动帐篷，搭建方便，适合一家三口，无异味，价格 300 以内，有黑胶更好</description><pubDate>Mon, 25 Mar 2024 09:26:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026863#reply4</guid></item><item><title>[Safari] macOS Safari 输入框 BUG 导致进程卡死</title><link>https://www.v2ex.com/t/1026862#reply0</link><description>&lt;p&gt;macOS Safari 在弹出原生的输入框后直接按 ESC 会导致 Safari 卡死，需要强制结束进程才行。&lt;/p&gt;
-&lt;p&gt;大家有遇到过/复现这个问题么？&lt;/p&gt;
+&lt;p&gt;先用注释掉的代码试了一下，总提示：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt; Could not establish connection from local ('127.0.0.1', 10022) to remote ('4.5.6.7', 27017) side of the tunnel: open new channel ssh error: SSH session not active&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;再提示：&lt;code&gt;pymongo.errors.ServerSelectionTimeoutError: 127.0.0.1:10022: [WinError 10061] 由于目标计算机积极拒绝，无法连接。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;未注释的代码就提示&lt;code&gt;pymongo.errors.ServerSelectionTimeoutError: 4.5.6.7:27017: timed out&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;ip 我隐藏修改过了，不是原本的 ip&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 07:02:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027142#reply0</guid></item><item><title>[程序员] 关于 wifi 全屋覆盖</title><link>https://www.v2ex.com/t/1027141#reply5</link><description>&lt;p&gt;就现在家里是 100 平的跃式结构，有地下室 + 客厅厨房餐厅 + 主卧侧卧公卫等 相当于三层平面&lt;/p&gt;
+&lt;p&gt;然后客厅，地下室，主卧都有网线和路由器，不过是不同牌子的而且比较旧了，走来走去 wifi 会断，宽带是移动的 300M 。&lt;/p&gt;
+&lt;p&gt;这样情况下想全屋信号覆盖，例如看直播走动都不会断的那种，该如何考虑组网方案?&lt;/p&gt;
+&lt;p&gt;以及路由器推荐，预算考虑千元内，尽可能的节省 :)&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:59:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027141#reply5</guid></item><item><title>[程序员] 没有人来聊聊今天飞书开始裁员的事情么</title><link>https://www.v2ex.com/t/1027140#reply0</link><description>&lt;p&gt;虽然我已经离开飞书快一年了。&lt;/p&gt;
+&lt;p&gt;但是我一直以为字节是互联网大裁员的最后一根独苗，现在也无了。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:56:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027140#reply0</guid></item><item><title>[游戏] 串流玩游戏，可以直接用笔记本的 WiFi 热点吗？</title><link>https://www.v2ex.com/t/1027139#reply1</link><description>现在用的 moonlight 进行串流玩游戏，通过笔记本连路由器，手机连同一个路由进行串流，但是感觉偶尔会卡顿，所以想可不可以直接用笔记本发送 WiFi 热点，手机直接连接热点进行串流，这样是不是延迟就更低更稳定了？但是手机连热点找不到笔记本啊，有什么办法么？</description><pubDate>Tue, 26 Mar 2024 06:55:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027139#reply1</guid></item><item><title>[问与答] chocolatey 安装程序报错</title><link>https://www.v2ex.com/t/1027138#reply0</link><description>&lt;a href="https://imgur.com/a/qsGaEQU" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/qsGaEQU&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;如图,重装后不管安装什么都提示这个,代理应该没有问题,scoop 正常安装&lt;br /&gt;系统 win10 ltsc 2021&lt;br /&gt;有大佬解答下吗</description><pubDate>Tue, 26 Mar 2024 06:53:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027138#reply0</guid></item><item><title>[分享创造] [限免] OneSticker - 全平台实时同步便签 🎉</title><link>https://www.v2ex.com/t/1027135#reply3</link><description>&lt;h3&gt;OneSticker 是一个能在所有平台进行实时同步编辑的便签 App&lt;/h3&gt;
+&lt;p&gt;下载🔗：&lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/OneSticker.1.0.0.exe" rel="nofollow"&gt;Windows&lt;/a&gt; / &lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/OneSticker-1.0.0-universal.dmg" rel="nofollow"&gt;MacOS&lt;/a&gt; / &lt;a href="https://github.com/fengyiqicoder/OneStickerRelease/releases/download/1.0.0/app-release.apk" rel="nofollow"&gt;Android&lt;/a&gt; / &lt;a href="https://testflight.apple.com/join/67uL7LXO" rel="nofollow"&gt;iOS (TestFlight)&lt;/a&gt; / &lt;a href="https://my.onesticker.app/" rel="nofollow"&gt;Web&lt;/a&gt; / &lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="img1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/VfvezYT.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;🌟主要功能&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;macOS 14.3.1&lt;/li&gt;
-&lt;li&gt;Safari 17.3.1&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 25 Mar 2024 09:26:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026862#reply0</guid></item><item><title>[问与答] 键盘敲多了怎么保护手指关节?</title><link>https://www.v2ex.com/t/1026861#reply1</link><description>&lt;p&gt;是这样的, 我习惯使用&lt;code&gt;Ctrl&lt;/code&gt;键切换中英文输入, 使用 87 键的键盘切换的时候都是用左手小拇指和手掌连接处按压&lt;code&gt;Ctrl&lt;/code&gt;键切换, 这几天有点发疼, 你们有过这样子的感受吗, 摸鱼聊天工作写代码, 使用多了, 该怎么保护手指关节&lt;/p&gt;</description><pubDate>Mon, 25 Mar 2024 09:24:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026861#reply1</guid></item><item><title>[问与答] 请问怎么恢复忽略的主题</title><link>https://www.v2ex.com/t/1026857#reply1</link><description>不小心点了“忽略主题”，还挺想看的，请问怎么恢复</description><pubDate>Mon, 25 Mar 2024 09:19:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026857#reply1</guid></item><item><title>[OpenAI] stable diffusion 使用同样的参数，似乎不能百分百复现别人的图片？</title><link>https://www.v2ex.com/t/1026855#reply1</link><description>最近折腾 SD ，发现一个现象，从 civitai 站看人家的图片给出的生成信息，把所有参数，从模型到关键词到 lora 全部对进去后，生成的图，99%相似，但是仍然会有一些细微的区别，主要体现在有光照的部分，光照部分的颜色和轮廓，会有细微的变化，这到底是正常的还是不正常？原因到底是什么呢？</description><pubDate>Mon, 25 Mar 2024 09:17:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026855#reply1</guid></item><item><title>[酷工作] 蚂蚁 24 春季实习-AI Infra/ Java / Python -杭州/上海/北京</title><link>https://www.v2ex.com/t/1026854#reply0</link><description>&lt;p&gt;蚂蚁集团-超级计算技术部-算力治理 春季实习招聘&lt;/p&gt;
-&lt;p&gt;蚂蚁集团作为一家聚焦金融的科技公司，算力治理团队负责提供支撑全站业务的强大算力服务，算力涵盖但不限于传统的微服务、AI 训练与推理、搜索推荐、高性能分布式缓存等多个领域。秉承云原生和 Google SRE 的先进设计思想与理念，我们致力于构建一个高性能、稳定、经济且绿色的算力生态。我们的重点工作领域涵盖但不限于：
-● 实施基于基础设施即代码 (IaC) 和配置驱动的多云管理平台工程
-● 采用 AIOps 和 SLO 驱动的模式，不断优化算力资源的配置和使用效率
-● 通过数据化运营及智能化探索服务工作的各个方面，包括大模型全生命周期、搜索推荐链路等&lt;/p&gt;
-&lt;p&gt;职位描述&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;负责大模型工程（ LLMOps ）方向工作，包括模型训练、推理、模型微调、模型优化等各个阶段。&lt;/li&gt;
-&lt;li&gt;负责搜索引擎、推荐引擎等基础平台，及其所支撑的上层搜索、推荐、广告业务的 SRE 方向&lt;/li&gt;
-&lt;li&gt;负责上述产品的 SLA 体系、应急响应机制、容灾体系的建设，保障业务的持续可用&lt;/li&gt;
-&lt;li&gt;负责上述平台的运维自动化、全链路风险识别、数字化运营等平台的设计和开发；引领产品的稳定性保障模式向数字化、智能化方向演进。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;职位要求&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;具有扎实的编程基础，至少熟悉一门开发语言（ Java, C/C++, Python ，GoLang……）&lt;/li&gt;
-&lt;li&gt;熟悉 Linux 操作系统&lt;/li&gt;
-&lt;li&gt;有 AI 算法、AI 工程、大数据、K8S 研发或 CNCF 项目经验优先。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我们希望你&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;热爱大数据和 AI 领域，关注业界领域动向。&lt;/li&gt;
-&lt;li&gt;对技术足够好奇，折腾主义者，热衷于挑战系统的各种边界和天花板。&lt;/li&gt;
-&lt;li&gt;喜好专治各种性能和异常的疑难杂症，并乐于做技术剖析、总结沉淀和分享。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;投递方式（任选其一）&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;发送简历到 &lt;a href="mailto:qiuzhaolin.qzl@antgroup.com"&gt;qiuzhaolin.qzl@antgroup.com&lt;/a&gt; ，简历直达部门 [流程优先] &lt;/li&gt;
-&lt;li&gt;添加微信号 nilcric ，沟通更流畅～&lt;/li&gt;
-&lt;li&gt;自行在系统中投递 &lt;a href="https://hrrecommend.antgroup.com/job-list.html?code=iHvETkS7xP1WPqqicyp%2F4t%2FecGVXazNJBR67H16JI3g%3D" rel="nofollow"&gt;link&lt;/a&gt;。&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Mon, 25 Mar 2024 09:16:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1026854#reply0</guid></item></channel></rss>
+&lt;li&gt;全平台实时同步便签内容&lt;/li&gt;
+&lt;li&gt;6 种可选颜色&lt;/li&gt;
+&lt;li&gt;5 种可选字体&lt;/li&gt;
+&lt;li&gt;可在桌面上置顶&lt;br /&gt;
+&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;
+&lt;img alt="img1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GMDxsCO.png" /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;🤔设计理念&lt;/h3&gt;
+&lt;p&gt;OneSticker 的设计理念是通过简洁的文本编辑和跨平台同步，提供便捷的笔记体验，目标是简化多设备间的信息管理。它旨在让用户轻松记录、访问并管理思维碎片，不论使用何种设备。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GMDxsCO.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;🪄未来功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;历史记录：可以找回删除的便签&lt;/li&gt;
+&lt;li&gt;智能边框： 便签的高度根据输入内容的高度自动变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🎁 目前 &amp;lt;OneSticker&amp;gt; 限免中，欢迎大家下载试用、提出问题和反馈
+&lt;a href="https://onesticker.app/" rel="nofollow"&gt;⭐官网&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 06:52:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027135#reply3</guid></item></channel></rss>
