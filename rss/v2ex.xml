@@ -1,88 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 26 Mar 2024 16:32:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[.NET] 时隔半年，我又来吐槽 nuget 了</title><link>https://www.v2ex.com/t/1027291#reply2</link><description>（旧贴： &lt;a href="https://www.v2ex.com/t/947377" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/947377&lt;/a&gt; ）&lt;br /&gt;&lt;br /&gt;没错这东西真的用到吐了，最近感到最傻鸟的一个点就是：&lt;br /&gt;它提供了 Nuget list 的命令，用于列出仓库中所有的包列表；&lt;br /&gt;然后无论国内国外，官方私服，内网外网的哪个仓库，都无法在几十分钟之内结束；&lt;br /&gt;都是 3 秒刷一屏 3 秒刷一屏的往外吐结果&lt;br /&gt;那整个请求要跑多久？&lt;br /&gt;这个 http 连接要保持多久？ server 端的 timeout 怎么配置？&lt;br /&gt;长时间不完成的连接对 server 的压力要有多大？&lt;br /&gt;&lt;br /&gt;请问半小时执行完一个 list 的命令，还执行它有什么意义？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这里拿 yum list 来做个对比，3s 执行完😩，简单又轻松。&lt;br /&gt;&lt;br /&gt;窥一斑而知全豹，nuget 你不羞愧吗？</description><pubDate>Tue, 26 Mar 2024 16:07:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027291#reply2</guid></item><item><title>[程序员] 不同编辑器在大家心目中的定位</title><link>https://www.v2ex.com/t/1027289#reply4</link><description>大学时期接触到 vscode ，感觉 vscode 是宇宙编辑器，插件安装简单，一切都是那么美妙，&lt;br /&gt;但是，最近工作中发现，vscode 能做的好像在前端方面是比较强。&lt;br /&gt;大家一般写不同类型的代码的时候会使用不同编辑器还是一个编辑器吃遍天，大家对不同的编辑器的定位是什么呢？&lt;br /&gt;(其实有点小私心，就是顺便收集下我常写的类型代码的评价最好的编辑器去使用一下)</description><pubDate>Tue, 26 Mar 2024 15:48:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027289#reply4</guid></item><item><title>[程序员] 怎么把手机热点转换成有线网络，然后把网线连接交换机，给家里的好几台设备上网，临时用用，不长期用。</title><link>https://www.v2ex.com/t/1027288#reply1</link><description>&lt;p&gt;需要这几台设备在同一个网关，家里两三台电脑，有的没有无线网卡很不方便，我需要从内网两台设备之间传文件&lt;/p&gt;
-&lt;p&gt;家里主路由坏了，临时用几天，正好研究一下，以后当个备用网络方案&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:41:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027288#reply1</guid></item><item><title>[程序员] 发现一个框架性能对比网站，我把 rust/go/ Java /csharp/js/py 对比了下</title><link>https://www.v2ex.com/t/1027287#reply2</link><description>&lt;p&gt;直接上 link：&lt;a href="https://web-frameworks-benchmark.netlify.app/result?l=python,go,rust,java,javascript,csharp" rel="nofollow"&gt;https://web-frameworks-benchmark.netlify.app/result?l=python,go,rust,java,javascript,csharp&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个网站好像定时会把流行框架最新版本拿来测试下性能，qps 之类的，上次测试刚好是昨天，时效性挺高。&lt;/p&gt;
-&lt;p&gt;对比了下发现&lt;/p&gt;
-&lt;p&gt;1 、js 的 uwebsockets 框架性能吊打其他框架（ 20w qps ），不知道是咋做到的&lt;/p&gt;
-&lt;p&gt;2 、紧接着是 java 的框架，主要是 activej ，这个好像没啥人用，应该属于那种专精性能的，qps 19.9w 。&lt;/p&gt;
-&lt;p&gt;3 、然后就是 rust 的 actix 了，qps 19.5w&lt;/p&gt;
-&lt;p&gt;4 、再往下很大都是 java 系列的，什么 vertx （这个听说过）、rapidoid 、jooby ，JIT 优化确实强&lt;/p&gt;
-&lt;p&gt;5 、再往下就是 go 了，都说 go 性能一般，最好的是 fasthttp ，qps 在 17w 多，也不算差了，接着是 fiber 、gorouter ，还有字节的 hertz &lt;/p&gt;
-&lt;p&gt;6 、rust 的 axum 性能比 gin 好，但要比 go 的 fasthttp 、fiber 差&lt;/p&gt;
-&lt;p&gt;7 、接下来还是清一色的 go 框架，不得不吐槽 go web 框架是真的多，感觉都没啥区别。gin 、echo 在 12w qps&lt;/p&gt;
-&lt;p&gt;8 、不出意料的垫底：python ，django qps 居然只有 1.6k ，这也太差劲了……&lt;/p&gt;
-&lt;p&gt;9 、用的比较多的 spring 在 5w qps ，中游的样子，够用，并且生态比绝大部分框架都强&lt;/p&gt;
-&lt;p&gt;当然真实项目的性能肯定没这么简单，这只是单纯测试框架处理请求的能力而已，别太较真&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:39:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027287#reply2</guid></item><item><title>[问与答] 有大佬在用 小新 pro 14 8845 装 Linux 吗</title><link>https://www.v2ex.com/t/1027286#reply0</link><description>有啥驱动适配问题没, 还有就是 oled 的适配如何啊&lt;br /&gt;&lt;br /&gt;我常用 arch + kde(or gnome)&lt;br /&gt;&lt;br /&gt;或者 redmibookpro 16 ultra7 的 linux 适配如何啊</description><pubDate>Tue, 26 Mar 2024 15:36:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027286#reply0</guid></item><item><title>[问与答] 请教一个 QX 的分流问题</title><link>https://www.v2ex.com/t/1027285#reply1</link><description>&lt;p&gt;刚接触 QX ，麻烦请教一个问题，我不太懂网络这些，还请大佬赐教。&lt;/p&gt;
-&lt;p&gt;geoip, cn, direct ，这一行到底匹配了什么？&lt;/p&gt;
-&lt;p&gt;我有这个问题的原因是：随便打个比方，我想给 B 站分流到香港，所以引用了 B 站的远程策略使用香港节点，也确实产生了效果；但是访问 B 站的时候，不是应该在本地匹配的时候就被 geoip, cn, direct 先截胡了么？&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:34:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027285#reply1</guid></item><item><title>[程序员] 对汇率转换功能做了 3 项体验优化</title><link>https://www.v2ex.com/t/1027284#reply4</link><description>&lt;p&gt;让 Claude 帮忙优化了一下体验：&lt;br /&gt;
-1.增加了搜索框&lt;br /&gt;
-2.增加源国家和目标国家相互/左右切换&lt;br /&gt;
-3.默认打开页面设置为从 USD 到 CNY 的转换  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pbs.twimg.com/media/GJmyY_ybIAEq0o9?format=jpg&amp;amp;name=4096x4096" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://currency.996geek.com" rel="nofollow"&gt;https://currency.996geek.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 15:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027284#reply4</guid></item><item><title>[问与答] 三大营业厅的低费套餐办理</title><link>https://www.v2ex.com/t/1027283#reply1</link><description>想办理个低费的手机号，看了看三大运营商中只找到电信的无忧卡办理地址，月租 5 元，另外两家没看到地址呢，是套餐停止了吗</description><pubDate>Tue, 26 Mar 2024 15:20:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027283#reply1</guid></item><item><title>[问与答] 有大佬报名 爪哇教育的 Web 前端大厂工程师训练营课程吗？ 这类的短期突击有用吗，课程质量如何</title><link>https://www.v2ex.com/t/1027281#reply2</link><description>工作了 4 年左右，感觉遇到了瓶颈，想报个班提高一下，顺便也涨点薪资</description><pubDate>Tue, 26 Mar 2024 15:14:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027281#reply2</guid></item><item><title>[宽带症候群] 继上海电信之后香港电信也宣布上 50G PON 技术</title><link>https://www.v2ex.com/t/1027280#reply5</link><description>&lt;a href="https://i.imgur.com/LweWMv1.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/LweWMv1.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.pcmarket.com.hk/hkt-become-the-first-network-operator-introduce-50g-pon-technology-to-hong-kong/" rel="nofollow noopener" target="_blank"&gt;https://www.pcmarket.com.hk/hkt-become-the-first-network-operator-introduce-50g-pon-technology-to-hong-kong/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://hkt.com/assets/Common/files/press-release/2024/Mar/HKT_50G%20Press%20Release%20" rel="nofollow noopener" target="_blank"&gt;https://hkt.com/assets/Common/files/press-release/2024/Mar/HKT_50G%20Press%20Release%20&lt;/a&gt;[Chi].pdf&lt;br /&gt;以后上 25/50G 宽带不是梦</description><pubDate>Tue, 26 Mar 2024 14:56:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027280#reply5</guid></item><item><title>[程序员] 写了个 kafka GUI，好用不好用赏我个建议</title><link>https://www.v2ex.com/t/1027279#reply3</link><description>&lt;p&gt;春节无聊，在家写了这么一个 kafka 客户端（叫 Kafka King ），用来连接、操作 kafka 集群，也算填补了市面上的空白（据我所知这块还没有啥特别好用的）。&lt;/p&gt;
-&lt;p&gt;开源后推荐给同事用了用，反响也还不错😊&lt;/p&gt;
-&lt;p&gt;以下是简单的介绍，结尾有 github 和 gitee 下载地址，想尝鲜的可以进入下载。&lt;/p&gt;
-&lt;h1&gt;功能清单&lt;/h1&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 29 Mar 2024 20:30:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 宁波买 250 克杨梅花了 85 块，现在物价这么贵了吗？房租弄得实体东西都贵得要死还是拼多多网购香啊就是要等两三天</title><link>https://www.v2ex.com/t/1028293#reply0</link><description></description><pubDate>Fri, 29 Mar 2024 19:58:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028293#reply0</guid></item><item><title>[问与答] Vercel 的 Postgres 免费版 60 个 Compute Hours 是什么概念？</title><link>https://www.v2ex.com/t/1028292#reply0</link><description>&lt;p&gt;最近想选一个免费的 Postgres 代替一直用的 DigitalOcean 的付费数据库&lt;/p&gt;
+&lt;p&gt;暂定了两个选择，如果有其他更好地替代品的话请推荐&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;查看集群节点列表（完成）&lt;/li&gt;
-&lt;li&gt;创建主题（支持批量）、删除主题、支持根据消费者组统计每个 topic 的消息积压量（完成）&lt;/li&gt;
-&lt;li&gt;支持查看 topic 的分区的详细信息，并为主题添加额外的分区（完成）&lt;/li&gt;
-&lt;li&gt;支持查看每个分区的消息 offset （完成）&lt;/li&gt;
-&lt;li&gt;支持模拟生产者，批量发送消息，是否开启 gzip 压缩、acks 、batch_size 、liner_ms ，你可以用来做性能测试（完成）&lt;/li&gt;
-&lt;li&gt;支持模拟消费者，按照内置的组进行指定 size 的消费（完成）&lt;/li&gt;
-&lt;li&gt;主题切换（完成）&lt;/li&gt;
-&lt;li&gt;参数说明对照表（评估中）&lt;/li&gt;
-&lt;li&gt;多语言支持（开发中）&lt;/li&gt;
-&lt;li&gt;……
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://github.com/Bronya0/Kafka-King/raw/main/docs/snap/p8.png" /&gt;&lt;/li&gt;
+&lt;li&gt;Vercel (Hobby): 60 Compute Hours&lt;/li&gt;
+&lt;li&gt;Supabase (Free): 500 MB database space 2 Core shared CPU • 1 GB RAM &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Github：&lt;a href="https://github.com/Bronya0/Kafka-King" rel="nofollow"&gt;https://github.com/Bronya0/Kafka-King&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;好不好用赏点意见ヾ(≧▽≦*)o&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:48:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027279#reply3</guid></item><item><title>[OpenAI] 免费国产 AI 中转 API</title><link>https://www.v2ex.com/t/1027277#reply0</link><description>&lt;p&gt;自己搭了一个，欢迎使用
-&lt;a href="https://api.666888777.xyz/" rel="nofollow"&gt;https://api.666888777.xyz/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027277#reply0</guid></item><item><title>[OpenAI] 2024-03 如果要搭一个 GPT 公司内部用，有什么现成的轮子？</title><link>https://www.v2ex.com/t/1027276#reply8</link><description>&lt;h2&gt;先叠甲&lt;/h2&gt;
+&lt;p&gt;下面那个很好理解，但上面那个 Vercel 是怎么算的？&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 19:52:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028292#reply0</guid></item><item><title>[分享创造] 做了个 whois 查询工具，邀请各位兄弟体验</title><link>https://www.v2ex.com/t/1028291#reply0</link><description>&lt;p&gt;&lt;a href="https://www.ainameservices.com/" rel="nofollow"&gt;https://www.ainameservices.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;兄弟们好，准备做一个域名相关的工具站，先弄出来个单页面，陆续加其他功能页面。欢迎大家体验。&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 19:47:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028291#reply0</guid></item><item><title>[问与答] 关于 Marktext</title><link>https://www.v2ex.com/t/1028289#reply1</link><description>使用 Marktext 有换行并保存，但下次开启时，会自动删除空白行，你们是怎么解决的呢？</description><pubDate>Fri, 29 Mar 2024 19:12:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028289#reply1</guid></item><item><title>[信息安全] [安全警告] xz 和 liblzma 5.6.0~5.6.1 版本上游被植入后门，影响所有 x64 架构 Linux 和 macOS</title><link>https://www.v2ex.com/t/1028288#reply2</link><description>&lt;h2&gt;影响范围&lt;/h2&gt;
+&lt;p&gt;xz 和 liblzma 5.6.0~5.6.1 版本，可能包括的发行版 / 包管理系统有：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;不用担心法务和担责的问题，买了专线，也有买海外服务器，仅公司内网环境下使用。&lt;/li&gt;
-&lt;li&gt;不需要担心什么老板没让你做你就不要做，或者出了问题要担责啥的。&lt;/li&gt;
-&lt;li&gt;纯讨论技术实现。聊不出技术内容光东拉西扯的不需要。&lt;/li&gt;
+&lt;li&gt;Fedora 41 / Fedora Rawhide&lt;/li&gt;
+&lt;li&gt;Debian Sid&lt;/li&gt;
+&lt;li&gt;Alpine Edge&lt;/li&gt;
+&lt;li&gt;x64 架构的 homebrew&lt;/li&gt;
+&lt;li&gt;滚动更新的发行版，包括 Arch Linux / OpenSUSE Tumbleweed&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;需求&lt;/h2&gt;
+&lt;p&gt;如果您的系统使用 systemd 启动 OpenSSH 服务器，您的 SSH 认证过程可能被攻击。&lt;/p&gt;
+&lt;p&gt;非 x64 (amd64) 架构的系统不受影响。&lt;/p&gt;
+&lt;p&gt;您可以在命令行输入&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;xz --version
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;来检查 xz 版本，如果输出为 5.6.0 或 5.6.1 ，说明您的系统已被植入后门&lt;/p&gt;
+&lt;h2&gt;缓解措施&lt;/h2&gt;
+&lt;p&gt;降级到 5.4.6 版本，或者更新到 5.6.4 版本&lt;/p&gt;
+&lt;h2&gt;技术细节&lt;/h2&gt;
+&lt;p&gt;攻击者污染了上游 Git 仓库的 build-to-host.m4 构建脚本和测试用例，在编译期间向 liblzma 注入攻击代码。&lt;/p&gt;
+&lt;p&gt;部分发行版的 OpenSSH Server 链接到 libsystemd ，而 libsystemd 依赖 liblzma 。因此您的 sshd 会执行被植入后门的代码。&lt;/p&gt;
+&lt;p&gt;该后门首先在 sshd 启动时替换 &lt;code&gt;crc32_resolve()&lt;/code&gt; 和 &lt;code&gt;crc64_resolve&lt;/code&gt;，然后试图从内存中解析符号表，并查找 &lt;code&gt;RSA_public_decrypt@....plt&lt;/code&gt; 符号，并将其指向的地址替换为后门代码。&lt;/p&gt;
+&lt;p&gt;在 SSH 登录认证时，sshd 会调用该符号，并在服务器上执行攻击代码。但是其具体行为尚未被观测。&lt;/p&gt;
+&lt;h2&gt;相关链接&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;身份验证&lt;/li&gt;
-&lt;li&gt;对话记录&lt;/li&gt;
-&lt;li&gt;不要让用户自己配置 api-key&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;用过的轮子&lt;/h2&gt;
+&lt;li&gt;&lt;a href="https://xeiaso.net/notes/2024/xz-vuln/" rel="nofollow"&gt;liblzma and xz version 5.6.0 and 5.6.1 are vulnerable to arbitrary code execution compromise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;此漏洞的 CVE 编号：&lt;a href="https://nvd.nist.gov/vuln/detail/CVE-2024-3094" rel="nofollow"&gt;CVE-2024-3094&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users" rel="nofollow"&gt;RedHat 发布的安全通告&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.openwall.com/lists/oss-security/2024/03/29/4" rel="nofollow"&gt;OpenWall 上的技术细节&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 29 Mar 2024 19:08:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028288#reply2</guid></item><item><title>[Linux] xz/liblzma v5.6.0/5.6.1 被植入了以 sshd 为目标的后门</title><link>https://www.v2ex.com/t/1028287#reply7</link><description>&lt;p&gt;Backdoor in upstream xz/liblzma leading to SSH server compromise&lt;/p&gt;
+&lt;p&gt;原文 &lt;a href="https://www.openwall.com/lists/oss-security/2024/03/29/4" rel="nofollow"&gt;https://www.openwall.com/lists/oss-security/2024/03/29/4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HN: &lt;a href="https://news.ycombinator.com/item?id=39865810" rel="nofollow"&gt;https://news.ycombinator.com/item?id=39865810&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;简单来说是 liblzma5 的上游 repo 被植入了后门：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;ChatGPT-web&lt;/p&gt;
+&lt;li&gt;&lt;a href="https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0" rel="nofollow"&gt;https://github.com/tukaani-project/xz/commit/cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tukaani-project/xz/commit/e5faaebbcf02ea880cfc56edc702d4f7298788ad" rel="nofollow"&gt;https://github.com/tukaani-project/xz/commit/e5faaebbcf02ea880cfc56edc702d4f7298788ad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tukaani-project/xz/commit/72d2933bfae514e0dbb123488e9f1eb7cf64175f" rel="nofollow"&gt;https://github.com/tukaani-project/xz/commit/72d2933bfae514e0dbb123488e9f1eb7cf64175f&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tukaani-project/xz/commit/82ecc538193b380a21622aea02b0ba078e7ade92" rel="nofollow"&gt;https://github.com/tukaani-project/xz/commit/82ecc538193b380a21622aea02b0ba078e7ade92&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89" rel="nofollow"&gt;https://github.com/tukaani-project/xz/commit/6e636819e8f070330d835fce46289a3ff72a7b89&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;满足以下条件才会受到影响：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;这个有身份认证，大体可用。&lt;/li&gt;
-&lt;li&gt;有对话记录。但查询起来略麻烦。&lt;/li&gt;
-&lt;li&gt;小缺点是对话轮次无法限制，经常有人用了忘记清上下文，导致 token 被浪费。&lt;/li&gt;
-&lt;li&gt;很久没更新了。&lt;/li&gt;
+&lt;li&gt;liblzma5 v5.6.0/5.6.1&lt;/li&gt;
+&lt;li&gt;A debian or RPM based distro of Linux on x86_64&lt;/li&gt;
+&lt;li&gt;Running OpenSSH sshd from systemd&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ChatGPT-Next-Web&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;优点是 Vercel 一键部署&lt;/li&gt;
-&lt;li&gt;缺点是要自己输入 key&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;提前感谢能提供&lt;strong&gt;有效回复&lt;/strong&gt;的各位大师&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:41:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027276#reply8</guid></item><item><title>[程序员] CDN 的 URL 鉴权</title><link>https://www.v2ex.com/t/1027275#reply0</link><description>&lt;p&gt;CDN 的 URL 鉴权, 还不太熟悉.&lt;/p&gt;
-&lt;p&gt;找到了腾讯云和阿里云的文档&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://cloud.tencent.com/document/product/228/76110" rel="nofollow"&gt;https://cloud.tencent.com/document/product/228/76110&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://help.aliyun.com/zh/cdn/user-guide/configure-url-signing" rel="nofollow"&gt;https://help.aliyun.com/zh/cdn/user-guide/configure-url-signing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有没有用过的朋友, 分享一下有没有什么坑需要注意的?&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:41:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027275#reply0</guid></item><item><title>[程序员] 使用 NextJS 和 CNOCR 实现一个简单的图片 OCR 应用</title><link>https://www.v2ex.com/t/1027274#reply0</link><description>&lt;p&gt;使用 NextJS 和 CNOCR 实现一个简单的网页 OCR 应用 &lt;a href="https://github.com/animebing/cnocr-nextjs" rel="nofollow"&gt;cnocr-nextjs&lt;/a&gt;，这个过程中主要练习了&lt;/p&gt;
+&lt;p&gt;用以下脚本（ author: Vegard Nossum; source: &lt;a href="https://www.openwall.com/lists/oss-security/2024/03/29/4/3" rel="nofollow"&gt;https://www.openwall.com/lists/oss-security/2024/03/29/4/3&lt;/a&gt; ）亦可检测是否受到影响：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#! /bin/bash
+
+set -eu
+
+# find path to liblzma used by sshd
+path="$(ldd $(which sshd) | grep liblzma | grep -o '/[^ ]*')"
+
+# does it even exist?
+if [ "$path" == "" ]
+then
+	echo probably not vulnerable
+	exit
+fi
+
+# check for function signature
+if hexdump -ve '1/1 "%.2x"' "$path" | grep -q f30f1efa554889f54c89ce5389fb81e7000000804883ec28488954241848894c2410
+then
+	echo probably vulnerable
+else
+	echo probably not vulnerable
+fi
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 29 Mar 2024 18:57:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028287#reply7</guid></item><item><title>[macOS] 浏览器有办法检测用户正在使用 Parallels 虚拟机吗？</title><link>https://www.v2ex.com/t/1028286#reply0</link><description>&lt;p&gt;要写几个考试题，在浏览器上面写，网页会记录键盘和鼠标实时动态，且要开摄像头，浏览器无限制，chrome 这种都行。想着在虚拟机里面运行，然后打开网页，这样子实体机器就可以在外面查询 AI&lt;/p&gt;
+&lt;p&gt;请问这个方案可行吗？网页有办法自动检测出用户在虚拟机里面吗？&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 18:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028286#reply0</guid></item><item><title>[酷工作] [远程] [实习生] 招 VUEJS＋ NODEJS 实习生 [日薪 320-500 元]</title><link>https://www.v2ex.com/t/1028285#reply0</link><description>我们是做教育软件开发。我们诚邀有 HTML/CSS/JavaScript, NODEJS, VUEJS 开源项目或者学校项目经验的实习生加入我们公司。&lt;br /&gt;&lt;br /&gt;任职要求 计算机及相关专业大三以上；有网页前后端开发设计，NODEJS 和 VUEJS 　课程项目；或开源项目经历。有批量处理文件经验，懂数据库操作原理和逻辑/&lt;br /&gt;&lt;br /&gt;待遇： 日薪 320-500 元 （时薪 40-65 元）&lt;br /&gt;&lt;br /&gt;职位介绍 由于是远程分布式团队，要求成员有强大的自我驱动力和独立性，不需要持续监督，擅于沟通和配合。 任职要求 计算机及相关专业本科大学生或者研究生； 会 NODEJS+VUEJS 全栈 (大前端）， 具有 NODEJS ，VueJS ，HTML5, CSS 等实际项目开发经验； 擅长数据库操作（ SQL ），懂电脑，微信和手机端网页设计和前后端编程， 能够使用 Git 类软件管理代码版本，了解 electron-vue 。&lt;br /&gt;&lt;br /&gt;有参加开源项目或者实际项目经验； 有较强的 Troubleshooting 能力，能独立研究和解决问题； 具备以下资格优先考虑： 有在开源项目里面做过贡献的优先。&lt;br /&gt;&lt;br /&gt;请把简历寄到：jtech_2013@hotmail.com 请附上项目经验和 GITHUB 链接&lt;br /&gt;&lt;br /&gt;具备以下资格优先考虑： 有开发过远程教育软件，或者多人游戏软件经验的优先。 日薪 320-500 元，无加班&lt;br /&gt;&lt;br /&gt;请把简历寄到：jtech_2013@hotmail.com 请附上 GITHUB 链接。</description><pubDate>Fri, 29 Mar 2024 18:23:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028285#reply0</guid></item><item><title>[问与答] raycast 有没有可以用 azure 的 chatgpt 插件呀</title><link>https://www.v2ex.com/t/1028284#reply2</link><description>&lt;p&gt;自用的 openai 接口是 azure 的，最近想用 raycast ai query ，但是没找到合适的插件。
+或者 v 友们有没有价格便宜的 openai 推荐？不要随便就 limit rate 的。&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 18:00:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028284#reply2</guid></item><item><title>[问与答] v2ex 主题收藏的数量统计逻辑是啥?</title><link>https://www.v2ex.com/t/1028283#reply0</link><description>&lt;p&gt;之前收藏过一些主题，点击进入主题收藏后找不到了，导致用户面板上显示的主题收藏数量和实际不匹配。
+是部分主题被站长隐藏或删除了吗?
+为什么站长在删除或者隐藏用户主题后，不更新其它用户收藏主题数量的缓存统计数据呢?
+这是一个 bug 还是一个 feature?
+强迫症的我，每次看着都难受😫。&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 17:48:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028283#reply0</guid></item><item><title>[问与答] 一个奇怪的 UPnP 应用</title><link>https://www.v2ex.com/t/1028281#reply0</link><description>楼主用小米路由器，今天翻路由器设置的时候突然点到了 UPnP 设置页面，&lt;br /&gt;看到一共四个应用，都是 UDP 协议，其中两个是 vodn-xxx ，应该是智能电视的，没问题，&lt;br /&gt;但还有两个应用的应用名看起来像随机的 32 位字符串，尝试 md5 解码但解不出来，端口分别是 53824 和 59394 ，查了一圈这两个端口对应的服务也没查出什么来，&lt;br /&gt;这两个可疑的应用中有一个指向我手机的内网 IP ，我估计应该是手机上的哪个软件打开的（？&lt;br /&gt;我尝试过用新手机打开常用的几个软件（特别是直播和视频软件），无法复现。&lt;br /&gt;求各位给个排查的思路。</description><pubDate>Fri, 29 Mar 2024 17:21:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028281#reply0</guid></item><item><title>[分享创造] 分享一种借助 Kotlin/Wasm 在 JavaScript 中使用一致的 Kotlin/ Java 正则表达式的方案</title><link>https://www.v2ex.com/t/1028280#reply0</link><description>&lt;h2&gt;为什么会有这个需求&lt;/h2&gt;
+&lt;p&gt;起因是我给我自己编写的 &lt;a href="https://github.com/gkd-kit/selector" rel="nofollow"&gt;高级选择器&lt;/a&gt; 增加了 &lt;code&gt;~=&lt;/code&gt; 操作符(等价 Kotlin/Java 里的 String.mtches 函数)&lt;/p&gt;
+&lt;p&gt;比如 &lt;code&gt;[text~='ikun?']&lt;/code&gt; 简单匹配 text 属性为 &lt;code&gt;ikun&lt;/code&gt; 或者 &lt;code&gt;iku&lt;/code&gt; 的节点&lt;/p&gt;
+&lt;p&gt;这个代码需要同时在 &lt;a href="https://github.com/gkd-kit/gkd" rel="nofollow"&gt;Android&lt;/a&gt; 和 &lt;a href="https://github.com/gkd-kit/inspect" rel="nofollow"&gt;浏览器&lt;/a&gt; 上运行，源代码是基于 &lt;a href="https://kotlinlang.org/docs/multiplatform.html" rel="nofollow"&gt;Kotlin Multiplatform&lt;/a&gt; 构建，可以直接编译到 JavaScript &lt;/p&gt;
+&lt;p&gt;但是涉及到正则表达式，它在 Kotlin/Js 这块的 &lt;a href="https://github.com/JetBrains/kotlin/blob/0938b46726b9c6938df309098316ce741815bb55/libraries/stdlib/js/src/kotlin/text/regex.kt" rel="nofollow"&gt;Regex&lt;/a&gt; 对象只是对 JavaScript  的 &lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp" rel="nofollow"&gt;RegExp&lt;/a&gt; 的简单封装，缺失了很多特性，并没有真正实现跨平台一致&lt;/p&gt;
+&lt;p&gt;比如 &lt;code&gt;(?im)abc&lt;/code&gt; 这个正则表达式在 Kotlin/Jvm 上被正常编译，但 &lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp" rel="nofollow"&gt;RegExp&lt;/a&gt;  不支持此正则语法，所以在 Kotlin/Js 上运行后提示非法正则&lt;/p&gt;
+&lt;p&gt;也可以在 &lt;a href="https://youtrack.jetbrains.com/issue/KT-49065" rel="nofollow"&gt;KT-49065&lt;/a&gt; 找到类似的问题，所以为了保持一致性，我需要解决在 JavaScript 上使用的问题&lt;/p&gt;
+&lt;h2&gt;解决此问题的历程&lt;/h2&gt;
+&lt;p&gt;我一开始想着看看有没有人用 JavaScript 手动实现  Kotlin/Java 正则表达式，有的话我直接 &lt;code&gt;pnpm add&lt;/code&gt; 就完了&lt;/p&gt;
+&lt;p&gt;搜遍了 &lt;a href="https://www.npmjs.com/" rel="nofollow"&gt;www.npmjs.com&lt;/a&gt; 果然没有，看来是这个需求太小众了么&lt;/p&gt;
+&lt;p&gt;后面我又找到 &lt;a href="https://regex101.com/" rel="nofollow"&gt;regex101.com&lt;/a&gt;，看起来它在网页上实现了 Java8 的正则表达式解析和匹配&lt;/p&gt;
+&lt;p&gt;可惜它不是开源的，在 Github 找到的相关代码也是编译压缩后的产物&lt;/p&gt;
+&lt;p&gt;然后我找到了 openjdk17 的 &lt;a href="https://github.com/openjdk/jdk17/blob/4afbcaf55383ec2f5da53282a1547bac3d099e9d/src/java.base/share/classes/java/util/regex/Pattern.java" rel="nofollow"&gt;java/util/regex/Pattern.java&lt;/a&gt; 的源代码，想着手动转译实现吧&lt;/p&gt;
+&lt;p&gt;但是看着如此庞大的代码，我一个 BUG 制造机器还是放弃了&lt;/p&gt;
+&lt;p&gt;最后想到了 Kotlin Multiplatform 下的 Kotlin/Wasm (目前处于实验阶段)&lt;/p&gt;
+&lt;p&gt;简单的原理描述就是将 kotlin 代码编译到 wasm 导出对象然后通过在 浏览器 端加载替换匹配函数&lt;/p&gt;
+&lt;p&gt;1 . &lt;a href="https://github.com/gkd-kit/gkd/blob/main/wasm_matches/src/commonMain/kotlin/li/songe/matches/toMatches.kt" rel="nofollow"&gt;编译&lt;/a&gt; 导出函数到 wasm&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-kotlin"&gt;
+@JsExport
+fun toMatches(source: String): (input: String) -&amp;gt; Boolean {
+    val regex = Regex(source)
+    return { input -&amp;gt; regex.matches(input) }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;2 . 在浏览器 &lt;a href="https://github.com/gkd-kit/inspect/blob/main/src/utils/selector.ts" rel="nofollow"&gt;加载&lt;/a&gt; 这个导出函数并执行替换&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-js"&gt;import matchesInstantiate from '@gkd-kit/wasm_matches';
+import matchesWasmUrl from '@gkd-kit/wasm_matches/dist/mod.wasm?url';
+
+matchesInstantiate(fetch(matchesWasmUrl))
+  .then((mod) =&amp;gt; {
+    const toMatches = mod.exports.toMatches;
+    updateWasmToMatches(toMatches);
+  })
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;关键流程就两步，看起来其实也挺简单的&lt;/p&gt;
+&lt;p&gt;说一下 Kotlin/Wasm 需要浏览器支持 &lt;a href="https://developer.chrome.com/blog/wasmgc?hl=zh-cn" rel="nofollow"&gt;WasmGC&lt;/a&gt;，也就是版本需要满足下列条件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/gkd-kit/gkd/assets/38517192/15c8dee9-6480-428b-be4f-45939b4046e5" /&gt;&lt;/p&gt;
+&lt;p&gt;如果你的浏览器不满足条件，会有一个提示弹窗并自动回退到原来的 JavaScript RegExp 实现&lt;/p&gt;
+&lt;h2&gt;实际体验&lt;/h2&gt;
+&lt;p&gt;你可以在 &lt;a href="https://i.gkd.li/i/14045424" rel="nofollow"&gt;https://i.gkd.li/i/14045424&lt;/a&gt; 使用选择器查询 &lt;code&gt;[text~=".*[0-9].*"]&lt;/code&gt; 找到属性 text 包含数字的所有节点&lt;/p&gt;
+&lt;p&gt;如果你的浏览器版本符合上面说的，那么你能在上述网页里体验到完整的 Kotlin/Java 正则表达式&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 16:55:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028280#reply0</guid></item><item><title>[分享创造] 继上次产品上线后，花了 2 天开发了个 AI 制作 Icon 的网站</title><link>https://www.v2ex.com/t/1028279#reply0</link><description>&lt;p&gt;简单讲讲最近开发站点的经历
+再一次使用 nextjs 开发项目，和上次的 ai 壁纸站不同，已经熟悉用 nextjs 全栈开发产品的整条链路，上次的产品开发几乎是从零开始，从前端技术、oauth 、图床到数据库，每一个环节都要摸索很久，断断续续搞了有一个月。这次在摸清之后开发 icon 制作站只花了 2 天。&lt;/p&gt;
+&lt;p&gt;关于制作 icon
+观察了其他很多 ai 生成 icon 的网站，都很强大，除了通过提示词快速生成 icon ，还可以定制颜色、风格等；不过各有优劣，部分 icon 生成的不太符合审美😂，大多数使用场景也不太相同，于是做了一个偏手机应用场景的 icon 站，现在只支持输入英文提示词。&lt;/p&gt;
+&lt;p&gt;体验链接👉： &lt;a href="http://iconai.pro" rel="nofollow"&gt;http://iconai.pro&lt;/a&gt;&lt;/p&gt;
+&lt;img class="embedded_image" rel="noreferrer" src="https://ai-w-pro.s3.us-east-2.amazonaws.com/images/WX20240330-003345%402x.png" /&gt;
+&lt;p&gt;目前完成了大体流程，还有很多细节待完善，需要注意的是：正确输入提示词才能获得想要的 icon ，如："icon design for shopping" 等。&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 16:44:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028279#reply0</guid></item><item><title>[问与答] 小说爱好者进。我哥在番茄开了本新书，大家帮忙看看怎么样</title><link>https://www.v2ex.com/t/1028278#reply0</link><description>&lt;p&gt;分享链接只有前面 5 章。欢迎大家多提提建议。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://changdunovel.com/wap/share-v2.html?aid=1967&amp;amp;book_id=7350161542739921945&amp;amp;share_type=0&amp;amp;share_code=jD6e-vRUlQzaECA2PniNMEzDHMJzZooV67GLrbPn-8k%3D&amp;amp;uid=6c32eb9ff34a7cade1040ad74a904679&amp;amp;share_id=cCvq-zQ6YyFdzzb24le1durYzUh4Eks5gxNUFXClGx8%3D&amp;amp;zlink=https%3A%2F%2Fzlink.fqnovel.com%2FJkKw2&amp;amp;gd_label=click_schema_lhft_44754235a&amp;amp;use_open_launch_app=1&amp;amp;source_channel=qq&amp;amp;type=book&amp;amp;share_token=f93282b3-7b8a-4dc1-ae74-80778a36a629" rel="nofollow"&gt;https://changdunovel.com/wap/share-v2.html?aid=1967&amp;amp;book_id=7350161542739921945&amp;amp;share_type=0&amp;amp;share_code=jD6e-vRUlQzaECA2PniNMEzDHMJzZooV67GLrbPn-8k%3D&amp;amp;uid=6c32eb9ff34a7cade1040ad74a904679&amp;amp;share_id=cCvq-zQ6YyFdzzb24le1durYzUh4Eks5gxNUFXClGx8%3D&amp;amp;zlink=https%3A%2F%2Fzlink.fqnovel.com%2FJkKw2&amp;amp;gd_label=click_schema_lhft_44754235a&amp;amp;use_open_launch_app=1&amp;amp;source_channel=qq&amp;amp;type=book&amp;amp;share_token=f93282b3-7b8a-4dc1-ae74-80778a36a629&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 16:07:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028278#reply0</guid></item><item><title>[宽带症候群] 请问一下大家有什么原因会导致 dns 查询和 ping 间歇性高延迟的吗？</title><link>https://www.v2ex.com/t/1028277#reply6</link><description>&lt;p&gt;ping 的结果和 dns 查询一样，固定间隔出现约两秒时长的高延迟结果，不过平时玩游戏和 Parsec 远程游戏倒没有感受到延迟影响，另外内网 ping 没有出现间歇性高延迟情况。想问一下大家这种情况的话问题一般会出在哪部分。。。
+&lt;img alt="AdguardHome 查询日志" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DO3t86N.png" /&gt;
+&lt;img alt="路由器系统的 ping 延迟" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cdWNPjL.png" /&gt;
+&lt;img alt="电脑的 ping 延迟" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WELx9gS.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 16:05:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028277#reply6</guid></item><item><title>[Spotify] Spotify 美区会员家庭组长期车</title><link>https://www.v2ex.com/t/1028276#reply0</link><description>&lt;p&gt;美区 Spotify 合租 美区 Spotify 年费家庭车 美区 Spotify 拼车 Spotify 美区会员 需要上车的小伙伴可以加我微信 CharlesZheng228&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 15:52:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028276#reply0</guid></item><item><title>[English] 练习英文听力，不妨先从美女 Kara Ronin 的 YouTube 节目入门...</title><link>https://www.v2ex.com/t/1028275#reply3</link><description>&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_KH6-xWjQoQ" rel="nofollow"&gt;https://www.youtube.com/watch?v=_KH6-xWjQoQ&lt;/a&gt;
+码农要致富，得要出海捕鱼啊。要出海，练好英文是必须的。&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 15:48:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028275#reply3</guid></item><item><title>[程序员] 关于 Next.js 最新的特性， Partial Pre-Rendering 和 SSR 之间的问题</title><link>https://www.v2ex.com/t/1028274#reply2</link><description>&lt;p&gt;我以前写过 React ，现在想学 Next.js 。跟着官方教程在学它的那个&lt;a href="https://nextjs.org/learn/dashboard-app/partial-prerendering" rel="nofollow"&gt;教程&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;学到 chapter 11: Partial Pre-rendering 越学越迷茫，我不懂它说的某些功能的表现是怎么样的，虽然我看得懂它教程里说的内容，这个框架是挺美好的，但是实际用起来真的很奇怪。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;上传图片并压缩&lt;/li&gt;
-&lt;li&gt;使用 &lt;a href="https://docs.ray.io/en/latest/" rel="nofollow"&gt;ray&lt;/a&gt; 搭建了使用 cnocr 模型进行推理的 fastapi 服务&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 26 Mar 2024 14:40:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027274#reply0</guid></item><item><title>[阅读] 微信读书闪现广告</title><link>https://www.v2ex.com/t/1027273#reply0</link><description>&lt;p&gt;刚打开微信读书，大家再看那里出现了手机广告，但是忘了截图，关闭再打开就没有了，不知道是不是在测试。&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:39:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027273#reply0</guid></item><item><title>[VPS] 华为云 vps 拉新</title><link>https://www.v2ex.com/t/1027272#reply0</link><description>华为云 vps 拉新 &lt;br /&gt;2 核 2G3M 46 元那款 国内地区&lt;br /&gt;需要 华为云新户 （老户不行 认身份证，手机号 都要全新）&lt;br /&gt;付 46+实名 &lt;br /&gt;你能获取啥&lt;br /&gt;白嫖一年的 vps 服务器使用&lt;br /&gt;有意联系&lt;br /&gt;先自己注册 付 46 用微信&lt;br /&gt;一般次日出数据 结账 46 &lt;br /&gt;有可能会接到华为回访电话 可拒接 &lt;br /&gt;接了的话就随便聊下 编程学习搭建环境等等 严禁提及返现&lt;br /&gt;有意联系 wx 147 823 87970</description><pubDate>Tue, 26 Mar 2024 14:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027272#reply0</guid></item><item><title>[生活] 求 300 元左右的被芯推荐~</title><link>https://www.v2ex.com/t/1027271#reply0</link><description>&lt;p&gt;公司有 300 元左右的报销额度（结婚福利），想问问 V2ER 们有没有什么推荐的啊？
-（一件 300 元或两件一共 300 元左右）
-感恩~&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:35:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027271#reply0</guid></item><item><title>[Go 编程语言] csznet/mata 开源服务器监控解析切换工具</title><link>https://www.v2ex.com/t/1027270#reply0</link><description>&lt;p&gt;&lt;strong&gt;介绍&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;使用 tcp 协议监控指定服务器，当服务器状态发生改变借助 CloudFlare API 进行改变解析，并支持 Telegram 通知&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;示例场景&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A 服务器访问速度快但是不带防御，B 服务器带防御但是访问速度慢&lt;/p&gt;
-&lt;p&gt;使用 csznet/mata 对 A 服务器进行监控，当无法连通 A 服务器时，将自动把解析切换为 B 服务器，当 A 服务器恢复时，也会自动切换回 A 服务器&lt;/p&gt;
-&lt;p&gt;开源地址： &lt;a href="https://github.com/csznet/mata" rel="nofollow"&gt;https://github.com/csznet/mata&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 26 Mar 2024 14:30:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027270#reply0</guid></item><item><title>[程序员] 求购 GitHub 学生包里面的 FrontendMasters</title><link>https://www.v2ex.com/t/1027269#reply1</link><description>如题。收一个，直接给我注册好的邮箱和密码，10R</description><pubDate>Tue, 26 Mar 2024 14:27:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1027269#reply1</guid></item></channel></rss>
+&lt;li&gt;
+&lt;p&gt;教程里说使用 &lt;code&gt;unstable_noStore()&lt;/code&gt; ，给一个服务端组件的 API 层，可以禁用 cache ，这样可以让一些用户间不共享的信息，在用户请求的时候可以实时更新。问题是我就算吧这个 noStore 注释了，每次我刷新页面的时候，对应的 API 方法又重新调了。这就和我理解的冲突了，不是说服务端渲染好的页面，只要不是 dynamic 的（用了 noStore 就是 dynamic ），就不会那么快实时更新吗？而且我怕只看 API 方法重新调不合适，说不定它框架里做了从调用上看不出来的缓存。。然后我跑去 vercel 上 update 了数据库，好家伙，一刷新页面，修改了的数据立马反映出来了。。那是不是说明这个服务端根本不是静态渲染的，而是默认动态的，那我加不加这个 noStore 不是一摸一样吗？我去外网和官方文档上找，它说这个就是加了个 http header 。。具体有用没用好像是看网页客户端的，但是我这个不是服务器请求服务器吗？哪来的网页客户端，不是 nodejs ，或者这里是因为 nodejs 模拟了浏览器内核的缘故吗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这个 Next.js 是不是有什么问题？我在测试这个缓存过没过期的时候，随便搜就搜到了这个&lt;a href="https://www.reddit.com/r/nextjs/comments/1axut1z/unstable_nostore_unpredictable/" rel="nofollow"&gt;帖子&lt;/a&gt;，它贴的官方文档说 dynamic 是 5s ，static 是 30s ，然后我又觉得这个缓存不起效可能和我一直在点刷新有关，我是不是应该在应用内点跳转链接，然后机缘巧合之下，我在等 30s 之后，开始点页面内的 navigation ，好家伙每点一下，API 方法就被调用一次。。下面是我弄的计算方法执行时间的 log：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-plain"&gt;cost time: 773ms
+ Fetching revenue data...
+ cost time: 699ms
+ Fetching revenue data...
+ cost time: 213ms
+ Fetching revenue data...
+ cost time: 231ms
+ Fetching revenue data...
+ Fetching revenue data...
+ cost time: 216ms
+ Fetching revenue data...
+ cost time: 215ms
+ Fetching revenue data...
+ Fetching revenue data...
+ cost time: 246ms
+ Fetching revenue data...
+ cost time: 647ms
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;而且我在 vercel 的[云服务上也复现]（ &lt;a href="https://nextjs-dashboard-kappa-amber-64.vercel.app/dashboard" rel="nofollow"&gt;https://nextjs-dashboard-kappa-amber-64.vercel.app/dashboard&lt;/a&gt; ）了，有兴趣的可以等个三十秒，然后疯狂点那个 home 的按钮实时，每点一下就来一个网络请求，但是不知道这个网络请求是干嘛的，但是我本地的 dev 确实打这些 log 了。而且刚刚刷新，进去网站的时候，你就算疯狂点，也只会加载一次（ api 方法也只调了一次），等个 30s 就这样了，是不是有什么问题。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;写的有点长了感觉，但是这个 next.js 我是真越学越晕啊，各位如果有兴趣可以试一试，另球球前端大佬指点（我又来白嫖网友力量了嘿嘿 OWO ），在下先行拜谢！&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 15:42:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028274#reply2</guid></item><item><title>[程序员] 网页版 Google voice 无法打电话，一拨打电话，一闪一下就没了，都不进入拨打中 动画</title><link>https://www.v2ex.com/t/1028273#reply1</link><description>&lt;p&gt;咋整&lt;/p&gt;</description><pubDate>Fri, 29 Mar 2024 15:40:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028273#reply1</guid></item><item><title>[宽带症候群] 自己开发的打洞软件长时间跑稳定性截图，分享给大家</title><link>https://www.v2ex.com/t/1028272#reply12</link><description>&lt;h1&gt;这是长时间 ping 的稳定性一直保持在这里&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="83f28a7ae51a0cd7f64570309ba9d578.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/03/29/KVnZLJgcRmzq89w.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;想看看大家是如何评论&lt;/h1&gt;</description><pubDate>Fri, 29 Mar 2024 15:38:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1028272#reply12</guid></item></channel></rss>
