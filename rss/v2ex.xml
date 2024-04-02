@@ -1,86 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 02 Apr 2024 08:34:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[信息安全] 如果有足够的时间，可以暴力猜 BitLocker 密码吗</title><link>https://www.v2ex.com/t/1029182#reply0</link><description>&lt;p&gt;一个闲置好几年的移动硬盘锁上了，里面有照片，没有密钥 txt ，能写个脚本，慢慢猜吗？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:34:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029182#reply0</guid></item><item><title>[酷工作] nodejs 全栈的进，有一个食之无味弃之可惜的小单子</title><link>https://www.v2ex.com/t/1029181#reply1</link><description>&lt;p&gt;技术栈 react ts express restify
-主要是做一个简单的包含用户登录、注册、收藏功能以及商品的增删改查功能的小网页
-后端不需要数据库，只需要把数据储存在内存即可
-苦力活是需要把项目的文档写清楚
-熟练的应该 10 天以内就写好了&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:32:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029181#reply1</guid></item><item><title>[Visual Studio Code] vscode 这个 bug 谁遇到过？</title><link>https://www.v2ex.com/t/1029180#reply0</link><description>代码界面上面一直悬浮着几行错位的代码，卸载重装后还是存在这种现象&lt;br /&gt;&lt;br /&gt;![image.png]( &lt;a href="https://s2.loli.net/2024/04/02/JEHmIPYQd3CUWMz.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/04/02/JEHmIPYQd3CUWMz.png&lt;/a&gt;)</description><pubDate>Tue, 02 Apr 2024 08:32:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029180#reply0</guid></item><item><title>[上海] 共富新村附近有便宜的一室整租吗</title><link>https://www.v2ex.com/t/1029179#reply0</link><description>想找个 3000 左右地铁远点也可以整租的，不太想要那种隔间，厨房卫生间最好都是原始的一室户，有这样的房子吗，因为老婆准备备孕了，搬一个距离她公司近一点的她上班方便</description><pubDate>Tue, 02 Apr 2024 08:29:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029179#reply0</guid></item><item><title>[推广] 分享一个自己做的影视网站</title><link>https://www.v2ex.com/t/1029178#reply0</link><description>&lt;p&gt;为了给家人看剧，就做了一个网上那种看剧的网站（网上直接搜的广告太多了，并且里面的东西也太过乱七八糟了）
-网址是  &lt;a href="http://m.mianmianku.com" rel="nofollow"&gt;m.mianmianku.com&lt;/a&gt;
-注册一个账户就可以看了，注册不需要验证任何东西。
-自己会每日更新最新的内容。
-网页上没有任何广告，但是有些片源里面字幕组封装的时候加的广告就没办法了。
-用的时候不能挂梯子。（主要国外版权打击太猛了）&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:29:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029178#reply0</guid></item><item><title>[问与答] 专用下载机软硬件方案请教</title><link>https://www.v2ex.com/t/1029177#reply0</link><description>&lt;p&gt;原来一直使用阉割玩客云做下载机，日常使用习惯如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;玩客云使用智能插座控制，按需开关机&lt;/li&gt;
-&lt;li&gt;玩客云外接一块 512gb 二手移动硬盘作为日常下载暂存区&lt;/li&gt;
-&lt;li&gt;使用 window 客户端添加任务下载&lt;/li&gt;
-&lt;li&gt;定期拔下硬盘接电脑，将下载完的东西一次性搬到电脑或者 nas 里（为啥不直接 smb 从玩客云转 nas ？因为玩客云 usb2.0 太慢了。。从电脑转移更快）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;最近这不玩客云开溜了，就想着找一个代替品，硬件部分基本需求如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;低待机功耗&lt;/strong&gt;，这点玩客云控制很好，外接硬盘平时也就 3-6w ，不接硬盘基本 1.5w 左右&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;小体积&lt;/strong&gt;，之前玩客云和 ups ，网关之类的小设备一起塞在一个半开放的旧机箱里，位置不是富余&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;能插一块 nvme ssd&lt;/strong&gt;(手头刚好有个多余的 2230 可以直接用上) + &lt;strong&gt;至少一块 2.5/3.5 hdd&lt;/strong&gt;。设想是 ssd 做下载盘，然后完成后资源 smb 转存到 nas ，hdd 盘位预留或者做备用储存。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;x86&lt;/strong&gt;，之后看情况可能会用 docker ，兼容性好一些&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;内存 16gb&lt;/strong&gt;，主要是为之后扩展，目前只是想做纯下载机。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;wifi6&lt;/strong&gt;，少根线，多点整洁嘿嘿。外网 1000m ，内网 2.5g ，尽量满足。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;远程开机&lt;/strong&gt;（这部分不确定是硬件还是软件决定）&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;预算 1000 内&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;手头其实有个成品 nas ，但是平时负载比较高，内存只有 8g 目前比较吃紧且不可扩展，所以还是打算弄个硬件把下载这部分需求隔离开，另外内存大一些后边可以分一些占内存的东西过去加强稳定性，搜索了一番感觉一些 N100 的迷你主机貌似满足需求，目前在看天钡 n-box ，但还是想问问有没有更好的选择。
-玩客云刷其他系统：主要 usb2.0&lt;/p&gt;
-&lt;p&gt;软件部分就比较没头绪了：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一般 bt 磁链下载会比较多，偶尔阿里云（这个因为速度比较稳定，没有长期挂机需求有时候就直接 pc 上下载了），且&lt;strong&gt;需要从电脑添加任务&lt;/strong&gt;，有没有推荐的软件（比如支持局域网内 ip:port 访问 web UI 添加任务这样）&lt;/li&gt;
-&lt;li&gt;如果&lt;strong&gt;不接显示器&lt;/strong&gt;，从功耗/功能考虑一般这样的小主机用什么系统比较合适，openwrt 可以满足吗？还是 linux 好一些，如果是，哪个发行版会比较轻量一些？&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;远程开关机&lt;/strong&gt;，这个需要特别的配置或者硬件支持吗，之前看 HA 中有 WOL 的集成可以发送开机信号，想着绑定一个按钮之类的可以随时开机使用。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;内容比较长有点繁琐，首先感谢阅读，如果有什么好的建议还希望分享一下。&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:26:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029177#reply0</guid></item><item><title>[watchOS] watchOS 10.3.1 -&gt; 10.4 没法更新</title><link>https://www.v2ex.com/t/1029176#reply1</link><description>iPhone 12 iOS17.4.1 + Watch 9 watchOS 10.3.1 ，想将 Watch 的操作系统更新到 10.4 ，但是 iPhone 的 Watch app 更新进度条卡一半，显示 [正在准备...] ，这样已经有 1 周了，一直这样显示，把 Watch 充满电并且一直保持充着电，进度条也不走。请问这种咋解决？</description><pubDate>Tue, 02 Apr 2024 08:26:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029176#reply1</guid></item><item><title>[职场话题] 沃尔玛深圳科技部卷不卷？面试过程感觉有阿里味</title><link>https://www.v2ex.com/t/1029175#reply0</link><description>&lt;p&gt;最近在面这家公司的大头兵后端岗位，猎头说不卷，但是面试官貌似是阿里出来的，面试过程感觉有点阿里味。&lt;/p&gt;
-&lt;p&gt;有没有大佬在里面或者呆过的，说一下具体情况，比如平均下班时间、内部氛围如何、有没有 PUA 等等。&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:24:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029175#reply0</guid></item><item><title>[程序员] 工作中经常提出问题的人最后混的怎样？</title><link>https://www.v2ex.com/t/1029174#reply1</link><description>&lt;p&gt;RT
-想看看大家对这个问题看法，工作中常常提出问题的人，最后结果是？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:22:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029174#reply1</guid></item><item><title>[酷工作] 兼职岗位：新媒体运营，日结，有时间的朋友可以来看看！</title><link>https://www.v2ex.com/t/1029173#reply0</link><description>兼职岗位：新媒体运营&lt;br /&gt;工作内容：&lt;br /&gt;1 、	将已有的阵容攻略录入系统；&lt;br /&gt;2 、	根据网络内容（抖音视频、公众号文章、网站推荐等），生成阵容推荐攻略；&lt;br /&gt;3 、	根据网络内容（抖音视频、公众号文章、网站推荐等），生成攻略文章（图文），用于微信公众号发布；&lt;br /&gt;岗位要求：&lt;br /&gt;1 、	具备内容整合能力，确保文章语句通顺，逻辑层次清晰；&lt;br /&gt;2 、	有玩过金铲铲之战或云顶之弈游戏经历，了解游戏基本玩法。&lt;br /&gt;3 、	需要自备电脑和手机（安卓），居家办公&lt;br /&gt;待遇：150 ～ 200/天，合适可长期合作&lt;br /&gt;联系方式：wx：cHVwZW5rZWpp （ base64 ）</description><pubDate>Tue, 02 Apr 2024 08:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029173#reply0</guid></item><item><title>[程序员] 帮忙找个网站，谢谢</title><link>https://www.v2ex.com/t/1029171#reply2</link><description>以前看过一个网站忘了名字了，想问问有没有人知道，国外编程教育类的网站，页面上有代码编辑器，可以在编辑器上播放录制好的操作（注意是播放操作不是播放视频，播放完后编辑器还可以输入你的代码），现在想来有点不知道他怎么实现的，想再去看看</description><pubDate>Tue, 02 Apr 2024 08:20:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029171#reply2</guid></item><item><title>[程序员] 我做的小程序,一下流量就爆了,已盈利了</title><link>https://www.v2ex.com/t/1029170#reply8</link><description>&lt;p&gt;大家好，我是&lt;code&gt;鬼哥&lt;/code&gt;，一位&lt;code&gt;8 年&lt;/code&gt;前端从业者，也是一位&lt;code&gt;全栈开发&lt;/code&gt;&amp;amp;&lt;code&gt;独立开发者&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;最近有点浮躁，可笑的是&lt;code&gt;2024&lt;/code&gt;年已经过去一个季度了，我今年的目标貌似都还没正式开始。&lt;/p&gt;
-&lt;div&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-52bdb356cb277d4b667934f0d0d023bb_720w.webp" /&gt;
-&lt;/div&gt;
-&lt;p&gt;本来去年下半年计划今年开始，正式运营自己去年&lt;code&gt;2023&lt;/code&gt;年花了&lt;code&gt;大半年时间&lt;/code&gt;研发的一款&lt;code&gt;互联网效率神器&lt;/code&gt;（暂时保密，产品已完成研发），但是现在&lt;code&gt;2024&lt;/code&gt;年都过一个季度了，我还没正式对外公开，所以自己非常的&lt;code&gt;浮躁&lt;/code&gt;+&lt;code&gt;烦躁&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;原因是不知道如何开始正式去运营它，这也许正是程序员的悲哀之处吧，只知道写代码，只知道做产品，却不知道如何去运营一款产品。&lt;/p&gt;
-&lt;h2&gt;回到正题&lt;/h2&gt;
-&lt;p&gt;我这人，一烦躁就想写代码，因为只有写代码，我才能静下心,我也不知道对不对，所以我带着浮躁的情绪，花了一个周末的时间，爆肝了一款微信小游戏。&lt;/p&gt;
-&lt;p&gt;这周几天刚上线，自己根据小程序后台的数据，做了一些优化，然后就在昨天，·爆了、爆了、当然只是小爆而已。&lt;/p&gt;
-&lt;h3&gt;我们来看看昨天的后台数据：👇&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-56e5a11108b4efc74e9c602a23f673b2_720w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/80/v2-06b45ff760a92501f452829c42ca89bb_720w.webp" /&gt;&lt;/p&gt;
-&lt;p&gt;两三天的时间，用户一下给我干到了&lt;code&gt;2200&lt;/code&gt;人，然后我就把小程序接入了微信广告，小游戏如下,欢迎大家体验交流：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-796a0445bdeee373a6860c62419fa754_720w.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-c12fe52e64d54f7137701ba030a5f35c_720w.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picx.zhimg.com/v2-e6ab67ada446e199d980301e88cd564a.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:12:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029170#reply8</guid></item><item><title>[程序员] 如何看待在线硕士文凭？</title><link>https://www.v2ex.com/t/1029169#reply2</link><description>&lt;p&gt;我 985 本科，现在码农打工中，本科毕业 9 年。&lt;/p&gt;
-&lt;p&gt;目前的同事的话，一半硕士，一半博士，有些危机感，希望还是能提升一下自己的学历。考虑 coursera 平台的在线硕士。&lt;/p&gt;
-&lt;p&gt;coursera 的弊端我也知道，就是没有国内的留学认证，我不需要这个，目的就是加强一些自己背景，比如在再次找工作时，可以拿出来加分。&lt;/p&gt;
-&lt;p&gt;目前考虑如下两类项目：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;名牌大学：需要英语水平考试成绩，并提交完整申请 （如果选这种，那需要额外付出时间进行英语考试，我有些顾虑&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;普通大学：不要英语水平考试，可直接 enroll&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;各位怎么看？是否值得一读？如果读的话，更推荐选哪一种呢？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 08:11:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029169#reply2</guid></item><item><title>[问与答] 请教一下 websocket 实现发图片的方案和保存聊天记录的方案；</title><link>https://www.v2ex.com/t/1029168#reply0</link><description>&lt;h2&gt;环境&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;springboot + websocket + vue
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;场景&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;图文形式的聊天，有开启会话和结束会话，每次结束之后，把本次会话的聊天记录存起来（因为要推给第三方）；
-
-目前是纯原生的 websocket 实现；
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;需求&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;1.图片的传输方式，了解两种方式 a.base64 ，b.客户端选择完图片之后，先上传到 OSS, 然后拿到返回的地址渲染 ； 保存会话记录的时候，消息里存图片的地址； 有没有更好的方式推荐；
-
-2.这种存储聊天记录，如果使用 mysql 来存的话，表如何优雅设计； 或者换种方式存储，文本或者 es ；
-
-3.研究了一下 socket.io ，使用 socket.io 重构的话 提升大吗？
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 02 Apr 2024 08:00:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029168#reply0</guid></item><item><title>[分享创造] 基于 Canvas 的开源版 [稿定设计] yft-design，欢迎各位大佬体验 star</title><link>https://www.v2ex.com/t/1029166#reply0</link><description>&lt;p&gt;Demo： &lt;a href="https://yft.design/" rel="nofollow"&gt;https://yft.design/&lt;/a&gt;&lt;br /&gt;
-Github: &lt;a href="https://github.com/dromara/yft-design" rel="nofollow"&gt;https://github.com/dromara/yft-design&lt;/a&gt;&lt;br /&gt;
-支持 psd 和 pdf 解析&lt;br /&gt;
-支持 AI 抠图&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 07:56:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029166#reply0</guid></item><item><title>[分享创造] 我们的产品 YouTube Dubbing 发布 Product Hunt 了，麻烦帮忙投票，谢谢啦</title><link>https://www.v2ex.com/t/1029165#reply0</link><description>&lt;p&gt;大家好，我开发的 YouTube Dubbing 已经发布到 Product Hunt 上了， 它不是传统的字幕类插件，而是将字幕内容翻译后，直接以语音的方式播放出来，看国外视频就好像在看中文视频一样。大家如果觉得不错的话，麻烦帮忙去： &lt;a href="https://www.producthunt.com/posts/youtube-dubbing" rel="nofollow"&gt;https://www.producthunt.com/posts/youtube-dubbing&lt;/a&gt; 上投投票，这对我们很重要。&lt;/p&gt;
-&lt;p&gt;插件官网： &lt;a href="https://www.youtube-dubbing.com/" rel="nofollow"&gt;https://www.youtube-dubbing.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;凡是参与投票的朋友，可以去官网底部扫二维码加我微信，发投票的截图，我送您 10 天插件会员的使用权限&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 07:55:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029165#reply0</guid></item><item><title>[分享发现] RF 卡口协议开放了，站内没人聊哎</title><link>https://www.v2ex.com/t/1029164#reply0</link><description>2024 的愚人节，太愚人了&lt;br /&gt;终于等到了 RF 协议开放，结果是尼康开放的，大写的滑稽</description><pubDate>Tue, 02 Apr 2024 07:54:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029164#reply0</guid></item><item><title>[生活] 有没有老哥自己染过发</title><link>https://www.v2ex.com/t/1029161#reply4</link><description>迫于白头发有些多，我想自己买染发剂在家里自己染，有没有老哥有染过的？有没有什么注意事项？有没有推荐的染发剂？要黑色的，听说这玩意还有致癌，真的假的？</description><pubDate>Tue, 02 Apr 2024 07:50:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029161#reply4</guid></item><item><title>[Bing] bing 主页那些背景图片就没法关闭吗？</title><link>https://www.v2ex.com/t/1029160#reply0</link><description>我已经登陆了微软账号，右边菜单下面关掉了显示菜单栏，显示新闻，显示背景图片，但每次进入 bing 又会重新打开，微软在搞什么？</description><pubDate>Tue, 02 Apr 2024 07:50:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029160#reply0</guid></item><item><title>[问与答] 求推荐公司用的知识库系统？</title><link>https://www.v2ex.com/t/1029159#reply1</link><description>市场上有没有推荐的，供几十号人协作使用。&lt;br /&gt;&lt;br /&gt;公司预算最多¥2000 ，买断。&lt;br /&gt;&lt;br /&gt;最好是能自建，数据自己管理。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;调研了一圈，开源或免费的不能用。&lt;br /&gt;&lt;br /&gt;主要问题：不成熟，面向个人（无法服务团队），协作人数限制，不支持 doc ，excel 附件等，部署困难等。</description><pubDate>Tue, 02 Apr 2024 07:47:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029159#reply1</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 02 Apr 2024 21:23:40 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 打字网站支持在线 pk 了</title><link>https://www.v2ex.com/t/1029306#reply2</link><description>&lt;p&gt;前言 &lt;a href="https://www.v2ex.com/t/1011053" rel="nofollow"&gt;https://www.v2ex.com/t/1011053&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;基于 websocket 开发了个 PK 的功能，体验地址：&lt;a href="https://typing.yasinchan.com/game" rel="nofollow"&gt;https://typing.yasinchan.com/game&lt;/a&gt;，前端源码：&lt;a href="https://github.com/YasinChan/typing" rel="nofollow"&gt;https://github.com/YasinChan/typing&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;录了个&lt;a href="https://www.bilibili.com/video/BV1vz421o7b8/" rel="nofollow"&gt;操作视频&lt;/a&gt;可以看下。&lt;/p&gt;
+&lt;p&gt;欢迎交流&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 18:48:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029306#reply2</guid></item><item><title>[OpenAI] 突然发现 GPT3.5 可以直接使用语音对话功能了</title><link>https://www.v2ex.com/t/1029305#reply0</link><description>&lt;p&gt;前一阵不用手机号注册的时候就注册了一个账号。&lt;/p&gt;
+&lt;p&gt;一直也没掏钱在用 3.5 ，今天突然发现可以直接使用语音对话功能了。&lt;/p&gt;
+&lt;p&gt;就是输入框右边出现了耳机图标，然后设置里也有 SPEECH 选项了。&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 18:47:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029305#reply0</guid></item><item><title>[macOS] Sonoma 更新到 14.4.1 依然没有解决鼠标点击拖拽中断的问题。</title><link>https://www.v2ex.com/t/1029304#reply0</link><description></description><pubDate>Tue, 02 Apr 2024 18:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029304#reply0</guid></item><item><title>[程序员] 有没有老哥在用 ms copilot 的？我怎么用不了了最近</title><link>https://www.v2ex.com/t/1029303#reply1</link><description>&lt;p&gt;前段时间用这个感觉还不错，比 GPT3.5 旧数据回答要靠谱一些，省得来回切页面就充了个会员
+然后 26 号还是 28 号就不能用了，手机，网页都不行，手机上显示 copilot has yes to arrive here,网页要不就是不停的人机验证，要不就是无限跳转登录页或点登录 400
+找了下好像没有同类情况的，不知道有没有大佬跟我一样情况的，请指导&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 18:15:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029303#reply1</guid></item><item><title>[Visual Studio Code] debian12+native debug 插件+vscode，为什么 debug 没有任何输出？</title><link>https://www.v2ex.com/t/1029302#reply0</link><description>&lt;p&gt;使用了 native debug 插件作为调试插件，想要给 uriscv 的项目调试，使用的指令和使用的 &lt;code&gt;launch.json&lt;/code&gt; 如图，但是在点击左上方绿色三角后却没有任何输出，如果把终端的指令里的 &lt;code&gt;--gdb&lt;/code&gt; 去掉直接运行这条指令并不使用调试的话，是有正常输出的，这是为什么？问题在哪里？是我在 vscode 里使用 gdb 调试的方法不对吗？
+以前完全没有使用 GDB 的经验所以一点头绪都没有……
+操作系统是 M1 芯片的 MAC 的 UTM 的 debian12 。。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="GDB 调试的问题在哪里？" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/03/W7NZnJdQ8KLtBsg.png" /&gt;&lt;/p&gt;
+&lt;p&gt;感谢！&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 18:12:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029302#reply0</guid></item><item><title>[Python] 怎么便捷的运行写好的 py 文件</title><link>https://www.v2ex.com/t/1029301#reply10</link><description>&lt;p&gt;用 Python 写好的 py 文件怎么便捷的运行，程序非常简单，但需要频繁的运行，IDLE 运行太麻烦，有没有便捷的方法，可以设个全局快捷键去运行，需要用的时候按下快捷键就能执行&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 18:10:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029301#reply10</guid></item><item><title>[程序员] 农村野外山里 头灯 求推荐 预算 200-300</title><link>https://www.v2ex.com/t/1029298#reply0</link><description>&lt;p&gt;性价比高的&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 16:46:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029298#reply0</guid></item><item><title>[程序员] 海投简历，总有自称猎头的邀请你去迪拜，各种高薪诱惑，来个懂哥讲讲有多坑</title><link>https://www.v2ex.com/t/1029296#reply3</link><description>&lt;p&gt;QA：
+是否可以远程，不可以
+主流欧美国家有无，无
+还是噶腰子那一套吧！？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 16:44:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029296#reply3</guid></item><item><title>[Vue.js] 请教 element-ui cascader 问题</title><link>https://www.v2ex.com/t/1029295#reply0</link><description>&lt;p&gt;大佬们, 遇到一个奇葩问题, 我点击新增后, 弹出弹窗, 在弹窗中用 element-ui cascader 选择数据, 点击确定按钮关闭弹窗后, 对 cascader 绑定的数组进行置空, 但下次打开弹窗后, 上次 cascader 的数据还是会展示出来&lt;/p&gt;
+&lt;p&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://cloud-big-mall.oss-cn-beijing.aliyuncs.com/1.png" /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://cloud-big-mall.oss-cn-beijing.aliyuncs.com/2.png" /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://cloud-big-mall.oss-cn-beijing.aliyuncs.com/3.png" /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;注意: 如果不引用封装的组件, 直接将 cascader 嵌入到弹窗, 那就不会出现此问题, 如:&lt;/h2&gt;
+&lt;p&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://cloud-big-mall.oss-cn-beijing.aliyuncs.com/4.png" /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;目前找到的解决办法是, 给 cascader 组件绑定一个 key, 在每次关闭弹窗时, 改变 key 的值实现重新创建 cascader 组件, 但频繁的创建销毁, 性能也会有不小的开销&lt;/h2&gt;</description><pubDate>Tue, 02 Apr 2024 16:41:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029295#reply0</guid></item><item><title>[问与答] 记得之前有个脑病患者在 B 站教人搭梯，进去没？</title><link>https://www.v2ex.com/t/1029293#reply1</link><description>&lt;p&gt;突然想到这个人，当时我就竖起大拇指，说这人真是艺高人胆大...
+有没有知道后续，这人进去踩多久缝纫机了？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 16:18:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029293#reply1</guid></item><item><title>[分享创造] 修改 github 头像的圆角 Chrome 扩展</title><link>https://www.v2ex.com/t/1029291#reply0</link><description>github 刚推出时很惊艳，被微软收购后改版略丑。大圆角头像难受了我很多年，今天终于忍不了开发了一个 Chrome 扩展来修改其圆角。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://github.com/leibnizli/Beautify-your-GitHub-avatar" rel="nofollow noopener" target="_blank"&gt;https://github.com/leibnizli/Beautify-your-GitHub-avatar&lt;/a&gt;</description><pubDate>Tue, 02 Apr 2024 16:10:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029291#reply0</guid></item><item><title>[分享创造] AGI 来临之际,我决定做带路党.做了个开源项目,试图将 LLM 的语言能力释放到现实世界里来.</title><link>https://www.v2ex.com/t/1029289#reply0</link><description>&lt;p&gt;AIlice( &lt;a href="https://github.com/myshell-ai/AIlice" rel="nofollow"&gt;https://github.com/myshell-ai/AIlice&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;这里有一堆演示视频,从互联网搜索文档下载到金融数据下载分析绘图,到 opengl 编程渲染,互联网上寻找 text-to-image 模型并阅读文档构建文生图网站,到调查最近的 XZ 黑客后门事件并对本地环境做检查....&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/@stevenlu-zh6ds&lt;/p&gt;
+&lt;p&gt;AI agents 已经很多了,AIlice 有啥独特性呢?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AIlice 首先是一个从很基础的视角构建出的通用 AI agent,她的基本设计思路就是给 LLM 充足的手段来影响外部世界,而对一个具体问题该怎么解决,更多的留给 LLM 去决定.这导致 AIlice 没有对某些问题做特化,她是 general-purpose 的.&lt;/li&gt;
+&lt;li&gt;AIlice 中使用了一个独特的"IACT"(交互式代理调用树)架构,类比于传统计算中的函数调用树,但解决了函数调用树应用在 LLM 上可能带来的容错性差的问题.这个结构使得 AIlice 可以动态的处理非常复杂的问题,而不受 context window 的约束(就像函数调用不受制于 cpu 有限的寄存器资源).&lt;/li&gt;
+&lt;li&gt;目标是在开源模型上实现单机版 JARVIS.目前基于 miqu 已经可以达到很不错的效果,正在等待 DBRX 和 Jamba 合适的微调版本出现.&lt;/li&gt;
+&lt;li&gt;支持多模态模型.&lt;/li&gt;
+&lt;li&gt;大概是最科幻的一个特色,AIlice 支持为自己扩展功能.她能为自己构建扩展模块,并动态加载使用.社区开发的扩展模块可以直接发布在 github 里,AIlice 自己去搜索并下载源码,分析安全性修正 bug,自己加载使用.&lt;/li&gt;
+&lt;li&gt;AIlice 只有 3k 行代码.将来会直接让她自己阅读自身代码来完成自主功能扩展,基本上可以看作是自主演化.&lt;/li&gt;
+&lt;li&gt;其他像语音交互之类的就不说了.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;欢迎有兴趣的朋友来玩耍.&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 16:08:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029289#reply0</guid></item><item><title>[问与答] 要不要老家买房？</title><link>https://www.v2ex.com/t/1029288#reply5</link><description>it 程序猿一个，在杭州工作，快 28 了，家里谈了个女朋友，今年准备订婚了。&lt;br /&gt;&lt;br /&gt;女朋友县城私立高中老师，现在纠结的是要不要老家买房，在老家买房是没啥压力的，但是感觉住不了多久比较浪费。主要是有以下考量：&lt;br /&gt;&lt;br /&gt;1. 自己在外地上班，未来不确定是留当地还是找个老家省会、苏州武汉这种二线城市&lt;br /&gt;&lt;br /&gt;2. 女朋友在老家也没编制，感觉也一般，可能订婚后一起来一线工作几年？ &lt;br /&gt;&lt;br /&gt;现在纠结的点是如果直接回去的话，手里的钱买房买车结婚后可能就没剩多少了，回去找工作也是个问题，大概率就是私立学校老师、私企这些，干一年估计都没现在交的税多。 但是不回去的话也不知道该咋办，在大城市定居压力又特别大。 &lt;br /&gt;&lt;br /&gt;现在每天都很愁，工作结婚买房的事儿全压在身上，上班都没啥心思了，求各位给点建议和开导</description><pubDate>Tue, 02 Apr 2024 15:58:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029288#reply5</guid></item><item><title>[问与答] 求大厨们推荐一个实用的不粘锅</title><link>https://www.v2ex.com/t/1029287#reply8</link><description>&lt;p&gt;网上搜不粘锅，铺天盖地的广子，让我头皮发麻。一个个吹的都不行，但买回来都毫无意外的粘锅了。我到目前为止用过 3 个锅都沾了。为防止是我个人原因用法不当，暂时按下不表名字。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我养不好铁锅，真不行，我知道铁锅用的好是不会粘锅的，但我真不行。&lt;/li&gt;
+&lt;li&gt;我知道热锅凉油也能不粘，或者油足够多也不粘，但我想少吃点油，并且不喜欢爆炒。&lt;/li&gt;
+&lt;li&gt;我知道没有永远不粘的锅，涂层用时间长也会掉，我只是想买个锅至少用个 2 年。&lt;/li&gt;
+&lt;li&gt;价格不要过于离谱，比如 999 一个锅，我家现在也就两个人...&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;综上，我是真的没辙了，所有地方各大商家都放了广告，只有这里我能听到真实的声音。求各位大厨帮帮忙，感激至极~~老铁抱拳了！&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:42:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029287#reply8</guid></item><item><title>[苏州] 定居苏州</title><link>https://www.v2ex.com/t/1029286#reply0</link><description>&lt;p&gt;苏州适不适合生活工作啊，有没有 uu 来讲一下，将来毕业了真的很希望定居在苏州。&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:41:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029286#reply0</guid></item><item><title>[问与答] 有报考软考的 v 友吗?,求个资料</title><link>https://www.v2ex.com/t/1029285#reply0</link><description>&lt;p&gt;信息系统管理工程师中级&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:30:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029285#reply0</guid></item><item><title>[问与答] 大家的骚扰电话多吗？</title><link>https://www.v2ex.com/t/1029284#reply10</link><description>&lt;p&gt;我去年在联通 app 上选了个还不错的号，然后把所有绑定换过去了。
+结果发现这个号骚扰电话特别多，就是各行各业各个城市的骚扰电话都有。
+然后我就把提醒一关，当纯绑定用的小号了。
+但是偶尔看到那种反复打过来的号码又焦虑了，怕错过重要电话。
+这种情况还有必要再换个新号段的号码吗？会不会绑定之后还是出一堆骚扰电话？&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:23:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029284#reply10</guid></item><item><title>[酷工作] 年后找工作实录 希望各位道心稳住</title><link>https://www.v2ex.com/t/1029283#reply12</link><description>&lt;p&gt;年后开始找工作，找到现在也差不多到尾声了。&lt;/p&gt;
+&lt;p&gt;因为本人在前司工作的并不舒心，做的东西也没有挑战，所以选择了骑驴找马，但是在这段过程中道心不太稳固，于是在半途中选择了裸辞。&lt;/p&gt;
+&lt;p&gt;统计了一下，找了差不多 40 天，面了大概 20 个部门（存在同一个公司的不同部门），总共累计面了 31 场技术面试。全是面的大厂。最多的时候一个礼拜面了 9 场并且还没有请假，全是晚上和周末面的。&lt;/p&gt;
+&lt;p&gt;现在也搞定了其中 3 个。&lt;/p&gt;
+&lt;p&gt;这段时间，有迷茫过，有自卑过，有崩溃过，有想要放弃过。但所幸结果还行。&lt;/p&gt;
+&lt;p&gt;现在的大环境不好，希望各位 v 友在找工作的过程中，不要道心破碎。记住你永远是最棒的！&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:23:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029283#reply12</guid></item><item><title>[推广] 折腾一个新图片相关的网站</title><link>https://www.v2ex.com/t/1029282#reply0</link><description>&lt;p&gt;世道艰难，感觉继续打工相当于温水煮青蛙没得提升，抽了点时间来磨练自己的技术，刚好有些志同道合的人一起做了一个图片相关的网站。&lt;/p&gt;
+&lt;p&gt;希望 V 友们可以给点建议，如果对手机注册反感，也可以考虑使用邮箱注册，如果积分不够可以留言我会帮你加，支付就算了，我只是当技术研究接入来玩的。&lt;/p&gt;
+&lt;p&gt;后面打算加入更多图片相关的，也不知道有没有其他路子。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.toolcat.cloud" rel="nofollow"&gt;https://www.toolcat.cloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="avatar.jpg" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Ppx4Ipa_d.webp?maxwidth=760&amp;amp;fidelity=grand" /&gt;&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:17:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029282#reply0</guid></item><item><title>[macOS] m1pro 的 mac 如何安装 win10，求助</title><link>https://www.v2ex.com/t/1029280#reply4</link><description>&lt;p&gt;有些软件不常用的，还是 windows 版的用的顺手，但办公环境就一台 mac ；&lt;/p&gt;
+&lt;p&gt;搜了下 PD 貌似是收费的还挺贵，有免费或者便宜点的方案吗；&lt;/p&gt;</description><pubDate>Tue, 02 Apr 2024 15:06:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1029280#reply4</guid></item></channel></rss>
