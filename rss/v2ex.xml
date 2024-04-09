@@ -1,44 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 08 Apr 2024 15:55:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] Raycast 搜不到腾讯会议 app</title><link>https://www.v2ex.com/t/1030758#reply0</link><description>&lt;p&gt;发现 Raycast 搜索不到腾讯会议 app ，是不是只能搜到英文名称的 app 呢？&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:51:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030758#reply0</guid></item><item><title>[Apple] m2pro 如何开启 4k 144hz 10bit hdr？</title><link>https://www.v2ex.com/t/1030757#reply0</link><description>&lt;p&gt;如题，显示器是 lg-27gp95r ，使用 betterdisplay 查看目前的状态是 4k 144hz VRR hdr 8bit 。
-m2pro 自带的是接口 hdmi2.1 ，理论上是支持 10bit 的。在 win11 上就没问题可以成功开启。&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:48:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030757#reply0</guid></item><item><title>[游戏] 呜呜，为什么全世界只有我玩不了串流😭</title><link>https://www.v2ex.com/t/1030755#reply2</link><description>&lt;p&gt;是这样的，我有一台 Intel 的 NUC ，装了 Debian 和 Cockpit 当作 NAS 来使。心血来潮想玩一下游戏，弄了个 Windows 虚拟机把显卡通进去，然后装了一个 Indirect Display Driver 和 Sunshine ，在我的 Mac 上用 Moonlight 连接。&lt;/p&gt;
-&lt;p&gt;幻想很美好，但是实际用起来的时候发现码率调到 0.5Mbps 了都卡……Moonlight 的右上角不停的冒红色的字，说连接速度慢😭……这套方案还是和 V2EX 里面的另一个大学生学的，他甚至广域网打字都没延迟，而我……😭&lt;/p&gt;
-&lt;p&gt;有啥思路可以排查一下问题在哪呢😭&lt;/p&gt;
-&lt;p&gt;我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流我想也串流&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;显卡：   RTX 4060Ti&lt;/li&gt;
-&lt;li&gt;CPU：   i5 1135G7&lt;/li&gt;
-&lt;li&gt;路由器：SFT1200&lt;/li&gt;
-&lt;li&gt;虚拟机用 direct 模式连接有线网络适配器&lt;/li&gt;
-&lt;li&gt;Mac 连接 5G Wi-Fi&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 08 Apr 2024 15:30:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030755#reply2</guid></item><item><title>[程序员] 开源项目有用户使用是一件开心的事情</title><link>https://www.v2ex.com/t/1030754#reply0</link><description>&lt;p&gt;项目维护三年左右了，陆续有一些用在生产环境的用户给我反馈，感觉自己做的事情还是挺有价值的。
-&lt;a href="https://github.com/rosedblabs/rosedb" rel="nofollow"&gt;https://github.com/rosedblabs/rosedb&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:26:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030754#reply0</guid></item><item><title>[程序员] 一个生成随机汉字的 npm 包，以及一个依赖此包开发的网页小工具</title><link>https://www.v2ex.com/t/1030753#reply0</link><description>&lt;p&gt;这个工具可能对你没什么帮助，但希望对你有帮助。&lt;/p&gt;
-&lt;h2&gt;网页、包&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;网页工具：&lt;a href="https://random-chinese-characters.wanten.org/" rel="nofollow"&gt;https://random-chinese-characters.wanten.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;npm 包：&lt;a href="https://www.npmjs.com/package/random-chinese-characters-generator" rel="nofollow"&gt;https://www.npmjs.com/package/random-chinese-characters-generator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="main page" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/WantenMN/random-chinese-characters/main/assets/screenshots/main-page.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;源码&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;网页小工具：&lt;a href="https://github.com/WantenMN/random-chinese-characters" rel="nofollow"&gt;https://github.com/WantenMN/random-chinese-characters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;npm 包：&lt;a href="https://github.com/WantenMN/random-chinese-characters-generator" rel="nofollow"&gt;https://github.com/WantenMN/random-chinese-characters-generator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;起因&lt;/h2&gt;
-&lt;p&gt;在给一些虚拟的角色、国家、城市以及各式各样的事物取名时，常常不知道该用哪些字。&lt;/p&gt;
-&lt;p&gt;有些字用过了，有些字一时间想不起来，导致取名的过程变得异常痛苦。&lt;/p&gt;
-&lt;p&gt;一想到要取名就心生畏惧，进而使我迟迟不敢行动。&lt;/p&gt;
-&lt;p&gt;这时我在想，要是有现成的文字列在面前，供我任意选择就好了。&lt;/p&gt;
-&lt;p&gt;常用的汉字也就几千个，做一个生成随机汉字的工具，实现起来并不难。&lt;/p&gt;
-&lt;p&gt;于是我开始着手开发网页工具，并顺带写了一个其他人也可以使用的 npm 包。&lt;/p&gt;
-&lt;p&gt;（事实上我想要的只是这个网页工具，包是顺手开发的。跟朋友调侃道：“为了一碟醋，包了一顿饺子。”&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:24:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030753#reply0</guid></item><item><title>[宽带症候群] 今天给用户整 FTTR 遇到神奇的故障。</title><link>https://www.v2ex.com/t/1030751#reply2</link><description>晚上去遇到个故障：&lt;br /&gt;设备：中兴 G7615v2+G1610 ；&lt;br /&gt;家庭用户，接入速率 1000M ；&lt;br /&gt;测试终端：华为 Mate60pro ，荣耀 9 ；&lt;br /&gt;情况：住宅位于 30 层，G7615 部署在入门玄关楼梯底，G1610 部署在大厅，皮纤直连 G7615 ，FTTR 下无接任何设备；&lt;br /&gt;复式楼层，房屋布局为长方形，大厅位于布局正中间，正中间为电视，面向电视左侧为厨房，厨房左侧是入门玄关及楼梯，电视右侧为小房间，大厅背面小阳台；&lt;br /&gt;&lt;br /&gt;已经完整更换过 FTTR 全套新设备；&lt;br /&gt;1 、终端处于大厅 wifi 丢包，ping 时延在几十到几百跳，测速只有 0.5Mbps 到 2 、30Mbps ；&lt;br /&gt;2 、G1610 移入房间，终端大厅测速不达标，但不丢包、时延会抖动，带宽能达标 70%；&lt;br /&gt;3 、G1610 试过在沙发、茶几、电视机下方、房间门口放置，一样情况。G1610 移入大厅故障立即复现；&lt;br /&gt;4 、终端在楼梯玄关底 G7615 面前测速达标，进入大厅开始故障复现；&lt;br /&gt;5 、G7615 部署在玄关和大厅连接处，位于大厅的终端一样丢包，中间无遮挡。&lt;br /&gt;6 、拔了 G1610 ，只要在大厅，终端都丢包，即使能直接目视 G7615 的天线。&lt;br /&gt;7 、大厅沙发检测 G7615 的 RSSI 值-68 ，G1610 为-30 左右。&lt;br /&gt;8 、信道都改过了，80Mhz 的 36-64 ，149-161 ，和 160Mhz 的 36-64 ，每个信道都换过。&lt;br /&gt;9 、拿出用户之前的小米 wifi6 AX6000 ，部署大厅，终端情况依旧。&lt;br /&gt;10 、最后有线测试正常，只有无线有问题；&lt;br /&gt;&lt;br /&gt;大厅所有电子产品均已断开插座（电视、挂钟、鱼缸、电风扇、机顶盒、无线门铃，电灯、厨房冰箱、微波炉、电磁炉等均已关闭，排查了所有蓝牙耳机等无线设备），情况依旧。&lt;br /&gt;&lt;br /&gt;有人知道这是啥情况不，我就剩差拉用户家电闸测试了。</description><pubDate>Mon, 08 Apr 2024 15:18:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030751#reply2</guid></item><item><title>[问与答] 我只有几百条数据，如何喂给大模型才能有效果？</title><link>https://www.v2ex.com/t/1030750#reply3</link><description>&lt;p&gt;小白，轻喷。比如我有自己所做的一个细分领域的小数据集，有没有办法喂给大模型，下次我问他的时候，我希望他能从我的小数据集里学到东西回答我，什么微调，标注个十来万条数据啥的对于一个小白而言都成本大了点。那怕是指令遵循什么样的格式也可以&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:10:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030750#reply3</guid></item><item><title>[Apple] 为什么现在越来越多的人用微信支付了？</title><link>https://www.v2ex.com/t/1030749#reply2</link><description>我身边的现在除了在淘宝买东西，其余基本都是微信支付了。包括我自己也是。以前付款都是用支付宝，最近一两年发现懒得用支付宝了，感觉微信付款更方便了。&lt;br /&gt;你们呢</description><pubDate>Mon, 08 Apr 2024 15:09:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030749#reply2</guid></item><item><title>[Windows] 电脑管家总算还是自动安装上了</title><link>https://www.v2ex.com/t/1030748#reply5</link><description>&lt;p&gt;虽然知道迟早有这么一天，但是还是没有想到这么快....&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 15:08:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030748#reply5</guid></item><item><title>[Telegram] 为啥 telegram 没有声音提示？</title><link>https://www.v2ex.com/t/1030747#reply0</link><description>安卓版，我明明设置了通知语音提示，但好像还是没提示。</description><pubDate>Mon, 08 Apr 2024 14:58:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030747#reply0</guid></item><item><title>[职场话题] 各位 30+/-的兄弟们, 找奔结婚去的妹子要注意什么</title><link>https://www.v2ex.com/t/1030746#reply0</link><description>&lt;p&gt;RT.&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 14:54:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030746#reply0</guid></item><item><title>[全球工单系统] B 站是不是放弃观看列表功能了, 总有几个奇怪的视频排上去</title><link>https://www.v2ex.com/t/1030744#reply0</link><description>&lt;a href="https://www.bilibili.com/video/online.html" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/online.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我用这个来看现在同时观看人数多的视频,但是有几个视频总是出现,一两千人观看,总观看数却不怎么增加,感觉是不是有人破解了接口在刷,B 站也放弃这个页面让他自生自灭了, BV1GH4y117Kw 这个视频总是有两三千人观看,很恶心</description><pubDate>Mon, 08 Apr 2024 14:52:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030744#reply0</guid></item><item><title>[iCloud] macos 无法用不同的账号登录 icloud 和 app store 了吗？</title><link>https://www.v2ex.com/t/1030742#reply0</link><description>&lt;p&gt;今天想切换其他账号登录 app store ，发现在 app store 退出旧账号后再点登录，压根不让你输入账户，直接就登录成 icloud 的那个账号了&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 14:33:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030742#reply0</guid></item><item><title>[程序员] 想问一下反链的事情</title><link>https://www.v2ex.com/t/1030741#reply0</link><description>&lt;p&gt;看到一个网站&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.eteste.com/" rel="nofollow"&gt;https://www.eteste.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;就是一个字数统计，就一个页面&lt;/p&gt;
-&lt;p&gt;站长之家上查有几千个反链&lt;/p&gt;
-&lt;p&gt;我想问一下 做反链有什么工具或者技巧吗&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 14:32:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030741#reply0</guid></item><item><title>[酷工作] [大数据] [外企] [银行项目] [ Java ][ Python ][留学生]</title><link>https://www.v2ex.com/t/1030740#reply1</link><description>兄弟们，我们部门招人啦，急招。当然了帮公司也招人。&lt;br /&gt;具体薪资和工作背景和福利待遇请看我的往期帖子，都写得很清楚。&lt;br /&gt;&lt;br /&gt;简单说一下我们部门：&lt;br /&gt;大数据部门，不做业务，纯架构，纯技术。&lt;br /&gt;和国外员工共同工作，协同开发（ 8 小时工作时间，听说读写，纯英语)。&lt;br /&gt;有外国同事(美国，秘鲁，巴基斯坦)入职我们公司(不是出差哦)。&lt;br /&gt;我们部门的是巴基斯坦老哥。&lt;br /&gt;985 ，211 是标配，海外留学生占比 30%,也有学校排名 TOP 前 5 的同事，字节，阿里，拼多多的大厂同事都有。&lt;br /&gt;&lt;br /&gt;工作地点：广州&lt;br /&gt;岗位需求：&lt;br /&gt;1. UIUX Developers (React, 0-5 年经验)&lt;br /&gt;2. Data Security Development Engineer (Java + Spark ，3-6 年经验)&lt;br /&gt;3. Big data platform DevOps (K8s/Containeriization ，3-10 年经验）&lt;br /&gt;4. Genarative AI Engineer (NLP, ML, Python/Java, DS role with Engineering thinking, or Engineer with DS Knowledge ，0-5 年经验)&lt;br /&gt;5. 纯 JAVA 开发&lt;br /&gt;&lt;br /&gt;岗位要求：技术要强，能力要好，纯英语技术面试。&lt;br /&gt;&lt;br /&gt;联系我，速来：13840428980/renchuan.xiao@ncsi.com.cn/renchuan.xiao1@gmail.com</description><pubDate>Mon, 08 Apr 2024 14:30:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030740#reply1</guid></item><item><title>[程序员] 搞了一年的独立开发，累了！</title><link>https://www.v2ex.com/t/1030738#reply12</link><description>&lt;p&gt;2023 年 4 月 7 号，正式从字节离职（之前发过一贴：&lt;a href="https://v2ex.com/t/921664" rel="nofollow"&gt;马上要离开待了 3 年的字节，有问必答&lt;/a&gt;）。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="离职短信" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/3rP3eXli.png" /&gt;&lt;/p&gt;
-&lt;p&gt;厌倦了大厂的内卷和职场的尔虞我诈，离职后我并没有投任何简历，决意尝试下“独立开发”。&lt;/p&gt;
-&lt;p&gt;前 3 个月做了一个小程序、一个 AI 小工具，都没什么波澜，最后反倒是靠着用 chatGPT 给朋友们的公司做企业英语定制培训，获得了一些基本收入😂。&lt;/p&gt;
-&lt;p&gt;说是独立开发，有点勉强。因为一开始我就之前的菲律宾老师和员工给我上英语课兼处理一些杂事，想万一独立开发不成，好找个远程工作维生也不错。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;尝试下 thread 的写作方式，接下来用评论的方式边写边发。&lt;/p&gt;</description><pubDate>Mon, 08 Apr 2024 14:15:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030738#reply12</guid></item><item><title>[问与答] 想问一下，如果拥有一个 V 站这个体量的论坛，在小城市是不是可以躺平？</title><link>https://www.v2ex.com/t/1030737#reply4</link><description>最近几年发现了不少越访问量 200w-400w 的站，不知道收入如何。我看收入来源基本分为以下几类：&lt;br /&gt;&lt;br /&gt;1 、网赚盘。这类以 18+内容为主。&lt;br /&gt;2 、付费下载。像是歌曲下载。&lt;br /&gt;3 、广告类。像 V 站，hostloc 之类。&lt;br /&gt;4 、工具站。也基本是靠谷歌的广告。&lt;br /&gt;&lt;br /&gt;大概我就见过这么几类，哪种类型收入会更高些呢？ 400W 左右的访问量足以躺平么？</description><pubDate>Mon, 08 Apr 2024 14:09:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030737#reply4</guid></item><item><title>[宽带症候群] 有福州移动用户吗？是不是网络不对劲了？</title><link>https://www.v2ex.com/t/1030736#reply4</link><description></description><pubDate>Mon, 08 Apr 2024 14:05:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030736#reply4</guid></item><item><title>[Linux] Proxmox 从 AMD 平台迁移到 Intel 平台请教</title><link>https://www.v2ex.com/t/1030735#reply3</link><description>从 amd 的 5900x 迁移到牙膏厂的 13500t ，其他硬件都一样，需要重装系统吗，有没有什么坑？系统是 Proxmox ，里面有一点小鸡。谢谢大佬们。顺带问个从 12400f 换到 5900x 的，其他硬件都一样，系统是 windows ，需要重装吗？谢谢大佬们</description><pubDate>Mon, 08 Apr 2024 13:57:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030735#reply3</guid></item><item><title>[宽带症候群] 四月八日晚上北京联通网络国际出口中断?</title><link>https://www.v2ex.com/t/1030733#reply2</link><description>有没有同样的情况? 电信 OK ，联通手机宽带都不通</description><pubDate>Mon, 08 Apr 2024 13:55:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030733#reply2</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 09 Apr 2024 02:32:09 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 自己做了个繁简互转的网站练手，作为跑通流程的第一步</title><link>https://www.v2ex.com/t/1030876#reply0</link><description>&lt;p&gt;大家好，我是一个基本不会编程的产品经理，最近利用业余时间做了一个繁简互转的小网站。这个项目的初衷是为了解决我个人在处理中文文本时遇到的一些繁简转换需求，同时也是为了实践做出网站到发布的整个流程的尝试。&lt;/p&gt;
+&lt;p&gt;在开发这个网站的过程中，我选择了全 HTML 的方式，可以说毫无技术含量，但对我这种 0 基础的 PM 来说已经开了个好头了&lt;/p&gt;
+&lt;p&gt;使用这个网站非常简单，只需要将需要转换的文本输入到网页上的文本框中，选择繁转简或简转繁，然后点击转换按钮即可。我还计划在未来增加一些新功能，同时也非常希望大家能够使用后提供宝贵的反馈。&lt;/p&gt;
+&lt;p&gt;附上网站链接： &lt;a href="https://fanjianhuzhuan.xyz" rel="nofollow"&gt;https://fanjianhuzhuan.xyz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;非常感谢大家的阅读和支持，如果有任何建议或反馈，可以留言/发送邮件给我，非常感激！&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:28:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030876#reply0</guid></item><item><title>[问与答] 用 DISM 的 Capture 选项来迁移系统靠谱么？</title><link>https://www.v2ex.com/t/1030875#reply0</link><description>估计有人推荐 DISM++这些第三方软件。但我要尽可能只用微软的软件来完成所有操作。&lt;br /&gt;基本操作是这样的：&lt;br /&gt;①用 media creation tool 把 U 盘做成 PE 盘。&lt;br /&gt;②重启进 PE 后，用 C 盘 System32 目录里面的 dism （不是 PE 自带的，否则会有权限问题）把整个 C 盘 Capture 成一个 wim 文件并保存到别的盘上。&lt;br /&gt;③最重要的是要在命令行后面加上验证完整性的选项。&lt;br /&gt;④用 diskpart 给新硬盘分区，为 efi 分区设置盘符。&lt;br /&gt;⑤使用 dism 的 apply 选项把打包完成的 wim 文件应用到新硬盘上，同样也要验证完整性。&lt;br /&gt;⑥用 bcdboot 把应用好的系统的启动信息写到 efi 分区上。&lt;br /&gt;我一共试过两次，其中一次失败了，开机之后黑屏只有一个光标。刚开始我以为是原先的 SSD 是 pcie 3.0 而新 SSD 是 pcie 4.0 的原因，但后来发现原来是 capture 的时候没有验证完整性。&lt;br /&gt;除此之外我还没有找到影响迁移成功与否的其他因素。也许根本就不应该把系统迁移到接口不同的磁盘上？</description><pubDate>Tue, 09 Apr 2024 02:25:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030875#reply0</guid></item><item><title>[问与答] 2024 年 4 月便携办公轻薄本求推荐</title><link>https://www.v2ex.com/t/1030874#reply0</link><description>&lt;p&gt;因为工作需求想买一台轻薄本，目前倾向于 Mac ，前几年工作一直用的 mac ，挺顺手，但也不排斥 win 本。自己有一台拯救者游戏本，用挺久了，但现在基本不咋玩游戏了，就准备出掉，换个便携的本子。不写代码，仅仅是轻度的网页文档需求，偶尔看看 B 站和奈飞。&lt;/p&gt;
+&lt;p&gt;pdd 查了下 macbook air 的价格，m1 4699 m2 6399 m3 7349 ，全部是 8+256 的，轻度办公应该勉强够用了，还有个可选项是 M2,8+512g 的，价格是 7688 ，我觉得我对容量的需求大于内存的需求，不跑代码的话 8g 内存应该够了。&lt;/p&gt;
+&lt;p&gt;预期的预算是 7500 左右，如果 win 方面有什么合适的本子，也可以推荐下。简单看了下 yoga pro14s 和 yoga air 14s （略超预算）。&lt;/p&gt;
+&lt;p&gt;也有考虑过买个二手 mac ，但看了下闲鱼，感觉水挺深，不敢轻易下手。&lt;/p&gt;
+&lt;p&gt;所以大家有什么合适的推荐么，顺便再问一句，需不需要再等两个月到 618 再出手。&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:23:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030874#reply0</guid></item><item><title>[投资] 金融 api 接口怎么选?</title><link>https://www.v2ex.com/t/1030873#reply0</link><description>选择金融 API 接口时，企业可以遵循以下原则：&lt;br /&gt;明确需求：企业应该明确自己的需求，了解所需要的功能类型，例如功能型数据接口或查询信息类型的数据接口等。&lt;br /&gt;关注数据量：重视金融 API 的数据量。信息量大的数据接口意味着企业能够获得更多的信息和数据，有助于更全面地分析和决策。&lt;br /&gt;考虑安全性：金融 API 涉及到敏感的金融数据，因此安全性是至关重要的。企业应该选择具有良好安全性措施的 API ，以确保数据的保密性和完整性。&lt;br /&gt;功能丰富性：评估金融 API 提供的具体功能，确保其能够满足企业的需求。功能丰富的 API 可以提供更多灵活性和多样性，使企业能够更好地应对不同的业务场景。&lt;br /&gt;响应速度：考虑金融 API 的响应速度。快速的响应速度可以提高数据的实时性和可用性，有助于企业更及时地进行决策和分析。&lt;br /&gt;通过以上原则，企业可以更好地选择适合自身需求的金融 API 接口，从而提高业务效率和数据分析能力。</description><pubDate>Tue, 09 Apr 2024 02:22:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030873#reply0</guid></item><item><title>[优惠信息] 腾讯云续费优惠</title><link>https://www.v2ex.com/t/1030872#reply1</link><description>&lt;p&gt;义父们帮我点下，来互点&lt;/p&gt;
+&lt;p&gt;就差你了！助力成功即享惊喜优惠券
+点击即可助力： &lt;a href="https://orcaterm.cloud.tencent.com/group_activity?initiationId=387f7951-5c93-470b-8b76-5d9e205f434f" rel="nofollow"&gt;https://orcaterm.cloud.tencent.com/group_activity?initiationId=387f7951-5c93-470b-8b76-5d9e205f434f&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030872#reply1</guid></item><item><title>[Go 编程语言] 如何修改 goland 默认生成的单元测试的样式。</title><link>https://www.v2ex.com/t/1030871#reply0</link><description>&lt;pre&gt;&lt;code&gt;func check(a, b int) bool {
+	return false
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;用 goland 给上面这个函数生成的测试方法&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;func Test_check(t *testing.T) {
+	type args struct {
+		a int
+		b int
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		// TODO: Add test cases.
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := check(tt.args.a, tt.args.b); got != tt.want {
+				t.Errorf("check() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;默认生成的规则是把函数所有的参数放到一个 &lt;code&gt;args&lt;/code&gt; 结构体里面。自己不太喜欢这种风格。
+我希望是下面这种风格。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;func Test_check(t *testing.T) {
+	tests := []struct {
+		name string
+		a    int
+		b    int
+		want bool
+	}{
+		// TODO: Add test cases.
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := check(tt.a, ttb); got != tt.want {
+				t.Errorf("check() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;请教一下 goland 是否可以改成默认用我这种风格。&lt;/p&gt;
+&lt;p&gt;顺便再请教一个问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果一个函数的参数有一个大的结构体（比如 k8s 的 deployment 那种），每次写单元测试的时候，要构造一个大的结构体，特别麻烦，有没有好的解决方案。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Tue, 09 Apr 2024 02:21:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030871#reply0</guid></item><item><title>[云计算] 国内公有云还有救吗？</title><link>https://www.v2ex.com/t/1030870#reply4</link><description>&lt;p&gt;昨天大面积故障，今天大面积营销。不好好出来道歉、赔钱，复盘具体原因以及改进措施。只想靠糊弄,混淆视听, 敷衍了事。&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:20:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030870#reply4</guid></item><item><title>[分享发现] 原来这些免费电影资源的网站是这样生成的</title><link>https://www.v2ex.com/t/1030869#reply4</link><description>&lt;p&gt;最近发现了一个免费影视 CMS:&lt;a href="https://iycms.com/" rel="nofollow"&gt;https://iycms.com/&lt;/a&gt;
+就花 16.5rmb 买了一个便宜服务器部署了一下：
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/KT9htEa.png" /&gt; &lt;/p&gt;
+&lt;p&gt;发现原来那种白嫖网站都是通过类似这种的 cms 批量部署了，这种 cms 后台管理功能也太全了吧，什么功能都有
+，属实流弊。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/x8nR7Ys.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/5JupdEd.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/YW3CIuA.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Cqs7yrN.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/cMLb2PX.png" /&gt; &lt;/p&gt;
+&lt;p&gt;于是我就花了几小时，从部署到配置就好了：
+&lt;a href="http://movie.smartai.wtf/" rel="nofollow"&gt;http://movie.smartai.wtf/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;随便玩玩的，就想看看这个怎么做的，服务器估计也不会续费~类似这种的大家还有没有推荐的，想玩玩。&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:13:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030869#reply4</guid></item><item><title>[问与答] 想问下，那些机场主都是肉身在国外的吗？肉身在国内的话，不会被喝茶吗？</title><link>https://www.v2ex.com/t/1030868#reply6</link><description>各位大佬好，一直有个疑问，如题目所说，想听听各位大佬的想法</description><pubDate>Tue, 09 Apr 2024 02:13:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030868#reply6</guid></item><item><title>[Tesla] 关于“单踏板模式”</title><link>https://www.v2ex.com/t/1030867#reply5</link><description>以前开油车的时候，我完全想象不出来开“单踏板模式”是什么感觉，尤其是倒车的时候。&lt;br /&gt;实际开了之后，才发现，油车的那种“拖拉机感”才是限制我想象力的根本原因。&lt;br /&gt;&lt;br /&gt;特斯拉开起来感觉特别皱特别紧，方向盘没虚位，油门几乎没有虚位，刹车也偏紧偏硬，标准动能回收➕保持模式，踩下和松开都是实实在在的有反应。&lt;br /&gt;油门前 30%踩下去偏软，但是颗粒度很细，缓踩能踩出来 1km/h 以下的龟爬速度，越往后越硬，我至今是一瞬间踩不出来地板油。&lt;br /&gt;并且油门的回弹力度很大，稳定一个速度，脚和腿可以完全松弛，卡在那里保持速度，动能回收最大的话，腿部肌肉的一松一紧甚至可以控制车速。&lt;br /&gt;油门没有延迟，分两部分。1. 起步，并不是稍微一踩车子就 50km/h 窜出去，而是稍微一踩 车子就动了，从 0.1km/h 缓慢上升。2.加速，具体感觉就是像在玩一个赛车的游戏，脚一踩，时速的数字就往上加。&lt;br /&gt;说回标准动能回收，低速行驶下，完全松开油门，就好像有 100 个人从后面拽住你一样，然后稍微一踩油门，那 100 个人立马消失。这种低速下变态的拖拽感，会给你很大的过弯信心，很多人不能想象单踏板模式怎么穿过人流多的路口，还是那句话，油车的“拖拉机感”会限制你的想象力。&lt;br /&gt;为了抵消正常行驶的拖拽感，上段说了，一点油门就能让那“一百个人”消失，加上油门踏板的回弹力，普通人很容易的就可以找到加速和回收之间的平衡点。线性减速、平稳过弯、无点头停止等红灯。&lt;br /&gt;&lt;br /&gt;倒车，倒车的油门加速曲线比前进稍微平缓一点，但依然保持差不多的灵敏度，凭着前 30%很软的踏板脚感，要比前进更容易踩出来龟爬蠕行的状态，加上动能回收，缓踩缓松，比只踩刹车倒车要舒服，只踩刹车不能加速，而倒车，有部分场景是需要加速的，加上油车的倒车油门延迟更大，所以更限制了大众对单踏板模式倒车的想象，也给了云玩家反击的空间。&lt;br /&gt;最后，还是要多试驾。亲身体验是打破想象力限制的唯一途径，毕竟试驾免费。</description><pubDate>Tue, 09 Apr 2024 02:13:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030867#reply5</guid></item><item><title>[信息安全] 谁听说过这种攻击方式吗？</title><link>https://www.v2ex.com/t/1030866#reply4</link><description>&lt;p&gt;各位大佬，谁听说过这种攻击方式吗？&lt;/p&gt;
+&lt;p&gt;我们的站点，有下载报告的功能，报告为 zip 包，含 pdf 和 html 文件。之前几年一直正常。&lt;/p&gt;
+&lt;p&gt;直到有天客服开始收到很多用户任何浏览器下载报告报毒，经分析，是 Microsoft Defender SmartScreen 报的（用金山等替代或关闭，就不会报）
+进一步分析，1 ）它同时会以下载地址作为特征； 2 ）报毒的是里面的 html 文件&lt;/p&gt;
+&lt;p&gt;我们的措施是：html 是个 vue 单页应用打包为单个 html ，一开始认为是一些类库引发了病毒特征，遂改为 html 里直接 window.location 直接跳转在线版的方式。——当时解决了，不再报毒。&lt;/p&gt;
+&lt;p&gt;过了几个月，再次发生报毒，仍然是 html ，难以理解仅一句 js 跳转的 html 也被报毒。&lt;/p&gt;
+&lt;p&gt;怀疑：edge 浏览器有 [将此文件报告为不安全] 的功能，怀疑是有人恶意使用此功能，MDS 强制从 url 和 zip 包里找病毒特征，造成这种情况。&lt;/p&gt;
+&lt;p&gt;这是什么新式的黑产吗？从网上找不到相关内容，我也不确定我的怀疑是否靠边。（之前我有个仅自己使用的个人站点被 edge 报不安全，所以我对 MDS 这种大家可以自行提交的方式很是怀疑，才联想到）&lt;/p&gt;
+&lt;p&gt;请各位大佬帮忙看下，谢谢~！&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:11:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030866#reply4</guid></item><item><title>[旅行] 杭州 五一 前后 去哪吃？有什么非著名景点吗？</title><link>https://www.v2ex.com/t/1030862#reply7</link><description>&lt;p&gt;4 月底到 5 月初 在杭州 请问小伙伴们有什么建议去吃的吗？
+或者非著名景点建议溜达的&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:05:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030862#reply7</guid></item><item><title>[Apple] MacBook Pro 外接 4k 显示器感觉没有 Windows 接 2k 显示器清晰</title><link>https://www.v2ex.com/t/1030861#reply8</link><description>&lt;p&gt;我的 MacBook Pro M3 ，外接 AOC 27 寸 4k U27U2DS ，在公司用，缩放到 2560*1440&lt;/p&gt;
+&lt;p&gt;我家里的 windows 主机外接的一个 Dell 的 2k 高刷显示器&lt;/p&gt;
+&lt;p&gt;打开同一个网页，感觉 4k 的 Mac 没有 2k 的 Windows 清晰，不知道是我下班回去的错觉还是都这样&lt;/p&gt;
+&lt;p&gt;然后我发现 mac 如果缩放到 1920*1080 就很清晰&lt;/p&gt;
+&lt;p&gt;你们的也是这样吗&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:05:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030861#reply8</guid></item><item><title>[分享创造] 实时股票数据 API 选择，带你从小白开始</title><link>https://www.v2ex.com/t/1030858#reply0</link><description>尊敬的交易者们， 您是否曾经为了获取实时、准确的股票行情数据而为之困扰？您是否也曾经为昂贵的股票行情软件价格而望而却步？现在，我们有一个好消息要告诉您：我们的股票行情数据 API 已经发布！它将彻底改变您对行情 API 的认知，让您轻松突破传统，实现交易的新高度！股票数据 API 是玩金融玩量化必不可少的工具，好的股票行情数据 API 提供实时行情报价推送和实时 K 线的获取，股票数据 API 的实时决定了策略的时效性，股票数据 API 的质量准确决定策略了是否有效。&lt;br /&gt;&lt;br /&gt;我们引以为豪的股票数据行情 API 是一个开源项目，您可以获取我们的行情软件，并随时查看和下载最新版本。&lt;br /&gt;&lt;br /&gt;我们的免费行情软件是由一支经验丰富、技术精湛的团队开发的。它具有以下特点：&lt;br /&gt;&lt;br /&gt;1 、实时、准确的股票行情数据&lt;br /&gt;&lt;br /&gt;我们的软件通过与多家知名交易所进行深度合作，确保您所获取的行情数据稳定、实时、准确。无论您是进行股票、外汇、期货还是加密货币交易，都能获得表现出色的行情数据支持。&lt;br /&gt;完全免费：相较于市面上大部分的行情软件，我们的免费行情软件没有任何隐藏费用或订阅费用。我们坚信，交易者应该能够免费获得优质的行情数据和工具支持，以便更好地进行交易决策。&lt;br /&gt;&lt;br /&gt;2 、开源、透明&lt;br /&gt;&lt;br /&gt;作为一个开源项目，我们的免费行情软件的源代码对用户完全开放。这意味着用户可以自行审查和验证软件的安全性、稳定性，并对其进行个性化的修改或拓展。这种开放的精神将帮助我们逐步改进软件的性能，并满足用户的个性化需求。&lt;br /&gt;用户友好界面：我们的免费行情软件采用直观、简洁的用户界面设计，让用户可以快速上手，并轻松找到所需的功能。无论您是交易新手还是资深交易者，都可以享受到使用该软件带来的无缝体验。&lt;br /&gt;&lt;br /&gt;加入我们的免费行情 API 社区，您将与全球各地的交易者进行交流，分享交易策略和经验。我们的开发团队也会定期更新软件，并根据用户的反馈进行改善和优化，以确保用户能够始终处于交易的最前沿。&lt;br /&gt;&lt;br /&gt;行情软件的选择是每个交易者都必须面对的问题，而我们的免费行情软件将为您提供一个前所未有的选择。让我们一同突破传统，实现您交易的新高度！&lt;br /&gt;&lt;br /&gt;Alltick 免费申请 token 地址:&lt;a href="https://alltick.co" rel="nofollow noopener" target="_blank"&gt;https://alltick.co&lt;/a&gt;</description><pubDate>Tue, 09 Apr 2024 02:04:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030858#reply0</guid></item><item><title>[问与答] V2 内容发布受限</title><link>https://www.v2ex.com/t/1030857#reply2</link><description>&lt;p&gt;v2 无法发布内容  提示注册没有 300 天 无法发布内容&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:02:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030857#reply2</guid></item><item><title>[优惠信息] 腾讯一折续费优惠活动</title><link>https://www.v2ex.com/t/1030855#reply1</link><description>&lt;p&gt;就差你了！助力成功即享惊喜优惠券
+点击即可助力： &lt;a href="https://orcaterm.cloud.tencent.com/group_activity?initiationId=1a399639-03ad-4f17-a246-366d5403fe52" rel="nofollow"&gt;https://orcaterm.cloud.tencent.com/group_activity?initiationId=1a399639-03ad-4f17-a246-366d5403fe52&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:01:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030855#reply1</guid></item><item><title>[Google] 谷歌相册真 TMSB</title><link>https://www.v2ex.com/t/1030854#reply1</link><description>&lt;p&gt;每隔一段时间就叫我备份照片，每次提醒都得注意，不小心就点错了。
+关键是这破玩意备份之后，本地照片就没了，自动传到服务器上了，然后传上去的还是压缩之后的，原始大小的照片根本没地方找。&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 02:00:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030854#reply1</guid></item><item><title>[Visual Studio Code] 大家好，这里是 VS Code 二月更新，欢迎在评论区留下反馈</title><link>https://www.v2ex.com/t/1030853#reply0</link><description>大家好，这里是 VS Code 二月更新，欢迎在评论区留下反馈&lt;br /&gt;&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;?share=copy</description><pubDate>Tue, 09 Apr 2024 01:59:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030853#reply0</guid></item><item><title>[程序员] 腾讯云 1 折券来白嫖一下吧爸爸们</title><link>https://www.v2ex.com/t/1030851#reply17</link><description>&lt;p&gt;团长有轻量云 1 折券，团员有 OrcaTerm 1 折券捏&lt;/p&gt;
+&lt;p&gt;三个人就成团了🙏&lt;/p&gt;
+&lt;p&gt;就差你了！助力成功即享惊喜优惠券
+点击即可助力：&lt;a href="https://orcaterm.cloud.tencent.com/group_activity?initiationId=2a70ba80-c2be-49b1-8f88-2b731951e83d" rel="nofollow"&gt;https://orcaterm.cloud.tencent.com/group_activity?initiationId=2a70ba80-c2be-49b1-8f88-2b731951e83d&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 09 Apr 2024 01:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030851#reply17</guid></item><item><title>[OpenWrt] 你们的 Openwrt 路由器刷机后，还会定期升级吗？</title><link>https://www.v2ex.com/t/1030850#reply0</link><description></description><pubDate>Tue, 09 Apr 2024 01:57:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1030850#reply0</guid></item></channel></rss>
