@@ -1,46 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Apr 2024 02:05:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 要用淘宝网站就必须要先装手机淘宝</title><link>https://www.v2ex.com/t/1031533#reply0</link><description>&lt;p&gt;网页版淘宝，用户名/密码登录后，要求 “请打开手机淘宝点击确认”。&lt;/p&gt;
-&lt;p&gt;选择其他验证方式，只有两个备选项：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Apr 2024 03:41:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Python] 计算机视觉模型，需求是对比两张图片的相似度，求指点或者有大佬愿意尝试一下，可有偿</title><link>https://www.v2ex.com/t/1031584#reply1</link><description>&lt;p&gt;本人对这块一窍不通，目前借着 GPT 根据颜色和人体姿态求的相似度，东拼西凑的做出来了，只能说差强人意，堪堪能用，领导希望一个模型解决问题，并且随着训练的材料越多，模型越准确&lt;/p&gt;
+&lt;p&gt;基于需求，标照片和客片这两张图，即使是按照人眼评判标准相似度足够的，也可能在整体饱和度，亮度，色调，人体姿态，背景颜色等有差异&lt;/p&gt;
+&lt;p&gt;而需要评判的图片，背景，物体和人物姿态，衣服都会有变化&lt;/p&gt;
+&lt;p&gt;如果有直接能用的开源项目，或者不需要太多相关知识就能达成的学习路线，希望有大佬指点一二&lt;/p&gt;
+&lt;p&gt;或者有大佬愿意尝试，可以谈一下报酬看看我们领导是否能接受&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:39:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031584#reply1</guid></item><item><title>[PlayStation 5] ps5（笔记本）电感啸叫怎么解决，你们的 ps5 有吗，有解决方案吗？</title><link>https://www.v2ex.com/t/1031583#reply0</link><description>&lt;p&gt;最近给 ps5 （港版）换了个位置（房间），发现使用的时候一直有滋滋的的声音，特别是开游戏时候（游戏功率大？），已经确认不是风扇声音。想问这种情况普遍吗？有 v 友成功解决了吗？还是只能忍受。
+另外笔记本确实也有同样问题，应该是房间的电源可能有点问题，不知道怎么处理，淘宝买了滤波器打算试一下看看。&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:38:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031583#reply0</guid></item><item><title>[求职] Base 南京-自考本学历-8 年经验- Java -求职</title><link>https://www.v2ex.com/t/1031582#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;熟悉 Java 语言和主流 Java 后端技术，熟练掌握 Java 新特性、熟练掌握 SpringCloud （ Nacos+GateW ay+OpenFeign+SkyWalking+Sentinel ）、SpringBoot 等微服务框架，熟悉 MybatisPlus 等 ORM 框架、MySQL 常见调优，熟练使用 Redis ，Kafka ，了解 K8S 、Docker 、Jenkins 等技术，熟练使用 Git ，熟悉 Linux 常用命令、熟悉项目部署。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;熟悉 JavaScript 、HTML 、CSS 、JQuery 等前端技术&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;熟练使用 Jira 、禅道、Confluence 等协同软件，了解敏捷开发、参与公司敏捷开发流程规范制定。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;带过 14 人团队。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;联系方式 VX:a2VuYW4yMDE2MDY=&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:38:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031582#reply0</guid></item><item><title>[问与答] android 代替 nas 转码</title><link>https://www.v2ex.com/t/1031580#reply0</link><description>&lt;p&gt;我自建的 nas 没显卡， 没办法转码，有一台 Nvidia shield ，能设置 Android 作为转码服务器吗，jellyfin/emby/plex 都行&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:31:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031580#reply0</guid></item><item><title>[分享发现] 小米光速自己打脸，互联网乐子这么快速的么</title><link>https://www.v2ex.com/t/1031579#reply0</link><description>智己发布会把小米 su7 的参数标错了一个。&lt;br /&gt;&lt;a href="https://www.zhihu.com/question/652381310/answer/3460250050" rel="nofollow noopener" target="_blank"&gt;https://www.zhihu.com/question/652381310/answer/3460250050&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;小米公司发言人还表示：“我们不接受个人轻描淡写的非正式的道歉。我们再次敦促智己公司，立即公开澄清，并向被其误导的公众正式道歉！”。&lt;br /&gt;&lt;br /&gt;小米连发 3 条微博一正言辞要智己各种道歉，4 月 9 日凌晨，智己汽车发布致歉函。&lt;br /&gt;&lt;br /&gt;------&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2 天后，在 10 日的红米新品 Turbo 3 的发布会上，小米将荣耀 100 Pro 参数标注错误，荣耀 100 Pro 搭载的是第二代高通骁龙 8 移动平台，而 Redmi 发布后的 PPT 则显示该机搭载第三代骁龙 7 移动平台。有网友称应该让小米方面道歉三次。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.zhihu.com/question/652523406" rel="nofollow noopener" target="_blank"&gt;https://www.zhihu.com/question/652523406&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;笑死了</description><pubDate>Thu, 11 Apr 2024 03:30:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031579#reply0</guid></item><item><title>[程序员] 使用 git diff 命令实现根目录文档的更新的时候自动更新子文档 😯😯😯</title><link>https://www.v2ex.com/t/1031578#reply0</link><description>&lt;p&gt;在开始之前，首先描述一下我们目前遇到的场景，目前我们正在开发一个 &lt;a href="https://github.com/xun082/create-neat" rel="nofollow"&gt;前端脚手架&lt;/a&gt; 开源项目，当前项目使用 Truborepo+PNPM 开发的一个 Monorepo 项目，在根目录中，我们有一个文档，然后 packages 目录下有些子包的文档应该是和根目录下的包是一样的。&lt;/p&gt;
+&lt;p&gt;因为我们的包是发布到 NPM 上的，并且是 GitHub 上开源的，所以根目录上的 &lt;a href="http://README.me" rel="nofollow"&gt;README.me&lt;/a&gt; 应该是在 GItHub 上一打开项目的时候就能查看的，而 packages 目录下的子包文档应该是当在 NPM 网站上打开的时候就能看到的。&lt;/p&gt;
+&lt;p&gt;如下图所示 GitHub:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411073036" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411073036.png" /&gt;&lt;/p&gt;
+&lt;p&gt;而在 NPM 上也是这样的：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411073140" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411073140.png" /&gt;&lt;/p&gt;
+&lt;p&gt;那么接下来我们的任务是当我们根目录下的 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; 发生变动的时候，我们 packages 目录下的固定子包应该也会发生改变。&lt;/p&gt;
+&lt;h1&gt;git diff&lt;/h1&gt;
+&lt;p&gt;在开始之前，我们先来学习一下 git diff 这个命令。&lt;/p&gt;
+&lt;p&gt;git diff 是 Git 版本控制系统中一个非常有用的命令，用于显示文件之间的差异、差异补丁和进行代码审查。这个命令可以用来比较文件的变化，检查工作目录中未暂存的改动，以及比较已暂存的改动和最近的提交等。&lt;/p&gt;
+&lt;p&gt;查看未暂存的更改：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;git diff
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个命令将会显示自从上次 git add 之后，工作目录中有哪些更改尚未暂存。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411075324" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075324.png" /&gt;&lt;/p&gt;
+&lt;p&gt;查看已暂存的更改：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;git diff --cached
+# 或者使用另外一个写法
+git diff --staged
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img alt="20240411075655" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075655.png" /&gt;&lt;/p&gt;
+&lt;p&gt;这个时候我们可以看得出，使用 &lt;code&gt;git diff --cached&lt;/code&gt; 命令是我们还不能查找得出文件内容是否有发生变更的，这个前提是需要他把文件添加到暂存区，也就是执行 &lt;code&gt;git add&lt;/code&gt;，如下所示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411075837" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075837.png" /&gt;&lt;/p&gt;
+&lt;p&gt;除此之外，我们还可以查看到具体哪个文件发生了变化，使用的命令是 &lt;code&gt;git diff --cached &amp;lt;具体文件路径&amp;gt;&lt;/code&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411080029" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411080029.png" /&gt;&lt;/p&gt;
+&lt;p&gt;生成补丁文件，这个在我们前面的文章内容中就已经有讲解过了：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;git diff &amp;gt; changes.patch
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个时候我们已经知道了怎么查找文件的变更了，那么我们应该如何来实现这个 git diff 命令呢，以及在哪里实现呢？&lt;/p&gt;
+&lt;h1&gt;配合 husky 来实现文档自动更新&lt;/h1&gt;
+&lt;p&gt;Husky 是一个流行的工具，用于在 Git 钩子中自动化 JavaScript 和其他语言的项目的代码质量检查、测试以及在提交前自动修正问题。它使得配置和使用 Git 钩子变得简单便捷，如 pre-commit 或 pre-push 钩子，从而可以在代码提交到版本控制系统之前执行代码检查和格式化任务，确保代码库的整洁和一致性。&lt;/p&gt;
+&lt;p&gt;要想实现我们的需求，首先我们可以在 pre-commit 钩子中通过 git diff 来查找出文件的变更或者然后根据这个文件变更的内容编写一个脚本自动复制到某个具体的文件。&lt;/p&gt;
+&lt;p&gt;首先我们在 husky 的 pre-commit 中添加如下代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-diff"&gt;#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo 'running pre-commit checks ...'
+
+npx lint-staged -q
+
++ npx ts-node --transpile-only ./scripts/check-readme-change.ts
+
+echo -e 'pre-commit success!\n'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;需要提前执行 pnpm add ts-node -Dw&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;然后我们要在根目录下的 scripts 目录下添加 check-readme-change.ts 文件并编写如下代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-ts"&gt;const { execSync } = require("child_process");
+const fs = require("fs");
+const path = require("path");
+
+const fileToCheck = "README.md"; // 需要检查的文件
+const destinationFiles = ["packages/core/README.md"];
+
+try {
+  // 执行 git diff 命令以检查是否有文件更改
+  const result = execSync(`git diff --cached --name-only`).toString();
+
+  // 检查目标文件是否在更改列表中
+  if (result.split("\n").includes(fileToCheck)) {
+    // 如果文件有更改，读取文件内容
+    const data = fs.readFileSync(fileToCheck, "utf8");
+
+    // 将内容复制到所有目标文件
+    destinationFiles.forEach((filePath) =&amp;gt; {
+      const targetPath = path.join(process.cwd(), filePath);
+      fs.writeFileSync(targetPath, data);
+
+      console.log(`Copied updated ${fileToCheck} to ${targetPath}`);
+    });
+
+    // 提交文件更改
+    execSync("git add .");
+    execSync("git commit --no-verify --allow-empty-message");
+  }
+} catch (error) {
+  console.error("Error executing git diff:", error);
+  process.exit(1); // 有错误发生时退出脚本
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在上面的代码中就是查找出 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; 文件有没有发生改变，如果没有发生改变的直接跳过，如果改变了则将文件复制到固定目录下并使用 &lt;code&gt;git add .&lt;/code&gt; 将所有修改过的文件添加到 Git 暂存区。用 &lt;code&gt;git commit --no-verify --allow-empty-message&lt;/code&gt; 提交更改到本地仓库。&lt;/p&gt;
+&lt;p&gt;如下图所示，我们的文件发生了如下变化：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411101718" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411101718.png" /&gt;&lt;/p&gt;
+&lt;p&gt;当我们执行完成 git commit 的时候，packages 目录下固定包的 README 文件被我们正确的修改了：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="20240411101916" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411101916.png" /&gt;&lt;/p&gt;
+&lt;p&gt;到这里，我们就完成了我们的文档自动同步的需求了。&lt;/p&gt;
+&lt;h1&gt;总结&lt;/h1&gt;
+&lt;p&gt;在这篇文章中我们只要使用 git diff 在 Git 提交流程中自动检测和处理特定文件的更改，确保所有相关的部分都保持最新，并自动完成这些更改的提交。这种自动化有助于保持项目的不同部分同步，特别是在大型项目中，当某个核心文件（如 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; ）更新时，需要同步更新到多个位置。&lt;/p&gt;
+&lt;p&gt;最后分享两个我的两个开源项目,它们分别是:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/xun082/create-neat" rel="nofollow"&gt;前端脚手架 create-neat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/xun082/online-edit" rel="nofollow"&gt;在线代码协同编辑器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这两个项目都会一直维护的，如果你想参与或者交流学习，可以加我微信 yunmz777 如果你也喜欢,欢迎 star 🚗🚗🚗&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:26:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031578#reply0</guid></item><item><title>[宽带症候群] 成都移动企宽开始封未备案域名 SNI 了</title><link>https://www.v2ex.com/t/1031577#reply5</link><description>&lt;p&gt;今天早上起来发现公司 AnyConnect VPN 连不上了，到公司一看发现 LE 签发 SSL 证书没过期。&lt;/p&gt;
+&lt;p&gt;于是在另一条线路上抓包连接测试了一下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;11:17:40.133546 IP client.32834 &amp;gt; anyconnect.23333: Flags [S], seq 2506707736, win 64240, options [mss 1460,sackOK,TS val 1070019589 ecr 0,nop,wscale 7], length 0
+11:17:40.149812 IP anyconnect.23333 &amp;gt; client.32834: Flags [S.], seq 3447629566, ack 2506707737, win 65160, options [mss 1460,sackOK,TS val 1648754051 ecr 1070019589,nop,wscale 6], length 0
+11:17:40.149862 IP client.32834 &amp;gt; anyconnect.23333: Flags [.], ack 1, win 502, options [nop,nop,TS val 1070019605 ecr 1648754051], length 0
+11:17:40.346911 IP client.32834 &amp;gt; anyconnect.23333: Flags [P.], seq 1:518, ack 1, win 502, options [nop,nop,TS val 1070019802 ecr 1648754051], length 517
+11:17:40.356083 IP anyconnect.23333 &amp;gt; client.32834: Flags [R], seq 3447629567, win 65535, length 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在 ASA 上同样看到了 connect refused 的日志记录，RST 包来源于 client 。由此可知有中间设备检测到 TLS 后向两侧发送了 RST 报文。&lt;/p&gt;
+&lt;p&gt;然后我用了几个肯定是备过案的域名作为 SNI 连接，结果是可以正常连接上。那目前就可以确定成都企宽也开始封未备案域名 SNI 了……&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031577#reply5</guid></item><item><title>[问与答] nebula 节点之间无法相互 ping 通</title><link>https://www.v2ex.com/t/1031576#reply0</link><description>&lt;h1&gt;背景&lt;/h1&gt;
+&lt;p&gt;搭了一个 Nebula 的环境, 所有节点都可以 ping 通 lighthouse, lighthouse 也能 ping 通所有节点, 但是节点之间相互不能 ping 通&lt;/p&gt;
+&lt;h1&gt;lighthouse&lt;/h1&gt;
+&lt;p&gt;系统: CentOS 7
+&lt;br /&gt;
+配置文件:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pki:
+  ca: /etc/nebula/ca.crt
+  cert: /etc/nebula/lighthouse.crt
+  key: /etc/nebula/lighthouse.key
+
+static_host_map:
+  "192.168.166.1": ["ip:4242"]
+
+lighthouse:
+  am_lighthouse: true
+
+listen:
+  host: 0.0.0.0
+  port: 4242
+
+punchy:
+  punch: true
+  respond: true
+
+tun:
+  disabled: false
+  dev: nebula1
+  drop_local_broadcast: false
+  drop_multicast: false
+  tx_queue: 500
+  mtu: 1300
+
+logging:
+  level: info
+  format: text
+
+firewall:
+  outbound_action: drop
+  inbound_action: drop
+
+  conntrack:
+    tcp_timeout: 12m
+    udp_timeout: 3m
+    default_timeout: 10m
+
+  outbound:
+    - port: any
+      proto: any
+      host: any
+
+  inbound:
+    - port: any
+      proto: any
+      host: any
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;节点&lt;/h1&gt;
+&lt;p&gt;系统: Windows10/11
+&lt;br /&gt;
+配置:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pki:
+  ca: /etc/nebula/ca.crt
+  cert: /etc/nebula/node1.crt
+  key: /etc/nebula/node2.key
+
+static_host_map:
+  "192.168.166.1": ["ip:4242"]
+
+lighthouse:
+  am_lighthouse: false
+  hosts:
+    - "192.168.166.1"
+
+listen:
+  host: 0.0.0.0
+  port: 0
+
+punchy:
+  punch: true
+  respond: true
+
+tun:
+  disabled: false
+  dev: nebula1
+  drop_local_broadcast: false
+  drop_multicast: false
+  tx_queue: 500
+  mtu: 1300
+
+logging:
+  level: info
+  format: text
+
+firewall:
+  outbound_action: drop
+  inbound_action: drop
+
+  conntrack:
+    tcp_timeout: 12m
+    udp_timeout: 3m
+    default_timeout: 10m
+
+  outbound:
+    - port: any
+      proto: any
+      host: any
+
+  inbound:
+    - port: any
+      proto: any
+      host: any
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;节点日志&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;节点 Nebula 日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;time="2024-04-11T11:09:09+08:00" level=info msg="Handshake message sent" handshake="map[stage:1 style:ix_psk0]" initiatorIndex=1470529532 localIndex=1470529532 remoteIndex=0 udpAddrs="[node2:54223 192.168.99.6:54105 192.168.99.102:54105 192.168.233.1:54105 192.168.239.1:54105]" vpnIp=192.168.166.3
+time="2024-04-11T11:09:15+08:00" level=info msg="Handshake timed out" durationNs=6506670700 handshake="map[stage:1 style:ix_psk0]" initiatorIndex=1470529532 localIndex=1470529532 remoteIndex=0 udpAddrs="[node2:54223 192.168.99.6:54105 192.168.99.102:54105 192.168.233.1:54105 192.168.239.1:54105]" vpnIp=192.168.166.3
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;节点 ping 日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;正在 Ping 192.168.166.3 具有 32 字节的数据:
+请求超时。
+请求超时。
+请求超时。
+请求超时。
+
+192.168.166.3 的 Ping 统计信息:
+    数据包: 已发送 = 4 ，已接收 = 0 ，丢失 = 4 (100% 丢失)，
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;防火墙&lt;/h1&gt;
+&lt;p&gt;lighthouse 默认就没有防火墙, 两个 Windows 节点也允许了的 ping 的防火墙策略&lt;/p&gt;
+&lt;h1&gt;疑问&lt;/h1&gt;
+&lt;p&gt;两个节点, 在什么都不做的情况下, 会一直刷上述提到的 Nebula 日志内容, 观察了一下, 发现 udpAddr 里面, 没有对应节点本身的 Nebula 的 ip, 不知道是不是正常的, 上 Google 查了一下, 也没查到什么有用的信息, 有没有哪位大佬碰到过这种情况&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031576#reply0</guid></item><item><title>[Node.js] 使用 ts 的最佳境界：化类型于无形</title><link>https://www.v2ex.com/t/1031575#reply0</link><description>&lt;h2&gt;使用 ts 的最佳境界：化类型于无形&lt;/h2&gt;
+&lt;p&gt;在项目中使用 ts 可以带来类型智能提示与校验的诸多好处。同时，为了减少类型标注，达到&lt;code&gt;化类型于无形&lt;/code&gt;的效果，CabloyJS 引入了 ioc 和依赖查找的机制。在上一篇文章中，我们创建了一个业务模块 test-home ，并且采用依赖查找的机制演示了如何优雅的定义和使用资源，包括：Service 服务、Config 配置、国际化语言资源、Error 错误异常&lt;/p&gt;
+&lt;p&gt;在实际的项目当中，经常会遇到跨模块访问资源的场景，那么，CabloyJS 的依赖查找机制是否仍然可以优雅的实现跨模块访问呢？让我们一睹为快&lt;/p&gt;
+&lt;h2&gt;模块化体系与任务说明&lt;/h2&gt;
+&lt;p&gt;CabloyJS 全栈框架的前后端均采用模块化体系。一个 CabloyJS 项目由多个业务模块组成，每个业务模块都可以包含与自身业务相关的资源，比如：Service 服务、Config 配置、国际化语言资源、Error 错误异常、中间件、定时任务、消息队列、系统启动项，等等&lt;/p&gt;
+&lt;p&gt;在这里，我们创建一个新的业务模块 test-work ，在 test-work 中访问 test-home 提供的资源&lt;/p&gt;
+&lt;h2&gt;1. 新建业务模块&lt;/h2&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;cabloy api:create:module test-work
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;2. 新建 API&lt;/h2&gt;
+&lt;p&gt;通过一个命令同时创建一组文件：Route 、Controller 、Service&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;cabloy api:create:controller work
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;3. 跨模块访问 Service 服务&lt;/h2&gt;
+&lt;p&gt;接下来，我们在刚才新建的 Service 当中，访问模块 test-home 的 Service 服务&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
+import { ScopeModule } from '../resource/this.js';
+
+@Local()
+export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
+  async action({ user }) {
++   const scopeHome = this.getScope('test-home');
++   return scopeHome.local.home.action({ user });
+    // return user;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ol&gt;
-&lt;li&gt;通过 手机淘宝一键验证&lt;/li&gt;
-&lt;li&gt;通过 拍摄脸部+手机验证码&lt;/li&gt;
+&lt;li&gt;通过 getScope 方法获取模块 test-home 的 scope 对象&lt;/li&gt;
+&lt;li&gt;通过 scope 对象直接访问 Service 服务: &lt;code&gt;home&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;选项 2 还是要用手机淘宝扫 QR 码。&lt;/p&gt;
-&lt;p&gt;依稀记得以前还可以用手机短信验证码，现在怎么也绕不过装一个 App 了。&lt;/p&gt;
-&lt;p&gt;ㄟ( ▔, ▔ )ㄏ&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 02:04:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031533#reply0</guid></item><item><title>[问与答] Comic App 升级安卓 14 后启动特别特别慢，如何解决？</title><link>https://www.v2ex.com/t/1031532#reply0</link><description>设备是三星 Tab S8 平板，最近手欠升级了安卓 14 ，结果看漫画的 Comic 启动变得特别特别慢，大概要 3-4 分钟，反正就是很不正常。&lt;br /&gt;另外升级之后系统感觉也没有之前流畅了，不知道有没有办法降级回去，非常郁闷！&lt;br /&gt;各位有没有什么好办法，帮忙出出主意吧，谢谢！</description><pubDate>Thu, 11 Apr 2024 02:04:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031532#reply0</guid></item><item><title>[分享创造] 写了一个 AI 生成透明背景图片（PNG）网站，再也不用到处找 PNG 图片素材了</title><link>https://www.v2ex.com/t/1031531#reply0</link><description>&lt;p&gt;我是一名在设计中心工作的前端开发者。在日常工作中，发现到设计师们在寻找合适的素材上花费了大量时间，尤其是透明背景图片素材。平常也经常关注使用 AI 提高设计效率这一块的领域，自从 sd-forge-layerdiffuse 发布后，利用 AI 生成分层透明背景图片变得异常简单。&lt;/p&gt;
-&lt;p&gt;基于这一点，我开发了 &lt;a href="http://pngmakerai.com" rel="nofollow"&gt;pngmakerai.com&lt;/a&gt; 网站。用户只需输入他们想要生成的素材，AI 就能帮助他们快速生成高清的 PNG 图片。&lt;/p&gt;
-&lt;p&gt;网站地址，&lt;a href="https://pngmakerai.com/" rel="nofollow"&gt;https://pngmakerai.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://p.ipic.vip/0midl0.png" /&gt;&lt;/p&gt;
-&lt;p&gt;特在 V 站邀请大家来试用网站！对于新用户提供了 5 次免费图片生成的机会，以便大家开始使用。目前服务器配置尚属一般，如果生成速度不是特别快，请大家耐心等待。正在升级到更高配置的服务器和迭代开发中，以提升生成的速度。&lt;/p&gt;
-&lt;p&gt;为表诚意，为大家准备了额外的额度！在评论区留下你的 &lt;a href="http://pngmakerai.com" rel="nofollow"&gt;pngmakerai.com&lt;/a&gt; 网站上登录的用户名或者是邮箱的前 30 名用户，将会获得额外的图片生成额度。&lt;/p&gt;
-&lt;p&gt;期待大家的反馈！&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 02:04:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031531#reply0</guid></item><item><title>[求职] 10 年后端开发， 2 年远程，找工作（ Java 和 Python ）</title><link>https://www.v2ex.com/t/1031530#reply0</link><description>个人信息：&lt;br /&gt;1&amp;gt; 年龄：32&lt;br /&gt;2&amp;gt; 学历：统招本科&lt;br /&gt;&lt;br /&gt;技术栈：&lt;br /&gt;1&amp;gt; 10 年 Java 微服务架构、系统拆分、中间件使用有丰富的经验&lt;br /&gt;2&amp;gt; 熟练掌握 python 及其工具 pandas ，sklearn 等，能够有一定的数据处理和分析能力 &lt;br /&gt;3&amp;gt; 悉前段框架 vue,uniapp ，有一定的小程序和前段开发能&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;求职意向：&lt;br /&gt;Java 、python 架构 远程岗位&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;vx:eHljeGRtemw=</description><pubDate>Thu, 11 Apr 2024 02:03:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031530#reply0</guid></item><item><title>[程序员] 请教各位一个 Python 编译打包问题</title><link>https://www.v2ex.com/t/1031528#reply0</link><description>我现在有一个 python 程序，想编译成二进制可执行文件在 Android （ arm32 位）环境中运行，但我在 wsl 中用 pyinstaller 打包出来是 64 位的，根本跑不起来，网上也没有找到交叉编译的方法...</description><pubDate>Thu, 11 Apr 2024 01:56:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031528#reply0</guid></item><item><title>[职场话题] 24 届应届生 offer 选择，京东 or 美团，请各位帮忙分析</title><link>https://www.v2ex.com/t/1031527#reply1</link><description>&lt;p&gt;本人 24 年 6 月毕业，现在在 2 个 offer 纠结。&lt;/p&gt;
-&lt;p&gt;1 、京东零售-技术研发与数据中心，部门是做京东的 1 号会员店业务。&lt;/p&gt;
-&lt;p&gt;2 、美团到店事业群-平台技术部，到店综合部门，具体做什么进去后再分配，可能做业务，也有可能做内部工具开发。&lt;/p&gt;
-&lt;p&gt;部门都在上海，薪资月 base 一样。我了解到作息可能也差不多。&lt;/p&gt;
-&lt;p&gt;听说美团对应届生培养好一些？发展相对更好？想听听各位前辈的建议。&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:56:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031527#reply1</guid></item><item><title>[职场话题] 被裁开网约车第一天，看看程序员到底有多卷，有接单热力图为证</title><link>https://www.v2ex.com/t/1031526#reply4</link><description>注册好网约车后，可以看到接单热力图，晚上十点多躺床上玩手机的时候，突然心血来潮，想看看现在互联网公司的加班情况，截图如下。&lt;br /&gt;&lt;a href="https://i.imgur.com/a6BOAFg.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/a6BOAFg.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/jYg4IC1.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jYg4IC1.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/Xgsa1no.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Xgsa1no.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/wx1HeZm.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/wx1HeZm.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;程序员实在是太卷了，十点了这么多打车的，被裁的生活好惬意啊，虽然没收入了，但是让我每天熬夜到十点多下班，十二点才能睡觉，我是真的不想干了。&lt;br /&gt;&lt;br /&gt;怪不得 35 要被裁，35 谁还能这么熬的起啊。</description><pubDate>Thu, 11 Apr 2024 01:56:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031526#reply4</guid></item><item><title>[Apple] iOS 彩云天气 6.8 旧版本怎么用圈 X 屏蔽更新弹框</title><link>https://www.v2ex.com/t/1031525#reply0</link><description>&lt;p&gt;6.8 版本界面比较简洁，新版本太多无用的功能了。求教怎么通过重写之类的圈 X 规则，屏蔽打开的更新弹框提醒。&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:55:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031525#reply0</guid></item><item><title>[问与答] 征集一些 React 分享交流材料，格式不限， PPT (或 PDF)最好</title><link>https://www.v2ex.com/t/1031523#reply0</link><description></description><pubDate>Thu, 11 Apr 2024 01:51:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031523#reply0</guid></item><item><title>[问与答] 装机纠结症，三星 990Pro VS 英特尔 P4510，老哥们快来出出主意</title><link>https://www.v2ex.com/t/1031522#reply1</link><description>最近在组工作站。双路 E5 2690V4 256G 内存，3080 显卡都确定了。&lt;br /&gt;剩下硬盘犯难了，主机肯定是要 24 小时常年运行的，所以想上英特尔企业级 P4510 2T 。&lt;br /&gt;但又很眼馋 990Pro 的逆天速度。&lt;br /&gt;&lt;br /&gt;怎么选择好呢？或者还有什么耐用度和性能的折中方案？</description><pubDate>Thu, 11 Apr 2024 01:49:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031522#reply1</guid></item><item><title>[程序员] 被挖角跳槽，求指导去不去</title><link>https://www.v2ex.com/t/1031521#reply0</link><description>&lt;p&gt;先说一下背景：&lt;/p&gt;
-&lt;p&gt;我自己是在一家大国企下的程序员。四年前进入了这家国企，在子公司 A 工作，开发自己的产品，用的是 C#做桌面开发。A 公司主要是产品导向，团队技术氛围不错，能学到很多东西。两年后因为产品销售成绩不理想，公司资金有点困难，于是所有的研发人员都被送去了集团的另一家子公司 B （算是集团内部调动？）。子公司 B 是一家纯粹的软件公司，不自研产品而是靠接政府和企业的单子，用 React 做各种大同小异的 XX 系统，最常见的那种前端开发工作。B 公司主要是项目导向，平常基本不谈技术，谈各种业务比较多一点。最近半年 B 公司变化比较大，部门频繁调整。&lt;/p&gt;
-&lt;p&gt;然后是最近发生的事情：&lt;/p&gt;
-&lt;p&gt;A 公司的领导私下找到我说，已经大部分并入 B 公司的 A 公司决定要重启了，因为在我们离开后产品反而销量一直上升，以至于缺乏足够的技术人员进行维护和功能定制了。领导希望趁着这个机会重聚之前的开发人员，重新启动项目，然后按照之前的计划转型用 C++做面向国产操作系统的桌面软件开发。之前我在不是 A 公司不是项目的核心主力，不过前领导也只找了一部分前开发来挖角，只是我刚好是其中之一。至于薪资待遇方面，领导说第一年没法涨工资，只能维持之前的水平（相当于集团内平级调动），然后第二年开始可以有 10%的涨薪。&lt;/p&gt;
-&lt;p&gt;所以想求助一下：&lt;/p&gt;
-&lt;p&gt;这种情况有什么隐藏的坑需要注意的吗？
-对于我个人的发展来说，这种技术栈路线（ C# Windows 桌面 → React 前端 → C++ Linux 桌面）对未来的发展有没有什么好处或者坏处？其实特别担心如果以后再有找工作的情况的话，公司需要单个技术栈三五年工作经验但是我都没有的情况。是专精一项还是都试试比较好？专精一项的话用在前端上值得吗？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:46:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031521#reply0</guid></item><item><title>[V2EX] 为什么要使用金融 API?</title><link>https://www.v2ex.com/t/1031519#reply0</link><description>金融 API 为业务和个人与金融系统互动提供了广泛的好处。以下是其中一些好处：&lt;br /&gt;提高金融操作效率&lt;br /&gt;金融 API 显著提升了行业效率。它们消除了手动流程的需求，减少了操作成本和耗时任务。例如，AllTick API 支持批量请求，这意味着您可以通过一次 API 调用同时请求多个数据点或执行多个操作，有效提升数据处理效率并降低网络延时。&lt;br /&gt; (可參考: &lt;a href="https://alltick.co/" rel="nofollow noopener" target="_blank"&gt;https://alltick.co/&lt;/a&gt;)&lt;br /&gt;通过 API 驱动的应用简化客户体验&lt;br /&gt;API 使金融机构和金融科技公司能够开发出提供无缝和个性化客户体验的创新应用程序。感谢 API ，这些应用程序可以访问和利用金融数据，如交易历史、账户余额和信用评分，以提供量身定制的服务。&lt;br /&gt;在金融部门加速创新和合作&lt;br /&gt;API 使利益相关者，包括银行、金融科技初创公司和第三方开发人员，能够合作并构建现有金融基础设施之上。这种协作方式加快了创新的步伐，使得能够开发出满足不断变化的客户需求的新产品和服务。</description><pubDate>Thu, 11 Apr 2024 01:42:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031519#reply0</guid></item><item><title>[问与答] 如何看待红米 Turbo3，真香还是...</title><link>https://www.v2ex.com/t/1031517#reply2</link><description>&lt;p&gt;RT
-大家觉得这个配置 1999 的价格合理吗？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:41:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031517#reply2</guid></item><item><title>[生活] 父亲被一个女的骗了 7 万块，有什么办法要回来？</title><link>https://www.v2ex.com/t/1031515#reply4</link><description>&lt;p&gt;我爸前段时间网上认识个湖南的女的，谈的时候我就不看好，她本身就有债务，说要帮忙还掉 3 万块后就和我爸谈，我爸帮她还了以后，她来我家住了一段时间，大概一个月不到，过来帮忙带小孩，后面说是湖南那边有事情处理，就跑了，然后问我爸每个月要个 4000 块（我爸退休金每个月 6-7000 ），用来进货啥的，其实就是骗钱。给了几个月，被我发现了阻止了，和我爸协商好除非她来我们这边带孩子，否则不给她钱。这个月没给，然后就断了联系。我算了下，总共给了 7 万块，都是通过微信转账。但聊天记录因为换过手机，丢失了一部分。有没有什么办法要回来？起诉的话要怎么弄？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:38:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031515#reply4</guid></item><item><title>[程序员] 不解，为什么程序员做产品一定要出海？</title><link>https://www.v2ex.com/t/1031514#reply15</link><description>&lt;p&gt;想问一下各位大佬，为啥你们做产品总是考虑出海，是因为国内做产品会遇到各种各样的问题吗？  &lt;/p&gt;
-&lt;p&gt;我自己总结了一些，但不确定是不是只有这些，欢迎补充和探讨:  &lt;/p&gt;
-&lt;h2&gt;国内备案/纳税/收款太麻烦&lt;/h2&gt;
-&lt;p&gt;网站备案确实繁琐，但是在广东省基本全程 4 天就能搞定了。 纳税和收款，以我个人经验来说，让爸妈或者兄弟姐妹办个公司，也可以轻轻松松搞定。而且这些能确保是你的合法收入，不会被一些未知原因罚 mo...&lt;/p&gt;
-&lt;h2&gt;外国用户更慷慨，国内用户付费意愿低？&lt;/h2&gt;
-&lt;p&gt;其实这个也可能是个伪命题，国内我看到给 notebility 付费的用户也不少，99 元/199 元一次性缴纳的也很多   &lt;/p&gt;
-&lt;p&gt;难道是因为老外的 1 美元等于我们的 1 软妹币？要是这样的话，年费 99 美元和年费 99 元，那还真是不一样的   &lt;/p&gt;
-&lt;h2&gt;云服务资费国内太贵了，还是国外香&lt;/h2&gt;
-&lt;p&gt;我相信可能也有这个原因，国外 1000GB 月流量，cloudflare 免费，vercel 免费，还有好多好多云服务都免费。反观国内，cdn 要收钱，ssl 证书要定期维护，还需要担心被 d 的可能&lt;/p&gt;
-&lt;p&gt;就个人而言，我因为要考虑到国内用户的访问体验，所以不得不在国内也搭了个服务器。否则我还是会想全部放在国外，又便宜又好用&lt;/p&gt;
-&lt;h2&gt;其他一些原因&lt;/h2&gt;
-&lt;p&gt;还有一个原因，就是大佬们做的服务不太正规，至少明面上是禁止的那种。关于这个类型，那肯定不能做了&lt;/p&gt;
-&lt;p&gt;欢迎来讨论，另外请不要加一些 zz 评论，感谢&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:38:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031514#reply15</guid></item><item><title>[程序员] 有没有币安交流群？</title><link>https://www.v2ex.com/t/1031513#reply1</link><description>&lt;p&gt;有没有币安交流群？？？？？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:38:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031513#reply1</guid></item><item><title>[问与答] clashx 开启系统代理时为什么百度地图和高德地图的定位不一样</title><link>https://www.v2ex.com/t/1031511#reply6</link><description>百度地图定位到了实际位置, 但是高德定位到了代理机房的位置, 他们两个的实现方式有区别吗?</description><pubDate>Thu, 11 Apr 2024 01:28:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031511#reply6</guid></item><item><title>[问与答] 显示器屏幕刷新率问题</title><link>https://www.v2ex.com/t/1031508#reply3</link><description>显示器屏幕是支持 160 高刷的，显卡是 4060ti,一开始显示器有 160hz 刷新率的选项，现在最高只能选 100hz ，硬件什么都没有动过，是什么原因啊，显卡驱动也重新装了还是不行</description><pubDate>Thu, 11 Apr 2024 01:22:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031508#reply3</guid></item><item><title>[程序员] 学 React 两周，练手项目，做了个封面制作工具</title><link>https://www.v2ex.com/t/1031507#reply15</link><description>&lt;p&gt;无前端经验，直接上 react + nextjs + nextui + tailwindcss ，工作之余 + 周末撸了一个 封面生成工具，代码写的稀烂，拷贝+粘贴，好在 work 😄&lt;/p&gt;
-&lt;p&gt;特点就是简单，简单，简单！&lt;/p&gt;
-&lt;p&gt;可以为博客文章，微信公众号等制作封面，吸引读者&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href="https://picprose.net" rel="nofollow"&gt;https://picprose.net&lt;/a&gt;,  部署再 vercel ，国内可能慢点&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.pixpark.net/image-20240411091907445.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:20:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031507#reply15</guid></item><item><title>[职场话题] 大学毕业 9 年后被裁了，不想上班了，缺钱了拉拉网约车，感觉生活还挺惬意的。</title><link>https://www.v2ex.com/t/1031505#reply36</link><description>&lt;p&gt;毕业 9 年去过两家公司，上一家公司干了五年多，上个月月底被裁了。
-实在是不想找工作了，不想上班了，被 pua 受够了，没房没贷，但是有辆小破电车，这几天跑跑网约车，感觉还挺舒服的，跑网约车完全就是无脑开车，像是玩跑酷游戏似的，比之前上班轻松多了。&lt;/p&gt;
-&lt;p&gt;工作这么多年实在是累了，程序员这行不想干了，最近在家看电影，无聊了就去跑跑车，早晚高峰大概一小时能赚 60 多吧，生活也够了。&lt;/p&gt;
-&lt;p&gt;不想想未来了，感觉太累了，感觉这半个月是我毕业这么多年来最快乐的半个月了。&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 01:19:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031505#reply36</guid></item></channel></rss>
+&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cross-module-localbean.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Frr5Mc_GlK-OsSAIGhhdUwxG7kaq" /&gt;&lt;/p&gt;
+&lt;h2&gt;4. 跨模块访问 Config 配置&lt;/h2&gt;
+&lt;p&gt;访问模块 test-home 的 Config 配置&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
+import { ScopeModule } from '../resource/this.js';
+
+@Local()
+export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
+  async action({ user }) {
+    const scopeHome = this.getScope('test-home');
++   const prompt = scopeHome.config.prompt;
+    return scopeHome.local.home.action({ user });
+    // return user;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;直接通过 scopeHome 取得 config 中的 prompt 属性值&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cross-module-config.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fn1tOba4wR1nm5Xu0LYbYFU1u--o" /&gt;&lt;/p&gt;
+&lt;h2&gt;5. 跨模块访问国际化语言资源&lt;/h2&gt;
+&lt;p&gt;访问模块 test-home 的国际化语言资源&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
+import { ScopeModule } from '../resource/this.js';
+
+@Local()
+export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
+  async action({ user }) {
+    const scopeHome = this.getScope('test-home');
++   const message = scopeHome.locale.HelloWorld();
++   const message1 = scopeHome.locale.HelloWorld.locale('en-us');
++   const message2 = scopeHome.locale.HelloWorld.locale('zh-cn');
+    return scopeHome.local.home.action({ user });
+    // return user;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cross-module-locale-small.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fuk-gabndPHqozL3TTfmkxbqcQY9" /&gt;&lt;/p&gt;
+&lt;h2&gt;6. 跨模块访问 Error 错误异常&lt;/h2&gt;
+&lt;p&gt;抛出模块 test-home 提供的 Error 错误异常&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
+import { ScopeModule } from '../resource/this.js';
+
+@Local()
+export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
+  async action({ user }) {
+    const scopeHome = this.getScope('test-home');
++   scopeHome.error.Error001.throw();
+    return scopeHome.local.home.action({ user });
+    // return user;
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;直接通过 scopeHome 抛出错误异常 Error001&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="cross-module-error.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fu560TRgVDvfS-TZqiES6XNwCrw7" /&gt;&lt;/p&gt;
+&lt;h2&gt;后记&lt;/h2&gt;
+&lt;p&gt;CabloyJS 采用 ioc 和依赖查找的机制，让 ts 的使用达到了&lt;code&gt;化类型于无形&lt;/code&gt;的最佳境界，从而让我们的代码保持优雅和简洁，进而也能显著提升开发效率，保证代码质量&lt;/p&gt;
+&lt;p&gt;欲了解更多，请关注每晚 8 点 B 站直播：&lt;a href="https://space.bilibili.com/454737998" rel="nofollow"&gt;濮水代码&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031575#reply0</guid></item><item><title>[浏览器] 2024 年还有必要兼容 IE 浏览器吗？</title><link>https://www.v2ex.com/t/1031573#reply3</link><description>&lt;p&gt;最近打算开发一款 CMS ，纠结使用 bootstrap 版本，我看同类型的 cms 后台很多还在使用 bootstrap3.x 版本，纠结中。&lt;/p&gt;
+&lt;p&gt;后台到无所谓，提醒用 edge 或 chrome 浏览器就行。但是前端还是有点担心，有没有比较新的 IE 占比数据，现在还有必要去兼容 IE 吗？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:17:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031573#reply3</guid></item><item><title>[问与答] 咸鱼话费慢充有人试过没？</title><link>https://www.v2ex.com/t/1031572#reply8</link><description>我看有 240 冲 300 ，还有 650 冲 1000 的，这好家伙，这种洗黑钱的慢充靠谱不？会不会被运营商封号了啊</description><pubDate>Thu, 11 Apr 2024 03:17:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031572#reply8</guid></item><item><title>[问与答] 每个月 200GB 海外流量，看看 3 美金/月值不值得薅？</title><link>https://www.v2ex.com/t/1031570#reply1</link><description>&lt;p&gt;最近看到阿里云国际降价，看到网络升级免费额度了，申请海外主机可以免费 200GB 每个月，是不是够科学上网了？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.alibabacloud.com/zh/campaign/ecs-2024promotion-1" rel="nofollow"&gt;https://www.alibabacloud.com/zh/campaign/ecs-2024promotion-1&lt;/a&gt; ，在 t6 里找到菲律宾，人工改到 2C 0.5G 的看起来应该是最便宜的了（活动页面没显示，但依然可以改配置）&lt;/p&gt;
+&lt;p&gt;不过目前看是流量部分免费，服务器还是要花钱，大概需要 4.4 美金一个月，包年便宜一些 45 美金（ 3.7 美金/月），看看值不？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:14:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031570#reply1</guid></item><item><title>[问与答] Sublime 有没有只允许运行一个窗口的单例模式啊？</title><link>https://www.v2ex.com/t/1031569#reply0</link><description>&lt;p&gt;Sublime 有没有只允许运行一个窗口的单例模式啊？&lt;/p&gt;
+&lt;p&gt;每次运行程序都是新开一个窗口，要是能运行时检查下是否有运行的窗口，有的话就获取焦点，没有的话才新建窗口就好了。&lt;/p&gt;
+&lt;p&gt;题外话，Sublime 启动真的好快啊，和 notepad++旗鼓相当，作为轻量级编辑器太好用了&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:14:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031569#reply0</guid></item><item><title>[Windows] wsl2 的 mirrored 网络模式下，在里面监听一个端口，同局域网同网段下的设备可以 telnet，不同网段的设备不行。</title><link>https://www.v2ex.com/t/1031567#reply0</link><description>&lt;p&gt;在 wsl2 中监听 6400 端口，然后从不同的网段的设备上 telnet 这个端口。
+例如我设备的 ip 是 192.168.1.123 ，然后从 192.168.1.x 的设备上可以 telnet 192.168.1.123 6400 成功。在 192.168.2.x 等所有的非 192.168.1.x 的设备上都不能 telnet 成功。但是如果我在 windows 上面监听 6400 端口则所有网段的设备都可以 telnet 成功。
+有人遇到过类似的问题么？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031567#reply0</guid></item><item><title>[AirPods] 关于 AAC 与 AirPods 传输的问题</title><link>https://www.v2ex.com/t/1031566#reply3</link><description>&lt;p&gt;我一直搞不太明白苹果的 AirPods 是具体如何传输数据播放声音的。&lt;/p&gt;
+&lt;p&gt;流程 1:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;MacBook 播放 mp3 -&amp;gt; 播放器解码 MP3 成波形 -&amp;gt; 系统把波形编码成 AAC -&amp;gt; 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在我的理解里，这个流程 1 应该是对的。&lt;/p&gt;
+&lt;p&gt;流程 2:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;MacBook 播放 256kbps 的 AAC -&amp;gt; 系统直接把这个 AAC 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;流程 3:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;MacBook 播放 256kbps 的 AAC -&amp;gt; 播放器解码 AAC 成波形 -&amp;gt; 系统把波形编码成 AAC -&amp;gt; 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;问题是流程 2 和流程 3 ，究竟哪个是正确的呢？还是说关键是取决于播放的软件？&lt;/p&gt;
+&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:09:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031566#reply3</guid></item><item><title>[VPS] 有性价比高的 vps 虚拟机推荐吗 大佬们</title><link>https://www.v2ex.com/t/1031565#reply1</link><description>&lt;p&gt;有性价比高的 vps 虚拟机推荐吗  大佬们
+想部署个网站&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:08:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031565#reply1</guid></item><item><title>[问与答] telegram web 端为什么能做得如此丝滑？是我见过的最流畅的 web app 了</title><link>https://www.v2ex.com/t/1031564#reply0</link><description>&lt;a href="https://web.telegram.org/k/" rel="nofollow noopener" target="_blank"&gt;https://web.telegram.org/k/&lt;/a&gt;&lt;br /&gt;想知道用的什么技术栈，有什么黑科技</description><pubDate>Thu, 11 Apr 2024 03:08:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031564#reply0</guid></item><item><title>[问与答] 虚拟数字人是用什么做的？目前哪个最强？</title><link>https://www.v2ex.com/t/1031563#reply1</link><description></description><pubDate>Thu, 11 Apr 2024 03:07:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031563#reply1</guid></item><item><title>[生活] 请教各位老哥，刚工作不久，需要一辆代步车。希望油耗低、座位舒适。落地价 10w。有什么什么推荐呢</title><link>https://www.v2ex.com/t/1031562#reply12</link><description></description><pubDate>Thu, 11 Apr 2024 03:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031562#reply12</guid></item><item><title>[推广] Comate 编码助手上线百度飞桨 AI Studio 星河社区</title><link>https://www.v2ex.com/t/1031561#reply0</link><description>Comate 作为一个智能编码助手，在线上编码环境中也可以使用啦～&lt;br /&gt;您可以在百度飞桨的社区内使用在线编码能力 iCoding ，Comate 作为一个插件已经在线上 ide 中内置好等着你差遣哦～&lt;br /&gt;&lt;br /&gt;什么是 Comate ？&lt;br /&gt;为了帮助大家高效提升编码效率，释放“十倍”软件生产力。Comate 是百度基于文心大模型，提供代码智能生成、研发智能问答能力的编码助手。&lt;br /&gt;&lt;br /&gt;Comate 能帮我干嘛？&lt;br /&gt;智能编码：生成、解释等模型/应用开发场景&lt;br /&gt;智能问答：代码开发有问必答&lt;br /&gt;多语言开发：覆盖 Python 、Java 、C++等主流语言&lt;br /&gt;&lt;br /&gt;什么是百度飞桨 AI Studio 星河社区？&lt;br /&gt;百度飞桨 AI Studio 星河社区是基于飞桨和文心大模型的 AI 学习与实训社区，为开发者提供 GPU 算力、模型库、数据集、工具套件、实训项目、社区交流等全方位服务。&lt;br /&gt;&lt;br /&gt;Comate 在百度飞桨 AI Studio 星河社区的亮点：&lt;br /&gt;支持在线编码环境，无需额外安装插件，适配专业开发 IDE&lt;br /&gt;在 Comate 里可以直接调用飞桨官方插件，插件内置业务官方文档，通过它，您可以生成更加准确的相关代码，也可以直接进行提问，它会解答你所有特定业务相关的疑惑&lt;br /&gt;&lt;br /&gt;来看看如何使用吧：&lt;br /&gt;1. [创建 Notebook 项目] 进入 AI Studio[项目大厅]或[我的项目]点击[创建项目]  &lt;br /&gt;&lt;a href="https://aistudio.baidu.com/projectoverview" rel="nofollow noopener" target="_blank"&gt;https://aistudio.baidu.com/projectoverview&lt;/a&gt;&lt;br /&gt;2. [切换至 iCoding ] 启动项目 BML CodeLab 环境，点击右上角浮窗，切换至 iCoding&lt;br /&gt;3. [使用 Comate 智能编程] 在 iCoding 中，您可以使用 Comate 编码助手进行智能编程，体验代码生成、代码解释等能力&lt;br /&gt;4. [唤起 Comate 智能问答] 您可以在侧边栏中唤起 Comate 编码助手进行智能问答，它可以帮您回答技术问题，或是让它智能生成代码内容。您还可以一键 @调用更多官方插件，通过它，您可以生成更加准确的相关代码，也可以直接进行提问，它会解答您所有特定业务相关的疑惑。&lt;br /&gt;&lt;br /&gt; [实战项目征集] 使用 Comate 快速完成模型应用开发&lt;br /&gt;完成项目并发布后，可将项目投递为精品项目，内容经过平台审核后将在项目大厅首页进行加精置顶，同时送上创作者相应礼品，希望您的项目能被更多人看到、使用。&lt;br /&gt;&lt;br /&gt;如在使用中遇到问题，欢迎关注 Comate 微信公众号向我们反馈，快来试试吧～&lt;br /&gt;&lt;br /&gt;邀请好友送好礼！&lt;br /&gt;每成功邀请一位新人安装插件使用，您将获得 10 元京东卡！官网登陆后，右上方头像点击进入「积分商城」-「邀请好友获积分」，获取您的专属邀请链接~&lt;br /&gt;&lt;br /&gt;进入官网，开启智能编码新体验： &lt;a href="https://comate.baidu.com/" rel="nofollow noopener" target="_blank"&gt;https://comate.baidu.com/&lt;/a&gt;</description><pubDate>Thu, 11 Apr 2024 03:02:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031561#reply0</guid></item></channel></rss>
