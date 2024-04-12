@@ -1,372 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 11 Apr 2024 03:41:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Python] 计算机视觉模型，需求是对比两张图片的相似度，求指点或者有大佬愿意尝试一下，可有偿</title><link>https://www.v2ex.com/t/1031584#reply1</link><description>&lt;p&gt;本人对这块一窍不通，目前借着 GPT 根据颜色和人体姿态求的相似度，东拼西凑的做出来了，只能说差强人意，堪堪能用，领导希望一个模型解决问题，并且随着训练的材料越多，模型越准确&lt;/p&gt;
-&lt;p&gt;基于需求，标照片和客片这两张图，即使是按照人眼评判标准相似度足够的，也可能在整体饱和度，亮度，色调，人体姿态，背景颜色等有差异&lt;/p&gt;
-&lt;p&gt;而需要评判的图片，背景，物体和人物姿态，衣服都会有变化&lt;/p&gt;
-&lt;p&gt;如果有直接能用的开源项目，或者不需要太多相关知识就能达成的学习路线，希望有大佬指点一二&lt;/p&gt;
-&lt;p&gt;或者有大佬愿意尝试，可以谈一下报酬看看我们领导是否能接受&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:39:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031584#reply1</guid></item><item><title>[PlayStation 5] ps5（笔记本）电感啸叫怎么解决，你们的 ps5 有吗，有解决方案吗？</title><link>https://www.v2ex.com/t/1031583#reply0</link><description>&lt;p&gt;最近给 ps5 （港版）换了个位置（房间），发现使用的时候一直有滋滋的的声音，特别是开游戏时候（游戏功率大？），已经确认不是风扇声音。想问这种情况普遍吗？有 v 友成功解决了吗？还是只能忍受。
-另外笔记本确实也有同样问题，应该是房间的电源可能有点问题，不知道怎么处理，淘宝买了滤波器打算试一下看看。&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:38:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031583#reply0</guid></item><item><title>[求职] Base 南京-自考本学历-8 年经验- Java -求职</title><link>https://www.v2ex.com/t/1031582#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;熟悉 Java 语言和主流 Java 后端技术，熟练掌握 Java 新特性、熟练掌握 SpringCloud （ Nacos+GateW ay+OpenFeign+SkyWalking+Sentinel ）、SpringBoot 等微服务框架，熟悉 MybatisPlus 等 ORM 框架、MySQL 常见调优，熟练使用 Redis ，Kafka ，了解 K8S 、Docker 、Jenkins 等技术，熟练使用 Git ，熟悉 Linux 常用命令、熟悉项目部署。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;熟悉 JavaScript 、HTML 、CSS 、JQuery 等前端技术&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;熟练使用 Jira 、禅道、Confluence 等协同软件，了解敏捷开发、参与公司敏捷开发流程规范制定。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;带过 14 人团队。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;联系方式 VX:a2VuYW4yMDE2MDY=&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:38:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031582#reply0</guid></item><item><title>[问与答] android 代替 nas 转码</title><link>https://www.v2ex.com/t/1031580#reply0</link><description>&lt;p&gt;我自建的 nas 没显卡， 没办法转码，有一台 Nvidia shield ，能设置 Android 作为转码服务器吗，jellyfin/emby/plex 都行&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:31:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031580#reply0</guid></item><item><title>[分享发现] 小米光速自己打脸，互联网乐子这么快速的么</title><link>https://www.v2ex.com/t/1031579#reply0</link><description>智己发布会把小米 su7 的参数标错了一个。&lt;br /&gt;&lt;a href="https://www.zhihu.com/question/652381310/answer/3460250050" rel="nofollow noopener" target="_blank"&gt;https://www.zhihu.com/question/652381310/answer/3460250050&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;小米公司发言人还表示：“我们不接受个人轻描淡写的非正式的道歉。我们再次敦促智己公司，立即公开澄清，并向被其误导的公众正式道歉！”。&lt;br /&gt;&lt;br /&gt;小米连发 3 条微博一正言辞要智己各种道歉，4 月 9 日凌晨，智己汽车发布致歉函。&lt;br /&gt;&lt;br /&gt;------&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;2 天后，在 10 日的红米新品 Turbo 3 的发布会上，小米将荣耀 100 Pro 参数标注错误，荣耀 100 Pro 搭载的是第二代高通骁龙 8 移动平台，而 Redmi 发布后的 PPT 则显示该机搭载第三代骁龙 7 移动平台。有网友称应该让小米方面道歉三次。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.zhihu.com/question/652523406" rel="nofollow noopener" target="_blank"&gt;https://www.zhihu.com/question/652523406&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;笑死了</description><pubDate>Thu, 11 Apr 2024 03:30:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031579#reply0</guid></item><item><title>[程序员] 使用 git diff 命令实现根目录文档的更新的时候自动更新子文档 😯😯😯</title><link>https://www.v2ex.com/t/1031578#reply0</link><description>&lt;p&gt;在开始之前，首先描述一下我们目前遇到的场景，目前我们正在开发一个 &lt;a href="https://github.com/xun082/create-neat" rel="nofollow"&gt;前端脚手架&lt;/a&gt; 开源项目，当前项目使用 Truborepo+PNPM 开发的一个 Monorepo 项目，在根目录中，我们有一个文档，然后 packages 目录下有些子包的文档应该是和根目录下的包是一样的。&lt;/p&gt;
-&lt;p&gt;因为我们的包是发布到 NPM 上的，并且是 GitHub 上开源的，所以根目录上的 &lt;a href="http://README.me" rel="nofollow"&gt;README.me&lt;/a&gt; 应该是在 GItHub 上一打开项目的时候就能查看的，而 packages 目录下的子包文档应该是当在 NPM 网站上打开的时候就能看到的。&lt;/p&gt;
-&lt;p&gt;如下图所示 GitHub:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411073036" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411073036.png" /&gt;&lt;/p&gt;
-&lt;p&gt;而在 NPM 上也是这样的：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411073140" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411073140.png" /&gt;&lt;/p&gt;
-&lt;p&gt;那么接下来我们的任务是当我们根目录下的 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; 发生变动的时候，我们 packages 目录下的固定子包应该也会发生改变。&lt;/p&gt;
-&lt;h1&gt;git diff&lt;/h1&gt;
-&lt;p&gt;在开始之前，我们先来学习一下 git diff 这个命令。&lt;/p&gt;
-&lt;p&gt;git diff 是 Git 版本控制系统中一个非常有用的命令，用于显示文件之间的差异、差异补丁和进行代码审查。这个命令可以用来比较文件的变化，检查工作目录中未暂存的改动，以及比较已暂存的改动和最近的提交等。&lt;/p&gt;
-&lt;p&gt;查看未暂存的更改：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;git diff
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个命令将会显示自从上次 git add 之后，工作目录中有哪些更改尚未暂存。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411075324" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075324.png" /&gt;&lt;/p&gt;
-&lt;p&gt;查看已暂存的更改：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;git diff --cached
-# 或者使用另外一个写法
-git diff --staged
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img alt="20240411075655" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075655.png" /&gt;&lt;/p&gt;
-&lt;p&gt;这个时候我们可以看得出，使用 &lt;code&gt;git diff --cached&lt;/code&gt; 命令是我们还不能查找得出文件内容是否有发生变更的，这个前提是需要他把文件添加到暂存区，也就是执行 &lt;code&gt;git add&lt;/code&gt;，如下所示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411075837" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411075837.png" /&gt;&lt;/p&gt;
-&lt;p&gt;除此之外，我们还可以查看到具体哪个文件发生了变化，使用的命令是 &lt;code&gt;git diff --cached &amp;lt;具体文件路径&amp;gt;&lt;/code&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411080029" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411080029.png" /&gt;&lt;/p&gt;
-&lt;p&gt;生成补丁文件，这个在我们前面的文章内容中就已经有讲解过了：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;git diff &amp;gt; changes.patch
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这个时候我们已经知道了怎么查找文件的变更了，那么我们应该如何来实现这个 git diff 命令呢，以及在哪里实现呢？&lt;/p&gt;
-&lt;h1&gt;配合 husky 来实现文档自动更新&lt;/h1&gt;
-&lt;p&gt;Husky 是一个流行的工具，用于在 Git 钩子中自动化 JavaScript 和其他语言的项目的代码质量检查、测试以及在提交前自动修正问题。它使得配置和使用 Git 钩子变得简单便捷，如 pre-commit 或 pre-push 钩子，从而可以在代码提交到版本控制系统之前执行代码检查和格式化任务，确保代码库的整洁和一致性。&lt;/p&gt;
-&lt;p&gt;要想实现我们的需求，首先我们可以在 pre-commit 钩子中通过 git diff 来查找出文件的变更或者然后根据这个文件变更的内容编写一个脚本自动复制到某个具体的文件。&lt;/p&gt;
-&lt;p&gt;首先我们在 husky 的 pre-commit 中添加如下代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-diff"&gt;#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 12 Apr 2024 14:52:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 无线 mesh 下小米智能插座 3 无法连接 wifi</title><link>https://www.v2ex.com/t/1032088#reply0</link><description>&lt;p&gt;最近在房间里面加了个路由器做无线 mesh ，因为走不了有线，同时房间里 wifi 信号衰减比较厉害，主要为了提升房间内的内网速度。现在速度是上去了，但不知道为啥小米智能插座突然连不上网。表现是一直闪灯，米家里面显示离线。拿到主路由边上或者关掉 mesh 路由后都能正常联网，但开启无线 mesh 就不行了。&lt;/p&gt;
+&lt;p&gt;mesh 路由器和智能插座的距离在一米左右，主路由是 ax5400 ，mesh 路由是 ax6000 ，走的 5G mesh 回程。2.4G 下频段 40/20 ，加密方式 WPA/WPA2 ，无线信道自动（ 11 ）。感觉都没有问题，房间里也有其他米家 iot 设备，能正常联网。&lt;/p&gt;
+&lt;p&gt;就很奇怪为什么只有米家智能插座 3 连不上网，重置过了好几次，有没有人遇到过这种问题&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 14:47:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032088#reply0</guid></item><item><title>[问与答] 这种邮件是怎么藏字的</title><link>https://www.v2ex.com/t/1032087#reply0</link><description>&lt;p&gt;&lt;a href="https://imgur.com/hyrHVcV" rel="nofollow"&gt;https://imgur.com/hyrHVcV&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;gmail 的预览有 You've been selected for the Raycast AI Beta!的文字，点进去就没有了。看原始邮件能看到:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;--255c70b28efc7a88e35fe7b5bb9d0d3c2f40421783b133f88b6f5fa4f155
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
 
-echo 'running pre-commit checks ...'
-
-npx lint-staged -q
-
-+ npx ts-node --transpile-only ./scripts/check-readme-change.ts
-
-echo -e 'pre-commit success!\n'
+You've been selected for the Raycast AI Beta!
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 12 Apr 2024 14:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032087#reply0</guid></item><item><title>[电动汽车] 蔚来的销售压根不懂蔚来的优势在哪里</title><link>https://www.v2ex.com/t/1032086#reply1</link><description>&lt;p&gt;刷到的视频&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bilibili.com/video/BV1JF4m1T7xB/" rel="nofollow"&gt;https://www.bilibili.com/video/BV1JF4m1T7xB/&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;我说雷军很厉害，很多 v 友不以为然 &lt;a href="https://www.v2ex.com/t/1028482" rel="nofollow"&gt;/t/1028482&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 14:32:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032086#reply1</guid></item><item><title>[分享创造] 霓虹翻译 Neonlingo-帮助你自己学会阅读外文网页的一款划词翻译插件</title><link>https://www.v2ex.com/t/1032083#reply1</link><description>&lt;p&gt;大家好，我是 Manta (94 年河南女生，也是一名产品经理) ，22 年开始创业接触到了大量的海外业务。（但我的英语好菜好辣鸡）&lt;br /&gt;为了解决我的英语垃圾但要天天浏览外网且以后还要经常浏览外网的窘境！我做了这款划词翻译插件！！（很感激各位大佬的吐槽也好体验也好！我一定会认真对待！（认真脸））&lt;br /&gt;
+&lt;strong&gt;霓虹翻译 Neonlingo-帮助你自己学会阅读外文网页的一款划词翻译插件&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;体验&amp;amp;吐槽网址&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.neonlingo.com" rel="nofollow"&gt;https://www.neonlingo.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;我不完美&lt;/h3&gt;
+&lt;p&gt;我虽然是一款功能简单的划词翻译插件，但我可以帮助用户慢慢地学会自己阅读外文网站。&lt;br /&gt;
+我们将会在将来上线：接入 GTP 翻译接口、单词本、PDF 翻译等功能。&lt;/p&gt;
+&lt;h3&gt;诞生 tips&lt;/h3&gt;
+&lt;p&gt;我的诞生是因为工作中经常要浏览外文网站，通常我是使用整页翻译/划词翻译来浏览外文网站，有一天公司有个很厉害的同事（他可以不用翻译浏览外文网站），和我说：这样整页翻译永远学不会自己阅读外文网哦。&lt;br /&gt;
+在使用划词翻译的时候，我发现我经常翻译过一个词以后一会又忘记它的意思了。&lt;br /&gt;
+于是，霓虹翻译诞生了。&lt;/p&gt;
+&lt;h3&gt;我有使命&lt;/h3&gt;
+&lt;p&gt;我们做出了让自己满意的学习型翻译插件，并想把它分享给无穷的远方。&lt;br /&gt;
+我会在网页标记您翻译过的词汇；在您忘记的时候只需要鼠标 hover 在词汇上，即可重现释义；&lt;br /&gt;
+我接入了我觉得翻译最准确的 deepl 接口，就是希望它也可以帮助您一次性翻译到位。&lt;br /&gt;
+我们想了很多方法可以更快的管理标记的单词，希望可以节省您的一分一秒。&lt;br /&gt;
+外语隔阂让我们的学习/工作效率变低，我想帮助更多人打破隔阂。&lt;/p&gt;
+&lt;h3&gt;授人以渔&lt;/h3&gt;
+&lt;p&gt;如果说传统翻译是「鱼」，霓虹翻译更像「授人以渔」。&lt;br /&gt;
+整页翻译、沉浸式翻译确实方便，但相信我！使用霓虹翻译一段时间后，你的外文网站阅读能力会突飞猛进。&lt;/p&gt;
+&lt;h3&gt;用户的声音&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;小吴&lt;/strong&gt;（程序员）个人习惯 ，为了偷懒，直接用了微信一键翻译，看完中文之后，发现翻译的内容完全变了味，然后我又还原到英文，再次阅读了一遍，发现和中文完全对不上。 事后想了一下 ，困惑我的可能就是几个单词。我英文虽然烂 但是一些英文技术文档 就是个别词汇不懂，如果用这个插件一段时间 ，确实帮助会更大。&lt;br /&gt;
+&lt;strong&gt;江大侠&lt;/strong&gt; 我是一个市场营销专业人士，经常需要研究国际趋势。有了霓虹翻译，我可以轻松地翻译和学习新的单词，从而在不中断研究过程的情况下，高效地浏览网页并丰富我的词汇量。&lt;br /&gt;
+&lt;strong&gt;Michael&lt;/strong&gt; 最近在学语言，通过在网上阅读我最喜欢的外国小说时翻译不熟悉的单词，来增强我的英语技能。霓虹翻译的自动高亮的功能有助于增强我的学习效果。&lt;br /&gt;
+&lt;strong&gt;匿名&lt;/strong&gt; 非常棒的软件，功能非常简洁，并且真的解决了我以往翻译完单词就忘的痛点，现在我只使用霓虹翻译。&lt;br /&gt;
+&lt;strong&gt;大海&lt;/strong&gt; 我是一名研究分析员，霓虹翻译节省了很多我在分析过程中的时间。悬停即时翻译的功能提高了我的阅读速度，而自动保存的单词便于我在工作过程中轻松查阅。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 14:21:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032083#reply1</guid></item><item><title>[问与答] 帮忙推荐个手机， 1TB</title><link>https://www.v2ex.com/t/1032082#reply6</link><description>目前用的 iPhoneXs ，256G 内存，自己不玩游戏，除了内存不够，别的都可以够自己正常使用，不过不想删那些视频。准备骑摩托去西藏，本来一直想买 iPhone14Pro 的，结果没看清，原来是资源机，也不太懂。看了华为 mate60+，1TB ，9000 出头。给自己整无语了，预算 8500 ，求推荐，谢谢。</description><pubDate>Fri, 12 Apr 2024 14:21:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032082#reply6</guid></item><item><title>[程序员] 使用 Docker 容器运行源神开源的 Grok-1 🤔</title><link>https://www.v2ex.com/t/1032081#reply1</link><description>&lt;p&gt;最近工作中让我尝试跑一跑马斯克开源的 Grok-1 ，正好自己业务时间也在看这个，但是跑的过程中大部分都是依赖、环境相关的问题，而且在 Github 的 issue/discussions 里都没找到怎么用 Docker 运行或者提供一个基础环境的镜像。&lt;/p&gt;
+&lt;p&gt;所以我打算献丑一下，给大家提供一个镜像，在我们的环境里是可以正常运行的，但是一批服务器都大差不差，所以在别的环境运行起来可能有错误，大家有空测试的话，欢迎来讨论讨论。&lt;/p&gt;
+&lt;p&gt;下面就是 README 的内容了，如果对你有帮助，请点一个 Star⭐（最近打算看看新的工作机会，Star 多一点面试就能吹牛逼了😄)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1&gt;概述&lt;/h1&gt;
+&lt;p&gt;最近源神开源了 Grok-1 大模型，想着跑起来看看是什么样子。Grok 的 GitHub 里写的非常清楚了，首先 clone 代码，然后下载模型（大概
+300 个 G ），然后执行：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;pip install -r requirements.txt
+python run.py
 &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;听起来很简单，就像把大象塞进冰箱需要几步一样。但是实际上模型要依赖
+jax 、jaxlib ，这俩对环境要求还是比较苛刻的，所以尝试在服务器上运行了一下，各种报错，无奈只能使用容器一个个环境的尝试，最后成功构建出一个可以运行的镜像（下面会展示宿主机和容器的环境）。这个镜像是适用于我们的环境的，在别的环境下不知道能否正常运行，所以欢迎你使用后给出一点反馈。&lt;/p&gt;
+&lt;h1&gt;我做了什么&lt;/h1&gt;
+&lt;p&gt;首先模型文件非常大，不适合每次都 &lt;code&gt;docker cp&lt;/code&gt; 进基础环境的容器中，而且如果这个容器经过调试后可用，那么 commit
+时也会把模型顺带着保存，那么这个镜像的体积可就太大了。所以模型文件，使用 -v 挂载进容器的 &lt;code&gt;/root&lt;/code&gt; 下。&lt;/p&gt;
+&lt;p&gt;而代码比较小，大概
+900MB ，调试中免不了要修改一些代码，并且这些是希望调试好后直接保存进容器的，所以我将程序代码通过 &lt;code&gt;docker cp&lt;/code&gt;
+复制到了容器里，并且提交的镜像里也有，方便你直接使用。&lt;/p&gt;
+&lt;p&gt;然后就是安装各种环境，遇到一个报错解决一个。&lt;/p&gt;
+&lt;h1&gt;GitHub&lt;/h1&gt;
+&lt;p&gt;项目地址： &lt;a href="https://github.com/mayooot/grok-docker" rel="nofollow"&gt;https://github.com/mayooot/grok-docker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎 ✨&lt;/p&gt;
+&lt;h1&gt;快速启动&lt;/h1&gt;
+&lt;p&gt;首先拉取镜像，大概 8 个 G 。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;docker pull mayooot/grok-docker:v1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后要将下载的模型文件 &lt;code&gt;ckpt-0&lt;/code&gt;
+目录挂载进容器，下载教程可以参考这篇文章：&lt;a href="https://www.yuque.com/jasonxue/fi82qm/ziblwg0wo3eoid02?singleDoc#KBvnw" rel="nofollow"&gt;Grok-1 本地部署过程&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;最后启动容器。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;需要提前执行 pnpm add ts-node -Dw&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意要将 $your-dir/ckpt-0 替换成你的实际模型地址。&lt;/li&gt;
+&lt;li&gt;共享内存设置为了 600g ，应该是够用的，如果不够，请自行调整。&lt;/li&gt;
+&lt;li&gt;要跑起来模型大概需要 8 张 A800/A100 。所以这里使用 --gpus all 将所有 gpu 挂载进去。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;然后我们要在根目录下的 scripts 目录下添加 check-readme-change.ts 文件并编写如下代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;const { execSync } = require("child_process");
-const fs = require("fs");
-const path = require("path");
-
-const fileToCheck = "README.md"; // 需要检查的文件
-const destinationFiles = ["packages/core/README.md"];
-
-try {
-  // 执行 git diff 命令以检查是否有文件更改
-  const result = execSync(`git diff --cached --name-only`).toString();
-
-  // 检查目标文件是否在更改列表中
-  if (result.split("\n").includes(fileToCheck)) {
-    // 如果文件有更改，读取文件内容
-    const data = fs.readFileSync(fileToCheck, "utf8");
-
-    // 将内容复制到所有目标文件
-    destinationFiles.forEach((filePath) =&amp;gt; {
-      const targetPath = path.join(process.cwd(), filePath);
-      fs.writeFileSync(targetPath, data);
-
-      console.log(`Copied updated ${fileToCheck} to ${targetPath}`);
-    });
-
-    // 提交文件更改
-    execSync("git add .");
-    execSync("git commit --no-verify --allow-empty-message");
-  }
-} catch (error) {
-  console.error("Error executing git diff:", error);
-  process.exit(1); // 有错误发生时退出脚本
-}
+&lt;pre&gt;&lt;code class="language-shell"&gt;docker run -d -it \
+--network=host \
+--shm-size 600g \
+--name=grok-docker \
+--gpus all \
+-v $your-dir/ckpt-0:/root/ckpt-0 \
+mayooot/grok-docker:v1
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在上面的代码中就是查找出 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; 文件有没有发生改变，如果没有发生改变的直接跳过，如果改变了则将文件复制到固定目录下并使用 &lt;code&gt;git add .&lt;/code&gt; 将所有修改过的文件添加到 Git 暂存区。用 &lt;code&gt;git commit --no-verify --allow-empty-message&lt;/code&gt; 提交更改到本地仓库。&lt;/p&gt;
-&lt;p&gt;如下图所示，我们的文件发生了如下变化：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411101718" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411101718.png" /&gt;&lt;/p&gt;
-&lt;p&gt;当我们执行完成 git commit 的时候，packages 目录下固定包的 README 文件被我们正确的修改了：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="20240411101916" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/xun082/md/main/blogs.images20240411101916.png" /&gt;&lt;/p&gt;
-&lt;p&gt;到这里，我们就完成了我们的文档自动同步的需求了。&lt;/p&gt;
-&lt;h1&gt;总结&lt;/h1&gt;
-&lt;p&gt;在这篇文章中我们只要使用 git diff 在 Git 提交流程中自动检测和处理特定文件的更改，确保所有相关的部分都保持最新，并自动完成这些更改的提交。这种自动化有助于保持项目的不同部分同步，特别是在大型项目中，当某个核心文件（如 &lt;a href="http://README.md" rel="nofollow"&gt;README.md&lt;/a&gt; ）更新时，需要同步更新到多个位置。&lt;/p&gt;
-&lt;p&gt;最后分享两个我的两个开源项目,它们分别是:&lt;/p&gt;
+&lt;h1&gt;训练&lt;/h1&gt;
+&lt;p&gt;程序代码已经存在于容器中，并且修改了模型的加载路径，所以只要你正确的把 &lt;code&gt;ckpt-0&lt;/code&gt; 挂载进容器，那么直接执行下面代码，然后等待结果。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;docker exec -it grok-docker bash
+cd /root/grok-1/
+python run.py
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;运行结果：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="result" class="embedded_image" rel="noreferrer" src="https://github.com/mayooot/grok-docker/raw/main/result.png" /&gt;&lt;/p&gt;
+&lt;h1&gt;环境&lt;/h1&gt;
+&lt;h2&gt;宿主机环境&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/xun082/create-neat" rel="nofollow"&gt;前端脚手架 create-neat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/xun082/online-edit" rel="nofollow"&gt;在线代码协同编辑器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;OS: Ubuntu 20.04.4&lt;/li&gt;
+&lt;li&gt;Physical Storage: 1TB&lt;/li&gt;
+&lt;li&gt;Physical Memory: 2TB&lt;/li&gt;
+&lt;li&gt;GPU: 8 * NVIDIA A100 80GB&lt;/li&gt;
+&lt;li&gt;Docker: 24.0.5&lt;/li&gt;
+&lt;li&gt;Nvidia Driver: 525.85.12&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;这两个项目都会一直维护的，如果你想参与或者交流学习，可以加我微信 yunmz777 如果你也喜欢,欢迎 star 🚗🚗🚗&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:26:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031578#reply0</guid></item><item><title>[宽带症候群] 成都移动企宽开始封未备案域名 SNI 了</title><link>https://www.v2ex.com/t/1031577#reply5</link><description>&lt;p&gt;今天早上起来发现公司 AnyConnect VPN 连不上了，到公司一看发现 LE 签发 SSL 证书没过期。&lt;/p&gt;
-&lt;p&gt;于是在另一条线路上抓包连接测试了一下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;11:17:40.133546 IP client.32834 &amp;gt; anyconnect.23333: Flags [S], seq 2506707736, win 64240, options [mss 1460,sackOK,TS val 1070019589 ecr 0,nop,wscale 7], length 0
-11:17:40.149812 IP anyconnect.23333 &amp;gt; client.32834: Flags [S.], seq 3447629566, ack 2506707737, win 65160, options [mss 1460,sackOK,TS val 1648754051 ecr 1070019589,nop,wscale 6], length 0
-11:17:40.149862 IP client.32834 &amp;gt; anyconnect.23333: Flags [.], ack 1, win 502, options [nop,nop,TS val 1070019605 ecr 1648754051], length 0
-11:17:40.346911 IP client.32834 &amp;gt; anyconnect.23333: Flags [P.], seq 1:518, ack 1, win 502, options [nop,nop,TS val 1070019802 ecr 1648754051], length 517
-11:17:40.356083 IP anyconnect.23333 &amp;gt; client.32834: Flags [R], seq 3447629567, win 65535, length 0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在 ASA 上同样看到了 connect refused 的日志记录，RST 包来源于 client 。由此可知有中间设备检测到 TLS 后向两侧发送了 RST 报文。&lt;/p&gt;
-&lt;p&gt;然后我用了几个肯定是备过案的域名作为 SNI 连接，结果是可以正常连接上。那目前就可以确定成都企宽也开始封未备案域名 SNI 了……&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031577#reply5</guid></item><item><title>[问与答] nebula 节点之间无法相互 ping 通</title><link>https://www.v2ex.com/t/1031576#reply0</link><description>&lt;h1&gt;背景&lt;/h1&gt;
-&lt;p&gt;搭了一个 Nebula 的环境, 所有节点都可以 ping 通 lighthouse, lighthouse 也能 ping 通所有节点, 但是节点之间相互不能 ping 通&lt;/p&gt;
-&lt;h1&gt;lighthouse&lt;/h1&gt;
-&lt;p&gt;系统: CentOS 7
-&lt;br /&gt;
-配置文件:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pki:
-  ca: /etc/nebula/ca.crt
-  cert: /etc/nebula/lighthouse.crt
-  key: /etc/nebula/lighthouse.key
+&lt;h2&gt;容器环境&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;$ cat /etc/issue
+Ubuntu 22.04.1 LTS \n \l
 
-static_host_map:
-  "192.168.166.1": ["ip:4242"]
+$ python --version
+Python 3.10.8
 
-lighthouse:
-  am_lighthouse: true
+$ nvcc --version
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2022 NVIDIA Corporation
+Built on Wed_Sep_21_10:33:58_PDT_2022
+Cuda compilation tools, release 11.8, V11.8.89
+Build cuda_11.8.r11.8/compiler.31833905_0
 
-listen:
-  host: 0.0.0.0
-  port: 4242
+$ pip show jax
+Name: jax
+Version: 0.4.26
+Summary: Differentiate, compile, and transform Numpy code.
+Home-page: https://github.com/google/jax
+Author: JAX team
+Author-email: jax-dev@google.com
+License: Apache-2.0
+Location: /root/miniconda3/lib/python3.10/site-packages
+Requires: ml-dtypes, numpy, opt-einsum, scipy
+Required-by: chex, flax, optax, orbax-checkpoint
 
-punchy:
-  punch: true
-  respond: true
-
-tun:
-  disabled: false
-  dev: nebula1
-  drop_local_broadcast: false
-  drop_multicast: false
-  tx_queue: 500
-  mtu: 1300
-
-logging:
-  level: info
-  format: text
-
-firewall:
-  outbound_action: drop
-  inbound_action: drop
-
-  conntrack:
-    tcp_timeout: 12m
-    udp_timeout: 3m
-    default_timeout: 10m
-
-  outbound:
-    - port: any
-      proto: any
-      host: any
-
-  inbound:
-    - port: any
-      proto: any
-      host: any
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1&gt;节点&lt;/h1&gt;
-&lt;p&gt;系统: Windows10/11
-&lt;br /&gt;
-配置:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pki:
-  ca: /etc/nebula/ca.crt
-  cert: /etc/nebula/node1.crt
-  key: /etc/nebula/node2.key
-
-static_host_map:
-  "192.168.166.1": ["ip:4242"]
-
-lighthouse:
-  am_lighthouse: false
-  hosts:
-    - "192.168.166.1"
-
-listen:
-  host: 0.0.0.0
-  port: 0
-
-punchy:
-  punch: true
-  respond: true
-
-tun:
-  disabled: false
-  dev: nebula1
-  drop_local_broadcast: false
-  drop_multicast: false
-  tx_queue: 500
-  mtu: 1300
-
-logging:
-  level: info
-  format: text
-
-firewall:
-  outbound_action: drop
-  inbound_action: drop
-
-  conntrack:
-    tcp_timeout: 12m
-    udp_timeout: 3m
-    default_timeout: 10m
-
-  outbound:
-    - port: any
-      proto: any
-      host: any
-
-  inbound:
-    - port: any
-      proto: any
-      host: any
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1&gt;节点日志&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;节点 Nebula 日志&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;time="2024-04-11T11:09:09+08:00" level=info msg="Handshake message sent" handshake="map[stage:1 style:ix_psk0]" initiatorIndex=1470529532 localIndex=1470529532 remoteIndex=0 udpAddrs="[node2:54223 192.168.99.6:54105 192.168.99.102:54105 192.168.233.1:54105 192.168.239.1:54105]" vpnIp=192.168.166.3
-time="2024-04-11T11:09:15+08:00" level=info msg="Handshake timed out" durationNs=6506670700 handshake="map[stage:1 style:ix_psk0]" initiatorIndex=1470529532 localIndex=1470529532 remoteIndex=0 udpAddrs="[node2:54223 192.168.99.6:54105 192.168.99.102:54105 192.168.233.1:54105 192.168.239.1:54105]" vpnIp=192.168.166.3
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;节点 ping 日志&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;正在 Ping 192.168.166.3 具有 32 字节的数据:
-请求超时。
-请求超时。
-请求超时。
-请求超时。
-
-192.168.166.3 的 Ping 统计信息:
-    数据包: 已发送 = 4 ，已接收 = 0 ，丢失 = 4 (100% 丢失)，
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h1&gt;防火墙&lt;/h1&gt;
-&lt;p&gt;lighthouse 默认就没有防火墙, 两个 Windows 节点也允许了的 ping 的防火墙策略&lt;/p&gt;
-&lt;h1&gt;疑问&lt;/h1&gt;
-&lt;p&gt;两个节点, 在什么都不做的情况下, 会一直刷上述提到的 Nebula 日志内容, 观察了一下, 发现 udpAddr 里面, 没有对应节点本身的 Nebula 的 ip, 不知道是不是正常的, 上 Google 查了一下, 也没查到什么有用的信息, 有没有哪位大佬碰到过这种情况&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031576#reply0</guid></item><item><title>[Node.js] 使用 ts 的最佳境界：化类型于无形</title><link>https://www.v2ex.com/t/1031575#reply0</link><description>&lt;h2&gt;使用 ts 的最佳境界：化类型于无形&lt;/h2&gt;
-&lt;p&gt;在项目中使用 ts 可以带来类型智能提示与校验的诸多好处。同时，为了减少类型标注，达到&lt;code&gt;化类型于无形&lt;/code&gt;的效果，CabloyJS 引入了 ioc 和依赖查找的机制。在上一篇文章中，我们创建了一个业务模块 test-home ，并且采用依赖查找的机制演示了如何优雅的定义和使用资源，包括：Service 服务、Config 配置、国际化语言资源、Error 错误异常&lt;/p&gt;
-&lt;p&gt;在实际的项目当中，经常会遇到跨模块访问资源的场景，那么，CabloyJS 的依赖查找机制是否仍然可以优雅的实现跨模块访问呢？让我们一睹为快&lt;/p&gt;
-&lt;h2&gt;模块化体系与任务说明&lt;/h2&gt;
-&lt;p&gt;CabloyJS 全栈框架的前后端均采用模块化体系。一个 CabloyJS 项目由多个业务模块组成，每个业务模块都可以包含与自身业务相关的资源，比如：Service 服务、Config 配置、国际化语言资源、Error 错误异常、中间件、定时任务、消息队列、系统启动项，等等&lt;/p&gt;
-&lt;p&gt;在这里，我们创建一个新的业务模块 test-work ，在 test-work 中访问 test-home 提供的资源&lt;/p&gt;
-&lt;h2&gt;1. 新建业务模块&lt;/h2&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;cabloy api:create:module test-work
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;2. 新建 API&lt;/h2&gt;
-&lt;p&gt;通过一个命令同时创建一组文件：Route 、Controller 、Service&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;cabloy api:create:controller work
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;3. 跨模块访问 Service 服务&lt;/h2&gt;
-&lt;p&gt;接下来，我们在刚才新建的 Service 当中，访问模块 test-home 的 Service 服务&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
-import { ScopeModule } from '../resource/this.js';
-
-@Local()
-export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
-  async action({ user }) {
-+   const scopeHome = this.getScope('test-home');
-+   return scopeHome.local.home.action({ user });
-    // return user;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
+$ pip show jaxlib
+Name: jaxlib
+Version: 0.4.26+cuda12.cudnn89
+Summary: XLA library for JAX
+Home-page: https://github.com/google/jax
+Author: JAX team
+Author-email: jax-dev@google.com
+License: Apache-2.0
+Location: /root/miniconda3/lib/python3.10/site-packages
+Requires: ml-dtypes, numpy, scipy
+Required-by: chex, optax, orbax-checkpoint
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 12 Apr 2024 14:18:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032081#reply1</guid></item><item><title>[问与答] 大学空闲时间可以干点啥，主要关于工作</title><link>https://www.v2ex.com/t/1032080#reply2</link><description>目前 985/211 硕士研一，现在自己手头的项目都差不多干完了，陷入了空虚的境地，想要找点事情做。&lt;br /&gt;想着目前工作环境挺糟糕的，请问各位有没有推荐的，有含金量的事情做，用于充实简历。&lt;br /&gt;有考虑过算法竞赛，感觉时间付出会比较大，收益可能没有（没有得奖）。&lt;br /&gt;目前本人的技术栈除了前端，基本都摸过用过，要学也不是很难。k8s ，devops 也玩过了，自建服务器，nas 也都有了，linux 主系统也折腾到好用了，连硬件开发都玩过，给自己做了个双系统的切换扩展坞。想着也许搞个小项目会有点意思？&lt;br /&gt;请问各位大佬有没有什么项目，想法，可以干的事之类的推荐，谢谢。</description><pubDate>Fri, 12 Apr 2024 14:16:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032080#reply2</guid></item><item><title>[分享创造] 给 macOS 用户分享一下自用 hammerspoon 脚本</title><link>https://www.v2ex.com/t/1032079#reply0</link><description>&lt;p&gt;hammerspoon 已经成功让我卸掉了好几个第三方软件，今天分享一些自用脚本&lt;/p&gt;
+&lt;p&gt;源码仓库地址 👉 &lt;a href="https://github.com/xiaojundebug/hammerspoon-config" rel="nofollow"&gt;https://github.com/xiaojundebug/hammerspoon-config&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;介绍&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;通过 getScope 方法获取模块 test-home 的 scope 对象&lt;/li&gt;
-&lt;li&gt;通过 scope 对象直接访问 Service 服务: &lt;code&gt;home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/auto-switch-input-method.lua" rel="nofollow"&gt;scripts/auto-switch-input-method.lua&lt;/a&gt;
+根据 app 自动切换输入法，&lt;strong&gt;一定程序上取代 &lt;a href="https://github.com/itsuhane/SwitchKey" rel="nofollow"&gt;SwitchKey&lt;/a&gt; 与 &lt;a href="https://inputsource.pro/zh-CN" rel="nofollow"&gt;InputSourcePro&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/input-method-indicator.lua" rel="nofollow"&gt;scripts/input-method-indicator.lua&lt;/a&gt;
+自带输入法没有指示器，经常输错中英文，它可以在屏幕顶部显示一条横线，最近我将它支持了渐变色，看上去更美观，&lt;strong&gt;一定程序上取代 &lt;a href="https://showyedge.pqrs.org/" rel="nofollow"&gt;ShowEdge&lt;/a&gt;&lt;/strong&gt;
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/k7gr8DR.gif" /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/ring.lua" rel="nofollow"&gt;scripts/ring.lua&lt;/a&gt;
+一个丝滑的环形 App 启动器，我甚至为它加上了过渡动画，用 &lt;code&gt;⌥&lt;/code&gt; + &lt;code&gt;tab&lt;/code&gt; 呼出，划到目标处松开键盘即可， &lt;strong&gt;一定程序上提高软件打开效率&lt;/strong&gt;
+&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/94UNHTf.gif" /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/caffeinated.lua" rel="nofollow"&gt;scripts/caffeinated.lua&lt;/a&gt;
+在状态栏放了一个 icon ，点击使 mac 禁止睡眠&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/defeating-paste-blocking.lua" rel="nofollow"&gt;scripts/defeating-paste-blocking.lua&lt;/a&gt;
+官方示例，部分网站禁止用户粘贴，它可以通过模拟输入事件将字符逐个键入，快捷键 &lt;code&gt;⌘&lt;/code&gt; + &lt;code&gt;⇧&lt;/code&gt; + &lt;code&gt;v&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.v2ex.com/scripts/wifi-mute.lua" rel="nofollow"&gt;https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/wifi-mute.lua&lt;/a&gt;
+连接公司 wifi 后自动静音&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/xiaojundebug/hammerspoon-config/blob/main/scripts/show-launchpad.lua" rel="nofollow"&gt;scripts/show-launchpad.lua&lt;/a&gt;
+macOS 有个很蠢的 bug ，设置中配置的启动台快捷键经常失效，那就用脚本代替它吧&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cross-module-localbean.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Frr5Mc_GlK-OsSAIGhhdUwxG7kaq" /&gt;&lt;/p&gt;
-&lt;h2&gt;4. 跨模块访问 Config 配置&lt;/h2&gt;
-&lt;p&gt;访问模块 test-home 的 Config 配置&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
-import { ScopeModule } from '../resource/this.js';
-
-@Local()
-export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
-  async action({ user }) {
-    const scopeHome = this.getScope('test-home');
-+   const prompt = scopeHome.config.prompt;
-    return scopeHome.local.home.action({ user });
-    // return user;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;另外还有一个没在仓库中的脚本，名叫“暗格”，如有人需要我再放进去&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rcDjpIe.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;各位有啥创意可以提高效率，欢迎提意见～&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 14:16:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032079#reply0</guid></item><item><title>[MacBook Pro] M3Max 日常开发重度用，体验如何？</title><link>https://www.v2ex.com/t/1032077#reply0</link><description></description><pubDate>Fri, 12 Apr 2024 14:03:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032077#reply0</guid></item><item><title>[分享创造] 搞了个等距无衬线英文字体，分享一下</title><link>https://www.v2ex.com/t/1032075#reply0</link><description>背景是之前做一个新项目的时候，因为没有找到合适的字体，诉求是希望等距、修长、无衬线。所以干脆设计了一款字体。后来因为界面中需要存在中文，而这款字体设计的时候就没考虑与中文搭配的原因，所以放弃了。现在发出来分享一下，如果有需要，可以完全免费商用在任何场景下。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/CN0CJcu.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/CN0CJcu.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/YP1YbeR.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/YP1YbeR.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;下载 &lt;a href="https://s4muel.com/S4MUEL-Slim/" rel="nofollow noopener" target="_blank"&gt;https://s4muel.com/S4MUEL-Slim/&lt;/a&gt;</description><pubDate>Fri, 12 Apr 2024 14:00:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032075#reply0</guid></item><item><title>[程序员] 多谢点击！（为了验证反向链接是否能加快网站收录）</title><link>https://www.v2ex.com/t/1032074#reply5</link><description>&lt;p&gt;做了一个简单的 landing page ，GSC 上添加后还没有收录，告知反向链接的权重不够，所以在 V2 上发一下，希望热心的网友帮忙点击下，同时也验证下标题的结论是否正确。&lt;/p&gt;
+&lt;p&gt;网站是一个用于图像擦除的功能，目前先跳转到了实际可用的网站。&lt;/p&gt;
+&lt;p&gt;网站链接： &lt;a href="https://hapusobjek.com/" rel="nofollow"&gt;https://hapusobjek.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;感谢网友你的点击。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 13:53:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032074#reply5</guid></item><item><title>[GitHub Copilot] Copilot 这是怎么了</title><link>https://www.v2ex.com/t/1032073#reply7</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/12/vNZFeJGVlPq94Xm.png" /&gt;&lt;/p&gt;
+&lt;p&gt;最近开始玩雀魂, 前几天在知乎上看到有人调侃说雀魂也是魂类游戏, 于是就想看看 Copilot 会怎么看待这个观点. Copilot 这是完全被带坏了啊😂&lt;/p&gt;
+&lt;p&gt;我还调戏了 Gemini 和 GPT4, 这两个倒是都能正常回答.&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 13:51:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032073#reply7</guid></item><item><title>[OpenAI] 有什么 AI 工具能分析代码里面的变量命名是否合理吗，英文不是很好，很多翻译感觉太生硬</title><link>https://www.v2ex.com/t/1032071#reply1</link><description>&lt;p&gt;RT 。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 13:35:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032071#reply1</guid></item><item><title>[问与答] 人在美国，想要找个国内的程序员工作，该怎么做？</title><link>https://www.v2ex.com/t/1032070#reply2</link><description>技术上会 Js ，做过两个全栈项目。</description><pubDate>Fri, 12 Apr 2024 13:32:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032070#reply2</guid></item><item><title>[Python] 请教下 Python 上的包管理器和虚拟环境</title><link>https://www.v2ex.com/t/1032069#reply10</link><description>&lt;p&gt;刚学 python, 对这方面不是很了解.
+对 npm 比较熟悉, 所以拿 npm 来类比.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;直接通过 scopeHome 取得 config 中的 prompt 属性值&lt;/li&gt;
+&lt;li&gt;流行的 python 版本管理器是 pyenv 吗? 类似 nodejs 上的 fnm n nvm&lt;/li&gt;
+&lt;li&gt;流行的 env 环境是 3.3 开始自带的 venv 吗? 还是 poetry (感觉用起来很麻烦)&lt;/li&gt;
+&lt;li&gt;有类似 pnpm 使用硬链接减少磁盘占用的方案吗? &lt;/li&gt;
+&lt;li&gt;有办法让 shell(zsh) 进入目录自动 activate env 吗? 类似识别 &lt;code&gt;.nvmrc&lt;/code&gt; 文件自动切换&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cross-module-config.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fn1tOba4wR1nm5Xu0LYbYFU1u--o" /&gt;&lt;/p&gt;
-&lt;h2&gt;5. 跨模块访问国际化语言资源&lt;/h2&gt;
-&lt;p&gt;访问模块 test-home 的国际化语言资源&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
-import { ScopeModule } from '../resource/this.js';
-
-@Local()
-export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
-  async action({ user }) {
-    const scopeHome = this.getScope('test-home');
-+   const message = scopeHome.locale.HelloWorld();
-+   const message1 = scopeHome.locale.HelloWorld.locale('en-us');
-+   const message2 = scopeHome.locale.HelloWorld.locale('zh-cn');
-    return scopeHome.local.home.action({ user });
-    // return user;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cross-module-locale-small.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fuk-gabndPHqozL3TTfmkxbqcQY9" /&gt;&lt;/p&gt;
-&lt;h2&gt;6. 跨模块访问 Error 错误异常&lt;/h2&gt;
-&lt;p&gt;抛出模块 test-home 提供的 Error 错误异常&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-diff"&gt;import { BeanBase, Local } from '@cabloy/core';
-import { ScopeModule } from '../resource/this.js';
-
-@Local()
-export class LocalWork extends BeanBase&amp;lt;ScopeModule&amp;gt; {
-  async action({ user }) {
-    const scopeHome = this.getScope('test-home');
-+   scopeHome.error.Error001.throw();
-    return scopeHome.local.home.action({ user });
-    // return user;
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;目前是使用 pyenv + venv&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;直接通过 scopeHome 抛出错误异常 Error001&lt;/li&gt;
+&lt;li&gt;vscode 能自动切换版本, 但 shell 方案没找到&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;pyvenv.cfg&lt;/code&gt;里都是绝对路径,python 版本或者项目改名/移动路径岂不是很麻烦&lt;/li&gt;
+&lt;li&gt;测试新建项目, &lt;code&gt;pip install -r requirements.txt&lt;/code&gt; 又从网络重下了一遍&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;看一下动画演示，提供了完整的类型智能提示：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="cross-module-error.gif" class="embedded_image" rel="noreferrer" src="https://static.cnodejs.org/Fu560TRgVDvfS-TZqiES6XNwCrw7" /&gt;&lt;/p&gt;
-&lt;h2&gt;后记&lt;/h2&gt;
-&lt;p&gt;CabloyJS 采用 ioc 和依赖查找的机制，让 ts 的使用达到了&lt;code&gt;化类型于无形&lt;/code&gt;的最佳境界，从而让我们的代码保持优雅和简洁，进而也能显著提升开发效率，保证代码质量&lt;/p&gt;
-&lt;p&gt;欲了解更多，请关注每晚 8 点 B 站直播：&lt;a href="https://space.bilibili.com/454737998" rel="nofollow"&gt;濮水代码&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:22:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031575#reply0</guid></item><item><title>[浏览器] 2024 年还有必要兼容 IE 浏览器吗？</title><link>https://www.v2ex.com/t/1031573#reply3</link><description>&lt;p&gt;最近打算开发一款 CMS ，纠结使用 bootstrap 版本，我看同类型的 cms 后台很多还在使用 bootstrap3.x 版本，纠结中。&lt;/p&gt;
-&lt;p&gt;后台到无所谓，提醒用 edge 或 chrome 浏览器就行。但是前端还是有点担心，有没有比较新的 IE 占比数据，现在还有必要去兼容 IE 吗？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:17:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031573#reply3</guid></item><item><title>[问与答] 咸鱼话费慢充有人试过没？</title><link>https://www.v2ex.com/t/1031572#reply8</link><description>我看有 240 冲 300 ，还有 650 冲 1000 的，这好家伙，这种洗黑钱的慢充靠谱不？会不会被运营商封号了啊</description><pubDate>Thu, 11 Apr 2024 03:17:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031572#reply8</guid></item><item><title>[问与答] 每个月 200GB 海外流量，看看 3 美金/月值不值得薅？</title><link>https://www.v2ex.com/t/1031570#reply1</link><description>&lt;p&gt;最近看到阿里云国际降价，看到网络升级免费额度了，申请海外主机可以免费 200GB 每个月，是不是够科学上网了？&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.alibabacloud.com/zh/campaign/ecs-2024promotion-1" rel="nofollow"&gt;https://www.alibabacloud.com/zh/campaign/ecs-2024promotion-1&lt;/a&gt; ，在 t6 里找到菲律宾，人工改到 2C 0.5G 的看起来应该是最便宜的了（活动页面没显示，但依然可以改配置）&lt;/p&gt;
-&lt;p&gt;不过目前看是流量部分免费，服务器还是要花钱，大概需要 4.4 美金一个月，包年便宜一些 45 美金（ 3.7 美金/月），看看值不？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:14:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031570#reply1</guid></item><item><title>[问与答] Sublime 有没有只允许运行一个窗口的单例模式啊？</title><link>https://www.v2ex.com/t/1031569#reply0</link><description>&lt;p&gt;Sublime 有没有只允许运行一个窗口的单例模式啊？&lt;/p&gt;
-&lt;p&gt;每次运行程序都是新开一个窗口，要是能运行时检查下是否有运行的窗口，有的话就获取焦点，没有的话才新建窗口就好了。&lt;/p&gt;
-&lt;p&gt;题外话，Sublime 启动真的好快啊，和 notepad++旗鼓相当，作为轻量级编辑器太好用了&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:14:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031569#reply0</guid></item><item><title>[Windows] wsl2 的 mirrored 网络模式下，在里面监听一个端口，同局域网同网段下的设备可以 telnet，不同网段的设备不行。</title><link>https://www.v2ex.com/t/1031567#reply0</link><description>&lt;p&gt;在 wsl2 中监听 6400 端口，然后从不同的网段的设备上 telnet 这个端口。
-例如我设备的 ip 是 192.168.1.123 ，然后从 192.168.1.x 的设备上可以 telnet 192.168.1.123 6400 成功。在 192.168.2.x 等所有的非 192.168.1.x 的设备上都不能 telnet 成功。但是如果我在 windows 上面监听 6400 端口则所有网段的设备都可以 telnet 成功。
-有人遇到过类似的问题么？&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:09:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031567#reply0</guid></item><item><title>[AirPods] 关于 AAC 与 AirPods 传输的问题</title><link>https://www.v2ex.com/t/1031566#reply3</link><description>&lt;p&gt;我一直搞不太明白苹果的 AirPods 是具体如何传输数据播放声音的。&lt;/p&gt;
-&lt;p&gt;流程 1:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;MacBook 播放 mp3 -&amp;gt; 播放器解码 MP3 成波形 -&amp;gt; 系统把波形编码成 AAC -&amp;gt; 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;在我的理解里，这个流程 1 应该是对的。&lt;/p&gt;
-&lt;p&gt;流程 2:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;MacBook 播放 256kbps 的 AAC -&amp;gt; 系统直接把这个 AAC 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;流程 3:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;MacBook 播放 256kbps 的 AAC -&amp;gt; 播放器解码 AAC 成波形 -&amp;gt; 系统把波形编码成 AAC -&amp;gt; 发给 AirPods -&amp;gt; AirPods 解码 ACC 成波形 -&amp;gt; 驱动单元播放声音
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;问题是流程 2 和流程 3 ，究竟哪个是正确的呢？还是说关键是取决于播放的软件？&lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:09:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031566#reply3</guid></item><item><title>[VPS] 有性价比高的 vps 虚拟机推荐吗 大佬们</title><link>https://www.v2ex.com/t/1031565#reply1</link><description>&lt;p&gt;有性价比高的 vps 虚拟机推荐吗  大佬们
-想部署个网站&lt;/p&gt;</description><pubDate>Thu, 11 Apr 2024 03:08:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031565#reply1</guid></item><item><title>[问与答] telegram web 端为什么能做得如此丝滑？是我见过的最流畅的 web app 了</title><link>https://www.v2ex.com/t/1031564#reply0</link><description>&lt;a href="https://web.telegram.org/k/" rel="nofollow noopener" target="_blank"&gt;https://web.telegram.org/k/&lt;/a&gt;&lt;br /&gt;想知道用的什么技术栈，有什么黑科技</description><pubDate>Thu, 11 Apr 2024 03:08:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031564#reply0</guid></item><item><title>[问与答] 虚拟数字人是用什么做的？目前哪个最强？</title><link>https://www.v2ex.com/t/1031563#reply1</link><description></description><pubDate>Thu, 11 Apr 2024 03:07:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031563#reply1</guid></item><item><title>[生活] 请教各位老哥，刚工作不久，需要一辆代步车。希望油耗低、座位舒适。落地价 10w。有什么什么推荐呢</title><link>https://www.v2ex.com/t/1031562#reply12</link><description></description><pubDate>Thu, 11 Apr 2024 03:05:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031562#reply12</guid></item><item><title>[推广] Comate 编码助手上线百度飞桨 AI Studio 星河社区</title><link>https://www.v2ex.com/t/1031561#reply0</link><description>Comate 作为一个智能编码助手，在线上编码环境中也可以使用啦～&lt;br /&gt;您可以在百度飞桨的社区内使用在线编码能力 iCoding ，Comate 作为一个插件已经在线上 ide 中内置好等着你差遣哦～&lt;br /&gt;&lt;br /&gt;什么是 Comate ？&lt;br /&gt;为了帮助大家高效提升编码效率，释放“十倍”软件生产力。Comate 是百度基于文心大模型，提供代码智能生成、研发智能问答能力的编码助手。&lt;br /&gt;&lt;br /&gt;Comate 能帮我干嘛？&lt;br /&gt;智能编码：生成、解释等模型/应用开发场景&lt;br /&gt;智能问答：代码开发有问必答&lt;br /&gt;多语言开发：覆盖 Python 、Java 、C++等主流语言&lt;br /&gt;&lt;br /&gt;什么是百度飞桨 AI Studio 星河社区？&lt;br /&gt;百度飞桨 AI Studio 星河社区是基于飞桨和文心大模型的 AI 学习与实训社区，为开发者提供 GPU 算力、模型库、数据集、工具套件、实训项目、社区交流等全方位服务。&lt;br /&gt;&lt;br /&gt;Comate 在百度飞桨 AI Studio 星河社区的亮点：&lt;br /&gt;支持在线编码环境，无需额外安装插件，适配专业开发 IDE&lt;br /&gt;在 Comate 里可以直接调用飞桨官方插件，插件内置业务官方文档，通过它，您可以生成更加准确的相关代码，也可以直接进行提问，它会解答你所有特定业务相关的疑惑&lt;br /&gt;&lt;br /&gt;来看看如何使用吧：&lt;br /&gt;1. [创建 Notebook 项目] 进入 AI Studio[项目大厅]或[我的项目]点击[创建项目]  &lt;br /&gt;&lt;a href="https://aistudio.baidu.com/projectoverview" rel="nofollow noopener" target="_blank"&gt;https://aistudio.baidu.com/projectoverview&lt;/a&gt;&lt;br /&gt;2. [切换至 iCoding ] 启动项目 BML CodeLab 环境，点击右上角浮窗，切换至 iCoding&lt;br /&gt;3. [使用 Comate 智能编程] 在 iCoding 中，您可以使用 Comate 编码助手进行智能编程，体验代码生成、代码解释等能力&lt;br /&gt;4. [唤起 Comate 智能问答] 您可以在侧边栏中唤起 Comate 编码助手进行智能问答，它可以帮您回答技术问题，或是让它智能生成代码内容。您还可以一键 @调用更多官方插件，通过它，您可以生成更加准确的相关代码，也可以直接进行提问，它会解答您所有特定业务相关的疑惑。&lt;br /&gt;&lt;br /&gt; [实战项目征集] 使用 Comate 快速完成模型应用开发&lt;br /&gt;完成项目并发布后，可将项目投递为精品项目，内容经过平台审核后将在项目大厅首页进行加精置顶，同时送上创作者相应礼品，希望您的项目能被更多人看到、使用。&lt;br /&gt;&lt;br /&gt;如在使用中遇到问题，欢迎关注 Comate 微信公众号向我们反馈，快来试试吧～&lt;br /&gt;&lt;br /&gt;邀请好友送好礼！&lt;br /&gt;每成功邀请一位新人安装插件使用，您将获得 10 元京东卡！官网登陆后，右上方头像点击进入「积分商城」-「邀请好友获积分」，获取您的专属邀请链接~&lt;br /&gt;&lt;br /&gt;进入官网，开启智能编码新体验： &lt;a href="https://comate.baidu.com/" rel="nofollow noopener" target="_blank"&gt;https://comate.baidu.com/&lt;/a&gt;</description><pubDate>Thu, 11 Apr 2024 03:02:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1031561#reply0</guid></item></channel></rss>
+&lt;p&gt;是我搜索能力太差还是本来就这样, 怎么感觉比 js 生态还原始.&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 13:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032069#reply10</guid></item><item><title>[OpenWrt] 请教 Ubuntu 中 docker 运行 openwrt， Ubuntu 无法联网</title><link>https://www.v2ex.com/t/1032068#reply11</link><description>如题，Ubuntu 设置的 ip 为 192.168.31.11 ，Ubuntu docker 启动的 openwrt 设置的 IP 为 192.168.31.2 。使用局域网内的电脑 ssh 可以连接到 Ubuntu ，但是 Ubuntu 无论网关设置为 31.1 还是 31.2 都无法联网，ping: &lt;a href="http://www.baidu.com" rel="nofollow noopener" target="_blank"&gt;www.baidu.com&lt;/a&gt;: 域名解析暂时失败。其他设备都正常。Ubuntu 是旧的轻薄笔记本，使用 usb 转网口+网线连接到路由器。</description><pubDate>Fri, 12 Apr 2024 13:25:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032068#reply11</guid></item><item><title>[问与答] 适合做产品展示的静态网站引擎和主题推荐？</title><link>https://www.v2ex.com/t/1032065#reply0</link><description>&lt;p&gt;V2 的大拿们，想弄一个静态网站，专门拿来做软件产品展示的，看到静态网站生成器倒是很多，可惜没有碰到一个合适的主题，比如这种，&lt;a href="https://www.omnigroup.com/" rel="nofollow"&gt;https://www.omnigroup.com/&lt;/a&gt; ，求推荐。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 13:16:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032065#reply0</guid></item><item><title>[问与答] Netch 相关的一些问题</title><link>https://www.v2ex.com/t/1032064#reply0</link><description>&lt;p&gt;Hunt:Showdown 这个游戏，用 netch 扫描加速，只有美俄服务器能用，其他服务器延迟都在 300 以上
+因为这个不维护了我还找到了个在卖的叫 win2socks 试了试，也是一样的效果。&lt;/p&gt;
+&lt;p&gt;但是用 wireguard 客户端连 warp 提取出来的就没问题。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 12:57:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032064#reply0</guid></item><item><title>[全球工单系统] 企业微信的开发者中心打不开了，但周五晚上已经无人在意</title><link>https://www.v2ex.com/t/1032063#reply2</link><description>&lt;p&gt;&lt;a href="https://developer.work.weixin.qq.com/" rel="nofollow"&gt;https://developer.work.weixin.qq.com/&lt;/a&gt;
+看来大家都下班了
+&lt;a href="https://imgur.com/a/ksrm7gT" rel="nofollow"&gt;https://imgur.com/a/ksrm7gT&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 12:48:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032063#reply2</guid></item><item><title>[Android] 安卓有没有像 AlDente 这样的软件，限制充电到 80%就停止。</title><link>https://www.v2ex.com/t/1032060#reply3</link><description>&lt;p&gt;好像 AccuBattery 这样的 app 也只能是充到 80%后闹铃提醒你人工拔掉电源，不能自动停止充电。&lt;/p&gt;</description><pubDate>Fri, 12 Apr 2024 12:21:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032060#reply3</guid></item></channel></rss>
