@@ -1,198 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 15 Apr 2024 16:41:57 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 除了写几行代码以外，各位还有什么别的特长？我指的是，可以用来吃饭的特长技能</title><link>https://www.v2ex.com/t/1032777#reply0</link><description>&lt;p&gt;今天突发奇想。想到这个问题。&lt;/p&gt;
-&lt;p&gt;我已经考过一个税法方面的证，可以找税法方面的工作，但工资低得多&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 16:27:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032777#reply0</guid></item><item><title>[分享创造] 为庆祝魔兽世界回归，专门做了一个魔兽世界地精大数据网站</title><link>https://www.v2ex.com/t/1032776#reply0</link><description>&lt;p&gt;魔兽世界拍卖行价格数据趋势分析 · 在线拍卖行价格跟踪解决方案
-我们目前每天处理超过 500 万次魔兽世界拍卖数据&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wow.jiguanqiang.net/" rel="nofollow"&gt;https://wow.jiguanqiang.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;我们的目标是收集所有最新魔兽世界拍卖行的高可用价格数据！&lt;/p&gt;
-&lt;p&gt;我们的网站提供了游戏中所有物品的最新价格！以及历史价格，帮助您跟踪价格趋势，并做出明智的买卖决策。&lt;/p&gt;
-&lt;p&gt;我们知道了解游戏经济的最新情况，并为每周 4 做好准备是多么重要，这就是为什么我们每小时更新价格以反映最新的市场趋势。我们的价格数据库全面且易于阅读，图表使其易于理解。&lt;/p&gt;
-&lt;p&gt;除了物品价格，我们还提供魔兽世界代币的最新和历史价格。此功能对于想要买卖游戏时间或使用代币购买游戏内物品的玩家特别有用。&lt;/p&gt;
-&lt;p&gt;我们热衷于帮助玩家最大限度地获得游戏中的财富和成功，我们相信我们的网站是实现这些目标的宝贵资源。所以为什么要等待呢？&lt;/p&gt;
-&lt;p&gt;立即开始探索我们的网站，将您的魔兽世界体验提升到一个新的水平！&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 16:18:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032776#reply0</guid></item><item><title>[Steam] [QQ 群] 以“游戏、影视、音乐、书”为主题的群。</title><link>https://www.v2ex.com/t/1032775#reply0</link><description>&lt;p&gt;群名：我们的精神角落&lt;/p&gt;
-&lt;p&gt;群公告： &lt;a href="https://docs.qq.com/doc/DUlN2Vk1QekthZ2J5" rel="nofollow"&gt;https://docs.qq.com/doc/DUlN2Vk1QekthZ2J5&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;可以先看看群公告，里面有一些群内聊天规则，群号也在里面&lt;/p&gt;
-&lt;p&gt;群名源自豆瓣品牌影片《我们的精神角落》，因为群主题“书、影视、音乐、游戏”和豆瓣主题非常契合，所以就取了同样的名字……&lt;/p&gt;
-&lt;p&gt;玩游戏时 Steam 上找人联机发现好友挺少的，寻思弄个群，后来想想游戏群也好多了，但是同时以“书影音游”为主题的好像没有，很多人对这 4 类都挺感兴趣的，所以就建了个这样的主题群。&lt;/p&gt;
-&lt;p&gt;群最近才建的，还没啥人哈，有兴趣的可以加。平时没事聊聊天，要找人联机了也可以群里喊~&lt;/p&gt;
-&lt;p&gt;文明发言、理性探讨！&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 15:50:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032775#reply0</guid></item><item><title>[程序员] 自己写的拯救者笔记本风扇命令行控制软件 欢迎 star 和反馈使用问题</title><link>https://www.v2ex.com/t/1032774#reply0</link><description>&lt;p&gt;拯救者 r9000k 2021 风扇控制软件 &lt;a href="https://github.com/rango886/LegionFanEmbeddedController" rel="nofollow"&gt;https://github.com/rango886/LegionFanEmbeddedController&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;网上找了一圈没好用的，要么不开源，要么不支持 windows&lt;/p&gt;
-&lt;p&gt;于是就准备自己写个&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.legionfancontrol.com" rel="nofollow"&gt;https://www.legionfancontrol.com&lt;/a&gt; 不开源&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/johnfanv2/LenovoLegionLinux" rel="nofollow"&gt;https://github.com/johnfanv2/LenovoLegionLinux&lt;/a&gt; 只支持 Linux&lt;/p&gt;
-&lt;h1&gt;项目简介&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="演示图片" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/rango886/LegionFanEmbeddedController/main/assets/example.gif" /&gt;&lt;/p&gt;
-&lt;p&gt;本项目通过直接修改 EC 内存进行笔记本风扇控制 &lt;a href="https://github.com/GermanAizek/WinRing0/" rel="nofollow"&gt;https://github.com/GermanAizek/WinRing0/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在 Legion 7 16ACHg6 2021/r9000k 上测试过&lt;/p&gt;
-&lt;p&gt;理论上支持 2020/2021 年的拯救者机型&lt;/p&gt;
-&lt;p&gt;切换性能模式(FN+Q)后风扇曲线会失效&lt;/p&gt;
-&lt;h1&gt;使用方式&lt;/h1&gt;
-&lt;p&gt;需要右键管理员权限运行&lt;/p&gt;
-&lt;p&gt;推荐为常用命令创建快捷方式使用&lt;/p&gt;
-&lt;p&gt;风扇曲线配置在 config 目录下，设置风扇曲线参考下方的命令&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# 读取风扇状态
-fan_ctrl.exe
-########################### Read Mode ###########################
-FAN1 speed      1551                         FAN2 speed      1560
-
-FAN1 curve         0,  15,  15,  15,  20,  20,  20,  20,  32,  32
-FAN2 curve         0,  14,  15,  15,  20,  20,  20,  20,  32,  32
-ACC  time          2,   2,   2,   2,   2,   2,   2,   2,   2,   2
-DEC  time          2,   2,   2,   2,   2,   2,   2,   2,   2,   2
-CPU  lower temp    0,  45,  51,  55,  59,  68,  72,  78,  87,   0
-CPU  upper temp   48,  54,  58,  62,  71,  76,  81,  90, 127,   0
-GPU  lower temp    0,  56,  56,  56,  56,  56,  61,  66,  72,   0
-GPU  upper temp   60,  60,  60,  60,  60,  65,  69,  77, 127,   0
-IC   lower temp    0,  39,  42,  46, 127, 127, 127, 127, 127,   0
-IC   upper temp   41,  44,  50, 127, 127, 127, 127, 127, 127,   0
-
-EC Firmware Ver  64                      EC Chip model    8227 v2
-
-# 写入配置不关闭命令行窗口
-fan_ctrl.exe write .\config\silent1.json 1
-
-# 写入配置后关闭命令行窗口
-fan_ctrl.exe write .\config\silent1.json 0
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;风扇曲线配置解释&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{
-	"FAN1_curve":     [   0,  15,  15,  15,  15,  15,  15,  15,  32,  32],
-	"FAN2_curve":     [   0,  14,  15,  15,  15,  15,  15,  15,  32,  32],
-	"ACC_time":       [   2,   2,   2,   2,   2,   2,   2,   2,   2,   2],
-	"DEC_time":       [   2,   2,   2,   2,   2,   2,   2,   2,   2,   2],
-	"CPU_lower_temp": [   0,  45,  51,  55,  59,  68,  72,  78,  87,   0],
-	"CPU_upper_temp": [  48,  54,  58,  62,  71,  76,  81,  90, 127,   0],
-	"GPU_lower_temp": [   0,  56,  56,  56,  56,  56,  61,  66,  72,   0],
-	"GPU_upper_temp": [  60,  60,  60,  60,  60,  65,  69,  77, 127,   0],
-	"IC_lower_temp":  [   0,  39,  42,  46, 127, 127, 127, 127, 127,   0],
-	"IC_upper_temp":  [  41,  44,  50, 127, 127, 127, 127, 127, 127,   0]
-}
-&lt;/code&gt;&lt;/pre&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 17 Apr 2024 09:59:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 人在国内 炒美股港股教程（只需护照）</title><link>https://www.v2ex.com/t/1033353#reply0</link><description>&lt;p&gt;一、开通海外银行账户：
+新加坡华侨银行
+下载 OCBC Digital 应用程序，使用"介绍人代码": N1QR37JB ，不仅能拿 15 新币开户奖励，还能增加审批通过率。&lt;/p&gt;
+&lt;p&gt;二、开通盈透证券
+邀请开户链接： &lt;a href="https://ibkr.com/referral/yafeng207" rel="nofollow"&gt;https://ibkr.com/referral/yafeng207&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;三、入金盈透证券&lt;/p&gt;
+&lt;p&gt;四、开通老虎证券看盘
+老虎证券邀请链接： &lt;a href="https://tigr.link/7nfvDf" rel="nofollow"&gt;https://tigr.link/7nfvDf&lt;/a&gt;
+注册后 P 个 2023 年 5 月前的月结单图就行了 &lt;/p&gt;
+&lt;p&gt;全程只需护照，不需要出国&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:56:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033353#reply0</guid></item><item><title>[分享发现] 去香港开了个「招商永隆」，发现在国内 App 上便捷开户，再到香港激活就行了。这样就不用预约，直接 walk in 会被拒绝</title><link>https://www.v2ex.com/t/1033352#reply0</link><description>&lt;p&gt;3 月 20 号，和朋友一起去香港专门开户，我们开了渣打银行、汇丰银行、中银、招商永隆，发现招商永隆挺简单的。&lt;/p&gt;
+&lt;h1&gt;简介&lt;/h1&gt;
+&lt;p&gt;永 LONG 银行有限公司创立于 1933 年，是香港具悠久历史的华资银行之一。主要业务是提供零售及企业银行，信贷，证券及期货买卖，个人理财，信托与物业管理，强积金及保险等金融服务。在香港，中国大陆及海外均设有分行。2009 年 1 月 15 日招行完成对永 LONG 银行股权的收购成为招商银行子公司，正式更名为招商永 LONG 银行。&lt;/p&gt;
+&lt;h1&gt;开户准备&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;FAN1_curve 和 FAN2_curve 代表两个风扇的曲线，风扇曲线有十个挡位&lt;/li&gt;
-&lt;li&gt;设置的值代表乘以 100 后的值，上面配置中 FAN1_curve 第二档为 15 ，风扇转速则为 1500 转&lt;/li&gt;
-&lt;li&gt;每个风扇挡位所在的列有对应的温度&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Mon, 15 Apr 2024 15:49:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032774#reply0</guid></item><item><title>[职场话题] 有没有嵌入式讲师来聊聊。</title><link>https://www.v2ex.com/t/1032773#reply2</link><description>&lt;p&gt;现在嵌入式培训挺火的，想狠狠的赚一笔，有没有比较不错的嵌入式讲师来聊聊呀。
-BOSS 直聘挂了几天，硬是没有嵌入式讲师的简历。挂 JAVA 前端的招聘直接能爆满。。。&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 15:40:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032773#reply2</guid></item><item><title>[Windows] windows 11 home ,可以不重装系统,升级为 pro 或者其他版本吗?</title><link>https://www.v2ex.com/t/1032772#reply0</link><description>&lt;p&gt;如题,我想用 bitlocker,home 版本不支持.请问我可以不重装系统,升级到支持 bitlocker 的 pro 或者其他版本吗?&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 15:40:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032772#reply0</guid></item><item><title>[问与答] 想问问各位如何测试宽带真实网速</title><link>https://www.v2ex.com/t/1032771#reply13</link><description>家里装的 500m 联通宽带，我用 speedtest 这个网站测试只有 100m 的速度，然后安装师傅让我用联通的测试网站测，确实有 500m 以上的网速，说联通没给 speedtest 网站交费啥的，测试结果不准。&lt;br /&gt;我就想问各位怎么测这宽带的真实网速啊</description><pubDate>Mon, 15 Apr 2024 15:11:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032771#reply13</guid></item><item><title>[旅行] 主观感觉 在海南开车很不友好</title><link>https://www.v2ex.com/t/1032770#reply1</link><description>首先我开车不多，开的也尽量规矩。&lt;br /&gt;不超速，不乱变道，不加塞.&lt;br /&gt;但在海南，我开的很迷茫。&lt;br /&gt;觉得这里开车来说，很不友好。&lt;br /&gt;&lt;br /&gt;首先，&lt;br /&gt;这里很多路限速三四十，但我这一个礼拜观察来看，只有我大部分时间在遵守限速。没看到比我开的慢的.&lt;br /&gt;其他车，基本开六七十.&lt;br /&gt;这让我觉得遵守限速的我很白痴，也很迷茫，要不要超速，会不会被扣分，非常纠结.&lt;br /&gt;&lt;br /&gt;二，&lt;br /&gt;这里很多弯道，非常多的车在超速的情况下，还弯道超车，实线变道，实在令人惊恐.&lt;br /&gt;&lt;br /&gt;三，&lt;br /&gt;海南高速，不好开&lt;br /&gt;路不平 ，车抖来抖去 ，大弯还多。&lt;br /&gt;再加上龟速车 和大卡车挤在一起.&lt;br /&gt;开的我心理好紧张。&lt;br /&gt;&lt;br /&gt;四 &lt;br /&gt;我在文昌，双向四车道的大路，连路面标线都没有。&lt;br /&gt;很多十字路口，好像不止文昌，连红绿灯都没有，&lt;br /&gt;还遇到红灯，路面没有停止线，我人都傻了，不知道要把车刹停在那里.</description><pubDate>Mon, 15 Apr 2024 15:04:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032770#reply1</guid></item><item><title>[程序员] 又上线了一个 AI 资讯网站 - 聚合了 OpenAI、Google、Anthropic 相关 AI 文章</title><link>https://www.v2ex.com/t/1032769#reply0</link><description>&lt;p&gt;这几天开发了一个 AI 新闻网站，目前已经聚合了 OpenAI 、Anthropic 和 Google 三家公司的 AI 新闻信息。&lt;/p&gt;
-&lt;p&gt;网站地址：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ainews.996geek.com/" rel="nofollow"&gt;https://ainews.996geek.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主要功能包括：&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;根据文章的发布时间，倒序聚合各大 AI 公司的文章&lt;/li&gt;
-&lt;li&gt;支持分页功能&lt;/li&gt;
-&lt;li&gt;支持按照公司过滤文章&lt;/li&gt;
-&lt;li&gt;标题和内容翻译为中文（感谢 GPT 3.5 ）&lt;/li&gt;
-&lt;li&gt;提供 3 分钟快速阅读、沉浸阅读全文两种模式&lt;/li&gt;
-&lt;li&gt;附带了英文原文的链接入口&lt;/li&gt;
+&lt;li&gt;下载「招商永隆银行」 App ，在国内就可以先申请开户，等通过之后再去香港找个分行做激活。&lt;/li&gt;
+&lt;li&gt;身份证&lt;/li&gt;
+&lt;li&gt;通行证/护照&lt;/li&gt;
+&lt;li&gt;入境小票 （客服提示需要带，有些分行不会用到，最好保留好）&lt;/li&gt;
+&lt;li&gt;10,000 港币现金（账户余额低于 1 万港币，收取账户管理费 100 港币/月，建议直接存入 1 万港币，或使用大陆招商银行转入）&lt;/li&gt;
+&lt;li&gt;可接受验证码的手机&lt;/li&gt;
+&lt;li&gt;本人邮箱&lt;/li&gt;
+&lt;li&gt;其他：如有需要，可能要求提供其他材料以供审核，例如，职业状况包括工作职位、雇主/公司及每月收入、户口用途、在香港开设户口的理由、财富及/或收入的初次及持续来源、预计户口活动，例如交易金额及次数、开户资金来源、将使用服务类型或居留司法管辖区（即申请人因居民身份而有责任纳税款的地方）及税务编号或具有等同功能的识辨编号（税务编号）等。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3 分钟快速阅读&lt;/h3&gt;
-&lt;p&gt;如果想快速了解一篇文章的内容，觉得有价值再去阅读全文；或者因为时间问题，想节省时间。那么可以点击 3 分钟快速阅读，了解文章的总结。&lt;/p&gt;
-&lt;h3&gt;阅读全文&lt;/h3&gt;
-&lt;p&gt;如果想阅读全文内容，可以点击文章的标题或者沉浸阅读模式。两者的区别在于，前者在当前页面阅读，后者在新的页面打开，干扰更少，能够更加沉浸的阅读。&lt;/p&gt;
-&lt;h3&gt;按照公司展示新闻&lt;/h3&gt;
-&lt;p&gt;如果只想看 OpenAI 的文章，可以点击右上方的菜单"OpenAI"。&lt;/p&gt;
-&lt;h3&gt;分页功能&lt;/h3&gt;
-&lt;p&gt;滚动到文章底部，可以看到分页栏，点击页号可以跳转到指定的页面。&lt;/p&gt;
-&lt;h3&gt;小提示&lt;/h3&gt;
+&lt;h1&gt;账户类型&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;往下滑动之后，如果想快速回到顶部，请点击右下方的"向上双箭头"按钮。&lt;/li&gt;
-&lt;li&gt;支持手机阅读（点击左下角阅读原文）&lt;/li&gt;
-&lt;li&gt;在国内有可能看不了部分图片&lt;/li&gt;
-&lt;li&gt;翻译的准确性还需要提升&lt;/li&gt;
+&lt;li&gt;一般银行服务（综合理财总值需要达港币 10,000 元，可免管理费），不足 1 万港币管理费 100/月。&lt;/li&gt;
+&lt;li&gt;金葵花理财服务（综合理财总值需要达港币 500,000 元，可免管理费），余额不足则收取 200 元/月管理费。&lt;/li&gt;
+&lt;li&gt;私人财富管理服务（综合理财总值需要达港币 5,000,000 元）。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; &lt;a href="https://mp.weixin.qq.com/s/d67GfgKqGXa78GtzglN3JQ" rel="nofollow"&gt;看原文有图片效果更好&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 15:02:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032769#reply0</guid></item><item><title>[全球工单系统] exmail.qq.com 的证书用了 mail.keri.com.cn 的证书</title><link>https://www.v2ex.com/t/1032768#reply5</link><description>腾讯确实牛逼&lt;br /&gt;&lt;br /&gt;您的连接不是私密连接&lt;br /&gt;攻击者可能会试图从 &lt;a href="http://exmail.qq.com" rel="nofollow noopener" target="_blank"&gt;exmail.qq.com&lt;/a&gt; 窃取您的信息（例如：密码、通讯内容或信用卡信息）。了解详情&lt;br /&gt;NET::ERR_CERT_COMMON_NAME_INVALID&lt;br /&gt;如果您想获得 Chrome 最高级别的安全保护，请开启增强型保护&lt;br /&gt;此服务器无法证明它是 &lt;a href="http://exmail.qq.com" rel="nofollow noopener" target="_blank"&gt;exmail.qq.com&lt;/a&gt; ；其安全证书来自 &lt;a href="http://mail.keri.com.cn" rel="nofollow noopener" target="_blank"&gt;mail.keri.com.cn&lt;/a&gt; 。出现此问题的原因可能是配置有误或您的连接被拦截了。</description><pubDate>Mon, 15 Apr 2024 14:49:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032768#reply5</guid></item><item><title>[宽带症候群] 求推荐网关</title><link>https://www.v2ex.com/t/1032767#reply3</link><description>&lt;p&gt;有 10G 交换机，想求大家推荐个网关：&lt;/p&gt;
+&lt;h1&gt;开户申请&lt;/h1&gt;
+&lt;p&gt;下载好招商永隆银行 App 后，打开「招商永隆银行」手机 App ，点击“首页-我要开户”提交申请表及提交文件。
+根据步骤指引填写相关资料。阁下在填写“服务和账户”步骤时，可以选择开通一般银行服务、金葵花理财服务或私人财富管理。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“纸质结单”填写提示：月结单等纸质结单的寄送地址将以阁下填写的“通讯地址”一栏为准。本行亦提供电子结单功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;“住宅地址”填写提示（适用中国内地居民）：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;如果你的住宅住址与中国内地居民身份证的住址相同，则在填写申请表“住宅地址”一页时无需修改任何系统默认填写内容。&lt;/li&gt;
+&lt;li&gt;如过你的住宅住址与中国内地居民身份证上住址不同，可在填写“住宅地址”一页时修改为新的地址，并需上传地址证明文件，包括最近三个月内发出的政府机构 /公共事务机构/持牌银行发出备有客户姓名及地址资料之通讯或账单或结单，支持文件式样完整的纸质文件照片或电子文件，比如水电煤账单、银行账单等。&lt;/li&gt;
+&lt;li&gt;“职业信息”填写提示：请从现有行业选项中选择合适且符合事实的职业，若选择“其他”选项并进行填写，将需要更长的审核时间审核阁下的开户材料。&lt;/li&gt;
+&lt;li&gt;“登录用户名及密码”填写提示：建议截图并小心保存已填写的用户名及密码。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;查询进度&lt;/h1&gt;
+&lt;p&gt;提交“全新客户网点开户”申请后，开户材料审批工作最快会在 15 分钟内完成（最迟一般会在 7 个工作日内完成），请留意相关手机短信通知以及通过手机 App 查询开户进度。&lt;/p&gt;
+&lt;h1&gt;网点验证&lt;/h1&gt;
+&lt;p&gt;当你通过手机 App 提交开户申请后，即可前往任何一间香港网点进行“现场身份验证”。为避免在分行长时间排队等候，建议在手机 App 申请审批通过后，再安排前往任何一间香港网点进行“现场身份验证”。&lt;/p&gt;
+&lt;p&gt;中国内地居民到访香港网点当日请携带有效的中国内地居民身份证原件，以及有效的往来港澳通行证（簿式或卡式）或护照原件，以及近三个月内地址证明文件原件（若有需要）。长按二维码查询香港地区网点地&lt;/p&gt;
+&lt;h1&gt;实体卡&lt;/h1&gt;
+&lt;p&gt;开户完成后，如果没有当场拿到银行卡，可以在手机 App 上去申请，顺丰到付。如果不在香港 ATM 使用的话，实体卡也没啥用。&lt;/p&gt;
+&lt;p&gt;原文可以去公众号查看，&lt;a href="https://mp.weixin.qq.com/s/eKTAewMXX6xPUpq4TpNPUg" rel="nofollow"&gt;https://mp.weixin.qq.com/s/eKTAewMXX6xPUpq4TpNPUg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:55:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033352#reply0</guid></item><item><title>[分享创造] [🎁送码] 信息订阅&amp;降噪利器 Redfeed 锐读更新了，现在支持批量订阅公众号</title><link>https://www.v2ex.com/t/1033351#reply0</link><description>&lt;p&gt;[产品介绍] &lt;/p&gt;
+&lt;p&gt;Redfeed 锐读，定位是智能时代的个人信息助手，提供信息订阅、智能过滤、AI 解读等服务，服务对信息输入效率和质量有高要求的少数人，帮忙这些可能改变世界的少数人更好的思考和创造。&lt;/p&gt;
+&lt;p&gt;官网：&lt;a href="http://www.forcecreat.com" rel="nofollow"&gt;www.forcecreat.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[如何体验] &lt;/p&gt;
+&lt;p&gt;1)访问 H5 端：微信环境打开 &lt;a href="https://read.forcecreat.com/inbox" rel="nofollow"&gt;https://read.forcecreat.com/inbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2)添加小助手体验：扫码添加企业微信小助手，然后把需要解读的文章扔给他吧。&lt;/p&gt;
+&lt;p&gt;点击查看小助手二维码： &lt;a href="https://images.redfeed.io/redfeed.jpg" rel="nofollow"&gt;https://images.redfeed.io/redfeed.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[最近更新了啥] &lt;/p&gt;
+&lt;p&gt;批量订阅公众号功能终于上线了；原计划是支持截图识别和文本识别的，最终因为图片解析耗时太久体验不好只上线了文本识别，后面优化好再支持截图解析。&lt;/p&gt;
+&lt;p&gt;[正在做啥] &lt;/p&gt;
+&lt;p&gt;正在开发一个日报生成器，希望通过内容运营小工具撬动增长。如果大家有其他 idea ，欢迎一起聊聊～
+web 端开发，已经开发了 60%，搞定日报生成器继续搞 web&lt;/p&gt;
+&lt;p&gt;[未来可能做啥] &lt;/p&gt;
+&lt;p&gt;新能力：web 端、插件、关键词订阅
+改善产品用户体验
+能帮助增长的功能&lt;/p&gt;
+&lt;p&gt;当然，我们更需要听听用户的反馈，所以搞了用户调研，欢迎有使用我们产品的同学多提一下反馈和建议（提醒：填问卷可以抽「终身免费 AI 摘要权益」彩蛋码），戳链接： &lt;a href="https://rgzvwc9ct5.feishu.cn/share/base/form/shrcnl6G4be26W2Jsk7Medv85rf" rel="nofollow"&gt;https://rgzvwc9ct5.feishu.cn/share/base/form/shrcnl6G4be26W2Jsk7Medv85rf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[送码环节] &lt;/p&gt;
+&lt;p&gt;规则：2024 年 4 月 19 日 A 股收盘后，取上证指数 小数点 前 1 位 和 后 1 位，楼层尾号跟这 2 个数字一样的朋友赠送「终身免费 AI 摘要服务」兑换码。可重复获奖。&lt;/p&gt;
+&lt;p&gt;请务必在楼层中留下你们的微信或者邮箱（ base64 ），获奖后，将在 2 个工作日内给你们发送兑换码，请留意查收邮件或微信信息。&lt;/p&gt;
+&lt;p&gt;什么是「终身免费 AI 摘要服务」：把你需要解读的文章转发给小助手，即可免费获得文章摘要内容并自动收藏，不限文章长度，只要模型支持我们就支持。每天不超过 50 篇，避免非常规使用。终身，即我们产品正常运营就可以一直使用。&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:53:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033351#reply0</guid></item><item><title>[求职] 谷歌外包高级全栈工程师， 10 年工作经验求捞[远程或者在北京]</title><link>https://www.v2ex.com/t/1033350#reply0</link><description>&lt;p&gt;1.熟悉算法工程化，例如深度学习, 传统机器学习, tensorflow, pytorch, milvus;
+2.熟悉后端开发(使用过 python, php, golang, java)，熟悉前端开发(使用过 antdesign, taro, 了解 html, css js 例如 jquery, react, vue, angular);
+3.熟悉大数据技术栈, 例如 hdfs, hive, spark, kafka, flume, hbase, hue, yarn, tidb, presto;
+4.熟悉 CI/CD(Devops), 例如 Github Actions, ci/cd pipeline on GCP, jenkins, docker, k8s;
+5.熟悉各种云计算平台, 例如谷歌云, 亚马逊云, 阿里云;
+6.熟悉图像处理技术, 了解图形学领域知识, 会 android 开发(java);&lt;/p&gt;
+&lt;p&gt;有意向请联系我：
+Phone number: Kzg2JTIwMTM4JTIwMTAxOSUyMDU3NDE=
+Email: cXE4MTUxMTc3MThAZ21haWwuY29t&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:49:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033350#reply0</guid></item><item><title>[推广] 还有需要开通虚拟信用卡的么，推一波 vCard</title><link>https://www.v2ex.com/t/1033349#reply0</link><description>&lt;p&gt;如题，类似 Dupay 、Onekey card 的虚拟信用卡，可选实体卡，可选非实名，充到钱包的 USDT 可提出。&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="https://webapp.51vcard.com/#InviteRegisterPage?inviteCode=118428" rel="nofollow"&gt;https://webapp.51vcard.com/#InviteRegisterPage?inviteCode=118428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;介绍：&lt;a href="https://low.bi/2024/04/vcard/" rel="nofollow"&gt;https://low.bi/2024/04/vcard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;成功开卡联系我，留账号返现 $5 ，瑞思拜！&lt;/p&gt;
+&lt;p&gt;附资费：
+&lt;img alt="vcard fee" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/GWtXQ0iR.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:44:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033349#reply0</guid></item><item><title>[问与答] xdm,最近面试面的咋样啊</title><link>https://www.v2ex.com/t/1033347#reply0</link><description>&lt;p&gt;最近面试频频受挫啊，有两个一面挂，有一个二面面完等待中还要对比，好难啊。 现在外面有这么多大牛吗&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:31:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033347#reply0</guid></item><item><title>[宽带症候群] 成都电信不能三拨了吗, 今天刚发现了</title><link>https://www.v2ex.com/t/1033346#reply2</link><description>&lt;p&gt;如题, 之前一直能最大三拨,今天突然不行了, 有没有一样遭遇的 v 友&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:22:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033346#reply2</guid></item><item><title>[程序员] 如何调用电脑端微信公众号搜索功能？</title><link>https://www.v2ex.com/t/1033345#reply2</link><description>&lt;p&gt;我想要的目的是：写个程序针对我的关键词，调用微信电脑端自带的浏览器打开其搜索功能搜索这个关键字，要怎么实现呢？&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:21:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033345#reply2</guid></item><item><title>[问与答] 每天需要从懂车帝上收集舆情信息，有什么办法提高效率</title><link>https://www.v2ex.com/t/1033343#reply5</link><description>&lt;p&gt;需求：手动筛选车友圈的帖子，挑选比较重要的帖子将[网址、内容、回帖数量]这些关键信息收集到 excel 表格中，整个过程非常机械无趣，有没有什么半自动化的办法，比如我挑中某个贴，可以快速的收集这个网页的某几个关键信息。
+PS：本人不懂编程，所以爬虫的方法有点困难，不知道可不可以结合 macro deck 。&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:20:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033343#reply5</guid></item><item><title>[编程] 什么是屎山代码？什么是防御性编程？</title><link>https://www.v2ex.com/t/1033342#reply0</link><description>以前说代码不好维护，指的是包依赖、库依赖、版本依赖、环境依赖等。&lt;br /&gt;&lt;br /&gt;或者是说初级程序员，经验不够多，考虑问题不够细致，分支考虑不到导致 bug 或漏洞。&lt;br /&gt;&lt;br /&gt;现在发现大家把自己看不懂的，就归到别人代码垃圾了。&lt;br /&gt;&lt;br /&gt;额，代码只要没有加密、没有混淆、没有故意取一些似是而非容易误解的名字，不都是挺好阅读理解的嘛。以前看过很多源码，NASM 的、C 的、Perl 的、PHP 的、各类框架的，看着看着总能会心一笑，理解人家哪里有疏漏、哪里有意思。&lt;br /&gt;&lt;br /&gt;真心不觉得有啥屎山啊。&lt;br /&gt;&lt;br /&gt;来位懂的同学给普及一下吧。</description><pubDate>Wed, 17 Apr 2024 09:17:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033342#reply0</guid></item><item><title>[酷工作] 国企现招数据库相关岗位（base 广、深）</title><link>https://www.v2ex.com/t/1033341#reply1</link><description>&lt;p&gt;紧急招聘以下岗位：
+数据库内核研发专家	
+数据库传输工具研发专家
+数据库平台管控研发	
+运维专家（ DBA ）	
+云数据库测试工程师	
+对标阿里 p6+至 P9(薪酬 open )&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033341#reply1</guid></item><item><title>[问与答] op 坐标杭州，咨询关于杭州的医保报销</title><link>https://www.v2ex.com/t/1033339#reply0</link><description>最近打算备孕，老婆医保卡余额还有 1800 ，其中历年 900 ，想去体检中心买套餐但是不能拍 ct 又感觉不划算，单独去医院做检查，这点钱估计检查不了什么就要自费。兄弟们有啥保险之类的省钱建议吗？目前公司都是交的最低档。</description><pubDate>Wed, 17 Apr 2024 09:12:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033339#reply0</guid></item><item><title>[分享发现] 合宙 Air780e 现在已经涨到 99 了吗，官方店铺看到的</title><link>https://www.v2ex.com/t/1033338#reply0</link><description></description><pubDate>Wed, 17 Apr 2024 09:10:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033338#reply0</guid></item><item><title>[程序员] 如何在不升级到 win11 的情况下继续更新 win10？</title><link>https://www.v2ex.com/t/1033337#reply10</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.pinimg.com/originals/82/3c/6e/823c6ef5f0dfa51b14de636380f1cdf5.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;如图，windows10 前段时间自动升级了 win11 ，我及时回退回去了。但是之后在获取 win10 更新的时候，会不过问就下载并安装 win11…我现在想继续接收 win10 的更新，但是不升级到 win11 ，有什么办法吗？&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 09:07:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033337#reply10</guid></item><item><title>[Apple] iPhone 外接镜头</title><link>https://www.v2ex.com/t/1033336#reply4</link><description>有没有适合 iPhone 使用的外接镜头？ 平时用的最多的是 3 倍、5 倍变焦，但是系统这两个焦段成像质量粗看还好，稍微放大一点就原形毕露。 如果能有一个外接镜头，接到主摄上用起来就好了</description><pubDate>Wed, 17 Apr 2024 09:06:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033336#reply4</guid></item><item><title>[分享创造] 一个或许没用的玩具——福建泉州可访问性检查 API</title><link>https://www.v2ex.com/t/1033335#reply2</link><description>&lt;p&gt;泉州网络实行高强度黑名单（也有人叫做白名单）已经有一两年，我也常常听说泉州的伙伴无法打开我的网站。今下午我在一个泉州伙伴的 Mini PC 上部署了我写的一个 PHP 脚本，然后就可以随时随地检查各种网站在泉州能不能打开。&lt;/p&gt;
+&lt;p&gt;这个 API 输出的信息是 Json 格式的，其实就仅仅是对 curl 输出的封装而已，没任何技术含量，换个写 PHP 的大佬分分钟能写出来。地址和参数如下：&lt;/p&gt;
+&lt;p&gt;地址： &lt;a href="https://api.viyf.org/check-quanzhou-whitelist.php" rel="nofollow"&gt;https://api.viyf.org/check-quanzhou-whitelist.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;请求类型：GET|POST 皆可，个人偷懒直接拼接 URL 所以只测试了 GET&lt;/p&gt;
+&lt;p&gt;以下参数皆为必选：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;需要至少两个 WAN 口&lt;/li&gt;
-&lt;li&gt;接入带宽 1500Mbps ，带机量 100 以内&lt;/li&gt;
-&lt;li&gt;不需要无线功能&lt;/li&gt;
-&lt;li&gt;最好是有 10G 光口&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Mon, 15 Apr 2024 14:47:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032767#reply3</guid></item><item><title>[分享创造] 我们做了一个极简的日历 App</title><link>https://www.v2ex.com/t/1032766#reply0</link><description>&lt;p&gt;简而言之：适合没有时间观念的人使用
-——因为里面真的没有时间，只有日期。&lt;/p&gt;
-&lt;p&gt;当然，还是有一些好玩的：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;比如形似八分割手帐的周视图&lt;/li&gt;
-&lt;li&gt;比如自动填写 Emoji 和分类&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;总之，主打一个轻松愉快，希望大家喜欢。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="二维码" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/MwELpq4Kl.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="介绍图片 1" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/02IKjFgsl.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="介绍图片 2" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/INO60ld2l.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 14:44:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032766#reply0</guid></item><item><title>[问与答] Django 还有人用吗，目前用 Python 开发 web 落伍了吗</title><link>https://www.v2ex.com/t/1032765#reply1</link><description></description><pubDate>Mon, 15 Apr 2024 14:42:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032765#reply1</guid></item><item><title>[V2EX] 关于站内的一些加密链接的问题</title><link>https://www.v2ex.com/t/1032764#reply4</link><description>请问站内某些链接和文字是用什么编码的，比如这个帖子 &lt;a href="https://v2ex.com/t/1020969#reply23" rel="nofollow noopener" target="_blank"&gt;https://v2ex.com/t/1020969#reply23&lt;/a&gt; 中的 TG 链接，一直没试出来</description><pubDate>Mon, 15 Apr 2024 14:37:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032764#reply4</guid></item><item><title>[问与答] 马上软考高级了，怎么复习哪里刷题？</title><link>https://www.v2ex.com/t/1032763#reply0</link><description>&lt;p&gt;报名了系统架构师，哪些网站或者 app 可以看考试重点大纲和刷真题、模拟题啊？ &lt;/p&gt;
-&lt;p&gt;有在考或者考过的大佬给点建议吗？&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 14:34:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032763#reply0</guid></item><item><title>[职场话题] 调薪申请，要不要把期望说明？</title><link>https://www.v2ex.com/t/1032761#reply3</link><description>&lt;p&gt;在公司呆快两年了，公司加薪要让写 PPT ，除了自己做了哪些内容之外，要在 PPT 中说明期望调薪多少吗？当然这之间肯定还会和人事聊，虽然我知道提了也基本上不会达到期望，但是我还是想在知道在 PPT 中提了好，还是不提等最后结论？&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 14:26:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032761#reply3</guid></item><item><title>[问与答] 关于开屏广告</title><link>https://www.v2ex.com/t/1032758#reply0</link><description>ios 和鸿蒙能否实现类似李跳跳的跳过广告。</description><pubDate>Mon, 15 Apr 2024 14:08:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032758#reply0</guid></item><item><title>[程序员] 请问各位有没有珍藏的 MySQL5.7 优化的配置文件？可否分享？能在 700MB 内存云机器跑的那种。我搜了些资料，凑了个配置放帖子里了，求帮忙看看</title><link>https://www.v2ex.com/t/1032757#reply2</link><description>&lt;p&gt;实测占用 200 ～ 300MB 之间，不知道还有没有更优化的配置。。。  &lt;/p&gt;
-&lt;p&gt;MySQL 这个玩意儿，应该有很多黑魔法的吧？   &lt;/p&gt;
-&lt;p&gt;要不然市面上那些 500MB 内存的小 VPS ，或者什么网站空间是怎么部署的？  &lt;/p&gt;
-&lt;p&gt;配置文件内容如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-#################################################
-# 参考链接:
-# https://stackoverflow.com/questions/60244889/how-to-decrease-mysql-container-memory-usage
-# https://github.com/alexanderkoller/low-memory-mysql
-#################################################
-
-# For advice on how to change settings please see
-# http://dev.mysql.com/doc/refman/5.7/en/server-configuration-defaults.html
-
-[mysqld]
-#
-# Remove leading # and set to the amount of RAM for the most important data
-# cache in MySQL. Start at 70% of total RAM for dedicated server, else 10%.
-# innodb_buffer_pool_size = 128M
-#
-# Remove leading # to turn on a very important data integrity option: logging
-# changes to the binary log between backups.
-# log_bin
-#
-# Remove leading # to set options mainly useful for reporting servers.
-# The server defaults are faster for transactions and fast SELECTs.
-# Adjust sizes as needed, experiment to find the optimal values.
-# join_buffer_size = 128M
-# sort_buffer_size = 2M
-# read_rnd_buffer_size = 2M
-skip-host-cache
-skip-name-resolve
-datadir=/var/lib/mysql
-socket=/var/lib/mysql/mysql.sock
-secure-file-priv=/var/lib/mysql-files
-user=mysql
-
-# Disabling symbolic-links is recommended to prevent assorted security risks
-symbolic-links=0
-
-log-error=/var/log/mysqld.log
-pid-file=/var/run/mysqld/mysqld.pid
-
-
-#### These optimize the memory use of MySQL
-#### http://www.tocker.ca/2014/03/10/configuring-mysql-to-use-minimal-memory.html
-innodb_buffer_pool_size=5M
-innodb_log_buffer_size=256K
-query_cache_size=0
-max_connections=10
-key_buffer_size=8
-thread_cache_size=0
-host_cache_size=0
-innodb_ft_cache_size=1600000
-innodb_ft_total_cache_size=32000000
-
-# per thread or per operation settings
-thread_stack=131072
-sort_buffer_size=32K
-read_buffer_size=8200
-read_rnd_buffer_size=8200
-max_heap_table_size=16K
-tmp_table_size=1K
-bulk_insert_buffer_size=0
-join_buffer_size=128
-net_buffer_length=1K
-innodb_sort_buffer_size=64K
-
-#settings that relate to the binary log (if enabled)
-binlog_cache_size=4K
-binlog_stmt_cache_size=4K
-
-#### from https://mariadb.com/de/node/579
-performance_schema = off
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Mon, 15 Apr 2024 14:05:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032757#reply2</guid></item><item><title>[程序员] tiny-frpc 项目，轻量级内网穿透客户端工具</title><link>https://www.v2ex.com/t/1032756#reply0</link><description>&lt;p&gt;轻松实现内网穿透，让资源无处不在 —— 介绍 tiny-frpc （ &lt;a href="https://github.com/gofrp/tiny-frpc" rel="nofollow"&gt;https://github.com/gofrp/tiny-frpc&lt;/a&gt; ）&lt;/p&gt;
-&lt;p&gt;你是否曾因内网资源无法公网访问而苦恼？是否在寻找一款轻量级的反向代理工具？ tiny-frpc 项目应运而生，专为低配计算机和嵌入式设备打造。&lt;/p&gt;
-&lt;p&gt;tiny-frpc 是基于 frp （ &lt;a href="https://github.com/fatedier/frp" rel="nofollow"&gt;https://github.com/fatedier/frp&lt;/a&gt; ）的极简版本，它通过 SSH 协议与 frps 通信，无需依赖 frpc 二进制文件。我们提供两种版本：native ssh 版本和 standalone 版本，前者轻量且依赖本机 SSH 程序，后者独立运行，不依赖外部 SSH 。&lt;/p&gt;
-&lt;p&gt;使用 tiny-frpc ，只需简单配置 TOML 文件，即可实现 TCP 、HTTP 服务的内网穿透。无论是测试环境还是临时需求，tiny-frpc 都能帮你快速搭建起安全、稳定的连接。&lt;/p&gt;
-&lt;p&gt;项目目前处于预览阶段，欢迎下载体验！！！&lt;/p&gt;</description><pubDate>Mon, 15 Apr 2024 14:03:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032756#reply0</guid></item><item><title>[酷工作] [吉隆坡] 有没有搞 IM 的同学看过来, 团队直招,</title><link>https://www.v2ex.com/t/1032755#reply2</link><description>主要业务场景是端对端加密聊天工具, 主要功能和使用场景对标飞书一类, 属于是企业内部使用的效率沟通工具,  &lt;br /&gt;客户端为 Flutter 后端为 Go , &lt;br /&gt;&lt;br /&gt;IM 技术负责人&lt;br /&gt;岗位职责：&lt;br /&gt;1 、负责应用系统以及社交软件技术框架设计，指导研发团队进行前后端系统开发、上线和后续版本迭代工作；&lt;br /&gt;2 、技术评估、可行性分析，数据结构设计，开发调研，用户体检优化；&lt;br /&gt;3 、负责对分布式常用技术进行开发应用，解决问题；&lt;br /&gt;4 、制定接口规范，推动自动化测试和部署，重构和优化现有技术架构；&lt;br /&gt;5 、负责项目风险的把控，指导研发团队按项目计划周期完成、把控项目进度；&lt;br /&gt;6 、负责及组织团队攻克重点技术难题，为产品实现提供技术保障；&lt;br /&gt;7 、参与各项技术管理流程的制定工作，及时响应和解决技术咨询；&lt;br /&gt;8 、有微信，钉钉，米聊，telegram ，WhatsApp 接触优先。&lt;br /&gt;&lt;br /&gt;任职要求：&lt;br /&gt;1 、计算机、软件工程及相关专业本科及以上学历；&lt;br /&gt;2 、5 年以上互联网开发经验，2 年以上大型项目架构设计经验，具有千万级以上用户的系统架构经验；&lt;br /&gt;3 、有完整 IM 产品、VOIP 通话或音视频相关经验优先，有知名上线产品的优先；&lt;br /&gt;4 、有 IM 底层框架搭建实战经验， 熟练应用分布式架构，熟悉多层架构和面向对象设计思想；&lt;br /&gt;5 、精通 SQLServer 数据库，熟悉 Lua 、Python 等脚本语言，熟悉大数据分布式；&lt;br /&gt;6 、精通网络编程，熟悉 HTTP ，TCP/IP 协议，熟悉 socket 通信、UDP/TCP/IP 、多线程，内存管理；&lt;br /&gt;7 、良好的代码规范。思维清晰敏捷，具备较强的沟通协调能力及团队合作精神；&lt;br /&gt;8 、具备良好的分析及解决问题能力，及较强的进度把控和承压能力。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;移动端开发 OR Flutter 开发工程师&lt;br /&gt;工作职责&lt;br /&gt;1.参与公司即时通讯产品的开发&lt;br /&gt;2.使用 Flutter 参与公司移动端上产品的开发&lt;br /&gt;3 、深入发掘和分析业务需求，撰写技术方案和系统设计。&lt;br /&gt;&lt;br /&gt;任职要求&lt;br /&gt;1 、拥有两个以上使用 Flutter 开发的 iOS/Android 应用程序的相关经验。有在 AppStore/Google Play 上，或者 Github 上发布的经验—&lt;br /&gt;2 、5 年以上的移动软件开发经验，了解腾讯 IM/openIM 、音视频 SDK 的优先&lt;br /&gt;3 、有 3 年以上开发 Flutter 移动应用的经验&lt;br /&gt;4 、 熟悉 Andriod kotlin 、熟悉 ios swift&lt;br /&gt;5 、有第三方库和 API 的经验—了解敏捷开发的生命周期&lt;br /&gt;6 、有自动化测试和构建的经验&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;后台开发工程师&lt;br /&gt;职位描述&lt;br /&gt;1 、参与公司即时通讯产品的开发&lt;br /&gt;2 、持续改善已有服务，优化系统薄弱点，提升系统性能和稳定性；&lt;br /&gt;3 、深入发掘和分析业务需求，撰写技术方案和系统设计。&lt;br /&gt;&lt;br /&gt;职位要求&lt;br /&gt;1 、本科及以上学历；&lt;br /&gt;2 、3 年及以上相关工作经验；了解腾讯 IM/openIM 、音视频业务的优先&lt;br /&gt;3 、具有 tob 业务经验，了解 SaaS 、PaaS 的实现和原理/具有账号体系开发经验，包括但不限于账号、权限、通讯录等相关业务/具有高并发场景的开发经验。&lt;br /&gt;4 、了解 API 网关/Service Mesh/Kubernetes 等技术，有微服务体系下的流量治理经验；&lt;br /&gt;6 、熟悉 Golang 编程语言优先；&lt;br /&gt;7 、有 IM 开发经验者优先；&lt;br /&gt;&lt;br /&gt;团队直招，非猎头，非外包。办公地址在双子塔附近，有兴趣私！详聊:)&lt;br /&gt;&lt;br /&gt;1 、 底薪 13k-28k rm ，这个看能力，没有上限, 中国人的话直接发税后 RMB (马币 * 1.5)&lt;br /&gt;2 、 每年有 14 天带薪休假, 春节会放 14 天(但是会需要排电话值班, 保证电话畅通就行)&lt;br /&gt;3 、 提供一日三餐餐食；&lt;br /&gt;4 、 提供住宿补贴 400$，通勤补贴 100$&lt;br /&gt;5 、 另外员工海外旅游、员工体检，员工定期球类运动、 节日福利抽奖高额奖品等；&lt;br /&gt;6 、 一年两次调薪机会、年终奖（看工作表现给予 13-16 薪）、生日礼金 1000 rm ；&lt;br /&gt;7 、 技术分享会，办公室零食和饮料、提供基本生活用品、部门每月都有 1-2 次团队建设，每人每月有 50$ 的团建费用。&lt;br /&gt;8 、 公司会为转正员工办理专业人士工作签证 ，为员工承担办理费用。- 国内员工转正前可以先远程, 待转正后办理签证,&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;面试:&lt;br /&gt;两轮面试+一轮 HR, 有算法题, 当天反馈结果&lt;br /&gt;&lt;br /&gt;email: ZG90YWVyLm9vb0BnbWFpbC5jb20=</description><pubDate>Mon, 15 Apr 2024 13:57:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1032755#reply2</guid></item></channel></rss>
+&lt;li&gt;protocol：协议，取值 http 或 https&lt;/li&gt;
+&lt;li&gt;domain：要测试的域名/IP 地址&lt;/li&gt;
+&lt;li&gt;port：端口，介于 1 到 65535 之间的整数，目标网站服务器的端口，常见的端口，http 是 80 ，https 是 443&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;返回值：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;error_code: curl 错误码，如果漏参数或者提交了非法参数，它会出现不可预知的代码🤪🤪🤪&lt;/li&gt;
+&lt;li&gt;error_message: curl 发生错误时的详细信息，如果漏参数或者提交了非法参数，它会出现不可预知的消息🤪🤪🤪&lt;/li&gt;
+&lt;li&gt;http_code: HTTP 状态代码，200 、301 、302 、403 、404 、500 、502 、504 之类&lt;/li&gt;
+&lt;li&gt;title: 网站的标题，直接取 HTML 中的 title 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;注意，由于这是个玩具，我不知道什么时候会取消这个 API ，或者什么时候改变地址，所以你们玩玩就好。&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 08:59:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033335#reply2</guid></item><item><title>[问与答] gpd 定位需要依赖运营商网络吗？</title><link>https://www.v2ex.com/t/1033334#reply5</link><description>&lt;p&gt;为什么 apple watch 不连接手机也可以使用 gps&lt;/p&gt;
+&lt;p&gt;但是一些车载定位系统需要搭配专用流量卡？&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 08:55:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033334#reply5</guid></item><item><title>[程序员] 新疆 ip 机场用户今天全部被阻断连接了？</title><link>https://www.v2ex.com/t/1033332#reply1</link><description>根据多个消息 今天各线路全部无法连接 群里有讨论说是新疆 ip 被 gfw 反向墙了 目前只有 cloudflare zero trust 可以勉强使用 有人知道是什么情况吗</description><pubDate>Wed, 17 Apr 2024 08:50:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033332#reply1</guid></item><item><title>[Next.js] next.js 14 中，如果使用了 server action，怎么 reset form</title><link>https://www.v2ex.com/t/1033331#reply6</link><description>&lt;p&gt;我看了一些解决方法，把它转成 use client ，然后就可以用 ref.current?.reset()&lt;/p&gt;
+&lt;p&gt;如果不改成用 use client ，还是 use server 的 action ，怎么重置 form 呢？&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 08:47:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033331#reply6</guid></item><item><title>[投资] 2 家信用贷置换</title><link>https://www.v2ex.com/t/1033330#reply0</link><description>&lt;p&gt;RT&lt;/p&gt;
+&lt;p&gt;当前 有个 3.7 的 某 x 信用贷，还了一年了。
+现在 有个 3.0 的 某 y 信用贷。&lt;/p&gt;
+&lt;p&gt;QA ，置换下，有操作经验 or 有啥风险，谢谢。&lt;/p&gt;</description><pubDate>Wed, 17 Apr 2024 08:45:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1033330#reply0</guid></item></channel></rss>
