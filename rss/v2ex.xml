@@ -1,121 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 21 Apr 2024 02:02:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 同时包含文字和图片的内容,如何只复制一次,即可粘贴到微信的聊天窗口?</title><link>https://www.v2ex.com/t/1034307#reply0</link><description>&lt;p&gt;如题,我有一个个人网页,其中包含一段文字,和一张名为 abc.jpg 的图片.
-如何只复制一次,就能把这个图片和文字,都粘贴到我的微信聊天窗口呢?&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034307#reply0</guid></item><item><title>[iPad] 有 iPad 手写笔平替吗？</title><link>https://www.v2ex.com/t/1034306#reply0</link><description>&lt;p&gt;2 代手写笔被饿死了，根本充不了电，过保也不知道去哪里维修，求一款价格比较划算的平替 可以手写记笔记就可以。&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:24:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034306#reply0</guid></item><item><title>[问与答] cdn 问题想请教：知道一个 cdn 的地址，但是不知道具体的文件路径，要怎样能把 cdn 里面的文件全部爬下来</title><link>https://www.v2ex.com/t/1034305#reply2</link><description>&lt;p&gt;（前提是这个 cdn 并没有开鉴权）
-如果我知道一个 cdn 的地址，但是不知道具体的文件路径，我要怎样能把 cdn 里面的文件全部爬下来
-比如我知道： &lt;a href="https://file.ljcdn.com" rel="nofollow"&gt;https://file.ljcdn.com&lt;/a&gt;
-但我并不知道具体的文件路径是：/bigc-file2cdn/deyouLife/1571648087896.pdf&lt;/p&gt;
-&lt;p&gt;感谢各位吴彦祖刘亦菲&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:16:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034305#reply2</guid></item><item><title>[互联网] 大家有在网上配眼镜么，有什么店铺可以推荐？</title><link>https://www.v2ex.com/t/1034304#reply2</link><description>&lt;p&gt;时常有看到 v 友在网上配镜，大家都是去哪里的？&lt;/p&gt;
-&lt;p&gt;pdd ？ smzdm 上推荐的 jd 第三方都是商家在自推，感觉和 pdd 也没有什么区别&lt;/p&gt;
-&lt;p&gt;大家有什么推荐的么？先谢谢了&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/14/z36OKu2WtXS1Ny5.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:13:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034304#reply2</guid></item><item><title>[程序员] chrome ui 禁用 customize-chrome-side-panel 后 favicon 上移</title><link>https://www.v2ex.com/t/1034303#reply0</link><description>因为不喜欢 chrome 新 ui ，参考 &lt;a href="https://www.v2ex.com/t/1025622" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1025622&lt;/a&gt; 帖子&lt;br /&gt;禁用 customize-chrome-side-panel 后恢复旧主题，结果昨天发现 favicon 上移，重启恢复无效&lt;br /&gt; &lt;a href="https://i.imgur.com/DGnptfZ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DGnptfZ.png" /&gt;&lt;/a&gt;&lt;br /&gt; 有没有解决办法能在评论区说下，感谢</description><pubDate>Sun, 21 Apr 2024 01:09:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034303#reply0</guid></item><item><title>[健康] 差点挂了</title><link>https://www.v2ex.com/t/1034302#reply7</link><description>&lt;p&gt;可能有些标题党了，但我刚刚真的觉得我怕不是要折了。。。&lt;/p&gt;
-&lt;p&gt;刚刚坐在椅子上，伸手去捡地上的东西，右手手臂根部扭了一小下，有点痛(是那种内痛，但其实也没感觉有多扭到，但就是痛了一小会。也没有特别痛，但比这个手伸到椅子下这个行为预期的痛感要稍微强一些，也要持久一些)，坐在椅子上扭几下手臂想缓一缓，结果感觉有贫血的感觉，越来越强烈，脑袋放空，身体没甚么力气，眼睛出现雪花，视野缩窄(不是变黑，而是单纯的看不太见，很难描述，反正就是很难看见东西但视野没变黑)，然后感觉有点恶心，有喘不上气的感觉，我感觉不太妙，有种之前运动过度，喘不上气，感觉恶心，感觉好象要死了的感觉，不是初中时正常运动的喘，而是上大学多年不运动后骑完脚踏车忽然停下来的那种喘不上气。很担心是不是要猝死了...&lt;/p&gt;
-&lt;p&gt;我觉得不妙，就颤颤巍巍的从椅子上爬回床上躺下来，耳朵开始耳鸣，有很明显的嗡嗡叫，浴室里的抽风机的噪声很明显的变小了。我躺在床上尝试稳定心跳，不过我没有感觉心律不整。&lt;/p&gt;
-&lt;p&gt;躺在床上一会之后，耳鸣消失了，那种贫血的感觉减少了，也喘的上气了，我又缓了一会儿，然后从床上起来，站在地上，又有了贫血的感觉，不过这种感觉是常见的站起来的贫血感，可能大约 10-20 秒左右就渐渐恢复视力了，脑袋也不会感觉很怪了。&lt;/p&gt;
-&lt;p&gt;右手靠近嘎吱窝那边有一点点拉伤的感觉。&lt;/p&gt;
-&lt;p&gt;坐下来想了想，心里有些后怕，肯定得做做身体检查之类的。&lt;/p&gt;
-&lt;p&gt;忽然想到我好象应该测一下心律和血氧，不过很可惜，刚刚手上没有带手环，我是等状况好很多，甚至是写完刚刚那上面那堆东西之后才想起来要测血氧的。结果是 95-97%，心律大约是 75-80&lt;/p&gt;
-&lt;p&gt;如果你要问我最近的作息的话，那确实是相当奇怪了。差不多每天都是凌晨 4-5 点睡，这学期没有早课，所以基本中午 11 点左右起床。今天因为是假日，我是下午 1 点左右起床的，昨晚因为有一只大飞蛾非到我房间里面，我不太敢睡... 那隻飞蛾后来飞到浴室里面，我就赶紧把门关了假装它不存在... (然后那只飞蛾就不见了，浴室里再也没看到，房间里也没看到，我浴室的门下方有漏缝所以其实那只飞蛾可以从那边钻出来。我用纸箱稍微堵了一下，但可能有漏缝。我把牙刷拿出来了，但漱口杯没有)&lt;/p&gt;
-&lt;p&gt;把上面写的那串东西丢给 chatGPT ，居然就回了个"听起来挺吓人的。"，就离谱。这 chatGPT 200%是变傻了。
-bing 跟我说有可能是血压有问题。llama3 8b instruct 说是过度呼吸或者血管迷走性晕厥，反正跟血压有关。llama3 70b 和 claude sonnet 也说是血压。
-因为我的小米手环只能测心率和血氧，我就上亚马逊买了个血压仪，但就算我是高贵的 prime 会员，最快也要两天后才能送到。查了一下附近的药店买同样的血压仪价格直接翻倍，就离谱。 &lt;/p&gt;
-&lt;p&gt;但高血压低血压这种事不是大多数发生在中老年吗？我不懂呀，我 tm 只是个才 20 岁出头的大学牲啊。不健身不抽烟不喝酒不吸毒，压力低吃的多作息混乱... 几年前做健检的时候是有查处过一次心率比正常人稍微慢那么一丢丢，但应该不是大问题...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/V5GR35W.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NLO37wB.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xA0yGKx.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xacOJTh.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/K8nTNIq.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:08:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034302#reply7</guid></item><item><title>[程序员] 阿里云 OSS 可以套一层 cloudflare 的 cdn 实现海外访问吗？</title><link>https://www.v2ex.com/t/1034301#reply5</link><description>&lt;p&gt;有大概 2T 的图片，想同时实现国内和海外用户的浏览和下载，国内和海外的访问量是差不多的，请问下面两种方式哪种更合理一些？我对 cloudflare 还是久仰大名的状态，没有实际使用过...&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 21 Apr 2024 21:13:01 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenAI] AI 影片读唇？</title><link>https://www.v2ex.com/t/1034457#reply0</link><description>&lt;p&gt;请问有没有 AI 可以线上辨识被消音的人声视频（视频读唇）的服务？
+我是有看到几个 github 项目，但是有没有已经可以实际运行的？&lt;/p&gt;
+&lt;p&gt;（原由是我拍了一些访问视频，麦克风出问题，全部被消音，只看到人说话嘴在动）&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 18:18:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034457#reply0</guid></item><item><title>[酷工作] 有没有对 Google search console 熟悉的人</title><link>https://www.v2ex.com/t/1034452#reply0</link><description>有没有对 Google search console 熟悉的人&lt;br /&gt;可以兼职帮我网站做一些优化提升 google search 的排名.&lt;br /&gt;&lt;br /&gt;有的话可以联系我, 最好是上海</description><pubDate>Sun, 21 Apr 2024 16:40:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034452#reply0</guid></item><item><title>[问与答] 哪位大神知道如何去背景？</title><link>https://www.v2ex.com/t/1034451#reply3</link><description>&lt;p&gt;rembg 处理得不是很好。&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://remove.bg" rel="nofollow"&gt;remove.bg&lt;/a&gt; 费用又比较高。&lt;/p&gt;
+&lt;p&gt;哪位大神能介绍一些方案或者便宜服务。
+谢谢先&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 16:23:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034451#reply3</guid></item><item><title>[职场话题] 在接到口头 offer 后，应该从哪些因素去判断？</title><link>https://www.v2ex.com/t/1034450#reply1</link><description>&lt;p&gt;如题，一番鏖战后也是拿到个感觉还不错的 offer ，只不过是口头通知，允许给点时间思考下。看了下网上风评也相当可以，但终究要到切身体会的那一刻才知真假，所以还是在犹豫。
+本人现有的流程不是刚开始，就是久久没有下文，之前拒掉的 offer 相较这个差距极大，所以也不知道怎么对比了。所以想问下各位过来人，应该从什么角度去考虑，才能得出比较踏实的结果？还是说先接了再说？&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 16:19:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034450#reply1</guid></item><item><title>[程序员] 远程在家办公，提高效率和生活质量的装备？</title><link>https://www.v2ex.com/t/1034448#reply0</link><description>目前已知的或者已有的：&lt;br /&gt;&lt;br /&gt;1. 升降桌子，坐太久真的不好，今天去宜家体验了一下，即使不是站着工作，也可以调节一个很好的坐姿位置&lt;br /&gt;2. 多屏这种就不用说了，配置一个屏幕鼠标切换器 mux ，台式和笔记本可以方便切换屏幕，主要切换 linux 和 windows 屏幕&lt;br /&gt;3. 强制屏保息屏软件+路由器自动关机，控制自己的作息，早睡，不乱刷手机&lt;br /&gt;4. 水栽绿萝，桌子上和墙壁挂了很多的水培绿萝，增加室内的湿度，和氧气浓度&lt;br /&gt;5. 瑜伽垫+跳绳一条， 简易健身套装&lt;br /&gt;6. 泡茶器皿，提神用的&lt;br /&gt;&lt;br /&gt;不知道其他 v 友 有什么好的其他的推荐？</description><pubDate>Sun, 21 Apr 2024 16:07:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034448#reply0</guid></item><item><title>[Web3] 程序员在 crypto/web3 中有哪些优势/机会？</title><link>https://www.v2ex.com/t/1034445#reply1</link><description>&lt;p&gt;总感觉程序员在 crypto/web3 的圈子里面会有一些优势&lt;/p&gt;
+&lt;p&gt;比如说自动交易，套利，监控链上信号之类的&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 15:22:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034445#reply1</guid></item><item><title>[音乐] 有什么比较舒缓好听的歌曲吗？</title><link>https://www.v2ex.com/t/1034444#reply0</link><description>&lt;p&gt;最近偶然发现一首歌曲张真的《携手游人间》，感觉很适合现在的心境，比较舒缓。想到应该有不少这种比较舒缓，不适合歌手在舞台上翻唱，但淡淡的很有感觉的歌。有的话麻烦推荐几首，先谢谢了。&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 15:22:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034444#reply0</guid></item><item><title>[问与答] 求推荐验证码短信平台</title><link>https://www.v2ex.com/t/1034443#reply2</link><description>&lt;p&gt;如题，发送类似于 [签名] 你的验证码是 123456 ，这样的验证码登录注册短信，要求签名免审免实名，就只发验证码短信，我知道国内有很多大厂都可以发，但是无法免审免实名。请求大家给推荐推荐，费用比国内的平台高是可以接受的。&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 15:21:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034443#reply2</guid></item><item><title>[问与答] 最近想买个小主机，装个 esxi，跑一些家庭服务，想问一下大家畅网 P5 如何</title><link>https://www.v2ex.com/t/1034442#reply8</link><description>装 esxi&lt;br /&gt;跑 Ubuntu 、软路由、文件服务器、远程 win10&lt;br /&gt;想问问大家畅网 P5 如何，N100 的处理器应该是够用的 ，而且外观迷你耐看，但网上的评测很少，想问问有没有哪位老哥用过给点建议</description><pubDate>Sun, 21 Apr 2024 15:14:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034442#reply8</guid></item><item><title>[宽带症候群] 有没有类似 headscale 但无需专用服务器的东西？</title><link>https://www.v2ex.com/t/1034441#reply6</link><description>现有的各种方案，比如 zerotier moon, headscale 都需要自建一个中心化的服务来实现客户端的信息交换和转发。但其实客户端可以不通过中心服务器的.&lt;br /&gt;&lt;br /&gt;信息交换可以利用 irc/xmpp/mqtt 机器人， 这样利用公共资源就能做到信息交换&lt;br /&gt;&lt;br /&gt;包转发也可以先利用公共的 stun 来打洞，实在打不通才走 turn&lt;br /&gt;&lt;br /&gt;所以中心化的服务不可缺少的就是一个 turn 服务而已，其他都功能都可以被公共资源 offload ，如果客户端不是对称 nat 的话根本就不需要中心服务器的存在。&lt;br /&gt;&lt;br /&gt;现在有这种方案吗？</description><pubDate>Sun, 21 Apr 2024 15:10:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034441#reply6</guid></item><item><title>[macOS] mac os 如何安装一个新的虚拟网卡</title><link>https://www.v2ex.com/t/1034439#reply1</link><description>&lt;p&gt;我希望创建一个新的虚拟网卡，网卡通过 wifi 连接到路由器
+然后原始网卡网关是 A ，虚拟网卡的网关是 B
+（ A 是一个正常路由器的网关，B 是一个 openwrt 的软路由的网关）
+A 和 B 是一个网段的，A 和 B 都可以各自正常通讯
+各位大佬有什么方法吗？&lt;/p&gt;
+&lt;p&gt;我试了试 tunnebrick ，似乎没有什么好的教程。&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 15:02:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034439#reply1</guid></item><item><title>[iPhone] iPhone 版 word 收费么？我看有一堆内购</title><link>https://www.v2ex.com/t/1034437#reply1</link><description>我只用 iPhone 阅读 word 文件</description><pubDate>Sun, 21 Apr 2024 14:56:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034437#reply1</guid></item><item><title>[C++] 学习 QT，尝试链接静态库，但怎么都链接不上，请教一下大佬们这是怎么回事</title><link>https://www.v2ex.com/t/1034435#reply4</link><description>&lt;p&gt;QT creator 12.0.2
+Based on QT 6.6.0
+windows 10&lt;/p&gt;
+&lt;p&gt;windows git bash 输出的各个文件名
+test 是自己的测试用的静态库
+target 是可执行文件项目
+libtest.a 已经生成了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[pj]$ ls target/*
+target/main.cpp  target/target.pro  target/target.pro.user  target/widget.cpp  target/widget.h  target/widget.ui
+[pj]$ ls test/*
+test/test.cpp  test/test.h  test/test.pro  test/test.pro.user  test/test_global.h
+[pj]$ ls build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/*
+build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Makefile        build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Makefile.Release
+build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Makefile.Debug
+
+build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/debug:
+libtest.a  test.o
+
+build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/release:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;以下是 &lt;a href="http://test.pro" rel="nofollow"&gt;test.pro&lt;/a&gt;, 我加了&lt;code&gt;CONFIG += staticlib&lt;/code&gt;，现在在&lt;code&gt;build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/debug&lt;/code&gt;下只会生成 libtest.a ，不会生成 test.dll&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;QT -= gui
+
+TEMPLATE = lib
+DEFINES += TEST_LIBRARY
+
+CONFIG += c++17
+
+# You can make your code fail to compile if it uses deprecated APIs.
+# In order to do so, uncomment the following line.
+#DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
+
+SOURCES += \
+    test.cpp
+
+HEADERS += \
+    test_global.h \
+    test.h
+
+CONFIG += staticlib
+# Default rules for deployment.
+unix {
+    target.path = /usr/lib
+}
+
+!isEmpty(target.path): INSTALLS += target
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我在默认的 &lt;a href="http://target.pro" rel="nofollow"&gt;target.pro&lt;/a&gt; 中添加了如下内容用来链接 libtest.a&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;win32: LIBS += -L$$PWD/../build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/debug/ -ltest
+
+INCLUDEPATH += $$PWD/../test
+DEPENDPATH += $$PWD/../test
+
+win32:!win32-g++: PRE_TARGETDEPS += $$PWD/../build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/debug/libtest.a
+else:win32-g++: PRE_TARGETDEPS += $$PWD/../build-test-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/debug/libtest.a
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;main.cpp&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#include "widget.h"
+#include "test.h"
+#include &amp;lt;QApplication&amp;gt;
+
+int main(int argc, char *argv[])
+{
+    Test t;
+    t.print();  // print 是 test 的 public 函数，用 qDebug 输出函数名
+
+    QApplication a(argc, argv);
+    Widget w;
+    w.show();
+    return a.exec();
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;编译报错 undefined reference, 应该是链接不到 libtest.a：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:-1: error: debug/main.o: in function `qMain(int, char**)':
+D:\Qt\pj\target\main.cpp:7: error: undefined reference to `__imp__ZN4TestC1Ev'
+:-1: error: D:\Qt\pj\build-target-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/../target/main.cpp:8: undefined reference to `__imp__ZN4Test5printEv'
+:-1: error: collect2.exe: error: ld returned 1 exit status
+:-1: error: [Makefile.Debug:72: debug/target.exe] Error 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;不知道我是不是少了什么设置&lt;/p&gt;
+&lt;p&gt;如果以上描述不到位，这是两个项目的文件。先构建 test ，后运行 target
+&lt;a href="https://drive.google.com/file/d/1FxtwscpdG9Atj2-YnAnR-CCKcmIwx0P7/view?usp=drive_link" rel="nofollow"&gt;https://drive.google.com/file/d/1FxtwscpdG9Atj2-YnAnR-CCKcmIwx0P7/view?usp=drive_link&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 14:46:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034435#reply4</guid></item><item><title>[HomePod] HomePod Mini 突然变砖</title><link>https://www.v2ex.com/t/1034432#reply1</link><description>放在卧室沙发旁边，用的不多。今天过去刷手机发现 no response 无响应，手摸了一下发烫。&lt;br /&gt;&lt;br /&gt;拔了电源线再插上去，屏幕不亮，全无反应了，连电脑也没反应。&lt;br /&gt;&lt;br /&gt;网上看了一下，大概率是主板挂了，修一下 200+来回运费....&lt;br /&gt;&lt;br /&gt;我直接把尸体卖给维修商家了，用的太少了。&lt;br /&gt;&lt;br /&gt;RIP 21 年 1 月-24 年 4 月</description><pubDate>Sun, 21 Apr 2024 14:26:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034432#reply1</guid></item><item><title>[OpenAI] 稳定 GPT4 Claude3，企业 API 链路中转，直连 Azure , AWS，支持函数调用和高并发</title><link>https://www.v2ex.com/t/1034431#reply0</link><description>&lt;a href="http://api.kksj.org" rel="nofollow noopener" target="_blank"&gt;api.kksj.org&lt;/a&gt;&lt;br /&gt;企业 api 链路中转，百分之百稳定性&lt;br /&gt;支持 GPT 全模型，直连 azure&lt;br /&gt;支持 claude3 全模型，直连 AWS &lt;br /&gt;最新支持 gpt-4-turbo-2024-04-09 模型，直连 openai&lt;br /&gt;支持 suno-v3,dalle3,tts 等模型&lt;br /&gt;充值最低九毛一刀</description><pubDate>Sun, 21 Apr 2024 14:23:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034431#reply0</guid></item><item><title>[职场话题] 软件质量管理</title><link>https://www.v2ex.com/t/1034430#reply0</link><description>&lt;p&gt;测试转型质量管理有前途吗？上次因为英语问题错失了 23k 的 offer ，感觉我做功能测试是拿不到这么多的&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 14:16:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034430#reply0</guid></item><item><title>[程序员] IOT 系统 MQTT 协议有必要将设备 id 放在 topic 里吗</title><link>https://www.v2ex.com/t/1034426#reply7</link><description>&lt;p&gt;放：1W 台设备的话可能就有 1~3 万个 topic 在 broker 运行，一般 4H16G 的 linux 服务器撑不撑得住？&lt;/p&gt;
+&lt;p&gt;不放：只设两个 topic ，down 和 up, 设备 id 放在载荷里，但是每次单点发布时，其实会给所有设备都发送一遍，pps 撑不撑得住，通讯模块是否会接受到很多无用信息，影响处理性能？&lt;/p&gt;
+&lt;p&gt;还有一个群发的应用场景，请问如何实现最好。（无网关，目前采用的是遍历发送）&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 14:01:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034426#reply7</guid></item><item><title>[Apple] 现在是不是不能通过 itunes 下载旧版本 app 了？</title><link>https://www.v2ex.com/t/1034420#reply3</link><description>&lt;p&gt;之前一直用 12.3.6 版本的 itunes 通过抓包的方式下载旧版本的 app ，这几天发现 itunes 貌似已经不能下载 app 的安装文件到电脑上了，尝试下载任何 app 都是 0x80090302 错误，持续好多天了一直是这样。请问还有没有什么别的管道能下载到旧版本的 app 吗?&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 13:16:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034420#reply3</guid></item><item><title>[SSL] 关于昨天淘宝证书过期</title><link>https://www.v2ex.com/t/1034418#reply5</link><description>&lt;p&gt;先放上昨天淘宝证书过期的讨论： &lt;a href="https://www.v2ex.com/t/1034182" rel="nofollow"&gt;https://www.v2ex.com/t/1034182&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;今天本想搜搜有关证书过期造成的事故，结果找到：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/327787" rel="nofollow"&gt;https://www.v2ex.com/t/327787&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/411520" rel="nofollow"&gt;https://www.v2ex.com/t/411520&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/411522" rel="nofollow"&gt;https://www.v2ex.com/t/411522&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.v2ex.com/t/510384" rel="nofollow"&gt;https://www.v2ex.com/t/510384&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;所以它这次的过期，到底是提前更换部署了但因为各种各样的缓存问题导致部分用户被过期证书威胁，还是的确就是过期了才马上补救？我发现被影响后十分钟左右就恢复了，很难相信是巧合，所以这个"恢复"更可能是阿里的操作还是我的运营商的操作？&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Certificate chain
+ 0 s:C = CN, ST = ZheJiang, L = HangZhou, O = "Alibaba (China) Technology Co., Ltd.", CN = taobao.com
+   i:C = BE, O = GlobalSign nv-sa, CN = GlobalSign Organization Validation CA - SHA256 - G3
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  8 03:36:05 2024 GMT; NotAfter: May 10 03:36:04 2025 GMT
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 21 Apr 2024 12:54:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034418#reply5</guid></item><item><title>[SSL] win-acme 自动续期 SSL 证书及上传 WAF</title><link>https://www.v2ex.com/t/1034417#reply0</link><description>&lt;h2&gt;前情提要&lt;/h2&gt;
+&lt;p&gt;之前在 V2EX 咨询过阿里云免费 SSL 证书的替代方案（ &lt;a href="https://v2ex.com/t/999627" rel="nofollow"&gt;https://v2ex.com/t/999627&lt;/a&gt; ），考虑到阿里云服务器目前的操作系统是 Windows Server 2012 ，所以基于 Linux 或者 Docker 的方案就都 pass 了。&lt;/p&gt;
+&lt;p&gt;再考虑到自动化更新 SSL 证书的需求，所以在经过一番调研之后，最终确定使用 win-acme （ &lt;a href="https://www.win-acme.com/" rel="nofollow"&gt;https://www.win-acme.com/&lt;/a&gt; ）来完成这一工作。因为虽然 Caddy 也能完成这项工作，但是还需要把在 IIS 中配置好的网站再重新配置一遍，还不知道会有什么新问题。本着尽量不要增加复杂度的理念，所以就没有采用 Caddy 。&lt;/p&gt;
+&lt;p&gt;由于网站前面还有一层阿里云 WAF （ Web 应用防火墙），各网站的流量都是先由 WAF 检查一遍，过滤掉非法请求之后，才能最终到达服务器。而要使用 WAF 的话，各域名的 DNS 都是解析到 WAF 的地址上的，这也给后面的工作和问题排查带来了一些问题，不过这是后话了。&lt;/p&gt;
+&lt;h2&gt;基本流程测试&lt;/h2&gt;
+&lt;p&gt;把 win-acme 下载并解压到服务器上之后，运行程序，按照网上的教程一步步操作。为了不影响现有各域名上的业务，在阿里云服务器的 IIS 上配置了一个新的域名，并且在阿里云 WAF 里面接入了这个二级域名。&lt;/p&gt;
+&lt;p&gt;按照教程的操作步骤，成功用 win-acme 申请到了这个二级域名的 SSL 证书，但是默认步骤只会生成一个 Windows IIS 所需的 pfx 格式的证书。如果要让阿里云 WAF 能够正常过滤 HTTPS 流量，还需要上传证书和对应的私钥到阿里云的数字证书管理服务中，然后在阿里云 WAF 的网站接入设置中选择所上传的证书才行。这样一来，还需要让 win-acme 生成 PEM 格式的证书和私钥。&lt;/p&gt;
+&lt;p&gt;所以基础流程就是：申请证书 → 保存 PFX 格式证书 → 保存 PEM 格式证书。&lt;/p&gt;
+&lt;h2&gt;配置阿里云 WAF&lt;/h2&gt;
+&lt;p&gt;在用 win-acme 给各个域名申请证书的时候，在验证域名所有权的那一步，有的域名能够验证成功，有的域名就总会失败。考虑到 IIS 上各个域名的配置是一样的，又看了一下 DNS 解析也是一样的格式，那应该就是阿里云 WAF 的问题了。&lt;/p&gt;
+&lt;p&gt;对比之后发现，有的域名在阿里云 WAF 的配置中同时勾选了 HTTP 和 HTTPS 协议，但是有的只勾选了 HTTPS 协议。对于只勾选了 HTTPS 协议的域名，有的还没有开启 HTTP 到 HTTPS 的强制跳转。&lt;/p&gt;
+&lt;p&gt;加上域名的 DNS 解析是指向阿里云 WAF 的，于是猜测是 WAF 这里的设置导致了域名所有权的验证失败。于是给全部域名的 WAF 配置都同时勾选了 HTTP 和 HTTPS 协议，并且禁止了 HTTP 到 HTTPS 的强制跳转，这个时候，各个域名的所有权验证终于都能通过了。&lt;/p&gt;
+&lt;h2&gt;Debug 阿里云 Cli&lt;/h2&gt;
+&lt;p&gt;有了 win-acme ，SSL 证书的自动续期就搞定了。但是证书每次续期之后，还需要再把新的证书上传到阿里云的数字证书管理服务中，然后在阿里云 WAF 的网站接入设置中更新证书。既然是 Windows 系统，那就用 PowerShell 写个脚本来实现这个操作好了。&lt;/p&gt;
+&lt;p&gt;而上面的需求需要调用阿里云的 API ，如果想要用脚本来实现这一功能，就还要用到阿里云 Cli 。在配置阿里云 Cli 的用户凭证时，AccessKey 凭证和 EcsRamRole 凭证方式一开始都有问题，最后把之前的配置信息都删了，新建了一个具有 &lt;code&gt;管理云盾应用防火墙（ WAF ）的权限&lt;/code&gt; 的用户，然后用该用户的 AccessKey 才终于成功调用了阿里云的 API 。&lt;/p&gt;
+&lt;h2&gt;Debug PowerShell&lt;/h2&gt;
+&lt;p&gt;在测试阿里云 API 的调用时，还遇到了一个有些隐蔽的问题，就是在阿里云的 OpenAPI 平台上测试接口调用的时候是没问题的，但是在 PowerShell 脚本中调用就是有问题。到了最后把两种方式的完整命令复制出来对比，才发现 PowerShell 的 &lt;code&gt;Get-Content&lt;/code&gt; 命令读取到的 SSL 证书和私钥的文本，换行符都没了，这尼玛！&lt;/p&gt;
+&lt;p&gt;解决了这个问题后，续期后的新证书和私钥自动上传至阿里云并在 WAF 中更新的功能也就实现了，以后这项工作就不需要自己再手动操作了。&lt;/p&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;p&gt;最后再说一下完整的流程和注意事项吧。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;2T 图片存储在阿里云 OSS ，套一层 cloudflare 的 cdn 实现海外访问&lt;/li&gt;
-&lt;li&gt;2T 图片存储在 cloudflare 的 R2 中，套一层阿里云的 DCND 实现国内访问&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 21 Apr 2024 01:04:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034301#reply5</guid></item><item><title>[问与答] 试了一圈 AI 工具,还是 lobe chat 最好使哈</title><link>https://www.v2ex.com/t/1034300#reply1</link><description>&lt;p&gt;只有他和官网回答"微软今天的股价?"是正确的...希望作者也改个收费版哈&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:01:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034300#reply1</guid></item><item><title>[Spotify] Spotify 尼日利亚区补一位， 4 元每月</title><link>https://www.v2ex.com/t/1034298#reply1</link><description>全球可用，仅加入家庭组可能需要尼日利亚节点，我这边可以提供一下，4 元每月，季付吧，vx:lujiang1018</description><pubDate>Sun, 21 Apr 2024 00:56:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034298#reply1</guid></item><item><title>[分享发现] 我在北美无法注册新的 QQ 号，旧的也无法找回了，现在需要用 QQ，这里在国内的朋友帮我注册一个，或者卖我一个也行，拜托拜托，谢谢各位哥哥姐姐，弟弟妹妹们，帮帮孩子吧😭</title><link>https://www.v2ex.com/t/1034294#reply14</link><description>&lt;p&gt;我在北美无法注册新的 QQ 号，旧的也无法找回了，现在需要用 QQ ，这里在国内的朋友帮我注册一个，或者卖我一个也行，拜托拜托，谢谢各位哥哥姐姐，弟弟妹妹们，帮帮孩子吧😭
-如果有卖的可以先邮箱联系 &lt;a href="mailto:reginaxia062@gmail.com"&gt;reginaxia062@gmail.com&lt;/a&gt;
-昨天在 Google 搜卖 QQ 的商家，提供的微信，加的时候提示什么诈骗号，给我的微信也整封锁了！！！！郁闷了&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 00:03:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034294#reply14</guid></item><item><title>[程序员] 一个身患重度血友病的残疾人开的科技公司，专注软件定制开发与同声传译软件飞鸟译</title><link>https://www.v2ex.com/t/1034292#reply8</link><description>大家好，我是李守聪，思来想去，我觉得还是要把这个惊天的秘密告诉大家，我是一名重度血友病患者，体内缺少凝血因子八，这是一种血液疾病，主要症状是凝血较慢，是伴 x 隐性遗传。也就是说，我的 x 性染色体上有血友病的致病隐性基因。从遗传的角度看，我的后代儿子是完全健康的，因为我给我的儿子 Y ，女儿携带致病基因，但是不发病。目前这个疾病需要输入凝血八因子的药物，有药可治疗，但是目前无法根治，我的两个胳膊，还有左腿已经因为之前经济条件不好，没钱买药，后来关节长期肿大，关节变形。当时我 5 岁，长期在家，无法和普通的同学们一样，去外面玩，但是幸运的是，我的爸爸妈妈没有放弃我，妈妈从小学到高中，背我上学，12 年。爸爸下岗后，四处打零工补贴家用。不知道各位有没有体验过，鼻子自发流血、晚上胳膊疼腿疼整宿睡不着觉，得找个合适的姿势睡觉，早上起来凝固的血块早已堵满了喉咙，拉的也是血块，早上把喉咙的血块从嗓子眼吐出来的感觉是什么样的。但是那时候的我坚信，总有一天，我流过的血会变成我通往成功路上的红毯。那时候的我，最爱听周杰伦的《稻香》，&lt;br /&gt;对这个世界 如果你有太多的抱怨&lt;br /&gt;跌倒了 就不敢继续往前走&lt;br /&gt;为什么 人要这么的脆弱 堕落&lt;br /&gt;请你打开电视看看&lt;br /&gt;多少人 为生命在努力勇敢的走下去&lt;br /&gt;我们是不是该知足&lt;br /&gt;珍惜一切 就算没有拥有&lt;br /&gt;那时候的我，尽管身体不好，但是我在小学和初中基本上是全年级前十名，成绩特别优秀。后来，进入青春期，我也有喜欢的女孩，但是因为身体原因，我喜欢的女生狠狠的拒绝了我，后来，我暗暗在心理发誓，总有一天，我会成为全球首富—————全球福布斯富豪榜第一名，并获得图灵奖，找一个“白富美”的健全且健康的女孩当媳妇。后来我去了德州学院物联网工程专业上了大学，硕士是齐鲁工业大学软件工程专业。成年后，我喜欢的女孩因为身体原因依然不喜欢我，无奈，无奈。在硕士毕业那年，我去了济南做了手术，把腿伸直了。再后来，我去华宇工学院应聘大学老师，已经进入面试（线上），已录用，但是去报道那天，因为身体原因高校再次把我拒之门外。再后来，我开始了创业之路。做 app 、小程序、网站定制开发，还有编程培训，以及后来自研了飞鸟译——音视频通话级别的同声传译软件，也在找融资。有需求的朋友可以联系我：+86-18315852058 （常用），+86-19854198980 ，后来有了初步盈利，我开始开淘宝店做软件开发创业，&lt;a href="https://item.taobao.com/item.htm?id=727432226572&amp;amp;spm=a1z10.1-c.w4023-23132734667.21.3cd362968lSSuT" rel="nofollow noopener" target="_blank"&gt;https://item.taobao.com/item.htm?id=727432226572&amp;amp;spm=a1z10.1-c.w4023-23132734667.21.3cd362968lSSuT&lt;/a&gt; ，网店名字是：聪讯科技的小店，目前经营的还不错。自己注册了德州顺沃网络信息科技有限公司，官网简单用 wordpress 搭建了一下，还没有完善内容： &lt;a href="https://www.shunwoit.com" rel="nofollow noopener" target="_blank"&gt;https://www.shunwoit.com&lt;/a&gt; ，飞鸟译官网： &lt;a href="https://www.feiniaoyi.com" rel="nofollow noopener" target="_blank"&gt;https://www.feiniaoyi.com&lt;/a&gt; ，欢迎大家有软件定制开发的需求可以联系我，权当支持我在重度血友病的人生路上的爬行，感激不尽。&lt;br /&gt;再后来，我今年 28 岁了，也面临找女朋友找对象的问题，我就一个要求，身体健全且健康，其他都可以没有。你可以没有好学历，没有美貌，什么都没有，只要身体健全且健康就可以。这是我唯一的择偶标准，有人问我为什么你是血友病又是残疾人，非得找健全且健康的，没有为什么，个人择偶标准。就像你喜欢苹果、他喜欢菠萝，我喜欢健全且健康的女孩。&lt;a href="https://imgur.com/a/6lyzYyd" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/6lyzYyd&lt;/a&gt; ，我在山东德州德城区，有意向投资、或者找我定制开发软件，或者找我做对象的朋友可以联系我。&lt;a href="https://imgur.com/DkliwIv" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/DkliwIv&lt;/a&gt; 。&lt;br /&gt;我相信：我命由我，不由天。&lt;br /&gt;编写的是代码，改变的是未来。&lt;br /&gt;立志在我，成事在人，傲气长存。</description><pubDate>Sat, 20 Apr 2024 23:54:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034292#reply8</guid></item><item><title>[酷工作] 再次寻找 iOS 开发工程师</title><link>https://www.v2ex.com/t/1034291#reply1</link><description>原本希望第二次发帖子是 App 已获得推荐的消息，无奈现实不如人所愿，由于现有 iOS 研发同学工作方面的变化，需要找一位 iOS 开发工程师接替他的工作，目前产品开发进度 70%左右，其他辅助工作如 App 备案等均已完成。&lt;br /&gt;&lt;br /&gt;初衷未变：“设计开发上架一款免费的日记 App ，虽然市面上已有 50+款日记 App 了，但没有一款理想的，目前是用其他产品代替，不过干这事没钱哈，就是想搞点事情，目标是获得 App Store 编辑推荐”，因此斗胆再发个帖子找找人（有热情、能力、时间等）。如果你是，请私信我；如果你不是但身边有，请帮忙转发，感谢！</description><pubDate>Sat, 20 Apr 2024 23:20:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034291#reply1</guid></item><item><title>[酷工作] [远程][全职]招聘全栈工程师</title><link>https://www.v2ex.com/t/1034289#reply7</link><description>&lt;h1&gt;关于我们&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;官方网站：&lt;a href="http://www.drayeasy.com" rel="nofollow"&gt;www.drayeasy.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;公司规模：50 - 100 人&lt;/li&gt;
-&lt;li&gt;公司地址：美国 Base&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;我们是一家技术驱动的美国物流科技公司，致力于通过创新技术和优质服务改善拖车运输效率，帮助客户实现快速、可靠的供应链管理。我们正在寻找全栈工程师，加入我们的团队，共同开发高质量的应用程序。&lt;/p&gt;
-&lt;p&gt;由于前期的设定，我们的主要技术栈是 React 和 PHP 。如果不熟悉 React 和 PHP 没有关系，语言和框架只是一个工具。我们希望您具有工程师思维，有良好的团队合作精神，善于学习新技术并具备解决问题的能力。在当前 copilot 和 chatgpt 的时代，快速上手一个语言和框架不是难事，难在编程思维和抽象能力。我们会给团队提供 copilot enterprise ，让团队更高效地工作。&lt;/p&gt;
-&lt;h1&gt;职位描述 / 工作职责&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;负责项目的框架设计与开发，确保代码质量和性能；&lt;/li&gt;
-&lt;li&gt;负责开发生命周期中的所有阶段；&lt;/li&gt;
-&lt;li&gt;与团队成员远程协作，了解产品需求，并进行技术选型和方案设计；&lt;/li&gt;
-&lt;li&gt;持续关注新技术和发展趋势，提高产品质量和用户体验。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;职位要求&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;熟练掌握 React 或者 Vue 及其生态圈，具备扎实的 JavaScript 、HTML 和 CSS 基础知识；&lt;/li&gt;
-&lt;li&gt;熟练掌握 Java or PHP or Go 等等任意后端语言；&lt;/li&gt;
-&lt;li&gt;至少 1 年开发工作经验，具备良好的编程习惯和代码规范；&lt;/li&gt;
-&lt;li&gt;适应远程工作模式，具备良好的自律和自驱力；&lt;/li&gt;
-&lt;li&gt;具备基本的英⽂读写能⼒，研发团队均用中文沟通。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;加分项&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;熟悉 Prompt Engineering ；&lt;/li&gt;
-&lt;li&gt;熟悉 Laravel ；&lt;/li&gt;
-&lt;li&gt;熟悉 Docker;&lt;/li&gt;
-&lt;li&gt;熟悉物流行业；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;薪资及其他待遇&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;薪资税前 18k - 25k ；&lt;/li&gt;
-&lt;li&gt;周末双休；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;工作方式和语言：&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;全职远程，北京时间白天工作 8 小时，灵活合理安排时间，协作和开会时必须在线。&lt;/li&gt;
-&lt;li&gt;语言：中文。相关文档的阅读会要求英文但无需听说，研发团队均用中文沟通。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;面试流程：&lt;/h1&gt;
-&lt;p&gt;三轮面试，通过则立即录用。&lt;/p&gt;
-&lt;p&gt;请把简历发送到以下邮箱（建议简历是一页 PDF ）：&lt;/p&gt;
-&lt;p&gt;Email： &lt;a href="mailto:hr@drayeasy.com"&gt;hr@drayeasy.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 20:58:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034289#reply7</guid></item><item><title>[iPhone] App store 开始下架不合规的 App</title><link>https://www.v2ex.com/t/1034288#reply13</link><description>&lt;p&gt;国区，telegram 已下架，其他国外软件还在，不知道什么时候会统一下架。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/7CKQmcK/IMG-0219.jpg" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/McP9ytR/xxp.png" /&gt;
-&lt;a href="https://www.youtube.com/watch?v=MMXz1mb0Fco" rel="nofollow"&gt;https://www.youtube.com/watch?v=MMXz1mb0Fco&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 19:19:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034288#reply13</guid></item><item><title>[问与答] 有没有老哥成功使用 magisk-tailscaled 实现 tailscale 和 clash 在安卓上共存的</title><link>https://www.v2ex.com/t/1034287#reply1</link><description>&lt;p&gt;最近在尝试使用 Tailscale ，使用体验非常美好，但我在墙内又养成了一直挂着 clash 的习惯，所以就出现了一个很痛苦的问题：Tailscale 和 clash 冲突了。&lt;/p&gt;
-&lt;p&gt;网上（包括 v2 ）看了很多，大多都是说用 tailscale 的 exit node 模式，但我的设备（家里）只有一台 root 的安卓、一台 Ubuntu Server 配 clash-docker ，一台 windows ，我尝试去设置 Ubuntu 为 exit-node ，但照样不能如愿，不知道具体怎么设置。（ Ubuntu 是 ping 不通 google 的）&lt;/p&gt;
-&lt;p&gt;于是我就想能不能从问题源头安卓手机这下手，还真给我搜到了个 &lt;a href="https://github.com/anasfanani/Magisk-Tailscaled" rel="nofollow"&gt;Magisk-Tailscaled&lt;/a&gt;，用 KernelSU 安装模块之后，按照步骤，在 Tailscale 管理界面确实能看见设备连接上了，但没办法直接通过类似 &lt;code&gt;http://100.x.y.z:8080&lt;/code&gt; 访问其他设备的服务。翻遍项目的 issues ，得知如果要用的话得配置 sock5 代理，然后通过 clash 这种代理软件进行分流。&lt;/p&gt;
-&lt;p&gt;问题就出在这了，我配置了之后甚至成功过一次，但重启后就失效了……&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;以下是我在手机终端的操作：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;tailscaled -tun=userspace-networking -statedir=/data/adb/tailscale/tmp/ -state=/data/adb/tailscale/tmp/tailscaled.state -socket=/data/adb/tailscale/tmp/tailscaled.sock -port=41641 -socks5-server=localhost:41099
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;后面这段 &lt;code&gt;-socks5-server=localhost:41099&lt;/code&gt; 是我从一篇&lt;a href="https://www.kxxt.dev/blog/clash-for-android-and-tailscale/" rel="nofollow"&gt;博客&lt;/a&gt;得知的，也即我的 socks5 端口设为 41099 。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;tailscaled.service start
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;tailscale login
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;以下是 clash 配置文件：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-yaml"&gt;dns:
-  ...
-  nameserver-policy:
-  "*.tailscale.io": 8.8.8.8
-proxies:
-  - { name: tailscale, type: socks5, server: 127.0.0.1, port: 41099}
-  ...
-rules:
-  ...
-  - 'IP-CIDR,100.64.0.0/10,tailscale,no-resolve'
-  - 'DOMAIN-SUFFIX,tailscale.com,DIRECT'
-  - 'DOMAIN-SUFFIX,tailscale.io,DIRECT'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;按照上面流程下来是成功过一次，但重启之后怎么都成功不了。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 18:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034287#reply1</guid></item><item><title>[玩家国度] 最近媳妇给了点钱想买一台游戏本。看中了 rog 枪神系列，有以下选择，兄弟们帮我选一下，我选择困难症了。</title><link>https://www.v2ex.com/t/1034286#reply5</link><description>1: 枪神 8 4060 加个 2k 显示器(暂时没选好显示器，但价格 2500 左右的)。&lt;br /&gt;2: 枪神 8 4070 不买显示器。&lt;br /&gt;3:枪神 8Plus 4060 不买显示器。</description><pubDate>Sat, 20 Apr 2024 18:13:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034286#reply5</guid></item><item><title>[分享创造] 浪费 V 友几分钟时间阅读，这次商业化失败的原因有哪些呢，能得到什么教训呢，我没想清楚。</title><link>https://www.v2ex.com/t/1034285#reply11</link><description>&lt;p&gt;这些天整理重构了一下子之前复活的微信机器人的代码，一开始是参考别人写的项目代码，模块系统属于 CommonJS 规范，我在入门 JS 的时候，直接学的 ES6 ，所以对该系统不是很熟系，重构成 ES6 后相信后续开发会愉快不少。&lt;/p&gt;
-&lt;p&gt;我把源码发布在&lt;a href="https://github.com/WShihan/webot" rel="nofollow"&gt;github&lt;/a&gt;上，与其他成熟的项目对比，它很小，主要功能聚焦在对话上，能接入 chatgpt 对话，还能在微信内设置 AI 角色来调教输出结果。&lt;/p&gt;
-&lt;img alt="image-20240416141835574" class="embedded_image" rel="noreferrer" src="https://md-1301600412.cos.ap-nanjing.myqcloud.com/pic/typora/%E8%8B%B1%E8%AF%AD%E8%A7%92%E8%89%B2.jpeg" /&gt;
-&lt;p&gt;我有心想给它拓展一些功能，但是好像都没找到合适的需求点。我原本要解决的问题是，在手机上使用生成式 AI ，特别是 chatgpt ，没有电脑方便，要么科学上网后通过官方 app ，要么打开浏览器上官网使用，这两种看起来都不是很优雅（很懒）地使用方式，如果只是对话的话，集成到即时通信软件（比如微信），我觉得是一个很好的解决方案，诸如此类像同义千问，就被集成到钉钉里，还有 IDE 里的一堆 AI 插件。不必再多下载一个 app ，多开一个网页，直接在已有软件上对话，多流畅啊。&lt;/p&gt;
-&lt;p&gt;后面开发上线，只有我一个人用，感觉有点浪费，因为注册之后 openai 会给你免费 5 美元额度，正常频率的话能用一段时间，但是存在有效期，想着过期还蛮可惜，于是我把机器人发布在校内表白墙上，不成想用的人还真不少，额度提前刷光了，为此我还找第三方付费。&lt;/p&gt;
-&lt;p&gt;用的人多，那我能不能付费后，再将接口转发供给他们调用呢，（只能在微信里使用）然后我收取一些费用，不奢望它使人财富自由，若是能平衡服务器租用和大模型的费用，我也知足了。&lt;/p&gt;
-&lt;p&gt;商业逻辑清晰后，我便匆匆地制作了一个 MVP ，发布初步定价¥2 元/月，不付费用每用户每日限定五次对话。意想不到的是，上线后付费的人可以说是寥寥无几，而且原本免费使用的人群也逐渐减少，现在是一个半死不活的状态。哪里出现了问题，至今没有搞清楚。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 18:12:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034285#reply11</guid></item><item><title>[Notion] notion 的排版问题：行间距</title><link>https://www.v2ex.com/t/1034282#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/UZSuCTR.png" /&gt; &lt;/p&gt;
-&lt;p&gt;notion 的行间距可以调整吗？标题和段落的行间距 和 段落之间的行间距 都一样，看起来怪怪的。&lt;/p&gt;
-&lt;p&gt;如果单独空出一行来又有点宽了。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 16:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034282#reply0</guid></item><item><title>[JetBrains] 求一个 JetBranins 全家桶折扣码</title><link>https://www.v2ex.com/t/1034281#reply0</link><description>&lt;h3&gt;求一个 JetBranins 全家桶折扣码&lt;/h3&gt;</description><pubDate>Sat, 20 Apr 2024 16:35:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034281#reply0</guid></item><item><title>[分享发现] 发现比 perplexity 更好用的新工具： Flowith 有人用过吗？</title><link>https://www.v2ex.com/t/1034280#reply0</link><description>&lt;p&gt;好像没有人发过，是一个新的小众新产品&lt;/p&gt;
-&lt;p&gt;发现比 perplexity 更好用的新工具：Flowith 有人用过吗？&lt;/p&gt;
-&lt;p&gt;强烈推荐文科类专业或文字类工作者试试&lt;/p&gt;
-&lt;p&gt;从传统的线性 AI 对话变成了类似于思维导图结构的形式，可以多个方向并行，是这个新产品最大的不同。&lt;/p&gt;
-&lt;p&gt;下面是我的邀请链接：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://flo.ing/invitation?code=J6KMKI" rel="nofollow"&gt;https://flo.ing/invitation?code=J6KMKI&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;（附带有邀请码，我可以获得一定次数的 gpt4 ，你也可以获得一定次数的 GPT4 ）&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 16:29:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034280#reply0</guid></item></channel></rss>
+&lt;li&gt;用 win-acme 申请 SSL 证书并实现自动续期。这个程序能够自动把从 IIS 中读取网站信息，申请新证书关联到对应的网站，很省心。&lt;/li&gt;
+&lt;li&gt;如果用到了阿里云 WAF 之类的服务，要想防护 HTTPS 流量，就需要上传 SSL 证书和私钥，这样的话需要配置 win-acme 再额外保存一份 PEM 格式的证书和私钥。其中 &lt;code&gt;-crt.pem&lt;/code&gt; 后缀的文件是需要导入 WAF 的证书文件，&lt;code&gt;-key.pem&lt;/code&gt; 后缀的文件则是需要导入 WAF 的私钥文件。&lt;/li&gt;
+&lt;li&gt;如果用到了阿里云 WAF 之类的服务，并且各业务域名的 DNS 都解析到了 WAF 上，那么就要在 WAF 配置中同时启用 HTTP 和 HTTPS ，并且禁止 HTTP 到 HTTPS 的强制跳转，不然有可能在域名所有权验证那一步失败。&lt;/li&gt;
+&lt;li&gt;配置阿里云 Cli 的时候，如果配置的各种凭证方式都不管用，可以尝试把旧的配置都删除，包括 Cli 里的配置和阿里云网页端控制台的配置，然后重新来一遍。&lt;/li&gt;
+&lt;li&gt;PowerShell &lt;code&gt;Get-Content&lt;/code&gt; 命令拿到的证书和私钥的文本会丢失换行符，可以参考 &lt;a href="https://stackoverflow.com/a/15041925/2667665" rel="nofollow"&gt;https://stackoverflow.com/a/15041925/2667665&lt;/a&gt; 这里的方法来解决。&lt;/li&gt;
+&lt;li&gt;上传证书和私钥调用的是 WAF 中的 &lt;code&gt;CreateCertificate&lt;/code&gt; 这个 API ，将证书关联至 WAF 中接入域名是 &lt;code&gt;CreateCertificateByCertificateId&lt;/code&gt; API 。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sun, 21 Apr 2024 12:53:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034417#reply0</guid></item></channel></rss>
