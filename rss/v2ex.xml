@@ -1,40 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 20 Apr 2024 12:34:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 台式机显卡只有一个 hdmi 口，三个 dp 口，怎么接两台显示器？</title><link>https://www.v2ex.com/t/1034242#reply0</link><description>只有两根 hdmi 线，没有 dp 线，难道还要再买 dp 线？</description><pubDate>Sat, 20 Apr 2024 12:24:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034242#reply0</guid></item><item><title>[分享创造] 放一个单页小站</title><link>https://www.v2ex.com/t/1034239#reply0</link><description>&lt;p&gt;看到关键词搜索量还蛮高的，花了几个小时搞了一下，看有没有流量先
-&lt;a href="https://would-you-rather.com/" rel="nofollow"&gt;https://would-you-rather.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 12:08:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034239#reply0</guid></item><item><title>[Apple] facetime 诈骗电话怎么办？</title><link>https://www.v2ex.com/t/1034238#reply3</link><description>&lt;p&gt;不停接到 facetime 诈骗视频电话怎么办？
-除了关闭 facetime 外，大佬们还有什么高招吗？&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 12:04:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034238#reply3</guid></item><item><title>[分享发现] 最像海外 reddit 的社区，是不是就是 V2EX 了？ reddit 还有其他国内‘学生’吗？</title><link>https://www.v2ex.com/t/1034237#reply0</link><description>如题，求助。&lt;br /&gt;另外，美国之外，有没有其他东南亚、非洲、澳洲有类似于 reddit 的社区？</description><pubDate>Sat, 20 Apr 2024 11:56:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034237#reply0</guid></item><item><title>[宽带症候群] Fortigate 一些问题求解</title><link>https://www.v2ex.com/t/1034236#reply0</link><description>&lt;p&gt;刚换了 Fortigate 50E ，但是不太会用 XD ，固件版本 6.2 ，有 Console 线&lt;/p&gt;
-&lt;p&gt;目前的话有如下问题：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 21 Apr 2024 02:02:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 同时包含文字和图片的内容,如何只复制一次,即可粘贴到微信的聊天窗口?</title><link>https://www.v2ex.com/t/1034307#reply0</link><description>&lt;p&gt;如题,我有一个个人网页,其中包含一段文字,和一张名为 abc.jpg 的图片.
+如何只复制一次,就能把这个图片和文字,都粘贴到我的微信聊天窗口呢?&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:41:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034307#reply0</guid></item><item><title>[iPad] 有 iPad 手写笔平替吗？</title><link>https://www.v2ex.com/t/1034306#reply0</link><description>&lt;p&gt;2 代手写笔被饿死了，根本充不了电，过保也不知道去哪里维修，求一款价格比较划算的平替 可以手写记笔记就可以。&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:24:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034306#reply0</guid></item><item><title>[问与答] cdn 问题想请教：知道一个 cdn 的地址，但是不知道具体的文件路径，要怎样能把 cdn 里面的文件全部爬下来</title><link>https://www.v2ex.com/t/1034305#reply2</link><description>&lt;p&gt;（前提是这个 cdn 并没有开鉴权）
+如果我知道一个 cdn 的地址，但是不知道具体的文件路径，我要怎样能把 cdn 里面的文件全部爬下来
+比如我知道： &lt;a href="https://file.ljcdn.com" rel="nofollow"&gt;https://file.ljcdn.com&lt;/a&gt;
+但我并不知道具体的文件路径是：/bigc-file2cdn/deyouLife/1571648087896.pdf&lt;/p&gt;
+&lt;p&gt;感谢各位吴彦祖刘亦菲&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:16:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034305#reply2</guid></item><item><title>[互联网] 大家有在网上配眼镜么，有什么店铺可以推荐？</title><link>https://www.v2ex.com/t/1034304#reply2</link><description>&lt;p&gt;时常有看到 v 友在网上配镜，大家都是去哪里的？&lt;/p&gt;
+&lt;p&gt;pdd ？ smzdm 上推荐的 jd 第三方都是商家在自推，感觉和 pdd 也没有什么区别&lt;/p&gt;
+&lt;p&gt;大家有什么推荐的么？先谢谢了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/14/z36OKu2WtXS1Ny5.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:13:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034304#reply2</guid></item><item><title>[程序员] chrome ui 禁用 customize-chrome-side-panel 后 favicon 上移</title><link>https://www.v2ex.com/t/1034303#reply0</link><description>因为不喜欢 chrome 新 ui ，参考 &lt;a href="https://www.v2ex.com/t/1025622" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1025622&lt;/a&gt; 帖子&lt;br /&gt;禁用 customize-chrome-side-panel 后恢复旧主题，结果昨天发现 favicon 上移，重启恢复无效&lt;br /&gt; &lt;a href="https://i.imgur.com/DGnptfZ.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/DGnptfZ.png" /&gt;&lt;/a&gt;&lt;br /&gt; 有没有解决办法能在评论区说下，感谢</description><pubDate>Sun, 21 Apr 2024 01:09:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034303#reply0</guid></item><item><title>[健康] 差点挂了</title><link>https://www.v2ex.com/t/1034302#reply7</link><description>&lt;p&gt;可能有些标题党了，但我刚刚真的觉得我怕不是要折了。。。&lt;/p&gt;
+&lt;p&gt;刚刚坐在椅子上，伸手去捡地上的东西，右手手臂根部扭了一小下，有点痛(是那种内痛，但其实也没感觉有多扭到，但就是痛了一小会。也没有特别痛，但比这个手伸到椅子下这个行为预期的痛感要稍微强一些，也要持久一些)，坐在椅子上扭几下手臂想缓一缓，结果感觉有贫血的感觉，越来越强烈，脑袋放空，身体没甚么力气，眼睛出现雪花，视野缩窄(不是变黑，而是单纯的看不太见，很难描述，反正就是很难看见东西但视野没变黑)，然后感觉有点恶心，有喘不上气的感觉，我感觉不太妙，有种之前运动过度，喘不上气，感觉恶心，感觉好象要死了的感觉，不是初中时正常运动的喘，而是上大学多年不运动后骑完脚踏车忽然停下来的那种喘不上气。很担心是不是要猝死了...&lt;/p&gt;
+&lt;p&gt;我觉得不妙，就颤颤巍巍的从椅子上爬回床上躺下来，耳朵开始耳鸣，有很明显的嗡嗡叫，浴室里的抽风机的噪声很明显的变小了。我躺在床上尝试稳定心跳，不过我没有感觉心律不整。&lt;/p&gt;
+&lt;p&gt;躺在床上一会之后，耳鸣消失了，那种贫血的感觉减少了，也喘的上气了，我又缓了一会儿，然后从床上起来，站在地上，又有了贫血的感觉，不过这种感觉是常见的站起来的贫血感，可能大约 10-20 秒左右就渐渐恢复视力了，脑袋也不会感觉很怪了。&lt;/p&gt;
+&lt;p&gt;右手靠近嘎吱窝那边有一点点拉伤的感觉。&lt;/p&gt;
+&lt;p&gt;坐下来想了想，心里有些后怕，肯定得做做身体检查之类的。&lt;/p&gt;
+&lt;p&gt;忽然想到我好象应该测一下心律和血氧，不过很可惜，刚刚手上没有带手环，我是等状况好很多，甚至是写完刚刚那上面那堆东西之后才想起来要测血氧的。结果是 95-97%，心律大约是 75-80&lt;/p&gt;
+&lt;p&gt;如果你要问我最近的作息的话，那确实是相当奇怪了。差不多每天都是凌晨 4-5 点睡，这学期没有早课，所以基本中午 11 点左右起床。今天因为是假日，我是下午 1 点左右起床的，昨晚因为有一只大飞蛾非到我房间里面，我不太敢睡... 那隻飞蛾后来飞到浴室里面，我就赶紧把门关了假装它不存在... (然后那只飞蛾就不见了，浴室里再也没看到，房间里也没看到，我浴室的门下方有漏缝所以其实那只飞蛾可以从那边钻出来。我用纸箱稍微堵了一下，但可能有漏缝。我把牙刷拿出来了，但漱口杯没有)&lt;/p&gt;
+&lt;p&gt;把上面写的那串东西丢给 chatGPT ，居然就回了个"听起来挺吓人的。"，就离谱。这 chatGPT 200%是变傻了。
+bing 跟我说有可能是血压有问题。llama3 8b instruct 说是过度呼吸或者血管迷走性晕厥，反正跟血压有关。llama3 70b 和 claude sonnet 也说是血压。
+因为我的小米手环只能测心率和血氧，我就上亚马逊买了个血压仪，但就算我是高贵的 prime 会员，最快也要两天后才能送到。查了一下附近的药店买同样的血压仪价格直接翻倍，就离谱。 &lt;/p&gt;
+&lt;p&gt;但高血压低血压这种事不是大多数发生在中老年吗？我不懂呀，我 tm 只是个才 20 岁出头的大学牲啊。不健身不抽烟不喝酒不吸毒，压力低吃的多作息混乱... 几年前做健检的时候是有查处过一次心率比正常人稍微慢那么一丢丢，但应该不是大问题...&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/V5GR35W.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/NLO37wB.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xA0yGKx.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/xacOJTh.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/K8nTNIq.png" /&gt;&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:08:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034302#reply7</guid></item><item><title>[程序员] 阿里云 OSS 可以套一层 cloudflare 的 cdn 实现海外访问吗？</title><link>https://www.v2ex.com/t/1034301#reply5</link><description>&lt;p&gt;有大概 2T 的图片，想同时实现国内和海外用户的浏览和下载，国内和海外的访问量是差不多的，请问下面两种方式哪种更合理一些？我对 cloudflare 还是久仰大名的状态，没有实际使用过...&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;多出口宽带如何决定某个内网 IP 全部或部分流量走某个出口且内网互通？&lt;/li&gt;
-&lt;li&gt;如何接收运营商的 RA 并向下下发 SLAAC 配置的 IPv6 ？&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;谢谢。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 11:47:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034236#reply0</guid></item><item><title>[问与答] 没有专业的知识，能不能组装一个手持风扇</title><link>https://www.v2ex.com/t/1034235#reply1</link><description>RT ，淘宝看到有外壳卖。买 2 个电池，电路板好像也有。就是不知道安装难不难，有没有老歌教一下。</description><pubDate>Sat, 20 Apr 2024 11:41:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034235#reply1</guid></item><item><title>[问与答] 有没有办法让 AI 不胡扯</title><link>https://www.v2ex.com/t/1034234#reply3</link><description>比如我用 AI 学外语，让 AI 讲一个选择题，或者给我符合特定规律的词汇表。AI 偶尔会自由发挥，内容虽然看起来丰富，但有小错误。比如明明是动词它告诉我这是副词的情况。&lt;br /&gt;另外去问 AI 的一些问题，AI 看似回答的，而且道理似乎通，其实是错的。&lt;br /&gt;&lt;br /&gt;有没有办法，或者某些 AI 工具虽然可以蠢一点，但是不会胡扯或犯错的呢？</description><pubDate>Sat, 20 Apr 2024 11:30:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034234#reply3</guid></item><item><title>[Android] 红米手机刷 pixel experience 安全吗？</title><link>https://www.v2ex.com/t/1034233#reply4</link><description></description><pubDate>Sat, 20 Apr 2024 11:21:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034233#reply4</guid></item><item><title>[Apple] Apple 只允许 AirPods Pro 2 连接 Vision Pro 时播放无损音频，连接 iPhone / iPad /Mac 时最高 256kbps，是软件还是硬件层面的限制？目的是为了省电还是授权原因？</title><link>https://www.v2ex.com/t/1034230#reply3</link><description></description><pubDate>Sat, 20 Apr 2024 10:39:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034230#reply3</guid></item><item><title>[YubiKey] YubiKey 5 NFC 两枚打包 咸鱼 800 出</title><link>https://www.v2ex.com/t/1034229#reply0</link><description>&lt;p&gt;非偏远地区顺丰包邮&lt;/p&gt;
-&lt;p&gt;[闲鱼]  &lt;a href="https://m.tb.cn/h.g0XkKlE?tk=BvIyWrw2SYZ" rel="nofollow"&gt;https://m.tb.cn/h.g0XkKlE?tk=BvIyWrw2SYZ&lt;/a&gt; HU9196 「我在闲鱼发布了 [现货 YubiKey 5 NFC 两枚打包] 」
-点击链接直接打开&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 10:33:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034229#reply0</guid></item><item><title>[职场话题] 有了解广州华为外包的 v 友吗</title><link>https://www.v2ex.com/t/1034228#reply0</link><description>岗位是开发。面试官说 124 要加班到 9 点，有时候忙的话周六还要过来。&lt;br /&gt;外包公司 hr 说晚上加班没有补偿。除了薪资，基本没有福利了，因为空窗挺久了，犹豫去不去</description><pubDate>Sat, 20 Apr 2024 10:32:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034228#reply0</guid></item><item><title>[问与答] 子域名怎样映射目录？</title><link>https://www.v2ex.com/t/1034227#reply3</link><description>&lt;p&gt;有个想法，不知道如何实现，也不知道怎么搜索到答案，于是请教各位：
-想让用户访问 &lt;a href="http://aa.abcdefg.com" rel="nofollow"&gt;aa.abcdefg.com&lt;/a&gt; 的时候，变成访问 &lt;a href="http://abcdefg.com/aa" rel="nofollow"&gt;abcdefg.com/aa&lt;/a&gt;
-同理，&lt;a href="http://bb.abcdefg.com" rel="nofollow"&gt;bb.abcdefg.com&lt;/a&gt; 对应 &lt;a href="http://abcdefg.com/bb" rel="nofollow"&gt;abcdefg.com/bb&lt;/a&gt;
-以此类推&lt;/p&gt;
-&lt;p&gt;二级域名解析设置个 * 泛解析就好，但是不懂上述怎样办到？&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 10:28:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034227#reply3</guid></item><item><title>[iOS] ios,繁简互换</title><link>https://www.v2ex.com/t/1034225#reply1</link><description>因为本人使用繁体输入法， 需要转换成简体时候需要全选文字然后点击「繁-&amp;gt;简」菜单，网页上的输入框甚至没有这个选项。 请问有没有简单的快捷指令可以实现。</description><pubDate>Sat, 20 Apr 2024 10:13:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034225#reply1</guid></item><item><title>[分享发现] Morse Code Generator： Effortlessly Generator Morse code to text and text to Morse code</title><link>https://www.v2ex.com/t/1034223#reply0</link><description>&lt;p&gt;A free and easy to use &lt;a href="https://morsecodegenerator.org/" rel="nofollow"&gt;Morse code Generator&lt;/a&gt;. Effortlessly Generator Morse code to text and text to Morse code, play and download the sound of Morse code.&lt;/p&gt;
-&lt;h2&gt;Translate text to Morse code&lt;/h2&gt;
-&lt;p&gt;Simply input letters, numbers, and punctuation into the top box, and the corresponding Morse code will display in the bottom box. If a character cannot be translated, '#' will be shown.&lt;/p&gt;
-&lt;h2&gt;Translate text to Morse code&lt;/h2&gt;
-&lt;p&gt;Alternatively, you can input Morse code directly into the top box using '.' for a dot and '-' for a dash. Letters should be separated by spaces, and words by '/'. The translated text will appear in the bottom box, with '#' indicating any untranslatable characters.&lt;/p&gt;
-&lt;h2&gt;Play and Download Morse code sound&lt;/h2&gt;
-&lt;p&gt;Control playback with the 'Play', 'Pause', and 'Stop' buttons. You can also download Morse code sound using the 'Download' button.&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 10:05:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034223#reply0</guid></item><item><title>[VPS] 大家的 vps 会定期更新和重启么？</title><link>https://www.v2ex.com/t/1034222#reply8</link><description>&lt;p&gt;目前的 vps 是 ubuntu 的操作系统，最近每次登陆都提示要做更新和重启，&lt;/p&gt;
-&lt;p&gt;实在太懒，就保持了默认，&lt;/p&gt;
-&lt;p&gt;大家有定时或者按提示更新和重启的习惯么？&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 10:04:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034222#reply8</guid></item><item><title>[macOS] 想找一个终端软件，功能是可定时推送自定义的消息</title><link>https://www.v2ex.com/t/1034221#reply3</link><description>&lt;p&gt;原来用过一段时间，现在想不起叫啥来着了&lt;/p&gt;
-&lt;p&gt;在终端操作，定时后会弹出消息提醒&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 10:02:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034221#reply3</guid></item><item><title>[问与答] 奔驰 GLC 上播放 CD 不显示歌名和歌词</title><link>https://www.v2ex.com/t/1034220#reply2</link><description>淘宝买的碟子都是这样，很费劲，有没有推荐的能显示歌词和歌曲名的 CD 呀&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/E7q4k6a.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/E7q4k6a.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Sat, 20 Apr 2024 09:57:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034220#reply2</guid></item><item><title>[分享创造] 分享一款独立站购物的搜索引擎</title><link>https://www.v2ex.com/t/1034218#reply2</link><description>&lt;p&gt;分享一款独立站购物的搜索引擎
-集合了网上的独立站的商品数据，
-目前打算做一些数据分析，商品推广分析，店铺流量分析
-&lt;a href="https://huntbest.shop/" rel="nofollow"&gt;https://huntbest.shop/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 09:50:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034218#reply2</guid></item><item><title>[程序员] Vbox 下虚拟机第二次崩溃了, 我也崩溃了</title><link>https://www.v2ex.com/t/1034217#reply9</link><description>&lt;p&gt;家中 32G 内存 mini pc 上 win11 装了个 vbox, 然后虚拟了 debian12, 通过 docker 部署了以下服务, 并通过 cf 的 tunnel 实现了外部访问(虽然速度慢点, 但是还挺稳定)&lt;/p&gt;
-&lt;p&gt;portainer
-reminder
-Kasm
-syncthing
-immich
-nextcloud
-vraya
-bitwarden
-wg-easy
-gitea&lt;/p&gt;
-&lt;p&gt;关键是莫名其妙崩溃了 2 次, 每次都是显示 initramfs 运行 fsck, 大概 10 次可以正常重启,但来不及做复制/快照就彻底崩溃了, 无论如何运行都会显示大量的 drdy err, 以及 I/O error, dev sda, sector 0 op 0x1:(write) flags 0x800 phys_seg 0 prio class 2. 导致都要重装.&lt;/p&gt;
-&lt;p&gt;现在累了,想请教下除了 vbox, win11 内置的 linux 子系统值得考虑吗? 前提是万一崩溃,是否可以进入镜像读取内部资料?&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 09:49:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034217#reply9</guid></item><item><title>[Apple] 关于 iPad 随航 mac 看论文</title><link>https://www.v2ex.com/t/1034216#reply2</link><description>&lt;p&gt;我用随航把 mac 上的 zotero 窗口移到 ipad 上，然后用 pencil 可以在 zotero 的 pdf 阅读器上写写画画，但是没法选中文本，以致于也触发不了 zotero translate 插件。不知道 pencil 有没有办法实现 mac 上三指选中文本的效果，在 mac 的 pdf 预览上是可以的，真是奇怪。。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 09:47:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034216#reply2</guid></item></channel></rss>
+&lt;li&gt;2T 图片存储在阿里云 OSS ，套一层 cloudflare 的 cdn 实现海外访问&lt;/li&gt;
+&lt;li&gt;2T 图片存储在 cloudflare 的 R2 中，套一层阿里云的 DCND 实现国内访问&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sun, 21 Apr 2024 01:04:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034301#reply5</guid></item><item><title>[问与答] 试了一圈 AI 工具,还是 lobe chat 最好使哈</title><link>https://www.v2ex.com/t/1034300#reply1</link><description>&lt;p&gt;只有他和官网回答"微软今天的股价?"是正确的...希望作者也改个收费版哈&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 01:01:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034300#reply1</guid></item><item><title>[Spotify] Spotify 尼日利亚区补一位， 4 元每月</title><link>https://www.v2ex.com/t/1034298#reply1</link><description>全球可用，仅加入家庭组可能需要尼日利亚节点，我这边可以提供一下，4 元每月，季付吧，vx:lujiang1018</description><pubDate>Sun, 21 Apr 2024 00:56:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034298#reply1</guid></item><item><title>[分享发现] 我在北美无法注册新的 QQ 号，旧的也无法找回了，现在需要用 QQ，这里在国内的朋友帮我注册一个，或者卖我一个也行，拜托拜托，谢谢各位哥哥姐姐，弟弟妹妹们，帮帮孩子吧😭</title><link>https://www.v2ex.com/t/1034294#reply14</link><description>&lt;p&gt;我在北美无法注册新的 QQ 号，旧的也无法找回了，现在需要用 QQ ，这里在国内的朋友帮我注册一个，或者卖我一个也行，拜托拜托，谢谢各位哥哥姐姐，弟弟妹妹们，帮帮孩子吧😭
+如果有卖的可以先邮箱联系 &lt;a href="mailto:reginaxia062@gmail.com"&gt;reginaxia062@gmail.com&lt;/a&gt;
+昨天在 Google 搜卖 QQ 的商家，提供的微信，加的时候提示什么诈骗号，给我的微信也整封锁了！！！！郁闷了&lt;/p&gt;</description><pubDate>Sun, 21 Apr 2024 00:03:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034294#reply14</guid></item><item><title>[程序员] 一个身患重度血友病的残疾人开的科技公司，专注软件定制开发与同声传译软件飞鸟译</title><link>https://www.v2ex.com/t/1034292#reply8</link><description>大家好，我是李守聪，思来想去，我觉得还是要把这个惊天的秘密告诉大家，我是一名重度血友病患者，体内缺少凝血因子八，这是一种血液疾病，主要症状是凝血较慢，是伴 x 隐性遗传。也就是说，我的 x 性染色体上有血友病的致病隐性基因。从遗传的角度看，我的后代儿子是完全健康的，因为我给我的儿子 Y ，女儿携带致病基因，但是不发病。目前这个疾病需要输入凝血八因子的药物，有药可治疗，但是目前无法根治，我的两个胳膊，还有左腿已经因为之前经济条件不好，没钱买药，后来关节长期肿大，关节变形。当时我 5 岁，长期在家，无法和普通的同学们一样，去外面玩，但是幸运的是，我的爸爸妈妈没有放弃我，妈妈从小学到高中，背我上学，12 年。爸爸下岗后，四处打零工补贴家用。不知道各位有没有体验过，鼻子自发流血、晚上胳膊疼腿疼整宿睡不着觉，得找个合适的姿势睡觉，早上起来凝固的血块早已堵满了喉咙，拉的也是血块，早上把喉咙的血块从嗓子眼吐出来的感觉是什么样的。但是那时候的我坚信，总有一天，我流过的血会变成我通往成功路上的红毯。那时候的我，最爱听周杰伦的《稻香》，&lt;br /&gt;对这个世界 如果你有太多的抱怨&lt;br /&gt;跌倒了 就不敢继续往前走&lt;br /&gt;为什么 人要这么的脆弱 堕落&lt;br /&gt;请你打开电视看看&lt;br /&gt;多少人 为生命在努力勇敢的走下去&lt;br /&gt;我们是不是该知足&lt;br /&gt;珍惜一切 就算没有拥有&lt;br /&gt;那时候的我，尽管身体不好，但是我在小学和初中基本上是全年级前十名，成绩特别优秀。后来，进入青春期，我也有喜欢的女孩，但是因为身体原因，我喜欢的女生狠狠的拒绝了我，后来，我暗暗在心理发誓，总有一天，我会成为全球首富—————全球福布斯富豪榜第一名，并获得图灵奖，找一个“白富美”的健全且健康的女孩当媳妇。后来我去了德州学院物联网工程专业上了大学，硕士是齐鲁工业大学软件工程专业。成年后，我喜欢的女孩因为身体原因依然不喜欢我，无奈，无奈。在硕士毕业那年，我去了济南做了手术，把腿伸直了。再后来，我去华宇工学院应聘大学老师，已经进入面试（线上），已录用，但是去报道那天，因为身体原因高校再次把我拒之门外。再后来，我开始了创业之路。做 app 、小程序、网站定制开发，还有编程培训，以及后来自研了飞鸟译——音视频通话级别的同声传译软件，也在找融资。有需求的朋友可以联系我：+86-18315852058 （常用），+86-19854198980 ，后来有了初步盈利，我开始开淘宝店做软件开发创业，&lt;a href="https://item.taobao.com/item.htm?id=727432226572&amp;amp;spm=a1z10.1-c.w4023-23132734667.21.3cd362968lSSuT" rel="nofollow noopener" target="_blank"&gt;https://item.taobao.com/item.htm?id=727432226572&amp;amp;spm=a1z10.1-c.w4023-23132734667.21.3cd362968lSSuT&lt;/a&gt; ，网店名字是：聪讯科技的小店，目前经营的还不错。自己注册了德州顺沃网络信息科技有限公司，官网简单用 wordpress 搭建了一下，还没有完善内容： &lt;a href="https://www.shunwoit.com" rel="nofollow noopener" target="_blank"&gt;https://www.shunwoit.com&lt;/a&gt; ，飞鸟译官网： &lt;a href="https://www.feiniaoyi.com" rel="nofollow noopener" target="_blank"&gt;https://www.feiniaoyi.com&lt;/a&gt; ，欢迎大家有软件定制开发的需求可以联系我，权当支持我在重度血友病的人生路上的爬行，感激不尽。&lt;br /&gt;再后来，我今年 28 岁了，也面临找女朋友找对象的问题，我就一个要求，身体健全且健康，其他都可以没有。你可以没有好学历，没有美貌，什么都没有，只要身体健全且健康就可以。这是我唯一的择偶标准，有人问我为什么你是血友病又是残疾人，非得找健全且健康的，没有为什么，个人择偶标准。就像你喜欢苹果、他喜欢菠萝，我喜欢健全且健康的女孩。&lt;a href="https://imgur.com/a/6lyzYyd" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/6lyzYyd&lt;/a&gt; ，我在山东德州德城区，有意向投资、或者找我定制开发软件，或者找我做对象的朋友可以联系我。&lt;a href="https://imgur.com/DkliwIv" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/DkliwIv&lt;/a&gt; 。&lt;br /&gt;我相信：我命由我，不由天。&lt;br /&gt;编写的是代码，改变的是未来。&lt;br /&gt;立志在我，成事在人，傲气长存。</description><pubDate>Sat, 20 Apr 2024 23:54:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034292#reply8</guid></item><item><title>[酷工作] 再次寻找 iOS 开发工程师</title><link>https://www.v2ex.com/t/1034291#reply1</link><description>原本希望第二次发帖子是 App 已获得推荐的消息，无奈现实不如人所愿，由于现有 iOS 研发同学工作方面的变化，需要找一位 iOS 开发工程师接替他的工作，目前产品开发进度 70%左右，其他辅助工作如 App 备案等均已完成。&lt;br /&gt;&lt;br /&gt;初衷未变：“设计开发上架一款免费的日记 App ，虽然市面上已有 50+款日记 App 了，但没有一款理想的，目前是用其他产品代替，不过干这事没钱哈，就是想搞点事情，目标是获得 App Store 编辑推荐”，因此斗胆再发个帖子找找人（有热情、能力、时间等）。如果你是，请私信我；如果你不是但身边有，请帮忙转发，感谢！</description><pubDate>Sat, 20 Apr 2024 23:20:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034291#reply1</guid></item><item><title>[酷工作] [远程][全职]招聘全栈工程师</title><link>https://www.v2ex.com/t/1034289#reply7</link><description>&lt;h1&gt;关于我们&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;官方网站：&lt;a href="http://www.drayeasy.com" rel="nofollow"&gt;www.drayeasy.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;公司规模：50 - 100 人&lt;/li&gt;
+&lt;li&gt;公司地址：美国 Base&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们是一家技术驱动的美国物流科技公司，致力于通过创新技术和优质服务改善拖车运输效率，帮助客户实现快速、可靠的供应链管理。我们正在寻找全栈工程师，加入我们的团队，共同开发高质量的应用程序。&lt;/p&gt;
+&lt;p&gt;由于前期的设定，我们的主要技术栈是 React 和 PHP 。如果不熟悉 React 和 PHP 没有关系，语言和框架只是一个工具。我们希望您具有工程师思维，有良好的团队合作精神，善于学习新技术并具备解决问题的能力。在当前 copilot 和 chatgpt 的时代，快速上手一个语言和框架不是难事，难在编程思维和抽象能力。我们会给团队提供 copilot enterprise ，让团队更高效地工作。&lt;/p&gt;
+&lt;h1&gt;职位描述 / 工作职责&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;负责项目的框架设计与开发，确保代码质量和性能；&lt;/li&gt;
+&lt;li&gt;负责开发生命周期中的所有阶段；&lt;/li&gt;
+&lt;li&gt;与团队成员远程协作，了解产品需求，并进行技术选型和方案设计；&lt;/li&gt;
+&lt;li&gt;持续关注新技术和发展趋势，提高产品质量和用户体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;职位要求&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;熟练掌握 React 或者 Vue 及其生态圈，具备扎实的 JavaScript 、HTML 和 CSS 基础知识；&lt;/li&gt;
+&lt;li&gt;熟练掌握 Java or PHP or Go 等等任意后端语言；&lt;/li&gt;
+&lt;li&gt;至少 1 年开发工作经验，具备良好的编程习惯和代码规范；&lt;/li&gt;
+&lt;li&gt;适应远程工作模式，具备良好的自律和自驱力；&lt;/li&gt;
+&lt;li&gt;具备基本的英⽂读写能⼒，研发团队均用中文沟通。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;加分项&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;熟悉 Prompt Engineering ；&lt;/li&gt;
+&lt;li&gt;熟悉 Laravel ；&lt;/li&gt;
+&lt;li&gt;熟悉 Docker;&lt;/li&gt;
+&lt;li&gt;熟悉物流行业；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;薪资及其他待遇&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;薪资税前 18k - 25k ；&lt;/li&gt;
+&lt;li&gt;周末双休；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;工作方式和语言：&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;全职远程，北京时间白天工作 8 小时，灵活合理安排时间，协作和开会时必须在线。&lt;/li&gt;
+&lt;li&gt;语言：中文。相关文档的阅读会要求英文但无需听说，研发团队均用中文沟通。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;面试流程：&lt;/h1&gt;
+&lt;p&gt;三轮面试，通过则立即录用。&lt;/p&gt;
+&lt;p&gt;请把简历发送到以下邮箱（建议简历是一页 PDF ）：&lt;/p&gt;
+&lt;p&gt;Email： &lt;a href="mailto:hr@drayeasy.com"&gt;hr@drayeasy.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 20:58:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034289#reply7</guid></item><item><title>[iPhone] App store 开始下架不合规的 App</title><link>https://www.v2ex.com/t/1034288#reply13</link><description>&lt;p&gt;国区，telegram 已下架，其他国外软件还在，不知道什么时候会统一下架。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/7CKQmcK/IMG-0219.jpg" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/McP9ytR/xxp.png" /&gt;
+&lt;a href="https://www.youtube.com/watch?v=MMXz1mb0Fco" rel="nofollow"&gt;https://www.youtube.com/watch?v=MMXz1mb0Fco&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 19:19:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034288#reply13</guid></item><item><title>[问与答] 有没有老哥成功使用 magisk-tailscaled 实现 tailscale 和 clash 在安卓上共存的</title><link>https://www.v2ex.com/t/1034287#reply1</link><description>&lt;p&gt;最近在尝试使用 Tailscale ，使用体验非常美好，但我在墙内又养成了一直挂着 clash 的习惯，所以就出现了一个很痛苦的问题：Tailscale 和 clash 冲突了。&lt;/p&gt;
+&lt;p&gt;网上（包括 v2 ）看了很多，大多都是说用 tailscale 的 exit node 模式，但我的设备（家里）只有一台 root 的安卓、一台 Ubuntu Server 配 clash-docker ，一台 windows ，我尝试去设置 Ubuntu 为 exit-node ，但照样不能如愿，不知道具体怎么设置。（ Ubuntu 是 ping 不通 google 的）&lt;/p&gt;
+&lt;p&gt;于是我就想能不能从问题源头安卓手机这下手，还真给我搜到了个 &lt;a href="https://github.com/anasfanani/Magisk-Tailscaled" rel="nofollow"&gt;Magisk-Tailscaled&lt;/a&gt;，用 KernelSU 安装模块之后，按照步骤，在 Tailscale 管理界面确实能看见设备连接上了，但没办法直接通过类似 &lt;code&gt;http://100.x.y.z:8080&lt;/code&gt; 访问其他设备的服务。翻遍项目的 issues ，得知如果要用的话得配置 sock5 代理，然后通过 clash 这种代理软件进行分流。&lt;/p&gt;
+&lt;p&gt;问题就出在这了，我配置了之后甚至成功过一次，但重启后就失效了……&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;以下是我在手机终端的操作：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;tailscaled -tun=userspace-networking -statedir=/data/adb/tailscale/tmp/ -state=/data/adb/tailscale/tmp/tailscaled.state -socket=/data/adb/tailscale/tmp/tailscaled.sock -port=41641 -socks5-server=localhost:41099
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;后面这段 &lt;code&gt;-socks5-server=localhost:41099&lt;/code&gt; 是我从一篇&lt;a href="https://www.kxxt.dev/blog/clash-for-android-and-tailscale/" rel="nofollow"&gt;博客&lt;/a&gt;得知的，也即我的 socks5 端口设为 41099 。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;tailscaled.service start
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;tailscale login
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;以下是 clash 配置文件：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-yaml"&gt;dns:
+  ...
+  nameserver-policy:
+  "*.tailscale.io": 8.8.8.8
+proxies:
+  - { name: tailscale, type: socks5, server: 127.0.0.1, port: 41099}
+  ...
+rules:
+  ...
+  - 'IP-CIDR,100.64.0.0/10,tailscale,no-resolve'
+  - 'DOMAIN-SUFFIX,tailscale.com,DIRECT'
+  - 'DOMAIN-SUFFIX,tailscale.io,DIRECT'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;按照上面流程下来是成功过一次，但重启之后怎么都成功不了。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 18:26:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034287#reply1</guid></item><item><title>[玩家国度] 最近媳妇给了点钱想买一台游戏本。看中了 rog 枪神系列，有以下选择，兄弟们帮我选一下，我选择困难症了。</title><link>https://www.v2ex.com/t/1034286#reply5</link><description>1: 枪神 8 4060 加个 2k 显示器(暂时没选好显示器，但价格 2500 左右的)。&lt;br /&gt;2: 枪神 8 4070 不买显示器。&lt;br /&gt;3:枪神 8Plus 4060 不买显示器。</description><pubDate>Sat, 20 Apr 2024 18:13:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034286#reply5</guid></item><item><title>[分享创造] 浪费 V 友几分钟时间阅读，这次商业化失败的原因有哪些呢，能得到什么教训呢，我没想清楚。</title><link>https://www.v2ex.com/t/1034285#reply11</link><description>&lt;p&gt;这些天整理重构了一下子之前复活的微信机器人的代码，一开始是参考别人写的项目代码，模块系统属于 CommonJS 规范，我在入门 JS 的时候，直接学的 ES6 ，所以对该系统不是很熟系，重构成 ES6 后相信后续开发会愉快不少。&lt;/p&gt;
+&lt;p&gt;我把源码发布在&lt;a href="https://github.com/WShihan/webot" rel="nofollow"&gt;github&lt;/a&gt;上，与其他成熟的项目对比，它很小，主要功能聚焦在对话上，能接入 chatgpt 对话，还能在微信内设置 AI 角色来调教输出结果。&lt;/p&gt;
+&lt;img alt="image-20240416141835574" class="embedded_image" rel="noreferrer" src="https://md-1301600412.cos.ap-nanjing.myqcloud.com/pic/typora/%E8%8B%B1%E8%AF%AD%E8%A7%92%E8%89%B2.jpeg" /&gt;
+&lt;p&gt;我有心想给它拓展一些功能，但是好像都没找到合适的需求点。我原本要解决的问题是，在手机上使用生成式 AI ，特别是 chatgpt ，没有电脑方便，要么科学上网后通过官方 app ，要么打开浏览器上官网使用，这两种看起来都不是很优雅（很懒）地使用方式，如果只是对话的话，集成到即时通信软件（比如微信），我觉得是一个很好的解决方案，诸如此类像同义千问，就被集成到钉钉里，还有 IDE 里的一堆 AI 插件。不必再多下载一个 app ，多开一个网页，直接在已有软件上对话，多流畅啊。&lt;/p&gt;
+&lt;p&gt;后面开发上线，只有我一个人用，感觉有点浪费，因为注册之后 openai 会给你免费 5 美元额度，正常频率的话能用一段时间，但是存在有效期，想着过期还蛮可惜，于是我把机器人发布在校内表白墙上，不成想用的人还真不少，额度提前刷光了，为此我还找第三方付费。&lt;/p&gt;
+&lt;p&gt;用的人多，那我能不能付费后，再将接口转发供给他们调用呢，（只能在微信里使用）然后我收取一些费用，不奢望它使人财富自由，若是能平衡服务器租用和大模型的费用，我也知足了。&lt;/p&gt;
+&lt;p&gt;商业逻辑清晰后，我便匆匆地制作了一个 MVP ，发布初步定价¥2 元/月，不付费用每用户每日限定五次对话。意想不到的是，上线后付费的人可以说是寥寥无几，而且原本免费使用的人群也逐渐减少，现在是一个半死不活的状态。哪里出现了问题，至今没有搞清楚。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 18:12:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034285#reply11</guid></item><item><title>[Notion] notion 的排版问题：行间距</title><link>https://www.v2ex.com/t/1034282#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/UZSuCTR.png" /&gt; &lt;/p&gt;
+&lt;p&gt;notion 的行间距可以调整吗？标题和段落的行间距 和 段落之间的行间距 都一样，看起来怪怪的。&lt;/p&gt;
+&lt;p&gt;如果单独空出一行来又有点宽了。&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 16:47:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034282#reply0</guid></item><item><title>[JetBrains] 求一个 JetBranins 全家桶折扣码</title><link>https://www.v2ex.com/t/1034281#reply0</link><description>&lt;h3&gt;求一个 JetBranins 全家桶折扣码&lt;/h3&gt;</description><pubDate>Sat, 20 Apr 2024 16:35:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034281#reply0</guid></item><item><title>[分享发现] 发现比 perplexity 更好用的新工具： Flowith 有人用过吗？</title><link>https://www.v2ex.com/t/1034280#reply0</link><description>&lt;p&gt;好像没有人发过，是一个新的小众新产品&lt;/p&gt;
+&lt;p&gt;发现比 perplexity 更好用的新工具：Flowith 有人用过吗？&lt;/p&gt;
+&lt;p&gt;强烈推荐文科类专业或文字类工作者试试&lt;/p&gt;
+&lt;p&gt;从传统的线性 AI 对话变成了类似于思维导图结构的形式，可以多个方向并行，是这个新产品最大的不同。&lt;/p&gt;
+&lt;p&gt;下面是我的邀请链接：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://flo.ing/invitation?code=J6KMKI" rel="nofollow"&gt;https://flo.ing/invitation?code=J6KMKI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;（附带有邀请码，我可以获得一定次数的 gpt4 ，你也可以获得一定次数的 GPT4 ）&lt;/p&gt;</description><pubDate>Sat, 20 Apr 2024 16:29:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1034280#reply0</guid></item></channel></rss>
