@@ -1,75 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 24 Apr 2024 01:39:29 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[宽带症候群] 南京移动 IPV6 被停</title><link>https://www.v2ex.com/t/1035139#reply0</link><description>&lt;p&gt;PT 上传太多突然有一天外面访问不了家里的设备了，回去一看 IPV6 没了，IPV4 变 NAT4 了，问了宽带师傅说周六过来换个光猫看看，不确定有没有用，工信部和 10080 都投诉了&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:34:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035139#reply0</guid></item><item><title>[问与答] zlib 的 api 有了，但是填到哪里去？</title><link>https://www.v2ex.com/t/1035138#reply0</link><description>看了一个知乎说是填到 tg 的机器人里面，找不到&lt;br /&gt;有关找了一个视频说是填到 zlib 官网，并且提供一张操作截图，但是官网的布局现在已经不一样了&lt;br /&gt;&lt;br /&gt;晕过去，现在填到哪里去？</description><pubDate>Wed, 24 Apr 2024 01:34:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035138#reply0</guid></item><item><title>[MacBook Pro] 21 款 MacBook Pro M1 Pro 系统版本 12.1 要不要升级 Sonoma</title><link>https://www.v2ex.com/t/1035137#reply0</link><description>&lt;p&gt;日常主要用来写 Pyhton ，不知道要不要升级 Sonoma
-大佬们分享点建议&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:32:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035137#reply0</guid></item><item><title>[服务器] 一个中型服务器是装一个单系统还是装一个虚拟机呢？</title><link>https://www.v2ex.com/t/1035135#reply2</link><description>我现在手上有一台双 8368Q CPU,256G 内存的服务器，我在纠结是装一个单系统还是装一个虚拟机，装单系统的话我怕是平时在折腾的时候把整个服务器折腾挂了，&lt;br /&gt;&lt;br /&gt;如果是装虚拟机的话我这边安装 PVE 我好远程管理,可是我去查了一下说的是 PVE 虚拟机好像容易掉 IP 。&lt;br /&gt;&lt;br /&gt;服务器就我是一个人用来部署服务的，也没有要虚拟出服务器给别人使用的这种需求。</description><pubDate>Wed, 24 Apr 2024 01:30:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035135#reply2</guid></item><item><title>[问与答] 老家的一个邻居，他的女儿玩手机，被人骗了 1w 多块钱，让我帮问下，能不能找到什么线索</title><link>https://www.v2ex.com/t/1035134#reply2</link><description>&lt;p&gt;因为具体情况 我也不清楚 因为那个邻居 是一般的农民 对网络也不懂。据我知道的是，他女儿（上初中）和人聊 qq ，给人提供了身份证号码，手机号码估计也给了，然后一些验证码也给对方了，被人分好几十次通过快捷支付给花了 1w 多。
-（还有细节是 让把钱从信合银行 转到邮政银行 然后还改了取款密码（我不清楚 被改的是取款密码 还是 快捷支付密码  他说他到银行问了 说取款密码需要 人脸识别才能改））&lt;/p&gt;
-&lt;p&gt;现在能看到就是一些 银行流水，报警了警察表示无能为力。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/66285ed40ea9cb1403302d29.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic.imgdb.cn/item/66285f0c0ea9cb1403306fce.jpg" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:26:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035134#reply2</guid></item><item><title>[程序员] 求个思路，类似右糖这种在线视频制作，是如何实现的</title><link>https://www.v2ex.com/t/1035132#reply0</link><description>&lt;p&gt;发现好几个类似的站了，右糖： &lt;a href="https://lightmv.cn/" rel="nofollow"&gt;https://lightmv.cn/&lt;/a&gt; ，创视网： &lt;a href="https://www.chuangshi36.com/hlist" rel="nofollow"&gt;https://www.chuangshi36.com/hlist&lt;/a&gt; ，都是视频相册、宣传小视频的在线制作，是用什么方式实现的？&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:22:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035132#reply0</guid></item><item><title>[硬件] Inter 和 AMD 的 CPU 为什么接口上不兼容？ 7 年前的 Inter 6700k 最近更新配置，网购了个 AMD 5700X，到货后发现 AMD 的 CPU 大一圈塞不进。。。</title><link>https://www.v2ex.com/t/1035131#reply15</link><description>7 年前老古董打游戏实在是费劲，最近实在是忍不了了，把之前的 GTX 960 换了个 RTX4700 ，准备爽玩 4k 老头环。&lt;br /&gt;但发现连稳 60 帧都做不到，网上查了一下说是 CPU 拖了后腿。&lt;br /&gt;看 5700k 还挺便宜的，想试试 AMD 的 CPU ，到货后发现 AMD 的 CPU 大一圈塞不进。&lt;br /&gt;结果现在还得换个主板 :(&lt;br /&gt;&lt;br /&gt;为什么 Inter 和 AMD 的 CPU 不做成内存或者显卡那种统一插口的。</description><pubDate>Wed, 24 Apr 2024 01:16:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035131#reply15</guid></item><item><title>[问与答] 双卡还是不能用 tiktok，必须关掉国内卡</title><link>https://www.v2ex.com/t/1035130#reply11</link><description>有没有什么办法</description><pubDate>Wed, 24 Apr 2024 01:12:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035130#reply11</guid></item><item><title>[程序员] 自己的胡言乱语-国产数据库这行业</title><link>https://www.v2ex.com/t/1035129#reply2</link><description>&lt;p&gt;自己的胡言乱语-国产数据库这行业&lt;/p&gt;
-&lt;h1&gt;对数据库这行业的胡侃&lt;/h1&gt;
-&lt;p&gt;题主在数据库行业也 10 年多了，毕业的时候稀里糊涂的进了这行。作为一个挺拧巴的人，中间也尝试转行。但是兜兜转转干的还是数据库。&lt;/p&gt;
-&lt;p&gt;数据库的售后运维 =&amp;gt; 研发（修 bug ）=&amp;gt; 产品 =&amp;gt; 研发。（ v2 有同事应该猜到我是谁）
-转的乱七八糟的。研发算个 中高 ？运维初中？产品中高？ 这技能点点的歪。。&lt;/p&gt;
-&lt;h2&gt;国产数据库这行&lt;/h2&gt;
-&lt;p&gt;这行业就不挣钱啊，毕业的时候互联网挣钱，现在还是互联网挣钱。&lt;/p&gt;
-&lt;p&gt;国产数据库中大多数都是赔钱。少有几家能挣钱的。&lt;/p&gt;
-&lt;p&gt;前几年这行吹起信创风，一堆对这行没有清楚认知的童鞋涌入了这行。结果现在卷到飞起才发现压根没挣钱。&lt;/p&gt;
-&lt;p&gt;去年开始 tidb 裁员，ob 年终奖少发，小数据库公司 or 团队散伙。&lt;/p&gt;
-&lt;p&gt;这行是个又深又广又高投入的行业：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 24 Apr 2024 10:37:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 源码购买</title><link>https://www.v2ex.com/t/1035371#reply0</link><description>&lt;p&gt;主要需求就是多商户外卖系统，商家端，用户端 还有骑手端（现成产品）&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:30:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035371#reply0</guid></item><item><title>[iDev] 想问下苹果有没有类似于 auto.js 的东西？</title><link>https://www.v2ex.com/t/1035370#reply2</link><description>想在苹果上面搞自动化，苹果有没有类似于 auto.js 的东西呢？</description><pubDate>Wed, 24 Apr 2024 10:24:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035370#reply2</guid></item><item><title>[macOS] [开发者自荐] Pixboard: 一个能在桌面上放置模拟 LED/CRT/VFD 复古屏小摆件的 App</title><link>https://www.v2ex.com/t/1035368#reply0</link><description>&lt;h2&gt;软件名称&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="icon" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/Pixboard/raw/main/Pixboard/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" /&gt;&lt;br /&gt;
+&lt;strong&gt;Pixboard&lt;/strong&gt; &lt;/p&gt;
+&lt;h2&gt;官网&amp;amp;下载&lt;/h2&gt;
+&lt;p&gt;官方网站: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/Pixboard/" rel="nofollow"&gt;Pixboard on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+下载地址: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/Pixboard/releases/latest" rel="nofollow"&gt;点此前往&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;一句话简介&lt;/h2&gt;
+&lt;p&gt;这个 App 可以在桌面上生成模拟 LED 像素屏 / 老式 CRT / VFD 显像管的小挂件, 可以放在副屏上当个装饰物&lt;/p&gt;
+&lt;h2&gt;软件特色&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;词法，语法，语义，计划，执行，存储，通信协议等等等，每一项都需要时间投入&lt;/li&gt;
-&lt;li&gt;兼容性又是避不开的，花时间成就感可能也不高；&lt;/li&gt;
-&lt;li&gt;迁移，备份，接口，高可用等等...
-开个公司 3-5 年不挣钱的太正常。&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 SwiftUI 编写, 体积小巧轻量化&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持多种静态图像格式及 gif 动图, 支持 HDR 显示&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;用心精调的 10 种滤镜效果, 每一种都真的很好看&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完全免费开源, 代码透明, 不收集上传任何用户隐私&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;新趋势&lt;/h2&gt;
-&lt;p&gt;有没有新趋势，有的。&lt;/p&gt;
-&lt;p&gt;向量，图，时序，ai 等等。但是商业路径探索的怎么样，我不清楚，但是总要摸爬滚打才能出头部厂商（我相信）&lt;/p&gt;
-&lt;h2&gt;对于刚毕业的童鞋&lt;/h2&gt;
-&lt;p&gt;如果有选择，或者不是特别热爱。不要进这行，学习的东西多，但是同比学习其他的产出并不高。&lt;/p&gt;
-&lt;p&gt;而且行业近期估计会有一波出清，可能出现很多人卷工作的情况（包括我）。公司内刚毕业没几年年的同学很难找到 l 相关工作，都开始考虑转行了。。。&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:12:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035129#reply2</guid></item><item><title>[硬件] 关于 windows 硬盘写入的问题</title><link>https://www.v2ex.com/t/1035127#reply4</link><description>&lt;p&gt;不开虚拟内存 20-60G &lt;/p&gt;
-&lt;p&gt;开了虚拟内存 160G 上下合格吗?&lt;/p&gt;
-&lt;p&gt;寿命计算: 512*3000/200/365&lt;/p&gt;
-&lt;p&gt;大约是 21 年,ssd 擦写次数有 3000 次吗?&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:07:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035127#reply4</guid></item><item><title>[程序员] 有没有大佬懂 iOS 自动化的</title><link>https://www.v2ex.com/t/1035126#reply0</link><description>&lt;p&gt;寻找可以做 iOS 自动化的大佬 想着多注册一些 pp 账号
-大致描述：pc 中控收集 下发 AWZ 的备份包，然后 ios 越狱后安装 awz ，配合 xxt 框架去批量自动注册 pp ，操作环境和注册信息这里都有！
-绿泡泡：ZjE0MDA1ODU1MDQ=&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 01:03:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035126#reply0</guid></item><item><title>[Chrome] Chrome 已经修复 icon 错位的 bug</title><link>https://www.v2ex.com/t/1035124#reply0</link><description>Win Chrome 124.0.6367.79&lt;br /&gt;&lt;br /&gt;更新后标签 icon 错位的 bug 已修复</description><pubDate>Wed, 24 Apr 2024 00:53:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035124#reply0</guid></item><item><title>[长沙] 深圳搬家到长沙，货拉拉小货车会被限行吗？</title><link>https://www.v2ex.com/t/1035123#reply18</link><description>这几天要从深圳搬家到长沙，查了一下长沙有货车限行政策。&lt;br /&gt;叫了一辆深圳牌照的货拉拉小货车，车长 3m ，蓝牌，不知道进长沙是不是也会被限行。&lt;br /&gt;要是限行的话得等到晚上 22 点之后才能进，就很难受了。&lt;br /&gt;好像长沙本地的货车可以线上申请通行证，外地的牌照不知道怎么申请。</description><pubDate>Wed, 24 Apr 2024 00:50:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035123#reply18</guid></item><item><title>[iPad] iPad 上有没有阅读 documentation 的好方法？</title><link>https://www.v2ex.com/t/1035122#reply4</link><description>&lt;p&gt;请问 iPad 上有没有类似于 Dash 和 Zeal 的离线阅读 Docs 的 app 呢？&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 00:39:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035122#reply4</guid></item><item><title>[全球工单系统] 114dns 挂了吗？</title><link>https://www.v2ex.com/t/1035121#reply1</link><description>&lt;a href="https://www.114dns.com/" rel="nofollow noopener" target="_blank"&gt;https://www.114dns.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/qxzkJSg.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/qxzkJSg.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Wed, 24 Apr 2024 00:36:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035121#reply1</guid></item><item><title>[摄影] 相机溢价太严重了</title><link>https://www.v2ex.com/t/1035120#reply30</link><description>&lt;p&gt;好像从去年开始，相机就开始溢价了。如今，无论哪个品牌，溢价更加严重，有的相机甚至溢价 2k 。&lt;/p&gt;
-&lt;p&gt;想入门的摄影的新手门槛变高了，难道要回到几十年前，只有贵族才买得起相机的时代了吗？&lt;/p&gt;
-&lt;p&gt;何时才能降回原价呀！&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 00:35:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035120#reply30</guid></item><item><title>[问与答] bitwarden windows 版在同一个网站上比如 google，不能记录 2 个账户的信息？</title><link>https://www.v2ex.com/t/1035119#reply11</link><description>bitwarden 在同一个网站上比如 google ，不能记录 2 个账户的用户名密码的？&lt;br /&gt;1password 也是这样的？</description><pubDate>Wed, 24 Apr 2024 00:27:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035119#reply11</guid></item><item><title>[汇丰银行] 开了汇丰 One 综合账户，就能申请一张蓝狮子萬事達卡扣賬卡，全球取款免手续费</title><link>https://www.v2ex.com/t/1035117#reply8</link><description>&lt;h1&gt;账户优势&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;支持全球 12 种主要货币，可用来消费及提取现金。会从你的汇丰综合理财账户中相应的货币账户直接扣款。12 种货币包括港元、美元、英镑、日元、人民币、欧元、泰铢、澳元、新西兰元、新加坡元、加拿大元及瑞士法郎。其他货币的消费，则根据现行汇率以港元结算。&lt;/li&gt;
-&lt;li&gt;所有消费免收手续费，无论您是在商店还是网上购物，我们都不会向您收取任何本地或海外交易费用。&lt;/li&gt;
-&lt;li&gt;在全球汇丰自动柜员机提取现金，手续费全免。&lt;/li&gt;
-&lt;li&gt;所有合资格签账免收外币交易费，更可享 0.4 ％现金回赠。&lt;/li&gt;
-&lt;li&gt;可以申请附属借记卡。&lt;/li&gt;
-&lt;li&gt;绑定微信支付和支付宝&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;申请资格&lt;/h1&gt;
-&lt;p&gt;汇丰综合理财账户客户，可以先申请开通汇丰 one 账户，One 账户申请成功之后就能在汇丰 HSBC HK App 上找到借记卡，选择申请汇丰万事达借记卡就可以啦。&lt;/p&gt;
-&lt;h1&gt;申请及激活&lt;/h1&gt;
+&lt;h2&gt;使用注意&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;第一步：手机申请借记卡
-如果您已持有综合理财账户，可以通过最新版本的香港汇丰流动理财应用程序申请借记卡，登录应用程序并浏览“了解产品与服务“并选择”借记卡“即可申请。申请成功后，系统显示会在 4-6 个工作日寄到，但是平邮信非常难送到你手里，记得一定去修改地址。&lt;/p&gt;
+&lt;p&gt;在支持 HDR 显示的屏幕上开启 HDR 可以极大提升显示效果, 拟真度更上一层楼. 但对于分区背光设备, 长时间局部固定位置显示 HDR 可能会导致此区域灯珠寿命消耗加速.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;第二步，激活借记卡
-收到实体借记卡后，即可在香港汇丰流动理财应用程序选择“管理借记卡”，并输入借记卡到期日，激活借记卡。&lt;/p&gt;
+&lt;p&gt;这世界上很多事都是说不出什么具体意义的, 这是个纯自娱自乐的项目, 不接受 &lt;code&gt;这个 App 有什么意义吗?&lt;/code&gt; 之类的质疑.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;获取借记卡私人密码&lt;/h1&gt;
-&lt;p&gt;现在无需通过邮寄信件获取自动柜员机私人密码。激活借记卡后，您只需要拨打互动语音系统热线 (852) 3163 0633 ，并按照指示设置自动柜员机私人密码，过程简单快捷。&lt;/p&gt;
-&lt;h1&gt;收件地址&lt;/h1&gt;
-&lt;p&gt;大部分人都可能没有收到汇丰的平邮信，这里可以在汇丰网银上进行修改地址，将原来留的拼音地址改为汉字，最好在地址后面再加上手机号，这样就不会丢了。&lt;/p&gt;
-&lt;h1&gt;微信/支付宝绑定&lt;/h1&gt;
+&lt;h2&gt;软件截图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="preview" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/Pixboard/raw/main/img/preview.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;更新日志 (2024/04/10)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;v1.0.2:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修复了子面板窗口标题未隐藏的 bug  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;本软件完全开源免费使用. 如果用的顺手, 可以在 github 页面最底部扫码打赏.
+您的支持是我创造更多开源软件的动力 0v0
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 10:22:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035368#reply0</guid></item><item><title>[分享发现] 老牌实名社交 APP，人人网，当初是怎么突然死掉的？</title><link>https://www.v2ex.com/t/1035367#reply0</link><description>有人知道这段历史吗？&lt;br /&gt;&lt;br /&gt;出来说说科普一下考古，&lt;br /&gt;&lt;br /&gt;年轻人都不知道这个社交鼻祖啦！</description><pubDate>Wed, 24 Apr 2024 10:22:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035367#reply0</guid></item><item><title>[程序员] Java 面试的时候面试官问有没有架构经验，具体什么是架构经验？</title><link>https://www.v2ex.com/t/1035366#reply3</link><description>&lt;p&gt;有哥能给举个例子吗，我今天说我在项目里写了流水线框架，面试官觉得这个不算架构经验&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035366#reply3</guid></item><item><title>[酷工作] [急] 字节跳动-商业化-商业平台大量缺人！</title><link>https://www.v2ex.com/t/1035365#reply1</link><description>&lt;p&gt;诚招前后端（本人前端，可以辅导面试/简历修改，希望大家最后都能拿到 offer ）&lt;/p&gt;
+&lt;p&gt;其他要求：学历：统招本科及以上。工作地点：北京。&lt;/p&gt;
+&lt;h2&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;wx: bGVlbW92ZTY2Ng==&lt;/p&gt;
+&lt;h2&gt;前端&lt;/h2&gt;
+&lt;p&gt;职位描述
+1 、负责字节跳动商业变现相关平台与产品的前端开发工作；
+2 、参与规划与制定商业变现前端整体发展计划与基础建设；
+3 、负责推动与优化已有前端项目的基础架构与组件抽象；
+4 、与团队配合完成整体项目规划、设计与开发。
+职位要求
+1 、精通 HTML/JS/CSS 等前端相关技术；
+2 、拥有 1 年以上的前端开发经验，并整体负责过一个线上系统的技术选型.规划与开发；
+3 、对主流前端框架（ React\Vue\Angular 等）有一定了解，并至少对其中一种有深入了解；
+4 、对服务端（ Nodejs\Java\Python\Go 等）有一定实际的开发经验；
+5 、拥有良好的推动力与主动性，能主动发现问题并推进问题改进；
+6 、有良好的团队精神，乐于为团队成员进行经验分享，帮助团队成长。&lt;/p&gt;
+&lt;p&gt;自投链接： &lt;a href="https://job.toutiao.com/s/iFdHLLuD" rel="nofollow"&gt;https://job.toutiao.com/s/iFdHLLuD&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;后端&lt;/h2&gt;
+&lt;p&gt;职位描述
+1 、服务于字节跳动广告系统，负责商业化广告平台核心方向的研发工作；
+2 、设计并维护广告平台，进行架构设计和性能调优，为整体服务性能、稳定性、快速产出负责；
+3 、优化系统核心架构，负责平台方向技术规划，优化工程效率研发，数据一致性的保障等；
+4 、负责广告平台广告投放的后端方向，作为面向广告主的直接服务平台，将接触到全面的广告投放领域经验，对接整个广告系统各个子业务，驱动关键业务的技术架构选型；
+5 、独立负责业务模块的开发架构，推进事情能够快速的根据业务需求提炼出技术模型去实现。
+职位要求
+1 、具备扎实的编程编程功底，三年以上丰富的服务器端开发经验，开发语言为 Golang （原语言不限）；
+2 、熟悉常用的数据结构和算法，存储、缓存等基础组件的性能，优缺点，有海量存储经验者优先；
+3 、逻辑思维能力强，善于分析和解决问题，能够处理复杂业务系统逻辑，具备良好的业务建模能力，能够结合业务场景抽象业务模型，完成技术落地；
+4 、熟悉常用 kv 存储,缓存（ redis/leveldb/mongodb 等），消息队列(nsq, rabbitmq, rocketmq)等服务并有使用经验，熟悉使用场景和性能区别、优缺点；
+5 、希望你热爱技术的同时有一定的业务思维，能从用户角度思考问题，不仅仅是纯技术角度思考；
+6 、具有以下背景加分：深入阅读过著名开源服务代码或有开源代码贡献，独立负责过重要系统设计和架构，有过带项目管理经验。&lt;/p&gt;
+&lt;p&gt;自投链接 &lt;a href="https://job.toutiao.com/s/iFdHBYH5" rel="nofollow"&gt;https://job.toutiao.com/s/iFdHBYH5&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;其他&lt;/h2&gt;
+&lt;p&gt;字节跳动全部岗位内推： &lt;a href="https://job.toutiao.com/s/iFdH2yNG" rel="nofollow"&gt;https://job.toutiao.com/s/iFdH2yNG&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;副几个问题&lt;/h3&gt;
+&lt;p&gt;统一回复下大家关注的几个问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;是不是要考算法：是，请至少准备到可以完成中等难度的部分题目，后端可能要求更高。&lt;/li&gt;
+&lt;li&gt;是不是会不稳定：个人体验下来我们部门非常稳定，身边同事没有经历过所谓优化，hc 也是逐年增长的状态。&lt;/li&gt;
+&lt;li&gt;面过字节会有影响吗？会，hr 筛选简历肯定会参考历史面试的时间和评价，比如前一个月刚刚面试过，并且一面没有通过，这种情况很可能再投也是被刷掉。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Wed, 24 Apr 2024 10:12:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035365#reply1</guid></item><item><title>[PHP] PHP -roadrunner 压力测试调优配置</title><link>https://www.v2ex.com/t/1035364#reply0</link><description>&lt;h2&gt;&lt;strong&gt;pod 配置&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;cpu&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;memory&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0.5&lt;/td&gt;
+&lt;td&gt;512M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;&lt;strong&gt;性能测试工具:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;a href="https://pts.console.aliyun.com/" rel="nofollow"&gt;&lt;strong&gt;https://pts.console.aliyun.com/&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;并发&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;测试时间&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;压力来源&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;压测接口&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;td&gt;2 分钟&lt;/td&gt;
+&lt;td&gt;公网&lt;/td&gt;
+&lt;td&gt;/api/welcome&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;ps: 并发&lt;strong&gt;100&lt;/strong&gt;是先压测之后得到&lt;strong&gt;pod&lt;/strong&gt;能承受的数量 (&lt;strong&gt;200 并发&lt;/strong&gt;无报错但是&lt;strong&gt;RT&lt;/strong&gt;大大增加, 再多就开始报错了)&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;启动服务:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;roadrunner&lt;/strong&gt; 运行原理&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/kdsIjVi13L.png%21large" /&gt;&lt;/p&gt;
+&lt;p&gt;image-20240424-054522.png&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;laravel&lt;/strong&gt;的&lt;strong&gt;octane&lt;/strong&gt;内置支持&lt;strong&gt;roadrunner&lt;/strong&gt;, 所以可以通过以下命令启动&lt;strong&gt;HTTP&lt;/strong&gt;服务&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;php artisan octane:start --server=roadrunner --host=0.0.0.0 --port=8080 --rpc-port=6001 --workers=1 --log-level=warn
+--max-requests=50000 --rr-config=/var/www/.rr.yaml
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Copy&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;基础概念:&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;QPS(TPS)&lt;/strong&gt;  = 总请求数 / 时间(秒)&lt;/p&gt;
+&lt;p&gt;并发(是对于客户端的理解, 比如 100 并发) QPS (是对于服务端可以处理请求的速度), 两者并没有必然关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;&lt;strong&gt;测试列表:&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官方的建议是 &lt;strong&gt;workers&lt;/strong&gt; 数量等于 &lt;strong&gt;CPU&lt;/strong&gt; 线程数&lt;/p&gt;
+&lt;p&gt;开启&lt;strong&gt;keep-alive&lt;/strong&gt;可以提升 &lt;strong&gt;40%&lt;/strong&gt;  性能&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;max-requests&lt;/strong&gt; 无内存泄漏问题, 可以设置成 0 或者很大的一个值(此次测试过程设置为 &lt;strong&gt;50000&lt;/strong&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;workers&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;max-requests&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;成功率&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;平均 RT(ms)&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;总请求数&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;TPS(平均/峰值)&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;预览图&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;50000&lt;/td&gt;
+&lt;td&gt;100%&lt;/td&gt;
+&lt;td&gt;1378&lt;/td&gt;
+&lt;td&gt;8665&lt;/td&gt;
+&lt;td&gt;72/118&lt;/td&gt;
+&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/rLP85IdOFi.png%21large" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;50000&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;100%&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;1090&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;10000&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;91/170&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/4kAeNXY4RD.png%21large" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;50000&lt;/td&gt;
+&lt;td&gt;100%&lt;/td&gt;
+&lt;td&gt;1307&lt;/td&gt;
+&lt;td&gt;9042&lt;/td&gt;
+&lt;td&gt;76/133&lt;/td&gt;
+&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/iev6wU13qK.png%21large" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;50000&lt;/td&gt;
+&lt;td&gt;99.16% (内存达到极限, 处理太慢超时错误)&lt;/td&gt;
+&lt;td&gt;2161&lt;/td&gt;
+&lt;td&gt;5501&lt;/td&gt;
+&lt;td&gt;46/78&lt;/td&gt;
+&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/R0x7QfLJHb.png%21large" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;93.68% (请求到达 500 重启)&lt;/td&gt;
+&lt;td&gt;1567&lt;/td&gt;
+&lt;td&gt;7508&lt;/td&gt;
+&lt;td&gt;65/174&lt;/td&gt;
+&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/YbYWQGkXoQ.png%21large" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;&lt;strong&gt;性能负载图&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CPU&lt;/strong&gt;基本没什么变化, 内存是因为开多个&lt;strong&gt;woker&lt;/strong&gt;会占用更多的内存&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/JrnghXiriO.png%21large" /&gt;&lt;/p&gt;
+&lt;p&gt;image-20240424-052711.png&lt;/p&gt;
+&lt;p&gt;经上所测在这个配置下我选择了使用 &lt;strong&gt;workers=2&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Golang 压力测试&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;补一张&lt;strong&gt;Go&lt;/strong&gt;程序&lt;strong&gt;0.5U128M * 150pod&lt;/strong&gt; 的性能图, 何时 &lt;strong&gt;PHP&lt;/strong&gt; 能达到这个程度&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/PdHFMsJv7a.png%21large" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:11:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035364#reply0</guid></item><item><title>[iOS] iPhone 上有什么好用的长截图软件吗</title><link>https://www.v2ex.com/t/1035363#reply5</link><description>如题，免费或付费的都可以，付费最好是买断的</description><pubDate>Wed, 24 Apr 2024 10:09:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035363#reply5</guid></item><item><title>[问与答] TVBOX 资源下载</title><link>https://www.v2ex.com/t/1035362#reply0</link><description>&lt;p&gt;电视上装了个 TVBOX ，从网上找的源可以看一些剧，想下载这些剧集，怎么从接口里面分析一下？或者有其他工具？&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:01:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035362#reply0</guid></item><item><title>[问与答] 买基金，去券商买，和在银行 app 里买有什么本质的区别吗？</title><link>https://www.v2ex.com/t/1035361#reply3</link><description>&lt;p&gt;新手，前几个月 研究 ETF 研究理财顺手开了国内某个券商的账号，感觉券商用起来有点麻烦。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;首先 app 做的稀烂，不说是哪家了，每次登录都要输入客户代码+交易密码还不能保存密码，反正没我银行用的舒服，用起来就像是上个时代的东西&lt;/li&gt;
+&lt;li&gt;投资必须要把钱转进他们的账户里，才能买各种基金股票理财产品，并且把钱传进去只能每天固定时段转进去，超过这个时间就没法转钱进去了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;转了一圈发现券商能做到的项目，比如理财产品和基金，似乎都能在银行 app 里买到，并且银行能直接拿借记卡余额操作，甚至费率都是一样（ 0.12%，看的是基金 050025 ）。&lt;/p&gt;
+&lt;p&gt;似乎他们俩的区别只有银行端没法买股票。&lt;/p&gt;
+&lt;p&gt;想问的是，如果只是单纯买基金，在费率相同的情况下是不是只要用银行 app 就可以了？用券商比银行 app 有什么更好的地方吗？&lt;/p&gt;
+&lt;p&gt;新手希望大佬不吝赐教。&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:01:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035361#reply3</guid></item><item><title>[程序员] V 友们，工作 8 年以上，觉得现在公司上班比较舒服，舒心的有几个？想统计一下</title><link>https://www.v2ex.com/t/1035360#reply3</link><description>&lt;h3&gt;代码写了 10 年，一直在一线写代码，最近 2 年换了好几份工作，都是主动辞职，主要原因是在公司没有自己的机会和位置，做的事情还是工作头几年的内容。&lt;/h3&gt;
+&lt;h3&gt;突发奇想，想问下工作 8 年以上的 V 友们，你们最近几年呆的公司，让你们觉得舒心吗？&lt;/h3&gt;</description><pubDate>Wed, 24 Apr 2024 10:00:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035360#reply3</guid></item><item><title>[问与答] 请问什么手柄可以在 mac 上完美玩星露谷?</title><link>https://www.v2ex.com/t/1035359#reply0</link><description>电脑是 macbook air m2, 想在 steam 用手柄玩星露谷, 但是问了好多客服都说不支持&lt;br /&gt;&lt;br /&gt;请教下各位佬, 不需要太贵的手柄(最好百元内), 就玩玩休闲小游戏, 问了小鸡启明星的客服说不支持 mac&lt;br /&gt;&lt;br /&gt;请各位佬推荐推荐</description><pubDate>Wed, 24 Apr 2024 09:55:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035359#reply0</guid></item><item><title>[创业组队] 寻找一个前端同学</title><link>https://www.v2ex.com/t/1035358#reply1</link><description>目前我们正在开发一个出行类应用，有不错的市场预期。需要一个前端同学入伙加速孵化，要求：会微信小程序、最好偏 react 技术栈。&lt;br /&gt;&lt;br /&gt;感兴趣的请➕我🛰️私聊：d3hfdXNlcl8xMTQyMDk3MzEwODUK  （请备注来源和角色）</description><pubDate>Wed, 24 Apr 2024 09:53:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035358#reply1</guid></item><item><title>[程序员] 我想实现一个根据可视化界面配置的用户标签筛选的功能，我该如何翻译这个过程成 SQL 执行？</title><link>https://www.v2ex.com/t/1035357#reply0</link><description>入参类似这种&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;{&lt;br /&gt;    "type": "rules_relation",&lt;br /&gt;    "relation": "and",&lt;br /&gt;    "rules": [&lt;br /&gt;        {&lt;br /&gt;            "type": "rules_relation",&lt;br /&gt;            "relation": "or",&lt;br /&gt;            "rules": [&lt;br /&gt;                {&lt;br /&gt;                    "type": "profile_rule",&lt;br /&gt;                    "field": "user.gender",&lt;br /&gt;                    "function": "equal",&lt;br /&gt;                    "params": [&lt;br /&gt;                        "男"&lt;br /&gt;                    ],&lt;br /&gt;                    "cname": "性别",&lt;br /&gt;                    "icon": "user-property"&lt;br /&gt;                },&lt;br /&gt;                {&lt;br /&gt;                    "type": "profile_rule",&lt;br /&gt;                    "field": "user.city",&lt;br /&gt;                    "function": "equal",&lt;br /&gt;                    "params": [&lt;br /&gt;                        "北京"&lt;br /&gt;                    ],&lt;br /&gt;                    "cname": "城市",&lt;br /&gt;                    "icon": "user-property"&lt;br /&gt;                }&lt;br /&gt;            ]&lt;br /&gt;        }&lt;br /&gt;    ]&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我是应该直接根据入参用代码实现解析成 sql 的条件，然后拼接还是采用 antlr4 这种解析器？</description><pubDate>Wed, 24 Apr 2024 09:52:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035357#reply0</guid></item><item><title>[macOS] [开发者自荐] AirBattery: 在 Mac 端获取所有设备的电量并显示在 Dock 或状态栏上</title><link>https://www.v2ex.com/t/1035356#reply0</link><description>&lt;h2&gt;软件名称&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="icon" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/AirBattery/raw/main/AirBattery/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" /&gt;&lt;br /&gt;
+&lt;strong&gt;AirBattery&lt;/strong&gt; &lt;/p&gt;
+&lt;h2&gt;官网&amp;amp;下载&lt;/h2&gt;
+&lt;p&gt;官方网站: &lt;strong&gt;&lt;a href="https://lihaoyun6.github.io/airbattery/" rel="nofollow"&gt;AirBattery&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+下载地址: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/AirBattery/releases/latest" rel="nofollow"&gt;点此前往&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+系统要求: macOS 11 或以上版本&lt;/p&gt;
+&lt;h2&gt;一句话简介&lt;/h2&gt;
+&lt;p&gt;在 Mac 端获取你所有设备的电量信息, 并显示在 Dock 栏或状态栏或系统小组件中&lt;br /&gt;
+支持 iPhone / iPad / iPod touch / AirPods / Apple Watch / Magic 键鼠等.. &lt;/p&gt;
+&lt;h2&gt;软件特色&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;使用 SwiftUI 编写, 支持状态栏图标/系统小组件/低电量提醒等功能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;零配置全自动获取周边设备电量信息, 适配多种设备&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;完全免费开源, 代码透明, 不收集上传任何用户隐私&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;注: 部分代码由 ChatGPT 生成或整理&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;使用注意&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;支付宝：跟国内绑定银行卡流程一致，需要输入卡片有效期和 CCV 后三码，即可绑定成功。&lt;/p&gt;
+&lt;p&gt;请确保 iPhone / iPad 已信任此 Mac &lt;strong&gt;(且至少在 AirBattery 运行状态下使用数据线连接 Mac 一次以进行配对)&lt;/strong&gt; . 之后只需确保其与 Mac 处于同一局域网中即可.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;微信支付：在“我的-服务-钱包-银行卡”添加银行卡，到最后一步底下会提示需要预授权 0.05 美元进行验证（实际不用），进入万事达卡片验证页面，显示交易金额变成 0 元。输入验证码后绑定成功。&lt;/p&gt;
+&lt;p&gt;在设置面板中启用 "&lt;strong&gt;通过蓝牙发现 iPhone / iPad(蜂窝版)&lt;/strong&gt;" 选项, 即可在 iPhone/iPad 不连接到 WiFi 的情况下获取电量信息. 此功能仅支持 iPhone 或插卡版 iPad 设备.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;微信、支付宝线上小额消费（≤￥ 200 ）不收取手续费，超过则收 3%手续费。目前个人转账，扫描收款码和赞赏码暂不支持。&lt;/p&gt;
+&lt;h2&gt;软件截图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="preview" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/AirBattery/raw/main/img/preview.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;更新日志 (2024/04/11)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;v1.2.9:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Apple Pay：打开汇丰银行 APP ，管理借记卡，然后添加到 Apple Pay 。这时候输入你手机收到的验证码，输入之后就绑定成功了。&lt;/li&gt;
+&lt;li&gt;修复了非"刘海屏" Macbook 设备图标显示为刘海屏的 bug&lt;/li&gt;
+&lt;li&gt;将设备列表中 Mac 本机的显示名称从设备类型改为本机名称  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;原文链接： &lt;a href="https://mp.weixin.qq.com/s/dAJ914dkdin-hyeRZDanNw" rel="nofollow"&gt;https://mp.weixin.qq.com/s/dAJ914dkdin-hyeRZDanNw&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 00:16:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035117#reply8</guid></item><item><title>[Windows] 微软又来拉💩了</title><link>https://www.v2ex.com/t/1035116#reply20</link><description>&lt;p&gt;&lt;a href="https://imgur.com/a/sDa237P" rel="nofollow"&gt;https://imgur.com/a/sDa237P&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 00:13:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035116#reply20</guid></item><item><title>[Apple] iPhone 14Pro 打开快捷指令，自动化时很卡，而且自动化里面的图标还一直闪，有遇到过吗？</title><link>https://www.v2ex.com/t/1035115#reply3</link><description></description><pubDate>Wed, 24 Apr 2024 00:13:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035115#reply3</guid></item></channel></rss>
+&lt;pre&gt;&lt;code&gt;本软件完全开源免费使用. 如果用的顺手, 可以在 github 页面最底部扫码打赏.
+您的支持是我创造更多开源软件的动力 0v0
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 09:52:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035356#reply0</guid></item><item><title>[程序员] 在自己的 pad 上打包一个自己开发的应用必须要花 688 吗</title><link>https://www.v2ex.com/t/1035355#reply14</link><description>&lt;p&gt;本人 React 开发一枚, iOS 没搞过.&lt;/p&gt;
+&lt;p&gt;自己想用 React native 写个小游戏给闺女玩, 顺便丰富一下自己的技术栈.&lt;/p&gt;
+&lt;p&gt;一开始用 expo, 写了 7 8 个页面想在自己 pad 上跑起来看看, 结果发现 build 需要提供开发者账号.&lt;/p&gt;
+&lt;p&gt;然后又去用 React-native-cli 捣鼓环境, 移植了一遍代码, 然后发现还是需要开发者账号才能打包部署真机.&lt;/p&gt;
+&lt;p&gt;请问有啥别的方法不.&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:38:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035355#reply14</guid></item><item><title>[职场话题] 关于离职证明能写什么和不能写什么的一个讨论</title><link>https://www.v2ex.com/t/1035354#reply1</link><description>最近朋友在和前公司劳动仲裁，于是几个人就在认真学习相关的法律法条，然后发现关于离职证明里面能写不能写离职具体原因事由这个事情，我们吵起来了。&lt;br /&gt;&lt;br /&gt;其中一份资料提到的是：“其实，对于离职证明不能写哪些内容，国家是有法律规定的。&lt;br /&gt;原劳动部《关于实行劳动合同制度若干问题的通知》（劳部发〔 1996 〕 354 号）第 15 条：在劳动者履行了有关义务终止、解除劳动合同时，用人单位应当出具终止、解除劳动合同证明书，作为该劳动者按规定享受失业保险待遇和失业登记、求职登记的凭证。证明书应写明劳动合同期限、终止或解除的日期、所担任的工作。如果劳动者要求，用人单位可在证明中客观地说明解除劳动合同的原因。&lt;br /&gt;这条规定明文规定：只有员工主动提出要求，公司才可以在离职证明上写上离职原因。”&lt;br /&gt;&lt;br /&gt;&lt;a href="https://mp.weixin.qq.com/s/xNEJfJ2-Fn1GJRqstt1FkQ" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/xNEJfJ2-Fn1GJRqstt1FkQ&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但是实际的一个劳动仲裁案例里面，没有按照这个通知里面这个具体“如果劳动者要求，用人单位可在证明中客观地说明解除劳动合同的原因。” 有一个反向理解的意思。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.hp.gov.cn/gzhprs/gkmlpt/content/8/8324/post_8324131.html#15296" rel="nofollow noopener" target="_blank"&gt;https://www.hp.gov.cn/gzhprs/gkmlpt/content/8/8324/post_8324131.html#15296&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;“五、关于出具解除劳动合同证明的问题。&lt;br /&gt;&lt;br /&gt;  被申请人于 2021 年 7 月 15 日开庭时向申请人出具了《离职证明》，主要内容为“陈 XX 自 2019 年 8 月 26 日至 2021 年 6 月 10 日在广州源典科技有限公司担任财务主管职务，由于绩效工资有争议，员工以公司未及时足额发放工资为由，通知公司解除劳动合同，并以被迫解除劳动合同为由申请劳动仲裁。目前纠纷处理中，双方已终止劳动关系”，申请人当庭签收了该证明。申请人主张该证明中应不写具体的解除理由，只记载双方解除劳动关系即可，要求被申请人重新出具。&lt;br /&gt;&lt;br /&gt;  本委认为，被申请人已向申请人出具的《离职证明》系按照实际情况出具，内容合法，其要求被申请人重新出具离职证明没有依据，本委对其第五项仲裁请求不予支持。”</description><pubDate>Wed, 24 Apr 2024 09:35:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035354#reply1</guid></item><item><title>[OpenAI] Chat GPT Plus 拼车 30 元/月， 2=3</title><link>https://www.v2ex.com/t/1035353#reply0</link><description>&lt;p&gt;使用 Share 项目搭建，不提供账号，已稳定拼车一个多月
+上车 24 小时跳车不退款，避免白嫖
+TG：aHR0cHM6Ly90Lm1lL2dhb3h1ZWM=&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035353#reply0</guid></item><item><title>[问与答] 电脑实在带不动了，准备入手一个台式和笔记本，求大佬给建议，小白听劝！</title><link>https://www.v2ex.com/t/1035352#reply6</link><description>&lt;h2&gt;目前&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;电脑配置：i5-8 代 + 8G 内存 + 256 硬盘 + 1050ti （作为一个 java 开发，这配置我用了 5 年！！！）
+
+其实现在电脑也不卡，做个开发也没啥问题，但是有异响，蓝屏，死机，也不想折腾了，直接换一个吧，来之前
+
+小红书 B 站都看了，但是我觉得他们推荐的都是比较性价比的吧 有些推荐内存 显卡我都没听过..，我想只买一二线品牌，在一二线品牌中选择性价比；
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;需求&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;台式：
+
+这次换购的几个目标：1.一二线品牌 2. 不要任何 RGB 3.全黑系列，4.不超频  杜绝花里胡哨；
+
+目标配置：i5/i7-14 代 + 4070 + ddr5 wifi + 32G （ 6800 以上） + 2T ；
+
+预算：1W 左右，不知道能不能下来； 实在不行，就从内存 水冷 机箱 硬盘上省吧；
+
+
+笔记本：
+	
+媳妇用，主要办公，出差，方便携带，好用， 预算 5-6K
+
+
+求大佬们推荐；
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;PS&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;其实我看了几个配置，CPU 和 显卡就不说了，4 核肯定比 2 核好 8 核肯定比 4 核好，有多少预算，就买多少的吧，但是我不太懂 主板怎么选， 主板怎么搭配能发挥 CPU 显卡 内存的优势，就像我买个支持 7500 的内存， 结果主板只能读 6000 ，那不扯淡了嘛，就怕出这个问题
+
+还有电源功耗， 所有配置耗费 600W ， 我买个 850W 的电源，这种操作到底是优还是劣， 说优的也有 说劣的也有；
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 09:28:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035352#reply6</guid></item><item><title>[分享创造] Windows、 Linux 平台支持类似于 apple M 系列芯片的 Unified Memory Architecture(UMA)架构吗, AI 模型跑不起来...</title><link>https://www.v2ex.com/t/1035351#reply2</link><description>&lt;p&gt;目前在试着跑了下开源的大模型，发现大模型数据比较占用显存，一般消费级别的显存都很小，不会超过 16G ，但是稍微参数大些的模型数据就超过 16G 了，当加载模型数据到显存时显然是不够的，然后发现程序就完全在硬盘上推理，速度奇慢无比，如果显卡能使用内存加显存岂不是很爽，再大的模型都可以加载，而且不用跑的那么慢
+有大佬比较清楚吗，可以详细说说么&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035351#reply2</guid></item></channel></rss>
