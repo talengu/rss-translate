@@ -1,289 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 24 Apr 2024 10:37:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 源码购买</title><link>https://www.v2ex.com/t/1035371#reply0</link><description>&lt;p&gt;主要需求就是多商户外卖系统，商家端，用户端 还有骑手端（现成产品）&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:30:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035371#reply0</guid></item><item><title>[iDev] 想问下苹果有没有类似于 auto.js 的东西？</title><link>https://www.v2ex.com/t/1035370#reply2</link><description>想在苹果上面搞自动化，苹果有没有类似于 auto.js 的东西呢？</description><pubDate>Wed, 24 Apr 2024 10:24:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035370#reply2</guid></item><item><title>[macOS] [开发者自荐] Pixboard: 一个能在桌面上放置模拟 LED/CRT/VFD 复古屏小摆件的 App</title><link>https://www.v2ex.com/t/1035368#reply0</link><description>&lt;h2&gt;软件名称&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="icon" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/Pixboard/raw/main/Pixboard/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" /&gt;&lt;br /&gt;
-&lt;strong&gt;Pixboard&lt;/strong&gt; &lt;/p&gt;
-&lt;h2&gt;官网&amp;amp;下载&lt;/h2&gt;
-&lt;p&gt;官方网站: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/Pixboard/" rel="nofollow"&gt;Pixboard on GitHub&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-下载地址: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/Pixboard/releases/latest" rel="nofollow"&gt;点此前往&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;一句话简介&lt;/h2&gt;
-&lt;p&gt;这个 App 可以在桌面上生成模拟 LED 像素屏 / 老式 CRT / VFD 显像管的小挂件, 可以放在副屏上当个装饰物&lt;/p&gt;
-&lt;h2&gt;软件特色&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;使用 SwiftUI 编写, 体积小巧轻量化&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;支持多种静态图像格式及 gif 动图, 支持 HDR 显示&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;用心精调的 10 种滤镜效果, 每一种都真的很好看&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;完全免费开源, 代码透明, 不收集上传任何用户隐私&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;使用注意&lt;/h2&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 25 Apr 2024 08:59:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] finalshell 跑路了吗？为啥登录不上去了。</title><link>https://www.v2ex.com/t/1035665#reply0</link><description></description><pubDate>Thu, 25 Apr 2024 08:58:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035665#reply0</guid></item><item><title>[创业组队] 娱乐垂直产品（找 Uniapp）一起创业！</title><link>https://www.v2ex.com/t/1035664#reply0</link><description>&lt;h1&gt;娱乐垂直行业产品&lt;/h1&gt;
+&lt;p&gt;本人白天是一名 &lt;strong&gt;Golang 后端程序员&lt;/strong&gt;，每到夜晚我就会变身成为一名 &lt;strong&gt;吉他手/男歌手&lt;/strong&gt;，游走在舞台上演出。是的，可能你已经猜到了，我要做的产品就是有关于娱乐行业的 toC 和 toB 产品，目前打算先做 toC 小程序开发，后续做 App ，所以想找个 Uniapp 一起合作创业。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;目前我做了什么&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;在支持 HDR 显示的屏幕上开启 HDR 可以极大提升显示效果, 拟真度更上一层楼. 但对于分区背光设备, 长时间局部固定位置显示 HDR 可能会导致此区域灯珠寿命消耗加速.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;这世界上很多事都是说不出什么具体意义的, 这是个纯自娱自乐的项目, 不接受 &lt;code&gt;这个 App 有什么意义吗?&lt;/code&gt; 之类的质疑.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;🎉 公司已经成立啦（如果一起合作签订股权划分书）；&lt;/li&gt;
+&lt;li&gt;🍀 小程序端原型图已完成；&lt;/li&gt;
+&lt;li&gt;🏁 小程序端 UI 设计图已完成 90% 左右（不断设计中）；&lt;/li&gt;
+&lt;li&gt;🚑 后端代码已经完成了 50% 左右（还在努力写）；&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;软件截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="preview" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/Pixboard/raw/main/img/preview.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;更新日志 (2024/04/10)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;v1.0.2:&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;希望您可以做什么&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;修复了子面板窗口标题未隐藏的 bug  &lt;/li&gt;
+&lt;li&gt;熟悉 Uniapp 的开发（方便后续跨端）&lt;/li&gt;
+&lt;li&gt;最好熟悉音乐或者喜欢音乐，再或者喜欢任何一个艺术娱乐行业（补充说明有无均可）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;本软件完全开源免费使用. 如果用的顺手, 可以在 github 页面最底部扫码打赏.
-您的支持是我创造更多开源软件的动力 0v0
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 10:22:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035368#reply0</guid></item><item><title>[分享发现] 老牌实名社交 APP，人人网，当初是怎么突然死掉的？</title><link>https://www.v2ex.com/t/1035367#reply0</link><description>有人知道这段历史吗？&lt;br /&gt;&lt;br /&gt;出来说说科普一下考古，&lt;br /&gt;&lt;br /&gt;年轻人都不知道这个社交鼻祖啦！</description><pubDate>Wed, 24 Apr 2024 10:22:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035367#reply0</guid></item><item><title>[程序员] Java 面试的时候面试官问有没有架构经验，具体什么是架构经验？</title><link>https://www.v2ex.com/t/1035366#reply3</link><description>&lt;p&gt;有哥能给举个例子吗，我今天说我在项目里写了流水线框架，面试官觉得这个不算架构经验&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035366#reply3</guid></item><item><title>[酷工作] [急] 字节跳动-商业化-商业平台大量缺人！</title><link>https://www.v2ex.com/t/1035365#reply1</link><description>&lt;p&gt;诚招前后端（本人前端，可以辅导面试/简历修改，希望大家最后都能拿到 offer ）&lt;/p&gt;
-&lt;p&gt;其他要求：学历：统招本科及以上。工作地点：北京。&lt;/p&gt;
-&lt;h2&gt;联系方式&lt;/h2&gt;
-&lt;p&gt;wx: bGVlbW92ZTY2Ng==&lt;/p&gt;
-&lt;h2&gt;前端&lt;/h2&gt;
-&lt;p&gt;职位描述
-1 、负责字节跳动商业变现相关平台与产品的前端开发工作；
-2 、参与规划与制定商业变现前端整体发展计划与基础建设；
-3 、负责推动与优化已有前端项目的基础架构与组件抽象；
-4 、与团队配合完成整体项目规划、设计与开发。
-职位要求
-1 、精通 HTML/JS/CSS 等前端相关技术；
-2 、拥有 1 年以上的前端开发经验，并整体负责过一个线上系统的技术选型.规划与开发；
-3 、对主流前端框架（ React\Vue\Angular 等）有一定了解，并至少对其中一种有深入了解；
-4 、对服务端（ Nodejs\Java\Python\Go 等）有一定实际的开发经验；
-5 、拥有良好的推动力与主动性，能主动发现问题并推进问题改进；
-6 、有良好的团队精神，乐于为团队成员进行经验分享，帮助团队成长。&lt;/p&gt;
-&lt;p&gt;自投链接： &lt;a href="https://job.toutiao.com/s/iFdHLLuD" rel="nofollow"&gt;https://job.toutiao.com/s/iFdHLLuD&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;后端&lt;/h2&gt;
-&lt;p&gt;职位描述
-1 、服务于字节跳动广告系统，负责商业化广告平台核心方向的研发工作；
-2 、设计并维护广告平台，进行架构设计和性能调优，为整体服务性能、稳定性、快速产出负责；
-3 、优化系统核心架构，负责平台方向技术规划，优化工程效率研发，数据一致性的保障等；
-4 、负责广告平台广告投放的后端方向，作为面向广告主的直接服务平台，将接触到全面的广告投放领域经验，对接整个广告系统各个子业务，驱动关键业务的技术架构选型；
-5 、独立负责业务模块的开发架构，推进事情能够快速的根据业务需求提炼出技术模型去实现。
-职位要求
-1 、具备扎实的编程编程功底，三年以上丰富的服务器端开发经验，开发语言为 Golang （原语言不限）；
-2 、熟悉常用的数据结构和算法，存储、缓存等基础组件的性能，优缺点，有海量存储经验者优先；
-3 、逻辑思维能力强，善于分析和解决问题，能够处理复杂业务系统逻辑，具备良好的业务建模能力，能够结合业务场景抽象业务模型，完成技术落地；
-4 、熟悉常用 kv 存储,缓存（ redis/leveldb/mongodb 等），消息队列(nsq, rabbitmq, rocketmq)等服务并有使用经验，熟悉使用场景和性能区别、优缺点；
-5 、希望你热爱技术的同时有一定的业务思维，能从用户角度思考问题，不仅仅是纯技术角度思考；
-6 、具有以下背景加分：深入阅读过著名开源服务代码或有开源代码贡献，独立负责过重要系统设计和架构，有过带项目管理经验。&lt;/p&gt;
-&lt;p&gt;自投链接 &lt;a href="https://job.toutiao.com/s/iFdHBYH5" rel="nofollow"&gt;https://job.toutiao.com/s/iFdHBYH5&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;其他&lt;/h2&gt;
-&lt;p&gt;字节跳动全部岗位内推： &lt;a href="https://job.toutiao.com/s/iFdH2yNG" rel="nofollow"&gt;https://job.toutiao.com/s/iFdH2yNG&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;副几个问题&lt;/h3&gt;
-&lt;p&gt;统一回复下大家关注的几个问题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;是不是要考算法：是，请至少准备到可以完成中等难度的部分题目，后端可能要求更高。&lt;/li&gt;
-&lt;li&gt;是不是会不稳定：个人体验下来我们部门非常稳定，身边同事没有经历过所谓优化，hc 也是逐年增长的状态。&lt;/li&gt;
-&lt;li&gt;面过字节会有影响吗？会，hr 筛选简历肯定会参考历史面试的时间和评价，比如前一个月刚刚面试过，并且一面没有通过，这种情况很可能再投也是被刷掉。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Wed, 24 Apr 2024 10:12:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035365#reply1</guid></item><item><title>[PHP] PHP -roadrunner 压力测试调优配置</title><link>https://www.v2ex.com/t/1035364#reply0</link><description>&lt;h2&gt;&lt;strong&gt;pod 配置&lt;/strong&gt;&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;cpu&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;memory&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;0.5&lt;/td&gt;
-&lt;td&gt;512M&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;&lt;strong&gt;性能测试工具:&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://pts.console.aliyun.com/" rel="nofollow"&gt;&lt;strong&gt;https://pts.console.aliyun.com/&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;并发&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;测试时间&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;压力来源&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;压测接口&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;100&lt;/td&gt;
-&lt;td&gt;2 分钟&lt;/td&gt;
-&lt;td&gt;公网&lt;/td&gt;
-&lt;td&gt;/api/welcome&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;ps: 并发&lt;strong&gt;100&lt;/strong&gt;是先压测之后得到&lt;strong&gt;pod&lt;/strong&gt;能承受的数量 (&lt;strong&gt;200 并发&lt;/strong&gt;无报错但是&lt;strong&gt;RT&lt;/strong&gt;大大增加, 再多就开始报错了)&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;启动服务:&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;roadrunner&lt;/strong&gt; 运行原理&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/kdsIjVi13L.png%21large" /&gt;&lt;/p&gt;
-&lt;p&gt;image-20240424-054522.png&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;laravel&lt;/strong&gt;的&lt;strong&gt;octane&lt;/strong&gt;内置支持&lt;strong&gt;roadrunner&lt;/strong&gt;, 所以可以通过以下命令启动&lt;strong&gt;HTTP&lt;/strong&gt;服务&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;php artisan octane:start --server=roadrunner --host=0.0.0.0 --port=8080 --rpc-port=6001 --workers=1 --log-level=warn
---max-requests=50000 --rr-config=/var/www/.rr.yaml
+&lt;hr /&gt;
+&lt;h2&gt;还有件很重要的事情&lt;/h2&gt;
+&lt;p&gt;如果您愿意一起共事，前期是&lt;strong&gt;没有资金收入&lt;/strong&gt;的，目前云服务、存储这些我自己在付费，这边只能保证给您&lt;strong&gt;划分部分股权&lt;/strong&gt;，如果后期盈利就可以参与到&lt;strong&gt;公司分红&lt;/strong&gt;，&lt;strong&gt;这很重要&lt;/strong&gt;，所以我需要向您提前说明&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;如何联系我呢&lt;/h2&gt;
+&lt;p&gt;邮箱：Z29waGVyY29kaW5nQGdtYWlsLmNvbQ==&lt;/p&gt;
+&lt;h2&gt;或者留下您的联系方式～&lt;/h2&gt;
+&lt;p&gt;最新更新于 2024-04-25&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:55:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035664#reply0</guid></item><item><title>[问与答] 文石、汉王、掌阅，用微信读书的话，这三家哪个更好用呢？</title><link>https://www.v2ex.com/t/1035661#reply2</link><description>最近在看阅读器，文石 poke5(2024)、掌阅 NEO2 Pro 、汉王 clear 6 PLUS ，这三款有没有用过的？哪个更好用呢。</description><pubDate>Thu, 25 Apr 2024 08:45:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035661#reply2</guid></item><item><title>[问与答] 为啥我看推荐通勤自行车的，没人推荐凤凰的，基本都是迪卡侬，喜德盛啥的</title><link>https://www.v2ex.com/t/1035660#reply0</link><description>&lt;p&gt;明明凤凰的自行车价位更亲民，而且也是老牌子了。搞不太懂= =，有人骑过这牌子的山地车 公路车，推荐一下呗&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:45:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035660#reply0</guid></item><item><title>[程序员] 喜欢折腾配置环境，除了去做运维和自己接单有什么继续提高能力的方法吗</title><link>https://www.v2ex.com/t/1035659#reply0</link><description>1-为啥不考虑做运维，因为一般要 24 小时值班&lt;br /&gt;2-有些环境没弄过或者不懂的，可能解决不了或者不好定价&lt;br /&gt;3-配自己的环境，有需求的话都比较熟悉能快速解决&lt;br /&gt;&lt;br /&gt;如果接单的话，一般大家会怎么定价呢？&lt;br /&gt;还有什么途径提高自己 debug 能力吗？</description><pubDate>Thu, 25 Apr 2024 08:45:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035659#reply0</guid></item><item><title>[分享创造] [原创] [简繁转换] Web 在线工具： [繁体中文🔄简体汉字] (台湾正体🆚大陆简体)</title><link>https://www.v2ex.com/t/1035658#reply3</link><description>&lt;p&gt;[简繁转换]  Web 在线工具：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;繁体中文🔄简体汉字、台湾正体🆚大陆简体
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Copy&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;基础概念:&lt;/strong&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;QPS(TPS)&lt;/strong&gt;  = 总请求数 / 时间(秒)&lt;/p&gt;
-&lt;p&gt;并发(是对于客户端的理解, 比如 100 并发) QPS (是对于服务端可以处理请求的速度), 两者并没有必然关系&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;&lt;strong&gt;测试列表:&lt;/strong&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;官方的建议是 &lt;strong&gt;workers&lt;/strong&gt; 数量等于 &lt;strong&gt;CPU&lt;/strong&gt; 线程数&lt;/p&gt;
-&lt;p&gt;开启&lt;strong&gt;keep-alive&lt;/strong&gt;可以提升 &lt;strong&gt;40%&lt;/strong&gt;  性能&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;max-requests&lt;/strong&gt; 无内存泄漏问题, 可以设置成 0 或者很大的一个值(此次测试过程设置为 &lt;strong&gt;50000&lt;/strong&gt;)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;strong&gt;workers&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;max-requests&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;成功率&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;平均 RT(ms)&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;总请求数&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;TPS(平均/峰值)&lt;/strong&gt;&lt;/th&gt;
-&lt;th&gt;&lt;strong&gt;预览图&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;50000&lt;/td&gt;
-&lt;td&gt;100%&lt;/td&gt;
-&lt;td&gt;1378&lt;/td&gt;
-&lt;td&gt;8665&lt;/td&gt;
-&lt;td&gt;72/118&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/rLP85IdOFi.png%21large" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;50000&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;100%&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;1090&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;10000&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;91/170&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/4kAeNXY4RD.png%21large" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;50000&lt;/td&gt;
-&lt;td&gt;100%&lt;/td&gt;
-&lt;td&gt;1307&lt;/td&gt;
-&lt;td&gt;9042&lt;/td&gt;
-&lt;td&gt;76/133&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/iev6wU13qK.png%21large" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;50000&lt;/td&gt;
-&lt;td&gt;99.16% (内存达到极限, 处理太慢超时错误)&lt;/td&gt;
-&lt;td&gt;2161&lt;/td&gt;
-&lt;td&gt;5501&lt;/td&gt;
-&lt;td&gt;46/78&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/R0x7QfLJHb.png%21large" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;500&lt;/td&gt;
-&lt;td&gt;93.68% (请求到达 500 重启)&lt;/td&gt;
-&lt;td&gt;1567&lt;/td&gt;
-&lt;td&gt;7508&lt;/td&gt;
-&lt;td&gt;65/174&lt;/td&gt;
-&lt;td&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/YbYWQGkXoQ.png%21large" /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;&lt;strong&gt;性能负载图&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CPU&lt;/strong&gt;基本没什么变化, 内存是因为开多个&lt;strong&gt;woker&lt;/strong&gt;会占用更多的内存&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/JrnghXiriO.png%21large" /&gt;&lt;/p&gt;
-&lt;p&gt;image-20240424-052711.png&lt;/p&gt;
-&lt;p&gt;经上所测在这个配置下我选择了使用 &lt;strong&gt;workers=2&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Golang 压力测试&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;补一张&lt;strong&gt;Go&lt;/strong&gt;程序&lt;strong&gt;0.5U128M * 150pod&lt;/strong&gt; 的性能图, 何时 &lt;strong&gt;PHP&lt;/strong&gt; 能达到这个程度&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.learnku.com/uploads/images/202404/24/17682/PdHFMsJv7a.png%21large" /&gt;&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:11:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035364#reply0</guid></item><item><title>[iOS] iPhone 上有什么好用的长截图软件吗</title><link>https://www.v2ex.com/t/1035363#reply5</link><description>如题，免费或付费的都可以，付费最好是买断的</description><pubDate>Wed, 24 Apr 2024 10:09:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035363#reply5</guid></item><item><title>[问与答] TVBOX 资源下载</title><link>https://www.v2ex.com/t/1035362#reply0</link><description>&lt;p&gt;电视上装了个 TVBOX ，从网上找的源可以看一些剧，想下载这些剧集，怎么从接口里面分析一下？或者有其他工具？&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:01:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035362#reply0</guid></item><item><title>[问与答] 买基金，去券商买，和在银行 app 里买有什么本质的区别吗？</title><link>https://www.v2ex.com/t/1035361#reply3</link><description>&lt;p&gt;新手，前几个月 研究 ETF 研究理财顺手开了国内某个券商的账号，感觉券商用起来有点麻烦。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;首先 app 做的稀烂，不说是哪家了，每次登录都要输入客户代码+交易密码还不能保存密码，反正没我银行用的舒服，用起来就像是上个时代的东西&lt;/li&gt;
-&lt;li&gt;投资必须要把钱转进他们的账户里，才能买各种基金股票理财产品，并且把钱传进去只能每天固定时段转进去，超过这个时间就没法转钱进去了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;转了一圈发现券商能做到的项目，比如理财产品和基金，似乎都能在银行 app 里买到，并且银行能直接拿借记卡余额操作，甚至费率都是一样（ 0.12%，看的是基金 050025 ）。&lt;/p&gt;
-&lt;p&gt;似乎他们俩的区别只有银行端没法买股票。&lt;/p&gt;
-&lt;p&gt;想问的是，如果只是单纯买基金，在费率相同的情况下是不是只要用银行 app 就可以了？用券商比银行 app 有什么更好的地方吗？&lt;/p&gt;
-&lt;p&gt;新手希望大佬不吝赐教。&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 10:01:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035361#reply3</guid></item><item><title>[程序员] V 友们，工作 8 年以上，觉得现在公司上班比较舒服，舒心的有几个？想统计一下</title><link>https://www.v2ex.com/t/1035360#reply3</link><description>&lt;h3&gt;代码写了 10 年，一直在一线写代码，最近 2 年换了好几份工作，都是主动辞职，主要原因是在公司没有自己的机会和位置，做的事情还是工作头几年的内容。&lt;/h3&gt;
-&lt;h3&gt;突发奇想，想问下工作 8 年以上的 V 友们，你们最近几年呆的公司，让你们觉得舒心吗？&lt;/h3&gt;</description><pubDate>Wed, 24 Apr 2024 10:00:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035360#reply3</guid></item><item><title>[问与答] 请问什么手柄可以在 mac 上完美玩星露谷?</title><link>https://www.v2ex.com/t/1035359#reply0</link><description>电脑是 macbook air m2, 想在 steam 用手柄玩星露谷, 但是问了好多客服都说不支持&lt;br /&gt;&lt;br /&gt;请教下各位佬, 不需要太贵的手柄(最好百元内), 就玩玩休闲小游戏, 问了小鸡启明星的客服说不支持 mac&lt;br /&gt;&lt;br /&gt;请各位佬推荐推荐</description><pubDate>Wed, 24 Apr 2024 09:55:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035359#reply0</guid></item><item><title>[创业组队] 寻找一个前端同学</title><link>https://www.v2ex.com/t/1035358#reply1</link><description>目前我们正在开发一个出行类应用，有不错的市场预期。需要一个前端同学入伙加速孵化，要求：会微信小程序、最好偏 react 技术栈。&lt;br /&gt;&lt;br /&gt;感兴趣的请➕我🛰️私聊：d3hfdXNlcl8xMTQyMDk3MzEwODUK  （请备注来源和角色）</description><pubDate>Wed, 24 Apr 2024 09:53:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035358#reply1</guid></item><item><title>[程序员] 我想实现一个根据可视化界面配置的用户标签筛选的功能，我该如何翻译这个过程成 SQL 执行？</title><link>https://www.v2ex.com/t/1035357#reply0</link><description>入参类似这种&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;{&lt;br /&gt;    "type": "rules_relation",&lt;br /&gt;    "relation": "and",&lt;br /&gt;    "rules": [&lt;br /&gt;        {&lt;br /&gt;            "type": "rules_relation",&lt;br /&gt;            "relation": "or",&lt;br /&gt;            "rules": [&lt;br /&gt;                {&lt;br /&gt;                    "type": "profile_rule",&lt;br /&gt;                    "field": "user.gender",&lt;br /&gt;                    "function": "equal",&lt;br /&gt;                    "params": [&lt;br /&gt;                        "男"&lt;br /&gt;                    ],&lt;br /&gt;                    "cname": "性别",&lt;br /&gt;                    "icon": "user-property"&lt;br /&gt;                },&lt;br /&gt;                {&lt;br /&gt;                    "type": "profile_rule",&lt;br /&gt;                    "field": "user.city",&lt;br /&gt;                    "function": "equal",&lt;br /&gt;                    "params": [&lt;br /&gt;                        "北京"&lt;br /&gt;                    ],&lt;br /&gt;                    "cname": "城市",&lt;br /&gt;                    "icon": "user-property"&lt;br /&gt;                }&lt;br /&gt;            ]&lt;br /&gt;        }&lt;br /&gt;    ]&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我是应该直接根据入参用代码实现解析成 sql 的条件，然后拼接还是采用 antlr4 这种解析器？</description><pubDate>Wed, 24 Apr 2024 09:52:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035357#reply0</guid></item><item><title>[macOS] [开发者自荐] AirBattery: 在 Mac 端获取所有设备的电量并显示在 Dock 或状态栏上</title><link>https://www.v2ex.com/t/1035356#reply0</link><description>&lt;h2&gt;软件名称&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="icon" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/AirBattery/raw/main/AirBattery/Assets.xcassets/AppIcon.appiconset/icon_128x128.png" /&gt;&lt;br /&gt;
-&lt;strong&gt;AirBattery&lt;/strong&gt; &lt;/p&gt;
-&lt;h2&gt;官网&amp;amp;下载&lt;/h2&gt;
-&lt;p&gt;官方网站: &lt;strong&gt;&lt;a href="https://lihaoyun6.github.io/airbattery/" rel="nofollow"&gt;AirBattery&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-下载地址: &lt;strong&gt;&lt;a href="https://github.com/lihaoyun6/AirBattery/releases/latest" rel="nofollow"&gt;点此前往&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
-系统要求: macOS 11 或以上版本&lt;/p&gt;
-&lt;h2&gt;一句话简介&lt;/h2&gt;
-&lt;p&gt;在 Mac 端获取你所有设备的电量信息, 并显示在 Dock 栏或状态栏或系统小组件中&lt;br /&gt;
-支持 iPhone / iPad / iPod touch / AirPods / Apple Watch / Magic 键鼠等.. &lt;/p&gt;
-&lt;h2&gt;软件特色&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;使用 SwiftUI 编写, 支持状态栏图标/系统小组件/低电量提醒等功能&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;零配置全自动获取周边设备电量信息, 适配多种设备&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;完全免费开源, 代码透明, 不收集上传任何用户隐私&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;em&gt;注: 部分代码由 ChatGPT 生成或整理&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;使用注意&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;请确保 iPhone / iPad 已信任此 Mac &lt;strong&gt;(且至少在 AirBattery 运行状态下使用数据线连接 Mac 一次以进行配对)&lt;/strong&gt; . 之后只需确保其与 Mac 处于同一局域网中即可.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在设置面板中启用 "&lt;strong&gt;通过蓝牙发现 iPhone / iPad(蜂窝版)&lt;/strong&gt;" 选项, 即可在 iPhone/iPad 不连接到 WiFi 的情况下获取电量信息. 此功能仅支持 iPhone 或插卡版 iPad 设备.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;软件截图&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="preview" class="embedded_image" rel="noreferrer" src="https://github.com/lihaoyun6/AirBattery/raw/main/img/preview.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;更新日志 (2024/04/11)&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;v1.2.9:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;修复了非"刘海屏" Macbook 设备图标显示为刘海屏的 bug&lt;/li&gt;
-&lt;li&gt;将设备列表中 Mac 本机的显示名称从设备类型改为本机名称  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;本软件完全开源免费使用. 如果用的顺手, 可以在 github 页面最底部扫码打赏.
-您的支持是我创造更多开源软件的动力 0v0
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 09:52:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035356#reply0</guid></item><item><title>[程序员] 在自己的 pad 上打包一个自己开发的应用必须要花 688 吗</title><link>https://www.v2ex.com/t/1035355#reply14</link><description>&lt;p&gt;本人 React 开发一枚, iOS 没搞过.&lt;/p&gt;
-&lt;p&gt;自己想用 React native 写个小游戏给闺女玩, 顺便丰富一下自己的技术栈.&lt;/p&gt;
-&lt;p&gt;一开始用 expo, 写了 7 8 个页面想在自己 pad 上跑起来看看, 结果发现 build 需要提供开发者账号.&lt;/p&gt;
-&lt;p&gt;然后又去用 React-native-cli 捣鼓环境, 移植了一遍代码, 然后发现还是需要开发者账号才能打包部署真机.&lt;/p&gt;
-&lt;p&gt;请问有啥别的方法不.&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:38:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035355#reply14</guid></item><item><title>[职场话题] 关于离职证明能写什么和不能写什么的一个讨论</title><link>https://www.v2ex.com/t/1035354#reply1</link><description>最近朋友在和前公司劳动仲裁，于是几个人就在认真学习相关的法律法条，然后发现关于离职证明里面能写不能写离职具体原因事由这个事情，我们吵起来了。&lt;br /&gt;&lt;br /&gt;其中一份资料提到的是：“其实，对于离职证明不能写哪些内容，国家是有法律规定的。&lt;br /&gt;原劳动部《关于实行劳动合同制度若干问题的通知》（劳部发〔 1996 〕 354 号）第 15 条：在劳动者履行了有关义务终止、解除劳动合同时，用人单位应当出具终止、解除劳动合同证明书，作为该劳动者按规定享受失业保险待遇和失业登记、求职登记的凭证。证明书应写明劳动合同期限、终止或解除的日期、所担任的工作。如果劳动者要求，用人单位可在证明中客观地说明解除劳动合同的原因。&lt;br /&gt;这条规定明文规定：只有员工主动提出要求，公司才可以在离职证明上写上离职原因。”&lt;br /&gt;&lt;br /&gt;&lt;a href="https://mp.weixin.qq.com/s/xNEJfJ2-Fn1GJRqstt1FkQ" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s/xNEJfJ2-Fn1GJRqstt1FkQ&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;但是实际的一个劳动仲裁案例里面，没有按照这个通知里面这个具体“如果劳动者要求，用人单位可在证明中客观地说明解除劳动合同的原因。” 有一个反向理解的意思。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.hp.gov.cn/gzhprs/gkmlpt/content/8/8324/post_8324131.html#15296" rel="nofollow noopener" target="_blank"&gt;https://www.hp.gov.cn/gzhprs/gkmlpt/content/8/8324/post_8324131.html#15296&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;“五、关于出具解除劳动合同证明的问题。&lt;br /&gt;&lt;br /&gt;  被申请人于 2021 年 7 月 15 日开庭时向申请人出具了《离职证明》，主要内容为“陈 XX 自 2019 年 8 月 26 日至 2021 年 6 月 10 日在广州源典科技有限公司担任财务主管职务，由于绩效工资有争议，员工以公司未及时足额发放工资为由，通知公司解除劳动合同，并以被迫解除劳动合同为由申请劳动仲裁。目前纠纷处理中，双方已终止劳动关系”，申请人当庭签收了该证明。申请人主张该证明中应不写具体的解除理由，只记载双方解除劳动关系即可，要求被申请人重新出具。&lt;br /&gt;&lt;br /&gt;  本委认为，被申请人已向申请人出具的《离职证明》系按照实际情况出具，内容合法，其要求被申请人重新出具离职证明没有依据，本委对其第五项仲裁请求不予支持。”</description><pubDate>Wed, 24 Apr 2024 09:35:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035354#reply1</guid></item><item><title>[OpenAI] Chat GPT Plus 拼车 30 元/月， 2=3</title><link>https://www.v2ex.com/t/1035353#reply0</link><description>&lt;p&gt;使用 Share 项目搭建，不提供账号，已稳定拼车一个多月
-上车 24 小时跳车不退款，避免白嫖
-TG：aHR0cHM6Ly90Lm1lL2dhb3h1ZWM=&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:35:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035353#reply0</guid></item><item><title>[问与答] 电脑实在带不动了，准备入手一个台式和笔记本，求大佬给建议，小白听劝！</title><link>https://www.v2ex.com/t/1035352#reply6</link><description>&lt;h2&gt;目前&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;电脑配置：i5-8 代 + 8G 内存 + 256 硬盘 + 1050ti （作为一个 java 开发，这配置我用了 5 年！！！）
-
-其实现在电脑也不卡，做个开发也没啥问题，但是有异响，蓝屏，死机，也不想折腾了，直接换一个吧，来之前
-
-小红书 B 站都看了，但是我觉得他们推荐的都是比较性价比的吧 有些推荐内存 显卡我都没听过..，我想只买一二线品牌，在一二线品牌中选择性价比；
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;需求&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;台式：
-
-这次换购的几个目标：1.一二线品牌 2. 不要任何 RGB 3.全黑系列，4.不超频  杜绝花里胡哨；
-
-目标配置：i5/i7-14 代 + 4070 + ddr5 wifi + 32G （ 6800 以上） + 2T ；
-
-预算：1W 左右，不知道能不能下来； 实在不行，就从内存 水冷 机箱 硬盘上省吧；
-
-
-笔记本：
-	
-媳妇用，主要办公，出差，方便携带，好用， 预算 5-6K
-
-
-求大佬们推荐；
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;PS&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;其实我看了几个配置，CPU 和 显卡就不说了，4 核肯定比 2 核好 8 核肯定比 4 核好，有多少预算，就买多少的吧，但是我不太懂 主板怎么选， 主板怎么搭配能发挥 CPU 显卡 内存的优势，就像我买个支持 7500 的内存， 结果主板只能读 6000 ，那不扯淡了嘛，就怕出这个问题
-
-还有电源功耗， 所有配置耗费 600W ， 我买个 850W 的电源，这种操作到底是优还是劣， 说优的也有 说劣的也有；
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Wed, 24 Apr 2024 09:28:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035352#reply6</guid></item><item><title>[分享创造] Windows、 Linux 平台支持类似于 apple M 系列芯片的 Unified Memory Architecture(UMA)架构吗, AI 模型跑不起来...</title><link>https://www.v2ex.com/t/1035351#reply2</link><description>&lt;p&gt;目前在试着跑了下开源的大模型，发现大模型数据比较占用显存，一般消费级别的显存都很小，不会超过 16G ，但是稍微参数大些的模型数据就超过 16G 了，当加载模型数据到显存时显然是不够的，然后发现程序就完全在硬盘上推理，速度奇慢无比，如果显卡能使用内存加显存岂不是很爽，再大的模型都可以加载，而且不用跑的那么慢
-有大佬比较清楚吗，可以详细说说么&lt;/p&gt;</description><pubDate>Wed, 24 Apr 2024 09:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035351#reply2</guid></item></channel></rss>
+&lt;p&gt;&lt;a href="https://tsc.openle.com/main/other/go-static/v1/our/yts/wz_XttpO0NI" rel="nofollow"&gt;&lt;img alt="图片 alt" class="embedded_image" rel="noreferrer" src="https://tsc.openle.com/main/other/go-static/v1/our-images/yt/wz_XttpO0NI/standard.webp" title="图片 title/多参应引号括住" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+用法视频观看地址  &lt;a href="https://tsc.openle.com/main/other/go-static/v1/our/yts/wz_XttpO0NI" rel="nofollow"&gt;https://tsc.openle.com/main/other/go-static/v1/our/yts/wz_XttpO0NI&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+简繁互转 网址 - &lt;a href="https://passed.app/main/other/home/chinese-converter/" rel="nofollow"&gt;https://passed.app/main/other/home/chinese-converter/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;期待能听取诸位使用感受！&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:40:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035658#reply3</guid></item><item><title>[问与答] 有哪些成熟的建站工具，可以考虑付费</title><link>https://www.v2ex.com/t/1035657#reply0</link><description>主要搭建公司官网，最好搭建好后，后期可以支持修改文案等</description><pubDate>Thu, 25 Apr 2024 08:36:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035657#reply0</guid></item><item><title>[分享创造] [🎁送码] 信息订阅&amp;降噪利器 Redfeed 锐读更新，日报 AI 生成器小范围测试</title><link>https://www.v2ex.com/t/1035656#reply0</link><description>&lt;p&gt;[最近做了啥]&lt;/p&gt;
+&lt;p&gt;日报 AI 生成器终于上线了，现在小范围测试中；如果你想定制一个专属的日报，比如 xx 大模型日报，使用这个工具只需 1-2 分钟即可。这个工具主要服务内容运营、社群运营、在朋友圈经常发日报的同学。&lt;/p&gt;
+&lt;p&gt;如何体验：关注公众号 redfeed 锐读，点击 [我的-回旋镖日报]  或者微信打开 &lt;a href="https://read.forcecreat.com/about" rel="nofollow"&gt;https://read.forcecreat.com/about&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;公众号链接，参与用户调研也可以抽彩蛋码： &lt;a href="https://mp.weixin.qq.com/s/YpXsWI60dqsbRETfm-k1fg" rel="nofollow"&gt;https://mp.weixin.qq.com/s/YpXsWI60dqsbRETfm-k1fg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;（ 1.0 可能还有很多小问题，欢迎体验反馈）&lt;/p&gt;
+&lt;p&gt;[正在做啥]&lt;/p&gt;
+&lt;p&gt;web 端开发&lt;/p&gt;
+&lt;p&gt;[未来可能做啥]&lt;/p&gt;
+&lt;p&gt;新能力：web 端支持关键词订阅、插件、 改善产品用户体验 能帮助增长的功能&lt;/p&gt;
+&lt;p&gt;[产品介绍]&lt;/p&gt;
+&lt;p&gt;Redfeed 锐读，定位是智能时代的个人信息助手，提供信息订阅、智能过滤、AI 解读等服务，服务对信息输入效率和质量有高要求的少数人，帮忙这些可能改变世界的少数人更好的思考和创造。&lt;/p&gt;
+&lt;p&gt;官网：&lt;a href="http://www.forcecreat.com" rel="nofollow"&gt;www.forcecreat.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[如何体验]&lt;/p&gt;
+&lt;p&gt;1)访问 H5 端：微信环境打开 &lt;a href="https://read.forcecreat.com/inbox" rel="nofollow"&gt;https://read.forcecreat.com/inbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2)添加小助手体验：扫码添加企业微信小助手，然后把需要解读的文章扔给他吧。&lt;/p&gt;
+&lt;p&gt;点击查看小助手二维码： &lt;a href="https://images.redfeed.io/redfeed.jpg" rel="nofollow"&gt;https://images.redfeed.io/redfeed.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[送码环节]&lt;/p&gt;
+&lt;p&gt;规则：2024 年 4 月 30 日 A 股收盘后，取上证指数 小数点 前 1 位 和 后 1 位，楼层尾号跟这 2 个数字一样的朋友赠送「终身免费 AI 摘要服务」兑换码。可重复获奖。&lt;/p&gt;
+&lt;p&gt;请务必在楼层中留下你们的微信或者邮箱（ base64 ），获奖后，将在 2 个工作日内给你们发送兑换码，请留意查收邮件或微信信息。&lt;/p&gt;
+&lt;p&gt;什么是「终身免费 AI 摘要服务」：把你需要解读的文章转发给小助手，即可免费获得文章摘要内容并自动收藏，不限文章长度，只要模型支持我们就支持。每天不超过 50 篇，避免非常规使用。终身，即我们产品正常运营就可以一直使用。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:33:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035656#reply0</guid></item><item><title>[程序员] 说说后端开发者副业都在干什么？</title><link>https://www.v2ex.com/t/1035655#reply0</link><description>&lt;p&gt;最好是利用自身技术，自认为前端还是很好接活搞副业的，前端的兄弟们也可以讲讲&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:33:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035655#reply0</guid></item><item><title>[Apple] macOS 如何还原文件图标，并且禁止第三方修改</title><link>https://www.v2ex.com/t/1035654#reply0</link><description>&lt;p&gt;困扰我许久的问题，比如压缩软件，会把压缩文件的图标改掉，但是很丑，完全不如原版好看。
+有什么办法还原文件图标，或者禁止第三方修改。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:27:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035654#reply0</guid></item><item><title>[程序员] 今天用 rust 实现了 Http 负载测试工具</title><link>https://www.v2ex.com/t/1035653#reply0</link><description>&lt;h2&gt;源代码&lt;/h2&gt;
+&lt;p&gt;源码在&lt;a href="https://github.com/lsk569937453/loadTesting" rel="nofollow"&gt;github&lt;/a&gt;上。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:26:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035653#reply0</guid></item><item><title>[问与答] 既然外面的包子，饺子都是预制，还不如自己买？</title><link>https://www.v2ex.com/t/1035652#reply12</link><description>有没有哪个牌子你们吃过好的，平时早上孩子也要吃早餐，偶尔在外面买的包子也是预制，别问我为什么知道&lt;br /&gt;&lt;br /&gt;如果你知道，或者买过，可以告诉我一下什么牌子比较放心&lt;br /&gt;&lt;br /&gt;叉烧包：&lt;br /&gt;奶黄包：&lt;br /&gt;饺子：&lt;br /&gt;云吞：&lt;br /&gt;烧卖：</description><pubDate>Thu, 25 Apr 2024 08:24:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035652#reply12</guid></item><item><title>[问与答] 手机换电池有推荐的品牌吗？</title><link>https://www.v2ex.com/t/1035651#reply2</link><description>&lt;p&gt;iPhone 12mini 电池健康只有 76%了，在上海有什么靠谱的换电池的商家推荐吗？官方的就算了。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:23:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035651#reply2</guid></item><item><title>[推广] 免费喝一个月麦当劳冰红茶了，无门槛无低消费无搭配，可以单独下单</title><link>https://www.v2ex.com/t/1035650#reply0</link><description>&lt;p&gt;墨迹天气的活动，借花献佛了&lt;br /&gt; 不需要搭配消费，没有门槛。不需要下 app,链接领卷，麦当劳小程序下单，每天可领&lt;br /&gt; 复制到微信打开就行，不用下墨迹天气&lt;/p&gt; &lt;p&gt;&lt;a href="https://cokehappiness-web01.chinacloudsites.cn/h5/24ymm/#/" rel="nofollow"&gt;https://cokehappiness-web01.chinacloudsites.cn/h5/24ymm/#/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;也可到我的 JD 优惠购物群去领。路过的时候点下群公告就行了&lt;br /&gt; 群里主要发送一些商品的优惠信息，领卷加上打折之后比日常价便宜不少&lt;br /&gt; 也可以直接添加 wx 号进群：acfgdtsa&lt;br /&gt; 发送信息的机器人是返利机器人，支持淘宝，京东，拼多多，抖音。私聊才可返利&lt;br /&gt; 目前两元以下返 80%，两元以上返 70%&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.erpweb.eu.org/imgs/2024/04/d51560808c93375b.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.erpweb.eu.org/imgs/2024/04/843071957c49b7c2.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.erpweb.eu.org/imgs/2024/04/cb341f2e6e58f164.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:23:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035650#reply0</guid></item><item><title>[微信] 平时使用多台 windows 设备，怎么同步微信聊天记录</title><link>https://www.v2ex.com/t/1035649#reply6</link><description>&lt;p&gt;如题，微信有不少重要聊天记录，但是平时会使用多台 Windows 设备，例如：
+1 ，工作电脑 A
+2 ，工作电脑 B
+3 ，自用电脑 C
+如何在几台设备之间方便的同步微信的聊天记录，或者把微信“随身携带”？
+目前想了的方案是
+制作便携版微信，把微信和微信数据一同装进移动硬盘，从移动硬盘启动微信。
+最末选项：把系统装进移动硬盘&lt;/p&gt;
+&lt;p&gt;QQ 、企业微信等同理，不知道大家有没有什么其他的看法&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:22:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035649#reply6</guid></item><item><title>[程序员] 中国联通 江苏用户 每个月免费领取 100 分钟通话， 1G 流量 或者 100 条短信</title><link>https://www.v2ex.com/t/1035648#reply0</link><description>&lt;p&gt;哪位大佬能帮忙写个脚本每个月自动领取啊，&lt;/p&gt;
+&lt;p&gt;流量倒是不缺，每个月 80g 够用，就想领个 100 分钟偶尔打个电话&lt;/p&gt;
+&lt;p&gt;亲，已经为您开通了，权益领取方式：&lt;/p&gt;
+&lt;p&gt;1 、 [中国联通江苏微厅] 微信公众号：输入关键字“月月领”，进入活动页面领取。&lt;/p&gt;
+&lt;p&gt;2 、中国联通 APP：首页－江苏专区－领福利；进入活动页面领取。 或者 底部服务按钮－往下划 - 在生活模块－月月领；&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:22:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035648#reply0</guid></item><item><title>[分享创造] 求解！在 zfb 没看到这样的 API 接口，为何别人获取了 userid 就可以直接生成红包链接？</title><link>https://www.v2ex.com/t/1035647#reply0</link><description>今天看群里有人推这个网站的短链接，发现仅仅使用 zfb 的 userid 跟红包码的 token ，就可以在小而美内点链接去 zfb 领他的红包，然后看了一下主页，发现了这个接口，但是奇怪的是，zfb 官方的 API 里面并没有这样的接口，而且为何没有授权，就可以在 zfb 里点链接看到自己的 userid ？这是未授权漏洞吗？&lt;br /&gt;![1.png]( &lt;a href="https://img2.imgtp.com/2024/04/25/7yVgLv07.png" rel="nofollow noopener" target="_blank"&gt;https://img2.imgtp.com/2024/04/25/7yVgLv07.png&lt;/a&gt;)</description><pubDate>Thu, 25 Apr 2024 08:22:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035647#reply0</guid></item><item><title>[程序员] 开发了多年的项目，苦于没有变现方式，看看有没有有兴趣的铁汁</title><link>https://www.v2ex.com/t/1035644#reply5</link><description>由于之前在彩票行业待过两年，之前公司是做 app 的，于是乎利用工作之余手敲了一个 h5 的 app 网站，界面也是抄的之前的彩票行业大佬 159 的，有过了解的可能知道。&lt;br /&gt;介绍下相关背景吧，大概是 17 年，由于当时刚毕业没多久进了这家公司，从事一个彩票 app 后端的开发，那个时候互联网彩票的环境还是比较好的，网易，阿里，腾讯都有这方面的业务，做的是正规的软件，当时彩票的打票机是有提供接口给我们的，我们发数据过去，彩票机打票，我们主要赚的是这个抽佣（大概 6-8 个点左右），和彩票店的收益方式一样，当时也对接了两个打票的公司吧，大概一家有一百来台机器吧，后面 18 年世界杯过后政策来了就关了，当时腾讯天天中，还有网易的人人中彩票这些大公司都关了，然后我们因为没赚到钱也停掉了，当时我觉得这个东西有搞头，毕竟线下店销售的话肯定没有线上拉人块，于是就完善了一下之前做的 app,自己买的服务器搞了域名，然后又网上找了个算法预测结果这些，发到这上面是看看有没有有兴趣的朋友，或者有开彩票店的需要这个工具，含泪大甩卖，帮部署，帮维护，实在是不想之前花的心血白费了....&lt;br /&gt;下面是网站链接：&lt;br /&gt;www.winsport.ltd/sport/index.html&lt;br /&gt;&lt;br /&gt;支付通道关了，避免有人恶意操作，里面发单跟单都是 AI 算法算的，记录是真实的，这个并没有对外盈利使用&lt;br /&gt;希望大家给点意见吧，或者有兴趣的可以加下我的 wx&lt;br /&gt;最后提一下，知道你们中有大佬，千万别搞渗透压测这些，谢谢铁汁们了。</description><pubDate>Thu, 25 Apr 2024 08:20:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035644#reply5</guid></item><item><title>[VPS] 有没有 cn2 的 vps 推荐呀</title><link>https://www.v2ex.com/t/1035643#reply0</link><description>&lt;p&gt;看了一圈怎么都上千呢&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 08:16:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035643#reply0</guid></item><item><title>[问与答] 前几天看&lt;父母喜欢上六合采买码那种无力感&gt;有感</title><link>https://www.v2ex.com/t/1035642#reply0</link><description>偶然发现，如果家中父母长辈有执着于打牌，买码等等容易被骗的情况下&lt;br /&gt;&lt;br /&gt;在我们劝说不动的情况下，我们是否可以利用反诈来规劝父母&lt;br /&gt;&lt;br /&gt;看到其他地方有这样的例子，自己注册了一个 gv 号，然后用家里人手机来测试是否可用后，拨打了家人的电话进行了通话，结果晚上，反诈蜀黍上门了&lt;br /&gt;&lt;a href="https://hostloc.com/thread-1299991-1-1.html" rel="nofollow noopener" target="_blank"&gt;https://hostloc.com/thread-1299991-1-1.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;那如果我们家人有类似的，我们自己是否可以注册个 gv ，然后拨打家人电话，然后达到蜀黍上门规劝的效果</description><pubDate>Thu, 25 Apr 2024 08:13:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035642#reply0</guid></item></channel></rss>
