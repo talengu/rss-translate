@@ -1,207 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 25 Apr 2024 22:37:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Oracle] 最近有开成功甲骨文美区的吗</title><link>https://www.v2ex.com/t/1035773#reply0</link><description>了解一下，想开个美区。&lt;br /&gt;顺便问问大家有什么经验</description><pubDate>Thu, 25 Apr 2024 22:24:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035773#reply0</guid></item><item><title>[OpenAI] poe 会员年度订阅拼车</title><link>https://www.v2ex.com/t/1035771#reply0</link><description>&lt;p&gt;找两个小伙伴一起用，目前已经开通了年度订阅，300/人，到期时间 2025.4.26 ，
-可以绑定自己的邮箱登录，可用 GPT-4 、Claude 3 ，每月 100 万 points
-联系 v(base64): amltLXNlbg==
-&lt;img alt="订阅截图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/kKdJBFA.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 18:09:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035771#reply0</guid></item><item><title>[求职] 最近一到晚上就睡不着，有什么兼职推荐吗？</title><link>https://www.v2ex.com/t/1035770#reply1</link><description>6 年经验的 C++软件工程师，主业因为机缘巧合可以居家办公，最近比较缺钱，每周想拿 20 小时左右找一个远程兼职开发赚点生活费。&lt;br /&gt;奈何自己所在的自动驾驶行业，跟互联网有 gap ，传统前后端反而没啥经验，看了不少国内外外包，好像没啥技术栈重合的岗位。&lt;br /&gt;在这求大哥们指点，有没有哪里缺 C++的？我自认代码质量还算不错，大学也是拿过 ACM 奖牌，算法和数据结构也没问题。&lt;br /&gt;或者我应该再学一些什么呢？现在比较推荐学什么语言/框架/技术比较好找兼职？&lt;br /&gt;如果有岗位或者项目推荐，欢迎联系 enpibGFjazExNQ==</description><pubDate>Thu, 25 Apr 2024 18:07:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035770#reply1</guid></item><item><title>[iPhone] iPhone 14 pro 使用 9 个月，电池健康掉到 98%正常吗？</title><link>https://www.v2ex.com/t/1035769#reply5</link><description>循环 161 次，基本不玩大型游戏，(就刚买时打了几天王者，为了电池健康后面没玩了)电量基本维持在 30 ％-80 ％之间，非常爱惜的使用，今天一看电池健康还是掉到 98 ％了😭&lt;br /&gt;大家的 iPhone 用 9 个月都是多少，想看看我掉的算快的算慢的&lt;br /&gt;然后顺便告诉大家，再怎么爱惜电池，电池健康还是会掉，不如想怎么用就怎么用</description><pubDate>Thu, 25 Apr 2024 17:45:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035769#reply5</guid></item><item><title>[Reddit] 红迪炸了，刷不动</title><link>https://www.v2ex.com/t/1035767#reply5</link><description>&lt;p&gt;清缓存也上不去&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 16:57:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035767#reply5</guid></item><item><title>[问与答] 求助，半前后端分离项目的迁移</title><link>https://www.v2ex.com/t/1035765#reply0</link><description>&lt;p&gt;当前小弟有个半前后端分离的项目，也就是好几年前非常流行的 &lt;code&gt;requirejs&lt;/code&gt; + &lt;code&gt;jq&lt;/code&gt; + &lt;code&gt;vue2&lt;/code&gt; 的那一套，大概有 200+文件，现在想迁移到 nodejs 上面去，最好是老代码少动，但新代码可以用&lt;code&gt;ts&lt;/code&gt;+&lt;code&gt;vue3&lt;/code&gt;这样玩，请问有啥好攻略吗？&lt;/p&gt;
-&lt;p&gt;重写肯定是不可能的了，因为只有我一个人搞。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 16:45:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035765#reply0</guid></item><item><title>[Apple] 能请教一下为什么这个去广告脚本没生效吗？</title><link>https://www.v2ex.com/t/1035764#reply0</link><description>&lt;pre&gt;&lt;code&gt;const targetUserAgent = 'Tachimanga';
-
-if ($request?.headers?.['User-Agent']?.includes(targetUserAgent)) {
-    console.log("Blocking request with User-Agent containing Tachimanga");
-    $done({ response: { status: 403, body: 'Access denied' } });
-} else {
-    $done({});
-}
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 26 Apr 2024 18:34:38 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[日本] 除非能进外企大厂，否则真心不要来日本做 IT 派遣</title><link>https://www.v2ex.com/t/1036068#reply2</link><description>&lt;p&gt;凌晨 3 点，今天喝酒喝多了，说点心里话。
+日本 IT 行业真的太特么垃圾了，如果你们说国内是洼地，日本 IT 就是人类洼地。
+如果不是自找苦吃或者受虐狂抖 M ，真的不要来日本搞 IT ，特别是 IT 派遣。&lt;/p&gt;
+&lt;p&gt;日本 IT 里面，自研/自社开发，和国内/欧美的开发差异还不算那么大。
+日本 IT 派遣/外包，纯粹就是临时工疯狂舔客户，各种人性之恶发扬到极致。
+没有在日本体会过外包/派遣（ sier/ses ）的，真新不要碰这块，不然绝对会后悔到场子铁青。&lt;/p&gt;
+&lt;p&gt;可以看看这个帖子：
+&lt;a href="https://v2ex.com/t/1033791" rel="nofollow"&gt;https://v2ex.com/t/1033791&lt;/a&gt;
+我以全家性命担保这帖子的绝对是实话，这个表格里大部分公司情况都是真实的。
+更可怕的是这种情况还不止是华人坑华人，日本的职场氛围大多就是如此恶劣，堪称变态。&lt;/p&gt;
+&lt;p&gt;所谓不听老人言，吃亏在眼前，来日本真的是肠子都悔青了，见识了什么叫人类洼地。
+但凡有点能力还想润的，一定要往欧美跑。润不了哪怕在国内也别往日本跑。
+真的对不起，喝高了语无伦次，求管理别删帖，就是给后辈一个忠告。
+处理完这边的事情就回国了，真心一秒都呆不下去，太难受了。&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 18:27:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036068#reply2</guid></item><item><title>[分享发现] 刚才 tg 崩了</title><link>https://www.v2ex.com/t/1036067#reply0</link><description></description><pubDate>Fri, 26 Apr 2024 17:40:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036067#reply0</guid></item><item><title>[Surge] 在用 Loon，想试试 Surge，想问一下 Surge 对比 Loon 有什么优势？</title><link>https://www.v2ex.com/t/1036066#reply0</link><description>Surge 试用机会被我几年前浪费掉了，那时还很菜，只会用小火箭。</description><pubDate>Fri, 26 Apr 2024 17:35:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036066#reply0</guid></item><item><title>[Telegram] telegram 疑似崩溃</title><link>https://www.v2ex.com/t/1036065#reply0</link><description>&lt;p&gt;dc5 大 号一直在连接中，dc1 的号可以正常登录&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 17:28:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036065#reply0</guid></item><item><title>[MacBook] reddit 文章， miniled pwm 护眼。</title><link>https://www.v2ex.com/t/1036064#reply1</link><description>我看到前几天更新了，找到解决方法是关闭字体平滑。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.reddit.com/r/macbookpro/comments/11c4srg/will_future_mbps_still_suffer_from_miniled_pwm/" rel="nofollow noopener" target="_blank"&gt;https://www.reddit.com/r/macbookpro/comments/11c4srg/will_future_mbps_still_suffer_from_miniled_pwm/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;大家怎么看。</description><pubDate>Fri, 26 Apr 2024 17:16:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036064#reply1</guid></item><item><title>[Telegram] Telegram 又宕机了</title><link>https://www.v2ex.com/t/1036063#reply0</link><description>宕机中………</description><pubDate>Fri, 26 Apr 2024 17:15:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036063#reply0</guid></item><item><title>[硬件] 笔记本出现一条一条的斑块是什么？</title><link>https://www.v2ex.com/t/1036062#reply3</link><description>&lt;p&gt;如图  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://pic.ym.today/file/d23d92068de3cf2952205.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;不知道是哪里出问题了？有知道的吗？&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 17:11:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036062#reply3</guid></item><item><title>[问与答] 后端开发一定要买 macbook 吗</title><link>https://www.v2ex.com/t/1036060#reply14</link><description>组里几乎清一色的 macbook ，我目前用着 windows 笔记本，平时基本就 vs code+wsl+浏览器+im ，感觉 mac 也没有啥优势，所以来问问各位老哥 mac 值得入手吗&lt;br /&gt;&lt;br /&gt;自己实习时也用过 mac ，感觉在 mac 上效率还没在 windows 上高，可能不太熟+对 win 很熟悉</description><pubDate>Fri, 26 Apr 2024 17:02:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036060#reply14</guid></item><item><title>[MacBook Pro] 日元持续贬值的话，日区 Apple Store 的官翻是否有搞头？</title><link>https://www.v2ex.com/t/1036059#reply2</link><description>&lt;p&gt;随便点开看了一下，一台 16 寸 M3 Max+36G+1T ，国区官价 27999¥（国区官翻还没上），日区官翻含税 471800 日元合 21681¥，可惜的是好像不能更改键盘布局&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 17:01:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036059#reply2</guid></item><item><title>[Linux] Mellanox 网卡跑 DPDK 一直发不出去包，求大佬解答</title><link>https://www.v2ex.com/t/1036058#reply0</link><description>&lt;p&gt;手边一张 Mellanox MCX512A ，装了 DPDK 和 Pktgen 向外打流做测试，然后发现 Pktgen 开始打流的时候计数一直是 0 始终不动，pktgen 、dpdk-testpmd 、dmesg 都看不到有异常信息。&lt;/p&gt;
+&lt;p&gt;下边这个输出，是 start all 之后的，持续为 0 ，即便是设置了新的协议、IP 、MAC 等仍旧发不出去包，非常诡异。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# pktgen -l 6,7 -m 2048 -a 0000:01:00.0 -a 0000:01:00.1 -- -P -T -m "0.0,1.1"
+| Ports 0-1 of 2   &amp;lt;Main Page&amp;gt;  Copyright(c) &amp;lt;2010-2023&amp;gt;, Intel Corporation                                                                                                                                          
+  Port:Flags        : 0:P------      Single 1:P------      Single                                                                                                                                                    
+Link State          :         &amp;lt;UP-10000-FD&amp;gt;         &amp;lt;UP-10000-FD&amp;gt;     ---Total Rate---                                                                                                                               
+Pkts/s Rx           :                     0                     0                    0                                                                                                                                
+       Tx           :                     0                     0                    0                                                                                                                               
+MBits/s Rx/Tx       :                   0/0                   0/0                  0/0                                                                                                                               
+Pkts/s Rx Max       :                     0                     0                    0                                                                                                                               
+       Tx Max       :                     0                     0                    0                                                                                                                               
+Broadcast           :                     0                     0                                                                                                                                                    
+Multicast           :                     0                     0                                                                                                                                                    
+Sizes 64            :                     0                     0                                                                                                                                                    
+      65-127        :                     0                     0                                                                                                                                                    
+      128-255       :                     0                     0                                                                                                                                                    
+      256-511       :                     0                     0                                                                                                                                                    
+      512-1023      :                     0                     0                                                                                                                                                    
+      1024-1518     :                     0                     0                                                                                                                                                    
+Runts/Jumbos        :                   0/0                   0/0                                                                                                                                                    
+ARP/ICMP Pkts       :                   0/0                   0/0                                                                                                                                                    
+Errors Rx/Tx        :                   0/0                   0/0                                                                                                                                                    
+Total Rx Pkts       :                     0                     0                                                                                                                                                    
+      Tx Pkts       :                     0                     0                                                                                                                                                    
+      Rx/Tx MBs     :                   0/0                   0/0
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;IOS 的 Tachimanga 总是会弹出广告，一开始我屏蔽了&lt;code&gt;&lt;a href="http://googleads.g.doubleclick.net" rel="nofollow"&gt;googleads.g.doubleclick.net&lt;/a&gt;&lt;/code&gt;，虽然弹广告的频率降低了，但是没有完全解决问题。偶尔还是会有视频广告弹出来。所以想写个脚本去掉广告。&lt;/p&gt;
-&lt;p&gt;当 HTTP 请求里匹配上^https?://[\w-]+.googlevideo.com/.+$ 就会执行上面的脚本。但是我的编码水平很菜，不懂 js ，虽然日志里打印了 Blocking request with User-Agent containing Tachimanga ，但是广告还是会正常播放，想知道怎么改这个脚本才能让去广告生效呢&lt;/p&gt;
-&lt;p&gt;脚本是一边问 GPT 一边写的，如果觉得写的牛头不对马嘴麻烦轻喷&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 16:40:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035764#reply0</guid></item><item><title>[VPS] ss 无法科学， vmess 可以科学，什么原因？</title><link>https://www.v2ex.com/t/1035763#reply3</link><description>&lt;p&gt;纯小白，求解&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 16:19:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035763#reply3</guid></item><item><title>[Angular] ng-dnd 3.0 发布了！🎉</title><link>https://www.v2ex.com/t/1035762#reply1</link><description>&lt;p&gt;&lt;a href="https://github.com/ng-dnd/ng-dnd/releases/tag/v3.0.0" rel="nofollow"&gt;https://github.com/ng-dnd/ng-dnd/releases/tag/v3.0.0&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 16:00:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035762#reply1</guid></item><item><title>[OpenAI] Openrouter 账单支持国内 VISA 卡支付吗？</title><link>https://www.v2ex.com/t/1035761#reply1</link><description>&lt;p&gt;以及里面的 haiku api 支持高并发吗，想用来做翻译&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:59:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035761#reply1</guid></item><item><title>[职场话题] 大家知道上海 xtransfer 这个公司么</title><link>https://www.v2ex.com/t/1035760#reply4</link><description>&lt;p&gt;中文应该是上海夺畅，资深工程师。涨薪有点低，大概在 15% - 20%左右，base 也不高。定级资深工程师。普遍薪酬大概在多少？&lt;/p&gt;
-&lt;p&gt;里面加班环境，嫡系文化如何&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:37:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035760#reply4</guid></item><item><title>[信息安全] 关于黑产绕过邮件网关 SPF 发送钓鱼邮件的疑惑</title><link>https://www.v2ex.com/t/1035759#reply6</link><description>&lt;p&gt;最近发现攻击者 IP 180.103.12.117 通过 SMTP 端口向同事发送钓鱼邮件成功，没有经过任何认证，且发件 IP 不在 &lt;a href="http://cpibj.com.cn" rel="nofollow"&gt;cpibj.com.cn&lt;/a&gt; 的 SPF 允许范围内。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;C:\&amp;gt;nslookup
-默认服务器:  public1.114dns.com
-Address:  114.114.114.114
-
-&amp;gt; set qt=txt
-&amp;gt; cpibj.com.cn
-服务器:  public1.114dns.com
-Address:  114.114.114.114
-
-非权威应答:
-cpibj.com.cn    text =
-        "qqmail-site-verification=b72f361daa3048ca5b64be6b1670252f65ced90d851"
-cpibj.com.cn    text =
-        "MS=D2EBDFFED7F601051E24E409E3F0F36697658F03"
-cpibj.com.cn    text =
-        "v=spf1 ip4:123.117.136.189 ip4:114.255.252.30 ip4:114.255.252.17 -all"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;发送的钓鱼邮件如下：
-&lt;a href="https://imgse.com/i/pkPmQUO" rel="nofollow"&gt;&lt;img alt="pkPmQUO.png" class="embedded_image" rel="noreferrer" src="https://s21.ax1x.com/2024/04/25/pkPmQUO.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;相关邮件源码如下：
-&lt;a href="https://imgse.com/i/pkPeqUS" rel="nofollow"&gt;&lt;img alt="pkPeqUS.png" class="embedded_image" rel="noreferrer" src="https://s21.ax1x.com/2024/04/25/pkPeqUS.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;感觉碰到玄学了，攻击者能直接利用，我却复现不了。。。提示没通过 SPF 校验。。。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgse.com/i/pkPmE8J" rel="nofollow"&gt;&lt;img alt="pkPmE8J.png" class="embedded_image" rel="noreferrer" src="https://s21.ax1x.com/2024/04/25/pkPmE8J.png" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;黑产是怎么实现这种方式的批量钓鱼邮件投递啊。。。求大佬解惑&lt;/p&gt;
-&lt;h1&gt;=====================
-更新&lt;/h1&gt;
-&lt;p&gt;下面是捕获到的伪造的发件人清单：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;MAIL FROM:&amp;lt;maildaemon@evtfwavaiq.com&amp;gt;
-MAIL FROM:&amp;lt;mail@ucemtiut.com&amp;gt;
-MAIL FROM: &amp;lt;ri@hgsteels.com.cn&amp;gt;
-MAIL FROM: &amp;lt;csl@cybernaut.com.cn&amp;gt;
-MAIL FROM: &amp;lt;vzef@sanan-ic.com&amp;gt;
-MAIL FROM: &amp;lt;oheproxbo@dongfanghuaxing.com&amp;gt;
-MAIL FROM:&amp;lt;weicen252390@163.com&amp;gt;
-MAIL FROM:&amp;lt;duna@nojz.com&amp;gt;
-MAIL FROM:&amp;lt;poster@tbnliu.com&amp;gt;
-MAIL FROM: &amp;lt;trlkvlqjb@jorsun.com.cn&amp;gt;
-MAIL FROM: &amp;lt;vizvpnvkl@svihk.com&amp;gt;
-MAIL FROM: &amp;lt;qsbp@tjtuoke.com&amp;gt;
-MAIL FROM:&amp;lt;null@cfelklp.com&amp;gt;
-MAIL FROM: &amp;lt;jl@amh-group.com&amp;gt;
-MAIL FROM: &amp;lt;ul@swifts.com.cn&amp;gt;
-MAIL FROM: &amp;lt;zdzlnok@mtrhz.com.cn&amp;gt;
-MAIL FROM: &amp;lt;rwwmlp@xreb.com&amp;gt;
-MAIL FROM:&amp;lt;list@wtqedcscw.com&amp;gt;
-MAIL FROM:&amp;lt;fengyaxin1989@163.com&amp;gt;
-MAIL FROM: &amp;lt;gnfgujpw@tsingke.com.cn&amp;gt;
-MAIL FROM: &amp;lt;ycm@boschhuayu-steering.com&amp;gt;
-MAIL FROM: &amp;lt;wk@sprandi.com&amp;gt;
-MAIL FROM:&amp;lt;customersupport@actybu.com&amp;gt;
-MAIL FROM: &amp;lt;fm@trinasolar.com&amp;gt;
-MAIL FROM: &amp;lt;aigweje@buick-xtbl.com&amp;gt;
-MAIL FROM: &amp;lt;tehm@aeonbj.com&amp;gt;
-MAIL FROM:&amp;lt;master@njtlntb.com&amp;gt;
-MAIL FROM:&amp;lt;arru@ukee.com&amp;gt;
-MAIL FROM: &amp;lt;ugc@guardian-hygiene.com&amp;gt;
-MAIL FROM: &amp;lt;kkueeflm@wuhanrt.com&amp;gt;
-MAIL FROM: &amp;lt;mm@wineversun.com&amp;gt;
-MAIL FROM: &amp;lt;cdlcmrku@cieol.cn&amp;gt;
-MAIL FROM:&amp;lt;notification@exihmm.com&amp;gt;
-MAIL FROM:&amp;lt;spam@gwcwqimgu.com&amp;gt;
-MAIL FROM: &amp;lt;hlegudhno@dffhs.com.cn&amp;gt;
-MAIL FROM: &amp;lt;uzr@cggc.cn&amp;gt;
-MAIL FROM: &amp;lt;zmcmcq@darcyad.com&amp;gt;
-MAIL FROM: &amp;lt;lnwxw@bzwiremesh.com&amp;gt;
-MAIL FROM: &amp;lt;agscqub@kyland.com&amp;gt;
-MAIL FROM:&amp;lt;poster@jgndrd.com&amp;gt;
-MAIL FROM:&amp;lt;list-request@njnaa.com&amp;gt;
-MAIL FROM: &amp;lt;dx@xiuke.com&amp;gt;
-MAIL FROM: &amp;lt;sn@dkjraa2ke.com&amp;gt;
-MAIL FROM:&amp;lt;ispfeedback@mpjextlfoi.com&amp;gt;
-MAIL FROM:&amp;lt;notification@bhbihnov.com&amp;gt;
-MAIL FROM: &amp;lt;fzn@cnoocshell.com&amp;gt;
-MAIL FROM:&amp;lt;security@psikpa.com&amp;gt;
-MAIL FROM: &amp;lt;ash@cnpccei.cn&amp;gt;
-MAIL FROM: &amp;lt;nv@pluke.com&amp;gt;
-MAIL FROM: &amp;lt;hnwzkyhe@wh.hascovision.com&amp;gt;
-MAIL FROM: &amp;lt;cxqij@vanchiptech.com&amp;gt;
-MAIL FROM:&amp;lt;wnxvaj@bnrn.com&amp;gt;
-MAIL FROM:&amp;lt;noreply@oitxnad.com&amp;gt;
-MAIL FROM: &amp;lt;qmqclmpu@minimob.com&amp;gt;
-MAIL FROM: &amp;lt;kcvhouh@szsjke.com&amp;gt;
-MAIL FROM: &amp;lt;qtiblyob@ycjingxin.com&amp;gt;
-MAIL FROM: &amp;lt;zrcql@way-on.com&amp;gt;
-MAIL FROM:&amp;lt;billing@jjewwpsvz.com&amp;gt;
-MAIL FROM:&amp;lt;security@hxhqbbq.com&amp;gt;
-MAIL FROM:&amp;lt;www-data@vidsuv.com&amp;gt;
-MAIL FROM:&amp;lt;www-data@czpttbjyvu.com&amp;gt;
-MAIL FROM:&amp;lt;hr@bdpiqjaseu.com&amp;gt;
-MAIL FROM:&amp;lt;omrlzu@xict.com&amp;gt;
-MAIL FROM:&amp;lt;mails@hnsetrtpxt.com&amp;gt;
-MAIL FROM:&amp;lt;cscec2bthxmu@163.com&amp;gt;
-MAIL FROM: &amp;lt;lgyebm@xiankexin.com&amp;gt;
-MAIL FROM: &amp;lt;bdkqco@starlake.com.cn&amp;gt;
-MAIL FROM:&amp;lt;master@yjjma.com&amp;gt;
-MAIL FROM: &amp;lt;bmahnsb@huntersun.com.cn&amp;gt;
-MAIL FROM: &amp;lt;xmpnjssdj@totalcare.com&amp;gt;
-MAIL FROM:&amp;lt;ispfeedback@wgrthlt.com&amp;gt;
-MAIL FROM:&amp;lt;uucp@syjxr.com&amp;gt;
-MAIL FROM:&amp;lt;jutzp@pprpv.com&amp;gt;
-MAIL FROM: &amp;lt;reeybxf@test-tech.com.cn&amp;gt;
-MAIL FROM: &amp;lt;dbg@crystalcg.com&amp;gt;
-MAIL FROM: &amp;lt;ct@bjhuixin.com&amp;gt;
-MAIL FROM: &amp;lt;newfaus@fnholding.cn&amp;gt;
-MAIL FROM: &amp;lt;jermpkcvg@bayair.com&amp;gt;
-MAIL FROM: &amp;lt;epmka@siasun.com&amp;gt;
-MAIL FROM: &amp;lt;pxowoczka@ramadaplazafuxianlake.com&amp;gt;
-MAIL FROM: &amp;lt;bswdebc@cnlongxin.com&amp;gt;
-MAIL FROM: &amp;lt;tillqnr@xiake.com&amp;gt;
-MAIL FROM:&amp;lt;compliance@wbmmxl.com&amp;gt;
-MAIL FROM: &amp;lt;jueshjk@feds.com.cn&amp;gt;
-MAIL FROM:&amp;lt;15737915238@163.com&amp;gt;
-MAIL FROM: &amp;lt;glq@arcplus.com.cn&amp;gt;
-MAIL FROM: &amp;lt;qw@swifts.com.cn&amp;gt;
-MAIL FROM: &amp;lt;ohdtpk@gct-cloud.com&amp;gt;
-MAIL FROM:&amp;lt;root@glcsaona.com&amp;gt;
-MAIL FROM:&amp;lt;inoc@ukvmutxrc.com&amp;gt;
-MAIL FROM:&amp;lt;webmaster@sknvbdlzh.com&amp;gt;
-MAIL FROM: &amp;lt;mwf@icss.com.cn&amp;gt;
-MAIL FROM: &amp;lt;hrafv@ljpuke.com&amp;gt;
-MAIL FROM: &amp;lt;penodrm@sinvo.cn&amp;gt;
-MAIL FROM: &amp;lt;sxwjjj@lcfuturecenter.com&amp;gt;
-MAIL FROM: &amp;lt;zwmrhgnyr@nanmengke.com&amp;gt;
-MAIL FROM: &amp;lt;bdfzxee@huntersun.com.cn&amp;gt;
-MAIL FROM:&amp;lt;xqccjiachao@163.com&amp;gt;
-MAIL FROM: &amp;lt;ijbjsyckt@cuboke.com&amp;gt;
-MAIL FROM:&amp;lt;web@uvqcohu.com&amp;gt;
-MAIL FROM:&amp;lt;hr@jqraeqkbc.com&amp;gt;
-MAIL FROM:&amp;lt;root@iqhxbs.com&amp;gt;
-MAIL FROM:&amp;lt;ioica@cmww.com&amp;gt;
-MAIL FROM:&amp;lt;18930179576@163.com&amp;gt;
-MAIL FROM: &amp;lt;pipwsgfii@hopefulrubber.com&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 25 Apr 2024 15:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035759#reply6</guid></item><item><title>[分享发现] 好用的汇率 API 接口—史上最全的货币汇率查询 API</title><link>https://www.v2ex.com/t/1035758#reply1</link><description>&lt;h2&gt;前言&lt;/h2&gt;
-&lt;p&gt;在如今全球化发展的商业环境中，汇率 API 成为了各个行业中不可或缺的重要因素,特别是实时汇率接口进行汇率查询。无论是外汇交易、股票投资还是贵金属市场，最好都要有 K 线数据，了解实时汇率数据对于决策和交易的准确性至关重要。因此，寻找一款可靠、功能强大的汇率 API 接口成为了商业领域中的当务之急,它必须包含外汇、股票、贵金属、黄金的 tick 数据。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[官网] :&lt;/strong&gt; &lt;a href="https://alltick.co" rel="nofollow"&gt;网页链接&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[ Github ] :&lt;/strong&gt; &lt;a href="https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api" rel="nofollow"&gt;网页链接&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[接入流程] :&lt;/strong&gt; &lt;a href="https://github.com/alltick/realtime-forex-crypto-stock-tick-finance-websocket-api/blob/main/access_guide_cn.md" rel="nofollow"&gt;网页链接&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;汇率 API 所具备的特点&lt;/h2&gt;
-&lt;p&gt;首先，这款汇率 API 提供了实时汇率接口，让用户能够随时获取最新的汇率数据。不论是外汇市场、股票投资、贵金属交易还是黄金市场，用户都可以通过该接口实时了解各种货币对之间的汇率。这种实时汇率接口的实用性和准确性，为用户的决策提供了有力的支持。&lt;/p&gt;
-&lt;p&gt;其次，这个汇率 API 具备强大的汇率查询功能。用户可以通过简单的接口调用，快速查询不同货币之间的汇率。无论是进行汇兑计算、交易结算还是进行市场分析，这个汇率查询功能都能帮助用户获得所需的数据。&lt;/p&gt;
-&lt;p&gt;除了外汇市场，这款 API 还覆盖了股票、贵金属和黄金等领域。用户可以利用这个 API 获取股票市场的汇率数据，进行实时的股票交易决策。同时，对于从事贵金属和黄金交易的用户来说，这个 API 也提供了相关的汇率数据，使其能够更好地把握市场走势。&lt;/p&gt;
-&lt;p&gt;对于需要进行高频交易的用户，这个汇率 API 还支持 tick 数据的获取。用户可以通过接口获取最新的汇率 tick 数据，以实现更精确的市场分析和交易决策。tick 数据的实时性和精准性，为用户提供了更全面、更准确的市场信息。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;全面的覆盖&lt;/strong&gt;：我们的服务支持所有汇率数据查询，保证数据的准确性和可靠性。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;快速响应&lt;/strong&gt;：我们的 API 具备毫秒级的查询性能，确保您能够及时获取最新的交易信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;精准筛选&lt;/strong&gt;：通过我们的接口，您可以传递币种 CODE ，筛选出特定币种的汇率数据，方便您进行精准的分析和决策。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;安全保障&lt;/strong&gt;：我们的接口全面支持 HTTPS ，采用 TLS v1.0 至 v1.3 的安全协议，确保数据传输的安全可靠。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;全国多节点 CDN 部署&lt;/strong&gt;：为了提升数据传输的稳定性和速度，我们在全国范围内部署了多节点 CDN 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;负载均衡&lt;/strong&gt;：我们的 API 接口构建了多台服务器，实现了负载均衡，以确保接口的极速响应，无论在任何时间、任何情况下，都能提供稳定可靠的服务&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;常见问题&lt;/h2&gt;
-&lt;h3&gt;1. 是否有请求限制或访问受限制？&lt;/h3&gt;
-&lt;p&gt;汇率 api 有一的频率限制，但它支持批量查，一次得到所有想要的汇数据，包括 K 线数据，添加限制防止恶意调用，可以按需调用请求。&lt;/p&gt;
-&lt;h3&gt;2. 我可以使用汇率 api 嵌入到我的网站或应用程序中吗？&lt;/h3&gt;
-&lt;p&gt;是的，您可以使用汇率 api 完全可以嵌入到您的网站或应用程序中，为您的用户提供汇率查询功能。&lt;/p&gt;
-&lt;h3&gt;3. 汇率 api 提供哪些汇率数据？&lt;/h3&gt;
-&lt;p&gt;汇率 api 提供全球各国的实时汇率数据，包括主要货币对和一些特定的辅助货币对。&lt;/p&gt;
-&lt;h3&gt;4. 我可以信任汇率 api 的数据准确性吗？&lt;/h3&gt;
-&lt;p&gt;汇率 api 提供的汇率数据准确可靠，我们会定期更新数据以确保其准确性。&lt;/p&gt;
-&lt;h2&gt;结论&lt;/h2&gt;
-&lt;p&gt;总而言之，好用的汇率 API 接口是一款功能强大、易于使用的工具，适用于各个行业中对汇率数据有需求的用户。它提供了实时汇率接口和汇率查询功能，满足了外汇、股票、贵金属和黄金等市场的需求。同时，支持 tick 数据的获取，让用户能够进行更精确的市场分析和决策。选择这款汇率 API 接口，您将获得一份可靠的数据支持，助您在竞争激烈的商业环境中赢得更多的机遇。&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:30:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035758#reply1</guid></item><item><title>[买买买] 想买努比亚手机怎么样？有用过的老哥讲讲</title><link>https://www.v2ex.com/t/1035757#reply3</link><description>&lt;p&gt;红魔 9pro ，全面屏，背面镜头模组齐平。
-努比亚 Z60Ultra ，梵高星空典藏版太帅了
-手持果子 13 ，信号差，续航差，有点想换手机。个人觉得最近的手机就果子和 Samsung 的设计好看些，最近刷到努比亚感觉很惊艳。有熟悉的老哥讲讲吗？&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:28:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035757#reply3</guid></item><item><title>[NAS] 现在黑群晖都用什么编译引导呢</title><link>https://www.v2ex.com/t/1035755#reply4</link><description>&lt;p&gt;距离上次用 arpl 已经一年过去了，感觉 arpl 之前用起来挺方便的但是存在一些系统内的 bug ，不知道和引导有没有关系。而且已经删库跑路了&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:09:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035755#reply4</guid></item><item><title>[问与答] 五一前请了三天假，本想错峰带娃出去浪一浪</title><link>https://www.v2ex.com/t/1035754#reply0</link><description>&lt;p&gt;坐标南京，想去安吉亲子游，看看天气预报貌似有雨，感觉要家里蹲了&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 15:02:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035754#reply0</guid></item><item><title>[分享创造] 学英语的朋友们可以来看看
-https://langplayground.top/</title><link>https://www.v2ex.com/t/1035753#reply3</link><description>&lt;h2&gt;革新阅读评估,智慧助力提升&lt;/h2&gt;
-&lt;p&gt;大家好,
-我们开发了一款创新的阅读评估工具,旨在革新教育工作者和学习者的阅读能力评估方式。（ AI+专业语言团队校准)&lt;/p&gt;
-&lt;h2&gt;主要解决以下问题:&lt;/h2&gt;
+&lt;p&gt;已做的尝试：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;外网测评账号登录麻烦，使用起来繁琐&lt;/li&gt;
-&lt;li&gt;传统题库比较老，系统比较古老，使用体验不好，报告不易读。&lt;/li&gt;
-&lt;li&gt;针对 DIY 学习者，可随时使用，跟踪自己的水平进展。&lt;/li&gt;
+&lt;li&gt;因为这张网卡有个内置的 eSwitch ，不论是否开关，不论在 pktgen 中传递 dv_xmeta_en=0/1/2 的参数，问题依旧。&lt;/li&gt;
+&lt;li&gt;Mellanox 的卡驱动比较特殊，不用 DPDK 的兼容驱动，可以同时保留 Linux 驱动的接口，只是无非 DPDK 启动之后 Linux 系统的接口就发不出去包了。使用这个接口外发 Ping ，DPDK 启动后就没响应了，但是 dpdk-tespmd 中显示 Rx 计数器增加（不应该是 Tx ？）。&lt;/li&gt;
+&lt;li&gt;更换 DPDK 、Pktgen 版本，换了两个版本了，驱动从 LTS 换到了最新，换了两个操作系统，应该不是 bug 了，仍旧没解决，最终结果完全一致。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;诚邀&lt;/h2&gt;
-&lt;p&gt;我们邀请您探索我们的工具,亲身体验其优势。访问我们的网站 [https://langplayground.top/] 了解更多信息,并立即开始免费试用。学英语的朋友们可以来看看。&lt;/p&gt;
-&lt;h2&gt;homepage&lt;/h2&gt;
-&lt;img class="embedded_image" rel="noreferrer" src="https://img2.imgtp.com/2024/04/25/QVNwXWKr.jpg" /&gt;</description><pubDate>Thu, 25 Apr 2024 14:53:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035753#reply3</guid></item><item><title>[Apple] 想给 M1 pro Macbook Pro 14 inch 换个电池，求推荐靠谱渠道</title><link>https://www.v2ex.com/t/1035752#reply1</link><description>当时听了果子发布会觉得能效碉堡了，首发购入，用了几年&lt;br /&gt;记得刚买的时候续航确实挺惊艳的，两天充一次电，后来就走下坡路了，现在有点后悔没有晚点入 Air 系列了&lt;br /&gt;电池健康 80 左右，感觉性能还够用，还能撑几年（撑到果子把这个刘海设计去掉）&lt;br /&gt;&lt;br /&gt;所以求一个换电池的靠谱店铺，需要能换原装电池，在 武汉 或者 深圳 有线下店的，不想寄送&lt;br /&gt;网上搜了一下也有说自己能换的，如果有 xd 自己尝试过也麻烦分享一下电池购入渠道和后续的体验&lt;br /&gt;&lt;br /&gt;万分感谢🙏</description><pubDate>Thu, 25 Apr 2024 14:44:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035752#reply1</guid></item><item><title>[远程工作] 远程 IT 的雇佣方式，容易跳过中介公司吗</title><link>https://www.v2ex.com/t/1035751#reply1</link><description>想问一下，大家做国外远程，直接和公司签的多吗，还是通过某个 IT 中介/人头公司签？ 按我的了解就是大公司一般都会让很多中介公司去放招聘，（所以像一些职位你去大公司搜不到，因为他们本身也没有 hc ，就打算跟 IT 服务公司签服务合同而已）同时大公司也不能直接和个人签合同，就算是短期的合同工，都需要和公司之间交易，所以我猜这也是中介公司能存活的原因，对客户也好，对个人也方便，省去客户公司很多 legal 或者报税的东西。=如果真要跳过中介的话，一般个人要去注册个公司，然后用这个公司接受客户公司的打款（小红书上看到过一个帖子）&lt;br /&gt;&lt;br /&gt;那现在我的问题是，如果对于客户公司是可以直接和个人签合同工的话，一开始是由中介公司带来的，毕竟中介公司的猎头花了时间去帮客户公司去招人。那以后客户公司如果有意直接吸引这个人，直接跟这个人签合同，少了中介在中间抽成，这样客户少出点钱，个人也能多收点。但是我听说这样中介公司可能 charge 这个客户的人头费或者有别的 legal 问题，所以是否中介跟客户当初的协议里就包括了某种协议防止这样情况，有的话可以如何绕开吗？&lt;br /&gt;&lt;br /&gt;还有个好奇的话，大家国外远程的话，大家薪资最高到哪？大家可以分享下吗，让我羡慕下</description><pubDate>Thu, 25 Apr 2024 14:41:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035751#reply1</guid></item><item><title>[程序员] 一元机场站长好像被开盒了</title><link>https://www.v2ex.com/t/1035750#reply21</link><description>&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/25/ZiasvkTlJDVqpx4.png" /&gt;
-&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/04/25/VYOLrQvJI8KGtdC.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 25 Apr 2024 14:25:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1035750#reply21</guid></item></channel></rss>
+&lt;p&gt;有需要补充的，我继续补充，多谢各路大佬。&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 16:53:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036058#reply0</guid></item><item><title>[分享发现] 80 后初，凌晨，听歌 APP 刷出一首老歌，迪克牛仔，再 wiki 作品动态，"才知道"已经 64 岁了...</title><link>https://www.v2ex.com/t/1036057#reply0</link><description>&lt;p&gt;在等待编译，刷到他的歌，忽然想起这个人好久没啥动静，似乎口水新闻也没有了，是不是没啥新作品呢？&lt;br /&gt;
+wiki,确实没有，但页面旁边的 64 岁，确实触动了一下情绪，&lt;br /&gt;
+而我渐渐明白，&lt;br /&gt;
+你依然是我不变的关怀。&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 16:52:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036057#reply0</guid></item><item><title>[生活] 注册满 10 年</title><link>https://www.v2ex.com/t/1036056#reply1</link><description>&lt;p&gt;纪念一下&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 16:39:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036056#reply1</guid></item><item><title>[全球工单系统] telegram 挂了</title><link>https://www.v2ex.com/t/1036055#reply4</link><description></description><pubDate>Fri, 26 Apr 2024 16:31:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036055#reply4</guid></item><item><title>[Telegram] Telegram 挂了吗？</title><link>https://www.v2ex.com/t/1036054#reply25</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JvEOi26.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 16:27:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036054#reply25</guid></item><item><title>[程序员] 有人想学新编程语言么，附带视频教程</title><link>https://www.v2ex.com/t/1036051#reply0</link><description>视频地址: &lt;a href="https://www.bilibili.com/video/BV1Rm42177Kx" rel="nofollow noopener" target="_blank"&gt;https://www.bilibili.com/video/BV1Rm42177Kx&lt;/a&gt;&lt;br /&gt;学习交流电报群: &lt;a href="https://t.me/move_cn" rel="nofollow noopener" target="_blank"&gt;https://t.me/move_cn&lt;/a&gt;&lt;br /&gt;github:   &lt;a href="https://github.com/move-cn/letsmove" rel="nofollow noopener" target="_blank"&gt;https://github.com/move-cn/letsmove&lt;/a&gt;&lt;br /&gt;完成对应任务 可以获得现金奖励， 不一样的 learn to earn&lt;br /&gt;task 1	hello move	￥ 30	完成第一个合约部署上链&lt;br /&gt;task 2	move coin	￥ 20	完成 Coin 协议学习，并发布两个 Coin 上链&lt;br /&gt;task 3	move nft	     ￥ 20	    完成 NFT 的学习，并发布 NFT 上链&lt;br /&gt;task 4	move game	￥ 30	完成链上游戏学习，并上链交互&lt;br /&gt;task 5	move swap	￥ 50	完成 Swap 学习，并上链交互&lt;br /&gt;task 6	sdk ptb	￥ 30 （ SUI ） + ￥ 30 （ NAVX ）	完成 SDK 学习，并用 SDK 完成链上交互</description><pubDate>Fri, 26 Apr 2024 16:16:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036051#reply0</guid></item><item><title>[问与答] 咨询下国内可以办理的美国 visa 卡渠道。</title><link>https://www.v2ex.com/t/1036049#reply11</link><description>有需要支付美国的款项，但是发现国内的 visa 卡好像都不太友好，请问除了虚拟 visa 卡。还有什么路子在国内可以办的卡对美国支付友好一点？</description><pubDate>Fri, 26 Apr 2024 15:49:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036049#reply11</guid></item><item><title>[问与答] 特别在意隐私应该用什么操作系统？</title><link>https://www.v2ex.com/t/1036047#reply0</link><description>&lt;p&gt;为了在互联网留下尽量少的碳足迹&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 15:46:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036047#reply0</guid></item><item><title>[分享发现] 远离阿里有感，也应该远离付费 app 国内个人开发者</title><link>https://www.v2ex.com/t/1036045#reply4</link><description>app 不是停更就是下架，太恶心了，千万别轻易买国内开发者的付费 app ，极少数还是可以支持下的。</description><pubDate>Fri, 26 Apr 2024 15:36:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036045#reply4</guid></item><item><title>[iOS] 近期钉钉打卡检测功能升级，新的虚拟定位 App 该用什么？</title><link>https://www.v2ex.com/t/1036044#reply4</link><description>&lt;p&gt;手机是 12PM ，14.3 ，越狱，魔术师屏蔽越狱，Fake GPS Pro 付费版用于虚拟定位，Choicy 用于禁用插件&lt;/p&gt;
+&lt;p&gt;近期，虚拟定位 App 被钉钉检测到了，提示我疑似使用了非法软件打卡，要拍照确认，我手机里同时还安装了一个虚拟拍照，但不知道这个虚拟拍照能不能生效，不敢尝试。&lt;/p&gt;
+&lt;p&gt;研究了一下，魔术师屏蔽越狱应该还生效，但 Fake GPS Pro 应该是挂了，用 Choicy 进钉钉里查，发现 Fake GPS Pro 依然需要注入插件，修改定位功能才能生效，注入插件名：GPSTravellerTweakProX ，这个插件禁用后，进入钉钉后，检测当前地址就恢复成真实地址了，也就是说，Fake GPS Pro 完全失效了。&lt;/p&gt;
+&lt;p&gt;查了很多贴子，有不少人说，要降钉钉版本，但是经过我的研究，钉钉主程序版本并不参与注入插件的检测，触发检测行为的是钉钉打卡这个模块，也就是钉钉主程序里模块化的一个小程序，这个小程序的版本是云更新的，即使当前钉钉主版本不更新，也不影响钉钉打卡模块的升级，所以降钉钉主程序版本这条路走不通了。&lt;/p&gt;
+&lt;p&gt;后来看有人说，有个 ipa 叫 SimLoc ，找了一个最新版用巨魔安装后，发现是要钱的，而且作者的 TG 群和 TG 号都没了，估计是跑路了，SimLoc 也走不通了，而且 SimLoc 的模拟定位并未在钉钉里生效。&lt;/p&gt;
+&lt;p&gt;再后来，更新了巨魔 2 ，发现巨魔 2 自带虚拟定位功能，把 Fake GPS Pro 完全禁用后，发现巨魔 2 的虚拟定位可以在钉钉里生效，但不知道打卡后，会不会再次被检测，我不是钉钉管理员，我没有多少试错机会，此为备选方案 1 。&lt;/p&gt;
+&lt;p&gt;以前在手机里安装了一个砸壳工具：DumpDecrypter ，用这个砸壳很方便，但是我发现这工具砸不了钉钉，然后又装了一个 AppDump2 ，好像是可以砸钉钉了，我想过先把钉钉给砸了，然后用巨魔装钉钉，再用巨魔的虚拟定位。此为备选方案 2 。&lt;/p&gt;
+&lt;p&gt;如果再不行，我只能用最后的第 3 个方案，LBS 硬件模拟，但是虽然是硬件模拟，但还是要从 AppStore 里下载配合硬件使用的 LBS 地图，由于是从 AppStore 里下载的，我觉得可能还是会钉钉检测，所以先把 LBS 砸了用轻松签永久安装的方法安装高权限 LBS ，再配合硬件来摸拟定位。&lt;/p&gt;
+&lt;p&gt;以上是我仅剩下的 3 个方案，大佬们，我这 3 个方案，有没有哪个大佬有试过发现不行，一定要在贴子下面分享一下，多谢了！&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 15:34:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036044#reply4</guid></item><item><title>[问与答] 买了显示器 LG 27uq850v，发现窗口卡顿，需要插拔 DP 线或者关闭再打开显示器。</title><link>https://www.v2ex.com/t/1036041#reply1</link><description>&lt;p&gt;1 、新显示器 DP 接口 v1.4 ，用的是 40 多块的秋叶原 DP v1.4 线材，发生窗口卡顿的时候的时候我在看电影，用的是 PotPlayer + LAV Filters + Bluesky Frame Rate Converter + RX 580 硬解 ，并且是用鼠标来回拖拽进度条，这时候影片卡顿，音画不同步，同时 PotPlayer 程序崩溃。Win 10 卡顿的表现现象是拖曳 Win 10 的计算器，会发现窗口一顿一顿的，鼠标箭头都出现了重影，有两个箭头，这时如果插拔显示器 DP 线或者关闭再打开显示器就恢复正常，这种故障不定时复现，并且 Win 10 日志只记载了 PotPlayer 崩溃引起的 Application Hang 错误。&lt;/p&gt;
+&lt;p&gt;2 、上面的这种配置我用老显示器和这条秋叶原 DP 线材是有卡顿的，但是卡顿的表现现象不同，就是有时候同时开 Brave 浏览器和 Vivaldi 浏览器的时候发生的整个 Win 10 系统卡住了，鼠标都动得非常非常慢，必须关闭一种浏览器才能恢复，但再同时开这两种浏览器的话 ，整个 Win 10 又卡住了，必须重启才能完全正常，看了 Win 10 日志也是啥都没显示 。重点是老显示器是没有上面这种新的显示器连拖曳 Win 10 计算器都发生卡顿的。&lt;/p&gt;
+&lt;p&gt;3 、显卡驱动没有发生崩溃，所以也没重装显卡驱动。我现在换上原装 DP 线材在试用中，还没重现故障，我想问的是这种故障表现是偏硬件还是偏软件？是 LG 27uq850v 显示器故障还是 Win10 系统故障？&lt;/p&gt;
+&lt;p&gt;ps：买了新显示器后同时装了 IVPN 程序，怀疑是它引起故障，刚卸载了，现在试用原装 DP 线材中，争取在 七天无理由退货期中的剩下几天中及时发现问题。&lt;/p&gt;</description><pubDate>Fri, 26 Apr 2024 15:11:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036041#reply1</guid></item></channel></rss>
