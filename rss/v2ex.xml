@@ -1,41 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 27 Apr 2024 14:35:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[汽车] 坐标深圳，一起聊聊加油站的油品吧</title><link>https://www.v2ex.com/t/1036210#reply0</link><description>最近几年一直在福田区委正对面的中油加，去年这家关了，就改在中石化福田中心油站，最近发现油品似乎不大行了，油门无力，热车一段时间后，加速才正常。&lt;br /&gt;选择这两个加油站的原因是主观认为在衙门眼皮底下应该不敢太造次。事实上几年来没感觉油品有问题。直到最近一次加油不对劲了。&lt;br /&gt;深圳不像其他其他城市选择多，除了两桶，就只有加德士一个品牌，但关内 3 个加德士都不方便，关外的据说不是不是一家公司，口碑也差，比如龙华加德士。&lt;br /&gt;大家有什么推荐么。</description><pubDate>Sat, 27 Apr 2024 14:18:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036210#reply0</guid></item><item><title>[日本] 五一日本关西佛系游</title><link>https://www.v2ex.com/t/1036209#reply0</link><description>&lt;p&gt;有没有去过的朋友推荐推荐景点和餐厅？
-1-4 在京都，5-8 在大阪&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 14:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036209#reply0</guid></item><item><title>[程序员] 需要一份中文垃圾信息数据集作为训练数据。</title><link>https://www.v2ex.com/t/1036208#reply0</link><description></description><pubDate>Sat, 27 Apr 2024 14:16:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036208#reply0</guid></item><item><title>[问与答] 如何进行数据库备份</title><link>https://www.v2ex.com/t/1036207#reply0</link><description>本地部署的数据库服务，MySQL 总担心硬盘故障，应该如何能进行低成本的数据备份。</description><pubDate>Sat, 27 Apr 2024 14:06:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036207#reply0</guid></item><item><title>[iDev] ios 开发，关于“家人共享”功能的疑问</title><link>https://www.v2ex.com/t/1036204#reply2</link><description>&lt;p&gt;没接触过家人共享的功能，家里就我是 ios ，这个功能是不是能让家庭成员能免费下载付费的 app ？那如果有个人（中间商）不断添加和删除成员，不是就可以直接向成员（用户）卖 app 了吗？&lt;/p&gt;
-&lt;p&gt;看了下付费榜，大部分都支持家人共享，但是有的是不支持的，比如 Planit 和 ProCam ，然后 google 搜了下“ios app disable family-sharing”没搜到相关的，中文也没搜到，我现在是想让付费下载的 app 不支持家人共享，该如何做呢。问了下 ai ，回答是 info.plist 添加如下代码，感觉不靠谱啊&lt;/p&gt;
-&lt;p&gt;&amp;lt;key&amp;gt;LSApplicationCategoryType&amp;lt;/key&amp;gt;
-&amp;lt;string&amp;gt;public.app-category.developer-tools&amp;lt;/string&amp;gt;&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:49:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036204#reply2</guid></item><item><title>[全球工单系统] 今晚阿里云杭州 OSS 挂了 1 个多小时</title><link>https://www.v2ex.com/t/1036201#reply0</link><description>&lt;p&gt;尊敬的客户：您好！北京时间 2024 年 4 月 27 日 19:51 起，阿里云收到客户反馈浙江地域访问其他地域或其他地域访问杭州地域的 OSS 、SLS 服务出现异常。阿里云工程师初步排查为运营商网络异常导致，阿里云已向运营商报障。经过阿里云和运营商处理，异常已于 21:21 恢复。如有任何问题，请随时联系我们。&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:41:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036201#reply0</guid></item><item><title>[问与答] 如果老婆怀上了孩子，你们会想办法润吗</title><link>https://www.v2ex.com/t/1036200#reply3</link><description>&lt;p&gt;如果各位老婆怀孕了，在洼地这个环境里，不过是多生一个奴隶一个牛马罢了。孩子活下来也是受罪，生不如死的体验一生。你们会要求老婆挺着肚子润吗。又该怎么润呢，大洪水就要来了，留在洼地早晚是献忠的对象&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:39:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036200#reply3</guid></item><item><title>[问与答] 通电开机的蓝牙音响</title><link>https://www.v2ex.com/t/1036199#reply1</link><description>背景是最近换了辆电动车，它能支持娱乐互联，听歌导航啥的，但是没有喇叭~~~&lt;br /&gt;&lt;br /&gt;于是我就准备给它配一个蓝牙音箱，USB 常年接在车载 USB 充电口上。&lt;br /&gt;&lt;br /&gt;当电动车启动，蓝牙音响通电会开机，手机就会自动连上。变相实现听歌、导航播报。&lt;br /&gt;&lt;br /&gt;网上找了一遍，没找到，不过看到一个改造的方案，就是在开关上并联一个电容，可以实现，不过不想动手了。。。&lt;br /&gt;&lt;br /&gt;求推荐成品</description><pubDate>Sat, 27 Apr 2024 13:32:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036199#reply1</guid></item><item><title>[分享发现] VideoGigaGAN - 走向细节丰富的视频超分辨率，整理了内容聚合站 - https://videogigagandream.com</title><link>https://www.v2ex.com/t/1036198#reply0</link><description>&lt;p&gt;VideoGigaGAN 是一种先进的生成模型，专为视频超分辨率增强而设计。它基于 GigaGAN 图像上采样器的技术，通过整合时间模块显著提升视频的细节和时间连贯性。该技术有效解决了时间闪烁问题，优化了视频输出的质量和稳定性。VideoGigaGAN 非常适用于需要高质量视频恢复和增强的应用场景，如电影制作和媒体处理。从效果上看，视频的生成效果还是非常炸裂的。网站： &lt;a href="https://videogigagandream.com" rel="nofollow"&gt;https://videogigagandream.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:29:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036198#reply0</guid></item><item><title>[GitHub] GitHub 被人滥用来发 Spam 邮件</title><link>https://www.v2ex.com/t/1036197#reply1</link><description>&lt;p&gt;今天下午收到一大堆 Spam ，结果发现都是 GitHub 的通知，明显是被人滥用了。&lt;/p&gt;
-&lt;p&gt;不知道有啥防范方法。&lt;/p&gt;
-&lt;p&gt;见图&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/2I6XJ315.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:27:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036197#reply1</guid></item><item><title>[推广] 体验阿里的 AI 编程工具，抽盲盒奖品必中，活动最后两天</title><link>https://www.v2ex.com/t/1036196#reply2</link><description>&lt;p&gt;体验阿里的 AI 编程工具，抽盲盒奖品: &lt;a href="https://reurl.cc/N4W865" rel="nofollow"&gt;https://reurl.cc/N4W865&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:25:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036196#reply2</guid></item><item><title>[分享创造] 分享我写的小脚本：借助 GPT-4 来批量翻译 markdown 文件</title><link>https://www.v2ex.com/t/1036195#reply0</link><description>&lt;h2&gt;项目地址&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://github.com/daqing/gpt-translator" rel="nofollow"&gt;https://github.com/daqing/gpt-translator&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;简介&lt;/h2&gt;
-&lt;p&gt;最近工作中，需要把 vuepress 搭建的英文网站，批量翻译成其他几种语言（简体中文，繁体中文，德语，日语等等）。&lt;/p&gt;
-&lt;p&gt;由于文件很多，手动去一个个翻译，时间成本非常高，于是，研究了一下，写了这个批量翻译的脚本。&lt;/p&gt;
-&lt;h2&gt;用法&lt;/h2&gt;
-&lt;p&gt;(1) 首先，clone 项目代码到本地&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;git clone git@github.com:daqing/gpt-translator
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;(2) 设置环境变量&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;export OPENAI_API_KEY='sk-zPByWXXXXXXXXXXXXXXXXXXXXXXX'
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;(3) 执行 &lt;code&gt;&lt;a href="http://main.py" rel="nofollow"&gt;main.py&lt;/a&gt;&lt;/code&gt; 脚本&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python main.py --base-lang en --target-lang zh-CN --input ./demo/example.en.md --output ./example.zh-CN.md
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 27 Apr 2024 13:15:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036195#reply0</guid></item><item><title>[职场话题] 有个控制欲很强，但是技术水平又很菜的领导是一种什么体验？</title><link>https://www.v2ex.com/t/1036194#reply0</link><description>有人有过这种经历吗？&lt;br /&gt;&lt;br /&gt;展开说说？</description><pubDate>Sat, 27 Apr 2024 13:15:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036194#reply0</guid></item><item><title>[杭州] 在杭州城送外卖，每天送 8 小时，每月送 21 天，每月大概能挣多少？</title><link>https://www.v2ex.com/t/1036193#reply5</link><description></description><pubDate>Sat, 27 Apr 2024 13:14:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036193#reply5</guid></item><item><title>[分享创造] LIGHT CHASERv1.1.0 开始支持直接读取数据库了，可视化轻轻松~</title><link>https://www.v2ex.com/t/1036192#reply0</link><description>&lt;p&gt;经过差不多 1 年多的开发，LIGHT CHASER 数据可视化设计器快到了 v1.1.0 版本。 目前他已经可胜任一些基础场景下的数据可视化需求，了解他的效果前请允许我再次介绍 LIGHT CHASER&lt;/p&gt;
-&lt;p&gt;LIGHT CHASER 是一款开源免费的数据可视化设计工具，基于 React18 ，Vite5 ，Ts5 等技术栈实现。 通过它，你可以简单快速并快乐地制作数据可视化相关内容。它可用于大屏数据可视化展示、数据看板、数据报告、数据分析等场景。&lt;/p&gt;
-&lt;p&gt;通过拖拽方式布局可视化组件，同通蓝图节点方式实现组件间的事件联动。数据可视化轻轻松~&lt;/p&gt;
-&lt;p&gt;欢迎大家提意见，提建议，欢迎欢迎~~~~&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/xiaopujun/light-chaser" rel="nofollow"&gt;前端开源地址点我&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/xiaopujun/light-chaser-server" rel="nofollow"&gt;后端开源地址点我&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="01" class="embedded_image" rel="noreferrer" src="https://i.072333.xyz/file/bcec7e1ecddc77a542757.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="02" class="embedded_image" rel="noreferrer" src="https://i.072333.xyz/file/5b1a70baaf7f87cc5c01d.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="03" class="embedded_image" rel="noreferrer" src="https://i.072333.xyz/file/cc755e332712e49710c4f.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="04" class="embedded_image" rel="noreferrer" src="https://i.072333.xyz/file/881e2f93a960e656e148a.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 13:04:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036192#reply0</guid></item><item><title>[宽带症候群] 有人遇到过，一台机器上，不同浏览器客户端翻墙表现差别很大的情况吗（chrome 很卡）</title><link>https://www.v2ex.com/t/1036190#reply4</link><description>&lt;p&gt;最近才有明显变化的，我常用 chrome ，最近两天翻墙速度变得很差，甚至很多常用网站包括 google 经常 timeout 无法翻墙，或者一开始无法访问，刷新几次后才缓慢载入。我一开始以为是机场有问题。但后来发现在别的浏览器（ safari 和 firefox ）上都表现得挺正常的，没有前面说的问题。&lt;/p&gt;
-&lt;p&gt;做了几个检查&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 28 Apr 2024 13:38:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 准备换邮箱了</title><link>https://www.v2ex.com/t/1036537#reply1</link><description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;163 邮箱
+当初注册了 reddit ， 现在无法收到找回密码邮件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新浪
+收到用户月初 gmail 的邮件，自动躺在了垃圾箱了&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Sun, 28 Apr 2024 13:37:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036537#reply1</guid></item><item><title>[Docker] containerd 适合像 docker 一样直接使用吗</title><link>https://www.v2ex.com/t/1036536#reply1</link><description>&lt;p&gt;部署了一台 k8s 单节点，因为安装了 containerd 也可以直接跑容器就没安装 docker ，把一些简单的服务直接用 containerd 运行，就像 docker run 一样。&lt;/p&gt;
+&lt;p&gt;现在用下来感觉很多差异的地方不是很适应，比如端口不能映射，因为是 host-net 不可能都能用得了默认端口，改端口是不是就只能改源码重新编译呢，还是说有其他方式,&lt;/p&gt;
+&lt;p&gt;不支持 volume ，mount 挂载目录麻烦（参数都有新旧版区别一会是 target 一会是 destination,读写模式还是必选的）,&lt;/p&gt;
+&lt;p&gt;多了 task,启动策略不知道怎么设置,&lt;/p&gt;
+&lt;p&gt;k8s 加了 cni 那 containerd 独立运行容器是不是也要 cni...,&lt;/p&gt;
+&lt;p&gt;还有 ctr 命令感觉故意和 docker 做区别一样，podman 就跟 docker 比较兼容对平移用户很友好，当然我知道有 nerdctr ，看着像狗屁膏药似（为了兼容又加个工具）,看名字就像是在骂用户&lt;/p&gt;
+&lt;p&gt;所以 containerd 真的适合终端用户直接使用吗？ 有这么使用的大兄弟吗。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:32:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036536#reply1</guid></item><item><title>[Chrome] 请教各位大佬，这是 chrome 的 apps 吗？</title><link>https://www.v2ex.com/t/1036535#reply1</link><description>&lt;p&gt;这是个什么功能，怎么搜索不到相关的信息，一搜出来就是关于扩展应用程序的东西，这个是几年前停止维护的 chrome apps 吗？感恩大佬解惑。
+图片： &lt;a href="https://imgse.com/i/pkiTFL6" rel="nofollow"&gt;https://imgse.com/i/pkiTFL6&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:30:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036535#reply1</guid></item><item><title>[程序员] 应届生对职业生涯好迷茫，求建议</title><link>https://www.v2ex.com/t/1036534#reply1</link><description>lz 今年毕业，因为意外去了某大厂做大模型相关的后端开发。为什么说意外呢？我原本是其他部门的校招生，因为裁员被调剂过来的。😀&lt;br /&gt;&lt;br /&gt;提前去体验了一段时间，心里落差有点大……原因如下：&lt;br /&gt;&lt;br /&gt;1. 部门确实很牛逼，但我不是搞算法的，没办法镀金。&lt;br /&gt;&lt;br /&gt;2. 业务刚起步没多久，数据量和 qps 都非常低(qps&amp;lt;0.1)。而且 tob 业务，感觉将来也不会有什么高并发海量数据的业务场景，担心技术没成长。&lt;br /&gt;&lt;br /&gt;3. 我不是通过面试进来的，感觉裁员第一个就是我。&lt;br /&gt;&lt;br /&gt;4. 因为没有什么对性能要求高的业务场景，代码基本就是一个 http 服务在 api 层直接怼到 mysql 里操作。微服务，redis ，mq 这些东西基本用不到。&lt;br /&gt;&lt;br /&gt;身边的同事背景都很强，很多经验丰富的人在这里干。让我觉得一群很优秀的人在做一件很没劲的事。&lt;br /&gt;之前也是在其他大厂部门实习，要么 c 端 qps 高，要么 b 端数一致性要求高，学到很多东西。现在就挺难受的，但校招都快结束了，也没啥好去处。有人能来给点建议吗？</description><pubDate>Sun, 28 Apr 2024 13:26:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036534#reply1</guid></item><item><title>[OpenWrt] 请教 V 友，目前最新 openwrt 或者魔改 openwrt 整个局域网代理的稳定解决方案有啥？</title><link>https://www.v2ex.com/t/1036533#reply0</link><description>&lt;h3&gt;我的需求：&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;检查代理配置（ surge ），没有针对进程/程序的额外配置；&lt;/li&gt;
-&lt;li&gt;使用 Chrome 无痕模式，不带所有插件，仍旧翻墙卡。（排除
-插件影响）；&lt;/li&gt;
+&lt;li&gt;整个局域网都进行代理，&lt;/li&gt;
+&lt;li&gt;adguard home DNS 缓存加速&lt;/li&gt;
+&lt;li&gt;国内路线走国内 DNS ，国外路线走国外 DNS&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;都没有效果，没有啥改善。&lt;/p&gt;
-&lt;p&gt;因为想弄明白到底发生了什么，所以暂时还保留着 chrome ，没有进行重装。但实在搞不懂哪里出问题了。（难道 chrome 出了啥新特性，我被灰度测试了？前两天确实有升级过）&lt;/p&gt;
-&lt;p&gt;老哥们有遇到过类似的情况，或者是有什么排查思路吗？&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 12:52:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036190#reply4</guid></item><item><title>[Telegram] 我吐了，现在电报怎么强制要求绑定邮箱啊</title><link>https://www.v2ex.com/t/1036189#reply8</link><description>&lt;p&gt;下午 DC5 炸了，一开始各种尝试，最后怀疑自己的电报坏掉，于是去 AppStore 更新，然后发现因为前几天的国区下架，无法更新。再然后切换到美区卸载重装。这时候问题来了，输入完电话号码，提示我需要添加邮箱才能登录？？？有毛病吧，我这号都用了 7 年，意思是我的号被风控了吗？&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 12:30:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036189#reply8</guid></item><item><title>[生活] 我发现人生就像 hole.io (黑洞大作战) 游戏</title><link>https://www.v2ex.com/t/1036188#reply1</link><description>hole. io 是法国游戏开发商 voodoo 的小游戏，应该有人玩过。&lt;br /&gt;&lt;br /&gt;在游戏中，玩家控制一个可移动的黑洞，在限定时间内通过吞噬城市中的物体（如路标、汽车乃至整栋建筑）来增长自身的大小。开局时黑洞较小，需从吞噬小物件入手逐渐扩大，随着面积增大，可以吞噬更大的目标，甚至包括其他玩家的黑洞。游戏策略在于灵活走位以避开比自己大的对手，并寻找快速增大的路径。最终目标是在时间结束前成为地图上最大的黑洞以获取最高分数。&lt;br /&gt;&lt;br /&gt;出生点很重要，如果出生在小东西多的地方，就会成长的非常快，视野也会越来越开阔，最终可以把能吞的都吞了。如果出生在小东西少的地方，并且不知道小东西多的地方在哪里密集，就会成长的很慢，视野也会一直被限制住，不小心被别的变大的黑洞吃掉。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/Iq737Cu.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Iq737Cu.png" /&gt;&lt;/a&gt;</description><pubDate>Sat, 27 Apr 2024 12:21:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036188#reply1</guid></item><item><title>[Ubuntu] ubuntu 一如既往的优秀！</title><link>https://www.v2ex.com/t/1036186#reply11</link><description>&lt;p&gt;昨天立马安装 24.04 ，怀着激动的心情，以为 x11 干掉了，gnome 又优化了这么久，46 版本咋着不美美哒？好吧，桌面还是一如既往的垃圾，卸载，继续 xfce ，为什么，界面字体显示不全，鼠标放上去才显示，就像缓冲那样，显卡驱动自动安装好的，其它程序都没问题，就设置和文件管理器显示 h 邪门&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 12:05:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036186#reply11</guid></item><item><title>[问与答] chatgpt/gemini/coze /通义 同一个问题 如果想在多个 AI 工具内提问，如何管理比较方便？</title><link>https://www.v2ex.com/t/1036185#reply2</link><description>&lt;p&gt;一个工具打开一个 chrome 标签页吗？&lt;/p&gt;</description><pubDate>Sat, 27 Apr 2024 12:02:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036185#reply2</guid></item></channel></rss>
+&lt;hr /&gt;
+&lt;h3&gt;我现在的情况：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;目前实现了 1 2 。3 实现没实现不知道。  &lt;/li&gt;
+&lt;li&gt;我是 openclash + adg 。老实说我不是程序员也不太懂，所以各种设置有点混乱。网络现在倒是能跑的通，也能从 adg 看到过滤广告。就算是 1 和 2 实现了。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3&gt;怎么实现？&lt;/h3&gt;
+&lt;h4&gt;这两年有没有啥新解决方案？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;我最新一版固件是 22 年的了。似乎这两年又有了新产品。稳定运行 2 年了。最近换了节点然后我更新完 openclash 就有问题了。换了 meta 内核，一个是延迟巨高，一个是总有好几个小时的连接自己也不掉，看控制台都能看到接近 1000 个连接。不知道除了 openclash 还有没有别的工具，主要 openclash 真的云里雾里。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;大家都是啥方案？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;我知道的方案有那种，openclash + adg + smartDNS 。openclash 进行分流，adg 不但能过滤广告还能记录处理时间啥的，smartDNS 分两组一组处理国内一组国外。  &lt;/li&gt;
+&lt;li&gt;网上的教程，就单单 openclash + adg ，adg 里面的设置方法，我搜到的每个人说的都不一样，有的做 dnsmasq 的上游，有的把 53 重定向到 adg ，我都绕晕了。。。还有 openclash 也是邪门，到底劫持还是不劫持 dns ？有的教程写劫持有的不劫持。怎么准确的知道和设置把 dns 分组？第二 dns 服务器又是什么？追加 dns ，追加上游 dns ，追加默认 dns ，fallback-filter 。就单一个点就四五个设置。。。哎呦喂，这也就是行业内的人才能看得懂了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;所以想问问，你是怎么搞的？当时啃 openclash 就难啃，这个五一别是要再啃几天，网上的资料浩如烟海但真就乱七八糟的让人头大啊。。。谢谢 v 友了。。。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:24:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036533#reply0</guid></item><item><title>[JetBrains] 打开 clion 的时候， cpu 直接飙到 100%，写代码的时候 cpu 偶尔也 70-80</title><link>https://www.v2ex.com/t/1036532#reply0</link><description>用的是 macbook pro 英特尔 i9 的那款，64G 内存&lt;br /&gt;&lt;br /&gt;用 vs code 就很流畅 但是用惯了 IDE 回不去了...&lt;br /&gt;&lt;br /&gt;是什么原因造成的? 是不是要强上 M3 Max 了...</description><pubDate>Sun, 28 Apr 2024 13:24:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036532#reply0</guid></item><item><title>[全球工单系统] 某著名不愿意透露姓名的 PT 站点馒头，今日发生 Session 大量同时过期事件，管理员人工在线发码</title><link>https://www.v2ex.com/t/1036530#reply0</link><description>&lt;p&gt;大家批量登录其实没啥。&lt;/p&gt;
+&lt;p&gt;关键是上次强制大家使用邮箱二次认证，而且大多数人没切换到 OTP&lt;/p&gt;
+&lt;p&gt;上次强制邮箱认证的时候大家啥时候来的都有，本身是维护什么的，其实也还好&lt;/p&gt;
+&lt;p&gt;这次批量过期，邮件队列直接炸，电群直接成景点了。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:19:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036530#reply0</guid></item><item><title>[游戏] V2 CS2 快来一起欢乐吧~</title><link>https://www.v2ex.com/t/1036529#reply2</link><description>&lt;p&gt;周三更新后欢乐升级打箱子，偶尔开黑上分。老哥们快来玩儿~
+&lt;img alt="微信图片_20240428210321" class="embedded_image" rel="noreferrer" src="https://pic.datapipe.top/i/2024/04/28/ysciba.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:10:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036529#reply2</guid></item><item><title>[宽带症候群] 关于 tcp 的流量控制和拥塞控制</title><link>https://www.v2ex.com/t/1036528#reply0</link><description>&lt;p&gt;tcp 的传输其中要考虑的两个方面&lt;/p&gt;
+&lt;p&gt;一个是考虑 对端 的 接收缓冲区大小 如果对端的缓冲区已经满了 你还一直发数据 那你发过去的包只能被对端丢掉&lt;/p&gt;
+&lt;p&gt;另外一个考虑 是发过去的包  到达性并不好 也就是说 发三个包过去 只有一个包 对面回复说收到了。
+也就是 a 和 b 之间网络情况不好  那么这个时候 就要考虑 发包频率 控制一下 减慢&lt;/p&gt;
+&lt;p&gt;第一个问题 也就是 流量控制  这个好解决  我们把接收缓冲区开大点 &lt;/p&gt;
+&lt;p&gt;第二个问题 a 和 b 之间的网络 好不好 取决于很多东西  理想情况下来说 路宽车少 &lt;/p&gt;
+&lt;p&gt;那么 a 和 b 的网络就会比较好&lt;/p&gt;
+&lt;p&gt;如果晚高峰  车多 那么 a 和 b 之间的网络到达性 可能就比较差&lt;/p&gt;
+&lt;p&gt;然后 a 和 b 之间有没有一个网络瓶颈点  就是 a 和 b 中间 某一跳 由于设备问题 车多的问题等等 &lt;/p&gt;
+&lt;p&gt;这一跳丢包率高&lt;/p&gt;
+&lt;p&gt;关于第二个问题 应该是跟延迟没有关系&lt;/p&gt;
+&lt;p&gt;延迟一方面是取决于路的长短 物理距离比较长 延迟可能就比较高
+但是延迟高 物理距离长 也一样可以 是路宽车少的情况 这并不关联&lt;/p&gt;
+&lt;p&gt;选择什么样的线路 也就是选择 车少的路 宽的路&lt;/p&gt;
+&lt;p&gt;物理距离长  延迟高 如果 a 和 b 之间的通信 是交互性的&lt;/p&gt;
+&lt;p&gt;也就是说 什么叫交互性的 比如像 ssh 这样的&lt;/p&gt;
+&lt;p&gt;a 发一个命令 然后 b 响应  就像回合制游戏一样的&lt;/p&gt;
+&lt;p&gt;这个时候 如果物理距离长 延迟高 就会非常难受了&lt;/p&gt;
+&lt;p&gt;如果交互是单向的 比如说 看 youtube 视频 或者下载&lt;/p&gt;
+&lt;p&gt;都是 b 一直单方面向 a 发数据 那么这个时候 物理距离虽然长 延迟比较高&lt;/p&gt;
+&lt;p&gt;也不影响&lt;/p&gt;
+&lt;p&gt;不知道我的理解对不对&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:08:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036528#reply0</guid></item><item><title>[程序员] 有没有会用 dolphindb 的朋友</title><link>https://www.v2ex.com/t/1036526#reply1</link><description>&lt;p&gt;项目想测一下性能，需要测试下 python 客户端调用 dolphinDB 做随机读写的性能。&lt;/p&gt;
+&lt;p&gt;我看了看文档感觉体量还挺大的，而且感觉设计上不像传统编程语言，还挺难学的&lt;/p&gt;
+&lt;p&gt;有无老哥提供个建库、建表、分区，然后插入一亿条数据的代码，有可发下 base64 看下详细需求，发 200 红包辛苦费。。。。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:49:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036526#reply1</guid></item><item><title>[宽带症候群] 不同省份对家庭宽带上传管理和限制好像是不一样的</title><link>https://www.v2ex.com/t/1036525#reply4</link><description>&lt;p&gt;最近在和朋友闲聊时偶然讨论到了家庭宽带上传管理问题，发现一些省份的一些运营商对这个问题态度都不一样的，我一个朋友是山东移动宽带 NAT3 ，曾经大量上传网盘文件数十 G 且 BT 做种半天，在此之前移动服务器上传测速 59M ，实际连接移动以外上传 16M ，在此之后本以为上传会限制上传速度反而提升到 30M 测速 67M ，而另一个朋友的山东电信却因为 MC 服务器而被限速 10M 要签保证书，一个北京群友的联通用 NAS 也没有限制，南方尤其是浙江福建这两个一直在家宽保守的地方多，有没有大佬总结一下上传限制情况，现在似乎北方限制比较少&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:42:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036525#reply4</guid></item><item><title>[Bash] Linux bash 脚本监控和重启一个守护进程</title><link>https://www.v2ex.com/t/1036524#reply2</link><description>&lt;p&gt;最近有个需求，监控某个守护进程，如果进程不存在，则重启这个进程，打算写一个 bash 脚本和 service 服务满足这个需求。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;通过 systemctl start monitor_process.service, 启动监控&lt;/li&gt;
+&lt;li&gt;通过 systemctl start monitor_process.service ，停止监控，同时杀死启动的进程。&lt;/li&gt;
+&lt;li&gt;这个服务必须是在系统所有服务启动之后，才启动该服务&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看到
+&lt;a href="https://stackoverflow.com/questions/696839/how-do-i-write-a-bash-script-to-restart-a-process-if-it-dies" rel="nofollow"&gt;stackoverflow&lt;/a&gt;的高赞回答后，不知道这样写的脚本是不是合适的，有没有更加好实践。&lt;/p&gt;
+&lt;p&gt;我对 stackoverflow 高赞回答表示怀疑，其中&lt;code&gt;jobs -p&lt;/code&gt;，无法列出后台的守护进程。因为一般编写守护进程代码时，都是 fork 两次并重新设置会话 setsid&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;trap 'kill $(jobs -p)' EXIT; until myserver &amp;amp; wait
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href="http://monitor_process.sh" rel="nofollow"&gt;monitor_process.sh&lt;/a&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;
+#!/bin/bash
+
+this_bash_pid=$$
+exe_name="thisIsExample"
+
+# 定义一个函数来杀死进程
+kill_process() {
+  if [ -n "${PID}" ]; then
+    kill -9 ${PID}
+  fi
+  exit
+}
+
+# 使用 trap 命令捕获 TERM, INT 和 EXIT 信号
+trap 'kill_process' TERM INT EXIT
+
+while true
+do
+  output=$(ps -ef | grep ${exe_name} | grep -v grep | grep -v ${this_bash_pid})
+
+  if [ $? -eq 0 ];then
+    PID=$(echo $output | awk '{print $2}')
+    echo "${exe_name} :${PID} is running"
+  else
+    ./${exe_name} &amp;amp;
+
+    output=$(ps -ef | grep ${exe_name} | grep -v grep | grep -v ${this_bash_pid})
+    echo $output
+    PID=$(echo $output | awk '{print $2}')
+    echo $PID
+  fi
+  sleep 1
+done
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;monitor_process.service&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;
+[Unit]
+Description=Monitor Process Service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/monitor_process.sh
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 28 Apr 2024 12:42:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036524#reply2</guid></item><item><title>[问与答] MacOS 的内存使用策略是不是有点问题？</title><link>https://www.v2ex.com/t/1036521#reply0</link><description>32 G 内存的 MBP ，内存占用始终超不过 80%，swap 都吃了 3G 了还是不肯吃物理内存</description><pubDate>Sun, 28 Apr 2024 12:19:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036521#reply0</guid></item><item><title>[问与答] 4K 显示器求推荐 27 或者 32 寸 价格 1500 左右</title><link>https://www.v2ex.com/t/1036520#reply4</link><description>使用场景 办公，、网游&lt;br /&gt;谢谢各位大佬</description><pubDate>Sun, 28 Apr 2024 12:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036520#reply4</guid></item><item><title>[macOS] 很烦的零宽空格(ZWSP)问题</title><link>https://www.v2ex.com/t/1036519#reply3</link><description>&lt;p&gt;起因是在 Mac 微信上打字给朋友发消息，对方突然回了一句你的表情没有显示出来，我就纳闷我没有发表情，截图一看在我发送的文字中果然有一个半方格的东西，将我刚才发的文字复制到 Quiver 中一看，果然是有红色的点，代表零宽空格（坑我太多，已经有经验了）。&lt;/p&gt;
+&lt;p&gt;这事情奇就奇在当时我是用输入法连续打字的，怎么就突然冒出来一个零宽空格呢？我用的清歌输入法五笔打字的，零宽空格在发送的关键文字“的 ，“中间。&lt;/p&gt;
+&lt;p&gt;平常在 Mac 上用 Xcode 开发也是偶尔这种零宽空格问题，刚查问题时简直莫名其妙，不知道这个特殊符号怎么来的，查起来也麻烦。测试同事平时主用 Windows ，有时候从 Windows 复制文字到 Mac 的 Xcode 中也会有这样的零宽空格，帮测试同事查这种问题也是头疼&lt;/p&gt;
+&lt;p&gt;遇到这种问题大家有什么经验？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036519#reply3</guid></item><item><title>[分享发现] 分享个好东西，既可以异地组网又可以远程连接，还有其它实用的功能大家可以去挖掘！</title><link>https://www.v2ex.com/t/1036517#reply4</link><description>&lt;p&gt;坛子里老哥推荐的，用了下发现挺好用，中国移动畅连，用起来像是 zerotier 改的，我看酷安有人测了，这东西跑满带宽，比起那些 1 ，2M 中转强多了，最近用移动送的网盘存文件不限速免流量好评，价格也比较便宜！刚看了在和家亲里面还有场景化带宽加速服务，海外教育网站加速，一个月 3 块，还有游戏场景加速手游主机 PC 支持，也是一个月 3 块，可以玩玩，还有个移动云手机北京移动发代码可以免费体验一年，云电脑也是，可玩性还不错！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fcns.komect.com" rel="nofollow"&gt;https://fcns.komect.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:10:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036517#reply4</guid></item><item><title>[问与答] Windows 的镜像名称和显示名称是同一个参数吗？为什么 dism++能编辑显示名称而原版 dism 不能？</title><link>https://www.v2ex.com/t/1036516#reply2</link><description>微软官网下载的 win11 镜像文件，用 dism++装载之后，发现镜像属性里有 4 项参数：映像名称、映像说明、显示名称和显示说明。前两个参数在 dism 命令行里有对应的选项，通常跟 Capture-Image 选项一起用，分别是/Name 和/Description ，至于后两个，我翻了下 dism 的用户指南没找到。&lt;br /&gt;举个例子，如果直接用 dism++装载 win11 专业版镜像的话，那就能看到前两项都是"Windows 11 Pro"，后两项则是"Windows 11 专业版"。&lt;br /&gt;OEM 镜像似乎不会把这些设置得跟原版镜像那样标准，比如我的笔记本 OEM 就只把映像名称设置为"Windows 10 Home CN"，后面三项全是空的。&lt;br /&gt;最近在尝试给 OEM 映像装驱动，但是装完驱动想要用 Capture 选项另存镜像的时候就意识到找不到后两项的参数了。chatgpt 的答案是/DisplayName 和/DisplayDescription ，当然试过之后就发现这是在胡说八道，dism 命令行本来就没有这两项。&lt;br /&gt;在 win10 和 win11 的镜像中这 4 项都是完整的，dism++更是直接允许用户随意更改这 4 项，然而原版 dism 却缺少后两项参数，有什么办法只用命令行编辑这两项？&lt;br /&gt;&lt;br /&gt;原版镜像有完整的参数： &lt;a href="https://drive.google.com/file/d/1XjZgvwzJ8jloJR_nl11W6aWv0x82Y_ai/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1XjZgvwzJ8jloJR_nl11W6aWv0x82Y_ai/view?usp=sharing&lt;/a&gt;&lt;br /&gt;OEM 镜像缺少参数： &lt;a href="https://drive.google.com/file/d/1BczzonVt6NpUD0C-AUtsMhvbQA6TsFyi/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1BczzonVt6NpUD0C-AUtsMhvbQA6TsFyi/view?usp=sharing&lt;/a&gt;&lt;br /&gt;dism 命令行无法编辑显示名称和显示说明： &lt;a href="https://drive.google.com/file/d/1YN6XV8vbk7kur85Qc6KCe4v-_Aida5Ia/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1YN6XV8vbk7kur85Qc6KCe4v-_Aida5Ia/view?usp=sharing&lt;/a&gt;</description><pubDate>Sun, 28 Apr 2024 12:08:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036516#reply2</guid></item><item><title>[程序员] 提问：如何提升搜索功能</title><link>https://www.v2ex.com/t/1036515#reply1</link><description>有个小的检索功能，需要在指定数据内进行名称模糊搜索，&lt;br /&gt;更新频率：天级别&lt;br /&gt;数据量：60w&lt;br /&gt;目前方案：通过离线任务定时将所有的检索数据缓存在 redis 中，key 是检索词，value 是匹配的数据 id ，再根据 id 进行查库。&lt;br /&gt;期望：就这一个小功能，所以不希望引入太复杂的技术。接口平响&amp;lt;150ms</description><pubDate>Sun, 28 Apr 2024 11:59:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036515#reply1</guid></item><item><title>[职场话题] 在这个互联网时代，程序员转行做私家侦探可行吗？</title><link>https://www.v2ex.com/t/1036514#reply9</link><description>&lt;p&gt;精通渗透测试，社会工程学？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 11:51:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036514#reply9</guid></item><item><title>[Pixel] 入手 Pixel 7a 的问题</title><link>https://www.v2ex.com/t/1036512#reply0</link><description>&lt;p&gt;本人纯小白，最近想入手一个 Pixel 7a ，据说 Pixel 区分美版和欧版，并且听说美版似乎解不了 BL 锁，是这样吗。如果是，有什么我需要知道的吗？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 11:45:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036512#reply0</guid></item></channel></rss>
