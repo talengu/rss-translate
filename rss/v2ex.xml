@@ -1,136 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 28 Apr 2024 13:38:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 准备换邮箱了</title><link>https://www.v2ex.com/t/1036537#reply1</link><description>&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;163 邮箱
-当初注册了 reddit ， 现在无法收到找回密码邮件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;新浪
-收到用户月初 gmail 的邮件，自动躺在了垃圾箱了&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Sun, 28 Apr 2024 13:37:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036537#reply1</guid></item><item><title>[Docker] containerd 适合像 docker 一样直接使用吗</title><link>https://www.v2ex.com/t/1036536#reply1</link><description>&lt;p&gt;部署了一台 k8s 单节点，因为安装了 containerd 也可以直接跑容器就没安装 docker ，把一些简单的服务直接用 containerd 运行，就像 docker run 一样。&lt;/p&gt;
-&lt;p&gt;现在用下来感觉很多差异的地方不是很适应，比如端口不能映射，因为是 host-net 不可能都能用得了默认端口，改端口是不是就只能改源码重新编译呢，还是说有其他方式,&lt;/p&gt;
-&lt;p&gt;不支持 volume ，mount 挂载目录麻烦（参数都有新旧版区别一会是 target 一会是 destination,读写模式还是必选的）,&lt;/p&gt;
-&lt;p&gt;多了 task,启动策略不知道怎么设置,&lt;/p&gt;
-&lt;p&gt;k8s 加了 cni 那 containerd 独立运行容器是不是也要 cni...,&lt;/p&gt;
-&lt;p&gt;还有 ctr 命令感觉故意和 docker 做区别一样，podman 就跟 docker 比较兼容对平移用户很友好，当然我知道有 nerdctr ，看着像狗屁膏药似（为了兼容又加个工具）,看名字就像是在骂用户&lt;/p&gt;
-&lt;p&gt;所以 containerd 真的适合终端用户直接使用吗？ 有这么使用的大兄弟吗。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:32:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036536#reply1</guid></item><item><title>[Chrome] 请教各位大佬，这是 chrome 的 apps 吗？</title><link>https://www.v2ex.com/t/1036535#reply1</link><description>&lt;p&gt;这是个什么功能，怎么搜索不到相关的信息，一搜出来就是关于扩展应用程序的东西，这个是几年前停止维护的 chrome apps 吗？感恩大佬解惑。
-图片： &lt;a href="https://imgse.com/i/pkiTFL6" rel="nofollow"&gt;https://imgse.com/i/pkiTFL6&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:30:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036535#reply1</guid></item><item><title>[程序员] 应届生对职业生涯好迷茫，求建议</title><link>https://www.v2ex.com/t/1036534#reply1</link><description>lz 今年毕业，因为意外去了某大厂做大模型相关的后端开发。为什么说意外呢？我原本是其他部门的校招生，因为裁员被调剂过来的。😀&lt;br /&gt;&lt;br /&gt;提前去体验了一段时间，心里落差有点大……原因如下：&lt;br /&gt;&lt;br /&gt;1. 部门确实很牛逼，但我不是搞算法的，没办法镀金。&lt;br /&gt;&lt;br /&gt;2. 业务刚起步没多久，数据量和 qps 都非常低(qps&amp;lt;0.1)。而且 tob 业务，感觉将来也不会有什么高并发海量数据的业务场景，担心技术没成长。&lt;br /&gt;&lt;br /&gt;3. 我不是通过面试进来的，感觉裁员第一个就是我。&lt;br /&gt;&lt;br /&gt;4. 因为没有什么对性能要求高的业务场景，代码基本就是一个 http 服务在 api 层直接怼到 mysql 里操作。微服务，redis ，mq 这些东西基本用不到。&lt;br /&gt;&lt;br /&gt;身边的同事背景都很强，很多经验丰富的人在这里干。让我觉得一群很优秀的人在做一件很没劲的事。&lt;br /&gt;之前也是在其他大厂部门实习，要么 c 端 qps 高，要么 b 端数一致性要求高，学到很多东西。现在就挺难受的，但校招都快结束了，也没啥好去处。有人能来给点建议吗？</description><pubDate>Sun, 28 Apr 2024 13:26:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036534#reply1</guid></item><item><title>[OpenWrt] 请教 V 友，目前最新 openwrt 或者魔改 openwrt 整个局域网代理的稳定解决方案有啥？</title><link>https://www.v2ex.com/t/1036533#reply0</link><description>&lt;h3&gt;我的需求：&lt;/h3&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 29 Apr 2024 03:43:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 阿里云盘 webdav 上传有单文件大小限制吗？</title><link>https://www.v2ex.com/t/1036689#reply0</link><description>&lt;p&gt;如题，想用 cloudsync 将相册数据（ 260G 左右）加密上传到网盘备份，用了 Alist 开了 webdav 服务，用阿里云盘 open 的驱动成功挂载，限速 5m 跑了一晚上，成功上传了 170g ，之后就没看到云盘容量的继续变化，应该是没再上传了，早上起来看了一眼，右上角看不到 cloudsync 图标，到套件中心那里重新启动起来，这时候发现图片基本上传完了，都是在上传 mp4 后缀的视频文件，奇怪的是有些显示上传进度已经 100%的文件，在已完成的记录上找不到，云盘暂用容量也没有变化，判断应该是没有上传成功，是不是阿里云盘 webdav 上传有单文件大小的限制？导致大点的视频文件上传失败了？尝试了在 cloudsync 和阿里云盘侧找报错日志，但是只找到 cloudsync 的历史记录上有记录成功上传文件的日志，找不到其他地方可以看日志，有了解的大佬帮忙给点诊断意见，多谢！&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:40:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036689#reply0</guid></item><item><title>[分享创造] 加好友再也不用跳出去解密 base64，直接用这个插件就完事儿了</title><link>https://www.v2ex.com/t/1036687#reply0</link><description>&lt;h1&gt;加好友再也不用跳出去解密 base64 ，直接用这个插件就可以&lt;/h1&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在浏览&lt;a href="https://www.v2ex.com/" rel="nofollow"&gt;v2ex&lt;/a&gt;的时候，有时候会遇到 v 友留下 base64 加密的联系方式，这样每次添加好友的时候还需要解密一下，为了方便 v 友就开发了这个插件；只需要选中要解密的文本，右键点击，选择“Decode Base64”，然后把解密的文本复制到剪贴板，就可以直接添加好友了。&lt;br /&gt;
+&lt;a href="https://github.com/LonJinUp/Base64Decoder" rel="nofollow"&gt;Base64 Decoder&lt;/a&gt;是一个用于解码 Base64 编码文本的 Chrome 浏览器插件。它允许用户在浏览网页时快速解码选定的 Base64 编码文本，并将解码后的文本复制到剪贴板中。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;解码 Base64 编码文本：插件在浏览网页时，允许用户在右键选择文本后使用上下文菜单中的 "Decode Base64" 选项来解码选定的文本。&lt;/li&gt;
+&lt;li&gt;复制解码后的文本：解码完成后，插件会自动将解码后的文本复制到剪贴板中，方便用户进行粘贴操作。&lt;/li&gt;
+&lt;li&gt;显示通知：插件会在解码完成后显示一个桌面通知，提示用户解码结果已经复制到剪贴板中。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;使用方法&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;整个局域网都进行代理，&lt;/li&gt;
-&lt;li&gt;adguard home DNS 缓存加速&lt;/li&gt;
-&lt;li&gt;国内路线走国内 DNS ，国外路线走国外 DNS&lt;/li&gt;
+&lt;li&gt;安装插件：下载当前代码，谷歌浏览器打开&lt;code&gt;chrome://extensions/&lt;/code&gt;，然后点击&lt;code&gt;加载已解压的扩展程序&lt;/code&gt;，选择当前项目即可。&lt;/li&gt;
+&lt;li&gt;解码文本：在浏览网页时，选择 Base64 编码的文本，并右键点击选中的文本。&lt;/li&gt;
+&lt;li&gt;选择解码选项：在弹出的菜单中选择 "Decode Base64" 选项。&lt;/li&gt;
+&lt;li&gt;查看解码结果：插件会自动解码选定的文本，并将解码结果复制到剪贴板中。同时，您会收到一个桌面通知，告知您解码结果已经复制到剪贴板中。&lt;/li&gt;
+&lt;li&gt;粘贴解码结果：您现在可以粘贴解码后的文本到任何您想要的地方。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;我现在的情况：&lt;/h3&gt;
+&lt;h2&gt;注意事项&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;目前实现了 1 2 。3 实现没实现不知道。  &lt;/li&gt;
-&lt;li&gt;我是 openclash + adg 。老实说我不是程序员也不太懂，所以各种设置有点混乱。网络现在倒是能跑的通，也能从 adg 看到过滤广告。就算是 1 和 2 实现了。&lt;/li&gt;
+&lt;li&gt;插件需要访问当前网页的内容来解码选定的文本，因此请确保您在访问的网页上启用了插件。&lt;/li&gt;
+&lt;li&gt;插件使用浏览器的通知功能来显示解码结果已复制到剪贴板中的消息，请确保您的浏览器已允许显示通知。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h3&gt;怎么实现？&lt;/h3&gt;
-&lt;h4&gt;这两年有没有啥新解决方案？&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;我最新一版固件是 22 年的了。似乎这两年又有了新产品。稳定运行 2 年了。最近换了节点然后我更新完 openclash 就有问题了。换了 meta 内核，一个是延迟巨高，一个是总有好几个小时的连接自己也不掉，看控制台都能看到接近 1000 个连接。不知道除了 openclash 还有没有别的工具，主要 openclash 真的云里雾里。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;大家都是啥方案？&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;我知道的方案有那种，openclash + adg + smartDNS 。openclash 进行分流，adg 不但能过滤广告还能记录处理时间啥的，smartDNS 分两组一组处理国内一组国外。  &lt;/li&gt;
-&lt;li&gt;网上的教程，就单单 openclash + adg ，adg 里面的设置方法，我搜到的每个人说的都不一样，有的做 dnsmasq 的上游，有的把 53 重定向到 adg ，我都绕晕了。。。还有 openclash 也是邪门，到底劫持还是不劫持 dns ？有的教程写劫持有的不劫持。怎么准确的知道和设置把 dns 分组？第二 dns 服务器又是什么？追加 dns ，追加上游 dns ，追加默认 dns ，fallback-filter 。就单一个点就四五个设置。。。哎呦喂，这也就是行业内的人才能看得懂了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;所以想问问，你是怎么搞的？当时啃 openclash 就难啃，这个五一别是要再啃几天，网上的资料浩如烟海但真就乱七八糟的让人头大啊。。。谢谢 v 友了。。。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:24:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036533#reply0</guid></item><item><title>[JetBrains] 打开 clion 的时候， cpu 直接飙到 100%，写代码的时候 cpu 偶尔也 70-80</title><link>https://www.v2ex.com/t/1036532#reply0</link><description>用的是 macbook pro 英特尔 i9 的那款，64G 内存&lt;br /&gt;&lt;br /&gt;用 vs code 就很流畅 但是用惯了 IDE 回不去了...&lt;br /&gt;&lt;br /&gt;是什么原因造成的? 是不是要强上 M3 Max 了...</description><pubDate>Sun, 28 Apr 2024 13:24:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036532#reply0</guid></item><item><title>[全球工单系统] 某著名不愿意透露姓名的 PT 站点馒头，今日发生 Session 大量同时过期事件，管理员人工在线发码</title><link>https://www.v2ex.com/t/1036530#reply0</link><description>&lt;p&gt;大家批量登录其实没啥。&lt;/p&gt;
-&lt;p&gt;关键是上次强制大家使用邮箱二次认证，而且大多数人没切换到 OTP&lt;/p&gt;
-&lt;p&gt;上次强制邮箱认证的时候大家啥时候来的都有，本身是维护什么的，其实也还好&lt;/p&gt;
-&lt;p&gt;这次批量过期，邮件队列直接炸，电群直接成景点了。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:19:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036530#reply0</guid></item><item><title>[游戏] V2 CS2 快来一起欢乐吧~</title><link>https://www.v2ex.com/t/1036529#reply2</link><description>&lt;p&gt;周三更新后欢乐升级打箱子，偶尔开黑上分。老哥们快来玩儿~
-&lt;img alt="微信图片_20240428210321" class="embedded_image" rel="noreferrer" src="https://pic.datapipe.top/i/2024/04/28/ysciba.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:10:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036529#reply2</guid></item><item><title>[宽带症候群] 关于 tcp 的流量控制和拥塞控制</title><link>https://www.v2ex.com/t/1036528#reply0</link><description>&lt;p&gt;tcp 的传输其中要考虑的两个方面&lt;/p&gt;
-&lt;p&gt;一个是考虑 对端 的 接收缓冲区大小 如果对端的缓冲区已经满了 你还一直发数据 那你发过去的包只能被对端丢掉&lt;/p&gt;
-&lt;p&gt;另外一个考虑 是发过去的包  到达性并不好 也就是说 发三个包过去 只有一个包 对面回复说收到了。
-也就是 a 和 b 之间网络情况不好  那么这个时候 就要考虑 发包频率 控制一下 减慢&lt;/p&gt;
-&lt;p&gt;第一个问题 也就是 流量控制  这个好解决  我们把接收缓冲区开大点 &lt;/p&gt;
-&lt;p&gt;第二个问题 a 和 b 之间的网络 好不好 取决于很多东西  理想情况下来说 路宽车少 &lt;/p&gt;
-&lt;p&gt;那么 a 和 b 的网络就会比较好&lt;/p&gt;
-&lt;p&gt;如果晚高峰  车多 那么 a 和 b 之间的网络到达性 可能就比较差&lt;/p&gt;
-&lt;p&gt;然后 a 和 b 之间有没有一个网络瓶颈点  就是 a 和 b 中间 某一跳 由于设备问题 车多的问题等等 &lt;/p&gt;
-&lt;p&gt;这一跳丢包率高&lt;/p&gt;
-&lt;p&gt;关于第二个问题 应该是跟延迟没有关系&lt;/p&gt;
-&lt;p&gt;延迟一方面是取决于路的长短 物理距离比较长 延迟可能就比较高
-但是延迟高 物理距离长 也一样可以 是路宽车少的情况 这并不关联&lt;/p&gt;
-&lt;p&gt;选择什么样的线路 也就是选择 车少的路 宽的路&lt;/p&gt;
-&lt;p&gt;物理距离长  延迟高 如果 a 和 b 之间的通信 是交互性的&lt;/p&gt;
-&lt;p&gt;也就是说 什么叫交互性的 比如像 ssh 这样的&lt;/p&gt;
-&lt;p&gt;a 发一个命令 然后 b 响应  就像回合制游戏一样的&lt;/p&gt;
-&lt;p&gt;这个时候 如果物理距离长 延迟高 就会非常难受了&lt;/p&gt;
-&lt;p&gt;如果交互是单向的 比如说 看 youtube 视频 或者下载&lt;/p&gt;
-&lt;p&gt;都是 b 一直单方面向 a 发数据 那么这个时候 物理距离虽然长 延迟比较高&lt;/p&gt;
-&lt;p&gt;也不影响&lt;/p&gt;
-&lt;p&gt;不知道我的理解对不对&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 13:08:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036528#reply0</guid></item><item><title>[程序员] 有没有会用 dolphindb 的朋友</title><link>https://www.v2ex.com/t/1036526#reply1</link><description>&lt;p&gt;项目想测一下性能，需要测试下 python 客户端调用 dolphinDB 做随机读写的性能。&lt;/p&gt;
-&lt;p&gt;我看了看文档感觉体量还挺大的，而且感觉设计上不像传统编程语言，还挺难学的&lt;/p&gt;
-&lt;p&gt;有无老哥提供个建库、建表、分区，然后插入一亿条数据的代码，有可发下 base64 看下详细需求，发 200 红包辛苦费。。。。&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:49:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036526#reply1</guid></item><item><title>[宽带症候群] 不同省份对家庭宽带上传管理和限制好像是不一样的</title><link>https://www.v2ex.com/t/1036525#reply4</link><description>&lt;p&gt;最近在和朋友闲聊时偶然讨论到了家庭宽带上传管理问题，发现一些省份的一些运营商对这个问题态度都不一样的，我一个朋友是山东移动宽带 NAT3 ，曾经大量上传网盘文件数十 G 且 BT 做种半天，在此之前移动服务器上传测速 59M ，实际连接移动以外上传 16M ，在此之后本以为上传会限制上传速度反而提升到 30M 测速 67M ，而另一个朋友的山东电信却因为 MC 服务器而被限速 10M 要签保证书，一个北京群友的联通用 NAS 也没有限制，南方尤其是浙江福建这两个一直在家宽保守的地方多，有没有大佬总结一下上传限制情况，现在似乎北方限制比较少&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:42:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036525#reply4</guid></item><item><title>[Bash] Linux bash 脚本监控和重启一个守护进程</title><link>https://www.v2ex.com/t/1036524#reply2</link><description>&lt;p&gt;最近有个需求，监控某个守护进程，如果进程不存在，则重启这个进程，打算写一个 bash 脚本和 service 服务满足这个需求。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;通过 systemctl start monitor_process.service, 启动监控&lt;/li&gt;
-&lt;li&gt;通过 systemctl start monitor_process.service ，停止监控，同时杀死启动的进程。&lt;/li&gt;
-&lt;li&gt;这个服务必须是在系统所有服务启动之后，才启动该服务&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;看到
-&lt;a href="https://stackoverflow.com/questions/696839/how-do-i-write-a-bash-script-to-restart-a-process-if-it-dies" rel="nofollow"&gt;stackoverflow&lt;/a&gt;的高赞回答后，不知道这样写的脚本是不是合适的，有没有更加好实践。&lt;/p&gt;
-&lt;p&gt;我对 stackoverflow 高赞回答表示怀疑，其中&lt;code&gt;jobs -p&lt;/code&gt;，无法列出后台的守护进程。因为一般编写守护进程代码时，都是 fork 两次并重新设置会话 setsid&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;trap 'kill $(jobs -p)' EXIT; until myserver &amp;amp; wait
+&lt;h2&gt;结尾&lt;/h2&gt;
+&lt;p&gt;如果插件对你有帮助，请给个 star 吧！感谢支持！
+github 地址：&lt;a href="https://github.com/LonJinUp/Base64Decoder" rel="nofollow"&gt;Base64 Decoder&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:32:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036687#reply0</guid></item><item><title>[服务器] 凌晨服务器出现大量关于主机 cpu 上下文切换次数过高的告警信息，切换次数 30000/s 左右，请问如何排查是什么原因造成的，服务器的短板在哪里？</title><link>https://www.v2ex.com/t/1036685#reply0</link><description>&lt;p&gt;告警信息：Context switching is growing on the node (&amp;gt; 15000 / CPU / s)
+VALUE = 15003.080701754385&lt;/p&gt;
+&lt;p&gt;配置：16g RAM  2 核心的 CPU&lt;/p&gt;
+&lt;p&gt;pidstat -w 3 10   &amp;gt; /tmp/pidstat.out&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;Linux 3.10.0-1160.108.1.el7.x86_64 (taiGUo-test) 	2024 年 04 月 29 日 	_x86_64_	(2 CPU)
+
+10 时 16 分 15 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 18 秒     0         1      0.66      0.00  systemd
+10 时 16 分 18 秒     0         6      1.99      0.00  ksoftirqd/0
+10 时 16 分 18 秒     0         9     98.34      0.00  rcu_sched
+10 时 16 分 18 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 18 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 18 秒     0        14      1.66      0.00  ksoftirqd/1
+10 时 16 分 18 秒     0       256      1.66      0.00  kworker/1:1H
+10 时 16 分 18 秒     0       261      8.64      0.00  kworker/0:1H
+10 时 16 分 18 秒     0       268     11.96      0.66  jbd2/vda1-8
+10 时 16 分 18 秒     0       588     23.92      0.00  supervisord
+10 时 16 分 18 秒     0      1193     11.30      0.00  AliYunDun
+10 时 16 分 18 秒     0      1204     30.90      0.00  AliYunDunMonito
+10 时 16 分 18 秒   997      1321     23.26      0.00  redis-server
+10 时 16 分 18 秒   996      7955      1.33      0.00  nginx
+10 时 16 分 18 秒   996      7956     15.95      0.00  nginx
+10 时 16 分 18 秒     0     11140      7.97      0.00  kworker/1:0
+10 时 16 分 18 秒     0     15700      0.33      0.00  sshd
+10 时 16 分 18 秒     0     21146      2.66      0.00  kworker/0:2
+10 时 16 分 18 秒    27     21149      1.33      0.00  mysqld
+10 时 16 分 18 秒     0     25059      1.33      0.00  sshd
+10 时 16 分 18 秒     0     25245      1.33      0.00  tail
+10 时 16 分 18 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 18 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 21 秒     0         1      1.00      0.00  systemd
+10 时 16 分 21 秒     0         6      2.33      0.00  ksoftirqd/0
+10 时 16 分 21 秒     0         9     99.33      0.00  rcu_sched
+10 时 16 分 21 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 21 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 21 秒     0        14      3.33      0.00  ksoftirqd/1
+10 时 16 分 21 秒     0       256      3.67      0.00  kworker/1:1H
+10 时 16 分 21 秒     0       261      8.33      0.00  kworker/0:1H
+10 时 16 分 21 秒     0       268     10.00      0.00  jbd2/vda1-8
+10 时 16 分 21 秒     0       588      7.33      0.00  supervisord
+10 时 16 分 21 秒     0      1127      0.33      0.00  AliYunDunUpdate
+10 时 16 分 21 秒     0      1193     11.00      0.00  AliYunDun
+10 时 16 分 21 秒     0      1204     30.00      0.00  AliYunDunMonito
+10 时 16 分 21 秒     0      1319      0.33      0.00  rsyslogd
+10 时 16 分 21 秒   997      1321     12.33      0.00  redis-server
+10 时 16 分 21 秒   996      7956      0.67      0.00  nginx
+10 时 16 分 21 秒     0     11140      8.33      0.00  kworker/1:0
+10 时 16 分 21 秒     0     15700      0.33      0.00  sshd
+10 时 16 分 21 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 21 秒     0     21146      2.00      0.00  kworker/0:2
+10 时 16 分 21 秒     0     25059      1.33      0.00  sshd
+10 时 16 分 21 秒     0     25245      1.33      0.00  tail
+10 时 16 分 21 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 21 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 24 秒     0         1      0.67      0.00  systemd
+10 时 16 分 24 秒     0         6      1.33      0.00  ksoftirqd/0
+10 时 16 分 24 秒     0         9    105.00      0.00  rcu_sched
+10 时 16 分 24 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 24 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 24 秒     0        14      1.33      0.00  ksoftirqd/1
+10 时 16 分 24 秒     0       256      1.33      0.00  kworker/1:1H
+10 时 16 分 24 秒     0       261     19.00      0.00  kworker/0:1H
+10 时 16 分 24 秒     0       268     20.33      0.33  jbd2/vda1-8
+10 时 16 分 24 秒     0       588     16.00      0.00  supervisord
+10 时 16 分 24 秒     0      1193     10.33      0.00  AliYunDun
+10 时 16 分 24 秒     0      1204     30.33      0.00  AliYunDunMonito
+10 时 16 分 24 秒   997      1321     16.33      0.00  redis-server
+10 时 16 分 24 秒   996      7955      0.33      0.00  nginx
+10 时 16 分 24 秒   996      7956      1.33      0.00  nginx
+10 时 16 分 24 秒     0     11140      9.00      0.00  kworker/1:0
+10 时 16 分 24 秒     0     21146      2.67      0.00  kworker/0:2
+10 时 16 分 24 秒    27     21149      0.67      0.00  mysqld
+10 时 16 分 24 秒     0     25059      2.67      0.00  sshd
+10 时 16 分 24 秒     0     25245      2.67      0.00  tail
+10 时 16 分 24 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 24 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 27 秒     0         1      1.00      0.00  systemd
+10 时 16 分 27 秒     0         6      3.67      0.00  ksoftirqd/0
+10 时 16 分 27 秒     0         9    113.33      0.00  rcu_sched
+10 时 16 分 27 秒     0        14      2.33      0.00  ksoftirqd/1
+10 时 16 分 27 秒     0       256      2.00      0.00  kworker/1:1H
+10 时 16 分 27 秒     0       261     15.00      0.00  kworker/0:1H
+10 时 16 分 27 秒     0       268     14.33      0.00  jbd2/vda1-8
+10 时 16 分 27 秒     0       588     19.33      0.00  supervisord
+10 时 16 分 27 秒     0      1193     11.00      0.00  AliYunDun
+10 时 16 分 27 秒     0      1204     31.33      0.00  AliYunDunMonito
+10 时 16 分 27 秒   997      1321     21.67      0.00  redis-server
+10 时 16 分 27 秒   996      7955      6.00      0.00  nginx
+10 时 16 分 27 秒   996      7956      6.67      0.00  nginx
+10 时 16 分 27 秒     0     11140     11.33      0.00  kworker/1:0
+10 时 16 分 27 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 27 秒     0     21146      8.00      0.00  kworker/0:2
+10 时 16 分 27 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 27 秒     0     25059     10.00      0.00  sshd
+10 时 16 分 27 秒     0     25245      9.67      1.33  tail
+10 时 16 分 27 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 27 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 30 秒     0         1      0.67      0.00  systemd
+10 时 16 分 30 秒     0         6      0.33      0.00  ksoftirqd/0
+10 时 16 分 30 秒     0         9    103.67      0.00  rcu_sched
+10 时 16 分 30 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 30 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 30 秒     0        14      1.33      0.00  ksoftirqd/1
+10 时 16 分 30 秒     0        20      0.33      0.00  khungtaskd
+10 时 16 分 30 秒     0       256      0.67      0.00  kworker/1:1H
+10 时 16 分 30 秒     0       261      2.33      0.00  kworker/0:1H
+10 时 16 分 30 秒     0       268      3.00      0.00  jbd2/vda1-8
+10 时 16 分 30 秒     0       588     33.00      0.00  supervisord
+10 时 16 分 30 秒     0      1127      0.33      0.00  AliYunDunUpdate
+10 时 16 分 30 秒     0      1193     11.00      0.00  AliYunDun
+10 时 16 分 30 秒     0      1204     30.67      0.00  AliYunDunMonito
+10 时 16 分 30 秒   997      1321     12.00      0.00  redis-server
+10 时 16 分 30 秒     0     11140      8.33      0.00  kworker/1:0
+10 时 16 分 30 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 30 秒     0     21146      4.33      0.00  kworker/0:2
+10 时 16 分 30 秒     0     25059      3.33      0.00  sshd
+10 时 16 分 30 秒     0     25245      1.67      1.00  tail
+10 时 16 分 30 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 30 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 33 秒     0         1      0.67      0.00  systemd
+10 时 16 分 33 秒     0         6      1.00      0.00  ksoftirqd/0
+10 时 16 分 33 秒     0         9    106.67      0.00  rcu_sched
+10 时 16 分 33 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 33 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 33 秒     0        14      0.67      0.00  ksoftirqd/1
+10 时 16 分 33 秒     0       256      0.33      0.00  kworker/1:1H
+10 时 16 分 33 秒     0       588      1.00      0.00  supervisord
+10 时 16 分 33 秒     0      1193     10.33      0.00  AliYunDun
+10 时 16 分 33 秒     0      1204     30.00      0.00  AliYunDunMonito
+10 时 16 分 33 秒   997      1321     10.33      0.00  redis-server
+10 时 16 分 33 秒   996      7956      6.00      0.00  nginx
+10 时 16 分 33 秒     0     11140      7.00      0.00  kworker/1:0
+10 时 16 分 33 秒     0     21146      2.33      0.00  kworker/0:2
+10 时 16 分 33 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 33 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 33 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 36 秒     0         1      1.00      0.00  systemd
+10 时 16 分 36 秒     0         6      5.67      0.00  ksoftirqd/0
+10 时 16 分 36 秒     0         9    118.33      0.00  rcu_sched
+10 时 16 分 36 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 36 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 36 秒     0        14      4.00      0.00  ksoftirqd/1
+10 时 16 分 36 秒     0       256      3.33      0.00  kworker/1:1H
+10 时 16 分 36 秒     0       261     19.00      0.00  kworker/0:1H
+10 时 16 分 36 秒     0       268     21.67      1.67  jbd2/vda1-8
+10 时 16 分 36 秒     0       588     18.33      0.67  supervisord
+10 时 16 分 36 秒     0      1193     11.00      0.00  AliYunDun
+10 时 16 分 36 秒     0      1204     30.33      0.00  AliYunDunMonito
+10 时 16 分 36 秒   997      1321     14.33      0.00  redis-server
+10 时 16 分 36 秒   996      7956     10.33      0.00  nginx
+10 时 16 分 36 秒     0     11140      7.67      0.00  kworker/1:0
+10 时 16 分 36 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 36 秒     0     21146     22.00      0.00  kworker/0:2
+10 时 16 分 36 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 36 秒     0     25059     13.33      0.00  sshd
+10 时 16 分 36 秒     0     25245     10.67      0.67  tail
+10 时 16 分 36 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 36 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 39 秒     0         1      0.67      0.00  systemd
+10 时 16 分 39 秒     0         6      1.33      0.00  ksoftirqd/0
+10 时 16 分 39 秒     0         9    119.67      0.00  rcu_sched
+10 时 16 分 39 秒     0        14      1.00      0.00  ksoftirqd/1
+10 时 16 分 39 秒     0       256      1.00      0.00  kworker/1:1H
+10 时 16 分 39 秒     0       261      3.33      0.00  kworker/0:1H
+10 时 16 分 39 秒     0       268      4.00      0.00  jbd2/vda1-8
+10 时 16 分 39 秒     0       588      1.00      0.00  supervisord
+10 时 16 分 39 秒     0      1127      0.33      0.00  AliYunDunUpdate
+10 时 16 分 39 秒     0      1193     11.00      0.00  AliYunDun
+10 时 16 分 39 秒     0      1204     30.00      0.00  AliYunDunMonito
+10 时 16 分 39 秒   997      1321     10.00      0.00  redis-server
+10 时 16 分 39 秒     0     11140      6.00      0.00  kworker/1:0
+10 时 16 分 39 秒     0     21146      2.00      0.00  kworker/0:2
+10 时 16 分 39 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 39 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 39 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 42 秒     0         1      1.00      0.00  systemd
+10 时 16 分 42 秒     0         6      1.67      0.00  ksoftirqd/0
+10 时 16 分 42 秒     0         9     99.00      0.00  rcu_sched
+10 时 16 分 42 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 42 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 42 秒     0        14      0.67      0.00  ksoftirqd/1
+10 时 16 分 42 秒     0       261      1.00      0.00  kworker/0:1H
+10 时 16 分 42 秒     0       268      1.33      0.00  jbd2/vda1-8
+10 时 16 分 42 秒     0       588      1.00      0.00  supervisord
+10 时 16 分 42 秒     0      1193     10.67      0.00  AliYunDun
+10 时 16 分 42 秒     0      1204     30.33      0.00  AliYunDunMonito
+10 时 16 分 42 秒   997      1321     10.67      0.00  redis-server
+10 时 16 分 42 秒     0     11140      6.00      0.00  kworker/1:0
+10 时 16 分 42 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 42 秒     0     21146      2.00      0.00  kworker/0:2
+10 时 16 分 42 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 42 秒     0     26479      0.33      0.00  pidstat
+
+10 时 16 分 42 秒   UID       PID   cswch/s nvcswch/s  Command
+10 时 16 分 45 秒     0         1      0.67      0.00  systemd
+10 时 16 分 45 秒     0         6      1.33      0.00  ksoftirqd/0
+10 时 16 分 45 秒     0         9    115.33      0.00  rcu_sched
+10 时 16 分 45 秒     0        11      0.33      0.00  watchdog/0
+10 时 16 分 45 秒     0        12      0.33      0.00  watchdog/1
+10 时 16 分 45 秒     0        14      1.67      0.00  ksoftirqd/1
+10 时 16 分 45 秒     0       256      0.67      0.00  kworker/1:1H
+10 时 16 分 45 秒     0       261      0.67      0.00  kworker/0:1H
+10 时 16 分 45 秒     0       268      1.33      0.00  jbd2/vda1-8
+10 时 16 分 45 秒     0       588      1.00      0.00  supervisord
+10 时 16 分 45 秒     0      1127      0.33      0.00  AliYunDunUpdate
+10 时 16 分 45 秒     0      1193     10.67      0.00  AliYunDun
+10 时 16 分 45 秒     0      1204     30.67      0.00  AliYunDunMonito
+10 时 16 分 45 秒   997      1321     11.67      0.00  redis-server
+10 时 16 分 45 秒     0     11140      6.00      0.00  kworker/1:0
+10 时 16 分 45 秒     0     18171      0.33      0.00  kworker/u4:2
+10 时 16 分 45 秒     0     21146      2.00      0.00  kworker/0:2
+10 时 16 分 45 秒    27     21149      0.33      0.00  mysqld
+10 时 16 分 45 秒     0     26479      0.33      0.00  pidstat
+
+平均时间:   UID       PID   cswch/s nvcswch/s  Command
+平均时间:     0         1      0.80      0.00  systemd
+平均时间:     0         6      2.07      0.00  ksoftirqd/0
+平均时间:     0         9    107.86      0.00  rcu_sched
+平均时间:     0        11      0.27      0.00  watchdog/0
+平均时间:     0        12      0.27      0.00  watchdog/1
+平均时间:     0        14      1.80      0.00  ksoftirqd/1
+平均时间:     0        20      0.03      0.00  khungtaskd
+平均时间:     0       256      1.47      0.00  kworker/1:1H
+平均时间:     0       261      7.73      0.00  kworker/0:1H
+平均时间:     0       268      8.80      0.27  jbd2/vda1-8
+平均时间:     0       588     12.20      0.07  supervisord
+平均时间:     0      1127      0.13      0.00  AliYunDunUpdate
+平均时间:     0      1193     10.83      0.00  AliYunDun
+平均时间:     0      1204     30.46      0.00  AliYunDunMonito
+平均时间:     0      1319      0.03      0.00  rsyslogd
+平均时间:   997      1321     14.26      0.00  redis-server
+平均时间:   996      7955      0.77      0.00  nginx
+平均时间:   996      7956      4.10      0.00  nginx
+平均时间:     0     11140      7.76      0.00  kworker/1:0
+平均时间:     0     15700      0.07      0.00  sshd
+平均时间:     0     18171      0.20      0.00  kworker/u4:2
+平均时间:     0     21146      5.00      0.00  kworker/0:2
+平均时间:    27     21149      0.40      0.00  mysqld
+平均时间:     0     25059      3.20      0.00  sshd
+平均时间:     0     25245      2.73      0.30  tail
+平均时间:     0     26479      0.33      0.00  pidstat
 &lt;/code&gt;&lt;/pre&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;a href="http://monitor_process.sh" rel="nofollow"&gt;monitor_process.sh&lt;/a&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;
-#!/bin/bash
-
-this_bash_pid=$$
-exe_name="thisIsExample"
-
-# 定义一个函数来杀死进程
-kill_process() {
-  if [ -n "${PID}" ]; then
-    kill -9 ${PID}
-  fi
-  exit
-}
-
-# 使用 trap 命令捕获 TERM, INT 和 EXIT 信号
-trap 'kill_process' TERM INT EXIT
-
-while true
-do
-  output=$(ps -ef | grep ${exe_name} | grep -v grep | grep -v ${this_bash_pid})
-
-  if [ $? -eq 0 ];then
-    PID=$(echo $output | awk '{print $2}')
-    echo "${exe_name} :${PID} is running"
-  else
-    ./${exe_name} &amp;amp;
-
-    output=$(ps -ef | grep ${exe_name} | grep -v grep | grep -v ${this_bash_pid})
-    echo $output
-    PID=$(echo $output | awk '{print $2}')
-    echo $PID
-  fi
-  sleep 1
-done
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;monitor_process.service&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;
-[Unit]
-Description=Monitor Process Service
-After=multi-user.target
-
-[Service]
-Type=simple
-ExecStart=/usr/local/bin/monitor_process.sh
-Restart=on-failure
-RestartSec=30
-
-[Install]
-WantedBy=multi-user.target
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 28 Apr 2024 12:42:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036524#reply2</guid></item><item><title>[问与答] MacOS 的内存使用策略是不是有点问题？</title><link>https://www.v2ex.com/t/1036521#reply0</link><description>32 G 内存的 MBP ，内存占用始终超不过 80%，swap 都吃了 3G 了还是不肯吃物理内存</description><pubDate>Sun, 28 Apr 2024 12:19:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036521#reply0</guid></item><item><title>[问与答] 4K 显示器求推荐 27 或者 32 寸 价格 1500 左右</title><link>https://www.v2ex.com/t/1036520#reply4</link><description>使用场景 办公，、网游&lt;br /&gt;谢谢各位大佬</description><pubDate>Sun, 28 Apr 2024 12:18:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036520#reply4</guid></item><item><title>[macOS] 很烦的零宽空格(ZWSP)问题</title><link>https://www.v2ex.com/t/1036519#reply3</link><description>&lt;p&gt;起因是在 Mac 微信上打字给朋友发消息，对方突然回了一句你的表情没有显示出来，我就纳闷我没有发表情，截图一看在我发送的文字中果然有一个半方格的东西，将我刚才发的文字复制到 Quiver 中一看，果然是有红色的点，代表零宽空格（坑我太多，已经有经验了）。&lt;/p&gt;
-&lt;p&gt;这事情奇就奇在当时我是用输入法连续打字的，怎么就突然冒出来一个零宽空格呢？我用的清歌输入法五笔打字的，零宽空格在发送的关键文字“的 ，“中间。&lt;/p&gt;
-&lt;p&gt;平常在 Mac 上用 Xcode 开发也是偶尔这种零宽空格问题，刚查问题时简直莫名其妙，不知道这个特殊符号怎么来的，查起来也麻烦。测试同事平时主用 Windows ，有时候从 Windows 复制文字到 Mac 的 Xcode 中也会有这样的零宽空格，帮测试同事查这种问题也是头疼&lt;/p&gt;
-&lt;p&gt;遇到这种问题大家有什么经验？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036519#reply3</guid></item><item><title>[分享发现] 分享个好东西，既可以异地组网又可以远程连接，还有其它实用的功能大家可以去挖掘！</title><link>https://www.v2ex.com/t/1036517#reply4</link><description>&lt;p&gt;坛子里老哥推荐的，用了下发现挺好用，中国移动畅连，用起来像是 zerotier 改的，我看酷安有人测了，这东西跑满带宽，比起那些 1 ，2M 中转强多了，最近用移动送的网盘存文件不限速免流量好评，价格也比较便宜！刚看了在和家亲里面还有场景化带宽加速服务，海外教育网站加速，一个月 3 块，还有游戏场景加速手游主机 PC 支持，也是一个月 3 块，可以玩玩，还有个移动云手机北京移动发代码可以免费体验一年，云电脑也是，可玩性还不错！&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://fcns.komect.com" rel="nofollow"&gt;https://fcns.komect.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 12:10:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036517#reply4</guid></item><item><title>[问与答] Windows 的镜像名称和显示名称是同一个参数吗？为什么 dism++能编辑显示名称而原版 dism 不能？</title><link>https://www.v2ex.com/t/1036516#reply2</link><description>微软官网下载的 win11 镜像文件，用 dism++装载之后，发现镜像属性里有 4 项参数：映像名称、映像说明、显示名称和显示说明。前两个参数在 dism 命令行里有对应的选项，通常跟 Capture-Image 选项一起用，分别是/Name 和/Description ，至于后两个，我翻了下 dism 的用户指南没找到。&lt;br /&gt;举个例子，如果直接用 dism++装载 win11 专业版镜像的话，那就能看到前两项都是"Windows 11 Pro"，后两项则是"Windows 11 专业版"。&lt;br /&gt;OEM 镜像似乎不会把这些设置得跟原版镜像那样标准，比如我的笔记本 OEM 就只把映像名称设置为"Windows 10 Home CN"，后面三项全是空的。&lt;br /&gt;最近在尝试给 OEM 映像装驱动，但是装完驱动想要用 Capture 选项另存镜像的时候就意识到找不到后两项的参数了。chatgpt 的答案是/DisplayName 和/DisplayDescription ，当然试过之后就发现这是在胡说八道，dism 命令行本来就没有这两项。&lt;br /&gt;在 win10 和 win11 的镜像中这 4 项都是完整的，dism++更是直接允许用户随意更改这 4 项，然而原版 dism 却缺少后两项参数，有什么办法只用命令行编辑这两项？&lt;br /&gt;&lt;br /&gt;原版镜像有完整的参数： &lt;a href="https://drive.google.com/file/d/1XjZgvwzJ8jloJR_nl11W6aWv0x82Y_ai/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1XjZgvwzJ8jloJR_nl11W6aWv0x82Y_ai/view?usp=sharing&lt;/a&gt;&lt;br /&gt;OEM 镜像缺少参数： &lt;a href="https://drive.google.com/file/d/1BczzonVt6NpUD0C-AUtsMhvbQA6TsFyi/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1BczzonVt6NpUD0C-AUtsMhvbQA6TsFyi/view?usp=sharing&lt;/a&gt;&lt;br /&gt;dism 命令行无法编辑显示名称和显示说明： &lt;a href="https://drive.google.com/file/d/1YN6XV8vbk7kur85Qc6KCe4v-_Aida5Ia/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1YN6XV8vbk7kur85Qc6KCe4v-_Aida5Ia/view?usp=sharing&lt;/a&gt;</description><pubDate>Sun, 28 Apr 2024 12:08:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036516#reply2</guid></item><item><title>[程序员] 提问：如何提升搜索功能</title><link>https://www.v2ex.com/t/1036515#reply1</link><description>有个小的检索功能，需要在指定数据内进行名称模糊搜索，&lt;br /&gt;更新频率：天级别&lt;br /&gt;数据量：60w&lt;br /&gt;目前方案：通过离线任务定时将所有的检索数据缓存在 redis 中，key 是检索词，value 是匹配的数据 id ，再根据 id 进行查库。&lt;br /&gt;期望：就这一个小功能，所以不希望引入太复杂的技术。接口平响&amp;lt;150ms</description><pubDate>Sun, 28 Apr 2024 11:59:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036515#reply1</guid></item><item><title>[职场话题] 在这个互联网时代，程序员转行做私家侦探可行吗？</title><link>https://www.v2ex.com/t/1036514#reply9</link><description>&lt;p&gt;精通渗透测试，社会工程学？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 11:51:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036514#reply9</guid></item><item><title>[Pixel] 入手 Pixel 7a 的问题</title><link>https://www.v2ex.com/t/1036512#reply0</link><description>&lt;p&gt;本人纯小白，最近想入手一个 Pixel 7a ，据说 Pixel 区分美版和欧版，并且听说美版似乎解不了 BL 锁，是这样吗。如果是，有什么我需要知道的吗？&lt;/p&gt;</description><pubDate>Sun, 28 Apr 2024 11:45:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036512#reply0</guid></item></channel></rss>
+&lt;p&gt;有大佬帮忙看看是哪个服务造成的吗，主机对 linux 一知半解，难以解决这类性能问题。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:31:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036685#reply0</guid></item><item><title>[问与答] 有没有这么一种 AI 工具，可以自动把每天看的视频、文章总结归纳成知识库</title><link>https://www.v2ex.com/t/1036684#reply2</link><description>&lt;p&gt;每天花费很多时间看 B 站视频，但是看完就忘，感觉很是空虚。&lt;/p&gt;
+&lt;p&gt;有没有一种 AI 工具，可以收集我每天的浏览记录（不限于视频），可以自动总结分类整理，形成知识库，并同步到 Notion 之类的软件里，且能关联到相关内容。&lt;/p&gt;
+&lt;p&gt;一开始可以让我手动筛选哪些内容需要整理，哪些纯娱乐内容直接舍弃，后期 AI 学习我的使用习惯可以自动筛选。&lt;/p&gt;
+&lt;p&gt;大胆预测这可能是 AI PC 和 AI phone 的新功能。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:29:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036684#reply2</guid></item><item><title>[问与答] 人无近优，必有远虑</title><link>https://www.v2ex.com/t/1036682#reply0</link><description>&lt;p&gt;程序员，面临 35 压力，又没有副业，真心难搞啊&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036682#reply0</guid></item><item><title>[职场话题] 身在二线以下城市的程序员 怎么看待外包公司工作？</title><link>https://www.v2ex.com/t/1036681#reply0</link><description>&lt;p&gt;一线城市程序员完全看不上外包公司。&lt;/p&gt;
+&lt;p&gt;但是二线之后的城市，程序员就是绝大多数做公司内部系统，是公司的运行成本，无限压缩人力。目前没有体验过外包公司工作，大佬们能否和做内部系统的工作来比较一下？&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036681#reply0</guid></item><item><title>[问与答] 试问出 mini5+iphone6s</title><link>https://www.v2ex.com/t/1036680#reply0</link><description>&lt;p&gt;音量键坏了的 64g 的 mini5 和一个外观嘎嘎新自用的 64g 的 iPhone6s 打包能出到 1000 嘛?各位佬,我是第一次卖东西,不合适的话勿 diss 。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036680#reply0</guid></item><item><title>[上海] 外地人在上海买房的时机大概是？</title><link>https://www.v2ex.com/t/1036679#reply0</link><description>通缩应该不会成功常态吧。什么时候可以零首付 50 年贷？</description><pubDate>Mon, 29 Apr 2024 03:27:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036679#reply0</guid></item><item><title>[问与答] 西昌旅游攻略 求救</title><link>https://www.v2ex.com/t/1036678#reply2</link><description>&lt;p&gt;如题 谢谢家人们&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:26:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036678#reply2</guid></item><item><title>[职场话题] AI 录音笔项目还能做吗？</title><link>https://www.v2ex.com/t/1036677#reply0</link><description>&lt;p&gt;部门的新预研的项目，看看有没有各位大佬可以提提意见建议。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036677#reply0</guid></item><item><title>[职场话题] 有没有从坐班转成远程工作的 V 友？</title><link>https://www.v2ex.com/t/1036675#reply5</link><description>&lt;p&gt;现在的工作是属于纯搬砖的活，想换个城市 remote. 有没有 V 友成功说服领导转成 remote 的？想请教下需要注意什么&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:20:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036675#reply5</guid></item><item><title>[问与答] VMWare 账号合并入 broadcom</title><link>https://www.v2ex.com/t/1036672#reply0</link><description>&lt;p&gt;收到邮件，说 VMWare 被收购了，要自动把 VMWare 账号转为 broadcom 账号。然后点了里面的链接，结果显示“您所访问的账户找回链接已过期或先前已被使用。”&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:16:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036672#reply0</guid></item><item><title>[职场话题] 谈职场晋升</title><link>https://www.v2ex.com/t/1036671#reply26</link><description>&lt;p&gt;前几天，在跟客户演示一个我们做的软件系统，出了一个比较明显的 bug ，随即我叫来负责此功能的组长，让他去查一下到底是什么原因，明天要给我一个交代。&lt;br /&gt;
+第二天下午，我见他还没来找我，我就让他再次来找我，他说了一大堆的专业术语，比如权重啊、二次排序啊，并给出技术角度解决的方案。我当即打断他，按照我的理解给出了自己的方案，没想到他居然当着其他人的面指出我的方案的漏洞，客户可能提出新的 bug 。我当场觉得非常的愤怒，觉得这个人太技术思维了，情商又低，恶狠狠的看着他，让他闭嘴，他最终屈服了。虽然我作为研发副总有做的不对的地方，但我觉得这个人做技术十几年了，一直处于类似于开发组长的职位，问题更大。&lt;/p&gt;
+&lt;p&gt;1.技术人员不能只盯着技术，也不能只从技术上解决问题 &lt;br /&gt;
+2.技术人员应该尽可能提高能力。我作为一个负责研发的高管，虽然也是从程序员升上来的，但不可能像手下平常研究的技术那么专业、深入。手下应该用上级听得懂的方式来进行表达&lt;br /&gt;
+3.在有第三者在的情况下，手下应该尽可能的听着，如果有漏洞，不要当面指出，这样很让上级没面子&lt;/p&gt;
+&lt;p&gt;如果不能很好的做到上述几点，我觉得很难晋升&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:15:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036671#reply26</guid></item><item><title>[问与答] RG-EG310XS-E 硬件配置</title><link>https://www.v2ex.com/t/1036670#reply0</link><description>锐捷睿易推出全新产品 RG-EG310XS-E ，吞吐带宽为 4Gbps ，带机量 350 台。&lt;br /&gt;问题：&lt;br /&gt;1.这是啥 cpu （四核 1.8g ）？&lt;br /&gt;2.内网能否跑满 10g ？&lt;br /&gt;3.系统界面是否好用？类似于爱快设置（ tp 企业路由器设置繁琐）</description><pubDate>Mon, 29 Apr 2024 03:13:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036670#reply0</guid></item><item><title>[问与答] 联想 y7000p 合盖后，开机通过检测是否有电源，这种方式可行吗？</title><link>https://www.v2ex.com/t/1036669#reply1</link><description>&lt;a href="https://zhuanlan.zhihu.com/p/298336766" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/298336766&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;联想 y7000p 合盖后，显示通过显示器 来显示。关机不是问题，但是开机是个问题，不然每次需要 打开盖子，按下电源键，可行但是比较麻烦。</description><pubDate>Mon, 29 Apr 2024 03:11:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036669#reply1</guid></item><item><title>[Linux] 推荐一下自己翻译的《 Linux 内核实验》课程</title><link>https://www.v2ex.com/t/1036667#reply1</link><description>&lt;p&gt;本内容是布加勒斯特理工大学的 Linux 内核教学课程。该课程通过动手实践设备驱动编写，使学习者深入理解 Linux 内核，适合所有对 Linux 内核原理感兴趣的人阅读。&lt;/p&gt;
+&lt;p&gt;本文档主要分为两个模块，一个是“课程”，还有一个是“实验”。“课程”部分写得不甚详细，更适合有经验的教师上课时使用。而“实验”部分则是本文档最有价值的部分，写的非常的详细而且由浅入深，Linux 内核零基础的同学也可以来学习。注意“实验”模块学习之前，并不需要学习“课程”模块。&lt;/p&gt;
+&lt;p&gt;文档链接是 &lt;a href="https://linux-kernel-labs-zh.xyz/" rel="nofollow"&gt;https://linux-kernel-labs-zh.xyz/&lt;/a&gt;，仓库链接是 &lt;a href="https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn" rel="nofollow"&gt;https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎大家前来学习和提意见！&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:09:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036667#reply1</guid></item><item><title>[分享发现] DuckDuckGo 也出了个 AI Chat 免登录不挑地区</title><link>https://www.v2ex.com/t/1036666#reply0</link><description>&lt;a href="https://duckduckgo.com/?q=DuckDuckGo&amp;amp;ia=chat" rel="nofollow noopener" target="_blank"&gt;https://duckduckgo.com/?q=DuckDuckGo&amp;amp;ia=chat&lt;/a&gt;&lt;br /&gt;两个模型可选……&lt;br /&gt;&lt;a href="https://i.imgur.com/va3bksd.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/va3bksd.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 29 Apr 2024 03:09:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036666#reply0</guid></item><item><title>[Flutter] BREAKING NEWS ❗️Flutter 大概要被裁员波及到了</title><link>https://www.v2ex.com/t/1036665#reply1</link><description>&lt;p&gt;&lt;a href="https://news.ycombinator.com/item?id=40184763" rel="nofollow"&gt;Google layoffs hit Flutter team&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:06:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036665#reply1</guid></item><item><title>[投资] 金融 API 的常见类型</title><link>https://www.v2ex.com/t/1036664#reply0</link><description>&lt;p&gt;这里有一些常见的金融 API 类型：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公共 API&lt;/strong&gt;
+公共数据接口提供对预定义的功能集和市场数据的访问，使第三方开发人员能够在现有金融数据平台之上构建应用程序和服务。例如，支付网关行情 api 使商家能够在其电子商务网站中集成支付处理功能，提升客户结账体验。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;合作伙伴 API&lt;/strong&gt;
+合作伙伴金融数据接口专为金融机构及其可信合作伙伴之间的合作设计。这些 API 使组织能够安全地共享数据和集成，允许它们在各种金融服务和产品上合作。例如，一家银行可能提供一个合作伙伴 API 给抵押贷款经纪人，使他们能够访问客户财务数据，以处理抵押贷款申请。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;私有 API&lt;/strong&gt;
+私有 API ，也称为内部 API 或企业 API ，是为组织内部使用而开发的。它们促进了不同内部系统和应用程序之间的集成，提高了操作效率并实现了金融机构内部的行情数据交换。例如，一家银行可能使用私有 API 将其核心银行系统与其客户关系管理（ CRM ）软件连接起来，实现对客户数据的全面视图。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036664#reply0</guid></item><item><title>[Windows] 求推荐适用于笔记本的 win 精简版</title><link>https://www.v2ex.com/t/1036663#reply1</link><description>&lt;p&gt;笔记本已经装了 linux 主用，除非迫不得已，才会用 win 应急一下，有没有适用于笔记本的 win 精简版推荐，跟 linux 组成双系统&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:02:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036663#reply1</guid></item></channel></rss>
