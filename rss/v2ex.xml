@@ -1,297 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 29 Apr 2024 03:43:37 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 阿里云盘 webdav 上传有单文件大小限制吗？</title><link>https://www.v2ex.com/t/1036689#reply0</link><description>&lt;p&gt;如题，想用 cloudsync 将相册数据（ 260G 左右）加密上传到网盘备份，用了 Alist 开了 webdav 服务，用阿里云盘 open 的驱动成功挂载，限速 5m 跑了一晚上，成功上传了 170g ，之后就没看到云盘容量的继续变化，应该是没再上传了，早上起来看了一眼，右上角看不到 cloudsync 图标，到套件中心那里重新启动起来，这时候发现图片基本上传完了，都是在上传 mp4 后缀的视频文件，奇怪的是有些显示上传进度已经 100%的文件，在已完成的记录上找不到，云盘暂用容量也没有变化，判断应该是没有上传成功，是不是阿里云盘 webdav 上传有单文件大小的限制？导致大点的视频文件上传失败了？尝试了在 cloudsync 和阿里云盘侧找报错日志，但是只找到 cloudsync 的历史记录上有记录成功上传文件的日志，找不到其他地方可以看日志，有了解的大佬帮忙给点诊断意见，多谢！&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:40:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036689#reply0</guid></item><item><title>[分享创造] 加好友再也不用跳出去解密 base64，直接用这个插件就完事儿了</title><link>https://www.v2ex.com/t/1036687#reply0</link><description>&lt;h1&gt;加好友再也不用跳出去解密 base64 ，直接用这个插件就可以&lt;/h1&gt;
-&lt;h2&gt;简介&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在浏览&lt;a href="https://www.v2ex.com/" rel="nofollow"&gt;v2ex&lt;/a&gt;的时候，有时候会遇到 v 友留下 base64 加密的联系方式，这样每次添加好友的时候还需要解密一下，为了方便 v 友就开发了这个插件；只需要选中要解密的文本，右键点击，选择“Decode Base64”，然后把解密的文本复制到剪贴板，就可以直接添加好友了。&lt;br /&gt;
-&lt;a href="https://github.com/LonJinUp/Base64Decoder" rel="nofollow"&gt;Base64 Decoder&lt;/a&gt;是一个用于解码 Base64 编码文本的 Chrome 浏览器插件。它允许用户在浏览网页时快速解码选定的 Base64 编码文本，并将解码后的文本复制到剪贴板中。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 07 Jul 2024 03:31:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 注册了美区 apple id，然后要设置什么吗？</title><link>https://www.v2ex.com/t/1055413#reply0</link><description>1. 登录 &lt;a href="http://appleid.apple.com" rel="nofollow noopener" target="_blank"&gt;appleid.apple.com&lt;/a&gt;&lt;br /&gt;2. 地址选择美国，邮箱用的 &lt;a href="http://foxmail.com" rel="nofollow noopener" target="_blank"&gt;foxmail.com&lt;/a&gt; 邮箱（国区用的 qq 邮箱，其实是同一个邮箱），手机号和国区账号一样的。&lt;br /&gt;3. 正常注册成功。&lt;br /&gt;&lt;br /&gt;我看到教程说要地址信用卡什么，注册过程并没有，接下来需要设置什么吗？</description><pubDate>Sun, 07 Jul 2024 03:31:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055413#reply0</guid></item><item><title>[Java] 一键修改 JAR 包内文件： JarEditor 插件详细指南</title><link>https://www.v2ex.com/t/1055412#reply0</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;在开发中我们有时会遇到这样的场景，需要修改 jar 包内某个 class ，常见的方法就是先解压缩，然后反编译这个 class ，新建 java 修改再编译，最后再打包，整个过程是非常耗时的。&lt;/p&gt;
+&lt;p&gt;这里向大家介绍一款 IDEA 插件：JarEditor ，可以一键修改 JAR 包内文件，无需解压。&lt;/p&gt;
+&lt;h2&gt;插件安装&lt;/h2&gt;
+&lt;p&gt;首先在插件商城搜索 JarEditor ，可直接安装插件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="JarEditor_install.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/98a716cd72c84da9b60b8a1d6fa08870%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1926&amp;amp;h=1458&amp;amp;s=193295&amp;amp;e=png&amp;amp;b=36393c" /&gt;&lt;/p&gt;
+&lt;h2&gt;插件使用&lt;/h2&gt;
+&lt;h3&gt;1. 修改 class 文件&lt;/h3&gt;
+&lt;p&gt;安装完后，任意打开一个 jar 的 class ，可以看到反编译后的 class 内容，选中 Jar Editor 的 tab 页签，就可以直接编辑 class 了&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f0f34317a8d24ca7a07c253ee145aeba%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2440&amp;amp;h=1342&amp;amp;s=381918&amp;amp;e=png&amp;amp;b=363433" /&gt;&lt;/p&gt;
+&lt;p&gt;修改完代码后先点击 &lt;strong&gt;Save&lt;/strong&gt;，这个过程会编译 class ，编译成功后点击&lt;strong&gt;Build Jar&lt;/strong&gt;就修改 jar 完成了，是不是很简单？下面是一个修改的例子。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Jul-06-2024 15-25-13.gif" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fc3ee7c5cd844a9fa1dcb8b503fea225%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1258&amp;amp;h=690&amp;amp;s=3954615&amp;amp;e=gif&amp;amp;f=149&amp;amp;b=312f2f" /&gt;&lt;/p&gt;
+&lt;p&gt;SDK 可以选择需要的 JDK 或者其他 SDK ，Target 为编译 class 的目标版本，默认是和反编译的 class 前的版本保持一致。&lt;/p&gt;
+&lt;h4&gt;附：修改外部 jar&lt;/h4&gt;
+&lt;p&gt;选择 File-&amp;gt;Project Structure-&amp;gt;Libraries ，然后添加工程外的 jar 即可打开 jar 内文件修改&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/487efd98eb734998b57f3639547f9e0e~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1028&amp;amp;h=628&amp;amp;s=147000&amp;amp;e=png&amp;amp;b=3e4245" /&gt;
+&lt;p&gt;也可以将 jar 包粘贴到本项目中，然后右键-&amp;gt;Add as Library...&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b4023e0a1fb642c4832ffd49c858f1dd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1166&amp;amp;h=1084&amp;amp;s=326936&amp;amp;e=png&amp;amp;b=3c3f41" /&gt;
+&lt;h3&gt;2. 修改配置文件&lt;/h3&gt;
+&lt;p&gt;操作流程同修改 class 文件，不需要选择 Compile&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/548cd2f6b8fe47fea3dbbfe2ee18a971~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1544&amp;amp;h=1312&amp;amp;s=222929&amp;amp;e=png&amp;amp;b=2d2d2d" /&gt;
+&lt;h3&gt;3. JAR 包内新增文件&lt;/h3&gt;
+&lt;p&gt;在工程视图 jar 包内某个文件夹上&lt;strong&gt;右键-&amp;gt;JarEditor-&amp;gt;New&lt;/strong&gt;，可以新建 Class/Kotlin/File/Directory&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/923e65ba241b40d4aa1b2bbc208cfc29~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1590&amp;amp;h=1278&amp;amp;s=495893&amp;amp;e=png&amp;amp;b=3c3f41" /&gt;
+&lt;p&gt;选择后输入文件名即可在 jar 内新增文件，默认是空文件&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ea6e71f298a547be810ca657635822d5~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1324&amp;amp;h=540&amp;amp;s=200068&amp;amp;e=png&amp;amp;b=3f3b38" /&gt;
+&lt;p&gt;新增后打开可以写入内容，Class 和 Kotlin 新建完文件是有模版的，无需后缀名，如果是 JarEditor-&amp;gt;New-&amp;gt;File 则需要写文件后缀名。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f26f9cfacfca4e99aefa6796d6145cbd~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1778&amp;amp;h=1330&amp;amp;s=234943&amp;amp;e=png&amp;amp;b=383535" /&gt;
+&lt;h3&gt;3. 删除 JAR 包内文件&lt;/h3&gt;
+&lt;p&gt;在工程视图 jar 包内某个文件或者文件夹上&lt;strong&gt;右键-&amp;gt;JarEditor-&amp;gt;Delete&lt;/strong&gt;，则会删除选择的目录或者文件，支持多选。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e3e0aa683b474fd4ad0c55383ffe27f4~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1298&amp;amp;h=458&amp;amp;s=132422&amp;amp;e=png&amp;amp;b=423e3a" /&gt;
+&lt;h3&gt;4. 重命名文件&lt;/h3&gt;
+&lt;p&gt;在工程视图 jar 包内某个文件或者文件夹上&lt;strong&gt;右键-&amp;gt;JarEditor-&amp;gt;Rename&lt;/strong&gt;，输入名字后即可将原来的名字修改为新的名字，修改完立即生效。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f03daa2ea7d2472a92ed64212fe12583~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1470&amp;amp;h=462&amp;amp;s=150278&amp;amp;e=png&amp;amp;b=3e3a38" /&gt;
+&lt;h3&gt;5. 拷贝 JAR 包内文件到外部文件夹&lt;/h3&gt;
+&lt;p&gt;在工程视图 jar 包内某个文件或者文件夹上&lt;strong&gt;右键-&amp;gt;JarEditor-&amp;gt;Copy&lt;/strong&gt;，可以将 jar 包内文件拷贝到剪切板（支持多选）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/dffcf5ae8c724d1a929c70e98cc8e910%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2212&amp;amp;h=1126&amp;amp;s=416565&amp;amp;e=png&amp;amp;b=323030" /&gt;&lt;/p&gt;
+&lt;p&gt;然后在外部任意一个文件夹内，使用 Ctrl+V ，即可将刚才复制的文件拷贝到这个目录&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f1990eeaa97429c83c9c9d72cca155d~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=670&amp;amp;h=402&amp;amp;s=61234&amp;amp;e=png&amp;amp;b=f6f6f6" /&gt;
+&lt;h3&gt;6. 粘贴外部文件到 JAR 包内&lt;/h3&gt;
+&lt;p&gt;外部文件使用 Ctrl+C 复制后，在 jar 内某个文件夹上&lt;strong&gt;右键-&amp;gt;JarEditor-&amp;gt;Paste&lt;/strong&gt;(不能直接用 Ctrl+V ，Ctrl+V 被 IDEA 默认占用了)，即可将剪切板的文件粘贴到 jar 包内，一气呵成。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49f6dd08ecec4e12b2b61d4ccfacfc6f%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=2026&amp;amp;h=1130&amp;amp;s=1276286&amp;amp;e=png&amp;amp;b=423e3a" /&gt;&lt;/p&gt;
+&lt;h3&gt;7. JAR 包内搜索字符串&lt;/h3&gt;
+&lt;p&gt;工具栏有一个搜索图标，点击后输入需要搜索的字符串，可搜索到 jar 包内的文件，包括 class 和普通文件。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/cd275f10597246b6827b0f70d3d7f394~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1516&amp;amp;h=1158&amp;amp;s=260455&amp;amp;e=png&amp;amp;b=3b3e40" /&gt;
+&lt;p&gt;点击搜索后的文件列表，可跳转到具体的文件&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/185626a33a2e45f0a33c64c5b2455bdb~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1914&amp;amp;h=1194&amp;amp;s=374761&amp;amp;e=png&amp;amp;b=3c3f41" /&gt;
+&lt;p&gt;搜索的 class 如果是 class jar 的话取决于反编译的内容，如果是 source jar 取决于 java 文本。&lt;/p&gt;
+&lt;h3&gt;8. source jar 的支持&lt;/h3&gt;
+&lt;p&gt;IDEA 内打开的 jar 分两种，class jar 和 source jar ，如果下载了源码的话，打开的是 source jar ，即打开的是一个 java 文件，而不是 class 文件，这里一定要注意&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d53a6e4cefa74fc3b84ee3f53be2e723%7Etplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1720&amp;amp;h=1152&amp;amp;s=376731&amp;amp;e=png&amp;amp;b=323131" /&gt;&lt;/p&gt;
+&lt;p&gt;此时如果修改代码的话，生效的是 source jar ，比如这里改的是 FindInstancesOfClass-1.0.3-sources.jar 。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1c6cfe448f614ece9da19aca3529fe9b~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=692&amp;amp;h=294&amp;amp;s=56649&amp;amp;e=png&amp;amp;b=fafafa" /&gt;
+&lt;h4&gt;那如何修改 class jar 呢？&lt;/h4&gt;
+&lt;p&gt;点击 JarEditor Tools 上面的跳转链接：&lt;strong&gt;Click hear to open class jar&lt;/strong&gt; 即可跳转到 class 文件&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4323404090e045eea2ccdebd0f188217~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=764&amp;amp;h=324&amp;amp;s=29318&amp;amp;e=png&amp;amp;b=2d2d2d" /&gt;
+&lt;p&gt;此时展示的 class 为反编译的代码，可修改 class 文件，按 &lt;strong&gt;修改 class 文件&lt;/strong&gt; 的流程操作即可。&lt;/p&gt;
+&lt;p&gt;也可以从 source jar 中导入代码：&lt;strong&gt;Import from source jar&lt;/strong&gt;&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/06d999890d8a4695a75dcf217dbd9245~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1328&amp;amp;h=1168&amp;amp;s=187689&amp;amp;e=png&amp;amp;b=2d2d2d" /&gt;
+&lt;p&gt;&lt;strong&gt;Import from source jar&lt;/strong&gt; 和直接在 souce jar 中的 java 修改的区别是：前者修改的是 class jar 后者是 source jar 。&lt;/p&gt;
+&lt;h2&gt;一些机制和原理&lt;/h2&gt;
+&lt;h3&gt;SDK 的选择&lt;/h3&gt;
+&lt;p&gt;目前支持 java 和 kotlin 两种文件编译，后续可能会增加更多的编译文件支持。&lt;/p&gt;
+&lt;p&gt;选择 &lt;strong&gt;SDK Default&lt;/strong&gt; 时，是使用的 IDEA 运行时自带编译器，即 &lt;strong&gt;javax.tools.JavaCompiler&lt;/strong&gt;，详细可阅读源码。&lt;/p&gt;
+&lt;p&gt;选择其他 JDK 时，默认使用的是 javac 外部命令编译。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/335e0e64f70c4e8b9f3329ffd66e6d16~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=1048&amp;amp;h=752&amp;amp;s=73687&amp;amp;e=png&amp;amp;b=3c3f41" /&gt;
+&lt;p&gt;编译时选择的 Target 的范围是 1.1~所有 JDK 的版本最大值。&lt;/p&gt;
+&lt;h3&gt;Save （ Compile ）&lt;/h3&gt;
+&lt;p&gt;考虑到可能会修改多个文件，会将当前修改的内容(编译)保存到所在 jar 包目录的临时目录 &lt;strong&gt;jar 名_temp/jar_edit_out&lt;/strong&gt; 下，当点击 Build Jar 将增量文件写入 jar 后，会删除临时目录，也可手动清理临时目录。&lt;/p&gt;
+&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/69eed89d15ef4cdba5276a92c0e3fa10~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=338&amp;amp;h=148&amp;amp;s=10341&amp;amp;e=png&amp;amp;b=3c3f41" /&gt;
+&lt;h3&gt;编译依赖&lt;/h3&gt;
+&lt;p&gt;在编译时，依赖的 jar 为当前工程的 Libraries ，如果编译时提示依赖包找不到，可以添加依赖即可。&lt;/p&gt;
+&lt;p&gt;另外 class 文件的内容取决于反编译的结果，如果混淆的代码则不太方便修改和编译。&lt;/p&gt;
+&lt;h3&gt;SDK Default&lt;/h3&gt;
+&lt;p&gt;当选择 SDK Default 编译时，对应的 JDK 版本如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;IDEA&lt;/th&gt;
+&lt;th&gt;JDK&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;IDEA 2020.3 ~ IDEA 2022.1&lt;/td&gt;
+&lt;td&gt;JDK 11&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IDEA 2022.2 ~ IDEA 2024.1&lt;/td&gt;
+&lt;td&gt;JDK 17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;IDEA 2024.2 及更高版本&lt;/td&gt;
+&lt;td&gt;JDK 21&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;br /&gt;
+&lt;h2&gt;总结&lt;/h2&gt;
+&lt;p&gt;本文主要介绍了使用 JarEditor 直接对 jar 包文件进行增删改查操作，简化了修改 jar 的流程，感兴趣的朋友可以去试试。&lt;/p&gt;
+&lt;p&gt;本文篇幅有限，具体原理和实现细节可阅读源码&lt;/p&gt;
+&lt;p&gt;源码： &lt;a href="https://github.com/Liubsyy/JarEditor" rel="nofollow"&gt;https://github.com/Liubsyy/JarEditor&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 03:27:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055412#reply0</guid></item><item><title>[游戏] 有用 RPCS3 的兄弟吗？ MGS4 总是黑屏</title><link>https://www.v2ex.com/t/1055410#reply0</link><description>&lt;p&gt;最近想玩 MGS4 ，我是一台 m1 pro 的 mac
+按照教程安装，并且导入了游戏，打开游戏后，经过漫长的编译过程（大概 4-5 个小时），进了游戏。看到了一次 snake ，点开始，就黑屏了。重新打开，每次看到 Kojima logo 后，就黑屏了，过个 10 分钟，自动退出。&lt;/p&gt;
+&lt;p&gt;想问下有人知道解决方法吗？&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 03:24:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055410#reply0</guid></item><item><title>[分享发现] 免费的 AI 导航数据</title><link>https://www.v2ex.com/t/1055408#reply0</link><description>目前市面上有很多 AI 导航站，如果你也想搞一个的话，这份数据免费送给大家：&lt;br /&gt;&lt;a href="https://supadata.gumroad.com/l/free-ai-directory-data" rel="nofollow noopener" target="_blank"&gt;https://supadata.gumroad.com/l/free-ai-directory-data&lt;/a&gt; &lt;br /&gt;(主页还有另一份 12000+AI 导航数据)&lt;br /&gt;&lt;br /&gt;示例网站：&lt;br /&gt;&lt;a href="https://yix.ai/" rel="nofollow noopener" target="_blank"&gt;https://yix.ai/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;数据源站：&lt;br /&gt;&lt;a href="https://mangoai.co/" rel="nofollow noopener" target="_blank"&gt;https://mangoai.co/&lt;/a&gt;</description><pubDate>Sun, 07 Jul 2024 03:16:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055408#reply0</guid></item><item><title>[问与答] 求问后台大佬，自己的独立 app 想搭建个服务器，最快上手选什么技术栈</title><link>https://www.v2ex.com/t/1055407#reply3</link><description>&lt;p&gt;自己的 app 预估有几千人用，&lt;/p&gt;
+&lt;p&gt;然后想搭建一个服务器，&lt;/p&gt;
+&lt;p&gt;之前自己一直是客户端，&lt;/p&gt;
+&lt;p&gt;网上搜了一下后台的架构也是五花八门，，&lt;/p&gt;
+&lt;p&gt;所以想问问后台大佬，&lt;/p&gt;
+&lt;p&gt;如果出于自用，高速搭建的角度出发，应该选什么技术栈呢&lt;/p&gt;
+&lt;p&gt;跪谢&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 03:13:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055407#reply3</guid></item><item><title>[问与答] App Store 的 App 不支持 iOS 老版本怎么解决</title><link>https://www.v2ex.com/t/1055406#reply1</link><description>iOS 不想升级版本，所有的设备都保持在旧版状态。&lt;br /&gt;想装 2FAS ，App Store 提示需要 iOS16 版本。那么怎么才能够装支持 iOS15 版本的 2FAS 呢？</description><pubDate>Sun, 07 Jul 2024 03:11:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055406#reply1</guid></item><item><title>[Apple TV] AppleTV 侧载工具 atvloadly 更新 v0.2.1，已支持 tvOS 17+</title><link>https://www.v2ex.com/t/1055405#reply0</link><description>&lt;p&gt;一年后，终于能支持 tvOS 17+ 了😂，有需要的欢迎下载和 star 支持，还是只支持 docker 部署。&lt;/p&gt;
+&lt;p&gt;地址： &lt;a href="https://github.com/bitxeno/atvloadly" rel="nofollow"&gt;https://github.com/bitxeno/atvloadly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;截图：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://static.303101.xyz/img/2024/07/152590ff1f0fc6af922e62f35b2a2f7b.png" /&gt;&lt;/p&gt;
+&lt;p&gt;之前帖子： &lt;a href="https://v2ex.com/t/953307" rel="nofollow"&gt;https://v2ex.com/t/953307&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 03:09:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055405#reply0</guid></item><item><title>[问与答] cloudflare 发邮件提示重置密码，但是一直无法重置成功，是不是账号被封了？</title><link>https://www.v2ex.com/t/1055404#reply0</link><description>&lt;blockquote&gt;
+&lt;p&gt;你好,&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h2&gt;功能&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;解码 Base64 编码文本：插件在浏览网页时，允许用户在右键选择文本后使用上下文菜单中的 "Decode Base64" 选项来解码选定的文本。&lt;/li&gt;
-&lt;li&gt;复制解码后的文本：解码完成后，插件会自动将解码后的文本复制到剪贴板中，方便用户进行粘贴操作。&lt;/li&gt;
-&lt;li&gt;显示通知：插件会在解码完成后显示一个桌面通知，提示用户解码结果已经复制到剪贴板中。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;使用方法&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;安装插件：下载当前代码，谷歌浏览器打开&lt;code&gt;chrome://extensions/&lt;/code&gt;，然后点击&lt;code&gt;加载已解压的扩展程序&lt;/code&gt;，选择当前项目即可。&lt;/li&gt;
-&lt;li&gt;解码文本：在浏览网页时，选择 Base64 编码的文本，并右键点击选中的文本。&lt;/li&gt;
-&lt;li&gt;选择解码选项：在弹出的菜单中选择 "Decode Base64" 选项。&lt;/li&gt;
-&lt;li&gt;查看解码结果：插件会自动解码选定的文本，并将解码结果复制到剪贴板中。同时，您会收到一个桌面通知，告知您解码结果已经复制到剪贴板中。&lt;/li&gt;
-&lt;li&gt;粘贴解码结果：您现在可以粘贴解码后的文本到任何您想要的地方。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;注意事项&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;插件需要访问当前网页的内容来解码选定的文本，因此请确保您在访问的网页上启用了插件。&lt;/li&gt;
-&lt;li&gt;插件使用浏览器的通知功能来显示解码结果已复制到剪贴板中的消息，请确保您的浏览器已允许显示通知。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;结尾&lt;/h2&gt;
-&lt;p&gt;如果插件对你有帮助，请给个 star 吧！感谢支持！
-github 地址：&lt;a href="https://github.com/LonJinUp/Base64Decoder" rel="nofollow"&gt;Base64 Decoder&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:32:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036687#reply0</guid></item><item><title>[服务器] 凌晨服务器出现大量关于主机 cpu 上下文切换次数过高的告警信息，切换次数 30000/s 左右，请问如何排查是什么原因造成的，服务器的短板在哪里？</title><link>https://www.v2ex.com/t/1036685#reply0</link><description>&lt;p&gt;告警信息：Context switching is growing on the node (&amp;gt; 15000 / CPU / s)
-VALUE = 15003.080701754385&lt;/p&gt;
-&lt;p&gt;配置：16g RAM  2 核心的 CPU&lt;/p&gt;
-&lt;p&gt;pidstat -w 3 10   &amp;gt; /tmp/pidstat.out&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-bash"&gt;Linux 3.10.0-1160.108.1.el7.x86_64 (taiGUo-test) 	2024 年 04 月 29 日 	_x86_64_	(2 CPU)
-
-10 时 16 分 15 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 18 秒     0         1      0.66      0.00  systemd
-10 时 16 分 18 秒     0         6      1.99      0.00  ksoftirqd/0
-10 时 16 分 18 秒     0         9     98.34      0.00  rcu_sched
-10 时 16 分 18 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 18 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 18 秒     0        14      1.66      0.00  ksoftirqd/1
-10 时 16 分 18 秒     0       256      1.66      0.00  kworker/1:1H
-10 时 16 分 18 秒     0       261      8.64      0.00  kworker/0:1H
-10 时 16 分 18 秒     0       268     11.96      0.66  jbd2/vda1-8
-10 时 16 分 18 秒     0       588     23.92      0.00  supervisord
-10 时 16 分 18 秒     0      1193     11.30      0.00  AliYunDun
-10 时 16 分 18 秒     0      1204     30.90      0.00  AliYunDunMonito
-10 时 16 分 18 秒   997      1321     23.26      0.00  redis-server
-10 时 16 分 18 秒   996      7955      1.33      0.00  nginx
-10 时 16 分 18 秒   996      7956     15.95      0.00  nginx
-10 时 16 分 18 秒     0     11140      7.97      0.00  kworker/1:0
-10 时 16 分 18 秒     0     15700      0.33      0.00  sshd
-10 时 16 分 18 秒     0     21146      2.66      0.00  kworker/0:2
-10 时 16 分 18 秒    27     21149      1.33      0.00  mysqld
-10 时 16 分 18 秒     0     25059      1.33      0.00  sshd
-10 时 16 分 18 秒     0     25245      1.33      0.00  tail
-10 时 16 分 18 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 18 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 21 秒     0         1      1.00      0.00  systemd
-10 时 16 分 21 秒     0         6      2.33      0.00  ksoftirqd/0
-10 时 16 分 21 秒     0         9     99.33      0.00  rcu_sched
-10 时 16 分 21 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 21 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 21 秒     0        14      3.33      0.00  ksoftirqd/1
-10 时 16 分 21 秒     0       256      3.67      0.00  kworker/1:1H
-10 时 16 分 21 秒     0       261      8.33      0.00  kworker/0:1H
-10 时 16 分 21 秒     0       268     10.00      0.00  jbd2/vda1-8
-10 时 16 分 21 秒     0       588      7.33      0.00  supervisord
-10 时 16 分 21 秒     0      1127      0.33      0.00  AliYunDunUpdate
-10 时 16 分 21 秒     0      1193     11.00      0.00  AliYunDun
-10 时 16 分 21 秒     0      1204     30.00      0.00  AliYunDunMonito
-10 时 16 分 21 秒     0      1319      0.33      0.00  rsyslogd
-10 时 16 分 21 秒   997      1321     12.33      0.00  redis-server
-10 时 16 分 21 秒   996      7956      0.67      0.00  nginx
-10 时 16 分 21 秒     0     11140      8.33      0.00  kworker/1:0
-10 时 16 分 21 秒     0     15700      0.33      0.00  sshd
-10 时 16 分 21 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 21 秒     0     21146      2.00      0.00  kworker/0:2
-10 时 16 分 21 秒     0     25059      1.33      0.00  sshd
-10 时 16 分 21 秒     0     25245      1.33      0.00  tail
-10 时 16 分 21 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 21 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 24 秒     0         1      0.67      0.00  systemd
-10 时 16 分 24 秒     0         6      1.33      0.00  ksoftirqd/0
-10 时 16 分 24 秒     0         9    105.00      0.00  rcu_sched
-10 时 16 分 24 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 24 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 24 秒     0        14      1.33      0.00  ksoftirqd/1
-10 时 16 分 24 秒     0       256      1.33      0.00  kworker/1:1H
-10 时 16 分 24 秒     0       261     19.00      0.00  kworker/0:1H
-10 时 16 分 24 秒     0       268     20.33      0.33  jbd2/vda1-8
-10 时 16 分 24 秒     0       588     16.00      0.00  supervisord
-10 时 16 分 24 秒     0      1193     10.33      0.00  AliYunDun
-10 时 16 分 24 秒     0      1204     30.33      0.00  AliYunDunMonito
-10 时 16 分 24 秒   997      1321     16.33      0.00  redis-server
-10 时 16 分 24 秒   996      7955      0.33      0.00  nginx
-10 时 16 分 24 秒   996      7956      1.33      0.00  nginx
-10 时 16 分 24 秒     0     11140      9.00      0.00  kworker/1:0
-10 时 16 分 24 秒     0     21146      2.67      0.00  kworker/0:2
-10 时 16 分 24 秒    27     21149      0.67      0.00  mysqld
-10 时 16 分 24 秒     0     25059      2.67      0.00  sshd
-10 时 16 分 24 秒     0     25245      2.67      0.00  tail
-10 时 16 分 24 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 24 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 27 秒     0         1      1.00      0.00  systemd
-10 时 16 分 27 秒     0         6      3.67      0.00  ksoftirqd/0
-10 时 16 分 27 秒     0         9    113.33      0.00  rcu_sched
-10 时 16 分 27 秒     0        14      2.33      0.00  ksoftirqd/1
-10 时 16 分 27 秒     0       256      2.00      0.00  kworker/1:1H
-10 时 16 分 27 秒     0       261     15.00      0.00  kworker/0:1H
-10 时 16 分 27 秒     0       268     14.33      0.00  jbd2/vda1-8
-10 时 16 分 27 秒     0       588     19.33      0.00  supervisord
-10 时 16 分 27 秒     0      1193     11.00      0.00  AliYunDun
-10 时 16 分 27 秒     0      1204     31.33      0.00  AliYunDunMonito
-10 时 16 分 27 秒   997      1321     21.67      0.00  redis-server
-10 时 16 分 27 秒   996      7955      6.00      0.00  nginx
-10 时 16 分 27 秒   996      7956      6.67      0.00  nginx
-10 时 16 分 27 秒     0     11140     11.33      0.00  kworker/1:0
-10 时 16 分 27 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 27 秒     0     21146      8.00      0.00  kworker/0:2
-10 时 16 分 27 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 27 秒     0     25059     10.00      0.00  sshd
-10 时 16 分 27 秒     0     25245      9.67      1.33  tail
-10 时 16 分 27 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 27 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 30 秒     0         1      0.67      0.00  systemd
-10 时 16 分 30 秒     0         6      0.33      0.00  ksoftirqd/0
-10 时 16 分 30 秒     0         9    103.67      0.00  rcu_sched
-10 时 16 分 30 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 30 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 30 秒     0        14      1.33      0.00  ksoftirqd/1
-10 时 16 分 30 秒     0        20      0.33      0.00  khungtaskd
-10 时 16 分 30 秒     0       256      0.67      0.00  kworker/1:1H
-10 时 16 分 30 秒     0       261      2.33      0.00  kworker/0:1H
-10 时 16 分 30 秒     0       268      3.00      0.00  jbd2/vda1-8
-10 时 16 分 30 秒     0       588     33.00      0.00  supervisord
-10 时 16 分 30 秒     0      1127      0.33      0.00  AliYunDunUpdate
-10 时 16 分 30 秒     0      1193     11.00      0.00  AliYunDun
-10 时 16 分 30 秒     0      1204     30.67      0.00  AliYunDunMonito
-10 时 16 分 30 秒   997      1321     12.00      0.00  redis-server
-10 时 16 分 30 秒     0     11140      8.33      0.00  kworker/1:0
-10 时 16 分 30 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 30 秒     0     21146      4.33      0.00  kworker/0:2
-10 时 16 分 30 秒     0     25059      3.33      0.00  sshd
-10 时 16 分 30 秒     0     25245      1.67      1.00  tail
-10 时 16 分 30 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 30 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 33 秒     0         1      0.67      0.00  systemd
-10 时 16 分 33 秒     0         6      1.00      0.00  ksoftirqd/0
-10 时 16 分 33 秒     0         9    106.67      0.00  rcu_sched
-10 时 16 分 33 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 33 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 33 秒     0        14      0.67      0.00  ksoftirqd/1
-10 时 16 分 33 秒     0       256      0.33      0.00  kworker/1:1H
-10 时 16 分 33 秒     0       588      1.00      0.00  supervisord
-10 时 16 分 33 秒     0      1193     10.33      0.00  AliYunDun
-10 时 16 分 33 秒     0      1204     30.00      0.00  AliYunDunMonito
-10 时 16 分 33 秒   997      1321     10.33      0.00  redis-server
-10 时 16 分 33 秒   996      7956      6.00      0.00  nginx
-10 时 16 分 33 秒     0     11140      7.00      0.00  kworker/1:0
-10 时 16 分 33 秒     0     21146      2.33      0.00  kworker/0:2
-10 时 16 分 33 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 33 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 33 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 36 秒     0         1      1.00      0.00  systemd
-10 时 16 分 36 秒     0         6      5.67      0.00  ksoftirqd/0
-10 时 16 分 36 秒     0         9    118.33      0.00  rcu_sched
-10 时 16 分 36 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 36 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 36 秒     0        14      4.00      0.00  ksoftirqd/1
-10 时 16 分 36 秒     0       256      3.33      0.00  kworker/1:1H
-10 时 16 分 36 秒     0       261     19.00      0.00  kworker/0:1H
-10 时 16 分 36 秒     0       268     21.67      1.67  jbd2/vda1-8
-10 时 16 分 36 秒     0       588     18.33      0.67  supervisord
-10 时 16 分 36 秒     0      1193     11.00      0.00  AliYunDun
-10 时 16 分 36 秒     0      1204     30.33      0.00  AliYunDunMonito
-10 时 16 分 36 秒   997      1321     14.33      0.00  redis-server
-10 时 16 分 36 秒   996      7956     10.33      0.00  nginx
-10 时 16 分 36 秒     0     11140      7.67      0.00  kworker/1:0
-10 时 16 分 36 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 36 秒     0     21146     22.00      0.00  kworker/0:2
-10 时 16 分 36 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 36 秒     0     25059     13.33      0.00  sshd
-10 时 16 分 36 秒     0     25245     10.67      0.67  tail
-10 时 16 分 36 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 36 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 39 秒     0         1      0.67      0.00  systemd
-10 时 16 分 39 秒     0         6      1.33      0.00  ksoftirqd/0
-10 时 16 分 39 秒     0         9    119.67      0.00  rcu_sched
-10 时 16 分 39 秒     0        14      1.00      0.00  ksoftirqd/1
-10 时 16 分 39 秒     0       256      1.00      0.00  kworker/1:1H
-10 时 16 分 39 秒     0       261      3.33      0.00  kworker/0:1H
-10 时 16 分 39 秒     0       268      4.00      0.00  jbd2/vda1-8
-10 时 16 分 39 秒     0       588      1.00      0.00  supervisord
-10 时 16 分 39 秒     0      1127      0.33      0.00  AliYunDunUpdate
-10 时 16 分 39 秒     0      1193     11.00      0.00  AliYunDun
-10 时 16 分 39 秒     0      1204     30.00      0.00  AliYunDunMonito
-10 时 16 分 39 秒   997      1321     10.00      0.00  redis-server
-10 时 16 分 39 秒     0     11140      6.00      0.00  kworker/1:0
-10 时 16 分 39 秒     0     21146      2.00      0.00  kworker/0:2
-10 时 16 分 39 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 39 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 39 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 42 秒     0         1      1.00      0.00  systemd
-10 时 16 分 42 秒     0         6      1.67      0.00  ksoftirqd/0
-10 时 16 分 42 秒     0         9     99.00      0.00  rcu_sched
-10 时 16 分 42 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 42 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 42 秒     0        14      0.67      0.00  ksoftirqd/1
-10 时 16 分 42 秒     0       261      1.00      0.00  kworker/0:1H
-10 时 16 分 42 秒     0       268      1.33      0.00  jbd2/vda1-8
-10 时 16 分 42 秒     0       588      1.00      0.00  supervisord
-10 时 16 分 42 秒     0      1193     10.67      0.00  AliYunDun
-10 时 16 分 42 秒     0      1204     30.33      0.00  AliYunDunMonito
-10 时 16 分 42 秒   997      1321     10.67      0.00  redis-server
-10 时 16 分 42 秒     0     11140      6.00      0.00  kworker/1:0
-10 时 16 分 42 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 42 秒     0     21146      2.00      0.00  kworker/0:2
-10 时 16 分 42 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 42 秒     0     26479      0.33      0.00  pidstat
-
-10 时 16 分 42 秒   UID       PID   cswch/s nvcswch/s  Command
-10 时 16 分 45 秒     0         1      0.67      0.00  systemd
-10 时 16 分 45 秒     0         6      1.33      0.00  ksoftirqd/0
-10 时 16 分 45 秒     0         9    115.33      0.00  rcu_sched
-10 时 16 分 45 秒     0        11      0.33      0.00  watchdog/0
-10 时 16 分 45 秒     0        12      0.33      0.00  watchdog/1
-10 时 16 分 45 秒     0        14      1.67      0.00  ksoftirqd/1
-10 时 16 分 45 秒     0       256      0.67      0.00  kworker/1:1H
-10 时 16 分 45 秒     0       261      0.67      0.00  kworker/0:1H
-10 时 16 分 45 秒     0       268      1.33      0.00  jbd2/vda1-8
-10 时 16 分 45 秒     0       588      1.00      0.00  supervisord
-10 时 16 分 45 秒     0      1127      0.33      0.00  AliYunDunUpdate
-10 时 16 分 45 秒     0      1193     10.67      0.00  AliYunDun
-10 时 16 分 45 秒     0      1204     30.67      0.00  AliYunDunMonito
-10 时 16 分 45 秒   997      1321     11.67      0.00  redis-server
-10 时 16 分 45 秒     0     11140      6.00      0.00  kworker/1:0
-10 时 16 分 45 秒     0     18171      0.33      0.00  kworker/u4:2
-10 时 16 分 45 秒     0     21146      2.00      0.00  kworker/0:2
-10 时 16 分 45 秒    27     21149      0.33      0.00  mysqld
-10 时 16 分 45 秒     0     26479      0.33      0.00  pidstat
-
-平均时间:   UID       PID   cswch/s nvcswch/s  Command
-平均时间:     0         1      0.80      0.00  systemd
-平均时间:     0         6      2.07      0.00  ksoftirqd/0
-平均时间:     0         9    107.86      0.00  rcu_sched
-平均时间:     0        11      0.27      0.00  watchdog/0
-平均时间:     0        12      0.27      0.00  watchdog/1
-平均时间:     0        14      1.80      0.00  ksoftirqd/1
-平均时间:     0        20      0.03      0.00  khungtaskd
-平均时间:     0       256      1.47      0.00  kworker/1:1H
-平均时间:     0       261      7.73      0.00  kworker/0:1H
-平均时间:     0       268      8.80      0.27  jbd2/vda1-8
-平均时间:     0       588     12.20      0.07  supervisord
-平均时间:     0      1127      0.13      0.00  AliYunDunUpdate
-平均时间:     0      1193     10.83      0.00  AliYunDun
-平均时间:     0      1204     30.46      0.00  AliYunDunMonito
-平均时间:     0      1319      0.03      0.00  rsyslogd
-平均时间:   997      1321     14.26      0.00  redis-server
-平均时间:   996      7955      0.77      0.00  nginx
-平均时间:   996      7956      4.10      0.00  nginx
-平均时间:     0     11140      7.76      0.00  kworker/1:0
-平均时间:     0     15700      0.07      0.00  sshd
-平均时间:     0     18171      0.20      0.00  kworker/u4:2
-平均时间:     0     21146      5.00      0.00  kworker/0:2
-平均时间:    27     21149      0.40      0.00  mysqld
-平均时间:     0     25059      3.20      0.00  sshd
-平均时间:     0     25245      2.73      0.30  tail
-平均时间:     0     26479      0.33      0.00  pidstat
+&lt;blockquote&gt;
+&lt;p&gt;我们向您发送此通信，因为我们认为您正在重复使用访问 Cloudflare 的密码，该密码在针对互联网上另一个服务的攻击中被泄露。Cloudflare 没有向您发送此通知，因为我们失去了对您的凭据的控制。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们与监控其他互联网平台漏洞的威胁研究小组合作。当我们注意到用于访问 Cloudflare 的唯一密码也出现在其中一个漏洞中时，我们要求客户将其密码重置为 Cloudflare ，以便恶意行为者无法破坏您的帐户。
+要验证您的 Cloudflare 帐户，请按照下面的链接重置您的密码。我们还强烈建议所有客户为其帐户添加多因素身份验证保护。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我们没有关于可能丢失您密码的具体违规或互联网服务的其他信息。像“Have I Been Pwned”这样流行的在线工具可以帮助用户更好地了解他们的外部账户在哪里受到了攻击。如果您在其他系统中重复使用此密码，我们建议您也在这些系统中重置此密码。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重置密码&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;谢谢你！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cloudflare 团队&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是邮件正文，尝试重置密码提示：重置代码无效 (Code: 1005)
+以为账号被删除了，用原邮箱注册，是不能注册的
+Cloudflare 仅仅使用了域名解析服务，一个个人 page 服务
+有没有 V 友遇到这种情况的，请不吝赐教&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 03:04:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055404#reply0</guid></item><item><title>[北京] 北京的外地新生儿医保问题</title><link>https://www.v2ex.com/t/1055402#reply0</link><description>&lt;p&gt;外地新生儿需要工作居住证才能买医保，有什么保险能替代的么？或者有其他方法能上北京医保的？&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 02:46:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055402#reply0</guid></item><item><title>[iPhone] 如果 IOS18 没有 AI,还会想着去升级吗? 那如果介入了一个国产 AI, 你会以后不买 iPhone 吗?</title><link>https://www.v2ex.com/t/1055401#reply4</link><description>&lt;p&gt;感觉 iphone 的特点越来越少.&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 02:27:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055401#reply4</guid></item><item><title>[问与答] 如何实现系统不能联网，但是系统上的应用可以联网？</title><link>https://www.v2ex.com/t/1055400#reply7</link><description>针对以下系统：&lt;br /&gt;1 、Windows&lt;br /&gt;2 、Android&lt;br /&gt;3 、MacOS&lt;br /&gt;4 、iOS&lt;br /&gt;5 、各种 linux desktop&lt;br /&gt;&lt;br /&gt;如何实现系统无联网权限，但是系统上的应用（例如 docker ）有联网权限？&lt;br /&gt;&lt;br /&gt;（测试过 Windows10 系统的防火墙，只对特定应用开启联网权限，但是 windows 更新的域名即使加入其防火墙也不生效，系统仍然有联网权限...）</description><pubDate>Sun, 07 Jul 2024 02:27:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055400#reply7</guid></item><item><title>[问与答] 为什么会获取到 5,6 个 ipv6 地址</title><link>https://www.v2ex.com/t/1055399#reply3</link><description>家里移动宽带可以获取到 ipv6 地址,但是为啥每个设备都会获取到 5,6 个 ipv6 地址，这导致了一个问题我的威联通的 DDNS 不能正确识别哪个是公网 ipv6 ，它识别到了 fd48 开头的内网 ipv6 地址。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/11GeRC9.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/11GeRC9.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/nwAcRYl.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/nwAcRYl.png" /&gt;&lt;/a&gt;</description><pubDate>Sun, 07 Jul 2024 02:16:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055399#reply3</guid></item><item><title>[职场话题] 周末加班不告诉老板等于没加班？</title><link>https://www.v2ex.com/t/1055398#reply22</link><description>&lt;p&gt;平时挺无聊，比较宅，周末也不想出去玩
+大部分时间还是会做做公司的项目，但是从来没跟老板说，这样相当于没加班？&lt;/p&gt;
+&lt;p&gt;也不是说热爱工作或者热爱公司，因为觉得可以学到东西
+加上周末老板不在耳边刮躁，敲代码愉悦多了&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 02:15:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055398#reply22</guid></item><item><title>[Kubernetes] svclb pod 的 lb-tcp-443 容器启动找不到 iptables 命令</title><link>https://www.v2ex.com/t/1055397#reply0</link><description>&lt;p&gt;scclb event 概括：&lt;code&gt;Back-off restarting failed container lb-tcp-443 in pod svclb-traefik-e91c51d8-5vt7w_kube-system(2a842b27-2c1f-42d7-b24a-2504dfdde6a7)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;kubectl logs svclb-traefik-e91c51d8-5vt7w -n kube-system -c lb-tcp-443&lt;/code&gt;，输出如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;+ trap exit TERM INT
++ BIN_DIR=/sbin
++ check_iptables_mode
++ set +e
++ lsmod
++ grep nf_tables
++ '[' 1 '=' 0 ]
++ mode=legacy
++ set -e
++ info 'legacy mode detected'
++ echo '[INFO] ' 'legacy mode detected'
+[INFO]  legacy mode detected
++ set_legacy
++ ln -sf /sbin/xtables-legacy-multi /sbin/iptables
++ ln -sf /sbin/xtables-legacy-multi /sbin/iptables-save
++ ln -sf /sbin/xtables-legacy-multi /sbin/iptables-restore
++ ln -sf /sbin/xtables-legacy-multi /sbin/ip6tables
++ start_proxy
++ echo 0.0.0.0/0
++ grep -Eq :
++ iptables -t filter -I FORWARD -s 0.0.0.0/0 -p TCP --dport 443 -j ACCEPT
+/usr/bin/entry: line 46: iptables: not found
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;有大佬帮忙看看是哪个服务造成的吗，主机对 linux 一知半解，难以解决这类性能问题。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:31:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036685#reply0</guid></item><item><title>[问与答] 有没有这么一种 AI 工具，可以自动把每天看的视频、文章总结归纳成知识库</title><link>https://www.v2ex.com/t/1036684#reply2</link><description>&lt;p&gt;每天花费很多时间看 B 站视频，但是看完就忘，感觉很是空虚。&lt;/p&gt;
-&lt;p&gt;有没有一种 AI 工具，可以收集我每天的浏览记录（不限于视频），可以自动总结分类整理，形成知识库，并同步到 Notion 之类的软件里，且能关联到相关内容。&lt;/p&gt;
-&lt;p&gt;一开始可以让我手动筛选哪些内容需要整理，哪些纯娱乐内容直接舍弃，后期 AI 学习我的使用习惯可以自动筛选。&lt;/p&gt;
-&lt;p&gt;大胆预测这可能是 AI PC 和 AI phone 的新功能。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:29:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036684#reply2</guid></item><item><title>[问与答] 人无近优，必有远虑</title><link>https://www.v2ex.com/t/1036682#reply0</link><description>&lt;p&gt;程序员，面临 35 压力，又没有副业，真心难搞啊&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036682#reply0</guid></item><item><title>[职场话题] 身在二线以下城市的程序员 怎么看待外包公司工作？</title><link>https://www.v2ex.com/t/1036681#reply0</link><description>&lt;p&gt;一线城市程序员完全看不上外包公司。&lt;/p&gt;
-&lt;p&gt;但是二线之后的城市，程序员就是绝大多数做公司内部系统，是公司的运行成本，无限压缩人力。目前没有体验过外包公司工作，大佬们能否和做内部系统的工作来比较一下？&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036681#reply0</guid></item><item><title>[问与答] 试问出 mini5+iphone6s</title><link>https://www.v2ex.com/t/1036680#reply0</link><description>&lt;p&gt;音量键坏了的 64g 的 mini5 和一个外观嘎嘎新自用的 64g 的 iPhone6s 打包能出到 1000 嘛?各位佬,我是第一次卖东西,不合适的话勿 diss 。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:28:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036680#reply0</guid></item><item><title>[上海] 外地人在上海买房的时机大概是？</title><link>https://www.v2ex.com/t/1036679#reply0</link><description>通缩应该不会成功常态吧。什么时候可以零首付 50 年贷？</description><pubDate>Mon, 29 Apr 2024 03:27:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036679#reply0</guid></item><item><title>[问与答] 西昌旅游攻略 求救</title><link>https://www.v2ex.com/t/1036678#reply2</link><description>&lt;p&gt;如题 谢谢家人们&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:26:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036678#reply2</guid></item><item><title>[职场话题] AI 录音笔项目还能做吗？</title><link>https://www.v2ex.com/t/1036677#reply0</link><description>&lt;p&gt;部门的新预研的项目，看看有没有各位大佬可以提提意见建议。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:24:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036677#reply0</guid></item><item><title>[职场话题] 有没有从坐班转成远程工作的 V 友？</title><link>https://www.v2ex.com/t/1036675#reply5</link><description>&lt;p&gt;现在的工作是属于纯搬砖的活，想换个城市 remote. 有没有 V 友成功说服领导转成 remote 的？想请教下需要注意什么&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:20:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036675#reply5</guid></item><item><title>[问与答] VMWare 账号合并入 broadcom</title><link>https://www.v2ex.com/t/1036672#reply0</link><description>&lt;p&gt;收到邮件，说 VMWare 被收购了，要自动把 VMWare 账号转为 broadcom 账号。然后点了里面的链接，结果显示“您所访问的账户找回链接已过期或先前已被使用。”&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:16:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036672#reply0</guid></item><item><title>[职场话题] 谈职场晋升</title><link>https://www.v2ex.com/t/1036671#reply26</link><description>&lt;p&gt;前几天，在跟客户演示一个我们做的软件系统，出了一个比较明显的 bug ，随即我叫来负责此功能的组长，让他去查一下到底是什么原因，明天要给我一个交代。&lt;br /&gt;
-第二天下午，我见他还没来找我，我就让他再次来找我，他说了一大堆的专业术语，比如权重啊、二次排序啊，并给出技术角度解决的方案。我当即打断他，按照我的理解给出了自己的方案，没想到他居然当着其他人的面指出我的方案的漏洞，客户可能提出新的 bug 。我当场觉得非常的愤怒，觉得这个人太技术思维了，情商又低，恶狠狠的看着他，让他闭嘴，他最终屈服了。虽然我作为研发副总有做的不对的地方，但我觉得这个人做技术十几年了，一直处于类似于开发组长的职位，问题更大。&lt;/p&gt;
-&lt;p&gt;1.技术人员不能只盯着技术，也不能只从技术上解决问题 &lt;br /&gt;
-2.技术人员应该尽可能提高能力。我作为一个负责研发的高管，虽然也是从程序员升上来的，但不可能像手下平常研究的技术那么专业、深入。手下应该用上级听得懂的方式来进行表达&lt;br /&gt;
-3.在有第三者在的情况下，手下应该尽可能的听着，如果有漏洞，不要当面指出，这样很让上级没面子&lt;/p&gt;
-&lt;p&gt;如果不能很好的做到上述几点，我觉得很难晋升&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:15:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036671#reply26</guid></item><item><title>[问与答] RG-EG310XS-E 硬件配置</title><link>https://www.v2ex.com/t/1036670#reply0</link><description>锐捷睿易推出全新产品 RG-EG310XS-E ，吞吐带宽为 4Gbps ，带机量 350 台。&lt;br /&gt;问题：&lt;br /&gt;1.这是啥 cpu （四核 1.8g ）？&lt;br /&gt;2.内网能否跑满 10g ？&lt;br /&gt;3.系统界面是否好用？类似于爱快设置（ tp 企业路由器设置繁琐）</description><pubDate>Mon, 29 Apr 2024 03:13:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036670#reply0</guid></item><item><title>[问与答] 联想 y7000p 合盖后，开机通过检测是否有电源，这种方式可行吗？</title><link>https://www.v2ex.com/t/1036669#reply1</link><description>&lt;a href="https://zhuanlan.zhihu.com/p/298336766" rel="nofollow noopener" target="_blank"&gt;https://zhuanlan.zhihu.com/p/298336766&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;联想 y7000p 合盖后，显示通过显示器 来显示。关机不是问题，但是开机是个问题，不然每次需要 打开盖子，按下电源键，可行但是比较麻烦。</description><pubDate>Mon, 29 Apr 2024 03:11:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036669#reply1</guid></item><item><title>[Linux] 推荐一下自己翻译的《 Linux 内核实验》课程</title><link>https://www.v2ex.com/t/1036667#reply1</link><description>&lt;p&gt;本内容是布加勒斯特理工大学的 Linux 内核教学课程。该课程通过动手实践设备驱动编写，使学习者深入理解 Linux 内核，适合所有对 Linux 内核原理感兴趣的人阅读。&lt;/p&gt;
-&lt;p&gt;本文档主要分为两个模块，一个是“课程”，还有一个是“实验”。“课程”部分写得不甚详细，更适合有经验的教师上课时使用。而“实验”部分则是本文档最有价值的部分，写的非常的详细而且由浅入深，Linux 内核零基础的同学也可以来学习。注意“实验”模块学习之前，并不需要学习“课程”模块。&lt;/p&gt;
-&lt;p&gt;文档链接是 &lt;a href="https://linux-kernel-labs-zh.xyz/" rel="nofollow"&gt;https://linux-kernel-labs-zh.xyz/&lt;/a&gt;，仓库链接是 &lt;a href="https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn" rel="nofollow"&gt;https://github.com/linux-kernel-labs-zh/docs-linux-kernel-labs-zh-cn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;欢迎大家前来学习和提意见！&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:09:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036667#reply1</guid></item><item><title>[分享发现] DuckDuckGo 也出了个 AI Chat 免登录不挑地区</title><link>https://www.v2ex.com/t/1036666#reply0</link><description>&lt;a href="https://duckduckgo.com/?q=DuckDuckGo&amp;amp;ia=chat" rel="nofollow noopener" target="_blank"&gt;https://duckduckgo.com/?q=DuckDuckGo&amp;amp;ia=chat&lt;/a&gt;&lt;br /&gt;两个模型可选……&lt;br /&gt;&lt;a href="https://i.imgur.com/va3bksd.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/va3bksd.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 29 Apr 2024 03:09:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036666#reply0</guid></item><item><title>[Flutter] BREAKING NEWS ❗️Flutter 大概要被裁员波及到了</title><link>https://www.v2ex.com/t/1036665#reply1</link><description>&lt;p&gt;&lt;a href="https://news.ycombinator.com/item?id=40184763" rel="nofollow"&gt;Google layoffs hit Flutter team&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:06:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036665#reply1</guid></item><item><title>[投资] 金融 API 的常见类型</title><link>https://www.v2ex.com/t/1036664#reply0</link><description>&lt;p&gt;这里有一些常见的金融 API 类型：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;公共 API&lt;/strong&gt;
-公共数据接口提供对预定义的功能集和市场数据的访问，使第三方开发人员能够在现有金融数据平台之上构建应用程序和服务。例如，支付网关行情 api 使商家能够在其电子商务网站中集成支付处理功能，提升客户结账体验。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;合作伙伴 API&lt;/strong&gt;
-合作伙伴金融数据接口专为金融机构及其可信合作伙伴之间的合作设计。这些 API 使组织能够安全地共享数据和集成，允许它们在各种金融服务和产品上合作。例如，一家银行可能提供一个合作伙伴 API 给抵押贷款经纪人，使他们能够访问客户财务数据，以处理抵押贷款申请。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;私有 API&lt;/strong&gt;
-私有 API ，也称为内部 API 或企业 API ，是为组织内部使用而开发的。它们促进了不同内部系统和应用程序之间的集成，提高了操作效率并实现了金融机构内部的行情数据交换。例如，一家银行可能使用私有 API 将其核心银行系统与其客户关系管理（ CRM ）软件连接起来，实现对客户数据的全面视图。&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036664#reply0</guid></item><item><title>[Windows] 求推荐适用于笔记本的 win 精简版</title><link>https://www.v2ex.com/t/1036663#reply1</link><description>&lt;p&gt;笔记本已经装了 linux 主用，除非迫不得已，才会用 win 应急一下，有没有适用于笔记本的 win 精简版推荐，跟 linux 组成双系统&lt;/p&gt;</description><pubDate>Mon, 29 Apr 2024 03:02:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1036663#reply1</guid></item></channel></rss>
+&lt;p&gt;系统日志如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Jul 07 09:45:10 ArchVF2 k3s[505]: I0707 09:45:10.681870     505 scope.go:115] "RemoveContainer" containerID="3571d6d9336cdea67e4d6b4da173b5f519e5c1e48aa141d6cf40489eb8a6fc0e"
+Jul 07 09:45:10 ArchVF2 k3s[505]: I0707 09:45:10.682112     505 scope.go:115] "RemoveContainer" containerID="df5231ece32ced969d38c5687d3559384c6791c65a2f484e1e84863e6d15efa9"
+Jul 07 09:45:10 ArchVF2 k3s[505]: E0707 09:45:10.687671     505 pod_workers.go:1294] "Error syncing pod, skipping" err="[failed to \"StartContainer\" for \"lb-tcp-80\" with CrashLoopBackOff: \"back-off 5m0s restarting failed container=lb-tcp-80 pod=svclb-traefik-e91c51d8-5vt7w_kube-system(2a842b27-2c1f-42d7-b24a-2504dfdde6a7)\", failed to \"StartContainer\" for \"lb-tcp-443\" with CrashLoopBackOff: \"back-off 5m0s restarting failed container=lb-tcp-443 pod=svclb-traefik-e91c51d8-5vt7w_kube-system(2a842b27-2c1f-42d7-b24a-2504dfdde6a7)\"]" pod="kube-system/svclb-traefik-e91c51d8-5vt7w" podUID=2a842b27-2c1f-42d7-b24a-2504dfdde6a7
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.448587     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.448982     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.451023     505 handler.go:232] Adding GroupVersion k3s.cattle.io v1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.452731     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.454400     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.454759     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.454992     505 handler.go:232] Adding GroupVersion helm.cattle.io v1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.455554     505 handler.go:232] Adding GroupVersion helm.cattle.io v1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.455838     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:14 ArchVF2 k3s[505]: I0707 09:45:14.456597     505 handler.go:232] Adding GroupVersion traefik.containo.us v1alpha1 to ResourceManager
+Jul 07 09:45:22 ArchVF2 k3s[505]: W0707 09:45:22.768545     505 sysinfo.go:203] Nodes topology is not available, providing CPU topology
+Jul 07 09:45:22 ArchVF2 k3s[505]: W0707 09:45:22.770967     505 machine.go:65] Cannot read vendor id correctly, set empty.
+Jul 07 09:45:23 ArchVF2 k3s[505]: I0707 09:45:23.681533     505 scope.go:115] "RemoveContainer" containerID="3571d6d9336cdea67e4d6b4da173b5f519e5c1e48aa141d6cf40489eb8a6fc0e"
+Jul 07 09:45:23 ArchVF2 k3s[505]: I0707 09:45:23.681782     505 scope.go:115] "RemoveContainer" containerID="df5231ece32ced969d38c5687d3559384c6791c65a2f484e1e84863e6d15efa9"
+Jul 07 09:45:23 ArchVF2 k3s[505]: E0707 09:45:23.687267     505 pod_workers.go:1294] "Error syncing pod, skipping" err="[failed to \"StartContainer\" for \"lb-tcp-80\" with CrashLoopBackOff: \"back-off 5m0s restarting failed container=lb-tcp-80 pod=svclb-traefik-e91c51d8-5vt7w_kube-system(2a842b27-2c1f-42d7-b24a-2504dfdde6a7)\", failed to \"StartContainer\" for \"lb-tcp-443\" with CrashLoopBackOff: \"back-off 5m0s restarting failed container=lb-tcp-443 pod=svclb-traefik-e91c51d8-5vt7w_kube-system(2a842b27-2c1f-42d7-b24a-2504dfdde6a7)\"]" pod="kube-system/svclb-traefik-e91c51d8-5vt7w" podUID=2a842b27-2c1f-42d7-b24a-2504dfdde6a7
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;补充，查找资料后提示似乎是宿主机&lt;code&gt;iptables&lt;/code&gt;与&lt;code&gt;iptables-nft&lt;/code&gt;内核模块问题，&lt;code&gt;lsmod&lt;/code&gt;输出如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Module                  Size  Used by
+veth                   45056  0
+nft_log                12288  5
+nft_limit              16384  5
+xt_limit               12288  0
+xt_NFLOG               12288  0
+nfnetlink_log          28672  5
+xt_physdev             12288  10
+xt_comment             12288  172
+ip_set                 61440  0
+vxlan                 167936  0
+nft_chain_nat          12288  6
+nf_conntrack_netlink    65536  0
+xt_addrtype            12288  13
+tun                    86016  4
+overlay               217088  9
+8188eu               1658880  0
+rtl8xxxu              270336  0
+mac80211             1032192  1 rtl8xxxu
+dwmac_starfive         12288  0
+cfg80211              638976  2 mac80211,rtl8xxxu
+stmmac_platform        28672  1 dwmac_starfive
+stmmac                421888  4 dwmac_starfive,stmmac_platform
+rfkill                 40960  3 cfg80211
+vfat                   28672  1
+pcs_xpcs               24576  1 stmmac
+evdev                  32768  1
+libarc4                12288  1 mac80211
+fat                   122880  1 vfat
+phylink                69632  2 stmmac,pcs_xpcs
+ptp                    36864  1 stmmac
+wave5                 147456  0
+pps_core               24576  1 ptp
+v4l2_mem2mem           36864  1 wave5
+axp20x_pek             16384  0
+imx708                 28672  0
+goodix_ts              40960  0
+designware_i2s         36864  2
+sch_fq_codel           24576  5
+br_netfilter           40960  0
+bridge                442368  1 br_netfilter
+stp                    12288  1 bridge
+llc                    16384  2 bridge,stp
+dm_mod                212992  0
+zram                   53248  2
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 07 Jul 2024 02:13:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055397#reply0</guid></item><item><title>[酷工作] YC 孵化 AI 公司招全栈工程师（实习/远程/全职皆可）</title><link>https://www.v2ex.com/t/1055395#reply0</link><description>&lt;p&gt;Cambio ML ( &lt;a href="https://www.cambioml.com/" rel="nofollow"&gt;https://www.cambioml.com/&lt;/a&gt;) 由国内 Top1 风投等投资，创始团队来自科技公司谷歌、亚马逊云和特斯拉，以及 Stanford 和 UC Berkeley 大学。公司技术团队具有深厚的理论底蕴、全面的技术积累和丰富的创新经验。公司依托 AI 大模型技术，根据企业的业务流程使用生成式 AI 技术，帮助企业降本提率，建立自动化工具。&lt;/p&gt;
+&lt;p&gt;岗位职责
+● 根据产品交互稿构建高质量企业级应用
+● 技术栈：Typescript 和 Python 开发
+● 在产品迭代中逐步积累技术框架与组件库
+● 设计并撰写固实的单元测试与集成测试&lt;/p&gt;
+&lt;p&gt;要求
+● 0—3 年（ Junior ）或 5 年以上（ Senior ）软件开发相关工作经验
+● 熟练掌握 Typescript 和 Python 开发
+● 能高效并高质量交付产品
+● 计算机科学/工程、或相关技术领域学士学位&lt;/p&gt;
+&lt;p&gt;加分项
+● 长期维护的开源项目
+● 拥有机器学习项目经验
+● 流畅阅读英文技术文档
+● 能力突出者可适当放宽年限和学历&lt;/p&gt;
+&lt;p&gt;请直接将简历发送至： &lt;a href="mailto:hr@cambioml.com"&gt;hr@cambioml.com&lt;/a&gt;
+如有疑问，可添加微信：bingzhaopro&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 02:06:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055395#reply0</guid></item><item><title>[MacBook] Mac 监管机强制注册如何解决？</title><link>https://www.v2ex.com/t/1055393#reply3</link><description>闲鱼购入 M1 丐版 MDM 机（企业机、监管机），当时根本不知道这个概念，网上找方法用 Surge 屏蔽了几个 ip 用到现在，刚重启一下，直接跳出了一个无法关闭的强制注册界面，但我 Surge 是开启状态，多次重启可复现，哪位大佬能指点一下怎么办吗，感谢！</description><pubDate>Sun, 07 Jul 2024 01:53:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055393#reply3</guid></item><item><title>[分享发现] 全栈开发者(TS,React,Node.js, PHP )求网页制作、小程序、PC 软件制作项目</title><link>https://www.v2ex.com/t/1055390#reply4</link><description>&lt;p&gt;谢谢 V2EX 平台&lt;/p&gt;
+&lt;p&gt;经过一段时间的发展，我们已经形成了一个 24 人的程序员小社区，里面有很多优秀的程序员，我们社区的愿景就是让程序员有份自由的工作，为客户实现相对便宜且专业的技术服务。ts 云社区想做的事情就是为国内的程序员多一条赚钱的思路，同时让国外的项目能够进来，即解决国内的焦虑，也能让国外昂贵的项目在这里大大缩减开资，并且我们还能保证产品的质量，让我们一起提供优质的服务和良好的沟通，欢迎各位老板和程序员咨询加入。&lt;/p&gt;
+&lt;p&gt;+v :15618319887
+个人主页：&lt;a href="http://www.tskycloud.com" rel="nofollow"&gt;www.tskycloud.com&lt;/a&gt;
+如果你需要长期优质的合作，来联系我吧&lt;/p&gt;</description><pubDate>Sun, 07 Jul 2024 01:03:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055390#reply4</guid></item><item><title>[分享发现] 浏览器标签多，垂直标签体验最好的居然是 firefox</title><link>https://www.v2ex.com/t/1055389#reply8</link><description>&lt;p&gt;firefox：拓展未改版前，一直是 firefox 。
+Chrome：干净，但垂直标签支持最差。
+edge：用了很长时间，越来越多无用的特性。垂直标签支持不错，但并不完美。比如工作区需要新开一个新窗口，
+书签问题等等。
+yandex：也是非常喜欢的浏览器，可以代替 edge 。也有垂直标签。
+vivaldi：垂直标签非常完美，但浏览器性能有点不行。&lt;/p&gt;
+&lt;p&gt;最后体验最好的是 firefox ，下面两个拓展神器：
+Sidebery
+Firefox Multi-Account Containers&lt;/p&gt;
+&lt;p&gt;以前也不习惯垂直标签，喜欢横向标签。标签多了，效率是一个问题。慢慢习惯垂直标签，特别使用 vivaldi 后，发现体验和效率爆棚，再回不去横向标签。为了垂直标签，又切回到 firefox 。chrome 大部分拓展都有替代，少部分没有。&lt;/p&gt;</description><pubDate>Sat, 06 Jul 2024 23:50:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055389#reply8</guid></item><item><title>[程序员] 什么 SMTP 服务商比较好？</title><link>https://www.v2ex.com/t/1055387#reply16</link><description>&lt;p&gt;公司的注册邮件，一天要发 2000-3000 封。&lt;/p&gt;
+&lt;p&gt;之前用阿里云的邮件推送，有一天被发了 20% 的无效地址，被封了。&lt;/p&gt;
+&lt;p&gt;后来用 GoDaddy 的 Microsoft 365 第一天就被封。&lt;/p&gt;
+&lt;p&gt;再之后用 Google Workspace 现在经常触及发信量限制。&lt;/p&gt;
+&lt;p&gt;V 友有没有好的服务商？&lt;/p&gt;</description><pubDate>Sat, 06 Jul 2024 23:09:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055387#reply16</guid></item><item><title>[问与答] 105 的房，套内 90，是搞啥空调合适？</title><link>https://www.v2ex.com/t/1055386#reply7</link><description>考虑到当前已经跌破拿地价了，相比 21 年基本跌了近 8000 ，昨天上车了 105 的四房。&lt;br /&gt;&lt;br /&gt;因为是现房，估计一两个月就可以交楼，大家看看是中央空调还是单独装空调呢</description><pubDate>Sat, 06 Jul 2024 22:03:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1055386#reply7</guid></item></channel></rss>
