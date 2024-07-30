@@ -1,180 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 29 Jul 2024 22:53:32 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 现在黄站都可以用政府域名这么强的?</title><link>https://www.v2ex.com/t/1061042#reply1</link><description>&lt;p&gt;在群里看到有人用 &lt;a href="http://www.jd.com.dns.qztszzk.gov.cn" rel="nofollow"&gt;www.jd.com.dns.qztszzk.gov.cn&lt;/a&gt; 这个域名去传播瑟琴内容, &lt;a href="http://gov.cn" rel="nofollow"&gt;gov.cn&lt;/a&gt; 域名可以随意申请了?&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;www.jd.com.dns.qztszzk.gov.cn
-www.jd2.cn.qztszzk.gov.cn
-www.cctv5.com.qztszzk.gov.cn
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;看起来都是 *.qztszzk.gov.cn, 搭建了短链接系统, 有点东西&lt;/p&gt;
-&lt;p&gt;链接格式如下, 是否意味着站点被 take down 了?
-&lt;a href="http://www.cctv5.com.qztszzk.gov.cn/ala/XXXXXXX?aaa" rel="nofollow"&gt;http://www.cctv5.com.qztszzk.gov.cn/ala/XXXXXXX?aaa&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 22:28:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061042#reply1</guid></item><item><title>[分享发现] 应对 CC 攻击的最佳实践：使用 CDN 和自动化 IP 封禁</title><link>https://www.v2ex.com/t/1061041#reply4</link><description>&lt;p&gt;前段时间，我们的服务器遭遇了为期一个月的 CC 攻击。我们使用的是高配置的物理服务器 DELL R740 ，双 CPU Intel Xeon 6148 。然而，在攻击期间，服务器的 CPU 占用率达到了 100%，导致系统性能严重受限。&lt;/p&gt;
-&lt;h3&gt;初期防护措施&lt;/h3&gt;
-&lt;p&gt;起初，我们尝试使用宝塔防火墙进行防护。然而，由于宝塔防火墙也是依靠服务器本身进行处理，攻击流量最终仍然会到达服务器，未能有效缓解问题。即使我们启用了 Cloudflare (CF) 的五秒盾牌保护功能（ 5 秒盾牌），也未能阻止攻击。&lt;/p&gt;
-&lt;h3&gt;最终解决方案&lt;/h3&gt;
-&lt;p&gt;为了解决这个问题，我们采取了以下措施：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Cloudflare 防护&lt;/strong&gt;：启用 Cloudflare 作为 CDN ，并设置了严格的防火墙规则。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自动 IP 封禁&lt;/strong&gt;：我们编写了一个 Python 脚本，能够在服务器检测到攻击时自动将可疑 IP 加入到 Cloudflare 防火墙中进行封禁。这样，恶意流量在到达服务器之前就被阻挡，有效减少了服务器的负载。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;建议&lt;/h3&gt;
-&lt;p&gt;对于其他遭遇类似 CC 攻击的用户，我们的建议是：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;使用专业的 CDN 服务&lt;/strong&gt;：利用像 Cloudflare 这样的 CDN 服务进行前置防护，避免攻击流量直接打到服务器上。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自动化处理&lt;/strong&gt;：采用自动化脚本，在检测到异常流量时迅速响应，例如自动将恶意 IP 加入到防火墙黑名单。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;不要依赖单一的防火墙解决方案&lt;/strong&gt;：服务器上的防火墙可能无法完全应对高流量攻击，使用云端防护服务是更好的选择。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;通过这些措施，我们成功地将攻击对服务器的影响降至最低，确保了系统的稳定运行。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 20:29:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061041#reply4</guid></item><item><title>[问与答] 准备柳州自驾回杭州，请问沿途有城市推荐一去的吗</title><link>https://www.v2ex.com/t/1061040#reply1</link><description>&lt;p&gt;准备从下面两条路线选
-1.广西-湖南-江西-浙江 (长沙和南昌之前去过了, 大概不准备路过了)
-2.广西-广州-福建-浙江&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 19:34:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061040#reply1</guid></item><item><title>[VXNA] 个人博客申请收录： https://makifx.com</title><link>https://www.v2ex.com/t/1061039#reply0</link><description>&lt;p&gt;博客： &lt;a href="https://makifx.com" rel="nofollow"&gt;https://makifx.com&lt;/a&gt;
-RSS： &lt;a href="https://makifx.com/feed" rel="nofollow"&gt;https://makifx.com/feed&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 19:25:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061039#reply0</guid></item><item><title>[问与答] 多年前的一类树状组织文件的下载站，现在有无存活的？以及用的 CMS 系统是哪个呢？</title><link>https://www.v2ex.com/t/1061037#reply0</link><description>&lt;p&gt;多年前（ UI 风格来看至少 10 年前就已经存在）在简中互联网上遇到一类资源下载站，里面文件组织成树状结构。而非大部分“下载站”的以文章为轴的组织方式（即华军软件园一类）。同时也不仅仅是软件资源，还有其它类型。
-UI 上当然是 HTML5+CSS3 时代之前的东西，印象中网站 UI 有些部分有深绿色的背景。文件和文件夹图标很拟态 Windows XP 资源管理器的各种图标。
-有部分网站直接用 IP 地址访问，还有的在非 80/443 端口。
-站长常常用文件名来当公告栏用。我遇到的一般文件组织得都比较有条理。&lt;/p&gt;
-&lt;p&gt;不知道现在还有没有存活的此类资源站，以及此类网站用的 CMS 系统叫啥呢？
-现代都用 AList 或者 ZFile 来实现类似的效果了，但当时估计文件是直接存在服务器本地的。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 18:43:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061037#reply0</guid></item><item><title>[宽带症候群] 杭州移动，要到公网 IP 了。</title><link>https://www.v2ex.com/t/1061036#reply1</link><description>距离上一个贴（ &lt;a href="https://www.v2ex.com/t/918624" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/918624&lt;/a&gt; ）已经过去一年多了.....&lt;br /&gt;怎么说呢，其实并不是申请不到，给我的感觉更多的还是找对人，因为我这次从申请公网 IP 到给公网 IP 仅仅只花了半天时间....&lt;br /&gt;&lt;br /&gt;但是我有产生了以下几个问题：&lt;br /&gt;1.申请到公网以后如果我不手动重新拨号，系统会自动重播（已改桥接）吗？如果会，这个周期大概是多久，目前我已经有几天了，暂时还没更换 IP 。&lt;br /&gt;2.不知道该 IP 段(117.147.86.*,117.147.93.*)质量如何&lt;br /&gt;3.我跟我朋友公司的移动专线做过对比，跟他公司的专线比起来，好像他的质量更好一些。</description><pubDate>Mon, 29 Jul 2024 18:36:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061036#reply1</guid></item><item><title>[宽带症候群] 不知道谁把 ROS 路由器管理页面开放了公网权限</title><link>https://www.v2ex.com/t/1061035#reply0</link><description>打错内网 IP 后发现的神奇页面&lt;br /&gt;&lt;br /&gt;http://192.163.31.1/&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/OWFhOrn.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/OWFhOrn.png" /&gt;&lt;/a&gt;&lt;br /&gt;  &lt;a href="https://i.imgur.com/lU7j7A1.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lU7j7A1.png" /&gt;&lt;/a&gt;</description><pubDate>Mon, 29 Jul 2024 18:33:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061035#reply0</guid></item><item><title>[Apple] iOS 18.1 Beta</title><link>https://www.v2ex.com/t/1061034#reply15</link><description>Apple Intelligence 是不是可以确定在中国大陆国行无法使用了</description><pubDate>Mon, 29 Jul 2024 18:10:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061034#reply15</guid></item><item><title>[分享创造] [开源,免费使用]基于 gpt-4o-mini 制作了一个 SQL 方言转换器，未来的某天我可能会用上</title><link>https://www.v2ex.com/t/1061033#reply1</link><description>&lt;h3&gt;Github： &lt;a href="https://github.com/MayDay-wpf/SQL-Truck" rel="nofollow"&gt;github.com/MayDay-wpf/SQL-Truck&lt;/a&gt;&lt;/h3&gt;
-&lt;h3&gt;线上地址： &lt;a href="https://sql.aibotpro.cn/" rel="nofollow"&gt;sql.aibotpro.cn&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;我深刻了解这个功能完全可以用 ChatGPT 的提示词代替，但是做成工具还是会方便使用一点&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 30 Jul 2024 09:49:54 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] iPhone 镜像 mirroring 总是断连怎么办？</title><link>https://www.v2ex.com/t/1061271#reply0</link><description></description><pubDate>Tue, 30 Jul 2024 09:47:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061271#reply0</guid></item><item><title>[VXNA] 申请收录 https://blessingcr.com/</title><link>https://www.v2ex.com/t/1061270#reply0</link><description>&lt;p&gt;网站： &lt;a href="https://blessingcr.com/" rel="nofollow"&gt;https://blessingcr.com/&lt;/a&gt; RSS： &lt;a href="https://blessingcr.com/?feed=rss2" rel="nofollow"&gt;https://blessingcr.com/?feed=rss2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;thanks ～&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:45:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061270#reply0</guid></item><item><title>[程序员] 有其他与豆包浏览器插件体验类似的 AI 插件吗？</title><link>https://www.v2ex.com/t/1061269#reply0</link><description>&lt;p&gt;豆包浏览器插件做的真的很棒，但是豆包 AI 实在是太蠢，有体验类似的可以使用 OpenAI 接口的浏览器插件吗？&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:43:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061269#reply0</guid></item><item><title>[分享创造] 🎁[iOS 送码] 雨燕投屏-跨平台投屏工具，高效传输</title><link>https://www.v2ex.com/t/1061268#reply0</link><description>巴黎奥运会，直播怎么看？ 手机直播投电视/电脑，雨燕投屏轻松搞定。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;一、投屏&lt;br /&gt;利用雨燕投屏，可以快速将手机 / 电脑的画面，投屏到局域网内的其它电脑 / 电视等设备上。&lt;br /&gt;使用非常简单，只需在两端的设备上都安装好对应的客户端，简单配对就能使用！&lt;br /&gt;  &lt;br /&gt;可访问雨燕投屏官网，找到对应设备的安装包。&lt;a href="http://1001tvs.cn/downloads/" rel="nofollow noopener" target="_blank"&gt;1001tvs.cn/downloads/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;对于无法 / 不想安装雨燕投屏的接收端设备，也可以通过浏览器来接收投屏画面，比如 Google Chrome 、Microsoft Edge 、特斯拉车机浏览器等。&lt;br /&gt;&lt;br /&gt;二、传输&lt;br /&gt;雨燕投屏支持在手机和电脑之间快速互传文件，告别品牌、系统限制，多设备跨平台协作，支持 Win / Mac / iOS / 安卓。&lt;br /&gt;&lt;br /&gt;三、视频串流播放&lt;br /&gt;&lt;br /&gt;有时候，使用镜像投屏看电影，手机不太方便处理其它事情。此时，可以试试雨燕投屏提供的视频串流播放功能。&lt;br /&gt;&lt;br /&gt;利用这个功能，无需等待下载，即时就能把视频、音乐、照片，通过 DLNA 协议串流到电视 / 电脑上播放。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;四、更多投屏玩法&lt;br /&gt;&lt;br /&gt;通过连接电视客户端，可把手机相册中的所选照片投到大屏播放，支持自定义间隔时长和播放顺序，轻松和家人分享彼此的美好回忆。&lt;br /&gt;&lt;br /&gt;五、有线投屏，0 延迟&lt;br /&gt;雨燕投屏还支持把体育赛事、在线课程、办公会议、手游直播等内容，投送到电视 / 电脑，纵享大屏观影体验。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;请自取，希望大家多多试用[感谢]&lt;br /&gt;9NTWNMAJAPKL&lt;br /&gt;74FX9YY4JL6L&lt;br /&gt;H4AHH4R94PLR&lt;br /&gt;HN4H7X9Y7P6J&lt;br /&gt;4XKWT94A4KXA&lt;br /&gt;LRJN9WWM9TKR&lt;br /&gt;PKY4LREPJ7HF&lt;br /&gt;HAPNNHLRPRPH&lt;br /&gt;6LNLKLJET96Y&lt;br /&gt;7MRATEH7JWX4&lt;br /&gt;9WRMLHY4N6PP&lt;br /&gt;MHAMENW9T9AX&lt;br /&gt;YXK4PLXFJP6R&lt;br /&gt;HLTMK37TJFN9&lt;br /&gt;MTHXY39KWXYW&lt;br /&gt;HYRM3N6WFWR6&lt;br /&gt;YNLMYWLRLNTH&lt;br /&gt;KJ93FXRYMX67&lt;br /&gt;KNXYEPM97FKP&lt;br /&gt;39YTEHHR9KNP</description><pubDate>Tue, 30 Jul 2024 09:42:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061268#reply0</guid></item><item><title>[问与答] Elasticsearch 数据如何实时同步/迁移到 MySQL 或 MongoDB</title><link>https://www.v2ex.com/t/1061267#reply0</link><description>&lt;p&gt;请教大佬们。es 数据如何迁移至 mysql/mongodb 中？最好是实时的。
+你们用的什么方案？&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:39:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061267#reply0</guid></item><item><title>[生活] 听说政府正在起草网络个人 ID 法案（类似于身份证 ID），大家好好学英文吧</title><link>https://www.v2ex.com/t/1061266#reply1</link><description>&lt;p&gt;我已经背了一年单词，并开始用 X 来刷日常了，与大家共勉&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:37:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061266#reply1</guid></item><item><title>[求职] 北京 7 年 Java ， PHP ， vue 求职</title><link>https://www.v2ex.com/t/1061265#reply0</link><description>&lt;p&gt;找工作一段时间了，一只没有合适的机会，遇到过一面过了，没有二面的，也遇到过谈薪不合适的，也有一面不通过的。
+自己推荐一下自己吧。有合适的可以留言&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:34:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061265#reply0</guid></item><item><title>[问与答] 社保减员原因对公司没有影响吗？</title><link>https://www.v2ex.com/t/1061263#reply0</link><description>&lt;p&gt;座标广州
+了解到 A 公司我主动离职时候帮我减员写的是合同到期，可以领失业保险和失业金。
+但是 B 公司写的是个人原因，啥也领不了。&lt;/p&gt;
+&lt;p&gt;问了一下好像选什么协商一致或者员工个人原因都丝毫不影响公司？
+但对于员工来说影响特别大？&lt;/p&gt;
+&lt;p&gt;因为同事刚被开了，HR 跟他说到时候退保选协商一致就可以，我顺便了解一下帮他问问&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:31:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061263#reply0</guid></item><item><title>[上海] 假如长三角高考统一录取，上海的老破小和安置房会不会崩？</title><link>https://www.v2ex.com/t/1061262#reply2</link><description>假如长三角高考统一录取，上海的郊区房价会不会崩？我的脑洞是不是比较大，这个应该是不可能实现的。假如真的是这样，是不是有更多的人逃离上海去长三角其他城市？</description><pubDate>Tue, 30 Jul 2024 09:30:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061262#reply2</guid></item><item><title>[酷工作] [招聘信息] 长春某游戏企业 - 后端负责人</title><link>https://www.v2ex.com/t/1061260#reply1</link><description>联系邮箱： DDandSS0421@163.com&lt;br /&gt;欢迎把简历发给我呀~ 可以留个微信细聊呀&lt;br /&gt;&lt;br /&gt;[ 后端负责人] 1 人&lt;br /&gt;长春某游戏企业   &lt;br /&gt;地点：长春&lt;br /&gt;职位：后端负责人&lt;br /&gt;要求：一线城市大厂背景，薪资面议可谈，有团队管理经验，技术大拿，38 岁以内，老家东北的&lt;br /&gt;做中台 SAAS 、IM 项目后端负责人岗位。&lt;br /&gt;岗位职责：&lt;br /&gt;1 、负责项目的设计架构与业务目标，参与设计并实现高稳定高并发高可用 Web 后端 RPC 服务组件；&lt;br /&gt;2 、参与需求评审和实现设计，与其他岗位成员配合将需求完成落地；&lt;br /&gt;3 、具备结果导向思维，明确业务上线目的，保障负责模块高效、稳定的运行；&lt;br /&gt;4 、具有较强的安全意识，保护好各类线上环境的密钥、登录凭证、连接地址等敏感信息；&lt;br /&gt;5 、参与项目的实施对接，过程中自己负责的时间段内应做到及时回应、及时响应、及时处理。&lt;br /&gt;任职要求：&lt;br /&gt;1 、5 年以上后端开发经验，至少 5 年以上 Golang 公司项目开发经验；&lt;br /&gt;2 、精通 Go 语言、了解其 runtime 、协程、GC 、Channel 等内部机制，对 Linux 操作系统有较深理解；&lt;br /&gt;3 、数学或计算机相关专业出身，有较强的数据结构与算法功底，充分理解 TCP/UDP 、HTTP 等网络协议内容；&lt;br /&gt;4 、熟悉后端开发中常用架构（如微服务、服务网格等），熟练使用常用中间件于开发工具；&lt;br /&gt;5 、有 C/C++项目经验者优先；</description><pubDate>Tue, 30 Jul 2024 09:26:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061260#reply1</guid></item><item><title>[NAS] DIY NAS 该怎么选择， N100 还是 J1900？</title><link>https://www.v2ex.com/t/1061259#reply5</link><description>&lt;p&gt;最近存储空间告急了，需要 diy 一个 nas ，纠结便宜的蜗牛星际还是自己组 n100 或是 i3/i5/amd 。因为之前给公司搭过 E3 洋垃圾服务器做 AIO ，还想借机会再折腾一次。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NAS 主要用于存储拍摄的 vlog 视频，ios 图片/视频备份。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;目前是 12T SATA 加硬盘盒，每次新增就存一次，然后同步到夸克 88vip 送的 6t 中。ios 备份用一刻相册，手机容量满了时开会员备份一次。现在夸克 6t 快满了，干脆直接换了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;会这么搭：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;中/英双语&lt;/li&gt;
-&lt;li&gt;支持 6 种方言，再多我也想不到了哈哈&lt;/li&gt;
-&lt;li&gt;支持一次性输出多种&lt;/li&gt;
-&lt;li&gt;SQL 脚本输入提示&lt;/li&gt;
-&lt;li&gt;注意：不一定 100%成功，失败了可以再试一次，我测试下来，成功率也可以达到 95%以上&lt;/li&gt;
+&lt;li&gt;主系统 pve 。&lt;/li&gt;
+&lt;li&gt;一个虚拟机，TrueNAS/OMV 做 NAS 系统（绝不考虑黑群），负责 RAID 阵列管理。硬盘应该会用 2/4 块 SATA 矿盘，为了功耗不上太大的硬盘。其实很多存储需求都是冷存储，可以长期待机/拔线。&lt;/li&gt;
+&lt;li&gt;至少一个 Ubuntu 非 LXC 虚拟机，跑几个必备 docker：Immich 做照片管理，需要人脸识别。tailsclae 搭内网。&lt;/li&gt;
+&lt;li&gt;（？）看到很多人用 Jellyfin 解码看视频。我看 4k 片源，一般下载到电脑上后连电视/投影。所以下到 NAS 后同样用电脑连电视的话，是否也不需要考虑硬件 4K 解码？&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;截图&lt;/strong&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img2anywhere.maymay5.com/imgs/2024/07/a8c51f0d28d4115e.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 17:51:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061033#reply1</guid></item><item><title>[Apple] macOS 15.1 和 iOS 18.1 Beta 带来 Apple Intelligence</title><link>https://www.v2ex.com/t/1061032#reply1</link><description>Apple Intelligence 适用于 iPhone 15 Pro 和  iPhone 15 Pro Max 和 M1 或更高的 Mac 和 iPad&lt;br /&gt;&lt;br /&gt;…但是 Apple Intelligence 目前在 欧盟 和 中国 不可用…</description><pubDate>Mon, 29 Jul 2024 17:43:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061032#reply1</guid></item><item><title>[Apple] macbook 的键盘能否作为 mac mini 的键盘使用？</title><link>https://www.v2ex.com/t/1061030#reply1</link><description>&lt;p&gt;请教各位兄弟。由于老 MacBook 键盘手感非常好。突发奇想，不知道能否作为 Mac mini 的键盘使用呢？甚至，笔记本的屏幕作为 Mac mini 的副屏。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 17:01:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061030#reply1</guid></item><item><title>[分享发现] 10 分钟国内开通新加坡华侨银行 OCBC 账户</title><link>https://www.v2ex.com/t/1061029#reply3</link><description>&lt;p&gt;OCBC 开户不算理财，只能算多个篮子。&lt;/p&gt;
-&lt;p&gt;除了去香港开户，新加坡 OCBC 账户是最容易开的。&lt;/p&gt;
-&lt;p&gt;只需要有护照、身份证、手机有 NFC 功能。&lt;/p&gt;
-&lt;p&gt;证件有效期最好 180 天+，年满 18 ，现在学生也给开。&lt;/p&gt;
-&lt;h3&gt;一、注册&lt;/h3&gt;
-&lt;p&gt;应用市场下载 OCBC Digital APP 。
-&lt;img alt="OCBC digital" class="embedded_image" rel="noreferrer" src="https://applybankcard.com/wp-content/uploads/2024/07/IMG_9871.jpg" title="OCBC Digital" /&gt;
-目前，apple store ，google play ，华为市场可下。其它安卓系统可直接找 APK 安装。&lt;/p&gt;
-&lt;p&gt;安装后，改为中文，选择注册，选择“持有电子护照的外国人”。&lt;/p&gt;
-&lt;p&gt;介绍人代码：&lt;em&gt;&lt;strong&gt;5IO9FDOS&lt;/strong&gt;&lt;/em&gt; ，其中 I 和 O 都是字母。&lt;/p&gt;
-&lt;p&gt;30 天内入金 1000 新币+，有 15 新币奖励。&lt;/p&gt;
-&lt;h3&gt;二、注意事项&lt;/h3&gt;
+&lt;p&gt;主要的 NAS 参考指标就是在满足需求的情况下，&lt;strong&gt;尽量功耗小&lt;/strong&gt;。如果每月 30 以上的电费不如买云存储。所以是不是 J1900 就已经足够了？&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:22:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061259#reply5</guid></item><item><title>[生活] 这个一本去还是不去</title><link>https://www.v2ex.com/t/1061258#reply2</link><description>&lt;p&gt;坐标：江苏
+关系：外甥女
+分数：588
+背景：我一外甥女高考考了超一本线 70 分，但是这个很尴尬报 985 没戏，然后自己报了很多一本院校，最终滑了十几个档被南京林业大学的金融工程专业录取了，很尴尬啊，这个专业放现在有的跟土木一拼，而且还是什么林业类的学校，想问问大家这个学校去还是不去，如果去了感觉又坑，不去好不容易考这个分数了，你们有什么建议么？    ps：图片不知道怎么一直上传不了&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:22:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061258#reply2</guid></item><item><title>[程序员] 利用神经网络(MLP)做回归分析，输入的参数有 8 个属性以此来回归参数 Y，数据量大约 9 万条，模型的 mape 是 18%左右，还有优化空间吗？</title><link>https://www.v2ex.com/t/1061257#reply0</link><description>&lt;p&gt;1 万条训练出来的模型和 8 万条训练出来的性能差不多，个人认为这个模型能做到 18%已经是极限了。&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:20:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061257#reply0</guid></item><item><title>[分享创造] 剪映字幕功能收费后的平替版， Chillin 在线视频编辑器推出免费 AI 字幕生成</title><link>https://www.v2ex.com/t/1061256#reply0</link><description>&lt;p&gt;各位 v 友大家好！&lt;/p&gt;
+&lt;p&gt;Chillin 在线视频编辑器正式推出了全新的免费 AI 字幕功能，随着剪映字幕功能的收费，我们知道许多用户非常依赖于字幕生成功能。现在，Chillin 为大家提供了新选择，&lt;a href="https://chillin.online/zh_cn" rel="nofollow"&gt;中文官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="1" class="embedded_image" rel="noreferrer" src="https://chillin.online/res/images/ai-caption-cn-5.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;为什么选择 Chillin 的 AI 字幕功能？&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;如果是学生，职业选学生、单位写学校英文，工资选最低那档即可。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;免费&lt;/strong&gt;：Chillin 的本地 AI 字幕功能不收取任何费用，完全无限制的生成和导出 SRT 字幕。
+&lt;img alt="2" class="embedded_image" rel="noreferrer" src="https://chillin.online/res/images/ai-caption-cn-2.png" /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;职业不能是无业、公务人员，容易被拒。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;多语言支持&lt;/strong&gt;：支持 100 种以上语言。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;扫描证件时用 A4 遮挡光线，防止反光。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;无需安装&lt;/strong&gt;：Chillin 是最新的在线视频编辑器，无需安装即可体验专业的视频编辑功能。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;税务识别号为你的身份证号。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;隐私保护&lt;/strong&gt;：本地 AI 字幕功能基于运行在 WebGPU 的 Whisper 实现，不会上传任何数据。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;身份证地址和邮寄地址不一样时，要选中使用我的登记地址。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;填写地址时，把手机号放在地址里，例如 tel 13xxxx 。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;审核通过设置 digital token 后，不要删 APP ，否则重置 token 麻烦。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;创建数字令牌后，有个提示 12 小时后再使用银行服务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;强大字幕编辑功能&lt;/strong&gt;：支持字幕时间戳，样式，背景，动画设置，流畅预览。
+&lt;img alt="3" class="embedded_image" rel="noreferrer" src="https://chillin.online/res/images/ai-caption-cn-3.png" /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;一般 1-4 个工作日审核通过，有时显示 21 个工作日，是 bug 。&lt;/p&gt;
-&lt;p&gt;通过后，APP 里开通 360 账户，该账户才有 visa 实体卡。卡片会以挂号信方式邮寄。一般两周可收到。&lt;/p&gt;
-&lt;h3&gt;三、关于激活&lt;/h3&gt;
-&lt;p&gt;激活需要同名账户转账 1000 新币到 OCBC 账户。&lt;/p&gt;
-&lt;p&gt;支持国内银行转账。银行 APP 里购汇，然后跨境汇款，会有手续费损失。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;汇款信息：&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;收款人姓名，填拼音，例如 张三丰：ZHANG SANFENG&lt;/p&gt;
-&lt;p&gt;OCBC 的 SWIFT/BIC：OCBCSGSG&lt;/p&gt;
-&lt;p&gt;OCBC 的收款人地址：63 Chulia Street #10-00, OCBC Centre East, Singapore 049514
-部分银行不允许特殊符号，可以去掉井号#。&lt;/p&gt;
-&lt;p&gt;香港汇丰、英国 Wise 账户入金 OCBC ，费用为 0 。&lt;/p&gt;
-&lt;p&gt;国内汇款，工行、兴业寰宇人生卡相对便宜。&lt;/p&gt;
-&lt;p&gt;工行是 40rmb+8 新币，约 80rmb 。
-兴业 20 新币，约 100rmb 。&lt;/p&gt;
-&lt;h3&gt;四、维护成本&lt;/h3&gt;
-&lt;p&gt;OCBC 有管理费，第一年免。&lt;/p&gt;
-&lt;p&gt;第二年后管理费：&lt;/p&gt;
-&lt;p&gt;360 账户存 3000 新币免每月 2 新币管理费。&lt;/p&gt;
-&lt;p&gt;GSA 无管理费。&lt;/p&gt;
-&lt;p&gt;SSA 账户日均 2 万免每月 10 新币管理费。SSA 如果 6 个月内无余额会自动关闭，也就没有管理费了。&lt;/p&gt;
-&lt;p&gt;MSA 月存账户（需在网页版开通），500 新币免管理费。&lt;/p&gt;
-&lt;h3&gt;五、杂项问题&lt;/h3&gt;
-&lt;p&gt;OCBC 可以无损入金 IBKR 等。&lt;/p&gt;
-&lt;p&gt;可以绑定支付宝、微信进行付款，支付宝单笔 200rmb 消费，没有手续费。&lt;/p&gt;
-&lt;p&gt;OCBC 支持 10 种外币，美元、英镑、欧元、日币等，由 GSA 账户支持。&lt;/p&gt;
-&lt;p&gt;如果想直接刷美元，可以将 visa 卡改绑到 GSA 账户。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 16:51:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061029#reply3</guid></item><item><title>[生活] 为什么现在举报只能通过抖音等这种社交平台</title><link>https://www.v2ex.com/t/1061028#reply8</link><description>&lt;p&gt;最近这几年陆续刷到抖音上面各种实名举报等视频
-多数都是因为现实生活中各种渠道没有用，才不得已在网上进行实名举报，希望获得一些流量形成热点，到达举报的效果，看到这种视频总会觉得非常的可悲
-不清楚这种事情落到自己头上，该怎么处理？花钱买流量吗，哈哈&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 16:46:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061028#reply8</guid></item><item><title>[NAS] 树莓派组 NAS 用什么硬盘盒/柜？</title><link>https://www.v2ex.com/t/1061027#reply6</link><description>&lt;p&gt;原 NAS 方案是多年前组装的志强 E3 ，我嫌它功耗太高了，每个月多大几十块的电费也是很心疼的。&lt;/p&gt;
-&lt;p&gt;手头有个&lt;strong&gt;吃灰的树莓派 4B 4GB&lt;/strong&gt;，所以想加一个硬盘盒/柜改装一个 arm NAS ，比较省电。当时是 200 多块在淘宝店买的一套做大创用的。&lt;/p&gt;
-&lt;p&gt;平常使用频率较低，也就是挂一点点影视 BT 和存储冷文件（照片、视频）。&lt;/p&gt;
-&lt;p&gt;树莓派 SDcard IO 低，我有个吃灰的 nvme 固态，可以改装成固态系统盘。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;需求：稳定稳定稳定（最重要）。2 盘位或者 4 盘位。USB3.0 连接。有外置供电。&lt;/p&gt;
-&lt;p&gt;除了奥睿科（很早就听说电流不稳炸盘），各位有什么好的推荐吗？&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;后来的抄作业的朋友们，实在&lt;strong&gt;不推荐新购树莓派&lt;/strong&gt;搞这玩意儿，买 x86 比这个好。手头吃灰的朋友可以试试。&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 16:34:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061027#reply6</guid></item><item><title>[问与答] 车载旅拍风景，行车记录仪还是直接架手机？</title><link>https://www.v2ex.com/t/1061026#reply3</link><description>迫于本人喜欢游山玩水，感觉路上行程不记录太浪费了。求推荐靠谱方案（直接推荐具体产品），预算 1000 块以下。</description><pubDate>Mon, 29 Jul 2024 15:57:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061026#reply3</guid></item><item><title>[问与答] 之前有看到借助 cf worker 代理 openai 的 api ，想问下 claude 是否有类似的代理 worker 吗？</title><link>https://www.v2ex.com/t/1061025#reply0</link><description>claude 动不动就封号，太累心了，想用个 ai 真的难……</description><pubDate>Mon, 29 Jul 2024 15:50:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061025#reply0</guid></item><item><title>[Kubernetes] 本来想用 containerd 部署 k8s 来着，然后发现了点 containerd 强迫症的地方</title><link>https://www.v2ex.com/t/1061024#reply1</link><description>&lt;h2&gt;因为之前一次装 k8s 用的是 docker+cri 插件的方法，很简单，也很方便，但是当时也是稀里糊涂的按照网上搜到的教程装的，了解到 containerd 是原生支持 k8s 的不需要安装什么插件，所以我想试试 containerd 。&lt;/h2&gt;
-&lt;h2&gt;然后问题来了，因为我用的源里面实在是没有 containerd ，所以我挂代理用最新的官方源下载的，但是下载完了配置好国内加速镜像之后拉去的时候会提示，直接在配置文件里设置镜像加速这种方法将会在新的版本中废弃，现在是在配置文件中指定路径然后再路径中指定镜像源的信息。&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;    [plugins."io.containerd.grpc.v1.cri".registry]
-      config_path = "/etc/containerd/certs.d"
+&lt;p&gt;&lt;strong&gt;提示&lt;/strong&gt;：由于内存限制，免费 AI 字幕功能只提供给支持 WebGPU 的桌面浏览器使用。推荐使用 Chrome 体验&lt;/p&gt;
+&lt;p&gt;大家有任何新功能需求比如新的字幕样式，字幕动画都可以留言，也欢迎任何 bug report 。谢谢大家的支持！&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:18:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061256#reply0</guid></item><item><title>[问与答] 有哪些银行的信用卡能够自己在 APP 查询到预授权，但是未入账的交易记录。</title><link>https://www.v2ex.com/t/1061255#reply0</link><description>&lt;p&gt;当前办了一些银行的信用卡用来外币支付，到目前为止只有招商银行能够在 APP 上自助查询到那些刚刚经过预授权定时还没有入账的交易记录（记录中显示的状态就是“入账中”）。&lt;/p&gt;
+&lt;p&gt;农行之类的银行目前打电话问过，像这样的交易记录自己在 APP 里是查不到的，必须打电话才能看到。（短信会有有授权提示，但是不够集中，参杂了很多别的无效信息）&lt;/p&gt;
+&lt;p&gt;为什么大多数银行都不把这些信息的查询权开放出来呢？
+昨天中午刚办两天的信用卡，突然跳出一比 60 美元 的预授权短信，但是自己毫无印象，打电话才知道交易有个 &lt;a href="http://vxnbill.com" rel="nofollow"&gt;vxnbill.com&lt;/a&gt; 的记录。怀疑是盗刷，但是金额又不太像。就很疑惑。&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:13:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061255#reply0</guid></item><item><title>[程序员] 使用 repo status &gt; xx.txt 命令为啥会出现转义字符？</title><link>https://www.v2ex.com/t/1061254#reply3</link><description>&lt;p&gt;Ubuntu20.04 系统，repo version v2.46 ，原来使用 repo status &amp;gt; xx.txt 一直都正常，从昨天开始执行词条命令后打开多了很多转义字符如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sh"&gt;^[[1mproject RKDocs/android/                         ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject RKDocs/common/                          ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject RKTools/                                ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject art/                                    ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bionic/                                 ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bootable/recovery/                      ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bootable/recovery/mtdutils/             ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bootable/recovery/pcba_core/            ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bootable/recovery/rkupdate/             ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject bootable/recovery/rkutility/            ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject build/blueprint/                        ^[[m^[[1mbranch sky-8200-jiangsuyidong^[[m
+^[[1mproject build/make/              
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;然后&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;[root@harbor containerd]# cat certs.d/hosts.toml 
-server = "https://registry-1.docker.io"
-
-[host."https://registry-1.docker.io"]
-  capabilities = ["pull", "resolve"]
-  [host."https://registry-1.docker.io".header]
-    # Authorization = ["Basic &amp;lt;base64_encoded_auth&amp;gt;"]
-  [host."https://registry-1.docker.io".tls]
-    insecure_skip_verify = false
-  [host."https://registry-1.docker.io".mirrors]
-    endpoint = ["https://hub-mirror.c.163.com"]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;这样配置好了之后发现，直接 ctr i pull nginx 这样是不行的，得敲完整的名称例如&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;ctr image pull docker.io/library/nginx:latest
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我就感觉很不适应，明明 docker 得时候直接写镜像名称得时候默认去官网拉最新得那个
-这让人很不舒服&lt;/p&gt;
-&lt;h2&gt;然后问 ai ，ai 说配置成这样（加个[host."&lt;a href="http://docker.io" rel="nofollow"&gt;docker.io&lt;/a&gt;"]）&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;server = "https://registry-1.docker.io"
-
-[host."https://registry-1.docker.io"]
-  capabilities = ["pull", "resolve"]
-  [host."https://registry-1.docker.io".header]
-    # 如果需要认证信息，可以在这里添加
-    # Authorization = ["Basic &amp;lt;base64_encoded_auth&amp;gt;"]
-  [host."https://registry-1.docker.io".tls]
-    insecure_skip_verify = false
-  [host."https://registry-1.docker.io".mirrors]
-    endpoint = ["https://hub-mirror.c.163.com"]
-
-[host."docker.io"]
-  capabilities = ["pull", "resolve"]
-  [host."docker.io".header]
-    # 如果需要认证信息，可以在这里添加
-    # Authorization = ["Basic &amp;lt;base64_encoded_auth&amp;gt;"]
-  [host."docker.io".tls]
-    insecure_skip_verify = false
-  [host."docker.io".mirrors]
-    endpoint = ["https://hub-mirror.c.163.com"]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;就能自动把短名称补全成完整得镜像名称，这样就能直接更具名称去官网拉最新得，但是我改了之后还不行，&lt;/p&gt;
-&lt;h2&gt;然后紧接着我发现个事，就是我啥也不配置也是可以更具完整镜像名称去拉去得&lt;/h2&gt;
-&lt;p&gt;所以我现在怀疑&lt;/p&gt;
-&lt;h2&gt;是不是我这里所有得配置其实都没生效啊？！&lt;/h2&gt;
-&lt;p&gt;所以有懂得老哥么？&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 15:42:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061024#reply1</guid></item><item><title>[分享发现] 可以用交友软件的人训练 AI 吗？</title><link>https://www.v2ex.com/t/1061023#reply1</link><description>市面上很多交友软件，都能和陌生人聊天，想通过聊天训练 AI 。达到：一个最擅长闲聊的 AI （让对方喜欢），也可以让 Ai 筛选特定性格的人去聊天。</description><pubDate>Mon, 29 Jul 2024 15:38:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061023#reply1</guid></item><item><title>[Apple] Macbook pro 还是 mac studio display + mac mini</title><link>https://www.v2ex.com/t/1061022#reply4</link><description>&lt;p&gt;想换一款苹果的电脑，选中了两款：&lt;/p&gt;
+&lt;p&gt;其中^[[1m ，^[[m^[[1m 这些都是转义字符，网上查了和问了 ai 都没给搞定，求高人指点，谢谢&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:08:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061254#reply3</guid></item><item><title>[酷工作] 微软 Bing Growth team 急招算法岗位</title><link>https://www.v2ex.com/t/1061253#reply0</link><description>&lt;p&gt;微软中国 Bing Growth team 急招 Senior/Principal level 的算法岗位，工作目标是 optimize Model 来 boost Bing revenue and user growth ，恳请大家帮忙推荐，简历可以直接联系&lt;/p&gt;
+&lt;p&gt;email base64 格式 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ZmVuZ21pYW9zZW5AZ21haWwuY29t&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Since Bing Launched in June of 2009, the search world has changed for the better. Bing Growth team is responsible for growing the search business faster than ever before. We are an extremely agile team and we move very fast from ideas to experimentation, development and deployment through continuous releases throughout the year.&lt;/p&gt;
+&lt;p&gt;Now we are looking for strong data scientists (1 tech lead role) to join our fun and challenging journey. As a member in Bing Growth team, you live on the front end of our products and features used by millions of people every day. We explore and invent cutting edge methods in statistics, information retrieval, data mining, machine learning, LLM, UX framework and distributed systems to solve hard problems and optimize engagement and revenue across different entry points. You will have enormous resources at your disposal, high-performance distributed systems with vast amounts of raw and processed data from our logs/index and the tools to work with this data. You have the right environment and strong support to drive your favorite features to solution. You will have the opportunity to make huge impact towards Bing key metrics like revenue and retention, and deliver the optimal E2E experience for our users which will increase their satisfaction, engagement, and trust.&lt;/p&gt;
+&lt;p&gt;Responsibilities&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;苹果的笔记本&lt;/li&gt;
-&lt;li&gt;macmini 搭配 studio display &lt;/li&gt;
+&lt;li&gt;Leverage state-of-art machine learning techniques, brainstorm, implement, flight and ship features&lt;/li&gt;
+&lt;li&gt;Design and build efficient models to optimize user engagement and revenue across different entry points&lt;/li&gt;
+&lt;li&gt;Understand user behaviors, metrics and able to get insights of what happened from real traffic scorecard, and come up with improvement plan if needed&lt;/li&gt;
+&lt;li&gt;Partner with other teams in different countries to achieve fast collaboration and agile development&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;本人是没有移动办公的需求，目前使用的虽然是笔记本但有还是固定在出租屋的，场景就是写代码，不打游戏
-之前想过买 imac ，但目前的 imac 不是很给力，很多人都不推荐&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 15:32:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061022#reply4</guid></item><item><title>[问与答] 职场中，怎样克服紧张焦虑，让自己从容淡定？</title><link>https://www.v2ex.com/t/1061021#reply8</link><description>&lt;ul&gt;
-&lt;li&gt;下午要开会跟大领导汇报工作，想到就会心怦怦跳，汇报的时候心也是怦怦跳。    &lt;/li&gt;
-&lt;li&gt;午饭时间，突然通知下午有个紧急会议，可能要被甩锅，午饭就一点胃口都没有了，吃不下。   &lt;/li&gt;
-&lt;li&gt;工作忙起来一堆事情堆在头上、压力大的时候，也吃不下午饭。   &lt;/li&gt;
-&lt;li&gt;周末接到工作电话，看到号码后就心跳加速。 &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;典型症状如上，有没有跟我一样的 V 友？ 这是什么毛病？&lt;br /&gt;
-怎么治？有没有好书推荐？&lt;/p&gt;</description><pubDate>Mon, 29 Jul 2024 15:27:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061021#reply8</guid></item></channel></rss>
+&lt;p&gt;Qualifications&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;B.S. in Computer Science or equivalent required; MS/PhDs preferred&lt;/li&gt;
+&lt;li&gt;Expertise and practical experience in using statistical machine learning, deep learning, data mining, information retrieval/optimization, and LLM&lt;/li&gt;
+&lt;li&gt;At least 5 year of industry experiences in machine learning / Deep learning&lt;/li&gt;
+&lt;li&gt;Familiar with at least one OOP language: C#/Python/C++/Java&lt;/li&gt;
+&lt;li&gt;Great design, problem solving, and data analysis skills, with demonstrated passion for quality, performance, and engineering excellence&lt;/li&gt;
+&lt;li&gt;Motivated and able to work independently as well in a collaborative team setting to research innovative solutions to challenging technical/business problems&lt;/li&gt;
+&lt;li&gt;Good communication skills in English&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 30 Jul 2024 09:07:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061253#reply0</guid></item><item><title>[分享发现] AI 生图平台上线，大佬们给点意见！</title><link>https://www.v2ex.com/t/1061252#reply2</link><description>&lt;p&gt;&lt;a href="http://ig.xinopay.xyz/" rel="nofollow"&gt;http://ig.xinopay.xyz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;定位为 商业营销视觉 AI 生图平台，提供自己训练、制作的风格使用。
+目前是每天签到，免费使用。&lt;/p&gt;
+&lt;p&gt;匆忙上线，貌似还有很多问题，请指正！&lt;/p&gt;</description><pubDate>Tue, 30 Jul 2024 09:06:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061252#reply2</guid></item><item><title>[问与答] 怎么监控某个 exe 在本地创建和删除文件夹的记录并恢复其快速删除的文件</title><link>https://www.v2ex.com/t/1061251#reply2</link><description>现在已知这个 exe 在本地运行时会创建和删除文件夹和文件。&lt;br /&gt;怎么监控该 exe 程序创建和删除的文件路径及其他信息呢？&lt;br /&gt;并且由于该程序创建和删除的文件是在一瞬间快速删除的，该怎么获取该程序快速删除的文件呢？&lt;br /&gt;试了 process moniter 能监控，但是程序删除的文件找不到。&lt;br /&gt;也试了沙盒，但是找不到被删除的文件，是我使用方式不对吗？&lt;br /&gt;顺便问一下，有什么好用的工具能根据程序抓包的吗？&lt;br /&gt;大部分都是抓取全部的包 需要过滤</description><pubDate>Tue, 30 Jul 2024 09:03:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061251#reply2</guid></item><item><title>[酷工作] [地区：日本东京] [要求：不要求日语] [公司： IT 会社] 抢位🙋🙋‍♂️</title><link>https://www.v2ex.com/t/1061249#reply8</link><description>**岗位需求**&lt;br /&gt;&lt;br /&gt;1. **资深游戏开发工程师/主程级（棋牌电子）**&lt;br /&gt;   - 5 年以上开发经验，其中至少 2 年游戏行业从事经验&lt;br /&gt;   - 精通游戏客户端进行整体设计、架构&lt;br /&gt;   - 熟悉资源、内存、性能优化&lt;br /&gt;   - 熟悉代码加密与安全，有跨平台、跨浏览器兼容性处理经验&lt;br /&gt;   - 精通使用 CocosCreate 、Cocos2dx 、Unity 、layaerget 等主流引擎&lt;br /&gt;   - 熟练掌握原生 H5 、Android 、iOS 开发、打包、分发流程&lt;br /&gt;   - 有大型游戏开发、长期严品实施经历优先&lt;br /&gt;   - 大专及以上学历，计算机相关专业&lt;br /&gt;   - 语言需求：中文或英文&lt;br /&gt;&lt;br /&gt;2. **游戏开发工程师**&lt;br /&gt;   - 3 年以上工作经验，2 年以上游戏服务端开发经验，参与过完整的上线项目&lt;br /&gt;   - 熟悉 Linux 操作系统，了解 shell 脚本语法，熟悉 docker 部署技术原理&lt;br /&gt;   - 熟练掌握 Go 语言的标志性特性，了解 Go 的性能优势&lt;br /&gt;   - 熟悉计算机原理、操作系统、数据结构等基础知识&lt;br /&gt;   - 熟悉网络编程、TCP 、HTTP(S)、以及 Websocket 编程&lt;br /&gt;   - 熟练使用 MySql 、MongoDB 、redis 、ES 等常用数据库和组件&lt;br /&gt;   - 熟练使用 Etcd 、消息队列、mc 框架&lt;br /&gt;   - 熟悉 Actor/CSP 等高并发模型，有高性能分布式游戏服务器开发经验者优先&lt;br /&gt;   - 有微服务架构经验优先&lt;br /&gt;   - 有责任心，能把控后台的开发进度及质量&lt;br /&gt;   - 有良好的编码自测及性能调优能力，有单元测试的习惯&lt;br /&gt;   - 良好的英语读写能力，能关注行业内技术发展动态&lt;br /&gt;   - 掌握 git 等工具，具备良好的分支管理和协同开发习惯&lt;br /&gt;   - 加分项：对 starrockse 、slick 、hous 鉴有使用经验&lt;br /&gt;&lt;br /&gt;3. **游戏主美(棋牌电子)**&lt;br /&gt;   - 5 年以上游戏从业美术经验，熟悉 Unity3D 、Cocos ，曾参与过完整游戏项目开发，1 年以上主美岗位工作经验&lt;br /&gt;   - 绘画基础扎实，擅长美宣、角色设定，具备出色的审美能力&lt;br /&gt;   - 能够把控研发设计风格，有较高的美术标准&lt;br /&gt;   - 负责与策划、程序开发的工作方式有一定的了解，能够较好地与各岗位进行项目协同开发&lt;br /&gt;   - 负责美术资源利用以及质量监控&lt;br /&gt;   - 必须会中文，面试之前有测试考题&lt;br /&gt;&lt;br /&gt;4. **游戏技术美术（棋牌电子）**&lt;br /&gt;   - 5 年以上游戏从业美术经验，熟悉 Unity3D 、Cocos 及 UE4 引擎&lt;br /&gt;   - 熟悉主流美术工具如 3dMax 、Maya 、Zbrush 、Substance Painter 等&lt;br /&gt;   - 熟悉 Shader ，能制作符合美术需求的 shader ，有 shader 性能优化经验&lt;br /&gt;   - 负责项目美术效果&lt;br /&gt;   - 必须会中文，面试之前有测试考题&lt;br /&gt;&lt;br /&gt;5. **游戏原画(棋牌电子)**&lt;br /&gt;   - 5 年以上游戏从业美术经验，具备深厚的美术功底，有坚实的绘画技巧和良好的色彩感&lt;br /&gt;   - 有良好的美术基础，有优秀的手绘板绘能力，熟练掌握 Photoshop 等原画制作工具&lt;br /&gt;   - 有大型或知名游戏项目经验者优先&lt;br /&gt;   - 主动积极，有良好的沟通能力和团队合作精神，责任心强，有较强的学习能力&lt;br /&gt;   - 必须领会中文，面试之前有测试考题&lt;br /&gt;&lt;br /&gt;6. **游戏动画动效（棋牌电子）**&lt;br /&gt;   - 2 年以上游戏从业美术经验，熟练运用 U3D 、AE 、粒子等相应工具软件和编辑器，以及 3dMax 、Photoshop 等辅助工具&lt;br /&gt;   - 能够对特效动画时间进行合理掌控，并在实现效果的同时控制好模型面数，降低特效对整体效能带来的影响&lt;br /&gt;   - 有动效相关工作经验，熟练主流动画动效制作工具，能够独立完成整个制作流程&lt;br /&gt;   - 在 U3D 中实现动画效果，优化动画性能&lt;br /&gt;   - 热爱游戏行业，对界面的交互有良好的认知，熟悉其动态表现和运动原理，能够很好地把控动画节奏和效果&lt;br /&gt;   - 必须领会中文，面试之前有测试考题&lt;br /&gt;&lt;br /&gt;7. **运维开发工程师**&lt;br /&gt;   - 大学专科学历，熟悉 Linux 操作系统，了解 shell 脚本语法&lt;br /&gt;   - 主导或参与系统设计、研发、部署相关工作&lt;br /&gt;   - 研发基础组件，解决共性需求，减少重复开发与运维&lt;br /&gt;   - 熟练掌握一种或多种编程语言如 Shell 、Python 等&lt;br /&gt;   - 参与部分生产系统维护工作，解决生产系统问题及系统调优&lt;br /&gt;   - 新技术研究和应用，并推动适合的技术应用与生产&lt;br /&gt;   - 对现有系统提出优化建议，并组织实现&lt;br /&gt;   - 有开源项目经验者优先&lt;br /&gt;&lt;br /&gt;8. **安全专家**&lt;br /&gt;   - 熟悉对主流 Web 、App 安全漏洞原理、危害、利用和修复方法有较深入理解&lt;br /&gt;   - 负责公司应用安全解决方案的编写、测试和优化&lt;br /&gt;   - 熟悉 idagdb 、jeb 等主流 Android 平台调试分析工具&lt;br /&gt;   - 熟练使用 sqlmap 、burpsuite 、metasploit 等常见安全测试工具，了解原理&lt;br /&gt;   - 负责跟进研发社区安全漏洞，跟踪落实应用安全解决方案&lt;br /&gt;   - 定期对研发代码进行安全审计，熟悉代码审计流程和主流代码审计工具&lt;br /&gt;   - 熟悉一种或多种主流编程语言如 PHP 、Java 、Python 等&lt;br /&gt;   - 有 IoT 安全评估经验优先&lt;br /&gt;   - 跟踪落实应用安全解决方案，开发社区活跃有开源过安全相关代码者优先&lt;br /&gt;   - 具有良好的沟通协调能力，较强的团队合作精神，优秀的执行力&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;br /&gt;联系电话：13019498186   微信同手机号</description><pubDate>Tue, 30 Jul 2024 08:56:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1061249#reply8</guid></item></channel></rss>
