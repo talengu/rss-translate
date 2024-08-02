@@ -1,102 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 02 Aug 2024 11:59:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] [武汉] 老王说了招聘侦探特质的研发，喜欢解密的快来啊</title><link>https://www.v2ex.com/t/1062119#reply0</link><description>&lt;h1&gt;武汉锂钠氪锶科技有限公司&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://www.linakesi.com/pc_about" rel="nofollow"&gt;锂钠氪锶&lt;/a&gt;，是&lt;a href="https://manateelazycat.github.io/about.html" rel="nofollow"&gt;王勇&lt;/a&gt;2019 年创办的公司，扁平化管理，技术氛围浓厚。公司位于武汉光谷金融港，交通便利。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;如何联系&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;简历邮箱&lt;/strong&gt;： &lt;a href="mailto:hr@linakesi.com"&gt;hr@linakesi.com&lt;/a&gt;
-&lt;strong&gt;微信联系&lt;/strong&gt;：15972126112&lt;/p&gt;
-&lt;h2&gt;linux 研发招聘啦~~~&lt;/h2&gt;
-&lt;h3&gt;职位：逆向工程师&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;要求：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;写过大量&lt;strong&gt;汇编&lt;/strong&gt;指令代码， 有&lt;strong&gt;侦探&lt;/strong&gt;特质&lt;/li&gt;
-&lt;li&gt;日常用&lt;strong&gt;Linux&lt;/strong&gt;， 喜欢各种&lt;strong&gt;折腾&lt;/strong&gt;命令行工具&lt;/li&gt;
-&lt;li&gt;对&lt;strong&gt;GCC/LLVM&lt;/strong&gt;有研究者优先考虑&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;职位：数学库移植工程师：&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;要求：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;计算机通讯专业， &lt;strong&gt;数学&lt;/strong&gt;基础好&lt;/li&gt;
-&lt;li&gt;日常用&lt;strong&gt;Linux&lt;/strong&gt;，&lt;strong&gt;C 语言&lt;/strong&gt;写过几千行以上规模的程序&lt;/li&gt;
-&lt;li&gt;对&lt;strong&gt;汇编&lt;/strong&gt;有研究的优先考虑&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;职等你来，[实习生]or[应届生]小哥哥小姐姐们也可以投，附上你代码作品和有灵魂的 blog~&lt;/h2&gt;</description><pubDate>Fri, 02 Aug 2024 11:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062119#reply0</guid></item><item><title>[OpenWrt] 老式打印机如何通过 OpenWRT 共享给安卓设备使用</title><link>https://www.v2ex.com/t/1062118#reply0</link><description>&lt;p&gt;有一台佳能打印机 MF3010 ，还有一台 R4S 软路由，之前已经通过 CUPS 将打印机共享给局域网下的 Win 和 macOS 设备使用。
-但这种方法需要对应平台安装了佳能驱动。求问有啥别的办法可以把驱动装在软路由里，可以将打印机直接共享给安卓设备？&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 11:53:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062118#reply0</guid></item><item><title>[JetBrains] 我买两年的全家桶，是不是就能获得当前到一年后之间所有版本的可回退</title><link>https://www.v2ex.com/t/1062117#reply3</link><description></description><pubDate>Fri, 02 Aug 2024 11:49:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062117#reply3</guid></item><item><title>[职场话题] 7 月份被裁了，现在想转型做跨境电商，应该怎么起步呢！</title><link>https://www.v2ex.com/t/1062116#reply1</link><description>&lt;p&gt;在公司 7 年，7 月份领了大礼包，目前想全职做跨境电商，目标是东南亚，不知道是否可行。&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 11:47:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062116#reply1</guid></item><item><title>[VXNA] 申请收录 https://www.kirito.info/</title><link>https://www.v2ex.com/t/1062115#reply0</link><description>&lt;p&gt;&lt;a href="https://www.kirito.info/" rel="nofollow"&gt;https://www.kirito.info/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.kirito.info/index.xml" rel="nofollow"&gt;https://www.kirito.info/index.xml&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 11:42:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062115#reply0</guid></item><item><title>[问与答] 如何改变自身性格缺陷</title><link>https://www.v2ex.com/t/1062114#reply0</link><description>看到别人成功，自己会妒忌羡慕，看不得别人的好&lt;br /&gt;讨论看待事情，总会想到悲观的一面&lt;br /&gt;感觉自己戾气很重，满满负能量</description><pubDate>Fri, 02 Aug 2024 11:40:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062114#reply0</guid></item><item><title>[生活] jd 客服挺呆的</title><link>https://www.v2ex.com/t/1062113#reply5</link><description>&lt;p&gt;前天买了商品 A ，昨天买了商品 B ，今天都已到货。&lt;/p&gt;
-&lt;p&gt;今天买东西的时候突然发现上了一个 200-20 的活动，A 、B 加起来刚好可用。于是申请价保，但失败，心想可能是系统判定的条件比较苛刻，只要找 PLUS 客服，是可以解决的。&lt;/p&gt;
-&lt;p&gt;然而我解释清楚我的目的后，客服只是表示“对不起先生，您这个不满足条件呢”
-我直接明牌说你知道我现在重新下单+原来的东西申请退货退款就可以达到我的目的吧？客服仍然表示“先生对不起耽误您使用了”&lt;/p&gt;
-&lt;p&gt;我现在很好奇明天快递小哥把东西放在我门口后打电话给我说先生您这边有两个退货商品怎么取呢？我回复就是你刚放下的两个东西时他是什么表情了&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:57:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062113#reply5</guid></item><item><title>[问与答] T-Mobile 3$Paygo 实体卡转 eSIM 疑问</title><link>https://www.v2ex.com/t/1062112#reply1</link><description>&lt;p&gt;差点忘记我还有个 V2EX 账户，这里人多，请问大佬们，这个 3 刀卡 sim 转 esim 好像在官网没有找到直接转的入口，是不是只能打客服电话了😭弟弟英语不行，还有通过别的方式联系在线客服使用文字对话进行转 esim 吗？帖子里我找了很多没有看到教程，恳请大佬们帮助弟弟&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:51:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062112#reply1</guid></item><item><title>[macOS] macOS 迁移助理要求两台电脑系统版本一致吗？</title><link>https://www.v2ex.com/t/1062111#reply0</link><description>&lt;p&gt;通过雷电线传输&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:40:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062111#reply0</guid></item><item><title>[酷工作] [内推] 猿辅导 25 届实习岗位开放，快上车</title><link>https://www.v2ex.com/t/1062110#reply0</link><description>&lt;p&gt;#25 届内推##25 届实习内推##Java 实习##产品经理内推##JAVA 实习生##JAVA 工程师#
-金三银四的时代已经过去啦，时间就是效率，新鲜热乎的 YFD25 届实习名额开放！！！&lt;/p&gt;
-&lt;p&gt;点击右侧内推链接，查询心仪岗位，岗位有限，先到先得哦： &lt;a href="https://app.mokahr.com/su/nkejnz" rel="nofollow"&gt;https://app.mokahr.com/su/nkejnz&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;全程跟进招聘流程反馈对应状态，有问必答，随时获取内部最新招聘信息！&lt;/p&gt;
-&lt;p&gt;实习优势：&lt;/p&gt;
-&lt;p&gt;转正：极大概率可以转正&lt;/p&gt;
-&lt;p&gt;工作时长：早 10 晚 7 ，没有加班文化，拒绝 996 ，团队年轻，氛围轻松&lt;/p&gt;
-&lt;p&gt;团建经费：每人每个月 120 元&lt;/p&gt;
-&lt;p&gt;工资：接近其他公司的研发实习日薪，具体岗位可以 offershow 上自行了解～&lt;/p&gt;
-&lt;p&gt;岗位要求&lt;/p&gt;
-&lt;p&gt;1 、本科及以上在校学生，一周可实习 4 天及以上，实习时长 3 个月及以上；&lt;/p&gt;
-&lt;p&gt;2 、具备优秀的沟通表达能力，善于跨部门协作；&lt;/p&gt;
-&lt;p&gt;3 、具备良好的逻辑思维能力和数据分析能力；&lt;/p&gt;
-&lt;p&gt;4 、具备比较强的执行力，积极主动；&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:40:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062110#reply0</guid></item><item><title>[Apple] 消息称苹果向腾讯、字节施压：要求堵上规避内购佣金的“支付漏洞”，否则拒绝微信、抖音更新上架</title><link>https://www.v2ex.com/t/1062108#reply4</link><description>&lt;p&gt;&lt;a href="https://www.ithome.com/0/785/823.htm" rel="nofollow"&gt;https://www.ithome.com/0/785/823.htm&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:37:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062108#reply4</guid></item><item><title>[VPS] [出] bageVM 原生 ip 解锁 HK 香港/SG 新加坡/JP 日本东京</title><link>https://www.v2ex.com/t/1062107#reply1</link><description>&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/08/02/d19a268076503fbb5e79ff5a086e606a.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;HK 香港&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;原生解锁，测试如图&lt;/p&gt;
-&lt;p&gt;HK&lt;strong&gt;移动快乐&lt;/strong&gt;鸡，v4 直连+v6 直连&lt;/p&gt;
-&lt;p&gt;looking glass 测试 ip：&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://lg-hka.bagevm.net/" rel="nofollow"&gt;http://lg-hka.bagevm.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 核 cpu ，AMD EPYC 7663
-512m 内存，DDR4
-8g 硬盘，高速 NVMe
-1Gbps 带宽
-2T 流量/月
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 02 Aug 2024 17:58:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 如何使用 iTunes 不加密备份 iPhone</title><link>https://www.v2ex.com/t/1062161#reply0</link><description>&lt;p&gt;我在用 iTunes 不加密备份 iPhone 的时候一直提示我需要加密备份此 iPhone ，但是我需要不加密备份因为要用别的软件备份微信聊天记录。
+有大佬知道啥原因吗？和我开了高级数据保护有关系吗？应该没有吧，这不是给 iCloud 加密用的么？
+求个懂王&lt;/p&gt;
+&lt;p&gt;点击立即备份的时候会依次弹出下面两张图让我加密，真的头大
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picture.741234.xyz/picture/2024/08/7cd6012e564b1832e19db0972fa6970c.jpg" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://picture.741234.xyz/picture/2024/08/f5a9f4c197e4a1a2a7075fa3476ab4b.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 17:56:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062161#reply0</guid></item><item><title>[投资] [投资赚 1000 万] 2024 年 7 月</title><link>https://www.v2ex.com/t/1062160#reply0</link><description>忙碌的七月结束&lt;br /&gt;这个月爬了泰山、华山，去了一趟香港&lt;br /&gt;日子虽然过的挺充实&lt;br /&gt;但是投资业绩不见长&lt;br /&gt;&lt;br /&gt;与上市公司回盛生物在电话里吵了几次架&lt;br /&gt;最后艰难达成共识&lt;br /&gt;等待月中的股东大会&lt;br /&gt;&lt;br /&gt;LOF 套利机会消失&lt;br /&gt;唯有 501300 每天赚个四五块钱&lt;br /&gt;这是今年第二波 LOF 套利，前后赚了一千多块钱&lt;br /&gt;希望下半年再来两次&lt;br /&gt;&lt;br /&gt;买了点中信转债，持有几天小赚一点卖掉，等下次价格接近 111 元&lt;br /&gt;● 2025-03-03 到期&lt;br /&gt;● 到期赎回 111 元，到期前机构户 110.9 元&lt;br /&gt;● 现在价格 114.5 ，还有 7 个月到期&lt;br /&gt;● 本金亏 3.14%&lt;br /&gt;● 溢价率 4.54%&lt;br /&gt;&lt;br /&gt;然后又买了一点张行转债，希望市场给点儿羊毛&lt;br /&gt;● 2024-11-12 到期&lt;br /&gt;● 到期赎回 109 元，到期前机构户 108.9 元&lt;br /&gt;● 现在价格 108.7 ，还有 3 个月到期&lt;br /&gt;● 肯定不亏本金，免费附带期权&lt;br /&gt;● 溢价率 12.23%&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/pkJbhL0.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/pkJbhL0.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 02 Aug 2024 17:43:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062160#reply0</guid></item><item><title>[分享创造] 2024 年了，想做一个提词器 App，还值得去做吗？</title><link>https://www.v2ex.com/t/1062159#reply0</link><description>目前提词器挺泛滥了，有公司化运营的很好的，也有停更的。&lt;br /&gt;&lt;br /&gt;提词器基本都是每月 25 元左右，但是我理解这玩意很简单，我研究了市面上比较火的几款，没啥难度，完全可以快速做一个，然后把价格压的很低，比如 10 元一月。&lt;br /&gt;&lt;br /&gt;运营方面也想了一些办法，这里不展开讲了。&lt;br /&gt;&lt;br /&gt;我的问题是这玩意市场感觉不够大，也就自媒体的那群人用一用，而且市面上永远能找到免费的替代品。另外一方面是既然有提词器能活下来，说明还是有立足的空间的。想问问大家的看法，谢谢。&lt;br /&gt;&lt;br /&gt;几年前已经有人问过这个问题，感觉现在问这个是不是过时了。。。： &lt;a href="https://fast.v2ex.com/t/744390" rel="nofollow noopener" target="_blank"&gt;https://fast.v2ex.com/t/744390&lt;/a&gt;</description><pubDate>Fri, 02 Aug 2024 17:32:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062159#reply0</guid></item><item><title>[酷工作] 想找一个 llm 相关的工作</title><link>https://www.v2ex.com/t/1062157#reply0</link><description>&lt;p&gt;本人熟悉 Python 主流 web 框架，langchain 。想要找一个 llm 相关的工作，希望能 remote 。
+v:Rmxvb2RpbmdCeXRlcw==&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 16:59:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062157#reply0</guid></item><item><title>[宽带症候群] 外省借鉴上海电信模式确实可以有效杜绝被恶意刷上行</title><link>https://www.v2ex.com/t/1062156#reply1</link><description>&lt;p&gt;比如说我已经把 116.226.0.0/16 拉黑了，避免被这个网段的用户恶意刷上行，希望每个省份都能把恶意刷上行的用户都划分到一个段里，这样可以大大减少用户自主维护黑名单的精力&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 16:44:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062156#reply1</guid></item><item><title>[问与答] 网证网号服务发布后平台审核责任是否会取消</title><link>https://www.v2ex.com/t/1062155#reply5</link><description>最近注意到《国家网络身份认证公共服务管理办法（征求意见稿）》发布，我的理解是一个实名制的第三方登录，恐怖程度绝对不及健康码和反炸 app&lt;br /&gt;&lt;br /&gt;我最希望的是接入这个 app 后平台审核责任取消，因为每个发布违法内容的人都能找到&lt;br /&gt;&lt;br /&gt;个人认为总体来说是好事，不会比现在更坏&lt;br /&gt;&lt;br /&gt;下载国家网络身份认证 app ，申领需要支持 NFC 的安卓机或 iphone7+ios14.5 以上，暂时无法体验，看样子是读取身份证信息，要是不做人脸识别的话希望我捡到个身份证，哈哈哈</description><pubDate>Fri, 02 Aug 2024 16:17:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062155#reply5</guid></item><item><title>[随想] 十六七岁时形成的喜好和习惯，影响会持续一生</title><link>https://www.v2ex.com/t/1062153#reply4</link><description>&lt;p&gt;在 17 岁时听过类似的话，十几年后回头看，当年喜欢的音乐、游戏，对异性的审美，爱好，这些都几乎没变。价值观念，人生理想，对社会的看法成熟了一些，但大致还是那个方向。也许没有经历重大人生转折的人都是这样的吧&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 16:16:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062153#reply4</guid></item><item><title>[OpenWrt] 求助大佬们 OPENWRT 怎么无线组网</title><link>https://www.v2ex.com/t/1062151#reply5</link><description>&lt;p&gt;现在的情况是 1 楼有一个光猫的 WIFI 发射信号 2 楼没有网线路由器刷了 OP 使用了无线中继但是 ip 不在一个网段每次上楼都会断网 30 秒才切换新的 ip 我在想有没有什么办法支持 MESH 光猫路 由器 KVR 协议求助大佬们怎么样才能做到无缝切换不断网呀&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 16:14:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062151#reply5</guid></item><item><title>[问与答] Rust 这段代码算未定义行为吗？</title><link>https://www.v2ex.com/t/1062149#reply0</link><description>&lt;pre&gt;&lt;code class="language-rust"&gt;#[derive(Debug)]
+struct Hello {
+    _dummy: bool,
+    data: [u32; 4],
+}
+
+fn main() {
+    let mut hello: MaybeUninit&amp;lt;Hello&amp;gt; = MaybeUninit::uninit();
+
+    let ptr = hello.as_mut_ptr();
+    unsafe { addr_of_mut!((*ptr).data).write([1, 2, 3, 4]) };
+
+    let hello = unsafe { hello.assume_init() };
+    println!("{:?}", hello.data);
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;续费价格，14.94 刀/年&lt;/p&gt;
-&lt;p&gt;到期时间，25 年 4 月 09&lt;/p&gt;
-&lt;p&gt;明盘 180 ，包 push&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/08/02/7b89dc6bf3c6a35731afe77f5962a4a9.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SG 新加坡&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;原生解锁，测试如图&lt;/p&gt;
-&lt;p&gt;SG&lt;strong&gt;移动 v6 快乐&lt;/strong&gt;鸡，v6 直连&lt;/p&gt;
-&lt;p&gt;looking glass 测试 ip：&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://lg-sga.bagevm.net/" rel="nofollow"&gt;http://lg-sga.bagevm.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 核 cpu ，AMD Ryzen 7950X 
-512m 内存，DDR5
-8g 硬盘，高速 NVMe
-2Gbps 带宽
-2T 流量/月
+&lt;p&gt;这个 &lt;code&gt;_dummy&lt;/code&gt; 未初始化，按文档说调用 &lt;code&gt;assume_init&lt;/code&gt; 前未完全初始化立刻造成未定义行为。&lt;/p&gt;
+&lt;p&gt;但是对于完全不使用的字段，算不算未定义行为？以及这样做会不会对程序造成潜在 BUG 或安全漏洞？&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 15:45:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062149#reply0</guid></item><item><title>[骑行] 坛子里骑友多不多，请问怎么有效保护膝盖？</title><link>https://www.v2ex.com/t/1062148#reply4</link><description>每周跑一两次五公里，每日骑行二三十公里的样子，膝盖有点疼…不知道是不是姿势有问题。&lt;br /&gt;问问大家有没有相关经验</description><pubDate>Fri, 02 Aug 2024 15:40:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062148#reply4</guid></item><item><title>[分享发现] outlook+spark 丢邮件（准确来说是邮件消失）的一次分享</title><link>https://www.v2ex.com/t/1062147#reply1</link><description>&lt;h2&gt;起因&lt;/h2&gt;
+&lt;p&gt;在 Spark 中将“通知”， “动向”标记为已完成，然后又恢复为未完成，也许反复操作了这个。&lt;/p&gt;
+&lt;h2&gt;导致&lt;/h2&gt;
+&lt;p&gt;这些邮件莫名其妙的消失了（即使在 Spark 中打开显示“已完成”邮件的开关）。
+在 outlook 网页版中回收站、archive 中均消失，使用搜索功能搜索被删除邮件的关键字也搜索不到。&lt;/p&gt;
+&lt;h2&gt;解决&lt;/h2&gt;
+&lt;p&gt;使用微软商店里的 Email Recovery 插件把邮件恢复到一个新的文件夹里了。&lt;/p&gt;
+&lt;h2&gt;吐槽&lt;/h2&gt;
+&lt;p&gt;正找工作呢，我艹，以后不敢用了，谁知道这是什么情况？毕竟从来没按过删除键。&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 15:25:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062147#reply1</guid></item><item><title>[问与答] 上个月你们用多少电费</title><link>https://www.v2ex.com/t/1062146#reply6</link><description>居然用了 500 多感觉计费有问题.</description><pubDate>Fri, 02 Aug 2024 15:10:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062146#reply6</guid></item><item><title>[问与答] 大佬们，有台 CentOS7 崩了，怎么查原因？</title><link>https://www.v2ex.com/t/1062145#reply5</link><description>&lt;p&gt;求助&lt;/p&gt;
+&lt;p&gt;centos7 的系统，内核是 kernel-lt-4.4.249-1.el7.elrepo.x86_64.rpm&lt;/p&gt;
+&lt;p&gt;现在抓到了 vmcore&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;total 3.4G
+-rw------- 1 root root 3.4G Aug  1 23:52 vmcore
+-rw-r--r-- 1 root root    0 Aug  1 23:52 vmcore-dmesg-incomplete.txt
+
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;续费价格，18.99 刀/年&lt;/p&gt;
-&lt;p&gt;到期时间，25 年 5 月 06&lt;/p&gt;
-&lt;p&gt;明盘 180 ，包 push&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/08/02/c2f453e01f71571a19da14e5225fee45.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;JP 日本东京&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;原生解锁，测试如图&lt;/p&gt;
-&lt;p&gt;looking glass 测试 ip：&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://lg-jpa.bagevm.net/" rel="nofollow"&gt;http://lg-jpa.bagevm.net/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1 核 cpu ，AMD Ryzen 7950X 
-768m 内存，DDR5
-8g 硬盘，高速 NVMe
-1Gbps 带宽
-1200 GB 流量/月
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;续费价格，18.99 刀/年&lt;/p&gt;
-&lt;p&gt;到期时间，25 年 5 月 06&lt;/p&gt;
-&lt;p&gt;明盘 180 ，包 push&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;联系，TG 与 WX 同号：brunuhville&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:36:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062107#reply1</guid></item><item><title>[程序员] Pornhub Logo:) - pornhub 风格 logo 制作</title><link>https://www.v2ex.com/t/1062106#reply3</link><description>&lt;p&gt;学了 2 天代码，通过 GPT ，把大佬的代码部署上去了。。。&lt;/p&gt;
-&lt;p&gt;Fork 大佬的，下一步准备套壳 AI ，你们有建议下一步，应该学习撸哪个 git ？&lt;/p&gt;
-&lt;p&gt;不能太复杂了，刚刚学会点 git 命令...&lt;/p&gt;
-&lt;p&gt;建议了的都先 谢谢！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2Xv8oXX.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;[&lt;a href="http://Porn-Logo.com" rel="nofollow"&gt;Porn-Logo.com&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;( &lt;a href="https://porn-logo.com" rel="nofollow"&gt;https://porn-logo.com&lt;/a&gt;) is your go-to for creating custom logos. Design &amp;amp; make your own Pornhub-inspired logo in minutes.&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:35:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062106#reply3</guid></item><item><title>[问与答] 你感觉 V 站的垃圾贴有没有增多？</title><link>https://www.v2ex.com/t/1062105#reply5</link><description>个人感觉：知乎味、贴吧味越来越重&lt;br /&gt;&lt;br /&gt;从邀请制实行以来，发现各种奇怪的帖子越来越多了，感觉大家都在想办法挣币。&lt;br /&gt;&lt;br /&gt;哈哈哈，别喷我。我先声明，我这个帖子也摆脱不了嫌疑。</description><pubDate>Fri, 02 Aug 2024 10:31:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062105#reply5</guid></item><item><title>[奇思妙想] 怎么好像没有实现 Mac 侧拉窗口的 app？</title><link>https://www.v2ex.com/t/1062104#reply0</link><description>&lt;p&gt;iPad OS 有把 app 缩成手机的比例，然后收缩到屏幕侧边，需要的时候再从侧边往内滑调出窗口的功能，感觉很实用。Mac 下为啥没有实现这类功能的软件？以前 windows 的 QQ 也可以把窗口贴靠到屏幕侧边，自动隐藏的功能，感觉十分实用&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:28:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062104#reply0</guid></item><item><title>[分享创造] LivePortrait AI 静止的照片变成生动的动画</title><link>https://www.v2ex.com/t/1062103#reply0</link><description>&lt;p&gt;我做了一个 LivePortrait AI ，可以把静止的照片变成生动的动画。只需上传照片和动画视频，点击“生成”按钮，您的照片将显示自然流畅的面部表情和动作。&lt;/p&gt;
-&lt;p&gt;希望看到大家宝贵的意见。&lt;/p&gt;
-&lt;p&gt;欢迎试用: &lt;a href="https://liveportraitai.com" rel="nofollow"&gt;https://liveportraitai.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:22:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062103#reply0</guid></item><item><title>[问与答] 发现小学入学开始测试同理心来分班了</title><link>https://www.v2ex.com/t/1062102#reply13</link><description>&lt;p&gt;朋友说他们小孩上小学入学分班前要通过一些测试，看一些影片回答感受，侧面分析小孩天生同理心，然后分班的时候把有同理心的人分到一个班级，后来发现同理心的班级没有出现校园霸凌的现象，而且很听话，后来被一些家长知道了，就抗议说为什么吧他家孩子分到缺少同理心班级...
-这种分班制算不算合理？&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 10:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062102#reply13</guid></item><item><title>[问与答] 用 cloudflare workers 搭建 vless 服务后，可以 Ping 通，但就是没办法连外网。</title><link>https://www.v2ex.com/t/1062101#reply1</link><description>cloudflare workers 的 vless 代码复制的是 github 上 3Kmfi6HP 用户的代码，代码地址是： &lt;a href="https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js" rel="nofollow noopener" target="_blank"&gt;https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;根据 youtube 上的的教程，一步一步走，把上面的代码复制到 workers 以后，修改 uuid,然后部署。部署成功，节点信息粘贴到 v2rayn 以后，一切都很正常，ip 可以 Ping 通，但是就是无法连接外网。&lt;br /&gt;&lt;br /&gt;也找不到报错信息，不知道有没有大佬搭建遇到过类似问题，请问该怎么解决呢？&lt;br /&gt;&lt;br /&gt;p.s cf 的 workers 默认域名已经被墙，所以我已经绑定了我自己的自定义域名，但是依然只是可以 Ping 通，无法连接外网。</description><pubDate>Fri, 02 Aug 2024 10:15:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062101#reply1</guid></item><item><title>[Windows] 请问 win11 的任务栏自动隐藏，如何在 app 有程序通知时也自动隐藏？</title><link>https://www.v2ex.com/t/1062100#reply0</link><description>抱歉描述的可能有点混乱，就是比如我开着微信，收到了一个新消息通知，这个微信的在任务栏图标就会常亮变成橙色？这个时候任务栏的自动隐藏就会失效（ win11 设计如此我知道）。我想在这种情况下也不弹出任务栏 有办法可以做到吗。谢谢</description><pubDate>Fri, 02 Aug 2024 10:13:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062100#reply0</guid></item><item><title>[程序员] 应用程序漏洞扫描的原理是什么？</title><link>https://www.v2ex.com/t/1062099#reply6</link><description>我开发的一个 springboot 的 web 应用程序，通过 pom 文件引入了一些外部的 jar ，但是被客户方扫描出来有一些 jar 包有漏洞。&lt;br /&gt;比如这个 jar 包（ fastjson-2.0.14.jar ）有漏洞，而我刚好用到了这个 jar 包。&lt;a href="https://mvnrepository.com/artifact/com.alibaba/fastjson/2.0.14" rel="nofollow noopener" target="_blank"&gt;https://mvnrepository.com/artifact/com.alibaba/fastjson/2.0.14&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;就需要更新这个 jar 包，然后给客户方更新，但是引入了这么多的 jar 包，三天两头更新也不是个办法。&lt;br /&gt;&lt;br /&gt;我想知道漏洞扫描的原理，他是如何知道我用了这个版本的 jar 包？&lt;br /&gt;&lt;br /&gt;如果他只是扫描这个包的版本号，然后和漏洞库的版本号进行比对，我是否可以通过修改引入的 jar 包名称和隐藏版本号信息，就可以避免被扫描出来漏洞。</description><pubDate>Fri, 02 Aug 2024 10:11:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062099#reply6</guid></item></channel></rss>
+&lt;p&gt;经过网上冲浪，说需要安装对应版本的 &lt;code&gt;kernel-debuginfo&lt;/code&gt;，找不到这个，咋办呢&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:54:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062145#reply5</guid></item><item><title>[问与答] 如果给你一台香港服务器✅你会用来干什么呢🤔️？</title><link>https://www.v2ex.com/t/1062144#reply5</link><description></description><pubDate>Fri, 02 Aug 2024 14:54:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062144#reply5</guid></item><item><title>[iPad] iPad Pro 在广州珠江新城直营店能否直接沟通付费换新？</title><link>https://www.v2ex.com/t/1062143#reply4</link><description>&lt;p&gt;不太想恶意损坏,所以都买了三年 AC+了，但是既没有意外损坏，电池页处于刚好可换的边缘（ 83%健康度），都三年过去了准备续用两年买新款了，不知道天才吧店员能不能直接沟通表达自己的想法。自己给砸了总觉得怪怪的。&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:47:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062143#reply4</guid></item><item><title>[分享发现] 1Password 家庭版免费试用一年又来了</title><link>https://www.v2ex.com/t/1062140#reply4</link><description>链接在此： &lt;a href="https://start.1password.com/sign-up/family?c=CANVA&amp;amp;l=zh-Hans" rel="nofollow noopener" target="_blank"&gt;https://start.1password.com/sign-up/family?c=CANVA&amp;amp;l=zh-Hans&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;原贴 &lt;a href="https://www.v2ex.com/t/912297" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/912297&lt;/a&gt; 内提到的 1 Year Free 又可以用了&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/vdbTprm.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/vdbTprm.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Fri, 02 Aug 2024 14:21:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062140#reply4</guid></item><item><title>[宽带症候群] 河南联通千兆光纤除光猫外其他网速均不到 300mbps</title><link>https://www.v2ex.com/t/1062139#reply3</link><description>&lt;h1&gt;这是什么问题啊……？&lt;/h1&gt;
+&lt;h2&gt;局域网情况&lt;/h2&gt;
+&lt;p&gt;1000mbps 河南联通网络 光猫作为主路由器
+家里房间较多 单路由器无法覆盖全屋
+主卧使用 ip-com 企业级 wifi6 路由
+次卧使用腾达不知名型号 wifi6 路由
+均使用 160mhz&lt;/p&gt;
+&lt;h2&gt;问题描述&lt;/h2&gt;
+&lt;p&gt;白天非网络高峰期各路由网速正常
+晚高峰期时除主路由以外 其他所有路由器下行只能跑到 100mbps+
+局域网内网速正常&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:20:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062139#reply3</guid></item><item><title>[分享创造] Flux AI - Flux.1 AI 最新 AI 文生图模型在线体验</title><link>https://www.v2ex.com/t/1062137#reply3</link><description>&lt;h1&gt;Flux.1 AI&lt;/h1&gt;
+&lt;h2&gt;在线体验：&lt;a href="https://flux1.ai/" rel="nofollow"&gt;FLUX AI&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;功能&lt;/h2&gt;
+&lt;h3&gt;Prompt Generator&lt;/h3&gt;
+&lt;p&gt;提示词生成器，完善优化图片提示词&lt;/p&gt;
+&lt;h3&gt;Image Generator&lt;/h3&gt;
+&lt;p&gt;根据提示词快速生成高清一致性良好的图&lt;/p&gt;
+&lt;h2&gt;效果图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Flux AI" class="embedded_image" rel="noreferrer" src="https://imgc.cc/2024/08/02/66ace7b93c187.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:09:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062137#reply3</guid></item><item><title>[Pixel] 求助 Pixel 一代突然屏幕不显示了，但是有触控</title><link>https://www.v2ex.com/t/1062136#reply1</link><description>&lt;p&gt;各位大佬们好，小弟于 19 年入手了一台 Pixel 一代，当时是从海鲜市场淘的。
+后来因为电池续航不太行，就把这台手机当备用机用了。因为谷歌相册的加持，在前段时间是当谷歌相册备份机了。&lt;/p&gt;
+&lt;p&gt;前几天因为一些事情，回了一趟河南老家（目前坐标 024 ），当时湿度可能有点高，回家期间因为忙忘了充电，后面回来之后就发现开不了机了。&lt;/p&gt;
+&lt;p&gt;目前手机的一个状态是：开机能感觉到有振动感觉，屏幕因为没有设置密码，有进入桌面，点击虚拟按键的震感。屏幕左上角之前不小心磕到了一下，但是就碎了外屏，对显示和触控没有影响。&lt;/p&gt;
+&lt;p&gt;求助大佬们：有没有什么办法，在不换屏的情况下，给手机恢复显示？&lt;/p&gt;
+&lt;p&gt;手机的照片：
+&lt;img alt="1000054856.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/02/fiKC9kQW7RurA61.jpg" /&gt;
+&lt;img alt="1000054857.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/02/ZR7XHJbNKlivktm.jpg" /&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062136#reply1</guid></item><item><title>[分享创造] 新版 2048， F-F-F-F， A-A-A-A</title><link>https://www.v2ex.com/t/1062135#reply1</link><description>&lt;p&gt;做了两个单页游戏，&lt;a href="https://goldendreamstudio.itch.io/f-f-f-f" rel="nofollow"&gt;F-F-F-F&lt;/a&gt; 和 &lt;a href="https://goldendreamstudio.itch.io/a-a-a-a" rel="nofollow"&gt;A-A-A-A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最近迷上了&lt;code&gt;2048&lt;/code&gt;，自己玩的时候有一些弊端，比如时间太长到最后容错度比较低这种&lt;/p&gt;
+&lt;p&gt;想到一些可以改进的方式，于是自己做了两个游戏玩，添加了道具牌&lt;/p&gt;
+&lt;h2&gt;F-F-F-F&lt;/h2&gt;
+&lt;p&gt;以麻将为原型，三种风格，合成到四个“发”就是赢了&lt;/p&gt;
+&lt;p&gt;玩法：电脑上为方向键（上下左右），手机上直接滑动就好了&lt;/p&gt;
+&lt;p&gt;简化了游戏其他方面，一个页面就完成了（主要是没有美术😂）&lt;/p&gt;
+&lt;h2&gt;A-A-A-A&lt;/h2&gt;
+&lt;p&gt;以扑克牌为原型，四种风格，从 2 合成到最后的 A 就赢了&lt;/p&gt;
+&lt;p&gt;玩法：电脑上为方向键（上下左右），手机上直接滑动就好了&lt;/p&gt;
+&lt;p&gt;道具牌有 4 个不同的随机牌，根据上次历史的最高牌为上限刷出&lt;/p&gt;
+&lt;p&gt;欢迎大家试玩，有什么建议和反馈可以给我提下&lt;/p&gt;
+&lt;p&gt;如果你喜欢的话欢迎帮我在 twitter 上支持我 ❤️&lt;/p&gt;
+&lt;h2&gt;试玩地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://x.com/GoldenDream2024/status/1817551241473343507" rel="nofollow"&gt;F-F-F-F&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://x.com/GoldenDream2024/status/1819018239176745184" rel="nofollow"&gt;A-A-A-A&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 02 Aug 2024 14:05:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062135#reply1</guid></item></channel></rss>
