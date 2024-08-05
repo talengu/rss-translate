@@ -1,93 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 05 Aug 2024 02:28:24 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[职场话题] 受家人之托，寻找游戏行业靠谱的培训结构</title><link>https://www.v2ex.com/t/1062546#reply0</link><description>&lt;p&gt;上周家中一长辈打电话向我咨询，有没有什么比较好的游戏行业的培训机构，打算把她的小孩送过去学习。&lt;/p&gt;
-&lt;p&gt;了解到情况是，这小孩曾经是手机游戏的电竞选手，专科毕业。这几年待在上海的一个游戏俱乐部，训练打比赛。长辈一开始尊重孩子，支持他选择所喜欢的事情（可能也是没什么办法），但现在开始变得着急起来。所以计划着，让他去学下游戏开发、游戏设计等等只要和游戏行业相关的东西。一方面可以让小孩继续待在他感兴趣的领域，另一方面希望着能学点手艺吧。&lt;/p&gt;
-&lt;p&gt;按我了解到的情况是，游戏行业因为国内的政策、市场等原因，早已走向下坡路了，中小厂生存困难，大厂门槛奇高。但是长辈还是想让我帮忙给介绍一个培训机构，最好是能够线下教学，而且是强度比较大的教学班。预算方面，长辈表示都可以接收，只要是能找到比较负责、课程详实的都行。&lt;/p&gt;
-&lt;p&gt;还望 V 站的过来人和各位前辈们帮帮忙，介绍机构业内口碑不错的游戏培训结构（程序、美术、建模，只要是游戏方面的都可以），感谢感谢了！&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:25:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062546#reply0</guid></item><item><title>[YouTube] YouTube 港区求稳定车队</title><link>https://www.v2ex.com/t/1062545#reply0</link><description></description><pubDate>Mon, 05 Aug 2024 02:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062545#reply0</guid></item><item><title>[北京] 出一个北京电信 300M 宽度，每月 10 块</title><link>https://www.v2ex.com/t/1062544#reply0</link><description>&lt;p&gt;手机号带的套餐，但是小区宽带垄断，3 大官方运营商进去，用不了。&lt;/p&gt;
-&lt;p&gt;1 、估计有个 100 元的安装费，《我不太清楚，没用过。不知道是初装费还是安装费，反正有的话最多 100 ，具体可以打客服电话问下会不会要》&lt;/p&gt;
-&lt;p&gt;2 、想要的话还得来个小区地址，我打客服电话问问小区有没有业务是否可以安装。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;顺带北京朝阳、通州有没有出电动车的（ 2 轮的），最近想整个电车骑&lt;/p&gt;
-&lt;/blockquote&gt;</description><pubDate>Mon, 05 Aug 2024 02:23:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062544#reply0</guid></item><item><title>[分享创造] ​我做的标签星球升级了，给你的浏览器装个仪表盘</title><link>https://www.v2ex.com/t/1062542#reply0</link><description>&lt;p&gt;第一版确实潦草，上线之后社区小伙伴提出了很多不错的建议，所以周末加班加点把他重构了一遍，重新发布一次。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/mark_img/img1.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;标签星球是什么？&lt;/h2&gt;
-&lt;p&gt;标签星球是一个基于浏览器的收藏夹管理工具，你可以轻松的管理你的收藏夹、Tabs 书签、书签分类、搜索记录、订阅源等数据，让你的浏览器成为一个仪表盘。&lt;/p&gt;
-&lt;h2&gt;它有哪些功能？&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;收藏夹管理：&lt;/strong&gt;你可以轻松的管理你的浏览器收藏夹，将收藏数据自动转为导航页，让你的浏览器成为一个仪表盘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;收藏夹模糊搜索：&lt;/strong&gt;输入关键可以模糊查询收藏的网站&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;最近访问：&lt;/strong&gt;最上方显示最近访问的 10 个网站，不小心误关，轻松找回。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tab 栏管理：&lt;/strong&gt;浏览器打开太多网站，默认 Tab 栏太拥挤，标签星球竖向布局，点击直接跳到 Tab 。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;导出收藏夹：&lt;/strong&gt;导出你的收藏夹数据，分享给他人。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;订阅收藏源：&lt;/strong&gt;导出的 json 文件可以上传至任意服务器作为订阅源，用户可在标签星球内输入订阅源链接，实现收藏夹分享。&lt;/p&gt;
-&lt;h2&gt;安装&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Edge 浏览器：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://microsoftedge.microsoft.com/addons/detail/podfjomopoejmlkfnhanlmlagcnlappd" rel="nofollow"&gt;https://microsoftedge.microsoft.com/addons/detail/podfjomopoejmlkfnhanlmlagcnlappd&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;离线安装&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://wwo.lanzouo.com/irgle26hmucf" rel="nofollow"&gt;https://wwo.lanzouo.com/irgle26hmucf&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;注意&lt;/h2&gt;
-&lt;p&gt;目前最新版本 v1.1 ，浏览器扩展商店有审核延迟，如果版本号不是 1.1 就是审核中体验最新版本可用源码编译安装或离线安装&lt;/p&gt;
-&lt;h2&gt;示例订阅源&lt;/h2&gt;
-&lt;p&gt;你可以通过以下链接订阅标签星球的示例订阅源：&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;开发者导航：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://file.zhuayuya.com/source/dev.json" rel="nofollow"&gt;https://file.zhuayuya.com/source/dev.json&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;设计师导航&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://file.zhuayuya.com/source/design.json" rel="nofollow"&gt;https://file.zhuayuya.com/source/design.json&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;二次元网站&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://file.zhuayuya.com/source/2d.json" rel="nofollow"&gt;https://file.zhuayuya.com/source/2d.json&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;单机游戏下载&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://file.zhuayuya.com/source/game.json" rel="nofollow"&gt;https://file.zhuayuya.com/source/game.json&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;开源&lt;/h2&gt;
-&lt;p&gt;标签星球是一个完全开源的项目，可在 github 自行下载源码&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;技术栈：&lt;/strong&gt;vite 、vue3 、crxjs&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;github：&lt;/strong&gt;&lt;a href="https://github.com/ponysb/TagPlanet" rel="nofollow"&gt;https://github.com/ponysb/TagPlanet&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;订阅源请求有跨域问题，源代码默认使用了官方后端中转服务器，需要二开可以自行修改成自己的&lt;/p&gt;
-&lt;h2&gt;截图演示&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/mark_img/img2.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/mark_img/img3.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/mark_img/img4.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.zhuayuya.com/mark_img/img5.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:22:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062542#reply0</guid></item><item><title>[问与答] 用户协议的法律效力从何体现</title><link>https://www.v2ex.com/t/1062541#reply0</link><description>互联网不像是实体产品，实体还有个三包凭证说明书什么的；&lt;br /&gt;&lt;br /&gt;互联网产品的用户协议，是具有法律效应的吗，互联网页面内容呢？&lt;br /&gt;&lt;br /&gt;比如一个协议，承诺了用户 xxx, 然后发现不对劲，直接修改了协议内容，反正都是一个 web 页面，最多是 pdf ，那么用户有可能维权吗？&lt;br /&gt;&lt;br /&gt;用户就算拿出截图，web 存档，这都是可以伪造的，都没法证实数据是真实的吧。&lt;br /&gt;&lt;br /&gt;或者还是这种网络协议，都需要相关协议号或者公证处公证？</description><pubDate>Mon, 05 Aug 2024 02:20:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062541#reply0</guid></item><item><title>[硬件] 求推荐一个好用的鼠标，码代码用</title><link>https://www.v2ex.com/t/1062540#reply0</link><description>&lt;p&gt;现状：&lt;/p&gt;
-&lt;p&gt;当前使用的鼠标是&lt;code&gt;罗技 M720&lt;/code&gt;，已服役 5 年。
-外壳惨不忍睹，大拇指位置已经可以看见塑料的鼠标内壳中的排线
-滚轮更是被我的汗手腐蚀的不像样子，经常用纸巾一擦就掉下来一块灰绿相间的东西（不知道该叫啥，目前滚轮已不是光滑的表面），目前滚轮功能只能说还能用，经常滚不动，需要反过来鼠标在桌子上先使劲把滚轮磨上几圈才能用手指头滚动。&lt;/p&gt;
-&lt;p&gt;期望：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 05 Aug 2024 10:33:52 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[iPhone] &lt;求解答&gt; iPhone 是否可通过类似于与 Apple Watch 的连接原理与 homekit 断路器建立连接从而实现无需接入外网实现使用 Siri 控制</title><link>https://www.v2ex.com/t/1062705#reply0</link><description>想在宿舍床铺位置装一个照明工具不想使用传统台灯&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/9YKXf4y.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9YKXf4y.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;使用 matter 协议的断路器来实现接入苹果 homekit 智能控制&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/a6vu3Ii.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/a6vu3Ii.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;当前疑虑：&lt;br /&gt;1.宿舍校园网需要认证&lt;br /&gt;2.无法组成有外网接入的局域网作为网关&lt;br /&gt;3.iPhone 是否可通过类似于与 Apple Watch 的连接原理与断路器建立连接从而实现无需接入外网实现使用 Siri 控制?</description><pubDate>Mon, 05 Aug 2024 10:30:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062705#reply0</guid></item><item><title>[问与答] 1Password 自动备份方案</title><link>https://www.v2ex.com/t/1062704#reply0</link><description>&lt;p&gt;1Password 有办法定时备份所有的内容么？目前只发现了手动导出非加密文件。&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 10:28:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062704#reply0</guid></item><item><title>[程序员] 就几个页面的 web 应用，你会选择前后端分离吗？</title><link>https://www.v2ex.com/t/1062703#reply4</link><description>使用 springboot 开发的 web 应用，就几个页面（ 5 个以下），前后端分离感觉维护成本更高。&lt;br /&gt;前后端分离至少需要多部一个网关，把前端指向静态文件，后端指向服务；&lt;br /&gt;而且一般需要引入一些库（ react 或者 vue 等），导致 js 文件很大，加载缓慢。&lt;br /&gt;&lt;br /&gt;如果前后端在一起，网关是可有可无的，直接提起来就可以用了，加载起来更快，而且维护起来更方便。&lt;br /&gt;不知道大家怎么看这个问题</description><pubDate>Mon, 05 Aug 2024 10:18:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062703#reply4</guid></item><item><title>[投资] 讨论：一个股票交易信号提醒工具的 idea 搜集</title><link>https://www.v2ex.com/t/1062702#reply0</link><description>&lt;p&gt;不知道大家在炒股的过程中，是否用过富途这个提醒工具呢？
+&lt;img alt="f34f23f2d336cbec93bd25a2026025bc.png" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/08/05/f34f23f2d336cbec93bd25a2026025bc.png" /&gt;
+当前富途支持四种类型监控&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;到价提醒：监控一定时间范围内价格的变化；比如 5 分钟价格涨幅超过了 3%&lt;/li&gt;
+&lt;li&gt;盘口提醒：监控成交量和换手率，买一和卖一价格变化; 比如成交量突破了 10 万股&lt;/li&gt;
+&lt;li&gt;指标提醒：当前支持了热门的几种，MA/EMA/KDJ/MACD/RSI/BOOL(如上图）&lt;/li&gt;
+&lt;li&gt;事件提醒：公告提醒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我想把这个工具扩展下，有以下几个思路&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;外壳不要亲肤材质&lt;/li&gt;
-&lt;li&gt;滚轮不要金属材质，滚轮有类似罗技家的两种模式&lt;/li&gt;
-&lt;li&gt;支持 Mac 快捷键（或者像罗技这种有 logi Options ，安装后就能支持反向滚轮，以及各种 app 的快捷键映射，或者鼠标的前进后退能支持也可以，比如浏览器的前进后退，idea 中的代码位置前进后退）&lt;/li&gt;
-&lt;li&gt;支持蓝牙连接&lt;/li&gt;
-&lt;li&gt;能支持多设备更好，没有也无所谓&lt;/li&gt;
-&lt;li&gt;拇指键功能可有可无，只要有前进后退就够用&lt;/li&gt;
-&lt;li&gt;充电，电池都可以&lt;/li&gt;
-&lt;li&gt;价格 500 以下都可以接受，实在没有也可以向上溢出推荐&lt;/li&gt;
-&lt;li&gt;不打游戏&lt;/li&gt;
-&lt;li&gt;或者 v 友们有其他的解决方案也可考虑&lt;/li&gt;
+&lt;li&gt;扩展到其他市场，比如数字货币中，CEX 币安的功能没有这个全面；&lt;/li&gt;
+&lt;li&gt;
+扩展功能：&lt;ul&gt;
+&lt;li&gt;到价提醒和盘口提醒没啥新花样了，原样支持；&lt;/li&gt;
+&lt;li&gt;指标提醒的话，一是增加更多的指标，比如 DC ，SAR ，ADX 等；二是，基于这些基础指标，支持用户在这个基础上自定义策略，比如 MACD 和 EMA 组合使用作为买入的策略 &lt;/li&gt;
+&lt;li&gt;事件提醒：也是两个方向：一是针对一些热门新闻做舆情判断，积极信号给出一个提醒；二是：针对财报这类的，利用 AI 预分析后，提供分析后的提醒给用户；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;总体来讲这个鼠标用的还是满意的，只是现在外壳已经发黏，再就是滚轮功能受限。
-希望各位吴彦祖给出出主意哈。&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:17:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062540#reply0</guid></item><item><title>[问与答] 深圳去香港最便宜的方法是什么？</title><link>https://www.v2ex.com/t/1062539#reply1</link><description>打算过去买 iPad Pro 治病</description><pubDate>Mon, 05 Aug 2024 02:17:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062539#reply1</guid></item><item><title>[问与答] 帮朋友发布一个 SAP 的岗位，月薪 4-6w</title><link>https://www.v2ex.com/t/1062538#reply1</link><description>&lt;p&gt;懂 sap 系统的割接和升级的&lt;/p&gt;
-&lt;p&gt;有想法的可以联系 wx：YmViZXR0ZXJfY2w=&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:14:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062538#reply1</guid></item><item><title>[macOS] QQ 为什么要使用 8080 端口？</title><link>https://www.v2ex.com/t/1062537#reply1</link><description>&lt;p&gt;我最近本地开发的 web 服务经常 8080 时好时坏，就是一开始访问不到，强刷好几次就好了。
-后来就查了一下&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;lsof -i:8080
-
-# 返回
-QQ      3933 xxx   61u  IPv4 0x15d3116f03d523fd      0t0  TCP xxx-mbp:61302-&amp;gt;180.101.246.123:http-alt (ESTABLISHED)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;发现，是 qq 占用了这个端口，很奇怪。&lt;/p&gt;
-&lt;p&gt;只要关闭 qq ，8080 端口就释放了，重新打开，会有一个新的连接 ip ，每次都不一样，但是经查询都是&lt;strong&gt;江苏南京&lt;/strong&gt;的 IP&lt;/p&gt;
-&lt;p&gt;我用的最新版的 app store 下载的 qq （版本: 6.9.51-26339 ），macOS 是 14.2.1 (23C71)。&lt;/p&gt;
-&lt;p&gt;不知道大家有没有。我怎么才能在使用 qq 的情况下不让其占用 8080 。难道只有本地抓包来看可能是什么服务？或者说干脆只能把 web 服务 8080 换成其他的，但是很难受。&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:11:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062537#reply1</guid></item><item><title>[问与答] 关于关系很好的朋友借钱问题</title><link>https://www.v2ex.com/t/1062535#reply12</link><description>&lt;p&gt;关系最好的朋友,由于搞网 du,借了 80 个网贷,现在一个月要还 5 个,还不起了,找我帮他忙,怎么办,该帮吗&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:11:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062535#reply12</guid></item><item><title>[问与答] 诸位有没有转行做项目经理的，求支招？</title><link>https://www.v2ex.com/t/1062534#reply0</link><description>我司我们部门去年八月成立，招了一个水货领导，前期基本的需求研讨，排期啥啥都没有，关键是老板也不懂这个，还对他很信任，拿我一个开发来讲页面画完很多按钮点击逻辑都不知道是啥就安排我做下一个任务了，导致很多功能都是半桶水，然后对上舔老板，对下 pua 我们动不动就是精神威胁类似于小心人事找你谈话，小心被淘汰等，他啥啥都不懂就是像个监工催这个催那个，给老板承诺的上线日期一拖再拖，已经一年了老板终于没耐心了把他下了，现在这个项目几乎是停滞了，也没人推动，老板现在希望有人能承担这个责任，带领大家继续做项目，希望有人能站出来，我私聊了老板表明了我想做项目经理的意愿老板说好，但是也没下文了，上周的开会老板意思是，如果想承担责任要拿出一个产品开发的规划以及方案让他信服，我自己是工作了 6 年的前端，我粗浅的理解是按规范流程来，接下来要做什么模块，先开始产品需求会，接下来安排排期等，需要多少人手，测试，上线等，我理解就是这些东西吧，可能我也没有项目管理的经验，还想不到别的，v 友可以支个招该如何做方案让老板信服呢？</description><pubDate>Mon, 05 Aug 2024 02:10:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062534#reply0</guid></item><item><title>[分享发现] cloudflare 也太好用了吧</title><link>https://www.v2ex.com/t/1062533#reply0</link><description>这几天折腾了一下 cloudflare&lt;br /&gt;用 cf worker 搭建了科学上网节点和 docker 镜像服务，测试了 cloudflare tunnel 内网穿透, 感觉很强大易用。&lt;br /&gt;对比一下腾讯云，主页功能多并且复杂，登录需要手机验证(恶心)，还有一些操作需要身份验证人脸验证，麻烦得不行。</description><pubDate>Mon, 05 Aug 2024 02:08:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062533#reply0</guid></item><item><title>[生活] 买到老手机号</title><link>https://www.v2ex.com/t/1062532#reply4</link><description>&lt;p&gt;最近回老家工作，需要整一条宽带，按照运营商要求办理了一个归属地是本地的手机号，然后相后续用作主号，遂开始换绑各个 APP 的手机号，
-换绑到滴滴的时候，显示曾经注册过，让我登录然后注销掉
-登录之后，显示有一笔大概 4 年前的未支付订单，无法注销&lt;/p&gt;
-&lt;p&gt;已经和客服沟通，有专人跟进处理，&lt;/p&gt;
-&lt;p&gt;衍生出的问题值得思考，手机号资源为啥还能回收呢，数字的排列应该没到尽头把&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:03:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062532#reply4</guid></item><item><title>[推广] 经测试可用的海外手机号注册方式</title><link>https://www.v2ex.com/t/1062531#reply0</link><description>似乎有很多人需要一个海外手机号，我刚验证成功的一种方式：&lt;br /&gt;&lt;br /&gt;1.买一张 5ber 的卡，我在淘宝买的七十多一张普通版（可以注册 2 个 esim ，可以再加购$3 ～ 3 张，$5~10 张，高级版 150 无限张），能将 esim 转成 sim 卡，绕过国内手机 esim 的限制&lt;br /&gt;2.购买 redteago 的 esim 套餐，一定要在网页买，app 购买的话是无法生成 5ber 可以使用的激活二维码&lt;br /&gt;&lt;br /&gt;然后就可以愉快的使用了&lt;br /&gt;&lt;br /&gt;附上我的 redteago 的邀请链接，薅点大家的羊毛&lt;br /&gt;&lt;br /&gt;&lt;a href="http://app.redteago.com/invite/index.html?id=SUNN0045" rel="nofollow noopener" target="_blank"&gt;http://app.redteago.com/invite/index.html?id=SUNN0045&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;用这个码注册，双方都会获得$3 的储值</description><pubDate>Mon, 05 Aug 2024 02:02:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062531#reply0</guid></item><item><title>[问与答] “卸完煤油直接装食用油”油运输的疑问</title><link>https://www.v2ex.com/t/1062530#reply7</link><description>&lt;p&gt;各油厂都回应自家运油车没问题
-除了卖散装油有用油罐车的需求
-看各油厂的回应推测他们各地油厂之间的运输也是用油罐车进行的
-为什么要用油罐车而不直接在出厂就装桶打包好呢&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 02:01:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062530#reply7</guid></item><item><title>[问与答] 肝了六百多天的短博客类型客户端 Fread 终于上线啦！限时免费，目前支持 Mastodon 和 RSS。</title><link>https://www.v2ex.com/t/1062529#reply0</link><description>&lt;p&gt;大家好，我肝了六百多天，五万多行代码的短博客类型客户端 Fread 终于上线啦！！！目前支持 Mastodon 和 RSS ，未来会继续支持其他去中心化社交网络的协议。&lt;/p&gt;
-&lt;p&gt;不知道 V 站有没有人玩长毛象，现在已经支持几乎所有的长毛象功能，是个完备的长毛象客户端，而且有专业的设计师帮我设计 UI ，交互也做的很好。&lt;/p&gt;
-&lt;p&gt;多账号登录不需要来回切换，无缝衔接。&lt;/p&gt;
-&lt;p&gt;另外还支持 RSS 协议，以及混合 Feeds 流，这意味着你可以创建一个混合了 RSS 和长毛象用户的 Feeds 流，未来还会继续支持 Bluesky 等协议。&lt;/p&gt;
-&lt;p&gt;Timeline 支持加载上一页的数据，往上滑动时会自动加载上一页，如果想看最新的数据直接下拉刷新就行。&lt;/p&gt;
-&lt;p&gt;下载： &lt;a href="https://play.google.com/store/apps/details?id=com.zhangke.fread" rel="nofollow"&gt;https://play.google.com/store/apps/details?id=com.zhangke.fread&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/uVJomvV" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/doLMZcO" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/4yrcg5c" /&gt;&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 01:59:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062529#reply0</guid></item><item><title>[问与答] 关于谷歌相册使用的问题</title><link>https://www.v2ex.com/t/1062528#reply2</link><description>以前手机都没用啥云相册功能，最近入坑了谷歌相册，在使用过程中遇到了一个问题：当我换新手机后，马上下载了一个谷歌相册，谷歌相册里也能正常看到之前存储的照片(挂梯子)，但是当我在微信里想发送 照片 A 给朋友时，必须经历如下过程：&lt;br /&gt;&lt;br /&gt;1.得先去谷歌相册里找到 照片 A 。&lt;br /&gt;2.点右上角三个点下载这张照片。（不下载的话，本地应该是没有的，所以微信里也看不到）&lt;br /&gt;3.微信里选择该照片，然后发送给朋友。&lt;br /&gt;&lt;br /&gt;对此我感觉十分繁琐，还得去下载一遍照片。所以想问一下，有没有什么办法可以直接将相册里的照片全部同步到本地。&lt;br /&gt;或者是我的使用方式不对？？？&lt;br /&gt;本人实在小白，还请各位大佬指教指教。</description><pubDate>Mon, 05 Aug 2024 01:59:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062528#reply2</guid></item><item><title>[问与答] 提醒, lnmp.org 1.9 版本的 被挖矿</title><link>https://www.v2ex.com/t/1062527#reply0</link><description></description><pubDate>Mon, 05 Aug 2024 01:58:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062527#reply0</guid></item><item><title>[体育运动] 有哪些国家奥运会运动员是由政府出资培养的</title><link>https://www.v2ex.com/t/1062526#reply17</link><description>&lt;p&gt;看到别人说美国的运动员都有自己的职业，参加奥运会是业余副业，是真的吗？&lt;/p&gt;
-&lt;p&gt;外国的运动员都不是政府出资培养的？&lt;/p&gt;
-&lt;p&gt;周末我看到很多人刷郑钦文，这位运动员是其父亲自己花钱请的教练培养的？&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 01:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062526#reply17</guid></item><item><title>[问与答] 国内哪个捐款的平台最靠谱</title><link>https://www.v2ex.com/t/1062525#reply11</link><description>国内哪个捐款的平台最靠谱？&lt;br /&gt;&lt;br /&gt;需要真正用善款办事的平台，大家说说吧&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;下面这种平台死远点&lt;br /&gt;1. 捐款 30 万，到手却只有 500 块&lt;br /&gt;2. 捐款 90 万,仅到账 3 万&lt;br /&gt;3. 48 万爱心捐款，到病患手里只剩下 900 元</description><pubDate>Mon, 05 Aug 2024 01:56:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062525#reply11</guid></item></channel></rss>
+&lt;p&gt;我想问：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果有这么个工具，日常交易中会用么？&lt;/li&gt;
+&lt;li&gt;上面这个几个功能思路，你觉得哪个最有用？为什么？&lt;/li&gt;
+&lt;li&gt;如果有这么个工具，你愿意付费么？不愿意付费的理由是什么？&lt;/li&gt;
+&lt;li&gt;其他你交易中，需要一个工具辅助你的，你觉得应该解决你什么问题？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我的联系方式: km2way ，谁有任何想法都可以和闲聊下&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 10:11:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062702#reply0</guid></item><item><title>[问与答] 联联周边游冲话费被坑,有办法要回来吗</title><link>https://www.v2ex.com/t/1062701#reply0</link><description>&lt;p&gt;我老婆在这个平台上给我冲 200 话费,但是她不知道我是携号转网用户,导致冲话费失败.找客服说这种情况没法退,因为商品界面写清楚了.&lt;/p&gt;
+&lt;p&gt;问,还有没有办法追回这 200 块.&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:59:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062701#reply0</guid></item><item><title>[宽带症候群] 被深信服行为管理设备 QoS 到只能跑到大约 4Mbps 带宽，有办法突破带宽嘛？</title><link>https://www.v2ex.com/t/1062700#reply0</link><description></description><pubDate>Mon, 05 Aug 2024 09:59:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062700#reply0</guid></item><item><title>[问与答] 小孩身高问题，医生推荐γ氨基丁酸，哪个性价比高呢？</title><link>https://www.v2ex.com/t/1062699#reply3</link><description>&lt;p&gt;为了长高，医生建议买。我查了一下，这玩意价格特别贵，很容易每个月都上千元，我的问题是哪个性价比会高点呢，有效成分指的是γ氨基丁酸的含量，哪个性价比高呢？有经验的 v 友麻烦指点一下，谢谢！&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:58:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062699#reply3</guid></item><item><title>[问与答] 求推荐一个 esim 的穷鬼流量套餐</title><link>https://www.v2ex.com/t/1062698#reply0</link><description>意外发现我的 ipad 可以用 esim, 原来买的是海外版。我下了十几个 APP ，在大陆用的流量贵得一批。基本为 5 刀/GB 。有没有很便宜的流量啊？ 最好 1 元 1GB 这样子。可接收港澳的</description><pubDate>Mon, 05 Aug 2024 09:58:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062698#reply0</guid></item><item><title>[问与答] 求助一些阅读书籍的样式 css,我自己抄的总感觉不对.</title><link>https://www.v2ex.com/t/1062697#reply0</link><description>&lt;p&gt;我用 sphinx 的 furo 主题,改成样式,总是不对,本来想用 book 的,结果右边栏工作不了,滚到到某个标题右边不高亮了.&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:57:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062697#reply0</guid></item><item><title>[程序员] 开源一款 Matrix 插件，实现语音备忘录</title><link>https://www.v2ex.com/t/1062696#reply0</link><description>&lt;p&gt;在房间或消息列中将语音和音频文件转为文本消息&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/code-gal/maubot-stt" rel="nofollow"&gt;https://github.com/code-gal/maubot-stt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/code-gal/maubot-stt/main/sample1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;需要先安装&lt;a href="https://github.com/maubot/maubot" rel="nofollow"&gt;maubot&lt;/a&gt;——一款开源的 matrix 机器人托管平台，然后上传插件使用&lt;/p&gt;
+&lt;p&gt;另外两款开源插件 fork 别的插件进行扩展：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/code-gal/maubot-webdownload" rel="nofollow"&gt;maubot-webdownload&lt;/a&gt;: 自动下载媒体和文档链接到附件&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/code-gal/maubot-reactbot" rel="nofollow"&gt;maubot-reactbot&lt;/a&gt;: 自动会员特定类型的消息，例如添加表情反应&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:56:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062696#reply0</guid></item><item><title>[问与答] 2024 年去哪看面经？</title><link>https://www.v2ex.com/t/1062695#reply0</link><description></description><pubDate>Mon, 05 Aug 2024 09:50:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062695#reply0</guid></item><item><title>[Apple] apple one 地区求推荐</title><link>https://www.v2ex.com/t/1062694#reply0</link><description>lz 一直在用印区，土区，一直想转到一个可以不用买礼品卡，绑定支付方式的地区。求推一个可以使用 esim 手机话费支付 apple one 且价格合适的地区，再加上 esim 保号成本低。</description><pubDate>Mon, 05 Aug 2024 09:44:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062694#reply0</guid></item><item><title>[问与答] 想用 RSS 订阅谷歌搜索结果（比如说 Boss 直聘的招聘信息，可以直接谷歌搜索到）</title><link>https://www.v2ex.com/t/1062693#reply1</link><description>想用 RSS 订阅谷歌搜索结果（比如说 Boss 直聘的招聘信息，可以直接谷歌搜索到），有什么比较好的订阅源制作方案吗，用的 &lt;a href="http://RSS.app" rel="nofollow noopener" target="_blank"&gt;RSS.app&lt;/a&gt; 制作出来的订阅源是信息加载不出来的</description><pubDate>Mon, 05 Aug 2024 09:39:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062693#reply1</guid></item><item><title>[NAS] intel 带 F 的 CPU+独显做 nas 机器，怎么省电</title><link>https://www.v2ex.com/t/1062692#reply7</link><description>&lt;p&gt;家里的淘汰下来的台式机，想着废物利用，打算用来做 nas 主机，问题是 CPU 是不带核显的，不插独显，主板自检过不去，插着独显，24 小时开机的话，耗电量也不小，我是想着能不能插着独显，但是禁用掉它，这样自检能过去，独显又不耗电，系统我打算直接装 Debian ，所以想问问有啥好的办法没有？主板 CPU 套是华硕 H410 和 i3-10100f&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:38:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062692#reply7</guid></item><item><title>[iOS] 求助， iOS 开发问题咨询。</title><link>https://www.v2ex.com/t/1062691#reply2</link><description>&lt;p&gt;咨询一些关于 iOS 开发的问题，目前我打算给苹果手机开发一个功能，需要真机调试，已经打算订阅苹果开发者个人账号，但是有些问题我不是很确定，我怕买完账号，完全不是我预想的那样，导致年费打水漂，所以在此咨询以下两个问题。&lt;/p&gt;
+&lt;p&gt;1.&lt;a href="https://developer.apple.com/documentation/networkextension" rel="nofollow"&gt;Network Extension&lt;/a&gt;框架的使用是否还需要单独向苹果申请？&lt;/p&gt;
+&lt;p&gt;2.&lt;a href="https://developer.apple.com/documentation/appclip/choosing-the-right-functionality-for-your-app-clip" rel="nofollow"&gt;App Clip&lt;/a&gt;的技术文档写到，它无法使用某些框架，但是有一句特意提到“Note that an App Clip may configure Wi-Fi networks using the Hotspot Configuration Entitlement.”，所以我想确认一下，App Clip 能否使用 Network Extension 框架。&lt;/p&gt;
+&lt;p&gt;最后有个有偿不情之请，因为我看网上的回答，开发者账号去申请 Network Extension 短则一周，长则几周，而且有无法通过的问题。所以我想租用一下有 Network Extension 权限的开发者账户，去先验证一下我的猜想（亦或者签名证书。&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:33:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062691#reply2</guid></item><item><title>[北京] 北京移动 1TB 校园包</title><link>https://www.v2ex.com/t/1062690#reply0</link><description>&lt;p&gt;北京移动 1TB 校园包&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ysmapp.bj.10086.cn/app/channel-web/busiCore/showIndexCommon.action?submitWarePackageId=A1000462&amp;amp;channel=app_share&amp;amp;code=WWFWB001452&amp;amp;empCode=WWFWB001452&amp;amp;nbc=3366d29f0fb721102388052969daddc8" rel="nofollow"&gt;https://ysmapp.bj.10086.cn/app/channel-web/busiCore/showIndexCommon.action?submitWarePackageId=A1000462&amp;amp;channel=app_share&amp;amp;code=WWFWB001452&amp;amp;empCode=WWFWB001452&amp;amp;nbc=3366d29f0fb721102388052969daddc8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mp.weixin.qq.com/s/HIKLiJHYyiKEbDws6e_Vmg" rel="nofollow"&gt;https://mp.weixin.qq.com/s/HIKLiJHYyiKEbDws6e_Vmg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:24:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062690#reply0</guid></item><item><title>[问与答] 请问国内现在有啥比较稳定的直播推流的播放器嘛</title><link>https://www.v2ex.com/t/1062689#reply0</link><description>&lt;p&gt;不知道这个问题会不会涉及到广告，but
+现在确实需要一个稳定的直播推流平台，能够嵌入页面的
+logo 啥的干扰少的一个播放器。
+不知道大家有没有推荐
+谢谢各位&lt;/p&gt;
+&lt;p&gt;其实类似油管那种就可以，只不过国内能够稳定平替油管
+且不会遭遇审核无端掐掉的平台好像我还确实知道的比较少。&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:12:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062689#reply0</guid></item><item><title>[问与答] 求推荐智能锁 人脸识别＋半自动＋猫眼</title><link>https://www.v2ex.com/t/1062688#reply10</link><description>&lt;p&gt;如题 给家里人两个老人买个智能锁 初步看了一下论坛的以往意见
+人脸识别比较方便
+半自动省电
+猫眼可以看外面的情况 抓拍什么的
+看了一下鹿客 小米 和德施曼似乎没找到这种的锁呀&lt;br /&gt;
+是不是应该买传说中的公模？
+预算大概 1500 或者 2000 吧 谢谢各位&lt;/p&gt;</description><pubDate>Mon, 05 Aug 2024 09:10:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062688#reply10</guid></item><item><title>[OpenWrt] 请教关于家用流量分流结构</title><link>https://www.v2ex.com/t/1062687#reply2</link><description>&lt;p&gt;我没有相关的经验, 目前还处于设想阶段, 想请教大家关于结构的可行性以及可能得一些问题.谢谢指点!&lt;/p&gt;
+&lt;h4&gt;结构图&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="示意图" class="embedded_image" rel="noreferrer" src="https://ossk.cc/file/39f32e267659244507f65.jpg" /&gt;&lt;/p&gt;
+&lt;h4&gt;其他问题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Clash Docker 使用 Tun 模式是否会存在问题? 如果存在我应该新增一台什么设备来运行 Clash? 或者使用其他的方案呢?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;参考各类文档, 分流 DNS 准备使用 AdGuardHome 主要是有 UI 界面的统计支持. 是否需要缓存其他的实现呢?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;部分特殊规则(如: &lt;a href="http://dl.google.com" rel="nofollow"&gt;dl.google.com&lt;/a&gt; 走直连, +.google.com 走代理) AdGuardHome 是否支持呢?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;这种网络结构是否会影响各类加速器的使用?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如 Parsec 这种打洞的远程软件在这个网络结构下应该能正常运行吧?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Mon, 05 Aug 2024 09:08:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062687#reply2</guid></item><item><title>[Android] root 后的手机升级时出现问题了</title><link>https://www.v2ex.com/t/1062686#reply6</link><description>小米出澎湃 os 前买的小米 13, root 后装了 magisk, 系统更新的时候忘记走"打开 Magisk – 安装 – 安装到未使用的槽位（ OTA 后） – 重启"这一步直接在 OTA 界面重启了. 然后就是手机没响应, 乱按一通进了恢复模式又重新刷了一遍 patch 后的镜像包, 但是这之后每次重启手机的时候都没法直接进系统, 提示"Your device is corrupt. It can't be trusted and may not work properly..."需要按电源键才能进系统, 但是我记得最开始 root 的时候是没有这个提示的, 试了重新刷镜像解决不了这个问题.&lt;br /&gt;有办法去掉这个提示吗?</description><pubDate>Mon, 05 Aug 2024 09:06:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062686#reply6</guid></item></channel></rss>
