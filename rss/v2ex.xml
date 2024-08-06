@@ -1,55 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 06 Aug 2024 10:30:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[生活] 问一下你们七夕都给女朋友送什么礼物啊？</title><link>https://www.v2ex.com/t/1063010#reply0</link><description>&lt;p&gt;突然发现七夕要到了，你们都给女朋友准备了什么礼物啊，感觉好难选&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:28:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063010#reply0</guid></item><item><title>[随想] 一代人有一代人的...</title><link>https://www.v2ex.com/t/1063009#reply0</link><description>70 后打字喜欢用手写，8090 习惯用九宫格，00 后喜欢 26 键，还有更多这样的现象吗？</description><pubDate>Tue, 06 Aug 2024 10:10:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063009#reply0</guid></item><item><title>[职场话题] 求助，找不到工作了，朋友们</title><link>https://www.v2ex.com/t/1063008#reply7</link><description>&lt;p&gt;坐标西南柬埔寨 成都 21 届 双非本科
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 06 Aug 2024 12:56:19 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有推荐的国内博客平台吗</title><link>https://www.v2ex.com/t/1063033#reply0</link><description>想把一些博客发布到国内的博客平台增加些流量，大家伙有什么推荐的吗，什么 CSDN ，博客园之类的&lt;br /&gt;&lt;br /&gt;还是说这些平台可以都发一遍🌚</description><pubDate>Tue, 06 Aug 2024 12:34:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063033#reply0</guid></item><item><title>[Qt] 如何正确安装 QT？</title><link>https://www.v2ex.com/t/1063032#reply0</link><description>&lt;p&gt;最近要在 window11 电脑上装 QT ，但是从官网下载的在线安装安装包，装上之后似乎没有安装上 QT 。要编译的程序一直提示根据 Cmake 一直提示找不到 QT 。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 12:30:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063032#reply0</guid></item><item><title>[宽带症候群] 一些网站正在用验证码等方式限制移动广电等廉价宽带的访问</title><link>https://www.v2ex.com/t/1063031#reply3</link><description>&lt;p&gt;一些网站比如逼乎和蓝奏云在使用移动访问的时候会先蹦到验证页面让你点按钮验证，就说系统检测到您的网络环境存在异常。好的时候验证通过但是只能看首页，差的时候按钮不管用甚至原地反复刷新，去别的地方换个联通电信什么的秒进，也没有什么杂七杂八的限制。还有一些小型网站比如查文章的用移动访问上来就是一个验证码窗口让你输入，换网还是秒进。网上有人说是开节点造成的，可是并没有这种情况，而且联通电信网开节点使用规则模式仍然可以秒进。我认为可能是因为移动等廉价网络一个 IP 段用户过多不干净，尤其我这边移动默认 nat3nat4 ，以及广电喜欢玩共享带宽所致。有没有懂行的大佬帮忙解答一下，实在不行搞个联通电信流量卡了。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 12:24:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063031#reply3</guid></item><item><title>[问与答] Wordpress 迁移服务器，不更改域名，最最简单的办法是什么？</title><link>https://www.v2ex.com/t/1063030#reply3</link><description>新旧服务器都是用宝塔搭环境，&lt;br /&gt;&lt;br /&gt;安装了几个常规插件，套了 cf ，&lt;br /&gt;&lt;br /&gt;有必要愿意买迁移插件，但评论很杂，不知道如何选择。&lt;br /&gt;&lt;br /&gt;追求最简单的方案！</description><pubDate>Tue, 06 Aug 2024 12:17:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063030#reply3</guid></item><item><title>[问与答] 刚看到一个发传单搞诈骗的</title><link>https://www.v2ex.com/t/1063029#reply0</link><description>&lt;p&gt;刚刚看到一个搞诈骗的传单图片&lt;br /&gt;
+标题是"乡村振兴文件" &lt;br /&gt;
+推测可能是针对农村地区诈骗 &lt;br /&gt;
+下载了一下软件, 是一个安卓软件, 用模拟器安装后发现似乎是一个包装过的电报&lt;br /&gt;
+地址是 18666 点 la &lt;br /&gt;
+有哪些大佬比较吊, 可以搞一波他们么, 或者分析一下 &lt;br /&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 12:17:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063029#reply0</guid></item><item><title>[Oracle] 终于开上了甲骨文，太不容易了</title><link>https://www.v2ex.com/t/1063027#reply4</link><description>近半年前前后后试了有七八次吧，今天终于开上了&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;这次跟以前的不同是：&lt;br /&gt;&lt;br /&gt;1 、信息全英文，姓名是英文名（不是拼音），地址是 Google map 找的本地地址再翻译成英文&lt;br /&gt;&lt;br /&gt;2 、地区选的是新加坡西，之前一直选的东京（不知道这个有没有影响）&lt;br /&gt;&lt;br /&gt;3 、换了一个新的手机号，也是+86&lt;br /&gt;&lt;br /&gt;4 、换了一个新设备，之前一直在电脑浏览器上注册，这次换成手机+chrome ，没开代理&lt;br /&gt;&lt;br /&gt;5 、银行卡是工行星座卡&lt;br /&gt;&lt;br /&gt;6 、换了一个新邮箱，之前是 outlook ，换成 gmail 了&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;写出来给大家参考一下，也祝大家早日开上甲骨文😘&lt;br /&gt;&lt;br /&gt;最后问想问一下大家注册好之后有没有什么注意事项，关于防 ban 账号，如何开机器之类的&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;感谢！！</description><pubDate>Tue, 06 Aug 2024 12:03:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063027#reply4</guid></item><item><title>[电影] 找一部外国动画电影</title><link>https://www.v2ex.com/t/1063026#reply0</link><description>&lt;p&gt;因为只看了一点片段，所以印象非常模糊。
+大概是前 5~10 年间的电影，产地可能是英国、法国、或者意大利。
+影片中有一段影子追逐人物的片段，影子一段时间好像变换成了烈马，最终里面有死神（场景中包含沙子？）的场面。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 11:58:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063026#reply0</guid></item><item><title>[macOS] macbook 支持 ldac 协议以实现播放高品质蓝牙音乐的方案</title><link>https://www.v2ex.com/t/1063025#reply0</link><description>&lt;h2&gt;方案概述&lt;/h2&gt;
+&lt;p&gt;在 macOS 中启动 Linux 虚拟机，通过额外的 usb 蓝牙适配器连接耳机，并在 macOS 中通过 BlackHole 工具把 macbook 的音频输出流影射到 Linux 中的音频输入&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Untitled" class="embedded_image" rel="noreferrer" src="https://pic-lib.bj.bcebos.com/xm4.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;详细说明 LDAC 协议的技术优势&lt;/h2&gt;
+&lt;p&gt;LDAC （ Low Latency Audio Codec ）是索尼开发的一种高分辨率音频编解码器，旨在通过蓝牙传输高品质音频。其主要优势包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高传输速率&lt;/strong&gt;：LDAC 支持高达 990 kbps 的传输速率，相比之下，SBC 的最高速率仅为 328 kbps ，AAC 为 250 kbps ，aptX 为 352 kbps 。更高的传输速率意味着可以传输更多的音频数据，从而提高音质。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;低延迟&lt;/strong&gt;：LDAC 在保持高音质的同时，还能提供较低的延迟，使其适用于观看视频和玩游戏等需要同步音频和视频的场景。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高分辨率音频支持&lt;/strong&gt;：LDAC 能够支持高达 24bit/96kHz 的高分辨率音频传输，确保音频保真度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;比较 LDAC 与其他蓝牙音频编解码器的性能差异&lt;/h2&gt;
+&lt;p&gt;在选择蓝牙音频编解码器时，了解各个编解码器的性能差异是非常重要的。以下是 LDAC 与其他常见编解码器的对比：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;strong&gt;SBC&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;传输速率&lt;/strong&gt;：最高 328 kbps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音质&lt;/strong&gt;：一般&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;延迟&lt;/strong&gt;：较高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用场景&lt;/strong&gt;：基础音频传输&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;AAC&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;传输速率&lt;/strong&gt;：最高 250 kbps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音质&lt;/strong&gt;：中等&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;延迟&lt;/strong&gt;：中等&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用场景&lt;/strong&gt;：适用于 iOS 设备&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;aptX&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;传输速率&lt;/strong&gt;：最高 352 kbps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音质&lt;/strong&gt;：中等偏上&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;延迟&lt;/strong&gt;：较低&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用场景&lt;/strong&gt;：适用于 Android 设备&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;strong&gt;LDAC&lt;/strong&gt;：&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;传输速率&lt;/strong&gt;：最高 990 kbps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;音质&lt;/strong&gt;：高&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;延迟&lt;/strong&gt;：低&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;使用场景&lt;/strong&gt;：高品质音频传输&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;通过以上对比可以看出，LDAC 在传输速率和音质方面具有明显的优势，特别适合对音质有较高要求的用户。&lt;/p&gt;
+&lt;h2&gt;硬件要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;兼容 LDAC 协议的蓝牙耳机或音响&lt;/li&gt;
+&lt;li&gt;支持 LDAC 的蓝牙适配器，拼多多十来块钱的就可以&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;软件要求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS 的虚拟机软件：Paralles Desktop&lt;/li&gt;
+&lt;li&gt;支持 LDAC 的第三方软件或插件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;实际应用&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;调优后有 1s 左右的播放延迟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;优缺点分析&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;高品质音频体验的优势&lt;/li&gt;
+&lt;li&gt;占用宿主机一定的 cpu 和内存&lt;/li&gt;
+&lt;li&gt;每次需要从 Linux 中连接蓝牙设备&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 06 Aug 2024 11:52:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063025#reply0</guid></item><item><title>[上海] 碰到这种情况👮🏻让去线下配合说明，要去吗</title><link>https://www.v2ex.com/t/1063024#reply7</link><description>事情是这样的，坐标上海，年初想申请个居住证，找租房的中介（我们是跟链家签的合同，链家跟房东签）&lt;br /&gt;他发了我们一个网签备案，这个租赁备案跟我们实际居住地址不一样（第一次申请也不懂，不然也没后续这档子事了）&lt;br /&gt;今天👮🏻打电话问：你在这居住了吗，你不是在 xxx 小区住吗&lt;br /&gt;我答：之前住过现在搬走了&lt;br /&gt;然后👮🏻不依不饶让去线下配合说明情况，说让我考虑清楚，不去他们就来找😂&lt;br /&gt;&lt;br /&gt;v 友们这种情况要去吗，搜小红薯说去了就是做笔录然后治安处罚&lt;br /&gt;准备申请居住证的小伙伴一定要注意</description><pubDate>Tue, 06 Aug 2024 11:51:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063024#reply7</guid></item><item><title>[程序员] 怎么快速的将简单的设计转为 HTML？ GPT 完全不能胜任！</title><link>https://www.v2ex.com/t/1063023#reply12</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;手里有一些零零散散的工作。&lt;strong&gt;都是用 Python 不同脚本完成&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;可以抽象的、简单的类比成，就例如 PDF 转换、分割、合并等操作。&lt;/p&gt;
+&lt;p&gt;（只是说可以这么理解，实际就是不同的任务，不同脚本执行罢了）&lt;/p&gt;
+&lt;p&gt;虽然我已经将相关脚本转换为一个脚本，从命令行就能调用。&lt;/p&gt;
+&lt;p&gt;但是总归还是有点繁琐（包括每次各种路径、参数等设置）&lt;/p&gt;
+&lt;p&gt;所以如果用一个网页版，点击就操作不是降低工作量了？&lt;/p&gt;
+&lt;h2&gt;想法&lt;/h2&gt;
+&lt;p&gt;这理论上应该不难吧，这肯定不难！&lt;/p&gt;
+&lt;p&gt;其实就是网页上，放置一些按钮，点击不同按钮执行不同的脚本罢了&lt;/p&gt;
+&lt;p&gt;通过和 GPT4 对话，很快的就用 Flask 实现了最小单元的功能。&lt;/p&gt;
+&lt;p&gt;就是页面上两个按钮，上传文件再下载文件，这并不困难。&lt;/p&gt;
+&lt;p&gt;但是问题是「太丑了」，具体的我做了挺多尝试&lt;/p&gt;
+&lt;h3&gt;1 、直接让 GPT 发挥 ❎&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;我尝试过，让他美化页面，但是完全让 GPT 自己去规划，结果和想要的天差地别。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;并且，虽然我不是专业的前端，但是我也能看出来，他写出来的 html 代码，是机器不规范的。&lt;/p&gt;
+&lt;p&gt;并且多交流几轮，可能每次返回的代码，都和之前的差太多。有时候突然样式全部没有了。&lt;/p&gt;
+&lt;p&gt;所以如果纯交给 GPT ，我觉得解决肯定能解决，但是返回的页面，我感觉比大学生作业都简陋。&lt;/p&gt;
+&lt;h3&gt;2 、告诉 GPT 怎么写 ❎❎&lt;/h3&gt;
+&lt;p&gt;我再尝试，和他描述清楚，需要几个几个按钮，都在哪里。&lt;/p&gt;
+&lt;p&gt;很遗憾，这样更不行，GPT 似乎很难完全理解你（个人感觉如果我交代事情，会尽可能说的比较详细）&lt;/p&gt;
+&lt;p&gt;而且调整样式，似乎用文字也很难描述&lt;/p&gt;
+&lt;h3&gt;3 、画个原型图给 GPT ❎❎❎&lt;/h3&gt;
+&lt;p&gt;又尝试，把我想要的文本、按钮，大概放在页面的什么位置。&lt;/p&gt;
+&lt;p&gt;在白板上画好，给 GPT4 ，结果依旧是十分崩溃的&lt;/p&gt;
+&lt;h3&gt;4 、直接给目标页面给 GPT ❎❎❎❎&lt;/h3&gt;
+&lt;p&gt;实在受不了了，我直接找了几个我期望实现的页面，发给 GPT 让他仿照着给我一个可以实现类似效果的代码。&lt;/p&gt;
+&lt;p&gt;然后我再魔改，因为之前搭建个人 wiki 或者 blog ，找个模板爆改还是可以的。&lt;/p&gt;
+&lt;p&gt;具体的，我很难描述，大家看图吧，下面是我让他实现的目标页面（想着先来个简单的）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic.liuzaoqi.com/picgo/202408061941688.png" /&gt;&lt;/p&gt;
+&lt;p&gt;下面是 GPT4 返回代码的效果&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic.liuzaoqi.com/picgo/202408061942807.png" /&gt;&lt;/p&gt;
+&lt;p&gt;怎么说呢，就问你有没有实现把，理论上我只要用 flask 给每个按钮的功能绑定一下，就完事了&lt;/p&gt;
+&lt;p&gt;但这玩意吧，我都不好意思拿出来&lt;/p&gt;
+&lt;h3&gt;5 、自己学吧&lt;/h3&gt;
+&lt;p&gt;自己搜了些，html 的布局教程，怎么说呢，到不说跨技术栈如隔山。&lt;/p&gt;
+&lt;p&gt;就是什么 grid ，container 什么的，我能大概明白是啥，但让我从 0 开始写，我很难写出来。&lt;/p&gt;
+&lt;h3&gt;6 、其他拖拉拽的在线零代码工具&lt;/h3&gt;
+&lt;p&gt;感觉是图一乐&lt;/p&gt;
+&lt;h2&gt;疑问&lt;/h2&gt;
+&lt;p&gt;现在的疑问是&lt;/p&gt;
+&lt;p&gt;1 、我的方向应该没错吧，我觉得这么简单的一个页面的设计（最多加一个使用说明页面），用不到什么 vue/react 等，就 html+css 就完全 ok 了把&lt;/p&gt;
+&lt;p&gt;2 、像这种，单个页面，没有复杂设计，就是一个 header （上面几个按钮），然后中间是一些文本、按钮的排列（这里的排列希望能美观一些，我可以自己在纸上画出来）&lt;strong&gt;有没有什么比较好用的工具生成 html 和 css 。或者是比较好的教程，可以快速上手的？&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 11:50:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063023#reply12</guid></item><item><title>[程序员] spider 项目，有时间的来</title><link>https://www.v2ex.com/t/1063022#reply0</link><description>&lt;p&gt;稳定 spider 项目，小语种网站。每个项目 700-1500.会 python 的优先
+加 V  b2tscWF6X2JhbmU=&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 11:46:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063022#reply0</guid></item><item><title>[问与答] 请问有管理 Github Star 的工具吗， Windows 平台或者网页端</title><link>https://www.v2ex.com/t/1063020#reply0</link><description>&lt;p&gt;之前一直用 astralapp 打 tag ，最近几天都打不开，好像是挂了&lt;/p&gt;
+&lt;p&gt;最好能自己部署的，或者有什么其他工具管理&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 11:31:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063020#reply0</guid></item><item><title>[分享创造] 再更新，小程序反编译工具 KillWxapkg v2.2.0，支持 Hook，微信开发者工具运行，二次打包</title><link>https://www.v2ex.com/t/1063018#reply0</link><description>&lt;p&gt;详情可看，前一个帖子：&lt;a href="https://www.v2ex.com/t/1062472" rel="nofollow"&gt;https://www.v2ex.com/t/1062472&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;仓库地址：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/Ackites/KillWxapkg" rel="nofollow"&gt;https://github.com/Ackites/KillWxapkg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新增如下功能：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hook 小程序，动态调试，开启小程序 F12&lt;/li&gt;
+&lt;li&gt;
+反编译后可重新打包 wxapkg ，可修改小程序代码&lt;ul&gt;
+&lt;li&gt;监听将要打包的文件夹，并自动打包&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Tue, 06 Aug 2024 11:26:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063018#reply0</guid></item><item><title>[酷工作] [WXG] [微信支付前端] [2025 应届校招] 简历投过来~</title><link>https://www.v2ex.com/t/1063017#reply2</link><description>&lt;p&gt;微信支付前端团队招聘实习生，团队直招。&lt;/p&gt;
+&lt;p&gt;之前面试过被挂了的不要紧，我们会看下面评再考虑是否再给面试机会！
+如果对其他家 offer 不满意的话，也可以来试一试。&lt;/p&gt;
+&lt;p&gt;WXG 的待遇 DDDD&lt;/p&gt;
+&lt;p&gt;邮箱投递⬇️
+amF6ejU3NjdAZm94bWFpbC5jb20=&lt;/p&gt;
+&lt;p&gt;公司邮箱不便直接透露，如果需要确认公司邮箱才愿意投递简历的话，可以邮件沟通😊&lt;/p&gt;
+&lt;p&gt;base 深圳 腾讯总部&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 11:22:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063017#reply2</guid></item><item><title>[电影] 你觉得剧情很反转的一部电影</title><link>https://www.v2ex.com/t/1063013#reply24</link><description>&lt;p&gt;我先来《看不见的客人》&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:41:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063013#reply24</guid></item><item><title>[Google Play] 代码授权做定制开发上架谷歌 play 商店因账号关联封号。</title><link>https://www.v2ex.com/t/1063012#reply0</link><description>&lt;p&gt;代码授权做定制开发上架谷歌 play 商店，也不是马甲包，这种产品应该如何操作上架，才不会被因账号关联封号？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:39:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063012#reply0</guid></item><item><title>[Apple] 为什么做 AirDrop 的人还在做 AirDrop？</title><link>https://www.v2ex.com/t/1063011#reply15</link><description>&lt;p&gt;目前情况下，苹果 airdop 应该是它整个生态里做的最差的功能。localsend 一个第三方 app 都比它好多了。&lt;/p&gt;
+&lt;p&gt;但是似乎这么多版本更新了，高层毫不在意，做 airdrop 的人还在做 airdrop ，这是不是大公司的通病呢？&lt;/p&gt;
+&lt;p&gt;难怪巴菲特要减持 50%的苹果仓位，应该是被 airdrop 恶心到了吧。。。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:34:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063011#reply15</guid></item><item><title>[生活] 问一下你们七夕都给女朋友送什么礼物啊？</title><link>https://www.v2ex.com/t/1063010#reply9</link><description>&lt;p&gt;突然发现七夕要到了，你们都给女朋友准备了什么礼物啊，感觉好难选&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:28:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063010#reply9</guid></item><item><title>[随想] 一代人有一代人的...</title><link>https://www.v2ex.com/t/1063009#reply0</link><description>70 后打字喜欢用手写，8090 习惯用九宫格，00 后喜欢 26 键，还有更多这样的现象吗？</description><pubDate>Tue, 06 Aug 2024 10:10:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063009#reply0</guid></item><item><title>[职场话题] 求助，找不到工作了，朋友们</title><link>https://www.v2ex.com/t/1063008#reply11</link><description>&lt;p&gt;坐标西南柬埔寨 成都 21 届 双非本科
 毕业后就去了一家所谓国企供应商干了 2 年多才 9k ，钱没有，技术没学到，一直 springboot+vue2 的 crud 当混子。
 年初辞职了，然后 gap 了几个月一直找不到，尽是外包。有面试也没拿到 offer ，平常积累不够。
-假如去上海，有公司会要吗，大概能拿多少😭&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063008#reply7</guid></item><item><title>[程序员] wsl 终端移动光标导致下方字符错位覆盖，这个有办法解决吗？</title><link>https://www.v2ex.com/t/1063007#reply0</link><description>&lt;p&gt;最近切到 win 开发，看着怪不舒服的。。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:56:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063007#reply0</guid></item><item><title>[问与答] 问一个写日记的矛盾的问题</title><link>https://www.v2ex.com/t/1063006#reply2</link><description>&lt;p&gt;日记主要写给自己看的，但有个矛盾的点就是有时写下来，不想被别人看到，但写出来了，就存在着被别人看到的可能性（尤其是纸写）。&lt;/p&gt;
-&lt;p&gt;各位怎么看待和处理的。&lt;/p&gt;
-&lt;p&gt;顺带提一下，以前写不觉得流水账好，但现在就喜欢记录流水账，详细的记录某个时间节点做了什么事情，一些过程。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:51:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063006#reply2</guid></item><item><title>[问与答] 主机配置推荐</title><link>https://www.v2ex.com/t/1063005#reply1</link><description>英特尔 i5-12600KF 主机&lt;br /&gt;&lt;br /&gt;[CPU] 英特尔 i5-12600KF  ¥1149 @京东&lt;br /&gt;&lt;br /&gt;[主板] 华硕 TX GAMING B760M WIFI  ¥1249 @京东&lt;br /&gt;&lt;br /&gt;[显卡] 铭瑄 RTX 4070Super12G 独立电脑机设计办公高性能 DLSS3 台式白色游戏 RTX4070Super 瑷珈 OC12G  ¥5599 @京东&lt;br /&gt;&lt;br /&gt;[内存] 金百达 32GB(16GBX2) DDR5 5600 银爵  ¥599 @京东&lt;br /&gt;&lt;br /&gt;[硬盘] 宏碁掠夺者 2TB GM7 系列｜ PCIe 4.0  ¥869 @京东&lt;br /&gt;&lt;br /&gt;[电源] 鑫谷 PM750W 白金全模组 白色  ¥479 @京东&lt;br /&gt;&lt;br /&gt;[散热] 利民 PA120 SE WHITE ARGB  ¥164 @京东&lt;br /&gt;&lt;br /&gt;[机箱] 爱国者 星璨 岚 白色  ¥329 @京东&lt;br /&gt;&lt;br /&gt;兄弟们帮忙看看这个配置有没有问题</description><pubDate>Tue, 06 Aug 2024 09:49:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063005#reply1</guid></item><item><title>[程序员] 调个前端布局遇到个问题请教大家</title><link>https://www.v2ex.com/t/1063004#reply11</link><description>&lt;p&gt;我希望初始状态（没有 js 干预）下 textarea 高度撑满父容器，发现父容器始终比 textarea 高 6px ，看 padding ，margin 啥的都没有，就是下方比 textarea 多出来 6px ，请教大神解惑啊&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2Dj4cjv.png" /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    textarea {
-      height: 100%;
-      line-height: normal;
-      box-sizing: border-box;
-    }
-
-    .d {
-      background-color: #c26bea;
-      padding: 0;
-    }
-    
-    &amp;lt;div class="d"&amp;gt;
-      &amp;lt;textarea placeholder="输入提示词"&amp;gt;&amp;lt;/textarea&amp;gt;
-    &amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;完整代码&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/ygcaicn/87d92872cc1bd8018d95e4de4e17d55b/raw/e76d330a7cbeb0cfc1061d60d0bae5c511290b1c/test.html" rel="nofollow"&gt;https://gist.githubusercontent.com/ygcaicn/87d92872cc1bd8018d95e4de4e17d55b/raw/e76d330a7cbeb0cfc1061d60d0bae5c511290b1c/test.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:44:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063004#reply11</guid></item><item><title>[问与答] 为什么央视网刊登的赛事摄影也要打上『视觉中国』的水印？</title><link>https://www.v2ex.com/t/1063003#reply1</link><description>&lt;p&gt;&lt;a href="https://sports.cctv.com/2024/08/06/ARTIQUlIYIQQ8jLp1reXiitU240806.shtml" rel="nofollow"&gt;https://sports.cctv.com/2024/08/06/ARTIQUlIYIQQ8jLp1reXiitU240806.shtml&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:43:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063003#reply1</guid></item><item><title>[问与答] 牙齿上有黑线， 要去补，请问去哪？</title><link>https://www.v2ex.com/t/1063002#reply1</link><description>&lt;p&gt;去牙防所，还是三甲医院？
-大概什么价位？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:42:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063002#reply1</guid></item><item><title>[问与答] 30U 付费求教，什么工具可以将机场线路，同时生成多个 socks5 代理，供本地设备使用</title><link>https://www.v2ex.com/t/1063001#reply4</link><description>所有现成的代理工具似乎都只能有一个 socks5 连接。但是我有个服务在局域网的 10 个设备上跑，我希望有个 server 可以将我机场的不同线路，同时生成不同的 socks5 代理，同时提供给局域网的 10 个设备使用&lt;br /&gt;&lt;br /&gt;联系 TG： &lt;a href="https://t.me/skywo0" rel="nofollow noopener" target="_blank"&gt;https://t.me/skywo0&lt;/a&gt;</description><pubDate>Tue, 06 Aug 2024 09:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063001#reply4</guid></item><item><title>[问与答] 你们的公司会提供正版生产软件吗？</title><link>https://www.v2ex.com/t/1063000#reply13</link><description>&lt;p&gt;鄙人在一家小型软件公司上班
-前不久公司通知说不能用盗版软件
-从事 Java 开发的只能用 idea 社区版（功能严重阉割）
-很多同事无奈只能自费购买正版的 idea
-询问了周边的朋友，要么公司没做限制，要么是用盗版，很少听到有提供正版生产软件的
-为啥这些企业不采购这些正版授权呢&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063000#reply13</guid></item><item><title>[分享创造] eno-music 在 V2EX 用户突破 1000 了, 并且真的有人在一直用,我好开心🥹🥹</title><link>https://www.v2ex.com/t/1062999#reply4</link><description></description><pubDate>Tue, 06 Aug 2024 09:31:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062999#reply4</guid></item><item><title>[程序员] 求好看的 next js 网站模板</title><link>https://www.v2ex.com/t/1062998#reply0</link><description>&lt;p&gt;现在准备做一个 ai 工具网站，求大佬们推荐 next js 模板，要求集成了登录、用户管理、功能页面、支付等&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:24:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062998#reply0</guid></item><item><title>[问与答] 最里面一颗牙齿快没了，全部变黑，该怎么处理？</title><link>https://www.v2ex.com/t/1062997#reply8</link><description>估计是细菌感染，但是没有痛感</description><pubDate>Tue, 06 Aug 2024 09:23:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062997#reply8</guid></item><item><title>[酷工作] 上海南京西路 web3 公司招聘测试</title><link>https://www.v2ex.com/t/1062996#reply0</link><description>&lt;p&gt;职责:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;设计、编写和执行测试用例，确保支付系统在各种条件下的正确性和稳定性。&lt;/li&gt;
-&lt;li&gt;开发和维护测试脚本和工具，用于执行集成、系统和性能测试。&lt;/li&gt;
-&lt;li&gt;分析和报告支付交易数据，确保交易过程的准确性和可追溯性。&lt;/li&gt;
-&lt;li&gt;协作与开发团队和产品团队，识别和解决系统中的问题和缺陷。&lt;/li&gt;
-&lt;li&gt;进行安全性测试，确保支付信息的保护和安全传输。
-要求:&lt;/li&gt;
-&lt;li&gt;计算机科学、工程，数学或相关领域的学士学位。&lt;/li&gt;
-&lt;li&gt;3 年以上测试经验，有支付系统测试经验，熟悉支付流程和相关模块优先。&lt;/li&gt;
-&lt;li&gt;熟悉测试工具和框架，如 Selenium 、JMeter 等，。&lt;/li&gt;
-&lt;li&gt;具备 SQL 和数据库测试经验，能够编写和执行 SQL 查询以验证数据完整性。&lt;/li&gt;
-&lt;li&gt;出色的分析和问题解决能力，能够迅速定位和修复问题。&lt;/li&gt;
-&lt;li&gt;良好的沟通能力和团队合作精神，能够与多个利益相关者有效地交流和合作。
-加分项:&lt;/li&gt;
-&lt;li&gt;熟悉云支付解决方案（如支付宝、微信支付等）。&lt;/li&gt;
-&lt;li&gt;有金融领域的测试经验，理解金融交易的特殊性和安全性需求。&lt;/li&gt;
-&lt;li&gt;具备自动化测试经验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;有意联系 &lt;a href="mailto:symsyn1@hotmail.com"&gt;symsyn1@hotmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:23:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062996#reply0</guid></item><item><title>[问与答] 27 岁近视了，接受不了</title><link>https://www.v2ex.com/t/1062995#reply18</link><description>事情是这样的，从年后开始，眼睛用久了就有点不舒服,以为是用眼过度就没当回事&lt;br /&gt;（视力一直很好，上学到工作后怎么作都没事），&lt;br /&gt;直到最近，走在路上看不清人脸，距离一超过 2 米，就开始模糊了，&lt;br /&gt;上周终于去三甲检查了下，结果：左右裸眼 0.3 ，近视度数 100 多度，调节不足，外隐斜。。。&lt;br /&gt;说实话，当时心里没接受了，医生说这个情况需要配镜和视功能训练，我婉拒准备再换家医院查查，回来之后慢慢才承认这个事实，下周末去再找一家医院看看。&lt;br /&gt;&lt;br /&gt;第一次近视，没啥经验，有些常识性问题：&lt;br /&gt;1.这个眼镜非戴不可吗？我这个情况不戴严重么？&lt;br /&gt;2.戴了后，除了手术，这辈子是不就摘不掉了？&lt;br /&gt;3.视功能训练有做过的有用吗？机器挺贵，一个疗程 2000 多，买的话 5000 多？&lt;br /&gt;4.近视验光、配眼镜等事情有哪些潜规则？有没有坑？&lt;br /&gt;&lt;br /&gt;有些东西，失去了才会觉得珍惜。。。</description><pubDate>Tue, 06 Aug 2024 09:17:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062995#reply18</guid></item><item><title>[Surge] 出新买的 Surge Mac 车位</title><link>https://www.v2ex.com/t/1062994#reply1</link><description>Surge for Mac(5 车位版)，自用 2 个，剩 3 个车位，￥ 145/位，中途跳车不退，换设备自行反激活&lt;br /&gt;&lt;br /&gt;授权终身有效，如有新的版本，后续可与车友协商升级。拉微信群保持联系 WX:WUNoZW5nLTExMDI=</description><pubDate>Tue, 06 Aug 2024 09:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062994#reply1</guid></item><item><title>[宽带症候群] 公司用的代理，入口服务器地址在大陆</title><link>https://www.v2ex.com/t/1062993#reply1</link><description>入口服务器在大陆，然后通过专线到香港服务器，香港服务器有 squid 正向代理。供应商说专线这段路是不会被 GFW 侦测的。那么公司到大陆入口地址这段路会被侦测吗？&lt;br /&gt;&lt;br /&gt;公司到大陆入口服务器应该不会经过 GFW ，有没有其它可能的检测手段。因为 squid 使用简单的 connect method 进行代理，感觉很容易就能知道我实际访问的网址了</description><pubDate>Tue, 06 Aug 2024 09:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062993#reply1</guid></item><item><title>[北京] 有单人参加 2024 Google 开发者大会的同学吗？</title><link>https://www.v2ex.com/t/1062992#reply2</link><description>&lt;p&gt;要不要组队？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:13:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062992#reply2</guid></item><item><title>[求职] 求职一个 web 前端工作</title><link>https://www.v2ex.com/t/1062991#reply3</link><description>&lt;p&gt;工作 8 年 带领过团队 长期参与在 B 、C 端业务，对于编码规范 工程手段 端对端的交付有丰富经验
-曾经任职在武汉腾讯云 作业帮等公司
-技术站这里:vue react nodeis qo 等语言都有相关的开发经验。
-有武汉的岗位可以联系哈我 感谢各位兄弟们
-也可以接受远程办公
-微信:HL_LX_BEST&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:13:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062991#reply3</guid></item></channel></rss>
+假如去上海，有公司会要吗，大概能拿多少😭&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063008#reply11</guid></item></channel></rss>
