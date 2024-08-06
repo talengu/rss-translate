@@ -1,254 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 06 Aug 2024 07:53:52 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 新手求推荐 NAS</title><link>https://www.v2ex.com/t/1062959#reply5</link><description>小白，想给家人备份手机照片用。希望每个人都可以局域网备份、手机上查看，最好有用户权限控制。&lt;br /&gt;&lt;br /&gt;最好能投屏到电视上。&lt;br /&gt;&lt;br /&gt;app 简洁，广告少点（吐槽萤石，广告太多太复杂，点赞石头科技）&lt;br /&gt;&lt;br /&gt;硬盘可扩展（一般是机械还是固态好？照片啥的是不是机械就够？）&lt;br /&gt;&lt;br /&gt;性能好，容量大，便宜😂（我也不知道该多少钱，我打算千八百块解决）&lt;br /&gt;&lt;br /&gt;推荐品牌的吧，diy 是不是很麻烦？（ diy 是还需要装系统啥的吗？带 app 吗？）&lt;br /&gt;&lt;br /&gt;感谢！</description><pubDate>Tue, 06 Aug 2024 07:43:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062959#reply5</guid></item><item><title>[前端开发] 小程序解码 AAC 流</title><link>https://www.v2ex.com/t/1062958#reply0</link><description>请问个问题，我用 websocket 从网络接收 FLV 流，准备把 FLV 流先解析出 AAC 数据（已实现），然后播放该 AAC 数据，但是小程序不支持播放 AAC 帧数据，只支持网络流或者文件，请问有什么办法能播放吗？或者解码成 PCM 数据来播放，但没找到对应 API ，请问有更好的办法吗？</description><pubDate>Tue, 06 Aug 2024 07:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062958#reply0</guid></item><item><title>[问与答] 想给宝宝买保险，不知道买什么样的，请各位让我抄下作业。</title><link>https://www.v2ex.com/t/1062957#reply3</link><description></description><pubDate>Tue, 06 Aug 2024 07:36:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062957#reply3</guid></item><item><title>[程序员] springboot 中如何把 map 直接入库</title><link>https://www.v2ex.com/t/1062956#reply9</link><description>就是说不写 entity&lt;br /&gt;一个 map ，key 就是字段，映射入库&lt;br /&gt;这样，就不用每次都写一个 entity 去一一映射，对于那种有大量字段的表，可以省不少事情&lt;br /&gt;请问一下，有没有啥框架支持这种方式啊，谢谢</description><pubDate>Tue, 06 Aug 2024 07:30:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062956#reply9</guid></item><item><title>[生活] 求助，空调滴水</title><link>https://www.v2ex.com/t/1062955#reply5</link><description>&lt;p&gt;空调不知道什么时候就开始滴水了，床都湿了。开的 22 度。
-奇怪的是，关了一会再打开，就不滴水了。23 度开了一晚也没事。
-请问大家这是什么情况，怎么方便的解决？
-注：租的房。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 07:23:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062955#reply5</guid></item><item><title>[程序员] 前端做记住密码功能，如何保证安全性？</title><link>https://www.v2ex.com/t/1062954#reply9</link><description></description><pubDate>Tue, 06 Aug 2024 07:22:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062954#reply9</guid></item><item><title>[问与答] 有没有便捷的电脑软件、数据资料迁移方法</title><link>https://www.v2ex.com/t/1062953#reply1</link><description>最近搬新家，装了台式机。问题来了，有什么办法可以快速地将笔记本上的软件、设置以及资料等等快速同步到新电脑上。&lt;br /&gt;&lt;br /&gt;原来的笔记本电脑是 Win10 系统，新电脑系统是 Win11 。不知道 Windows 系统有没有类似于 Android 手机那样的一键换机功能，各位老铁有没有好的办法？</description><pubDate>Tue, 06 Aug 2024 07:18:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062953#reply1</guid></item><item><title>[HTTP] 明御 WEB 应用防火墙 如何找回密码？</title><link>https://www.v2ex.com/t/1062952#reply0</link><description>&lt;p&gt;明御 WEB 应用防火墙，装在一个 centos 上，知道操作系统的 root 密码，但是不知道 waf 的管理员账号密码。
-请问如何找回密码？或者重设密码？&lt;/p&gt;
-&lt;p&gt;另外，有人知道这 waf 的授权绑定硬件吗？现在需要迁移虚拟机，迁移后需要重新授权吗？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 07:15:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062952#reply0</guid></item><item><title>[投资] 交流一下如何通过市盈率评估一支股票的实际价值</title><link>https://www.v2ex.com/t/1062951#reply3</link><description>&lt;p&gt;炒美股“不需要技术”，一直凭直觉买，&lt;br /&gt;
-最近在研究如何计算一支股票的实际价值，不知道有没有大佬研究，请教一下&lt;/p&gt;
-&lt;h4&gt;用市盈率（ PE Ratio ）衡量股票估值的方法计算&lt;/h4&gt;
-&lt;p&gt;市盈率= 股票价格/每股收益&lt;/p&gt;
-&lt;h4&gt;富途股票 APP 显示：&lt;/h4&gt;
-&lt;p&gt;特斯拉市盈率市盈率（ TTM ）是：51.22  &lt;br /&gt;
-特斯拉市盈率市盈率（静）是：46.25 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;计算依据&lt;/strong&gt;
-市盈率（ TTM ）：是“过去 12 个月”的市盈率，计算时使用的是过去 12 个月的每股收益数据。你提供的是“稀释每股收益”，可能是最新的季度数据，市盈率 TTM 会根据全年数据计算得出，通常会比较低。&lt;/p&gt;
-&lt;p&gt;市盈率（静）：是“静态市盈率”，可能是基于预期收益或者未来 12 个月的收益预测。这个数据可能会因为不同的预测模型或预期收益不同而有所差异。&lt;/p&gt;
-&lt;h4&gt;问题&lt;/h4&gt;
-&lt;p&gt;1.从市盈率角度来说预估未来会下跌？&lt;br /&gt;
-2.大家对市盈率的参考多吗？想了解参考人群对这个指标的经验和理解。
-&lt;br /&gt;
-谢谢&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 07:14:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062951#reply3</guid></item><item><title>[OpenAI] 如何安全稳定的使用 ChatGPT4，不 ban 不封</title><link>https://www.v2ex.com/t/1062950#reply0</link><description>ChatGPT 作为当下最为强大的人工智能大模型，每一次更新都能掀起各界人士的广泛关注。&lt;br /&gt;&lt;br /&gt;但是因为种种原因，ChatGPT 的使用确是一大难题，很多人都在注册、支付等环节碰到了种种阻碍，如果你已经成功升级了 ChatGPT4 ，这样使用能最大限度的保证你的账号安全：&lt;br /&gt;&lt;br /&gt;1.保持网络稳定：&lt;br /&gt;在使用 ChatGPT 时，需要确保网络环境安全稳定。建议使用加密通信协议，确保数据传输过程中的安全性，同时在代理的选择上也需要做足功夫，需要选择稳定的动态住宅 ip 进行登陆，这样能最大限度保证不被 OpenAI 风控。&lt;br /&gt;&lt;br /&gt;2.适度频率使用：&lt;br /&gt;这条建议仅限于 API 接口的使用者，长时间、高频次、大流量的使用 API 接口会给账号带来非常大的封号风险，起因是全球有很多企业都在使用 ChatGPT 的 API 来跑自己的程序或模型。&lt;br /&gt;&lt;br /&gt;3.个人独享账号：&lt;br /&gt;无论对于何种账号来说，共享都是非常危险的，先抛开个人信息泄漏问题，仅仅一条常用 IP 地址切换就非常麻烦，一旦被监测，肯定会封号。</description><pubDate>Tue, 06 Aug 2024 07:10:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062950#reply0</guid></item><item><title>[酷工作] [远程][全职] 招聘 Web 前端工程师， JS 全栈工程师， JS 后端工程，服务运维工程师</title><link>https://www.v2ex.com/t/1062949#reply1</link><description>&lt;p&gt;&lt;a href="https://www.arcblock.io/content/docs/arcblock/zh/join-us" rel="nofollow"&gt;https://www.arcblock.io/content/docs/arcblock/zh/join-us&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;联系方式&lt;/h1&gt;
-&lt;p&gt;邮箱： &lt;a href="mailto:hr@arcblock.io"&gt;hr@arcblock.io&lt;/a&gt;
-微信：MTU4MDM1NjQ4MjE=&lt;/p&gt;
-&lt;h2&gt;WEB 前端工程师&lt;/h2&gt;
-&lt;h3&gt;岗位职责&lt;/h3&gt;
-&lt;p&gt;根据个人能力、兴趣可以选择参加下面的任意多项工作&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;设计和实现面向用户的产品功能，交付高质量的、用户体验流畅的 WEB 应用，甚至跨端应用&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Server 控制台功能的讨论、设计、实现和交付，提供完备的去中心化应用开发工作台&lt;/li&gt;
-&lt;li&gt;参与 WEB 版 DID 钱包的迭代，提供安全、高效、易用的 WEB 钱包服务，类似 Metamask&lt;/li&gt;
-&lt;li&gt;参与各去中心化应用的开发，比如 Blocklet Store 、区块浏览器 等现有模块和新项目&lt;/li&gt;
-&lt;li&gt;参与 ArcBlock UX Library 建设，构建体验优良的业务层组件库&lt;/li&gt;
-&lt;li&gt;优化所负责项目的代码覆盖率、交付流水线、自动化水平&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;岗位要求&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.arcblock.io/content/docs/arcblock/zh/web-front-end-engineer-career" rel="nofollow"&gt;https://www.arcblock.io/content/docs/arcblock/zh/web-front-end-engineer-career&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;JS 全栈工程师&lt;/h2&gt;
-&lt;h3&gt;岗位职责&lt;/h3&gt;
-&lt;p&gt;根据个人能力、兴趣可以选择参加下面的任意多项工作&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;设计和实现面向用户的产品功能，交付高质量的、用户体验流畅的 WEB 应用，甚至跨端应用&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Server 内核功能、控制台功能的设计、实现和交付，确保高性能和安全性&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Launcher 功能的设计、实现、交付和稳定运维，将其扩展到更多的云平台上&lt;/li&gt;
-&lt;li&gt;参与 Blocklet SDK 的迭代、Blocklet Service 的设计和完善，提供高效的应用开发框架&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Store 的功能设计、实现和运维，支撑大规模的应用托管和分发&lt;/li&gt;
-&lt;li&gt;参与 DID Spaces 的功能设计、实现和服务运维，支撑大规模的数据托管以及和基础模块的集成&lt;/li&gt;
-&lt;li&gt;参与资产链及其 SDK 的开发迭代，协助改进链各层的性能、安全和可扩展性&lt;/li&gt;
-&lt;li&gt;参与各去中心化应用的端到端架构和支持，比如我们的 Rollup 解决方案&lt;/li&gt;
-&lt;li&gt;优化所负责项目的代码覆盖率、交付流水线、自动化水平&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;岗位要求&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.arcblock.io/content/docs/arcblock/zh/full-stack-js-engineer-career" rel="nofollow"&gt;https://www.arcblock.io/content/docs/arcblock/zh/full-stack-js-engineer-career&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;JS 后端工程师&lt;/h2&gt;
-&lt;h3&gt;岗位职责&lt;/h3&gt;
-&lt;p&gt;根据个人能力、兴趣可以选择参加下面的任意多项工作&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;设计和实现面向用户的产品功能，交付高质量的、高性能的、安全的后端服务&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Server 内核功能的讨论、设计、实现和交付，提供稳定、高性能的应用运行时&lt;/li&gt;
-&lt;li&gt;参与 Blocklet Launcher 功能的设计、实现、交付和稳定运维，将其扩展到更多的云平台上&lt;/li&gt;
-&lt;li&gt;参与 Blocklet SDK 的迭代、Blocklet Service 的设计和完善，提供高效的应用开发框架&lt;/li&gt;
-&lt;li&gt;参与资产链及其 SDK 的开发迭代，协助改进链各层的性能、安全和可扩展性&lt;/li&gt;
-&lt;li&gt;参与各去中心化应用的后端架构和支持，比如我们的 Rollup 解决方案&lt;/li&gt;
-&lt;li&gt;优化所负责项目的代码覆盖率、交付流水线、自动化水平&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;岗位要求&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.arcblock.io/content/docs/arcblock/zh/js-backend-engineer-career" rel="nofollow"&gt;https://www.arcblock.io/content/docs/arcblock/zh/js-backend-engineer-career&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;服务运维工程师&lt;/h2&gt;
-&lt;h3&gt;岗位职责&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;梳理和实施全面且自动化的线上服务数据收集、监控、报警流程&lt;/li&gt;
-&lt;li&gt;负责线上服务器中 Blocklet Server 的日常运维，比如升级、诊断&lt;/li&gt;
-&lt;li&gt;负责自动化、标准化的线上服务数据、团队代码和知识库备份&lt;/li&gt;
-&lt;li&gt;负责线上服务的日常安全防护，比如 SQL 注入、拒绝服务攻击等&lt;/li&gt;
-&lt;li&gt;负责为线上服务提供基础的数据、错误、日志采集服务，比如 Sentry&lt;/li&gt;
-&lt;li&gt;协助建设团队数据仪表盘，比如团队积分榜，需要有基本的应用开发能力&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;岗位要求&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.arcblock.io/content/docs/arcblock/zh/sre-jd" rel="nofollow"&gt;https://www.arcblock.io/content/docs/arcblock/zh/sre-jd&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;联系方式&lt;/h1&gt;
-&lt;p&gt;邮箱： &lt;a href="mailto:hr@arcblock.io"&gt;hr@arcblock.io&lt;/a&gt;
-微信：MTU4MDM1NjQ4MjE=&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 07:07:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062949#reply1</guid></item><item><title>[问与答] 有什么办法能让自己的身份信息无法被用来注册新手机号？</title><link>https://www.v2ex.com/t/1062948#reply16</link><description>公司想借用身份证用来办理手机号注册企微，有什么办法能让自己的身份信息无法被用来注册新手机号？</description><pubDate>Tue, 06 Aug 2024 07:05:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062948#reply16</guid></item><item><title>[VXNA] 申請收錄 https://beeeeemo.dev</title><link>https://www.v2ex.com/t/1062947#reply0</link><description>&lt;p&gt;Url: &lt;a href="https://beeeeemo.dev" rel="nofollow"&gt;https://beeeeemo.dev&lt;/a&gt;
-Rss: &lt;a href="https://beeeeemo.dev/index.xml" rel="nofollow"&gt;https://beeeeemo.dev/index.xml&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 07:02:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062947#reply0</guid></item><item><title>[深圳] 有什么比较好的成人乐器培训机构吗</title><link>https://www.v2ex.com/t/1062946#reply13</link><description>rt ，或者个人教学也可以。&lt;br /&gt;坐标宝安，想利用周日学学钢琴，兴趣为主，自娱自乐。</description><pubDate>Tue, 06 Aug 2024 07:00:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062946#reply13</guid></item><item><title>[Android] Android 平板求推荐</title><link>https://www.v2ex.com/t/1062945#reply11</link><description>&lt;p&gt;ipad 屏幕坏了之后 意识到苹果系统与我深深不兼容 所有想买一个 Android 平板 需求如下&lt;/p&gt;
-&lt;h3&gt;需求&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;屏幕素质好&lt;/li&gt;
-&lt;li&gt;最好支持&lt;strong&gt;Android 、（ Windows or Linux ）&lt;/strong&gt;系统，想把平板打造成编程生产力&lt;/li&gt;
-&lt;li&gt;能 root&lt;/li&gt;
-&lt;li&gt;价格三四千左右&lt;/li&gt;
-&lt;li&gt;手写笔方便&lt;/li&gt;
-&lt;li&gt;系统无广告 干净&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前看上了三星 galaxy tab s9 ，看别人测评说这款某些方面比得上 iPad ，但是价格有点贵，想看看 v 友们还有没有更好的推荐。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 06:58:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062945#reply11</guid></item><item><title>[分享创造] 落地页-出海赚钱、独立开发者、必需整个落地页、送一点给大家，攒攒人气</title><link>https://www.v2ex.com/t/1062943#reply6</link><description>&lt;p&gt;代码由自己抄 UI 而来，也有开源项目改动而来&lt;/p&gt;
-&lt;p&gt;预祝各位独立开发者出海顺利、赚的多多&lt;/p&gt;
-&lt;p&gt;后面会多多更新、有兴趣常来&lt;/p&gt;
-&lt;p&gt;地址： &lt;a href="https://aimodel.app/" rel="nofollow"&gt;https://aimodel.app/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="preview-05.png" class="embedded_image" rel="noreferrer" src="https://www.pnglog.com/EJafgK.png" /&gt;
-&lt;img alt="preview-04.png" class="embedded_image" rel="noreferrer" src="https://www.pnglog.com/2VyX32.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 06:53:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062943#reply6</guid></item><item><title>[程序员] [CodeGraph] 这样的代码可视化插件, 是你想要的吗?</title><link>https://www.v2ex.com/t/1062942#reply3</link><description>&lt;h3&gt;介绍&lt;/h3&gt;
-&lt;p&gt;不知道大家在看代码的时候是否有过这样的困扰?&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;看代码的时候忘记从哪里跳转过来的? 也不知道看了哪些部分? 需要反反复复倒退几遍才能有点印象&lt;/li&gt;
-&lt;li&gt;分析复杂函数时, 需要仔细浏览一遍代码才能找到关键调用链路?&lt;/li&gt;
-&lt;li&gt;当查看方法被哪些函数调用时, 好不容易把所有调用关系点了一遍, 发现还是脑子很乱, 还得再来一遍?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;为了解决上述这些困扰, 我开发了一款名为 code graph 的 jetbrains 插件, 可以实现将代码之间的调用关系可视化, 帮助我们更快更简单的阅读和理解代码.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/sdpGTCv.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
-&lt;p&gt;关键特性:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;代码和图双向联动. 在代码中跳转时, 调用图会自动联动, 反之依然. 在不破坏大家阅读代码习惯的基础上提供了可视化的能力.&lt;/li&gt;
-&lt;li&gt;代码访问路径高亮. 所有点击过的代码会在调用图中高亮显示, 让大家可以清晰的观察到哪些看过了哪些没看过.&lt;/li&gt;
-&lt;li&gt;强大的过滤能力. 帮助大家快速过滤掉一些大家不关心的节点或者是边, 从而让调用图更加清晰明了.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/f1ySndG.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Imgur" class="embedded_image" rel="noreferrer" src="https://imgur.com/LrPZ73i.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;安装&lt;/h3&gt;
-&lt;p&gt;在 Intellij IDEA 的插件市场搜索 “CodeGraph” 即可安装
-注意：目前仅支持 2022.3 及之后的版本&lt;/p&gt;
-&lt;h3&gt;用法&lt;/h3&gt;
-&lt;p&gt;找到需要生成调用关系图的方法, 点击鼠标右键, 选择 "Code Graph / Show Callee Graph For 'xxx'".&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;软件刚刚才发布出来，希望各位老铁们多提一些建议🤗️🤗️🤗️...&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 06:52:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062942#reply3</guid></item><item><title>[NAS] 需不需要一个 UPS，有好的推荐吗?</title><link>https://www.v2ex.com/t/1062941#reply10</link><description>黑群。&lt;br /&gt;现在是两块 4t 硬盘组 raid1 做备份，存照片，重要的东西。&lt;br /&gt;&lt;br /&gt;一块 16t 硬盘做影视盘，basic 无备份。&lt;br /&gt;&lt;br /&gt;之前停过几次电，没啥大问题，最近看帖子看得有点后怕，有必要入手 ups 吗？有啥好的 ups 推荐，上淘宝上看 ups 比我 nas 都大</description><pubDate>Tue, 06 Aug 2024 06:51:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062941#reply10</guid></item><item><title>[机械键盘] 月经， 2024 求一把紧凑键盘</title><link>https://www.v2ex.com/t/1062939#reply0</link><description>&lt;ol&gt;
-&lt;li&gt;紧凑型配列，比如 60 61 65 68 之类的。&lt;/li&gt;
-&lt;li&gt;价格在 300 左右，500 以内的。&lt;/li&gt;
-&lt;li&gt;在 Mac 下使用，Mac 下无硬伤。&lt;/li&gt;
-&lt;li&gt;希望声音小点的，或者支持换轴的。&lt;/li&gt;
-&lt;li&gt;最好支持 via 的。 希望是能 cap+wsad 能进行上下左右类似这样的功能。&lt;/li&gt;
-&lt;li&gt;键帽高度最好是原厂的，前阵子买了个 mda 高度的很不习惯。。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;5,6 两条非硬性要求。&lt;/p&gt;
-&lt;p&gt;感谢各位&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 06:42:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062939#reply0</guid></item><item><title>[前端开发] Q: 关于 nuxt3/nuxt3ui/@apollo_client/hasura 的一些问题？</title><link>https://www.v2ex.com/t/1062938#reply1</link><description>&lt;h1&gt;Intro&lt;/h1&gt;
-&lt;p&gt;无场景，就是做做看，试试 API 随便写写，现在有几个问题想请教各位仁兄&lt;/p&gt;
-&lt;h1&gt;Env&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;nuxt3&lt;/li&gt;
-&lt;li&gt;@nuxt/ui&lt;/li&gt;
-&lt;li&gt;@apollo/client&lt;/li&gt;
-&lt;li&gt;docker&lt;/li&gt;
-&lt;li&gt;docker - pgsql&lt;/li&gt;
-&lt;li&gt;docker - hasura&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;Code&lt;/h1&gt;
-&lt;h2&gt;Nitro&lt;/h2&gt;
-&lt;p&gt;现在我通过&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-import"&gt;
-export default defineNitroPlugin((nitroApp) =&amp;gt; {
-  const link = new HttpLink({
-    uri: 'http://localhost:8080/v1/graphql',
-    headers: {
-      'x-hasura-admin-secret': '123456'
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 06 Aug 2024 10:30:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[生活] 问一下你们七夕都给女朋友送什么礼物啊？</title><link>https://www.v2ex.com/t/1063010#reply0</link><description>&lt;p&gt;突然发现七夕要到了，你们都给女朋友准备了什么礼物啊，感觉好难选&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 10:28:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063010#reply0</guid></item><item><title>[随想] 一代人有一代人的...</title><link>https://www.v2ex.com/t/1063009#reply0</link><description>70 后打字喜欢用手写，8090 习惯用九宫格，00 后喜欢 26 键，还有更多这样的现象吗？</description><pubDate>Tue, 06 Aug 2024 10:10:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063009#reply0</guid></item><item><title>[职场话题] 求助，找不到工作了，朋友们</title><link>https://www.v2ex.com/t/1063008#reply7</link><description>&lt;p&gt;坐标西南柬埔寨 成都 21 届 双非本科
+毕业后就去了一家所谓国企供应商干了 2 年多才 9k ，钱没有，技术没学到，一直 springboot+vue2 的 crud 当混子。
+年初辞职了，然后 gap 了几个月一直找不到，尽是外包。有面试也没拿到 offer ，平常积累不够。
+假如去上海，有公司会要吗，大概能拿多少😭&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:58:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063008#reply7</guid></item><item><title>[程序员] wsl 终端移动光标导致下方字符错位覆盖，这个有办法解决吗？</title><link>https://www.v2ex.com/t/1063007#reply0</link><description>&lt;p&gt;最近切到 win 开发，看着怪不舒服的。。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:56:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063007#reply0</guid></item><item><title>[问与答] 问一个写日记的矛盾的问题</title><link>https://www.v2ex.com/t/1063006#reply2</link><description>&lt;p&gt;日记主要写给自己看的，但有个矛盾的点就是有时写下来，不想被别人看到，但写出来了，就存在着被别人看到的可能性（尤其是纸写）。&lt;/p&gt;
+&lt;p&gt;各位怎么看待和处理的。&lt;/p&gt;
+&lt;p&gt;顺带提一下，以前写不觉得流水账好，但现在就喜欢记录流水账，详细的记录某个时间节点做了什么事情，一些过程。&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:51:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063006#reply2</guid></item><item><title>[问与答] 主机配置推荐</title><link>https://www.v2ex.com/t/1063005#reply1</link><description>英特尔 i5-12600KF 主机&lt;br /&gt;&lt;br /&gt;[CPU] 英特尔 i5-12600KF  ¥1149 @京东&lt;br /&gt;&lt;br /&gt;[主板] 华硕 TX GAMING B760M WIFI  ¥1249 @京东&lt;br /&gt;&lt;br /&gt;[显卡] 铭瑄 RTX 4070Super12G 独立电脑机设计办公高性能 DLSS3 台式白色游戏 RTX4070Super 瑷珈 OC12G  ¥5599 @京东&lt;br /&gt;&lt;br /&gt;[内存] 金百达 32GB(16GBX2) DDR5 5600 银爵  ¥599 @京东&lt;br /&gt;&lt;br /&gt;[硬盘] 宏碁掠夺者 2TB GM7 系列｜ PCIe 4.0  ¥869 @京东&lt;br /&gt;&lt;br /&gt;[电源] 鑫谷 PM750W 白金全模组 白色  ¥479 @京东&lt;br /&gt;&lt;br /&gt;[散热] 利民 PA120 SE WHITE ARGB  ¥164 @京东&lt;br /&gt;&lt;br /&gt;[机箱] 爱国者 星璨 岚 白色  ¥329 @京东&lt;br /&gt;&lt;br /&gt;兄弟们帮忙看看这个配置有没有问题</description><pubDate>Tue, 06 Aug 2024 09:49:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063005#reply1</guid></item><item><title>[程序员] 调个前端布局遇到个问题请教大家</title><link>https://www.v2ex.com/t/1063004#reply11</link><description>&lt;p&gt;我希望初始状态（没有 js 干预）下 textarea 高度撑满父容器，发现父容器始终比 textarea 高 6px ，看 padding ，margin 啥的都没有，就是下方比 textarea 多出来 6px ，请教大神解惑啊&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2Dj4cjv.png" /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    textarea {
+      height: 100%;
+      line-height: normal;
+      box-sizing: border-box;
     }
-  });
-  const apolloClient = new ApolloClient({
-    cache: new InMemoryCache(),
-    link: link
-  });
-  nitroApp.hooks.hook('request', (event) =&amp;gt; {
-    event.context.apollo = apolloClient
-  })
-})
 
-------------------------Handler---------------------------------
-
-import { gql } from '@apollo/client/core'
-
-export default defineEventHandler(async (event) =&amp;gt; {
-  const client = event.context.apollo
-  const query = gql`
-    query getUser($limit: Int!) {
-      User(limit: $limit) {
-        id
-        name
-      }
-      User_aggregate {
-        aggregate {
-          count
-        }
-      }
+    .d {
+      background-color: #c26bea;
+      padding: 0;
     }
-  `
-  const { limit } = await readBody(event)
-  try {
-    const { data } = await client.query({ query, variables: { limit: 10 } })
-    return data
-  } catch (error) {
-    console.error('GraphQL query error:', error)
-    return { error: 'Failed to fetch data' }
-  }
-})
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;连接本地的 Hasura 服务，Hasura 是动态管理 GraphQL 的 Schema 的一个服务，这个服务我链接了 PGSQL ，具体的环境如下&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;version: '3.6'
-
-services:
-  postgres:
-    image: postgres:16.3
-    restart: always
-    environment:
-      POSTGRES_USER: root
-      POSTGRES_PASSWORD: root
-      POSTGRES_DB: rm00
-    ports:
-      - "5432:5432"
-    volumes:
-      - ./postgres:/var/lib/postgresql/data
-
-  hasura:
-    restart: always
-    image: hasura/graphql-engine:v2.15.2
-    ports:
-      - "8080:8080"
-    depends_on:
-      - postgres
-    environment:
-      HASURA_GRAPHQL_DATABASE_URL: postgres://root:root@postgres:5432/rm00
-      HASURA_GRAPHQL_ENABLE_CONSOLE: "true"
-      HASURA_GRAPHQL_ENABLE_ALLOWLIST: "true"
-      HASURA_GRAPHQL_ADMIN_SECRET: 123456
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;Nuxt 的前台&lt;/h2&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;template&amp;gt;
-  &amp;lt;div&amp;gt;
-    &amp;lt;h1&amp;gt;Login&amp;lt;/h1&amp;gt;
-    &amp;lt;div v-if="data"&amp;gt;
-      {{ data }}
+    
+    &amp;lt;div class="d"&amp;gt;
+      &amp;lt;textarea placeholder="输入提示词"&amp;gt;&amp;lt;/textarea&amp;gt;
     &amp;lt;/div&amp;gt;
-    {{ error }}
-  &amp;lt;/div&amp;gt;
-&amp;lt;/template&amp;gt;
-
-
-&amp;lt;script lang="ts" setup&amp;gt;
-
-definePageMeta({
-  layout: 'blank',
-  auth: 'guest'
-})
-
-const { data, error, execute } = useFetch('/api/demo', {
-  method: 'post',
-  auth: false
-})
-&amp;lt;/script&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;整个 demo 跑通了是跑通了，但是总觉得不是一个很好的方式或者说不成熟，现在有几个问题想请教请教大佬们&lt;/p&gt;
-&lt;h1&gt;Question&lt;/h1&gt;
+&lt;p&gt;完整代码&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/ygcaicn/87d92872cc1bd8018d95e4de4e17d55b/raw/e76d330a7cbeb0cfc1061d60d0bae5c511290b1c/test.html" rel="nofollow"&gt;https://gist.githubusercontent.com/ygcaicn/87d92872cc1bd8018d95e4de4e17d55b/raw/e76d330a7cbeb0cfc1061d60d0bae5c511290b1c/test.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:44:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063004#reply11</guid></item><item><title>[问与答] 为什么央视网刊登的赛事摄影也要打上『视觉中国』的水印？</title><link>https://www.v2ex.com/t/1063003#reply1</link><description>&lt;p&gt;&lt;a href="https://sports.cctv.com/2024/08/06/ARTIQUlIYIQQ8jLp1reXiitU240806.shtml" rel="nofollow"&gt;https://sports.cctv.com/2024/08/06/ARTIQUlIYIQQ8jLp1reXiitU240806.shtml&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:43:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063003#reply1</guid></item><item><title>[问与答] 牙齿上有黑线， 要去补，请问去哪？</title><link>https://www.v2ex.com/t/1063002#reply1</link><description>&lt;p&gt;去牙防所，还是三甲医院？
+大概什么价位？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:42:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063002#reply1</guid></item><item><title>[问与答] 30U 付费求教，什么工具可以将机场线路，同时生成多个 socks5 代理，供本地设备使用</title><link>https://www.v2ex.com/t/1063001#reply4</link><description>所有现成的代理工具似乎都只能有一个 socks5 连接。但是我有个服务在局域网的 10 个设备上跑，我希望有个 server 可以将我机场的不同线路，同时生成不同的 socks5 代理，同时提供给局域网的 10 个设备使用&lt;br /&gt;&lt;br /&gt;联系 TG： &lt;a href="https://t.me/skywo0" rel="nofollow noopener" target="_blank"&gt;https://t.me/skywo0&lt;/a&gt;</description><pubDate>Tue, 06 Aug 2024 09:38:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063001#reply4</guid></item><item><title>[问与答] 你们的公司会提供正版生产软件吗？</title><link>https://www.v2ex.com/t/1063000#reply13</link><description>&lt;p&gt;鄙人在一家小型软件公司上班
+前不久公司通知说不能用盗版软件
+从事 Java 开发的只能用 idea 社区版（功能严重阉割）
+很多同事无奈只能自费购买正版的 idea
+询问了周边的朋友，要么公司没做限制，要么是用盗版，很少听到有提供正版生产软件的
+为啥这些企业不采购这些正版授权呢&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:34:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1063000#reply13</guid></item><item><title>[分享创造] eno-music 在 V2EX 用户突破 1000 了, 并且真的有人在一直用,我好开心🥹🥹</title><link>https://www.v2ex.com/t/1062999#reply4</link><description></description><pubDate>Tue, 06 Aug 2024 09:31:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062999#reply4</guid></item><item><title>[程序员] 求好看的 next js 网站模板</title><link>https://www.v2ex.com/t/1062998#reply0</link><description>&lt;p&gt;现在准备做一个 ai 工具网站，求大佬们推荐 next js 模板，要求集成了登录、用户管理、功能页面、支付等&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:24:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062998#reply0</guid></item><item><title>[问与答] 最里面一颗牙齿快没了，全部变黑，该怎么处理？</title><link>https://www.v2ex.com/t/1062997#reply8</link><description>估计是细菌感染，但是没有痛感</description><pubDate>Tue, 06 Aug 2024 09:23:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062997#reply8</guid></item><item><title>[酷工作] 上海南京西路 web3 公司招聘测试</title><link>https://www.v2ex.com/t/1062996#reply0</link><description>&lt;p&gt;职责:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;关于 GraphQL 用于不用好用与不好用的问题暂且不讨论，这里就是要用&lt;/li&gt;
-&lt;li&gt;1.我试着使用 @nuxtjs/apollo ，但是 secret 会混入请求头也就是有注入风险，这里不明白这个 @nuxtjs/apollo 项目的用意，或者我应该配合 auth 使用？请问如何配合 auth 服务？&lt;/li&gt;
-&lt;li&gt;2.由于第一个问题我将查询写到了后台也就是 nitro 的 server 中，这样是否妥善？&lt;/li&gt;
-&lt;li&gt;3.有没有更好的方式，方案，能让我用 js/ts 走完整个开发流程？&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 06 Aug 2024 06:42:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062938#reply1</guid></item></channel></rss>
+&lt;li&gt;设计、编写和执行测试用例，确保支付系统在各种条件下的正确性和稳定性。&lt;/li&gt;
+&lt;li&gt;开发和维护测试脚本和工具，用于执行集成、系统和性能测试。&lt;/li&gt;
+&lt;li&gt;分析和报告支付交易数据，确保交易过程的准确性和可追溯性。&lt;/li&gt;
+&lt;li&gt;协作与开发团队和产品团队，识别和解决系统中的问题和缺陷。&lt;/li&gt;
+&lt;li&gt;进行安全性测试，确保支付信息的保护和安全传输。
+要求:&lt;/li&gt;
+&lt;li&gt;计算机科学、工程，数学或相关领域的学士学位。&lt;/li&gt;
+&lt;li&gt;3 年以上测试经验，有支付系统测试经验，熟悉支付流程和相关模块优先。&lt;/li&gt;
+&lt;li&gt;熟悉测试工具和框架，如 Selenium 、JMeter 等，。&lt;/li&gt;
+&lt;li&gt;具备 SQL 和数据库测试经验，能够编写和执行 SQL 查询以验证数据完整性。&lt;/li&gt;
+&lt;li&gt;出色的分析和问题解决能力，能够迅速定位和修复问题。&lt;/li&gt;
+&lt;li&gt;良好的沟通能力和团队合作精神，能够与多个利益相关者有效地交流和合作。
+加分项:&lt;/li&gt;
+&lt;li&gt;熟悉云支付解决方案（如支付宝、微信支付等）。&lt;/li&gt;
+&lt;li&gt;有金融领域的测试经验，理解金融交易的特殊性和安全性需求。&lt;/li&gt;
+&lt;li&gt;具备自动化测试经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;有意联系 &lt;a href="mailto:symsyn1@hotmail.com"&gt;symsyn1@hotmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:23:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062996#reply0</guid></item><item><title>[问与答] 27 岁近视了，接受不了</title><link>https://www.v2ex.com/t/1062995#reply18</link><description>事情是这样的，从年后开始，眼睛用久了就有点不舒服,以为是用眼过度就没当回事&lt;br /&gt;（视力一直很好，上学到工作后怎么作都没事），&lt;br /&gt;直到最近，走在路上看不清人脸，距离一超过 2 米，就开始模糊了，&lt;br /&gt;上周终于去三甲检查了下，结果：左右裸眼 0.3 ，近视度数 100 多度，调节不足，外隐斜。。。&lt;br /&gt;说实话，当时心里没接受了，医生说这个情况需要配镜和视功能训练，我婉拒准备再换家医院查查，回来之后慢慢才承认这个事实，下周末去再找一家医院看看。&lt;br /&gt;&lt;br /&gt;第一次近视，没啥经验，有些常识性问题：&lt;br /&gt;1.这个眼镜非戴不可吗？我这个情况不戴严重么？&lt;br /&gt;2.戴了后，除了手术，这辈子是不就摘不掉了？&lt;br /&gt;3.视功能训练有做过的有用吗？机器挺贵，一个疗程 2000 多，买的话 5000 多？&lt;br /&gt;4.近视验光、配眼镜等事情有哪些潜规则？有没有坑？&lt;br /&gt;&lt;br /&gt;有些东西，失去了才会觉得珍惜。。。</description><pubDate>Tue, 06 Aug 2024 09:17:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062995#reply18</guid></item><item><title>[Surge] 出新买的 Surge Mac 车位</title><link>https://www.v2ex.com/t/1062994#reply1</link><description>Surge for Mac(5 车位版)，自用 2 个，剩 3 个车位，￥ 145/位，中途跳车不退，换设备自行反激活&lt;br /&gt;&lt;br /&gt;授权终身有效，如有新的版本，后续可与车友协商升级。拉微信群保持联系 WX:WUNoZW5nLTExMDI=</description><pubDate>Tue, 06 Aug 2024 09:17:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062994#reply1</guid></item><item><title>[宽带症候群] 公司用的代理，入口服务器地址在大陆</title><link>https://www.v2ex.com/t/1062993#reply1</link><description>入口服务器在大陆，然后通过专线到香港服务器，香港服务器有 squid 正向代理。供应商说专线这段路是不会被 GFW 侦测的。那么公司到大陆入口地址这段路会被侦测吗？&lt;br /&gt;&lt;br /&gt;公司到大陆入口服务器应该不会经过 GFW ，有没有其它可能的检测手段。因为 squid 使用简单的 connect method 进行代理，感觉很容易就能知道我实际访问的网址了</description><pubDate>Tue, 06 Aug 2024 09:16:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062993#reply1</guid></item><item><title>[北京] 有单人参加 2024 Google 开发者大会的同学吗？</title><link>https://www.v2ex.com/t/1062992#reply2</link><description>&lt;p&gt;要不要组队？&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:13:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062992#reply2</guid></item><item><title>[求职] 求职一个 web 前端工作</title><link>https://www.v2ex.com/t/1062991#reply3</link><description>&lt;p&gt;工作 8 年 带领过团队 长期参与在 B 、C 端业务，对于编码规范 工程手段 端对端的交付有丰富经验
+曾经任职在武汉腾讯云 作业帮等公司
+技术站这里:vue react nodeis qo 等语言都有相关的开发经验。
+有武汉的岗位可以联系哈我 感谢各位兄弟们
+也可以接受远程办公
+微信:HL_LX_BEST&lt;/p&gt;</description><pubDate>Tue, 06 Aug 2024 09:13:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1062991#reply3</guid></item></channel></rss>
