@@ -1,207 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sat, 10 Aug 2024 20:30:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 有必要这么卷吗？我的 Github copilot 还没用明白，你们吹完 cloude，又开始吹 curser 了。</title><link>https://www.v2ex.com/t/1064063#reply1</link><description>&lt;p&gt;每天也写不了多少行代码，用用 Github copilot 已经很幸福了。&lt;/p&gt;
-&lt;p&gt;以前用 node.js ，伺候 package.json eslint 各种配置，还有 js 那复杂的语法，做完一个项目就放弃了。&lt;/p&gt;
-&lt;p&gt;天天有时间搞这些工具，早写完代码去思考人生了。我都不想花时间去确认下这两个东西的正确名字。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 19:52:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064063#reply1</guid></item><item><title>[问与答] 关于 open clash 不显示内网设备 IP 的问题</title><link>https://www.v2ex.com/t/1064062#reply0</link><description>&lt;p&gt;我怎么在 openclash 的控制台看到是哪个内网设备发出的请求？而不是都是 openwrt 的 IP 地址？&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 17:27:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064062#reply0</guid></item><item><title>[Apple] 各位使用 iPhone 有没有漏话、无服务、掉 3G 的现象？</title><link>https://www.v2ex.com/t/1064061#reply2</link><description>在家偶尔会出现接不到电话的现象，就是完全没有反应，也不会有未接来电的数字。&lt;br /&gt;女友说在单位有时候还会出现无服务的现象。（已经尝试过换新 SIM 卡，无果；使用其他运营商 SIM 卡一天没有无服务现象）&lt;br /&gt;我在小区里接打电话有时候会出现掉 3G 的现象、还有出电梯后显示有信号，但是无网络，也打不进来电话的问题，我开了 QX 的更换 IP 通知，这时候没有通知，只有等到有通知后才会有网络。&lt;br /&gt;我俩都是联通，我是 SE3 双卡联通+移动，她是 14pro 单卡联通。&lt;br /&gt;有类似情况的朋友最好顺便说一下设备型号、运营商。</description><pubDate>Sat, 10 Aug 2024 17:24:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064061#reply2</guid></item><item><title>[Android] 有没有准确性好一点的 Android 本地 OCR 库？求推荐</title><link>https://www.v2ex.com/t/1064059#reply0</link><description>&lt;p&gt;目前用的是 com.google.mlkit:text-recognition-chinese:16.0.0-beta4 ，准确性太差了，Google 查了一圈，也没找到更好的，大家有推荐吗？&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 16:22:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064059#reply0</guid></item><item><title>[问与答] 关于 outlook 共享邮箱的疑问</title><link>https://www.v2ex.com/t/1064058#reply1</link><description>&lt;p&gt;最近我的 outlook 邮件客户端提示我有一个邮箱账户已失效需要重新配置（之前这个邮箱账户是正常使用的），我在 outlook 客户端删除这个邮箱账户并重新添加时，弹窗提示&lt;strong&gt;“Outlook 尚不支持以这种方式添加共享邮箱，尝试添加其他账户”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;上网搜了下，发现 outlook 共享邮箱是 Microsoft 365 的功能，官方文档是这样描述这个功能的：&lt;em&gt;当多个用户需要访问同一邮箱（例如公司信息或支持电子邮件地址、接待台或其他可能由多个用户共享的其他功能）时，将使用共享邮箱。&lt;/em&gt; &lt;strong&gt;这是否意味其他用户可以访问我的邮箱？&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我登陆 Microsoft 365 也没有发现在哪里可以关闭共享&lt;/p&gt;
-&lt;p&gt;我不清楚这个邮箱账户是什么时候变成共享邮箱的，并且如果不在 outlook 邮件客户端登录，我是没有发现这个账户和其他账户有什么不同。&lt;/p&gt;
-&lt;p&gt;我的问题是，我的邮箱是通过什么方式变成了共享邮箱？我该怎么将我的邮箱账户从共享邮箱转换为普通邮箱？&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 16:03:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064058#reply1</guid></item><item><title>[问与答] Chipper Cash 有人用过么？</title><link>https://www.v2ex.com/t/1064057#reply0</link><description>&lt;p&gt;Chipper 是不是可以开一个美区收款账户？不知道收款有啥限制不&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 15:59:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064057#reply0</guid></item><item><title>[Cloudflare] 使用 cloudflare 免费证书，但使用 https 依然提示不安全</title><link>https://www.v2ex.com/t/1064056#reply2</link><description>使用 cloudflare 免费证书，但使用 https 依然提示不安全&lt;br /&gt;就 chrome 提示，edge safari 都不提示&lt;br /&gt;&lt;br /&gt;开启小云朵。ssl 也是最严格模式。&lt;br /&gt;域名在阿里，但 dns 解析换成了 cloudfare &lt;br /&gt;&lt;br /&gt;跟这个一样问题： &lt;a href="https://www.right.com.cn/forum/thread-4647576-1-1.html" rel="nofollow noopener" target="_blank"&gt;https://www.right.com.cn/forum/thread-4647576-1-1.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ps: 前 2 天从腾讯 cos-&amp;gt;迁移 cloudfare r2 ，但图片提示 (failed)net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;好多问题...</description><pubDate>Sat, 10 Aug 2024 15:32:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064056#reply2</guid></item><item><title>[微软] 人脸数据是存本地还是巨硬服务器</title><link>https://www.v2ex.com/t/1064055#reply0</link><description>&lt;p&gt;彦祖们，windows11 的面部、指纹数据是存本地还是微软服务器？&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 15:23:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064055#reply0</guid></item><item><title>[站长] 求大家推荐一些自托管的 blog</title><link>https://www.v2ex.com/t/1064051#reply7</link><description>&lt;p&gt;lxnchan . cn&lt;/p&gt;
-&lt;p&gt;现在遇到的问题主要是架构很老了，用的还是 hexo 4.1.1 和 node 12 ，上个月主力电脑挂了之后把文件迁移出来就再也没成功 deploy 过（主要原因）。因此现在有两条路：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;继续修旧的架构，继续用 hexo 4.1.1 和 node 12 ，但是报错很多而且现在并没有什么头绪 XD ；&lt;/li&gt;
-&lt;li&gt;换新的架构，然后把文章和评论都迁移过去。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;我个人还是倾向于第二种，所以想请大家推荐一下好用的自托管 blog ，其实有想过换 wordpress ，但毕竟基于 php ； hugo 的话基于 java ，服务器又没这么多资源，所以还是请大家推荐点吧，先谢谢咯 ：）需要能支持 markdown 、能支持 rss 、最好还能对接 waline 的评论组件、基于 mysql 存储数据这样&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 14:50:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064051#reply7</guid></item><item><title>[分享创造] 安卓手机备份到电脑贼丝滑的方法</title><link>https://www.v2ex.com/t/1064049#reply5</link><description>&lt;h3&gt;安卓重装系统前的备份&lt;/h3&gt;
-&lt;p&gt;想给安卓手机重装系统,打算先备份照片和视频,装好系统后再导回来。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;最开始我用的是 LocalSend,但因为照片太多,一次全选导致 LocalSend 卡退,少选点的话完全没问题,速度也挺快.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;但我想一次全部备份到 Mac,分批选得用手点半天,还要记住上次上传的位置,有点麻烦&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;用 adb 执行备份&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;最终用的是 adb （ Android Debug Bridge ）工具,插上数据线,开启调试模式,就像在命令行 mv 文件一样操作丝滑&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;我的安卓手机是 OPPO,相册目录是 /sdcard/Pictures/Screenshots/。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;备份到电脑就用 pull 执行以下操作即可,很稳：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;adb pull /sdcard/Pictures/Screenshots/ ./
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 11 Aug 2024 09:58:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] quantumultX 有什么推荐的分流规则吗？</title><link>https://www.v2ex.com/t/1064153#reply0</link><description>希望各位大佬分享下，最好贴上链接</description><pubDate>Sun, 11 Aug 2024 09:46:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064153#reply0</guid></item><item><title>[问与答] 哪个软件可以实现,在 windows 11 中, 按照任务栏的显示顺序,用快捷键依次切换到下一个窗口</title><link>https://www.v2ex.com/t/1064151#reply0</link><description>&lt;p&gt;如题,求大佬带路!!!感谢.&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 09:37:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064151#reply0</guid></item><item><title>[香港] 去香港开个银行卡，然后呢，做什么？</title><link>https://www.v2ex.com/t/1064150#reply5</link><description>&lt;p&gt;花了一天时间浏览本站的香港开银行卡的攻略，但我更想知道：开香港银行卡的目的究竟是什么？&lt;/p&gt;
+&lt;p&gt;我目前在读研一，之前工作了两三年，存了二十万，现在这些钱都放在 A 股里。炒股+买基金两三年下来合计亏了大几千，对国内的经济比较悲观，所以不敢再买股票了。这一年多一直在买国债逆回购，年化收益大约 1.8%。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Plan A:&lt;/strong&gt; 我原本的计划很简单，想去香港办个银行卡，存美元定期，然后再兑换成人民币。因为我认为美元利息高，逻辑上似乎很划算。但实际上，汇率风险很大，尤其是现在美国处于降息周期。即便要做这类投资，直接买国内的美元理财产品就可以了，省去了资金出入的麻烦。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Plan B:&lt;/strong&gt;  开个香港的银行卡，然后办个香港的证券账户，接着薅一个新用户羊毛，最后炒美股或者买债券。但扪心自问，在 a 股吃瘪并不代表换个环境我我就能赚钱呀。&lt;/p&gt;
+&lt;p&gt;所以，我迷茫了，还是想去香港开个银行卡（因为要去玩一天），但是没了目的和动力。 &lt;/p&gt;
+&lt;p&gt;另外，想顺便问一下，香港有什么好玩的地方推荐吗？我打算和一位女同学一起过去（她已经去过一些地方了，比如麦理浩径），恐怕他对电子产品不太感兴趣。  &lt;/p&gt;
+&lt;p&gt;最后，如果大家对如何处理二十万本金有什么好的理财或投资方式，也欢迎分享。我知道 v 站的朋友在理财方面都有一些"看法"，但我希望大家能分享一些自己已经实践过的、正在做的方式，而不是道听途说的建议。感谢大家的回复，也希望这次能得到比之前其他帖子更务实的答案，为后来的网友提供帮助，不胜感激。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 09:36:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064150#reply5</guid></item><item><title>[程序员] mac mini 24g 大模型推理怎么样</title><link>https://www.v2ex.com/t/1064149#reply0</link><description>&lt;p&gt;背景：
+之前有一个 2018 年的 mac intel 16g 的 mbp ，但是由于续航不行和有点儿发热。故喜新厌旧的换成了 apple M 芯片 18g 的 2023mbp 。&lt;/p&gt;
+&lt;p&gt;有时候偶尔本地跑下大模型推理，使用 ollama 在 2018 mbp 和 2023 mbp 都部署了下 14b 的 Qwen 量化模型，发现 2018 mbp 的更加流畅（目测 10token/秒），2023 mbp 比较卡顿（目测 3token/秒）。&lt;/p&gt;
+&lt;p&gt;问题：&lt;/p&gt;
+&lt;p&gt;准备入手一个 Mac mini 24g ,  想问下有没有大佬测试过，Qwen 模型 8b 、14b 各个量化精度情况下的每秒 token 表现。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 09:16:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064149#reply0</guid></item><item><title>[问与答] 续航最好的较新型号的 windows 笔记本是什么</title><link>https://www.v2ex.com/t/1064148#reply1</link><description>&lt;p&gt;续航最好的较新型号的 windows 笔记本是什么？研究了一下，好像是 redmibook pro 14 ，荣耀 magicbook pro 14 ，大家对这个有研究吗？&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 09:12:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064148#reply1</guid></item><item><title>[宽带症候群] 成都移动出海从上海出，回程从广州入，正常吗？移动办什么线路可以来去路径一致？</title><link>https://www.v2ex.com/t/1064147#reply2</link><description>&lt;h3&gt;如下测试，从成都移动到新西兰 Spark ，从上海出：&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;1	10.2.1.1       	   0 ms	   0 ms	   0 ms	局域网	*		
+&lt;br /&gt;2	183.220.6.1    	   2 ms	   2 ms	   3 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;3	*              	   *   	   *   	   *   				
+&lt;br /&gt;4	223.85.135.157 	   3 ms	   3 ms	   3 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS139080		
+&lt;br /&gt;5	223.87.26.177  	   4 ms	   4 ms	   4 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;6	*              	   *   	   *   	   *   				
+&lt;br /&gt;7	*              	   *   	   *   	   *   				
+&lt;br /&gt;8	221.183.89.13  	  40 ms	  40 ms	  40 ms	中国 上海 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;9	221.183.89.34  	  40 ms	  40 ms	  41 ms	中国 上海 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;10	221.183.89.169 	  62 ms	  63 ms	   *   	中国 上海 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;11	*              	   *   	   *   	   *   				
+&lt;br /&gt;12	223.120.3.122  	  58 ms	  59 ms	  64 ms	中国 香港 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;13	223.118.4.61   	 189 ms	 189 ms	 190 ms	澳大利亚 新南威尔士州 悉尼 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;14	223.119.80.202 	 181 ms	 181 ms	 182 ms	澳大利亚 新南威尔士州 悉尼 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;15	202.50.232.241 	 185 ms	 186 ms	 186 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*	&lt;a href="http://ae1-10.sebr3.global-gateway.net.nz" rel="nofollow"&gt;ae1-10.sebr3.global-gateway.net.nz&lt;/a&gt;
+&lt;br /&gt;16	202.50.232.189 	 205 ms	 205 ms	 205 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*	&lt;a href="http://et5-0-5.tkbr12.global-gateway.net.nz" rel="nofollow"&gt;et5-0-5.tkbr12.global-gateway.net.nz&lt;/a&gt;
+&lt;br /&gt;17	202.50.232.30  	 205 ms	 205 ms	 205 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*	&lt;a href="http://ae10-10.akbr7.global-gateway.net.nz" rel="nofollow"&gt;ae10-10.akbr7.global-gateway.net.nz&lt;/a&gt;
+&lt;br /&gt;18	122.56.119.217 	 207 ms	 223 ms	 253 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*		
+&lt;br /&gt;19	219.89.112.1   	 215 ms	 215 ms	 215 ms	新西兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	AS4771	&lt;a href="http://219-89-112-1.adsl.xtra.co.nz" rel="nofollow"&gt;219-89-112-1.adsl.xtra.co.nz&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;从新西兰 Spark 到成都移动回程，从广州入：&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;1	192.168.10.254 	   0 ms	   0 ms	   0 ms	局域网	*		
+&lt;br /&gt;2	125.236.192.9  	   1 ms	   1 ms	   5 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	AS4771	&lt;a href="http://125-236-192-9.adsl.xtra.co.nz" rel="nofollow"&gt;125-236-192-9.adsl.xtra.co.nz&lt;/a&gt;
+&lt;br /&gt;3	*              	   *   	   *   	   *   				
+&lt;br /&gt;4	122.56.119.216 	  11 ms	  12 ms	  13 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*		
+&lt;br /&gt;5	122.56.119.30  	  33 ms	  34 ms	  34 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*	&lt;a href="http://et4-0-5.sgbr3.global-gateway.net.nz" rel="nofollow"&gt;et4-0-5.sgbr3.global-gateway.net.nz&lt;/a&gt;
+&lt;br /&gt;6	202.50.232.246 	  33 ms	  34 ms	  34 ms	新西兰 奥克兰大区 奥克兰 &lt;a href="http://spark.co.nz" rel="nofollow"&gt;spark.co.nz&lt;/a&gt;	*	&lt;a href="http://ae0-10.sebr5.global-gateway.net.nz" rel="nofollow"&gt;ae0-10.sebr5.global-gateway.net.nz&lt;/a&gt;
+&lt;br /&gt;7	223.119.80.201 	  35 ms	  36 ms	  37 ms	澳大利亚 新南威尔士州 悉尼 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;8	223.118.4.217  	 125 ms	 126 ms	 126 ms	新加坡 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;9	223.120.22.190 	 169 ms	 169 ms	 173 ms	中国 广东 广州 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS58453		
+&lt;br /&gt;10	221.183.92.193 	 170 ms	 170 ms	 170 ms	中国 广东 广州 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;11	221.183.92.205 	 173 ms	 173 ms	 174 ms	中国 广东 广州 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;12	221.183.166.213	 174 ms	 174 ms	   *   	中国 广东 广州 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;13	*              	   *   	   *   	   *   				
+&lt;br /&gt;14	*              	   *   	   *   	   *   				
+&lt;br /&gt;15	*              	   *   	   *   	   *   				
+&lt;br /&gt;16	223.87.26.178  	 223 ms	 223 ms	 224 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;17	223.85.135.158 	 221 ms	   *   	   *   	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS139080		
+&lt;br /&gt;18	221.182.9.6    	 222 ms	 222 ms	 223 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808		
+&lt;br /&gt;19	183.220.6.1  	 224 ms	 224 ms	 224 ms	中国 四川 成都 &lt;a href="http://chinamobile.com" rel="nofollow"&gt;chinamobile.com&lt;/a&gt; 移动	AS9808&lt;/p&gt;
+&lt;h3&gt;想请问一下内行，办移动的什么业务可以来去路径一致？或者是那种国际优化的服务吗？应该是 CMI 在做这一块业务，但是不想按量买带宽的业务类型去谈，各位 V 友有什么建议吗？谢过&lt;/h3&gt;</description><pubDate>Sun, 11 Aug 2024 09:09:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064147#reply2</guid></item><item><title>[问与答] cloudflare Tunnels 突然连不上了，大家有遇到这个情况吗</title><link>https://www.v2ex.com/t/1064145#reply5</link><description>如图，家里服务器全部连不上了。但是国外的服务器正常。&lt;br /&gt;&lt;a href="https://imgur.com/Vr4Ej3S" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/Vr4Ej3S&lt;/a&gt;</description><pubDate>Sun, 11 Aug 2024 08:35:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064145#reply5</guid></item><item><title>[问与答] 这是真的吗?</title><link>https://www.v2ex.com/t/1064144#reply13</link><description>&lt;a href="https://i.imgur.com/lIyaudb.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/lIyaudb.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Sun, 11 Aug 2024 08:31:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064144#reply13</guid></item><item><title>[Java] SpringCloud 跨服务请求时偶现的卡顿情况求助，请大佬们指点</title><link>https://www.v2ex.com/t/1064143#reply2</link><description>SpringCloud 版本：2022.0.5;&lt;br /&gt;http 组件：OpenFeign;&lt;br /&gt;目前在线上运行过程中，偶尔会出现跨服务的请求时（ Gateway-&amp;gt;Micro-service,Micro-service-&amp;gt;Micro-service ），http 请求发起后，另一微服务在大约 5 秒后才收到请求，每次都刚好就是 5 秒；&lt;br /&gt;目前 Gateway/OpenFeign/LoadBalancer 都有调整相关的线程池和缓存配置；&lt;br /&gt;在调整完线程池相关配置后，出现的频率已经和最开始相比降低了很多，是但是在线上运行过程中仍旧会偶尔出现；&lt;br /&gt;想请问下大佬们下有没有遇到过相似的情况，指点下应该如何优化；</description><pubDate>Sun, 11 Aug 2024 08:30:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064143#reply2</guid></item><item><title>[阅读] 有时候几个月没读一本书，有时候同时开四五本，读都读不完</title><link>https://www.v2ex.com/t/1064142#reply9</link><description>&lt;p&gt;书荒（不是小说）的时候觉得什么都不值得看，或者读着读着读不下去了，半放弃状态&lt;/p&gt;
+&lt;p&gt;有时候又连续找到几本愿意读的书，又变成时间不够分了。&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 08:30:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064142#reply9</guid></item><item><title>[问与答] 关于 windows 有线网卡无法唤醒的问题</title><link>https://www.v2ex.com/t/1064140#reply1</link><description>&lt;p&gt;windows11 睡眠唤醒之后发现有线网络没了&lt;/p&gt;
+&lt;p&gt;重新安装网卡驱动提示&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;The Realtek Network Controller was not found if Deep Sleep Mode is enabled please plug the cable.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;从电脑导入到手机就用 push&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;adb push ./* /sdcard/Pictures/Screenshots/ 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;手机所有备份总结&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;微信:用微信自带的备份到电脑&lt;/li&gt;
-&lt;li&gt;照片视频备份到电脑,使用的是 adb&lt;/li&gt;
-&lt;li&gt;手机其他文件,就用系统自带的云备份,比如应用,通讯录,备忘录&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;另外 LocalSend ,偶尔与电脑共享个文件相当好,至少替代微信传输助手&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 14:40:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064049#reply5</guid></item><item><title>[Kubernetes] 在本地访问集群网络，拦截 k8s service 流量到本地调试</title><link>https://www.v2ex.com/t/1064048#reply0</link><description>本人之前一直做云原生，Paas 平台的开发，所以经常和 k8s 打交道，因此理解要在本地调试代码的难度，因此开发了 kubevpn 这个工具，能够在本地拦截 k8s 流量到本地，然后自己的项目可以直接链接 k8s 中的数据库和三方中间件。因此调试比较方便。&lt;br /&gt;项目地址： &lt;a href="https://github.com/kubenetworks/kubevpn" rel="nofollow noopener" target="_blank"&gt;https://github.com/kubenetworks/kubevpn&lt;/a&gt; &lt;br /&gt;本地开发最佳实践： &lt;a href="https://www.kubevpn.cn/docs/blog/connect_mode" rel="nofollow noopener" target="_blank"&gt;https://www.kubevpn.cn/docs/blog/connect_mode&lt;/a&gt;</description><pubDate>Sat, 10 Aug 2024 14:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064048#reply0</guid></item><item><title>[分享发现] 推荐一个无 aff 主机补货监控频道，每月还会有 TG 会员抽奖</title><link>https://www.v2ex.com/t/1064047#reply0</link><description>&lt;p&gt;频道地址： &lt;a href="https://t.me/anyaXwaku" rel="nofollow"&gt;https://t.me/anyaXwaku&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;因为没有 aff 所以不会监控所有商品，而且加上也自用，嫌一些大的监控频道太杂乱了什么都会监控，本着不滥监控的原则，会监控一些实用的靠谱的性价比高的呼声比较高的鸡器。纯粹是兴趣爱好。取关频道不会被拉黑封禁，主打一个随缘，取消订阅也欢迎再关注。&lt;/p&gt;
-&lt;p&gt;目前监控的产品有：
-Alice：两刀 vps ，12 刀 vds ，freevm
-bagevm：JPsmall tiny 系列 mini 系列
-buyvm：2 美元 3.5 美元 存储块
-搬瓦工：46 、dc9plan 、ThePlan
-CrunchBits：13.69 刀
-dmit：36.9 、39.9 、49.9 、spring
-netcup：一欧机
-fiberstate：独服
-spartanhost：西雅图 7950
-wap：WarpGlobal ，tw 一刀，广西
-yxvm：hkvol sgvol jpvol&lt;/p&gt;
-&lt;p&gt;我不搞 aff 推广，大部分 mjj 不喜欢监控频道出现 aff 。因为我不是计算机等这类与写代码有关的专业人员，没有技术，也不会监控商家出的新产品。经过这两天观察，监控速度可以的，推送速度与别的监控频道比较了一下，都差不多。&lt;/p&gt;
-&lt;p&gt;而且 aff 提现有门槛太麻烦，aff 都是利益驱使，产品好用不好用 affman 并不会负责。可能一开始会好用，推广了用的人多了，商家超兽，线路拥堵，也不一定好用了。&lt;/p&gt;
-&lt;p&gt;如果你也有想监控的商家产品，请把商品链接、配置、价格、优点发给我，我加上去，不会有 aff 推广，放心食用。&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 14:35:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064047#reply0</guid></item><item><title>[Windows] 为啥开了代理 onedrive 反而用不了</title><link>https://www.v2ex.com/t/1064044#reply2</link><description>&lt;p&gt;不开代理，反正正常使用&lt;/p&gt;
-&lt;p&gt;规则以及把 onedrive 分流为直连了，但是出问题，无法登录账号使用。web 浏览器反而需要代理跑到嘎嘎快，不知道是不是我域名错了，大佬帮看看&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    - 'DOMAIN-SUFFIX,1drv.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,aadrm.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,acompli.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,acompli.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,aka.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,akadns.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,aspnetcdn.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,assets-yammer.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,azure.cn,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,azure.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,azure.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,azureedge.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,azurerms.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bing.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bing.com.cn,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingads.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingagencyawards.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingapistatistics.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingsandbox.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingvisualsearch.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bingworld.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bluehatnights.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,dictate.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,flipwithsurface.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,masalladeloslimites.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoft-give.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftcloudsummit.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftdiplomados.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftlatamholiday.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftmxfilantropia.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftpartnersolutions.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msunlimitedcloudsummit.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,office365love.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,office365tw.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,renovacionoffice.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sprinklesapp.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,cn.bing.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,cn.bing.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,ditu.live.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,full:bj1.api.bing.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,full:emoi-cncdn.bing.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,bing.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,cloudapp.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,cloudappsecurity.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,docs.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,edgesuite.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,fabric.io,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,gfx.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,hotmail.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,live.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,live.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,livefilestore.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,lync.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,mesh.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoft-tst.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoft.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,microsoftonline.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msappproxy.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msauth.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msauthimages.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msecnd.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msedge.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msft.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msftauth.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msftauthimages.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msftconnecttest.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msftidentity.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msidentity.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msn.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msocdn.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,msocsp.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,mstea.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,o365weve.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,oaspapps.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,office.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,office.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,office365.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,officeppe.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,omniroot.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,onedrive.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,onenote.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,onenote.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,onestore.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,onmicrosoft.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,outlook.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,outlookgroups.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,outlookmobile.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,phonefactor.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,public-trust.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,s-microsoft.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sfbassets.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sfx.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sharepoint.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sharepointonline.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,skype.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,skypeassets.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,skypeforbusiness.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,staffhub.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,svc.ms,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sway-cdn.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sway-extensions.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,sway.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,trafficmanager.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,uservoice.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,virtualearth.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,visualstudio.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,windows-ppe.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,windows.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,windows.net,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,windowsazure.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,windowsupdate.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,wunderlist.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,xbox.cn,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,xbox.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,xboxlive.cn,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,xboxlive.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,yammer.com,🖥 Microsoft'
-    - 'DOMAIN-SUFFIX,yammerusercontent.com,🖥 Microsoft'
-    - 'DOMAIN-KEYWORD,1drv,🖥 Microsoft'
-    - 'DOMAIN-KEYWORD,microsoft,🖥 Microsoft'
-    - 'DOMAIN-KEYWORD,onedrive,🖥 Microsoft'
-    - 'DOMAIN-KEYWORD,skydrive,🖥 Microsoft'
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sat, 10 Aug 2024 13:42:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064044#reply2</guid></item><item><title>[OpenWrt] QNAP 虚拟机装 OpenWrt+passwall，设置 QNAP 网关后， Docker 内的 Container 无法访问国内网站</title><link>https://www.v2ex.com/t/1064043#reply2</link><description>如题。&lt;br /&gt;&lt;br /&gt;做了如下操作：&lt;br /&gt;	1. QNAP 虚拟机装 OpenWrt+passwall 作为旁路由，开启自动分流，国外翻墙+国内直连&lt;br /&gt;    2. 设置 QNAP 的网关和 DNS 为 QNAP 虚拟机装的 OpenWrt&lt;br /&gt;    3. QNAP 自己上网正常（国内+国外），但是 Container 里面，可以访问谷歌（ curl &lt;a href="http://google.com" rel="nofollow noopener" target="_blank"&gt;google.com&lt;/a&gt; 正常），但是访问国内网站就 time out (curl &lt;a href="http://cip.cc" rel="nofollow noopener" target="_blank"&gt;cip.cc&lt;/a&gt; 就卡住了)&lt;br /&gt;    4. 将 QNAP 的网关设置为局域网内其他的 OpenWrt+passwall ，Container 网络正常（国内+国外）&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;有没有大佬知道是为什么么……&lt;br /&gt;如果能解决的话，就可以少整一个 OpenWrt+passwall 设备了。</description><pubDate>Sat, 10 Aug 2024 13:41:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064043#reply2</guid></item><item><title>[问与答] cloudflare worker 能否自定义反代请求 IP</title><link>https://www.v2ex.com/t/1064041#reply2</link><description>&lt;p&gt;想使用 cloudflare worker 对一个网站进行反代请求
-但对方站点有设置白名单 IP 请求，只能设置指定 IP 白名单后才能进行访问。
-反代后 cloudflare worker 请求网站的 IP 都是随机的
-请问各位 v2 大佬有没有将 CF 请求时 IP 设置指定的办法
-谢谢各位解答疑惑了！&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 13:21:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064041#reply2</guid></item><item><title>[分享创造] Deep Live Cam 这个太神奇了，一张图片直接直播换脸</title><link>https://www.v2ex.com/t/1064040#reply3</link><description>&lt;h1&gt;Deep Live Cam：开源实时换脸神器！🎭✨&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://deeplive.cam" rel="nofollow"&gt;Deep Live Cam&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;🚀 主要特性&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;实时换脸&lt;/strong&gt;：只需一张照片，即刻生成逼真效果&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;一键视频深伪&lt;/strong&gt;：轻松创作高质量深度伪造视频&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;多平台支持&lt;/strong&gt;：兼容 CPU 、NVIDIA CUDA 、Apple Silicon&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;完全免费&lt;/strong&gt;：开源项目，零成本使用&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;🎬 立即体验&lt;/h2&gt;
-&lt;p&gt;开启您的创意之旅！&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://deeplive.cam" rel="nofollow"&gt;网址&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 13:21:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064040#reply3</guid></item><item><title>[职场话题] 三十岁技能水平低下的我该何去何从?</title><link>https://www.v2ex.com/t/1064039#reply14</link><description>我是一八年来的杭州,现在已经三十岁了,来的时候是低水平的 php,现在还是低水平的 php.&lt;br /&gt;有一份不算稳定的工作,月入一万,在家(租的房子)办公.公司合同一年一签,今年签合同前我甚至都担心公司会不会跟我续签,内心恐惧失业.&lt;br /&gt;家庭状况就是我跟我老婆都是来自浙江同一个小县城,存款不够买房,或者说如果极限首付买房连装修都没钱&lt;br /&gt;老婆在亲戚开的淘宝店上班,年平均收入十万.&lt;br /&gt;老妈今年一起过来帮我带娃,&lt;br /&gt;我一直以来的懒散,没有追求,现在的技能水平低下就是苦果,我压根就不敢跳槽,怕失去现在这份工作就再也找不到工作了.&lt;br /&gt;现在在家每天也没什么事情,偶尔有货就写写业务代码,大部分时间还是刷论坛.&lt;br /&gt;今年其实有尝试过做新媒体,拍了一个多月的美食视频,但是短视频平台粉丝勉强过百(包括认识的人).&lt;br /&gt;现在又是在减肥没有再拍视频了.&lt;br /&gt;真的是到了这个年纪自己才开始担心未来,不敢想自己如果失业了,该如何继续生活,车贷还有一年(四千/月,免息两年买的车).&lt;br /&gt;哎.不知道未来在哪里</description><pubDate>Sat, 10 Aug 2024 13:14:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064039#reply14</guid></item><item><title>[IPv6] 不懂就问，像 IP138 这样的网站如何同时获得访问者的 ipv4 和 ipv6？</title><link>https://www.v2ex.com/t/1064038#reply3</link><description>&lt;p&gt;电脑是双栈的情况下，ipv6 优先使用，但是 ip138 能同时获得 ipv4 ，怎么做到的&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 13:05:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064038#reply3</guid></item><item><title>[分享创造] 我做了一个 vscode 的 MD 主题，结果被朋友称作七夕专属皮肤</title><link>https://www.v2ex.com/t/1064035#reply10</link><description>&lt;p&gt;我根据 &lt;code&gt;Material Design&lt;/code&gt; 的 &lt;code&gt;Rose &amp;amp; Red&lt;/code&gt; 颜色做了一个 &lt;code&gt;vscoded&lt;/code&gt; 的主题扩展 ：&lt;strong&gt;Material Design Theme&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://github.com/scung-cn/material-theme-vsc/blob/master/screenshots/01.png?raw=true" /&gt;&lt;/p&gt;
-&lt;p&gt;分享到群里，朋友看到后称作程序员七夕专属皮肤，直接笑死&lt;/p&gt;
-&lt;p&gt;&lt;img alt="截图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/r0bvmYQ.png" /&gt;&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 12:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064035#reply10</guid></item><item><title>[互联网] 百度智能云内容审核平台，文本检测，就这水平</title><link>https://www.v2ex.com/t/1064034#reply1</link><description>&lt;p&gt;百度智能云内容审核平台，文本检测，就这水平:&lt;/p&gt;
-&lt;p&gt;"死要面子的他们，非常懂得节制饮食与定期运动（哪怕不是出自于本性）。事实上，在今天出生的人得花费苦功对抗烟酒、咖啡和甜食的诱惑。他们应该将自己好钻研的习惯运用于寻求养生之道上。此外，他们也是烹调高手，深知新鲜食物对美食及健康的重要性。"&lt;/p&gt;
-&lt;p&gt;以上文本判定为：
-不合规 类型：2 详细信息：- 存在百度违禁词库不合规  类型：11 子类型：0&lt;/p&gt;</description><pubDate>Sat, 10 Aug 2024 12:28:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064034#reply1</guid></item></channel></rss>
+&lt;p&gt;查了一下，通过拆了主板电池才恢复，也关闭了允许计算机关闭此设备以节约电源（ A ）&lt;/p&gt;
+&lt;p&gt;但是现在还是睡眠之后就没了&lt;/p&gt;
+&lt;p&gt;请问有解么？快烦死了&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 08:17:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064140#reply1</guid></item><item><title>[ WATCH] 现在买 s9 是不是有点亏</title><link>https://www.v2ex.com/t/1064138#reply2</link><description>&lt;p&gt;如题，最近想入 watch ，买是肯定不可能原价买的，但是，从闲鱼上看大部分价格也在 2000 ，觉得还是有点点贵，在纠结是等 X 出还是买个 s9.
+很纠结，&lt;del&gt;昨天闲鱼捡了个漏，但是卖家反应过来了没有发货&lt;/del&gt;&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 08:09:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064138#reply2</guid></item><item><title>[职场话题] 老家市直事业编薪水和前景</title><link>https://www.v2ex.com/t/1064136#reply25</link><description>&lt;p&gt;考上了老家南宁市直的事业单位，薪水可能就 5k/月多，晋升感觉也不如公务员那么命令，心理落差大。
+之前听信了家里人的话，可能确实觉得回来房车不会有太大的问题，于是便放弃了字节、腾讯等 50w+应届生 offer 。&lt;/p&gt;
+&lt;p&gt;可能不知道体制内的程序员前辈们如何看待，如何缓解自己心理的落差。或者有什么计划可以参考吗？&lt;/p&gt;
+&lt;p&gt;可能不想一辈子穷得稳定在年轻的时候把自己技能完全丢掉&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 08:06:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064136#reply25</guid></item><item><title>[VPS] eSTK 的 AC（Active Code）问题</title><link>https://www.v2ex.com/t/1064133#reply0</link><description>&lt;p&gt;本人 iOS 用户，买的卡是 198 港币的版本，但是 AC 获取失败，支付宝扫描二维码报-1212 的错误，二维码是手机卡附带的板子后面的（扫不出来），提前谢谢各位 mjj&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 07:50:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064133#reply0</guid></item><item><title>[问与答] 铭凡主机无输出信号，黑屏</title><link>https://www.v2ex.com/t/1064132#reply3</link><description>请问各位，有遇到过铭凡小主机黑屏么？&lt;br /&gt;&lt;br /&gt;当时正在进 bios 准备装双系统，屏幕突然黑了，已经尝试三个多小时，包括清空 bios ，断电等待等各种尝试，仍旧黑屏，敢问各位有何建议？&lt;br /&gt;&lt;br /&gt;今天是周末，客服说售后非工作日不上班，巧的是他们上班时间我也在公司上班，他们下班了我还没回家。倒是有说售后晚上也在，但 wx 上写着工作时间只到六点半。&lt;br /&gt;&lt;br /&gt;目前完全不知道哪里的问题，想问问各位有什么头绪么？</description><pubDate>Sun, 11 Aug 2024 07:42:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064132#reply3</guid></item><item><title>[视频技术] 类似于 veed/zeemo 的动态字幕效果怎么实现</title><link>https://www.v2ex.com/t/1064131#reply0</link><description>&lt;p&gt;一行字幕，字母跟随说话时间高亮，不考虑语音识别问题，假设我已经可以得到每个单词和句子的展示时间，这种视频生成是通过什么技术做到的呢？我知道 ffmpeg ，有什么生成这种字幕动画的完整一些的方案吗&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 07:42:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064131#reply0</guid></item><item><title>[分享发现] 阿里云盘官方 WebDAV 会缺失文件，但官方不承认有问题</title><link>https://www.v2ex.com/t/1064130#reply2</link><description>如题，账号是同时有 svip 和第三方权益包的，网盘 app 里面可以看到文件，但 webdav 里面却消失了&lt;br /&gt;&lt;br /&gt;网盘客户端截图&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/y6t7bGuIjX5Zfa3.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/y6t7bGuIjX5Zfa3.png&lt;/a&gt;&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/z2cKdakf5m49CAJ.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/z2cKdakf5m49CAJ.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;webdav 挂载的截图（可以看到用的是官方接口）&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/f6yniHCXVRx5hlN.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/f6yniHCXVRx5hlN.png&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;webdav 挂载后截图&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/7yNYXCo68kMj4ps.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/7yNYXCo68kMj4ps.png&lt;/a&gt;&lt;br /&gt;这个图里面和网盘对比缺失了 小城故事多  辐射 等文件夹&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/fQmtuVzSbJqh294.png" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/fQmtuVzSbJqh294.png&lt;/a&gt;&lt;br /&gt;这个直接为空&lt;br /&gt;&lt;br /&gt;给官方反馈过问题，给我的回复逗笑了，说 RaiDrive 不在推荐列表，难道我看到的假的官网？？？&lt;br /&gt;&lt;a href="https://i.ibb.co/N18dgfF/image.png" rel="nofollow noopener" target="_blank"&gt;https://i.ibb.co/N18dgfF/image.png&lt;/a&gt;&lt;br /&gt;&lt;a href="https://s2.loli.net/2024/08/11/PlJQZv2cfKth5wj.jpg" rel="nofollow noopener" target="_blank"&gt;https://s2.loli.net/2024/08/11/PlJQZv2cfKth5wj.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;结论就是，不要买会员，不要买第三方包，最后不要用</description><pubDate>Sun, 11 Aug 2024 07:33:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064130#reply2</guid></item><item><title>[分享发现] animeai.show 二次元风格的图片生成网站</title><link>https://www.v2ex.com/t/1064129#reply0</link><description>&lt;h2&gt;功能介绍：&lt;/h2&gt;
+&lt;p&gt;1.animeai.show 是一个专注于将图片生成二次元风格的网站，区别于其他依赖复杂 Prompt 输入的文生图平台，这个网站简化了整个流程。用户无需深入了解复杂的 Prompt 语法，只需上传一张照片或简单输入文字描述，就能快速生成高质量的动漫风格图片。&lt;/p&gt;
+&lt;p&gt;2.网站支持两种生成方式：文生图和图生图。在文生图的功能中，只需要输入对应的简单提示词，就可以生成二次元的图片。在图生图的功能中，只要上传对应的相片，然后点击提交就可以。生成的图片支持分享到 x 和 facebook 上。&lt;/p&gt;
+&lt;p&gt;3.为了保证服务质量，用户需要先登录才能使用这些功能。注册登录后，即可开始体验简单快捷的动漫图像生成过程。&lt;/p&gt;
+&lt;p&gt;网站链接： &lt;a href="https://animeai.show/en" rel="nofollow"&gt;https://animeai.show/en&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;技术栈:&lt;/h2&gt;
+&lt;p&gt;这个网站使用的技术栈是 nextJs14 + s3 + clerk + postgressSql ，支持多语言，采用 vercel 部署。 &lt;/p&gt;
+&lt;h2&gt;效果展示：&lt;/h2&gt;
+&lt;p&gt;文生图：
+&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://animeai.s3.us-east-2.amazonaws.com/anime/animeai-text-to-img.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;图生图：
+&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://animeai.s3.us-east-2.amazonaws.com/anime/animeai-img-to-img.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 07:29:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064129#reply0</guid></item><item><title>[iOS] iPhone 和 iPad 文件 app 通过 SMB 连接 NAS 只读</title><link>https://www.v2ex.com/t/1064126#reply1</link><description>iPhone 和 iPad 的文件 app 通过 SMB 连接绿联 NAS 的时候没有显示只读但实际上只能读不能写入，包括新建、粘贴、修改等。&lt;br /&gt;Mac 测试了一下是正常的，所以初步排除 NAS 设置问题。</description><pubDate>Sun, 11 Aug 2024 07:22:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064126#reply1</guid></item><item><title>[软件] windows 11,按照任务栏的显示顺序,用快捷键依次切换到下一个窗口,哪个软件可以实现?</title><link>https://www.v2ex.com/t/1064124#reply0</link><description>&lt;p&gt;如题,求诸位大佬带路!!!感谢.&lt;/p&gt;</description><pubDate>Sun, 11 Aug 2024 07:03:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1064124#reply0</guid></item></channel></rss>
