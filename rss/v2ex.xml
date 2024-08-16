@@ -1,683 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 16 Aug 2024 12:38:44 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 有没有开源的 api 聚合系统</title><link>https://www.v2ex.com/t/1065631#reply0</link><description>&lt;p&gt;RT ，目前公司做了不同语言的多个项目，现在准备把这些散落在过个项目中，不同入参、响应规范的基础性服务的 api 接口，聚合在一起，做一套统一的接口服务。&lt;/p&gt;
-&lt;p&gt;请教大家，有没有类似开源的项目，做接口聚合的？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 12:34:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065631#reply0</guid></item><item><title>[程序员] 重学前端-事件循环</title><link>https://www.v2ex.com/t/1065630#reply0</link><description>&lt;h1&gt;事件循环模型&lt;/h1&gt;
-&lt;p&gt;事件循环老生常谈了，社区的相关文章也非常多了，但这次为了彻底搞懂，我深度查看了规范中的规则以及 Chromium 中的源码实现。本文章作为笔记记录。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本文主要参考了 &lt;a href="https://www.v2ex.com/#whatwg" rel="nofollow"&gt;&lt;code&gt;WHATWG&lt;/code&gt;&lt;/a&gt; 规范中的定义。建议直接从规范中学习。
-各家浏览器对事件循环的具体实现会有细微差别，本文所有代码输出均使用 chrome 。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;面试碰到很多问题，比如下面这些，面试官实际上很可能想问的是 &lt;strong&gt;事件循环&lt;/strong&gt;，搞明白了之后就不用害怕被面试官牵着走了，甚至可以主动引导面试官问事件循环。&lt;/p&gt;
-&lt;/blockquote&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 16 Aug 2024 23:31:26 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[ WATCH] 等 X 还是 直接 S9?</title><link>https://www.v2ex.com/t/1065682#reply0</link><description>现在用的 S6 ，电池健康只剩 83%，白天期间得充一次电，表盘也有挺多划痕，决定让他退役了&lt;br /&gt;有没有用过的朋友说说，从 S6 到 S9 是不是还是值得换的？看了下 X 的爆料，貌似也没有很多升级</description><pubDate>Fri, 16 Aug 2024 23:17:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065682#reply0</guid></item><item><title>[数据库] 每个 Docker 单独使用 SQLite 和中心化部署 PostgreSQL 怎么选择？</title><link>https://www.v2ex.com/t/1065681#reply1</link><description>我有一些数量的 Self-Hosted 的服务。大部份或多或少需要用到数据库。因为我自己并没有充分使用过 PostgreSQL ，所以从一开始的时候在每个 Docker 需要用数据库的时候就选择其中的 SQLite 方案。&lt;br /&gt;&lt;br /&gt;但随着 Docker 的数量增多，其中需要备份迁移的数据也越来越多。我开始考虑是不是用一个中心化部署的 PostgreSQL 来替代数量众多的分散化的 SQLite 更好一些？</description><pubDate>Fri, 16 Aug 2024 21:20:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065681#reply1</guid></item><item><title>[Rust] 基于 Matrix 协议，我创立了一个 Rust 语言交流群</title><link>https://www.v2ex.com/t/1065680#reply0</link><description>&lt;p&gt;欢迎加入我们新成立的 Rust 语言交流群！这是一个基于 Matrix 协议的开源、去中心化交流平台，致力于为 Rust 开发者提供一个友好、高效的沟通环境。在这里，你可以与其他 Rust 爱好者交流学习经验、分享项目进展、解决技术难题，共同探索 Rust 语言的魅力。我们鼓励积极的讨论和知识分享，无论是新手还是经验丰富的开发者，都能在这里找到属于自己的空间。加入我们，一起构建一个充满活力的 Rust 社区！&lt;/p&gt;
+&lt;p&gt;加入方式: &lt;a href="https://matrix.to/#/%21UEcLPZGsjuBGFHlXEo:matrix.org" rel="nofollow"&gt;https://matrix.to/#/!UEcLPZGsjuBGFHlXEo:matrix.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;我们期待与你共同学习进步！&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 20:26:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065680#reply0</guid></item><item><title>[程序员] cloudflare WAF 在国内的可用性如何？</title><link>https://www.v2ex.com/t/1065679#reply0</link><description>&lt;p&gt;据说不太行？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 19:00:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065679#reply0</guid></item><item><title>[分享发现] eSTK 使用指北</title><link>https://www.v2ex.com/t/1065678#reply1</link><description>&lt;h1&gt;eSTK 使用指北&lt;/h1&gt;
+&lt;h1&gt;1. 引言&lt;/h1&gt;
+&lt;p&gt;随着 eSIM 技术的兴起，传统的物理 SIM 卡正在逐步被虚拟 SIM 卡取代，尤其是在需要频繁更换号码或运营商的用户群体中，eSIM 的需求越来越大。然而，在中国，eSIM 技术的发展受到了一些政策和技术的限制。因此，eSTK 应运而生，为用户提供了一种方便、灵活的 eSIM 管理方式。&lt;/p&gt;
+&lt;h1&gt;2. 什么是 eSTK ？&lt;/h1&gt;
+&lt;h2&gt;eSTK 的定义和基本概念&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;eSTK&lt;/strong&gt;（ Embedded SIM Toolkit ）是一种用于管理和操作嵌入式 SIM （ eSIM ）配置文件的工具。与传统的物理 SIM 卡不同，eSIM 是一种嵌入设备中的虚拟 SIM 卡，不需要物理插拔即可更换或添加运营商配置文件。eSTK 使用户能够通过手机的内置菜单直接下载、切换、启用或删除 eSIM 配置文件，从而简化了多个号码的管理过程。它特别适用于需要在不同国家或地区频繁切换运营商的用户，提供了灵活性和便利性。&lt;/p&gt;
+&lt;h2&gt;eSTK 的主要功能和特点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eSIM 配置管理&lt;/strong&gt;：允许用户下载、启用、禁用和删除 eSIM 配置文件，实现多号码管理。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨平台支持&lt;/strong&gt;：支持安卓和 IOS 设备。虽然 IOS 设备初次使用需要安卓或电脑设备，但后续操作可独立轻松完成。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;3. 为什么要使用 eSTK ？&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;国际出行需求&lt;/strong&gt;：对于经常出国旅行的中国用户，eSTK 能帮助他们在境外灵活切换运营商，节省漫游费用。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更好的号码管理&lt;/strong&gt;：通过 eSTK ，用户可以在一个设备上管理多个国际号码，无需携带多个手机或 SIM 卡。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;4. eSTK 的购买（&lt;a href="https://www.estk.me/product/" rel="nofollow"&gt;https://www.estk.me/product/&lt;/a&gt;）&lt;/h1&gt;
+&lt;h2&gt;eSTK 的选择（使用优惠码 aahph 有九折优惠）&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ESTKme-ECO Lite 售价 99 港币（ 91 人民币）   优惠后 89 港币（ 81 人民币）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不支持在 iPhone 上下载/切换/删除手机号码
+STK 仅支持 3 个 Profile 的切换（ APP 与读卡器无限制）
+ATR 被锁定为 Generic 模式
+仅支持 EasyEUICC 进行原生管理
+不支持 vEID 虚拟 EID 功能
+不支持配置 MOTD （欢迎消息）
+不支持子菜单直通
+可通过购买授权码升级到 ECO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ESTKme-ECO         售价 189 港币（ 173 人民币）优惠后 170 港币（ 156 人民币）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ECO Lite 的无阉割版本
+iPhone 和安卓均下载/切换/删除手机号码
+卡片容量 420 KB ，视 eSIM 数据大小决定写入数量，可以写入十张以上。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ESTKme-RED          暂未发售&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;支持 USB-C 和 BLE 的蓝牙 eUICC 读卡器。&lt;/p&gt;
+&lt;p&gt;后续会提供 Web BLE 在线配置功能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;5. eSTK 的使用方法&lt;/h1&gt;
+&lt;h2&gt;PC&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;什么是进程？什么是线程？&lt;/li&gt;
-&lt;li&gt;为什么 js 是异步的？&lt;/li&gt;
-&lt;li&gt;说说 Promise 解决了什么问题？&lt;/li&gt;
-&lt;li&gt;什么是微任务和宏任务？&lt;/li&gt;
-&lt;li&gt;js 引擎执行代码的顺序是什么？&lt;/li&gt;
-&lt;li&gt;dom 点击事件中有大量计算后更新 dom ，会有卡死现象如何优化？&lt;/li&gt;
-&lt;li&gt;为什么 dom 点击事件中有大量的计算，即使使用异步，还是会影响用户交互操作？&lt;/li&gt;
-&lt;li&gt;JS 能实现精准计时器吗？&lt;/li&gt;
-&lt;li&gt;如何实现一个尽可能精准的计时器？&lt;/li&gt;
-&lt;li&gt;为什么说 js 是事件驱动的？&lt;/li&gt;
-&lt;li&gt;…&lt;/li&gt;
+&lt;li&gt;一个读卡器。你可以购买官方的读卡器（售价 30 港币），也可以自行购买读卡器。自行购买，推荐使用 1688 购买，新人大概 6 到 8 元。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;浏览器的进程模型&lt;/h2&gt;
-&lt;h3&gt;进程 (Process)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;进程是一个正在执行的程序的实例。它包含程序代码、数据、资源（如文件、内存）以及执行中的程序计数器、寄存器和堆栈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特点&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;独立性&lt;/strong&gt;：进程是独立的执行单元，拥有自己的内存空间和资源。一个进程不能直接访问另一个进程的内存。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;资源开销&lt;/strong&gt;：创建和销毁进程的开销较大，因为操作系统需要分配和管理独立的资源。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;安全性&lt;/strong&gt;：由于进程之间相互独立，不同进程之间的错误不会直接影响彼此，提高了系统的稳定性。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;操作系统中的每个运行的应用程序，如文本编辑器、浏览器或计算器，都是一个进程。&lt;/p&gt;
-&lt;h3&gt;线程 (Thread)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;线程是进程中的一个执行路径，也被称为轻量级进程（ Lightweight Process, LWP ）。一个进程可以包含多个线程，它们共享进程的内存和资源。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;特点&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;共享资源&lt;/strong&gt;：同一个进程内的线程共享内存和资源，因此线程间通信和数据共享更加容易和高效。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;开销较小&lt;/strong&gt;：创建和销毁线程的开销比进程小，因为线程之间共享进程的资源。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;并行执行&lt;/strong&gt;：多线程允许一个进程中的多个任务并行执行，从而提高程序的执行效率。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;示例&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在一个文本编辑器中，可能会有一个线程负责响应用户输入，另一个线程负责自动保存文档，还有一个线程负责拼写检查。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;进程与线程的对比&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;特性&lt;/th&gt;
-&lt;th&gt;进程&lt;/th&gt;
-&lt;th&gt;线程&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;内存空间&lt;/td&gt;
-&lt;td&gt;独立&lt;/td&gt;
-&lt;td&gt;共享进程内存&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;创建开销&lt;/td&gt;
-&lt;td&gt;大&lt;/td&gt;
-&lt;td&gt;小&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;通信方式&lt;/td&gt;
-&lt;td&gt;通过进程间通信（ IPC ）&lt;/td&gt;
-&lt;td&gt;通过共享内存&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;崩溃影响&lt;/td&gt;
-&lt;td&gt;独立进程崩溃不影响其他进程&lt;/td&gt;
-&lt;td&gt;线程崩溃可能导致整个进程崩溃&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;执行效率&lt;/td&gt;
-&lt;td&gt;较低（独立内存）&lt;/td&gt;
-&lt;td&gt;较高（共享内存）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;strong&gt;进程与线程的使用场景&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;进程&lt;/strong&gt;：适用于需要高隔离性和稳定性的任务。例如，操作系统中的不同应用程序通常运行在独立的进程中。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;线程&lt;/strong&gt;：适用于需要高效并行执行且可以共享资源的任务。例如，服务器应用程序中的每个请求可以由一个独立的线程处理。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;总结&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;进程&lt;/strong&gt;是操作系统中独立运行的程序实例，拥有独立的内存空间和资源，适用于需要高隔离性和稳定性的任务。创建和销毁进程开销较大，但稳定性高。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;线程&lt;/strong&gt;是进程中的执行路径，共享进程的内存和资源，适用于需要高效并行执行的任务。线程创建和销毁开销较小，但一个线程崩溃可能影响整个进程。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;总结来说，进程提供隔离性和稳定性，而线程提供高效的并行执行能力。&lt;/p&gt;
-&lt;h3&gt;浏览器有哪些进程和线程&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;浏览器是一个多进程多线程的应用程序&lt;/strong&gt;，而 js 则是单线程的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;主进程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;负责浏览器的用户界面（比如浏览器上面的地址栏、前进后退、书签管理等等）、管理各个子进程（管理和创建&lt;strong&gt;渲染进程&lt;/strong&gt;）、处理用户输入以及与操作系统的交互（如文件访问）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;渲染进程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;每个标签页、iframe 都是一个独立的渲染进程。渲染进程需要处理非常多的任务，譬如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;解析 HTML&lt;/li&gt;
-&lt;li&gt;构建 DOM 树&lt;/li&gt;
-&lt;li&gt;解析 CSS&lt;/li&gt;
-&lt;li&gt;计算样式&lt;/li&gt;
-&lt;li&gt;计算布局&lt;/li&gt;
-&lt;li&gt;页面绘制（重排重绘）&lt;/li&gt;
-&lt;li&gt;每秒渲染 60 次页面&lt;/li&gt;
-&lt;li&gt;执行 JS 代码，处理宏任务微任务&lt;/li&gt;
-&lt;li&gt;…&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;网络进程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;专门负责网络请求和资源下载，独立于主进程和渲染进程&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GPU 进程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;负责处理图形相关任务，如 3D 绘图和硬件加速，以提高渲染性能&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;插件进程&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;浏览器插件运行在独立的插件进程中，负责处理插件相关的任务。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;…&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;在浏览器的每个渲染进程中，通常包括以下线程：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="官网" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJp5mv56PSs4NfYG8g2clX2gt3iOs4AAC8wQAAsPB-UWtiVcn0NIXvDUE" /&gt;&lt;/p&gt;
+&lt;p&gt;(官网)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="1688" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJp9mv57VK2QYzs803UG0sgP6cJ9DVwAC9AQAAsPB-UUvaZ3Ub-Rc-DUE" /&gt;&lt;/p&gt;
+&lt;p&gt;(1688)&lt;/p&gt;
+&lt;p&gt;自行购买的读卡器毕竟不是为 estk 量身定制，需要自备卡套来使用（如果你没有卡套，需要自行购买，也可以去附近的营业厅白嫖）。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqBmv57m1mVwm4qAQQtzb4B7FxXpTQACoQMAAhSoAAFGFyBHyYQankI1BA" /&gt;&lt;/p&gt;
+&lt;p&gt;如果你是这种中型卡套，可以在红点处打孔或是胶带粘住，以防塞进读卡器后拿不出来。然后如图箭头所示插入读卡器。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqFmv58FzJnBf0enqjecIzODUw19GAAC9QQAAsPB-UUsmr9F1DN9uTUE" /&gt;&lt;/p&gt;
+&lt;p&gt;如果是这种大卡套，直接竖直插入就可以了。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;strong&gt;主线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;执行 JavaScript&lt;/li&gt;
-&lt;li&gt;处理事件循环&lt;/li&gt;
-&lt;li&gt;执行布局和绘制&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;渲染线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;负责页面的绘制&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;合成线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;处理 CSS 动画和合成层&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;光栅化线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;将合成层转换为位图&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;网络线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;处理网络请求&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;strong&gt;Worker 线程&lt;/strong&gt;：&lt;ul&gt;
-&lt;li&gt;用于 Web Worker 和 Service Worker 的执行&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;一个写卡软件（&lt;a href="https://www.estk.me/ecosystem-software/" rel="nofollow"&gt;https://www.estk.me/ecosystem-software/&lt;/a&gt;）。这里使用 MiniLPA （ &lt;a href="https://github.com/EsimMoe/MiniLPA/releases" rel="nofollow"&gt;https://github.com/EsimMoe/MiniLPA/releases&lt;/a&gt; ）&lt;/li&gt;
+&lt;li&gt;将你的卡插入读卡器，打开 MiniLPA 。&lt;/li&gt;
+&lt;li&gt;打开 MiniLPA 后先刷新卡片信息&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;异步编程&lt;/h2&gt;
-&lt;p&gt;众所周知，&lt;strong&gt;JavaScript 在浏览器的主线程中是单线程执行的&lt;/strong&gt;。&lt;em&gt;&lt;strong&gt;而异步编程允许代码在不阻塞主线程的情况下执行耗时操作。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h3&gt;同步编程带来的问题&lt;/h3&gt;
-&lt;p&gt;在浏览器环境中，每个标签页都有其独立的渲染进程，其中包含一个主线程负责处理多项任务，如解析 HTML 、构建 DOM 树、解析 CSS 、计算样式和布局、渲染页面以及执行 JavaScript 代码等。&lt;/p&gt;
-&lt;p&gt;如果所有这些任务都同步执行，可能会导致以下问题：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqJmv58jlIF7kcxfgIgq0UGgByt9VQAC9gQAAsPB-UXPwTWBE4pIVTUE" /&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;主线程效率低下&lt;/strong&gt;：例如，在等待 AJAX 请求返回结果时，主线程处于空闲状态。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;用户体验差&lt;/strong&gt;：长时间的计算或等待可能导致页面无响应，影响交互。&lt;/li&gt;
+&lt;li&gt;下载 esim 。你可以直接通过将 esim 二维码/激活码文本拖入 MiniLPA 的形式下载，或是复制粘贴二维码图片的方式下载，也可以点击左上角下载图标进行手动输入下载。此处 SM-DP 填写运营商提供给你的信息，SM-DP+填在对应位置，MatchingID 就是 Activation code 。如果是 LPA:1$&lt;a href="http://rsp1.cmlink.com" rel="nofollow"&gt;rsp1.cmlink.com&lt;/a&gt;$237EBFBA*************的形式，直接粘贴到 SM-DP+处即可，MatchingID 会自动填写。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;为解决这些问题，浏览器引入了异步编程模型处理各种类型的任务，确保了主线程不会被阻塞，提高了程序的整体效率和响应性。事件循环就是异步的实现方式。&lt;/p&gt;
-&lt;h2&gt;JavaScript 中的任务类型&lt;/h2&gt;
-&lt;p&gt;同步代码、微任务、宏任务的执行顺序是什么？&lt;/p&gt;
-&lt;h3&gt;同步代码&lt;/h3&gt;
-&lt;p&gt;在初始阶段，script 标签中的代码被包装称为一个宏任务放到任务队列中，此时是没有其他微任务的。在全局代码中按照出现的顺序立即执行的都是同步代码。&lt;/p&gt;
-&lt;p&gt;异步代码则分为微任务和宏任务。&lt;/p&gt;
-&lt;h3&gt;微任务&lt;/h3&gt;
-&lt;p&gt;在 JavaScript 中，微任务（ Microtasks ）是为了在当前事件循环结束之前执行的小任务。&lt;/p&gt;
-&lt;p&gt;微任务在 JavaScript 执行堆栈为空时运行；微任务的执行优先级高于宏任务（ Macrotasks ）。另外，W3C 规范中规定每个渲染进程（标签页或 &lt;strong&gt;Web Worker&lt;/strong&gt; ）中必须且只能有一个微任务队列！&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;不理解也没关系，只需要记住下面的微任务即可&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqNmv583hmU5NVEYjBxQSz0zhAQ2hAAC9wQAAsPB-UVDLmu1FIH2zjUE" /&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Promise 回调函数&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;通过 &lt;code&gt;.then()&lt;/code&gt;、&lt;code&gt;.catch()&lt;/code&gt;、&lt;code&gt;.finally()&lt;/code&gt; 注册的&lt;strong&gt;回调函数是微任务&lt;/strong&gt;。但&lt;strong&gt;Promise 本身不是微任务。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;例如：下面代码中&lt;code&gt;console.log('Promise');&lt;/code&gt; 属于全局同步代码，并不会进入微任务队列！&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;console.log('Script start');
+&lt;li&gt;写入卡片后，右键点击卡片即可启用/禁用。&lt;/li&gt;
+&lt;li&gt;通知栏会记录写入等操作，可以删除你认为不重要的通知，节省空间。&lt;/li&gt;
+&lt;li&gt;其他 MiniLPA 功能请自行探索。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;安卓&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;首先下载&lt;strong&gt;Android EasyEUICC(&lt;/strong&gt;&lt;a href="https://www.estk.me/wp-content/uploads/2024/07/EasyEUICC-1.0.0.apk" rel="nofollow"&gt;https://www.estk.me/wp-content/uploads/2024/07/EasyEUICC-1.0.0.apk&lt;/a&gt;&lt;strong&gt;)进行写卡操作。&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;进入 EasyEUICC 后，先点击刷新卡片信息，再通过扫描二维码或手动输入进行卡片的下载。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="714cdfc17b4b867ddcddb4775f20d124.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqRmv59QyOozghVf7Mah5MK4YJFHSAAC-QQAAsPB-UXVdGmDrqVkCzUE" /&gt;&lt;/p&gt;
+&lt;h2&gt;IOS&lt;/h2&gt;
+&lt;p&gt;第一次下载 eSIM 配置文件时，由于 iOS 系统的限制，无法通过 Wi-Fi 或另一张 SIM 卡的流量进行操作。用户必须使用已经存在于 eSTK 中的旧手机号码来联网下载新配置。旧号码需要具备可用的流量套餐，并且该号码必须处于启用状态才能成功完成下载。因此，首次下载需要借助安卓手机或是 PC 读卡器来完成。在完成首次写入之后，即可在 IOS 上独立完成写卡，删卡，切卡。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;打开“设置”，在“蜂窝网络”中找到 SIM 卡应用程序，点击“Download”，首次 Download 会提示你开启“Cloud Enhance”，根据提示在“Setting 中选择 Cloud Enhance”，进入后选择“Enabled”，然后需要你接受一系列警告，然后启用 RemoteLPA 。&lt;/li&gt;
+&lt;li&gt;接下来可以返回“Download”，输入”Activation Code“，即 LPA:1$SM-DP+服务器地址$激活码。等待卡片信息下载完成。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqVmv592iJHAYQfZ-ep2WV8CPrs2YQAC-gQAAsPB-UVJaCUZWvMk9DUE" /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;点击 SIM 卡程序应用中“Profiles”，点击你想要切换的卡片，选择“Enable Profile”启用卡片。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqZmv5-FZaP8WiFjxq0BfAABL7VAFlQAAqIDAAIUqAABRtMIs72XbzX6NQQ" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="切换成功的提示" class="embedded_image" rel="noreferrer" src="https://i3.imgs.ovh/d/BQACAgEAAx0EUvSR8wACJqdmv5-SXcqCViotYN2wqH2qEIs5TgACowMAAhSoAAFG-0TTKinnoYQ1BA" /&gt;&lt;/p&gt;
+&lt;p&gt;切换成功的提示&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;点击“Delete Profile”即可完成删卡操作。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;6. eSTK 的常见问题与支持&lt;/h1&gt;
+&lt;h2&gt;可能遇到的常见问题&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;我需要购买一个读卡器吗？&lt;/strong&gt;
+如果你有一个 ISO/IEC 7816 可兼容接触式读卡器或者一部支持 OMAPI 的安卓手机，那么不需要。
+如果你希望将来能升级卡片固件，那么需要。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我应该买哪种 eSTK 版本？&lt;/strong&gt;
+钱包充裕直接买满血 eSTK-ECO ，钱包不充裕也可以先买 Lite 版本，后续也可以通过购买授权码升级为满血版。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;支持&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;安卓卡片工具，固件及调试工具&lt;/strong&gt;
+&lt;a href="https://www.estk.me/downloads/" rel="nofollow"&gt;https://www.estk.me/downloads/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PC 卡片工具&lt;/strong&gt;
+&lt;a href="https://www.estk.me/ecosystem-software/" rel="nofollow"&gt;https://www.estk.me/ecosystem-software/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 16 Aug 2024 18:59:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065678#reply1</guid></item><item><title>[小米] 也吐槽一下小米</title><link>https://www.v2ex.com/t/1065677#reply2</link><description>小米的东西真的好吗？售后好吗？&lt;br /&gt;1 ）以前网购了他家自行车，试骑了下想退，被告知可以退还城市管理人处理，这个管理人验车后说这个自行车他觉得蛮好的也要体验下，他又把自行车骑了一圈，随后找了个理由让我把自行车先拿回去，随后又联系说超出了自行车退还里程数，现在想想这个城市管理人真他么恶心&lt;br /&gt;2 ）买的小米手机刚好一年多点，开不了机了，修手机的说，小米手机出现这个问题的不是你一个，很多都是这样的问题，cpu 虚焊有没有？&lt;br /&gt;3 ）最后喜欢随意攻击别人的小米脑残粉，非常可怕，恐怕要出现在了帖子里，本人声明，不想回复这些 xx ，谢谢配合。</description><pubDate>Fri, 16 Aug 2024 18:57:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065677#reply2</guid></item><item><title>[Windows] 微软的 explorer.exe 里面都是什么屎山，能泄露超过 20GB+ 的 RAM</title><link>https://www.v2ex.com/t/1065676#reply1</link><description>&lt;p&gt;刚刚写代码，突然系统变卡，声音顿卡，鼠标拖动都有拖影，操作延迟直线上升。&lt;br /&gt;
+尝试了一下按 Ctrl+Alt+Del 结果安全屏幕都按不出来，怀疑是内存爆了。&lt;/p&gt;
+&lt;p&gt;赶紧关了 IDEA ，又关了浏览器和 WSL ，终于好不容易给任务管理器打开了，我直接大受震撼（此时此刻按截图快捷键已经完全没有反映了，请不要吐槽用手机拍照的问题）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="性能图表" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/17/r4mgWEcZIaGqXbV.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;切到进程选项卡看不出一点异常，所有进程磁盘占用都极高（疯狂 SWAP ，系统盘的固态写入压力也是拉爆。最绷不住的是因为占用的内存都被从 RAM 给 swap 掉了，所以内存占用看不出任何异常（包括详细信息）。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="看不出问题的进程选项卡" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/17/56o23BMhnIRWtgr.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;凭借我对微软多年的了解，我尝试干掉了 &lt;code&gt;explorer.exe&lt;/code&gt;，好嘛，瞬间就不卡了……&lt;/p&gt;
+&lt;p&gt;&lt;img alt="重启 explorer.exe" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/17/L3nd8YmveBZstSF.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;任务管理器里显示我只开机了 2 天 8 个小时，我寻思也不是长时间没重启的问题，系统 Windows 11 23H2 22631 。&lt;/p&gt;
+&lt;p&gt;连基本的稳定运行都做不到，还是这样核心的系统组件出问题，生产力属于是大打折扣了。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 18:49:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065676#reply1</guid></item><item><title>[骑行] 求推荐一款高性价的“公路车骑行前灯”</title><link>https://www.v2ex.com/t/1065675#reply2</link><description>&lt;h3&gt;今天我买的骑行手电收到了，晚上出去溜了一圈&lt;/h3&gt;
+&lt;h3&gt;发现一个比较严重的问题，灯光亮度倒是还能接受毕竟东西不贵，就一点我比较难受。&lt;/h3&gt;
+&lt;h3&gt;这个手电为低频的 PWM 调光 100Hz ，骑行了一个半小时眼睛比较难受😣。&lt;/h3&gt;
+&lt;h1&gt;求大佬推荐性价比比较高的，优先 dc 直驱，其次就是高频 pwm 调光，800lm 或者以上的亮度。&lt;/h1&gt;</description><pubDate>Fri, 16 Aug 2024 18:16:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065675#reply2</guid></item><item><title>[问与答] 想低成本的试运营一些微服务(主要是 Spring boot)该怎么选型？内网穿透 or ServerLess</title><link>https://www.v2ex.com/t/1065674#reply3</link><description>&lt;p&gt;&lt;strong&gt;需求和背景&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近公司开始降薪 15%并且传闻要搬到很偏的一个地方办公，逼得我又捡起了尝试了十万次的副业计划，就想试着运营一些开源的或者以前自己写的一些项目，以 Spring boot 的微服务居多。去云上看了下，现在的服务器（三台 ecs+rds+redis+elastic search ）按包一年算下来这笔钱也有点吓人，就是去掉 es 、kafka 这些贵族服务，RDS 采用 Serverless ，感觉投入也不小。根据自己经验和看了网上的一些资料:&lt;/p&gt;
+&lt;h4&gt;对于应用/服务层觉得如下两种方案可行&lt;/h4&gt;
+&lt;p&gt;一、是使用阿里云的 Serverless 应用引擎 SAE
+这个方案有三个疑问：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;其他云如腾讯云似乎没有对应的微服务的 Serverless 解决方案，它只有单服务的函数计算，这不是被绑死了云，二来想想腾讯云不应该搞不定这个，问问在座的各位彦祖亦菲，是不是我打开方式不对；&lt;/li&gt;
+&lt;li&gt;感觉这个服务是每次请求来了才会启动应用，这个延迟会不会很大；&lt;/li&gt;
+&lt;li&gt;明明是 serverless ，怎么又要让我先买资源包才能开通；&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;二、是把服务跑在家里的主机上，买台公网 IP 的 ECS ，通过内网穿透如 frp 把家里搭建的服务穿透出去。
+这个方案的疑问是：&lt;/p&gt;
+&lt;p&gt;1.这种方案可行性如何，比如延迟、稳定性等；
+2.是本地运维有没有好一些平台和框架来管理本地的一台主机和两台笔记本的集群，rancher 和 kubesphere 都没接触过，但是看起来似乎重了点。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 17:35:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065674#reply3</guid></item><item><title>[程序员] 如何理解 Go 语言中作用域延伸？</title><link>https://www.v2ex.com/t/1065673#reply3</link><description>&lt;p&gt;在 Go 语言中，代码块内声明的标识符，只能在代码块内使用。例如函数体是个代码块，里面定义的变量，只要没发生逃逸，在外部无法访问。
+但有一种特殊情况，就是在支持初始化子语句的流程语句中，初始化子语句中定义的变量，作用域会延伸到条件对应的代码块之外。请看代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-go"&gt;package main
 
-setTimeout(() =&amp;gt; {
-    console.log('setTimeout');
-}, 0);
+import "fmt"
 
-new Promise((resolve, reject) =&amp;gt; {
-    console.log('Promise');
-    resolve();
-}).then(() =&amp;gt; {
-    console.log('then');
-});
-
-// 监听 DOM 变化的回调
-const observer = new MutationObserver(() =&amp;gt; {
-		// 该回调函数会进入为任务队列
-    console.log('MutationObserver');
-});
-observer.observe(document.querySelector('.box'), {
-    attributes: true
-});
-document.querySelector('.box').setAttribute('data', Math.random());
-
-Promise.resolve()
-    .then(() =&amp;gt; {
-        console.log('Promise 1');
-    })
-    .then(() =&amp;gt; {
-        console.log('Promise 2');
-    });
-
-console.log('Script end');
-
-// 执行结果：
-// Script start
-// Promise
-// Script end
-// then
-// MutationObserver
-// Promise 1
-// Promise 2
-// setTimeout
+func main() {
+	if a := 1; false {
+		fmt.Println(a)
+		//fmt.Println(b)   // 不能引用下面语句定义的块级变量
+	} else if b := 2; a &amp;gt; b { 
+		fmt.Println(a - b) // 可以引用上面语句定义的块级变量
+	} else {
+		fmt.Println(a + b) // 在最后 a 和 b 都可以引用
+	}
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver" rel="nofollow"&gt;MutationObserver&lt;/a&gt; 的回调函数&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当监听 DOM 变化，其&lt;strong&gt;触发的回调函数是微任务&lt;/strong&gt;。参考上面的代码 &lt;code&gt;console.log('MutationObserver');&lt;/code&gt; 是先进入微任务队列后按队列顺序执行的。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/API/HTML_DOM_API/Microtask_guide" rel="nofollow"&gt;queueMicrotask&lt;/a&gt; 的回调函数&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;显式将任务添加到微任务队列。可以用来改变某些代码的执行顺序，但如果增加过多&lt;code&gt;queueMicrotask&lt;/code&gt; ，可能导致其他任务无法执行或延迟， 比如页面渲染任务。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-jsx"&gt;console.log('Script start');
+&lt;p&gt;左看右看也想不明白，为什么 &lt;code&gt;else if&lt;/code&gt; 中定义的变量 &lt;code&gt;b&lt;/code&gt; 也能在 &lt;code&gt;else&lt;/code&gt; 块中使用？如果有更多条件判断，那么前一个 &lt;code&gt;else if&lt;/code&gt; 中定义的变量，在之后所有 &lt;code&gt;else if&lt;/code&gt; 块中都能使用。&lt;/p&gt;
+&lt;p&gt;在 C++ 中，&lt;code&gt;if&lt;/code&gt; 中定义的变量 &lt;code&gt;a&lt;/code&gt;，可以跨整个流程语句，&lt;code&gt;else if&lt;/code&gt; 中定义的变量明确不能在其他 &lt;code&gt;else&lt;/code&gt; 代码块中引用：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-cpp"&gt;#include &amp;lt;iostream&amp;gt;
 
-setTimeout(() =&amp;gt; {
-    console.log('setTimeout');
-}, 0);
-
-new Promise((resolve, reject) =&amp;gt; {
-    console.log('Promise');
-    resolve();
-}).then(() =&amp;gt; {
-    console.log('then');
-});
-
-// 如果执行下面的无限递归 addMicrotask
-// 那么页面上.box textContent 永远也不会变化，渲染 dom 是一个宏任务
-// 微任务没有执行完，控制权不会交换给事件循环，因此无法执行宏任务
-// function addMicrotask() {
-//     queueMicrotask(() =&amp;gt; {
-//         console.log('Microtask executed');
-//         addMicrotask(); // 继续添加微任务
-//     });
-// }
-// addMicrotask()
-queueMicrotask(() =&amp;gt; {
-    console.log('Microtask 1');
-});
-
-const observer = new MutationObserver(() =&amp;gt; {
-    console.log('MutationObserver');
-});
-observer.observe(document.querySelector('.box'), {
-    attributes: true,
-});
-document.querySelector('.box').textContent = +Date.now();
-
-console.log('Script end');
-
-// 执行结果
-// Script start
-// Promise
-// Script end
-// then
-// Microtask 1
-// setTimeout
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;code&gt;await&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;使用 &lt;code&gt;await&lt;/code&gt; 时，函数会暂停执行，直到 &lt;code&gt;await&lt;/code&gt; 的 Promise 解决（ fulfilled 或 rejected ）,这段暂停时间允许其他任务执行，不会阻塞主线程。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;当 Promise 解决时，&lt;code&gt;await&lt;/code&gt; 后面的代码会作为微任务加入微任务队列。&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;宏任务&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在最新的 W3C(WHATWG) 规范中，其实并没有宏任务的定义，而是直接称之为“&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#concept-task" rel="nofollow"&gt;&lt;strong&gt;任务&lt;/strong&gt;&lt;/a&gt;”，为了容易区分，我们暂时还称为宏任务，但请记住，规范的说法是“&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#concept-task" rel="nofollow"&gt;&lt;strong&gt;任务&lt;/strong&gt;&lt;/a&gt;”。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;宏任务（ Macrotasks ）同样用于处理异步操作，他和微任务的最大区别在于执行时机，宏任务在微任务之后执行。js 中主要有以下宏任务：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;setTimeout/setInterval 定时器回调函数&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Node.js 中的 &lt;strong&gt;setImmediate&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;I/O 操作：&lt;/strong&gt;  处理文件读写、网络请求等输入输出操作。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;UI 渲染：&lt;/strong&gt;  页面绘制、DOM 更新等等&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MessageChannel：&lt;/strong&gt;  可以在不同的浏览器上下文之间持续双向通信&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;postMessage：&lt;/strong&gt;  在不同窗口、iframe 、或 worker 之间传递单个消息，单向通信&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;事件回调：&lt;/strong&gt;  绑定到 DOM 事件，如点击、输入等&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;其他特殊任务&lt;/h3&gt;
-&lt;p&gt;事实上，还有一些特殊的任务，他们既不是微任务也不是宏任务，有自己独立的运行机制，不适用于常规的事件循环机制，比如：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;requestIdleCallback：&lt;/strong&gt;  在浏览器空闲时执行代码的 API ，优先级较低&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;requestAnimationFrame：&lt;/strong&gt;  浏览器在下一次重绘之前，调用用户提供的回调函数。它的优先级高于宏任务，但低于微任务&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;任务队列&lt;/h2&gt;
-&lt;p&gt;任务队列在&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;规范&lt;/a&gt;中有明确的说明：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop" rel="nofollow"&gt;事件循环&lt;/a&gt;有一个或多个任务队列。&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;任务队列&lt;/a&gt;是一&lt;a href="https://infra.spec.whatwg.org/#ordered-set" rel="nofollow"&gt;组&lt;/a&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#concept-task" rel="nofollow"&gt;任务&lt;/a&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;任务队列&lt;/a&gt;是&lt;a href="https://infra.spec.whatwg.org/#ordered-set" rel="nofollow"&gt;集合&lt;/a&gt;，而不是&lt;a href="https://infra.spec.whatwg.org/#queue" rel="nofollow"&gt;队列&lt;/a&gt;，因为&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model" rel="nofollow"&gt;事件循环处理模型&lt;/a&gt;从所选队列中获取第一个&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#concept-task-runnable" rel="nofollow"&gt;可运行的&lt;/a&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#concept-task" rel="nofollow"&gt;任务&lt;/a&gt;，而不是使第一个任务&lt;a href="https://infra.spec.whatwg.org/#queue-dequeue" rel="nofollow"&gt;出队&lt;/a&gt;。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#microtask-queue" rel="nofollow"&gt;微任务队列&lt;/a&gt;不是&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;任务队列&lt;/a&gt;（这里指的是“宏”任务队列）。&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;微任务队列&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#microtask-queue" rel="nofollow"&gt;微任务队列&lt;/a&gt;是当前 JavaScript 主线程中所有微任务的集合。&lt;/strong&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#microtask-queue" rel="nofollow"&gt;规范&lt;/a&gt;要求每个&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop" rel="nofollow"&gt;事件循环&lt;/a&gt;都有一个微任务队列，最初是空的。&lt;/p&gt;
-&lt;p&gt;在所有的同步任务执行完成后，控制权移交事件循环，并获取微任务队列中第一个可运行的任务创建执行上下文后在执行堆栈中运行。&lt;/p&gt;
-&lt;h3&gt;任务队列&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;和上面所说的宏任务一样，规范中的准确定义是 &lt;strong&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;&lt;code&gt;任务队列&lt;/code&gt;&lt;/a&gt; 。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;任务队列&lt;/a&gt;是当前 JavaScript 主线程中所有微任务的集合。&lt;/strong&gt; 但和为任务队列不同的是每个事件循环中可以有多个任务队列。&lt;/p&gt;
-&lt;p&gt;当页面加载或脚本执行时，最初的同步代码被视为一个宏任务。而此时执行栈是空的，微任务队列也是空的，所以这个“宏任务”会优先执行。&lt;/p&gt;
-&lt;p&gt;其他的情况则是按照 &lt;strong&gt;执行同步代码 → 执行微任务 → 执行宏任务&lt;/strong&gt;的顺序。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;使用定时器无法实现精准的定时效果，给他们传入延时参数只是最快执行的时间，而实际上即使计时到了，也必须等待所有的同步代码和微任务执行完成。
-另外，定时器嵌套达到 5 层后会延时参数最小值会强制从 0 变为 4 ，这也增大了误差。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;规范中定义了多个任务的类型，他们有自己关联的任务队列，比如，可能有以下队列：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;DOM 操作队列：&lt;/strong&gt;  处理 DOM 相关的任务&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;网络事件队列：&lt;/strong&gt;  处理网络请求的响应&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;计时器队列：&lt;/strong&gt;  处理 &lt;code&gt;setTimeout&lt;/code&gt; 和 &lt;code&gt;setInterval&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;用户交互队列：&lt;/strong&gt;  处理用户输入事件，如点击和键盘输入。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;渲染队列：&lt;/strong&gt;  处理与页面渲染相关的任务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;多个任务队列如何保证执行顺序？通常来说是按照进入队列的时间，不过规范中并没有严格定义，允许各家浏览器自行实现内部细节，但用户交互相关任务（如鼠标点击、键盘输入等）的优先级会较高一些，以确保用户操作的响应速度。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;规范中的原文如下：
-For example, a user agent could have one &lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;task queue&lt;/a&gt; for mouse and key events (to which the &lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#user-interaction-task-source" rel="nofollow"&gt;user interaction task source&lt;/a&gt; is associated), and another to which all other &lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-source" rel="nofollow"&gt;task sources&lt;/a&gt; are associated. Then, using the freedom granted in the initial step of the &lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model" rel="nofollow"&gt;event loop processing model&lt;/a&gt;, it could give keyboard and mouse events preference over other tasks three-quarters of the time, keeping the interface responsive but not starving other task queues. Note that in this setup, the processing model still enforces that the user agent would never process events from any one &lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-source" rel="nofollow"&gt;task source&lt;/a&gt; out of order.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;&lt;strong&gt;任务派发流程&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;在浏览器环境中，虽然 JavaScript 是单线程执行的，但每个渲染进程（如每个 Tab 或 Worker ）由多个线程组成。这些线程包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;主线程（ UI 线程）&lt;/strong&gt;：执行 JavaScript 、布局、绘制等。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;合成线程：&lt;/strong&gt;  处理页面合成和光栅化。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;工作线程（ Web Workers ）&lt;/strong&gt;：包括 Web Workers 和其他后台任务处理线程。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;IO 线程：&lt;/strong&gt;  处理 IPC 通信和网络请求。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;定时器线程&lt;/strong&gt;：处理定时任务（如 &lt;code&gt;setTimeout&lt;/code&gt;、&lt;code&gt;setInterval&lt;/code&gt;）。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;当 JavaScript 代码在主线程的执行栈中运行时，遇到异步 API （如定时器、网络请求、事件监听器等）会触发任务分发：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;定时器任务：&lt;/strong&gt;  由定时器线程管理，到期后将回调函数封装为任务，放入任务队列。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;网络请求：&lt;/strong&gt;  由 IO 线程处理，完成后将回调封装为任务，加入网络任务队列。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;DOM 事件：&lt;/strong&gt;  由主线程监听，事件触发时将监听器封装为任务，加入事件任务队列。&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Promise 微任务：&lt;/strong&gt;  在当前执行栈清空后，主线程立即处理这些微任务。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;接下来等待&lt;strong&gt;事件循环&lt;/strong&gt;处理任务队列即可。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;浏览器内部会有一套非常复杂的逻辑用于管理不同优先级的任务队列，例如 chromium 中的 &lt;a href="https://github.com/chromium/chromium/blob/d53578e9ef7779254dc7b5681a339c75bbf2e234/base/task/sequence_manager/README.md" rel="nofollow"&gt;sequence_manger&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;事件循环&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在 w3c 标准中称为&lt;a href="https://www.w3.org/TR/2011/WD-html5-20110525/webappapis.html#event-loops" rel="nofollow"&gt;&lt;strong&gt;&lt;code&gt;Event loops&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; ，而在谷歌的 chromium 中称为 &lt;code&gt;Message Loop&lt;/code&gt; ，源码中具体的实现方法是&lt;a href="https://github.com/chromium/chromium/blob/main/base/message_loop/message_pump_default.cc#L32C6-L32C29" rel="nofollow"&gt;&lt;code&gt;MessagePumpDefault::Run&lt;/code&gt;&lt;/a&gt; ，参考以下代码：&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pre&gt;&lt;code class="language-cpp"&gt;    void MessagePumpDefault::Run(Delegate* delegate) {
-      // 通过 AutoReset 类自动管理 keep_running_的值。构造函数将 keep_running_设置为 true ，
-      // 析构函数将其恢复为原来的值。
-      AutoReset&amp;lt;bool&amp;gt; auto_reset_keep_running(&amp;amp;keep_running_, true);
-
-      // 无限循环，直到 keep_running_被设置为 false 或遇到 break 语句。
-      for (;;) {
-    #if BUILDFLAG(IS_APPLE)
-        // 在 Apple 平台上，创建一个自动释放池（ autorelease pool ），
-        // 用于管理 Objective-C 对象的内存。
-        apple::ScopedNSAutoreleasePool autorelease_pool;
-    #endif
-
-        // 调用 delegate 的 DoWork 方法获取下一步工作的信息。
-        Delegate::NextWorkInfo next_work_info = delegate-&amp;gt;DoWork();
-        // 检查是否有更多的紧急工作需要立即处理。
-        bool has_more_immediate_work = next_work_info.is_immediate();
-        // 如果 keep_running_被设置为 false ，退出循环。
-        if (!keep_running_)
-          break;
-
-        // 如果有更多的紧急工作，继续循环处理，而不进行等待。
-        if (has_more_immediate_work)
-          continue;
-
-        // 调用 delegate 的 DoIdleWork 方法，处理空闲时的工作。
-        delegate-&amp;gt;DoIdleWork();
-        // 再次检查 keep_running_，如果为 false ，则退出循环。
-        if (!keep_running_)
-          break;
-
-        // 根据 next_work_info 中的信息决定是否进行等待。
-        if (next_work_info.delayed_run_time.is_max()) {
-          // 如果 next_work_info.delayed_run_time 为最大值，
-          // 则进行无限等待，直到 event_被触发。
-          event_.Wait();
-        } else {
-          // 否则，等待指定的时间（ remaining_delay ）后再继续。
-          event_.TimedWait(next_work_info.remaining_delay());
-        }
-        // Since event_ is auto-reset, we don't need to do anything special here
-        // other than service each delegate method.
-        // event_是自动重置的，因此我们不需要在这里做特殊处理。
-        // 只需要继续服务每个 delegate 的方法。
-      }
+int main() {
+    if (int a = 1; false) { // a 在整个 if-else 结构中可见
+        std::cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; std::endl;
+    } else if (int b = 2; a &amp;gt; b) {  // a 可访问
+        std::cout &amp;lt;&amp;lt; a - b &amp;lt;&amp;lt; std::endl;
+    } else {
+        std::cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; std::endl;  // a 可访问
+        // std::cout &amp;lt;&amp;lt; b &amp;lt;&amp;lt; std::endl;  // 错误：b 不可访问
     }
+    return 0;
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;了解上面的内容后，事件循环就非常容易理解了。&lt;strong&gt;整体流程如下：&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;主线程运行全局/局部同步代码，同时处理微任务队列和任务队列&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;同步代码执行完成通知事件循环启动并查询微任务队列中第一个可运行的任务交由执行栈运行代码，直至微任务队列为空&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;查询其他任务队列，取出第一个可运行任务交由执行栈运行代码&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;宏任务中可能存在同步代码或微任务，重复 1-4 ，直至任务队列全部清空&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img alt="https://fastly.jsdelivr.net/gh/rennzhang/blog-pics@main/images/1723099122073%E7%94%BB%E5%B8%83%E4%B8%80.png 转存失败，建议直接上传图片文件" class="embedded_image" rel="noreferrer" src="https://fastly.jsdelivr.net/gh/rennzhang/blog-pics@main/images/1723099122073%E7%94%BB%E5%B8%83%E4%B8%80.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Javascript 是事件驱动的。&lt;/p&gt;
-&lt;h2&gt;代码输出顺序&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;下面这道地狱级别输出题，能答对 70%我相信就能应对大部分面试官了🤓（可以去掉&lt;strong&gt;requestAnimationFrame 和 requestIdleCallback ，这两个干扰比较大&lt;/strong&gt;）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这个案例中从输出结果来看 channel.port2.postMessage 的优先级似乎比 settimeout 要低一些，并没有严格按照代码出现顺序执行&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html lang="en"&amp;gt;
-
-&amp;lt;head&amp;gt;
-    &amp;lt;meta charset="UTF-8" /&amp;gt;
-    &amp;lt;meta name="viewport" content="width=device-width, initial-scale=1.0" /&amp;gt;
-    &amp;lt;title&amp;gt;Macro and Microtasks&amp;lt;/title&amp;gt;
-    &amp;lt;style&amp;gt;&amp;lt;/style&amp;gt;
-&amp;lt;/head&amp;gt;
-
-&amp;lt;body&amp;gt;
-    &amp;lt;textarea name="" id=""&amp;gt;&amp;lt;/textarea&amp;gt;
-    &amp;lt;div class="box"&amp;gt;&amp;lt;/div&amp;gt;
-
-    &amp;lt;script&amp;gt;
-        console.log("1");
-
-        setTimeout(() =&amp;gt; {
-            console.log("2");
-        }, 0);
-
-        setTimeout(() =&amp;gt; {
-            console.log("3");
-        }, 1000);
-
-        const channel = new MessageChannel();
-        channel.port1.onmessage = (val) =&amp;gt; {
-            console.log(val);
-        };
-        channel.port2.postMessage("4");
-
-        setInterval(() =&amp;gt; {
-            console.log("55");
-        }, 1000);
-
-        let a = 1;
-        while (a &amp;lt; 100000) {
-            a++;
-            if (a == 1000 || a == 100000) console.log(a);
+&lt;p&gt;在 C# 中，规定更是严格，&lt;code&gt;if&lt;/code&gt; 和 &lt;code&gt;else if&lt;/code&gt; 中定义的变量，只能在随后的代码块中使用，不能跨到代码块：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-c#"&gt;public class Program {
+    public static void Main() {
+        if (int a = 1; false) {
+            Console.WriteLine(a);
+        } else if (int b = 2; a &amp;gt; b) {  // 错误：a 不可访问
+            Console.WriteLine(a - b);
+        } else {
+            Console.WriteLine(a + b);  // 错误：a 和 b 都不可访问
         }
-
-        new Promise(function (resolve, reject) {
-            console.log("5");
-            resolve(3);
-        }).then(function (val) {
-            console.log("6");
-        });
-        console.log(7);
-
-        Promise.resolve()
-            .then(() =&amp;gt; {
-                console.log("8");
-            })
-            .then(() =&amp;gt; {
-                console.log("9");
-            });
-
-        const observer = new MutationObserver(() =&amp;gt; {
-            console.log("MutationObserver 10");
-        });
-        observer.observe(document.querySelector(".box"), {
-            attributes: true,
-        });
-        document.querySelector(".box").setAttribute("data", Math.random());
-        setTimeout(() =&amp;gt; {
-            console.log("11");
-            Promise.resolve().then(() =&amp;gt; {
-                console.log("12");
-            });
-            requestAnimationFrame(() =&amp;gt; {
-                console.log("RAF 13");
-            });
-        }, 0);
-
-        console.log("14");
-        requestIdleCallback(() =&amp;gt; {
-            console.log("requestIdleCallback 15");
-        });
-
-        queueMicrotask(() =&amp;gt; {
-            console.log("16");
-            new Promise((resolve, reject) =&amp;gt; {
-                console.log("17");
-                resolve();
-            }).then(() =&amp;gt; {
-                console.log("18");
-            });
-            Promise.resolve()
-                .then(() =&amp;gt; {
-                    console.log("19");
-                })
-                .then(() =&amp;gt; {
-                    console.log("20");
-                });
-
-            setTimeout(() =&amp;gt; {
-                console.log("21");
-            }, 0);
-
-            requestAnimationFrame(() =&amp;gt; {
-                console.log("RAF 22");
-            });
-        });
-
-        Promise.resolve()
-            .then(() =&amp;gt; {
-                console.log("23");
-            })
-        channel.port2.postMessage("24");
-
-        requestAnimationFrame(() =&amp;gt; {
-            console.log("RAF 25");
-        });
-
-        console.log("26");
-    &amp;lt;/script&amp;gt;
-&amp;lt;/body&amp;gt;
-
-&amp;lt;/html&amp;gt;
-
+    }
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;参考资料&lt;/h2&gt;
-&lt;h3&gt;WHATWG&lt;/h3&gt;
-&lt;p&gt;虽然 W3C 曾是 Web 标准的主要制定者，但在 HTML 方面，WHATWG 的“Living Standard”模式更适合快速变化的 Web 环境。W3C 的标准更新较慢，可能无法及时反映最新的技术和浏览器实现。最重要的是，各大浏览器厂商通常使用 WHATWG 的规范来实现 HTML 和 DOM 标准。&lt;/p&gt;
-&lt;h3&gt;资料列表&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop" rel="nofollow"&gt;事件循环 - HTML Standard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#task-queue" rel="nofollow"&gt;任务队列 - HTML Standard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#generic-task-sources" rel="nofollow"&gt;任务源类型 - HTML Standard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model" rel="nofollow"&gt;事件循环执行步骤 - HTML Standard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth" rel="nofollow"&gt;深入：微任务与 Javascript 运行时环境 - Web API | MDN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Event_loop" rel="nofollow"&gt;并发模型与事件循环 - JavaScript | MDN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://developer.mozilla.org/zh-CN/docs/Web/API/HTML_DOM_API/Microtask_guide#%E4%BB%BB%E5%8A%A1_vs_%E5%BE%AE%E4%BB%BB%E5%8A%A1" rel="nofollow"&gt;在 JavaScript 中通过 queueMicrotask() 使用微任务 - Web API | MDN&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://docs.google.com/document/u/0/d/1iugySsfTXtSg4cBwAarhObu89392hYZp-119x7inhR0/mobilebasic?_immersive_translate_auto_translate=1" rel="nofollow"&gt;base::CurrentTaskRunner 提案&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://chromium.googlesource.com/chromium/src/+/main/docs/threading_and_tasks.md#Posting-to-the-Current-Virtual_Thread" rel="nofollow"&gt;Chromium Docs - Threading and Tasks in Chrome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/chromium/chromium/blob/d53578e9ef7779254dc7b5681a339c75bbf2e234/base/task/sequence_manager/README.md" rel="nofollow"&gt;chromium/base/task/sequence_manager/README.md · chromium/chromium&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://javascript.plainenglish.io/how-the-event-loop-works-in-the-chrome-browser-ccf99c6c5a5" rel="nofollow"&gt;Chrome 浏览器中的事件循环工作原理 | 作者：Roman Melnik&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cycle263.github.io/blogs/javascripts/depth/async/thread.html" rel="nofollow"&gt;浏览器线程 | Cycle263 Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Fri, 16 Aug 2024 12:22:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065630#reply0</guid></item><item><title>[宽带症候群] pt 站点疑似有 pcdn 用户出现</title><link>https://www.v2ex.com/t/1065628#reply4</link><description>&lt;p&gt;目前只在 hdtime 和 hdfans 上发现，下载到 100%后，过一天又会重新开始下载
-183.130.207.228
-183.130.235.175
-115.221.106.105
-115.219.5.10
-220.190.36.23
-115.222.156.94
-这几个 ip 可以肯定是 pcdn 刷流量的
-而且都是温州的，不知道是不是巧合&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 12:03:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065628#reply4</guid></item><item><title>[macOS] macOS 不允许分配 Shift 键作为快捷键的一部分是有什么原因吗？</title><link>https://www.v2ex.com/t/1065627#reply1</link><description>作为一个平时不只使用英语作为唯一输入法的人，多年以来我始终感觉独自决定使用“单次按大小写锁定键切换输入法”的逻辑非常的离谱，他们难道没有发现左手的小拇指只要轻轻向下移到左 Shift 键上，轻按，这样更符合逻辑同时也不会不舒适么？或者 Shift+空格键也可以。&lt;br /&gt;&lt;br /&gt;但是如果要去碰键盘最下面一排空格键左边的那几个键，我就不得不用我的胳膊肘带动左手腕移动我左手掌的位置去切换输入法，再回到传统按键区（ ASDF ）继续输入文字。在我的左手在 ASDF 键位上时，不太费力可以碰到的左边的键只有大小写锁定键和左 Shift 键（当然也有 Tab 键，但是在输入文字时单击它有它自己的功能，而单击 Shift 通常没有）。&lt;br /&gt;&lt;br /&gt;我不觉得只有我一个人给写 feedback 会引起他们的注意，所以只是吐槽一下</description><pubDate>Fri, 16 Aug 2024 11:57:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065627#reply1</guid></item><item><title>[投资] 今天接到 HSBC RM 的电话，建议我投资美股和美债</title><link>https://www.v2ex.com/t/1065626#reply3</link><description>&lt;p&gt;各位有什么推荐？是直接买股/债，还是买 ETF ？&lt;/p&gt;
-&lt;p&gt;预计 9 月降息后美元汇率会跌，现在换美元会不会亏？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:52:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065626#reply3</guid></item><item><title>[分享创造] 重新做了个人主页和导航站，感觉比以前顺眼多了。再顺便加个文件分享</title><link>https://www.v2ex.com/t/1065625#reply1</link><description>&lt;p&gt;之前的主页和导航站一直是静态的，要改个东西还要用 vim 改。&lt;/p&gt;
-&lt;p&gt;考虑到之前总是需要传小文件，登微信又不方便，需要一个文件分享功能。&lt;/p&gt;
-&lt;p&gt;有些时候一些链接特别长，发给别人一大串，再做个短链服务吧。&lt;/p&gt;
-&lt;p&gt;做都做了，再顺手一个 markdown 的笔记（这个功能有点简陋）。&lt;/p&gt;
-&lt;h2&gt;功能介绍&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;首页个人信息与横幅展示&lt;/li&gt;
-&lt;li&gt;导航页的外链展示与跳转&lt;/li&gt;
-&lt;li&gt;
-账号密码登录&lt;ul&gt;
-&lt;li&gt;在主页单击名字，账号密码输入框会弹出&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;云笔记模块&lt;/li&gt;
-&lt;li&gt;短链服务&lt;/li&gt;
-&lt;li&gt;文件存储/分享/直链下载/鉴权&lt;/li&gt;
-&lt;li&gt;着陆页的所有内容可编辑&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt="着陆页首屏" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Coooolfan/UniBoard/v0.2.1/img/LandingPage1.png" /&gt;
-&lt;img alt="着陆页第二屏" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Coooolfan/UniBoard/v0.2.1/img/LandingPage2.png" /&gt;
-&lt;img alt="主页功能组件展示" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/Coooolfan/UniBoard/v0.2.1/img/HomePage.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;第一方支持 docker-compose 部署，编辑完&lt;code&gt;.env&lt;/code&gt;一行命令就可以启动体验一下&lt;/p&gt;
-&lt;p&gt;再说一下这个文件分享，我自己还挺喜欢的。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;可以生成 5 分钟有效的直链&lt;/li&gt;
-&lt;li&gt;可以设置分享密码、附言&lt;/li&gt;
-&lt;li&gt;非私有的文件也可以用 api 直接下载。直接 wget 就行。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;项目地址：&lt;a href="https://github.com/Coooolfan/UniBoard" rel="nofollow"&gt;https://github.com/Coooolfan/UniBoard&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;后续应该还会集成一个探针服务，嘻嘻。有灵感的时候写代码好爽的&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:52:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065625#reply1</guid></item><item><title>[酷工作] 招聘高级 golang 开发 30-35k，远程办公 [要有游戏和区块链经验]</title><link>https://www.v2ex.com/t/1065623#reply0</link><description>&lt;p&gt;职责描述&lt;/p&gt;
-&lt;p&gt;• Golang 工程师 [ 30-35k ]&lt;/p&gt;
-&lt;p&gt;1.负责游戏服务端、虚拟币钱包、区块链的开发工作&lt;/p&gt;
-&lt;p&gt;2.负责项目的整体框架构建&lt;/p&gt;
-&lt;p&gt;3.通过数据分析项目系统性能，对整个系统进行深度优化，提高性能和稳定性&lt;/p&gt;
-&lt;p&gt;4.有区块链应用、Telegram 机器人、棋牌游戏服务端开发经验者优先&lt;/p&gt;
-&lt;p&gt;有意者可以联系发简历到邮箱： &lt;a href="mailto:luluyaya@proton.me"&gt;luluyaya@proton.me&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简历留下你的 Telegram 如果合适会有专人联系你的&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:48:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065623#reply0</guid></item><item><title>[求职] web3 有没有新人友好岗位</title><link>https://www.v2ex.com/t/1065622#reply0</link><description>&lt;p&gt;最近正在学习 web3 。苦于没有经验，找不到合适的岗位来对标学习。这个问题如何破解&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:44:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065622#reply0</guid></item><item><title>[宽带症候群] 谁偷了我的🪜流量？分享一个自用的全屋科学监控面板</title><link>https://www.v2ex.com/t/1065621#reply1</link><description>&lt;p&gt;&lt;a href="https://www.v2ex.com/t/1039732" rel="nofollow"&gt;书接上回&lt;/a&gt;，自从手搓完 OSPF 域名分流方案，并分享出来后，得益于用户反馈，修复了不少小问题，也提升了不少实用性。&lt;/p&gt;
-&lt;p&gt;主要包括&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;修复了多个出口时 conn-track 可能未按预期工作的 bug&lt;/li&gt;
-&lt;li&gt;添加了 balancer 支持，现在可以使用负载均衡作为路由出口决策，并且同时支持 conn-track&lt;/li&gt;
-&lt;li&gt;添加了新的 outbound stats 统计，可用于精确观测出口流量状况&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;杂项修复&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;修正了文档里的部署网段需求，现在要求主/旁路由处于一个独立的网段&lt;/li&gt;
-&lt;li&gt;文档添加了负载均衡和连接观测的示例配置&lt;/li&gt;
-&lt;li&gt;修复一个上游 bug 导致 leastping balancer fallbackTag 无法使用的问题&lt;/li&gt;
-&lt;li&gt;修正了之前 ROS 配置不当导致 WAN 口可接受 DNS 查询的问题（上海电信居然没封家宽 53 端口）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;虽然我用的是黑名单分流，但由于是全屋科学方案，仍然比较尴尬的发现，上个月还剩一周的时候我的魔法流量已经见底了。&lt;/p&gt;
-&lt;p&gt;所以，结合我现在已有的 Prometheus 监控方案（用于监控 Mikrotik/Synology/全屋温湿度等），自然是考虑把 v2ray 也接入进来。一通捣鼓后就有了这个帖子。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;必须要逮住这个偷跑我流量的耗子（&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;实现过程，大概是，借助现有的 v2ray-exporter ，将 v2ray 的 stats api 数据导出并转换为 Prometheus Counter metric ，顺带再魔改了一下 outbound stats ，添加了来源 IP 的 label ，这下可以精确到每一个终端的实时魔法流量情况和消耗统计了。结合 accessLog 应该就可以最终定位是谁在偷我流量啦。&lt;/p&gt;
-&lt;p&gt;fork 并修改后的 exporter 项目如下（感谢原作者 wi1dcard ）&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/povsister/v2ray-exporter" rel="nofollow"&gt;povsister/v2ray-exporter&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;README 也已按需修改，有 prometheu 部署经验的可直接食用。
-Release 里提供了预编译好的常见平台可执行文件，可按需下载。&lt;/p&gt;
-&lt;p&gt;预览图如下&lt;/p&gt;
-&lt;p&gt;&lt;img alt="dash1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/fWL1h5Y.png" /&gt;
-&lt;img alt="dash2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/72BlCeP.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:41:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065621#reply1</guid></item><item><title>[酷工作] 苏州徕卡显微系统招人啦</title><link>https://www.v2ex.com/t/1065620#reply1</link><description>&lt;p&gt;需求如下: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;三年以上 c++经验 &lt;/li&gt;
-&lt;li&gt;本科以上学历&lt;/li&gt;
-&lt;li&gt;工作比较稳定（跳槽不频繁）&lt;/li&gt;
-&lt;li&gt;能在苏州长住（团队需要稳定）&lt;/li&gt;
-&lt;li&gt;希望不要那么卷（不打黑工，到点就走）（这点是我加的）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;工作内容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;主要技术栈是桌面端软件 Qt/Qml ，目前主要是 Windows,Linux.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;加分项：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;女生（女生在面试过程中享有巨大优势，并且公司男女比例较均衡）&lt;/li&gt;
-&lt;li&gt;硕士（可能会帮助后期筛选）&lt;/li&gt;
-&lt;li&gt;能来苏州进行面试&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;内推缺点：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;面试周期较长，需要等待&lt;/li&gt;
-&lt;li&gt;会有简单笔试（ maybe ）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;福利: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;12 年假+10 病假 &lt;/li&gt;
-&lt;li&gt;一定比例居家办公（目前是一年 24 天，具体看情况）&lt;/li&gt;
-&lt;li&gt;wlb ，不打卡，永不加班 &lt;/li&gt;
-&lt;li&gt;公积金 12%&lt;/li&gt;
-&lt;li&gt;享受最棒的团队氛围，manager 也非常棒。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;薪资:
-需要跟 HR 谈，所以给不了大家。(相对一线城市和大厂，可能没有那么有竞争力)&lt;/p&gt;
-&lt;p&gt;有兴趣，可以私我:（节省大家的时间，不符合要求勿扰，谢谢大家） 绿色软件:bGlnaWdneQ==&lt;/p&gt;
-&lt;p&gt;一年前已经内推过一位了，并且得到了一致好评。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 11:30:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065620#reply1</guid></item><item><title>[反馈] 报告用户 maybeok</title><link>https://www.v2ex.com/t/1065619#reply0</link><description>用户首页： &lt;a href="https://www.v2ex.com/member/maybeok" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/member/maybeok&lt;/a&gt; &lt;br /&gt; 该用户涉及 疑似机器帐号，请站长请处理</description><pubDate>Fri, 16 Aug 2024 10:52:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065619#reply0</guid></item><item><title>[Apple] Apple Watch esim 值不值得开</title><link>https://www.v2ex.com/t/1065617#reply4</link><description>&lt;p&gt;之前一直没买过带 esim 的表，最近换新了，现在在考虑要不要开通 esim 。&lt;br /&gt;
-我考虑了一下使用场景，我也没有出门跑步的需求，其他场景好像就用不到 esim 了。&lt;br /&gt;
-求指点。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 10:37:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065617#reply4</guid></item><item><title>[程序员] 个人项目前端好看的组件库推荐</title><link>https://www.v2ex.com/t/1065616#reply1</link><description>&lt;p&gt;在写个人项目，前端比较菜，有没有大佬推荐下好看的前端组件库。本来用的 element plus ，这玩意儿看着觉得很一般，太通用了。希望炫酷或者优美好看点的。涉及到的组件有通知组件，加载组件，还有些弹窗的组件。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 10:35:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065616#reply1</guid></item><item><title>[问与答] 谷歌邮箱网页版，居然将广告插到邮件列表里</title><link>https://www.v2ex.com/t/1065615#reply0</link><description>&lt;p&gt;谷歌邮箱网页版，居然将广告插到邮件列表里&lt;/p&gt;
-&lt;p&gt;并且这些广告还加在收件箱的计数里面，全部已读功能也无效，必须点击才能查看才清楚未读，删除也只能一条一条删除
-&lt;a href="https://sm.ms/image/Ri3wCMmrUol8BX6" rel="nofollow"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/16/Ri3wCMmrUol8BX6.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 10:28:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065615#reply0</guid></item><item><title>[Chrome] 如何让 Chrome 保持账号登录但是 google.com 不登录</title><link>https://www.v2ex.com/t/1065614#reply1</link><description></description><pubDate>Fri, 16 Aug 2024 10:22:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065614#reply1</guid></item><item><title>[问与答] 这几天 play 商店更新不了 app</title><link>https://www.v2ex.com/t/1065613#reply1</link><description>play 商店版本 42.3.20-23&lt;br /&gt;&lt;br /&gt;这几天怎么更新不了 app ，转圈圈。</description><pubDate>Fri, 16 Aug 2024 10:22:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065613#reply1</guid></item><item><title>[移民] 大龄留学移民，选蒙特利尔还是新加坡</title><link>https://www.v2ex.com/t/1065612#reply1</link><description>各位 V 友大家好，楼主今年 36 岁，不是程序员，是在非洲最穷的地方搞基建的。因为是在法语区国家，去年一位同事移民去了魁北克，说那边对孩子教育很友好。所以楼主也动了心思，2 月份考了雅思，口语拉跨只有 5.5 ，总分 7 。看了一圈学校，不卡小分的比较少，4 月初申请了温莎、渥太华、麦马、康考迪亚的工程硕士。温莎和渥太华很快就发了拒信，康考迪亚 7 月初发了 offer ，麦马还没信儿，估计是没戏（本科专业不是很对口，GPA 也不高）。&lt;br /&gt;  &lt;br /&gt;　　 7 月份看南洋理工也有招生，也去申了一个土木工程管理类的硕士，咔咔面试一通，今天下了 offer ，让下周一之前交 5000 新币的占位费。&lt;br /&gt;  &lt;br /&gt;　　楼主很纠结，南洋理工是高中时的梦中情校，QS 排名 10 左右，康考迪亚都 400 了，出了魁北克可能都没人知道这学校。&lt;br /&gt;  &lt;br /&gt;　　楼主的目的是移民，新加坡的话，毕业后给一年的 LTVP 用来找工作，工程类工作也好找，东南亚基建大市场，但是新加坡对大龄不是很友好，工程类的工资也不会特别高，所以拿永居可能有点危险。优点是一年读出来，时间短，华人友好，整体环境安全，离家近，机票钱和高铁差不多，没有身份的话孩子上国际学校学费贵，但能 cover 住。&lt;br /&gt;  &lt;br /&gt;　　蒙特利尔的话，读一年半到两年，毕业后给 3 年工签，但是今年政策变了，康考迪亚是英语学校，读出了不能走学生类 PEQ 了，只能工作两年再申请经验类 PEQ ，还要把法语考出来，另外 PEQ 可能一年还下不来，到时候要做过桥工签。这样的话在那边待 5-6 年才能拿到身份。蒙特利尔的房租和生活成本不高，回国机票贵，冬季有点冷，华人少一些，法语民族大熔炉，白人可能有点歧视，社会治安中等吧，听说偷车也很严重（卖给非洲这边黑兄弟）。&lt;br /&gt;  &lt;br /&gt;      家里的话，媳妇带着孩子，要等我拿到身份可能才会跟我出来，怕拿不到身份没有后路。&lt;br /&gt;  &lt;br /&gt;　　楼主家境普通，自小单亲家庭，什么事情都是自己做主，也没人指导，没啥见识。论坛的宝子们，你们出去的多，见识广，帮忙看看给个建议。</description><pubDate>Fri, 16 Aug 2024 10:15:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065612#reply1</guid></item><item><title>[求职] 杭州求职， 10 年 Android 经验</title><link>https://www.v2ex.com/t/1065611#reply1</link><description>在团队负责核心业务开发和性能优化相关工作，有多个完整项目开发迭代经验，同时负责团队 Android 端广告 SDK 开发工作&lt;br /&gt;Kotlin/JetPackCompose 都熟练掌握，谋求杭州 Android 岗位开发工作。</description><pubDate>Fri, 16 Aug 2024 10:11:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065611#reply1</guid></item><item><title>[分享创造] chrome 插件 抖音视频下载助手</title><link>https://www.v2ex.com/t/1065610#reply1</link><description>&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;&lt;br /&gt;&lt;a href="https://chrome.google.com/webstore/detail/nkffbmomkmgaoogcenpadgmclfnjjfbk" rel="nofollow noopener" target="_blank"&gt;https://chrome.google.com/webstore/detail/nkffbmomkmgaoogcenpadgmclfnjjfbk&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;自己写了个 chrome 插件， 一键下载抖音美女视频&lt;br /&gt;欢迎各位老板使用</description><pubDate>Fri, 16 Aug 2024 10:11:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065610#reply1</guid></item><item><title>[分享创造] 上线了基于 Flux 实现的 Grok AI 图片生成工具</title><link>https://www.v2ex.com/t/1065607#reply0</link><description>&lt;p&gt;这两天 Grok 又放出了新功能，Grok 的图片生成器，初步体验，真的很 Flux 效果很相似，参考他们的方案，我们基于 Flux 也上线了这个&lt;a href="https://https://grokimagegenerator.net/" rel="nofollow"&gt;Grok AI 图像工具&lt;/a&gt;. 考虑能够快速上线和给用户比较好的体验，工具会比较简单。
-现在有提供试用功能，欢迎大家体验！&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 10:07:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065607#reply0</guid></item></channel></rss>
+&lt;p&gt;有本 Go 语言书管这叫「惰性求值」行为，但我也仅仅是知道有这么个现象，不明白为什么会设计成这样？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 17:21:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065673#reply3</guid></item><item><title>[macOS] Electron 的程序有办法打 universal 包吗（就是 Intel/ARM 都能直接运行）很多用户搞不清楚他们机器的 CPU 是不是 ARM 的，有的又不懂得怎么装 Rosetta（点一下都不会，直接说你的程序有问题）</title><link>https://www.v2ex.com/t/1065672#reply8</link><description>浏览器 JS 无法准确检测 ARM&lt;br /&gt;有些极品用户点两下提示要安装东西才能运行，特别是 Rosetta 安装还慢，会说你的程序有捆绑、有病毒&lt;br /&gt;公司的产品，又不能放弃这些用户</description><pubDate>Fri, 16 Aug 2024 17:02:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065672#reply8</guid></item><item><title>[分享发现] 做多语言网站，总不能舍弃最大单一文化体简体中文吧</title><link>https://www.v2ex.com/t/1065671#reply0</link><description>&lt;p&gt;上世纪九十年代下海，这个世纪二十年代出海，不知道是卷还是进化。&lt;/p&gt;
+&lt;p&gt;近期凑热闹上线了个多语言站，基于 flux.1 模型的文字生成图片工具。&lt;/p&gt;
+&lt;p&gt;模型不错，令人惊艳，但是在非英文面前就是个废品，非英文输入文字极不友好，简直傻瓜。&lt;/p&gt;
+&lt;p&gt;没办法，又嵌入套层，对非英文进行翻译，使用接口实现，当然会牺牲一些速度。&lt;/p&gt;
+&lt;p&gt;基本过程就是先判断是不是英文，如果不是，翻译成英文。最终，不管什么文字，都以英文形式提交，然后进行图片生成。&lt;/p&gt;
+&lt;p&gt;毕竟，作为简体中文人，简体中文又是最大单一文化体，咋样都不能舍弃这一块。&lt;/p&gt;
+&lt;p&gt;不对简体中文友好，做多语言网站就是本末倒置。&lt;/p&gt;
+&lt;p&gt;目前免费使用、不限次数，后续看成长情况再考虑是不是搞登录、支付功能。&lt;/p&gt;
+&lt;p&gt;菜鸟第一次上线出海加 AI 概念产品，期待大佬指点！&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.fluximg.com/" rel="nofollow"&gt;https://www.fluximg.com/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 17:02:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065671#reply0</guid></item><item><title>[职场话题] 现在的 Remote work</title><link>https://www.v2ex.com/t/1065669#reply0</link><description>&lt;p&gt;现在的远程工作是不是主要是 web3 为主，好想转为远程，也想过学 web3 。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 16:48:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065669#reply0</guid></item><item><title>[分享创造] 💥 免费的 111 种风格图片生成网站💥 
+🤖网站的内容和图片都是通过 AI 生成的🤖</title><link>https://www.v2ex.com/t/1065667#reply1</link><description>网站的内容文案, 图片都是通过 AI 生成的, &lt;br /&gt;也是跑通了一把完全基于 AI 的上站旅程&lt;br /&gt;&lt;br /&gt;h1,h2, desc, feature, fqa 也都是通过 prompt 生成&lt;br /&gt;&lt;a href="https://chatgptimage.org/" rel="nofollow noopener" target="_blank"&gt;https://chatgptimage.org/&lt;/a&gt;</description><pubDate>Fri, 16 Aug 2024 16:17:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065667#reply1</guid></item><item><title>[问与答] 请问闲鱼各种低价软件会员都是从哪些渠道获取的？</title><link>https://www.v2ex.com/t/1065666#reply2</link><description>比如小朋友玩的蒙特利梭启蒙乐园，直接购买 288 ，闲鱼上用卖家账号的卖 6 块，自己邮箱开通会员的卖 25 块。</description><pubDate>Fri, 16 Aug 2024 16:09:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065666#reply2</guid></item><item><title>[问与答] 有生成欧美人头像的工具或者平台介绍个</title><link>https://www.v2ex.com/t/1065665#reply1</link><description>做矩阵号，需要几万张头像，有没有批量生成，是人就可以的那种，有知道的朋友，帮忙介绍一下哈</description><pubDate>Fri, 16 Aug 2024 16:08:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065665#reply1</guid></item><item><title>[Go 编程语言] 求助大佬， webview_go 遇到两个问题，半天了没搞定</title><link>https://www.v2ex.com/t/1065664#reply1</link><description>&lt;p&gt;webview_go 地址： &lt;a href="https://github.com/webview/webview_go" rel="nofollow"&gt;https://github.com/webview/webview_go&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第一个是打开子窗口的问题：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;主窗口：
+main := webview.NewWindow(true)
+main.Run()
+
+然后再一个回调函数里创建子窗口：
+child := webview.NewWindow(true, main.Window())
+child.Run()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;NewWindow 的第二个参数传 nil 的没问题，看参数感觉第二个参数是和主窗口做关联的，我也想在主窗口里和子窗口通信，但是现在第二个参数传 main.Window()，子窗口就不会闲了，弄了半天也没搞定。&lt;/p&gt;
+&lt;p&gt;第二个问题是 webview 里不能执行 js 代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;主窗口：
+main := webview.NewWindow(true)
+main.Run()
+
+然后在一个回调函数里执行：
+main.Eval("alert(1)")
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;无论怎么试，alert 就是弹不出来，半天了搞不定。&lt;/p&gt;
+&lt;p&gt;本人是 golang 新手，还望大佬指点迷津，谢谢！&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 15:56:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065664#reply1</guid></item><item><title>[奇思妙想] 自定义智能家居 之三（设备共同接入的理由）</title><link>https://www.v2ex.com/t/1065663#reply2</link><description>&lt;p&gt;续帖：智能家居（全屋智能）从 遥控智能 进入 自定义智能
+续帖：自定义智能家居 之二（商家分工）&lt;/p&gt;
+&lt;p&gt;企业有大有小，有软件、硬件企业。如何让所有人都心甘情愿加入平台?&lt;/p&gt;
+&lt;p&gt;自定义智能家居: 以中心分析计算器为核心，有线的总线协议和无线模块共同编织信息网络。&lt;/p&gt;
+&lt;p&gt;设备共同接入的理由：（农村包围城市）&lt;/p&gt;
+&lt;p&gt;当小企业、各个领域的龙头公司都愿意参与的平台，那么像华为，小米的大公司必然会参与的，否则就会被孤立。&lt;/p&gt;
+&lt;p&gt;而小企业、各个领域的龙头公司需要的是不被约束，有想象的空间和自由。&lt;/p&gt;
+&lt;p&gt;上到，控制端的手机，遥控器可以随便选，下到，家居设备可以随心选。甚至可以 DIY ，自己的家居或者玩具。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   小公司：家电公司、软件公司，都只能完成其中的某一环节。所以中心分析计算器可以让软件公司放手创新尝试，有线的总线协议，可以让家电公司专注家电本身，不用考虑智能化，无线连接等软件问题。
+
+   细分领域龙头公司：这类公司最大的特点就是。只专注，某一单品，无法形成生态。所以我开放的平台是他们必然的选择，因为在这里他们还是细分领域的龙头，是自由的。
+
+   单维度的生态公司（格力，家电的领域的龙头）：这种多产品的龙头。缺失智能家居系统地完整性，加入其他生态，自己就掉价了，不加入，智能化就很差。但是加入自定义智能家居，可以完全发挥单品性能，智能化由其他专业公司补全，相互合作。尽情展示自己优势就好，交给有想法的软件公司。
+
+   软件公司，上面说了。可以自由的发挥想象，控制家居设备，展示自己对智能化的独特理解。
+
+   手机厂商，虽然不做智能家居但是可以，发挥手机控制家居的，花里胡哨的能力。
+
+   最后就是像华为，小米这样的，拥有完整生态的大企业。这样的企业产品很多，看似丰富，但是我们真要全选他的产品，手机用小米的，开关用小米的，家电用小米的。如果其他的公司各类龙头公司都在玩的平台，不参与吗？真的觉得自己是“苹果”是乔布斯？
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;举个小众例子：
+养鱼，我在家里砌了一个鱼缸，我希望可以智能控制，随时告知我。米家允许我个人 DIY 吗？
+我喜欢周边、模型。不动的模型是不是很呆板，未来是不是可以有很多可动的模型，放在展柜里，除了可以被灯光照明，还可以被智能控制。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 15:29:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065663#reply2</guid></item><item><title>[酷工作] [Web3 公司] matrixport 急招！内推</title><link>https://www.v2ex.com/t/1065662#reply2</link><description>前端 base 曼谷&lt;br /&gt;测试 base 曼谷&lt;br /&gt;UI base 国内远程&lt;br /&gt;futter base 曼谷&lt;br /&gt;&lt;br /&gt;出海补贴超级给力&lt;br /&gt;薪资福利对标一线大厂，很给力！！！&lt;br /&gt;&lt;br /&gt;简历 -&amp;gt;  jiangziwen0420@gmail.com</description><pubDate>Fri, 16 Aug 2024 15:28:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065662#reply2</guid></item><item><title>[程序员] 离离原上谱， js 的 sort 太神奇了。。</title><link>https://www.v2ex.com/t/1065660#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240816231303.png" /&gt;&lt;/p&gt;
+&lt;p&gt;数据库明明有 sort 字段，怎么也不显示，定位半天才找到罪魁祸首。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 15:14:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065660#reply0</guid></item></channel></rss>
