@@ -1,90 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 15 Aug 2024 12:50:30 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] iOS 抖音总是时不时闪退</title><link>https://www.v2ex.com/t/1065322#reply0</link><description>&lt;p&gt;查看 Crash Report 发现 Crash 发生在 &lt;code&gt;com.apple.main-thread&lt;/code&gt; 图像数据处理时 &lt;code&gt;(CGImageGetImageSource, [_UIImageCGImageContent initWithCGImage:scale:])&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;在多种网络环境下测试均能成功复现该问题, 所以排除网络原因&lt;/p&gt;
-&lt;p&gt;型号是 iPhone 13, 有人遇到相同问题吗&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 12:32:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065322#reply0</guid></item><item><title>[宽带症候群] 各位能分享一下公网 BT 异常下载者的 IP 段吗</title><link>https://www.v2ex.com/t/1065321#reply3</link><description>&lt;p&gt;目前发现这几个段比较可疑：&lt;/p&gt;
-&lt;p&gt;115.231.84.0/24&lt;/p&gt;
-&lt;p&gt;150.138.205.0/24&lt;/p&gt;
-&lt;p&gt;240e:660:150c::/48&lt;/p&gt;
-&lt;p&gt;观察到的异常现象：&lt;/p&gt;
-&lt;p&gt;1 、同一网段下有多个客户端同时拖同一个种子；&lt;/p&gt;
-&lt;p&gt;2 、回报错误的下载进度；&lt;/p&gt;
-&lt;p&gt;3 、IP 段多为机房 IP 。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 12:20:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065321#reply3</guid></item><item><title>[酷工作] [北京] 字节-后端开发工程师 岗位招聘</title><link>https://www.v2ex.com/t/1065320#reply1</link><description>职位描述&lt;br /&gt;团队介绍：广告业务原为商业产品与技术部门，为抖音集团的商业变现提供广告产品与技术，负责端到端大型广告系统建设，覆盖抖音、今日头条、西瓜视频、番茄小说、穿山甲等产品矩阵，践行"激发生意新可能"理念，致力于让营销更省心、更高效、更美好，推动商业的可持续增长，让不分体量、地域的企业及个体，都能通过数字化技术激发创造、驱动生意。连接广告主、用户及生态伙伴、成为开放共赢的全球最佳智能营销平台之一。在这里，你将投身建设面向未来的数字营销能力，接触到全球先进的商业产品架构、模型和算法，在互联网广告行业始终创新。&lt;br /&gt;&lt;br /&gt;1 、负责架构设计和开发，为亿级用户提供优质顺畅的信息服务和极致体验；&lt;br /&gt;2 、参与设计系统技术方案，核心代码开发和系统调优；&lt;br /&gt;3 、参与制定代码规范、测试规范，建立起开发质量控制方法；&lt;br /&gt;4 、协助团队攻克各种高并发、数据隔离、系统解耦等方面的技术难关；&lt;br /&gt;5 、参与各专项技术调研，新技术引入等前瞻项目；&lt;br /&gt;6 、参与机器学习与异构计算系统研发。&lt;br /&gt;&lt;br /&gt;职位要求&lt;br /&gt;1 、2025 届获得本科及以上学历，计算机等相关专业优先；&lt;br /&gt;2 、热爱计算机科学和互联网技术，精通至少一门编程语言，包括但不仅限于：Java 、C 、C++、PHP 、Python 、Go ；&lt;br /&gt;3 、掌握扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识；&lt;br /&gt;4 、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；&lt;br /&gt;5 、有强烈的求知欲，优秀的学习和沟通能力。&lt;br /&gt;&lt;br /&gt;联系方式&lt;br /&gt;直接发送邮箱 bingolc@gmail.com&lt;br /&gt;直接内推，简历筛选、面试流程很快</description><pubDate>Thu, 15 Aug 2024 12:18:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065320#reply1</guid></item><item><title>[Telegram] 有没对 telegram 上做项目感兴趣的朋友？</title><link>https://www.v2ex.com/t/1065317#reply4</link><description>&lt;p&gt;telegram 支持建立付费群组了，感觉后续商业化潜力挺大，应该有一波平台红利，有没感兴趣的朋友一起交流&lt;/p&gt;
-&lt;p&gt;人多的话，我建个小群&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 12:02:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065317#reply4</guid></item><item><title>[汽车] 有娃家庭第一辆车，小定了乐道 L60，期待下月初的试驾体验</title><link>https://www.v2ex.com/t/1065316#reply4</link><description>&lt;p&gt;家里今年有娃了，年底前需要买一辆车，方便周末带娃出门+节假日回家出游,日常三个大人一个 baby
-预算 30w 以内，目前有考虑的车型包括：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;小鹏 G6,G9&lt;/li&gt;
-&lt;li&gt;乐道 L60 ，蔚来 ES6&lt;/li&gt;
-&lt;li&gt;理想 L6,L7&lt;/li&gt;
-&lt;li&gt;零跑 C11 &lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 16 Aug 2024 02:30:21 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享发现] 微软教育主机 AZ100 续约</title><link>https://www.v2ex.com/t/1065428#reply1</link><description>az100 一年用完后，校园邮箱可以给 AZ100 续约。毕业后离校后，学校也一直提供校园邮箱服务。那岂不是可以一直每年免费续约 az100😂😂</description><pubDate>Fri, 16 Aug 2024 02:29:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065428#reply1</guid></item><item><title>[分享发现] 刚接到一个疑似冒充国际电信的电话，试图套取我司境外网络使用情况？</title><link>https://www.v2ex.com/t/1065427#reply0</link><description>&lt;p&gt;也不知道是不是，就在刚刚人事的手机接到个 020 开头自称国际电信运营方的电话，说明天下午 4-7 点会对国际线路进行维护，询问我司是否有外网需求。  &lt;/p&gt;
+&lt;p&gt;我司做跨境电商的，但对外网络我们有专门的对接公司，对内网络有电信对接人，而且留的电话都是后台的，要找也找不到人事这里，所以第一反应这里面可能有问题。 &lt;/p&gt;
+&lt;p&gt;所以我一开始装傻，询问什么是外网，对方说是境外的网络这块，我表示我们是电商公司，并且办理的是电信的带宽，本身就可以访问亚马逊等平台之类的。（我有怀疑过是帽子叔叔这种诱导我说出有用 VPN 这种，当然公司是正规的，本身外网也是正规获取的，但因为电话不是打我这里，而是打到没有预留电话的 hr 这，所以我怀疑对方的真实性，没有透露实际的使用信息）  &lt;/p&gt;
+&lt;p&gt;后续对方还问到我用的国内哪个运营商的宽带，反正我就装不懂说用的电信的。（这种还能不知道我用哪个运营商就更加可疑了）  &lt;/p&gt;
+&lt;p&gt;对方解释说打电话是为了确认是否有境外网络需求，明天维护可能会造成不稳定，如果有需求会进行备线切换之类的。后续询问了下我们对外网络的提供方，表示并没有接到什么通知明天会有维护。  &lt;/p&gt;
+&lt;p&gt;不过对方貌似也没在电话里索要什么敏感信息，反而就像是做个调查而已询问是否使用而已。所以倒没什么大问题，明天再看看是否真有网络波动再说。（估计是没套出我什么信息，所以没有下一步的话术？）&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:29:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065427#reply0</guid></item><item><title>[程序员] 身边的同事是一群牛马怎么办，该怎么调节自己的心态</title><link>https://www.v2ex.com/t/1065426#reply1</link><description></description><pubDate>Fri, 16 Aug 2024 02:27:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065426#reply1</guid></item><item><title>[分享创造] 给群晖 DSM 写了个侧键功能补充</title><link>https://www.v2ex.com/t/1065425#reply0</link><description>&lt;p&gt;我是鼠标侧键的重度用户，所有在软件内的前进后退操作基本都是用的侧键，但是群晖完全没适配这个功能，导致每次我想返回文件目录的上一级就会退出 DSM ，于是就有了这个脚本，功能很简单，就是拦截默认侧键操作，和在 File Station 窗口内能使用侧键进行路径的前进和后退，就这些功能，感觉这个需求应该还是有一定用户群体的？&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.github.com/xiyuesaves/e987a0dedae1e3cd58f315d9a60bbe6a" rel="nofollow"&gt;Git gist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://greasyfork.org/zh-CN/scripts/503788" rel="nofollow"&gt;greasyfork&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:26:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065425#reply0</guid></item><item><title>[macOS] sing-box 在 Macos 上 "set_system_proxy" 的作用。</title><link>https://www.v2ex.com/t/1065424#reply1</link><description>&lt;p&gt;请教大家关于 sing-box 的问题，inbound 配置如下：&lt;/p&gt;
+&lt;p&gt;"inbounds": [
+{
+"type": "tun",
+"inet4_address": "172.19.0.1/30",
+"mtu": 1500,
+"auto_route": true,
+// "strict_route": true,
+"sniff": true,
+"inet4_route_exclude_address": ["239.255.255.250/32"],
+"sniff_override_destination": false,
+"endpoint_independent_nat": false,
+"stack": "system",
+"platform": {
+"http_proxy": {
+"enabled": true,
+"bypass_domain": [],
+"server": "127.0.0.1",
+"server_port": 7890
+}
+}
+},&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{
+  "type": "mixed",
+  "listen_port": 7890,
+  "sniff": true
+  // "set_system_proxy": true
+},
+
+
+
+问题是：
+1. 这个配置在命令行模式下，1.10 版本，如果不启用 "set_system_proxy": true ，则无法上外网，但是这个配置中，这句话应该是不需要的啊？
+2. 在 platform 那里的 http_proxy 与 mixed 这里的 set_system_proxy 是什么关系？
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 16 Aug 2024 02:24:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065424#reply1</guid></item><item><title>[程序员] 写了一个在开发阶段将小程序静态资源自动上传至 CDN 的插件，支持 oss 和普通 http 文件上传接口、默认支持压缩</title><link>https://www.v2ex.com/t/1065423#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;小程序对打包体积有要求，需要抽离静态资源&lt;/li&gt;
+&lt;li&gt;在构建阶段使用 bundle 传 CDN ，每构建一次都要上传一次 CDN ，开销大&lt;/li&gt;
+&lt;li&gt;在开发阶段只用上传一次 CDN 便不会再上传 CDN ，默认支持缓存&lt;/li&gt;
+&lt;li&gt;市面上没有支持普通 http 文件上传接口进行上传的插件&lt;/li&gt;
+&lt;li&gt;默认支持静态资源压缩，省去手动跑压缩网站进行压缩的繁琐&lt;/li&gt;
+&lt;li&gt;正在开发 build 阶段进行上传的插件供有需要的选择&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;使用场景：&lt;/p&gt;
+&lt;p&gt;欢迎试用，提 bug, 功能建议，最好能小星星支持一波, 不胜感激&lt;/p&gt;
+&lt;p&gt;项目仓库地址：&lt;a href="https://github.com/rookie-luochao/upload-assets-to-cdn" rel="nofollow"&gt;https://github.com/rookie-luochao/upload-assets-to-cdn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外有一个对小程序友好的、对 apifox 友好地自动生成前端代码的工具，正在开发支持 react-query hook 功能，
+地址：&lt;a href="https://github.com/openapi-ui/openapi-ts-request" rel="nofollow"&gt;https://github.com/openapi-ui/openapi-ts-request&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:21:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065423#reply0</guid></item><item><title>[深圳] 关于宽带</title><link>https://www.v2ex.com/t/1065422#reply2</link><description>&lt;p&gt;想咨询下大家都是怎么实惠办理宽带的。&lt;/p&gt;
+&lt;p&gt;我是很久以前的联通 199 冰淇淋 3 折套餐，然后办理了 129 低消融合宽带，因为住在福田城中村，没有联通宽带资源，所以给我转换了 100M 天威宽带的资源。&lt;/p&gt;
+&lt;p&gt;我感觉这城中村的宽带也太贵了，要是有联通资源的话，我就是 1000M 光纤免费的了，难受 ing 。&lt;/p&gt;
+&lt;p&gt;大家都是多少价位的宽带呢？提供参考下&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:16:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065422#reply2</guid></item><item><title>[Apple] M1 的 macbook pro 有什么推荐的配套设备吗</title><link>https://www.v2ex.com/t/1065421#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;想把 macbook 当主机使用，有什么东西可以更方便的连接显示器、键盘、鼠标、音响？（只有两个 type-c 口）&lt;/li&gt;
+&lt;li&gt;键盘、音响有推荐的吗&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 16 Aug 2024 02:16:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065421#reply0</guid></item><item><title>[问与答] 上海一些合规公司配合网安说你 APP 不安全，怎么搞？</title><link>https://www.v2ex.com/t/1065420#reply5</link><description>&lt;p&gt;RT&lt;/p&gt;
+&lt;p&gt;就是会出报告说没加固，有注入风险啥的，怎么解决？被网安签字整改&lt;/p&gt;
+&lt;p&gt;对方给出的方案是给钱，他们有方案可以帮你过。感觉被敲诈，还有什么合法的途径解决嘛？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:16:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065420#reply5</guid></item><item><title>[分享创造] 探讨一下计算机专业的未来扩展方向</title><link>https://www.v2ex.com/t/1065419#reply1</link><description>&lt;p&gt;&lt;strong&gt;传统文化&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最近在的《国之脊梁》，《好妈妈胜过好老师》里，都反复提到古典文化对一个人成长的重要性，特别是讲到杨振宁父亲对中国传统文化的重视。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数字遗忘&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;然后今天好友跟我说最近馒头站上好多资源都 50%打折，我说我最近想下资源都没发现啥想下的，倒是下了一些七八十年代的蓝光，感觉还不错。一时间又让我想起数字遗忘（数字死亡）这个让人焦虑的现象，未来能下载到的资源只会越来越少吧？&lt;/p&gt;
+&lt;p&gt;想起之前看阿西莫夫的《银河帝国》里，崔维兹花了两三部小说的篇幅，才最终找到人类的发源地——地球，觉得有点不可思议，现在想想，也不是不可能发生，如果人类真能发展出银河文明（不过大刘也说了银河帝国不可能建立起来），1 万年后能不能找到地球还真不好说，1 万年，哪怕是整个盖娅星球的石头和空气都用来存储，都存不下一万年的信息吧，毕竟连百度连短短十几年的快照都存不起了。&lt;/p&gt;
+&lt;p&gt;于是我去小红书搜了一下“数字遗忘”，看看关注的人多不多，很不巧，并不多，也许人们并不在意，也许在意的人也不会说出来，但是我看到个《(PDF) “故园荒芜”：“数字死亡”的记忆与遗忘》，应该是个论文，看来还真有人研究这个啊？想想我当年的毕业论文，开发了个 KJava 手机游戏，真有点拿不出手啊。而当年还帮女朋友写过一部分论文，研究南方某个小地域的某个传统文化。我想想这也是拿不出手的，都是一些老生常谈没有创新意义的东西。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;那么问题来了，随着互联网这几十年的野蛮发展，到现在速度放缓，工作岗位减少，而 AI 、自动化、机器学习等的挑战却越发严重，人类社会是否迎来了拐点？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科技人文主义&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;李开复在《人工智能》里说，面对挑战，我们未来要做一根会思考的芦苇。而作为计算机专业从业者，未来高效在培养人才方面，是否应该考虑回归人文主义了？记得当年我们上毛邓课，跟我们一起上课的专业叫《教育技术》啥的，而我们是计算机专业，想想这两个结合起来也是有点梦幻联动的。放在今日，是否可以发展出比如&lt;strong&gt;《科技人文学与伦理工程》&lt;/strong&gt;这样的专业，未来的岗位我问了下 ChatGPT ，有这些它瞎掰出来的职业：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;85%：工作日日常通勤来回 30km 内&lt;/li&gt;
-&lt;li&gt;10%：周末偶尔来回 200km 内&lt;/li&gt;
-&lt;li&gt;5%：节假日回老家或者长途自驾游单程 500km+&lt;/li&gt;
+&lt;li&gt;科技伦理顾问&lt;/li&gt;
+&lt;li&gt;AI 社会影响分析师&lt;/li&gt;
+&lt;li&gt;技术政策与法规制定者&lt;/li&gt;
+&lt;li&gt;数字人权保护官&lt;/li&gt;
+&lt;li&gt;技术与社会研究员&lt;/li&gt;
+&lt;li&gt;用户体验与伦理设计师&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;主要市区通勤，所以还是倾向于纯电车型&lt;/p&gt;
-&lt;p&gt;小定乐道 L60 主要还是考虑到换电挺方便没有里程焦虑;同蔚来产线品质应该还可以。另外空间从曝光参数来看，家用还是足够的。&lt;/p&gt;
-&lt;p&gt;先试驾看看，反正定金可退😂&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:50:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065316#reply4</guid></item><item><title>[问与答] 求助-帮去世挚友写文-哪个平台合适</title><link>https://www.v2ex.com/t/1065315#reply7</link><description>&lt;h2&gt;去世的天才挚友，自己给自己的人生画上句号。希望记录他短短一生的善言善行，希望通过他的痛苦，让其他人少走弯路，少被世界欺骗。也希望他那个暴躁又成功的父亲，有一天能看到，这个善良儿子的一片爱。&lt;/h2&gt;
-&lt;h2&gt;请问大家，在哪个平台写合适？家人都在国内。希望是可以包容真实文字的地方。&lt;/h2&gt;
-&lt;p&gt;这些事情如果只有我们几个好友知道，那么一切将太不值了。。而且憋在我心里实在太难受了。
-如果这个问题不符合这个网站的调性，浅浅说一个不好意思。不过我相信这是包容的地方。谢谢。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:45:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065315#reply7</guid></item><item><title>[C] 请大佬帮忙修改一份 elf 文件里的数值</title><link>https://www.v2ex.com/t/1065314#reply1</link><description>家里有一台小蚁摄像机，破解后使用 cifs 挂载了一份网络云盘，这样的话就可以直接把视频录制到云盘里，不需要经过 sd 卡中转。现在遇到了一个问题就是原版固件限制了 sd 卡的大小，小于 3072mb 的内存卡会直接无法录制视频。想要把数值修改为 256.&lt;br /&gt;文件链接&lt;br /&gt;&lt;br /&gt;&lt;a href="https://wwdm.lanzouo.com/iiUCY27i6vsd" rel="nofollow noopener" target="_blank"&gt;https://wwdm.lanzouo.com/iiUCY27i6vsd&lt;/a&gt;</description><pubDate>Thu, 15 Aug 2024 11:41:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065314#reply1</guid></item><item><title>[程序员] hello word V2EX 的小伙伴，我是新人 carlos</title><link>https://www.v2ex.com/t/1065313#reply30</link><description>&lt;p&gt;7 点 38 分，还在张江高科加班。&lt;/p&gt;
-&lt;p&gt;第一次接触这个社区，先冒个泡&lt;/p&gt;
-&lt;p&gt;我是 11 年的码农，PHP 开发转业务。喜欢 AI 新技术&lt;/p&gt;
-&lt;p&gt;希望大家多指教，多交流~&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:39:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065313#reply30</guid></item><item><title>[NAS] 想给家里配一台 NAS (All in boom)，动手前想让各位大佬评论一下</title><link>https://www.v2ex.com/t/1065311#reply1</link><description>&lt;p&gt;家里的储存需求日益增长，没有一台 NAS 感觉真的撑不住了，以下是我最近琢磨出来的大概的主要配置，请各位大佬们评论评论，挑挑毛病：&lt;/p&gt;
-&lt;p&gt;机箱：安钛克 P101-S （已购买）&lt;/p&gt;
-&lt;p&gt;CPU：CC150 （已购买） i3-8100 （闲置 CPU 可用于装系统调试等等）&lt;/p&gt;
-&lt;p&gt;主板：Z390 太极 Ultimate （因为板载有 AQUANTIA® / Marvell 万兆网卡 和两个千兆网卡）&lt;/p&gt;
-&lt;p&gt;内存：32GB * 4&lt;/p&gt;
-&lt;p&gt;硬盘：淘宝买一些 SAS 硬盘 6TB×8&lt;/p&gt;
-&lt;p&gt;系统盘：两个笔记本淘汰下来的 512GB 的 M.2 固态用来放虚拟机系统，可能再加一条安装 PVE&lt;/p&gt;
-&lt;p&gt;系统：PVE ，搞个 openwrt 软路由（两个 core ），搞个 TrueNAS Scale ，搞个 Windows 10/11 （两个 core ）&lt;/p&gt;
-&lt;p&gt;还需要买一块 SAS 扩展卡&lt;/p&gt;
-&lt;p&gt;网卡：暂时没有额外需求，家里的宽带也就 200M&lt;/p&gt;
-&lt;p&gt;主要有以下需求或问题：&lt;/p&gt;
+&lt;p&gt;虽然有点扯淡，但是有没有一点阿西莫夫比下的机器人心理学家苏珊·凯文的味道？&lt;/p&gt;
+&lt;p&gt;但是，另一个比较魔幻的现实是一则新闻&lt;strong&gt;《太原理工带头，十几所高校疯狂扩招软件工程！》&lt;/strong&gt;，诸位怎么看？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:14:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065419#reply1</guid></item><item><title>[路由器] 狗屎一般的小米路由器该怎么拯救一下</title><link>https://www.v2ex.com/t/1065418#reply0</link><description>大概两年前，为了给公司搭自动化测试环境买了台红米 AC2100,结果工作太忙忘记报销，就把它拿回家用了.&lt;br /&gt;&lt;br /&gt;我家的网络是软路由拨号，硬路由当 AP.客厅的 GT5300 到次卧就基本没信号了，所以把红米丢进次卧连了网线扩展信号.因为次卧我也不怎么去，所以一直没关注过它，以为岁月静好.&lt;br /&gt;&lt;br /&gt;上星期觉得 GT5300 实在太占地方，不如把红米拿客厅来用，这才发现它有个很严重的毛病————长则两三天，短则两三小时，5G 自动消失&lt;br /&gt;&lt;br /&gt;最初我以为是自己不会设置，恢复了下出厂，无果.&lt;br /&gt;随即擦测是不是官方固件的缺陷，爬了下恩山刷了最新的 padavan ，毛病依旧&lt;br /&gt;&lt;br /&gt;现在它就是个鸡肋，你说不能用吧，好歹有三个 LAN 口，2.4G 也算稳定，而且 5G 有信号时可以覆盖全屋（这个 GT5300 都做不到）;你说能用吧，这个 5G 不知道什么时候就没了，好似达摩克斯利剑，搞得人烦躁不已</description><pubDate>Fri, 16 Aug 2024 02:12:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065418#reply0</guid></item><item><title>[程序员] 有什么好用的骚扰电话自动应答 App？需要能离线使用的</title><link>https://www.v2ex.com/t/1065417#reply1</link><description>&lt;p&gt;手机号估计是被物业给卖了，现在一天 N 个电话，都是中介和装修什么乱七八糟的。&lt;/p&gt;
+&lt;p&gt;各位有什么 Android 平台上好用的自动应答 App 给我推荐一下，不需要非常复杂的应答，只需要装模作样的说几句“你好，我听不清您在说什么？”“我现在在开会，请稍后再联系我，谢谢”这种。&lt;/p&gt;
+&lt;p&gt;要求不需要联网，最好是开源的，可以自己预录音应答语音最好，能自动挂断最好。&lt;/p&gt;
+&lt;p&gt;PS:小爱同学这种就没必要推荐了，移动联通自己的助手也没必要，我就想找个一劳永逸的方案。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:12:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065417#reply1</guid></item><item><title>[程序员] 我想做一个社区，合规的路径是什么？</title><link>https://www.v2ex.com/t/1065416#reply2</link><description>&lt;p&gt;有个小圈子交流，想搞个社区（类似 v2 这种就行）。&lt;/p&gt;
+&lt;p&gt;面对的主要是国内用户。人人科学上网的话不现实。&lt;/p&gt;
+&lt;p&gt;想走合规的话但是备案社区类好像又很麻烦（注册个公司也可以）。&lt;/p&gt;
+&lt;p&gt;请问有没有这方面经验的大佬呢？&lt;/p&gt;
+&lt;p&gt;我其实还想着干脆全放境外算了。但是怕用户访问不方便，也不知道有没有什么风险。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:08:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065416#reply2</guid></item><item><title>[程序员] 用网上的测速工具测得超时但网站能访问</title><link>https://www.v2ex.com/t/1065415#reply0</link><description>&lt;p&gt;能快速访问
+原因是啥？用了三个网上的网站测试工具都是这结果。
+测的网址，非 ip&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:08:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065415#reply0</guid></item><item><title>[问与答] 歇菜了， 220v 的电压给我拿来接入到电瓶车中。</title><link>https://www.v2ex.com/t/1065414#reply1</link><description>&lt;p&gt;想问下，220v 的交流电。进入到了 72v 的直流设备中。会造成什么损害？
+-目前已知：控制器短路了，72 转 12v 变压器坏了&lt;/p&gt;
+&lt;p&gt;那么问题来了：12v 变压器后面的设备还能安好吗？&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 02:05:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065414#reply1</guid></item><item><title>[Minecraft] 写了一个移除 Minecraft Java 版中无用区块的小工具，可以节省一些存档占用的硬盘空间</title><link>https://www.v2ex.com/t/1065413#reply0</link><description>&lt;p&gt;Minecraft Java 版存档（尤其是服务器中的）可能会占用很多硬盘空间，其中占大头的便是区块存储部分。有很多玩家可能会经常跑图，而由跑图产生出的区块往往很少被再次访问（比如玩家在这些区块中最多只待了几秒），其中也没有任何建筑，但它们又会占据很多硬盘空间。  &lt;/p&gt;
+&lt;p&gt;本工具旨在通过移除玩家几乎没有停留的区块来减少硬盘占用，衡量标准为区块数据中的 &lt;code&gt;InhabitedTime&lt;/code&gt; 字段。  &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Minecraft Java 版会为每个区块存储一个字段 &lt;code&gt;InhabitedTime&lt;/code&gt; ，以记录玩家在这个区块内停留的累计时间刻（ tick ）数。1 秒 = 20 ticks  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在 Minecraft 服务器硬盘容量受限制的时候，这个工具还是挺有用的，在较好的情况下能短时间内减少超过 50% 的游戏存档硬盘占用，也不会影响到任何玩家的现有建筑。    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;请一定要阅读 &lt;a href="https://github.com/Bottle-M/PotatoPeeler/blob/main/README.zh_CN.md#2-%E4%BD%BF%E7%94%A8%E5%89%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B3%A8%E6%84%8F" rel="nofollow"&gt;使用注意&lt;/a&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;开源地址，欢迎点 Star： &lt;a href="https://github.com/Bottle-M/PotatoPeeler" rel="nofollow"&gt;https://github.com/Bottle-M/PotatoPeeler&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;下载地址： &lt;a href="https://github.com/Bottle-M/PotatoPeeler/releases/latest" rel="nofollow"&gt;https://github.com/Bottle-M/PotatoPeeler/releases/latest&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;中文文档： &lt;a href="https://github.com/Bottle-M/PotatoPeeler/blob/main/README.zh_CN.md" rel="nofollow"&gt;https://github.com/Bottle-M/PotatoPeeler/blob/main/README.zh_CN.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 16 Aug 2024 02:00:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065413#reply0</guid></item><item><title>[分享发现] 使用运营商默认的 dns 好流畅啊</title><link>https://www.v2ex.com/t/1065412#reply1</link><description>软路由交换机啥的全放到老丈人乡下新建的房子那去了，自家目前就一个硬路由，填个宽带账号，dns 用运营商自己的，直接开用，体感上比阿里，腾讯，114 流畅好多，虽然不知道为什么&lt;br /&gt;------------------------------------------------------------------------------&lt;br /&gt;题外话，随着年龄增长，人确实真的是会变的，真是懒得折腾，花钱解决完事，突然理解父母那一辈人的一些行为了，但是也没啥好办法去改变，我就一普通人，先熬到小孩读大学吧</description><pubDate>Fri, 16 Aug 2024 01:57:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065412#reply1</guid></item><item><title>[问与答] 万能的热心的 V 友们，月底去香港玩（两大一小），能给点建议吗？吃喝玩乐都行。谢谢了:)</title><link>https://www.v2ex.com/t/1065411#reply5</link><description>&lt;p&gt;大概安排如下，
+第一天：下午到深圳站，然后从罗湖口岸入香港，住尖沙咀附近的酒店（预算大概 700 左右一晚）。
+第二天：开户，然后 city walk 。
+第三天：迪斯尼。
+第四天：海洋公园，晚上七点左右开始回深圳。在深圳住一晚，第二天上午到深圳北坐高铁。
+问题 1 、出入口岸哪个方便点，我准备都在罗湖口岸进出。深圳站就在边上，方便入关。出关的时候，从海洋公园出发，好像距离近一点。
+问题 2 、尖沙咀附近的汇丰、中银香港好开户吗？
+问题 3 、因为怕拖着行李跑，所以就准备这几天都住在尖沙咀。便利的地方是，靠近海边，第四天晚上从海洋公园到深圳，拿行李也方便。不方便的是，第三天来回迪斯尼有点远。。。。
+这几天的安排也是为了先开户，然后玩。&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 01:55:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065411#reply5</guid></item><item><title>[OpenAI] 理论上当前能不能输入自己喜欢的歌曲，然后让 AI 根据这些歌曲筛选自己可能喜欢的新歌？</title><link>https://www.v2ex.com/t/1065410#reply3</link><description>我估计肯定会有人提推荐算法里的 AI ，但是我感觉这个东西本质上还是靠人去筛选的，而不是 AI 。我说的让 AI 去筛选指的是让 AI 独立去分析某首歌曲用户是否可能喜欢。&lt;br /&gt;&lt;br /&gt;我听说现在的很多 AI 都是更擅长识别出确定的模式。但是我又感觉很多人听音乐都是图个新鲜，包括我，这好像是反模式的。我甚至好像在什么地方听到艺术就是反模式的。这里插播一条碎碎念，好像过于新鲜也不行，最好是大部分熟悉，又有一部分陌生。参见《 85%——人类与机器共同的最优学习率》，&lt;a href="https://www.huxiu.com/article/318247.html" rel="nofollow noopener" target="_blank"&gt;https://www.huxiu.com/article/318247.html&lt;/a&gt; 。我感觉从这个角度来看 AI 还是有可能胜任这个活的。&lt;br /&gt;&lt;br /&gt;如果当前 AI 能做到的话，是否成本比较高？否则我能想到的话肯定会有了吧？毕竟不是什么复杂的点子。或者可能我已经用上了，但是自己没意识到？</description><pubDate>Fri, 16 Aug 2024 01:55:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065410#reply3</guid></item><item><title>[程序员] [随易访谈] LeaferJS 图形框架，绝境中盛开-万超</title><link>https://www.v2ex.com/t/1065409#reply1</link><description>&lt;p&gt;大家好，我是前端之虎陈随易，全职自由职业，农村独立开发者。&lt;/p&gt;
+&lt;p&gt;这是我的个人网站 &lt;a href="https://chensuiyi.me" rel="nofollow"&gt;https://chensuiyi.me&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这里是&lt;code&gt;[随易访谈]&lt;/code&gt;，分享平凡中的伟大，记录不屈中的温暖。&lt;/p&gt;
+&lt;p&gt;今天邀请到的嘉宾，是国产图形框架 &lt;code&gt;LeaferJS&lt;/code&gt; 的作者 &lt;code&gt;万超&lt;/code&gt;，让我们一起听听他的故事。&lt;/p&gt;
+&lt;h3&gt;请简单介绍一下自己。&lt;/h3&gt;
+&lt;p&gt;大家好，我是 LeaferJS 的创始人万超，正在做一件能给独立开发者带来全新创业机会的事情。&lt;/p&gt;
+&lt;p&gt;我是一名来自农村的程序员，靠着自学，一路摸爬滚打，独立开发过多款产品。&lt;/p&gt;
+&lt;p&gt;在第一次创业成功后，来到了北京重新开始，做过前端开发、产品经理、产品研发总监、CTO 等岗位（我个人的脉脉上有职业认证）。&lt;/p&gt;
+&lt;p&gt;但始终压抑不住想自己创业的冲动，这不，LeaferJS 已经是我的第三次创业了～&lt;/p&gt;
+&lt;h3&gt;最早的一次创业是什么时候？那个时候年纪多大？做了什么产品？&lt;/h3&gt;
+&lt;p&gt;最早的一次创业是在 2012 年，20 岁多岁，刚自学完编程工作了 1 年，做了 &lt;code&gt;17 画画&lt;/code&gt;，网上能搜到很多资料，和一些绘图的数位板厂商有定制业务。&lt;/p&gt;
+&lt;h3&gt;为什么叫做 LeaferJS 这个名字？官网是什么？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="太极张三丰" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240815203830.png" /&gt;&lt;/p&gt;
+&lt;p&gt;不知道大家是否还记得李连杰饰演的太极张三丰，他在遭受一系列打击后得了失心疯，有一次秋雪（杨紫琼饰演）带他出来散心，看见了一颗枯树正在长出新的嫩芽，他顿时领悟到了放心负担、奔向新生命，从此开始了他的崭新人生。&lt;/p&gt;
+&lt;p&gt;LeaferJS 的寓意就在这个故事中：放下过去，奔向新的希望（ Leafer 的意思是看见树叶生长的人）。&lt;/p&gt;
+&lt;p&gt;我希望 LeaferJS 能带着一股新的、强大的生命力不断成长，为更多的人创造价值。&lt;/p&gt;
+&lt;p&gt;我们的官网是 &lt;a href="https://www.v2ex.com/www.leaferjs.com" rel="nofollow"&gt;www.leaferjs.com&lt;/a&gt;。&lt;/p&gt;
+&lt;h3&gt;LeaferJS 的开发团队有几个人？分别承担哪些职责？&lt;/h3&gt;
+&lt;p&gt;目前主要是我一个人，因为有过独立开发的经验，产品、设计、开发这些都能做的了，有一些外援和合作伙伴会提供其他方面的支持。&lt;/p&gt;
+&lt;p&gt;后续等我们有了一定的收入，会在合适的时间点组建起一个新的团队。&lt;/p&gt;
+&lt;h3&gt;开发 LeaferJS ，大概的日常作息是怎么样的？&lt;/h3&gt;
+&lt;p&gt;早上 6 ～ 7 点起来跑步，然后练练钢琴，吃完饭后开始一天的工作。&lt;/p&gt;
+&lt;p&gt;中午会午休一下，晚饭后会出去转转，拉拉单杠。&lt;/p&gt;
+&lt;p&gt;回来再练练一些乐器，再根据状态安排学习、研发，或休息。&lt;/p&gt;
+&lt;p&gt;每周基本都会安排两个下午去周围大自然走走，放松放松。&lt;/p&gt;
+&lt;p&gt;周末充充电，见见朋友，一般很少加班。&lt;/p&gt;
+&lt;h3&gt;LeaferJS 的主要应用场景有哪些？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="应用场景" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240816093439.png" /&gt;&lt;/p&gt;
+&lt;p&gt;入门的三大场景有：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;满足家庭（大概 5 个人）的上网需求，主路由 openwrt, 利用万兆口做 LAN ，配合 10G 2.5G 交换机 和路由器。&lt;/li&gt;
-&lt;li&gt;家庭成员资料的备份，照片用 immich 。&lt;/li&gt;
-&lt;li&gt;TrueNAS Scale 上运行个 Docker 下载点影视资源什么的。&lt;/li&gt;
-&lt;li&gt;对预算不是特别敏感，主要是想一劳永逸。&lt;/li&gt;
+&lt;li&gt;高效绘图： 长图、产品海报、印刷品，可以通过自动布局及丰富的表现力提高绘图效率&lt;/li&gt;
+&lt;li&gt;UI 交互： 组态、互动页面、小游戏，可以通过跨平台交互事件、手势、光标提高交互能力&lt;/li&gt;
+&lt;li&gt;图形图像编辑： 头像裁剪、图片、DIY 编辑器，可以通过丰富的图形编辑功能和插件提高开发效率&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;针对以上，各位大佬有没有什么看法或者意见建议☺️&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:23:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065311#reply1</guid></item><item><title>[移民] 新西兰和澳大利亚哪个更适合养老</title><link>https://www.v2ex.com/t/1065310#reply4</link><description>&lt;p&gt;如题，希望有经验的老哥能提供些经验，哪边更适合华人一些&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:13:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065310#reply4</guid></item><item><title>[分享创造] Grok 生成的图片太有意思了</title><link>https://www.v2ex.com/t/1065309#reply0</link><description>&lt;p&gt;&lt;a href="https://grokimagegenerator.app" rel="nofollow"&gt;grok 图片生成体验网址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ibb.co/sCR21Pf" rel="nofollow"&gt;&lt;img alt="xxxxx" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/T12k0Tf/xxxxx.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://grokimagegenerator.app" rel="nofollow"&gt;grok 图片生成体验网址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ibb.co/FWj1Wn3" rel="nofollow"&gt;&lt;img alt="yyyyyy" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/thW6h3K/yyyyyy.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://usefulwebtool.com/" rel="nofollow"&gt;tulisan keren online copy paste&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://grokimagegenerator.app" rel="nofollow"&gt;grok 图片生成体验网址&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://ibb.co/vZmYHpK" rel="nofollow"&gt;&lt;img alt="zzzzzz" class="embedded_image" rel="noreferrer" src="https://i.ibb.co/2gPNyxf/zzzzzz.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://grokimagegenerator.app" rel="nofollow"&gt;grok 图片生成体验网址&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:09:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065309#reply0</guid></item><item><title>[反馈] V 站用户创建时间好像有 BUG</title><link>https://www.v2ex.com/t/1065307#reply0</link><description>&lt;p&gt;刚刚给朋友分享了一个邀请码创建了个账号&lt;/p&gt;
-&lt;p&gt;从邀请码的记录里看：&lt;/p&gt;
-&lt;p&gt;邀请码&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;创建于：2024-08-15 18:52:22 +08:00&lt;/li&gt;
-&lt;li&gt;使用时间：	2024-08-15 18:53:01 +08:00&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;但是我点进这个账号看它的却显示加入于：2024-08-15 15:59:23 +08:00&lt;/p&gt;
-&lt;p&gt;还是说这个加入时间是账号的创建时间，使用邀请码只是激活？&lt;/p&gt;
-&lt;p&gt;@&lt;a href="https://www.v2ex.com/member/Livid"&gt;Livid&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 11:06:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065307#reply0</guid></item><item><title>[分享创造] 给大家汇报下我的第 4 个出海网站 - Image AI 🙏🙏🙏</title><link>https://www.v2ex.com/t/1065305#reply10</link><description>&lt;p&gt;大家好，Image AI （ &lt;a href="http://imgai.ai" rel="nofollow"&gt;imgai.ai&lt;/a&gt; ）是我尝试出海的第 4 个项目了，网站在 7 月 底正式上线的，上线不久就被 TAAFT 收录了，带来了一波流量，而且很快就有了一个付费，终于实现了“0” 的突破🤣。&lt;/p&gt;
-&lt;p&gt;后来流量很快就下去了，但每天还有一些注册，在这期间我也没闲着，继续加功能，优化 SEO ，提交导航站，期望大力出奇迹～&lt;/p&gt;
-&lt;p&gt;从昨天下午开始突然来了一大波流量，流量来源不明，仅仅昨天就有 92 个注册用户，一直持续到今天，流量更大了一些，UV 首次突破了 1k ，单日注册用户达到了 200+，而且还带来了 3 笔付费，很惊喜。&lt;/p&gt;
-&lt;p&gt;下面简单介绍一下 &lt;a href="http://imgai.ai" rel="nofollow"&gt;imgai.ai&lt;/a&gt; 是干什么的吧。&lt;/p&gt;
-&lt;p&gt;Image AI 是一个提供很多 AI 图片功能的一站式工具平台，Image AI 致力于打造成为一个优秀的 AI 图片工具聚合网站，在这里可以找到所需 AI 图片工具，网站会持续更新很多有用和有趣的 AI 图片工具。Image AI 包含 16 种图片工具：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;换脸&lt;/li&gt;
-&lt;li&gt;人物贴纸&lt;/li&gt;
-&lt;li&gt;文本生成贴纸&lt;/li&gt;
-&lt;li&gt;人脸高清修复&lt;/li&gt;
-&lt;li&gt;魔法照片&lt;/li&gt;
-&lt;li&gt;图片去背景/文字/水印&lt;/li&gt;
-&lt;li&gt;文生图（&lt;strong&gt;包含最近很火的 Flux 的所有模型，DALLE-3 和 SD3&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;图片高清放大&lt;/li&gt;
-&lt;li&gt;百变人脸（ 3D ，黏土，电子游戏等风格）&lt;/li&gt;
-&lt;li&gt;图片创意重绘&lt;/li&gt;
-&lt;li&gt;随机头像生成，包含之前很火的丑萌头像（不用注册，免费）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Image AI 是第一次完成从登录到支付的闭环，注册公司，申请银行卡，申请 stripe 等，走了不少弯路，花费不少时间，大家如果有什么想要交流的，随时沟通呀～&lt;/p&gt;
-&lt;p&gt;最后，感谢大家支持 Image  AI ，网站有我个人微信，大家可以加微信交流，如果注册了网站账号，给我账号，额外赠送 20 个积分玩玩。&lt;/p&gt;
-&lt;p&gt;最最后，大家如果方便的话，相互加个友链呀～&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:58:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065305#reply10</guid></item><item><title>[Surface] 新买的 surface 怎么判断是不是全新的？</title><link>https://www.v2ex.com/t/1065304#reply0</link><description>&lt;p&gt;surface pro10&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:53:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065304#reply0</guid></item><item><title>[VXNA] 申请收录个人博客</title><link>https://www.v2ex.com/t/1065303#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;URL: &lt;a href="https://blog.yzsun.me" rel="nofollow"&gt;https://blog.yzsun.me&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Feed: &lt;a href="https://blog.yzsun.me/feed.xml" rel="nofollow"&gt;https://blog.yzsun.me/feed.xml&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Thu, 15 Aug 2024 10:50:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065303#reply0</guid></item><item><title>[问与答] pdd 到底让中国电商进步了还是倒退了。</title><link>https://www.v2ex.com/t/1065302#reply18</link><description>看到有人说亚马逊也支持仅退款了。pdd 这种商业模式看来在国外也是吃香，把亚马逊都逼的不得不跟着学，pdd 这种流氓平台 真的是帮助底层流氓白嫖的最有利工具，买完东西 刚问一个问题，就直接弹框让你选择是否要仅退款，这太他妈考研人性，   就像调研下有多少人仅退款过，买完白嫖，真的睡得着觉吗。</description><pubDate>Thu, 15 Aug 2024 10:48:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065302#reply18</guid></item><item><title>[问与答] 闲置服务器可以用来干啥</title><link>https://www.v2ex.com/t/1065301#reply7</link><description>&lt;a href="https://imgur.com/Z3B75dO" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/Z3B75dO&lt;/a&gt;&lt;br /&gt;两年前活动买的  就放了一个备案官网  和 gpt 页面 &lt;br /&gt;&lt;br /&gt;还可以用来做下什么</description><pubDate>Thu, 15 Aug 2024 10:39:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065301#reply7</guid></item><item><title>[问与答] 通配 SSL 证书去哪申请</title><link>https://www.v2ex.com/t/1065300#reply9</link><description>&lt;p&gt;大佬们：免费的通配证书哪里申请，最好能自动续签。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:28:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065300#reply9</guid></item><item><title>[分享创造] I just made GROKAIIMAGEgenerator.com</title><link>https://www.v2ex.com/t/1065299#reply0</link><description>&lt;p&gt;Yes, use a vercel template&lt;/p&gt;
-&lt;p&gt;let's see how many clicks it will get in one week&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:28:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065299#reply0</guid></item><item><title>[程序员] 失业搞副业的这么多，为啥很少看到有搞内容创业的？</title><link>https://www.v2ex.com/t/1065298#reply11</link><description>&lt;p&gt;一个个探讨失业了做什么副业，但是很少看到一些长期看来还是比较有前景的事情，比如公众号写作，据说一定阅读量的话，收入还是不错的。还比如做海外 niche 站，通过联盟营销进行获利，长期做的话，理论上也能获取不错的收益。 难道是通过这些途径赚钱的都不会在网上发布吗，反正很少看到真的通过这些渠道赚到钱的。&lt;/p&gt;</description><pubDate>Thu, 15 Aug 2024 10:18:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065298#reply11</guid></item></channel></rss>
+&lt;p&gt;如果你想开发更复杂的矢量设计软件、UI 设计软件、白板软件、流程图设计软件，低代码编辑软件、矢量雕刻软件、CAD 建筑设计软件、EDA 电路设计软件、视频剪辑软件等，那找 LeaferJS 就对了。&lt;/p&gt;
+&lt;h3&gt;LeaferJS 目前有哪些案例？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="使用案例" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240816093526.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;为什么 LeaferJS 具备如此高的性能？用到了哪些特别的技巧？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="核心优势" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240816093607.png" /&gt;&lt;/p&gt;
+&lt;p&gt;开发一个图形引擎是一个系统性的工程，我们在构建的时候就从很多细节上把内存占用做到了最小，并提供了高效的布局方式，以及局部渲染、切片渲染、缓存渲染，从而实现了比较好的性能。&lt;/p&gt;
+&lt;p&gt;不过针对大型应用场景，我们的性能优化之路才刚刚开始，还需继续不断优化才行，我们的官网有一篇剖析性能的文章，感兴趣的可以去看看。&lt;/p&gt;
+&lt;h3&gt;LeaferJS 涉及到的比较复杂的技术，或者概念是哪些？你自己是怎么学会、了解并熟练的？&lt;/h3&gt;
+&lt;p&gt;比较复杂的地方主要有两个：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;图形的丰富表现力需要向设计行业的最高标准对齐，并且 API 的易用性要让每个开发者容易理解使用&lt;/li&gt;
+&lt;li&gt;图形技术的性能，例如我们对内存占用的极致优化、创建元素的速度、局部渲染、切片渲染、缓存渲染&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;针对有开源代码可参考的，我首先会去阅读别人的源码，吸取一些经验。&lt;/p&gt;
+&lt;p&gt;然后再从用户的角度去考虑，怎么样更简单易用、性能更好，比如坐标系统的设计。&lt;/p&gt;
+&lt;p&gt;针对没有开源代码可参考的，我更多的还是依据马斯克的第一性原理，从事情的本质思考出发，需要什么就去学什么，从而构建出好用的解决方案。&lt;/p&gt;
+&lt;h3&gt;比起市场上的一些同类产品，LeaferJS 最大的优势是什么？&lt;/h3&gt;
+&lt;p&gt;很多人说是性能，其实这只是一部分，最大的优势还是丰富的表现力和易用性。&lt;/p&gt;
+&lt;p&gt;因为我们是按照设计行业的最高标准去打磨 UI 表现力的，所以用户实际去用的时候会感觉到细节很不一样。&lt;/p&gt;
+&lt;h3&gt;有考虑将 LeaferJS 做成一个国际化的开源项目吗？大概什么时候？有什么海外推广计划？&lt;/h3&gt;
+&lt;p&gt;有的，计划 8 月底开始建立翻译小组，最晚 9 月份就会开始推往国外。&lt;/p&gt;
+&lt;p&gt;现在还没有很具体的海外推广计划呢，到时再向大家多多请教。&lt;/p&gt;
+&lt;h3&gt;目前有哪些 LeaferJS 的案例？&lt;/h3&gt;
+&lt;p&gt;以下案例都可以在我们的官网首页找到：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在线设计： 无界云图、果米设计、Tuhigh 、Wodisign 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小游戏：超级玛丽、飞翔的小鸟、贪吃蛇、2048 、拼图游戏、弹球游戏 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;视频剪辑及截图：fly-cut 、ShotEasy&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UI 组件：element-plus-leafer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;创意：珠串设计、百万咖啡&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;2024 年已过大半，对于 LeaferJS 的推进，今年预期有哪些？&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;绘图、图形编辑器场景完善，能进行 SVG 的导入导出，完成通用版性能优化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小游戏、短视频、自动布局场景的初步支持，AI 的初步接入及结合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建立起一个紧密合作的开源社区，把 LeaferJS 稳步推广到国内外。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;有没有对未来一年，三年，五年的计划？大概是什么？&lt;/h3&gt;
+&lt;p&gt;我们有一个长远的计划，未来一年，三年，五年会往与 AI 结合，支撑可视化开发网页、应用、游戏、动画方向发展。&lt;/p&gt;
+&lt;h3&gt;在开发 LeaferJS 之前，方便简单地说说自己的工作内容吗？&lt;/h3&gt;
+&lt;p&gt;最早我是做绘画软件创业，可以模拟钢笔、毛笔、油画、水彩等现实的压力笔触，能有真实的颜色浸染效果，还支持鼠标模拟压力绘画。&lt;/p&gt;
+&lt;p&gt;最近的一份工作参与了非常复杂的在线白板产品的研发和性能优化，类似 Miro, 也是和图形渲染相关的产品。&lt;/p&gt;
+&lt;h3&gt;对待全职开源，创业这个事情，家人的态度是什么样的？&lt;/h3&gt;
+&lt;p&gt;家人还是非常支持的，很大一部分资金是我的家人帮填上的，尤其是我的妹妹，还有另外几位借钱给我的朋友，等我后面做起来了必会重谢。&lt;/p&gt;
+&lt;p&gt;当然他们也会有担忧，我的母亲在看到我之前写的&lt;a href="https://www.leaferjs.com/ui/blog/2024-04-08.html" rel="nofollow"&gt;《绝境中盛开，一位独立开发者的故事》&lt;/a&gt; 那篇文章时，心中五味杂陈，说我太难了，偷偷的为我抹了不知道多少次眼泪。&lt;/p&gt;
+&lt;h3&gt;目前还面临资金方面的问题吗？需要哪些帮助？有哪些帮助的渠道？&lt;/h3&gt;
+&lt;p&gt;目前没有太大资金方面的生存压力，不过我们要加速发展的话还是需要更多的人来参与，目前流量和影响力都在不断攀升。&lt;/p&gt;
+&lt;p&gt;最近计划增加每个用户都可以参与的代码片段、小游戏、场景 demo 页面，感兴趣的到时可以上传佳作。&lt;/p&gt;
+&lt;p&gt;个人用户想支持我们的发展，可以直接在官网赞助我一杯咖啡。&lt;/p&gt;
+&lt;p&gt;媒体合作、企业赞助可以直接找我（官网底部有我微信二维码），比如互相推广、业务结合等。&lt;/p&gt;
+&lt;p&gt;最近计划逐步上线金牌、白金、铂金赞助等级满足不同公司的需要。&lt;/p&gt;
+&lt;h3&gt;有没有考虑接受投资？如果接受投资，自己期望什么样的合作模式？&lt;/h3&gt;
+&lt;p&gt;为了保持 LeaferJS 的发展方向和节奏，我们现阶段不考虑接受投资，后期如果进入高速发展阶段可能会考虑。&lt;/p&gt;
+&lt;p&gt;同时我们会向 Vue 等开源前辈学习，通过提升自身行业影响力和用户范围，吸引国内外企业赞助。&lt;/p&gt;
+&lt;p&gt;并通过提供周边服务、合作教程，逐步实现自身造血能力。&lt;/p&gt;
+&lt;h3&gt;做 LeaferJS 以来，最难的时刻是怎么样的？&lt;/h3&gt;
+&lt;p&gt;合伙人退出（做 LeaferJS 的同时，我和别人合伙做了一个商业化产品 Wodisign ），口袋里余粮不多，新的方向又举棋未定的时候，我觉得那个时候是最艰难的。&lt;/p&gt;
+&lt;p&gt;因为我无论是前进还是后退，在未来很长的一段时间里，我的生活中都将看不到一丝亮光。&lt;/p&gt;
+&lt;h3&gt;是什么让你坚持到现在？为什么会如此执着？&lt;/h3&gt;
+&lt;p&gt;是使命感点亮了我，我看见了未来的世界需要这样的技术，并最终选择了听从内心的声音去创造它。&lt;/p&gt;
+&lt;p&gt;这让我拥有了源源不断的内在动力，可以克服一切的困难。&lt;/p&gt;
+&lt;h3&gt;目前工作强度还比较大，有没有考虑什么时候，把节奏调慢一点？比如出去旅游&lt;/h3&gt;
+&lt;p&gt;等我们能实现收支平衡的时候，会把节奏调慢一些，今年应该会多出去旅旅游（已经出去玩过一趟了），&lt;/p&gt;
+&lt;h3&gt;除了代码，业余还有什么爱好？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="爱好弹钢琴" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240815203919.png" /&gt;&lt;/p&gt;
+&lt;p&gt;目前业余主要还是音乐方面，喜欢玩各种乐器，也在开始创作音乐，同时这也成为了我创业时解压的一种有效方式。&lt;/p&gt;
+&lt;p&gt;我原来还比较喜欢画画，不过没有那么多时间，游山玩水之类的自不必多说。&lt;/p&gt;
+&lt;h3&gt;目前，职场都有 35 岁焦虑，根据你的经验，你觉得对抗这个焦虑的办法有哪些？&lt;/h3&gt;
+&lt;p&gt;实话说，我目前也没有特别好的办法呢，我选择创业的一部分原因也是来自于 35 岁的职场焦虑。&lt;/p&gt;
+&lt;p&gt;后来创业过程中我发现，当你持续做着一件在燃烧自己，也能给别人带来价值的事情的时候，就没有那么焦虑了，回报也自然而来。&lt;/p&gt;
+&lt;p&gt;所以我个人认为找到自己擅长且热爱的事情很重要（同时能为别人创造价值），当人生有了稳定的方向，就不容易焦虑。&lt;/p&gt;
+&lt;h3&gt;日常办公的环境是怎样的？可以展示一下吗？&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="办公环境" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240815203903.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;对于想要或者已经创业的朋友们，你有哪些建议和经验分享？&lt;/h3&gt;
+&lt;p&gt;通过我的创业经历来看，我觉得创业最重要的还是方向和自我纠错能力。&lt;/p&gt;
+&lt;p&gt;方向上一定要选择自己感兴趣且覆盖用户面较广的，这个能决定你能走多远（心力），遇到多大的困难还可以继续前进。&lt;/p&gt;
+&lt;p&gt;尽早的描述出未来成功时的蓝图，也就是我们常说的愿景，可以让自己在困境中不迷失方向，也能指引更多的人一起去到那个地方。&lt;/p&gt;
+&lt;p&gt;产品一定要找到自己独特的定位和价值，在一个较小的突破口上集中火力做到最好，然后再慢慢扩大。&lt;/p&gt;
+&lt;p&gt;这一切都需要创始人多去倾听用户的声音做出判断，才能不断的纠正到正确的方向上。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;感谢您的阅读，希望这个故事，可以给您带来一些参考和帮助，我们下次再见~&lt;/p&gt;</description><pubDate>Fri, 16 Aug 2024 01:54:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065409#reply1</guid></item></channel></rss>
