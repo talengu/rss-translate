@@ -1,226 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 18 Aug 2024 06:14:42 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[前端开发] [求助] 网站复刻</title><link>https://www.v2ex.com/t/1065866#reply0</link><description>&lt;p&gt;各位大佬请教个网站复刻问题：
-1.目前已知要复刻的网站是 ssr + react + antd 写的
-2.有可能能拿到源码
-本人情况：
-前端新手，只写过 vue + element-plus 一个简单的 admin 网站
-需求：
-复刻这个网站的某些核心页面，大概五六个，改成简单的 csr
-问题：
-1.如何在没有源码的情况下，快速复刻？
-2.如果有源码，能更快复刻吗？
-3.如果一个前端熟练工来复刻，大概需要多久？&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 06:12:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065866#reply0</guid></item><item><title>[问与答] 一个人拆快递拍视频有什么优雅的姿势或工具？</title><link>https://www.v2ex.com/t/1065865#reply4</link><description>有时候家里只有一个人，但需要拍视频拆快递，两只手肯定不行。那有什么好方法呢？&lt;br /&gt;比如把手机固定在在哪里拍，有什么实用的工具推荐不？</description><pubDate>Sun, 18 Aug 2024 05:59:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065865#reply4</guid></item><item><title>[分享创造] 第一次发“开源”项目，一个简洁的 hugo 博客主题</title><link>https://www.v2ex.com/t/1065864#reply2</link><description>&lt;p&gt;之前一直有朋友问我的博客主题，所以我就整理了一下代码放出来了（不算开源吧 2333 ）代码水平比较差，非计算机专业人员，希望 V2 的前辈可以提点建议。&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/a/TQyVVtV" rel="nofollow"&gt;https://imgur.com/a/TQyVVtV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;仓库： &lt;a href="https://github.com/yuanj82/cloud" rel="nofollow"&gt;https://github.com/yuanj82/cloud&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 05:40:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065864#reply2</guid></item><item><title>[Amazon Web Services] 有没有人知道 aws 这两项服务是什么意思</title><link>https://www.v2ex.com/t/1065863#reply2</link><description>&lt;p&gt;&lt;img alt="img" class="embedded_image" rel="noreferrer" src="https://tu.yylx.tech/VyBq3mZG+" /&gt;&lt;/p&gt;
-&lt;p&gt;这两项服务不知道是什么。第一项似乎是 aws s3 ，但我没用过啊。
-第二项完全不知道是啥。&lt;/p&gt;
-&lt;p&gt;目前用了的 aws 服务：一台试用中的 lightsail ，cloudront cdn ，aws 发的两个 ssl 证书
-请问是哪里产生了图中的两项请求呢？（感觉放着不管以后说不定会扣费）&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 05:39:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065863#reply2</guid></item><item><title>[问与答] 想请教大家，虚拟的电话号码靠谱不？</title><link>https://www.v2ex.com/t/1065862#reply2</link><description>&lt;p&gt;想使用 Textnow 或 Google Voice 之类的服务创建一个美国的虚拟电话号码，主要用于注册某些需要外国号码验证的 App ，比如 GPT 等，是否有什么使用限制或隐患？
-选择虚拟电话号码主要是申请香港号码或美国号码的流程比较麻烦，而且月租也比较高。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 05:32:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065862#reply2</guid></item><item><title>[分享发现] 微软的远程桌面原来自带远程唤醒功能！</title><link>https://www.v2ex.com/t/1065860#reply8</link><description>&lt;p&gt;以前都是搞个远程唤醒的 app 或者进路由器唤醒电脑后再打开远程桌面，发现根本是多余的，然而我却这么干了好几年，在远程电脑关机的情况下，打开微软自带远程，点连接，  然后等着开完机就可以连上了，第一次弹出连不上的话是因为还没进系统，继续连就可以了。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 05:17:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065860#reply8</guid></item><item><title>[分享发现] 大橘和朋友们的周刊 -《第 010 期 - 敬祖思亲》</title><link>https://www.v2ex.com/t/1065859#reply0</link><description>&lt;blockquote&gt;
-&lt;p&gt;周刊终于更新到两位数了，分享一些内容给 V2 的友友们吧！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1&gt;第 010 期 - 敬祖思亲&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/fqVnIS6.png" /&gt;&lt;/p&gt;
-&lt;p&gt;本周是中元节，所以图为晚上吃完饭和家人一起到门口给祖先烧钱的时候拍了一张上空的照片（感觉拍其他的可能不太好），本周比较吓人的是就在这张图拍摄的当天吃饭时间前需要祭祖然后侄女突然说了一句“怎么这么多人进来”把家人都吓了一跳，不知道是真的假的&lt;/p&gt;
-&lt;h2&gt;&amp;gt;&amp;gt; 🐈大橘的工具集&lt;/h2&gt;
-&lt;h3&gt;&lt;a href="https://librewolf.net/" rel="nofollow"&gt;LibreWolf 浏览器&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个专注于隐私、安全和自由的 Firefox 定制版本，去除了追踪和指纹识别技术，增强了隐私保护，同时移除了所有的遥测和数据收集功能，并且默认包含了 uBlock Origin 广告拦截器&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/fRNmFRr.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.crxsoso.com/webstore/detail/fjllepdpgikphekgbinhpdkalliiejdh" rel="nofollow"&gt;拖拽预览&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个可以通过拖拽链接或选中文本来预览和搜索，无需打开新标签页或窗口&lt;/p&gt;
-&lt;p&gt;作者声明了该插件不会收集任何个人信息&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;开源地址： &lt;a href="https://github.com/u-Sir/drag-to-preview" rel="nofollow"&gt;https://github.com/u-Sir/drag-to-preview&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QCun9Dd.gif" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.crxsoso.com/webstore/detail/glcgjkleinhkbopkjdjkbhmmphaohgpd" rel="nofollow"&gt;批量下载图片&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个从网页中批量捕获并下载图片，帮助你将工作变得更加自动化的插件！&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/3qLfj2A.gif" /&gt;&lt;/p&gt;
-&lt;h4&gt;&lt;a href="https://flux-image.com/" rel="nofollow"&gt;FLUX-IMAGE&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;一个免费的 Flux 图片生成网站，类似的有：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.fluximageai.com/" rel="nofollow"&gt;Flux Image AI: Transforming Imagination into Reality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://fluxai.dev/" rel="nofollow"&gt;Flux AI Image Generator&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/QzY2o9W.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://greasyfork.org/zh-CN/scripts/480192-%E5%93%8E%E5%91%A6%E4%B8%8D%E9%94%99%E5%93%A6-%E5%AD%A6%E4%BC%9A%E7%9C%8B%E7%AE%80%E4%BB%8B" rel="nofollow"&gt;哎呦不错哦&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个油猴插件，可以拦截所有 youtube 广告，包括 Youtue Music ，Youtube Kids ，Youtube Shorts 。不留白，不闪屏，无感 ，体验第一，目前最好的 youtube 广告脚本&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XKHITnf.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://npm.io/" rel="nofollow"&gt;npm.io&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简洁的 npm 下载网站&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/jYPQ65x.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.losethevery.com/" rel="nofollow"&gt;Lose the Very&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;在 PH 上作者是这样简述的："Very good english" is not very good english. Lose the very.&lt;/p&gt;
-&lt;p&gt;这是一个比较有意思的网站，比如我输入了&lt;code&gt;very large&lt;/code&gt;，它就会转换为其他单词例如：&lt;code&gt;colossal&lt;/code&gt;，一定程度上可以提供英文表达能力&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/bH7wuu8.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://extract.me/cn/" rel="nofollow"&gt;Archive Extractor&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Archive Extractor 是一款简洁的在线工具，可以解压 70 种以上的压缩文件，比如 7z, zipx, rar, tar, exe, dmg 等等&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/8e1cUyQ.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://decohack.com/" rel="nofollow"&gt;DECOHACK&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;ProductHunt 每日榜单&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ofPT8tI.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://tts.femoon.top/cn" rel="nofollow"&gt;AzureTTSWeb&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个基于 Azure 文本到语音 (TTS) 服务的网页应用程序，允许用户在本地运行或者使用 Azure Key 一键部署到云端&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;开源地址： &lt;a href="https://github.com/Femoon/tts-azure-web" rel="nofollow"&gt;https://github.com/Femoon/tts-azure-web&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/RjDWe7v.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://songgenerator.io/zh-CN/app" rel="nofollow"&gt;SONG GENERATOR&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个 AI 歌曲生成网站，类似于 &lt;a href="https://suno.com/" rel="nofollow"&gt;Suno&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/7Rmw5rK.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.wktline.com/" rel="nofollow"&gt;轻简历&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个致力于为应届生和社招求职者提供一个轻量、极简且易于操作的在线简历制作平台&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6q9bXiD.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://quicktranslate.cn/zh-CN/home" rel="nofollow"&gt;简译&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个简单、快速、免费的文档翻译服务，支持 &lt;code&gt;.docx 、.pptx 、.xlsx 、.json&lt;/code&gt;，同时支持 13 种支持语言，且不断增加&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/p4QO44z.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://seobacklinkhub.org/" rel="nofollow"&gt;SEOBacklinkHub&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;提供了一个详尽的 AI 产品提交目录列表，包括超过 100 个不同的目录，其中大多数是免费的，有些是付费的。这些目录允许开发者和产品经理将他们的 AI 工具和产品提交到各个平台上&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Fof7wlR.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://pppw1my52v.feishu.cn/wiki/DGtMwJailirOwPk3OBIcTbTCnhg" rel="nofollow"&gt;考途指南&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个专注于&lt;code&gt;考公考编&lt;/code&gt;的飞书文档指南&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://book.tstrs.me/search" rel="nofollow"&gt;SaltyLeo 的书架&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;这是 SaltyLeo 开发的一个的电子书查询网站，作者的主要目的是解决我突然想看某本书，却不知道从哪里去找它的问题。其次是为世界上其他人解决这个问题&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/biXyMT2.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://music.immm.cn/" rel="nofollow"&gt;Music －用音乐感染人心&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个民谣音乐在线听网站，唯一的缺点就是不能搜索其他歌曲，里面的歌曲都是内置好的&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/XmbSUSE.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.redirectchecker.org/" rel="nofollow"&gt;RedirectChecker&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一款开源的 URL 跳转检测工具，该工具使用 Next.js 框架搭建，并部署在 Cloudflare Pages 上，旨在帮助用户检测 URL 跳转情况，同时避免因为 Vercel 平台的账单问题而担忧&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ENwfEGE.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://www.logocook.shop/" rel="nofollow"&gt;LOGOCOOK&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;能快速的制作网站和 app 的 logo ，操作简单，完全免费&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/WdUNnFe.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://yebei199.github.io/meow-memorizing/" rel="nofollow"&gt;meow-memorizing&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个开源的浏览器记单词小插件&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tdqxiJ7.gif" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://github.com/eyelly-wu/appstore-discounts/blob/main/README_zh-CN.md" rel="nofollow"&gt;App Store 省钱小助手&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;开源的 App Store 折扣信息助手，基于 GitHub Actions 实现，支持 RSS ，Telegram 和 钉钉 通知&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;类似的还有：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://gofans.cn/" rel="nofollow"&gt;GoFans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://appwall.today/" rel="nofollow"&gt;Appwall Today&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/JXQge0s.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://moondream2.online/zh" rel="nofollow"&gt;Free Moondream Generator&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个免费体验 moondream2 模型的网站&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;moondream 定位是给开发者用的视觉 AI ，可以利用它构建更高级的 AI 视觉应用程序。可以用来回答问题，检测对象（识别车牌），对图片中的数量计数&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/sYjuDGk.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://devtoolset.net/zh" rel="nofollow"&gt;开发工具导航站&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个不需要数据库就可以搭建的 Dev Toolset&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;开源地址： &lt;a href="https://github.com/iAmCorey/devtoolset" rel="nofollow"&gt;https://github.com/iAmCorey/devtoolset&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/B0627GX.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://libretranslate.com/" rel="nofollow"&gt;LibreTranslate&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个免费且开源的机器翻译 API ，支持自行搭建、脱机使用，并且易于安装和配置&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;开源地址： &lt;a href="https://github.com/LibreTranslate/LibreTranslate" rel="nofollow"&gt;https://github.com/LibreTranslate/LibreTranslate&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/gk1m4HM.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="http://kylebing.cn/tools/clock-a/" rel="nofollow"&gt;一个优雅的 js canvas 时钟表盘&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;黑夜版本&lt;/code&gt;： &lt;a href="http://kylebing.cn/tools/clock-a/?theme=black" rel="nofollow"&gt;http://kylebing.cn/tools/clock-a/?theme=black&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;开源地址&lt;/code&gt;： &lt;a href="https://github.com/KyleBing/animate-clock-canvas" rel="nofollow"&gt;https://github.com/KyleBing/animate-clock-canvas&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/rw5A0zo.png" /&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;a href="https://502book.com/" rel="nofollow"&gt;502B0OK&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;一个免费小说网站集合&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/fZDXjuX.png" /&gt;&lt;/p&gt;
-&lt;h2&gt;&amp;gt;&amp;gt; 🐱跟着大橘随便看看&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://sex-positions.online/zh-cn/" rel="nofollow"&gt;300 种最佳性爱姿势的排名&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://cjkgirls.com/" rel="nofollow"&gt;cjkgirls&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/sDlNVw4.png" /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sticker.weixin.qq.com/cgi-bin/mmemoticon-bin/emoticonview?oper=single&amp;amp;t=shop/detail&amp;amp;productid=aL2PCfwK/89qO7sF6/+I+UDhfwEjhec2ZNvdnLLJRd/NGj2PlODE3mqJIpLA1ZT4eK6u+hPUzmaHKZsLsArOlYnag+dLOVJpc0UMwU5FVn5k=" rel="nofollow"&gt;猫猫的新表情包&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/uv5Qj5C.png" /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.jqqzx.cc/vod/73061.html" rel="nofollow"&gt;本周感觉比较好看的动漫：《剑来》&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/eyGt1UC.jpeg" /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://theme.typora.io/theme/bronya/" rel="nofollow"&gt;本周发现的比较好看的 Typora 皮肤&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/9PllYP6.png" /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;奥运会落幕，我认为的三个&lt;code&gt;巴黎奥运会显眼包&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;[羽毛球]&lt;/code&gt;志田千阳（已经结婚了，大家就别想了），图片来自于 &lt;a href="https://www.instagram.com/p/C-xW3-Dy5jz/" rel="nofollow"&gt;Ins&lt;/a&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/aWckOXT.png" /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;[举重]&lt;/code&gt;莫里斯（给我看哭了，兄弟），图片也来自于 &lt;a href="https://www.instagram.com/p/C-cmqMzR1Xs" rel="nofollow"&gt;Ins&lt;/a&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ITRzFEP.jpeg" /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;[田径]&lt;/code&gt;徐卓一（金牌迟早是我们高家的，笑死了），图片来自于微博
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/8YOhRcM.png" /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;</description><pubDate>Sun, 18 Aug 2024 05:01:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065859#reply0</guid></item><item><title>[程序员] 调试 hellowold 程序，找 mian 函数。为什么第一行代码没往下执行？出现了跳转</title><link>https://www.v2ex.com/t/1065858#reply9</link><description>&lt;pre&gt;&lt;code&gt;#include "windows.h"
-#include "tchar.h"
-
-int _tmain(int argc, TCHAR* argv[]) {
-	MessageBox(NULL, L"Hello, World!", L"Hello, World!", MB_OK);
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;76F1A942 | 8B4C24 54   | mov ecx,dword ptr ss:[esp+54]                 |
-76F1A946 | 33CC        | xor ecx,esp                                   |
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;第一行执行完没执行第二行，而是跳到了这里，mov 指令为什么会跳转？&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;775B91C0 | 833D E81467 | cmp dword ptr ds:[776714E8],0                 |
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Sun, 18 Aug 2024 04:56:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065858#reply9</guid></item><item><title>[git] 今天终于发现，之前对 git+ssh 协议的认知是错误的</title><link>https://www.v2ex.com/t/1065857#reply0</link><description>&lt;p&gt;我一直很好奇，为啥 dumb HTTP 协议需要挂一个 post update hook 去执行 update-server-info 命令，而 git+ssh 协议却不需要&lt;/p&gt;
-&lt;p&gt;后来才明白，我之前误把 git+ssh 理解为 file+ssh 协议了&lt;/p&gt;
-&lt;p&gt;今天使用
-export GIT_SSH_COMMAND="ssh -vvv"
-的方法，给 ssh 开了 verbose 模式
-debug1: Sending command: git-upload-pack 'git/git.git'
-debug2: mux_master_process_new_session: channel 1: request tty 0, X 0, agent 0, subsys 0, term "xterm-256color", cmd "git-upload-pack 'git/git.git'", env 4
-从日志可以看出，其实 git+ssh 协议是通过 ssh 调用远端的 git 内部命令来提供服务的，而不是通过 ssh 访问远程文件系统来提供服务的&lt;/p&gt;
-&lt;p&gt;这个做法其实和 smart HTTP 类似：
-git+ssh 协议：ssh 作为网络层和身份验证层，ssh session channel 作为适配层，git 内部命令作为实际的 git 协议服务器
-smart HTTP 协议： httpd 作为网络层和身份验证层、CGI 模式执行的 git-http-backend 作为适配层、git 内部命令作为实际的 git 协议服务器&lt;/p&gt;
-&lt;p&gt;而 dumb HTTP 协议，因为是 httpd 直接服务静态文件的，没有调用 git 的内部命令提供服务，所以才缺了 update-server-info 这个步骤，需要通过 hook 来执行该命令。&lt;/p&gt;
-&lt;p&gt;不过 post update hook 和 git send-pack 之间的互动我没看明白，不知道 update-server-info 命令到底输出了什么内容给 git send-pack 命令，让它上传文件到 dumb HTTP 服务去
-这段代码应该怎么读呢？&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 04:51:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065857#reply0</guid></item><item><title>[程序员] 周末了，这个语言的 beta 预览版发布</title><link>https://www.v2ex.com/t/1065855#reply2</link><description>如题，“MoonBit 预览版比大部分主流语言更早推出现代化泛型、精准错误处理和高效迭代器等重要特性，在云计算、边缘计算、人工智能和教育等领域快速实现落地应用。Beta 预览版标志着 MoonBit 生态进入全新阶段，为用户提供更稳定、流畅的创新操作体验。”-文章引言&lt;br /&gt;&lt;br /&gt;具体文章细节： &lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MjA0OTYxNA==&amp;amp;mid=2247501259&amp;amp;idx=1&amp;amp;sn=94434fc9aa7384e5b322b66b35df3a2b&amp;amp;chksm=fb2211eacc5598fcecc4b6899afa1380fb31bd17cf24c1eee8b4fbe16f5fc480fa2304d8fea1&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=0818cbsH0T4IBJWu9SXoZWHF&amp;amp;sharer_shareinfo=1f95b095f1003ed21a5c1ed6fd20a4f9&amp;amp;sharer_shareinfo_first=1f95b095f1003ed21a5c1ed6fd20a4f9&amp;amp;version=4.1.27.6032&amp;amp;platform=win&amp;amp;nwr_flag=1#wechat_redirect" rel="nofollow noopener" target="_blank"&gt;https://mp.weixin.qq.com/s?__biz=MzU0MjA0OTYxNA==&amp;amp;mid=2247501259&amp;amp;idx=1&amp;amp;sn=94434fc9aa7384e5b322b66b35df3a2b&amp;amp;chksm=fb2211eacc5598fcecc4b6899afa1380fb31bd17cf24c1eee8b4fbe16f5fc480fa2304d8fea1&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=0818cbsH0T4IBJWu9SXoZWHF&amp;amp;sharer_shareinfo=1f95b095f1003ed21a5c1ed6fd20a4f9&amp;amp;sharer_shareinfo_first=1f95b095f1003ed21a5c1ed6fd20a4f9&amp;amp;version=4.1.27.6032&amp;amp;platform=win&amp;amp;nwr_flag=1#wechat_redirect&lt;/a&gt;&lt;br /&gt;还是那句话，只是搬运，但建议任何东西请亲身试了再评价(亲亲）</description><pubDate>Sun, 18 Aug 2024 04:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065855#reply2</guid></item><item><title>[iPhone] ios17.5 输入法打字卡顿</title><link>https://www.v2ex.com/t/1065854#reply2</link><description>原生输入法&lt;br /&gt;&lt;br /&gt;有的说 app 问题，我打开 apps store 输入密码登录也是卡顿，这个词联想老乱飞，英文键盘乱纠正错误&lt;br /&gt;&lt;br /&gt;哎😑</description><pubDate>Sun, 18 Aug 2024 04:35:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065854#reply2</guid></item><item><title>[DNS] 请问我有个腾讯云无忧的 4h8g10m 的轻量云，自建了 dot 和 doh，做好了分流，想拿给公司用， 300 个人，轻量云每个月 10m 带宽， 1500g 流量够吗?</title><link>https://www.v2ex.com/t/1065851#reply11</link><description></description><pubDate>Sun, 18 Aug 2024 04:14:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065851#reply11</guid></item><item><title>[Apple] Lunar 会导致 Mac 程序坞动画变卡？</title><link>https://www.v2ex.com/t/1065850#reply0</link><description>Lunar 会导致 Mac 程序坞动画变卡？不知道是什么原因，退出 Lunar 之后，程序坞的动画立马就恢复正常了。设备是 mac mini M2 。&lt;br /&gt;&lt;div class="embedded_video_wrapper"&gt;&lt;/div&gt;</description><pubDate>Sun, 18 Aug 2024 04:09:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065850#reply0</guid></item><item><title>[移民] 反馈社区活动： 35 岁刚拿到 CA PR, 全家马上移民过来，有什么想问的吗？</title><link>https://www.v2ex.com/t/1065849#reply7</link><description>&lt;p&gt;第一次发正贴，这么多年来在社区也学习到了不少东西，希望能反哺点东西回社区吧。&lt;/p&gt;
-&lt;p&gt;先简单介绍下自我，为了隐私考虑，很多细节我不会说的很详细请见谅：
-1 ，非 CS/EE 的理工科专业，11 年左右来 CA 读的研究生，毕业后也是死活工作找不到，专业对口的机会有，但是最后面试都不了了之。后来靠 master 老板的推荐和帮助下好不容易在一个很小的公司苟活着。
-2 ，17 年回国后在国内的外企和大厂都工作了几年；疫情爆发后重新萌发了想回 CA 的想法，感觉这边生活还是更 Chill/Predictable 些，而且好歹也算有个人生退路不是。
-3 ，20 年边工作边考雅思，学习了 6 个多月努力过了，后面就是按部就班的入池，被抽中。现在回想，我的运气还是有点好，现在光靠 IELTS 和国外经验很难这么容易被抽中。
-4 ，今年 4 月 landing 在多伦多，家属大概 9 月初才来。我这段时间也在 trt 找机会，但是感觉也不容易，这边竞争比我当年更激烈了，但是 senior 以上的岗位确实感觉比过去也多些了，但是还是很看重本地经验。
-4 ，IRCC 在疫情这段时间真的不把海外的 applicant 当人，我等了快 4 年才给我 approve 。
------------------------背景简单介绍完毕------------------------------
-稍稍聊聊我自己的一点 landing 后的感受吧：
-1 ，物价确实涨了不少，平均感觉涨了 4 成至少，比如汽油我离开 CA 前差不多是 110cents/L, 现在基本都是 150 以上了。但是工资涨的幅度只有 15 ～ 20%，我当年的同事现在级别涨了一级但只多了不到 20%。
-2 ，治安比过去差一些，尤其是 dt 附近；我自己就亲身目睹了 2 起命案发生，在 dt 街头也多次看到了吸毒的针头；过去 Canadian 给我感觉还是很 peaceful 、well-mannered 的，但是我自己在 metro 就看到了多次白人之间的口角，以及数不清的 homeless 在 streetcar 上各种诡异动作和恶心行为。
-3 ，美食尤其是国内美食的选择比国内多了很多，感觉这段时间不少国人移民过来，所以食物的丰富程度又到了新高度，不愧是北美最大的华人聚集区之一。而且看到市面上外卖小哥背的蓝色和黄色的箱子让我恍如回到了上海和杭州。
-4 ，和朋友们聊天感觉这里程序员的 tech stack 比国内还是要落后至少半个版本 in general, 但是美国大厂使用的 tech stack 比国内感觉又先进些，但是也不多。这个是和朋友聊天后得到的反馈总结，实话说我不是主要做 cs 的，所以我没法验证真伪。但是以我多年对 CA 的观察、朋友样本的数量和他们的靠谱程度，我感觉还是有可信度的。如果能过语言关，感觉凭能力大家真的能乱杀一条活路，国内比这里还是卷多了。
-5 ，自我感觉就是如果语言过关，人也算勤劳，就能在本地过像样的日子。有多好谈不少，但是税前 8 万感觉不是难事，而且如果是做 tech 相关的话，有一定经验积累和口碑，16 万刀～ 20 万是有可能的。但是和所有的工作一样，第一份工作比较难找，尤其在本地刚开始没有人脉的话。
-6 ，很多华人朋友选择拿 TN 签证去美国，虽然目前美国也很难，但是收入方面还是比 CA 好不少。问题是如果有娃的话，这个结论到不一定成立，原因是美国想让娃教育好的花销比🇨🇦多很多，当然这又是另外一个话题，如果大家想聊，以后我再开个帖子聊聊。
-7 ，很多华人朋友拿到身份后都想着离开这里，这几年🇨🇦的发展确实不如人意。感觉现任总理 Trudeau 明年大概率是要走人了，但是实话说周围国家也没几个特别好的，大家也是一堆问题。
-------------------------主观感受结束-------------------------------------
-现在移民的主流国家其实就这么几个，美国和新加坡估计是最难的一组；欧洲这边除非懂二外否则的话留下来也不容易｜不方便，🇬🇧据很多人说工资比🇨🇦少不少，房价反而更贵；澳洲和新西兰听说现在也很难，其实澳洲和加拿大哪边好一直都争论不休，我目前收集到的信息是澳洲赚到的钱更多，但是房价和物价比🇨🇦这里略贵。而且🇦🇺的气候更好，虽然机会也不多。我没去过澳洲，等有机会去那边玩玩。
-移民加拿大这几年肯定会遇到一个低谷，原因是本地人开始反省和有抵触情绪了，这很正常尤其是当我看到 Niagara Fall 那边一群群南亚人的时候能理解不少。但是这个国家的基本情况就是一直需要移民的，这个基本事实不会因为哪个政党或者领导人的上天或者下野就改变的，这个基本逻辑决定了 CA 将来很长一段时间都会吸引不少移民，依目前的情形来看如果会法语能到 B2,哪怕英语很差都能过线被捞。但是这个窗口期确实很难说有多久，但是我确信只要语言好（最好英法都会）能吃苦就一定能合法移民过来。买 LMIA 其实风险很高的，个人不推荐。&lt;/p&gt;
-&lt;p&gt;暂时想到这么多，欢迎大家有问题来问我，我看到了就会尽快回复，但是我会尽力隐藏具体的个人信息，请见谅。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 04:01:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065849#reply7</guid></item><item><title>[分享发现] 分享看电影的感悟：影视是错误的艺术</title><link>https://www.v2ex.com/t/1065848#reply8</link><description>&lt;p&gt;最近《无耻之徒》一家人，《看不见的客人》男主角开车出车祸撞人然后沉车杀人，还有之前看的张国立在电影《一声叹息》中饰演了一个出轨男人的故事。&lt;/p&gt;
-&lt;p&gt;于是有了这种感悟：影视是错误的艺术，从小错误变成大错误，不断做错误的事情，剧情不断升级，最后变成无可挽回的巨大错误，最终纠正错误时，当事人付出了巨大的代价。剧终。&lt;/p&gt;
-&lt;p&gt;如果不断做正确的事情，或许剧情就没有那么精彩了吧？不过有这类不断做正确的事情，让事情/人生变得越来越好的影视作品，有没有，我一时想不起来了&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 03:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065848#reply8</guid></item><item><title>[问与答] 性格懦弱，如何克服呢？</title><link>https://www.v2ex.com/t/1065847#reply23</link><description>&lt;p&gt;性格懦弱和经济实力，知识储备，家庭背景，社会环境，个性，见识都有关系，想知道如何克服性格懦弱&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 03:47:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065847#reply23</guid></item><item><title>[MetaMask] MetaMask 出卡了</title><link>https://www.v2ex.com/t/1065846#reply0</link><description>&lt;p&gt;&lt;img alt="IMG_0451.jpg" class="embedded_image" rel="noreferrer" src="https://wmimg.com/i/1096/2024/08/66c16c160d7b0.jpg" /&gt;
-&lt;img alt="2024-08-18_11-38-22.png" class="embedded_image" rel="noreferrer" src="https://wmimg.com/i/1096/2024/08/66c16d01e6594.png" /&gt;&lt;/p&gt;
-&lt;p&gt;支持 Linea 链的 USDT/USDC/wETH ，消费欧元英镑应该是无损的，消费人民币大概 1.6%的损耗。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 03:45:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065846#reply0</guid></item><item><title>[程序员] 请教一下使用 git 报错</title><link>https://www.v2ex.com/t/1065845#reply7</link><description>&lt;pre&gt;&lt;code&gt;fatal: unable to access 'https://github.com/xxx/xxxx.git/': OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 127.0.0.1:10809
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;看起来像是代理出了问题，直接使用网页是可以连接到 github 的&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 03:40:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065845#reply7</guid></item><item><title>[git] tar -czvf git_backup.tgz /project/.git 是备份单机不联网 git repo 的正确做法吗？</title><link>https://www.v2ex.com/t/1065843#reply5</link><description></description><pubDate>Sun, 18 Aug 2024 03:25:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065843#reply5</guid></item><item><title>[程序员] 2024.08.18 现在 cursor 编辑器大家有在用吗？替代 vscode？</title><link>https://www.v2ex.com/t/1065842#reply23</link><description></description><pubDate>Sun, 18 Aug 2024 03:13:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065842#reply23</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 18 Aug 2024 10:43:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有没有喜欢追新番的朋友，拉一个 tg 群</title><link>https://www.v2ex.com/t/1065905#reply0</link><description>最近好像没什么看的，还是年纪大了</description><pubDate>Sun, 18 Aug 2024 10:43:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065905#reply0</guid></item><item><title>[宽带症候群] 山东电信疑似已按照新版《公众固定宽带接入业务上下行速率配置要求》提速上行</title><link>https://www.v2ex.com/t/1065904#reply1</link><description>山东电信千兆家宽，xgpon 公网 ip ，原来上行也就 30m ，这几天测试能跑到 50 多 m ，很稳定，估计是按照要求提速了</description><pubDate>Sun, 18 Aug 2024 10:39:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065904#reply1</guid></item><item><title>[问与答] 多算法级联一定能加强安全性吗？</title><link>https://www.v2ex.com/t/1065903#reply0</link><description></description><pubDate>Sun, 18 Aug 2024 10:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065903#reply0</guid></item><item><title>[问与答] 请问建行的储蓄卡是否支持跨境支付？如果有，操作流程大概是怎样的？</title><link>https://www.v2ex.com/t/1065902#reply0</link><description>&lt;p&gt;如何通过建行的储蓄卡实现跨境支付？（ PS：最好是储蓄卡，信用卡怕申请过不了，个人也没有刚需。）&lt;/p&gt;
+&lt;p&gt;有 V 友说招行储蓄卡可以，因为我之前是用建行卡，所以不太想再换招行的卡。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 10:35:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065902#reply0</guid></item><item><title>[分享发现] AI 换脸网站 aifaceswap.ai 分享</title><link>https://www.v2ex.com/t/1065899#reply1</link><description>网站地址: &lt;br /&gt;&lt;a href="https://aifaceswap.ai" rel="nofollow noopener" target="_blank"&gt;https://aifaceswap.ai&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;支持图片换脸和视频换脸。&lt;br /&gt;每月有免费额度，欢迎体验（轻点拍）</description><pubDate>Sun, 18 Aug 2024 10:25:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065899#reply1</guid></item><item><title>[问与答] Frigate 如何检测老鼠，如何使用 yolo 模型？</title><link>https://www.v2ex.com/t/1065898#reply0</link><description>屋里进老鼠了，老鼠笼抓到后居然被老鼠逃出来了老鼠笼质量真不咋地，准备用监控配合 Frigate 录像检测老鼠鼠道放粘鼠板。人工看录像太累了，主要是飞虫干扰太强。&lt;br /&gt;折腾了几天 Frigate 检测人狗猫还行就是看不了老鼠，后来翻了下 github 上的问答发现模型对象 mouse 指的是鼠标，坑啊。&lt;br /&gt;再翻官方文档貌似支持 yolox 、yolonas 模型，但是资料太少，找了一晚资料勉强知道 yolo 是目标检测，想识别老鼠得自己训练模型。&lt;br /&gt;Frigate 使用 yolo 模型没找到相关教程，官方文档寥寥几句完全看不懂，不晓得有没有懂的。</description><pubDate>Sun, 18 Aug 2024 10:21:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065898#reply0</guid></item><item><title>[分享发现] Claude 账号已经被封了三个了，写小作文也不解封，要怎样才能用啊</title><link>https://www.v2ex.com/t/1065896#reply11</link><description>&lt;p&gt;注册了三个号，开的 VPN 全局模式注册成功的，有一次用了 PAC 模式打开，第二次就进不了了，注册的手机号是用的 SMS 平台号码验证的虚拟号，有没有不封禁的办法啊!!!
+&lt;img class="embedded_image" rel="noreferrer" src="https://i.ibb.co/4PBJjLY/We-Chat64bd1e99728157fd88c70da11ac904e3.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065896#reply11</guid></item><item><title>[Apple] 印度区 apple one 来几个队友（新车）</title><link>https://www.v2ex.com/t/1065895#reply0</link><description>&lt;p&gt;印度区 Apple One 中杯，长期车，半年付 40 ，年付 78     6 人车 差 5 人 &lt;/p&gt;
+&lt;p&gt;包括：
+iCloud+ 200G 空间（每人 40G ，可以成员商量适当调整，我不使用容量），
+Apple TV+
+Apple Music
+Apple Arcade&lt;/p&gt;
+&lt;p&gt;vx：kevin_551&lt;/p&gt;
+&lt;p&gt;我是自用 iCloud 加入的土区，这个只做媒体号等于。（建议有需要的建议都可以这样来操作）&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:35:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065895#reply0</guid></item><item><title>[酷工作] 缺个前端，要求熟悉 flutter 或者 react 至少一种，全职远程，待遇可观</title><link>https://www.v2ex.com/t/1065893#reply0</link><description>熟悉网络协议层，代码规范，UI 部分还原度较高，联系，VGVsZWdyYW3vvJpAYm9ib2JvX25l</description><pubDate>Sun, 18 Aug 2024 09:30:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065893#reply0</guid></item><item><title>[游戏] 在哪儿可以获得 reverse 1999 的全英文台词?</title><link>https://www.v2ex.com/t/1065892#reply0</link><description>&lt;p&gt;国际服正在 1.8 版本.
+在哪儿可以获得所有的剧情的全英文台词呢?
+百度/bilibili 搜索结果都是不全的.&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:17:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065892#reply0</guid></item><item><title>[浏览器] 大家使用的各种类型的浏览器会不定期清理浏览缓存（包括缓存图片、缓存文件）？</title><link>https://www.v2ex.com/t/1065891#reply4</link><description>大家使用的各种类型的浏览器会不定期清理浏览缓存（包括缓存图片、缓存文件）？感觉有时候不清理一下缓存，浏览经常会出现一些莫名其妙的问题和现象。</description><pubDate>Sun, 18 Aug 2024 09:02:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065891#reply4</guid></item><item><title>[程序员] 请问下有没有效果好的的 Outpainting api 推荐</title><link>https://www.v2ex.com/t/1065890#reply0</link><description>&lt;p&gt;尝试过 replicate 的 Outpainting ，效果不太好，边缘明显，想请教下有没有优秀的 Outpainting api 供应商推荐&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:46:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065890#reply0</guid></item><item><title>[程序员] 想找个会 Python 和 flask，熟悉 ai 的合伙人</title><link>https://www.v2ex.com/t/1065889#reply13</link><description>&lt;p&gt;在开发一个程序，ai 教育领域，但是我对程序不太熟悉，所以想找个大佬帮忙&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:38:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065889#reply13</guid></item><item><title>[NAS] QNAP TS-464 经常发出高频噪音</title><link>https://www.v2ex.com/t/1065888#reply1</link><description>买的美版 TS-464 ，里面装了三块硬盘做了 RAID 5 ，机器时常发出很大的共振声音，极其恼人，感觉应该是硬盘震动导致。有遇到相同情况的 V 友吗，是否有好的解决办法？</description><pubDate>Sun, 18 Aug 2024 08:30:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065888#reply1</guid></item><item><title>[DNS] Fortigate 基于地址位置 IP 分流+adguardhome 如何实现 DNS 分流？</title><link>https://www.v2ex.com/t/1065887#reply5</link><description>&lt;p&gt;最近一直在折腾刚买的 Fortigate 防火墙，发现它有基于地理位置的 IP 组。
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/9e56a9d706f0f441.png" /&gt;
+正好公司的 openwrt 经常出问题（用的 &lt;a href="http://openwrt.ai" rel="nofollow"&gt;openwrt.ai&lt;/a&gt; 定制的 x86 固件，遇到多次重启就恢复默认配置！）&lt;br /&gt;
+同事说他固件里面埋了炸弹，在一定时候会触发恢复默认操作。我在 ESXI,PVE,物理机上都遇到过！&lt;br /&gt;
+现在的拓扑图如下：&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/b7f553a97d5f4007.png" /&gt;&lt;br /&gt;
+新增两条 SD-WAN 规则，规则 1 ，中国地址走 sd-wan 组（三线），规则 2 ，所有地址走 WAN4.&lt;br /&gt;
+以前是没有单独的 DNS 服务器和这个物理软路由的，用的 X86 虚拟机 192.168.1.254 做为软路由和 dns 服务器。&lt;br /&gt;
+此次新增一台软路由 openwrt(用 istore 固件，passwall 全局模式科学)&lt;br /&gt;
+单独用了一台 linux 做为 dns 服务器，安装了 adguardhome 来处理 DNS 污染和加速问题。&lt;br /&gt;
+上游 DNS 那里只添加了国外的 doh 服务器，测试发现 DNS 泄露没了，污染也没了，但是访问某些国内网站特别慢。&lt;br /&gt;
+比如 B 站，F12 才发现他全部给我解析的是国外 IP 地址！&lt;br /&gt;
+于是又添加了两个国内的 dot 地址，访问 B 站没问题了。&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/c6071cd6a320c51b.png" /&gt;&lt;br /&gt;
+可污染又回来了！！！&lt;br /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/4e3c321864cfd72c.png" /&gt;&lt;br /&gt;
+Fortigate 的 IP 分流显然不能解决 DNS 污染问题。&lt;br /&gt;
+各位有什么好的建议？&lt;br /&gt;
+还有我这样操作有没有什么问题？&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065887#reply5</guid></item><item><title>[问与答] 求推荐一些话费充值 API 接口提供服务商</title><link>https://www.v2ex.com/t/1065886#reply0</link><description>我感觉十年前个人做点卡代理这些很常见，但是现在几乎绝种了，有那么几家，充值不稳定还动不动就要各种验证，还得主体是公司，如果需要我会去注册一个公司。&lt;br /&gt;&lt;br /&gt;本人在做一个生活充值类型的网站。&lt;br /&gt;&lt;br /&gt;售卖一些生活充值，游戏点卡，礼品卡。有没有稳定靠谱的推荐。</description><pubDate>Sun, 18 Aug 2024 08:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065886#reply0</guid></item><item><title>[NAS] 2024 年了 黑裙主机除了蜗牛星际外还有类似的更优选择吗？</title><link>https://www.v2ex.com/t/1065885#reply6</link><description>&lt;p&gt;我自用的一台蜗牛星际是 2019 年左右某鱼 400 块钱买的 A 款，自己换了固态和电源（包括硬盘总投入 800 左右），挂 2-3 块硬盘平稳运行群晖 6.1 系统没任何问题。上周一次重启后突然系统没了……提示变成了刚刚做完引导的那种提示，无奈只能重做系统，我想着干脆升级到 7.1 系统，还能支持 heic 格式图片。然后升级完有点后悔，新的图片软件 Synology Photos 卡得很&lt;/p&gt;
+&lt;p&gt;请问一下 NAS 区各位大佬，这么多年过去了，是否有一款类似蜗牛星际（便宜/体积小/功耗小/成品/多硬盘槽）这样的硬件，但是性能强劲一些的，可以代替现有的作为黑裙 NAS 呢&lt;/p&gt;
+&lt;p&gt;类似问题：&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fast.v2ex.com/t/1062986" rel="nofollow"&gt;https://fast.v2ex.com/t/1062986&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.v2ex.com/t/754001" rel="nofollow"&gt;https://www.v2ex.com/t/754001&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:03:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065885#reply6</guid></item><item><title>[iPhone] Perplexity iOS 版本无法使用</title><link>https://www.v2ex.com/t/1065884#reply2</link><description>&lt;p&gt;有没有兄弟和我一样的……iOS 版本甚至无法登录。
+网页版一切正常，确定不是梯子问题。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:00:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065884#reply2</guid></item><item><title>[问与答] 问个 ios 推送问题</title><link>https://www.v2ex.com/t/1065882#reply3</link><description>问个问题 ios 推送为啥需要第三方服务商比如 leancloud ，他是不是就是转发一下请求到 apn</description><pubDate>Sun, 18 Aug 2024 07:37:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065882#reply3</guid></item><item><title>[程序员] 临摹开源项目是提升中级程序员技能的有效途径吗？</title><link>https://www.v2ex.com/t/1065881#reply3</link><description>&lt;p&gt;我是一名中级程序员，我一直在寻找提升自己技术水平的方法。
+最近，我尝试通过临摹优秀的开源项目来提高自己的编程技能。这种做法不仅让我深入理解了项目的设计思路和代码结构，还帮助我学习了许多实用的开发技巧。&lt;/p&gt;
+&lt;p&gt;大家觉得这种学习方式是否有效？是否也有其他建议？
+谢谢各位！&lt;/p&gt;
+&lt;p&gt;发帖前，我特地用 GPT 润色了一下，所以读起来有点像机器人，哈哈。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 07:36:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065881#reply3</guid></item></channel></rss>
