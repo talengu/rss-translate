@@ -1,40 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 18 Aug 2024 10:43:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 有没有喜欢追新番的朋友，拉一个 tg 群</title><link>https://www.v2ex.com/t/1065905#reply0</link><description>最近好像没什么看的，还是年纪大了</description><pubDate>Sun, 18 Aug 2024 10:43:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065905#reply0</guid></item><item><title>[宽带症候群] 山东电信疑似已按照新版《公众固定宽带接入业务上下行速率配置要求》提速上行</title><link>https://www.v2ex.com/t/1065904#reply1</link><description>山东电信千兆家宽，xgpon 公网 ip ，原来上行也就 30m ，这几天测试能跑到 50 多 m ，很稳定，估计是按照要求提速了</description><pubDate>Sun, 18 Aug 2024 10:39:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065904#reply1</guid></item><item><title>[问与答] 多算法级联一定能加强安全性吗？</title><link>https://www.v2ex.com/t/1065903#reply0</link><description></description><pubDate>Sun, 18 Aug 2024 10:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065903#reply0</guid></item><item><title>[问与答] 请问建行的储蓄卡是否支持跨境支付？如果有，操作流程大概是怎样的？</title><link>https://www.v2ex.com/t/1065902#reply0</link><description>&lt;p&gt;如何通过建行的储蓄卡实现跨境支付？（ PS：最好是储蓄卡，信用卡怕申请过不了，个人也没有刚需。）&lt;/p&gt;
-&lt;p&gt;有 V 友说招行储蓄卡可以，因为我之前是用建行卡，所以不太想再换招行的卡。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 10:35:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065902#reply0</guid></item><item><title>[分享发现] AI 换脸网站 aifaceswap.ai 分享</title><link>https://www.v2ex.com/t/1065899#reply1</link><description>网站地址: &lt;br /&gt;&lt;a href="https://aifaceswap.ai" rel="nofollow noopener" target="_blank"&gt;https://aifaceswap.ai&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;支持图片换脸和视频换脸。&lt;br /&gt;每月有免费额度，欢迎体验（轻点拍）</description><pubDate>Sun, 18 Aug 2024 10:25:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065899#reply1</guid></item><item><title>[问与答] Frigate 如何检测老鼠，如何使用 yolo 模型？</title><link>https://www.v2ex.com/t/1065898#reply0</link><description>屋里进老鼠了，老鼠笼抓到后居然被老鼠逃出来了老鼠笼质量真不咋地，准备用监控配合 Frigate 录像检测老鼠鼠道放粘鼠板。人工看录像太累了，主要是飞虫干扰太强。&lt;br /&gt;折腾了几天 Frigate 检测人狗猫还行就是看不了老鼠，后来翻了下 github 上的问答发现模型对象 mouse 指的是鼠标，坑啊。&lt;br /&gt;再翻官方文档貌似支持 yolox 、yolonas 模型，但是资料太少，找了一晚资料勉强知道 yolo 是目标检测，想识别老鼠得自己训练模型。&lt;br /&gt;Frigate 使用 yolo 模型没找到相关教程，官方文档寥寥几句完全看不懂，不晓得有没有懂的。</description><pubDate>Sun, 18 Aug 2024 10:21:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065898#reply0</guid></item><item><title>[分享发现] Claude 账号已经被封了三个了，写小作文也不解封，要怎样才能用啊</title><link>https://www.v2ex.com/t/1065896#reply11</link><description>&lt;p&gt;注册了三个号，开的 VPN 全局模式注册成功的，有一次用了 PAC 模式打开，第二次就进不了了，注册的手机号是用的 SMS 平台号码验证的虚拟号，有没有不封禁的办法啊!!!
-&lt;img class="embedded_image" rel="noreferrer" src="https://i.ibb.co/4PBJjLY/We-Chat64bd1e99728157fd88c70da11ac904e3.jpg" /&gt;&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:58:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065896#reply11</guid></item><item><title>[Apple] 印度区 apple one 来几个队友（新车）</title><link>https://www.v2ex.com/t/1065895#reply0</link><description>&lt;p&gt;印度区 Apple One 中杯，长期车，半年付 40 ，年付 78     6 人车 差 5 人 &lt;/p&gt;
-&lt;p&gt;包括：
-iCloud+ 200G 空间（每人 40G ，可以成员商量适当调整，我不使用容量），
-Apple TV+
-Apple Music
-Apple Arcade&lt;/p&gt;
-&lt;p&gt;vx：kevin_551&lt;/p&gt;
-&lt;p&gt;我是自用 iCloud 加入的土区，这个只做媒体号等于。（建议有需要的建议都可以这样来操作）&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:35:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065895#reply0</guid></item><item><title>[酷工作] 缺个前端，要求熟悉 flutter 或者 react 至少一种，全职远程，待遇可观</title><link>https://www.v2ex.com/t/1065893#reply0</link><description>熟悉网络协议层，代码规范，UI 部分还原度较高，联系，VGVsZWdyYW3vvJpAYm9ib2JvX25l</description><pubDate>Sun, 18 Aug 2024 09:30:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065893#reply0</guid></item><item><title>[游戏] 在哪儿可以获得 reverse 1999 的全英文台词?</title><link>https://www.v2ex.com/t/1065892#reply0</link><description>&lt;p&gt;国际服正在 1.8 版本.
-在哪儿可以获得所有的剧情的全英文台词呢?
-百度/bilibili 搜索结果都是不全的.&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 09:17:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065892#reply0</guid></item><item><title>[浏览器] 大家使用的各种类型的浏览器会不定期清理浏览缓存（包括缓存图片、缓存文件）？</title><link>https://www.v2ex.com/t/1065891#reply4</link><description>大家使用的各种类型的浏览器会不定期清理浏览缓存（包括缓存图片、缓存文件）？感觉有时候不清理一下缓存，浏览经常会出现一些莫名其妙的问题和现象。</description><pubDate>Sun, 18 Aug 2024 09:02:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065891#reply4</guid></item><item><title>[程序员] 请问下有没有效果好的的 Outpainting api 推荐</title><link>https://www.v2ex.com/t/1065890#reply0</link><description>&lt;p&gt;尝试过 replicate 的 Outpainting ，效果不太好，边缘明显，想请教下有没有优秀的 Outpainting api 供应商推荐&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:46:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065890#reply0</guid></item><item><title>[程序员] 想找个会 Python 和 flask，熟悉 ai 的合伙人</title><link>https://www.v2ex.com/t/1065889#reply13</link><description>&lt;p&gt;在开发一个程序，ai 教育领域，但是我对程序不太熟悉，所以想找个大佬帮忙&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:38:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065889#reply13</guid></item><item><title>[NAS] QNAP TS-464 经常发出高频噪音</title><link>https://www.v2ex.com/t/1065888#reply1</link><description>买的美版 TS-464 ，里面装了三块硬盘做了 RAID 5 ，机器时常发出很大的共振声音，极其恼人，感觉应该是硬盘震动导致。有遇到相同情况的 V 友吗，是否有好的解决办法？</description><pubDate>Sun, 18 Aug 2024 08:30:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065888#reply1</guid></item><item><title>[DNS] Fortigate 基于地址位置 IP 分流+adguardhome 如何实现 DNS 分流？</title><link>https://www.v2ex.com/t/1065887#reply5</link><description>&lt;p&gt;最近一直在折腾刚买的 Fortigate 防火墙，发现它有基于地理位置的 IP 组。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/9e56a9d706f0f441.png" /&gt;
-正好公司的 openwrt 经常出问题（用的 &lt;a href="http://openwrt.ai" rel="nofollow"&gt;openwrt.ai&lt;/a&gt; 定制的 x86 固件，遇到多次重启就恢复默认配置！）&lt;br /&gt;
-同事说他固件里面埋了炸弹，在一定时候会触发恢复默认操作。我在 ESXI,PVE,物理机上都遇到过！&lt;br /&gt;
-现在的拓扑图如下：&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/b7f553a97d5f4007.png" /&gt;&lt;br /&gt;
-新增两条 SD-WAN 规则，规则 1 ，中国地址走 sd-wan 组（三线），规则 2 ，所有地址走 WAN4.&lt;br /&gt;
-以前是没有单独的 DNS 服务器和这个物理软路由的，用的 X86 虚拟机 192.168.1.254 做为软路由和 dns 服务器。&lt;br /&gt;
-此次新增一台软路由 openwrt(用 istore 固件，passwall 全局模式科学)&lt;br /&gt;
-单独用了一台 linux 做为 dns 服务器，安装了 adguardhome 来处理 DNS 污染和加速问题。&lt;br /&gt;
-上游 DNS 那里只添加了国外的 doh 服务器，测试发现 DNS 泄露没了，污染也没了，但是访问某些国内网站特别慢。&lt;br /&gt;
-比如 B 站，F12 才发现他全部给我解析的是国外 IP 地址！&lt;br /&gt;
-于是又添加了两个国内的 dot 地址，访问 B 站没问题了。&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/c6071cd6a320c51b.png" /&gt;&lt;br /&gt;
-可污染又回来了！！！&lt;br /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.233444.xyz/imgs/2024/08/4e3c321864cfd72c.png" /&gt;&lt;br /&gt;
-Fortigate 的 IP 分流显然不能解决 DNS 污染问题。&lt;br /&gt;
-各位有什么好的建议？&lt;br /&gt;
-还有我这样操作有没有什么问题？&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065887#reply5</guid></item><item><title>[问与答] 求推荐一些话费充值 API 接口提供服务商</title><link>https://www.v2ex.com/t/1065886#reply0</link><description>我感觉十年前个人做点卡代理这些很常见，但是现在几乎绝种了，有那么几家，充值不稳定还动不动就要各种验证，还得主体是公司，如果需要我会去注册一个公司。&lt;br /&gt;&lt;br /&gt;本人在做一个生活充值类型的网站。&lt;br /&gt;&lt;br /&gt;售卖一些生活充值，游戏点卡，礼品卡。有没有稳定靠谱的推荐。</description><pubDate>Sun, 18 Aug 2024 08:14:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065886#reply0</guid></item><item><title>[NAS] 2024 年了 黑裙主机除了蜗牛星际外还有类似的更优选择吗？</title><link>https://www.v2ex.com/t/1065885#reply6</link><description>&lt;p&gt;我自用的一台蜗牛星际是 2019 年左右某鱼 400 块钱买的 A 款，自己换了固态和电源（包括硬盘总投入 800 左右），挂 2-3 块硬盘平稳运行群晖 6.1 系统没任何问题。上周一次重启后突然系统没了……提示变成了刚刚做完引导的那种提示，无奈只能重做系统，我想着干脆升级到 7.1 系统，还能支持 heic 格式图片。然后升级完有点后悔，新的图片软件 Synology Photos 卡得很&lt;/p&gt;
-&lt;p&gt;请问一下 NAS 区各位大佬，这么多年过去了，是否有一款类似蜗牛星际（便宜/体积小/功耗小/成品/多硬盘槽）这样的硬件，但是性能强劲一些的，可以代替现有的作为黑裙 NAS 呢&lt;/p&gt;
-&lt;p&gt;类似问题：&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://fast.v2ex.com/t/1062986" rel="nofollow"&gt;https://fast.v2ex.com/t/1062986&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.v2ex.com/t/754001" rel="nofollow"&gt;https://www.v2ex.com/t/754001&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:03:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065885#reply6</guid></item><item><title>[iPhone] Perplexity iOS 版本无法使用</title><link>https://www.v2ex.com/t/1065884#reply2</link><description>&lt;p&gt;有没有兄弟和我一样的……iOS 版本甚至无法登录。
-网页版一切正常，确定不是梯子问题。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 08:00:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065884#reply2</guid></item><item><title>[问与答] 问个 ios 推送问题</title><link>https://www.v2ex.com/t/1065882#reply3</link><description>问个问题 ios 推送为啥需要第三方服务商比如 leancloud ，他是不是就是转发一下请求到 apn</description><pubDate>Sun, 18 Aug 2024 07:37:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065882#reply3</guid></item><item><title>[程序员] 临摹开源项目是提升中级程序员技能的有效途径吗？</title><link>https://www.v2ex.com/t/1065881#reply3</link><description>&lt;p&gt;我是一名中级程序员，我一直在寻找提升自己技术水平的方法。
-最近，我尝试通过临摹优秀的开源项目来提高自己的编程技能。这种做法不仅让我深入理解了项目的设计思路和代码结构，还帮助我学习了许多实用的开发技巧。&lt;/p&gt;
-&lt;p&gt;大家觉得这种学习方式是否有效？是否也有其他建议？
-谢谢各位！&lt;/p&gt;
-&lt;p&gt;发帖前，我特地用 GPT 润色了一下，所以读起来有点像机器人，哈哈。&lt;/p&gt;</description><pubDate>Sun, 18 Aug 2024 07:36:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1065881#reply3</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 19 Aug 2024 04:41:23 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] poe 内部的 claude 和 claude.ai 官网有区别吗</title><link>https://www.v2ex.com/t/1066084#reply0</link><description>准备订阅，主要是想使用 claude 写代码， 有没有了解的 v 有来说说&lt;br /&gt;&lt;br /&gt;- 实际使用效果有不同吗？ 比如官网的 &lt;a href="http://claude.ai" rel="nofollow noopener" target="_blank"&gt;claude.ai&lt;/a&gt; 更智能一点，poe 只是某个 api 接口？&lt;br /&gt;- 使用次数 频率限制等？&lt;br /&gt;&lt;br /&gt;谢谢</description><pubDate>Mon, 19 Aug 2024 04:37:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066084#reply0</guid></item><item><title>[分享创造] Flux 将逐步取代传统 SD 的开源生态地区，给个人开发者带来更多增量机会。</title><link>https://www.v2ex.com/t/1066083#reply0</link><description>&lt;p&gt;我非常看好 Flux AI 的未来发展，Stablity AI 公司摆烂后，原来以 SD 模型为主的 AI 绘画开源社区就几乎没什么太大的进步。未来可能 Flux AI 将取代 Stable Diffusion 成为各个 AI 绘画平台的主要模型&lt;/p&gt;
+&lt;p&gt;目前 Flux 已经支持以下 SD 必备的社区能力：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Lora 微调：10 张图就能快速训练自己的 Lora ，Replicate 目前也已经支持&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持 3 种 Controlnet ，Canny 、HED 和 Depth (Midas)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持 comfyui&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;p&gt;Flux AI 的新模型、新特性、新生态也给个人开发者带来一些机会&lt;/p&gt;
+&lt;p&gt;-新模型：
+新名词带来了新的搜索词，“Flux AI”、“Flux AI Prompt”等延伸搜索词有望增长到每月上百万&lt;/p&gt;
+&lt;p&gt;-新特性
+举个例子，fluxAI 图片文字能力远超 SD ，原本是 Ideogram 等私有模型特有的能力，现在 Flux AI 也很好得支持了，在 logo 生成，海报生成等方面未来有更好得效果。&lt;/p&gt;
+&lt;p&gt;-新生态
+Flux AI 的 Prompt 指令能力很强，上手门槛和 MJ 一个水平，不再像之前 SD 那样需要逆天的词汇拼接和各种负向提示词库。未来将让更多 SD 用户迁移到 Flux 模型上，更低上手门槛也更有利于新用户获取。
+此外 Flux AI 的 lora 市场现在还是空缺的，相关延伸机会也不少&lt;/p&gt;
+&lt;p&gt;相关地址：
+模型 API:&lt;a href="https://replicate.com/black-forest-labs/flux-schnell/" rel="nofollow"&gt;Replicate&lt;/a&gt;
+在线免费体验网站：&lt;a href="https://fluxaiweb.com/" rel="nofollow"&gt;Flux AI&lt;/a&gt;
+Controlnet 地址：&lt;a href="https://huggingface.co/XLabs-AI/flux-controlnet-collections" rel="nofollow"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 04:27:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066083#reply0</guid></item><item><title>[科技] 后端异步状态问题</title><link>https://www.v2ex.com/t/1066082#reply0</link><description>&lt;p&gt;遇到一个异步状态问题，想请教后端大佬，这种问题专业术语叫什么？学习的方向是什么？&lt;/p&gt;
+&lt;p&gt;目前在开发一个与现金相关的业务。因为每一个步骤都要跟第三方系统交互，所以每个步骤都比较重。其中有一个流程步骤多，所以用户体验很差。&lt;/p&gt;
+&lt;p&gt;这个流程的每个步骤并非完全是需要串行的进行。所以思考之后，准备把一些耗时的、可并行的步骤放到了异步队列里执行，客户端无需等待这些异步任务完成即可返回。比如，一开始串行时的流程是这样的：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;A -&amp;gt; B1 -&amp;gt; B2 -&amp;gt; B3 -&amp;gt; C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;想要改成这样：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;A -&amp;gt; B1 (B2, B3 进入异步) -&amp;gt; C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;B1, B2, B3 都可能触发多次。在进行步骤 C 的时候，如果前置状态没完成则需要等待。我能想到的是用 Redis 锁来实现这个功能。自己搜索学习一番后，感觉需要这么做：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;三个分布式锁分别锁住 B1, B2, B3 。这样每个步骤自己触发多次时，可以保证顺序执行。&lt;/li&gt;
+&lt;li&gt;步骤 C 要等待这三个锁都释放后，再查询验证状态，从而确定步骤 C 是否可以继续进行。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不知道这样做对不对？&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 04:23:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066082#reply0</guid></item><item><title>[问与答] macOS 能够融合/合并两个显示器为一个么？</title><link>https://www.v2ex.com/t/1066081#reply0</link><description>比如，我有两个显示器，都是 27 寸 4k 。现在两台显示器并排放在一起，都接到 MBP 上面，display 设置里面显示 display1 &amp;amp; display2 ，那么可以把两台显示器，合并成一台显示器么？（就是相当于只有一台显示器）&lt;br /&gt;&lt;br /&gt;当我最大化一个软件或者窗口的时候，现在只能在主显示器上面最大化。或者先拖动窗口到副显示器，再最大化，也只能占满副显示器。&lt;br /&gt;&lt;br /&gt;有没有办法，最大化的时候，同时平铺占满两个显示器？&lt;br /&gt;&lt;br /&gt;谢谢！</description><pubDate>Mon, 19 Aug 2024 04:23:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066081#reply0</guid></item><item><title>[问与答] chrome 浏览器使用 socks 代理有问题？</title><link>https://www.v2ex.com/t/1066080#reply1</link><description>&lt;p&gt;pve 里装了个 lubuntu 系统&lt;br /&gt;
+https_proxy="http://192.168.1.3:10811"&lt;br /&gt;
+all_proxy="socks://192.168.1.3:10810"&lt;br /&gt;
+折腾好久发现在没有设置 socks 代理环境变量的时候 chrome 才能正常访问&lt;br /&gt;
+如果设置了 socks 代理 chrome 就什么网站也访问不了了 代理方提示 unknown Socks version: 67 &lt;/p&gt;
+&lt;p&gt;大家有遇到这个问题的吗？ 很奇怪&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 04:19:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066080#reply1</guid></item><item><title>[随想] 到底谁才是资本家的帮凶？</title><link>https://www.v2ex.com/t/1066078#reply0</link><description>&lt;p&gt;看隔壁吐槽菜鸟驿站 9 点下班帖子有感：&lt;/p&gt;
+&lt;p&gt;1.菜鸟驿站作为一个服务门店，服务时长缩短 1 小时（快递费用有没有降低不知道）作为消费者不应该抵制吗？&lt;/p&gt;
+&lt;p&gt;2.菜鸟员工的工作人员的工作时长是消费者应该考虑的吗？如何为他们发声，难道通过声讨消费者的合理需求来为他们发声？&lt;/p&gt;
+&lt;p&gt;3.服务时长缩短是消费者和商家的矛盾，员工的工作时长是员工和商家的矛盾。为什么你们要帮资本家把矛盾转移到消费者和员工的直接矛盾？&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:58:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066078#reply0</guid></item><item><title>[程序员] 修改 windows 动态端口范围解决部分端口占用冲突的问题</title><link>https://www.v2ex.com/t/1066077#reply3</link><description>&lt;p&gt;本地代理软件使用 1080 端口，经常遇到重启后代理软件报错提示 1080 是系统保留端口。 &lt;/p&gt;
+&lt;p&gt;查看端口占用进程，发现是被 Windows 推送通知系统服务给占用了，停用这个服务就能正常监听 1080 端口了，也不是每次重启完都占用，有时候想妥协不用 1080 ，结果改了相邻的端口下次重启还能提示被占用，这时候 1080 反而没被占用了，反正挺烦人的。 &lt;/p&gt;
+&lt;p&gt;查看当然系统设置的 tcp 动态端口范围&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;PS C:\&amp;gt; netsh int ipv4 show dynamicport tcp
+
+协议 tcp 动态端口范围
+---------------------------------
+启动端口        : 1024
+端口数          : 64512
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;修改端口范围，启示端口号改为 1100 ，端口可用数量 64436 ，可用端口为 1100-65535&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;PS C:\&amp;gt; netsh int ipv4 set dynamicport tcp start=1100 num=64436
+确定。
+
+PS C:\&amp;gt; netsh int ipv4 show dynamicport tcp
+
+协议 tcp 动态端口范围
+---------------------------------
+启动端口        : 1100
+端口数          : 64436
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这样设置不会影响本地软件监听 1100 以下的端口，只是别的软件发起通讯使用随机端口的范围缩小了一点点，完美解决了可能冲突的问题。&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:57:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066077#reply3</guid></item><item><title>[问与答] 父母在农村老家做点啥比较好？</title><link>https://www.v2ex.com/t/1066076#reply4</link><description>&lt;p&gt;父母在外打工了二十年，母亲身体不好一直很早就没有工作了，只有我爸有社保，感觉他们年纪大了还在外漂泊就让他们回了老家农村，他们在家肯定也闲不住，想多少挣一点，不求赚多少钱。但是老家只有几亩地也没啥收成，我爸还得照顾我妈，问一下这种情况在老家做点啥事情会比较好？&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:56:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066076#reply4</guid></item><item><title>[酷工作] web3 还值得去吗？</title><link>https://www.v2ex.com/t/1066074#reply3</link><description>&lt;p&gt;拿到了一家 web3 的 offer ，初创公司，融资可以烧个 2-3 年&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:52:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066074#reply3</guid></item><item><title>[程序员] 浏览帖子的时候，有点小问题，感觉需要一个大佬写个插件？</title><link>https://www.v2ex.com/t/1066072#reply3</link><description>&lt;p&gt;看 V2EX 帖子的时候，&lt;/p&gt;
+&lt;p&gt;后面同学回复前面某楼层的同学，是通过 @用户名 这种方式。&lt;/p&gt;
+&lt;p&gt;特别是楼层高的时候，往往得回去看，上面被 @的同学说了啥～&lt;/p&gt;
+&lt;p&gt;以前刷传统论坛的时候，&lt;/p&gt;
+&lt;p&gt;一般会有“引用内容回复”～&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:45:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066072#reply3</guid></item><item><title>[iPhone] iPhone 上 WeChat 转到微信可以解决转圈圈时长</title><link>https://www.v2ex.com/t/1066071#reply4</link><description>&lt;p&gt;2 天前发帖咨询「&lt;a href="https://v2ex.com/t/1065495" rel="nofollow"&gt;iPhone 上 WeChat 转到 微信 可以改善“转圈圈”吗？&lt;/a&gt;」&lt;/p&gt;
+&lt;p&gt;当天，我找到朋友同 14Pro ，同网络，微信和 WeChat 互相收发同样的视频，结果都是我的 WeChat 不管是收发还是收到下载视频都要慢于微信，随后我改到 +86&lt;/p&gt;
+&lt;p&gt;使用这两天，发现转圈圈还是存在，只是时长大幅缩减，群里看别人发的图片也不像以前转圈圈很久了。视频通话也不提示网络差了&lt;/p&gt;
+&lt;p&gt;总结：+1 WeChat 转到 +86 微信确实可以减少转圈圈时长&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:44:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066071#reply4</guid></item><item><title>[Docker] 电脑意外重启后虚拟机 Docker Application Container Engine</title><link>https://www.v2ex.com/t/1066070#reply0</link><description>&lt;p&gt;查看错误信息&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-shell"&gt;journalctl -u docker.service
+
+Aug 13 05:39:10 ubuntu systemd[1]: docker.service: Failed with result 'exit-code'.
+Aug 13 05:39:10 ubuntu systemd[1]: Failed to start Docker Application Container Engine.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;docker 服务器状态&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这里 restart docker 会卡住&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;sudo systemctl status docker
+
+
+ubuntu@ubuntu:~$ sudo systemctl status docker
+● docker.service - Docker Application Container Engine
+     Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset: enabled)
+     Active: activating (start) since Mon 2024-08-19 03:40:39 UTC; 20s ago
+TriggeredBy: ● docker.socket
+       Docs: https://docs.docker.com
+   Main PID: 3400 (dockerd)
+      Tasks: 8
+     Memory: 22.8M
+        CPU: 373ms
+     CGroup: /system.slice/docker.service
+             └─3400 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+
+Aug 19 03:40:39 ubuntu systemd[1]: Starting Docker Application Container Engine...
+Aug 19 03:40:39 ubuntu dockerd[3400]: time="2024-08-19T03:40:39.652035506Z" level=info msg="Starting up"
+Aug 19 03:40:39 ubuntu dockerd[3400]: time="2024-08-19T03:40:39.661294546Z" level=info msg="detected 127.0.0.53 nameserver, assuming systemd-resol&amp;gt;
+lines 1-15/15 (END)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;现在解决方案
+只能每次意外断电后卸载 docker,重新安装 docker...&lt;/p&gt;
+&lt;p&gt;为什么会产生这种问题呢，更好的解决一下。 不然太难受了&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066070#reply0</guid></item><item><title>[分享发现] 讲一个传唤（帮信）的经历</title><link>https://www.v2ex.com/t/1066069#reply15</link><description>&lt;p&gt;被传唤，帮信&lt;/p&gt;
+&lt;p&gt;经过
+4 月份，一个朋友 A 让我帮他找一套外贸网站，他和他朋友要做东南亚的外贸。
+4 月中旬，通过小飞机找了一套源码 400U ，我帮他购买
+然后上线
+中间，我朋友 A 断断续续让我帮他改了一点 bug 和功能
+一共不超过 10 个
+7 月份，上线，碰瓷了 pdd 海外版的域名
+8 月份换服务器，上了新域名
+服务器，域名全在国外。
+八月中旬被 chuanhuan 。&lt;/p&gt;
+&lt;p&gt;中间和他聊天，问他这是不是灰色的。
+还怀疑过他这个是有问题的
+聊天记录：
+我：你这个感觉就像是东南亚杀猪盘
+他：这可不能乱说，我们只是赚商家的升级包的钱
+&lt;b&gt;当时想着他们公司也在国内，他也否认有问题，所以没有细想，觉得没啥问题。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;在帽子叔叔询问的过程中全程无隐瞒，所有东西都说
+也问是否承认帮信，太老实，也认了（帽子叔叔说，认了也没事后面，不一定起诉，起诉了，认了会减轻）&lt;/p&gt;
+&lt;p&gt;现在取保候审
+问了我朋友 A ，网站基本上还没有订单，也没有用户充值啥的
+网站是正经的网站，能正常下单，发货使用，具体的运营方式，我全都不清楚，我只和我朋友 A 联系
+一共抓了大概 15 个人。。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;怀疑是因为碰瓷 pdd 海外版被 pdd 点了。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;建议：任何国外的项目，都别碰，除非你肉身在国外。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;不知道会不会被起诉，他问了律师和刑警都说没问题，我心里好慌。&lt;/p&gt;
+&lt;p&gt;在里面，一直戴手铐，睡不好，坐不好，吃得倒是不错。&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:42:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066069#reply15</guid></item><item><title>[Electron] 寻求有偿帮助，将 Electron 应用上架至 Mac App Store。</title><link>https://www.v2ex.com/t/1066068#reply0</link><description>&lt;p&gt;前文提要：
+&lt;a href="https://www.v2ex.com/t/1065201#reply0" rel="nofollow"&gt;https://www.v2ex.com/t/1065201#reply0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;上一个求助贴的问题我搞定了，原因就是 .node 的 native module 需要单独做签名，否则会报错。&lt;/p&gt;
+&lt;p&gt;现在我把应用上架到了 testflight ，应用下载安装后会白屏。我手动调试后有以下确认信息：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;可以正常的用 better-sqlite3 这个 native module 读取本地的 sqlite 数据库。&lt;/li&gt;
+&lt;li&gt;前端的 index.html 文件路径正确，可以读取。 &lt;/li&gt;
+&lt;li&gt;renderer 进程显示 crash 了，和正常启动的 electron 程序发现 renderer 进程确实没有启动。&lt;/li&gt;
+&lt;li&gt;前端也打不开 dev tools 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;更详细的信息可以看我提交的 issue：
+&lt;a href="https://github.com/electron/electron/issues/43349" rel="nofollow"&gt;https://github.com/electron/electron/issues/43349&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:40:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066068#reply0</guid></item><item><title>[分享创造] 借助 ChatGPT 开发了一个精美卡片生成工具</title><link>https://www.v2ex.com/t/1066067#reply0</link><description>&lt;p&gt;工具目前功能很简单，就是输入文字，快速生成精美的卡片。支持 Markdown 语法输入，以及卡片可以自定义样式。关于工具的创造过程和心得，在少数派这篇文章（ &lt;a href="https://sspai.com/post/91443" rel="nofollow"&gt;https://sspai.com/post/91443&lt;/a&gt; ）中已经详细介绍过。欢迎大家体验和反馈，地址是：&lt;a href="http://www.mijicard.com" rel="nofollow"&gt;www.mijicard.com&lt;/a&gt; 。基于这个工具，个人还有很多想法，但由于个人是一名设计师，不懂开发，还无法实现。如果感兴趣可以一起聊聊。&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:39:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066067#reply0</guid></item><item><title>[Android] 夸克 根据监管部门规定以及投诉举报此链接违反相关法律法规，禁止访问</title><link>https://www.v2ex.com/t/1066066#reply3</link><description>&lt;p&gt;&lt;strong&gt;我看全网都没有解除限制的最新版本，是不是这种黑白名单检测是放在 so 层 vm 虚拟化了？还是 apk 签名检测比较厉害？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://openai-75050.gzc.vod.tencent-cloud.com/openaiassets_9592674f5ad5ef22d850bfca2bae5d56_2579861724038378762.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:35:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066066#reply3</guid></item><item><title>[生活] 被一个无赖恶心了，该怎么办</title><link>https://www.v2ex.com/t/1066065#reply1</link><description>&lt;p&gt;被狠狠恶心了一把，知道对方的手机号和微信号和大概地址，但是没有具体地址，求各位帮忙出点无赖的办法&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:33:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066065#reply1</guid></item><item><title>[问与答] 今年夏天的菜价为什么这么贵</title><link>https://www.v2ex.com/t/1066064#reply5</link><description></description><pubDate>Mon, 19 Aug 2024 03:32:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066064#reply5</guid></item><item><title>[Apple] AppleWatch ESIM 上的 APP 开发联网功能很困难吗？像起点、某些车厂 APP，网易云音乐都需要手机才能使用，挺傻的</title><link>https://www.v2ex.com/t/1066063#reply0</link><description>既然都 ESIM 了，为啥不多做个直接请求网络。有 IOS 开发大佬吗，这种情况是 API 难用，还是已有工程结构不好变动，还是公司觉得投入收益太低了？能科普一下吗？</description><pubDate>Mon, 19 Aug 2024 03:30:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066063#reply0</guid></item><item><title>[程序员] Aria 这么好用的东西就这么凉了</title><link>https://www.v2ex.com/t/1066062#reply19</link><description>&lt;p&gt;虽说见怪不怪,很可惜,这么好的一个项目,就因为被乍片饭子利用,
+那要是那菊花手机打乍片电话,菊花也要被连坐吗?
+&lt;a href="https://imgse.com/i/pAP3Nfe" rel="nofollow"&gt;&lt;img alt="pAP3Nfe.md.png" class="embedded_image" rel="noreferrer" src="https://s21.ax1x.com/2024/08/19/pAP3Nfe.md.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 03:27:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066062#reply19</guid></item></channel></rss>
