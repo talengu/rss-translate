@@ -1,89 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 19 Aug 2024 18:38:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenWrt] passwall2 代理端口过多会失效</title><link>https://www.v2ex.com/t/1066295#reply0</link><description>&lt;p&gt;结论：passwall2 --&amp;gt; 高级设置  --&amp;gt;TCP 转发端口 自定义端口超过 15~16 部分 app 代理会失效，但网页又正常（都使用的 443 ）。&lt;/p&gt;
-&lt;p&gt;通过对 luci-app-passwall2.ipk 更新时有一条提示：iptables v1.8.7 (legacy): too many ports specified&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 18:29:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066295#reply0</guid></item><item><title>[问与答] 偶然间看到的字体，忽然令我感到汉字的美感</title><link>https://www.v2ex.com/t/1066294#reply0</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://pic1.zhimg.com/80/v2-79278389e5d5f240fa53a16b152e72d2_1440w.png" /&gt;&lt;/p&gt;
-&lt;p&gt;这是什么字体？&lt;a href="https://www.bilibili.com/video/BV1iE4m1R7Zh/?t=610" rel="nofollow"&gt;来源&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 18:17:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066294#reply0</guid></item><item><title>[程序员] 宝塔是不是出问题了？</title><link>https://www.v2ex.com/t/1066293#reply1</link><description>&lt;p&gt;前几天官方机房全挂了。
-这两天我不同运营商安装宝塔的机器全 MYSQL 和 PHP 故障，感觉不是巧合。&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 17:52:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066293#reply1</guid></item><item><title>[Python] 如何制作 Dash 可用的 Python 3 离线中文文档（Docset 格式）？</title><link>https://www.v2ex.com/t/1066292#reply0</link><description>&lt;p&gt;最近想要在 Dash 上看 Python3 中文文档，但是网上似乎没有现成的（也有些版本比较旧的），自己从官方文档转换又遇到了问题，&lt;a href="https://github.com/python/python-docs-zh-cn/issues/360" rel="nofollow"&gt;具体遇到的问题是这样的&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;想问问有没有朋友有制作这个的经验？&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 17:10:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066292#reply0</guid></item><item><title>[DNS] 为什么国内没有公共的 DNS over Quic？</title><link>https://www.v2ex.com/t/1066291#reply1</link><description>为什么国内没有公共的 DNS over Quic ？阿里和 DNSPOD DoT 、DoH 都支持，但没有 DoQ</description><pubDate>Mon, 19 Aug 2024 16:59:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066291#reply1</guid></item><item><title>[OpenAI] Fomepay 跑路了，开通虚拟卡如何避免平台跑路风险？</title><link>https://www.v2ex.com/t/1066290#reply0</link><description>&lt;p&gt;虚拟卡平台很多 fomepay 、fomecard （一家的）、dupay 、vvacard 等等&lt;/p&gt;
-&lt;p&gt;为了避免再次掉入类似 Fomepay 的骗局，选择合规的实体公司、合规的服务非常重要。
-我总结了一些分辨靠谱合规的公司、服务的方法：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 20 Aug 2024 09:31:02 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[NAS] 有大佬能邀请个 BT 站点吗？</title><link>https://www.v2ex.com/t/1066507#reply1</link><description>&lt;p&gt;主要看电影 有公网 ip 上传 50m 7x24 小时开机的个人 nas&lt;/p&gt;
+&lt;p&gt;阿里云限速死了之后没有方便的观影方案了，所以打算搭建 nastool 大佬新开发的 MoviePilot ，发现没有 pt 站点已经玩不了了&lt;/p&gt;
+&lt;p&gt;邮件： &lt;a href="mailto:wangshan888666@gmail.com"&gt;wangshan888666@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;十分感谢！&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:28:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066507#reply1</guid></item><item><title>[问与答] mysql，如果数据会删除老数据，只保留最新数据，主键用 uuid 是否也 ok？</title><link>https://www.v2ex.com/t/1066506#reply1</link><description>&lt;p&gt;关于 mysql 主键，都说不建议用 uuid ，主要原因是耗费 16k 主键空间，怕容易撑爆。
+但如果这个表只用于记录最新数据，定期删除老数据，比如：&lt;/p&gt;
+&lt;p&gt;1 、记录用户登录 session ，已经过期的 session 会定期删掉；
+2 、记录自然日内的用户操作次数，比如用户发送短信验证码的次数，当天首次发验证码就产生一行数据用于记录当天发已经发送几次验证码，超额就拒绝发送，但到晚上 12 点就会清空这个表。&lt;/p&gt;
+&lt;p&gt;这两种情况下，是用 uuid 作为主键是否没啥问题？还是说还有我没想到的地方？&lt;/p&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:22:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066506#reply1</guid></item><item><title>[问与答] 公司没钱发不出工资，仲裁也没用，还有什么办法吗</title><link>https://www.v2ex.com/t/1066505#reply1</link><description>&lt;p&gt;欠了几个月工资后，公司解散了，让我们去仲裁。仲裁流程是走完了，达成协议是后续分批给付，但实际上只给了半次，后面就没给过了。&lt;/p&gt;
+&lt;p&gt;公司还是存续状态，这种情况下还有什么办法追回工资吗？&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:22:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066505#reply1</guid></item><item><title>[问与答] 请问一下, 有老哥有过清除这种胎记的经验吗? 家中小妹, 想看看有什么方法可以彻底解决, 感激不尽!</title><link>https://www.v2ex.com/t/1066504#reply0</link><description>&lt;p&gt;图片: ↓
+&lt;a href="https://imgur.com/a/vDCel8C" rel="nofollow"&gt;https://imgur.com/a/vDCel8C&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;俺目前在广州, 其实主要是想问问哪些医院对这种比较靠谱&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:18:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066504#reply0</guid></item><item><title>[广州] 周五到广州，来个本地美食推荐🙏</title><link>https://www.v2ex.com/t/1066503#reply4</link><description>出差去广州，计划周末顺便转转&lt;br /&gt;住宿在北京路步行街附近&lt;br /&gt;有什么美食推荐吗（不吃内脏）</description><pubDate>Tue, 20 Aug 2024 09:18:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066503#reply4</guid></item><item><title>[分享创造] [永久免费]🪄用魔法增强 MacbookPro 的屏幕亮度</title><link>https://www.v2ex.com/t/1066502#reply3</link><description>&lt;p&gt;点击这里下载&lt;br /&gt;
+&lt;a href="https://lumosmaxima.000ooo.ooo" rel="nofollow"&gt;LumoMaxima 官网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;帮你提升 MacbookPro 屏幕两倍的亮度&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:14:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066502#reply3</guid></item><item><title>[分享发现] 一个比较小众的 AI 应用——角色扮演《云酒馆》</title><link>https://www.v2ex.com/t/1066500#reply0</link><description>&lt;p&gt;所谓酒馆是个大语言模型的前端，主要用来角色扮演，用了某些插件以后尺度可以比较大。&lt;/p&gt;
+&lt;p&gt;原项目是这个： &lt;a href="https://github.com/SillyTavern/SillyTavern" rel="nofollow"&gt;https://github.com/SillyTavern/SillyTavern&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一般是自己本地部署的，但对小白用户来说有点难度，所以我在服务器上部署了一个，即所谓《云酒馆》，尽量简化配置，开箱可玩。&lt;/p&gt;
+&lt;p&gt;目前免费，内置 key ，模型支持 gemini pro 和 flash 。&lt;/p&gt;
+&lt;p&gt;欢迎体验，有好的想法意见也欢迎交流。&lt;/p&gt;
+&lt;p&gt;食用说明： &lt;a href="https://mqs9y98k94n.feishu.cn/wiki/CdJ9wf9ckiu88Bk2dRecUxEenkb?from=from_copylink" rel="nofollow"&gt;https://mqs9y98k94n.feishu.cn/wiki/CdJ9wf9ckiu88Bk2dRecUxEenkb?from=from_copylink&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:10:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066500#reply0</guid></item><item><title>[Apple] 关于 Mac 扩容这件事请教下</title><link>https://www.v2ex.com/t/1066499#reply4</link><description>&lt;p&gt;我的 Mac Air M2 512G 使用两年已过保&lt;/p&gt;
+&lt;p&gt;大家的扩容都是  容量多少到多少
+扩容渠道是什么  价格几多
+扩容后稳定运行了多久&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:09:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066499#reply4</guid></item><item><title>[酷工作] [上海] txyz.ai - 招前后端工程师 - AI / LLM</title><link>https://www.v2ex.com/t/1066498#reply0</link><description>&lt;h3&gt;资深前端工程师&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.zhipin.com/job_detail/5749270d87dd81d51HN63tu1EFBX.html" rel="nofollow"&gt;BOSS 直聘链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;岗位要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;经验 3-5 年，本科毕业&lt;/li&gt;
+&lt;li&gt;精通 JavaScript 、Typescript 、CSS3 和 HTML5 ，熟悉至少一种主流前端框架（ React  [必备，要求精通] 、Next.js 、Angular 、Vue.js 等）；&lt;/li&gt;
+&lt;li&gt;熟悉团队环境中的软件开发协作以及 git 工作流；&lt;/li&gt;
+&lt;li&gt;熟悉 Web 性能优化，对前端工程化和自动化构建有深入理解；&lt;/li&gt;
+&lt;li&gt;具备良好的问题解决能力，善于沟通，乐于合作；&lt;/li&gt;
+&lt;li&gt;有响应式设计和跨平台开发的实战经验；&lt;/li&gt;
+&lt;li&gt;有 Node.js 开发经验者优先；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;薪资范围：20 - 35k ，14 薪&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;高级 Python 后端工程师&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.zhipin.com/job_detail/1a3f9e5c4942dcb01HN_2di9EVJZ.html" rel="nofollow"&gt;BOSS 直聘链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;所有前瞻的技术点具有涉猎，LLM 、GPT 、ChatBot ，Prompt Engineering ，Python 、Kafka 、Redis 、Docker 、AWS 、底层 AI 技术和上层软件的业务都有涵盖，选择面广。
+希望有梦想有追求，特别是对 AI 应用开发感兴趣的小伙伴加入我们，在新的平台上向未来进发，挥洒青春和和汗水，挑战无限的可能，成为更好的自己&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;岗位职责：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;参与从需求到 AI 软件产品定义、架构设计、开发实现、上线运维等产品生命周期的各环节；&lt;/li&gt;
+&lt;li&gt;创造性解决产品实现过程中的难题，应用前沿技术提升产品的核心竞争力，如分布式 AI 系统的设计开发、性能调优、极致可靠性；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;岗位要求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本科及以上学历；&lt;/li&gt;
+&lt;li&gt;5 年及以上工作经验；&lt;/li&gt;
+&lt;li&gt;熟悉 Linux 相关知识，掌握 Python 、JS 等编程语言，有良好的编程习惯；对数据结构和算法有一定了解；&lt;/li&gt;
+&lt;li&gt;熟悉 LLM 相关技术，紧跟行业前沿发展方向者优先；&lt;/li&gt;
+&lt;li&gt;具备良好的解决问题能力、善于沟通、乐于合作。热衷新技术，善于总结和分享，喜欢动手实践；&lt;/li&gt;
+&lt;li&gt;有分布式集群、文件系统、存储、大数据等领域开发经验者优先；有可靠性、性能、容灾备份、安全设计经验者优先；&lt;/li&gt;
+&lt;li&gt;有运维经验或者熟悉 AWS ，Azure ，GCP 云基础架构者优先；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;薪资范围：25 - 35k ，14 薪&lt;/p&gt;
+&lt;p&gt;简历请投递至： hr@txyz.ai&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:06:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066498#reply0</guid></item><item><title>[问与答] 电视端看电影资源/解决方案求推荐</title><link>https://www.v2ex.com/t/1066497#reply4</link><description>&lt;p&gt;周末喜欢在家里用电视看电影，最近在几个常见的视频软件已经找不到想看的电影资源了，求大家分享好的电视端的电影资源，高清看电影的解决方案
+需求：成本低、稳定&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:05:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066497#reply4</guid></item><item><title>[全球工单系统] 抖音真让我无语，实名被人盗用，客服只会一句理解你的心情</title><link>https://www.v2ex.com/t/1066496#reply2</link><description>&lt;p&gt;我上周末的时候无聊点开了账户号设置发现账号没实名，一直以为实名过了，因为钱包里一直显示已实名认证。那我就去实名提示我有另外个号用了我身份证实名，引导我去那个号去注销，通过指引进入了那个号，发现根本不是我注册号，手机号码和银行卡账号都不是我的，账号是用来做非法直播的，已经被封禁，我点击注销提示我封禁状态下不能注销。&lt;/p&gt;
+&lt;p&gt;然后我就各种联系客服，只会说一个身份证只能绑定一个账号，非常理解你的心情，我很好奇没有我的人脸怎么盗取我的实名。各种投诉无果，我真的是被气死。网上搜了下很多人遇到我一样问题。这就是平台自己的安全漏洞让用户买单。店大欺客，把流量做大了不管安全，不作为，懒政，气死了，被客服电话气死了。&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:01:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066496#reply2</guid></item><item><title>[生活] 你们还记得自己第一次进城上大学那天的事情吗？</title><link>https://www.v2ex.com/t/1066495#reply6</link><description>&lt;p&gt;又是一茬大学生报道了，想想自己，快 20 年了。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;我那天是第一次进京，穿了一双新买的拖鞋，45 码，买大了，鞋楦也宽，半个脚掌探在前面，趿拉着。身上穿的是个白衬衫，好像是买饲料送的，号码偏大我又比较瘦，撑不起来。&lt;/p&gt;
+&lt;p&gt;后来我宿舍北京的兄弟跟我讲，第一次见我觉得这搭配巨搞笑，以为是学生家长呢，还琢磨这家长够年轻的。&lt;/p&gt;
+&lt;p&gt;当时有个拉杆箱，是硬塑料材质，上大学出发，坐大巴刚到地级市还没上火车，就摔裂了。坚持到了学校，发现这玩意儿掉色，染得一些衣服都蓝了。这个拉杆箱现在还在我老婆老家扔着，里面有很多我大学时候的物件，还有那会儿跟女神的十几封通信。我老婆看到这个箱子就想踹两脚，它只是裂了，但依旧坚挺。。。&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 09:00:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066495#reply6</guid></item><item><title>[问与答] 我来统计一下，一波一波的新冠后，你们的病毒疹出现在身体哪些部位？</title><link>https://www.v2ex.com/t/1066493#reply0</link><description>我是右侧后腰部，并伴随心脏不适，心律失常，心口发闷；&lt;br /&gt;我妈第一次病毒疹出现在手部，第二次是脖子下面锁骨附近和右侧肩上部。&lt;br /&gt;&lt;br /&gt;似乎每次都是出完这些疹子，病情才减轻些。。</description><pubDate>Tue, 20 Aug 2024 08:58:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066493#reply0</guid></item><item><title>[推广] 1api.icu 全网最惠, 1 元=1USD, GPT-4o, Claude-3.5-sonnet 同官方倍率</title><link>https://www.v2ex.com/t/1066492#reply0</link><description>&lt;h1&gt;1api.icu 全网最惠，1 元=1USD ，GPT-4o, Claude-3.5-sonnet 同官方倍率&lt;/h1&gt;
+&lt;h3&gt;中转站: &lt;a href="https://gpt.1api.icu/" rel="nofollow"&gt;https://gpt.1api.icu/&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;有使用需求随时注册试用&lt;/p&gt;
+&lt;h3&gt;免费注册后立送 0.1 USD 测试&lt;/h3&gt;
+&lt;h3&gt;下面留下用户名再送 1USD （可以与 GPT4o 进行 180 次左右的简单对话）&lt;/h3&gt;
+&lt;h3&gt;主要优势&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;小心支持 USDT 的平台：真正合规的支付公司，是无法支持 USDT 的，USDT 这类虚拟稳定币，因为其匿名使用的特性，在国内是无法合规的。支持 USDT 的平台，跑路的概率极大。FomePay 就是支持 USDT 的。&lt;/p&gt;
+&lt;p&gt;充值 &lt;strong&gt;1CNY = 1USD&lt;/strong&gt;，比官方汇率直降 7.3 倍，充值 20 元及以上还有额外优惠，个人简单使用一般一个月只需要 10-20 元&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;小心自称虚拟卡的平台：国内监管机构并不承认虚拟卡作为正规业务展业的，目前正规的海外支付通道，是不会直接用虚拟卡这种称谓的。&lt;/p&gt;
+&lt;p&gt;GPT-4o ，Claude-3.5-sonnet ，Gemini-1.5-Pro &lt;strong&gt;等最先进的模型也同步官方倍率，不像很多 1 元中转站高级模型费用比官方高，模型费用公开随时对比。&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;是否要求实名：支持海外支付，是需要换汇报备的，要求实名的平台，才正规。反而一开始就要跑路的公司才不会在意什么实名。&lt;/p&gt;
+&lt;p&gt;对接 OpenAI, Azure OAI 等大厂，高速响应，稳定，拒绝廉价逆向接口&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;存续时间：不要选择刚上线的小平台，尤其是一看上去就是统一跟 FomePay 一个模样的网站，估计背后都是同样的一群人，同样一套代码换个皮继续做。&lt;/p&gt;
+&lt;p&gt;大量模型可用 GPT-4o, 4o-mini, Claude-3, Claude-3.5, Gemini, 后期也会添加更多&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;联系客服：尝试与客服沟通，合规的公司客服一般都能提供及时有效的反馈。&lt;/p&gt;
+&lt;p&gt;使用 OpenAI 接口规范调用任何模型，方便开发和使用各种现成工具调用模型&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;支持 &lt;strong&gt;支付宝、USDT 支付&lt;/strong&gt;，&lt;strong&gt;5 元起充&lt;/strong&gt;，无需担心充值大余额没用完跑路&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;目前用下来 wildcard 挺不错，审美在线，关键是金额随时可以提现！！！&lt;/p&gt;
-&lt;p&gt;如果需要的话，可以参考下这篇文章： &lt;a href="https://chatgptzh.com.cn/fomepay-run/" rel="nofollow"&gt;https://chatgptzh.com.cn/fomepay-run/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 16:55:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066290#reply0</guid></item><item><title>[Go 编程语言] 刚刚用 hugo 来存小说,结果才三本小说,全 build 就要 130 多秒了.</title><link>https://www.v2ex.com/t/1066289#reply1</link><description>&lt;p&gt;如果再添加几本书就不知道多少秒了.而且因为添加 md,导致不全 build 还不行&lt;/p&gt;
-&lt;p&gt;我还是老老实实 sphinx 吧,
-毕竟 sphinx 添加 rst 不重新 build 也没事,不像 hugo&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 16:49:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066289#reply1</guid></item><item><title>[Go 编程语言] 分享我最新的开源项目： goargs</title><link>https://www.v2ex.com/t/1066288#reply2</link><description>&lt;p&gt;今晚肝代码，一个新的开源项目，新鲜出炉，给大家介绍一下。&lt;/p&gt;
-&lt;p&gt;首先放上代码仓库： &lt;a href="https://github.com/daqing/goargs" rel="nofollow"&gt;https://github.com/daqing/goargs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;这个项目是做什么的呢？&lt;/p&gt;
-&lt;p&gt;就是取代一个 Unix 命令：&lt;code&gt;xargs&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;所以我的项目就叫：&lt;code&gt;goargs&lt;/code&gt;，因为是用 go 写的&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;goargs&lt;/code&gt; 的用法，类似于 &lt;code&gt;xargs&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;那么，goargs 有什么优势呢？&lt;/p&gt;
-&lt;p&gt;就是支持复杂的参数组合，举个例子：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;$ echo foo bar | goargs echo :2 :1&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这样会输出：&lt;code&gt;bar foo&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这样你可能大体理解了 &lt;code&gt;goargs&lt;/code&gt; 的用法&lt;/p&gt;
-&lt;p&gt;再举一个例子：&lt;/p&gt;
-&lt;p&gt;假设当前目录有 2 个 go 文件：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;a.go
-b.go
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;那么，如何批量把这两个文件，重命名为&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;a.go.py
-b.go.py
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;呢？&lt;/p&gt;
-&lt;p&gt;使用 goargs 就可以做到：&lt;/p&gt;
-&lt;p&gt;看命令：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;ls *.go | goargs mv :1 :&lt;a href="http://1.py" rel="nofollow"&gt;1.py&lt;/a&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;所以 &lt;code&gt;goargs&lt;/code&gt; 的设计是非常灵活的，可以帮助你实现非常复杂的批处理场景，具体用法等你来挖掘。&lt;/p&gt;
-&lt;p&gt;感谢阅读此贴~~&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 16:03:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066288#reply2</guid></item><item><title>[Google Play] 为什么 google play 的审核总是这么慢</title><link>https://www.v2ex.com/t/1066287#reply0</link><description>&lt;p&gt;苹果，一天审核完毕
-华为，两天审核完毕&lt;/p&gt;
-&lt;p&gt;google play, 只有一半概率是审核完毕的，另一半情况是这个版本还没审核完下个版本又提交了（一周发一个版本，google play 审核太慢了）&lt;/p&gt;
-&lt;p&gt;目前商店 91, 提审包已经打到 96 了。有解么各位大佬？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/PBVdytn.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 15:59:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066287#reply0</guid></item><item><title>[iPhone] 你现在还会为 iPhone 购买 apple care+吗</title><link>https://www.v2ex.com/t/1066286#reply5</link><description>买 ac+的朋友还多吗 说说自己买货不买的理由&lt;br /&gt;&lt;br /&gt;当然 iPhone 目前更耐摔了&lt;br /&gt;但似乎出了意外还是会很麻烦&lt;br /&gt;因为我的习惯是不贴膜不带壳的使用&lt;br /&gt;所以之前都买 ac+&lt;br /&gt;不是装逼 就是觉得散热好点握感好点&lt;br /&gt;乔帮主努力减薄的厚度 不想弄回来&lt;br /&gt;&lt;br /&gt;不买 ac+的朋友就是出了意外找第三方便宜点维修？ &lt;br /&gt;还是去官方高价维修？&lt;br /&gt;还是别的什么方案</description><pubDate>Mon, 19 Aug 2024 15:58:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066286#reply5</guid></item><item><title>[程序员] 有没有一个 log 框架，在 log.error 的时候自动重新打印某段时间内的详细 log</title><link>https://www.v2ex.com/t/1066285#reply2</link><description>&lt;p&gt;可以在关键业务开始的时候标记一个锚点，结束的时候删除锚点。&lt;/p&gt;
-&lt;p&gt;关键业务中间，如果出错了（调用了 log.error ）那么这个 log 框架会自动把锚点后的 log level 从 info 改成 debug ，然后重新打印出来。&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 15:24:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066285#reply2</guid></item><item><title>[程序员] 网易云官方回复说因为业务扩容出现了技术事故，好奇仅仅扩容怎么造成这么大范围事故的，主站都寄了</title><link>https://www.v2ex.com/t/1066284#reply1</link><description>&lt;p&gt;&lt;img alt="b61283221d437e067ec681e23ba7f37a.jpeg" class="embedded_image" rel="noreferrer" src="https://ice.frostsky.com/2024/08/19/b61283221d437e067ec681e23ba7f37a.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 15:17:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066284#reply1</guid></item><item><title>[酷工作] 瓶颈期大家是如何突破的</title><link>https://www.v2ex.com/t/1066283#reply1</link><description>这是一个开放性话题，可以讨论和发表见解，楼主 20 年本科毕业工作了几年，目前在南宁一家 200 亿营收规模的公司，主要是负责业务线的研发管理工作，目前并行负责两个业务系统，研发投资超过 500w ，团队规模有 15 人左右，虽然团队和项目规模都不小，但是今年合同到期了，可以预见的是我没有上升空间了，平时基本都在搞技术架构，搞团队管理和需求分解，渐渐的很少去深究一个技术或者具体算法一类的事情，感觉也比较尴尬，有点不上不下的，对目前的薪资也不满意，请问大家在这种时候一般怎么突破，目前比较想的是换北上广一线城市努努力看看能不能突破一下，欢迎大家讨论</description><pubDate>Mon, 19 Aug 2024 15:05:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066283#reply1</guid></item><item><title>[问与答] 除了 macAi 还有什么开发好用的轻薄本推荐不？</title><link>https://www.v2ex.com/t/1066282#reply3</link><description>&lt;p&gt;心痒痒想换新电脑&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:53:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066282#reply3</guid></item><item><title>[宽带症候群] 有没有刷上行的工具</title><link>https://www.v2ex.com/t/1066281#reply5</link><description>&lt;p&gt;就是上行,能长时间拉满的那种,bt 没法保证长时间.&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:51:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066281#reply5</guid></item><item><title>[分享创造] 宝可梦随机生成器</title><link>https://www.v2ex.com/t/1066280#reply0</link><description>&lt;p&gt;花了点时间做了一个宝可梦随机生成器的 web 。实现根据类型、世代、栖息地、数量来随机返回宝可梦。
-返回数据包括每个宝可梦的基本信息，例如：身高、体重、特性能力值等详细信息。
-欢迎各位小伙伴体验～ &lt;a href="https://pokemonrandomizer.cc/" rel="nofollow"&gt;https://pokemonrandomizer.cc/&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:45:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066280#reply0</guid></item><item><title>[酷工作] Senior BlockChain Developer（BlockChain 底层 + Cosmos 开发经验）</title><link>https://www.v2ex.com/t/1066279#reply0</link><description>Position：Senior BlockChain Developer （ BlockChain 底层 + Cosmos 经验）&lt;br /&gt;(Full-time)&lt;br /&gt;Location：Remote + Centralized&lt;br /&gt;Industry: Web3/Layer 2/DeFi&lt;br /&gt;&lt;br /&gt;PS：&lt;br /&gt;1 、本科及以上学历，中英文熟练； &lt;br /&gt;2 、3/10 年工作经验，熟练掌握 Golang /Solidity 编程语言，&lt;br /&gt;3 、具备 BlockChain 底层开发经验，具备 Cosmos 生态系统中的开发经验；&lt;br /&gt;4 、设计、开发和维护 BlockChain 应用和智能合约，持续关注 BlockChain 技术的发展趋势，学习新技术并将其应用到项目中。&lt;br /&gt;&lt;br /&gt;TG：@jtx_2023</description><pubDate>Mon, 19 Aug 2024 14:28:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066279#reply0</guid></item><item><title>[问与答] 你家的 AI 程序可以搞定这个 pdf 阅读理解吗?</title><link>https://www.v2ex.com/t/1066278#reply0</link><description>&lt;p&gt;上传 3 个 pdf 到对话框,问 AI 下面几个问题.
-测试了一圈就一个 AI 搭建程序可以....&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;邪恶的抱抱的女儿是谁?
-邪恶的抱抱的优缺点?
-邪恶的抱抱有几个小孩?
-小熊仔有几个孩子?
-大大和鹏鹏和月月什么关系?
-大大和鹏鹏相处的怎么样?
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;3 个 PDF 大概的内容
-&lt;img alt="pdf1" class="embedded_image" rel="noreferrer" src="https://image.g60.net/file/9caff9cc3756b4ce8be14.png" /&gt;
-&lt;img alt="pdf2" class="embedded_image" rel="noreferrer" src="https://image.g60.net/file/1a0183945acf58a376ba6.png" /&gt;
-&lt;img alt="pdf3" class="embedded_image" rel="noreferrer" src="https://image.g60.net/file/543162f4c817f869321a6.png" /&gt;&lt;/p&gt;
-&lt;p&gt;pdf 测试下载
-&lt;a href="https://cloud.g60.net/d/public/ai%20pdf%E6%B5%8B%E8%AF%95.zip" rel="nofollow"&gt;link text&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:24:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066278#reply0</guid></item><item><title>[分享创造] 全网最全的 AI 导航站集合</title><link>https://www.v2ex.com/t/1066277#reply0</link><description>&lt;p&gt;&lt;a href="https://aijustworks.com/directories" rel="nofollow"&gt;https://aijustworks.com/directories&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:21:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066277#reply0</guid></item><item><title>[宽带症候群] V 友们好，请教下大家一个组网的问题</title><link>https://www.v2ex.com/t/1066276#reply5</link><description>&lt;blockquote&gt;
-&lt;p&gt;需求：
-1 、有 2 台电脑需要做公网端口映射；
-2 、手机需要连接电脑 1 的 sing-box 端口科学上网。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;现状：
-1 、弱电箱有 4 跟网线分别连接大厅和房间 1/2/3 ；
-2 、2 台电脑会放在房间 1 。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;想法是光猫放弱电箱，交换机接光猫，然后房间 1 的路由器桥接光猫拨号上网，并在房间 1 进行公网端口映射到两台电脑的某些端口，如：3389 和 rustdesk 的三个端口等&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图片" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/Wk8UhQo.jpeg" title="tu" /&gt;&lt;/p&gt;
-&lt;p&gt;但是这么弄的话，大厅和其他房间能上网吗？&lt;/p&gt;
-&lt;p&gt;各位 V 友们有什么好的建议吗？&lt;/p&gt;
-&lt;p&gt;感激不尽.&lt;/p&gt;</description><pubDate>Mon, 19 Aug 2024 14:20:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066276#reply5</guid></item></channel></rss>
+&lt;h3&gt;价格对比表：和官方充值相比的可用 tokens 倍数，和友商对比&lt;/h3&gt;
+&lt;h6&gt;表格计费单位为 per 1 million tokens (每百万) 方便辨识，如果需要换算成每千 tokens ，请除以 1000&lt;/h6&gt;
+&lt;p&gt;&lt;img alt="价格对比表" class="embedded_image" rel="noreferrer" src="https://cdn.mhdnews.com/r2/c2/c8a31bfeb24f07eb447ab03783994c965294a48f8808c7e5acd81770b8e7ed30.png" /&gt;&lt;/p&gt;
+&lt;p&gt;各位要试用的注册然后添加余额后，直接打开网站的 playground 就可以开始对话了，自动添加默认 API Key 和模型 (GPT4)，可调整成其他测试
+也可以自己创建 API key 使用，注意余额单位使用细分单位，1USD = 500000 网站的单位&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 08:58:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066492#reply0</guid></item><item><title>[问与答] 秋招在即，民办三本学生出路</title><link>https://www.v2ex.com/t/1066491#reply11</link><description>&lt;p&gt;距离上个询问 Sap 的帖子过了一个月，没想到去年还是年初招了六个人的某通安恒，这次只招了一个，我也是成功被筛下来。&lt;/p&gt;
+&lt;p&gt;而现在牛客上面陆陆续续都在秋招了，25 届大四开学也是剩下十天差不多时间，这个暑期学 Sap 对于市面上主流岗位也算是完全的浪费时间，目前应该是赶不上秋招了，准备先完成学校的毕设然后准备春招。&lt;/p&gt;
+&lt;p&gt;我有几个问题想询问一下各位 v 友。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;首先是民办三本大数据专业的学历在市面上确实完全没竞争力，大数据筛学历很严，更别提现在 java 这么卷，我现在原地学习转测试或者运维是否明智？&lt;/li&gt;
+&lt;li&gt;我大四上学期这最后一个在校时间应该准备什么，是准备春招还是找实习？&lt;/li&gt;
+&lt;li&gt;还有一点不太明白的是，可能是我们学校很差劲，都没人讨论春秋招的事情，但是如果真的面试通过了，下学期还有课，该怎么去就职呢？好像牛客上面的人都没有担心过这个问题。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;最后感谢各位 v 友不吝指教，在此拜谢&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 08:55:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066491#reply11</guid></item><item><title>[问与答] Ubuntu22 升级 chrome 到最新 127 版本,内存突然"爆炸",各位大佬也这样吗?</title><link>https://www.v2ex.com/t/1066490#reply1</link><description>&lt;p&gt;前两天升级了 chrome 到最新版本{Version 127.0.6533.119 (Official Build) (64-bit)};&lt;br /&gt; 本来电脑 16G 内存就吃紧,结果昨天和今天发现内存经常飙升.一开始以为是钉钉又吃内存,把钉钉停了,还是会内存飙升导致电脑卡死,把 chrome 强 kill 就好了,&lt;br /&gt;后面切换又装了 chrome-beta 版本,依然如此; 最终切换到 flatpak-firefox,且使用钉钉,目前未出现卡死状态.&lt;br /&gt; 各位大佬也是这样吗?有法子解决吗?&lt;br /&gt; OS: Ubuntu 22.04 jammy &lt;br /&gt;  Kernel: x86_64 Linux 6.5.0-44-generic&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 08:48:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066490#reply1</guid></item><item><title>[问与答] 入职新公司，买 mac mini 还是 mac book air</title><link>https://www.v2ex.com/t/1066489#reply7</link><description>前端开发，新公司发的还是 m1 的电脑，感觉有点慢，想自己买一台电脑。&lt;br /&gt;&lt;br /&gt;目前手上有一台 m1max 64g, m1 16g&lt;br /&gt;&lt;br /&gt;自己的 m1 max 准备拿来自己用，不想装公司的监控软件。&lt;br /&gt;&lt;br /&gt;目前有两个选择&lt;br /&gt;&lt;br /&gt;1. 等苹果发布会，买 m4 的 mac mini&lt;br /&gt;2. 买 24g 内存 m3 的 air&lt;br /&gt;&lt;br /&gt;请问哪个好</description><pubDate>Tue, 20 Aug 2024 08:48:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066489#reply7</guid></item><item><title>[分享创造] [自荐] 义务教育阶段背单词的神器 - “宝妈听写小帮手”</title><link>https://www.v2ex.com/t/1066487#reply1</link><description>&lt;h2&gt;用户痛点：&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;家长英语发音不标准&lt;/li&gt;
+&lt;li&gt;家长没时间给孩子听写&lt;/li&gt;
+&lt;li&gt;写错了没记在错题本&lt;/li&gt;
+&lt;li&gt;不能经常复习&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;一句话简介：&lt;/h2&gt;
+&lt;p&gt;"宝妈听写小帮手"大大降低了家长给孩子报听写的难度，方便孩子记录错词和经常复习&lt;/p&gt;
+&lt;h2&gt;产品功能：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;支持手机直接听写和纸笔听写&lt;/li&gt;
+&lt;li&gt;收集了义务教务阶段多个版本的英文课本&lt;/li&gt;
+&lt;li&gt;包含错词本、听写记录等功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;产品特点：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;界面简洁直观；&lt;/li&gt;
+&lt;li&gt;使用虚拟键盘直接听写&lt;/li&gt;
+&lt;li&gt;自动记录错词，听写记录&lt;/li&gt;
+&lt;li&gt;支持随机抽词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;平台：&lt;/h2&gt;
+&lt;p&gt;微信小程序&lt;/p&gt;
+&lt;h2&gt;价格：&lt;/h2&gt;
+&lt;p&gt;免费。&lt;/p&gt;
+&lt;h2&gt;截图&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://h1.appinn.net/file/4b38592b8ee6033ece40f.jpg" rel="nofollow"&gt;&lt;img alt="|225x500" class="embedded_image" rel="noreferrer" src="https://h1.appinn.net/file/4b38592b8ee6033ece40f.jpg" /&gt;&lt;/a&gt;
+&lt;a href="https://h1.appinn.net/file/08d0ba51058302ea1e66f.jpg" rel="nofollow"&gt;&lt;img alt="|225x500" class="embedded_image" rel="noreferrer" src="https://h1.appinn.net/file/08d0ba51058302ea1e66f.jpg" /&gt;&lt;/a&gt;
+&lt;a href="https://h1.appinn.net/file/24b7b8f3a9c447fac6172.jpg" rel="nofollow"&gt;&lt;img alt="|225x500" class="embedded_image" rel="noreferrer" src="https://h1.appinn.net/file/24b7b8f3a9c447fac6172.jpg" /&gt;&lt;/a&gt;
+&lt;a href="https://h1.appinn.net/file/1d5f7d2952e6d4d8e22c3.jpg" rel="nofollow"&gt;&lt;img alt="|225x500" class="embedded_image" rel="noreferrer" src="https://h1.appinn.net/file/1d5f7d2952e6d4d8e22c3.jpg" /&gt;&lt;/a&gt;
+&lt;a href="https://h1.appinn.net/file/14408e6393f8bf51ef6b3.jpg" rel="nofollow"&gt;https://h1.appinn.net/file/14408e6393f8bf51ef6b3.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 08:46:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066487#reply1</guid></item><item><title>[Android] 推荐一款马达不错的性价比手机</title><link>https://www.v2ex.com/t/1066485#reply8</link><description>在用 IQOO 11S ，别的挺好，就是马达太垃圾，在桌面和裤兜来电什么的几乎无感，以至于经常漏掉消息。&lt;br /&gt;个人习惯全年振动模式，求推荐什么牌子或者型号的手机能在振动模式下不漏掉电话和消息的。</description><pubDate>Tue, 20 Aug 2024 08:37:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066485#reply8</guid></item><item><title>[分享创造] 用于本站的手机端脚本：迫于看手机上的暗主题眼睛太累，调亮了一下字体颜色</title><link>https://www.v2ex.com/t/1066484#reply0</link><description>头部油猴都给写了就省略了，后面如下，供有同样困扰的朋友参考&lt;br /&gt;(function() {&lt;br /&gt;    'use strict';&lt;br /&gt;&lt;br /&gt;    // 创建一个样式元素&lt;br /&gt;    var style = document.createElement('style');&lt;br /&gt;    style.type = 'text/css';&lt;br /&gt;    &lt;br /&gt;    // 定义 CSS 规则&lt;br /&gt;    style.innerHTML = `&lt;br /&gt;        a, h1, .topic_content, .markdown_body, .reply_content {&lt;br /&gt;            font-weight: bold;&lt;br /&gt;            color: #666666 !important;&lt;br /&gt;        }&lt;br /&gt;.count_livid, meta {&lt;br /&gt;            background-color: #000000 !important;&lt;br /&gt;}&lt;br /&gt;    `;&lt;br /&gt;    &lt;br /&gt;    // 将样式添加到文档头部&lt;br /&gt;    document.head.appendChild(style);&lt;br /&gt;})();</description><pubDate>Tue, 20 Aug 2024 08:36:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066484#reply0</guid></item></channel></rss>
