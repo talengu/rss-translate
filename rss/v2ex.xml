@@ -1,111 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 20 Aug 2024 16:46:05 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[职场话题] 最后还是要背井离乡</title><link>https://www.v2ex.com/t/1066579#reply5</link><description>&lt;p&gt;自从去年 9 月公司散伙之后，boss 上沟通无数公司，几乎没有回复。本地有家公司给了个机会，上了几天班感觉不对，就没去了。之前在 v2 写了个帖子介绍这个经历。&lt;/p&gt;
-&lt;p&gt;前公司散伙的时候，前老板让我想办法把我之前做的 UWB 定位系统方案卖了，给我分成。然后我就建了个网站，也在知乎上写了些文章。
-有不少人咨询，但是都没有下文，一直到 6 月份，才有一个公司表达了购买的意向，对方是国企，到现在合同都没签，他们还在走内部的流程。&lt;/p&gt;
-&lt;p&gt;去年底决定做独立开发。打算做一个自动运维的软件，折腾了几个月之后，发现还是应该继续搞 UWB 定位。
-UWB 定位这个东西，我已经做出了一个完整的系统，还量产了，从技术的角度来说，也到了一定的深度。并且，在业内有一定的“知名度”，至少有不少人知道有这么个公司这么个人，在做这个事，效果还可以，技术也靠谱。
-我可以把这个作为自己的立足点。之前做的东西，知识产权当然是前公司的，但是，我可以继续往深处搞/往广度搞，可以重新做出一套不同的东西出来。例如之前的系统是上行 TDOA 定位，我可以做下行 TDOA 定位，还可以增加 TOF 定位等等。以后可以靠卖技术卖方案挣钱。如果有人买老系统，我就跟前老板分成，如果买新系统，就是我自己的。于是就把以前弄的东西又翻出来，开始做一些以前想做但还没有做的事，把 UWB 定位继续往深处搞。&lt;/p&gt;
-&lt;p&gt;前两周，有个深圳的老板联系我，邀请我到他们公司上班。他是看了我在知乎上写的文章之后，大概觉得我还可以，是个合适的人选，所以联系我。
-对方是个做嵌入式的初创公司，目前只有几个人。如果我过去，是负责软件这块工作，大概算是软件经理吧。
-纠结了很久，从目前的情况来看，如果继续坚持弄 UWB 定位，收入很难保证。如果运气好，也许能挣点钱，如果运气不好，生活都困难。深圳这边如果上班，马上就会有工资收入。
-但是这个年龄(56+)还要去深圳，实在是有点那啥。。。。
-老板建议我可以先到深圳看一下，大家见个面，也到公司看看。然后我上周去了深圳。&lt;/p&gt;
-&lt;p&gt;最终决定还是去深圳吧。我跟老板说，先搞 3 个月试用期，大家都有足够的时间做出评估。如果大家都觉得 OK ，就继续下去；如果哪方觉得不行，随时可以中止。&lt;/p&gt;
-&lt;p&gt;跟老板沟通过几次，感觉老板是个技术上的大牛，一直在跟踪蓝牙标准，跟我谈到蓝牙标准有好多不足之处。虽然我对蓝牙不了解，但是感觉他说得比较有道理。老板的很多理念跟我相似，但是我不确定他是真的这样，还是投我所好。无所谓了，如果理念一致，大家相处会比较愉快；如果是投我所好，大家应该也会相处愉快。&lt;/p&gt;
-&lt;p&gt;在过往的职业生涯中，很多次从零开始组建团队，看样子这次也是要从零开始咯。&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 16:21:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066579#reply5</guid></item><item><title>[路由器] 求推荐 ap 面板还是 mesh 组家庭无线网络？</title><link>https://www.v2ex.com/t/1066578#reply0</link><description>房子情况，地上两层，地下两层，每层都是 90 方左右。&lt;br /&gt;每个房间都预留了面板，是用 带 Wi-Fi 的 ap 面板还是用 mesh ，以及两种方案的价格&lt;br /&gt;如果用 ap 面板的话，哪个品牌较好&lt;br /&gt;如果用 mesh 的话，哪个品牌较好&lt;br /&gt;&lt;br /&gt;另外，可能需要在一个房间内使用下科学。ap 面板的话能否支持&lt;br /&gt;以及如果加挂一个 IPTV 的话，是不是要在光猫那里设置&lt;br /&gt;谢谢啦</description><pubDate>Tue, 20 Aug 2024 16:19:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066578#reply0</guid></item><item><title>[随想] 完全自动驾驶时代不会到来</title><link>https://www.v2ex.com/t/1066577#reply0</link><description>最近试驾几个品牌的纯电车辆，各家都吹自己的智驾有多牛，还有那种说一连串命令的指示，当时觉得很炫，但经过仔细思考后，这些花里胡哨的功能其实都不能作为买车的主要参考。&lt;br /&gt;&lt;br /&gt;只要有人和机器混合驾驶，完全自动驾驶（ 0 干预）的车辆就很难，除非为全自动驾驶劈开专门区域，或者禁止所有人驾驶。&lt;br /&gt;&lt;br /&gt;我预估至少 10 年内完全自动驾驶不会有，现在基本的辅助驾驶就很足够了，定速巡航，车道保持和自动变道（这些我开的油车都有）。</description><pubDate>Tue, 20 Aug 2024 16:15:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066577#reply0</guid></item><item><title>[天黑以后] 20240821 午夜俱乐部</title><link>https://www.v2ex.com/t/1066575#reply0</link><description>我说 GPT 今天智力为什么这么高, &lt;br /&gt;    原来是传错参数一直用的 GPT-4 Turbo&lt;br /&gt;    &lt;br /&gt;    我的 token 啊啊啊啊啊啊啊啊啊啊啊啊啊</description><pubDate>Tue, 20 Aug 2024 16:07:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066575#reply0</guid></item><item><title>[推广] [推广]新浪旗下华盛证券(港股美股)，有港卡美卡的进来领￥ 1342.00 HKD 现金</title><link>https://www.v2ex.com/t/1066574#reply1</link><description>&lt;blockquote&gt;
-&lt;p&gt;已查询《&lt;a href="https://www.sfc.hk/TC/Regulatory-functions/Intermediaries/Licensing/Register-of-licensed-persons-and-registered-institutions" rel="nofollow"&gt;持牌人及註冊機構的公眾紀錄冊&lt;/a&gt;》，华盛通归属華盛資本証券有限公司，&lt;strong&gt;期货金融牌照编号 AUL711&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4&gt;0x00 &lt;strong&gt;华盛通&lt;/strong&gt;开户链接： &lt;a href="https://www.hstbroker.com/kh/apply/online?_scnl=PPVB" rel="nofollow"&gt;https://www.hstbroker.com/kh/apply/online?_scnl=PPVB&lt;/a&gt;&lt;/h4&gt;
-&lt;h4&gt;特约渠道邀请码：PPVB&lt;/h4&gt;
-&lt;p&gt;​	&lt;strong&gt;注意&lt;/strong&gt;：注册后下载华盛通 app ，在“我的”页面填写邀请码“PPVB”。不填邀请码将无法获得以下奖励，官方渠道活动仅支持港澳台居民。&lt;/p&gt;
-&lt;h4&gt;0x01 华盛通渠道合作福利，前置条件：&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1 、有 2024-02-29 之前的非中国内地银行/券商账单或存量证明 或你当前网络+定位在香港&lt;/p&gt;
-&lt;p&gt;2 、持有内地或香港身份证&lt;/p&gt;
-&lt;p&gt;3 、&lt;strong&gt;一次性&lt;/strong&gt;入金≥10000HKD ，&lt;strong&gt;保持 30 日无出金&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4&gt;0x02 羊毛奖励&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1 、渠道奖励：&lt;strong&gt;一次性&lt;/strong&gt;入金 10000HKD 立刻奖励：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;可口可乐股票 x 1 (代码 KO ，时价$69≈&lt;strong&gt;538HKD&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;5 美元股票卡 x 5 （去除交易手续费后可以套现$15≈&lt;strong&gt;116HKD&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;180 日美股免佣卡、300 股申购优惠券（这个没啥用，除非你真炒股）  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;2 、渠道奖励：入金 10000HKD 后&lt;strong&gt;保持 30 日无出金行为, 且月均≥10000HKD&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;300HKD&lt;/strong&gt; 交易现金券(可自行套现)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;联系我提交华盛号&lt;/strong&gt;, 为你登记双人成行活动, 额外领取&lt;strong&gt;200HKD&lt;/strong&gt;奖励&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;3 、常规奖励：交易连续赏&lt;/p&gt;
-&lt;p&gt;​	交易 10~15 笔奖励 100 ，16~30 笔奖励 200 ，交易 31 笔以上奖励 500&lt;/p&gt;
-&lt;p&gt;4 、&lt;strong&gt;渠道补贴&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;​	&lt;strong&gt;这是单独谈下来的券商，完成入金 1w 并且 30 日无出金行为的，我这边个人补贴额外 188HKD （主打一个全网最高），可以直接香港 FPS/内地支付宝微信转给你&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4&gt;0x03 &lt;strong&gt;注意事项：&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;1 、华盛通的 IT 问题，大图会压缩到看不清；在手机打开直接截图上面带有日期、账号、地址的部分即可，不用整个全部上传！&lt;/p&gt;
-&lt;p&gt;2 、必须走本帖链接注册，必须在 app 填写邀请码“PPVB”, 否则视为官方渠道开户(只有港澳台居民有奖励)&lt;/p&gt;
-&lt;p&gt;3 、注册完成后记着华盛号（或在 华盛通 app-我的 上面也能看到），&lt;strong&gt;把华盛号发给我确认关联关系&lt;/strong&gt;，入金后&lt;strong&gt;再次&lt;/strong&gt;告知来为您登记双人成行。&lt;/p&gt;
-&lt;p&gt;4 、入金时间达到 30 日无出金行为后&lt;strong&gt;再次&lt;/strong&gt;联系我登记个人补贴&lt;/p&gt;
-&lt;h4&gt;0x04 总结：&lt;/h4&gt;
-&lt;p&gt;总收益：538HKD + 116HKD + 300HKD + 200HKD + 188HKD ≈ &lt;strong&gt;1342HKD&lt;/strong&gt;
-占用资金 10000HKD 一个月，月化收益率约&lt;strong&gt;13.42%&lt;strong&gt;，年化收益率约&lt;/strong&gt;161.04%&lt;/strong&gt;&lt;/p&gt;
-&lt;h4&gt;0x05 联系方式：&lt;/h4&gt;
-&lt;p&gt;1 、TG：&lt;a href="https://t.me/NewBilibiliVVV" rel="nofollow"&gt;@NewBilibiliVVV&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;2 、邮箱：&lt;a href="https://www.v2ex.com/i@dist.zip" rel="nofollow"&gt;i@dist.zip&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;两个都是我的活跃联系方式，有问题可以联系。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;港股佣金 0.03%，最低 3 港币/笔;平台费 15 港币/笔
-美股佣金 0.0049 美元/股，最低 0.99 美元/笔，平台费 0.005 美元/股，最低 1 美元/笔
-A 股通佣金 0.03%，最低 3 元/笔，平台费 15 元/笔
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;本帖不形成投资建议，仅作为平台推荐，请理性投资！&lt;/h3&gt;
-&lt;p&gt;查看华盛号和填写邀请码的方法：&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/v10EeyJ.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 15:49:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066574#reply1</guid></item><item><title>[问与答] 电脑风扇可以摸吗</title><link>https://www.v2ex.com/t/1066572#reply6</link><description>&lt;p&gt;很久没关注 DIY 了，这段时间看几个 B 站装机的 UP 主安装前都喜欢把机箱风扇或者显卡风扇都用手指撩一遍转起来。  &lt;/p&gt;
-&lt;p&gt;以前看到个说法是尽量不要去触碰避免外力造成风扇动平衡被破坏（原话差不多这个意思，出处不记得了），所以我一直是把它们当作精密仪器看待，一直以来，对待机箱风扇，显卡风扇或者 CPU 风扇清理的时候也是尽量用吹或者毛刷轻轻拂过灰尘。所以有点不理解为啥要这么操作。  &lt;/p&gt;
-&lt;p&gt;不知道是我以前看到的说法有误，还是现在风扇轴承技术进化了可以这么玩不会影响动平衡。&lt;/p&gt;
-&lt;p&gt;搜索了一番没有找到答案。有没有懂的兄弟可以解释下？&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 15:45:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066572#reply6</guid></item><item><title>[微信] 双开微信的坛友们，你们双开微信是因为什么呢？在犹豫要不要双开，想多找一些参考。</title><link>https://www.v2ex.com/t/1066571#reply2</link><description>一般来说，双开/多开微信就是为了把工作和生活分开。那么为什么要分开呢？&lt;br /&gt;因为喜欢发朋友圈，但是不想给领导看，怕权限不小心设置错了？&lt;br /&gt;因为公司用微信办公，建一堆群压力很大？&lt;br /&gt;因为作为律师/销售/教师/……等职业，会加很多很多人，所以需要把熟悉的人专门用一个微信管理？&lt;br /&gt;因为不想让公司单位要求的文章点赞转发到朋友圈污染自己的朋友圈？&lt;br /&gt;&lt;br /&gt;我感觉上面几点我都不是很需要，反倒是双开的缺点更阻止我。&lt;br /&gt;1. 两个账户都需要接钱收钱，相当于多了一个微信钱包，增加了管理难度。更何况我还用记账软件记账呢，多一个账户就多一点麻烦。&lt;br /&gt;2. 在 Mac 上登录两个微信的话，每天都要重新扫码登录一次，不像只有一个微信的时候 Mac 上的微信只要不关机就能一直挂着。&lt;br /&gt;3. 工作和生活的界限往往不是那么明确，总有点模糊。例如，公司如果有篮球/羽毛球/乒乓球群，那就得用工作微信加。而且，如果有的同事以后变成了朋友关系，那么就得从二号微信转移到一号微信，得再加一遍好友。他会怎么想？聊天记录不在一起，怎么弄？以后想回顾、想搜索岂不是都比较麻烦。&lt;br /&gt;4. 因为我主力机是 iPhone ，只能开一个微信，所以如果有的时候只带 iPhone 出门的话，安卓机上的微信消息我就看不到了。&lt;br /&gt;&lt;br /&gt;但是吧，是否要双开微信就必须得提前规划，等工作以后真加了几个同事了，再想拆分成两个微信就麻烦了。所以想问下坛友，你们如果双开微信的话是因为什么呢？觉得是否满意？没双开的是否后悔把同事亲戚朋友混在一起了？</description><pubDate>Tue, 20 Aug 2024 15:38:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066571#reply2</guid></item><item><title>[问与答] 某宝上 那些苹果 MacBook Pro 员工优惠是真的吗？会不会收到的是官翻？</title><link>https://www.v2ex.com/t/1066570#reply2</link><description>&lt;p&gt;我看到他们页面写着， 是他们那边下单，然后发链接我付款，  我担心 会不会 他们偷偷下单 官翻产品&lt;/p&gt;
-&lt;p&gt;我有办法分辨 收到的是全新产品，还官翻产品吗 &lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 15:32:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066570#reply2</guid></item><item><title>[宽带症候群] BT 用户，这几天一直和 pcdn 斗智斗勇。烦死了</title><link>https://www.v2ex.com/t/1066569#reply3</link><description>&lt;p&gt;普通 BT 用户，一般就用 BT 下下影视剧动画资源啥的。不玩 PT 。
-几个月前出差，在外地下载的时候一直被吸上传，刚开始还以为这里 p2p 连通性好所以连的人多，后来才发现是 pcdn 在吸血。当时正好是那个臭名昭著的 taipei torrent 客户端肆虐的时期，于是就网上抄了个 IP 黑名单文档导进下载器里，给屏蔽掉了。&lt;/p&gt;
-&lt;p&gt;结果上周又开始被 pcdn 吸血，一度被吸到 15MB/S 的上传。这次 pcdn 主要是显示为两个客户端，一个是 gopeed dev ，一个是比特彗星。其中伪造比特彗星的那个甚至连下载进度都能伪造，随着它的吸血，他的下载进度也是一直在涨的，然后涨到一定数值大概 95%左右就会短暂断连，然后过几秒同一个 IP 重新连上来，这次下载进度又掉到 0 然后重新开始涨。如果不注意的话很容易误把他当作正常的 BT 客户端。&lt;/p&gt;
-&lt;p&gt;而且这次遇到的吸血的 IP 都特别多，换的极其频繁，一个一个上，第一次遇上两三个 IP ，手动写进黑名单里屏蔽了，五分钟后又有两三个新 IP 连进来吸血，怎么都屏蔽不完。这两天总共算下来得手写了三四十个 IP 在黑名单里，烦死了&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 15:11:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066569#reply3</guid></item><item><title>[问与答] qb 还能用吗？</title><link>https://www.v2ex.com/t/1066568#reply1</link><description>&lt;p&gt;最近下载一些热门电影之类的都基本没人做种，还是说我的打开方式不对？&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 15:10:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066568#reply1</guid></item><item><title>[程序员] 为什么 pve 内所有的虚拟机都不展示状态了....</title><link>https://www.v2ex.com/t/1066567#reply2</link><description>&lt;p&gt;如图所示，pve 运行了一段时间后，web 端的控制面板的图标就会成问号，名称也不展示了，但是服务还是在正常运行的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-20240820225459282" class="embedded_image" rel="noreferrer" src="https://resource.kaisir.cn/uploads/MarkDownImg/20240820/tViIlH.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 14:57:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066567#reply2</guid></item><item><title>[宽带症候群] 宁波连新加坡，办哪家宽带好？电信直连 ping300 多</title><link>https://www.v2ex.com/t/1066566#reply9</link><description>&lt;p&gt;移动和联通会给公网 ip 吗现在。
-电信有 v4 和 v6 公网，但是出国好像都说不行，也不能花钱买那个加速包了现在。&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 14:47:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066566#reply9</guid></item><item><title>[问与答] [求助] 如何加速下载“安娜的档案”的方法，目前免费通道用 sonicbit.net 能稳定下载但是很慢。</title><link>https://www.v2ex.com/t/1066565#reply0</link><description>&lt;p&gt;由于是免费通道，下载速度比较慢，有时候下载 500MB/本的资料书籍，需要很长时间约 2-3 个小时。&lt;br /&gt;
-目前是把下载链接放进 &lt;a href="http://sonicbit.net" rel="nofollow"&gt;sonicbit.net&lt;/a&gt; 里用 Http 离线下载的方式下载，由于使用翻 x 后浏览器去下载很容易网络错误导致下载失败，咨询大家：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;有无好的方法快速或稳定下载此站书籍？&lt;/li&gt;
-&lt;li&gt;有无其他能离线 Http 下载的网站？试了 pCloud 离线链接提交后很长时间没有动作。&lt;/li&gt;
-&lt;li&gt;如果自己在 VPS 搭建下载工具，推荐哪一款好一些？&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Tue, 20 Aug 2024 14:47:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066565#reply0</guid></item><item><title>[问与答] Mac 用 type c 连接显示器，经常断连</title><link>https://www.v2ex.com/t/1066564#reply1</link><description>&lt;p&gt;用的 m1 pro 的 mbp 电脑，使用 type c 带反向充电连接显示器，期间比较频繁的会断连。&lt;/p&gt;
-&lt;p&gt;断连指的是：突然一下子显示器屏幕黑掉了，mbp 屏幕正常，原本显示器显示的内容移到电脑屏幕上（相当于拔掉了连线的样子），一般情况下持续一两秒就自动恢复正常，偶尔需要我敲两下键盘才能恢复。我个人感觉其实并没有完全断开，因为我看 bar 栏的电池那一项显示的是在充电的。&lt;/p&gt;
-&lt;p&gt;我试过两台显示器、两根连线，都出现了这样的情况，不过没有试过换一个 mbp 上的 typec 口。&lt;/p&gt;
-&lt;p&gt;有人遇到过这样的问题吗？或者能否给一点关键字？我去了解了解&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 14:45:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066564#reply1</guid></item><item><title>[Java] 分布式事务到是什么</title><link>https://www.v2ex.com/t/1066563#reply6</link><description>&lt;p&gt;今天面试了一家外包公司，被问到分布式事务场景，我回答系统对接和微服务应用之间业务数据同步，直接被面试官打断结束面试了，想问下大家分布式事务是什么？&lt;/p&gt;</description><pubDate>Tue, 20 Aug 2024 14:44:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066563#reply6</guid></item><item><title>[酷工作] [广州-三七互娱-社招] 高级移动开发工程师、高级运维开发工程师</title><link>https://www.v2ex.com/t/1066562#reply0</link><description>高级移动开发工程师&lt;br /&gt;&lt;br /&gt;链接： &lt;a href="https://neitui.italent.cn/37wan/sharejobs/detail?shareId=72db657d-6a54-459c-af9d-f3eb7d3a5811&amp;amp;language=zh_CN" rel="nofollow noopener" target="_blank"&gt;https://neitui.italent.cn/37wan/sharejobs/detail?shareId=72db657d-6a54-459c-af9d-f3eb7d3a5811&amp;amp;language=zh_CN&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;工作职责&lt;br /&gt;&lt;br /&gt;1. 完成基于 Android/IOS 平台项目的需求，如：SDK 等&lt;br /&gt;2. 负责移动客户端架构设计及技术攻坚工作；&lt;br /&gt;3. 优化调整改善团队内外工作流程，提高团队能效；&lt;br /&gt;4. 沉淀端上技术，做好端上新技术储备，支持业务变化，如：Gradle/插件/性能等。&lt;br /&gt;任职资格&lt;br /&gt;&lt;br /&gt;1. 本科及以上学历，计算机、通信相关专业；&lt;br /&gt;2. 3-5 年以上移动开发经验，可以独立承担模块编码工作；&lt;br /&gt;3. 较强的代码阅读能力，代码风格良好，有一定源码阅读经验；&lt;br /&gt;4. 沟通协作能力强、善于总结，责任感强；&lt;br /&gt;5. 有引擎(如：Unity 等)类，简单前端/后端技术栈经验优先；&lt;br /&gt;6. 具备数据分析能力，有良好的数据敏感性和业务价值判断能力者优先。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;===============================================================&lt;br /&gt;高级运维开发工程师&lt;br /&gt;&lt;br /&gt;链接： &lt;a href="https://neitui.italent.cn/37wan/sharejobs/detail?shareId=1ca1b90b-aee8-4347-b523-0c662ebe04d8&amp;amp;language=zh_CN" rel="nofollow noopener" target="_blank"&gt;https://neitui.italent.cn/37wan/sharejobs/detail?shareId=1ca1b90b-aee8-4347-b523-0c662ebe04d8&amp;amp;language=zh_CN&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;工作职责&lt;br /&gt;&lt;br /&gt;1. 负责运维平台开发；不限于：CMDB 、监控系统、域名证书、多云管理系统、日志系统等&lt;br /&gt;2. 为运维工程师提效，推动提高运维的工具化、自动化建设&lt;br /&gt;3. 对现有运维系统产品优化，不断完善运维系统的功能性和易用性&lt;br /&gt;任职资格&lt;br /&gt;&lt;br /&gt;1. 掌握 Python 、Golang 至少一种后端开发语言，针对具体的业务场景具备快速设计和实现能力，有开源项目实践经验更佳&lt;br /&gt;2. 熟悉 Vue 、React 等主流前端框架中的一种，能够独立完成前后端分离项目的开发&lt;br /&gt;3. 有良好的产品思维，具备从用户视角解决运维自动化问题的能力</description><pubDate>Tue, 20 Aug 2024 14:40:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066562#reply0</guid></item><item><title>[macOS] macos 右键增强软件 SwiftyMenu</title><link>https://www.v2ex.com/t/1066561#reply0</link><description>&lt;p&gt;之前用 OpenInTerminal, 但体验比起 商店里的 MouseBoost 差距有点大.&lt;/p&gt;
-&lt;p&gt;今天在 B 站发现开源项目 &lt;a href="https://github.com/wflixu/RClick" rel="nofollow"&gt;RClick&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;12.7 用不了, 但意外发现了相似软件里的 &lt;a href="https://github.com/lexrus/SwiftyMenu" rel="nofollow"&gt;SwiftyMenu&lt;/a&gt; 格外好用.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;添加 shell 脚本方便, OpenInTerminal 只能添加 app, 必须先把脚本打包成 app&lt;/li&gt;
-&lt;li&gt;更改图标方便, Automator 打包脚本总是恢复默认图标&lt;/li&gt;
-&lt;li&gt;设置界面非常流畅, OpenInTerminal 卡得不行&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;相似软件: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/wflixu/RClick" rel="nofollow"&gt;https://github.com/wflixu/RClick&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/RoadToDream/SzContext" rel="nofollow"&gt;https://github.com/RoadToDream/SzContext&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Kyle-Ye/MenuHelper" rel="nofollow"&gt;https://github.com/Kyle-Ye/MenuHelper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/lexrus/SwiftyMenu" rel="nofollow"&gt;https://github.com/lexrus/SwiftyMenu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/Ji4n1ng/OpenInTerminal" rel="nofollow"&gt;https://github.com/Ji4n1ng/OpenInTerminal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 20 Aug 2024 14:36:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066561#reply0</guid></item><item><title>[宽带症候群] 广电除了本地，还有外地使用比较流畅的地方吗？</title><link>https://www.v2ex.com/t/1066560#reply1</link><description></description><pubDate>Tue, 20 Aug 2024 14:28:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066560#reply1</guid></item><item><title>[程序员] 大家有推荐的 Youtube 程序员博主吗？</title><link>https://www.v2ex.com/t/1066559#reply3</link><description>找到了一位美女小姐姐博主 感觉还不错 &lt;a href="https://www.youtube.com/@schelley" rel="nofollow noopener" target="_blank"&gt;https://www.youtube.com/@schelley&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;还想关注更多点的，如果有的话，请帖一下哈，感谢 💐</description><pubDate>Tue, 20 Aug 2024 14:27:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066559#reply3</guid></item><item><title>[问与答] [求助] 一个能对一段文字添加 ASCII 边框，并能让文字在边框内居中的工具或脚本</title><link>https://www.v2ex.com/t/1066557#reply0</link><description>&lt;p&gt;[求助] 一个能对一段文字添加 ASCII 边框，并能让文字在边框内居中的工具或脚本，需求如下：  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;实例文字：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;计算机网络通信教程&lt;br /&gt;
-第三版&lt;br /&gt;
-作者&lt;br /&gt;
-机械工业出版社  &lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;功能要求:&lt;br /&gt;
-a. 在文字外围生成一个边框，边框内的文字居中显示；&lt;br /&gt;
-b. 文字与边框之间的空间用空格填充，且空格不会因为不同网站而缩放导致边框错位；&lt;br /&gt;
-c. 可指定边框样式；&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Tue, 20 Aug 2024 14:13:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066557#reply0</guid></item></channel></rss>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Wed, 21 Aug 2024 02:14:51 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 大家有没有推荐的 Java 后端，和一些其他分享的油管技术博主</title><link>https://www.v2ex.com/t/1066640#reply0</link><description></description><pubDate>Wed, 21 Aug 2024 02:10:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066640#reply0</guid></item><item><title>[Apple] 买了一个 ipad10,求推荐好用的配件</title><link>https://www.v2ex.com/t/1066639#reply0</link><description>&lt;p&gt;主要学习阅读用，pdd 买了华强北的笔，不知道还有没有其他必备好物，求各位推荐&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 02:07:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066639#reply0</guid></item><item><title>[问与答] 北京的软考报名需要居住证吗？</title><link>https://www.v2ex.com/t/1066637#reply0</link><description></description><pubDate>Wed, 21 Aug 2024 02:06:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066637#reply0</guid></item><item><title>[问与答] 大家的博客都托管在哪里？</title><link>https://www.v2ex.com/t/1066635#reply3</link><description>&lt;p&gt;两三年前从 GitHub Pages 迁移到了 Vercel ，最近发现后者也被墙了。&lt;/p&gt;
+&lt;p&gt;大家都托管在哪里？&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 02:02:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066635#reply3</guid></item><item><title>[程序员] 现在让大模型去处理屎山代码会有技术难度吗</title><link>https://www.v2ex.com/t/1066634#reply0</link><description>&lt;p&gt;现在还没有哪个模型能支持把整个项目工程的文件扔进去处理的，但是过几年会不会就能出这样的功能，几十几百万行的代码都不用去人工重构，模型就全给搞定了&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 02:02:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066634#reply0</guid></item><item><title>[Android] 闲置 Android 自动接听视频电话方法</title><link>https://www.v2ex.com/t/1066631#reply0</link><description>命令: adb shell input keyevent KEYCODE_HEADSETHOOK&lt;br /&gt;自动化流程:使用三方 app(如 smsforwarder)检测来电状态, 通过 webhook 调用此 adb 命令&lt;br /&gt;已 root 用户: 跑个 python 脚本, http 转 shell 命令.&lt;br /&gt;未 root 用户: 借助三方服务器, 通过 usb 或 tcp 连接 adb, 跑个 python 脚本, http 转 adb 命令.</description><pubDate>Wed, 21 Aug 2024 02:00:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066631#reply0</guid></item><item><title>[macOS] 突然发现 Mac 如果通过 USB 连接热点就没法走代理</title><link>https://www.v2ex.com/t/1066630#reply0</link><description>&lt;p&gt;个人热点通过 Wi-Fi 连接的时候可以在高级设置里设置本地代理，但是如果通过 USB 连接就没有这个选项。我在 iPhone 上用的小火箭也不知道怎么把代理共享给 Mac 。&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 02:00:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066630#reply0</guid></item><item><title>[Chrome] 我的 chrome 老闪退 也查不出什么原因，糟心</title><link>https://www.v2ex.com/t/1066629#reply2</link><description>&lt;p&gt;大家有没有遇到过这种事，求教啊&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:56:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066629#reply2</guid></item><item><title>[问与答] Anna's Archive 如何下载所有书籍？</title><link>https://www.v2ex.com/t/1066628#reply0</link><description>&lt;p&gt;如题，这可能实现吗。谢谢~&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:55:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066628#reply0</guid></item><item><title>[问与答] golang 有没有好用的 decode qrcode</title><link>https://www.v2ex.com/t/1066627#reply0</link><description>&lt;p&gt;试过很多 lib 对于比较长链接的 qrcode 解析不全&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066627#reply0</guid></item><item><title>[iPhone] iPhone 偶尔 Wi-Fi 密码不匹配</title><link>https://www.v2ex.com/t/1066626#reply0</link><description>&lt;p&gt;进入 Wi-Fi 信号覆盖区域发现没有自动连接，进入设置手动选择 Wi-Fi 提示密码不正确，其他人都正常连着。遇到几次后发现, 遇到这类问题时 30%重启 iPhone 可解决，70%重启路由器可解决。iPhone 设置的地区是 US, 路由器使用 WPA3 纯 5GHz 。
+家用路由器、单位都遇到过此类问题，问题大概出在哪里呢?&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:49:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066626#reply0</guid></item><item><title>[分享创造] 用 CloudFlare 的 workers 管理多个订阅链接</title><link>https://www.v2ex.com/t/1066624#reply1</link><description>&lt;h2&gt;项目地址&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/bestruirui/Cf_Workers_Subs" rel="nofollow"&gt;bestruirui/Cf_Workers_Subs&lt;/a&gt;
+求⭐&lt;/p&gt;
+&lt;h2&gt;功能&lt;/h2&gt;
+&lt;p&gt;在线增加删除订阅，并将多个订阅合并为一个订阅&lt;/p&gt;
+&lt;h2&gt;预览&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;登录&lt;/th&gt;
+&lt;th&gt;首页&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img alt="登录" class="embedded_image" rel="noreferrer" src="https://img.picui.cn/free/2024/08/20/66c47bd7a4f74.png" /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img alt="首页" class="embedded_image" rel="noreferrer" src="https://img.picui.cn/free/2024/08/20/66c47bd7c5ff6.png" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</description><pubDate>Wed, 21 Aug 2024 01:46:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066624#reply1</guid></item><item><title>[游戏] 希望有一天 普天同庆的是一款国产游戏引擎</title><link>https://www.v2ex.com/t/1066623#reply2</link><description>&lt;p&gt;如果有 希望存在社区版:D&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:46:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066623#reply2</guid></item><item><title>[问与答] 新手求相机推荐，预算 1W 左右，上限 1W5</title><link>https://www.v2ex.com/t/1066622#reply8</link><description>&lt;p&gt;已有 pocket 3 。
+想买个相机拍照片，求各位大佬推荐。&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:44:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066622#reply8</guid></item><item><title>[问与答] aps 类的软件，一般是如何实现工作日历的，就是某个时间段不排任务</title><link>https://www.v2ex.com/t/1066621#reply0</link><description></description><pubDate>Wed, 21 Aug 2024 01:42:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066621#reply0</guid></item><item><title>[程序员] 昨天跟我合租室友打篮球，他跟我说千万别去用友工作</title><link>https://www.v2ex.com/t/1066620#reply11</link><description>&lt;p&gt;昨天跟我合租室友打篮球，是个后端开发，他跟我说，千万别去用友工作。
+他是今年刚去入职的，说最近组织篮球赛。
+然后说为什么他知道要组织篮球赛，还是因为他一个早都从用友离职的前同事给他拉进了一个用友篮球微信群里才知道。
+我听了都蒙了，问他，别的地方没有通知？
+他说，用友有个自己的聊天软件，叫友空间，里面找了半天，毛都找不到。
+然后他说，这都不是事，可能是用友员工也觉得公司聊天工具不好用。
+进去微信群之后，群里有人说想报名的去明天篮球场选拔一下。到了篮球场，我室友不是刚入职的吗，谁也不认识，就在下面干站着看他们打半场那种接波的篮球，最后才打了一会儿。
+接着神奇的来了，我室友说，过了会儿群里来了消息，发了三个人名选拔了 3 个人。还绘声绘色的说，因为只有一个队，所以只能要 3 个人，合着剩下 12 个都是内定的。&lt;/p&gt;
+&lt;p&gt;再接着他说，这都不是最奇葩的。最奇葩的是过了几天发了个赛程表，他们组织有三个队，然后没有任何报名的途径，没有任何人通知。
+“连搞个篮球赛报名还得跟走后门一样。”我室友最后说，然后他接了一句。“千万别去用友工作”&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:42:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066620#reply11</guid></item><item><title>[iCloud] [help] 存储在我的 iPhone 文件夹（文件浏览，位置-我的 iPhone ）内的文件，如何实现自动同步到 icloud 云端？</title><link>https://www.v2ex.com/t/1066619#reply3</link><description>存储在我的 iphone 文件夹（文件-浏览，位置-我的 iphone ）内的文件，如何实现自动同步到 icloud 云端？&lt;br /&gt;&lt;br /&gt;如果无法实现自动同步 icloud ，有没有第三方文件管理（将我的 iphone 文件转移到第三方 app)自动同步到 icloud ？</description><pubDate>Wed, 21 Aug 2024 01:40:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066619#reply3</guid></item><item><title>[职场话题] 就在昨天晚上，惨遭职业生涯最大滑铁卢。。。</title><link>https://www.v2ex.com/t/1066618#reply46</link><description>&lt;p&gt;前段时间有个朋友找我帮忙做个私活，然后昨天晚上我搞了一些功能，还录了个演示视频，写了一大堆目前的问题和 api 啥的，已经快十二点了，发送完以后我就去准备洗澡睡觉了。&lt;/p&gt;
+&lt;p&gt;结果，十几分钟后，我公司的上级领导私信问我，是不是发错群了。我一看，才发现发公司大群里了!!! 顿时睡意全无，但是微信已经无法撤回了。&lt;/p&gt;
+&lt;p&gt;如果只发了文字，我觉得可能大部分同事也就看一下，看不懂。但是我还发了一个配套的演示视频。这一下大家都知道我在做私活了。&lt;/p&gt;
+&lt;p&gt;今天等领导找我谈话吧😭&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:38:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066618#reply46</guid></item><item><title>[Firefox] 突然间火狐浏览器每次进入要求输入密码怎么回事？</title><link>https://www.v2ex.com/t/1066617#reply1</link><description>&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://imgur.com/gHL4ipm.png" /&gt;&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:37:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066617#reply1</guid></item><item><title>[游戏] 黑悟空售出超过了 450 万份</title><link>https://www.v2ex.com/t/1066615#reply19</link><description>&lt;p&gt;8 月 21 日消息，根据国游畅销榜统计，
+截至目前，《黑神话：悟空》在 steam 上已售出超过 300 万份，
+加上 wegame 、epic 和 ps 平台，150 万份，目前总销量超过 450 万份&lt;/p&gt;
+&lt;p&gt;与此同时的山西旅游搜索热度较前日同一时段上涨 17%，
+其中朔州旅游搜索热度上涨 91%，晋城旅游搜索热度上涨 63%。
+一款游戏带火山西古建，山西文旅业这次真的是迎来泼天的富贵。&lt;/p&gt;
+&lt;p&gt;大家来猜猜看黑悟空最终售出能达到多少份？&lt;/p&gt;</description><pubDate>Wed, 21 Aug 2024 01:33:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1066615#reply19</guid></item></channel></rss>
