@@ -1,236 +1,315 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 22 Aug 2024 11:37:39 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 请问这种样式的架构图用什么工具能画出来？</title><link>https://www.v2ex.com/t/1067082#reply2</link><description>&lt;p&gt;&lt;a href="https://imgur.com/a/53PBfYV" rel="nofollow"&gt;https://imgur.com/a/53PBfYV&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 11:30:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067082#reply2</guid></item><item><title>[问与答] 迫于彩云天气越来越拉，求一个漂亮好用无广告的天气 App。</title><link>https://www.v2ex.com/t/1067081#reply2</link><description>我买了彩云天气好多年的会员，但是界面广告越来越多，越来越丑，loading 时间过长，小组件更新不及时，推送广告，反正一堆的问题，不打算忍了。&lt;br /&gt;所以想换一个体验更好的天气 App ，Android 的，可以接受付费，用的类原生 Android 系统自带的天气不好用，大家有什么推荐的吗？</description><pubDate>Thu, 22 Aug 2024 11:21:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067081#reply2</guid></item><item><title>[推广] AI 恶魔名字生成器</title><link>https://www.v2ex.com/t/1067080#reply1</link><description>&lt;p&gt;&lt;a href="https://demon-name-generator.com/" rel="nofollow"&gt;AI Demon Name Generator&lt;/a&gt;。&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 11:18:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067080#reply1</guid></item><item><title>[职场话题] 也是看 29 岁那个帖子有感</title><link>https://www.v2ex.com/t/1067079#reply4</link><description>&lt;p&gt;发现自己情况有点类似，本来想回复的，索性直接开一帖，把一些话发出来也给自己解解压。&lt;/p&gt;
-&lt;p&gt;我今年也 28 了，之前在一家医疗行业做前端开发，其实还是挺不错的，后面因为各种原因（这里说一下一个是工资一直没涨，我在公司负责的内容越来越多。另一个是当时买的基金亏钱了亏了 20%左右大概 2w 多，直接影响了每天的心情）长时间下来我觉得我也抑郁了，反正就是每天一到公司内心就开始难受，就想离职。在 23 年年初过完年我直接裸辞了，当时我也知道行情不好，还是毅然选择裸辞。当时跟领导提出要辞职后心里一下就好受多了，感觉一块大石头落地那种感觉。&lt;/p&gt;
-&lt;p&gt;后面开始找工作，找了两个月没找到有点焦虑了，终于在 5 月份拿到了一份工作，薪资也有涨，技术栈从 vue 转到 react ，我觉得能胜任然后当时也不是很想继续再找了，就入职了。事实做下来技术这块也确实没问题，react 上手的很快。不过有个问题是做的事比较多，不是指开发，公司没有产品没有 ui ，原型图要前端去画，功能设计还要我自己去想，只有一个大纲。所以有点受不了，再加上买的基金没有及早抽身出来又亏了不少，还有下半年的时候我妈身体不好，去医院也花了不少钱做了不少次检查，最后也没查出具体问题（腹部痛腿痛这些，肠镜胃镜都做了也没查出问题），最后在新冠病毒变异时我中招了，身体上很难受再加上心里上的长期压抑，导致我又一次冲动离职。回到公司第二天我就跟领导提了。&lt;/p&gt;
-&lt;p&gt;之后本来打算尽快找到工作的，然后找了两个月没什么回复，就索性懒得找了，准备躺平。
-人一闲下来就容易胡思乱想，就觉得看不到希望，在大城市房子也买不起，女朋友也没有。没人可以倾诉，不跟父母倾诉也是不想让他们担心。有时候真的就觉得活得好没意思，好痛苦。&lt;/p&gt;
-&lt;p&gt;8 月初我注销了基金账户，简单收拾了下行李来合肥找工作（离家近，芜湖），投了两个星期吧，拿了 3 个 offer ，拒掉其中一个，选择了一家小公司，部门是初创的 2 前端 2 后端。入职一周的时候 hr 交社保的时候被告知社保是代缴的（什么人力资源公司），因为公司注册地不在合肥，这个是之前沟通时没跟提过，唉不过我自己也没问。然后我正好打算申请合肥的住房补贴（一个月 1250 ），结果这样我就不能申请了。于是我找了之前的一个 offer ，讯飞外包，准备去干着看看。这里也是非常冲动，没怎么考虑。
-去了外包后发现内网开发真受不了，办公电脑配置也差的要死 8g 内存。
-我当天就不干了，然后我又想回原来那家，但被 hr 告知离职公司规定离职后不得再入职了，其实我也是厚着脸皮了，正常人肯定不会再去找原单位了
-也是自从第一次离职后，感觉我越来越容易冲动离职了。第一次离职我犹豫了半年。
-现在的情况是合肥这边岗位少的可怜，能投的基本都被投过了。
-唉大好的机会给我却被我浪费了。
-后续也不知道怎么办了，有想过要么回上海继续找。&lt;/p&gt;
-&lt;p&gt;说出来后感觉轻松了一点，今天一天心情真的超压抑&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 11:12:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067079#reply4</guid></item><item><title>[Go 编程语言] 各位大佬，请教一个 golang 多线程的阻塞问题</title><link>https://www.v2ex.com/t/1067078#reply2</link><description>&lt;p&gt;编程小白，在写一个多线程目录文件遍历的时候，出现了阻塞问题，求教各位大佬~&lt;/p&gt;
-&lt;p&gt;通过增大 var taskChan = make(chan string, 1000)，chan 缓冲区为 100 万的时候程序不会阻塞&lt;/p&gt;
-&lt;p&gt;但是我通过打印日志发现 taskChan 占用很小，只有十几，而且存在通道写入失败的情况&lt;/p&gt;
-&lt;p&gt;taskChan 的缓冲区为 1000 时，阻塞的日志如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;[DEBUG]:增加目录，增加 wg, [1802], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1842], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1843], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1844], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1801], taskChan = [5]
-[DEBUG]:任务完成，减小 wg, [1798], taskChan = [1]
-[DEBUG]:任务完成，减小 wg, [1797], taskChan = [17]
-[DEBUG]:任务完成，减小 wg, [1816], taskChan = [4]
-[DEBUG]:增加目录，增加 wg, [1803], taskChan = [1]
-[DEBUG]:任务完成，减小 wg, [1843], taskChan = [1]
-[DEBUG]:任务完成，减小 wg, [1797], taskChan = [21]
-[DEBUG]:任务完成，减小 wg, [1841], taskChan = [24]
-[DEBUG]:增加目录，增加 wg, [1841], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1841], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1841], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1841], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1840], taskChan = [6]
-[DEBUG]:任务完成，减小 wg, [1798], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1840], taskChan = [13]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1840], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1841], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1842], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1842], taskChan = [2]
-[DEBUG]:增加目录，增加 wg, [1842], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [1843], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1844], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1845], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1846], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1847], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1848], taskChan = [0]
-[ERROR]:写入通道失败...
-[DEBUG]:增加目录，增加 wg, [1849], taskChan = [0]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果把 taskChan 的缓冲区为 100 万的时候，程序可以正常退出，日志如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-shell"&gt;[DEBUG]:增加目录，增加 wg, [2], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [3], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [4], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [3], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [3], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [3], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [4], taskChan = [0]
-[DEBUG]:增加目录，增加 wg, [2], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [2], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [2], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [1], taskChan = [0]
-[DEBUG]:任务完成，减小 wg, [0], taskChan = [0]
-[INFO]:目录扫描完毕
-[DEBUG]:func GetAllFilePath end
-[DEBUG]:func StartScan end
-[DEBUG]:func btnStartScanOnclick end
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;代码如下：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-go"&gt;package core
-
-import (
-	"DopliGo/logs"
-	"github.com/panjf2000/ants/v2"
-	"os"
-	"path/filepath"
-	"sync"
-	"sync/atomic"
-)
-
-func GetAllFilePath(rootPath string) {
-	//logs.IsLogDebug = false
-	logs.Debug("func GetAllFilePath start")
-	// 创建任务通道和结果通道
-	var taskChan = make(chan string, 1000000)
-	var resultChan = make(chan string, 1000000)
-	var wg sync.WaitGroup
-	var counter int64 = 0
-
-	// 创建生产者 goroutine 池
-	producerPool, _ := ants.NewPoolWithFunc(16, func(i interface{}) {
-		produceTasks(i.(string), taskChan, resultChan, &amp;amp;counter, &amp;amp;wg)
-	})
-
-	logs.Debug("cap:%d", producerPool.Cap())
-	defer producerPool.Release()
-
-	taskChan &amp;lt;- rootPath
-	wg.Add(1) // 这里增加计数器
-	atomic.AddInt64(&amp;amp;counter, 1)
-	logs.Debug("任务开始，增加 wg, [%d], taskChan = [%d]", atomic.LoadInt64(&amp;amp;counter), len(resultChan))
-
-	// 启动生产者
-	go func() {
-		//defer logs.Debug("生产者退出")
-		for task := range taskChan {
-			err := producerPool.Invoke(task)
-			if err != nil {
-				logs.Error("failed to producerPool Invoke, err: %s", err)
-				return
-			}
-		}
-	}()
-
-	// 启动结果处理 goroutine
-	go func() {
-		//defer logs.Debug("消费者退出")
-		for result := range resultChan {
-			_ = result
-		}
-	}()
-
-	// 等待所有任务完成
-	wg.Wait()
-	close(resultChan)
-	close(taskChan)
-	logs.Info("目录扫描完毕")
-	logs.Debug("func GetAllFilePath end")
-}
-
-func produceTasks(rootPath string, taskChan chan string, resultChan chan string, counter *int64, wg *sync.WaitGroup) {
-	defer wg.Done() // 确保每次 produceTasks 完成时，调用 Done
-	//	logs.Debug("func produceTasks start")
-
-	entries, err := os.ReadDir(rootPath)
-	if err != nil {
-		logs.Error("failed to read dir: %s , err: %s", rootPath, err)
-		return
-	}
-
-	for _, entry := range entries {
-		path := filepath.Join(rootPath, entry.Name())
-		if entry.IsDir() {
-			wg.Add(1)
-			atomic.AddInt64(counter, 1)
-			select {
-			case taskChan &amp;lt;- path:
-				// 发送成功
-			default:
-				// 发送失败，通道已满
-				logs.Error("写入通道失败...")
-			}
-			logs.Debug("增加目录，增加 wg, [%d], taskChan = [%d]", atomic.LoadInt64(counter), len(resultChan))
-		} else {
-			resultChan &amp;lt;- path
-		}
-	}
-
-	atomic.AddInt64(counter, -1)
-	logs.Debug("任务完成，减小 wg, [%d], taskChan = [%d]", atomic.LoadInt64(counter), len(resultChan))
-	//logs.Debug("func produceTasks end")
-}
-
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 22 Aug 2024 10:49:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067078#reply2</guid></item><item><title>[问与答] 请教一个场景怎么搭建服务</title><link>https://www.v2ex.com/t/1067077#reply2</link><description>&lt;ol&gt;
-&lt;li&gt;有一个 tcp 服务，连接成千上万的设备&lt;/li&gt;
-&lt;li&gt;有一个 websocket 服务，连接用户端 如 web ，小程序，app 等&lt;/li&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 23 Aug 2024 04:28:26 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Android] 移动超级 sim 卡绑了多张卡，使用的时候需要切换吗</title><link>https://www.v2ex.com/t/1067216#reply0</link><description>&lt;p&gt;比如我绑定了饭卡，门禁，公交，在对应场景刷卡的时候需要手动指定刷哪一种卡不？&lt;/p&gt;
+&lt;p&gt;求问在用的大佬 。
+当前用的手机自带的 nfc 钱包，是需要手动指定的，有点麻烦。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 04:15:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067216#reply0</guid></item><item><title>[NAS] 宁域 AMD 小主机 5800U es 芯片，稳定运行半年后突然就挂了</title><link>https://www.v2ex.com/t/1067215#reply0</link><description>&lt;p&gt;&lt;a href="https://wx1.sinaimg.cn/orj360/41301940gy1hsxodj1di6j23401r0qv5.jpg" rel="nofollow"&gt;https://wx1.sinaimg.cn/orj360/41301940gy1hsxodj1di6j23401r0qv5.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pve 系统，开机后不久就报这个错误。然后自动关机了，有知道是啥情况，或者排查思路的么？
+脑壳疼&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 04:05:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067215#reply0</guid></item><item><title>[宽带症候群] 灵异的事件再现， V2EX 可直接访问，但。。。</title><link>https://www.v2ex.com/t/1067214#reply4</link><description>&lt;ol&gt;
+&lt;li&gt;家宽；&lt;/li&gt;
+&lt;li&gt;商宽；&lt;/li&gt;
+&lt;li&gt;移动 4G 流量。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;用户发送的请求通过 websocket 通知给 tcp 到设备，下面 2 种方案怎么选择？&lt;/p&gt;
+&lt;p&gt;用 2 的时候，无法访问 V2EX,唯有魔法；&lt;/p&gt;
+&lt;p&gt;用 1 的时候，同一局域网内，同一外网 IP ，无线，笔记本电脑不可访问 V2EX ，用手机 WiFi 却可通畅无阻；&lt;/p&gt;
+&lt;p&gt;用 3 的时候，手机亦可通畅无阻访问 V2EX.&lt;/p&gt;
+&lt;p&gt;会不会是 IPv6 的原因？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 04:00:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067214#reply4</guid></item><item><title>[职场话题] 求推荐程序员英语视频</title><link>https://www.v2ex.com/t/1067213#reply2</link><description>最近一直在学英语，感觉到达了一种日常听力(B1)可以基本理解的程度。&lt;br /&gt;但是为了获得更好的工作机会，想为进入外企铺路，又担心说不出来中文所能表达出来的专业知识。&lt;br /&gt;&lt;br /&gt;所以想问问各位有没有什么相关视频，主要能让我掌握跟 java 专业性相关的词语和表达？顺便也提升我在这方面的知识。</description><pubDate>Fri, 23 Aug 2024 03:53:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067213#reply2</guid></item><item><title>[宽带症候群] 有无湖南长沙地区宽带交流群，想了解一下湖南宽带的情况</title><link>https://www.v2ex.com/t/1067212#reply0</link><description>非 PDCN ，弱电方面规划实施，有个人搞的也可以交流下。小公司，想找个技术好单干的朋友维护一下网络（线路整理、网络配置、三层交换）</description><pubDate>Fri, 23 Aug 2024 03:51:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067212#reply0</guid></item><item><title>[问与答] 如何开通个人版 ChatGPT plus, 人在国内</title><link>https://www.v2ex.com/t/1067210#reply3</link><description>&lt;p&gt;rt：
+本人有张招行的 visa 信用卡，支持外币。 是否可以拿来直接支付。
+或者考虑一些境外的虚拟支付卡，可以推荐一些靠谱的平台。&lt;/p&gt;
+&lt;p&gt;谢谢彦祖们。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:48:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067210#reply3</guid></item><item><title>[Android] 2024 年 8 月还有哪些可以简易刷机的安卓机型呢？</title><link>https://www.v2ex.com/t/1067209#reply3</link><description>以前是小米和一加，现在看来小米刷机不大行了。</description><pubDate>Fri, 23 Aug 2024 03:47:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067209#reply3</guid></item><item><title>[NAS] 求问有什么办法在 appletv 上播放 nas 里的视频不卡顿</title><link>https://www.v2ex.com/t/1067208#reply1</link><description>&lt;p&gt;现状：appletv 装了群晖相册，局域网地址登录 nas ，nas 里装了旅游时拍的一些视频，播放起来 3s 一卡，action4 和大疆无人机拍的视频播放起来都卡；
+分析：举例视频 1.7g 左右，时长 100s ，mp4 格式，理论上传输速度在 17mb/s 以上就够用，内网传输也是 100mb/s 以上，且 infuse 观看 nas 里的 4k 视频也没问题，研究了好久没有找到解决办法，求问有没有遇到相同情况的 V 友，以及有没有群晖相册的替代品，能看相册和视频就行；&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:37:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067208#reply1</guid></item><item><title>[程序员] 远程 mysql 数据库连接工具求推荐</title><link>https://www.v2ex.com/t/1067207#reply4</link><description>&lt;p&gt;除了 Navicat ，大家都用什么工具？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:31:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067207#reply4</guid></item><item><title>[职场话题] 字节&amp;多多 offer 帮选</title><link>https://www.v2ex.com/t/1067206#reply35</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;32 岁大龄程序员坐标成都，小孩今年入园。今年 5 月在老东家领了 6 个月的大礼包，目前 gap 了 3 个多月歇够了（&lt;del&gt;带娃太累太热遭不住了&lt;/del&gt;），目前拿了两个相对心仪的 offer ，方向跟我之前做的比较 match ，各位大佬帮忙给点建议。&lt;/p&gt;
+&lt;h2&gt;主要信息对比&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;成都字节跳动&lt;/th&gt;
+&lt;th&gt;上海拼多多&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;通勤&lt;/td&gt;
+&lt;td&gt;开车 15 分钟&lt;/td&gt;
+&lt;td&gt;公司附近租房走路 20 分钟&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;住房&lt;/td&gt;
+&lt;td&gt;自己家&lt;/td&gt;
+&lt;td&gt;自如租个主卧 4000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;吃饭&lt;/td&gt;
+&lt;td&gt;公司管三餐&lt;/td&gt;
+&lt;td&gt;公司管三餐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;考勤&lt;/td&gt;
+&lt;td&gt;无考勤&lt;/td&gt;
+&lt;td&gt;早 11 晚 11 必须打卡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;薪资&lt;/td&gt;
+&lt;td&gt;年包 55+&lt;/td&gt;
+&lt;td&gt;年包 75+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;加班&lt;/td&gt;
+&lt;td&gt;无加班要求&lt;/td&gt;
+&lt;td&gt;11 11 6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;级别&lt;/td&gt;
+&lt;td&gt;2-2&lt;/td&gt;
+&lt;td&gt;hr 说他们没有级别，基层都是工程师&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;工作内容方向&lt;/h2&gt;
+&lt;p&gt;拼多多这边是 temu 平台治理组，cv 和大模型结合，做商家的违规图片文案的识别治理，做算法平台工程。&lt;/p&gt;
+&lt;p&gt;字节这边是客服平台组，二面的时候老哥跟我说有很多的各种业务方要数据，需要比较强的复杂 sql 能力。leader 主要介绍并且关注的是算法编排能力和我之前的算法平台经验，需要结合字节的大模型做客服平台能力的赋能。&lt;/p&gt;
+&lt;h2&gt;个人顾虑&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;tcp 和 websocket 服务合并成单个服务开发部署
-缺点：每次重启 ws 就要重启 tcp ，
-优点：不需要 2 个服务之间通信&lt;/li&gt;
-&lt;li&gt;tcp 和 ws 分开部署
-缺点： 服务间需要通信，要么 ws 开一个 tcp 客户端，要么用消息中间件， 增加维护成本
-优点：ws 可以单独重启，ws 服务上含有业务 api&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 22 Aug 2024 10:41:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067077#reply2</guid></item><item><title>[Apple] 澳门 iPad 美区 iCloud 香港电话客服 成功买到美区 AC+</title><link>https://www.v2ex.com/t/1067076#reply0</link><description>&lt;p&gt;最近刚刚折腾了一把，分享下我买美区 AC+的过程，也想问问有没有人在中国大陆/香港使用过美区 AC+的？使用的体验是什么样的？&lt;/p&gt;
-&lt;p&gt;因为 Apple Intelligence 锁中国大陆的硬件，于是把原来的国行 AC+的 iPad Pro M1 卖掉了，找人从澳门伦敦人的 Apple Store 带回来了一台 M4 的 iPad Pro ，有小票。&lt;/p&gt;
-&lt;p&gt;结果因为不熟悉情况，收到才发现澳门和香港的 iPad 还是有区别的，具体在于澳门的不能在 iPad 设置里面买 AC+，只能线下购买或者电话购买。
-先是尝试去拨打澳门的 Apple Support 电话，结果无法接通，退而求其次拨打澳门伦敦人店的电话，结果那时候他们还没开业，不在营业时间 w 不接电话。&lt;/p&gt;
-&lt;p&gt;最终拨打了香港的 Apple Support 电话，接通之后发现只有广东话和英语，就选择了英语客服。之后的过程倒是挺顺利的，只是由于没有显示 this device is eligible for AppleCare+，客服让我额外运行并且上传了个设备诊断日志作为补充。客服还说按月订阅的方案无法选择，只能先买两年的。
-购买的 AppleCare+是与当前登录的 Apple ID 绑定的，我登录的是美区，所以收到的邮件就是美区 AC+的链接，点进去之后支付只支持美国发行的卡，无论是输入 cvv 还是直接 Apple Pay ，还好我有张美卡，支付顺利。这里还有个题外话题外话，当时我问客服港卡是否可以支付，她告诉我可以，结果最终验证结果是不行的。&lt;/p&gt;
-&lt;p&gt;买完之后很快就收到了邮件，AppleCare+ Proof of Coverage ，另外买完之后如果你还有 Apple Pencil Pro 或者 Magic Keyboard 的话，需要把序列号也报给客服，她再做一次绑定。&lt;/p&gt;
-&lt;p&gt;这次算是踩了一个坑，按理说我这种直营店买的有收据的也不会被刁难使用 AC+，不知道有没有人真的在中国大陆或者香港用过美区 AC+，是什么体验？&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 10:35:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067076#reply0</guid></item><item><title>[酷工作] 远程平面，薪资 10-12k</title><link>https://www.v2ex.com/t/1067075#reply0</link><description>&lt;p&gt;远程平面，薪资 10-12k,
-联系 tg  @&lt;a href="https://www.v2ex.com/member/foya188"&gt;foya188&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 10:34:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067075#reply0</guid></item><item><title>[生活] 重庆最近温度好高</title><link>https://www.v2ex.com/t/1067074#reply0</link><description>&lt;p&gt;最高温普遍 43°C&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/FZAEu9s.jpg" rel="nofollow"&gt;https://imgur.com/FZAEu9s.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 10:26:48 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067074#reply0</guid></item><item><title>[问与答] 发达国家真的不卷吗？</title><link>https://www.v2ex.com/t/1067072#reply10</link><description>从网上的信息看，发达国家普遍松弛，收入也不错，有相当的时间去消费以及做自己喜欢的事。有经历的老哥来聊聊，事实真的是这样吗？</description><pubDate>Thu, 22 Aug 2024 10:14:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067072#reply10</guid></item><item><title>[MacBook Pro] 挽大厦之将倾： Macbook 2015-2016 12 寸半死硬上 Sonoma！</title><link>https://www.v2ex.com/t/1067071#reply2</link><description>&lt;p&gt;Macbook 12 寸是我认为最经典的机型之一。但是这个机子主板设计有缺陷，没有散热。导致散热不好，经常丢硬盘。海鲜市场很多机子。A1534 型号。&lt;/p&gt;
-&lt;p&gt;然后闲着无聊收了很多尸体机子个人捣鼓。因为不是修电脑的。就拿起来组合着玩。&lt;/p&gt;
-&lt;p&gt;我搞了个外置固态硬盘启动，然后搞了 opencore legacy ，上了 sonoma 。&lt;/p&gt;
-&lt;p&gt;然后就拿来当副屏幕使用，可以直接从主屏幕移动到副屏幕使用。可以做一些工作的跟踪，听音乐，看视频。&lt;/p&gt;
-&lt;p&gt;当然还能熟悉 sonoma 系统。都是插电使用。&lt;/p&gt;
-&lt;p&gt;当然也搞了很多配件出来，键盘，螺丝，触控板，现在很熟悉 macbook 内部构造了。&lt;/p&gt;
-&lt;p&gt;简直是什么都学到了。&lt;/p&gt;
-&lt;p&gt;唉。哎。有同好的么？&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://imgur.com/psz5faM" rel="nofollow"&gt;Imgur&lt;/a&gt; &lt;a href="https://imgur.com/w9QCGBV" rel="nofollow"&gt;Imgur&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 09:50:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067071#reply2</guid></item><item><title>[OpenWrt] 小爱同学访问淘宝干什么？</title><link>https://www.v2ex.com/t/1067070#reply2</link><description>&lt;a href="https://imgur.com/a/wVd6ITc" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/wVd6ITc&lt;/a&gt;&lt;br /&gt;w 为什么小爱音箱会有淘宝的进程？</description><pubDate>Thu, 22 Aug 2024 09:48:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067070#reply2</guid></item><item><title>[程序员] Docker 学习|交流|分享群</title><link>https://www.v2ex.com/t/1067069#reply1</link><description>&lt;p&gt;Docker 学习|交流|分享&lt;/p&gt;
-&lt;p&gt;Docker | Moby | Docker Compose | Docker Swarm | Kubernetes (k8s)| Go (Golang)&lt;/p&gt;
-&lt;p&gt;telegram: &lt;a href="https://t.me/DockerCommunityChina" rel="nofollow"&gt;Docker 技术交流群&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 09:47:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067069#reply1</guid></item><item><title>[求职] 求职全栈工程师/架构师</title><link>https://www.v2ex.com/t/1067068#reply7</link><description>岗位：Golang/K8s/开发/运维/架构等&lt;br /&gt;地点：北京&lt;br /&gt;联系方式：微信同昵称&lt;br /&gt;&lt;br /&gt;● 简述 &lt;br /&gt;有 10 多年的工作经验，有云计算领域的相关技术发明专利 6 项，在架构设计，分布式系统，和优化上有一定积累;能带团队，能做架构，也能独立攻克一些 技术难题;是开源社区的积极代码贡献者(&lt;a href="http://github.com/jmzwcn)，如" rel="nofollow noopener" target="_blank"&gt;github.com/jmzwcn)，如&lt;/a&gt; Docker ，gRPC 等，获得 CNCF 认证的 Kubernetes 云原生资格 CKA 证书(证 号:LF-kw0dx02itf)。&lt;br /&gt;&lt;br /&gt;● 工作经验 &lt;br /&gt;2023/01–2024/01:爱康国宾健康体检集团&lt;br /&gt;裁员;集团技术部架构师，参与公司范围内的技术架构，技术方案，技术评 审，新技术推广等工作;推动云原生 K8s 平台的落地，指导公司各个业务系统 的一些上云 POC ，上云实施等流程;解决公司一些长期积累的问题，如流量 LB 的版本化/可视化能力。&lt;br /&gt;&lt;br /&gt;2021/04--2022/12:百度网络技术有限公司 &lt;br /&gt;资深软件工程师，负责百度智能云 ACG 部门下的 ToB 交付平台，(天牛)的开 发与建设工作，该平台为典型微服务架构，个人主要承担平台的交付底座功 能，一个基于 Kubernetes 的部署引擎(DKE)的设计与开发;和 CI/CD 流水线 与多 CPU 架构/多操作系统/多 GPU 卡/多 K8s 版本的适配发版自动化;及场外客 户 onsite 支持等工作。&lt;br /&gt;&lt;br /&gt;2017/02--2021/04:新浪网技术(中国)有限公司 &lt;br /&gt;作为架构师及主要开发人员，负责搭建新浪网技术部的容器云计算平台，包括 技术选型，方案论证，系统开发等，从无到有，已让新浪网 80%的 WEB 业务 运行于容器云平台之上;主要技术方向是基于 kubernetes 的落地与二次开发， 包括定制化的 CRD ，自定义的策略调度，自动化方向的 cloud-provider 等， 及基础的网络组件 calico ，监控普罗米修斯，存储组件 ceph ，日志组件 fluentd 等&lt;br /&gt;&lt;br /&gt;2011/03—2017/01:甲骨文软件(北京)有限公司 &lt;br /&gt;1.作为高级软件工程师服务于 Oracle WebLogic 团队，主要负责 Connector/ Spring/Batch 等组件，包括新 feature 和 bug 处理，及相应的功能开发，代码 测试，解决产品 cloud/scrum 化过程中出现的各式问题&lt;br /&gt;2.Weblogic 的 cloud 化相关工作，基于 docker 改造已有 infra 系统，采用 Golang+GRPC+Protobuffer 和微服务模式，使开发测试 CI/CD 流程更高效 的运行。&lt;br /&gt;&lt;br /&gt;●教育经历&lt;br /&gt;2005/09--2008/07 &lt;br /&gt;湖北工业大学 计算机科学与技术 硕士研究生 &lt;br /&gt;2000/09--2004/07 &lt;br /&gt;三峡大学 数学与应用数学 本科&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;-----------&lt;br /&gt;&lt;br /&gt;从 12 月底裁员开始，起初还有几个面试，可能期望值太高吧，大公司的架构师/专家岗级别，面完也没下文，现在是越来越凉，面试机会都没了。43 岁，家庭压力大，不知道哪位兄弟公司有机会，帮忙推荐一把，感激不尽。</description><pubDate>Thu, 22 Aug 2024 09:44:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067068#reply7</guid></item><item><title>[Python] 贴吧 cookie 怎么用无头浏览器登录？</title><link>https://www.v2ex.com/t/1067067#reply0</link><description></description><pubDate>Thu, 22 Aug 2024 09:41:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067067#reply0</guid></item><item><title>[分享创造] 分享一个自己慢慢积累的食谱给大家</title><link>https://www.v2ex.com/t/1067066#reply5</link><description>食谱的内容大多来自一些自己的尝试、或是《食帖》杂志，或是 B 站一些 up 主。记录的食谱都已经是自己已经烹饪过的。&lt;br /&gt;&lt;br /&gt;大部分的食谱内容都适合 1 人食或者 2 人食。&lt;br /&gt;&lt;br /&gt;链接： &lt;a href="https://food.sayidhe.com/" rel="nofollow noopener" target="_blank"&gt;https://food.sayidhe.com/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;后续想打造一个基于节气、地理位置等的食谱日历，有烹饪兴趣的也可以一起来玩。</description><pubDate>Thu, 22 Aug 2024 09:39:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067066#reply5</guid></item><item><title>[程序员] [有偿]神，祈求来个 perf 大神帮我解决一下问题吧！</title><link>https://www.v2ex.com/t/1067065#reply0</link><description>&lt;p&gt;perf node 程序。有偿，base64 绿色气泡 Um9sbG9Ub21hc3k=&lt;/p&gt;
-&lt;p&gt;目前已知的问题：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;perf record 怎么正确统计 node 程序，且获取 js 源码函数信息。我需要了解函数的执行时间（目前暂时不需要以 cpu 占用为目的），重点。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;perf report 怎么以树状图的形式查看。怎么搜索信息。每次执行特别慢。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;perf 获取出来的数据怎么利用时间戳信息。我希望生成的火焰图最好能有较好的时间信息。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;perf record 出来的数据中 perf.map 我看到是存在我添加的多个函数的，但是 perf script 出来只剩部分了，为什么呢？每次执行结果显示的函数都不一样，有部分函数失踪了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description><pubDate>Thu, 22 Aug 2024 09:36:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067065#reply0</guid></item><item><title>[酷工作] 打印机打印数据采集</title><link>https://www.v2ex.com/t/1067064#reply2</link><description>&lt;p&gt;实现打印机打印数据的采集，后续我们自己对这些数据进行分析&lt;/p&gt;
-&lt;p&gt;有了解这块儿的老哥嘛，有偿&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 09:36:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067064#reply2</guid></item><item><title>[OpenAI] 特别实测｜从「它」到《Her》，浅析 ChatGPT 最新语音模式如何假装爱你</title><link>https://www.v2ex.com/t/1067063#reply2</link><description>&lt;p&gt;各位好，我们的《 WEB VIEW 》播客更新了。这一次，我们拿到了 ChatGPT 最新语音模式的内测资格。本次评测，我们会竭力避开 ChatGPT 可以「借力文字」而无法体现语音交流本质的方法，来看看它是否可以达到《 Her 》中斯嘉丽的智能程度。&lt;/p&gt;
-&lt;p&gt;欢迎大家移步收听：&lt;/p&gt;
+&lt;li&gt;个人觉得拼多多相对出来后大厂认可度不如字节&lt;/li&gt;
+&lt;li&gt;个人感觉拼多多这个组未来的前景比字节组的要好？有没有懂的老哥介绍一下&lt;/li&gt;
+&lt;li&gt;字节 hr 说因为他们有涨薪 30%的上限，所以 pkg 只能压着上限给，但我的 base 低进来后调薪幅度会比较大&lt;/li&gt;
+&lt;li&gt;拼多多 hr 说他们内部涨薪非常给力，一年两次，超过 70%的人有 10%的幅度&lt;/li&gt;
+&lt;li&gt;跟在字节的大学同学聊天表示现在字节很卷，接口耗时、慢 sql 、异常这些指标抓的很严，只要踩雷当年的调薪晋升基本凉了。&lt;/li&gt;
+&lt;li&gt;跟之前在拼多多的大学同学聊天，表示拼多多很卷，考勤抓的很严不过涨薪很给力，但他是 23 年 3 月份离开的现在也不清楚了。&lt;/li&gt;
+&lt;/ol&gt;</description><pubDate>Fri, 23 Aug 2024 03:31:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067206#reply35</guid></item><item><title>[问与答] 彩笔需求，获取 10 个相同格式的在线表格到一个表格里面</title><link>https://www.v2ex.com/t/1067205#reply0</link><description>本来这个需求可以用腾讯表格的 IMPORTRANGE 函数来实现的，但腾讯文档有一个很傻逼的点，当你跨表请求的数据比较多的时候，需要点击一下这个公式才会计算数据，所以打算放弃，但目前又不能用其他的同类产品比如飞书啥的，想自己写一个前端来拉去这些在线表格的数据，然后计算汇总，本人菜鸟，大神能给点思路吗，包括数据存储什么的</description><pubDate>Fri, 23 Aug 2024 03:29:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067205#reply0</guid></item><item><title>[Apple] [代发] shadow Rocket Mac Apple chip 版本不连接就会断网</title><link>https://www.v2ex.com/t/1067204#reply2</link><description>帮友人发：&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我的电脑是 M1 芯片的 mbp ，所以去年时就在 appstore 下载安装了 iPad 版本的 shadowRocket （ SR ）（自有账号付费购买的）。同时大概 4 个月前尝试安装了 Clash X ，发现不好用（经常无法启动）就删除了。 &lt;br /&gt;&lt;br /&gt;然后大概三个月前发现，连接网络后必须启用 SR ，否则无法连接到任何网络（包含井内的百度、腾讯等等网站）。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;现在电脑像是被劫持了一般，很难受。 尝试升级 shadowRocket ，结果总是更新失败（已确认是购买者账号登录 iCloud + appStore ）&lt;br /&gt;&lt;br /&gt;求助：&lt;br /&gt;1. 如何更新 shadowRocket&lt;br /&gt;2. 如何解决不启用 shadowRocket 就无法使用网络的问题？&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;······&lt;br /&gt;&lt;br /&gt;系统情况：MacOS 14.1.1 (23B81)&lt;br /&gt;ShadowRocket：Version 2.2.21 (1808)</description><pubDate>Fri, 23 Aug 2024 03:28:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067204#reply2</guid></item><item><title>[生活] 租房床垫</title><link>https://www.v2ex.com/t/1067203#reply2</link><description>&lt;p&gt;想在现在租的房子上面叠一个床垫（搬家可以带走的） 有没有相关推荐 最好是体验过的&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:28:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067203#reply2</guid></item><item><title>[macOS] 黑果不定期卡顿，大家有这个问题吗</title><link>https://www.v2ex.com/t/1067202#reply2</link><description>配置 i9-9980hk ，内存 32G ，系统 13.6.8&lt;br /&gt;经常出现鼠标卡顿，表现为移动时没有连续轨迹，经常从屏幕一端跳到另一端，中间轨迹动画缺失&lt;br /&gt;偶尔会出现系统卡顿，表现为每个操作都有几秒延迟，鼠标移动很流畅但点图标要反应很久。此时 CPU 内存都占用不多&lt;br /&gt;&lt;br /&gt;是不是厨子在故意搞事情呢，逼我尽快换白果？&lt;br /&gt;各位 v 友的黑果有这问题吗，白果应该是不会出现轻负载卡顿的吧</description><pubDate>Fri, 23 Aug 2024 03:25:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067202#reply2</guid></item><item><title>[推广] 想要在 macOS 上给异地朋友直播黑神话，好麻烦啊 &gt; &lt;</title><link>https://www.v2ex.com/t/1067201#reply4</link><description>好不容易在 macOS 上把游戏跑起来，没用虚拟机，用的 CrossOver 。&lt;br /&gt;但所有平台的直播伴侣软件都是只有 Windows 的。&lt;br /&gt;&lt;br /&gt;Bilibili 能通过浏览器抓屏幕直播，还是很方便的，先临时用着。&lt;br /&gt;但是 macOS 弊端又来了，不能抓系统声音…&lt;br /&gt;&lt;br /&gt;感觉最理想的情况还是用 OBS ，走推流，搜了一下也能解决掉抓不到系统声音的问题。&lt;br /&gt;但推流又有粉丝数限制。（ Bilibili &amp;gt;50 ，视频号兴趣认证 &amp;gt;500 ）&lt;br /&gt;&lt;br /&gt;没办法，那就来一波求关注吧~ 赠红心+互关~  &lt;br /&gt;&lt;br /&gt;Bilibili: &lt;a href="http://live.bilibili.com/1733586753" rel="nofollow noopener" target="_blank"&gt;http://live.bilibili.com/1733586753&lt;/a&gt;&lt;br /&gt;视频号: &lt;a href="https://imgur.com/a/EBEzzO8" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/EBEzzO8&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 03:19:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067201#reply4</guid></item><item><title>[问与答] 为什么身边好多人只愿意玩盗版游戏</title><link>https://www.v2ex.com/t/1067200#reply25</link><description>&lt;p&gt;目前黑神话悟空挺出圈的，但是问了身边几个朋友，都表示不想花钱买正版，只愿意玩盗版。&lt;/p&gt;
+&lt;p&gt;如果说学生党没钱或者有经济压力的只能玩学习版倒是可以理解，但是他们收入都算挺高的，想起以前国产单机，就是被盗版整没的~&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:19:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067200#reply25</guid></item><item><title>[分享创造] [iOS 应用] Pinning：重新想象倒数日 App</title><link>https://www.v2ex.com/t/1067199#reply3</link><description>&lt;p&gt;&lt;img alt="题图" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/33zBR7bd.png" /&gt;&lt;/p&gt;
+&lt;h2&gt;下载链接&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://apps.apple.com/app/id6472634746" rel="nofollow"&gt;App Store 下载&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;Pinning 是最近发布的 iOS 平台上的倒数日 App ，除基本功能外，它还可以同步日历和提醒事项，还能以 iCloud 协作的方式和家人共享列表。&lt;/p&gt;
+&lt;h2&gt;设计&lt;/h2&gt;
+&lt;p&gt;Pinning 采用原生的设计风格，使用体验尽可能贴近原生应用，比如可以长按事件以弹出动作菜单，或者左右滑动事件以显示相关动作。
+打开 Pinning 后，默认显示事件列表，可回退至边栏或进一步导航至事件详情页。边栏和 iOS 的自带应用提醒事项的设计一致，事件列表有时间线视图：左侧展示年月日，右侧展示标题等事件信息；还有列表视图，按时间顺序从上到下展示事件。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="时间线和列表视图" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/9itJ4rAY.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="小组件" class="embedded_image" rel="noreferrer" src="https://i.v2ex.co/79K2K15q.jpeg" /&gt;&lt;/p&gt;
+&lt;h2&gt;功能&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.xiaoyuzhoufm.com/episode/66c680b1db5e6d6bf907bc7a" rel="nofollow"&gt;小宇宙&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://podcasts.apple.com/hk/podcast/web-view/id1401362237?i=1000666184531" rel="nofollow"&gt;苹果播客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;内置近期列表，自动汇总全部未来事件&lt;/li&gt;
+&lt;li&gt;内置生日（可显示年龄、星座、生肖）和纪念日列表&lt;/li&gt;
+&lt;li&gt;支持复杂的自定义重复（如每年九月的第一个星期天）&lt;/li&gt;
+&lt;li&gt;事件可添加图标，支持 SF Symbol 和 Emoji&lt;/li&gt;
+&lt;li&gt;自由切换时间线视图或列表视图&lt;/li&gt;
+&lt;li&gt;同步日历和计划的提醒事项&lt;/li&gt;
+&lt;li&gt;支持通过记事本和标签分类管理事件&lt;/li&gt;
+&lt;li&gt;适配 iOS 系统功能如交互式小组件、App Shortcuts 和 Spotlight 搜索等&lt;/li&gt;
+&lt;li&gt;iCloud 同步&lt;/li&gt;
+&lt;li&gt;iCloud 协作，和家人或朋友共享事件列表&lt;/li&gt;
+&lt;li&gt;支持 iOS 、iPadOS 、watchOS 以及 visionOS ，未来还将支持 macOS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;我们尝试测试 ChatGPT 在英语学习、中国方言（粤语、沪语）、多角色对话（音色）、音乐识别与创作、人类情感识别与表达、创意生成六个方面的表现。节目中，我们使用真实录音最大还原 ChatGPT 的现场表现，以及我们的主/客观评价。&lt;/p&gt;
-&lt;p&gt;英语作为全球最广泛使用的语言，也是 ChatGPT 背后的最大语料库，我们自然要看看它的「主场」表现。ChatGPT 作为一个可以完全暴露语言缺陷的绝佳练习伙伴，是目前最合适的 AI 语音落地场景。&lt;strong&gt;所以，我们首先测试了英语学习场景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;感受完国际范儿，我们好奇 ChatGPT 是否可以理解我们的日常方言，尤其是以南方语系为代表的变调方言。我们主要测试了粤、沪两种方言。这两种语言都保留了古汉语中「入声」迹象，且包含一些需要了解当地文化、历史才能更好理解的概念。&lt;strong&gt;所以，我们接着测试了方言识别场景。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;人与人之间沟通的前提是什么？是语义的准确性？还是附带的人类情感？但在讨论这些之前，我们更要知道「谁在和我们说话」。想象一个原始人小孩，听到熟悉父母和陌生人的声音时，谁会对他产生更大影响？从进化论角度，听谁的话对他更有利？同样一句话，不同的人说出来，你的感受也不一样，因为份量和情感不同。&lt;strong&gt;所以，我们关心 ChatGPT 是否可以识别音色，知道它在和谁对话。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AI 音乐并不新鲜，比如 Suno （一款 AI 音乐制作工具），但现在看来，更像是一个危机。从乐理角度看，人类使用的和弦、旋律走向等编曲特性趋同性严重，有人甚至怀疑，未来会不会有旋律写尽的一天。&lt;strong&gt;所以，抱着不让人类音乐向无聊、枯燥方向演进的幻想，我们想看看 ChatGPT 能否识别旋律，并与我们共同创作。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;情感测试是我们最期待的环节。语言作为信息载体，帮助我们建立合作纽带。但为什么我们还会言不由衷、词不达意？是语言天生多义？还是语言承载着更微妙的东西？ ChatGPT 能否听出我们的言外之意，如讽刺、愤怒、离别的不舍，以及它是否会像人一样情绪失控。&lt;strong&gt;所以，我们在测试中不断让 ChatGPT 面临冲突升级，看它是否会为了保护「妻子和孩子」，突破系统提示词限制，做出意料之外的情感行为。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;ChatGPT 的最大特点是回复及时，你一梳理好想法，答案就瞬间生成。但我们不行，因为我们要消化、理解并回复对话。&lt;strong&gt;所以，这次我们选择让 Claude 帮忙，让它与 ChatGPT 魔法对轰，双方接替回答，看几轮对话之内能否创作出精彩故事。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;几年前我们刚开始做播客时，V 友还给了非常多的鼓励。这期节目希望大家喜欢。&lt;/p&gt;</description><pubDate>Thu, 22 Aug 2024 09:29:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067063#reply2</guid></item><item><title>[问与答] 万能 V 友，有没有对 OneDrive 的 Clash 优化规则？</title><link>https://www.v2ex.com/t/1067062#reply4</link><description>万能的 V 友，大家有没有对 OneDrive 走节点的优化规则呀？&lt;br /&gt;&lt;br /&gt;我用的电脑 Clash 和手机小火箭，OneDrive 走国内太慢了，但是挂了梯子还是很慢我还以是不是梯子给设置为直连了，我也不太懂这个，请指教。</description><pubDate>Thu, 22 Aug 2024 09:27:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067062#reply4</guid></item></channel></rss>
+&lt;h2&gt;价格&lt;/h2&gt;
+&lt;p&gt;提供按月订阅（¥6/月，免费试用三天）、按年订阅（¥48/年，免费试用一周）和永久买断（¥98 ）三种选项，每种选项还提供家庭共享版本。&lt;/p&gt;
+&lt;h2&gt;更多信息&lt;/h2&gt;
+&lt;p&gt;我在少数派发表了一篇同名文章&lt;a href="https://sspai.com/post/91599" rel="nofollow"&gt;《 Pinning：重新想象倒数日 App 》&lt;/a&gt;，其中分享了应用从构思到上线的过程，有很多与产品设计相关的细节，有兴趣的朋友可以看看。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:17:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067199#reply3</guid></item><item><title>[程序员] 手游创业者，副业年入百万-刘不思</title><link>https://www.v2ex.com/t/1067198#reply2</link><description>&lt;p&gt;大家好，我是前端之虎陈随易，全职自由职业，农村独立开发者。&lt;/p&gt;
+&lt;p&gt;这是我的个人网站 &lt;a href="https://chensuiyi.me" rel="nofollow"&gt;https://chensuiyi.me&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;这里是&lt;code&gt;[随易访谈]&lt;/code&gt;，分享平凡中的伟大，记录不屈中的温暖。&lt;/p&gt;
+&lt;p&gt;今天邀请到的嘉宾，是手游创业十多年的创业者，副业年入百万的 &lt;code&gt;刘不思&lt;/code&gt;，让我们一起听听他的故事。&lt;/p&gt;
+&lt;h3&gt;请简单介绍一下自己&lt;/h3&gt;
+&lt;p&gt;大家好，我是 &lt;code&gt;刘不思&lt;/code&gt;，一家非知名游戏公司的创始人，在游戏行业摸爬滚打了十多年。&lt;/p&gt;
+&lt;p&gt;同时，我对金融行业也非常感兴趣，是 CFA 、FRM 持证人。&lt;/p&gt;
+&lt;p&gt;另外，我还是 NSCA-CPT 持证人，美国体能协会认证的健身私教。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;工作:&lt;/strong&gt; 上海 游戏行业 创业十年。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;标签:&lt;/strong&gt; 程序员、CFA 、FRM 、NSCA-CPT 。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;爱好:&lt;/strong&gt; 读书、投资、健身、旅行。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我的微信：&lt;code&gt;bigporker&lt;/code&gt;，欢迎一起交流~&lt;/p&gt;
+&lt;h3&gt;谈谈你这十多年的职业发展经历&lt;/h3&gt;
+&lt;p&gt;我 2008 年南京大学本科毕业参加工作，那时年轻比较浮躁，工作的前 5 年换了 5 家公司。&lt;/p&gt;
+&lt;p&gt;这 5 年分别接触了 3D 渲染、服务器、iOS/Android 开发，这些合到一起恰好是做手游的技术。&lt;/p&gt;
+&lt;p&gt;所以，5 年后就创业做手游，至今已经十多年。&lt;/p&gt;
+&lt;p&gt;创业最初就三个人，投资人、策划、技术各一位。&lt;/p&gt;
+&lt;p&gt;我们从其他公司借了四个美术。&lt;/p&gt;
+&lt;p&gt;我负责技术，客户端、服务器端、运维、美术和策划工具都是我一个人开发，那段时间很纯粹，每天醒了就是敲代码、与团队沟通讨论。&lt;/p&gt;
+&lt;p&gt;创业肯定不是一帆风顺，我们有两三年几乎把公司做倒闭了，经历了很多事，不过最终还是熬到了今天。&lt;/p&gt;
+&lt;p&gt;没有赚到很多钱，但至少目前还没有过大规模裁员。&lt;/p&gt;
+&lt;h3&gt;分享一下你的办公环境吧&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="办公环境" class="embedded_image" rel="noreferrer" src="https://static.yicode.tech/images/202408/20240823103124.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;创业的初衷是什么？&lt;/h3&gt;
+&lt;p&gt;其实，我们也没什么宏大志向，更没有说一定要做成什么事情。&lt;/p&gt;
+&lt;p&gt;2013 年的夏天一个很平常的下午，我们三个人在一个会议室聊了两三个小时，然后就开始搞起来。&lt;/p&gt;
+&lt;p&gt;我待过的公司，除了第一家公司相对较大，另外的都是创业型小公司，似乎我特别喜欢这种大家有拼劲敢想敢做的工作氛围。&lt;/p&gt;
+&lt;p&gt;所以，既然有机会，那我也出来创业试试。&lt;/p&gt;
+&lt;p&gt;2013 年那时移动互联网创业浪潮，随便组几个人就能拉到投资，也算是赶上时代浪潮。&lt;/p&gt;
+&lt;p&gt;对我来说，创业只是一种生活方式。&lt;/p&gt;
+&lt;h3&gt;创业中最大的挑战是什么？&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;对于公司：&lt;/code&gt; &lt;strong&gt;招人&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在最初那几年，市场上创业团队很多，人才奇缺。&lt;/p&gt;
+&lt;p&gt;我印象最深的一件事，在 V2EX 酷工作板块的一个招聘贴里，有人回复说 15k 也想招人？&lt;/p&gt;
+&lt;p&gt;那个时候，我和合伙人的工资就是 15K ，我俩的薪资不是团队里最高的，初创团队只能压缩自己的薪资让给员工。&lt;/p&gt;
+&lt;p&gt;即便如此，招人仍然很困难，本科学历的都难招，最初那两年我们看的简历大部分是大专。&lt;/p&gt;
+&lt;p&gt;这两年行业裁员，我们招人容易了一些，能招到好学校毕业或者能力比较强的员工。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;对于我个人：&lt;/code&gt; &lt;strong&gt;管理能力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;最初几个人的团队，不需要什么管理能力，但是公司规模不断扩大，对我的管理能力的挑战越来越大。&lt;/p&gt;
+&lt;p&gt;而且这种挑战，不是完成一次就行，而是一直存在，因为管理 20 人、50 人、100 人、200 人的公司需要的管理能力完全不同。&lt;/p&gt;
+&lt;p&gt;我在管理方面的成长速度赶不上公司规模的增加，一直疲于应对。&lt;/p&gt;
+&lt;p&gt;好在这两年行业裁员，我们可以招到更高素质的员工，能独当一面的人越来越多，对我管理能力的挑战才稍稍缓和。&lt;/p&gt;
+&lt;h3&gt;看过你之前分享的《如何用十年实现副业年收入百万》，你能简单介绍你的副业情况吗？&lt;/h3&gt;
+&lt;p&gt;我从工作第二年开始副业，至今十多年，做过的具体项目也比较杂，包括开发外包、编程培训、餐饮、投资理财，今年拓展了保险销售。&lt;/p&gt;
+&lt;p&gt;另外，还有一些非持续性的，比如技术咨询。&lt;/p&gt;
+&lt;h3&gt;最初是如何开始副业的，以及如何选择副业的方向？&lt;/h3&gt;
+&lt;p&gt;我的第一个副业项目是一款软件开发外包，当时并没有明确的副业意识。&lt;/p&gt;
+&lt;p&gt;所在公司老板的朋友需要开发一款软件，如果以公司开发的话成本较高，老板就把这事交给我，于是就成了我的第一个外包。&lt;/p&gt;
+&lt;p&gt;项目中，我尽量为客户着想，遇到问题也能及时解决，客户很认可，后来又陆续给了我几个项目，还给我介绍了其他客户。&lt;/p&gt;
+&lt;p&gt;从这件事开始，我便走上了副业这条路，至今一直没中断过。&lt;/p&gt;
+&lt;h3&gt;关于副业方向有什么经验参考吗？&lt;/h3&gt;
+&lt;p&gt;副业的方向嘛，我并没有明确的做什么不做什么，更多的是看客户需要什么和我能做什么。&lt;/p&gt;
+&lt;p&gt;如果这两者能对的上，我就会做。&lt;/p&gt;
+&lt;p&gt;总体来说，我的副业的思路就是不断提升自己，为身边人提供价值。&lt;/p&gt;
+&lt;p&gt;我在 2011 年自学并独自开发了公司的 iOS 版 App ，那时候想学 iOS 开发的人很多，但是培训机构寥寥无几，客户需求和我的能力匹配得上，就拓展了编程培训的副业。&lt;/p&gt;
+&lt;p&gt;餐饮副业是机缘巧合。&lt;/p&gt;
+&lt;p&gt;一位朋友创立餐饮品牌，我就帮着出谋划策，从最初的名字、logo 到选址开店，再到中央厨房建设。&lt;/p&gt;
+&lt;p&gt;后来这品牌确实做的挺好，我也知根知底，就投了一家店。&lt;/p&gt;
+&lt;p&gt;其实，最初我只是单纯地帮朋友忙，并没想着自己直接参与。&lt;/p&gt;
+&lt;h3&gt;为什么选择金融投资这个副业方向？&lt;/h3&gt;
+&lt;p&gt;在我的认知里，赚钱分三个层次：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;第一个层次&lt;/code&gt;：&lt;strong&gt;靠体力赚钱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;大部分人刚毕业就是这个层次，大部分人直到退休仍然是这个层次。&lt;/p&gt;
+&lt;p&gt;这个层次的特点是&lt;strong&gt;干一天活赚一天的钱&lt;/strong&gt;，请假就会被扣工资。&lt;/p&gt;
+&lt;p&gt;典型形式：办公室的白领、工厂里的蓝领、码头的搬运工。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;第二个层次&lt;/code&gt;：&lt;strong&gt;靠人赚钱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体说是靠&lt;strong&gt;团队&lt;/strong&gt;赚钱。&lt;/p&gt;
+&lt;p&gt;这个层次的特点是需要&lt;strong&gt;管理能力&lt;/strong&gt;，请一天假不会影响收入，但请三个月可能不行。&lt;/p&gt;
+&lt;p&gt;典型形式：大厂里的部门领导、创业公司的老板、工地上的包工头。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;第三个层次&lt;/code&gt;：&lt;strong&gt;靠钱赚钱&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;具体说是&lt;strong&gt;睡后收入&lt;/strong&gt;，这是我追求的目标，想必也是很多人的目标。&lt;/p&gt;
+&lt;p&gt;这个层次的特点是出去旅行半年，不会影响收入。&lt;/p&gt;
+&lt;p&gt;典型形式：商铺收租、股票分红、债券收息、储蓄保险。&lt;/p&gt;
+&lt;p&gt;金融投资属于第三个层次，与程序员职业不同，金融投资的职业生涯很长，巴菲特九十多岁仍然在做。&lt;/p&gt;
+&lt;h3&gt;能大概介绍一下 CFA 和 FRM ，以及你是如何接触并尝试考取这两个证的吗？&lt;/h3&gt;
+&lt;p&gt;为了系统性学习投资，我读了上海财经大学在职研究生，期间了解到这两个证书，以考促学。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CFA&lt;/code&gt; 是特许金融分析师，全球金融投资第一证。&lt;/p&gt;
+&lt;p&gt;三个级别考试，英文教材英文考试。&lt;/p&gt;
+&lt;p&gt;考试内容不难，但是覆盖面广，经济金融专业的本科毕业的水平完全可以应付。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;FRM&lt;/code&gt; 是金融风险管理师，一般是风控部门需要，比如银行。&lt;/p&gt;
+&lt;p&gt;FRM 的考试分两个级别，英文教材英文考试&lt;/p&gt;
+&lt;p&gt;第一个级别与 CFA 的一级内容重叠很多，所以很多人选择考完 CFA 再顺带考个 FRM 。&lt;/p&gt;
+&lt;h3&gt;NSCA-CPT 持证人，美国体能认证的健身私教，这个跟普通的私教有哪些不同呢？&lt;/h3&gt;
+&lt;p&gt;美国体能协会是全球四大私教认证组织之一，相比于国内的私教培训，在国际上的认可度更高。&lt;/p&gt;
+&lt;p&gt;在教学的内容上也有一些区别。&lt;/p&gt;
+&lt;p&gt;NSCA 的理念是掌握训练方法，帮助学员训练，并不要求自己的肌肉练得多好。&lt;/p&gt;
+&lt;p&gt;所以，考试内容是理论考，并不要求硬拉、卧推能达到什么水平，适合我这样的人。&lt;/p&gt;
+&lt;p&gt;NSCA 的培训更注重安全性，例如不推荐任何颈后动作，包括颈后下拉、颈后杠铃臂屈伸。&lt;/p&gt;
+&lt;p&gt;NSCA 的培训有很大的篇幅是针对心脑血管疾病的患者、老人、儿童。这符合 NSCA 的理念，教练是为别人提供帮助，而不是向别人展示肌肉。&lt;/p&gt;
+&lt;h3&gt;可以谈谈 35 岁焦虑吗？你是如何应对的呢？&lt;/h3&gt;
+&lt;p&gt;现在大家经常提到中年危机，程序员的中年危机更加明显，因为按照中国的 IT 行业环境，程序员巅峰在 35 岁，这也就是我们说的 35 岁焦虑。&lt;/p&gt;
+&lt;p&gt;职业巅峰、身体巅峰同时到达，接下来遇到四五十岁的中年危机，所以程序员普遍有 35 岁焦虑。&lt;/p&gt;
+&lt;p&gt;我的应对方案：&lt;/p&gt;
+&lt;p&gt;一切恐惧都是源于火力不足，试想一下如果你的银行卡上有一千万闲钱，我猜你大概率是不会有 35 岁焦虑的。&lt;/p&gt;
+&lt;p&gt;应对方案就是搞钱，分两个方向：开源节流。&lt;/p&gt;
+&lt;p&gt;开源就是努力工作、努力拓展副业。&lt;/p&gt;
+&lt;p&gt;节流就是存钱，越早存越好。&lt;/p&gt;
+&lt;p&gt;芒格说：只要我们一直在正确的道路上做事，那我们就不用太担心未来。&lt;/p&gt;
+&lt;h3&gt;副业的未来规划？&lt;/h3&gt;
+&lt;p&gt;希望明年通过法考，不仅可以提升自己的法律素质，也可以为身边人提供法律支援。&lt;/p&gt;
+&lt;p&gt;通过法考后，再用两年时间通过 CPA 考试，成为注册会计师。&lt;/p&gt;
+&lt;p&gt;现在的社会环境，大家都需要了解一些财务知识，尤其是税务相关。&lt;/p&gt;
+&lt;p&gt;学习美股投资，拓宽自己的投资视野，现在很多人有全球资产配置需求。&lt;/p&gt;
+&lt;p&gt;拓展保险销售服务。&lt;/p&gt;
+&lt;h3&gt;可以简单介绍下每天的日常时间安排吗？&lt;/h3&gt;
+&lt;p&gt;我的日常时间安排与大部分程序员没什么区别，除了我的时间相对自由一些。&lt;/p&gt;
+&lt;p&gt;当然，自由归自由，但工作总时长并不少，只是可以灵活安排。&lt;/p&gt;
+&lt;p&gt;我的时间管理方法：&lt;/p&gt;
+&lt;p&gt;我觉得时间管理并不是管理时间，而是管理&lt;strong&gt;精力&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我不是一个特别自律的人，无法做到每天晚上 10 点睡觉早上 6 点起床，也无法做到不刷抖音和玩游戏。&lt;/p&gt;
+&lt;p&gt;我的方法是列出今天要完成的所有事情，除了一些强时间限制的（比如赶飞机），我会随时调整做事的顺序，只要保证今天全部做完就行。&lt;/p&gt;
+&lt;p&gt;做完之后就打个勾，一项一项任务完成然后打勾的这种感觉会上瘾。&lt;/p&gt;
+&lt;h3&gt;你主业在创业，目前的收入应该算不错了，还这么拼，打算什么时候放松下来呢？&lt;/h3&gt;
+&lt;p&gt;这个问题，每个人的标准都不一样。&lt;/p&gt;
+&lt;p&gt;其实，我不觉得现在有多么"拼"，可能我的生活节奏确实比较快。&lt;/p&gt;
+&lt;p&gt;另外，我也不觉得自己现在的条件"算不错了"。&lt;/p&gt;
+&lt;p&gt;我没有开过宾利、没住过上海的独栋别墅、没看过大西洋的落日、没吹过冰岛的风、没看过挪威的极光、没滑过瑞士的雪、没泡过日本的温泉、没钓过五大湖的鱼、国内仍有很多风景和美食我都没有体验过。&lt;/p&gt;
+&lt;h3&gt;对于想要创业或开展副业的朋友们，你有什么想说的吗？&lt;/h3&gt;
+&lt;p&gt;其实，我自己的创业也没有做的特别好，仍然在摸石头的阶段。&lt;/p&gt;
+&lt;p&gt;我分享一句话吧，我很认可：当你全心全意为他人解决问题时，你赚钱和成长的速度会比那些只关注自己利益的人快很多。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;下面，分享一下你公司的情况吧~&lt;/p&gt;
+&lt;h3&gt;公司目前的技术团队的组织结构是怎样的？&lt;/h3&gt;
+&lt;p&gt;我们是工作室-项目组结构&lt;/p&gt;
+&lt;p&gt;工作室可以理解为公司的子公司，一个工作室可以有多个项目组。&lt;/p&gt;
+&lt;p&gt;最初，公司只有一个项目组，几个人。&lt;/p&gt;
+&lt;p&gt;在项目上线更新维护半年后，我们将项目组一分为二（裂变），再各补一半的人，这样我们就有两个项目组。&lt;/p&gt;
+&lt;p&gt;每个项目组有各自的负责人、主程、主策。&lt;/p&gt;
+&lt;p&gt;当一个负责人的能力较强，可以独当一面管理一个或多个项目组的时候，我们就会围绕这个负责人成立一个工作室（项目收益达到一定规模会成立子公司），这个负责人占有股份，这也是我们为了留住人才的一个措施。&lt;/p&gt;
+&lt;p&gt;目前，公司有四个工作室，每个工作室有一个或多个项目组。&lt;/p&gt;
+&lt;p&gt;一个美术中心，为所有工作室提供支持。&lt;/p&gt;
+&lt;p&gt;一个中台部门，包括运维、通用软件的开发人员。&lt;/p&gt;
+&lt;p&gt;近几年，我们拓展了游戏发行业务，成立了发行部门目前有五六十人。&lt;/p&gt;
+&lt;h3&gt;员工晋升通道是怎样的？&lt;/h3&gt;
+&lt;p&gt;项目组裂变。&lt;/p&gt;
+&lt;p&gt;每次裂变一个新项目组，都需要新的客户端、服务器端主程。&lt;/p&gt;
+&lt;p&gt;我们很少直接从外面招主程，通常都是从裂变前的团队里挑选合适的人选。&lt;/p&gt;
+&lt;p&gt;这与大公司不同，大公司里上司不升职不离职，下面的人永远没机会。&lt;/p&gt;
+&lt;p&gt;进入公司的技术中心部门。&lt;/p&gt;
+&lt;p&gt;该部门的同事平时在各个项目组里，如果某个项目遇到难题，或者立项、发布等重要里程碑，技术中心的人会参与支持。&lt;/p&gt;
+&lt;p&gt;任何项目赚钱，技术中心的人都有奖金分。&lt;/p&gt;
+&lt;h3&gt;离职率如何？&lt;/h3&gt;
+&lt;p&gt;我们的离职率相对较低。&lt;/p&gt;
+&lt;p&gt;十年前最初招聘的两名程序员、两名策划仍然在我们公司。&lt;/p&gt;
+&lt;p&gt;当时从其他团队借用的四名美术，有两名仍在我们这工作。&lt;/p&gt;
+&lt;p&gt;这些老员工早已成长为公司的核心人员，是公司最宝贵的财富。&lt;/p&gt;
+&lt;p&gt;员工的离职大概率是两个方面没有得到满足，一个是晋升，一个是收入。&lt;/p&gt;
+&lt;p&gt;晋升前面提到，这里说说奖金制度。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;奖金制度&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;月度项目奖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;根据游戏流水按比例分发。收入好的项目组，月度奖金比工资高，当然项目没有收入就没有项目奖。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;年终奖金&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果项目没有流水，那么这个项目组的员工年底会有年终奖。&lt;/p&gt;
+&lt;p&gt;我们这没有人喜欢年终奖，毕竟项目奖是按月发，比年终奖多得多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;年终分红&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;核心人员，在项目进入利润期会有年终分红，这几年每年分红最多的员工可以拿到 100w 以上。&lt;/p&gt;
+&lt;h3&gt;公司加班情况怎么样？&lt;/h3&gt;
+&lt;p&gt;游戏公司加班较多，我们属于行业里加班相对少的公司。&lt;/p&gt;
+&lt;p&gt;周末不加班，周一周五不推荐加班，周二三四可以加班，但不允许连续加几周。&lt;/p&gt;
+&lt;p&gt;公司所有的项目组，只要有一个在加班，我就会在公司。&lt;/p&gt;
+&lt;p&gt;去年底拉了下考勤，我是公司的时间最多。&lt;/p&gt;
+&lt;p&gt;如果有人因为加班多身体扛不住，一定是我这位大龄程序员。&lt;/p&gt;
+&lt;h3&gt;现在市场上裁员情况较严重，很多程序员找工作并不像几年前那么容易。能谈谈你们在招聘的时候，更喜欢哪种类型的应聘者，或者说更看重应聘者哪些方面的素质？&lt;/h3&gt;
+&lt;p&gt;我们最看重&lt;strong&gt;责任心&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;日常的大部分工作都没有特别的难度，这种情况下责任心会比突出的能力更重要。&lt;/p&gt;
+&lt;p&gt;保证代码质量、与策划美术积极沟通、工作不饱和时可以主动承担更多的任务，这样的程序员在哪都会受欢迎，在我们这里的体现就是每年两次加薪、更高的项目奖金比例、年底参与分红的机会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学习能力&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;程序员需要终生学习，尤其在游戏行业。这些年我们用过了很多技术框架&lt;/p&gt;
+&lt;p&gt;前端引擎：Cocos2dx 、Cocos2dx-Lua 、Unity 、Unity-XLua 、Laya 。&lt;/p&gt;
+&lt;p&gt;后端框架语言：PHP 、C++、Lua 、Java 、Go 。&lt;/p&gt;
+&lt;p&gt;我们的核心人员（包括我自己）掌握上面所有的前后端技术。&lt;/p&gt;
+&lt;p&gt;在考虑是否使用一项新技术时，大家一起调研学习，核心人员要保证任何一个项目出问题都能及时顶上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;情商&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在月薪 2w 以下时，技术更重要。&lt;/p&gt;
+&lt;p&gt;在 2w 以上时，情商的重要性逐步提升。&lt;/p&gt;
+&lt;p&gt;一个负责人如何管理团队，如何调动团队的积极性，如何解决团队内的矛盾都需要情商辅助。&lt;/p&gt;
+&lt;p&gt;我以前情商堪忧，现在稍微好一些，创业确实很锻炼人。&lt;/p&gt;
+&lt;h3&gt;对游戏感兴趣的程序员不少，能简单说说，开发一个游戏到上线，需要涉及到哪些内容和流程吗？&lt;/h3&gt;
+&lt;p&gt;游戏研发的基本流程。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;立项&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;决定做什么样的游戏。&lt;/p&gt;
+&lt;p&gt;小团队立项比较快，腾讯那样的大厂，可能 100 人的团队立项一年最终也无法通过，对产品要求比较高。&lt;/p&gt;
+&lt;p&gt;这期间可能需要开发一个 demo ，大家试玩，验证想法是否可行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;研发&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;策划、程序、美术分工合作。&lt;/p&gt;
+&lt;p&gt;对程序来说，最大的问题是性能，服务器端面对的是高并发，客户端现在面对的主要是渲染性能，内存和网络延迟的问题已经好很多。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;发行&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;市场上有专门的发行公司，也有研发、发行一体的公司。&lt;/p&gt;
+&lt;p&gt;我们最初是纯研发，后来我们拓展了发行业务。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;感谢您的阅读，希望这个故事，可以给您带来一些参考和帮助，我们下次再见~&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:10:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067198#reply2</guid></item><item><title>[创业组队] 独立开发者或程序员出海，最需要的合作伙伴是运营：请运营小伙伴看过来</title><link>https://www.v2ex.com/t/1067196#reply2</link><description>&lt;p&gt;现在独立开发者或程序员出海，UI 设计师没那么重要了，因为有了 AI 。Logo 可以自己用 AI 设计，Hero 图片可以 AI 生成，各种小图片都可以生成。而且创意无限，一般 UI 烧脑是比不过的。&lt;/p&gt;
+&lt;p&gt;前些天发过 2 个帖子:&lt;/p&gt;
+&lt;p&gt;程序员出海社群: &lt;a href="https://hk.v2ex.com/t/1065072?p=1#reply12" rel="nofollow"&gt;https://hk.v2ex.com/t/1065072?p=1#reply12&lt;/a&gt; ， 网站： &lt;a href="https://chengxuyuanchuhai.com/" rel="nofollow"&gt;https://chengxuyuanchuhai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;外链购买/外链提交： &lt;a href="https://hk.v2ex.com/t/1065478#reply1" rel="nofollow"&gt;https://hk.v2ex.com/t/1065478#reply1&lt;/a&gt; , 网站： &lt;a href="https://wailian.org/" rel="nofollow"&gt;https://wailian.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这 2 个网站都是自己完成的，没有美术基础。UI 应该还算不错吧。如果请 UI 设计师设计出这个水平，月薪至少是 1.5w 以上的。但用 AI 就免费解决了。&lt;/p&gt;
+&lt;p&gt;对于独立开发者来说，最重要的是运营，搞流量。做网站/产品容易，搞流量难。
+程序员和运营合作，做成事的可能性才大一些。&lt;/p&gt;
+&lt;p&gt;而且说句扎心的真相，独立开发者技术越好，越做不起来。这是被事实证明的，以后可以详细解释这句话。&lt;/p&gt;
+&lt;p&gt;所以，有没有运营小伙伴 过来聊聊的。&lt;/p&gt;
+&lt;p&gt;关于个人情况，看那 2 个网站/帖子可以得到一些信息。除了上面 2 个网站，还有其它几个产品也开发出来了，后面会开始推广。&lt;/p&gt;
+&lt;p&gt;举个例子自证一下人是否靠谱：&lt;/p&gt;
+&lt;p&gt;10 多年前，我和一个小伙合作，我们在 AppStore 上的收入达到近 10KUSD （上面第二个帖子里提到了）。iOS 账号是我的，所以收款用我的账号，后来犯懒，我把收款账号改成了他的，然后他每月收款然后分钱再打给我，哈哈。他在深圳，我在北京，我们至今没见过面，但现在仍经常讨论一些项目保持合作，关系很好。&lt;/p&gt;
+&lt;p&gt;具体合作方式，现在不好说，需要多聊多了解。不大可能是付费雇佣方式，可以是分成，但我要消除你的担心。目标是一起做点事，优势互补，达到双赢，而且是长期的双赢。&lt;/p&gt;
+&lt;p&gt;最好有一些运营搞流量的经验吧。&lt;/p&gt;
+&lt;p&gt;不能合作也没关系，可以进我们那个 程序员出海社群， 里面有不少程序员， 也可以与其他人合作。&lt;/p&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:07:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067196#reply2</guid></item><item><title>[程序员] 2024 年，你觉得小程序可以完全替代 App 了吗？为什么总能遇到一些吹捧小程序贬低 App 的观点？</title><link>https://www.v2ex.com/t/1067195#reply9</link><description>&lt;p&gt;就我个人而言，对于一些即用即走的服务，比如点外卖买菜挂号，小程序是非常方便的，我很久没有考虑过下载 App 来用这些服务，甚至肯德基在推广 App 下载有优惠的时候，我都在想，有必要吗？只是吃个饭而已，小程序就好了呀。&lt;/p&gt;
+&lt;p&gt;但对于一些生产力软件，看视频软件，学习软件，我还是更倾向于打开单独的 App ，因为那样更有沉浸式体验，往往性能也比小程序高上好几个层次。&lt;/p&gt;
+&lt;p&gt;其实我不太理解，为什么现在一说到移动端开发，就是要优先小程序开发，什么 App 式微啦，App 推广难啦，App 下载劝退率高啦&lt;/p&gt;
+&lt;p&gt;除非你的应用是即用即走的，可以用小程序，否则有一个自己的 App 是很重要的，一来不会被卡蛋蛋，二来，真的想你软件的用户，就算你官网放个 apk ，他都能找来下载&lt;/p&gt;
+&lt;p&gt;不知道你们的观点是什么呢？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 03:02:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067195#reply9</guid></item></channel></rss>
