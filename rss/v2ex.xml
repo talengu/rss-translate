@@ -1,116 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 23 Aug 2024 14:39:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[分享创造] 关于个人独立站的问题</title><link>https://www.v2ex.com/t/1067369#reply0</link><description>&lt;p&gt;我有 3 个初级小白问题想咨询一下大家（关于网上零碎的内容我看了很多，但是这种东西无法连成网，缺一些前因后果）：&lt;br /&gt;
-1 、关于博客类的内容管理一般都是怎么做的？我看很多独立站的技术栈都是 Next+tailwind 这一套，那博客这种需要设计 SEO 的内容应该都生成静态页面再更新上去的吧？还有一种是 WordPress 这类 CMS 系统，这个我看外贸用的挺多，它和自己码的区别又是什么？&lt;br /&gt;
-2 、关于托管平台，我看 vercel 和 cloudlfare 各有各的好，但是我看到过一种说法，说很多人都是用的 cloudflare 的 cdn ，再解析到 vercel 上，为啥要整这么复杂？&lt;br /&gt;
-3 、关于独立站，很多分享都集中在前端和内容这部分，这些东西最后都是以静态页面的形式托管在平台上，关于流量分析、newsletter 订阅和用户注册/付费这些东西照理说也应该有一些后台功能，这部分一般是用什么做的？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:35:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067369#reply0</guid></item><item><title>[程序员] Chrome 更新 128 版本后标签栏左侧无法靠边，强迫症求解</title><link>https://www.v2ex.com/t/1067368#reply6</link><description>&lt;p&gt;现 mac 上版本 128.0.6613.85 （正式版本） (arm64)，有大佬知道如何解决吗？
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/T2xFwMI.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:14:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067368#reply6</guid></item><item><title>[iPhone] IOS 的闹钟让人没有安全感</title><link>https://www.v2ex.com/t/1067367#reply3</link><description>&lt;p&gt;一直没有摸清楚 ios 的媒体音量和铃声音量和静音按钮的关系，很多次都因为手机铃声静音了而闹钟不响。
-例如睡前听歌，快睡着了都要琢磨一下，当前到底是什么声音状态，闹钟不会不响吧？
-吐槽一下，真的很反人类&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:05:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067367#reply3</guid></item><item><title>[云计算] 各位大佬，这个配置是买刀片服务器托管，还是买云服务器</title><link>https://www.v2ex.com/t/1067366#reply0</link><description>&lt;p&gt;4c8g debian12 50g 系统盘 500g 数据盘 x2&lt;/p&gt;
-&lt;p&gt;16c32g debian12 50g 系统盘 500g 数据盘 x2&lt;/p&gt;
-&lt;p&gt;32g64g debian12 50g 系统盘 1024g 高性能 ssd = 数据库 / 云数据库实例 32c64g&lt;/p&gt;
-&lt;p&gt;4c8g windows server 50g 系统盘 1024g 数据盘&lt;/p&gt;
-&lt;p&gt;弹性公网 IP x1   外网带宽 125M&lt;/p&gt;
-&lt;p&gt;5T 云盘/对象存储 x1&lt;/p&gt;
-&lt;p&gt;各位大佬，上面的配置是买云服务器还是自己买刀片服务器托管合适呢
-云服务器找了几家询价之后，3 年大概在 20 万左右；托管机房的话大概 4000 一个月，不算硬件硬件还没考虑&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:04:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067366#reply0</guid></item><item><title>[问与答] 我自己做了个 Android 小软件，结果反诈中心打电话来了</title><link>https://www.v2ex.com/t/1067365#reply8</link><description>&lt;p&gt;先说明发这个帖子的目的：各位帮我想想&lt;strong&gt;在哪些环节容易出现个人信息的泄露&lt;/strong&gt;，以及如何在日后避免。&lt;/p&gt;
-&lt;h2&gt;介绍&lt;/h2&gt;
-&lt;p&gt;因为小区开门禁需要使用 APP 操作，但是我觉得过于繁琐，所以通过抓包获取了开门的 POST （非常简单的请求，附载只需要手机号和门禁 ID ，没有任何加密），并自己做了一个简单的 Android APP ，顺便学习一下 Android 开发。&lt;/p&gt;
-&lt;h2&gt;行为&lt;/h2&gt;
-&lt;h3&gt;1. GitHub&lt;/h3&gt;
-&lt;p&gt;该软件的代码已开源并托管在 Public GitHub Repo ，GitHub 账户绑定了我在香港的大学的教育邮箱&lt;/p&gt;
-&lt;h3&gt;2. 我的主力机&lt;/h3&gt;
-&lt;p&gt;港版 Nothing Phone (2)，安装的是 GitHub 上 release 版的 APP ，未主动安装过反诈 APP&lt;/p&gt;
-&lt;h3&gt;3. 我的备用机&lt;/h3&gt;
-&lt;p&gt;国行 Realme 12 Pro+，安装的是 Android Studio Debug 版的 APP ，未主动安装过反诈 APP&lt;/p&gt;
-&lt;h3&gt;4. 我爸的手机&lt;/h3&gt;
-&lt;p&gt;国行 Samsung S22 ，安装的是 GitHub 上 release 版的 APP ，曾经安装过反诈 APP ，但是据我爸说在安装我的软件前已经卸载反诈 APP&lt;/p&gt;
-&lt;h3&gt;5. 我的主用电话卡&lt;/h3&gt;
-&lt;p&gt;插在我的主力机上，但是卡是落于我爸名下，但是我不清楚是否依旧被标记使用人是我&lt;/p&gt;
-&lt;h3&gt;6. 我的备用电话卡&lt;/h3&gt;
-&lt;p&gt;插在我的备用机上，实名认证是我&lt;/p&gt;
-&lt;h3&gt;7. 微信&lt;/h3&gt;
-&lt;p&gt;我在微信视频号上发布了一个关于我这个软件的介绍视频，并转发到了朋友圈，我的微信账号绑定的是我的主用电话卡&lt;/p&gt;
-&lt;h2&gt;细节&lt;/h2&gt;
-&lt;p&gt;反诈电话只打给了我，打的是我的主用电话卡，没有打给我爸，上来正确直呼了我的名字以及我做的软件名字。电话时间大概是我这个 APP 安装在我两部手机上一周后，是安装在我爸手机上约 3 天后，是我发布微信视频约 5 天后。&lt;/p&gt;
-&lt;p&gt;最开始接到的是 96110 ，跟对方说明这个不是诈骗软件后，对方表示了解，并让我以后多注意一些。在挂断 96110 之后，街道公安打电话来了，表示要上访到家现场检查我的软件，但是因为我在学校，对方表示要把我这个情况反馈给上级，现无进一步通知。&lt;/p&gt;
-&lt;h2&gt;疑问&lt;/h2&gt;
-&lt;p&gt;为什么公安只打电话给&lt;strong&gt;我&lt;/strong&gt;，并问我是不是&lt;strong&gt;我&lt;/strong&gt;安装了这个软件，而从未询问过我爸？&lt;/p&gt;
-&lt;p&gt;反诈中心是怎么评判一个软件是否是&lt;strong&gt;诈骗软件&lt;/strong&gt;的？&lt;/p&gt;
-&lt;p&gt;我在之前也做过很多小软件，不过都没有在我爸的手机上安装，为什么那些公安&lt;strong&gt;没有来查&lt;/strong&gt;？&lt;/p&gt;
-&lt;p&gt;我已经尽可能详细的写出所有细节，希望各位帮我想想到底是哪里出了问题？我个人觉得是视频号（但是要是完整看过这个视频，都不至于会认为这是个诈骗软件，因为这个视频已经把我这个软件的所有功能都演示过了）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我担心的不是反诈中心误杀了我这个软件，而是他们是怎么监测到我这个刚开发的软件的，在上述环节中总有一个地方被监测到了，我担心的是这个，并希望把这个隐藏的「威胁」清除。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果这个帖子还泄露了什么个人信息，烦请管理员帮忙删了，学生一枚，真的已经害怕了😨&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:01:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067365#reply8</guid></item><item><title>[随想] 人脸支付和隐私的平衡</title><link>https://www.v2ex.com/t/1067362#reply3</link><description>&lt;p&gt;今天跟同事聊天，我说人脸支付真的方便，还有停车场无感支付也很方便，扫码也烦了，同事说你的生物信息被收集，你的车辆行程被收集，你的隐私呢。&lt;/p&gt;
-&lt;p&gt;所以，你们觉得呢，你们觉得以后会是什么样，无感这么方便，真的会因为隐私，而无法普及吗&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 13:40:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067362#reply3</guid></item><item><title>[分享发现] 分享一个因“睑板腺堵塞”导致干眼症治疗方法——毛巾热敷</title><link>https://www.v2ex.com/t/1067361#reply0</link><description>&lt;p&gt;前情提要：&lt;a href="https://www.v2ex.com/t/1033499#reply61" rel="nofollow"&gt;眼睛不舒服的同学一定记得抽空去医院检查下，得了干眼症就追悔莫及了&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;除了正常的滴眼药水、去医院定期做眼部按摩和每日定时放松眼睛之外，发现一个很有效的方法，每天早晚两次使用热毛巾热敷 10min&lt;/p&gt;
-&lt;p&gt;不建议用蒸汽眼罩
-温度和水分都不够，效果不行&lt;/p&gt;
-&lt;p&gt;热敷时间
-如果时间不够，建议睡觉前，不用太久，10 ～ 20 分钟左右，用一条热毛巾浸湿之后热敷。&lt;/p&gt;
-&lt;p&gt;如何判断效果
-热敷完一般眼角会有一些黄色或者透明的分泌物&lt;/p&gt;
-&lt;p&gt;坚持一到两周，就能看到效果了&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 13:28:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067361#reply0</guid></item><item><title>[问与答] 烦人！微信 Mac 版“朋友圈”点击地址“地图”总回当前位置</title><link>https://www.v2ex.com/t/1067359#reply0</link><description>微信 mac 版，点击“朋友圈”的地址后，&lt;br /&gt;&lt;br /&gt;弹出的系统“地图”只停留 1 秒钟，定位就回到当前位置了，好烦人呀！！！！</description><pubDate>Fri, 23 Aug 2024 13:01:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067359#reply0</guid></item><item><title>[宽带症候群] 一些主流网站哪些域名是不做登录校验适合流量分流的？</title><link>https://www.v2ex.com/t/1067358#reply2</link><description>&lt;p&gt;如题，比如 x ，流量消耗比较大，单个小鸡撑不住。想做下域名或者 api 分流。
-但是怕账号登录因为频繁切换 ip 导致被风控。所以不能把所有域名都分流。
-求问大佬们知不知道一些知名网站，比如 x 或者 ins 之类的，哪些域名是不校验登录的，放心分流也不会被风控的？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 12:57:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067358#reply2</guid></item><item><title>[问与答] 远程工作群|数字游民群|Web3.0 交流</title><link>https://www.v2ex.com/t/1067357#reply1</link><description>&lt;p&gt;&lt;a href="https://t.me/+4EPpVPgJtX5kOGJl" rel="nofollow"&gt;https://t.me/+4EPpVPgJtX5kOGJl&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://discord.gg/6GaVPkK4" rel="nofollow"&gt;https://discord.gg/6GaVPkK4&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 12:51:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067357#reply1</guid></item><item><title>[OpenWrt] 用 passwall 建 Vmess 服务器作为回家策略</title><link>https://www.v2ex.com/t/1067355#reply1</link><description>passwall 可以建 Vmess 服务器，服务器 subdomain 很长很复杂，在外面访问家里局域网 jellyfin 速度非常快。&lt;br /&gt;&lt;br /&gt;服务器只允许自己的 ip 段使用，只访问局域网，也不经过外网，黑客和 GFW 探测不到吧😀</description><pubDate>Fri, 23 Aug 2024 12:47:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067355#reply1</guid></item><item><title>[Apple] 请问 .AppleSystemUIFont 这个内部字体，具体在不同 os x 版本中是怎么映射的？ 如何找到这种映射关系？</title><link>https://www.v2ex.com/t/1067354#reply0</link><description>&lt;p&gt;&lt;img alt="image.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/08/23/9fx2IohbLPwO6FV.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 12:34:35 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067354#reply0</guid></item><item><title>[iPhone] 关于双机双卡（ iPhone 主力）减小骚扰电话的方案推荐</title><link>https://www.v2ex.com/t/1067352#reply1</link><description>&lt;p&gt;之前从 iPhone 切到单卡+主力安卓（ iqoo ），iPhone 基本闲置当 mp4 ，骚扰电话仅靠 vivo 自带拦截已经算是比较清静了。&lt;/p&gt;
-&lt;p&gt;但下个月 16 出来估计要以旧换新换 iPhone 主力（还是喜欢软件生态，也包括跟 mbp/iPad/AirPods 联动），打算到时候给它配个流量副卡，变成 iPhone 主力+副卡、安卓备机+主卡 8 元保号套餐（接快递外卖电话）的方式。&lt;/p&gt;
-&lt;p&gt;这样一来，如果平时只用 iPhone ，安卓放家+呼叫/短信转移到 iPhone&lt;/p&gt;
-&lt;p&gt;1 、不知道能不能利用到安卓的骚扰拦截能力？
-2 、顺便求推荐划算的流量卡套餐（每月 200 分钟+20G 足够满足）&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 12:24:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067352#reply1</guid></item><item><title>[宽带症候群] RouterOS，双网段，双 ISP 下， DNS 的问题。</title><link>https://www.v2ex.com/t/1067351#reply2</link><description>&lt;p&gt;现状：移动联通宽带各一条，均通过 ros 进行 pppoe 拨号。有两个 LAN 口分别设置为 192.168.1.x 和 192.168.2.x 。其中 1 网段走移动，2 网段走联通。参考&lt;a href="https://www.irouteros.com/?p=714" rel="nofollow"&gt;此篇教程&lt;/a&gt;进行配置，主要设置：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;[admin@MikroTik] /routing/table&amp;gt; print 
-Flags: D - dynamic; X - disabled, I - invalid; U - used 
- 0 D   name="main" fib 
- 1     name="CMCC" fib 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 23 Aug 2024 20:36:21 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenAI] ChatGPT plus 订阅时候付款用 link 输入中国 VISA 可以吗？</title><link>https://www.v2ex.com/t/1067396#reply0</link><description>看网上有人说 ChatGPT Plus 订阅时候是可以选择中国信用卡的。默认是选择 link 交易。有人说中国信用卡可以交易并续费成功。&lt;br /&gt;&lt;br /&gt;大家有谁用这样的方式试过么？</description><pubDate>Fri, 23 Aug 2024 20:14:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067396#reply0</guid></item><item><title>[分享发现] 推荐一个油猴脚本：知乎备份剪藏，将你喜欢的回答/文章/想法保存为 markdown / zip / png</title><link>https://www.v2ex.com/t/1067395#reply0</link><description>&lt;p&gt;我之前做了一个电报机器人保存知乎的问答，后面知乎反爬虫升级了，就不能工作了，今天刚好看到一个新插件。&lt;/p&gt;
+&lt;p&gt;在这个互联网没有记忆的时代，帮你保存知乎上珍贵的内容，方便日后查阅。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;复制知乎文章/回答/想法为 Markdown&lt;/li&gt;
+&lt;li&gt;下载文章/回答/想法为 zip （包含图片与文本，以及赞数时间等信息）&lt;/li&gt;
+&lt;li&gt;下载文章/回答/想法为纯文本&lt;/li&gt;
+&lt;li&gt;剪藏文章/回答/想法为图片&lt;/li&gt;
+&lt;li&gt;可选添加保存备注&lt;/li&gt;
+&lt;li&gt;可选保存当前页评论&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://github.com/qtqz/zhihu-backup-collect" rel="nofollow"&gt;https://github.com/qtqz/zhihu-backup-collect&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 19:28:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067395#reply0</guid></item><item><title>[VPS] 搬瓦工突然无法访问才 open ai api</title><link>https://www.v2ex.com/t/1067394#reply0</link><description>&lt;p&gt;机房 Current location of this VPS: US: Los Angeles, California (DC6 CT CN2GIA-E) [USCA_6]
+显示&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{"error":{"code":"unsupported_country_region_territory","message":"Country, region, or territory not supported","param":null,"type":"request_forbidden"}}root@cheerful-echo-2:~/
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;[admin@MikroTik] /routing/rule&amp;gt; print 
-Flags: X - disabled, I - inactive 
- 0   src-address=192.168.1.0/24 action=lookup table=CMCC 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;[admin@MikroTik] /ip/route&amp;gt; print detail 
-Flags: D - dynamic; X - disabled, I - inactive, A - active; 
-c - connect, s - static, r - rip, b - bgp, o - ospf, i - is-is, d - dhcp, v - vpn, m - modem,&amp;gt;
-H - hw-offloaded; + - ecmp 
- 0  As   dst-address=0.0.0.0/0 routing-table=main gateway=pppoe-out2 immediate-gw=pppoe-out2
-         distance=1 scope=30 target-scope=10 suppress-hw-offload=no 
+&lt;p&gt;已经尝试&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;echo "nameserver 172.31.255.2" | sudo tee /etc/resolv.conf &amp;gt; /dev/null
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 23 Aug 2024 19:11:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067394#reply0</guid></item><item><title>[分享发现] 我: 你好。Gemini: 我无法提供这方面的回应</title><link>https://www.v2ex.com/t/1067393#reply0</link><description>&lt;a href="https://i.imgur.com/TnpRUIy.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TnpRUIy.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 18:40:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067393#reply0</guid></item><item><title>[路由器] RB5009 还是 N100</title><link>https://www.v2ex.com/t/1067392#reply2</link><description>&lt;ul&gt;
+&lt;li&gt;计划替换现有的出口路由，下连 Huawei S1720 &lt;/li&gt;
+&lt;li&gt;当前是 N4200 工控主板 + iKuai + OP ，双 300M 宽带&lt;/li&gt;
+&lt;li&gt;没有 AIB 需求，N100 的话就加一个 OP 科学上网用，没有的话就在 NAS 上部署 OP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;折腾的目的主要是想玩玩 ROS ，目前拿家里破台式机当路由跑了两周，感觉还挺不错&lt;/p&gt;
+&lt;p&gt;目前纠结是直接咸鱼 RB5009 还是 N100 + P10 CHR ，这俩实际到手价格应该差不太多。RB5009 样子很喜欢，不过 CHR 后续可以转让 + N100 后面还可以挪作它用也很不错。&lt;/p&gt;
+&lt;p&gt;其实我还有个骚想法，NAS 换 12300T ，替换下来的 E31230 搞个 1U 工控机箱做路由。但是这个投入感觉有点儿高，正在极力克制中&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 18:06:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067392#reply2</guid></item><item><title>[NAS] 从 Plex 转到 Jellyfin 了，写一下体验</title><link>https://www.v2ex.com/t/1067391#reply4</link><description>&lt;p&gt;根本原因是 Plex 这家公司在往流媒体转型，很多方面压根就不会考虑 self-hosted 用户的体验。Plex 的优点无非就是 UI 更好看，易上手，bug 相对少一些，而这些你用 Infuse 都可以获得更好的体验。但 Plex 的问题大部分很难甚至没法解决&lt;/p&gt;
+&lt;p&gt;1 、Plex 自带的播放器只支持 30 秒快进，而且是写死的。这个是在外网被说烂的 ticket ，但 Plex 官方没有任何要优化的意图，说白了就是自建用户的体验压根不重要。当然了你用 Infuse 这种第三方可以解决，但我都用 Infuse 了 Plex 跟 Jellyfin 有啥差别？
+2 、Infuse 直连 Jellyfin 的体验远好于 Plex ，不管是速度还是稳定性。Jellyfin 还有官方插件可以直接支持动态增量更新，Plex 那就慢慢等吧
+3 、Plex 对第三方插件的态度是没给你 ban 掉就感恩吧。这带来的后果之一就是 NFO 支持很烂，只能用五六年前的 XMBC 插件。对这当然能用，但你不能在界面里面修改 NFO ，也不确定以后会不会直接不给你用或者有什么兼容性问题。事实上最近若干年 Plex 基本就没有新的插件甚至是官方的插件文档出现，这是一个已经被废弃的功能。
+4 、Plex 对刮削的支持越来越保守。现在默认只支持 Plex 自己搞的元数据库，手动改成 TMDB 或者 TVDB 会弹警告让你升级。并且明确告知未来会取消对 legacy 元数据库的支持
+5 、Plex 只支持在线认证，这意味着你的家用服务器断开 Internet 在局域网也可能无法访问。
+6 、Plex 的趋势是在主页塞越来越多的私货，目前大部分都可以关闭或者移除，但未来就不好说了。你如果看过 Plex 在 AppStore 上的介绍，就会发现这货宣传重点几乎全是流媒体，只有最后一张图提了一嘴我们还支持自建服务器哦。&lt;/p&gt;
+&lt;p&gt;Jellyfin 优点就不说了，关于缺点
+1 、UI 很原始，但该有的功能都有，硬件转码配置也很方便，如果你用 Infuse 的话这应该不会是一个问题。iOS 和 ATV 上的 swiftfin 效果也还不错，但还有一些 bug ，社区更新也不算积极。
+2 、命名不规范的情况下，刮削命中率比 Plex 差。如果有良好的命名习惯或者用 TMM 批量修正的话这个也不是啥大问题。另外 Jellyfin 的手动修正比 Plex 稳定很多，Plex 的新 Agent 特别坑爹，有时候搜不到东西你也不知道为啥，我上次在 Plex 搜了半天龙珠 Z 竟然死活搜不出来，就很离谱。Jellyfin 再不济你可以直接填 TMDB 和 TVDB 的 ID 手动匹配
+3 、多主机、多用户支持没有 Plex 好。Plex 可以一个账户绑定多个主机然后统一管理，这个在 Jellyfin 这边没啥很方便的方案，不过我没这个需求就也还好。
+4 、分享功能对小白不友好，要么走 tunnel 比如 tailscale 之类的，要么就要反代到公网。授权也只能通过本地建新账户，而不是直接向对方账号发邀请的方式&lt;/p&gt;
+&lt;p&gt;我的感受是现在已经不推荐购买 Plex 大会员了，尽管我之前买过 Plex 的终身会员。
+新用户尤其是个人用户不需要分享给一大堆人的话，这钱够买七八年 Infuse 了，而且 Infuse 还能家庭组拼车，基本等于不要钱。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:55:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067391#reply4</guid></item><item><title>[NAS] 分享：支持 Emby 和 Jellyfin 按拼音排序的小工具 v2.1 发布</title><link>https://www.v2ex.com/t/1067390#reply0</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;v2.0 之后使用 python 实现，缩减 docker 体积；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;v2.1 锁定 SortName 字段，防止被系统覆盖（兼容 emby 版本 4.8.8.0 ）；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;docker pull wizzer/jellyfin_pinyin&lt;/code&gt; 安装插件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;特别注意，emby 服务器配置多了个后缀，即 &lt;a href="http://127.0.0.1:8096/emby" rel="nofollow"&gt;http://127.0.0.1:8096/emby&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;源码&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/Wizzercn/jellyfin_pinyin" rel="nofollow"&gt;https://github.com/Wizzercn/jellyfin_pinyin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ps：实在不习惯 emby 默认的按汉字首字母排序的方式~~&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067390#reply0</guid></item><item><title>[分享发现] Apple 官网社区页面存在 XSS 漏洞</title><link>https://www.v2ex.com/t/1067389#reply6</link><description>&lt;p&gt;&lt;a href="https://x.com/_andychung/status/1826021061957398799" rel="nofollow"&gt;https://x.com/_andychung/status/1826021061957398799&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:04:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067389#reply6</guid></item><item><title>[软件] 阿里云盘 Windows 客户端「检查更新」bug</title><link>https://www.v2ex.com/t/1067388#reply0</link><description>&lt;a href="https://i.imgur.com/tJygKBU.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tJygKBU.png" /&gt;&lt;/a&gt;&lt;br /&gt;官网下载 6.2.0 安装包，装完运行软件，打开「检查更新」页面，第一行提示「新版本的阿里云盘已经发布」，第二行提示「已是最新版本，当前版本为 6.2.0 」，下面也没见 6.2.0 的更新说明，而且 6.1.0 的更新说明文字显示也有问题。</description><pubDate>Fri, 23 Aug 2024 17:01:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067388#reply0</guid></item><item><title>[职场话题] offer 选择，求建议</title><link>https://www.v2ex.com/t/1067385#reply8</link><description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;上海某互联网厂&lt;/th&gt;
+&lt;th&gt;浙江某研究所&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;城市&lt;/td&gt;
+&lt;td&gt;一线&lt;/td&gt;
+&lt;td&gt;三线算吧&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;薪资&lt;/td&gt;
+&lt;td&gt;总包大概 25&lt;/td&gt;
+&lt;td&gt;总包大概 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;岗位&lt;/td&gt;
+&lt;td&gt;前端工程师&lt;/td&gt;
+&lt;td&gt;电控算法工程师&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;行业&lt;/td&gt;
+&lt;td&gt;互联网&lt;/td&gt;
+&lt;td&gt;医疗器械&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;作息&lt;/td&gt;
+&lt;td&gt;995&lt;/td&gt;
+&lt;td&gt;955&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;上海这边给的钱多点，后期涨的也快，纯属作为打工赚钱感觉很好啊。&lt;/li&gt;
+&lt;li&gt;浙江这个在老家的这边市中心，开车到上海大概 2 小时多。房价大概 1.9 万左右，后期发展感觉会老家就业面有点窄，除了研究所，一两个大的企业。其他基本没得看感觉。而且研究所吧，我作为工程师进去，感觉没啥发展盼头，都是学术机构感觉，刚成立两年，背景就是市政府和某两个大学医院。&lt;/li&gt;
+&lt;li&gt;女朋友在市中心的某中学的教师。俩都是下面县城的孩子，所以各自目前都得租房。高中就在一起了。个人感觉没有在一块，时间久了容易出问题，之前上学就有一次闹的不愉快因为距离，后怕。也有问过想法，希望近一点。&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Fri, 23 Aug 2024 16:23:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067385#reply8</guid></item><item><title>[分享发现] 博客趣导航网 - 个人博客导航-独立博客大全-博客网址大全</title><link>https://www.v2ex.com/t/1067384#reply3</link><description>国内优秀个人独立博客导航(大全)有哪些?博客导航_个人独立博客聚合网站，博科趣 bokequ 收集了各种个人独立博客的网址，包括技术博客、文学博客、生活博客等 &lt;a href="http://m.bokequ.com/list/22-2.html" rel="nofollow noopener" target="_blank"&gt;http://m.bokequ.com/list/22-2.html&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 16:22:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067384#reply3</guid></item><item><title>[问与答] 请问如何根据任意 IMSI 号查询物联网卡流量</title><link>https://www.v2ex.com/t/1067383#reply0</link><description></description><pubDate>Fri, 23 Aug 2024 16:13:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067383#reply0</guid></item><item><title>[游戏] 本地没有 4090 也能玩黑神话悟空</title><link>https://www.v2ex.com/t/1067382#reply0</link><description>需要 GPU 云桌面玩黑悟空的 xdm 可以试试，基本感觉不到卡顿，&lt;a href="https://www.compshare.cn/" rel="nofollow noopener" target="_blank"&gt;https://www.compshare.cn/&lt;/a&gt;&lt;br /&gt;注册有 20 块，可以用几个小时的 4090</description><pubDate>Fri, 23 Aug 2024 16:09:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067382#reply0</guid></item><item><title>[问与答] 想请问一下为什么开启 clash verge rev 的 tun 模式下载百度网盘文件，速度比不开慢很多（30MB/s-&gt;3MB/s）</title><link>https://www.v2ex.com/t/1067381#reply0</link><description></description><pubDate>Fri, 23 Aug 2024 15:55:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067381#reply0</guid></item><item><title>[奇思妙想] 使用 cloudflare 的 web3 网关 + ipfs 免费托管静态博客</title><link>https://www.v2ex.com/t/1067380#reply2</link><description>&lt;p&gt;cloudflare 的有一个 web3 网关，可以免费托管 15 个 web3 站点，上传博客到 ipfs 获取目录的 cid ，然后在 cloudflare 的 web3 网关里面创建一个 IPFS DNSLink 的网关，DNSLink 填写你上一步获得的 cid 。&lt;/p&gt;
+&lt;p&gt;注意第一次添加后打开会比较慢，可以通过多个 ipfs 网关打开一次，每个网关都帮你缓存一份，不存在单点故障。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 15:46:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067380#reply2</guid></item><item><title>[前端开发] 抖音网页端的前端项目组负责人肯定是脑子里装满了“金色的智慧”</title><link>https://www.v2ex.com/t/1067379#reply5</link><description>元素变量每隔一段时间就改一次，uBlock Origin 每隔一段时间就得重新抓取一次元素&lt;br /&gt;屏蔽元素前后对比效果图:&lt;br /&gt; [前] &lt;br /&gt;&lt;a href="https://i.imgur.com/eUsMF5z.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/eUsMF5z.png" /&gt;&lt;/a&gt;&lt;br /&gt; [后] &lt;br /&gt;&lt;a href="https://i.imgur.com/6GMcwuq.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6GMcwuq.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这以后还得专门维护了，真无语，B 站/斗鱼/虎牙等国内"毒瘤"的页面元素都只用屏蔽一次</description><pubDate>Fri, 23 Aug 2024 15:45:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067379#reply5</guid></item><item><title>[问与答] 求推荐本地文档全文检索软件，类似 google drive 输入关键字可以快速查找关联文档</title><link>https://www.v2ex.com/t/1067378#reply0</link><description>目前文档都在 Google drive ，日常根据关键字检索关联文档，使用非常便捷，想咨询是否有离线文档管理软件，支持常用的 pdf 、word 、PPT 、Excel 文档格式，支持根据关键字全量查询文档内容，谢谢！</description><pubDate>Fri, 23 Aug 2024 15:35:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067378#reply0</guid></item><item><title>[分享创造] Change Clothes AI 轻松试穿，帮你搞定穿搭难题~</title><link>https://www.v2ex.com/t/1067377#reply0</link><description>&lt;p&gt;Change Clothes AI ( &lt;a href="https://changeclothesai.online/" rel="nofollow"&gt;https://changeclothesai.online/&lt;/a&gt;) 是一款主打 AI 虚拟试衣的在线平台，告别“想象”，让你在购买前就能直观看到衣服的上身效果。&lt;/p&gt;
+&lt;p&gt;使用 Change Clothes AI 非常简单，只需要上传一张你的照片和想要试穿的衣服图片，短短 10-30 秒，我们强大的 AI 算法就能生成你穿上新衣的逼真效果图。就像真的试穿一样，再也不用担心买到不合适的衣服.&lt;/p&gt;
+&lt;p&gt;Change Clothes AI 支持免费试用，希望你能喜欢并支持我们。
+访问地址： &lt;a href="https://changeclothesai.online/" rel="nofollow"&gt;https://changeclothesai.online/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase2.png" /&gt;
+&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase6.png" /&gt;
+&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase5.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 15:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067377#reply0</guid></item><item><title>[分享发现] 分享下开发经历中那些曾让我一脸懵逼的瞬间</title><link>https://www.v2ex.com/t/1067375#reply5</link><description>&lt;p&gt;前几天，去朋友工作的小公司溜达，朋友写前端，他身后一哥们写后端，看起来不到三十岁。我闲着无聊，就坐在后端老哥旁边，看他写写代码，不一会儿我朋友前端问题修改完了，打包项目发给他部署到服务器测试一下。这时候我看着后端开始了操作，他们用的是 Caddy Web Server ，于是后端就开始改 Caddyfile 文件：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;:2333 {
+   root * /var/www
+   file_server
+}
 
- 1  As   dst-address=0.0.0.0/0 routing-table=CMCC gateway=pppoe-out1 immediate-gw=pppoe-out1 
-         distance=1 scope=30 target-scope=10 suppress-hw-offload=no 
+:2333 {
+   root * /usr/root/dist
+   file_server
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;他简单的把之前的复制了一下，改了&lt;code&gt;root&lt;/code&gt;路径，就打算重启&lt;code&gt;caddy&lt;/code&gt;了。我说：端口也要改吧？他说：先试试。于是重启&lt;code&gt;caddy&lt;/code&gt;，发现报端口重复的错误，又再次编辑&lt;code&gt;Caddyfile&lt;/code&gt;，把端口改了。那一瞬间我甚至怀疑他是不是第一次写代码了，我虽然没用过&lt;code&gt;caddy&lt;/code&gt;，但一个端口配置两个网站，稍微想想也不可能有这种操作吧？&lt;/p&gt;
+&lt;p&gt;这件事让我想起几年前隔壁公司的一个女程序员 A ，因为大家一起下楼吃饭，也都比较熟，有一次 A 找我说：JS 有几个地方的代码报错，能不能帮她看看怎么回事？我过去一看，好家伙！一个类里面这样写着：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-js"&gt;class Store {
+    function getItem(key: string) {
+        // TODO
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;我说类里面写函数为什么要加 &lt;code&gt;function&lt;/code&gt; 关键字？她说好像有这种语法吧，她试了不行还以为开发环境哪里出错了！&lt;/p&gt;
+&lt;p&gt;再说到另一个男同事 B ，这个同事是纯前端，完全不懂一点后端。有一次，他想试试用&lt;code&gt;Node.js&lt;/code&gt;怎么读写数据库实现用户登录，然而编辑器却总是提示错误，我偶然瞅了一眼他正在摸索着写的代码，发现他在 JS 文件里这样写着：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-js"&gt;import sqlite3 from 'sqlite3';
 
+export function login(req: Request) {
+    sqlite3.SELECT * FROM users
+}
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;[admin@MikroTik] /ip/dns&amp;gt; print 
-                      servers: 
-              dynamic-servers: 
-               use-doh-server: https://223.5.5.5/dns-query
-              verify-doh-cert: no
-   doh-max-server-connections: 50
-   doh-max-concurrent-queries: 500
-                  doh-timeout: 5s
-        allow-remote-requests: yes
-          max-udp-packet-size: 4096
-         query-server-timeout: 2s
-          query-total-timeout: 10s
-       max-concurrent-queries: 100
-  max-concurrent-tcp-sessions: 20
-                   cache-size: 2048KiB
-                cache-max-ttl: 1w
-      address-list-extra-time: 0s
-                          vrf: main
-                   cache-used: 153KiB
+&lt;p&gt;我震惊了！函数里面都不是&lt;code&gt;JS&lt;/code&gt;语法，这都看不出来？&lt;/p&gt;
+&lt;p&gt;为什么我要说这几个事情呢，因为他们的情况真的太反差了。通过以上几个事情，不管是谁，第一印象都会觉得这几个人水平很菜。但除了第一个后端，后两个我是知道的。女程序员 A 和男同事 B 工作经历大概都是五六年了。&lt;/p&gt;
+&lt;p&gt;女程序员 A 在他们公司干了两年，做的项目大概一二十万代码，她每天提交代码，开发能力肯定是够的，后面跳槽去了其他公司，据说干得也很好。&lt;/p&gt;
+&lt;p&gt;男同事 B 参与的项目八十多万行代码（ css + js/jsx/ts/tsx + json ）,他参与需求开发和性能优化，平时的工作任务也没出过什么问题。&lt;/p&gt;
+&lt;p&gt;你说他们水平不够吧，他们靠自己的能力完全能够应付日常的开发工作。你说他们厉害吧，有时候写出来的代码我甚至都怀疑他们会不会编程。（上面的几个问题，他们不是大意而犯错，是真的不知道自己写错了）&lt;/p&gt;
+&lt;p&gt;真是奇哉怪哉！&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067375#reply5</guid></item><item><title>[问与答] 一个 Promise/async/await 的执行顺序问题求助🙏</title><link>https://www.v2ex.com/t/1067374#reply3</link><description>&lt;pre&gt;&lt;code class="language-js"&gt;async function async1() {
+  async2().then(() =&amp;gt; {
+    console.log('async1 end');
+  });
+}
+async function async2() {
+  return new Promise((resolve, reject) =&amp;gt; {
+    resolve();
+  })
+}
+
+async1();
+new Promise(function(resolve) {
+  resolve();
+}).then(function() {
+  console.log('promise2');
+})
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;两个网口上的 DHCP 为客户端分配的网关是 192.168.1.1 和 192.168.2.1 ，DNS 同样。目前无论是接入 1 网段还是 2 网段，都可以正常上网，且访问互联网可以走移动联通各自线路。但是访问网易 DNS 检测，总会有一个网段 IP 和 DNS 不一致。我猜 ros 收到客户端请求后，只通过移动联通之一去请求了 doh ，所以会出现移动网段的客户端请求到联通的 ip 地址。&lt;br /&gt;
-现在临时的解决办法是给其中一个网段指派同网段 openwrt 为 DNS ，然后在 openwrt 里设置一个公共 DNS 。这样网易 DNS 检测才会正常。&lt;br /&gt;
-请问各位如果只通过 ros 设置能解决这类 DNS 问题吗?&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 12:08:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067351#reply2</guid></item><item><title>[问与答] 为什么 Microsoft Edge 浏览器翻*之后打开网页是不是会跳转到 https://***captiveportal/generate_204 并自动下载一个 generate_204 文件？</title><link>https://www.v2ex.com/t/1067349#reply1</link><description>&lt;p&gt;为什么 Microsoft Edge 浏览器翻* 之后打开网页是不是会跳转到 &lt;a href="https://edge-http.microsoft.com/captiveportal/generate_204" rel="nofollow"&gt;https://edge-http.microsoft.com/captiveportal/generate_204&lt;/a&gt; 并自动下载一个 generate_204 文件？如何才能解决不自动跳转？&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 11:50:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067349#reply1</guid></item><item><title>[寻人] 寻缘启事：找个女朋友</title><link>https://www.v2ex.com/t/1067348#reply4</link><description>&lt;p&gt;本人男，无房无存款。相貌不佳，身高不足一米八。普通程序员，收入一般。找个漂亮女朋友。有意者可与我联系。本启事长期有效。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 11:50:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067348#reply4</guid></item><item><title>[问与答] 不快乐的精英：被 100 分哲学毒害/无法活在 60 分哲学</title><link>https://www.v2ex.com/t/1067347#reply4</link><description>&lt;p&gt;最近楼上天天半夜噪音，一个月没怎么睡好，长带状疱疹，神经痛痛得我半夜嗷嗷叫，脾气很大。随便写点，不客观，没科学依据，没统计规律，就说几个认识的朋友。最好别封我，不然不知道去哪发疯。我也不是和他们一个圈子的，只是最近因为某些事情联系上了，发现我认为的精英们，竟然在苦恼这些，好吧我曾经也苦恼过现在淡定了。&lt;/p&gt;
-&lt;p&gt;他们都是名校毕业，学理科，传统制造业和计算机行业。也都是价值观非常正派，求真务实，不坑蒙拐骗别人钱财和感情，不乱包装销售自己的人，于是也让自己非常非常的孤独，因为永远觉得自己不够好，永远没有准备好。
-不太幸福，也不快乐，永远焦虑，永远自我怀疑，钱多也焦虑，没钱也焦虑，优秀也焦虑，不优秀更焦虑。那种以为自己赚钱了就不焦虑的状态并达不到，为什么得到钱之后，还是焦虑。&lt;/p&gt;
-&lt;p&gt;为什么亚洲人永远要活在成功学里面。中国理工科人，特别是男生，大概是当今全世界精神压力最高的群体，没有之一了。&lt;/p&gt;
-&lt;p&gt;同学 1:
-父母清华的，家世太好，考试几乎门门都是满分，连语文都是只扣 2 分，扣的是作文，其他语文题都是满分。
-念书之后，那是念遍世界名校，最后也说卷的太累。以为人生就是一道又一道题，做好就行，最后发现，人生好像，不是做题欸。倒是父母给花的学费钱，要努力还给父母。不然自己以后换职业，都需要照顾父母面子。父母朋友都是那样，大学教授，单位中层干部，谁家的小孩，不是父母的面子呢，各家小孩，从小学就开始比，告诉我她从小就在的高要求下长大，不仅需要成绩好，连道德水平，待人接物，那是啥都要标准模板必须做到。进入社会才发现，原来事事可以做到 60 分，自己曾经努力的 100 分，是一种过度用力。为此感叹过去很多年，没有什么同龄人的生活，没有童年，青年欸。现在节奏慢下来，告诉我，哇，原来这才是人生啊。呜呜呜，原来可以这样简单做到啊。原来做到 60 分不是耻辱啊。&lt;/p&gt;
-&lt;p&gt;同学 2：
-父母好像是保健品公司的小干部，父母爱卷的不行，他从小在家就和自己父母竞争上了。家里从来没有任何娱乐，父母不是在家学习工作，就是在外面参加行业活动，周末也不例外。这同学可能还是数学太好，从小竞赛金牌，一路保送至顶尖名校，现在熬出头了竟然告诉我说，看见代码心里就有阴影了。 一个多年搞竞赛，秒杀国内外竞赛的人，竟然看着自己最熟悉又擅长的东西，感到恐惧。同时因为自己形象太高大，出名之后，又太多学弟学妹的膜拜，自己反而不能做真实的自己了。在一个海边城市住，但是从来没去过海边，说永远有弄不完的项目，还是那句话，说自己没有生活。&lt;/p&gt;
-&lt;p&gt;同学 3：
-父亲是公务员，同学本身成绩还可以，但是和前两个同学比，就算成绩普通的一般人。父亲一直让他考公务员，哇塞考 5 年了，考不上，同学都要精神崩溃了，给他讲了一下现在考的人太多了，胜算几率太小了，没事的不要逼迫自己。但是他真不行，在父亲面前，真是不敢说话。我真担心他就像新闻里面的那些考 n 年没上的人一样，精神崩溃了。&lt;/p&gt;
-&lt;p&gt;总结：
-他们本身都很优秀，但是父母的确是时代红利，太过闪亮，他们别说超越父母，就和父母平起平坐都很困难。再加上自己说的，从小不知道什么是生活，彷佛，自己只要在一次又一次竞争中，得到胜利，就可以得到那个遥远的幸福。却说，当得到一切之后，自己已经失去了感知快乐的能力，只是把它当作一个任务完成了而已。&lt;/p&gt;
-&lt;p&gt;还有，他们的父母好像都不允许他们，袒露自己的情感，不管是快乐的情感，还是悲伤，愤怒的情感，情感这块好像一直是一种压抑，未发育的状态。既无法表达自己的情感，可能是所处环境总是拒绝他们的情感需求，表达悲伤没有被安抚过，反而被父母说无用。所以早就关闭了这个情感通道，长大之后，也很难和其他人，建立深度的情感链接，不管是友情，还是亲密异性关系。哎~~父母太成功的小孩，真的有自我发展自己，生长成为一个自然形态的人的空间吗？不知道他们何时才能放下。幸福和快乐其实可以很简单。&lt;/p&gt;
-&lt;p&gt;生活能把握住 60 分已经很不错了。不容易啊不容易。。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 11:46:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067347#reply4</guid></item><item><title>[问与答] 笔记本外接屏幕怎么显示 BIOS 或 WinPE 画面？</title><link>https://www.v2ex.com/t/1067345#reply1</link><description>我这台电脑能用 Type-C (DP)和 HDMI 输出视频，外接显示器也能分别用这两种信号显示。&lt;br /&gt;买副屏之后才发现这个现象的，外接屏在系统进入锁屏界面之前不显示任何画面，只有无信号的待机画面。也就是说，把屏幕设置成“仅在 2 上显示“，那么下次开机的时候开机画面（ OEM Logo ）仍在内置显示器上播放。&lt;br /&gt;同理，重启到 BIOS 或 PE 系统里面也是类似现象，这两种环境貌似都不能识别外接屏，只能在内置屏里显示画面。&lt;br /&gt;如标题所示，有办法做到么？</description><pubDate>Fri, 23 Aug 2024 11:36:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067345#reply1</guid></item><item><title>[淘宝] tb 上的流量卡这么便宜?</title><link>https://www.v2ex.com/t/1067344#reply5</link><description>&lt;p&gt;&lt;a href="https://imgur.com/a/xUrBulA" rel="nofollow"&gt;https://imgur.com/a/xUrBulA&lt;/a&gt;
-&lt;a href="https://imgur.com/a/iQT8xl9" rel="nofollow"&gt;https://imgur.com/a/iQT8xl9&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 11:31:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067344#reply5</guid></item><item><title>[macOS] 连上公司 Wi-Fi 以后，邮件 APP 总是提示「“邮件”无法验证服务器“imap.aq.com”的身份」怎么办？</title><link>https://www.v2ex.com/t/1067343#reply6</link><description>搜了一下说让邮件走代理可以解决，于是我用 surge 配置了一下，怎么说呢，好像确实有用，但是过了一阵子又开始提示了，也不知道为啥，surge 开增强模式试了试还是不行。&lt;br /&gt;这证书我也不敢随便就设置成全都信任&lt;br /&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/7elvYzu.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/7elvYzu.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/2sgh1Kn.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/2sgh1Kn.jpg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/57kH5RE.jpg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/57kH5RE.jpg" /&gt;&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 11:13:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067343#reply6</guid></item></channel></rss>
+&lt;p&gt;输出结果为&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;promise2
+async1 end
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;(面试时候遇到的，去掉了无关的 log)&lt;/p&gt;
+&lt;p&gt;想知道为什么 promise2 早于 async1 end ？&lt;/p&gt;
+&lt;p&gt;我的想法是 &lt;code&gt;async2()&lt;/code&gt; 的 then 方法早于 &lt;code&gt;new Promise&lt;/code&gt; 的 then 方法执行，那么其回调函数就应该先被放入微任务队列，也就应该先被执行，但实际情况不是这样。&lt;/p&gt;
+&lt;p&gt;另外，如果我把 &lt;code&gt;async1&lt;/code&gt; 和 &lt;code&gt;async2&lt;/code&gt; 的 &lt;code&gt;async&lt;/code&gt; 关键字去掉，那么输出就变为&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;async1 end
+promise2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;求大佬解答&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067374#reply3</guid></item></channel></rss>
