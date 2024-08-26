@@ -1,160 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 23 Aug 2024 20:36:21 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenAI] ChatGPT plus 订阅时候付款用 link 输入中国 VISA 可以吗？</title><link>https://www.v2ex.com/t/1067396#reply0</link><description>看网上有人说 ChatGPT Plus 订阅时候是可以选择中国信用卡的。默认是选择 link 交易。有人说中国信用卡可以交易并续费成功。&lt;br /&gt;&lt;br /&gt;大家有谁用这样的方式试过么？</description><pubDate>Fri, 23 Aug 2024 20:14:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067396#reply0</guid></item><item><title>[分享发现] 推荐一个油猴脚本：知乎备份剪藏，将你喜欢的回答/文章/想法保存为 markdown / zip / png</title><link>https://www.v2ex.com/t/1067395#reply0</link><description>&lt;p&gt;我之前做了一个电报机器人保存知乎的问答，后面知乎反爬虫升级了，就不能工作了，今天刚好看到一个新插件。&lt;/p&gt;
-&lt;p&gt;在这个互联网没有记忆的时代，帮你保存知乎上珍贵的内容，方便日后查阅。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 26 Aug 2024 19:19:21 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[macOS] 求一款 Mac/ iPad 上高回报率（&gt; 125 hz）的蓝牙鼠标</title><link>https://www.v2ex.com/t/1068000#reply1</link><description>如题，本人使用 MacBook Pro （ macOS Sonoma 14.1 ），因为出门不想带接收器、接口不够用等原因，想找一款鼠标长期在蓝牙模式下使用。&lt;br /&gt;因为 macOS 的毛病，大多数蓝牙鼠标会不跟手，所以我的需求是回报率高，不飘。&lt;br /&gt;&lt;br /&gt;测试回报率可以用这些网站（建议使用 Chrome 浏览器）：&lt;br /&gt;&lt;a href="https://devicetests.com/mouse-rate-test" rel="nofollow noopener" target="_blank"&gt;https://devicetests.com/mouse-rate-test&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.sqlsec.com/mouse/" rel="nofollow noopener" target="_blank"&gt;https://www.sqlsec.com/mouse/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;我目前用的 Razer orochi v2 蓝牙只有 90Hz ，用蓝牙明显感觉到不太稳。&lt;br /&gt;网上听说刺鳞树蝰、ROG 战刃、月刃的表现不错，但似乎也没人测试过回报率。如果有用这些鼠标的朋友不妨测试一下。&lt;br /&gt;如果也能测试一下 iPad 下的表现就更好了。我的鼠标在连接 iPad 时也非常飘，而同样是蓝牙，Magic trackpad 就很稳，不知道是不是大家也这样。&lt;br /&gt;先谢谢各位了。</description><pubDate>Mon, 26 Aug 2024 18:35:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068000#reply1</guid></item><item><title>[问与答] 怎么让 Go 语言竞态检测提前输出结果？</title><link>https://www.v2ex.com/t/1067999#reply0</link><description>在用 go run -race 对一个长时间运行的应用进行竞态检测时，怎么让它在遇到第一个竞态条件时就输出结果呢？&lt;br /&gt;&lt;br /&gt;在官方文档里面看见可以改变环境变量 GORACE 的 halt_on_error 值来设置成遇到第一个问题就输出结果&lt;br /&gt;&lt;br /&gt;但是 Windows11 上在系统变量里面设置 GORACE 变量好像不起作用(ಥ_ಥ)</description><pubDate>Mon, 26 Aug 2024 18:29:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067999#reply0</guid></item><item><title>[程序员] Github 的 issue 收到奇怪的评论(疑似病毒文件)</title><link>https://www.v2ex.com/t/1067998#reply1</link><description>&lt;p&gt;我在与某个用户在 &lt;a href="https://github.com/gkd-kit/gkd/issues/713" rel="nofollow"&gt;https://github.com/gkd-kit/gkd/issues/713&lt;/a&gt; 正常讨论的过程中&lt;/p&gt;
+&lt;p&gt;某个人突然到这个 issue 发了一个文件分享链接&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/808d22cc-2087-4845-b1be-aa22be1dc745" /&gt;&lt;/p&gt;
+&lt;p&gt;我猜测这人可能被盗号了，所以直接删除了这条评论以免其他人下载文件&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/213a797b-b8f4-4eba-9227-660e7654d29d" /&gt;&lt;/p&gt;
+&lt;p&gt;随后我在自己的仓库做笔记的时候 &lt;a href="https://github.com/lisonge/lisonge/issues/2" rel="nofollow"&gt;https://github.com/lisonge/lisonge/issues/2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外一个账号来发同样的链接&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/3abffb4d-e6e3-4bbe-8e2c-fc56839ce7fe" /&gt;&lt;/p&gt;
+&lt;p&gt;现在这些文件链接点进去已经显示被屏蔽&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/f8f94792-b58c-4b47-89fb-9a0b391ba24b" /&gt;&lt;/p&gt;
+&lt;p&gt;我查看了第一个账号的首页活动记录，发现他可能是在其他仓库 &lt;a href="https://github.com/jhrrlee/batmf/issues/14" rel="nofollow"&gt;https://github.com/jhrrlee/batmf/issues/14&lt;/a&gt; 误下载导致感染的病毒&lt;/p&gt;
+&lt;p&gt;我在文件被屏蔽之前下载下来了，解压了但是没有运行，重新分享了一下，注意下载后不要直接运行，可能会导致 Github 被盗号&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.mediafire.com/file/p5fw9h246vkqe51/virus.zip/file" rel="nofollow"&gt;https://www.mediafire.com/file/p5fw9h246vkqe51/virus.zip/file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有大佬能分析分析吗？&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 18:22:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067998#reply1</guid></item><item><title>[问与答] 中国有没有这样的城市</title><link>https://www.v2ex.com/t/1067997#reply8</link><description>&lt;p&gt;考虑 Relocate 买房定居，想在中国找能满足以下几点的城市&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;相对中心的区域，离大城市（北上广深）以及部分新一线城市（成都、重庆、杭州、苏州、西安、厦门、三亚）都不算很远，最好是高铁 5 小时内（理想是 3-4 个小时），飞机 2 小时内，且有直飞（理想是 1-1.5 个小时）能到的地方。&lt;/li&gt;
+&lt;li&gt;气候适宜，夏天不是很热（受不了例如深圳那样夏天 35-40 高温且湿度大闷热闷热的）最好能在 30 度以下；冬天不会特别冷，0 度以上为佳（老婆受不了像北方那种零下十多度的冷），10 度左右最好&lt;/li&gt;
+&lt;li&gt;城市相对发展不错，机会适当且创业环境还可以（最好能有一些政府政策上面的优惠）&lt;/li&gt;
+&lt;li&gt;房价适中，不算非常高的，当然越便宜越好&lt;/li&gt;
+&lt;li&gt;旅游城市，美食等为可选，有最好没有也不会太大影响。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;前两条属于重点。&lt;/p&gt;
+&lt;p&gt;现在暂时觉得长沙不错，另外有可能考虑的就是重庆，但都不算非常理想的地点，不知道有没有人给些建议。&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 16:56:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067997#reply8</guid></item><item><title>[Apple] Apple Music 还没到期时加入 Apple One 共享里不会显示？</title><link>https://www.v2ex.com/t/1067996#reply0</link><description>&lt;p&gt;个人版 AM 下个月到期，现在加入了 One 家庭组，然后家人共享的订阅里“由 xxx 共享”有 TV+ 有 Arcade 就是没有 Music 显示。这是正常的么？&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 16:28:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067996#reply0</guid></item><item><title>[分享创造] 做了另一个 MiyooMini+ 主题： Cosy，有 MiyooMini+ 设备的可以试试</title><link>https://www.v2ex.com/t/1067994#reply1</link><description>&lt;p&gt;&lt;img alt="MiyooMini-theme-cosy-night-02" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/5fbc8b10-8975-4b47-a45c-847de0851132" /&gt;&lt;/p&gt;
+&lt;p&gt;基于之前整一个线稿主题，做了现在这个主题： &lt;strong&gt;Cosy&lt;/strong&gt;&lt;br /&gt;
+原则就是尽可能的使自己感觉舒服。&lt;/p&gt;
+&lt;p&gt;github: &lt;a href="https://github.com/KyleBing/onion-theme-cosy" rel="nofollow"&gt;https://github.com/KyleBing/onion-theme-cosy&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所有设计文件都在里面，sketch 格式的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h2&gt;主界面截图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="MainUI_027" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/22d4353a-6533-4481-9d7c-d01f64f12e72" /&gt;&lt;/p&gt;
+&lt;h2&gt;其它截图&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="MainUI_019" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/16c4f47d-dcc7-444b-bddc-8bf8e9983317" /&gt;
+&lt;img alt="MainUI_021" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/c0b7a513-1821-4ddd-a95b-9dab385b9484" /&gt;&lt;/p&gt;
+&lt;h2&gt;设计文件&lt;/h2&gt;
+&lt;img alt="Screenshot 2024-08-26 at 22 26 11" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/4ff62c69-059e-4a1e-a69b-dbf24df82463" /&gt;</description><pubDate>Mon, 26 Aug 2024 15:45:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067994#reply1</guid></item><item><title>[问与答] 抑郁症除了去医院做评估测试，可以通过某些体检的指标确诊吗？</title><link>https://www.v2ex.com/t/1067993#reply0</link><description>抑郁症患者的身体某部分指标会不会跟正常人不太一样？&lt;br /&gt;&lt;br /&gt;有没有有过抑郁症经历的老哥来分享一下？</description><pubDate>Mon, 26 Aug 2024 15:44:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067993#reply0</guid></item><item><title>[问与答] 不登录校园网关+clash 有速度=绕过校园网计费？</title><link>https://www.v2ex.com/t/1067992#reply9</link><description>1.校园网是 ipv4 下载 1 元 1GB ，ipv4 上传免费； ipv6 完全免费并且可以在不登录网关认证的情况下打开一些纯 ipv6 站点：开源镜像站点，腾讯 or 微软系的网站如腾讯文档，登录 QQ 微信等。&lt;br /&gt;&lt;br /&gt;2.在 Windows 系统中不登录网关，0.20.39 版本的 clash 所有节点没有速度即 time out ；&lt;br /&gt;&lt;br /&gt;3.使用 clash for Windows 的 Linux 版本 V0.20.21 版本，在 Linux 系统中不登录网关，测速时会有部分节点有速度，然后在测速网站上发现 ipv4 是梯子节点的 ip ，ipv6 则有时是学校的 ip ，有时梯子节点的 ip 。&lt;br /&gt;&lt;br /&gt;问题：为什么 Linux 系统不登录网关也能让 clash 有速度？这样不就得到了一个不需要花钱的，兼备 ipv4 ，v6 的，自带魔法的校园网？&lt;br /&gt;&lt;br /&gt;个人猜测是早期版本的 clash 中有某些连接 v4 与 v6 的功能，不过在后来的版本中去掉了。</description><pubDate>Mon, 26 Aug 2024 15:39:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067992#reply9</guid></item><item><title>[Android] 寻找 raw socket 方面的移动端开发者</title><link>https://www.v2ex.com/t/1067990#reply6</link><description>&lt;h1&gt;众所周知我是做异地组网的，最近在写安卓客户端，之前的方案是搞 tun ，但是多方查证发现没有直接用跑 tun 有几点原因&lt;/h1&gt;
+&lt;p&gt;1.tun 需要 root 权限
+2.我这里没有 ketlin 或者 flutter 开发者来做界面调用 go 写的。so 文件&lt;/p&gt;
+&lt;h1&gt;经过这些原因干脆直接我把打洞模块封装一下，搞成 so 文件，通过 raw socket 绑定，直接使用官方的 api 类似这种： &lt;a href="https://api.flutter.dev/flutter/dart-io/RawSocket-class.html" rel="nofollow"&gt;https://api.flutter.dev/flutter/dart-io/RawSocket-class.html&lt;/a&gt;&lt;/h1&gt;
+&lt;h1&gt;想找一个感兴趣的开发者，一起加入我们做异地组网&lt;/h1&gt;</description><pubDate>Mon, 26 Aug 2024 15:37:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067990#reply6</guid></item><item><title>[编程] 知乎好物推荐是怎么实现的？</title><link>https://www.v2ex.com/t/1067989#reply0</link><description>&lt;p&gt;知乎好物推荐提供一个商品卡片，显示缩略图，简单描述，价格等。&lt;/p&gt;
+&lt;p&gt;如果想在自己的软件里面实现类似的功能，比如在 WordPress 里面实现，该从哪些方面入手？京东，淘宝，拼多多这些平台有没有提供个人站长可用的 API ？&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:35:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067989#reply0</guid></item><item><title>[游戏] 各位觉得绝区零的打击感如何？</title><link>https://www.v2ex.com/t/1067988#reply2</link><description>&lt;p&gt;我觉得爽爆了，尤其是配合手柄。&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:34:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067988#reply2</guid></item><item><title>[问与答] 新农合又涨价了，唉</title><link>https://www.v2ex.com/t/1067987#reply10</link><description>&lt;p&gt;&lt;img alt="2024 金额" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/M0YUI6p.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="历年金额" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/GhBHcPO.png" /&gt;&lt;/p&gt;
+&lt;p&gt;知道有的大佬觉得应该缴，毕竟得了大病真的报销，真的有用，也同意。但还是想感慨一下，对于一个典型的(爷爷奶奶爸爸妈妈儿子女儿)6 口农村家庭，2400 元真的不是个小数字！请不要说养不起还生这类无意义的话，谢谢。&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:25:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067987#reply10</guid></item><item><title>[Android] 华为 mediapad 11 2023 如何安装 GMS</title><link>https://www.v2ex.com/t/1067986#reply1</link><description>&lt;p&gt;最近买了一个华为平板准备学习用，发现怎么也安装不了 GMS,系统是鸿蒙 4.2,有没有用同款的朋友指点一下&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:09:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067986#reply1</guid></item><item><title>[分享创造] 基于 Astro.js 制作的在线简历 WebCV</title><link>https://www.v2ex.com/t/1067985#reply3</link><description>&lt;p&gt;秋招开始了，基于 Astro 制作了&lt;a href="https://cv.skywt.cn/general" rel="nofollow"&gt;在线简历&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;还做了一个很酷的 Landing Page：&lt;a href="https://cv.skywt.cn" rel="nofollow"&gt;WebCV&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://skywt.cn/blog/webcv/" rel="nofollow"&gt;WebCV：基于 Astro.js 的在线简历&lt;/a&gt;，开源在 GitHub：&lt;a href="https://github.com/Skywt2003/WebCV" rel="nofollow"&gt;WebCV&lt;/a&gt;，欢迎 star ～&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:03:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067985#reply3</guid></item><item><title>[程序员] 分享一个可以发外链的清单 usergrowth.link</title><link>https://www.v2ex.com/t/1067984#reply1</link><description>&lt;p&gt;&lt;a href="https://usergrowth.link" rel="nofollow"&gt;UserGrowth&lt;/a&gt;
+收录了一百多个导航站以及各种能挂外链的地方。
+可按 dr ，访问量，免费等条件筛选
+出海佬做完一个站就可以看着这份清单一个一个进去提交
+有导航站要推广的也可以提交上自己的导航站
+&lt;img alt="UserGrowth.link" class="embedded_image" rel="noreferrer" src="https://img.magicbox.tools/screenshot_img/usergrowth.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 15:01:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067984#reply1</guid></item><item><title>[Python] 交流下管理系统选型</title><link>https://www.v2ex.com/t/1067983#reply0</link><description>&lt;h1&gt;需求：做一个交易回测系统。&lt;/h1&gt;
+&lt;h2&gt;之前帮朋友做过一个小功能（比特币涨跌提醒），选型如下：&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;复制知乎文章/回答/想法为 Markdown&lt;/li&gt;
-&lt;li&gt;下载文章/回答/想法为 zip （包含图片与文本，以及赞数时间等信息）&lt;/li&gt;
-&lt;li&gt;下载文章/回答/想法为纯文本&lt;/li&gt;
-&lt;li&gt;剪藏文章/回答/想法为图片&lt;/li&gt;
-&lt;li&gt;可选添加保存备注&lt;/li&gt;
-&lt;li&gt;可选保存当前页评论&lt;/li&gt;
+&lt;li&gt;vue：前端&lt;/li&gt;
+&lt;li&gt;flask：后端&lt;/li&gt;
+&lt;li&gt;tinydb: 本地非结构化数据存储。&lt;/li&gt;
+&lt;li&gt;部署：vue 打包静态文件到 flask 里。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/qtqz/zhihu-backup-collect" rel="nofollow"&gt;https://github.com/qtqz/zhihu-backup-collect&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 19:28:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067395#reply0</guid></item><item><title>[VPS] 搬瓦工突然无法访问才 open ai api</title><link>https://www.v2ex.com/t/1067394#reply0</link><description>&lt;p&gt;机房 Current location of this VPS: US: Los Angeles, California (DC6 CT CN2GIA-E) [USCA_6]
-显示&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{"error":{"code":"unsupported_country_region_territory","message":"Country, region, or territory not supported","param":null,"type":"request_forbidden"}}root@cheerful-echo-2:~/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;已经尝试&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;echo "nameserver 172.31.255.2" | sudo tee /etc/resolv.conf &amp;gt; /dev/null
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 23 Aug 2024 19:11:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067394#reply0</guid></item><item><title>[分享发现] 我: 你好。Gemini: 我无法提供这方面的回应</title><link>https://www.v2ex.com/t/1067393#reply0</link><description>&lt;a href="https://i.imgur.com/TnpRUIy.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/TnpRUIy.png" /&gt;&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 18:40:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067393#reply0</guid></item><item><title>[路由器] RB5009 还是 N100</title><link>https://www.v2ex.com/t/1067392#reply2</link><description>&lt;ul&gt;
-&lt;li&gt;计划替换现有的出口路由，下连 Huawei S1720 &lt;/li&gt;
-&lt;li&gt;当前是 N4200 工控主板 + iKuai + OP ，双 300M 宽带&lt;/li&gt;
-&lt;li&gt;没有 AIB 需求，N100 的话就加一个 OP 科学上网用，没有的话就在 NAS 上部署 OP&lt;/li&gt;
+&lt;h2&gt;需求说明：&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;基于开源回测框架（ backtrader 等，利用它的框架和图形）。&lt;/li&gt;
+&lt;li&gt;数据库主要记录每笔买卖的持久化存储和管理，还有交易策略也要存储。&lt;/li&gt;
+&lt;li&gt;邮件或者微信进行买卖点提醒。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;折腾的目的主要是想玩玩 ROS ，目前拿家里破台式机当路由跑了两周，感觉还挺不错&lt;/p&gt;
-&lt;p&gt;目前纠结是直接咸鱼 RB5009 还是 N100 + P10 CHR ，这俩实际到手价格应该差不太多。RB5009 样子很喜欢，不过 CHR 后续可以转让 + N100 后面还可以挪作它用也很不错。&lt;/p&gt;
-&lt;p&gt;其实我还有个骚想法，NAS 换 12300T ，替换下来的 E31230 搞个 1U 工控机箱做路由。但是这个投入感觉有点儿高，正在极力克制中&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 18:06:13 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067392#reply2</guid></item><item><title>[NAS] 从 Plex 转到 Jellyfin 了，写一下体验</title><link>https://www.v2ex.com/t/1067391#reply4</link><description>&lt;p&gt;根本原因是 Plex 这家公司在往流媒体转型，很多方面压根就不会考虑 self-hosted 用户的体验。Plex 的优点无非就是 UI 更好看，易上手，bug 相对少一些，而这些你用 Infuse 都可以获得更好的体验。但 Plex 的问题大部分很难甚至没法解决&lt;/p&gt;
-&lt;p&gt;1 、Plex 自带的播放器只支持 30 秒快进，而且是写死的。这个是在外网被说烂的 ticket ，但 Plex 官方没有任何要优化的意图，说白了就是自建用户的体验压根不重要。当然了你用 Infuse 这种第三方可以解决，但我都用 Infuse 了 Plex 跟 Jellyfin 有啥差别？
-2 、Infuse 直连 Jellyfin 的体验远好于 Plex ，不管是速度还是稳定性。Jellyfin 还有官方插件可以直接支持动态增量更新，Plex 那就慢慢等吧
-3 、Plex 对第三方插件的态度是没给你 ban 掉就感恩吧。这带来的后果之一就是 NFO 支持很烂，只能用五六年前的 XMBC 插件。对这当然能用，但你不能在界面里面修改 NFO ，也不确定以后会不会直接不给你用或者有什么兼容性问题。事实上最近若干年 Plex 基本就没有新的插件甚至是官方的插件文档出现，这是一个已经被废弃的功能。
-4 、Plex 对刮削的支持越来越保守。现在默认只支持 Plex 自己搞的元数据库，手动改成 TMDB 或者 TVDB 会弹警告让你升级。并且明确告知未来会取消对 legacy 元数据库的支持
-5 、Plex 只支持在线认证，这意味着你的家用服务器断开 Internet 在局域网也可能无法访问。
-6 、Plex 的趋势是在主页塞越来越多的私货，目前大部分都可以关闭或者移除，但未来就不好说了。你如果看过 Plex 在 AppStore 上的介绍，就会发现这货宣传重点几乎全是流媒体，只有最后一张图提了一嘴我们还支持自建服务器哦。&lt;/p&gt;
-&lt;p&gt;Jellyfin 优点就不说了，关于缺点
-1 、UI 很原始，但该有的功能都有，硬件转码配置也很方便，如果你用 Infuse 的话这应该不会是一个问题。iOS 和 ATV 上的 swiftfin 效果也还不错，但还有一些 bug ，社区更新也不算积极。
-2 、命名不规范的情况下，刮削命中率比 Plex 差。如果有良好的命名习惯或者用 TMM 批量修正的话这个也不是啥大问题。另外 Jellyfin 的手动修正比 Plex 稳定很多，Plex 的新 Agent 特别坑爹，有时候搜不到东西你也不知道为啥，我上次在 Plex 搜了半天龙珠 Z 竟然死活搜不出来，就很离谱。Jellyfin 再不济你可以直接填 TMDB 和 TVDB 的 ID 手动匹配
-3 、多主机、多用户支持没有 Plex 好。Plex 可以一个账户绑定多个主机然后统一管理，这个在 Jellyfin 这边没啥很方便的方案，不过我没这个需求就也还好。
-4 、分享功能对小白不友好，要么走 tunnel 比如 tailscale 之类的，要么就要反代到公网。授权也只能通过本地建新账户，而不是直接向对方账号发邀请的方式&lt;/p&gt;
-&lt;p&gt;我的感受是现在已经不推荐购买 Plex 大会员了，尽管我之前买过 Plex 的终身会员。
-新用户尤其是个人用户不需要分享给一大堆人的话，这钱够买七八年 Infuse 了，而且 Infuse 还能家庭组拼车，基本等于不要钱。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:55:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067391#reply4</guid></item><item><title>[NAS] 分享：支持 Emby 和 Jellyfin 按拼音排序的小工具 v2.1 发布</title><link>https://www.v2ex.com/t/1067390#reply0</link><description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;v2.0 之后使用 python 实现，缩减 docker 体积；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;v2.1 锁定 SortName 字段，防止被系统覆盖（兼容 emby 版本 4.8.8.0 ）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;code&gt;docker pull wizzer/jellyfin_pinyin&lt;/code&gt; 安装插件&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;特别注意，emby 服务器配置多了个后缀，即 &lt;a href="http://127.0.0.1:8096/emby" rel="nofollow"&gt;http://127.0.0.1:8096/emby&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;源码&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://github.com/Wizzercn/jellyfin_pinyin" rel="nofollow"&gt;https://github.com/Wizzercn/jellyfin_pinyin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ps：实在不习惯 emby 默认的按汉字首字母排序的方式~~&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:26:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067390#reply0</guid></item><item><title>[分享发现] Apple 官网社区页面存在 XSS 漏洞</title><link>https://www.v2ex.com/t/1067389#reply6</link><description>&lt;p&gt;&lt;a href="https://x.com/_andychung/status/1826021061957398799" rel="nofollow"&gt;https://x.com/_andychung/status/1826021061957398799&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 17:04:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067389#reply6</guid></item><item><title>[软件] 阿里云盘 Windows 客户端「检查更新」bug</title><link>https://www.v2ex.com/t/1067388#reply0</link><description>&lt;a href="https://i.imgur.com/tJygKBU.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/tJygKBU.png" /&gt;&lt;/a&gt;&lt;br /&gt;官网下载 6.2.0 安装包，装完运行软件，打开「检查更新」页面，第一行提示「新版本的阿里云盘已经发布」，第二行提示「已是最新版本，当前版本为 6.2.0 」，下面也没见 6.2.0 的更新说明，而且 6.1.0 的更新说明文字显示也有问题。</description><pubDate>Fri, 23 Aug 2024 17:01:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067388#reply0</guid></item><item><title>[职场话题] offer 选择，求建议</title><link>https://www.v2ex.com/t/1067385#reply8</link><description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;上海某互联网厂&lt;/th&gt;
-&lt;th&gt;浙江某研究所&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;城市&lt;/td&gt;
-&lt;td&gt;一线&lt;/td&gt;
-&lt;td&gt;三线算吧&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;薪资&lt;/td&gt;
-&lt;td&gt;总包大概 25&lt;/td&gt;
-&lt;td&gt;总包大概 15&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;岗位&lt;/td&gt;
-&lt;td&gt;前端工程师&lt;/td&gt;
-&lt;td&gt;电控算法工程师&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;行业&lt;/td&gt;
-&lt;td&gt;互联网&lt;/td&gt;
-&lt;td&gt;医疗器械&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;作息&lt;/td&gt;
-&lt;td&gt;995&lt;/td&gt;
-&lt;td&gt;955&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;ul&gt;
-&lt;li&gt;上海这边给的钱多点，后期涨的也快，纯属作为打工赚钱感觉很好啊。&lt;/li&gt;
-&lt;li&gt;浙江这个在老家的这边市中心，开车到上海大概 2 小时多。房价大概 1.9 万左右，后期发展感觉会老家就业面有点窄，除了研究所，一两个大的企业。其他基本没得看感觉。而且研究所吧，我作为工程师进去，感觉没啥发展盼头，都是学术机构感觉，刚成立两年，背景就是市政府和某两个大学医院。&lt;/li&gt;
-&lt;li&gt;女朋友在市中心的某中学的教师。俩都是下面县城的孩子，所以各自目前都得租房。高中就在一起了。个人感觉没有在一块，时间久了容易出问题，之前上学就有一次闹的不愉快因为距离，后怕。也有问过想法，希望近一点。&lt;/li&gt;
-&lt;/ul&gt;</description><pubDate>Fri, 23 Aug 2024 16:23:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067385#reply8</guid></item><item><title>[分享发现] 博客趣导航网 - 个人博客导航-独立博客大全-博客网址大全</title><link>https://www.v2ex.com/t/1067384#reply3</link><description>国内优秀个人独立博客导航(大全)有哪些?博客导航_个人独立博客聚合网站，博科趣 bokequ 收集了各种个人独立博客的网址，包括技术博客、文学博客、生活博客等 &lt;a href="http://m.bokequ.com/list/22-2.html" rel="nofollow noopener" target="_blank"&gt;http://m.bokequ.com/list/22-2.html&lt;/a&gt;</description><pubDate>Fri, 23 Aug 2024 16:22:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067384#reply3</guid></item><item><title>[问与答] 请问如何根据任意 IMSI 号查询物联网卡流量</title><link>https://www.v2ex.com/t/1067383#reply0</link><description></description><pubDate>Fri, 23 Aug 2024 16:13:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067383#reply0</guid></item><item><title>[游戏] 本地没有 4090 也能玩黑神话悟空</title><link>https://www.v2ex.com/t/1067382#reply0</link><description>需要 GPU 云桌面玩黑悟空的 xdm 可以试试，基本感觉不到卡顿，&lt;a href="https://www.compshare.cn/" rel="nofollow noopener" target="_blank"&gt;https://www.compshare.cn/&lt;/a&gt;&lt;br /&gt;注册有 20 块，可以用几个小时的 4090</description><pubDate>Fri, 23 Aug 2024 16:09:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067382#reply0</guid></item><item><title>[问与答] 想请问一下为什么开启 clash verge rev 的 tun 模式下载百度网盘文件，速度比不开慢很多（30MB/s-&gt;3MB/s）</title><link>https://www.v2ex.com/t/1067381#reply0</link><description></description><pubDate>Fri, 23 Aug 2024 15:55:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067381#reply0</guid></item><item><title>[奇思妙想] 使用 cloudflare 的 web3 网关 + ipfs 免费托管静态博客</title><link>https://www.v2ex.com/t/1067380#reply2</link><description>&lt;p&gt;cloudflare 的有一个 web3 网关，可以免费托管 15 个 web3 站点，上传博客到 ipfs 获取目录的 cid ，然后在 cloudflare 的 web3 网关里面创建一个 IPFS DNSLink 的网关，DNSLink 填写你上一步获得的 cid 。&lt;/p&gt;
-&lt;p&gt;注意第一次添加后打开会比较慢，可以通过多个 ipfs 网关打开一次，每个网关都帮你缓存一份，不存在单点故障。&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 15:46:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067380#reply2</guid></item><item><title>[前端开发] 抖音网页端的前端项目组负责人肯定是脑子里装满了“金色的智慧”</title><link>https://www.v2ex.com/t/1067379#reply5</link><description>元素变量每隔一段时间就改一次，uBlock Origin 每隔一段时间就得重新抓取一次元素&lt;br /&gt;屏蔽元素前后对比效果图:&lt;br /&gt; [前] &lt;br /&gt;&lt;a href="https://i.imgur.com/eUsMF5z.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/eUsMF5z.png" /&gt;&lt;/a&gt;&lt;br /&gt; [后] &lt;br /&gt;&lt;a href="https://i.imgur.com/6GMcwuq.png" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/6GMcwuq.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;这以后还得专门维护了，真无语，B 站/斗鱼/虎牙等国内"毒瘤"的页面元素都只用屏蔽一次</description><pubDate>Fri, 23 Aug 2024 15:45:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067379#reply5</guid></item><item><title>[问与答] 求推荐本地文档全文检索软件，类似 google drive 输入关键字可以快速查找关联文档</title><link>https://www.v2ex.com/t/1067378#reply0</link><description>目前文档都在 Google drive ，日常根据关键字检索关联文档，使用非常便捷，想咨询是否有离线文档管理软件，支持常用的 pdf 、word 、PPT 、Excel 文档格式，支持根据关键字全量查询文档内容，谢谢！</description><pubDate>Fri, 23 Aug 2024 15:35:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067378#reply0</guid></item><item><title>[分享创造] Change Clothes AI 轻松试穿，帮你搞定穿搭难题~</title><link>https://www.v2ex.com/t/1067377#reply0</link><description>&lt;p&gt;Change Clothes AI ( &lt;a href="https://changeclothesai.online/" rel="nofollow"&gt;https://changeclothesai.online/&lt;/a&gt;) 是一款主打 AI 虚拟试衣的在线平台，告别“想象”，让你在购买前就能直观看到衣服的上身效果。&lt;/p&gt;
-&lt;p&gt;使用 Change Clothes AI 非常简单，只需要上传一张你的照片和想要试穿的衣服图片，短短 10-30 秒，我们强大的 AI 算法就能生成你穿上新衣的逼真效果图。就像真的试穿一样，再也不用担心买到不合适的衣服.&lt;/p&gt;
-&lt;p&gt;Change Clothes AI 支持免费试用，希望你能喜欢并支持我们。
-访问地址： &lt;a href="https://changeclothesai.online/" rel="nofollow"&gt;https://changeclothesai.online/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase2.png" /&gt;
-&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase6.png" /&gt;
-&lt;img alt="showcase" class="embedded_image" rel="noreferrer" src="https://changeclothesai.online/assets/showcase/showcase5.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 15:11:57 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067377#reply0</guid></item><item><title>[分享发现] 分享下开发经历中那些曾让我一脸懵逼的瞬间</title><link>https://www.v2ex.com/t/1067375#reply5</link><description>&lt;p&gt;前几天，去朋友工作的小公司溜达，朋友写前端，他身后一哥们写后端，看起来不到三十岁。我闲着无聊，就坐在后端老哥旁边，看他写写代码，不一会儿我朋友前端问题修改完了，打包项目发给他部署到服务器测试一下。这时候我看着后端开始了操作，他们用的是 Caddy Web Server ，于是后端就开始改 Caddyfile 文件：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;:2333 {
-   root * /var/www
-   file_server
-}
-
-:2333 {
-   root * /usr/root/dist
-   file_server
-}
+&lt;h2&gt;看看大家推荐用什么框架去做，怎么选型，怎么做更简单高效。 一直在做 java 后端，python 不太熟，大家多提提宝贵意见。&lt;/h2&gt;</description><pubDate>Mon, 26 Aug 2024 15:00:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067983#reply0</guid></item><item><title>[OpenAI] 分享一个 API 站点，支持各种国产模型，开源大模型</title><link>https://www.v2ex.com/t/1067982#reply0</link><description>&lt;p&gt;&lt;a href="https://llm.indrin.cn/" rel="nofollow"&gt;https://llm.indrin.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费使用，欢迎体验&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 14:59:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067982#reply0</guid></item><item><title>[职场话题] 秋招应届生，对于未来的发展有一些迷茫</title><link>https://www.v2ex.com/t/1067981#reply4</link><description>&lt;p&gt;211 本科生，25 年毕业，目标岗位后端开发。对底层技术比较感兴趣。目前在各公司官网投了一些简历，无内推。这两周陆陆续续有一些笔试，一家给了面试。有几家初筛没过（也没个反馈邮件，不知道什么原因挂的），因此感觉简历还有提升的空间。&lt;/p&gt;
+&lt;p&gt;求一些简历上的建议。
+求一些做底层技术的公司推荐。&lt;/p&gt;
+&lt;p&gt;可以交换联系方式
+微信：wxid_rmahecuvhyd712&lt;/p&gt;
+&lt;p&gt;简历：
+&lt;a href="https://gitee.com/linepi/resume/raw/master/%E5%90%B4%E6%A1%90showout.pdf" rel="nofollow"&gt;https://gitee.com/linepi/resume/raw/master/%E5%90%B4%E6%A1%90showout.pdf&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 14:57:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067981#reply4</guid></item><item><title>[奇思妙想] [关于天翼云电脑不休眠] 的一些疑问和注意</title><link>https://www.v2ex.com/t/1067980#reply1</link><description>&lt;blockquote&gt;
+&lt;p&gt;天翼云电脑，之前在卡商贩子那里搞了一个 10 快钱一个月的优惠套餐，配置是 4c8G 的标准版，s （刚刚发现 v 友都是装宽带送的高级版本 8h16G 的，莫名感到血妈亏）但是吧关闭客户端之后一个小时会关机。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​	很早之前就有 v 友发帖，&lt;a href="https://www.nodeseek.com/post-57824-1" rel="nofollow"&gt;不休眠教程&lt;/a&gt;，当时感觉没啥用，最近迷上了一个微信小程序的小游戏，然后想着正好用云电脑挂机，顺便把 E5 签到的那个 window 程序也挂上去。&lt;/p&gt;
+&lt;p&gt;​	在此之前我还装了宝塔，奈何我的小鸡鸡做 frp 延迟不太友好，最后卸载了，大概原理就是，在云电脑上下载个客户端自己链接着自己，这里我就有个疑问了，&lt;strong&gt;帖子里用到了&lt;code&gt;增倍器&lt;/code&gt;，既然是自己链接自己，那他链接之后直接吧我电脑上的客户端顶掉然后自己就一直在线呗，为什么还要增杯器来定时 55 分钟来执行一下这个软件呢？总不能超过 1h 之后他自己会断开连接吧。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​	然后我给电脑上能卸载的软件都卸载了，卸载完重启之后发现网络磁盘映射没了，共享剪切板也没了，然后微信打开小程序 cpu 占用直接 100%，反而内存是没有吃满的，so ，各位有天翼云电脑的，最好别卸载他自带的那些软件，而且他们说虽然这个网络是限速 50↑5 下，但是用他自带的软件的时候是没有限速的，最近还出了个什么 ai 市场，我也没试，就全卸载了。然后实际上本地挂天翼云自己链自己还要占用一部分资源，本来直接远程链接小程序游戏就卡的要死，不知道最后后那个游戏 G 了没，因为我看不出来挂机有多少收益。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;ps:&lt;/p&gt;
+&lt;p&gt;​	刚刚用 ai 写了一个监控脚本。定时十秒一次，监控我在云主机上登录客户端顶号下去这个过程 cpu 的占用变化&lt;/p&gt;
+&lt;p&gt;​	emmm ，结果就是：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;2024-08-26 22:17:33 - CPU Usage: 1.75% Memory Usage: 23.27%
+2024-08-26 22:17:48 - CPU Usage: 65% Memory Usage: 31.15%
+2024-08-26 22:18:02 - CPU Usage: 8.5% Memory Usage: 30.69%
+2024-08-26 22:18:16 - CPU Usage: 9.5% Memory Usage: 30.88%
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;他简单的把之前的复制了一下，改了&lt;code&gt;root&lt;/code&gt;路径，就打算重启&lt;code&gt;caddy&lt;/code&gt;了。我说：端口也要改吧？他说：先试试。于是重启&lt;code&gt;caddy&lt;/code&gt;，发现报端口重复的错误，又再次编辑&lt;code&gt;Caddyfile&lt;/code&gt;，把端口改了。那一瞬间我甚至怀疑他是不是第一次写代码了，我虽然没用过&lt;code&gt;caddy&lt;/code&gt;，但一个端口配置两个网站，稍微想想也不可能有这种操作吧？&lt;/p&gt;
-&lt;p&gt;这件事让我想起几年前隔壁公司的一个女程序员 A ，因为大家一起下楼吃饭，也都比较熟，有一次 A 找我说：JS 有几个地方的代码报错，能不能帮她看看怎么回事？我过去一看，好家伙！一个类里面这样写着：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;class Store {
-    function getItem(key: string) {
-        // TODO
-    }
-}
+&lt;p&gt;​	只有那自己连自己那一瞬间会 cpu 高升一下，但是呢，我还是好奇那个增倍器的作用，教程里都是设置 50 分钟执行左右一次，50 分钟左右肯定还没到 60 分钟关机的时候，既然这样我直接设置成 5 分钟之后运行一次，然后再看监控 cpu 占用，竟然没有什么变化。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;​	看来自己连自己会增加占用倒是不太可能，但是把我挂上我的微信和微信小程序的游戏之后：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;2024-08-26 22:09:00 - CPU Usage: 82.5% Memory Usage: 41.7%
+2024-08-26 22:09:15 - CPU Usage: 98.25% Memory Usage: 39.82%
+2024-08-26 22:09:30 - CPU Usage: 94% Memory Usage: 39.64%
+2024-08-26 22:09:45 - CPU Usage: 100% Memory Usage: 42%
+2024-08-26 22:10:00 - CPU Usage: 100% Memory Usage: 43.66%
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我说类里面写函数为什么要加 &lt;code&gt;function&lt;/code&gt; 关键字？她说好像有这种语法吧，她试了不行还以为开发环境哪里出错了！&lt;/p&gt;
-&lt;p&gt;再说到另一个男同事 B ，这个同事是纯前端，完全不懂一点后端。有一次，他想试试用&lt;code&gt;Node.js&lt;/code&gt;怎么读写数据库实现用户登录，然而编辑器却总是提示错误，我偶然瞅了一眼他正在摸索着写的代码，发现他在 JS 文件里这样写着：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;import sqlite3 from 'sqlite3';
-
-export function login(req: Request) {
-    sqlite3.SELECT * FROM users
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;我震惊了！函数里面都不是&lt;code&gt;JS&lt;/code&gt;语法，这都看不出来？&lt;/p&gt;
-&lt;p&gt;为什么我要说这几个事情呢，因为他们的情况真的太反差了。通过以上几个事情，不管是谁，第一印象都会觉得这几个人水平很菜。但除了第一个后端，后两个我是知道的。女程序员 A 和男同事 B 工作经历大概都是五六年了。&lt;/p&gt;
-&lt;p&gt;女程序员 A 在他们公司干了两年，做的项目大概一二十万代码，她每天提交代码，开发能力肯定是够的，后面跳槽去了其他公司，据说干得也很好。&lt;/p&gt;
-&lt;p&gt;男同事 B 参与的项目八十多万行代码（ css + js/jsx/ts/tsx + json ）,他参与需求开发和性能优化，平时的工作任务也没出过什么问题。&lt;/p&gt;
-&lt;p&gt;你说他们水平不够吧，他们靠自己的能力完全能够应付日常的开发工作。你说他们厉害吧，有时候写出来的代码我甚至都怀疑他们会不会编程。（上面的几个问题，他们不是大意而犯错，是真的不知道自己写错了）&lt;/p&gt;
-&lt;p&gt;真是奇哉怪哉！&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:53:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067375#reply5</guid></item><item><title>[问与答] 一个 Promise/async/await 的执行顺序问题求助🙏</title><link>https://www.v2ex.com/t/1067374#reply3</link><description>&lt;pre&gt;&lt;code class="language-js"&gt;async function async1() {
-  async2().then(() =&amp;gt; {
-    console.log('async1 end');
-  });
-}
-async function async2() {
-  return new Promise((resolve, reject) =&amp;gt; {
-    resolve();
-  })
-}
-
-async1();
-new Promise(function(resolve) {
-  resolve();
-}).then(function() {
-  console.log('promise2');
-})
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;输出结果为&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;promise2
-async1 end
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;(面试时候遇到的，去掉了无关的 log)&lt;/p&gt;
-&lt;p&gt;想知道为什么 promise2 早于 async1 end ？&lt;/p&gt;
-&lt;p&gt;我的想法是 &lt;code&gt;async2()&lt;/code&gt; 的 then 方法早于 &lt;code&gt;new Promise&lt;/code&gt; 的 then 方法执行，那么其回调函数就应该先被放入微任务队列，也就应该先被执行，但实际情况不是这样。&lt;/p&gt;
-&lt;p&gt;另外，如果我把 &lt;code&gt;async1&lt;/code&gt; 和 &lt;code&gt;async2&lt;/code&gt; 的 &lt;code&gt;async&lt;/code&gt; 关键字去掉，那么输出就变为&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;async1 end
-promise2
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;求大佬解答&lt;/p&gt;</description><pubDate>Fri, 23 Aug 2024 14:53:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067374#reply3</guid></item></channel></rss>
+&lt;p&gt;​	主要是这个直接登录微信，然后开那个小程序都占用百分之七八十&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;​	所以问题回来了，我用的时候就连上用，然后不用需要挂机的时候就在云电脑上面开启客户端直接把本地这个顶掉不就完事了，所以增倍器的作用是什么呢？&lt;/p&gt;
+&lt;p&gt;​	所以我单独试了一次不开增倍器，然后等一个小时的实验，电脑上挂我微信，然后我在 22 点 52 分的时候给自己顶掉&lt;/p&gt;
+&lt;p&gt;​	然后等 12 点的时候手机看看我微信 pc 掉线没就可以了&lt;/p&gt;
+&lt;p&gt;顺便问一嘴，有啥可以嫖这些东西的路子嘛，我感觉我这个 cpu 强度再上来点，可以挂机游戏了，但是。。哎&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 14:56:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067980#reply1</guid></item><item><title>[程序员] 在公司网络接了个路由器，用来内网穿透和远程桌面可行吗</title><link>https://www.v2ex.com/t/1067979#reply10</link><description>&lt;p&gt;一些服务只有内网可以连，比如公司的服务器这些，内网和外网不是物理隔离，所以可以做穿透。      &lt;br /&gt;
+提供了 vpn ，思科的 anyconnect ，但是每次登陆都要输入 2fa 验证码，感觉很麻烦（非常讨厌类似双重认证的东西），所以想用 tailscale 直接连到内网。  &lt;/p&gt;
+&lt;p&gt;自从公司要求所有电脑安装 mdm 之后，没有管理员权限了，所以自己买了一个小电脑，只有电视盒子那么大，接到路由器上开启远程桌面，用公司电脑连接到上面做事避免监控。&lt;/p&gt;</description><pubDate>Mon, 26 Aug 2024 14:49:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1067979#reply10</guid></item></channel></rss>
