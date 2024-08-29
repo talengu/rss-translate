@@ -1,187 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 29 Aug 2024 07:45:48 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[程序员] 最近想做视频，顺手翻译了一下 remotion 的文档（编程式视频制作工具）</title><link>https://www.v2ex.com/t/1068765#reply0</link><description>&lt;p&gt;互联网精神.jpg
-文档： &lt;a href="https://remotion-zh-cn-doc.vercel.app/docs" rel="nofollow"&gt;https://remotion-zh-cn-doc.vercel.app/docs&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:43:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068765#reply0</guid></item><item><title>[职场话题] 建议咖啡爱好者不要一天天的喝咖啡了，引起口臭。</title><link>https://www.v2ex.com/t/1068764#reply1</link><description>&lt;p&gt;不知你们发现没，咖啡喝了不漱口就会发酵成口臭，
-自己没感觉还把同事熏得尴尬难受，还是那种酸臭酸臭的味。&lt;/p&gt;
-&lt;p&gt;建议咖啡爱好者换点茉莉花茶就很好&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:39:44 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068764#reply1</guid></item><item><title>[问与答] YouTube Premium 印度区订阅大涨 50%，还有必要续订么？</title><link>https://www.v2ex.com/t/1068763#reply1</link><description>原价 199 现价 299</description><pubDate>Thu, 29 Aug 2024 07:38:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068763#reply1</guid></item><item><title>[分享创造] 做了一个 Ai 魔镜🪞，上传一张自拍，能够生成甜蜜赞美和辛辣吐槽</title><link>https://www.v2ex.com/t/1068762#reply4</link><description>&lt;p&gt;我自己已经试过了，感觉受到了 ai 的一万点暴击...
-地址： &lt;a href="https://mirror.chatnext.ai" rel="nofollow"&gt;https://mirror.chatnext.ai&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:37:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068762#reply4</guid></item><item><title>[问与答] 大家看看有没有被农行补收年费</title><link>https://www.v2ex.com/t/1068761#reply0</link><description>&lt;p&gt;如题，坐标四川，楼主有一张用了 10 多年的农业银行卡，之前从来没被收过年费。由于房贷需要本地卡，新办了一张 1 类卡，并将之前的老卡降级成 2 类卡。&lt;/p&gt;
-&lt;p&gt;谁知，最近是不是农行穷疯了，开始补扣 23 年的年费，每年 10 元，于是我把钱转出只留了 1 分，但是那 1 分钱也被 22 年的年费划走了，无语了😒。&lt;/p&gt;
-&lt;p&gt;不知道大家有没有被补收，逼着拿去注销么&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/uv7Acys.jpeg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:33:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068761#reply0</guid></item><item><title>[程序员] 最近需要一个跨境独立站，有什么推荐的平台吗？</title><link>https://www.v2ex.com/t/1068760#reply7</link><description>&lt;p&gt;Shopify
-BigCommerce
-Wix
-Shift4Shop&lt;/p&gt;
-&lt;p&gt;搜到的有这些，希望是试用一下，有几款产品上架，所以希望大家推荐个对新人比较友好，前期不需要太多商品模板的平台。&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:30:47 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068760#reply7</guid></item><item><title>[iPhone] iPhone Wi-Fi 信号如何增强</title><link>https://www.v2ex.com/t/1068759#reply3</link><description>&lt;p&gt;之前公司都是范围打卡，大家基本习惯了楼下卡点打卡然后吃个早餐再去公司，9 点后公司才陆陆续续进人。
-最近项目变少老板开始整活。要求人事调整考勤打卡方式-改为 Wi-Fi 打卡，公司的楼层比较尴尬，某米某为的手机楼下特点点位还有 2 、3 格 Wi-Fi 信号，但是 iPhone 不行，必须得电梯上去到公司门口才能打上卡。
-不知是否有什么办法，能在不动公司路由器的情况下，让 iPhone 也能在楼下特定点位打上卡呢？&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:29:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068759#reply3</guid></item><item><title>[分享创造] 一个油猴插件 利用 gpt 可以总结和生成回复</title><link>https://www.v2ex.com/t/1068758#reply2</link><description>&lt;p&gt;&lt;a href="https://greasyfork.org/zh-CN/scripts/505721-monkey-gpt" rel="nofollow"&gt;https://greasyfork.org/zh-CN/scripts/505721-monkey-gpt&lt;/a&gt; 油猴 gpt 插件&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/weekend-project-space/monkey-gpt" rel="nofollow"&gt;源码&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="效果" class="embedded_image" rel="noreferrer" src="https://raw.githubusercontent.com/weekend-project-space/monkey-gpt/main/doc/sample-v2.png" /&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:27:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068758#reply2</guid></item><item><title>[问与答] 9900X 指定 CCD 后可能的性能疑问.</title><link>https://www.v2ex.com/t/1068757#reply6</link><description>目前使用的是 10900K, 玩 PUBG 的时候尝试过把 PUBG 进城指定到体制比较好的 10 个核心上.&lt;br /&gt;出现帧率大幅度降低的情况. 220+掉到 140+.&lt;br /&gt;&lt;br /&gt;现在在考虑换 9900x, 担心的是如果通过软件指定 CCD, 那么 12 核心的 9900X 单 CCD 有 6 个核心.12 线程.&lt;br /&gt;是否会出现性能反而下降的问题?&lt;br /&gt;&lt;br /&gt;不考虑 9700X.&lt;br /&gt;&lt;br /&gt;虚拟机+开发+游戏.</description><pubDate>Thu, 29 Aug 2024 07:26:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068757#reply6</guid></item><item><title>[问与答] 帮朋友转发的 idea</title><link>https://www.v2ex.com/t/1068756#reply1</link><description>朋友新号，首页无推荐，帮忙转发。&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.v2ex.com/t/1068745" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1068745&lt;/a&gt;</description><pubDate>Thu, 29 Aug 2024 07:26:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068756#reply1</guid></item><item><title>[宽带症候群] SR-IOV 网卡 VF 直通虚拟机之后如何桥接</title><link>https://www.v2ex.com/t/1068755#reply0</link><description>&lt;p&gt;双口 CX5 网卡，2 个接口 SR-IOV 都开了 4 个 VF 直通给 Openwrt 虚拟机，想当 LAN 口用，发现直接桥接 br-lan 不通，有解决方法吗&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:25:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068755#reply0</guid></item><item><title>[问与答] [装机] 以黑猴为例，装一台主机最低成本。</title><link>https://www.v2ex.com/t/1068754#reply2</link><description>预期：能流畅游玩，画质差不多就行。&lt;br /&gt;已有：4k 显示器，只差一台游戏主机。&lt;br /&gt;预算：5k-8k 。越低越好，主打性价比。&lt;br /&gt;&lt;br /&gt;谢谢各位大佬，百忙之中抽出时间回复。</description><pubDate>Thu, 29 Aug 2024 07:23:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068754#reply2</guid></item><item><title>[程序员] 求助： GoLang MQTT 客户端使用问题</title><link>https://www.v2ex.com/t/1068753#reply0</link><description>&lt;p&gt;我遇到的问题:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2024-08-29 07:13:10	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_5 , error = pingresp not received, disconnecting
-2024-08-29 07:13:14	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_88 , error = pingresp not received, disconnecting
-2024-08-29 07:13:15	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_43 , error = pingresp not received, disconnecting
-2024-08-29 07:13:15	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_72 , error = pingresp not received, disconnecting
-2024-08-29 07:13:15	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_1 , error = pingresp not received, disconnecting
-2024-08-29 07:13:17	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_37 , error = pingresp not received, disconnecting
-2024-08-29 07:13:18	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_10 , error = pingresp not received, disconnecting
-2024-08-29 07:14:13	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_52 , error = pingresp not received, disconnecting
-2024-08-29 07:14:18	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_59 , error = pingresp not received, disconnecting
-2024-08-29 07:14:19	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_84 , error = pingresp not received, disconnecting
-2024-08-29 07:14:19	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_54 , error = pingresp not received, disconnecting
-2024-08-29 07:14:21	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_22 , error = pingresp not received, disconnecting
-2024-08-29 07:14:22	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_12 , error = pingresp not received, disconnecting
-2024-08-29 07:14:23	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_25 , error = pingresp not received, disconnecting
-2024-08-29 07:14:24	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_97 , error = pingresp not received, disconnecting
-2024-08-29 07:14:26	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_36 , error = pingresp not received, disconnecting
-2024-08-29 07:15:08	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_63 , error = pingresp not received, disconnecting
-2024-08-29 07:15:16	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_23 , error = pingresp not received, disconnecting
-2024-08-29 07:15:19	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_96 , error = pingresp not received, disconnecting
-2024-08-29 07:15:20	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_50 , error = pingresp not received, disconnecting
-2024-08-29 07:15:25	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_75 , error = pingresp not received, disconnecting
-2024-08-29 07:15:30	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_78 , error = pingresp not received, disconnecting
-2024-08-29 07:15:36	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_7 , error = pingresp not received, disconnecting
-2024-08-29 07:15:39	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_97 , error = pingresp not received, disconnecting
-2024-08-29 07:16:17	error	go-iot/mqtt_service.go:40	mqtt connection lost id = TT_79 , error = pingresp not received, disconnecting
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 29 Aug 2024 15:43:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[随想] 好心急呀，新版 iPad mini 一直没出， AMD 9800X3D 也没出</title><link>https://www.v2ex.com/t/1068872#reply0</link><description></description><pubDate>Thu, 29 Aug 2024 15:35:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068872#reply0</guid></item><item><title>[硬件] 求推荐个 AMD 的核心多一点的、显卡稍微好一点的、屏幕色彩好一些的笔记本谢谢</title><link>https://www.v2ex.com/t/1068870#reply0</link><description>&lt;p&gt;想要 AMD 的 CPU ，核心数要多因为有点虚拟化的需求；显卡要稍微好一点平时会玩点游戏；屏幕要稍微好一点，不过对高刷无感但是对色彩比较敏感；最后就是整体外观设计好看一点，大概就这样。&lt;/p&gt;
+&lt;p&gt;预算的话 7.5k 上下（狗东日常价），求大家给推荐推荐。&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:26:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068870#reply0</guid></item><item><title>[云计算] microsoft 365 有同学拼车吗， 50 元一年，有意者可以加我 tg</title><link>https://www.v2ex.com/t/1068869#reply0</link><description>&lt;p&gt;如题，有意者联系 &lt;a href="https://t.me/ds5511" rel="nofollow"&gt;https://t.me/ds5511&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068869#reply0</guid></item><item><title>[问与答] 关于苏州的“电动车必须戴头盔”条例</title><link>https://www.v2ex.com/t/1068868#reply0</link><description>不管上面想法有多好，但具体的执行方式让我很是恼火。平常维护交通秩序的交警是不会批罚单的，他们中的大多数是不会带着批条子的机器的（大概是因为管控得比较严，大多数辅警正警应该是没有权力开罚单的）。于是呢，每次要查头盔都是运动式的执法，专挑繁华路段，傍晚时分，一出动就是十数人，黑压压地站在路口四周，随时准备拉起人墙截住车流。何况这些交警的态度也算不上多好（毕竟他们觉得查头盔这事很正当，很可能把违逆的人视作刁民），不时能看到有人想要绕过去，然后几个彪形大汉一个箭步冲上去，这边拽住胳膊，那边拉住车把，还有一人迅速拔掉钥匙：路人纷纷侧目，不由得想起了某些港片中的场景；之后我去采访了一下那个被拦下的人，他回答我说，实在怀疑交警的根本动机，长这么大，第一次有了被压迫的感觉。这个时候路上骑电动车的，不少是吃过饭和家人一起出来转悠的，都开得很慢，所以反而最容易被交警抓住。他们的抵触情绪也是最大的：我开得又不快，真就是自行车的车速，你非要我跟那些车速追得上摩托的人遵守一样的法规，干嘛呀？&lt;br /&gt;       我觉得问题出在一刀切上，应该严格区分电动摩托和电动自行车，对于能开到 40/50 码的电动摩托加大监管力度，同时给与一些权力，比如办电摩驾驶证就能与摩托车平权，可以上机动车道；对于电动自行车，严格限速，安装踏板，不可后座带人，然后别太强求头盔的事，说不定人家穿汉服呢？</description><pubDate>Thu, 29 Aug 2024 15:23:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068868#reply0</guid></item><item><title>[问与答] 求救-qt 转 msvc 后 Opencv 始终打不开视频！</title><link>https://www.v2ex.com/t/1068867#reply0</link><description>&lt;p&gt;&lt;strong&gt;项目背景&lt;/strong&gt;：这段时间为实验室做了一个小项目，技术栈原本为 QT+Opencv+Mingw ，一切正常。但因为引入了 onnxruntime 所以转为 msvc2019C++编译器，自此噩梦不断。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问题描述&lt;/strong&gt;：在 debug 其他问题后，目前遇到一个玄学 bug ，使用 QFileDialog 获取到了 QString 类型的文件路径，在使用 toLocal8Bit 转换为 msvc 编码的标注 string 后 opencv 的 cap.open 始终无法打开文件。我是使用了浑身解数也无法，只能来论坛求助大神了！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问题补充&lt;/strong&gt;：我尝试过将 FFMPEG 的 dll 复制到可执行软件的同目录，配置系统环境还有重新编译 opencv 等方法，均无效果。&lt;/p&gt;
+&lt;p&gt;获取文件路径的代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    QString videoPath = QFileDialog::getOpenFileName(this, "打开文件", usedPath, tr("视频 (*.avi *.mp4 *.wmv)"));
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这是我正在使用的程序代码&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;package main
-
-import (
-	"encoding/json"
-	"fmt"
-	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"go.uber.org/zap"
-	"sync"
-	"time"
-)
-
-// MqttInterface 定义了 MQTT 客户端的基本接口
-type MqttInterface struct {
-	client mqtt.Client
-	Id     string
-	Chan   chan []byte
-	Config MqttConfig
-	wg     sync.WaitGroup
-}
-
-// NewMqttClient 初始化并返回一个新的 MqttInterface 实例
-func NewMqttClient(id string, config MqttConfig) *MqttInterface {
-	return &amp;amp;MqttInterface{
-		Id:     id,
-		Chan:   make(chan []byte, 1000),
-		Config: config,
-	}
-}
-
-// Connect 连接到 MQTT 服务器
-func (m *MqttInterface) Connect(host, username, password string, port int) error {
-	opts := mqtt.NewClientOptions()
-	opts.AddBroker(fmt.Sprintf("tcp://%s:%d", host, port))
-	opts.SetUsername(username)
-	opts.SetAutoReconnect(false)
-	opts.SetPassword(password)
-	opts.SetClientID(m.Id)
-	//opts.SetDefaultPublishHandler(m.messageHandler)
-	opts.OnConnectionLost = func(client mqtt.Client, err error) {
-		zap.S().Errorf("mqtt connection lost id = %s , error = %+v", m.Id, err)
-		StopMqttClient(m.Id, m.Config)
-	}
-
-	opts.SetOrderMatters(false)
-	opts.SetKeepAlive(60 * time.Second)
-	// 创建并启动客户端
-	client := mqtt.NewClient(opts)
-	if token := client.Connect(); token.Wait() &amp;amp;&amp;amp; token.Error() != nil {
-		return token.Error()
-	}
-
-	m.client = client
-	return nil
-}
-
-// messageHandler 处理接收到的消息
-func (m *MqttInterface) messageHandler(client mqtt.Client, msg mqtt.Message) {
-
-}
-
-// Subscribe 订阅一个或多个主题
-func (m *MqttInterface) Subscribe(topics string) error {
-	var token = m.client.Subscribe(topics, 0, func(client mqtt.Client, msg mqtt.Message) {
-		m.wg.Add(1)
-		defer func() {
-			m.wg.Done()
-			//zap.S().Errorf("mqtt subscribe id = %s , topic = %s", m.Id, msg.Topic())
-		}()
-		mqttMsg := MQTTMessage{
-			MQTTClientID: m.Id,
-			Message:      string(msg.Payload()),
-		}
-		jsonData, _ := json.Marshal(mqttMsg)
-
-		m.Chan &amp;lt;- jsonData
-
-	})
-
-	if token.Wait() &amp;amp;&amp;amp; token.Error() != nil {
-		zap.S().Errorf(token.Error().Error())
-		return token.Error()
-	}
-	return nil
-}
-
-// Publish 向一个主题发布消息
-func (m *MqttInterface) Publish(topic string, payload interface{}) {
-	token := m.client.Publish(topic, 0, false, payload)
-	token.Wait()
-}
-
-// Disconnect 断开与 MQTT 服务器的连接
-func (m *MqttInterface) Disconnect() {
-	m.client.Disconnect(250)
-}
-
-func (m *MqttInterface) HandlerMsg() {
-	for {
-		c := &amp;lt;-m.Chan
-		PushToQueue("pre_handler", c)
-
-	}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;创建 MQTT 客户端和开启订阅&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;	client := NewMqttClient(clientId,config)
-	err := client.Connect(broker, username, password, port)
-	if err != nil {
-		zap.S().Errorf("mqtt connect err = %v", err)
-        return false
-	}
-	go client.Subscribe(subTopic)
-	go client.HandlerMsg()
-    
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;请问这个问题应该如何解决。 &lt;/p&gt;
-&lt;h2&gt;我的尝试&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;我发起了一个 Issues ，我理解是让消息接收后进行异步处理   &lt;a href="https://github.com/eclipse/paho.mqtt.golang/issues/686" rel="nofollow"&gt;https://github.com/eclipse/paho.mqtt.golang/issues/686&lt;/a&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;修改程序如下&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;	var token = m.client.Subscribe(topics, 0, func(client mqtt.Client, msg mqtt.Message) {
-		go func() {
-			mqttMsg := MQTTMessage{
-				MQTTClientID: m.Id,
-				Message:      string(msg.Payload()),
-			}
-			jsonData, _ := json.Marshal(mqttMsg)
-
-			m.Chan &amp;lt;- jsonData
-		}()
-
-	})
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;上述两个操作均没有得到正常处理。请问应当如何解决这个问题。&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:23:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068753#reply0</guid></item><item><title>[分享创造] 保持健康，然后搞钱！建了一个副本搞钱群，或许他做不了的事情，你可以做，互相交流</title><link>https://www.v2ex.com/t/1068752#reply0</link><description>&lt;p&gt;保持健康，然后搞钱！建了一个副本搞钱群，或许他做不了的事情，你可以做，互相交流
-二维码连接： &lt;a href="https://s21.ax1x.com/2024/08/29/pAA08SA.jpg" rel="nofollow"&gt;https://s21.ax1x.com/2024/08/29/pAA08SA.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s21.ax1x.com/2024/08/29/pAA08SA.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:22:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068752#reply0</guid></item><item><title>[酷工作] Part time Find JS 全栈工程师</title><link>https://www.v2ex.com/t/1068751#reply0</link><description>企业简介：&lt;br /&gt;Brand:&lt;br /&gt;Magickbase =&amp;gt; Magi(decision-making system), CKB(Common Knowledge Base), Base&lt;br /&gt;Products:&lt;br /&gt;Neuron, a full-node desktop ckb wallet&lt;br /&gt;CKB Explorer, ckb explorer for the layer1&lt;br /&gt;GwScan, godwoken explorer for the layer2&lt;br /&gt;Axon Explorer, axon explorer for the layer2&lt;br /&gt;Vision:&lt;br /&gt;Analyzing data from three platforms in the system for decision making and providing&lt;br /&gt;a controller for users to drive their assets. &lt;br /&gt;&lt;br /&gt;招聘岗位：&lt;br /&gt;JavaScript Engineer(Full-Time, 40 Hours/Week)&lt;br /&gt;Responsibilities&lt;br /&gt;Develop high-quality web applications and electron-based desktop applications.&lt;br /&gt;Continuously optimize code, applications, and user interfaces within the codebase.&lt;br /&gt;Contribute to the development of dev-tools/libs for the entire ecosystem of the Nervos Network CKB project, including a TypeScript-based JS SDK (Lumos) and associated tools.&lt;br /&gt;Create comprehensive documentation, tutorials, and examples for developed applications and tools.&lt;br /&gt;Minimum Qualifications&lt;br /&gt;Bachelor's degree in Computer Science or Computer Engineering, or equivalent demonstrable skills and experience.&lt;br /&gt;Proven experience in front-end development, with a strong familiarity with HTML, CSS, and TypeScript, along with a clear understanding of web standards (Accessibility, Security).&lt;br /&gt;Previous work on diverse front-end scopes, including Node.js applications and electron applications.&lt;br /&gt;Proficiency in front-end utilities such as scaffolding, CSS preprocessors, and template engines.&lt;br /&gt;Preferably experienced in React and TypeScript.&lt;br /&gt;Hands-on experience with React and a strong working knowledge of developing across multiple runtimes like Node.js and modern browsers.&lt;br /&gt;Knowledge of Blockchain concepts and previous involvement in related product designs.&lt;br /&gt;Fluent in English for reading and writing.&lt;br /&gt;Preferred Qualifications&lt;br /&gt;Active participation in open-source communities.&lt;br /&gt;Presence on GitHub or a personal blog showcasing relevant work.&lt;br /&gt;Working knowledge of the UTxO model, particularly in blockchain systems like BTC.&lt;br /&gt;Previous experience working with decentralized applications (dApps).&lt;br /&gt;&lt;br /&gt;Mail us jobs@magickbase.com&lt;br /&gt;其他要求：擅长 C 端页面开发，可以做动画特效；熟悉规则，能处理自适应&lt;br /&gt;布局。&lt;br /&gt;Pay:按照项目难易程度及周期，双方协商裁定</description><pubDate>Thu, 29 Aug 2024 07:21:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068751#reply0</guid></item><item><title>[程序员] 博客园打不开了</title><link>https://www.v2ex.com/t/1068750#reply5</link><description>刚才试了下，博客园已经打不开了，主页也是打不开了&lt;br /&gt;&lt;a href="https://www.cnblogs.com/" rel="nofollow noopener" target="_blank"&gt;https://www.cnblogs.com/&lt;/a&gt;</description><pubDate>Thu, 29 Aug 2024 07:21:24 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068750#reply5</guid></item><item><title>[Spotify] Spotify 尼区新车，年付 35，差 4 人</title><link>https://www.v2ex.com/t/1068749#reply0</link><description>可协助上车，嫌麻烦也可以给我账密直接帮你加好&lt;br /&gt;有意的请联系 tg: QFN1a3Vyb25la28=&lt;br /&gt;跳车不退，翻车按比例退</description><pubDate>Thu, 29 Aug 2024 07:20:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068749#reply0</guid></item><item><title>[问与答] 妹妹马上要开学，民商法专业，有啥推荐送的礼物</title><link>https://www.v2ex.com/t/1068748#reply0</link><description></description><pubDate>Thu, 29 Aug 2024 07:18:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068748#reply0</guid></item><item><title>[问与答] 什么时候开始，“爱奇艺、优酷、腾讯视频”的 pc 浏览器界面几乎一样呢？</title><link>https://www.v2ex.com/t/1068747#reply0</link><description>&lt;p&gt;都是暗黑色+左边栏+右上大图&lt;/p&gt;
-&lt;p&gt;好几年都没有打开这 3 个视频网站的 pc 浏览器版，&lt;/p&gt;
-&lt;p&gt;有必要这么统一吗？太诧异了！&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 07:18:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068747#reply0</guid></item><item><title>[Android] 寻安卓支持内录通话的录音 app？</title><link>https://www.v2ex.com/t/1068746#reply1</link><description>1. 支持内录，即不通过 mic 收音&lt;br /&gt;2. 支持通话录音，包括电话、微信语音等&lt;br /&gt;3. 最好是免费或有学习版</description><pubDate>Thu, 29 Aug 2024 07:06:27 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068746#reply1</guid></item></channel></rss>
+&lt;p&gt;调用 opencv 的代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    cv::String dir = std::string(videoPath.toLocal8Bit());
+    // cap.open(videoPath.toStdString());
+    cap.open(dir, cv::CAP_FFMPEG);
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 29 Aug 2024 15:20:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068867#reply0</guid></item><item><title>[问与答] 牛肉面里吃到的这是哪个部位？</title><link>https://www.v2ex.com/t/1068866#reply4</link><description>&lt;p&gt;时间回到 2023 年 11 月 25 号，晚上 6 点 29 分左右。当时我才去浙江打工不到半年。  &lt;/p&gt;
+&lt;p&gt;跟同事下班后去一家餐厅，我点了个牛肉面，然后用餐时吃到一块肉觉得口感奇怪，吐出来后看了下很像很像人类胸部的或者下面最顶端的那部分，表面光滑，有种难以言喻的恶心。 &lt;/p&gt;
+&lt;p&gt;然而因为是跟同事一起怕声张后被他传播出去闹笑话，所以没找老板理论。  &lt;/p&gt;
+&lt;p&gt;不过刚刚回顾 QQ 空间相册的时候发现自己备份了放在私密相册里，所以请大家帮忙看下这到底是啥。  &lt;/p&gt;
+&lt;p&gt;(最差最差的情况，我希望最终答案是属于牛的部位，而不是属于人类的。)  &lt;/p&gt;
+&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ry1TXhI.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="图 2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/e08wVcW.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:11:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068866#reply4</guid></item><item><title>[问与答] 苹果 tiktok 不拔卡失效了？</title><link>https://www.v2ex.com/t/1068865#reply0</link><description>本来不用拔卡，设置地区挂梯子就能刷。刚刚好像不行了</description><pubDate>Thu, 29 Aug 2024 15:09:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068865#reply0</guid></item><item><title>[问与答] 文字与现实的反差</title><link>https://www.v2ex.com/t/1068864#reply4</link><description>&lt;p&gt;今天去面基，对方是家人介绍的，早上的 WEI 信，晚上去面基，白天聊天时候文字感觉对方是个稳重，认真，有点内向的人，但晚上见到本人感觉跟我想象是相反的，对方社牛，甚至有点八面玲珑，感觉场面被他轻松拿捏，而我是社恐被拿捏到那一个(Ｔ＿Ｔ)，跟他的文字展现出来的人格不一样，我接触的男生不多，不知道哪个才是真实的他，还是我想多了，就怕遇到海王不自知,V 友帮我参考参考，大家见多识广&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:08:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068864#reply4</guid></item><item><title>[程序员] 咕泡云课堂培训机构的服务怎么样？</title><link>https://www.v2ex.com/t/1068863#reply4</link><description>本人作为工作 1 年经验的 Java 程序员，失业很久了。听说咕泡云课堂提供针对性 1v1 的简历指导、模拟面试、定制化课程、内推以及 试用期陪跑 的服务，有些心动，想问问有没有体验过咕泡整套服务的，担心这 1 万元扔水里了。</description><pubDate>Thu, 29 Aug 2024 15:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068863#reply4</guid></item><item><title>[PayPal] 为什么有个电话删除不了？</title><link>https://www.v2ex.com/t/1068862#reply1</link><description>&lt;p&gt;出现两个可以设置首选的电话？怎么删除 尾号 0058 的电话&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:02:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068862#reply1</guid></item><item><title>[问与答] 装修合同的定金能不能退？</title><link>https://www.v2ex.com/t/1068861#reply4</link><description>2 个月前跟本地一个装修公司签了装修合同，因为各种原因 2 个月只砸了一个墙、包了 3 根下水管。&lt;br /&gt;合同中有定金的条款，但是签的时候划掉了（划掉的地方没有盖章、也没有签字）&lt;br /&gt;这种情况下能退款吗？</description><pubDate>Thu, 29 Aug 2024 15:01:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068861#reply4</guid></item><item><title>[Windows] 求救-开机输入密码后黑屏</title><link>https://www.v2ex.com/t/1068860#reply3</link><description>如题，开机输入密码后黑屏，鼠标还在，任务管理器无法呼出，反复重启还有这个问题；&lt;br /&gt;有时候偶尔能进去，结果点 Windows 标，按键盘也无法呼出开始页面。。&lt;br /&gt;win11 rog 幻 16 翻转版</description><pubDate>Thu, 29 Aug 2024 14:52:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068860#reply3</guid></item><item><title>[问与答] 求 AI logo 生成网站</title><link>https://www.v2ex.com/t/1068858#reply0</link><description>&lt;p&gt;&lt;a href="https://hk.v2ex.com/t/994684" rel="nofollow"&gt;https://hk.v2ex.com/t/994684&lt;/a&gt; 需求同这个贴&lt;/p&gt;
+&lt;p&gt;但是网站已经挂了，有做相关网站的朋友或者 有使用相关网站的朋友可以踢踢我&lt;/p&gt;
+&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:25:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068858#reply0</guid></item><item><title>[问与答] 资讯类网站都怎么做的</title><link>https://www.v2ex.com/t/1068857#reply0</link><description>&lt;a href="https://www.coinlive.com/zh/news" rel="nofollow noopener" target="_blank"&gt;https://www.coinlive.com/zh/news&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.marsbit.co/" rel="nofollow noopener" target="_blank"&gt;https://www.marsbit.co/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.panewslab.com/zh/index.html" rel="nofollow noopener" target="_blank"&gt;https://www.panewslab.com/zh/index.html&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.theblockbeats.info/" rel="nofollow noopener" target="_blank"&gt;https://www.theblockbeats.info/&lt;/a&gt;&lt;br /&gt;类似这些 &lt;br /&gt;&lt;br /&gt;感觉'好简单'，时不时蹦出几个，什么样的爬虫？ &lt;br /&gt;app 是都 flutter 了。</description><pubDate>Thu, 29 Aug 2024 14:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068857#reply0</guid></item><item><title>[问与答] 吃过好几次的店突然吃到一次头发，你会选择不再光顾吗？</title><link>https://www.v2ex.com/t/1068856#reply11</link><description>&lt;p&gt;有一点难受，之前挺喜欢的，每次汤都喝完，突然发现并没有想象中那么好，很大的落差感&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:15:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068856#reply11</guid></item><item><title>[程序员] 《国产编程语言蓝皮书-2024》开放申报通道</title><link>https://www.v2ex.com/t/1068854#reply0</link><description>&lt;p&gt;《国产编程语言蓝皮书-2024 》作为该系列的第二版，根据前一版的经验和反馈，对编制方案进行了以下优化：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;增加了英文版，以扩大国际影响力，中英文版本将同步发布，内容保持一致；&lt;/li&gt;
+&lt;li&gt;在项目申报资料中，为项目简介部分提供了建议内容清单，以促进项目展示的标准化；&lt;/li&gt;
+&lt;li&gt;延长了项目申报的时间，给予申报者更多的准备时间，直至 2024 年 10 月底。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;编程语言是软件业的工业母机、编译器技术是信息产业的根技术，各种编程语言被用于操作系统、数据库管理系统、网络服务、工控设备、应用程序等的开发，渗透到了所有现代产业和服务领域。尤其是信息产业创新空间的持续扩展、系统复杂度的持续上升、开发成本的持续降低，都直接受益于不断涌现的编程语言和编译技术。&lt;/p&gt;
+&lt;p&gt;迄今为止，国内几乎没有出现被广泛使用的编程语言，这与我国世界性工业大国、科技大国的地位相去甚远。&lt;/p&gt;
+&lt;p&gt;国家政策层面，工业和信息化部发布的《“十四五”软件和信息技术服务业发展规划》中提到，应“强化基础组件供给……加快突破编程语言开发框架”；中国软件行业协会发布的《中国软件根技术发展白皮书（基础软件册）》第四章专门对编程语言和编译器的重要性、发展态势等进行了归纳。&lt;/p&gt;
+&lt;p&gt;这些政策文件的发布，为编程语言产业的发展提供了坚实的支持。随着信息技术的多年积累，我国已经形成了一个庞大的产业群体，对编程语言这一基础工具的需求日益增长。特别是在大语言模型、国产芯片等新兴技术领域的快速发展，对编程语言提出了更多新的需求。&lt;/p&gt;
+&lt;p&gt;回顾历史不难发现，与其他产业不同，作为信息产业的核心，编程语言的成功案例充满了偶然性。目前广泛使用的编程语言和开发工具，它们可能源自大型企业的商业推动，也可能源自个人或开源社区的创新。国内根软件行业呈现出项目高度分散化的趋势，企业和社区正在积极推动各种类型的编程语言项目，以满足不同领域的需求。&lt;/p&gt;
+&lt;p&gt;随着国家对软件和信息技术服务业的重视，以及对基础软件的大力支持，国产编程语言的发展迎来了前所未有的机遇。《国产编程语言蓝皮书-2024 》的编制，正是响应国家政策，汇聚国内编程语言创新力量的重要举措。&lt;/p&gt;
+&lt;p&gt;鉴于此，编程语言开放社区（ PLOC ）推出的《国产编程语言蓝皮书》，旨在全面收录并定期更新国内活跃且具有一定可用性的编程语言项目，为行业提供一个全面的国产编程语言概览。&lt;/p&gt;
+&lt;p&gt;2023 版蓝皮书地址: &lt;a href="https://www.ploc.org.cn/ploc/CNPL-2023.pdf" rel="nofollow"&gt;https://www.ploc.org.cn/ploc/CNPL-2023.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;原文: &lt;a href="https://mp.weixin.qq.com/s/8ZJXPSQZlAOZoEYUkzGQfA" rel="nofollow"&gt;https://mp.weixin.qq.com/s/8ZJXPSQZlAOZoEYUkzGQfA&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:10:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068854#reply0</guid></item><item><title>[iCloud] 国区 iCloud 2T 共享 500G + Apple Music/15</title><link>https://www.v2ex.com/t/1068853#reply1</link><description>&lt;p&gt;15 元/月 Apple Music + 500G
+还剩三位，寻找长期车友………&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068853#reply1</guid></item><item><title>[分享发现] 翻译包 https://pypi.org/project/tranzlate</title><link>https://www.v2ex.com/t/1068852#reply1</link><description>搜了一下午翻译包，都没找到几个好用的（我需求只是词和短语翻译）&lt;br /&gt;大部分是 google ，不是没有 proxy 支持就是“网络问题”，估计被 google 反爬&lt;br /&gt;&lt;br /&gt;虽然这个包说明是全英文，但估计是国人写的，一堆国内的翻译引擎（好像没有 AI ）&lt;br /&gt;好奇说明例子都是译成'yo'，这是什么民族的语言？&lt;br /&gt;&lt;br /&gt;代码在 &lt;a href="https://github.com/ti-oluwa/tranzlate" rel="nofollow noopener" target="_blank"&gt;https://github.com/ti-oluwa/tranzlate&lt;/a&gt;&lt;br /&gt;只有两星，其中一个还是我打的，刚创建的？&lt;br /&gt;&lt;br /&gt;试了几个韩文&lt;br /&gt;用 google 引擎，提示中国大陆下架，呃，我走的 proxy 呢&lt;br /&gt;bing 引擎很快，deepl 很慢，其他就没试了</description><pubDate>Thu, 29 Aug 2024 13:58:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068852#reply1</guid></item><item><title>[iCloud] 土区 iCloud 招一名乘客</title><link>https://www.v2ex.com/t/1068851#reply2</link><description>&lt;p&gt;4 人车，每个月 13 元，每 3 个月收一次，翻车按比例退。&lt;/p&gt;
+&lt;p&gt;有意请联系绿色 kobelatte&lt;/p&gt;
+&lt;p&gt;上年 1 月份在 v 站招过两位兄弟。个人自用。
+附上上次的帖子
+&lt;a href="https://www.v2ex.com/t/908170#reply10" rel="nofollow"&gt;https://www.v2ex.com/t/908170#reply10&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:53:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068851#reply2</guid></item><item><title>[电影] 《姥姥的外孙》现在有下载资源吗</title><link>https://www.v2ex.com/t/1068850#reply0</link><description>&lt;p&gt;评分奇高，想在家看下，似乎没有可用资源&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:46:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068850#reply0</guid></item></channel></rss>
