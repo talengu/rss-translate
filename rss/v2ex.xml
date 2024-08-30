@@ -1,40 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Thu, 29 Aug 2024 15:43:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[随想] 好心急呀，新版 iPad mini 一直没出， AMD 9800X3D 也没出</title><link>https://www.v2ex.com/t/1068872#reply0</link><description></description><pubDate>Thu, 29 Aug 2024 15:35:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068872#reply0</guid></item><item><title>[硬件] 求推荐个 AMD 的核心多一点的、显卡稍微好一点的、屏幕色彩好一些的笔记本谢谢</title><link>https://www.v2ex.com/t/1068870#reply0</link><description>&lt;p&gt;想要 AMD 的 CPU ，核心数要多因为有点虚拟化的需求；显卡要稍微好一点平时会玩点游戏；屏幕要稍微好一点，不过对高刷无感但是对色彩比较敏感；最后就是整体外观设计好看一点，大概就这样。&lt;/p&gt;
-&lt;p&gt;预算的话 7.5k 上下（狗东日常价），求大家给推荐推荐。&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:26:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068870#reply0</guid></item><item><title>[云计算] microsoft 365 有同学拼车吗， 50 元一年，有意者可以加我 tg</title><link>https://www.v2ex.com/t/1068869#reply0</link><description>&lt;p&gt;如题，有意者联系 &lt;a href="https://t.me/ds5511" rel="nofollow"&gt;https://t.me/ds5511&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068869#reply0</guid></item><item><title>[问与答] 关于苏州的“电动车必须戴头盔”条例</title><link>https://www.v2ex.com/t/1068868#reply0</link><description>不管上面想法有多好，但具体的执行方式让我很是恼火。平常维护交通秩序的交警是不会批罚单的，他们中的大多数是不会带着批条子的机器的（大概是因为管控得比较严，大多数辅警正警应该是没有权力开罚单的）。于是呢，每次要查头盔都是运动式的执法，专挑繁华路段，傍晚时分，一出动就是十数人，黑压压地站在路口四周，随时准备拉起人墙截住车流。何况这些交警的态度也算不上多好（毕竟他们觉得查头盔这事很正当，很可能把违逆的人视作刁民），不时能看到有人想要绕过去，然后几个彪形大汉一个箭步冲上去，这边拽住胳膊，那边拉住车把，还有一人迅速拔掉钥匙：路人纷纷侧目，不由得想起了某些港片中的场景；之后我去采访了一下那个被拦下的人，他回答我说，实在怀疑交警的根本动机，长这么大，第一次有了被压迫的感觉。这个时候路上骑电动车的，不少是吃过饭和家人一起出来转悠的，都开得很慢，所以反而最容易被交警抓住。他们的抵触情绪也是最大的：我开得又不快，真就是自行车的车速，你非要我跟那些车速追得上摩托的人遵守一样的法规，干嘛呀？&lt;br /&gt;       我觉得问题出在一刀切上，应该严格区分电动摩托和电动自行车，对于能开到 40/50 码的电动摩托加大监管力度，同时给与一些权力，比如办电摩驾驶证就能与摩托车平权，可以上机动车道；对于电动自行车，严格限速，安装踏板，不可后座带人，然后别太强求头盔的事，说不定人家穿汉服呢？</description><pubDate>Thu, 29 Aug 2024 15:23:23 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068868#reply0</guid></item><item><title>[问与答] 求救-qt 转 msvc 后 Opencv 始终打不开视频！</title><link>https://www.v2ex.com/t/1068867#reply0</link><description>&lt;p&gt;&lt;strong&gt;项目背景&lt;/strong&gt;：这段时间为实验室做了一个小项目，技术栈原本为 QT+Opencv+Mingw ，一切正常。但因为引入了 onnxruntime 所以转为 msvc2019C++编译器，自此噩梦不断。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问题描述&lt;/strong&gt;：在 debug 其他问题后，目前遇到一个玄学 bug ，使用 QFileDialog 获取到了 QString 类型的文件路径，在使用 toLocal8Bit 转换为 msvc 编码的标注 string 后 opencv 的 cap.open 始终无法打开文件。我是使用了浑身解数也无法，只能来论坛求助大神了！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;问题补充&lt;/strong&gt;：我尝试过将 FFMPEG 的 dll 复制到可执行软件的同目录，配置系统环境还有重新编译 opencv 等方法，均无效果。&lt;/p&gt;
-&lt;p&gt;获取文件路径的代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    QString videoPath = QFileDialog::getOpenFileName(this, "打开文件", usedPath, tr("视频 (*.avi *.mp4 *.wmv)"));
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;调用 opencv 的代码：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    cv::String dir = std::string(videoPath.toLocal8Bit());
-    // cap.open(videoPath.toStdString());
-    cap.open(dir, cv::CAP_FFMPEG);
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Thu, 29 Aug 2024 15:20:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068867#reply0</guid></item><item><title>[问与答] 牛肉面里吃到的这是哪个部位？</title><link>https://www.v2ex.com/t/1068866#reply4</link><description>&lt;p&gt;时间回到 2023 年 11 月 25 号，晚上 6 点 29 分左右。当时我才去浙江打工不到半年。  &lt;/p&gt;
-&lt;p&gt;跟同事下班后去一家餐厅，我点了个牛肉面，然后用餐时吃到一块肉觉得口感奇怪，吐出来后看了下很像很像人类胸部的或者下面最顶端的那部分，表面光滑，有种难以言喻的恶心。 &lt;/p&gt;
-&lt;p&gt;然而因为是跟同事一起怕声张后被他传播出去闹笑话，所以没找老板理论。  &lt;/p&gt;
-&lt;p&gt;不过刚刚回顾 QQ 空间相册的时候发现自己备份了放在私密相册里，所以请大家帮忙看下这到底是啥。  &lt;/p&gt;
-&lt;p&gt;(最差最差的情况，我希望最终答案是属于牛的部位，而不是属于人类的。)  &lt;/p&gt;
-&lt;p&gt;&lt;img alt="图 1" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ry1TXhI.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="图 2" class="embedded_image" rel="noreferrer" src="https://i.imgur.com/e08wVcW.jpg" /&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:11:42 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068866#reply4</guid></item><item><title>[问与答] 苹果 tiktok 不拔卡失效了？</title><link>https://www.v2ex.com/t/1068865#reply0</link><description>本来不用拔卡，设置地区挂梯子就能刷。刚刚好像不行了</description><pubDate>Thu, 29 Aug 2024 15:09:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068865#reply0</guid></item><item><title>[问与答] 文字与现实的反差</title><link>https://www.v2ex.com/t/1068864#reply4</link><description>&lt;p&gt;今天去面基，对方是家人介绍的，早上的 WEI 信，晚上去面基，白天聊天时候文字感觉对方是个稳重，认真，有点内向的人，但晚上见到本人感觉跟我想象是相反的，对方社牛，甚至有点八面玲珑，感觉场面被他轻松拿捏，而我是社恐被拿捏到那一个(Ｔ＿Ｔ)，跟他的文字展现出来的人格不一样，我接触的男生不多，不知道哪个才是真实的他，还是我想多了，就怕遇到海王不自知,V 友帮我参考参考，大家见多识广&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:08:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068864#reply4</guid></item><item><title>[程序员] 咕泡云课堂培训机构的服务怎么样？</title><link>https://www.v2ex.com/t/1068863#reply4</link><description>本人作为工作 1 年经验的 Java 程序员，失业很久了。听说咕泡云课堂提供针对性 1v1 的简历指导、模拟面试、定制化课程、内推以及 试用期陪跑 的服务，有些心动，想问问有没有体验过咕泡整套服务的，担心这 1 万元扔水里了。</description><pubDate>Thu, 29 Aug 2024 15:05:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068863#reply4</guid></item><item><title>[PayPal] 为什么有个电话删除不了？</title><link>https://www.v2ex.com/t/1068862#reply1</link><description>&lt;p&gt;出现两个可以设置首选的电话？怎么删除 尾号 0058 的电话&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 15:02:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068862#reply1</guid></item><item><title>[问与答] 装修合同的定金能不能退？</title><link>https://www.v2ex.com/t/1068861#reply4</link><description>2 个月前跟本地一个装修公司签了装修合同，因为各种原因 2 个月只砸了一个墙、包了 3 根下水管。&lt;br /&gt;合同中有定金的条款，但是签的时候划掉了（划掉的地方没有盖章、也没有签字）&lt;br /&gt;这种情况下能退款吗？</description><pubDate>Thu, 29 Aug 2024 15:01:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068861#reply4</guid></item><item><title>[Windows] 求救-开机输入密码后黑屏</title><link>https://www.v2ex.com/t/1068860#reply3</link><description>如题，开机输入密码后黑屏，鼠标还在，任务管理器无法呼出，反复重启还有这个问题；&lt;br /&gt;有时候偶尔能进去，结果点 Windows 标，按键盘也无法呼出开始页面。。&lt;br /&gt;win11 rog 幻 16 翻转版</description><pubDate>Thu, 29 Aug 2024 14:52:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068860#reply3</guid></item><item><title>[问与答] 求 AI logo 生成网站</title><link>https://www.v2ex.com/t/1068858#reply0</link><description>&lt;p&gt;&lt;a href="https://hk.v2ex.com/t/994684" rel="nofollow"&gt;https://hk.v2ex.com/t/994684&lt;/a&gt; 需求同这个贴&lt;/p&gt;
-&lt;p&gt;但是网站已经挂了，有做相关网站的朋友或者 有使用相关网站的朋友可以踢踢我&lt;/p&gt;
-&lt;p&gt;谢谢&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:25:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068858#reply0</guid></item><item><title>[问与答] 资讯类网站都怎么做的</title><link>https://www.v2ex.com/t/1068857#reply0</link><description>&lt;a href="https://www.coinlive.com/zh/news" rel="nofollow noopener" target="_blank"&gt;https://www.coinlive.com/zh/news&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.marsbit.co/" rel="nofollow noopener" target="_blank"&gt;https://www.marsbit.co/&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.panewslab.com/zh/index.html" rel="nofollow noopener" target="_blank"&gt;https://www.panewslab.com/zh/index.html&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.theblockbeats.info/" rel="nofollow noopener" target="_blank"&gt;https://www.theblockbeats.info/&lt;/a&gt;&lt;br /&gt;类似这些 &lt;br /&gt;&lt;br /&gt;感觉'好简单'，时不时蹦出几个，什么样的爬虫？ &lt;br /&gt;app 是都 flutter 了。</description><pubDate>Thu, 29 Aug 2024 14:16:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068857#reply0</guid></item><item><title>[问与答] 吃过好几次的店突然吃到一次头发，你会选择不再光顾吗？</title><link>https://www.v2ex.com/t/1068856#reply11</link><description>&lt;p&gt;有一点难受，之前挺喜欢的，每次汤都喝完，突然发现并没有想象中那么好，很大的落差感&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:15:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068856#reply11</guid></item><item><title>[程序员] 《国产编程语言蓝皮书-2024》开放申报通道</title><link>https://www.v2ex.com/t/1068854#reply0</link><description>&lt;p&gt;《国产编程语言蓝皮书-2024 》作为该系列的第二版，根据前一版的经验和反馈，对编制方案进行了以下优化：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 30 Aug 2024 15:34:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[全球工单系统] 阿里云 ECS 服务器 IPV6 居然还要收费</title><link>https://www.v2ex.com/t/1069161#reply0</link><description>&lt;p&gt;想把服务器定时备份回家里 NAS ，发现连接不上，ping 了一下 ping 不通
+本来以为是什么网络防火墙要配置，看了阿里云官方文档才知道 IPV6 公网访问居然还单独收钱
+明明带宽已经付费了，IPV6 地址也不是什么稀缺资源，太扣了这也&lt;/p&gt;
+&lt;p&gt;顺便求一个服务器定时备份的存储位置推荐，就自娱自乐的小博客，没访问也不占空间&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://help.aliyun.com/zh/ecs/user-guide/step-1-create-a-vpc-that-supports-ipv6-addressing#0e205fa6a7qf3" rel="nofollow"&gt;https://help.aliyun.com/zh/ecs/user-guide/step-1-create-a-vpc-that-supports-ipv6-addressing#0e205fa6a7qf3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="这是图片" class="embedded_image" rel="noreferrer" src="https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/8011565171/p796337.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:28:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069161#reply0</guid></item><item><title>[问与答] 哪家好一点的服务商支持 top 域名转入？</title><link>https://www.v2ex.com/t/1069160#reply0</link><description>&lt;p&gt;不想把域名留在阿里云了。。。太恶心了，CF 又不支持。。&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069160#reply0</guid></item><item><title>[问与答] 网易邮箱限制 Thunderbird 客户端？</title><link>https://www.v2ex.com/t/1069159#reply1</link><description>在 126 官网邮箱设置中选中“收取全部邮件”，Thunderbird 同步收件箱便无法完成！&lt;br /&gt;活动管理器提示：对 ‘收件箱’ 的操作没有成功，账户 XXX@126.com 的邮件服务器回应：FETCH Fetch volume limit exceed.&lt;br /&gt;同样，全局索引也卡住不动。。。&lt;br /&gt;只有在 126 官网邮箱设置中选择“收取最近 30 天邮件”才能顺利同步。&lt;br /&gt;一共才 2000 多封邮件，其他 gmail 、outlook 好几年上万封邮件一眨眼就同步完成了&lt;br /&gt;&lt;br /&gt;散了吧，其他客户端都限制流量</description><pubDate>Fri, 30 Aug 2024 15:15:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069159#reply1</guid></item><item><title>[Android] 小米换机是覆盖克隆，还是增量？</title><link>https://www.v2ex.com/t/1069158#reply0</link><description>&lt;p&gt;如题，新买的手机已经有很多照片了，现在换机会不会直接覆盖掉？&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:09:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069158#reply0</guid></item><item><title>[酷工作] [北京]京东内推 Java 研发，简历直达部门 leader</title><link>https://www.v2ex.com/t/1069157#reply0</link><description>&lt;p&gt;&lt;strong&gt;岗位&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;java 研发&lt;/p&gt;
+&lt;p&gt;部门主要京东物流分拣中心相关业务，就是京东买东西商品从仓库出来到快递站点中间的这个环节&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要技术栈&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;都是常见的&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;增加了英文版，以扩大国际影响力，中英文版本将同步发布，内容保持一致；&lt;/li&gt;
-&lt;li&gt;在项目申报资料中，为项目简介部分提供了建议内容清单，以促进项目展示的标准化；&lt;/li&gt;
-&lt;li&gt;延长了项目申报的时间，给予申报者更多的准备时间，直至 2024 年 10 月底。&lt;/li&gt;
+&lt;li&gt;spring mvc,springboot&lt;/li&gt;
+&lt;li&gt;mybatis,mysql,redis,es&lt;/li&gt;
+&lt;li&gt;kafka, dubbo&lt;/li&gt;
+&lt;li&gt;flink,spark sql(大数据相关没有了，都交出去了)&lt;/li&gt;
+&lt;li&gt;前端主要 vue ，安卓原生(不熟悉前端没关系，会的话是加分项)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;编程语言是软件业的工业母机、编译器技术是信息产业的根技术，各种编程语言被用于操作系统、数据库管理系统、网络服务、工控设备、应用程序等的开发，渗透到了所有现代产业和服务领域。尤其是信息产业创新空间的持续扩展、系统复杂度的持续上升、开发成本的持续降低，都直接受益于不断涌现的编程语言和编译技术。&lt;/p&gt;
-&lt;p&gt;迄今为止，国内几乎没有出现被广泛使用的编程语言，这与我国世界性工业大国、科技大国的地位相去甚远。&lt;/p&gt;
-&lt;p&gt;国家政策层面，工业和信息化部发布的《“十四五”软件和信息技术服务业发展规划》中提到，应“强化基础组件供给……加快突破编程语言开发框架”；中国软件行业协会发布的《中国软件根技术发展白皮书（基础软件册）》第四章专门对编程语言和编译器的重要性、发展态势等进行了归纳。&lt;/p&gt;
-&lt;p&gt;这些政策文件的发布，为编程语言产业的发展提供了坚实的支持。随着信息技术的多年积累，我国已经形成了一个庞大的产业群体，对编程语言这一基础工具的需求日益增长。特别是在大语言模型、国产芯片等新兴技术领域的快速发展，对编程语言提出了更多新的需求。&lt;/p&gt;
-&lt;p&gt;回顾历史不难发现，与其他产业不同，作为信息产业的核心，编程语言的成功案例充满了偶然性。目前广泛使用的编程语言和开发工具，它们可能源自大型企业的商业推动，也可能源自个人或开源社区的创新。国内根软件行业呈现出项目高度分散化的趋势，企业和社区正在积极推动各种类型的编程语言项目，以满足不同领域的需求。&lt;/p&gt;
-&lt;p&gt;随着国家对软件和信息技术服务业的重视，以及对基础软件的大力支持，国产编程语言的发展迎来了前所未有的机遇。《国产编程语言蓝皮书-2024 》的编制，正是响应国家政策，汇聚国内编程语言创新力量的重要举措。&lt;/p&gt;
-&lt;p&gt;鉴于此，编程语言开放社区（ PLOC ）推出的《国产编程语言蓝皮书》，旨在全面收录并定期更新国内活跃且具有一定可用性的编程语言项目，为行业提供一个全面的国产编程语言概览。&lt;/p&gt;
-&lt;p&gt;2023 版蓝皮书地址: &lt;a href="https://www.ploc.org.cn/ploc/CNPL-2023.pdf" rel="nofollow"&gt;https://www.ploc.org.cn/ploc/CNPL-2023.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;原文: &lt;a href="https://mp.weixin.qq.com/s/8ZJXPSQZlAOZoEYUkzGQfA" rel="nofollow"&gt;https://mp.weixin.qq.com/s/8ZJXPSQZlAOZoEYUkzGQfA&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 14:10:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068854#reply0</guid></item><item><title>[iCloud] 国区 iCloud 2T 共享 500G + Apple Music/15</title><link>https://www.v2ex.com/t/1068853#reply1</link><description>&lt;p&gt;15 元/月 Apple Music + 500G
-还剩三位，寻找长期车友………&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:58:43 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068853#reply1</guid></item><item><title>[分享发现] 翻译包 https://pypi.org/project/tranzlate</title><link>https://www.v2ex.com/t/1068852#reply1</link><description>搜了一下午翻译包，都没找到几个好用的（我需求只是词和短语翻译）&lt;br /&gt;大部分是 google ，不是没有 proxy 支持就是“网络问题”，估计被 google 反爬&lt;br /&gt;&lt;br /&gt;虽然这个包说明是全英文，但估计是国人写的，一堆国内的翻译引擎（好像没有 AI ）&lt;br /&gt;好奇说明例子都是译成'yo'，这是什么民族的语言？&lt;br /&gt;&lt;br /&gt;代码在 &lt;a href="https://github.com/ti-oluwa/tranzlate" rel="nofollow noopener" target="_blank"&gt;https://github.com/ti-oluwa/tranzlate&lt;/a&gt;&lt;br /&gt;只有两星，其中一个还是我打的，刚创建的？&lt;br /&gt;&lt;br /&gt;试了几个韩文&lt;br /&gt;用 google 引擎，提示中国大陆下架，呃，我走的 proxy 呢&lt;br /&gt;bing 引擎很快，deepl 很慢，其他就没试了</description><pubDate>Thu, 29 Aug 2024 13:58:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068852#reply1</guid></item><item><title>[iCloud] 土区 iCloud 招一名乘客</title><link>https://www.v2ex.com/t/1068851#reply2</link><description>&lt;p&gt;4 人车，每个月 13 元，每 3 个月收一次，翻车按比例退。&lt;/p&gt;
-&lt;p&gt;有意请联系绿色 kobelatte&lt;/p&gt;
-&lt;p&gt;上年 1 月份在 v 站招过两位兄弟。个人自用。
-附上上次的帖子
-&lt;a href="https://www.v2ex.com/t/908170#reply10" rel="nofollow"&gt;https://www.v2ex.com/t/908170#reply10&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:53:33 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068851#reply2</guid></item><item><title>[电影] 《姥姥的外孙》现在有下载资源吗</title><link>https://www.v2ex.com/t/1068850#reply0</link><description>&lt;p&gt;评分奇高，想在家看下，似乎没有可用资源&lt;/p&gt;</description><pubDate>Thu, 29 Aug 2024 13:46:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1068850#reply0</guid></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;要求&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 年或以上工作经验&lt;/li&gt;
+&lt;li&gt;要 985/211 学历，或者大厂工作经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;简历发送邮箱&lt;/strong&gt;&lt;a href="mailto:ljq917181927@gmail.com"&gt;ljq917181927@gmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:08:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069157#reply0</guid></item><item><title>[程序员] 用香港银行卡转账 5w 转错人了, 对方拒不归还怎么处理</title><link>https://www.v2ex.com/t/1069156#reply3</link><description>&lt;p&gt;今天大早上起来在火币买币, 迷迷糊糊操作转账转错人了, 知道对方手机号, 就在 whatsapp 上联系对方, 对方表示拒不归还
+目前已知的信息:
+1 对方香港手机号
+2 对方姓名的拼音
+3 对方的香港银行卡 id
+有什么方法可以追回呢?&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:05:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069156#reply3</guid></item><item><title>[VXNA] 申请收录 [米随随] s5s5</title><link>https://www.v2ex.com/t/1069155#reply1</link><description>Site: &lt;a href="https://s5s5.me/" rel="nofollow noopener" target="_blank"&gt;https://s5s5.me/&lt;/a&gt;&lt;br /&gt;Feed: &lt;a href="https://s5s5.me/feed" rel="nofollow noopener" target="_blank"&gt;https://s5s5.me/feed&lt;/a&gt;</description><pubDate>Fri, 30 Aug 2024 14:43:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069155#reply1</guid></item><item><title>[问与答] Pixel 4a 5G 充电尾插坏了。 哪里有专业维修的呀。</title><link>https://www.v2ex.com/t/1069154#reply0</link><description>闲鱼上的可以吗。哪里还可以修。可以快递寄送的。</description><pubDate>Fri, 30 Aug 2024 14:42:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069154#reply0</guid></item><item><title>[iPhone] 马上就是 16 发布会了，现在入手 15 pro 时机可以吗</title><link>https://www.v2ex.com/t/1069152#reply4</link><description>&lt;p&gt;一开始想着新款出了次旗舰会降价，结果都说因为出了 16 ，15PRO 会下架，导致价格不降反升，所以说是趁着这几天发布前入手还是发布后入手&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 14:18:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069152#reply4</guid></item><item><title>[北京] 北京白血病去哪个医院比较好啊</title><link>https://www.v2ex.com/t/1069150#reply7</link><description>同事这周突然确诊白血病了，现在住的医院感觉不是太好，想推荐 ta 如果可以的话找机会换一个？</description><pubDate>Fri, 30 Aug 2024 14:09:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069150#reply7</guid></item><item><title>[创业组队] 有没有昆山或周边的朋友聊聊</title><link>https://www.v2ex.com/t/1069148#reply0</link><description>我一直在离散型行业工作，涉及到 ERP 、MES 、CRM 和 PLM 系统。后来，我和朋友合伙开了公司，朋友负责客户开发，而我则负责项目实施，涵盖了软硬件的各个方面。随着智能制造的发展，我在上海的一家公司负责诊断工作，提供解决方案。目前，我为微软公司提供服务，专注于 TO B 场景的落地。&lt;br /&gt;&lt;br /&gt;我的目标是想与大家交流、学习和分享经验，希望能找到志同道合的朋友，共同探讨以及合作机会。如果你对这些领域感兴趣，欢迎联系我，一起探讨更多可能性！</description><pubDate>Fri, 30 Aug 2024 13:26:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069148#reply0</guid></item><item><title>[硬件] 500 元以内有线鼠标和键盘推荐</title><link>https://www.v2ex.com/t/1069146#reply0</link><description>如题，麻烦各位推荐一下（ 1 ） 有线鼠标，价格小于 500 （ 2 ）有线机械键盘，价格小于 500 。用途就是办公，但是也可以是游戏用，手感好就行，谢谢各位！</description><pubDate>Fri, 30 Aug 2024 13:15:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069146#reply0</guid></item><item><title>[Rust] 试图通过 unsafe 绕过越界检查看越界检查有多少额外开销</title><link>https://www.v2ex.com/t/1069145#reply9</link><description>&lt;p&gt;结果在我的 M2 Mac mini 上,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有边界检查: 1152 ms&lt;/li&gt;
+&lt;li&gt;无边界检查: 1084 ms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;基本是 6% 左右的时间开销(不确定我这个封装是否有额外开销).&lt;/p&gt;
+&lt;p&gt;附源代码:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-rust"&gt;struct Array&amp;lt;T&amp;gt;(*mut T);
+
+impl&amp;lt;T&amp;gt; From&amp;lt;*const T&amp;gt; for Array&amp;lt;T&amp;gt; {
+    fn from(ptr: *const T) -&amp;gt; Self {
+        Self(ptr as *mut _)
+    }
+}
+
+impl&amp;lt;T&amp;gt; std::ops::Index&amp;lt;usize&amp;gt; for Array&amp;lt;T&amp;gt; {
+    type Output = T;
+    fn index(&amp;amp;self, index: usize) -&amp;gt; &amp;amp;Self::Output {
+        unsafe {
+            let ptr = self.0.offset(index as isize);
+            &amp;amp;*ptr
+        }
+    }
+}
+impl&amp;lt;T&amp;gt; std::ops::IndexMut&amp;lt;usize&amp;gt; for Array&amp;lt;T&amp;gt; {
+    fn index_mut(&amp;amp;mut self, index: usize) -&amp;gt; &amp;amp;mut Self::Output {
+        unsafe {
+            let ptr = self.0.offset(index as isize);
+            &amp;amp;mut *ptr
+        }
+    }
+}
+
+fn main() {
+    const SIZE: usize = 1024 * 1024;
+    const LOOP: usize = 2_000_000;
+
+    let mut arr = vec![0u32; SIZE];
+    let start = std::time::Instant::now();
+    // array indexing with boundary check
+    {
+        for _ in 0..LOOP {
+            let index = rand::random::&amp;lt;usize&amp;gt;() % SIZE;
+            arr[index] += 1;
+        }
+    }
+    let elapsed = start.elapsed();
+    println!("Array indexing with boundary check runtime: {}ms", elapsed.as_millis());
+
+    // to avoid cache, use a different raw array.
+    let mut arr = Array::from(vec![0u32; SIZE].as_ptr());
+    let start = std::time::Instant::now();
+    // array indexing wthout boundary check
+    {
+        for _ in 0..LOOP {
+            let index = rand::random::&amp;lt;usize&amp;gt;() % SIZE;
+            arr[index] += 1;
+        }
+    }
+    let elapsed = start.elapsed();
+    println!("Array indexing without boundary check runtime: {}ms", elapsed.as_millis());
+    
+}
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 30 Aug 2024 13:13:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069145#reply9</guid></item><item><title>[投资] 英特尔跌了 30%大家有骂有笑，昨天超微电脑(SMCI)跌去 25%没人讨论，是离 c 端太远了吗？</title><link>https://www.v2ex.com/t/1069144#reply3</link><description></description><pubDate>Fri, 30 Aug 2024 13:09:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069144#reply3</guid></item><item><title>[酷工作] 新⻄兰公司招聘全职 远程 产品经理岗位</title><link>https://www.v2ex.com/t/1069142#reply1</link><description>关于我们&lt;br /&gt;Zstar Education 技术有限公司总部位于新⻄兰，奥克兰，旗下核⼼技术产品 Classcipe ， 打&lt;br /&gt;造围绕⽼师教学活动的赋能⼯具，孵化全球的教学内容社区，拓展学⽣的个性化学习服务。&lt;br /&gt;⽬前已在印度，中东，东南亚等国家地区拥有 10000+注册⽼师⽤户。公司使命：实现互动&lt;br /&gt;教学资源和服务的全球共建共享，公司愿景：成为师⽣终⾝学习的信任伙伴。&lt;br /&gt;岗位：产品经理&lt;br /&gt;职责:&lt;br /&gt;1 、负责海外⼯具业务线的产品规划、设计，对产品的体验、留存及⽤户规模负责；&lt;br /&gt;2 、带领产品团队完成业务线产品策划、设计，制定各线产品发展、更新、迭代的计划；&lt;br /&gt;3 、通过对业务核⼼流程的梳理，数据分析与挖掘，优化产品策略，持续提升产品收益；&lt;br /&gt;4 、负责产品团队梯队建设，团队管理⼯作，对团队和业务的整体产出负责。&lt;br /&gt;任职要求：&lt;br /&gt;1.五年以上的产品工作经验，具有教育类产品从 0 到 1 经验；&lt;br /&gt;2.有独立思考能力，较强的逻辑能力以及自我驱动力，具有良好的沟通能力与协调能力，能&lt;br /&gt;迅速融入团队，有积极向上的心态&lt;br /&gt;3.有工具型产品规划迭代、增长变现经验者，优先考虑；&lt;br /&gt;4.熟练掌握运用 Axure ，Visio ，Xmind, Figma 等产品工具；&lt;br /&gt;5.熟悉产品开发流程，了解前端/客户端与后端协作流程。热爱体验和钻研国内外产品。&lt;br /&gt;6.关注竞品动态、洞察行业的趋势和需求，把握产品定位和方向&lt;br /&gt;薪酬：面议&lt;br /&gt;额外福利:&lt;br /&gt;-工作满 6 个月，可以提供赴新西兰工作和永久居留身份担保&lt;br /&gt;联系人：&lt;br /&gt;薛先生&lt;br /&gt;Email： Xavier.xue@aedut.com&lt;br /&gt;Wechat：728571112&lt;br /&gt;WhatsApp: +6421759877</description><pubDate>Fri, 30 Aug 2024 13:02:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069142#reply1</guid></item><item><title>[ACG] 《无职转生》第一季、第二季影评</title><link>https://www.v2ex.com/t/1069141#reply9</link><description>就直接放链接吧，感觉的确是因爱生恨了。&lt;br /&gt;&lt;br /&gt;《无职转生》第一季：女权、成长&lt;br /&gt;&lt;a href="https://bilibi.li/2021/10/30/mushoku-tensei-and-feminism" rel="nofollow noopener" target="_blank"&gt;https://bilibi.li/2021/10/30/mushoku-tensei-and-feminism&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;《无职转生》第二季：庸俗、无趣&lt;br /&gt;&lt;a href="https://bilibi.li/2024/08/30/mushoku-tensei-and-degenerate" rel="nofollow noopener" target="_blank"&gt;https://bilibi.li/2024/08/30/mushoku-tensei-and-degenerate&lt;/a&gt;</description><pubDate>Fri, 30 Aug 2024 12:58:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069141#reply9</guid></item><item><title>[宽带症候群] IPLC 广港/沪港 联通和电信 稳定性 99.99%</title><link>https://www.v2ex.com/t/1069140#reply1</link><description>产品类型：广港 IPLC 电信线路 和 广港 IPLC 联通线路&lt;br /&gt;产品类型：沪港 IPLC 电信线路 和 沪港 IPLC 联通线路&lt;br /&gt;出口地区：香港 BGP 国际出口&lt;br /&gt;销售模式：固定带宽&lt;br /&gt;流量限制：不限制，可 24 小时满负载&lt;br /&gt;计费周期：月付/季付/年付&lt;br /&gt;起售带宽：20M 至 10G 注：量越小越贵&lt;br /&gt;交付模式：双端交付&lt;br /&gt;稳定性：SLA99.99%&lt;br /&gt;价格：实时询价&lt;br /&gt;联系方式： &lt;a href="https://t.me/DDos_XuanYuan" rel="nofollow noopener" target="_blank"&gt;https://t.me/DDos_XuanYuan&lt;/a&gt;&lt;br /&gt;交流群组： &lt;a href="https://t.me/cn_iepl" rel="nofollow noopener" target="_blank"&gt;https://t.me/cn_iepl&lt;/a&gt;&lt;br /&gt;注：内容有需要我补充的，请下方留言，我看到后会补充信息&lt;br /&gt;&lt;br /&gt; [轩辕开车，从不翻车，信誉看我历史帖子]</description><pubDate>Fri, 30 Aug 2024 12:42:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069140#reply1</guid></item><item><title>[发音] 请问哪个 APP 翻译的发音，比较标准</title><link>https://www.v2ex.com/t/1069136#reply3</link><description>&lt;p&gt;本人的英语因为没有经过正规的教学机构，全靠自学，之前一直没发现问题，但和老外交流后被指出，我的口音非常严重。。。。&lt;/p&gt;
+&lt;p&gt;现在想系统的纠正下自己的发音，然后我下载了几个常见的 APP ，有道词典，有道翻译官，百度翻译，腾讯翻译君，出国翻译官，金山词霸，翻译全能王，Mircosoft 翻译器&lt;/p&gt;
+&lt;p&gt;我随便找了几个单词，仔细的听了下，上面这几个 APP 的翻译确实都有细微的区别。&lt;/p&gt;
+&lt;p&gt;我想问下，上面的 APP 哪个更加标准些，或者有发音更标准的 APP 可以推荐下&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:21:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069136#reply3</guid></item><item><title>[Go 编程语言] Go 初学者，有没有老哥能告诉我在写代码的时候应该如何避免内存泄漏的问题</title><link>https://www.v2ex.com/t/1069135#reply17</link><description>&lt;p&gt;万分感谢！
+并不是想 100%避免，只是希望少点蠢代码……&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:13:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069135#reply17</guid></item><item><title>[Apple] Mac 有色准不错且带高刷新率的 4k 显示器推荐吗，最好是 27 寸/24 寸，谢谢大佬</title><link>https://www.v2ex.com/t/1069134#reply6</link><description>&lt;h2&gt;需求&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4k 分辨率&lt;/li&gt;
+&lt;li&gt;色准表现尚可，不要有明显的偏色&lt;/li&gt;
+&lt;li&gt;支持 type-c 一线连，供电无要求，睡眠可以保活 usb 设备最好&lt;/li&gt;
+&lt;li&gt;支持 VRR 可变刷新，还想用来玩 ps5&lt;/li&gt;
+&lt;li&gt;高刷新率 120 起（实在不行 60 也可以）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;预算&lt;/h2&gt;
+&lt;p&gt;看产品力定价，1k 到 3k 浮动吧.. 合心意最重要&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:11:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069134#reply6</guid></item></channel></rss>
