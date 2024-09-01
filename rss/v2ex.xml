@@ -1,105 +1,461 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Fri, 30 Aug 2024 15:34:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[全球工单系统] 阿里云 ECS 服务器 IPV6 居然还要收费</title><link>https://www.v2ex.com/t/1069161#reply0</link><description>&lt;p&gt;想把服务器定时备份回家里 NAS ，发现连接不上，ping 了一下 ping 不通
-本来以为是什么网络防火墙要配置，看了阿里云官方文档才知道 IPV6 公网访问居然还单独收钱
-明明带宽已经付费了，IPV6 地址也不是什么稀缺资源，太扣了这也&lt;/p&gt;
-&lt;p&gt;顺便求一个服务器定时备份的存储位置推荐，就自娱自乐的小博客，没访问也不占空间&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://help.aliyun.com/zh/ecs/user-guide/step-1-create-a-vpc-that-supports-ipv6-addressing#0e205fa6a7qf3" rel="nofollow"&gt;https://help.aliyun.com/zh/ecs/user-guide/step-1-create-a-vpc-that-supports-ipv6-addressing#0e205fa6a7qf3&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="这是图片" class="embedded_image" rel="noreferrer" src="https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/8011565171/p796337.png" /&gt;&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:28:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069161#reply0</guid></item><item><title>[问与答] 哪家好一点的服务商支持 top 域名转入？</title><link>https://www.v2ex.com/t/1069160#reply0</link><description>&lt;p&gt;不想把域名留在阿里云了。。。太恶心了，CF 又不支持。。&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:23:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069160#reply0</guid></item><item><title>[问与答] 网易邮箱限制 Thunderbird 客户端？</title><link>https://www.v2ex.com/t/1069159#reply1</link><description>在 126 官网邮箱设置中选中“收取全部邮件”，Thunderbird 同步收件箱便无法完成！&lt;br /&gt;活动管理器提示：对 ‘收件箱’ 的操作没有成功，账户 XXX@126.com 的邮件服务器回应：FETCH Fetch volume limit exceed.&lt;br /&gt;同样，全局索引也卡住不动。。。&lt;br /&gt;只有在 126 官网邮箱设置中选择“收取最近 30 天邮件”才能顺利同步。&lt;br /&gt;一共才 2000 多封邮件，其他 gmail 、outlook 好几年上万封邮件一眨眼就同步完成了&lt;br /&gt;&lt;br /&gt;散了吧，其他客户端都限制流量</description><pubDate>Fri, 30 Aug 2024 15:15:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069159#reply1</guid></item><item><title>[Android] 小米换机是覆盖克隆，还是增量？</title><link>https://www.v2ex.com/t/1069158#reply0</link><description>&lt;p&gt;如题，新买的手机已经有很多照片了，现在换机会不会直接覆盖掉？&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:09:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069158#reply0</guid></item><item><title>[酷工作] [北京]京东内推 Java 研发，简历直达部门 leader</title><link>https://www.v2ex.com/t/1069157#reply0</link><description>&lt;p&gt;&lt;strong&gt;岗位&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;java 研发&lt;/p&gt;
-&lt;p&gt;部门主要京东物流分拣中心相关业务，就是京东买东西商品从仓库出来到快递站点中间的这个环节&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主要技术栈&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;都是常见的&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Sun, 01 Sep 2024 20:10:44 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[VPS] VPS 搭建回国节点方案可行性讨论</title><link>https://www.v2ex.com/t/1069464#reply1</link><description>要去欧洲出差几个月，想要自己弄一个 VPS 线路回国，想征求一下可行性、稳定性以及对应的法律风险&lt;br /&gt;有朋友说回国的 VPN 服务不会被 ban ，那是不是可以直接 wireguard 或者最传统的 vpn 方案&lt;br /&gt;如果不行，使用现在主流的协议，用 xui 面板弄一个 vless/shadowsocks 方案是否可行&lt;br /&gt;最后的备选方案是 Trojan&lt;br /&gt;自用，目前准备使用宁波双向 20m 的 vps 搭建，家里小服务器公网带宽一般不打算使用。</description><pubDate>Sun, 01 Sep 2024 18:27:02 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069464#reply1</guid></item><item><title>[VXNA] 申请收录 it 备忘录</title><link>https://www.v2ex.com/t/1069463#reply0</link><description>&lt;p&gt;Site: &lt;a href="https://blog.chenjia.info" rel="nofollow"&gt;https://blog.chenjia.info&lt;/a&gt;
+Feed: &lt;a href="https://blog.chenjia.info/index.xml" rel="nofollow"&gt;https://blog.chenjia.info/index.xml&lt;/a&gt;&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 18:18:54 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069463#reply0</guid></item><item><title>[Apple] macbook pro 2021 又又又充不了上电了</title><link>https://www.v2ex.com/t/1069462#reply0</link><description>2023.3 月 pdd 买的 macbook pro 2021 。&lt;br /&gt;2023.12 月 发现无法充电，在保修内更换了电池和主板。&lt;br /&gt;2024.9 月 又发现无法充电了。&lt;br /&gt;所以，每隔 8-9 个月，电池就废了？&lt;br /&gt;很无奈啊。</description><pubDate>Sun, 01 Sep 2024 17:51:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069462#reply0</guid></item><item><title>[问与答] 想问一下大家人体工学椅真的有用吗？真的值那么多钱吗？</title><link>https://www.v2ex.com/t/1069461#reply3</link><description>如题，目前正在使用的是一把固定的椅子，就是海绵坐垫和海绵靠背，别的什么都没有，我坐起来也并没有什么不舒服的地方。所以想问一下大家。动辄上千块的人体工学椅究竟好在哪里？相同功能的椅子，PDD 上没有品牌只要 200 块，带上品牌就要 500 块。这其中的差价抛开材质和做工，在坐的体验上究竟能有多少提升？功能更多的椅子 2000 块也是有的，前天下午我坐着 20 块买的较高的马扎打了一下午游戏也并没有觉得有什么不妥，身体也没有产生不舒服的感觉（ 30 岁了）。之前去家具城也体验了各种价位的人体工学椅，我的感觉是没有感觉。椅子的本质就是坐，我可以理解材质做工功能的提升进而价格提升，但是以人体工学为宣传噱头、以身体健康来制造焦虑，这样的价格提升除去有钱人怎么样的人会去买单呢？我是穷卫（鬼），轻喷。</description><pubDate>Sun, 01 Sep 2024 17:34:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069461#reply3</guid></item><item><title>[iPhone] 双卡 iPhone 14 Pro Max 的兄弟们，主卡电信，副卡移动，朋友打你卡 2（移动）的时候会不会偶尔听不清晰</title><link>https://www.v2ex.com/t/1069460#reply0</link><description>双卡 iPhone 14 Pro Max 的兄弟们，主卡电信，副卡移动，朋友打你卡 2 （移动）的时候会不会偶尔听不清晰&lt;br /&gt;&lt;br /&gt;不知道大家会不会有这样，当时当你主卡电信，副卡移动的时候，都是满信号并且信号覆盖不错的情况下，朋友打你卡 2 移动的时候，说你这边的声音怎么听不清晰。&lt;br /&gt;&lt;br /&gt;我是 14PM ，系统是首发初始系统 iOS 16.0 从未升级过的&lt;br /&gt;&lt;br /&gt;我是卡 1 电信主力，卡 2 移动（保号）专门打家庭短号网的</description><pubDate>Sun, 01 Sep 2024 17:05:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069460#reply0</guid></item><item><title>[宽带症候群] 四川移动、成都移动固定 IP 专线上传限速和高 ping 丢包情况通报</title><link>https://www.v2ex.com/t/1069459#reply4</link><description>各位使用成都、四川移动地区专线的 V 友们，请关注自己专线的网络状况：&lt;br /&gt;  由于打压 PCDN ，从 2024.9.1 日下午 16：00 以后，成都地区移动出现了只要有上传流量（流速&amp;gt;10mbps ）,会出现到网关的高 ping 、跳包现象。同时上传速度仅仅只有正常速度的 10/1 。&lt;br /&gt;  我这里已经有两条专线中招，有一条日均上传很高（作用于网盘备份、同步），而另外一条日均上传不过 5-15G ，一个月下下上行流量不过 137G 。&lt;br /&gt;现在的情况就是：下行可以跑满合同限速，ping 不丢包，只要测速开始测试上传，并且速率&amp;gt;10m ，到第一跳网关将出现高 ping 导致整个网络连接质量极差，停止上传后网络会立即恢复正常。&lt;br /&gt;tips：1 、这些都是固定 IP 的专线，不是家宽；&lt;br /&gt;      2 、最开始我还认为只针对高上传用户，结果低上传用户也被一锅端了。&lt;br /&gt;      3 、不跑 PCDN 、PT ，不要拿跑 PCDN 被收拾来幸灾乐祸。这个 QOS 策略纯纯傻逼。&lt;br /&gt;      大家对照一下检查一下专线的情况把&lt;br /&gt;&lt;br /&gt;图片：&lt;br /&gt;&lt;a href="https://imgur.com/a/xz6kYwV" rel="nofollow noopener" target="_blank"&gt;https://imgur.com/a/xz6kYwV&lt;/a&gt;</description><pubDate>Sun, 01 Sep 2024 16:59:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069459#reply4</guid></item><item><title>[职场话题] 主动离职拿不到项目提成和 N+1？</title><link>https://www.v2ex.com/t/1069458#reply11</link><description>最近提了离职，因为工资和工作环境问题，刚才和老板谈工资清算没谈拢…&lt;br /&gt;&lt;br /&gt;入职说好的 5%的项目提成，我这边的工作已经做完了，但是现在项目还没有验收，所以貌似公司不打算给我….这样可以吗？&lt;br /&gt;&lt;br /&gt;我提 N+1 的时候又说要满一年才有，但是劳动法规定的 6-12 个月是按一年算的吧？ &lt;br /&gt;&lt;br /&gt;如果谈不拢有必要走劳动仲裁吗？&lt;br /&gt;还是我有问题？</description><pubDate>Sun, 01 Sep 2024 16:58:39 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069458#reply11</guid></item><item><title>[Cloudflare] 通过 partner cname 接入的域名突然不能续签边缘证书了</title><link>https://www.v2ex.com/t/1069457#reply0</link><description>&lt;p&gt;我的域名是很久以前通过 cf partner 面板接入的 cname 记录。仅接入了子域名 &lt;code&gt;&lt;a href="http://cdn.a.com" rel="nofollow"&gt;cdn.a.com&lt;/a&gt;&lt;/code&gt;（源站 &lt;code&gt;&lt;a href="http://b.com" rel="nofollow"&gt;b.com&lt;/a&gt;&lt;/code&gt;），没有接入 &lt;code&gt;&lt;a href="http://a.com" rel="nofollow"&gt;a.com&lt;/a&gt;&lt;/code&gt; 和 &lt;code&gt;&lt;a href="http://www.a.com" rel="nofollow"&gt;www.a.com&lt;/a&gt;&lt;/code&gt;。接入时的设置是通过 http 续签证书。也就是在根目录下设置 &lt;code&gt;&lt;a href="http://cdn.a.com/.well-known/pki-validation/caxxxxx.txt" rel="nofollow"&gt;http://cdn.a.com/.well-known/pki-validation/caxxxxx.txt&lt;/a&gt;&lt;/code&gt; 文件，cf 安排续签证书时校验这个文件验证所有权。&lt;/p&gt;
+&lt;p&gt;前天突然发现无法通过 https 访问 &lt;code&gt;&lt;a href="http://cdn.a.com" rel="nofollow"&gt;cdn.a.com&lt;/a&gt;&lt;/code&gt;。http 访问则没有问题。直接 https 访问源站 &lt;code&gt;&lt;a href="http://b.com" rel="nofollow"&gt;b.com&lt;/a&gt;&lt;/code&gt; 也没有问题。&lt;br /&gt;
+通过 &lt;code&gt;openssl s_client -connect &lt;a href="http://cdn.a.com:443" rel="nofollow"&gt;cdn.a.com:443&lt;/a&gt; -showcerts&lt;/code&gt; 检查发现没有证书：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CONNECTED(00000003)&lt;br /&gt;
+140170526717840:error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure:s23_clnt.c:769:&lt;br /&gt;
+no peer certificate available  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;登录 cf 后台，在 [网站]  [ SSL/TLS ]  [边缘证书] 页面中，边缘证书列表显示为无证书：
+&lt;img alt="无证书" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/bb4f5e46-f498-47e2-9ec1-5f62d04886fd" /&gt;&lt;/p&gt;
+&lt;p&gt;我已检查过：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;spring mvc,springboot&lt;/li&gt;
-&lt;li&gt;mybatis,mysql,redis,es&lt;/li&gt;
-&lt;li&gt;kafka, dubbo&lt;/li&gt;
-&lt;li&gt;flink,spark sql(大数据相关没有了，都交出去了)&lt;/li&gt;
-&lt;li&gt;前端主要 vue ，安卓原生(不熟悉前端没关系，会的话是加分项)&lt;/li&gt;
+&lt;li&gt;[ SSL/TLS ] 被设置为完整（严格）。&lt;/li&gt;
+&lt;li&gt;没有开启 [始终使用 HTTPS ] 。确保续签时可通过 http 访问校验文件。&lt;/li&gt;
+&lt;li&gt;[安全性]  [ WAF ] 中已设置规则，放行对校验文件的访问。&lt;/li&gt;
+&lt;li&gt;外部 DNS 解析服务中 &lt;code&gt;&lt;a href="http://cdn.a.com" rel="nofollow"&gt;cdn.a.com&lt;/a&gt;&lt;/code&gt; 通过 cname 指向官方指定的 &lt;code&gt;&lt;a href="http://cdn.a.com.cdn.cloudflare.net" rel="nofollow"&gt;cdn.a.com.cdn.cloudflare.net&lt;/a&gt;&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;curl &lt;a href="http://cdn.a.com/.well-known/pki-validation/caxxxxx.txt" rel="nofollow"&gt;http://cdn.a.com/.well-known/pki-validation/caxxxxx.txt&lt;/a&gt;&lt;/code&gt; 可以得到预设的值。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;要求&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;我已试过如下方法但都没有效果：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;4 年或以上工作经验&lt;/li&gt;
-&lt;li&gt;要 985/211 学历，或者大厂工作经验&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;简历发送邮箱&lt;/strong&gt;&lt;a href="mailto:ljq917181927@gmail.com"&gt;ljq917181927@gmail.com&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:08:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069157#reply0</guid></item><item><title>[程序员] 用香港银行卡转账 5w 转错人了, 对方拒不归还怎么处理</title><link>https://www.v2ex.com/t/1069156#reply3</link><description>&lt;p&gt;今天大早上起来在火币买币, 迷迷糊糊操作转账转错人了, 知道对方手机号, 就在 whatsapp 上联系对方, 对方表示拒不归还
-目前已知的信息:
-1 对方香港手机号
-2 对方姓名的拼音
-3 对方的香港银行卡 id
-有什么方法可以追回呢?&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 15:05:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069156#reply3</guid></item><item><title>[VXNA] 申请收录 [米随随] s5s5</title><link>https://www.v2ex.com/t/1069155#reply1</link><description>Site: &lt;a href="https://s5s5.me/" rel="nofollow noopener" target="_blank"&gt;https://s5s5.me/&lt;/a&gt;&lt;br /&gt;Feed: &lt;a href="https://s5s5.me/feed" rel="nofollow noopener" target="_blank"&gt;https://s5s5.me/feed&lt;/a&gt;</description><pubDate>Fri, 30 Aug 2024 14:43:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069155#reply1</guid></item><item><title>[问与答] Pixel 4a 5G 充电尾插坏了。 哪里有专业维修的呀。</title><link>https://www.v2ex.com/t/1069154#reply0</link><description>闲鱼上的可以吗。哪里还可以修。可以快递寄送的。</description><pubDate>Fri, 30 Aug 2024 14:42:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069154#reply0</guid></item><item><title>[iPhone] 马上就是 16 发布会了，现在入手 15 pro 时机可以吗</title><link>https://www.v2ex.com/t/1069152#reply4</link><description>&lt;p&gt;一开始想着新款出了次旗舰会降价，结果都说因为出了 16 ，15PRO 会下架，导致价格不降反升，所以说是趁着这几天发布前入手还是发布后入手&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 14:18:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069152#reply4</guid></item><item><title>[北京] 北京白血病去哪个医院比较好啊</title><link>https://www.v2ex.com/t/1069150#reply7</link><description>同事这周突然确诊白血病了，现在住的医院感觉不是太好，想推荐 ta 如果可以的话找机会换一个？</description><pubDate>Fri, 30 Aug 2024 14:09:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069150#reply7</guid></item><item><title>[创业组队] 有没有昆山或周边的朋友聊聊</title><link>https://www.v2ex.com/t/1069148#reply0</link><description>我一直在离散型行业工作，涉及到 ERP 、MES 、CRM 和 PLM 系统。后来，我和朋友合伙开了公司，朋友负责客户开发，而我则负责项目实施，涵盖了软硬件的各个方面。随着智能制造的发展，我在上海的一家公司负责诊断工作，提供解决方案。目前，我为微软公司提供服务，专注于 TO B 场景的落地。&lt;br /&gt;&lt;br /&gt;我的目标是想与大家交流、学习和分享经验，希望能找到志同道合的朋友，共同探讨以及合作机会。如果你对这些领域感兴趣，欢迎联系我，一起探讨更多可能性！</description><pubDate>Fri, 30 Aug 2024 13:26:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069148#reply0</guid></item><item><title>[硬件] 500 元以内有线鼠标和键盘推荐</title><link>https://www.v2ex.com/t/1069146#reply0</link><description>如题，麻烦各位推荐一下（ 1 ） 有线鼠标，价格小于 500 （ 2 ）有线机械键盘，价格小于 500 。用途就是办公，但是也可以是游戏用，手感好就行，谢谢各位！</description><pubDate>Fri, 30 Aug 2024 13:15:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069146#reply0</guid></item><item><title>[Rust] 试图通过 unsafe 绕过越界检查看越界检查有多少额外开销</title><link>https://www.v2ex.com/t/1069145#reply9</link><description>&lt;p&gt;结果在我的 M2 Mac mini 上,&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;有边界检查: 1152 ms&lt;/li&gt;
-&lt;li&gt;无边界检查: 1084 ms&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;基本是 6% 左右的时间开销(不确定我这个封装是否有额外开销).&lt;/p&gt;
-&lt;p&gt;附源代码:&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-rust"&gt;struct Array&amp;lt;T&amp;gt;(*mut T);
+&lt;li&gt;cf 后台暂停该域名，一小时后重启。&lt;/li&gt;
+&lt;li&gt;[ SSL/TLS ] 调整为关闭，一小时后恢复为完整（严格）。&lt;/li&gt;
+&lt;li&gt;[ SSL/TLS ] 调整为关闭，一小时后恢复为完整。&lt;/li&gt;
+&lt;li&gt;[边缘证书] 中关闭 [通用 SSL ] ，一小时后启用。&lt;/li&gt;
+&lt;li&gt;按下图提示，在外部 DNS 解析服务中设置 &lt;code&gt;&lt;a href="http://_acme-challenge.cdn.a.com" rel="nofollow"&gt;_acme-challenge.cdn.a.com&lt;/a&gt;&lt;/code&gt; cname 指向 &lt;code&gt;&lt;a href="http://cdn.a.com.uuid.dcv.cloudflare.com" rel="nofollow"&gt;cdn.a.com.uuid.dcv.cloudflare.com&lt;/a&gt;&lt;/code&gt;，然后关闭 [ SSL\TLS ] 和 [通用 SSL ] 十几分钟后恢复。
+&lt;img alt="DCV" class="embedded_image" rel="noreferrer" src="https://github.com/user-attachments/assets/62ca5215-2534-45e2-bd4f-bcb0377d26e4" /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><pubDate>Sun, 01 Sep 2024 16:27:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069457#reply0</guid></item><item><title>[宽带症候群] 家宽固定 ipv6 前缀实现静态公网</title><link>https://www.v2ex.com/t/1069456#reply7</link><description>![1000013040.webp]( &lt;a href="https://j.teno.cx/root/2024/09/01/66d47e29cf906.webp" rel="nofollow noopener" target="_blank"&gt;https://j.teno.cx/root/2024/09/01/66d47e29cf906.webp&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;虽然之前有人发了，但实在太神奇所以再补充下，原理可以看参考资料:，&lt;a href="https://www.v2ex.com/t/1014864" rel="nofollow noopener" target="_blank"&gt;https://www.v2ex.com/t/1014864&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;方法就是打开 prefix hint 功能，&lt;br /&gt;&lt;br /&gt;![1000013041.webp]( &lt;a href="https://j.teno.cx/root/2024/09/01/66d47f8d48c53.webp" rel="nofollow noopener" target="_blank"&gt;https://j.teno.cx/root/2024/09/01/66d47f8d48c53.webp&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;输入当前 IP 前缀或者按照 bras 的前缀写全尝试也可以，也就是可以调靓号，也可以全 0 补全，（如图上就是 0 补全）如果报错就是 bras 拒绝了手动的前缀&lt;br /&gt;&lt;br /&gt;实测本地移动全 0 最短前缀可以，/48 ～/60 的子网部分 随便改靓号，电信如果改的太短或者太靓号会强制修改几个位，没法全 0 最短前缀，但只要分配给我了就可以一直用&lt;br /&gt;&lt;br /&gt;# 此方法修改后重拨号前缀固定，理论上只要 bras 方这段前缀不过期就可以一直用，算静态 ipv6 体验卡&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;关于如何 win 系统用短 ipv6 ，&lt;br /&gt;&lt;br /&gt;win 系统要把 ipv6 临时地址和 ra 通告给禁用了，适配器里面再改成手动获取 ipv6 地址&lt;br /&gt;&lt;br /&gt;实现 12 位超短 ipv6 地址&lt;br /&gt;&lt;br /&gt;linux 系统更简单，直接配置静态 ipv6 即可，&lt;br /&gt;&lt;br /&gt;安卓只支持 slaac 短不了一点，iOS MacOS 似乎没法静态 ipv6 ，用有状态 dhcpv6 可以分固定 v6 ，（但 ROS 不支持有状态）</description><pubDate>Sun, 01 Sep 2024 16:11:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069456#reply7</guid></item><item><title>[OpenAI] 低价甚至免费的 gpt api 是怎么搞出来的？</title><link>https://www.v2ex.com/t/1069455#reply2</link><description>难不成是用 新手账号送的免费额度，堆的账号池？</description><pubDate>Sun, 01 Sep 2024 16:09:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069455#reply2</guid></item><item><title>[macOS] 求助贴， macOS 存储不足更新失败无限重启。</title><link>https://www.v2ex.com/t/1069453#reply2</link><description>朋友有一台 MacBook Air 2018 ，可能升级 Sonoma14.6.1 时候进度条卡住了一个小时，被强制关机了。&lt;br /&gt;结果，无法正常开机，Apple 进度条走完之后，就被要求输入密码来解锁。然后输入 Mac 密码后又无限循环 logo 进度条输密码…&lt;br /&gt;&lt;br /&gt;1 、首先尝试 Mac 自带恢复模式进行升级操作，尴尬的是磁盘空间不足差了 3GB ，没辙。&lt;br /&gt;2 、于是尝试用制作 U 盘启动器的方式来升级，但是选择升级过程中报错「这个“安装 macOS Sonoma”应用程序副本已损坏，不能用来安装 macOS 」，终端设置 date 时间无效。&lt;br /&gt;3 、重置 PRAM/NVRAM 无效。&lt;br /&gt;4 、shift 按住进入安全模式无效。&lt;br /&gt;5 、无时间机器备份&lt;br /&gt;&lt;br /&gt;目前是不是除了抹掉磁盘以外没招了？&lt;br /&gt;&lt;a href="https://i.imgur.com/8ZtPO6i.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/8ZtPO6i.jpeg" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href="https://i.imgur.com/ewQt2Gb.jpeg" rel="nofollow noopener" target="_blank"&gt;&lt;img class="embedded_image" rel="noreferrer" src="https://i.imgur.com/ewQt2Gb.jpeg" /&gt;&lt;/a&gt;</description><pubDate>Sun, 01 Sep 2024 15:55:17 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069453#reply2</guid></item><item><title>[问与答] 免费的国外邮箱有什么推荐吗</title><link>https://www.v2ex.com/t/1069452#reply0</link><description>用于注册一些国外网站 和游戏包括接收验证码之类</description><pubDate>Sun, 01 Sep 2024 15:51:50 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069452#reply0</guid></item><item><title>[全球工单系统] https://learnku.com/ 有人知道这个网站吗，挂了好几天了</title><link>https://www.v2ex.com/t/1069451#reply1</link><description>&lt;p&gt;是挂了，还是我网络问题&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 15:37:34 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069451#reply1</guid></item><item><title>[硬件] 小白刚动手，请教立创 EDA 一些很简单的问题....</title><link>https://www.v2ex.com/t/1069450#reply0</link><description>&lt;p&gt;1 、如在 PCB 板和原理图中用了（ XH2.5-2A 直针 2PIN 针座），要找适配它的母头元件准备加入到清单，怎么找最便捷、准确？&lt;br /&gt;
+这个自己瞎摸索过，是不是除了历史以来熟悉搭配型号，只能手选，别无它法？                 &lt;/p&gt;
+&lt;p&gt;2 、在自动布线的时候，限定某些区域不走线，不产生走线过孔，比较灵巧方式是如何做？&lt;br /&gt;
+是不是用个什么容易放置、删除的东西“占位”，自动补完线后删除占位内容？               &lt;/p&gt;
+&lt;p&gt;3 、以前看别人做电子制作，在一整块 PCB 板上画出一部分区域（连板？），可以像梳打饼干那样折断这部分区域，成为单独的 PCB 板块，这种划开区域的做法，在立创 EDA 里怎么做？  1.6MM 厚的板子。。。&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 15:30:32 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069450#reply0</guid></item><item><title>[问与答] 计网白学了系列，家里路由器电脑和游戏主机用起来正常，手机却经常加载不出来图片视频是怎么回事？</title><link>https://www.v2ex.com/t/1069449#reply7</link><description>如题，坐标广州，开的电信，应该是 500Mb 的带宽，不管是有线连接的台式机+PS5 ，还是我的 wifi 连接的笔记本，网速都很快，下载也从来没问题，但是手机网络就经常出问题，包括但不限于微信、飞书图片半天刷不出来（我的使用体验），微博、小红书的图片和视频也加载特别慢（我对象的使用体验）等。很奇怪啊，有大佬了解吗？&lt;br /&gt;路由器是 RT-AX88U Pro&lt;br /&gt;提前拜谢大佬！</description><pubDate>Sun, 01 Sep 2024 15:25:25 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069449#reply7</guid></item><item><title>[VPS] 给你免费的甲骨文小鸡上个保险：如何用 restic 备份 vaultwarden 数据</title><link>https://www.v2ex.com/t/1069448#reply0</link><description>&lt;p&gt;在甲骨文免费的机器上用 docker 运行着一个 vaultwarden 服务，用来管理自己的所有密码。&lt;/p&gt;
+&lt;p&gt;因为是免费的 vps ，为了避免机器被忽然回收导致数据丢失，因此需要定期备份 vaultwarden 的数据库。&lt;/p&gt;
+&lt;p&gt;首先 vaultwarden 使用了 docker compose 部署，部署文件如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-yaml"&gt;services:
+  vaultwarden:
+    image: vaultwarden/server:latest
+    container_name: vaultwarden
+    restart: always
+    environment:
+      SIGNUPS_ALLOWED: false # Deactivate this with "false" after you have created your account so that no strangers can register
+    volumes:
+      - ./vw-data:/data # the path before the : can be changed
+    ports:
+      - 11001:80 # you can replace the 11001 with your preferred port
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;因此在 vw-data 下面，保存着所有密码数据，只要备份这个目录，就可以还原。&lt;/p&gt;
+&lt;p&gt;备份工具使用 restic ，它支持将数据直接备份到远程，下面步骤主要是设置好备份地址，然后定期执行的操作细节：&lt;/p&gt;
+&lt;p&gt;一： 首先安装 restic&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;sudo apt update
+sudo apt install restic
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;二： 初始化 restic 仓库&lt;/p&gt;
+&lt;p&gt;先设置好环境变量：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;export RESTIC_REPOSITORY=s3:https://&amp;lt;minio-host&amp;gt;:&amp;lt;minio-port&amp;gt;/&amp;lt;bucket-name&amp;gt;/&amp;lt;subpath&amp;gt;
+export AWS_ACCESS_KEY_ID=&amp;lt;your-access-key&amp;gt;
+export AWS_SECRET_ACCESS_KEY=&amp;lt;your-secret-key&amp;gt;
+export RESTIC_PASSWORD=&amp;lt;your-password&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后执行：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;restic init
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;执行成功后，会在远程 S3 目录 &lt;code&gt;https://&amp;lt;minio-host&amp;gt;:&amp;lt;minio-port&amp;gt;/&amp;lt;bucket-name&amp;gt;/&amp;lt;subpath&amp;gt;&lt;/code&gt; 看到一些初始化 meta 数据。&lt;/p&gt;
+&lt;p&gt;三： 创建备份并清理旧数据的脚本 &lt;a href="http://backup_and_prune.sh" rel="nofollow"&gt;backup_and_prune.sh&lt;/a&gt; ，内容如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;#!/bin/bash
 
-impl&amp;lt;T&amp;gt; From&amp;lt;*const T&amp;gt; for Array&amp;lt;T&amp;gt; {
-    fn from(ptr: *const T) -&amp;gt; Self {
-        Self(ptr as *mut _)
-    }
+# 设置环境变量
+export RESTIC_REPOSITORY=s3:https://&amp;lt;minio-host&amp;gt;:&amp;lt;minio-port&amp;gt;/&amp;lt;bucket-name&amp;gt;/&amp;lt;subpath&amp;gt;
+export AWS_ACCESS_KEY_ID=&amp;lt;your-access-key&amp;gt;
+export AWS_SECRET_ACCESS_KEY=&amp;lt;your-secret-key&amp;gt;
+export RESTIC_PASSWORD=&amp;lt;your-password&amp;gt;
+
+# 备份目录
+BACKUP_SOURCE="/home/ubuntu/vaultwarden/vwdata"
+
+# 日志文件
+LOG_FILE="/home/ubuntu/back.log"
+
+# 执行备份并记录日志
+restic backup $BACKUP_SOURCE &amp;gt;&amp;gt; $LOG_FILE 2&amp;gt;&amp;amp;1
+
+# 删除超过 7 天的旧备份并记录日志
+restic forget --keep-daily 7 --prune &amp;gt;&amp;gt; $LOG_FILE 2&amp;gt;&amp;amp;1
+
+# 记录快照信息
+restic snapshots &amp;gt;&amp;gt; $LOG_FILE 2&amp;gt;&amp;amp;1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;请自行将里面的变量和路径替换为实际值。&lt;/p&gt;
+&lt;p&gt;四： 设置定期执行：&lt;/p&gt;
+&lt;p&gt;使用 &lt;code&gt;cron&lt;/code&gt; 来设置每天定期执行备份任务。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sh"&gt;crontab -e
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;添加以下行来设置每天凌晨 2 点执行备份脚本：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sh"&gt;0 2 * * * /home/ubuntu/backup_and_prune.sh
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;确保你的脚本有执行权限：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-sh"&gt;chmod +x /home/ubuntu/backup_and_prune.sh
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这样你的备份脚本就会每天凌晨 2 点执行一次了。&lt;/p&gt;
+&lt;p&gt;五： 验证备份&lt;/p&gt;
+&lt;p&gt;验证数据是否正常的最好办法是让 vaultwarden 加载备份的数据，然后在网页查看数据是否是最新的。因此接下来的操作是将远程的备份下载到本地，然后在本地执行的具体操作。&lt;/p&gt;
+&lt;p&gt;首先设置环境变量&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;export RESTIC_REPOSITORY=s3:https://&amp;lt;minio-host&amp;gt;:&amp;lt;minio-port&amp;gt;/&amp;lt;bucket-name&amp;gt;/&amp;lt;subpath&amp;gt;
+export AWS_ACCESS_KEY_ID=&amp;lt;your-access-key&amp;gt;
+export AWS_SECRET_ACCESS_KEY=&amp;lt;your-secret-key&amp;gt;
+export RESTIC_PASSWORD=&amp;lt;your-password&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;列出所有快照：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-bash"&gt;restic snapshots
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;恢复某个快照到指定目录：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;restic restore &amp;lt;snapshot-id&amp;gt; --target ~/Downloads/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;根据本文的例子，最终的文件还原到了 &lt;code&gt;~/Downloads/vw-data&lt;/code&gt; 下面。&lt;/p&gt;
+&lt;p&gt;本地临时运行一个 docker compose 文件：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-yaml"&gt;services:
+  vaultwarden:
+    image: vaultwarden/server:latest
+    container_name: vaultwarden
+    restart: always
+    environment:
+      SIGNUPS_ALLOWED: false # Deactivate this with "false" after you have created your account so that no strangers can register
+    volumes:
+      - ~/Downloads/vw-data:/data # the path before the : can be changed
+    ports:
+      - 11001:80 # you can replace the 11001 with your preferred port
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;docker compose up&lt;/code&gt; 启动后，访问 localhost:11001 查看数据正常就表示备份没有问题了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本文首发于： &lt;a href="https://blog.tomyail.com/backup-vaultwarden-data-using-restic/" rel="nofollow"&gt;https://blog.tomyail.com/backup-vaultwarden-data-using-restic/&lt;/a&gt; 转载请注明出处&lt;/p&gt;
+&lt;/blockquote&gt;</description><pubDate>Sun, 01 Sep 2024 15:22:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069448#reply0</guid></item><item><title>[程序员] learnku.com 打不开了，请教下是啥情况？</title><link>https://www.v2ex.com/t/1069445#reply6</link><description>&lt;p&gt;坐标成都。今天同事说网站打不开了，看不到文档。
+请问是遇到什么变故了吗？临时的还是永久的？&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 14:46:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069445#reply6</guid></item><item><title>[程序员] 5 个前端 JS 函数，只为了优雅解决 a.b.c.d = 1 问题</title><link>https://www.v2ex.com/t/1069443#reply8</link><description>&lt;h2&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近更新了我的系列文章，其中有一部分是&lt;strong&gt;关于 JavaScript 语言中“点表示法”的使用&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;文章中有 5 个工具函数是纯&lt;code&gt;JavaScript&lt;/code&gt;的，我觉得不仅仅是小程序项目用得上，&lt;strong&gt;其他前端 JS 项目也应该用得上&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我把文章中的这一部分单独整理出来，&lt;strong&gt;给需要写前端代码的朋友参考参考&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;你可以直接在 &lt;a href="https://github.com/sdjl/WxMpCloudBooster" rel="nofollow"&gt;Github 项目&lt;/a&gt; 中的前端 &lt;code&gt;utils.js&lt;/code&gt; 文件中找到这 5 个工具函数。&lt;/p&gt;
+&lt;p&gt;下面是文章节选，完整的文章列表可以在 &lt;a href="https://github.com/sdjl/WxMpCloudBooster" rel="nofollow"&gt;Github 项目&lt;/a&gt; 中查看。&lt;/p&gt;
+&lt;h2&gt;点表示法&lt;code&gt;a.b.c&lt;/code&gt;&lt;/h2&gt;
+&lt;h3&gt;用点表示法给对象赋值：&lt;code&gt;putValue&lt;/code&gt;函数&lt;/h3&gt;
+&lt;p&gt;想象一下，如果&lt;code&gt;a&lt;/code&gt;是一个对象，你要给&lt;code&gt;a.b.c.d&lt;/code&gt;赋值为 1 ，你会这样写？&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let a // 通过某种方式获得的对象
+if (!a.b) {
+  a.b = {}
+}
+if (!a.b.c) {
+  a.b.c = {}
+}
+a.b.c.d = 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;拜托，大学生才这样写。为此，我们引入了&lt;code&gt;putValue&lt;/code&gt;函数：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;utils.putValue(a, 'b.c.d', 1)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;putValue&lt;/code&gt;函数会自动创建&lt;code&gt;a.b&lt;/code&gt;、&lt;code&gt;a.b.c&lt;/code&gt;中间对象，它的声明如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;/**
+* 向对象中按照路径赋值，如果路径上的中间对象不存在，则自动创建。
+* @param {Object} obj - 目标对象。
+* @param {string} key - 属性路径，支持'a.b.c'形式。
+* @param {*} value - 要设置的值。
+* @param {Object} [options={}] - 可选参数。
+*   - {boolean} remove_undefined - 如果为 true 且 value 为 undefined ，则删除该属性。
+* @throws {Error} 如果 obj 为 null 或 undefined ，或路径不合法（如中间非对象）则抛出异常。
+*/
+putValue(obj, key, value, {remove_undefined = true} = {}){
+  // ...
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;使用这个函数有两个地方要注意，一个是如果路径上的中间对象不是对象，会抛出异常。例如&lt;code&gt;a.b=2&lt;/code&gt;，这里&lt;code&gt;b&lt;/code&gt;不是对象，此时会抛出异常。&lt;/p&gt;
+&lt;p&gt;另一个是如果&lt;code&gt;value&lt;/code&gt;是&lt;code&gt;undefined&lt;/code&gt;，则会删除该属性。例如下面的代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;utils.putValue(a, 'b.c.d', undefined)
+console.log(a) // {b: {c: {}}}，putValue 会自动创建中间对象，但不会自动删除空对象
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;但若你真想赋值为&lt;code&gt;undefined&lt;/code&gt;，可设置&lt;code&gt;remove_undefined&lt;/code&gt;参数为&lt;code&gt;false&lt;/code&gt;。&lt;/p&gt;
+&lt;h3&gt;读取对象属性值：&lt;code&gt;pickValue&lt;/code&gt;函数&lt;/h3&gt;
+&lt;p&gt;对应的，如果要获取&lt;code&gt;a.b.c.d&lt;/code&gt;的值，可以使用&lt;code&gt;pickValue&lt;/code&gt;函数：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;utils.putValue(a, 'b.c.d', 1)
+const value = utils.pickValue(a, 'b.c.d')
+console.log(value) // 1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当然你也可以直接使用&lt;code&gt;javascript&lt;/code&gt;的原生语法：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;const value = a.b?.c?.d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这两种写法，当中间路径不存在时，均会返回&lt;code&gt;undefined&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;但&lt;code&gt;a.b?.c?.d&lt;/code&gt;这种写法是硬编码，而在实际开发中路径可能是动态的。例如用户要修改一个配置项，这个配置可能是&lt;code&gt;user_config.font.size&lt;/code&gt;也可能是&lt;code&gt;user_config.page.color.background&lt;/code&gt;，如果使用硬编码的方式，可能会写出这样的代码：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;if (key === 'font.size') {
+  user_config.font.size = value
+} else if (key === 'page.color.background') {
+  user_config.page.color.background = value
+}
+// 更多的 if 语句...
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这样写显然不够优雅，看看&lt;code&gt;putValue&lt;/code&gt;与&lt;code&gt;pickValue&lt;/code&gt;的组合用法。&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;// 写入用户配置：
+utils.putValue(user_config, key, value)
+
+// 读取用户配置
+const value = utils.pickValue(user_config, key)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;不管&lt;code&gt;key&lt;/code&gt;怎么变，一句话搞定，感觉一下子和大学生拉开差距了是吧？&lt;/p&gt;
+&lt;h3&gt;向数组末尾添加元素：&lt;code&gt;pushValue&lt;/code&gt;函数&lt;/h3&gt;
+&lt;p&gt;在实际开发中，常有向数组末尾添加数据的需求。例如记录用户最近的评论，此时你可以使用&lt;code&gt;pushValue&lt;/code&gt;函数：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;const user_data = {} // 用户数据
+let comment = {content: '顶'} // 用户的评论
+
+utils.pushValue(user_data, `articles.recent_comments`, comment)
+
+console.log(user_data) // {articles: {recent_comments: [{content: '顶'}]}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在上面代码中，&lt;code&gt;pushValue&lt;/code&gt;函数先是自动创建了&lt;code&gt;user_data.articles.recent_comments&lt;/code&gt;数组，然后把&lt;code&gt;comment&lt;/code&gt;添加到数组末尾。&lt;code&gt;pushValue&lt;/code&gt;函数的声明如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;/**
+ * 将值推入对象指定路径的数组中，若路径或数组不存在则自动创建。
+ * @param {Object} obj - 目标对象。
+ * @param {string} key - 数组属性的路径，支持'a.b.c'形式。
+ * @param {*} value - 要推入的值。
+ * @throws {Error} 如果路径不是数组，则抛出异常。
+ */
+pushValue(obj, key, value){
+  // ...
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;再次调用此函数，数组中就会有两个评论：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;comment = {content: '再顶'}
+
+utils.pushValue(user_data, `articles.recent_comments`, comment)
+
+console.log(user_data) // {articles: {recent_comments: [{content: '顶'}, {content: '再顶'}]}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;向对象中添加多个属性：&lt;code&gt;putObj&lt;/code&gt;函数&lt;/h3&gt;
+&lt;p&gt;前面我们使用&lt;code&gt;putValue&lt;/code&gt;函数向&lt;code&gt;obj&lt;/code&gt;对象写入了一个属性值，但如果你要写入很多个（例如 100 个）属性值，你可能会使用&lt;code&gt;for&lt;/code&gt;循环：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let user_config = {}
+let new_config_keys // 100 个新的配置项（数组）
+let new_config_values // 对应的 100 个值（数组）
+
+for (let i = 0; i &amp;lt; new_config_keys.length; i++) {
+  utils.putValue(user_config, new_config_keys[i], new_config_values[i])
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这样写没问题，但在实战中，你拿到的用户配置往往不是数组的形式，而很可能是一个对象，例如：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let new_config = {
+  font: {
+    size: 16,
+    'family.first': 'Arial',
+    'family.second': 'sans-serif',
+  },
+  'page.color.background': '#fff',
+  // ...
 }
 
-impl&amp;lt;T&amp;gt; std::ops::Index&amp;lt;usize&amp;gt; for Array&amp;lt;T&amp;gt; {
-    type Output = T;
-    fn index(&amp;amp;self, index: usize) -&amp;gt; &amp;amp;Self::Output {
-        unsafe {
-            let ptr = self.0.offset(index as isize);
-            &amp;amp;*ptr
-        }
+// 你对拿到的配置数据又进一步处理
+new_config.update_time = new Date()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这种情况下你可以使用&lt;code&gt;putObj&lt;/code&gt;函数一次性写入多个属性值：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;utils.putObj(user_config, new_config)
+
+console.log(user_config)
+
+/* 输出如下：
+{
+  font: {
+    size: 16,
+    family: {
+      first: 'Arial',
+      second: 'sans-serif'
     }
+  },
+  page: {
+    color: {
+      background: '#fff'
+    }
+  },
+  update_time: '...',
 }
-impl&amp;lt;T&amp;gt; std::ops::IndexMut&amp;lt;usize&amp;gt; for Array&amp;lt;T&amp;gt; {
-    fn index_mut(&amp;amp;mut self, index: usize) -&amp;gt; &amp;amp;mut Self::Output {
-        unsafe {
-            let ptr = self.0.offset(index as isize);
-            &amp;amp;mut *ptr
-        }
+*/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;code&gt;putObj&lt;/code&gt;会自动处理上面&lt;code&gt;new_config&lt;/code&gt;变量中各种路径的写法&lt;/strong&gt;。&lt;code&gt;putObj&lt;/code&gt;函数的声明如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;/**
+ * 将一个对象的所有属性按路径添加到另一个对象中。
+ * @param {Object} obj - 目标对象。
+ * @param {Object} obj_value - 要添加的属性对象，键支持'a.b.c'形式的路径。
+ * @param {Object} [options={}] - 可选参数。
+ *   - {boolean} remove_undefined - 如果为 true 且 value 为 undefined ，则删除该属性。
+ * @throws {Error} 如果 obj 为 null 或 undefined ，或路径不合法（如中间非对象）则抛出异常。
+ *
+ * 注意
+ *   若 obj_value 中出现重复路径，则后者会覆盖前者。
+ *   如 obj_value = {a: {b: 1}, 'a.b': 2}，则结果为 {a: {b: 2}}
+ */
+putObj(obj, obj_value, { remove_undefined = true} = {}) {
+  // ...
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;从对象中获取多个属性：&lt;code&gt;pickObj&lt;/code&gt;函数&lt;/h3&gt;
+&lt;p&gt;同样的，我们可以一次性读取多个对象的属性值。例如虽然小程序中的用户配置非常复杂，但当前页面仅关注背景颜色、字体大小等少量配置项，你可以这样使用&lt;code&gt;pickObj&lt;/code&gt;函数：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let user_config // 某个用户的所有配置
+
+// 本页面需要关注的配置
+const keys = ['page.color.background', 'font.size', 'font.family']
+
+// 获取当前页面需要的配置
+const curr_config = utils.pickObj(user_config, keys)
+
+console.log(curr_config)
+
+/* 输出如下：
+{
+  'page.color.background': '#fff',
+  'font.size': 16,
+  'font.family': {
+    first: 'Arial',
+    second: 'sans-serif'
+  }
+}
+*/
+
+console.log(curr_config.font) // undefined
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;注意，传给&lt;code&gt;pickObj&lt;/code&gt;函数的第二个参数是一个字符串数组，而不是对象。并且，&lt;code&gt;pickObj&lt;/code&gt;返回的对象中，属性值不是以&lt;code&gt;curr_config.font.size&lt;/code&gt;这样的形式返回，而是返回&lt;code&gt;curr_config['font.size']&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;当然，如果你想要&lt;code&gt;curr_config.font.size&lt;/code&gt;这样的形式，可用&lt;code&gt;putObj&lt;/code&gt;转换一下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let obj_config = utils.putObj({}, curr_config)
+
+console.log(obj_config.font.size) // 16
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;点表示法在微信小程序中实战演示&lt;/h2&gt;
+&lt;p&gt;为什么要设计这几个函数？为什么要支持&lt;code&gt;config.a.b.c&lt;/code&gt;与&lt;code&gt;config['a.b.c']&lt;/code&gt;两种写法混用？为什么传给&lt;code&gt;putObj&lt;/code&gt;的第二个参数是对象，而传给&lt;code&gt;pickObj&lt;/code&gt;的第二个参数是字符串数组？为什么&lt;code&gt;pickObj&lt;/code&gt;返回的对象属性值不是&lt;code&gt;config.a.b.c&lt;/code&gt;这样的形式，而是&lt;code&gt;config['a.b.c']&lt;/code&gt;？&lt;/p&gt;
+&lt;p&gt;因为这样设计符合实战需求，&lt;strong&gt;一句话解释就是：“这样好用”&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;下面我们通过几个案例来演示这些函数在实战中的应用。&lt;/p&gt;
+&lt;h3&gt;在 js 中设置用户配置&lt;/h3&gt;
+&lt;p&gt;假设用户首次打开小程序，你需要设置用户默认字体大小为 16 ，背景颜色为白色。可以这样写：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;let user_config = {}
+utils.putValue(user_config, 'font.size', 16)
+utils.putValue(user_config, 'page.color.background', '#fff')
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;使用&lt;code&gt;putValue&lt;/code&gt;设置后，你想修改字体大小和背景颜色？可以这样写：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;user_config.font.size = 18
+user_config.page.color.background = '#000'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;在 wxml 中实现修改用户配置&lt;/h3&gt;
+&lt;p&gt;你可能会在 wxml 页面中实现多个配置项的修改，并且使用同一个函数来处理。这时你可以这样写：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;button bind:tap="changeConfig" data-key="font.size" value="16" &amp;gt;
+&amp;lt;button bind:tap="changeConfig" data-key="page.color.background" value="#fff"&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;changeConfig(e){
+  const { user_config } = this.data
+  const { key, value } = e.currentTarget.dataset
+
+  // 从 wxml 中获得点表示法的 key 字符串，直接调用 putValue 函数
+  utils.putValue(user_config, key, value)
+
+  // 修改背景色时顺便改一下字体颜色（两种写法混用）
+  if (key === 'page.color.background' &amp;amp;&amp;amp; value === '#fff') {
+    user_config.page.color.font_color = '#000'
+  }
+
+  // 记录最近修改时间
+  user_config.update_time = new Date()
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;在 wxml 中使用用户配置&lt;/h3&gt;
+&lt;p&gt;要在页面中使用&lt;code&gt;page.color.background&lt;/code&gt;与&lt;code&gt;page.color.font_color&lt;/code&gt;的值，实现根据用户配置显示不同的颜色，可以这样写：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;view style="background-color: {{color.background}}"&amp;gt;
+  &amp;lt;text style="color: {{color.font_color}}"&amp;gt;
+      Hello, WxMpCloudBooster!
+  &amp;lt;/text&amp;gt;
+&amp;lt;/view&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;onLoad(){
+  const { user_config } = this.data
+  const color = utils.pickValue(user_config, 'page.color')
+  this.setData({color})
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;你看，我们传递给&lt;code&gt;pickValue&lt;/code&gt;的&lt;code&gt;key&lt;/code&gt;根据实际需求可长可短。&lt;/p&gt;
+&lt;h3&gt;初始化默认的用户配置&lt;/h3&gt;
+&lt;p&gt;你希望为每个用户设置一个默认的用户配置，并且你想用常规方式写（不使用点表示法）。可以这样：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;// 默认配置
+const DEFAULT_CONFIG = {
+  font: {
+    size: 16,
+  },
+  page: {
+    color: {
+      background: '#fff',
+      font_color: '#000'
     }
+  },
+  // 这里也可以使用点表示法 a.b.c ，但你不想这样写...
 }
 
-fn main() {
-    const SIZE: usize = 1024 * 1024;
-    const LOOP: usize = 2_000_000;
+App({
+  initConfig(){
+    let { user_config } = this.data
+    utils.putObj(user_config, DEFAULT_CONFIG) // user_config 的其他值会被保留
+    // 保存用户配置...
+  }
+})
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;注意，上面代码中&lt;code&gt;user_config&lt;/code&gt;可能会有其他没有出现在&lt;code&gt;DEFAULT_CONFIG&lt;/code&gt;中的配置项，这些配置项会被保留。&lt;/p&gt;
+&lt;h3&gt;记录用户最近发表的内容&lt;/h3&gt;
+&lt;p&gt;假如你已经实现了“记录用户最近发布的评论”功能，代码如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;button bind:tap="append" data-key="articles.recent_comments" data-prop="comment" &amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;当用户点击这个按钮时，假设&lt;code&gt;this.data&lt;/code&gt;中已经有一个&lt;code&gt;comment&lt;/code&gt;对象，你可以这样添加评论：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;append(e){
+  const { user_data } = this.data
+  const { key, prop } = e.currentTarget.dataset
+  const value = this.data[prop] // prop === "comment"
 
-    let mut arr = vec![0u32; SIZE];
-    let start = std::time::Instant::now();
-    // array indexing with boundary check
-    {
-        for _ in 0..LOOP {
-            let index = rand::random::&amp;lt;usize&amp;gt;() % SIZE;
-            arr[index] += 1;
-        }
-    }
-    let elapsed = start.elapsed();
-    println!("Array indexing with boundary check runtime: {}ms", elapsed.as_millis());
-
-    // to avoid cache, use a different raw array.
-    let mut arr = Array::from(vec![0u32; SIZE].as_ptr());
-    let start = std::time::Instant::now();
-    // array indexing wthout boundary check
-    {
-        for _ in 0..LOOP {
-            let index = rand::random::&amp;lt;usize&amp;gt;() % SIZE;
-            arr[index] += 1;
-        }
-    }
-    let elapsed = start.elapsed();
-    println!("Array indexing without boundary check runtime: {}ms", elapsed.as_millis());
-    
+  utils.pushValue(user_data, key, value) // 注意这里用的是 push
 }
-&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Fri, 30 Aug 2024 13:13:38 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069145#reply9</guid></item><item><title>[投资] 英特尔跌了 30%大家有骂有笑，昨天超微电脑(SMCI)跌去 25%没人讨论，是离 c 端太远了吗？</title><link>https://www.v2ex.com/t/1069144#reply3</link><description></description><pubDate>Fri, 30 Aug 2024 13:09:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069144#reply3</guid></item><item><title>[酷工作] 新⻄兰公司招聘全职 远程 产品经理岗位</title><link>https://www.v2ex.com/t/1069142#reply1</link><description>关于我们&lt;br /&gt;Zstar Education 技术有限公司总部位于新⻄兰，奥克兰，旗下核⼼技术产品 Classcipe ， 打&lt;br /&gt;造围绕⽼师教学活动的赋能⼯具，孵化全球的教学内容社区，拓展学⽣的个性化学习服务。&lt;br /&gt;⽬前已在印度，中东，东南亚等国家地区拥有 10000+注册⽼师⽤户。公司使命：实现互动&lt;br /&gt;教学资源和服务的全球共建共享，公司愿景：成为师⽣终⾝学习的信任伙伴。&lt;br /&gt;岗位：产品经理&lt;br /&gt;职责:&lt;br /&gt;1 、负责海外⼯具业务线的产品规划、设计，对产品的体验、留存及⽤户规模负责；&lt;br /&gt;2 、带领产品团队完成业务线产品策划、设计，制定各线产品发展、更新、迭代的计划；&lt;br /&gt;3 、通过对业务核⼼流程的梳理，数据分析与挖掘，优化产品策略，持续提升产品收益；&lt;br /&gt;4 、负责产品团队梯队建设，团队管理⼯作，对团队和业务的整体产出负责。&lt;br /&gt;任职要求：&lt;br /&gt;1.五年以上的产品工作经验，具有教育类产品从 0 到 1 经验；&lt;br /&gt;2.有独立思考能力，较强的逻辑能力以及自我驱动力，具有良好的沟通能力与协调能力，能&lt;br /&gt;迅速融入团队，有积极向上的心态&lt;br /&gt;3.有工具型产品规划迭代、增长变现经验者，优先考虑；&lt;br /&gt;4.熟练掌握运用 Axure ，Visio ，Xmind, Figma 等产品工具；&lt;br /&gt;5.熟悉产品开发流程，了解前端/客户端与后端协作流程。热爱体验和钻研国内外产品。&lt;br /&gt;6.关注竞品动态、洞察行业的趋势和需求，把握产品定位和方向&lt;br /&gt;薪酬：面议&lt;br /&gt;额外福利:&lt;br /&gt;-工作满 6 个月，可以提供赴新西兰工作和永久居留身份担保&lt;br /&gt;联系人：&lt;br /&gt;薛先生&lt;br /&gt;Email： Xavier.xue@aedut.com&lt;br /&gt;Wechat：728571112&lt;br /&gt;WhatsApp: +6421759877</description><pubDate>Fri, 30 Aug 2024 13:02:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069142#reply1</guid></item><item><title>[ACG] 《无职转生》第一季、第二季影评</title><link>https://www.v2ex.com/t/1069141#reply9</link><description>就直接放链接吧，感觉的确是因爱生恨了。&lt;br /&gt;&lt;br /&gt;《无职转生》第一季：女权、成长&lt;br /&gt;&lt;a href="https://bilibi.li/2021/10/30/mushoku-tensei-and-feminism" rel="nofollow noopener" target="_blank"&gt;https://bilibi.li/2021/10/30/mushoku-tensei-and-feminism&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;《无职转生》第二季：庸俗、无趣&lt;br /&gt;&lt;a href="https://bilibi.li/2024/08/30/mushoku-tensei-and-degenerate" rel="nofollow noopener" target="_blank"&gt;https://bilibi.li/2024/08/30/mushoku-tensei-and-degenerate&lt;/a&gt;</description><pubDate>Fri, 30 Aug 2024 12:58:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069141#reply9</guid></item><item><title>[宽带症候群] IPLC 广港/沪港 联通和电信 稳定性 99.99%</title><link>https://www.v2ex.com/t/1069140#reply1</link><description>产品类型：广港 IPLC 电信线路 和 广港 IPLC 联通线路&lt;br /&gt;产品类型：沪港 IPLC 电信线路 和 沪港 IPLC 联通线路&lt;br /&gt;出口地区：香港 BGP 国际出口&lt;br /&gt;销售模式：固定带宽&lt;br /&gt;流量限制：不限制，可 24 小时满负载&lt;br /&gt;计费周期：月付/季付/年付&lt;br /&gt;起售带宽：20M 至 10G 注：量越小越贵&lt;br /&gt;交付模式：双端交付&lt;br /&gt;稳定性：SLA99.99%&lt;br /&gt;价格：实时询价&lt;br /&gt;联系方式： &lt;a href="https://t.me/DDos_XuanYuan" rel="nofollow noopener" target="_blank"&gt;https://t.me/DDos_XuanYuan&lt;/a&gt;&lt;br /&gt;交流群组： &lt;a href="https://t.me/cn_iepl" rel="nofollow noopener" target="_blank"&gt;https://t.me/cn_iepl&lt;/a&gt;&lt;br /&gt;注：内容有需要我补充的，请下方留言，我看到后会补充信息&lt;br /&gt;&lt;br /&gt; [轩辕开车，从不翻车，信誉看我历史帖子]</description><pubDate>Fri, 30 Aug 2024 12:42:05 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069140#reply1</guid></item><item><title>[发音] 请问哪个 APP 翻译的发音，比较标准</title><link>https://www.v2ex.com/t/1069136#reply3</link><description>&lt;p&gt;本人的英语因为没有经过正规的教学机构，全靠自学，之前一直没发现问题，但和老外交流后被指出，我的口音非常严重。。。。&lt;/p&gt;
-&lt;p&gt;现在想系统的纠正下自己的发音，然后我下载了几个常见的 APP ，有道词典，有道翻译官，百度翻译，腾讯翻译君，出国翻译官，金山词霸，翻译全能王，Mircosoft 翻译器&lt;/p&gt;
-&lt;p&gt;我随便找了几个单词，仔细的听了下，上面这几个 APP 的翻译确实都有细微的区别。&lt;/p&gt;
-&lt;p&gt;我想问下，上面的 APP 哪个更加标准些，或者有发音更标准的 APP 可以推荐下&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:21:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069136#reply3</guid></item><item><title>[Go 编程语言] Go 初学者，有没有老哥能告诉我在写代码的时候应该如何避免内存泄漏的问题</title><link>https://www.v2ex.com/t/1069135#reply17</link><description>&lt;p&gt;万分感谢！
-并不是想 100%避免，只是希望少点蠢代码……&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:13:06 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069135#reply17</guid></item><item><title>[Apple] Mac 有色准不错且带高刷新率的 4k 显示器推荐吗，最好是 27 寸/24 寸，谢谢大佬</title><link>https://www.v2ex.com/t/1069134#reply6</link><description>&lt;h2&gt;需求&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;4k 分辨率&lt;/li&gt;
-&lt;li&gt;色准表现尚可，不要有明显的偏色&lt;/li&gt;
-&lt;li&gt;支持 type-c 一线连，供电无要求，睡眠可以保活 usb 设备最好&lt;/li&gt;
-&lt;li&gt;支持 VRR 可变刷新，还想用来玩 ps5&lt;/li&gt;
-&lt;li&gt;高刷新率 120 起（实在不行 60 也可以）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;预算&lt;/h2&gt;
-&lt;p&gt;看产品力定价，1k 到 3k 浮动吧.. 合心意最重要&lt;/p&gt;</description><pubDate>Fri, 30 Aug 2024 12:11:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069134#reply6</guid></item></channel></rss>
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;上面这个&lt;code&gt;append&lt;/code&gt;函数会把&lt;code&gt;this.data.comment&lt;/code&gt;对象添加到&lt;code&gt;user_data.articles.recent_comments&lt;/code&gt;数组的末尾。&lt;/p&gt;
+&lt;p&gt;然后，此时你希望再增加一个按钮，可以把最近的点赞数据&lt;code&gt;this.data.like&lt;/code&gt;添加到&lt;code&gt;user_data.articles.recent_likes&lt;/code&gt;数组的末尾，那么只需一句：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;button bind:tap="append" data-key="articles.recent_likes" data-prop="like" &amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;完成了，你不需要修改&lt;code&gt;append&lt;/code&gt;函数，只需要给&lt;code&gt;data-key&lt;/code&gt;和&lt;code&gt;data-prop&lt;/code&gt;属性设置不同的值即可。&lt;/p&gt;
+&lt;p&gt;可见，&lt;strong&gt;点表示法很大的目的是为了在&lt;code&gt;wxml&lt;/code&gt;中可以方便地指定路径，并在&lt;code&gt;js&lt;/code&gt;中方便地处理这些路径。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;在页面中修改多个配置项&lt;/h3&gt;
+&lt;p&gt;假设你有一个修改用户配置项的页面，&lt;code&gt;wxml&lt;/code&gt;代码如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-html"&gt;&amp;lt;!-- 注意这里有一个 for 循环 --&amp;gt;
+&amp;lt;view wx:for="{{configs}}"&amp;gt;
+  配置名称：{{item.title}}
+  当前值：{{item.value}}
+  输入新值：&amp;lt;input type="text" /&amp;gt;
+  点击修改：&amp;lt;button bind:tap="changeConfig"/&amp;gt;
+&amp;lt;/view&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;上面代码使用了&lt;code&gt;for&lt;/code&gt;循环，&lt;code&gt;configs&lt;/code&gt;变量中有多少个值，就会显示多少个配置项。&lt;/p&gt;
+&lt;p&gt;为了实现在用户打开页面时显示的是用户的当前值（而不是默认值），你还需要从&lt;code&gt;user_config&lt;/code&gt;中读取当前用户的配置值。&lt;/p&gt;
+&lt;p&gt;代码样例如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-javascript"&gt;// 代码中写死了需要修改的配置项以及默认值
+configs = [
+  {title: '字体大小', key: 'font.size', value: 16},
+  {title: '背景颜色', key: 'page.color.background', value: '#fff'},
+  {title: '字体颜色', key: 'page.color.font_color', value: '#000'},
+]
+
+// 读取当前用户的配置值
+const uc_obj = utils.pickObj(user_config, configs.map(item =&amp;gt; item.key))
+
+// 注意，这里的 uc_obj 是 uc_obj['font.size'] 这样的形式，而不是 uc_obj.font.size
+
+// 用户当前值覆盖默认值
+configs.forEach(item =&amp;gt; {
+  if (uc_obj[item.key] !== undefined) {
+    item.value = uc_obj[item.key]
+  }
+})
+
+this.setData({configs}) // 传给 wxml 页面显示
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这样你就实现了修改多个配置项的页面，用户打开页面时显示的是用户当前的配置值。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;提问：假设我们坚决不使用点表示法，且要实现上面这些功能，你要如何设计才能如此简单、高效？&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;让你的函数也支持点表示法&lt;/h3&gt;
+&lt;p&gt;好了，目前我们花了不少篇幅介绍点表示法，这是因为&lt;strong&gt;后面我们会介绍更多的工具函数，而这些工具函数都支持点表示法的调用方式&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;当你编写自己的工具函数时，你可以调用&lt;code&gt;putValue&lt;/code&gt;、&lt;code&gt;pickValue&lt;/code&gt;、&lt;code&gt;pushValue&lt;/code&gt;、&lt;code&gt;putObj&lt;/code&gt;、&lt;code&gt;pickObj&lt;/code&gt;这 5 个函数，&lt;strong&gt;轻松地让你的工具函数也支持点表示法&lt;/strong&gt;。如果你不知道如何实现，可以参考&lt;code&gt;utils.js&lt;/code&gt;中其他函数的代码。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;（文章节选完，如果你感兴趣的话可以看看 &lt;a href="https://github.com/sdjl/WxMpCloudBooster" rel="nofollow"&gt;Github 项目&lt;/a&gt;）&lt;/strong&gt;&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 14:40:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069443#reply8</guid></item><item><title>[问与答] 有注册成功 faire 电商平台或者有美国身份？</title><link>https://www.v2ex.com/t/1069439#reply0</link><description>有注册成功电商平台 faire 吗 或者有美国身份，对电商感兴趣 有赚钱的机会  欢迎私聊</description><pubDate>Sun, 01 Sep 2024 14:24:03 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069439#reply0</guid></item><item><title>[问与答] gradle 跟 Python 的版本兼容为什么能做的这么乱</title><link>https://www.v2ex.com/t/1069438#reply0</link><description>&lt;p&gt;不同版本的 gradle 指令改来改去，就算这是两年一改也很是折腾，另外，为什么包管理器一定要绑定 jdk 版本呢&lt;/p&gt;
+&lt;p&gt;python 同样一个包，兼容 3.8 而与 3.12 冲突？ semVer 说好的小版本兼容呢？另外，项目 a 依赖的 b 跟 c 的上层依赖互相冲突，只好分两个 project 搞&lt;/p&gt;</description><pubDate>Sun, 01 Sep 2024 14:23:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069438#reply0</guid></item></channel></rss>
