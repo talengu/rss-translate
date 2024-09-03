@@ -1,76 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 03 Sep 2024 05:30:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 上古软件，求技术方案</title><link>https://www.v2ex.com/t/1069876#reply0</link><description>&lt;p&gt;国外公司设计校核盘管的软件，无奈软件太过古老了，原公司早就剥离该业务不在维护了，在 google 搜索几乎都没有。
-国内很多小传统企业还在用这个软件，第一版分享资源出来到国内的大神，去年高强度工作已经暴毙了。
-最近要做数据输出，传统手工计算，还要与别的软件一起协同匹配，太费事费力了，上千组数据，所以想写个自动化进行计算输出。&lt;/p&gt;
-&lt;p&gt;我不是程序员，只懂 python,难点是在于这种加密的软件 dll 能否直接调用？还有能否找人逆向解析相关的调用函数口?&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/25f6b9e49ba06bd0.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/bd98008973c9308c.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/88da8ff0e1199a27.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:28:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069876#reply0</guid></item><item><title>[问与答] airpods pro 找不到了，现在入手二代合适么？</title><link>https://www.v2ex.com/t/1069874#reply0</link><description>&lt;p&gt;21 年买的一代，召回换了一次双耳；
-满两年用 AC+换了一次全套；
-一直通勤使用，最近突然找不到了，不知道丢家里还是外面；
-查找功能能看到 1 周前的位置，连接不上。
-现在看显示在充电盒外了。
-估计找不回来了，话说现在买二代合适么？会不会有新产品更新。
-ps：有人用过那种分体夹在耳朵上的耳机么？效果跟这个比怎么样？&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:20:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069874#reply0</guid></item><item><title>[问与答] 纠结的事：给老妈换手机是安卓还是 ios</title><link>https://www.v2ex.com/t/1069873#reply1</link><description>老妈 60 多，平时用用微信、支付宝、抖音，之前一直用的红米&lt;br /&gt;安卓：应用不容易管控，不小心点上就会安装，担心装上流氓软件受骗，广告很多。优点就是续航长。&lt;br /&gt;苹果：应用管控严格，麻烦点是遇到系统更新、账号弹窗不会操作，充电慢，续航短（ plus 会好点）&lt;br /&gt;倾向安卓，操作习惯、续航，提前关闭广告，但怎么解决乱装应用</description><pubDate>Tue, 03 Sep 2024 05:10:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069873#reply1</guid></item><item><title>[分享发现] 第一次见到“零彩礼”这种加分项</title><link>https://www.v2ex.com/t/1069872#reply0</link><description>&lt;p&gt;对 2024 年 5 月 1 日以后获得县级以上统一颁发的“零彩礼”证书的新婚夫妇加 2 分;“低彩礼”证书的加 1 分。
-来源： &lt;a href="https://pengyang.gov.cn/xwzx/tzgg/202408/t20240826_4634457.html" rel="nofollow"&gt;https://pengyang.gov.cn/xwzx/tzgg/202408/t20240826_4634457.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:10:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069872#reply0</guid></item><item><title>[程序员] gitlab 炸了?</title><link>https://www.v2ex.com/t/1069870#reply0</link><description>&lt;a href="https://gitlab.com/" rel="nofollow noopener" target="_blank"&gt;https://gitlab.com/&lt;/a&gt;&lt;br /&gt;目前打开是 503&lt;br /&gt;&lt;a href="https://pasteboard.co/Szgo9nOkLKma.png" rel="nofollow noopener" target="_blank"&gt;https://pasteboard.co/Szgo9nOkLKma.png&lt;/a&gt;&lt;br /&gt;貌似又恢复了现在</description><pubDate>Tue, 03 Sep 2024 05:07:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069870#reply0</guid></item><item><title>[宽带症候群] 开 DMZ 梯子被刷</title><link>https://www.v2ex.com/t/1069869#reply2</link><description>&lt;p&gt;用的 Mac Mini 跑 surge 作为家庭网关，Mac 上还跑了些 Docker 服务
-有公网 IP ，嫌端口映射麻烦作死的开了 DMZ ，结果一天刷了我几百 G 的流量
-好奇这玩意儿还有人刷？&lt;/p&gt;
-&lt;p&gt;&lt;img alt="WechatIMG17704.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/09/03/9jZcVSC7shaOMAB.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:04:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069869#reply2</guid></item><item><title>[C++] Vscode 的 c++插件提示问题</title><link>https://www.v2ex.com/t/1069868#reply0</link><description>代码在 IDE 里提示有错误时，已修复但还是提示修复前的错误提示。需要对项目进行编译后波浪线错误就会消失了，有时在编译前老以为自己写的还是不对。&lt;br /&gt;&lt;br /&gt;印象中只有某台电脑才这样，而且电脑 Linux 都重装过了，还是有这样的问题</description><pubDate>Tue, 03 Sep 2024 05:00:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069868#reply0</guid></item><item><title>[问与答] 出西数 HC550 16T 机械硬盘</title><link>https://www.v2ex.com/t/1069867#reply4</link><description>&lt;p&gt;上次发了贴，出掉了 10 块盘，原帖在这里： &lt;a href="https://www.v2ex.com/t/1069012" rel="nofollow"&gt;https://www.v2ex.com/t/1069012&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;现在预计有 8 块盘可出，也是西数 HC550 16T 机械硬盘&lt;/p&gt;
-&lt;p&gt;根据通电时间做区分，两万以内的 800 ，两万五往上的 790 ，两万到两万五的 780&lt;/p&gt;
-&lt;p&gt;有需要的小伙伴+wechat:xusanduo08&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069867#reply4</guid></item><item><title>[分享发现] 没有预约直接去香港中银和汇丰开户，当天拿到卡</title><link>https://www.v2ex.com/t/1069866#reply0</link><description>&lt;p&gt;最近在弄出海的东西，需要一张港卡处理一些境外收款，然后就在上周去了趟香港完成了中银和汇丰开户。没有预约，没有早到，一切都相当顺利，所以来分享下供大家参考.&lt;/p&gt;
-&lt;p&gt;路线参考（这条路线比较偏不适合旅游）：&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 03 Sep 2024 07:22:27 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Apple] 双 sim 实体卡，无阉割 iPhone 是不是绝版了</title><link>https://www.v2ex.com/t/1069922#reply0</link><description>大陆没 ai/gpt ，港澳没 gpt ，台湾没双槽</description><pubDate>Tue, 03 Sep 2024 07:20:58 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069922#reply0</guid></item><item><title>[全球工单系统] 我想问下钉钉的 AI 助理怎么关闭</title><link>https://www.v2ex.com/t/1069920#reply1</link><description>&lt;p&gt;&lt;img alt="CleanShot 2024-09-03 at 15.08.03@2x.png" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/09/03/g2QM471jiXKLs6Z.png" /&gt;&lt;/p&gt;
+&lt;p&gt;找了一圈没找到地方退出，不知道是不是更新了钉钉&lt;/p&gt;
+&lt;p&gt;突然就在我状态栏上了。狗屎啊。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="狗屎" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/09/03/iyDKOEG5PcpC9Lu.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 07:11:31 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069920#reply1</guid></item><item><title>[Android] 安卓有啥多开的软件么 多开的 APP 能拉起 wx 和 zfb 付款的 可以是收费的</title><link>https://www.v2ex.com/t/1069918#reply1</link><description></description><pubDate>Tue, 03 Sep 2024 07:08:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069918#reply1</guid></item><item><title>[Apple] apple store 购买订阅的喝水羊驼，切换 apple store 账号就没有</title><link>https://www.v2ex.com/t/1069917#reply0</link><description>&lt;p&gt;如题所示，还给开发者发过邮件，最后是发给我两个兑换充值卡的代码，用了就有，但是后来又切换了一次订阅又消失了。
+想请问一下大家有遇到这样的情况，遇到这样的情况是怎么解决的。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 07:08:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069917#reply0</guid></item><item><title>[杭州] 千年等一回 小米手机 NFC 杭州交通卡--杭州通上线</title><link>https://www.v2ex.com/t/1069916#reply0</link><description>等了一年又一年，在 9 月 2 日，正式上线杭州通互联互通卡。&lt;br /&gt;相关优惠，与实体卡一致，支持 975 累乘优惠。&lt;br /&gt;小米手机的用户，赶紧去开通吧。</description><pubDate>Tue, 03 Sep 2024 07:05:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069916#reply0</guid></item><item><title>[程序员] 我想到的最经济实惠的 cursor 使用姿势(适用于学习理解项目以及开源工程)，怎么样</title><link>https://www.v2ex.com/t/1069914#reply0</link><description>linux c++开发，之前开发使用的 clion(jetbrain 家的)+copilot ，速览代码用的 vscode+copilot ，所以对于 cursor 可以无缝迁移(因为 ssh cmake 以及其他常用插件全部支持)。&lt;br /&gt;&lt;br /&gt;开发目前还是 clion 使用起来比较舒服，所以 cursor 主要用来阅读代码&lt;br /&gt;对于本人来说，cursor 目前最吸引我的是他能基于 codebase 的代码分析以及 chat ，可以帮助我理解项目代码，对于多文件补全这些功能来说，不是我的刚需。所以我总结出的使用姿势如下：&lt;br /&gt;&lt;br /&gt;使用免费版本的 cursor ，chat 接入便宜大碗的 deepseek ，然后补全看个人喜好接入一些免费的补全代码工具，因为使用量不是很大。</description><pubDate>Tue, 03 Sep 2024 07:03:46 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069914#reply0</guid></item><item><title>[macOS] macOS swap 交换空间最大才 32g？一旦到达就死机了</title><link>https://www.v2ex.com/t/1069913#reply0</link><description>&lt;p&gt;我的是 32g 内存的，发现当大量使用内存，交换空间增长到 32g 时，就报内存不足了，可是我在在其它地方看到交换空间好像不止能这么大啊，硬盘空间还剩 100g ，请问大家遇到过这个情况吗？&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 07:03:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069913#reply0</guid></item><item><title>[程序员] 国内 AI 搜索服务除了博查还有其他的吗？</title><link>https://www.v2ex.com/t/1069911#reply0</link><description>&lt;p&gt;最近要在 AI 里面调用搜索引擎，查了一下，国内有博查，国外有 Exa ，相关链接： &lt;a href="https://www.bilibili.com/read/cv36692629/?jump_opus=1" rel="nofollow"&gt;https://www.bilibili.com/read/cv36692629/?jump_opus=1&lt;/a&gt; ，目前我知道的，还能调用 bing 的 search api ，不知道有没有人用过这几个，还有没有其他的服务，或者开源的实现方式&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 07:01:11 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069911#reply0</guid></item><item><title>[问与答] 抖音上组全屋家电，有什么套路吗，为什么有的价格能够很低</title><link>https://www.v2ex.com/t/1069910#reply2</link><description>新房准备买些家电，最近看到抖音很多帮忙推荐家电的，有的价格比 JD 之类的平台便宜很多，这里面有什么坑吗？&lt;br /&gt;&lt;br /&gt;这些直播里面推荐的型号能冲吗</description><pubDate>Tue, 03 Sep 2024 06:57:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069910#reply2</guid></item><item><title>[Android] 三星 S23 如何删除已下载的 oneui 更新文件？</title><link>https://www.v2ex.com/t/1069909#reply1</link><description>我已经在冰箱中禁用了系统更新，但是每次打开设置还是会提示“有软件更新可用”。我认为这个更新也是占用一部分内存的，想删掉，但是不知道在哪个文件夹里？</description><pubDate>Tue, 03 Sep 2024 06:56:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069909#reply1</guid></item><item><title>[程序员] 有大佬遇见过 Jetbrains 自动选中整行的问题吗，今天突然这样了</title><link>https://www.v2ex.com/t/1069907#reply4</link><description>&lt;p&gt;复现步骤是单击任意一行，然后大概一秒内点击任意其他行，再过大概一秒会选中当前光标所在的行。&lt;/p&gt;
+&lt;p&gt;本来以为是键盘/鼠标问题，然后换了也是这样，甚至用触摸板操作也会这样。
+也尝试了禁用所有第三方插件，其他 Jetbrains 软件也是同样的问题，但是在网页，VSCode 其他软件又没这个问题。&lt;/p&gt;
+&lt;p&gt;IDEA 版本 2024.2 ，升级到最新的 2024.2.1 仍然没变化。&lt;/p&gt;
+&lt;p&gt;不知道有没有遇到过，难不成是电脑本身问题。&lt;/p&gt;
+&lt;p&gt;补充：单击任意一行后，一秒以上再单击其他行，就没这个问题。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 06:49:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069907#reply4</guid></item><item><title>[程序员] [前端面试题: 请求/显示千万级别数量的任务]</title><link>https://www.v2ex.com/t/1069906#reply0</link><description>&lt;p&gt;题目: 设计一个在地图（谷歌地图）上显示千万级别数量的任务的前端单页应用程序&lt;/p&gt;
+&lt;p&gt;任务被分组到项目中。项目/任务被存储在后端 RDBMS 系统中.  每个任务所在的记录存有该任务的经纬度位置。&lt;/p&gt;
+&lt;p&gt;前端请求后端 API, 拿到特定项目的任务数据, 并显示在前端谷歌地图上。
+一次请求可以返回千万级条任务&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;问题: 您将使用哪些关键概念/技术来实现在前端显示上千万级别数量的任务?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我的思路:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;广州出发自驾到深圳湾公园（日出剧场 5 号停车场，“美丽深圳”公众号提前 1 小时预约停车，停车便宜，走路 10 分钟到深圳湾口岸，我去的那天在修地铁要绕一点路接近 15 分钟才到）&lt;/li&gt;
-&lt;li&gt;过关取小票（通关小票保留好，会要求提供；没有港币也可以兑换一点，汇丰会要求存现金到卡里，100 港币就够了）&lt;/li&gt;
-&lt;li&gt;开通境外流量，支付宝惠出境上购买就行，移动、联通、电信都可以办理；开通 4G 本地就行，不需要漫游&lt;/li&gt;
-&lt;li&gt;通关后大巴前往天水围银座广场（这里是个小商场，中银、汇丰很近就隔着个小广场）&lt;/li&gt;
-&lt;li&gt;先办理中银接近 2 个半小时，吃饭后办理汇丰等号到拿卡大概 20 分钟（中银要求看地址证明，我提供的是招银信用卡的账单，还看了招行掌上生活的实名信息，开户理由：开港股账户）&lt;/li&gt;
+&lt;li&gt;Throttling / Debouncing, 避免短时间内重复请求&lt;/li&gt;
+&lt;li&gt;按需请求/加载: 网页滚动到哪里, 先请求/加载当前视口能看得到的内容.  视口外的看不见的内容,不请求不加载&lt;/li&gt;
+&lt;li&gt;本地缓存&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;其他事项：&lt;/p&gt;
+&lt;p&gt;请大佬提供思路!&lt;/p&gt;
+&lt;p&gt;谢谢!&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 06:47:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069906#reply0</guid></item><item><title>[问与答] 你们三模无线机械键盘都是怎么充电的？</title><link>https://www.v2ex.com/t/1069905#reply8</link><description>最近从用干电池的机械键盘换到了国产的了。&lt;br /&gt;&lt;br /&gt;国产这些轴啊，套件啥的，真是卷，对比我之前用樱桃轴键盘，“价廉”是做到了，所谓的 HIFI 麻将音也真是好听(也许是刚用上的新鲜感吧)。&lt;br /&gt;&lt;br /&gt;因为刚用上不久，到底是不是“物美”，还要再用用，看看稳定性和耐用程度怎么样。&lt;br /&gt;&lt;br /&gt;手边这个是三模的，就是要定期充电了，看说明书也不建议用桌面上的手机快速充电头充电，那就得用原配得 USB 线接电脑了。我是喜欢无线状态的，现在还得拖个线在桌面备着充电？而实际上，这个线已经插到机箱上了，还能直接用有限模式，现在就是感觉有点多余。&lt;br /&gt;&lt;br /&gt;你们一般怎么弄的？平时把线拔了用无线模式，然后定期插上充电？还是直接搞充电头充充算了？</description><pubDate>Tue, 03 Sep 2024 06:44:55 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069905#reply8</guid></item><item><title>[问与答] 2k27 寸显示器天花板 是 lg 850 吗</title><link>https://www.v2ex.com/t/1069904#reply2</link><description>&lt;p&gt;2k 27 寸显示器有推荐的吗
+目前看了 lg850 升级款 27gr82q  nanoips 三代 1699
+戴尔 s2721dgf 已停产 只有二手或者翻新 nanoips 二代  翻新 1400
+hkc mg27q   nanoips 二代 1099
+sanc Na7    1199&lt;/p&gt;
+&lt;p&gt;各位大哥 还有其他推荐吗&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;lg 的显示器不能左右旋转 上下调整倒是很丝滑。
+真心求建议。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 06:44:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069904#reply2</guid></item><item><title>[酷工作] 京东内推，欢迎来骚扰</title><link>https://www.v2ex.com/t/1069903#reply0</link><description>京东集团社会招聘来袭，涵盖零售，科技，物流，健康各个业务子集团，产品，技术，采销，运营等核心岗位。&lt;br /&gt;   &lt;br /&gt;  &lt;br /&gt;内推码：8UF5S&lt;br /&gt;PC 端官网地址： &lt;a href="https://zhaopin.jd.com/" rel="nofollow noopener" target="_blank"&gt;https://zhaopin.jd.com/&lt;/a&gt;&lt;br /&gt;  &lt;br /&gt;在 [招聘职位] 中选择意向项目和岗位，投递时填入内推码</description><pubDate>Tue, 03 Sep 2024 06:43:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069903#reply0</guid></item><item><title>[问与答] 请问 esxi8.0 对 CPU 是否有要求?</title><link>https://www.v2ex.com/t/1069902#reply0</link><description>用了 esxi6.7U3 好多年，使用上虽然没多大问题，唯一问题就是新版的 Chome 在 Web 操作上有问题。现在打算升级一下 esxi 版本。&lt;br /&gt;机器是 4 代平台的联想小主机 m4500q ，4 代平台，我上了个 e3-1268L v3 ，网卡是 i217,后来加了张 i211 。&lt;br /&gt;我在 esxi 兼容性平台上查询了一下，发现 e3-1200 系列兼容性只能到 7.0U3 ，那么请问我是否只能升级到 7.0U3 版本？&lt;br /&gt;升级到 8.0 是不是不能用？有必要升级到 8.0 吗？毕竟硬件这些也比较旧了。&lt;br /&gt;&lt;br /&gt;还有直接使用 ISO 烧录 U 盘启动方式升级安装没坑吧？&lt;br /&gt;感谢解答。</description><pubDate>Tue, 03 Sep 2024 06:42:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069902#reply0</guid></item><item><title>[职场话题] 京东宣布校招开放 1.8 万个岗位 算法岗平均起薪涨幅超 75%</title><link>https://www.v2ex.com/t/1069901#reply3</link><description>&lt;p&gt;算法岗平均起薪涨幅超 75%，这是什么概念？。。。&lt;/p&gt;
+&lt;p&gt;原来 2W 现在 3.5W ？？？质的飞跃啊&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;9 月 2 日，“京东黑板报”公众号消息，近日，京东 2025 校园招聘全球启动，本次校招开放 1.8 万个岗位，包含 1.2 万个 2025 届应届生岗位和 6000 多个实习生岗位。
+
+同时，京东宣布，2025 届校招生岗位薪酬将全面上调。其中，采销、技术、产品等核心岗位薪酬上调不低于 20%。所有校招入职的“京东采销”将可达到全年 20 个月的薪酬结构，年终奖高达 8 倍月薪。另外，还有上不封顶的 Big Boss 激励，业绩越好激励越多。产研类岗位中，算法岗平均起薪涨幅超 75%。硬件和设计等岗位起薪涨幅超 50%
+&lt;/code&gt;&lt;/pre&gt;</description><pubDate>Tue, 03 Sep 2024 06:30:41 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069901#reply3</guid></item><item><title>[优惠信息] 建行 36 元微信立减金</title><link>https://www.v2ex.com/t/1069900#reply6</link><description>&lt;p&gt;建行 app 搜关键词“惠省钱”，&lt;/p&gt;
+&lt;p&gt;可以花 9.9 元购买 36 元微信立减金，&lt;/p&gt;
+&lt;p&gt;部分用户弹数字币 5 折只需要 4.99 元就可购买 36 元立减金，&lt;/p&gt;
+&lt;p&gt;现在加赠 2 张卷分别是 500 减 5 和 2000 减 10 的立减券&lt;/p&gt;
+&lt;p&gt;经济下行，苍蝇肉也是肉，大伙一起熬过通缩~&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s1.locimg.com/2024/09/03/73117615688fb.jpg" rel="nofollow"&gt;https://s1.locimg.com/2024/09/03/73117615688fb.jpg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://s1.locimg.com/2024/09/03/2bf718efa5951.jpg" rel="nofollow"&gt;https://s1.locimg.com/2024/09/03/2bf718efa5951.jpg&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 06:28:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069900#reply6</guid></item><item><title>[酷工作] 二本 CS 专业，目前大四正在找实习（前端），求各位大佬锐评简历</title><link>https://www.v2ex.com/t/1069899#reply7</link><description>如题，想请大家帮忙 Review 一下简历，打算大四在北京找个前端岗位实习，先谢谢大家了&lt;br /&gt;&lt;br /&gt;&lt;a href="https://drive.google.com/file/d/1ZtpO8RdR3qhxKBQbo6n2rT6fKdg0Qvz8/view?usp=sharing" rel="nofollow noopener" target="_blank"&gt;https://drive.google.com/file/d/1ZtpO8RdR3qhxKBQbo6n2rT6fKdg0Qvz8/view?usp=sharing&lt;/a&gt;</description><pubDate>Tue, 03 Sep 2024 06:27:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069899#reply7</guid></item><item><title>[酷工作] [台湾] 招聘软件 Lead Software Engineer( Java ) 一名</title><link>https://www.v2ex.com/t/1069898#reply4</link><description>&lt;p&gt;招聘一名驻场技术管理，主要职能主程员和软件架构师，同时负责开发管理，项目协调。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;可以不预约，但是预约更好。我在出发前几天尝试预约每天都是满的，然后就放弃预约直接前往&lt;/li&gt;
-&lt;li&gt;地址证明要准备好，中银开户需要看，通关小票要留好&lt;/li&gt;
-&lt;li&gt;周五去的，最好工作日去，周六上午工作半天，大概率办不完&lt;/li&gt;
-&lt;li&gt;等待期间可以办理几个虚拟银行（ ZA Bank 、livi 理慧银行、天星都可以，理慧银行我没有办理成功，有个步骤需要识别身份证芯片，手机识别不了，之前办理华侨银行也识别不了护照，iphone 15 的支持还不到位，测试 iphone 11 可以识别，如果需要办理理慧银行最好准备旧手机）&lt;/li&gt;
+&lt;li&gt;工作地点：台北 101 大厦，客户办公室&lt;/li&gt;
+&lt;li&gt;
+要求：&lt;ul&gt;
+&lt;li&gt;最好是台湾人(非必需)。如果非台湾的，可以申请 relocation 到台湾工作&lt;/li&gt;
+&lt;li&gt;至少七年开发加管理经验。语言以 JAVA 为主。同时会如下技术：Spring, Hibernate, Webservices, Restful services and React JS&lt;/li&gt;
+&lt;li&gt;良好的沟通能力。因为，需要直接对接客户&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;完整内容可以看我写的这篇文章：&lt;a href="https://chuhaime.com/shoukuan/open-hk-bank-account/" rel="nofollow"&gt;无预约香港中行和汇丰开户攻略：内地用户怎么拥有港卡？&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:40:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069866#reply0</guid></item><item><title>[问与答] 家庭备份照片的方案？</title><link>https://www.v2ex.com/t/1069865#reply3</link><description>有了小孩之后我和媳妇手机里多了很多照片，想找一个简单便捷的方式备份。需求：&lt;br /&gt;&lt;br /&gt;1 ，想通过局域网备份到移动硬盘里；&lt;br /&gt;&lt;br /&gt;2 ，不要太复杂，最好有个 app 直接可以局域网备份到电脑上；&lt;br /&gt;&lt;br /&gt;3 ，最好能记录哪些照片备份过了，增量备份；&lt;br /&gt;&lt;br /&gt;4 ，不要太贵，之前有人给我推荐 NAS ，我看至少小两千，我觉得就备份个照片没必要吧？而且我也不想一直开机状态，最好就是我想看照片备份照片，我把机器打开就能手机上看和备份，不用的时候直接关机就好&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我目前倾向于找个 app 备份到电脑上，有推荐的应用吗？最好清爽免费（苹果手机，Windows 电脑）</description><pubDate>Tue, 03 Sep 2024 04:37:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069865#reply3</guid></item><item><title>[问与答] 9 月有没有合适的流量卡推荐？坐标杭州</title><link>https://www.v2ex.com/t/1069863#reply1</link><description>&lt;p&gt;月费能接受 19-29 以内的，流量信号希望好一点的，作为副卡使用。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:21:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069863#reply1</guid></item><item><title>[分享发现] 独立设计师的近期案例+代表案例分享，开放企业合作</title><link>https://www.v2ex.com/t/1069862#reply2</link><description>&lt;p&gt;Hi, 大家好，我是独立设计师 Echo ，最近的项目接近尾声，整理一次案例和分享，并开放企业级合作，当然也欢迎独立开发者项目或从 0-1 构建产品的朋友们。&lt;/p&gt;
-&lt;p&gt;我的合作范围：B 端后台设计、Web 端产品全链路设计、官网视觉设计、APP/Mini program 、Branding 、Logo 、平面设计&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;近期设计案例：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[ Listening practice ] 小型 Web 产品 UI UX （带卡片动效）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="17-1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/c483e897-3684-4586-b033-cc78e6349ada.png" /&gt;&lt;/p&gt;
-&lt;p&gt;另外有 Branding 、mini-program 最新设计案例因保密原因可私下展示&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;其他代表性的设计案例：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="7-1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/ec5108e2-4343-46fd-ab14-8da5f4f1b85f.png" /&gt;
-&lt;img alt="7-3.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/9ba24ab8-0b9d-4de7-984c-e5f4e21bd9fa.png" /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;除了忙项目，我做的开源设计（一部分）：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="HR 02 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/7128abb9-d9c9-4854-8245-63b08708bc03.png" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Education 01 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/d8d3b7f3-56d5-4994-910d-d6a8b9dfa650.png" /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;也会做自媒体分享 Design Critique：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Section 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/031e124e-3731-4be4-a50e-56dc03769b26.png" /&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;最后我的网站： &lt;a href="https://echozhang.framer.website/" rel="nofollow"&gt;https://echozhang.framer.website/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;联系方式： &lt;a href="mailto:echo961825543@gmail.com"&gt;echo961825543@gmail.com&lt;/a&gt; 或见个人网站
-谢谢，欢迎联系。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:17:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069862#reply2</guid></item><item><title>[程序员] 有没有 acme.sh 的替代品？</title><link>https://www.v2ex.com/t/1069861#reply3</link><description>&lt;p&gt;我寻找替代品的原因如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="http://acme.sh" rel="nofollow"&gt;acme.sh&lt;/a&gt; 的 docker hook 无法向多个 container 部署证书。&lt;/li&gt;
-&lt;li&gt;开发者维护的积极性看起来比较低了，已经堆积了很多个 issue 与 PR 。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;希望替代品具有以下功能：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;像 &lt;a href="http://acme.sh" rel="nofollow"&gt;acme.sh&lt;/a&gt; 一样，可以运行在 Docker 中，体积与占用要低，申请证书后可以自动续签与部署。&lt;/li&gt;
-&lt;li&gt;可以向多个 docker contaier 部署证书。&lt;/li&gt;
-&lt;li&gt;社区最好还很活跃。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;如果没有替代品的话，我只能用挂载证书的方式来解决这个问题了。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:14:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069861#reply3</guid></item><item><title>[Go 编程语言] go 有类似 Python 的 mitmproxy 将 WebSocket 消息注入正在运行的连接的包吗</title><link>https://www.v2ex.com/t/1069860#reply0</link><description>&lt;p&gt;找了好几天都没找到&lt;/p&gt;
-&lt;p&gt;就是可以拿到浏览器已打开网页的 websocket 连接，然后可以读取消息，并自己主动发消息&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:13:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069860#reply0</guid></item><item><title>[问与答] 北京，广东都有政府消费券，福州会有吗？想换冰箱要等吗？</title><link>https://www.v2ex.com/t/1069859#reply0</link><description>&lt;p&gt;以旧换新，等消费券吗？&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:13:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069859#reply0</guid></item><item><title>[职场话题] 除了 Boss 海投之外，还有什么稍微靠谱点的找工作平台吗</title><link>https://www.v2ex.com/t/1069857#reply3</link><description>&lt;p&gt;最近项目被砍人被裁了，又得去找一份工作了。&lt;/p&gt;
-&lt;p&gt;但上了 Boss 之后发现，Boss 上基本都是外包在主动找人，如果是自己看岗位再投的话也会出现不匹配的情况……比如说今天刚面了一个前端开发，本来看 JD 以为是传统的前端，结果一面试说是要做 React Native……&lt;/p&gt;
-&lt;p&gt;而且 Boss 上已读不回或者直接不读的 HR 好多啊，感觉投 100 份差不多才有 10 份回复。&lt;/p&gt;
-&lt;p&gt;还有什么比较好的平台可以尝试投递吗？ boss 上感觉信噪比太低了。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:01:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069857#reply3</guid></item><item><title>[问与答] liunx 的视频、图片、音乐软件有推荐的不？</title><link>https://www.v2ex.com/t/1069856#reply1</link><description>&lt;p&gt;大家在 linux 里的多媒体软件都是什么，有推荐的没。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:00:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069856#reply1</guid></item><item><title>[职场话题] 公司发不出工资，裁员，降薪，倒闭已经是普遍现象了</title><link>https://www.v2ex.com/t/1069855#reply3</link><description>底层屁民怎么活？润也润不了，即使走线了也没身份，又不会 English. 悲哀啊</description><pubDate>Tue, 03 Sep 2024 03:57:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069855#reply3</guid></item><item><title>[程序员] 为什么所有的网站都喜欢搞月付订阅制呢</title><link>https://www.v2ex.com/t/1069853#reply7</link><description>对于一些不常用的网站，可能偶尔用一两次就能解决需求的，用户肯定是不愿意月付的，这种情况下按使用量计费的话，用户应该会更愿意付款吧？改成按使用量计费很影响收入吗，收入规模会降很多吗，不太懂这个有没有老哥懂的可以讲讲嘛，谢谢各位。如果各位自己做一个小网站，解决一些小痛点的，会做成订阅制还是按量计费呢</description><pubDate>Tue, 03 Sep 2024 03:50:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069853#reply7</guid></item><item><title>[程序员] 请问是否有 css 样式的可视化编辑器选择器，求推荐</title><link>https://www.v2ex.com/t/1069852#reply4</link><description>&lt;h2&gt;背景&lt;/h2&gt;
-&lt;p&gt;需要在 web 端，让用户配置元素的 css 样式，初步想法是，能够配置基础的样式，比如定位，布局，尺寸，间距，边框，圆角，背景色...&lt;/p&gt;
-&lt;p&gt;目前的做法是使用 monaco-editor 让用户直接通过代码的形式编辑样式,但这样仅仅对开发者友好，对普通用户不友好&lt;/p&gt;
-&lt;p&gt;请问是否有好的方案推荐，或者现成的开源可视化组件&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 03:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069852#reply4</guid></item></channel></rss>
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;详细要求请看下面链接。可以直接在网站上投递简历。&lt;br /&gt;
+&lt;a href="https://www.epam.com/careers/job-listings/job.epamgdo_blt0eb7fec22c135017_en-us_Other_Taiwan.lead-software-engineer-java_taiwan" rel="nofollow"&gt;https://www.epam.com/careers/job-listings/job.epamgdo_blt0eb7fec22c135017_en-us_Other_Taiwan.lead-software-engineer-java_taiwan&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 06:26:18 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069898#reply4</guid></item></channel></rss>
