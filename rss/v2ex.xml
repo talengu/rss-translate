@@ -1,391 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Mon, 02 Sep 2024 13:31:26 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[OpenWrt] 局域网内无线连接的设备之间无法互相访问，但无线和有线连接设备之间却可以</title><link>https://www.v2ex.com/t/1069727#reply0</link><description>&lt;p&gt;用 R2S Plus 做的&lt;strong&gt;主路由&lt;/strong&gt;，用的是友善定制的 FriendlyWrt ，但其实就是 OpenWRT 。&lt;/p&gt;
-&lt;p&gt;下面是我用 iperf3 测出来的情况：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="iperf3 测试图" class="embedded_image" rel="noreferrer" src="https://img.k1r.in/2024/08/picgo_d6ae4e4bb80fce6e868daa977a4cf7e6.png" /&gt;&lt;/p&gt;
-&lt;p&gt;第一次用 OpenWRT ，不太懂怎么设置，不过可以确定的是无线设置&lt;strong&gt;没开客户端隔离&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image-20240902212831816" class="embedded_image" rel="noreferrer" src="https://img.k1r.in/2024/09/picgo_189067cf1a25344244df74f381bcb225.png" /&gt;&lt;/p&gt;
-&lt;p&gt;网上搜不到相关问题，问客服也不知道怎么解决，所以来万能的 V2 问问。&lt;/p&gt;
-&lt;p&gt;因为不知道到底是什么问题也不懂，如果需要更多的信息还望老哥们提出来。&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:31:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069727#reply0</guid></item><item><title>[问与答] 求推荐能稳定运行 SPA Web 应用的 mini 主机</title><link>https://www.v2ex.com/t/1069726#reply0</link><description>需求：&lt;br /&gt;1. 便宜！&lt;br /&gt;2. 体积小！&lt;br /&gt;3. HDMI 插电视上运行，稳定性强，需要稳定运行 4 年以上。</description><pubDate>Mon, 02 Sep 2024 13:18:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069726#reply0</guid></item><item><title>[汽车] 抱歉，该帖需要删除</title><link>https://www.v2ex.com/t/1069725#reply0</link><description>&lt;p&gt;@&lt;a href="https://www.v2ex.com/member/Livid"&gt;Livid&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:17:26 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069725#reply0</guid></item><item><title>[程序员] 独立开发周记 81： 8 月数据总结</title><link>https://www.v2ex.com/t/1069724#reply0</link><description>&lt;h1&gt;2024 ，0826-0901&lt;/h1&gt;
-&lt;p&gt;暑假结束了，天气凉快了，孩子终于要开学了。&lt;/p&gt;
-&lt;h1&gt;8 月数据总结&lt;/h1&gt;
-&lt;p&gt;最近一个多月都在全身心在新 App 上，所有的在架 App 都没有任何打理。
-总得来看，下载量提升很多，App Store 和 Google Play 的收入没什么变化，但是国内安卓市场的收入大幅减少。&lt;/p&gt;
-&lt;h2&gt;下载量（极简时钟）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;App Store ，增长 44%&lt;/li&gt;
-&lt;li&gt;Google Play ，增长 19.30%&lt;/li&gt;
-&lt;li&gt;国内安卓市场，因为上个月的数据不全，就和 6 月份对比，增长了 18.7%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;收入变化&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;App Store ，增长 2.2%&lt;/li&gt;
-&lt;li&gt;Google Play ，增长 9.08%&lt;/li&gt;
-&lt;li&gt;Admob ，增长 0.28%&lt;/li&gt;
-&lt;li&gt;国内安卓市场，减少 18.92%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1&gt;Ship-A-Ton 第三周&lt;/h1&gt;
-&lt;p&gt;Ship-A-Ton 就剩 18 天了，感觉要砍掉一个大功能才能勉强提交了。&lt;/p&gt;
-&lt;p&gt;这周严重阻碍开发进度的就是黑神话·悟空！。每天都会玩到后半夜一点多，这就导致睡眠不足，严重影响到了白天的开发效率。&lt;/p&gt;
-&lt;p&gt;这周的番茄钟数量是 26 ，相比上周多了 4 个， 但也只是 4 个而已。开发速度太慢了，这让我又开始焦虑了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/adf6e19e-1c6b-4c86-b0cc-5b6f4dea73b9.jpeg?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
-&lt;p&gt;这周有两个主要的进展，一是完成了第三个功能模块的原型，跑通了整个流程。这个模块经历了两次更名，一开始叫 Wishlist ，再后来叫 Goals ，最后定为 Desires 。&lt;/p&gt;
-&lt;p&gt;另一个进展就是和设计师顺利达成了合作，App 的 UI 终于有保证了。这一周的绝大部分开发时间都花在了 UI 上，和我之前自己瞎写的 UI 一对比，简直是云泥之别。专业的事情还是要交给专业的人来做。&lt;/p&gt;
-&lt;p&gt;[Vlog: Week 3 for Shipaton]&lt;/p&gt;
-&lt;h1&gt;本周探索&lt;/h1&gt;
-&lt;h2&gt;监测 ScrollView 滚动状态&lt;/h2&gt;
-&lt;p&gt;需要在新 App 里加入对 ScrollView 滚动状态的监测，看完了肘子哥的文章，&lt;a href="https://fatbobman.com/zh/posts/how_to_judge_scrollview_is_scrolling/" rel="nofollow" title="# 如何判断 ScrollView 、List 是否正在滚动中"&gt;# 如何判断 ScrollView 、List 是否正在滚动中&lt;/a&gt;。因为 App 是 iOS 17+ 的，还不能直接使用 iOS 18 的新 API ， 直接就使用了肘子哥的 &lt;a href="https://github.com/fatbobman/IsScrolling" rel="nofollow" title="IsScrolling"&gt;IsScrolling&lt;/a&gt; 。&lt;/p&gt;
-&lt;h2&gt;单复数的文案本地化&lt;/h2&gt;
-&lt;p&gt;App 里需要用的针对单词单复数的不同文案，所以就第一次使用了 SwiftUI 中 Text 对单复数的 API ，不用自己写 if else 判断，很优雅。&lt;a href="https://medium.com/@o.alizade93/pluralisation-made-simpler-in-swiftui-9015e31512e6" rel="nofollow" title="# Pluralisation made simpler in SwiftUI"&gt;# Pluralisation made simpler in SwiftUI&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;SVG 转成 SF Symbols&lt;/h2&gt;
-&lt;p&gt;我想要把 MasterGo/Figma 里面的切图导出后，放到 Xcode 中，然后通过 Image 和 foregroundStyle 给切图加上不同的颜色，就像 SF Symbols 那样。导出成 jpg 和 png 都无法做到，尝试导出 SVG 后才发现 SwiftUI 的 Image 还不支持 SVG 。&lt;/p&gt;
-&lt;p&gt;我就想着怎么能把 SVG 转成 SF Symbols ，找了两个工具 App ，都是收费的，连试用也没有，我就没敢直接付费。于是我就问了下 ChatGPT 怎么将 SVG 转换成 SF Symbols ，AI 的回答如下：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/fdd7a038-5d21-428e-8c0d-5cf286f181a4.png?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
-&lt;p&gt;我就在这个回答里找到了解决方案：PDF ！将 icon 导出为 PDF ，放到 Xcode 的 Asset 里，然后将图片设置为 Render as Template Image 就可以了。&lt;/p&gt;
-&lt;h1&gt;生活&lt;/h1&gt;
-&lt;p&gt;吃了两顿大餐，还发现了一家不错的面馆。
-和许久没见的老同学见面，畅聊一晚。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/21d82a53-6f1b-4153-ba6e-d9c6976759c5.jpeg?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
-&lt;p&gt;直面天命，刚过第五回，下周肯定能通关了。
-第三回，黄眉差一点初见过，我以为还有一个阶段变身，当时葫芦也没酒了，就摆烂打了。
-第四回，晦月魔君确实恶心，我是天命人，不是修脚师傅！
-第五回，死的最多次数居然是在铁球山路……&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://img.way2solo.com/photo/vulgur/9f0f397f-bce2-453a-b70d-ec9f671ca13d.jpg?imageView2/2/w/1920/q/100" /&gt;&lt;/p&gt;
-&lt;p&gt;最近因为玩游戏和写代码，尤克里里都生疏了，每天练习时间大大减少，甚至有一两天都没拿起来。花了将近一个月练习 Em 和弦终于成功了，录了 New Boy 。&lt;/p&gt;
-&lt;p&gt;[Vlog: Ukulele - New Boy]&lt;/p&gt;
-&lt;p&gt;视频内容还请移步到公众号文章里查看： &lt;a href="https://mp.weixin.qq.com/s/OgBlZGfDmPtq7hFY7XLi9g" rel="nofollow"&gt;https://mp.weixin.qq.com/s/OgBlZGfDmPtq7hFY7XLi9g&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:16:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069724#reply0</guid></item><item><title>[问与答] 有没有这么一款 webssh 管理工具</title><link>https://www.v2ex.com/t/1069723#reply1</link><description>&lt;ol&gt;
-&lt;li&gt;轻量化，最好开源，能支持私有部署，准备部署到公司内网&lt;/li&gt;
-&lt;li&gt;支持 webssh 和 文件下载&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;重点&lt;/strong&gt;  支持通过按用户组指定登录授权，比如：管理组的用户使用 root 登录， 而程序组的用户使用 programer 用户登录&lt;/li&gt;
-&lt;li&gt;资产管理及权限控制，即： 特定的用户/用户组只能连接特定的 ssh 主机&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;jumpserver 太重了，完全不想去用&lt;/p&gt;
-&lt;p&gt;next-terminal 不支持第 3 条&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:11:14 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069723#reply1</guid></item><item><title>[分享创造] 开发了一个网页端跨平台传输工具，基于 WebRTC，无需下载软件</title><link>https://www.v2ex.com/t/1069722#reply0</link><description>&lt;p&gt;&lt;a href="https://peer-drop.real-tech.online/" rel="nofollow"&gt;https://peer-drop.real-tech.online/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;用聊天框的形式，支持传输文字和文件
-目前只支持局域网
-只要有浏览器就能互相通信，无论手机平板还是电脑&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:02:20 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069722#reply0</guid></item><item><title>[OpenAI] 现在 AI 太好了,想实现啥自己提需求让 AI 去实现</title><link>https://www.v2ex.com/t/1069721#reply0</link><description>&lt;p&gt;一直没找到好用的 goole 居中的插件 让 Claud 实现了一个 几分钟就完事了
-&lt;a href="https://raw.githubusercontent.com/macong0420/Image/main/202409022058444.png" rel="nofollow"&gt;https://raw.githubusercontent.com/macong0420/Image/main/202409022058444.png&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 13:00:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069721#reply0</guid></item><item><title>[VPS] 这回毛子的 vps 真是毛用都没有了</title><link>https://www.v2ex.com/t/1069720#reply0</link><description>之前是封锁 twitter ，但好在 youtube 体验很好，现在 youtube 也不行了，卡的要死，拜拜了您内！</description><pubDate>Mon, 02 Sep 2024 12:56:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069720#reply0</guid></item><item><title>[问与答] 为什么 acfun 的网页版登录不上了</title><link>https://www.v2ex.com/t/1069719#reply1</link><description></description><pubDate>Mon, 02 Sep 2024 12:48:36 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069719#reply1</guid></item><item><title>[程序员] 高度配置化的工作流系统有老板需要吗</title><link>https://www.v2ex.com/t/1069718#reply5</link><description>给大伙推荐一款高度可配置化的工作流系统，非常 nice,具体可以看图片或者访问下面的网址。&lt;br /&gt;访问地址:&lt;br /&gt;http://106.54.16.175/&lt;br /&gt;账号/密码：vistor1/vistor1</description><pubDate>Mon, 02 Sep 2024 12:43:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069718#reply5</guid></item><item><title>[Apple] iPhone 16 可能不支持微信？苹果中国区技术顾问称正与腾讯沟通应用商店抽成事宜</title><link>https://www.v2ex.com/t/1069717#reply4</link><description>&lt;p&gt;&lt;a href="https://www.ithome.com/0/792/961.htm" rel="nofollow"&gt;https://www.ithome.com/0/792/961.htm&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 12:42:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069717#reply4</guid></item><item><title>[Apple] iPhone 16 到底买哪个版本的比较好？</title><link>https://www.v2ex.com/t/1069715#reply6</link><description>最近一直也有在看 iPhone AI 相关的信息&lt;br /&gt;国内目前看来是没办法用上，最近好像只解锁了港版&lt;br /&gt;然后刚好晚上看到一个老哥在看日版的&lt;br /&gt;自己手上现在是 15pro&lt;br /&gt;春节期间大概率会去日本旅游或者香港旅游&lt;br /&gt;各位大佬有什么建议么</description><pubDate>Mon, 02 Sep 2024 12:31:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069715#reply6</guid></item><item><title>[前端开发] 这可能是见过的最好用的弹幕库 🔥🔥</title><link>https://www.v2ex.com/t/1069714#reply1</link><description>&lt;p&gt;最近把五年前写的一个弹幕库给重构了一下，本来两年前就想着做这件事，但是其中有一段工作时间压力很大，所以就搁置了，导致没有时间来做这件事情，最近周末 + 晚上花一些时间重构了下，并把文档好好写了一下。言归正传，这篇文章会介绍部分这个弹幕库有的能力，如果正好符合你的需求或者感兴趣，&lt;a href="https://github.com/imtaotao/danmu" rel="nofollow"&gt;&lt;strong&gt;可以帮忙点点 star 来支持一下。&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;我们有哪些能力&lt;/h2&gt;
-&lt;p&gt;我们提供了&lt;strong&gt;灵活调整轨道&lt;/strong&gt;，&lt;strong&gt;自定义弹幕和容器样式&lt;/strong&gt;，&lt;strong&gt;弹幕运动算法&lt;/strong&gt;等能力，还在提供非常丰富的钩子来让用户处理自定义的行为，只要你想要的，都能做到，本文档会简单介绍一些能力和一些功能的实现。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;在线 demo: &lt;a href="https://imtaotao.github.io/danmu/" rel="nofollow"&gt;https://imtaotao.github.io/danmu/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;github: &lt;a href="https://github.com/imtaotao/danmu?tab=readme-ov-file" rel="nofollow"&gt;https://github.com/imtaotao/danmu?tab=readme-ov-file&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;官方文档： &lt;a href="https://imtaotao.github.io/danmu/document/zh/" rel="nofollow"&gt;https://imtaotao.github.io/danmu/document/zh/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;快速开始&lt;/h2&gt;
-&lt;p&gt;对于一个开箱即用的 demo ，可以非常简单的接入，如下所示：&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-js"&gt;import { create } from 'danmu';
-
-const manager = create();
-
-manager.mount('#root');
-manager.startPlaying();
-
-// 发送弹幕
-manager.push('弹幕内容')
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;对轨道进行调整&lt;/h2&gt;
-&lt;p&gt;我们对支持类似 CSS calc 表达式的能力，一些位置/宽高等信息都可以用表达式来计算。所以对于轨道来说可以很方便的进行调整。&lt;/p&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>V2EX</title><link>https://www.v2ex.com/</link><description>way to explore</description><lastBuildDate>Tue, 03 Sep 2024 05:30:25 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[问与答] 上古软件，求技术方案</title><link>https://www.v2ex.com/t/1069876#reply0</link><description>&lt;p&gt;国外公司设计校核盘管的软件，无奈软件太过古老了，原公司早就剥离该业务不在维护了，在 google 搜索几乎都没有。
+国内很多小传统企业还在用这个软件，第一版分享资源出来到国内的大神，去年高强度工作已经暴毙了。
+最近要做数据输出，传统手工计算，还要与别的软件一起协同匹配，太费事费力了，上千组数据，所以想写个自动化进行计算输出。&lt;/p&gt;
+&lt;p&gt;我不是程序员，只懂 python,难点是在于这种加密的软件 dll 能否直接调用？还有能否找人逆向解析相关的调用函数口?&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/25f6b9e49ba06bd0.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/bd98008973c9308c.png" /&gt;
+&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://s3.bmp.ovh/imgs/2024/09/03/88da8ff0e1199a27.png" /&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:28:21 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069876#reply0</guid></item><item><title>[问与答] airpods pro 找不到了，现在入手二代合适么？</title><link>https://www.v2ex.com/t/1069874#reply0</link><description>&lt;p&gt;21 年买的一代，召回换了一次双耳；
+满两年用 AC+换了一次全套；
+一直通勤使用，最近突然找不到了，不知道丢家里还是外面；
+查找功能能看到 1 周前的位置，连接不上。
+现在看显示在充电盒外了。
+估计找不回来了，话说现在买二代合适么？会不会有新产品更新。
+ps：有人用过那种分体夹在耳朵上的耳机么？效果跟这个比怎么样？&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:20:12 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069874#reply0</guid></item><item><title>[问与答] 纠结的事：给老妈换手机是安卓还是 ios</title><link>https://www.v2ex.com/t/1069873#reply1</link><description>老妈 60 多，平时用用微信、支付宝、抖音，之前一直用的红米&lt;br /&gt;安卓：应用不容易管控，不小心点上就会安装，担心装上流氓软件受骗，广告很多。优点就是续航长。&lt;br /&gt;苹果：应用管控严格，麻烦点是遇到系统更新、账号弹窗不会操作，充电慢，续航短（ plus 会好点）&lt;br /&gt;倾向安卓，操作习惯、续航，提前关闭广告，但怎么解决乱装应用</description><pubDate>Tue, 03 Sep 2024 05:10:09 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069873#reply1</guid></item><item><title>[分享发现] 第一次见到“零彩礼”这种加分项</title><link>https://www.v2ex.com/t/1069872#reply0</link><description>&lt;p&gt;对 2024 年 5 月 1 日以后获得县级以上统一颁发的“零彩礼”证书的新婚夫妇加 2 分;“低彩礼”证书的加 1 分。
+来源： &lt;a href="https://pengyang.gov.cn/xwzx/tzgg/202408/t20240826_4634457.html" rel="nofollow"&gt;https://pengyang.gov.cn/xwzx/tzgg/202408/t20240826_4634457.html&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:10:08 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069872#reply0</guid></item><item><title>[程序员] gitlab 炸了?</title><link>https://www.v2ex.com/t/1069870#reply0</link><description>&lt;a href="https://gitlab.com/" rel="nofollow noopener" target="_blank"&gt;https://gitlab.com/&lt;/a&gt;&lt;br /&gt;目前打开是 503&lt;br /&gt;&lt;a href="https://pasteboard.co/Szgo9nOkLKma.png" rel="nofollow noopener" target="_blank"&gt;https://pasteboard.co/Szgo9nOkLKma.png&lt;/a&gt;&lt;br /&gt;貌似又恢复了现在</description><pubDate>Tue, 03 Sep 2024 05:07:01 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069870#reply0</guid></item><item><title>[宽带症候群] 开 DMZ 梯子被刷</title><link>https://www.v2ex.com/t/1069869#reply2</link><description>&lt;p&gt;用的 Mac Mini 跑 surge 作为家庭网关，Mac 上还跑了些 Docker 服务
+有公网 IP ，嫌端口映射麻烦作死的开了 DMZ ，结果一天刷了我几百 G 的流量
+好奇这玩意儿还有人刷？&lt;/p&gt;
+&lt;p&gt;&lt;img alt="WechatIMG17704.jpg" class="embedded_image" rel="noreferrer" src="https://s2.loli.net/2024/09/03/9jZcVSC7shaOMAB.jpg" /&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 05:04:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069869#reply2</guid></item><item><title>[C++] Vscode 的 c++插件提示问题</title><link>https://www.v2ex.com/t/1069868#reply0</link><description>代码在 IDE 里提示有错误时，已修复但还是提示修复前的错误提示。需要对项目进行编译后波浪线错误就会消失了，有时在编译前老以为自己写的还是不对。&lt;br /&gt;&lt;br /&gt;印象中只有某台电脑才这样，而且电脑 Linux 都重装过了，还是有这样的问题</description><pubDate>Tue, 03 Sep 2024 05:00:07 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069868#reply0</guid></item><item><title>[问与答] 出西数 HC550 16T 机械硬盘</title><link>https://www.v2ex.com/t/1069867#reply4</link><description>&lt;p&gt;上次发了贴，出掉了 10 块盘，原帖在这里： &lt;a href="https://www.v2ex.com/t/1069012" rel="nofollow"&gt;https://www.v2ex.com/t/1069012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;现在预计有 8 块盘可出，也是西数 HC550 16T 机械硬盘&lt;/p&gt;
+&lt;p&gt;根据通电时间做区分，两万以内的 800 ，两万五往上的 790 ，两万到两万五的 780&lt;/p&gt;
+&lt;p&gt;有需要的小伙伴+wechat:xusanduo08&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:43:37 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069867#reply4</guid></item><item><title>[分享发现] 没有预约直接去香港中银和汇丰开户，当天拿到卡</title><link>https://www.v2ex.com/t/1069866#reply0</link><description>&lt;p&gt;最近在弄出海的东西，需要一张港卡处理一些境外收款，然后就在上周去了趟香港完成了中银和汇丰开户。没有预约，没有早到，一切都相当顺利，所以来分享下供大家参考.&lt;/p&gt;
+&lt;p&gt;路线参考（这条路线比较偏不适合旅游）：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;**&lt;code&gt;number&lt;/code&gt;**：默认单位为 &lt;code&gt;px&lt;/code&gt;。&lt;/li&gt;
-&lt;li&gt;**&lt;code&gt;string&lt;/code&gt;**：表达式计算。支持（&lt;code&gt;+&lt;/code&gt;, &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;/&lt;/code&gt;）数学计算，只支持 &lt;code&gt;%&lt;/code&gt; 和 &lt;code&gt;px&lt;/code&gt; 两种单位。&lt;/li&gt;
+&lt;li&gt;广州出发自驾到深圳湾公园（日出剧场 5 号停车场，“美丽深圳”公众号提前 1 小时预约停车，停车便宜，走路 10 分钟到深圳湾口岸，我去的那天在修地铁要绕一点路接近 15 分钟才到）&lt;/li&gt;
+&lt;li&gt;过关取小票（通关小票保留好，会要求提供；没有港币也可以兑换一点，汇丰会要求存现金到卡里，100 港币就够了）&lt;/li&gt;
+&lt;li&gt;开通境外流量，支付宝惠出境上购买就行，移动、联通、电信都可以办理；开通 4G 本地就行，不需要漫游&lt;/li&gt;
+&lt;li&gt;通关后大巴前往天水围银座广场（这里是个小商场，中银、汇丰很近就隔着个小广场）&lt;/li&gt;
+&lt;li&gt;先办理中银接近 2 个半小时，吃饭后办理汇丰等号到拿卡大概 20 分钟（中银要求看地址证明，我提供的是招银信用卡的账单，还看了招行掌上生活的实名信息，开户理由：开港股账户）&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 例如，这里的 100% 是指容器宽度（如果是高度相关的配置 100%  就是容器的高度）
-manager.setGap('(100% - 10px) / 5');
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;限制为顶部 3 条弹幕&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 如果我们希望轨道高度为 50px
-manager.setTrackHeight('100% / 3');
-
-// 如果不设置渲染区域，轨道的高度会根据默认的 container.height / 3 得到，
-// 这可能导致轨道高度不是你想要的
-manager.setArea({
-  y: {
-    start: 0,
-    // 3 条轨道的总高度为 150px
-    end: 150,
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;限制为中间 3 条弹幕&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;manager.setTrackHeight('100% / 3');
-
-manager.setArea({
-  y: {
-    start: `50%`,
-    end: `50% + 150`,
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;限制为几条不连续的轨道&lt;/h3&gt;
-&lt;p&gt;限制为几条不连续的轨道，除了要做和连续轨道的操作之外，还需要借助 &lt;a href="https://imtaotao.github.io/danmu/document/zh/reference/manager-hooks/#hooks-willrender" rel="nofollow"&gt;&lt;strong&gt;&lt;code&gt;willRender&lt;/code&gt;&lt;/strong&gt;&lt;/a&gt; 这个钩子来实现。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 如果我们希望轨道高度为 50px ，并渲染 0 ，2 ，4 这几条轨道
-manager.setTrackHeight('100% / 6');
-
-// 设置容器的渲染区域
-manager.setArea({
-  y: {
-    start: 0,
-    // 6 条轨道的总高度为 300px
-    end: 300,
-  },
-});
-
-manager.use({
-  willRender(ref) {
-    // 高级弹幕和轨道不强相关，没有 trackIndex 这个属性
-    if (ref.trackIndex === null) return ref;
-
-    // 如果为 1 ，3 ，5 这几条轨道就阻止渲染，并重新添加等待下次渲染
-    if (ref.trackIndex % 2 === 1) {
-      ref.prevent = true;
-      manager.unshift(ref.danmaku);
-    }
-    return ref;
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;自定义渲染&lt;/h2&gt;
-&lt;p&gt;弹幕和容器都允许自定义的渲染样式，你可以很方便的做到。&lt;/p&gt;
-&lt;h3&gt;自定义弹幕的样式&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;1. 通过 &lt;code&gt;manager.setStyle&lt;/code&gt; 来设置&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import { create } from 'danmu';
-
-// 需要添加的样式
-const styles = {
-  color: 'red',
-  fontSize: '15px',
-  // .
-};
-
-const manager = create();
-
-// 后续渲染的弹幕和当前已经渲染的弹幕会设置上这些样式。
-for (const key in styles) {
-  manager.setStyle(key, styles[key]);
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;2. 通过 &lt;code&gt;danamaku.setStyle&lt;/code&gt; 来设置&lt;/strong&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import { create } from 'danmu';
-
-// 需要添加的样式
-const styles = {
-  color: 'red',
-  fontSize: '15px',
-  // .
-};
-
-// 初始化的时候添加钩子处理，这样当有新的弹幕渲染时会自动添加上这些样式
-const manager = create({
-  plugin: {
-    $moveStart(danmaku) {
-      for (const key in styles) {
-        danmaku.setStyle(key, styles[key]);
-      }
-      // 你也可以在这里给弹幕 DOM 添加 className
-      danmaku.node.classList.add('className');
-    },
-  },
-});
-
-// 对当前正在渲染的弹幕添加样式
-manager.asyncEach((danmaku) =&amp;gt; {
-  for (const key in styles) {
-    danmaku.setStyle(key, styles[key]);
-  }
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;自定义容器样式&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import { create } from 'danmu';
-
-// 需要添加的样式
-const styles = {
-  background: 'red',
-  // .
-};
-
-const manager = create({
-  plugin: {
-    // 你可以在初始化的时候添加钩子处理
-    init(manager) {
-      for (const key in styles) {
-        manager.container.setStyle(key, styles[key]);
-      }
-      // 你也可以在这里给容器 DOM 添加 className
-      manager.container.node.classList.add('className');
-    },
-  },
-});
-
-// 或者直接调用 api
-for (const key in styles) {
-  manager.container.setStyle(key, styles[key]);
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;高级弹幕的示例&lt;/h2&gt;
-&lt;p&gt;本章节将介绍如何将弹幕固定在某一位置，以 &lt;strong&gt;&lt;code&gt;top&lt;/code&gt;&lt;/strong&gt; 和 &lt;strong&gt;&lt;code&gt;left&lt;/code&gt;&lt;/strong&gt; 这两个位置举例。由于我们需要自定义位置，所以我们需要使用高级弹幕的能力。&lt;/p&gt;
-&lt;h3&gt;将弹幕固定在顶部&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 这条弹幕将会居中距离顶部 10px 的位置悬停 5s
-manager.pushFlexibleDanmaku('弹幕内容', {
-  duration: 5000,
-  direction: 'none',
-  position(danmaku, container) {
-    return {
-      x: `50% - ${danmaku.getWidth() / 2}`,
-      y: 10, // 具体容器顶部的距离为 10px
-    };
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;固定在顶部第 2 条轨道上&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 这条弹幕将会在第二条轨道居中的位置悬停 5s
-manager.pushFlexibleDanmaku('弹幕内容', {
-  duration: 5000,
-  direction: 'none',
-  position(danmaku, container) {
-    // 渲染在第 3 条轨道中
-    const { middle } = manager.getTrackLocation(2);
-    return {
-      x: `50% - ${danmaku.getWidth() / 2}`,
-      y: middle - danmaku.getHeight() / 2,
-    };
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;将弹幕固定在左边&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;// 这条弹幕将会在容器中间距离左边 10px 的地方停留 5s
-manager.pushFlexibleDanmaku('弹幕内容', {
-  duration: 5000,
-  direction: 'none',
-  position(danmaku, container) {
-    // 渲染在第 3 条轨道中
-    const { middle } = manager.getTrackLocation(2);
-    return {
-      x: 10,
-      y: `50% - ${danmaku.getHeight() / 2}`,
-    };
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;发送带图片的弹幕&lt;/h2&gt;
-&lt;p&gt;要让弹幕里面能够携带图片，要在弹幕的节点内部添加自定义的内容，实际上不止图片，你可以往弹幕的节点里面&lt;strong&gt;添加任何的内容。&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;本章节的组件以 &lt;strong&gt;React&lt;/strong&gt; 来实现演示。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;开发弹幕组件&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;export function Danmaku({ danmaku }) {
-  return (
-    &amp;lt;div&amp;gt;
-      &amp;lt;img src="https://abc.jpg" /&amp;gt;
-      {danmaku.data}
-    &amp;lt;/div&amp;gt;
-  );
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;渲染弹幕&lt;/h3&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import ReactDOM from 'react-dom/client';
-import { create } from 'danmu';
-import { Danmaku } from './Danmaku';
-
-const manager = create&amp;lt;string&amp;gt;({
-  plugin: {
-    // 将组件渲染到弹幕的内置节点上
-    $createNode(danmaku) {
-      ReactDOM.createRoot(danmaku.node).render(&amp;lt;Danmaku danmaku={danmaku} /&amp;gt;);
-    },
-  },
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;编写一个插件&lt;/h2&gt;
-&lt;p&gt;编写一个插件是很简单的，但是借助内核暴露出来的&lt;code&gt;钩子&lt;/code&gt;和 &lt;code&gt;API&lt;/code&gt;，你可以很轻松的实现强大且定制化的需求。由于内核没有暴露出来&lt;strong&gt;根据条件来实现过滤弹幕&lt;/strong&gt;的功能，原因在于内核不知道弹幕内容的数据结构，这和业务的诉求强相关，所以我们在此通过插件来实现&lt;strong&gt;精简弹幕&lt;/strong&gt;的功能用来演示。&lt;/p&gt;
-&lt;h3&gt;编写一个插件&lt;/h3&gt;
+&lt;p&gt;其他事项：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;你编写的插件应当取一个 &lt;code&gt;name&lt;/code&gt;，以便于调试定位问题（注意不要和其他插件冲突了）。&lt;/li&gt;
-&lt;li&gt;插件可以选择性的声明一个 &lt;code&gt;version&lt;/code&gt;，这在你的插件作为独立包发到 &lt;code&gt;npm&lt;/code&gt; 上时很有用。&lt;/li&gt;
+&lt;li&gt;可以不预约，但是预约更好。我在出发前几天尝试预约每天都是满的，然后就放弃预约直接前往&lt;/li&gt;
+&lt;li&gt;地址证明要准备好，中银开户需要看，通关小票要留好&lt;/li&gt;
+&lt;li&gt;周五去的，最好工作日去，周六上午工作半天，大概率办不完&lt;/li&gt;
+&lt;li&gt;等待期间可以办理几个虚拟银行（ ZA Bank 、livi 理慧银行、天星都可以，理慧银行我没有办理成功，有个步骤需要识别身份证芯片，手机识别不了，之前办理华侨银行也识别不了护照，iphone 15 的支持还不到位，测试 iphone 11 可以识别，如果需要办理理慧银行最好准备旧手机）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;export function filter({ userIds, keywords }) {
-  return (manager) =&amp;gt; {
-    return {
-      name: 'filter-keywords-or-user',
-      version: '1.0.0', // version 字段不是必须的
-      willRender(ref) {
-        const { userId, content } = ref.danmaku.data.value;
-        console.log(ref.type); // 可以根据此字段来区分是普通弹幕还是高级弹幕
-
-        if (userIds &amp;amp;&amp;amp; userIds.includes(userId)) {
-          ref.prevent = true;
-        } else if (keywords) {
-          for (const word of keywords) {
-            if (content.includes(word)) {
-              ref.prevent = true;
-              break;
-            }
-          }
-        }
-        return ref;
-      },
-    };
-  };
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;注册插件&lt;/h3&gt;
-&lt;p&gt;你需要通过 &lt;code&gt;mananger.use()&lt;/code&gt; 来注册插件。&lt;/p&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;import { create } from 'danmu';
-
-const manager = create&amp;lt;{
-  userId: number;
-  content: string;
-}&amp;gt;();
-
-manager.use(
-  filter({
-    userIds: [1],
-    keywords: ['菜'],
-  }),
-);
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3&gt;发送弹幕&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;❌ &lt;strong&gt;会&lt;/strong&gt;被插件阻止渲染&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;manager.push({
-  userId: 1,
-  content: '',
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;❌ &lt;strong&gt;会&lt;/strong&gt;被插件阻止渲染&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;manager.push({
-  userId: 2,
-  content: '你真菜',
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;✔️ &lt;strong&gt;不会&lt;/strong&gt;被插件阻止渲染&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;manager.push({
-  userId: 2,
-  content: '',
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;✔️ &lt;strong&gt;不会&lt;/strong&gt;被插件阻止渲染&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code class="language-ts"&gt;manager.push({
-  userId: 2,
-  content: '你真棒',
-});
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2&gt;总结&lt;/h2&gt;
-&lt;p&gt;本文档只是简单介绍了下现在的部分能力，更详细的文档在官网可以查看，如果对你的业务或者学习有帮助的，&lt;a href="https://github.com/imtaotao/danmu" rel="nofollow"&gt;&lt;strong&gt;给个 star 支持一下作者&lt;/strong&gt;&lt;/a&gt;，也欢迎大家评论探讨（不止弹幕，哈哈）。&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 12:20:16 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069714#reply1</guid></item><item><title>[macOS] 微信输入法 mac 端好像无法清空个人词典</title><link>https://www.v2ex.com/t/1069713#reply1</link><description>手机端在隐私与权限里倒是有清空个人词典选项</description><pubDate>Mon, 02 Sep 2024 12:00:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069713#reply1</guid></item><item><title>[MacBook Air] 主要工作是处理 Excel 表格+聊天软件， M2 16G Air 是否够用</title><link>https://www.v2ex.com/t/1069712#reply8</link><description>想趁着这次家电补贴给家里领导换一台电脑，现在的 i7 确实烫手，她的日常工作就是聊天软件和 Excel 表格处理数据，用惯了 MAC 不想换 Windows&lt;br /&gt;想问下 M2 芯片+16G 内存，以上工作是否能够撑个 3-5 年？</description><pubDate>Mon, 02 Sep 2024 11:58:40 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069712#reply8</guid></item><item><title>[Apple] 苹果电池是真不行啊， MBP 电池提示维修</title><link>https://www.v2ex.com/t/1069711#reply9</link><description>&lt;p&gt;2022 年三月买的，马上快三年了，这电池就没撑住。
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/makaspacex/PictureZone@main/picgo/202409021952876.png" /&gt;
-&lt;img alt="" class="embedded_image" rel="noreferrer" src="https://cdn.jsdelivr.net/gh/makaspacex/PictureZone@main/picgo/202409021953348.png" /&gt;&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 11:54:56 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069711#reply9</guid></item><item><title>[酷工作] 招聘 golang 开发，游戏和区块链 [40k] 远程</title><link>https://www.v2ex.com/t/1069710#reply0</link><description>&lt;p&gt;1.负责游戏服务端、虚拟币钱包、区块链的开发工作&lt;/p&gt;
-&lt;p&gt;2.负责项目的整体框架构建&lt;/p&gt;
-&lt;p&gt;3.通过数据分析项目系统性能，对整个系统进行深度优化，提高性能和稳定性&lt;/p&gt;
-&lt;p&gt;4.有区块链应用、Telegram 机器人、棋牌游戏服务端开发经验者优先&lt;/p&gt;
-&lt;p&gt;有意者可以联系发简历到邮箱： &lt;a href="mailto:luluyaya@proton.me"&gt;luluyaya@proton.me&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;简历留下你的 Telegram 如果合适会有专人联系你的&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 11:54:53 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069710#reply0</guid></item><item><title>[游戏开发] 请教: 3D 游戏中的各种因碰撞而导致的角色/载具抖动, 抽搐甚至飞天是如何造成的?</title><link>https://www.v2ex.com/t/1069708#reply5</link><description>&lt;p&gt;请做过游戏的大佬们帮我答疑解惑.&lt;/p&gt;
-&lt;p&gt;例如 PUBG, GTA 这类 3D 游戏, 经常会遇到一些情况: 比如角色或物品被压住, 如果是按真实的世界, 不管是尸体还是什么被压住就是被压住, 不会无限反弹. 两个物品之间的受力最终也会达到平衡而静止. 但是在一些 3D 游戏里就经常会看到角色或物品在与其他物品接触的时候会不断的抖动, 甚至抽搐变形. 严重的甚至可能会造成飞天 (例如鲁大能通过层叠车辆并炸飞导致了远超出直接炸飞所产生的效果)&lt;/p&gt;
-&lt;p&gt;诸位大佬能否从技术的角度说说这种情况是如何造成的? 什么原理?&lt;/p&gt;</description><pubDate>Mon, 02 Sep 2024 11:46:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069708#reply5</guid></item><item><title>[问与答] 制作别人 APP 的第三方客户端需要哪些知识？</title><link>https://www.v2ex.com/t/1069707#reply2</link><description>某些 APP 的官方版太难用，巨卡务必，&lt;br /&gt;&lt;br /&gt;如果想做一个它的第三方客户端，瘦身版，&lt;br /&gt;&lt;br /&gt;原封不动的使用官方 app 的通讯接口，&lt;br /&gt;&lt;br /&gt;只是想要界面和交互上自己重新设计，&lt;br /&gt;&lt;br /&gt;这需要学习哪些知识？&lt;br /&gt;&lt;br /&gt;需要怎样的学习路线图呢？</description><pubDate>Mon, 02 Sep 2024 11:42:22 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069707#reply2</guid></item><item><title>[浏览器] 为什么现在 360 极速浏览器不支持 Adblock 了</title><link>https://www.v2ex.com/t/1069706#reply2</link><description>我重装完去 chrome 应用商店下载，直接提示不兼容</description><pubDate>Mon, 02 Sep 2024 11:42:19 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069706#reply2</guid></item></channel></rss>
+&lt;p&gt;完整内容可以看我写的这篇文章：&lt;a href="https://chuhaime.com/shoukuan/open-hk-bank-account/" rel="nofollow"&gt;无预约香港中行和汇丰开户攻略：内地用户怎么拥有港卡？&lt;/a&gt;&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:40:45 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069866#reply0</guid></item><item><title>[问与答] 家庭备份照片的方案？</title><link>https://www.v2ex.com/t/1069865#reply3</link><description>有了小孩之后我和媳妇手机里多了很多照片，想找一个简单便捷的方式备份。需求：&lt;br /&gt;&lt;br /&gt;1 ，想通过局域网备份到移动硬盘里；&lt;br /&gt;&lt;br /&gt;2 ，不要太复杂，最好有个 app 直接可以局域网备份到电脑上；&lt;br /&gt;&lt;br /&gt;3 ，最好能记录哪些照片备份过了，增量备份；&lt;br /&gt;&lt;br /&gt;4 ，不要太贵，之前有人给我推荐 NAS ，我看至少小两千，我觉得就备份个照片没必要吧？而且我也不想一直开机状态，最好就是我想看照片备份照片，我把机器打开就能手机上看和备份，不用的时候直接关机就好&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;我目前倾向于找个 app 备份到电脑上，有推荐的应用吗？最好清爽免费（苹果手机，Windows 电脑）</description><pubDate>Tue, 03 Sep 2024 04:37:59 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069865#reply3</guid></item><item><title>[问与答] 9 月有没有合适的流量卡推荐？坐标杭州</title><link>https://www.v2ex.com/t/1069863#reply1</link><description>&lt;p&gt;月费能接受 19-29 以内的，流量信号希望好一点的，作为副卡使用。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:21:04 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069863#reply1</guid></item><item><title>[分享发现] 独立设计师的近期案例+代表案例分享，开放企业合作</title><link>https://www.v2ex.com/t/1069862#reply2</link><description>&lt;p&gt;Hi, 大家好，我是独立设计师 Echo ，最近的项目接近尾声，整理一次案例和分享，并开放企业级合作，当然也欢迎独立开发者项目或从 0-1 构建产品的朋友们。&lt;/p&gt;
+&lt;p&gt;我的合作范围：B 端后台设计、Web 端产品全链路设计、官网视觉设计、APP/Mini program 、Branding 、Logo 、平面设计&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;近期设计案例：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[ Listening practice ] 小型 Web 产品 UI UX （带卡片动效）&lt;/p&gt;
+&lt;p&gt;&lt;img alt="17-1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/c483e897-3684-4586-b033-cc78e6349ada.png" /&gt;&lt;/p&gt;
+&lt;p&gt;另外有 Branding 、mini-program 最新设计案例因保密原因可私下展示&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;其他代表性的设计案例：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="7-1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/ec5108e2-4343-46fd-ab14-8da5f4f1b85f.png" /&gt;
+&lt;img alt="7-3.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/9ba24ab8-0b9d-4de7-984c-e5f4e21bd9fa.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;除了忙项目，我做的开源设计（一部分）：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="HR 02 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/7128abb9-d9c9-4854-8245-63b08708bc03.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Education 01 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/d8d3b7f3-56d5-4994-910d-d6a8b9dfa650.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;也会做自媒体分享 Design Critique：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Section 1.png" class="embedded_image" rel="noreferrer" src="https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/031e124e-3731-4be4-a50e-56dc03769b26.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;最后我的网站： &lt;a href="https://echozhang.framer.website/" rel="nofollow"&gt;https://echozhang.framer.website/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;联系方式： &lt;a href="mailto:echo961825543@gmail.com"&gt;echo961825543@gmail.com&lt;/a&gt; 或见个人网站
+谢谢，欢迎联系。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:17:30 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069862#reply2</guid></item><item><title>[程序员] 有没有 acme.sh 的替代品？</title><link>https://www.v2ex.com/t/1069861#reply3</link><description>&lt;p&gt;我寻找替代品的原因如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://acme.sh" rel="nofollow"&gt;acme.sh&lt;/a&gt; 的 docker hook 无法向多个 container 部署证书。&lt;/li&gt;
+&lt;li&gt;开发者维护的积极性看起来比较低了，已经堆积了很多个 issue 与 PR 。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望替代品具有以下功能：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;像 &lt;a href="http://acme.sh" rel="nofollow"&gt;acme.sh&lt;/a&gt; 一样，可以运行在 Docker 中，体积与占用要低，申请证书后可以自动续签与部署。&lt;/li&gt;
+&lt;li&gt;可以向多个 docker contaier 部署证书。&lt;/li&gt;
+&lt;li&gt;社区最好还很活跃。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如果没有替代品的话，我只能用挂载证书的方式来解决这个问题了。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:14:28 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069861#reply3</guid></item><item><title>[Go 编程语言] go 有类似 Python 的 mitmproxy 将 WebSocket 消息注入正在运行的连接的包吗</title><link>https://www.v2ex.com/t/1069860#reply0</link><description>&lt;p&gt;找了好几天都没找到&lt;/p&gt;
+&lt;p&gt;就是可以拿到浏览器已打开网页的 websocket 连接，然后可以读取消息，并自己主动发消息&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:13:52 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069860#reply0</guid></item><item><title>[问与答] 北京，广东都有政府消费券，福州会有吗？想换冰箱要等吗？</title><link>https://www.v2ex.com/t/1069859#reply0</link><description>&lt;p&gt;以旧换新，等消费券吗？&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:13:00 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069859#reply0</guid></item><item><title>[职场话题] 除了 Boss 海投之外，还有什么稍微靠谱点的找工作平台吗</title><link>https://www.v2ex.com/t/1069857#reply3</link><description>&lt;p&gt;最近项目被砍人被裁了，又得去找一份工作了。&lt;/p&gt;
+&lt;p&gt;但上了 Boss 之后发现，Boss 上基本都是外包在主动找人，如果是自己看岗位再投的话也会出现不匹配的情况……比如说今天刚面了一个前端开发，本来看 JD 以为是传统的前端，结果一面试说是要做 React Native……&lt;/p&gt;
+&lt;p&gt;而且 Boss 上已读不回或者直接不读的 HR 好多啊，感觉投 100 份差不多才有 10 份回复。&lt;/p&gt;
+&lt;p&gt;还有什么比较好的平台可以尝试投递吗？ boss 上感觉信噪比太低了。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:01:29 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069857#reply3</guid></item><item><title>[问与答] liunx 的视频、图片、音乐软件有推荐的不？</title><link>https://www.v2ex.com/t/1069856#reply1</link><description>&lt;p&gt;大家在 linux 里的多媒体软件都是什么，有推荐的没。&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 04:00:15 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069856#reply1</guid></item><item><title>[职场话题] 公司发不出工资，裁员，降薪，倒闭已经是普遍现象了</title><link>https://www.v2ex.com/t/1069855#reply3</link><description>底层屁民怎么活？润也润不了，即使走线了也没身份，又不会 English. 悲哀啊</description><pubDate>Tue, 03 Sep 2024 03:57:49 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069855#reply3</guid></item><item><title>[程序员] 为什么所有的网站都喜欢搞月付订阅制呢</title><link>https://www.v2ex.com/t/1069853#reply7</link><description>对于一些不常用的网站，可能偶尔用一两次就能解决需求的，用户肯定是不愿意月付的，这种情况下按使用量计费的话，用户应该会更愿意付款吧？改成按使用量计费很影响收入吗，收入规模会降很多吗，不太懂这个有没有老哥懂的可以讲讲嘛，谢谢各位。如果各位自己做一个小网站，解决一些小痛点的，会做成订阅制还是按量计费呢</description><pubDate>Tue, 03 Sep 2024 03:50:10 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069853#reply7</guid></item><item><title>[程序员] 请问是否有 css 样式的可视化编辑器选择器，求推荐</title><link>https://www.v2ex.com/t/1069852#reply4</link><description>&lt;h2&gt;背景&lt;/h2&gt;
+&lt;p&gt;需要在 web 端，让用户配置元素的 css 样式，初步想法是，能够配置基础的样式，比如定位，布局，尺寸，间距，边框，圆角，背景色...&lt;/p&gt;
+&lt;p&gt;目前的做法是使用 monaco-editor 让用户直接通过代码的形式编辑样式,但这样仅仅对开发者友好，对普通用户不友好&lt;/p&gt;
+&lt;p&gt;请问是否有好的方案推荐，或者现成的开源可视化组件&lt;/p&gt;</description><pubDate>Tue, 03 Sep 2024 03:44:51 GMT</pubDate><guid isPermaLink="true">https://www.v2ex.com/t/1069852#reply4</guid></item></channel></rss>
